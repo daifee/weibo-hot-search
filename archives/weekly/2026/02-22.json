@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771823759430,
+  "endTime": 1771828930291,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1592010,
-      "num": 136451,
+      "num": 160890,
       "word": "曝厚本被不让江山除名",
       "onboard_time": 1771813520,
       "rank": 20,
@@ -113,6 +113,14 @@
       "onboard_time": 1771812139,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 979002,
+      "num": 597004,
+      "word": "史上最贵iPhone要来了",
+      "onboard_time": 1771824080,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 905251,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 677814,
-      "num": 493065,
+      "num": 550041,
       "word": "杨幂 这么来历不明的二维码也要扫吗",
       "onboard_time": 1771822460,
       "rank": 3,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 676543,
-      "num": 135799,
+      "num": 159421,
       "word": "陈妍希说林心如女儿长的太好看了",
       "onboard_time": 1771805419,
       "rank": 21,
@@ -443,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431723,
+      "num": 186906,
+      "word": "韩国偶遇白鹿曾舜晞逛街",
+      "onboard_time": 1771827799,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428331,
       "num": 428331,
       "word": "泰国官方通报清迈72只老虎死亡",
@@ -456,6 +472,14 @@
       "word": "徐梦桃夺冠当天收到1600多条信息",
       "onboard_time": 1771815141,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 417922,
+      "num": 417922,
+      "word": "谷爱凌说我不退役我才22岁",
+      "onboard_time": 1771827319,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -521,6 +545,14 @@
       "onboard_time": 1771723460,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387751,
+      "num": 185495,
+      "word": "周洁琼不参与I.O.I回归",
+      "onboard_time": 1771824800,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 384016,
@@ -683,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333915,
+      "num": 333915,
+      "word": "父母托关系找的工作应该去吗",
+      "onboard_time": 1771822160,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 328954,
       "num": 328954,
       "word": "还原妈祖巡游换童争议全过程",
@@ -760,6 +800,14 @@
       "word": "刘涛回应妈祖照被设为屏保",
       "onboard_time": 1771673661,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301787,
+      "num": 160607,
+      "word": "董璇张维伊带小酒窝抓螃蟹",
+      "onboard_time": 1771825279,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1011,6 +1059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244299,
+      "num": 244299,
+      "word": "第一个吃甘蔗比吃螃蟹更厉害",
+      "onboard_time": 1771821740,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243755,
       "num": 553627,
       "word": "律师解读15岁女孩被当街暴打事件",
@@ -1259,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200352,
+      "num": 157855,
+      "word": "陈赫给女儿的红包里是试卷",
+      "onboard_time": 1771823779,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199830,
       "num": 199830,
       "word": "苏翊鸣手持五星红旗入场",
@@ -1291,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194833,
+      "num": 194833,
+      "word": "谷爱凌商业价值排冬奥运动员第一",
+      "onboard_time": 1771822460,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193219,
       "num": 193219,
       "word": "陈飞宇孙千新剧首播口碑",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1771813279,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191490,
+      "num": 156844,
+      "word": "芒果又来了一部口碑年代剧",
+      "onboard_time": 1771827860,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 191459,
@@ -1409,6 +1489,14 @@
       "onboard_time": 1771736781,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 183454,
+      "num": 183454,
+      "word": "谷爱凌脑回路",
+      "onboard_time": 1771822999,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 182733,
@@ -1523,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174497,
+      "num": 174497,
+      "word": "慕慕昭昭CP",
+      "onboard_time": 1771825402,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173032,
       "num": 173032,
       "word": "骏良",
@@ -1545,6 +1641,14 @@
       "onboard_time": 1771771284,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170225,
+      "num": 170225,
+      "word": "孟子义将门独后首次出妆",
+      "onboard_time": 1771828280,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 169526,
@@ -1609,6 +1713,30 @@
       "onboard_time": 1771808479,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156775,
+      "num": 156775,
+      "word": "陈妍希杨丞琳李荣浩潘玮柏过年聚会",
+      "onboard_time": 1771827979,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156402,
+      "num": 156402,
+      "word": "吕小雨一个月暴瘦20斤",
+      "onboard_time": 1771825279,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156396,
+      "num": 158909,
+      "word": "蔡文静体制女友变微商女王",
+      "onboard_time": 1771828100,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 156252,
@@ -1851,11 +1979,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 137104,
-      "num": 137104,
-      "word": "谷爱凌商业价值排冬奥运动员第一",
-      "onboard_time": 1771822460,
-      "rank": 36,
+      "raw_hot": 137009,
+      "num": 156452,
+      "word": "陈俊菘15比13张本智和",
+      "onboard_time": 1771827920,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -2019,14 +2147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128818,
-      "num": 117014,
-      "word": "谷爱凌脑回路",
-      "onboard_time": 1771822999,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127573,
       "num": 110922,
       "word": "每天早睡1小时身体就不一样",
@@ -2049,6 +2169,14 @@
       "onboard_time": 1771748420,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125403,
+      "num": 159960,
+      "word": "墨西哥军方击毙大毒枭",
+      "onboard_time": 1771827560,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 124751,
@@ -2211,6 +2339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115757,
+      "num": 158651,
+      "word": "墨西哥",
+      "onboard_time": 1771827260,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115450,
       "num": 115450,
       "word": "杨幂说白帆插足别人婚姻是错误的",
@@ -2257,6 +2393,14 @@
       "onboard_time": 1771769363,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112440,
+      "num": 112440,
+      "word": "张本智和穿错球衣",
+      "onboard_time": 1771828161,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 112238,
@@ -2321,14 +2465,6 @@
       "onboard_time": 1771770805,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109810,
-      "num": 109810,
-      "word": "第一个吃甘蔗比吃螃蟹更厉害",
-      "onboard_time": 1771821740,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 109393,
@@ -2499,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103819,
+      "num": 103819,
+      "word": "中国最大高速收费站站长发声",
+      "onboard_time": 1771826720,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103432,
       "num": 103432,
       "word": "虞书欣粉毛cos妆造舞台",
@@ -2545,6 +2689,14 @@
       "onboard_time": 1771685663,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100639,
+      "num": 100639,
+      "word": "经常吃太饱身体会发生什么变化",
+      "onboard_time": 1771825822,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100475,
@@ -2603,6 +2755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94264,
+      "num": 94264,
+      "word": "沈梦辰杜海涛同游德国",
+      "onboard_time": 1771825581,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93969,
       "num": 93969,
       "word": "王鹤棣问敏感有鹿晗纯享版吗",
@@ -2625,6 +2785,14 @@
       "onboard_time": 1771773083,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 93465,
+      "num": 92736,
+      "word": "悉尼偶遇张柏芝",
+      "onboard_time": 1771828760,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 93197,
@@ -2723,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89446,
+      "num": 89446,
+      "word": "张凌赫张婧仪或演刺棠",
+      "onboard_time": 1771828641,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89241,
       "num": 89241,
       "word": "将门独后原著没有女主穿红衣骑马设定",
@@ -2771,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86916,
+      "num": 86916,
+      "word": "T1让LCK黄牛破防",
+      "onboard_time": 1771823721,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86729,
       "num": 86729,
       "word": "一个人身体垮掉是从吃撑开始",
@@ -2803,14 +2987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85482,
-      "num": 85482,
-      "word": "父母托关系找的工作应该去吗",
-      "onboard_time": 1771822160,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 85288,
       "num": 85288,
       "word": "官方称炫富男子系单位聘用人员",
@@ -2835,6 +3011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 84813,
+      "num": 98967,
+      "word": "马思唯终于舍得带小米去贵地方了",
+      "onboard_time": 1771828341,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84745,
       "num": 93497,
       "word": "高敏感人一生的主线任务",
@@ -2857,6 +3041,14 @@
       "onboard_time": 1771692918,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84290,
+      "num": 84290,
+      "word": "叶祖新合照 想过了官宣没想到是亲戚",
+      "onboard_time": 1771828879,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 83082,
@@ -2889,6 +3081,14 @@
       "onboard_time": 1771754121,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81683,
+      "num": 81683,
+      "word": "不让江山 男女主没有感情线",
+      "onboard_time": 1771824140,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 81569,
@@ -2929,6 +3129,14 @@
       "onboard_time": 1771814961,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81183,
+      "num": 97480,
+      "word": "男子躲厕所过个瘾致高铁晚点",
+      "onboard_time": 1771828161,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80746,
@@ -3257,14 +3465,6 @@
       "onboard_time": 1771822941,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 70359,
-      "num": 70359,
-      "word": "T1让LCK黄牛破防",
-      "onboard_time": 1771823721,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 70132,
@@ -3624,6 +3824,14 @@
       "word": "谷爱凌说把胜利当作对奶奶的告慰",
       "onboard_time": 1771780218,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55398,
+      "num": 161476,
+      "word": "谷爱凌马上牛好灵",
+      "onboard_time": 1771825699,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -3987,6 +4195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28651,
+      "num": 188473,
+      "word": "新疆尉犁地震暂无人员伤亡",
+      "onboard_time": 1771827920,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 28355,
       "num": 76489,
       "word": "男子相亲节目上炫富其单位回应",
@@ -4027,6 +4243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25162,
+      "num": 97875,
+      "word": "黄友政3比1塔卡",
+      "onboard_time": 1771827500,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24525,
       "num": 248853,
       "word": "中国冬奥军团刷新境外参赛历史最佳成绩",
@@ -4036,7 +4260,7 @@
     },
     {
       "raw_hot": 24331,
-      "num": 118180,
+      "num": 615158,
       "word": "大年初七新的旅程开启",
       "onboard_time": 1771816701,
       "rank": 25,
@@ -4104,6 +4328,14 @@
       "word": "春节游万荣坐出租打折却要司机贴钱",
       "onboard_time": 1771773623,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21635,
+      "num": 157709,
+      "word": "节后不想上班其实是多巴胺戒断",
+      "onboard_time": 1771828700,
+      "rank": 27,
       "category": "民生新闻"
     },
     {

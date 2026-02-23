@@ -1,0 +1,410 @@
+{
+  "runTime": 1771828930291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 576948,
+        "num": 1092311,
+        "word": "西安大雪",
+        "onboard_time": 1771821381,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299219,
+        "num": 797926,
+        "word": "谷爱凌晒金牌打脸外媒",
+        "onboard_time": 1771818199,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21850,
+        "num": 615158,
+        "word": "大年初七新的旅程开启",
+        "onboard_time": 1771816701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 979002,
+        "num": 597004,
+        "word": "史上最贵iPhone要来了",
+        "onboard_time": 1771824080,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 550041,
+        "num": 550041,
+        "word": "杨幂 这么来历不明的二维码也要扫吗",
+        "onboard_time": 1771822460,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 417922,
+        "num": 417922,
+        "word": "谷爱凌说我不退役我才22岁",
+        "onboard_time": 1771827319,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333915,
+        "num": 333915,
+        "word": "父母托关系找的工作应该去吗",
+        "onboard_time": 1771822160,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244299,
+        "num": 244299,
+        "word": "第一个吃甘蔗比吃螃蟹更厉害",
+        "onboard_time": 1771821740,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194833,
+        "num": 194833,
+        "word": "谷爱凌商业价值排冬奥运动员第一",
+        "onboard_time": 1771822460,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28651,
+        "num": 188473,
+        "word": "新疆尉犁地震暂无人员伤亡",
+        "onboard_time": 1771827920,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 431723,
+        "num": 186906,
+        "word": "韩国偶遇白鹿曾舜晞逛街",
+        "onboard_time": 1771827799,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387751,
+        "num": 185495,
+        "word": "周洁琼不参与I.O.I回归",
+        "onboard_time": 1771824800,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183454,
+        "num": 183454,
+        "word": "谷爱凌脑回路",
+        "onboard_time": 1771822999,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264590,
+        "num": 183327,
+        "word": "神仙肉",
+        "onboard_time": 1771812139,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230723,
+        "num": 182248,
+        "word": "四川女婿黄子韬在家也得穿省服",
+        "onboard_time": 1771812320,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180966,
+        "num": 180966,
+        "word": "大理4公里拖车费1400元",
+        "onboard_time": 1771821800,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174497,
+        "num": 174497,
+        "word": "慕慕昭昭CP",
+        "onboard_time": 1771825402,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170225,
+        "num": 170225,
+        "word": "孟子义将门独后首次出妆",
+        "onboard_time": 1771828280,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161663,
+        "num": 161663,
+        "word": "离婚发现女儿非亲生判还抚养费",
+        "onboard_time": 1771819220,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55398,
+        "num": 161476,
+        "word": "谷爱凌马上牛好灵",
+        "onboard_time": 1771825699,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394313,
+        "num": 160890,
+        "word": "曝厚本被不让江山除名",
+        "onboard_time": 1771813520,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301787,
+        "num": 160607,
+        "word": "董璇张维伊带小酒窝抓螃蟹",
+        "onboard_time": 1771825279,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125403,
+        "num": 159960,
+        "word": "墨西哥军方击毙大毒枭",
+        "onboard_time": 1771827560,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 224087,
+        "num": 159421,
+        "word": "陈妍希说林心如女儿长的太好看了",
+        "onboard_time": 1771805419,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156396,
+        "num": 158909,
+        "word": "蔡文静体制女友变微商女王",
+        "onboard_time": 1771828100,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115757,
+        "num": 158651,
+        "word": "墨西哥",
+        "onboard_time": 1771827260,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200352,
+        "num": 157855,
+        "word": "陈赫给女儿的红包里是试卷",
+        "onboard_time": 1771823779,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21635,
+        "num": 157709,
+        "word": "节后不想上班其实是多巴胺戒断",
+        "onboard_time": 1771828700,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191490,
+        "num": 156844,
+        "word": "芒果又来了一部口碑年代剧",
+        "onboard_time": 1771827860,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156775,
+        "num": 156775,
+        "word": "陈妍希杨丞琳李荣浩潘玮柏过年聚会",
+        "onboard_time": 1771827979,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137009,
+        "num": 156452,
+        "word": "陈俊菘15比13张本智和",
+        "onboard_time": 1771827920,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156402,
+        "num": 156402,
+        "word": "吕小雨一个月暴瘦20斤",
+        "onboard_time": 1771825279,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143283,
+        "num": 143283,
+        "word": "陈丽君自曝把命都交代出去",
+        "onboard_time": 1771818440,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112440,
+        "num": 112440,
+        "word": "张本智和穿错球衣",
+        "onboard_time": 1771828161,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111015,
+        "num": 111015,
+        "word": "大侦探",
+        "onboard_time": 1771822398,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103819,
+        "num": 103819,
+        "word": "中国最大高速收费站站长发声",
+        "onboard_time": 1771826720,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100639,
+        "num": 100639,
+        "word": "经常吃太饱身体会发生什么变化",
+        "onboard_time": 1771825822,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84813,
+        "num": 98967,
+        "word": "马思唯终于舍得带小米去贵地方了",
+        "onboard_time": 1771828341,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25162,
+        "num": 97875,
+        "word": "黄友政3比1塔卡",
+        "onboard_time": 1771827500,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81183,
+        "num": 97480,
+        "word": "男子躲厕所过个瘾致高铁晚点",
+        "onboard_time": 1771828161,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97479,
+        "num": 97479,
+        "word": "金裕贞短发造型",
+        "onboard_time": 1771820720,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94264,
+        "num": 94264,
+        "word": "沈梦辰杜海涛同游德国",
+        "onboard_time": 1771825581,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92990,
+        "num": 92990,
+        "word": "尼泊尔巴士坠河致18死20余伤",
+        "onboard_time": 1771821320,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93465,
+        "num": 92736,
+        "word": "悉尼偶遇张柏芝",
+        "onboard_time": 1771828760,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91896,
+        "num": 91896,
+        "word": "墨西哥毒枭身亡引发报复行动",
+        "onboard_time": 1771814242,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89446,
+        "num": 89446,
+        "word": "张凌赫张婧仪或演刺棠",
+        "onboard_time": 1771828641,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86916,
+        "num": 86916,
+        "word": "T1让LCK黄牛破防",
+        "onboard_time": 1771823721,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84290,
+        "num": 84290,
+        "word": "叶祖新合照 想过了官宣没想到是亲戚",
+        "onboard_time": 1771828879,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83496,
+        "num": 83496,
+        "word": "徐梦桃夺冠当天收到1600多条信息",
+        "onboard_time": 1771815141,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81683,
+        "num": 81683,
+        "word": "不让江山 男女主没有感情线",
+        "onboard_time": 1771824140,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系社区#"
+    }
+  }
+}
