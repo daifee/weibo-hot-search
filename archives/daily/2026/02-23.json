@@ -1,6 +1,6 @@
 {
   "startTime": 1771778477494,
-  "endTime": 1771828930291,
+  "endTime": 1771830961177,
   "band_list": [
     {
       "raw_hot": 1592010,
@@ -59,6 +59,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 718049,
+      "num": 145080,
+      "word": "叶祖新合照 想过了官宣没想到是亲戚",
+      "onboard_time": 1771828879,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 696154,
+      "num": 1111384,
+      "word": "谷爱凌说我不退役我才22岁",
+      "onboard_time": 1771827319,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 677814,
       "num": 550041,
       "word": "杨幂 这么来历不明的二维码也要扫吗",
@@ -91,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 576412,
+      "num": 186906,
+      "word": "韩国偶遇白鹿曾舜晞逛街",
+      "onboard_time": 1771827799,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518828,
       "num": 518828,
       "word": "墨西哥毒枭身亡引发报复行动",
@@ -115,27 +139,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 431723,
-      "num": 186906,
-      "word": "韩国偶遇白鹿曾舜晞逛街",
-      "onboard_time": 1771827799,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 427307,
       "num": 427307,
       "word": "徐梦桃夺冠当天收到1600多条信息",
       "onboard_time": 1771815141,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 417922,
-      "num": 417922,
-      "word": "谷爱凌说我不退役我才22岁",
-      "onboard_time": 1771827319,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -161,6 +169,14 @@
       "onboard_time": 1771819220,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354026,
+      "num": 354026,
+      "word": "男子躲厕所过个瘾致高铁晚点",
+      "onboard_time": 1771828161,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 345583,
@@ -201,6 +217,14 @@
       "onboard_time": 1771822160,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313504,
+      "num": 313504,
+      "word": "孟子义将门独后首次出妆",
+      "onboard_time": 1771828280,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 313234,
@@ -283,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250148,
+      "num": 143975,
+      "word": "疑似杨洋回家养伤",
+      "onboard_time": 1771830801,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244299,
       "num": 244299,
       "word": "第一个吃甘蔗比吃螃蟹更厉害",
@@ -363,6 +395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 200670,
+      "num": 200670,
+      "word": "高速堵车小孩举看到的都发财牌子",
+      "onboard_time": 1771829120,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200352,
       "num": 157855,
       "word": "陈赫给女儿的红包里是试卷",
@@ -377,6 +417,14 @@
       "onboard_time": 1771790835,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199132,
+      "num": 156775,
+      "word": "陈妍希杨丞琳李荣浩潘玮柏过年聚会",
+      "onboard_time": 1771827979,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 195735,
@@ -491,20 +539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171723,
+      "num": 123867,
+      "word": "李柯以给短剧上强度了",
+      "onboard_time": 1771829959,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171580,
       "num": 171580,
       "word": "父亲遇3岁儿子坠楼下意识伸手接",
       "onboard_time": 1771768106,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170225,
-      "num": 170225,
-      "word": "孟子义将门独后首次出妆",
-      "onboard_time": 1771828280,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 165133,
@@ -523,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162015,
+      "num": 120138,
+      "word": "马思唯终于舍得带小米去贵地方了",
+      "onboard_time": 1771828341,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159695,
       "num": 134036,
       "word": "金裕贞短发造型",
@@ -536,14 +592,6 @@
       "word": "那艺娜账号被禁止关注",
       "onboard_time": 1771808479,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 156775,
-      "num": 156775,
-      "word": "陈妍希杨丞琳李荣浩潘玮柏过年聚会",
-      "onboard_time": 1771827979,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -571,12 +619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145328,
+      "num": 145328,
+      "word": "星河入梦 春节档遗珠",
+      "onboard_time": 1771829480,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144858,
       "num": 144858,
       "word": "苏新皓给妈妈换了一部新手机",
       "onboard_time": 1771805538,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144482,
+      "num": 144482,
+      "word": "过年后的银行ATM机",
+      "onboard_time": 1771829480,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 144230,
@@ -675,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123746,
+      "num": 120121,
+      "word": "初八上班的我就这样",
+      "onboard_time": 1771830259,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123167,
       "num": 123167,
       "word": "杨瀚森11分12篮板",
@@ -691,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122116,
+      "num": 118449,
+      "word": "吴京 人老了干什么都心酸",
+      "onboard_time": 1771829061,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121390,
       "num": 178915,
       "word": "4千元相机没舍得买5年后涨至9千",
@@ -705,6 +785,14 @@
       "onboard_time": 1771814600,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119650,
+      "num": 119650,
+      "word": "张本智和穿错球衣",
+      "onboard_time": 1771828161,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 119290,
@@ -737,14 +825,6 @@
       "onboard_time": 1771765403,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112440,
-      "num": 112440,
-      "word": "张本智和穿错球衣",
-      "onboard_time": 1771828161,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 112238,
@@ -787,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104025,
+      "num": 117432,
+      "word": "陈俊菘2比3张本智和",
+      "onboard_time": 1771829599,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103819,
       "num": 103819,
       "word": "中国最大高速收费站站长发声",
@@ -825,6 +913,14 @@
       "onboard_time": 1771814242,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97135,
+      "num": 97135,
+      "word": "公职身份从来不是炫富资本",
+      "onboard_time": 1771830201,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95277,
@@ -883,12 +979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92197,
+      "num": 92197,
+      "word": "熊猫紧抱游客手机不让饲养员取回",
+      "onboard_time": 1771830080,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92138,
       "num": 92138,
       "word": "白鹿曾舜晞梁永棋陈鹤一韩国逛街",
       "onboard_time": 1771771284,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92064,
+      "num": 92064,
+      "word": "初一家里有43人过完年只剩老人在家",
+      "onboard_time": 1771830559,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90983,
@@ -915,6 +1027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87845,
+      "num": 87845,
+      "word": "第一次见神经烟花",
+      "onboard_time": 1771830801,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87753,
       "num": 87753,
       "word": "陈飞宇孙千新剧热度登顶TOP1",
@@ -939,19 +1059,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 84813,
-      "num": 98967,
-      "word": "马思唯终于舍得带小米去贵地方了",
-      "onboard_time": 1771828341,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 84290,
-      "num": 84290,
-      "word": "叶祖新合照 想过了官宣没想到是亲戚",
-      "onboard_time": 1771828879,
-      "rank": 47,
+      "raw_hot": 84588,
+      "num": 84588,
+      "word": "张凌赫遗传是门学问",
+      "onboard_time": 1771829419,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1001,14 +1113,6 @@
       "onboard_time": 1771814961,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 81183,
-      "num": 97480,
-      "word": "男子躲厕所过个瘾致高铁晚点",
-      "onboard_time": 1771828161,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80233,
@@ -1107,6 +1211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71375,
+      "num": 100940,
+      "word": "章若楠走路粉",
+      "onboard_time": 1771830621,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70835,
       "num": 70835,
       "word": "徐梦桃为传好运给王心迪忍着没洗澡",
@@ -1187,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66648,
+      "num": 143047,
+      "word": "宁忠岩英文专访",
+      "onboard_time": 1771830500,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66430,
       "num": 66430,
       "word": "吴京你也需要被保护吗",
@@ -1217,6 +1337,14 @@
       "onboard_time": 1771814480,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65180,
+      "num": 99215,
+      "word": "俄使馆在首尔挂巨幅标语并拒绝撤下",
+      "onboard_time": 1771830380,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64233,
@@ -1483,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38557,
+      "num": 99200,
+      "word": "年轻人更愿意买老款旗舰版手机",
+      "onboard_time": 1771830019,
+      "rank": 39,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 38526,
       "num": 38526,
       "word": "肖战治愈之旅告一段落",
@@ -1521,6 +1657,14 @@
       "onboard_time": 1771797434,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29910,
+      "num": 142734,
+      "word": "AI骗局三件套涌入老年机",
+      "onboard_time": 1771829900,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 28651,
@@ -1572,7 +1716,7 @@
     },
     {
       "raw_hot": 24331,
-      "num": 615158,
+      "num": 617896,
       "word": "大年初七新的旅程开启",
       "onboard_time": 1771816701,
       "rank": 25,
