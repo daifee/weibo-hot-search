@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771838061590,
+  "endTime": 1771841208334,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -371,6 +371,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 535951,
+      "num": 800765,
+      "word": "初一家里有43人过完年只剩老人在家",
+      "onboard_time": 1771830559,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 524508,
       "num": 524508,
       "word": "韩国队抗议米兰冬奥至少4次印错国旗",
@@ -433,6 +441,14 @@
       "onboard_time": 1771801875,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 490785,
+      "num": 490785,
+      "word": "IVE回归",
+      "onboard_time": 1771838361,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 481636,
@@ -523,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419201,
+      "num": 283801,
+      "word": "梅婷没想到有男演员拍戏会睡猪圈",
+      "onboard_time": 1771838840,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416017,
       "num": 222188,
       "word": "打麻将微信步数一万多",
@@ -537,14 +561,6 @@
       "onboard_time": 1771740259,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414032,
-      "num": 800765,
-      "word": "初一家里有43人过完年只剩老人在家",
-      "onboard_time": 1771830559,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 413455,
@@ -811,6 +827,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331991,
+      "num": 282982,
+      "word": "王楚钦不好意思白纸我签不了",
+      "onboard_time": 1771839201,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 331026,
+      "num": 789441,
+      "word": "商家称36斤羊烤完剩6.9斤是正常",
+      "onboard_time": 1771839980,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328954,
       "num": 328954,
       "word": "还原妈祖巡游换童争议全过程",
@@ -931,6 +963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 293956,
+      "num": 143408,
+      "word": "向太曝朱丽倩喜欢刘德华20年才见光",
+      "onboard_time": 1771839442,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291797,
       "num": 298643,
       "word": "镖人",
@@ -995,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275246,
+      "num": 246637,
+      "word": "疑贝加尔湖事故车辆沉湖瞬间曝光",
+      "onboard_time": 1771839024,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 271465,
       "num": 271465,
       "word": "女子深陷迷你贷400元分36期",
@@ -1025,6 +1073,14 @@
       "onboard_time": 1771753639,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268532,
+      "num": 268532,
+      "word": "猫11.8斤等于人200斤",
+      "onboard_time": 1771834761,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 265356,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1771813279,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 259267,
+      "num": 259267,
+      "word": "谷爱凌场外收入是奖金230倍",
+      "onboard_time": 1771839320,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 251839,
@@ -1275,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232096,
+      "num": 232096,
+      "word": "孙颖莎穿着拖鞋上早训",
+      "onboard_time": 1771838361,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230479,
       "num": 222383,
       "word": "徐梦桃父亲在线催生",
@@ -1412,7 +1484,7 @@
     },
     {
       "raw_hot": 208383,
-      "num": 131890,
+      "num": 136426,
       "word": "美29岁女教师与未成年发生关系被捕",
       "onboard_time": 1771832599,
       "rank": 30,
@@ -1891,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158346,
+      "num": 158346,
+      "word": "金秋天solo曲Odd",
+      "onboard_time": 1771840040,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 156402,
       "num": 156402,
       "word": "吕小雨一个月暴瘦20斤",
@@ -2307,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130426,
+      "num": 130426,
+      "word": "韩国游客爱上中国超市",
+      "onboard_time": 1771839442,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129756,
       "num": 129756,
       "word": "林心如舒淇林熙蕾三家过年聚会",
@@ -2619,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112791,
+      "num": 112791,
+      "word": "唐嫣老钱风造型",
+      "onboard_time": 1771839680,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 112369,
       "num": 112369,
       "word": "内娱终于有古偶新面孔了",
@@ -2739,6 +2835,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108573,
+      "num": 108573,
+      "word": "第一批年轻人年后离家实录",
+      "onboard_time": 1771835300,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108346,
       "num": 108346,
       "word": "谷爱凌U型场地统治力",
@@ -2761,14 +2865,6 @@
       "onboard_time": 1771679603,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107968,
-      "num": 107968,
-      "word": "猫11.8斤等于人200斤",
-      "onboard_time": 1771834761,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 107576,
@@ -3355,6 +3451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84026,
+      "num": 84026,
+      "word": "知情人回应男子抛子入河妻子跳河救",
+      "onboard_time": 1771840101,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83082,
       "num": 92438,
       "word": "美特勤局击毙试图闯入海湖庄园男子",
@@ -3371,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82459,
+      "num": 82459,
+      "word": "NCT JNJM小分队",
+      "onboard_time": 1771841000,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 82057,
       "num": 82057,
       "word": "一个人一旦学会了观察自己",
@@ -3385,14 +3497,6 @@
       "onboard_time": 1771754121,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81988,
-      "num": 81988,
-      "word": "第一批年轻人年后离家实录",
-      "onboard_time": 1771835300,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 81683,
@@ -3473,6 +3577,30 @@
       "onboard_time": 1771749800,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 79934,
+      "num": 79934,
+      "word": "中国和日本机器人30年进程对比",
+      "onboard_time": 1771840520,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 79853,
+      "num": 79853,
+      "word": "iPhone18Pro像素前瞻",
+      "onboard_time": 1771838720,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 79537,
+      "num": 79537,
+      "word": "谷爱凌回应丢了银牌赢了金牌",
+      "onboard_time": 1771840821,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 79476,
@@ -3651,6 +3779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 73830,
+      "num": 73830,
+      "word": "谷爱凌U型池技术难度",
+      "onboard_time": 1771840700,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73805,
       "num": 93537,
       "word": "女财神被游客追得满场跑",
@@ -3673,6 +3809,22 @@
       "onboard_time": 1771749680,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 73445,
+      "num": 130555,
+      "word": "赶飞机为什么要提前那么久到机场",
+      "onboard_time": 1771839921,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73338,
+      "num": 104721,
+      "word": "亲历墨西哥暴乱中国游客发声",
+      "onboard_time": 1771837820,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 73043,
@@ -3795,20 +3947,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70225,
+      "num": 70225,
+      "word": "开学焦虑症",
+      "onboard_time": 1771837941,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70132,
       "num": 70132,
       "word": "詹姆斯43000分",
       "onboard_time": 1771820780,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70082,
-      "num": 70082,
-      "word": "开学焦虑症",
-      "onboard_time": 1771837941,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 68729,
@@ -4355,14 +4507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46289,
-      "num": 104721,
-      "word": "亲历墨西哥暴乱中国游客发声",
-      "onboard_time": 1771837820,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 46106,
       "num": 46106,
       "word": "意大利人是真懂艺术的",
@@ -4416,6 +4560,14 @@
       "word": "有相机5年翻10倍成理财产品",
       "onboard_time": 1771779437,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43414,
+      "num": 155999,
+      "word": "1米28腊肉猪头被拍1488元",
+      "onboard_time": 1771840821,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -4739,6 +4891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23514,
+      "num": 152472,
+      "word": "不少返程航线仅剩上万元公务舱",
+      "onboard_time": 1771840220,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23425,
       "num": 23425,
       "word": "苏翊鸣亮相冬奥会闭幕式",
@@ -4752,6 +4912,14 @@
       "word": "男子回看春节家人欢聚监控落泪",
       "onboard_time": 1771816400,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23204,
+      "num": 82517,
+      "word": "近大远小拍出山海经级老虎",
+      "onboard_time": 1771840821,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
