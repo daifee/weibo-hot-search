@@ -1,6 +1,6 @@
 {
   "startTime": 1771778477494,
-  "endTime": 1771847137447,
+  "endTime": 1771848033975,
   "band_list": [
     {
       "raw_hot": 1592010,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 688525,
-      "num": 125191,
+      "num": 131183,
       "word": "叶舒华瘦下来美成真人bjd了",
       "onboard_time": 1771841841,
       "rank": 47,
@@ -115,7 +115,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 641394,
+      "raw_hot": 665556,
       "num": 641394,
       "word": "瘦了后出片像呼吸一样简单",
       "onboard_time": 1771844301,
@@ -152,6 +152,14 @@
       "word": "韩国偶遇白鹿曾舜晞逛街",
       "onboard_time": 1771827799,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 574259,
+      "num": 131559,
+      "word": "王格格开了时代峰峻的高会",
+      "onboard_time": 1771844361,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -192,14 +200,6 @@
       "word": "易梦玲称将捐出全部直播收入",
       "onboard_time": 1771832481,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 496068,
-      "num": 124343,
-      "word": "王格格开了时代峰峻的高会",
-      "onboard_time": 1771844361,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -249,6 +249,14 @@
       "onboard_time": 1771838840,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431324,
+      "num": 128274,
+      "word": "尼格买提家宴8个菜没一个青菜",
+      "onboard_time": 1771844841,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 429789,
@@ -339,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350388,
+      "num": 325828,
+      "word": "原来全麻手术不是睡着了",
+      "onboard_time": 1771844720,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345583,
       "num": 711154,
       "word": "镖人连续4天票房逆跌",
@@ -395,14 +411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 325828,
-      "num": 325828,
-      "word": "原来全麻手术不是睡着了",
-      "onboard_time": 1771844720,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 313234,
       "num": 313234,
       "word": "中国最大高速收费站迎返程高峰",
@@ -436,11 +444,19 @@
     },
     {
       "raw_hot": 297558,
-      "num": 116214,
+      "num": 122599,
       "word": "谢娜下一界冬奥会见",
       "onboard_time": 1771844180,
       "rank": 23,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 292314,
+      "num": 126952,
+      "word": "歌手徐浩宣布干团播",
+      "onboard_time": 1771844601,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 291642,
@@ -451,20 +467,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 282833,
-      "num": 111667,
-      "word": "歌手徐浩宣布干团播",
-      "onboard_time": 1771844601,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 280894,
       "num": 258451,
       "word": "舅舅看到你剪成这样也会释怀",
       "onboard_time": 1771832660,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 278051,
+      "num": 786951,
+      "word": "夫妻春节不回家送外卖1个月赚4万",
+      "onboard_time": 1771846221,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271465,
@@ -595,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226473,
+      "num": 158447,
+      "word": "镖人票房",
+      "onboard_time": 1771847000,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 226065,
       "num": 226065,
       "word": "徐梦桃王心迪回应被催生",
@@ -620,7 +644,7 @@
     },
     {
       "raw_hot": 217911,
-      "num": 102284,
+      "num": 103247,
       "word": "TF五代排名",
       "onboard_time": 1771845562,
       "rank": 28,
@@ -739,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186488,
-      "num": 112139,
-      "word": "尼格买提家宴8个菜没一个青菜",
-      "onboard_time": 1771844841,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186438,
       "num": 186438,
       "word": "谷爱凌第三滑94.75分",
@@ -793,6 +809,14 @@
       "onboard_time": 1771769724,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178579,
+      "num": 178579,
+      "word": "西安暴雪24小时内温差20度",
+      "onboard_time": 1771845021,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177215,
@@ -860,7 +884,7 @@
     },
     {
       "raw_hot": 164379,
-      "num": 121115,
+      "num": 131182,
       "word": "妈妈给远嫁女儿寄了120个单间饺子",
       "onboard_time": 1771842440,
       "rank": 22,
@@ -923,12 +947,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146945,
-      "num": 146945,
-      "word": "西安暴雪24小时内温差20度",
-      "onboard_time": 1771845021,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 154147,
+      "num": 154147,
+      "word": "LunarNewYear使用的源头",
+      "onboard_time": 1771845742,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 145947,
@@ -955,27 +979,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144078,
-      "num": 144078,
-      "word": "镖人票房",
-      "onboard_time": 1771847000,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 143688,
-      "num": 112863,
+      "num": 125149,
       "word": "免费时段即将结束仍在高速怎么办",
       "onboard_time": 1771844301,
       "rank": 27,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142934,
-      "num": 142934,
-      "word": "夫妻春节不回家送外卖1个月赚4万",
-      "onboard_time": 1771846221,
-      "rank": 14,
+      "raw_hot": 142873,
+      "num": 142873,
+      "word": "小狗坐十几个小时长途面相都变了",
+      "onboard_time": 1771845622,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -993,6 +1009,14 @@
       "onboard_time": 1771841000,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140876,
+      "num": 95917,
+      "word": "张丹峰洪欣带儿女出行",
+      "onboard_time": 1771845501,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 140463,
@@ -1051,20 +1075,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 132845,
-      "num": 95917,
-      "word": "张丹峰洪欣带儿女出行",
-      "onboard_time": 1771845501,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 132232,
-      "num": 132232,
-      "word": "LunarNewYear使用的源头",
-      "onboard_time": 1771845742,
-      "rank": 17,
-      "category": "科学科普"
+      "raw_hot": 132542,
+      "num": 132542,
+      "word": "孩子把摔炮当糖果入口后爆炸",
+      "onboard_time": 1771846102,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131437,
@@ -1195,6 +1211,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116141,
+      "num": 91925,
+      "word": "安宥真 安吧",
+      "onboard_time": 1771845861,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115787,
+      "num": 115787,
+      "word": "多省官宣中小学春秋假",
+      "onboard_time": 1771846762,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115757,
       "num": 158651,
       "word": "墨西哥",
@@ -1217,6 +1249,22 @@
       "onboard_time": 1771765403,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113318,
+      "num": 90082,
+      "word": "韩雨彤回应拍古装做了美甲",
+      "onboard_time": 1771846702,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113310,
+      "num": 132115,
+      "word": "不让江山剧组声明",
+      "onboard_time": 1771847661,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 113254,
@@ -1281,14 +1329,6 @@
       "onboard_time": 1771753340,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105063,
-      "num": 91925,
-      "word": "安宥真 安吧",
-      "onboard_time": 1771845861,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 104025,
@@ -1363,12 +1403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96621,
-      "num": 96621,
-      "word": "小狗坐十几个小时长途面相都变了",
-      "onboard_time": 1771845622,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 95720,
+      "num": 89841,
+      "word": "陈赫直播提及宋雨琦cut",
+      "onboard_time": 1771846401,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 95277,
@@ -1443,6 +1483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 92737,
+      "num": 131057,
+      "word": "12306回应列车因超员滞留半小时",
+      "onboard_time": 1771846221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92604,
       "num": 92604,
       "word": "知情人回应男子抛子入河妻子跳河救",
@@ -1467,14 +1515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92227,
-      "num": 92227,
-      "word": "多省官宣中小学春秋假",
-      "onboard_time": 1771846762,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92197,
       "num": 92197,
       "word": "熊猫紧抱游客手机不让饲养员取回",
@@ -1488,14 +1528,6 @@
       "word": "白鹿曾舜晞梁永棋陈鹤一韩国逛街",
       "onboard_time": 1771771284,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 91919,
-      "num": 82681,
-      "word": "陈赫直播提及宋雨琦cut",
-      "onboard_time": 1771846401,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1547,11 +1579,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90149,
-      "num": 80747,
-      "word": "韩雨彤回应拍古装做了美甲",
-      "onboard_time": 1771846702,
-      "rank": 44,
+      "raw_hot": 89630,
+      "num": 89630,
+      "word": "章子怡带女儿玩飞拉达",
+      "onboard_time": 1771847362,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1612,7 +1644,7 @@
     },
     {
       "raw_hot": 86863,
-      "num": 80321,
+      "num": 83622,
       "word": "穆祉丞抽抽乐",
       "onboard_time": 1771842740,
       "rank": 45,
@@ -1620,7 +1652,7 @@
     },
     {
       "raw_hot": 86547,
-      "num": 79729,
+      "num": 81619,
       "word": "陈宝莲儿子近照",
       "onboard_time": 1771846461,
       "rank": 47,
@@ -1633,6 +1665,14 @@
       "onboard_time": 1771841240,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85313,
+      "num": 89694,
+      "word": "孙颖莎磨脚贴创可贴",
+      "onboard_time": 1771847482,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 85041,
@@ -1659,12 +1699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84237,
+      "num": 90004,
+      "word": "返程路上妻子被丈夫遗落几近崩溃",
+      "onboard_time": 1771846102,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83082,
       "num": 83082,
       "word": "美特勤局击毙试图闯入海湖庄园男子",
       "onboard_time": 1771775362,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82584,
+      "num": 82584,
+      "word": "过年长胖有滞后性",
+      "onboard_time": 1771844361,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 82459,
@@ -1713,6 +1769,22 @@
       "onboard_time": 1771814961,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81143,
+      "num": 81143,
+      "word": "长得像毒液但性格温和",
+      "onboard_time": 1771847362,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81138,
+      "num": 81138,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1771847602,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 81088,
@@ -1795,14 +1867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75041,
-      "num": 90004,
-      "word": "返程路上妻子被丈夫遗落几近崩溃",
-      "onboard_time": 1771846102,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74657,
       "num": 74657,
       "word": "俄外交部警告韩国",
@@ -1833,14 +1897,6 @@
       "onboard_time": 1771840700,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73388,
-      "num": 131057,
-      "word": "12306回应列车因超员滞留半小时",
-      "onboard_time": 1771846221,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73338,
@@ -1929,14 +1985,6 @@
       "onboard_time": 1771770863,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69519,
-      "num": 89404,
-      "word": "孩子把摔炮当糖果入口后爆炸",
-      "onboard_time": 1771846102,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68649,
@@ -2051,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65374,
+      "num": 110415,
+      "word": "机器人天坛比武",
+      "onboard_time": 1771847061,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 65299,
       "num": 65299,
       "word": "虞书欣云初令高马尾路透",
@@ -2121,14 +2177,6 @@
       "onboard_time": 1771765523,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61054,
-      "num": 79060,
-      "word": "机器人天坛比武",
-      "onboard_time": 1771847061,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 60220,
@@ -2259,6 +2307,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 48157,
+      "num": 89999,
+      "word": "墨西哥第二大城市街头空无一人",
+      "onboard_time": 1771846821,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 47317,
       "num": 47317,
       "word": "冬奥会 歌剧闭幕式",
@@ -2387,14 +2443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38267,
-      "num": 88529,
-      "word": "墨西哥第二大城市街头空无一人",
-      "onboard_time": 1771846821,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 37123,
       "num": 37123,
       "word": "谷爱凌说拿到奖牌让世界尊重中国队",
@@ -2481,6 +2529,14 @@
       "onboard_time": 1771827500,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24934,
+      "num": 131797,
+      "word": "返程堵车开1天累到明天不想上班",
+      "onboard_time": 1771847422,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24745,
@@ -2691,6 +2747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17452,
+      "num": 98112,
+      "word": "AI重现春晚名场面",
+      "onboard_time": 1771844481,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16475,
       "num": 151550,
       "word": "春节剩菜最好3天内吃完",
@@ -2721,14 +2785,6 @@
       "onboard_time": 1771764682,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11870,
-      "num": 98112,
-      "word": "AI重现春晚名场面",
-      "onboard_time": 1771844481,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 7538,
