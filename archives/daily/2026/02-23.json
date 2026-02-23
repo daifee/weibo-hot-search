@@ -1,6 +1,6 @@
 {
   "startTime": 1771778477494,
-  "endTime": 1771854543086,
+  "endTime": 1771858592879,
   "band_list": [
     {
       "raw_hot": 1592010,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 688525,
-      "num": 150885,
+      "num": 177830,
       "word": "叶舒华瘦下来美成真人bjd了",
       "onboard_time": 1771841841,
       "rank": 47,
@@ -267,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 475684,
+      "num": 807641,
+      "word": "谷爱凌去年收入超2300万美元",
+      "onboard_time": 1771850961,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468710,
       "num": 769438,
       "word": "谷爱凌金牌",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 413519,
-      "num": 261046,
+      "num": 272636,
       "word": "鸟中刘亦菲也扛不了后置镜头怼脸拍",
       "onboard_time": 1771852583,
       "rank": 30,
@@ -377,6 +385,14 @@
       "onboard_time": 1771824800,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387565,
+      "num": 387565,
+      "word": "夜王 尺度",
+      "onboard_time": 1771856782,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 382018,
@@ -619,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252359,
+      "num": 219769,
+      "word": "刘浩存我想象中扎丸子头的样子",
+      "onboard_time": 1771855283,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250754,
       "num": 151186,
       "word": "黄一鸣整了马甲线",
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 244746,
-      "num": 149802,
+      "num": 174044,
       "word": "能谈到结婚的伴侣是什么样的",
       "onboard_time": 1771850422,
       "rank": 22,
@@ -739,6 +763,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 218215,
+      "num": 218215,
+      "word": "王者血包可以共享了",
+      "onboard_time": 1771854024,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217911,
       "num": 103247,
       "word": "TF五代排名",
@@ -753,14 +785,6 @@
       "onboard_time": 1771775242,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209437,
-      "num": 209437,
-      "word": "谷爱凌去年收入超2300万美元",
-      "onboard_time": 1771850961,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 208383,
@@ -841,6 +865,14 @@
       "onboard_time": 1771845622,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192208,
+      "num": 192208,
+      "word": "王鹤棣说祝大家永远不死",
+      "onboard_time": 1771851680,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 191931,
@@ -979,6 +1011,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169779,
+      "num": 181588,
+      "word": "台湾河道弃尸案",
+      "onboard_time": 1771854382,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165958,
+      "num": 165958,
+      "word": "田雨内娱人缘",
+      "onboard_time": 1771857682,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165133,
       "num": 165133,
       "word": "大侦探",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1771842440,
       "rank": 22,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 162832,
+      "num": 162832,
+      "word": "墨西哥毒枭向家乡果农收保护费",
+      "onboard_time": 1771855220,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 162015,
@@ -1067,14 +1123,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 150430,
-      "num": 130357,
-      "word": "王鹤棣说祝大家永远不死",
-      "onboard_time": 1771851680,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 150233,
       "num": 147990,
       "word": "丞磊王楚然共创回忆录",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1771801996,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144199,
+      "num": 125773,
+      "word": "胡锡进锐评谷爱凌",
+      "onboard_time": 1771858402,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 143688,
@@ -1145,6 +1201,14 @@
       "onboard_time": 1771775602,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 139492,
+      "num": 183123,
+      "word": "谷爱凌发博晒金牌",
+      "onboard_time": 1771857262,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 139428,
@@ -1219,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131155,
+      "num": 131155,
+      "word": "高速堵车大聪明选择下国道绕行",
+      "onboard_time": 1771856362,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130426,
       "num": 130426,
       "word": "韩国游客爱上中国超市",
@@ -1241,6 +1313,14 @@
       "onboard_time": 1771827560,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125324,
+      "num": 125324,
+      "word": "上班",
+      "onboard_time": 1771855400,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124484,
@@ -1315,6 +1395,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 118729,
+      "num": 118729,
+      "word": "成何体统",
+      "onboard_time": 1771855522,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118704,
       "num": 178463,
       "word": "谷爱凌从16分到94分绝地反击",
@@ -1377,6 +1465,14 @@
       "onboard_time": 1771836200,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113822,
+      "num": 113822,
+      "word": "夜王",
+      "onboard_time": 1771857202,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 113372,
@@ -1443,20 +1539,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108615,
+      "num": 108615,
+      "word": "国投白银LOF估值调整或负影响净利润",
+      "onboard_time": 1771858101,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108573,
       "num": 108573,
       "word": "第一批年轻人年后离家实录",
       "onboard_time": 1771835300,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106033,
-      "num": 106033,
-      "word": "王者血包可以共享了",
-      "onboard_time": 1771854024,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 105901,
@@ -1497,6 +1593,22 @@
       "onboard_time": 1771775421,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101613,
+      "num": 101613,
+      "word": "黄景瑜 晓丹你看见烟花了吗",
+      "onboard_time": 1771858041,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101527,
+      "num": 126156,
+      "word": "李琰谈宁忠岩夺金",
+      "onboard_time": 1771856001,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 100639,
@@ -1545,6 +1657,22 @@
       "onboard_time": 1771830201,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96899,
+      "num": 96899,
+      "word": "飞驰3换轮胎不扔的原因",
+      "onboard_time": 1771854024,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 96777,
+      "num": 96777,
+      "word": "孙颖莎弹弹弹",
+      "onboard_time": 1771858402,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 95720,
@@ -1843,14 +1971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84911,
-      "num": 84911,
-      "word": "台湾河道弃尸案",
-      "onboard_time": 1771854382,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84646,
       "num": 84646,
       "word": "如果你发现跟一个人聊天很舒服",
@@ -1873,14 +1993,6 @@
       "onboard_time": 1771846102,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83158,
-      "num": 83158,
-      "word": "飞驰3换轮胎不扔的原因",
-      "onboard_time": 1771854024,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 83082,
@@ -1969,6 +2081,14 @@
       "onboard_time": 1771840821,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80702,
+      "num": 80702,
+      "word": "大众点评 分析相册",
+      "onboard_time": 1771854742,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 80233,
@@ -2563,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47072,
+      "num": 649231,
+      "word": "致冬奥会中国体育代表团的贺电",
+      "onboard_time": 1771855042,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46688,
       "num": 49489,
       "word": "张凌赫 刺棠",
@@ -2907,6 +3035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20001,
+      "num": 96811,
+      "word": "列车吸烟最高罚2000",
+      "onboard_time": 1771857322,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19926,
       "num": 439650,
       "word": "2026新春走基层",
@@ -3068,6 +3204,9 @@
     },
     {
       "word": "#习近平致电祝贺金正恩#"
+    },
+    {
+      "word": "#总书记和四世同堂一家人拉家常#"
     }
   ]
 }
