@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/02/23 10:45:51
+本榜单时间：2026/01/01 00:35:36 ~ 2026/02/23 11:26:27
 </p>
 </blockquote>
 <p>
@@ -1389,6 +1389,12 @@ B站春晚 夯（热度：2280239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8E%9A%E6%9C%AC%E8%A2%AB%E4%B8%8D%E8%AE%A9%E6%B1%9F%E5%B1%B1%E9%99%A4%E5%90%8D%23" target="weibo">
+曝厚本被不让江山除名（热度：1592010）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%E5%AE%9A%E6%A1%A3%23" target="weibo">
 惊蛰无声定档（热度：1588138）
 </a>
@@ -1805,12 +1811,6 @@ Bin 我依然是世一上（热度：1457105）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%96%E9%98%B3%E9%93%A0FMVP%E7%9A%AE%E8%82%A4%23" target="weibo">
 暖阳铠FMVP皮肤（热度：1374474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%85%E7%8C%9B%E9%BE%99%20%E5%B0%8F%E6%BE%88%23" target="weibo">
-迅猛龙 小澈（热度：1352396）
 </a>
 </li>
 

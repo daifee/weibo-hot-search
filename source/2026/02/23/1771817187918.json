@@ -1,0 +1,410 @@
+{
+  "runTime": 1771817187918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 435122,
+        "num": 1069619,
+        "word": "谷爱凌晒奶奶戴奖牌合照",
+        "onboard_time": 1771809980,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281529,
+        "num": 756417,
+        "word": "谷爱凌炸完赛场炸秀场",
+        "onboard_time": 1771806440,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13348,
+        "num": 600859,
+        "word": "中国红闪耀米兰冬奥闭幕式",
+        "onboard_time": 1771802657,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518828,
+        "num": 518828,
+        "word": "墨西哥毒枭身亡引发报复行动",
+        "onboard_time": 1771814242,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 427307,
+        "num": 427307,
+        "word": "徐梦桃夺冠当天收到1600多条信息",
+        "onboard_time": 1771815141,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259949,
+        "num": 259949,
+        "word": "吴京回应镖人票房逆袭",
+        "onboard_time": 1771813279,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256160,
+        "num": 256160,
+        "word": "女子深陷迷你贷400元分36期",
+        "onboard_time": 1771805898,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243567,
+        "num": 243567,
+        "word": "2026返程高峰",
+        "onboard_time": 1771815620,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223257,
+        "num": 223257,
+        "word": "神仙肉",
+        "onboard_time": 1771812139,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23221,
+        "num": 195726,
+        "word": "男子回看春节家人欢聚监控落泪",
+        "onboard_time": 1771816400,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700944,
+        "num": 193687,
+        "word": "四川女婿黄子韬在家也得穿省服",
+        "onboard_time": 1771812320,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344605,
+        "num": 188976,
+        "word": "I.O.I将于5月回归",
+        "onboard_time": 1771815141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178129,
+        "num": 178129,
+        "word": "半夜出发的大聪明全堵在高速上了",
+        "onboard_time": 1771801875,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160849,
+        "num": 160849,
+        "word": "意大利把闭幕式办成文旅宣传片",
+        "onboard_time": 1771797314,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158984,
+        "num": 158984,
+        "word": "中国最大高速收费站迎返程高峰",
+        "onboard_time": 1771808779,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154298,
+        "num": 154298,
+        "word": "印尼突发7.0级地震",
+        "onboard_time": 1771805839,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 143274,
+        "num": 143274,
+        "word": "镖人连续4天票房逆跌",
+        "onboard_time": 1771776801,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133295,
+        "num": 133295,
+        "word": "谷爱凌回应100%拿牌率",
+        "onboard_time": 1771808359,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128884,
+        "num": 128884,
+        "word": "神仙肉女主人设",
+        "onboard_time": 1771805179,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12941,
+        "num": 128507,
+        "word": "女子在地铁让座获孕妇百元红包",
+        "onboard_time": 1771816819,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1592010,
+        "num": 128019,
+        "word": "曝厚本被不让江山除名",
+        "onboard_time": 1771813520,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476805,
+        "num": 126887,
+        "word": "陈妍希说林心如女儿长的太好看了",
+        "onboard_time": 1771805419,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264340,
+        "num": 126619,
+        "word": "韩媒称韩唯一领先技术被中国反超",
+        "onboard_time": 1771815141,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191931,
+        "num": 125403,
+        "word": "小猫吃虾被烫到当场暴打大虾",
+        "onboard_time": 1771813279,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125213,
+        "num": 125213,
+        "word": "徐梦桃王心迪回应被催生",
+        "onboard_time": 1771810579,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24331,
+        "num": 118180,
+        "word": "大年初七新的旅程开启",
+        "onboard_time": 1771816701,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117511,
+        "num": 117511,
+        "word": "女子动车厕所冲走50g金手链",
+        "onboard_time": 1771801996,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109621,
+        "num": 109621,
+        "word": "周深 王一博老师什么不火呀",
+        "onboard_time": 1771768823,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108368,
+        "num": 108368,
+        "word": "小狗其实那天晚上我根本没睡着",
+        "onboard_time": 1771814600,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105290,
+        "num": 105290,
+        "word": "原来正月初七是人的生日",
+        "onboard_time": 1771811179,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107537,
+        "num": 103499,
+        "word": "苏新皓给妈妈换了一部新手机",
+        "onboard_time": 1771805538,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100163,
+        "num": 100163,
+        "word": "王楚钦终于跟家人过了除夕",
+        "onboard_time": 1771815739,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81614,
+        "num": 81614,
+        "word": "曝iPhone18Pro正测试深红色",
+        "onboard_time": 1771775602,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81187,
+        "num": 81187,
+        "word": "人这辈子就那么几个坑",
+        "onboard_time": 1771814961,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80274,
+        "num": 80274,
+        "word": "李克勤演唱会用捞网收红包",
+        "onboard_time": 1771812619,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78318,
+        "num": 78318,
+        "word": "三亚直飞成都机票近万元",
+        "onboard_time": 1771812920,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76992,
+        "num": 76992,
+        "word": "镖人",
+        "onboard_time": 1771769724,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75160,
+        "num": 75160,
+        "word": "原来从小遵守的美德已经过期了",
+        "onboard_time": 1771814242,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70726,
+        "num": 70726,
+        "word": "萌娃贴脸啃咬外婆蒸的大白馒头",
+        "onboard_time": 1771813580,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13705,
+        "num": 69444,
+        "word": "一男子试图非法进入海湖庄园被毙",
+        "onboard_time": 1771817058,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69248,
+        "num": 69248,
+        "word": "一个人一旦学会了观察自己",
+        "onboard_time": 1771810219,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67641,
+        "num": 67641,
+        "word": "王濛刘翔真是几十年难遇",
+        "onboard_time": 1771801515,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66451,
+        "num": 66451,
+        "word": "白鹿曾舜晞梁永棋陈鹤一韩国逛街",
+        "onboard_time": 1771771284,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65439,
+        "num": 65439,
+        "word": "周翊然新剧首播口碑",
+        "onboard_time": 1771814480,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63533,
+        "num": 63533,
+        "word": "水贝买金火爆商家忙到没时间吃饭",
+        "onboard_time": 1771805959,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60723,
+        "num": 60723,
+        "word": "俄罗斯遭导弹袭击",
+        "onboard_time": 1771806559,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19467,
+        "num": 60123,
+        "word": "新春走基层看见热气腾腾的中国",
+        "onboard_time": 1771816340,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135683,
+        "num": 60112,
+        "word": "为什么高速堵车看不见大巴车",
+        "onboard_time": 1771815739,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60032,
+        "num": 60032,
+        "word": "肖战发布杀青小作文",
+        "onboard_time": 1771806198,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59777,
+        "num": 59777,
+        "word": "小狗躺在桥中间众多路人跨过不惊扰",
+        "onboard_time": 1771816459,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系社区#"
+    }
+  }
+}

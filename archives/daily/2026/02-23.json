@@ -1,7 +1,15 @@
 {
   "startTime": 1771778477494,
-  "endTime": 1771814751136,
+  "endTime": 1771817187918,
   "band_list": [
+    {
+      "raw_hot": 1592010,
+      "num": 128019,
+      "word": "曝厚本被不让江山除名",
+      "onboard_time": 1771813520,
+      "rank": 20,
+      "category": "剧集"
+    },
     {
       "raw_hot": 882906,
       "num": 198772,
@@ -27,16 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 751706,
-      "num": 122157,
-      "word": "曝厚本被不让江山除名",
-      "onboard_time": 1771813520,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 676543,
-      "num": 121869,
+      "num": 126887,
       "word": "陈妍希说林心如女儿长的太好看了",
       "onboard_time": 1771805419,
       "rank": 21,
@@ -49,6 +49,14 @@
       "onboard_time": 1771809980,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 518828,
+      "num": 518828,
+      "word": "墨西哥毒枭身亡引发报复行动",
+      "onboard_time": 1771814242,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 492005,
@@ -67,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427307,
+      "num": 427307,
+      "word": "徐梦桃夺冠当天收到1600多条信息",
+      "onboard_time": 1771815141,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 410531,
       "num": 773845,
       "word": "谷爱凌炸完赛场炸秀场",
@@ -81,6 +97,14 @@
       "onboard_time": 1771776801,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 344605,
+      "num": 188976,
+      "word": "I.O.I将于5月回归",
+      "onboard_time": 1771815141,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 344545,
@@ -115,14 +139,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 278489,
-      "num": 278489,
-      "word": "墨西哥毒枭身亡引发报复行动",
-      "onboard_time": 1771814242,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 271465,
       "num": 271465,
       "word": "女子深陷迷你贷400元分36期",
@@ -131,12 +147,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264340,
+      "num": 126619,
+      "word": "韩媒称韩唯一领先技术被中国反超",
+      "onboard_time": 1771815141,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 259949,
+      "num": 259949,
+      "word": "吴京回应镖人票房逆袭",
+      "onboard_time": 1771813279,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253897,
       "num": 253897,
       "word": "虞书欣何与 神仙肉",
       "onboard_time": 1771763362,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243567,
+      "num": 243567,
+      "word": "2026返程高峰",
+      "onboard_time": 1771815620,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240119,
@@ -179,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223257,
+      "num": 223257,
+      "word": "神仙肉",
+      "onboard_time": 1771812139,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215730,
       "num": 184004,
       "word": "李昀锐将无缝进组剑阁闻铃",
@@ -203,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191931,
+      "num": 125403,
+      "word": "小猫吃虾被烫到当场暴打大虾",
+      "onboard_time": 1771813279,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191147,
       "num": 191147,
       "word": "印尼突发7.0级地震",
@@ -225,14 +281,6 @@
       "onboard_time": 1771757962,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186269,
-      "num": 121178,
-      "word": "小猫吃虾被烫到当场暴打大虾",
-      "onboard_time": 1771813279,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 179327,
@@ -323,12 +371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132220,
-      "num": 132220,
-      "word": "神仙肉",
-      "onboard_time": 1771812139,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 135683,
+      "num": 60112,
+      "word": "为什么高速堵车看不见大巴车",
+      "onboard_time": 1771815739,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 131205,
@@ -345,14 +393,6 @@
       "onboard_time": 1771762882,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 124525,
-      "num": 120412,
-      "word": "吴京回应镖人票房逆袭",
-      "onboard_time": 1771813279,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 122226,
@@ -372,7 +412,7 @@
     },
     {
       "raw_hot": 121098,
-      "num": 87553,
+      "num": 108368,
       "word": "小狗其实那天晚上我根本没睡着",
       "onboard_time": 1771814600,
       "rank": 30,
@@ -417,6 +457,14 @@
       "onboard_time": 1771775421,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100163,
+      "num": 100163,
+      "word": "王楚钦终于跟家人过了除夕",
+      "onboard_time": 1771815739,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 99114,
@@ -515,12 +563,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81187,
+      "num": 81187,
+      "word": "人这辈子就那么几个坑",
+      "onboard_time": 1771814961,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 80233,
       "num": 80233,
       "word": "王楚钦心软软给小朋友签名",
       "onboard_time": 1771813098,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78318,
+      "num": 78318,
+      "word": "三亚直飞成都机票近万元",
+      "onboard_time": 1771812920,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78285,
@@ -536,14 +600,6 @@
       "word": "男子返程堵车12小时变24小时",
       "onboard_time": 1771776022,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76479,
-      "num": 76479,
-      "word": "三亚直飞成都机票近万元",
-      "onboard_time": 1771812920,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -595,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70726,
+      "num": 122758,
+      "word": "萌娃贴脸啃咬外婆蒸的大白馒头",
+      "onboard_time": 1771813580,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70026,
       "num": 70026,
       "word": "王楚钦鹰眼挑战成功",
@@ -635,20 +699,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66264,
-      "num": 122758,
-      "word": "萌娃贴脸啃咬外婆蒸的大白馒头",
-      "onboard_time": 1771813580,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66229,
       "num": 66229,
       "word": "大年初七",
       "onboard_time": 1771801875,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65439,
+      "num": 65439,
+      "word": "周翊然新剧首播口碑",
+      "onboard_time": 1771814480,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 64233,
@@ -705,6 +769,14 @@
       "onboard_time": 1771768463,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59777,
+      "num": 59777,
+      "word": "小狗躺在桥中间众多路人跨过不惊扰",
+      "onboard_time": 1771816459,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59591,
@@ -908,7 +980,7 @@
     },
     {
       "raw_hot": 33721,
-      "num": 174852,
+      "num": 600859,
       "word": "中国红闪耀米兰冬奥闭幕式",
       "onboard_time": 1771802657,
       "rank": 4,
@@ -955,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24331,
+      "num": 118180,
+      "word": "大年初七新的旅程开启",
+      "onboard_time": 1771816701,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24275,
       "num": 24275,
       "word": "返程",
@@ -985,6 +1065,14 @@
       "onboard_time": 1771791435,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23221,
+      "num": 195726,
+      "word": "男子回看春节家人欢聚监控落泪",
+      "onboard_time": 1771816400,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22014,
@@ -1024,6 +1112,14 @@
       "word": "2026新春走基层",
       "onboard_time": 1771765761,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19467,
+      "num": 60123,
+      "word": "新春走基层看见热气腾腾的中国",
+      "onboard_time": 1771816340,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1091,6 +1187,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13705,
+      "num": 69444,
+      "word": "一男子试图非法进入海湖庄园被毙",
+      "onboard_time": 1771817058,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12941,
+      "num": 128507,
+      "word": "女子在地铁让座获孕妇百元红包",
+      "onboard_time": 1771816819,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12504,
       "num": 18776,
       "word": "熬夜看闭幕式",
@@ -1110,6 +1222,9 @@
   "hotgov_list": [
     {
       "word": "#总书记这样寄语奥运健儿#"
+    },
+    {
+      "word": "#总书记心系社区#"
     }
   ]
 }

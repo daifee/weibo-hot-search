@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771814751136,
+  "endTime": 1771817187918,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1835,6 +1835,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 1592010,
+      "num": 128019,
+      "word": "曝厚本被不让江山除名",
+      "onboard_time": 1771813520,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1588138,
       "num": 1588138,
       "word": "惊蛰无声定档",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767361821,
       "rank": 11,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1352396,
-      "num": 308366,
-      "word": "迅猛龙 小澈",
-      "onboard_time": 1768292421,
-      "rank": 20,
-      "category": "网红"
     }
   ],
   "hotgov_list": [
