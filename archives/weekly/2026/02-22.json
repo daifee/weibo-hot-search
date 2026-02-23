@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771874098337,
+  "endTime": 1771875592181,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -5779,6 +5779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24858,
+      "num": 24858,
+      "word": "方家翊自曝和家人划清界限",
+      "onboard_time": 1771873515,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24745,
       "num": 98218,
       "word": "女子申请五笔网贷400元要分36期",
@@ -6059,20 +6067,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17605,
-      "num": 17605,
-      "word": "方家翊自曝和家人划清界限",
-      "onboard_time": 1771873515,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17452,
       "num": 98112,
       "word": "AI重现春晚名场面",
       "onboard_time": 1771844481,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16620,
+      "num": 17072,
+      "word": "不让江山剧组称会好好照顾杨洋",
+      "onboard_time": 1771871595,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 16475,
@@ -6083,11 +6091,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16271,
-      "num": 17072,
-      "word": "不让江山剧组称会好好照顾杨洋",
-      "onboard_time": 1771871595,
-      "rank": 43,
+      "raw_hot": 13858,
+      "num": 16020,
+      "word": "电视台通报游客采访口音质疑",
+      "onboard_time": 1771874115,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 13774,
+      "num": 16020,
+      "word": "好好的时光",
+      "onboard_time": 1771849642,
+      "rank": 46,
       "category": "剧集"
     },
     {
