@@ -1,6 +1,6 @@
 {
   "startTime": 1771863172983,
-  "endTime": 1771887144552,
+  "endTime": 1771888158241,
   "band_list": [
     {
       "raw_hot": 1182807,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 334496,
-      "num": 397160,
+      "num": 500327,
       "word": "墨西哥毒枭身亡事件华人发声",
       "onboard_time": 1771861999,
       "rank": 30,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107397,
+      "num": 99953,
+      "word": "高速堵车大聪明选择下国道绕行",
+      "onboard_time": 1771856362,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101145,
       "num": 101145,
       "word": "夜王",
@@ -235,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93907,
-      "num": 99953,
-      "word": "高速堵车大聪明选择下国道绕行",
-      "onboard_time": 1771856362,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 95316,
+      "num": 51323,
+      "word": "宋亚轩",
+      "onboard_time": 1771887676,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 90362,
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77509,
+      "num": 42481,
+      "word": "吴佳尼自曝订婚后才知马景涛年龄",
+      "onboard_time": 1771850901,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76217,
       "num": 76217,
       "word": "金秋天solo曲Odd",
@@ -297,6 +313,14 @@
       "onboard_time": 1771854024,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 71546,
+      "num": 49342,
+      "word": "鞠婧祎珍珠腰链",
+      "onboard_time": 1771867276,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 69988,
@@ -347,7 +371,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59433,
+      "raw_hot": 59710,
       "num": 59433,
       "word": "女子情绪失控欲跳桥丈夫狂奔阻拦",
       "onboard_time": 1771866677,
@@ -403,6 +427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53636,
+      "num": 42465,
+      "word": "方家翊自曝和家人划清界限",
+      "onboard_time": 1771873515,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53474,
       "num": 65805,
       "word": "尼格买提家宴8个菜没一个青菜",
@@ -443,28 +475,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 49342,
-      "num": 49342,
-      "word": "鞠婧祎珍珠腰链",
-      "onboard_time": 1771867276,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48250,
       "num": 65801,
       "word": "女子极限候补高铁避开12小时堵车路",
       "onboard_time": 1771859959,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42274,
-      "num": 39529,
-      "word": "方家翊自曝和家人划清界限",
-      "onboard_time": 1771873515,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 40760,
@@ -483,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34231,
+      "num": 34231,
+      "word": "歌手徐浩宣布干团播",
+      "onboard_time": 1771844601,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29710,
       "num": 600312,
       "word": "在全党开展树立和践行正确政绩观学习教育",
       "onboard_time": 1771853601,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28040,
+      "num": 28040,
+      "word": "电视台通报游客采访口音质疑",
+      "onboard_time": 1771874115,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 24322,
@@ -499,24 +531,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22669,
-      "num": 27021,
-      "word": "电视台通报游客采访口音质疑",
-      "onboard_time": 1771874115,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 20971,
-      "num": 27048,
+      "num": 33332,
       "word": "人民日报专访教练李琰",
       "onboard_time": 1771869016,
       "rank": 28,
       "category": "体育"
     },
     {
-      "raw_hot": 17038,
-      "num": 26950,
+      "raw_hot": 20870,
+      "num": 27392,
       "word": "不让江山剧组称会好好照顾杨洋",
       "onboard_time": 1771871595,
       "rank": 43,
@@ -529,6 +553,14 @@
       "onboard_time": 1771849642,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13896,
+      "num": 27378,
+      "word": "西安大唐芙蓉园等景区银装素裹",
+      "onboard_time": 1771887616,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 13033,
