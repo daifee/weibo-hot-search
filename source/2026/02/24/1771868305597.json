@@ -1,0 +1,410 @@
+{
+  "runTime": 1771868305597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 346423,
+        "num": 410445,
+        "word": "夜王 尺度",
+        "onboard_time": 1771856782,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254290,
+        "num": 304830,
+        "word": "误转69万公款对方拒绝退款",
+        "onboard_time": 1771859001,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16649,
+        "num": 241999,
+        "word": "在全党开展树立和践行正确政绩观学习教育",
+        "onboard_time": 1771853601,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220444,
+        "num": 220444,
+        "word": "墨西哥毒枭身亡事件华人发声",
+        "onboard_time": 1771861999,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190545,
+        "num": 190545,
+        "word": "不让江山剧组声明",
+        "onboard_time": 1771847661,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164504,
+        "num": 164504,
+        "word": "原来全麻手术不是睡着了",
+        "onboard_time": 1771844720,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94669,
+        "num": 94669,
+        "word": "江苏卫视春晚小品 大为震撼",
+        "onboard_time": 1771862300,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87929,
+        "num": 87929,
+        "word": "瘦了后出片像呼吸一样简单",
+        "onboard_time": 1771844301,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86461,
+        "num": 86461,
+        "word": "鸟中刘亦菲也扛不了后置镜头怼脸拍",
+        "onboard_time": 1771852583,
+        "rank": 8,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 82948,
+        "num": 82948,
+        "word": "上班",
+        "onboard_time": 1771855400,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 950936,
+        "num": 82686,
+        "word": "刘耀文",
+        "onboard_time": 1771864818,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386231,
+        "num": 81090,
+        "word": "丁程鑫",
+        "onboard_time": 1771864818,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79343,
+        "num": 79343,
+        "word": "史上最贵iPhone要来了",
+        "onboard_time": 1771824080,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 75957,
+        "num": 75957,
+        "word": "王格格开了时代峰峻的高会",
+        "onboard_time": 1771844361,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70725,
+        "num": 70725,
+        "word": "单依纯 蔻驰",
+        "onboard_time": 1771850242,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56969,
+        "num": 70652,
+        "word": "夜王排片",
+        "onboard_time": 1771861702,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51963,
+        "num": 69118,
+        "word": "孩子把摔炮当糖果入口后爆炸",
+        "onboard_time": 1771846102,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50312,
+        "num": 67379,
+        "word": "徐梦桃拆台说并不享受做家务",
+        "onboard_time": 1771858881,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47922,
+        "num": 64890,
+        "word": "王者血包可以共享了",
+        "onboard_time": 1771854024,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45706,
+        "num": 63355,
+        "word": "无意间看到弟弟的寒假日记",
+        "onboard_time": 1771866858,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63320,
+        "num": 63320,
+        "word": "能谈到结婚的伴侣是什么样的",
+        "onboard_time": 1771850422,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59433,
+        "num": 59433,
+        "word": "女子情绪失控欲跳桥丈夫狂奔阻拦",
+        "onboard_time": 1771866677,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55880,
+        "num": 55880,
+        "word": "镖人票房",
+        "onboard_time": 1771847000,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53069,
+        "num": 53069,
+        "word": "韩振直播",
+        "onboard_time": 1771859959,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50732,
+        "num": 50732,
+        "word": "免费时段即将结束仍在高速怎么办",
+        "onboard_time": 1771844301,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49342,
+        "num": 49342,
+        "word": "鞠婧祎珍珠腰链",
+        "onboard_time": 1771867276,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49339,
+        "num": 49339,
+        "word": "刘浩存我想象中扎丸子头的样子",
+        "onboard_time": 1771855283,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47694,
+        "num": 47694,
+        "word": "叶舒华瘦下来美成真人bjd了",
+        "onboard_time": 1771841841,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40722,
+        "num": 46022,
+        "word": "高速堵车大聪明选择下国道绕行",
+        "onboard_time": 1771856362,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25881,
+        "num": 45966,
+        "word": "外国游客出境时疯狂点赞中国",
+        "onboard_time": 1771860380,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45922,
+        "num": 45922,
+        "word": "夜王",
+        "onboard_time": 1771857202,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44539,
+        "num": 44539,
+        "word": "王鹤棣说祝大家永远不死",
+        "onboard_time": 1771851680,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42382,
+        "num": 42382,
+        "word": "杨洋工作室回应不让江山相关争议",
+        "onboard_time": 1771851202,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42057,
+        "num": 42057,
+        "word": "没想到卫生间也能跳大跳台",
+        "onboard_time": 1771863440,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41385,
+        "num": 41385,
+        "word": "白鹿曾舜晞梁永棋陈鹤一团建合照",
+        "onboard_time": 1771848801,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39381,
+        "num": 39381,
+        "word": "孙颖莎7比11帕拉南",
+        "onboard_time": 1771859301,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38904,
+        "num": 38904,
+        "word": "惊蛰无声网络评价和现实评价",
+        "onboard_time": 1771861821,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38195,
+        "num": 38195,
+        "word": "金秋天solo曲Odd",
+        "onboard_time": 1771840040,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37845,
+        "num": 37845,
+        "word": "三亚偶遇章子怡一家",
+        "onboard_time": 1771851861,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37577,
+        "num": 37577,
+        "word": "谷爱凌发博晒金牌",
+        "onboard_time": 1771857262,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35797,
+        "num": 35797,
+        "word": "刘宇宁新剧教科书级暧昧避嫌",
+        "onboard_time": 1771864218,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35777,
+        "num": 35777,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1771847602,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34709,
+        "num": 34709,
+        "word": "丞磊王楚然共创回忆录",
+        "onboard_time": 1771848922,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34295,
+        "num": 34295,
+        "word": "狗主人因值机柜台弃狗被捕",
+        "onboard_time": 1771858582,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32763,
+        "num": 32763,
+        "word": "周也出发新西兰了",
+        "onboard_time": 1771863859,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30375,
+        "num": 32761,
+        "word": "夫妻春节不回家送外卖1个月赚4万",
+        "onboard_time": 1771846221,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30254,
+        "num": 32759,
+        "word": "柳智敏solo成绩",
+        "onboard_time": 1771843461,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30177,
+        "num": 32754,
+        "word": "西湖里捞起财物累计价值超600万",
+        "onboard_time": 1771851921,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24652,
+        "num": 32752,
+        "word": "台湾河道弃尸案",
+        "onboard_time": 1771854382,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21566,
+        "num": 32749,
+        "word": "广东一高速春运期间可逆行且合规",
+        "onboard_time": 1771859901,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和四世同堂一家人拉家常#"
+    }
+  }
+}
