@@ -1,6 +1,6 @@
 {
   "startTime": 1771778477494,
-  "endTime": 1771852923273,
+  "endTime": 1771854543086,
   "band_list": [
     {
       "raw_hot": 1592010,
@@ -27,12 +27,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1033690,
+      "num": 1165390,
+      "word": "不让江山剧组声明",
+      "onboard_time": 1771847661,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 979002,
       "num": 597004,
       "word": "史上最贵iPhone要来了",
       "onboard_time": 1771824080,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 922653,
+      "num": 260102,
+      "word": "单依纯 蔻驰",
+      "onboard_time": 1771850242,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 882906,
@@ -49,14 +65,6 @@
       "onboard_time": 1771773923,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 816321,
-      "num": 1130611,
-      "word": "不让江山剧组声明",
-      "onboard_time": 1771847661,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 808463,
@@ -147,14 +155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 626217,
-      "num": 173540,
-      "word": "单依纯 蔻驰",
-      "onboard_time": 1771850242,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 604995,
       "num": 1096799,
       "word": "谷爱凌晒奶奶戴奖牌合照",
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 594510,
-      "num": 172877,
+      "num": 259213,
       "word": "董宇辉自曝不整容的原因",
       "onboard_time": 1771848740,
       "rank": 11,
@@ -188,10 +188,18 @@
     },
     {
       "raw_hot": 574259,
-      "num": 171840,
+      "num": 259247,
       "word": "王格格开了时代峰峻的高会",
       "onboard_time": 1771844361,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 561241,
+      "num": 259910,
+      "word": "三亚偶遇章子怡一家",
+      "onboard_time": 1771851861,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -243,20 +251,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 491665,
+      "num": 325828,
+      "word": "原来全麻手术不是睡着了",
+      "onboard_time": 1771844720,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 490785,
       "num": 490785,
       "word": "IVE回归",
       "onboard_time": 1771838361,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 479045,
-      "num": 325828,
-      "word": "原来全麻手术不是睡着了",
-      "onboard_time": 1771844720,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 468710,
@@ -323,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 413519,
+      "num": 261046,
+      "word": "鸟中刘亦菲也扛不了后置镜头怼脸拍",
+      "onboard_time": 1771852583,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 410531,
       "num": 773845,
       "word": "谷爱凌炸完赛场炸秀场",
@@ -387,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 347819,
-      "num": 170946,
-      "word": "三亚偶遇章子怡一家",
-      "onboard_time": 1771851861,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 345583,
       "num": 711154,
       "word": "镖人连续4天票房逆跌",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 329225,
-      "num": 170279,
+      "num": 258885,
       "word": "孩子把摔炮当糖果入口后爆炸",
       "onboard_time": 1771846102,
       "rank": 37,
@@ -539,6 +547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271664,
+      "num": 260607,
+      "word": "杨洋工作室回应不让江山相关争议",
+      "onboard_time": 1771851202,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271465,
       "num": 271465,
       "word": "女子深陷迷你贷400元分36期",
@@ -579,6 +595,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258758,
+      "num": 258758,
+      "word": "西湖里捞起财物累计价值超600万",
+      "onboard_time": 1771851921,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255064,
+      "num": 255064,
+      "word": "吴佳尼自曝订婚后才知马景涛年龄",
+      "onboard_time": 1771850901,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253897,
       "num": 253897,
       "word": "虞书欣何与 神仙肉",
@@ -593,6 +625,14 @@
       "onboard_time": 1771831160,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244746,
+      "num": 149802,
+      "word": "能谈到结婚的伴侣是什么样的",
+      "onboard_time": 1771850422,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 244299,
@@ -667,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229545,
+      "num": 260271,
+      "word": "孙颖莎vs帕拉南",
+      "onboard_time": 1771852821,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226065,
       "num": 226065,
       "word": "徐梦桃王心迪回应被催生",
@@ -707,12 +755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215665,
-      "num": 148040,
-      "word": "吴佳尼自曝订婚后才知马景涛年龄",
-      "onboard_time": 1771850901,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 209437,
+      "num": 209437,
+      "word": "谷爱凌去年收入超2300万美元",
+      "onboard_time": 1771850961,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 208383,
@@ -827,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188696,
-      "num": 149036,
-      "word": "能谈到结婚的伴侣是什么样的",
-      "onboard_time": 1771850422,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 186438,
       "num": 186438,
       "word": "谷爱凌第三滑94.75分",
@@ -913,14 +953,6 @@
       "onboard_time": 1771825402,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174191,
-      "num": 174191,
-      "word": "杨洋工作室回应不让江山相关争议",
-      "onboard_time": 1771851202,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 172407,
@@ -1035,7 +1067,15 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 147990,
+      "raw_hot": 150430,
+      "num": 130357,
+      "word": "王鹤棣说祝大家永远不死",
+      "onboard_time": 1771851680,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150233,
       "num": 147990,
       "word": "丞磊王楚然共创回忆录",
       "onboard_time": 1771848922,
@@ -1153,14 +1193,6 @@
       "onboard_time": 1771832900,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 132889,
-      "num": 107432,
-      "word": "鸟中刘亦菲也扛不了后置镜头怼脸拍",
-      "onboard_time": 1771852583,
-      "rank": 30,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 132481,
@@ -1291,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117862,
+      "num": 117862,
+      "word": "运动员因庆祝动作不当被取消冠军",
+      "onboard_time": 1771850901,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117260,
       "num": 117260,
       "word": "这和九重紫的叶祖新两模两样",
@@ -1323,12 +1363,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 115128,
-      "num": 152615,
-      "word": "西湖里捞起财物累计价值超600万",
-      "onboard_time": 1771851921,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 114690,
+      "num": 114690,
+      "word": "周洁琼为了重组大半年没休息",
+      "onboard_time": 1771853060,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 113911,
@@ -1379,14 +1419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109267,
-      "num": 106643,
-      "word": "王鹤棣说祝大家永远不死",
-      "onboard_time": 1771851680,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 108979,
       "num": 108979,
       "word": "女生把红包铺满桌子后全部拆开",
@@ -1419,12 +1451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108209,
-      "num": 108209,
-      "word": "孙颖莎vs帕拉南",
-      "onboard_time": 1771852821,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 106033,
+      "num": 106033,
+      "word": "王者血包可以共享了",
+      "onboard_time": 1771854024,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 105901,
@@ -1515,14 +1547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96480,
-      "num": 96480,
-      "word": "运动员因庆祝动作不当被取消冠军",
-      "onboard_time": 1771850901,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95720,
       "num": 89841,
       "word": "陈赫直播提及宋雨琦cut",
@@ -1563,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93499,
+      "num": 93499,
+      "word": "谷爱凌是米饭狂魔",
+      "onboard_time": 1771852282,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93465,
       "num": 92736,
       "word": "悉尼偶遇张柏芝",
@@ -1601,14 +1633,6 @@
       "onboard_time": 1771767203,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 92756,
-      "num": 92756,
-      "word": "谷爱凌是米饭狂魔",
-      "onboard_time": 1771852282,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 92737,
@@ -1819,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84911,
+      "num": 84911,
+      "word": "台湾河道弃尸案",
+      "onboard_time": 1771854382,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84646,
       "num": 84646,
       "word": "如果你发现跟一个人聊天很舒服",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1771846102,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83158,
+      "num": 83158,
+      "word": "飞驰3换轮胎不扔的原因",
+      "onboard_time": 1771854024,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 83082,
@@ -1977,6 +2017,14 @@
       "onboard_time": 1771776022,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76879,
+      "num": 76879,
+      "word": "国际雪联致敬谷爱凌",
+      "onboard_time": 1771854502,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 76301,
@@ -2251,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65762,
+      "num": 118029,
+      "word": "堵在路上的返程大军已老实",
+      "onboard_time": 1771854382,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65439,
       "num": 65439,
       "word": "周翊然新剧首播口碑",
@@ -2363,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58567,
+      "num": 117917,
+      "word": "东南沿海空军战机紧急战备起飞",
+      "onboard_time": 1771854321,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 58423,
       "num": 58423,
       "word": "谷爱凌悲喜交加的一夜",
@@ -2393,6 +2457,14 @@
       "onboard_time": 1771851982,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56912,
+      "num": 116028,
+      "word": "在全党开展树立和践行正确政绩观学习教育",
+      "onboard_time": 1771853601,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56895,
@@ -2787,6 +2859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22658,
+      "num": 106518,
+      "word": "旅客称列车显示延误却已进站开走",
+      "onboard_time": 1771854442,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22014,
       "num": 22014,
       "word": "皇家马德里道歉",
@@ -2953,6 +3033,14 @@
       "onboard_time": 1771764682,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10819,
+      "num": 653690,
+      "word": "塞满的是后备箱温暖的是游子心",
+      "onboard_time": 1771854202,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7538,
