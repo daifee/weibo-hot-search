@@ -1,13 +1,29 @@
 {
   "startTime": 1771778477494,
-  "endTime": 1771817187918,
+  "endTime": 1771823163981,
   "band_list": [
     {
       "raw_hot": 1592010,
-      "num": 128019,
+      "num": 136451,
       "word": "曝厚本被不让江山除名",
       "onboard_time": 1771813520,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1175985,
+      "num": 1188157,
+      "word": "西安大雪",
+      "onboard_time": 1771821381,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1058472,
+      "num": 237280,
+      "word": "神仙肉",
+      "onboard_time": 1771812139,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -36,11 +52,19 @@
     },
     {
       "raw_hot": 676543,
-      "num": 126887,
+      "num": 135799,
       "word": "陈妍希说林心如女儿长的太好看了",
       "onboard_time": 1771805419,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 641249,
+      "num": 867918,
+      "word": "谷爱凌晒金牌打脸外媒",
+      "onboard_time": 1771818199,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 604995,
@@ -91,6 +115,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393545,
+      "num": 393545,
+      "word": "杨幂 这么来历不明的二维码也要扫吗",
+      "onboard_time": 1771822460,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 382018,
+      "num": 243048,
+      "word": "陈飞宇回应李峋你知道吗",
+      "onboard_time": 1771819220,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345583,
       "num": 711154,
       "word": "镖人连续4天票房逆跌",
@@ -131,6 +171,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307743,
+      "num": 185523,
+      "word": "陈丽君自曝把命都交代出去",
+      "onboard_time": 1771818440,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 297763,
+      "num": 185343,
+      "word": "离婚发现女儿非亲生判还抚养费",
+      "onboard_time": 1771819220,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291642,
       "num": 174123,
       "word": "孟子义李昀锐 四搭",
@@ -147,8 +203,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264643,
+      "num": 264643,
+      "word": "谷爱凌夺冠动作形成完美生物力学闭环",
+      "onboard_time": 1771821381,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264340,
-      "num": 126619,
+      "num": 134657,
       "word": "韩媒称韩唯一领先技术被中国反超",
       "onboard_time": 1771815141,
       "rank": 22,
@@ -219,12 +283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223257,
-      "num": 223257,
-      "word": "神仙肉",
-      "onboard_time": 1771812139,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 221240,
+      "num": 221240,
+      "word": "新疆尉犁5.1级地震",
+      "onboard_time": 1771821980,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 215730,
@@ -283,6 +347,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185985,
+      "num": 185985,
+      "word": "尼泊尔巴士坠河致18死20余伤",
+      "onboard_time": 1771821320,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 185064,
+      "num": 185064,
+      "word": "XG制作人SIMON被捕",
+      "onboard_time": 1771818800,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179327,
       "num": 179327,
       "word": "镖人",
@@ -331,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153597,
+      "num": 134036,
+      "word": "金裕贞短发造型",
+      "onboard_time": 1771820720,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144858,
       "num": 144858,
       "word": "苏新皓给妈妈换了一部新手机",
@@ -345,6 +433,14 @@
       "onboard_time": 1771801996,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143578,
+      "num": 132471,
+      "word": "大侦探",
+      "onboard_time": 1771822398,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 142563,
@@ -363,6 +459,30 @@
       "category": "数码"
     },
     {
+      "raw_hot": 139428,
+      "num": 139428,
+      "word": "女子在地铁让座获孕妇百元红包",
+      "onboard_time": 1771816819,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139241,
+      "num": 131890,
+      "word": "刘品言抱女儿打牌",
+      "onboard_time": 1771822340,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137285,
+      "num": 137285,
+      "word": "中方就美国关税动向正式表态",
+      "onboard_time": 1771818199,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136046,
       "num": 529423,
       "word": "米兰冬奥会圣火熄灭",
@@ -379,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132345,
+      "num": 132345,
+      "word": "大理4公里拖车费1400元",
+      "onboard_time": 1771821800,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131205,
       "num": 131205,
       "word": "原来正月初七是人的生日",
@@ -387,12 +515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128818,
+      "num": 117014,
+      "word": "谷爱凌脑回路",
+      "onboard_time": 1771822999,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126448,
       "num": 126448,
       "word": "日本一寺庙举行裸祭上万名男性参加",
       "onboard_time": 1771762882,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123167,
+      "num": 123167,
+      "word": "杨瀚森11分12篮板",
+      "onboard_time": 1771822460,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 122226,
@@ -419,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119290,
+      "num": 119290,
+      "word": "新疆地震",
+      "onboard_time": 1771821018,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 118704,
       "num": 178463,
       "word": "谷爱凌从16分到94分绝地反击",
@@ -433,6 +585,38 @@
       "onboard_time": 1771765403,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112238,
+      "num": 112238,
+      "word": "江浙沪接财神接的是GDP吗",
+      "onboard_time": 1771821800,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 110818,
+      "num": 110818,
+      "word": "江湖夜雨十年灯",
+      "onboard_time": 1771820479,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108979,
+      "num": 108979,
+      "word": "女生把红包铺满桌子后全部拆开",
+      "onboard_time": 1771818023,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108890,
+      "num": 108890,
+      "word": "越来越高级的智能马桶让人不敢坐",
+      "onboard_time": 1771819279,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108804,
@@ -483,6 +667,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93343,
+      "num": 93343,
+      "word": "第一个吃甘蔗比吃螃蟹更厉害",
+      "onboard_time": 1771821740,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 93297,
+      "num": 93297,
+      "word": "谷爱凌商业价值排冬奥运动员第一",
+      "onboard_time": 1771822460,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93228,
       "num": 90899,
       "word": "穆祉丞滑雪服",
@@ -505,6 +705,14 @@
       "onboard_time": 1771801635,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92568,
+      "num": 92568,
+      "word": "侣皓吉吉我跟随你11年了",
+      "onboard_time": 1771820660,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 92138,
@@ -547,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82494,
+      "num": 82494,
+      "word": "父母托关系找的工作应该去吗",
+      "onboard_time": 1771822160,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82057,
       "num": 82057,
       "word": "一个人一旦学会了观察自己",
@@ -569,6 +785,22 @@
       "onboard_time": 1771814961,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81086,
+      "num": 81086,
+      "word": "谷爱凌登顶冬奥收入榜",
+      "onboard_time": 1771822640,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80268,
+      "num": 80268,
+      "word": "陈飞宇孙千新剧热度登顶TOP1",
+      "onboard_time": 1771821141,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 80233,
@@ -651,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70835,
+      "num": 70835,
+      "word": "徐梦桃为传好运给王心迪忍着没洗澡",
+      "onboard_time": 1771822941,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70726,
       "num": 122758,
       "word": "萌娃贴脸啃咬外婆蒸的大白馒头",
@@ -659,12 +899,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70362,
+      "num": 70362,
+      "word": "港股黄金概念股走强",
+      "onboard_time": 1771822941,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 70132,
+      "num": 70132,
+      "word": "詹姆斯43000分",
+      "onboard_time": 1771820780,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70026,
       "num": 70026,
       "word": "王楚钦鹰眼挑战成功",
       "onboard_time": 1771770863,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68342,
+      "num": 68342,
+      "word": "还有4年30后就出生了",
+      "onboard_time": 1771823119,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 68185,
@@ -907,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43096,
+      "num": 72915,
+      "word": "陈丽君阿育娅春节档演员榜断层第一",
+      "onboard_time": 1771821919,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 42192,
       "num": 49473,
       "word": "64岁演员江华暴瘦引网友担忧",
@@ -947,6 +1219,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 40140,
+      "num": 83302,
+      "word": "刘瀚彬期待下一个四年",
+      "onboard_time": 1771822999,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39222,
+      "num": 677689,
+      "word": "中国红闪耀米兰冬奥闭幕式",
+      "onboard_time": 1771802657,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38526,
       "num": 38526,
       "word": "肖战治愈之旅告一段落",
@@ -977,14 +1265,6 @@
       "onboard_time": 1771760600,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33721,
-      "num": 600859,
-      "word": "中国红闪耀米兰冬奥闭幕式",
-      "onboard_time": 1771802657,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 31405,
@@ -1193,14 +1473,6 @@
       "onboard_time": 1771817058,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 12941,
-      "num": 128507,
-      "word": "女子在地铁让座获孕妇百元红包",
-      "onboard_time": 1771816819,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12504,
