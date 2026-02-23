@@ -1,6 +1,6 @@
 {
   "startTime": 1771863172983,
-  "endTime": 1771875592181,
+  "endTime": 1771880114689,
   "band_list": [
     {
       "raw_hot": 1182807,
@@ -475,20 +475,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35447,
+      "num": 24858,
+      "word": "方家翊自曝和家人划清界限",
+      "onboard_time": 1771873515,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29710,
       "num": 600312,
       "word": "在全党开展树立和践行正确政绩观学习教育",
       "onboard_time": 1771853601,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24858,
-      "num": 24858,
-      "word": "方家翊自曝和家人划清界限",
-      "onboard_time": 1771873515,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 24322,
@@ -507,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20406,
+      "num": 20406,
+      "word": "电视台通报游客采访口音质疑",
+      "onboard_time": 1771874115,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 16620,
       "num": 17072,
       "word": "不让江山剧组称会好好照顾杨洋",
@@ -515,20 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13858,
-      "num": 16020,
-      "word": "电视台通报游客采访口音质疑",
-      "onboard_time": 1771874115,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 13774,
       "num": 16020,
       "word": "好好的时光",
       "onboard_time": 1771849642,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12872,
+      "num": 13716,
+      "word": "小鬼直播逛米兰",
+      "onboard_time": 1771871175,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 10588,
