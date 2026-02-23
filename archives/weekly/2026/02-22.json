@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771890045572,
+  "endTime": 1771890902744,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1182807,
-      "num": 121656,
+      "num": 134645,
       "word": "刘耀文",
       "onboard_time": 1771864818,
       "rank": 10,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 641556,
-      "num": 121144,
+      "num": 122470,
       "word": "丁程鑫",
       "onboard_time": 1771864818,
       "rank": 11,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 611004,
+      "num": 1048385,
+      "word": "误转69万公款对方拒绝退款",
+      "onboard_time": 1771859001,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 604995,
       "num": 1096799,
       "word": "谷爱凌晒奶奶戴奖牌合照",
@@ -409,14 +417,6 @@
       "onboard_time": 1771768823,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 581372,
-      "num": 928800,
-      "word": "误转69万公款对方拒绝退款",
-      "onboard_time": 1771859001,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 577832,
@@ -481,6 +481,14 @@
       "onboard_time": 1771841240,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 541063,
+      "num": 99456,
+      "word": "宋亚轩",
+      "onboard_time": 1771887676,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 535951,
@@ -611,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 473051,
+      "num": 211187,
+      "word": "伊朗",
+      "onboard_time": 1771732160,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 463770,
       "num": 463770,
       "word": "谷爱凌第一滑30.00分",
@@ -707,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 427286,
-      "num": 69523,
-      "word": "宋亚轩",
-      "onboard_time": 1771887676,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 416017,
       "num": 222188,
       "word": "打麻将微信步数一万多",
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 396358,
-      "num": 684522,
+      "num": 783284,
       "word": "墨西哥毒枭身亡事件华人发声",
       "onboard_time": 1771861999,
       "rank": 46,
@@ -905,14 +913,6 @@
       "onboard_time": 1771842141,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 369937,
-      "num": 211187,
-      "word": "伊朗",
-      "onboard_time": 1771732160,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 369934,
@@ -1363,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262860,
+      "num": 262860,
+      "word": "上班",
+      "onboard_time": 1771855400,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262745,
       "num": 205229,
       "word": "特朗普开始报复了",
@@ -1547,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235644,
-      "num": 235644,
-      "word": "上班",
-      "onboard_time": 1771855400,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234672,
       "num": 217404,
       "word": "夫妻争吵男子抛子入河妻子跳河施救",
@@ -1673,6 +1673,14 @@
       "onboard_time": 1771756822,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224562,
+      "num": 224562,
+      "word": "考研出分时间",
+      "onboard_time": 1771888937,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 224256,
@@ -1859,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195541,
+      "num": 195541,
+      "word": "谷爱凌或考虑进入其他行业",
+      "onboard_time": 1771890678,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195042,
       "num": 195042,
       "word": "大理4公里拖车费1400元",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1771822460,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194005,
+      "num": 194005,
+      "word": "高速堵车大聪明选择下国道绕行",
+      "onboard_time": 1771856362,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193380,
@@ -2193,14 +2217,6 @@
       "onboard_time": 1771825402,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174087,
-      "num": 167890,
-      "word": "高速堵车大聪明选择下国道绕行",
-      "onboard_time": 1771856362,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173032,
@@ -3219,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113410,
+      "num": 113410,
+      "word": "开工大吉",
+      "onboard_time": 1771890258,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113318,
       "num": 102619,
       "word": "韩雨彤回应拍古装做了美甲",
@@ -3233,6 +3257,14 @@
       "onboard_time": 1771832541,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112743,
+      "num": 96615,
+      "word": "鞠婧祎珍珠腰链",
+      "onboard_time": 1771867276,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 112369,
@@ -3579,14 +3611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100965,
-      "num": 67213,
-      "word": "鞠婧祎珍珠腰链",
-      "onboard_time": 1771867276,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100639,
       "num": 100639,
       "word": "经常吃太饱身体会发生什么变化",
@@ -3803,14 +3827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92794,
-      "num": 92794,
-      "word": "考研出分时间",
-      "onboard_time": 1771888937,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 92742,
       "num": 112889,
       "word": "如果你在我25岁之前认识我",
@@ -3880,6 +3896,14 @@
       "word": "熊猫紧抱游客手机不让饲养员取回",
       "onboard_time": 1771830080,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92017,
+      "num": 88583,
+      "word": "高速",
+      "onboard_time": 1771889057,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -4001,6 +4025,14 @@
       "onboard_time": 1771744400,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 88657,
+      "num": 88657,
+      "word": "方家翊自曝和家人划清界限",
+      "onboard_time": 1771873515,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 88509,
@@ -4265,6 +4297,14 @@
       "onboard_time": 1771754121,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81887,
+      "num": 81887,
+      "word": "A股马年开市",
+      "onboard_time": 1771890739,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 81683,
@@ -4603,14 +4643,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 73712,
-      "num": 73712,
-      "word": "方家翊自曝和家人划清界限",
-      "onboard_time": 1771873515,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73338,
       "num": 104721,
       "word": "亲历墨西哥暴乱中国游客发声",
@@ -4777,6 +4809,14 @@
       "onboard_time": 1771820780,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69554,
+      "num": 69554,
+      "word": "BLACKPINK新歌GOmv预告",
+      "onboard_time": 1771888937,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 68729,
@@ -5267,22 +5307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56400,
-      "num": 56400,
-      "word": "高速",
-      "onboard_time": 1771889057,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56373,
-      "num": 56373,
-      "word": "BLACKPINK新歌GOmv预告",
-      "onboard_time": 1771888937,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 55988,
       "num": 55988,
       "word": "徐梦桃换个身份亮相闭幕式",
@@ -5339,6 +5363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54965,
+      "num": 54965,
+      "word": "宋亚轩晒照祝丁程鑫程鑫如意",
+      "onboard_time": 1771888276,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54350,
       "num": 93478,
       "word": "欧阳震华暴瘦引热议",
@@ -5377,6 +5409,22 @@
       "onboard_time": 1771840821,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51997,
+      "num": 51997,
+      "word": "电视台通报游客采访口音质疑",
+      "onboard_time": 1771874115,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 51387,
+      "num": 51387,
+      "word": "谷爱凌把LV项链借斯坦福室友去约会",
+      "onboard_time": 1771890859,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 51270,
@@ -5473,6 +5521,14 @@
       "onboard_time": 1771695916,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46657,
+      "num": 46657,
+      "word": "曼联战胜埃弗顿",
+      "onboard_time": 1771890319,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 46106,
@@ -5625,14 +5681,6 @@
       "onboard_time": 1771777879,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 40162,
-      "num": 40162,
-      "word": "电视台通报游客采访口音质疑",
-      "onboard_time": 1771874115,
-      "rank": 45,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 40140,
@@ -5988,7 +6036,7 @@
     },
     {
       "raw_hot": 20971,
-      "num": 56376,
+      "num": 69941,
       "word": "人民日报专访教练李琰",
       "onboard_time": 1771869016,
       "rank": 28,
