@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771837207931,
+  "endTime": 1771838061590,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -3579,6 +3579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 765793,
+      "num": 1122527,
+      "word": "男子花5600元套中汽车使用权商家反悔",
+      "onboard_time": 1771833740,
+      "rank": 34,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 762546,
       "num": 704257,
       "word": "陈哲远 散财童子",
@@ -4641,14 +4649,6 @@
       "onboard_time": 1771154540,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 652483,
-      "num": 1104397,
-      "word": "男子花5600元套中汽车使用权商家反悔",
-      "onboard_time": 1771833740,
-      "rank": 34,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 650071,
@@ -6803,6 +6803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508257,
+      "num": 223518,
+      "word": "易梦玲称将捐出全部直播收入",
+      "onboard_time": 1771832481,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507946,
       "num": 507946,
       "word": "14万房子涨到180万等20年才拿回",
@@ -7625,14 +7633,6 @@
       "onboard_time": 1770084439,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 465361,
-      "num": 223518,
-      "word": "易梦玲称将捐出全部直播收入",
-      "onboard_time": 1771832481,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 465325,
@@ -12035,6 +12035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334050,
+      "num": 271521,
+      "word": "初八上班的我就这样",
+      "onboard_time": 1771830259,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 333915,
       "num": 333915,
       "word": "父母托关系找的工作应该去吗",
@@ -12409,14 +12417,6 @@
       "onboard_time": 1770965120,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 324763,
-      "num": 271521,
-      "word": "初八上班的我就这样",
-      "onboard_time": 1771830259,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 324128,
@@ -18299,6 +18299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232993,
+      "num": 232993,
+      "word": "星河入梦 春节档遗珠",
+      "onboard_time": 1771829480,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232673,
       "num": 232673,
       "word": "一大批年轻人开始反向过年",
@@ -18321,14 +18329,6 @@
       "onboard_time": 1770305366,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232565,
-      "num": 232565,
-      "word": "星河入梦 春节档遗珠",
-      "onboard_time": 1771829480,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 232448,
@@ -33723,6 +33723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113911,
+      "num": 113911,
+      "word": "马嘉祺高会更新",
+      "onboard_time": 1771836200,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113885,
       "num": 100413,
       "word": "陈妍希脱口秀首秀",
@@ -33833,14 +33841,6 @@
       "onboard_time": 1770683721,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113445,
-      "num": 113445,
-      "word": "马嘉祺高会更新",
-      "onboard_time": 1771836200,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 113436,
@@ -34249,6 +34249,14 @@
       "onboard_time": 1771597703,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112369,
+      "num": 112369,
+      "word": "内娱终于有古偶新面孔了",
+      "onboard_time": 1771837401,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 112368,
@@ -35664,6 +35672,14 @@
       "word": "过年新人设是鲜衣怒马",
       "onboard_time": 1770799280,
       "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 107968,
+      "num": 107968,
+      "word": "猫11.8斤等于人200斤",
+      "onboard_time": 1771834761,
+      "rank": 32,
       "category": "幽默"
     },
     {
@@ -40555,14 +40571,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 94374,
-      "num": 94374,
-      "word": "猫11.8斤等于人200斤",
-      "onboard_time": 1771834761,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94351,
       "num": 94351,
       "word": "近视眼的世界真这么离谱吗",
@@ -42180,7 +42188,7 @@
     },
     {
       "raw_hot": 90539,
-      "num": 88299,
+      "num": 89219,
       "word": "青2陈品瑄自曝曾被性骚扰",
       "onboard_time": 1771833380,
       "rank": 41,
@@ -50835,6 +50843,14 @@
       "category": "综艺,美食"
     },
     {
+      "raw_hot": 70082,
+      "num": 70082,
+      "word": "开学焦虑症",
+      "onboard_time": 1771837941,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70062,
       "num": 70062,
       "word": "EDG十五番战BLG",
@@ -51233,6 +51249,14 @@
       "onboard_time": 1771464681,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 68649,
+      "num": 68649,
+      "word": "孙颖莎梦回23年",
+      "onboard_time": 1771837161,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68639,
@@ -52531,6 +52555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65299,
+      "num": 65299,
+      "word": "虞书欣云初令高马尾路透",
+      "onboard_time": 1771837701,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65263,
       "num": 97744,
       "word": "徐梦桃齐广璞米兰冬奥首秀",
@@ -52649,14 +52681,6 @@
       "onboard_time": 1770189080,
       "rank": 47,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 65016,
-      "num": 65016,
-      "word": "孙颖莎梦回23年",
-      "onboard_time": 1771837161,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 64990,
@@ -52937,6 +52961,14 @@
       "onboard_time": 1771384940,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64258,
+      "num": 64069,
+      "word": "大橘一脚踹开easy的门",
+      "onboard_time": 1771838000,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 64245,
@@ -57259,6 +57291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46289,
+      "num": 104721,
+      "word": "亲历墨西哥暴乱中国游客发声",
+      "onboard_time": 1771837820,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46278,
       "num": 140452,
       "word": "新年和荣耀500一起舞摆一起Live",
@@ -57513,6 +57553,14 @@
       "onboard_time": 1770018261,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45101,
+      "num": 654981,
+      "word": "你的返程藏着他们满眼的不舍",
+      "onboard_time": 1771834821,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45042,
@@ -58520,14 +58568,6 @@
       "word": "六家人合建的农村自建房像所学校",
       "onboard_time": 1770897381,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41038,
-      "num": 654981,
-      "word": "你的返程藏着他们满眼的不舍",
-      "onboard_time": 1771834821,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -66481,6 +66521,14 @@
       "onboard_time": 1771298422,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7538,
+      "num": 100959,
+      "word": "一辆车就打包了外婆的菜园",
+      "onboard_time": 1771837820,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7534,

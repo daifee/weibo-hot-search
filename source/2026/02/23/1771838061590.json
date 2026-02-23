@@ -1,0 +1,410 @@
+{
+  "runTime": 1771838061590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 765793,
+        "num": 1122527,
+        "word": "男子花5600元套中汽车使用权商家反悔",
+        "onboard_time": 1771833740,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 345853,
+        "num": 808757,
+        "word": "男子躲厕所过个瘾致高铁晚点",
+        "onboard_time": 1771828161,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45101,
+        "num": 654766,
+        "word": "你的返程藏着他们满眼的不舍",
+        "onboard_time": 1771834821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248324,
+        "num": 248324,
+        "word": "孟子义将门独后首次出妆",
+        "onboard_time": 1771828280,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232993,
+        "num": 232993,
+        "word": "星河入梦 春节档遗珠",
+        "onboard_time": 1771829480,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 334050,
+        "num": 230148,
+        "word": "初八上班的我就这样",
+        "onboard_time": 1771830259,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262939,
+        "num": 228752,
+        "word": "舅舅看到你剪成这样也会释怀",
+        "onboard_time": 1771832660,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268662,
+        "num": 225364,
+        "word": "初一家里有43人过完年只剩老人在家",
+        "onboard_time": 1771830559,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217846,
+        "num": 217846,
+        "word": "贾乃亮看黄景瑜新剧看哭了",
+        "onboard_time": 1771835061,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167558,
+        "num": 167558,
+        "word": "谷爱凌说我不退役我才22岁",
+        "onboard_time": 1771827319,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 662093,
+        "num": 167550,
+        "word": "史上最贵iPhone要来了",
+        "onboard_time": 1771824080,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 508257,
+        "num": 167500,
+        "word": "易梦玲称将捐出全部直播收入",
+        "onboard_time": 1771832481,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472526,
+        "num": 167458,
+        "word": "叶祖新合照 想过了官宣没想到是亲戚",
+        "onboard_time": 1771828879,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363553,
+        "num": 167416,
+        "word": "打麻将微信步数一万多",
+        "onboard_time": 1771832300,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 390667,
+        "num": 167356,
+        "word": "大冰 谢谢您替我和小姑娘背负厄运",
+        "onboard_time": 1771835001,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163896,
+        "num": 167319,
+        "word": "谷爱凌晒金牌打脸外媒",
+        "onboard_time": 1771818199,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205879,
+        "num": 167275,
+        "word": "杨幂 这么来历不明的二维码也要扫吗",
+        "onboard_time": 1771822460,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167248,
+        "num": 167248,
+        "word": "韩国偶遇白鹿曾舜晞逛街",
+        "onboard_time": 1771827799,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131175,
+        "num": 131175,
+        "word": "第一个吃甘蔗比吃螃蟹更厉害",
+        "onboard_time": 1771821740,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120244,
+        "num": 120244,
+        "word": "西安大雪",
+        "onboard_time": 1771821381,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183872,
+        "num": 119043,
+        "word": "易梦玲晒比基尼照",
+        "onboard_time": 1771833082,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178666,
+        "num": 117918,
+        "word": "美29岁女教师与未成年发生关系被捕",
+        "onboard_time": 1771832599,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174994,
+        "num": 116056,
+        "word": "墨西哥毒枭几乎没有近照流出",
+        "onboard_time": 1771834640,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122729,
+        "num": 114752,
+        "word": "曝厚本被不让江山除名",
+        "onboard_time": 1771813520,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113911,
+        "num": 113911,
+        "word": "马嘉祺高会更新",
+        "onboard_time": 1771836200,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113269,
+        "num": 113269,
+        "word": "哈尔滨300多只东北虎将轻断食",
+        "onboard_time": 1771832061,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112369,
+        "num": 112369,
+        "word": "内娱终于有古偶新面孔了",
+        "onboard_time": 1771837401,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112367,
+        "num": 112367,
+        "word": "黄一鸣整了马甲线",
+        "onboard_time": 1771831160,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107968,
+        "num": 107968,
+        "word": "猫11.8斤等于人200斤",
+        "onboard_time": 1771834761,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68731,
+        "num": 107061,
+        "word": "谷爱凌脑回路",
+        "onboard_time": 1771822999,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46289,
+        "num": 104721,
+        "word": "亲历墨西哥暴乱中国游客发声",
+        "onboard_time": 1771837820,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207945,
+        "num": 103120,
+        "word": "夫妻争吵男子抛子入河妻子跳河施救",
+        "onboard_time": 1771831340,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7538,
+        "num": 100959,
+        "word": "一辆车就打包了外婆的菜园",
+        "onboard_time": 1771837820,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99980,
+        "num": 99980,
+        "word": "问界M9起火声明",
+        "onboard_time": 1771832900,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 96048,
+        "num": 96048,
+        "word": "男子聚餐夜宵后体内滤出7斤油",
+        "onboard_time": 1771832541,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93359,
+        "num": 93359,
+        "word": "疑似杨洋回家养伤",
+        "onboard_time": 1771830801,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89219,
+        "num": 89219,
+        "word": "青2陈品瑄自曝曾被性骚扰",
+        "onboard_time": 1771833380,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82580,
+        "num": 82580,
+        "word": "过年后的银行ATM机",
+        "onboard_time": 1771829480,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89011,
+        "num": 82525,
+        "word": "闵熙珍带newjeans和日本财阀见面",
+        "onboard_time": 1771831460,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80595,
+        "num": 80595,
+        "word": "江湖夜雨十年灯",
+        "onboard_time": 1771820479,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75744,
+        "num": 75744,
+        "word": "西安雪片大如硬币",
+        "onboard_time": 1771833921,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74262,
+        "num": 74262,
+        "word": "第一批年轻人年后离家实录",
+        "onboard_time": 1771835300,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70082,
+        "num": 70082,
+        "word": "开学焦虑症",
+        "onboard_time": 1771837941,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69009,
+        "num": 69009,
+        "word": "零负债人群的生活方式",
+        "onboard_time": 1771831703,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68649,
+        "num": 68649,
+        "word": "孙颖莎梦回23年",
+        "onboard_time": 1771837161,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65299,
+        "num": 65299,
+        "word": "虞书欣云初令高马尾路透",
+        "onboard_time": 1771837701,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64498,
+        "num": 64498,
+        "word": "不要和同事聊假期",
+        "onboard_time": 1771835841,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64303,
+        "num": 64303,
+        "word": "李柯以给短剧上强度了",
+        "onboard_time": 1771829959,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64105,
+        "num": 64105,
+        "word": "吴京 人老了干什么都心酸",
+        "onboard_time": 1771829061,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64258,
+        "num": 64069,
+        "word": "大橘一脚踹开easy的门",
+        "onboard_time": 1771838000,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺金正恩#"
+    }
+  }
+}

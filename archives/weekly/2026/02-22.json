@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771837207931,
+  "endTime": 1771838061590,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 765793,
+      "num": 1122527,
+      "word": "男子花5600元套中汽车使用权商家反悔",
+      "onboard_time": 1771833740,
+      "rank": 34,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 760099,
       "num": 103148,
       "word": "曝齐思钧刘梦章分手",
@@ -265,14 +273,6 @@
       "onboard_time": 1771735700,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 652483,
-      "num": 1104397,
-      "word": "男子花5600元套中汽车使用权商家反悔",
-      "onboard_time": 1771833740,
-      "rank": 34,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 641249,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 508257,
+      "num": 223518,
+      "word": "易梦玲称将捐出全部直播收入",
+      "onboard_time": 1771832481,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497422,
       "num": 220492,
       "word": "李峋的vlog全是公主",
@@ -448,14 +456,6 @@
       "word": "杨洋手部骨折",
       "onboard_time": 1771729821,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 465361,
-      "num": 223518,
-      "word": "易梦玲称将捐出全部直播收入",
-      "onboard_time": 1771832481,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -795,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334050,
+      "num": 271521,
+      "word": "初八上班的我就这样",
+      "onboard_time": 1771830259,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 333915,
       "num": 333915,
       "word": "父母托关系找的工作应该去吗",
@@ -809,14 +817,6 @@
       "onboard_time": 1771768162,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 324763,
-      "num": 271521,
-      "word": "初八上班的我就这样",
-      "onboard_time": 1771830259,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 322862,
@@ -1259,8 +1259,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232565,
-      "num": 232565,
+      "raw_hot": 232993,
+      "num": 232993,
       "word": "星河入梦 春节档遗珠",
       "onboard_time": 1771829480,
       "rank": 9,
@@ -2595,6 +2595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113911,
+      "num": 113911,
+      "word": "马嘉祺高会更新",
+      "onboard_time": 1771836200,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113675,
       "num": 113675,
       "word": "妈祖巡游事件涉事女童为普通家庭",
@@ -2603,20 +2611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113445,
-      "num": 113445,
-      "word": "马嘉祺高会更新",
-      "onboard_time": 1771836200,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113254,
       "num": 118218,
       "word": "男子聚餐夜宵后体内滤出7斤油",
       "onboard_time": 1771832541,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112369,
+      "num": 112369,
+      "word": "内娱终于有古偶新面孔了",
+      "onboard_time": 1771837401,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 112238,
@@ -2753,6 +2761,14 @@
       "onboard_time": 1771679603,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107968,
+      "num": 107968,
+      "word": "猫11.8斤等于人200斤",
+      "onboard_time": 1771834761,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 107576,
@@ -3003,14 +3019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94374,
-      "num": 94374,
-      "word": "猫11.8斤等于人200斤",
-      "onboard_time": 1771834761,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94264,
       "num": 94264,
       "word": "沈梦辰杜海涛同游德国",
@@ -3164,7 +3172,7 @@
     },
     {
       "raw_hot": 90539,
-      "num": 88299,
+      "num": 89219,
       "word": "青2陈品瑄自曝曾被性骚扰",
       "onboard_time": 1771833380,
       "rank": 41,
@@ -3795,6 +3803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70082,
+      "num": 70082,
+      "word": "开学焦虑症",
+      "onboard_time": 1771837941,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68729,
       "num": 103480,
       "word": "女子将900克黄金遗忘动车当场吓晕",
@@ -3807,6 +3823,14 @@
       "num": 68683,
       "word": "徐梦桃回应团体丢金",
       "onboard_time": 1771752080,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68649,
+      "num": 68649,
+      "word": "孙颖莎梦回23年",
+      "onboard_time": 1771837161,
       "rank": 49,
       "category": "体育"
     },
@@ -3963,6 +3987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65299,
+      "num": 65299,
+      "word": "虞书欣云初令高马尾路透",
+      "onboard_time": 1771837701,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65180,
       "num": 99215,
       "word": "俄使馆在首尔挂巨幅标语并拒绝撤下",
@@ -3971,20 +4003,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 65016,
-      "num": 65016,
-      "word": "孙颖莎梦回23年",
-      "onboard_time": 1771837161,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64723,
       "num": 64723,
       "word": "火箭vs尼克斯",
       "onboard_time": 1771728200,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64258,
+      "num": 64069,
+      "word": "大橘一脚踹开easy的门",
+      "onboard_time": 1771838000,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 64233,
@@ -4323,6 +4355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46289,
+      "num": 104721,
+      "word": "亲历墨西哥暴乱中国游客发声",
+      "onboard_time": 1771837820,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46106,
       "num": 46106,
       "word": "意大利人是真懂艺术的",
@@ -4353,6 +4393,14 @@
       "onboard_time": 1771690459,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 45101,
+      "num": 654981,
+      "word": "你的返程藏着他们满眼的不舍",
+      "onboard_time": 1771834821,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44635,
@@ -4432,14 +4480,6 @@
       "word": "记者水贝采访被催抓紧时间要做生意",
       "onboard_time": 1771774164,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41038,
-      "num": 654981,
-      "word": "你的返程藏着他们满眼的不舍",
-      "onboard_time": 1771834821,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -4920,6 +4960,14 @@
       "word": "致敬海拔4868米云端哨所的守护者",
       "onboard_time": 1771746501,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7538,
+      "num": 100959,
+      "word": "一辆车就打包了外婆的菜园",
+      "onboard_time": 1771837820,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
