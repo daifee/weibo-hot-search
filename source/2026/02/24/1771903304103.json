@@ -1,0 +1,410 @@
+{
+  "runTime": 1771903304103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1567504,
+        "num": 1567504,
+        "word": "12306半夜候补成功1700元车票作废",
+        "onboard_time": 1771898961,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1249802,
+        "num": 1249802,
+        "word": "考研出分时间",
+        "onboard_time": 1771888937,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21320,
+        "num": 995438,
+        "word": "在全党开展树立和践行正确政绩观学习教育",
+        "onboard_time": 1771853601,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 764240,
+        "num": 764240,
+        "word": "灵隐寺惊现110万家厂商祈福",
+        "onboard_time": 1771900520,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444344,
+        "num": 444344,
+        "word": "韩寒透露飞驰人生4",
+        "onboard_time": 1771900640,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1498982,
+        "num": 440848,
+        "word": "妈祖被换女孩三天涨粉几十万",
+        "onboard_time": 1771898601,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430209,
+        "num": 430209,
+        "word": "考研查分",
+        "onboard_time": 1771897880,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 421806,
+        "num": 421806,
+        "word": "高速免费最后1分钟实拍",
+        "onboard_time": 1771893920,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314879,
+        "num": 314879,
+        "word": "郑钦文取关里巴教练",
+        "onboard_time": 1771902442,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289198,
+        "num": 289198,
+        "word": "车主卡点下高速失败缴费400元",
+        "onboard_time": 1771897639,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 854995,
+        "num": 287987,
+        "word": "黄金",
+        "onboard_time": 1771897580,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 633638,
+        "num": 287101,
+        "word": "秋雅别打电话了 我怕夏洛误会",
+        "onboard_time": 1771897039,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286186,
+        "num": 286186,
+        "word": "曝百妖谱主演阵容",
+        "onboard_time": 1771899441,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229884,
+        "num": 229884,
+        "word": "iPhone18Pro小批量试产",
+        "onboard_time": 1771894041,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 252903,
+        "num": 227637,
+        "word": "飞驰人生3春节档冠军",
+        "onboard_time": 1771897762,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220937,
+        "num": 220937,
+        "word": "研招网",
+        "onboard_time": 1771896320,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194456,
+        "num": 194456,
+        "word": "iPhone18Pro新配色目标一眼最新款",
+        "onboard_time": 1771901601,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189755,
+        "num": 189755,
+        "word": "代旭劝学",
+        "onboard_time": 1771897100,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176031,
+        "num": 176031,
+        "word": "考研",
+        "onboard_time": 1771896381,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67177,
+        "num": 171141,
+        "word": "2月生日奶茶白薅",
+        "onboard_time": 1771902621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167244,
+        "num": 167244,
+        "word": "A股",
+        "onboard_time": 1771898780,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165695,
+        "num": 165695,
+        "word": "开工大吉",
+        "onboard_time": 1771890258,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165282,
+        "num": 165282,
+        "word": "不发朋友圈的人是什么性格",
+        "onboard_time": 1771894820,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163403,
+        "num": 163403,
+        "word": "机器人股价",
+        "onboard_time": 1771901901,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161570,
+        "num": 161570,
+        "word": "夜王 尺度",
+        "onboard_time": 1771856782,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160355,
+        "num": 160355,
+        "word": "章若楠王安宇排名不分先后",
+        "onboard_time": 1771903162,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152861,
+        "num": 152861,
+        "word": "石雷鹏 今天大概率出不了分",
+        "onboard_time": 1771897639,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150998,
+        "num": 150998,
+        "word": "肖战 Gucci",
+        "onboard_time": 1771902921,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149159,
+        "num": 149159,
+        "word": "雷军亲自发开工红包",
+        "onboard_time": 1771900162,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22438,
+        "num": 146308,
+        "word": "多车雨中卡最后时刻压哨过收费站",
+        "onboard_time": 1771902020,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250772,
+        "num": 146262,
+        "word": "多地考研今日出分",
+        "onboard_time": 1771899020,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144997,
+        "num": 144997,
+        "word": "杨洋方安抚粉丝",
+        "onboard_time": 1771893379,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142145,
+        "num": 142145,
+        "word": "夜王 删镜头",
+        "onboard_time": 1771901540,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141406,
+        "num": 141406,
+        "word": "日本",
+        "onboard_time": 1771902859,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140700,
+        "num": 140700,
+        "word": "iPhone18Pro灵动岛缩小35%",
+        "onboard_time": 1771896440,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125589,
+        "num": 125589,
+        "word": "误转69万公款对方拒绝退款",
+        "onboard_time": 1771859001,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114554,
+        "num": 120269,
+        "word": "20家日本实体列入出口管制管控名单",
+        "onboard_time": 1771901841,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118915,
+        "num": 118915,
+        "word": "惊蛰无声春节档第二",
+        "onboard_time": 1771902261,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117601,
+        "num": 117601,
+        "word": "光线传媒等多股跌停",
+        "onboard_time": 1771902319,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117124,
+        "num": 117124,
+        "word": "想把你和时间藏起来官宣",
+        "onboard_time": 1771901000,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110559,
+        "num": 110559,
+        "word": "节后不想上班不是懒",
+        "onboard_time": 1771902140,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108557,
+        "num": 108557,
+        "word": "谷爱凌斯坦福大学宿舍曾被闯入",
+        "onboard_time": 1771898601,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106131,
+        "num": 106131,
+        "word": "少女9300元贱卖妈妈13万奢侈品",
+        "onboard_time": 1771894100,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100167,
+        "num": 100167,
+        "word": "谷爱凌在斯坦福选修量子物理哲学",
+        "onboard_time": 1771898539,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99799,
+        "num": 99799,
+        "word": "谷爱凌年收入全球女运动员第四",
+        "onboard_time": 1771902201,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98776,
+        "num": 98776,
+        "word": "恢复精力最有用的运动",
+        "onboard_time": 1771902982,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 97374,
+        "num": 97374,
+        "word": "这样做帮你瘦回节前体重",
+        "onboard_time": 1771900162,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96081,
+        "num": 96081,
+        "word": "谷爱凌我有个想法但我不敢说",
+        "onboard_time": 1771895300,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92882,
+        "num": 92882,
+        "word": "小米马年开工两件大事",
+        "onboard_time": 1771899079,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 92006,
+        "num": 92006,
+        "word": "周也张婧仪宋威龙张凌赫 莞莞类卿",
+        "onboard_time": 1771899321,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和四世同堂一家人拉家常#"
+    }
+  }
+}

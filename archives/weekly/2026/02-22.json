@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771900974599,
+  "endTime": 1771903304103,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -75,11 +75,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1501435,
-      "num": 1501435,
+      "raw_hot": 1567504,
+      "num": 1567504,
       "word": "12306半夜候补成功1700元车票作废",
       "onboard_time": 1771898961,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1498982,
+      "num": 710580,
+      "word": "妈祖被换女孩三天涨粉几十万",
+      "onboard_time": 1771898601,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -97,14 +105,6 @@
       "onboard_time": 1771685843,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1324961,
-      "num": 710580,
-      "word": "妈祖被换女孩三天涨粉几十万",
-      "onboard_time": 1771898601,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1223263,
@@ -265,6 +265,14 @@
       "onboard_time": 1771833740,
       "rank": 34,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 764240,
+      "num": 764240,
+      "word": "灵隐寺惊现110万家厂商祈福",
+      "onboard_time": 1771900520,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 760099,
@@ -715,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 444344,
+      "num": 444344,
+      "word": "韩寒透露飞驰人生4",
+      "onboard_time": 1771900640,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 441515,
       "num": 359222,
       "word": "谷爱凌场外收入是奖金230倍",
@@ -1115,14 +1131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 333319,
-      "num": 333319,
-      "word": "灵隐寺惊现110万家厂商祈福",
-      "onboard_time": 1771900520,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 329225,
       "num": 258885,
       "word": "孩子把摔炮当糖果入口后爆炸",
@@ -1168,6 +1176,14 @@
       "word": "胡锡进锐评谷爱凌",
       "onboard_time": 1771858402,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 314879,
+      "num": 314879,
+      "word": "郑钦文取关里巴教练",
+      "onboard_time": 1771902442,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -1321,6 +1337,14 @@
       "onboard_time": 1771684041,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286186,
+      "num": 286186,
+      "word": "曝百妖谱主演阵容",
+      "onboard_time": 1771899441,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 285414,
@@ -2011,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194456,
+      "num": 194456,
+      "word": "iPhone18Pro新配色目标一眼最新款",
+      "onboard_time": 1771901601,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194005,
       "num": 194005,
       "word": "高速堵车大聪明选择下国道绕行",
@@ -2107,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189755,
+      "num": 189755,
+      "word": "代旭劝学",
+      "onboard_time": 1771897100,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189125,
       "num": 189125,
       "word": "厚本 长剧",
@@ -2145,14 +2185,6 @@
       "onboard_time": 1771685302,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 186308,
-      "num": 186308,
-      "word": "代旭劝学",
-      "onboard_time": 1771897100,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 185731,
@@ -2467,6 +2499,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 163403,
+      "num": 163403,
+      "word": "机器人股价",
+      "onboard_time": 1771901901,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162832,
       "num": 162832,
       "word": "墨西哥毒枭向家乡果农收保护费",
@@ -2489,6 +2529,14 @@
       "onboard_time": 1771828341,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160355,
+      "num": 160355,
+      "word": "章若楠王安宇排名不分先后",
+      "onboard_time": 1771903162,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 159695,
@@ -2619,6 +2667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150998,
+      "num": 150998,
+      "word": "肖战 Gucci",
+      "onboard_time": 1771902921,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150233,
       "num": 147990,
       "word": "丞磊王楚然共创回忆录",
@@ -2641,6 +2697,14 @@
       "onboard_time": 1771678462,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149159,
+      "num": 149159,
+      "word": "雷军亲自发开工红包",
+      "onboard_time": 1771900162,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 148929,
@@ -2689,6 +2753,14 @@
       "onboard_time": 1771767022,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144997,
+      "num": 144997,
+      "word": "杨洋方安抚粉丝",
+      "onboard_time": 1771893379,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 144864,
@@ -2787,6 +2859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142145,
+      "num": 142145,
+      "word": "夜王 删镜头",
+      "onboard_time": 1771901540,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142055,
       "num": 142055,
       "word": "田曦薇看似甜妹实则拽妹",
@@ -2809,6 +2889,14 @@
       "onboard_time": 1771841000,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141406,
+      "num": 141406,
+      "word": "日本",
+      "onboard_time": 1771902859,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141366,
@@ -2865,14 +2953,6 @@
       "onboard_time": 1771748540,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139702,
-      "num": 135407,
-      "word": "杨洋方安抚粉丝",
-      "onboard_time": 1771893379,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 139428,
@@ -2993,14 +3073,6 @@
       "onboard_time": 1771684522,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133202,
-      "num": 133202,
-      "word": "曝百妖谱主演阵容",
-      "onboard_time": 1771899441,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 133201,
@@ -3137,14 +3209,6 @@
       "onboard_time": 1771855522,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127598,
-      "num": 127598,
-      "word": "韩寒透露飞驰人生4",
-      "onboard_time": 1771900640,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 127573,
@@ -3347,6 +3411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118915,
+      "num": 118915,
+      "word": "惊蛰无声春节档第二",
+      "onboard_time": 1771902261,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117970,
       "num": 117970,
       "word": "26岁女生摆摊拍新年照当场出片",
@@ -3361,6 +3433,14 @@
       "onboard_time": 1771850901,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117601,
+      "num": 117601,
+      "word": "光线传媒等多股跌停",
+      "onboard_time": 1771902319,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 117405,
@@ -3384,6 +3464,14 @@
       "word": "这和九重紫的叶祖新两模两样",
       "onboard_time": 1771833799,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117124,
+      "num": 117124,
+      "word": "想把你和时间藏起来官宣",
+      "onboard_time": 1771901000,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -3465,6 +3553,14 @@
       "onboard_time": 1771763782,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114554,
+      "num": 120269,
+      "word": "20家日本实体列入出口管制管控名单",
+      "onboard_time": 1771901841,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114103,
@@ -3569,6 +3665,14 @@
       "onboard_time": 1771735640,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110559,
+      "num": 110559,
+      "word": "节后不想上班不是懒",
+      "onboard_time": 1771902140,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110458,
@@ -3811,14 +3915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103758,
-      "num": 103758,
-      "word": "雷军亲自发开工红包",
-      "onboard_time": 1771900162,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 103432,
       "num": 103432,
       "word": "虞书欣粉毛cos妆造舞台",
@@ -3915,6 +4011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99799,
+      "num": 99799,
+      "word": "谷爱凌年收入全球女运动员第四",
+      "onboard_time": 1771902201,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99161,
       "num": 99161,
       "word": "时代少年团 一年一度的楼斯卡",
@@ -3937,6 +4041,14 @@
       "onboard_time": 1771859959,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98776,
+      "num": 98776,
+      "word": "恢复精力最有用的运动",
+      "onboard_time": 1771902982,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 98532,
@@ -3969,6 +4081,14 @@
       "onboard_time": 1771724360,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97374,
+      "num": 97374,
+      "word": "这样做帮你瘦回节前体重",
+      "onboard_time": 1771900162,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 97237,
@@ -4195,6 +4315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92006,
+      "num": 92006,
+      "word": "周也张婧仪宋威龙张凌赫 莞莞类卿",
+      "onboard_time": 1771899321,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91577,
       "num": 148264,
       "word": "湖南6名牺牲消防员名字公布",
@@ -4273,14 +4401,6 @@
       "onboard_time": 1771839921,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90363,
-      "num": 90363,
-      "word": "周也张婧仪宋威龙张凌赫 莞莞类卿",
-      "onboard_time": 1771899321,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 90313,
@@ -5257,6 +5377,14 @@
       "onboard_time": 1771837040,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67177,
+      "num": 171141,
+      "word": "2月生日奶茶白薅",
+      "onboard_time": 1771902621,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67081,
@@ -6360,6 +6488,14 @@
       "word": "春节游万荣坐出租打折却要司机贴钱",
       "onboard_time": 1771773623,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22438,
+      "num": 146308,
+      "word": "多车雨中卡最后时刻压哨过收费站",
+      "onboard_time": 1771902020,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

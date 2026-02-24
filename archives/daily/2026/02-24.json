@@ -1,6 +1,6 @@
 {
   "startTime": 1771863172983,
-  "endTime": 1771900974599,
+  "endTime": 1771903304103,
   "band_list": [
     {
       "raw_hot": 1603433,
@@ -11,15 +11,15 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1501435,
-      "num": 1501435,
+      "raw_hot": 1567504,
+      "num": 1567504,
       "word": "12306半夜候补成功1700元车票作废",
       "onboard_time": 1771898961,
       "rank": 1,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1324961,
+      "raw_hot": 1498982,
       "num": 710580,
       "word": "妈祖被换女孩三天涨粉几十万",
       "onboard_time": 1771898601,
@@ -56,6 +56,14 @@
       "word": "高速免费最后1分钟实拍",
       "onboard_time": 1771893920,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 764240,
+      "num": 764240,
+      "word": "灵隐寺惊现110万家厂商祈福",
+      "onboard_time": 1771900520,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -107,6 +115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 444344,
+      "num": 444344,
+      "word": "韩寒透露飞驰人生4",
+      "onboard_time": 1771900640,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 438955,
       "num": 153183,
       "word": "谷爱凌去年收入超2300万美元",
@@ -155,20 +171,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333319,
-      "num": 333319,
-      "word": "灵隐寺惊现110万家厂商祈福",
-      "onboard_time": 1771900520,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 317574,
       "num": 317574,
       "word": "原来全麻手术不是睡着了",
       "onboard_time": 1771844720,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 314879,
+      "num": 314879,
+      "word": "郑钦文取关里巴教练",
+      "onboard_time": 1771902442,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 304512,
@@ -185,6 +201,14 @@
       "onboard_time": 1771894041,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 286186,
+      "num": 286186,
+      "word": "曝百妖谱主演阵容",
+      "onboard_time": 1771899441,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 280316,
@@ -259,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194456,
+      "num": 194456,
+      "word": "iPhone18Pro新配色目标一眼最新款",
+      "onboard_time": 1771901601,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194005,
       "num": 194005,
       "word": "高速堵车大聪明选择下国道绕行",
@@ -275,20 +307,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189755,
+      "num": 189755,
+      "word": "代旭劝学",
+      "onboard_time": 1771897100,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189125,
       "num": 189125,
       "word": "A股",
       "onboard_time": 1771898780,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 186308,
-      "num": 186308,
-      "word": "代旭劝学",
-      "onboard_time": 1771897100,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 180560,
@@ -323,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163403,
+      "num": 163403,
+      "word": "机器人股价",
+      "onboard_time": 1771901901,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162843,
       "num": 135868,
       "word": "孩子把摔炮当糖果入口后爆炸",
       "onboard_time": 1771846102,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160355,
+      "num": 160355,
+      "word": "章若楠王安宇排名不分先后",
+      "onboard_time": 1771903162,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 158396,
@@ -371,6 +419,30 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150998,
+      "num": 150998,
+      "word": "肖战 Gucci",
+      "onboard_time": 1771902921,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149159,
+      "num": 149159,
+      "word": "雷军亲自发开工红包",
+      "onboard_time": 1771900162,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 144997,
+      "num": 144997,
+      "word": "杨洋方安抚粉丝",
+      "onboard_time": 1771893379,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144864,
       "num": 144864,
       "word": "谷爱凌我有个想法但我不敢说",
@@ -395,6 +467,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142145,
+      "num": 142145,
+      "word": "夜王 删镜头",
+      "onboard_time": 1771901540,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141406,
+      "num": 141406,
+      "word": "日本",
+      "onboard_time": 1771902859,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140477,
       "num": 140477,
       "word": "孙千这段早播二十年能救不少人",
@@ -403,28 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139702,
-      "num": 135407,
-      "word": "杨洋方安抚粉丝",
-      "onboard_time": 1771893379,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136607,
       "num": 136607,
       "word": "距离下个假期还有40天",
       "onboard_time": 1771893020,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133202,
-      "num": 133202,
-      "word": "曝百妖谱主演阵容",
-      "onboard_time": 1771899441,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 130842,
@@ -467,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127598,
-      "num": 127598,
-      "word": "韩寒透露飞驰人生4",
-      "onboard_time": 1771900640,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 122517,
       "num": 122517,
       "word": "谷爱凌在斯坦福选修量子物理哲学",
@@ -507,6 +571,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118915,
+      "num": 118915,
+      "word": "惊蛰无声春节档第二",
+      "onboard_time": 1771902261,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 117601,
+      "num": 117601,
+      "word": "光线传媒等多股跌停",
+      "onboard_time": 1771902319,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 117124,
+      "num": 117124,
+      "word": "想把你和时间藏起来官宣",
+      "onboard_time": 1771901000,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116814,
       "num": 116814,
       "word": "三亚偶遇章子怡一家",
@@ -521,6 +609,14 @@
       "onboard_time": 1771891099,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114554,
+      "num": 120269,
+      "word": "20家日本实体列入出口管制管控名单",
+      "onboard_time": 1771901841,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112743,
@@ -539,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110559,
+      "num": 110559,
+      "word": "节后不想上班不是懒",
+      "onboard_time": 1771902140,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109363,
       "num": 109362,
       "word": "2025个税汇算明起预约",
@@ -553,14 +657,6 @@
       "onboard_time": 1771844301,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103758,
-      "num": 103758,
-      "word": "雷军亲自发开工红包",
-      "onboard_time": 1771900162,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 103343,
@@ -587,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99799,
+      "num": 99799,
+      "word": "谷爱凌年收入全球女运动员第四",
+      "onboard_time": 1771902201,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99714,
       "num": 99714,
       "word": "白鹿曾舜晞梁永棋陈鹤一团建合照",
@@ -603,12 +707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98776,
+      "num": 98776,
+      "word": "恢复精力最有用的运动",
+      "onboard_time": 1771902982,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 98532,
       "num": 98532,
       "word": "偶遇宋亚轩刘耀文一起滑雪",
       "onboard_time": 1771895540,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97374,
+      "num": 97374,
+      "word": "这样做帮你瘦回节前体重",
+      "onboard_time": 1771900162,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92017,
@@ -619,8 +739,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90363,
-      "num": 90363,
+      "raw_hot": 92006,
+      "num": 92006,
       "word": "周也张婧仪宋威龙张凌赫 莞莞类卿",
       "onboard_time": 1771899321,
       "rank": 44,
@@ -752,6 +872,14 @@
       "word": "台湾河道弃尸案",
       "onboard_time": 1771854382,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67177,
+      "num": 171141,
+      "word": "2月生日奶茶白薅",
+      "onboard_time": 1771902621,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -985,6 +1113,14 @@
       "onboard_time": 1771863800,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22438,
+      "num": 146308,
+      "word": "多车雨中卡最后时刻压哨过收费站",
+      "onboard_time": 1771902020,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20971,
