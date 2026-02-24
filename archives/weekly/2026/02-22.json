@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771951036049,
+  "endTime": 1771956175160,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -3707,6 +3707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143610,
+      "num": 198867,
+      "word": "将门独后",
+      "onboard_time": 1771947201,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143473,
       "num": 143473,
       "word": "情人来访致墨西哥大毒枭行踪暴露",
@@ -5201,14 +5209,6 @@
       "onboard_time": 1771920802,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103467,
-      "num": 101319,
-      "word": "将门独后",
-      "onboard_time": 1771947201,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 103432,
@@ -8657,6 +8657,14 @@
       "onboard_time": 1771857322,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19907,
+      "num": 33301,
+      "word": "何浩楠黏人小狗",
+      "onboard_time": 1771955536,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 19467,

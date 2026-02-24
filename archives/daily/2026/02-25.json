@@ -1,6 +1,6 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1771951036049,
+  "endTime": 1771956175160,
   "band_list": [
     {
       "raw_hot": 869751,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143610,
+      "num": 198867,
+      "word": "将门独后",
+      "onboard_time": 1771947201,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136037,
       "num": 136037,
       "word": "俄乌冲突",
@@ -217,14 +225,6 @@
       "onboard_time": 1771945642,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103467,
-      "num": 101319,
-      "word": "将门独后",
-      "onboard_time": 1771947201,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 96346,
@@ -387,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 52426,
+      "num": 52426,
+      "word": "惊蛰无声",
+      "onboard_time": 1771953676,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51375,
       "num": 51375,
       "word": "以色列备战",
@@ -419,12 +427,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35789,
+      "num": 33546,
+      "word": "江湖夜雨十年灯",
+      "onboard_time": 1771951158,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28498,
+      "num": 33458,
+      "word": "鞠婧祎跳了没有明天",
+      "onboard_time": 1771939942,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26595,
+      "num": 33421,
+      "word": "独来独往的女人没有一个是孬种",
+      "onboard_time": 1771936521,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25776,
       "num": 79919,
       "word": "26岁男子春节离家失联5天",
       "onboard_time": 1771949120,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24878,
+      "num": 33390,
+      "word": "李嘉格男友晒照",
+      "onboard_time": 1771936881,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19907,
+      "num": 33301,
+      "word": "何浩楠黏人小狗",
+      "onboard_time": 1771955536,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 17750,
@@ -435,7 +483,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13894,
+      "raw_hot": 17597,
       "num": 474967,
       "word": "九组数据感受万马奔腾的活力春节",
       "onboard_time": 1771938261,
