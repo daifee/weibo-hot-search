@@ -1,0 +1,410 @@
+{
+  "runTime": 1771913229369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 667739,
+        "num": 1106838,
+        "word": "考研出分时间",
+        "onboard_time": 1771888937,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 635724,
+        "num": 822865,
+        "word": "12306半夜候补成功1700元车票作废",
+        "onboard_time": 1771898961,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29160,
+        "num": 635586,
+        "word": "米兰冬奥超越胜负的动人瞬间",
+        "onboard_time": 1771909821,
+        "rank": 2,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 446008,
+        "num": 446008,
+        "word": "女生失联后用牛粪保温在牛棚被找到",
+        "onboard_time": 1771910061,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355170,
+        "num": 355170,
+        "word": "考研查分",
+        "onboard_time": 1771897880,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 547052,
+        "num": 346810,
+        "word": "开工第一天 请假",
+        "onboard_time": 1771907000,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323309,
+        "num": 323309,
+        "word": "灵隐寺惊现110万家厂商祈福",
+        "onboard_time": 1771900520,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319568,
+        "num": 319568,
+        "word": "官方通报36斤羊烤完仅剩6.9斤",
+        "onboard_time": 1771906101,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300950,
+        "num": 300950,
+        "word": "芒果搞钱综艺要来了",
+        "onboard_time": 1771909280,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252151,
+        "num": 252151,
+        "word": "金所泫宋江二搭",
+        "onboard_time": 1771912520,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 741663,
+        "num": 251998,
+        "word": "iPhone18 折叠",
+        "onboard_time": 1771904842,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 453905,
+        "num": 251900,
+        "word": "50岁的陈坤24岁的张康乐",
+        "onboard_time": 1771907721,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287192,
+        "num": 251866,
+        "word": "看演唱会旁边坐的白鹿",
+        "onboard_time": 1771907721,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251652,
+        "num": 251652,
+        "word": "日本",
+        "onboard_time": 1771902859,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234610,
+        "num": 234610,
+        "word": "妈妈回应瑶一瑶表演时不开心",
+        "onboard_time": 1771912162,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199697,
+        "num": 199697,
+        "word": "这些证书可抵个税",
+        "onboard_time": 1771904601,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194964,
+        "num": 194964,
+        "word": "这胡同别让王一博看见了",
+        "onboard_time": 1771906460,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90487,
+        "num": 188788,
+        "word": "Burberry大秀",
+        "onboard_time": 1771909699,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 187345,
+        "num": 187345,
+        "word": "iPhone18Pro新配色目标一眼最新款",
+        "onboard_time": 1771901601,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35115,
+        "num": 187151,
+        "word": "山东一4A景区现雷人译文",
+        "onboard_time": 1771912340,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286399,
+        "num": 187142,
+        "word": "章若楠王安宇排名不分先后",
+        "onboard_time": 1771903162,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187128,
+        "num": 187128,
+        "word": "台湾地震",
+        "onboard_time": 1771909100,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 172100,
+        "num": 172100,
+        "word": "假如你从初八开始找工作",
+        "onboard_time": 1771910001,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158767,
+        "num": 158767,
+        "word": "丁程鑫严浩翔比24",
+        "onboard_time": 1771907421,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148126,
+        "num": 148126,
+        "word": "秋雅别打电话了 我怕夏洛误会",
+        "onboard_time": 1771897039,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143473,
+        "num": 143473,
+        "word": "情人来访致墨西哥大毒枭行踪暴露",
+        "onboard_time": 1771910480,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137559,
+        "num": 137559,
+        "word": "谢楠 引导型恋人",
+        "onboard_time": 1771907241,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135862,
+        "num": 135862,
+        "word": "研招网",
+        "onboard_time": 1771896320,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130551,
+        "num": 130551,
+        "word": "考研",
+        "onboard_time": 1771896381,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103053,
+        "num": 128252,
+        "word": "墨西哥特种部队与毒枭火拼",
+        "onboard_time": 1771912882,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127557,
+        "num": 127557,
+        "word": "李现和杨紫父母穿同款外套",
+        "onboard_time": 1771913119,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125006,
+        "num": 125006,
+        "word": "差点没认出来这是王骁",
+        "onboard_time": 1771912340,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123627,
+        "num": 123627,
+        "word": "导航看了都沉默三秒",
+        "onboard_time": 1771910121,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120004,
+        "num": 120004,
+        "word": "郑钦文取关里巴教练",
+        "onboard_time": 1771902442,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118665,
+        "num": 118665,
+        "word": "特朗普称不知道还能活多久",
+        "onboard_time": 1771912399,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116275,
+        "num": 116275,
+        "word": "高速免费最后1分钟实拍",
+        "onboard_time": 1771893920,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114157,
+        "num": 114157,
+        "word": "生命树豆瓣分数涨至8.3",
+        "onboard_time": 1771911861,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112226,
+        "num": 112226,
+        "word": "韩寒透露飞驰人生4",
+        "onboard_time": 1771900640,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104014,
+        "num": 104014,
+        "word": "春节返家发现老鼠在冰箱打洞吃肉",
+        "onboard_time": 1771911142,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106549,
+        "num": 102303,
+        "word": "万鹏李昀锐有古早武侠cp的感觉",
+        "onboard_time": 1771911080,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100551,
+        "num": 100551,
+        "word": "14岁的谷爱凌就认为自己是中国人",
+        "onboard_time": 1771910780,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100210,
+        "num": 100210,
+        "word": "王濛再回都灵感慨哽咽",
+        "onboard_time": 1771910301,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98102,
+        "num": 98102,
+        "word": "不发朋友圈的人是什么性格",
+        "onboard_time": 1771894820,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95403,
+        "num": 95403,
+        "word": "曝百妖谱主演阵容",
+        "onboard_time": 1771899441,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94385,
+        "num": 94385,
+        "word": "皇家马德里称已在中国社媒道歉",
+        "onboard_time": 1771911020,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83070,
+        "num": 83070,
+        "word": "男子扶人反被讹行车记录仪证清白",
+        "onboard_time": 1771909582,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81078,
+        "num": 81078,
+        "word": "华为2025年销售收入超8800亿",
+        "onboard_time": 1771909401,
+        "rank": 46,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 80155,
+        "num": 80155,
+        "word": "开工第一件事调整工位风水",
+        "onboard_time": 1771912101,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79684,
+        "num": 79684,
+        "word": "吴京 时代峰峻古代",
+        "onboard_time": 1771908023,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78363,
+        "num": 79571,
+        "word": "贺峻霖祝丁程鑫本命年快乐",
+        "onboard_time": 1771908983,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记给大家鼓劲加油#"
+    }
+  }
+}
