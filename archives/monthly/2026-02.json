@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771934542348,
+  "endTime": 1771939359315,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -4843,6 +4843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 652090,
+      "num": 198910,
+      "word": "ally自曝是王安宇梦女",
+      "onboard_time": 1771932442,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 650071,
       "num": 247458,
       "word": "白鹿虞书欣同款剧宣姿势",
@@ -6227,6 +6235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 555121,
+      "num": 127829,
+      "word": "服务区被撞身亡男童1个月前刚过生日",
+      "onboard_time": 1771936642,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 554845,
       "num": 416802,
       "word": "开工第一天 请假",
@@ -6755,14 +6771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 528925,
-      "num": 198910,
-      "word": "ally自曝是王安宇梦女",
-      "onboard_time": 1771932442,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 528802,
       "num": 920181,
       "word": "女子买20元奶茶中奖黄金约25000元",
@@ -7185,6 +7193,14 @@
       "onboard_time": 1770532821,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 507365,
+      "num": 191209,
+      "word": "崔雪莉未公开童年照",
+      "onboard_time": 1771933823,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 506107,
@@ -8480,6 +8496,14 @@
       "word": "大年初一不能做哪些事",
       "onboard_time": 1771311501,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 447056,
+      "num": 136783,
+      "word": "93岁老人去世将千万财产赠邻居",
+      "onboard_time": 1771934543,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -9961,6 +9985,14 @@
       "onboard_time": 1770517161,
       "rank": 30,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 399068,
+      "num": 134437,
+      "word": "苏翊鸣居然演过韩庚爷爷",
+      "onboard_time": 1771935082,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 398641,
@@ -12931,6 +12963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 327432,
+      "num": 133391,
+      "word": "俄乌冲突",
+      "onboard_time": 1771933942,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 326919,
       "num": 326919,
       "word": "我们的少年时代2开机花篮",
@@ -14075,6 +14115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 306818,
+      "num": 131379,
+      "word": "刘强东宣布进军游艇行业",
+      "onboard_time": 1771936642,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 306813,
       "num": 261645,
       "word": "窦靖童 挖嘞个亲娘",
@@ -14104,14 +14152,6 @@
       "word": "宋旻浩或将被判刑",
       "onboard_time": 1770860239,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 306116,
-      "num": 191209,
-      "word": "崔雪莉未公开童年照",
-      "onboard_time": 1771933823,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -14777,6 +14817,14 @@
       "onboard_time": 1771024337,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295208,
+      "num": 127455,
+      "word": "李嘉格男友晒照",
+      "onboard_time": 1771936881,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 295167,
@@ -17947,6 +17995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247497,
+      "num": 129453,
+      "word": "丁程鑫直播",
+      "onboard_time": 1771934901,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247473,
       "num": 697098,
       "word": "王曼昱VS张本美和",
@@ -18656,6 +18712,14 @@
       "word": "孙颖莎vs陈熠",
       "onboard_time": 1770458721,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 238423,
+      "num": 238423,
+      "word": "王楚钦vs户上隼辅",
+      "onboard_time": 1771934842,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -22572,7 +22636,7 @@
     },
     {
       "raw_hot": 194737,
-      "num": 127682,
+      "num": 129113,
       "word": "开工第一天被通知放假10天",
       "onboard_time": 1771932083,
       "rank": 20,
@@ -23775,6 +23839,14 @@
       "num": 159508,
       "word": "浙江卫视力挺白鹿",
       "onboard_time": 1770201981,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182586,
+      "num": 182586,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1771688900,
       "rank": 40,
       "category": "剧集"
     },
@@ -26785,6 +26857,14 @@
       "onboard_time": 1771858582,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 156332,
+      "num": 156332,
+      "word": "Prada出发图",
+      "onboard_time": 1771938682,
+      "rank": 8,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 156271,
@@ -32547,6 +32627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125203,
+      "num": 115048,
+      "word": "MOMO好辣",
+      "onboard_time": 1771937004,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125006,
       "num": 125006,
       "word": "差点没认出来这是王骁",
@@ -32609,6 +32697,14 @@
       "onboard_time": 1771771763,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124735,
+      "num": 124735,
+      "word": "独来独往的女人没有一个是孬种",
+      "onboard_time": 1771936521,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 124734,
@@ -33201,6 +33297,14 @@
       "onboard_time": 1770962780,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122240,
+      "num": 111886,
+      "word": "瑶一瑶小肉包近30天掉粉4万",
+      "onboard_time": 1771934183,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 122237,
@@ -37435,6 +37539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108196,
+      "num": 100729,
+      "word": "纯真年代的爱情 男二女二戏份",
+      "onboard_time": 1771938261,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108192,
       "num": 108192,
       "word": "白敬亭一出来画质都清晰了",
@@ -41451,6 +41563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97536,
+      "num": 97536,
+      "word": "穆祉丞发的是什么",
+      "onboard_time": 1771939104,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97527,
       "num": 97527,
       "word": "博主保罗妻子回应分娩视频争议",
@@ -43713,6 +43833,14 @@
       "onboard_time": 1770718219,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 92078,
+      "num": 97997,
+      "word": "王楚钦3比0户上隼辅",
+      "onboard_time": 1771938261,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 92059,
@@ -46203,6 +46331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86911,
+      "num": 86911,
+      "word": "AL对战WE",
+      "onboard_time": 1771937961,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86892,
       "num": 86892,
       "word": "为了一道菜喂猪吃了一年的人参",
@@ -46361,14 +46497,6 @@
       "onboard_time": 1771678102,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86551,
-      "num": 86551,
-      "word": "俄乌冲突",
-      "onboard_time": 1771933942,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 86547,
@@ -47147,6 +47275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84948,
+      "num": 84948,
+      "word": "坐在工位上的我哭的好大声",
+      "onboard_time": 1771939104,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84934,
       "num": 84934,
       "word": "微信朋友圈的打开率下滑",
@@ -47689,6 +47825,14 @@
       "onboard_time": 1770520460,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 83389,
+      "num": 83389,
+      "word": "章子怡 游过海岸一百米",
+      "onboard_time": 1771938802,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 83382,
@@ -48411,14 +48555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81933,
-      "num": 81933,
-      "word": "瑶一瑶小肉包近30天掉粉4万",
-      "onboard_time": 1771934183,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 81894,
       "num": 83106,
       "word": "陈添祥柯淳姚冠宇张翅舞台很夯",
@@ -48513,6 +48649,14 @@
       "onboard_time": 1771496899,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 81678,
+      "num": 81678,
+      "word": "程潇素颜皮肤状态",
+      "onboard_time": 1771935622,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 81618,
@@ -48761,14 +48905,6 @@
       "onboard_time": 1771847362,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81138,
-      "num": 93454,
-      "word": "纯真年代的爱情",
-      "onboard_time": 1771688900,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 81133,
@@ -51507,6 +51643,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 75308,
+      "num": 75308,
+      "word": "国投白银LOF自掏腰包补偿",
+      "onboard_time": 1771936223,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 75306,
       "num": 75306,
       "word": "李方慧第二滑90.00分",
@@ -51817,6 +51961,14 @@
       "onboard_time": 1771851202,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74654,
+      "num": 74654,
+      "word": "全球芯片短缺致相机价格暴涨",
+      "onboard_time": 1771939104,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 74642,
@@ -52251,6 +52403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73678,
+      "num": 73678,
+      "word": "萌娃数压岁钱数出6亿巨款",
+      "onboard_time": 1771935502,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73659,
       "num": 59400,
       "word": "新郎投壶未中箭矢回弹指向新娘",
@@ -52321,6 +52481,14 @@
       "onboard_time": 1770381081,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 73345,
+      "num": 73345,
+      "word": "12岁孩子千元红包被男子摩擦式捡走",
+      "onboard_time": 1771935802,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73338,
@@ -63195,6 +63363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33431,
+      "num": 140445,
+      "word": "俄乌冲突4年了",
+      "onboard_time": 1771938561,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33424,
       "num": 33424,
       "word": "杨婧茹半决赛小组第一",
@@ -64360,6 +64536,14 @@
       "word": "BGM一响山东过年最高礼仪登场",
       "onboard_time": 1771308021,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28799,
+      "num": 157579,
+      "word": "九组数据感受万马奔腾的活力春节",
+      "onboard_time": 1771938261,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -69739,6 +69923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 7847,
+      "num": 610720,
+      "word": "春节我国多领域解锁新成就",
+      "onboard_time": 1771939282,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7796,
       "num": 202943,
       "word": "送阿福成为各地新年俗",
@@ -70181,6 +70373,9 @@
     },
     {
       "word": "#一步步奔向心中的伟大梦想#"
+    },
+    {
+      "word": "#树立和践行正确政绩观#"
     }
   ]
 }
