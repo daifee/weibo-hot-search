@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771956986575,
+  "endTime": 1771960710205,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -66147,6 +66147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25125,
+      "num": 25125,
+      "word": "左航出席Prada米兰女装秀",
+      "onboard_time": 1771957935,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25063,
       "num": 118546,
       "word": "法医解读爱泼斯坦真正死因",
@@ -69379,6 +69387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15085,
+      "num": 18516,
+      "word": "张极出席Prada米兰时装秀",
+      "onboard_time": 1771959615,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15073,
       "num": 104055,
       "word": "实测Seedance2.0人人可做AI导演",
@@ -69667,6 +69683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13750,
+      "num": 18512,
+      "word": "WTT新加坡大满贯",
+      "onboard_time": 1771941563,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13705,
       "num": 69444,
       "word": "一男子试图非法进入海湖庄园被毙",
@@ -69865,6 +69889,14 @@
       "onboard_time": 1771326023,
       "rank": 9,
       "category": "民生新闻,综艺"
+    },
+    {
+      "raw_hot": 12966,
+      "num": 18509,
+      "word": "纯真年代 好嗑",
+      "onboard_time": 1771960453,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 12919,
