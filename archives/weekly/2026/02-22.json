@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771924514727,
+  "endTime": 1771927380458,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -233,6 +233,14 @@
       "onboard_time": 1771728979,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 862174,
+      "num": 1137947,
+      "word": "小车23点59分59秒下高速收费员狂喜",
+      "onboard_time": 1771924221,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 844606,
@@ -571,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 573767,
+      "num": 573767,
+      "word": "周大福一条金手链将涨18000元",
+      "onboard_time": 1771925062,
+      "rank": 3,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 571291,
       "num": 237630,
       "word": "衣服的成本价在水洗标上",
@@ -593,6 +609,14 @@
       "onboard_time": 1771907000,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 554448,
+      "num": 138929,
+      "word": "吴昕谈在快本时人气低",
+      "onboard_time": 1771924581,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 552204,
@@ -1059,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393045,
+      "num": 393045,
+      "word": "王楚然丞磊 京洛再无佳人",
+      "onboard_time": 1771923501,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389496,
       "num": 389496,
       "word": "张凌赫 刺棠",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1771818440,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 305203,
+      "num": 138754,
+      "word": "突然理解了爱坐公交车的人",
+      "onboard_time": 1771926320,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 304512,
@@ -1779,6 +1819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 261612,
+      "num": 261612,
+      "word": "新年BBA车价大降",
+      "onboard_time": 1771921580,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 259949,
       "num": 259949,
       "word": "吴京回应镖人票房逆袭",
@@ -1793,14 +1841,6 @@
       "onboard_time": 1771851921,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 258596,
-      "num": 258596,
-      "word": "新年BBA车价大降",
-      "onboard_time": 1771921580,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 255064,
@@ -2243,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210402,
+      "num": 180608,
+      "word": "汪涵11岁儿子在咖啡店当义工",
+      "onboard_time": 1771922242,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208383,
       "num": 136426,
       "word": "美29岁女教师与未成年发生关系被捕",
@@ -2291,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200562,
+      "num": 137908,
+      "word": "新娘爸爸婚礼现场退还18.8万彩礼",
+      "onboard_time": 1771924942,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200352,
       "num": 157855,
       "word": "陈赫给女儿的红包里是试卷",
@@ -2320,14 +2376,6 @@
       "word": "陈妍希杨丞琳李荣浩潘玮柏过年聚会",
       "onboard_time": 1771827979,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 198450,
-      "num": 180608,
-      "word": "汪涵11岁儿子在咖啡店当义工",
-      "onboard_time": 1771922242,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -2481,14 +2529,6 @@
       "onboard_time": 1771897100,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189392,
-      "num": 181253,
-      "word": "王楚然丞磊 京洛再无佳人",
-      "onboard_time": 1771923501,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 189125,
@@ -2835,6 +2875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167329,
+      "num": 167329,
+      "word": "镖人 删减",
+      "onboard_time": 1771925963,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165958,
       "num": 165958,
       "word": "田雨内娱人缘",
@@ -2931,6 +2979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160211,
+      "num": 160211,
+      "word": "建议父母停止对孩子的灾难化想象",
+      "onboard_time": 1771924400,
+      "rank": 28,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 159695,
       "num": 134036,
       "word": "金裕贞短发造型",
@@ -2961,14 +3017,6 @@
       "onboard_time": 1771840040,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 156968,
-      "num": 156968,
-      "word": "建议父母停止对孩子的灾难化想象",
-      "onboard_time": 1771924400,
-      "rank": 28,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 156402,
@@ -3227,6 +3275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144084,
+      "num": 144084,
+      "word": "11岁男童在服务区被车撞击后身亡",
+      "onboard_time": 1771927040,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143714,
       "num": 113511,
       "word": "时代少年团演唱会",
@@ -3241,6 +3297,14 @@
       "onboard_time": 1771844301,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143673,
+      "num": 143673,
+      "word": "叶祖新你就是这样下海的",
+      "onboard_time": 1771926320,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 143473,
@@ -3659,6 +3723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128444,
+      "num": 128444,
+      "word": "张杰谢娜一起滑雪",
+      "onboard_time": 1771926741,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128075,
       "num": 128075,
       "word": "成何体统",
@@ -3907,6 +3979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119404,
+      "num": 119404,
+      "word": "微信新功能面对面传照片",
+      "onboard_time": 1771926081,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 119337,
       "num": 110554,
       "word": "小城良方",
@@ -4001,6 +4081,14 @@
       "onboard_time": 1771833799,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117141,
+      "num": 117141,
+      "word": "任敏G社生图",
+      "onboard_time": 1771925181,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 117124,
@@ -4691,6 +4779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99987,
+      "num": 99987,
+      "word": "李泰民中断合约",
+      "onboard_time": 1771927222,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99161,
       "num": 99161,
       "word": "时代少年团 一年一度的楼斯卡",
@@ -4889,6 +4985,14 @@
       "onboard_time": 1771756880,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93625,
+      "num": 93625,
+      "word": "江淮起诉赛车星冰乐胜诉获赔30万",
+      "onboard_time": 1771926921,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 93620,
@@ -5523,6 +5627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82510,
+      "num": 137068,
+      "word": "中方将视情适时调整对美反制措施",
+      "onboard_time": 1771925422,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82459,
       "num": 82459,
       "word": "NCT JNJM小分队",
@@ -6091,6 +6203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69758,
+      "num": 138932,
+      "word": "灌溉360元草莓用800斤牛奶",
+      "onboard_time": 1771926981,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69554,
       "num": 69554,
       "word": "BLACKPINK新歌GOmv预告",
@@ -6419,6 +6539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 63008,
+      "num": 137829,
+      "word": "草莓360元一斤公司参保人数为0",
+      "onboard_time": 1771927222,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62989,
       "num": 62989,
       "word": "孙颖莎笑出音阶了",
@@ -6681,6 +6809,14 @@
       "onboard_time": 1771678404,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54152,
+      "num": 119408,
+      "word": "男子去女方家订婚紧张到没认出女友",
+      "onboard_time": 1771927222,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52792,
@@ -7043,6 +7179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39200,
+      "num": 136753,
+      "word": "俄乌四年打了什么",
+      "onboard_time": 1771927222,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38557,
       "num": 99200,
       "word": "年轻人更愿意买老款旗舰版手机",
@@ -7065,6 +7209,14 @@
       "onboard_time": 1771694357,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37551,
+      "num": 136207,
+      "word": "女子春节返程遇高铁超载被迫下车",
+      "onboard_time": 1771926081,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37512,
@@ -7129,6 +7281,14 @@
       "onboard_time": 1771912340,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34782,
+      "num": 120554,
+      "word": "中方回应美军机在黄海空域活动",
+      "onboard_time": 1771927341,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33631,
@@ -7208,6 +7368,14 @@
       "word": "阿福太懂节后返工焦虑了",
       "onboard_time": 1771905682,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28452,
+      "num": 686373,
+      "word": "广东高质量发展大会",
+      "onboard_time": 1771923801,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -7345,14 +7513,6 @@
       "onboard_time": 1771787534,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24190,
-      "num": 686373,
-      "word": "广东高质量发展大会",
-      "onboard_time": 1771923801,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24158,
@@ -7675,6 +7835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13432,
+      "num": 119444,
+      "word": "高速免费最后1分钟所有人都在加速",
+      "onboard_time": 1771927222,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13077,
       "num": 108444,
       "word": "春节买金热有金店排队8小时",
@@ -7712,14 +7880,6 @@
       "word": "女儿给妈妈的红包被偷偷放回行李包",
       "onboard_time": 1771755800,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10853,
-      "num": 177226,
-      "word": "小车23点59分59秒下高速收费员狂喜",
-      "onboard_time": 1771924221,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
