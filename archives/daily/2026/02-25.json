@@ -1,6 +1,6 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1771970377282,
+  "endTime": 1771972924080,
   "band_list": [
     {
       "raw_hot": 869751,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 124848,
-      "num": 256497,
+      "num": 469760,
       "word": "惊蛰无声",
       "onboard_time": 1771953676,
       "rank": 17,
@@ -241,6 +241,14 @@
       "onboard_time": 1771938261,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94233,
+      "num": 336469,
+      "word": "当地回应女生徒步失联在牛棚被找到",
+      "onboard_time": 1771967953,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93527,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75840,
+      "num": 61135,
+      "word": "西安一市民除夕夜被AI给骂了",
+      "onboard_time": 1771946422,
+      "rank": 36,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 69294,
       "num": 69294,
       "word": "墨西哥毒枭残忍罪行被曝光",
@@ -363,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61135,
-      "num": 61135,
-      "word": "西安一市民除夕夜被AI给骂了",
-      "onboard_time": 1771946422,
-      "rank": 36,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 60832,
       "num": 60832,
       "word": "宇树发布四足机器人As2",
@@ -393,6 +401,14 @@
       "onboard_time": 1771949242,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56966,
+      "num": 56966,
+      "word": "中方回应特朗普3月31日将访问中国",
+      "onboard_time": 1771941143,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51375,
@@ -435,22 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33540,
-      "num": 33540,
-      "word": "中方回应特朗普3月31日将访问中国",
-      "onboard_time": 1771941143,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 30347,
-      "num": 30347,
-      "word": "当地回应女生徒步失联在牛棚被找到",
-      "onboard_time": 1771967953,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28498,
       "num": 33458,
       "word": "鞠婧祎跳了没有明天",
@@ -459,7 +459,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26595,
+      "raw_hot": 26990,
+      "num": 26990,
+      "word": "金价波动",
+      "onboard_time": 1771933942,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 26987,
       "num": 33421,
       "word": "独来独往的女人没有一个是孬种",
       "onboard_time": 1771936521,
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18167,
+      "num": 18167,
+      "word": "飞驰人生3",
+      "onboard_time": 1771940841,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 17750,
       "num": 580946,
       "word": "2026年新春走基层",
@@ -547,12 +563,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 16476,
-      "num": 17623,
-      "word": "飞驰人生3",
-      "onboard_time": 1771940841,
-      "rank": 37,
-      "category": "电影"
+      "raw_hot": 15683,
+      "num": 17863,
+      "word": "AI超级风暴突袭美股市场",
+      "onboard_time": 1771972515,
+      "rank": 45,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 15175,
@@ -579,20 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13484,
-      "num": 13345,
+      "raw_hot": 13532,
+      "num": 17863,
       "word": "登陆少年出镜Prada全球企划片",
       "onboard_time": 1771962194,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 11502,
-      "num": 13621,
-      "word": "金价波动",
-      "onboard_time": 1771933942,
-      "rank": 46,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
