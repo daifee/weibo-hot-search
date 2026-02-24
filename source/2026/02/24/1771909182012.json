@@ -1,0 +1,410 @@
+{
+  "runTime": 1771909182012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 826997,
+        "num": 1132319,
+        "word": "考研出分时间",
+        "onboard_time": 1771888937,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 774534,
+        "num": 798657,
+        "word": "12306半夜候补成功1700元车票作废",
+        "onboard_time": 1771898961,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11998,
+        "num": 663693,
+        "word": "在全党开展树立和践行正确政绩观学习教育",
+        "onboard_time": 1771853601,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448252,
+        "num": 448252,
+        "word": "考研查分",
+        "onboard_time": 1771897880,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 422544,
+        "num": 422544,
+        "word": "这些证书可抵个税",
+        "onboard_time": 1771904601,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472558,
+        "num": 406929,
+        "word": "开工第一天 请假",
+        "onboard_time": 1771907000,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387742,
+        "num": 387742,
+        "word": "灵隐寺惊现110万家厂商祈福",
+        "onboard_time": 1771900520,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334225,
+        "num": 334225,
+        "word": "官方通报36斤羊烤完仅剩6.9斤",
+        "onboard_time": 1771906101,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271002,
+        "num": 271002,
+        "word": "市监局回应15岁少女贱卖奢侈品",
+        "onboard_time": 1771903462,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254754,
+        "num": 254754,
+        "word": "郑钦文取关里巴教练",
+        "onboard_time": 1771902442,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 917928,
+        "num": 254749,
+        "word": "iPhone18 折叠",
+        "onboard_time": 1771904842,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 679018,
+        "num": 254601,
+        "word": "日本",
+        "onboard_time": 1771902859,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119485,
+        "num": 254500,
+        "word": "肖战即将出席Gucci大秀",
+        "onboard_time": 1771905922,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547853,
+        "num": 254435,
+        "word": "章若楠王安宇排名不分先后",
+        "onboard_time": 1771903162,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28465,
+        "num": 254414,
+        "word": "阿福太懂节后返工焦虑了",
+        "onboard_time": 1771905682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85927,
+        "num": 254308,
+        "word": "节后综合症一下子好了",
+        "onboard_time": 1771905801,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516746,
+        "num": 254210,
+        "word": "50岁的陈坤24岁的张康乐",
+        "onboard_time": 1771907721,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355274,
+        "num": 254147,
+        "word": "秋雅别打电话了 我怕夏洛误会",
+        "onboard_time": 1771897039,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254077,
+        "num": 254077,
+        "word": "iPhone18Pro新配色目标一眼最新款",
+        "onboard_time": 1771901601,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26337,
+        "num": 243687,
+        "word": "爱泼斯坦死亡声明日期在其死前1天",
+        "onboard_time": 1771908381,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 300416,
+        "num": 242666,
+        "word": "这胡同别让王一博看见了",
+        "onboard_time": 1771906460,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241569,
+        "num": 241569,
+        "word": "谢楠 引导型恋人",
+        "onboard_time": 1771907241,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197716,
+        "num": 197716,
+        "word": "高速免费最后1分钟实拍",
+        "onboard_time": 1771893920,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232266,
+        "num": 196576,
+        "word": "丁程鑫严浩翔比24",
+        "onboard_time": 1771907421,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194379,
+        "num": 194379,
+        "word": "看演唱会旁边坐的白鹿",
+        "onboard_time": 1771907721,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181940,
+        "num": 190094,
+        "word": "不发朋友圈的人是什么性格",
+        "onboard_time": 1771894820,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186282,
+        "num": 186282,
+        "word": "韩寒透露飞驰人生4",
+        "onboard_time": 1771900640,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185896,
+        "num": 185896,
+        "word": "年代版苦尽柑来遇见你",
+        "onboard_time": 1771903701,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159584,
+        "num": 178263,
+        "word": "机器人股价",
+        "onboard_time": 1771901901,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109666,
+        "num": 173596,
+        "word": "车主卡点下高速失败缴费400元",
+        "onboard_time": 1771897639,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171898,
+        "num": 171898,
+        "word": "台湾地震",
+        "onboard_time": 1771909100,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 164955,
+        "num": 164955,
+        "word": "刘耀文在惊蛰无声里的作用",
+        "onboard_time": 1771904780,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161439,
+        "num": 161439,
+        "word": "贺峻霖祝丁程鑫本命年快乐",
+        "onboard_time": 1771908983,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154888,
+        "num": 154888,
+        "word": "研招网",
+        "onboard_time": 1771896320,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145525,
+        "num": 145525,
+        "word": "考研",
+        "onboard_time": 1771896381,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137599,
+        "num": 137599,
+        "word": "曝百妖谱主演阵容",
+        "onboard_time": 1771899441,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120644,
+        "num": 120644,
+        "word": "夜王 删镜头",
+        "onboard_time": 1771901540,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115621,
+        "num": 115621,
+        "word": "奶茶杯盖上为啥这么多孔",
+        "onboard_time": 1771907780,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25867,
+        "num": 110308,
+        "word": "玫瑰丛生复工壁纸",
+        "onboard_time": 1771908861,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16204,
+        "num": 110121,
+        "word": "景区回应在冰面上设立挖掘机大摆锤",
+        "onboard_time": 1771908381,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119458,
+        "num": 110086,
+        "word": "吴京 时代峰峻古代",
+        "onboard_time": 1771908023,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110036,
+        "num": 110036,
+        "word": "镖人",
+        "onboard_time": 1771907959,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108339,
+        "num": 108339,
+        "word": "美福特号航母厕所大面积瘫痪",
+        "onboard_time": 1771904901,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106846,
+        "num": 106846,
+        "word": "杨洋方安抚粉丝",
+        "onboard_time": 1771893379,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103370,
+        "num": 103370,
+        "word": "金饰价格涨到1586元",
+        "onboard_time": 1771908500,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111441,
+        "num": 103366,
+        "word": "吴京真演上燕子娘了",
+        "onboard_time": 1771906821,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102847,
+        "num": 102847,
+        "word": "墨西哥贩毒集团报复已致73死",
+        "onboard_time": 1771905501,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101035,
+        "num": 101035,
+        "word": "谷爱凌年收入全球女运动员第四",
+        "onboard_time": 1771902201,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91961,
+        "num": 91961,
+        "word": "小孩开智有点早",
+        "onboard_time": 1771909100,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89394,
+        "num": 89394,
+        "word": "夜王豆瓣开分7.8",
+        "onboard_time": 1771907841,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和四世同堂一家人拉家常#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771903304103,
+  "endTime": 1771909182012,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -177,6 +177,14 @@
       "onboard_time": 1771850242,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 917928,
+      "num": 254749,
+      "word": "iPhone18 折叠",
+      "onboard_time": 1771904842,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 905251,
@@ -363,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 679018,
+      "num": 254601,
+      "word": "日本",
+      "onboard_time": 1771902859,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 677814,
       "num": 550041,
       "word": "杨幂 这么来历不明的二维码也要扫吗",
@@ -523,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 547853,
+      "num": 254435,
+      "word": "章若楠王安宇排名不分先后",
+      "onboard_time": 1771903162,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 546490,
       "num": 386178,
       "word": "杨洋周洁琼不让江山开机同框",
@@ -585,6 +609,14 @@
       "onboard_time": 1771814242,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 516746,
+      "num": 254210,
+      "word": "50岁的陈坤24岁的张康乐",
+      "onboard_time": 1771907721,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 513880,
@@ -689,6 +721,14 @@
       "onboard_time": 1771732160,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 472558,
+      "num": 406929,
+      "word": "开工第一天 请假",
+      "onboard_time": 1771907000,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 463770,
@@ -801,6 +841,14 @@
       "onboard_time": 1771896320,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 422544,
+      "num": 422544,
+      "word": "这些证书可抵个税",
+      "onboard_time": 1771904601,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422125,
@@ -1115,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334225,
+      "num": 334225,
+      "word": "官方通报36斤羊烤完仅剩6.9斤",
+      "onboard_time": 1771906101,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334050,
       "num": 271521,
       "word": "初八上班的我就这样",
@@ -1267,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300416,
+      "num": 242666,
+      "word": "这胡同别让王一博看见了",
+      "onboard_time": 1771906460,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297763,
       "num": 185343,
       "word": "离婚发现女儿非亲生判还抚养费",
@@ -1411,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271002,
+      "num": 271002,
+      "word": "市监局回应15岁少女贱卖奢侈品",
+      "onboard_time": 1771903462,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270198,
       "num": 270198,
       "word": "谷爱凌李方慧 慧当凌绝顶",
@@ -1539,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254077,
+      "num": 254077,
+      "word": "iPhone18Pro新配色目标一眼最新款",
+      "onboard_time": 1771901601,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 252359,
       "num": 219769,
       "word": "刘浩存我想象中扎丸子头的样子",
@@ -1651,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241569,
+      "num": 241569,
+      "word": "谢楠 引导型恋人",
+      "onboard_time": 1771907241,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240119,
       "num": 172528,
       "word": "林志颖客串韩剧上MBC打歌舞台",
@@ -1729,6 +1817,14 @@
       "onboard_time": 1771829480,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232266,
+      "num": 196576,
+      "word": "丁程鑫严浩翔比24",
+      "onboard_time": 1771907421,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 232117,
@@ -1828,7 +1924,7 @@
     },
     {
       "raw_hot": 223399,
-      "num": 180479,
+      "num": 190094,
       "word": "不发朋友圈的人是什么性格",
       "onboard_time": 1771894820,
       "rank": 20,
@@ -2035,12 +2131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194456,
-      "num": 194456,
-      "word": "iPhone18Pro新配色目标一眼最新款",
-      "onboard_time": 1771901601,
-      "rank": 16,
-      "category": "数码"
+      "raw_hot": 194379,
+      "num": 194379,
+      "word": "看演唱会旁边坐的白鹿",
+      "onboard_time": 1771907721,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 194005,
@@ -2185,6 +2281,14 @@
       "onboard_time": 1771685302,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185896,
+      "num": 185896,
+      "word": "年代版苦尽柑来遇见你",
+      "onboard_time": 1771903701,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 185731,
@@ -2419,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171898,
+      "num": 171898,
+      "word": "台湾地震",
+      "onboard_time": 1771909100,
+      "rank": 30,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 171723,
       "num": 132033,
       "word": "李柯以给短剧上强度了",
@@ -2483,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164955,
+      "num": 164955,
+      "word": "刘耀文在惊蛰无声里的作用",
+      "onboard_time": 1771904780,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164753,
       "num": 131890,
       "word": "刘品言抱女儿打牌",
@@ -2500,7 +2620,7 @@
     },
     {
       "raw_hot": 163403,
-      "num": 163403,
+      "num": 178263,
       "word": "机器人股价",
       "onboard_time": 1771901901,
       "rank": 23,
@@ -2531,12 +2651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160355,
-      "num": 160355,
-      "word": "章若楠王安宇排名不分先后",
-      "onboard_time": 1771903162,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 161439,
+      "num": 161439,
+      "word": "贺峻霖祝丁程鑫本命年快乐",
+      "onboard_time": 1771908983,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 159695,
@@ -2889,14 +3009,6 @@
       "onboard_time": 1771841000,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141406,
-      "num": 141406,
-      "word": "日本",
-      "onboard_time": 1771902859,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141366,
@@ -3379,6 +3491,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119485,
+      "num": 254500,
+      "word": "肖战即将出席Gucci大秀",
+      "onboard_time": 1771905922,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119458,
+      "num": 110086,
+      "word": "吴京 时代峰峻古代",
+      "onboard_time": 1771908023,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119337,
       "num": 110554,
       "word": "小城良方",
@@ -3505,6 +3633,14 @@
       "onboard_time": 1771827260,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115621,
+      "num": 115621,
+      "word": "奶茶杯盖上为啥这么多孔",
+      "onboard_time": 1771907780,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 115450,
@@ -3643,6 +3779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111441,
+      "num": 103366,
+      "word": "吴京真演上燕子娘了",
+      "onboard_time": 1771906821,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111334,
       "num": 111334,
       "word": "老辈子种菜真是没轻没重",
@@ -3777,6 +3921,14 @@
       "onboard_time": 1771759706,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108339,
+      "num": 108339,
+      "word": "美福特号航母厕所大面积瘫痪",
+      "onboard_time": 1771904901,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108321,
@@ -3923,12 +4075,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103370,
+      "num": 103370,
+      "word": "金饰价格涨到1586元",
+      "onboard_time": 1771908500,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103343,
       "num": 103343,
       "word": "三星全球首发防窥屏",
       "onboard_time": 1771897700,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 102847,
+      "num": 102847,
+      "word": "墨西哥贩毒集团报复已致73死",
+      "onboard_time": 1771905501,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102691,
@@ -3987,6 +4155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101035,
+      "num": 101035,
+      "word": "谷爱凌年收入全球女运动员第四",
+      "onboard_time": 1771902201,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100639,
       "num": 100639,
       "word": "经常吃太饱身体会发生什么变化",
@@ -4008,14 +4184,6 @@
       "word": "王楚钦终于跟家人过了除夕",
       "onboard_time": 1771815739,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 99799,
-      "num": 99799,
-      "word": "谷爱凌年收入全球女运动员第四",
-      "onboard_time": 1771902201,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -4323,6 +4491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91961,
+      "num": 91961,
+      "word": "小孩开智有点早",
+      "onboard_time": 1771909100,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91577,
       "num": 148264,
       "word": "湖南6名牺牲消防员名字公布",
@@ -4433,6 +4609,14 @@
       "onboard_time": 1771828641,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89394,
+      "num": 89394,
+      "word": "夜王豆瓣开分7.8",
+      "onboard_time": 1771907841,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 89241,
@@ -4592,6 +4776,14 @@
       "word": "一批批返粤大军已被堵哭",
       "onboard_time": 1771750099,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85927,
+      "num": 254308,
+      "word": "节后综合症一下子好了",
+      "onboard_time": 1771905801,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -6307,6 +6499,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 28465,
+      "num": 254414,
+      "word": "阿福太懂节后返工焦虑了",
+      "onboard_time": 1771905682,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28355,
       "num": 76489,
       "word": "男子相亲节目上炫富其单位回应",
@@ -6339,12 +6539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26337,
+      "num": 243687,
+      "word": "爱泼斯坦死亡声明日期在其死前1天",
+      "onboard_time": 1771908381,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26222,
       "num": 109363,
       "word": "美国或对伊朗先进行初步打击",
       "onboard_time": 1771900941,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25867,
+      "num": 110308,
+      "word": "玫瑰丛生复工壁纸",
+      "onboard_time": 1771908861,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 25562,
@@ -6680,6 +6896,14 @@
       "word": "春节剩菜最好3天内吃完",
       "onboard_time": 1771833500,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16204,
+      "num": 110121,
+      "word": "景区回应在冰面上设立挖掘机大摆锤",
+      "onboard_time": 1771908381,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
