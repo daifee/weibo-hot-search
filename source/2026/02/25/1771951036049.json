@@ -1,0 +1,410 @@
+{
+  "runTime": 1771951036049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 527727,
+        "num": 806936,
+        "word": "王楚钦鹰眼挑战失败",
+        "onboard_time": 1771946123,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358628,
+        "num": 568177,
+        "word": "地球超新鲜2",
+        "onboard_time": 1771940663,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13894,
+        "num": 474967,
+        "word": "九组数据感受万马奔腾的活力春节",
+        "onboard_time": 1771938261,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241772,
+        "num": 241772,
+        "word": "Prada出发图",
+        "onboard_time": 1771938682,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 225211,
+        "num": 225211,
+        "word": "谷爱凌妈妈谷燕的人生轨迹",
+        "onboard_time": 1771945701,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199341,
+        "num": 199341,
+        "word": "牛奶灌溉草莓卖出360元天价",
+        "onboard_time": 1771947381,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180578,
+        "num": 180578,
+        "word": "杨幂演历史剧",
+        "onboard_time": 1771946662,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171662,
+        "num": 171662,
+        "word": "剑来 魔改",
+        "onboard_time": 1771942824,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152827,
+        "num": 152827,
+        "word": "高速堵车大哥在路边架锅卖炒粉",
+        "onboard_time": 1771942944,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97999,
+        "num": 97999,
+        "word": "谷爱凌U槽卫冕英媒质疑打分",
+        "onboard_time": 1771941023,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 679978,
+        "num": 97886,
+        "word": "吴昕自曝录制快本三四个月还是想走",
+        "onboard_time": 1771941264,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492358,
+        "num": 97745,
+        "word": "江西一家人自驾返程出车祸1死4伤",
+        "onboard_time": 1771944023,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311061,
+        "num": 97623,
+        "word": "肖战的鼻间痣好像小狐狸",
+        "onboard_time": 1771944382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279690,
+        "num": 97443,
+        "word": "不让江山作者取关剧组",
+        "onboard_time": 1771945162,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131392,
+        "num": 97306,
+        "word": "被炸身亡男子从哪里买的烟花",
+        "onboard_time": 1771940062,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118232,
+        "num": 97032,
+        "word": "林枫松陈稳直播",
+        "onboard_time": 1771946003,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117392,
+        "num": 96864,
+        "word": "93岁老人去世将千万财产赠邻居",
+        "onboard_time": 1771934543,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104166,
+        "num": 96645,
+        "word": "丁程鑫直播",
+        "onboard_time": 1771934901,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101594,
+        "num": 96495,
+        "word": "俄乌冲突",
+        "onboard_time": 1771933942,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96470,
+        "num": 96470,
+        "word": "正月剃头死舅舅的真相来了",
+        "onboard_time": 1771919601,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154641,
+        "num": 94827,
+        "word": "杨洋的不让江山妆造",
+        "onboard_time": 1771941804,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128059,
+        "num": 93766,
+        "word": "女儿照顾大小便失禁的妈妈整整三年",
+        "onboard_time": 1771944143,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112210,
+        "num": 91051,
+        "word": "经常熬夜是在挑战甲状腺极限",
+        "onboard_time": 1771944443,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103467,
+        "num": 89567,
+        "word": "将门独后",
+        "onboard_time": 1771947201,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88230,
+        "num": 88230,
+        "word": "王心迪徐梦桃恋爱过程",
+        "onboard_time": 1771946662,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85500,
+        "num": 85500,
+        "word": "不内耗的人脑子里是这样想的",
+        "onboard_time": 1771945642,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84855,
+        "num": 84855,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1771935201,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83008,
+        "num": 83008,
+        "word": "张元英ins更新",
+        "onboard_time": 1771943961,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81750,
+        "num": 81750,
+        "word": "刘强东宣布进军游艇行业",
+        "onboard_time": 1771936642,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 81054,
+        "num": 81054,
+        "word": "瑶一瑶小肉包近30天掉粉4万",
+        "onboard_time": 1771934183,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 78299,
+        "num": 78299,
+        "word": "开工第一天被通知放假10天",
+        "onboard_time": 1771932083,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72189,
+        "num": 72189,
+        "word": "陈飞宇演技",
+        "onboard_time": 1771946781,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67697,
+        "num": 67697,
+        "word": "白鹿宋雨琦背后抱",
+        "onboard_time": 1771928301,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64512,
+        "num": 64512,
+        "word": "多款相机价格暴涨近10倍",
+        "onboard_time": 1771929503,
+        "rank": 33,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 65178,
+        "num": 64071,
+        "word": "镖人电影宇宙来了",
+        "onboard_time": 1771943361,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63624,
+        "num": 63624,
+        "word": "韩国新冠疫苗被爆含真菌毛发",
+        "onboard_time": 1771947681,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61135,
+        "num": 61135,
+        "word": "西安一市民除夕夜被AI给骂了",
+        "onboard_time": 1771946422,
+        "rank": 36,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 60796,
+        "num": 60796,
+        "word": "纯真年代的爱情 男二女二戏份",
+        "onboard_time": 1771938261,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59069,
+        "num": 59069,
+        "word": "穆祉丞发的是什么",
+        "onboard_time": 1771939104,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24525,
+        "num": 57954,
+        "word": "26岁男子春节离家失联5天",
+        "onboard_time": 1771949120,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57045,
+        "num": 57045,
+        "word": "彻底击碎日本军国梦",
+        "onboard_time": 1771949242,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56429,
+        "num": 56429,
+        "word": "平台回应夫妻春节送外卖1个月赚4万",
+        "onboard_time": 1771945522,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55583,
+        "num": 55583,
+        "word": "小车23点59分59秒下高速收费员狂喜",
+        "onboard_time": 1771924221,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53661,
+        "num": 53661,
+        "word": "墨西哥毒枭残忍罪行被曝光",
+        "onboard_time": 1771930642,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51375,
+        "num": 51375,
+        "word": "以色列备战",
+        "onboard_time": 1771948103,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49893,
+        "num": 49893,
+        "word": "杨博文周扬证件照",
+        "onboard_time": 1771950260,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48641,
+        "num": 48641,
+        "word": "有奖发票违规抽奖将被追回奖金",
+        "onboard_time": 1771948822,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47227,
+        "num": 47227,
+        "word": "丁程鑫不叫兄弟叫宝贝",
+        "onboard_time": 1771942282,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46714,
+        "num": 46714,
+        "word": "何浩楠出国五天发几十条报备微博",
+        "onboard_time": 1771949660,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44501,
+        "num": 44501,
+        "word": "CP32申摊",
+        "onboard_time": 1771948759,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#树立和践行正确政绩观#"
+    }
+  }
+}

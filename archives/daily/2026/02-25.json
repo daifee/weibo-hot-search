@@ -1,6 +1,6 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1771949263682,
+  "endTime": 1771951036049,
   "band_list": [
     {
       "raw_hot": 869751,
@@ -99,6 +99,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225211,
+      "num": 225211,
+      "word": "谷爱凌妈妈谷燕的人生轨迹",
+      "onboard_time": 1771945701,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199341,
+      "num": 199341,
+      "word": "牛奶灌溉草莓卖出360元天价",
+      "onboard_time": 1771947381,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186132,
       "num": 186132,
       "word": "谷爱凌U槽卫冕英媒质疑打分",
@@ -179,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133632,
-      "num": 133632,
-      "word": "谷爱凌妈妈谷燕的人生轨迹",
-      "onboard_time": 1771945701,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107371,
       "num": 107371,
       "word": "张元英ins更新",
@@ -211,7 +219,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101319,
+      "raw_hot": 103467,
       "num": 101319,
       "word": "将门独后",
       "onboard_time": 1771947201,
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84855,
+      "num": 84855,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1771935201,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84824,
       "num": 84824,
       "word": "瑶一瑶小肉包近30天掉粉4万",
@@ -265,22 +281,6 @@
       "onboard_time": 1771946781,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84497,
-      "num": 84497,
-      "word": "纯真年代的爱情",
-      "onboard_time": 1771935201,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 81841,
-      "num": 84736,
-      "word": "牛奶灌溉草莓卖出360元天价",
-      "onboard_time": 1771947381,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81032,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61135,
+      "num": 61135,
+      "word": "西安一市民除夕夜被AI给骂了",
+      "onboard_time": 1771946422,
+      "rank": 36,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 60832,
       "num": 60832,
       "word": "宇树发布四足机器人As2",
@@ -371,6 +379,46 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 57045,
+      "num": 67320,
+      "word": "彻底击碎日本军国梦",
+      "onboard_time": 1771949242,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 51375,
+      "num": 51375,
+      "word": "以色列备战",
+      "onboard_time": 1771948103,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 49893,
+      "num": 49893,
+      "word": "杨博文周扬证件照",
+      "onboard_time": 1771950260,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48641,
+      "num": 79901,
+      "word": "有奖发票违规抽奖将被追回奖金",
+      "onboard_time": 1771948822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46714,
+      "num": 46714,
+      "word": "何浩楠出国五天发几十条报备微博",
+      "onboard_time": 1771949660,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25776,
       "num": 79919,
       "word": "26岁男子春节离家失联5天",
@@ -379,26 +427,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21832,
-      "num": 79901,
-      "word": "有奖发票违规抽奖将被追回奖金",
-      "onboard_time": 1771948822,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19654,
-      "num": 67320,
-      "word": "彻底击碎日本军国梦",
-      "onboard_time": 1771949242,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17750,
       "num": 580946,
       "word": "2026年新春走基层",
       "onboard_time": 1771939461,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13894,
+      "num": 474967,
+      "word": "九组数据感受万马奔腾的活力春节",
+      "onboard_time": 1771938261,
       "rank": 2,
       "category": "民生新闻"
     }
