@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771909182012,
+  "endTime": 1771909852163,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 917928,
-      "num": 254749,
+      "num": 308400,
       "word": "iPhone18 折叠",
       "onboard_time": 1771904842,
       "rank": 10,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 679018,
-      "num": 254601,
+      "num": 299649,
       "word": "日本",
       "onboard_time": 1771902859,
       "rank": 33,
@@ -409,6 +409,14 @@
       "onboard_time": 1771844301,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 658350,
+      "num": 305154,
+      "word": "50岁的陈坤24岁的张康乐",
+      "onboard_time": 1771907721,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 641556,
@@ -531,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554845,
+      "num": 416802,
+      "word": "开工第一天 请假",
+      "onboard_time": 1771907000,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 552204,
       "num": 552204,
       "word": "谷爱凌 九亿少女的梦",
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 547853,
-      "num": 254435,
+      "num": 268867,
       "word": "章若楠王安宇排名不分先后",
       "onboard_time": 1771903162,
       "rank": 25,
@@ -609,14 +625,6 @@
       "onboard_time": 1771814242,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 516746,
-      "num": 254210,
-      "word": "50岁的陈坤24岁的张康乐",
-      "onboard_time": 1771907721,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 513880,
@@ -723,14 +731,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 472558,
-      "num": 406929,
-      "word": "开工第一天 请假",
-      "onboard_time": 1771907000,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 463770,
       "num": 463770,
       "word": "谷爱凌第一滑30.00分",
@@ -777,6 +777,14 @@
       "onboard_time": 1771839320,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 441484,
+      "num": 441484,
+      "word": "官方通报36斤羊烤完仅剩6.9斤",
+      "onboard_time": 1771906101,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 441000,
@@ -1163,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334225,
-      "num": 334225,
-      "word": "官方通报36斤羊烤完仅剩6.9斤",
-      "onboard_time": 1771906101,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 334050,
       "num": 271521,
       "word": "初八上班的我就这样",
@@ -1324,7 +1324,7 @@
     },
     {
       "raw_hot": 300416,
-      "num": 242666,
+      "num": 264258,
       "word": "这胡同别让王一博看见了",
       "onboard_time": 1771906460,
       "rank": 20,
@@ -1476,7 +1476,7 @@
     },
     {
       "raw_hot": 271002,
-      "num": 271002,
+      "num": 316309,
       "word": "市监局回应15岁少女贱卖奢侈品",
       "onboard_time": 1771903462,
       "rank": 8,
@@ -1497,6 +1497,14 @@
       "onboard_time": 1771745779,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269011,
+      "num": 269011,
+      "word": "看演唱会旁边坐的白鹿",
+      "onboard_time": 1771907721,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 268741,
@@ -1648,6 +1656,14 @@
       "word": "黄一鸣整了马甲线",
       "onboard_time": 1771831160,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 248816,
+      "num": 248816,
+      "word": "丁程鑫严浩翔比24",
+      "onboard_time": 1771907421,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1819,14 +1835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 232266,
-      "num": 196576,
-      "word": "丁程鑫严浩翔比24",
-      "onboard_time": 1771907421,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232117,
       "num": 232117,
       "word": "贾乃亮看黄景瑜新剧看哭了",
@@ -1929,6 +1937,14 @@
       "onboard_time": 1771894820,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222049,
+      "num": 264396,
+      "word": "台湾地震",
+      "onboard_time": 1771909100,
+      "rank": 30,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 221868,
@@ -2129,14 +2145,6 @@
       "onboard_time": 1771822460,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194379,
-      "num": 194379,
-      "word": "看演唱会旁边坐的白鹿",
-      "onboard_time": 1771907721,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 194005,
@@ -2523,14 +2531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171898,
-      "num": 171898,
-      "word": "台湾地震",
-      "onboard_time": 1771909100,
-      "rank": 30,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 171723,
       "num": 132033,
       "word": "李柯以给短剧上强度了",
@@ -2689,6 +2689,14 @@
       "onboard_time": 1771840040,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157281,
+      "num": 157281,
+      "word": "芒果搞钱综艺要来了",
+      "onboard_time": 1771909280,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 156402,
@@ -3315,6 +3323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128654,
+      "num": 128654,
+      "word": "金饰价格涨到1586元",
+      "onboard_time": 1771908500,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128075,
       "num": 128075,
       "word": "成何体统",
@@ -3337,6 +3353,14 @@
       "onboard_time": 1771748599,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125793,
+      "num": 280758,
+      "word": "肖战即将出席Gucci大秀",
+      "onboard_time": 1771905922,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 125555,
@@ -3491,14 +3515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119485,
-      "num": 254500,
-      "word": "肖战即将出席Gucci大秀",
-      "onboard_time": 1771905922,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119458,
       "num": 110086,
       "word": "吴京 时代峰峻古代",
@@ -3636,7 +3652,7 @@
     },
     {
       "raw_hot": 115621,
-      "num": 115621,
+      "num": 129168,
       "word": "奶茶杯盖上为啥这么多孔",
       "onboard_time": 1771907780,
       "rank": 37,
@@ -3915,6 +3931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108523,
+      "num": 108523,
+      "word": "华为2025年销售收入超8800亿",
+      "onboard_time": 1771909401,
+      "rank": 42,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 108346,
       "num": 108346,
       "word": "谷爱凌U型场地统治力",
@@ -4073,14 +4097,6 @@
       "onboard_time": 1771755920,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 103370,
-      "num": 103370,
-      "word": "金饰价格涨到1586元",
-      "onboard_time": 1771908500,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 103343,
@@ -4299,6 +4315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95989,
+      "num": 102907,
+      "word": "小孩开智有点早",
+      "onboard_time": 1771909100,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95720,
       "num": 89841,
       "word": "陈赫直播提及宋雨琦cut",
@@ -4491,14 +4515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91961,
-      "num": 91961,
-      "word": "小孩开智有点早",
-      "onboard_time": 1771909100,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 91577,
       "num": 148264,
       "word": "湖南6名牺牲消防员名字公布",
@@ -4585,6 +4601,14 @@
       "onboard_time": 1771892720,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 90238,
+      "num": 128937,
+      "word": "章若楠王安宇情侣头像",
+      "onboard_time": 1771909520,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 90061,
@@ -4780,7 +4804,7 @@
     },
     {
       "raw_hot": 85927,
-      "num": 254308,
+      "num": 265221,
       "word": "节后综合症一下子好了",
       "onboard_time": 1771905801,
       "rank": 15,
@@ -6123,6 +6147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48973,
+      "num": 161451,
+      "word": "Burberry大秀",
+      "onboard_time": 1771909699,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 48800,
       "num": 48800,
       "word": "八段锦跟练版来了",
@@ -6475,6 +6507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30867,
+      "num": 243687,
+      "word": "爱泼斯坦死亡声明日期在其死前1天",
+      "onboard_time": 1771908381,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 29910,
       "num": 142734,
       "word": "AI骗局三件套涌入老年机",
@@ -6523,6 +6563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27228,
+      "num": 110308,
+      "word": "玫瑰丛生复工壁纸",
+      "onboard_time": 1771908861,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26945,
       "num": 26945,
       "word": "英雄志群演分享第一次拍戏见到成毅",
@@ -6539,28 +6587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26337,
-      "num": 243687,
-      "word": "爱泼斯坦死亡声明日期在其死前1天",
-      "onboard_time": 1771908381,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 26222,
       "num": 109363,
       "word": "美国或对伊朗先进行初步打击",
       "onboard_time": 1771900941,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25867,
-      "num": 110308,
-      "word": "玫瑰丛生复工壁纸",
-      "onboard_time": 1771908861,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 25562,
@@ -6577,6 +6609,14 @@
       "onboard_time": 1771827500,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25047,
+      "num": 128702,
+      "word": "男子扶人反被讹行车记录仪证清白",
+      "onboard_time": 1771909582,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24934,
@@ -6963,6 +7003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 12907,
+      "num": 327047,
+      "word": "一组数据看热气腾腾中国年",
+      "onboard_time": 1771909582,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12504,
       "num": 18776,
       "word": "熬夜看闭幕式",
@@ -7017,6 +7065,14 @@
       "onboard_time": 1771833981,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5909,
+      "num": 624693,
+      "word": "米兰冬奥超越胜负的动人瞬间",
+      "onboard_time": 1771909821,
+      "rank": 2,
+      "category": "民生新闻,体育"
     }
   ],
   "hotgov_list": [
@@ -7040,6 +7096,9 @@
     },
     {
       "word": "#总书记和四世同堂一家人拉家常#"
+    },
+    {
+      "word": "#总书记给大家鼓劲加油#"
     }
   ]
 }
