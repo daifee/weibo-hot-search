@@ -1,0 +1,410 @@
+{
+  "runTime": 1771924514727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1198635,
+        "num": 1198635,
+        "word": "正月剃头死舅舅的真相来了",
+        "onboard_time": 1771919601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372262,
+        "num": 886934,
+        "word": "葡萄330草莓360元一斤网友惊呆",
+        "onboard_time": 1771917920,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24190,
+        "num": 686373,
+        "word": "广东高质量发展大会",
+        "onboard_time": 1771923801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412230,
+        "num": 412230,
+        "word": "男子误喝过期牛奶暴瘦53斤",
+        "onboard_time": 1771919301,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387113,
+        "num": 387113,
+        "word": "黄金再迎直线跳水",
+        "onboard_time": 1771919541,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 327133,
+        "num": 327133,
+        "word": "考研出分时间",
+        "onboard_time": 1771888937,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 279577,
+        "num": 279577,
+        "word": "考研查分能不能给个确切的时间",
+        "onboard_time": 1771922422,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258596,
+        "num": 258596,
+        "word": "新年BBA车价大降",
+        "onboard_time": 1771921580,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 258100,
+        "num": 258100,
+        "word": "连体女婴分离28年后当了妈妈",
+        "onboard_time": 1771920322,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257789,
+        "num": 257789,
+        "word": "孟子义将门独后紫衣造型",
+        "onboard_time": 1771917920,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542780,
+        "num": 255795,
+        "word": "张婧仪王楚然 通天路你们走不走",
+        "onboard_time": 1771920802,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472673,
+        "num": 235764,
+        "word": "衣服的成本价在水洗标上",
+        "onboard_time": 1771920560,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 460318,
+        "num": 222404,
+        "word": "任敏 比例",
+        "onboard_time": 1771918101,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458967,
+        "num": 206917,
+        "word": "沈腾马丽这种鞋也要穿同款吗",
+        "onboard_time": 1771921881,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203259,
+        "num": 203259,
+        "word": "湖南湘阴一男子放烟花时炸膛致身亡",
+        "onboard_time": 1771915641,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36897,
+        "num": 196983,
+        "word": "默茨就任以来首次访华",
+        "onboard_time": 1771923262,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249113,
+        "num": 195687,
+        "word": "吴京发谛听 郭帆不转发",
+        "onboard_time": 1771920922,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193866,
+        "num": 193866,
+        "word": "卢昱晓回复外婆去世的粉丝",
+        "onboard_time": 1771914741,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181299,
+        "num": 181299,
+        "word": "小猫的汗脚",
+        "onboard_time": 1771920202,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189392,
+        "num": 181253,
+        "word": "王楚然丞磊 京洛再无佳人",
+        "onboard_time": 1771923501,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318645,
+        "num": 181125,
+        "word": "李现和杨紫父母穿同款外套",
+        "onboard_time": 1771913119,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180907,
+        "num": 180907,
+        "word": "iPhone18 折叠",
+        "onboard_time": 1771904842,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198450,
+        "num": 180608,
+        "word": "汪涵11岁儿子在咖啡店当义工",
+        "onboard_time": 1771922242,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10853,
+        "num": 177226,
+        "word": "小车23点59分59秒下高速收费员狂喜",
+        "onboard_time": 1771924221,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176530,
+        "num": 176530,
+        "word": "36斤活羊烤完6.9斤涉事餐馆已无顾客",
+        "onboard_time": 1771917080,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175962,
+        "num": 175962,
+        "word": "12306半夜候补成功1700元车票作废",
+        "onboard_time": 1771898961,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165529,
+        "num": 165529,
+        "word": "宋威龙和周围人不在一个图层",
+        "onboard_time": 1771920382,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161187,
+        "num": 161187,
+        "word": "开了个公众号和父母进行魔法对轰",
+        "onboard_time": 1771914501,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 156968,
+        "num": 156968,
+        "word": "建议父母停止对孩子的灾难化想象",
+        "onboard_time": 1771924400,
+        "rank": 28,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 147888,
+        "num": 147888,
+        "word": "西藏徒步失联女生因自责用微笑回应",
+        "onboard_time": 1771923981,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141413,
+        "num": 141413,
+        "word": "沈腾个人总票房达400亿",
+        "onboard_time": 1771917500,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134630,
+        "num": 134630,
+        "word": "白鹿首尔回国",
+        "onboard_time": 1771918224,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115704,
+        "num": 115704,
+        "word": "女子带娃放烟花赔80万获刑2年",
+        "onboard_time": 1771920501,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113827,
+        "num": 113827,
+        "word": "短国年代剧已经拍到了05年",
+        "onboard_time": 1771917320,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109117,
+        "num": 109117,
+        "word": "女生失联后用牛粪保温在牛棚被找到",
+        "onboard_time": 1771910061,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107251,
+        "num": 107251,
+        "word": "郭晓婷不是替身文学我不接",
+        "onboard_time": 1771923681,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104398,
+        "num": 104398,
+        "word": "镖人",
+        "onboard_time": 1771907959,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59885,
+        "num": 103684,
+        "word": "周大福又要涨价",
+        "onboard_time": 1771923981,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103493,
+        "num": 103493,
+        "word": "河南当街被打女孩母亲发声",
+        "onboard_time": 1771920802,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40520,
+        "num": 101078,
+        "word": "高速堵车女子花半小时举报违章车辆",
+        "onboard_time": 1771924281,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100887,
+        "num": 100887,
+        "word": "丁程鑫回复时代少年团",
+        "onboard_time": 1771920501,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100801,
+        "num": 100801,
+        "word": "金秋天solo持续领先张元英",
+        "onboard_time": 1771922242,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100185,
+        "num": 100185,
+        "word": "苹果春季发布会全部新品曝光",
+        "onboard_time": 1771919181,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98645,
+        "num": 98645,
+        "word": "孩子妈晒童锦程的红包",
+        "onboard_time": 1771919062,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86022,
+        "num": 86022,
+        "word": "赵老师说的太好了 鸡蛋灌饼",
+        "onboard_time": 1771918941,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84222,
+        "num": 84222,
+        "word": "董璇张维伊带小酒窝回北京",
+        "onboard_time": 1771921521,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87683,
+        "num": 84037,
+        "word": "张元英solo成绩",
+        "onboard_time": 1771913300,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78726,
+        "num": 83485,
+        "word": "谷爱凌金色蝴蝶结来历曝光",
+        "onboard_time": 1771919842,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83476,
+        "num": 83476,
+        "word": "小S二女儿参加伦敦时装周",
+        "onboard_time": 1771918581,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80064,
+        "num": 80064,
+        "word": "张远演我年后减肥状态",
+        "onboard_time": 1771922481,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步步奔向心中的伟大梦想#"
+    }
+  }
+}

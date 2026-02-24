@@ -1,6 +1,6 @@
 {
   "startTime": 1771863172983,
-  "endTime": 1771923605135,
+  "endTime": 1771924514727,
   "band_list": [
     {
       "raw_hot": 1603433,
@@ -188,11 +188,19 @@
     },
     {
       "raw_hot": 547390,
-      "num": 871747,
+      "num": 886934,
       "word": "葡萄330草莓360元一斤网友惊呆",
       "onboard_time": 1771917920,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 542780,
+      "num": 255795,
+      "word": "张婧仪王楚然 通天路你们走不走",
+      "onboard_time": 1771920802,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 541063,
@@ -211,11 +219,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 465389,
-      "num": 231434,
-      "word": "张婧仪王楚然 通天路你们走不走",
-      "onboard_time": 1771920802,
-      "rank": 11,
+      "raw_hot": 458967,
+      "num": 216717,
+      "word": "沈腾马丽这种鞋也要穿同款吗",
+      "onboard_time": 1771921881,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -307,16 +315,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 375775,
-      "num": 216717,
-      "word": "沈腾马丽这种鞋也要穿同款吗",
-      "onboard_time": 1771921881,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 369210,
-      "num": 369210,
+      "raw_hot": 387113,
+      "num": 387113,
       "word": "黄金再迎直线跳水",
       "onboard_time": 1771919541,
       "rank": 37,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279577,
+      "num": 279577,
+      "word": "考研查分能不能给个确切的时间",
+      "onboard_time": 1771922422,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 277494,
       "num": 235114,
       "word": "一栗小莎子第三次化疗",
@@ -499,12 +507,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 258596,
+      "num": 258596,
+      "word": "新年BBA车价大降",
+      "onboard_time": 1771921580,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 254077,
       "num": 254077,
       "word": "iPhone18Pro新配色目标一眼最新款",
       "onboard_time": 1771901601,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 249113,
+      "num": 217589,
+      "word": "吴京发谛听 郭帆不转发",
+      "onboard_time": 1771920922,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 248816,
@@ -529,14 +553,6 @@
       "onboard_time": 1771907241,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238213,
-      "num": 238213,
-      "word": "考研查分能不能给个确切的时间",
-      "onboard_time": 1771922422,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 233205,
@@ -579,19 +595,19 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 219746,
-      "num": 217589,
-      "word": "吴京发谛听 郭帆不转发",
-      "onboard_time": 1771920922,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 200263,
       "num": 200263,
       "word": "张元英solo成绩",
       "onboard_time": 1771913300,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198450,
+      "num": 180608,
+      "word": "汪涵11岁儿子在咖啡店当义工",
+      "onboard_time": 1771922242,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -627,20 +643,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190270,
-      "num": 190270,
-      "word": "新年BBA车价大降",
-      "onboard_time": 1771921580,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 189755,
       "num": 189755,
       "word": "代旭劝学",
       "onboard_time": 1771897100,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189392,
+      "num": 181253,
+      "word": "王楚然丞磊 京洛再无佳人",
+      "onboard_time": 1771923501,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 189125,
@@ -715,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165529,
+      "num": 165529,
+      "word": "宋威龙和周围人不在一个图层",
+      "onboard_time": 1771920382,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164955,
       "num": 164955,
       "word": "刘耀文在惊蛰无声里的作用",
@@ -747,22 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160177,
-      "num": 160177,
-      "word": "汪涵11岁儿子在咖啡店当义工",
-      "onboard_time": 1771922242,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 159985,
-      "num": 122724,
-      "word": "宋威龙和周围人不在一个图层",
-      "onboard_time": 1771920382,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158396,
       "num": 158396,
       "word": "石雷鹏 今天大概率出不了分",
@@ -777,6 +785,14 @@
       "onboard_time": 1771857262,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156968,
+      "num": 156968,
+      "word": "建议父母停止对孩子的灾难化想象",
+      "onboard_time": 1771924400,
+      "rank": 28,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 156373,
@@ -825,6 +841,14 @@
       "onboard_time": 1771900162,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 147888,
+      "num": 147888,
+      "word": "西藏徒步失联女生因自责用微笑回应",
+      "onboard_time": 1771923981,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144997,
@@ -1219,6 +1243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107251,
+      "num": 107251,
+      "word": "郭晓婷不是替身文学我不接",
+      "onboard_time": 1771923681,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106549,
       "num": 102303,
       "word": "万鹏李昀锐有古早武侠cp的感觉",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1771917681,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103493,
+      "num": 103493,
+      "word": "河南当街被打女孩母亲发声",
+      "onboard_time": 1771920802,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103343,
@@ -1307,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100801,
+      "num": 100801,
+      "word": "金秋天solo持续领先张元英",
+      "onboard_time": 1771922242,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100551,
       "num": 100551,
       "word": "14岁的谷爱凌就认为自己是中国人",
@@ -1355,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98472,
-      "num": 98472,
-      "word": "金秋天solo持续领先张元英",
-      "onboard_time": 1771922242,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97701,
       "num": 97701,
       "word": "109只个股涨停",
@@ -1385,14 +1425,6 @@
       "onboard_time": 1771923202,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 96091,
-      "num": 92553,
-      "word": "王楚然丞磊 京洛再无佳人",
-      "onboard_time": 1771923501,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 95989,
@@ -1731,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59885,
+      "num": 103684,
+      "word": "周大福又要涨价",
+      "onboard_time": 1771923981,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 59710,
       "num": 59433,
       "word": "女子情绪失控欲跳桥丈夫狂奔阻拦",
@@ -1907,6 +1947,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 40520,
+      "num": 101078,
+      "word": "高速堵车女子花半小时举报违章车辆",
+      "onboard_time": 1771924281,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36897,
+      "num": 215762,
+      "word": "默茨就任以来首次访华",
+      "onboard_time": 1771923262,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35935,
       "num": 51942,
       "word": "纯真年代的爱情",
@@ -1995,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24190,
+      "num": 686373,
+      "word": "广东高质量发展大会",
+      "onboard_time": 1771923801,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22438,
       "num": 146308,
       "word": "多车雨中卡最后时刻压哨过收费站",
@@ -2025,14 +2089,6 @@
       "onboard_time": 1771871595,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20854,
-      "num": 215762,
-      "word": "默茨就任以来首次访华",
-      "onboard_time": 1771923262,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16204,
@@ -2072,6 +2128,14 @@
       "word": "一组数据看热气腾腾中国年",
       "onboard_time": 1771909582,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10853,
+      "num": 177226,
+      "word": "小车23点59分59秒下高速收费员狂喜",
+      "onboard_time": 1771924221,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
