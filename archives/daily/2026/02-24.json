@@ -1,6 +1,6 @@
 {
   "startTime": 1771863172983,
-  "endTime": 1771920466153,
+  "endTime": 1771923605135,
   "band_list": [
     {
       "raw_hot": 1603433,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1314771,
+      "num": 1314771,
+      "word": "正月剃头死舅舅的真相来了",
+      "onboard_time": 1771919601,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1182807,
       "num": 134645,
       "word": "刘耀文",
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1026291,
-      "num": 192890,
+      "num": 207114,
       "word": "李现和杨紫父母穿同款外套",
       "onboard_time": 1771913119,
       "rank": 30,
@@ -155,6 +163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 571291,
+      "num": 237630,
+      "word": "衣服的成本价在水洗标上",
+      "onboard_time": 1771920560,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 554845,
       "num": 416802,
       "word": "开工第一天 请假",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 547390,
-      "num": 809206,
+      "num": 871747,
       "word": "葡萄330草莓360元一斤网友惊呆",
       "onboard_time": 1771917920,
       "rank": 1,
@@ -193,6 +209,14 @@
       "onboard_time": 1771888577,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 465389,
+      "num": 231434,
+      "word": "张婧仪王楚然 通天路你们走不走",
+      "onboard_time": 1771920802,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 446008,
@@ -267,12 +291,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 419193,
+      "num": 419193,
+      "word": "男子误喝过期牛奶暴瘦53斤",
+      "onboard_time": 1771919301,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396358,
       "num": 783284,
       "word": "墨西哥毒枭身亡事件华人发声",
       "onboard_time": 1771861999,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 375775,
+      "num": 216717,
+      "word": "沈腾马丽这种鞋也要穿同款吗",
+      "onboard_time": 1771921881,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 369210,
+      "num": 369210,
+      "word": "黄金再迎直线跳水",
+      "onboard_time": 1771919541,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 367988,
@@ -297,22 +345,6 @@
       "onboard_time": 1771912162,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 333630,
-      "num": 333630,
-      "word": "正月剃头死舅舅的真相来了",
-      "onboard_time": 1771919601,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 324717,
-      "num": 324717,
-      "word": "男子误喝过期牛奶暴瘦53斤",
-      "onboard_time": 1771919301,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 317574,
@@ -379,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291986,
+      "num": 291986,
+      "word": "孟子义将门独后紫衣造型",
+      "onboard_time": 1771917920,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291331,
       "num": 291331,
       "word": "短国年代剧已经拍到了05年",
@@ -417,6 +457,14 @@
       "onboard_time": 1771914501,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 272744,
+      "num": 272744,
+      "word": "连体女婴分离28年后当了妈妈",
+      "onboard_time": 1771920322,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271234,
@@ -483,20 +531,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238213,
+      "num": 238213,
+      "word": "考研查分能不能给个确切的时间",
+      "onboard_time": 1771922422,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 233205,
       "num": 141310,
       "word": "单依纯 蔻驰",
       "onboard_time": 1771850242,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232678,
-      "num": 232678,
-      "word": "孟子义将门独后紫衣造型",
-      "onboard_time": 1771917920,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 228790,
@@ -531,6 +579,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 219746,
+      "num": 217589,
+      "word": "吴京发谛听 郭帆不转发",
+      "onboard_time": 1771920922,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200263,
       "num": 200263,
       "word": "张元英solo成绩",
@@ -563,6 +619,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193150,
+      "num": 193150,
+      "word": "小猫的汗脚",
+      "onboard_time": 1771920202,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 190270,
+      "num": 190270,
+      "word": "新年BBA车价大降",
+      "onboard_time": 1771921580,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 189755,
       "num": 189755,
       "word": "代旭劝学",
@@ -585,6 +657,14 @@
       "onboard_time": 1771903701,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184926,
+      "num": 184926,
+      "word": "张远演我年后减肥状态",
+      "onboard_time": 1771922481,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 181383,
@@ -664,6 +744,22 @@
       "word": "贺峻霖祝丁程鑫本命年快乐",
       "onboard_time": 1771908983,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160177,
+      "num": 160177,
+      "word": "汪涵11岁儿子在咖啡店当义工",
+      "onboard_time": 1771922242,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159985,
+      "num": 122724,
+      "word": "宋威龙和周围人不在一个图层",
+      "onboard_time": 1771920382,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -761,14 +857,6 @@
       "onboard_time": 1771910480,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 142279,
-      "num": 142279,
-      "word": "黄金再迎直线跳水",
-      "onboard_time": 1771919541,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 142237,
@@ -891,6 +979,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 125957,
+      "num": 118621,
+      "word": "丁程鑫回复时代少年团",
+      "onboard_time": 1771920501,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125793,
       "num": 280758,
       "word": "肖战即将出席Gucci大秀",
@@ -969,6 +1065,14 @@
       "onboard_time": 1771908023,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119284,
+      "num": 119284,
+      "word": "女子带娃放烟花赔80万获刑2年",
+      "onboard_time": 1771920501,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119230,
@@ -1123,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105379,
+      "num": 105379,
+      "word": "董璇张维伊带小酒窝回北京",
+      "onboard_time": 1771921521,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104757,
       "num": 94893,
       "word": "免费时段即将结束仍在高速怎么办",
@@ -1243,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98472,
+      "num": 98472,
+      "word": "金秋天solo持续领先张元英",
+      "onboard_time": 1771922242,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97701,
       "num": 97701,
       "word": "109只个股涨停",
@@ -1257,6 +1377,22 @@
       "onboard_time": 1771900162,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96458,
+      "num": 98879,
+      "word": "员工回应雷军发红包",
+      "onboard_time": 1771923202,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 96091,
+      "num": 92553,
+      "word": "王楚然丞磊 京洛再无佳人",
+      "onboard_time": 1771923501,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 95989,
@@ -1467,14 +1603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 79723,
-      "num": 94882,
-      "word": "连体女婴分离28年后当了妈妈",
-      "onboard_time": 1771920322,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77846,
       "num": 77846,
       "word": "镖人票房",
@@ -1569,14 +1697,6 @@
       "onboard_time": 1771864218,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64940,
-      "num": 95011,
-      "word": "宋威龙和周围人不在一个图层",
-      "onboard_time": 1771920382,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 64288,
@@ -1835,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27268,
+      "num": 105299,
+      "word": "女孩贱卖奢侈品家长质疑回收平台",
+      "onboard_time": 1771922663,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27228,
       "num": 110308,
       "word": "玫瑰丛生复工壁纸",
@@ -1875,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22155,
+      "num": 105330,
+      "word": "张峻豪发的照片好像通缉令",
+      "onboard_time": 1771922902,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20971,
       "num": 69941,
       "word": "人民日报专访教练李琰",
@@ -1889,6 +2025,14 @@
       "onboard_time": 1771871595,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20854,
+      "num": 215762,
+      "word": "默茨就任以来首次访华",
+      "onboard_time": 1771923262,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16204,
@@ -1945,6 +2089,14 @@
       "onboard_time": 1771914861,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5842,
+      "num": 723241,
+      "word": "2026春节消费马力全开",
+      "onboard_time": 1771923560,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1953,6 +2105,9 @@
     },
     {
       "word": "#总书记给大家鼓劲加油#"
+    },
+    {
+      "word": "#一步步奔向心中的伟大梦想#"
     }
   ]
 }
