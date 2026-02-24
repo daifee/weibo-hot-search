@@ -1,6 +1,6 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1771972924080,
+  "endTime": 1771974096251,
   "band_list": [
     {
       "raw_hot": 869751,
@@ -115,12 +115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190225,
+      "num": 599203,
+      "word": "惊蛰无声",
+      "onboard_time": 1771953676,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186132,
       "num": 186132,
       "word": "谷爱凌U槽卫冕英媒质疑打分",
       "onboard_time": 1771941023,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176072,
+      "num": 420688,
+      "word": "当地回应女生徒步失联在牛棚被找到",
+      "onboard_time": 1771967953,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172790,
@@ -203,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124848,
-      "num": 469760,
-      "word": "惊蛰无声",
-      "onboard_time": 1771953676,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 107371,
       "num": 107371,
       "word": "张元英ins更新",
@@ -235,20 +243,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100629,
+      "num": 66409,
+      "word": "西安一市民除夕夜被AI给骂了",
+      "onboard_time": 1771946422,
+      "rank": 36,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 96346,
       "num": 96346,
       "word": "纯真年代的爱情 男二女二戏份",
       "onboard_time": 1771938261,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94233,
-      "num": 336469,
-      "word": "当地回应女生徒步失联在牛棚被找到",
-      "onboard_time": 1771967953,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93527,
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83872,
+      "num": 83872,
+      "word": "中方回应特朗普3月31日将访问中国",
+      "onboard_time": 1771941143,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81032,
       "num": 79967,
       "word": "镖人电影宇宙来了",
@@ -321,14 +337,6 @@
       "onboard_time": 1771928301,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75840,
-      "num": 61135,
-      "word": "西安一市民除夕夜被AI给骂了",
-      "onboard_time": 1771946422,
-      "rank": 36,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 69294,
@@ -403,14 +411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56966,
-      "num": 56966,
-      "word": "中方回应特朗普3月31日将访问中国",
-      "onboard_time": 1771941143,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 51375,
       "num": 51375,
       "word": "以色列备战",
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44027,
+      "num": 44027,
+      "word": "金价波动",
+      "onboard_time": 1771933942,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 35789,
       "num": 33546,
       "word": "江湖夜雨十年灯",
@@ -451,28 +459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35762,
+      "num": 35762,
+      "word": "李嘉格男友晒照",
+      "onboard_time": 1771936881,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34657,
+      "num": 34657,
+      "word": "独来独往的女人没有一个是孬种",
+      "onboard_time": 1771936521,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 28498,
       "num": 33458,
       "word": "鞠婧祎跳了没有明天",
       "onboard_time": 1771939942,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26990,
-      "num": 26990,
-      "word": "金价波动",
-      "onboard_time": 1771933942,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 26987,
-      "num": 33421,
-      "word": "独来独往的女人没有一个是孬种",
-      "onboard_time": 1771936521,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 25776,
@@ -491,12 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24878,
-      "num": 33390,
-      "word": "李嘉格男友晒照",
-      "onboard_time": 1771936881,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 22494,
+      "num": 24744,
+      "word": "飞驰人生3",
+      "onboard_time": 1771940841,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 21906,
+      "num": 24736,
+      "word": "AI超级风暴突袭美股市场",
+      "onboard_time": 1771972515,
+      "rank": 45,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 20034,
@@ -515,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18167,
-      "num": 18167,
-      "word": "飞驰人生3",
-      "onboard_time": 1771940841,
-      "rank": 37,
-      "category": "电影"
+      "raw_hot": 18246,
+      "num": 24726,
+      "word": "KPL春季赛",
+      "onboard_time": 1771937422,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 17750,
@@ -555,28 +571,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 16683,
-      "num": 18516,
-      "word": "KPL春季赛",
-      "onboard_time": 1771937422,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 15683,
-      "num": 17863,
-      "word": "AI超级风暴突袭美股市场",
-      "onboard_time": 1771972515,
-      "rank": 45,
-      "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 15175,
-      "num": 18512,
+      "raw_hot": 16033,
+      "num": 24719,
       "word": "WTT新加坡大满贯",
       "onboard_time": 1771941563,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15946,
+      "num": 24714,
+      "word": "春晚同款扫地机在全国卖爆了",
+      "onboard_time": 1771974017,
+      "rank": 49,
+      "category": "综艺,数码"
     },
     {
       "raw_hot": 15085,

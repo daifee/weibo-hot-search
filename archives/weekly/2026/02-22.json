@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771972924080,
+  "endTime": 1771974096251,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -2859,6 +2859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190225,
+      "num": 599203,
+      "word": "惊蛰无声",
+      "onboard_time": 1771752621,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190024,
       "num": 190024,
       "word": "五代物料",
@@ -3065,6 +3073,14 @@
       "onboard_time": 1771765581,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176072,
+      "num": 420688,
+      "word": "当地回应女生徒步失联在牛棚被找到",
+      "onboard_time": 1771967953,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175816,
@@ -4267,14 +4283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124848,
-      "num": 469760,
-      "word": "惊蛰无声",
-      "onboard_time": 1771752621,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 124751,
       "num": 183388,
       "word": "4千元相机没舍得买5年后涨至9千",
@@ -5379,6 +5387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100629,
+      "num": 66409,
+      "word": "西安一市民除夕夜被AI给骂了",
+      "onboard_time": 1771946422,
+      "rank": 36,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 100551,
       "num": 100551,
       "word": "14岁的谷爱凌就认为自己是中国人",
@@ -5601,14 +5617,6 @@
       "onboard_time": 1771825581,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94233,
-      "num": 336469,
-      "word": "当地回应女生徒步失联在牛棚被找到",
-      "onboard_time": 1771967953,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93969,
@@ -6689,14 +6697,6 @@
       "onboard_time": 1771679963,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75840,
-      "num": 61135,
-      "word": "西安一市民除夕夜被AI给骂了",
-      "onboard_time": 1771946422,
-      "rank": 36,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 75727,
@@ -8611,6 +8611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21906,
+      "num": 24736,
+      "word": "AI超级风暴突袭美股市场",
+      "onboard_time": 1771972515,
+      "rank": 45,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 21635,
       "num": 157709,
       "word": "节后不想上班其实是多巴胺戒断",
@@ -8739,6 +8747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18246,
+      "num": 24726,
+      "word": "KPL春季赛",
+      "onboard_time": 1771937422,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 18117,
       "num": 132593,
       "word": "东京晴空塔电梯故障致十余人被困",
@@ -8819,14 +8835,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 16683,
-      "num": 18516,
-      "word": "KPL春季赛",
-      "onboard_time": 1771937422,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 16475,
       "num": 151550,
       "word": "春节剩菜最好3天内吃完",
@@ -8859,20 +8867,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15683,
-      "num": 17863,
-      "word": "AI超级风暴突袭美股市场",
-      "onboard_time": 1771972515,
-      "rank": 45,
-      "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 15175,
-      "num": 18512,
+      "raw_hot": 16033,
+      "num": 24719,
       "word": "WTT新加坡大满贯",
       "onboard_time": 1771941563,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15946,
+      "num": 24714,
+      "word": "春晚同款扫地机在全国卖爆了",
+      "onboard_time": 1771974017,
+      "rank": 49,
+      "category": "综艺,数码"
     },
     {
       "raw_hot": 15085,
