@@ -1,6 +1,6 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1771974096251,
+  "endTime": 1771976485307,
   "band_list": [
     {
       "raw_hot": 869751,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 601529,
+      "num": 128985,
+      "word": "官方回应继父搂腰亲吻女童",
+      "onboard_time": 1771974435,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531411,
       "num": 177543,
       "word": "江西一家人自驾返程出车祸1死4伤",
@@ -33,6 +41,14 @@
       "onboard_time": 1771940663,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 487193,
+      "num": 918228,
+      "word": "平顶山再通报打人事件",
+      "onboard_time": 1771975037,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 435439,
@@ -51,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333587,
+      "num": 655122,
+      "word": "惊蛰无声",
+      "onboard_time": 1771953676,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 298846,
       "num": 298846,
       "word": "Prada出发图",
@@ -59,11 +83,27 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 297407,
+      "num": 87796,
+      "word": "吴佳尼被认识3天的富二代求婚",
+      "onboard_time": 1771974737,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259125,
       "num": 259125,
       "word": "高速堵车大哥在路边架锅卖炒粉",
       "onboard_time": 1771942944,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241732,
+      "num": 420688,
+      "word": "当地回应女生徒步失联在牛棚被找到",
+      "onboard_time": 1771967953,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -115,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190225,
-      "num": 599203,
-      "word": "惊蛰无声",
-      "onboard_time": 1771953676,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 186132,
       "num": 186132,
       "word": "谷爱凌U槽卫冕英媒质疑打分",
@@ -131,20 +163,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176072,
-      "num": 420688,
-      "word": "当地回应女生徒步失联在牛棚被找到",
-      "onboard_time": 1771967953,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172790,
       "num": 169465,
       "word": "丁程鑫直播",
       "onboard_time": 1771934901,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171135,
+      "num": 73245,
+      "word": "被继父亲吻女童已被生父接回",
+      "onboard_time": 1771975517,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169604,
@@ -163,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166749,
+      "num": 127095,
+      "word": "西安一市民除夕夜被AI给骂了",
+      "onboard_time": 1771946422,
+      "rank": 36,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 159871,
       "num": 159871,
       "word": "林枫松陈稳直播",
@@ -179,6 +219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 150175,
+      "num": 150175,
+      "word": "不内耗的人脑子里是这样想的",
+      "onboard_time": 1771945642,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148763,
       "num": 184542,
       "word": "正月剃头死舅舅的真相来了",
@@ -187,7 +235,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143610,
+      "raw_hot": 144203,
       "num": 198867,
       "word": "将门独后",
       "onboard_time": 1771947201,
@@ -195,7 +243,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136037,
+      "raw_hot": 136775,
       "num": 136037,
       "word": "俄乌冲突",
       "onboard_time": 1771933942,
@@ -219,6 +267,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129180,
+      "num": 129180,
+      "word": "中方回应特朗普3月31日将访问中国",
+      "onboard_time": 1771941143,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 117400,
+      "num": 85036,
+      "word": "王安宇多给内娱留几个霸总吧",
+      "onboard_time": 1771974435,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107371,
       "num": 107371,
       "word": "张元英ins更新",
@@ -233,22 +297,6 @@
       "onboard_time": 1771945522,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105079,
-      "num": 105079,
-      "word": "不内耗的人脑子里是这样想的",
-      "onboard_time": 1771945642,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 100629,
-      "num": 66409,
-      "word": "西安一市民除夕夜被AI给骂了",
-      "onboard_time": 1771946422,
-      "rank": 36,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 96346,
@@ -275,12 +323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91342,
+      "num": 83478,
+      "word": "iPhone18Pro深红色",
+      "onboard_time": 1771974435,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 90000,
       "num": 90000,
       "word": "穆祉丞发的是什么",
       "onboard_time": 1771939104,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88331,
+      "num": 88331,
+      "word": "瑶一瑶小肉包近30天掉粉4万",
+      "onboard_time": 1771934183,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 84855,
@@ -291,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84824,
-      "num": 84824,
-      "word": "瑶一瑶小肉包近30天掉粉4万",
-      "onboard_time": 1771934183,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 84716,
       "num": 84716,
       "word": "陈飞宇演技",
@@ -307,12 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83872,
-      "num": 83872,
-      "word": "中方回应特朗普3月31日将访问中国",
-      "onboard_time": 1771941143,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 81959,
+      "num": 81959,
+      "word": "春晚同款扫地机在全国卖爆了",
+      "onboard_time": 1771974017,
+      "rank": 49,
+      "category": "综艺,数码"
     },
     {
       "raw_hot": 81032,
@@ -336,6 +392,22 @@
       "word": "白鹿宋雨琦背后抱",
       "onboard_time": 1771928301,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73440,
+      "num": 73440,
+      "word": "飞驰人生3彩蛋藏太深",
+      "onboard_time": 1771974618,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 71295,
+      "num": 71295,
+      "word": "于正分享3个月瘦30斤秘诀",
+      "onboard_time": 1771936223,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -371,6 +443,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66389,
+      "num": 66389,
+      "word": "腾讯关闭工作室曾计划制作3A游戏",
+      "onboard_time": 1771974977,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 64855,
+      "num": 73245,
+      "word": "掉在床缝里的物品有救了",
+      "onboard_time": 1771975037,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 64093,
+      "num": 64093,
+      "word": "丁程鑫一个人直播吃蛋糕",
+      "onboard_time": 1771975577,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63390,
       "num": 63390,
       "word": "男子误喝过期牛奶暴瘦53斤",
@@ -403,12 +499,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 57449,
+      "num": 57449,
+      "word": "日本旅游团齐声高唱声援以色列",
+      "onboard_time": 1771941862,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 57045,
       "num": 67320,
       "word": "彻底击碎日本军国梦",
       "onboard_time": 1771949242,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54658,
+      "num": 54658,
+      "word": "平顶山打人夫妻被批捕",
+      "onboard_time": 1771976239,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 52159,
+      "num": 52159,
+      "word": "独来独往的女人没有一个是孬种",
+      "onboard_time": 1771936521,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 51375,
@@ -451,8 +571,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 35789,
-      "num": 33546,
+      "raw_hot": 37489,
+      "num": 37489,
       "word": "江湖夜雨十年灯",
       "onboard_time": 1771951158,
       "rank": 30,
@@ -465,14 +585,6 @@
       "onboard_time": 1771936881,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34657,
-      "num": 34657,
-      "word": "独来独往的女人没有一个是孬种",
-      "onboard_time": 1771936521,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 28498,
@@ -515,6 +627,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 20726,
+      "num": 536924,
+      "word": "九组数据感受万马奔腾的活力春节",
+      "onboard_time": 1771938261,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20034,
       "num": 29664,
       "word": "好标准的大熊猫长相",
@@ -547,14 +667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17597,
-      "num": 474967,
-      "word": "九组数据感受万马奔腾的活力春节",
-      "onboard_time": 1771938261,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17385,
       "num": 18509,
       "word": "纯真年代 好嗑",
@@ -577,14 +689,6 @@
       "onboard_time": 1771941563,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15946,
-      "num": 24714,
-      "word": "春晚同款扫地机在全国卖爆了",
-      "onboard_time": 1771974017,
-      "rank": 49,
-      "category": "综艺,数码"
     },
     {
       "raw_hot": 15085,

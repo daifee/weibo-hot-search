@@ -1,0 +1,410 @@
+{
+  "runTime": 1771976485307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 487193,
+        "num": 918228,
+        "word": "平顶山再通报打人事件",
+        "onboard_time": 1771975037,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 333587,
+        "num": 655122,
+        "word": "惊蛰无声",
+        "onboard_time": 1771953676,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20726,
+        "num": 536924,
+        "word": "九组数据感受万马奔腾的活力春节",
+        "onboard_time": 1771938261,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241732,
+        "num": 241732,
+        "word": "当地回应女生徒步失联在牛棚被找到",
+        "onboard_time": 1771967953,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183151,
+        "num": 183151,
+        "word": "王楚钦鹰眼挑战失败",
+        "onboard_time": 1771946123,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168194,
+        "num": 168194,
+        "word": "牛奶灌溉草莓卖出360元天价",
+        "onboard_time": 1771947381,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150345,
+        "num": 150345,
+        "word": "谷爱凌妈妈谷燕的人生轨迹",
+        "onboard_time": 1771945701,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150175,
+        "num": 150175,
+        "word": "不内耗的人脑子里是这样想的",
+        "onboard_time": 1771945642,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144203,
+        "num": 144203,
+        "word": "将门独后",
+        "onboard_time": 1771947201,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129180,
+        "num": 129180,
+        "word": "中方回应特朗普3月31日将访问中国",
+        "onboard_time": 1771941143,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 601529,
+        "num": 128985,
+        "word": "官方回应继父搂腰亲吻女童",
+        "onboard_time": 1771974435,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320744,
+        "num": 128475,
+        "word": "吴昕自曝录制快本三四个月还是想走",
+        "onboard_time": 1771941264,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310578,
+        "num": 128107,
+        "word": "江西一家人自驾返程出车祸1死4伤",
+        "onboard_time": 1771944023,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227566,
+        "num": 127430,
+        "word": "肖战的鼻间痣好像小狐狸",
+        "onboard_time": 1771944382,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166749,
+        "num": 127095,
+        "word": "西安一市民除夕夜被AI给骂了",
+        "onboard_time": 1771946422,
+        "rank": 14,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 136775,
+        "num": 126506,
+        "word": "俄乌冲突",
+        "onboard_time": 1771933942,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126247,
+        "num": 126247,
+        "word": "不让江山作者取关剧组",
+        "onboard_time": 1771945162,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99895,
+        "num": 99895,
+        "word": "地球超新鲜2",
+        "onboard_time": 1771940663,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92798,
+        "num": 92798,
+        "word": "93岁老人去世将千万财产赠邻居",
+        "onboard_time": 1771934543,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88331,
+        "num": 88331,
+        "word": "瑶一瑶小肉包近30天掉粉4万",
+        "onboard_time": 1771934183,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 297407,
+        "num": 87796,
+        "word": "吴佳尼被认识3天的富二代求婚",
+        "onboard_time": 1771974737,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107384,
+        "num": 86404,
+        "word": "女儿照顾大小便失禁的妈妈整整三年",
+        "onboard_time": 1771944143,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117400,
+        "num": 85036,
+        "word": "王安宇多给内娱留几个霸总吧",
+        "onboard_time": 1771974435,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91342,
+        "num": 83478,
+        "word": "iPhone18Pro深红色",
+        "onboard_time": 1771974435,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82784,
+        "num": 82784,
+        "word": "刘强东宣布进军游艇行业",
+        "onboard_time": 1771936642,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 81959,
+        "num": 81959,
+        "word": "春晚同款扫地机在全国卖爆了",
+        "onboard_time": 1771974017,
+        "rank": 25,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 77615,
+        "num": 77615,
+        "word": "剑来 魔改",
+        "onboard_time": 1771942824,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73451,
+        "num": 73451,
+        "word": "Prada出发图",
+        "onboard_time": 1771938682,
+        "rank": 27,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 73440,
+        "num": 73440,
+        "word": "飞驰人生3彩蛋藏太深",
+        "onboard_time": 1771974618,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64855,
+        "num": 73245,
+        "word": "掉在床缝里的物品有救了",
+        "onboard_time": 1771975037,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 171135,
+        "num": 73245,
+        "word": "被继父亲吻女童已被生父接回",
+        "onboard_time": 1771975517,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73245,
+        "num": 73244,
+        "word": "开工第一天被通知放假10天",
+        "onboard_time": 1771932083,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71295,
+        "num": 71295,
+        "word": "于正分享3个月瘦30斤秘诀",
+        "onboard_time": 1771936223,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66389,
+        "num": 66389,
+        "word": "腾讯关闭工作室曾计划制作3A游戏",
+        "onboard_time": 1771974977,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64093,
+        "num": 64093,
+        "word": "丁程鑫一个人直播吃蛋糕",
+        "onboard_time": 1771975577,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57944,
+        "num": 57944,
+        "word": "杨洋的不让江山妆造",
+        "onboard_time": 1771941804,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57449,
+        "num": 57449,
+        "word": "日本旅游团齐声高唱声援以色列",
+        "onboard_time": 1771941862,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54987,
+        "num": 54987,
+        "word": "被炸身亡男子从哪里买的烟花",
+        "onboard_time": 1771940062,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54658,
+        "num": 54658,
+        "word": "平顶山打人夫妻被批捕",
+        "onboard_time": 1771976239,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 52159,
+        "num": 52159,
+        "word": "独来独往的女人没有一个是孬种",
+        "onboard_time": 1771936521,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50155,
+        "num": 50155,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1771935201,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48614,
+        "num": 48614,
+        "word": "经常熬夜是在挑战甲状腺极限",
+        "onboard_time": 1771944443,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44404,
+        "num": 44404,
+        "word": "韩国新冠疫苗被爆含真菌毛发",
+        "onboard_time": 1771947681,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42878,
+        "num": 42878,
+        "word": "彻底击碎日本军国梦",
+        "onboard_time": 1771949242,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42559,
+        "num": 42559,
+        "word": "纯真年代的爱情 男二女二戏份",
+        "onboard_time": 1771938261,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42250,
+        "num": 42250,
+        "word": "正月剃头死舅舅的真相来了",
+        "onboard_time": 1771919601,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40886,
+        "num": 40886,
+        "word": "谷爱凌U槽卫冕英媒质疑打分",
+        "onboard_time": 1771941023,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40381,
+        "num": 40381,
+        "word": "杨幂演历史剧",
+        "onboard_time": 1771946662,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39489,
+        "num": 39489,
+        "word": "金价波动",
+        "onboard_time": 1771933942,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37489,
+        "num": 37489,
+        "word": "江湖夜雨十年灯",
+        "onboard_time": 1771951158,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#树立和践行正确政绩观#"
+    }
+  }
+}
