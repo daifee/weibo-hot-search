@@ -1,6 +1,6 @@
 {
   "startTime": 1771863172983,
-  "endTime": 1771913229369,
+  "endTime": 1771915039379,
   "band_list": [
     {
       "raw_hot": 1603433,
@@ -32,6 +32,14 @@
       "word": "刘耀文",
       "onboard_time": 1771864818,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1026291,
+      "num": 165875,
+      "word": "李现和杨紫父母穿同款外套",
+      "onboard_time": 1771913119,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -235,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350325,
+      "num": 234610,
+      "word": "妈妈回应瑶一瑶表演时不开心",
+      "onboard_time": 1771912162,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 317574,
       "num": 317574,
       "word": "原来全麻手术不是睡着了",
@@ -281,6 +297,14 @@
       "onboard_time": 1771906460,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296413,
+      "num": 296413,
+      "word": "金所泫宋江二搭",
+      "onboard_time": 1771912520,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 287192,
@@ -347,14 +371,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 252151,
-      "num": 252151,
-      "word": "金所泫宋江二搭",
-      "onboard_time": 1771912520,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248816,
       "num": 248816,
       "word": "丁程鑫严浩翔比24",
@@ -369,14 +385,6 @@
       "onboard_time": 1771907241,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 234610,
-      "num": 234610,
-      "word": "妈妈回应瑶一瑶表演时不开心",
-      "onboard_time": 1771912162,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 233205,
@@ -417,6 +425,14 @@
       "onboard_time": 1771909100,
       "rank": 30,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 200263,
+      "num": 200263,
+      "word": "张元英solo成绩",
+      "onboard_time": 1771913300,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 195541,
@@ -595,6 +611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 148816,
+      "num": 146008,
+      "word": "一栗小莎子第三次化疗",
+      "onboard_time": 1771914501,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 144997,
       "num": 144997,
       "word": "杨洋方安抚粉丝",
@@ -643,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142140,
+      "num": 142140,
+      "word": "边伯贤 SM",
+      "onboard_time": 1771913242,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140477,
       "num": 140477,
       "word": "孙千这段早播二十年能救不少人",
@@ -657,6 +689,22 @@
       "onboard_time": 1771893020,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135225,
+      "num": 135225,
+      "word": "特朗普称不知道还能活多久",
+      "onboard_time": 1771912399,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 134816,
+      "num": 134816,
+      "word": "卢昱晓回复外婆去世的粉丝",
+      "onboard_time": 1771914741,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 130842,
@@ -707,12 +755,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127557,
-      "num": 127557,
-      "word": "李现和杨紫父母穿同款外套",
-      "onboard_time": 1771913119,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 127702,
+      "num": 127702,
+      "word": "迅猛龙考研估分190考出来223",
+      "onboard_time": 1771913781,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 125793,
@@ -731,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124501,
+      "num": 135939,
+      "word": "墨西哥特种部队与毒枭火拼",
+      "onboard_time": 1771912882,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123627,
       "num": 123627,
       "word": "导航看了都沉默三秒",
@@ -745,6 +801,14 @@
       "onboard_time": 1771898539,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121596,
+      "num": 121596,
+      "word": "吵了一年要辞职 初八文案是开工大吉",
+      "onboard_time": 1771913720,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 121016,
@@ -785,14 +849,6 @@
       "onboard_time": 1771902261,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 118665,
-      "num": 118665,
-      "word": "特朗普称不知道还能活多久",
-      "onboard_time": 1771912399,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 117601,
@@ -947,20 +1003,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 103053,
-      "num": 128252,
-      "word": "墨西哥特种部队与毒枭火拼",
-      "onboard_time": 1771912882,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 102847,
       "num": 102847,
       "word": "墨西哥贩毒集团报复已致73死",
       "onboard_time": 1771905501,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101508,
+      "num": 101508,
+      "word": "王濛再回都灵感慨哽咽",
+      "onboard_time": 1771910301,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 101145,
@@ -993,14 +1049,6 @@
       "onboard_time": 1771846221,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100210,
-      "num": 100210,
-      "word": "王濛再回都灵感慨哽咽",
-      "onboard_time": 1771910301,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 99714,
@@ -1147,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88155,
+      "num": 88155,
+      "word": "LPL第一赛段最佳阵容",
+      "onboard_time": 1771914321,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86892,
       "num": 86892,
       "word": "为了一道菜喂猪吃了一年的人参",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1771855522,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83560,
+      "num": 83560,
+      "word": "开了个公众号和父母进行魔法对轰",
+      "onboard_time": 1771914501,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 83070,
@@ -1196,7 +1260,7 @@
     },
     {
       "raw_hot": 80155,
-      "num": 80155,
+      "num": 98978,
       "word": "开工第一件事调整工位风水",
       "onboard_time": 1771912101,
       "rank": 47,
@@ -1233,6 +1297,14 @@
       "onboard_time": 1771854024,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 70782,
+      "num": 101598,
+      "word": "第一次见这么老练的滚床主理人",
+      "onboard_time": 1771914381,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69554,
@@ -1363,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52929,
+      "num": 101713,
+      "word": "志胜跟大哥十指紧扣",
+      "onboard_time": 1771914801,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52452,
       "num": 65803,
       "word": "丞磊王楚然共创回忆录",
@@ -1451,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41876,
+      "num": 212376,
+      "word": "长和反对巴拿马政府强行接管",
+      "onboard_time": 1771914741,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41252,
       "num": 180677,
       "word": "12306回应半夜候补成功无法退款",
@@ -1492,7 +1580,7 @@
     },
     {
       "raw_hot": 29160,
-      "num": 635586,
+      "num": 650331,
       "word": "米兰冬奥超越胜负的动人瞬间",
       "onboard_time": 1771909821,
       "rank": 2,
@@ -1521,6 +1609,14 @@
       "onboard_time": 1771900941,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24949,
+      "num": 165908,
+      "word": "深圳一企业开工给员工发百元利是",
+      "onboard_time": 1771914321,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24322,
@@ -1601,6 +1697,14 @@
       "onboard_time": 1771870395,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 9029,
+      "num": 140913,
+      "word": "航司给熟人留座公务舱头等舱被锁",
+      "onboard_time": 1771914861,
+      "rank": 27,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
