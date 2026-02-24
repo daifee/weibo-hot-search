@@ -1,6 +1,6 @@
 {
   "startTime": 1771863172983,
-  "endTime": 1771928127943,
+  "endTime": 1771931013555,
   "band_list": [
     {
       "raw_hot": 1603433,
@@ -129,6 +129,14 @@
       "onboard_time": 1771902859,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 671850,
+      "num": 186085,
+      "word": "11岁男童在服务区被车撞击后身亡",
+      "onboard_time": 1771927040,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 658350,
@@ -379,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 342290,
+      "num": 342290,
+      "word": "草莓360元一斤公司参保人数为0",
+      "onboard_time": 1771927222,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317574,
       "num": 317574,
       "word": "原来全麻手术不是睡着了",
@@ -433,14 +449,6 @@
       "onboard_time": 1771906460,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299644,
-      "num": 186085,
-      "word": "11岁男童在服务区被车撞击后身亡",
-      "onboard_time": 1771927040,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 296413,
@@ -651,6 +659,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201689,
+      "num": 120907,
+      "word": "白鹿宋雨琦背后抱",
+      "onboard_time": 1771928301,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201644,
+      "num": 201644,
+      "word": "微信新功能面对面传照片",
+      "onboard_time": 1771926081,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 200562,
       "num": 148619,
       "word": "新娘爸爸婚礼现场退还18.8万彩礼",
@@ -664,6 +688,14 @@
       "word": "张元英solo成绩",
       "onboard_time": 1771913300,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198774,
+      "num": 140682,
+      "word": "张杰谢娜一起滑雪",
+      "onboard_time": 1771926741,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -859,6 +891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 155868,
+      "num": 155868,
+      "word": "多款相机价格暴涨近10倍",
+      "onboard_time": 1771929503,
+      "rank": 13,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 153776,
       "num": 153776,
       "word": "江苏卫视春晚小品 大为震撼",
@@ -872,6 +912,14 @@
       "word": "白鹿首尔回国",
       "onboard_time": 1771918224,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153298,
+      "num": 115215,
+      "word": "陈红点赞陈飞宇粉丝",
+      "onboard_time": 1771928962,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -979,14 +1027,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 140682,
-      "num": 140682,
-      "word": "张杰谢娜一起滑雪",
-      "onboard_time": 1771926741,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140477,
       "num": 140477,
       "word": "孙千这段早播二十年能救不少人",
@@ -995,12 +1035,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137320,
-      "num": 151583,
-      "word": "草莓360元一斤公司参保人数为0",
-      "onboard_time": 1771927222,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 136731,
+      "num": 136731,
+      "word": "JDG战胜TES",
+      "onboard_time": 1771930282,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 136607,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1771898601,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130357,
+      "num": 130357,
+      "word": "小米起诉自媒体获赔500万",
+      "onboard_time": 1771928301,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 129904,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1771920501,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125916,
+      "num": 113022,
+      "word": "史上最高分小品少爷和我",
+      "onboard_time": 1771930520,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125793,
@@ -1177,14 +1233,6 @@
       "onboard_time": 1771908023,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119404,
-      "num": 119404,
-      "word": "微信新功能面对面传照片",
-      "onboard_time": 1771926081,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 119284,
@@ -1419,6 +1467,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103146,
+      "num": 103146,
+      "word": "雷军开工红包10到100元不等",
+      "onboard_time": 1771929320,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 103024,
+      "num": 103024,
+      "word": "不让江山",
+      "onboard_time": 1771922481,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102847,
       "num": 102847,
       "word": "墨西哥贩毒集团报复已致73死",
@@ -1427,12 +1491,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102598,
+      "num": 102598,
+      "word": "今年法定节假日较去年多5天",
+      "onboard_time": 1771929560,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102452,
       "num": 102452,
       "word": "谷爱凌金色蝴蝶结来历曝光",
       "onboard_time": 1771919842,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101826,
+      "num": 101826,
+      "word": "飞驰人生原型",
+      "onboard_time": 1771927822,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 101508,
@@ -1579,6 +1659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92127,
+      "num": 122351,
+      "word": "12306候补半夜成功车票作废谁担责",
+      "onboard_time": 1771929741,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92017,
       "num": 88583,
       "word": "高速",
@@ -1651,14 +1739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89185,
-      "num": 89185,
-      "word": "飞驰人生原型",
-      "onboard_time": 1771927822,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 89051,
       "num": 89051,
       "word": "从中医角度谈月经推迟",
@@ -1705,6 +1785,22 @@
       "onboard_time": 1771920262,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 87570,
+      "num": 102605,
+      "word": "墨西哥毒枭残忍罪行被曝光",
+      "onboard_time": 1771930642,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87508,
+      "num": 87508,
+      "word": "一个烟花烧掉80万",
+      "onboard_time": 1771930520,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86892,
@@ -1857,6 +1953,14 @@
       "onboard_time": 1771902621,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66819,
+      "num": 102639,
+      "word": "泽连斯基地堡曝光",
+      "onboard_time": 1771929861,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65946,
@@ -2123,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40278,
+      "num": 171207,
+      "word": "中美就特朗普访华事宜保持着沟通",
+      "onboard_time": 1771930040,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37551,
       "num": 136207,
       "word": "女子春节返程遇高铁超载被迫下车",
@@ -2137,6 +2249,14 @@
       "onboard_time": 1771923262,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36443,
+      "num": 102719,
+      "word": "百妖谱女主",
+      "onboard_time": 1771930161,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 35935,
@@ -2323,6 +2443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12276,
+      "num": 723241,
+      "word": "2026春节消费马力全开",
+      "onboard_time": 1771923560,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10588,
       "num": 17061,
       "word": "鸿蒙智行问界M6银色实车现身",
@@ -2336,14 +2464,6 @@
       "word": "航司给熟人留座公务舱头等舱被锁",
       "onboard_time": 1771914861,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5842,
-      "num": 723241,
-      "word": "2026春节消费马力全开",
-      "onboard_time": 1771923560,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771928127943,
+  "endTime": 1771931013555,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -433,6 +433,14 @@
       "onboard_time": 1771805419,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 671850,
+      "num": 186085,
+      "word": "11岁男童在服务区被车撞击后身亡",
+      "onboard_time": 1771927040,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 665729,
@@ -1299,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342290,
+      "num": 342290,
+      "word": "草莓360元一斤公司参保人数为0",
+      "onboard_time": 1771927222,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341100,
       "num": 226655,
       "word": "徐明浩韩语说出中国春节",
@@ -1497,14 +1513,6 @@
       "onboard_time": 1771906460,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299644,
-      "num": 186085,
-      "word": "11岁男童在服务区被车撞击后身亡",
-      "onboard_time": 1771927040,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297763,
@@ -2339,6 +2347,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201689,
+      "num": 120907,
+      "word": "白鹿宋雨琦背后抱",
+      "onboard_time": 1771928301,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201644,
+      "num": 201644,
+      "word": "微信新功能面对面传照片",
+      "onboard_time": 1771926081,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 200670,
       "num": 200670,
       "word": "高速堵车小孩举看到的都发财牌子",
@@ -2384,6 +2408,14 @@
       "word": "陈妍希杨丞琳李荣浩潘玮柏过年聚会",
       "onboard_time": 1771827979,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198774,
+      "num": 140682,
+      "word": "张杰谢娜一起滑雪",
+      "onboard_time": 1771926741,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -3059,6 +3091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155868,
+      "num": 155868,
+      "word": "多款相机价格暴涨近10倍",
+      "onboard_time": 1771929503,
+      "rank": 13,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 154288,
       "num": 154288,
       "word": "刘少昂直播",
@@ -3104,6 +3144,14 @@
       "word": "杨洋回应骨折",
       "onboard_time": 1771739240,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153298,
+      "num": 115215,
+      "word": "陈红点赞陈飞宇粉丝",
+      "onboard_time": 1771928962,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -3419,14 +3467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140682,
-      "num": 140682,
-      "word": "张杰谢娜一起滑雪",
-      "onboard_time": 1771926741,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140477,
       "num": 140477,
       "word": "孙千这段早播二十年能救不少人",
@@ -3467,14 +3507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137320,
-      "num": 151583,
-      "word": "草莓360元一斤公司参保人数为0",
-      "onboard_time": 1771927222,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137285,
       "num": 137285,
       "word": "中方就美国关税动向正式表态",
@@ -3505,6 +3537,14 @@
       "onboard_time": 1771765041,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136731,
+      "num": 136731,
+      "word": "JDG战胜TES",
+      "onboard_time": 1771930282,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 136607,
@@ -3691,6 +3731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130357,
+      "num": 130357,
+      "word": "小米起诉自媒体获赔500万",
+      "onboard_time": 1771928301,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 129756,
       "num": 129756,
       "word": "林心如舒淇林熙蕾三家过年聚会",
@@ -3777,6 +3825,14 @@
       "onboard_time": 1771920501,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125916,
+      "num": 113022,
+      "word": "史上最高分小品少爷和我",
+      "onboard_time": 1771930520,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125793,
@@ -3993,14 +4049,6 @@
       "onboard_time": 1771908023,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119404,
-      "num": 119404,
-      "word": "微信新功能面对面传照片",
-      "onboard_time": 1771926081,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 119337,
@@ -4675,6 +4723,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103146,
+      "num": 103146,
+      "word": "雷军开工红包10到100元不等",
+      "onboard_time": 1771929320,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 103024,
+      "num": 103024,
+      "word": "不让江山",
+      "onboard_time": 1771772844,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102847,
       "num": 102847,
       "word": "墨西哥贩毒集团报复已致73死",
@@ -4688,6 +4752,14 @@
       "word": "第一批返深大军已堵哭",
       "onboard_time": 1771765641,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102598,
+      "num": 102598,
+      "word": "今年法定节假日较去年多5天",
+      "onboard_time": 1771929560,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -4720,6 +4792,14 @@
       "word": "星河入梦主创哽咽求排片",
       "onboard_time": 1771742120,
       "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 101826,
+      "num": 101826,
+      "word": "飞驰人生原型",
+      "onboard_time": 1771927822,
+      "rank": 45,
       "category": "电影"
     },
     {
@@ -5131,19 +5211,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 92370,
-      "num": 92370,
-      "word": "不让江山",
-      "onboard_time": 1771772844,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92197,
       "num": 92197,
       "word": "熊猫紧抱游客手机不让饲养员取回",
       "onboard_time": 1771830080,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92127,
+      "num": 122351,
+      "word": "12306候补半夜成功车票作废谁担责",
+      "onboard_time": 1771929741,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -5331,14 +5411,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 89185,
-      "num": 89185,
-      "word": "飞驰人生原型",
-      "onboard_time": 1771927822,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 89051,
       "num": 89051,
       "word": "从中医角度谈月经推迟",
@@ -5433,6 +5505,22 @@
       "onboard_time": 1771920262,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 87570,
+      "num": 102605,
+      "word": "墨西哥毒枭残忍罪行被曝光",
+      "onboard_time": 1771930642,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87508,
+      "num": 87508,
+      "word": "一个烟花烧掉80万",
+      "onboard_time": 1771930520,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87336,
@@ -6371,6 +6459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66819,
+      "num": 102639,
+      "word": "泽连斯基地堡曝光",
+      "onboard_time": 1771929861,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66784,
       "num": 66784,
       "word": "星河入梦导演回应排片低问题",
@@ -7179,6 +7275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40278,
+      "num": 171207,
+      "word": "中美就特朗普访华事宜保持着沟通",
+      "onboard_time": 1771930040,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40210,
       "num": 63539,
       "word": "泰72只老虎死亡所涉疾病不传播至人类",
@@ -7273,6 +7377,14 @@
       "onboard_time": 1771923262,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36443,
+      "num": 102719,
+      "word": "百妖谱女主",
+      "onboard_time": 1771930161,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 36374,
@@ -7899,6 +8011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12276,
+      "num": 723241,
+      "word": "2026春节消费马力全开",
+      "onboard_time": 1771923560,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12166,
       "num": 79801,
       "word": "女儿给妈妈的红包被偷偷放回行李包",
@@ -7951,14 +8071,6 @@
       "num": 636091,
       "word": "非遗版春节追年地图",
       "onboard_time": 1771833981,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5842,
-      "num": 723241,
-      "word": "2026春节消费马力全开",
-      "onboard_time": 1771923560,
       "rank": 2,
       "category": "民生新闻"
     }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1771931013555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 571930,
+        "num": 1091508,
+        "word": "小车23点59分59秒下高速收费员狂喜",
+        "onboard_time": 1771924221,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388247,
+        "num": 793935,
+        "word": "正月剃头死舅舅的真相来了",
+        "onboard_time": 1771919601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12276,
+        "num": 614776,
+        "word": "2026春节消费马力全开",
+        "onboard_time": 1771923560,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352111,
+        "num": 352111,
+        "word": "周大福一条金手链将涨18000元",
+        "onboard_time": 1771925062,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 342290,
+        "num": 342290,
+        "word": "草莓360元一斤公司参保人数为0",
+        "onboard_time": 1771927222,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272793,
+        "num": 272793,
+        "word": "王楚然丞磊 京洛再无佳人",
+        "onboard_time": 1771923501,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242370,
+        "num": 242370,
+        "word": "男子误喝过期牛奶暴瘦53斤",
+        "onboard_time": 1771919301,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27797,
+        "num": 217666,
+        "word": "广东高质量发展大会",
+        "onboard_time": 1771923801,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201644,
+        "num": 201644,
+        "word": "微信新功能面对面传照片",
+        "onboard_time": 1771926081,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 40278,
+        "num": 171207,
+        "word": "中美就特朗普访华事宜保持着沟通",
+        "onboard_time": 1771930040,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 671850,
+        "num": 168944,
+        "word": "11岁男童在服务区被车撞击后身亡",
+        "onboard_time": 1771927040,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162971,
+        "num": 162971,
+        "word": "考研查分能不能给个确切的时间",
+        "onboard_time": 1771922422,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156472,
+        "num": 156472,
+        "word": "新年BBA车价大降",
+        "onboard_time": 1771921580,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155868,
+        "num": 155868,
+        "word": "多款相机价格暴涨近10倍",
+        "onboard_time": 1771929503,
+        "rank": 13,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 153279,
+        "num": 153279,
+        "word": "衣服的成本价在水洗标上",
+        "onboard_time": 1771920560,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145211,
+        "num": 145211,
+        "word": "考研出分时间",
+        "onboard_time": 1771888937,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136731,
+        "num": 136731,
+        "word": "JDG战胜TES",
+        "onboard_time": 1771930282,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33966,
+        "num": 136288,
+        "word": "东风日产开年王炸四连发",
+        "onboard_time": 1771927400,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 135921,
+        "num": 135921,
+        "word": "镖人 删减",
+        "onboard_time": 1771925963,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130357,
+        "num": 130357,
+        "word": "小米起诉自媒体获赔500万",
+        "onboard_time": 1771928301,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 257312,
+        "num": 129170,
+        "word": "吴昕谈在快本时人气低",
+        "onboard_time": 1771924581,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211716,
+        "num": 127309,
+        "word": "任敏 比例",
+        "onboard_time": 1771918101,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170282,
+        "num": 124990,
+        "word": "新娘爸爸婚礼现场退还18.8万彩礼",
+        "onboard_time": 1771924942,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92127,
+        "num": 122351,
+        "word": "12306候补半夜成功车票作废谁担责",
+        "onboard_time": 1771929741,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121950,
+        "num": 121950,
+        "word": "黄金再迎直线跳水",
+        "onboard_time": 1771919541,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201689,
+        "num": 120907,
+        "word": "白鹿宋雨琦背后抱",
+        "onboard_time": 1771928301,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198774,
+        "num": 119748,
+        "word": "张杰谢娜一起滑雪",
+        "onboard_time": 1771926741,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164040,
+        "num": 118451,
+        "word": "突然理解了爱坐公交车的人",
+        "onboard_time": 1771926320,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158294,
+        "num": 116517,
+        "word": "沈腾马丽这种鞋也要穿同款吗",
+        "onboard_time": 1771921881,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153298,
+        "num": 115215,
+        "word": "陈红点赞陈飞宇粉丝",
+        "onboard_time": 1771928962,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114932,
+        "num": 114932,
+        "word": "建议父母停止对孩子的灾难化想象",
+        "onboard_time": 1771924400,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 129340,
+        "num": 113285,
+        "word": "李现和杨紫父母穿同款外套",
+        "onboard_time": 1771913119,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125916,
+        "num": 113022,
+        "word": "史上最高分小品少爷和我",
+        "onboard_time": 1771930520,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108430,
+        "num": 108430,
+        "word": "36斤活羊烤完6.9斤涉事餐馆已无顾客",
+        "onboard_time": 1771917080,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112348,
+        "num": 106826,
+        "word": "张婧仪王楚然 通天路你们走不走",
+        "onboard_time": 1771920802,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103146,
+        "num": 103146,
+        "word": "雷军开工红包10到100元不等",
+        "onboard_time": 1771929320,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103024,
+        "num": 103024,
+        "word": "不让江山",
+        "onboard_time": 1771922481,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36443,
+        "num": 102719,
+        "word": "百妖谱女主",
+        "onboard_time": 1771930161,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66819,
+        "num": 102639,
+        "word": "泽连斯基地堡曝光",
+        "onboard_time": 1771929861,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87570,
+        "num": 102605,
+        "word": "墨西哥毒枭残忍罪行被曝光",
+        "onboard_time": 1771930642,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102598,
+        "num": 102598,
+        "word": "今年法定节假日较去年多5天",
+        "onboard_time": 1771929560,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101826,
+        "num": 101826,
+        "word": "飞驰人生原型",
+        "onboard_time": 1771927822,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100754,
+        "num": 100754,
+        "word": "湖南湘阴一男子放烟花时炸膛致身亡",
+        "onboard_time": 1771915641,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97719,
+        "num": 97719,
+        "word": "葡萄330草莓360元一斤网友惊呆",
+        "onboard_time": 1771917920,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91259,
+        "num": 91259,
+        "word": "日本",
+        "onboard_time": 1771902859,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90019,
+        "num": 90019,
+        "word": "李泰民中断合约",
+        "onboard_time": 1771927222,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88902,
+        "num": 88902,
+        "word": "灌溉360元草莓用800斤牛奶",
+        "onboard_time": 1771926981,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87508,
+        "num": 87508,
+        "word": "一个烟花烧掉80万",
+        "onboard_time": 1771930520,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85766,
+        "num": 85766,
+        "word": "孟子义将门独后紫衣造型",
+        "onboard_time": 1771917920,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82543,
+        "num": 82543,
+        "word": "汪涵11岁儿子在咖啡店当义工",
+        "onboard_time": 1771922242,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步步奔向心中的伟大梦想#"
+    }
+  }
+}
