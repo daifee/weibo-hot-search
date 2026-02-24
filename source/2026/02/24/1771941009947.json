@@ -1,0 +1,410 @@
+{
+  "runTime": 1771941009947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 451272,
+        "num": 1072203,
+        "word": "多款相机价格暴涨近10倍",
+        "onboard_time": 1771929503,
+        "rank": 0,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 291738,
+        "num": 772017,
+        "word": "正月剃头死舅舅的真相来了",
+        "onboard_time": 1771919601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27468,
+        "num": 636241,
+        "word": "2026年新春走基层",
+        "onboard_time": 1771939461,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806434,
+        "num": 540702,
+        "word": "Prada出发图",
+        "onboard_time": 1771938682,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 219453,
+        "num": 219453,
+        "word": "男子误喝过期牛奶暴瘦53斤",
+        "onboard_time": 1771919301,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206384,
+        "num": 206384,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1771935201,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182352,
+        "num": 182352,
+        "word": "小车23点59分59秒下高速收费员狂喜",
+        "onboard_time": 1771924221,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154431,
+        "num": 182193,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1771934842,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148516,
+        "num": 182010,
+        "word": "开工第一天被通知放假10天",
+        "onboard_time": 1771932083,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143995,
+        "num": 181812,
+        "word": "王楚然丞磊 京洛再无佳人",
+        "onboard_time": 1771923501,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429751,
+        "num": 181699,
+        "word": "刘强东宣布进军游艇行业",
+        "onboard_time": 1771936642,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 310813,
+        "num": 181383,
+        "word": "苏翊鸣居然演过韩庚爷爷",
+        "onboard_time": 1771935082,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 285284,
+        "num": 181305,
+        "word": "93岁老人去世将千万财产赠邻居",
+        "onboard_time": 1771934543,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279273,
+        "num": 181086,
+        "word": "丁程鑫直播",
+        "onboard_time": 1771934901,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265265,
+        "num": 180702,
+        "word": "穆祉丞发的是什么",
+        "onboard_time": 1771939104,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247300,
+        "num": 180581,
+        "word": "俄乌冲突",
+        "onboard_time": 1771933942,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193715,
+        "num": 180414,
+        "word": "独来独往的女人没有一个是孬种",
+        "onboard_time": 1771936521,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180260,
+        "num": 180260,
+        "word": "白鹿宋雨琦背后抱",
+        "onboard_time": 1771928301,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141058,
+        "num": 141058,
+        "word": "纯真年代的爱情 男二女二戏份",
+        "onboard_time": 1771938261,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41015,
+        "num": 126303,
+        "word": "中国为何此时对日本军工亮剑",
+        "onboard_time": 1771940303,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304575,
+        "num": 125688,
+        "word": "李嘉格男友晒照",
+        "onboard_time": 1771936881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154615,
+        "num": 125337,
+        "word": "史上最高分小品少爷和我",
+        "onboard_time": 1771930520,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124371,
+        "num": 124371,
+        "word": "墨西哥毒枭残忍罪行被曝光",
+        "onboard_time": 1771930642,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147686,
+        "num": 121956,
+        "word": "鞠婧祎跳了没有明天",
+        "onboard_time": 1771939942,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113804,
+        "num": 113804,
+        "word": "章子怡 游过海岸一百米",
+        "onboard_time": 1771938802,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113464,
+        "num": 113464,
+        "word": "今晚夜空有个大写D",
+        "onboard_time": 1771940841,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106029,
+        "num": 106029,
+        "word": "新娘爸爸婚礼现场退还18.8万彩礼",
+        "onboard_time": 1771924942,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104853,
+        "num": 104853,
+        "word": "湖南元宵阵容夯爆了",
+        "onboard_time": 1771939521,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104018,
+        "num": 104018,
+        "word": "MOMO好辣",
+        "onboard_time": 1771937004,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90076,
+        "num": 102401,
+        "word": "被炸身亡男子从哪里买的烟花",
+        "onboard_time": 1771940062,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104141,
+        "num": 102193,
+        "word": "AL战胜WE",
+        "onboard_time": 1771939882,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101496,
+        "num": 101496,
+        "word": "肖战说这电话是独家的拿起来就有",
+        "onboard_time": 1771933042,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101123,
+        "num": 101123,
+        "word": "瑶一瑶小肉包近30天掉粉4万",
+        "onboard_time": 1771934183,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 76211,
+        "num": 101088,
+        "word": "AL对战WE",
+        "onboard_time": 1771937961,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101065,
+        "num": 101065,
+        "word": "Melody道歉",
+        "onboard_time": 1771932501,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83320,
+        "num": 83320,
+        "word": "TF家族高会背景",
+        "onboard_time": 1771932203,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74665,
+        "num": 81692,
+        "word": "衣服的成本价在水洗标上",
+        "onboard_time": 1771920560,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81217,
+        "num": 81217,
+        "word": "地球超新鲜2",
+        "onboard_time": 1771940663,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78493,
+        "num": 78493,
+        "word": "万妮达过年胖了八斤多",
+        "onboard_time": 1771940303,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71255,
+        "num": 71255,
+        "word": "国投白银LOF自掏腰包补偿",
+        "onboard_time": 1771936223,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72174,
+        "num": 70980,
+        "word": "吴昕谈在快本时人气低",
+        "onboard_time": 1771924581,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69835,
+        "num": 69835,
+        "word": "程潇素颜皮肤状态",
+        "onboard_time": 1771935622,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69787,
+        "num": 69787,
+        "word": "KSG对战TTG",
+        "onboard_time": 1771938383,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66746,
+        "num": 66746,
+        "word": "不让江山",
+        "onboard_time": 1771922481,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66086,
+        "num": 66086,
+        "word": "镖人",
+        "onboard_time": 1771907959,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65639,
+        "num": 65639,
+        "word": "二手CCD价格暴涨",
+        "onboard_time": 1771931782,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65069,
+        "num": 65069,
+        "word": "全球芯片短缺致相机价格暴涨",
+        "onboard_time": 1771939104,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 64713,
+        "num": 64713,
+        "word": "国粤无双 宋亚轩",
+        "onboard_time": 1771933703,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59126,
+        "num": 59126,
+        "word": "家中30万现金被烧村民发声",
+        "onboard_time": 1771940962,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57240,
+        "num": 57240,
+        "word": "高速免费有司机超5秒付1384元",
+        "onboard_time": 1771940663,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#树立和践行正确政绩观#"
+    }
+  }
+}

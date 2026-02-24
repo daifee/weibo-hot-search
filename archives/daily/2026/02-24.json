@@ -1,6 +1,6 @@
 {
   "startTime": 1771863172983,
-  "endTime": 1771939359315,
+  "endTime": 1771941009947,
   "band_list": [
     {
       "raw_hot": 1603433,
@@ -89,6 +89,14 @@
       "onboard_time": 1771897580,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 806434,
+      "num": 540702,
+      "word": "Prada出发图",
+      "onboard_time": 1771938682,
+      "rank": 8,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 800985,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 447056,
-      "num": 136783,
+      "num": 181305,
       "word": "93岁老人去世将千万财产赠邻居",
       "onboard_time": 1771934543,
       "rank": 13,
@@ -355,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429751,
+      "num": 181699,
+      "word": "刘强东宣布进军游艇行业",
+      "onboard_time": 1771936642,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 427198,
       "num": 427198,
       "word": "研招网",
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 399068,
-      "num": 134437,
+      "num": 181383,
       "word": "苏翊鸣居然演过韩庚爷爷",
       "onboard_time": 1771935082,
       "rank": 14,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 327432,
-      "num": 133391,
+      "num": 180581,
       "word": "俄乌冲突",
       "onboard_time": 1771933942,
       "rank": 46,
@@ -491,20 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306818,
-      "num": 131379,
-      "word": "刘强东宣布进军游艇行业",
-      "onboard_time": 1771936642,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 305203,
       "num": 149928,
       "word": "突然理解了爱坐公交车的人",
       "onboard_time": 1771926320,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304575,
+      "num": 127455,
+      "word": "李嘉格男友晒照",
+      "onboard_time": 1771936881,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 304512,
@@ -545,14 +561,6 @@
       "onboard_time": 1771912520,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 295208,
-      "num": 127455,
-      "word": "李嘉格男友晒照",
-      "onboard_time": 1771936881,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 293919,
@@ -611,6 +619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 279273,
+      "num": 181086,
+      "word": "丁程鑫直播",
+      "onboard_time": 1771934901,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277494,
       "num": 235114,
       "word": "一栗小莎子第三次化疗",
@@ -641,6 +657,14 @@
       "onboard_time": 1771903462,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265265,
+      "num": 180702,
+      "word": "穆祉丞发的是什么",
+      "onboard_time": 1771939104,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 262860,
@@ -688,14 +712,6 @@
       "word": "丁程鑫严浩翔比24",
       "onboard_time": 1771907421,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 247497,
-      "num": 129453,
-      "word": "丁程鑫直播",
-      "onboard_time": 1771934901,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -804,11 +820,19 @@
     },
     {
       "raw_hot": 209859,
-      "num": 179643,
+      "num": 180260,
       "word": "白鹿宋雨琦背后抱",
       "onboard_time": 1771928301,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206384,
+      "num": 206384,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1771847602,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 201338,
@@ -844,7 +868,7 @@
     },
     {
       "raw_hot": 194737,
-      "num": 129113,
+      "num": 182010,
       "word": "开工第一天被通知放假10天",
       "onboard_time": 1771932083,
       "rank": 20,
@@ -857,6 +881,14 @@
       "onboard_time": 1771856362,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193715,
+      "num": 180414,
+      "word": "独来独往的女人没有一个是孬种",
+      "onboard_time": 1771936521,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 193380,
@@ -921,14 +953,6 @@
       "onboard_time": 1771931182,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182586,
-      "num": 182586,
-      "word": "纯真年代的爱情",
-      "onboard_time": 1771847602,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 181383,
@@ -1067,14 +1091,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 156332,
-      "num": 156332,
-      "word": "Prada出发图",
-      "onboard_time": 1771938682,
-      "rank": 8,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 153776,
       "num": 153776,
       "word": "江苏卫视春晚小品 大为震撼",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1771923981,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147686,
+      "num": 121956,
+      "word": "鞠婧祎跳了没有明天",
+      "onboard_time": 1771939942,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 144997,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1771913242,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141058,
+      "num": 141058,
+      "word": "纯真年代的爱情 男二女二戏份",
+      "onboard_time": 1771938261,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 140963,
@@ -1353,14 +1385,6 @@
       "onboard_time": 1771912340,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124735,
-      "num": 124735,
-      "word": "独来独往的女人没有一个是孬种",
-      "onboard_time": 1771936521,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 124501,
@@ -1547,6 +1571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113804,
+      "num": 113804,
+      "word": "章子怡 游过海岸一百米",
+      "onboard_time": 1771938802,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 113464,
+      "num": 113464,
+      "word": "今晚夜空有个大写D",
+      "onboard_time": 1771940841,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112743,
       "num": 96615,
       "word": "鞠婧祎珍珠腰链",
@@ -1619,14 +1659,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 108196,
-      "num": 100729,
-      "word": "纯真年代的爱情 男二女二戏份",
-      "onboard_time": 1771938261,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107251,
       "num": 107251,
       "word": "郭晓婷不是替身文学我不接",
@@ -1651,12 +1683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104853,
+      "num": 104853,
+      "word": "湖南元宵阵容夯爆了",
+      "onboard_time": 1771939521,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104757,
       "num": 94893,
       "word": "免费时段即将结束仍在高速怎么办",
       "onboard_time": 1771844301,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104141,
+      "num": 102193,
+      "word": "AL战胜WE",
+      "onboard_time": 1771939882,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 104014,
@@ -1843,14 +1891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 97536,
-      "num": 97536,
-      "word": "穆祉丞发的是什么",
-      "onboard_time": 1771939104,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97374,
       "num": 97374,
       "word": "这样做帮你瘦回节前体重",
@@ -1971,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90076,
+      "num": 102401,
+      "word": "被炸身亡男子从哪里买的烟花",
+      "onboard_time": 1771940062,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89394,
       "num": 89394,
       "word": "夜王豆瓣开分7.8",
@@ -2044,7 +2092,7 @@
     },
     {
       "raw_hot": 86911,
-      "num": 86911,
+      "num": 101088,
       "word": "AL对战WE",
       "onboard_time": 1771937961,
       "rank": 38,
@@ -2107,14 +2155,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 83389,
-      "num": 83389,
-      "word": "章子怡 游过海岸一百米",
-      "onboard_time": 1771938802,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 83070,
       "num": 128702,
       "word": "男子扶人反被讹行车记录仪证清白",
@@ -2163,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81217,
+      "num": 81217,
+      "word": "地球超新鲜2",
+      "onboard_time": 1771940663,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80257,
       "num": 80257,
       "word": "平顶山被打15岁女孩伤情鉴定",
@@ -2201,6 +2249,14 @@
       "onboard_time": 1771933162,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 78493,
+      "num": 78493,
+      "word": "万妮达过年胖了八斤多",
+      "onboard_time": 1771940303,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 77846,
@@ -2323,6 +2379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69787,
+      "num": 69787,
+      "word": "KSG对战TTG",
+      "onboard_time": 1771938383,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69554,
       "num": 69554,
       "word": "BLACKPINK新歌GOmv预告",
@@ -2427,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59126,
+      "num": 59126,
+      "word": "家中30万现金被烧村民发声",
+      "onboard_time": 1771940962,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58887,
       "num": 58887,
       "word": "韩雨彤回应拍古装做了美甲",
@@ -2449,6 +2521,14 @@
       "onboard_time": 1771866858,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57240,
+      "num": 57240,
+      "word": "高速免费有司机超5秒付1384元",
+      "onboard_time": 1771940663,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56903,
@@ -2619,6 +2699,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 41015,
+      "num": 126303,
+      "word": "中国为何此时对日本军工亮剑",
+      "onboard_time": 1771940303,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40520,
       "num": 101078,
       "word": "高速堵车女子花半小时举报违章车辆",
@@ -2727,6 +2815,14 @@
       "num": 686373,
       "word": "广东高质量发展大会",
       "onboard_time": 1771923801,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27468,
+      "num": 636241,
+      "word": "2026年新春走基层",
+      "onboard_time": 1771939461,
       "rank": 2,
       "category": "民生新闻"
     },
