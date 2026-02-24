@@ -1,0 +1,410 @@
+{
+  "runTime": 1771920466153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 608479,
+        "num": 1097356,
+        "word": "考研出分时间",
+        "onboard_time": 1771888937,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 547390,
+        "num": 809206,
+        "word": "葡萄330草莓360元一斤网友惊呆",
+        "onboard_time": 1771917920,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25791,
+        "num": 620602,
+        "word": "米兰冬奥超越胜负的动人瞬间",
+        "onboard_time": 1771909821,
+        "rank": 2,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 339768,
+        "num": 339768,
+        "word": "12306半夜候补成功1700元车票作废",
+        "onboard_time": 1771898961,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333630,
+        "num": 333630,
+        "word": "正月剃头死舅舅的真相来了",
+        "onboard_time": 1771919601,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598234,
+        "num": 331386,
+        "word": "开了个公众号和父母进行魔法对轰",
+        "onboard_time": 1771914501,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 324717,
+        "num": 324717,
+        "word": "男子误喝过期牛奶暴瘦53斤",
+        "onboard_time": 1771919301,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293919,
+        "num": 293919,
+        "word": "36斤活羊烤完6.9斤涉事餐馆已无顾客",
+        "onboard_time": 1771917080,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291331,
+        "num": 291331,
+        "word": "短国年代剧已经拍到了05年",
+        "onboard_time": 1771917320,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263567,
+        "num": 263567,
+        "word": "考研查分",
+        "onboard_time": 1771897880,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 686545,
+        "num": 260061,
+        "word": "任敏 比例",
+        "onboard_time": 1771918101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520271,
+        "num": 255194,
+        "word": "卢昱晓回复外婆去世的粉丝",
+        "onboard_time": 1771914741,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382596,
+        "num": 251603,
+        "word": "湖南湘阴一男子放烟花时炸膛致身亡",
+        "onboard_time": 1771915641,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367988,
+        "num": 247281,
+        "word": "沈腾个人总票房达400亿",
+        "onboard_time": 1771917500,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314709,
+        "num": 239704,
+        "word": "iPhone18 折叠",
+        "onboard_time": 1771904842,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 276663,
+        "num": 235114,
+        "word": "一栗小莎子第三次化疗",
+        "onboard_time": 1771914501,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 232678,
+        "num": 232678,
+        "word": "孟子义将门独后紫衣造型",
+        "onboard_time": 1771917920,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230519,
+        "num": 230519,
+        "word": "女生失联后用牛粪保温在牛棚被找到",
+        "onboard_time": 1771910061,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217446,
+        "num": 217446,
+        "word": "志胜跟大哥十指紧扣",
+        "onboard_time": 1771914801,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65946,
+        "num": 195955,
+        "word": "咖啡是打工人的吊瓶",
+        "onboard_time": 1771916900,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707807,
+        "num": 191797,
+        "word": "李现和杨紫父母穿同款外套",
+        "onboard_time": 1771913119,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178223,
+        "num": 178223,
+        "word": "灵隐寺惊现110万家厂商祈福",
+        "onboard_time": 1771900520,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178042,
+        "num": 178042,
+        "word": "开工第一天 请假",
+        "onboard_time": 1771907000,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159747,
+        "num": 159747,
+        "word": "小S二女儿参加伦敦时装周",
+        "onboard_time": 1771918581,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154294,
+        "num": 154294,
+        "word": "日本",
+        "onboard_time": 1771902859,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153431,
+        "num": 153431,
+        "word": "白鹿首尔回国",
+        "onboard_time": 1771918224,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150293,
+        "num": 150293,
+        "word": "张元英solo成绩",
+        "onboard_time": 1771913300,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142279,
+        "num": 142279,
+        "word": "黄金再迎直线跳水",
+        "onboard_time": 1771919541,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140963,
+        "num": 140963,
+        "word": "苹果春季发布会全部新品曝光",
+        "onboard_time": 1771919181,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135259,
+        "num": 135259,
+        "word": "孩子妈晒童锦程的红包",
+        "onboard_time": 1771919062,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127316,
+        "num": 127316,
+        "word": "妈妈回应瑶一瑶表演时不开心",
+        "onboard_time": 1771912162,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125277,
+        "num": 125277,
+        "word": "赵老师说的太好了 鸡蛋灌饼",
+        "onboard_time": 1771918941,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120608,
+        "num": 120608,
+        "word": "金所泫宋江二搭",
+        "onboard_time": 1771912520,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112834,
+        "num": 112834,
+        "word": "考研",
+        "onboard_time": 1771896381,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104152,
+        "num": 104152,
+        "word": "看演唱会旁边坐的白鹿",
+        "onboard_time": 1771907721,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102452,
+        "num": 102452,
+        "word": "谷爱凌金色蝴蝶结来历曝光",
+        "onboard_time": 1771919842,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98093,
+        "num": 98093,
+        "word": "墨西哥特种部队与毒枭火拼",
+        "onboard_time": 1771912882,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41226,
+        "num": 95987,
+        "word": "豆包穿搭",
+        "onboard_time": 1771920382,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64940,
+        "num": 95011,
+        "word": "宋威龙和周围人不在一个图层",
+        "onboard_time": 1771920382,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79723,
+        "num": 94882,
+        "word": "连体女婴分离28年后当了妈妈",
+        "onboard_time": 1771920322,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94851,
+        "num": 94851,
+        "word": "镖人",
+        "onboard_time": 1771907959,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94705,
+        "num": 94705,
+        "word": "金银价格大涨原因",
+        "onboard_time": 1771915100,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93431,
+        "num": 93431,
+        "word": "RW确认掉入卡位赛",
+        "onboard_time": 1771920322,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93071,
+        "num": 93071,
+        "word": "109只个股涨停",
+        "onboard_time": 1771919601,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91652,
+        "num": 91652,
+        "word": "研招网",
+        "onboard_time": 1771896320,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90912,
+        "num": 90912,
+        "word": "38岁中国商人在土耳其被绑架杀害",
+        "onboard_time": 1771918281,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81155,
+        "num": 89348,
+        "word": "迪桑特 东北男人爆款战袍",
+        "onboard_time": 1771918461,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88248,
+        "num": 88248,
+        "word": "A股行情",
+        "onboard_time": 1771920322,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87667,
+        "num": 87667,
+        "word": "米兰时装周",
+        "onboard_time": 1771920262,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 81248,
+        "num": 81248,
+        "word": "边伯贤 SM",
+        "onboard_time": 1771913242,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记给大家鼓劲加油#"
+    }
+  }
+}
