@@ -1,6 +1,6 @@
 {
   "startTime": 1771863172983,
-  "endTime": 1771934019219,
+  "endTime": 1771934542348,
   "band_list": [
     {
       "raw_hot": 1603433,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 904253,
+      "num": 555084,
+      "word": "阿瑟 为艺术献身",
+      "onboard_time": 1771932622,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 897211,
       "num": 1046053,
       "word": "夜王 尺度",
@@ -113,14 +121,6 @@
       "onboard_time": 1771897039,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 715961,
-      "num": 224860,
-      "word": "阿瑟 为艺术献身",
-      "onboard_time": 1771932622,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 686545,
@@ -203,6 +203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 569140,
+      "num": 1091062,
+      "word": "多款相机价格暴涨近10倍",
+      "onboard_time": 1771929503,
+      "rank": 13,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 554845,
       "num": 416802,
       "word": "开工第一天 请假",
@@ -251,16 +259,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 537052,
-      "num": 1085928,
-      "word": "多款相机价格暴涨近10倍",
-      "onboard_time": 1771929503,
-      "rank": 13,
-      "category": "数码,财经"
-    },
-    {
-      "raw_hot": 475377,
-      "num": 79786,
+      "raw_hot": 528925,
+      "num": 198910,
       "word": "ally自曝是王安宇梦女",
       "onboard_time": 1771932442,
       "rank": 21,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 368956,
-      "num": 113022,
+      "num": 192294,
       "word": "史上最高分小品少爷和我",
       "onboard_time": 1771930520,
       "rank": 32,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 341447,
-      "num": 79558,
+      "num": 196538,
       "word": "Melody道歉",
       "onboard_time": 1771932501,
       "rank": 24,
@@ -449,6 +449,14 @@
       "onboard_time": 1771902442,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306116,
+      "num": 191209,
+      "word": "崔雪莉未公开童年照",
+      "onboard_time": 1771933823,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 305203,
@@ -659,6 +667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 234400,
+      "num": 234400,
+      "word": "12306候补半夜成功车票作废谁担责",
+      "onboard_time": 1771929741,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233205,
       "num": 141310,
       "word": "单依纯 蔻驰",
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 225054,
-      "num": 144072,
+      "num": 190220,
       "word": "第四次工业革命",
       "onboard_time": 1771930341,
       "rank": 12,
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 209859,
-      "num": 120907,
+      "num": 179643,
       "word": "白鹿宋雨琦背后抱",
       "onboard_time": 1771928301,
       "rank": 25,
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 194737,
-      "num": 79839,
+      "num": 127682,
       "word": "开工第一天被通知放假10天",
       "onboard_time": 1771932083,
       "rank": 20,
@@ -804,7 +820,7 @@
     },
     {
       "raw_hot": 189533,
-      "num": 79308,
+      "num": 188982,
       "word": "TF家族高会背景",
       "onboard_time": 1771932203,
       "rank": 27,
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 183661,
-      "num": 103308,
+      "num": 125965,
       "word": "宋雨琦拆了假发",
       "onboard_time": 1771931182,
       "rank": 27,
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 175803,
-      "num": 175803,
+      "num": 200364,
       "word": "TCG战胜LGDNBW",
       "onboard_time": 1771933402,
       "rank": 8,
@@ -1011,14 +1027,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 151448,
-      "num": 79035,
-      "word": "崔雪莉未公开童年照",
-      "onboard_time": 1771933823,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150998,
       "num": 150998,
       "word": "肖战 Gucci",
@@ -1115,14 +1123,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 140582,
-      "num": 140582,
-      "word": "12306候补半夜成功车票作废谁担责",
-      "onboard_time": 1771929741,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140477,
       "num": 140477,
       "word": "孙千这段早播二十年能救不少人",
@@ -1161,6 +1161,14 @@
       "onboard_time": 1771912399,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133478,
+      "num": 133478,
+      "word": "一个烟花烧掉80万",
+      "onboard_time": 1771930520,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130842,
@@ -1268,7 +1276,7 @@
     },
     {
       "raw_hot": 123769,
-      "num": 79223,
+      "num": 120457,
       "word": "肖战说这电话是独家的拿起来就有",
       "onboard_time": 1771933042,
       "rank": 28,
@@ -1355,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118834,
+      "num": 106609,
+      "word": "二手CCD价格暴涨",
+      "onboard_time": 1771931782,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117601,
       "num": 117601,
       "word": "光线传媒等多股跌停",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1771851861,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116766,
+      "num": 113082,
+      "word": "王曼昱vs郑怡静",
+      "onboard_time": 1771932802,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 115621,
@@ -1451,14 +1475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110258,
-      "num": 110258,
-      "word": "一个烟花烧掉80万",
-      "onboard_time": 1771930520,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110036,
       "num": 110036,
       "word": "镖人",
@@ -1505,14 +1521,6 @@
       "onboard_time": 1771923681,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106609,
-      "num": 106609,
-      "word": "二手CCD价格暴涨",
-      "onboard_time": 1771931782,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 106549,
@@ -1705,6 +1713,14 @@
       "onboard_time": 1771895540,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97943,
+      "num": 104792,
+      "word": "国粤无双 宋亚轩",
+      "onboard_time": 1771933703,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 97701,
@@ -1923,6 +1939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86551,
+      "num": 86551,
+      "word": "俄乌冲突",
+      "onboard_time": 1771933942,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85927,
       "num": 265221,
       "word": "节后综合症一下子好了",
@@ -1979,12 +2003,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81933,
+      "num": 81933,
+      "word": "瑶一瑶小肉包近30天掉粉4万",
+      "onboard_time": 1771934183,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 81887,
       "num": 81887,
       "word": "A股马年开市",
       "onboard_time": 1771890739,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80257,
+      "num": 80257,
+      "word": "平顶山被打15岁女孩伤情鉴定",
+      "onboard_time": 1771933162,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80155,
@@ -2017,14 +2057,6 @@
       "onboard_time": 1771933162,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 78383,
-      "num": 78383,
-      "word": "国粤无双 宋亚轩",
-      "onboard_time": 1771933703,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 77846,
@@ -2067,12 +2099,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 74521,
-      "num": 74521,
-      "word": "平顶山被打15岁女孩伤情鉴定",
-      "onboard_time": 1771933162,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 73048,
+      "num": 73048,
+      "word": "中方再对日本精准锁喉",
+      "onboard_time": 1771931782,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 72983,
+      "num": 72983,
+      "word": "周翊然身材",
+      "onboard_time": 1771934363,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 72850,
@@ -2081,6 +2121,14 @@
       "onboard_time": 1771854024,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72625,
+      "num": 72625,
+      "word": "金价波动",
+      "onboard_time": 1771933942,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 71765,
@@ -2115,14 +2163,6 @@
       "category": "旅游,财经"
     },
     {
-      "raw_hot": 68675,
-      "num": 68675,
-      "word": "俄乌冲突",
-      "onboard_time": 1771933942,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 68646,
       "num": 68646,
       "word": "台湾河道弃尸案",
@@ -2131,28 +2171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67477,
-      "num": 67477,
-      "word": "中方再对日本精准锁喉",
-      "onboard_time": 1771931782,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 67177,
       "num": 171141,
       "word": "2月生日奶茶白薅",
       "onboard_time": 1771902621,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66251,
-      "num": 66251,
-      "word": "金价波动",
-      "onboard_time": 1771933942,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 65946,
@@ -2619,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14423,
+      "num": 80410,
+      "word": "音乐摇摆鹅走红有人一万元求购被拒",
+      "onboard_time": 1771933703,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13896,
       "num": 27378,
       "word": "西安大唐芙蓉园等景区银装素裹",
@@ -2649,14 +2681,6 @@
       "onboard_time": 1771870395,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 9171,
-      "num": 78607,
-      "word": "音乐摇摆鹅走红有人一万元求购被拒",
-      "onboard_time": 1771933703,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9029,
