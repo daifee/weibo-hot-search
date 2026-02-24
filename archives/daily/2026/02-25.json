@@ -1,6 +1,6 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1771967081032,
+  "endTime": 1771969450859,
   "band_list": [
     {
       "raw_hot": 869751,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 124848,
-      "num": 124848,
+      "num": 193500,
       "word": "惊蛰无声",
       "onboard_time": 1771953676,
       "rank": 17,
@@ -435,20 +435,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31488,
+      "num": 31488,
+      "word": "中方回应特朗普3月31日将访问中国",
+      "onboard_time": 1771941143,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28498,
       "num": 33458,
       "word": "鞠婧祎跳了没有明天",
       "onboard_time": 1771939942,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27283,
-      "num": 29650,
-      "word": "中方回应特朗普3月31日将访问中国",
-      "onboard_time": 1771941143,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26595,
@@ -497,6 +497,14 @@
       "onboard_time": 1771955536,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18880,
+      "num": 18880,
+      "word": "当地回应女生徒步失联在牛棚被找到",
+      "onboard_time": 1771967953,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17750,
@@ -577,6 +585,14 @@
       "onboard_time": 1771962194,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 10121,
+      "num": 12926,
+      "word": "金价波动",
+      "onboard_time": 1771933942,
+      "rank": 46,
+      "category": "财经"
     }
   ],
   "hotgov_list": [
