@@ -1,6 +1,6 @@
 {
   "startTime": 1771863172983,
-  "endTime": 1771931013555,
+  "endTime": 1771931649996,
   "band_list": [
     {
       "raw_hot": 1603433,
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285149,
+      "num": 285149,
+      "word": "多款相机价格暴涨近10倍",
+      "onboard_time": 1771929503,
+      "rank": 13,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 280316,
       "num": 151454,
       "word": "胡锡进锐评谷爱凌",
@@ -651,6 +659,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 217793,
+      "num": 217793,
+      "word": "微信新功能面对面传照片",
+      "onboard_time": 1771926081,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 215216,
+      "num": 113022,
+      "word": "史上最高分小品少爷和我",
+      "onboard_time": 1771930520,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210402,
       "num": 180608,
       "word": "汪涵11岁儿子在咖啡店当义工",
@@ -659,7 +683,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201689,
+      "raw_hot": 209859,
       "num": 120907,
       "word": "白鹿宋雨琦背后抱",
       "onboard_time": 1771928301,
@@ -667,12 +691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201644,
-      "num": 201644,
-      "word": "微信新功能面对面传照片",
-      "onboard_time": 1771926081,
-      "rank": 40,
-      "category": "互联网"
+      "raw_hot": 201338,
+      "num": 140682,
+      "word": "张杰谢娜一起滑雪",
+      "onboard_time": 1771926741,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 200562,
@@ -688,14 +712,6 @@
       "word": "张元英solo成绩",
       "onboard_time": 1771913300,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 198774,
-      "num": 140682,
-      "word": "张杰谢娜一起滑雪",
-      "onboard_time": 1771926741,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -851,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161665,
+      "num": 103308,
+      "word": "宋雨琦拆了假发",
+      "onboard_time": 1771931182,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161439,
       "num": 161439,
       "word": "贺峻霖祝丁程鑫本命年快乐",
@@ -889,14 +913,6 @@
       "onboard_time": 1771858582,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 155868,
-      "num": 155868,
-      "word": "多款相机价格暴涨近10倍",
-      "onboard_time": 1771929503,
-      "rank": 13,
-      "category": "数码,财经"
     },
     {
       "raw_hot": 153776,
@@ -979,6 +995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 144072,
+      "num": 144072,
+      "word": "第四次工业革命",
+      "onboard_time": 1771930341,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 143673,
       "num": 143673,
       "word": "叶祖新你就是这样下海的",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1771913242,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141693,
+      "num": 141693,
+      "word": "墨西哥毒枭残忍罪行被曝光",
+      "onboard_time": 1771930642,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140963,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1771912399,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130991,
+      "num": 122351,
+      "word": "12306候补半夜成功车票作废谁担责",
+      "onboard_time": 1771929741,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130842,
@@ -1137,14 +1177,6 @@
       "onboard_time": 1771920501,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125916,
-      "num": 113022,
-      "word": "史上最高分小品少爷和我",
-      "onboard_time": 1771930520,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 125793,
@@ -1659,14 +1691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 92127,
-      "num": 122351,
-      "word": "12306候补半夜成功车票作废谁担责",
-      "onboard_time": 1771929741,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92017,
       "num": 88583,
       "word": "高速",
@@ -1779,20 +1803,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87695,
+      "num": 87695,
+      "word": "张雪峰说大家不要着急",
+      "onboard_time": 1771931060,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 87667,
       "num": 87667,
       "word": "米兰时装周",
       "onboard_time": 1771920262,
       "rank": 48,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 87570,
-      "num": 102605,
-      "word": "墨西哥毒枭残忍罪行被曝光",
-      "onboard_time": 1771930642,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 87508,
@@ -1808,6 +1832,14 @@
       "word": "为了一道菜喂猪吃了一年的人参",
       "onboard_time": 1771891518,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86757,
+      "num": 86757,
+      "word": "我应该是神 无本相",
+      "onboard_time": 1771931481,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -1843,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82981,
+      "num": 102639,
+      "word": "泽连斯基地堡曝光",
+      "onboard_time": 1771929861,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82715,
       "num": 93027,
       "word": "外国游客出境时疯狂点赞中国",
@@ -1873,6 +1913,14 @@
       "onboard_time": 1771912101,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79972,
+      "num": 79972,
+      "word": "杨幂米兰到达路透",
+      "onboard_time": 1771928780,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 77846,
@@ -1953,14 +2001,6 @@
       "onboard_time": 1771902621,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66819,
-      "num": 102639,
-      "word": "泽连斯基地堡曝光",
-      "onboard_time": 1771929861,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 65946,
@@ -2195,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42116,
+      "num": 171207,
+      "word": "中美就特朗普访华事宜保持着沟通",
+      "onboard_time": 1771930040,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41876,
       "num": 212376,
       "word": "长和反对巴拿马政府强行接管",
@@ -2225,14 +2273,6 @@
       "onboard_time": 1771924281,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40278,
-      "num": 171207,
-      "word": "中美就特朗普访华事宜保持着沟通",
-      "onboard_time": 1771930040,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37551,
@@ -2395,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18025,
+      "num": 723241,
+      "word": "2026春节消费马力全开",
+      "onboard_time": 1771923560,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16395,
       "num": 119444,
       "word": "高速免费最后1分钟所有人都在加速",
@@ -2440,14 +2488,6 @@
       "word": "一组数据看热气腾腾中国年",
       "onboard_time": 1771909582,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12276,
-      "num": 723241,
-      "word": "2026春节消费马力全开",
-      "onboard_time": 1771923560,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
