@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771890902744,
+  "endTime": 1771900974599,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1059,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1603433,
+      "num": 1603433,
+      "word": "考研出分时间",
+      "onboard_time": 1771888937,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1592010,
       "num": 160890,
       "word": "曝厚本被不让江山除名",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1769952201,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1501435,
+      "num": 1501435,
+      "word": "12306半夜候补成功1700元车票作废",
+      "onboard_time": 1771898961,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1496794,
@@ -1401,6 +1417,14 @@
       "onboard_time": 1771421424,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1324961,
+      "num": 710580,
+      "word": "妈祖被换女孩三天涨粉几十万",
+      "onboard_time": 1771898601,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1319071,
@@ -2644,7 +2668,7 @@
     },
     {
       "raw_hot": 909229,
-      "num": 288284,
+      "num": 331520,
       "word": "黄金",
       "onboard_time": 1770343821,
       "rank": 20,
@@ -3363,6 +3387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 800985,
+      "num": 800985,
+      "word": "高速免费最后1分钟实拍",
+      "onboard_time": 1771893920,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 798483,
       "num": 152477,
       "word": "微博之夜声明",
@@ -3641,6 +3673,14 @@
       "onboard_time": 1771256794,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 757542,
+      "num": 326202,
+      "word": "秋雅别打电话了 我怕夏洛误会",
+      "onboard_time": 1771897039,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 756761,
@@ -5473,6 +5513,14 @@
       "onboard_time": 1771848740,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 593945,
+      "num": 593945,
+      "word": "考研查分",
+      "onboard_time": 1771897880,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 593778,
@@ -8795,6 +8843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427198,
+      "num": 427198,
+      "word": "研招网",
+      "onboard_time": 1771896320,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 427121,
       "num": 822487,
       "word": "妈妈回应林孝埈加入中国队",
@@ -8937,6 +8993,14 @@
       "onboard_time": 1770622280,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422125,
+      "num": 422125,
+      "word": "飞驰人生3春节档冠军",
+      "onboard_time": 1771897762,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 421963,
@@ -11227,6 +11291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358276,
+      "num": 358276,
+      "word": "车主卡点下高速失败缴费400元",
+      "onboard_time": 1771897639,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358131,
       "num": 358131,
       "word": "美国夫妻杀亲生子强迫其余子女观看",
@@ -12320,6 +12392,14 @@
       "word": "女子离婚5天后丈夫去世女儿成被告",
       "onboard_time": 1770009741,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333319,
+      "num": 333319,
+      "word": "灵隐寺惊现110万家厂商祈福",
+      "onboard_time": 1771900520,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -13811,6 +13891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304512,
+      "num": 304512,
+      "word": "多地考研今日出分",
+      "onboard_time": 1771899020,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 304356,
       "num": 304356,
       "word": "谷爱凌每天步行到奥运赛场",
@@ -13913,6 +14001,14 @@
       "onboard_time": 1769901977,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 302016,
+      "num": 302016,
+      "word": "iPhone18Pro小批量试产",
+      "onboard_time": 1771894041,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 301787,
@@ -16417,6 +16513,14 @@
       "onboard_time": 1771222643,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261858,
+      "num": 261858,
+      "word": "考研",
+      "onboard_time": 1771896381,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 261836,
@@ -18971,6 +19075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228790,
+      "num": 228790,
+      "word": "开工大吉",
+      "onboard_time": 1771890258,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228671,
       "num": 228671,
       "word": "车厘子过季",
@@ -19299,14 +19411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224562,
-      "num": 224562,
-      "word": "考研出分时间",
-      "onboard_time": 1771888937,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 224539,
       "num": 224539,
       "word": "连跌3日的金银暴力反弹",
@@ -19465,6 +19569,14 @@
       "onboard_time": 1769924121,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223399,
+      "num": 180479,
+      "word": "不发朋友圈的人是什么性格",
+      "onboard_time": 1771894820,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 223248,
@@ -22731,6 +22843,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 186308,
+      "num": 186308,
+      "word": "代旭劝学",
+      "onboard_time": 1771897100,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186268,
       "num": 167880,
       "word": "加拿大小偷已经放飞自我了",
@@ -24595,6 +24715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168848,
+      "num": 168848,
+      "word": "少女9300元贱卖妈妈13万奢侈品",
+      "onboard_time": 1771894100,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168847,
       "num": 164717,
       "word": "TF四代娃娃",
@@ -25779,6 +25907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158396,
+      "num": 158396,
+      "word": "石雷鹏 今天大概率出不了分",
+      "onboard_time": 1771897639,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158392,
       "num": 153276,
       "word": "王橹杰 祝你永远闪烁",
@@ -26633,6 +26769,14 @@
       "onboard_time": 1770616279,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151729,
+      "num": 151729,
+      "word": "iPhone18Pro灵动岛缩小35%",
+      "onboard_time": 1771896440,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 151684,
@@ -27635,6 +27779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144864,
+      "num": 144864,
+      "word": "谷爱凌我有个想法但我不敢说",
+      "onboard_time": 1771895300,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144863,
       "num": 144863,
       "word": "方瑾崔雨鑫直播",
@@ -27713,6 +27865,14 @@
       "onboard_time": 1770939077,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144450,
+      "num": 135405,
+      "word": "小米马年开工两件大事",
+      "onboard_time": 1771899079,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 144422,
@@ -28064,6 +28224,14 @@
       "word": "电影票房",
       "onboard_time": 1771408160,
       "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 142237,
+      "num": 142237,
+      "word": "谢霆锋张婧仪 用花无缺打开镖人",
+      "onboard_time": 1771895060,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -28483,6 +28651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140477,
+      "num": 140477,
+      "word": "孙千这段早播二十年能救不少人",
+      "onboard_time": 1771894041,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140466,
       "num": 140466,
       "word": "重庆一女生被多人殴打6人被行拘",
@@ -28608,6 +28784,14 @@
       "word": "王鹤棣比马丁大十岁",
       "onboard_time": 1771134619,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139702,
+      "num": 135407,
+      "word": "杨洋方安抚粉丝",
+      "onboard_time": 1771893379,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -29233,6 +29417,14 @@
       "onboard_time": 1770022820,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136607,
+      "num": 136607,
+      "word": "距离下个假期还有40天",
+      "onboard_time": 1771893020,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136484,
@@ -29899,6 +30091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133202,
+      "num": 133202,
+      "word": "曝百妖谱主演阵容",
+      "onboard_time": 1771899441,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133201,
       "num": 133201,
       "word": "申有娜零食很忙采购中",
@@ -30403,6 +30603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130506,
+      "num": 130506,
+      "word": "谷爱凌斯坦福大学宿舍曾被闯入",
+      "onboard_time": 1771898601,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130449,
       "num": 565244,
       "word": "一阳双排",
@@ -30609,6 +30817,14 @@
       "onboard_time": 1770692959,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 129609,
+      "num": 129609,
+      "word": "星河入梦 0爱情",
+      "onboard_time": 1771894580,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 129602,
@@ -31017,6 +31233,14 @@
       "onboard_time": 1771208300,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127598,
+      "num": 127598,
+      "word": "韩寒透露飞驰人生4",
+      "onboard_time": 1771900640,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 127582,
@@ -32064,6 +32288,14 @@
       "word": "徐梦桃的金牌有划痕了",
       "onboard_time": 1771732701,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122517,
+      "num": 122517,
+      "word": "谷爱凌在斯坦福选修量子物理哲学",
+      "onboard_time": 1771898539,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -34027,6 +34259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115044,
+      "num": 115044,
+      "word": "陈凯文 双眼皮",
+      "onboard_time": 1771891099,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115032,
       "num": 115032,
       "word": "辞职当守岛人女高管下岛时哭了",
@@ -34481,14 +34721,6 @@
       "onboard_time": 1770741138,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113410,
-      "num": 113410,
-      "word": "开工大吉",
-      "onboard_time": 1771890258,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113404,
@@ -34953,6 +35185,14 @@
       "onboard_time": 1770085999,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112230,
+      "num": 112230,
+      "word": "差点问陈坤要联系方式了",
+      "onboard_time": 1771898539,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 112217,
@@ -35817,6 +36057,14 @@
       "onboard_time": 1770507557,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109363,
+      "num": 109362,
+      "word": "2025个税汇算明起预约",
+      "onboard_time": 1771894341,
+      "rank": 40,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 109348,
@@ -37787,6 +38035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103758,
+      "num": 103758,
+      "word": "雷军亲自发开工红包",
+      "onboard_time": 1771900162,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 103755,
       "num": 105752,
       "word": "千玺听到粉丝说他总演小苦瓜的反应",
@@ -37977,6 +38233,14 @@
       "onboard_time": 1771562419,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103343,
+      "num": 103343,
+      "word": "三星全球首发防窥屏",
+      "onboard_time": 1771897700,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 103293,
@@ -39664,6 +39928,14 @@
       "word": "张予曦返场cos小舞",
       "onboard_time": 1771140198,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98532,
+      "num": 98532,
+      "word": "偶遇宋亚轩刘耀文一起滑雪",
+      "onboard_time": 1771895540,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -43027,6 +43299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90363,
+      "num": 90363,
+      "word": "周也张婧仪宋威龙张凌赫 莞莞类卿",
+      "onboard_time": 1771899321,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90328,
       "num": 90328,
       "word": "塞尔维亚偶遇周也吃火锅",
@@ -43041,6 +43321,14 @@
       "onboard_time": 1769929220,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90313,
+      "num": 89009,
+      "word": "张翅直播",
+      "onboard_time": 1771892720,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 90295,
@@ -43563,6 +43851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89208,
+      "num": 86618,
+      "word": "宋亚轩晒照祝丁程鑫程鑫如意",
+      "onboard_time": 1771888276,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89205,
       "num": 99694,
       "word": "葡萄和鸡肉一起炒是啥味道",
@@ -43633,6 +43929,14 @@
       "onboard_time": 1770193640,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89051,
+      "num": 89051,
+      "word": "从中医角度谈月经推迟",
+      "onboard_time": 1771897639,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88980,
@@ -44049,6 +44353,14 @@
       "onboard_time": 1770470482,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88197,
+      "num": 88197,
+      "word": "庾晚音 我同时跟六个男的结婚",
+      "onboard_time": 1771895181,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 88161,
@@ -44673,6 +44985,14 @@
       "onboard_time": 1771823721,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86892,
+      "num": 86892,
+      "word": "为了一道菜喂猪吃了一年的人参",
+      "onboard_time": 1771891518,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 86890,
@@ -54875,6 +55195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61654,
+      "num": 128142,
+      "word": "开工第一天别超负荷工作",
+      "onboard_time": 1771900881,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61644,
       "num": 113230,
       "word": "谭维维 在春晚困的迷瞪",
@@ -55988,7 +56316,7 @@
     },
     {
       "raw_hot": 56912,
-      "num": 692127,
+      "num": 1126486,
       "word": "在全党开展树立和践行正确政绩观学习教育",
       "onboard_time": 1771853601,
       "rank": 31,
@@ -56433,14 +56761,6 @@
       "onboard_time": 1771262601,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54965,
-      "num": 54965,
-      "word": "宋亚轩晒照祝丁程鑫程鑫如意",
-      "onboard_time": 1771888276,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 54929,
@@ -59656,6 +59976,14 @@
       "word": "大熊猫为什么是雪来疯",
       "onboard_time": 1771859361,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41252,
+      "num": 180677,
+      "word": "12306回应半夜候补成功无法退款",
+      "onboard_time": 1771900580,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -63265,6 +63593,14 @@
       "onboard_time": 1771045280,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 26222,
+      "num": 109363,
+      "word": "美国或对伊朗先进行初步打击",
+      "onboard_time": 1771900941,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26143,

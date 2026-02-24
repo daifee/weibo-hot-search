@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771890902744,
+  "endTime": 1771900974599,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1835,6 +1835,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 1603433,
+      "num": 1603433,
+      "word": "考研出分时间",
+      "onboard_time": 1771888937,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1592010,
       "num": 160890,
       "word": "曝厚本被不让江山除名",
@@ -2115,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1501435,
+      "num": 1501435,
+      "word": "12306半夜候补成功1700元车票作废",
+      "onboard_time": 1771898961,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1497333,
       "num": 459065,
       "word": "骄阳似我大结局",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1769844381,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1374570,
-      "num": 433274,
-      "word": "赵四葬礼",
-      "onboard_time": 1769749401,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1374474,
-      "num": 1374474,
-      "word": "暖阳铠FMVP皮肤",
-      "onboard_time": 1767361821,
-      "rank": 11,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [
