@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771931649996,
+  "endTime": 1771934019219,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -4043,6 +4043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 715961,
+      "num": 224860,
+      "word": "阿瑟 为艺术献身",
+      "onboard_time": 1771932622,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 715741,
       "num": 715741,
       "word": "2025年热搜爆了434次",
@@ -6635,6 +6643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537052,
+      "num": 1085928,
+      "word": "多款相机价格暴涨近10倍",
+      "onboard_time": 1771929503,
+      "rank": 13,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 536748,
       "num": 536748,
       "word": "王菲 春晚",
@@ -7777,6 +7793,14 @@
       "onboard_time": 1771850961,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 475377,
+      "num": 79786,
+      "word": "ally自曝是王安宇梦女",
+      "onboard_time": 1771932442,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 475196,
@@ -11011,6 +11035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368956,
+      "num": 113022,
+      "word": "史上最高分小品少爷和我",
+      "onboard_time": 1771930520,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 368739,
       "num": 258741,
       "word": "张子墨长文",
@@ -12257,6 +12289,14 @@
       "onboard_time": 1771147880,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 341447,
+      "num": 79558,
+      "word": "Melody道歉",
+      "onboard_time": 1771932501,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 341180,
@@ -15371,14 +15411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285149,
-      "num": 285149,
-      "word": "多款相机价格暴涨近10倍",
-      "onboard_time": 1771929503,
-      "rank": 13,
-      "category": "数码,财经"
-    },
-    {
       "raw_hot": 284779,
       "num": 192644,
       "word": "当街摔死多只兔子摊贩被行拘5天",
@@ -18379,6 +18411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240856,
+      "num": 240856,
+      "word": "墨西哥毒枭残忍罪行被曝光",
+      "onboard_time": 1771930642,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 240848,
       "num": 240848,
       "word": "曝王男融梗",
@@ -19787,6 +19827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225054,
+      "num": 144072,
+      "word": "第四次工业革命",
+      "onboard_time": 1771930341,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 224778,
       "num": 217100,
       "word": "百花杀",
@@ -20689,14 +20737,6 @@
       "onboard_time": 1770621621,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 215216,
-      "num": 113022,
-      "word": "史上最高分小品少爷和我",
-      "onboard_time": 1771930520,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 215172,
@@ -22515,6 +22555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194737,
+      "num": 79839,
+      "word": "开工第一天被通知放假10天",
+      "onboard_time": 1771932083,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194634,
       "num": 148024,
       "word": "王安宇你玩狼人杀不是这样的",
@@ -23025,6 +23073,14 @@
       "onboard_time": 1771170082,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189533,
+      "num": 79308,
+      "word": "TF家族高会背景",
+      "onboard_time": 1771932203,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 189529,
@@ -23617,6 +23673,14 @@
       "onboard_time": 1770291385,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183661,
+      "num": 103308,
+      "word": "宋雨琦拆了假发",
+      "onboard_time": 1771931182,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 183642,
@@ -24361,6 +24425,14 @@
       "onboard_time": 1771303462,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175803,
+      "num": 175803,
+      "word": "TCG战胜LGDNBW",
+      "onboard_time": 1771933402,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 175786,
@@ -26011,14 +26083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161665,
-      "num": 103308,
-      "word": "宋雨琦拆了假发",
-      "onboard_time": 1771931182,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161612,
       "num": 161612,
       "word": "爱泼斯坦死后遗体被秘密转移",
@@ -27387,6 +27451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151448,
+      "num": 79035,
+      "word": "崔雪莉未公开童年照",
+      "onboard_time": 1771933823,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151384,
       "num": 151384,
       "word": "哥哥安抚腮腺炎弟弟得知传染秒变脸",
@@ -28563,14 +28635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144072,
-      "num": 144072,
-      "word": "第四次工业革命",
-      "onboard_time": 1771930341,
-      "rank": 12,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 144025,
       "num": 144025,
       "word": "李天马第一跳116.74分",
@@ -28987,14 +29051,6 @@
       "category": "电竞,体育"
     },
     {
-      "raw_hot": 141693,
-      "num": 141693,
-      "word": "墨西哥毒枭残忍罪行被曝光",
-      "onboard_time": 1771930642,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 141673,
       "num": 2261742,
       "word": "宁波女婴术后离世调查处置情况",
@@ -29281,6 +29337,14 @@
       "onboard_time": 1770988821,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140582,
+      "num": 140582,
+      "word": "12306候补半夜成功车票作废谁担责",
+      "onboard_time": 1771929741,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140559,
@@ -31171,14 +31235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130991,
-      "num": 122351,
-      "word": "12306候补半夜成功车票作废谁担责",
-      "onboard_time": 1771929741,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130978,
       "num": 176883,
       "word": "中外网友对账对到了菜市场",
@@ -32713,6 +32769,14 @@
       "onboard_time": 1770959119,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123769,
+      "num": 79223,
+      "word": "肖战说这电话是独家的拿起来就有",
+      "onboard_time": 1771933042,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 123766,
@@ -36563,6 +36627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110258,
+      "num": 110258,
+      "word": "一个烟花烧掉80万",
+      "onboard_time": 1771930520,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110245,
       "num": 107165,
       "word": "关晓彤滑雪摔屁墩儿",
@@ -37889,6 +37961,14 @@
       "onboard_time": 1770471262,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106609,
+      "num": 106609,
+      "word": "二手CCD价格暴涨",
+      "onboard_time": 1771931782,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 106598,
@@ -45851,14 +45931,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 87508,
-      "num": 87508,
-      "word": "一个烟花烧掉80万",
-      "onboard_time": 1771930520,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87507,
       "num": 87507,
       "word": "第二类我舞台",
@@ -46177,6 +46249,14 @@
       "onboard_time": 1770187101,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86860,
+      "num": 78517,
+      "word": "iPhone17ProMax国内激活销量破千万",
+      "onboard_time": 1771933703,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 86839,
@@ -49715,6 +49795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79173,
+      "num": 79173,
+      "word": "德约ins转发了一段谷爱凌的采访",
+      "onboard_time": 1771933762,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79164,
       "num": 79164,
       "word": "过年烫头发一烫一个不吱声",
@@ -49923,6 +50011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78683,
+      "num": 78683,
+      "word": "家务机器人",
+      "onboard_time": 1771933162,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 78672,
       "num": 78672,
       "word": "南非发现80亿光年外宇宙灯塔",
@@ -50001,6 +50097,14 @@
       "onboard_time": 1770470783,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78383,
+      "num": 78383,
+      "word": "国粤无双 宋亚轩",
+      "onboard_time": 1771933703,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 78347,
@@ -51219,6 +51323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75674,
+      "num": 75674,
+      "word": "重拾小时候的兴趣",
+      "onboard_time": 1771933703,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75660,
       "num": 75660,
       "word": "儿子离家1年母亲在短视频发现踪迹",
@@ -51777,6 +51889,14 @@
       "onboard_time": 1770607460,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74521,
+      "num": 74521,
+      "word": "平顶山被打15岁女孩伤情鉴定",
+      "onboard_time": 1771933162,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74518,
@@ -53739,6 +53859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68776,
+      "num": 68776,
+      "word": "春节国内游总花费超8千亿",
+      "onboard_time": 1771932981,
+      "rank": 45,
+      "category": "旅游,财经"
+    },
+    {
       "raw_hot": 68761,
       "num": 68761,
       "word": "侯明昊初五上早班困成啥了",
@@ -53769,6 +53897,14 @@
       "onboard_time": 1771752080,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68675,
+      "num": 68675,
+      "word": "俄乌冲突",
+      "onboard_time": 1771933942,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68669,
@@ -54305,6 +54441,14 @@
       "onboard_time": 1771651521,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 67477,
+      "num": 67477,
+      "word": "中方再对日本精准锁喉",
+      "onboard_time": 1771931782,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67475,
@@ -63971,6 +64115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29829,
+      "num": 723241,
+      "word": "2026春节消费马力全开",
+      "onboard_time": 1771923560,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29820,
       "num": 40113,
       "word": "杰我睿客户称兑付方案或打2折",
@@ -67635,14 +67787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18025,
-      "num": 723241,
-      "word": "2026春节消费马力全开",
-      "onboard_time": 1771923560,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18023,
       "num": 305193,
       "word": "梦龙巡演一次性官宣三站",
@@ -69472,6 +69616,14 @@
       "word": "前男友泼汽油烧伤案再开庭",
       "onboard_time": 1770289286,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9171,
+      "num": 78607,
+      "word": "音乐摇摆鹅走红有人一万元求购被拒",
+      "onboard_time": 1771933703,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

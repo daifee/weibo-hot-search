@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771931649996,
+  "endTime": 1771934019219,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 715961,
+      "num": 224860,
+      "word": "阿瑟 为艺术献身",
+      "onboard_time": 1771932622,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 712814,
       "num": 1114050,
       "word": "大理初四订房订到医院",
@@ -691,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537052,
+      "num": 1085928,
+      "word": "多款相机价格暴涨近10倍",
+      "onboard_time": 1771929503,
+      "rank": 13,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 535951,
       "num": 800765,
       "word": "初一家里有43人过完年只剩老人在家",
@@ -817,6 +833,14 @@
       "onboard_time": 1771850961,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 475377,
+      "num": 79786,
+      "word": "ally自曝是王安宇梦女",
+      "onboard_time": 1771932442,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 473051,
@@ -1211,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 368956,
+      "num": 113022,
+      "word": "史上最高分小品少爷和我",
+      "onboard_time": 1771930520,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 367988,
       "num": 247281,
       "word": "沈腾个人总票房达400亿",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1771927222,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341447,
+      "num": 79558,
+      "word": "Melody道歉",
+      "onboard_time": 1771932501,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 341100,
@@ -1641,14 +1681,6 @@
       "onboard_time": 1771692618,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 285149,
-      "num": 285149,
-      "word": "多款相机价格暴涨近10倍",
-      "onboard_time": 1771929503,
-      "rank": 13,
-      "category": "数码,财经"
     },
     {
       "raw_hot": 283153,
@@ -2027,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240856,
+      "num": 240856,
+      "word": "墨西哥毒枭残忍罪行被曝光",
+      "onboard_time": 1771930642,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 240119,
       "num": 172528,
       "word": "林志颖客串韩剧上MBC打歌舞台",
@@ -2187,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225054,
+      "num": 144072,
+      "word": "第四次工业革命",
+      "onboard_time": 1771930341,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 224758,
       "num": 224758,
       "word": "唐宫奇案大结局",
@@ -2289,14 +2337,6 @@
       "onboard_time": 1771765701,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215216,
-      "num": 113022,
-      "word": "史上最高分小品少爷和我",
-      "onboard_time": 1771930520,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 214501,
@@ -2475,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194737,
+      "num": 79839,
+      "word": "开工第一天被通知放假10天",
+      "onboard_time": 1771932083,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194005,
       "num": 194005,
       "word": "高速堵车大聪明选择下国道绕行",
@@ -2587,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189533,
+      "num": 79308,
+      "word": "TF家族高会背景",
+      "onboard_time": 1771932203,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189125,
       "num": 189125,
       "word": "厚本 长剧",
@@ -2673,6 +2729,14 @@
       "onboard_time": 1771729759,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183661,
+      "num": 103308,
+      "word": "宋雨琦拆了假发",
+      "onboard_time": 1771931182,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 183526,
@@ -2769,6 +2833,14 @@
       "onboard_time": 1771744759,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175803,
+      "num": 175803,
+      "word": "TCG战胜LGDNBW",
+      "onboard_time": 1771933402,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 175786,
@@ -3027,14 +3099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161665,
-      "num": 103308,
-      "word": "宋雨琦拆了假发",
-      "onboard_time": 1771931182,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161439,
       "num": 161439,
       "word": "贺峻霖祝丁程鑫本命年快乐",
@@ -3195,6 +3259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151448,
+      "num": 79035,
+      "word": "崔雪莉未公开童年照",
+      "onboard_time": 1771933823,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150998,
       "num": 150998,
       "word": "肖战 Gucci",
@@ -3347,14 +3419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144072,
-      "num": 144072,
-      "word": "第四次工业革命",
-      "onboard_time": 1771930341,
-      "rank": 12,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 143714,
       "num": 113511,
       "word": "时代少年团演唱会",
@@ -3443,14 +3507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141693,
-      "num": 141693,
-      "word": "墨西哥毒枭残忍罪行被曝光",
-      "onboard_time": 1771930642,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 141620,
       "num": 141620,
       "word": "谷爱凌悲喜交加的一夜",
@@ -3497,6 +3553,14 @@
       "onboard_time": 1771845501,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140582,
+      "num": 140582,
+      "word": "12306候补半夜成功车票作废谁担责",
+      "onboard_time": 1771929741,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140477,
@@ -3731,14 +3795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130991,
-      "num": 122351,
-      "word": "12306候补半夜成功车票作废谁担责",
-      "onboard_time": 1771929741,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130698,
       "num": 130698,
       "word": "徐梦桃父亲回应女儿女婿齐夺冠",
@@ -3953,6 +4009,14 @@
       "onboard_time": 1771764802,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123769,
+      "num": 79223,
+      "word": "肖战说这电话是独家的拿起来就有",
+      "onboard_time": 1771933042,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 123627,
@@ -4427,6 +4491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110258,
+      "num": 110258,
+      "word": "一个烟花烧掉80万",
+      "onboard_time": 1771930520,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110159,
       "num": 110159,
       "word": "大年初六有啥习俗",
@@ -4577,6 +4649,14 @@
       "onboard_time": 1771923681,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106609,
+      "num": 106609,
+      "word": "二手CCD价格暴涨",
+      "onboard_time": 1771931782,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 106598,
@@ -5539,14 +5619,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 87508,
-      "num": 87508,
-      "word": "一个烟花烧掉80万",
-      "onboard_time": 1771930520,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87336,
       "num": 87336,
       "word": "五台山景区突发火情",
@@ -5577,6 +5649,14 @@
       "onboard_time": 1771842740,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86860,
+      "num": 78517,
+      "word": "iPhone17ProMax国内激活销量破千万",
+      "onboard_time": 1771933703,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 86757,
@@ -5963,6 +6043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79173,
+      "num": 79173,
+      "word": "德约ins转发了一段谷爱凌的采访",
+      "onboard_time": 1771933762,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79163,
       "num": 79163,
       "word": "俄外交部警告韩国",
@@ -5971,12 +6059,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78683,
+      "num": 78683,
+      "word": "家务机器人",
+      "onboard_time": 1771933162,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 78528,
       "num": 76438,
       "word": "星河入梦票房低迷仅是排片问题吗",
       "onboard_time": 1771729219,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78383,
+      "num": 78383,
+      "word": "国粤无双 宋亚轩",
+      "onboard_time": 1771933703,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 78318,
@@ -6107,6 +6211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75674,
+      "num": 75674,
+      "word": "重拾小时候的兴趣",
+      "onboard_time": 1771933703,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75592,
       "num": 75592,
       "word": "张艺兴我姓张你别嚣张",
@@ -6136,6 +6248,14 @@
       "word": "千元酒店热水仅可连续用12分钟",
       "onboard_time": 1771851202,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74521,
+      "num": 74521,
+      "word": "平顶山被打15岁女孩伤情鉴定",
+      "onboard_time": 1771933162,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -6379,6 +6499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 68776,
+      "num": 68776,
+      "word": "春节国内游总花费超8千亿",
+      "onboard_time": 1771932981,
+      "rank": 45,
+      "category": "旅游,财经"
+    },
+    {
       "raw_hot": 68729,
       "num": 103480,
       "word": "女子将900克黄金遗忘动车当场吓晕",
@@ -6393,6 +6521,14 @@
       "onboard_time": 1771752080,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68675,
+      "num": 68675,
+      "word": "俄乌冲突",
+      "onboard_time": 1771933942,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68649,
@@ -6457,6 +6593,14 @@
       "onboard_time": 1771739360,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67477,
+      "num": 67477,
+      "word": "中方再对日本精准锁喉",
+      "onboard_time": 1771931782,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67475,
@@ -6545,6 +6689,14 @@
       "onboard_time": 1771764682,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66251,
+      "num": 66251,
+      "word": "金价波动",
+      "onboard_time": 1771933942,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 66229,
@@ -7515,6 +7667,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 29829,
+      "num": 723241,
+      "word": "2026春节消费马力全开",
+      "onboard_time": 1771923560,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29160,
       "num": 650331,
       "word": "米兰冬奥超越胜负的动人瞬间",
@@ -7915,14 +8075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18025,
-      "num": 723241,
-      "word": "2026春节消费马力全开",
-      "onboard_time": 1771923560,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17873,
       "num": 19510,
       "word": "冬奥会闭幕式歌剧元素拉满",
@@ -8088,6 +8240,14 @@
       "word": "致敬海拔4868米云端哨所的守护者",
       "onboard_time": 1771746501,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9171,
+      "num": 78607,
+      "word": "音乐摇摆鹅走红有人一万元求购被拒",
+      "onboard_time": 1771933703,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
