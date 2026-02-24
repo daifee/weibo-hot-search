@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771963260859,
+  "endTime": 1771965912851,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -8843,7 +8843,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15260,
+      "raw_hot": 16046,
       "num": 18516,
       "word": "KPL春季赛",
       "onboard_time": 1771937422,
@@ -8937,6 +8937,14 @@
       "onboard_time": 1771909582,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12541,
+      "num": 13345,
+      "word": "登陆少年出镜Prada全球企划片",
+      "onboard_time": 1771962194,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 12504,

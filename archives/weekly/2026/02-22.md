@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/22 00:39:37 ~ 2026/02/25 04:01:00
+本榜单时间：2026/02/22 00:39:37 ~ 2026/02/25 04:45:12
 </p>
 </blockquote>
 <p>
@@ -6646,7 +6646,7 @@ AI重现春晚名场面（热度：17452）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23KPL%E6%98%A5%E5%AD%A3%E8%B5%9B%23" target="weibo">
-KPL春季赛（热度：15260）
+KPL春季赛（热度：16046）
 </a>
 </li>
 
@@ -6713,6 +6713,12 @@ WTT新加坡大满贯（热度：15175）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE%E4%B8%AD%E5%9B%BD%E5%B9%B4%23" target="weibo">
 一组数据看热气腾腾中国年（热度：12907）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E5%87%BA%E9%95%9CPrada%E5%85%A8%E7%90%83%E4%BC%81%E5%88%92%E7%89%87%23" target="weibo">
+登陆少年出镜Prada全球企划片（热度：12541）
 </a>
 </li>
 
