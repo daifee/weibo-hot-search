@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771961592470,
+  "endTime": 1771963260859,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -68763,6 +68763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17385,
+      "num": 18509,
+      "word": "纯真年代 好嗑",
+      "onboard_time": 1771960453,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17333,
       "num": 26269,
       "word": "男子500米前三名全破奥运纪录",
@@ -69379,6 +69387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15175,
+      "num": 18512,
+      "word": "WTT新加坡大满贯",
+      "onboard_time": 1771941563,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15108,
       "num": 22606,
       "word": "人民日报于适访谈完整版",
@@ -69603,14 +69619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14098,
-      "num": 18509,
-      "word": "纯真年代 好嗑",
-      "onboard_time": 1771960453,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14050,
       "num": 16073,
       "word": "你永远可以相信金博洋",
@@ -69689,14 +69697,6 @@
       "onboard_time": 1771308261,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13750,
-      "num": 18512,
-      "word": "WTT新加坡大满贯",
-      "onboard_time": 1771941563,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 13705,

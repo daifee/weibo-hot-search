@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771961592470,
+  "endTime": 1771963260859,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -8795,6 +8795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17385,
+      "num": 18509,
+      "word": "纯真年代 好嗑",
+      "onboard_time": 1771960453,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17203,
       "num": 18534,
       "word": "银价波动",
@@ -8843,6 +8851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 15175,
+      "num": 18512,
+      "word": "WTT新加坡大满贯",
+      "onboard_time": 1771941563,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15085,
       "num": 18516,
       "word": "张极出席Prada米兰时装秀",
@@ -8867,28 +8883,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14098,
-      "num": 18509,
-      "word": "纯真年代 好嗑",
-      "onboard_time": 1771960453,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 13896,
       "num": 27378,
       "word": "西安大唐芙蓉园等景区银装素裹",
       "onboard_time": 1771887616,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 13750,
-      "num": 18512,
-      "word": "WTT新加坡大满贯",
-      "onboard_time": 1771941563,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 13705,
