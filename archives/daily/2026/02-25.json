@@ -1,6 +1,6 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1771976485307,
+  "endTime": 1771977358659,
   "band_list": [
     {
       "raw_hot": 869751,
@@ -11,20 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 849046,
+      "num": 137578,
+      "word": "官方回应继父搂腰亲吻女童",
+      "onboard_time": 1771974435,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 765583,
+      "num": 1081260,
+      "word": "平顶山再通报打人事件",
+      "onboard_time": 1771975037,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 657615,
       "num": 1047735,
       "word": "王楚钦鹰眼挑战失败",
       "onboard_time": 1771946123,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 601529,
-      "num": 128985,
-      "word": "官方回应继父搂腰亲吻女童",
-      "onboard_time": 1771974435,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 531411,
@@ -43,20 +51,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 487193,
-      "num": 918228,
-      "word": "平顶山再通报打人事件",
-      "onboard_time": 1771975037,
-      "rank": 0,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 435439,
       "num": 174462,
       "word": "肖战的鼻间痣好像小狐狸",
       "onboard_time": 1771944382,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415069,
+      "num": 80634,
+      "word": "被继父亲吻女童已被生父接回",
+      "onboard_time": 1771975517,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350127,
@@ -67,12 +75,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333587,
-      "num": 655122,
+      "raw_hot": 337730,
+      "num": 775993,
       "word": "惊蛰无声",
       "onboard_time": 1771953676,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 308077,
+      "num": 105693,
+      "word": "吴佳尼被认识3天的富二代求婚",
+      "onboard_time": 1771974737,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 298846,
@@ -81,14 +97,6 @@
       "onboard_time": 1771938682,
       "rank": 3,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 297407,
-      "num": 87796,
-      "word": "吴佳尼被认识3天的富二代求婚",
-      "onboard_time": 1771974737,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 259125,
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171135,
-      "num": 73245,
-      "word": "被继父亲吻女童已被生父接回",
-      "onboard_time": 1771975517,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169604,
       "num": 169604,
       "word": "被炸身亡男子从哪里买的烟花",
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 166749,
-      "num": 127095,
+      "num": 136574,
       "word": "西安一市民除夕夜被AI给骂了",
       "onboard_time": 1771946422,
       "rank": 36,
@@ -219,8 +219,16 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 150175,
-      "num": 150175,
+      "raw_hot": 150693,
+      "num": 198867,
+      "word": "将门独后",
+      "onboard_time": 1771947201,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150236,
+      "num": 150236,
       "word": "不内耗的人脑子里是这样想的",
       "onboard_time": 1771945642,
       "rank": 26,
@@ -235,16 +243,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144203,
-      "num": 198867,
-      "word": "将门独后",
-      "onboard_time": 1771947201,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 137780,
+      "num": 137780,
+      "word": "中方回应特朗普3月31日将访问中国",
+      "onboard_time": 1771941143,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136775,
-      "num": 136037,
+      "num": 136465,
       "word": "俄乌冲突",
       "onboard_time": 1771933942,
       "rank": 18,
@@ -267,20 +275,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129180,
-      "num": 129180,
-      "word": "中方回应特朗普3月31日将访问中国",
-      "onboard_time": 1771941143,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 117551,
+      "num": 117551,
+      "word": "飞驰人生3彩蛋藏太深",
+      "onboard_time": 1771974618,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 117400,
-      "num": 85036,
+      "num": 99856,
       "word": "王安宇多给内娱留几个霸总吧",
       "onboard_time": 1771974435,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114788,
+      "num": 101292,
+      "word": "iPhone18Pro深红色",
+      "onboard_time": 1771974435,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 107371,
@@ -297,6 +313,22 @@
       "onboard_time": 1771945522,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99128,
+      "num": 99128,
+      "word": "掉在床缝里的物品有救了",
+      "onboard_time": 1771975037,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 98112,
+      "num": 98112,
+      "word": "瑶一瑶小肉包近30天掉粉4万",
+      "onboard_time": 1771934183,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 96346,
@@ -323,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91342,
-      "num": 83478,
-      "word": "iPhone18Pro深红色",
-      "onboard_time": 1771974435,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 90000,
       "num": 90000,
       "word": "穆祉丞发的是什么",
@@ -339,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88331,
-      "num": 88331,
-      "word": "瑶一瑶小肉包近30天掉粉4万",
-      "onboard_time": 1771934183,
-      "rank": 32,
-      "category": "网红"
+      "raw_hot": 87245,
+      "num": 87245,
+      "word": "丁程鑫一个人直播吃蛋糕",
+      "onboard_time": 1771975577,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 84855,
@@ -363,8 +387,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81959,
-      "num": 81959,
+      "raw_hot": 81981,
+      "num": 81981,
       "word": "春晚同款扫地机在全国卖爆了",
       "onboard_time": 1771974017,
       "rank": 49,
@@ -395,16 +419,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73440,
-      "num": 73440,
-      "word": "飞驰人生3彩蛋藏太深",
-      "onboard_time": 1771974618,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 78912,
+      "num": 78912,
+      "word": "米兰偶遇杨幂逛店",
+      "onboard_time": 1771976838,
+      "rank": 31,
+      "category": "艺人"
     },
     {
-      "raw_hot": 71295,
-      "num": 71295,
+      "raw_hot": 73176,
+      "num": 73176,
+      "word": "欧冠",
+      "onboard_time": 1771976779,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71570,
+      "num": 71570,
       "word": "于正分享3个月瘦30斤秘诀",
       "onboard_time": 1771936223,
       "rank": 32,
@@ -451,22 +483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 64855,
-      "num": 73245,
-      "word": "掉在床缝里的物品有救了",
-      "onboard_time": 1771975037,
-      "rank": 29,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 64093,
-      "num": 64093,
-      "word": "丁程鑫一个人直播吃蛋糕",
-      "onboard_time": 1771975577,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63390,
       "num": 63390,
       "word": "男子误喝过期牛奶暴瘦53斤",
@@ -483,12 +499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61849,
+      "num": 61849,
+      "word": "日本旅游团齐声高唱声援以色列",
+      "onboard_time": 1771941862,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60832,
       "num": 60832,
       "word": "宇树发布四足机器人As2",
       "onboard_time": 1771944503,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 58771,
+      "num": 58771,
+      "word": "Gucci出发图",
+      "onboard_time": 1771976358,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 57699,
@@ -499,12 +531,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 57449,
-      "num": 57449,
-      "word": "日本旅游团齐声高唱声援以色列",
-      "onboard_time": 1771941862,
-      "rank": 36,
-      "category": "海外新闻"
+      "raw_hot": 57241,
+      "num": 57241,
+      "word": "金价波动",
+      "onboard_time": 1771933942,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 57045,
@@ -563,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44027,
-      "num": 44027,
-      "word": "金价波动",
-      "onboard_time": 1771933942,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 37489,
       "num": 37489,
       "word": "江湖夜雨十年灯",
@@ -585,6 +609,14 @@
       "onboard_time": 1771936881,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30306,
+      "num": 61687,
+      "word": "涉事动物园回应工作人员被掌掴",
+      "onboard_time": 1771977139,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28498,
@@ -611,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23992,
+      "num": 607639,
+      "word": "九组数据感受万马奔腾的活力春节",
+      "onboard_time": 1771938261,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22494,
       "num": 24744,
       "word": "飞驰人生3",
@@ -625,14 +665,6 @@
       "onboard_time": 1771972515,
       "rank": 45,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 20726,
-      "num": 536924,
-      "word": "九组数据感受万马奔腾的活力春节",
-      "onboard_time": 1771938261,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20034,
