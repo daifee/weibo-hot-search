@@ -1,7 +1,15 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1771989788971,
+  "endTime": 1771995653213,
   "band_list": [
+    {
+      "raw_hot": 1274654,
+      "num": 610436,
+      "word": "多少滞留三亚的人被自己穷笑了",
+      "onboard_time": 1771993281,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1153911,
       "num": 187006,
@@ -43,6 +51,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 756689,
+      "num": 1121070,
+      "word": "三亚通报在职教师被开除",
+      "onboard_time": 1771991541,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 657615,
       "num": 1047735,
       "word": "王楚钦鹰眼挑战失败",
@@ -75,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552831,
+      "num": 793802,
+      "word": "游客在三亚沙滩写不想上班",
+      "onboard_time": 1771989919,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531411,
       "num": 177543,
       "word": "江西一家人自驾返程出车祸1死4伤",
@@ -99,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478975,
+      "num": 180023,
+      "word": "继父亲吻女童时母亲就在现场",
+      "onboard_time": 1771990400,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435439,
       "num": 174462,
       "word": "肖战的鼻间痣好像小狐狸",
@@ -113,6 +145,22 @@
       "onboard_time": 1771975517,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388489,
+      "num": 388489,
+      "word": "考公火爆缩编却开始了",
+      "onboard_time": 1771992680,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369194,
+      "num": 180409,
+      "word": "时代峰峻高会否认时代少年团单飞",
+      "onboard_time": 1771989021,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 356872,
@@ -137,6 +185,14 @@
       "onboard_time": 1771953676,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 327573,
+      "num": 327573,
+      "word": "交警回应女子随手拍举报20多辆车",
+      "onboard_time": 1771991002,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 323729,
@@ -179,6 +235,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 270500,
+      "num": 270500,
+      "word": "你打字吧 你字好看",
+      "onboard_time": 1771994542,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261235,
       "num": 172007,
       "word": "TVB演员游飚去世",
@@ -203,10 +267,34 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257410,
+      "num": 178240,
+      "word": "肖战平底鞋",
+      "onboard_time": 1771988959,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 248843,
+      "num": 177915,
+      "word": "王橹杰彩烟应援",
+      "onboard_time": 1771993881,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246461,
-      "num": 171386,
+      "num": 174315,
       "word": "继父曾发布女童穿短裙高跟鞋视频",
       "onboard_time": 1771987340,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243099,
+      "num": 176834,
+      "word": "女儿出嫁父亲退回彩礼送上两沓现金",
+      "onboard_time": 1771992860,
       "rank": 20,
       "category": "民生新闻"
     },
@@ -251,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227550,
+      "num": 227550,
+      "word": "王楚然丞磊伟大的杀青梗",
+      "onboard_time": 1771990882,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227152,
       "num": 227152,
       "word": "剑来 魔改",
@@ -291,6 +387,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218502,
+      "num": 176515,
+      "word": "校服的裙摆开播",
+      "onboard_time": 1771994121,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216258,
+      "num": 175882,
+      "word": "我们的少年时代2",
+      "onboard_time": 1771984401,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209715,
       "num": 165407,
       "word": "曝杨洋手里不缺剧本",
@@ -307,12 +419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201367,
+      "num": 175382,
+      "word": "唐宫结局封神",
+      "onboard_time": 1771991541,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199341,
       "num": 199341,
       "word": "牛奶灌溉草莓卖出360元天价",
       "onboard_time": 1771947381,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192394,
+      "num": 174723,
+      "word": "单依纯二巡官宣",
+      "onboard_time": 1771995501,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 188986,
@@ -355,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174294,
+      "num": 174294,
+      "word": "黄景瑜关晓彤新剧初吻",
+      "onboard_time": 1771994901,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174084,
       "num": 174084,
       "word": "碧血蝉",
@@ -369,6 +505,14 @@
       "onboard_time": 1771934901,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171379,
+      "num": 159823,
+      "word": "难怪考试不让上厕所",
+      "onboard_time": 1771995141,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 169604,
@@ -411,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163550,
+      "num": 163550,
+      "word": "想给老人买杯水辗转多家奶茶店被拒",
+      "onboard_time": 1771993161,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163285,
       "num": 163285,
       "word": "四六级查分时间",
@@ -425,6 +577,22 @@
       "onboard_time": 1771946003,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157871,
+      "num": 157871,
+      "word": "中秋请3天假堪比春节",
+      "onboard_time": 1771995320,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152489,
+      "num": 152489,
+      "word": "14岁谷爱凌在上海街头说这么多老外",
+      "onboard_time": 1771994840,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 151918,
@@ -451,8 +619,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142666,
-      "num": 142666,
+      "raw_hot": 147491,
+      "num": 147491,
+      "word": "熟人羞耻症",
+      "onboard_time": 1771992080,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144933,
+      "num": 144933,
       "word": "贾冰已确诊黄景瑜唯粉",
       "onboard_time": 1771989320,
       "rank": 28,
@@ -467,20 +643,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137428,
+      "num": 137428,
+      "word": "芒果音综看到内娱第四大群像",
+      "onboard_time": 1771995201,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136775,
       "num": 136465,
       "word": "俄乌冲突",
       "onboard_time": 1771933942,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 134454,
-      "num": 134454,
-      "word": "肖战平底鞋",
-      "onboard_time": 1771988959,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 134013,
@@ -499,11 +675,43 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132936,
+      "num": 122437,
+      "word": "袁一琦居然当了芒果甲方",
+      "onboard_time": 1771994661,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132602,
+      "num": 120510,
+      "word": "大侦探",
+      "onboard_time": 1771994243,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130552,
       "num": 130552,
       "word": "王楚钦回应鹰眼挑战失败",
       "onboard_time": 1771989200,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128557,
+      "num": 121077,
+      "word": "张新成一条裤子系了两根皮带",
+      "onboard_time": 1771995081,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125855,
+      "num": 125855,
+      "word": "谷爱凌回应冬奥神图出圈",
+      "onboard_time": 1771995261,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -513,6 +721,14 @@
       "onboard_time": 1771978400,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121116,
+      "num": 115007,
+      "word": "国产剧里无色无味但剧毒的老实人",
+      "onboard_time": 1771991962,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 117551,
@@ -537,6 +753,22 @@
       "onboard_time": 1771989440,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107728,
+      "num": 101564,
+      "word": "小S女儿lily回应首次参加大秀",
+      "onboard_time": 1771993822,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107413,
+      "num": 107413,
+      "word": "陈奕恒开机照",
+      "onboard_time": 1771993881,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 107371,
@@ -579,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101758,
+      "num": 101758,
+      "word": "新郎回应岳父婚礼现场退还18.8万彩礼",
+      "onboard_time": 1771994423,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100152,
       "num": 100152,
       "word": "我们的少年时代2开机日",
@@ -593,6 +833,14 @@
       "onboard_time": 1771975037,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 99014,
+      "num": 159953,
+      "word": "默茨抵达北京开始访华",
+      "onboard_time": 1771990340,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98112,
@@ -729,14 +977,6 @@
       "onboard_time": 1771983382,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83294,
-      "num": 83294,
-      "word": "我们的少年时代2",
-      "onboard_time": 1771984401,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 83202,
@@ -979,11 +1219,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48509,
+      "num": 646029,
+      "word": "春节国内出游5.96亿人次",
+      "onboard_time": 1771990400,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46714,
       "num": 46714,
       "word": "何浩楠出国五天发几十条报备微博",
       "onboard_time": 1771949660,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46383,
+      "num": 177026,
+      "word": "王鹤棣眼神杀",
+      "onboard_time": 1771992680,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1033,6 +1289,14 @@
       "onboard_time": 1771949120,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25129,
+      "num": 109124,
+      "word": "琉球父母被迫杀死孩子后自杀",
+      "onboard_time": 1771995621,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25125,
@@ -1089,6 +1353,14 @@
       "onboard_time": 1771937422,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 18145,
+      "num": 111444,
+      "word": "退彩礼新娘否认自己是恋爱脑",
+      "onboard_time": 1771995621,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17750,
