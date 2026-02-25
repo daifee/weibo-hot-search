@@ -1,7 +1,15 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1771999806755,
+  "endTime": 1772001655221,
   "band_list": [
+    {
+      "raw_hot": 1700156,
+      "num": 300540,
+      "word": "谢娜恳请不要将镜头对准孩子",
+      "onboard_time": 1771999401,
+      "rank": 12,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1474660,
       "num": 1474660,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 883088,
-      "num": 133491,
+      "num": 163908,
       "word": "鹿哈官宣得女",
       "onboard_time": 1771997181,
       "rank": 21,
@@ -49,6 +57,14 @@
       "onboard_time": 1771974435,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 837921,
+      "num": 164937,
+      "word": "钱枫近况",
+      "onboard_time": 1772001261,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 820747,
@@ -99,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 600990,
+      "num": 164693,
+      "word": "曝李佳琦过年给亲戚每人发了500红包",
+      "onboard_time": 1771999342,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591131,
       "num": 251426,
       "word": "为什么谷爱凌比赛前要放两撮头发",
@@ -131,12 +155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 546105,
+      "num": 812412,
+      "word": "获退的18万彩礼已所剩无几",
+      "onboard_time": 1771998499,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531411,
       "num": 177543,
       "word": "江西一家人自驾返程出车祸1死4伤",
       "onboard_time": 1771944023,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496803,
+      "num": 164317,
+      "word": "曝短剧出现男演员揩油镜头",
+      "onboard_time": 1772000662,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 492628,
@@ -180,7 +220,7 @@
     },
     {
       "raw_hot": 421584,
-      "num": 130433,
+      "num": 163762,
       "word": "韦雪新男友首曝光",
       "onboard_time": 1771998499,
       "rank": 23,
@@ -235,14 +275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 337294,
-      "num": 337294,
-      "word": "获退的18万彩礼已所剩无几",
-      "onboard_time": 1771998499,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 327573,
       "num": 327573,
       "word": "交警回应女子随手拍举报20多辆车",
@@ -265,14 +297,6 @@
       "onboard_time": 1771985602,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 318962,
-      "num": 300540,
-      "word": "谢娜恳请不要将镜头对准孩子",
-      "onboard_time": 1771999401,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 309332,
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 279866,
-      "num": 125593,
+      "num": 164489,
       "word": "23岁香港女警在警署身亡",
       "onboard_time": 1771998499,
       "rank": 30,
@@ -371,11 +395,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257441,
+      "num": 257441,
+      "word": "华策解散电影部门",
+      "onboard_time": 1771996823,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 257410,
       "num": 229777,
       "word": "肖战平底鞋",
       "onboard_time": 1771988959,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 254580,
+      "num": 164244,
+      "word": "闵熙珍放弃255亿韩元赔偿",
+      "onboard_time": 1771997660,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -441,6 +481,14 @@
       "onboard_time": 1771984941,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233071,
+      "num": 164790,
+      "word": "iPhone 自动打电话",
+      "onboard_time": 1771997240,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 227550,
@@ -579,20 +627,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178396,
-      "num": 130226,
-      "word": "闵熙珍放弃255亿韩元赔偿",
-      "onboard_time": 1771997660,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176047,
       "num": 176047,
       "word": "不内耗的人脑子里是这样想的",
       "onboard_time": 1771945642,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175730,
+      "num": 175730,
+      "word": "爸爸奶奶相继离世网友跟空房子再见",
+      "onboard_time": 1771996520,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174084,
@@ -625,14 +673,6 @@
       "onboard_time": 1771934543,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168676,
-      "num": 127523,
-      "word": "曝李佳琦过年给亲戚每人发了500红包",
-      "onboard_time": 1771999342,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 168409,
@@ -673,14 +713,6 @@
       "onboard_time": 1771988541,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 162306,
-      "num": 133562,
-      "word": "华策解散电影部门",
-      "onboard_time": 1771996823,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 159871,
@@ -755,14 +787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 135648,
-      "num": 135648,
-      "word": "爸爸奶奶相继离世网友跟空房子再见",
-      "onboard_time": 1771996520,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135451,
       "num": 125050,
       "word": "白鹿说跟王鹤棣认识五年了",
@@ -795,20 +819,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130927,
+      "num": 114073,
+      "word": "如果故人留给你的遗物是一个孩子",
+      "onboard_time": 1771999401,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130552,
       "num": 130552,
       "word": "王楚钦回应鹰眼挑战失败",
       "onboard_time": 1771989200,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129344,
-      "num": 129344,
-      "word": "iPhone 自动打电话",
-      "onboard_time": 1771997240,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 128557,
@@ -875,11 +899,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115688,
+      "num": 115688,
+      "word": "凌晨2点iPhone自动拨电话",
+      "onboard_time": 1772001502,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 112149,
       "num": 112149,
       "word": "老人食用冰箱内剩菜患脑膜炎进ICU",
       "onboard_time": 1771997960,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110945,
+      "num": 128261,
+      "word": "花35万买房发现装修完住着陌生人",
+      "onboard_time": 1771999582,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109250,
+      "num": 109250,
+      "word": "英国白人女婿吃砂糖橘吃成贵州本地人",
+      "onboard_time": 1771997060,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -979,28 +1027,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102624,
-      "num": 102624,
-      "word": "如果故人留给你的遗物是一个孩子",
-      "onboard_time": 1771999401,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 102185,
       "num": 102185,
       "word": "爱你开播一周年",
       "onboard_time": 1771989680,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101287,
-      "num": 101287,
-      "word": "英国白人女婿吃砂糖橘吃成贵州本地人",
-      "onboard_time": 1771997060,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101051,
@@ -1043,6 +1075,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 97573,
+      "num": 97573,
+      "word": "刘浩存从小就长这样",
+      "onboard_time": 1772000662,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96826,
       "num": 96826,
       "word": "在集市上花了二十块钱买的小狗",
@@ -1075,6 +1115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94306,
+      "num": 94306,
+      "word": "高市早苗政府再次挑衅",
+      "onboard_time": 1772000900,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93527,
       "num": 93527,
       "word": "多款相机价格暴涨近10倍",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1771977499,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92809,
+      "num": 92809,
+      "word": "霍格沃兹来了个东方转校生",
+      "onboard_time": 1771998800,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 90000,
@@ -1168,6 +1224,14 @@
       "word": "男子服务区捡走千元红包该不该拿走",
       "onboard_time": 1771983382,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83690,
+      "num": 83690,
+      "word": "平顶山打人夫妻或从重处罚",
+      "onboard_time": 1771997361,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1395,12 +1459,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50648,
+      "num": 95106,
+      "word": "刘宇宁那个油盐不进的男人来了",
+      "onboard_time": 1772001621,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49893,
       "num": 49893,
       "word": "杨博文周扬证件照",
       "onboard_time": 1771950260,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48942,
+      "num": 93092,
+      "word": "王橹杰嘴一抿哞一声就背起来了",
+      "onboard_time": 1772000424,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 48901,
@@ -1443,11 +1523,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45189,
-      "num": 128261,
-      "word": "花35万买房发现装修完住着陌生人",
-      "onboard_time": 1771999582,
-      "rank": 27,
+      "raw_hot": 38904,
+      "num": 94347,
+      "word": "360元1斤的草莓今年已售罄",
+      "onboard_time": 1772000241,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1480,6 +1560,14 @@
       "word": "男子悉心照料芦荟3年发现是塑料的",
       "onboard_time": 1771999460,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35207,
+      "num": 119980,
+      "word": "贵州一地发倡议双方二婚不许摆酒",
+      "onboard_time": 1772001441,
+      "rank": 26,
       "category": "民生新闻"
     },
     {

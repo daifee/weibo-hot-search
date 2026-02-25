@@ -1,0 +1,410 @@
+{
+  "runTime": 1772001655221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 991393,
+        "num": 1158622,
+        "word": "中秋请3天假堪比春节",
+        "onboard_time": 1771995320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 546105,
+        "num": 812412,
+        "word": "获退的18万彩礼已所剩无几",
+        "onboard_time": 1771998499,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31468,
+        "num": 691076,
+        "word": "春节国内出游5.96亿人次",
+        "onboard_time": 1771990400,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478407,
+        "num": 478407,
+        "word": "多少滞留三亚的人被自己穷笑了",
+        "onboard_time": 1771993281,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476248,
+        "num": 476248,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1771997119,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257441,
+        "num": 257441,
+        "word": "华策解散电影部门",
+        "onboard_time": 1771996823,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249987,
+        "num": 249987,
+        "word": "三亚通报在职教师被开除",
+        "onboard_time": 1771991541,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 230256,
+        "num": 230256,
+        "word": "难怪考试不让上厕所",
+        "onboard_time": 1771995141,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175730,
+        "num": 175730,
+        "word": "爸爸奶奶相继离世网友跟空房子再见",
+        "onboard_time": 1771996520,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165070,
+        "num": 165070,
+        "word": "14岁谷爱凌在上海街头说这么多老外",
+        "onboard_time": 1771994840,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1700156,
+        "num": 164966,
+        "word": "谢娜恳请不要将镜头对准孩子",
+        "onboard_time": 1771999401,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 837921,
+        "num": 164937,
+        "word": "钱枫近况",
+        "onboard_time": 1772001261,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233071,
+        "num": 164790,
+        "word": "iPhone 自动打电话",
+        "onboard_time": 1771997240,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 600990,
+        "num": 164693,
+        "word": "曝李佳琦过年给亲戚每人发了500红包",
+        "onboard_time": 1771999342,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507603,
+        "num": 164541,
+        "word": "杨幂柳智敏撞衫",
+        "onboard_time": 1771996701,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232005,
+        "num": 164489,
+        "word": "23岁香港女警在警署身亡",
+        "onboard_time": 1771998499,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496803,
+        "num": 164317,
+        "word": "曝短剧出现男演员揩油镜头",
+        "onboard_time": 1772000662,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254580,
+        "num": 164244,
+        "word": "闵熙珍放弃255亿韩元赔偿",
+        "onboard_time": 1771997660,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210482,
+        "num": 164116,
+        "word": "你打字吧 你字好看",
+        "onboard_time": 1771994542,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180350,
+        "num": 163999,
+        "word": "刘强东已接到5条大型游艇订单",
+        "onboard_time": 1771987400,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 809417,
+        "num": 163908,
+        "word": "鹿哈官宣得女",
+        "onboard_time": 1771997181,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341126,
+        "num": 163762,
+        "word": "韦雪新男友首曝光",
+        "onboard_time": 1771998499,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163754,
+        "num": 163754,
+        "word": "琉球父母被迫杀死孩子后自杀",
+        "onboard_time": 1771995621,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210676,
+        "num": 154978,
+        "word": "吴昕自曝录制快本三四个月还是想走",
+        "onboard_time": 1771941264,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135216,
+        "num": 135216,
+        "word": "时代峰峻高会否认时代少年团单飞",
+        "onboard_time": 1771989021,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120894,
+        "num": 120894,
+        "word": "谷爱凌回应冬奥神图出圈",
+        "onboard_time": 1771995261,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35207,
+        "num": 119980,
+        "word": "贵州一地发倡议双方二婚不许摆酒",
+        "onboard_time": 1772001441,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126464,
+        "num": 119921,
+        "word": "白鹿说跟王鹤棣认识五年了",
+        "onboard_time": 1771998320,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119605,
+        "num": 119605,
+        "word": "王橹杰彩烟应援",
+        "onboard_time": 1771993881,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115688,
+        "num": 115688,
+        "word": "凌晨2点iPhone自动拨电话",
+        "onboard_time": 1772001502,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130927,
+        "num": 114073,
+        "word": "如果故人留给你的遗物是一个孩子",
+        "onboard_time": 1771999401,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116255,
+        "num": 112887,
+        "word": "单依纯二巡官宣",
+        "onboard_time": 1771995501,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110945,
+        "num": 110945,
+        "word": "花35万买房发现装修完住着陌生人",
+        "onboard_time": 1771999582,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109884,
+        "num": 109884,
+        "word": "上海发布楼市沪七条",
+        "onboard_time": 1771998681,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109250,
+        "num": 109250,
+        "word": "英国白人女婿吃砂糖橘吃成贵州本地人",
+        "onboard_time": 1771997060,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98307,
+        "num": 98307,
+        "word": "黄景瑜关晓彤新剧初吻",
+        "onboard_time": 1771994901,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97573,
+        "num": 97573,
+        "word": "刘浩存从小就长这样",
+        "onboard_time": 1772000662,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96855,
+        "num": 96855,
+        "word": "Supreme棺材",
+        "onboard_time": 1771999102,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50648,
+        "num": 95106,
+        "word": "刘宇宁那个油盐不进的男人来了",
+        "onboard_time": 1772001621,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39368,
+        "num": 94480,
+        "word": "真正让大脑逆龄的运动",
+        "onboard_time": 1771998861,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 38904,
+        "num": 94347,
+        "word": "360元1斤的草莓今年已售罄",
+        "onboard_time": 1772000241,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94306,
+        "num": 94306,
+        "word": "高市早苗政府再次挑衅",
+        "onboard_time": 1772000900,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93671,
+        "num": 93671,
+        "word": "我们的少年时代2",
+        "onboard_time": 1771984401,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48942,
+        "num": 93092,
+        "word": "王橹杰嘴一抿哞一声就背起来了",
+        "onboard_time": 1772000424,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92809,
+        "num": 92809,
+        "word": "霍格沃兹来了个东方转校生",
+        "onboard_time": 1771998800,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89126,
+        "num": 89126,
+        "word": "伊能静尝试生酮饮食半年瘦到86斤",
+        "onboard_time": 1771983439,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88573,
+        "num": 88573,
+        "word": "肖战平底鞋",
+        "onboard_time": 1771988959,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86096,
+        "num": 86096,
+        "word": "我的朋友圈点赞原则",
+        "onboard_time": 1771998201,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83690,
+        "num": 83690,
+        "word": "平顶山打人夫妻或从重处罚",
+        "onboard_time": 1771997361,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80822,
+        "num": 80822,
+        "word": "王楚钦回抛约36度",
+        "onboard_time": 1771995860,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视领导干部政绩观问题#"
+    }
+  }
+}
