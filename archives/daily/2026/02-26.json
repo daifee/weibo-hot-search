@@ -1,6 +1,6 @@
 {
   "startTime": 1772036028289,
-  "endTime": 1772059356299,
+  "endTime": 1772060562185,
   "band_list": [
     {
       "raw_hot": 965437,
@@ -323,6 +323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76125,
+      "num": 76125,
+      "word": "江湖夜雨十年灯",
+      "onboard_time": 1772038697,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75385,
       "num": 74117,
       "word": "纯真年代的爱情",
@@ -387,14 +395,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 59771,
-      "num": 59771,
-      "word": "江湖夜雨十年灯",
-      "onboard_time": 1772038697,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 50566,
       "num": 50566,
       "word": "好友对程潇出道十周年的祝福",
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 41665,
-      "num": 41665,
+      "num": 41772,
       "word": "王者荣耀",
       "onboard_time": 1772024242,
       "rank": 24,
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33472,
+      "num": 33472,
+      "word": "电影镖人",
+      "onboard_time": 1772042956,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30242,
       "num": 30242,
       "word": "郭晓婷王天辰疯狂拉扯",
@@ -468,19 +476,19 @@
     },
     {
       "raw_hot": 28482,
-      "num": 27072,
+      "num": 28597,
       "word": "虞书欣打卡粉丝留言墙",
       "onboard_time": 1772038518,
       "rank": 38,
       "category": "艺人"
     },
     {
-      "raw_hot": 26755,
-      "num": 26755,
-      "word": "电影镖人",
-      "onboard_time": 1772042956,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 23389,
+      "num": 28661,
+      "word": "中灵山坠亡女子丈夫称妻子提出登山",
+      "onboard_time": 1772045835,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22860,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 19697,
-      "num": 19697,
+      "num": 28590,
       "word": "成何体统",
       "onboard_time": 1772036240,
       "rank": 45,
@@ -515,12 +523,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 19342,
-      "num": 19342,
-      "word": "中灵山坠亡女子丈夫称妻子提出登山",
-      "onboard_time": 1772045835,
-      "rank": 43,
+      "raw_hot": 17797,
+      "num": 28642,
+      "word": "唐尚珺含泪拆除老屋",
+      "onboard_time": 1772044694,
+      "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17529,
+      "num": 360152,
+      "word": "米兰冬奥风雪18天",
+      "onboard_time": 1772025382,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14954,
@@ -531,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14736,
+      "num": 28629,
+      "word": "鳌鱼飞天也太惊艳了吧",
+      "onboard_time": 1772050154,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 13267,
       "num": 18559,
       "word": "谷爱凌的评论区满是安慰和鼓励",
@@ -539,36 +563,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13253,
-      "num": 18612,
-      "word": "唐尚珺含泪拆除老屋",
-      "onboard_time": 1772044694,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13237,
-      "num": 271051,
-      "word": "米兰冬奥风雪18天",
-      "onboard_time": 1772025382,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12370,
-      "num": 18584,
+      "raw_hot": 13060,
+      "num": 28615,
       "word": "中德关系对欧洲和世界有重要辐射效应",
       "onboard_time": 1772042057,
       "rank": 49,
       "category": "国内时政"
     },
     {
-      "raw_hot": 10492,
-      "num": 18535,
-      "word": "鳌鱼飞天也太惊艳了吧",
-      "onboard_time": 1772050154,
-      "rank": 48,
-      "category": "旅游"
+      "raw_hot": 11579,
+      "num": 28600,
+      "word": "山西万荣县文旅局致歉",
+      "onboard_time": 1772060418,
+      "rank": 47,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
