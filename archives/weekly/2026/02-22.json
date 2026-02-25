@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771977358659,
+  "endTime": 1771987409980,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -281,6 +281,14 @@
       "onboard_time": 1771727481,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 820747,
+      "num": 175416,
+      "word": "伊能静尝试生酮饮食半年瘦到86斤",
+      "onboard_time": 1771983439,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 814281,
@@ -683,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561054,
+      "num": 174254,
+      "word": "台北餐厅冷库女尸案",
+      "onboard_time": 1771984040,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 555121,
       "num": 127829,
       "word": "服务区被撞身亡男童1个月前刚过生日",
@@ -867,6 +883,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 492628,
+      "num": 1078820,
+      "word": "宝马7系降价约27万",
+      "onboard_time": 1771979841,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 492005,
       "num": 989154,
       "word": "半夜出发的大聪明全堵在高速上了",
@@ -993,6 +1017,14 @@
       "onboard_time": 1771910061,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445767,
+      "num": 251426,
+      "word": "为什么谷爱凌比赛前要放两撮头发",
+      "onboard_time": 1771986319,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 444680,
@@ -1419,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356872,
+      "num": 797305,
+      "word": "教育局回应教师报考其他单位遭开除",
+      "onboard_time": 1771984759,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352953,
       "num": 213457,
       "word": "大年初五8岁男童虎跳峡坠崖遇难",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1771744279,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339964,
+      "num": 339964,
+      "word": "告白官宣王星越和邓恩熙",
+      "onboard_time": 1771986319,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 337730,
@@ -1649,6 +1697,14 @@
       "onboard_time": 1771974737,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307968,
+      "num": 172703,
+      "word": "iPhone18Pro深红色",
+      "onboard_time": 1771974435,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 307743,
@@ -2091,6 +2147,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 261235,
+      "num": 172007,
+      "word": "TVB演员游飚去世",
+      "onboard_time": 1771982660,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259949,
       "num": 259949,
       "word": "吴京回应镖人票房逆袭",
@@ -2187,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246461,
+      "num": 166496,
+      "word": "继父曾发布女童穿短裙高跟鞋视频",
+      "onboard_time": 1771987340,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246295,
       "num": 246295,
       "word": "徐梦桃说太嘚瑟了结果金牌被刮花",
@@ -2265,6 +2337,14 @@
       "onboard_time": 1771914801,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242913,
+      "num": 242913,
+      "word": "女子在加油站人肉插队躺后车引擎盖",
+      "onboard_time": 1771977740,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241732,
@@ -2523,6 +2603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223368,
+      "num": 223368,
+      "word": "女子返程堵车偶遇10年未见初恋",
+      "onboard_time": 1771977740,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222049,
       "num": 264396,
       "word": "台湾地震",
@@ -2643,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209715,
+      "num": 165407,
+      "word": "曝杨洋手里不缺剧本",
+      "onboard_time": 1771983680,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208383,
       "num": 136426,
       "word": "美29岁女教师与未成年发生关系被捕",
@@ -2697,6 +2793,14 @@
       "onboard_time": 1771771163,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201500,
+      "num": 163723,
+      "word": "海南涌现大量1折机票",
+      "onboard_time": 1771986381,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201338,
@@ -3051,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182028,
+      "num": 170914,
+      "word": "米兰偶遇杨幂逛店",
+      "onboard_time": 1771976838,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181777,
       "num": 181777,
       "word": "冬奥会",
@@ -3073,6 +3185,14 @@
       "onboard_time": 1771841541,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180461,
+      "num": 169796,
+      "word": "为什么亲戚买的车总是超出我的想象",
+      "onboard_time": 1771986381,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 180152,
@@ -3113,6 +3233,14 @@
       "onboard_time": 1771765581,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176047,
+      "num": 176047,
+      "word": "不内耗的人脑子里是这样想的",
+      "onboard_time": 1771945642,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 175816,
@@ -3291,6 +3419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168409,
+      "num": 168409,
+      "word": "月经一定程度上能反映气血状况",
+      "onboard_time": 1771977740,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 167599,
       "num": 167599,
       "word": "皇家马德里道歉",
@@ -3363,6 +3499,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 163670,
+      "num": 163670,
+      "word": "平顶山打人夫妻先后殴打4人",
+      "onboard_time": 1771978940,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163403,
       "num": 178263,
       "word": "机器人股价",
@@ -3419,6 +3563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159840,
+      "num": 159840,
+      "word": "金店店员称结婚不要强追五金",
+      "onboard_time": 1771984941,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159695,
       "num": 134036,
       "word": "金裕贞短发造型",
@@ -3449,6 +3601,14 @@
       "onboard_time": 1771840040,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157637,
+      "num": 157637,
+      "word": "碧血蝉",
+      "onboard_time": 1771978280,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 156402,
@@ -3595,14 +3755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150236,
-      "num": 150236,
-      "word": "不内耗的人脑子里是这样想的",
-      "onboard_time": 1771945642,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 150233,
       "num": 147990,
       "word": "丞磊王楚然共创回忆录",
@@ -3625,6 +3777,14 @@
       "onboard_time": 1771678462,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149312,
+      "num": 141426,
+      "word": "生酮饮食是个啥",
+      "onboard_time": 1771985602,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149159,
@@ -4299,6 +4459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125487,
+      "num": 125487,
+      "word": "网友偶遇谢霆锋狄波拉逛街",
+      "onboard_time": 1771978400,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125403,
       "num": 159960,
       "word": "墨西哥军方击毙大毒枭",
@@ -4745,14 +4913,6 @@
       "onboard_time": 1771752860,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114788,
-      "num": 101292,
-      "word": "iPhone18Pro深红色",
-      "onboard_time": 1771974435,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 114690,
@@ -5219,6 +5379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104441,
+      "num": 104441,
+      "word": "易烊千玺凭演技惊艳韩国人",
+      "onboard_time": 1771981821,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104141,
       "num": 102193,
       "word": "AL战胜WE",
@@ -5603,6 +5771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96826,
+      "num": 96826,
+      "word": "在集市上花了二十块钱买的小狗",
+      "onboard_time": 1771987160,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96780,
       "num": 96780,
       "word": "李方慧说和谷爱凌一个时代挺好的",
@@ -5641,6 +5817,22 @@
       "onboard_time": 1771846401,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95505,
+      "num": 95505,
+      "word": "Prada怼脸图",
+      "onboard_time": 1771984700,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95470,
+      "num": 113785,
+      "word": "一种过期了就不能吃的食物",
+      "onboard_time": 1771977559,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95277,
@@ -5769,6 +5961,14 @@
       "onboard_time": 1771946662,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92944,
+      "num": 92944,
+      "word": "62岁阿姨返程堵车久坐19小时进ICU",
+      "onboard_time": 1771977499,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92921,
@@ -6043,6 +6243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88555,
+      "num": 88555,
+      "word": "金饰价格跌到1564元",
+      "onboard_time": 1771984401,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88509,
       "num": 93539,
       "word": "张元英MiuMiu活动",
@@ -6091,12 +6299,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87907,
+      "num": 87907,
+      "word": "郭晓婷王天辰拍立得合照",
+      "onboard_time": 1771983140,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87845,
       "num": 87845,
       "word": "第一次见神经烟花",
       "onboard_time": 1771830801,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87770,
+      "num": 87770,
+      "word": "我们的少年时代2开机日",
+      "onboard_time": 1771985538,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 87753,
@@ -6113,6 +6337,14 @@
       "onboard_time": 1771838720,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 87713,
+      "num": 87713,
+      "word": "告白",
+      "onboard_time": 1771983979,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 87695,
@@ -6363,12 +6595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84048,
+      "num": 84048,
+      "word": "男子服务区捡走千元红包该不该拿走",
+      "onboard_time": 1771983382,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83551,
       "num": 83551,
       "word": "荣耀高管回应iPhoneAir降价挑战",
       "onboard_time": 1771928059,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 83202,
+      "num": 83202,
+      "word": "沈腾设计的超帅反踹车门没给镜头",
+      "onboard_time": 1771982540,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 83082,
@@ -6635,14 +6883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 78912,
-      "num": 78912,
-      "word": "米兰偶遇杨幂逛店",
-      "onboard_time": 1771976838,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78683,
       "num": 78683,
       "word": "家务机器人",
@@ -6705,6 +6945,14 @@
       "onboard_time": 1771776022,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77832,
+      "num": 77832,
+      "word": "用4年感受到了命运的推背感",
+      "onboard_time": 1771978041,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 77818,
@@ -6811,6 +7059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75343,
+      "num": 75343,
+      "word": "张元英流媒22.4w",
+      "onboard_time": 1771982899,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75308,
       "num": 75308,
       "word": "国投白银LOF自掏腰包补偿",
@@ -6875,6 +7131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73824,
+      "num": 73824,
+      "word": "我们的少年时代2",
+      "onboard_time": 1771984401,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73805,
       "num": 93537,
       "word": "女财神被游客追得满场跑",
@@ -6923,6 +7187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 73335,
+      "num": 72681,
+      "word": "朱志鑫出席Prada秋冬女装时装周",
+      "onboard_time": 1771982781,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73176,
       "num": 73176,
       "word": "欧冠",
@@ -6961,6 +7233,14 @@
       "onboard_time": 1771934363,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 72879,
+      "num": 72879,
+      "word": "远嫁女子控诉老公陪回娘家待不住",
+      "onboard_time": 1771977680,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72625,
@@ -7481,6 +7761,14 @@
       "onboard_time": 1771739300,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63542,
+      "num": 167386,
+      "word": "大爷欲购200万元黄金店员报警",
+      "onboard_time": 1771986440,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63301,
@@ -8289,6 +8577,14 @@
       "onboard_time": 1771782197,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38422,
+      "num": 87735,
+      "word": "美国2名警察遭枪击身亡",
+      "onboard_time": 1771986500,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 38140,
