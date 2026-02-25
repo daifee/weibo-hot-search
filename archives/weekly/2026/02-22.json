@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772020839502,
+  "endTime": 1772025742612,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1370233,
-      "num": 192997,
+      "num": 239063,
       "word": "张杰声援谢娜",
       "onboard_time": 1772011701,
       "rank": 21,
@@ -249,6 +249,14 @@
       "onboard_time": 1771856782,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 966387,
+      "num": 1154622,
+      "word": "孙颖莎黄牌",
+      "onboard_time": 1772023462,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 956412,
@@ -419,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 793969,
+      "num": 261894,
+      "word": "王橹杰壁纸",
+      "onboard_time": 1772022261,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 765814,
       "num": 331386,
       "word": "开了个公众号和父母进行魔法对轰",
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 687256,
+      "num": 529407,
+      "word": "一家4口上山妻子死亡失联时神情恐惧",
+      "onboard_time": 1772020162,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 686772,
       "num": 629862,
       "word": "镖人票房",
@@ -643,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 651657,
+      "num": 342411,
+      "word": "金价高的已经推出红绳戒指了",
+      "onboard_time": 1772022501,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 641556,
       "num": 122470,
       "word": "丁程鑫",
@@ -665,6 +697,14 @@
       "onboard_time": 1771944382,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 630615,
+      "num": 242339,
+      "word": "刘晓庆短剧吻戏",
+      "onboard_time": 1772022682,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 623586,
@@ -1347,14 +1387,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 429677,
-      "num": 529407,
-      "word": "一家4口上山妻子死亡失联时神情恐惧",
-      "onboard_time": 1772020162,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 429273,
       "num": 429273,
       "word": "韩女子用ChatGPT策划连环杀人案",
@@ -1579,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387263,
+      "num": 847143,
+      "word": "福建喊话回归台湾回复收到",
+      "onboard_time": 1772023762,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 387113,
       "num": 387113,
       "word": "黄金再迎直线跳水",
@@ -1673,6 +1713,14 @@
       "onboard_time": 1771842141,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370414,
+      "num": 370414,
+      "word": "半夜候补1700元旅客没在12306购票",
+      "onboard_time": 1772021662,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369934,
@@ -1809,6 +1857,14 @@
       "onboard_time": 1771945162,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349249,
+      "num": 349249,
+      "word": "孙颖莎不是我的分我坚决不要",
+      "onboard_time": 1772024482,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 347718,
@@ -2057,6 +2113,14 @@
       "onboard_time": 1771730901,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311295,
+      "num": 311295,
+      "word": "偏偏宠爱女主",
+      "onboard_time": 1772023102,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 309332,
@@ -2347,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285613,
+      "num": 166977,
+      "word": "拍谢娜双胞胎儿女的狗仔涉嫌违法",
+      "onboard_time": 1772023581,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285414,
       "num": 932402,
       "word": "谷爱凌U型场地决赛推迟",
@@ -2451,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270972,
+      "num": 270972,
+      "word": "魅族手机3月正式退市",
+      "onboard_time": 1772022381,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 270198,
       "num": 270198,
       "word": "谷爱凌李方慧 慧当凌绝顶",
@@ -2529,6 +2609,14 @@
       "onboard_time": 1771939104,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264708,
+      "num": 264708,
+      "word": "陶喆最终五站官宣",
+      "onboard_time": 1772020882,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 264643,
@@ -2763,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246885,
+      "num": 246885,
+      "word": "魅族",
+      "onboard_time": 1772023881,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 246571,
       "num": 246571,
       "word": "福建一398元60米高悬崖咖啡店走红",
@@ -2960,6 +3056,14 @@
       "word": "王婆说媒炫富男子实际年龄40岁",
       "onboard_time": 1771750459,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235043,
+      "num": 235043,
+      "word": "女子在胖东来1小时消费15万",
+      "onboard_time": 1772025624,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3307,6 +3411,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 213422,
+      "num": 162009,
+      "word": "湖南卫视元宵全阵容",
+      "onboard_time": 1772024902,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213145,
       "num": 213145,
       "word": "黄景瑜关晓彤新剧初吻",
@@ -3505,6 +3617,14 @@
       "onboard_time": 1771767982,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196542,
+      "num": 160560,
+      "word": "白鹿忘记自己会说韩语了",
+      "onboard_time": 1772024122,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 195735,
@@ -3851,6 +3971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179272,
+      "num": 179272,
+      "word": "19岁女生因经济舱综合征心脏骤停",
+      "onboard_time": 1772024062,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179084,
       "num": 179084,
       "word": "DK拒绝被T1零封",
@@ -4107,12 +4235,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 167876,
+      "num": 167876,
+      "word": "王者荣耀",
+      "onboard_time": 1772024242,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167599,
       "num": 167599,
       "word": "皇家马德里道歉",
       "onboard_time": 1771766602,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166793,
+      "num": 166793,
+      "word": "尘白禁区 中国邮政",
+      "onboard_time": 1772024602,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 166749,
@@ -4283,6 +4427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158804,
+      "num": 111396,
+      "word": "端王是世界上第一个接触EXO概念的",
+      "onboard_time": 1772023522,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158396,
       "num": 158396,
       "word": "石雷鹏 今天大概率出不了分",
@@ -4409,6 +4561,14 @@
       "onboard_time": 1771756880,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152546,
+      "num": 111354,
+      "word": "双轨",
+      "onboard_time": 1772023283,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 151918,
@@ -5243,6 +5403,14 @@
       "category": "海外新闻,互联网"
     },
     {
+      "raw_hot": 128203,
+      "num": 109972,
+      "word": "赵丽颖曾两次恳请别把镜头对准孩子",
+      "onboard_time": 1772025082,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128075,
       "num": 128075,
       "word": "成何体统",
@@ -5353,6 +5521,14 @@
       "onboard_time": 1771771763,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124729,
+      "num": 105198,
+      "word": "包上恩演技",
+      "onboard_time": 1772024362,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 124501,
@@ -5795,6 +5971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115274,
+      "num": 103908,
+      "word": "方穆静瞿桦 做恨",
+      "onboard_time": 1772023701,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115044,
       "num": 115044,
       "word": "陈凯文 双眼皮",
@@ -5993,6 +6177,14 @@
       "onboard_time": 1771906821,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111409,
+      "num": 111409,
+      "word": "孙颖莎3比1萨马拉",
+      "onboard_time": 1772023522,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 111334,
@@ -7003,6 +7195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95276,
+      "num": 95276,
+      "word": "薛之谦广州演唱会座位分布好合理",
+      "onboard_time": 1772025382,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95234,
       "num": 85701,
       "word": "唐嫣黑长直皮草造型",
@@ -7032,6 +7232,14 @@
       "word": "迪桑特 东北男人爆款战袍",
       "onboard_time": 1771918461,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94774,
+      "num": 167840,
+      "word": "司机高速上睡着致后方堵车12公里",
+      "onboard_time": 1772024721,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -7193,6 +7401,14 @@
       "onboard_time": 1771845202,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92887,
+      "num": 91737,
+      "word": "昆凌成周杰伦的防伪标识",
+      "onboard_time": 1772025682,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 92809,
@@ -8449,6 +8665,14 @@
       "onboard_time": 1772019442,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76028,
+      "num": 110452,
+      "word": "俄罗斯外交部声明",
+      "onboard_time": 1772024962,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75971,
@@ -9907,6 +10131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43501,
+      "num": 109312,
+      "word": "战略金属钨一年暴涨220%",
+      "onboard_time": 1772024721,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43110,
       "num": 296821,
       "word": "大年初六迎来春节假期返程高峰",
@@ -9945,6 +10177,14 @@
       "onboard_time": 1771930040,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41997,
+      "num": 107563,
+      "word": "19岁男生熬夜1年快秃顶找不到女友",
+      "onboard_time": 1772024902,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41876,
@@ -10225,6 +10465,14 @@
       "onboard_time": 1771938561,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32869,
+      "num": 107015,
+      "word": "女子心跳骤停因美甲无法探测血氧值",
+      "onboard_time": 1772025022,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31865,
@@ -10835,6 +11083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17071,
+      "num": 106148,
+      "word": "多维度支撑起活力满满的流动中国",
+      "onboard_time": 1772025203,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16475,
       "num": 151550,
       "word": "春节剩菜最好3天内吃完",
@@ -10987,6 +11243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10884,
+      "num": 638538,
+      "word": "春节假期多项数据创历史新高",
+      "onboard_time": 1772025442,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10819,
       "num": 653690,
       "word": "塞满的是后备箱温暖的是游子心",
@@ -11009,6 +11273,14 @@
       "onboard_time": 1771746501,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9034,
+      "num": 111367,
+      "word": "米兰冬奥风雪18天",
+      "onboard_time": 1772025382,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9029,
@@ -11079,6 +11351,9 @@
     },
     {
       "word": "#实干担当为民造福#"
+    },
+    {
+      "word": "#习近平会见默茨#"
     }
   ]
 }
