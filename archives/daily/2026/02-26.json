@@ -1,6 +1,6 @@
 {
   "startTime": 1772036028289,
-  "endTime": 1772062678001,
+  "endTime": 1772063642095,
   "band_list": [
     {
       "raw_hot": 965437,
@@ -11,20 +11,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 752882,
-      "num": 887039,
-      "word": "试管婴儿出生右脚缺4趾产检未发现",
-      "onboard_time": 1772031981,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 538354,
-      "num": 66613,
+      "raw_hot": 834635,
+      "num": 82368,
       "word": "向华强拒绝和向佑见面",
       "onboard_time": 1772060957,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 752882,
+      "num": 1017660,
+      "word": "试管婴儿出生右脚缺4趾产检未发现",
+      "onboard_time": 1772031981,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 534044,
@@ -43,12 +43,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 413324,
-      "num": 65486,
+      "raw_hot": 415408,
+      "num": 82368,
       "word": "向太拉黑小儿子向佑",
       "onboard_time": 1772060896,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393937,
+      "num": 723510,
+      "word": "女大学生坐硬座31小时返校心脏骤停",
+      "onboard_time": 1772030542,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 393346,
@@ -67,14 +75,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 368004,
-      "num": 636240,
-      "word": "女大学生坐硬座31小时返校心脏骤停",
-      "onboard_time": 1772030542,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 354405,
       "num": 162202,
       "word": "向华强说遗产都交给郭碧婷来管",
@@ -89,6 +89,14 @@
       "onboard_time": 1772015661,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308458,
+      "num": 308458,
+      "word": "短剧从哪找来这么像的三张脸",
+      "onboard_time": 1772061375,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 277669,
@@ -155,14 +163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203877,
-      "num": 203877,
-      "word": "短剧从哪找来这么像的三张脸",
-      "onboard_time": 1772061375,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187372,
       "num": 163460,
       "word": "广东英德1岁多走失男童已离世",
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146643,
+      "num": 146643,
+      "word": "获退18万彩礼女婿经济状况堪忧",
+      "onboard_time": 1772031262,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145796,
       "num": 145796,
       "word": "女子5.5克黄金戒指换新只剩下2克",
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121330,
+      "num": 108485,
+      "word": "财不入急门也不入脏门",
+      "onboard_time": 1772062097,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106846,
       "num": 106846,
       "word": "偏偏宠爱女主",
@@ -257,6 +273,14 @@
       "onboard_time": 1772032282,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102679,
+      "num": 102679,
+      "word": "继父亲吻女孩事件最新进展",
+      "onboard_time": 1772030363,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101236,
@@ -275,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94635,
+      "num": 94635,
+      "word": "贵阳一公园两座雕塑被指不雅",
+      "onboard_time": 1772062157,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92232,
       "num": 92232,
       "word": "江湖夜雨十年灯",
@@ -289,6 +321,14 @@
       "onboard_time": 1772022381,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 89924,
+      "num": 85614,
+      "word": "女子疑丈夫出轨闺蜜花9千雇人追踪",
+      "onboard_time": 1772027782,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89715,
@@ -315,22 +355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 85614,
-      "num": 85614,
-      "word": "女子疑丈夫出轨闺蜜花9千雇人追踪",
-      "onboard_time": 1772027782,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84274,
-      "num": 84274,
-      "word": "获退18万彩礼女婿经济状况堪忧",
-      "onboard_time": 1772031262,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83568,
       "num": 83568,
       "word": "孙颖莎黄牌",
@@ -347,20 +371,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81274,
-      "num": 81274,
-      "word": "继父亲吻女孩事件最新进展",
-      "onboard_time": 1772030363,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80818,
       "num": 109484,
       "word": "福建喊话回归台湾回复收到",
       "onboard_time": 1772023762,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78509,
+      "num": 69501,
+      "word": "美籍快艇闯入古巴领海并开火",
+      "onboard_time": 1772062097,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76431,
@@ -379,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72270,
+      "num": 72270,
+      "word": "靠爱不能维持一辈子的婚姻",
+      "onboard_time": 1772025742,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70897,
       "num": 70897,
       "word": "偏偏宠爱 陈飞宇",
@@ -395,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67105,
+      "num": 67105,
+      "word": "田柾国直播",
+      "onboard_time": 1772061557,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65254,
       "num": 65254,
       "word": "给你宇宙",
       "onboard_time": 1772034920,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64926,
+      "num": 64926,
+      "word": "晚5秒要付1700高速费当事人发声",
+      "onboard_time": 1772063359,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64842,
@@ -411,22 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64078,
-      "num": 64078,
-      "word": "财不入急门也不入脏门",
-      "onboard_time": 1772062097,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 63446,
-      "num": 63446,
-      "word": "靠爱不能维持一辈子的婚姻",
-      "onboard_time": 1772025742,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 60222,
       "num": 60222,
       "word": "菠菜最好吃的做法",
@@ -435,19 +467,27 @@
       "category": "美食"
     },
     {
-      "raw_hot": 53429,
-      "num": 53429,
-      "word": "贵阳一公园两座雕塑被指不雅",
-      "onboard_time": 1772062157,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 55896,
+      "num": 55896,
+      "word": "端王是世界上第一个接触EXO概念的",
+      "onboard_time": 1772023522,
+      "rank": 35,
+      "category": "剧集"
     },
     {
-      "raw_hot": 52719,
-      "num": 52719,
-      "word": "田柾国直播",
-      "onboard_time": 1772061557,
-      "rank": 28,
+      "raw_hot": 54425,
+      "num": 54425,
+      "word": "燕云十六声",
+      "onboard_time": 1772063359,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 51603,
+      "num": 51603,
+      "word": "肖战帽子盖不住两个耳朵",
+      "onboard_time": 1772019981,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -457,6 +497,14 @@
       "onboard_time": 1772035821,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48546,
+      "num": 48546,
+      "word": "俄乌冲突",
+      "onboard_time": 1772063417,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46168,
@@ -475,14 +523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 45342,
-      "num": 45342,
-      "word": "端王是世界上第一个接触EXO概念的",
-      "onboard_time": 1772023522,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44939,
       "num": 619970,
       "word": "春节假期多项数据创历史新高",
@@ -491,12 +531,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43092,
-      "num": 42205,
-      "word": "肖战帽子盖不住两个耳朵",
-      "onboard_time": 1772019981,
-      "rank": 37,
+      "raw_hot": 44115,
+      "num": 44115,
+      "word": "周杰伦田馥甄曾一起去英国游学",
+      "onboard_time": 1772063539,
+      "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42700,
+      "num": 42700,
+      "word": "人民币对美元汇率升破6.87",
+      "onboard_time": 1772062097,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 42217,
@@ -515,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39349,
+      "num": 39349,
+      "word": "提高免疫力的三个方法",
+      "onboard_time": 1772063359,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 37174,
       "num": 145375,
       "word": "Maria回归FENDI首秀",
@@ -529,14 +585,6 @@
       "onboard_time": 1772061977,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36623,
-      "num": 36623,
-      "word": "人民币对美元汇率升破6.87",
-      "onboard_time": 1772062097,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 35025,
@@ -595,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25844,
+      "num": 82383,
+      "word": "奶茶店为啥不卖热水",
+      "onboard_time": 1772063417,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22860,
       "num": 24700,
       "word": "王楚然长文告别庾晚音",
@@ -636,7 +692,7 @@
     },
     {
       "raw_hot": 17529,
-      "num": 520438,
+      "num": 577536,
       "word": "米兰冬奥风雪18天",
       "onboard_time": 1772025382,
       "rank": 2,
