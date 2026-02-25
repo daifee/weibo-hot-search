@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772001655221,
+  "endTime": 1772006314992,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -64,6 +64,14 @@
       "word": "谢娜恳请不要将镜头对准孩子",
       "onboard_time": 1771999401,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1623958,
+      "num": 170104,
+      "word": "钱枫近况",
+      "onboard_time": 1772001261,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 883088,
-      "num": 163908,
+      "num": 166898,
       "word": "鹿哈官宣得女",
       "onboard_time": 1771997181,
       "rank": 21,
@@ -313,14 +321,6 @@
       "onboard_time": 1771773923,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 837921,
-      "num": 164937,
-      "word": "钱枫近况",
-      "onboard_time": 1772001261,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 837519,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 600990,
-      "num": 164693,
+      "num": 166372,
       "word": "曝李佳琦过年给亲戚每人发了500红包",
       "onboard_time": 1771999342,
       "rank": 28,
@@ -971,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506162,
+      "num": 169900,
+      "word": "曝短剧出现男演员揩油镜头",
+      "onboard_time": 1772000662,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504072,
       "num": 180273,
       "word": "杨洋的不让江山妆造",
@@ -987,20 +995,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 496803,
-      "num": 164317,
-      "word": "曝短剧出现男演员揩油镜头",
-      "onboard_time": 1772000662,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 494530,
       "num": 494530,
       "word": "虹猫蓝兔七侠传回来了",
       "onboard_time": 1771743800,
       "rank": 7,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 493551,
+      "num": 493551,
+      "word": "两个月水费1847元水务公司怀疑马桶",
+      "onboard_time": 1772004261,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 492628,
@@ -1123,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455290,
+      "num": 792210,
+      "word": "逐玉",
+      "onboard_time": 1772002760,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454905,
       "num": 220682,
       "word": "大冰 谢谢您替我和小姑娘背负厄运",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1771838840,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 437321,
+      "num": 437321,
+      "word": "大年初六21岁女生因癌症离世",
+      "onboard_time": 1772004742,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 431324,
@@ -1523,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 373721,
+      "num": 169207,
+      "word": "徐冬冬尹子维婚礼前一天发生争执",
+      "onboard_time": 1772003121,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373275,
       "num": 246637,
       "word": "疑贝加尔湖事故车辆沉湖瞬间曝光",
@@ -1699,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340164,
+      "num": 170038,
+      "word": "腾讯元宝向用户道歉",
+      "onboard_time": 1772003481,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 337730,
       "num": 775993,
       "word": "惊蛰无声",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1771933942,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 323841,
+      "num": 323841,
+      "word": "23岁香港女警在警署身亡",
+      "onboard_time": 1771998499,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 323729,
@@ -2147,14 +2195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279866,
-      "num": 164489,
-      "word": "23岁香港女警在警署身亡",
-      "onboard_time": 1771998499,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 279577,
       "num": 279577,
       "word": "考研查分能不能给个确切的时间",
@@ -2499,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247131,
+      "num": 160142,
+      "word": "刘浩存从小就长这样",
+      "onboard_time": 1772000662,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246571,
       "num": 246571,
       "word": "福建一398元60米高悬崖咖啡店走红",
@@ -2740,7 +2788,7 @@
     },
     {
       "raw_hot": 233071,
-      "num": 164790,
+      "num": 211573,
       "word": "iPhone 自动打电话",
       "onboard_time": 1771997240,
       "rank": 25,
@@ -3747,6 +3795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170122,
+      "num": 170122,
+      "word": "镖人票房破9亿",
+      "onboard_time": 1772005161,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169526,
       "num": 169526,
       "word": "吃饭是一件很私密的事情",
@@ -4107,6 +4163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150330,
+      "num": 150330,
+      "word": "邵雨轩回应张小花比自己厉害",
+      "onboard_time": 1772005941,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 150233,
       "num": 147990,
       "word": "丞磊王楚然共创回忆录",
@@ -4355,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141822,
+      "num": 141822,
+      "word": "鲁豫回应每天只吃三粒米",
+      "onboard_time": 1772003722,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141620,
       "num": 141620,
       "word": "谷爱凌悲喜交加的一夜",
@@ -4459,6 +4531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137871,
+      "num": 137871,
+      "word": "短剧女主妆造梦回台偶韩偶巅峰",
+      "onboard_time": 1772004801,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137780,
       "num": 137780,
       "word": "中方回应特朗普3月31日将访问中国",
@@ -4521,6 +4601,14 @@
       "onboard_time": 1771893020,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136605,
+      "num": 145510,
+      "word": "小城市网购 AB货",
+      "onboard_time": 1772004801,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 136046,
@@ -5835,6 +5923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105695,
+      "num": 105695,
+      "word": "遇难女子失联前光着脚神情恐惧",
+      "onboard_time": 1772003181,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105542,
       "num": 105542,
       "word": "毁于一蛋",
@@ -5849,6 +5945,14 @@
       "onboard_time": 1771921521,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105323,
+      "num": 105323,
+      "word": "WBG对战iG",
+      "onboard_time": 1772002521,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 105103,
@@ -6251,6 +6355,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 98661,
+      "num": 98661,
+      "word": "日本人在动物园扮演大熊猫吸引游客",
+      "onboard_time": 1772003002,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98532,
       "num": 98532,
       "word": "偶遇宋亚轩刘耀文一起滑雪",
@@ -6297,14 +6409,6 @@
       "onboard_time": 1771724360,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97573,
-      "num": 97573,
-      "word": "刘浩存从小就长这样",
-      "onboard_time": 1772000662,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 97374,
@@ -6387,6 +6491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95869,
+      "num": 95869,
+      "word": "特朗普称美国人求他不要再赢了",
+      "onboard_time": 1772004980,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95720,
       "num": 89841,
       "word": "陈赫直播提及宋雨琦cut",
@@ -6457,6 +6569,14 @@
       "onboard_time": 1771825581,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94254,
+      "num": 94254,
+      "word": "原神",
+      "onboard_time": 1772004861,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 93969,
@@ -6723,6 +6843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90576,
+      "num": 90576,
+      "word": "你要开始才能很厉害",
+      "onboard_time": 1772006241,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90539,
       "num": 89219,
       "word": "青2陈品瑄自曝曾被性骚扰",
@@ -6953,6 +7081,14 @@
       "onboard_time": 1771920262,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 87454,
+      "num": 87454,
+      "word": "王灿回应撞脸蔡根花",
+      "onboard_time": 1772002882,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 87336,
@@ -7275,6 +7411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82481,
+      "num": 82481,
+      "word": "正常人不会刻意提起你的缺点",
+      "onboard_time": 1772006000,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82459,
       "num": 82459,
       "word": "NCT JNJM小分队",
@@ -7459,12 +7603,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79846,
+      "num": 79846,
+      "word": "一家人返程出车祸母亲哭到昏厥",
+      "onboard_time": 1772005701,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79476,
       "num": 79476,
       "word": "王楚钦吃面包",
       "onboard_time": 1771740619,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79429,
+      "num": 94427,
+      "word": "王安宇被狼人杀腌入味了",
+      "onboard_time": 1772005161,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 79173,
@@ -8259,6 +8419,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 65808,
+      "num": 168335,
+      "word": "王鹤棣一秒认出白鹿",
+      "onboard_time": 1772005642,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65762,
       "num": 118029,
       "word": "堵在路上的返程大军已老实",
@@ -8473,6 +8641,14 @@
       "onboard_time": 1771900881,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61327,
+      "num": 169184,
+      "word": "奥迪E5开年抢先优惠20.59万",
+      "onboard_time": 1772003060,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 61268,
@@ -9283,6 +9459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36426,
+      "num": 167662,
+      "word": "男子在餐厅吃鱼吃出鱼线鱼钩",
+      "onboard_time": 1772005760,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36374,
       "num": 43830,
       "word": "飞驰人生3",
@@ -9385,6 +9569,14 @@
       "onboard_time": 1771908381,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 30345,
+      "num": 142280,
+      "word": "AI助盲眼镜成出行神器",
+      "onboard_time": 1772001861,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 30306,
