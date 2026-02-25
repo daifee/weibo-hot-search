@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772010966625,
+  "endTime": 1772013930691,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1370233,
+      "num": 104933,
+      "word": "张杰声援谢娜",
+      "onboard_time": 1772011701,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1358190,
       "num": 211141,
       "word": "齐思钧回应分手",
@@ -235,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 956412,
+      "num": 203179,
+      "word": "元宝骂人",
+      "onboard_time": 1772010800,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 922653,
       "num": 260102,
       "word": "单依纯 蔻驰",
@@ -313,6 +329,14 @@
       "onboard_time": 1771974435,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 847244,
+      "num": 529899,
+      "word": "代露娃 短剧",
+      "onboard_time": 1772010800,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 844606,
@@ -793,6 +817,14 @@
       "onboard_time": 1771929503,
       "rank": 13,
       "category": "数码,财经"
+    },
+    {
+      "raw_hot": 561761,
+      "num": 1089881,
+      "word": "北京一独居女子去世房产归国家",
+      "onboard_time": 1772010862,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 561241,
@@ -1299,6 +1331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 429273,
+      "num": 429273,
+      "word": "韩女子用ChatGPT策划连环杀人案",
+      "onboard_time": 1772011701,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 428331,
       "num": 428331,
       "word": "泰国官方通报清迈72只老虎死亡",
@@ -1617,14 +1657,6 @@
       "onboard_time": 1771748000,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 369628,
-      "num": 369628,
-      "word": "代露娃 短剧",
-      "onboard_time": 1772010800,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 369194,
@@ -3083,6 +3115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219146,
+      "num": 219146,
+      "word": "不要低估两片紫菜的威力",
+      "onboard_time": 1772010503,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218831,
       "num": 218831,
       "word": "短道速滑",
@@ -3691,6 +3731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178555,
+      "num": 95477,
+      "word": "黄晓明审美",
+      "onboard_time": 1772012721,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177215,
       "num": 177215,
       "word": "神仙肉女主人设",
@@ -3905,6 +3953,14 @@
       "onboard_time": 1771771763,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169031,
+      "num": 116988,
+      "word": "新娘说退18万彩礼是心疼丈夫的不易",
+      "onboard_time": 1772008822,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168848,
@@ -4177,6 +4233,14 @@
       "onboard_time": 1771862300,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153765,
+      "num": 153765,
+      "word": "离职后发现了不同人的时钟",
+      "onboard_time": 1772012421,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 153745,
@@ -4987,6 +5051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128916,
+      "num": 128916,
+      "word": "春节档票房 回到18年",
+      "onboard_time": 1772011641,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128654,
       "num": 128654,
       "word": "金饰价格涨到1586元",
@@ -5473,14 +5545,6 @@
       "onboard_time": 1771901000,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116988,
-      "num": 116988,
-      "word": "新娘说退18万彩礼是心疼丈夫的不易",
-      "onboard_time": 1772008822,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116766,
@@ -6003,6 +6067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106914,
+      "num": 91348,
+      "word": "肖战和保镖体型差",
+      "onboard_time": 1772012961,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 106889,
       "num": 180554,
       "word": "平台回应夫妻春节送外卖1个月赚4万",
@@ -6083,6 +6155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105449,
+      "num": 103775,
+      "word": "王安宇民及民以下身份的绝对好人",
+      "onboard_time": 1772013621,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105379,
       "num": 105379,
       "word": "董璇张维伊带小酒窝回北京",
@@ -6097,6 +6177,14 @@
       "onboard_time": 1771697236,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105045,
+      "num": 105045,
+      "word": "华策 狂野时代",
+      "onboard_time": 1772013202,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 105022,
@@ -6161,14 +6249,6 @@
       "onboard_time": 1771760242,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104047,
-      "num": 104047,
-      "word": "不要低估两片紫菜的威力",
-      "onboard_time": 1772010503,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 104032,
@@ -6459,6 +6539,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99561,
+      "num": 156095,
+      "word": "丈夫回应被妻子控诉回娘家待不住",
+      "onboard_time": 1772010022,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99250,
+      "num": 88126,
+      "word": "单依纯成立个人独资工作室",
+      "onboard_time": 1772013381,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99161,
       "num": 99161,
       "word": "时代少年团 一年一度的楼斯卡",
@@ -6659,6 +6755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95766,
+      "num": 95766,
+      "word": "一顿饭付了63张五块钱",
+      "onboard_time": 1772013681,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95720,
       "num": 89841,
       "word": "陈赫直播提及宋雨琦cut",
@@ -6753,6 +6857,14 @@
       "onboard_time": 1772009542,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 94093,
+      "num": 94093,
+      "word": "春节狗狗独自在家主人归来惊呆了",
+      "onboard_time": 1772012001,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93969,
@@ -7235,6 +7347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87892,
+      "num": 87892,
+      "word": "王楚钦签了好多签名",
+      "onboard_time": 1772011641,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87845,
       "num": 87845,
       "word": "第一次见神经烟花",
@@ -7403,6 +7523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85701,
+      "num": 85701,
+      "word": "唐嫣黑长直皮草造型",
+      "onboard_time": 1772013560,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 85561,
       "num": 93522,
       "word": "现在就出发",
@@ -7569,6 +7697,14 @@
       "onboard_time": 1772007922,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83340,
+      "num": 83340,
+      "word": "Xiaohu五杀",
+      "onboard_time": 1772013081,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 83202,
@@ -7993,14 +8129,6 @@
       "onboard_time": 1771854502,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76877,
-      "num": 76877,
-      "word": "元宝骂人",
-      "onboard_time": 1772010800,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 76581,
@@ -8763,14 +8891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 63689,
-      "num": 127450,
-      "word": "北京一独居女子去世房产归国家",
-      "onboard_time": 1772010862,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63301,
       "num": 65810,
       "word": "惊蛰无声网络评价和现实评价",
@@ -9155,6 +9275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 53166,
+      "num": 622944,
+      "word": "春节消费节节高",
+      "onboard_time": 1772008460,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52792,
       "num": 52792,
       "word": "魏大勋不在大侦探群里",
@@ -9345,14 +9473,6 @@
       "onboard_time": 1771846821,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 48155,
-      "num": 622944,
-      "word": "春节消费节节高",
-      "onboard_time": 1772008460,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47743,
@@ -9963,14 +10083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26901,
-      "num": 156095,
-      "word": "丈夫回应被妻子控诉回娘家待不住",
-      "onboard_time": 1772010022,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26591,
       "num": 39917,
       "word": "王心迪要陪徐梦桃六战冬奥",
@@ -9985,6 +10097,14 @@
       "onboard_time": 1771900941,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26066,
+      "num": 106752,
+      "word": "12306回应1身份证抢到两张同车次票",
+      "onboard_time": 1772013140,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25776,
@@ -10457,6 +10577,14 @@
       "onboard_time": 1771959615,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14799,
+      "num": 105198,
+      "word": "美国从委内瑞拉接收超8000万桶石油",
+      "onboard_time": 1772013140,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14491,
