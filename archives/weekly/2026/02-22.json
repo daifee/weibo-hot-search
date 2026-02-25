@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772037889296,
+  "endTime": 1772042779690,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -10811,6 +10811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33932,
+      "num": 33932,
+      "word": "偏偏宠爱",
+      "onboard_time": 1772037199,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33631,
       "num": 1914088,
       "word": "2026新春走基层",
@@ -10921,6 +10929,14 @@
       "onboard_time": 1771827920,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 28482,
+      "num": 27072,
+      "word": "虞书欣打卡粉丝留言墙",
+      "onboard_time": 1772038518,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 28465,
@@ -11163,6 +11179,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22860,
+      "num": 24700,
+      "word": "王楚然长文告别庾晚音",
+      "onboard_time": 1772029583,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22848,
+      "num": 24697,
+      "word": "白鹿 下一个角色见",
+      "onboard_time": 1772041638,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22658,
       "num": 106518,
       "word": "旅客称列车显示延误却已进站开走",
@@ -11289,6 +11321,14 @@
       "onboard_time": 1771955536,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19565,
+      "num": 24684,
+      "word": "锡镍铜价格集体大涨",
+      "onboard_time": 1772040496,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 19467,
@@ -11603,6 +11643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11571,
+      "num": 152420,
+      "word": "米兰冬奥风雪18天",
+      "onboard_time": 1772025382,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10819,
       "num": 653690,
       "word": "塞满的是后备箱温暖的是游子心",
@@ -11625,14 +11673,6 @@
       "onboard_time": 1771746501,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9034,
-      "num": 111367,
-      "word": "米兰冬奥风雪18天",
-      "onboard_time": 1772025382,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9029,
