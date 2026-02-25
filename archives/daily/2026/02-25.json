@@ -1,6 +1,6 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1772025742612,
+  "endTime": 1772027419749,
   "band_list": [
     {
       "raw_hot": 1700156,
@@ -57,6 +57,14 @@
       "onboard_time": 1771987400,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1051157,
+      "num": 375843,
+      "word": "谷爱凌在美国遭大规模网暴",
+      "onboard_time": 1772026342,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 966387,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 793969,
-      "num": 261894,
+      "num": 358257,
       "word": "王橹杰壁纸",
       "onboard_time": 1772022261,
       "rank": 10,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 651657,
-      "num": 342411,
+      "num": 374723,
       "word": "金价高的已经推出红绳戒指了",
       "onboard_time": 1772022501,
       "rank": 5,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 630615,
-      "num": 242339,
+      "num": 358245,
       "word": "刘晓庆短剧吻戏",
       "onboard_time": 1772022682,
       "rank": 12,
@@ -225,6 +233,14 @@
       "onboard_time": 1772006301,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 574974,
+      "num": 822902,
+      "word": "女子在胖东来1小时消费15万",
+      "onboard_time": 1772025624,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 574184,
@@ -403,12 +419,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 387263,
+      "raw_hot": 394534,
       "num": 847143,
       "word": "福建喊话回归台湾回复收到",
       "onboard_time": 1772023762,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378373,
+      "num": 378373,
+      "word": "孙颖莎不是我的分我坚决不要",
+      "onboard_time": 1772024482,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 373721,
@@ -417,6 +441,14 @@
       "onboard_time": 1772003121,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371748,
+      "num": 371748,
+      "word": "偏偏宠爱女主",
+      "onboard_time": 1772023102,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 370414,
@@ -459,6 +491,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358354,
+      "num": 358354,
+      "word": "魅族",
+      "onboard_time": 1772023881,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 358210,
+      "num": 358210,
+      "word": "尘白禁区 中国邮政",
+      "onboard_time": 1772024602,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 356872,
       "num": 797305,
       "word": "教育局回应教师报考其他单位遭开除",
@@ -483,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 349249,
-      "num": 349249,
-      "word": "孙颖莎不是我的分我坚决不要",
-      "onboard_time": 1772024482,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 349532,
+      "num": 349532,
+      "word": "19岁女生因经济舱综合征心脏骤停",
+      "onboard_time": 1772024062,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347718,
@@ -553,14 +601,6 @@
       "onboard_time": 1771985602,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 311295,
-      "num": 311295,
-      "word": "偏偏宠爱女主",
-      "onboard_time": 1772023102,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 309332,
@@ -675,6 +715,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 268588,
+      "num": 268588,
+      "word": "王天辰郭晓婷床戏",
+      "onboard_time": 1772027362,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268566,
+      "num": 193768,
+      "word": "白鹿忘记自己会说韩语了",
+      "onboard_time": 1772024122,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267563,
       "num": 95477,
       "word": "黄晓明审美",
@@ -779,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246885,
-      "num": 246885,
-      "word": "魅族",
-      "onboard_time": 1772023881,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 246461,
       "num": 174315,
       "word": "继父曾发布女童穿短裙高跟鞋视频",
@@ -841,14 +889,6 @@
       "onboard_time": 1771941804,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235043,
-      "num": 235043,
-      "word": "女子在胖东来1小时消费15万",
-      "onboard_time": 1772025624,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234630,
@@ -987,6 +1027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203150,
+      "num": 155419,
+      "word": "双轨",
+      "onboard_time": 1772023283,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201500,
       "num": 163723,
       "word": "海南涌现大量1折机票",
@@ -1009,14 +1057,6 @@
       "onboard_time": 1771947381,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196542,
-      "num": 160560,
-      "word": "白鹿忘记自己会说韩语了",
-      "onboard_time": 1772024122,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 188986,
@@ -1065,14 +1105,6 @@
       "onboard_time": 1771986381,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179272,
-      "num": 179272,
-      "word": "19岁女生因经济舱综合征心脏骤停",
-      "onboard_time": 1772024062,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176047,
@@ -1155,14 +1187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166793,
-      "num": 166793,
-      "word": "尘白禁区 中国邮政",
-      "onboard_time": 1772024602,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 166749,
       "num": 136574,
       "word": "西安一市民除夕夜被AI给骂了",
@@ -1211,20 +1235,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159550,
+      "num": 134084,
+      "word": "iPhone可添加门禁卡可写入加密",
+      "onboard_time": 1772026162,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 158804,
-      "num": 111396,
+      "num": 130232,
       "word": "端王是世界上第一个接触EXO概念的",
       "onboard_time": 1772023522,
       "rank": 30,
       "category": "艺人"
     },
     {
-      "raw_hot": 152546,
-      "num": 111354,
-      "word": "双轨",
-      "onboard_time": 1772023283,
-      "rank": 32,
+      "raw_hot": 158492,
+      "num": 143188,
+      "word": "方穆静瞿桦 做恨",
+      "onboard_time": 1772023701,
+      "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155810,
+      "num": 132130,
+      "word": "谷爱凌晒照纪念奶奶",
+      "onboard_time": 1772027362,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 151918,
@@ -1264,6 +1304,14 @@
       "word": "正月剃头死舅舅的真相来了",
       "onboard_time": 1771919601,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147794,
+      "num": 147794,
+      "word": "巴厘岛暴雨近5米长巨蟒街道游过",
+      "onboard_time": 1772027362,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1371,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135388,
+      "num": 167840,
+      "word": "司机高速上睡着致后方堵车12公里",
+      "onboard_time": 1772024721,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134013,
       "num": 134013,
       "word": "刘强东宣布进军游艇行业",
@@ -1459,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126339,
+      "num": 126339,
+      "word": "包上恩演技",
+      "onboard_time": 1772024362,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125855,
       "num": 125855,
       "word": "谷爱凌回应冬奥神图出圈",
@@ -1475,12 +1539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124729,
-      "num": 105198,
-      "word": "包上恩演技",
-      "onboard_time": 1772024362,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 125103,
+      "num": 125103,
+      "word": "靠爱不能维持一辈子的婚姻",
+      "onboard_time": 1772025742,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 122626,
@@ -1515,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117956,
+      "num": 126558,
+      "word": "孙颖莎问对手你不挑战吗",
+      "onboard_time": 1772026702,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117551,
       "num": 117551,
       "word": "飞驰人生3彩蛋藏太深",
@@ -1547,12 +1619,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 115274,
-      "num": 103908,
-      "word": "方穆静瞿桦 做恨",
-      "onboard_time": 1772023701,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 115257,
+      "num": 115257,
+      "word": "女子心跳骤停因美甲无法探测血氧值",
+      "onboard_time": 1772025022,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113448,
@@ -1569,6 +1641,14 @@
       "onboard_time": 1772012961,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112465,
+      "num": 112465,
+      "word": "剑来",
+      "onboard_time": 1772025862,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 112149,
@@ -1707,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105095,
+      "num": 110452,
+      "word": "俄罗斯外交部声明",
+      "onboard_time": 1772024962,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105015,
       "num": 105015,
       "word": "脆升升薯条被曝吃出苍蝇",
@@ -1769,6 +1857,14 @@
       "onboard_time": 1771998201,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102928,
+      "num": 102928,
+      "word": "薛之谦广州演唱会座位分布好合理",
+      "onboard_time": 1772025382,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 102185,
@@ -1883,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95840,
+      "num": 95840,
+      "word": "失踪20多年母亲被砌进花坛",
+      "onboard_time": 1772025923,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95505,
       "num": 95505,
       "word": "Prada怼脸图",
@@ -1899,14 +2003,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 95276,
-      "num": 95276,
-      "word": "薛之谦广州演唱会座位分布好合理",
-      "onboard_time": 1772025382,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 95234,
       "num": 85701,
       "word": "唐嫣黑长直皮草造型",
@@ -1921,14 +2017,6 @@
       "onboard_time": 1772014582,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94774,
-      "num": 167840,
-      "word": "司机高速上睡着致后方堵车12公里",
-      "onboard_time": 1772024721,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94306,
@@ -1971,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94036,
+      "num": 94036,
+      "word": "于东来在老家卖甘蔗边吃边叫卖",
+      "onboard_time": 1772026463,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93527,
       "num": 93527,
       "word": "多款相机价格暴涨近10倍",
@@ -2009,6 +2105,14 @@
       "onboard_time": 1771998800,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92057,
+      "num": 92057,
+      "word": "女子称每天用水都是13吨多",
+      "onboard_time": 1772026282,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90774,
@@ -2323,14 +2427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76028,
-      "num": 110452,
-      "word": "俄罗斯外交部声明",
-      "onboard_time": 1772024962,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 75343,
       "num": 75343,
       "word": "张元英流媒22.4w",
@@ -2425,6 +2521,14 @@
       "onboard_time": 1771974977,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 63451,
+      "num": 638538,
+      "word": "春节假期多项数据创历史新高",
+      "onboard_time": 1772025442,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63390,
@@ -2683,14 +2787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32869,
-      "num": 107015,
-      "word": "女子心跳骤停因美甲无法探测血氧值",
-      "onboard_time": 1772025022,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30543,
       "num": 142280,
       "word": "AI助盲眼镜成出行神器",
@@ -2744,6 +2840,14 @@
       "word": "九组数据感受万马奔腾的活力春节",
       "onboard_time": 1771938261,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22578,
+      "num": 358262,
+      "word": "官方通报游客打车9折让司机贴钱",
+      "onboard_time": 1772026342,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2873,14 +2977,6 @@
       "onboard_time": 1771962194,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 10884,
-      "num": 638538,
-      "word": "春节假期多项数据创历史新高",
-      "onboard_time": 1772025442,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9034,
