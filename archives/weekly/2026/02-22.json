@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771996375912,
+  "endTime": 1771999806755,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -99,8 +99,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1474660,
+      "num": 1474660,
+      "word": "中秋请3天假堪比春节",
+      "onboard_time": 1771995320,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1410241,
-      "num": 610436,
+      "num": 791401,
       "word": "多少滞留三亚的人被自己穷笑了",
       "onboard_time": 1771993281,
       "rank": 3,
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 883088,
+      "num": 133491,
+      "word": "鹿哈官宣得女",
+      "onboard_time": 1771997181,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 882906,
       "num": 198772,
       "word": "四川女婿黄子韬在家也得穿省服",
@@ -345,6 +361,14 @@
       "onboard_time": 1771893920,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 796677,
+      "num": 796677,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1771997119,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 765814,
@@ -504,6 +528,14 @@
       "word": "陈妍希说林心如女儿长的太好看了",
       "onboard_time": 1771805419,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 675927,
+      "num": 301334,
+      "word": "杨幂柳智敏撞衫",
+      "onboard_time": 1771996701,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1203,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 421584,
+      "num": 130433,
+      "word": "韦雪新男友首曝光",
+      "onboard_time": 1771998499,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419921,
       "num": 419921,
       "word": "考公火爆缩编却开始了",
@@ -1627,6 +1667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 337294,
+      "num": 337294,
+      "word": "获退的18万彩礼已所剩无几",
+      "onboard_time": 1771998499,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336633,
       "num": 336633,
       "word": "谷爱凌回应100%拿牌率",
@@ -1657,14 +1705,6 @@
       "onboard_time": 1771822160,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 332091,
-      "num": 332091,
-      "word": "中秋请3天假堪比春节",
-      "onboard_time": 1771995320,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 329343,
@@ -1747,6 +1787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 318962,
+      "num": 300540,
+      "word": "谢娜恳请不要将镜头对准孩子",
+      "onboard_time": 1771999401,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316626,
       "num": 490447,
       "word": "胡锡进锐评谷爱凌",
@@ -1787,12 +1835,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309332,
+      "num": 303620,
+      "word": "琉球父母被迫杀死孩子后自杀",
+      "onboard_time": 1771995621,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 309138,
       "num": 309138,
       "word": "单依纯二巡官宣",
       "onboard_time": 1771995501,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 308344,
+      "num": 308344,
+      "word": "14岁谷爱凌在上海街头说这么多老外",
+      "onboard_time": 1771994840,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 308077,
@@ -1820,7 +1884,7 @@
     },
     {
       "raw_hot": 307388,
-      "num": 301961,
+      "num": 305830,
       "word": "校服的裙摆开播",
       "onboard_time": 1771994121,
       "rank": 21,
@@ -2057,6 +2121,14 @@
       "onboard_time": 1771832660,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279866,
+      "num": 125593,
+      "word": "23岁香港女警在警署身亡",
+      "onboard_time": 1771998499,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279577,
@@ -2441,14 +2513,6 @@
       "onboard_time": 1771850422,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 244650,
-      "num": 308102,
-      "word": "14岁谷爱凌在上海街头说这么多老外",
-      "onboard_time": 1771994840,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 244522,
@@ -3443,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178396,
+      "num": 130226,
+      "word": "闵熙珍放弃255亿韩元赔偿",
+      "onboard_time": 1771997660,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177215,
       "num": 177215,
       "word": "神仙肉女主人设",
@@ -3651,6 +3723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168676,
+      "num": 127523,
+      "word": "曝李佳琦过年给亲戚每人发了500红包",
+      "onboard_time": 1771999342,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168409,
       "num": 168409,
       "word": "月经一定程度上能反映气血状况",
@@ -3769,6 +3849,14 @@
       "onboard_time": 1771855220,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 162306,
+      "num": 133562,
+      "word": "华策解散电影部门",
+      "onboard_time": 1771996823,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 162165,
@@ -4427,6 +4515,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135648,
+      "num": 135648,
+      "word": "爸爸奶奶相继离世网友跟空房子再见",
+      "onboard_time": 1771996520,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135451,
+      "num": 125050,
+      "word": "白鹿说跟王鹤棣认识五年了",
+      "onboard_time": 1771998320,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135259,
       "num": 135259,
       "word": "孩子妈晒童锦程的红包",
@@ -4633,6 +4737,14 @@
       "onboard_time": 1771768463,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129344,
+      "num": 129344,
+      "word": "iPhone 自动打电话",
+      "onboard_time": 1771997240,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 129181,
@@ -4905,6 +5017,14 @@
       "onboard_time": 1771829061,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122037,
+      "num": 122037,
+      "word": "上海发布楼市沪七条",
+      "onboard_time": 1771998681,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121947,
@@ -5339,6 +5459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112149,
+      "num": 112149,
+      "word": "老人食用冰箱内剩菜患脑膜炎进ICU",
+      "onboard_time": 1771997960,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111441,
       "num": 103366,
       "word": "吴京真演上燕子娘了",
@@ -5539,6 +5667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107898,
+      "num": 107898,
+      "word": "寒衣店第一次遇到退货",
+      "onboard_time": 1771996520,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107728,
       "num": 101564,
       "word": "小S女儿lily回应首次参加大秀",
@@ -5715,6 +5851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104139,
+      "num": 104139,
+      "word": "王楚钦回抛约36度",
+      "onboard_time": 1771995860,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104089,
       "num": 104089,
       "word": "谷爱凌第六枚冬奥奖牌",
@@ -5761,6 +5905,14 @@
       "onboard_time": 1771988480,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103826,
+      "num": 103826,
+      "word": "Supreme棺材",
+      "onboard_time": 1771999102,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103819,
@@ -5819,6 +5971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102964,
+      "num": 102964,
+      "word": "我的朋友圈点赞原则",
+      "onboard_time": 1771998201,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102847,
       "num": 102847,
       "word": "墨西哥贩毒集团报复已致73死",
@@ -5833,6 +5993,14 @@
       "onboard_time": 1771765641,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102624,
+      "num": 102624,
+      "word": "如果故人留给你的遗物是一个孩子",
+      "onboard_time": 1771999401,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 102598,
@@ -5929,6 +6097,22 @@
       "onboard_time": 1771910301,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101287,
+      "num": 101287,
+      "word": "英国白人女婿吃砂糖橘吃成贵州本地人",
+      "onboard_time": 1771997060,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101051,
+      "num": 100885,
+      "word": "被继父亲吻女童老师称孩子挺正常",
+      "onboard_time": 1771996823,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101035,
@@ -6329,14 +6513,6 @@
       "onboard_time": 1771845202,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 92863,
-      "num": 92863,
-      "word": "王楚钦回抛约36度",
-      "onboard_time": 1771995860,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 92742,
@@ -8211,14 +8387,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 61824,
-      "num": 229894,
-      "word": "琉球父母被迫杀死孩子后自杀",
-      "onboard_time": 1771995621,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 61817,
       "num": 61817,
       "word": "高端的食材只需要换个名字",
@@ -8619,6 +8787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48901,
+      "num": 127020,
+      "word": "真正让大脑逆龄的运动",
+      "onboard_time": 1771998861,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 48800,
       "num": 48800,
       "word": "八段锦跟练版来了",
@@ -8636,7 +8812,7 @@
     },
     {
       "raw_hot": 48509,
-      "num": 658898,
+      "num": 850990,
       "word": "春节国内出游5.96亿人次",
       "onboard_time": 1771990400,
       "rank": 2,
@@ -8745,6 +8921,14 @@
       "onboard_time": 1771697176,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45189,
+      "num": 128261,
+      "word": "花35万买房发现装修完住着陌生人",
+      "onboard_time": 1771999582,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45157,
@@ -9041,6 +9225,14 @@
       "onboard_time": 1771694836,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35371,
+      "num": 104271,
+      "word": "男子悉心照料芦荟3年发现是塑料的",
+      "onboard_time": 1771999460,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35115,
@@ -9665,6 +9857,14 @@
       "onboard_time": 1771957035,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 17161,
+      "num": 134804,
+      "word": "老人被狗扑咬骨折反被怪身上有味",
+      "onboard_time": 1771999221,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16475,

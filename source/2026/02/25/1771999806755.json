@@ -1,0 +1,410 @@
+{
+  "runTime": 1771999806755,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1474660,
+        "num": 1474660,
+        "word": "中秋请3天假堪比春节",
+        "onboard_time": 1771995320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332889,
+        "num": 914906,
+        "word": "三亚通报在职教师被开除",
+        "onboard_time": 1771991541,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 36396,
+        "num": 850990,
+        "word": "春节国内出游5.96亿人次",
+        "onboard_time": 1771990400,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 796677,
+        "num": 796677,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1771997119,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 791401,
+        "num": 791401,
+        "word": "多少滞留三亚的人被自己穷笑了",
+        "onboard_time": 1771993281,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362650,
+        "num": 362650,
+        "word": "你打字吧 你字好看",
+        "onboard_time": 1771994542,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337294,
+        "num": 337294,
+        "word": "获退的18万彩礼已所剩无几",
+        "onboard_time": 1771998499,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308344,
+        "num": 308344,
+        "word": "14岁谷爱凌在上海街头说这么多老外",
+        "onboard_time": 1771994840,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193981,
+        "num": 307100,
+        "word": "单依纯二巡官宣",
+        "onboard_time": 1771995501,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163922,
+        "num": 305830,
+        "word": "校服的裙摆开播",
+        "onboard_time": 1771994121,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309332,
+        "num": 303620,
+        "word": "琉球父母被迫杀死孩子后自杀",
+        "onboard_time": 1771995621,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 675927,
+        "num": 301334,
+        "word": "杨幂柳智敏撞衫",
+        "onboard_time": 1771996701,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318962,
+        "num": 300540,
+        "word": "谢娜恳请不要将镜头对准孩子",
+        "onboard_time": 1771999401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299123,
+        "num": 299123,
+        "word": "难怪考试不让上厕所",
+        "onboard_time": 1771995141,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238650,
+        "num": 238650,
+        "word": "吴昕自曝录制快本三四个月还是想走",
+        "onboard_time": 1771941264,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233789,
+        "num": 233789,
+        "word": "刘强东已接到5条大型游艇订单",
+        "onboard_time": 1771987400,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188895,
+        "num": 188895,
+        "word": "时代峰峻高会否认时代少年团单飞",
+        "onboard_time": 1771989021,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185220,
+        "num": 185220,
+        "word": "黄景瑜关晓彤新剧初吻",
+        "onboard_time": 1771994901,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135648,
+        "num": 135648,
+        "word": "爸爸奶奶相继离世网友跟空房子再见",
+        "onboard_time": 1771996520,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17161,
+        "num": 134804,
+        "word": "老人被狗扑咬骨折反被怪身上有味",
+        "onboard_time": 1771999221,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162306,
+        "num": 133562,
+        "word": "华策解散电影部门",
+        "onboard_time": 1771996823,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 883088,
+        "num": 133491,
+        "word": "鹿哈官宣得女",
+        "onboard_time": 1771997181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313988,
+        "num": 132363,
+        "word": "考公火爆缩编却开始了",
+        "onboard_time": 1771992680,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421584,
+        "num": 130433,
+        "word": "韦雪新男友首曝光",
+        "onboard_time": 1771998499,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178396,
+        "num": 130226,
+        "word": "闵熙珍放弃255亿韩元赔偿",
+        "onboard_time": 1771997660,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129344,
+        "num": 129344,
+        "word": "iPhone 自动打电话",
+        "onboard_time": 1771997240,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177193,
+        "num": 128864,
+        "word": "王橹杰彩烟应援",
+        "onboard_time": 1771993881,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45189,
+        "num": 128261,
+        "word": "花35万买房发现装修完住着陌生人",
+        "onboard_time": 1771999582,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168676,
+        "num": 127523,
+        "word": "曝李佳琦过年给亲戚每人发了500红包",
+        "onboard_time": 1771999342,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48901,
+        "num": 127020,
+        "word": "真正让大脑逆龄的运动",
+        "onboard_time": 1771998861,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 279866,
+        "num": 125593,
+        "word": "23岁香港女警在警署身亡",
+        "onboard_time": 1771998499,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135451,
+        "num": 125050,
+        "word": "白鹿说跟王鹤棣认识五年了",
+        "onboard_time": 1771998320,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124778,
+        "num": 124778,
+        "word": "伊能静尝试生酮饮食半年瘦到86斤",
+        "onboard_time": 1771983439,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122037,
+        "num": 122037,
+        "word": "上海发布楼市沪七条",
+        "onboard_time": 1771998681,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115103,
+        "num": 115103,
+        "word": "肖战平底鞋",
+        "onboard_time": 1771988959,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112149,
+        "num": 112149,
+        "word": "老人食用冰箱内剩菜患脑膜炎进ICU",
+        "onboard_time": 1771997960,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110343,
+        "num": 110343,
+        "word": "熟人羞耻症",
+        "onboard_time": 1771992080,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107898,
+        "num": 107898,
+        "word": "寒衣店第一次遇到退货",
+        "onboard_time": 1771996520,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104453,
+        "num": 104453,
+        "word": "我们的少年时代2",
+        "onboard_time": 1771984401,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35371,
+        "num": 104271,
+        "word": "男子悉心照料芦荟3年发现是塑料的",
+        "onboard_time": 1771999460,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104139,
+        "num": 104139,
+        "word": "王楚钦回抛约36度",
+        "onboard_time": 1771995860,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103826,
+        "num": 103826,
+        "word": "Supreme棺材",
+        "onboard_time": 1771999102,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102964,
+        "num": 102964,
+        "word": "我的朋友圈点赞原则",
+        "onboard_time": 1771998201,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102624,
+        "num": 102624,
+        "word": "如果故人留给你的遗物是一个孩子",
+        "onboard_time": 1771999401,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101902,
+        "num": 101902,
+        "word": "女儿出嫁父亲退回彩礼送上两沓现金",
+        "onboard_time": 1771992860,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101287,
+        "num": 101287,
+        "word": "英国白人女婿吃砂糖橘吃成贵州本地人",
+        "onboard_time": 1771997060,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100892,
+        "num": 100892,
+        "word": "游客在三亚沙滩写不想上班",
+        "onboard_time": 1771989919,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101051,
+        "num": 100885,
+        "word": "被继父亲吻女童老师称孩子挺正常",
+        "onboard_time": 1771996823,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100776,
+        "num": 100776,
+        "word": "谷爱凌回应冬奥神图出圈",
+        "onboard_time": 1771995261,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98346,
+        "num": 98346,
+        "word": "告白官宣王星越和邓恩熙",
+        "onboard_time": 1771986319,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视领导干部政绩观问题#"
+    }
+  }
+}
