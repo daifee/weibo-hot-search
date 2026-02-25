@@ -1,0 +1,410 @@
+{
+  "runTime": 1772062678001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 434515,
+        "num": 887039,
+        "word": "试管婴儿出生右脚缺4趾产检未发现",
+        "onboard_time": 1772031981,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368004,
+        "num": 636240,
+        "word": "女大学生坐硬座31小时返校心脏骤停",
+        "onboard_time": 1772030542,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16101,
+        "num": 520438,
+        "word": "米兰冬奥风雪18天",
+        "onboard_time": 1772025382,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203877,
+        "num": 203877,
+        "word": "短剧从哪找来这么像的三张脸",
+        "onboard_time": 1772061375,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172522,
+        "num": 172522,
+        "word": "女子心跳骤停因美甲无法探测血氧值",
+        "onboard_time": 1772025022,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146374,
+        "num": 146374,
+        "word": "夫妻晚5秒错过免费高速付1700余元",
+        "onboard_time": 1772028022,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139065,
+        "num": 139065,
+        "word": "乌士兵被迫肢解战友遗体",
+        "onboard_time": 1772032823,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138863,
+        "num": 138863,
+        "word": "女子5.5克黄金戒指换新只剩下2克",
+        "onboard_time": 1772029042,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98205,
+        "num": 98205,
+        "word": "魅族",
+        "onboard_time": 1772023881,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92232,
+        "num": 92232,
+        "word": "江湖夜雨十年灯",
+        "onboard_time": 1772038697,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152361,
+        "num": 91992,
+        "word": "王天辰郭晓婷床戏",
+        "onboard_time": 1772027362,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119691,
+        "num": 90263,
+        "word": "广东英德1岁多走失男童已离世",
+        "onboard_time": 1772033721,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101142,
+        "num": 87876,
+        "word": "刘少昂女友发文",
+        "onboard_time": 1772031202,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99020,
+        "num": 87086,
+        "word": "刘晓庆短剧吻戏",
+        "onboard_time": 1772022682,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97024,
+        "num": 84720,
+        "word": "iPhone可添加门禁卡可写入加密",
+        "onboard_time": 1772026162,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84274,
+        "num": 84274,
+        "word": "获退18万彩礼女婿经济状况堪忧",
+        "onboard_time": 1772031262,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81274,
+        "num": 81274,
+        "word": "继父亲吻女孩事件最新进展",
+        "onboard_time": 1772030363,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75366,
+        "num": 75366,
+        "word": "放过小说妹",
+        "onboard_time": 1772032342,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71016,
+        "num": 71016,
+        "word": "考研",
+        "onboard_time": 1772028743,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67035,
+        "num": 67035,
+        "word": "白鹿忘记自己会说韩语了",
+        "onboard_time": 1772024122,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538354,
+        "num": 66613,
+        "word": "向华强拒绝和向佑见面",
+        "onboard_time": 1772060957,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253102,
+        "num": 66340,
+        "word": "谷爱凌回怼美副总统",
+        "onboard_time": 1772031323,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413324,
+        "num": 65486,
+        "word": "向太拉黑小儿子向佑",
+        "onboard_time": 1772060896,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158800,
+        "num": 65191,
+        "word": "一家4口上山妻子死亡失联时神情恐惧",
+        "onboard_time": 1772020162,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68478,
+        "num": 64326,
+        "word": "墨宝非宝宣布离婚",
+        "onboard_time": 1772015661,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64078,
+        "num": 64078,
+        "word": "财不入急门也不入脏门",
+        "onboard_time": 1772062097,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60317,
+        "num": 60317,
+        "word": "靠爱不能维持一辈子的婚姻",
+        "onboard_time": 1772025742,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53429,
+        "num": 53429,
+        "word": "贵阳一公园两座雕塑被指不雅",
+        "onboard_time": 1772062157,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52719,
+        "num": 52719,
+        "word": "田柾国直播",
+        "onboard_time": 1772061557,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51023,
+        "num": 51023,
+        "word": "福建喊话回归台湾回复收到",
+        "onboard_time": 1772023762,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47081,
+        "num": 47081,
+        "word": "终于知道小说里的男女主长啥样了",
+        "onboard_time": 1772032282,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46713,
+        "num": 46713,
+        "word": "拍谢娜双胞胎儿女的狗仔涉嫌违法",
+        "onboard_time": 1772023581,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46674,
+        "num": 46674,
+        "word": "代露娃 短剧",
+        "onboard_time": 1772010800,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45807,
+        "num": 45807,
+        "word": "金价高的已经推出红绳戒指了",
+        "onboard_time": 1772022501,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46128,
+        "num": 45583,
+        "word": "向华强说遗产都交给郭碧婷来管",
+        "onboard_time": 1772031382,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45342,
+        "num": 45342,
+        "word": "端王是世界上第一个接触EXO概念的",
+        "onboard_time": 1772023522,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42217,
+        "num": 42217,
+        "word": "中灵山坠亡女子丈夫称妻子提出登山",
+        "onboard_time": 1772045835,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43092,
+        "num": 42205,
+        "word": "肖战帽子盖不住两个耳朵",
+        "onboard_time": 1772019981,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41884,
+        "num": 41884,
+        "word": "广东一彩民花6元中602万元大奖",
+        "onboard_time": 1772034024,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39512,
+        "num": 39512,
+        "word": "中国最适合夫妻养老退休的城市",
+        "onboard_time": 1772030962,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 39107,
+        "num": 39107,
+        "word": "女子疑丈夫出轨闺蜜花9千雇人追踪",
+        "onboard_time": 1772027782,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38221,
+        "num": 38221,
+        "word": "魅族手机3月正式退市",
+        "onboard_time": 1772022381,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37074,
+        "num": 37074,
+        "word": "尤文图斯vs加拉塔萨雷",
+        "onboard_time": 1772061977,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36623,
+        "num": 36623,
+        "word": "人民币对美元汇率升破6.87",
+        "onboard_time": 1772062097,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36297,
+        "num": 36297,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1772020522,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36276,
+        "num": 36276,
+        "word": "王者荣耀",
+        "onboard_time": 1772024242,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35025,
+        "num": 35025,
+        "word": "电影镖人",
+        "onboard_time": 1772042956,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34371,
+        "num": 34371,
+        "word": "别因为外面很冷就逃回那个着火的房子",
+        "onboard_time": 1772062157,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30749,
+        "num": 30749,
+        "word": "山西万荣县文旅局致歉",
+        "onboard_time": 1772060418,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28857,
+        "num": 30740,
+        "word": "孙颖莎黄牌",
+        "onboard_time": 1772023462,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见默茨#"
+    }
+  }
+}
