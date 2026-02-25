@@ -1,0 +1,410 @@
+{
+  "runTime": 1772020011551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 399626,
+        "num": 1063940,
+        "word": "中秋请3天假堪比春节",
+        "onboard_time": 1771995320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210274,
+        "num": 785030,
+        "word": "建议培养中小学副班主任",
+        "onboard_time": 1772016441,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42721,
+        "num": 637544,
+        "word": "春节消费节节高",
+        "onboard_time": 1772008460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183440,
+        "num": 183440,
+        "word": "女生患癌半年春节去世男友不离不弃",
+        "onboard_time": 1772006481,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178650,
+        "num": 178650,
+        "word": "首都博物馆道歉",
+        "onboard_time": 1772018901,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459198,
+        "num": 176647,
+        "word": "偏偏宠爱 陈飞宇",
+        "onboard_time": 1772018424,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423982,
+        "num": 176112,
+        "word": "代露娃 短剧",
+        "onboard_time": 1772010800,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267384,
+        "num": 176046,
+        "word": "一顿饭付了63张五块钱",
+        "onboard_time": 1772013681,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171868,
+        "num": 171868,
+        "word": "多少滞留三亚的人被自己穷笑了",
+        "onboard_time": 1771993281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103873,
+        "num": 170200,
+        "word": "徐梦桃说一个体前屈李天马就开哭",
+        "onboard_time": 1772017281,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412568,
+        "num": 169421,
+        "word": "北京一独居女子去世房产归国家",
+        "onboard_time": 1772010862,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323973,
+        "num": 166733,
+        "word": "香港自杀女警遗书中提到工作压力",
+        "onboard_time": 1772017823,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176972,
+        "num": 163697,
+        "word": "韩女子用ChatGPT策划连环杀人案",
+        "onboard_time": 1772011701,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 308869,
+        "num": 160684,
+        "word": "杨洋不让江山复工",
+        "onboard_time": 1772016802,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262678,
+        "num": 159198,
+        "word": "春节档票房 回到18年",
+        "onboard_time": 1772011641,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182994,
+        "num": 157730,
+        "word": "星痕退役",
+        "onboard_time": 1772015661,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192631,
+        "num": 154990,
+        "word": "宇宙少女回归",
+        "onboard_time": 1772014582,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153086,
+        "num": 153086,
+        "word": "华策 狂野时代",
+        "onboard_time": 1772013202,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148533,
+        "num": 148533,
+        "word": "12306回应半夜候补1700元车票作废",
+        "onboard_time": 1772018362,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 149377,
+        "num": 148175,
+        "word": "狙击蝴蝶韩国播出",
+        "onboard_time": 1772018180,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1515141,
+        "num": 147861,
+        "word": "墨宝非宝宣布离婚",
+        "onboard_time": 1772015661,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565565,
+        "num": 147453,
+        "word": "元宝骂人",
+        "onboard_time": 1772010800,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 625493,
+        "num": 146722,
+        "word": "张杰声援谢娜",
+        "onboard_time": 1772011701,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146540,
+        "num": 146540,
+        "word": "离职后发现了不同人的时钟",
+        "onboard_time": 1772012421,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262379,
+        "num": 144697,
+        "word": "钱枫近况",
+        "onboard_time": 1772001261,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234630,
+        "num": 142812,
+        "word": "马尔代夫偶遇麦琳和李行亮",
+        "onboard_time": 1772015602,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128418,
+        "num": 128418,
+        "word": "女教师因学生调皮确诊情志病",
+        "onboard_time": 1772017162,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181867,
+        "num": 128389,
+        "word": "张杰发未成年人保护法",
+        "onboard_time": 1772016441,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164949,
+        "num": 127872,
+        "word": "谢娜恳请不要将镜头对准孩子",
+        "onboard_time": 1771999401,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84943,
+        "num": 127400,
+        "word": "不用节食就能瘦回去的方法",
+        "onboard_time": 1772016024,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 128760,
+        "num": 127088,
+        "word": "网友新选的天涯四美",
+        "onboard_time": 1772006422,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126950,
+        "num": 126950,
+        "word": "逐玉",
+        "onboard_time": 1772002760,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111530,
+        "num": 121405,
+        "word": "广元大年初三失联男子已去世",
+        "onboard_time": 1772015241,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120011,
+        "num": 120011,
+        "word": "时代少年团纪录片当季上线",
+        "onboard_time": 1772015901,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116025,
+        "num": 116025,
+        "word": "肖战的保镖",
+        "onboard_time": 1772007981,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106298,
+        "num": 106298,
+        "word": "成都地铁18号线",
+        "onboard_time": 1772019022,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104927,
+        "num": 104927,
+        "word": "王安宇民及民以下身份的绝对好人",
+        "onboard_time": 1772013621,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103763,
+        "num": 103763,
+        "word": "陈飞宇打耳洞了",
+        "onboard_time": 1772016502,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98109,
+        "num": 102109,
+        "word": "高市早苗涉嫌违规",
+        "onboard_time": 1772016441,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101721,
+        "num": 101721,
+        "word": "肖战帽子盖不住两个耳朵",
+        "onboard_time": 1772019981,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100448,
+        "num": 100448,
+        "word": "内娱85花雏形",
+        "onboard_time": 1772019383,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92603,
+        "num": 92603,
+        "word": "脆升升薯条被曝吃出苍蝇",
+        "onboard_time": 1772017222,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88881,
+        "num": 88881,
+        "word": "不要低估两片紫菜的威力",
+        "onboard_time": 1772010503,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88865,
+        "num": 88865,
+        "word": "网剧宝珠",
+        "onboard_time": 1772017942,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85468,
+        "num": 85468,
+        "word": "中国车在保时捷主场不落下风",
+        "onboard_time": 1772019801,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 80054,
+        "num": 80054,
+        "word": "平顶山打人夫妻最高或判10年",
+        "onboard_time": 1772017222,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76068,
+        "num": 76068,
+        "word": "JDG拿下四连胜",
+        "onboard_time": 1772019442,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74811,
+        "num": 74811,
+        "word": "JDG确定卡位赛",
+        "onboard_time": 1772017042,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74644,
+        "num": 74644,
+        "word": "老一辈种菜总是没轻没重的",
+        "onboard_time": 1772019801,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72810,
+        "num": 72810,
+        "word": "新娘说退18万彩礼是心疼丈夫的不易",
+        "onboard_time": 1772008822,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#实干担当为民造福#"
+    }
+  }
+}
