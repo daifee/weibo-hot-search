@@ -1,0 +1,410 @@
+{
+  "runTime": 1771989788971,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 394538,
+        "num": 1063126,
+        "word": "宝马7系降价约27万",
+        "onboard_time": 1771979841,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 309499,
+        "num": 792079,
+        "word": "教育局回应教师报考其他单位遭开除",
+        "onboard_time": 1771984759,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11772,
+        "num": 597620,
+        "word": "九组数据感受万马奔腾的活力春节",
+        "onboard_time": 1771938261,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574184,
+        "num": 574184,
+        "word": "告白官宣王星越和邓恩熙",
+        "onboard_time": 1771986319,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241043,
+        "num": 241043,
+        "word": "女子在加油站人肉插队躺后车引擎盖",
+        "onboard_time": 1771977740,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591131,
+        "num": 240782,
+        "word": "为什么谷爱凌比赛前要放两撮头发",
+        "onboard_time": 1771986319,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439436,
+        "num": 240327,
+        "word": "平顶山再通报打人事件",
+        "onboard_time": 1771975037,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 239664,
+        "num": 239664,
+        "word": "大爷欲购200万元黄金店员报警",
+        "onboard_time": 1771986440,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226191,
+        "num": 226191,
+        "word": "惊蛰无声",
+        "onboard_time": 1771953676,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187272,
+        "num": 187272,
+        "word": "女子返程堵车偶遇10年未见初恋",
+        "onboard_time": 1771977740,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1153911,
+        "num": 187006,
+        "word": "刘强东已接到5条大型游艇订单",
+        "onboard_time": 1771987400,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 572705,
+        "num": 185684,
+        "word": "伊能静尝试生酮饮食半年瘦到86斤",
+        "onboard_time": 1771983439,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391623,
+        "num": 183787,
+        "word": "吴昕自曝录制快本三四个月还是想走",
+        "onboard_time": 1771941264,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377846,
+        "num": 182767,
+        "word": "台北餐厅冷库女尸案",
+        "onboard_time": 1771984040,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322135,
+        "num": 180016,
+        "word": "生酮饮食是个啥",
+        "onboard_time": 1771985602,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263427,
+        "num": 179886,
+        "word": "iPhone18Pro深红色",
+        "onboard_time": 1771974435,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 259775,
+        "num": 178186,
+        "word": "宁艺卓出发Gucci大秀",
+        "onboard_time": 1771988900,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233723,
+        "num": 175849,
+        "word": "金店店员称结婚不要强追五金",
+        "onboard_time": 1771984941,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188986,
+        "num": 174845,
+        "word": "殴打少女夫妻事前曾错打3名路人",
+        "onboard_time": 1771988000,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174084,
+        "num": 174084,
+        "word": "碧血蝉",
+        "onboard_time": 1771978280,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323729,
+        "num": 171511,
+        "word": "长剧出现了马年第1匹口碑黑马",
+        "onboard_time": 1771988300,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234447,
+        "num": 171386,
+        "word": "继父曾发布女童穿短裙高跟鞋视频",
+        "onboard_time": 1771987340,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167664,
+        "num": 167664,
+        "word": "TVB演员游飚去世",
+        "onboard_time": 1771982660,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163285,
+        "num": 163285,
+        "word": "四六级查分时间",
+        "onboard_time": 1771988541,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159312,
+        "num": 159312,
+        "word": "月经一定程度上能反映气血状况",
+        "onboard_time": 1771977740,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158093,
+        "num": 158093,
+        "word": "米兰偶遇杨幂逛店",
+        "onboard_time": 1771976838,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157991,
+        "num": 157991,
+        "word": "曝杨洋手里不缺剧本",
+        "onboard_time": 1771983680,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153356,
+        "num": 153356,
+        "word": "海南涌现大量1折机票",
+        "onboard_time": 1771986381,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142666,
+        "num": 142666,
+        "word": "贾冰已确诊黄景瑜唯粉",
+        "onboard_time": 1771989320,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75464,
+        "num": 135806,
+        "word": "一种过期了就不能吃的食物",
+        "onboard_time": 1771977559,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134454,
+        "num": 134454,
+        "word": "肖战平底鞋",
+        "onboard_time": 1771988959,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132573,
+        "num": 132573,
+        "word": "不内耗的人脑子里是这样想的",
+        "onboard_time": 1771945642,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130552,
+        "num": 130552,
+        "word": "王楚钦回应鹰眼挑战失败",
+        "onboard_time": 1771989200,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108097,
+        "num": 108097,
+        "word": "女子不会做饭用泡面招待亲戚",
+        "onboard_time": 1771989440,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103878,
+        "num": 103878,
+        "word": "新版傲慢与偏见预告",
+        "onboard_time": 1771988480,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102185,
+        "num": 102185,
+        "word": "爱你开播一周年",
+        "onboard_time": 1771989680,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88849,
+        "num": 100945,
+        "word": "十几年前的cp人气排名",
+        "onboard_time": 1771989560,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 100152,
+        "num": 100152,
+        "word": "我们的少年时代2开机日",
+        "onboard_time": 1771985538,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89900,
+        "num": 89900,
+        "word": "易烊千玺凭演技惊艳韩国人",
+        "onboard_time": 1771981821,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86464,
+        "num": 88651,
+        "word": "金饰价格跌到1564元",
+        "onboard_time": 1771984401,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88281,
+        "num": 88281,
+        "word": "Prada怼脸图",
+        "onboard_time": 1771984700,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86802,
+        "num": 86802,
+        "word": "不让江山作者取关剧组",
+        "onboard_time": 1771945162,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86010,
+        "num": 86010,
+        "word": "王楚钦鹰眼挑战失败",
+        "onboard_time": 1771946123,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85158,
+        "num": 85158,
+        "word": "告白",
+        "onboard_time": 1771983979,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84636,
+        "num": 84636,
+        "word": "网友偶遇谢霆锋狄波拉逛街",
+        "onboard_time": 1771978400,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83300,
+        "num": 83300,
+        "word": "平顶山打人夫妻先后殴打4人",
+        "onboard_time": 1771978940,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83294,
+        "num": 83294,
+        "word": "我们的少年时代2",
+        "onboard_time": 1771984401,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82943,
+        "num": 82943,
+        "word": "在集市上花了二十块钱买的小狗",
+        "onboard_time": 1771987160,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82354,
+        "num": 82354,
+        "word": "肖战的鼻间痣好像小狐狸",
+        "onboard_time": 1771944382,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78017,
+        "num": 78017,
+        "word": "谷爱凌的金色蝴蝶结是即兴系的",
+        "onboard_time": 1771989139,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视领导干部政绩观问题#"
+    }
+  }
+}

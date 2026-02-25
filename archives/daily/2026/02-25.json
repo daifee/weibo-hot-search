@@ -1,10 +1,18 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1771987409980,
+  "endTime": 1771989788971,
   "band_list": [
     {
+      "raw_hot": 1153911,
+      "num": 187006,
+      "word": "刘强东已接到5条大型游艇订单",
+      "onboard_time": 1771987400,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 869751,
-      "num": 177892,
+      "num": 183787,
       "word": "吴昕自曝录制快本三四个月还是想走",
       "onboard_time": 1771941264,
       "rank": 10,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 820747,
-      "num": 175416,
+      "num": 185684,
       "word": "伊能静尝试生酮饮食半年瘦到86斤",
       "onboard_time": 1771983439,
       "rank": 10,
@@ -43,8 +51,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 591131,
+      "num": 251426,
+      "word": "为什么谷爱凌比赛前要放两撮头发",
+      "onboard_time": 1771986319,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 574184,
+      "num": 574184,
+      "word": "告白官宣王星越和邓恩熙",
+      "onboard_time": 1771986319,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 561054,
-      "num": 174254,
+      "num": 182767,
       "word": "台北餐厅冷库女尸案",
       "onboard_time": 1771984040,
       "rank": 11,
@@ -73,14 +97,6 @@
       "onboard_time": 1771940663,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 445767,
-      "num": 251426,
-      "word": "为什么谷爱凌比赛前要放两撮头发",
-      "onboard_time": 1771986319,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 435439,
@@ -115,20 +131,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 339964,
-      "num": 339964,
-      "word": "告白官宣王星越和邓恩熙",
-      "onboard_time": 1771986319,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 337730,
       "num": 775993,
       "word": "惊蛰无声",
       "onboard_time": 1771953676,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 323729,
+      "num": 171511,
+      "word": "长剧出现了马年第1匹口碑黑马",
+      "onboard_time": 1771988300,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 322135,
+      "num": 180016,
+      "word": "生酮饮食是个啥",
+      "onboard_time": 1771985602,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 308077,
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 307968,
-      "num": 172703,
+      "num": 179886,
       "word": "iPhone18Pro深红色",
       "onboard_time": 1771974435,
       "rank": 23,
@@ -163,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259775,
+      "num": 178186,
+      "word": "宁艺卓出发Gucci大秀",
+      "onboard_time": 1771988900,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259125,
       "num": 259125,
       "word": "高速堵车大哥在路边架锅卖炒粉",
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 246461,
-      "num": 166496,
+      "num": 171386,
       "word": "继父曾发布女童穿短裙高跟鞋视频",
       "onboard_time": 1771987340,
       "rank": 20,
@@ -195,12 +227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239664,
+      "num": 239664,
+      "word": "大爷欲购200万元黄金店员报警",
+      "onboard_time": 1771986440,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236380,
       "num": 133838,
       "word": "杨洋的不让江山妆造",
       "onboard_time": 1771941804,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233723,
+      "num": 175849,
+      "word": "金店店员称结婚不要强追五金",
+      "onboard_time": 1771984941,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227152,
@@ -267,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188986,
+      "num": 174845,
+      "word": "殴打少女夫妻事前曾错打3名路人",
+      "onboard_time": 1771988000,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186132,
       "num": 186132,
       "word": "谷爱凌U槽卫冕英媒质疑打分",
@@ -297,6 +353,14 @@
       "onboard_time": 1771945642,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174084,
+      "num": 174084,
+      "word": "碧血蝉",
+      "onboard_time": 1771978280,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 172790,
@@ -347,28 +411,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163285,
+      "num": 163285,
+      "word": "四六级查分时间",
+      "onboard_time": 1771988541,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 159871,
       "num": 159871,
       "word": "林枫松陈稳直播",
       "onboard_time": 1771946003,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159840,
-      "num": 159840,
-      "word": "金店店员称结婚不要强追五金",
-      "onboard_time": 1771984941,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157637,
-      "num": 157637,
-      "word": "碧血蝉",
-      "onboard_time": 1771978280,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 151918,
@@ -387,20 +443,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149312,
-      "num": 141426,
-      "word": "生酮饮食是个啥",
-      "onboard_time": 1771985602,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 148763,
       "num": 184542,
       "word": "正月剃头死舅舅的真相来了",
       "onboard_time": 1771919601,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142666,
+      "num": 142666,
+      "word": "贾冰已确诊黄景瑜唯粉",
+      "onboard_time": 1771989320,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 137780,
@@ -419,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134454,
+      "num": 134454,
+      "word": "肖战平底鞋",
+      "onboard_time": 1771988959,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134013,
       "num": 134013,
       "word": "刘强东宣布进军游艇行业",
@@ -433,6 +497,14 @@
       "onboard_time": 1771932083,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130552,
+      "num": 130552,
+      "word": "王楚钦回应鹰眼挑战失败",
+      "onboard_time": 1771989200,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 125487,
@@ -459,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108097,
+      "num": 108097,
+      "word": "女子不会做饭用泡面招待亲戚",
+      "onboard_time": 1771989440,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107371,
       "num": 107371,
       "word": "张元英ins更新",
@@ -481,6 +561,30 @@
       "onboard_time": 1771981821,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103878,
+      "num": 103878,
+      "word": "新版傲慢与偏见预告",
+      "onboard_time": 1771988480,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102185,
+      "num": 102185,
+      "word": "爱你开播一周年",
+      "onboard_time": 1771989680,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100152,
+      "num": 100152,
+      "word": "我们的少年时代2开机日",
+      "onboard_time": 1771985538,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 99128,
@@ -524,7 +628,7 @@
     },
     {
       "raw_hot": 95470,
-      "num": 113785,
+      "num": 135806,
       "word": "一种过期了就不能吃的食物",
       "onboard_time": 1771977559,
       "rank": 29,
@@ -563,8 +667,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88849,
+      "num": 100945,
+      "word": "十几年前的cp人气排名",
+      "onboard_time": 1771989560,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 88555,
-      "num": 88555,
+      "num": 88651,
       "word": "金饰价格跌到1564元",
       "onboard_time": 1771984401,
       "rank": 36,
@@ -577,14 +689,6 @@
       "onboard_time": 1771983140,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87770,
-      "num": 87770,
-      "word": "我们的少年时代2开机日",
-      "onboard_time": 1771985538,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 87713,
@@ -627,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83294,
+      "num": 83294,
+      "word": "我们的少年时代2",
+      "onboard_time": 1771984401,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83202,
       "num": 83202,
       "word": "沈腾设计的超帅反踹车门没给镜头",
@@ -667,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78017,
+      "num": 78017,
+      "word": "谷爱凌的金色蝴蝶结是即兴系的",
+      "onboard_time": 1771989139,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77832,
       "num": 77832,
       "word": "用4年感受到了命运的推背感",
@@ -681,14 +801,6 @@
       "onboard_time": 1771982899,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73824,
-      "num": 73824,
-      "word": "我们的少年时代2",
-      "onboard_time": 1771984401,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 73335,
@@ -761,14 +873,6 @@
       "onboard_time": 1771974977,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 63542,
-      "num": 167386,
-      "word": "大爷欲购200万元黄金店员报警",
-      "onboard_time": 1771986440,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63390,
@@ -1046,6 +1150,9 @@
   "hotgov_list": [
     {
       "word": "#树立和践行正确政绩观#"
+    },
+    {
+      "word": "#总书记高度重视领导干部政绩观问题#"
     }
   ]
 }
