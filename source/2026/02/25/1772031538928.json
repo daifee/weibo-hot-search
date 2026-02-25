@@ -1,0 +1,410 @@
+{
+  "runTime": 1772031538928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 503798,
+        "num": 1080607,
+        "word": "女子心跳骤停因美甲无法探测血氧值",
+        "onboard_time": 1772025022,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307966,
+        "num": 774449,
+        "word": "夫妻晚5秒错过免费高速付1700余元",
+        "onboard_time": 1772028022,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63422,
+        "num": 628374,
+        "word": "春节假期多项数据创历史新高",
+        "onboard_time": 1772025442,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 760672,
+        "num": 600067,
+        "word": "女子在胖东来1小时消费15万",
+        "onboard_time": 1772025624,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381056,
+        "num": 381056,
+        "word": "代露娃 短剧",
+        "onboard_time": 1772010800,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332248,
+        "num": 332248,
+        "word": "金价高的已经推出红绳戒指了",
+        "onboard_time": 1772022501,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1671052,
+        "num": 319086,
+        "word": "谷爱凌在美国遭大规模网暴",
+        "onboard_time": 1772026342,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271187,
+        "num": 271187,
+        "word": "魅族",
+        "onboard_time": 1772023881,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 265383,
+        "num": 265383,
+        "word": "尘白禁区 中国邮政",
+        "onboard_time": 1772024602,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254990,
+        "num": 254990,
+        "word": "孙颖莎黄牌",
+        "onboard_time": 1772023462,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 959315,
+        "num": 254734,
+        "word": "王天辰郭晓婷床戏",
+        "onboard_time": 1772027362,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578519,
+        "num": 253935,
+        "word": "王橹杰壁纸",
+        "onboard_time": 1772022261,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279251,
+        "num": 253624,
+        "word": "女子疑丈夫出轨闺蜜花9千雇人追踪",
+        "onboard_time": 1772027782,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376648,
+        "num": 252771,
+        "word": "刘晓庆短剧吻戏",
+        "onboard_time": 1772022682,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278094,
+        "num": 251923,
+        "word": "白鹿忘记自己会说韩语了",
+        "onboard_time": 1772024122,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269608,
+        "num": 251798,
+        "word": "iPhone可添加门禁卡可写入加密",
+        "onboard_time": 1772026162,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 251303,
+        "num": 251303,
+        "word": "考研",
+        "onboard_time": 1772028743,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216347,
+        "num": 216347,
+        "word": "拍谢娜双胞胎儿女的狗仔涉嫌违法",
+        "onboard_time": 1772023581,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212152,
+        "num": 212152,
+        "word": "女子5.5克黄金戒指换新只剩下2克",
+        "onboard_time": 1772029042,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38245,
+        "num": 184247,
+        "word": "FENDI大秀明星阵容",
+        "onboard_time": 1772030062,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 423137,
+        "num": 184021,
+        "word": "墨宝非宝宣布离婚",
+        "onboard_time": 1772015661,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324486,
+        "num": 182425,
+        "word": "一家4口上山妻子死亡失联时神情恐惧",
+        "onboard_time": 1772020162,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174827,
+        "num": 174827,
+        "word": "19岁女生因经济舱综合征心脏骤停",
+        "onboard_time": 1772024062,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172929,
+        "num": 172929,
+        "word": "杨洋不让江山复工",
+        "onboard_time": 1772016802,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169956,
+        "num": 169956,
+        "word": "张杰声援谢娜",
+        "onboard_time": 1772011701,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168788,
+        "num": 168788,
+        "word": "福建喊话回归台湾回复收到",
+        "onboard_time": 1772023762,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157423,
+        "num": 157423,
+        "word": "偏偏宠爱女主",
+        "onboard_time": 1772023102,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153632,
+        "num": 153632,
+        "word": "继父亲吻女孩事件最新进展",
+        "onboard_time": 1772030363,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146042,
+        "num": 146042,
+        "word": "刘少昂女友发文",
+        "onboard_time": 1772031202,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140150,
+        "num": 140150,
+        "word": "靠爱不能维持一辈子的婚姻",
+        "onboard_time": 1772025742,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132025,
+        "num": 132025,
+        "word": "魅族手机3月正式退市",
+        "onboard_time": 1772022381,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116711,
+        "num": 116711,
+        "word": "中国最适合夫妻养老退休的城市",
+        "onboard_time": 1772030962,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 111334,
+        "num": 111334,
+        "word": "陶喆最终五站官宣",
+        "onboard_time": 1772020882,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108876,
+        "num": 108876,
+        "word": "谷爱凌晒照纪念奶奶",
+        "onboard_time": 1772027362,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106930,
+        "num": 106930,
+        "word": "孙颖莎不是我的分我坚决不要",
+        "onboard_time": 1772024482,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106633,
+        "num": 106633,
+        "word": "胖东来针织衫只赚1块1",
+        "onboard_time": 1772031202,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104031,
+        "num": 104031,
+        "word": "向华强说遗产都交给郭碧婷来管",
+        "onboard_time": 1772031382,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101886,
+        "num": 101886,
+        "word": "女大学生坐硬座31小时返校心脏骤停",
+        "onboard_time": 1772030542,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97860,
+        "num": 97860,
+        "word": "马景涛儿子韩国体验练习生",
+        "onboard_time": 1772030663,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96320,
+        "num": 96320,
+        "word": "方穆静瞿桦 做恨",
+        "onboard_time": 1772023701,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84775,
+        "num": 84775,
+        "word": "王者荣耀",
+        "onboard_time": 1772024242,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94603,
+        "num": 84316,
+        "word": "虞书欣云初暗夜奔跑",
+        "onboard_time": 1772028622,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92521,
+        "num": 84230,
+        "word": "钱枫近况",
+        "onboard_time": 1772001261,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81307,
+        "num": 81307,
+        "word": "谷爱凌回怼美副总统",
+        "onboard_time": 1772031323,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89655,
+        "num": 81063,
+        "word": "丞磊成何体统收官长文",
+        "onboard_time": 1772029643,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85042,
+        "num": 81010,
+        "word": "郭晓婷王天辰 单开一部",
+        "onboard_time": 1772030243,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79414,
+        "num": 79414,
+        "word": "男顾客发57条信息骚扰女骑手",
+        "onboard_time": 1772029042,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84884,
+        "num": 79393,
+        "word": "成何体统结局拍出唐晓天人生镜头",
+        "onboard_time": 1772029463,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83907,
+        "num": 79157,
+        "word": "双轨",
+        "onboard_time": 1772023283,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77580,
+        "num": 77580,
+        "word": "俄罗斯外交部声明",
+        "onboard_time": 1772024962,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见默茨#"
+    }
+  }
+}

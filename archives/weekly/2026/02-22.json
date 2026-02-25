@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772027419749,
+  "endTime": 1772031538928,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -65,6 +65,14 @@
       "onboard_time": 1771999401,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1671052,
+      "num": 375843,
+      "word": "谷爱凌在美国遭大规模网暴",
+      "onboard_time": 1772026342,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1623958,
@@ -219,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1051157,
-      "num": 375843,
-      "word": "谷爱凌在美国遭大规模网暴",
-      "onboard_time": 1772026342,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1033690,
       "num": 1165390,
       "word": "不让江山剧组声明",
@@ -265,6 +265,14 @@
       "onboard_time": 1772023462,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 959315,
+      "num": 268588,
+      "word": "王天辰郭晓婷床戏",
+      "onboard_time": 1772027362,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 956412,
@@ -472,6 +480,14 @@
       "word": "灵隐寺惊现110万家厂商祈福",
       "onboard_time": 1771900520,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 760672,
+      "num": 822902,
+      "word": "女子在胖东来1小时消费15万",
+      "onboard_time": 1772025624,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -843,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 574974,
-      "num": 822902,
-      "word": "女子在胖东来1小时消费15万",
-      "onboard_time": 1772025624,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 574259,
       "num": 259247,
       "word": "王格格开了时代峰峻的高会",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1771941804,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503798,
+      "num": 1080607,
+      "word": "女子心跳骤停因美甲无法探测血氧值",
+      "onboard_time": 1772025022,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497422,
@@ -2211,6 +2227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 307966,
+      "num": 774449,
+      "word": "夫妻晚5秒错过免费高速付1700余元",
+      "onboard_time": 1772028022,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307743,
       "num": 186928,
       "word": "陈丽君自曝把命都交代出去",
@@ -2452,7 +2476,7 @@
     },
     {
       "raw_hot": 285613,
-      "num": 166977,
+      "num": 216347,
       "word": "拍谢娜双胞胎儿女的狗仔涉嫌违法",
       "onboard_time": 1772023581,
       "rank": 22,
@@ -2499,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279251,
+      "num": 253624,
+      "word": "女子疑丈夫出轨闺蜜花9千雇人追踪",
+      "onboard_time": 1772027782,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278972,
       "num": 148554,
       "word": "李昀锐拍宋雨琦",
@@ -2513,6 +2545,14 @@
       "onboard_time": 1771762941,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278094,
+      "num": 251923,
+      "word": "白鹿忘记自己会说韩语了",
+      "onboard_time": 1772024122,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 277942,
@@ -2595,26 +2635,18 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269608,
+      "num": 251798,
+      "word": "iPhone可添加门禁卡可写入加密",
+      "onboard_time": 1772026162,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 268741,
       "num": 185635,
       "word": "福州偶遇陈赫张子萱",
       "onboard_time": 1771753639,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 268588,
-      "num": 268588,
-      "word": "王天辰郭晓婷床戏",
-      "onboard_time": 1772027362,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 268566,
-      "num": 193768,
-      "word": "白鹿忘记自己会说韩语了",
-      "onboard_time": 1772024122,
       "rank": 25,
       "category": "艺人"
     },
@@ -3481,6 +3513,14 @@
       "onboard_time": 1771716977,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212152,
+      "num": 212152,
+      "word": "女子5.5克黄金戒指换新只剩下2克",
+      "onboard_time": 1772029042,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210402,
@@ -4443,14 +4483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159550,
-      "num": 134084,
-      "word": "iPhone可添加门禁卡可写入加密",
-      "onboard_time": 1772026162,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 159280,
       "num": 64224,
       "word": "那艺娜账号被禁止关注",
@@ -4569,6 +4601,14 @@
       "onboard_time": 1771768463,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153632,
+      "num": 153632,
+      "word": "继父亲吻女孩事件最新进展",
+      "onboard_time": 1772030363,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153431,
@@ -4745,6 +4785,14 @@
       "onboard_time": 1771739599,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146042,
+      "num": 146042,
+      "word": "刘少昂女友发文",
+      "onboard_time": 1772031202,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 145947,
@@ -5009,6 +5057,14 @@
       "onboard_time": 1772010201,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 140150,
+      "num": 140150,
+      "word": "靠爱不能维持一辈子的婚姻",
+      "onboard_time": 1772025742,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 139843,
@@ -5571,14 +5627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125103,
-      "num": 125103,
-      "word": "靠爱不能维持一辈子的婚姻",
-      "onboard_time": 1772025742,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125006,
       "num": 125006,
       "word": "差点没认出来这是王骁",
@@ -5979,6 +6027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116711,
+      "num": 116711,
+      "word": "中国最适合夫妻养老退休的城市",
+      "onboard_time": 1772030962,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 116195,
       "num": 116195,
       "word": "男女性吸引通常两三年就会变淡",
@@ -6041,14 +6097,6 @@
       "onboard_time": 1771756100,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115257,
-      "num": 115257,
-      "word": "女子心跳骤停因美甲无法探测血氧值",
-      "onboard_time": 1772025022,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115044,
@@ -6555,6 +6603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106633,
+      "num": 106633,
+      "word": "胖东来针织衫只赚1块1",
+      "onboard_time": 1772031202,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106598,
       "num": 183913,
       "word": "王鹤棣自曝新疆拍戏胖到140斤",
@@ -6739,6 +6795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104031,
+      "num": 104031,
+      "word": "向华强说遗产都交给郭碧婷来管",
+      "onboard_time": 1772031382,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104025,
       "num": 117432,
       "word": "陈俊菘2比3张本智和",
@@ -6921,6 +6985,14 @@
       "onboard_time": 1771742120,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101886,
+      "num": 101886,
+      "word": "女大学生坐硬座31小时返校心脏骤停",
+      "onboard_time": 1772030542,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101839,
@@ -7139,6 +7211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97860,
+      "num": 97860,
+      "word": "马景涛儿子韩国体验练习生",
+      "onboard_time": 1772030663,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97701,
       "num": 97701,
       "word": "109只个股涨停",
@@ -7329,6 +7409,14 @@
       "onboard_time": 1771918461,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94603,
+      "num": 84316,
+      "word": "虞书欣云初暗夜奔跑",
+      "onboard_time": 1772028622,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 94385,
@@ -7755,6 +7843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89655,
+      "num": 81063,
+      "word": "丞磊成何体统收官长文",
+      "onboard_time": 1772029643,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89630,
       "num": 89630,
       "word": "章子怡带女儿玩飞拉达",
@@ -8147,6 +8243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85042,
+      "num": 81010,
+      "word": "郭晓婷王天辰 单开一部",
+      "onboard_time": 1772030243,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85041,
       "num": 85041,
       "word": "西安雪片大如硬币",
@@ -8177,6 +8281,14 @@
       "onboard_time": 1772016024,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 84884,
+      "num": 79393,
+      "word": "成何体统结局拍出唐晓天人生镜头",
+      "onboard_time": 1772029463,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 84745,
@@ -8443,6 +8555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81307,
+      "num": 81307,
+      "word": "谷爱凌回怼美副总统",
+      "onboard_time": 1772031323,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81262,
       "num": 129827,
       "word": "平顶山打人夫妻最高或判10年",
@@ -8585,6 +8705,14 @@
       "onboard_time": 1772005161,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79414,
+      "num": 79414,
+      "word": "男顾客发57条信息骚扰女骑手",
+      "onboard_time": 1772029042,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79173,
@@ -10433,6 +10561,14 @@
       "onboard_time": 1771986500,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38245,
+      "num": 184247,
+      "word": "FENDI大秀明星阵容",
+      "onboard_time": 1772030062,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 38140,
