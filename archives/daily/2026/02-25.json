@@ -1,6 +1,6 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1772031538928,
+  "endTime": 1772033570854,
   "band_list": [
     {
       "raw_hot": 1700156,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 543239,
+      "num": 194648,
+      "word": "谷爱凌回怼美副总统",
+      "onboard_time": 1772031323,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 531411,
       "num": 177543,
       "word": "江西一家人自驾返程出车祸1死4伤",
@@ -320,6 +328,14 @@
       "word": "女子心跳骤停因美甲无法探测血氧值",
       "onboard_time": 1772025022,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501412,
+      "num": 1080225,
+      "word": "夫妻晚5秒错过免费高速付1700余元",
+      "onboard_time": 1772028022,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -443,6 +459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390709,
+      "num": 390709,
+      "word": "华策声明",
+      "onboard_time": 1772032522,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 387287,
+      "num": 217246,
+      "word": "刘少昂女友发文",
+      "onboard_time": 1772031202,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378373,
       "num": 378373,
       "word": "孙颖莎不是我的分我坚决不要",
@@ -531,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353038,
+      "num": 213666,
+      "word": "向华强说遗产都交给郭碧婷来管",
+      "onboard_time": 1772031382,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350275,
       "num": 350275,
       "word": "春节档票房 回到18年",
@@ -577,6 +617,14 @@
       "onboard_time": 1771953676,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 330294,
+      "num": 330294,
+      "word": "试管婴儿出生右脚缺4趾产检未发现",
+      "onboard_time": 1772031981,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 327573,
@@ -665,14 +713,6 @@
       "onboard_time": 1771974435,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 307966,
-      "num": 774449,
-      "word": "夫妻晚5秒错过免费高速付1700余元",
-      "onboard_time": 1772028022,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307388,
@@ -833,6 +873,14 @@
       "onboard_time": 1771988959,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257401,
+      "num": 257401,
+      "word": "女子5.5克黄金戒指换新只剩下2克",
+      "onboard_time": 1772029042,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254580,
@@ -1051,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212152,
-      "num": 212152,
-      "word": "女子5.5克黄金戒指换新只剩下2克",
-      "onboard_time": 1772029042,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209715,
       "num": 165407,
       "word": "曝杨洋手里不缺剧本",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1771978280,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174024,
+      "num": 174024,
+      "word": "中国最适合夫妻养老退休的城市",
+      "onboard_time": 1772030962,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 172790,
@@ -1299,6 +1347,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156770,
+      "num": 156770,
+      "word": "女大学生坐硬座31小时返校心脏骤停",
+      "onboard_time": 1772030542,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156503,
+      "num": 156503,
+      "word": "放过小说妹",
+      "onboard_time": 1772032342,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155810,
       "num": 132130,
       "word": "谷爱凌晒照纪念奶奶",
@@ -1361,14 +1425,6 @@
       "onboard_time": 1772027362,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146042,
-      "num": 146042,
-      "word": "刘少昂女友发文",
-      "onboard_time": 1772031202,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 144933,
@@ -1667,14 +1723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116711,
-      "num": 116711,
-      "word": "中国最适合夫妻养老退休的城市",
-      "onboard_time": 1772030962,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 115688,
       "num": 115688,
       "word": "凌晨2点iPhone自动拨电话",
@@ -1771,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108454,
+      "num": 108454,
+      "word": "胖东来针织衫只赚1块1",
+      "onboard_time": 1772031202,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108097,
       "num": 108097,
       "word": "女子不会做饭用泡面招待亲戚",
@@ -1824,14 +1880,6 @@
       "word": "平台回应夫妻春节送外卖1个月赚4万",
       "onboard_time": 1771945522,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106633,
-      "num": 106633,
-      "word": "胖东来针织衫只赚1块1",
-      "onboard_time": 1772031202,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1891,14 +1939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104031,
-      "num": 104031,
-      "word": "向华强说遗产都交给郭碧婷来管",
-      "onboard_time": 1772031382,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103878,
       "num": 103878,
       "word": "新版傲慢与偏见预告",
@@ -1939,20 +1979,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102226,
+      "num": 102226,
+      "word": "宋雨琦看秀造型",
+      "onboard_time": 1772033062,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102185,
       "num": 102185,
       "word": "爱你开播一周年",
       "onboard_time": 1771989680,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101886,
-      "num": 101886,
-      "word": "女大学生坐硬座31小时返校心脏骤停",
-      "onboard_time": 1772030542,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101051,
@@ -2019,6 +2059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 98345,
+      "num": 97166,
+      "word": "Kep1er献唱哪吒2",
+      "onboard_time": 1772033182,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98112,
       "num": 98112,
       "word": "瑶一瑶小肉包近30天掉粉4万",
@@ -2035,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97634,
+      "num": 97634,
+      "word": "终于知道小说里的男女主长啥样了",
+      "onboard_time": 1772032282,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97608,
       "num": 97608,
       "word": "日本以为中方会软化立场",
@@ -2049,6 +2105,14 @@
       "onboard_time": 1772017942,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96964,
+      "num": 96964,
+      "word": "菠菜最好吃的做法",
+      "onboard_time": 1772032881,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 96826,
@@ -2105,6 +2169,14 @@
       "onboard_time": 1772014582,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94908,
+      "num": 94908,
+      "word": "郭晓婷王天辰 单开一部",
+      "onboard_time": 1772030243,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 94603,
@@ -2201,6 +2273,14 @@
       "onboard_time": 1771998800,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92354,
+      "num": 90422,
+      "word": "丞磊发了九宫格双人照",
+      "onboard_time": 1772032823,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 92057,
@@ -2355,14 +2435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85042,
-      "num": 81010,
-      "word": "郭晓婷王天辰 单开一部",
-      "onboard_time": 1772030243,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84943,
       "num": 131650,
       "word": "不用节食就能瘦回去的方法",
@@ -2441,14 +2513,6 @@
       "onboard_time": 1771974017,
       "rank": 49,
       "category": "综艺,数码"
-    },
-    {
-      "raw_hot": 81307,
-      "num": 81307,
-      "word": "谷爱凌回怼美副总统",
-      "onboard_time": 1772031323,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 81262,
@@ -2723,6 +2787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 59948,
+      "num": 97168,
+      "word": "乌士兵被迫肢解战友遗体",
+      "onboard_time": 1772032823,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58771,
       "num": 58771,
       "word": "Gucci出发图",
@@ -2851,12 +2923,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45511,
+      "num": 195968,
+      "word": "FENDI大秀明星阵容",
+      "onboard_time": 1772030062,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 43501,
       "num": 109312,
       "word": "战略金属钨一年暴涨220%",
       "onboard_time": 1772024721,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43477,
+      "num": 197319,
+      "word": "Maria回归FENDI首秀",
+      "onboard_time": 1772031922,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 41997,
@@ -2881,14 +2969,6 @@
       "onboard_time": 1771986500,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 38245,
-      "num": 184247,
-      "word": "FENDI大秀明星阵容",
-      "onboard_time": 1772030062,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 37489,

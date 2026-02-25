@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772031538928,
+  "endTime": 1772033570854,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -6851,6 +6851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 543239,
+      "num": 194648,
+      "word": "谷爱凌回怼美副总统",
+      "onboard_time": 1772031323,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 543047,
       "num": 543047,
       "word": "演员自曝13年前4元一克买白银",
@@ -7632,6 +7640,14 @@
       "word": "中戏已有两位表演系主任主动投案",
       "onboard_time": 1770951980,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501412,
+      "num": 1080225,
+      "word": "夫妻晚5秒错过免费高速付1700余元",
+      "onboard_time": 1772028022,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -10707,6 +10723,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 390709,
+      "num": 390709,
+      "word": "华策声明",
+      "onboard_time": 1772032522,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 390698,
       "num": 838844,
       "word": "苏翊鸣因北京冬奥会放弃当演员",
@@ -10833,6 +10857,14 @@
       "onboard_time": 1771824800,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387287,
+      "num": 217246,
+      "word": "刘少昂女友发文",
+      "onboard_time": 1772031202,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 387113,
@@ -12347,6 +12379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353038,
+      "num": 213666,
+      "word": "向华强说遗产都交给郭碧婷来管",
+      "onboard_time": 1772031382,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352953,
       "num": 213457,
       "word": "大年初五8岁男童虎跳峡坠崖遇难",
@@ -13457,6 +13497,14 @@
       "onboard_time": 1770450742,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 330294,
+      "num": 330294,
+      "word": "试管婴儿出生右脚缺4趾产检未发现",
+      "onboard_time": 1772031981,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330142,
@@ -14753,14 +14801,6 @@
       "onboard_time": 1771974435,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 307966,
-      "num": 774449,
-      "word": "夫妻晚5秒错过免费高速付1700余元",
-      "onboard_time": 1772028022,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307928,
@@ -18113,6 +18153,14 @@
       "onboard_time": 1771988959,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257401,
+      "num": 257401,
+      "word": "女子5.5克黄金戒指换新只剩下2克",
+      "onboard_time": 1772029042,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257176,
@@ -22083,14 +22131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212152,
-      "num": 212152,
-      "word": "女子5.5克黄金戒指换新只剩下2克",
-      "onboard_time": 1772029042,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211907,
       "num": 211907,
       "word": "戚薇李承铉原来是长期主义父母",
@@ -25987,6 +26027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174024,
+      "num": 174024,
+      "word": "中国最适合夫妻养老退休的城市",
+      "onboard_time": 1772030962,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 173995,
       "num": 173995,
       "word": "电视剧生命树已穷到没边了",
@@ -28043,12 +28091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156770,
+      "num": 156770,
+      "word": "女大学生坐硬座31小时返校心脏骤停",
+      "onboard_time": 1772030542,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156527,
       "num": 156527,
       "word": "谢娜直播",
       "onboard_time": 1770214102,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156503,
+      "num": 156503,
+      "word": "放过小说妹",
+      "onboard_time": 1772032342,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 156462,
@@ -29689,14 +29753,6 @@
       "onboard_time": 1770885500,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146042,
-      "num": 146042,
-      "word": "刘少昂女友发文",
-      "onboard_time": 1772031202,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 146022,
@@ -36435,14 +36491,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 116711,
-      "num": 116711,
-      "word": "中国最适合夫妻养老退休的城市",
-      "onboard_time": 1772030962,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 116639,
       "num": 116639,
       "word": "年货最善良的水果",
@@ -39139,6 +39187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 108454,
+      "num": 108454,
+      "word": "胖东来针织衫只赚1块1",
+      "onboard_time": 1772031202,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108386,
       "num": 103408,
       "word": "苏翊鸣冬奥首个1980",
@@ -39856,14 +39912,6 @@
       "word": "6岁女孩拜年5岁小叔妈妈发声",
       "onboard_time": 1771475781,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106633,
-      "num": 106633,
-      "word": "胖东来针织衫只赚1块1",
-      "onboard_time": 1772031202,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -40899,14 +40947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104031,
-      "num": 104031,
-      "word": "向华强说遗产都交给郭碧婷来管",
-      "onboard_time": 1772031382,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104025,
       "num": 117432,
       "word": "陈俊菘2比3张本智和",
@@ -41635,6 +41675,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 102226,
+      "num": 102226,
+      "word": "宋雨琦看秀造型",
+      "onboard_time": 1772033062,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102185,
       "num": 102185,
       "word": "爱你开播一周年",
@@ -41761,14 +41809,6 @@
       "onboard_time": 1771067119,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101886,
-      "num": 101886,
-      "word": "女大学生坐硬座31小时返校心脏骤停",
-      "onboard_time": 1772030542,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101878,
@@ -43211,6 +43251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98345,
+      "num": 97166,
+      "word": "Kep1er献唱哪吒2",
+      "onboard_time": 1772033182,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98289,
       "num": 98289,
       "word": "星穹下的格桑花公益片",
@@ -43547,6 +43595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97634,
+      "num": 97634,
+      "word": "终于知道小说里的男女主长啥样了",
+      "onboard_time": 1772032282,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97608,
       "num": 97608,
       "word": "日本以为中方会软化立场",
@@ -43769,6 +43825,14 @@
       "onboard_time": 1770066674,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96964,
+      "num": 96964,
+      "word": "菠菜最好吃的做法",
+      "onboard_time": 1772032881,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 96956,
@@ -44609,6 +44673,14 @@
       "onboard_time": 1770199520,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94908,
+      "num": 94908,
+      "word": "郭晓婷王天辰 单开一部",
+      "onboard_time": 1772030243,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 94885,
@@ -45873,6 +45945,14 @@
       "onboard_time": 1770897500,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92354,
+      "num": 90422,
+      "word": "丞磊发了九宫格双人照",
+      "onboard_time": 1772032823,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 92345,
@@ -49523,14 +49603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85042,
-      "num": 81010,
-      "word": "郭晓婷王天辰 单开一部",
-      "onboard_time": 1772030243,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85041,
       "num": 85041,
       "word": "西安雪片大如硬币",
@@ -51217,14 +51289,6 @@
       "onboard_time": 1771489100,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 81307,
-      "num": 81307,
-      "word": "谷爱凌回怼美副总统",
-      "onboard_time": 1772031323,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 81304,
@@ -59795,6 +59859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59948,
+      "num": 97168,
+      "word": "乌士兵被迫肢解战友遗体",
+      "onboard_time": 1772032823,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59924,
       "num": 59924,
       "word": "吉林一女子中1204万大奖",
@@ -63291,6 +63363,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 45511,
+      "num": 195968,
+      "word": "FENDI大秀明星阵容",
+      "onboard_time": 1772030062,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 45503,
       "num": 45503,
       "word": "兔子战术",
@@ -63833,6 +63913,14 @@
       "onboard_time": 1772024721,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43477,
+      "num": 197319,
+      "word": "Maria回归FENDI首秀",
+      "onboard_time": 1772031922,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 43455,
@@ -65049,14 +65137,6 @@
       "onboard_time": 1770492375,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38245,
-      "num": 184247,
-      "word": "FENDI大秀明星阵容",
-      "onboard_time": 1772030062,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 38184,
