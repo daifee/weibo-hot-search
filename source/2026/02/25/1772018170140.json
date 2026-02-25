@@ -1,0 +1,410 @@
+{
+  "runTime": 1772018170140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 384424,
+        "num": 1061507,
+        "word": "中秋请3天假堪比春节",
+        "onboard_time": 1771995320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218768,
+        "num": 757075,
+        "word": "女生患癌半年春节去世男友不离不弃",
+        "onboard_time": 1772006481,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46958,
+        "num": 589423,
+        "word": "春节消费节节高",
+        "onboard_time": 1772008460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211361,
+        "num": 572625,
+        "word": "多少滞留三亚的人被自己穷笑了",
+        "onboard_time": 1771993281,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138108,
+        "num": 567148,
+        "word": "广元大年初三失联男子已去世",
+        "onboard_time": 1772015241,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562038,
+        "num": 562038,
+        "word": "代露娃 短剧",
+        "onboard_time": 1772010800,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350275,
+        "num": 350275,
+        "word": "春节档票房 回到18年",
+        "onboard_time": 1772011641,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288688,
+        "num": 288688,
+        "word": "一顿饭付了63张五块钱",
+        "onboard_time": 1772013681,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301418,
+        "num": 281576,
+        "word": "杨洋不让江山复工",
+        "onboard_time": 1772016802,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88272,
+        "num": 271675,
+        "word": "北京JDG战胜长沙TES",
+        "onboard_time": 1772017641,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 337881,
+        "num": 271033,
+        "word": "星痕退役",
+        "onboard_time": 1772015661,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269981,
+        "num": 269981,
+        "word": "宇宙少女回归",
+        "onboard_time": 1772014582,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222947,
+        "num": 222947,
+        "word": "离职后发现了不同人的时钟",
+        "onboard_time": 1772012421,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204419,
+        "num": 204419,
+        "word": "华策 狂野时代",
+        "onboard_time": 1772013202,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154729,
+        "num": 154729,
+        "word": "不要低估两片紫菜的威力",
+        "onboard_time": 1772010503,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141908,
+        "num": 141908,
+        "word": "王安宇民及民以下身份的绝对好人",
+        "onboard_time": 1772013621,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132737,
+        "num": 132737,
+        "word": "JDG确定卡位赛",
+        "onboard_time": 1772017042,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130242,
+        "num": 130242,
+        "word": "高市早苗涉嫌违规",
+        "onboard_time": 1772016441,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60340,
+        "num": 129992,
+        "word": "香港自杀女警遗书中提到工作压力",
+        "onboard_time": 1772017823,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37669,
+        "num": 129827,
+        "word": "平顶山打人夫妻最高或判10年",
+        "onboard_time": 1772017222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1606857,
+        "num": 129495,
+        "word": "墨宝非宝宣布离婚",
+        "onboard_time": 1772015661,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 831383,
+        "num": 128904,
+        "word": "元宝骂人",
+        "onboard_time": 1772010800,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 803444,
+        "num": 128709,
+        "word": "张杰声援谢娜",
+        "onboard_time": 1772011701,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342139,
+        "num": 128244,
+        "word": "钱枫近况",
+        "onboard_time": 1772001261,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128095,
+        "num": 128095,
+        "word": "逐玉",
+        "onboard_time": 1772002760,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129446,
+        "num": 126192,
+        "word": "建议培养中小学副班主任",
+        "onboard_time": 1772016441,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196777,
+        "num": 125837,
+        "word": "网友新选的天涯四美",
+        "onboard_time": 1772006422,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195285,
+        "num": 123294,
+        "word": "马尔代夫偶遇麦琳和李行亮",
+        "onboard_time": 1772015602,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75628,
+        "num": 119789,
+        "word": "不用节食就能瘦回去的方法",
+        "onboard_time": 1772016024,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 59839,
+        "num": 118949,
+        "word": "比尔盖茨承认有过婚外关系",
+        "onboard_time": 1772010022,
+        "rank": 29,
+        "category": "海外新闻,互联网"
+      },
+      {
+        "raw_hot": 117372,
+        "num": 117372,
+        "word": "女教师因学生调皮确诊情志病",
+        "onboard_time": 1772017162,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178028,
+        "num": 115381,
+        "word": "谢娜恳请不要将镜头对准孩子",
+        "onboard_time": 1771999401,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144161,
+        "num": 114120,
+        "word": "肖战的保镖",
+        "onboard_time": 1772007981,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90774,
+        "num": 111784,
+        "word": "医生称完不成2.5万创收指标被待岗",
+        "onboard_time": 1772015241,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121247,
+        "num": 110086,
+        "word": "时代少年团纪录片当季上线",
+        "onboard_time": 1772015901,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107657,
+        "num": 107657,
+        "word": "邵雨轩回应张小花比自己厉害",
+        "onboard_time": 1772005941,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 88681,
+        "num": 103982,
+        "word": "新娘说退18万彩礼是心疼丈夫的不易",
+        "onboard_time": 1772008822,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101510,
+        "num": 101510,
+        "word": "张杰发未成年人保护法",
+        "onboard_time": 1772016441,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99582,
+        "num": 99582,
+        "word": "陈飞宇打耳洞了",
+        "onboard_time": 1772016502,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37763,
+        "num": 97706,
+        "word": "脆升升薯条被曝吃出苍蝇",
+        "onboard_time": 1772017222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97180,
+        "num": 97180,
+        "word": "网剧宝珠",
+        "onboard_time": 1772017942,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509240,
+        "num": 97131,
+        "word": "北京一独居女子去世房产归国家",
+        "onboard_time": 1772010862,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95212,
+        "num": 95212,
+        "word": "闵熙珍 hybe",
+        "onboard_time": 1772014582,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95164,
+        "num": 95164,
+        "word": "唐嫣你又开始自己画眉毛了吗",
+        "onboard_time": 1772006722,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81800,
+        "num": 81800,
+        "word": "不能用发照片当理由加微信了",
+        "onboard_time": 1772009061,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90600,
+        "num": 81528,
+        "word": "肖战和保镖体型差",
+        "onboard_time": 1772012961,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67196,
+        "num": 80864,
+        "word": "黄晓明审美",
+        "onboard_time": 1772012721,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80556,
+        "num": 80556,
+        "word": "KPL",
+        "onboard_time": 1772016624,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83472,
+        "num": 80531,
+        "word": "杨幂柳智敏撞衫",
+        "onboard_time": 1771996701,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77292,
+        "num": 80397,
+        "word": "徐梦桃说一个体前屈李天马就开哭",
+        "onboard_time": 1772017281,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#实干担当为民造福#"
+    }
+  }
+}

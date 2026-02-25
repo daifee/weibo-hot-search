@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772014674194,
+  "endTime": 1772018170140,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1075,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1606857,
+      "num": 129495,
+      "word": "墨宝非宝宣布离婚",
+      "onboard_time": 1772015661,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1603433,
       "num": 1603433,
       "word": "考研出分时间",
@@ -1404,7 +1412,7 @@
     },
     {
       "raw_hot": 1370233,
-      "num": 104933,
+      "num": 128709,
       "word": "张杰声援谢娜",
       "onboard_time": 1772011701,
       "rank": 21,
@@ -12347,6 +12355,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 350275,
+      "num": 350275,
+      "word": "春节档票房 回到18年",
+      "onboard_time": 1772011641,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 350127,
       "num": 181477,
       "word": "不让江山作者取关剧组",
@@ -12905,6 +12921,14 @@
       "onboard_time": 1770797422,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337881,
+      "num": 271033,
+      "word": "星痕退役",
+      "onboard_time": 1772015661,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 337730,
@@ -14915,6 +14939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301418,
+      "num": 281576,
+      "word": "杨洋不让江山复工",
+      "onboard_time": 1772016802,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301281,
       "num": 132269,
       "word": "杨幂白色高筒袜",
@@ -15721,6 +15753,14 @@
       "onboard_time": 1770821540,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288688,
+      "num": 288688,
+      "word": "一顿饭付了63张五块钱",
+      "onboard_time": 1772013681,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 288434,
@@ -16953,6 +16993,14 @@
       "onboard_time": 1770383482,
       "rank": 25,
       "category": "美食,互联网"
+    },
+    {
+      "raw_hot": 269981,
+      "num": 269981,
+      "word": "宇宙少女回归",
+      "onboard_time": 1772014582,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 269837,
@@ -22003,14 +22051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209609,
-      "num": 209609,
-      "word": "春节档票房 回到18年",
-      "onboard_time": 1772011641,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 209599,
       "num": 183482,
       "word": "马思纯王楚然 表妹长大了",
@@ -22433,6 +22473,14 @@
       "onboard_time": 1771490479,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204419,
+      "num": 204419,
+      "word": "华策 狂野时代",
+      "onboard_time": 1772013202,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 204200,
@@ -23377,6 +23425,14 @@
       "onboard_time": 1769862802,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195285,
+      "num": 123294,
+      "word": "马尔代夫偶遇麦琳和李行亮",
+      "onboard_time": 1772015602,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 195194,
@@ -28835,14 +28891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149448,
-      "num": 149448,
-      "word": "华策 狂野时代",
-      "onboard_time": 1772013202,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 149419,
       "num": 183465,
       "word": "返乡大哥打工30多年攒近300万",
@@ -30083,6 +30131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141908,
+      "num": 141908,
+      "word": "王安宇民及民以下身份的绝对好人",
+      "onboard_time": 1772013621,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141859,
       "num": 164662,
       "word": "千问免单卡可以买电影票了",
@@ -30913,6 +30969,14 @@
       "onboard_time": 1770192261,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 138108,
+      "num": 567148,
+      "word": "广元大年初三失联男子已去世",
+      "onboard_time": 1772015241,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138067,
@@ -32059,6 +32123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132737,
+      "num": 132737,
+      "word": "JDG确定卡位赛",
+      "onboard_time": 1772017042,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132720,
       "num": 132720,
       "word": "小猫一头扎进大猫怀里",
@@ -32579,6 +32651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130242,
+      "num": 130242,
+      "word": "高市早苗涉嫌违规",
+      "onboard_time": 1772016441,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130212,
       "num": 130212,
       "word": "王菲还未唱已带火你我经历的一刻",
@@ -32776,6 +32856,14 @@
       "word": "北京地铁9号线",
       "onboard_time": 1770084201,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129446,
+      "num": 126192,
+      "word": "建议培养中小学副班主任",
+      "onboard_time": 1772016441,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -34739,6 +34827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121247,
+      "num": 110086,
+      "word": "时代少年团纪录片当季上线",
+      "onboard_time": 1772015901,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121194,
       "num": 121194,
       "word": "德云社封箱",
@@ -35225,14 +35321,6 @@
       "onboard_time": 1770087379,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 119209,
-      "num": 119209,
-      "word": "王安宇民及民以下身份的绝对好人",
-      "onboard_time": 1772013621,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 119174,
@@ -35785,6 +35873,14 @@
       "onboard_time": 1770013760,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117372,
+      "num": 117372,
+      "word": "女教师因学生调皮确诊情志病",
+      "onboard_time": 1772017162,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117364,
@@ -41387,6 +41483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101510,
+      "num": 101510,
+      "word": "张杰发未成年人保护法",
+      "onboard_time": 1772016441,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101508,
       "num": 101508,
       "word": "王濛再回都灵感慨哽咽",
@@ -42161,6 +42265,14 @@
       "onboard_time": 1771572739,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99582,
+      "num": 99582,
+      "word": "陈飞宇打耳洞了",
+      "onboard_time": 1772016502,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 99561,
@@ -43123,6 +43235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97180,
+      "num": 97180,
+      "word": "网剧宝珠",
+      "onboard_time": 1772017942,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97163,
       "num": 97163,
       "word": "谷爱凌边流泪边拼搏",
@@ -43675,14 +43795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95766,
-      "num": 95766,
-      "word": "一顿饭付了63张五块钱",
-      "onboard_time": 1772013681,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 95762,
       "num": 95762,
       "word": "成何体统成绩",
@@ -43889,6 +44001,14 @@
       "onboard_time": 1770640460,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 95212,
+      "num": 95212,
+      "word": "闵熙珍 hybe",
+      "onboard_time": 1772014582,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 95207,
@@ -45987,6 +46107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90774,
+      "num": 111784,
+      "word": "医生称完不成2.5万创收指标被待岗",
+      "onboard_time": 1772015241,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90735,
       "num": 90735,
       "word": "苏翊鸣首轮排第一",
@@ -47201,6 +47329,14 @@
       "onboard_time": 1771167383,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88272,
+      "num": 271675,
+      "word": "北京JDG战胜长沙TES",
+      "onboard_time": 1772017641,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 88269,
@@ -51627,14 +51763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79369,
-      "num": 73772,
-      "word": "闵熙珍 hybe",
-      "onboard_time": 1772014582,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79353,
       "num": 79353,
       "word": "三角洲行动",
@@ -52531,6 +52659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 77292,
+      "num": 80397,
+      "word": "徐梦桃说一个体前屈李天马就开哭",
+      "onboard_time": 1772017281,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77291,
       "num": 77291,
       "word": "哪吒的回旋镖正中眉心",
@@ -53289,6 +53425,14 @@
       "onboard_time": 1771608377,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75628,
+      "num": 119789,
+      "word": "不用节食就能瘦回去的方法",
+      "onboard_time": 1772016024,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 75618,
@@ -54065,14 +54209,6 @@
       "onboard_time": 1771386860,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 73911,
-      "num": 72287,
-      "word": "宇宙少女回归",
-      "onboard_time": 1772014582,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 73854,
@@ -59001,6 +59137,14 @@
       "onboard_time": 1770174321,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 60340,
+      "num": 129992,
+      "word": "香港自杀女警遗书中提到工作压力",
+      "onboard_time": 1772017823,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60337,
@@ -64419,6 +64563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37763,
+      "num": 97706,
+      "word": "脆升升薯条被曝吃出苍蝇",
+      "onboard_time": 1772017222,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37729,
       "num": 236545,
       "word": "宝华月季二舅本尊露脸",
@@ -64433,6 +64585,14 @@
       "onboard_time": 1771297582,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37669,
+      "num": 129827,
+      "word": "平顶山打人夫妻最高或判10年",
+      "onboard_time": 1772017222,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37660,
