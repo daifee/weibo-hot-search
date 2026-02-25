@@ -1,0 +1,410 @@
+{
+  "runTime": 1772006917493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 627511,
+        "num": 1100401,
+        "word": "中秋请3天假堪比春节",
+        "onboard_time": 1771995320,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445045,
+        "num": 822618,
+        "word": "逐玉",
+        "onboard_time": 1772002760,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32420,
+        "num": 627306,
+        "word": "春节国内出游5.96亿人次",
+        "onboard_time": 1771990400,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552419,
+        "num": 552419,
+        "word": "大年初六21岁女生因癌症离世",
+        "onboard_time": 1772004742,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421390,
+        "num": 421390,
+        "word": "两个月水费1847元水务公司怀疑马桶",
+        "onboard_time": 1772004261,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386933,
+        "num": 386933,
+        "word": "多少滞留三亚的人被自己穷笑了",
+        "onboard_time": 1771993281,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287444,
+        "num": 287444,
+        "word": "获退的18万彩礼已所剩无几",
+        "onboard_time": 1771998499,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267581,
+        "num": 267581,
+        "word": "23岁香港女警在警署身亡",
+        "onboard_time": 1771998499,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220793,
+        "num": 220793,
+        "word": "小城市网购 AB货",
+        "onboard_time": 1772004801,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187927,
+        "num": 187927,
+        "word": "iPhone 自动打电话",
+        "onboard_time": 1771997240,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1374058,
+        "num": 184529,
+        "word": "钱枫近况",
+        "onboard_time": 1772001261,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 944694,
+        "num": 173803,
+        "word": "谢娜恳请不要将镜头对准孩子",
+        "onboard_time": 1771999401,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347718,
+        "num": 161719,
+        "word": "腾讯元宝向用户道歉",
+        "onboard_time": 1772003481,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 455235,
+        "num": 154594,
+        "word": "曝短剧出现男演员揩油镜头",
+        "onboard_time": 1772000662,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399942,
+        "num": 150141,
+        "word": "邵雨轩回应张小花比自己厉害",
+        "onboard_time": 1772005941,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141929,
+        "num": 141929,
+        "word": "难怪考试不让上厕所",
+        "onboard_time": 1771995141,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334565,
+        "num": 141857,
+        "word": "曝李佳琦过年给亲戚每人发了500红包",
+        "onboard_time": 1771999342,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55677,
+        "num": 141422,
+        "word": "奥迪E5开年抢先优惠20.59万",
+        "onboard_time": 1772003060,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62347,
+        "num": 141194,
+        "word": "男子在餐厅吃鱼吃出鱼线鱼钩",
+        "onboard_time": 1772005760,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35196,
+        "num": 140667,
+        "word": "女生患癌半年春节去世男友不离不弃",
+        "onboard_time": 1772006481,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647452,
+        "num": 140371,
+        "word": "鹿哈官宣得女",
+        "onboard_time": 1771997181,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128999,
+        "num": 140150,
+        "word": "王鹤棣一秒认出白鹿",
+        "onboard_time": 1772005642,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139844,
+        "num": 139844,
+        "word": "三亚通报在职教师被开除",
+        "onboard_time": 1771991541,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 580707,
+        "num": 134756,
+        "word": "黄晓明与女子同游新加坡",
+        "onboard_time": 1772006301,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324727,
+        "num": 134749,
+        "word": "徐冬冬尹子维婚礼前一天发生争执",
+        "onboard_time": 1772003121,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124721,
+        "num": 124721,
+        "word": "你打字吧 你字好看",
+        "onboard_time": 1771994542,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270277,
+        "num": 120828,
+        "word": "杨幂柳智敏撞衫",
+        "onboard_time": 1771996701,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208249,
+        "num": 116127,
+        "word": "刘浩存从小就长这样",
+        "onboard_time": 1772000662,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110957,
+        "num": 110957,
+        "word": "遇难女子失联前光着脚神情恐惧",
+        "onboard_time": 1772003181,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30543,
+        "num": 107664,
+        "word": "AI助盲眼镜成出行神器",
+        "onboard_time": 1772001861,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170213,
+        "num": 106384,
+        "word": "网友新选的天涯四美",
+        "onboard_time": 1772006422,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154706,
+        "num": 105914,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1771997119,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104879,
+        "num": 104879,
+        "word": "日本人在动物园扮演大熊猫吸引游客",
+        "onboard_time": 1772003002,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141586,
+        "num": 104857,
+        "word": "韦雪新男友首曝光",
+        "onboard_time": 1771998499,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131836,
+        "num": 102193,
+        "word": "短剧女主妆造梦回台偶韩偶巅峰",
+        "onboard_time": 1772004801,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99075,
+        "num": 99075,
+        "word": "刘强东已接到5条大型游艇订单",
+        "onboard_time": 1771987400,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128024,
+        "num": 99030,
+        "word": "鲁豫回应每天只吃三粒米",
+        "onboard_time": 1772003722,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117063,
+        "num": 99015,
+        "word": "唐嫣你又开始自己画眉毛了吗",
+        "onboard_time": 1772006722,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98843,
+        "num": 98843,
+        "word": "一家人返程出车祸母亲哭到昏厥",
+        "onboard_time": 1772005701,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84143,
+        "num": 98820,
+        "word": "现偶就是要少男少女演",
+        "onboard_time": 1772006360,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108215,
+        "num": 98819,
+        "word": "华策解散电影部门",
+        "onboard_time": 1771996823,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98801,
+        "num": 98801,
+        "word": "特朗普称美国人求他不要再赢了",
+        "onboard_time": 1772004980,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91181,
+        "num": 91181,
+        "word": "多家妇幼医院门口烟民扎堆",
+        "onboard_time": 1772006481,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89759,
+        "num": 89759,
+        "word": "长大后理解王宝强在安检前这一幕了",
+        "onboard_time": 1772006842,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86216,
+        "num": 86216,
+        "word": "谷爱凌在北京补习吃绿舌头雪糕",
+        "onboard_time": 1772006660,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83721,
+        "num": 83721,
+        "word": "单依纯二巡官宣",
+        "onboard_time": 1771995501,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81187,
+        "num": 81187,
+        "word": "闵熙珍放弃255亿韩元赔偿",
+        "onboard_time": 1771997660,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79738,
+        "num": 79738,
+        "word": "WBG对战iG",
+        "onboard_time": 1772002521,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80817,
+        "num": 79440,
+        "word": "时代峰峻高会否认时代少年团单飞",
+        "onboard_time": 1771989021,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77815,
+        "num": 77815,
+        "word": "卢昱晓何不同舟渡大婚出妆",
+        "onboard_time": 1772004141,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视领导干部政绩观问题#"
+    }
+  }
+}
