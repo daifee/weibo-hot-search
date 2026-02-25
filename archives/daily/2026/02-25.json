@@ -1,6 +1,6 @@
 {
   "startTime": 1771949263682,
-  "endTime": 1772006917493,
+  "endTime": 1772010053742,
   "band_list": [
     {
       "raw_hot": 1700156,
@@ -99,6 +99,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 731811,
+      "num": 162190,
+      "word": "邵雨轩回应张小花比自己厉害",
+      "onboard_time": 1772005941,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 675927,
       "num": 301334,
       "word": "杨幂柳智敏撞衫",
@@ -195,8 +203,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504547,
+      "num": 155175,
+      "word": "网友新选的天涯四美",
+      "onboard_time": 1772006422,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493551,
-      "num": 493551,
+      "num": 817061,
       "word": "两个月水费1847元水务公司怀疑马桶",
       "onboard_time": 1772004261,
       "rank": 3,
@@ -243,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 451980,
+      "num": 152426,
+      "word": "唐嫣你又开始自己画眉毛了吗",
+      "onboard_time": 1772006722,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435439,
       "num": 174462,
       "word": "肖战的鼻间痣好像小狐狸",
@@ -275,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 399942,
-      "num": 150330,
-      "word": "邵雨轩回应张小花比自己厉害",
-      "onboard_time": 1772005941,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 373721,
       "num": 169207,
       "word": "徐冬冬尹子维婚礼前一天发生争执",
@@ -296,6 +312,14 @@
       "word": "时代峰峻高会否认时代少年团单飞",
       "onboard_time": 1771989021,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 368109,
+      "num": 140294,
+      "word": "肖战的保镖",
+      "onboard_time": 1772007981,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -321,6 +345,14 @@
       "onboard_time": 1772003481,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 338575,
+      "num": 338575,
+      "word": "女生患癌半年春节去世男友不离不弃",
+      "onboard_time": 1772006481,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337730,
@@ -427,6 +459,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 294010,
+      "num": 294010,
+      "word": "小城市网购 AB货",
+      "onboard_time": 1772004801,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261235,
       "num": 172007,
       "word": "TVB演员游飚去世",
@@ -497,6 +537,14 @@
       "onboard_time": 1771987340,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243575,
+      "num": 121548,
+      "word": "谢娜张杰晒的都是孩子背影",
+      "onboard_time": 1772007261,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 243099,
@@ -603,20 +651,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221863,
+      "num": 221863,
+      "word": "多家妇幼医院门口烟民扎堆",
+      "onboard_time": 1772006481,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221042,
       "num": 221042,
       "word": "我们的少年时代2",
       "onboard_time": 1771984401,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220793,
-      "num": 220793,
-      "word": "小城市网购 AB货",
-      "onboard_time": 1772004801,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 213145,
@@ -731,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170213,
-      "num": 106384,
-      "word": "网友新选的天涯四美",
-      "onboard_time": 1772006422,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170122,
       "num": 170122,
       "word": "镖人票房破9亿",
@@ -753,6 +793,14 @@
       "onboard_time": 1771940062,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169513,
+      "num": 169513,
+      "word": "不能用发照片当理由加微信了",
+      "onboard_time": 1772009061,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 169272,
@@ -801,6 +849,14 @@
       "onboard_time": 1771988541,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 162495,
+      "num": 123346,
+      "word": "谷爱凌在北京补习吃绿舌头雪糕",
+      "onboard_time": 1772006660,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 159871,
@@ -859,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139748,
+      "num": 168335,
+      "word": "王鹤棣一秒认出白鹿",
+      "onboard_time": 1772005642,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137871,
       "num": 137871,
       "word": "短剧女主妆造梦回台偶韩偶巅峰",
@@ -889,6 +953,14 @@
       "onboard_time": 1771933942,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136245,
+      "num": 97756,
+      "word": "于正从白月光事件后像变了个人",
+      "onboard_time": 1772007202,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 135451,
@@ -937,14 +1009,6 @@
       "onboard_time": 1771989200,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128999,
-      "num": 168335,
-      "word": "王鹤棣一秒认出白鹿",
-      "onboard_time": 1772005642,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 128557,
@@ -1011,20 +1075,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117063,
-      "num": 99015,
-      "word": "唐嫣你又开始自己画眉毛了吗",
-      "onboard_time": 1772006722,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115688,
       "num": 115688,
       "word": "凌晨2点iPhone自动拨电话",
       "onboard_time": 1772001502,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 113448,
+      "num": 113448,
+      "word": "WBG对战iG",
+      "onboard_time": 1772002521,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 112729,
+      "num": 97690,
+      "word": "新娘说退18万彩礼是心疼丈夫的不易",
+      "onboard_time": 1772008822,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112149,
@@ -1113,14 +1185,6 @@
       "onboard_time": 1771945522,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105323,
-      "num": 105323,
-      "word": "WBG对战iG",
-      "onboard_time": 1772002521,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 104879,
@@ -1235,6 +1299,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 97876,
+      "num": 97876,
+      "word": "大疆反击美国禁令",
+      "onboard_time": 1772008460,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 97608,
+      "num": 97608,
+      "word": "日本以为中方会软化立场",
+      "onboard_time": 1772007502,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96826,
       "num": 96826,
       "word": "在集市上花了二十块钱买的小狗",
@@ -1283,6 +1363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94244,
+      "num": 94244,
+      "word": "一直以为米菲兔的嘴是x形状",
+      "onboard_time": 1772009542,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 93527,
       "num": 93527,
       "word": "多款相机价格暴涨近10倍",
@@ -1315,14 +1403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 91181,
-      "num": 91181,
-      "word": "多家妇幼医院门口烟民扎堆",
-      "onboard_time": 1772006481,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90576,
       "num": 90576,
       "word": "你要开始才能很厉害",
@@ -1345,6 +1425,14 @@
       "onboard_time": 1772006842,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88939,
+      "num": 88939,
+      "word": "元宝并非首次出现AI辱骂用户情况",
+      "onboard_time": 1772007622,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 88849,
@@ -1395,12 +1483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86216,
-      "num": 86216,
-      "word": "谷爱凌在北京补习吃绿舌头雪糕",
-      "onboard_time": 1772006660,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 85357,
+      "num": 98820,
+      "word": "现偶就是要少男少女演",
+      "onboard_time": 1772006360,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 84855,
@@ -1419,14 +1507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84143,
-      "num": 98820,
-      "word": "现偶就是要少男少女演",
-      "onboard_time": 1772006360,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84048,
       "num": 84048,
       "word": "男子服务区捡走千元红包该不该拿走",
@@ -1435,12 +1515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83814,
+      "num": 84919,
+      "word": "Jiejie成了赵力竭",
+      "onboard_time": 1772009901,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83690,
       "num": 83690,
       "word": "平顶山打人夫妻或从重处罚",
       "onboard_time": 1771997361,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83405,
+      "num": 83405,
+      "word": "谷爱凌比赛时咬的是什么",
+      "onboard_time": 1772007922,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 83202,
@@ -1465,6 +1561,14 @@
       "onboard_time": 1771974017,
       "rank": 49,
       "category": "综艺,数码"
+    },
+    {
+      "raw_hot": 81110,
+      "num": 81110,
+      "word": "东契奇绝杀球又拒投了",
+      "onboard_time": 1772008761,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 81032,
@@ -1619,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62650,
+      "num": 97782,
+      "word": "儿时不懂的朝花夕拾现在终于明白了",
+      "onboard_time": 1772008164,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62347,
       "num": 167662,
       "word": "男子在餐厅吃鱼吃出鱼线鱼钩",
@@ -1657,6 +1769,14 @@
       "onboard_time": 1771976358,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 58738,
+      "num": 89333,
+      "word": "比尔盖茨承认有过婚外关系",
+      "onboard_time": 1772010022,
+      "rank": 39,
+      "category": "海外新闻,互联网"
     },
     {
       "raw_hot": 57699,
@@ -1771,12 +1891,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43387,
+      "num": 135590,
+      "word": "唐宫奇案回应打一星",
+      "onboard_time": 1772009242,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38904,
       "num": 94347,
       "word": "360元1斤的草莓今年已售罄",
       "onboard_time": 1772000241,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38477,
+      "num": 622944,
+      "word": "春节消费节节高",
+      "onboard_time": 1772008460,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38422,
@@ -1816,14 +1952,6 @@
       "word": "贵州一地发倡议双方二婚不许摆酒",
       "onboard_time": 1772001441,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35196,
-      "num": 140667,
-      "word": "女生患癌半年春节去世男友不离不弃",
-      "onboard_time": 1772006481,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1979,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14429,
+      "num": 88282,
+      "word": "丈夫回应被妻子控诉回娘家待不住",
+      "onboard_time": 1772010022,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14428,
       "num": 18513,
       "word": "不让江山",
@@ -2001,6 +2137,9 @@
     },
     {
       "word": "#总书记高度重视领导干部政绩观问题#"
+    },
+    {
+      "word": "#实干担当为民造福#"
     }
   ]
 }
