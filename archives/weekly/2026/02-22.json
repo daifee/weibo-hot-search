@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772013930691,
+  "endTime": 1772014674194,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -323,20 +323,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 865135,
+      "num": 603198,
+      "word": "代露娃 短剧",
+      "onboard_time": 1772010800,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 849046,
       "num": 137578,
       "word": "官方回应继父搂腰亲吻女童",
       "onboard_time": 1771974435,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 847244,
-      "num": 529899,
-      "word": "代露娃 短剧",
-      "onboard_time": 1772010800,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 844606,
@@ -699,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 603559,
+      "num": 1096569,
+      "word": "北京一独居女子去世房产归国家",
+      "onboard_time": 1772010862,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 602492,
       "num": 602492,
       "word": "谷爱凌唱国歌",
@@ -817,14 +825,6 @@
       "onboard_time": 1771929503,
       "rank": 13,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 561761,
-      "num": 1089881,
-      "word": "北京一独居女子去世房产归国家",
-      "onboard_time": 1772010862,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 561241,
@@ -2411,6 +2411,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267563,
+      "num": 95477,
+      "word": "黄晓明审美",
+      "onboard_time": 1772012721,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267283,
+      "num": 267283,
+      "word": "离职后发现了不同人的时钟",
+      "onboard_time": 1772012421,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266992,
       "num": 266992,
       "word": "高速堵车大哥在路边架锅卖炒粉",
@@ -3059,6 +3075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224189,
+      "num": 219146,
+      "word": "不要低估两片紫菜的威力",
+      "onboard_time": 1772010503,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223399,
       "num": 190094,
       "word": "不发朋友圈的人是什么性格",
@@ -3112,14 +3136,6 @@
       "word": "家里有三个女儿出门有多难",
       "onboard_time": 1771731259,
       "rank": 21,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 219146,
-      "num": 219146,
-      "word": "不要低估两片紫菜的威力",
-      "onboard_time": 1772010503,
-      "rank": 34,
       "category": "幽默"
     },
     {
@@ -3225,6 +3241,14 @@
       "onboard_time": 1771983680,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209609,
+      "num": 209609,
+      "word": "春节档票房 回到18年",
+      "onboard_time": 1772011641,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 208383,
@@ -3731,14 +3755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178555,
-      "num": 95477,
-      "word": "黄晓明审美",
-      "onboard_time": 1772012721,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177215,
       "num": 177215,
       "word": "神仙肉女主人设",
@@ -4235,14 +4251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153765,
-      "num": 153765,
-      "word": "离职后发现了不同人的时钟",
-      "onboard_time": 1772012421,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153745,
       "num": 153745,
       "word": "大学生唯一拒绝的红包",
@@ -4353,6 +4361,14 @@
       "onboard_time": 1771678462,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149448,
+      "num": 149448,
+      "word": "华策 狂野时代",
+      "onboard_time": 1772013202,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 149159,
@@ -5051,14 +5067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 128916,
-      "num": 128916,
-      "word": "春节档票房 回到18年",
-      "onboard_time": 1772011641,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 128654,
       "num": 128654,
       "word": "金饰价格涨到1586元",
@@ -5435,6 +5443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119209,
+      "num": 119209,
+      "word": "王安宇民及民以下身份的绝对好人",
+      "onboard_time": 1772013621,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119052,
       "num": 119052,
       "word": "单届冬奥会6金",
@@ -5721,6 +5737,14 @@
       "onboard_time": 1771846702,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113276,
+      "num": 91348,
+      "word": "肖战和保镖体型差",
+      "onboard_time": 1772012961,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113254,
@@ -6067,14 +6091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106914,
-      "num": 91348,
-      "word": "肖战和保镖体型差",
-      "onboard_time": 1772012961,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 106889,
       "num": 180554,
       "word": "平台回应夫妻春节送外卖1个月赚4万",
@@ -6155,14 +6171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105449,
-      "num": 103775,
-      "word": "王安宇民及民以下身份的绝对好人",
-      "onboard_time": 1772013621,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105379,
       "num": 105379,
       "word": "董璇张维伊带小酒窝回北京",
@@ -6177,14 +6185,6 @@
       "onboard_time": 1771697236,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105045,
-      "num": 105045,
-      "word": "华策 狂野时代",
-      "onboard_time": 1772013202,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 105022,
@@ -6793,6 +6793,14 @@
       "onboard_time": 1771812619,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95234,
+      "num": 85701,
+      "word": "唐嫣黑长直皮草造型",
+      "onboard_time": 1772013560,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95063,
@@ -7523,14 +7531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85701,
-      "num": 85701,
-      "word": "唐嫣黑长直皮草造型",
-      "onboard_time": 1772013560,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 85561,
       "num": 93522,
       "word": "现在就出发",
@@ -7907,6 +7907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80911,
+      "num": 80911,
+      "word": "华为阔屏大折叠曝光",
+      "onboard_time": 1772014461,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 80746,
       "num": 80746,
       "word": "62岁老伯吃饭误吞枣核肚大如孕妇",
@@ -7985,6 +7993,14 @@
       "onboard_time": 1772005161,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79369,
+      "num": 73772,
+      "word": "闵熙珍 hybe",
+      "onboard_time": 1772014582,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 79173,
@@ -8257,6 +8273,22 @@
       "onboard_time": 1771836140,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 73911,
+      "num": 72287,
+      "word": "宇宙少女回归",
+      "onboard_time": 1772014582,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 73854,
+      "num": 73854,
+      "word": "1岁多男童走失超24小时仅发现鞋子",
+      "onboard_time": 1772014522,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73830,
@@ -9276,7 +9308,7 @@
     },
     {
       "raw_hot": 53166,
-      "num": 622944,
+      "num": 628998,
       "word": "春节消费节节高",
       "onboard_time": 1772008460,
       "rank": 2,
@@ -9859,6 +9891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35805,
+      "num": 106752,
+      "word": "12306回应1身份证抢到两张同车次票",
+      "onboard_time": 1772013140,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35442,
       "num": 68739,
       "word": "中国速滑米兰冬奥1金2铜收官",
@@ -10097,14 +10137,6 @@
       "onboard_time": 1771900941,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 26066,
-      "num": 106752,
-      "word": "12306回应1身份证抢到两张同车次票",
-      "onboard_time": 1772013140,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25776,

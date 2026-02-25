@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772013930691,
+  "endTime": 1772014674194,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2987,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 865135,
+      "num": 603198,
+      "word": "代露娃 短剧",
+      "onboard_time": 1772010800,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 864452,
       "num": 942873,
       "word": "中国短道队男子5000米无缘决赛",
@@ -3081,14 +3089,6 @@
       "onboard_time": 1771974435,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 847244,
-      "num": 529899,
-      "word": "代露娃 短剧",
-      "onboard_time": 1772010800,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 846533,
@@ -5619,6 +5619,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 603559,
+      "num": 1096569,
+      "word": "北京一独居女子去世房产归国家",
+      "onboard_time": 1772010862,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 603305,
       "num": 294710,
       "word": "我们的少年时代2 双男主",
@@ -6337,14 +6345,6 @@
       "onboard_time": 1770212963,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 561761,
-      "num": 1089881,
-      "word": "北京一独居女子去世房产归国家",
-      "onboard_time": 1772010862,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 561657,
@@ -17107,12 +17107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267563,
+      "num": 95477,
+      "word": "黄晓明审美",
+      "onboard_time": 1772012721,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267537,
       "num": 276354,
       "word": "回村后用的都是名牌货",
       "onboard_time": 1771660820,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267283,
+      "num": 267283,
+      "word": "离职后发现了不同人的时钟",
+      "onboard_time": 1772012421,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 267078,
@@ -20707,6 +20723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224189,
+      "num": 219146,
+      "word": "不要低估两片紫菜的威力",
+      "onboard_time": 1772010503,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224170,
       "num": 298982,
       "word": "英前驻美大使穿内裤与睡袍女子交谈",
@@ -21209,14 +21233,6 @@
       "onboard_time": 1771231223,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 219146,
-      "num": 219146,
-      "word": "不要低估两片紫菜的威力",
-      "onboard_time": 1772010503,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 219099,
@@ -21985,6 +22001,14 @@
       "onboard_time": 1770692480,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209609,
+      "num": 209609,
+      "word": "春节档票房 回到18年",
+      "onboard_time": 1772011641,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 209599,
@@ -25075,14 +25099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178555,
-      "num": 95477,
-      "word": "黄晓明审美",
-      "onboard_time": 1772012721,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178538,
       "num": 128907,
       "word": "民警拖男子进女厕群殴获刑8月",
@@ -28099,14 +28115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153765,
-      "num": 153765,
-      "word": "离职后发现了不同人的时钟",
-      "onboard_time": 1772012421,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153745,
       "num": 153745,
       "word": "大学生唯一拒绝的红包",
@@ -28825,6 +28833,14 @@
       "onboard_time": 1770959241,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149448,
+      "num": 149448,
+      "word": "华策 狂野时代",
+      "onboard_time": 1772013202,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 149419,
@@ -32899,14 +32915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128916,
-      "num": 128916,
-      "word": "春节档票房 回到18年",
-      "onboard_time": 1772011641,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 128885,
       "num": 110031,
       "word": "父亲去世摆摊卖对联男孩母亲发声",
@@ -35219,6 +35227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119209,
+      "num": 119209,
+      "word": "王安宇民及民以下身份的绝对好人",
+      "onboard_time": 1772013621,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119174,
       "num": 119174,
       "word": "姚安娜从小网剧小配角做起",
@@ -36985,6 +37001,14 @@
       "onboard_time": 1770558026,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113276,
+      "num": 91348,
+      "word": "肖战和保镖体型差",
+      "onboard_time": 1772012961,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113263,
@@ -39251,14 +39275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106914,
-      "num": 91348,
-      "word": "肖战和保镖体型差",
-      "onboard_time": 1772012961,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 106889,
       "num": 180554,
       "word": "平台回应夫妻春节送外卖1个月赚4万",
@@ -39771,14 +39787,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 105449,
-      "num": 103775,
-      "word": "王安宇民及民以下身份的绝对好人",
-      "onboard_time": 1772013621,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105439,
       "num": 105439,
       "word": "金饰价跌到1566元",
@@ -39921,14 +39929,6 @@
       "onboard_time": 1770958521,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105045,
-      "num": 105045,
-      "word": "华策 狂野时代",
-      "onboard_time": 1772013202,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 105032,
@@ -43873,6 +43873,14 @@
       "onboard_time": 1770012981,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95234,
+      "num": 85701,
+      "word": "唐嫣黑长直皮草造型",
+      "onboard_time": 1772013560,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95226,
@@ -48515,14 +48523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85701,
-      "num": 85701,
-      "word": "唐嫣黑长直皮草造型",
-      "onboard_time": 1772013560,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 85682,
       "num": 85682,
       "word": "GEN对战BFX",
@@ -50755,6 +50755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80911,
+      "num": 80911,
+      "word": "华为阔屏大折叠曝光",
+      "onboard_time": 1772014461,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 80899,
       "num": 80899,
       "word": "孙颖莎祝大家春节快乐",
@@ -51617,6 +51625,14 @@
       "onboard_time": 1769914521,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79369,
+      "num": 73772,
+      "word": "闵熙珍 hybe",
+      "onboard_time": 1772014582,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 79353,
@@ -54049,6 +54065,22 @@
       "onboard_time": 1771386860,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73911,
+      "num": 72287,
+      "word": "宇宙少女回归",
+      "onboard_time": 1772014582,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 73854,
+      "num": 73854,
+      "word": "1岁多男童走失超24小时仅发现鞋子",
+      "onboard_time": 1772014522,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73853,
@@ -60564,7 +60596,7 @@
     },
     {
       "raw_hot": 53166,
-      "num": 622944,
+      "num": 628998,
       "word": "春节消费节节高",
       "onboard_time": 1772008460,
       "rank": 2,
@@ -64851,6 +64883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35805,
+      "num": 106752,
+      "word": "12306回应1身份证抢到两张同车次票",
+      "onboard_time": 1772013140,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35688,
       "num": 108010,
       "word": "孟加拉国出现1例尼帕病毒感染病例",
@@ -67473,14 +67513,6 @@
       "onboard_time": 1770658936,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26066,
-      "num": 106752,
-      "word": "12306回应1身份证抢到两张同车次票",
-      "onboard_time": 1772013140,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26062,
