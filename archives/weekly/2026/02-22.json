@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772042779690,
+  "endTime": 1772044618250,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -10883,6 +10883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30242,
+      "num": 30242,
+      "word": "郭晓婷王天辰疯狂拉扯",
+      "onboard_time": 1772044218,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29910,
       "num": 142734,
       "word": "AI骗局三件套涌入老年机",
@@ -10897,6 +10905,14 @@
       "onboard_time": 1771923560,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29318,
+      "num": 29318,
+      "word": "我的朋友安德烈",
+      "onboard_time": 1772043256,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 29160,
@@ -11009,6 +11025,14 @@
       "onboard_time": 1771801336,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26755,
+      "num": 26755,
+      "word": "电影镖人",
+      "onboard_time": 1772042956,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 26591,

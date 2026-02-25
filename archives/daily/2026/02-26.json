@@ -1,6 +1,6 @@
 {
   "startTime": 1772036028289,
-  "endTime": 1772042779690,
+  "endTime": 1772044618250,
   "band_list": [
     {
       "raw_hot": 965437,
@@ -451,12 +451,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30242,
+      "num": 30242,
+      "word": "郭晓婷王天辰疯狂拉扯",
+      "onboard_time": 1772044218,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 29318,
+      "num": 29318,
+      "word": "我的朋友安德烈",
+      "onboard_time": 1772043256,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28482,
       "num": 27072,
       "word": "虞书欣打卡粉丝留言墙",
       "onboard_time": 1772038518,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26755,
+      "num": 26755,
+      "word": "电影镖人",
+      "onboard_time": 1772042956,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 22860,
@@ -472,6 +496,14 @@
       "word": "白鹿 下一个角色见",
       "onboard_time": 1772041638,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19697,
+      "num": 19697,
+      "word": "成何体统",
+      "onboard_time": 1772036240,
+      "rank": 45,
       "category": "剧集"
     },
     {
