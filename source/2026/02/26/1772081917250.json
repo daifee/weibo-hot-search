@@ -1,0 +1,410 @@
+{
+  "runTime": 1772081917250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 592429,
+        "num": 1094788,
+        "word": "俄乌冲突",
+        "onboard_time": 1772063417,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 503774,
+        "num": 795478,
+        "word": "企业招聘限男性限已婚已育",
+        "onboard_time": 1772075601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57491,
+        "num": 613188,
+        "word": "冷空气返场厚衣服先别收",
+        "onboard_time": 1772078001,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490441,
+        "num": 490441,
+        "word": "刘晓庆75岁再演少女",
+        "onboard_time": 1772076380,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456958,
+        "num": 456958,
+        "word": "女子嘴角起泡未重视竟脑死亡",
+        "onboard_time": 1772076020,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284136,
+        "num": 284136,
+        "word": "终于有人知道补枪的重要性了",
+        "onboard_time": 1772078421,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255087,
+        "num": 255087,
+        "word": "花10万做折角腰整形醒来浑身血水",
+        "onboard_time": 1772080582,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250322,
+        "num": 250322,
+        "word": "2026考研查分时间",
+        "onboard_time": 1772076920,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 212916,
+        "num": 212916,
+        "word": "中国手机行业将迎来全面涨价",
+        "onboard_time": 1772072903,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206319,
+        "num": 206319,
+        "word": "微信能看图片使用次数了",
+        "onboard_time": 1772081241,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 481382,
+        "num": 204286,
+        "word": "一点点 资助",
+        "onboard_time": 1772071340,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364979,
+        "num": 202516,
+        "word": "时代峰峻否认王橹杰私联",
+        "onboard_time": 1772074101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271355,
+        "num": 195528,
+        "word": "神童与父母断绝联系",
+        "onboard_time": 1772078241,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236509,
+        "num": 194164,
+        "word": "台湾女孩疑在日本街头被恶意撞倒",
+        "onboard_time": 1772072002,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265628,
+        "num": 189166,
+        "word": "王骁生理性演技",
+        "onboard_time": 1772075481,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187362,
+        "num": 187362,
+        "word": "迪丽热巴王楚然 处处为营只为得到你",
+        "onboard_time": 1772080762,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73651,
+        "num": 186437,
+        "word": "永远可以相信杨紫的眼神戏",
+        "onboard_time": 1772078602,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43056,
+        "num": 185205,
+        "word": "文淇往那一站就有封面感",
+        "onboard_time": 1772080101,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 43826,
+        "num": 183466,
+        "word": "港女嫁内地男成新主流",
+        "onboard_time": 1772080881,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55278,
+        "num": 182582,
+        "word": "大量中国游客春节去泰国不去日本",
+        "onboard_time": 1772081001,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449974,
+        "num": 181546,
+        "word": "男演员点赞和刘晓庆搭戏是工伤",
+        "onboard_time": 1772081361,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886131,
+        "num": 180128,
+        "word": "周杰伦结婚田馥甄有了讽刺的情书",
+        "onboard_time": 1772072481,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 368587,
+        "num": 178062,
+        "word": "乘客车上排泄后失联司机发声",
+        "onboard_time": 1772079381,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200200,
+        "num": 176321,
+        "word": "教育局回应5点半读书23点20放学作息表",
+        "onboard_time": 1772078841,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159611,
+        "num": 175891,
+        "word": "肖秀荣怒斥假消息影响考生心态",
+        "onboard_time": 1772075001,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174800,
+        "num": 174800,
+        "word": "李云霄下巴是陈丽君的指纹识别吗",
+        "onboard_time": 1772080160,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169117,
+        "num": 169117,
+        "word": "向华强拒绝和向佑见面",
+        "onboard_time": 1772060957,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163021,
+        "num": 163021,
+        "word": "董宇辉休了工作以来最长春节假",
+        "onboard_time": 1772080881,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157947,
+        "num": 157947,
+        "word": "考研成绩",
+        "onboard_time": 1772068282,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 42735,
+        "num": 153558,
+        "word": "春日减肥计划该提上日程了",
+        "onboard_time": 1772078602,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 151946,
+        "num": 151946,
+        "word": "杨幂柳智敏Prada撞衫",
+        "onboard_time": 1772069600,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182376,
+        "num": 151774,
+        "word": "晚5秒要付1700高速费当事人发声",
+        "onboard_time": 1772063359,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150649,
+        "num": 150649,
+        "word": "田柾国回应抽烟",
+        "onboard_time": 1772077942,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146543,
+        "num": 146543,
+        "word": "中方投下弃权票是最大的担当",
+        "onboard_time": 1772069301,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136090,
+        "num": 136090,
+        "word": "高铁幼童哭闹男子要求父母带离",
+        "onboard_time": 1772075121,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125573,
+        "num": 125573,
+        "word": "谷爱凌再次闪耀米兰时装周",
+        "onboard_time": 1772075601,
+        "rank": 35,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 125252,
+        "num": 125252,
+        "word": "男子坐顺风车排泄后失联",
+        "onboard_time": 1772070320,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124791,
+        "num": 124791,
+        "word": "可口可乐vs百事可乐",
+        "onboard_time": 1772079981,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119835,
+        "num": 119835,
+        "word": "A股",
+        "onboard_time": 1772076920,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34389,
+        "num": 118228,
+        "word": "美国全职妈妈想成为中国辣妹",
+        "onboard_time": 1772081301,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117158,
+        "num": 117158,
+        "word": "医生谈美甲对健康的隐患",
+        "onboard_time": 1772080401,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114127,
+        "num": 114127,
+        "word": "肖战ins晒米兰照",
+        "onboard_time": 1772066121,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113304,
+        "num": 113304,
+        "word": "中国公民大阪街头被劫500万日元",
+        "onboard_time": 1772078602,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109825,
+        "num": 109825,
+        "word": "俄罗斯",
+        "onboard_time": 1772072962,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107863,
+        "num": 107863,
+        "word": "携程集团总裁范敏辞职",
+        "onboard_time": 1772077700,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107262,
+        "num": 107262,
+        "word": "曝东契奇拒投因为詹姆斯要球",
+        "onboard_time": 1772077700,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107022,
+        "num": 107022,
+        "word": "王者达摩新皮肤星君亢金",
+        "onboard_time": 1772080461,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105242,
+        "num": 105242,
+        "word": "吴京 领导讲话我施法",
+        "onboard_time": 1772079442,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101319,
+        "num": 101319,
+        "word": "为什么说人性是经不起考验的",
+        "onboard_time": 1772080582,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72583,
+        "num": 100349,
+        "word": "女子打赏女主播30万称为给儿子找对象",
+        "onboard_time": 1772080582,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见默茨这些细节值得关注#"
+    }
+  }
+}
