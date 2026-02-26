@@ -1,0 +1,410 @@
+{
+  "runTime": 1772097175352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 805832,
+        "num": 1128933,
+        "word": "一点点资助男孩被曝戴千元手表",
+        "onboard_time": 1772093302,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521159,
+        "num": 843018,
+        "word": "手机 涨价",
+        "onboard_time": 1772096001,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 5892,
+        "num": 625966,
+        "word": "银发经济市场规模有望达30万亿元",
+        "onboard_time": 1772097142,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405320,
+        "num": 405320,
+        "word": "欠款1000万亿当事人这次真要逾期了",
+        "onboard_time": 1772091621,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 348737,
+        "num": 348737,
+        "word": "千元lululemon外套仅穿一次就起球",
+        "onboard_time": 1772093721,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539225,
+        "num": 348354,
+        "word": "意外继承了前任同事留下的100块",
+        "onboard_time": 1772093241,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335675,
+        "num": 335675,
+        "word": "逐玉请来了林俊杰唱OST",
+        "onboard_time": 1772094501,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315598,
+        "num": 315598,
+        "word": "微信能看图片使用次数了",
+        "onboard_time": 1772081241,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 245170,
+        "num": 245170,
+        "word": "唐国强也去演短剧了",
+        "onboard_time": 1772088921,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186976,
+        "num": 186976,
+        "word": "男子节后返家价值几万乌龟全被煮",
+        "onboard_time": 1772089282,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5624,
+        "num": 186306,
+        "word": "多地包车协助工人返岗复工",
+        "onboard_time": 1772097082,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724326,
+        "num": 185522,
+        "word": "向佑不满遗产分配直喊不公平",
+        "onboard_time": 1772082262,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343697,
+        "num": 183855,
+        "word": "曝迪丽热巴与嘉行合约到期",
+        "onboard_time": 1772096420,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249720,
+        "num": 181846,
+        "word": "坐顺风车排泄后失联男子被封号",
+        "onboard_time": 1772090061,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31043,
+        "num": 181023,
+        "word": "非遗鱼灯看古村里的中国年",
+        "onboard_time": 1772096420,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281787,
+        "num": 178846,
+        "word": "杨幂米兰allblack看秀",
+        "onboard_time": 1772094561,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257158,
+        "num": 176962,
+        "word": "男演员点赞和刘晓庆搭戏是工伤",
+        "onboard_time": 1772081361,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200157,
+        "num": 176606,
+        "word": "小猫守家26天在主人床上拉满便便",
+        "onboard_time": 1772089460,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201722,
+        "num": 175275,
+        "word": "杨洋对接回应复工",
+        "onboard_time": 1772091501,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39371,
+        "num": 172808,
+        "word": "120未及时搬抬老人被判赔17万",
+        "onboard_time": 1772096420,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 597148,
+        "num": 171136,
+        "word": "郭富城三岁的时候岳父出生了",
+        "onboard_time": 1772094261,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288034,
+        "num": 170932,
+        "word": "周杰伦结婚田馥甄有了讽刺的情书",
+        "onboard_time": 1772072481,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129456,
+        "num": 169455,
+        "word": "原来补气血有个最佳顺序",
+        "onboard_time": 1772094621,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168228,
+        "num": 168228,
+        "word": "黄景瑜关晓彤新剧装婚房",
+        "onboard_time": 1772096661,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129338,
+        "num": 167762,
+        "word": "医生建议做美甲至少保留一个原甲",
+        "onboard_time": 1772083701,
+        "rank": 24,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 167486,
+        "num": 167486,
+        "word": "林俊杰作曲方文山作词",
+        "onboard_time": 1772095521,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156847,
+        "num": 156847,
+        "word": "王安宇推了半天凶手是自己",
+        "onboard_time": 1772089400,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123509,
+        "num": 123509,
+        "word": "Prada大秀",
+        "onboard_time": 1772092400,
+        "rank": 27,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 140233,
+        "num": 123219,
+        "word": "镖人 删减的打戏",
+        "onboard_time": 1772094561,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111388,
+        "num": 122702,
+        "word": "35岁男子胸痛扛了几天不幸离世",
+        "onboard_time": 1772095941,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156285,
+        "num": 122667,
+        "word": "印度一18岁新娘在婚礼上遭枪击",
+        "onboard_time": 1772093060,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122584,
+        "num": 122584,
+        "word": "王劲松怒斥被AI盗用",
+        "onboard_time": 1772095400,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116921,
+        "num": 116921,
+        "word": "杨幂这是在米兰还是在湖南",
+        "onboard_time": 1772096182,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101694,
+        "num": 114228,
+        "word": "理发师以打薄为由偷刮孕妇长发卖钱",
+        "onboard_time": 1772094800,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112407,
+        "num": 112407,
+        "word": "小S曾说田馥甄周杰伦不可能在一起",
+        "onboard_time": 1772097082,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102733,
+        "num": 102733,
+        "word": "造谣王橹杰私联或被罚款拘留",
+        "onboard_time": 1772096121,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101433,
+        "num": 101433,
+        "word": "男子中669万刷朋友圈查彩票才发现",
+        "onboard_time": 1772086280,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63770,
+        "num": 101139,
+        "word": "新一轮美伊谈判举行",
+        "onboard_time": 1772094921,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100898,
+        "num": 100898,
+        "word": "这桌子下一届学生不得疯抢",
+        "onboard_time": 1772094860,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38092,
+        "num": 98724,
+        "word": "给患癌女友筹钱男生称自己尽力了",
+        "onboard_time": 1772096420,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97311,
+        "num": 97311,
+        "word": "男子将博士学位证折成元宝烧给爷爷",
+        "onboard_time": 1772090780,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94555,
+        "num": 94555,
+        "word": "爱泼斯坦案曝光霍金与比基尼女子合影",
+        "onboard_time": 1772082919,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92706,
+        "num": 92706,
+        "word": "任素汐演了9集身后已空无一人",
+        "onboard_time": 1772093541,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48417,
+        "num": 92516,
+        "word": "安卓机皇三星S26上手体验",
+        "onboard_time": 1772091682,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92504,
+        "num": 92504,
+        "word": "去掉身上的弱者气息",
+        "onboard_time": 1772095941,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86402,
+        "num": 90347,
+        "word": "全球首部防窥屏手机",
+        "onboard_time": 1772096602,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90253,
+        "num": 90253,
+        "word": "干眼症的尽头是精神科",
+        "onboard_time": 1772094381,
+        "rank": 46,
+        "category": "健康医疗,情感"
+      },
+      {
+        "raw_hot": 87555,
+        "num": 87555,
+        "word": "男子地铁猥亵女子称像年轻时的妻子",
+        "onboard_time": 1772086040,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86174,
+        "num": 86174,
+        "word": "王鹤棣马赛克耳钉",
+        "onboard_time": 1772096960,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85999,
+        "num": 85999,
+        "word": "周涛也开始拍短剧了",
+        "onboard_time": 1772089400,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动实现十五五良好开局#"
+    }
+  }
+}

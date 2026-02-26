@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772096360871,
+  "endTime": 1772097175352,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -507,6 +507,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 805832,
+      "num": 1128933,
+      "word": "一点点资助男孩被曝戴千元手表",
+      "onboard_time": 1772093302,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 801054,
       "num": 1077956,
       "word": "若决赛取消谷爱凌将无缘奖牌",
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 760380,
-      "num": 294603,
+      "num": 348354,
       "word": "意外继承了前任同事留下的100块",
       "onboard_time": 1772093241,
       "rank": 5,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 699682,
-      "num": 133683,
+      "num": 171136,
       "word": "郭富城三岁的时候岳父出生了",
       "onboard_time": 1772094261,
       "rank": 20,
@@ -776,14 +784,6 @@
       "word": "11岁男童在服务区被车撞击后身亡",
       "onboard_time": 1771927040,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 666741,
-      "num": 834689,
-      "word": "一点点资助男孩被曝戴千元手表",
-      "onboard_time": 1772093302,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -1209,6 +1209,14 @@
       "onboard_time": 1771754361,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 521159,
+      "num": 843018,
+      "word": "手机 涨价",
+      "onboard_time": 1772096001,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 520771,
@@ -2283,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348737,
+      "num": 348737,
+      "word": "千元lululemon外套仅穿一次就起球",
+      "onboard_time": 1772093721,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347718,
       "num": 170038,
       "word": "腾讯元宝向用户道歉",
@@ -2320,6 +2336,14 @@
       "word": "I.O.I将于5月回归",
       "onboard_time": 1771815141,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 343697,
+      "num": 183855,
+      "word": "曝迪丽热巴与嘉行合约到期",
+      "onboard_time": 1772096420,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -2369,6 +2393,14 @@
       "onboard_time": 1771808359,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335675,
+      "num": 335675,
+      "word": "逐玉请来了林俊杰唱OST",
+      "onboard_time": 1772094501,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 335004,
@@ -2537,14 +2569,6 @@
       "onboard_time": 1771730901,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 309539,
-      "num": 309539,
-      "word": "逐玉请来了林俊杰唱OST",
-      "onboard_time": 1772094501,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 309332,
@@ -3337,14 +3361,6 @@
       "onboard_time": 1771756521,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251166,
-      "num": 251166,
-      "word": "千元lululemon外套仅穿一次就起球",
-      "onboard_time": 1772093721,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250805,
@@ -4420,7 +4436,7 @@
     },
     {
       "raw_hot": 189977,
-      "num": 132449,
+      "num": 167486,
       "word": "林俊杰作曲方文山作词",
       "onboard_time": 1772095521,
       "rank": 23,
@@ -4931,6 +4947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 168228,
+      "num": 168228,
+      "word": "黄景瑜关晓彤新剧装婚房",
+      "onboard_time": 1772096661,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167876,
       "num": 167876,
       "word": "王者荣耀",
@@ -5201,14 +5225,6 @@
       "onboard_time": 1772027362,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155718,
-      "num": 155718,
-      "word": "手机 涨价",
-      "onboard_time": 1772096001,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 155508,
@@ -6243,6 +6259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129456,
+      "num": 169455,
+      "word": "原来补气血有个最佳顺序",
+      "onboard_time": 1772094621,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 129345,
       "num": 129345,
       "word": "王楚钦3比0卢伟",
@@ -6328,14 +6352,6 @@
       "word": "每天早睡1小时身体就不一样",
       "onboard_time": 1771717037,
       "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126953,
-      "num": 126953,
-      "word": "原来补气血有个最佳顺序",
-      "onboard_time": 1772094621,
-      "rank": 28,
       "category": "健康医疗"
     },
     {
@@ -6875,6 +6891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116921,
+      "num": 116921,
+      "word": "杨幂这是在米兰还是在湖南",
+      "onboard_time": 1772096182,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116766,
       "num": 113082,
       "word": "王曼昱vs郑怡静",
@@ -7107,6 +7131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 112407,
+      "num": 112407,
+      "word": "小S曾说田馥甄周杰伦不可能在一起",
+      "onboard_time": 1772097082,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112369,
       "num": 112369,
       "word": "内娱终于有古偶新面孔了",
@@ -7185,6 +7217,14 @@
       "onboard_time": 1772023522,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111388,
+      "num": 122702,
+      "word": "35岁男子胸痛扛了几天不幸离世",
+      "onboard_time": 1772095941,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 111334,
@@ -7748,7 +7788,7 @@
     },
     {
       "raw_hot": 103965,
-      "num": 103965,
+      "num": 114228,
       "word": "理发师以打薄为由偷刮孕妇长发卖钱",
       "onboard_time": 1772094800,
       "rank": 35,
@@ -7857,6 +7897,14 @@
       "onboard_time": 1771905501,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102733,
+      "num": 102733,
+      "word": "造谣王橹杰私联或被罚款拘留",
+      "onboard_time": 1772096121,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 102691,
@@ -8091,14 +8139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100135,
-      "num": 100135,
-      "word": "35岁男子胸痛扛了几天不幸离世",
-      "onboard_time": 1772095941,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 99729,
       "num": 99729,
       "word": "偏偏宠爱",
@@ -8209,14 +8249,6 @@
       "onboard_time": 1771856601,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98018,
-      "num": 98018,
-      "word": "造谣王橹杰私联或被罚款拘留",
-      "onboard_time": 1772096121,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 97943,
@@ -8763,14 +8795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92234,
-      "num": 92234,
-      "word": "杨幂这是在米兰还是在湖南",
-      "onboard_time": 1772096182,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92197,
       "num": 92197,
       "word": "熊猫紧抱游客手机不让饲养员取回",
@@ -9313,6 +9337,22 @@
       "onboard_time": 1772074822,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 86402,
+      "num": 90347,
+      "word": "全球首部防窥屏手机",
+      "onboard_time": 1772096602,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 86174,
+      "num": 86174,
+      "word": "王鹤棣马赛克耳钉",
+      "onboard_time": 1772096960,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 86131,
@@ -12099,6 +12139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39371,
+      "num": 172808,
+      "word": "120未及时搬抬老人被判赔17万",
+      "onboard_time": 1772096420,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39349,
       "num": 39349,
       "word": "提高免疫力的三个方法",
@@ -12161,6 +12209,14 @@
       "onboard_time": 1771694357,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 38092,
+      "num": 98724,
+      "word": "给患癌女友筹钱男生称自己尽力了",
+      "onboard_time": 1772096420,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37551,
@@ -12353,6 +12409,14 @@
       "onboard_time": 1771797434,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31043,
+      "num": 181023,
+      "word": "非遗鱼灯看古村里的中国年",
+      "onboard_time": 1772096420,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30867,
@@ -13305,6 +13369,22 @@
       "onboard_time": 1771833981,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5892,
+      "num": 625966,
+      "word": "银发经济市场规模有望达30万亿元",
+      "onboard_time": 1772097142,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5624,
+      "num": 186306,
+      "word": "多地包车协助工人返岗复工",
+      "onboard_time": 1772097082,
+      "rank": 10,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -13349,6 +13429,9 @@
     },
     {
       "word": "#习近平会见默茨这些细节值得关注#"
+    },
+    {
+      "word": "#推动实现十五五良好开局#"
     }
   ]
 }
