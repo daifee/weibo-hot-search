@@ -1,0 +1,410 @@
+{
+  "runTime": 1772087742006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 893730,
+        "num": 1142996,
+        "word": "微信能看图片使用次数了",
+        "onboard_time": 1772081241,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243511,
+        "num": 834690,
+        "word": "男子中669万刷朋友圈查彩票才发现",
+        "onboard_time": 1772086280,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73664,
+        "num": 639779,
+        "word": "美国从陈志案获利150亿美元",
+        "onboard_time": 1772072060,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 312155,
+        "num": 312155,
+        "word": "女子泰国机场1110元金价买了周大福",
+        "onboard_time": 1772081961,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 247398,
+        "num": 247398,
+        "word": "刘晓庆75岁再演少女",
+        "onboard_time": 1772076380,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226715,
+        "num": 226715,
+        "word": "俄乌冲突",
+        "onboard_time": 1772063417,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220090,
+        "num": 220090,
+        "word": "花10万做折角腰整形醒来浑身血水",
+        "onboard_time": 1772080582,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172537,
+        "num": 172537,
+        "word": "董宇辉休了工作以来最长春节假",
+        "onboard_time": 1772080881,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171091,
+        "num": 171091,
+        "word": "考研成绩",
+        "onboard_time": 1772068282,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166053,
+        "num": 166053,
+        "word": "女子嘴角起泡未重视竟脑死亡",
+        "onboard_time": 1772076020,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1169355,
+        "num": 166041,
+        "word": "向佑不满遗产分配直喊不公平",
+        "onboard_time": 1772082262,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827074,
+        "num": 165140,
+        "word": "男演员点赞和刘晓庆搭戏是工伤",
+        "onboard_time": 1772081361,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515161,
+        "num": 163735,
+        "word": "爱泼斯坦案曝光霍金与比基尼女子合影",
+        "onboard_time": 1772082919,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 449084,
+        "num": 163545,
+        "word": "鹿哈说没有鹿晗就没有自己的今天",
+        "onboard_time": 1772084001,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350397,
+        "num": 162778,
+        "word": "带孩子有多累具像化了",
+        "onboard_time": 1772082022,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328096,
+        "num": 161869,
+        "word": "一点点 资助",
+        "onboard_time": 1772071340,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207052,
+        "num": 161075,
+        "word": "神童与父母断绝联系",
+        "onboard_time": 1772078241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173347,
+        "num": 160454,
+        "word": "迪丽热巴王楚然 处处为营只为得到你",
+        "onboard_time": 1772080762,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167606,
+        "num": 159094,
+        "word": "小说妹苦了一年又一年",
+        "onboard_time": 1772085440,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168134,
+        "num": 158697,
+        "word": "时代峰峻否认王橹杰私联",
+        "onboard_time": 1772074101,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346193,
+        "num": 158199,
+        "word": "周杰伦结婚田馥甄有了讽刺的情书",
+        "onboard_time": 1772072481,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215092,
+        "num": 156779,
+        "word": "医生建议做美甲至少保留一个原甲",
+        "onboard_time": 1772083701,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156687,
+        "num": 156687,
+        "word": "金正恩称韩国是彻底的敌国",
+        "onboard_time": 1772086701,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153490,
+        "num": 153490,
+        "word": "高铭暄逝世",
+        "onboard_time": 1772086881,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132619,
+        "num": 132619,
+        "word": "男子地铁猥亵女子称像年轻时的妻子",
+        "onboard_time": 1772086040,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130001,
+        "num": 130001,
+        "word": "中国音乐家纽约路边换胎被撞身亡",
+        "onboard_time": 1772084900,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125327,
+        "num": 125327,
+        "word": "刘浩存开工跳蒙古舞",
+        "onboard_time": 1772082201,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110698,
+        "num": 110698,
+        "word": "台湾女孩疑在日本街头被恶意撞倒",
+        "onboard_time": 1772072002,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100395,
+        "num": 100395,
+        "word": "准备点吃的哄自己上班",
+        "onboard_time": 1772087180,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48568,
+        "num": 100394,
+        "word": "2026考研查分时间",
+        "onboard_time": 1772076920,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100394,
+        "num": 100393,
+        "word": "何老师晦气的东西到手就扔",
+        "onboard_time": 1772086221,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97736,
+        "num": 97736,
+        "word": "企业招聘限男性限已婚已育",
+        "onboard_time": 1772075601,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92100,
+        "num": 92100,
+        "word": "杨幂柳智敏Prada撞衫",
+        "onboard_time": 1772069600,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91671,
+        "num": 91671,
+        "word": "可口可乐vs百事可乐",
+        "onboard_time": 1772079981,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81897,
+        "num": 81897,
+        "word": "1岁娃眼皮里藏耳机零件超24小时",
+        "onboard_time": 1772085981,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78966,
+        "num": 78966,
+        "word": "iPhone能测网速了",
+        "onboard_time": 1772084362,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 76291,
+        "num": 76291,
+        "word": "120抵达后40分钟拒抬老人致死",
+        "onboard_time": 1772087480,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74740,
+        "num": 74740,
+        "word": "高铁幼童哭闹男子要求父母带离",
+        "onboard_time": 1772075121,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72613,
+        "num": 72613,
+        "word": "德国总理参观故宫",
+        "onboard_time": 1772085561,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70723,
+        "num": 70723,
+        "word": "中国手机行业将迎来全面涨价",
+        "onboard_time": 1772072903,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70434,
+        "num": 70434,
+        "word": "田柾国回应抽烟",
+        "onboard_time": 1772077942,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69564,
+        "num": 69564,
+        "word": "教育局回应5点半读书23点20放学作息表",
+        "onboard_time": 1772078841,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 69338,
+        "num": 69338,
+        "word": "李云霄下巴是陈丽君的指纹识别吗",
+        "onboard_time": 1772080160,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68377,
+        "num": 68377,
+        "word": "镖人",
+        "onboard_time": 1772067739,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68275,
+        "num": 68275,
+        "word": "乘客车上排泄后失联司机发声",
+        "onboard_time": 1772079381,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66713,
+        "num": 66713,
+        "word": "平价版MacBook价格",
+        "onboard_time": 1772085921,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63972,
+        "num": 63972,
+        "word": "开通会员后马上关闭自动续费",
+        "onboard_time": 1772084782,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62863,
+        "num": 62863,
+        "word": "A股主线逻辑爆发",
+        "onboard_time": 1772087061,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32105,
+        "num": 61986,
+        "word": "胖东来回应针织衫只赚1块1",
+        "onboard_time": 1772086221,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61951,
+        "num": 61951,
+        "word": "平顶山打人夫妻老家村民称十分震惊",
+        "onboard_time": 1772083520,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见默茨这些细节值得关注#"
+    }
+  }
+}
