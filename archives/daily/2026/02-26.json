@@ -1,6 +1,6 @@
 {
   "startTime": 1772036028289,
-  "endTime": 1772100027647,
+  "endTime": 1772100823722,
   "band_list": [
     {
       "raw_hot": 1873376,
@@ -11,8 +11,8 @@
       "category": "游戏,民生新闻"
     },
     {
-      "raw_hot": 1256972,
-      "num": 1256972,
+      "raw_hot": 1273911,
+      "num": 1273911,
       "word": "手机 涨价",
       "onboard_time": 1772096001,
       "rank": 18,
@@ -155,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 602235,
+      "num": 124834,
+      "word": "刘亦菲最接近本人的一张图",
+      "onboard_time": 1772098162,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560168,
       "num": 183855,
       "word": "曝迪丽热巴与嘉行合约到期",
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 488149,
+      "num": 488149,
+      "word": "日本网民称日本确实存在撞人族",
+      "onboard_time": 1772097683,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 477704,
       "num": 234743,
       "word": "肖战米兰酒店一晚2万欧元",
@@ -251,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 424278,
-      "num": 124834,
-      "word": "刘亦菲最接近本人的一张图",
-      "onboard_time": 1772098162,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 421654,
       "num": 421654,
       "word": "中国手机行业将迎来全面涨价",
@@ -289,14 +297,6 @@
       "onboard_time": 1772081961,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 400570,
-      "num": 400570,
-      "word": "日本网民称日本确实存在撞人族",
-      "onboard_time": 1772097683,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 396947,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291091,
+      "num": 291091,
+      "word": "林俊杰作曲方文山作词",
+      "onboard_time": 1772095521,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284136,
       "num": 284136,
       "word": "终于有人知道补枪的重要性了",
@@ -497,6 +505,14 @@
       "onboard_time": 1772070320,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279876,
+      "num": 202839,
+      "word": "全球首部防窥屏手机",
+      "onboard_time": 1772096602,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 277669,
@@ -521,14 +537,6 @@
       "onboard_time": 1772063359,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269407,
-      "num": 269407,
-      "word": "林俊杰作曲方文山作词",
-      "onboard_time": 1772095521,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 265628,
@@ -739,6 +747,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 180816,
+      "num": 180816,
+      "word": "爱泼斯坦私密储物柜曝光",
+      "onboard_time": 1772098821,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 178507,
+      "num": 178507,
+      "word": "网曝女子在列车上找人安排座位",
+      "onboard_time": 1772099423,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177598,
       "num": 124210,
       "word": "印度一18岁新娘在婚礼上遭枪击",
@@ -753,14 +777,6 @@
       "onboard_time": 1772080160,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174211,
-      "num": 174211,
-      "word": "全球首部防窥屏手机",
-      "onboard_time": 1772096602,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 168783,
@@ -891,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146864,
+      "num": 118113,
+      "word": "美伊冲突",
+      "onboard_time": 1772099423,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146643,
       "num": 146643,
       "word": "获退18万彩礼女婿经济状况堪忧",
@@ -905,6 +929,14 @@
       "onboard_time": 1772029042,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145557,
+      "num": 145557,
+      "word": "Uzi说Light太任性了",
+      "onboard_time": 1772099601,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 144140,
@@ -979,14 +1011,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 131206,
-      "num": 131206,
-      "word": "爱泼斯坦私密储物柜曝光",
-      "onboard_time": 1772098821,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 131044,
       "num": 157603,
       "word": "医生谈美甲对健康的隐患",
@@ -1059,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121190,
-      "num": 121190,
-      "word": "Uzi说Light太任性了",
-      "onboard_time": 1772099601,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 120523,
       "num": 120523,
       "word": "爱泼斯坦案再升级",
@@ -1131,6 +1147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113941,
+      "num": 113941,
+      "word": "中国男篮vs日本男篮",
+      "onboard_time": 1772100559,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113730,
       "num": 113730,
       "word": "去掉身上的弱者气息",
@@ -1161,6 +1185,22 @@
       "onboard_time": 1772095941,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109881,
+      "num": 109881,
+      "word": "疱疹病毒一旦感染会终身复发",
+      "onboard_time": 1772098342,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108479,
+      "num": 108479,
+      "word": "方穆扬整治冯琳",
+      "onboard_time": 1772099601,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 107863,
@@ -1243,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103857,
+      "num": 103857,
+      "word": "日本把宇树机器人改成僧侣",
+      "onboard_time": 1772100559,
+      "rank": 42,
+      "category": "海外新闻,互联网"
+    },
+    {
       "raw_hot": 102733,
       "num": 102733,
       "word": "造谣王橹杰私联或被罚款拘留",
@@ -1323,28 +1371,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99683,
-      "num": 99683,
-      "word": "方穆扬整治冯琳",
-      "onboard_time": 1772099601,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 99592,
-      "num": 104643,
-      "word": "疱疹病毒一旦感染会终身复发",
-      "onboard_time": 1772098342,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 99151,
       "num": 99151,
       "word": "宋雨琦为张真源工作人员点40杯奶茶",
       "onboard_time": 1772065941,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98569,
+      "num": 98569,
+      "word": "女孩给妈妈买金手链反被指责爆哭",
+      "onboard_time": 1772100260,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97532,
@@ -1387,14 +1427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94984,
-      "num": 94984,
-      "word": "美伊冲突",
-      "onboard_time": 1772099423,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 94635,
       "num": 94635,
       "word": "贵阳一公园两座雕塑被指不雅",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1772075481,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94313,
+      "num": 163299,
+      "word": "等Gucci大秀一场",
+      "onboard_time": 1772100202,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 93056,
@@ -1748,7 +1788,7 @@
     },
     {
       "raw_hot": 75352,
-      "num": 661923,
+      "num": 717765,
       "word": "银发经济市场规模有望达30万亿元",
       "onboard_time": 1772097142,
       "rank": 2,
@@ -1785,6 +1825,14 @@
       "onboard_time": 1772078602,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73089,
+      "num": 108786,
+      "word": "谁让陈星旭公主抱李乃文的",
+      "onboard_time": 1772099902,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 73002,
@@ -1907,14 +1955,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 64193,
-      "num": 126036,
-      "word": "网曝女子在列车上找人安排座位",
-      "onboard_time": 1772099423,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63972,
       "num": 63972,
       "word": "开通会员后马上关闭自动续费",
@@ -1977,14 +2017,6 @@
       "onboard_time": 1772081001,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54428,
-      "num": 108786,
-      "word": "谁让陈星旭公主抱李乃文的",
-      "onboard_time": 1772099902,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 54425,
@@ -2297,6 +2329,14 @@
       "onboard_time": 1772040496,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 19424,
+      "num": 106183,
+      "word": "湖南男子全款买婚房开发商称没收到钱",
+      "onboard_time": 1772100022,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17797,

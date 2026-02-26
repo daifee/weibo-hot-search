@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772100027647,
+  "endTime": 1772100823722,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -187,8 +187,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1256972,
-      "num": 1256972,
+      "raw_hot": 1273911,
+      "num": 1273911,
       "word": "手机 涨价",
       "onboard_time": 1772096001,
       "rank": 18,
@@ -939,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 602235,
+      "num": 124834,
+      "word": "刘亦菲最接近本人的一张图",
+      "onboard_time": 1772098162,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 601252,
       "num": 255194,
       "word": "卢昱晓回复外婆去世的粉丝",
@@ -1403,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 488149,
+      "num": 488149,
+      "word": "日本网民称日本确实存在撞人族",
+      "onboard_time": 1772097683,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 482319,
       "num": 482319,
       "word": "偏偏宠爱 陈飞宇",
@@ -1699,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 424278,
-      "num": 124834,
-      "word": "刘亦菲最接近本人的一张图",
-      "onboard_time": 1772098162,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 422544,
       "num": 422544,
       "word": "这些证书可抵个税",
@@ -1865,14 +1873,6 @@
       "onboard_time": 1772081961,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 400570,
-      "num": 400570,
-      "word": "日本网民称日本确实存在撞人族",
-      "onboard_time": 1772097683,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 399068,
@@ -2891,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291091,
+      "num": 291091,
+      "word": "林俊杰作曲方文山作词",
+      "onboard_time": 1772095521,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288688,
       "num": 288688,
       "word": "一顿饭付了63张五块钱",
@@ -2977,6 +2985,14 @@
       "onboard_time": 1771832660,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279876,
+      "num": 202839,
+      "word": "全球首部防窥屏手机",
+      "onboard_time": 1772096602,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 279577,
@@ -3121,14 +3137,6 @@
       "onboard_time": 1772026162,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 269407,
-      "num": 269407,
-      "word": "林俊杰作曲方文山作词",
-      "onboard_time": 1772095521,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 268741,
@@ -4683,6 +4691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180816,
+      "num": 180816,
+      "word": "爱泼斯坦私密储物柜曝光",
+      "onboard_time": 1772098821,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 180461,
       "num": 169796,
       "word": "为什么亲戚买的车总是超出我的想象",
@@ -4711,6 +4727,14 @@
       "num": 178579,
       "word": "西安暴雪24小时内温差20度",
       "onboard_time": 1771845021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178507,
+      "num": 178507,
+      "word": "网曝女子在列车上找人安排座位",
+      "onboard_time": 1772099423,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -4857,14 +4881,6 @@
       "onboard_time": 1771825402,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174211,
-      "num": 174211,
-      "word": "全球首部防窥屏手机",
-      "onboard_time": 1772096602,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 174084,
@@ -5531,6 +5547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146864,
+      "num": 118113,
+      "word": "美伊冲突",
+      "onboard_time": 1772099423,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146744,
       "num": 146744,
       "word": "孙千拍一部虐的奖励自己一部甜的",
@@ -5577,6 +5601,14 @@
       "onboard_time": 1771767022,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145557,
+      "num": 145557,
+      "word": "Uzi说Light太任性了",
+      "onboard_time": 1772099601,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 144997,
@@ -6203,14 +6235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131206,
-      "num": 131206,
-      "word": "爱泼斯坦私密储物柜曝光",
-      "onboard_time": 1772098821,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 131205,
       "num": 131205,
       "word": "原来正月初七是人的生日",
@@ -6723,14 +6747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121190,
-      "num": 121190,
-      "word": "Uzi说Light太任性了",
-      "onboard_time": 1772099601,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121116,
       "num": 115007,
       "word": "国产剧里无色无味但剧毒的老实人",
@@ -7115,6 +7131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113941,
+      "num": 113941,
+      "word": "中国男篮vs日本男篮",
+      "onboard_time": 1772100559,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113911,
       "num": 113911,
       "word": "马嘉祺高会更新",
@@ -7379,6 +7403,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 109881,
+      "num": 109881,
+      "word": "疱疹病毒一旦感染会终身复发",
+      "onboard_time": 1772098342,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109816,
       "num": 109816,
       "word": "林更新以后再也不乱看了",
@@ -7473,6 +7505,14 @@
       "onboard_time": 1771909401,
       "rank": 42,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 108479,
+      "num": 108479,
+      "word": "方穆扬整治冯琳",
+      "onboard_time": 1772099601,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 108454,
@@ -7899,6 +7939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103857,
+      "num": 103857,
+      "word": "日本把宇树机器人改成僧侣",
+      "onboard_time": 1772100559,
+      "rank": 42,
+      "category": "海外新闻,互联网"
+    },
+    {
       "raw_hot": 103826,
       "num": 103826,
       "word": "Supreme棺材",
@@ -8227,22 +8275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99683,
-      "num": 99683,
-      "word": "方穆扬整治冯琳",
-      "onboard_time": 1772099601,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 99592,
-      "num": 104643,
-      "word": "疱疹病毒一旦感染会终身复发",
-      "onboard_time": 1772098342,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 99561,
       "num": 156095,
       "word": "丈夫回应被妻子控诉回娘家待不住",
@@ -8329,6 +8361,14 @@
       "onboard_time": 1771902982,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 98569,
+      "num": 98569,
+      "word": "女孩给妈妈买金手链反被指责爆哭",
+      "onboard_time": 1772100260,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98532,
@@ -8587,14 +8627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94984,
-      "num": 94984,
-      "word": "美伊冲突",
-      "onboard_time": 1772099423,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 94908,
       "num": 94908,
       "word": "郭晓婷王天辰 单开一部",
@@ -8649,6 +8681,14 @@
       "onboard_time": 1772075481,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94313,
+      "num": 163299,
+      "word": "等Gucci大秀一场",
+      "onboard_time": 1772100202,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 94306,
@@ -10388,7 +10428,7 @@
     },
     {
       "raw_hot": 75352,
-      "num": 661923,
+      "num": 717765,
       "word": "银发经济市场规模有望达30万亿元",
       "onboard_time": 1772097142,
       "rank": 2,
@@ -10577,6 +10617,14 @@
       "onboard_time": 1771976779,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73089,
+      "num": 108786,
+      "word": "谁让陈星旭公主抱李乃文的",
+      "onboard_time": 1772099902,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 73048,
@@ -11203,14 +11251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64193,
-      "num": 126036,
-      "word": "网曝女子在列车上找人安排座位",
-      "onboard_time": 1772099423,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64158,
       "num": 64158,
       "word": "马来西亚近海发生7.1级地震",
@@ -11657,14 +11697,6 @@
       "onboard_time": 1771976239,
       "rank": 38,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 54428,
-      "num": 108786,
-      "word": "谁让陈星旭公主抱李乃文的",
-      "onboard_time": 1772099902,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 54425,
@@ -13096,6 +13128,14 @@
       "word": "新春走基层看见热气腾腾的中国",
       "onboard_time": 1771816340,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19424,
+      "num": 106183,
+      "word": "湖南男子全款买婚房开发商称没收到钱",
+      "onboard_time": 1772100022,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

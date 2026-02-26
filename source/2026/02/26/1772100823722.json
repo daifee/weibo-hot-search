@@ -1,0 +1,410 @@
+{
+  "runTime": 1772100823722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1273911,
+        "num": 1273911,
+        "word": "手机 涨价",
+        "onboard_time": 1772096001,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 597790,
+        "num": 876941,
+        "word": "一点点资助男孩被曝戴千元手表",
+        "onboard_time": 1772093302,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73935,
+        "num": 717765,
+        "word": "银发经济市场规模有望达30万亿元",
+        "onboard_time": 1772097142,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498848,
+        "num": 498848,
+        "word": "薛之谦开票",
+        "onboard_time": 1772098101,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 488149,
+        "num": 488149,
+        "word": "日本网民称日本确实存在撞人族",
+        "onboard_time": 1772097683,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 346027,
+        "num": 346027,
+        "word": "160万江景房被父母堆成废品站",
+        "onboard_time": 1772097202,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307366,
+        "num": 307366,
+        "word": "欠款1000万亿当事人这次真要逾期了",
+        "onboard_time": 1772091621,
+        "rank": 6,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 291091,
+        "num": 291091,
+        "word": "林俊杰作曲方文山作词",
+        "onboard_time": 1772095521,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246084,
+        "num": 246084,
+        "word": "千元lululemon外套仅穿一次就起球",
+        "onboard_time": 1772093721,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206863,
+        "num": 206863,
+        "word": "意外继承了前任同事留下的100块",
+        "onboard_time": 1772093241,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279876,
+        "num": 202839,
+        "word": "全球首部防窥屏手机",
+        "onboard_time": 1772096602,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180816,
+        "num": 180816,
+        "word": "爱泼斯坦私密储物柜曝光",
+        "onboard_time": 1772098821,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178507,
+        "num": 178507,
+        "word": "网曝女子在列车上找人安排座位",
+        "onboard_time": 1772099423,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172417,
+        "num": 172417,
+        "word": "微信能看图片使用次数了",
+        "onboard_time": 1772081241,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165764,
+        "num": 165764,
+        "word": "小猫守家26天在主人床上拉满便便",
+        "onboard_time": 1772089460,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94313,
+        "num": 163299,
+        "word": "等Gucci大秀一场",
+        "onboard_time": 1772100202,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161476,
+        "num": 161476,
+        "word": "坐顺风车排泄后失联男子被封号",
+        "onboard_time": 1772090061,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145557,
+        "num": 145557,
+        "word": "Uzi说Light太任性了",
+        "onboard_time": 1772099601,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139780,
+        "num": 139780,
+        "word": "这桌子下一届学生不得疯抢",
+        "onboard_time": 1772094860,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121183,
+        "num": 121183,
+        "word": "男子节后返家价值几万乌龟全被煮",
+        "onboard_time": 1772089282,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602235,
+        "num": 121076,
+        "word": "刘亦菲最接近本人的一张图",
+        "onboard_time": 1772098162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575222,
+        "num": 120091,
+        "word": "向佑不满遗产分配直喊不公平",
+        "onboard_time": 1772082262,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150122,
+        "num": 119701,
+        "word": "原来补气血有个最佳顺序",
+        "onboard_time": 1772094621,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 512634,
+        "num": 119470,
+        "word": "曝迪丽热巴与嘉行合约到期",
+        "onboard_time": 1772096420,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303531,
+        "num": 118446,
+        "word": "郭富城三岁的时候岳父出生了",
+        "onboard_time": 1772094261,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146864,
+        "num": 118113,
+        "word": "美伊冲突",
+        "onboard_time": 1772099423,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271744,
+        "num": 117491,
+        "word": "小S曾说田馥甄周杰伦不可能在一起",
+        "onboard_time": 1772097082,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174687,
+        "num": 116764,
+        "word": "杨幂米兰allblack看秀",
+        "onboard_time": 1772094561,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89259,
+        "num": 116196,
+        "word": "国家烟草专卖局原副局长被判12年",
+        "onboard_time": 1772097321,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85851,
+        "num": 116106,
+        "word": "35岁男子胸痛扛了几天不幸离世",
+        "onboard_time": 1772095941,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136927,
+        "num": 115326,
+        "word": "印度一18岁新娘在婚礼上遭枪击",
+        "onboard_time": 1772093060,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188098,
+        "num": 114585,
+        "word": "周杰伦结婚田馥甄有了讽刺的情书",
+        "onboard_time": 1772072481,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130484,
+        "num": 113945,
+        "word": "男演员点赞和刘晓庆搭戏是工伤",
+        "onboard_time": 1772081361,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113941,
+        "num": 113941,
+        "word": "中国男篮vs日本男篮",
+        "onboard_time": 1772100559,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112419,
+        "num": 112419,
+        "word": "杨洋对接回应复工",
+        "onboard_time": 1772091501,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109881,
+        "num": 109881,
+        "word": "疱疹病毒一旦感染会终身复发",
+        "onboard_time": 1772098342,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108479,
+        "num": 108479,
+        "word": "方穆扬整治冯琳",
+        "onboard_time": 1772099601,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108336,
+        "num": 108336,
+        "word": "王劲松怒斥被AI盗用",
+        "onboard_time": 1772095400,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73089,
+        "num": 106427,
+        "word": "谁让陈星旭公主抱李乃文的",
+        "onboard_time": 1772099902,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19424,
+        "num": 106183,
+        "word": "湖南男子全款买婚房开发商称没收到钱",
+        "onboard_time": 1772100022,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89204,
+        "num": 106157,
+        "word": "逐玉请来了林俊杰唱OST",
+        "onboard_time": 1772094501,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106148,
+        "num": 106148,
+        "word": "镖人 删减的打戏",
+        "onboard_time": 1772094561,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103857,
+        "num": 103857,
+        "word": "日本把宇树机器人改成僧侣",
+        "onboard_time": 1772100559,
+        "rank": 42,
+        "category": "海外新闻,互联网"
+      },
+      {
+        "raw_hot": 99833,
+        "num": 99833,
+        "word": "杨幂这是在米兰还是在湖南",
+        "onboard_time": 1772096182,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99579,
+        "num": 99579,
+        "word": "去掉身上的弱者气息",
+        "onboard_time": 1772095941,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98569,
+        "num": 98569,
+        "word": "女孩给妈妈买金手链反被指责爆哭",
+        "onboard_time": 1772100260,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96224,
+        "num": 96224,
+        "word": "周深刷到过王一博高糊彩排路透",
+        "onboard_time": 1772097860,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92391,
+        "num": 92391,
+        "word": "小米高管称手机成本已成鬼故事",
+        "onboard_time": 1772095340,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 77164,
+        "num": 77164,
+        "word": "JDG对战AL",
+        "onboard_time": 1772098640,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76466,
+        "num": 76466,
+        "word": "王安宇推了半天凶手是自己",
+        "onboard_time": 1772089400,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动实现十五五良好开局#"
+    }
+  }
+}
