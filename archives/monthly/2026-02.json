@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772104408297,
+  "endTime": 1772106405515,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1339,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1449378,
+      "num": 158507,
+      "word": "Prada外网只认领了柳智敏",
+      "onboard_time": 1772102841,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1428420,
       "num": 1428420,
       "word": "哇塞居然是脏话",
@@ -1729,14 +1737,6 @@
       "onboard_time": 1772081361,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1201132,
-      "num": 158507,
-      "word": "Prada外网只认领了柳智敏",
-      "onboard_time": 1772102841,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1200117,
@@ -3033,6 +3033,14 @@
       "onboard_time": 1771812320,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 881700,
+      "num": 843032,
+      "word": "中国邮政回应已叫停相关线下活动",
+      "onboard_time": 1772102060,
+      "rank": 3,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 879162,
@@ -5587,6 +5595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 623400,
+      "num": 821870,
+      "word": "发1.8亿年终奖公司开工3天爆单",
+      "onboard_time": 1772102481,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 622914,
       "num": 135025,
       "word": "黄一鸣直播中途崩溃大哭",
@@ -6224,6 +6240,14 @@
       "word": "权珉娥医美后毁容",
       "onboard_time": 1770619159,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 581991,
+      "num": 133192,
+      "word": "郭富城一家去景区只用买一张票",
+      "onboard_time": 1772103981,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -7147,6 +7171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 538244,
+      "num": 129078,
+      "word": "王橹杰手捧红玫瑰",
+      "onboard_time": 1772104521,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538083,
       "num": 851602,
       "word": "91岁老人900万积蓄遭儿子儿媳挪用",
@@ -7657,6 +7689,14 @@
       "onboard_time": 1770678256,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 509250,
+      "num": 214630,
+      "word": "创造营2026女生季",
+      "onboard_time": 1772104041,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 509037,
@@ -9409,14 +9449,6 @@
       "onboard_time": 1770352161,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 438742,
-      "num": 843032,
-      "word": "中国邮政回应已叫停相关线下活动",
-      "onboard_time": 1772102060,
-      "rank": 3,
-      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 438661,
@@ -15144,14 +15176,6 @@
       "word": "女子年会中4克黄金熔后变白银",
       "onboard_time": 1770725181,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308773,
-      "num": 308773,
-      "word": "发1.8亿年终奖公司开工3天爆单",
-      "onboard_time": 1772102481,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -22195,6 +22219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219089,
+      "num": 219089,
+      "word": "王曼昱vs申裕斌",
+      "onboard_time": 1770468562,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219043,
       "num": 227300,
       "word": "外语专业大退潮曾经的王牌不香了",
@@ -23337,6 +23369,14 @@
       "onboard_time": 1771764982,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205071,
+      "num": 205071,
+      "word": "出门和不出门过的两种人生",
+      "onboard_time": 1772104401,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 205034,
@@ -26115,6 +26155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178736,
+      "num": 178736,
+      "word": "一点点资助男孩公益活动引争议",
+      "onboard_time": 1772103681,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178582,
       "num": 107913,
       "word": "吾妻晚音 我叫张三",
@@ -26963,6 +27011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172355,
+      "num": 172355,
+      "word": "王曼昱黄牌",
+      "onboard_time": 1772105902,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172264,
       "num": 156523,
       "word": "王俊凯爬山",
@@ -27257,14 +27313,6 @@
       "onboard_time": 1769960421,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 169221,
-      "num": 124089,
-      "word": "郭富城一家去景区只用买一张票",
-      "onboard_time": 1772103981,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 169212,
@@ -28203,6 +28251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161623,
+      "num": 161623,
+      "word": "胡一菲诺澜在短国相遇了",
+      "onboard_time": 1772105843,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161612,
       "num": 161612,
       "word": "爱泼斯坦死后遗体被秘密转移",
@@ -28883,6 +28939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156422,
+      "num": 125442,
+      "word": "登陆少年米兰直播",
+      "onboard_time": 1772105301,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156405,
       "num": 156405,
       "word": "马立奥即将成为哥哥",
@@ -28952,6 +29016,14 @@
       "word": "穆祉丞滑雪服",
       "onboard_time": 1771772123,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156183,
+      "num": 156183,
+      "word": "王一博饼干在韩国火了",
+      "onboard_time": 1772105843,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -29081,6 +29153,14 @@
       "onboard_time": 1770377841,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155328,
+      "num": 125683,
+      "word": "霍金遗属发声",
+      "onboard_time": 1772103620,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 155320,
@@ -29953,14 +30033,6 @@
       "onboard_time": 1770267563,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149886,
-      "num": 149886,
-      "word": "一点点资助男孩公益活动引争议",
-      "onboard_time": 1772103681,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149819,
@@ -33675,14 +33747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131242,
-      "num": 125683,
-      "word": "霍金遗属发声",
-      "onboard_time": 1772103620,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 131238,
       "num": 179065,
       "word": "日本在菲律宾培植代理人挑衅中国",
@@ -34187,14 +34251,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 129526,
-      "num": 129526,
-      "word": "王曼昱vs申裕斌",
-      "onboard_time": 1770468562,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129524,
       "num": 47348,
       "word": "宁忠岩将冲击冬奥奖牌",
@@ -34481,6 +34537,14 @@
       "onboard_time": 1770725241,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128451,
+      "num": 121527,
+      "word": "肖战看秀顶级待遇",
+      "onboard_time": 1772101941,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 128418,
@@ -34947,6 +35011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126158,
+      "num": 114885,
+      "word": "刘宇宁角色热度破亿",
+      "onboard_time": 1772103742,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126050,
       "num": 171741,
       "word": "微博喜爱二次元角色",
@@ -34993,6 +35065,14 @@
       "onboard_time": 1771920501,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125889,
+      "num": 125889,
+      "word": "G社拍的汪顺",
+      "onboard_time": 1772105722,
+      "rank": 28,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 125855,
@@ -35409,14 +35489,6 @@
       "onboard_time": 1772097860,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124139,
-      "num": 121527,
-      "word": "肖战看秀顶级待遇",
-      "onboard_time": 1772101941,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 124092,
@@ -36825,6 +36897,14 @@
       "onboard_time": 1770094521,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119037,
+      "num": 119037,
+      "word": "手机集体涨价的原因",
+      "onboard_time": 1772105961,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 119027,
@@ -39185,14 +39265,6 @@
       "onboard_time": 1771169422,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111661,
-      "num": 111661,
-      "word": "刘宇宁角色热度破亿",
-      "onboard_time": 1772103742,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 111655,
@@ -49251,14 +49323,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 88316,
-      "num": 121586,
-      "word": "创造营2026女生季",
-      "onboard_time": 1772104041,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88306,
       "num": 88306,
       "word": "男子勇跳粪坑为老婆打捞新年手机",
@@ -51489,6 +51553,14 @@
       "onboard_time": 1770892579,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84021,
+      "num": 125871,
+      "word": "谷爱凌嘴里咬的到底是个啥",
+      "onboard_time": 1772105001,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 84009,
@@ -57067,6 +57139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72506,
+      "num": 124994,
+      "word": "上海一彩民一口气中5注一等奖",
+      "onboard_time": 1772105422,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72505,
       "num": 72505,
       "word": "孟子义这该死的甜美",
@@ -62323,6 +62403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57056,
+      "num": 165057,
+      "word": "文淇一种很新的生命力穿搭",
+      "onboard_time": 1772103801,
+      "rank": 15,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 57052,
       "num": 101777,
       "word": "宋祺武创男子跳台滑雪历史",
@@ -64099,6 +64187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49633,
+      "num": 151094,
+      "word": "王艺迪3比1伊藤美诚",
+      "onboard_time": 1772105481,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49626,
       "num": 505242,
       "word": "米兰冬奥会",
@@ -65465,14 +65561,6 @@
       "onboard_time": 1770865519,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 44476,
-      "num": 165057,
-      "word": "文淇一种很新的生命力穿搭",
-      "onboard_time": 1772103801,
-      "rank": 15,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 44452,
@@ -71775,6 +71863,14 @@
       "num": 74925,
       "word": "济南鳌鱼飞走了",
       "onboard_time": 1771669880,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21859,
+      "num": 122970,
+      "word": "男子在汉堡店吃出疑似钢针异物",
+      "onboard_time": 1772106080,
       "rank": 39,
       "category": "民生新闻"
     },
