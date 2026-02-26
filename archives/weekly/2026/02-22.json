@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772139897711,
+  "endTime": 1772142060439,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -13411,20 +13411,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36756,
+      "num": 43830,
+      "word": "飞驰人生3",
+      "onboard_time": 1771716497,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36443,
       "num": 102719,
       "word": "百妖谱女主",
       "onboard_time": 1771930161,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36374,
-      "num": 43830,
-      "word": "飞驰人生3",
-      "onboard_time": 1771716497,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 36123,
@@ -14123,6 +14123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20382,
+      "num": 20382,
+      "word": "30秒内3次预警救了一车人",
+      "onboard_time": 1772136313,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20069,
       "num": 17561,
       "word": "冬奥会闭幕式 艺术盛宴",
@@ -14435,14 +14443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15872,
-      "num": 15872,
-      "word": "30秒内3次预警救了一车人",
-      "onboard_time": 1772136313,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15085,
       "num": 18516,
       "word": "张极出席Prada米兰时装秀",
@@ -14548,7 +14548,7 @@
     },
     {
       "raw_hot": 13275,
-      "num": 14632,
+      "num": 14747,
       "word": "苏新皓好贵",
       "onboard_time": 1772133433,
       "rank": 39,
@@ -14627,6 +14627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11399,
+      "num": 14744,
+      "word": "玫瑰丛生",
+      "onboard_time": 1772101340,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 11360,
       "num": 14438,
       "word": "男篮世预赛",
@@ -14683,6 +14691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 7709,
+      "num": 114159,
+      "word": "德企高管踮着脚看中国机器人",
+      "onboard_time": 1772113761,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 7538,
       "num": 100959,
       "word": "一辆车就打包了外婆的菜园",
@@ -14697,14 +14713,6 @@
       "onboard_time": 1771833981,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6751,
-      "num": 114159,
-      "word": "德企高管踮着脚看中国机器人",
-      "onboard_time": 1772113761,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 5624,
