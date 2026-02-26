@@ -1,6 +1,6 @@
 {
   "startTime": 1772036028289,
-  "endTime": 1772092602198,
+  "endTime": 1772093180083,
   "band_list": [
     {
       "raw_hot": 1208618,
@@ -27,20 +27,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1082228,
+      "num": 244189,
+      "word": "一点点",
+      "onboard_time": 1772090841,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1048086,
       "num": 1167693,
       "word": "微信能看图片使用次数了",
       "onboard_time": 1772081241,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1024494,
-      "num": 244189,
-      "word": "一点点",
-      "onboard_time": 1772090841,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 965437,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477704,
+      "num": 234743,
+      "word": "肖战米兰酒店一晚2万欧元",
+      "onboard_time": 1772090659,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458218,
       "num": 458218,
       "word": "中方投下弃权票是最大的担当",
@@ -167,14 +175,6 @@
       "num": 163545,
       "word": "鹿哈说没有鹿晗就没有自己的今天",
       "onboard_time": 1772084001,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 445009,
-      "num": 234743,
-      "word": "肖战米兰酒店一晚2万欧元",
-      "onboard_time": 1772090659,
       "rank": 14,
       "category": "艺人"
     },
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362471,
+      "num": 790704,
+      "word": "男子节后返家价值几万乌龟全被煮",
+      "onboard_time": 1772089282,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354405,
       "num": 162202,
       "word": "向华强说遗产都交给郭碧婷来管",
@@ -299,12 +307,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 333108,
-      "num": 333108,
-      "word": "男子节后返家价值几万乌龟全被煮",
-      "onboard_time": 1772089282,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 339930,
+      "num": 339930,
+      "word": "欠款1000万亿当事人这次真要逾期了",
+      "onboard_time": 1772091621,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 333213,
+      "num": 333213,
+      "word": "王安宇推了半天凶手是自己",
+      "onboard_time": 1772089400,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 317968,
@@ -323,12 +339,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301712,
-      "num": 301712,
-      "word": "王安宇推了半天凶手是自己",
-      "onboard_time": 1772089400,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 308204,
+      "num": 221929,
+      "word": "坐顺风车排泄后失联男子被封号",
+      "onboard_time": 1772090061,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306199,
+      "num": 232460,
+      "word": "杨洋对接回应复工",
+      "onboard_time": 1772091501,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 300125,
@@ -339,15 +363,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291755,
-      "num": 232460,
-      "word": "杨洋对接回应复工",
-      "onboard_time": 1772091501,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 289219,
+      "raw_hot": 294907,
       "num": 229552,
       "word": "小猫守家26天在主人床上拉满便便",
       "onboard_time": 1772089460,
@@ -529,14 +545,6 @@
       "onboard_time": 1772022682,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221929,
-      "num": 221929,
-      "word": "坐顺风车排泄后失联男子被封号",
-      "onboard_time": 1772090061,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215396,
@@ -723,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144140,
+      "num": 144140,
+      "word": "安卓机皇三星S26上手体验",
+      "onboard_time": 1772091682,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 144133,
       "num": 144133,
       "word": "财不入急门也不入脏门",
@@ -737,14 +753,6 @@
       "onboard_time": 1772072962,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141671,
-      "num": 141671,
-      "word": "安卓机皇三星S26上手体验",
-      "onboard_time": 1772091682,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 140641,
@@ -843,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120741,
-      "num": 222503,
-      "word": "欠款1000万亿当事人这次真要逾期了",
-      "onboard_time": 1772091621,
-      "rank": 19,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 120523,
       "num": 120523,
       "word": "爱泼斯坦案再升级",
@@ -881,6 +881,14 @@
       "onboard_time": 1772066240,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118612,
+      "num": 118612,
+      "word": "刘涛听到极限运动秒猜王一博",
+      "onboard_time": 1772092940,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 116007,
@@ -1043,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98310,
+      "num": 98310,
+      "word": "印度一18岁新娘在婚礼上遭枪击",
+      "onboard_time": 1772093060,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96152,
       "num": 96152,
       "word": "张杰发未成年人保护法",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1772062157,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94492,
+      "num": 94492,
+      "word": "A股行情",
+      "onboard_time": 1772092581,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 94353,
@@ -1155,6 +1179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 86893,
+      "num": 86893,
+      "word": "面条 熟了我自己会说OK",
+      "onboard_time": 1772092281,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86822,
       "num": 86822,
       "word": "田柾国直播",
@@ -1195,14 +1227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84346,
-      "num": 84346,
-      "word": "面条 熟了我自己会说OK",
-      "onboard_time": 1772092281,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83568,
       "num": 83568,
       "word": "孙颖莎黄牌",
@@ -1241,14 +1265,6 @@
       "onboard_time": 1772070560,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82195,
-      "num": 82195,
-      "word": "A股行情",
-      "onboard_time": 1772092581,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 82071,
@@ -1323,6 +1339,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78429,
+      "num": 78429,
+      "word": "在卧室装出了三室一厅",
+      "onboard_time": 1772092762,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 78108,
+      "num": 78108,
+      "word": "韩国女生第一次来中国买彩妆",
+      "onboard_time": 1772092762,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 77021,
       "num": 81046,
       "word": "橘子 完美水果",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1772083701,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76014,
+      "num": 76014,
+      "word": "成都春假时间定了",
+      "onboard_time": 1772092940,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 75385,
@@ -1403,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73002,
+      "num": 73002,
+      "word": "向太回应遗产不给儿子真实原因",
+      "onboard_time": 1772093121,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72613,
       "num": 136017,
       "word": "德国总理参观故宫",
@@ -1427,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71699,
+      "num": 96076,
+      "word": "瞿桦强吻方穆静",
+      "onboard_time": 1772092461,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70897,
       "num": 70897,
       "word": "偏偏宠爱 陈飞宇",
@@ -1441,14 +1497,6 @@
       "onboard_time": 1772031202,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69880,
-      "num": 96076,
-      "word": "瞿桦强吻方穆静",
-      "onboard_time": 1772092461,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 67846,
@@ -1635,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43014,
+      "num": 153949,
+      "word": "三亚毁约民宿被罚35万",
+      "onboard_time": 1772092821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42735,
       "num": 153558,
       "word": "春日减肥计划该提上日程了",
@@ -1801,6 +1857,14 @@
       "onboard_time": 1772041638,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21173,
+      "num": 88664,
+      "word": "希望老丈人退彩礼不再成为新闻",
+      "onboard_time": 1772092641,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21109,

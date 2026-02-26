@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772092602198,
+  "endTime": 1772093180083,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -243,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1082228,
+      "num": 244189,
+      "word": "一点点",
+      "onboard_time": 1772090841,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1058472,
       "num": 237280,
       "word": "神仙肉",
@@ -273,14 +281,6 @@
       "onboard_time": 1771913119,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1024494,
-      "num": 244189,
-      "word": "一点点",
-      "onboard_time": 1772090841,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 979002,
@@ -1371,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477704,
+      "num": 234743,
+      "word": "肖战米兰酒店一晚2万欧元",
+      "onboard_time": 1772090659,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476193,
       "num": 211515,
       "word": "杨洋手部骨折",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1771910061,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 445009,
-      "num": 234743,
-      "word": "肖战米兰酒店一晚2万欧元",
-      "onboard_time": 1772090659,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 444680,
@@ -2115,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362471,
+      "num": 790704,
+      "word": "男子节后返家价值几万乌龟全被煮",
+      "onboard_time": 1772089282,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 361661,
       "num": 492245,
       "word": "首都博物馆道歉",
@@ -2291,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339930,
+      "num": 339930,
+      "word": "欠款1000万亿当事人这次真要逾期了",
+      "onboard_time": 1772091621,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 337881,
       "num": 271033,
       "word": "星痕退役",
@@ -2339,12 +2355,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 333108,
-      "num": 333108,
-      "word": "男子节后返家价值几万乌龟全被煮",
-      "onboard_time": 1772089282,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 333213,
+      "num": 333213,
+      "word": "王安宇推了半天凶手是自己",
+      "onboard_time": 1772089400,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 329343,
@@ -2515,6 +2531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308204,
+      "num": 221929,
+      "word": "坐顺风车排泄后失联男子被封号",
+      "onboard_time": 1772090061,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308077,
       "num": 105693,
       "word": "吴佳尼被认识3天的富二代求婚",
@@ -2545,6 +2569,14 @@
       "onboard_time": 1771994121,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306199,
+      "num": 232460,
+      "word": "杨洋对接回应复工",
+      "onboard_time": 1772091501,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 305203,
@@ -2609,14 +2641,6 @@
       "onboard_time": 1771825279,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301712,
-      "num": 301712,
-      "word": "王安宇推了半天凶手是自己",
-      "onboard_time": 1772089400,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 300950,
@@ -2691,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294907,
+      "num": 229552,
+      "word": "小猫守家26天在主人床上拉满便便",
+      "onboard_time": 1772089460,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294739,
       "num": 220320,
       "word": "王鹤棣宋茜恳求观众多给一些机会",
@@ -2739,28 +2771,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 291755,
-      "num": 232460,
-      "word": "杨洋对接回应复工",
-      "onboard_time": 1772091501,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 291331,
       "num": 291331,
       "word": "短国年代剧已经拍到了05年",
       "onboard_time": 1771917320,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289219,
-      "num": 229552,
-      "word": "小猫守家26天在主人床上拉满便便",
-      "onboard_time": 1772089460,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288688,
@@ -3857,14 +3873,6 @@
       "onboard_time": 1771909100,
       "rank": 30,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 221929,
-      "num": 221929,
-      "word": "坐顺风车排泄后失联男子被封号",
-      "onboard_time": 1772090061,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221868,
@@ -5459,6 +5467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144140,
+      "num": 144140,
+      "word": "安卓机皇三星S26上手体验",
+      "onboard_time": 1772091682,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 144133,
       "num": 144133,
       "word": "财不入急门也不入脏门",
@@ -5577,14 +5593,6 @@
       "onboard_time": 1772003722,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141671,
-      "num": 141671,
-      "word": "安卓机皇三星S26上手体验",
-      "onboard_time": 1772091682,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 141620,
@@ -6539,14 +6547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120741,
-      "num": 222503,
-      "word": "欠款1000万亿当事人这次真要逾期了",
-      "onboard_time": 1772091621,
-      "rank": 19,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 120523,
       "num": 120523,
       "word": "爱泼斯坦案再升级",
@@ -6641,6 +6641,14 @@
       "onboard_time": 1771931782,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 118612,
+      "num": 118612,
+      "word": "刘涛听到极限运动秒猜王一博",
+      "onboard_time": 1772092940,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 117970,
@@ -8035,6 +8043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98310,
+      "num": 98310,
+      "word": "印度一18岁新娘在婚礼上遭枪击",
+      "onboard_time": 1772093060,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98046,
       "num": 98046,
       "word": "郭晓婷王天辰 高干文",
@@ -8281,6 +8297,14 @@
       "onboard_time": 1772028622,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94492,
+      "num": 94492,
+      "word": "A股行情",
+      "onboard_time": 1771920322,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 94385,
@@ -8891,14 +8915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 88248,
-      "num": 88248,
-      "word": "A股行情",
-      "onboard_time": 1771920322,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 88197,
       "num": 88197,
       "word": "庾晚音 我同时跟六个男的结婚",
@@ -9025,6 +9041,14 @@
       "onboard_time": 1771937961,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86893,
+      "num": 86893,
+      "word": "面条 熟了我自己会说OK",
+      "onboard_time": 1772092281,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 86892,
@@ -9297,14 +9321,6 @@
       "onboard_time": 1771692918,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84346,
-      "num": 84346,
-      "word": "面条 熟了我自己会说OK",
-      "onboard_time": 1772092281,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 84237,
@@ -9803,6 +9819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78429,
+      "num": 78429,
+      "word": "在卧室装出了三室一厅",
+      "onboard_time": 1772092762,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 78318,
       "num": 78318,
       "word": "三亚直飞成都机票近万元",
@@ -9817,6 +9841,14 @@
       "onboard_time": 1771814242,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78108,
+      "num": 78108,
+      "word": "韩国女生第一次来中国买彩妆",
+      "onboard_time": 1772092762,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 78017,
@@ -9977,6 +10009,14 @@
       "onboard_time": 1772019442,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76014,
+      "num": 76014,
+      "word": "成都春假时间定了",
+      "onboard_time": 1772092940,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 75971,
@@ -10211,6 +10251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 73002,
+      "num": 73002,
+      "word": "向太回应遗产不给儿子真实原因",
+      "onboard_time": 1772093121,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72995,
       "num": 72995,
       "word": "覃予萱0比3桥本帆乃香",
@@ -10297,6 +10345,14 @@
       "onboard_time": 1771919480,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 71699,
+      "num": 96076,
+      "word": "瞿桦强吻方穆静",
+      "onboard_time": 1772092461,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 71570,
@@ -10433,14 +10489,6 @@
       "onboard_time": 1771820780,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69880,
-      "num": 96076,
-      "word": "瞿桦强吻方穆静",
-      "onboard_time": 1772092461,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 69554,
@@ -11675,6 +11723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43014,
+      "num": 153949,
+      "word": "三亚毁约民宿被罚35万",
+      "onboard_time": 1772092821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42735,
       "num": 153558,
       "word": "春日减肥计划该提上日程了",
@@ -12535,6 +12591,14 @@
       "num": 85092,
       "word": "高速堵车老板原地卖甘蔗10元1根",
       "onboard_time": 1771730180,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21173,
+      "num": 88664,
+      "word": "希望老丈人退彩礼不再成为新闻",
+      "onboard_time": 1772092641,
       "rank": 39,
       "category": "民生新闻"
     },
