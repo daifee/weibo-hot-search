@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772093180083,
+  "endTime": 1772096360871,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -57,6 +57,14 @@
       "onboard_time": 1771758447,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1873376,
+      "num": 97068,
+      "word": "中国邮政 尘白禁区",
+      "onboard_time": 1772093600,
+      "rank": 45,
+      "category": "游戏,民生新闻"
     },
     {
       "raw_hot": 1700156,
@@ -571,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 760380,
+      "num": 294603,
+      "word": "意外继承了前任同事留下的100块",
+      "onboard_time": 1772093241,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 760099,
       "num": 103148,
       "word": "曝齐思钧刘梦章分手",
@@ -593,6 +609,14 @@
       "onboard_time": 1771991541,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 755078,
+      "num": 1120812,
+      "word": "欠款1000万亿当事人这次真要逾期了",
+      "onboard_time": 1772091621,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 752882,
@@ -657,6 +681,14 @@
       "onboard_time": 1771771163,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 699682,
+      "num": 133683,
+      "word": "郭富城三岁的时候岳父出生了",
+      "onboard_time": 1772094261,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 696154,
@@ -744,6 +776,14 @@
       "word": "11岁男童在服务区被车撞击后身亡",
       "onboard_time": 1771927040,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 666741,
+      "num": 834689,
+      "word": "一点点资助男孩被曝戴千元手表",
+      "onboard_time": 1772093302,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -1987,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375727,
+      "num": 221929,
+      "word": "坐顺风车排泄后失联男子被封号",
+      "onboard_time": 1772090061,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375352,
       "num": 279619,
       "word": "父亲遇3岁儿子坠楼下意识伸手接",
@@ -2299,14 +2347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 339930,
-      "num": 339930,
-      "word": "欠款1000万亿当事人这次真要逾期了",
-      "onboard_time": 1772091621,
-      "rank": 19,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 337881,
       "num": 271033,
       "word": "星痕退役",
@@ -2393,6 +2433,14 @@
       "onboard_time": 1771991002,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326118,
+      "num": 213289,
+      "word": "杨幂米兰allblack看秀",
+      "onboard_time": 1772094561,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 323973,
@@ -2491,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309539,
+      "num": 309539,
+      "word": "逐玉请来了林俊杰唱OST",
+      "onboard_time": 1772094501,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309332,
       "num": 303620,
       "word": "琉球父母被迫杀死孩子后自杀",
@@ -2529,14 +2585,6 @@
       "onboard_time": 1771994840,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308204,
-      "num": 221929,
-      "word": "坐顺风车排泄后失联男子被封号",
-      "onboard_time": 1772090061,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 308077,
@@ -3289,6 +3337,14 @@
       "onboard_time": 1771756521,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251166,
+      "num": 251166,
+      "word": "千元lululemon外套仅穿一次就起球",
+      "onboard_time": 1772093721,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250805,
@@ -4363,6 +4419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189977,
+      "num": 132449,
+      "word": "林俊杰作曲方文山作词",
+      "onboard_time": 1772095521,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189755,
       "num": 189755,
       "word": "代旭劝学",
@@ -4593,6 +4657,14 @@
       "onboard_time": 1771845021,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177598,
+      "num": 124210,
+      "word": "印度一18岁新娘在婚礼上遭枪击",
+      "onboard_time": 1772093060,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 177215,
@@ -5131,6 +5203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155718,
+      "num": 155718,
+      "word": "手机 涨价",
+      "onboard_time": 1772096001,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 155508,
       "num": 155508,
       "word": "男子将博士学位证折成元宝烧给爷爷",
@@ -5331,6 +5411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148893,
+      "num": 131997,
+      "word": "镖人 删减的打戏",
+      "onboard_time": 1772094561,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147888,
       "num": 147888,
       "word": "西藏徒步失联女生因自责用微笑回应",
@@ -5352,6 +5440,14 @@
       "word": "鞠婧祎跳了没有明天",
       "onboard_time": 1771939942,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147450,
+      "num": 127216,
+      "word": "王劲松怒斥被AI盗用",
+      "onboard_time": 1772095400,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -6131,6 +6227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129680,
+      "num": 129680,
+      "word": "Prada大秀",
+      "onboard_time": 1772092400,
+      "rank": 41,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 129609,
       "num": 129609,
       "word": "星河入梦 0爱情",
@@ -6224,6 +6328,14 @@
       "word": "每天早睡1小时身体就不一样",
       "onboard_time": 1771717037,
       "rank": 24,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126953,
+      "num": 126953,
+      "word": "原来补气血有个最佳顺序",
+      "onboard_time": 1772094621,
+      "rank": 28,
       "category": "健康医疗"
     },
     {
@@ -6395,6 +6507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123500,
+      "num": 123500,
+      "word": "小米高管称手机成本已成鬼故事",
+      "onboard_time": 1772095340,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 123167,
       "num": 123167,
       "word": "杨瀚森11分12篮板",
@@ -6561,6 +6681,14 @@
       "onboard_time": 1772075901,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 120067,
+      "num": 120067,
+      "word": "任素汐演了9集身后已空无一人",
+      "onboard_time": 1772093541,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 119650,
@@ -7619,6 +7747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103965,
+      "num": 103965,
+      "word": "理发师以打薄为由偷刮孕妇长发卖钱",
+      "onboard_time": 1772094800,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103878,
       "num": 103878,
       "word": "新版傲慢与偏见预告",
@@ -7755,6 +7891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102381,
+      "num": 102381,
+      "word": "陈飞宇叫孙千洗衣粉儿",
+      "onboard_time": 1772092520,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102226,
       "num": 102226,
       "word": "宋雨琦看秀造型",
@@ -7817,6 +7961,14 @@
       "onboard_time": 1771927822,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101778,
+      "num": 101778,
+      "word": "这桌子下一届学生不得疯抢",
+      "onboard_time": 1772094860,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 101613,
@@ -7939,6 +8091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100135,
+      "num": 100135,
+      "word": "35岁男子胸痛扛了几天不幸离世",
+      "onboard_time": 1772095941,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99729,
       "num": 99729,
       "word": "偏偏宠爱",
@@ -8043,20 +8203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98310,
-      "num": 98310,
-      "word": "印度一18岁新娘在婚礼上遭枪击",
-      "onboard_time": 1772093060,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 98046,
       "num": 98046,
       "word": "郭晓婷王天辰 高干文",
       "onboard_time": 1771856601,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98018,
+      "num": 98018,
+      "word": "造谣王橹杰私联或被罚款拘留",
+      "onboard_time": 1772096121,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 97943,
@@ -8107,12 +8267,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97532,
+      "num": 97532,
+      "word": "干眼症的尽头是精神科",
+      "onboard_time": 1772094381,
+      "rank": 42,
+      "category": "健康医疗,情感"
+    },
+    {
       "raw_hot": 97374,
       "num": 97374,
       "word": "这样做帮你瘦回节前体重",
       "onboard_time": 1771900162,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97247,
+      "num": 97247,
+      "word": "过了年再找工作更容易吗",
+      "onboard_time": 1772095762,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 97237,
@@ -8129,6 +8305,14 @@
       "onboard_time": 1772017942,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97173,
+      "num": 97173,
+      "word": "面条 熟了我自己会说OK",
+      "onboard_time": 1772092281,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 97135,
@@ -8281,6 +8465,14 @@
       "onboard_time": 1771918461,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94719,
+      "num": 94719,
+      "word": "去掉身上的弱者气息",
+      "onboard_time": 1772095941,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 94635,
@@ -8523,14 +8715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92649,
-      "num": 92649,
-      "word": "Prada大秀",
-      "onboard_time": 1772092400,
-      "rank": 41,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 92606,
       "num": 92606,
       "word": "小兔洗脸小兔摔倒",
@@ -8577,6 +8761,14 @@
       "onboard_time": 1772032823,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92234,
+      "num": 92234,
+      "word": "杨幂这是在米兰还是在湖南",
+      "onboard_time": 1772096182,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 92197,
@@ -8721,6 +8913,14 @@
       "onboard_time": 1771909699,
       "rank": 26,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 90480,
+      "num": 90480,
+      "word": "曝魅族外还有厂商停止旗舰研发",
+      "onboard_time": 1772096301,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 90400,
@@ -9041,14 +9241,6 @@
       "onboard_time": 1771937961,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 86893,
-      "num": 86893,
-      "word": "面条 熟了我自己会说OK",
-      "onboard_time": 1772092281,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 86892,
@@ -9473,14 +9665,6 @@
       "onboard_time": 1772070560,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82071,
-      "num": 82071,
-      "word": "陈飞宇叫孙千洗衣粉儿",
-      "onboard_time": 1772092520,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 82057,
@@ -10497,6 +10681,14 @@
       "onboard_time": 1771888937,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 68824,
+      "num": 124353,
+      "word": "新一轮美伊谈判举行",
+      "onboard_time": 1772094921,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68776,
@@ -12515,6 +12707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22916,
+      "num": 133693,
+      "word": "给患癌去世女友筹钱男生讲述经过",
+      "onboard_time": 1772095222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22860,
       "num": 24700,
       "word": "王楚然长文告别庾晚音",
@@ -12905,6 +13105,14 @@
       "onboard_time": 1771959615,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15083,
+      "num": 89158,
+      "word": "与旅行社发生纠纷收到大量骚扰短信",
+      "onboard_time": 1772095041,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14954,
