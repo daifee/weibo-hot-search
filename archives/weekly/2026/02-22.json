@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772121719311,
+  "endTime": 1772122557812,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -1793,6 +1793,14 @@
       "onboard_time": 1771838840,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436893,
+      "num": 202274,
+      "word": "杨幂TOP坐一起",
+      "onboard_time": 1772121441,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 436568,
@@ -4099,14 +4107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231876,
-      "num": 202274,
-      "word": "杨幂TOP坐一起",
-      "onboard_time": 1772121441,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230518,
       "num": 230518,
       "word": "多家妇幼医院门口烟民扎堆",
@@ -4705,6 +4705,14 @@
       "onboard_time": 1771827979,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197884,
+      "num": 197884,
+      "word": "孙燕姿新歌飞瀑而下",
+      "onboard_time": 1772116822,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 197270,
@@ -7163,6 +7171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124747,
+      "num": 98002,
+      "word": "老外以为一个姓张的人研究遍及各学科",
+      "onboard_time": 1772120721,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124501,
       "num": 135939,
       "word": "墨西哥特种部队与毒枭火拼",
@@ -7409,14 +7425,6 @@
       "onboard_time": 1772070680,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 120381,
-      "num": 120381,
-      "word": "孙燕姿新歌飞瀑而下",
-      "onboard_time": 1772116822,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 120235,
@@ -9097,14 +9105,6 @@
       "onboard_time": 1771856601,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98002,
-      "num": 98002,
-      "word": "老外以为一个姓张的人研究遍及各学科",
-      "onboard_time": 1772120721,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 97943,
@@ -10835,6 +10835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80368,
+      "num": 80368,
+      "word": "TOP大秀现场",
+      "onboard_time": 1772122101,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 80353,
       "num": 210156,
       "word": "谷爱凌U池决赛改至17点40",
@@ -10897,6 +10905,14 @@
       "onboard_time": 1772016382,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79739,
+      "num": 79739,
+      "word": "王天辰郭晓婷花絮好甜",
+      "onboard_time": 1772121620,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 79476,
@@ -11129,6 +11145,14 @@
       "onboard_time": 1771916600,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76410,
+      "num": 76410,
+      "word": "JDG晋级LPL胜决",
+      "onboard_time": 1772119102,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 76301,
@@ -11387,6 +11411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73551,
+      "num": 73551,
+      "word": "一盒内存条堪比一套房",
+      "onboard_time": 1772121620,
+      "rank": 48,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 73345,
       "num": 73345,
       "word": "12岁孩子千元红包被男子摩擦式捡走",
@@ -11643,14 +11675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70593,
-      "num": 70593,
-      "word": "王天辰郭晓婷花絮好甜",
-      "onboard_time": 1772121620,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 70484,
       "num": 70484,
       "word": "女子极限候补高铁避开12小时堵车路",
@@ -11665,14 +11689,6 @@
       "onboard_time": 1771738999,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 70393,
-      "num": 70393,
-      "word": "一盒内存条堪比一套房",
-      "onboard_time": 1772121620,
-      "rank": 48,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 70362,
@@ -11705,14 +11721,6 @@
       "onboard_time": 1771888937,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 69477,
-      "num": 69477,
-      "word": "JDG晋级LPL胜决",
-      "onboard_time": 1772119102,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 68824,
@@ -12336,6 +12344,14 @@
       "word": "家中30万现金被烧村民发声",
       "onboard_time": 1771940962,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58969,
+      "num": 169217,
+      "word": "香港山火火情基本受控",
+      "onboard_time": 1772122161,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -13227,6 +13243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38608,
+      "num": 159327,
+      "word": "汽车充完电未及时挪车被收438元",
+      "onboard_time": 1772120963,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38557,
       "num": 99200,
       "word": "年轻人更愿意买老款旗舰版手机",
@@ -13433,6 +13457,14 @@
       "onboard_time": 1771938561,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32161,
+      "num": 216315,
+      "word": "整治幽灵外卖新规发布",
+      "onboard_time": 1772120963,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32105,
@@ -14227,14 +14259,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16697,
-      "num": 216315,
-      "word": "整治幽灵外卖新规发布",
-      "onboard_time": 1772120963,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16481,
       "num": 93345,
       "word": "陌生网友帮新娘堵门被邀坐主桌",
@@ -14281,14 +14305,6 @@
       "onboard_time": 1771941563,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15910,
-      "num": 159327,
-      "word": "汽车充完电未及时挪车被收438元",
-      "onboard_time": 1772120963,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15085,

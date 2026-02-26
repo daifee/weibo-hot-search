@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772121719311,
+  "endTime": 1772122557812,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -9601,6 +9601,14 @@
       "onboard_time": 1770979760,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 436893,
+      "num": 202274,
+      "word": "杨幂TOP坐一起",
+      "onboard_time": 1772121441,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 436826,
@@ -21171,14 +21179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 231876,
-      "num": 202274,
-      "word": "杨幂TOP坐一起",
-      "onboard_time": 1772121441,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231674,
       "num": 231674,
       "word": "魏大勋说自己后悔去爬山",
@@ -24417,6 +24417,14 @@
       "onboard_time": 1770961520,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197884,
+      "num": 197884,
+      "word": "孙燕姿新歌飞瀑而下",
+      "onboard_time": 1772116822,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 197500,
@@ -35747,6 +35755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124747,
+      "num": 98002,
+      "word": "老外以为一个姓张的人研究遍及各学科",
+      "onboard_time": 1772120721,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124734,
       "num": 124734,
       "word": "胖东来员工回应春节放假5天",
@@ -36873,14 +36889,6 @@
       "onboard_time": 1770212841,
       "rank": 28,
       "category": "军事"
-    },
-    {
-      "raw_hot": 120381,
-      "num": 120381,
-      "word": "孙燕姿新歌飞瀑而下",
-      "onboard_time": 1772116822,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 120319,
@@ -45225,14 +45233,6 @@
       "onboard_time": 1770816801,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98002,
-      "num": 98002,
-      "word": "老外以为一个姓张的人研究遍及各学科",
-      "onboard_time": 1772120721,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 97974,
@@ -53883,6 +53883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80368,
+      "num": 80368,
+      "word": "TOP大秀现场",
+      "onboard_time": 1772122101,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 80365,
       "num": 80365,
       "word": "冬奥会首日米兰爆发冲突",
@@ -54345,6 +54353,14 @@
       "onboard_time": 1770877640,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 79739,
+      "num": 79739,
+      "word": "王天辰郭晓婷花絮好甜",
+      "onboard_time": 1772121620,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 79715,
@@ -55915,6 +55931,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 76410,
+      "num": 76410,
+      "word": "JDG晋级LPL胜决",
+      "onboard_time": 1772119102,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 76383,
       "num": 76383,
       "word": "这是返乡务工人员吃饭的家伙",
@@ -57259,6 +57283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 73551,
+      "num": 73551,
+      "word": "一盒内存条堪比一套房",
+      "onboard_time": 1772121620,
+      "rank": 48,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 73548,
       "num": 281197,
       "word": "小猫和主人都占到了对方的便宜",
@@ -58451,14 +58483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70593,
-      "num": 70593,
-      "word": "王天辰郭晓婷花絮好甜",
-      "onboard_time": 1772121620,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 70574,
       "num": 70574,
       "word": "港股科网股大跌",
@@ -58505,14 +58529,6 @@
       "onboard_time": 1771738999,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 70393,
-      "num": 70393,
-      "word": "一盒内存条堪比一套房",
-      "onboard_time": 1772121620,
-      "rank": 48,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 70375,
@@ -58785,14 +58801,6 @@
       "onboard_time": 1771159581,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69477,
-      "num": 69477,
-      "word": "JDG晋级LPL胜决",
-      "onboard_time": 1772119102,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 69461,
@@ -62568,6 +62576,14 @@
       "word": "明珍珍当庭忏悔独家视频曝光",
       "onboard_time": 1770545659,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58969,
+      "num": 169217,
+      "word": "香港山火火情基本受控",
+      "onboard_time": 1772122161,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -67627,6 +67643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 38608,
+      "num": 159327,
+      "word": "汽车充完电未及时挪车被收438元",
+      "onboard_time": 1772120963,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38557,
       "num": 99200,
       "word": "年轻人更愿意买老款旗舰版手机",
@@ -69249,6 +69273,14 @@
       "onboard_time": 1771621274,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32161,
+      "num": 216315,
+      "word": "整治幽灵外卖新规发布",
+      "onboard_time": 1772120963,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32160,
@@ -74291,14 +74323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16697,
-      "num": 216315,
-      "word": "整治幽灵外卖新规发布",
-      "onboard_time": 1772120963,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16659,
       "num": 212252,
       "word": "春节为何定在正月初一",
@@ -74561,14 +74585,6 @@
       "onboard_time": 1770145574,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15910,
-      "num": 159327,
-      "word": "汽车充完电未及时挪车被收438元",
-      "onboard_time": 1772120963,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15909,

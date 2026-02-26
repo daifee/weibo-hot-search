@@ -1,0 +1,410 @@
+{
+  "runTime": 1772122557812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 863041,
+        "num": 1016992,
+        "word": "24岁女生成功诞下1男4女5胞胎",
+        "onboard_time": 1772115143,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591879,
+        "num": 746285,
+        "word": "手机 涨价",
+        "onboard_time": 1772096001,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 58157,
+        "num": 592254,
+        "word": "一趟列车24站解锁200多家景区",
+        "onboard_time": 1772112141,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486145,
+        "num": 486145,
+        "word": "迪丽热巴 瓦猫",
+        "onboard_time": 1772114002,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314937,
+        "num": 314937,
+        "word": "男子谎称走亲戚欲把7岁儿子留老家",
+        "onboard_time": 1772117422,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386335,
+        "num": 313750,
+        "word": "苹果新品来了",
+        "onboard_time": 1772116343,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 310174,
+        "num": 310174,
+        "word": "尘白禁区发文回应",
+        "onboard_time": 1772111602,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216504,
+        "num": 216504,
+        "word": "王楚钦1比7落后逆转",
+        "onboard_time": 1772117182,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209138,
+        "num": 209138,
+        "word": "网传浪姐7参赛名单",
+        "onboard_time": 1772118922,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197884,
+        "num": 197884,
+        "word": "孙燕姿新歌飞瀑而下",
+        "onboard_time": 1772116822,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346066,
+        "num": 187037,
+        "word": "冬奥花滑冠军刘美贤遭俄罗斯粉丝吐槽",
+        "onboard_time": 1772116462,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436893,
+        "num": 178078,
+        "word": "杨幂TOP坐一起",
+        "onboard_time": 1772121441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58969,
+        "num": 169217,
+        "word": "香港山火火情基本受控",
+        "onboard_time": 1772122161,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164153,
+        "num": 164153,
+        "word": "向佑不满遗产分配直喊不公平",
+        "onboard_time": 1772082262,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157854,
+        "num": 157854,
+        "word": "日本物价居然到这种程度了",
+        "onboard_time": 1772110341,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154996,
+        "num": 154996,
+        "word": "中方回应金正恩对韩表态",
+        "onboard_time": 1772115321,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192634,
+        "num": 152336,
+        "word": "杨幂怼脸镜头好美",
+        "onboard_time": 1772113643,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147321,
+        "num": 147321,
+        "word": "虞书欣红衣主母跳惊鸿一面",
+        "onboard_time": 1772107820,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125374,
+        "num": 125374,
+        "word": "文章上了澳门语文教材是什么体验",
+        "onboard_time": 1772108061,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136360,
+        "num": 124716,
+        "word": "橹穆双人舞台官摄破2711万",
+        "onboard_time": 1772113161,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 346777,
+        "num": 123018,
+        "word": "中国邮政回应已叫停相关线下活动",
+        "onboard_time": 1772102060,
+        "rank": 20,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 130889,
+        "num": 121069,
+        "word": "胡一菲诺澜在短国相遇了",
+        "onboard_time": 1772105843,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125545,
+        "num": 118882,
+        "word": "王天辰 上桌",
+        "onboard_time": 1772117003,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118476,
+        "num": 118476,
+        "word": "比尔盖茨出轨女性身份曝光",
+        "onboard_time": 1772117663,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114336,
+        "num": 114336,
+        "word": "Cat毕业典礼",
+        "onboard_time": 1772116882,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101592,
+        "num": 101592,
+        "word": "张艺兴小张入职第一天",
+        "onboard_time": 1772120181,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100937,
+        "num": 100937,
+        "word": "创造营2026女生季",
+        "onboard_time": 1772104041,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98527,
+        "num": 98527,
+        "word": "尘白禁区 中国邮政",
+        "onboard_time": 1772120781,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97557,
+        "num": 97557,
+        "word": "王橹杰手捧红玫瑰",
+        "onboard_time": 1772104521,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95541,
+        "num": 95541,
+        "word": "嘉人单发苏新皓",
+        "onboard_time": 1772116701,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124747,
+        "num": 95224,
+        "word": "老外以为一个姓张的人研究遍及各学科",
+        "onboard_time": 1772120721,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93161,
+        "num": 93161,
+        "word": "JDG战胜AL",
+        "onboard_time": 1772114181,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90582,
+        "num": 90582,
+        "word": "申裕斌赛后飙中文太累了",
+        "onboard_time": 1772118442,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87270,
+        "num": 87270,
+        "word": "中国男篮战胜日本男篮",
+        "onboard_time": 1772108601,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81138,
+        "num": 81138,
+        "word": "肖战Gucci看秀待遇",
+        "onboard_time": 1772114362,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 482107,
+        "num": 81085,
+        "word": "香港突发山火",
+        "onboard_time": 1772114542,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80544,
+        "num": 80544,
+        "word": "兔闪闪道歉",
+        "onboard_time": 1772109561,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80368,
+        "num": 80368,
+        "word": "TOP大秀现场",
+        "onboard_time": 1772122101,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 80205,
+        "num": 80205,
+        "word": "发1.8亿年终奖公司开工3天爆单",
+        "onboard_time": 1772102481,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32161,
+        "num": 79937,
+        "word": "整治幽灵外卖新规发布",
+        "onboard_time": 1772120963,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79739,
+        "num": 79739,
+        "word": "王天辰郭晓婷花絮好甜",
+        "onboard_time": 1772121620,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79509,
+        "num": 79509,
+        "word": "领克致歉语音误关大灯",
+        "onboard_time": 1772116763,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 78946,
+        "num": 78946,
+        "word": "曝迪丽热巴与嘉行合约到期",
+        "onboard_time": 1772096420,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78623,
+        "num": 78623,
+        "word": "郭富城一家去景区只用买一张票",
+        "onboard_time": 1772103981,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76410,
+        "num": 76410,
+        "word": "JDG晋级LPL胜决",
+        "onboard_time": 1772119102,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73551,
+        "num": 73551,
+        "word": "一盒内存条堪比一套房",
+        "onboard_time": 1772121620,
+        "rank": 45,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 67801,
+        "num": 67801,
+        "word": "陈妍希说英语",
+        "onboard_time": 1772117902,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66447,
+        "num": 66447,
+        "word": "赛里木湖上演绝美火烧云",
+        "onboard_time": 1772121560,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 59948,
+        "num": 66231,
+        "word": "Prada直播",
+        "onboard_time": 1772111423,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38608,
+        "num": 65965,
+        "word": "汽车充完电未及时挪车被收438元",
+        "onboard_time": 1772120963,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调潜绩的重要性#"
+    }
+  }
+}
