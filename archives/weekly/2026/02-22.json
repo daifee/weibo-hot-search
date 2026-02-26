@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772142060439,
+  "endTime": 1772142919483,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -13147,6 +13147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41824,
+      "num": 43830,
+      "word": "飞驰人生3",
+      "onboard_time": 1771716497,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41520,
       "num": 41520,
       "word": "谷爱凌壁纸",
@@ -13409,14 +13417,6 @@
       "onboard_time": 1771923262,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 36756,
-      "num": 43830,
-      "word": "飞驰人生3",
-      "onboard_time": 1771716497,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 36443,
@@ -13787,6 +13787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26120,
+      "num": 26120,
+      "word": "30秒内3次预警救了一车人",
+      "onboard_time": 1772136313,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25934,
       "num": 130623,
       "word": "一家人捡到婚包等失主错过高速免费",
@@ -14121,14 +14129,6 @@
       "onboard_time": 1771784596,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20382,
-      "num": 20382,
-      "word": "30秒内3次预警救了一车人",
-      "onboard_time": 1772136313,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20069,
@@ -14627,7 +14627,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11399,
+      "raw_hot": 11574,
       "num": 14744,
       "word": "玫瑰丛生",
       "onboard_time": 1772101340,
@@ -14683,20 +14683,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8242,
+      "num": 114159,
+      "word": "德企高管踮着脚看中国机器人",
+      "onboard_time": 1772113761,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 7847,
       "num": 610720,
       "word": "春节我国多领域解锁新成就",
       "onboard_time": 1771939282,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7709,
-      "num": 114159,
-      "word": "德企高管踮着脚看中国机器人",
-      "onboard_time": 1772113761,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 7538,
