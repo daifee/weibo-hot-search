@@ -1,0 +1,410 @@
+{
+  "runTime": 1772133417945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 124790,
+        "num": 124790,
+        "word": "24岁女生成功诞下1男4女5胞胎",
+        "onboard_time": 1772115143,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110917,
+        "num": 110917,
+        "word": "手机 涨价",
+        "onboard_time": 1772096001,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11234,
+        "num": 93314,
+        "word": "12306已累计预售春运火车票3.76亿张",
+        "onboard_time": 1772111962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89060,
+        "num": 89060,
+        "word": "尘白禁区发文回应",
+        "onboard_time": 1772111602,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61270,
+        "num": 61270,
+        "word": "香港山火仍在扑救中",
+        "onboard_time": 1772126955,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46027,
+        "num": 46027,
+        "word": "男子谎称走亲戚欲把7岁儿子留老家",
+        "onboard_time": 1772117422,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39027,
+        "num": 39027,
+        "word": "老外以为一个姓张的人研究遍及各学科",
+        "onboard_time": 1772120721,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36705,
+        "num": 36705,
+        "word": "日本物价居然到这种程度了",
+        "onboard_time": 1772110341,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33881,
+        "num": 33881,
+        "word": "虞书欣红衣主母跳惊鸿一面",
+        "onboard_time": 1772107820,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32665,
+        "num": 32665,
+        "word": "一盒内存条堪比一套房",
+        "onboard_time": 1772121620,
+        "rank": 9,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 100497,
+        "num": 32326,
+        "word": "苹果新品来了",
+        "onboard_time": 1772116343,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93767,
+        "num": 32133,
+        "word": "田柾国直播爆粗口",
+        "onboard_time": 1772125157,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92751,
+        "num": 31656,
+        "word": "杨幂TOP坐一起",
+        "onboard_time": 1772121441,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63016,
+        "num": 31323,
+        "word": "搞对象后弟弟的变化",
+        "onboard_time": 1772129534,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60959,
+        "num": 30899,
+        "word": "比尔盖茨出轨女性身份曝光",
+        "onboard_time": 1772117663,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36762,
+        "num": 30535,
+        "word": "冬奥花滑冠军刘美贤遭俄罗斯粉丝吐槽",
+        "onboard_time": 1772116462,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33054,
+        "num": 30181,
+        "word": "刘诗诗头戴非遗绒花高雅动人",
+        "onboard_time": 1772125697,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45848,
+        "num": 30121,
+        "word": "Prada认领杨幂",
+        "onboard_time": 1772110041,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29788,
+        "num": 29788,
+        "word": "迪丽热巴 瓦猫",
+        "onboard_time": 1772114002,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29275,
+        "num": 29275,
+        "word": "网传浪姐7参赛名单",
+        "onboard_time": 1772118922,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83927,
+        "num": 28909,
+        "word": "中国邮政回应已叫停相关线下活动",
+        "onboard_time": 1772102060,
+        "rank": 20,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 27296,
+        "num": 27296,
+        "word": "橹穆双人舞台官摄破2711万",
+        "onboard_time": 1772113161,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26901,
+        "num": 26901,
+        "word": "Prada生图",
+        "onboard_time": 1772131395,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24600,
+        "num": 24600,
+        "word": "肖战Gucci看秀待遇",
+        "onboard_time": 1772114362,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 22073,
+        "num": 22073,
+        "word": "嘉人单发苏新皓",
+        "onboard_time": 1772116701,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21508,
+        "num": 21508,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1772105961,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21289,
+        "num": 21289,
+        "word": "创造营2026女生季",
+        "onboard_time": 1772104041,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20166,
+        "num": 20166,
+        "word": "兔闪闪道歉",
+        "onboard_time": 1772109561,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19749,
+        "num": 19749,
+        "word": "11月宝宝从婴儿车滑落颅脑重伤",
+        "onboard_time": 1772123898,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18649,
+        "num": 19545,
+        "word": "香港山火火情基本受控",
+        "onboard_time": 1772122161,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19934,
+        "num": 19531,
+        "word": "重庆有顾客就餐时卡式炉爆炸",
+        "onboard_time": 1772130616,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19487,
+        "num": 19487,
+        "word": "全网最黑大熊猫出现了",
+        "onboard_time": 1772110820,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19077,
+        "num": 19077,
+        "word": "王一博2026春晚完整彩排视频",
+        "onboard_time": 1772129475,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18798,
+        "num": 18798,
+        "word": "中方回应金正恩对韩表态",
+        "onboard_time": 1772115321,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18779,
+        "num": 18779,
+        "word": "胡一菲诺澜在短国相遇了",
+        "onboard_time": 1772105843,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18767,
+        "num": 18767,
+        "word": "中国男篮战胜日本男篮",
+        "onboard_time": 1772108601,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18525,
+        "num": 18525,
+        "word": "郭富城一家去景区只用买一张票",
+        "onboard_time": 1772103981,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17684,
+        "num": 18525,
+        "word": "王橹杰手捧红玫瑰",
+        "onboard_time": 1772104521,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17680,
+        "num": 18521,
+        "word": "曝迪丽热巴与嘉行合约到期",
+        "onboard_time": 1772096420,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16849,
+        "num": 18517,
+        "word": "孙燕姿新歌飞瀑而下",
+        "onboard_time": 1772116822,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16686,
+        "num": 18511,
+        "word": "张泽禹的手镯",
+        "onboard_time": 1772130795,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16682,
+        "num": 18509,
+        "word": "JDG战胜AL",
+        "onboard_time": 1772114181,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16344,
+        "num": 18505,
+        "word": "谷爱凌Prada看秀",
+        "onboard_time": 1772122759,
+        "rank": 42,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 16027,
+        "num": 18505,
+        "word": "KPL春季赛",
+        "onboard_time": 1772107282,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15998,
+        "num": 18499,
+        "word": "特朗普威胁驱逐教父饰演者",
+        "onboard_time": 1772132774,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15690,
+        "num": 18498,
+        "word": "Prada直播",
+        "onboard_time": 1772111423,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 15586,
+        "num": 18492,
+        "word": "肖战申请强执黑粉",
+        "onboard_time": 1772125938,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15461,
+        "num": 18489,
+        "word": "KSG战胜DYG",
+        "onboard_time": 1772118683,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15415,
+        "num": 18488,
+        "word": "王天辰 上桌",
+        "onboard_time": 1772117003,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15286,
+        "num": 18484,
+        "word": "TOP大秀现场",
+        "onboard_time": 1772122101,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调潜绩的重要性#"
+    }
+  }
+}

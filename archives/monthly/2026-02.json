@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772132549272,
+  "endTime": 1772133417945,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -61347,6 +61347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63016,
+      "num": 31323,
+      "word": "搞对象后弟弟的变化",
+      "onboard_time": 1772129534,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63008,
       "num": 67382,
       "word": "初五为啥又要吃饺子",
@@ -63161,14 +63169,6 @@
       "onboard_time": 1771492279,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56726,
-      "num": 20534,
-      "word": "搞对象后弟弟的变化",
-      "onboard_time": 1772129534,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 56706,
@@ -73227,6 +73227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19934,
+      "num": 19531,
+      "word": "重庆有顾客就餐时卡式炉爆炸",
+      "onboard_time": 1772130616,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19919,
       "num": 111103,
       "word": "苏新皓居然给姚晨变过魔术",
@@ -73641,14 +73649,6 @@
       "onboard_time": 1770319933,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18666,
-      "num": 18666,
-      "word": "重庆有顾客就餐时卡式炉爆炸",
-      "onboard_time": 1772130616,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18607,
@@ -74419,7 +74419,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16685,
+      "raw_hot": 16686,
       "num": 18664,
       "word": "张泽禹的手镯",
       "onboard_time": 1772130795,
@@ -74673,6 +74673,14 @@
       "onboard_time": 1770897620,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15998,
+      "num": 18499,
+      "word": "特朗普威胁驱逐教父饰演者",
+      "onboard_time": 1772132774,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15983,

@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772132549272,
+  "endTime": 1772133417945,
   "band_list": [
     {
       "raw_hot": 990189,
@@ -411,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63016,
+      "num": 31323,
+      "word": "搞对象后弟弟的变化",
+      "onboard_time": 1772129534,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 59948,
       "num": 66231,
       "word": "Prada直播",
@@ -433,14 +441,6 @@
       "onboard_time": 1772122161,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56726,
-      "num": 20534,
-      "word": "搞对象后弟弟的变化",
-      "onboard_time": 1772129534,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 54481,
@@ -531,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19934,
+      "num": 19531,
+      "word": "重庆有顾客就餐时卡式炉爆炸",
+      "onboard_time": 1772130616,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19878,
       "num": 19878,
       "word": "王一博2026春晚完整彩排视频",
@@ -539,15 +547,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18666,
-      "num": 18666,
-      "word": "重庆有顾客就餐时卡式炉爆炸",
-      "onboard_time": 1772130616,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16685,
+      "raw_hot": 16686,
       "num": 18664,
       "word": "张泽禹的手镯",
       "onboard_time": 1772130795,
@@ -563,12 +563,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15850,
+      "raw_hot": 16027,
       "num": 18662,
       "word": "KPL春季赛",
       "onboard_time": 1772107282,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15998,
+      "num": 18499,
+      "word": "特朗普威胁驱逐教父饰演者",
+      "onboard_time": 1772132774,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13121,
