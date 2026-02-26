@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772136348641,
+  "endTime": 1772138901330,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -75187,6 +75187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 14009,
+      "num": 14467,
+      "word": "30秒内3次预警救了一车人",
+      "onboard_time": 1772136313,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13938,
       "num": 16404,
       "word": "宋亚轩帽子一九分",
@@ -75393,6 +75401,14 @@
       "onboard_time": 1771215802,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13275,
+      "num": 14458,
+      "word": "苏新皓好贵",
+      "onboard_time": 1772133433,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 13267,
@@ -75691,20 +75707,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11360,
+      "num": 14438,
+      "word": "男篮世预赛",
+      "onboard_time": 1772108425,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11322,
       "num": 17815,
       "word": "TBZ 没有消息就是好消息",
       "onboard_time": 1770839834,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11212,
-      "num": 14343,
-      "word": "30秒内3次预警救了一车人",
-      "onboard_time": 1772136313,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11159,

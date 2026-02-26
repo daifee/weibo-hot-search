@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772136348641,
+  "endTime": 1772138901330,
   "band_list": [
     {
       "raw_hot": 990189,
@@ -523,20 +523,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 26968,
+      "num": 26968,
+      "word": "飞驰人生3",
+      "onboard_time": 1772133854,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23976,
       "num": 159930,
       "word": "15后娃开始整顿亲戚",
       "onboard_time": 1772120781,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22608,
-      "num": 22608,
-      "word": "飞驰人生3",
-      "onboard_time": 1772133854,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 19934,
@@ -603,6 +603,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14009,
+      "num": 14467,
+      "word": "30秒内3次预警救了一车人",
+      "onboard_time": 1772136313,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13828,
+      "num": 14464,
+      "word": "唐宫奇案",
+      "onboard_time": 1772137215,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13275,
+      "num": 14458,
+      "word": "苏新皓好贵",
+      "onboard_time": 1772133433,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13121,
       "num": 235625,
       "word": "12306已累计预售春运火车票3.76亿张",
@@ -619,12 +643,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11212,
-      "num": 14343,
-      "word": "30秒内3次预警救了一车人",
-      "onboard_time": 1772136313,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 11360,
+      "num": 14438,
+      "word": "男篮世预赛",
+      "onboard_time": 1772108425,
+      "rank": 47,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
