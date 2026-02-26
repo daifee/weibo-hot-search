@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772133417945,
+  "endTime": 1772135538474,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -73771,6 +73771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18237,
+      "num": 18499,
+      "word": "特朗普威胁驱逐教父饰演者",
+      "onboard_time": 1772132774,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18236,
       "num": 18236,
       "word": "网剧炽热吸引崔雨鑫方瑾",
@@ -73817,6 +73825,14 @@
       "onboard_time": 1770102021,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18154,
+      "num": 17406,
+      "word": "云初令",
+      "onboard_time": 1772134754,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 18120,
@@ -74435,6 +74451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16635,
+      "num": 16635,
+      "word": "TOP登陆少年首张实体专",
+      "onboard_time": 1772133494,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 16599,
       "num": 74214,
       "word": "说今年立春不吉利别自己吓自己",
@@ -74673,14 +74697,6 @@
       "onboard_time": 1770897620,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15998,
-      "num": 18499,
-      "word": "特朗普威胁驱逐教父饰演者",
-      "onboard_time": 1772132774,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15983,
@@ -75576,6 +75592,14 @@
       "word": "严查严惩食品非法添加",
       "onboard_time": 1770125782,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12122,
+      "num": 14874,
+      "word": "香港起火山头离民居有一定距离",
+      "onboard_time": 1772130916,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
