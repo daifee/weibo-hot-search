@@ -1,0 +1,410 @@
+{
+  "runTime": 1772075918570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 674573,
+        "num": 1107931,
+        "word": "考研成绩",
+        "onboard_time": 1772068282,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 522561,
+        "num": 779800,
+        "word": "俄乌冲突",
+        "onboard_time": 1772063417,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137609,
+        "num": 653563,
+        "word": "美国从陈志案获利150亿美元",
+        "onboard_time": 1772072060,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 421654,
+        "num": 421654,
+        "word": "中国手机行业将迎来全面涨价",
+        "onboard_time": 1772072903,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 280767,
+        "num": 280767,
+        "word": "孙千演技",
+        "onboard_time": 1772069600,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543931,
+        "num": 277685,
+        "word": "平顶山打人夫妻有2个孩子",
+        "onboard_time": 1772073081,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248192,
+        "num": 248192,
+        "word": "中方投下弃权票是最大的担当",
+        "onboard_time": 1772069301,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232417,
+        "num": 232417,
+        "word": "晚5秒要付1700高速费当事人发声",
+        "onboard_time": 1772063359,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205155,
+        "num": 205155,
+        "word": "试管婴儿出生右脚缺4趾产检未发现",
+        "onboard_time": 1772031981,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170814,
+        "num": 170814,
+        "word": "短剧从哪找来这么像的三张脸",
+        "onboard_time": 1772061375,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 828666,
+        "num": 169529,
+        "word": "一点点 资助",
+        "onboard_time": 1772071340,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 818960,
+        "num": 165973,
+        "word": "时代峰峻否认王橹杰私联",
+        "onboard_time": 1772074101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417391,
+        "num": 159831,
+        "word": "台湾女孩疑在日本街头被恶意撞倒",
+        "onboard_time": 1772072002,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221822,
+        "num": 156874,
+        "word": "陈飞宇 江忍",
+        "onboard_time": 1772069902,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211740,
+        "num": 152675,
+        "word": "杨幂柳智敏Prada撞衫",
+        "onboard_time": 1772069600,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152332,
+        "num": 152332,
+        "word": "男子2500万元买房10余年无法过户",
+        "onboard_time": 1772070860,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189957,
+        "num": 148424,
+        "word": "王骁生理性演技",
+        "onboard_time": 1772075481,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142242,
+        "num": 142242,
+        "word": "俄罗斯",
+        "onboard_time": 1772072962,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141048,
+        "num": 141048,
+        "word": "肖战ins晒米兰照",
+        "onboard_time": 1772066121,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67741,
+        "num": 140913,
+        "word": "官方通报医生完不成创收指标被待岗",
+        "onboard_time": 1772075059,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1126459,
+        "num": 140515,
+        "word": "周杰伦结婚田馥甄有了讽刺的情书",
+        "onboard_time": 1772072481,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315957,
+        "num": 139802,
+        "word": "向华强拒绝和向佑见面",
+        "onboard_time": 1772060957,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218567,
+        "num": 139550,
+        "word": "男子坐顺风车排泄后失联",
+        "onboard_time": 1772070320,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150325,
+        "num": 139138,
+        "word": "谷爱凌回怼美副总统",
+        "onboard_time": 1772031323,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138928,
+        "num": 138928,
+        "word": "孙子带女友回家80岁奶奶激动扔菜拥抱",
+        "onboard_time": 1772070201,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132962,
+        "num": 132962,
+        "word": "女子被疑似粪便污物砸中",
+        "onboard_time": 1772069480,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130291,
+        "num": 130291,
+        "word": "研究证明八段锦真的能降血压",
+        "onboard_time": 1772074281,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122095,
+        "num": 122095,
+        "word": "办公室牛肉饭节后长出15cm黑发",
+        "onboard_time": 1772067739,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120235,
+        "num": 120235,
+        "word": "大存储手机或将暴涨2000元",
+        "onboard_time": 1772075901,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118997,
+        "num": 118997,
+        "word": "谷爱凌再次闪耀米兰时装周",
+        "onboard_time": 1772075601,
+        "rank": 29,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 229586,
+        "num": 116660,
+        "word": "肖秀荣怒斥假消息影响考生心态",
+        "onboard_time": 1772075001,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112243,
+        "num": 112243,
+        "word": "向佐说很爱弟弟向佑",
+        "onboard_time": 1772074401,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108022,
+        "num": 108022,
+        "word": "魅族",
+        "onboard_time": 1772023881,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106830,
+        "num": 106830,
+        "word": "爱泼斯坦案再升级",
+        "onboard_time": 1772070680,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106502,
+        "num": 106502,
+        "word": "财不入急门也不入脏门",
+        "onboard_time": 1772062097,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104593,
+        "num": 104593,
+        "word": "脸上有5种表现说明气血不足",
+        "onboard_time": 1772066240,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103066,
+        "num": 103066,
+        "word": "企业招聘限男性限已婚已育",
+        "onboard_time": 1772075601,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41288,
+        "num": 102473,
+        "word": "你又把什么放进梦想清单",
+        "onboard_time": 1772075121,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94353,
+        "num": 102179,
+        "word": "内娱年代剧老辈子帅哥上新了",
+        "onboard_time": 1772075481,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41547,
+        "num": 102141,
+        "word": "高铁幼童哭闹男子要求父母带离",
+        "onboard_time": 1772075121,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102129,
+        "num": 102129,
+        "word": "教育局回应中学早5晚11超长作息表",
+        "onboard_time": 1772075481,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 97942,
+        "num": 100920,
+        "word": "周杰伦田馥甄曾一起去英国游学",
+        "onboard_time": 1772063539,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99729,
+        "num": 99729,
+        "word": "偏偏宠爱",
+        "onboard_time": 1772037199,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92790,
+        "num": 92790,
+        "word": "年后耗糖快的动作",
+        "onboard_time": 1772074941,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90863,
+        "num": 90863,
+        "word": "四六级查分入口",
+        "onboard_time": 1772075001,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87497,
+        "num": 87497,
+        "word": "教师离世未火化遗孀无法领取补贴",
+        "onboard_time": 1772066542,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86822,
+        "num": 86822,
+        "word": "田柾国直播",
+        "onboard_time": 1772061557,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86497,
+        "num": 86497,
+        "word": "魅族手机为什么没落了",
+        "onboard_time": 1772074822,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85015,
+        "num": 85015,
+        "word": "男子节后返工遭遇15cm菌丝惊魂",
+        "onboard_time": 1772071700,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84855,
+        "num": 84855,
+        "word": "镖人",
+        "onboard_time": 1772067739,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见默茨#"
+    }
+  }
+}

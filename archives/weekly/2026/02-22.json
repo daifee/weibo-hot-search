@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772073558369,
+  "endTime": 1772075918570,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -219,6 +219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1126459,
+      "num": 149191,
+      "word": "周杰伦结婚田馥甄有了讽刺的情书",
+      "onboard_time": 1772072481,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1058472,
       "num": 237280,
       "word": "神仙肉",
@@ -424,6 +432,14 @@
       "word": "伊能静尝试生酮饮食半年瘦到86斤",
       "onboard_time": 1771983439,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 818960,
+      "num": 165973,
+      "word": "时代峰峻否认王橹杰私联",
+      "onboard_time": 1772074101,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1051,6 +1067,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 543931,
+      "num": 277685,
+      "word": "平顶山打人夫妻有2个孩子",
+      "onboard_time": 1772073081,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 543619,
       "num": 184891,
       "word": "大钱都是三五年挣的",
@@ -1467,14 +1491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 434903,
-      "num": 149191,
-      "word": "周杰伦结婚田馥甄有了讽刺的情书",
-      "onboard_time": 1772072481,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 431324,
       "num": 151687,
       "word": "尼格买提家宴8个菜没一个青菜",
@@ -1547,6 +1563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 421654,
+      "num": 421654,
+      "word": "中国手机行业将迎来全面涨价",
+      "onboard_time": 1772072903,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 421584,
       "num": 163762,
       "word": "韦雪新男友首曝光",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1771919301,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 417391,
+      "num": 213175,
+      "word": "台湾女孩疑在日本街头被恶意撞倒",
+      "onboard_time": 1772072002,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 416017,
@@ -3395,14 +3427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231298,
-      "num": 231298,
-      "word": "中国手机行业将迎来全面涨价",
-      "onboard_time": 1772072903,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 230518,
       "num": 230518,
       "word": "多家妇幼医院门口烟民扎堆",
@@ -3425,6 +3449,14 @@
       "onboard_time": 1772070860,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229586,
+      "num": 116660,
+      "word": "肖秀荣怒斥假消息影响考生心态",
+      "onboard_time": 1772075001,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 229545,
@@ -3681,14 +3713,6 @@
       "onboard_time": 1772024902,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213175,
-      "num": 213175,
-      "word": "台湾女孩疑在日本街头被恶意撞倒",
-      "onboard_time": 1772072002,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 213145,
@@ -4057,6 +4081,14 @@
       "onboard_time": 1771761322,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189957,
+      "num": 148424,
+      "word": "王骁生理性演技",
+      "onboard_time": 1772075481,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 189755,
@@ -5179,6 +5211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142242,
+      "num": 142242,
+      "word": "俄罗斯",
+      "onboard_time": 1772072962,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142237,
       "num": 142237,
       "word": "谢霆锋张婧仪 用花无缺打开镖人",
@@ -5392,6 +5432,14 @@
       "word": "中方回应特朗普3月31日将访问中国",
       "onboard_time": 1771941143,
       "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 137609,
+      "num": 671307,
+      "word": "美国从陈志案获利150亿美元",
+      "onboard_time": 1772072060,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -5697,6 +5745,14 @@
       "onboard_time": 1771928301,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 130291,
+      "num": 130291,
+      "word": "研究证明八段锦真的能降血压",
+      "onboard_time": 1772074281,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130242,
@@ -6123,6 +6179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120235,
+      "num": 120235,
+      "word": "大存储手机或将暴涨2000元",
+      "onboard_time": 1772075901,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 119650,
       "num": 119650,
       "word": "张本智和穿错球衣",
@@ -6185,6 +6249,14 @@
       "onboard_time": 1771726700,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118997,
+      "num": 118997,
+      "word": "谷爱凌再次闪耀米兰时装周",
+      "onboard_time": 1772075601,
+      "rank": 29,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 118915,
@@ -6507,14 +6579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112717,
-      "num": 112717,
-      "word": "平顶山打人夫妻有2个孩子",
-      "onboard_time": 1772073081,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112465,
       "num": 112465,
       "word": "剑来",
@@ -6529,6 +6593,14 @@
       "onboard_time": 1771837401,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112243,
+      "num": 112243,
+      "word": "向佐说很爱弟弟向佑",
+      "onboard_time": 1772074401,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 112238,
@@ -6801,14 +6873,6 @@
       "onboard_time": 1771915100,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 108243,
-      "num": 671307,
-      "word": "美国从陈志案获利150亿美元",
-      "onboard_time": 1772072060,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 108177,
@@ -7187,6 +7251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103066,
+      "num": 103066,
+      "word": "企业招聘限男性限已婚已育",
+      "onboard_time": 1772075601,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103024,
       "num": 103024,
       "word": "不让江山",
@@ -7265,6 +7337,14 @@
       "onboard_time": 1771989680,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102129,
+      "num": 102129,
+      "word": "教育局回应中学早5晚11超长作息表",
+      "onboard_time": 1772075481,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 102021,
@@ -7392,6 +7472,14 @@
       "word": "我们的少年时代2开机日",
       "onboard_time": 1771985538,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99729,
+      "num": 99729,
+      "word": "偏偏宠爱",
+      "onboard_time": 1772037199,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -7747,6 +7835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94353,
+      "num": 102179,
+      "word": "内娱年代剧老辈子帅哥上新了",
+      "onboard_time": 1772075481,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94306,
       "num": 94306,
       "word": "高市早苗政府再次挑衅",
@@ -7923,6 +8019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92790,
+      "num": 92790,
+      "word": "年后耗糖快的动作",
+      "onboard_time": 1772074941,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92742,
       "num": 112889,
       "word": "如果你在我25岁之前认识我",
@@ -8081,6 +8185,14 @@
       "onboard_time": 1771918281,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90863,
+      "num": 90863,
+      "word": "四六级查分入口",
+      "onboard_time": 1772075001,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 90776,
@@ -8467,6 +8579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 86822,
+      "num": 86822,
+      "word": "田柾国直播",
+      "onboard_time": 1772061557,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86757,
       "num": 86757,
       "word": "我应该是神 无本相",
@@ -8497,6 +8617,14 @@
       "onboard_time": 1771846461,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86497,
+      "num": 86497,
+      "word": "魅族手机为什么没落了",
+      "onboard_time": 1772074822,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 86131,
@@ -8609,6 +8737,14 @@
       "onboard_time": 1772068222,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85015,
+      "num": 85015,
+      "word": "男子节后返工遭遇15cm菌丝惊魂",
+      "onboard_time": 1772071700,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85012,
@@ -8801,14 +8937,6 @@
       "onboard_time": 1771925422,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 82492,
-      "num": 82492,
-      "word": "男子节后返工遭遇15cm菌丝惊魂",
-      "onboard_time": 1772071700,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82481,
@@ -9123,14 +9251,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 78529,
-      "num": 78529,
-      "word": "俄罗斯",
-      "onboard_time": 1772072962,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 78528,
       "num": 76438,
       "word": "星河入梦票房低迷仅是排片问题吗",
@@ -9344,14 +9464,6 @@
       "word": "张艺兴我姓张你别嚣张",
       "onboard_time": 1771850541,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 75488,
-      "num": 75488,
-      "word": "田柾国直播",
-      "onboard_time": 1772061557,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -9825,6 +9937,14 @@
       "onboard_time": 1771739960,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67741,
+      "num": 140913,
+      "word": "官方通报医生完不成创收指标被待岗",
+      "onboard_time": 1772075059,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 67721,
@@ -10939,6 +11059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41547,
+      "num": 102141,
+      "word": "高铁幼童哭闹男子要求父母带离",
+      "onboard_time": 1772075121,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41520,
       "num": 41520,
       "word": "谷爱凌壁纸",
@@ -10968,6 +11096,14 @@
       "word": "大熊猫为什么是雪来疯",
       "onboard_time": 1771859361,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41288,
+      "num": 102473,
+      "word": "你又把什么放进梦想清单",
+      "onboard_time": 1772075121,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -11225,14 +11361,6 @@
       "onboard_time": 1772062157,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 33932,
-      "num": 33932,
-      "word": "偏偏宠爱",
-      "onboard_time": 1772037199,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 33631,
