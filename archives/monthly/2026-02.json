@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772135538474,
+  "endTime": 1772136348641,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -74315,6 +74315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16990,
+      "num": 16990,
+      "word": "TOP登陆少年首张实体专",
+      "onboard_time": 1772133494,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 16973,
       "num": 20207,
       "word": "丁禹兮高干Daddy上班了",
@@ -74449,14 +74457,6 @@
       "onboard_time": 1771318821,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16635,
-      "num": 16635,
-      "word": "TOP登陆少年首张实体专",
-      "onboard_time": 1772133494,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 16599,
@@ -75697,6 +75697,14 @@
       "onboard_time": 1770839834,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11212,
+      "num": 14343,
+      "word": "30秒内3次预警救了一车人",
+      "onboard_time": 1772136313,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11159,

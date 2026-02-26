@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772135538474,
+  "endTime": 1772136348641,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -14371,20 +14371,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16990,
+      "num": 16990,
+      "word": "TOP登陆少年首张实体专",
+      "onboard_time": 1772133494,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 16686,
       "num": 18664,
       "word": "张泽禹的手镯",
       "onboard_time": 1772130795,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 16635,
-      "num": 16635,
-      "word": "TOP登陆少年首张实体专",
-      "onboard_time": 1772133494,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 16481,
@@ -14607,6 +14607,14 @@
       "num": 14874,
       "word": "香港起火山头离民居有一定距离",
       "onboard_time": 1772130916,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11212,
+      "num": 14343,
+      "word": "30秒内3次预警救了一车人",
+      "onboard_time": 1772136313,
       "rank": 49,
       "category": "民生新闻"
     },
