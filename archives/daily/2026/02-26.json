@@ -1,6 +1,6 @@
 {
   "startTime": 1772036028289,
-  "endTime": 1772107367236,
+  "endTime": 1772112222178,
   "band_list": [
     {
       "raw_hot": 1873376,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 811446,
+      "num": 210338,
+      "word": "Prada认领杨幂",
+      "onboard_time": 1772110041,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 805832,
       "num": 1128933,
       "word": "一点点资助男孩被曝戴千元手表",
@@ -155,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 720379,
+      "num": 295784,
+      "word": "胡一菲诺澜在短国相遇了",
+      "onboard_time": 1772105843,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 708831,
       "num": 169447,
       "word": "迪丽热巴已成立个人独资工作室",
@@ -187,6 +203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 637969,
+      "num": 822098,
+      "word": "中国男篮战胜日本男篮",
+      "onboard_time": 1772108601,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 629631,
+      "num": 201722,
+      "word": "Prada直播",
+      "onboard_time": 1772111423,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 623400,
       "num": 847317,
       "word": "发1.8亿年终奖公司开工3天爆单",
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 581991,
-      "num": 178048,
+      "num": 188516,
       "word": "郭富城一家去景区只用买一张票",
       "onboard_time": 1772103981,
       "rank": 31,
@@ -395,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386798,
+      "num": 193180,
+      "word": "兔闪闪道歉",
+      "onboard_time": 1772109561,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383025,
       "num": 236829,
       "word": "男子地铁猥亵女子称像年轻时的妻子",
@@ -555,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295784,
-      "num": 295784,
-      "word": "胡一菲诺澜在短国相遇了",
-      "onboard_time": 1772105843,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294907,
       "num": 229552,
       "word": "小猫守家26天在主人床上拉满便便",
@@ -579,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291909,
+      "num": 291909,
+      "word": "试管婴儿右足畸形官方将通报",
+      "onboard_time": 1772106801,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291091,
       "num": 291091,
       "word": "林俊杰作曲方文山作词",
@@ -593,6 +633,14 @@
       "onboard_time": 1772105902,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284419,
+      "num": 284419,
+      "word": "Prada大秀",
+      "onboard_time": 1772092400,
+      "rank": 41,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 284136,
@@ -643,12 +691,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273203,
+      "num": 188220,
+      "word": "痞幼泽龙约会",
+      "onboard_time": 1772110820,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 269515,
+      "num": 206493,
+      "word": "赵继伟太牛了",
+      "onboard_time": 1772108961,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269490,
       "num": 269490,
       "word": "镖人 一代大蠕",
       "onboard_time": 1772101160,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 267378,
+      "num": 267378,
+      "word": "尘白禁区发文回应",
+      "onboard_time": 1772111602,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 265628,
@@ -755,6 +827,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 230389,
+      "num": 192753,
+      "word": "兔闪闪直播间",
+      "onboard_time": 1772107101,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230015,
       "num": 230015,
       "word": "男子2500万元买房10余年无法过户",
@@ -777,6 +857,14 @@
       "onboard_time": 1772088022,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227335,
+      "num": 227335,
+      "word": "日本 主场哨",
+      "onboard_time": 1772108180,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 227069,
@@ -803,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215721,
+      "num": 186149,
+      "word": "郭晓婷亲孙千",
+      "onboard_time": 1772108841,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215396,
       "num": 141978,
       "word": "一家4口上山妻子死亡失联时神情恐惧",
@@ -817,6 +913,14 @@
       "onboard_time": 1772083701,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209110,
+      "num": 185503,
+      "word": "柳智敏白裙看秀",
+      "onboard_time": 1772111662,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 204630,
@@ -859,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192671,
+      "num": 187939,
+      "word": "王曼昱19比21申裕斌",
+      "onboard_time": 1772107401,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188738,
       "num": 188738,
       "word": "日本把宇树机器人改成僧侣",
@@ -873,6 +985,22 @@
       "onboard_time": 1772020522,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187976,
+      "num": 171318,
+      "word": "赖伟明被揩油",
+      "onboard_time": 1772108961,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187705,
+      "num": 187705,
+      "word": "王楚钦vs林德",
+      "onboard_time": 1772106502,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 187453,
@@ -987,20 +1115,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165757,
+      "num": 165757,
+      "word": "虞书欣红衣主母跳惊鸿一面",
+      "onboard_time": 1772107820,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165586,
       "num": 140457,
       "word": "中国最适合夫妻养老退休的城市",
       "onboard_time": 1772030962,
       "rank": 23,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 165330,
-      "num": 165330,
-      "word": "兔闪闪直播间",
-      "onboard_time": 1772107101,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 164862,
@@ -1211,6 +1339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136628,
+      "num": 169494,
+      "word": "文章上了澳门语文教材是什么体验",
+      "onboard_time": 1772108061,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136090,
       "num": 136090,
       "word": "高铁幼童哭闹男子要求父母带离",
@@ -1267,6 +1403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130155,
+      "num": 156062,
+      "word": "日本物价居然到这种程度了",
+      "onboard_time": 1772110341,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130001,
       "num": 130001,
       "word": "中国音乐家纽约路边换胎被撞身亡",
@@ -1275,12 +1419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129680,
-      "num": 129680,
-      "word": "Prada大秀",
-      "onboard_time": 1772092400,
-      "rank": 41,
-      "category": "时尚,作品衍生"
+      "raw_hot": 129886,
+      "num": 129886,
+      "word": "DYG醒醒",
+      "onboard_time": 1772110521,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 128451,
@@ -1321,6 +1465,14 @@
       "onboard_time": 1772100260,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125025,
+      "num": 125025,
+      "word": "KSG对战DYG",
+      "onboard_time": 1772111301,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 124191,
@@ -1377,6 +1529,14 @@
       "onboard_time": 1772076920,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119590,
+      "num": 119590,
+      "word": "张凌赫田曦薇逐玉相拥海报",
+      "onboard_time": 1772111122,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 119158,
@@ -1467,6 +1627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110532,
+      "num": 110532,
+      "word": "官方回应一点点资助男孩戴千元手表",
+      "onboard_time": 1772109441,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108479,
       "num": 108479,
       "word": "方穆扬整治冯琳",
@@ -1507,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106806,
+      "num": 180185,
+      "word": "免去王祥喜应急管理部部长职务",
+      "onboard_time": 1772107221,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105956,
       "num": 105956,
       "word": "终于知道小说里的男女主长啥样了",
@@ -1537,6 +1713,14 @@
       "onboard_time": 1772090659,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105203,
+      "num": 105203,
+      "word": "真正的喜欢是藏不住的爱意",
+      "onboard_time": 1772109263,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 105011,
@@ -1616,6 +1800,14 @@
       "word": "张杰声援谢娜",
       "onboard_time": 1772011701,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100497,
+      "num": 100497,
+      "word": "我们的少年时代2女主签新公司",
+      "onboard_time": 1772112201,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1817,6 +2009,14 @@
       "onboard_time": 1772067501,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 88953,
+      "num": 150785,
+      "word": "男篮最后1分钟打了好久",
+      "onboard_time": 1772111901,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 87988,
@@ -2033,14 +2233,6 @@
       "onboard_time": 1772069721,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 76891,
-      "num": 132379,
-      "word": "免去王祥喜应急管理部部长职务",
-      "onboard_time": 1772107221,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76608,
@@ -2337,6 +2529,14 @@
       "onboard_time": 1772081001,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55131,
+      "num": 189734,
+      "word": "陈幸同3比0长崎美柚",
+      "onboard_time": 1772111901,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 54425,
@@ -2723,14 +2923,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15514,
-      "num": 180255,
-      "word": "试管婴儿右足畸形官方将通报",
-      "onboard_time": 1772106801,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15083,
       "num": 89158,
       "word": "与旅行社发生纠纷收到大量骚扰短信",
@@ -2771,6 +2963,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12916,
+      "num": 196314,
+      "word": "12306已累计预售春运火车票3.76亿张",
+      "onboard_time": 1772111962,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9036,
+      "num": 176693,
+      "word": "春节消费市场人气旺活力足",
+      "onboard_time": 1772111841,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6318,
+      "num": 692193,
+      "word": "一趟列车24站解锁200多家景区",
+      "onboard_time": 1772112141,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 5624,
       "num": 186306,
       "word": "多地包车协助工人返岗复工",
@@ -2788,6 +3004,9 @@
     },
     {
       "word": "#推动实现十五五良好开局#"
+    },
+    {
+      "word": "#习近平强调潜绩的重要性#"
     }
   ]
 }
