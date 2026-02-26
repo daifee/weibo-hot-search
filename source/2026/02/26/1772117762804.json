@@ -1,0 +1,410 @@
+{
+  "runTime": 1772117762804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1536581,
+        "num": 1536581,
+        "word": "24岁女生成功诞下1男4女5胞胎",
+        "onboard_time": 1772115143,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1020239,
+        "num": 1020239,
+        "word": "香港突发山火",
+        "onboard_time": 1772114542,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101031,
+        "num": 969613,
+        "word": "一趟列车24站解锁200多家景区",
+        "onboard_time": 1772112141,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 943308,
+        "num": 943308,
+        "word": "手机 涨价",
+        "onboard_time": 1772096001,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 638568,
+        "num": 638568,
+        "word": "迪丽热巴 瓦猫",
+        "onboard_time": 1772114002,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440677,
+        "num": 440677,
+        "word": "尘白禁区发文回应",
+        "onboard_time": 1772111602,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326129,
+        "num": 326129,
+        "word": "日本物价居然到这种程度了",
+        "onboard_time": 1772110341,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 315727,
+        "num": 315727,
+        "word": "苹果新品来了",
+        "onboard_time": 1772116343,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 241116,
+        "num": 241116,
+        "word": "文章上了澳门语文教材是什么体验",
+        "onboard_time": 1772108061,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214776,
+        "num": 214776,
+        "word": "中方回应金正恩对韩表态",
+        "onboard_time": 1772115321,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 606697,
+        "num": 213769,
+        "word": "Prada认领杨幂",
+        "onboard_time": 1772110041,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 325054,
+        "num": 213317,
+        "word": "向佑不满遗产分配直喊不公平",
+        "onboard_time": 1772082262,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301316,
+        "num": 211356,
+        "word": "冬奥花滑冠军刘美贤遭俄罗斯粉丝吐槽",
+        "onboard_time": 1772116462,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305093,
+        "num": 210880,
+        "word": "胡一菲诺澜在短国相遇了",
+        "onboard_time": 1772105843,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267497,
+        "num": 208992,
+        "word": "橹穆双人舞台官摄破2711万",
+        "onboard_time": 1772113161,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208972,
+        "num": 208972,
+        "word": "JDG战胜AL",
+        "onboard_time": 1772114181,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 400274,
+        "num": 206912,
+        "word": "杨幂怼脸镜头好美",
+        "onboard_time": 1772113643,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199818,
+        "num": 199818,
+        "word": "中国男篮战胜日本男篮",
+        "onboard_time": 1772108601,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176936,
+        "num": 176936,
+        "word": "兔闪闪道歉",
+        "onboard_time": 1772109561,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17384,
+        "num": 176586,
+        "word": "印度力挺以色列",
+        "onboard_time": 1772117302,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 461194,
+        "num": 176055,
+        "word": "中国邮政回应已叫停相关线下活动",
+        "onboard_time": 1772102060,
+        "rank": 20,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 167145,
+        "num": 175762,
+        "word": "嘉人单发苏新皓",
+        "onboard_time": 1772116701,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228984,
+        "num": 175176,
+        "word": "创造营2026女生季",
+        "onboard_time": 1772104041,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174937,
+        "num": 174937,
+        "word": "全网最黑大熊猫出现了",
+        "onboard_time": 1772110820,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166380,
+        "num": 166380,
+        "word": "郭富城一家去景区只用买一张票",
+        "onboard_time": 1772103981,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160619,
+        "num": 160619,
+        "word": "王楚钦3比1林德",
+        "onboard_time": 1772114302,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160017,
+        "num": 160017,
+        "word": "王橹杰手捧红玫瑰",
+        "onboard_time": 1772104521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155983,
+        "num": 155983,
+        "word": "王楚钦1比7落后逆转",
+        "onboard_time": 1772117182,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246030,
+        "num": 155614,
+        "word": "蓝莲花评论爱笑",
+        "onboard_time": 1772116401,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147734,
+        "num": 147734,
+        "word": "痞幼泽龙约会",
+        "onboard_time": 1772110820,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145473,
+        "num": 145473,
+        "word": "虞书欣红衣主母跳惊鸿一面",
+        "onboard_time": 1772107820,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143087,
+        "num": 143087,
+        "word": "比尔盖茨出轨女性身份曝光",
+        "onboard_time": 1772117663,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139851,
+        "num": 139851,
+        "word": "中国男篮哭了",
+        "onboard_time": 1772115863,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139567,
+        "num": 139567,
+        "word": "KSG对战DYG",
+        "onboard_time": 1772111301,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139440,
+        "num": 139440,
+        "word": "曝迪丽热巴与嘉行合约到期",
+        "onboard_time": 1772096420,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137745,
+        "num": 137745,
+        "word": "Prada直播",
+        "onboard_time": 1772111423,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 135506,
+        "num": 135506,
+        "word": "Cat毕业典礼",
+        "onboard_time": 1772116882,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132259,
+        "num": 132259,
+        "word": "领克致歉语音误关大灯",
+        "onboard_time": 1772116763,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130833,
+        "num": 130833,
+        "word": "发1.8亿年终奖公司开工3天爆单",
+        "onboard_time": 1772102481,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124718,
+        "num": 124718,
+        "word": "柳智敏Prada待遇",
+        "onboard_time": 1772112561,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121678,
+        "num": 121678,
+        "word": "王天辰 上桌",
+        "onboard_time": 1772117003,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121035,
+        "num": 121035,
+        "word": "DYG醒醒",
+        "onboard_time": 1772110521,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121043,
+        "num": 121021,
+        "word": "刘亦菲最接近本人的一张图",
+        "onboard_time": 1772098162,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120790,
+        "num": 120790,
+        "word": "男子谎称走亲戚欲把7岁儿子留老家",
+        "onboard_time": 1772117422,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120546,
+        "num": 120546,
+        "word": "肖战Gucci看秀待遇",
+        "onboard_time": 1772114362,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106148,
+        "num": 106148,
+        "word": "薛之谦开票",
+        "onboard_time": 1772098101,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93539,
+        "num": 93539,
+        "word": "王楚钦成功挑战鹰眼",
+        "onboard_time": 1772114602,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104327,
+        "num": 90162,
+        "word": "孙燕姿新歌飞瀑而下",
+        "onboard_time": 1772116822,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102750,
+        "num": 88450,
+        "word": "柳智敏白裙看秀",
+        "onboard_time": 1772111662,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 84839,
+        "num": 84839,
+        "word": "国投瑞银补偿到账",
+        "onboard_time": 1772114122,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调潜绩的重要性#"
+    }
+  }
+}

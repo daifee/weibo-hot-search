@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772113843703,
+  "endTime": 1772117762804,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -129,6 +129,14 @@
       "onboard_time": 1771941264,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1536581,
+      "num": 1536581,
+      "word": "24岁女生成功诞下1男4女5胞胎",
+      "onboard_time": 1772115143,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1498982,
@@ -307,8 +315,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1020239,
+      "num": 1020239,
+      "word": "香港突发山火",
+      "onboard_time": 1772114542,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1000257,
-      "num": 210338,
+      "num": 213769,
       "word": "Prada认领杨幂",
       "onboard_time": 1772110041,
       "rank": 10,
@@ -913,6 +929,14 @@
       "onboard_time": 1771818199,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 638568,
+      "num": 638568,
+      "word": "迪丽热巴 瓦猫",
+      "onboard_time": 1772114002,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 637969,
@@ -1731,6 +1755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 440677,
+      "num": 440677,
+      "word": "尘白禁区发文回应",
+      "onboard_time": 1772111602,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 438661,
       "num": 228519,
       "word": "伊能静衣服吊牌没摘",
@@ -1977,6 +2009,14 @@
       "onboard_time": 1772081961,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 400274,
+      "num": 206912,
+      "word": "杨幂怼脸镜头好美",
+      "onboard_time": 1772113643,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 399068,
@@ -2635,6 +2675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326129,
+      "num": 326129,
+      "word": "日本物价居然到这种程度了",
+      "onboard_time": 1772110341,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 326118,
       "num": 213289,
       "word": "杨幂米兰allblack看秀",
@@ -2713,6 +2761,14 @@
       "onboard_time": 1771858402,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 315727,
+      "num": 315727,
+      "word": "苹果新品来了",
+      "onboard_time": 1772116343,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 314879,
@@ -2820,7 +2876,7 @@
     },
     {
       "raw_hot": 307321,
-      "num": 173489,
+      "num": 208992,
       "word": "橹穆双人舞台官摄破2711万",
       "onboard_time": 1772113161,
       "rank": 26,
@@ -2897,6 +2953,14 @@
       "onboard_time": 1771825279,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301316,
+      "num": 211356,
+      "word": "冬奥花滑冠军刘美贤遭俄罗斯粉丝吐槽",
+      "onboard_time": 1772116462,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 300950,
@@ -3355,14 +3419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267378,
-      "num": 267378,
-      "word": "尘白禁区发文回应",
-      "onboard_time": 1772111602,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 267283,
       "num": 267283,
       "word": "离职后发现了不同人的时钟",
@@ -3705,6 +3761,14 @@
       "onboard_time": 1771752200,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246030,
+      "num": 155614,
+      "word": "蓝莲花评论爱笑",
+      "onboard_time": 1772116401,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 245972,
@@ -4339,6 +4403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214776,
+      "num": 214776,
+      "word": "中方回应金正恩对韩表态",
+      "onboard_time": 1772115321,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 214501,
       "num": 214501,
       "word": "用拼豆把流失文物拼回来了",
@@ -4409,6 +4481,14 @@
       "onboard_time": 1772111662,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208972,
+      "num": 208972,
+      "word": "JDG战胜AL",
+      "onboard_time": 1772114181,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 208383,
@@ -4489,14 +4569,6 @@
       "onboard_time": 1771771163,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201682,
-      "num": 141148,
-      "word": "杨幂怼脸镜头好美",
-      "onboard_time": 1772113643,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 201500,
@@ -4963,14 +5035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182572,
-      "num": 182572,
-      "word": "日本物价居然到这种程度了",
-      "onboard_time": 1772110341,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 182113,
       "num": 182113,
       "word": "虞书欣红衣主母跳惊鸿一面",
@@ -5395,6 +5459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167145,
+      "num": 175762,
+      "word": "嘉人单发苏新皓",
+      "onboard_time": 1772116701,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166749,
       "num": 136574,
       "word": "西安一市民除夕夜被AI给骂了",
@@ -5539,6 +5611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160619,
+      "num": 160619,
+      "word": "王楚钦3比1林德",
+      "onboard_time": 1772114302,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160211,
       "num": 160211,
       "word": "建议父母停止对孩子的灾难化想象",
@@ -5665,6 +5745,14 @@
       "onboard_time": 1771772123,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155983,
+      "num": 155983,
+      "word": "王楚钦1比7落后逆转",
+      "onboard_time": 1772117182,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 155810,
@@ -6107,6 +6195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143087,
+      "num": 143087,
+      "word": "比尔盖茨出轨女性身份曝光",
+      "onboard_time": 1772117663,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 142563,
       "num": 157387,
       "word": "女子跟男友回老家看到木棍梯子惊呆",
@@ -6297,6 +6393,14 @@
       "onboard_time": 1772025742,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139851,
+      "num": 139851,
+      "word": "中国男篮哭了",
+      "onboard_time": 1772115863,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 139843,
@@ -6491,6 +6595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135506,
+      "num": 135506,
+      "word": "Cat毕业典礼",
+      "onboard_time": 1772116882,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135451,
       "num": 125050,
       "word": "白鹿说跟王鹤棣认识五年了",
@@ -6617,6 +6729,14 @@
       "onboard_time": 1771851621,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132259,
+      "num": 132259,
+      "word": "领克致歉语音误关大灯",
+      "onboard_time": 1772116763,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 132175,
@@ -7179,6 +7299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121678,
+      "num": 121678,
+      "word": "王天辰 上桌",
+      "onboard_time": 1772117003,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121596,
       "num": 121596,
       "word": "吵了一年要辞职 初八文案是开工大吉",
@@ -7233,6 +7361,22 @@
       "onboard_time": 1771927222,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120790,
+      "num": 120790,
+      "word": "男子谎称走亲戚欲把7岁儿子留老家",
+      "onboard_time": 1772117422,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120546,
+      "num": 120546,
+      "word": "肖战Gucci看秀待遇",
+      "onboard_time": 1772114362,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 120523,
@@ -8371,6 +8515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104327,
+      "num": 90162,
+      "word": "孙燕姿新歌飞瀑而下",
+      "onboard_time": 1772116822,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 104141,
       "num": 102193,
       "word": "AL战胜WE",
@@ -8705,6 +8857,14 @@
       "onboard_time": 1771902201,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101031,
+      "num": 969613,
+      "word": "一趟列车24站解锁200多家景区",
+      "onboard_time": 1772112141,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100801,
@@ -9297,6 +9457,14 @@
       "onboard_time": 1771773083,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 93539,
+      "num": 93539,
+      "word": "王楚钦成功挑战鹰眼",
+      "onboard_time": 1772114602,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 93499,
@@ -10169,6 +10337,14 @@
       "onboard_time": 1772029463,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84839,
+      "num": 84839,
+      "word": "国投瑞银补偿到账",
+      "onboard_time": 1772114122,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 84745,
@@ -11376,14 +11552,6 @@
       "word": "萌娃贴脸啃咬外婆蒸的大白馒头",
       "onboard_time": 1771813580,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70489,
-      "num": 692193,
-      "word": "一趟列车24站解锁200多家景区",
-      "onboard_time": 1772112141,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -13905,6 +14073,14 @@
       "onboard_time": 1771960453,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17384,
+      "num": 176586,
+      "word": "印度力挺以色列",
+      "onboard_time": 1772117302,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17203,

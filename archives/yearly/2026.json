@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772113843703,
+  "endTime": 1772117762804,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2075,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1536581,
+      "num": 1536581,
+      "word": "24岁女生成功诞下1男4女5胞胎",
+      "onboard_time": 1772115143,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1535986,
       "num": 269018,
       "word": "马斯克女儿爆料",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1771993281,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1406007,
-      "num": 280141,
-      "word": "刘德华解冻失败",
-      "onboard_time": 1771495880,
-      "rank": 44,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
