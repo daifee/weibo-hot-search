@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772117762804,
+  "endTime": 1772118842909,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1590815,
+      "num": 1590815,
+      "word": "24岁女生成功诞下1男4女5胞胎",
+      "onboard_time": 1772115143,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1567504,
       "num": 1567504,
       "word": "12306半夜候补成功1700元车票作废",
@@ -129,14 +137,6 @@
       "onboard_time": 1771941264,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1536581,
-      "num": 1536581,
-      "word": "24岁女生成功诞下1男4女5胞胎",
-      "onboard_time": 1772115143,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1498982,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1000257,
-      "num": 213769,
+      "num": 224730,
       "word": "Prada认领杨幂",
       "onboard_time": 1772110041,
       "rank": 10,
@@ -683,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 752730,
+      "num": 752730,
+      "word": "迪丽热巴 瓦猫",
+      "onboard_time": 1772114002,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 740177,
       "num": 214630,
       "word": "创造营2026女生季",
@@ -883,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 664867,
+      "num": 664867,
+      "word": "苹果新品来了",
+      "onboard_time": 1772116343,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 658350,
       "num": 305154,
       "word": "50岁的陈坤24岁的张康乐",
@@ -929,14 +945,6 @@
       "onboard_time": 1771818199,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 638568,
-      "num": 638568,
-      "word": "迪丽热巴 瓦猫",
-      "onboard_time": 1772114002,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 637969,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1772096420,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 556807,
+      "num": 226044,
+      "word": "冬奥花滑冠军刘美贤遭俄罗斯粉丝吐槽",
+      "onboard_time": 1772116462,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 555121,
@@ -2012,7 +2028,7 @@
     },
     {
       "raw_hot": 400274,
-      "num": 206912,
+      "num": 209715,
       "word": "杨幂怼脸镜头好美",
       "onboard_time": 1772113643,
       "rank": 31,
@@ -2763,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 315727,
-      "num": 315727,
-      "word": "苹果新品来了",
-      "onboard_time": 1772116343,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 314879,
       "num": 314879,
       "word": "郑钦文取关里巴教练",
@@ -2876,7 +2884,7 @@
     },
     {
       "raw_hot": 307321,
-      "num": 208992,
+      "num": 221806,
       "word": "橹穆双人舞台官摄破2711万",
       "onboard_time": 1772113161,
       "rank": 26,
@@ -2953,14 +2961,6 @@
       "onboard_time": 1771825279,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301316,
-      "num": 211356,
-      "word": "冬奥花滑冠军刘美贤遭俄罗斯粉丝吐槽",
-      "onboard_time": 1772116462,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 300950,
@@ -3329,6 +3329,14 @@
       "onboard_time": 1771805898,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271355,
+      "num": 271355,
+      "word": "中方回应金正恩对韩表态",
+      "onboard_time": 1772115321,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 271002,
@@ -4227,6 +4235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226514,
+      "num": 226514,
+      "word": "Cat毕业典礼",
+      "onboard_time": 1772116882,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 226065,
       "num": 226065,
       "word": "徐梦桃王心迪回应被催生",
@@ -4339,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220805,
+      "num": 220805,
+      "word": "王楚钦1比7落后逆转",
+      "onboard_time": 1772117182,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219671,
       "num": 171711,
       "word": "家里有三个女儿出门有多难",
@@ -4401,14 +4425,6 @@
       "onboard_time": 1772083701,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214776,
-      "num": 214776,
-      "word": "中方回应金正恩对韩表态",
-      "onboard_time": 1772115321,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 214501,
@@ -4664,6 +4680,14 @@
       "word": "陈妍希杨丞琳李荣浩潘玮柏过年聚会",
       "onboard_time": 1771827979,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197270,
+      "num": 175762,
+      "word": "嘉人单发苏新皓",
+      "onboard_time": 1772116701,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -5459,14 +5483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167145,
-      "num": 175762,
-      "word": "嘉人单发苏新皓",
-      "onboard_time": 1772116701,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166749,
       "num": 136574,
       "word": "西安一市民除夕夜被AI给骂了",
@@ -5745,14 +5761,6 @@
       "onboard_time": 1771772123,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155983,
-      "num": 155983,
-      "word": "王楚钦1比7落后逆转",
-      "onboard_time": 1772117182,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 155810,
@@ -6347,6 +6355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140793,
+      "num": 140793,
+      "word": "王天辰 上桌",
+      "onboard_time": 1772117003,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140746,
       "num": 140746,
       "word": "KSG对战DYG",
@@ -6441,6 +6457,14 @@
       "onboard_time": 1771816819,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139106,
+      "num": 125831,
+      "word": "申裕斌赛后飙中文太累了",
+      "onboard_time": 1772118442,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 138822,
@@ -6593,14 +6617,6 @@
       "onboard_time": 1771815739,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135506,
-      "num": 135506,
-      "word": "Cat毕业典礼",
-      "onboard_time": 1772116882,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 135451,
@@ -6913,6 +6929,14 @@
       "onboard_time": 1771750158,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129007,
+      "num": 151259,
+      "word": "男子谎称走亲戚欲把7岁儿子留老家",
+      "onboard_time": 1772117422,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128969,
@@ -7299,14 +7323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121678,
-      "num": 121678,
-      "word": "王天辰 上桌",
-      "onboard_time": 1772117003,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121596,
       "num": 121596,
       "word": "吵了一年要辞职 初八文案是开工大吉",
@@ -7361,14 +7377,6 @@
       "onboard_time": 1771927222,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120790,
-      "num": 120790,
-      "word": "男子谎称走亲戚欲把7岁儿子留老家",
-      "onboard_time": 1772117422,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120546,
@@ -7843,6 +7851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113234,
+      "num": 109572,
+      "word": "陈妍希说英语",
+      "onboard_time": 1772117902,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112844,
       "num": 107371,
       "word": "张元英ins更新",
@@ -8035,12 +8051,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 109863,
+      "num": 109863,
+      "word": "KSG战胜DYG",
+      "onboard_time": 1772118683,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109816,
       "num": 109816,
       "word": "林更新以后再也不乱看了",
       "onboard_time": 1771770805,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109516,
+      "num": 109516,
+      "word": "孙燕姿新歌飞瀑而下",
+      "onboard_time": 1772116822,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 109393,
@@ -8513,14 +8545,6 @@
       "onboard_time": 1771981821,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 104327,
-      "num": 90162,
-      "word": "孙燕姿新歌飞瀑而下",
-      "onboard_time": 1772116822,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 104141,
@@ -9219,6 +9243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 96066,
+      "num": 96066,
+      "word": "男子开工3天签下3000万大单笑开花",
+      "onboard_time": 1772117902,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95989,
       "num": 102907,
       "word": "小孩开智有点早",
@@ -9433,6 +9465,14 @@
       "onboard_time": 1771756880,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93646,
+      "num": 93646,
+      "word": "减肥针停针后复胖率达80%",
+      "onboard_time": 1772115922,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93625,
@@ -12699,6 +12739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47660,
+      "num": 176586,
+      "word": "印度力挺以色列",
+      "onboard_time": 1772117302,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47317,
       "num": 47317,
       "word": "冬奥会 歌剧闭幕式",
@@ -13819,6 +13867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21758,
+      "num": 187080,
+      "word": "有人早上6点去寿司郎排队",
+      "onboard_time": 1772118502,
+      "rank": 19,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 21635,
       "num": 157709,
       "word": "节后不想上班其实是多巴胺戒断",
@@ -14073,14 +14129,6 @@
       "onboard_time": 1771960453,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17384,
-      "num": 176586,
-      "word": "印度力挺以色列",
-      "onboard_time": 1772117302,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17203,
