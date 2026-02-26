@@ -1,10 +1,10 @@
 {
   "startTime": 1772036028289,
-  "endTime": 1772087742006,
+  "endTime": 1772092602198,
   "band_list": [
     {
       "raw_hot": 1208618,
-      "num": 194975,
+      "num": 239555,
       "word": "男演员点赞和刘晓庆搭戏是工伤",
       "onboard_time": 1772081361,
       "rank": 20,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1180982,
-      "num": 166041,
+      "num": 242352,
       "word": "向佑不满遗产分配直喊不公平",
       "onboard_time": 1772082262,
       "rank": 33,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1126459,
-      "num": 193435,
+      "num": 222502,
       "word": "周杰伦结婚田馥甄有了讽刺的情书",
       "onboard_time": 1772072481,
       "rank": 20,
@@ -33,6 +33,14 @@
       "onboard_time": 1772081241,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1024494,
+      "num": 244189,
+      "word": "一点点",
+      "onboard_time": 1772090841,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 965437,
@@ -163,6 +171,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445009,
+      "num": 234743,
+      "word": "肖战米兰酒店一晚2万欧元",
+      "onboard_time": 1772090659,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 424784,
+      "num": 424784,
+      "word": "唐国强也去演短剧了",
+      "onboard_time": 1772088921,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421654,
       "num": 421654,
       "word": "中国手机行业将迎来全面涨价",
@@ -219,6 +243,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383025,
+      "num": 236829,
+      "word": "男子地铁猥亵女子称像年轻时的妻子",
+      "onboard_time": 1772086040,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380871,
+      "num": 834690,
+      "word": "男子中669万刷朋友圈查彩票才发现",
+      "onboard_time": 1772086280,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379807,
       "num": 163195,
       "word": "放过小说妹",
@@ -259,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 333108,
+      "num": 333108,
+      "word": "男子节后返家价值几万乌龟全被煮",
+      "onboard_time": 1772089282,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317968,
       "num": 143163,
       "word": "墨宝非宝宣布离婚",
@@ -275,12 +323,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301712,
+      "num": 301712,
+      "word": "王安宇推了半天凶手是自己",
+      "onboard_time": 1772089400,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300125,
       "num": 195528,
       "word": "神童与父母断绝联系",
       "onboard_time": 1772078241,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291755,
+      "num": 232460,
+      "word": "杨洋对接回应复工",
+      "onboard_time": 1772091501,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 289219,
+      "num": 229552,
+      "word": "小猫守家26天在主人床上拉满便便",
+      "onboard_time": 1772089460,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284136,
@@ -347,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251940,
+      "num": 251940,
+      "word": "金正恩称韩国是彻底的敌国",
+      "onboard_time": 1772086701,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 250322,
       "num": 250322,
       "word": "2026考研查分时间",
@@ -377,14 +457,6 @@
       "onboard_time": 1772080762,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243511,
-      "num": 834690,
-      "word": "男子中669万刷朋友圈查彩票才发现",
-      "onboard_time": 1772086280,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239483,
@@ -435,6 +507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 228633,
+      "num": 228633,
+      "word": "关晓彤这段戏我比男主更先爱上女主",
+      "onboard_time": 1772088022,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227069,
       "num": 227069,
       "word": "乌士兵被迫肢解战友遗体",
@@ -451,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221929,
+      "num": 221929,
+      "word": "坐顺风车排泄后失联男子被封号",
+      "onboard_time": 1772090061,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215396,
       "num": 141978,
       "word": "一家4口上山妻子死亡失联时神情恐惧",
@@ -460,11 +548,19 @@
     },
     {
       "raw_hot": 215092,
-      "num": 156779,
+      "num": 250549,
       "word": "医生建议做美甲至少保留一个原甲",
       "onboard_time": 1772083701,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204630,
+      "num": 204630,
+      "word": "周涛也开始拍短剧了",
+      "onboard_time": 1772089400,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 200200,
@@ -523,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168783,
+      "num": 168783,
+      "word": "王子文我在现偶圈等了你三年",
+      "onboard_time": 1772091741,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168610,
       "num": 147923,
       "word": "iPhone可添加门禁卡可写入加密",
@@ -555,12 +659,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 156687,
-      "num": 156687,
-      "word": "金正恩称韩国是彻底的敌国",
-      "onboard_time": 1772086701,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 155508,
+      "num": 155508,
+      "word": "男子将博士学位证折成元宝烧给爷爷",
+      "onboard_time": 1772090780,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153490,
@@ -635,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141671,
+      "num": 141671,
+      "word": "安卓机皇三星S26上手体验",
+      "onboard_time": 1772091682,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140641,
       "num": 140641,
       "word": "办公室牛肉饭节后长出15cm黑发",
@@ -664,14 +776,6 @@
       "word": "高铁幼童哭闹男子要求父母带离",
       "onboard_time": 1772075121,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132619,
-      "num": 132619,
-      "word": "男子地铁猥亵女子称像年轻时的妻子",
-      "onboard_time": 1772086040,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -739,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120741,
+      "num": 222503,
+      "word": "欠款1000万亿当事人这次真要逾期了",
+      "onboard_time": 1772091621,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 120523,
       "num": 120523,
       "word": "爱泼斯坦案再升级",
@@ -769,6 +881,14 @@
       "onboard_time": 1772066240,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 116007,
+      "num": 116007,
+      "word": "猫 待会去了姥姥家使劲哭",
+      "onboard_time": 1772089581,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 113304,
@@ -827,12 +947,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105629,
+      "num": 102073,
+      "word": "垃圾桶内有小孩父亲称不要救他",
+      "onboard_time": 1772087960,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105242,
       "num": 105242,
       "word": "吴京 领导讲话我施法",
       "onboard_time": 1772079442,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105237,
+      "num": 105237,
+      "word": "新员工上班带水杯的含义",
+      "onboard_time": 1772090659,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 102679,
@@ -849,6 +985,14 @@
       "onboard_time": 1772075481,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 102018,
+      "num": 102018,
+      "word": "张本美和鹰眼挑战失败",
+      "onboard_time": 1772089341,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 101319,
@@ -931,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92649,
+      "num": 92649,
+      "word": "Prada大秀",
+      "onboard_time": 1772092400,
+      "rank": 41,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 92232,
       "num": 92232,
       "word": "江湖夜雨十年灯",
@@ -987,6 +1139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 87988,
+      "num": 87988,
+      "word": "夜王票房破亿",
+      "onboard_time": 1772089160,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 87562,
       "num": 87562,
       "word": "宋雨琦看秀造型",
@@ -1035,12 +1195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84346,
+      "num": 84346,
+      "word": "面条 熟了我自己会说OK",
+      "onboard_time": 1772092281,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83568,
       "num": 83568,
       "word": "孙颖莎黄牌",
       "onboard_time": 1772023462,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82814,
+      "num": 82814,
+      "word": "宋雨琦说喜欢白鹿李佩仪妆造",
+      "onboard_time": 1772091260,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 82660,
@@ -1065,6 +1241,22 @@
       "onboard_time": 1772070560,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82195,
+      "num": 82195,
+      "word": "A股行情",
+      "onboard_time": 1772092581,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 82071,
+      "num": 82071,
+      "word": "陈飞宇叫孙千洗衣粉儿",
+      "onboard_time": 1772092520,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 81980,
@@ -1105,6 +1297,14 @@
       "onboard_time": 1772023762,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80264,
+      "num": 80264,
+      "word": "可灵AI力压众多海外模型登顶全球第一",
+      "onboard_time": 1772091561,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 78966,
@@ -1241,6 +1441,14 @@
       "onboard_time": 1772031202,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69880,
+      "num": 96076,
+      "word": "瞿桦强吻方穆静",
+      "onboard_time": 1772092461,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 67846,
@@ -1483,6 +1691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 39326,
+      "num": 224587,
+      "word": "三星发布会现场直击",
+      "onboard_time": 1772088200,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 37174,
       "num": 145375,
       "word": "Maria回归FENDI首秀",
@@ -1585,6 +1801,14 @@
       "onboard_time": 1772041638,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21109,
+      "num": 94495,
+      "word": "沙特为伊朗可能遭袭做准备",
+      "onboard_time": 1772091441,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19697,
