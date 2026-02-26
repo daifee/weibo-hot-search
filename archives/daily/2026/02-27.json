@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772149129069,
+  "endTime": 1772150060570,
   "band_list": [
     {
       "raw_hot": 990189,
@@ -35,12 +35,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 507577,
-      "num": 142876,
+      "raw_hot": 523264,
+      "num": 149797,
       "word": "比尔盖茨出轨女性身份曝光",
       "onboard_time": 1772117663,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 523031,
+      "num": 148464,
+      "word": "女子婚后拒同房法院判定不予离婚",
+      "onboard_time": 1772148678,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 480704,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 411183,
-      "num": 661612,
+      "num": 749197,
       "word": "四六级查分",
       "onboard_time": 1772147297,
       "rank": 1,
@@ -99,12 +107,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274854,
+      "num": 69892,
+      "word": "费霓怀孕",
+      "onboard_time": 1772149399,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249244,
       "num": 249244,
       "word": "王楚钦1比7落后逆转",
       "onboard_time": 1772117182,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243099,
+      "num": 191969,
+      "word": "全国妈妈的统一夜晚",
+      "onboard_time": 1772148138,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 224257,
@@ -195,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150780,
+      "num": 150780,
+      "word": "刘宇宁到了现代剧也是一身侠气",
+      "onboard_time": 1772147896,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149889,
       "num": 149889,
       "word": "一盒内存条堪比一套房",
@@ -251,12 +283,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121368,
+      "num": 121368,
+      "word": "王楚钦说太累了比干七局还累",
+      "onboard_time": 1772147955,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120131,
       "num": 116873,
       "word": "嘉人单发苏新皓",
       "onboard_time": 1772116701,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118120,
+      "num": 111145,
+      "word": "孙千这段尴尬的我狂笑",
+      "onboard_time": 1772146818,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 117058,
@@ -275,12 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116371,
-      "num": 87212,
-      "word": "孙千这段尴尬的我狂笑",
-      "onboard_time": 1772146818,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 116316,
+      "num": 116316,
+      "word": "伊朗威胁美国",
+      "onboard_time": 1772148678,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114166,
@@ -315,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111379,
-      "num": 111379,
-      "word": "王楚钦说太累了比干七局还累",
-      "onboard_time": 1772147955,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106437,
       "num": 114407,
       "word": "申裕斌赛后飙中文太累了",
@@ -345,14 +385,6 @@
       "onboard_time": 1772120781,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 96827,
-      "num": 96827,
-      "word": "全国妈妈的统一夜晚",
-      "onboard_time": 1772148138,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 96069,
@@ -379,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93469,
+      "num": 93469,
+      "word": "四级我恨你",
+      "onboard_time": 1772148557,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 93243,
       "num": 93243,
       "word": "中国男篮战胜日本男篮",
@@ -387,20 +427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93061,
+      "num": 93061,
+      "word": "林俊杰2026首支单曲",
+      "onboard_time": 1772148798,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 93042,
       "num": 75917,
       "word": "瘦了十来斤的陈飞宇",
       "onboard_time": 1772115863,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 92350,
-      "num": 92350,
-      "word": "刘宇宁到了现代剧也是一身侠气",
-      "onboard_time": 1772147896,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 90342,
@@ -419,16 +459,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84090,
-      "num": 63881,
-      "word": "女子婚后拒同房法院判定不予离婚",
-      "onboard_time": 1772148678,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81893,
-      "num": 74359,
+      "num": 79659,
       "word": "Prada认领杨幂",
       "onboard_time": 1772110041,
       "rank": 17,
@@ -441,6 +473,14 @@
       "onboard_time": 1772117902,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81222,
+      "num": 70404,
+      "word": "逐玉",
+      "onboard_time": 1772147596,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 80368,
@@ -491,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77047,
-      "num": 71169,
-      "word": "林俊杰2026首支单曲",
-      "onboard_time": 1772148798,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 76410,
       "num": 76410,
       "word": "JDG晋级LPL胜决",
@@ -515,14 +547,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 72661,
-      "num": 72661,
-      "word": "伊朗威胁美国",
-      "onboard_time": 1772148678,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 69974,
       "num": 671062,
       "word": "一趟列车24站解锁200多家景区",
@@ -531,20 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67673,
-      "num": 66844,
-      "word": "逐玉",
-      "onboard_time": 1772147596,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 63649,
-      "num": 63649,
-      "word": "四级我恨你",
-      "onboard_time": 1772148557,
-      "rank": 31,
-      "category": "教育"
+      "raw_hot": 64944,
+      "num": 64944,
+      "word": "男子回应过年杀鸭杀出超6克黄金",
+      "onboard_time": 1772110282,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63016,
@@ -571,11 +587,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 59520,
+      "num": 59520,
+      "word": "鸭棚子一个即将消失的行当",
+      "onboard_time": 1772148618,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 58969,
       "num": 169217,
       "word": "香港山火火情基本受控",
       "onboard_time": 1772122161,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58357,
+      "num": 58357,
+      "word": "深圳湾公园晚上漆黑为让候鸟睡觉",
+      "onboard_time": 1772148678,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -587,20 +619,52 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50315,
-      "num": 50315,
-      "word": "男子回应过年杀鸭杀出超6克黄金",
-      "onboard_time": 1772110282,
-      "rank": 35,
+      "raw_hot": 55805,
+      "num": 55805,
+      "word": "原神超话",
+      "onboard_time": 1772149578,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 54345,
+      "num": 54345,
+      "word": "霍金遗属发声",
+      "onboard_time": 1772103620,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 49617,
+      "num": 49617,
+      "word": "女子在服务区厕所捡4万多现金",
+      "onboard_time": 1772148918,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49458,
-      "num": 49458,
-      "word": "鸭棚子一个即将消失的行当",
-      "onboard_time": 1772148618,
-      "rank": 36,
-      "category": "旅游"
+      "raw_hot": 48919,
+      "num": 48919,
+      "word": "狄娜女士从艳星到中国卫星导航之母",
+      "onboard_time": 1772149998,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48213,
+      "num": 48213,
+      "word": "陈丽君台湾巡演人气大爆",
+      "onboard_time": 1772149758,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 47912,
+      "num": 47912,
+      "word": "AI公司给文科生开300万年薪",
+      "onboard_time": 1772149098,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 47373,
@@ -619,20 +683,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 39403,
-      "num": 39403,
+      "raw_hot": 40443,
+      "num": 40443,
       "word": "痞幼泽龙约会",
       "onboard_time": 1772110820,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 38962,
-      "num": 38962,
-      "word": "深圳湾公园晚上漆黑为让候鸟睡觉",
-      "onboard_time": 1772148678,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38608,
@@ -659,20 +715,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36683,
-      "num": 36683,
-      "word": "霍金遗属发声",
-      "onboard_time": 1772103620,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 36194,
-      "num": 36194,
-      "word": "AI公司给文科生开300万年薪",
-      "onboard_time": 1772149098,
-      "rank": 43,
-      "category": "互联网"
+      "raw_hot": 35291,
+      "num": 70130,
+      "word": "2026年全国两会新闻中心启用",
+      "onboard_time": 1772149758,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34680,
@@ -683,11 +731,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33960,
-      "num": 34867,
-      "word": "女子在服务区厕所捡4万多现金",
-      "onboard_time": 1772148918,
-      "rank": 47,
+      "raw_hot": 33477,
+      "num": 40357,
+      "word": "被猫咪带大的萨摩耶",
+      "onboard_time": 1772149938,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 33245,
+      "num": 574989,
+      "word": "春节消费市场人气旺活力足",
+      "onboard_time": 1772111841,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -723,16 +779,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26978,
-      "num": 543456,
-      "word": "春节消费市场人气旺活力足",
-      "onboard_time": 1772111841,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24959,
-      "num": 66058,
+      "raw_hot": 25814,
+      "num": 70014,
       "word": "德企高管踮着脚看中国机器人",
       "onboard_time": 1772113761,
       "rank": 49,
