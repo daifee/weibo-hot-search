@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772122557812,
+  "endTime": 1772126011855,
   "band_list": [
     {
       "raw_hot": 990189,
@@ -163,6 +163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144787,
+      "num": 144787,
+      "word": "一盒内存条堪比一套房",
+      "onboard_time": 1772121620,
+      "rank": 48,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 142876,
       "num": 142876,
       "word": "比尔盖茨出轨女性身份曝光",
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94814,
+      "num": 94814,
+      "word": "谷爱凌Prada看秀",
+      "onboard_time": 1772122759,
+      "rank": 14,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 93650,
       "num": 93650,
       "word": "曝迪丽热巴与嘉行合约到期",
@@ -339,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79397,
+      "num": 79397,
+      "word": "各地买房公积金最多能贷多少",
+      "onboard_time": 1772119521,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78949,
       "num": 78949,
       "word": "有人早上6点去寿司郎排队",
@@ -355,20 +379,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75199,
+      "num": 75199,
+      "word": "田柾国直播爆粗口",
+      "onboard_time": 1772125157,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73735,
       "num": 73735,
       "word": "赛里木湖上演绝美火烧云",
       "onboard_time": 1772121560,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 73551,
-      "num": 73551,
-      "word": "一盒内存条堪比一套房",
-      "onboard_time": 1772121620,
-      "rank": 48,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 69974,
@@ -387,6 +411,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 59564,
+      "num": 59564,
+      "word": "11月宝宝从婴儿车滑落颅脑重伤",
+      "onboard_time": 1772123898,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58969,
       "num": 169217,
       "word": "香港山火火情基本受控",
@@ -395,12 +427,60 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47373,
+      "num": 51756,
+      "word": "没见过这么大笑的易烊千玺",
+      "onboard_time": 1772124379,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 41639,
+      "num": 51746,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1772105961,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 39632,
+      "num": 51732,
+      "word": "刘诗诗头戴非遗绒花高雅动人",
+      "onboard_time": 1772125697,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38608,
       "num": 159327,
       "word": "汽车充完电未及时挪车被收438元",
       "onboard_time": 1772120963,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37100,
+      "num": 51696,
+      "word": "KSG战胜DYG",
+      "onboard_time": 1772118683,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 36352,
+      "num": 51693,
+      "word": "全网最黑大熊猫出现了",
+      "onboard_time": 1772110820,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34680,
+      "num": 51687,
+      "word": "肖战申请强执黑粉",
+      "onboard_time": 1772125938,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 32161,
