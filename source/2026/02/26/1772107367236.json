@@ -1,0 +1,410 @@
+{
+  "runTime": 1772107367236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1036750,
+        "num": 1165880,
+        "word": "手机 涨价",
+        "onboard_time": 1772096001,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 609672,
+        "num": 847317,
+        "word": "发1.8亿年终奖公司开工3天爆单",
+        "onboard_time": 1772102481,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60343,
+        "num": 673684,
+        "word": "银发经济市场规模有望达30万亿元",
+        "onboard_time": 1772097142,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295784,
+        "num": 295784,
+        "word": "胡一菲诺澜在短国相遇了",
+        "onboard_time": 1772105843,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292333,
+        "num": 292333,
+        "word": "王曼昱vs申裕斌",
+        "onboard_time": 1772105601,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326276,
+        "num": 289092,
+        "word": "出门和不出门过的两种人生",
+        "onboard_time": 1772104401,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285134,
+        "num": 285134,
+        "word": "王曼昱黄牌",
+        "onboard_time": 1772105902,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233651,
+        "num": 233651,
+        "word": "一点点资助男孩被曝戴千元手表",
+        "onboard_time": 1772093302,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230648,
+        "num": 230648,
+        "word": "日本网民称日本确实存在撞人族",
+        "onboard_time": 1772097683,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203006,
+        "num": 203006,
+        "word": "欠款1000万亿当事人这次真要逾期了",
+        "onboard_time": 1772091621,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 24116,
+        "num": 200818,
+        "word": "王曼昱马年三连胜",
+        "onboard_time": 1772106922,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1210027,
+        "num": 199455,
+        "word": "Prada外网只认领了柳智敏",
+        "onboard_time": 1772102841,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 740177,
+        "num": 196743,
+        "word": "创造营2026女生季",
+        "onboard_time": 1772104041,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279557,
+        "num": 192413,
+        "word": "伊朗",
+        "onboard_time": 1772101700,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 482202,
+        "num": 188603,
+        "word": "王一博饼干在韩国火了",
+        "onboard_time": 1772105843,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427135,
+        "num": 187691,
+        "word": "王橹杰手捧红玫瑰",
+        "onboard_time": 1772104521,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185301,
+        "num": 185301,
+        "word": "G社拍的汪顺",
+        "onboard_time": 1772105722,
+        "rank": 16,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 49138,
+        "num": 184899,
+        "word": "文淇一种很新的生命力穿搭",
+        "onboard_time": 1772103801,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 355234,
+        "num": 183294,
+        "word": "刘亦菲最接近本人的一张图",
+        "onboard_time": 1772098162,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15514,
+        "num": 180255,
+        "word": "试管婴儿右足畸形官方将通报",
+        "onboard_time": 1772106801,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 775830,
+        "num": 179777,
+        "word": "中国邮政回应已叫停相关线下活动",
+        "onboard_time": 1772102060,
+        "rank": 20,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 581897,
+        "num": 178048,
+        "word": "郭富城一家去景区只用买一张票",
+        "onboard_time": 1772103981,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217340,
+        "num": 176211,
+        "word": "镖人 一代大蠕",
+        "onboard_time": 1772101160,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175074,
+        "num": 175074,
+        "word": "中国男篮vs日本男篮",
+        "onboard_time": 1772100559,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341878,
+        "num": 174882,
+        "word": "向佑不满遗产分配直喊不公平",
+        "onboard_time": 1772082262,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174059,
+        "num": 174059,
+        "word": "中国男篮反超日本",
+        "onboard_time": 1772106621,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188599,
+        "num": 170720,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1772105961,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275257,
+        "num": 169447,
+        "word": "迪丽热巴已成立个人独资工作室",
+        "onboard_time": 1772101040,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166491,
+        "num": 166491,
+        "word": "一点点资助男孩公益活动引争议",
+        "onboard_time": 1772103681,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98852,
+        "num": 166435,
+        "word": "日本把宇树机器人改成僧侣",
+        "onboard_time": 1772100559,
+        "rank": 29,
+        "category": "海外新闻,互联网"
+      },
+      {
+        "raw_hot": 200975,
+        "num": 166244,
+        "word": "霍金遗属发声",
+        "onboard_time": 1772103620,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179982,
+        "num": 165992,
+        "word": "薛之谦开票",
+        "onboard_time": 1772098101,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164862,
+        "num": 165771,
+        "word": "金价波动",
+        "onboard_time": 1772104281,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169881,
+        "num": 165466,
+        "word": "坐顺风车排泄后失联男子被封号",
+        "onboard_time": 1772090061,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165330,
+        "num": 165330,
+        "word": "兔闪闪直播间",
+        "onboard_time": 1772107101,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149142,
+        "num": 149142,
+        "word": "曝迪丽热巴与嘉行合约到期",
+        "onboard_time": 1772096420,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134561,
+        "num": 134561,
+        "word": "爱泼斯坦私密储物柜曝光",
+        "onboard_time": 1772098821,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76891,
+        "num": 132379,
+        "word": "免去王祥喜应急管理部部长职务",
+        "onboard_time": 1772107221,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25934,
+        "num": 130623,
+        "word": "一家人捡到婚包等失主错过高速免费",
+        "onboard_time": 1772106801,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55577,
+        "num": 130274,
+        "word": "王艺迪晋级新加坡大满贯八强",
+        "onboard_time": 1772107282,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130259,
+        "num": 130259,
+        "word": "杨幂米兰allblack看秀",
+        "onboard_time": 1772094561,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125978,
+        "num": 125978,
+        "word": "JDG对战AL",
+        "onboard_time": 1772098640,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122969,
+        "num": 122969,
+        "word": "肖战看秀顶级待遇",
+        "onboard_time": 1772101941,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21300,
+        "num": 121823,
+        "word": "男子在汉堡店吃出疑似钢针异物",
+        "onboard_time": 1772106080,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121079,
+        "num": 121079,
+        "word": "女教师因调皮男生怕开学暴瘦10多斤",
+        "onboard_time": 1772101582,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118733,
+        "num": 118733,
+        "word": "林俊杰作曲方文山作词",
+        "onboard_time": 1772095521,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117531,
+        "num": 117531,
+        "word": "登陆少年米兰直播",
+        "onboard_time": 1772105301,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105011,
+        "num": 105011,
+        "word": "KPL春季赛",
+        "onboard_time": 1772107282,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114719,
+        "num": 104594,
+        "word": "小S曾说田馥甄周杰伦不可能在一起",
+        "onboard_time": 1772097082,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103765,
+        "num": 103765,
+        "word": "手机集体涨价的原因",
+        "onboard_time": 1772105961,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动实现十五五良好开局#"
+    }
+  }
+}

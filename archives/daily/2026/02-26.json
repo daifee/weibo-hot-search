@@ -1,6 +1,6 @@
 {
   "startTime": 1772036028289,
-  "endTime": 1772106405515,
+  "endTime": 1772107367236,
   "band_list": [
     {
       "raw_hot": 1873376,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1449378,
-      "num": 158507,
+      "num": 199455,
       "word": "Prada外网只认领了柳智敏",
       "onboard_time": 1772102841,
       "rank": 23,
@@ -147,8 +147,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 740177,
+      "num": 214630,
+      "word": "创造营2026女生季",
+      "onboard_time": 1772104041,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 708831,
-      "num": 159300,
+      "num": 169447,
       "word": "迪丽热巴已成立个人独资工作室",
       "onboard_time": 1772101040,
       "rank": 20,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 671790,
-      "num": 159235,
+      "num": 183294,
       "word": "刘亦菲最接近本人的一张图",
       "onboard_time": 1772098162,
       "rank": 23,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 623400,
-      "num": 821870,
+      "num": 847317,
       "word": "发1.8亿年终奖公司开工3天爆单",
       "onboard_time": 1772102481,
       "rank": 16,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 581991,
-      "num": 133192,
+      "num": 178048,
       "word": "郭富城一家去景区只用买一张票",
       "onboard_time": 1772103981,
       "rank": 31,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 538244,
-      "num": 129078,
+      "num": 187691,
       "word": "王橹杰手捧红玫瑰",
       "onboard_time": 1772104521,
       "rank": 26,
@@ -251,14 +259,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 509250,
-      "num": 214630,
-      "word": "创造营2026女生季",
-      "onboard_time": 1772104041,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 505663,
       "num": 850838,
       "word": "日本网民称日本确实存在撞人族",
@@ -281,6 +281,14 @@
       "onboard_time": 1772076380,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 482202,
+      "num": 188603,
+      "word": "王一博饼干在韩国火了",
+      "onboard_time": 1772105843,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 477704,
@@ -491,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326276,
+      "num": 289092,
+      "word": "出门和不出门过的两种人生",
+      "onboard_time": 1772104401,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326118,
       "num": 213289,
       "word": "杨幂米兰allblack看秀",
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295784,
+      "num": 295784,
+      "word": "胡一菲诺澜在短国相遇了",
+      "onboard_time": 1772105843,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294907,
       "num": 229552,
       "word": "小猫守家26天在主人床上拉满便便",
@@ -547,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292333,
+      "num": 292333,
+      "word": "王曼昱vs申裕斌",
+      "onboard_time": 1772105601,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291091,
       "num": 291091,
       "word": "林俊杰作曲方文山作词",
       "onboard_time": 1772095521,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285134,
+      "num": 285134,
+      "word": "王曼昱黄牌",
+      "onboard_time": 1772105902,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 284136,
@@ -763,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219089,
-      "num": 219089,
-      "word": "王曼昱vs申裕斌",
-      "onboard_time": 1772105601,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215396,
       "num": 141978,
       "word": "一家4口上山妻子死亡失联时神情恐惧",
@@ -787,20 +819,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205071,
-      "num": 205071,
-      "word": "出门和不出门过的两种人生",
-      "onboard_time": 1772104401,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 204630,
       "num": 204630,
       "word": "周涛也开始拍短剧了",
       "onboard_time": 1772089400,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200975,
+      "num": 166244,
+      "word": "霍金遗属发声",
+      "onboard_time": 1772103620,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 200200,
@@ -835,6 +867,14 @@
       "category": "海外新闻,互联网"
     },
     {
+      "raw_hot": 188599,
+      "num": 170720,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1772020522,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187453,
       "num": 187453,
       "word": "孙子带女友回家80岁奶奶激动扔菜拥抱",
@@ -849,6 +889,14 @@
       "onboard_time": 1772033721,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185301,
+      "num": 185301,
+      "word": "G社拍的汪顺",
+      "onboard_time": 1772105722,
+      "rank": 28,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 184718,
@@ -891,11 +939,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172355,
-      "num": 172355,
-      "word": "王曼昱黄牌",
-      "onboard_time": 1772105902,
-      "rank": 12,
+      "raw_hot": 174059,
+      "num": 174059,
+      "word": "中国男篮反超日本",
+      "onboard_time": 1772106621,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -947,28 +995,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 165330,
+      "num": 165330,
+      "word": "兔闪闪直播间",
+      "onboard_time": 1772107101,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 164862,
+      "num": 165771,
+      "word": "金价波动",
+      "onboard_time": 1772104281,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 164101,
       "num": 164101,
       "word": "考研",
       "onboard_time": 1772028743,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 161623,
-      "num": 161623,
-      "word": "胡一菲诺澜在短国相遇了",
-      "onboard_time": 1772105843,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 161094,
-      "num": 159268,
-      "word": "金价波动",
-      "onboard_time": 1772104281,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 159423,
@@ -995,28 +1043,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156183,
-      "num": 156183,
-      "word": "王一博饼干在韩国火了",
-      "onboard_time": 1772105843,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155508,
       "num": 155508,
       "word": "男子将博士学位证折成元宝烧给爷爷",
       "onboard_time": 1772090780,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155328,
-      "num": 125683,
-      "word": "霍金遗属发声",
-      "onboard_time": 1772103620,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 153490,
@@ -1203,14 +1235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 132289,
-      "num": 119086,
-      "word": "纯真年代的爱情",
-      "onboard_time": 1772020522,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132247,
       "num": 127817,
       "word": "杨洋不让江山复工",
@@ -1260,7 +1284,7 @@
     },
     {
       "raw_hot": 128451,
-      "num": 121527,
+      "num": 122969,
       "word": "肖战看秀顶级待遇",
       "onboard_time": 1772101941,
       "rank": 40,
@@ -1273,14 +1297,6 @@
       "onboard_time": 1772103742,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125889,
-      "num": 125889,
-      "word": "G社拍的汪顺",
-      "onboard_time": 1772105722,
-      "rank": 28,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 125573,
@@ -1521,6 +1537,14 @@
       "onboard_time": 1772090659,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105011,
+      "num": 105011,
+      "word": "KPL春季赛",
+      "onboard_time": 1772107282,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 104960,
@@ -2011,6 +2035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 76891,
+      "num": 132379,
+      "word": "免去王祥喜应急管理部部长职务",
+      "onboard_time": 1772107221,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76608,
       "num": 119659,
       "word": "判处缅北电诈回流人员超4万人",
@@ -2276,7 +2308,7 @@
     },
     {
       "raw_hot": 57056,
-      "num": 165057,
+      "num": 184899,
       "word": "文淇一种很新的生命力穿搭",
       "onboard_time": 1772103801,
       "rank": 15,
@@ -2289,6 +2321,14 @@
       "onboard_time": 1772023522,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55577,
+      "num": 130274,
+      "word": "王艺迪晋级新加坡大满贯八强",
+      "onboard_time": 1772107282,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 55278,
@@ -2571,12 +2611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25934,
+      "num": 130623,
+      "word": "一家人捡到婚包等失主错过高速免费",
+      "onboard_time": 1772106801,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25844,
       "num": 82383,
       "word": "奶茶店为啥不卖热水",
       "onboard_time": 1772063417,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24116,
+      "num": 200818,
+      "word": "王曼昱马年三连胜",
+      "onboard_time": 1772106922,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 22916,
@@ -2665,6 +2721,14 @@
       "onboard_time": 1772025382,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15514,
+      "num": 180255,
+      "word": "试管婴儿右足畸形官方将通报",
+      "onboard_time": 1772106801,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15083,
