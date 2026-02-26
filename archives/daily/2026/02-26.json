@@ -1,7 +1,23 @@
 {
   "startTime": 1772036028289,
-  "endTime": 1772082591573,
+  "endTime": 1772085900649,
   "band_list": [
+    {
+      "raw_hot": 1208618,
+      "num": 194975,
+      "word": "男演员点赞和刘晓庆搭戏是工伤",
+      "onboard_time": 1772081361,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1180982,
+      "num": 139342,
+      "word": "向佑不满遗产分配直喊不公平",
+      "onboard_time": 1772082262,
+      "rank": 33,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1126459,
       "num": 193435,
@@ -9,6 +25,14 @@
       "onboard_time": 1772072481,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1048086,
+      "num": 1167693,
+      "word": "微信能看图片使用次数了",
+      "onboard_time": 1772081241,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 965437,
@@ -25,14 +49,6 @@
       "onboard_time": 1772068282,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 870030,
-      "num": 194975,
-      "word": "男演员点赞和刘晓庆搭戏是工伤",
-      "onboard_time": 1772081361,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 858435,
@@ -99,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 524740,
+      "num": 138968,
+      "word": "爱泼斯坦案曝光霍金与比基尼女子合影",
+      "onboard_time": 1772082919,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 503774,
       "num": 795478,
       "word": "企业招聘限男性限已婚已育",
@@ -155,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401133,
+      "num": 401133,
+      "word": "女子泰国机场1110元金价买了周大福",
+      "onboard_time": 1772081961,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 393937,
       "num": 723510,
       "word": "女大学生坐硬座31小时返校心脏骤停",
@@ -169,14 +201,6 @@
       "onboard_time": 1772022261,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392143,
-      "num": 392143,
-      "word": "微信能看图片使用次数了",
-      "onboard_time": 1772081241,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 387129,
@@ -235,12 +259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306225,
+      "num": 137911,
+      "word": "鹿哈说没有鹿晗就没有自己的今天",
+      "onboard_time": 1772084001,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300125,
       "num": 195528,
       "word": "神童与父母断绝联系",
       "onboard_time": 1772078241,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293130,
+      "num": 142217,
+      "word": "带孩子有多累具像化了",
+      "onboard_time": 1772082022,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 284136,
@@ -331,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245775,
+      "num": 193183,
+      "word": "迪丽热巴王楚然 处处为营只为得到你",
+      "onboard_time": 1772080762,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239483,
       "num": 215100,
       "word": "杨幂柳智敏Prada撞衫",
@@ -353,6 +401,14 @@
       "onboard_time": 1772069480,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235153,
+      "num": 95501,
+      "word": "奶茶杯盖正确用法",
+      "onboard_time": 1772082502,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 230015,
@@ -395,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201785,
+      "num": 134818,
+      "word": "医生建议做美甲至少保留一个原甲",
+      "onboard_time": 1772083701,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200200,
       "num": 191425,
       "word": "教育局回应5点半读书23点20放学作息表",
@@ -417,14 +481,6 @@
       "onboard_time": 1772066542,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193183,
-      "num": 193183,
-      "word": "迪丽热巴王楚然 处处为营只为得到你",
-      "onboard_time": 1772080762,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 187453,
@@ -481,14 +537,6 @@
       "onboard_time": 1772028743,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 156387,
-      "num": 193611,
-      "word": "女子泰国机场1110元金价买了周大福",
-      "onboard_time": 1772081961,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 150806,
@@ -555,14 +603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 142217,
-      "num": 142217,
-      "word": "带孩子有多累具像化了",
-      "onboard_time": 1772082022,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140641,
       "num": 140641,
       "word": "办公室牛肉饭节后长出15cm黑发",
@@ -603,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131852,
+      "num": 131852,
+      "word": "可口可乐vs百事可乐",
+      "onboard_time": 1772079981,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131044,
       "num": 157603,
       "word": "医生谈美甲对健康的隐患",
@@ -625,22 +673,6 @@
       "onboard_time": 1772075601,
       "rank": 29,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 124791,
-      "num": 124791,
-      "word": "可口可乐vs百事可乐",
-      "onboard_time": 1772079981,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 124056,
-      "num": 124056,
-      "word": "向佑不满遗产分配直喊不公平",
-      "onboard_time": 1772082262,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 121469,
@@ -811,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95501,
-      "num": 95501,
-      "word": "奶茶杯盖正确用法",
-      "onboard_time": 1772082502,
-      "rank": 43,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 94635,
       "num": 94635,
       "word": "贵阳一公园两座雕塑被指不雅",
@@ -963,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82487,
+      "num": 82487,
+      "word": "复工后我的胃belike",
+      "onboard_time": 1772085200,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82205,
       "num": 82205,
       "word": "独居老人认快递员当干儿子被盗95万",
@@ -977,6 +1009,14 @@
       "onboard_time": 1772064800,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81379,
+      "num": 81379,
+      "word": "中国音乐家纽约路边换胎被撞身亡",
+      "onboard_time": 1772084900,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81368,
@@ -1027,12 +1067,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76481,
+      "num": 76481,
+      "word": "小说妹苦了一年又一年",
+      "onboard_time": 1772085440,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76431,
       "num": 76431,
       "word": "陶喆最终五站官宣",
       "onboard_time": 1772020882,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76261,
+      "num": 76261,
+      "word": "日本声称在与那国岛部署导弹",
+      "onboard_time": 1772083701,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75385,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1772072720,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73737,
+      "num": 73737,
+      "word": "iPhone能测网速了",
+      "onboard_time": 1772084362,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 73651,
@@ -1107,12 +1171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67846,
+      "num": 67846,
+      "word": "冯嘉然 前任没处理干净不要上恋综",
+      "onboard_time": 1772082861,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67741,
       "num": 140913,
       "word": "官方通报医生完不成创收指标被待岗",
       "onboard_time": 1772075059,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 66333,
+      "num": 66333,
+      "word": "打工人玄学",
+      "onboard_time": 1772082741,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 65254,
@@ -1129,6 +1209,30 @@
       "onboard_time": 1772028622,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64529,
+      "num": 64529,
+      "word": "中国网友米兰游玩被酒店前台请求帮带零食",
+      "onboard_time": 1772084660,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 63148,
+      "num": 63148,
+      "word": "平顶山打人夫妻老家村民称十分震惊",
+      "onboard_time": 1772083520,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62275,
+      "num": 62275,
+      "word": "工作能力不详态度极佳",
+      "onboard_time": 1772083582,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 60222,
@@ -1249,6 +1353,14 @@
       "onboard_time": 1772045835,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41822,
+      "num": 136017,
+      "word": "德国总理参观故宫",
+      "onboard_time": 1772085561,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41665,

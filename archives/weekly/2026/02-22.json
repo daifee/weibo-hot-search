@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772082591573,
+  "endTime": 1772085900649,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -195,11 +195,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1208618,
+      "num": 194975,
+      "word": "男演员点赞和刘晓庆搭戏是工伤",
+      "onboard_time": 1772081361,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1182807,
       "num": 134645,
       "word": "刘耀文",
       "onboard_time": 1771864818,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1180982,
+      "num": 139342,
+      "word": "向佑不满遗产分配直喊不公平",
+      "onboard_time": 1772082262,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -233,6 +249,14 @@
       "onboard_time": 1771812139,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1048086,
+      "num": 1167693,
+      "word": "微信能看图片使用次数了",
+      "onboard_time": 1772081241,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 1033690,
@@ -377,14 +401,6 @@
       "onboard_time": 1771728979,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 870030,
-      "num": 194975,
-      "word": "男演员点赞和刘晓庆搭戏是工伤",
-      "onboard_time": 1772081361,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 865135,
@@ -1131,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524740,
+      "num": 138968,
+      "word": "爱泼斯坦案曝光霍金与比基尼女子合影",
+      "onboard_time": 1772082919,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 524508,
       "num": 524508,
       "word": "韩国队抗议米兰冬奥至少4次印错国旗",
@@ -1731,6 +1755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 401133,
+      "num": 401133,
+      "word": "女子泰国机场1110元金价买了周大福",
+      "onboard_time": 1772081961,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 399068,
       "num": 181383,
       "word": "苏翊鸣居然演过韩庚爷爷",
@@ -1785,14 +1817,6 @@
       "onboard_time": 1771923501,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 392143,
-      "num": 392143,
-      "word": "微信能看图片使用次数了",
-      "onboard_time": 1772081241,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 389496,
@@ -2459,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306225,
+      "num": 137911,
+      "word": "鹿哈说没有鹿晗就没有自己的今天",
+      "onboard_time": 1772084001,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305203,
       "num": 149928,
       "word": "突然理解了爱坐公交车的人",
@@ -2617,6 +2649,14 @@
       "onboard_time": 1771917080,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293130,
+      "num": 142217,
+      "word": "带孩子有多累具像化了",
+      "onboard_time": 1772082022,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 292314,
@@ -3243,6 +3283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 245775,
+      "num": 193183,
+      "word": "迪丽热巴王楚然 处处为营只为得到你",
+      "onboard_time": 1772080762,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245303,
       "num": 245303,
       "word": "香港宏福苑7座受灾楼宇将拆除",
@@ -3433,6 +3481,14 @@
       "onboard_time": 1771750459,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235153,
+      "num": 95501,
+      "word": "奶茶杯盖正确用法",
+      "onboard_time": 1772082502,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 234672,
@@ -3931,6 +3987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201785,
+      "num": 134818,
+      "word": "医生建议做美甲至少保留一个原甲",
+      "onboard_time": 1772083701,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201500,
       "num": 163723,
       "word": "海南涌现大量1折机票",
@@ -4104,14 +4168,6 @@
       "word": "陈飞宇孙千新剧首播口碑",
       "onboard_time": 1771738821,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193183,
-      "num": 193183,
-      "word": "迪丽热巴王楚然 处处为营只为得到你",
-      "onboard_time": 1772080762,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -4915,14 +4971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156387,
-      "num": 193611,
-      "word": "女子泰国机场1110元金价买了周大福",
-      "onboard_time": 1772081961,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 156382,
       "num": 142640,
       "word": "宇树发布四足机器人As2",
@@ -5353,14 +5401,6 @@
       "onboard_time": 1771895060,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 142217,
-      "num": 142217,
-      "word": "带孩子有多累具像化了",
-      "onboard_time": 1772082022,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 142145,
@@ -5819,6 +5859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131852,
+      "num": 131852,
+      "word": "可口可乐vs百事可乐",
+      "onboard_time": 1772079981,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131437,
       "num": 131437,
       "word": "周洁琼不让江山妆造",
@@ -6115,14 +6163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124791,
-      "num": 124791,
-      "word": "可口可乐vs百事可乐",
-      "onboard_time": 1772079981,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 124751,
       "num": 183388,
       "word": "4千元相机没舍得买5年后涨至9千",
@@ -6169,14 +6209,6 @@
       "onboard_time": 1771764802,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124056,
-      "num": 124056,
-      "word": "向佑不满遗产分配直喊不公平",
-      "onboard_time": 1772082262,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 123769,
@@ -7971,14 +8003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95501,
-      "num": 95501,
-      "word": "奶茶杯盖正确用法",
-      "onboard_time": 1772082502,
-      "rank": 43,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 95470,
       "num": 135806,
       "word": "一种过期了就不能吃的食物",
@@ -9163,6 +9187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82487,
+      "num": 82487,
+      "word": "复工后我的胃belike",
+      "onboard_time": 1772085200,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82481,
       "num": 82481,
       "word": "正常人不会刻意提起你的缺点",
@@ -9273,6 +9305,14 @@
       "onboard_time": 1771791974,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81379,
+      "num": 81379,
+      "word": "中国音乐家纽约路边换胎被撞身亡",
+      "onboard_time": 1772084900,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81374,
@@ -9627,12 +9667,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76481,
+      "num": 76481,
+      "word": "小说妹苦了一年又一年",
+      "onboard_time": 1772085440,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76301,
       "num": 76301,
       "word": "王楚钦跟德国主教练social",
       "onboard_time": 1771823480,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76261,
+      "num": 76261,
+      "word": "日本声称在与那国岛部署导弹",
+      "onboard_time": 1772083701,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76252,
@@ -9809,6 +9865,14 @@
       "onboard_time": 1771691181,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73737,
+      "num": 73737,
+      "word": "iPhone能测网速了",
+      "onboard_time": 1772084362,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 73718,
@@ -10179,6 +10243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67846,
+      "num": 67846,
+      "word": "冯嘉然 前任没处理干净不要上恋综",
+      "onboard_time": 1772082861,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67741,
       "num": 140913,
       "word": "官方通报医生完不成创收指标被待岗",
@@ -10323,6 +10395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66333,
+      "num": 66333,
+      "word": "打工人玄学",
+      "onboard_time": 1772082741,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66229,
       "num": 66229,
       "word": "大年初七",
@@ -10411,6 +10491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64529,
+      "num": 64529,
+      "word": "中国网友米兰游玩被酒店前台请求帮带零食",
+      "onboard_time": 1772084660,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 64288,
       "num": 58684,
       "word": "没想到卫生间也能跳大跳台",
@@ -10483,6 +10571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63148,
+      "num": 63148,
+      "word": "平顶山打人夫妻老家村民称十分震惊",
+      "onboard_time": 1772083520,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63110,
       "num": 63110,
       "word": "包上恩好萌",
@@ -10537,6 +10633,14 @@
       "onboard_time": 1771672700,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62275,
+      "num": 62275,
+      "word": "工作能力不详态度极佳",
+      "onboard_time": 1772083582,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 62231,
@@ -11336,6 +11440,14 @@
       "word": "长和反对巴拿马政府强行接管",
       "onboard_time": 1771914741,
       "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 41822,
+      "num": 136017,
+      "word": "德国总理参观故宫",
+      "onboard_time": 1772085561,
+      "rank": 19,
       "category": "国际时政"
     },
     {
