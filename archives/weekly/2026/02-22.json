@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772100823722,
+  "endTime": 1772103562829,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -683,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 708831,
+      "num": 159300,
+      "word": "迪丽热巴已成立个人独资工作室",
+      "onboard_time": 1772101040,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 708173,
       "num": 1094788,
       "word": "俄乌冲突",
@@ -793,6 +801,14 @@
       "onboard_time": 1771927040,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 671790,
+      "num": 159235,
+      "word": "刘亦菲最接近本人的一张图",
+      "onboard_time": 1772098162,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 665729,
@@ -939,12 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 602235,
-      "num": 124834,
-      "word": "刘亦菲最接近本人的一张图",
-      "onboard_time": 1772098162,
+      "raw_hot": 601915,
+      "num": 158507,
+      "word": "Prada外网只认领了柳智敏",
+      "onboard_time": 1772102841,
       "rank": 23,
-      "category": "艺人"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 601252,
@@ -1299,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505663,
+      "num": 850838,
+      "word": "日本网民称日本确实存在撞人族",
+      "onboard_time": 1772097683,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 504547,
       "num": 181828,
       "word": "网友新选的天涯四美",
@@ -1411,14 +1435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 488149,
-      "num": 488149,
-      "word": "日本网民称日本确实存在撞人族",
-      "onboard_time": 1772097683,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 482319,
       "num": 482319,
       "word": "偏偏宠爱 陈飞宇",
@@ -1476,7 +1492,7 @@
     },
     {
       "raw_hot": 473051,
-      "num": 211187,
+      "num": 222104,
       "word": "伊朗",
       "onboard_time": 1771732160,
       "rank": 11,
@@ -2211,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362859,
+      "num": 362859,
+      "word": "中国邮政回应已叫停相关线下活动",
+      "onboard_time": 1772102060,
+      "rank": 3,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 362471,
       "num": 790704,
       "word": "男子节后返家价值几万乌龟全被煮",
@@ -2508,7 +2532,7 @@
     },
     {
       "raw_hot": 325085,
-      "num": 123513,
+      "num": 136347,
       "word": "小S曾说田馥甄周杰伦不可能在一起",
       "onboard_time": 1772097082,
       "rank": 34,
@@ -3139,6 +3163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 269490,
+      "num": 269490,
+      "word": "镖人 一代大蠕",
+      "onboard_time": 1772101160,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268741,
       "num": 185635,
       "word": "福州偶遇陈赫张子萱",
@@ -3329,6 +3361,14 @@
       "onboard_time": 1771851921,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257557,
+      "num": 212009,
+      "word": "爱泼斯坦私密储物柜曝光",
+      "onboard_time": 1772098821,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 257441,
@@ -3963,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224276,
+      "num": 224276,
+      "word": "中国男篮vs日本男篮",
+      "onboard_time": 1772100559,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224256,
       "num": 224256,
       "word": "王濛刘翔真是几十年难遇",
@@ -4539,6 +4587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188738,
+      "num": 188738,
+      "word": "日本把宇树机器人改成僧侣",
+      "onboard_time": 1772100559,
+      "rank": 42,
+      "category": "海外新闻,互联网"
+    },
+    {
       "raw_hot": 188717,
       "num": 192464,
       "word": "王楚钦鹰眼挑战成功",
@@ -4689,14 +4745,6 @@
       "onboard_time": 1771841541,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180816,
-      "num": 180816,
-      "word": "爱泼斯坦私密储物柜曝光",
-      "onboard_time": 1772098821,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 180461,
@@ -4955,6 +5003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170803,
+      "num": 169486,
+      "word": "发1.8亿年终奖公司开工3天爆单",
+      "onboard_time": 1772102481,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170122,
       "num": 170122,
       "word": "镖人票房破9亿",
@@ -4969,6 +5025,14 @@
       "onboard_time": 1771752979,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169182,
+      "num": 169182,
+      "word": "JDG对战AL",
+      "onboard_time": 1772098640,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 169145,
@@ -5217,6 +5281,14 @@
       "onboard_time": 1771808479,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159118,
+      "num": 159118,
+      "word": "Uzi说Light太任性了",
+      "onboard_time": 1772099601,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 158804,
@@ -5548,7 +5620,7 @@
     },
     {
       "raw_hot": 146864,
-      "num": 118113,
+      "num": 120863,
       "word": "美伊冲突",
       "onboard_time": 1772099423,
       "rank": 43,
@@ -5601,14 +5673,6 @@
       "onboard_time": 1771767022,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145557,
-      "num": 145557,
-      "word": "Uzi说Light太任性了",
-      "onboard_time": 1772099601,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 144997,
@@ -5835,6 +5899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141105,
+      "num": 141105,
+      "word": "女教师因调皮男生怕开学暴瘦10多斤",
+      "onboard_time": 1772101582,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141019,
       "num": 181222,
       "word": "东北夫妻节后返程一家人都哭了",
@@ -5849,6 +5921,14 @@
       "onboard_time": 1771919181,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 140910,
+      "num": 134248,
+      "word": "郑业成新剧只能看见赵晴",
+      "onboard_time": 1772101401,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 140876,
@@ -5921,6 +6001,14 @@
       "onboard_time": 1772005642,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139433,
+      "num": 139433,
+      "word": "儿媳继承446万拆迁款后拒养公爹",
+      "onboard_time": 1772101281,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139428,
@@ -6067,6 +6155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135902,
+      "num": 128718,
+      "word": "时代少年团非去不可宣传片",
+      "onboard_time": 1772102721,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135683,
       "num": 60112,
       "word": "为什么高速堵车看不见大巴车",
@@ -6145,6 +6241,14 @@
       "onboard_time": 1771740619,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134023,
+      "num": 127920,
+      "word": "薛之谦推荐买便宜的价位",
+      "onboard_time": 1772102361,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 133631,
@@ -6539,6 +6643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125126,
+      "num": 125126,
+      "word": "女孩给妈妈买金手链反被指责爆哭",
+      "onboard_time": 1772100260,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125006,
       "num": 125006,
       "word": "差点没认出来这是王骁",
@@ -6747,6 +6859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121136,
+      "num": 121136,
+      "word": "肖战看秀顶级待遇",
+      "onboard_time": 1772101941,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121116,
       "num": 115007,
       "word": "国产剧里无色无味但剧毒的老实人",
@@ -6905,6 +7025,14 @@
       "onboard_time": 1772026702,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117920,
+      "num": 117920,
+      "word": "德国总理看机器人格斗满脸惊讶",
+      "onboard_time": 1772101761,
+      "rank": 42,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 117862,
@@ -7129,14 +7257,6 @@
       "onboard_time": 1771730300,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 113941,
-      "num": 113941,
-      "word": "中国男篮vs日本男篮",
-      "onboard_time": 1772100559,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 113911,
@@ -7939,14 +8059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103857,
-      "num": 103857,
-      "word": "日本把宇树机器人改成僧侣",
-      "onboard_time": 1772100559,
-      "rank": 42,
-      "category": "海外新闻,互联网"
-    },
-    {
       "raw_hot": 103826,
       "num": 103826,
       "word": "Supreme棺材",
@@ -8363,14 +8475,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 98569,
-      "num": 98569,
-      "word": "女孩给妈妈买金手链反被指责爆哭",
-      "onboard_time": 1772100260,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98532,
       "num": 98532,
       "word": "偶遇宋亚轩刘耀文一起滑雪",
@@ -8684,7 +8788,7 @@
     },
     {
       "raw_hot": 94313,
-      "num": 163299,
+      "num": 169670,
       "word": "等Gucci大秀一场",
       "onboard_time": 1772100202,
       "rank": 15,
@@ -8833,14 +8937,6 @@
       "onboard_time": 1771946662,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93056,
-      "num": 93056,
-      "word": "JDG对战AL",
-      "onboard_time": 1772098640,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 92944,
@@ -9953,6 +10049,14 @@
       "onboard_time": 1771791974,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81406,
+      "num": 112994,
+      "word": "代旭 差点坏了江湖规矩",
+      "onboard_time": 1772102300,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 81374,
@@ -11179,6 +11283,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 65329,
+      "num": 122306,
+      "word": "聂玮辰 时代峰峻最夸张的老钱",
+      "onboard_time": 1772103500,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65299,
       "num": 65299,
       "word": "虞书欣云初令高马尾路透",
@@ -12235,6 +12347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41306,
+      "num": 121193,
+      "word": "河南15岁女孩失联16天后确认溺亡",
+      "onboard_time": 1772102421,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41288,
       "num": 102473,
       "word": "你又把什么放进梦想清单",
@@ -12393,6 +12513,14 @@
       "onboard_time": 1772096420,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38005,
+      "num": 121313,
+      "word": "德国工业界半壁江山来杭州了",
+      "onboard_time": 1772102421,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37551,
@@ -12585,6 +12713,14 @@
       "onboard_time": 1771797434,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31192,
+      "num": 163969,
+      "word": "30岁女子眼皮耷拉确诊罕见病",
+      "onboard_time": 1772103201,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31043,
