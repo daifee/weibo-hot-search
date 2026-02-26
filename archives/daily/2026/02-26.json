@@ -1,6 +1,6 @@
 {
   "startTime": 1772036028289,
-  "endTime": 1772112222178,
+  "endTime": 1772113843703,
   "band_list": [
     {
       "raw_hot": 1873376,
@@ -67,6 +67,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1000257,
+      "num": 210338,
+      "word": "Prada认领杨幂",
+      "onboard_time": 1772110041,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 965437,
       "num": 1049070,
       "word": "华策声明",
@@ -113,14 +121,6 @@
       "onboard_time": 1772074101,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 811446,
-      "num": 210338,
-      "word": "Prada认领杨幂",
-      "onboard_time": 1772110041,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 805832,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 637969,
-      "num": 822098,
+      "num": 855494,
       "word": "中国男篮战胜日本男篮",
       "onboard_time": 1772108601,
       "rank": 1,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436568,
+      "num": 188220,
+      "word": "痞幼泽龙约会",
+      "onboard_time": 1772110820,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 424784,
       "num": 424784,
       "word": "唐国强也去演短剧了",
@@ -443,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 382102,
+      "num": 382102,
+      "word": "文章上了澳门语文教材是什么体验",
+      "onboard_time": 1772108061,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 380871,
       "num": 834690,
       "word": "男子中669万刷朋友圈查彩票才发现",
@@ -497,6 +513,14 @@
       "onboard_time": 1772089282,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358058,
+      "num": 358058,
+      "word": "王楚钦vs林德",
+      "onboard_time": 1772106502,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 354405,
@@ -577,6 +601,14 @@
       "onboard_time": 1772061375,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307321,
+      "num": 173489,
+      "word": "橹穆双人舞台官摄破2711万",
+      "onboard_time": 1772113161,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 306199,
@@ -689,14 +721,6 @@
       "onboard_time": 1772063359,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273203,
-      "num": 188220,
-      "word": "痞幼泽龙约会",
-      "onboard_time": 1772110820,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 269515,
@@ -859,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228458,
+      "num": 228458,
+      "word": "JDG对战AL",
+      "onboard_time": 1772098640,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227335,
       "num": 227335,
       "word": "日本 主场哨",
@@ -891,7 +923,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215721,
+      "raw_hot": 221842,
       "num": 186149,
       "word": "郭晓婷亲孙千",
       "onboard_time": 1772108841,
@@ -929,6 +961,14 @@
       "onboard_time": 1772089400,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201682,
+      "num": 141148,
+      "word": "杨幂怼脸镜头好美",
+      "onboard_time": 1772113643,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 200975,
@@ -971,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191612,
+      "num": 171318,
+      "word": "赖伟明被揩油",
+      "onboard_time": 1772108961,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188738,
       "num": 188738,
       "word": "日本把宇树机器人改成僧侣",
@@ -985,22 +1033,6 @@
       "onboard_time": 1772020522,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187976,
-      "num": 171318,
-      "word": "赖伟明被揩油",
-      "onboard_time": 1772108961,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 187705,
-      "num": 187705,
-      "word": "王楚钦vs林德",
-      "onboard_time": 1772106502,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 187453,
@@ -1019,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185367,
+      "num": 135422,
+      "word": "柳智敏Prada待遇",
+      "onboard_time": 1772112561,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 185301,
       "num": 185301,
       "word": "G社拍的汪顺",
@@ -1033,6 +1073,22 @@
       "onboard_time": 1772023881,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 182572,
+      "num": 182572,
+      "word": "日本物价居然到这种程度了",
+      "onboard_time": 1772110341,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 182113,
+      "num": 182113,
+      "word": "虞书欣红衣主母跳惊鸿一面",
+      "onboard_time": 1772107820,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 178736,
@@ -1059,6 +1115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 176025,
+      "num": 176025,
+      "word": "全网最黑大熊猫出现了",
+      "onboard_time": 1772110820,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174800,
       "num": 174800,
       "word": "李云霄下巴是陈丽君的指纹识别吗",
@@ -1075,11 +1139,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169182,
-      "num": 169182,
-      "word": "JDG对战AL",
-      "onboard_time": 1772098640,
-      "rank": 45,
+      "raw_hot": 173521,
+      "num": 180665,
+      "word": "JDG让一追二AL",
+      "onboard_time": 1772113402,
+      "rank": 21,
       "category": "电竞"
     },
     {
@@ -1113,14 +1177,6 @@
       "onboard_time": 1772085440,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165757,
-      "num": 165757,
-      "word": "虞书欣红衣主母跳惊鸿一面",
-      "onboard_time": 1772107820,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 165586,
@@ -1243,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147389,
+      "num": 117629,
+      "word": "我们的少年时代2女主签新公司",
+      "onboard_time": 1772112201,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146864,
       "num": 135418,
       "word": "美伊冲突",
@@ -1307,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140746,
+      "num": 140746,
+      "word": "KSG对战DYG",
+      "onboard_time": 1772111301,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140641,
       "num": 140641,
       "word": "办公室牛肉饭节后长出15cm黑发",
@@ -1337,14 +1409,6 @@
       "onboard_time": 1772072060,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 136628,
-      "num": 169494,
-      "word": "文章上了澳门语文教材是什么体验",
-      "onboard_time": 1772108061,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 136090,
@@ -1403,14 +1467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 130155,
-      "num": 156062,
-      "word": "日本物价居然到这种程度了",
-      "onboard_time": 1772110341,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 130001,
       "num": 130001,
       "word": "中国音乐家纽约路边换胎被撞身亡",
@@ -1467,11 +1523,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125025,
-      "num": 125025,
-      "word": "KSG对战DYG",
-      "onboard_time": 1772111301,
-      "rank": 43,
+      "raw_hot": 124267,
+      "num": 124267,
+      "word": "Light消失了",
+      "onboard_time": 1772110221,
+      "rank": 36,
       "category": "电竞"
     },
     {
@@ -1632,6 +1688,14 @@
       "word": "官方回应一点点资助男孩戴千元手表",
       "onboard_time": 1772109441,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109019,
+      "num": 109019,
+      "word": "男子回应过年杀鸭杀出超6克黄金",
+      "onboard_time": 1772110282,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1800,14 +1864,6 @@
       "word": "张杰声援谢娜",
       "onboard_time": 1772011701,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 100497,
-      "num": 100497,
-      "word": "我们的少年时代2女主签新公司",
-      "onboard_time": 1772112201,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -2379,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70489,
+      "num": 692193,
+      "word": "一趟列车24站解锁200多家景区",
+      "onboard_time": 1772112141,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69945,
       "num": 69945,
       "word": "胖东来针织衫只赚1块1",
@@ -2795,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30082,
+      "num": 182147,
+      "word": "胡金秋10次出手只丢1球",
+      "onboard_time": 1772113101,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29318,
       "num": 29318,
       "word": "我的朋友安德烈",
@@ -2825,6 +2897,14 @@
       "onboard_time": 1772063417,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24988,
+      "num": 182373,
+      "word": "古巴暂停制发身份证件",
+      "onboard_time": 1772113101,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24116,
@@ -2947,6 +3027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 14592,
+      "num": 182232,
+      "word": "网吧回应男子打游戏遭陌生女子骚扰",
+      "onboard_time": 1772113402,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13267,
       "num": 18559,
       "word": "谷爱凌的评论区满是安慰和鼓励",
@@ -2979,12 +3067,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 6318,
-      "num": 692193,
-      "word": "一趟列车24站解锁200多家景区",
-      "onboard_time": 1772112141,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 6751,
+      "num": 114159,
+      "word": "德企高管踮着脚看中国机器人",
+      "onboard_time": 1772113761,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 5624,
