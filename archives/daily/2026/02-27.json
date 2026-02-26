@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772142919483,
+  "endTime": 1772145752170,
   "band_list": [
     {
       "raw_hot": 990189,
@@ -155,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163514,
+      "num": 142876,
+      "word": "比尔盖茨出轨女性身份曝光",
+      "onboard_time": 1772117663,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149889,
       "num": 149889,
       "word": "一盒内存条堪比一套房",
@@ -177,14 +185,6 @@
       "onboard_time": 1772113161,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142876,
-      "num": 142876,
-      "word": "比尔盖茨出轨女性身份曝光",
-      "onboard_time": 1772117663,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 140321,
@@ -411,8 +411,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63134,
+      "num": 63134,
+      "word": "飞驰人生3",
+      "onboard_time": 1772133854,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63016,
-      "num": 31323,
+      "num": 33861,
       "word": "搞对象后弟弟的变化",
       "onboard_time": 1772129534,
       "rank": 30,
@@ -443,8 +451,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56191,
+      "num": 56191,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1772105961,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54481,
-      "num": 33094,
+      "num": 35006,
       "word": "Prada认领杨幂",
       "onboard_time": 1772110041,
       "rank": 17,
@@ -459,28 +475,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47070,
+      "num": 47070,
+      "word": "30秒内3次预警救了一车人",
+      "onboard_time": 1772136313,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43396,
       "num": 51732,
       "word": "刘诗诗头戴非遗绒花高雅动人",
       "onboard_time": 1772125697,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41824,
-      "num": 41824,
-      "word": "飞驰人生3",
-      "onboard_time": 1772133854,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 41639,
-      "num": 51746,
-      "word": "纯真年代的爱情",
-      "onboard_time": 1772105961,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 38608,
@@ -531,14 +539,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 26120,
-      "num": 26120,
-      "word": "30秒内3次预警救了一车人",
-      "onboard_time": 1772136313,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23976,
       "num": 159930,
       "word": "15后娃开始整顿亲戚",
@@ -547,24 +547,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19934,
-      "num": 19531,
-      "word": "重庆有顾客就餐时卡式炉爆炸",
-      "onboard_time": 1772130616,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19878,
-      "num": 19878,
+      "raw_hot": 21352,
+      "num": 21352,
       "word": "王一博2026春晚完整彩排视频",
       "onboard_time": 1772129475,
       "rank": 33,
       "category": "综艺"
     },
     {
-      "raw_hot": 18237,
-      "num": 18499,
+      "raw_hot": 20918,
+      "num": 20918,
+      "word": "重庆有顾客就餐时卡式炉爆炸",
+      "onboard_time": 1772130616,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19015,
+      "num": 19015,
       "word": "特朗普威胁驱逐教父饰演者",
       "onboard_time": 1772132774,
       "rank": 44,
@@ -572,15 +572,31 @@
     },
     {
       "raw_hot": 18154,
-      "num": 17406,
+      "num": 18622,
       "word": "云初令",
       "onboard_time": 1772134754,
       "rank": 30,
       "category": "剧集"
     },
     {
+      "raw_hot": 17686,
+      "num": 18638,
+      "word": "金价波动",
+      "onboard_time": 1772104281,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 17320,
+      "num": 18636,
+      "word": "惊蛰无声票房破10亿",
+      "onboard_time": 1772143994,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16990,
-      "num": 16990,
+      "num": 18630,
       "word": "TOP登陆少年首张实体专",
       "onboard_time": 1772133494,
       "rank": 37,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 14955,
-      "num": 14955,
+      "num": 18624,
       "word": "唐宫奇案",
       "onboard_time": 1772137215,
       "rank": 37,
@@ -633,6 +649,22 @@
       "onboard_time": 1772111962,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13094,
+      "num": 279784,
+      "word": "春节消费市场人气旺活力足",
+      "onboard_time": 1772111841,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12815,
+      "num": 23592,
+      "word": "德企高管踮着脚看中国机器人",
+      "onboard_time": 1772113761,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 12122,
@@ -657,22 +689,6 @@
       "onboard_time": 1772108425,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8242,
-      "num": 15778,
-      "word": "德企高管踮着脚看中国机器人",
-      "onboard_time": 1772113761,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 8158,
-      "num": 134602,
-      "word": "春节消费市场人气旺活力足",
-      "onboard_time": 1772111841,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
