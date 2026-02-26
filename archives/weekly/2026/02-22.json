@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772145752170,
+  "endTime": 1772146914066,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -3235,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281260,
+      "num": 143087,
+      "word": "比尔盖茨出轨女性身份曝光",
+      "onboard_time": 1772117663,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 280894,
       "num": 258451,
       "word": "舅舅看到你剪成这样也会释怀",
@@ -5609,14 +5617,6 @@
       "onboard_time": 1771993161,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163514,
-      "num": 143087,
-      "word": "比尔盖茨出轨女性身份曝光",
-      "onboard_time": 1772117663,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 163403,
@@ -9283,6 +9283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96533,
+      "num": 96533,
+      "word": "飞驰人生3",
+      "onboard_time": 1771716497,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96458,
       "num": 98879,
       "word": "员工回应雷军发红包",
@@ -11491,6 +11499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73064,
+      "num": 73064,
+      "word": "30秒内3次预警救了一车人",
+      "onboard_time": 1772136313,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73048,
       "num": 73048,
       "word": "中方再对日本精准锁喉",
@@ -12179,14 +12195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63134,
-      "num": 63134,
-      "word": "飞驰人生3",
-      "onboard_time": 1771716497,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 63110,
       "num": 63110,
       "word": "包上恩好萌",
@@ -12196,7 +12204,7 @@
     },
     {
       "raw_hot": 63016,
-      "num": 33861,
+      "num": 41377,
       "word": "搞对象后弟弟的变化",
       "onboard_time": 1772129534,
       "rank": 30,
@@ -12803,6 +12811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49282,
+      "num": 51732,
+      "word": "刘诗诗头戴非遗绒花高雅动人",
+      "onboard_time": 1772125697,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49219,
       "num": 49219,
       "word": "时代少年团",
@@ -12913,14 +12929,6 @@
       "onboard_time": 1771855042,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47070,
-      "num": 47070,
-      "word": "30秒内3次预警救了一车人",
-      "onboard_time": 1772136313,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46912,
@@ -13065,14 +13073,6 @@
       "onboard_time": 1772031922,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 43396,
-      "num": 51732,
-      "word": "刘诗诗头戴非遗绒花高雅动人",
-      "onboard_time": 1772125697,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 43110,
@@ -13683,6 +13683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28986,
+      "num": 28986,
+      "word": "重庆有顾客就餐时卡式炉爆炸",
+      "onboard_time": 1772130616,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28799,
       "num": 607639,
       "word": "九组数据感受万马奔腾的活力春节",
@@ -13745,6 +13753,14 @@
       "onboard_time": 1771995621,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27849,
+      "num": 27849,
+      "word": "王一博2026春晚完整彩排视频",
+      "onboard_time": 1772129475,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 27468,
@@ -13825,6 +13841,14 @@
       "onboard_time": 1771795394,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25222,
+      "num": 25903,
+      "word": "特朗普威胁驱逐教父饰演者",
+      "onboard_time": 1772132774,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25162,
@@ -14011,6 +14035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22821,
+      "num": 25891,
+      "word": "TOP登陆少年首张实体专",
+      "onboard_time": 1772133494,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 22658,
       "num": 106518,
       "word": "旅客称列车显示延误却已进站开走",
@@ -14043,6 +14075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22285,
+      "num": 25883,
+      "word": "惊蛰无声票房破10亿",
+      "onboard_time": 1772143994,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22155,
       "num": 105330,
       "word": "张峻豪发的照片好像通缉令",
@@ -14073,14 +14113,6 @@
       "onboard_time": 1771828700,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21352,
-      "num": 21352,
-      "word": "王一博2026春晚完整彩排视频",
-      "onboard_time": 1772129475,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 21290,
@@ -14121,14 +14153,6 @@
       "onboard_time": 1771869016,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20918,
-      "num": 20918,
-      "word": "重庆有顾客就餐时卡式炉爆炸",
-      "onboard_time": 1772130616,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20870,
@@ -14219,14 +14243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19015,
-      "num": 19015,
-      "word": "特朗普威胁驱逐教父饰演者",
-      "onboard_time": 1772132774,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19013,
       "num": 147099,
       "word": "一觉醒来米兰冬奥闭幕了",
@@ -14289,6 +14305,14 @@
       "onboard_time": 1771788555,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17912,
+      "num": 114159,
+      "word": "德企高管踮着脚看中国机器人",
+      "onboard_time": 1772113761,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 17873,
@@ -14355,14 +14379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17320,
-      "num": 18636,
-      "word": "惊蛰无声票房破10亿",
-      "onboard_time": 1772143994,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 17203,
       "num": 18534,
       "word": "银价波动",
@@ -14387,20 +14403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16990,
-      "num": 18630,
-      "word": "TOP登陆少年首张实体专",
-      "onboard_time": 1772133494,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 16686,
       "num": 18664,
       "word": "张泽禹的手镯",
       "onboard_time": 1772130795,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 16686,
+      "num": 25852,
+      "word": "孙千这段尴尬的我狂笑",
+      "onboard_time": 1772146818,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 16481,
@@ -14417,6 +14433,14 @@
       "onboard_time": 1771833500,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16413,
+      "num": 25845,
+      "word": "玫瑰丛生",
+      "onboard_time": 1772101340,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 16395,
@@ -14449,6 +14473,22 @@
       "onboard_time": 1771941563,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15764,
+      "num": 366133,
+      "word": "春节消费市场人气旺活力足",
+      "onboard_time": 1772111841,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15520,
+      "num": 25834,
+      "word": "苏新皓好贵",
+      "onboard_time": 1772133433,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 15085,
@@ -14497,6 +14537,14 @@
       "onboard_time": 1772113402,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14573,
+      "num": 25852,
+      "word": "男篮世预赛",
+      "onboard_time": 1772108425,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 14491,
@@ -14555,14 +14603,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 13275,
-      "num": 14747,
-      "word": "苏新皓好贵",
-      "onboard_time": 1772133433,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 13267,
       "num": 18559,
       "word": "谷爱凌的评论区满是安慰和鼓励",
@@ -14576,14 +14616,6 @@
       "word": "12306已累计预售春运火车票3.76亿张",
       "onboard_time": 1772111962,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13094,
-      "num": 279784,
-      "word": "春节消费市场人气旺活力足",
-      "onboard_time": 1772111841,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -14619,14 +14651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12815,
-      "num": 114159,
-      "word": "德企高管踮着脚看中国机器人",
-      "onboard_time": 1772113761,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 12504,
       "num": 18776,
       "word": "熬夜看闭幕式",
@@ -14649,22 +14673,6 @@
       "onboard_time": 1772130916,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11574,
-      "num": 14744,
-      "word": "玫瑰丛生",
-      "onboard_time": 1772101340,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 11360,
-      "num": 14438,
-      "word": "男篮世预赛",
-      "onboard_time": 1772108425,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 10819,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1772146914066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 327064,
+        "num": 621097,
+        "word": "24岁女生成功诞下1男4女5胞胎",
+        "onboard_time": 1772115143,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194629,
+        "num": 441579,
+        "word": "手机 涨价",
+        "onboard_time": 1772096001,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15764,
+        "num": 366133,
+        "word": "春节消费市场人气旺活力足",
+        "onboard_time": 1772111841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142694,
+        "num": 142694,
+        "word": "男子谎称走亲戚欲把7岁儿子留老家",
+        "onboard_time": 1772117422,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96533,
+        "num": 96533,
+        "word": "飞驰人生3",
+        "onboard_time": 1772133854,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89769,
+        "num": 89769,
+        "word": "日本物价居然到这种程度了",
+        "onboard_time": 1772110341,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73064,
+        "num": 73064,
+        "word": "30秒内3次预警救了一车人",
+        "onboard_time": 1772136313,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66459,
+        "num": 66459,
+        "word": "一盒内存条堪比一套房",
+        "onboard_time": 1772121620,
+        "rank": 7,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 52546,
+        "num": 52546,
+        "word": "全网最黑大熊猫出现了",
+        "onboard_time": 1772110820,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44324,
+        "num": 44324,
+        "word": "尘白禁区发文回应",
+        "onboard_time": 1772111602,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281260,
+        "num": 43785,
+        "word": "比尔盖茨出轨女性身份曝光",
+        "onboard_time": 1772117663,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182062,
+        "num": 43620,
+        "word": "杨幂TOP坐一起",
+        "onboard_time": 1772121441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172149,
+        "num": 42852,
+        "word": "苹果新品来了",
+        "onboard_time": 1772116343,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143882,
+        "num": 42071,
+        "word": "冬奥花滑冠军刘美贤遭俄罗斯粉丝吐槽",
+        "onboard_time": 1772116462,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75783,
+        "num": 41936,
+        "word": "肖战Gucci看秀待遇",
+        "onboard_time": 1772114362,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 56782,
+        "num": 41377,
+        "word": "搞对象后弟弟的变化",
+        "onboard_time": 1772129534,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52617,
+        "num": 40913,
+        "word": "Prada认领杨幂",
+        "onboard_time": 1772110041,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 36492,
+        "num": 39912,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1772105961,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39809,
+        "num": 39809,
+        "word": "中方回应金正恩对韩表态",
+        "onboard_time": 1772115321,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49282,
+        "num": 39768,
+        "word": "刘诗诗头戴非遗绒花高雅动人",
+        "onboard_time": 1772125697,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52180,
+        "num": 39751,
+        "word": "中国邮政回应已叫停相关线下活动",
+        "onboard_time": 1772102060,
+        "rank": 20,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 39720,
+        "num": 39720,
+        "word": "11月宝宝从婴儿车滑落颅脑重伤",
+        "onboard_time": 1772123898,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38448,
+        "num": 38448,
+        "word": "迪丽热巴 瓦猫",
+        "onboard_time": 1772114002,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37401,
+        "num": 37401,
+        "word": "老外以为一个姓张的人研究遍及各学科",
+        "onboard_time": 1772120721,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35054,
+        "num": 35054,
+        "word": "胡一菲诺澜在短国相遇了",
+        "onboard_time": 1772105843,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32815,
+        "num": 32815,
+        "word": "网传浪姐7参赛名单",
+        "onboard_time": 1772118922,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31952,
+        "num": 31952,
+        "word": "王楚钦1比7落后逆转",
+        "onboard_time": 1772117182,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32331,
+        "num": 31779,
+        "word": "田柾国直播爆粗口",
+        "onboard_time": 1772125157,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18029,
+        "num": 31166,
+        "word": "香港山火火情基本受控",
+        "onboard_time": 1772122161,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17912,
+        "num": 30969,
+        "word": "德企高管踮着脚看中国机器人",
+        "onboard_time": 1772113761,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30884,
+        "num": 30884,
+        "word": "香港山火仍在扑救中",
+        "onboard_time": 1772126955,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29548,
+        "num": 29548,
+        "word": "郭富城一家去景区只用买一张票",
+        "onboard_time": 1772103981,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29780,
+        "num": 29305,
+        "word": "金价波动",
+        "onboard_time": 1772104281,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28986,
+        "num": 28986,
+        "word": "重庆有顾客就餐时卡式炉爆炸",
+        "onboard_time": 1772130616,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27849,
+        "num": 27849,
+        "word": "王一博2026春晚完整彩排视频",
+        "onboard_time": 1772129475,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26583,
+        "num": 26583,
+        "word": "孙燕姿新歌飞瀑而下",
+        "onboard_time": 1772116822,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25978,
+        "num": 25978,
+        "word": "谷爱凌Prada看秀",
+        "onboard_time": 1772122759,
+        "rank": 36,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 25910,
+        "num": 25910,
+        "word": "虞书欣红衣主母跳惊鸿一面",
+        "onboard_time": 1772107820,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25222,
+        "num": 25903,
+        "word": "特朗普威胁驱逐教父饰演者",
+        "onboard_time": 1772132774,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23741,
+        "num": 25899,
+        "word": "Prada生图",
+        "onboard_time": 1772131395,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 22821,
+        "num": 25891,
+        "word": "TOP登陆少年首张实体专",
+        "onboard_time": 1772133494,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22172,
+        "num": 25885,
+        "word": "中国男篮战胜日本男篮",
+        "onboard_time": 1772108601,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22285,
+        "num": 25883,
+        "word": "惊蛰无声票房破10亿",
+        "onboard_time": 1772143994,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18333,
+        "num": 25878,
+        "word": "兔闪闪道歉",
+        "onboard_time": 1772109561,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17901,
+        "num": 25870,
+        "word": "KPL春季赛",
+        "onboard_time": 1772107282,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16936,
+        "num": 25858,
+        "word": "唐宫奇案",
+        "onboard_time": 1772137215,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16686,
+        "num": 25852,
+        "word": "孙千这段尴尬的我狂笑",
+        "onboard_time": 1772146818,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14573,
+        "num": 25852,
+        "word": "男篮世预赛",
+        "onboard_time": 1772108425,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16413,
+        "num": 25845,
+        "word": "玫瑰丛生",
+        "onboard_time": 1772101340,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15520,
+        "num": 25834,
+        "word": "苏新皓好贵",
+        "onboard_time": 1772133433,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调潜绩的重要性#"
+    }
+  }
+}
