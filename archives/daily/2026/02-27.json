@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772126011855,
+  "endTime": 1772127434821,
   "band_list": [
     {
       "raw_hot": 990189,
@@ -139,12 +139,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169324,
+      "num": 84368,
+      "word": "田柾国直播爆粗口",
+      "onboard_time": 1772125157,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169115,
       "num": 169115,
       "word": "胡一菲诺澜在短国相遇了",
       "onboard_time": 1772105843,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149889,
+      "num": 149889,
+      "word": "一盒内存条堪比一套房",
+      "onboard_time": 1772121620,
+      "rank": 48,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 147321,
@@ -161,14 +177,6 @@
       "onboard_time": 1772113161,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144787,
-      "num": 144787,
-      "word": "一盒内存条堪比一套房",
-      "onboard_time": 1772121620,
-      "rank": 48,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 142876,
@@ -379,14 +387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 75199,
-      "num": 75199,
-      "word": "田柾国直播爆粗口",
-      "onboard_time": 1772125157,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73735,
       "num": 73735,
       "word": "赛里木湖上演绝美火烧云",
@@ -435,20 +435,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43396,
+      "num": 51732,
+      "word": "刘诗诗头戴非遗绒花高雅动人",
+      "onboard_time": 1772125697,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41639,
       "num": 51746,
       "word": "纯真年代的爱情",
       "onboard_time": 1772105961,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 39632,
-      "num": 51732,
-      "word": "刘诗诗头戴非遗绒花高雅动人",
-      "onboard_time": 1772125697,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 38608,
@@ -504,6 +504,14 @@
       "word": "陌生网友帮新娘堵门被邀坐主桌",
       "onboard_time": 1772120963,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13062,
+      "num": 235625,
+      "word": "12306已累计预售春运火车票3.76亿张",
+      "onboard_time": 1772111962,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
