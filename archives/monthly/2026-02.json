@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772168532658,
+  "endTime": 1772171961079,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1770992123,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1411769,
+      "num": 578986,
+      "word": "周冬雨自曝和余文乐录恋综很走心",
+      "onboard_time": 1772168900,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1410241,
@@ -3156,7 +3164,7 @@
     },
     {
       "raw_hot": 864326,
-      "num": 163449,
+      "num": 211879,
       "word": "白宇和前女友分手原因",
       "onboard_time": 1772167162,
       "rank": 26,
@@ -3729,6 +3737,14 @@
       "onboard_time": 1771893920,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 798825,
+      "num": 1127812,
+      "word": "现在就出发4",
+      "onboard_time": 1772169801,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 798483,
@@ -8603,6 +8619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477392,
+      "num": 827976,
+      "word": "丈夫准备给诞下5胞胎老婆送黄金",
+      "onboard_time": 1772169620,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 477357,
       "num": 802557,
       "word": "两名小孩扔爆竹致1200年古树起火",
@@ -9392,6 +9416,14 @@
       "word": "大年初一不能做哪些事",
       "onboard_time": 1771311501,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 447745,
+      "num": 447745,
+      "word": "山西卫健委已严肃约谈市急救中心",
+      "onboard_time": 1772166502,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -10505,6 +10537,14 @@
       "onboard_time": 1771341381,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 414201,
+      "num": 259761,
+      "word": "BLACKPINK 回归",
+      "onboard_time": 1772154381,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 413970,
@@ -13380,7 +13420,7 @@
     },
     {
       "raw_hot": 347395,
-      "num": 213782,
+      "num": 247480,
       "word": "尘白禁区联动取消",
       "onboard_time": 1772164640,
       "rank": 11,
@@ -16028,7 +16068,7 @@
     },
     {
       "raw_hot": 299719,
-      "num": 134185,
+      "num": 215037,
       "word": "赖清德罕见改口称中国大陆",
       "onboard_time": 1772164822,
       "rank": 30,
@@ -17460,7 +17500,7 @@
     },
     {
       "raw_hot": 279427,
-      "num": 211945,
+      "num": 229189,
       "word": "陈飞宇半夜健身偶遇陈哲远",
       "onboard_time": 1772166622,
       "rank": 13,
@@ -17932,7 +17972,7 @@
     },
     {
       "raw_hot": 273085,
-      "num": 213352,
+      "num": 238922,
       "word": "将微胖还给真正胖的人",
       "onboard_time": 1772160502,
       "rank": 17,
@@ -18001,6 +18041,14 @@
       "onboard_time": 1770259398,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 271907,
+      "num": 271907,
+      "word": "台独刘世芳亲属在大陆投资谋利",
+      "onboard_time": 1772167162,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 271664,
@@ -18996,7 +19044,7 @@
     },
     {
       "raw_hot": 258466,
-      "num": 181130,
+      "num": 200508,
       "word": "可以恢复视力的微习惯",
       "onboard_time": 1772165121,
       "rank": 21,
@@ -20395,27 +20443,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243021,
-      "num": 196711,
-      "word": "BLACKPINK 回归",
-      "onboard_time": 1772154381,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242913,
       "num": 242913,
       "word": "女子在加油站人肉插队躺后车引擎盖",
       "onboard_time": 1771977740,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242907,
-      "num": 242907,
-      "word": "山西卫健委已严肃约谈市急救中心",
-      "onboard_time": 1772166502,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -21345,6 +21377,14 @@
       "onboard_time": 1771473620,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 233555,
+      "num": 225167,
+      "word": "BLACKPINK GO MV",
+      "onboard_time": 1772170521,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 233504,
@@ -22571,6 +22611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221096,
+      "num": 221096,
+      "word": "程晓玥自曝孕晚期呼吸很困难",
+      "onboard_time": 1772166261,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220986,
       "num": 220986,
       "word": "世界难度第一人齐广璞",
@@ -23521,6 +23569,14 @@
       "onboard_time": 1771922242,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210328,
+      "num": 210328,
+      "word": "姐姐姐夫",
+      "onboard_time": 1772170461,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 209886,
@@ -24571,6 +24627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199813,
+      "num": 199813,
+      "word": "小徐六级277分",
+      "onboard_time": 1772171901,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 199341,
       "num": 199341,
       "word": "牛奶灌溉草莓卖出360元天价",
@@ -25033,14 +25097,6 @@
       "onboard_time": 1769862802,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195295,
-      "num": 195295,
-      "word": "台独刘世芳亲属在大陆投资谋利",
-      "onboard_time": 1772167162,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 195194,
@@ -25537,14 +25593,6 @@
       "onboard_time": 1771243237,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 191247,
-      "num": 191247,
-      "word": "程晓玥自曝孕晚期呼吸很困难",
-      "onboard_time": 1772166261,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 191147,
@@ -26417,6 +26465,14 @@
       "onboard_time": 1771411580,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183215,
+      "num": 259998,
+      "word": "千元机或将消失",
+      "onboard_time": 1772170100,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 183084,
@@ -28569,6 +28625,14 @@
       "onboard_time": 1770524842,
       "rank": 24,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 165023,
+      "num": 222093,
+      "word": "陈熠vs桥本帆乃香",
+      "onboard_time": 1772171301,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 165012,
@@ -31011,6 +31075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 148643,
+      "num": 148643,
+      "word": "极客湾",
+      "onboard_time": 1772170401,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 148639,
       "num": 106411,
       "word": "中国男壶加时局惜败",
@@ -33059,6 +33131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138544,
+      "num": 130853,
+      "word": "比尔盖茨被曝是裸体夜店常客",
+      "onboard_time": 1772170761,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 138494,
       "num": 138494,
       "word": "肖战宋佳辛芷蕾微博年度榜样影人",
@@ -33491,6 +33571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136690,
+      "num": 136690,
+      "word": "aespa新歌",
+      "onboard_time": 1772171601,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136689,
       "num": 135267,
       "word": "明日方舟",
@@ -33689,6 +33777,14 @@
       "onboard_time": 1770966500,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135789,
+      "num": 135789,
+      "word": "秦彻 洇染瑰色",
+      "onboard_time": 1772170223,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 135777,
@@ -39987,6 +40083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112375,
+      "num": 112375,
+      "word": "逐玉我对缘分小心翼翼MV",
+      "onboard_time": 1772170701,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112369,
       "num": 112369,
       "word": "内娱终于有古偶新面孔了",
@@ -40427,6 +40531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111147,
+      "num": 111147,
+      "word": "谷爱凌一边写作业一边和妈妈斗嘴",
+      "onboard_time": 1772169321,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111116,
       "num": 197191,
       "word": "腾讯内部信回应元宝春节红包分享质疑",
@@ -40681,6 +40793,14 @@
       "onboard_time": 1770092960,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110415,
+      "num": 110415,
+      "word": "男子患肺结核过年串门引家族焦虑",
+      "onboard_time": 1772167281,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110375,
@@ -43467,6 +43587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103652,
+      "num": 103652,
+      "word": "替父请假2小时致其被开除女子发声",
+      "onboard_time": 1772171182,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103651,
       "num": 133817,
       "word": "在韩国大学吃胖的人出现了",
@@ -43641,6 +43769,14 @@
       "onboard_time": 1771055060,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103220,
+      "num": 103220,
+      "word": "28岁小伙长期吃炸鸡抽出猪油汤血",
+      "onboard_time": 1772167821,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103179,
@@ -43913,6 +44049,14 @@
       "onboard_time": 1770467301,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102492,
+      "num": 102492,
+      "word": "TheShy打乒乓球去了",
+      "onboard_time": 1772168900,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 102485,
@@ -44481,6 +44625,14 @@
       "onboard_time": 1771684222,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101223,
+      "num": 103269,
+      "word": "二十年前内娱吃的什么细糠啊",
+      "onboard_time": 1772171661,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 101213,
@@ -46531,14 +46683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96496,
-      "num": 96496,
-      "word": "28岁小伙长期吃炸鸡抽出猪油汤血",
-      "onboard_time": 1772167821,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96489,
       "num": 96489,
       "word": "白鹿被自己演的吓一跳",
@@ -47313,6 +47457,14 @@
       "onboard_time": 1770692599,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94725,
+      "num": 94725,
+      "word": "小鸡崽穿雨衣还有各种款式",
+      "onboard_time": 1772171000,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 94722,
@@ -49313,6 +49465,14 @@
       "onboard_time": 1771413261,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90683,
+      "num": 127709,
+      "word": "工业辣椒挂禁止食用提示牌引热议",
+      "onboard_time": 1772168421,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90673,
@@ -54497,6 +54657,14 @@
       "onboard_time": 1770545780,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80662,
+      "num": 103235,
+      "word": "王嘉尔抽到了热巴的礼物",
+      "onboard_time": 1772171661,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 80657,
@@ -71011,14 +71179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29212,
-      "num": 127709,
-      "word": "工业辣椒挂禁止食用提示牌引热议",
-      "onboard_time": 1772168421,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29172,
       "num": 188412,
       "word": "中国留学生偶遇荷兰火车放春晚预告",
@@ -71809,6 +71969,14 @@
       "onboard_time": 1770668415,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26674,
+      "num": 212110,
+      "word": "德国总理为宇树机器人竖大拇指",
+      "onboard_time": 1772170821,
+      "rank": 19,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 26673,

@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772168532658,
+  "endTime": 1772171961079,
   "band_list": [
     {
       "raw_hot": 1531871,
@@ -9,6 +9,14 @@
       "onboard_time": 1772162781,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1411769,
+      "num": 578986,
+      "word": "周冬雨自曝和余文乐录恋综很走心",
+      "onboard_time": 1772168900,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 990189,
@@ -20,11 +28,19 @@
     },
     {
       "raw_hot": 864326,
-      "num": 163449,
+      "num": 211879,
       "word": "白宇和前女友分手原因",
       "onboard_time": 1772167162,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 798825,
+      "num": 1127812,
+      "word": "现在就出发4",
+      "onboard_time": 1772169801,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 764388,
@@ -123,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 477392,
+      "num": 827976,
+      "word": "丈夫准备给诞下5胞胎老婆送黄金",
+      "onboard_time": 1772169620,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476903,
       "num": 214762,
       "word": "金泰梨对杨幂比心",
@@ -139,6 +163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 447745,
+      "num": 447745,
+      "word": "山西卫健委已严肃约谈市急救中心",
+      "onboard_time": 1772166502,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447585,
       "num": 323425,
       "word": "网约车电车晕车的原因",
@@ -152,6 +184,14 @@
       "word": "杨幂TOP坐一起",
       "onboard_time": 1772121441,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 414201,
+      "num": 259761,
+      "word": "BLACKPINK 回归",
+      "onboard_time": 1772154381,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -204,7 +244,7 @@
     },
     {
       "raw_hot": 347395,
-      "num": 213782,
+      "num": 247480,
       "word": "尘白禁区联动取消",
       "onboard_time": 1772164640,
       "rank": 11,
@@ -236,7 +276,7 @@
     },
     {
       "raw_hot": 299719,
-      "num": 134185,
+      "num": 215037,
       "word": "赖清德罕见改口称中国大陆",
       "onboard_time": 1772164822,
       "rank": 30,
@@ -252,7 +292,7 @@
     },
     {
       "raw_hot": 279427,
-      "num": 211945,
+      "num": 229189,
       "word": "陈飞宇半夜健身偶遇陈哲远",
       "onboard_time": 1772166622,
       "rank": 13,
@@ -292,15 +332,23 @@
     },
     {
       "raw_hot": 273085,
-      "num": 213352,
+      "num": 238922,
       "word": "将微胖还给真正胖的人",
       "onboard_time": 1772160502,
       "rank": 17,
       "category": "情感"
     },
     {
+      "raw_hot": 271907,
+      "num": 271907,
+      "word": "台独刘世芳亲属在大陆投资谋利",
+      "onboard_time": 1772167162,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 258466,
-      "num": 181130,
+      "num": 200508,
       "word": "可以恢复视力的微习惯",
       "onboard_time": 1772165121,
       "rank": 21,
@@ -347,22 +395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 243021,
-      "num": 196711,
-      "word": "BLACKPINK 回归",
-      "onboard_time": 1772154381,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 242907,
-      "num": 242907,
-      "word": "山西卫健委已严肃约谈市急救中心",
-      "onboard_time": 1772166502,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241067,
       "num": 233551,
       "word": "杨幂Prada顶级待遇",
@@ -379,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233555,
+      "num": 225167,
+      "word": "BLACKPINK GO MV",
+      "onboard_time": 1772170521,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224257,
       "num": 167207,
       "word": "杨幂怼脸镜头好美",
@@ -393,6 +433,14 @@
       "onboard_time": 1772164401,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 221096,
+      "num": 221096,
+      "word": "程晓玥自曝孕晚期呼吸很困难",
+      "onboard_time": 1772166261,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 217899,
@@ -419,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210328,
+      "num": 210328,
+      "word": "姐姐姐夫",
+      "onboard_time": 1772170461,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206120,
       "num": 179516,
       "word": "最容易胖肚子的一种食物",
@@ -443,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 199813,
+      "num": 199813,
+      "word": "小徐六级277分",
+      "onboard_time": 1772171901,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 197884,
       "num": 197884,
       "word": "孙燕姿新歌飞瀑而下",
@@ -451,28 +515,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195295,
-      "num": 195295,
-      "word": "台独刘世芳亲属在大陆投资谋利",
-      "onboard_time": 1772167162,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 192748,
       "num": 192748,
       "word": "巴基斯坦对阿富汗政府公开宣战",
       "onboard_time": 1772162599,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 191247,
-      "num": 191247,
-      "word": "程晓玥自曝孕晚期呼吸很困难",
-      "onboard_time": 1772166261,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 188297,
@@ -513,6 +561,14 @@
       "onboard_time": 1772147297,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 183215,
+      "num": 259998,
+      "word": "千元机或将消失",
+      "onboard_time": 1772170100,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 182275,
@@ -563,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 165023,
+      "num": 222093,
+      "word": "陈熠vs桥本帆乃香",
+      "onboard_time": 1772171301,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160648,
       "num": 160648,
       "word": "勾中指竟然是个养生动作",
@@ -585,6 +649,14 @@
       "onboard_time": 1772121620,
       "rank": 48,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 148643,
+      "num": 148643,
+      "word": "极客湾",
+      "onboard_time": 1772170401,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 147321,
@@ -641,6 +713,30 @@
       "onboard_time": 1772108061,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 138544,
+      "num": 130853,
+      "word": "比尔盖茨被曝是裸体夜店常客",
+      "onboard_time": 1772170761,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 136690,
+      "num": 136690,
+      "word": "aespa新歌",
+      "onboard_time": 1772171601,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 135789,
+      "num": 135789,
+      "word": "秦彻 洇染瑰色",
+      "onboard_time": 1772170223,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 135139,
@@ -819,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112375,
+      "num": 112375,
+      "word": "逐玉我对缘分小心翼翼MV",
+      "onboard_time": 1772170701,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112101,
       "num": 112101,
       "word": "张艺兴小张入职第一天",
@@ -832,6 +936,22 @@
       "word": "女子花8800寻猫发现没丢想退款遭拒",
       "onboard_time": 1772162001,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111147,
+      "num": 111147,
+      "word": "谷爱凌一边写作业一边和妈妈斗嘴",
+      "onboard_time": 1772169321,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110415,
+      "num": 110415,
+      "word": "男子患肺结核过年串门引家族焦虑",
+      "onboard_time": 1772167281,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -875,6 +995,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103652,
+      "num": 103652,
+      "word": "替父请假2小时致其被开除女子发声",
+      "onboard_time": 1772171182,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103220,
+      "num": 103220,
+      "word": "28岁小伙长期吃炸鸡抽出猪油汤血",
+      "onboard_time": 1772167821,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102492,
+      "num": 102492,
+      "word": "TheShy打乒乓球去了",
+      "onboard_time": 1772168900,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102343,
       "num": 102343,
       "word": "全红婵回应和刘清漪跳舞",
@@ -905,6 +1049,14 @@
       "onboard_time": 1772155821,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101223,
+      "num": 103269,
+      "word": "二十年前内娱吃的什么细糠啊",
+      "onboard_time": 1772171661,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 98568,
@@ -939,14 +1091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96496,
-      "num": 96496,
-      "word": "28岁小伙长期吃炸鸡抽出猪油汤血",
-      "onboard_time": 1772167821,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96299,
       "num": 96299,
       "word": "比尔盖茨曾出轨桥牌美女和科学家",
@@ -969,6 +1113,14 @@
       "onboard_time": 1772122759,
       "rank": 14,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 94725,
+      "num": 94725,
+      "word": "小鸡崽穿雨衣还有各种款式",
+      "onboard_time": 1772171000,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 93650,
@@ -1017,6 +1169,14 @@
       "onboard_time": 1772152881,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90683,
+      "num": 127709,
+      "word": "工业辣椒挂禁止食用提示牌引热议",
+      "onboard_time": 1772168421,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90342,
@@ -1097,6 +1257,14 @@
       "onboard_time": 1772153600,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80662,
+      "num": 103235,
+      "word": "王嘉尔抽到了热巴的礼物",
+      "onboard_time": 1772171661,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 80435,
@@ -1427,14 +1595,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 29212,
-      "num": 127709,
-      "word": "工业辣椒挂禁止食用提示牌引热议",
-      "onboard_time": 1772168421,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28986,
       "num": 28986,
       "word": "重庆有顾客就餐时卡式炉爆炸",
@@ -1449,6 +1609,14 @@
       "onboard_time": 1772129475,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26674,
+      "num": 212110,
+      "word": "德国总理为宇树机器人竖大拇指",
+      "onboard_time": 1772170821,
+      "rank": 19,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 25814,
