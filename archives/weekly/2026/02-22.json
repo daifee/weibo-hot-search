@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772186016401,
+  "endTime": 1772186832607,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -419,6 +419,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 916581,
+      "num": 144162,
+      "word": "李胜利的狱友repo",
+      "onboard_time": 1772184322,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 915870,
       "num": 1146539,
       "word": "小车23点59分59秒下高速收费员狂喜",
@@ -665,14 +673,6 @@
       "onboard_time": 1772171182,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 783089,
-      "num": 144162,
-      "word": "李胜利的狱友repo",
-      "onboard_time": 1772184322,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 765814,
@@ -1227,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 587559,
+      "num": 228559,
+      "word": "36岁程序员被曝复工当晚猝死",
+      "onboard_time": 1772183721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 583860,
       "num": 300457,
       "word": "周深 王一博老师什么不火呀",
@@ -1240,6 +1248,14 @@
       "word": "郭富城一家去景区只用买一张票",
       "onboard_time": 1772103981,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 581283,
+      "num": 143914,
+      "word": "向华强 向佐不能搞老三老四",
+      "onboard_time": 1772183841,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1360,14 +1376,6 @@
       "word": "曝迪丽热巴与嘉行合约到期",
       "onboard_time": 1772096420,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 557987,
-      "num": 143914,
-      "word": "向华强 向佐不能搞老三老四",
-      "onboard_time": 1772183841,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1947,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 452301,
+      "num": 804632,
+      "word": "妈妈在女儿婚礼上美出圈",
+      "onboard_time": 1772184081,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 451980,
       "num": 175893,
       "word": "唐嫣你又开始自己画眉毛了吗",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1771900640,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 443797,
-      "num": 228559,
-      "word": "36岁程序员被曝复工当晚猝死",
-      "onboard_time": 1772183721,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 441515,
@@ -2931,6 +2939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 344928,
+      "num": 223843,
+      "word": "镖人破十亿刀马谛听番外",
+      "onboard_time": 1772184021,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 344605,
       "num": 188976,
       "word": "I.O.I将于5月回归",
@@ -3033,14 +3049,6 @@
       "onboard_time": 1772089400,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333147,
-      "num": 333147,
-      "word": "妈妈在女儿婚礼上美出圈",
-      "onboard_time": 1772184081,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 332668,
@@ -3947,14 +3955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266507,
-      "num": 223843,
-      "word": "镖人破十亿刀马谛听番外",
-      "onboard_time": 1772184021,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 265628,
       "num": 194214,
       "word": "王骁生理性演技",
@@ -4081,6 +4081,14 @@
       "onboard_time": 1771921580,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 261581,
+      "num": 111785,
+      "word": "于正新剧宣传博被说低俗",
+      "onboard_time": 1772186001,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261235,
@@ -4963,6 +4971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221575,
+      "num": 104572,
+      "word": "退房的时候前台拿了个徐福记的糖纸",
+      "onboard_time": 1772184921,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221240,
       "num": 221240,
       "word": "新疆尉犁5.1级地震",
@@ -5049,6 +5065,14 @@
       "onboard_time": 1771926081,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 215913,
+      "num": 177231,
+      "word": "女孩遭猥亵爷爷维权被要求别声张",
+      "onboard_time": 1772182822,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215795,
@@ -5915,6 +5939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178280,
+      "num": 197534,
+      "word": "超短学期",
+      "onboard_time": 1772182822,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177598,
       "num": 124210,
       "word": "印度一18岁新娘在婚礼上遭枪击",
@@ -6417,14 +6449,6 @@
       "onboard_time": 1771828341,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161988,
-      "num": 161988,
-      "word": "女孩遭猥亵爷爷维权被要求别声张",
-      "onboard_time": 1772182822,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161439,
@@ -6995,6 +7019,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 144405,
+      "num": 124872,
+      "word": "王天辰 孩子太多了养不起",
+      "onboard_time": 1772184201,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144306,
       "num": 161030,
       "word": "徐志胜贴脸开大宋妍霏臭脸",
@@ -7128,14 +7160,6 @@
       "word": "边伯贤 SM",
       "onboard_time": 1771913242,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 142068,
-      "num": 124872,
-      "word": "王天辰 孩子太多了养不起",
-      "onboard_time": 1772184201,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -7385,6 +7409,14 @@
       "onboard_time": 1772004801,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137831,
+      "num": 112209,
+      "word": "白鹿抢孩子咯",
+      "onboard_time": 1772185401,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 137780,
@@ -7955,14 +7987,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 127167,
-      "num": 197534,
-      "word": "超短学期",
-      "onboard_time": 1772182822,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127117,
       "num": 114416,
       "word": "方圆脸如何颜值最大化",
@@ -8129,6 +8153,14 @@
       "onboard_time": 1771912882,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 124501,
+      "num": 90262,
+      "word": "下一个是谁",
+      "onboard_time": 1772185941,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 124484,
@@ -8667,6 +8699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117076,
+      "num": 108759,
+      "word": "白宇前女友说终于有了很骄傲的感觉",
+      "onboard_time": 1772184142,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 116921,
       "num": 116921,
       "word": "杨幂这是在米兰还是在湖南",
@@ -8713,6 +8753,14 @@
       "onboard_time": 1771760844,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116194,
+      "num": 87726,
+      "word": "张凌赫感谢林俊杰",
+      "onboard_time": 1772186120,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 116141,
@@ -8849,6 +8897,14 @@
       "onboard_time": 1771911861,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114157,
+      "num": 114157,
+      "word": "AG对战RW",
+      "onboard_time": 1772186601,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 114103,
@@ -9291,14 +9347,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 108759,
-      "num": 108759,
-      "word": "白宇前女友说终于有了很骄傲的感觉",
-      "onboard_time": 1772184142,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 108615,
       "num": 108615,
       "word": "国投白银LOF估值调整或负影响净利润",
@@ -9609,6 +9657,14 @@
       "onboard_time": 1772032282,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105952,
+      "num": 105952,
+      "word": "杨本芬承认抄袭",
+      "onboard_time": 1772186362,
+      "rank": 28,
+      "category": "读书作家"
     },
     {
       "raw_hot": 105629,
@@ -9969,14 +10025,6 @@
       "onboard_time": 1771919842,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102400,
-      "num": 112209,
-      "word": "白鹿抢孩子咯",
-      "onboard_time": 1772185401,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 102381,
@@ -11683,6 +11731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86518,
+      "num": 86518,
+      "word": "你的刷牙时间可能一直是错的",
+      "onboard_time": 1772186482,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 86497,
       "num": 86497,
       "word": "魅族手机为什么没落了",
@@ -11881,6 +11937,14 @@
       "onboard_time": 1772114122,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 84749,
+      "num": 84749,
+      "word": "被男方指婚后拒绝同房女方发声",
+      "onboard_time": 1772186541,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84745,
@@ -12177,14 +12241,6 @@
       "onboard_time": 1771890739,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 81751,
-      "num": 81751,
-      "word": "下一个是谁",
-      "onboard_time": 1772185941,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 81683,
@@ -14323,6 +14379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52305,
+      "num": 105635,
+      "word": "德国总理在杭州吃了西湖醋鱼东坡肉",
+      "onboard_time": 1772186180,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52301,
       "num": 155999,
       "word": "1米28腊肉猪头被拍1488元",
@@ -15243,6 +15307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34143,
+      "num": 105332,
+      "word": "东莞几百辆纯电公交因电池故障停运",
+      "onboard_time": 1772186661,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33631,
       "num": 1914088,
       "word": "2026新春走基层",
@@ -15353,6 +15425,14 @@
       "onboard_time": 1772001861,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 30322,
+      "num": 93396,
+      "word": "中国邮政与成人向游戏联名错在哪",
+      "onboard_time": 1772186421,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30306,
@@ -15724,7 +15804,7 @@
     },
     {
       "raw_hot": 23739,
-      "num": 643270,
+      "num": 643282,
       "word": "数读春节消费市场年味十足",
       "onboard_time": 1772184021,
       "rank": 2,
@@ -16273,6 +16353,14 @@
       "onboard_time": 1772055014,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14947,
+      "num": 125727,
+      "word": "母子溺亡村民称是非法采砂遗留水坑",
+      "onboard_time": 1772186421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14799,
