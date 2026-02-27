@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772211926244,
+  "endTime": 1772214189401,
   "band_list": [
     {
       "raw_hot": 868722,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 217136,
+      "num": 109448,
+      "word": "上一个离开嘉行的是祝绪丹",
+      "onboard_time": 1772210659,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215311,
       "num": 112277,
       "word": "曝敖瑞鹏合约到期不续",
@@ -155,12 +163,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 122281,
-      "num": 109448,
-      "word": "上一个离开嘉行的是祝绪丹",
-      "onboard_time": 1772210659,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 125498,
+      "num": 94984,
+      "word": "23岁研究生胃癌晚期称作息不规律",
+      "onboard_time": 1772211857,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121485,
@@ -227,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85458,
+      "num": 85458,
+      "word": "白宇刘萌萌2014年因戏结缘",
+      "onboard_time": 1772213357,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83256,
       "num": 117179,
       "word": "Gucci直播",
@@ -268,11 +284,19 @@
     },
     {
       "raw_hot": 70455,
-      "num": 73704,
+      "num": 104413,
       "word": "晚5秒多付1700前一辆车免费过了",
       "onboard_time": 1772210301,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68557,
+      "num": 68557,
+      "word": "虞书欣父亲起诉索要758万借贷本息",
+      "onboard_time": 1772210599,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 66350,
@@ -281,14 +305,6 @@
       "onboard_time": 1772196202,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 62528,
-      "num": 62528,
-      "word": "虞书欣父亲起诉索要758万借贷本息",
-      "onboard_time": 1772210599,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 62248,
@@ -411,20 +427,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41761,
-      "num": 41761,
-      "word": "23岁研究生胃癌晚期称作息不规律",
-      "onboard_time": 1772211857,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41567,
       "num": 41567,
       "word": "中国驻以色列使馆紧急通知",
       "onboard_time": 1772199143,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36462,
+      "num": 36462,
+      "word": "Gucci大秀生图",
+      "onboard_time": 1772212278,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 36391,
+      "num": 36391,
+      "word": "不让江山回应杨洋",
+      "onboard_time": 1772213117,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31769,
+      "num": 36382,
+      "word": "穆祉丞左中右自拍",
+      "onboard_time": 1772200342,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25417,
+      "num": 36368,
+      "word": "白银突破91美元",
+      "onboard_time": 1772213297,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 23604,
