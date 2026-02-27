@@ -1,0 +1,410 @@
+{
+  "runTime": 1772211926244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 327873,
+        "num": 590237,
+        "word": "21岁女生头晕以为没睡好查出脑梗",
+        "onboard_time": 1772205503,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279885,
+        "num": 431077,
+        "word": "提醒在伊朗的中国公民尽快撤离",
+        "onboard_time": 1772190742,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20320,
+        "num": 324850,
+        "word": "关注2026全国两会",
+        "onboard_time": 1772199022,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231862,
+        "num": 231862,
+        "word": "有美国入侵伊拉克时的味道了",
+        "onboard_time": 1772207781,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217573,
+        "num": 217573,
+        "word": "反诈老陈因多次违规被罚",
+        "onboard_time": 1772205622,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125836,
+        "num": 125836,
+        "word": "徐福记回应米兰小伙求代购酥心糖",
+        "onboard_time": 1772205023,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108476,
+        "num": 108476,
+        "word": "当妈妈把欧洲特产蒸了后",
+        "onboard_time": 1772203884,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102680,
+        "num": 102680,
+        "word": "美国双航母已就位",
+        "onboard_time": 1772199323,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93085,
+        "num": 102661,
+        "word": "张凌赫对着爱奇艺贴脸开大",
+        "onboard_time": 1772208742,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91260,
+        "num": 102096,
+        "word": "虎跳峡男游客疑因洗杯落水失联",
+        "onboard_time": 1772200823,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 764983,
+        "num": 101955,
+        "word": "美国 伊朗",
+        "onboard_time": 1772199803,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 580548,
+        "num": 101722,
+        "word": "黄金",
+        "onboard_time": 1772199683,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 442073,
+        "num": 101382,
+        "word": "杨幂谷爱凌合照 好娇啊小幂",
+        "onboard_time": 1772206283,
+        "rank": 12,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 313386,
+        "num": 101153,
+        "word": "奥黛丽厚本正完骨变薄本了",
+        "onboard_time": 1772199022,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 263056,
+        "num": 100689,
+        "word": "刘雯好性感",
+        "onboard_time": 1772208262,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258820,
+        "num": 100594,
+        "word": "吴世勋发合照",
+        "onboard_time": 1772207901,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255784,
+        "num": 100231,
+        "word": "杨洋发文回应不让江山争议",
+        "onboard_time": 1772197522,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191004,
+        "num": 100034,
+        "word": "曝敖瑞鹏合约到期不续",
+        "onboard_time": 1772207662,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172458,
+        "num": 99649,
+        "word": "肖战 这很齐夏",
+        "onboard_time": 1772198303,
+        "rank": 18,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 147555,
+        "num": 99362,
+        "word": "高市早苗反对女天皇",
+        "onboard_time": 1772205743,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 327424,
+        "num": 98971,
+        "word": "伊朗",
+        "onboard_time": 1772196983,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122281,
+        "num": 98843,
+        "word": "上一个离开嘉行的是祝绪丹",
+        "onboard_time": 1772210659,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105344,
+        "num": 98501,
+        "word": "柳智敏 我喜欢漂亮女人",
+        "onboard_time": 1772202922,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98282,
+        "num": 98282,
+        "word": "王橹杰路透",
+        "onboard_time": 1772203823,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88726,
+        "num": 88726,
+        "word": "肖战亮相Gucci秀场",
+        "onboard_time": 1772205682,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 84774,
+        "num": 84774,
+        "word": "伊军方将对美侵略予以毁灭性回应",
+        "onboard_time": 1772199983,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78934,
+        "num": 78934,
+        "word": "种地吧",
+        "onboard_time": 1772193141,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77444,
+        "num": 77444,
+        "word": "以色列",
+        "onboard_time": 1772195903,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77103,
+        "num": 77103,
+        "word": "Gucci直播",
+        "onboard_time": 1772197161,
+        "rank": 28,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 70455,
+        "num": 73704,
+        "word": "晚5秒多付1700前一辆车免费过了",
+        "onboard_time": 1772210301,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73109,
+        "num": 73109,
+        "word": "姐姐姐夫戏份",
+        "onboard_time": 1772205863,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67584,
+        "num": 67584,
+        "word": "政府借厕所遭辱骂男子要求公开道歉",
+        "onboard_time": 1772201963,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63651,
+        "num": 63651,
+        "word": "代孕子女落户争议",
+        "onboard_time": 1772193622,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 62528,
+        "num": 62528,
+        "word": "虞书欣父亲起诉索要758万借贷本息",
+        "onboard_time": 1772210599,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59404,
+        "num": 59404,
+        "word": "宁艺卓美趋第一",
+        "onboard_time": 1772195182,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57975,
+        "num": 57975,
+        "word": "镖人",
+        "onboard_time": 1772196202,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55786,
+        "num": 55786,
+        "word": "王译磊直播",
+        "onboard_time": 1772210359,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49401,
+        "num": 49401,
+        "word": "六旬老太用花洒灌肠通便直肠破裂",
+        "onboard_time": 1772194763,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48941,
+        "num": 48941,
+        "word": "梦溪选错英雄",
+        "onboard_time": 1772195663,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48615,
+        "num": 48615,
+        "word": "张极直播",
+        "onboard_time": 1772203282,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47984,
+        "num": 47984,
+        "word": "无限期退出娱乐圈除非有商务",
+        "onboard_time": 1772191582,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46963,
+        "num": 46963,
+        "word": "养过小孩的才知道他有多会教",
+        "onboard_time": 1772189480,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44059,
+        "num": 44059,
+        "word": "下一个是谁",
+        "onboard_time": 1772185941,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43657,
+        "num": 43657,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1772193442,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42621,
+        "num": 42621,
+        "word": "草莓价格跌至1元一斤",
+        "onboard_time": 1772187800,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41761,
+        "num": 41761,
+        "word": "23岁研究生胃癌晚期称作息不规律",
+        "onboard_time": 1772211857,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41595,
+        "num": 41595,
+        "word": "宝可梦风与波",
+        "onboard_time": 1772203043,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41567,
+        "num": 41567,
+        "word": "中国驻以色列使馆紧急通知",
+        "onboard_time": 1772199143,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41477,
+        "num": 41477,
+        "word": "小徐已成立公司",
+        "onboard_time": 1772201423,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38092,
+        "num": 41444,
+        "word": "去年59元买的内存卡今年卖197元",
+        "onboard_time": 1772206643,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

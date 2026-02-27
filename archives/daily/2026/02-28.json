@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772211103212,
+  "endTime": 1772211926244,
   "band_list": [
     {
       "raw_hot": 868722,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231862,
+      "num": 231862,
+      "word": "有美国入侵伊拉克时的味道了",
+      "onboard_time": 1772207781,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 215311,
       "num": 112277,
       "word": "曝敖瑞鹏合约到期不续",
@@ -105,14 +113,6 @@
       "onboard_time": 1772198303,
       "rank": 21,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 205342,
-      "num": 205342,
-      "word": "有美国入侵伊拉克时的味道了",
-      "onboard_time": 1772207781,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 168093,
@@ -155,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122281,
+      "num": 109448,
+      "word": "上一个离开嘉行的是祝绪丹",
+      "onboard_time": 1772210659,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121485,
       "num": 110301,
       "word": "王橹杰路透",
@@ -177,14 +185,6 @@
       "onboard_time": 1772208742,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109448,
-      "num": 109448,
-      "word": "上一个离开嘉行的是祝绪丹",
-      "onboard_time": 1772210659,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 105694,
@@ -267,12 +267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70455,
+      "num": 73704,
+      "word": "晚5秒多付1700前一辆车免费过了",
+      "onboard_time": 1772210301,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66350,
       "num": 66350,
       "word": "镖人",
       "onboard_time": 1772196202,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 62528,
+      "num": 62528,
+      "word": "虞书欣父亲起诉索要758万借贷本息",
+      "onboard_time": 1772210599,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 62248,
@@ -291,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55706,
-      "num": 68497,
-      "word": "晚5秒多付1700前一辆车免费过了",
-      "onboard_time": 1772210301,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 55786,
+      "num": 55786,
+      "word": "王译磊直播",
+      "onboard_time": 1772210359,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 55684,
@@ -355,14 +371,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 49822,
-      "num": 49701,
-      "word": "虞书欣父亲起诉索要758万借贷本息",
-      "onboard_time": 1772210599,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49710,
       "num": 49710,
       "word": "宝可梦风与波",
@@ -393,6 +401,30 @@
       "onboard_time": 1772211018,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43657,
+      "num": 43657,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1772193442,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 41761,
+      "num": 41761,
+      "word": "23岁研究生胃癌晚期称作息不规律",
+      "onboard_time": 1772211857,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41567,
+      "num": 41567,
+      "word": "中国驻以色列使馆紧急通知",
+      "onboard_time": 1772199143,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23604,
