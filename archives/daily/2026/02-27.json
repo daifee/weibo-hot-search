@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772177397095,
+  "endTime": 1772179444623,
   "band_list": [
     {
       "raw_hot": 1567215,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 970560,
+      "num": 171019,
+      "word": "Tiffany卞耀汉结婚",
+      "onboard_time": 1772176161,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 881068,
       "num": 240965,
       "word": "小徐六级277分",
@@ -43,20 +51,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 847260,
-      "num": 171019,
-      "word": "Tiffany卞耀汉结婚",
-      "onboard_time": 1772176161,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 798825,
-      "num": 1127812,
+      "raw_hot": 844811,
+      "num": 1135169,
       "word": "现在就出发4",
       "onboard_time": 1772169801,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 807938,
+      "num": 847421,
+      "word": "意大利小偷把肾结石误认黄金偷走",
+      "onboard_time": 1772176400,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 792781,
@@ -219,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 437641,
+      "num": 182335,
+      "word": "伊能静 真的别再雌竞了",
+      "onboard_time": 1772176400,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436893,
       "num": 202274,
       "word": "杨幂TOP坐一起",
@@ -307,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 333271,
+      "num": 179543,
+      "word": "刘晓艳现身小徐直播间",
+      "onboard_time": 1772175859,
+      "rank": 40,
+      "category": "网红,教育"
+    },
+    {
       "raw_hot": 332668,
       "num": 332668,
       "word": "魅族公告",
@@ -321,14 +345,6 @@
       "onboard_time": 1772111602,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 318880,
-      "num": 318880,
-      "word": "意大利小偷把肾结石误认黄金偷走",
-      "onboard_time": 1772176400,
-      "rank": 7,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 310876,
@@ -475,12 +491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248323,
+      "num": 159065,
+      "word": "头像洁癖",
+      "onboard_time": 1772176581,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243099,
       "num": 191969,
       "word": "全国妈妈的统一夜晚",
       "onboard_time": 1772148138,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242071,
+      "num": 242071,
+      "word": "Cat退役发长文",
+      "onboard_time": 1772176581,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 241067,
@@ -667,20 +699,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 179083,
-      "num": 179083,
-      "word": "刘晓艳现身小徐直播间",
-      "onboard_time": 1772175859,
-      "rank": 40,
-      "category": "网红,教育"
-    },
-    {
-      "raw_hot": 170849,
-      "num": 170849,
-      "word": "Cat退役发长文",
-      "onboard_time": 1772176581,
-      "rank": 22,
-      "category": "电竞"
+      "raw_hot": 176669,
+      "num": 176669,
+      "word": "43岁也能考编了",
+      "onboard_time": 1772178622,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169324,
@@ -715,6 +739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165478,
+      "num": 158367,
+      "word": "今天的饺子是王一博擀的皮",
+      "onboard_time": 1772177301,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165452,
       "num": 165452,
       "word": "巴基斯坦航天员将入驻中国空间站",
@@ -731,20 +763,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161041,
-      "num": 161041,
-      "word": "伊能静 真的别再雌竞了",
-      "onboard_time": 1772176400,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160648,
       "num": 160648,
       "word": "勾中指竟然是个养生动作",
       "onboard_time": 1772158159,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 158294,
+      "num": 158294,
+      "word": "魅族",
+      "onboard_time": 1772176642,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 154876,
@@ -755,20 +787,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151313,
+      "num": 151313,
+      "word": "高叶宋妍霏回应臭脸",
+      "onboard_time": 1772176821,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150780,
       "num": 150780,
       "word": "刘宇宁到了现代剧也是一身侠气",
       "onboard_time": 1772147896,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149964,
-      "num": 149964,
-      "word": "头像洁癖",
-      "onboard_time": 1772176581,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 149889,
@@ -796,7 +828,7 @@
     },
     {
       "raw_hot": 145684,
-      "num": 642191,
+      "num": 677321,
       "word": "美国发动网攻侵占全球虚拟资产",
       "onboard_time": 1772155940,
       "rank": 2,
@@ -987,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117667,
+      "num": 117667,
+      "word": "见春天 陈飞宇王影璐",
+      "onboard_time": 1772178561,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117223,
       "num": 117223,
       "word": "田曦薇 樊长玉",
@@ -1009,6 +1049,14 @@
       "onboard_time": 1772104041,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116386,
+      "num": 116386,
+      "word": "少女时代第一个结婚的人",
+      "onboard_time": 1772178021,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 116368,
@@ -1057,14 +1105,6 @@
       "onboard_time": 1772114362,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 113727,
-      "num": 113727,
-      "word": "魅族",
-      "onboard_time": 1772176642,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 113496,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1772176701,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110785,
-      "num": 110785,
-      "word": "高叶宋妍霏回应臭脸",
-      "onboard_time": 1772176821,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 109820,
@@ -1201,6 +1233,14 @@
       "onboard_time": 1772173461,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102669,
+      "num": 102669,
+      "word": "唐嫣Fendi大秀位置",
+      "onboard_time": 1772178261,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 102343,
@@ -1299,14 +1339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96988,
-      "num": 94855,
-      "word": "今天的饺子是王一博擀的皮",
-      "onboard_time": 1772177301,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96942,
       "num": 96942,
       "word": "成都沪上阿姨HR辱骂求职者",
@@ -1347,6 +1379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93784,
+      "num": 118485,
+      "word": "蒯曼无缘新加坡大满贯八强",
+      "onboard_time": 1772179101,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93650,
       "num": 93650,
       "word": "曝迪丽热巴与嘉行合约到期",
@@ -1371,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93232,
+      "num": 93232,
+      "word": "P图的时候忘记P的是实况",
+      "onboard_time": 1772177902,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93061,
       "num": 93061,
       "word": "林俊杰2026首支单曲",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1772115863,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 92250,
+      "num": 92250,
+      "word": "草莓开屏",
+      "onboard_time": 1772177961,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 91570,
@@ -1419,6 +1475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 89650,
+      "num": 89650,
+      "word": "王天辰 今天换我来",
+      "onboard_time": 1772179162,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89613,
       "num": 89613,
       "word": "春节后北京飞三亚300元",
@@ -1435,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88368,
+      "num": 88368,
+      "word": "宋木子和张凌赫我还是分得清的",
+      "onboard_time": 1772179341,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88070,
       "num": 88070,
       "word": "7月大女婴坠入开水锅母亲发声",
@@ -1443,12 +1515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86921,
+      "num": 85774,
+      "word": "尹净汉在香港",
+      "onboard_time": 1772179401,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86751,
       "num": 86751,
       "word": "发1.8亿年终奖公司开工3天爆单",
       "onboard_time": 1772102481,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86163,
+      "num": 86163,
+      "word": "小当家复活失败",
+      "onboard_time": 1772178982,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 83866,
@@ -1643,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65325,
+      "num": 93417,
+      "word": "虎跳峡落水失联男子仍未找到",
+      "onboard_time": 1772178081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64944,
       "num": 64944,
       "word": "男子回应过年杀鸭杀出超6克黄金",
@@ -1723,6 +1819,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 56193,
+      "num": 97106,
+      "word": "白鹿真帮手假客人",
+      "onboard_time": 1772178860,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56191,
       "num": 56191,
       "word": "纯真年代的爱情",
@@ -1745,6 +1849,14 @@
       "onboard_time": 1772103620,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 51189,
+      "num": 160467,
+      "word": "杨幂登陆少年组合Prada大秀同框",
+      "onboard_time": 1772177661,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 49617,
@@ -1785,6 +1897,14 @@
       "onboard_time": 1772104281,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 42872,
+      "num": 93298,
+      "word": "老年病正悄悄逼近年轻人",
+      "onboard_time": 1772178502,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 42820,
@@ -1977,6 +2097,14 @@
       "onboard_time": 1772101340,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15688,
+      "num": 104769,
+      "word": "洗涤公司被反映月薪3000元工作19小时",
+      "onboard_time": 1772179281,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15520,
