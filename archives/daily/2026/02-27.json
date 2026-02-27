@@ -1,7 +1,23 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772198057945,
+  "endTime": 1772199592350,
   "band_list": [
+    {
+      "raw_hot": 2140390,
+      "num": 259184,
+      "word": "伊朗",
+      "onboard_time": 1772196983,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1829023,
+      "num": 248850,
+      "word": "杨洋发文回应不让江山争议",
+      "onboard_time": 1772197522,
+      "rank": 12,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 1567215,
       "num": 578986,
@@ -19,16 +35,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1325007,
-      "num": 259184,
-      "word": "伊朗",
-      "onboard_time": 1772196983,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 1099841,
-      "num": 1175974,
+      "raw_hot": 1193067,
+      "num": 1193067,
       "word": "提醒在伊朗的中国公民尽快撤离",
       "onboard_time": 1772190742,
       "rank": 0,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1053562,
-      "num": 244876,
+      "num": 245445,
       "word": "无限期退出娱乐圈除非有商务",
       "onboard_time": 1772191582,
       "rank": 24,
@@ -59,16 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 934159,
-      "num": 242574,
-      "word": "杨洋发文回应不让江山争议",
-      "onboard_time": 1772197522,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 924524,
-      "num": 535305,
+      "raw_hot": 953324,
+      "num": 685909,
       "word": "Gucci直播",
       "onboard_time": 1772197161,
       "rank": 3,
@@ -113,6 +113,14 @@
       "onboard_time": 1772167162,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 844337,
+      "num": 241078,
+      "word": "肖战 这很齐夏",
+      "onboard_time": 1772198303,
+      "rank": 14,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 820983,
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 678049,
+      "num": 242555,
+      "word": "以色列",
+      "onboard_time": 1772195903,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 655236,
       "num": 363222,
       "word": "下一个是谁",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 650549,
-      "num": 193084,
+      "num": 228898,
       "word": "杨洋的手好肿",
       "onboard_time": 1772190801,
       "rank": 24,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 543849,
-      "num": 231030,
+      "num": 234249,
       "word": "代孕子女落户争议",
       "onboard_time": 1772193622,
       "rank": 13,
@@ -331,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 519442,
+      "num": 348667,
+      "word": "男子高速路上发现62具宠物尸体",
+      "onboard_time": 1772196983,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 512732,
       "num": 150059,
       "word": "曝白宇还和刘萌萌在一起",
@@ -339,16 +363,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 508797,
-      "num": 218559,
-      "word": "以色列",
-      "onboard_time": 1772195903,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 508310,
-      "num": 213939,
+      "num": 235688,
       "word": "宁艺卓美趋第一",
       "onboard_time": 1772195182,
       "rank": 15,
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 432143,
-      "num": 204421,
+      "num": 214048,
       "word": "肖战震惊TODS老爷爷的翻盖手机",
       "onboard_time": 1772197102,
       "rank": 16,
@@ -547,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359699,
+      "num": 359699,
+      "word": "00后员工年薪80万是老板的6倍",
+      "onboard_time": 1772195542,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356341,
       "num": 356341,
       "word": "男子谎称走亲戚欲把7岁儿子留老家",
@@ -601,14 +625,6 @@
       "onboard_time": 1772184021,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 343716,
-      "num": 343716,
-      "word": "00后员工年薪80万是老板的6倍",
-      "onboard_time": 1772195542,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333271,
@@ -803,14 +819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 260913,
-      "num": 260913,
-      "word": "男子高速路上发现62具宠物尸体",
-      "onboard_time": 1772196983,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258466,
       "num": 200508,
       "word": "可以恢复视力的微习惯",
@@ -945,6 +953,14 @@
       "onboard_time": 1772175500,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 228407,
+      "num": 228407,
+      "word": "奥黛丽厚本正完骨变薄本了",
+      "onboard_time": 1772199022,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 224257,
@@ -1211,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174590,
+      "num": 215124,
+      "word": "米哈游公布猝死员工生前工作轨迹",
+      "onboard_time": 1772196682,
+      "rank": 26,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 171645,
       "num": 171645,
       "word": "X电竞打WBG",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1772136313,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167493,
+      "num": 167493,
+      "word": "宁艺卓蛇纹皮衣",
+      "onboard_time": 1772197883,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167134,
@@ -1323,14 +1355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152312,
-      "num": 152312,
-      "word": "米哈游公布猝死员工生前工作轨迹",
-      "onboard_time": 1772196682,
-      "rank": 26,
-      "category": "民生新闻,游戏"
-    },
-    {
       "raw_hot": 151313,
       "num": 151313,
       "word": "高叶宋妍霏回应臭脸",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1772121620,
       "rank": 48,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 148071,
+      "num": 143398,
+      "word": "镖人",
+      "onboard_time": 1772196202,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 147321,
@@ -1449,14 +1481,6 @@
       "onboard_time": 1772120721,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 139252,
-      "num": 139252,
-      "word": "镖人",
-      "onboard_time": 1772196202,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 138903,
@@ -1563,12 +1587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129460,
-      "num": 117780,
-      "word": "宁艺卓蛇纹皮衣",
-      "onboard_time": 1772197883,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 128784,
+      "num": 128784,
+      "word": "苏新皓什么时候直播",
+      "onboard_time": 1772194161,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 128556,
@@ -1633,6 +1657,14 @@
       "onboard_time": 1772192660,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122769,
+      "num": 129290,
+      "word": "中国驻以色列使馆紧急通知",
+      "onboard_time": 1772199143,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122423,
@@ -1875,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109384,
+      "num": 109384,
+      "word": "美国双航母已就位",
+      "onboard_time": 1772199323,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107583,
       "num": 107583,
       "word": "TheShy打乒乓球去了",
@@ -1913,6 +1953,14 @@
       "onboard_time": 1772118442,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106387,
+      "num": 106387,
+      "word": "于适吃盖浇饭庆祝镖人破10亿",
+      "onboard_time": 1772198003,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 106199,
@@ -2283,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91349,
+      "num": 91349,
+      "word": "弟弟凭一双手死死拦住迎亲队伍",
+      "onboard_time": 1772194944,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91312,
       "num": 91312,
       "word": "迪丽热巴方辟谣瓦猫",
@@ -2379,12 +2435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86611,
+      "num": 86611,
+      "word": "中国地图软件在外网火了",
+      "onboard_time": 1772198123,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 86163,
       "num": 86163,
       "word": "小当家复活失败",
       "onboard_time": 1772178982,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 85779,
+      "num": 85779,
+      "word": "SD卡涨价三倍猛过黄金",
+      "onboard_time": 1772195843,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 84996,
@@ -2419,6 +2491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 82650,
+      "num": 82650,
+      "word": "遇到和自己长很像的人是什么体验",
+      "onboard_time": 1772198662,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82519,
       "num": 82519,
       "word": "白鹿宣传赵晴在你眉梢种红豆",
@@ -2441,14 +2521,6 @@
       "onboard_time": 1772110041,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 81861,
-      "num": 99567,
-      "word": "于适吃盖浇饭庆祝镖人破10亿",
-      "onboard_time": 1772198003,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 81767,
@@ -2827,6 +2899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44970,
+      "num": 100068,
+      "word": "遭公开催退彩礼女方称拒同房不属实",
+      "onboard_time": 1772198782,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42989,
       "num": 105454,
       "word": "黄景瑜抓内鬼王天辰扫雷",
@@ -3027,6 +3107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22890,
+      "num": 699115,
+      "word": "关注2026全国两会",
+      "onboard_time": 1772199022,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22821,
       "num": 25891,
       "word": "TOP登陆少年首张实体专",
@@ -3204,6 +3292,9 @@
     },
     {
       "word": "#十四五规划主要目标任务胜利完成#"
+    },
+    {
+      "word": "#中共中央政治局召开会议#"
     }
   ]
 }

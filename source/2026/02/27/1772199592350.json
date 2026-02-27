@@ -1,0 +1,410 @@
+{
+  "runTime": 1772199592350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1193067,
+        "num": 1193067,
+        "word": "提醒在伊朗的中国公民尽快撤离",
+        "onboard_time": 1772190742,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 403979,
+        "num": 867069,
+        "word": "草莓价格跌至1元一斤",
+        "onboard_time": 1772187800,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22890,
+        "num": 699115,
+        "word": "关注2026全国两会",
+        "onboard_time": 1772199022,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 953324,
+        "num": 685909,
+        "word": "Gucci直播",
+        "onboard_time": 1772197161,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 359699,
+        "num": 359699,
+        "word": "00后员工年薪80万是老板的6倍",
+        "onboard_time": 1772195542,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519442,
+        "num": 348667,
+        "word": "男子高速路上发现62具宠物尸体",
+        "onboard_time": 1772196983,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295576,
+        "num": 295576,
+        "word": "退房的时候前台拿了个徐福记的糖纸",
+        "onboard_time": 1772184921,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267182,
+        "num": 267182,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1772193442,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257464,
+        "num": 257464,
+        "word": "RW 选错英雄",
+        "onboard_time": 1772193502,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223226,
+        "num": 256051,
+        "word": "林俊杰回复张凌赫",
+        "onboard_time": 1772191761,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2140390,
+        "num": 253653,
+        "word": "伊朗",
+        "onboard_time": 1772196983,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1829023,
+        "num": 248850,
+        "word": "杨洋发文回应不让江山争议",
+        "onboard_time": 1772197522,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 876732,
+        "num": 245445,
+        "word": "无限期退出娱乐圈除非有商务",
+        "onboard_time": 1772191582,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 678049,
+        "num": 242555,
+        "word": "以色列",
+        "onboard_time": 1772195903,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 844337,
+        "num": 241078,
+        "word": "肖战 这很齐夏",
+        "onboard_time": 1772198303,
+        "rank": 14,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 398499,
+        "num": 235688,
+        "word": "宁艺卓美趋第一",
+        "onboard_time": 1772195182,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345321,
+        "num": 234249,
+        "word": "代孕子女落户争议",
+        "onboard_time": 1772193622,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 406442,
+        "num": 228898,
+        "word": "杨洋的手好肿",
+        "onboard_time": 1772190801,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228407,
+        "num": 228407,
+        "word": "奥黛丽厚本正完骨变薄本了",
+        "onboard_time": 1772199022,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174590,
+        "num": 215124,
+        "word": "米哈游公布猝死员工生前工作轨迹",
+        "onboard_time": 1772196682,
+        "rank": 19,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 402997,
+        "num": 214048,
+        "word": "肖战震惊TODS老爷爷的翻盖手机",
+        "onboard_time": 1772197102,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207599,
+        "num": 207599,
+        "word": "白敬亭章若楠 二搭",
+        "onboard_time": 1772181623,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152417,
+        "num": 182727,
+        "word": "梦溪选错英雄",
+        "onboard_time": 1772195663,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181332,
+        "num": 181332,
+        "word": "种地吧",
+        "onboard_time": 1772193141,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167493,
+        "num": 167493,
+        "word": "宁艺卓蛇纹皮衣",
+        "onboard_time": 1772197883,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145133,
+        "num": 145133,
+        "word": "妈妈在女儿婚礼上美出圈",
+        "onboard_time": 1772184081,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148071,
+        "num": 143398,
+        "word": "镖人",
+        "onboard_time": 1772196202,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140901,
+        "num": 140901,
+        "word": "李胜利的狱友repo",
+        "onboard_time": 1772184322,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131237,
+        "num": 131237,
+        "word": "六旬老太用花洒灌肠通便直肠破裂",
+        "onboard_time": 1772194763,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122769,
+        "num": 129290,
+        "word": "中国驻以色列使馆紧急通知",
+        "onboard_time": 1772199143,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128784,
+        "num": 128784,
+        "word": "苏新皓什么时候直播",
+        "onboard_time": 1772194161,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126097,
+        "num": 126097,
+        "word": "下一个是谁",
+        "onboard_time": 1772185941,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122031,
+        "num": 122031,
+        "word": "官方通报母子坠入水坑溺亡",
+        "onboard_time": 1772196862,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 117699,
+        "num": 117699,
+        "word": "朱志鑫直播",
+        "onboard_time": 1772187081,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111571,
+        "num": 111571,
+        "word": "养过小孩的才知道他有多会教",
+        "onboard_time": 1772189480,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109450,
+        "num": 109450,
+        "word": "张本智和2比3弗朗西斯卡",
+        "onboard_time": 1772196382,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109384,
+        "num": 109384,
+        "word": "美国双航母已就位",
+        "onboard_time": 1772199323,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106387,
+        "num": 106387,
+        "word": "于适吃盖浇饭庆祝镖人破10亿",
+        "onboard_time": 1772198003,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100596,
+        "num": 100596,
+        "word": "双高胎直播",
+        "onboard_time": 1772194101,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44970,
+        "num": 100068,
+        "word": "遭公开催退彩礼女方称拒同房不属实",
+        "onboard_time": 1772198782,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100068,
+        "num": 100067,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1772197463,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91349,
+        "num": 91349,
+        "word": "弟弟凭一双手死死拦住迎亲队伍",
+        "onboard_time": 1772194944,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87974,
+        "num": 87974,
+        "word": "见春天 陈飞宇王影璐",
+        "onboard_time": 1772178561,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86611,
+        "num": 86611,
+        "word": "中国地图软件在外网火了",
+        "onboard_time": 1772198123,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85779,
+        "num": 85779,
+        "word": "SD卡涨价三倍猛过黄金",
+        "onboard_time": 1772195843,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84524,
+        "num": 84524,
+        "word": "BLACKPINK回归 敷衍",
+        "onboard_time": 1772191702,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84373,
+        "num": 84373,
+        "word": "李胜利唯独管GD直接叫GD",
+        "onboard_time": 1772191161,
+        "rank": 46,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 84312,
+        "num": 84312,
+        "word": "雷军再强调辅助驾驶无法代替人类",
+        "onboard_time": 1772197883,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 82720,
+        "num": 82720,
+        "word": "现在就出发4",
+        "onboard_time": 1772169801,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82650,
+        "num": 82650,
+        "word": "遇到和自己长很像的人是什么体验",
+        "onboard_time": 1772198662,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
