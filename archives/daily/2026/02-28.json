@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772232677083,
+  "endTime": 1772235221524,
   "band_list": [
     {
       "raw_hot": 868722,
@@ -41,6 +41,14 @@
       "onboard_time": 1772199022,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 346388,
+      "num": 843078,
+      "word": "23岁研究生胃癌晚期称作息不规律",
+      "onboard_time": 1772211857,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 346359,
@@ -99,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 223333,
+      "num": 94533,
+      "word": "白宇刘萌萌2014年因戏结缘",
+      "onboard_time": 1772213357,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217136,
       "num": 109448,
       "word": "上一个离开嘉行的是祝绪丹",
@@ -123,12 +139,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 207100,
-      "num": 534872,
-      "word": "23岁研究生胃癌晚期称作息不规律",
-      "onboard_time": 1772211857,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 193893,
+      "num": 629019,
+      "word": "考研今天出分",
+      "onboard_time": 1772234357,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 168093,
@@ -147,14 +163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142312,
-      "num": 85458,
-      "word": "白宇刘萌萌2014年因戏结缘",
-      "onboard_time": 1772213357,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138988,
       "num": 111001,
       "word": "柳智敏 我喜欢漂亮女人",
@@ -169,6 +177,14 @@
       "onboard_time": 1772203884,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128239,
+      "num": 128239,
+      "word": "政府借厕所遭辱骂男子要求公开道歉",
+      "onboard_time": 1772201963,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126272,
@@ -243,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87064,
+      "num": 87064,
+      "word": "王一博与库迪咖啡合约已到期",
+      "onboard_time": 1772234057,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86982,
       "num": 86982,
       "word": "姐姐姐夫戏份",
@@ -257,14 +281,6 @@
       "onboard_time": 1772197161,
       "rank": 9,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 81280,
-      "num": 109677,
-      "word": "政府借厕所遭辱骂男子要求公开道歉",
-      "onboard_time": 1772201963,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75512,
@@ -288,6 +304,14 @@
       "word": "张极直播",
       "onboard_time": 1772203282,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70773,
+      "num": 50742,
+      "word": "库迪向王一博致歉",
+      "onboard_time": 1772234236,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -315,12 +339,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 60025,
+      "num": 54590,
+      "word": "无限期退出娱乐圈除非有商务",
+      "onboard_time": 1772191582,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58249,
       "num": 58249,
       "word": "下一个是谁",
       "onboard_time": 1772185941,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56769,
+      "num": 56769,
+      "word": "养过小孩的才知道他有多会教",
+      "onboard_time": 1772189480,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 55786,
@@ -347,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53018,
-      "num": 53018,
-      "word": "养过小孩的才知道他有多会教",
-      "onboard_time": 1772189480,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 51577,
       "num": 51577,
       "word": "苏新皓突袭直播",
@@ -369,14 +401,6 @@
       "onboard_time": 1772194763,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50549,
-      "num": 50549,
-      "word": "无限期退出娱乐圈除非有商务",
-      "onboard_time": 1772191582,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 50525,
@@ -419,20 +443,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43657,
-      "num": 43657,
+      "raw_hot": 48265,
+      "num": 48265,
       "word": "纯真年代的爱情",
       "onboard_time": 1772193442,
       "rank": 43,
       "category": "剧集"
     },
     {
-      "raw_hot": 41567,
-      "num": 41567,
+      "raw_hot": 46877,
+      "num": 46877,
+      "word": "肖战男模巨星双重气场加持",
+      "onboard_time": 1772234236,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43485,
+      "num": 43485,
       "word": "中国驻以色列使馆紧急通知",
       "onboard_time": 1772199143,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41357,
+      "num": 43484,
+      "word": "美伊对峙",
+      "onboard_time": 1772203644,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36462,
@@ -444,15 +484,23 @@
     },
     {
       "raw_hot": 36391,
-      "num": 36391,
+      "num": 43415,
       "word": "不让江山回应杨洋",
       "onboard_time": 1772213117,
       "rank": 41,
       "category": "剧集"
     },
     {
+      "raw_hot": 33430,
+      "num": 43445,
+      "word": "WTT新加坡大满贯",
+      "onboard_time": 1772234057,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32503,
-      "num": 32503,
+      "num": 43409,
       "word": "江湖夜雨十年灯",
       "onboard_time": 1772214675,
       "rank": 42,
@@ -467,6 +515,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31328,
+      "num": 43440,
+      "word": "KPL春季赛",
+      "onboard_time": 1772234057,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 26029,
+      "num": 43428,
+      "word": "男篮世预赛",
+      "onboard_time": 1772235078,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25909,
+      "num": 43422,
+      "word": "Gucci大秀",
+      "onboard_time": 1772203282,
+      "rank": 46,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 25417,
       "num": 36368,
       "word": "白银突破91美元",
@@ -475,12 +547,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 24289,
-      "num": 27432,
-      "word": "Gucci大秀",
-      "onboard_time": 1772203282,
-      "rank": 46,
-      "category": "时尚,作品衍生"
+      "raw_hot": 25332,
+      "num": 43413,
+      "word": "使领馆将协助中国公民撤离伊朗",
+      "onboard_time": 1772223734,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24227,
@@ -492,7 +564,7 @@
     },
     {
       "raw_hot": 23604,
-      "num": 391436,
+      "num": 501812,
       "word": "关注2026全国两会",
       "onboard_time": 1772199022,
       "rank": 2,
@@ -505,22 +577,6 @@
       "onboard_time": 1772215636,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22122,
-      "num": 24289,
-      "word": "美伊对峙",
-      "onboard_time": 1772203644,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 18934,
-      "num": 24279,
-      "word": "使领馆将协助中国公民撤离伊朗",
-      "onboard_time": 1772223734,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18024,
