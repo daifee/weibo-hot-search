@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772221231753,
+  "endTime": 1772222083131,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -17329,6 +17329,14 @@
       "onboard_time": 1772130795,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 16520,
+      "num": 16520,
+      "word": "有歌第二季",
+      "onboard_time": 1772221754,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 16481,

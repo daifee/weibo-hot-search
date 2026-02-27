@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/22 00:39:37 ~ 2026/02/28 03:40:31
+本榜单时间：2026/02/22 00:39:37 ~ 2026/02/28 03:54:43
 </p>
 </blockquote>
 <p>
@@ -13007,6 +13007,12 @@ AI重现春晚名场面（热度：17452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%E7%9A%84%E6%89%8B%E9%95%AF%23" target="weibo">
 张泽禹的手镯（热度：16686）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%AD%8C%E7%AC%AC%E4%BA%8C%E5%AD%A3%23" target="weibo">
+有歌第二季（热度：16520）
 </a>
 </li>
 

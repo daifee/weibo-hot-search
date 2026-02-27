@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/28 00:51:43 ~ 2026/02/28 03:40:31
+本榜单时间：2026/02/28 00:51:43 ~ 2026/02/28 03:54:43
 </p>
 </blockquote>
 <p>
@@ -389,6 +389,12 @@ Gucci大秀生图（热度：36462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Gucci%E5%A4%A7%E7%A7%80%23" target="weibo">
 Gucci大秀（热度：19483）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%AD%8C%E7%AC%AC%E4%BA%8C%E5%AD%A3%23" target="weibo">
+有歌第二季（热度：16520）
 </a>
 </li>
 
