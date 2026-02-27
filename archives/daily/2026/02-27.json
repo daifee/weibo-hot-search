@@ -1,7 +1,15 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772171961079,
+  "endTime": 1772172766854,
   "band_list": [
+    {
+      "raw_hot": 1567215,
+      "num": 578986,
+      "word": "周冬雨自曝和余文乐录恋综很走心",
+      "onboard_time": 1772168900,
+      "rank": 3,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1531871,
       "num": 380781,
@@ -9,14 +17,6 @@
       "onboard_time": 1772162781,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1411769,
-      "num": 578986,
-      "word": "周冬雨自曝和余文乐录恋综很走心",
-      "onboard_time": 1772168900,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 990189,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 688842,
+      "num": 215999,
+      "word": "小徐六级277分",
+      "onboard_time": 1772171901,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 645191,
       "num": 210686,
       "word": "香港突发山火",
@@ -81,6 +89,14 @@
       "onboard_time": 1772155580,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 564234,
+      "num": 827976,
+      "word": "丈夫准备给诞下5胞胎老婆送黄金",
+      "onboard_time": 1772169620,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 556176,
@@ -139,14 +155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 477392,
-      "num": 827976,
-      "word": "丈夫准备给诞下5胞胎老婆送黄金",
-      "onboard_time": 1772169620,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 476903,
       "num": 214762,
       "word": "金泰梨对杨幂比心",
@@ -201,6 +209,14 @@
       "onboard_time": 1772147297,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 392163,
+      "num": 392163,
+      "word": "千元机或将消失",
+      "onboard_time": 1772170100,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 386587,
@@ -379,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250893,
+      "num": 225167,
+      "word": "BLACKPINK GO MV",
+      "onboard_time": 1772170521,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 249244,
       "num": 249244,
       "word": "王楚钦1比7落后逆转",
@@ -409,14 +433,6 @@
       "onboard_time": 1772155760,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 233555,
-      "num": 225167,
-      "word": "BLACKPINK GO MV",
-      "onboard_time": 1772170521,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 224257,
@@ -499,14 +515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 199813,
-      "num": 199813,
-      "word": "小徐六级277分",
-      "onboard_time": 1772171901,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 197884,
       "num": 197884,
       "word": "孙燕姿新歌飞瀑而下",
@@ -539,12 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186031,
+      "num": 186031,
+      "word": "aespa新歌",
+      "onboard_time": 1772171601,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185664,
       "num": 185664,
       "word": "向佑不满遗产分配直喊不公平",
       "onboard_time": 1772082262,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184236,
+      "num": 153405,
+      "word": "王嘉尔抽到了热巴的礼物",
+      "onboard_time": 1772171661,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 183992,
@@ -561,14 +585,6 @@
       "onboard_time": 1772147297,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 183215,
-      "num": 259998,
-      "word": "千元机或将消失",
-      "onboard_time": 1772170100,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 182275,
@@ -635,6 +651,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158006,
+      "num": 158006,
+      "word": "极客湾",
+      "onboard_time": 1772170401,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 154876,
+      "num": 141653,
+      "word": "沈月持证上岗",
+      "onboard_time": 1772172741,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150780,
       "num": 150780,
       "word": "刘宇宁到了现代剧也是一身侠气",
@@ -649,14 +681,6 @@
       "onboard_time": 1772121620,
       "rank": 48,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 148643,
-      "num": 148643,
-      "word": "极客湾",
-      "onboard_time": 1772170401,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 147321,
@@ -723,12 +747,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 136690,
-      "num": 136690,
-      "word": "aespa新歌",
-      "onboard_time": 1772171601,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 136100,
+      "num": 136100,
+      "word": "替父请假2小时致其被开除女子发声",
+      "onboard_time": 1772171182,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135789,
@@ -745,6 +769,14 @@
       "onboard_time": 1772163200,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130830,
+      "num": 130830,
+      "word": "谷爱凌一边写作业一边和妈妈斗嘴",
+      "onboard_time": 1772169321,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 129846,
@@ -777,6 +809,14 @@
       "onboard_time": 1772157261,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124799,
+      "num": 124799,
+      "word": "黎深恣情逐影",
+      "onboard_time": 1772172262,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 122423,
@@ -817,6 +857,14 @@
       "onboard_time": 1772116701,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119515,
+      "num": 119515,
+      "word": "男子患肺结核过年串门引家族焦虑",
+      "onboard_time": 1772167281,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118120,
@@ -883,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114675,
+      "num": 114675,
+      "word": "28岁小伙长期吃炸鸡抽出猪油汤血",
+      "onboard_time": 1772167821,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114166,
       "num": 114166,
       "word": "肖战Gucci看秀待遇",
@@ -939,20 +995,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111147,
-      "num": 111147,
-      "word": "谷爱凌一边写作业一边和妈妈斗嘴",
-      "onboard_time": 1772169321,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 110415,
-      "num": 110415,
-      "word": "男子患肺结核过年串门引家族焦虑",
-      "onboard_time": 1772167281,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 107583,
+      "num": 107583,
+      "word": "TheShy打乒乓球去了",
+      "onboard_time": 1772168900,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 106814,
@@ -995,30 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103652,
-      "num": 103652,
-      "word": "替父请假2小时致其被开除女子发声",
-      "onboard_time": 1772171182,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103220,
-      "num": 103220,
-      "word": "28岁小伙长期吃炸鸡抽出猪油汤血",
-      "onboard_time": 1772167821,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102492,
-      "num": 102492,
-      "word": "TheShy打乒乓球去了",
-      "onboard_time": 1772168900,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 102343,
       "num": 102343,
       "word": "全红婵回应和刘清漪跳舞",
@@ -1052,7 +1076,7 @@
     },
     {
       "raw_hot": 101223,
-      "num": 103269,
+      "num": 108337,
       "word": "二十年前内娱吃的什么细糠啊",
       "onboard_time": 1772171661,
       "rank": 38,
@@ -1171,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90790,
+      "num": 90790,
+      "word": "澳游客在泰路怒遭瑞典男子手刀身亡",
+      "onboard_time": 1772172561,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90683,
       "num": 127709,
       "word": "工业辣椒挂禁止食用提示牌引热议",
@@ -1219,6 +1251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 82519,
+      "num": 82519,
+      "word": "白鹿宣传赵晴在你眉梢种红豆",
+      "onboard_time": 1772172741,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82124,
       "num": 82124,
       "word": "女生吐槽美甲年后也必须用加油包",
@@ -1257,14 +1297,6 @@
       "onboard_time": 1772153600,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80662,
-      "num": 103235,
-      "word": "王嘉尔抽到了热巴的礼物",
-      "onboard_time": 1772171661,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 80435,
@@ -1515,6 +1547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 42820,
+      "num": 154036,
+      "word": "山东一工厂开工员工集体跪拜",
+      "onboard_time": 1772172021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40443,
       "num": 40443,
       "word": "痞幼泽龙约会",
@@ -1728,6 +1768,14 @@
       "word": "香港起火山头离民居有一定距离",
       "onboard_time": 1772130916,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11209,
+      "num": 107650,
+      "word": "彪马店员说买不起别试",
+      "onboard_time": 1772172620,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
