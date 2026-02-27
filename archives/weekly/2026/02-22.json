@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772204835463,
+  "endTime": 1772207117055,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -2211,6 +2211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 438905,
+      "num": 826786,
+      "word": "21岁女生头晕以为没睡好查出脑梗",
+      "onboard_time": 1772205503,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438661,
       "num": 228519,
       "word": "伊能静衣服吊牌没摘",
@@ -4331,6 +4339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262103,
+      "num": 174136,
+      "word": "柳智敏 我喜欢漂亮女人",
+      "onboard_time": 1772202922,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261858,
       "num": 261858,
       "word": "考研",
@@ -4425,6 +4441,22 @@
       "onboard_time": 1772029042,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257197,
+      "num": 257197,
+      "word": "政府借厕所遭辱骂男子要求公开道歉",
+      "onboard_time": 1772201963,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256912,
+      "num": 163363,
+      "word": "杨幂谷爱凌合照 好娇啊小幂",
+      "onboard_time": 1772206283,
+      "rank": 21,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 256088,
@@ -5571,12 +5603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203509,
+      "num": 203509,
+      "word": "反诈老陈因多次违规被罚",
+      "onboard_time": 1772205622,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203150,
       "num": 155419,
       "word": "双轨",
       "onboard_time": 1772023283,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202943,
+      "num": 155527,
+      "word": "肖战亮相Gucci秀场",
+      "onboard_time": 1772205682,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202929,
@@ -5616,6 +5664,14 @@
       "word": "张杰谢娜一起滑雪",
       "onboard_time": 1771926741,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201065,
+      "num": 152159,
+      "word": "王橹杰路透",
+      "onboard_time": 1772203823,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -6483,14 +6539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 174136,
-      "num": 174136,
-      "word": "柳智敏 我喜欢漂亮女人",
-      "onboard_time": 1772202922,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174084,
       "num": 174084,
       "word": "碧血蝉",
@@ -6609,14 +6657,6 @@
       "onboard_time": 1772125157,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169161,
-      "num": 169161,
-      "word": "政府借厕所遭辱骂男子要求公开道歉",
-      "onboard_time": 1772201963,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169145,
@@ -6777,6 +6817,14 @@
       "onboard_time": 1771822398,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165123,
+      "num": 165123,
+      "word": "当妈妈把欧洲特产蒸了后",
+      "onboard_time": 1772203884,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 165023,
@@ -7171,14 +7219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152159,
-      "num": 152159,
-      "word": "王橹杰路透",
-      "onboard_time": 1772203823,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151918,
       "num": 133759,
       "word": "经常熬夜是在挑战甲状腺极限",
@@ -7385,6 +7425,14 @@
       "onboard_time": 1771747398,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146693,
+      "num": 146693,
+      "word": "徐福记回应米兰小伙求代购酥心糖",
+      "onboard_time": 1772205023,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146643,
@@ -8339,14 +8387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130443,
-      "num": 130443,
-      "word": "当妈妈把欧洲特产蒸了后",
-      "onboard_time": 1772203884,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130426,
       "num": 130426,
       "word": "韩国游客爱上中国超市",
@@ -8576,6 +8616,14 @@
       "word": "刘宇宁角色热度破亿",
       "onboard_time": 1772103742,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126129,
+      "num": 126129,
+      "word": "姐姐姐夫戏份",
+      "onboard_time": 1772205863,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -9129,6 +9177,14 @@
       "onboard_time": 1772105961,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 118958,
+      "num": 118958,
+      "word": "高市早苗反对女天皇",
+      "onboard_time": 1772205743,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118915,
@@ -10025,6 +10081,14 @@
       "onboard_time": 1771989440,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108036,
+      "num": 104621,
+      "word": "刘雯高开叉亮片裙",
+      "onboard_time": 1772207062,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 107924,
@@ -11523,6 +11587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94408,
+      "num": 94408,
+      "word": "去年59元买的内存卡今年卖197元",
+      "onboard_time": 1772206643,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 94385,
       "num": 94385,
       "word": "皇家马德里称已在中国社媒道歉",
@@ -11633,6 +11705,14 @@
       "onboard_time": 1771756880,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93817,
+      "num": 93817,
+      "word": "黄金手机贴克价达12666元",
+      "onboard_time": 1772205322,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 93784,
@@ -12969,6 +13049,14 @@
       "onboard_time": 1771841000,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 82218,
+      "num": 85328,
+      "word": "4件父母不要和孩子分享的事",
+      "onboard_time": 1772206402,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82205,
