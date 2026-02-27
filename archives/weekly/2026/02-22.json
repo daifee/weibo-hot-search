@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772193272402,
+  "endTime": 1772198057945,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1325007,
+      "num": 259184,
+      "word": "伊朗",
+      "onboard_time": 1771732160,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1314771,
       "num": 1314771,
       "word": "正月剃头死舅舅的真相来了",
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1053562,
+      "num": 244876,
+      "word": "无限期退出娱乐圈除非有商务",
+      "onboard_time": 1772191582,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1048086,
       "num": 1167693,
       "word": "微信能看图片使用次数了",
@@ -409,6 +425,22 @@
       "onboard_time": 1772010800,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 934159,
+      "num": 242574,
+      "word": "杨洋发文回应不让江山争议",
+      "onboard_time": 1772197522,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 924524,
+      "num": 535305,
+      "word": "Gucci直播",
+      "onboard_time": 1772197161,
+      "rank": 3,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 922653,
@@ -1067,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 650549,
+      "num": 193084,
+      "word": "杨洋的手好肿",
+      "onboard_time": 1772190801,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 648062,
       "num": 251040,
       "word": "女子婚内出轨同居犯重婚罪获刑",
@@ -1507,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 543849,
+      "num": 231030,
+      "word": "代孕子女落户争议",
+      "onboard_time": 1772193622,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 543619,
       "num": 184891,
       "word": "大钱都是三五年挣的",
@@ -1544,14 +1592,6 @@
       "word": "王橹杰手捧红玫瑰",
       "onboard_time": 1772104521,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 537026,
-      "num": 164938,
-      "word": "杨洋的手好肿",
-      "onboard_time": 1772190801,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1665,6 +1705,22 @@
       "onboard_time": 1771730960,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 508797,
+      "num": 218559,
+      "word": "以色列",
+      "onboard_time": 1772195903,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 508310,
+      "num": 213939,
+      "word": "宁艺卓美趋第一",
+      "onboard_time": 1772195182,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 508257,
@@ -1915,14 +1971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 473051,
-      "num": 222104,
-      "word": "伊朗",
-      "onboard_time": 1771732160,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 472563,
       "num": 219863,
       "word": "女孩遭猥亵爷爷维权被要求别声张",
@@ -1969,14 +2017,6 @@
       "onboard_time": 1771723460,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 461325,
-      "num": 138779,
-      "word": "无限期退出娱乐圈除非有商务",
-      "onboard_time": 1772191582,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 458967,
@@ -2161,6 +2201,14 @@
       "onboard_time": 1772110820,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 432143,
+      "num": 204421,
+      "word": "肖战震惊TODS老爷爷的翻盖手机",
+      "onboard_time": 1772197102,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 431324,
@@ -2396,7 +2444,7 @@
     },
     {
       "raw_hot": 404978,
-      "num": 167251,
+      "num": 182361,
       "word": "肖战秀场热到一直擦汗",
       "onboard_time": 1772187261,
       "rank": 23,
@@ -2923,6 +2971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350688,
+      "num": 350688,
+      "word": "RW 选错英雄",
+      "onboard_time": 1772193502,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 350588,
       "num": 350588,
       "word": "网传现在就出发4没有金晨",
@@ -3041,6 +3097,14 @@
       "onboard_time": 1771815141,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343716,
+      "num": 343716,
+      "word": "00后员工年薪80万是老板的6倍",
+      "onboard_time": 1772195542,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 342290,
@@ -3603,6 +3667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293240,
+      "num": 293240,
+      "word": "林俊杰回复张凌赫",
+      "onboard_time": 1772191761,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292333,
       "num": 292333,
       "word": "王曼昱vs申裕斌",
@@ -3673,14 +3745,6 @@
       "onboard_time": 1772013681,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 288597,
-      "num": 243180,
-      "word": "林俊杰回复张凌赫",
-      "onboard_time": 1772191761,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 287845,
@@ -4043,6 +4107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268036,
+      "num": 268036,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1771688900,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267563,
       "num": 95477,
       "word": "黄晓明审美",
@@ -4209,6 +4281,14 @@
       "onboard_time": 1771982660,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260913,
+      "num": 260913,
+      "word": "男子高速路上发现62具宠物尸体",
+      "onboard_time": 1772196983,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259949,
@@ -5315,6 +5395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209808,
+      "num": 182242,
+      "word": "种地吧",
+      "onboard_time": 1772193141,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209715,
       "num": 165407,
       "word": "曝杨洋手里不缺剧本",
@@ -5345,14 +5433,6 @@
       "onboard_time": 1771832599,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 206384,
-      "num": 206384,
-      "word": "纯真年代的爱情",
-      "onboard_time": 1771688900,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 206120,
@@ -5521,6 +5601,14 @@
       "onboard_time": 1771790835,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199699,
+      "num": 199699,
+      "word": "梦溪选错英雄",
+      "onboard_time": 1772195663,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 199341,
@@ -6145,6 +6233,14 @@
       "onboard_time": 1771805179,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176929,
+      "num": 176929,
+      "word": "张本智和2比3弗朗西斯卡",
+      "onboard_time": 1772196382,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 176752,
@@ -6843,6 +6939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155206,
+      "num": 155206,
+      "word": "双高胎直播",
+      "onboard_time": 1772194101,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154876,
       "num": 141653,
       "word": "沈月持证上岗",
@@ -6937,6 +7041,14 @@
       "onboard_time": 1771756880,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152312,
+      "num": 152312,
+      "word": "米哈游公布猝死员工生前工作轨迹",
+      "onboard_time": 1772196682,
+      "rank": 26,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 151918,
@@ -7241,6 +7353,14 @@
       "onboard_time": 1771758806,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144617,
+      "num": 144617,
+      "word": "六旬老太用花洒灌肠通便直肠破裂",
+      "onboard_time": 1772194763,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144450,
@@ -7635,6 +7755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138449,
+      "num": 138449,
+      "word": "官方通报母子坠入水坑溺亡",
+      "onboard_time": 1772196862,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 138108,
       "num": 567148,
       "word": "广元大年初三失联男子已去世",
@@ -7963,6 +8091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 132208,
+      "num": 132208,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1772197463,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132175,
       "num": 132175,
       "word": "丁程鑫不叫兄弟叫宝贝",
@@ -8145,6 +8281,14 @@
       "onboard_time": 1771894580,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129460,
+      "num": 117780,
+      "word": "宁艺卓蛇纹皮衣",
+      "onboard_time": 1772197883,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129345,
@@ -9947,6 +10091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105446,
+      "num": 105446,
+      "word": "李昀锐周翊然新剧演父子",
+      "onboard_time": 1772194342,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105427,
       "num": 105427,
       "word": "王星越说心动的offer是恋综",
@@ -10627,6 +10779,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 99118,
+      "num": 99118,
+      "word": "郑业成演技",
+      "onboard_time": 1772193322,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99114,
       "num": 85180,
       "word": "原来从小遵守的美德已经过期了",
@@ -10771,6 +10931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97638,
+      "num": 103807,
+      "word": "米兰时装周",
+      "onboard_time": 1771920262,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 97608,
       "num": 97608,
       "word": "日本以为中方会软化立场",
@@ -10899,14 +11067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96851,
-      "num": 96851,
-      "word": "种地吧",
-      "onboard_time": 1772193141,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96826,
       "num": 96826,
       "word": "在集市上花了二十块钱买的小狗",
@@ -10929,6 +11089,14 @@
       "onboard_time": 1771858402,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96658,
+      "num": 96658,
+      "word": "雷军再强调辅助驾驶无法代替人类",
+      "onboard_time": 1772197883,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 96479,
@@ -11185,6 +11353,14 @@
       "onboard_time": 1772026463,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94031,
+      "num": 103890,
+      "word": "朱一龙因杨幂摔倒自责",
+      "onboard_time": 1772196802,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 93969,
@@ -11963,14 +12139,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 87667,
-      "num": 87667,
-      "word": "米兰时装周",
-      "onboard_time": 1771920262,
-      "rank": 48,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 87454,
       "num": 87454,
       "word": "王灿回应撞脸蔡根花",
@@ -12577,6 +12745,14 @@
       "onboard_time": 1771890739,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 81861,
+      "num": 99567,
+      "word": "于适吃盖浇饭庆祝镖人破10亿",
+      "onboard_time": 1772198003,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 81683,
@@ -13281,6 +13457,14 @@
       "onboard_time": 1772019801,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74461,
+      "num": 94669,
+      "word": "椰子水低价大战乱象调查",
+      "onboard_time": 1772196622,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 74299,
@@ -15179,6 +15363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42989,
+      "num": 105454,
+      "word": "黄景瑜抓内鬼王天辰扫雷",
+      "onboard_time": 1772197342,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42872,
       "num": 93298,
       "word": "老年病正悄悄逼近年轻人",
@@ -15497,6 +15689,14 @@
       "onboard_time": 1771677203,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37161,
+      "num": 647479,
+      "word": "一天100个电话见证海南自贸港热度",
+      "onboard_time": 1772196983,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37123,

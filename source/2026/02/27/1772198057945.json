@@ -1,0 +1,410 @@
+{
+  "runTime": 1772198057945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 859857,
+        "num": 1137577,
+        "word": "提醒在伊朗的中国公民尽快撤离",
+        "onboard_time": 1772190742,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 409255,
+        "num": 833825,
+        "word": "草莓价格跌至1元一斤",
+        "onboard_time": 1772187800,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37161,
+        "num": 647479,
+        "word": "一天100个电话见证海南自贸港热度",
+        "onboard_time": 1772196983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924524,
+        "num": 535305,
+        "word": "Gucci直播",
+        "onboard_time": 1772197161,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 350688,
+        "num": 350688,
+        "word": "RW 选错英雄",
+        "onboard_time": 1772193502,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 343716,
+        "num": 343716,
+        "word": "00后员工年薪80万是老板的6倍",
+        "onboard_time": 1772195542,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320283,
+        "num": 320283,
+        "word": "退房的时候前台拿了个徐福记的糖纸",
+        "onboard_time": 1772184921,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293240,
+        "num": 293240,
+        "word": "林俊杰回复张凌赫",
+        "onboard_time": 1772191761,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268036,
+        "num": 268036,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1772193442,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260913,
+        "num": 260913,
+        "word": "男子高速路上发现62具宠物尸体",
+        "onboard_time": 1772196983,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1325007,
+        "num": 259184,
+        "word": "伊朗",
+        "onboard_time": 1772196983,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1053562,
+        "num": 244876,
+        "word": "无限期退出娱乐圈除非有商务",
+        "onboard_time": 1772191582,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 934159,
+        "num": 242574,
+        "word": "杨洋发文回应不让江山争议",
+        "onboard_time": 1772197522,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 543849,
+        "num": 231030,
+        "word": "代孕子女落户争议",
+        "onboard_time": 1772193622,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 508797,
+        "num": 218559,
+        "word": "以色列",
+        "onboard_time": 1772195903,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 508310,
+        "num": 213939,
+        "word": "宁艺卓美趋第一",
+        "onboard_time": 1772195182,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432143,
+        "num": 204421,
+        "word": "肖战震惊TODS老爷爷的翻盖手机",
+        "onboard_time": 1772197102,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199699,
+        "num": 199699,
+        "word": "梦溪选错英雄",
+        "onboard_time": 1772195663,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 650549,
+        "num": 193084,
+        "word": "杨洋的手好肿",
+        "onboard_time": 1772190801,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263616,
+        "num": 190713,
+        "word": "白敬亭章若楠 二搭",
+        "onboard_time": 1772181623,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185493,
+        "num": 185493,
+        "word": "妈妈在女儿婚礼上美出圈",
+        "onboard_time": 1772184081,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215241,
+        "num": 182361,
+        "word": "肖战秀场热到一直擦汗",
+        "onboard_time": 1772187261,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 209808,
+        "num": 182242,
+        "word": "种地吧",
+        "onboard_time": 1772193141,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176929,
+        "num": 176929,
+        "word": "张本智和2比3弗朗西斯卡",
+        "onboard_time": 1772196382,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182090,
+        "num": 170923,
+        "word": "李胜利的狱友repo",
+        "onboard_time": 1772184322,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155206,
+        "num": 155206,
+        "word": "双高胎直播",
+        "onboard_time": 1772194101,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152312,
+        "num": 152312,
+        "word": "米哈游公布猝死员工生前工作轨迹",
+        "onboard_time": 1772196682,
+        "rank": 26,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 144617,
+        "num": 144617,
+        "word": "六旬老太用花洒灌肠通便直肠破裂",
+        "onboard_time": 1772194763,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139252,
+        "num": 139252,
+        "word": "镖人",
+        "onboard_time": 1772196202,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138449,
+        "num": 138449,
+        "word": "官方通报母子坠入水坑溺亡",
+        "onboard_time": 1772196862,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 137024,
+        "num": 137024,
+        "word": "下一个是谁",
+        "onboard_time": 1772185941,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132208,
+        "num": 132208,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1772197463,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118298,
+        "num": 118298,
+        "word": "不建议在朋友圈展示技能",
+        "onboard_time": 1772162781,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129460,
+        "num": 117780,
+        "word": "宁艺卓蛇纹皮衣",
+        "onboard_time": 1772197883,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124286,
+        "num": 117258,
+        "word": "朱志鑫直播",
+        "onboard_time": 1772187081,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111702,
+        "num": 111702,
+        "word": "养过小孩的才知道他有多会教",
+        "onboard_time": 1772189480,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111726,
+        "num": 110411,
+        "word": "见春天 陈飞宇王影璐",
+        "onboard_time": 1772178561,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108768,
+        "num": 108768,
+        "word": "李胜利唯独管GD直接叫GD",
+        "onboard_time": 1772191161,
+        "rank": 37,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 102098,
+        "num": 105622,
+        "word": "王皓开玩笑说王楚钦的签名我哪会",
+        "onboard_time": 1772190501,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42989,
+        "num": 105454,
+        "word": "黄景瑜抓内鬼王天辰扫雷",
+        "onboard_time": 1772197342,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105446,
+        "num": 105446,
+        "word": "李昀锐周翊然新剧演父子",
+        "onboard_time": 1772194342,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94031,
+        "num": 103890,
+        "word": "朱一龙因杨幂摔倒自责",
+        "onboard_time": 1772196802,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97638,
+        "num": 103807,
+        "word": "米兰时装周",
+        "onboard_time": 1772196142,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 103799,
+        "num": 103799,
+        "word": "现在就出发4",
+        "onboard_time": 1772169801,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81861,
+        "num": 99567,
+        "word": "于适吃盖浇饭庆祝镖人破10亿",
+        "onboard_time": 1772198003,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99118,
+        "num": 99118,
+        "word": "郑业成演技",
+        "onboard_time": 1772193322,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95883,
+        "num": 96753,
+        "word": "一点点资助男孩长期班级前三",
+        "onboard_time": 1772188762,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96658,
+        "num": 96658,
+        "word": "雷军再强调辅助驾驶无法代替人类",
+        "onboard_time": 1772197883,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 92138,
+        "num": 94822,
+        "word": "桃黑黑迟到",
+        "onboard_time": 1772193202,
+        "rank": 48,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 74461,
+        "num": 94669,
+        "word": "椰子水低价大战乱象调查",
+        "onboard_time": 1772196622,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四五规划主要目标任务胜利完成#"
+    }
+  }
+}
