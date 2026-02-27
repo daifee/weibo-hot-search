@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772167995824,
+  "endTime": 1772168532658,
   "band_list": [
     {
       "raw_hot": 1531871,
@@ -17,6 +17,14 @@
       "onboard_time": 1772115143,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 864326,
+      "num": 163449,
+      "word": "白宇和前女友分手原因",
+      "onboard_time": 1772167162,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 764388,
@@ -83,20 +91,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 520306,
-      "num": 162576,
-      "word": "白宇和前女友分手原因",
-      "onboard_time": 1772167162,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 512732,
       "num": 150059,
       "word": "曝白宇还和刘萌萌在一起",
       "onboard_time": 1772157200,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486696,
+      "num": 1077871,
+      "word": "逐玉定档全是柿子",
+      "onboard_time": 1772166380,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 485044,
+      "num": 485044,
+      "word": "何与虞书欣 二搭",
+      "onboard_time": 1772163023,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 480704,
@@ -139,28 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 419848,
-      "num": 768894,
-      "word": "逐玉定档全是柿子",
-      "onboard_time": 1772166380,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 411183,
       "num": 817636,
       "word": "四六级查分",
       "onboard_time": 1772147297,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 409040,
-      "num": 409040,
-      "word": "何与虞书欣 二搭",
-      "onboard_time": 1772163023,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 386587,
@@ -203,7 +203,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 339539,
+      "raw_hot": 347395,
       "num": 213782,
       "word": "尘白禁区联动取消",
       "onboard_time": 1772164640,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279427,
+      "num": 211945,
+      "word": "陈飞宇半夜健身偶遇陈哲远",
+      "onboard_time": 1772166622,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276116,
       "num": 276116,
       "word": "爱奇艺利润暴跌七成",
@@ -289,6 +297,14 @@
       "onboard_time": 1772160502,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258466,
+      "num": 181130,
+      "word": "可以恢复视力的微习惯",
+      "onboard_time": 1772165121,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 256088,
@@ -331,6 +347,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243021,
+      "num": 196711,
+      "word": "BLACKPINK 回归",
+      "onboard_time": 1772154381,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242907,
+      "num": 242907,
+      "word": "山西卫健委已严肃约谈市急救中心",
+      "onboard_time": 1772166502,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241067,
       "num": 233551,
       "word": "杨幂Prada顶级待遇",
@@ -345,22 +377,6 @@
       "onboard_time": 1772155760,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 229969,
-      "num": 211945,
-      "word": "陈飞宇半夜健身偶遇陈哲远",
-      "onboard_time": 1772166622,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 224986,
-      "num": 195387,
-      "word": "BLACKPINK 回归",
-      "onboard_time": 1772154381,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 224257,
@@ -395,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215232,
-      "num": 181130,
-      "word": "可以恢复视力的微习惯",
-      "onboard_time": 1772165121,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 213004,
       "num": 147194,
       "word": "沈月个人工作室",
@@ -417,14 +425,6 @@
       "onboard_time": 1772162540,
       "rank": 22,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 203654,
-      "num": 215332,
-      "word": "山西卫健委已严肃约谈市急救中心",
-      "onboard_time": 1772166502,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200724,
@@ -451,12 +451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195295,
+      "num": 195295,
+      "word": "台独刘世芳亲属在大陆投资谋利",
+      "onboard_time": 1772167162,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 192748,
       "num": 192748,
       "word": "巴基斯坦对阿富汗政府公开宣战",
       "onboard_time": 1772162599,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 191247,
+      "num": 191247,
+      "word": "程晓玥自曝孕晚期呼吸很困难",
+      "onboard_time": 1772166261,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 188297,
@@ -515,14 +531,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 177948,
-      "num": 177948,
-      "word": "程晓玥自曝孕晚期呼吸很困难",
-      "onboard_time": 1772166261,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169324,
       "num": 84368,
       "word": "田柾国直播爆粗口",
@@ -553,14 +561,6 @@
       "onboard_time": 1772155161,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 161426,
-      "num": 161426,
-      "word": "台独刘世芳亲属在大陆投资谋利",
-      "onboard_time": 1772167162,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 160648,
@@ -643,6 +643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 135139,
+      "num": 135139,
+      "word": "恋与深空",
+      "onboard_time": 1772163200,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129846,
       "num": 124523,
       "word": "陈丽君台湾巡演人气大爆",
@@ -657,14 +665,6 @@
       "onboard_time": 1772158701,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 126920,
-      "num": 126920,
-      "word": "恋与深空",
-      "onboard_time": 1772163200,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 126487,
@@ -763,12 +763,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116368,
+      "num": 116368,
+      "word": "亲爱的客栈开播",
+      "onboard_time": 1772168001,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116316,
       "num": 116316,
       "word": "伊朗威胁美国",
       "onboard_time": 1772148678,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115213,
+      "num": 110573,
+      "word": "张真源哄了半天哄好了0个人",
+      "onboard_time": 1772167641,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 114166,
@@ -785,6 +801,14 @@
       "onboard_time": 1772110820,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113047,
+      "num": 119784,
+      "word": "淘宝图标 褪色",
+      "onboard_time": 1772167342,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 112641,
@@ -851,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102343,
+      "num": 102343,
+      "word": "全红婵回应和刘清漪跳舞",
+      "onboard_time": 1772166380,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101973,
       "num": 101973,
       "word": "尘白禁区 中国邮政",
@@ -875,12 +907,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99986,
-      "num": 99986,
-      "word": "淘宝图标 褪色",
-      "onboard_time": 1772167342,
-      "rank": 41,
-      "category": "互联网"
+      "raw_hot": 98568,
+      "num": 98568,
+      "word": "张雅钦扛住了g社镜头",
+      "onboard_time": 1772165601,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 98311,
@@ -907,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96496,
+      "num": 96496,
+      "word": "28岁小伙长期吃炸鸡抽出猪油汤血",
+      "onboard_time": 1772167821,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96299,
       "num": 96299,
       "word": "比尔盖茨曾出轨桥牌美女和科学家",
@@ -920,14 +960,6 @@
       "word": "兔闪闪道歉",
       "onboard_time": 1772109561,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 95500,
-      "num": 95500,
-      "word": "张雅钦扛住了g社镜头",
-      "onboard_time": 1772165601,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -995,14 +1027,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 89432,
-      "num": 85579,
-      "word": "张真源哄了半天哄好了0个人",
-      "onboard_time": 1772167641,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 88423,
       "num": 88423,
       "word": "虎跳峡发疯石有游客坠江",
@@ -1024,14 +1048,6 @@
       "word": "发1.8亿年终奖公司开工3天爆单",
       "onboard_time": 1772102481,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85878,
-      "num": 85878,
-      "word": "28岁小伙长期吃炸鸡抽出猪油汤血",
-      "onboard_time": 1772167821,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1251,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57464,
+      "num": 113861,
+      "word": "逐玉特别主演刘琳严屹宽",
+      "onboard_time": 1772165781,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56541,
       "num": 134203,
       "word": "FENDI法棍包续写传奇",
@@ -1403,6 +1427,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 29212,
+      "num": 127709,
+      "word": "工业辣椒挂禁止食用提示牌引热议",
+      "onboard_time": 1772168421,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28986,
       "num": 28986,
       "word": "重庆有顾客就餐时卡式炉爆炸",
@@ -1528,6 +1560,14 @@
       "word": "香港起火山头离民居有一定距离",
       "onboard_time": 1772130916,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9284,
+      "num": 127198,
+      "word": "退彩礼父亲说若儿媳妇要彩礼照样给",
+      "onboard_time": 1772168421,
+      "rank": 33,
       "category": "民生新闻"
     }
   ],
