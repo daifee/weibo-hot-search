@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772179444623,
+  "endTime": 1772182419149,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 970560,
-      "num": 171019,
+      "num": 223461,
       "word": "Tiffany卞耀汉结婚",
       "onboard_time": 1772176161,
       "rank": 20,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 881068,
-      "num": 240965,
+      "num": 242289,
       "word": "小徐六级277分",
       "onboard_time": 1772171901,
       "rank": 23,
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 867749,
+      "num": 1138839,
+      "word": "现在就出发4",
+      "onboard_time": 1772169801,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 865135,
       "num": 603198,
       "word": "代露娃 短剧",
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 864326,
-      "num": 211879,
+      "num": 221787,
       "word": "白宇和前女友分手原因",
       "onboard_time": 1772167162,
       "rank": 26,
@@ -529,14 +537,6 @@
       "onboard_time": 1771974435,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 844811,
-      "num": 1135169,
-      "word": "现在就出发4",
-      "onboard_time": 1772169801,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 844606,
@@ -859,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 696699,
+      "num": 826457,
+      "word": "未开封杨枝甘露8天后爆炸",
+      "onboard_time": 1772179941,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 696154,
       "num": 1111384,
       "word": "谷爱凌说我不退役我才22岁",
@@ -1139,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 601388,
+      "num": 601388,
+      "word": "新娘出嫁徒手拔光碎发",
+      "onboard_time": 1772179941,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 601252,
       "num": 255194,
       "word": "卢昱晓回复外婆去世的粉丝",
@@ -1220,7 +1236,7 @@
     },
     {
       "raw_hot": 577670,
-      "num": 231583,
+      "num": 236580,
       "word": "虞书欣父亲借贷案三大焦点",
       "onboard_time": 1772175081,
       "rank": 13,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1771827799,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 575710,
+      "num": 575710,
+      "word": "43岁也能考编了",
+      "onboard_time": 1772178622,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 574259,
@@ -1459,12 +1483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 533991,
+      "num": 268001,
+      "word": "肖战米兰看秀造型",
+      "onboard_time": 1772179461,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531411,
       "num": 177543,
       "word": "江西一家人自驾返程出车祸1死4伤",
       "onboard_time": 1771944023,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 529413,
+      "num": 529413,
+      "word": "头像洁癖",
+      "onboard_time": 1772176581,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 524740,
@@ -1972,7 +2012,7 @@
     },
     {
       "raw_hot": 437641,
-      "num": 182335,
+      "num": 222651,
       "word": "伊能静 真的别再雌竞了",
       "onboard_time": 1772176400,
       "rank": 23,
@@ -2323,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 391139,
+      "num": 391139,
+      "word": "腾讯感谢爱奇艺宣传逐玉",
+      "onboard_time": 1772180240,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389496,
       "num": 389496,
       "word": "张凌赫 刺棠",
@@ -2611,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366554,
+      "num": 251040,
+      "word": "女子婚内出轨同居犯重婚罪获刑",
+      "onboard_time": 1772180121,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363794,
       "num": 328088,
       "word": "不要在吃喝方面拿捏人",
@@ -2705,6 +2761,14 @@
       "onboard_time": 1772031382,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353566,
+      "num": 353566,
+      "word": "TODS大秀",
+      "onboard_time": 1772182162,
+      "rank": 7,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 352953,
@@ -2851,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338381,
+      "num": 338381,
+      "word": "白敬亭章若楠 二搭",
+      "onboard_time": 1772181623,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337881,
       "num": 271033,
       "word": "星痕退役",
@@ -2993,6 +3065,14 @@
       "onboard_time": 1772097082,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324621,
+      "num": 223538,
+      "word": "见春天 陈飞宇王影璐",
+      "onboard_time": 1772178561,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 323973,
@@ -3281,6 +3361,14 @@
       "onboard_time": 1772164822,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 299631,
+      "num": 230744,
+      "word": "P图的时候忘记P的是实况",
+      "onboard_time": 1772177902,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 297763,
@@ -3955,6 +4043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259293,
+      "num": 222299,
+      "word": "李亚鹏官宣与哥哥和解",
+      "onboard_time": 1772181080,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258758,
       "num": 258758,
       "word": "西湖里捞起财物累计价值超600万",
@@ -4153,14 +4249,6 @@
       "onboard_time": 1771907421,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248323,
-      "num": 159065,
-      "word": "头像洁癖",
-      "onboard_time": 1772176581,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 247131,
@@ -4771,6 +4859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223433,
+      "num": 223433,
+      "word": "米哈游内部发文回应员工意外离世",
+      "onboard_time": 1772180721,
+      "rank": 22,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 223399,
       "num": 190094,
       "word": "不发朋友圈的人是什么性格",
@@ -4832,6 +4928,14 @@
       "word": "程晓玥自曝孕晚期呼吸很困难",
       "onboard_time": 1772166261,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 221076,
+      "num": 221076,
+      "word": "今天的饺子是王一博擀的皮",
+      "onboard_time": 1772177301,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -5243,6 +5347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195234,
+      "num": 195234,
+      "word": "AI短剧已经丝滑到这种程度了",
+      "onboard_time": 1772179941,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195042,
       "num": 195042,
       "word": "大理4公里拖车费1400元",
@@ -5539,6 +5651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185427,
+      "num": 185427,
+      "word": "杨幂唐嫣看秀生图",
+      "onboard_time": 1772179582,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185367,
       "num": 135422,
       "word": "柳智敏Prada待遇",
@@ -5761,14 +5881,6 @@
       "onboard_time": 1771765581,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176669,
-      "num": 176669,
-      "word": "43岁也能考编了",
-      "onboard_time": 1772178622,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176047,
@@ -6120,14 +6232,6 @@
       "word": "宋威龙和周围人不在一个图层",
       "onboard_time": 1771920382,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 165478,
-      "num": 158367,
-      "word": "今天的饺子是王一博擀的皮",
-      "onboard_time": 1772177301,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -6771,6 +6875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145673,
+      "num": 223829,
+      "word": "赵晴好灵",
+      "onboard_time": 1772181921,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144997,
       "num": 144997,
       "word": "杨洋方安抚粉丝",
@@ -7171,6 +7283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138747,
+      "num": 138747,
+      "word": "内娱男艺人要下海开酒吧了",
+      "onboard_time": 1772181140,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138108,
       "num": 567148,
       "word": "广元大年初三失联男子已去世",
@@ -7409,6 +7529,14 @@
       "onboard_time": 1771740619,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134025,
+      "num": 134025,
+      "word": "豆包严正声明",
+      "onboard_time": 1772179761,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 134023,
@@ -8369,14 +8497,6 @@
       "onboard_time": 1772166502,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117667,
-      "num": 117667,
-      "word": "见春天 陈飞宇王影璐",
-      "onboard_time": 1772178561,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 117601,
@@ -9523,6 +9643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104331,
+      "num": 104331,
+      "word": "全红婵秀街舞回应被网友攻击",
+      "onboard_time": 1772181742,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104141,
       "num": 102193,
       "word": "AL战胜WE",
@@ -9985,6 +10113,14 @@
       "onboard_time": 1771985538,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100111,
+      "num": 100111,
+      "word": "尹净汉在香港",
+      "onboard_time": 1772179401,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 99729,
@@ -10651,20 +10787,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93415,
+      "num": 108226,
+      "word": "这么多年带出去玩的内衣都错付了",
+      "onboard_time": 1772180121,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 93269,
       "num": 93269,
       "word": "刘宇宁回老家过年",
       "onboard_time": 1771844120,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93232,
-      "num": 93232,
-      "word": "P图的时候忘记P的是实况",
-      "onboard_time": 1772177902,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 93197,
@@ -11339,19 +11475,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87274,
+      "num": 87274,
+      "word": "工位打电话羞耻症",
+      "onboard_time": 1772182221,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87245,
       "num": 87245,
       "word": "丁程鑫一个人直播吃蛋糕",
       "onboard_time": 1771975577,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 86921,
-      "num": 85774,
-      "word": "尹净汉在香港",
-      "onboard_time": 1772179401,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -11601,6 +11737,14 @@
       "onboard_time": 1772016024,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 84928,
+      "num": 84928,
+      "word": "真正的门当户对",
+      "onboard_time": 1772181981,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 84884,
@@ -13691,6 +13835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59632,
+      "num": 223084,
+      "word": "为给43岁哥哥求姻缘发动全家砍树",
+      "onboard_time": 1772181140,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59520,
       "num": 59520,
       "word": "鸭棚子一个即将消失的行当",
@@ -14171,6 +14323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48976,
+      "num": 223651,
+      "word": "人社局回应女子为父请假致其被辞退",
+      "onboard_time": 1772182101,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48942,
       "num": 93092,
       "word": "王橹杰嘴一抿哞一声就背起来了",
@@ -14329,6 +14489,14 @@
       "onboard_time": 1771790354,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45945,
+      "num": 105998,
+      "word": "一点点资助男孩手表系亲戚凑钱购买",
+      "onboard_time": 1772180902,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45925,
@@ -14825,6 +14993,14 @@
       "onboard_time": 1771795334,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35831,
+      "num": 121257,
+      "word": "男子高铁抽烟还把脚放窗上",
+      "onboard_time": 1772181442,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35805,
