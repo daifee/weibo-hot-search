@@ -1,0 +1,410 @@
+{
+  "runTime": 1772159863063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 626895,
+        "num": 1100303,
+        "word": "中国人民银行公告",
+        "onboard_time": 1772155580,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 353910,
+        "num": 817636,
+        "word": "四六级查分",
+        "onboard_time": 1772147297,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145684,
+        "num": 605255,
+        "word": "美国发动网攻侵占全球虚拟资产",
+        "onboard_time": 1772155940,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369208,
+        "num": 369208,
+        "word": "南京档案馆找到谷爱凌外婆户籍卡",
+        "onboard_time": 1772151859,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350588,
+        "num": 350588,
+        "word": "网传现在就出发4没有金晨",
+        "onboard_time": 1772153962,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240870,
+        "num": 240870,
+        "word": "巴基斯坦空袭阿富汗",
+        "onboard_time": 1772155760,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200724,
+        "num": 200724,
+        "word": "好潦草的烟花真是设计鬼才",
+        "onboard_time": 1772151020,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188297,
+        "num": 188297,
+        "word": "飞驰人生3",
+        "onboard_time": 1772133854,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182275,
+        "num": 182275,
+        "word": "00后女骑手送餐遭顾客骚扰报警",
+        "onboard_time": 1772151741,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165452,
+        "num": 165452,
+        "word": "巴基斯坦航天员将入驻中国空间站",
+        "onboard_time": 1772155161,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 408716,
+        "num": 165367,
+        "word": "女子婚后拒同房法院判定不予离婚",
+        "onboard_time": 1772148678,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295330,
+        "num": 164047,
+        "word": "育儿嫂疑在房间打孩子被玻璃照出",
+        "onboard_time": 1772155040,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275665,
+        "num": 163578,
+        "word": "宝格丽代言人名单",
+        "onboard_time": 1772154560,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256088,
+        "num": 162319,
+        "word": "Gucci晒肖战邀请函",
+        "onboard_time": 1772150180,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161722,
+        "num": 161722,
+        "word": "网约车电车晕车的原因",
+        "onboard_time": 1772158282,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254105,
+        "num": 161626,
+        "word": "庆奶吻戏男主回复又老又年轻靠滤镜",
+        "onboard_time": 1772150180,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224986,
+        "num": 157540,
+        "word": "BLACKPINK 回归",
+        "onboard_time": 1772154381,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134906,
+        "num": 134906,
+        "word": "苹果新品来了",
+        "onboard_time": 1772116343,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 213004,
+        "num": 133653,
+        "word": "沈月个人工作室",
+        "onboard_time": 1772155340,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124937,
+        "num": 124937,
+        "word": "杨幂Prada顶级待遇",
+        "onboard_time": 1772159541,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137384,
+        "num": 124792,
+        "word": "勾中指竟然是个养生动作",
+        "onboard_time": 1772158159,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 764388,
+        "num": 124692,
+        "word": "疑似白宇前女友发文",
+        "onboard_time": 1772153899,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129846,
+        "num": 124523,
+        "word": "陈丽君台湾巡演人气大爆",
+        "onboard_time": 1772149758,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124027,
+        "num": 124027,
+        "word": "全国妈妈的统一夜晚",
+        "onboard_time": 1772148138,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116976,
+        "num": 116976,
+        "word": "父亲退还18.8万彩礼新娘发声",
+        "onboard_time": 1772159359,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113309,
+        "num": 115662,
+        "word": "男子谎称走亲戚欲把7岁儿子留老家",
+        "onboard_time": 1772117422,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512732,
+        "num": 115514,
+        "word": "曝白宇还和刘萌萌在一起",
+        "onboard_time": 1772157200,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115309,
+        "num": 115309,
+        "word": "吴孟达离开已经五年了",
+        "onboard_time": 1772157261,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104329,
+        "num": 104329,
+        "word": "六级",
+        "onboard_time": 1772147297,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113789,
+        "num": 104100,
+        "word": "杨幂TOP坐一起",
+        "onboard_time": 1772121441,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127117,
+        "num": 103113,
+        "word": "方圆脸如何颜值最大化",
+        "onboard_time": 1772158701,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 101617,
+        "num": 101617,
+        "word": "逐玉",
+        "onboard_time": 1772147596,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101315,
+        "num": 101315,
+        "word": "金泰梨裤子",
+        "onboard_time": 1772155821,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97599,
+        "num": 97599,
+        "word": "星露谷物语",
+        "onboard_time": 1772154801,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96942,
+        "num": 96942,
+        "word": "成都沪上阿姨HR辱骂求职者",
+        "onboard_time": 1772152401,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96299,
+        "num": 96299,
+        "word": "比尔盖茨曾出轨桥牌美女和科学家",
+        "onboard_time": 1772154981,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91312,
+        "num": 91312,
+        "word": "迪丽热巴方辟谣瓦猫",
+        "onboard_time": 1772152881,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88423,
+        "num": 88423,
+        "word": "虎跳峡发疯石有游客坠江",
+        "onboard_time": 1772158340,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88070,
+        "num": 88070,
+        "word": "7月大女婴坠入开水锅母亲发声",
+        "onboard_time": 1772151020,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84188,
+        "num": 84188,
+        "word": "王安宇 毕正明的证明",
+        "onboard_time": 1772155999,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82700,
+        "num": 82700,
+        "word": "柳智敏G社出图",
+        "onboard_time": 1772158461,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 82169,
+        "num": 82169,
+        "word": "比尔盖茨出轨女性身份曝光",
+        "onboard_time": 1772117663,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82246,
+        "num": 82095,
+        "word": "田曦薇 樊长玉",
+        "onboard_time": 1772157921,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81648,
+        "num": 81648,
+        "word": "努力在天赋面前磕了个响头",
+        "onboard_time": 1772158520,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80871,
+        "num": 80871,
+        "word": "曝程相李佳洁恋情",
+        "onboard_time": 1772153600,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80435,
+        "num": 80435,
+        "word": "曝iPad12下周发布",
+        "onboard_time": 1772159300,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 79598,
+        "num": 79598,
+        "word": "用小番茄当冰块",
+        "onboard_time": 1772156361,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 77108,
+        "num": 77108,
+        "word": "开工1天签5千万单的女子再签4千万",
+        "onboard_time": 1772159841,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73001,
+        "num": 73001,
+        "word": "女孩拒绝蔚来销售推销遭辱骂",
+        "onboard_time": 1772154200,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70034,
+        "num": 70034,
+        "word": "男子夜间开车被语音助手误关大灯",
+        "onboard_time": 1772159719,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调潜绩的重要性#"
+    }
+  }
+}
