@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772190416957,
+  "endTime": 1772192401368,
   "band_list": [
     {
       "raw_hot": 1567215,
@@ -17,6 +17,14 @@
       "onboard_time": 1772162781,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1028988,
+      "num": 1164638,
+      "word": "提醒在伊朗的中国公民尽快撤离",
+      "onboard_time": 1772190742,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 990189,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 916581,
-      "num": 171360,
+      "num": 174664,
       "word": "李胜利的狱友repo",
       "onboard_time": 1772184322,
       "rank": 20,
@@ -73,6 +81,14 @@
       "onboard_time": 1772167162,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 820983,
+      "num": 1112556,
+      "word": "草莓价格跌至1元一斤",
+      "onboard_time": 1772187800,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 807938,
@@ -115,20 +131,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 703477,
-      "num": 1112556,
-      "word": "草莓价格跌至1元一斤",
-      "onboard_time": 1772187800,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 696699,
       "num": 826457,
       "word": "未开封杨枝甘露8天后爆炸",
       "onboard_time": 1772179941,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 655236,
+      "num": 363222,
+      "word": "下一个是谁",
+      "onboard_time": 1772185941,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 648062,
@@ -163,14 +179,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 618468,
-      "num": 363222,
-      "word": "下一个是谁",
-      "onboard_time": 1772185941,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 601388,
       "num": 831668,
       "word": "新娘出嫁徒手拔光碎发",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 581283,
-      "num": 164436,
+      "num": 173836,
       "word": "向华强 向佐不能搞老三老四",
       "onboard_time": 1772183841,
       "rank": 21,
@@ -323,8 +331,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474631,
+      "num": 375237,
+      "word": "退房的时候前台拿了个徐福记的糖纸",
+      "onboard_time": 1772184921,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 472563,
-      "num": 192886,
+      "num": 219863,
       "word": "女孩遭猥亵爷爷维权被要求别声张",
       "onboard_time": 1772182822,
       "rank": 39,
@@ -337,14 +353,6 @@
       "onboard_time": 1772116343,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 455911,
-      "num": 375237,
-      "word": "退房的时候前台拿了个徐福记的糖纸",
-      "onboard_time": 1772184921,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 447745,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 404978,
-      "num": 152676,
+      "num": 167251,
       "word": "肖战秀场热到一直擦汗",
       "onboard_time": 1772187261,
       "rank": 23,
@@ -443,6 +451,14 @@
       "category": "民生新闻,游戏"
     },
     {
+      "raw_hot": 377824,
+      "num": 248429,
+      "word": "杨洋不让江山造型路透",
+      "onboard_time": 1772189181,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369208,
       "num": 369208,
       "word": "南京档案馆找到谷爱凌外婆户籍卡",
@@ -465,6 +481,14 @@
       "onboard_time": 1772181080,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352942,
+      "num": 238675,
+      "word": "下一个是谁 啊吗粽",
+      "onboard_time": 1772189061,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 350588,
@@ -523,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 319134,
+      "num": 319134,
+      "word": "一点点资助男孩长期班级前三",
+      "onboard_time": 1772188762,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310876,
       "num": 310876,
       "word": "逐玉",
@@ -563,12 +595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292925,
+      "num": 160374,
+      "word": "杨洋的手好肿",
+      "onboard_time": 1772190801,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290397,
       "num": 290397,
       "word": "彪马店员说买不起别试",
       "onboard_time": 1772172620,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284367,
+      "num": 264348,
+      "word": "德国总理在杭州吃了西湖醋鱼东坡肉",
+      "onboard_time": 1772186180,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 279427,
@@ -640,14 +688,6 @@
       "word": "台独刘世芳亲属在大陆投资谋利",
       "onboard_time": 1772167162,
       "rank": 27,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 264348,
-      "num": 264348,
-      "word": "德国总理在杭州吃了西湖醋鱼东坡肉",
-      "onboard_time": 1772186180,
-      "rank": 29,
       "category": "国内时政"
     },
     {
@@ -763,6 +803,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 239304,
+      "num": 239304,
+      "word": "FIBA国际篮联向中国男篮致歉",
+      "onboard_time": 1772189662,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 229906,
+      "num": 253765,
+      "word": "孙颖莎vs石洵瑶",
+      "onboard_time": 1772189181,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228996,
       "num": 228996,
       "word": "芯片涨价原因",
@@ -785,14 +841,6 @@
       "onboard_time": 1772164401,
       "rank": 31,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 221230,
-      "num": 191545,
-      "word": "下一个是谁 啊吗粽",
-      "onboard_time": 1772189061,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 221096,
@@ -851,6 +899,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 205541,
+      "num": 130573,
+      "word": "杨幂主动问碳酸需不需要合照",
+      "onboard_time": 1772189240,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200724,
       "num": 200724,
       "word": "好潦草的烟花真是设计鬼才",
@@ -875,6 +931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195622,
+      "num": 113589,
+      "word": "李胜利唯独管GD直接叫GD",
+      "onboard_time": 1772191161,
+      "rank": 29,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 195234,
       "num": 195234,
       "word": "AI短剧已经丝滑到这种程度了",
@@ -889,6 +953,14 @@
       "onboard_time": 1772162599,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 191550,
+      "num": 191550,
+      "word": "欧冠抽签",
+      "onboard_time": 1772191702,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 188297,
@@ -907,11 +979,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187404,
-      "num": 253765,
-      "word": "孙颖莎vs石洵瑶",
-      "onboard_time": 1772189181,
-      "rank": 40,
+      "raw_hot": 186887,
+      "num": 186887,
+      "word": "王皓开玩笑说王楚钦的签名我哪会",
+      "onboard_time": 1772190501,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -963,14 +1035,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 184601,
-      "num": 184601,
-      "word": "FIBA国际篮联向中国男篮致歉",
-      "onboard_time": 1772189662,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183992,
       "num": 183992,
       "word": "李家福曾建议诞5胞胎女子减胎",
@@ -1009,6 +1073,14 @@
       "onboard_time": 1772182822,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171645,
+      "num": 171645,
+      "word": "X电竞打WBG",
+      "onboard_time": 1772188340,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 169324,
@@ -1067,14 +1139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162071,
-      "num": 172453,
-      "word": "一点点资助男孩长期班级前三",
-      "onboard_time": 1772188762,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160648,
       "num": 160648,
       "word": "勾中指竟然是个养生动作",
@@ -1083,20 +1147,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 157614,
-      "num": 157614,
-      "word": "杨洋不让江山造型路透",
-      "onboard_time": 1772189181,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157289,
       "num": 138747,
       "word": "内娱男艺人要下海开酒吧了",
       "onboard_time": 1772181140,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156045,
+      "num": 108813,
+      "word": "林俊杰回复张凌赫",
+      "onboard_time": 1772191761,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 154876,
@@ -1139,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147244,
+      "num": 147244,
+      "word": "WBG对战BLG",
+      "onboard_time": 1772189001,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146486,
       "num": 146486,
       "word": "女子拒同房不离婚为何引争议",
@@ -1161,14 +1233,6 @@
       "onboard_time": 1772155940,
       "rank": 2,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 145676,
-      "num": 145676,
-      "word": "X电竞打WBG",
-      "onboard_time": 1772188340,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 144405,
@@ -1203,6 +1267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139860,
+      "num": 122000,
+      "word": "养过小孩的才知道他有多会教",
+      "onboard_time": 1772189480,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139528,
       "num": 139528,
       "word": "老外以为一个姓张的人研究遍及各学科",
@@ -1217,6 +1289,14 @@
       "onboard_time": 1772108061,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 138793,
+      "num": 114483,
+      "word": "宋威龙都不一定生得出这么像的",
+      "onboard_time": 1772188821,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 137831,
@@ -1339,14 +1419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123300,
-      "num": 122428,
-      "word": "杨幂主动问碳酸需不需要合照",
-      "onboard_time": 1772189240,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 122423,
       "num": 122423,
       "word": "虞书欣父亲新增开庭公告",
@@ -1361,14 +1433,6 @@
       "onboard_time": 1772161700,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 122000,
-      "num": 122000,
-      "word": "养过小孩的才知道他有多会教",
-      "onboard_time": 1772189480,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 121368,
@@ -1387,20 +1451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120948,
+      "num": 104878,
+      "word": "BLACKPINK回归 敷衍",
+      "onboard_time": 1772191702,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120131,
       "num": 116873,
       "word": "嘉人单发苏新皓",
       "onboard_time": 1772116701,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120104,
-      "num": 120104,
-      "word": "WBG对战BLG",
-      "onboard_time": 1772189001,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 119757,
@@ -1505,14 +1569,6 @@
       "onboard_time": 1772167821,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114483,
-      "num": 114483,
-      "word": "宋威龙都不一定生得出这么像的",
-      "onboard_time": 1772188821,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 114166,
@@ -1755,6 +1811,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100827,
+      "num": 100827,
+      "word": "大二男生攒4万为爷奶请戏班报恩",
+      "onboard_time": 1772190742,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100628,
+      "num": 100628,
+      "word": "美国建议美国公民尽快离开以色列",
+      "onboard_time": 1772190801,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 100438,
+      "num": 100438,
+      "word": "刘雯开场走秀气场全开",
+      "onboard_time": 1772192182,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100111,
       "num": 100111,
       "word": "尹净汉在香港",
@@ -1825,6 +1905,14 @@
       "onboard_time": 1772188881,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96455,
+      "num": 96455,
+      "word": "雨哥 静待下一个是谁",
+      "onboard_time": 1772192182,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 96299,
@@ -1937,6 +2025,14 @@
       "onboard_time": 1772152881,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90832,
+      "num": 90832,
+      "word": "海外曝光小米神秘新车",
+      "onboard_time": 1772192300,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 90683,
@@ -2689,6 +2785,14 @@
       "onboard_time": 1772107282,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17484,
+      "num": 174737,
+      "word": "铁路工程使用不合格建材中铁八局被罚",
+      "onboard_time": 1772191402,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 16936,
