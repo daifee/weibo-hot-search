@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772192401368,
+  "endTime": 1772193272402,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2115,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1099841,
+      "num": 1175974,
+      "word": "提醒在伊朗的中国公民尽快撤离",
+      "onboard_time": 1772190742,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1099828,
       "num": 713139,
       "word": "白鹿 红包金额",
@@ -2345,14 +2353,6 @@
       "onboard_time": 1771513220,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1028988,
-      "num": 1164638,
-      "word": "提醒在伊朗的中国公民尽快撤离",
-      "onboard_time": 1772190742,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1026291,
@@ -7491,6 +7491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537026,
+      "num": 164938,
+      "word": "杨洋的手好肿",
+      "onboard_time": 1772190801,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536748,
       "num": 536748,
       "word": "王菲 春晚",
@@ -9107,6 +9115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 466179,
+      "num": 466179,
+      "word": "一点点资助男孩长期班级前三",
+      "onboard_time": 1772188762,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 465325,
       "num": 268333,
       "word": "苏翊鸣回应奥运夺冠后飘了",
@@ -9201,6 +9217,14 @@
       "onboard_time": 1771433119,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 461325,
+      "num": 138779,
+      "word": "无限期退出娱乐圈除非有商务",
+      "onboard_time": 1772191582,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 461233,
@@ -12060,7 +12084,7 @@
     },
     {
       "raw_hot": 377824,
-      "num": 248429,
+      "num": 251560,
       "word": "杨洋不让江山造型路透",
       "onboard_time": 1772189181,
       "rank": 17,
@@ -13356,7 +13380,7 @@
     },
     {
       "raw_hot": 352942,
-      "num": 238675,
+      "num": 242565,
       "word": "下一个是谁 啊吗粽",
       "onboard_time": 1772189061,
       "rank": 45,
@@ -15113,14 +15137,6 @@
       "onboard_time": 1771747280,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 319134,
-      "num": 319134,
-      "word": "一点点资助男孩长期班级前三",
-      "onboard_time": 1772188762,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 318600,
@@ -16883,14 +16899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 292925,
-      "num": 160374,
-      "word": "杨洋的手好肿",
-      "onboard_time": 1772190801,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 292851,
       "num": 292851,
       "word": "李昀锐扛住了春晚镜头1分钟",
@@ -17145,6 +17153,14 @@
       "onboard_time": 1772013681,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 288597,
+      "num": 243180,
+      "word": "林俊杰回复张凌赫",
+      "onboard_time": 1772191761,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 288434,
@@ -20259,6 +20275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248879,
+      "num": 130573,
+      "word": "杨幂主动问碳酸需不需要合照",
+      "onboard_time": 1772189240,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248843,
       "num": 246271,
       "word": "王橹杰彩烟应援",
@@ -20713,6 +20737,14 @@
       "onboard_time": 1770623001,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243952,
+      "num": 243952,
+      "word": "欧冠抽签",
+      "onboard_time": 1772191702,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 243872,
@@ -23491,6 +23523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216208,
+      "num": 216208,
+      "word": "王皓开玩笑说王楚钦的签名我哪会",
+      "onboard_time": 1772190501,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216189,
       "num": 642454,
       "word": "美股",
@@ -24395,14 +24435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205541,
-      "num": 130573,
-      "word": "杨幂主动问碳酸需不需要合照",
-      "onboard_time": 1772189240,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 205361,
       "num": 205361,
       "word": "闲置1年的6米农村大炕过年睡满了",
@@ -24521,6 +24553,14 @@
       "onboard_time": 1769905698,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204165,
+      "num": 345705,
+      "word": "BLG战胜WBG",
+      "onboard_time": 1770043701,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 203817,
@@ -25468,7 +25508,7 @@
     },
     {
       "raw_hot": 195622,
-      "num": 113589,
+      "num": 125416,
       "word": "李胜利唯独管GD直接叫GD",
       "onboard_time": 1772191161,
       "rank": 29,
@@ -25961,14 +26001,6 @@
       "onboard_time": 1772108961,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191550,
-      "num": 191550,
-      "word": "欧冠抽签",
-      "onboard_time": 1772191702,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 191490,
@@ -26465,14 +26497,6 @@
       "onboard_time": 1771172541,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186887,
-      "num": 186887,
-      "word": "王皓开玩笑说王楚钦的签名我哪会",
-      "onboard_time": 1772190501,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 186876,
@@ -29083,6 +29107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165276,
+      "num": 165276,
+      "word": "负责林孝埈的韩国籍康复教练被解雇",
+      "onboard_time": 1772193022,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165208,
       "num": 119523,
       "word": "酒店咖啡机洗内裤",
@@ -29305,6 +29337,14 @@
       "onboard_time": 1770774979,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163675,
+      "num": 163675,
+      "word": "BLACKPINK回归 敷衍",
+      "onboard_time": 1772191702,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 163670,
@@ -30369,14 +30409,6 @@
       "onboard_time": 1770909440,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156045,
-      "num": 108813,
-      "word": "林俊杰回复张凌赫",
-      "onboard_time": 1772191761,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 156042,
@@ -33380,7 +33412,7 @@
     },
     {
       "raw_hot": 139860,
-      "num": 122000,
+      "num": 125957,
       "word": "养过小孩的才知道他有多会教",
       "onboard_time": 1772189480,
       "rank": 32,
@@ -36067,6 +36099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128556,
+      "num": 109667,
+      "word": "刘雯开场走秀气场全开",
+      "onboard_time": 1772192182,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128535,
       "num": 119279,
       "word": "第一次这么直观感受萝卜岗",
@@ -37025,6 +37065,14 @@
       "onboard_time": 1771820479,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124335,
+      "num": 124335,
+      "word": "孙颖莎3比1石洵瑶",
+      "onboard_time": 1772192660,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 124324,
@@ -38009,14 +38057,6 @@
       "onboard_time": 1771927222,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120948,
-      "num": 104878,
-      "word": "BLACKPINK回归 敷衍",
-      "onboard_time": 1772191702,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 120821,
@@ -39569,6 +39609,14 @@
       "onboard_time": 1771682003,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115996,
+      "num": 115996,
+      "word": "美国建议美国公民尽快离开以色列",
+      "onboard_time": 1772190801,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115799,
@@ -43803,6 +43851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104778,
+      "num": 104778,
+      "word": "桃黑黑迟到",
+      "onboard_time": 1772193202,
+      "rank": 41,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 104775,
       "num": 181792,
       "word": "顾客进店发现没人亲自下厨并留下饭钱",
@@ -45459,6 +45515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101054,
+      "num": 101054,
+      "word": "大二男生攒4万为爷奶请戏班报恩",
+      "onboard_time": 1772190742,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101051,
       "num": 100885,
       "word": "被继父亲吻女童老师称孩子挺正常",
@@ -45563,14 +45627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 100827,
-      "num": 100827,
-      "word": "大二男生攒4万为爷奶请戏班报恩",
-      "onboard_time": 1772190742,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100818,
       "num": 83225,
       "word": "七旬母亲坐客厅一夜未眠等女儿回家",
@@ -45633,14 +45689,6 @@
       "onboard_time": 1771825822,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 100628,
-      "num": 100628,
-      "word": "美国建议美国公民尽快离开以色列",
-      "onboard_time": 1772190801,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 100614,
@@ -45761,14 +45809,6 @@
       "onboard_time": 1770618260,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100438,
-      "num": 100438,
-      "word": "刘雯开场走秀气场全开",
-      "onboard_time": 1772192182,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 100432,
@@ -47027,6 +47067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97597,
+      "num": 89847,
+      "word": "清融微博粉丝破300万",
+      "onboard_time": 1772192541,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97571,
       "num": 97571,
       "word": "在韩国用中文训英国小狗",
@@ -47057,6 +47105,14 @@
       "onboard_time": 1771160062,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97448,
+      "num": 97448,
+      "word": "海外曝光小米神秘新车",
+      "onboard_time": 1772192300,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 97447,
@@ -47321,6 +47377,14 @@
       "onboard_time": 1770469462,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96851,
+      "num": 96851,
+      "word": "种地吧",
+      "onboard_time": 1772193141,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 96850,
@@ -50275,14 +50339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90832,
-      "num": 90832,
-      "word": "海外曝光小米神秘新车",
-      "onboard_time": 1772192300,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 90802,
       "num": 90802,
       "word": "年夜饭中的C位菜到底该是谁",
@@ -53049,14 +53105,6 @@
       "onboard_time": 1772072660,
       "rank": 42,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 85554,
-      "num": 345705,
-      "word": "BLG战胜WBG",
-      "onboard_time": 1770043701,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 85548,
