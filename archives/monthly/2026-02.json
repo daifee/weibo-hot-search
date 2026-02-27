@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772176006642,
+  "endTime": 1772177397095,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -3084,7 +3084,7 @@
     },
     {
       "raw_hot": 881068,
-      "num": 215999,
+      "num": 240965,
       "word": "小徐六级277分",
       "onboard_time": 1772171901,
       "rank": 23,
@@ -3273,6 +3273,14 @@
       "onboard_time": 1771974435,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 847260,
+      "num": 171019,
+      "word": "Tiffany卞耀汉结婚",
+      "onboard_time": 1772176161,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 846533,
@@ -3835,6 +3843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 792781,
+      "num": 1126845,
+      "word": "替父请假2小时致其被开除女子发声",
+      "onboard_time": 1772171182,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 791913,
       "num": 206844,
       "word": "余茵否认模仿白鹿",
@@ -4369,14 +4385,6 @@
       "onboard_time": 1770299429,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 730221,
-      "num": 1116835,
-      "word": "替父请假2小时致其被开除女子发声",
-      "onboard_time": 1772171182,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 729567,
@@ -6411,6 +6419,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 580115,
+      "num": 580115,
+      "word": "姜妍常驻现在就出发",
+      "onboard_time": 1772174242,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580051,
       "num": 580051,
       "word": "沈腾马丽没小品",
@@ -6489,6 +6505,14 @@
       "onboard_time": 1771828161,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 577670,
+      "num": 231583,
+      "word": "虞书欣父亲借贷案三大焦点",
+      "onboard_time": 1772175081,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 576897,
@@ -7361,14 +7385,6 @@
       "onboard_time": 1771236506,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 537479,
-      "num": 428271,
-      "word": "姜妍常驻现在就出发",
-      "onboard_time": 1772174242,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 536748,
@@ -10948,7 +10964,7 @@
     },
     {
       "raw_hot": 403101,
-      "num": 182351,
+      "num": 328904,
       "word": "王嘉尔抽到了热巴的礼物",
       "onboard_time": 1772171661,
       "rank": 39,
@@ -13835,14 +13851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 339904,
-      "num": 174756,
-      "word": "虞书欣父亲借贷案三大焦点",
-      "onboard_time": 1772175081,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 339037,
       "num": 248213,
       "word": "镖人票房排名第二",
@@ -14881,6 +14889,14 @@
       "onboard_time": 1771747280,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 318880,
+      "num": 318880,
+      "word": "意大利小偷把肾结石误认黄金偷走",
+      "onboard_time": 1772176400,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 318600,
@@ -16793,6 +16809,14 @@
       "onboard_time": 1770717620,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290397,
+      "num": 290397,
+      "word": "彪马店员说买不起别试",
+      "onboard_time": 1772172620,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290381,
@@ -18732,7 +18756,7 @@
     },
     {
       "raw_hot": 264194,
-      "num": 210328,
+      "num": 213710,
       "word": "姐姐姐夫",
       "onboard_time": 1772170461,
       "rank": 21,
@@ -21865,6 +21889,14 @@
       "onboard_time": 1770790461,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228996,
+      "num": 228996,
+      "word": "芯片涨价原因",
+      "onboard_time": 1772175500,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 228990,
@@ -26187,14 +26219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185756,
-      "num": 185756,
-      "word": "彪马店员说买不起别试",
-      "onboard_time": 1772172620,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185731,
       "num": 131747,
       "word": "易梦玲晒比基尼照",
@@ -26921,6 +26945,14 @@
       "onboard_time": 1771759884,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179083,
+      "num": 179083,
+      "word": "刘晓艳现身小徐直播间",
+      "onboard_time": 1772175859,
+      "rank": 40,
+      "category": "网红,教育"
     },
     {
       "raw_hot": 179055,
@@ -28017,6 +28049,14 @@
       "onboard_time": 1770606380,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 170849,
+      "num": 170849,
+      "word": "Cat退役发长文",
+      "onboard_time": 1772176581,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 170833,
@@ -29193,6 +29233,14 @@
       "onboard_time": 1770275243,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161041,
+      "num": 161041,
+      "word": "伊能静 真的别再雌竞了",
+      "onboard_time": 1772176400,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 160980,
@@ -30899,6 +30947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149964,
+      "num": 149964,
+      "word": "头像洁癖",
+      "onboard_time": 1772176581,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149963,
       "num": 149963,
       "word": "孙颖莎夺冠后振臂高呼",
@@ -31636,7 +31692,7 @@
     },
     {
       "raw_hot": 145684,
-      "num": 640475,
+      "num": 642191,
       "word": "美国发动网攻侵占全球虚拟资产",
       "onboard_time": 1772155940,
       "rank": 2,
@@ -33593,14 +33649,6 @@
       "onboard_time": 1770766337,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 136779,
-      "num": 149058,
-      "word": "芯片涨价原因",
-      "onboard_time": 1772175500,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 136761,
@@ -40683,6 +40731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111055,
+      "num": 111055,
+      "word": "上班自己哄下班自己宠",
+      "onboard_time": 1772176701,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111014,
       "num": 111014,
       "word": "英国前驻美大使与爱泼斯坦视频曝光",
@@ -40809,6 +40865,14 @@
       "onboard_time": 1771038080,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110785,
+      "num": 110785,
+      "word": "高叶宋妍霏回应臭脸",
+      "onboard_time": 1772176821,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 110749,
@@ -41105,6 +41169,14 @@
       "onboard_time": 1771415541,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 109820,
+      "num": 111083,
+      "word": "起猛了在综艺里看到了孟宴臣",
+      "onboard_time": 1772177000,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 109816,
@@ -44555,14 +44627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101669,
-      "num": 90733,
-      "word": "刘晓艳现身小徐直播间",
-      "onboard_time": 1772175859,
-      "rank": 40,
-      "category": "网红,教育"
-    },
-    {
       "raw_hot": 101634,
       "num": 95699,
       "word": "生命树收视破2点5",
@@ -44673,6 +44737,14 @@
       "onboard_time": 1771127299,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101412,
+      "num": 101412,
+      "word": "金智秀MV镜头",
+      "onboard_time": 1772177121,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 101402,
@@ -46075,6 +46147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98085,
+      "num": 98773,
+      "word": "比尔盖茨人设崩了",
+      "onboard_time": 1772175140,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98080,
       "num": 98080,
       "word": "日本放人",
@@ -46584,6 +46664,14 @@
       "word": "捧红王菲那英SHE的小胖走了",
       "onboard_time": 1770066674,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96988,
+      "num": 94855,
+      "word": "今天的饺子是王一博擀的皮",
+      "onboard_time": 1772177301,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -55699,14 +55787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 79247,
-      "num": 79247,
-      "word": "比尔盖茨人设崩了",
-      "onboard_time": 1772175140,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 79206,
       "num": 95463,
       "word": "12万买矮马租给游乐场40天回本",
@@ -61889,6 +61969,14 @@
       "onboard_time": 1771673961,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64600,
+      "num": 111641,
+      "word": "刘亦菲好像动画片里的公主",
+      "onboard_time": 1772176461,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 64595,
@@ -77003,6 +77091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10561,
+      "num": 171058,
+      "word": "张治中公馆法拍成交价6604万元",
+      "onboard_time": 1772176881,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10546,
       "num": 281185,
       "word": "AI帮边防战士拍全家福",
@@ -77375,6 +77471,14 @@
       "num": 96585,
       "word": "超市老板投资黄金赚千万全分给员工",
       "onboard_time": 1770811401,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6748,
+      "num": 110850,
+      "word": "当地人表示退彩礼很正常",
+      "onboard_time": 1772177301,
       "rank": 39,
       "category": "民生新闻"
     },

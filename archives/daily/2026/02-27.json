@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772176006642,
+  "endTime": 1772177397095,
   "band_list": [
     {
       "raw_hot": 1567215,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 881068,
-      "num": 215999,
+      "num": 240965,
       "word": "小徐六级277分",
       "onboard_time": 1772171901,
       "rank": 23,
@@ -43,12 +43,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 847260,
+      "num": 171019,
+      "word": "Tiffany卞耀汉结婚",
+      "onboard_time": 1772176161,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 798825,
       "num": 1127812,
       "word": "现在就出发4",
       "onboard_time": 1772169801,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 792781,
+      "num": 1126845,
+      "word": "替父请假2小时致其被开除女子发声",
+      "onboard_time": 1772171182,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 764388,
@@ -64,14 +80,6 @@
       "word": "父亲退还18.8万彩礼新娘发声",
       "onboard_time": 1772159359,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 730221,
-      "num": 1116835,
-      "word": "替父请假2小时致其被开除女子发声",
-      "onboard_time": 1772171182,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -99,6 +107,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 580115,
+      "num": 580115,
+      "word": "姜妍常驻现在就出发",
+      "onboard_time": 1772174242,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 577670,
+      "num": 231583,
+      "word": "虞书欣父亲借贷案三大焦点",
+      "onboard_time": 1772175081,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 564234,
       "num": 827976,
       "word": "丈夫准备给诞下5胞胎老婆送黄金",
@@ -113,14 +137,6 @@
       "onboard_time": 1772114002,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 537479,
-      "num": 428271,
-      "word": "姜妍常驻现在就出发",
-      "onboard_time": 1772174242,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 523264,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 403101,
-      "num": 182351,
+      "num": 328904,
       "word": "王嘉尔抽到了热巴的礼物",
       "onboard_time": 1772171661,
       "rank": 39,
@@ -291,14 +307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 339904,
-      "num": 174756,
-      "word": "虞书欣父亲借贷案三大焦点",
-      "onboard_time": 1772175081,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 332668,
       "num": 332668,
       "word": "魅族公告",
@@ -313,6 +321,14 @@
       "onboard_time": 1772111602,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 318880,
+      "num": 318880,
+      "word": "意大利小偷把肾结石误认黄金偷走",
+      "onboard_time": 1772176400,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 310876,
@@ -336,6 +352,14 @@
       "word": "育儿嫂疑在房间打孩子被玻璃照出",
       "onboard_time": 1772155040,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290397,
+      "num": 290397,
+      "word": "彪马店员说买不起别试",
+      "onboard_time": 1772172620,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 264194,
-      "num": 210328,
+      "num": 213710,
       "word": "姐姐姐夫",
       "onboard_time": 1772170461,
       "rank": 21,
@@ -481,6 +505,14 @@
       "onboard_time": 1772170401,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 228996,
+      "num": 228996,
+      "word": "芯片涨价原因",
+      "onboard_time": 1772175500,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 224257,
@@ -595,14 +627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185756,
-      "num": 185756,
-      "word": "彪马店员说买不起别试",
-      "onboard_time": 1772172620,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185664,
       "num": 185664,
       "word": "向佑不满遗产分配直喊不公平",
@@ -641,6 +665,22 @@
       "onboard_time": 1772110341,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 179083,
+      "num": 179083,
+      "word": "刘晓艳现身小徐直播间",
+      "onboard_time": 1772175859,
+      "rank": 40,
+      "category": "网红,教育"
+    },
+    {
+      "raw_hot": 170849,
+      "num": 170849,
+      "word": "Cat退役发长文",
+      "onboard_time": 1772176581,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 169324,
@@ -691,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161041,
+      "num": 161041,
+      "word": "伊能静 真的别再雌竞了",
+      "onboard_time": 1772176400,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160648,
       "num": 160648,
       "word": "勾中指竟然是个养生动作",
@@ -713,6 +761,14 @@
       "onboard_time": 1772147896,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149964,
+      "num": 149964,
+      "word": "头像洁癖",
+      "onboard_time": 1772176581,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 149889,
@@ -740,7 +796,7 @@
     },
     {
       "raw_hot": 145684,
-      "num": 640475,
+      "num": 642191,
       "word": "美国发动网攻侵占全球虚拟资产",
       "onboard_time": 1772155940,
       "rank": 2,
@@ -785,14 +841,6 @@
       "onboard_time": 1772173400,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136779,
-      "num": 149058,
-      "word": "芯片涨价原因",
-      "onboard_time": 1772175500,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 135789,
@@ -1011,6 +1059,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 113727,
+      "num": 113727,
+      "word": "魅族",
+      "onboard_time": 1772176642,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 113496,
       "num": 113496,
       "word": "全网最黑大熊猫出现了",
@@ -1057,6 +1113,30 @@
       "onboard_time": 1772162001,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111055,
+      "num": 111055,
+      "word": "上班自己哄下班自己宠",
+      "onboard_time": 1772176701,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 110785,
+      "num": 110785,
+      "word": "高叶宋妍霏回应臭脸",
+      "onboard_time": 1772176821,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109820,
+      "num": 111083,
+      "word": "起猛了在综艺里看到了孟宴臣",
+      "onboard_time": 1772177000,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 107583,
@@ -1155,12 +1235,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 101669,
-      "num": 90733,
-      "word": "刘晓艳现身小徐直播间",
-      "onboard_time": 1772175859,
-      "rank": 40,
-      "category": "网红,教育"
+      "raw_hot": 101412,
+      "num": 101412,
+      "word": "金智秀MV镜头",
+      "onboard_time": 1772177121,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 101315,
@@ -1203,12 +1283,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98085,
+      "num": 98773,
+      "word": "比尔盖茨人设崩了",
+      "onboard_time": 1772175140,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97599,
       "num": 97599,
       "word": "星露谷物语",
       "onboard_time": 1772154801,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96988,
+      "num": 94855,
+      "word": "今天的饺子是王一博擀的皮",
+      "onboard_time": 1772177301,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 96942,
@@ -1483,14 +1579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79247,
-      "num": 79247,
-      "word": "比尔盖茨人设崩了",
-      "onboard_time": 1772175140,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 78949,
       "num": 78949,
       "word": "有人早上6点去寿司郎排队",
@@ -1561,6 +1649,14 @@
       "onboard_time": 1772110282,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64600,
+      "num": 111641,
+      "word": "刘亦菲好像动画片里的公主",
+      "onboard_time": 1772176461,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 63016,
@@ -1915,11 +2011,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10561,
+      "num": 171058,
+      "word": "张治中公馆法拍成交价6604万元",
+      "onboard_time": 1772176881,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9284,
       "num": 127198,
       "word": "退彩礼父亲说若儿媳妇要彩礼照样给",
       "onboard_time": 1772168421,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6748,
+      "num": 110850,
+      "word": "当地人表示退彩礼很正常",
+      "onboard_time": 1772177301,
+      "rank": 39,
       "category": "民生新闻"
     }
   ],
