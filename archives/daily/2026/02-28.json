@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772229156941,
+  "endTime": 1772231578019,
   "band_list": [
     {
       "raw_hot": 868722,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 231862,
-      "num": 231862,
+      "num": 315218,
       "word": "有美国入侵伊拉克时的味道了",
       "onboard_time": 1772207781,
       "rank": 4,
@@ -155,20 +155,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137266,
+      "num": 423073,
+      "word": "23岁研究生胃癌晚期称作息不规律",
+      "onboard_time": 1772211857,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137059,
       "num": 137059,
       "word": "当妈妈把欧洲特产蒸了后",
       "onboard_time": 1772203884,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133080,
-      "num": 94984,
-      "word": "23岁研究生胃癌晚期称作息不规律",
-      "onboard_time": 1772211857,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126272,
@@ -499,7 +499,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20033,
+      "raw_hot": 22396,
       "num": 27432,
       "word": "Gucci大秀",
       "onboard_time": 1772203282,
@@ -507,28 +507,44 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 17790,
-      "num": 17790,
+      "raw_hot": 17856,
+      "num": 17856,
+      "word": "米兰时装周",
+      "onboard_time": 1772196142,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 17823,
+      "num": 17823,
       "word": "使领馆将协助中国公民撤离伊朗",
       "onboard_time": 1772223734,
       "rank": 45,
       "category": "国内时政"
     },
     {
+      "raw_hot": 17392,
+      "num": 17392,
+      "word": "亲爱的客栈",
+      "onboard_time": 1772193141,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16520,
-      "num": 16520,
+      "num": 17349,
       "word": "有歌第二季",
       "onboard_time": 1772221754,
       "rank": 44,
       "category": "综艺"
     },
     {
-      "raw_hot": 16278,
-      "num": 16278,
-      "word": "米兰时装周",
-      "onboard_time": 1772196142,
-      "rank": 39,
-      "category": "时尚"
+      "raw_hot": 16347,
+      "num": 17349,
+      "word": "美伊对峙",
+      "onboard_time": 1772203644,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16181,
@@ -539,28 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16168,
-      "num": 16168,
-      "word": "亲爱的客栈",
-      "onboard_time": 1772193141,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 15445,
       "num": 17773,
       "word": "上海彩民守号一年中了3764万",
       "onboard_time": 1772216595,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12410,
-      "num": 15375,
-      "word": "美伊对峙",
-      "onboard_time": 1772203644,
-      "rank": 48,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
