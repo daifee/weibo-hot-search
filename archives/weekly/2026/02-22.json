@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772207982094,
+  "endTime": 1772211103212,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -1747,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511376,
+      "num": 203820,
+      "word": "杨幂谷爱凌合照 好娇啊小幂",
+      "onboard_time": 1772206283,
+      "rank": 21,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 510471,
       "num": 510471,
       "word": "林孝埈再次道歉",
@@ -2057,14 +2065,6 @@
       "onboard_time": 1771755260,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 462461,
-      "num": 203820,
-      "word": "杨幂谷爱凌合照 好娇啊小幂",
-      "onboard_time": 1772206283,
-      "rank": 21,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 462364,
@@ -3419,6 +3419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320115,
+      "num": 114404,
+      "word": "刘雯好性感",
+      "onboard_time": 1772208262,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 319321,
       "num": 235373,
       "word": "月薪多少才愿意过这样的人生",
@@ -3489,6 +3497,14 @@
       "onboard_time": 1772016802,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308843,
+      "num": 113986,
+      "word": "吴世勋发合照",
+      "onboard_time": 1772207901,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 308807,
@@ -5435,6 +5451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215311,
+      "num": 173442,
+      "word": "曝敖瑞鹏合约到期不续",
+      "onboard_time": 1772207662,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215092,
       "num": 250549,
       "word": "医生建议做美甲至少保留一个原甲",
@@ -5577,6 +5601,14 @@
       "onboard_time": 1771932083,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205342,
+      "num": 205342,
+      "word": "有美国入侵伊拉克时的味道了",
+      "onboard_time": 1772207781,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205083,
@@ -6579,14 +6611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 173442,
-      "num": 173442,
-      "word": "曝敖瑞鹏合约到期不续",
-      "onboard_time": 1772207662,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173032,
       "num": 173032,
       "word": "骏良",
@@ -6731,6 +6755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168093,
+      "num": 148472,
+      "word": "高市早苗反对女天皇",
+      "onboard_time": 1772205743,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167876,
       "num": 167876,
       "word": "王者荣耀",
@@ -6793,6 +6825,14 @@
       "onboard_time": 1771857682,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165817,
+      "num": 165817,
+      "word": "徐福记回应米兰小伙求代购酥心糖",
+      "onboard_time": 1772205023,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165529,
@@ -7371,14 +7411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148472,
-      "num": 148472,
-      "word": "高市早苗反对女天皇",
-      "onboard_time": 1772205743,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 147888,
       "num": 147888,
       "word": "西藏徒步失联女生因自责用微笑回应",
@@ -7441,14 +7473,6 @@
       "onboard_time": 1771747398,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146693,
-      "num": 146693,
-      "word": "徐福记回应米兰小伙求代购酥心糖",
-      "onboard_time": 1772205023,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146643,
@@ -9907,6 +9931,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 110033,
+      "num": 110033,
+      "word": "张凌赫对着爱奇艺贴脸开大",
+      "onboard_time": 1772208742,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109863,
       "num": 109863,
       "word": "KSG战胜DYG",
@@ -9929,6 +9961,14 @@
       "onboard_time": 1771770805,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109448,
+      "num": 109448,
+      "word": "上一个离开嘉行的是祝绪丹",
+      "onboard_time": 1772210659,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 109393,
@@ -11193,14 +11233,6 @@
       "onboard_time": 1771856601,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97983,
-      "num": 97983,
-      "word": "有美国入侵伊拉克时的味道了",
-      "onboard_time": 1772207781,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97943,
@@ -13955,14 +13987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73503,
-      "num": 73503,
-      "word": "吴世勋发合照",
-      "onboard_time": 1772207901,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73345,
       "num": 73345,
       "word": "12岁孩子千元红包被男子摩擦式捡走",
@@ -15187,6 +15211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55706,
+      "num": 68497,
+      "word": "晚5秒多付1700前一辆车免费过了",
+      "onboard_time": 1772210301,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55577,
       "num": 130274,
       "word": "王艺迪晋级新加坡大满贯八强",
@@ -15443,6 +15475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49822,
+      "num": 49701,
+      "word": "虞书欣父亲起诉索要758万借贷本息",
+      "onboard_time": 1772210599,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49756,
       "num": 106505,
       "word": "逐玉制作阵容",
@@ -15505,6 +15545,14 @@
       "onboard_time": 1771801635,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 48771,
+      "num": 48771,
+      "word": "张函瑞黑皮衣十宫格",
+      "onboard_time": 1772211018,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 48641,
