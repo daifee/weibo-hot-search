@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772183264474,
+  "endTime": 1772186016401,
   "band_list": [
     {
       "raw_hot": 1567215,
@@ -33,6 +33,14 @@
       "onboard_time": 1772176161,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 909070,
+      "num": 618949,
+      "word": "白敬亭章若楠 二搭",
+      "onboard_time": 1772181623,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 881068,
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 783089,
+      "num": 144162,
+      "word": "李胜利的狱友repo",
+      "onboard_time": 1772184322,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 764388,
       "num": 183790,
       "word": "疑似白宇前女友发文",
@@ -83,11 +99,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 745873,
-      "num": 618949,
-      "word": "白敬亭章若楠 二搭",
-      "onboard_time": 1772181623,
-      "rank": 8,
+      "raw_hot": 752949,
+      "num": 1120471,
+      "word": "腾讯感谢爱奇艺宣传逐玉",
+      "onboard_time": 1772180240,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -97,14 +113,6 @@
       "onboard_time": 1772159359,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 710633,
-      "num": 517652,
-      "word": "腾讯感谢爱奇艺宣传逐玉",
-      "onboard_time": 1772180240,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 696699,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 601388,
-      "num": 601388,
+      "num": 831668,
       "word": "新娘出嫁徒手拔光碎发",
       "onboard_time": 1772179941,
       "rank": 3,
@@ -185,6 +193,14 @@
       "onboard_time": 1772169620,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557987,
+      "num": 143914,
+      "word": "向华强 向佐不能搞老三老四",
+      "onboard_time": 1772183841,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 556176,
@@ -299,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 443797,
+      "num": 228559,
+      "word": "36岁程序员被曝复工当晚猝死",
+      "onboard_time": 1772183721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437641,
       "num": 222651,
       "word": "伊能静 真的别再雌竞了",
@@ -345,6 +369,14 @@
       "onboard_time": 1772171661,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398683,
+      "num": 144998,
+      "word": "肖战tods直播镜头",
+      "onboard_time": 1772182881,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 386587,
@@ -411,6 +443,14 @@
       "category": "网红,教育"
     },
     {
+      "raw_hot": 333147,
+      "num": 333147,
+      "word": "妈妈在女儿婚礼上美出圈",
+      "onboard_time": 1772184081,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332668,
       "num": 332668,
       "word": "魅族公告",
@@ -443,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308807,
+      "num": 287674,
+      "word": "米哈游内部发文回应员工意外离世",
+      "onboard_time": 1772180721,
+      "rank": 22,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 303959,
       "num": 230744,
       "word": "P图的时候忘记P的是实况",
@@ -473,14 +521,6 @@
       "onboard_time": 1772172620,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 287674,
-      "num": 287674,
-      "word": "米哈游内部发文回应员工意外离世",
-      "onboard_time": 1772180721,
-      "rank": 22,
-      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 279427,
@@ -545,6 +585,14 @@
       "onboard_time": 1772167162,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 266507,
+      "num": 223843,
+      "word": "镖人破十亿刀马谛听番外",
+      "onboard_time": 1772184021,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 264194,
@@ -723,14 +771,6 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 205330,
-      "num": 144998,
-      "word": "肖战tods直播镜头",
-      "onboard_time": 1772182881,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 200724,
       "num": 200724,
       "word": "好潦草的烟花真是设计鬼才",
@@ -891,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161988,
+      "num": 161988,
+      "word": "女孩遭猥亵爷爷维权被要求别声张",
+      "onboard_time": 1772182822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160648,
       "num": 160648,
       "word": "勾中指竟然是个养生动作",
@@ -969,6 +1017,22 @@
       "onboard_time": 1772161580,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142497,
+      "num": 207208,
+      "word": "捡手机藏4个月失主WiFi定位追到",
+      "onboard_time": 1772182822,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142068,
+      "num": 124872,
+      "word": "王天辰 孩子太多了养不起",
+      "onboard_time": 1772184201,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 140321,
@@ -1051,6 +1115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 127167,
+      "num": 197534,
+      "word": "超短学期",
+      "onboard_time": 1772182822,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127117,
       "num": 114416,
       "word": "方圆脸如何颜值最大化",
@@ -1129,6 +1201,14 @@
       "onboard_time": 1772116701,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119757,
+      "num": 119757,
+      "word": "黄晓明说范丞丞黄子韬给青岛人丢人",
+      "onboard_time": 1772182402,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 119515,
@@ -1307,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108759,
+      "num": 108759,
+      "word": "白宇前女友说终于有了很骄傲的感觉",
+      "onboard_time": 1772184142,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 107583,
       "num": 107583,
       "word": "TheShy打乒乓球去了",
@@ -1385,6 +1473,14 @@
       "onboard_time": 1772178261,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102400,
+      "num": 112209,
+      "word": "白鹿抢孩子咯",
+      "onboard_time": 1772185401,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 102343,
@@ -1691,6 +1787,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 84996,
+      "num": 84996,
+      "word": "小猫 入警第一课夹着尾巴做人",
+      "onboard_time": 1772185941,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84928,
       "num": 84928,
       "word": "真正的门当户对",
@@ -1745,6 +1849,14 @@
       "onboard_time": 1772117902,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81751,
+      "num": 81751,
+      "word": "下一个是谁",
+      "onboard_time": 1772185941,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 81648,
@@ -1931,14 +2043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 62348,
-      "num": 106853,
-      "word": "黄晓明说范丞丞黄子韬给青岛人丢人",
-      "onboard_time": 1772182402,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 60828,
       "num": 60828,
       "word": "刘诗诗头戴非遗绒花高雅动人",
@@ -1977,6 +2081,14 @@
       "onboard_time": 1772148618,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 59134,
+      "num": 119766,
+      "word": "中方回应是否从巴阿撤侨",
+      "onboard_time": 1772184443,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58969,
@@ -2043,20 +2155,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 51352,
-      "num": 207208,
-      "word": "捡手机藏4个月失主WiFi定位追到",
-      "onboard_time": 1772182822,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51189,
       "num": 160467,
       "word": "杨幂登陆少年组合Prada大秀同框",
       "onboard_time": 1772177661,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50606,
+      "num": 145365,
+      "word": "1元秒杀11万元汽车商家拒发货",
+      "onboard_time": 1772184981,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49617,
@@ -2155,14 +2267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36306,
-      "num": 197534,
-      "word": "超短学期",
-      "onboard_time": 1772182822,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35831,
       "num": 121257,
       "word": "男子高铁抽烟还把脚放窗上",
@@ -2235,11 +2339,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27751,
-      "num": 106736,
-      "word": "女孩遭猥亵爷爷维权被要求别声张",
-      "onboard_time": 1772182822,
-      "rank": 39,
+      "raw_hot": 27595,
+      "num": 93593,
+      "word": "被帮扶男孩戴千元手表其父精神残疾",
+      "onboard_time": 1772184740,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -2264,6 +2368,14 @@
       "word": "15后娃开始整顿亲戚",
       "onboard_time": 1772120781,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23739,
+      "num": 643270,
+      "word": "数读春节消费市场年味十足",
+      "onboard_time": 1772184021,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2425,6 +2537,9 @@
     },
     {
       "word": "#增强政治责任感和历史使命感#"
+    },
+    {
+      "word": "#十四五规划主要目标任务胜利完成#"
     }
   ]
 }

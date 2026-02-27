@@ -1,0 +1,410 @@
+{
+  "runTime": 1772186016401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 752949,
+        "num": 1120471,
+        "word": "腾讯感谢爱奇艺宣传逐玉",
+        "onboard_time": 1772180240,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419441,
+        "num": 831668,
+        "word": "新娘出嫁徒手拔光碎发",
+        "onboard_time": 1772179941,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23739,
+        "num": 643270,
+        "word": "数读春节消费市场年味十足",
+        "onboard_time": 1772184021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 909070,
+        "num": 556683,
+        "word": "白敬亭章若楠 二搭",
+        "onboard_time": 1772181623,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333147,
+        "num": 333147,
+        "word": "妈妈在女儿婚礼上美出圈",
+        "onboard_time": 1772184081,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522957,
+        "num": 327338,
+        "word": "现在就出发4",
+        "onboard_time": 1772169801,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320052,
+        "num": 320052,
+        "word": "未开封杨枝甘露8天后爆炸",
+        "onboard_time": 1772179941,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280477,
+        "num": 280477,
+        "word": "43岁也能考编了",
+        "onboard_time": 1772178622,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229153,
+        "num": 229153,
+        "word": "TODS大秀",
+        "onboard_time": 1772182162,
+        "rank": 8,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 443797,
+        "num": 228559,
+        "word": "36岁程序员被曝复工当晚猝死",
+        "onboard_time": 1772183721,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431291,
+        "num": 227068,
+        "word": "女子婚内出轨同居犯重婚罪获刑",
+        "onboard_time": 1772180121,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308807,
+        "num": 225399,
+        "word": "米哈游内部发文回应员工意外离世",
+        "onboard_time": 1772180721,
+        "rank": 11,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 266507,
+        "num": 223843,
+        "word": "镖人破十亿刀马谛听番外",
+        "onboard_time": 1772184021,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223784,
+        "num": 223784,
+        "word": "不建议在朋友圈展示技能",
+        "onboard_time": 1772162781,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205021,
+        "num": 205021,
+        "word": "头像洁癖",
+        "onboard_time": 1772176581,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188687,
+        "num": 188687,
+        "word": "P图的时候忘记P的是实况",
+        "onboard_time": 1772177902,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161988,
+        "num": 161988,
+        "word": "女孩遭猥亵爷爷维权被要求别声张",
+        "onboard_time": 1772182822,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159916,
+        "num": 159916,
+        "word": "见春天 陈飞宇王影璐",
+        "onboard_time": 1772178561,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153716,
+        "num": 153716,
+        "word": "姜妍常驻现在就出发",
+        "onboard_time": 1772174242,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50606,
+        "num": 145365,
+        "word": "1元秒杀11万元汽车商家拒发货",
+        "onboard_time": 1772184981,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 783089,
+        "num": 144162,
+        "word": "李胜利的狱友repo",
+        "onboard_time": 1772184322,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557987,
+        "num": 143914,
+        "word": "向华强 向佐不能搞老三老四",
+        "onboard_time": 1772183841,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142497,
+        "num": 142497,
+        "word": "捡手机藏4个月失主WiFi定位追到",
+        "onboard_time": 1772182822,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398683,
+        "num": 141526,
+        "word": "肖战tods直播镜头",
+        "onboard_time": 1772182881,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 341595,
+        "num": 139692,
+        "word": "李亚鹏官宣与哥哥和解",
+        "onboard_time": 1772181080,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127167,
+        "num": 127167,
+        "word": "超短学期",
+        "onboard_time": 1772182822,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265505,
+        "num": 127159,
+        "word": "小徐六级277分",
+        "onboard_time": 1772171901,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211578,
+        "num": 126578,
+        "word": "Tiffany卞耀汉结婚",
+        "onboard_time": 1772176161,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104091,
+        "num": 126508,
+        "word": "尘白禁区联动取消",
+        "onboard_time": 1772164640,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185509,
+        "num": 126108,
+        "word": "肖战米兰看秀造型",
+        "onboard_time": 1772179461,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167256,
+        "num": 125707,
+        "word": "虞书欣父亲借贷案三大焦点",
+        "onboard_time": 1772175081,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145344,
+        "num": 125326,
+        "word": "赵晴好灵",
+        "onboard_time": 1772181921,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101624,
+        "num": 125171,
+        "word": "魅族",
+        "onboard_time": 1772176642,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142068,
+        "num": 124872,
+        "word": "王天辰 孩子太多了养不起",
+        "onboard_time": 1772184201,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124697,
+        "num": 124697,
+        "word": "杨幂唐嫣看秀生图",
+        "onboard_time": 1772179582,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99631,
+        "num": 119820,
+        "word": "意大利小偷把肾结石误认黄金偷走",
+        "onboard_time": 1772176400,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59134,
+        "num": 119766,
+        "word": "中方回应是否从巴阿撤侨",
+        "onboard_time": 1772184443,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119757,
+        "num": 119757,
+        "word": "黄晓明说范丞丞黄子韬给青岛人丢人",
+        "onboard_time": 1772182402,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117119,
+        "num": 117119,
+        "word": "AI短剧已经丝滑到这种程度了",
+        "onboard_time": 1772179941,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102400,
+        "num": 112209,
+        "word": "白鹿抢孩子咯",
+        "onboard_time": 1772185401,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31568,
+        "num": 109134,
+        "word": "美国发动网攻侵占全球虚拟资产",
+        "onboard_time": 1772155940,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108759,
+        "num": 108759,
+        "word": "白宇前女友说终于有了很骄傲的感觉",
+        "onboard_time": 1772184142,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104685,
+        "num": 104685,
+        "word": "姐姐姐夫",
+        "onboard_time": 1772170461,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27595,
+        "num": 93593,
+        "word": "被帮扶男孩戴千元手表其父精神残疾",
+        "onboard_time": 1772184740,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90412,
+        "num": 90412,
+        "word": "内娱男艺人要下海开酒吧了",
+        "onboard_time": 1772181140,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88135,
+        "num": 88135,
+        "word": "豆包严正声明",
+        "onboard_time": 1772179761,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96105,
+        "num": 87946,
+        "word": "白宇和前女友分手原因",
+        "onboard_time": 1772167162,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86480,
+        "num": 86480,
+        "word": "替父请假2小时致其被开除女子发声",
+        "onboard_time": 1772171182,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84996,
+        "num": 84996,
+        "word": "小猫 入警第一课夹着尾巴做人",
+        "onboard_time": 1772185941,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81751,
+        "num": 81751,
+        "word": "下一个是谁",
+        "onboard_time": 1772185941,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四五规划主要目标任务胜利完成#"
+    }
+  }
+}
