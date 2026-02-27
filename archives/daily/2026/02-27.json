@@ -1,7 +1,15 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772162167374,
+  "endTime": 1772167995824,
   "band_list": [
+    {
+      "raw_hot": 1531871,
+      "num": 380781,
+      "word": "不建议在朋友圈展示技能",
+      "onboard_time": 1772162781,
+      "rank": 5,
+      "category": "幽默"
+    },
     {
       "raw_hot": 990189,
       "num": 1150114,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 764388,
-      "num": 161770,
+      "num": 183790,
       "word": "疑似白宇前女友发文",
       "onboard_time": 1772153899,
       "rank": 21,
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 520306,
+      "num": 162576,
+      "word": "白宇和前女友分手原因",
+      "onboard_time": 1772167162,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 512732,
       "num": 150059,
       "word": "曝白宇还和刘萌萌在一起",
@@ -89,6 +105,14 @@
       "onboard_time": 1772116462,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 476903,
+      "num": 214762,
+      "word": "金泰梨对杨幂比心",
+      "onboard_time": 1772162241,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 472342,
@@ -115,12 +139,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419848,
+      "num": 768894,
+      "word": "逐玉定档全是柿子",
+      "onboard_time": 1772166380,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411183,
       "num": 817636,
       "word": "四六级查分",
       "onboard_time": 1772147297,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 409040,
+      "num": 409040,
+      "word": "何与虞书欣 二搭",
+      "onboard_time": 1772163023,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 386587,
+      "num": 386587,
+      "word": "官方通报老人因无人抬担架延误离世",
+      "onboard_time": 1772162960,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 380179,
@@ -155,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339539,
+      "num": 213782,
+      "word": "尘白禁区联动取消",
+      "onboard_time": 1772164640,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 332668,
       "num": 332668,
       "word": "魅族公告",
@@ -177,6 +233,14 @@
       "onboard_time": 1772147596,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299719,
+      "num": 134185,
+      "word": "赖清德罕见改口称中国大陆",
+      "onboard_time": 1772164822,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 295330,
@@ -219,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273085,
+      "num": 213352,
+      "word": "将微胖还给真正胖的人",
+      "onboard_time": 1772160502,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256088,
       "num": 245493,
       "word": "Gucci晒肖战邀请函",
@@ -233,6 +305,14 @@
       "onboard_time": 1772150180,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253440,
+      "num": 253440,
+      "word": "FIBA社媒称中国男篮偷走胜利",
+      "onboard_time": 1772160981,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 249244,
@@ -267,8 +347,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 229969,
+      "num": 211945,
+      "word": "陈飞宇半夜健身偶遇陈哲远",
+      "onboard_time": 1772166622,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224986,
-      "num": 165158,
+      "num": 195387,
       "word": "BLACKPINK 回归",
       "onboard_time": 1772154381,
       "rank": 16,
@@ -283,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222343,
+      "num": 134075,
+      "word": "奶奶把我的娃娃供奉在村里的庵里",
+      "onboard_time": 1772164401,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 217899,
       "num": 217899,
       "word": "网传浪姐7参赛名单",
@@ -291,12 +387,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215795,
+      "num": 215795,
+      "word": "逐玉定档",
+      "onboard_time": 1772162301,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 215232,
+      "num": 181130,
+      "word": "可以恢复视力的微习惯",
+      "onboard_time": 1772165121,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 213004,
       "num": 147194,
       "word": "沈月个人工作室",
       "onboard_time": 1772155340,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206120,
+      "num": 179516,
+      "word": "最容易胖肚子的一种食物",
+      "onboard_time": 1772162540,
+      "rank": 22,
+      "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 203654,
+      "num": 215332,
+      "word": "山西卫健委已严肃约谈市急救中心",
+      "onboard_time": 1772166502,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200724,
@@ -323,12 +451,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189623,
-      "num": 189623,
-      "word": "将微胖还给真正胖的人",
-      "onboard_time": 1772160502,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 192748,
+      "num": 192748,
+      "word": "巴基斯坦对阿富汗政府公开宣战",
+      "onboard_time": 1772162599,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 188297,
@@ -355,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183992,
+      "num": 183992,
+      "word": "李家福曾建议诞5胞胎女子减胎",
+      "onboard_time": 1772163800,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183405,
       "num": 183405,
       "word": "六级",
@@ -377,6 +513,14 @@
       "onboard_time": 1772110341,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 177948,
+      "num": 177948,
+      "word": "程晓玥自曝孕晚期呼吸很困难",
+      "onboard_time": 1772166261,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 169324,
@@ -411,12 +555,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 162000,
-      "num": 162000,
-      "word": "FIBA社媒称中国男篮偷走胜利",
-      "onboard_time": 1772160981,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 161426,
+      "num": 161426,
+      "word": "台独刘世芳亲属在大陆投资谋利",
+      "onboard_time": 1772167162,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 160648,
@@ -460,7 +604,7 @@
     },
     {
       "raw_hot": 145684,
-      "num": 632039,
+      "num": 640475,
       "word": "美国发动网攻侵占全球虚拟资产",
       "onboard_time": 1772155940,
       "rank": 2,
@@ -515,6 +659,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 126920,
+      "num": 126920,
+      "word": "恋与深空",
+      "onboard_time": 1772163200,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126487,
       "num": 126487,
       "word": "王天辰 上桌",
@@ -528,6 +680,14 @@
       "word": "吴孟达离开已经五年了",
       "onboard_time": 1772157261,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122423,
+      "num": 122423,
+      "word": "虞书欣父亲新增开庭公告",
+      "onboard_time": 1772163319,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -569,6 +729,14 @@
       "onboard_time": 1772146818,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117796,
+      "num": 117796,
+      "word": "猫妈自留款",
+      "onboard_time": 1772166502,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 117223,
@@ -635,12 +803,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111181,
+      "num": 111181,
+      "word": "女子花8800寻猫发现没丢想退款遭拒",
+      "onboard_time": 1772162001,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106814,
       "num": 106814,
       "word": "柳智敏G社出图",
       "onboard_time": 1772158461,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 106731,
+      "num": 106731,
+      "word": "白宇前女友回应自曝恋情",
+      "onboard_time": 1772167580,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106710,
+      "num": 106710,
+      "word": "张凯丽说唐国强蹭热度",
+      "onboard_time": 1772164581,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 106437,
@@ -683,6 +875,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99986,
+      "num": 99986,
+      "word": "淘宝图标 褪色",
+      "onboard_time": 1772167342,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 98311,
+      "num": 98311,
+      "word": "删了吧有个读书人破防了",
+      "onboard_time": 1772167461,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97599,
       "num": 97599,
       "word": "星露谷物语",
@@ -712,6 +920,14 @@
       "word": "兔闪闪道歉",
       "onboard_time": 1772109561,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95500,
+      "num": 95500,
+      "word": "张雅钦扛住了g社镜头",
+      "onboard_time": 1772165601,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -779,6 +995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 89432,
+      "num": 85579,
+      "word": "张真源哄了半天哄好了0个人",
+      "onboard_time": 1772167641,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88423,
       "num": 88423,
       "word": "虎跳峡发疯石有游客坠江",
@@ -803,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85878,
+      "num": 85878,
+      "word": "28岁小伙长期吃炸鸡抽出猪油汤血",
+      "onboard_time": 1772167821,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83433,
       "num": 83433,
       "word": "魅族宣布暂停手机业务",
@@ -811,11 +1043,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 82790,
-      "num": 82790,
-      "word": "女子花8800寻猫发现没丢想退款遭拒",
-      "onboard_time": 1772162001,
-      "rank": 43,
+      "raw_hot": 82124,
+      "num": 82124,
+      "word": "女生吐槽美甲年后也必须用加油包",
+      "onboard_time": 1772167881,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1017,6 +1249,14 @@
       "onboard_time": 1772148678,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56541,
+      "num": 134203,
+      "word": "FENDI法棍包续写传奇",
+      "onboard_time": 1772165060,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 56191,

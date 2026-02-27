@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772162167374,
+  "endTime": 1772167995824,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -137,6 +137,14 @@
       "onboard_time": 1771941264,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1531871,
+      "num": 380781,
+      "word": "不建议在朋友圈展示技能",
+      "onboard_time": 1772162781,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 1498982,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 764388,
-      "num": 161770,
+      "num": 183790,
       "word": "疑似白宇前女友发文",
       "onboard_time": 1772153899,
       "rank": 21,
@@ -1419,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 520306,
+      "num": 162576,
+      "word": "白宇和前女友分手原因",
+      "onboard_time": 1772167162,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518828,
       "num": 518828,
       "word": "墨西哥毒枭身亡引发报复行动",
@@ -1640,6 +1656,14 @@
       "word": "肖战米兰酒店一晚2万欧元",
       "onboard_time": 1772090659,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 476903,
+      "num": 214762,
+      "word": "金泰梨对杨幂比心",
+      "onboard_time": 1772162241,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1971,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419848,
+      "num": 768894,
+      "word": "逐玉定档全是柿子",
+      "onboard_time": 1772166380,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419193,
       "num": 419193,
       "word": "男子误喝过期牛奶暴瘦53斤",
@@ -2073,6 +2105,14 @@
       "onboard_time": 1771715956,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409040,
+      "num": 409040,
+      "word": "何与虞书欣 二搭",
+      "onboard_time": 1772163023,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 407296,
@@ -2225,6 +2265,14 @@
       "onboard_time": 1772109561,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386587,
+      "num": 386587,
+      "word": "官方通报老人因无人抬担架延误离世",
+      "onboard_time": 1772162960,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 384016,
@@ -2683,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339539,
+      "num": 213782,
+      "word": "尘白禁区联动取消",
+      "onboard_time": 1772164640,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 337881,
       "num": 271033,
       "word": "星痕退役",
@@ -3099,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299719,
+      "num": 134185,
+      "word": "赖清德罕见改口称中国大陆",
+      "onboard_time": 1772164822,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 297763,
       "num": 185343,
       "word": "离婚发现女儿非亲生判还抚养费",
@@ -3449,6 +3513,14 @@
       "onboard_time": 1772063359,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273085,
+      "num": 213352,
+      "word": "将微胖还给真正胖的人",
+      "onboard_time": 1772160502,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 272744,
@@ -3817,6 +3889,14 @@
       "onboard_time": 1771901601,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 253440,
+      "num": 253440,
+      "word": "FIBA社媒称中国男篮偷走胜利",
+      "onboard_time": 1772160981,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 252359,
@@ -4307,6 +4387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229969,
+      "num": 211945,
+      "word": "陈飞宇半夜健身偶遇陈哲远",
+      "onboard_time": 1772166622,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229586,
       "num": 175891,
       "word": "肖秀荣怒斥假消息影响考生心态",
@@ -4460,7 +4548,7 @@
     },
     {
       "raw_hot": 224986,
-      "num": 165158,
+      "num": 195387,
       "word": "BLACKPINK 回归",
       "onboard_time": 1772154381,
       "rank": 16,
@@ -4513,6 +4601,14 @@
       "onboard_time": 1771977740,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222343,
+      "num": 134075,
+      "word": "奶奶把我的娃娃供奉在村里的庵里",
+      "onboard_time": 1772164401,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 222049,
@@ -4603,6 +4699,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 215795,
+      "num": 215795,
+      "word": "逐玉定档",
+      "onboard_time": 1772162301,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215730,
       "num": 192441,
       "word": "李昀锐将无缝进组剑阁闻铃",
@@ -4617,6 +4721,14 @@
       "onboard_time": 1771765701,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215232,
+      "num": 181130,
+      "word": "可以恢复视力的微习惯",
+      "onboard_time": 1772165121,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 215092,
@@ -4731,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206120,
+      "num": 179516,
+      "word": "最容易胖肚子的一种食物",
+      "onboard_time": 1772162540,
+      "rank": 22,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 206055,
       "num": 226648,
       "word": "开工第一天被通知放假10天",
@@ -4768,6 +4888,14 @@
       "word": "台湾男子在缅甸妙瓦底被殴打拔指甲",
       "onboard_time": 1771753221,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203654,
+      "num": 215332,
+      "word": "山西卫健委已严肃约谈市急救中心",
+      "onboard_time": 1772166502,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -5019,6 +5147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192748,
+      "num": 192748,
+      "word": "巴基斯坦对阿富汗政府公开宣战",
+      "onboard_time": 1772162599,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192671,
       "num": 187939,
       "word": "王曼昱19比21申裕斌",
@@ -5105,14 +5241,6 @@
       "onboard_time": 1771897100,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189623,
-      "num": 189623,
-      "word": "将微胖还给真正胖的人",
-      "onboard_time": 1772160502,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 189533,
@@ -5275,6 +5403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183992,
+      "num": 183992,
+      "word": "李家福曾建议诞5胞胎女子减胎",
+      "onboard_time": 1772163800,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183661,
       "num": 125965,
       "word": "宋雨琦拆了假发",
@@ -5417,6 +5553,14 @@
       "onboard_time": 1772099423,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177948,
+      "num": 177948,
+      "word": "程晓玥自曝孕晚期呼吸很困难",
+      "onboard_time": 1772166261,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 177598,
@@ -5907,20 +6051,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162000,
-      "num": 162000,
-      "word": "FIBA社媒称中国男篮偷走胜利",
-      "onboard_time": 1772160981,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161439,
       "num": 161439,
       "word": "贺峻霖祝丁程鑫本命年快乐",
       "onboard_time": 1771908983,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161426,
+      "num": 161426,
+      "word": "台独刘世芳亲属在大陆投资谋利",
+      "onboard_time": 1772167162,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 160648,
@@ -6404,7 +6548,7 @@
     },
     {
       "raw_hot": 145684,
-      "num": 632039,
+      "num": 640475,
       "word": "美国发动网攻侵占全球虚拟资产",
       "onboard_time": 1772155940,
       "rank": 2,
@@ -7363,6 +7507,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 126920,
+      "num": 126920,
+      "word": "恋与深空",
+      "onboard_time": 1772163200,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126339,
       "num": 126339,
       "word": "包上恩演技",
@@ -7617,6 +7769,14 @@
       "onboard_time": 1771898539,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122423,
+      "num": 122423,
+      "word": "虞书欣父亲新增开庭公告",
+      "onboard_time": 1772163319,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 122338,
@@ -7929,6 +8089,14 @@
       "onboard_time": 1771850901,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117796,
+      "num": 117796,
+      "word": "猫妈自留款",
+      "onboard_time": 1772166502,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 117601,
@@ -8395,6 +8563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111181,
+      "num": 111181,
+      "word": "女子花8800寻猫发现没丢想退款遭拒",
+      "onboard_time": 1772162001,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111156,
       "num": 111156,
       "word": "大疆反击美国禁令",
@@ -8745,6 +8921,22 @@
       "onboard_time": 1772107221,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106731,
+      "num": 106731,
+      "word": "白宇前女友回应自曝恋情",
+      "onboard_time": 1772167580,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106710,
+      "num": 106710,
+      "word": "张凯丽说唐国强蹭热度",
+      "onboard_time": 1772164581,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 106598,
@@ -9379,6 +9571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99986,
+      "num": 99986,
+      "word": "淘宝图标 褪色",
+      "onboard_time": 1772167342,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99729,
       "num": 99729,
       "word": "偏偏宠爱",
@@ -9489,6 +9689,14 @@
       "onboard_time": 1771895540,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98311,
+      "num": 98311,
+      "word": "删了吧有个读书人破防了",
+      "onboard_time": 1772167461,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 98046,
@@ -9728,6 +9936,14 @@
       "word": "Prada怼脸图",
       "onboard_time": 1771984700,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95500,
+      "num": 95500,
+      "word": "张雅钦扛住了g社镜头",
+      "onboard_time": 1772165601,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -10387,6 +10603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89432,
+      "num": 85579,
+      "word": "张真源哄了半天哄好了0个人",
+      "onboard_time": 1772167641,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89394,
       "num": 89394,
       "word": "夜王豆瓣开分7.8",
@@ -10747,6 +10971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85878,
+      "num": 85878,
+      "word": "28岁小伙长期吃炸鸡抽出猪油汤血",
+      "onboard_time": 1772167821,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85844,
       "num": 85844,
       "word": "刘宇宁凭本事单身",
@@ -11051,14 +11283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82790,
-      "num": 82790,
-      "word": "女子花8800寻猫发现没丢想退款遭拒",
-      "onboard_time": 1772162001,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82715,
       "num": 93669,
       "word": "外国游客出境时疯狂点赞中国",
@@ -11120,6 +11344,14 @@
       "word": "独居老人认快递员当干儿子被盗95万",
       "onboard_time": 1772070560,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82124,
+      "num": 82124,
+      "word": "女生吐槽美甲年后也必须用加油包",
+      "onboard_time": 1772167881,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -13065,6 +13297,14 @@
       "onboard_time": 1771779138,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56541,
+      "num": 134203,
+      "word": "FENDI法棍包续写传奇",
+      "onboard_time": 1772165060,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 55988,
