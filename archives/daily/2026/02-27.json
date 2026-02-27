@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772182419149,
+  "endTime": 1772183264474,
   "band_list": [
     {
       "raw_hot": 1567215,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 745873,
+      "num": 618949,
+      "word": "白敬亭章若楠 二搭",
+      "onboard_time": 1772181623,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 732527,
       "num": 1117204,
       "word": "父亲退还18.8万彩礼新娘发声",
@@ -91,11 +99,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 710633,
+      "num": 517652,
+      "word": "腾讯感谢爱奇艺宣传逐玉",
+      "onboard_time": 1772180240,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 696699,
       "num": 826457,
       "word": "未开封杨枝甘露8天后爆炸",
       "onboard_time": 1772179941,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 648062,
+      "num": 251040,
+      "word": "女子婚内出轨同居犯重婚罪获刑",
+      "onboard_time": 1772180121,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -177,6 +201,14 @@
       "onboard_time": 1772179461,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532023,
+      "num": 532023,
+      "word": "TODS大秀",
+      "onboard_time": 1772182162,
+      "rank": 7,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 529413,
@@ -315,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 391139,
-      "num": 391139,
-      "word": "腾讯感谢爱奇艺宣传逐玉",
-      "onboard_time": 1772180240,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 386587,
       "num": 386587,
       "word": "官方通报老人因无人抬担架延误离世",
@@ -347,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 366554,
-      "num": 251040,
-      "word": "女子婚内出轨同居犯重婚罪获刑",
-      "onboard_time": 1772180121,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 356341,
       "num": 356341,
       "word": "男子谎称走亲戚欲把7岁儿子留老家",
@@ -363,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353566,
-      "num": 353566,
-      "word": "TODS大秀",
-      "onboard_time": 1772182162,
-      "rank": 7,
-      "category": "时尚,作品衍生"
+      "raw_hot": 355120,
+      "num": 222299,
+      "word": "李亚鹏官宣与哥哥和解",
+      "onboard_time": 1772181080,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 350588,
@@ -385,14 +401,6 @@
       "onboard_time": 1772164640,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 338381,
-      "num": 338381,
-      "word": "白敬亭章若楠 二搭",
-      "onboard_time": 1772181623,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 333271,
@@ -435,20 +443,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303959,
+      "num": 230744,
+      "word": "P图的时候忘记P的是实况",
+      "onboard_time": 1772177902,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299719,
       "num": 215037,
       "word": "赖清德罕见改口称中国大陆",
       "onboard_time": 1772164822,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 299631,
-      "num": 230744,
-      "word": "P图的时候忘记P的是实况",
-      "onboard_time": 1772177902,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 295330,
@@ -465,6 +473,14 @@
       "onboard_time": 1772172620,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287674,
+      "num": 287674,
+      "word": "米哈游内部发文回应员工意外离世",
+      "onboard_time": 1772180721,
+      "rank": 22,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 279427,
@@ -537,14 +553,6 @@
       "onboard_time": 1772170461,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259293,
-      "num": 222299,
-      "word": "李亚鹏官宣与哥哥和解",
-      "onboard_time": 1772181080,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 258466,
@@ -651,14 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223433,
-      "num": 223433,
-      "word": "米哈游内部发文回应员工意外离世",
-      "onboard_time": 1772180721,
-      "rank": 22,
-      "category": "民生新闻,游戏"
-    },
-    {
       "raw_hot": 222343,
       "num": 134075,
       "word": "奶奶把我的娃娃供奉在村里的庵里",
@@ -681,6 +681,14 @@
       "onboard_time": 1772177301,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219778,
+      "num": 223829,
+      "word": "赵晴好灵",
+      "onboard_time": 1772181921,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 217899,
@@ -713,6 +721,14 @@
       "onboard_time": 1772162540,
       "rank": 22,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 205330,
+      "num": 144998,
+      "word": "肖战tods直播镜头",
+      "onboard_time": 1772182881,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200724,
@@ -883,6 +899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157289,
+      "num": 138747,
+      "word": "内娱男艺人要下海开酒吧了",
+      "onboard_time": 1772181140,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154876,
       "num": 141653,
       "word": "沈月持证上岗",
@@ -939,14 +963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 145673,
-      "num": 223829,
-      "word": "赵晴好灵",
-      "onboard_time": 1772181921,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144306,
       "num": 161030,
       "word": "徐志胜贴脸开大宋妍霏臭脸",
@@ -977,14 +993,6 @@
       "onboard_time": 1772108061,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 138747,
-      "num": 138747,
-      "word": "内娱男艺人要下海开酒吧了",
-      "onboard_time": 1772181140,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 137188,
@@ -1251,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112573,
+      "num": 106444,
+      "word": "宁艺卓 最夸张的老钱来了",
+      "onboard_time": 1772182641,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112375,
       "num": 112375,
       "word": "逐玉我对缘分小心翼翼MV",
@@ -1331,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106199,
+      "num": 106199,
+      "word": "全红婵秀街舞回应被网友攻击",
+      "onboard_time": 1772181742,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105495,
       "num": 100401,
       "word": "郭富城一家去景区只用买一张票",
@@ -1353,14 +1377,6 @@
       "onboard_time": 1772173461,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104331,
-      "num": 104331,
-      "word": "全红婵秀街舞回应被网友攻击",
-      "onboard_time": 1772181742,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 102669,
@@ -1875,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66434,
+      "num": 223651,
+      "word": "人社局回应女子为父请假致其被辞退",
+      "onboard_time": 1772182101,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65325,
       "num": 93417,
       "word": "虎跳峡落水失联男子仍未找到",
@@ -1907,12 +1931,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62348,
+      "num": 106853,
+      "word": "黄晓明说范丞丞黄子韬给青岛人丢人",
+      "onboard_time": 1772182402,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60828,
       "num": 60828,
       "word": "刘诗诗头戴非遗绒花高雅动人",
       "onboard_time": 1772125697,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60601,
+      "num": 131919,
+      "word": "打卡地球最像月球的地方",
+      "onboard_time": 1772182521,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 59948,
@@ -2003,6 +2043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51352,
+      "num": 207208,
+      "word": "捡手机藏4个月失主WiFi定位追到",
+      "onboard_time": 1772182822,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51189,
       "num": 160467,
       "word": "杨幂登陆少年组合Prada大秀同框",
@@ -2016,14 +2064,6 @@
       "word": "女子在服务区厕所捡4万多现金",
       "onboard_time": 1772148918,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48976,
-      "num": 223651,
-      "word": "人社局回应女子为父请假致其被辞退",
-      "onboard_time": 1772182101,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2115,6 +2155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36306,
+      "num": 197534,
+      "word": "超短学期",
+      "onboard_time": 1772182822,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35831,
       "num": 121257,
       "word": "男子高铁抽烟还把脚放窗上",
@@ -2187,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27751,
+      "num": 106736,
+      "word": "女孩遭猥亵爷爷维权被要求别声张",
+      "onboard_time": 1772182822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26674,
       "num": 212110,
       "word": "德国总理为宇树机器人竖大拇指",
@@ -2219,6 +2275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 22342,
+      "num": 106948,
+      "word": "柳智敏曾为当空姐学中文",
+      "onboard_time": 1772182822,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22285,
       "num": 25883,
       "word": "惊蛰无声票房破10亿",
@@ -2233,6 +2297,14 @@
       "onboard_time": 1772134754,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18042,
+      "num": 106799,
+      "word": "身份不明老人与鸡鸭同住环境恶劣",
+      "onboard_time": 1772182942,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17901,
@@ -2328,6 +2400,14 @@
       "word": "退彩礼父亲说若儿媳妇要彩礼照样给",
       "onboard_time": 1772168421,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6824,
+      "num": 674223,
+      "word": "原来新质生产力正在改变我们的生活",
+      "onboard_time": 1772183000,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1772183264474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 834717,
+        "num": 1133554,
+        "word": "现在就出发4",
+        "onboard_time": 1772169801,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640765,
+        "num": 810161,
+        "word": "未开封杨枝甘露8天后爆炸",
+        "onboard_time": 1772179941,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6824,
+        "num": 674223,
+        "word": "原来新质生产力正在改变我们的生活",
+        "onboard_time": 1772183000,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745873,
+        "num": 618949,
+        "word": "白敬亭章若楠 二搭",
+        "onboard_time": 1772181623,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532023,
+        "num": 532023,
+        "word": "TODS大秀",
+        "onboard_time": 1772182162,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 710633,
+        "num": 517652,
+        "word": "腾讯感谢爱奇艺宣传逐玉",
+        "onboard_time": 1772180240,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469497,
+        "num": 469497,
+        "word": "43岁也能考编了",
+        "onboard_time": 1772178622,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378350,
+        "num": 378350,
+        "word": "头像洁癖",
+        "onboard_time": 1772176581,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287674,
+        "num": 287674,
+        "word": "米哈游内部发文回应员工意外离世",
+        "onboard_time": 1772180721,
+        "rank": 8,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 224796,
+        "num": 224796,
+        "word": "魅族",
+        "onboard_time": 1772176642,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 648062,
+        "num": 224341,
+        "word": "女子婚内出轨同居犯重婚罪获刑",
+        "onboard_time": 1772180121,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430852,
+        "num": 223779,
+        "word": "肖战米兰看秀造型",
+        "onboard_time": 1772179461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361227,
+        "num": 223225,
+        "word": "小徐六级277分",
+        "onboard_time": 1772171901,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 303959,
+        "num": 222755,
+        "word": "P图的时候忘记P的是实况",
+        "onboard_time": 1772177902,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 355120,
+        "num": 222149,
+        "word": "李亚鹏官宣与哥哥和解",
+        "onboard_time": 1772181080,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284210,
+        "num": 221513,
+        "word": "虞书欣父亲借贷案三大焦点",
+        "onboard_time": 1772175081,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221301,
+        "num": 221301,
+        "word": "不建议在朋友圈展示技能",
+        "onboard_time": 1772162781,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51352,
+        "num": 207208,
+        "word": "捡手机藏4个月失主WiFi定位追到",
+        "onboard_time": 1772182822,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36306,
+        "num": 197534,
+        "word": "超短学期",
+        "onboard_time": 1772182822,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66434,
+        "num": 196856,
+        "word": "人社局回应女子为父请假致其被辞退",
+        "onboard_time": 1772182101,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196335,
+        "num": 196335,
+        "word": "意大利小偷把肾结石误认黄金偷走",
+        "onboard_time": 1772176400,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 409674,
+        "num": 183484,
+        "word": "Tiffany卞耀汉结婚",
+        "onboard_time": 1772176161,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267224,
+        "num": 180332,
+        "word": "见春天 陈飞宇王影璐",
+        "onboard_time": 1772178561,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164153,
+        "num": 164153,
+        "word": "替父请假2小时致其被开除女子发声",
+        "onboard_time": 1772171182,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250007,
+        "num": 161899,
+        "word": "姜妍常驻现在就出发",
+        "onboard_time": 1772174242,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219778,
+        "num": 160772,
+        "word": "赵晴好灵",
+        "onboard_time": 1772181921,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146248,
+        "num": 146248,
+        "word": "尘白禁区联动取消",
+        "onboard_time": 1772164640,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205330,
+        "num": 144998,
+        "word": "肖战tods直播镜头",
+        "onboard_time": 1772182881,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192728,
+        "num": 138197,
+        "word": "伊能静 真的别再雌竞了",
+        "onboard_time": 1772176400,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60601,
+        "num": 131919,
+        "word": "打卡地球最像月球的地方",
+        "onboard_time": 1772182521,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 182787,
+        "num": 126478,
+        "word": "AI短剧已经丝滑到这种程度了",
+        "onboard_time": 1772179941,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56414,
+        "num": 119547,
+        "word": "美国发动网攻侵占全球虚拟资产",
+        "onboard_time": 1772155940,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170479,
+        "num": 116984,
+        "word": "杨幂唐嫣看秀生图",
+        "onboard_time": 1772179582,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157289,
+        "num": 111998,
+        "word": "内娱男艺人要下海开酒吧了",
+        "onboard_time": 1772181140,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107034,
+        "num": 107034,
+        "word": "Cat退役发长文",
+        "onboard_time": 1772176581,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154657,
+        "num": 107001,
+        "word": "今天的饺子是王一博擀的皮",
+        "onboard_time": 1772177301,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22342,
+        "num": 106948,
+        "word": "柳智敏曾为当空姐学中文",
+        "onboard_time": 1772182822,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62348,
+        "num": 106853,
+        "word": "黄晓明说范丞丞黄子韬给青岛人丢人",
+        "onboard_time": 1772182402,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18042,
+        "num": 106799,
+        "word": "身份不明老人与鸡鸭同住环境恶劣",
+        "onboard_time": 1772182942,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27751,
+        "num": 106736,
+        "word": "女孩遭猥亵爷爷维权被要求别声张",
+        "onboard_time": 1772182822,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82539,
+        "num": 106695,
+        "word": "这么多年带出去玩的内衣都错付了",
+        "onboard_time": 1772180121,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 154278,
+        "num": 106623,
+        "word": "白宇和前女友分手原因",
+        "onboard_time": 1772167162,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121656,
+        "num": 106505,
+        "word": "姐姐姐夫",
+        "onboard_time": 1772170461,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106493,
+        "num": 106493,
+        "word": "彪马店员说买不起别试",
+        "onboard_time": 1772172620,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112573,
+        "num": 106444,
+        "word": "宁艺卓 最夸张的老钱来了",
+        "onboard_time": 1772182641,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106199,
+        "num": 106199,
+        "word": "全红婵秀街舞回应被网友攻击",
+        "onboard_time": 1772181742,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104556,
+        "num": 104556,
+        "word": "丈夫准备给诞下5胞胎老婆送黄金",
+        "onboard_time": 1772169620,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103406,
+        "num": 103406,
+        "word": "刘晓艳现身小徐直播间",
+        "onboard_time": 1772175859,
+        "rank": 47,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 96446,
+        "num": 96446,
+        "word": "比尔盖茨被曝是裸体夜店常客",
+        "onboard_time": 1772170761,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89670,
+        "num": 89670,
+        "word": "豆包严正声明",
+        "onboard_time": 1772179761,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#增强政治责任感和历史使命感#"
+    }
+  }
+}
