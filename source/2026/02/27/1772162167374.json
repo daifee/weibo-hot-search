@@ -1,0 +1,410 @@
+{
+  "runTime": 1772162167374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 732527,
+        "num": 1117204,
+        "word": "父亲退还18.8万彩礼新娘发声",
+        "onboard_time": 1772159359,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416527,
+        "num": 809928,
+        "word": "中国人民银行公告",
+        "onboard_time": 1772155580,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111942,
+        "num": 632039,
+        "word": "美国发动网攻侵占全球虚拟资产",
+        "onboard_time": 1772155940,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353098,
+        "num": 353098,
+        "word": "南京档案馆找到谷爱凌外婆户籍卡",
+        "onboard_time": 1772151859,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332668,
+        "num": 332668,
+        "word": "魅族公告",
+        "onboard_time": 1772159900,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 447585,
+        "num": 323425,
+        "word": "网约车电车晕车的原因",
+        "onboard_time": 1772158282,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310876,
+        "num": 310876,
+        "word": "逐玉",
+        "onboard_time": 1772147596,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289667,
+        "num": 289667,
+        "word": "四六级查分",
+        "onboard_time": 1772147297,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 276116,
+        "num": 276116,
+        "word": "爱奇艺利润暴跌七成",
+        "onboard_time": 1772160200,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274468,
+        "num": 274468,
+        "word": "怪不得高启强不让他弟碰毒",
+        "onboard_time": 1772160921,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245493,
+        "num": 245493,
+        "word": "Gucci晒肖战邀请函",
+        "onboard_time": 1772150180,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 235301,
+        "num": 235301,
+        "word": "巴基斯坦空袭阿富汗",
+        "onboard_time": 1772155760,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241067,
+        "num": 233551,
+        "word": "杨幂Prada顶级待遇",
+        "onboard_time": 1772159541,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230492,
+        "num": 230492,
+        "word": "庆奶吻戏男主回复又老又年轻靠滤镜",
+        "onboard_time": 1772150180,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211676,
+        "num": 211676,
+        "word": "育儿嫂疑在房间打孩子被玻璃照出",
+        "onboard_time": 1772155040,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220667,
+        "num": 205889,
+        "word": "网传现在就出发4没有金晨",
+        "onboard_time": 1772153962,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189640,
+        "num": 189640,
+        "word": "宝格丽代言人名单",
+        "onboard_time": 1772154560,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189623,
+        "num": 189623,
+        "word": "将微胖还给真正胖的人",
+        "onboard_time": 1772160502,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165158,
+        "num": 165158,
+        "word": "BLACKPINK 回归",
+        "onboard_time": 1772154381,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162000,
+        "num": 162000,
+        "word": "FIBA社媒称中国男篮偷走胜利",
+        "onboard_time": 1772160981,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539733,
+        "num": 161770,
+        "word": "疑似白宇前女友发文",
+        "onboard_time": 1772153899,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187890,
+        "num": 161521,
+        "word": "开工1天签5千万单的女子再签4千万",
+        "onboard_time": 1772159841,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144306,
+        "num": 161030,
+        "word": "徐志胜贴脸开大宋妍霏臭脸",
+        "onboard_time": 1772161580,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160648,
+        "num": 160648,
+        "word": "勾中指竟然是个养生动作",
+        "onboard_time": 1772158159,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151967,
+        "num": 151967,
+        "word": "00后女骑手送餐遭顾客骚扰报警",
+        "onboard_time": 1772151741,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445364,
+        "num": 150059,
+        "word": "曝白宇还和刘萌萌在一起",
+        "onboard_time": 1772157200,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147194,
+        "num": 147194,
+        "word": "沈月个人工作室",
+        "onboard_time": 1772155340,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124058,
+        "num": 124058,
+        "word": "好潦草的烟花真是设计鬼才",
+        "onboard_time": 1772151020,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126177,
+        "num": 123945,
+        "word": "吴孟达离开已经五年了",
+        "onboard_time": 1772157261,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122143,
+        "num": 122143,
+        "word": "智能手机全面涨价才刚开始",
+        "onboard_time": 1772161700,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121310,
+        "num": 121310,
+        "word": "谷爱凌回应九亿少女的梦",
+        "onboard_time": 1772160680,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117223,
+        "num": 117223,
+        "word": "田曦薇 樊长玉",
+        "onboard_time": 1772157921,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114416,
+        "num": 114416,
+        "word": "方圆脸如何颜值最大化",
+        "onboard_time": 1772158701,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 106814,
+        "num": 106814,
+        "word": "柳智敏G社出图",
+        "onboard_time": 1772158461,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101962,
+        "num": 101962,
+        "word": "王安宇 毕正明的证明",
+        "onboard_time": 1772155999,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96415,
+        "num": 96415,
+        "word": "巴基斯坦航天员将入驻中国空间站",
+        "onboard_time": 1772155161,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100301,
+        "num": 95508,
+        "word": "金泰梨裤子",
+        "onboard_time": 1772155821,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93861,
+        "num": 93861,
+        "word": "六级",
+        "onboard_time": 1772147297,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91520,
+        "num": 91520,
+        "word": "陈丽君台湾巡演人气大爆",
+        "onboard_time": 1772149758,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86925,
+        "num": 86925,
+        "word": "一盒内存条堪比一套房",
+        "onboard_time": 1772121620,
+        "rank": 39,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 86714,
+        "num": 86714,
+        "word": "苹果新品来了",
+        "onboard_time": 1772116343,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83433,
+        "num": 83433,
+        "word": "魅族宣布暂停手机业务",
+        "onboard_time": 1772161761,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82941,
+        "num": 82941,
+        "word": "比尔盖茨出轨女性身份曝光",
+        "onboard_time": 1772117663,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82790,
+        "num": 82790,
+        "word": "女子花8800寻猫发现没丢想退款遭拒",
+        "onboard_time": 1772162001,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80283,
+        "num": 80283,
+        "word": "多位领克车主测试语音关闭大灯",
+        "onboard_time": 1772161340,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 78288,
+        "num": 78288,
+        "word": "杨幂TOP坐一起",
+        "onboard_time": 1772121441,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78107,
+        "num": 78107,
+        "word": "迪丽热巴方辟谣瓦猫",
+        "onboard_time": 1772152881,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76829,
+        "num": 76829,
+        "word": "虎跳峡发疯石有游客坠江",
+        "onboard_time": 1772158340,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75709,
+        "num": 75709,
+        "word": "男子谎称走亲戚欲把7岁儿子留老家",
+        "onboard_time": 1772117422,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72627,
+        "num": 72627,
+        "word": "全国妈妈的统一夜晚",
+        "onboard_time": 1772148138,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#增强政治责任感和历史使命感#"
+    }
+  }
+}

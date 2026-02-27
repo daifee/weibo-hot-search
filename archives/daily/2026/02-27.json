@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772159863063,
+  "endTime": 1772162167374,
   "band_list": [
     {
       "raw_hot": 990189,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 764388,
-      "num": 124692,
+      "num": 161770,
       "word": "疑似白宇前女友发文",
       "onboard_time": 1772153899,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 732527,
+      "num": 1117204,
+      "word": "父亲退还18.8万彩礼新娘发声",
+      "onboard_time": 1772159359,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 645191,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 512732,
-      "num": 115514,
+      "num": 150059,
       "word": "曝白宇还和刘萌萌在一起",
       "onboard_time": 1772157200,
       "rank": 26,
@@ -89,6 +97,14 @@
       "onboard_time": 1772116343,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 447585,
+      "num": 323425,
+      "word": "网约车电车晕车的原因",
+      "onboard_time": 1772158282,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 436893,
@@ -139,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332668,
+      "num": 332668,
+      "word": "魅族公告",
+      "onboard_time": 1772159900,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 329968,
       "num": 329968,
       "word": "尘白禁区发文回应",
@@ -147,16 +171,32 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 310876,
+      "num": 310876,
+      "word": "逐玉",
+      "onboard_time": 1772147596,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295330,
-      "num": 164047,
+      "num": 211676,
       "word": "育儿嫂疑在房间打孩子被玻璃照出",
       "onboard_time": 1772155040,
       "rank": 11,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276116,
+      "num": 276116,
+      "word": "爱奇艺利润暴跌七成",
+      "onboard_time": 1772160200,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 275665,
-      "num": 163578,
+      "num": 189640,
       "word": "宝格丽代言人名单",
       "onboard_time": 1772154560,
       "rank": 12,
@@ -171,8 +211,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274468,
+      "num": 274468,
+      "word": "怪不得高启强不让他弟碰毒",
+      "onboard_time": 1772160921,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256088,
-      "num": 162319,
+      "num": 245493,
       "word": "Gucci晒肖战邀请函",
       "onboard_time": 1772150180,
       "rank": 13,
@@ -180,7 +228,7 @@
     },
     {
       "raw_hot": 254105,
-      "num": 161626,
+      "num": 230492,
       "word": "庆奶吻戏男主回复又老又年轻靠滤镜",
       "onboard_time": 1772150180,
       "rank": 15,
@@ -203,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241067,
+      "num": 233551,
+      "word": "杨幂Prada顶级待遇",
+      "onboard_time": 1772159541,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240870,
       "num": 240870,
       "word": "巴基斯坦空袭阿富汗",
@@ -212,7 +268,7 @@
     },
     {
       "raw_hot": 224986,
-      "num": 157540,
+      "num": 165158,
       "word": "BLACKPINK 回归",
       "onboard_time": 1772154381,
       "rank": 16,
@@ -236,7 +292,7 @@
     },
     {
       "raw_hot": 213004,
-      "num": 133653,
+      "num": 147194,
       "word": "沈月个人工作室",
       "onboard_time": 1772155340,
       "rank": 18,
@@ -267,12 +323,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189623,
+      "num": 189623,
+      "word": "将微胖还给真正胖的人",
+      "onboard_time": 1772160502,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188297,
       "num": 188297,
       "word": "飞驰人生3",
       "onboard_time": 1772133854,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187890,
+      "num": 161521,
+      "word": "开工1天签5千万单的女子再签4千万",
+      "onboard_time": 1772159841,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185664,
@@ -339,12 +411,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 161722,
-      "num": 161722,
-      "word": "网约车电车晕车的原因",
-      "onboard_time": 1772158282,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 162000,
+      "num": 162000,
+      "word": "FIBA社媒称中国男篮偷走胜利",
+      "onboard_time": 1772160981,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160648,
+      "num": 160648,
+      "word": "勾中指竟然是个养生动作",
+      "onboard_time": 1772158159,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 150780,
@@ -380,11 +460,19 @@
     },
     {
       "raw_hot": 145684,
-      "num": 605255,
+      "num": 632039,
       "word": "美国发动网攻侵占全球虚拟资产",
       "onboard_time": 1772155940,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144306,
+      "num": 161030,
+      "word": "徐志胜贴脸开大宋妍霏臭脸",
+      "onboard_time": 1772161580,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 140321,
@@ -411,14 +499,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 137384,
-      "num": 124792,
-      "word": "勾中指竟然是个养生动作",
-      "onboard_time": 1772158159,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 129846,
       "num": 124523,
       "word": "陈丽君台湾巡演人气大爆",
@@ -428,7 +508,7 @@
     },
     {
       "raw_hot": 127117,
-      "num": 103113,
+      "num": 114416,
       "word": "方圆脸如何颜值最大化",
       "onboard_time": 1772158701,
       "rank": 30,
@@ -443,12 +523,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 124937,
-      "num": 124937,
-      "word": "杨幂Prada顶级待遇",
-      "onboard_time": 1772159541,
-      "rank": 19,
+      "raw_hot": 126177,
+      "num": 123945,
+      "word": "吴孟达离开已经五年了",
+      "onboard_time": 1772157261,
+      "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122143,
+      "num": 122143,
+      "word": "智能手机全面涨价才刚开始",
+      "onboard_time": 1772161700,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 121368,
@@ -456,6 +544,14 @@
       "word": "王楚钦说太累了比干七局还累",
       "onboard_time": 1772147955,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121310,
+      "num": 121310,
+      "word": "谷爱凌回应九亿少女的梦",
+      "onboard_time": 1772160680,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -475,20 +571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117223,
+      "num": 117223,
+      "word": "田曦薇 樊长玉",
+      "onboard_time": 1772157921,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117058,
       "num": 117058,
       "word": "JDG战胜AL",
       "onboard_time": 1772114181,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116976,
-      "num": 116976,
-      "word": "父亲退还18.8万彩礼新娘发声",
-      "onboard_time": 1772159359,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116472,
@@ -505,14 +601,6 @@
       "onboard_time": 1772148678,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115309,
-      "num": 115309,
-      "word": "吴孟达离开已经五年了",
-      "onboard_time": 1772157261,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 114166,
@@ -547,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106814,
+      "num": 106814,
+      "word": "柳智敏G社出图",
+      "onboard_time": 1772158461,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 106437,
       "num": 114407,
       "word": "申裕斌赛后飙中文太累了",
@@ -571,12 +667,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101617,
-      "num": 101617,
-      "word": "逐玉",
-      "onboard_time": 1772147596,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 101962,
+      "num": 101962,
+      "word": "王安宇 毕正明的证明",
+      "onboard_time": 1772155999,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 101315,
@@ -707,28 +803,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84188,
-      "num": 84188,
-      "word": "王安宇 毕正明的证明",
-      "onboard_time": 1772155999,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 83433,
+      "num": 83433,
+      "word": "魅族宣布暂停手机业务",
+      "onboard_time": 1772161761,
+      "rank": 41,
+      "category": "数码"
     },
     {
-      "raw_hot": 82700,
-      "num": 82700,
-      "word": "柳智敏G社出图",
-      "onboard_time": 1772158461,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 82246,
-      "num": 82095,
-      "word": "田曦薇 樊长玉",
-      "onboard_time": 1772157921,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 82790,
+      "num": 82790,
+      "word": "女子花8800寻猫发现没丢想退款遭拒",
+      "onboard_time": 1772162001,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81893,
@@ -779,6 +867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 80283,
+      "num": 80283,
+      "word": "多位领克车主测试语音关闭大灯",
+      "onboard_time": 1772161340,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 79739,
       "num": 79739,
       "word": "王天辰郭晓婷花絮好甜",
@@ -824,14 +920,6 @@
       "word": "香港山火仍在扑救中",
       "onboard_time": 1772126955,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77108,
-      "num": 77108,
-      "word": "开工1天签5千万单的女子再签4千万",
-      "onboard_time": 1772159841,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1206,6 +1294,9 @@
   "hotgov_list": [
     {
       "word": "#习近平强调潜绩的重要性#"
+    },
+    {
+      "word": "#增强政治责任感和历史使命感#"
     }
   ]
 }
