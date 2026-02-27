@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772225618068,
+  "endTime": 1772228265352,
   "band_list": [
     {
       "raw_hot": 868722,
@@ -499,7 +499,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19483,
+      "raw_hot": 19658,
       "num": 27432,
       "word": "Gucci大秀",
       "onboard_time": 1772203282,
@@ -531,12 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15703,
-      "num": 15703,
+      "raw_hot": 15869,
+      "num": 15869,
       "word": "米兰时装周",
       "onboard_time": 1772196142,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 15753,
+      "num": 15753,
+      "word": "使领馆将协助中国公民撤离伊朗",
+      "onboard_time": 1772223734,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15445,
@@ -545,14 +553,6 @@
       "onboard_time": 1772216595,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14663,
-      "num": 15445,
-      "word": "使领馆将协助中国公民撤离伊朗",
-      "onboard_time": 1772223734,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12410,
