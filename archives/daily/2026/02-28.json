@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772231578019,
+  "endTime": 1772232677083,
   "band_list": [
     {
       "raw_hot": 868722,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 231862,
-      "num": 315218,
+      "num": 378918,
       "word": "有美国入侵伊拉克时的味道了",
       "onboard_time": 1772207781,
       "rank": 4,
@@ -121,6 +121,14 @@
       "onboard_time": 1772198303,
       "rank": 21,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 207100,
+      "num": 534872,
+      "word": "23岁研究生胃癌晚期称作息不规律",
+      "onboard_time": 1772211857,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168093,
@@ -153,14 +161,6 @@
       "onboard_time": 1772202922,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137266,
-      "num": 423073,
-      "word": "23岁研究生胃癌晚期称作息不规律",
-      "onboard_time": 1772211857,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137059,
@@ -475,6 +475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 24289,
+      "num": 27432,
+      "word": "Gucci大秀",
+      "onboard_time": 1772203282,
+      "rank": 46,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 24227,
       "num": 27435,
       "word": "不让江山",
@@ -499,12 +507,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22396,
-      "num": 27432,
-      "word": "Gucci大秀",
-      "onboard_time": 1772203282,
-      "rank": 46,
-      "category": "时尚,作品衍生"
+      "raw_hot": 22122,
+      "num": 24289,
+      "word": "美伊对峙",
+      "onboard_time": 1772203644,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 18934,
+      "num": 24279,
+      "word": "使领馆将协助中国公民撤离伊朗",
+      "onboard_time": 1772223734,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 18024,
+      "num": 24278,
+      "word": "亲爱的客栈",
+      "onboard_time": 1772193141,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 17856,
@@ -515,36 +539,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 17823,
-      "num": 17823,
-      "word": "使领馆将协助中国公民撤离伊朗",
-      "onboard_time": 1772223734,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 17392,
-      "num": 17392,
-      "word": "亲爱的客栈",
-      "onboard_time": 1772193141,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16520,
-      "num": 17349,
+      "num": 24275,
       "word": "有歌第二季",
       "onboard_time": 1772221754,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16347,
-      "num": 17349,
-      "word": "美伊对峙",
-      "onboard_time": 1772203644,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16181,
