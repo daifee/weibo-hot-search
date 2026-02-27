@@ -1,7 +1,15 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772199592350,
+  "endTime": 1772203664487,
   "band_list": [
+    {
+      "raw_hot": 2474878,
+      "num": 179335,
+      "word": "美国 伊朗",
+      "onboard_time": 1772199803,
+      "rank": 10,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 2140390,
       "num": 259184,
@@ -19,6 +27,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1699835,
+      "num": 178923,
+      "word": "黄金",
+      "onboard_time": 1772199683,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1567215,
       "num": 578986,
       "word": "周冬雨自曝和余文乐录恋综很走心",
@@ -33,6 +49,14 @@
       "onboard_time": 1772162781,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1274870,
+      "num": 228407,
+      "word": "奥黛丽厚本正完骨变薄本了",
+      "onboard_time": 1772199022,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 1193067,
@@ -379,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506378,
+      "num": 817225,
+      "word": "美国双航母已就位",
+      "onboard_time": 1772199323,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 486696,
       "num": 1077871,
       "word": "逐玉定档全是柿子",
@@ -539,6 +571,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 380914,
+      "num": 380914,
+      "word": "伊军方将对美侵略予以毁灭性回应",
+      "onboard_time": 1772199983,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 380179,
       "num": 154797,
       "word": "中国邮政回应已叫停相关线下活动",
@@ -627,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 339171,
+      "num": 177883,
+      "word": "Prada晚宴上的谷爱凌",
+      "onboard_time": 1772198362,
+      "rank": 14,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 333271,
       "num": 179543,
       "word": "刘晓艳现身小徐直播间",
@@ -691,6 +739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 298291,
+      "num": 298291,
+      "word": "虎跳峡男游客疑因洗杯落水失联",
+      "onboard_time": 1772200823,
+      "rank": 6,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 295330,
       "num": 211676,
       "word": "育儿嫂疑在房间打孩子被玻璃照出",
@@ -729,6 +785,14 @@
       "onboard_time": 1772166622,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278674,
+      "num": 278674,
+      "word": "中国驻以色列使馆紧急通知",
+      "onboard_time": 1772199143,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 276116,
@@ -955,14 +1019,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 228407,
-      "num": 228407,
-      "word": "奥黛丽厚本正完骨变薄本了",
-      "onboard_time": 1772199022,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 224257,
       "num": 167207,
       "word": "杨幂怼脸镜头好美",
@@ -1041,6 +1097,14 @@
       "onboard_time": 1772193141,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208219,
+      "num": 175110,
+      "word": "张极直播",
+      "onboard_time": 1772203282,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 206120,
@@ -1179,6 +1243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184900,
+      "num": 173912,
+      "word": "小徐已成立公司",
+      "onboard_time": 1772201423,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 183992,
       "num": 183992,
       "word": "李家福曾建议诞5胞胎女子减胎",
@@ -1225,6 +1297,14 @@
       "onboard_time": 1772196382,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175025,
+      "num": 175025,
+      "word": "宝可梦风与波",
+      "onboard_time": 1772203043,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 174590,
@@ -1468,7 +1548,7 @@
     },
     {
       "raw_hot": 139860,
-      "num": 125957,
+      "num": 138050,
       "word": "养过小孩的才知道他有多会教",
       "onboard_time": 1772189480,
       "rank": 32,
@@ -1505,6 +1585,14 @@
       "onboard_time": 1772196862,
       "rank": 29,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 138396,
+      "num": 138396,
+      "word": "政府借厕所遭辱骂男子要求公开道歉",
+      "onboard_time": 1772201963,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137831,
@@ -1635,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125117,
+      "num": 125117,
+      "word": "WB对战TTG",
+      "onboard_time": 1772200763,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124862,
       "num": 124862,
       "word": "周冬雨喜欢不mean的男生",
@@ -1657,14 +1753,6 @@
       "onboard_time": 1772192660,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122769,
-      "num": 129290,
-      "word": "中国驻以色列使馆紧急通知",
-      "onboard_time": 1772199143,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 122423,
@@ -1787,12 +1875,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116212,
+      "num": 177612,
+      "word": "Gucci大秀",
+      "onboard_time": 1772203282,
+      "rank": 15,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 115996,
       "num": 115996,
       "word": "美国建议美国公民尽快离开以色列",
       "onboard_time": 1772190801,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115219,
+      "num": 115219,
+      "word": "始祖鸟财报",
+      "onboard_time": 1772201362,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 115213,
@@ -1817,6 +1921,14 @@
       "onboard_time": 1772167821,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114466,
+      "num": 114466,
+      "word": "柳智敏 我喜欢漂亮女人",
+      "onboard_time": 1772202922,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 114166,
@@ -1883,6 +1995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111356,
+      "num": 111356,
+      "word": "苏新皓突袭直播",
+      "onboard_time": 1772201484,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111181,
       "num": 111181,
       "word": "女子花8800寻猫发现没丢想退款遭拒",
@@ -1905,14 +2025,6 @@
       "onboard_time": 1772177000,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109384,
-      "num": 109384,
-      "word": "美国双航母已就位",
-      "onboard_time": 1772199323,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107583,
@@ -2107,12 +2219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99804,
+      "num": 99804,
+      "word": "AG拿下开年首胜",
+      "onboard_time": 1772202982,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99459,
       "num": 129139,
       "word": "陈垣宇vs雨果",
       "onboard_time": 1772174661,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99361,
+      "num": 99361,
+      "word": "穆祉丞左中右自拍",
+      "onboard_time": 1772200342,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 99118,
@@ -2235,6 +2363,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95676,
+      "num": 95430,
+      "word": "朴安娜 造型",
+      "onboard_time": 1772203583,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95446,
+      "num": 95446,
+      "word": "RW教练回应失误",
+      "onboard_time": 1772203345,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 95367,
+      "num": 95367,
+      "word": "新一代SU7车门可电动也可机械",
+      "onboard_time": 1772202262,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 94814,
       "num": 94814,
       "word": "谷爱凌Prada看秀",
@@ -2257,6 +2409,14 @@
       "onboard_time": 1772196802,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93873,
+      "num": 95114,
+      "word": "生5胞胎爹妈一次要剪100个指甲",
+      "onboard_time": 1772200342,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93784,
@@ -2755,6 +2915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 59729,
+      "num": 176869,
+      "word": "肖战又闪耀米兰了",
+      "onboard_time": 1772201063,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 59632,
       "num": 223084,
       "word": "为给43岁哥哥求姻缘发动全家砍树",
@@ -2825,6 +2993,14 @@
       "onboard_time": 1772149578,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55107,
+      "num": 699115,
+      "word": "关注2026全国两会",
+      "onboard_time": 1772199022,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54345,
@@ -3105,14 +3281,6 @@
       "onboard_time": 1772184021,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22890,
-      "num": 699115,
-      "word": "关注2026全国两会",
-      "onboard_time": 1772199022,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22821,
