@@ -1,0 +1,410 @@
+{
+  "runTime": 1772176006642,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 730221,
+        "num": 1116835,
+        "word": "替父请假2小时致其被开除女子发声",
+        "onboard_time": 1772171182,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431321,
+        "num": 808855,
+        "word": "丈夫准备给诞下5胞胎老婆送黄金",
+        "onboard_time": 1772169620,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76928,
+        "num": 627738,
+        "word": "美国发动网攻侵占全球虚拟资产",
+        "onboard_time": 1772155940,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1142821,
+        "num": 554597,
+        "word": "周冬雨自曝和余文乐录恋综很走心",
+        "onboard_time": 1772168900,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430976,
+        "num": 430976,
+        "word": "现在就出发4",
+        "onboard_time": 1772169801,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511330,
+        "num": 429936,
+        "word": "不建议在朋友圈展示技能",
+        "onboard_time": 1772162781,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 537479,
+        "num": 428271,
+        "word": "姜妍常驻现在就出发",
+        "onboard_time": 1772174242,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424793,
+        "num": 424793,
+        "word": "千元机或将消失",
+        "onboard_time": 1772170100,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 240617,
+        "num": 240617,
+        "word": "极客湾",
+        "onboard_time": 1772170401,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185756,
+        "num": 185756,
+        "word": "彪马店员说买不起别试",
+        "onboard_time": 1772172620,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 881068,
+        "num": 185632,
+        "word": "小徐六级277分",
+        "onboard_time": 1772171901,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 403101,
+        "num": 182351,
+        "word": "王嘉尔抽到了热巴的礼物",
+        "onboard_time": 1772171661,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205736,
+        "num": 179210,
+        "word": "尘白禁区联动取消",
+        "onboard_time": 1772164640,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339904,
+        "num": 174756,
+        "word": "虞书欣父亲借贷案三大焦点",
+        "onboard_time": 1772175081,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264194,
+        "num": 173862,
+        "word": "姐姐姐夫",
+        "onboard_time": 1772170461,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171995,
+        "num": 171995,
+        "word": "山西卫健委已严肃约谈市急救中心",
+        "onboard_time": 1772166502,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191582,
+        "num": 171185,
+        "word": "BLACKPINK GO MV",
+        "onboard_time": 1772170521,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166231,
+        "num": 166231,
+        "word": "比尔盖茨被曝是裸体夜店常客",
+        "onboard_time": 1772170761,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162216,
+        "num": 162216,
+        "word": "台独刘世芳亲属在大陆投资谋利",
+        "onboard_time": 1772167162,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157019,
+        "num": 157019,
+        "word": "将微胖还给真正胖的人",
+        "onboard_time": 1772160502,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345465,
+        "num": 153602,
+        "word": "白宇和前女友分手原因",
+        "onboard_time": 1772167162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169116,
+        "num": 153120,
+        "word": "aespa新歌",
+        "onboard_time": 1772171601,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136779,
+        "num": 149058,
+        "word": "芯片涨价原因",
+        "onboard_time": 1772175500,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147187,
+        "num": 147187,
+        "word": "逐玉定档全是柿子",
+        "onboard_time": 1772166380,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104782,
+        "num": 140236,
+        "word": "官方回应西湖停车30元一小时被吐槽",
+        "onboard_time": 1772173461,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137188,
+        "num": 137188,
+        "word": "28岁王一博素颜状态",
+        "onboard_time": 1772173400,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135401,
+        "num": 135401,
+        "word": "疑似白宇前女友发文",
+        "onboard_time": 1772153899,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130411,
+        "num": 130411,
+        "word": "最容易胖肚子的一种食物",
+        "onboard_time": 1772162540,
+        "rank": 27,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 100847,
+        "num": 129172,
+        "word": "父亲退还18.8万彩礼新娘发声",
+        "onboard_time": 1772159359,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99459,
+        "num": 129139,
+        "word": "陈垣宇vs雨果",
+        "onboard_time": 1772174661,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129119,
+        "num": 129119,
+        "word": "何与虞书欣 二搭",
+        "onboard_time": 1772163023,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128446,
+        "num": 128446,
+        "word": "澳游客在泰路怒遭瑞典男子手刀身亡",
+        "onboard_time": 1772172561,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124862,
+        "num": 124862,
+        "word": "周冬雨喜欢不mean的男生",
+        "onboard_time": 1772174900,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119352,
+        "num": 119352,
+        "word": "沈月持证上岗",
+        "onboard_time": 1772172741,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115177,
+        "num": 115177,
+        "word": "人一定要很金贵地对待自己",
+        "onboard_time": 1772173221,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119078,
+        "num": 112458,
+        "word": "BLACKPINK 回归",
+        "onboard_time": 1772154381,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105427,
+        "num": 105427,
+        "word": "王星越说心动的offer是恋综",
+        "onboard_time": 1772174900,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91570,
+        "num": 91570,
+        "word": "三甲医生回应电车比油车更易晕车",
+        "onboard_time": 1772173461,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101762,
+        "num": 91557,
+        "word": "Jennie神女吟唱",
+        "onboard_time": 1772174120,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91350,
+        "num": 91350,
+        "word": "可以恢复视力的微习惯",
+        "onboard_time": 1772165121,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101669,
+        "num": 90733,
+        "word": "刘晓艳现身小徐直播间",
+        "onboard_time": 1772175859,
+        "rank": 40,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 89613,
+        "num": 89613,
+        "word": "春节后北京飞三亚300元",
+        "onboard_time": 1772174180,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87551,
+        "num": 87551,
+        "word": "金泰梨对杨幂比心",
+        "onboard_time": 1772162241,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86738,
+        "num": 86738,
+        "word": "谷爱凌一边写作业一边和妈妈斗嘴",
+        "onboard_time": 1772169321,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83866,
+        "num": 83866,
+        "word": "陈垣宇3比1雨果",
+        "onboard_time": 1772175859,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81175,
+        "num": 81175,
+        "word": "程晓玥二胎孕肚写真",
+        "onboard_time": 1772175441,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80151,
+        "num": 80151,
+        "word": "TheShy现身WTT赛场",
+        "onboard_time": 1772173041,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75624,
+        "num": 79374,
+        "word": "赖清德罕见改口称中国大陆",
+        "onboard_time": 1772164822,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83595,
+        "num": 79362,
+        "word": "杨幂Prada顶级待遇",
+        "onboard_time": 1772159541,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79247,
+        "num": 79247,
+        "word": "比尔盖茨人设崩了",
+        "onboard_time": 1772175140,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#增强政治责任感和历史使命感#"
+    }
+  }
+}

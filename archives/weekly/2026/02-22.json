@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772172766854,
+  "endTime": 1772176006642,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1531871,
-      "num": 380781,
+      "num": 429936,
       "word": "不建议在朋友圈展示技能",
       "onboard_time": 1772162781,
       "rank": 5,
@@ -467,6 +467,14 @@
       "category": "民生新闻,游戏"
     },
     {
+      "raw_hot": 881068,
+      "num": 215999,
+      "word": "小徐六级277分",
+      "onboard_time": 1772171901,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 873040,
       "num": 331520,
       "word": "黄金",
@@ -771,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 730221,
+      "num": 1116835,
+      "word": "替父请假2小时致其被开除女子发声",
+      "onboard_time": 1772171182,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 720379,
       "num": 295784,
       "word": "胡一菲诺澜在短国相遇了",
@@ -833,14 +849,6 @@
       "onboard_time": 1771827319,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 688842,
-      "num": 215999,
-      "word": "小徐六级277分",
-      "onboard_time": 1772171901,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 688525,
@@ -1409,6 +1417,14 @@
       "onboard_time": 1772104521,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 537479,
+      "num": 428271,
+      "word": "姜妍常驻现在就出发",
+      "onboard_time": 1772174242,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 535951,
@@ -2003,6 +2019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 424793,
+      "num": 424793,
+      "word": "千元机或将消失",
+      "onboard_time": 1772170100,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 424784,
       "num": 424784,
       "word": "唐国强也去演短剧了",
@@ -2171,6 +2195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 403101,
+      "num": 182351,
+      "word": "王嘉尔抽到了热巴的礼物",
+      "onboard_time": 1772171661,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401771,
       "num": 401771,
       "word": "柳智敏solo成绩",
@@ -2257,14 +2289,6 @@
       "onboard_time": 1771923501,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 392163,
-      "num": 392163,
-      "word": "千元机或将消失",
-      "onboard_time": 1772170100,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 389496,
@@ -2792,6 +2816,14 @@
       "word": "徐明浩韩语说出中国春节",
       "onboard_time": 1771744279,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 339904,
+      "num": 174756,
+      "word": "虞书欣父亲借贷案三大焦点",
+      "onboard_time": 1772175081,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -3787,6 +3819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 264194,
+      "num": 210328,
+      "word": "姐姐姐夫",
+      "onboard_time": 1772170461,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263767,
       "num": 263767,
       "word": "谷爱凌第一滑失误",
@@ -4265,6 +4305,14 @@
       "onboard_time": 1771930642,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 240617,
+      "num": 240617,
+      "word": "极客湾",
+      "onboard_time": 1772170401,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 240119,
@@ -4867,14 +4915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210328,
-      "num": 210328,
-      "word": "姐姐姐夫",
-      "onboard_time": 1772170461,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209859,
       "num": 180260,
       "word": "白鹿宋雨琦背后抱",
@@ -5427,6 +5467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185756,
+      "num": 185756,
+      "word": "彪马店员说买不起别试",
+      "onboard_time": 1772172620,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185731,
       "num": 131747,
       "word": "易梦玲晒比基尼照",
@@ -5481,14 +5529,6 @@
       "onboard_time": 1771729759,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 184236,
-      "num": 153405,
-      "word": "王嘉尔抽到了热巴的礼物",
-      "onboard_time": 1772171661,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 183992,
@@ -5995,6 +6035,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 166231,
+      "num": 166231,
+      "word": "比尔盖茨被曝是裸体夜店常客",
+      "onboard_time": 1772170761,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 165958,
       "num": 165958,
       "word": "田雨内娱人缘",
@@ -6241,14 +6289,6 @@
       "onboard_time": 1771840040,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 158006,
-      "num": 158006,
-      "word": "极客湾",
-      "onboard_time": 1772170401,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 156422,
@@ -7051,14 +7091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138544,
-      "num": 130853,
-      "word": "比尔盖茨被曝是裸体夜店常客",
-      "onboard_time": 1772170761,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 138108,
       "num": 567148,
       "word": "广元大年初三失联男子已去世",
@@ -7115,6 +7147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137188,
+      "num": 137188,
+      "word": "28岁王一博素颜状态",
+      "onboard_time": 1772173400,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137009,
       "num": 156452,
       "word": "陈俊菘15比13张本智和",
@@ -7139,6 +7179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136779,
+      "num": 149058,
+      "word": "芯片涨价原因",
+      "onboard_time": 1772175500,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136731,
       "num": 136731,
       "word": "JDG战胜TES",
@@ -7161,14 +7209,6 @@
       "onboard_time": 1772007202,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136100,
-      "num": 136100,
-      "word": "替父请假2小时致其被开除女子发声",
-      "onboard_time": 1772171182,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136090,
@@ -7587,6 +7627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128446,
+      "num": 128446,
+      "word": "澳游客在泰路怒遭瑞典男子手刀身亡",
+      "onboard_time": 1772172561,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128418,
       "num": 128418,
       "word": "女教师因学生调皮确诊情志病",
@@ -7769,6 +7817,14 @@
       "onboard_time": 1771912340,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124862,
+      "num": 124862,
+      "word": "周冬雨喜欢不mean的男生",
+      "onboard_time": 1772174900,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 124799,
@@ -8433,6 +8489,14 @@
       "onboard_time": 1772167641,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115177,
+      "num": 115177,
+      "word": "人一定要很金贵地对待自己",
+      "onboard_time": 1772173221,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 115044,
@@ -9227,6 +9291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105427,
+      "num": 105427,
+      "word": "王星越说心动的offer是恋综",
+      "onboard_time": 1772174900,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105379,
       "num": 105379,
       "word": "董璇张维伊带小酒窝回北京",
@@ -9321,6 +9393,14 @@
       "onboard_time": 1771939521,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104782,
+      "num": 140236,
+      "word": "官方回应西湖停车30元一小时被吐槽",
+      "onboard_time": 1772173461,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104504,
@@ -9635,6 +9715,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101762,
+      "num": 91557,
+      "word": "Jennie神女吟唱",
+      "onboard_time": 1772174120,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 101669,
+      "num": 90733,
+      "word": "刘晓艳现身小徐直播间",
+      "onboard_time": 1772175859,
+      "rank": 40,
+      "category": "网红,教育"
+    },
+    {
       "raw_hot": 101613,
       "num": 101613,
       "word": "黄景瑜 晓丹你看见烟花了吗",
@@ -9793,6 +9889,14 @@
       "onboard_time": 1772010022,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99459,
+      "num": 129139,
+      "word": "陈垣宇vs雨果",
+      "onboard_time": 1772174661,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 99250,
@@ -10611,6 +10715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91570,
+      "num": 91570,
+      "word": "三甲医生回应电车比油车更易晕车",
+      "onboard_time": 1772173461,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91452,
       "num": 91452,
       "word": "王楚钦头顶发芽了",
@@ -10673,14 +10785,6 @@
       "onboard_time": 1772075001,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 90790,
-      "num": 90790,
-      "word": "澳游客在泰路怒遭瑞典男子手刀身亡",
-      "onboard_time": 1772172561,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 90776,
@@ -10809,6 +10913,14 @@
       "onboard_time": 1771847362,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89613,
+      "num": 89613,
+      "word": "春节后北京飞三亚300元",
+      "onboard_time": 1772174180,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89593,
@@ -11403,6 +11515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83866,
+      "num": 83866,
+      "word": "陈垣宇3比1雨果",
+      "onboard_time": 1772175859,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83690,
       "num": 83690,
       "word": "平顶山打人夫妻或从重处罚",
@@ -11715,6 +11835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81175,
+      "num": 81175,
+      "word": "程晓玥二胎孕肚写真",
+      "onboard_time": 1772175441,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81143,
       "num": 81143,
       "word": "长得像毒液但性格温和",
@@ -11859,6 +11987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80151,
+      "num": 80151,
+      "word": "TheShy现身WTT赛场",
+      "onboard_time": 1772173041,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79972,
       "num": 79972,
       "word": "杨幂米兰到达路透",
@@ -11921,6 +12057,14 @@
       "onboard_time": 1772119521,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79247,
+      "num": 79247,
+      "word": "比尔盖茨人设崩了",
+      "onboard_time": 1772175140,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79173,
@@ -15712,14 +15856,6 @@
       "word": "香港起火山头离民居有一定距离",
       "onboard_time": 1772130916,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11209,
-      "num": 107650,
-      "word": "彪马店员说买不起别试",
-      "onboard_time": 1772172620,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
