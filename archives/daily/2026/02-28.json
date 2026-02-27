@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772228265352,
+  "endTime": 1772229156941,
   "band_list": [
     {
       "raw_hot": 868722,
@@ -499,12 +499,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19658,
+      "raw_hot": 20033,
       "num": 27432,
       "word": "Gucci大秀",
       "onboard_time": 1772203282,
       "rank": 46,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 17790,
+      "num": 17790,
+      "word": "使领馆将协助中国公民撤离伊朗",
+      "onboard_time": 1772223734,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16520,
@@ -513,6 +521,14 @@
       "onboard_time": 1772221754,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16278,
+      "num": 16278,
+      "word": "米兰时装周",
+      "onboard_time": 1772196142,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 16181,
@@ -531,22 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15869,
-      "num": 15869,
-      "word": "米兰时装周",
-      "onboard_time": 1772196142,
-      "rank": 39,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 15753,
-      "num": 15753,
-      "word": "使领馆将协助中国公民撤离伊朗",
-      "onboard_time": 1772223734,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 15445,
       "num": 17773,
       "word": "上海彩民守号一年中了3764万",
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 12410,
-      "num": 15303,
+      "num": 15375,
       "word": "美伊对峙",
       "onboard_time": 1772203644,
       "rank": 48,
