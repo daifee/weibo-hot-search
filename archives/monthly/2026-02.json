@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772203664487,
+  "endTime": 1772204835463,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 2474878,
-      "num": 179335,
+      "num": 181862,
       "word": "美国 伊朗",
       "onboard_time": 1772199803,
       "rank": 10,
@@ -8019,6 +8019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 513499,
+      "num": 819840,
+      "word": "虎跳峡男游客疑因洗杯落水失联",
+      "onboard_time": 1772200823,
+      "rank": 6,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 513257,
       "num": 2227334,
       "word": "小洛熙妈妈称公安机关已立案侦查",
@@ -14196,7 +14204,7 @@
     },
     {
       "raw_hot": 339171,
-      "num": 177883,
+      "num": 178760,
       "word": "Prada晚宴上的谷爱凌",
       "onboard_time": 1772198362,
       "rank": 14,
@@ -16577,14 +16585,6 @@
       "onboard_time": 1770907522,
       "rank": 27,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 298291,
-      "num": 298291,
-      "word": "虎跳峡男游客疑因洗杯落水失联",
-      "onboard_time": 1772200823,
-      "rank": 6,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 298229,
@@ -19049,6 +19049,14 @@
       "onboard_time": 1770003440,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 265498,
+      "num": 265498,
+      "word": "宝可梦风与波",
+      "onboard_time": 1772203043,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 265472,
@@ -24332,7 +24340,7 @@
     },
     {
       "raw_hot": 208219,
-      "num": 175110,
+      "num": 176694,
       "word": "张极直播",
       "onboard_time": 1772203282,
       "rank": 22,
@@ -25777,6 +25785,14 @@
       "onboard_time": 1769913260,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194836,
+      "num": 174140,
+      "word": "美伊对峙",
+      "onboard_time": 1772203644,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194833,
@@ -28051,14 +28067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175025,
-      "num": 175025,
-      "word": "宝可梦风与波",
-      "onboard_time": 1772203043,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175000,
       "num": 175000,
       "word": "小年夜",
@@ -28233,6 +28241,14 @@
       "onboard_time": 1771028898,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174136,
+      "num": 174136,
+      "word": "柳智敏 我喜欢漂亮女人",
+      "onboard_time": 1772202922,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 174084,
@@ -28833,6 +28849,14 @@
       "onboard_time": 1771606938,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169161,
+      "num": 169161,
+      "word": "政府借厕所遭辱骂男子要求公开道歉",
+      "onboard_time": 1772201963,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169149,
@@ -31187,6 +31211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 152159,
+      "num": 152159,
+      "word": "王橹杰路透",
+      "onboard_time": 1772203823,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152140,
       "num": 152140,
       "word": "县城转岗教师发声",
@@ -32401,6 +32433,14 @@
       "onboard_time": 1771569740,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 145378,
+      "num": 145378,
+      "word": "美伊战争风险急剧升高",
+      "onboard_time": 1772204123,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145372,
@@ -33977,14 +34017,6 @@
       "onboard_time": 1772196862,
       "rank": 29,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 138396,
-      "num": 138396,
-      "word": "政府借厕所遭辱骂男子要求公开道歉",
-      "onboard_time": 1772201963,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138379,
@@ -35785,6 +35817,14 @@
       "onboard_time": 1771228403,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130443,
+      "num": 130443,
+      "word": "当妈妈把欧洲特产蒸了后",
+      "onboard_time": 1772203884,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 130426,
@@ -38291,6 +38331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121038,
+      "num": 182191,
+      "word": "Gucci大秀",
+      "onboard_time": 1772203282,
+      "rank": 15,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 121010,
       "num": 112627,
       "word": "刘少昂祝贺谷爱凌",
@@ -38311,6 +38359,14 @@
       "num": 120948,
       "word": "李泰民中断合约",
       "onboard_time": 1771927222,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120903,
+      "num": 120903,
+      "word": "朴安娜 造型",
+      "onboard_time": 1772203583,
       "rank": 46,
       "category": "艺人"
     },
@@ -39803,14 +39859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116212,
-      "num": 177612,
-      "word": "Gucci大秀",
-      "onboard_time": 1772203282,
-      "rank": 15,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 116209,
       "num": 116209,
       "word": "妈妈外出3岁宝宝看店卖出一包烟",
@@ -40076,7 +40124,7 @@
     },
     {
       "raw_hot": 115219,
-      "num": 115219,
+      "num": 118945,
       "word": "始祖鸟财报",
       "onboard_time": 1772201362,
       "rank": 36,
@@ -40337,14 +40385,6 @@
       "onboard_time": 1770719480,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 114466,
-      "num": 114466,
-      "word": "柳智敏 我喜欢漂亮女人",
-      "onboard_time": 1772202922,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 114413,
@@ -40817,6 +40857,14 @@
       "onboard_time": 1771067660,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113093,
+      "num": 113093,
+      "word": "苏新皓突袭直播",
+      "onboard_time": 1772201484,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 113079,
@@ -41489,14 +41537,6 @@
       "onboard_time": 1769921601,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111356,
-      "num": 111356,
-      "word": "苏新皓突袭直播",
-      "onboard_time": 1772201484,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 111334,
@@ -45851,6 +45891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101012,
+      "num": 101012,
+      "word": "育儿嫂看护时刷视频致婴儿病亡",
+      "onboard_time": 1772202143,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100976,
       "num": 100976,
       "word": "黄晓明22年累计捐款超5000万",
@@ -46811,6 +46859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98810,
+      "num": 98810,
+      "word": "张凌赫田曦薇说逐玉每集都有名场面",
+      "onboard_time": 1772203644,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98802,
       "num": 98802,
       "word": "亲爱的客栈",
@@ -46865,6 +46921,14 @@
       "onboard_time": 1771133000,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98674,
+      "num": 118365,
+      "word": "DYG锁定第三轮S组",
+      "onboard_time": 1772204724,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 98661,
@@ -48248,14 +48312,6 @@
       "word": "展轩直播",
       "onboard_time": 1770814640,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 95676,
-      "num": 95430,
-      "word": "朴安娜 造型",
-      "onboard_time": 1772203583,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -63251,6 +63307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64438,
+      "num": 179128,
+      "word": "肖战又闪耀米兰了",
+      "onboard_time": 1772201063,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 64411,
       "num": 300279,
       "word": "孙颖莎芋泥小蛋糕",
@@ -64769,14 +64833,6 @@
       "onboard_time": 1770139877,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59729,
-      "num": 176869,
-      "word": "肖战又闪耀米兰了",
-      "onboard_time": 1772201063,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 59728,
