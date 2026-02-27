@@ -1,6 +1,6 @@
 {
   "startTime": 1772121719311,
-  "endTime": 1772186832607,
+  "endTime": 1772189284416,
   "band_list": [
     {
       "raw_hot": 1567215,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 916581,
-      "num": 144162,
+      "num": 171360,
       "word": "李胜利的狱友repo",
       "onboard_time": 1772184322,
       "rank": 20,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 581283,
-      "num": 143914,
+      "num": 164436,
       "word": "向华强 向佐不能搞老三老四",
       "onboard_time": 1772183841,
       "rank": 21,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506749,
+      "num": 1081079,
+      "word": "妈妈在女儿婚礼上美出圈",
+      "onboard_time": 1772184081,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486696,
       "num": 1077871,
       "word": "逐玉定档全是柿子",
@@ -299,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472563,
+      "num": 183128,
+      "word": "女孩遭猥亵爷爷维权被要求别声张",
+      "onboard_time": 1772182822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472342,
       "num": 345042,
       "word": "苹果新品来了",
       "onboard_time": 1772116343,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 452301,
-      "num": 804632,
-      "word": "妈妈在女儿婚礼上美出圈",
-      "onboard_time": 1772184081,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 447745,
@@ -380,11 +388,19 @@
     },
     {
       "raw_hot": 398683,
-      "num": 144998,
+      "num": 146714,
       "word": "肖战tods直播镜头",
       "onboard_time": 1772182881,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 395136,
+      "num": 375237,
+      "word": "退房的时候前台拿了个徐福记的糖纸",
+      "onboard_time": 1772184921,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 386587,
@@ -395,6 +411,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 382737,
+      "num": 152676,
+      "word": "肖战秀场热到一直擦汗",
+      "onboard_time": 1772187261,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 380179,
       "num": 154797,
       "word": "中国邮政回应已叫停相关线下活动",
@@ -403,12 +427,28 @@
       "category": "民生新闻,游戏"
     },
     {
+      "raw_hot": 376586,
+      "num": 376586,
+      "word": "草莓价格跌至1元一斤",
+      "onboard_time": 1772187800,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369208,
       "num": 369208,
       "word": "南京档案馆找到谷爱凌外婆户籍卡",
       "onboard_time": 1772151859,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 363222,
+      "num": 363222,
+      "word": "下一个是谁",
+      "onboard_time": 1772185941,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 356341,
@@ -571,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273897,
+      "num": 147436,
+      "word": "朱志鑫直播",
+      "onboard_time": 1772187081,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273085,
       "num": 238922,
       "word": "将微胖还给真正胖的人",
@@ -604,7 +652,7 @@
     },
     {
       "raw_hot": 261581,
-      "num": 111785,
+      "num": 150369,
       "word": "于正新剧宣传博被说低俗",
       "onboard_time": 1772186001,
       "rank": 26,
@@ -723,14 +771,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 221575,
-      "num": 104572,
-      "word": "退房的时候前台拿了个徐福记的糖纸",
-      "onboard_time": 1772184921,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221096,
       "num": 221096,
       "word": "程晓玥自曝孕晚期呼吸很困难",
@@ -763,20 +803,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215913,
-      "num": 177231,
-      "word": "女孩遭猥亵爷爷维权被要求别声张",
-      "onboard_time": 1772182822,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215795,
       "num": 215795,
       "word": "逐玉定档",
       "onboard_time": 1772162301,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215441,
+      "num": 215441,
+      "word": "德国总理在杭州吃了西湖醋鱼东坡肉",
+      "onboard_time": 1772186180,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 213004,
@@ -859,6 +899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185783,
+      "num": 176899,
+      "word": "张凌赫感谢林俊杰",
+      "onboard_time": 1772186120,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185664,
       "num": 185664,
       "word": "向佑不满遗产分配直喊不公平",
@@ -873,6 +921,14 @@
       "onboard_time": 1772179582,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185363,
+      "num": 185363,
+      "word": "AG对战RW",
+      "onboard_time": 1772186601,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 183992,
@@ -1019,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147031,
+      "num": 147031,
+      "word": "你的刷牙时间可能一直是错的",
+      "onboard_time": 1772186482,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145818,
       "num": 145818,
       "word": "橹穆双人舞台官摄破2711万",
@@ -1033,6 +1097,14 @@
       "onboard_time": 1772155940,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145676,
+      "num": 145676,
+      "word": "X电竞打WBG",
+      "onboard_time": 1772188340,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 144405,
@@ -1123,6 +1195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132636,
+      "num": 132636,
+      "word": "白宇前女友说终于有了很骄傲的感觉",
+      "onboard_time": 1772184142,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130830,
       "num": 130830,
       "word": "谷爱凌一边写作业一边和妈妈斗嘴",
@@ -1139,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129799,
+      "num": 136130,
+      "word": "被男方指婚后拒绝同房女方发声",
+      "onboard_time": 1772186541,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128446,
       "num": 128446,
       "word": "澳游客在泰路怒遭瑞典男子手刀身亡",
@@ -1153,6 +1241,14 @@
       "onboard_time": 1772158701,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 127002,
+      "num": 119314,
+      "word": "左航直播",
+      "onboard_time": 1772189240,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 126487,
@@ -1185,14 +1281,6 @@
       "onboard_time": 1772172262,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124501,
-      "num": 90262,
-      "word": "下一个是谁",
-      "onboard_time": 1772185941,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 122423,
@@ -1235,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120104,
+      "num": 120104,
+      "word": "WBG对战BLG",
+      "onboard_time": 1772189001,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119757,
       "num": 119757,
       "word": "黄晓明说范丞丞黄子韬给青岛人丢人",
@@ -1273,14 +1369,6 @@
       "onboard_time": 1772157921,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117076,
-      "num": 108759,
-      "word": "白宇前女友说终于有了很骄傲的感觉",
-      "onboard_time": 1772184142,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 117058,
@@ -1323,14 +1411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 116194,
-      "num": 87726,
-      "word": "张凌赫感谢林俊杰",
-      "onboard_time": 1772186120,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115213,
       "num": 110573,
       "word": "张真源哄了半天哄好了0个人",
@@ -1347,6 +1427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114793,
+      "num": 114793,
+      "word": "女子拒同房不离婚为何引争议",
+      "onboard_time": 1772188041,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114675,
       "num": 114675,
       "word": "28岁小伙长期吃炸鸡抽出猪油汤血",
@@ -1361,14 +1449,6 @@
       "onboard_time": 1772114362,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 114157,
-      "num": 114157,
-      "word": "AG对战RW",
-      "onboard_time": 1772186601,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 113496,
@@ -1417,6 +1497,14 @@
       "onboard_time": 1772120181,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111502,
+      "num": 111502,
+      "word": "COA9抽签仪式",
+      "onboard_time": 1772188521,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 111181,
@@ -1521,6 +1609,30 @@
       "onboard_time": 1772173461,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104216,
+      "num": 111538,
+      "word": "孙颖莎vs石洵瑶",
+      "onboard_time": 1772189181,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103890,
+      "num": 102321,
+      "word": "下一个是谁 啊吗粽",
+      "onboard_time": 1772189061,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102730,
+      "num": 102730,
+      "word": "一锅馒头死一个是为什么",
+      "onboard_time": 1772187740,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 102669,
@@ -1641,6 +1753,14 @@
       "onboard_time": 1772152401,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96479,
+      "num": 96479,
+      "word": "华为重返欧洲市场",
+      "onboard_time": 1772188881,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 96299,
@@ -1827,14 +1947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86518,
-      "num": 86518,
-      "word": "你的刷牙时间可能一直是错的",
-      "onboard_time": 1772186482,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 86163,
       "num": 86163,
       "word": "小当家复活失败",
@@ -1857,14 +1969,6 @@
       "onboard_time": 1772181981,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84749,
-      "num": 84749,
-      "word": "被男方指婚后拒绝同房女方发声",
-      "onboard_time": 1772186541,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83866,
@@ -2091,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64036,
+      "num": 158620,
+      "word": "人社局回应员工每天工作20小时",
+      "onboard_time": 1772188041,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63016,
       "num": 41377,
       "word": "搞对象后弟弟的变化",
@@ -2211,14 +2323,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 52305,
-      "num": 105635,
-      "word": "德国总理在杭州吃了西湖醋鱼东坡肉",
-      "onboard_time": 1772186180,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 51189,
       "num": 160467,
       "word": "杨幂登陆少年组合Prada大秀同框",
@@ -2275,12 +2379,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 46066,
+      "num": 172453,
+      "word": "一点点资助男孩长期班级前三",
+      "onboard_time": 1772188762,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45945,
       "num": 105998,
       "word": "一点点资助男孩手表系亲戚凑钱购买",
       "onboard_time": 1772180902,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44918,
+      "num": 111732,
+      "word": "宋威龙都不一定生得出这么像的",
+      "onboard_time": 1772188821,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 42872,
@@ -2387,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32100,
+      "num": 103151,
+      "word": "杨幂主动问碳酸需不需要合照",
+      "onboard_time": 1772189240,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31313,
       "num": 31313,
       "word": "Prada生图",
@@ -2481,6 +2609,14 @@
       "onboard_time": 1772143994,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21401,
+      "num": 172438,
+      "word": "中方回应巴拿马港口问题",
+      "onboard_time": 1772188521,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18154,
