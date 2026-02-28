@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772305011829,
+  "endTime": 1772306917770,
   "band_list": [
     {
       "raw_hot": 993678,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24816,
+      "num": 42482,
+      "word": "TOP秒切第一",
+      "onboard_time": 1772305875,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 24622,
       "num": 49033,
       "word": "白鹿古装角色解锁加1",
@@ -473,6 +481,14 @@
       "onboard_time": 1772301258,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18513,
+      "num": 30250,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1772279242,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 17377,
