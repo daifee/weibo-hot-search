@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772274788843,
+  "endTime": 1772275700491,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -4435,6 +4435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 750525,
+      "num": 223226,
+      "word": "伊朗 卡塔尔",
+      "onboard_time": 1772274264,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 749487,
       "num": 822075,
       "word": "国台办回应吴克群帮农民卖3万斤菜",
@@ -4668,7 +4676,7 @@
     },
     {
       "raw_hot": 726195,
-      "num": 320674,
+      "num": 323676,
       "word": "突然对1g黄金没概念了",
       "onboard_time": 1772271863,
       "rank": 12,
@@ -4681,6 +4689,14 @@
       "onboard_time": 1769931440,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 725547,
+      "num": 725547,
+      "word": "何凯文英语分数",
+      "onboard_time": 1772273964,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 724587,
@@ -5988,7 +6004,7 @@
     },
     {
       "raw_hot": 628165,
-      "num": 1507233,
+      "num": 1551372,
       "word": "山姆520元巧克力降到99元",
       "onboard_time": 1772270905,
       "rank": 18,
@@ -6777,6 +6793,14 @@
       "onboard_time": 1772183841,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580971,
+      "num": 580971,
+      "word": "大熊猫半半香果离世",
+      "onboard_time": 1772274324,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 580707,
@@ -7771,6 +7795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 539416,
+      "num": 539416,
+      "word": "李治廷 十日终焉",
+      "onboard_time": 1772273361,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 539319,
       "num": 1086291,
       "word": "在意失联博士床上四件套用了7年",
@@ -7945,14 +7977,6 @@
       "onboard_time": 1771944023,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 529723,
-      "num": 529723,
-      "word": "何凯文英语分数",
-      "onboard_time": 1772273964,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 529413,
@@ -9135,14 +9159,6 @@
       "num": 482319,
       "word": "偏偏宠爱 陈飞宇",
       "onboard_time": 1772018424,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 482225,
-      "num": 482225,
-      "word": "李治廷 十日终焉",
-      "onboard_time": 1772273361,
       "rank": 5,
       "category": "剧集"
     },
@@ -13619,6 +13635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361653,
+      "num": 361653,
+      "word": "巴基斯坦飞行员被俘虏",
+      "onboard_time": 1772273964,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 361027,
       "num": 213700,
       "word": "写族谱发现祖上是正二品",
@@ -14507,6 +14531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 343915,
+      "num": 235779,
+      "word": "TOP和谷爱凌合照",
+      "onboard_time": 1772270664,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 343837,
       "num": 456779,
       "word": "周生生涉事挂坠封存送检照曝光",
@@ -14641,14 +14673,6 @@
       "onboard_time": 1771932501,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341290,
-      "num": 235779,
-      "word": "TOP和谷爱凌合照",
-      "onboard_time": 1772270664,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 341180,
@@ -17411,14 +17435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 296813,
-      "num": 296813,
-      "word": "大熊猫半半香果离世",
-      "onboard_time": 1772274324,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296796,
       "num": 242208,
       "word": "易烊千玺 别剧透",
@@ -18993,6 +19009,14 @@
       "onboard_time": 1771556179,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275070,
+      "num": 244063,
+      "word": "伊朗袭击科威特美军基地",
+      "onboard_time": 1772274204,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 274854,
@@ -21089,14 +21113,6 @@
       "onboard_time": 1771549040,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 250083,
-      "num": 250083,
-      "word": "巴基斯坦飞行员被俘虏",
-      "onboard_time": 1772273964,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 249850,
@@ -23849,14 +23865,6 @@
       "onboard_time": 1771215262,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 223226,
-      "num": 223226,
-      "word": "伊朗 卡塔尔",
-      "onboard_time": 1772274264,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 223213,
@@ -26729,14 +26737,6 @@
       "onboard_time": 1770369981,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195471,
-      "num": 195471,
-      "word": "伊朗袭击科威特美军基地",
-      "onboard_time": 1772274204,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 195424,
@@ -32171,6 +32171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153887,
+      "num": 149603,
+      "word": "TOP专辑",
+      "onboard_time": 1772274684,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 153872,
       "num": 76852,
       "word": "王玉雯进不了组也不要怪我",
@@ -33675,6 +33683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145625,
+      "num": 145625,
+      "word": "Angelababy紫瞳",
+      "onboard_time": 1772274684,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145610,
       "num": 145610,
       "word": "产子55天被丈夫施暴女子已提离婚",
@@ -34395,6 +34411,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 141995,
+      "num": 141995,
+      "word": "曝初瑞雪怀孕",
+      "onboard_time": 1772275163,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 141964,
       "num": 141964,
       "word": "LABUBU获得冬奥会滑冰首金",
@@ -34609,6 +34633,14 @@
       "onboard_time": 1770449780,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141325,
+      "num": 141325,
+      "word": "秀禾服 婚服营销",
+      "onboard_time": 1772275044,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 141306,
@@ -43227,6 +43259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110889,
+      "num": 110889,
+      "word": "老铺黄金一14克金项链涨价7560元",
+      "onboard_time": 1772275404,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110887,
       "num": 110887,
       "word": "县公务员称合适比喜欢更长久",
@@ -43545,6 +43585,14 @@
       "onboard_time": 1771604541,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109903,
+      "num": 109903,
+      "word": "前额叶损伤",
+      "onboard_time": 1772274984,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109863,
@@ -43969,14 +44017,6 @@
       "onboard_time": 1771766722,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108832,
-      "num": 108832,
-      "word": "TOP专辑",
-      "onboard_time": 1772274684,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 108819,
@@ -46009,14 +46049,6 @@
       "onboard_time": 1770720740,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104218,
-      "num": 104218,
-      "word": "Angelababy紫瞳",
-      "onboard_time": 1772274684,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 104214,
@@ -48803,6 +48835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98287,
+      "num": 98287,
+      "word": "两广人民误闯天家",
+      "onboard_time": 1772272404,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98259,
       "num": 98259,
       "word": "LGDNBW战胜eStar",
@@ -49721,6 +49761,14 @@
       "onboard_time": 1770538878,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96386,
+      "num": 96386,
+      "word": "德黑兰全城大堵车",
+      "onboard_time": 1772275103,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96348,
@@ -55361,6 +55409,14 @@
       "onboard_time": 1770810201,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85611,
+      "num": 131471,
+      "word": "伊朗一学校5名学生遇袭身亡",
+      "onboard_time": 1772275643,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85577,
@@ -61313,6 +61369,14 @@
       "onboard_time": 1771555039,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 74155,
+      "num": 110229,
+      "word": "肖战看秀前健身了一下",
+      "onboard_time": 1772274144,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 74143,
@@ -68672,6 +68736,14 @@
       "word": "白鹿要赶紧追一追唐宫奇案进度了",
       "onboard_time": 1770507497,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 52041,
+      "num": 159191,
+      "word": "黄景瑜关晓彤剧宣夯爆了",
+      "onboard_time": 1772271924,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -79977,14 +80049,6 @@
       "onboard_time": 1772055014,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14952,
-      "num": 159191,
-      "word": "黄景瑜关晓彤剧宣夯爆了",
-      "onboard_time": 1772271924,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 14947,
