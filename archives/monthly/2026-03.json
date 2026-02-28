@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772310936286,
+  "endTime": 1772311718906,
   "band_list": [
     {
       "raw_hot": 993678,
@@ -451,6 +451,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 31650,
+      "num": 47733,
+      "word": "玫瑰丛生",
+      "onboard_time": 1772307195,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25224,
       "num": 51337,
       "word": "宋亚轩 可以想我",
@@ -475,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23553,
-      "num": 45536,
-      "word": "玫瑰丛生",
-      "onboard_time": 1772307195,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 23158,
       "num": 49057,
       "word": "徐明浩穿背心给到夯",
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 18513,
-      "num": 30250,
+      "num": 30497,
       "word": "纯真年代的爱情",
       "onboard_time": 1772279242,
       "rank": 43,
@@ -513,6 +513,22 @@
       "onboard_time": 1772287825,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14769,
+      "num": 22723,
+      "word": "你好星期六",
+      "onboard_time": 1772283145,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14726,
+      "num": 22617,
+      "word": "肖战说米兰最好吃的是披萨",
+      "onboard_time": 1772308095,
+      "rank": 47,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
