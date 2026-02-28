@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772314196732,
+  "endTime": 1772315028966,
   "band_list": [
     {
       "raw_hot": 993678,
@@ -147,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 204979,
+      "num": 216980,
+      "word": "哈梅内伊将发表公开讲话",
+      "onboard_time": 1772292684,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 196284,
       "num": 489120,
       "word": "小米发布会",
@@ -169,14 +177,6 @@
       "onboard_time": 1772276184,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 179877,
-      "num": 177874,
-      "word": "哈梅内伊将发表公开讲话",
-      "onboard_time": 1772292684,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 179775,
@@ -451,8 +451,8 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 33287,
-      "num": 123805,
+      "raw_hot": 33663,
+      "num": 161191,
       "word": "玫瑰丛生",
       "onboard_time": 1772307195,
       "rank": 33,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 29115,
-      "num": 26409,
+      "num": 30838,
       "word": "迪拜再次传出爆炸声",
       "onboard_time": 1772313014,
       "rank": 31,
@@ -523,20 +523,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14769,
-      "num": 22783,
-      "word": "你好星期六",
-      "onboard_time": 1772283145,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 14726,
+      "raw_hot": 15219,
       "num": 22617,
       "word": "肖战说米兰最好吃的是披萨",
       "onboard_time": 1772308095,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15214,
+      "num": 22783,
+      "word": "你好星期六",
+      "onboard_time": 1772283145,
+      "rank": 45,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
