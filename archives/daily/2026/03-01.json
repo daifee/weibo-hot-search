@@ -1,9 +1,9 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772321475926,
+  "endTime": 1772322318599,
   "band_list": [
     {
-      "raw_hot": 1519435,
+      "raw_hot": 1718479,
       "num": 199270,
       "word": "哈梅内伊",
       "onboard_time": 1772320758,
@@ -11,7 +11,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1437053,
+      "raw_hot": 1695558,
       "num": 1437053,
       "word": "特朗普称哈梅内伊已死",
       "onboard_time": 1772320096,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 615970,
-      "num": 615970,
+      "num": 964484,
       "word": "哈梅内伊将发表公开讲话",
       "onboard_time": 1772292684,
       "rank": 30,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332135,
+      "num": 122919,
+      "word": "迪拜国际机场航站楼遭到袭击",
+      "onboard_time": 1772321659,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 322440,
       "num": 322440,
       "word": "椰树广告 擦边",
@@ -155,6 +163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 252669,
+      "num": 120640,
+      "word": "伊朗总统之子发声",
+      "onboard_time": 1772279843,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 235569,
       "num": 235569,
       "word": "伊朗禁止船只通行霍尔木兹海峡",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 197277,
-      "num": 65803,
+      "num": 118432,
       "word": "以色列高级官员称哈梅内伊已死",
       "onboard_time": 1772320096,
       "rank": 30,
@@ -235,14 +251,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 175555,
-      "num": 120196,
-      "word": "伊朗总统之子发声",
-      "onboard_time": 1772279843,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 172748,
       "num": 475363,
       "word": "国乒仅王楚钦晋级男单四强",
@@ -251,8 +259,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161385,
-      "num": 116093,
+      "raw_hot": 171201,
+      "num": 119926,
       "word": "母亲回应18岁女儿感染多种高危HPV",
       "onboard_time": 1772300658,
       "rank": 25,
@@ -299,11 +307,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134712,
+      "num": 702970,
+      "word": "为什么中国人把这么多钱花在吃上",
+      "onboard_time": 1772290283,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130767,
       "num": 373419,
       "word": "五粮液",
       "onboard_time": 1772286744,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126494,
+      "num": 126494,
+      "word": "退税",
+      "onboard_time": 1772321717,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -321,14 +345,6 @@
       "onboard_time": 1772291842,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 108778,
-      "num": 702970,
-      "word": "为什么中国人把这么多钱花在吃上",
-      "onboard_time": 1772290283,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 108465,
@@ -419,20 +435,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 71019,
+      "num": 507439,
+      "word": "玫瑰丛生",
+      "onboard_time": 1772307195,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69337,
       "num": 133805,
       "word": "比尔盖茨出轨对象照片曝光",
       "onboard_time": 1772286805,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 68002,
-      "num": 507439,
-      "word": "玫瑰丛生",
-      "onboard_time": 1772307195,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 65915,
@@ -444,10 +460,34 @@
     },
     {
       "raw_hot": 63370,
-      "num": 57235,
+      "num": 118431,
       "word": "迪拜再次传出爆炸声",
       "onboard_time": 1772313014,
       "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47474,
+      "num": 118421,
+      "word": "伊朗称大量美以导弹坠落境外",
+      "onboard_time": 1772287465,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47304,
+      "num": 118428,
+      "word": "三月",
+      "onboard_time": 1772321477,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45546,
+      "num": 118418,
+      "word": "伊朗小学遭袭死亡升至85人",
+      "onboard_time": 1772321958,
+      "rank": 42,
       "category": "国际时政"
     },
     {
@@ -467,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39962,
+      "num": 118424,
+      "word": "卓沅的粉丝",
+      "onboard_time": 1772321778,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39299,
       "num": 630123,
       "word": "3月起一批国家标准开始实施",
@@ -483,20 +531,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36896,
-      "num": 54183,
-      "word": "伊朗称大量美以导弹坠落境外",
-      "onboard_time": 1772287465,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 38875,
+      "num": 118419,
+      "word": "椰树 追求胸大是让婴儿有奶吃",
+      "onboard_time": 1772322139,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37066,
+      "num": 118418,
+      "word": "迪丽热巴全维语采访",
+      "onboard_time": 1772322080,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 33728,
-      "num": 84260,
+      "num": 118411,
       "word": "老铺黄金46.9万元金如意售空",
       "onboard_time": 1772282663,
       "rank": 39,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 30849,
+      "num": 118413,
+      "word": "肖战说米兰最好吃的是披萨",
+      "onboard_time": 1772308095,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 29521,
@@ -505,14 +569,6 @@
       "onboard_time": 1772283145,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28914,
-      "num": 54162,
-      "word": "肖战说米兰最好吃的是披萨",
-      "onboard_time": 1772308095,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 27658,
