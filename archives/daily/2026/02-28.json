@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772289083961,
+  "endTime": 1772290069208,
   "band_list": [
     {
       "raw_hot": 8807134,
@@ -81,6 +81,14 @@
       "onboard_time": 1772251044,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1475456,
+      "num": 932657,
+      "word": "伊朗宣布战果",
+      "onboard_time": 1772288423,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1471815,
@@ -179,12 +187,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 844565,
-      "num": 300546,
+      "raw_hot": 858103,
+      "num": 478133,
       "word": "据称伊朗革命卫队总司令和防长身亡",
       "onboard_time": 1772287704,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 761514,
+      "num": 314881,
+      "word": "肖战 顺产头",
+      "onboard_time": 1772281345,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 750525,
@@ -199,14 +215,6 @@
       "num": 278848,
       "word": "嘉行否认迪丽热巴合约到期",
       "onboard_time": 1772250202,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 734012,
-      "num": 314881,
-      "word": "肖战 顺产头",
-      "onboard_time": 1772281345,
       "rank": 11,
       "category": "艺人"
     },
@@ -249,6 +257,14 @@
       "onboard_time": 1772260223,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 677674,
+      "num": 1355638,
+      "word": "小米超跑亮相",
+      "onboard_time": 1772289204,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 676364,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 556695,
-      "num": 225547,
+      "num": 267227,
       "word": "比尔盖茨出轨对象照片曝光",
       "onboard_time": 1772286805,
       "rank": 38,
@@ -420,11 +436,19 @@
     },
     {
       "raw_hot": 532356,
-      "num": 222585,
+      "num": 260379,
       "word": "伊称将使用尖端神秘武器",
       "onboard_time": 1772286443,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 531908,
+      "num": 1382964,
+      "word": "小米发布会",
+      "onboard_time": 1772284883,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 522640,
@@ -563,14 +587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 422973,
-      "num": 1382964,
-      "word": "小米发布会",
-      "onboard_time": 1772284883,
-      "rank": 13,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 422329,
       "num": 422329,
       "word": "美国对伊朗提了4项要求",
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 417696,
-      "num": 247972,
+      "num": 256485,
       "word": "郝熠然好会魅",
       "onboard_time": 1772285064,
       "rank": 17,
@@ -657,14 +673,6 @@
       "onboard_time": 1772262386,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 393055,
-      "num": 215058,
-      "word": "伊朗宣布战果",
-      "onboard_time": 1772288423,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 392207,
@@ -827,6 +835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 323482,
+      "num": 323482,
+      "word": "镖人票房超越惊蛰无声",
+      "onboard_time": 1772286925,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320115,
       "num": 114404,
       "word": "刘雯好性感",
@@ -899,14 +915,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 301201,
-      "num": 301201,
-      "word": "镖人票房超越惊蛰无声",
-      "onboard_time": 1772286925,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 301031,
       "num": 344746,
       "word": "王皓赛后生气了",
@@ -963,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285087,
+      "num": 207052,
+      "word": "伊朗致电警告6国别参与",
+      "onboard_time": 1772287645,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 276616,
       "num": 938245,
       "word": "考研今天出分",
@@ -972,7 +988,7 @@
     },
     {
       "raw_hot": 276122,
-      "num": 222597,
+      "num": 255946,
       "word": "俄罗斯对美以袭击伊朗表态",
       "onboard_time": 1772285664,
       "rank": 19,
@@ -1131,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239445,
+      "num": 239445,
+      "word": "华人称伊朗断网全靠中国网络联系",
+      "onboard_time": 1772288605,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 233473,
       "num": 215778,
       "word": "金饰价涨到1625元",
@@ -1152,14 +1176,6 @@
       "word": "美军航母参与空袭伊朗",
       "onboard_time": 1772265264,
       "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 225417,
-      "num": 181197,
-      "word": "伊朗致电警告6国别参与",
-      "onboard_time": 1772287645,
-      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -1252,11 +1268,19 @@
     },
     {
       "raw_hot": 216110,
-      "num": 216110,
+      "num": 265489,
       "word": "五粮液",
       "onboard_time": 1772286744,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215706,
+      "num": 215706,
+      "word": "这居然是侯明昊的素颜",
+      "onboard_time": 1772288245,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 215311,
@@ -1268,7 +1292,7 @@
     },
     {
       "raw_hot": 213479,
-      "num": 213479,
+      "num": 273898,
       "word": "时光与你都很甜2",
       "onboard_time": 1772287524,
       "rank": 26,
@@ -1371,14 +1395,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 199675,
-      "num": 199675,
-      "word": "华人称伊朗断网全靠中国网络联系",
-      "onboard_time": 1772288605,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 199036,
       "num": 199036,
       "word": "哈梅内伊已转移",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1772245701,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 184223,
+      "num": 264167,
+      "word": "外交部回应美以打击伊朗",
+      "onboard_time": 1772288245,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 182734,
@@ -1643,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166514,
+      "num": 207059,
+      "word": "WTT",
+      "onboard_time": 1772288245,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166058,
       "num": 237948,
       "word": "林诗栋2比4F勒布伦",
@@ -1755,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150593,
-      "num": 184664,
-      "word": "外交部回应美以打击伊朗",
-      "onboard_time": 1772288245,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 149235,
       "num": 149235,
       "word": "阿联酋关闭领空",
@@ -1787,14 +1811,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 144747,
-      "num": 144747,
-      "word": "这居然是侯明昊的素颜",
-      "onboard_time": 1772288245,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144634,
       "num": 144634,
       "word": "孙颖莎这一球请全体起立",
@@ -1816,6 +1832,14 @@
       "word": "王曼昱希望张本美和早日康复",
       "onboard_time": 1772260344,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143449,
+      "num": 192860,
+      "word": "陈垣宇3比4莫雷加德",
+      "onboard_time": 1772288905,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -2027,14 +2051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130609,
-      "num": 157354,
-      "word": "陈垣宇3比4莫雷加德",
-      "onboard_time": 1772288905,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130104,
       "num": 130104,
       "word": "芒果还是不肯放过这个草莓发卡",
@@ -2107,6 +2123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128488,
+      "num": 128488,
+      "word": "狼队战胜DYG",
+      "onboard_time": 1772289264,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127060,
       "num": 132460,
       "word": "2025研究生招生143.8万人",
@@ -2121,6 +2145,14 @@
       "onboard_time": 1772277624,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126461,
+      "num": 126461,
+      "word": "五粮液回应董事长被查",
+      "onboard_time": 1772289084,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126272,
@@ -2155,12 +2187,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122834,
-      "num": 144875,
-      "word": "WTT",
-      "onboard_time": 1772288245,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 123179,
+      "num": 123179,
+      "word": "胃癌等消化系统肿瘤呈年轻化趋势",
+      "onboard_time": 1772289563,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122899,
+      "num": 122899,
+      "word": "小米滑板车",
+      "onboard_time": 1772289924,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 122512,
@@ -2296,6 +2336,14 @@
       "word": "无畏赵怀真辅助",
       "onboard_time": 1772278825,
       "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 110670,
+      "num": 113430,
+      "word": "狼队第二轮S组全胜",
+      "onboard_time": 1772289503,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -2731,20 +2779,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76634,
+      "num": 1083544,
+      "word": "3月起一批国家标准开始实施",
+      "onboard_time": 1772286324,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76078,
       "num": 76078,
       "word": "左航发了厚米",
       "onboard_time": 1772246542,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75860,
-      "num": 1083544,
-      "word": "3月起一批国家标准开始实施",
-      "onboard_time": 1772286324,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75512,
@@ -2963,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52775,
+      "num": 262489,
+      "word": "伊朗称目前发射导弹只是清库存",
+      "onboard_time": 1772289503,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52358,
       "num": 161220,
       "word": "王橹杰 神图和表情包总是一起出现",
@@ -3128,6 +3184,14 @@
       "word": "伊朗敦促联合国采取行动",
       "onboard_time": 1772276724,
       "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 41952,
+      "num": 261779,
+      "word": "全球油价在看伊朗",
+      "onboard_time": 1772289563,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -3345,6 +3409,14 @@
       "onboard_time": 1772217377,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23601,
+      "num": 140810,
+      "word": "伊朗中国留学生讲述空袭后现状",
+      "onboard_time": 1772289983,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23547,
