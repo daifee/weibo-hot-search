@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772264116064,
+  "endTime": 1772264875689,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -795,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1968761,
+      "num": 422551,
+      "word": "金价",
+      "onboard_time": 1769988378,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1963546,
       "num": 1963546,
       "word": "国家线 砍一刀",
@@ -993,6 +1001,14 @@
       "onboard_time": 1771578140,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1728971,
+      "num": 1728971,
+      "word": "美国对伊朗的空袭正在进行中",
+      "onboard_time": 1772262504,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1724440,
@@ -1379,14 +1395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1486423,
-      "num": 422551,
-      "word": "金价",
-      "onboard_time": 1769988378,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1474943,
       "num": 793645,
       "word": "7名中国游客沉入贝加尔湖溺亡",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1771235004,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1345967,
-      "num": 1345967,
-      "word": "美国对伊朗的空袭正在进行中",
-      "onboard_time": 1772262504,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1345767,
@@ -2817,6 +2817,14 @@
       "onboard_time": 1770717980,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 954734,
+      "num": 954734,
+      "word": "伊朗总统遭刺杀未遂",
+      "onboard_time": 1772263166,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 954154,
@@ -6611,14 +6619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 586460,
-      "num": 586460,
-      "word": "伊朗总统遭刺杀未遂",
-      "onboard_time": 1772263166,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 586095,
       "num": 586095,
       "word": "易烊千玺弟弟13岁近照",
@@ -9963,6 +9963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448365,
+      "num": 448365,
+      "word": "伊朗总统府遭袭",
+      "onboard_time": 1772263285,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 447745,
       "num": 447745,
       "word": "山西卫健委已严肃约谈市急救中心",
@@ -13179,6 +13187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 365856,
+      "num": 264527,
+      "word": "韩国演员林周焕在物流中心搬货",
+      "onboard_time": 1772263407,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365680,
       "num": 337030,
       "word": "陈丽君是怎么面试上镖人的",
@@ -14313,14 +14329,6 @@
       "onboard_time": 1770338903,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 344177,
-      "num": 313718,
-      "word": "伊朗总统府遭袭",
-      "onboard_time": 1772263285,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 343837,
@@ -16137,6 +16145,14 @@
       "onboard_time": 1770024379,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 311648,
+      "num": 265285,
+      "word": "关晓彤漂亮得像洋娃娃一样",
+      "onboard_time": 1772260943,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 311593,
@@ -18483,6 +18499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278256,
+      "num": 263505,
+      "word": "孟子义李昀锐综艺",
+      "onboard_time": 1772263945,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278218,
       "num": 278218,
       "word": "喵娲娲 30万红包",
@@ -19515,14 +19539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265285,
-      "num": 265285,
-      "word": "关晓彤漂亮得像洋娃娃一样",
-      "onboard_time": 1772260943,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265269,
       "num": 265269,
       "word": "德国难民抱18岁陌生女孩跳轨",
@@ -20041,6 +20057,14 @@
       "onboard_time": 1771581560,
       "rank": 33,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 258034,
+      "num": 313447,
+      "word": "王楚钦vs张禹珍",
+      "onboard_time": 1772263646,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 257928,
@@ -21345,6 +21369,14 @@
       "onboard_time": 1770105261,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244706,
+      "num": 244706,
+      "word": "TF家族全员运动会 澳门",
+      "onboard_time": 1772264844,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 244522,
@@ -23235,6 +23267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225933,
+      "num": 225933,
+      "word": "以色列伊朗 金价",
+      "onboard_time": 1772264245,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 225798,
       "num": 225798,
       "word": "沈腾也是当上站哥了",
@@ -23465,14 +23505,6 @@
       "onboard_time": 1770196520,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 223617,
-      "num": 313447,
-      "word": "王楚钦vs张禹珍",
-      "onboard_time": 1772263646,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 223574,
@@ -24105,6 +24137,14 @@
       "onboard_time": 1771926081,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 217784,
+      "num": 217784,
+      "word": "女子离家17天马桶狂冲200吨水",
+      "onboard_time": 1772258781,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217482,
@@ -25611,14 +25651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201409,
-      "num": 201409,
-      "word": "女子离家17天马桶狂冲200吨水",
-      "onboard_time": 1772258781,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201367,
       "num": 175382,
       "word": "唐宫结局封神",
@@ -25803,6 +25835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200177,
+      "num": 200177,
+      "word": "刘晓艳曾因婆媳关系非常痛苦",
+      "onboard_time": 1772261605,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 200111,
       "num": 200111,
       "word": "deepseek崩了",
@@ -25923,6 +25963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 199036,
+      "num": 199036,
+      "word": "哈梅内伊已转移",
+      "onboard_time": 1772263826,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 198790,
       "num": 198790,
       "word": "微博之夜 二刷",
@@ -26033,6 +26081,14 @@
       "onboard_time": 1770116120,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198397,
+      "num": 198397,
+      "word": "头一回见仅付款的",
+      "onboard_time": 1772262386,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 198248,
@@ -26289,6 +26345,14 @@
       "onboard_time": 1771236385,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 196082,
+      "num": 265994,
+      "word": "直播关注伊朗局势",
+      "onboard_time": 1772264064,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195735,
@@ -28291,14 +28355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 178894,
-      "num": 178894,
-      "word": "韩国演员林周焕在物流中心搬货",
-      "onboard_time": 1772263407,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178819,
       "num": 192905,
       "word": "恋与深空喜迎财神",
@@ -28380,7 +28436,7 @@
     },
     {
       "raw_hot": 178379,
-      "num": 178379,
+      "num": 187592,
       "word": "金花婆婆说刘晓庆刚出道被所有人欺负",
       "onboard_time": 1772256023,
       "rank": 26,
@@ -29136,14 +29192,6 @@
       "word": "骏良",
       "onboard_time": 1771767203,
       "rank": 27,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 172998,
-      "num": 172998,
-      "word": "刘晓艳曾因婆媳关系非常痛苦",
-      "onboard_time": 1772261605,
-      "rank": 45,
       "category": "网红"
     },
     {
@@ -30289,6 +30337,14 @@
       "onboard_time": 1770686299,
       "rank": 21,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 164153,
+      "num": 164153,
+      "word": "王艺迪2比4温特",
+      "onboard_time": 1772264605,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 164125,
@@ -31699,14 +31755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153878,
-      "num": 153878,
-      "word": "头一回见仅付款的",
-      "onboard_time": 1772262386,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153872,
       "num": 76852,
       "word": "王玉雯进不了组也不要怪我",
@@ -32209,14 +32257,6 @@
       "onboard_time": 1771902921,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150941,
-      "num": 150941,
-      "word": "孟子义李昀锐综艺",
-      "onboard_time": 1772263945,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 150900,
@@ -32955,6 +32995,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 146901,
+      "num": 146901,
+      "word": "人民币涨得太快央行踩刹车",
+      "onboard_time": 1772264064,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146864,
       "num": 135418,
       "word": "美伊冲突",
@@ -33209,14 +33257,6 @@
       "onboard_time": 1770367580,
       "rank": 26,
       "category": "电竞,作品衍生"
-    },
-    {
-      "raw_hot": 145457,
-      "num": 145457,
-      "word": "人民币涨得太快央行踩刹车",
-      "onboard_time": 1772264064,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 145427,
@@ -34529,14 +34569,6 @@
       "onboard_time": 1772189480,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 139860,
-      "num": 139860,
-      "word": "哈梅内伊已转移",
-      "onboard_time": 1772263826,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139851,
@@ -46667,6 +46699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101574,
+      "num": 188952,
+      "word": "王曼昱张本美和爆分",
+      "onboard_time": 1772264725,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101563,
       "num": 101563,
       "word": "涠洲岛网红鲸鱼被渔船高速撞击",
@@ -50809,6 +50849,14 @@
       "onboard_time": 1772115863,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 93040,
+      "num": 1743637,
+      "word": "周鸿祎揭美伪造陈志案证据内幕",
+      "onboard_time": 1772247982,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93018,
@@ -57435,14 +57483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 80480,
-      "num": 1572974,
-      "word": "周鸿祎揭美伪造陈志案证据内幕",
-      "onboard_time": 1772247982,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80474,
       "num": 80474,
       "word": "和平精英敖瑞鹏花絮",
@@ -62427,14 +62467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 69686,
-      "num": 154289,
-      "word": "直播关注伊朗局势",
-      "onboard_time": 1772264064,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 69675,
       "num": 69675,
       "word": "攒了一年的脸面全丢光了",
@@ -64020,7 +64052,7 @@
     },
     {
       "raw_hot": 65858,
-      "num": 218710,
+      "num": 263369,
       "word": "高速避障能不能猛打方向",
       "onboard_time": 1772260943,
       "rank": 25,
@@ -64393,6 +64425,14 @@
       "onboard_time": 1771254333,
       "rank": 26,
       "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 64945,
+      "num": 264293,
+      "word": "银行盯上孩子压岁钱",
+      "onboard_time": 1772264005,
+      "rank": 33,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 64940,
@@ -74569,14 +74609,6 @@
       "onboard_time": 1770115100,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 28403,
-      "num": 178433,
-      "word": "银行盯上孩子压岁钱",
-      "onboard_time": 1772264005,
-      "rank": 33,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 28398,
