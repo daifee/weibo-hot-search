@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772264875689,
+  "endTime": 1772267973311,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -795,8 +795,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1968761,
-      "num": 422551,
+      "raw_hot": 1994079,
+      "num": 540844,
       "word": "金价",
       "onboard_time": 1769988378,
       "rank": 13,
@@ -969,6 +969,14 @@
       "onboard_time": 1771594222,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1763815,
+      "num": 1763815,
+      "word": "伊朗正准备毁灭性报复行动",
+      "onboard_time": 1772265144,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1757992,
@@ -2804,7 +2812,7 @@
     },
     {
       "raw_hot": 955797,
-      "num": 390967,
+      "num": 516823,
       "word": "曝迪丽热巴签约天伊娱乐",
       "onboard_time": 1772260223,
       "rank": 10,
@@ -2857,6 +2865,14 @@
       "onboard_time": 1771506020,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 950490,
+      "num": 540587,
+      "word": "以色列伊朗 金价",
+      "onboard_time": 1772264245,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 950232,
@@ -3329,6 +3345,14 @@
       "onboard_time": 1772169801,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 867108,
+      "num": 867108,
+      "word": "伊朗反击",
+      "onboard_time": 1772267605,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 866352,
@@ -4841,6 +4865,14 @@
       "onboard_time": 1770367101,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 705344,
+      "num": 705344,
+      "word": "以色列监测到伊朗发射导弹",
+      "onboard_time": 1772266647,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 704517,
@@ -7507,6 +7539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546898,
+      "num": 546898,
+      "word": "孟子义李昀锐综艺",
+      "onboard_time": 1772263945,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 546490,
       "num": 386178,
       "word": "杨洋周洁琼不让江山开机同框",
@@ -7673,6 +7713,14 @@
       "onboard_time": 1769979855,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 539418,
+      "num": 539418,
+      "word": "导弹飞越伊拉克画面曝光",
+      "onboard_time": 1772265865,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 539319,
@@ -8051,6 +8099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 520053,
+      "num": 520053,
+      "word": "九亿少女的梦",
+      "onboard_time": 1772264964,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 519442,
       "num": 348667,
       "word": "男子高速路上发现62具宠物尸体",
@@ -8073,6 +8129,14 @@
       "onboard_time": 1771814242,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 518553,
+      "num": 541118,
+      "word": "王楚钦再次成功挑战鹰眼",
+      "onboard_time": 1772266165,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 518313,
@@ -10073,6 +10137,14 @@
       "onboard_time": 1770118942,
       "rank": 3,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 444129,
+      "num": 444129,
+      "word": "TF家族全员运动会 澳门",
+      "onboard_time": 1772264844,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 442905,
@@ -14291,6 +14363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345140,
+      "num": 345140,
+      "word": "特朗普表示将彻底摧毁伊朗海军",
+      "onboard_time": 1772266582,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 344993,
       "num": 344993,
       "word": "极客湾 下架",
@@ -15697,6 +15777,14 @@
       "onboard_time": 1770345140,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317621,
+      "num": 515567,
+      "word": "王楚钦vs张禹珍",
+      "onboard_time": 1772263646,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 317522,
@@ -18499,14 +18587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278256,
-      "num": 263505,
-      "word": "孟子义李昀锐综艺",
-      "onboard_time": 1772263945,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 278218,
       "num": 278218,
       "word": "喵娲娲 30万红包",
@@ -18521,6 +18601,14 @@
       "onboard_time": 1771239809,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278104,
+      "num": 278104,
+      "word": "头一回见仅付款的",
+      "onboard_time": 1772262386,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 278094,
@@ -18977,6 +19065,14 @@
       "onboard_time": 1772167162,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 271700,
+      "num": 193872,
+      "word": "美国以色列伊朗打仗",
+      "onboard_time": 1772265144,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 271664,
@@ -20057,14 +20153,6 @@
       "onboard_time": 1771581560,
       "rank": 33,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 258034,
-      "num": 313447,
-      "word": "王楚钦vs张禹珍",
-      "onboard_time": 1772263646,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 257928,
@@ -21369,14 +21457,6 @@
       "onboard_time": 1770105261,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244706,
-      "num": 244706,
-      "word": "TF家族全员运动会 澳门",
-      "onboard_time": 1772264844,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 244522,
@@ -23267,14 +23347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225933,
-      "num": 225933,
-      "word": "以色列伊朗 金价",
-      "onboard_time": 1772264245,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 225798,
       "num": 225798,
       "word": "沈腾也是当上站哥了",
@@ -24265,6 +24337,14 @@
       "onboard_time": 1770699979,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216361,
+      "num": 193091,
+      "word": "美军航母参与空袭伊朗",
+      "onboard_time": 1772265264,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 216351,
@@ -26083,14 +26163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198397,
-      "num": 198397,
-      "word": "头一回见仅付款的",
-      "onboard_time": 1772262386,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 198248,
       "num": 145837,
       "word": "内娱穿裙子跑酷的女主来了",
@@ -26811,6 +26883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192250,
+      "num": 192250,
+      "word": "特朗普",
+      "onboard_time": 1772267605,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192208,
       "num": 192208,
       "word": "王鹤棣说祝大家永远不死",
@@ -26993,6 +27073,14 @@
       "onboard_time": 1771492279,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 190611,
+      "num": 190611,
+      "word": "热巴 换经纪人",
+      "onboard_time": 1772266044,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 190589,
@@ -27971,6 +28059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182265,
+      "num": 182265,
+      "word": "Angelababy紫罗兰中式美人",
+      "onboard_time": 1772265746,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182162,
       "num": 174435,
       "word": "行程图",
@@ -28787,6 +28883,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 175479,
+      "num": 194900,
+      "word": "人民币涨得太快央行踩刹车",
+      "onboard_time": 1772264064,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 175475,
       "num": 122029,
       "word": "齐思钧刘梦章分手后还能友好同游",
@@ -28953,6 +29057,14 @@
       "onboard_time": 1772196682,
       "rank": 26,
       "category": "民生新闻,游戏"
+    },
+    {
+      "raw_hot": 174560,
+      "num": 174560,
+      "word": "特朗普称要把伊导弹工业夷为平地",
+      "onboard_time": 1772267304,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174544,
@@ -32083,6 +32195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151999,
+      "num": 151999,
+      "word": "以色列 犹大之盾",
+      "onboard_time": 1772267545,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151976,
       "num": 133059,
       "word": "雷佳音送礼离谱中带着合理",
@@ -32993,14 +33113,6 @@
       "onboard_time": 1770456021,
       "rank": 17,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 146901,
-      "num": 146901,
-      "word": "人民币涨得太快央行踩刹车",
-      "onboard_time": 1772264064,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 146864,
@@ -37617,6 +37729,14 @@
       "onboard_time": 1770089119,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127060,
+      "num": 132460,
+      "word": "2025研究生招生143.8万人",
+      "onboard_time": 1772267304,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 127053,
@@ -44363,6 +44483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106772,
+      "num": 182651,
+      "word": "伊朗手机断网",
+      "onboard_time": 1772267545,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106760,
       "num": 106760,
       "word": "时代少年团行程图",
@@ -44449,6 +44577,14 @@
       "onboard_time": 1770093381,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106580,
+      "num": 504745,
+      "word": "美国正从空中和海上打击伊朗",
+      "onboard_time": 1772267664,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106561,
@@ -45121,6 +45257,14 @@
       "onboard_time": 1770392001,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104981,
+      "num": 177294,
+      "word": "以色列领空关闭",
+      "onboard_time": 1772266465,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104980,
@@ -63307,6 +63451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67652,
+      "num": 506434,
+      "word": "伊称结局已不再由以色列掌控",
+      "onboard_time": 1772267724,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67637,
       "num": 67637,
       "word": "在厨房放一把椅子有多方便",
@@ -68035,6 +68187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52358,
+      "num": 161220,
+      "word": "王橹杰 神图和表情包总是一起出现",
+      "onboard_time": 1772266465,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52325,
       "num": 44404,
       "word": "任子威说刘少昂倾斜角度太大了",
@@ -69921,6 +70081,14 @@
       "onboard_time": 1770457821,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45667,
+      "num": 182441,
+      "word": "丁程鑫cha了浴室摇转场",
+      "onboard_time": 1772260826,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 45584,
@@ -77187,6 +77355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21151,
+      "num": 192444,
+      "word": "一组数据看我国知识产权发展成就",
+      "onboard_time": 1772267484,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21110,
       "num": 439406,
       "word": "米兰冬奥会首日赛程",
@@ -78025,6 +78201,14 @@
       "onboard_time": 1770490215,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18386,
+      "num": 138353,
+      "word": "2025年我国日均新设企业2.6万户",
+      "onboard_time": 1772267186,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18382,
@@ -80107,6 +80291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10605,
+      "num": 1185807,
+      "word": "2025我国完成92次宇航发射",
+      "onboard_time": 1772267664,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10601,
       "num": 159082,
       "word": "喵娲娲下次能不能带我追邓为",
@@ -80894,6 +81086,9 @@
     },
     {
       "word": "#习近平的两会时间#"
+    },
+    {
+      "word": "#坚持从实际出发按规律办事#"
     }
   ]
 }
