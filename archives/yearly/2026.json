@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772261458155,
+  "endTime": 1772262228743,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8807134,
+      "num": 8807134,
+      "word": "以色列宣布袭击伊朗",
+      "onboard_time": 1772260103,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 8698031,
       "num": 8698031,
       "word": "微博之夜红毯",
@@ -297,14 +305,6 @@
       "onboard_time": 1770303387,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7667459,
-      "num": 7667459,
-      "word": "以色列宣布袭击伊朗",
-      "onboard_time": 1772260103,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 7482738,

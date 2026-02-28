@@ -1,10 +1,10 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772261458155,
+  "endTime": 1772262228743,
   "band_list": [
     {
-      "raw_hot": 7667459,
-      "num": 7667459,
+      "raw_hot": 8807134,
+      "num": 8807134,
       "word": "以色列宣布袭击伊朗",
       "onboard_time": 1772260103,
       "rank": 0,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1286852,
-      "num": 299619,
+      "num": 367555,
       "word": "范丞丞方说不认识没交集",
       "onboard_time": 1772236221,
       "rank": 10,
@@ -57,6 +57,22 @@
       "onboard_time": 1772245162,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 955797,
+      "num": 390967,
+      "word": "曝迪丽热巴签约天伊娱乐",
+      "onboard_time": 1772260223,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 914530,
+      "num": 914530,
+      "word": "德国总理从中国回去后急了",
+      "onboard_time": 1772258661,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 882721,
@@ -75,28 +91,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 768371,
-      "num": 269911,
-      "word": "曝迪丽热巴签约天伊娱乐",
-      "onboard_time": 1772260223,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 734797,
       "num": 278848,
       "word": "嘉行否认迪丽热巴合约到期",
       "onboard_time": 1772250202,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 715896,
-      "num": 715896,
-      "word": "德国总理从中国回去后急了",
-      "onboard_time": 1772258661,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 709004,
@@ -123,6 +123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 659034,
+      "num": 659034,
+      "word": "一点点回应",
+      "onboard_time": 1772258721,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635612,
       "num": 635612,
       "word": "郭晓婷王天辰第二十八年春",
@@ -139,14 +147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 593425,
-      "num": 593425,
-      "word": "一点点回应",
-      "onboard_time": 1772258721,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 573261,
       "num": 573261,
       "word": "山姆部分产品大降价",
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 572704,
-      "num": 263408,
+      "num": 354524,
       "word": "黄子韬因喘不上气暂停节目录制",
       "onboard_time": 1772256142,
       "rank": 16,
@@ -179,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 522640,
+      "num": 376907,
+      "word": "以色列对伊朗发动二次袭击",
+      "onboard_time": 1772260826,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 511376,
       "num": 182391,
       "word": "杨幂谷爱凌合照 好娇啊小幂",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 506877,
-      "num": 185493,
+      "num": 349727,
       "word": "以色列宣布全国紧急状态",
       "onboard_time": 1772261004,
       "rank": 30,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 392207,
-      "num": 241564,
+      "num": 329261,
       "word": "迪丽热巴现在人还在飞机上",
       "onboard_time": 1772258542,
       "rank": 16,
@@ -355,20 +363,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 325147,
+      "num": 325147,
+      "word": "向太发向佐向佑儿时视频",
+      "onboard_time": 1772260163,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323734,
       "num": 306735,
       "word": "张雪峰谈考研人数减少分数线却涨了",
       "onboard_time": 1772252484,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 321462,
-      "num": 241333,
-      "word": "向太发向佐向佑儿时视频",
-      "onboard_time": 1772260163,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 320115,
@@ -435,14 +443,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 274435,
-      "num": 274435,
-      "word": "以色列对伊朗发动二次袭击",
-      "onboard_time": 1772260826,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 263322,
       "num": 263322,
       "word": "法硕",
@@ -464,6 +464,14 @@
       "word": "库迪向王一博致歉",
       "onboard_time": 1772234236,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 251436,
+      "num": 251436,
+      "word": "金贤重回应殴打前女友",
+      "onboard_time": 1772259681,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -505,14 +513,6 @@
       "onboard_time": 1772248643,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 233283,
-      "num": 233283,
-      "word": "金贤重回应殴打前女友",
-      "onboard_time": 1772259681,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 231862,
@@ -563,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214443,
+      "num": 214443,
+      "word": "关晓彤漂亮得像洋娃娃一样",
+      "onboard_time": 1772260943,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211278,
       "num": 211278,
       "word": "真的不建议把肉泡在水里解冻",
@@ -585,6 +593,14 @@
       "onboard_time": 1772250383,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201409,
+      "num": 201409,
+      "word": "女子离家17天马桶狂冲200吨水",
+      "onboard_time": 1772258781,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198097,
@@ -619,20 +635,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 188044,
-      "num": 188044,
-      "word": "女子离家17天马桶狂冲200吨水",
-      "onboard_time": 1772258781,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182734,
       "num": 182734,
       "word": "TOP新专配置",
       "onboard_time": 1772251642,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182391,
+      "num": 182391,
+      "word": "王皓解释向鹏为何无缘世界杯",
+      "onboard_time": 1772261186,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 182162,
@@ -707,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166058,
+      "num": 237948,
+      "word": "林诗栋2比4F勒布伦",
+      "onboard_time": 1772260764,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165817,
       "num": 165817,
       "word": "徐福记回应米兰小伙求代购酥心糖",
@@ -715,20 +739,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164908,
-      "num": 164908,
-      "word": "关晓彤漂亮得像洋娃娃一样",
-      "onboard_time": 1772260943,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164490,
       "num": 164490,
       "word": "被公开喊话退彩礼女方称彩礼已花",
       "onboard_time": 1772243602,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163771,
+      "num": 227894,
+      "word": "以色列袭击伊朗现场画面",
+      "onboard_time": 1772261965,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148719,
@@ -753,6 +777,14 @@
       "onboard_time": 1772260344,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142426,
+      "num": 142426,
+      "word": "久坐的人喝咖啡受益更大",
+      "onboard_time": 1772257582,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141890,
@@ -803,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138824,
+      "num": 138824,
+      "word": "在伊华人讲述伊朗首都现状",
+      "onboard_time": 1772258421,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137059,
       "num": 137059,
       "word": "当妈妈把欧洲特产蒸了后",
@@ -817,14 +857,6 @@
       "onboard_time": 1772201963,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132744,
-      "num": 132744,
-      "word": "王皓解释向鹏为何无缘世界杯",
-      "onboard_time": 1772261186,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 131715,
@@ -851,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128829,
+      "num": 128829,
+      "word": "刘晓艳曾因婆媳关系非常痛苦",
+      "onboard_time": 1772261605,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126272,
       "num": 126272,
       "word": "美国双航母已就位",
@@ -865,14 +905,6 @@
       "onboard_time": 1772257282,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121998,
-      "num": 121998,
-      "word": "在伊华人讲述伊朗首都现状",
-      "onboard_time": 1772258421,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121485,
@@ -899,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118764,
+      "num": 139074,
+      "word": "不同房的婚姻正常吗",
+      "onboard_time": 1772261485,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117206,
       "num": 117206,
       "word": "虎跳峡男游客疑因洗杯落水失联",
@@ -913,14 +953,6 @@
       "onboard_time": 1772193141,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116299,
-      "num": 237948,
-      "word": "林诗栋2比4F勒布伦",
-      "onboard_time": 1772260764,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 115747,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1772236278,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96344,
-      "num": 96344,
-      "word": "久坐的人喝咖啡受益更大",
-      "onboard_time": 1772257582,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 95170,
@@ -1292,7 +1316,7 @@
     },
     {
       "raw_hot": 71989,
-      "num": 1384985,
+      "num": 1572974,
       "word": "周鸿祎揭美伪造陈志案证据内幕",
       "onboard_time": 1772247982,
       "rank": 2,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1772195663,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 60116,
+      "num": 156859,
+      "word": "老人为摘花竟把婴儿独自留在快车道上",
+      "onboard_time": 1772261424,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60025,
@@ -1523,14 +1555,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 48792,
-      "num": 156859,
-      "word": "老人为摘花竟把婴儿独自留在快车道上",
-      "onboard_time": 1772261424,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48771,
       "num": 48771,
       "word": "张函瑞黑皮衣十宫格",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1772235437,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 43861,
+      "num": 254360,
+      "word": "上海气功研究所招博士",
+      "onboard_time": 1772261846,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40457,
@@ -1681,6 +1713,14 @@
       "onboard_time": 1772234057,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 30485,
+      "num": 226812,
+      "word": "免费体检后花了20万报告竟是假的",
+      "onboard_time": 1772262024,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29445,
