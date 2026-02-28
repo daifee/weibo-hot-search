@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772306917770,
+  "endTime": 1772307766686,
   "band_list": [
     {
       "raw_hot": 993678,
@@ -475,12 +475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23553,
+      "num": 39114,
+      "word": "玫瑰丛生",
+      "onboard_time": 1772307195,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23158,
       "num": 49057,
       "word": "徐明浩穿背心给到夯",
       "onboard_time": 1772301258,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22007,
+      "num": 34748,
+      "word": "江湖夜雨十年灯",
+      "onboard_time": 1772306955,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 18513,
