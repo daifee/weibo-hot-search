@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772268758659,
+  "endTime": 1772271318605,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -49,6 +49,14 @@
       "onboard_time": 1771770023,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3446939,
+      "num": 3446939,
+      "word": "伊朗陆军总司令身亡",
+      "onboard_time": 1772269585,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 3306102,
@@ -171,6 +179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1645072,
+      "num": 1645072,
+      "word": "伊朗反击",
+      "onboard_time": 1772267605,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1623958,
       "num": 223289,
       "word": "钱枫近况",
@@ -193,14 +209,6 @@
       "onboard_time": 1771888937,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1596939,
-      "num": 1596939,
-      "word": "伊朗反击",
-      "onboard_time": 1772267605,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1592010,
@@ -1491,6 +1499,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 594083,
+      "num": 300377,
+      "word": "特朗普",
+      "onboard_time": 1772267605,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 591131,
       "num": 251426,
       "word": "为什么谷爱凌比赛前要放两撮头发",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1772163023,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 485024,
+      "num": 176363,
+      "word": "伊朗高丰度浓缩铀储藏处首次曝光",
+      "onboard_time": 1772269164,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 482319,
@@ -3323,6 +3347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365003,
+      "num": 365003,
+      "word": "方穆静提离婚",
+      "onboard_time": 1772269045,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363794,
       "num": 328088,
       "word": "不要在吃喝方面拿捏人",
@@ -4099,6 +4131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304282,
+      "num": 304282,
+      "word": "小米YU9",
+      "onboard_time": 1772267845,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 303959,
       "num": 230744,
       "word": "P图的时候忘记P的是实况",
@@ -4257,6 +4297,14 @@
       "onboard_time": 1771917080,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293311,
+      "num": 293311,
+      "word": "王皓赛后生气了",
+      "onboard_time": 1772268564,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 293240,
@@ -4753,14 +4801,6 @@
       "onboard_time": 1771942944,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266355,
-      "num": 266355,
-      "word": "小米YU9",
-      "onboard_time": 1772267845,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 265628,
@@ -5891,6 +5931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223813,
+      "num": 223813,
+      "word": "王楚钦好好好我不挑战了",
+      "onboard_time": 1772269164,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223399,
       "num": 190094,
       "word": "不发朋友圈的人是什么性格",
@@ -5905,6 +5953,14 @@
       "onboard_time": 1771977740,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222864,
+      "num": 222864,
+      "word": "阿联酋传出爆炸声",
+      "onboard_time": 1772270485,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 222686,
@@ -5937,14 +5993,6 @@
       "onboard_time": 1771909100,
       "rank": 30,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 221964,
-      "num": 199103,
-      "word": "特朗普",
-      "onboard_time": 1772267605,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 221868,
@@ -5993,6 +6041,14 @@
       "onboard_time": 1771984401,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220806,
+      "num": 220806,
+      "word": "山姆520元巧克力降到99元",
+      "onboard_time": 1772270905,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219778,
@@ -6083,12 +6139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216456,
+      "num": 176096,
+      "word": "伊朗又一轮导弹射向以色列",
+      "onboard_time": 1772270965,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 216208,
       "num": 216208,
       "word": "王皓开玩笑说王楚钦的签名我哪会",
       "onboard_time": 1772190501,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216125,
+      "num": 190253,
+      "word": "TOP和谷爱凌合照",
+      "onboard_time": 1772270664,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 215795,
@@ -7243,6 +7315,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 177409,
+      "num": 177409,
+      "word": "宁艺卓自曝体重41公斤",
+      "onboard_time": 1772268086,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177321,
+      "num": 175933,
+      "word": "女子怀疑丈夫出轨闺蜜装定位被发现",
+      "onboard_time": 1772269824,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177215,
       "num": 177215,
       "word": "神仙肉女主人设",
@@ -7779,14 +7867,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 164779,
-      "num": 164779,
-      "word": "宁艺卓自曝体重41公斤",
-      "onboard_time": 1772268086,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164753,
       "num": 131890,
       "word": "刘品言抱女儿打牌",
@@ -7891,6 +7971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161876,
+      "num": 161876,
+      "word": "我家那小子",
+      "onboard_time": 1772271204,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161439,
       "num": 161439,
       "word": "贺峻霖祝丁程鑫本命年快乐",
@@ -7947,6 +8035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159602,
+      "num": 507705,
+      "word": "美国正从空中和海上打击伊朗",
+      "onboard_time": 1772267664,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159423,
       "num": 169455,
       "word": "原来补气血有个最佳顺序",
@@ -8001,6 +8097,14 @@
       "onboard_time": 1771840040,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158300,
+      "num": 158300,
+      "word": "伊朗报复行动没有任何红线",
+      "onboard_time": 1772271086,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157289,
@@ -8179,6 +8283,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152800,
+      "num": 152800,
+      "word": "迪丽热巴与杨幂公司存在关联",
+      "onboard_time": 1772270245,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152490,
+      "num": 152490,
+      "word": "伊朗领导人都是打击目标",
+      "onboard_time": 1772269225,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151976,
       "num": 151976,
       "word": "王安宇好明显的暗爽",
@@ -8307,6 +8427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149235,
+      "num": 149235,
+      "word": "阿联酋关闭领空",
+      "onboard_time": 1772270785,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149159,
       "num": 149159,
       "word": "雷军亲自发开工红包",
@@ -8361,6 +8489,14 @@
       "onboard_time": 1771939942,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147650,
+      "num": 147650,
+      "word": "一点点 植脂末",
+      "onboard_time": 1772270604,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147450,
@@ -8569,6 +8705,14 @@
       "onboard_time": 1772062097,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144124,
+      "num": 144124,
+      "word": "新一轮导弹向以色列发射",
+      "onboard_time": 1772269405,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143714,
@@ -9075,14 +9219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136805,
-      "num": 507705,
-      "word": "美国正从空中和海上打击伊朗",
-      "onboard_time": 1772267664,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 136731,
       "num": 136731,
       "word": "JDG战胜TES",
@@ -9153,6 +9289,14 @@
       "onboard_time": 1771815739,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135476,
+      "num": 135476,
+      "word": "eStar对战DRG",
+      "onboard_time": 1772269225,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 135451,
@@ -9545,6 +9689,14 @@
       "onboard_time": 1771894580,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129529,
+      "num": 129529,
+      "word": "小米YU9伪装实车曝光",
+      "onboard_time": 1772271264,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 129345,
@@ -11345,6 +11497,14 @@
       "onboard_time": 1772080461,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106983,
+      "num": 294851,
+      "word": "伊朗总统安全无事",
+      "onboard_time": 1772270065,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106889,
@@ -17315,6 +17475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44196,
+      "num": 158866,
+      "word": "TOP请给我一个准确的咖位",
+      "onboard_time": 1772267005,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44172,
       "num": 44172,
       "word": "有相机5年翻10倍成理财产品",
@@ -17489,6 +17657,14 @@
       "onboard_time": 1771765403,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41471,
+      "num": 2455381,
+      "word": "2025我国完成92次宇航发射",
+      "onboard_time": 1772267664,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41338,
@@ -17784,14 +17960,6 @@
       "word": "默茨就任以来首次访华",
       "onboard_time": 1771923262,
       "rank": 16,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 36493,
-      "num": 1610890,
-      "word": "2025我国完成92次宇航发射",
-      "onboard_time": 1772267664,
-      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -18825,6 +18993,14 @@
       "onboard_time": 1771785975,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18654,
+      "num": 158336,
+      "word": "法耶兹性侵案受害者多达154人",
+      "onboard_time": 1772270424,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18386,

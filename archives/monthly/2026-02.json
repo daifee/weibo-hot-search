@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772268758659,
+  "endTime": 1772271318605,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -441,6 +441,14 @@
       "onboard_time": 1771519938,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3446939,
+      "num": 3446939,
+      "word": "伊朗陆军总司令身亡",
+      "onboard_time": 1772269585,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 3389142,
@@ -1139,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1645072,
+      "num": 1645072,
+      "word": "伊朗反击",
+      "onboard_time": 1772267605,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1623958,
       "num": 223289,
       "word": "钱枫近况",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1771888937,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1596939,
-      "num": 1596939,
-      "word": "伊朗反击",
-      "onboard_time": 1772267605,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1592010,
@@ -6539,6 +6547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 594083,
+      "num": 300377,
+      "word": "特朗普",
+      "onboard_time": 1772267605,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 593778,
       "num": 773763,
       "word": "谷爱凌锁定决赛",
@@ -9017,6 +9033,14 @@
       "onboard_time": 1772163023,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 485024,
+      "num": 176363,
+      "word": "伊朗高丰度浓缩铀储藏处首次曝光",
+      "onboard_time": 1772269164,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 484540,
@@ -13331,6 +13355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 365003,
+      "num": 365003,
+      "word": "方穆静提离婚",
+      "onboard_time": 1772269045,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364916,
       "num": 776818,
       "word": "林孝埈已为中国短道燃尽所有",
@@ -16779,6 +16811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304282,
+      "num": 304282,
+      "word": "小米YU9",
+      "onboard_time": 1772267845,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 303959,
       "num": 230744,
       "word": "P图的时候忘记P的是实况",
@@ -17521,6 +17561,14 @@
       "onboard_time": 1771592962,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293311,
+      "num": 293311,
+      "word": "王皓赛后生气了",
+      "onboard_time": 1772268564,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 293240,
@@ -19529,14 +19577,6 @@
       "onboard_time": 1770431120,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266355,
-      "num": 266355,
-      "word": "小米YU9",
-      "onboard_time": 1772267845,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 266325,
@@ -23587,6 +23627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 223813,
+      "num": 223813,
+      "word": "王楚钦好好好我不挑战了",
+      "onboard_time": 1772269164,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223714,
       "num": 223714,
       "word": "王一博章昊自拍照",
@@ -23691,6 +23739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 222864,
+      "num": 222864,
+      "word": "阿联酋传出爆炸声",
+      "onboard_time": 1772270485,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 222833,
       "num": 391466,
       "word": "短道队多人为孙龙发声",
@@ -23785,14 +23841,6 @@
       "onboard_time": 1770097280,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 221964,
-      "num": 199103,
-      "word": "特朗普",
-      "onboard_time": 1772267605,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 221944,
@@ -23905,6 +23953,14 @@
       "onboard_time": 1770821242,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220806,
+      "num": 220806,
+      "word": "山姆520元巧克力降到99元",
+      "onboard_time": 1772270905,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220689,
@@ -24363,6 +24419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216456,
+      "num": 176096,
+      "word": "伊朗又一轮导弹射向以色列",
+      "onboard_time": 1772270965,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 216407,
       "num": 151488,
       "word": "苏翊鸣教科书般的1980",
@@ -24409,6 +24473,14 @@
       "onboard_time": 1770889041,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216125,
+      "num": 190253,
+      "word": "TOP和谷爱凌合照",
+      "onboard_time": 1772270664,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 216039,
@@ -28691,6 +28763,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177409,
+      "num": 177409,
+      "word": "宁艺卓自曝体重41公斤",
+      "onboard_time": 1772268086,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177321,
+      "num": 175933,
+      "word": "女子怀疑丈夫出轨闺蜜装定位被发现",
+      "onboard_time": 1772269824,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177294,
       "num": 224240,
       "word": "刘少昂1000米顺利晋级",
@@ -30403,14 +30491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 164779,
-      "num": 164779,
-      "word": "宁艺卓自曝体重41公斤",
-      "onboard_time": 1772268086,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164753,
       "num": 131890,
       "word": "刘品言抱女儿打牌",
@@ -31083,6 +31163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159602,
+      "num": 507705,
+      "word": "美国正从空中和海上打击伊朗",
+      "onboard_time": 1772267664,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159591,
       "num": 961539,
       "word": "A股春节休市安排来了",
@@ -31377,6 +31465,14 @@
       "onboard_time": 1771840040,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158300,
+      "num": 158300,
+      "word": "伊朗报复行动没有任何红线",
+      "onboard_time": 1772271086,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 158146,
@@ -32123,6 +32219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152800,
+      "num": 152800,
+      "word": "迪丽热巴与杨幂公司存在关联",
+      "onboard_time": 1772270245,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152794,
       "num": 152794,
       "word": "羊了个羊",
@@ -32177,6 +32281,14 @@
       "onboard_time": 1770648863,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152490,
+      "num": 152490,
+      "word": "伊朗领导人都是打击目标",
+      "onboard_time": 1772269225,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152483,
@@ -32795,6 +32907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149235,
+      "num": 149235,
+      "word": "阿联酋关闭领空",
+      "onboard_time": 1772270785,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149159,
       "num": 149159,
       "word": "雷军亲自发开工红包",
@@ -33057,6 +33177,14 @@
       "onboard_time": 1770602720,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147650,
+      "num": 147650,
+      "word": "一点点 植脂末",
+      "onboard_time": 1772270604,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147603,
@@ -33721,6 +33849,14 @@
       "onboard_time": 1772062097,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144124,
+      "num": 144124,
+      "word": "新一轮导弹向以色列发射",
+      "onboard_time": 1772269405,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144075,
@@ -35483,14 +35619,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 136805,
-      "num": 507705,
-      "word": "美国正从空中和海上打击伊朗",
-      "onboard_time": 1772267664,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 136761,
       "num": 136761,
       "word": "国投白银LOF手动抹去跌停板引质疑",
@@ -35817,6 +35945,14 @@
       "onboard_time": 1771394179,
       "rank": 16,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 135476,
+      "num": 135476,
+      "word": "eStar对战DRG",
+      "onboard_time": 1772269225,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 135451,
@@ -37209,6 +37345,14 @@
       "onboard_time": 1770896660,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129529,
+      "num": 129529,
+      "word": "小米YU9伪装实车曝光",
+      "onboard_time": 1772271264,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 129527,
@@ -44425,6 +44569,14 @@
       "onboard_time": 1770534798,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106983,
+      "num": 294851,
+      "word": "伊朗总统安全无事",
+      "onboard_time": 1772270065,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106981,
@@ -70547,6 +70699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44196,
+      "num": 158866,
+      "word": "TOP请给我一个准确的咖位",
+      "onboard_time": 1772267005,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44184,
       "num": 612890,
       "word": "一趟复兴号每周五变校车",
@@ -71289,6 +71449,14 @@
       "onboard_time": 1770968181,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41471,
+      "num": 2455381,
+      "word": "2025我国完成92次宇航发射",
+      "onboard_time": 1772267664,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41461,
@@ -72593,14 +72761,6 @@
       "onboard_time": 1769968396,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36493,
-      "num": 1610890,
-      "word": "2025我国完成92次宇航发射",
-      "onboard_time": 1772267664,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36490,
@@ -78217,6 +78377,14 @@
       "onboard_time": 1770319933,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18654,
+      "num": 158336,
+      "word": "法耶兹性侵案受害者多达154人",
+      "onboard_time": 1772270424,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18607,

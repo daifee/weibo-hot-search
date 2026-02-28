@@ -1,0 +1,410 @@
+{
+  "runTime": 1772271318605,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7454723,
+        "num": 7454723,
+        "word": "以色列宣布袭击伊朗",
+        "onboard_time": 1772260103,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3446939,
+        "num": 3446939,
+        "word": "伊朗陆军总司令身亡",
+        "onboard_time": 1772269585,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41471,
+        "num": 2455381,
+        "word": "2025我国完成92次宇航发射",
+        "onboard_time": 1772267664,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1645072,
+        "num": 1645072,
+        "word": "伊朗反击",
+        "onboard_time": 1772267605,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 901757,
+        "num": 901757,
+        "word": "伊朗正准备毁灭性报复行动",
+        "onboard_time": 1772265144,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 810836,
+        "num": 810836,
+        "word": "伊朗首都发生爆炸",
+        "onboard_time": 1772259802,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 427901,
+        "num": 427901,
+        "word": "德国总理从中国回去后急了",
+        "onboard_time": 1772258661,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 365003,
+        "num": 365003,
+        "word": "方穆静提离婚",
+        "onboard_time": 1772269045,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329999,
+        "num": 329999,
+        "word": "孟子义李昀锐综艺",
+        "onboard_time": 1772263945,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304282,
+        "num": 304282,
+        "word": "小米YU9",
+        "onboard_time": 1772267845,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 991353,
+        "num": 301770,
+        "word": "金价",
+        "onboard_time": 1772262625,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 594083,
+        "num": 300377,
+        "word": "特朗普",
+        "onboard_time": 1772267605,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106983,
+        "num": 294851,
+        "word": "伊朗总统安全无事",
+        "onboard_time": 1772270065,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 293311,
+        "num": 293311,
+        "word": "王皓赛后生气了",
+        "onboard_time": 1772268564,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230931,
+        "num": 230931,
+        "word": "王楚钦看林诗栋比赛摇头叹气",
+        "onboard_time": 1772267965,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227251,
+        "num": 227251,
+        "word": "特朗普表示将彻底摧毁伊朗海军",
+        "onboard_time": 1772266582,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223813,
+        "num": 223813,
+        "word": "王楚钦好好好我不挑战了",
+        "onboard_time": 1772269164,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222864,
+        "num": 222864,
+        "word": "阿联酋传出爆炸声",
+        "onboard_time": 1772270485,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220806,
+        "num": 220806,
+        "word": "山姆520元巧克力降到99元",
+        "onboard_time": 1772270905,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201361,
+        "num": 201361,
+        "word": "头一回见仅付款的",
+        "onboard_time": 1772262386,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370659,
+        "num": 197389,
+        "word": "曝迪丽热巴签约天伊娱乐",
+        "onboard_time": 1772260223,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273734,
+        "num": 194904,
+        "word": "TF家族全员运动会 澳门",
+        "onboard_time": 1772264844,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190544,
+        "num": 190544,
+        "word": "一点点回应",
+        "onboard_time": 1772258721,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220645,
+        "num": 190348,
+        "word": "范丞丞方说不认识没交集",
+        "onboard_time": 1772236221,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216125,
+        "num": 190253,
+        "word": "TOP和谷爱凌合照",
+        "onboard_time": 1772270664,
+        "rank": 24,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 189969,
+        "num": 189969,
+        "word": "九亿少女的梦",
+        "onboard_time": 1772264964,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187603,
+        "num": 187603,
+        "word": "以色列监测到伊朗发射导弹",
+        "onboard_time": 1772266647,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186086,
+        "num": 186086,
+        "word": "美军航母参与空袭伊朗",
+        "onboard_time": 1772265264,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177409,
+        "num": 177409,
+        "word": "宁艺卓自曝体重41公斤",
+        "onboard_time": 1772268086,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169700,
+        "num": 176417,
+        "word": "王楚钦被裁判整无奈了",
+        "onboard_time": 1772268023,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485024,
+        "num": 176363,
+        "word": "伊朗高丰度浓缩铀储藏处首次曝光",
+        "onboard_time": 1772269164,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176106,
+        "num": 176106,
+        "word": "导弹飞越伊拉克画面曝光",
+        "onboard_time": 1772265865,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216456,
+        "num": 176096,
+        "word": "伊朗又一轮导弹射向以色列",
+        "onboard_time": 1772270965,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177321,
+        "num": 175933,
+        "word": "女子怀疑丈夫出轨闺蜜装定位被发现",
+        "onboard_time": 1772269824,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174693,
+        "num": 174693,
+        "word": "热巴 换经纪人",
+        "onboard_time": 1772266044,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172456,
+        "num": 172456,
+        "word": "伊朗总统府遭袭",
+        "onboard_time": 1772263285,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161876,
+        "num": 161876,
+        "word": "我家那小子",
+        "onboard_time": 1772271204,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159602,
+        "num": 159602,
+        "word": "美国正从空中和海上打击伊朗",
+        "onboard_time": 1772267664,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44196,
+        "num": 158866,
+        "word": "TOP请给我一个准确的咖位",
+        "onboard_time": 1772267005,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18654,
+        "num": 158336,
+        "word": "法耶兹性侵案受害者多达154人",
+        "onboard_time": 1772270424,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149923,
+        "num": 158316,
+        "word": "特朗普称要把伊导弹工业夷为平地",
+        "onboard_time": 1772267304,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158300,
+        "num": 158300,
+        "word": "伊朗报复行动没有任何红线",
+        "onboard_time": 1772271086,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152800,
+        "num": 152800,
+        "word": "迪丽热巴与杨幂公司存在关联",
+        "onboard_time": 1772270245,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152490,
+        "num": 152490,
+        "word": "伊朗领导人都是打击目标",
+        "onboard_time": 1772269225,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149235,
+        "num": 149235,
+        "word": "阿联酋关闭领空",
+        "onboard_time": 1772270785,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147650,
+        "num": 147650,
+        "word": "一点点 植脂末",
+        "onboard_time": 1772270604,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144124,
+        "num": 144124,
+        "word": "新一轮导弹向以色列发射",
+        "onboard_time": 1772269405,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139008,
+        "num": 139008,
+        "word": "王安宇好明显的暗爽",
+        "onboard_time": 1772268204,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135476,
+        "num": 135476,
+        "word": "eStar对战DRG",
+        "onboard_time": 1772269225,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129529,
+        "num": 129529,
+        "word": "小米YU9伪装实车曝光",
+        "onboard_time": 1772271264,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持从实际出发按规律办事#"
+    }
+  }
+}
