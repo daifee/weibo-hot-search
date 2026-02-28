@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772286239019,
+  "endTime": 1772286888894,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2395,12 +2395,12 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 1469509,
-      "num": 1469509,
-      "word": "霸王茶姬已调查手打视频",
-      "onboard_time": 1767670641,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 1471815,
+      "num": 1043080,
+      "word": "伊朗袭击已致约200名美军伤亡",
+      "onboard_time": 1772284344,
+      "rank": 32,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

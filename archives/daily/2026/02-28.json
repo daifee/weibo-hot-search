@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772286239019,
+  "endTime": 1772286888894,
   "band_list": [
     {
       "raw_hot": 8807134,
@@ -83,7 +83,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1347678,
+      "raw_hot": 1471815,
       "num": 1043080,
       "word": "伊朗袭击已致约200名美军伤亡",
       "onboard_time": 1772284344,
@@ -251,6 +251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 673206,
+      "num": 266250,
+      "word": "伊朗与6国外长通话",
+      "onboard_time": 1772284524,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 659034,
       "num": 659034,
       "word": "一点点回应",
@@ -281,14 +289,6 @@
       "onboard_time": 1772274324,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 616885,
-      "num": 256845,
-      "word": "伊朗与6国外长通话",
-      "onboard_time": 1772284524,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 611630,
@@ -563,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417696,
+      "num": 247972,
+      "word": "郝熠然好会魅",
+      "onboard_time": 1772285064,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417435,
       "num": 417435,
       "word": "伊朗同意不拥有可制造核弹的核材料",
@@ -593,6 +601,14 @@
       "onboard_time": 1772270604,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 402396,
+      "num": 257613,
+      "word": "男朋友送的草莓蛋糕第一次见",
+      "onboard_time": 1772281162,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 399842,
@@ -649,14 +665,6 @@
       "onboard_time": 1772274204,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 366530,
-      "num": 257613,
-      "word": "男朋友送的草莓蛋糕第一次见",
-      "onboard_time": 1772281162,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 365856,
@@ -739,14 +747,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 337362,
-      "num": 230366,
-      "word": "郝熠然好会魅",
-      "onboard_time": 1772285064,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 334837,
       "num": 314521,
       "word": "伊朗又一轮导弹射向以色列",
@@ -817,6 +817,14 @@
       "onboard_time": 1772270485,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 314541,
+      "num": 1329298,
+      "word": "小米发布会",
+      "onboard_time": 1772284883,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 311648,
@@ -979,14 +987,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 254343,
-      "num": 254343,
-      "word": "小米发布会",
-      "onboard_time": 1772284883,
-      "rank": 13,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 251842,
       "num": 251842,
       "word": "第五人格",
@@ -1088,6 +1088,14 @@
       "word": "美军航母参与空袭伊朗",
       "onboard_time": 1772265264,
       "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 226082,
+      "num": 210554,
+      "word": "伊称将使用尖端神秘武器",
+      "onboard_time": 1772286443,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -1683,6 +1691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144634,
+      "num": 144634,
+      "word": "孙颖莎这一球请全体起立",
+      "onboard_time": 1772285605,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144124,
       "num": 144124,
       "word": "新一轮导弹向以色列发射",
@@ -1811,14 +1827,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 138003,
-      "num": 138003,
-      "word": "孙颖莎这一球请全体起立",
-      "onboard_time": 1772285605,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137067,
       "num": 119894,
       "word": "66岁的倪萍被63岁的张凯丽喊妈",
@@ -1899,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130366,
+      "num": 130366,
+      "word": "比尔盖茨出轨对象照片曝光",
+      "onboard_time": 1772286805,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130104,
       "num": 130104,
       "word": "芒果还是不肯放过这个草莓发卡",
@@ -1969,6 +1985,14 @@
       "onboard_time": 1772280863,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128155,
+      "num": 128155,
+      "word": "五粮液",
+      "onboard_time": 1772286744,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127060,
@@ -2371,6 +2395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96842,
+      "num": 222597,
+      "word": "俄罗斯对美以袭击伊朗表态",
+      "onboard_time": 1772285664,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96386,
       "num": 96386,
       "word": "德黑兰全城大堵车",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1772195903,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90171,
+      "num": 114915,
+      "word": "谷爱凌好牛的时间管理",
+      "onboard_time": 1772286624,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 89823,
@@ -2987,6 +3027,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 37822,
+      "num": 209692,
+      "word": "胡塞武装导弹射向以色列",
+      "onboard_time": 1772286624,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37397,
       "num": 43428,
       "word": "男篮世预赛",
@@ -3083,6 +3131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30833,
+      "num": 1079093,
+      "word": "3月起一批国家标准开始实施",
+      "onboard_time": 1772286324,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30548,
       "num": 133573,
       "word": "AI种地已经发展成这样了",
@@ -3097,14 +3153,6 @@
       "onboard_time": 1772262024,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30201,
-      "num": 222597,
-      "word": "俄罗斯对美以袭击伊朗表态",
-      "onboard_time": 1772285664,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29445,
