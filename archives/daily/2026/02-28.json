@@ -1,10 +1,34 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772236078888,
+  "endTime": 1772245638478,
   "band_list": [
     {
+      "raw_hot": 1544702,
+      "num": 1544702,
+      "word": "国家线 砍一刀",
+      "onboard_time": 1772239462,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1063560,
+      "num": 290983,
+      "word": "范丞丞方说不认识没交集",
+      "onboard_time": 1772236221,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 882721,
+      "num": 901311,
+      "word": "考研查分",
+      "onboard_time": 1772236820,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 868722,
-      "num": 116320,
+      "num": 177885,
       "word": "美国 伊朗",
       "onboard_time": 1772199803,
       "rank": 10,
@@ -19,12 +43,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 635612,
+      "num": 635612,
+      "word": "郭晓婷王天辰第二十八年春",
+      "onboard_time": 1772241384,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511376,
-      "num": 115851,
+      "num": 165727,
       "word": "杨幂谷爱凌合照 好娇啊小幂",
       "onboard_time": 1772206283,
       "rank": 12,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 499937,
+      "num": 439869,
+      "word": "近视散光人群开夜车的视角",
+      "onboard_time": 1772241625,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 451507,
+      "num": 451507,
+      "word": "等国家线",
+      "onboard_time": 1772245162,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 419291,
+      "num": 282045,
+      "word": "Angelababy37岁了",
+      "onboard_time": 1772236221,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 407443,
@@ -33,6 +89,14 @@
       "onboard_time": 1772205503,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 401830,
+      "num": 401830,
+      "word": "伊朗同意不拥有可制造核弹的核材料",
+      "onboard_time": 1772237240,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 388411,
@@ -59,12 +123,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 341098,
+      "num": 341098,
+      "word": "小米汽车预告图",
+      "onboard_time": 1772242763,
+      "rank": 7,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 334329,
-      "num": 111985,
+      "num": 180887,
       "word": "伊朗",
       "onboard_time": 1772196983,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 327799,
+      "num": 277902,
+      "word": "人不能从事长期有紧张感的工作",
+      "onboard_time": 1772241802,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 320115,
@@ -91,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 297392,
+      "num": 297392,
+      "word": "湖南县委书记个人账号变问政现场",
+      "onboard_time": 1772239462,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 287632,
       "num": 287632,
       "word": "反诈老陈因多次违规被罚",
@@ -99,7 +187,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 272777,
+      "raw_hot": 276616,
       "num": 938245,
       "word": "考研今天出分",
       "onboard_time": 1772234357,
@@ -115,8 +203,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243776,
+      "num": 243776,
+      "word": "法硕",
+      "onboard_time": 1772241743,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 241908,
-      "num": 63537,
+      "num": 112521,
       "word": "全球第一大毒贩被毙引发大规模报复",
       "onboard_time": 1772235319,
       "rank": 30,
@@ -131,11 +227,43 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 230533,
+      "num": 230533,
+      "word": "库迪向王一博致歉",
+      "onboard_time": 1772234236,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222350,
+      "num": 222350,
+      "word": "肖战Gucci大秀下班",
+      "onboard_time": 1772240243,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219445,
+      "num": 219445,
+      "word": "现在就出发4没有宋亚轩",
+      "onboard_time": 1772241204,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217136,
-      "num": 109448,
+      "num": 120159,
       "word": "上一个离开嘉行的是祝绪丹",
       "onboard_time": 1772210659,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216349,
+      "num": 216349,
+      "word": "迪丽热巴个人工作室",
+      "onboard_time": 1772244082,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -147,12 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211278,
+      "num": 211278,
+      "word": "真的不建议把肉泡在水里解冻",
+      "onboard_time": 1772240184,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 211213,
       "num": 111675,
       "word": "肖战 这很齐夏",
       "onboard_time": 1772198303,
       "rank": 21,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 175718,
+      "num": 175718,
+      "word": "小米超跑",
+      "onboard_time": 1772244743,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 168093,
@@ -169,6 +313,30 @@
       "onboard_time": 1772205023,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164490,
+      "num": 164490,
+      "word": "被公开喊话退彩礼女方称彩礼已花",
+      "onboard_time": 1772243602,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148229,
+      "num": 148229,
+      "word": "年轻人脑梗的危险信号",
+      "onboard_time": 1772244503,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145126,
+      "num": 145126,
+      "word": "十个勤天 开工",
+      "onboard_time": 1772244442,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 138988,
@@ -195,12 +363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127445,
+      "num": 127445,
+      "word": "行程图",
+      "onboard_time": 1772245281,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126272,
       "num": 126272,
       "word": "美国双航母已就位",
       "onboard_time": 1772199323,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121925,
+      "num": 121925,
+      "word": "管综",
+      "onboard_time": 1772244922,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 121485,
@@ -219,12 +403,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 115815,
-      "num": 84965,
-      "word": "库迪向王一博致歉",
-      "onboard_time": 1772234236,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 116920,
+      "num": 116920,
+      "word": "种地吧",
+      "onboard_time": 1772193141,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 110033,
@@ -235,6 +419,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108386,
+      "num": 108386,
+      "word": "姐姐姐夫加起来的戏份还没广告长",
+      "onboard_time": 1772236159,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107981,
+      "num": 107981,
+      "word": "王一博律师已取证",
+      "onboard_time": 1772241502,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105694,
       "num": 105694,
       "word": "肖战亮相Gucci秀场",
@@ -243,12 +443,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 104292,
+      "num": 104292,
+      "word": "硅谷最贵华人被OpenAI挖走",
+      "onboard_time": 1772244982,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 104219,
       "num": 78123,
       "word": "迪丽热巴成立个人工作室",
       "onboard_time": 1772235319,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103609,
+      "num": 103609,
+      "word": "商务座乘客年后退回穿脏女装忘掏兜",
+      "onboard_time": 1772243063,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102192,
+      "num": 102192,
+      "word": "GUESS将关闭中国市场所有门店",
+      "onboard_time": 1772245103,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 100128,
@@ -267,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98435,
+      "num": 98435,
+      "word": "全红婵直播澄清自己没有不学习",
+      "onboard_time": 1772236278,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95170,
       "num": 87064,
       "word": "王一博与库迪咖啡合约已到期",
@@ -275,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91301,
-      "num": 91301,
-      "word": "种地吧",
-      "onboard_time": 1772193141,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 94442,
+      "num": 94442,
+      "word": "黄金白银又涨爆了",
+      "onboard_time": 1772236278,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 90562,
@@ -291,12 +523,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89823,
+      "num": 89823,
+      "word": "血脂超标的5个常见信号",
+      "onboard_time": 1772236339,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88596,
+      "num": 88596,
+      "word": "李在明低价卖房",
+      "onboard_time": 1772237180,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86982,
       "num": 86982,
       "word": "姐姐姐夫戏份",
       "onboard_time": 1772205863,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86952,
+      "num": 86952,
+      "word": "考研上岸",
+      "onboard_time": 1772237660,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 86094,
+      "num": 295661,
+      "word": "人民日报评烤羊缩水事件",
+      "onboard_time": 1772244503,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83462,
@@ -315,12 +579,36 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 80671,
+      "num": 80671,
+      "word": "美国NED意外承认向伊朗部署星链",
+      "onboard_time": 1772242702,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 80638,
+      "num": 80638,
+      "word": "法硕国家线能不能降",
+      "onboard_time": 1772245462,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 75512,
       "num": 75512,
       "word": "宁艺卓美趋第一",
       "onboard_time": 1772195182,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75450,
+      "num": 219677,
+      "word": "男子不满判决持锤子尾随下班法官",
+      "onboard_time": 1772244503,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73566,
@@ -619,6 +907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 27854,
+      "num": 722436,
+      "word": "关注2026全国两会",
+      "onboard_time": 1772199022,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25909,
       "num": 43422,
       "word": "Gucci大秀",
@@ -649,14 +945,6 @@
       "onboard_time": 1772217377,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23604,
-      "num": 523580,
-      "word": "关注2026全国两会",
-      "onboard_time": 1772199022,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23547,
