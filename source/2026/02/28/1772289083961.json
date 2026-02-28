@@ -1,0 +1,410 @@
+{
+  "runTime": 1772289083961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5454099,
+        "num": 5454099,
+        "word": "以色列宣布袭击伊朗",
+        "onboard_time": 1772260103,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422973,
+        "num": 1382964,
+        "word": "小米发布会",
+        "onboard_time": 1772284883,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 75860,
+        "num": 1083544,
+        "word": "3月起一批国家标准开始实施",
+        "onboard_time": 1772286324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1285232,
+        "num": 1072362,
+        "word": "伊朗袭击已致约200名美军伤亡",
+        "onboard_time": 1772284344,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301201,
+        "num": 301201,
+        "word": "镖人票房超越惊蛰无声",
+        "onboard_time": 1772286925,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 844565,
+        "num": 300546,
+        "word": "据称伊朗革命卫队总司令和防长身亡",
+        "onboard_time": 1772287704,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298655,
+        "num": 298655,
+        "word": "美颜突然关掉吓得人一哆嗦",
+        "onboard_time": 1772276184,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273368,
+        "num": 273368,
+        "word": "五粮液董事长曾从钦被查",
+        "onboard_time": 1772284944,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233996,
+        "num": 233996,
+        "word": "杨紫董竹君造型直播",
+        "onboard_time": 1772282723,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233267,
+        "num": 233267,
+        "word": "山姆520元巧克力降到99元",
+        "onboard_time": 1772270905,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729294,
+        "num": 232370,
+        "word": "肖战 顺产头",
+        "onboard_time": 1772281345,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580603,
+        "num": 229847,
+        "word": "金价",
+        "onboard_time": 1772262625,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 571950,
+        "num": 228147,
+        "word": "伊朗一小学遭袭51人死60人伤",
+        "onboard_time": 1772278044,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 556695,
+        "num": 225547,
+        "word": "比尔盖茨出轨对象照片曝光",
+        "onboard_time": 1772286805,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 532356,
+        "num": 222585,
+        "word": "伊称将使用尖端神秘武器",
+        "onboard_time": 1772286443,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 442795,
+        "num": 221264,
+        "word": "伊朗正在打击美国军事基地",
+        "onboard_time": 1772272764,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 431874,
+        "num": 219720,
+        "word": "椰树广告 擦边",
+        "onboard_time": 1772275884,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395358,
+        "num": 217501,
+        "word": "伊朗与6国外长通话",
+        "onboard_time": 1772284524,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216110,
+        "num": 216110,
+        "word": "五粮液",
+        "onboard_time": 1772286744,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189162,
+        "num": 215831,
+        "word": "老铺黄金46.9万元金如意售空",
+        "onboard_time": 1772282663,
+        "rank": 19,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 393167,
+        "num": 215487,
+        "word": "郝熠然好会魅",
+        "onboard_time": 1772285064,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393055,
+        "num": 215058,
+        "word": "伊朗宣布战果",
+        "onboard_time": 1772288423,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 306389,
+        "num": 214812,
+        "word": "男朋友送的草莓蛋糕第一次见",
+        "onboard_time": 1772281162,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276122,
+        "num": 214450,
+        "word": "俄罗斯对美以袭击伊朗表态",
+        "onboard_time": 1772285664,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217395,
+        "num": 214078,
+        "word": "陈飞宇孙千换了情头",
+        "onboard_time": 1772282723,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242190,
+        "num": 213762,
+        "word": "伊朗称大量美以导弹坠落境外",
+        "onboard_time": 1772287465,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213479,
+        "num": 213479,
+        "word": "时光与你都很甜2",
+        "onboard_time": 1772287524,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230423,
+        "num": 208421,
+        "word": "伊朗启动大规模军事行动",
+        "onboard_time": 1772276783,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199675,
+        "num": 199675,
+        "word": "华人称伊朗断网全靠中国网络联系",
+        "onboard_time": 1772288605,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150593,
+        "num": 184664,
+        "word": "外交部回应美以打击伊朗",
+        "onboard_time": 1772288245,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225417,
+        "num": 181197,
+        "word": "伊朗致电警告6国别参与",
+        "onboard_time": 1772287645,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203694,
+        "num": 179198,
+        "word": "伊朗军方称总司令身体健康",
+        "onboard_time": 1772275822,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172268,
+        "num": 172268,
+        "word": "伊朗反击画面曝光",
+        "onboard_time": 1772287764,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162509,
+        "num": 162509,
+        "word": "伊朗摧毁美军雷达",
+        "onboard_time": 1772282362,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130609,
+        "num": 157354,
+        "word": "陈垣宇3比4莫雷加德",
+        "onboard_time": 1772288905,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154194,
+        "num": 154194,
+        "word": "突然对1g黄金没概念了",
+        "onboard_time": 1772271863,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154029,
+        "num": 154029,
+        "word": "TOP专辑秒切",
+        "onboard_time": 1772281225,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145291,
+        "num": 145291,
+        "word": "胡塞武装将恢复袭击以色列",
+        "onboard_time": 1772282723,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122834,
+        "num": 144875,
+        "word": "WTT",
+        "onboard_time": 1772288245,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67122,
+        "num": 144749,
+        "word": "伊朗首都加油站排起长龙",
+        "onboard_time": 1772288184,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144747,
+        "num": 144747,
+        "word": "这居然是侯明昊的素颜",
+        "onboard_time": 1772288245,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110018,
+        "num": 144316,
+        "word": "Uzi杯要来了",
+        "onboard_time": 1772289025,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144271,
+        "num": 144271,
+        "word": "阿联酋迪拜响起爆炸声",
+        "onboard_time": 1772282904,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133049,
+        "num": 133049,
+        "word": "Prada全平台认领杨幂",
+        "onboard_time": 1772280383,
+        "rank": 43,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 118232,
+        "num": 131642,
+        "word": "黄金连续上涨7个月了",
+        "onboard_time": 1772285064,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131408,
+        "num": 131408,
+        "word": "以色列防空掩体内有婴儿在哭",
+        "onboard_time": 1772287284,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131069,
+        "num": 131069,
+        "word": "腰不好的人多去练练臀",
+        "onboard_time": 1772288605,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 113783,
+        "num": 113783,
+        "word": "胡塞武装导弹射向以色列",
+        "onboard_time": 1772286624,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112689,
+        "num": 112689,
+        "word": "孙颖莎这一球请全体起立",
+        "onboard_time": 1772285605,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112221,
+        "num": 112221,
+        "word": "我家那小子",
+        "onboard_time": 1772271204,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记牵挂的关键小事#"
+    }
+  }
+}

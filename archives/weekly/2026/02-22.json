@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772286888894,
+  "endTime": 1772289083961,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 1471815,
-      "num": 1043080,
+      "num": 1072362,
       "word": "伊朗袭击已致约200名美军伤亡",
       "onboard_time": 1772284344,
       "rank": 32,
@@ -785,6 +785,14 @@
       "onboard_time": 1771773923,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 844565,
+      "num": 300546,
+      "word": "据称伊朗革命卫队总司令和防长身亡",
+      "onboard_time": 1772287704,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 844337,
@@ -1811,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 556695,
+      "num": 225547,
+      "word": "比尔盖茨出轨对象照片曝光",
+      "onboard_time": 1772286805,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 555121,
       "num": 127829,
       "word": "服务区被撞身亡男童1个月前刚过生日",
@@ -2017,6 +2033,14 @@
       "onboard_time": 1772179461,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532356,
+      "num": 222585,
+      "word": "伊称将使用尖端神秘武器",
+      "onboard_time": 1772286443,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 532023,
@@ -2851,6 +2875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422973,
+      "num": 1382964,
+      "word": "小米发布会",
+      "onboard_time": 1772284883,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 422544,
       "num": 422544,
       "word": "这些证书可抵个税",
@@ -3193,6 +3225,14 @@
       "onboard_time": 1772030542,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393055,
+      "num": 215058,
+      "word": "伊朗宣布战果",
+      "onboard_time": 1772288423,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 393045,
@@ -4195,14 +4235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314541,
-      "num": 1329298,
-      "word": "小米发布会",
-      "onboard_time": 1772284883,
-      "rank": 13,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 313234,
       "num": 313234,
       "word": "中国最大高速收费站迎返程高峰",
@@ -4425,6 +4457,14 @@
       "onboard_time": 1771825279,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301201,
+      "num": 301201,
+      "word": "镖人票房超越惊蛰无声",
+      "onboard_time": 1772286925,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 301031,
@@ -4875,6 +4915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 276122,
+      "num": 222597,
+      "word": "俄罗斯对美以袭击伊朗表态",
+      "onboard_time": 1772285664,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 276116,
       "num": 276116,
       "word": "爱奇艺利润暴跌七成",
@@ -4921,6 +4969,14 @@
       "onboard_time": 1772187081,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273368,
+      "num": 273368,
+      "word": "五粮液董事长曾从钦被查",
+      "onboard_time": 1772284944,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273085,
@@ -5763,6 +5819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242190,
+      "num": 213762,
+      "word": "伊朗称大量美以导弹坠落境外",
+      "onboard_time": 1772287465,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 242071,
       "num": 242071,
       "word": "Cat退役发长文",
@@ -6219,20 +6283,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 226082,
-      "num": 210554,
-      "word": "伊称将使用尖端神秘武器",
-      "onboard_time": 1772286443,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 226065,
       "num": 226065,
       "word": "徐梦桃王心迪回应被催生",
       "onboard_time": 1771810579,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225417,
+      "num": 181197,
+      "word": "伊朗致电警告6国别参与",
+      "onboard_time": 1772287645,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 225211,
@@ -6312,14 +6376,6 @@
       "word": "女子返程堵车偶遇10年未见初恋",
       "onboard_time": 1771977740,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222921,
-      "num": 222921,
-      "word": "五粮液董事长曾从钦被查",
-      "onboard_time": 1772284944,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6523,6 +6579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216110,
+      "num": 216110,
+      "word": "五粮液",
+      "onboard_time": 1772286744,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215795,
       "num": 215795,
       "word": "逐玉定档",
@@ -6569,6 +6633,14 @@
       "onboard_time": 1771731502,
       "rank": 8,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 213479,
+      "num": 213479,
+      "word": "时光与你都很甜2",
+      "onboard_time": 1772287524,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 213422,
@@ -6961,6 +7033,14 @@
       "onboard_time": 1772195663,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199675,
+      "num": 199675,
+      "word": "华人称伊朗断网全靠中国网络联系",
+      "onboard_time": 1772288605,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199341,
@@ -8011,6 +8091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172268,
+      "num": 172268,
+      "word": "伊朗反击画面曝光",
+      "onboard_time": 1772287764,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172167,
       "num": 181588,
       "word": "台湾河道弃尸案",
@@ -8859,6 +8947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150593,
+      "num": 184664,
+      "word": "外交部回应美以打击伊朗",
+      "onboard_time": 1772288245,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 150447,
       "num": 150447,
       "word": "这桌子下一届学生不得疯抢",
@@ -9120,6 +9216,14 @@
       "word": "苏新皓给妈妈换了一部新手机",
       "onboard_time": 1771805538,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144747,
+      "num": 144747,
+      "word": "这居然是侯明昊的素颜",
+      "onboard_time": 1772288245,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -10091,6 +10195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131408,
+      "num": 131408,
+      "word": "以色列防空掩体内有婴儿在哭",
+      "onboard_time": 1772287284,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131205,
       "num": 131205,
       "word": "原来正月初七是人的生日",
@@ -10105,6 +10217,14 @@
       "onboard_time": 1772263166,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131069,
+      "num": 131069,
+      "word": "腰不好的人多去练练臀",
+      "onboard_time": 1772288605,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 131044,
@@ -10147,6 +10267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130609,
+      "num": 157354,
+      "word": "陈垣宇3比4莫雷加德",
+      "onboard_time": 1772288905,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130588,
       "num": 111279,
       "word": "偶遇马嘉祺考驾照",
@@ -10176,14 +10304,6 @@
       "word": "韩国游客爱上中国超市",
       "onboard_time": 1771839442,
       "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 130366,
-      "num": 130366,
-      "word": "比尔盖茨出轨对象照片曝光",
-      "onboard_time": 1772286805,
-      "rank": 38,
       "category": "海外新闻"
     },
     {
@@ -10425,14 +10545,6 @@
       "onboard_time": 1772025082,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128155,
-      "num": 128155,
-      "word": "五粮液",
-      "onboard_time": 1772286744,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128075,
@@ -10760,6 +10872,14 @@
       "word": "杨瀚森11分12篮板",
       "onboard_time": 1771822460,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122834,
+      "num": 144875,
+      "word": "WTT",
+      "onboard_time": 1772288245,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -11547,6 +11667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113783,
+      "num": 209692,
+      "word": "胡塞武装导弹射向以色列",
+      "onboard_time": 1772286624,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113730,
       "num": 113730,
       "word": "去掉身上的弱者气息",
@@ -11913,6 +12041,14 @@
       "onboard_time": 1772208742,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110018,
+      "num": 144316,
+      "word": "Uzi杯要来了",
+      "onboard_time": 1772289025,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 109863,
@@ -13569,14 +13705,6 @@
       "onboard_time": 1771735278,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96842,
-      "num": 222597,
-      "word": "俄罗斯对美以袭击伊朗表态",
-      "onboard_time": 1772285664,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 96826,
@@ -16131,6 +16259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75860,
+      "num": 1083544,
+      "word": "3月起一批国家标准开始实施",
+      "onboard_time": 1772286324,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75727,
       "num": 75727,
       "word": "萨摩耶从白面馒头逐渐化为狗形",
@@ -16865,6 +17001,14 @@
       "onboard_time": 1771902621,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67122,
+      "num": 144749,
+      "word": "伊朗首都加油站排起长龙",
+      "onboard_time": 1772288184,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67081,
@@ -18731,14 +18875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37822,
-      "num": 209692,
-      "word": "胡塞武装导弹射向以色列",
-      "onboard_time": 1772286624,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37551,
       "num": 136207,
       "word": "女子春节返程遇高铁超载被迫下车",
@@ -19073,14 +19209,6 @@
       "onboard_time": 1771908381,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30833,
-      "num": 1079093,
-      "word": "3月起一批国家标准开始实施",
-      "onboard_time": 1772286324,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30749,
