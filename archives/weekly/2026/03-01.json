@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772297425152,
+  "endTime": 1772299744044,
   "band_list": [
     {
       "raw_hot": 993678,
@@ -32,6 +32,14 @@
       "word": "中东这场仗越打越大了",
       "onboard_time": 1772290344,
       "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 482600,
+      "num": 276726,
+      "word": "伊朗发射法塔赫高超音速导弹",
+      "onboard_time": 1772296101,
+      "rank": 27,
       "category": "国际时政"
     },
     {
@@ -83,14 +91,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 304992,
-      "num": 269938,
-      "word": "伊朗发射法塔赫高超音速导弹",
-      "onboard_time": 1772296101,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 301460,
       "num": 261889,
       "word": "伊朗退了一步炮火进了一步",
@@ -123,7 +123,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 239461,
+      "raw_hot": 269893,
       "num": 228221,
       "word": "美方披露战斗受损情况",
       "onboard_time": 1772294722,
@@ -136,6 +136,14 @@
       "word": "伊朗拥有中东最大弹道导弹库存",
       "onboard_time": 1772296401,
       "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 204013,
+      "num": 168453,
+      "word": "伊朗禁止船只通行霍尔木兹海峡",
+      "onboard_time": 1772298140,
+      "rank": 20,
       "category": "国际时政"
     },
     {
@@ -401,6 +409,14 @@
       "onboard_time": 1772293583,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33728,
+      "num": 84260,
+      "word": "老铺黄金46.9万元金如意售空",
+      "onboard_time": 1772282663,
+      "rank": 39,
+      "category": "民生新闻,财经"
     }
   ],
   "hotgov_list": [
