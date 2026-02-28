@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772271318605,
+  "endTime": 1772272103338,
   "band_list": [
     {
       "raw_hot": 8807134,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 594083,
-      "num": 300377,
+      "num": 328522,
       "word": "特朗普",
       "onboard_time": 1772267605,
       "rank": 33,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 404246,
+      "num": 320674,
+      "word": "突然对1g黄金没概念了",
+      "onboard_time": 1772271863,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 399842,
       "num": 399842,
       "word": "撞人族是日本特有",
@@ -465,6 +473,14 @@
       "onboard_time": 1772241802,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 378225,
+      "num": 378225,
+      "word": "山姆520元巧克力降到99元",
+      "onboard_time": 1772270905,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365856,
@@ -571,6 +587,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315875,
+      "num": 315875,
+      "word": "阿联酋传出爆炸声",
+      "onboard_time": 1772270485,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 314521,
+      "num": 314521,
+      "word": "伊朗又一轮导弹射向以色列",
+      "onboard_time": 1772270965,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 311648,
       "num": 265285,
       "word": "关晓彤漂亮得像洋娃娃一样",
@@ -611,6 +643,30 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 301031,
+      "num": 344746,
+      "word": "王皓赛后生气了",
+      "onboard_time": 1772268564,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300575,
+      "num": 174529,
+      "word": "赛琳娜力挺老公",
+      "onboard_time": 1772272045,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 298008,
+      "num": 298008,
+      "word": "我家那小子",
+      "onboard_time": 1772271204,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297392,
       "num": 297392,
       "word": "湖南县委书记个人账号变问政现场",
@@ -619,12 +675,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 293311,
-      "num": 293311,
-      "word": "王皓赛后生气了",
-      "onboard_time": 1772268564,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 291672,
+      "num": 291672,
+      "word": "一点点 植脂末",
+      "onboard_time": 1772270604,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287632,
@@ -675,6 +731,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254693,
+      "num": 254693,
+      "word": "伊朗报复行动没有任何红线",
+      "onboard_time": 1772271086,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 251842,
+      "num": 251842,
+      "word": "第五人格",
+      "onboard_time": 1772271745,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251436,
       "num": 251436,
       "word": "金贤重回应殴打前女友",
@@ -723,6 +795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 235779,
+      "num": 235779,
+      "word": "TOP和谷爱凌合照",
+      "onboard_time": 1772270664,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 233473,
       "num": 215778,
       "word": "金饰价涨到1625元",
@@ -748,19 +828,11 @@
     },
     {
       "raw_hot": 223813,
-      "num": 223813,
+      "num": 261654,
       "word": "王楚钦好好好我不挑战了",
       "onboard_time": 1772269164,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222864,
-      "num": 222864,
-      "word": "阿联酋传出爆炸声",
-      "onboard_time": 1772270485,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 222686,
@@ -777,14 +849,6 @@
       "onboard_time": 1772240243,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220806,
-      "num": 220806,
-      "word": "山姆520元巧克力降到99元",
-      "onboard_time": 1772270905,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219445,
@@ -817,22 +881,6 @@
       "onboard_time": 1772210659,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216456,
-      "num": 176096,
-      "word": "伊朗又一轮导弹射向以色列",
-      "onboard_time": 1772270965,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 216125,
-      "num": 190253,
-      "word": "TOP和谷爱凌合照",
-      "onboard_time": 1772270664,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 215311,
@@ -873,6 +921,14 @@
       "onboard_time": 1772250383,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203050,
+      "num": 203050,
+      "word": "嘉行否认迪丽热巴签约天伊娱乐",
+      "onboard_time": 1772271443,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 200177,
@@ -1043,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175885,
+      "num": 175885,
+      "word": "伊朗第三轮导弹袭击",
+      "onboard_time": 1772271565,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 175479,
       "num": 194900,
       "word": "人民币涨得太快央行踩刹车",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1772244442,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168347,
+      "num": 168347,
+      "word": "薛之谦抢票",
+      "onboard_time": 1772271745,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 168093,
@@ -1123,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161876,
-      "num": 161876,
-      "word": "我家那小子",
-      "onboard_time": 1772271204,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160156,
       "num": 182651,
       "word": "伊朗手机断网",
@@ -1147,12 +1211,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 158300,
-      "num": 158300,
-      "word": "伊朗报复行动没有任何红线",
-      "onboard_time": 1772271086,
-      "rank": 41,
+      "raw_hot": 158140,
+      "num": 158140,
+      "word": "巴林美军基地所在地巨大爆炸声",
+      "onboard_time": 1772271683,
+      "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156496,
+      "num": 156496,
+      "word": "伊朗还能参加美加墨世界杯吗",
+      "onboard_time": 1772271863,
+      "rank": 43,
+      "category": "体育,国际时政"
     },
     {
       "raw_hot": 152800,
@@ -1193,14 +1265,6 @@
       "onboard_time": 1772244503,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 147650,
-      "num": 147650,
-      "word": "一点点 植脂末",
-      "onboard_time": 1772270604,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144124,
@@ -1257,6 +1321,14 @@
       "onboard_time": 1772252301,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140394,
+      "num": 140394,
+      "word": "内塔尼亚胡喊话伊朗",
+      "onboard_time": 1772272045,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139367,
@@ -2355,12 +2427,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23338,
+      "num": 161026,
+      "word": "黄晓明减重30后又增重40斤",
+      "onboard_time": 1772270725,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21151,
       "num": 192444,
       "word": "一组数据看我国知识产权发展成就",
       "onboard_time": 1772267484,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18670,
+      "num": 158351,
+      "word": "5胞胎妈妈说原打算生一男一女",
+      "onboard_time": 1772271745,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18654,
@@ -2417,6 +2505,14 @@
       "onboard_time": 1772216595,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14952,
+      "num": 159191,
+      "word": "黄景瑜关晓彤剧宣夯爆了",
+      "onboard_time": 1772271924,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 8472,
