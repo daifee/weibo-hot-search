@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772245638478,
+  "endTime": 1772246710869,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -779,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1963546,
+      "num": 1963546,
+      "word": "国家线 砍一刀",
+      "onboard_time": 1772239462,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1944339,
       "num": 1944339,
       "word": "王楚然红包",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1770545361,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1544702,
-      "num": 1544702,
-      "word": "国家线 砍一刀",
-      "onboard_time": 1772239462,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1543637,
@@ -2585,6 +2585,14 @@
       "onboard_time": 1770792860,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 983169,
+      "num": 983169,
+      "word": "等国家线",
+      "onboard_time": 1772245162,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 983065,
@@ -7163,6 +7171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 553740,
+      "num": 553740,
+      "word": "近视散光人群开夜车的视角",
+      "onboard_time": 1772241625,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 553155,
       "num": 210419,
       "word": "女星放弃抢救老公遭儿子责怪",
@@ -8435,14 +8451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 499937,
-      "num": 439869,
-      "word": "近视散光人群开夜车的视角",
-      "onboard_time": 1772241625,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 499902,
       "num": 323534,
       "word": "泡泡玛特创始人送小酒窝盲盒",
@@ -8761,6 +8769,14 @@
       "onboard_time": 1771482020,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 485504,
+      "num": 485504,
+      "word": "小米超跑",
+      "onboard_time": 1772244743,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 485299,
@@ -9379,6 +9395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 460997,
+      "num": 282045,
+      "word": "Angelababy37岁了",
+      "onboard_time": 1772236221,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460746,
       "num": 211912,
       "word": "河南一摊贩当街摔死多只兔子",
@@ -9689,14 +9713,6 @@
       "onboard_time": 1770182480,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 451507,
-      "num": 451507,
-      "word": "等国家线",
-      "onboard_time": 1772245162,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 451502,
@@ -10723,14 +10739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 419291,
-      "num": 282045,
-      "word": "Angelababy37岁了",
-      "onboard_time": 1772236221,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 419193,
       "num": 419193,
       "word": "男子误喝过期牛奶暴瘦53斤",
@@ -10785,6 +10793,14 @@
       "onboard_time": 1771211601,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417435,
+      "num": 417435,
+      "word": "伊朗同意不拥有可制造核弹的核材料",
+      "onboard_time": 1772237240,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 417391,
@@ -11353,14 +11369,6 @@
       "onboard_time": 1771023616,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 401830,
-      "num": 401830,
-      "word": "伊朗同意不拥有可制造核弹的核材料",
-      "onboard_time": 1772237240,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 401771,
@@ -12113,6 +12121,14 @@
       "onboard_time": 1771819220,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 381849,
+      "num": 277902,
+      "word": "人不能从事长期有紧张感的工作",
+      "onboard_time": 1772241802,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 381734,
@@ -14003,6 +14019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345779,
+      "num": 257534,
+      "word": "迪丽热巴个人工作室",
+      "onboard_time": 1772244082,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345583,
       "num": 711154,
       "word": "镖人连续4天票房逆跌",
@@ -14889,14 +14913,6 @@
       "onboard_time": 1770184881,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 327799,
-      "num": 277902,
-      "word": "人不能从事长期有紧张感的工作",
-      "onboard_time": 1772241802,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 327620,
@@ -19347,6 +19363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263322,
+      "num": 263322,
+      "word": "法硕",
+      "onboard_time": 1772241743,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 263220,
       "num": 377193,
       "word": "女子摆拍自家孩子险些被拐",
@@ -19816,6 +19840,14 @@
       "word": "肖战更换律师团队",
       "onboard_time": 1770008902,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 257492,
+      "num": 257492,
+      "word": "库迪向王一博致歉",
+      "onboard_time": 1772234236,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -21075,14 +21107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 243776,
-      "num": 243776,
-      "word": "法硕",
-      "onboard_time": 1772241743,
-      "rank": 15,
-      "category": "教育"
-    },
-    {
       "raw_hot": 243755,
       "num": 553627,
       "word": "律师解读15岁女孩被当街暴打事件",
@@ -22329,14 +22353,6 @@
       "onboard_time": 1771126159,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 230533,
-      "num": 230533,
-      "word": "库迪向王一博致歉",
-      "onboard_time": 1772234236,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 230518,
@@ -23796,7 +23812,7 @@
     },
     {
       "raw_hot": 217136,
-      "num": 120159,
+      "num": 127535,
       "word": "上一个离开嘉行的是祝绪丹",
       "onboard_time": 1772210659,
       "rank": 27,
@@ -23889,14 +23905,6 @@
       "onboard_time": 1770560963,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216349,
-      "num": 216349,
-      "word": "迪丽热巴个人工作室",
-      "onboard_time": 1772244082,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 216208,
@@ -26755,6 +26763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188573,
+      "num": 188573,
+      "word": "管综",
+      "onboard_time": 1772244922,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188463,
       "num": 188463,
       "word": "谷爱凌拿出了自己的最佳表现",
@@ -26777,6 +26793,14 @@
       "onboard_time": 1771404380,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188287,
+      "num": 188287,
+      "word": "女孩二战考研查分341分喜极而泣",
+      "onboard_time": 1772245701,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 188114,
@@ -27489,6 +27513,14 @@
       "onboard_time": 1772151741,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182162,
+      "num": 174435,
+      "word": "行程图",
+      "onboard_time": 1772245281,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 182135,
@@ -28235,14 +28267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175718,
-      "num": 175718,
-      "word": "小米超跑",
-      "onboard_time": 1772244743,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 175665,
       "num": 175665,
       "word": "河南拆迁时发现乾隆年间雕花木梁",
@@ -28617,6 +28641,14 @@
       "onboard_time": 1770635059,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173331,
+      "num": 173331,
+      "word": "十个勤天 开工",
+      "onboard_time": 1772244442,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 173222,
@@ -29425,6 +29457,14 @@
       "onboard_time": 1771599201,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166903,
+      "num": 166903,
+      "word": "网友建议每年免费5000公里专家回应",
+      "onboard_time": 1772245763,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166819,
@@ -32753,14 +32793,6 @@
       "onboard_time": 1771417104,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145126,
-      "num": 145126,
-      "word": "十个勤天 开工",
-      "onboard_time": 1772244442,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 145082,
@@ -36891,14 +36923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127445,
-      "num": 127445,
-      "word": "行程图",
-      "onboard_time": 1772245281,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127391,
       "num": 126683,
       "word": "在下悟空是也首登春晚",
@@ -38345,14 +38369,6 @@
       "onboard_time": 1771943361,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121925,
-      "num": 121925,
-      "word": "管综",
-      "onboard_time": 1772244922,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 121916,
@@ -41712,6 +41728,14 @@
       "word": "有人提前2天上高速省1400元高速费",
       "onboard_time": 1771169422,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111688,
+      "num": 111688,
+      "word": "商务座乘客年后退回穿脏女装忘掏兜",
+      "onboard_time": 1772243063,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -45107,14 +45131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103609,
-      "num": 103609,
-      "word": "商务座乘客年后退回穿脏女装忘掏兜",
-      "onboard_time": 1772243063,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103600,
       "num": 103600,
       "word": "李昀锐尚公主杀青照",
@@ -46609,6 +46625,14 @@
       "onboard_time": 1771033701,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100298,
+      "num": 100298,
+      "word": "黄金白银又涨爆了",
+      "onboard_time": 1772236278,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 100236,
@@ -49289,14 +49313,6 @@
       "onboard_time": 1770388462,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 94442,
-      "num": 94442,
-      "word": "黄金白银又涨爆了",
-      "onboard_time": 1772236278,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 94428,
@@ -53555,6 +53571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86501,
+      "num": 86501,
+      "word": "法硕国家线能不能降",
+      "onboard_time": 1772245462,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 86497,
       "num": 86497,
       "word": "魅族手机为什么没落了",
@@ -54769,6 +54793,14 @@
       "onboard_time": 1770892999,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84127,
+      "num": 219677,
+      "word": "男子不满判决持锤子尾随下班法官",
+      "onboard_time": 1772244503,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84122,
@@ -56593,14 +56625,6 @@
       "onboard_time": 1770773420,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80638,
-      "num": 80638,
-      "word": "法硕国家线能不能降",
-      "onboard_time": 1772245462,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 80612,
@@ -58979,6 +59003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76078,
+      "num": 76078,
+      "word": "左航发了厚米",
+      "onboard_time": 1772246542,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76074,
       "num": 76074,
       "word": "陈飞宇你这么演李峋知道吗",
@@ -59232,14 +59264,6 @@
       "word": "园方回应幼儿园现烧脑春联",
       "onboard_time": 1771492821,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75450,
-      "num": 219677,
-      "word": "男子不满判决持锤子尾随下班法官",
-      "onboard_time": 1772244503,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -60585,6 +60609,14 @@
       "onboard_time": 1770535939,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72560,
+      "num": 70248,
+      "word": "朱志鑫发秀场图",
+      "onboard_time": 1772246603,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 72546,
@@ -66564,7 +66596,7 @@
     },
     {
       "raw_hot": 55107,
-      "num": 722436,
+      "num": 816676,
       "word": "关注2026全国两会",
       "onboard_time": 1772199022,
       "rank": 2,
@@ -72137,6 +72169,14 @@
       "onboard_time": 1771081823,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33736,
+      "num": 190813,
+      "word": "国乒新加坡大满贯28日赛程",
+      "onboard_time": 1772245763,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 33681,

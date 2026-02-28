@@ -1,10 +1,10 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772245638478,
+  "endTime": 1772246710869,
   "band_list": [
     {
-      "raw_hot": 1544702,
-      "num": 1544702,
+      "raw_hot": 1963546,
+      "num": 1963546,
       "word": "国家线 砍一刀",
       "onboard_time": 1772239462,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1772236221,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 983169,
+      "num": 983169,
+      "word": "等国家线",
+      "onboard_time": 1772245162,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 882721,
@@ -51,36 +59,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 511376,
-      "num": 165727,
-      "word": "杨幂谷爱凌合照 好娇啊小幂",
-      "onboard_time": 1772206283,
-      "rank": 12,
-      "category": "作品衍生,体育"
-    },
-    {
-      "raw_hot": 499937,
-      "num": 439869,
+      "raw_hot": 553740,
+      "num": 553740,
       "word": "近视散光人群开夜车的视角",
       "onboard_time": 1772241625,
       "rank": 5,
       "category": "幽默"
     },
     {
-      "raw_hot": 451507,
-      "num": 451507,
-      "word": "等国家线",
-      "onboard_time": 1772245162,
-      "rank": 4,
-      "category": "教育"
+      "raw_hot": 511376,
+      "num": 182391,
+      "word": "杨幂谷爱凌合照 好娇啊小幂",
+      "onboard_time": 1772206283,
+      "rank": 12,
+      "category": "作品衍生,体育"
     },
     {
-      "raw_hot": 419291,
+      "raw_hot": 485504,
+      "num": 485504,
+      "word": "小米超跑",
+      "onboard_time": 1772244743,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 460997,
       "num": 282045,
       "word": "Angelababy37岁了",
       "onboard_time": 1772236221,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417435,
+      "num": 417435,
+      "word": "伊朗同意不拥有可制造核弹的核材料",
+      "onboard_time": 1772237240,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 407443,
@@ -89,14 +105,6 @@
       "onboard_time": 1772205503,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 401830,
-      "num": 401830,
-      "word": "伊朗同意不拥有可制造核弹的核材料",
-      "onboard_time": 1772237240,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 388411,
@@ -115,12 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381849,
+      "num": 277902,
+      "word": "人不能从事长期有紧张感的工作",
+      "onboard_time": 1772241802,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 346359,
       "num": 501461,
       "word": "提醒在伊朗的中国公民尽快撤离",
       "onboard_time": 1772190742,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 345779,
+      "num": 257534,
+      "word": "迪丽热巴个人工作室",
+      "onboard_time": 1772244082,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 341098,
@@ -137,14 +161,6 @@
       "onboard_time": 1772196983,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 327799,
-      "num": 277902,
-      "word": "人不能从事长期有紧张感的工作",
-      "onboard_time": 1772241802,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 320115,
@@ -195,20 +211,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 263322,
+      "num": 263322,
+      "word": "法硕",
+      "onboard_time": 1772241743,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 257492,
+      "num": 257492,
+      "word": "库迪向王一博致歉",
+      "onboard_time": 1772234236,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244839,
       "num": 94533,
       "word": "白宇刘萌萌2014年因戏结缘",
       "onboard_time": 1772213357,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243776,
-      "num": 243776,
-      "word": "法硕",
-      "onboard_time": 1772241743,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 241908,
@@ -225,14 +249,6 @@
       "onboard_time": 1772207781,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 230533,
-      "num": 230533,
-      "word": "库迪向王一博致歉",
-      "onboard_time": 1772234236,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 222350,
@@ -252,18 +268,10 @@
     },
     {
       "raw_hot": 217136,
-      "num": 120159,
+      "num": 127535,
       "word": "上一个离开嘉行的是祝绪丹",
       "onboard_time": 1772210659,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 216349,
-      "num": 216349,
-      "word": "迪丽热巴个人工作室",
-      "onboard_time": 1772244082,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -291,12 +299,36 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 175718,
-      "num": 175718,
-      "word": "小米超跑",
-      "onboard_time": 1772244743,
-      "rank": 25,
-      "category": "汽车"
+      "raw_hot": 188573,
+      "num": 188573,
+      "word": "管综",
+      "onboard_time": 1772244922,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 188287,
+      "num": 188287,
+      "word": "女孩二战考研查分341分喜极而泣",
+      "onboard_time": 1772245701,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 182162,
+      "num": 174435,
+      "word": "行程图",
+      "onboard_time": 1772245281,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 173331,
+      "num": 173331,
+      "word": "十个勤天 开工",
+      "onboard_time": 1772244442,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 168093,
@@ -305,6 +337,14 @@
       "onboard_time": 1772205743,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166903,
+      "num": 166903,
+      "word": "网友建议每年免费5000公里专家回应",
+      "onboard_time": 1772245763,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165817,
@@ -331,14 +371,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145126,
-      "num": 145126,
-      "word": "十个勤天 开工",
-      "onboard_time": 1772244442,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138988,
       "num": 111001,
       "word": "柳智敏 我喜欢漂亮女人",
@@ -363,28 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127445,
-      "num": 127445,
-      "word": "行程图",
-      "onboard_time": 1772245281,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126272,
       "num": 126272,
       "word": "美国双航母已就位",
       "onboard_time": 1772199323,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 121925,
-      "num": 121925,
-      "word": "管综",
-      "onboard_time": 1772244922,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 121485,
@@ -409,6 +425,14 @@
       "onboard_time": 1772193141,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111688,
+      "num": 111688,
+      "word": "商务座乘客年后退回穿脏女装忘掏兜",
+      "onboard_time": 1772243063,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110033,
@@ -459,20 +483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103609,
-      "num": 103609,
-      "word": "商务座乘客年后退回穿脏女装忘掏兜",
-      "onboard_time": 1772243063,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102192,
       "num": 102192,
       "word": "GUESS将关闭中国市场所有门店",
       "onboard_time": 1772245103,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 100298,
+      "num": 100298,
+      "word": "黄金白银又涨爆了",
+      "onboard_time": 1772236278,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 100128,
@@ -505,14 +529,6 @@
       "onboard_time": 1772234057,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94442,
-      "num": 94442,
-      "word": "黄金白银又涨爆了",
-      "onboard_time": 1772236278,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 90562,
@@ -555,11 +571,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 86501,
+      "num": 86501,
+      "word": "法硕国家线能不能降",
+      "onboard_time": 1772245462,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 86094,
       "num": 295661,
       "word": "人民日报评烤羊缩水事件",
       "onboard_time": 1772244503,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84127,
+      "num": 219677,
+      "word": "男子不满判决持锤子尾随下班法官",
+      "onboard_time": 1772244503,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -587,12 +619,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 80638,
-      "num": 80638,
-      "word": "法硕国家线能不能降",
-      "onboard_time": 1772245462,
-      "rank": 49,
-      "category": "教育"
+      "raw_hot": 76078,
+      "num": 76078,
+      "word": "左航发了厚米",
+      "onboard_time": 1772246542,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 75512,
@@ -601,14 +633,6 @@
       "onboard_time": 1772195182,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75450,
-      "num": 219677,
-      "word": "男子不满判决持锤子尾随下班法官",
-      "onboard_time": 1772244503,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73566,
@@ -624,6 +648,14 @@
       "word": "张极直播",
       "onboard_time": 1772203282,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72560,
+      "num": 70248,
+      "word": "朱志鑫发秀场图",
+      "onboard_time": 1772246603,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -875,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33736,
+      "num": 190813,
+      "word": "国乒新加坡大满贯28日赛程",
+      "onboard_time": 1772245763,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33430,
       "num": 43445,
       "word": "WTT新加坡大满贯",
@@ -908,7 +948,7 @@
     },
     {
       "raw_hot": 27854,
-      "num": 722436,
+      "num": 816676,
       "word": "关注2026全国两会",
       "onboard_time": 1772199022,
       "rank": 2,
