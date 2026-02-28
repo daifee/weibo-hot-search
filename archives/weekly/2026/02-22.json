@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772262228743,
+  "endTime": 1772264116064,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1486423,
+      "num": 317202,
+      "word": "金价",
+      "onboard_time": 1772262625,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1474660,
       "num": 1474660,
       "word": "中秋请3天假堪比春节",
@@ -281,6 +289,14 @@
       "onboard_time": 1771685843,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1345967,
+      "num": 1345967,
+      "word": "美国对伊朗的空袭正在进行中",
+      "onboard_time": 1772262504,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1314771,
@@ -1372,7 +1388,7 @@
     },
     {
       "raw_hot": 608842,
-      "num": 277273,
+      "num": 280537,
       "word": "婚后拒同房男方讨说法已涉嫌违法",
       "onboard_time": 1772251463,
       "rank": 12,
@@ -1449,6 +1465,14 @@
       "onboard_time": 1772183721,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 586460,
+      "num": 586460,
+      "word": "伊朗总统遭刺杀未遂",
+      "onboard_time": 1772263166,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 583860,
@@ -2401,6 +2425,14 @@
       "onboard_time": 1771900640,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 441896,
+      "num": 441896,
+      "word": "以色列袭击伊朗现场画面",
+      "onboard_time": 1772261965,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 441515,
@@ -3465,6 +3497,14 @@
       "onboard_time": 1771815141,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344177,
+      "num": 313718,
+      "word": "伊朗总统府遭袭",
+      "onboard_time": 1772263285,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 342290,
@@ -4627,6 +4667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265285,
+      "num": 265285,
+      "word": "关晓彤漂亮得像洋娃娃一样",
+      "onboard_time": 1772260943,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265265,
       "num": 190319,
       "word": "穆祉丞发的是什么",
@@ -5707,6 +5755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223617,
+      "num": 313447,
+      "word": "王楚钦vs张禹珍",
+      "onboard_time": 1772263646,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223399,
       "num": 190094,
       "word": "不发朋友圈的人是什么性格",
@@ -5929,14 +5985,6 @@
       "onboard_time": 1771731502,
       "rank": 8,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 214443,
-      "num": 214443,
-      "word": "关晓彤漂亮得像洋娃娃一样",
-      "onboard_time": 1772260943,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 213422,
@@ -6251,6 +6299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200111,
+      "num": 200111,
+      "word": "deepseek崩了",
+      "onboard_time": 1772261424,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 199830,
       "num": 199830,
       "word": "苏翊鸣手持五星红旗入场",
@@ -6297,6 +6353,14 @@
       "onboard_time": 1772116822,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197828,
+      "num": 197828,
+      "word": "以色列袭击伊朗最新情况",
+      "onboard_time": 1772263885,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 197270,
@@ -6923,6 +6987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178894,
+      "num": 178894,
+      "word": "韩国演员林周焕在物流中心搬货",
+      "onboard_time": 1772263407,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178736,
       "num": 178736,
       "word": "一点点资助男孩公益活动引争议",
@@ -6961,6 +7033,14 @@
       "onboard_time": 1772182822,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177827,
+      "num": 177827,
+      "word": "对伊袭击是美以共同行动结果",
+      "onboard_time": 1772262864,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177598,
@@ -7192,6 +7272,14 @@
       "word": "骏良",
       "onboard_time": 1771767203,
       "rank": 27,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 172998,
+      "num": 172998,
+      "word": "刘晓艳曾因婆媳关系非常痛苦",
+      "onboard_time": 1772261605,
+      "rank": 45,
       "category": "网红"
     },
     {
@@ -7523,14 +7611,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 163771,
-      "num": 227894,
-      "word": "以色列袭击伊朗现场画面",
-      "onboard_time": 1772261965,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 163675,
       "num": 163675,
       "word": "BLACKPINK回归 敷衍",
@@ -7811,6 +7891,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 153878,
+      "num": 153878,
+      "word": "头一回见仅付款的",
+      "onboard_time": 1772262386,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153776,
       "num": 153776,
       "word": "江苏卫视春晚小品 大为震撼",
@@ -7913,6 +8001,14 @@
       "onboard_time": 1771902921,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150941,
+      "num": 150941,
+      "word": "孟子义李昀锐综艺",
+      "onboard_time": 1772263945,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 150780,
@@ -8025,14 +8121,6 @@
       "onboard_time": 1772094561,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148719,
-      "num": 148719,
-      "word": "deepseek崩了",
-      "onboard_time": 1772261424,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 148229,
@@ -8161,6 +8249,14 @@
       "onboard_time": 1772155940,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145457,
+      "num": 145457,
+      "word": "人民币涨得太快央行踩刹车",
+      "onboard_time": 1772264064,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 145378,
@@ -8577,6 +8673,14 @@
       "onboard_time": 1772189480,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139860,
+      "num": 139860,
+      "word": "哈梅内伊已转移",
+      "onboard_time": 1772263826,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139851,
@@ -9083,6 +9187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131109,
+      "num": 131109,
+      "word": "以美联合袭击伊朗",
+      "onboard_time": 1772263166,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131044,
       "num": 157603,
       "word": "医生谈美甲对健康的隐患",
@@ -9257,14 +9369,6 @@
       "onboard_time": 1771727839,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 128829,
-      "num": 128829,
-      "word": "刘晓艳曾因婆媳关系非常痛苦",
-      "onboard_time": 1772261605,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 128784,
@@ -14371,6 +14475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80480,
+      "num": 1572974,
+      "word": "周鸿祎揭美伪造陈志案证据内幕",
+      "onboard_time": 1772247982,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80435,
       "num": 80435,
       "word": "曝iPad12下周发布",
@@ -15163,14 +15275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71989,
-      "num": 1572974,
-      "word": "周鸿祎揭美伪造陈志案证据内幕",
-      "onboard_time": 1772247982,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71963,
       "num": 78073,
       "word": "王楚钦紧急撤回一个签名",
@@ -15345,6 +15449,14 @@
       "onboard_time": 1772159719,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69686,
+      "num": 154289,
+      "word": "直播关注伊朗局势",
+      "onboard_time": 1772264064,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69554,
@@ -17817,6 +17929,14 @@
       "onboard_time": 1771923801,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28403,
+      "num": 178433,
+      "word": "银行盯上孩子压岁钱",
+      "onboard_time": 1772264005,
+      "rank": 33,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 28355,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1772264116064,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8653330,
+        "num": 8653330,
+        "word": "以色列宣布袭击伊朗",
+        "onboard_time": 1772260103,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1972738,
+        "num": 1972738,
+        "word": "伊朗首都发生爆炸",
+        "onboard_time": 1772259802,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80480,
+        "num": 1435862,
+        "word": "周鸿祎揭美伪造陈志案证据内幕",
+        "onboard_time": 1772247982,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1345967,
+        "num": 1345967,
+        "word": "美国对伊朗的空袭正在进行中",
+        "onboard_time": 1772262504,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 683472,
+        "num": 683472,
+        "word": "德国总理从中国回去后急了",
+        "onboard_time": 1772258661,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 586460,
+        "num": 586460,
+        "word": "伊朗总统遭刺杀未遂",
+        "onboard_time": 1772263166,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 539383,
+        "num": 539383,
+        "word": "一点点回应",
+        "onboard_time": 1772258721,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441896,
+        "num": 441896,
+        "word": "以色列袭击伊朗现场画面",
+        "onboard_time": 1772261965,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 398264,
+        "num": 398264,
+        "word": "跑男",
+        "onboard_time": 1772254763,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317293,
+        "num": 317293,
+        "word": "谷爱凌机场过安检自带金属buff",
+        "onboard_time": 1772258482,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1486423,
+        "num": 317202,
+        "word": "金价",
+        "onboard_time": 1772262625,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 831264,
+        "num": 316614,
+        "word": "曝迪丽热巴签约天伊娱乐",
+        "onboard_time": 1772260223,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446439,
+        "num": 316122,
+        "word": "范丞丞方说不认识没交集",
+        "onboard_time": 1772236221,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303084,
+        "num": 315713,
+        "word": "2026考研国家线发布",
+        "onboard_time": 1772246843,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 377743,
+        "num": 315248,
+        "word": "山姆部分产品大降价",
+        "onboard_time": 1772256501,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374264,
+        "num": 314685,
+        "word": "蔡磊已进入渐冻症疾病的终末期",
+        "onboard_time": 1772251044,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369844,
+        "num": 314323,
+        "word": "以色列对伊朗发动二次袭击",
+        "onboard_time": 1772260826,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 344177,
+        "num": 313718,
+        "word": "伊朗总统府遭袭",
+        "onboard_time": 1772263285,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223617,
+        "num": 313447,
+        "word": "王楚钦vs张禹珍",
+        "onboard_time": 1772263646,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323434,
+        "num": 313142,
+        "word": "以色列全境响起警报",
+        "onboard_time": 1772260223,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312823,
+        "num": 312823,
+        "word": "向太发向佐向佑儿时视频",
+        "onboard_time": 1772260163,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301600,
+        "num": 301600,
+        "word": "黄子韬因喘不上气暂停节目录制",
+        "onboard_time": 1772256142,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215067,
+        "num": 280537,
+        "word": "婚后拒同房男方讨说法已涉嫌违法",
+        "onboard_time": 1772251463,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265285,
+        "num": 265285,
+        "word": "关晓彤漂亮得像洋娃娃一样",
+        "onboard_time": 1772260943,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253488,
+        "num": 253488,
+        "word": "迪丽热巴现在人还在飞机上",
+        "onboard_time": 1772258542,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53592,
+        "num": 210533,
+        "word": "高速避障能不能猛打方向",
+        "onboard_time": 1772260943,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201265,
+        "num": 201265,
+        "word": "金贤重回应殴打前女友",
+        "onboard_time": 1772259681,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200111,
+        "num": 200111,
+        "word": "deepseek崩了",
+        "onboard_time": 1772261424,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197828,
+        "num": 197828,
+        "word": "以色列袭击伊朗最新情况",
+        "onboard_time": 1772263885,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193666,
+        "num": 193666,
+        "word": "巴厘岛发现人体肢解遗骸",
+        "onboard_time": 1772253563,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193348,
+        "num": 193348,
+        "word": "伊朗同意不拥有可制造核弹的核材料",
+        "onboard_time": 1772237240,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191851,
+        "num": 191851,
+        "word": "女子离家17天马桶狂冲200吨水",
+        "onboard_time": 1772258781,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178894,
+        "num": 178894,
+        "word": "韩国演员林周焕在物流中心搬货",
+        "onboard_time": 1772263407,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28403,
+        "num": 178433,
+        "word": "银行盯上孩子压岁钱",
+        "onboard_time": 1772264005,
+        "rank": 33,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 178014,
+        "num": 178014,
+        "word": "Angelababy37岁了",
+        "onboard_time": 1772236221,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177827,
+        "num": 177827,
+        "word": "对伊袭击是美以共同行动结果",
+        "onboard_time": 1772262864,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174542,
+        "num": 174542,
+        "word": "花海退役仪式",
+        "onboard_time": 1772256142,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172998,
+        "num": 172998,
+        "word": "刘晓艳曾因婆媳关系非常痛苦",
+        "onboard_time": 1772261605,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168257,
+        "num": 168257,
+        "word": "以色列宣布全国紧急状态",
+        "onboard_time": 1772261004,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164210,
+        "num": 164210,
+        "word": "考研下岸了",
+        "onboard_time": 1772251403,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156082,
+        "num": 156082,
+        "word": "王皓解释向鹏为何无缘世界杯",
+        "onboard_time": 1772261186,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69686,
+        "num": 154289,
+        "word": "直播关注伊朗局势",
+        "onboard_time": 1772264064,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153878,
+        "num": 153878,
+        "word": "头一回见仅付款的",
+        "onboard_time": 1772262386,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152414,
+        "num": 152414,
+        "word": "周大福镶金发夹卖2080元",
+        "onboard_time": 1772255003,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150941,
+        "num": 150941,
+        "word": "孟子义李昀锐综艺",
+        "onboard_time": 1772263945,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145457,
+        "num": 145457,
+        "word": "人民币涨得太快央行踩刹车",
+        "onboard_time": 1772264064,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144741,
+        "num": 144741,
+        "word": "金饰价涨到1625元",
+        "onboard_time": 1772248643,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139860,
+        "num": 139860,
+        "word": "哈梅内伊已转移",
+        "onboard_time": 1772263826,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135009,
+        "num": 135009,
+        "word": "第一个发现这个机位的是天才",
+        "onboard_time": 1772252122,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131109,
+        "num": 131109,
+        "word": "以美联合袭击伊朗",
+        "onboard_time": 1772263166,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

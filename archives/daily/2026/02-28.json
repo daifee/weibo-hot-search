@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772262228743,
+  "endTime": 1772264116064,
   "band_list": [
     {
       "raw_hot": 8807134,
@@ -41,6 +41,22 @@
       "onboard_time": 1772251044,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1486423,
+      "num": 317202,
+      "word": "金价",
+      "onboard_time": 1772262625,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1345967,
+      "num": 1345967,
+      "word": "美国对伊朗的空袭正在进行中",
+      "onboard_time": 1772262504,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1286852,
@@ -140,11 +156,19 @@
     },
     {
       "raw_hot": 608842,
-      "num": 277273,
+      "num": 280537,
       "word": "婚后拒同房男方讨说法已涉嫌违法",
       "onboard_time": 1772251463,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 586460,
+      "num": 586460,
+      "word": "伊朗总统遭刺杀未遂",
+      "onboard_time": 1772263166,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 573261,
@@ -243,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441896,
+      "num": 441896,
+      "word": "以色列袭击伊朗现场画面",
+      "onboard_time": 1772261965,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 437436,
       "num": 381244,
       "word": "第一个发现这个机位的是天才",
@@ -337,6 +369,14 @@
       "onboard_time": 1772244082,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344177,
+      "num": 313718,
+      "word": "伊朗总统府遭袭",
+      "onboard_time": 1772263285,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 341098,
@@ -443,6 +483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 265285,
+      "num": 265285,
+      "word": "关晓彤漂亮得像洋娃娃一样",
+      "onboard_time": 1772260943,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263322,
       "num": 263322,
       "word": "法硕",
@@ -523,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 223617,
+      "num": 313447,
+      "word": "王楚钦vs张禹珍",
+      "onboard_time": 1772263646,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222350,
       "num": 222350,
       "word": "肖战Gucci大秀下班",
@@ -563,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214443,
-      "num": 214443,
-      "word": "关晓彤漂亮得像洋娃娃一样",
-      "onboard_time": 1772260943,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211278,
       "num": 211278,
       "word": "真的不建议把肉泡在水里解冻",
@@ -603,12 +651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200111,
+      "num": 200111,
+      "word": "deepseek崩了",
+      "onboard_time": 1772261424,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 198097,
       "num": 155695,
       "word": "王健林20亿售出上海项目",
       "onboard_time": 1772255121,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 197828,
+      "num": 197828,
+      "word": "以色列袭击伊朗最新情况",
+      "onboard_time": 1772263885,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192720,
@@ -667,12 +731,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178894,
+      "num": 178894,
+      "word": "韩国演员林周焕在物流中心搬货",
+      "onboard_time": 1772263407,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178379,
       "num": 178379,
       "word": "金花婆婆说刘晓庆刚出道被所有人欺负",
       "onboard_time": 1772256023,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177827,
+      "num": 177827,
+      "word": "对伊袭击是美以共同行动结果",
+      "onboard_time": 1772262864,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 176784,
@@ -697,6 +777,14 @@
       "onboard_time": 1772244442,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172998,
+      "num": 172998,
+      "word": "刘晓艳曾因婆媳关系非常痛苦",
+      "onboard_time": 1772261605,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 168093,
@@ -747,20 +835,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163771,
-      "num": 227894,
-      "word": "以色列袭击伊朗现场画面",
-      "onboard_time": 1772261965,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 153878,
+      "num": 153878,
+      "word": "头一回见仅付款的",
+      "onboard_time": 1772262386,
+      "rank": 42,
+      "category": "幽默"
     },
     {
-      "raw_hot": 148719,
-      "num": 148719,
-      "word": "deepseek崩了",
-      "onboard_time": 1772261424,
-      "rank": 42,
-      "category": "互联网"
+      "raw_hot": 150941,
+      "num": 150941,
+      "word": "孟子义李昀锐综艺",
+      "onboard_time": 1772263945,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 148229,
@@ -769,6 +857,14 @@
       "onboard_time": 1772244503,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 145457,
+      "num": 145457,
+      "word": "人民币涨得太快央行踩刹车",
+      "onboard_time": 1772264064,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 143473,
@@ -819,6 +915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139860,
+      "num": 139860,
+      "word": "哈梅内伊已转移",
+      "onboard_time": 1772263826,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139367,
       "num": 234722,
       "word": "日本警察竟偷拍女性遗体",
@@ -867,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131109,
+      "num": 131109,
+      "word": "以美联合袭击伊朗",
+      "onboard_time": 1772263166,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130796,
       "num": 130796,
       "word": "2岁女孩患癌花光积蓄妈妈离家出走",
@@ -881,14 +993,6 @@
       "onboard_time": 1772252122,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128829,
-      "num": 128829,
-      "word": "刘晓艳曾因婆媳关系非常痛苦",
-      "onboard_time": 1772261605,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 126272,
@@ -1275,6 +1379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80480,
+      "num": 1572974,
+      "word": "周鸿祎揭美伪造陈志案证据内幕",
+      "onboard_time": 1772247982,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76078,
       "num": 76078,
       "word": "左航发了厚米",
@@ -1315,12 +1427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71989,
-      "num": 1572974,
-      "word": "周鸿祎揭美伪造陈志案证据内幕",
-      "onboard_time": 1772247982,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 69686,
+      "num": 154289,
+      "word": "直播关注伊朗局势",
+      "onboard_time": 1772264064,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69372,
@@ -1729,6 +1841,14 @@
       "onboard_time": 1772252301,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28403,
+      "num": 178433,
+      "word": "银行盯上孩子压岁钱",
+      "onboard_time": 1772264005,
+      "rank": 33,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 27854,
