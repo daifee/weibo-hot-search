@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/01 00:36:45 ~ 2026/03/01 04:48:38
+本榜单时间：2026/03/01 00:36:45 ~ 2026/03/01 05:29:56
 </p>
 </blockquote>
 <p>
@@ -352,7 +352,13 @@ TOP专辑秒切（热度：73360）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E4%B8%9B%E7%94%9F%23" target="weibo">
-玫瑰丛生（热度：31650）
+玫瑰丛生（热度：33287）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E6%8B%9C%E5%86%8D%E6%AC%A1%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0%23" target="weibo">
+迪拜再次传出爆炸声（热度：29115）
 </a>
 </li>
 

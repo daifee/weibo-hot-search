@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772311718906,
+  "endTime": 1772314196732,
   "band_list": [
     {
       "raw_hot": 993678,
@@ -451,12 +451,20 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 31650,
-      "num": 47733,
+      "raw_hot": 33287,
+      "num": 123805,
       "word": "玫瑰丛生",
       "onboard_time": 1772307195,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29115,
+      "num": 26409,
+      "word": "迪拜再次传出爆炸声",
+      "onboard_time": 1772313014,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25224,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 14769,
-      "num": 22723,
+      "num": 22783,
       "word": "你好星期六",
       "onboard_time": 1772283145,
       "rank": 45,
