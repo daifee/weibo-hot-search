@@ -1,0 +1,410 @@
+{
+  "runTime": 1772257164417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1317036,
+        "num": 1317036,
+        "word": "蔡磊已进入渐冻症疾病的终末期",
+        "onboard_time": 1772251044,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555153,
+        "num": 907358,
+        "word": "2026考研国家线发布",
+        "onboard_time": 1772246843,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 51126,
+        "num": 722167,
+        "word": "周鸿祎揭美伪造陈志案证据内幕",
+        "onboard_time": 1772247982,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419867,
+        "num": 419867,
+        "word": "考研下岸了",
+        "onboard_time": 1772251403,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 399842,
+        "num": 399842,
+        "word": "撞人族是日本特有",
+        "onboard_time": 1772252245,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 437436,
+        "num": 380948,
+        "word": "第一个发现这个机位的是天才",
+        "onboard_time": 1772252122,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356312,
+        "num": 356312,
+        "word": "男子劝朋友别醉驾走后对方车祸身亡",
+        "onboard_time": 1772249483,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293970,
+        "num": 293970,
+        "word": "跑男",
+        "onboard_time": 1772254763,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218105,
+        "num": 218105,
+        "word": "小米超跑",
+        "onboard_time": 1772244743,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174069,
+        "num": 174069,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1772250982,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 763870,
+        "num": 170294,
+        "word": "范丞丞方说不认识没交集",
+        "onboard_time": 1772236221,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555994,
+        "num": 163080,
+        "word": "婚后拒同房男方讨说法已涉嫌违法",
+        "onboard_time": 1772251463,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382925,
+        "num": 155220,
+        "word": "嘉行否认迪丽热巴合约到期",
+        "onboard_time": 1772250202,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347288,
+        "num": 142402,
+        "word": "Angelababy37岁了",
+        "onboard_time": 1772236221,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139556,
+        "num": 139556,
+        "word": "山姆部分产品大降价",
+        "onboard_time": 1772256501,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246727,
+        "num": 138371,
+        "word": "肖战绕到车前给粉丝挥手",
+        "onboard_time": 1772254041,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198475,
+        "num": 136880,
+        "word": "黄子韬因喘不上气暂停节目录制",
+        "onboard_time": 1772256142,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135231,
+        "num": 135231,
+        "word": "国家线 砍一刀",
+        "onboard_time": 1772239462,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156884,
+        "num": 135153,
+        "word": "徐志胜当宋妍霏的面接前任电话",
+        "onboard_time": 1772246903,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93828,
+        "num": 134026,
+        "word": "王曼昱4比2张本美和",
+        "onboard_time": 1772256082,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503263,
+        "num": 133337,
+        "word": "巴厘岛发现人体肢解遗骸",
+        "onboard_time": 1772253563,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225307,
+        "num": 133172,
+        "word": "周大福镶金发夹卖2080元",
+        "onboard_time": 1772255003,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168356,
+        "num": 132162,
+        "word": "王健林20亿售出上海项目",
+        "onboard_time": 1772255121,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156716,
+        "num": 131439,
+        "word": "迪丽热巴个人工作室",
+        "onboard_time": 1772244082,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152806,
+        "num": 131266,
+        "word": "TOP新专配置",
+        "onboard_time": 1772251642,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130796,
+        "num": 130796,
+        "word": "2岁女孩患癌花光积蓄妈妈离家出走",
+        "onboard_time": 1772253143,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127313,
+        "num": 127313,
+        "word": "花海退役仪式",
+        "onboard_time": 1772256142,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 323734,
+        "num": 126335,
+        "word": "张雪峰谈考研人数减少分数线却涨了",
+        "onboard_time": 1772252484,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121775,
+        "num": 121775,
+        "word": "金饰价涨到1625元",
+        "onboard_time": 1772248643,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147836,
+        "num": 121772,
+        "word": "美国对伊朗提了4项要求",
+        "onboard_time": 1772247443,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121661,
+        "num": 121661,
+        "word": "QQ音乐 抢专辑",
+        "onboard_time": 1772250262,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120632,
+        "num": 120632,
+        "word": "张雅钦有人专门为你来米兰",
+        "onboard_time": 1772255482,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114146,
+        "num": 114146,
+        "word": "全国最快熟的蔬菜出现了",
+        "onboard_time": 1772252122,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112934,
+        "num": 112934,
+        "word": "TOP登陆少年首张实体专辑",
+        "onboard_time": 1772250982,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108599,
+        "num": 108599,
+        "word": "考研查分",
+        "onboard_time": 1772236820,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103665,
+        "num": 103665,
+        "word": "掘金vs雷霆",
+        "onboard_time": 1772256921,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103075,
+        "num": 103075,
+        "word": "近视散光人群开夜车的视角",
+        "onboard_time": 1772241625,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102175,
+        "num": 102175,
+        "word": "重生了4次都不知道绕路",
+        "onboard_time": 1772256142,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47671,
+        "num": 100874,
+        "word": "沈月在客栈和中餐厅间选了好六",
+        "onboard_time": 1772252122,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8472,
+        "num": 100746,
+        "word": "太平年带火的李煜墓尚未官方确认",
+        "onboard_time": 1772256621,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100722,
+        "num": 100722,
+        "word": "郭晓婷王天辰第二十八年春",
+        "onboard_time": 1772241384,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98581,
+        "num": 98581,
+        "word": "肖战Gucci大秀下班",
+        "onboard_time": 1772240243,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94398,
+        "num": 94398,
+        "word": "399元的花枝鼠葬礼",
+        "onboard_time": 1772254162,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94672,
+        "num": 94289,
+        "word": "保姆卖雇主名牌包给小三20万",
+        "onboard_time": 1772247562,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94078,
+        "num": 94078,
+        "word": "伊朗同意不拥有可制造核弹的核材料",
+        "onboard_time": 1772237240,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93092,
+        "num": 93092,
+        "word": "谭松韵新剧身世极限反转",
+        "onboard_time": 1772250383,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92788,
+        "num": 92788,
+        "word": "ColorWalk 人类丰容",
+        "onboard_time": 1772257102,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91130,
+        "num": 91130,
+        "word": "人不能从事长期有紧张感的工作",
+        "onboard_time": 1772241802,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90635,
+        "num": 90635,
+        "word": "邓超借粉终于借到孙俪的了",
+        "onboard_time": 1772257102,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89347,
+        "num": 89347,
+        "word": "官方通报去政府部门借厕所遭辱骂",
+        "onboard_time": 1772253445,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

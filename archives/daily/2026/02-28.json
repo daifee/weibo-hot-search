@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772253695834,
+  "endTime": 1772257164417,
   "band_list": [
     {
       "raw_hot": 1963546,
@@ -123,6 +123,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 503263,
+      "num": 133337,
+      "word": "巴厘岛发现人体肢解遗骸",
+      "onboard_time": 1772253563,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 485504,
       "num": 485504,
       "word": "小米超跑",
@@ -137,6 +145,14 @@
       "onboard_time": 1772236221,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437436,
+      "num": 380948,
+      "word": "第一个发现这个机位的是天才",
+      "onboard_time": 1772252122,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 422329,
@@ -169,6 +185,14 @@
       "onboard_time": 1772205503,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399842,
+      "num": 399842,
+      "word": "撞人族是日本特有",
+      "onboard_time": 1772252245,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 388411,
@@ -227,6 +251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 323734,
+      "num": 306735,
+      "word": "张雪峰谈考研人数减少分数线却涨了",
+      "onboard_time": 1772252484,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 320115,
       "num": 114404,
       "word": "刘雯好性感",
@@ -267,20 +299,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 306735,
-      "num": 306735,
-      "word": "张雪峰谈考研人数减少分数线却涨了",
-      "onboard_time": 1772252484,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 297392,
       "num": 297392,
       "word": "湖南县委书记个人账号变问政现场",
       "onboard_time": 1772239462,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 293970,
+      "num": 293970,
+      "word": "跑男",
+      "onboard_time": 1772254763,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 287632,
@@ -323,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246727,
+      "num": 138371,
+      "word": "肖战绕到车前给粉丝挥手",
+      "onboard_time": 1772254041,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244839,
       "num": 94533,
       "word": "白宇刘萌萌2014年因戏结缘",
@@ -353,6 +393,14 @@
       "onboard_time": 1772207781,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 225307,
+      "num": 133172,
+      "word": "周大福镶金发夹卖2080元",
+      "onboard_time": 1772255003,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222350,
@@ -411,20 +459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198475,
+      "num": 136880,
+      "word": "黄子韬因喘不上气暂停节目录制",
+      "onboard_time": 1772256142,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192720,
       "num": 192720,
       "word": "TOP登陆少年首张实体专辑",
       "onboard_time": 1772250982,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 190261,
-      "num": 190261,
-      "word": "第一个发现这个机位的是天才",
-      "onboard_time": 1772252122,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 188573,
@@ -475,12 +523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174069,
+      "num": 174069,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1772250982,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173331,
       "num": 173331,
       "word": "十个勤天 开工",
       "onboard_time": 1772244442,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168356,
+      "num": 132162,
+      "word": "王健林20亿售出上海项目",
+      "onboard_time": 1772255121,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 168093,
@@ -515,28 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158839,
-      "num": 218136,
-      "word": "撞人族是日本特有",
-      "onboard_time": 1772252245,
-      "rank": 20,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 148229,
       "num": 148229,
       "word": "年轻人脑梗的危险信号",
       "onboard_time": 1772244503,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 147681,
-      "num": 147681,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1772250982,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 141890,
@@ -561,6 +609,14 @@
       "onboard_time": 1772252301,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 139556,
+      "num": 139556,
+      "word": "山姆部分产品大降价",
+      "onboard_time": 1772256501,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138988,
@@ -595,12 +651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130796,
+      "num": 130796,
+      "word": "2岁女孩患癌花光积蓄妈妈离家出走",
+      "onboard_time": 1772253143,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129757,
       "num": 129757,
       "word": "全国最快熟的蔬菜出现了",
       "onboard_time": 1772252122,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127313,
+      "num": 127313,
+      "word": "花海退役仪式",
+      "onboard_time": 1772256142,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 126272,
@@ -616,6 +688,14 @@
       "word": "王橹杰路透",
       "onboard_time": 1772203823,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120632,
+      "num": 120632,
+      "word": "张雅钦有人专门为你来米兰",
+      "onboard_time": 1772255482,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -649,14 +729,6 @@
       "onboard_time": 1772243063,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111447,
-      "num": 111447,
-      "word": "巴厘岛发现人体肢解遗骸",
-      "onboard_time": 1772253563,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 110090,
@@ -723,12 +795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102660,
-      "num": 102660,
-      "word": "2岁女孩患癌花光积蓄妈妈离家出走",
-      "onboard_time": 1772253143,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 103665,
+      "num": 103665,
+      "word": "掘金vs雷霆",
+      "onboard_time": 1772256921,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 102192,
@@ -737,6 +809,14 @@
       "onboard_time": 1772245103,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 102175,
+      "num": 102175,
+      "word": "重生了4次都不知道绕路",
+      "onboard_time": 1772256142,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 100298,
@@ -779,6 +859,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94398,
+      "num": 94398,
+      "word": "399元的花枝鼠葬礼",
+      "onboard_time": 1772254162,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 93828,
+      "num": 134026,
+      "word": "王曼昱4比2张本美和",
+      "onboard_time": 1772256082,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92788,
+      "num": 92788,
+      "word": "ColorWalk 人类丰容",
+      "onboard_time": 1772257102,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 90635,
+      "num": 90635,
+      "word": "邓超借粉终于借到孙俪的了",
+      "onboard_time": 1772257102,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90562,
       "num": 110819,
       "word": "以色列",
@@ -793,6 +905,14 @@
       "onboard_time": 1772236339,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 89347,
+      "num": 170595,
+      "word": "官方通报去政府部门借厕所遭辱骂",
+      "onboard_time": 1772253445,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 88596,
@@ -953,14 +1073,6 @@
       "onboard_time": 1772196202,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 63915,
-      "num": 170595,
-      "word": "官方通报去政府部门借厕所遭辱骂",
-      "onboard_time": 1772253445,
-      "rank": 25,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 63238,
@@ -1352,6 +1464,14 @@
       "word": "上海彩民守号一年中了3764万",
       "onboard_time": 1772216595,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8472,
+      "num": 100746,
+      "word": "太平年带火的李煜墓尚未官方确认",
+      "onboard_time": 1772256621,
+      "rank": 39,
       "category": "民生新闻"
     }
   ],
