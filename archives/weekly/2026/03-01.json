@@ -1,13 +1,45 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772318872520,
+  "endTime": 1772321475926,
   "band_list": [
+    {
+      "raw_hot": 1519435,
+      "num": 199270,
+      "word": "哈梅内伊",
+      "onboard_time": 1772320758,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1437053,
+      "num": 1437053,
+      "word": "特朗普称哈梅内伊已死",
+      "onboard_time": 1772320096,
+      "rank": 0,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 993678,
       "num": 993678,
       "word": "以色列宣布袭击伊朗",
       "onboard_time": 1772260103,
       "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 615970,
+      "num": 615970,
+      "word": "哈梅内伊将发表公开讲话",
+      "onboard_time": 1772292684,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 612109,
+      "num": 612109,
+      "word": "伊朗发射法塔赫高超音速导弹",
+      "onboard_time": 1772296101,
+      "rank": 27,
       "category": "国际时政"
     },
     {
@@ -35,27 +67,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 483021,
-      "num": 431574,
-      "word": "伊朗发射法塔赫高超音速导弹",
-      "onboard_time": 1772296101,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 479332,
       "num": 479332,
       "word": "安理会应中俄要求紧急开会",
       "onboard_time": 1772291963,
       "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 465408,
-      "num": 558649,
-      "word": "哈梅内伊将发表公开讲话",
-      "onboard_time": 1772292684,
-      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -155,8 +171,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197277,
+      "num": 65803,
+      "word": "以色列高级官员称哈梅内伊已死",
+      "onboard_time": 1772320096,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 196284,
-      "num": 489120,
+      "num": 612353,
       "word": "小米发布会",
       "onboard_time": 1772284883,
       "rank": 4,
@@ -211,12 +235,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175555,
+      "num": 120196,
+      "word": "伊朗总统之子发声",
+      "onboard_time": 1772279843,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172748,
       "num": 475363,
       "word": "国乒仅王楚钦晋级男单四强",
       "onboard_time": 1772290043,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161385,
+      "num": 116093,
+      "word": "母亲回应18岁女儿感染多种高危HPV",
+      "onboard_time": 1772300658,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150392,
@@ -260,7 +300,7 @@
     },
     {
       "raw_hot": 130767,
-      "num": 305519,
+      "num": 373419,
       "word": "五粮液",
       "onboard_time": 1772286744,
       "rank": 16,
@@ -281,6 +321,14 @@
       "onboard_time": 1772291842,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108778,
+      "num": 702970,
+      "word": "为什么中国人把这么多钱花在吃上",
+      "onboard_time": 1772290283,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 108465,
@@ -355,28 +403,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 78717,
-      "num": 116093,
-      "word": "母亲回应18岁女儿感染多种高危HPV",
-      "onboard_time": 1772300658,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76078,
       "num": 134259,
       "word": "郝熠然好会魅",
       "onboard_time": 1772285064,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75036,
-      "num": 404700,
-      "word": "为什么中国人把这么多钱花在吃上",
-      "onboard_time": 1772290283,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 73360,
@@ -395,6 +427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 68002,
+      "num": 507439,
+      "word": "玫瑰丛生",
+      "onboard_time": 1772307195,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65915,
       "num": 229042,
       "word": "3月第一件事个税退税",
@@ -404,27 +444,11 @@
     },
     {
       "raw_hot": 63370,
-      "num": 51804,
+      "num": 57235,
       "word": "迪拜再次传出爆炸声",
       "onboard_time": 1772313014,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 57242,
-      "num": 57242,
-      "word": "伊朗总统之子发声",
-      "onboard_time": 1772279843,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 49069,
-      "num": 329142,
-      "word": "玫瑰丛生",
-      "onboard_time": 1772307195,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 43488,
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 39299,
-      "num": 520581,
+      "num": 630123,
       "word": "3月起一批国家标准开始实施",
       "onboard_time": 1772286324,
       "rank": 2,
@@ -459,8 +483,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36254,
-      "num": 49015,
+      "raw_hot": 36896,
+      "num": 54183,
       "word": "伊朗称大量美以导弹坠落境外",
       "onboard_time": 1772287465,
       "rank": 46,
@@ -473,6 +497,30 @@
       "onboard_time": 1772282663,
       "rank": 39,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 29521,
+      "num": 54305,
+      "word": "你好星期六",
+      "onboard_time": 1772283145,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28914,
+      "num": 54162,
+      "word": "肖战说米兰最好吃的是披萨",
+      "onboard_time": 1772308095,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27658,
+      "num": 54105,
+      "word": "江湖夜雨十年灯",
+      "onboard_time": 1772306955,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 25515,
@@ -507,44 +555,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23158,
-      "num": 49057,
-      "word": "徐明浩穿背心给到夯",
-      "onboard_time": 1772301258,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 22007,
-      "num": 40752,
-      "word": "江湖夜雨十年灯",
-      "onboard_time": 1772306955,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 21070,
-      "num": 40901,
-      "word": "肖战说米兰最好吃的是披萨",
-      "onboard_time": 1772308095,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 20204,
-      "num": 40847,
+      "raw_hot": 24269,
+      "num": 54044,
       "word": "纯真年代的爱情",
       "onboard_time": 1772279242,
       "rank": 43,
       "category": "剧集"
     },
     {
-      "raw_hot": 18516,
-      "num": 40791,
-      "word": "你好星期六",
-      "onboard_time": 1772283145,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 23158,
+      "num": 49057,
+      "word": "徐明浩穿背心给到夯",
+      "onboard_time": 1772301258,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 17377,
