@@ -1,0 +1,410 @@
+{
+  "runTime": 1772268758659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3010031,
+        "num": 3010031,
+        "word": "以色列宣布袭击伊朗",
+        "onboard_time": 1772260103,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1821754,
+        "num": 1821754,
+        "word": "伊朗正准备毁灭性报复行动",
+        "onboard_time": 1772265144,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36493,
+        "num": 1610890,
+        "word": "2025我国完成92次宇航发射",
+        "onboard_time": 1772267664,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1596939,
+        "num": 1596939,
+        "word": "伊朗反击",
+        "onboard_time": 1772267605,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1027164,
+        "num": 1027164,
+        "word": "伊朗首都发生爆炸",
+        "onboard_time": 1772259802,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 596835,
+        "num": 596835,
+        "word": "以色列监测到伊朗发射导弹",
+        "onboard_time": 1772266647,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 527240,
+        "num": 527240,
+        "word": "德国总理从中国回去后急了",
+        "onboard_time": 1772258661,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 516519,
+        "num": 516519,
+        "word": "孟子义李昀锐综艺",
+        "onboard_time": 1772263945,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510633,
+        "num": 510633,
+        "word": "王楚钦再次成功挑战鹰眼",
+        "onboard_time": 1772266165,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136805,
+        "num": 507705,
+        "word": "美国正从空中和海上打击伊朗",
+        "onboard_time": 1772267664,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1746092,
+        "num": 504664,
+        "word": "金价",
+        "onboard_time": 1772262625,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 970525,
+        "num": 502782,
+        "word": "美国对伊朗的空袭正在进行中",
+        "onboard_time": 1772262504,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 844303,
+        "num": 500526,
+        "word": "以色列伊朗 金价",
+        "onboard_time": 1772264245,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 540460,
+        "num": 496803,
+        "word": "九亿少女的梦",
+        "onboard_time": 1772264964,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 493868,
+        "num": 493868,
+        "word": "曝迪丽热巴签约天伊娱乐",
+        "onboard_time": 1772260223,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467417,
+        "num": 467417,
+        "word": "导弹飞越伊拉克画面曝光",
+        "onboard_time": 1772265865,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249635,
+        "num": 460994,
+        "word": "王楚钦看林诗栋比赛摇头叹气",
+        "onboard_time": 1772267965,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248016,
+        "num": 453513,
+        "word": "一点点回应",
+        "onboard_time": 1772258721,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214341,
+        "num": 442945,
+        "word": "王楚钦vs张禹珍",
+        "onboard_time": 1772263646,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88187,
+        "num": 426757,
+        "word": "伊称结局已不再由以色列掌控",
+        "onboard_time": 1772267724,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 424583,
+        "num": 424583,
+        "word": "TF家族全员运动会 澳门",
+        "onboard_time": 1772264844,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398777,
+        "num": 398777,
+        "word": "头一回见仅付款的",
+        "onboard_time": 1772262386,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 350107,
+        "num": 350107,
+        "word": "特朗普表示将彻底摧毁伊朗海军",
+        "onboard_time": 1772266582,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313355,
+        "num": 313355,
+        "word": "伊朗总统遭刺杀未遂",
+        "onboard_time": 1772263166,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300253,
+        "num": 300253,
+        "word": "范丞丞方说不认识没交集",
+        "onboard_time": 1772236221,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281524,
+        "num": 281524,
+        "word": "伊朗总统府遭袭",
+        "onboard_time": 1772263285,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266355,
+        "num": 266355,
+        "word": "小米YU9",
+        "onboard_time": 1772267845,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 227733,
+        "num": 227733,
+        "word": "美军航母参与空袭伊朗",
+        "onboard_time": 1772265264,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211331,
+        "num": 211331,
+        "word": "王楚钦被裁判整无奈了",
+        "onboard_time": 1772268023,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199427,
+        "num": 199427,
+        "word": "山姆部分产品大降价",
+        "onboard_time": 1772256501,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232594,
+        "num": 199303,
+        "word": "美国以色列伊朗打仗",
+        "onboard_time": 1772265144,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222686,
+        "num": 199206,
+        "word": "特朗普称要把伊导弹工业夷为平地",
+        "onboard_time": 1772267304,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221964,
+        "num": 199103,
+        "word": "特朗普",
+        "onboard_time": 1772267605,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198932,
+        "num": 198932,
+        "word": "热巴 换经纪人",
+        "onboard_time": 1772266044,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196559,
+        "num": 196559,
+        "word": "2026考研国家线发布",
+        "onboard_time": 1772246843,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194238,
+        "num": 194238,
+        "word": "以色列 犹大之盾",
+        "onboard_time": 1772267545,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181444,
+        "num": 181444,
+        "word": "关晓彤漂亮得像洋娃娃一样",
+        "onboard_time": 1772260943,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160156,
+        "num": 174909,
+        "word": "伊朗手机断网",
+        "onboard_time": 1772267545,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41858,
+        "num": 173526,
+        "word": "柳智敏又瘦了",
+        "onboard_time": 1772268625,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79249,
+        "num": 173238,
+        "word": "张真源哄人这一课已经快博士毕业了",
+        "onboard_time": 1772268625,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173199,
+        "num": 173199,
+        "word": "人民币涨得太快央行踩刹车",
+        "onboard_time": 1772264064,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117937,
+        "num": 172083,
+        "word": "只有女生才懂找到本命bra的爽感",
+        "onboard_time": 1772268145,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 171287,
+        "num": 171287,
+        "word": "蔡磊已进入渐冻症疾病的终末期",
+        "onboard_time": 1772251044,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169062,
+        "num": 169062,
+        "word": "韩国演员林周焕在物流中心搬货",
+        "onboard_time": 1772263407,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166717,
+        "num": 166717,
+        "word": "哈梅内伊已转移",
+        "onboard_time": 1772263826,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164779,
+        "num": 164779,
+        "word": "宁艺卓自曝体重41公斤",
+        "onboard_time": 1772268086,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163731,
+        "num": 163731,
+        "word": "Angelababy紫罗兰中式美人",
+        "onboard_time": 1772265746,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159163,
+        "num": 159163,
+        "word": "以色列宣布全国紧急状态",
+        "onboard_time": 1772261004,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153993,
+        "num": 153993,
+        "word": "直播关注伊朗局势",
+        "onboard_time": 1772264064,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151976,
+        "num": 151976,
+        "word": "王安宇好明显的暗爽",
+        "onboard_time": 1772268204,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持从实际出发按规律办事#"
+    }
+  }
+}

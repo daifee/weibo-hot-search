@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772267973311,
+  "endTime": 1772268758659,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1587,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1821754,
+      "num": 1821754,
+      "word": "伊朗正准备毁灭性报复行动",
+      "onboard_time": 1772265144,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1809688,
       "num": 378264,
       "word": "苏新皓哭了",
@@ -1633,14 +1641,6 @@
       "onboard_time": 1768732703,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1763815,
-      "num": 1763815,
-      "word": "伊朗正准备毁灭性报复行动",
-      "onboard_time": 1772265144,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1760330,
@@ -1961,6 +1961,14 @@
       "onboard_time": 1771888937,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1596939,
+      "num": 1596939,
+      "word": "伊朗反击",
+      "onboard_time": 1772267605,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1592010,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1771256256,
       "rank": 37,
       "category": "综艺,互联网"
-    },
-    {
-      "raw_hot": 1464712,
-      "num": 1464712,
-      "word": "U23国足vs乌兹别克斯坦",
-      "onboard_time": 1768650021,
-      "rank": 7,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1772267973311,
+  "endTime": 1772268758659,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -939,6 +939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1821754,
+      "num": 1821754,
+      "word": "伊朗正准备毁灭性报复行动",
+      "onboard_time": 1772265144,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1809688,
       "num": 378264,
       "word": "苏新皓哭了",
@@ -969,14 +977,6 @@
       "onboard_time": 1771594222,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1763815,
-      "num": 1763815,
-      "word": "伊朗正准备毁灭性报复行动",
-      "onboard_time": 1772265144,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1757992,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1771888937,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1596939,
+      "num": 1596939,
+      "word": "伊朗反击",
+      "onboard_time": 1772267605,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1592010,
@@ -3345,14 +3353,6 @@
       "onboard_time": 1772169801,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 867108,
-      "num": 867108,
-      "word": "伊朗反击",
-      "onboard_time": 1772267605,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 866352,
@@ -7707,6 +7707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540460,
+      "num": 520053,
+      "word": "九亿少女的梦",
+      "onboard_time": 1772264964,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 540085,
       "num": 980730,
       "word": "金价暴跌后回收变现火爆",
@@ -8097,14 +8105,6 @@
       "onboard_time": 1771578739,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 520053,
-      "num": 520053,
-      "word": "九亿少女的梦",
-      "onboard_time": 1772264964,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 519442,
@@ -11779,6 +11779,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 398777,
+      "num": 398777,
+      "word": "头一回见仅付款的",
+      "onboard_time": 1772262386,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 398683,
       "num": 146714,
       "word": "肖战tods直播镜头",
@@ -14075,6 +14083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350107,
+      "num": 350107,
+      "word": "特朗普表示将彻底摧毁伊朗海军",
+      "onboard_time": 1772266582,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 349723,
       "num": 349723,
       "word": "游客挤到悔不当初不如在家刷手机",
@@ -14361,14 +14377,6 @@
       "onboard_time": 1771047501,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345140,
-      "num": 345140,
-      "word": "特朗普表示将彻底摧毁伊朗海军",
-      "onboard_time": 1772266582,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 344993,
@@ -18603,14 +18611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278104,
-      "num": 278104,
-      "word": "头一回见仅付款的",
-      "onboard_time": 1772262386,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 278094,
       "num": 251923,
       "word": "白鹿忘记自己会说韩语了",
@@ -19068,7 +19068,7 @@
     },
     {
       "raw_hot": 271700,
-      "num": 193872,
+      "num": 199303,
       "word": "美国以色列伊朗打仗",
       "onboard_time": 1772265144,
       "rank": 30,
@@ -19529,6 +19529,14 @@
       "onboard_time": 1770431120,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266355,
+      "num": 266355,
+      "word": "小米YU9",
+      "onboard_time": 1772267845,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 266325,
@@ -20945,6 +20953,14 @@
       "onboard_time": 1770778759,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249635,
+      "num": 460994,
+      "word": "王楚钦看林诗栋比赛摇头叹气",
+      "onboard_time": 1772267965,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 249505,
@@ -23155,6 +23171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227733,
+      "num": 227733,
+      "word": "美军航母参与空袭伊朗",
+      "onboard_time": 1772265264,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 227611,
       "num": 2044635,
       "word": "泰国机场凌晨堵满中国人",
@@ -23675,6 +23699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222686,
+      "num": 199206,
+      "word": "特朗普称要把伊导弹工业夷为平地",
+      "onboard_time": 1772267304,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 222654,
       "num": 191518,
       "word": "关晓彤观赛中国短道速滑",
@@ -23753,6 +23785,14 @@
       "onboard_time": 1770097280,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 221964,
+      "num": 199103,
+      "word": "特朗普",
+      "onboard_time": 1772267605,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 221944,
@@ -24339,14 +24379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216361,
-      "num": 193091,
-      "word": "美军航母参与空袭伊朗",
-      "onboard_time": 1772265264,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 216351,
       "num": 216351,
       "word": "孙颖莎左手奖杯右手金牌",
@@ -24801,6 +24833,14 @@
       "onboard_time": 1770082999,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211331,
+      "num": 211331,
+      "word": "王楚钦被裁判整无奈了",
+      "onboard_time": 1772268023,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 211278,
@@ -26051,6 +26091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 198932,
+      "num": 198932,
+      "word": "热巴 换经纪人",
+      "onboard_time": 1772266044,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198790,
       "num": 198790,
       "word": "微博之夜 二刷",
@@ -26635,6 +26683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194238,
+      "num": 194238,
+      "word": "以色列 犹大之盾",
+      "onboard_time": 1772267545,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 194214,
       "num": 194214,
       "word": "赵今麦小年营业照",
@@ -26883,14 +26939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192250,
-      "num": 192250,
-      "word": "特朗普",
-      "onboard_time": 1772267605,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 192208,
       "num": 192208,
       "word": "王鹤棣说祝大家永远不死",
@@ -27073,14 +27121,6 @@
       "onboard_time": 1771492279,
       "rank": 46,
       "category": "网红"
-    },
-    {
-      "raw_hot": 190611,
-      "num": 190611,
-      "word": "热巴 换经纪人",
-      "onboard_time": 1772266044,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 190589,
@@ -29059,14 +29099,6 @@
       "category": "民生新闻,游戏"
     },
     {
-      "raw_hot": 174560,
-      "num": 174560,
-      "word": "特朗普称要把伊导弹工业夷为平地",
-      "onboard_time": 1772267304,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 174544,
       "num": 174544,
       "word": "镖人票房趋势",
@@ -30371,6 +30403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164779,
+      "num": 164779,
+      "word": "宁艺卓自曝体重41公斤",
+      "onboard_time": 1772268086,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164753,
       "num": 131890,
       "word": "刘品言抱女儿打牌",
@@ -30921,6 +30961,14 @@
       "onboard_time": 1771924400,
       "rank": 28,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 160156,
+      "num": 182651,
+      "word": "伊朗手机断网",
+      "onboard_time": 1772267545,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 160149,
@@ -32195,19 +32243,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151999,
-      "num": 151999,
-      "word": "以色列 犹大之盾",
-      "onboard_time": 1772267545,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 151976,
       "num": 133059,
       "word": "雷佳音送礼离谱中带着合理",
       "onboard_time": 1770215782,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151976,
+      "num": 151976,
+      "word": "王安宇好明显的暗爽",
+      "onboard_time": 1772268204,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -35433,6 +35481,14 @@
       "onboard_time": 1770766337,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136805,
+      "num": 507705,
+      "word": "美国正从空中和海上打击伊朗",
+      "onboard_time": 1772267664,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136761,
@@ -40379,6 +40435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 117937,
+      "num": 172083,
+      "word": "只有女生才懂找到本命bra的爽感",
+      "onboard_time": 1772268145,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 117928,
       "num": 117928,
       "word": "李乃文抽到了陈哲远的黄金米",
@@ -44483,14 +44547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106772,
-      "num": 182651,
-      "word": "伊朗手机断网",
-      "onboard_time": 1772267545,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 106760,
       "num": 106760,
       "word": "时代少年团行程图",
@@ -44577,14 +44633,6 @@
       "onboard_time": 1770093381,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106580,
-      "num": 504745,
-      "word": "美国正从空中和海上打击伊朗",
-      "onboard_time": 1772267664,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106561,
@@ -53571,6 +53619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88187,
+      "num": 506434,
+      "word": "伊称结局已不再由以色列掌控",
+      "onboard_time": 1772267724,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88161,
       "num": 92772,
       "word": "长胖 下面条理论",
@@ -58425,6 +58481,14 @@
       "onboard_time": 1771408941,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79249,
+      "num": 173238,
+      "word": "张真源哄人这一课已经快博士毕业了",
+      "onboard_time": 1772268625,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 79206,
@@ -63449,14 +63513,6 @@
       "onboard_time": 1771949180,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 67652,
-      "num": 506434,
-      "word": "伊称结局已不再由以色列掌控",
-      "onboard_time": 1772267724,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67637,
@@ -71131,6 +71187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41858,
+      "num": 173526,
+      "word": "柳智敏又瘦了",
+      "onboard_time": 1772268625,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41804,
       "num": 163139,
       "word": "印尼一飞机遭枪击坠毁",
@@ -72529,6 +72593,14 @@
       "onboard_time": 1769968396,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36493,
+      "num": 1610890,
+      "word": "2025我国完成92次宇航发射",
+      "onboard_time": 1772267664,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36490,
@@ -80289,14 +80361,6 @@
       "onboard_time": 1770890780,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10605,
-      "num": 1185807,
-      "word": "2025我国完成92次宇航发射",
-      "onboard_time": 1772267664,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10601,
