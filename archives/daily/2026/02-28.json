@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772246710869,
+  "endTime": 1772252504506,
   "band_list": [
     {
       "raw_hot": 1963546,
@@ -11,7 +11,15 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1063560,
+      "raw_hot": 1666596,
+      "num": 1666596,
+      "word": "2026考研国家线发布",
+      "onboard_time": 1772246843,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1286852,
       "num": 290983,
       "word": "范丞丞方说不认识没交集",
       "onboard_time": 1772236221,
@@ -43,12 +51,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 734797,
+      "num": 251264,
+      "word": "嘉行否认迪丽热巴合约到期",
+      "onboard_time": 1772250202,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 709004,
+      "num": 946505,
+      "word": "男子劝朋友别醉驾走后对方车祸身亡",
+      "onboard_time": 1772249483,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 676364,
       "num": 115919,
       "word": "黄金",
       "onboard_time": 1772199683,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 673354,
+      "num": 673354,
+      "word": "蔡磊已进入渐冻症疾病的终末期",
+      "onboard_time": 1772251044,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 635612,
@@ -91,12 +123,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422329,
+      "num": 422329,
+      "word": "美国对伊朗提了4项要求",
+      "onboard_time": 1772247443,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 417435,
       "num": 417435,
       "word": "伊朗同意不拥有可制造核弹的核材料",
       "onboard_time": 1772237240,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 413554,
+      "num": 413554,
+      "word": "QQ音乐 抢专辑",
+      "onboard_time": 1772250262,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 411378,
+      "num": 411378,
+      "word": "考研下岸了",
+      "onboard_time": 1772251403,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 407443,
@@ -129,6 +185,14 @@
       "onboard_time": 1772241802,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 375164,
+      "num": 246468,
+      "word": "婚后拒同房男方讨说法已涉嫌违法",
+      "onboard_time": 1772251463,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 346359,
@@ -169,6 +233,14 @@
       "onboard_time": 1772208262,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 318547,
+      "num": 240997,
+      "word": "保姆卖雇主名牌包给小三20万",
+      "onboard_time": 1772247562,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 308843,
@@ -219,6 +291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 262874,
+      "num": 217141,
+      "word": "徐志胜当宋妍霏的面接前任电话",
+      "onboard_time": 1772246903,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257492,
       "num": 257492,
       "word": "库迪向王一博致歉",
@@ -241,6 +321,14 @@
       "onboard_time": 1772235319,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 233473,
+      "num": 215778,
+      "word": "金饰价涨到1625元",
+      "onboard_time": 1772248643,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 231862,
@@ -275,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215461,
+      "num": 215461,
+      "word": "魏大勋恋综鲶鱼嘉宾",
+      "onboard_time": 1772250682,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215311,
       "num": 112277,
       "word": "曝敖瑞鹏合约到期不续",
@@ -299,6 +395,30 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 206690,
+      "num": 206690,
+      "word": "谭松韵新剧身世极限反转",
+      "onboard_time": 1772250383,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195219,
+      "num": 195219,
+      "word": "张雪峰谈考研人数减少分数线却涨了",
+      "onboard_time": 1772252484,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 192720,
+      "num": 192720,
+      "word": "TOP登陆少年首张实体专辑",
+      "onboard_time": 1772250982,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188573,
       "num": 188573,
       "word": "管综",
@@ -321,6 +441,22 @@
       "onboard_time": 1772245281,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179178,
+      "num": 179178,
+      "word": "美国企图取消中国最惠国待遇",
+      "onboard_time": 1772249663,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 176784,
+      "num": 176784,
+      "word": "千万网红首上音综紧张到跑调",
+      "onboard_time": 1772250742,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 173331,
@@ -363,12 +499,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157589,
+      "num": 155948,
+      "word": "TOP新专配置",
+      "onboard_time": 1772251642,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148229,
       "num": 148229,
       "word": "年轻人脑梗的危险信号",
       "onboard_time": 1772244503,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141890,
+      "num": 141890,
+      "word": "管综国家线",
+      "onboard_time": 1772248402,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 141648,
+      "num": 141648,
+      "word": "律师解读造谣王一博聊天记录",
+      "onboard_time": 1772247804,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140508,
+      "num": 140508,
+      "word": "考研英语",
+      "onboard_time": 1772252301,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 139120,
+      "num": 139120,
+      "word": "第一个发现这个机位的是天才",
+      "onboard_time": 1772252122,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 138988,
@@ -395,6 +571,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131715,
+      "num": 129769,
+      "word": "反诈老陈借反诈博流量终被流量吞噬",
+      "onboard_time": 1772249663,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129782,
+      "num": 129782,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1772250982,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129757,
+      "num": 129757,
+      "word": "全国最快熟的蔬菜出现了",
+      "onboard_time": 1772252122,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126272,
       "num": 126272,
       "word": "美国双航母已就位",
@@ -409,6 +609,14 @@
       "onboard_time": 1772203823,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118932,
+      "num": 118932,
+      "word": "黄景瑜关晓彤看这段都红温了",
+      "onboard_time": 1772249483,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 117206,
@@ -457,6 +665,14 @@
       "onboard_time": 1772241502,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107807,
+      "num": 107807,
+      "word": "我对豆包的依赖程度",
+      "onboard_time": 1772250322,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 105694,
@@ -659,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71989,
+      "num": 739355,
+      "word": "周鸿祎揭美伪造陈志案证据内幕",
+      "onboard_time": 1772247982,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69372,
       "num": 69372,
       "word": "巴拿马突击搜查中资港口办公室",
@@ -705,6 +929,14 @@
       "onboard_time": 1772235679,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63096,
+      "num": 131522,
+      "word": "沈月在客栈和中餐厅间选了好六",
+      "onboard_time": 1772252122,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 62248,
@@ -755,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55613,
+      "num": 218136,
+      "word": "撞人族是日本特有",
+      "onboard_time": 1772252245,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 53933,
       "num": 53933,
       "word": "朱志鑫直播",
@@ -769,6 +1009,14 @@
       "onboard_time": 1772234236,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 53035,
+      "num": 221156,
+      "word": "WTT大满贯首对非中国混双冠军",
+      "onboard_time": 1772252182,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 52083,
@@ -907,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35646,
+      "num": 219088,
+      "word": "好清爽的王曼昱",
+      "onboard_time": 1772251702,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33736,
       "num": 190813,
       "word": "国乒新加坡大满贯28日赛程",
@@ -945,6 +1201,14 @@
       "onboard_time": 1772234057,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 29445,
+      "num": 133814,
+      "word": "蔡磊说每天吃饭喝水都像战斗",
+      "onboard_time": 1772252301,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27854,
@@ -1027,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15979,
+      "num": 220686,
+      "word": "多国呼吁避免前往伊朗",
+      "onboard_time": 1772252182,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15445,
       "num": 17773,
       "word": "上海彩民守号一年中了3764万",
@@ -1038,6 +1310,9 @@
   "hotgov_list": [
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#习近平的两会时间#"
     }
   ]
 }
