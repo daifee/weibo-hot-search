@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772315028966,
+  "endTime": 1772317898999,
   "band_list": [
     {
       "raw_hot": 993678,
@@ -64,6 +64,14 @@
       "word": "伊朗一小学遭袭51人死60人伤",
       "onboard_time": 1772278044,
       "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 377457,
+      "num": 456243,
+      "word": "哈梅内伊将发表公开讲话",
+      "onboard_time": 1772292684,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -144,14 +152,6 @@
       "word": "伊朗拥有中东最大弹道导弹库存",
       "onboard_time": 1772296401,
       "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 204979,
-      "num": 216980,
-      "word": "哈梅内伊将发表公开讲话",
-      "onboard_time": 1772292684,
-      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47010,
+      "num": 49042,
+      "word": "伊朗总统之子发声",
+      "onboard_time": 1772279843,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43488,
       "num": 135204,
       "word": "孙颖莎和早田希娜赛后说了啥",
@@ -409,6 +417,14 @@
       "onboard_time": 1772284944,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43002,
+      "num": 329142,
+      "word": "玫瑰丛生",
+      "onboard_time": 1772307195,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 39299,
@@ -427,19 +443,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38877,
-      "num": 49042,
-      "word": "伊朗总统之子发声",
-      "onboard_time": 1772279843,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36254,
       "num": 49015,
       "word": "伊朗称大量美以导弹坠落境外",
       "onboard_time": 1772287465,
       "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 34602,
+      "num": 39691,
+      "word": "迪拜再次传出爆炸声",
+      "onboard_time": 1772313014,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -451,19 +467,11 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 33663,
-      "num": 161191,
-      "word": "玫瑰丛生",
-      "onboard_time": 1772307195,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 29115,
-      "num": 30838,
-      "word": "迪拜再次传出爆炸声",
+      "raw_hot": 25515,
+      "num": 37366,
+      "word": "美以袭击伊朗学校现场一片废墟",
       "onboard_time": 1772313014,
-      "rank": 31,
+      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 22007,
-      "num": 34748,
+      "num": 37055,
       "word": "江湖夜雨十年灯",
       "onboard_time": 1772306955,
       "rank": 35,
@@ -508,11 +516,19 @@
     },
     {
       "raw_hot": 18513,
-      "num": 30497,
+      "num": 37212,
       "word": "纯真年代的爱情",
       "onboard_time": 1772279242,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18347,
+      "num": 37273,
+      "word": "肖战说米兰最好吃的是披萨",
+      "onboard_time": 1772308095,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 17377,
@@ -523,16 +539,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15219,
-      "num": 22617,
-      "word": "肖战说米兰最好吃的是披萨",
-      "onboard_time": 1772308095,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 15214,
-      "num": 22783,
+      "raw_hot": 17246,
+      "num": 37140,
       "word": "你好星期六",
       "onboard_time": 1772283145,
       "rank": 45,
