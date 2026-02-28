@@ -1,0 +1,410 @@
+{
+  "runTime": 1772253695834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1520925,
+        "num": 1520925,
+        "word": "蔡磊已进入渐冻症疾病的终末期",
+        "onboard_time": 1772251044,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 860912,
+        "num": 894558,
+        "word": "2026考研国家线发布",
+        "onboard_time": 1772246843,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59991,
+        "num": 736490,
+        "word": "周鸿祎揭美伪造陈志案证据内幕",
+        "onboard_time": 1772247982,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633346,
+        "num": 633346,
+        "word": "男子劝朋友别醉驾走后对方车祸身亡",
+        "onboard_time": 1772249483,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566673,
+        "num": 566673,
+        "word": "考研下岸了",
+        "onboard_time": 1772251403,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 350250,
+        "num": 350250,
+        "word": "小米超跑",
+        "onboard_time": 1772244743,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 317593,
+        "num": 317593,
+        "word": "美国对伊朗提了4项要求",
+        "onboard_time": 1772247443,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309250,
+        "num": 309250,
+        "word": "QQ音乐 抢专辑",
+        "onboard_time": 1772250262,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308332,
+        "num": 308332,
+        "word": "魏大勋恋综鲶鱼嘉宾",
+        "onboard_time": 1772250682,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306735,
+        "num": 306735,
+        "word": "张雪峰谈考研人数减少分数线却涨了",
+        "onboard_time": 1772252484,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1182626,
+        "num": 299619,
+        "word": "范丞丞方说不认识没交集",
+        "onboard_time": 1772236221,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649785,
+        "num": 278848,
+        "word": "嘉行否认迪丽热巴合约到期",
+        "onboard_time": 1772250202,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 608842,
+        "num": 277273,
+        "word": "婚后拒同房男方讨说法已涉嫌违法",
+        "onboard_time": 1772251463,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438794,
+        "num": 261861,
+        "word": "Angelababy37岁了",
+        "onboard_time": 1772236221,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250214,
+        "num": 250214,
+        "word": "国家线 砍一刀",
+        "onboard_time": 1772239462,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232724,
+        "num": 232724,
+        "word": "保姆卖雇主名牌包给小三20万",
+        "onboard_time": 1772247562,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193031,
+        "num": 193031,
+        "word": "近视散光人群开夜车的视角",
+        "onboard_time": 1772241625,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190261,
+        "num": 190261,
+        "word": "第一个发现这个机位的是天才",
+        "onboard_time": 1772252122,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31862,
+        "num": 187984,
+        "word": "男子半夜嘴馋2晚偷300串烤串",
+        "onboard_time": 1772253263,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27541,
+        "num": 187627,
+        "word": "名校留学生扎堆做留学中介",
+        "onboard_time": 1772253203,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203132,
+        "num": 187623,
+        "word": "金饰价涨到1625元",
+        "onboard_time": 1772248643,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187427,
+        "num": 187427,
+        "word": "徐志胜当宋妍霏的面接前任电话",
+        "onboard_time": 1772246903,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182734,
+        "num": 182734,
+        "word": "TOP新专配置",
+        "onboard_time": 1772251642,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173010,
+        "num": 173010,
+        "word": "考研查分",
+        "onboard_time": 1772236820,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174764,
+        "num": 171820,
+        "word": "谭松韵新剧身世极限反转",
+        "onboard_time": 1772250383,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63915,
+        "num": 170595,
+        "word": "官方通报去政府部门借厕所遭辱骂",
+        "onboard_time": 1772253445,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 169936,
+        "num": 169936,
+        "word": "人不能从事长期有紧张感的工作",
+        "onboard_time": 1772241802,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165090,
+        "num": 165090,
+        "word": "迪丽热巴个人工作室",
+        "onboard_time": 1772244082,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159774,
+        "num": 159774,
+        "word": "TOP登陆少年首张实体专辑",
+        "onboard_time": 1772250982,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158839,
+        "num": 158839,
+        "word": "撞人族是日本特有",
+        "onboard_time": 1772252245,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152390,
+        "num": 152390,
+        "word": "肖战Gucci大秀下班",
+        "onboard_time": 1772240243,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147681,
+        "num": 147681,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1772250982,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147306,
+        "num": 147306,
+        "word": "郭晓婷王天辰第二十八年春",
+        "onboard_time": 1772241384,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33516,
+        "num": 147020,
+        "word": "多国呼吁避免前往伊朗",
+        "onboard_time": 1772252182,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146744,
+        "num": 146744,
+        "word": "千万网红首上音综紧张到跑调",
+        "onboard_time": 1772250742,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142810,
+        "num": 142810,
+        "word": "伊朗同意不拥有可制造核弹的核材料",
+        "onboard_time": 1772237240,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130673,
+        "num": 130673,
+        "word": "美国企图取消中国最惠国待遇",
+        "onboard_time": 1772249663,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128478,
+        "num": 128478,
+        "word": "全国最快熟的蔬菜出现了",
+        "onboard_time": 1772252122,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128430,
+        "num": 128430,
+        "word": "网友建议每年免费5000公里专家回应",
+        "onboard_time": 1772245763,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116323,
+        "num": 116323,
+        "word": "黄景瑜关晓彤看这段都红温了",
+        "onboard_time": 1772249483,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116227,
+        "num": 116227,
+        "word": "十个勤天 开工",
+        "onboard_time": 1772244442,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111447,
+        "num": 111447,
+        "word": "巴厘岛发现人体肢解遗骸",
+        "onboard_time": 1772253563,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52091,
+        "num": 110611,
+        "word": "WTT大满贯首对非中国混双冠军",
+        "onboard_time": 1772252182,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111962,
+        "num": 110544,
+        "word": "律师解读造谣王一博聊天记录",
+        "onboard_time": 1772247804,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110090,
+        "num": 110090,
+        "word": "人怎么能说出这么有生命力的话",
+        "onboard_time": 1772252722,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106764,
+        "num": 106764,
+        "word": "管综国家线",
+        "onboard_time": 1772248402,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102660,
+        "num": 102660,
+        "word": "2岁女孩患癌花光积蓄妈妈离家出走",
+        "onboard_time": 1772253143,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102222,
+        "num": 102222,
+        "word": "23岁研究生胃癌晚期称作息不规律",
+        "onboard_time": 1772211857,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101252,
+        "num": 101252,
+        "word": "反诈老陈借反诈博流量终被流量吞噬",
+        "onboard_time": 1772249663,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94538,
+        "num": 94538,
+        "word": "行程图",
+        "onboard_time": 1772245281,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

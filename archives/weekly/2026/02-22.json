@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772252504506,
+  "endTime": 1772253695834,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -203,6 +203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1520925,
+      "num": 1520925,
+      "word": "蔡磊已进入渐冻症疾病的终末期",
+      "onboard_time": 1772251044,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1498982,
       "num": 710580,
       "word": "妈祖被换女孩三天涨粉几十万",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 1286852,
-      "num": 290983,
+      "num": 299619,
       "word": "范丞丞方说不认识没交集",
       "onboard_time": 1772236221,
       "rank": 10,
@@ -916,7 +924,7 @@
     },
     {
       "raw_hot": 734797,
-      "num": 251264,
+      "num": 278848,
       "word": "嘉行否认迪丽热巴合约到期",
       "onboard_time": 1772250202,
       "rank": 11,
@@ -1105,14 +1113,6 @@
       "onboard_time": 1771996701,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 673354,
-      "num": 673354,
-      "word": "蔡磊已进入渐冻症疾病的终末期",
-      "onboard_time": 1772251044,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 671850,
@@ -1323,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 608842,
+      "num": 277273,
+      "word": "婚后拒同房男方讨说法已涉嫌违法",
+      "onboard_time": 1772251463,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 604995,
       "num": 1096799,
       "word": "谷爱凌晒奶奶戴奖牌合照",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1771929503,
       "rank": 13,
       "category": "数码,财经"
+    },
+    {
+      "raw_hot": 566673,
+      "num": 566673,
+      "word": "考研下岸了",
+      "onboard_time": 1772251403,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 564234,
@@ -2587,14 +2603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411378,
-      "num": 411378,
-      "word": "考研下岸了",
-      "onboard_time": 1772251403,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 411183,
       "num": 817636,
       "word": "四六级查分",
@@ -2944,14 +2952,6 @@
       "word": "父亲遇3岁儿子坠楼下意识伸手接",
       "onboard_time": 1771768106,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 375164,
-      "num": 246468,
-      "word": "婚后拒同房男方讨说法已涉嫌违法",
-      "onboard_time": 1772251463,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -3699,6 +3699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308332,
+      "num": 308332,
+      "word": "魏大勋恋综鲶鱼嘉宾",
+      "onboard_time": 1772250682,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308077,
       "num": 105693,
       "word": "吴佳尼被认识3天的富二代求婚",
@@ -3737,6 +3745,14 @@
       "onboard_time": 1772113161,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 306735,
+      "num": 306735,
+      "word": "张雪峰谈考研人数减少分数线却涨了",
+      "onboard_time": 1772252484,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 306199,
@@ -5715,14 +5731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215461,
-      "num": 215461,
-      "word": "魏大勋恋综鲶鱼嘉宾",
-      "onboard_time": 1772250682,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215311,
       "num": 173442,
       "word": "曝敖瑞鹏合约到期不续",
@@ -6139,14 +6147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 195219,
-      "num": 195219,
-      "word": "张雪峰谈考研人数减少分数线却涨了",
-      "onboard_time": 1772252484,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 195042,
       "num": 195042,
       "word": "大理4公里拖车费1400元",
@@ -6321,6 +6321,14 @@
       "onboard_time": 1771688481,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190261,
+      "num": 190261,
+      "word": "第一个发现这个机位的是天才",
+      "onboard_time": 1772252122,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 190024,
@@ -6601,6 +6609,14 @@
       "onboard_time": 1772147297,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 182734,
+      "num": 182734,
+      "word": "TOP新专配置",
+      "onboard_time": 1772251642,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 182733,
@@ -7419,6 +7435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158839,
+      "num": 218136,
+      "word": "撞人族是日本特有",
+      "onboard_time": 1772252245,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 158804,
       "num": 130232,
       "word": "端王是世界上第一个接触EXO概念的",
@@ -7448,14 +7472,6 @@
       "word": "金秋天solo曲Odd",
       "onboard_time": 1771840040,
       "rank": 17,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 157589,
-      "num": 155948,
-      "word": "TOP新专配置",
-      "onboard_time": 1772251642,
-      "rank": 33,
       "category": "音乐"
     },
     {
@@ -7809,6 +7825,14 @@
       "onboard_time": 1771939942,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147681,
+      "num": 147681,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1772250982,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 147450,
@@ -8353,14 +8377,6 @@
       "onboard_time": 1771816819,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139120,
-      "num": 139120,
-      "word": "第一个发现这个机位的是天才",
-      "onboard_time": 1772252122,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 139106,
@@ -8913,14 +8929,6 @@
       "onboard_time": 1772186541,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129782,
-      "num": 129782,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1772250982,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 129757,
@@ -10259,6 +10267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111447,
+      "num": 111447,
+      "word": "巴厘岛发现人体肢解遗骸",
+      "onboard_time": 1772253563,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 111441,
       "num": 103366,
       "word": "吴京真演上燕子娘了",
@@ -10377,6 +10393,14 @@
       "onboard_time": 1771717037,
       "rank": 28,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 110090,
+      "num": 110090,
+      "word": "人怎么能说出这么有生命力的话",
+      "onboard_time": 1772252722,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 110033,
@@ -11217,6 +11241,14 @@
       "onboard_time": 1772178261,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102660,
+      "num": 102660,
+      "word": "2岁女孩患癌花光积蓄妈妈离家出走",
+      "onboard_time": 1772253143,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102598,
@@ -15371,6 +15403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63915,
+      "num": 170595,
+      "word": "官方通报去政府部门借厕所遭辱骂",
+      "onboard_time": 1772253445,
+      "rank": 25,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 63698,
       "num": 63698,
       "word": "不要失去对微小幸福的感知力",
@@ -15873,14 +15913,6 @@
       "onboard_time": 1771686622,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55613,
-      "num": 218136,
-      "word": "撞人族是日本特有",
-      "onboard_time": 1772252245,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 55577,
@@ -17067,6 +17099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33516,
+      "num": 220686,
+      "word": "多国呼吁避免前往伊朗",
+      "onboard_time": 1772252182,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33477,
       "num": 40357,
       "word": "被猫咪带大的萨摩耶",
@@ -17120,6 +17160,14 @@
       "word": "春运前20天预计流动量超50亿人次",
       "onboard_time": 1771731680,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31862,
+      "num": 187984,
+      "word": "男子半夜嘴馋2晚偷300串烤串",
+      "onboard_time": 1772253263,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -17344,6 +17392,14 @@
       "word": "被帮扶男孩戴千元手表其父精神残疾",
       "onboard_time": 1772184740,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27541,
+      "num": 187627,
+      "word": "名校留学生扎堆做留学中介",
+      "onboard_time": 1772253203,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -18121,14 +18177,6 @@
       "onboard_time": 1771945701,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15979,
-      "num": 220686,
-      "word": "多国呼吁避免前往伊朗",
-      "onboard_time": 1772252182,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15688,
