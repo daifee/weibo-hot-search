@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772257164417,
+  "endTime": 1772258209308,
   "band_list": [
     {
       "raw_hot": 1963546,
@@ -99,6 +99,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 573261,
+      "num": 573261,
+      "word": "山姆部分产品大降价",
+      "onboard_time": 1772256501,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 572704,
+      "num": 230559,
+      "word": "黄子韬因喘不上气暂停节目录制",
+      "onboard_time": 1772256142,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566673,
       "num": 566673,
       "word": "考研下岸了",
@@ -124,11 +140,19 @@
     },
     {
       "raw_hot": 503263,
-      "num": 133337,
+      "num": 143770,
       "word": "巴厘岛发现人体肢解遗骸",
       "onboard_time": 1772253563,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 487014,
+      "num": 487014,
+      "word": "跑男",
+      "onboard_time": 1772254763,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 485504,
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 437436,
-      "num": 380948,
+      "num": 381244,
       "word": "第一个发现这个机位的是天才",
       "onboard_time": 1772252122,
       "rank": 38,
@@ -307,14 +331,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 293970,
-      "num": 293970,
-      "word": "跑男",
-      "onboard_time": 1772254763,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287632,
       "num": 287632,
       "word": "反诈老陈因多次违规被罚",
@@ -355,8 +371,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250153,
+      "num": 142100,
+      "word": "周大福镶金发夹卖2080元",
+      "onboard_time": 1772255003,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246727,
-      "num": 138371,
+      "num": 191581,
       "word": "肖战绕到车前给粉丝挥手",
       "onboard_time": 1772254041,
       "rank": 15,
@@ -379,6 +403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 240143,
+      "num": 240143,
+      "word": "花海退役仪式",
+      "onboard_time": 1772256142,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 233473,
       "num": 215778,
       "word": "金饰价涨到1625元",
@@ -393,14 +425,6 @@
       "onboard_time": 1772207781,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 225307,
-      "num": 133172,
-      "word": "周大福镶金发夹卖2080元",
-      "onboard_time": 1772255003,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222350,
@@ -459,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198475,
-      "num": 136880,
-      "word": "黄子韬因喘不上气暂停节目录制",
-      "onboard_time": 1772256142,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 198097,
+      "num": 136932,
+      "word": "王健林20亿售出上海项目",
+      "onboard_time": 1772255121,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 192720,
@@ -539,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168356,
-      "num": 132162,
-      "word": "王健林20亿售出上海项目",
-      "onboard_time": 1772255121,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 168093,
       "num": 114848,
       "word": "高市早苗反对女天皇",
@@ -579,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154976,
+      "num": 154976,
+      "word": "李诚儒吐槽繁花的商战都太假",
+      "onboard_time": 1772256621,
+      "rank": 17,
+      "category": "综艺,剧集"
+    },
+    {
       "raw_hot": 148229,
       "num": 148229,
       "word": "年轻人脑梗的危险信号",
@@ -603,20 +627,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140672,
+      "num": 123826,
+      "word": "金花婆婆说刘晓庆刚出道被所有人欺负",
+      "onboard_time": 1772256023,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140508,
       "num": 140508,
       "word": "考研英语",
       "onboard_time": 1772252301,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 139556,
-      "num": 139556,
-      "word": "山姆部分产品大降价",
-      "onboard_time": 1772256501,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138988,
@@ -667,20 +691,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127313,
-      "num": 127313,
-      "word": "花海退役仪式",
-      "onboard_time": 1772256142,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126272,
       "num": 126272,
       "word": "美国双航母已就位",
       "onboard_time": 1772199323,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123533,
+      "num": 123533,
+      "word": "雷霆掘金冲突",
+      "onboard_time": 1772257282,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 121485,
@@ -721,6 +745,14 @@
       "onboard_time": 1772193141,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115747,
+      "num": 134026,
+      "word": "王曼昱4比2张本美和",
+      "onboard_time": 1772256082,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 111688,
@@ -779,6 +811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 104386,
+      "num": 104386,
+      "word": "一直娱崩了",
+      "onboard_time": 1772257462,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104292,
       "num": 104292,
       "word": "硅谷最贵华人被OpenAI挖走",
@@ -819,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100503,
+      "num": 100503,
+      "word": "睡眠不足会夺走人的温柔",
+      "onboard_time": 1772257282,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100298,
       "num": 100298,
       "word": "黄金白银又涨爆了",
@@ -843,12 +891,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98653,
+      "num": 98653,
+      "word": "邓超借粉终于借到孙俪的了",
+      "onboard_time": 1772257102,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98435,
       "num": 98435,
       "word": "全红婵直播澄清自己没有不学习",
       "onboard_time": 1772236278,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96344,
+      "num": 96344,
+      "word": "久坐的人喝咖啡受益更大",
+      "onboard_time": 1772257582,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95170,
@@ -867,14 +931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93828,
-      "num": 134026,
-      "word": "王曼昱4比2张本美和",
-      "onboard_time": 1772256082,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92788,
       "num": 92788,
       "word": "ColorWalk 人类丰容",
@@ -883,12 +939,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 90635,
-      "num": 90635,
-      "word": "邓超借粉终于借到孙俪的了",
-      "onboard_time": 1772257102,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 91779,
+      "num": 90189,
+      "word": "电影镖人",
+      "onboard_time": 1772258181,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 90562,
@@ -905,6 +961,22 @@
       "onboard_time": 1772236339,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 89536,
+      "num": 89536,
+      "word": "林诗栋vsF勒布伦",
+      "onboard_time": 1772257342,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89367,
+      "num": 89367,
+      "word": "春天认识一些花",
+      "onboard_time": 1772258061,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 89347,
@@ -937,6 +1009,14 @@
       "onboard_time": 1772237660,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 86538,
+      "num": 86538,
+      "word": "女性可以这么做俯卧撑",
+      "onboard_time": 1772258181,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 86501,
@@ -977,6 +1057,22 @@
       "onboard_time": 1772197161,
       "rank": 9,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 82672,
+      "num": 82672,
+      "word": "牡丹楼 麦当劳",
+      "onboard_time": 1772255603,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 82457,
+      "num": 82457,
+      "word": "王曼昱12比14张本美和",
+      "onboard_time": 1772257882,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 80671,
@@ -1171,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51651,
+      "num": 94211,
+      "word": "导演不喊cut黄景瑜能一直演",
+      "onboard_time": 1772254703,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51577,
       "num": 51577,
       "word": "苏新皓突袭直播",
@@ -1243,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48771,
+      "num": 150435,
+      "word": "北大女生毕业后转行当短剧演员",
+      "onboard_time": 1772257282,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48582,
       "num": 46546,
       "word": "美伊对峙",
@@ -1273,6 +1385,14 @@
       "onboard_time": 1772235259,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38127,
+      "num": 153240,
+      "word": "潮汕爆火后遭避雷本地网友叫屈",
+      "onboard_time": 1772257462,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37397,
