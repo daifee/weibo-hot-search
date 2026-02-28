@@ -1,0 +1,410 @@
+{
+  "runTime": 1772274788843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6824752,
+        "num": 6824752,
+        "word": "以色列宣布袭击伊朗",
+        "onboard_time": 1772260103,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 628165,
+        "num": 1507233,
+        "word": "山姆520元巧克力降到99元",
+        "onboard_time": 1772270905,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31120,
+        "num": 1248045,
+        "word": "2025我国完成92次宇航发射",
+        "onboard_time": 1772267664,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1244404,
+        "num": 1244404,
+        "word": "伊朗正在打击美国军事基地",
+        "onboard_time": 1772272764,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 529723,
+        "num": 529723,
+        "word": "何凯文英语分数",
+        "onboard_time": 1772273964,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 482225,
+        "num": 482225,
+        "word": "李治廷 十日终焉",
+        "onboard_time": 1772273361,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403649,
+        "num": 403649,
+        "word": "一点点 植脂末",
+        "onboard_time": 1772270604,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296813,
+        "num": 296813,
+        "word": "大熊猫半半香果离世",
+        "onboard_time": 1772274324,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290515,
+        "num": 290515,
+        "word": "德国总理从中国回去后急了",
+        "onboard_time": 1772258661,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250083,
+        "num": 250083,
+        "word": "巴基斯坦飞行员被俘虏",
+        "onboard_time": 1772273964,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 726195,
+        "num": 249477,
+        "word": "突然对1g黄金没概念了",
+        "onboard_time": 1772271863,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 644649,
+        "num": 247462,
+        "word": "金价",
+        "onboard_time": 1772262625,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 243535,
+        "num": 246626,
+        "word": "王健林已卖掉80多座万达广场",
+        "onboard_time": 1772272944,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 418181,
+        "num": 244875,
+        "word": "伊朗正准备毁灭性报复行动",
+        "onboard_time": 1772265144,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243887,
+        "num": 243887,
+        "word": "小米YU9",
+        "onboard_time": 1772267845,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 334837,
+        "num": 241498,
+        "word": "伊朗又一轮导弹射向以色列",
+        "onboard_time": 1772270965,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231100,
+        "num": 231100,
+        "word": "孟子义李昀锐综艺",
+        "onboard_time": 1772263945,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285300,
+        "num": 229170,
+        "word": "阿联酋传出爆炸声",
+        "onboard_time": 1772270485,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225838,
+        "num": 225838,
+        "word": "方穆静提离婚",
+        "onboard_time": 1772269045,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258013,
+        "num": 225705,
+        "word": "美第五舰队服务中心遭导弹袭击",
+        "onboard_time": 1772272525,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 420014,
+        "num": 225086,
+        "word": "赛琳娜力挺老公",
+        "onboard_time": 1772272045,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2478008,
+        "num": 224537,
+        "word": "伊朗陆军总司令身亡",
+        "onboard_time": 1772269585,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341290,
+        "num": 224108,
+        "word": "TOP和谷爱凌合照",
+        "onboard_time": 1772270664,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 283872,
+        "num": 223800,
+        "word": "曝迪丽热巴签约天伊娱乐",
+        "onboard_time": 1772260223,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291613,
+        "num": 223650,
+        "word": "特朗普称等行动结束接管伊朗政府",
+        "onboard_time": 1772272764,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223226,
+        "num": 223226,
+        "word": "伊朗 卡塔尔",
+        "onboard_time": 1772274264,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206610,
+        "num": 206610,
+        "word": "我家那小子",
+        "onboard_time": 1772271204,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205485,
+        "num": 205485,
+        "word": "沙特首都传出爆炸声",
+        "onboard_time": 1772273304,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197389,
+        "num": 197389,
+        "word": "王皓赛后生气了",
+        "onboard_time": 1772268564,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18078,
+        "num": 196291,
+        "word": "美伊70年恩怨情仇时间线",
+        "onboard_time": 1772274025,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195471,
+        "num": 195471,
+        "word": "伊朗袭击科威特美军基地",
+        "onboard_time": 1772274204,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194827,
+        "num": 194827,
+        "word": "嘉行否认迪丽热巴签约天伊娱乐",
+        "onboard_time": 1772271443,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184171,
+        "num": 184171,
+        "word": "王楚钦好好好我不挑战了",
+        "onboard_time": 1772269164,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180546,
+        "num": 180546,
+        "word": "伊朗第三轮导弹袭击",
+        "onboard_time": 1772271565,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 162170,
+        "num": 162170,
+        "word": "TF家族全员运动会 澳门",
+        "onboard_time": 1772264844,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160548,
+        "num": 160548,
+        "word": "伊朗报复行动没有任何红线",
+        "onboard_time": 1772271086,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145125,
+        "num": 145125,
+        "word": "一点点回应",
+        "onboard_time": 1772258721,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137395,
+        "num": 137395,
+        "word": "范丞丞方说不认识没交集",
+        "onboard_time": 1772236221,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11907,
+        "num": 133456,
+        "word": "这样的原生家庭难怪它要去流浪",
+        "onboard_time": 1772273064,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130104,
+        "num": 130104,
+        "word": "芒果还是不肯放过这个草莓发卡",
+        "onboard_time": 1772274624,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121032,
+        "num": 121032,
+        "word": "Hero对战JDG",
+        "onboard_time": 1772273786,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137067,
+        "num": 119894,
+        "word": "66岁的倪萍被63岁的张凯丽喊妈",
+        "onboard_time": 1772273964,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117259,
+        "num": 117259,
+        "word": "特朗普表示将彻底摧毁伊朗海军",
+        "onboard_time": 1772266582,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109848,
+        "num": 109848,
+        "word": "KPL",
+        "onboard_time": 1772272645,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108832,
+        "num": 108832,
+        "word": "TOP专辑",
+        "onboard_time": 1772274684,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106573,
+        "num": 106573,
+        "word": "巴林美军基地所在地巨大爆炸声",
+        "onboard_time": 1772271683,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104218,
+        "num": 104218,
+        "word": "Angelababy紫瞳",
+        "onboard_time": 1772274684,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101067,
+        "num": 101067,
+        "word": "迟到的同事遇到了早退的同事",
+        "onboard_time": 1772274684,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129030,
+        "num": 101047,
+        "word": "以媒称伊朗不会预料到在白天遭袭",
+        "onboard_time": 1772272825,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101025,
+        "num": 101025,
+        "word": "王楚钦撒娇使劲了使劲了",
+        "onboard_time": 1772273664,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持从实际出发按规律办事#"
+    }
+  }
+}

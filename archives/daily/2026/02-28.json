@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772272103338,
+  "endTime": 1772274788843,
   "band_list": [
     {
       "raw_hot": 8807134,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1244404,
+      "num": 1244404,
+      "word": "伊朗正在打击美国军事基地",
+      "onboard_time": 1772272764,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 983169,
       "num": 983169,
       "word": "等国家线",
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726195,
+      "num": 320674,
+      "word": "突然对1g黄金没概念了",
+      "onboard_time": 1772271863,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 709004,
       "num": 946505,
       "word": "男子劝朋友别醉驾走后对方车祸身亡",
@@ -201,6 +217,14 @@
       "onboard_time": 1772241384,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 628165,
+      "num": 1507233,
+      "word": "山姆520元巧克力降到99元",
+      "onboard_time": 1772270905,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 608842,
@@ -275,6 +299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 529723,
+      "num": 529723,
+      "word": "何凯文英语分数",
+      "onboard_time": 1772273964,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 522640,
       "num": 376907,
       "word": "以色列对伊朗发动二次袭击",
@@ -339,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 482225,
+      "num": 482225,
+      "word": "李治廷 十日终焉",
+      "onboard_time": 1772273361,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460997,
       "num": 282045,
       "word": "Angelababy37岁了",
@@ -395,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 420014,
+      "num": 225086,
+      "word": "赛琳娜力挺老公",
+      "onboard_time": 1772272045,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417435,
       "num": 417435,
       "word": "伊朗同意不拥有可制造核弹的核材料",
@@ -419,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 404246,
-      "num": 320674,
-      "word": "突然对1g黄金没概念了",
-      "onboard_time": 1772271863,
-      "rank": 12,
-      "category": "财经"
+      "raw_hot": 403649,
+      "num": 403649,
+      "word": "一点点 植脂末",
+      "onboard_time": 1772270604,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 399842,
@@ -475,14 +523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 378225,
-      "num": 378225,
-      "word": "山姆520元巧克力降到99元",
-      "onboard_time": 1772270905,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 365856,
       "num": 264527,
       "word": "韩国演员林周焕在物流中心搬货",
@@ -523,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341290,
+      "num": 235779,
+      "word": "TOP和谷爱凌合照",
+      "onboard_time": 1772270664,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 341098,
       "num": 341098,
       "word": "小米汽车预告图",
       "onboard_time": 1772242763,
       "rank": 7,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 334837,
+      "num": 314521,
+      "word": "伊朗又一轮导弹射向以色列",
+      "onboard_time": 1772270965,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 334329,
@@ -595,14 +651,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 314521,
-      "num": 314521,
-      "word": "伊朗又一轮导弹射向以色列",
-      "onboard_time": 1772270965,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 311648,
       "num": 265285,
       "word": "关晓彤漂亮得像洋娃娃一样",
@@ -651,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300575,
-      "num": 174529,
-      "word": "赛琳娜力挺老公",
-      "onboard_time": 1772272045,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298008,
       "num": 298008,
       "word": "我家那小子",
@@ -675,12 +715,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 291672,
-      "num": 291672,
-      "word": "一点点 植脂末",
-      "onboard_time": 1772270604,
-      "rank": 45,
+      "raw_hot": 296813,
+      "num": 296813,
+      "word": "大熊猫半半香果离世",
+      "onboard_time": 1772274324,
+      "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291613,
+      "num": 223650,
+      "word": "特朗普称等行动结束接管伊朗政府",
+      "onboard_time": 1772272764,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 287632,
@@ -723,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258013,
+      "num": 225705,
+      "word": "美第五舰队服务中心遭导弹袭击",
+      "onboard_time": 1772272525,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257492,
       "num": 257492,
       "word": "库迪向王一博致歉",
@@ -763,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250083,
+      "num": 250083,
+      "word": "巴基斯坦飞行员被俘虏",
+      "onboard_time": 1772273964,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 249635,
       "num": 460994,
       "word": "王楚钦看林诗栋比赛摇头叹气",
@@ -787,20 +851,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243535,
+      "num": 246626,
+      "word": "王健林已卖掉80多座万达广场",
+      "onboard_time": 1772272944,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 241908,
       "num": 112521,
       "word": "全球第一大毒贩被毙引发大规模报复",
       "onboard_time": 1772235319,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 235779,
-      "num": 235779,
-      "word": "TOP和谷爱凌合照",
-      "onboard_time": 1772270664,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 233473,
@@ -833,6 +897,14 @@
       "onboard_time": 1772269164,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223226,
+      "num": 223226,
+      "word": "伊朗 卡塔尔",
+      "onboard_time": 1772274264,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 222686,
@@ -923,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205485,
+      "num": 205485,
+      "word": "沙特首都传出爆炸声",
+      "onboard_time": 1772273304,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 203050,
       "num": 203050,
       "word": "嘉行否认迪丽热巴签约天伊娱乐",
@@ -984,6 +1064,14 @@
       "word": "直播关注伊朗局势",
       "onboard_time": 1772264064,
       "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 195471,
+      "num": 195471,
+      "word": "伊朗袭击科威特美军基地",
+      "onboard_time": 1772274204,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -1051,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180546,
+      "num": 180546,
+      "word": "伊朗第三轮导弹袭击",
+      "onboard_time": 1772271565,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 179178,
       "num": 179178,
       "word": "美国企图取消中国最惠国待遇",
@@ -1097,14 +1193,6 @@
       "onboard_time": 1772250742,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175885,
-      "num": 175885,
-      "word": "伊朗第三轮导弹袭击",
-      "onboard_time": 1772271565,
-      "rank": 29,
-      "category": "军事"
     },
     {
       "raw_hot": 175479,
@@ -1355,6 +1443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137067,
+      "num": 119894,
+      "word": "66岁的倪萍被63岁的张凯丽喊妈",
+      "onboard_time": 1772273964,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137059,
       "num": 137059,
       "word": "当妈妈把欧洲特产蒸了后",
@@ -1403,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130104,
+      "num": 130104,
+      "word": "芒果还是不肯放过这个草莓发卡",
+      "onboard_time": 1772274624,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129757,
       "num": 129757,
       "word": "全国最快熟的蔬菜出现了",
@@ -1417,6 +1521,14 @@
       "onboard_time": 1772271264,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 129030,
+      "num": 101047,
+      "word": "以媒称伊朗不会预料到在白天遭袭",
+      "onboard_time": 1772272825,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127060,
@@ -1449,6 +1561,14 @@
       "onboard_time": 1772203823,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121032,
+      "num": 121032,
+      "word": "Hero对战JDG",
+      "onboard_time": 1772273786,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 120632,
@@ -1531,6 +1651,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109848,
+      "num": 109848,
+      "word": "KPL",
+      "onboard_time": 1772272645,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 108832,
+      "num": 108832,
+      "word": "TOP专辑",
+      "onboard_time": 1772274684,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 108386,
       "num": 108386,
       "word": "姐姐姐夫加起来的戏份还没广告长",
@@ -1603,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104218,
+      "num": 104218,
+      "word": "Angelababy紫瞳",
+      "onboard_time": 1772274684,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103665,
       "num": 103665,
       "word": "掘金vs雷霆",
@@ -1632,6 +1776,22 @@
       "word": "王曼昱张本美和爆分",
       "onboard_time": 1772264725,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101067,
+      "num": 101067,
+      "word": "迟到的同事遇到了早退的同事",
+      "onboard_time": 1772274684,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101025,
+      "num": 101025,
+      "word": "王楚钦撒娇使劲了使劲了",
+      "onboard_time": 1772273664,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2467,6 +2627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18078,
+      "num": 196291,
+      "word": "美伊70年恩怨情仇时间线",
+      "onboard_time": 1772274025,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18024,
       "num": 24278,
       "word": "亲爱的客栈",
@@ -2513,6 +2681,14 @@
       "onboard_time": 1772271924,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11907,
+      "num": 133456,
+      "word": "这样的原生家庭难怪它要去流浪",
+      "onboard_time": 1772273064,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 8472,
