@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772278107911,
+  "endTime": 1772278939147,
   "band_list": [
     {
       "raw_hot": 8807134,
@@ -91,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1247790,
+      "num": 479974,
+      "word": "椰树广告 擦边",
+      "onboard_time": 1772275884,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1244404,
       "num": 1244404,
       "word": "伊朗正在打击美国军事基地",
       "onboard_time": 1772272764,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1235435,
-      "num": 479974,
-      "word": "椰树广告 擦边",
-      "onboard_time": 1772275884,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 983169,
@@ -355,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 521880,
+      "num": 521880,
+      "word": "伊朗启动大规模军事行动",
+      "onboard_time": 1772276783,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 518553,
       "num": 541118,
       "word": "王楚钦再次成功挑战鹰眼",
@@ -411,12 +419,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 470566,
-      "num": 470566,
-      "word": "伊朗启动大规模军事行动",
-      "onboard_time": 1772276783,
-      "rank": 12,
-      "category": "国际时政"
+      "raw_hot": 468472,
+      "num": 251915,
+      "word": "网传跑男铁了心要国民cp",
+      "onboard_time": 1772276964,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 460997,
@@ -481,14 +489,6 @@
       "onboard_time": 1772272045,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 417904,
-      "num": 251915,
-      "word": "网传跑男铁了心要国民cp",
-      "onboard_time": 1772276964,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 417435,
@@ -601,6 +601,14 @@
       "onboard_time": 1772273964,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 350940,
+      "num": 350940,
+      "word": "前额叶损伤",
+      "onboard_time": 1772274984,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 350107,
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 301745,
-      "num": 167692,
+      "num": 480194,
       "word": "美颜突然关掉吓得人一哆嗦",
       "onboard_time": 1772276184,
       "rank": 30,
@@ -817,14 +825,6 @@
       "onboard_time": 1772265144,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 267768,
-      "num": 267768,
-      "word": "前额叶损伤",
-      "onboard_time": 1772274984,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 263322,
@@ -940,7 +940,7 @@
     },
     {
       "raw_hot": 241359,
-      "num": 494592,
+      "num": 632794,
       "word": "陈熠4比0陈幸同",
       "onboard_time": 1772277382,
       "rank": 8,
@@ -1059,6 +1059,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 207202,
+      "num": 207202,
+      "word": "伊朗一学校5名学生遇袭身亡",
+      "onboard_time": 1772275643,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 206690,
       "num": 206690,
       "word": "谭松韵新剧身世极限反转",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1772271443,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201787,
+      "num": 173269,
+      "word": "TOP专辑",
+      "onboard_time": 1772274684,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 200177,
@@ -1267,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175502,
-      "num": 175502,
-      "word": "伊朗一学校5名学生遇袭身亡",
-      "onboard_time": 1772275643,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 175479,
       "num": 194900,
       "word": "人民币涨得太快央行踩刹车",
@@ -1355,12 +1363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164497,
-      "num": 164497,
-      "word": "TOP专辑",
-      "onboard_time": 1772274684,
-      "rank": 44,
-      "category": "音乐"
+      "raw_hot": 165750,
+      "num": 174581,
+      "word": "伊朗一小学遭导弹袭击24人死亡",
+      "onboard_time": 1772278044,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164490,
@@ -1643,6 +1651,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 129350,
+      "num": 256439,
+      "word": "美国太空部队前往伊朗行动",
+      "onboard_time": 1772277262,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 129073,
+      "num": 129073,
+      "word": "小米YU7GT无伪装车谍照曝光",
+      "onboard_time": 1772278763,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 129030,
       "num": 101047,
       "word": "以媒称伊朗不会预料到在白天遭袭",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1772199323,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123832,
+      "num": 123832,
+      "word": "花海教练",
+      "onboard_time": 1772278524,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 123533,
@@ -1724,7 +1756,7 @@
     },
     {
       "raw_hot": 119851,
-      "num": 119851,
+      "num": 129992,
       "word": "买3条金项链一夜赚超2.3万元",
       "onboard_time": 1772277445,
       "rank": 47,
@@ -1779,12 +1811,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114177,
+      "num": 114177,
+      "word": "桃黑黑 男神大赛别投我了",
+      "onboard_time": 1772270545,
+      "rank": 45,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 111688,
       "num": 111688,
       "word": "商务座乘客年后退回穿脏女装忘掏兜",
       "onboard_time": 1772243063,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111027,
+      "num": 111027,
+      "word": "无畏赵怀真辅助",
+      "onboard_time": 1772278825,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 110090,
@@ -1835,19 +1883,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107759,
-      "num": 256439,
-      "word": "美国太空部队前往伊朗行动",
-      "onboard_time": 1772277262,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 106983,
       "num": 294851,
       "word": "伊朗总统安全无事",
       "onboard_time": 1772270065,
       "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 105948,
+      "num": 105948,
+      "word": "伊朗公告发5点提醒",
+      "onboard_time": 1772278524,
+      "rank": 49,
       "category": "国际时政"
     },
     {
@@ -2515,6 +2563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48391,
+      "num": 125691,
+      "word": "公认是烂片你却很喜欢的电影",
+      "onboard_time": 1772278883,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47186,
       "num": 47186,
       "word": "我驻伊朗大使馆郑重提醒",
@@ -2699,6 +2755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30548,
+      "num": 133573,
+      "word": "AI种地已经发展成这样了",
+      "onboard_time": 1772278044,
+      "rank": 39,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 30485,
       "num": 226812,
       "word": "免费体检后花了20万报告竟是假的",
@@ -2713,14 +2777,6 @@
       "onboard_time": 1772252301,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28050,
-      "num": 133573,
-      "word": "AI种地已经发展成这样了",
-      "onboard_time": 1772278044,
-      "rank": 39,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 27854,
@@ -2841,14 +2897,6 @@
       "onboard_time": 1772193141,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17992,
-      "num": 129209,
-      "word": "伊朗一小学遭导弹袭击24人死亡",
-      "onboard_time": 1772278044,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17856,
