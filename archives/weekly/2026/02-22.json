@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1772290069208,
+  "endTime": 1772292740108,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -163,6 +163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1681761,
+      "num": 932657,
+      "word": "伊朗宣布战果",
+      "onboard_time": 1772288423,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1671052,
       "num": 375843,
       "word": "谷爱凌在美国遭大规模网暴",
@@ -273,14 +281,6 @@
       "onboard_time": 1771898601,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1475456,
-      "num": 932657,
-      "word": "伊朗宣布战果",
-      "onboard_time": 1772288423,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1474660,
@@ -457,6 +457,14 @@
       "onboard_time": 1771987400,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1134075,
+      "num": 1355638,
+      "word": "小米超跑亮相",
+      "onboard_time": 1772289204,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 1126459,
@@ -1283,14 +1291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 677674,
-      "num": 1355638,
-      "word": "小米超跑亮相",
-      "onboard_time": 1772289204,
-      "rank": 1,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 676543,
       "num": 159421,
       "word": "陈妍希说林心如女儿长的太好看了",
@@ -1905,6 +1905,14 @@
       "onboard_time": 1772281225,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 548087,
+      "num": 236537,
+      "word": "伊朗称导弹击中美军舰",
+      "onboard_time": 1772290582,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 547853,
@@ -3731,6 +3739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353071,
+      "num": 353071,
+      "word": "国乒仅王楚钦晋级男单四强",
+      "onboard_time": 1772290043,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352953,
       "num": 213457,
       "word": "大年初五8岁男童虎跳峡坠崖遇难",
@@ -4395,6 +4411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305977,
+      "num": 305977,
+      "word": "时光与你都很甜2",
+      "onboard_time": 1772287524,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305203,
       "num": 149928,
       "word": "突然理解了爱坐公交车的人",
@@ -4923,20 +4947,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 277461,
+      "num": 255946,
+      "word": "俄罗斯对美以袭击伊朗表态",
+      "onboard_time": 1772285664,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 276616,
       "num": 938245,
       "word": "考研今天出分",
       "onboard_time": 1772234357,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 276122,
-      "num": 255946,
-      "word": "俄罗斯对美以袭击伊朗表态",
-      "onboard_time": 1772285664,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 276116,
@@ -6059,6 +6083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233726,
+      "num": 233726,
+      "word": "这居然是侯明昊的素颜",
+      "onboard_time": 1772288245,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233723,
       "num": 175849,
       "word": "金店店员称结婚不要强追五金",
@@ -6619,14 +6651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215706,
-      "num": 215706,
-      "word": "这居然是侯明昊的素颜",
-      "onboard_time": 1772288245,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215656,
       "num": 215656,
       "word": "王楚钦比赛",
@@ -6657,14 +6681,6 @@
       "onboard_time": 1771731502,
       "rank": 8,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 213479,
-      "num": 273898,
-      "word": "时光与你都很甜2",
-      "onboard_time": 1772287524,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 213422,
@@ -6825,6 +6841,14 @@
       "onboard_time": 1772250383,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206256,
+      "num": 196634,
+      "word": "中东这场仗越打越大了",
+      "onboard_time": 1772290344,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 206120,
@@ -7497,6 +7521,14 @@
       "onboard_time": 1771685302,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186533,
+      "num": 186533,
+      "word": "小米滑板车",
+      "onboard_time": 1772289924,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 186054,
@@ -9907,6 +9939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136422,
+      "num": 136422,
+      "word": "胃癌等消化系统肿瘤呈年轻化趋势",
+      "onboard_time": 1772289563,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136245,
       "num": 123045,
       "word": "于正从白月光事件后像变了个人",
@@ -10081,6 +10121,14 @@
       "onboard_time": 1772102361,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133843,
+      "num": 133843,
+      "word": "陈飞宇孙千吻戏",
+      "onboard_time": 1772291243,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 133631,
@@ -10899,28 +10947,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 123179,
-      "num": 123179,
-      "word": "胃癌等消化系统肿瘤呈年轻化趋势",
-      "onboard_time": 1772289563,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 123167,
       "num": 123167,
       "word": "杨瀚森11分12篮板",
       "onboard_time": 1771822460,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122899,
-      "num": 122899,
-      "word": "小米滑板车",
-      "onboard_time": 1772289924,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 122626,
@@ -12067,6 +12099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110441,
+      "num": 110441,
+      "word": "小米VisionGT概念超跑发布",
+      "onboard_time": 1772291424,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 110159,
       "num": 110159,
       "word": "大年初六有啥习俗",
@@ -12403,6 +12443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107130,
+      "num": 145300,
+      "word": "为什么中国人把这么多钱花在吃上",
+      "onboard_time": 1772290283,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107022,
       "num": 107022,
       "word": "王者达摩新皮肤星君亢金",
@@ -12433,6 +12481,14 @@
       "onboard_time": 1771938383,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106826,
+      "num": 106826,
+      "word": "迪拜码头附近地区燃起黑烟",
+      "onboard_time": 1772291842,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106814,
@@ -12921,6 +12977,14 @@
       "onboard_time": 1771929320,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103104,
+      "num": 103104,
+      "word": "王嘉尔这一跳给李雪琴吊成翘嘴",
+      "onboard_time": 1772287825,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 103024,
@@ -14107,6 +14171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93880,
+      "num": 104132,
+      "word": "孙颖莎和早田希娜赛后说了啥",
+      "onboard_time": 1772291904,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93873,
       "num": 95114,
       "word": "生5胞胎爹妈一次要剪100个指甲",
@@ -14555,6 +14627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90648,
+      "num": 78362,
+      "word": "哈梅内伊将发表公开讲话",
+      "onboard_time": 1772292684,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90576,
       "num": 90576,
       "word": "你要开始才能很厉害",
@@ -14657,6 +14737,14 @@
       "onboard_time": 1772009901,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89786,
+      "num": 262489,
+      "word": "伊朗称目前发射导弹只是清库存",
+      "onboard_time": 1772289503,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89655,
@@ -17771,6 +17859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57094,
+      "num": 234465,
+      "word": "安理会应中俄要求紧急开会",
+      "onboard_time": 1772291963,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57056,
       "num": 184899,
       "word": "文淇一种很新的生命力穿搭",
@@ -17985,14 +18081,6 @@
       "onboard_time": 1771715836,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52775,
-      "num": 262489,
-      "word": "伊朗称目前发射导弹只是清库存",
-      "onboard_time": 1772289503,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 52733,
@@ -20648,6 +20736,14 @@
       "word": "当地人表示退彩礼很正常",
       "onboard_time": 1772177301,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6443,
+      "num": 103138,
+      "word": "山姆部分大降价产品已售罄",
+      "onboard_time": 1772292684,
+      "rank": 40,
       "category": "民生新闻"
     },
     {

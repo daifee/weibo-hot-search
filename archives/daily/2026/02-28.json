@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772290069208,
+  "endTime": 1772292740108,
   "band_list": [
     {
       "raw_hot": 8807134,
@@ -59,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1681761,
+      "num": 932657,
+      "word": "伊朗宣布战果",
+      "onboard_time": 1772288423,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1666596,
       "num": 1666596,
       "word": "2026考研国家线发布",
@@ -81,14 +89,6 @@
       "onboard_time": 1772251044,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1475456,
-      "num": 932657,
-      "word": "伊朗宣布战果",
-      "onboard_time": 1772288423,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1471815,
@@ -129,6 +129,14 @@
       "onboard_time": 1772278044,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1134075,
+      "num": 1355638,
+      "word": "小米超跑亮相",
+      "onboard_time": 1772289204,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 983169,
@@ -257,14 +265,6 @@
       "onboard_time": 1772260223,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 677674,
-      "num": 1355638,
-      "word": "小米超跑亮相",
-      "onboard_time": 1772289204,
-      "rank": 1,
-      "category": "汽车"
     },
     {
       "raw_hot": 676364,
@@ -401,6 +401,14 @@
       "onboard_time": 1772281225,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 548087,
+      "num": 236537,
+      "word": "伊朗称导弹击中美军舰",
+      "onboard_time": 1772290582,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 546898,
@@ -747,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 353071,
+      "num": 353071,
+      "word": "国乒仅王楚钦晋级男单四强",
+      "onboard_time": 1772290043,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350940,
       "num": 350940,
       "word": "前额叶损伤",
@@ -907,6 +923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 305977,
+      "num": 305977,
+      "word": "时光与你都很甜2",
+      "onboard_time": 1772287524,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304282,
       "num": 304282,
       "word": "小米YU9",
@@ -979,20 +1003,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 277461,
+      "num": 255946,
+      "word": "俄罗斯对美以袭击伊朗表态",
+      "onboard_time": 1772285664,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 276616,
       "num": 938245,
       "word": "考研今天出分",
       "onboard_time": 1772234357,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 276122,
-      "num": 255946,
-      "word": "俄罗斯对美以袭击伊朗表态",
-      "onboard_time": 1772285664,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 273368,
@@ -1155,6 +1179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233726,
+      "num": 233726,
+      "word": "这居然是侯明昊的素颜",
+      "onboard_time": 1772288245,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233473,
       "num": 215778,
       "word": "金饰价涨到1625元",
@@ -1275,28 +1307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215706,
-      "num": 215706,
-      "word": "这居然是侯明昊的素颜",
-      "onboard_time": 1772288245,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215311,
       "num": 112277,
       "word": "曝敖瑞鹏合约到期不续",
       "onboard_time": 1772207662,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213479,
-      "num": 273898,
-      "word": "时光与你都很甜2",
-      "onboard_time": 1772287524,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 211331,
@@ -1353,6 +1369,14 @@
       "onboard_time": 1772250383,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206256,
+      "num": 196634,
+      "word": "中东这场仗越打越大了",
+      "onboard_time": 1772290344,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205485,
@@ -1481,6 +1505,14 @@
       "onboard_time": 1772245701,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 186533,
+      "num": 186533,
+      "word": "小米滑板车",
+      "onboard_time": 1772289924,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 184223,
@@ -1971,6 +2003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136422,
+      "num": 136422,
+      "word": "胃癌等消化系统肿瘤呈年轻化趋势",
+      "onboard_time": 1772289563,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135476,
       "num": 135476,
       "word": "eStar对战DRG",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1772201963,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133843,
+      "num": 133843,
+      "word": "陈飞宇孙千吻戏",
+      "onboard_time": 1772291243,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 133299,
@@ -2187,22 +2235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123179,
-      "num": 123179,
-      "word": "胃癌等消化系统肿瘤呈年轻化趋势",
-      "onboard_time": 1772289563,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 122899,
-      "num": 122899,
-      "word": "小米滑板车",
-      "onboard_time": 1772289924,
-      "rank": 46,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 122512,
       "num": 122512,
       "word": "女孩天生爱笑被确诊为天使综合征",
@@ -2347,6 +2379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110441,
+      "num": 110441,
+      "word": "小米VisionGT概念超跑发布",
+      "onboard_time": 1772291424,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 110090,
       "num": 110090,
       "word": "人怎么能说出这么有生命力的话",
@@ -2403,11 +2443,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107130,
+      "num": 145300,
+      "word": "为什么中国人把这么多钱花在吃上",
+      "onboard_time": 1772290283,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 106983,
       "num": 294851,
       "word": "伊朗总统安全无事",
       "onboard_time": 1772270065,
       "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 106826,
+      "num": 106826,
+      "word": "迪拜码头附近地区燃起黑烟",
+      "onboard_time": 1772291842,
+      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -2473,6 +2529,14 @@
       "onboard_time": 1772256921,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103104,
+      "num": 103104,
+      "word": "王嘉尔这一跳给李雪琴吊成翘嘴",
+      "onboard_time": 1772287825,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 102192,
@@ -2603,6 +2667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93880,
+      "num": 104132,
+      "word": "孙颖莎和早田希娜赛后说了啥",
+      "onboard_time": 1772291904,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93040,
       "num": 1743637,
       "word": "周鸿祎揭美伪造陈志案证据内幕",
@@ -2627,6 +2699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90648,
+      "num": 78362,
+      "word": "哈梅内伊将发表公开讲话",
+      "onboard_time": 1772292684,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90562,
       "num": 110819,
       "word": "以色列",
@@ -2649,6 +2729,14 @@
       "onboard_time": 1772236339,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 89786,
+      "num": 262489,
+      "word": "伊朗称目前发射导弹只是清库存",
+      "onboard_time": 1772289503,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89367,
@@ -2971,6 +3059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57094,
+      "num": 234465,
+      "word": "安理会应中俄要求紧急开会",
+      "onboard_time": 1772291963,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55786,
       "num": 55786,
       "word": "王译磊直播",
@@ -3009,14 +3105,6 @@
       "onboard_time": 1772252182,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52775,
-      "num": 262489,
-      "word": "伊朗称目前发射导弹只是清库存",
-      "onboard_time": 1772289503,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 52358,
@@ -3544,6 +3632,14 @@
       "word": "太平年带火的李煜墓尚未官方确认",
       "onboard_time": 1772256621,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6443,
+      "num": 103138,
+      "word": "山姆部分大降价产品已售罄",
+      "onboard_time": 1772292684,
+      "rank": 40,
       "category": "民生新闻"
     }
   ],

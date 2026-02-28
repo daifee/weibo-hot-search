@@ -1,0 +1,410 @@
+{
+  "runTime": 1772292740108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2440812,
+        "num": 2440812,
+        "word": "以色列宣布袭击伊朗",
+        "onboard_time": 1772260103,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1134075,
+        "num": 1134075,
+        "word": "小米超跑亮相",
+        "onboard_time": 1772289204,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 63142,
+        "num": 778152,
+        "word": "3月起一批国家标准开始实施",
+        "onboard_time": 1772286324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1681761,
+        "num": 733846,
+        "word": "伊朗宣布战果",
+        "onboard_time": 1772288423,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353071,
+        "num": 353071,
+        "word": "国乒仅王楚钦晋级男单四强",
+        "onboard_time": 1772290043,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534887,
+        "num": 335736,
+        "word": "据称伊朗革命卫队总司令和防长身亡",
+        "onboard_time": 1772287704,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 305977,
+        "num": 305977,
+        "word": "时光与你都很甜2",
+        "onboard_time": 1772287524,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272247,
+        "num": 272247,
+        "word": "小米发布会",
+        "onboard_time": 1772284883,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 260508,
+        "num": 260508,
+        "word": "镖人票房超越惊蛰无声",
+        "onboard_time": 1772286925,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236822,
+        "num": 236822,
+        "word": "美颜突然关掉吓得人一哆嗦",
+        "onboard_time": 1772276184,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 668012,
+        "num": 236784,
+        "word": "肖战 顺产头",
+        "onboard_time": 1772281345,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548087,
+        "num": 236537,
+        "word": "伊朗称导弹击中美军舰",
+        "onboard_time": 1772290582,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 462825,
+        "num": 236247,
+        "word": "金价",
+        "onboard_time": 1772262625,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 457478,
+        "num": 235936,
+        "word": "伊朗一小学遭袭51人死60人伤",
+        "onboard_time": 1772278044,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 371273,
+        "num": 235779,
+        "word": "椰树广告 擦边",
+        "onboard_time": 1772275884,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389428,
+        "num": 235417,
+        "word": "伊朗袭击已致约200名美军伤亡",
+        "onboard_time": 1772284344,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206077,
+        "num": 235121,
+        "word": "五粮液",
+        "onboard_time": 1772286744,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172509,
+        "num": 234985,
+        "word": "山姆520元巧克力降到99元",
+        "onboard_time": 1772270905,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129794,
+        "num": 234511,
+        "word": "五粮液董事长曾从钦被查",
+        "onboard_time": 1772284944,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57094,
+        "num": 234465,
+        "word": "安理会应中俄要求紧急开会",
+        "onboard_time": 1772291963,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345700,
+        "num": 234165,
+        "word": "比尔盖茨出轨对象照片曝光",
+        "onboard_time": 1772286805,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 382165,
+        "num": 233913,
+        "word": "伊朗正在打击美国军事基地",
+        "onboard_time": 1772272764,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233726,
+        "num": 233726,
+        "word": "这居然是侯明昊的素颜",
+        "onboard_time": 1772288245,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277461,
+        "num": 232255,
+        "word": "俄罗斯对美以袭击伊朗表态",
+        "onboard_time": 1772285664,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203550,
+        "num": 203550,
+        "word": "郝熠然好会魅",
+        "onboard_time": 1772285064,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206256,
+        "num": 196634,
+        "word": "中东这场仗越打越大了",
+        "onboard_time": 1772290344,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186533,
+        "num": 186533,
+        "word": "小米滑板车",
+        "onboard_time": 1772289924,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 199225,
+        "num": 171687,
+        "word": "伊朗启动大规模军事行动",
+        "onboard_time": 1772276783,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107130,
+        "num": 145300,
+        "word": "为什么中国人把这么多钱花在吃上",
+        "onboard_time": 1772290283,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99959,
+        "num": 143761,
+        "word": "外交部回应美以打击伊朗",
+        "onboard_time": 1772288245,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142496,
+        "num": 142496,
+        "word": "男朋友送的草莓蛋糕第一次见",
+        "onboard_time": 1772281162,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177202,
+        "num": 141140,
+        "word": "伊朗称大量美以导弹坠落境外",
+        "onboard_time": 1772287465,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136422,
+        "num": 136422,
+        "word": "胃癌等消化系统肿瘤呈年轻化趋势",
+        "onboard_time": 1772289563,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160740,
+        "num": 135330,
+        "word": "伊朗军方称总司令身体健康",
+        "onboard_time": 1772275822,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133843,
+        "num": 133843,
+        "word": "陈飞宇孙千吻戏",
+        "onboard_time": 1772291243,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129356,
+        "num": 129356,
+        "word": "阿联酋迪拜响起爆炸声",
+        "onboard_time": 1772282904,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114442,
+        "num": 114442,
+        "word": "杨紫董竹君造型直播",
+        "onboard_time": 1772282723,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110441,
+        "num": 110441,
+        "word": "小米VisionGT概念超跑发布",
+        "onboard_time": 1772291424,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106826,
+        "num": 106826,
+        "word": "迪拜码头附近地区燃起黑烟",
+        "onboard_time": 1772291842,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93880,
+        "num": 104132,
+        "word": "孙颖莎和早田希娜赛后说了啥",
+        "onboard_time": 1772291904,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6443,
+        "num": 103138,
+        "word": "山姆部分大降价产品已售罄",
+        "onboard_time": 1772292684,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123726,
+        "num": 103133,
+        "word": "陈飞宇孙千换了情头",
+        "onboard_time": 1772282723,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103104,
+        "num": 103104,
+        "word": "王嘉尔这一跳给李雪琴吊成翘嘴",
+        "onboard_time": 1772287825,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102595,
+        "num": 102595,
+        "word": "伊朗与6国外长通话",
+        "onboard_time": 1772284524,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95565,
+        "num": 95565,
+        "word": "TOP专辑秒切",
+        "onboard_time": 1772281225,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93050,
+        "num": 93050,
+        "word": "伊朗总统之子发声",
+        "onboard_time": 1772279843,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79755,
+        "num": 79755,
+        "word": "我家那小子",
+        "onboard_time": 1772271204,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90648,
+        "num": 78362,
+        "word": "哈梅内伊将发表公开讲话",
+        "onboard_time": 1772292684,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75927,
+        "num": 75927,
+        "word": "五粮液回应董事长被查",
+        "onboard_time": 1772289084,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89786,
+        "num": 74206,
+        "word": "伊朗称目前发射导弹只是清库存",
+        "onboard_time": 1772289503,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记牵挂的关键小事#"
+    }
+  }
+}
