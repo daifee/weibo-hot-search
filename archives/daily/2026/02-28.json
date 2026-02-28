@@ -1,6 +1,6 @@
 {
   "startTime": 1772211103212,
-  "endTime": 1772275700491,
+  "endTime": 1772278107911,
   "band_list": [
     {
       "raw_hot": 8807134,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1235435,
+      "num": 479974,
+      "word": "椰树广告 擦边",
+      "onboard_time": 1772275884,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 983169,
       "num": 983169,
       "word": "等国家线",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 726195,
-      "num": 323676,
+      "num": 376927,
       "word": "突然对1g黄金没概念了",
       "onboard_time": 1772271863,
       "rank": 12,
@@ -243,6 +251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 626472,
+      "num": 626472,
+      "word": "大熊猫半半香果离世",
+      "onboard_time": 1772274324,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 611630,
+      "num": 611630,
+      "word": "伊朗军方称总司令身体健康",
+      "onboard_time": 1772275822,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 608842,
       "num": 280537,
       "word": "婚后拒同房男方讨说法已涉嫌违法",
@@ -257,14 +281,6 @@
       "onboard_time": 1772267605,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 580971,
-      "num": 580971,
-      "word": "大熊猫半半香果离世",
-      "onboard_time": 1772274324,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 573261,
@@ -395,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 470566,
+      "num": 470566,
+      "word": "伊朗启动大规模军事行动",
+      "onboard_time": 1772276783,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 460997,
       "num": 282045,
       "word": "Angelababy37岁了",
@@ -452,11 +476,19 @@
     },
     {
       "raw_hot": 420014,
-      "num": 225086,
+      "num": 245141,
       "word": "赛琳娜力挺老公",
       "onboard_time": 1772272045,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417904,
+      "num": 251915,
+      "word": "网传跑男铁了心要国民cp",
+      "onboard_time": 1772276964,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 417435,
@@ -484,7 +516,7 @@
     },
     {
       "raw_hot": 403649,
-      "num": 403649,
+      "num": 484556,
       "word": "一点点 植脂末",
       "onboard_time": 1772270604,
       "rank": 45,
@@ -537,6 +569,14 @@
       "onboard_time": 1772241802,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 373141,
+      "num": 373141,
+      "word": "伊朗袭击科威特美军基地",
+      "onboard_time": 1772274204,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 365856,
@@ -715,6 +755,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 301745,
+      "num": 167692,
+      "word": "美颜突然关掉吓得人一哆嗦",
+      "onboard_time": 1772276184,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 301031,
       "num": 344746,
       "word": "王皓赛后生气了",
@@ -763,20 +811,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 275070,
-      "num": 244063,
-      "word": "伊朗袭击科威特美军基地",
-      "onboard_time": 1772274204,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 271700,
       "num": 199303,
       "word": "美国以色列伊朗打仗",
       "onboard_time": 1772265144,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 267768,
+      "num": 267768,
+      "word": "前额叶损伤",
+      "onboard_time": 1772274984,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 263322,
@@ -851,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247333,
+      "num": 247333,
+      "word": "曝初瑞雪怀孕",
+      "onboard_time": 1772275163,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 246727,
       "num": 191581,
       "word": "肖战绕到车前给粉丝挥手",
@@ -881,6 +937,14 @@
       "onboard_time": 1772235319,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 241359,
+      "num": 494592,
+      "word": "陈熠4比0陈幸同",
+      "onboard_time": 1772277382,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 233473,
@@ -1091,6 +1155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190669,
+      "num": 180735,
+      "word": "近100名在伊中国人正紧急撤离",
+      "onboard_time": 1772276365,
+      "rank": 26,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 188573,
       "num": 188573,
       "word": "管综",
@@ -1195,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175502,
+      "num": 175502,
+      "word": "伊朗一学校5名学生遇袭身亡",
+      "onboard_time": 1772275643,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175479,
       "num": 194900,
       "word": "人民币涨得太快央行踩刹车",
@@ -1243,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167377,
+      "num": 167377,
+      "word": "Angelababy紫瞳",
+      "onboard_time": 1772274684,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166903,
       "num": 166903,
       "word": "网友建议每年免费5000公里专家回应",
@@ -1265,6 +1353,14 @@
       "onboard_time": 1772205023,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164497,
+      "num": 164497,
+      "word": "TOP专辑",
+      "onboard_time": 1772274684,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 164490,
@@ -1315,14 +1411,6 @@
       "category": "体育,国际时政"
     },
     {
-      "raw_hot": 153887,
-      "num": 149603,
-      "word": "TOP专辑",
-      "onboard_time": 1772274684,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 152800,
       "num": 152800,
       "word": "迪丽热巴与杨幂公司存在关联",
@@ -1363,14 +1451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145625,
-      "num": 145625,
-      "word": "Angelababy紫瞳",
-      "onboard_time": 1772274684,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144124,
       "num": 144124,
       "word": "新一轮导弹向以色列发射",
@@ -1395,14 +1475,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 141995,
-      "num": 141995,
-      "word": "曝初瑞雪怀孕",
-      "onboard_time": 1772275163,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 141890,
       "num": 141890,
       "word": "管综国家线",
@@ -1411,20 +1483,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141685,
+      "num": 141685,
+      "word": "秀禾服 婚服营销",
+      "onboard_time": 1772275044,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141648,
       "num": 141648,
       "word": "律师解读造谣王一博聊天记录",
       "onboard_time": 1772247804,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141325,
-      "num": 141325,
-      "word": "秀禾服 婚服营销",
-      "onboard_time": 1772275044,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 141306,
@@ -1547,6 +1619,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129648,
+      "num": 129648,
+      "word": "杨博文抽抽乐",
+      "onboard_time": 1772277684,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129609,
+      "num": 129609,
+      "word": "比特币大幅跳水14万人爆仓",
+      "onboard_time": 1772277503,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129529,
       "num": 129529,
       "word": "小米YU9伪装实车曝光",
@@ -1571,6 +1659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 126751,
+      "num": 126751,
+      "word": "BFX零封DK",
+      "onboard_time": 1772277624,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126272,
       "num": 126272,
       "word": "美国双航母已就位",
@@ -1585,6 +1681,14 @@
       "onboard_time": 1772257282,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122512,
+      "num": 122512,
+      "word": "女孩天生爱笑被确诊为天使综合征",
+      "onboard_time": 1772275762,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121485,
@@ -1609,6 +1713,22 @@
       "onboard_time": 1772255482,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120388,
+      "num": 119341,
+      "word": "老铺黄金一14克金项链涨价7560元",
+      "onboard_time": 1772275404,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 119851,
+      "num": 119851,
+      "word": "买3条金项链一夜赚超2.3万元",
+      "onboard_time": 1772277445,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118932,
@@ -1667,14 +1787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110889,
-      "num": 110889,
-      "word": "老铺黄金一14克金项链涨价7560元",
-      "onboard_time": 1772275404,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 110090,
       "num": 110090,
       "word": "人怎么能说出这么有生命力的话",
@@ -1689,14 +1801,6 @@
       "onboard_time": 1772208742,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109903,
-      "num": 109903,
-      "word": "前额叶损伤",
-      "onboard_time": 1772274984,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 109848,
@@ -1729,6 +1833,14 @@
       "onboard_time": 1772250322,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107759,
+      "num": 256439,
+      "word": "美国太空部队前往伊朗行动",
+      "onboard_time": 1772277262,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106983,
@@ -2019,14 +2131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85611,
-      "num": 131471,
-      "word": "伊朗一学校5名学生遇袭身亡",
-      "onboard_time": 1772275643,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 84127,
       "num": 219677,
       "word": "男子不满判决持锤子尾随下班法官",
@@ -2100,7 +2204,7 @@
     },
     {
       "raw_hot": 74155,
-      "num": 110229,
+      "num": 129239,
       "word": "肖战看秀前健身了一下",
       "onboard_time": 1772274144,
       "rank": 42,
@@ -2451,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43463,
+      "num": 261278,
+      "word": "伊朗敦促联合国采取行动",
+      "onboard_time": 1772276724,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41858,
       "num": 173526,
       "word": "柳智敏又瘦了",
@@ -2481,6 +2593,14 @@
       "onboard_time": 1772257462,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37914,
+      "num": 263219,
+      "word": "Demna开启Gucci全新时代",
+      "onboard_time": 1772276663,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 37397,
@@ -2593,6 +2713,14 @@
       "onboard_time": 1772252301,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28050,
+      "num": 133573,
+      "word": "AI种地已经发展成这样了",
+      "onboard_time": 1772278044,
+      "rank": 39,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 27854,
@@ -2713,6 +2841,14 @@
       "onboard_time": 1772193141,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17992,
+      "num": 129209,
+      "word": "伊朗一小学遭导弹袭击24人死亡",
+      "onboard_time": 1772278044,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17856,
