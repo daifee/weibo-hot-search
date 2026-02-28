@@ -1,0 +1,410 @@
+{
+  "runTime": 1772261458155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7667459,
+        "num": 7667459,
+        "word": "以色列宣布袭击伊朗",
+        "onboard_time": 1772260103,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3306102,
+        "num": 3306102,
+        "word": "伊朗首都发生爆炸",
+        "onboard_time": 1772259802,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58782,
+        "num": 1384985,
+        "word": "周鸿祎揭美伪造陈志案证据内幕",
+        "onboard_time": 1772247982,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 715896,
+        "num": 715896,
+        "word": "德国总理从中国回去后急了",
+        "onboard_time": 1772258661,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 684241,
+        "num": 684241,
+        "word": "以色列全境响起警报",
+        "onboard_time": 1772260223,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 627639,
+        "num": 627639,
+        "word": "蔡磊已进入渐冻症疾病的终末期",
+        "onboard_time": 1772251044,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593425,
+        "num": 593425,
+        "word": "一点点回应",
+        "onboard_time": 1772258721,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541914,
+        "num": 541914,
+        "word": "山姆部分产品大降价",
+        "onboard_time": 1772256501,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456878,
+        "num": 456878,
+        "word": "谷爱凌机场过安检自带金属buff",
+        "onboard_time": 1772258482,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274435,
+        "num": 274435,
+        "word": "以色列对伊朗发动二次袭击",
+        "onboard_time": 1772260826,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 768371,
+        "num": 269911,
+        "word": "曝迪丽热巴签约天伊娱乐",
+        "onboard_time": 1772260223,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545652,
+        "num": 263408,
+        "word": "黄子韬因喘不上气暂停节目录制",
+        "onboard_time": 1772256142,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328272,
+        "num": 261608,
+        "word": "花海退役仪式",
+        "onboard_time": 1772256142,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 489521,
+        "num": 252844,
+        "word": "范丞丞方说不认识没交集",
+        "onboard_time": 1772236221,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474491,
+        "num": 246157,
+        "word": "跑男",
+        "onboard_time": 1772254763,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242749,
+        "num": 242749,
+        "word": "2026考研国家线发布",
+        "onboard_time": 1772246843,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 392207,
+        "num": 241564,
+        "word": "迪丽热巴现在人还在飞机上",
+        "onboard_time": 1772258542,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321462,
+        "num": 241333,
+        "word": "向太发向佐向佑儿时视频",
+        "onboard_time": 1772260163,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239771,
+        "num": 239771,
+        "word": "第一个发现这个机位的是天才",
+        "onboard_time": 1772252122,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116299,
+        "num": 237948,
+        "word": "林诗栋2比4F勒布伦",
+        "onboard_time": 1772260764,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237355,
+        "num": 237355,
+        "word": "婚后拒同房男方讨说法已涉嫌违法",
+        "onboard_time": 1772251463,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289309,
+        "num": 237044,
+        "word": "巴厘岛发现人体肢解遗骸",
+        "onboard_time": 1772253563,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139367,
+        "num": 234722,
+        "word": "日本警察竟偷拍女性遗体",
+        "onboard_time": 1772260223,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 233283,
+        "num": 233283,
+        "word": "金贤重回应殴打前女友",
+        "onboard_time": 1772259681,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222165,
+        "num": 222165,
+        "word": "Angelababy37岁了",
+        "onboard_time": 1772236221,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65858,
+        "num": 218710,
+        "word": "高速避障能不能猛打方向",
+        "onboard_time": 1772260943,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 218689,
+        "num": 218689,
+        "word": "李诚儒吐槽繁花的商战都太假",
+        "onboard_time": 1772256621,
+        "rank": 26,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 218008,
+        "num": 218008,
+        "word": "考研下岸了",
+        "onboard_time": 1772251403,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210044,
+        "num": 210044,
+        "word": "周大福镶金发夹卖2080元",
+        "onboard_time": 1772255003,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188044,
+        "num": 188044,
+        "word": "女子离家17天马桶狂冲200吨水",
+        "onboard_time": 1772258781,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506877,
+        "num": 185493,
+        "word": "以色列宣布全国紧急状态",
+        "onboard_time": 1772261004,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178379,
+        "num": 178379,
+        "word": "金花婆婆说刘晓庆刚出道被所有人欺负",
+        "onboard_time": 1772256023,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173482,
+        "num": 173482,
+        "word": "伊朗同意不拥有可制造核弹的核材料",
+        "onboard_time": 1772237240,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170836,
+        "num": 170836,
+        "word": "金饰价涨到1625元",
+        "onboard_time": 1772248643,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167662,
+        "num": 167662,
+        "word": "林诗栋vsF勒布伦",
+        "onboard_time": 1772257342,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164908,
+        "num": 164908,
+        "word": "关晓彤漂亮得像洋娃娃一样",
+        "onboard_time": 1772260943,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163942,
+        "num": 163942,
+        "word": "小米超跑",
+        "onboard_time": 1772244743,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 48792,
+        "num": 156859,
+        "word": "老人为摘花竟把婴儿独自留在快车道上",
+        "onboard_time": 1772261424,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37015,
+        "num": 155785,
+        "word": "唐国强记住的是时代少年团的流量",
+        "onboard_time": 1772256142,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44413,
+        "num": 155733,
+        "word": "保姆卖雇主名牌包给小三20万",
+        "onboard_time": 1772247562,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155695,
+        "num": 155695,
+        "word": "王健林20亿售出上海项目",
+        "onboard_time": 1772255121,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151940,
+        "num": 151940,
+        "word": "男子劝朋友别醉驾走后对方车祸身亡",
+        "onboard_time": 1772249483,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148719,
+        "num": 148719,
+        "word": "deepseek崩了",
+        "onboard_time": 1772261424,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143473,
+        "num": 143473,
+        "word": "王曼昱希望张本美和早日康复",
+        "onboard_time": 1772260344,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141306,
+        "num": 141306,
+        "word": "造谣王一博最高可判7年",
+        "onboard_time": 1772258721,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132744,
+        "num": 132744,
+        "word": "王皓解释向鹏为何无缘世界杯",
+        "onboard_time": 1772261186,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121998,
+        "num": 121998,
+        "word": "在伊华人讲述伊朗首都现状",
+        "onboard_time": 1772258421,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59199,
+        "num": 113596,
+        "word": "内娱爱而不得的剧本都塞他手里了",
+        "onboard_time": 1772258482,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111930,
+        "num": 111930,
+        "word": "雷霆掘金冲突",
+        "onboard_time": 1772257282,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27535,
+        "num": 110875,
+        "word": "周五晚高疯给内娱综艺上尺度了",
+        "onboard_time": 1772255841,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
