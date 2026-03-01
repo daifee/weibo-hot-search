@@ -1,0 +1,410 @@
+{
+  "runTime": 1772379203374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6721835,
+        "num": 6721835,
+        "word": "伊朗前总统内贾德遇袭身亡",
+        "onboard_time": 1772372666,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 645717,
+        "num": 1470327,
+        "word": "王楚钦孙颖莎冠军自拍",
+        "onboard_time": 1772373806,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18069,
+        "num": 1167035,
+        "word": "2026新春走基层",
+        "onboard_time": 1772372726,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 934457,
+        "num": 934457,
+        "word": "浙江地震",
+        "onboard_time": 1772372603,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 695338,
+        "num": 695338,
+        "word": "三甲医生回应秦岚嗓子哑了三年",
+        "onboard_time": 1772360303,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480911,
+        "num": 480911,
+        "word": "伊朗袭击27个美军基地",
+        "onboard_time": 1772355083,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 418752,
+        "num": 418752,
+        "word": "王天辰郭晓婷 这样的距离算适当吗",
+        "onboard_time": 1772375005,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395188,
+        "num": 395188,
+        "word": "小伙腹痛CT查出肠道卡2把勺子",
+        "onboard_time": 1772375966,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374532,
+        "num": 374532,
+        "word": "WiFi 穿墙透视",
+        "onboard_time": 1772376807,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 356245,
+        "num": 374488,
+        "word": "公然击杀主权国家领导人不可接受",
+        "onboard_time": 1772375548,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1788216,
+        "num": 374293,
+        "word": "伊朗向美军林肯号航母发射导弹",
+        "onboard_time": 1772375426,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 878155,
+        "num": 373909,
+        "word": "伊朗总统就哈梅内伊身亡发声明",
+        "onboard_time": 1772358442,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 668508,
+        "num": 373661,
+        "word": "迪丽热巴化妆王亚飞发型丽杰",
+        "onboard_time": 1772373145,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564153,
+        "num": 373597,
+        "word": "迪拜已拦截超百次伊朗炸弹",
+        "onboard_time": 1772367744,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 483173,
+        "num": 373285,
+        "word": "美以袭击伊朗金价为何下跌",
+        "onboard_time": 1772374226,
+        "rank": 14,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 395098,
+        "num": 373123,
+        "word": "以色列陷入多线作战的战争泥潭",
+        "onboard_time": 1772372364,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 372974,
+        "num": 372974,
+        "word": "赵今麦流浪地球3造型",
+        "onboard_time": 1772368104,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42783,
+        "num": 362546,
+        "word": "荣耀把科技春晚搬到了MWC",
+        "onboard_time": 1772375607,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 68896,
+        "num": 362432,
+        "word": "荣耀RobotPhone成精了",
+        "onboard_time": 1772375607,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180084,
+        "num": 362427,
+        "word": "王楚钦男单夺冠",
+        "onboard_time": 1772371764,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362427,
+        "num": 362426,
+        "word": "纪凌尘与韩国女友泰国度假",
+        "onboard_time": 1772362163,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349780,
+        "num": 349780,
+        "word": "鞠婧祎化淡妆",
+        "onboard_time": 1772375787,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330497,
+        "num": 330497,
+        "word": "多国就美以袭击伊朗表态",
+        "onboard_time": 1772375607,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261421,
+        "num": 261421,
+        "word": "孙千米兰看秀待遇",
+        "onboard_time": 1772373265,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251721,
+        "num": 251721,
+        "word": "AI短剧",
+        "onboard_time": 1772369244,
+        "rank": 24,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 212314,
+        "num": 245669,
+        "word": "一家4口爬山祈福妻子坠亡",
+        "onboard_time": 1772357782,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240541,
+        "num": 240541,
+        "word": "方穆扬发飙",
+        "onboard_time": 1772377764,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231354,
+        "num": 231354,
+        "word": "张元英签售态度",
+        "onboard_time": 1772357243,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168489,
+        "num": 191024,
+        "word": "中国军号发布视频",
+        "onboard_time": 1772359882,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 135049,
+        "num": 190992,
+        "word": "440万买房北侧采光太差获赔67万",
+        "onboard_time": 1772377466,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190989,
+        "num": 190989,
+        "word": "中俄呼吁立即停止战争",
+        "onboard_time": 1772361862,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180373,
+        "num": 180373,
+        "word": "中东冲突出现外溢苗头",
+        "onboard_time": 1772378007,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179928,
+        "num": 179928,
+        "word": "孟子义两年最长休息两天",
+        "onboard_time": 1772375548,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176046,
+        "num": 176046,
+        "word": "文咏珊 港女保养这一块",
+        "onboard_time": 1772377525,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167651,
+        "num": 167651,
+        "word": "出轨对象得知感染HIV还瞒着自己",
+        "onboard_time": 1772363784,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172055,
+        "num": 165276,
+        "word": "陈思罕 我是一个专业的摄影师",
+        "onboard_time": 1772368584,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160805,
+        "num": 160805,
+        "word": "一油轮欲通过霍尔木兹海峡被击中",
+        "onboard_time": 1772368945,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130909,
+        "num": 130909,
+        "word": "中东冲突全面扩散",
+        "onboard_time": 1772378487,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129083,
+        "num": 129083,
+        "word": "男子酒后和老婆吵架胸口撕裂40厘米",
+        "onboard_time": 1772357122,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116534,
+        "num": 129004,
+        "word": "12306回应男子在高铁车厢吸烟",
+        "onboard_time": 1772375966,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153367,
+        "num": 129003,
+        "word": "陈思罕镜头里的四代",
+        "onboard_time": 1772369723,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128977,
+        "num": 128977,
+        "word": "以色列对伊新一轮空袭",
+        "onboard_time": 1772378907,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123715,
+        "num": 123715,
+        "word": "张凌赫田曦薇从见面到合作用了386天",
+        "onboard_time": 1772369663,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118560,
+        "num": 118560,
+        "word": "宋亚轩海胆头",
+        "onboard_time": 1772361862,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116992,
+        "num": 116992,
+        "word": "黄金暗盘跳水",
+        "onboard_time": 1772362404,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110737,
+        "num": 116850,
+        "word": "孙颖莎女单夺冠",
+        "onboard_time": 1772368344,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100522,
+        "num": 116261,
+        "word": "河南暴雪局地积雪将达10厘米",
+        "onboard_time": 1772378305,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98029,
+        "num": 115904,
+        "word": "云旗郝熠然澳门演唱会",
+        "onboard_time": 1772371222,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96518,
+        "num": 115616,
+        "word": "金店报价全线跳涨",
+        "onboard_time": 1772376446,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94509,
+        "num": 115497,
+        "word": "以军称已向伊朗投掷超1200枚导弹",
+        "onboard_time": 1772355743,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#把产业发展落到促进农民增收上来#"
+    }
+  }
+}

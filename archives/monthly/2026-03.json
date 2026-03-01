@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772376596657,
+  "endTime": 1772379203374,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -59,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1788216,
+      "num": 473836,
+      "word": "伊朗向美军林肯号航母发射导弹",
+      "onboard_time": 1772375426,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1718479,
       "num": 199270,
       "word": "哈梅内伊",
@@ -89,14 +97,6 @@
       "onboard_time": 1772362163,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1424484,
-      "num": 473836,
-      "word": "伊朗向美军林肯号航母发射导弹",
-      "onboard_time": 1772375426,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1379846,
@@ -731,6 +731,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 395188,
+      "num": 395188,
+      "word": "小伙腹痛CT查出肠道卡2把勺子",
+      "onboard_time": 1772375966,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395082,
       "num": 346345,
       "word": "伊朗一小学遭袭51人死60人伤",
@@ -753,6 +761,14 @@
       "onboard_time": 1772355803,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 374532,
+      "num": 374532,
+      "word": "WiFi 穿墙透视",
+      "onboard_time": 1772376807,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 373196,
@@ -827,6 +843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 356245,
+      "num": 374488,
+      "word": "公然击杀主权国家领导人不可接受",
+      "onboard_time": 1772375548,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 354133,
       "num": 354133,
       "word": "AI短剧",
@@ -889,6 +913,14 @@
       "onboard_time": 1772351662,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330497,
+      "num": 463278,
+      "word": "多国就美以袭击伊朗表态",
+      "onboard_time": 1772375607,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 329772,
@@ -1107,6 +1139,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 261421,
+      "num": 261421,
+      "word": "孙千米兰看秀待遇",
+      "onboard_time": 1772373265,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252669,
       "num": 120640,
       "word": "伊朗总统之子发声",
@@ -1137,6 +1177,14 @@
       "onboard_time": 1772347942,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240541,
+      "num": 240541,
+      "word": "方穆扬发飙",
+      "onboard_time": 1772377764,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 239437,
@@ -1177,14 +1225,6 @@
       "onboard_time": 1772298140,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 229677,
-      "num": 229677,
-      "word": "孙千米兰看秀待遇",
-      "onboard_time": 1772373265,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 228018,
@@ -1379,14 +1419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 188921,
-      "num": 188921,
-      "word": "公然击杀主权国家领导人不可接受",
-      "onboard_time": 1772375548,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 187457,
       "num": 230030,
       "word": "1010元托运柴犬3天没喝一口水死亡",
@@ -1419,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180373,
+      "num": 180373,
+      "word": "中东冲突出现外溢苗头",
+      "onboard_time": 1772378007,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179890,
       "num": 179890,
       "word": "云旗郝熠然澳门演唱会",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1772294423,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176046,
+      "num": 176046,
+      "word": "文咏珊 港女保养这一块",
+      "onboard_time": 1772377525,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 175080,
@@ -1771,6 +1819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135049,
+      "num": 190992,
+      "word": "440万买房北侧采光太差获赔67万",
+      "onboard_time": 1772377466,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134712,
       "num": 702970,
       "word": "为什么中国人把这么多钱花在吃上",
@@ -1793,6 +1849,14 @@
       "onboard_time": 1772363123,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 130909,
+      "num": 130909,
+      "word": "中东冲突全面扩散",
+      "onboard_time": 1772378487,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130767,
@@ -1825,6 +1889,14 @@
       "onboard_time": 1772359103,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128977,
+      "num": 128977,
+      "word": "以色列对伊新一轮空袭",
+      "onboard_time": 1772378907,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124389,
@@ -1955,6 +2027,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 116534,
+      "num": 465311,
+      "word": "12306回应男子在高铁车厢吸烟",
+      "onboard_time": 1772375966,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116501,
       "num": 116501,
       "word": "王楚钦4比1F勒布伦",
@@ -1969,14 +2049,6 @@
       "onboard_time": 1772348843,
       "rank": 39,
       "category": "综艺,剧集"
-    },
-    {
-      "raw_hot": 115110,
-      "num": 165837,
-      "word": "小伙腹痛CT查出肠道卡2把勺子",
-      "onboard_time": 1772375966,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114447,
@@ -2195,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100522,
+      "num": 116261,
+      "word": "河南暴雪局地积雪将达10厘米",
+      "onboard_time": 1772378305,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100315,
       "num": 196957,
       "word": "王楚钦拒绝申请鹰眼挑战",
@@ -2297,14 +2377,6 @@
       "onboard_time": 1772362223,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92551,
-      "num": 463278,
-      "word": "多国就美以袭击伊朗表态",
-      "onboard_time": 1772375607,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 91630,
@@ -2539,6 +2611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68896,
+      "num": 468679,
+      "word": "荣耀RobotPhone成精了",
+      "onboard_time": 1772375607,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 68160,
       "num": 97134,
       "word": "王曼昱vs温特",
@@ -2619,14 +2699,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 48971,
-      "num": 465311,
-      "word": "12306回应男子在高铁车厢吸烟",
-      "onboard_time": 1772375966,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48061,
       "num": 152631,
       "word": "袭击伊朗美国17年就计划好了",
@@ -2673,14 +2745,6 @@
       "onboard_time": 1772361742,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 46321,
-      "num": 468679,
-      "word": "荣耀RobotPhone成精了",
-      "onboard_time": 1772375607,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 45546,
@@ -2737,6 +2801,14 @@
       "onboard_time": 1772284944,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42783,
+      "num": 468250,
+      "word": "荣耀把科技春晚搬到了MWC",
+      "onboard_time": 1772375607,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 39962,
@@ -2801,14 +2873,6 @@
       "onboard_time": 1772344584,
       "rank": 49,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 31105,
-      "num": 468250,
-      "word": "荣耀把科技春晚搬到了MWC",
-      "onboard_time": 1772375607,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 30849,
