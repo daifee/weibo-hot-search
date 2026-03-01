@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772348488775,
+  "endTime": 1772349009228,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -43,8 +43,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1535139,
-      "num": 1535139,
+      "raw_hot": 1650331,
+      "num": 1650331,
       "word": "伊朗确认继任者后或将扩大反击",
       "onboard_time": 1772343083,
       "rank": 6,
@@ -91,7 +91,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 930730,
+      "raw_hot": 948901,
       "num": 269539,
       "word": "秦岚嗓子哑了三年",
       "onboard_time": 1772343683,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 772407,
-      "num": 321241,
+      "num": 347939,
       "word": "中国人民永远都要保持居安思危的清醒",
       "onboard_time": 1772343083,
       "rank": 8,
@@ -152,6 +152,14 @@
       "word": "伊朗反政府人士推倒哈梅内伊雕像",
       "onboard_time": 1772333725,
       "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 729989,
+      "num": 225380,
+      "word": "伊朗代表要求美国保持礼貌",
+      "onboard_time": 1772347463,
+      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -339,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401586,
+      "num": 225537,
+      "word": "哈梅内伊住所遭袭前后对比景象",
+      "onboard_time": 1772343922,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 400506,
       "num": 284112,
       "word": "迪拜国际机场航站楼遭到袭击",
@@ -363,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375846,
-      "num": 225537,
-      "word": "哈梅内伊住所遭袭前后对比景象",
-      "onboard_time": 1772343922,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 373196,
+      "num": 225591,
+      "word": "王者荣耀 TF四代",
+      "onboard_time": 1772344522,
+      "rank": 27,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 372922,
@@ -377,14 +393,6 @@
       "onboard_time": 1772332228,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 372886,
-      "num": 225380,
-      "word": "伊朗代表要求美国保持礼貌",
-      "onboard_time": 1772347463,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 365117,
@@ -403,14 +411,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 352247,
-      "num": 225591,
-      "word": "王者荣耀 TF四代",
-      "onboard_time": 1772344522,
-      "rank": 27,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 351065,
       "num": 290005,
       "word": "曝哈梅内伊已任命继任者",
@@ -425,6 +425,14 @@
       "onboard_time": 1772281345,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334460,
+      "num": 334460,
+      "word": "2岁小孩高铁车厢唱歌旅客大打出手",
+      "onboard_time": 1772346443,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322852,
@@ -571,14 +579,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 254734,
-      "num": 254734,
-      "word": "2岁小孩高铁车厢唱歌旅客大打出手",
-      "onboard_time": 1772346443,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252669,
       "num": 120640,
       "word": "伊朗总统之子发声",
@@ -592,6 +592,14 @@
       "word": "杨幂去米兰没有带卡",
       "onboard_time": 1772345542,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242360,
+      "num": 222621,
+      "word": "宋智孝不考虑戒酒",
+      "onboard_time": 1772347942,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -635,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222621,
-      "num": 222621,
-      "word": "宋智孝不考虑戒酒",
-      "onboard_time": 1772347942,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221599,
       "num": 221599,
       "word": "最近24小时全球15万人爆仓",
@@ -657,6 +657,14 @@
       "onboard_time": 1772334925,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216549,
+      "num": 203391,
+      "word": "金价或将冲击历史新高",
+      "onboard_time": 1772347222,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 216432,
@@ -675,12 +683,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 203391,
-      "num": 203391,
-      "word": "金价或将冲击历史新高",
-      "onboard_time": 1772347222,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 202053,
+      "num": 225259,
+      "word": "伊朗称伊朗武装部队总参谋长身亡",
+      "onboard_time": 1772347825,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 197277,
@@ -729,6 +737,14 @@
       "onboard_time": 1772325203,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190380,
+      "num": 190380,
+      "word": "陈妍希李钟硕余承恩秀场合照",
+      "onboard_time": 1772348003,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 189771,
@@ -787,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173357,
+      "num": 215977,
+      "word": "10万元黄金被女儿当垃圾扔了",
+      "onboard_time": 1772347104,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172748,
       "num": 475363,
       "word": "国乒仅王楚钦晋级男单四强",
@@ -827,14 +851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 155809,
-      "num": 155809,
-      "word": "10万元黄金被女儿当垃圾扔了",
-      "onboard_time": 1772347104,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153780,
       "num": 245180,
       "word": "解放军进入菲美日澳巡航区域",
@@ -873,6 +889,14 @@
       "onboard_time": 1772337145,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146946,
+      "num": 146946,
+      "word": "官俊臣参加高考成人礼",
+      "onboard_time": 1772344943,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 145829,
@@ -948,7 +972,7 @@
     },
     {
       "raw_hot": 133279,
-      "num": 118588,
+      "num": 130031,
       "word": "全军启用预备役人员证",
       "onboard_time": 1772345302,
       "rank": 31,
@@ -971,20 +995,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 125553,
-      "num": 125553,
-      "word": "官俊臣参加高考成人礼",
-      "onboard_time": 1772344943,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 124705,
+      "num": 124705,
+      "word": "秦岚一分钟说了15句谢谢",
+      "onboard_time": 1772348303,
+      "rank": 41,
+      "category": "综艺"
     },
     {
-      "raw_hot": 120738,
-      "num": 120738,
-      "word": "陈妍希李钟硕余承恩秀场合照",
-      "onboard_time": 1772348003,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 124022,
+      "num": 124022,
+      "word": "厚本征婚",
+      "onboard_time": 1772347825,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 120391,
@@ -1105,14 +1129,6 @@
       "onboard_time": 1772342243,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103555,
-      "num": 100217,
-      "word": "厚本征婚",
-      "onboard_time": 1772347825,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 103212,
@@ -1243,6 +1259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 87191,
+      "num": 85231,
+      "word": "夏之光妈妈 姐系妈感",
+      "onboard_time": 1772348723,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86681,
       "num": 86681,
       "word": "老一辈助眠就是没轻没重",
@@ -1283,20 +1307,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80917,
+      "num": 80917,
+      "word": "镖人",
+      "onboard_time": 1772346982,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80454,
       "num": 80454,
       "word": "苦了谁也不能苦了朋友圈",
       "onboard_time": 1772347222,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 78880,
-      "num": 78880,
-      "word": "秦岚一分钟说了15句谢谢",
-      "onboard_time": 1772348303,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 77820,
@@ -1355,12 +1379,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70344,
-      "num": 225259,
-      "word": "伊朗称伊朗武装部队总参谋长身亡",
-      "onboard_time": 1772347825,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 70055,
+      "num": 76665,
+      "word": "王曼昱孙颖莎女单争金",
+      "onboard_time": 1772348362,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 69337,
@@ -1377,14 +1401,6 @@
       "onboard_time": 1772344462,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 68815,
-      "num": 75954,
-      "word": "王曼昱孙颖莎女单争金",
-      "onboard_time": 1772348362,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 68160,
@@ -1491,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41992,
+      "num": 192932,
+      "word": "还是原生胶原脸最抗老",
+      "onboard_time": 1772348662,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 39962,
       "num": 118424,
       "word": "卓沅的粉丝",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1772279242,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23589,
+      "num": 85665,
+      "word": "余承恩入青云杀青后出不了戏",
+      "onboard_time": 1772348843,
+      "rank": 39,
+      "category": "综艺,剧集"
     },
     {
       "raw_hot": 23158,
