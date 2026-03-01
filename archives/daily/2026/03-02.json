@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772398198839,
+  "endTime": 1772400713991,
   "band_list": [
     {
       "raw_hot": 2377348,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59213,
+      "num": 28694,
+      "word": "伊朗发布击落美无人机画面",
+      "onboard_time": 1772391196,
+      "rank": 32,
+      "category": "军事"
+    },
+    {
       "raw_hot": 56900,
       "num": 93227,
       "word": "孙颖莎女单夺冠",
@@ -403,12 +411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53675,
-      "num": 28694,
-      "word": "伊朗发布击落美无人机画面",
-      "onboard_time": 1772391196,
-      "rank": 32,
-      "category": "军事"
+      "raw_hot": 50104,
+      "num": 18860,
+      "word": "伊朗革命卫队发起新一轮打击",
+      "onboard_time": 1772392994,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46647,
@@ -448,14 +456,6 @@
       "word": "伊朗导弹击中以色列中部致6死23伤",
       "onboard_time": 1772391016,
       "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 32469,
-      "num": 18412,
-      "word": "伊朗革命卫队发起新一轮打击",
-      "onboard_time": 1772392994,
-      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -499,7 +499,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15952,
+      "raw_hot": 16190,
       "num": 32222,
       "word": "WTT新加坡大满贯",
       "onboard_time": 1772371643,
