@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772372975722,
+  "endTime": 1772373389907,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -8,6 +8,14 @@
       "word": "哈梅内伊遇害",
       "onboard_time": 1772329044,
       "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 2943483,
+      "num": 2943483,
+      "word": "伊朗前总统内贾德遇袭身亡",
+      "onboard_time": 1772372666,
+      "rank": 1,
       "category": "国际时政"
     },
     {
@@ -36,11 +44,19 @@
     },
     {
       "raw_hot": 2056777,
-      "num": 367471,
+      "num": 440507,
       "word": "伊朗总统就哈梅内伊身亡发声明",
       "onboard_time": 1772358442,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2045985,
+      "num": 2045985,
+      "word": "浙江地震",
+      "onboard_time": 1772372603,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1718479,
@@ -59,14 +75,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1687776,
-      "num": 1125465,
-      "word": "浙江地震",
-      "onboard_time": 1772372603,
-      "rank": 3,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 1650331,
       "num": 1650331,
       "word": "伊朗确认继任者后或将扩大反击",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1455805,
-      "num": 305588,
+      "num": 332155,
       "word": "纪凌尘与韩国女友泰国度假",
       "onboard_time": 1772362163,
       "rank": 26,
@@ -92,19 +100,11 @@
     },
     {
       "raw_hot": 1356215,
-      "num": 362989,
+      "num": 427235,
       "word": "三甲医生回应秦岚嗓子哑了三年",
       "onboard_time": 1772360303,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1333110,
-      "num": 1333110,
-      "word": "伊朗前总统内贾德遇袭身亡",
-      "onboard_time": 1772372666,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1325004,
@@ -163,8 +163,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 989603,
+      "num": 431363,
+      "word": "迪拜已拦截超百次伊朗炸弹",
+      "onboard_time": 1772367744,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 963315,
-      "num": 280491,
+      "num": 301447,
       "word": "张元英签售态度",
       "onboard_time": 1772357243,
       "rank": 26,
@@ -188,19 +196,11 @@
     },
     {
       "raw_hot": 846486,
-      "num": 356513,
+      "num": 411459,
       "word": "陈思罕 我是一个专业的摄影师",
       "onboard_time": 1772368584,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 809987,
-      "num": 364044,
-      "word": "迪拜已拦截超百次伊朗炸弹",
-      "onboard_time": 1772367744,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 808279,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 740974,
-      "num": 357332,
+      "num": 419720,
       "word": "一油轮欲通过霍尔木兹海峡被击中",
       "onboard_time": 1772368945,
       "rank": 23,
@@ -299,8 +299,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 660582,
+      "num": 660582,
+      "word": "王楚钦4比0战胜林昀儒",
+      "onboard_time": 1772372005,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 658238,
-      "num": 307044,
+      "num": 351506,
       "word": "陈思罕镜头里的四代",
       "onboard_time": 1772369723,
       "rank": 16,
@@ -329,14 +337,6 @@
       "onboard_time": 1772346443,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 619185,
-      "num": 619185,
-      "word": "王楚钦4比0战胜林昀儒",
-      "onboard_time": 1772372005,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 615970,
@@ -579,6 +579,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 446497,
+      "num": 397725,
+      "word": "WTT",
+      "onboard_time": 1772372666,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 445095,
+      "num": 445095,
+      "word": "王楚钦vs林昀儒",
+      "onboard_time": 1772371643,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427891,
       "num": 350256,
       "word": "伊朗若退出世界杯谁能替代",
@@ -723,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 370018,
-      "num": 370018,
-      "word": "王楚钦vs林昀儒",
-      "onboard_time": 1772371643,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 365117,
       "num": 293210,
       "word": "伊朗称将抵抗到最后一滴血",
@@ -761,6 +769,14 @@
       "onboard_time": 1772359043,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 354133,
+      "num": 354133,
+      "word": "AI短剧",
+      "onboard_time": 1772369244,
+      "rank": 27,
+      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 351065,
@@ -867,14 +883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 312150,
-      "num": 281692,
-      "word": "AI短剧",
-      "onboard_time": 1772369244,
-      "rank": 27,
-      "category": "作品衍生,互联网"
-    },
-    {
       "raw_hot": 309345,
       "num": 198279,
       "word": "耙耙柑是很善良的水果",
@@ -896,6 +904,14 @@
       "word": "据称伊朗革命卫队总司令和防长身亡",
       "onboard_time": 1772287704,
       "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 303379,
+      "num": 255711,
+      "word": "以色列陷入多线作战的战争泥潭",
+      "onboard_time": 1772372364,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -1035,12 +1051,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 266576,
-      "num": 230395,
-      "word": "以色列陷入多线作战的战争泥潭",
-      "onboard_time": 1772372364,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 268060,
+      "num": 268060,
+      "word": "迪丽热巴化妆王亚飞发型丽杰",
+      "onboard_time": 1772373145,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 265182,
@@ -1131,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226137,
+      "num": 226137,
+      "word": "有中国公民在袭击中受伤",
+      "onboard_time": 1772370563,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 224162,
       "num": 224162,
       "word": "夏之光妈妈 姐系妈感",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1772322918,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 218657,
-      "num": 218657,
-      "word": "有中国公民在袭击中受伤",
-      "onboard_time": 1772370563,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 217883,
@@ -1307,6 +1323,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 185824,
+      "num": 185824,
+      "word": "纯真年代 地震剧情",
+      "onboard_time": 1772371943,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185823,
       "num": 477279,
       "word": "美颜突然关掉吓得人一哆嗦",
@@ -1387,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168971,
-      "num": 168971,
-      "word": "WTT",
-      "onboard_time": 1772372666,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165994,
       "num": 165994,
       "word": "18岁少女感染HPV多种高危型号",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1772341463,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162705,
+      "num": 142378,
+      "word": "张杰鸟巢演唱会座位图",
+      "onboard_time": 1772372425,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 162377,
@@ -1427,16 +1451,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 158235,
-      "num": 158235,
-      "word": "纯真年代 地震剧情",
-      "onboard_time": 1772371943,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157365,
-      "num": 347881,
+      "num": 402894,
       "word": "秦PLUS官宣7年低息夯爆了",
       "onboard_time": 1772368884,
       "rank": 17,
@@ -1603,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137579,
+      "num": 137579,
+      "word": "逐玉",
+      "onboard_time": 1772372846,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137381,
       "num": 137245,
       "word": "伊朗军方称总司令身体健康",
@@ -1675,6 +1699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129591,
+      "num": 129591,
+      "word": "荣耀发布会",
+      "onboard_time": 1772370803,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 129515,
       "num": 129515,
       "word": "赵继伟神仙球",
@@ -1683,12 +1715,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128659,
-      "num": 128659,
-      "word": "荣耀发布会",
-      "onboard_time": 1772370803,
-      "rank": 37,
-      "category": "数码"
+      "raw_hot": 125895,
+      "num": 125895,
+      "word": "孙千米兰看秀待遇",
+      "onboard_time": 1772373265,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 124389,
@@ -1723,20 +1755,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122933,
-      "num": 124463,
-      "word": "张杰鸟巢演唱会座位图",
-      "onboard_time": 1772372425,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 122777,
       "num": 122777,
       "word": "爸爸买了张哪也不去的车票",
       "onboard_time": 1772363784,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122452,
+      "num": 124449,
+      "word": "WTT新加坡大满贯",
+      "onboard_time": 1772371643,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 121477,
@@ -1979,14 +2011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 106854,
-      "num": 124438,
-      "word": "逐玉",
-      "onboard_time": 1772372846,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106338,
       "num": 106338,
       "word": "镖人",
@@ -2120,14 +2144,6 @@
       "word": "孙颖莎与王曼昱的30次国际交手",
       "onboard_time": 1772370503,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 98059,
-      "num": 124449,
-      "word": "WTT新加坡大满贯",
-      "onboard_time": 1772371643,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -2715,6 +2731,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20275,
+      "num": 2083425,
+      "word": "2026新春走基层",
+      "onboard_time": 1772372726,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19344,
+      "num": 463584,
+      "word": "2026电影总票房破100亿",
+      "onboard_time": 1772373085,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18197,
       "num": 125051,
       "word": "中国农机火到海外",
@@ -2737,14 +2769,6 @@
       "onboard_time": 1772271204,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14347,
-      "num": 1149439,
-      "word": "2026新春走基层",
-      "onboard_time": 1772372726,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11513,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772372975722,
+  "endTime": 1772373389907,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -803,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2943483,
+      "num": 2943483,
+      "word": "伊朗前总统内贾德遇袭身亡",
+      "onboard_time": 1772372666,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2932923,
       "num": 2932923,
       "word": "新年贺词",
@@ -1284,7 +1292,7 @@
     },
     {
       "raw_hot": 2056777,
-      "num": 367471,
+      "num": 440507,
       "word": "伊朗总统就哈梅内伊身亡发声明",
       "onboard_time": 1772358442,
       "rank": 10,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1768480820,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2045985,
+      "num": 2045985,
+      "word": "浙江地震",
+      "onboard_time": 1772372603,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 2043291,
@@ -1867,14 +1883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1687776,
-      "num": 1125465,
-      "word": "浙江地震",
-      "onboard_time": 1772372603,
-      "rank": 3,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 1683061,
       "num": 1683061,
       "word": "荣耀之战",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1771898601,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1497333,
-      "num": 459065,
-      "word": "骄阳似我大结局",
-      "onboard_time": 1767694461,
-      "rank": 11,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
