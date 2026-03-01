@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772387248923,
+  "endTime": 1772390677837,
   "band_list": [
     {
       "raw_hot": 2377348,
@@ -433,6 +433,22 @@
       "onboard_time": 1772385498,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18409,
+      "num": 32239,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1772365284,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15792,
+      "num": 32222,
+      "word": "WTT新加坡大满贯",
+      "onboard_time": 1772371643,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 10259,
