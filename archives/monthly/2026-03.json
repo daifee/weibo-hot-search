@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772391485097,
+  "endTime": 1772393463353,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -2915,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36142,
+      "num": 28694,
+      "word": "伊朗发布击落美无人机画面",
+      "onboard_time": 1772391196,
+      "rank": 32,
+      "category": "军事"
+    },
+    {
       "raw_hot": 35818,
       "num": 62991,
       "word": "朱志鑫 漫步艺术回廊",
@@ -2929,6 +2937,14 @@
       "onboard_time": 1772385498,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34087,
+      "num": 28095,
+      "word": "伊朗导弹击中以色列中部致6死23伤",
+      "onboard_time": 1772391016,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34064,
@@ -3001,22 +3017,6 @@
       "onboard_time": 1772283145,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28694,
-      "num": 28694,
-      "word": "伊朗发布击落美无人机画面",
-      "onboard_time": 1772391196,
-      "rank": 32,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 28095,
-      "num": 28095,
-      "word": "伊朗导弹击中以色列中部致6死23伤",
-      "onboard_time": 1772391016,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27658,
@@ -3107,12 +3107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16324,
+      "num": 23040,
+      "word": "刘宇风华盛典开场舞台",
+      "onboard_time": 1772392395,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 16195,
       "num": 40733,
       "word": "我家那小子",
       "onboard_time": 1772271204,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15763,
+      "num": 22996,
+      "word": "唐宫奇案之青雾风鸣",
+      "onboard_time": 1772390716,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 11513,
