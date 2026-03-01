@@ -1,0 +1,410 @@
+{
+  "runTime": 1772333571548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15067767,
+        "num": 15067767,
+        "word": "哈梅内伊遇害",
+        "onboard_time": 1772329044,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 808279,
+        "num": 2765817,
+        "word": "中方呼吁军事行动立即停止",
+        "onboard_time": 1772328563,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51298,
+        "num": 2141971,
+        "word": "3月起一批国家标准开始实施",
+        "onboard_time": 1772286324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2137611,
+        "num": 2137611,
+        "word": "哈梅内伊的女儿女婿等遇难",
+        "onboard_time": 1772327843,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 587385,
+        "num": 587385,
+        "word": "国防部回应美方指责中方",
+        "onboard_time": 1772327544,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1196367,
+        "num": 495350,
+        "word": "伊朗政府宣布40天全国哀悼",
+        "onboard_time": 1772329467,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364605,
+        "num": 364605,
+        "word": "油价或出现历史性飙升",
+        "onboard_time": 1772294423,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 315914,
+        "num": 315914,
+        "word": "这样的房子才配收我的房租",
+        "onboard_time": 1772325802,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284555,
+        "num": 284555,
+        "word": "退税",
+        "onboard_time": 1772321717,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269881,
+        "num": 284517,
+        "word": "伊朗称将开启最猛烈进攻",
+        "onboard_time": 1772332347,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1645904,
+        "num": 284492,
+        "word": "哈梅内伊遗体已被找到",
+        "onboard_time": 1772332228,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1237632,
+        "num": 284462,
+        "word": "委内瑞拉",
+        "onboard_time": 1772332347,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1027099,
+        "num": 284420,
+        "word": "美伊以冲突",
+        "onboard_time": 1772330970,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 801370,
+        "num": 284379,
+        "word": "椰树 追求胸大是让婴儿有奶吃",
+        "onboard_time": 1772322139,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 775656,
+        "num": 284362,
+        "word": "哈梅内伊开会时遇袭",
+        "onboard_time": 1772331628,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 489587,
+        "num": 284316,
+        "word": "专家称未来48小时决定金价走势",
+        "onboard_time": 1772330129,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 583511,
+        "num": 284287,
+        "word": "迪拜帆船酒店在袭击中起火",
+        "onboard_time": 1772328744,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 408339,
+        "num": 284223,
+        "word": "杨紫爱自己少吃多睡戒色",
+        "onboard_time": 1772323942,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554280,
+        "num": 284191,
+        "word": "伊朗遭袭小学课本上沾着鲜血",
+        "onboard_time": 1772331328,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81012,
+        "num": 284178,
+        "word": "约40名伊朗官员在袭击中死亡",
+        "onboard_time": 1772332886,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 400506,
+        "num": 284112,
+        "word": "迪拜国际机场航站楼遭到袭击",
+        "onboard_time": 1772321659,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 510003,
+        "num": 284092,
+        "word": "伊朗遭袭小学超150人死亡",
+        "onboard_time": 1772324661,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 306998,
+        "num": 284057,
+        "word": "王鹤棣 阿迪达斯",
+        "onboard_time": 1772332228,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383128,
+        "num": 284024,
+        "word": "哈梅内伊遇害细节公开",
+        "onboard_time": 1772332826,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283996,
+        "num": 283996,
+        "word": "婴儿肚皮开裂多器官裸露环绕在外",
+        "onboard_time": 1772323099,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296070,
+        "num": 283070,
+        "word": "美以袭击致伊朗201人死747人伤",
+        "onboard_time": 1772331089,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274526,
+        "num": 274526,
+        "word": "中东空域关闭致全球航空大乱",
+        "onboard_time": 1772328264,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265182,
+        "num": 265182,
+        "word": "桃黑黑秒下播",
+        "onboard_time": 1772327784,
+        "rank": 27,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 153780,
+        "num": 245180,
+        "word": "解放军进入菲美日澳巡航区域",
+        "onboard_time": 1772325743,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 141090,
+        "num": 240618,
+        "word": "迪拜国际机场大量旅客滞留",
+        "onboard_time": 1772327303,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236843,
+        "num": 236843,
+        "word": "一觉醒来伊朗怎样了",
+        "onboard_time": 1772331450,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233205,
+        "num": 233205,
+        "word": "黄金",
+        "onboard_time": 1772332948,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222678,
+        "num": 222678,
+        "word": "王安宇 季总点天灯吗",
+        "onboard_time": 1772328925,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221599,
+        "num": 221599,
+        "word": "最近24小时全球15万人爆仓",
+        "onboard_time": 1772322918,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208295,
+        "num": 208295,
+        "word": "伊朗拥有中东最大弹道导弹库存",
+        "onboard_time": 1772296401,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197240,
+        "num": 197240,
+        "word": "迪拜棕榈岛一酒店因伊朗袭击起火",
+        "onboard_time": 1772326404,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196285,
+        "num": 196285,
+        "word": "哈梅内伊曾遭暗杀致右臂瘫痪",
+        "onboard_time": 1772332166,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195775,
+        "num": 195775,
+        "word": "伊朗足协主席称很难期待世界杯了",
+        "onboard_time": 1772325203,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189976,
+        "num": 189976,
+        "word": "伊朗禁止船只通行霍尔木兹海峡",
+        "onboard_time": 1772298140,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120391,
+        "num": 186464,
+        "word": "丰配友打破全国马拉松纪录",
+        "onboard_time": 1772332166,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185388,
+        "num": 185388,
+        "word": "伊朗发射法塔赫高超音速导弹",
+        "onboard_time": 1772296101,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165994,
+        "num": 165994,
+        "word": "18岁少女感染HPV多种高危型号",
+        "onboard_time": 1772327664,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151254,
+        "num": 151254,
+        "word": "中东这场仗越打越大了",
+        "onboard_time": 1772290344,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150697,
+        "num": 150697,
+        "word": "迪丽热巴全维语采访",
+        "onboard_time": 1772322080,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130439,
+        "num": 130439,
+        "word": "方大同才二十三MV上线",
+        "onboard_time": 1772323220,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120214,
+        "num": 127000,
+        "word": "以色列中国留学生7小时进7次防空洞",
+        "onboard_time": 1772330430,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126524,
+        "num": 126524,
+        "word": "章泽天晒雪山徒步照",
+        "onboard_time": 1772333366,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114447,
+        "num": 126487,
+        "word": "东京马拉松",
+        "onboard_time": 1772333066,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113889,
+        "num": 126280,
+        "word": "小米VisionGT实车",
+        "onboard_time": 1772331867,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 97632,
+        "num": 126239,
+        "word": "湖人vs勇士",
+        "onboard_time": 1772332107,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记牵挂的关键小事#"
+    }
+  }
+}

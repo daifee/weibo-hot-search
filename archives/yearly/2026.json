@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772322318599,
+  "endTime": 1772333571548,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -49,6 +49,14 @@
       "onboard_time": 1767195447,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15067767,
+      "num": 15067767,
+      "word": "哈梅内伊遇害",
+      "onboard_time": 1772329044,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13350510,
@@ -1195,6 +1203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2137611,
+      "num": 2137611,
+      "word": "哈梅内伊的女儿女婿等遇难",
+      "onboard_time": 1772327843,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2133729,
       "num": 2133729,
       "word": "霸王茶姬通报",
@@ -1899,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1645904,
+      "num": 284492,
+      "word": "哈梅内伊遗体已被找到",
+      "onboard_time": 1772332228,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1645072,
       "num": 1645072,
       "word": "伊朗反击",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1768368801,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1485815,
-      "num": 684333,
-      "word": "日本梅毒扩散",
-      "onboard_time": 1767661942,
-      "rank": 20,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1474943,
-      "num": 793645,
-      "word": "7名中国游客沉入贝加尔湖溺亡",
-      "onboard_time": 1771587980,
-      "rank": 1,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1474660,
-      "num": 1474660,
-      "word": "中秋请3天假堪比春节",
-      "onboard_time": 1771995320,
-      "rank": 31,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
