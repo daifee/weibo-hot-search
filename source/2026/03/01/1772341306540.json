@@ -1,0 +1,410 @@
+{
+  "runTime": 1772341306540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7437811,
+        "num": 7437811,
+        "word": "哈梅内伊遇害",
+        "onboard_time": 1772329044,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 539920,
+        "num": 1608625,
+        "word": "有人凌晨蹲点退税退了3万多",
+        "onboard_time": 1772336905,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45424,
+        "num": 1282167,
+        "word": "网警提醒规避考研查分陷阱",
+        "onboard_time": 1772340204,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 654793,
+        "num": 654793,
+        "word": "哈梅内伊的女儿女婿等遇难",
+        "onboard_time": 1772327843,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 613230,
+        "num": 613230,
+        "word": "撞人族已成为日本全国性问题",
+        "onboard_time": 1772335287,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 620719,
+        "num": 612271,
+        "word": "伊朗政府宣布40天全国哀悼",
+        "onboard_time": 1772329467,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 605800,
+        "num": 605800,
+        "word": "家属单位楼里藏了个别墅",
+        "onboard_time": 1772339305,
+        "rank": 6,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 308479,
+        "num": 308479,
+        "word": "李健巡演官宣",
+        "onboard_time": 1772336845,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238085,
+        "num": 306816,
+        "word": "桃黑黑秒下播",
+        "onboard_time": 1772327784,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 186409,
+        "num": 304856,
+        "word": "油价或出现历史性飙升",
+        "onboard_time": 1772294423,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 587066,
+        "num": 301844,
+        "word": "黄金",
+        "onboard_time": 1772332948,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 440194,
+        "num": 299660,
+        "word": "椰树 追求胸大是让婴儿有奶吃",
+        "onboard_time": 1772322139,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415442,
+        "num": 299448,
+        "word": "伊朗遭袭小学超150人死亡",
+        "onboard_time": 1772324661,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 394470,
+        "num": 295264,
+        "word": "迪丽热巴3月份行程图",
+        "onboard_time": 1772337265,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357853,
+        "num": 293210,
+        "word": "伊朗称将抵抗到最后一滴血",
+        "onboard_time": 1772336005,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 350153,
+        "num": 290877,
+        "word": "杨幂 得罪就得罪吧",
+        "onboard_time": 1772340504,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320159,
+        "num": 290005,
+        "word": "曝哈梅内伊已任命继任者",
+        "onboard_time": 1772336124,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 288227,
+        "num": 288227,
+        "word": "苏新皓抢到TOP专辑了",
+        "onboard_time": 1772340084,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176255,
+        "num": 241768,
+        "word": "国防部回应美方指责中方",
+        "onboard_time": 1772327544,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52587,
+        "num": 225767,
+        "word": "中东现场直击",
+        "onboard_time": 1772340323,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225643,
+        "num": 225643,
+        "word": "杨紫爱自己少吃多睡戒色",
+        "onboard_time": 1772323942,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239437,
+        "num": 225357,
+        "word": "美军公布对伊朗行动视频",
+        "onboard_time": 1772337265,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217883,
+        "num": 217883,
+        "word": "迪丽热巴第一语言不是汉语",
+        "onboard_time": 1772334925,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238388,
+        "num": 214426,
+        "word": "伊朗总统等将领导国家",
+        "onboard_time": 1772335884,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175080,
+        "num": 175080,
+        "word": "伊朗3场世界杯小组赛都在美国球场踢",
+        "onboard_time": 1772337804,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227237,
+        "num": 172459,
+        "word": "迪拜帆船酒店在袭击中起火",
+        "onboard_time": 1772328744,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153432,
+        "num": 153432,
+        "word": "肖战希望乘坐肖战专列穿梭米兰",
+        "onboard_time": 1772336305,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184786,
+        "num": 149476,
+        "word": "美以袭击致伊朗201人死747人伤",
+        "onboard_time": 1772331089,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143612,
+        "num": 143612,
+        "word": "中方呼吁军事行动立即停止",
+        "onboard_time": 1772328563,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119404,
+        "num": 119404,
+        "word": "孙颖莎vs陈熠",
+        "onboard_time": 1772340684,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158684,
+        "num": 119392,
+        "word": "哈梅内伊遇害细节公开",
+        "onboard_time": 1772332826,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147785,
+        "num": 119340,
+        "word": "你是张栋梁那他是谁",
+        "onboard_time": 1772337145,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156959,
+        "num": 119264,
+        "word": "哈梅内伊曾挺过入狱暗杀制裁等危机",
+        "onboard_time": 1772337566,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136503,
+        "num": 119205,
+        "word": "婴儿肚皮开裂多器官裸露环绕在外",
+        "onboard_time": 1772323099,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153118,
+        "num": 119166,
+        "word": "伊朗称将开启最猛烈进攻",
+        "onboard_time": 1772332347,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119131,
+        "num": 119131,
+        "word": "方大同拍摄的时候没有封路",
+        "onboard_time": 1772334086,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143908,
+        "num": 116818,
+        "word": "伊朗遭袭小学课本上沾着鲜血",
+        "onboard_time": 1772331328,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113834,
+        "num": 113834,
+        "word": "何炅王嘉尔顺手给刘宪华改名",
+        "onboard_time": 1772340923,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108760,
+        "num": 108760,
+        "word": "超过25岁就不适合劝分了",
+        "onboard_time": 1772337025,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89998,
+        "num": 106962,
+        "word": "退税",
+        "onboard_time": 1772321717,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105341,
+        "num": 105341,
+        "word": "王安宇 季总点天灯吗",
+        "onboard_time": 1772328925,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103007,
+        "num": 103007,
+        "word": "伊朗导弹击中以军总参谋部",
+        "onboard_time": 1772341224,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100169,
+        "num": 100169,
+        "word": "烤香蕉",
+        "onboard_time": 1772340863,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97166,
+        "num": 97166,
+        "word": "在老家不要轻易感冒",
+        "onboard_time": 1772341103,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92548,
+        "num": 92548,
+        "word": "A股行情",
+        "onboard_time": 1772337145,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90483,
+        "num": 90483,
+        "word": "这样的房子才配收我的房租",
+        "onboard_time": 1772325802,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88139,
+        "num": 88139,
+        "word": "中方说谈判之际美以袭击令人震惊",
+        "onboard_time": 1772339605,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86681,
+        "num": 86681,
+        "word": "老一辈助眠就是没轻没重",
+        "onboard_time": 1772338225,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84332,
+        "num": 84332,
+        "word": "七种退税方式",
+        "onboard_time": 1772339125,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81196,
+        "num": 81196,
+        "word": "我国综合国力再上新台阶",
+        "onboard_time": 1772336065,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记称赞他们是县委书记的榜样#"
+    }
+  }
+}
