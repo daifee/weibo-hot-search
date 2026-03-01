@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772354506926,
+  "endTime": 1772355331711,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -147,20 +147,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 771642,
+      "num": 215880,
+      "word": "杨紫上次恋爱已是七年前",
+      "onboard_time": 1772350703,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 744438,
       "num": 387822,
       "word": "伊朗反政府人士推倒哈梅内伊雕像",
       "onboard_time": 1772333725,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 739541,
-      "num": 215880,
-      "word": "杨紫上次恋爱已是七年前",
-      "onboard_time": 1772350703,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 729989,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588802,
+      "num": 910794,
+      "word": "小镇唯一外卖员靠跑单月入过万",
+      "onboard_time": 1772351303,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587385,
       "num": 587385,
       "word": "国防部回应美方指责中方",
@@ -331,14 +339,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 490405,
-      "num": 910794,
-      "word": "小镇唯一外卖员靠跑单月入过万",
-      "onboard_time": 1772351303,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 489587,
       "num": 284316,
       "word": "专家称未来48小时决定金价走势",
@@ -409,6 +409,14 @@
       "onboard_time": 1772321659,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 399500,
+      "num": 151690,
+      "word": "贝因美 大麻二酚",
+      "onboard_time": 1772353462,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 397581,
@@ -539,12 +547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316088,
+      "num": 274336,
+      "word": "蔡思贝被TVB官网除名",
+      "onboard_time": 1772353223,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315914,
       "num": 499266,
       "word": "这样的房子才配收我的房租",
       "onboard_time": 1772325802,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 309345,
+      "num": 179467,
+      "word": "耙耙柑是很善良的水果",
+      "onboard_time": 1772350884,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 308479,
@@ -571,12 +595,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 297034,
-      "num": 179467,
-      "word": "耙耙柑是很善良的水果",
-      "onboard_time": 1772350884,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 296923,
+      "num": 296923,
+      "word": "中国男篮vs中国台北男篮",
+      "onboard_time": 1772352263,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 296070,
@@ -659,12 +683,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 274336,
-      "num": 274336,
-      "word": "蔡思贝被TVB官网除名",
-      "onboard_time": 1772353223,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 272355,
+      "num": 272355,
+      "word": "4399跳转steam",
+      "onboard_time": 1772352623,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 269893,
@@ -705,14 +729,6 @@
       "onboard_time": 1772347942,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241476,
-      "num": 150370,
-      "word": "贝因美 大麻二酚",
-      "onboard_time": 1772353462,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239437,
@@ -809,14 +825,6 @@
       "onboard_time": 1772296401,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 202289,
-      "num": 202289,
-      "word": "中国男篮vs中国台北男篮",
-      "onboard_time": 1772352263,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 198802,
@@ -923,14 +931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 177219,
-      "num": 177219,
-      "word": "4399跳转steam",
-      "onboard_time": 1772352623,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175080,
       "num": 175080,
       "word": "伊朗3场世界杯小组赛都在美国球场踢",
@@ -955,12 +955,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166666,
-      "num": 166666,
+      "raw_hot": 169518,
+      "num": 169518,
       "word": "23岁博士生患胃癌晚期家人发声",
       "onboard_time": 1772351542,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166660,
+      "num": 166660,
+      "word": "伊朗袭击27个美军基地",
+      "onboard_time": 1772355083,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 165994,
@@ -976,6 +984,14 @@
       "word": "EXO参加金俊勉哥哥婚礼",
       "onboard_time": 1772341463,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162377,
+      "num": 162377,
+      "word": "宋智孝首次全身健康检查结果公开",
+      "onboard_time": 1772349682,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1051,12 +1067,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149370,
-      "num": 149370,
-      "word": "宋智孝首次全身健康检查结果公开",
-      "onboard_time": 1772349682,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 149522,
+      "num": 149522,
+      "word": "不建议电脑缩放调成500%",
+      "onboard_time": 1772354421,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 147785,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1772337145,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147616,
+      "num": 147616,
+      "word": "迪拜机场被炸前记者接到中国同胞",
+      "onboard_time": 1772354544,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 146946,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1772341645,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144034,
+      "num": 144034,
+      "word": "蒋敦豪这个工作不接那就是别人接了",
+      "onboard_time": 1772353823,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 141822,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1772282904,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 136552,
-      "num": 136552,
-      "word": "不建议电脑缩放调成500%",
-      "onboard_time": 1772354421,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 135172,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1772347825,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 122680,
+      "num": 122680,
+      "word": "谢娜 丁程鑫皮痒痒了哇",
+      "onboard_time": 1772354604,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 120391,
@@ -1299,6 +1331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111819,
+      "num": 111819,
+      "word": "六点半下班和七点半下班的差别",
+      "onboard_time": 1772355024,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110269,
       "num": 110269,
       "word": "在老家不要轻易感冒",
@@ -1379,6 +1419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101367,
+      "num": 101367,
+      "word": "小黄豆回应妈妈像陈妍希",
+      "onboard_time": 1772354303,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 100315,
       "num": 196957,
       "word": "王楚钦拒绝申请鹰眼挑战",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1772332107,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95716,
-      "num": 95716,
-      "word": "蒋敦豪这个工作不接那就是别人接了",
-      "onboard_time": 1772353823,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 94606,
@@ -1521,14 +1561,6 @@
       "onboard_time": 1772339125,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82821,
-      "num": 82821,
-      "word": "小黄豆回应妈妈像陈妍希",
-      "onboard_time": 1772354303,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 82779,
@@ -1875,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18197,
+      "num": 125051,
+      "word": "中国农机火到海外",
+      "onboard_time": 1772354783,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17377,
       "num": 71944,
       "word": "王嘉尔这一跳给李雪琴吊成翘嘴",
@@ -1889,6 +1929,14 @@
       "onboard_time": 1772271204,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11513,
+      "num": 727484,
+      "word": "全国春日4d大片已上映",
+      "onboard_time": 1772354962,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7896,
