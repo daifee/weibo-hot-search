@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772341306540,
+  "endTime": 1772341735976,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1196367,
-      "num": 612271,
+      "num": 625283,
       "word": "伊朗政府宣布40天全国哀悼",
       "onboard_time": 1772329467,
       "rank": 5,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 613230,
-      "num": 613230,
+      "num": 629618,
       "word": "撞人族已成为日本全国性问题",
       "onboard_time": 1772335287,
       "rank": 7,
@@ -187,6 +187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 576223,
+      "num": 1608625,
+      "word": "有人凌晨蹲点退税退了3万多",
+      "onboard_time": 1772336905,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 574637,
       "num": 472612,
       "word": "伊朗称导弹击中美军舰",
@@ -211,12 +219,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 539920,
-      "num": 1608625,
-      "word": "有人凌晨蹲点退税退了3万多",
-      "onboard_time": 1772336905,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 513476,
+      "num": 290877,
+      "word": "杨幂 得罪就得罪吧",
+      "onboard_time": 1772340504,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 510003,
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365117,
+      "num": 293210,
+      "word": "伊朗称将抵抗到最后一滴血",
+      "onboard_time": 1772336005,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 364605,
       "num": 526609,
       "word": "油价或出现历史性飙升",
@@ -315,11 +331,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 357853,
-      "num": 293210,
-      "word": "伊朗称将抵抗到最后一滴血",
-      "onboard_time": 1772336005,
-      "rank": 14,
+      "raw_hot": 351065,
+      "num": 290005,
+      "word": "曝哈梅内伊已任命继任者",
+      "onboard_time": 1772336124,
+      "rank": 16,
       "category": "国际时政"
     },
     {
@@ -331,28 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350153,
-      "num": 290877,
-      "word": "杨幂 得罪就得罪吧",
-      "onboard_time": 1772340504,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 322440,
       "num": 322440,
       "word": "椰树广告 擦边",
       "onboard_time": 1772275884,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 320159,
-      "num": 290005,
-      "word": "曝哈梅内伊已任命继任者",
-      "onboard_time": 1772336124,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 315914,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 239437,
-      "num": 225357,
+      "num": 227494,
       "word": "美军公布对伊朗行动视频",
       "onboard_time": 1772337265,
       "rank": 21,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182604,
+      "num": 132260,
+      "word": "反美领袖哈梅内伊的一生",
+      "onboard_time": 1772341403,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179775,
       "num": 160366,
       "word": "伊朗启动大规模军事行动",
@@ -659,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171746,
+      "num": 116596,
+      "word": "伊朗导弹击中以军总参谋部",
+      "onboard_time": 1772341224,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171201,
       "num": 119926,
       "word": "母亲回应18岁女儿感染多种高危HPV",
@@ -673,6 +689,22 @@
       "onboard_time": 1772327664,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165082,
+      "num": 244947,
+      "word": "孙颖莎vs陈熠",
+      "onboard_time": 1772340684,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162829,
+      "num": 162829,
+      "word": "EXO参加金俊勉哥哥婚礼",
+      "onboard_time": 1772341463,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 156959,
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 147785,
-      "num": 119340,
+      "num": 124015,
       "word": "你是张栋梁那他是谁",
       "onboard_time": 1772337145,
       "rank": 31,
@@ -811,14 +843,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 119404,
-      "num": 119404,
-      "word": "孙颖莎vs陈熠",
-      "onboard_time": 1772340684,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118127,
       "num": 364228,
       "word": "山姆520元巧克力降到99元",
@@ -859,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113438,
+      "num": 113438,
+      "word": "超过25岁就不适合劝分了",
+      "onboard_time": 1772337025,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111899,
       "num": 284178,
       "word": "约40名伊朗官员在袭击中死亡",
@@ -867,12 +899,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 108760,
-      "num": 108760,
-      "word": "超过25岁就不适合劝分了",
-      "onboard_time": 1772337025,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 110269,
+      "num": 110269,
+      "word": "在老家不要轻易感冒",
+      "onboard_time": 1772341103,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 108465,
@@ -889,14 +921,6 @@
       "onboard_time": 1772291243,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103007,
-      "num": 103007,
-      "word": "伊朗导弹击中以军总参谋部",
-      "onboard_time": 1772341224,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101865,
@@ -923,6 +947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100026,
+      "num": 100026,
+      "word": "A股行情",
+      "onboard_time": 1772337145,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99358,
       "num": 141520,
       "word": "雷军官宣小米VGT实车现身巴塞罗那",
@@ -939,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97166,
-      "num": 97166,
-      "word": "在老家不要轻易感冒",
-      "onboard_time": 1772341103,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94606,
       "num": 211930,
       "word": "王楚然完全老公姐",
@@ -961,14 +985,6 @@
       "onboard_time": 1772296101,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 92548,
-      "num": 92548,
-      "word": "A股行情",
-      "onboard_time": 1772337145,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 90939,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1772338225,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84525,
+      "num": 116766,
+      "word": "28岁男子性格淡漠误诊精分治疗2年",
+      "onboard_time": 1772341645,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84332,
@@ -1083,19 +1107,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64705,
+      "num": 225767,
+      "word": "中东现场直击",
+      "onboard_time": 1772340323,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63370,
       "num": 118431,
       "word": "迪拜再次传出爆炸声",
       "onboard_time": 1772313014,
       "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 52587,
-      "num": 225767,
-      "word": "中东现场直击",
-      "onboard_time": 1772340323,
-      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -1105,6 +1129,14 @@
       "onboard_time": 1772286324,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49805,
+      "num": 232802,
+      "word": "陈妍希状态满40减20",
+      "onboard_time": 1772341463,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 47474,
@@ -1265,6 +1297,14 @@
       "onboard_time": 1772271204,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 7896,
+      "num": 132675,
+      "word": "椰树曾称椰汁擦乳是科普非广告",
+      "onboard_time": 1772341525,
+      "rank": 31,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
