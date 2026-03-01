@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772349009228,
+  "endTime": 1772350882208,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 948901,
-      "num": 269539,
+      "num": 596405,
       "word": "秦岚嗓子哑了三年",
       "onboard_time": 1772343683,
       "rank": 12,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 773455,
-      "num": 291356,
+      "num": 597041,
       "word": "杨幂 得罪就得罪吧",
       "onboard_time": 1772340504,
       "rank": 15,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 772407,
-      "num": 347939,
+      "num": 654389,
       "word": "中国人民永远都要保持居安思危的清醒",
       "onboard_time": 1772343083,
       "rank": 8,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 729989,
-      "num": 225380,
+      "num": 554933,
       "word": "伊朗代表要求美国保持礼貌",
       "onboard_time": 1772347463,
       "rank": 18,
@@ -291,6 +291,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 533755,
+      "num": 671733,
+      "word": "2岁小孩高铁车厢唱歌旅客大打出手",
+      "onboard_time": 1772346443,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 520745,
+      "num": 520745,
+      "word": "陈妍希李钟硕余承恩秀场合照",
+      "onboard_time": 1772348003,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510003,
       "num": 299448,
       "word": "伊朗遭袭小学超150人死亡",
@@ -339,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 410924,
+      "num": 643352,
+      "word": "秦岚一分钟说了15句谢谢",
+      "onboard_time": 1772348303,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408339,
       "num": 377413,
       "word": "杨紫爱自己少吃多睡戒色",
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 401586,
-      "num": 225537,
+      "num": 256317,
       "word": "哈梅内伊住所遭袭前后对比景象",
       "onboard_time": 1772343922,
       "rank": 19,
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 373196,
-      "num": 225591,
+      "num": 285597,
       "word": "王者荣耀 TF四代",
       "onboard_time": 1772344522,
       "rank": 27,
@@ -411,6 +435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 363487,
+      "num": 363487,
+      "word": "伊朗称伊朗武装部队总参谋长身亡",
+      "onboard_time": 1772347825,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 351065,
       "num": 290005,
       "word": "曝哈梅内伊已任命继任者",
@@ -427,11 +459,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334460,
-      "num": 334460,
-      "word": "2岁小孩高铁车厢唱歌旅客大打出手",
-      "onboard_time": 1772346443,
-      "rank": 6,
+      "raw_hot": 325432,
+      "num": 626516,
+      "word": "10万元黄金被女儿当垃圾扔了",
+      "onboard_time": 1772347104,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -635,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 231190,
+      "num": 215880,
+      "word": "杨紫上次恋爱已是七年前",
+      "onboard_time": 1772350703,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222678,
       "num": 222678,
       "word": "王安宇 季总点天灯吗",
@@ -683,12 +723,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 202053,
-      "num": 225259,
-      "word": "伊朗称伊朗武装部队总参谋长身亡",
-      "onboard_time": 1772347825,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 202889,
+      "num": 202889,
+      "word": "夏之光妈妈 姐系妈感",
+      "onboard_time": 1772348723,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198802,
+      "num": 198802,
+      "word": "宗馥莉砍掉娃哈哈机器人业务",
+      "onboard_time": 1772349203,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197277,
@@ -737,14 +785,6 @@
       "onboard_time": 1772325203,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190380,
-      "num": 190380,
-      "word": "陈妍希李钟硕余承恩秀场合照",
-      "onboard_time": 1772348003,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 189771,
@@ -803,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173357,
-      "num": 215977,
-      "word": "10万元黄金被女儿当垃圾扔了",
-      "onboard_time": 1772347104,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172748,
       "num": 475363,
       "word": "国乒仅王楚钦晋级男单四强",
@@ -835,12 +867,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165605,
+      "num": 161144,
+      "word": "伊拉克宣布全国哀悼3天",
+      "onboard_time": 1772349861,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162829,
       "num": 162829,
       "word": "EXO参加金俊勉哥哥婚礼",
       "onboard_time": 1772341463,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161557,
+      "num": 161557,
+      "word": "王楚钦vsF勒布伦",
+      "onboard_time": 1772350461,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 156959,
@@ -867,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151833,
+      "num": 151833,
+      "word": "林昀儒战胜莫雷加德",
+      "onboard_time": 1772349443,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150697,
       "num": 150697,
       "word": "迪丽热巴全维语采访",
@@ -881,6 +937,14 @@
       "onboard_time": 1772287524,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149285,
+      "num": 149285,
+      "word": "伊朗公布部分遇害高级军官名单",
+      "onboard_time": 1772349923,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147785,
@@ -987,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130766,
+      "num": 130766,
+      "word": "宋智孝首次全身健康检查结果公开",
+      "onboard_time": 1772349682,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130439,
       "num": 130439,
       "word": "方大同才二十三MV上线",
@@ -995,12 +1067,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 124705,
-      "num": 124705,
-      "word": "秦岚一分钟说了15句谢谢",
-      "onboard_time": 1772348303,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 124389,
+      "num": 124389,
+      "word": "王曼昱1比8落后大逆转",
+      "onboard_time": 1772349982,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 124022,
@@ -1025,6 +1097,14 @@
       "onboard_time": 1772330430,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118978,
+      "num": 118978,
+      "word": "美媒称谷爱凌有双重国籍毫无证据",
+      "onboard_time": 1772350043,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 118127,
@@ -1115,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107235,
+      "num": 107235,
+      "word": "陆仙人自曝不会交女朋友",
+      "onboard_time": 1772350461,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 105625,
       "num": 118600,
       "word": "中500w彩票冷知识",
@@ -1171,12 +1259,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99469,
+      "num": 99469,
+      "word": "余承恩入青云杀青后出不了戏",
+      "onboard_time": 1772348843,
+      "rank": 39,
+      "category": "综艺,剧集"
+    },
+    {
       "raw_hot": 99358,
       "num": 141520,
       "word": "雷军官宣小米VGT实车现身巴塞罗那",
       "onboard_time": 1772333725,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 98197,
+      "num": 98197,
+      "word": "镖人",
+      "onboard_time": 1772346982,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 97632,
@@ -1259,14 +1363,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 87191,
-      "num": 85231,
-      "word": "夏之光妈妈 姐系妈感",
-      "onboard_time": 1772348723,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86681,
       "num": 86681,
       "word": "老一辈助眠就是没轻没重",
@@ -1307,19 +1403,27 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 80917,
-      "num": 80917,
-      "word": "镖人",
-      "onboard_time": 1772346982,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 80454,
       "num": 80454,
       "word": "苦了谁也不能苦了朋友圈",
       "onboard_time": 1772347222,
       "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 79671,
+      "num": 97950,
+      "word": "肖战自曝有一点强迫症",
+      "onboard_time": 1772350822,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78664,
+      "num": 97978,
+      "word": "狗狗嗤之以鼻具象化了",
+      "onboard_time": 1772350643,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -1443,12 +1547,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 54972,
+      "num": 218822,
+      "word": "美情报机构追踪哈梅内伊数月",
+      "onboard_time": 1772350102,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51298,
       "num": 2141971,
       "word": "3月起一批国家标准开始实施",
       "onboard_time": 1772286324,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50616,
+      "num": 219874,
+      "word": "还是原生胶原脸最抗老",
+      "onboard_time": 1772348662,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 47474,
@@ -1491,6 +1611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43503,
+      "num": 607949,
+      "word": "孙颖莎4比1战胜陈熠",
+      "onboard_time": 1772349923,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43488,
       "num": 135204,
       "word": "孙颖莎和早田希娜赛后说了啥",
@@ -1505,14 +1633,6 @@
       "onboard_time": 1772284944,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41992,
-      "num": 192932,
-      "word": "还是原生胶原脸最抗老",
-      "onboard_time": 1772348662,
-      "rank": 23,
-      "category": "美妆"
     },
     {
       "raw_hot": 39962,
@@ -1609,14 +1729,6 @@
       "onboard_time": 1772279242,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23589,
-      "num": 85665,
-      "word": "余承恩入青云杀青后出不了戏",
-      "onboard_time": 1772348843,
-      "rank": 39,
-      "category": "综艺,剧集"
     },
     {
       "raw_hot": 23158,

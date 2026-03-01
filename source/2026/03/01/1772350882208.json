@@ -1,0 +1,410 @@
+{
+  "runTime": 1772350882208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1545382,
+        "num": 1545382,
+        "word": "伊朗确认继任者后或将扩大反击",
+        "onboard_time": 1772343083,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364446,
+        "num": 934447,
+        "word": "女子感觉金手镯变轻报警前男友自首",
+        "onboard_time": 1772342723,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27342,
+        "num": 688662,
+        "word": "网警提醒规避考研查分陷阱",
+        "onboard_time": 1772340204,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 2138102,
+        "num": 676629,
+        "word": "哈梅内伊遇害",
+        "onboard_time": 1772329044,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 533755,
+        "num": 671733,
+        "word": "2岁小孩高铁车厢唱歌旅客大打出手",
+        "onboard_time": 1772346443,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518832,
+        "num": 654389,
+        "word": "中国人民永远都要保持居安思危的清醒",
+        "onboard_time": 1772343083,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410924,
+        "num": 643352,
+        "word": "秦岚一分钟说了15句谢谢",
+        "onboard_time": 1772348303,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325432,
+        "num": 626516,
+        "word": "10万元黄金被女儿当垃圾扔了",
+        "onboard_time": 1772347104,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310175,
+        "num": 621521,
+        "word": "撞人族已成为日本全国性问题",
+        "onboard_time": 1772335287,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43503,
+        "num": 607949,
+        "word": "孙颖莎4比1战胜陈熠",
+        "onboard_time": 1772349923,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597041,
+        "num": 597041,
+        "word": "杨幂 得罪就得罪吧",
+        "onboard_time": 1772340504,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 769385,
+        "num": 596405,
+        "word": "秦岚嗓子哑了三年",
+        "onboard_time": 1772343683,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554933,
+        "num": 554933,
+        "word": "伊朗代表要求美国保持礼貌",
+        "onboard_time": 1772347463,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 520745,
+        "num": 520745,
+        "word": "陈妍希李钟硕余承恩秀场合照",
+        "onboard_time": 1772348003,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363487,
+        "num": 363487,
+        "word": "伊朗称伊朗武装部队总参谋长身亡",
+        "onboard_time": 1772347825,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 285597,
+        "num": 285597,
+        "word": "王者荣耀 TF四代",
+        "onboard_time": 1772344522,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 319704,
+        "num": 256317,
+        "word": "哈梅内伊住所遭袭前后对比景象",
+        "onboard_time": 1772343922,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220326,
+        "num": 220326,
+        "word": "宋智孝不考虑戒酒",
+        "onboard_time": 1772347942,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50616,
+        "num": 219874,
+        "word": "还是原生胶原脸最抗老",
+        "onboard_time": 1772348662,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 54972,
+        "num": 218822,
+        "word": "美情报机构追踪哈梅内伊数月",
+        "onboard_time": 1772350102,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 402397,
+        "num": 217444,
+        "word": "黄金",
+        "onboard_time": 1772332948,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 311248,
+        "num": 216366,
+        "word": "携程回应大马士革到上海机票550万",
+        "onboard_time": 1772342723,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231190,
+        "num": 215880,
+        "word": "杨紫上次恋爱已是七年前",
+        "onboard_time": 1772350703,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214853,
+        "num": 214853,
+        "word": "家属单位楼里藏了个别墅",
+        "onboard_time": 1772339305,
+        "rank": 23,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 202889,
+        "num": 202889,
+        "word": "夏之光妈妈 姐系妈感",
+        "onboard_time": 1772348723,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198802,
+        "num": 198802,
+        "word": "宗馥莉砍掉娃哈哈机器人业务",
+        "onboard_time": 1772349203,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192674,
+        "num": 192674,
+        "word": "短剧四小花旦同框",
+        "onboard_time": 1772343863,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186006,
+        "num": 186006,
+        "word": "金价或将冲击历史新高",
+        "onboard_time": 1772347222,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177648,
+        "num": 177648,
+        "word": "伊朗导弹击中以军总参谋部",
+        "onboard_time": 1772341224,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161557,
+        "num": 161557,
+        "word": "王楚钦vsF勒布伦",
+        "onboard_time": 1772350461,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165605,
+        "num": 161144,
+        "word": "伊拉克宣布全国哀悼3天",
+        "onboard_time": 1772349861,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152647,
+        "num": 152647,
+        "word": "有人凌晨蹲点退税退了3万多",
+        "onboard_time": 1772336905,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163261,
+        "num": 152573,
+        "word": "反美领袖哈梅内伊的一生",
+        "onboard_time": 1772341403,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151833,
+        "num": 151833,
+        "word": "林昀儒战胜莫雷加德",
+        "onboard_time": 1772349443,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149285,
+        "num": 149285,
+        "word": "伊朗公布部分遇害高级军官名单",
+        "onboard_time": 1772349923,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146753,
+        "num": 146753,
+        "word": "杨幂去米兰没有带卡",
+        "onboard_time": 1772345542,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130766,
+        "num": 130766,
+        "word": "宋智孝首次全身健康检查结果公开",
+        "onboard_time": 1772349682,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124389,
+        "num": 124389,
+        "word": "王曼昱1比8落后大逆转",
+        "onboard_time": 1772349982,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123121,
+        "num": 123121,
+        "word": "厚本征婚",
+        "onboard_time": 1772347825,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118978,
+        "num": 118978,
+        "word": "美媒称谷爱凌有双重国籍毫无证据",
+        "onboard_time": 1772350043,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118143,
+        "num": 118143,
+        "word": "官俊臣参加高考成人礼",
+        "onboard_time": 1772344943,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112098,
+        "num": 112098,
+        "word": "迪丽热巴3月份行程图",
+        "onboard_time": 1772337265,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111500,
+        "num": 111500,
+        "word": "全军启用预备役人员证",
+        "onboard_time": 1772345302,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 107235,
+        "num": 107235,
+        "word": "陆仙人自曝不会交女朋友",
+        "onboard_time": 1772350461,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 99469,
+        "num": 99469,
+        "word": "余承恩入青云杀青后出不了戏",
+        "onboard_time": 1772348843,
+        "rank": 44,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 83910,
+        "num": 98428,
+        "word": "孙颖莎vs陈熠",
+        "onboard_time": 1772340684,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98197,
+        "num": 98197,
+        "word": "镖人",
+        "onboard_time": 1772346982,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97994,
+        "num": 97994,
+        "word": "杨紫爱自己少吃多睡戒色",
+        "onboard_time": 1772323942,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78664,
+        "num": 97978,
+        "word": "狗狗嗤之以鼻具象化了",
+        "onboard_time": 1772350643,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79671,
+        "num": 97950,
+        "word": "肖战自曝有一点强迫症",
+        "onboard_time": 1772350822,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记称赞他们是县委书记的榜样#"
+    }
+  }
+}
