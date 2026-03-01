@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772370208711,
+  "endTime": 1772370987362,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 1356215,
-      "num": 251038,
+      "num": 255017,
       "word": "三甲医生回应秦岚嗓子哑了三年",
       "onboard_time": 1772360303,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1325004,
+      "num": 686397,
+      "word": "赵今麦流浪地球3造型",
+      "onboard_time": 1772368104,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1268750,
@@ -97,14 +105,6 @@
       "onboard_time": 1772332347,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1230438,
-      "num": 686397,
-      "word": "赵今麦流浪地球3造型",
-      "onboard_time": 1772368104,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1196367,
@@ -163,6 +163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 846486,
+      "num": 256186,
+      "word": "陈思罕 我是一个专业的摄影师",
+      "onboard_time": 1772368584,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808279,
       "num": 2765817,
       "word": "中方呼吁军事行动立即停止",
@@ -219,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 749579,
-      "num": 232515,
-      "word": "陈思罕 我是一个专业的摄影师",
-      "onboard_time": 1772368584,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 744438,
       "num": 387822,
       "word": "伊朗反政府人士推倒哈梅内伊雕像",
@@ -257,6 +257,14 @@
       "onboard_time": 1772353462,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 658238,
+      "num": 251281,
+      "word": "陈思罕镜头里的四代",
+      "onboard_time": 1772369723,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 651042,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 499317,
-      "num": 229465,
+      "num": 246308,
       "word": "黄轩的手 此沙的脚",
       "onboard_time": 1772363244,
       "rank": 26,
@@ -505,14 +513,6 @@
       "onboard_time": 1772291963,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 457644,
-      "num": 231392,
-      "word": "陈思罕镜头里的四代",
-      "onboard_time": 1772369723,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 447635,
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 397942,
-      "num": 229336,
+      "num": 230152,
       "word": "宋亚轩海胆头",
       "onboard_time": 1772361862,
       "rank": 40,
@@ -696,6 +696,14 @@
       "word": "瓦希迪执掌伊朗伊斯兰革命卫队",
       "onboard_time": 1772359043,
       "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 351555,
+      "num": 252458,
+      "word": "一油轮欲通过霍尔木兹海峡被击中",
+      "onboard_time": 1772368945,
+      "rank": 23,
       "category": "国际时政"
     },
     {
@@ -931,6 +939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 273427,
+      "num": 273427,
+      "word": "张凌赫田曦薇从见面到合作用了386天",
+      "onboard_time": 1772369663,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272355,
       "num": 272355,
       "word": "4399跳转steam",
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 259992,
-      "num": 230102,
+      "num": 236323,
       "word": "迪拜已拦截超百次伊朗炸弹",
       "onboard_time": 1772367744,
       "rank": 21,
@@ -993,6 +1009,14 @@
       "onboard_time": 1772354544,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 245568,
+      "num": 245568,
+      "word": "世界乒联恭喜孙颖莎新加坡大满贯卫冕",
+      "onboard_time": 1772369964,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 242360,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1772298140,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 227820,
+      "num": 227820,
+      "word": "AI短剧",
+      "onboard_time": 1772369244,
+      "rank": 27,
+      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 227808,
@@ -1107,14 +1139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209216,
-      "num": 209216,
-      "word": "AI短剧",
-      "onboard_time": 1772369244,
-      "rank": 27,
-      "category": "作品衍生,互联网"
-    },
-    {
       "raw_hot": 208288,
       "num": 208288,
       "word": "台胞可持台胞证登记撤离以色列",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1772326404,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 197017,
-      "num": 197017,
-      "word": "张凌赫田曦薇从见面到合作用了386天",
-      "onboard_time": 1772369663,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 196612,
@@ -1227,6 +1243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187457,
+      "num": 230030,
+      "word": "1010元托运柴犬3天没喝一口水死亡",
+      "onboard_time": 1772368945,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 185823,
       "num": 477279,
       "word": "美颜突然关掉吓得人一哆嗦",
@@ -1264,14 +1288,6 @@
       "word": "伊朗3场世界杯小组赛都在美国球场踢",
       "onboard_time": 1772337804,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 174529,
-      "num": 174529,
-      "word": "世界乒联恭喜孙颖莎新加坡大满贯卫冕",
-      "onboard_time": 1772369964,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -1337,6 +1353,14 @@
       "onboard_time": 1772350102,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157365,
+      "num": 248292,
+      "word": "秦PLUS官宣7年低息夯爆了",
+      "onboard_time": 1772368884,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 156959,
@@ -1467,14 +1491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143013,
-      "num": 230030,
-      "word": "1010元托运柴犬3天没喝一口水死亡",
-      "onboard_time": 1772368945,
-      "rank": 22,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 141822,
       "num": 141822,
       "word": "伊朗称将严惩凶手",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1772355443,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138450,
+      "num": 138450,
+      "word": "有中国公民在袭击中受伤",
+      "onboard_time": 1772370563,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 138053,
@@ -1667,20 +1691,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119078,
+      "num": 119078,
+      "word": "荣耀发布会",
+      "onboard_time": 1772370803,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118978,
       "num": 118978,
       "word": "美媒称谷爱凌有双重国籍毫无证据",
       "onboard_time": 1772350043,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118292,
-      "num": 229713,
-      "word": "一油轮欲通过霍尔木兹海峡被击中",
-      "onboard_time": 1772368945,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118127,
@@ -1705,14 +1729,6 @@
       "onboard_time": 1772362944,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117279,
-      "num": 230997,
-      "word": "秦PLUS官宣7年低息夯爆了",
-      "onboard_time": 1772368884,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 116968,
@@ -1832,6 +1848,14 @@
       "word": "在老家不要轻易感冒",
       "onboard_time": 1772341103,
       "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 109850,
+      "num": 109850,
+      "word": "戴簪花的萨摩耶",
+      "onboard_time": 1772367622,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -1971,6 +1995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99469,
+      "num": 99469,
+      "word": "男子喜宴误饮燃料氰化物中毒身亡",
+      "onboard_time": 1772370324,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99393,
       "num": 99393,
       "word": "王楚钦回应胜F勒布伦",
@@ -1993,6 +2025,14 @@
       "onboard_time": 1772357782,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98259,
+      "num": 98259,
+      "word": "孙颖莎与王曼昱的30次国际交手",
+      "onboard_time": 1772370503,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97632,
