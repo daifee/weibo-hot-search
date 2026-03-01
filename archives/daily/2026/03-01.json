@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772351629023,
+  "endTime": 1772354506926,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -153,6 +153,14 @@
       "onboard_time": 1772333725,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 739541,
+      "num": 215880,
+      "word": "杨紫上次恋爱已是七年前",
+      "onboard_time": 1772350703,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 729989,
@@ -323,12 +331,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 490405,
+      "num": 910794,
+      "word": "小镇唯一外卖员靠跑单月入过万",
+      "onboard_time": 1772351303,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 489587,
       "num": 284316,
       "word": "专家称未来48小时决定金价走势",
       "onboard_time": 1772330129,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 481992,
+      "num": 449955,
+      "word": "伊朗公布部分遇害高级军官名单",
+      "onboard_time": 1772349923,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 479332,
@@ -387,6 +411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 397581,
+      "num": 397581,
+      "word": "将门独后王鹤棣路透",
+      "onboard_time": 1772352862,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 395082,
       "num": 346345,
       "word": "伊朗一小学遭袭51人死60人伤",
@@ -415,14 +447,6 @@
       "num": 372922,
       "word": "王鹤棣 阿迪达斯",
       "onboard_time": 1772332228,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 372205,
-      "num": 215880,
-      "word": "杨紫上次恋爱已是七年前",
-      "onboard_time": 1772350703,
       "rank": 22,
       "category": "艺人"
     },
@@ -467,6 +491,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346223,
+      "num": 291078,
+      "word": "伊拉克宣布全国哀悼3天",
+      "onboard_time": 1772349861,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 333296,
+      "num": 282595,
+      "word": "郭晓婷王天辰双人杂志",
+      "onboard_time": 1772351662,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329772,
       "num": 626516,
       "word": "10万元黄金被女儿当垃圾扔了",
@@ -491,20 +531,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318212,
+      "num": 318212,
+      "word": "王楚钦vsF勒布伦",
+      "onboard_time": 1772350461,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315914,
       "num": 499266,
       "word": "这样的房子才配收我的房租",
       "onboard_time": 1772325802,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 308820,
-      "num": 308820,
-      "word": "王楚钦vsF勒布伦",
-      "onboard_time": 1772350461,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 308479,
@@ -529,6 +569,14 @@
       "onboard_time": 1772293583,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 297034,
+      "num": 179467,
+      "word": "耙耙柑是很善良的水果",
+      "onboard_time": 1772350884,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 296070,
@@ -611,6 +659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 274336,
+      "num": 274336,
+      "word": "蔡思贝被TVB官网除名",
+      "onboard_time": 1772353223,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269893,
       "num": 228221,
       "word": "美方披露战斗受损情况",
@@ -625,14 +681,6 @@
       "onboard_time": 1772327784,
       "rank": 27,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 256406,
-      "num": 192794,
-      "word": "伊拉克宣布全国哀悼3天",
-      "onboard_time": 1772349861,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 252669,
@@ -659,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241476,
+      "num": 150370,
+      "word": "贝因美 大麻二酚",
+      "onboard_time": 1772353462,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239437,
       "num": 227494,
       "word": "美军公布对伊朗行动视频",
@@ -673,6 +729,14 @@
       "onboard_time": 1772335884,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 238070,
+      "num": 178507,
+      "word": "陆仙人自曝不会交女朋友",
+      "onboard_time": 1772350461,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 236843,
@@ -747,20 +811,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 202289,
+      "num": 202289,
+      "word": "中国男篮vs中国台北男篮",
+      "onboard_time": 1772352263,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198802,
       "num": 198802,
       "word": "宗馥莉砍掉娃哈哈机器人业务",
       "onboard_time": 1772349203,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198136,
-      "num": 179249,
-      "word": "伊朗公布部分遇害高级军官名单",
-      "onboard_time": 1772349923,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 197277,
@@ -857,6 +921,14 @@
       "onboard_time": 1772294423,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177219,
+      "num": 177219,
+      "word": "4399跳转steam",
+      "onboard_time": 1772352623,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 175080,
@@ -963,12 +1035,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150580,
+      "num": 150580,
+      "word": "王楚钦男单争冠",
+      "onboard_time": 1772354421,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150392,
       "num": 473529,
       "word": "时光与你都很甜2",
       "onboard_time": 1772287524,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149370,
+      "num": 149370,
+      "word": "宋智孝首次全身健康检查结果公开",
+      "onboard_time": 1772349682,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 147785,
@@ -1001,22 +1089,6 @@
       "onboard_time": 1772341645,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145303,
-      "num": 145303,
-      "word": "陆仙人自曝不会交女朋友",
-      "onboard_time": 1772350461,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 142032,
-      "num": 142032,
-      "word": "耙耙柑是很善良的水果",
-      "onboard_time": 1772350884,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 141822,
@@ -1059,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136552,
+      "num": 136552,
+      "word": "不建议电脑缩放调成500%",
+      "onboard_time": 1772354421,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135172,
       "num": 135172,
       "word": "俄罗斯对美以袭击伊朗表态",
@@ -1089,14 +1169,6 @@
       "onboard_time": 1772286744,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130766,
-      "num": 130766,
-      "word": "宋智孝首次全身健康检查结果公开",
-      "onboard_time": 1772349682,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 130439,
@@ -1153,6 +1225,14 @@
       "onboard_time": 1772270905,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116501,
+      "num": 116501,
+      "word": "王楚钦4比1F勒布伦",
+      "onboard_time": 1772352683,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 115763,
@@ -1315,6 +1395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99393,
+      "num": 99393,
+      "word": "王楚钦回应胜F勒布伦",
+      "onboard_time": 1772354483,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99358,
       "num": 141520,
       "word": "雷军官宣小米VGT实车现身巴塞罗那",
@@ -1329,6 +1417,14 @@
       "onboard_time": 1772332107,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95716,
+      "num": 95716,
+      "word": "蒋敦豪这个工作不接那就是别人接了",
+      "onboard_time": 1772353823,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 94606,
@@ -1427,12 +1523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82821,
+      "num": 82821,
+      "word": "小黄豆回应妈妈像陈妍希",
+      "onboard_time": 1772354303,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 82779,
       "num": 134584,
       "word": "男朋友送的草莓蛋糕第一次见",
       "onboard_time": 1772281162,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81987,
+      "num": 81987,
+      "word": "孙颖莎说跟王曼昱交手都很焦灼",
+      "onboard_time": 1772353523,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81196,
@@ -1707,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28467,
-      "num": 213838,
-      "word": "小镇唯一外卖员靠跑单月入过万",
-      "onboard_time": 1772351303,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27658,
       "num": 54105,
       "word": "江湖夜雨十年灯",
@@ -1801,6 +1905,9 @@
     },
     {
       "word": "#总书记称赞他们是县委书记的榜样#"
+    },
+    {
+      "word": "#总书记的心头事#"
     }
   ]
 }

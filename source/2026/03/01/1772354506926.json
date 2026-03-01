@@ -1,0 +1,410 @@
+{
+  "runTime": 1772354506926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1466081,
+        "num": 1466081,
+        "word": "伊朗确认继任者后或将扩大反击",
+        "onboard_time": 1772343083,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 490405,
+        "num": 910794,
+        "word": "小镇唯一外卖员靠跑单月入过万",
+        "onboard_time": 1772351303,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26072,
+        "num": 693231,
+        "word": "网警提醒规避考研查分陷阱",
+        "onboard_time": 1772340204,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1082395,
+        "num": 652798,
+        "word": "哈梅内伊遇害",
+        "onboard_time": 1772329044,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 456787,
+        "num": 456787,
+        "word": "秦岚嗓子哑了三年",
+        "onboard_time": 1772343683,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481992,
+        "num": 449955,
+        "word": "伊朗公布部分遇害高级军官名单",
+        "onboard_time": 1772349923,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 441339,
+        "num": 441339,
+        "word": "2岁小孩高铁车厢唱歌旅客大打出手",
+        "onboard_time": 1772346443,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397581,
+        "num": 397581,
+        "word": "将门独后王鹤棣路透",
+        "onboard_time": 1772352862,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318212,
+        "num": 318212,
+        "word": "王楚钦vsF勒布伦",
+        "onboard_time": 1772350461,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228576,
+        "num": 312911,
+        "word": "10万元黄金被女儿当垃圾扔了",
+        "onboard_time": 1772347104,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557560,
+        "num": 305250,
+        "word": "陈妍希李钟硕余承恩秀场合照",
+        "onboard_time": 1772348003,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475896,
+        "num": 297789,
+        "word": "杨幂 得罪就得罪吧",
+        "onboard_time": 1772340504,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346223,
+        "num": 291078,
+        "word": "伊拉克宣布全国哀悼3天",
+        "onboard_time": 1772349861,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333296,
+        "num": 282595,
+        "word": "郭晓婷王天辰双人杂志",
+        "onboard_time": 1772351662,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274458,
+        "num": 274458,
+        "word": "伊朗代表要求美国保持礼貌",
+        "onboard_time": 1772347463,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274336,
+        "num": 274336,
+        "word": "蔡思贝被TVB官网除名",
+        "onboard_time": 1772353223,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247374,
+        "num": 247374,
+        "word": "携程回应大马士革到上海机票550万",
+        "onboard_time": 1772342723,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203954,
+        "num": 203954,
+        "word": "秦岚一分钟说了15句谢谢",
+        "onboard_time": 1772348303,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202289,
+        "num": 202289,
+        "word": "中国男篮vs中国台北男篮",
+        "onboard_time": 1772352263,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182839,
+        "num": 182839,
+        "word": "王者荣耀 TF四代",
+        "onboard_time": 1772344522,
+        "rank": 19,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 739541,
+        "num": 182661,
+        "word": "杨紫上次恋爱已是七年前",
+        "onboard_time": 1772350703,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379754,
+        "num": 180617,
+        "word": "黄金",
+        "onboard_time": 1772332948,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 297034,
+        "num": 179467,
+        "word": "耙耙柑是很善良的水果",
+        "onboard_time": 1772350884,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 238070,
+        "num": 178507,
+        "word": "陆仙人自曝不会交女朋友",
+        "onboard_time": 1772350461,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177219,
+        "num": 177219,
+        "word": "4399跳转steam",
+        "onboard_time": 1772352623,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172386,
+        "num": 172386,
+        "word": "撞人族已成为日本全国性问题",
+        "onboard_time": 1772335287,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160501,
+        "num": 160501,
+        "word": "23岁博士生患胃癌晚期家人发声",
+        "onboard_time": 1772351542,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154955,
+        "num": 154955,
+        "word": "哈梅内伊住所遭袭前后对比景象",
+        "onboard_time": 1772343922,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154811,
+        "num": 154811,
+        "word": "女子感觉金手镯变轻报警前男友自首",
+        "onboard_time": 1772342723,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150580,
+        "num": 150580,
+        "word": "王楚钦男单争冠",
+        "onboard_time": 1772354421,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241476,
+        "num": 150370,
+        "word": "贝因美 大麻二酚",
+        "onboard_time": 1772353462,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149370,
+        "num": 149370,
+        "word": "宋智孝首次全身健康检查结果公开",
+        "onboard_time": 1772349682,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144788,
+        "num": 144788,
+        "word": "伊朗称伊朗武装部队总参谋长身亡",
+        "onboard_time": 1772347825,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144195,
+        "num": 144195,
+        "word": "家属单位楼里藏了个别墅",
+        "onboard_time": 1772339305,
+        "rank": 33,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 136734,
+        "num": 136734,
+        "word": "金价或将冲击历史新高",
+        "onboard_time": 1772347222,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136552,
+        "num": 136552,
+        "word": "不建议电脑缩放调成500%",
+        "onboard_time": 1772354421,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129125,
+        "num": 129125,
+        "word": "夏之光妈妈 姐系妈感",
+        "onboard_time": 1772348723,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117782,
+        "num": 117782,
+        "word": "陈慧琳称客厅被儿子弄得丑到要呕",
+        "onboard_time": 1772351003,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116501,
+        "num": 116501,
+        "word": "王楚钦4比1F勒布伦",
+        "onboard_time": 1772352683,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100061,
+        "num": 100061,
+        "word": "镖人",
+        "onboard_time": 1772346982,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99393,
+        "num": 99393,
+        "word": "王楚钦回应胜F勒布伦",
+        "onboard_time": 1772354483,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95716,
+        "num": 95716,
+        "word": "蒋敦豪这个工作不接那就是别人接了",
+        "onboard_time": 1772353823,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95113,
+        "num": 95113,
+        "word": "反美领袖哈梅内伊的一生",
+        "onboard_time": 1772341403,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94370,
+        "num": 94370,
+        "word": "林昀儒战胜莫雷加德",
+        "onboard_time": 1772349443,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90415,
+        "num": 90415,
+        "word": "有人凌晨蹲点退税退了3万多",
+        "onboard_time": 1772336905,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86391,
+        "num": 86391,
+        "word": "短剧四小花旦同框",
+        "onboard_time": 1772343863,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83751,
+        "num": 83751,
+        "word": "伊朗导弹击中以军总参谋部",
+        "onboard_time": 1772341224,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83599,
+        "num": 83599,
+        "word": "迪丽热巴3月份行程图",
+        "onboard_time": 1772337265,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82821,
+        "num": 82821,
+        "word": "小黄豆回应妈妈像陈妍希",
+        "onboard_time": 1772354303,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81987,
+        "num": 81987,
+        "word": "孙颖莎说跟王曼昱交手都很焦灼",
+        "onboard_time": 1772353523,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的心头事#"
+    }
+  }
+}
