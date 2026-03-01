@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772401552916,
+  "endTime": 1772404407154,
   "band_list": [
     {
       "raw_hot": 2377348,
@@ -275,6 +275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97249,
+      "num": 97249,
+      "word": "伊朗发布击落美无人机画面",
+      "onboard_time": 1772391196,
+      "rank": 32,
+      "category": "军事"
+    },
+    {
       "raw_hot": 93415,
       "num": 93415,
       "word": "出轨对象得知感染HIV还瞒着自己",
@@ -305,6 +313,14 @@
       "onboard_time": 1772375548,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86619,
+      "num": 31858,
+      "word": "伊朗革命卫队发起新一轮打击",
+      "onboard_time": 1772392994,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84942,
@@ -387,22 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62260,
-      "num": 28694,
-      "word": "伊朗发布击落美无人机画面",
-      "onboard_time": 1772391196,
-      "rank": 32,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 61475,
-      "num": 19390,
-      "word": "伊朗革命卫队发起新一轮打击",
-      "onboard_time": 1772392994,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 59310,
       "num": 93208,
       "word": "宋亚轩海胆头",
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 34087,
-      "num": 28095,
+      "num": 31957,
       "word": "伊朗导弹击中以色列中部致6死23伤",
       "onboard_time": 1772391016,
       "rank": 33,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 20141,
-      "num": 20141,
+      "num": 23590,
       "word": "玫瑰丛生",
       "onboard_time": 1772393774,
       "rank": 37,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 18780,
-      "num": 18780,
+      "num": 23574,
       "word": "宇宙闪烁请注意",
       "onboard_time": 1772393835,
       "rank": 39,
@@ -491,15 +491,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16324,
-      "num": 23040,
-      "word": "刘宇风华盛典开场舞台",
-      "onboard_time": 1772392395,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 16190,
+      "raw_hot": 17531,
       "num": 32222,
       "word": "WTT新加坡大满贯",
       "onboard_time": 1772371643,
@@ -507,12 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15763,
-      "num": 22996,
+      "raw_hot": 16431,
+      "num": 23567,
       "word": "唐宫奇案之青雾风鸣",
       "onboard_time": 1772390716,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16324,
+      "num": 23539,
+      "word": "刘宇风华盛典开场舞台",
+      "onboard_time": 1772392395,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 10259,
