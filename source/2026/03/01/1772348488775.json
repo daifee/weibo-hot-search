@@ -1,0 +1,410 @@
+{
+  "runTime": 1772348488775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1535139,
+        "num": 1535139,
+        "word": "伊朗确认继任者后或将扩大反击",
+        "onboard_time": 1772343083,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 606227,
+        "num": 917895,
+        "word": "女子感觉金手镯变轻报警前男友自首",
+        "onboard_time": 1772342723,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27183,
+        "num": 686946,
+        "word": "网警提醒规避考研查分陷阱",
+        "onboard_time": 1772340204,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 3165315,
+        "num": 588741,
+        "word": "哈梅内伊遇害",
+        "onboard_time": 1772329044,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 337585,
+        "num": 337585,
+        "word": "撞人族已成为日本全国性问题",
+        "onboard_time": 1772335287,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 772407,
+        "num": 321241,
+        "word": "中国人民永远都要保持居安思危的清醒",
+        "onboard_time": 1772343083,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254734,
+        "num": 254734,
+        "word": "2岁小孩高铁车厢唱歌旅客大打出手",
+        "onboard_time": 1772346443,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229732,
+        "num": 229732,
+        "word": "有人凌晨蹲点退税退了3万多",
+        "onboard_time": 1772336905,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226109,
+        "num": 226109,
+        "word": "家属单位楼里藏了个别墅",
+        "onboard_time": 1772339305,
+        "rank": 8,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 158233,
+        "num": 226097,
+        "word": "孙颖莎vs陈熠",
+        "onboard_time": 1772340684,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 930730,
+        "num": 225975,
+        "word": "秦岚嗓子哑了三年",
+        "onboard_time": 1772343683,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509554,
+        "num": 225899,
+        "word": "杨幂 得罪就得罪吧",
+        "onboard_time": 1772340504,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 464247,
+        "num": 225830,
+        "word": "携程回应大马士革到上海机票550万",
+        "onboard_time": 1772342723,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430056,
+        "num": 225768,
+        "word": "椰树 追求胸大是让婴儿有奶吃",
+        "onboard_time": 1772322139,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388495,
+        "num": 225707,
+        "word": "伊朗导弹击中以军总参谋部",
+        "onboard_time": 1772341224,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352247,
+        "num": 225591,
+        "word": "王者荣耀 TF四代",
+        "onboard_time": 1772344522,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 375846,
+        "num": 225537,
+        "word": "哈梅内伊住所遭袭前后对比景象",
+        "onboard_time": 1772343922,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255442,
+        "num": 225408,
+        "word": "短剧四小花旦同框",
+        "onboard_time": 1772343863,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372886,
+        "num": 225380,
+        "word": "伊朗代表要求美国保持礼貌",
+        "onboard_time": 1772347463,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70344,
+        "num": 225259,
+        "word": "伊朗称伊朗武装部队总参谋长身亡",
+        "onboard_time": 1772347825,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 507051,
+        "num": 225169,
+        "word": "黄金",
+        "onboard_time": 1772332948,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248691,
+        "num": 225118,
+        "word": "杨幂去米兰没有带卡",
+        "onboard_time": 1772345542,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225084,
+        "num": 225084,
+        "word": "反美领袖哈梅内伊的一生",
+        "onboard_time": 1772341403,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222621,
+        "num": 222621,
+        "word": "宋智孝不考虑戒酒",
+        "onboard_time": 1772347942,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203391,
+        "num": 203391,
+        "word": "金价或将冲击历史新高",
+        "onboard_time": 1772347222,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155809,
+        "num": 155809,
+        "word": "10万元黄金被女儿当垃圾扔了",
+        "onboard_time": 1772347104,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133434,
+        "num": 133434,
+        "word": "烤香蕉",
+        "onboard_time": 1772340863,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125553,
+        "num": 125553,
+        "word": "官俊臣参加高考成人礼",
+        "onboard_time": 1772344943,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120738,
+        "num": 120738,
+        "word": "陈妍希李钟硕余承恩秀场合照",
+        "onboard_time": 1772348003,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105625,
+        "num": 118600,
+        "word": "中500w彩票冷知识",
+        "onboard_time": 1772343743,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133279,
+        "num": 118588,
+        "word": "全军启用预备役人员证",
+        "onboard_time": 1772345302,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 118526,
+        "num": 118526,
+        "word": "杨紫爱自己少吃多睡戒色",
+        "onboard_time": 1772323942,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117764,
+        "num": 117764,
+        "word": "迪丽热巴3月份行程图",
+        "onboard_time": 1772337265,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102777,
+        "num": 102777,
+        "word": "广州深圳出发机票暴跌超80%",
+        "onboard_time": 1772346562,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103555,
+        "num": 100217,
+        "word": "厚本征婚",
+        "onboard_time": 1772347825,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97465,
+        "num": 97465,
+        "word": "女童投喂狮子被拖曳涉事动物园停业",
+        "onboard_time": 1772343203,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91100,
+        "num": 91100,
+        "word": "小米17Ultra",
+        "onboard_time": 1772345423,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103825,
+        "num": 90921,
+        "word": "迪丽热巴第一语言不是汉语",
+        "onboard_time": 1772334925,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89712,
+        "num": 89712,
+        "word": "川渝盒饭vs东北盒饭",
+        "onboard_time": 1772344343,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86209,
+        "num": 86209,
+        "word": "三月了马年果然跑得快",
+        "onboard_time": 1772346803,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80454,
+        "num": 80454,
+        "word": "苦了谁也不能苦了朋友圈",
+        "onboard_time": 1772347222,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78880,
+        "num": 78880,
+        "word": "秦岚一分钟说了15句谢谢",
+        "onboard_time": 1772348303,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77078,
+        "num": 77078,
+        "word": "苏新皓抢到TOP专辑了",
+        "onboard_time": 1772340084,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76420,
+        "num": 76420,
+        "word": "女孩自拍被吐槽长得吓人",
+        "onboard_time": 1772342243,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74016,
+        "num": 76332,
+        "word": "退税",
+        "onboard_time": 1772321717,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70803,
+        "num": 76229,
+        "word": "到底什么值得我们错过四季",
+        "onboard_time": 1772345483,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69291,
+        "num": 76090,
+        "word": "李健巡演官宣",
+        "onboard_time": 1772336845,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69180,
+        "num": 75981,
+        "word": "肖战希望乘坐肖战专列穿梭米兰",
+        "onboard_time": 1772336305,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68815,
+        "num": 75954,
+        "word": "王曼昱孙颖莎女单争金",
+        "onboard_time": 1772348362,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68523,
+        "num": 75827,
+        "word": "EXO参加金俊勉哥哥婚礼",
+        "onboard_time": 1772341463,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记称赞他们是县委书记的榜样#"
+    }
+  }
+}

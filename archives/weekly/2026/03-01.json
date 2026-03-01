@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772345386122,
+  "endTime": 1772348488775,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -40,6 +40,14 @@
       "word": "特朗普称哈梅内伊已死",
       "onboard_time": 1772320096,
       "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1535139,
+      "num": 1535139,
+      "word": "伊朗确认继任者后或将扩大反击",
+      "onboard_time": 1772343083,
+      "rank": 6,
       "category": "国际时政"
     },
     {
@@ -83,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 930730,
+      "num": 269539,
+      "word": "秦岚嗓子哑了三年",
+      "onboard_time": 1772343683,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 924669,
       "num": 423034,
       "word": "迪拜机场被炸滞留中国旅客发声",
@@ -123,12 +139,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 758304,
-      "num": 269539,
-      "word": "秦岚嗓子哑了三年",
-      "onboard_time": 1772343683,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 772407,
+      "num": 321241,
+      "word": "中国人民永远都要保持居安思危的清醒",
+      "onboard_time": 1772343083,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 744438,
@@ -169,6 +185,14 @@
       "onboard_time": 1772296101,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 606227,
+      "num": 1067836,
+      "word": "女子感觉金手镯变轻报警前男友自首",
+      "onboard_time": 1772342723,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 605800,
@@ -267,14 +291,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 507778,
-      "num": 1067836,
-      "word": "女子感觉金手镯变轻报警前男友自首",
-      "onboard_time": 1772342723,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 492158,
       "num": 377016,
       "word": "哈梅内伊遇害细节公开",
@@ -296,14 +312,6 @@
       "word": "安理会应中俄要求紧急开会",
       "onboard_time": 1772291963,
       "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 469967,
-      "num": 376581,
-      "word": "伊朗确认继任者后或将扩大反击",
-      "onboard_time": 1772343083,
-      "rank": 6,
       "category": "国际时政"
     },
     {
@@ -355,12 +363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375846,
+      "num": 225537,
+      "word": "哈梅内伊住所遭袭前后对比景象",
+      "onboard_time": 1772343922,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 372922,
       "num": 372922,
       "word": "王鹤棣 阿迪达斯",
       "onboard_time": 1772332228,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372886,
+      "num": 225380,
+      "word": "伊朗代表要求美国保持礼貌",
+      "onboard_time": 1772347463,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 365117,
@@ -377,6 +401,14 @@
       "onboard_time": 1772294423,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 352247,
+      "num": 225591,
+      "word": "王者荣耀 TF四代",
+      "onboard_time": 1772344522,
+      "rank": 27,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 351065,
@@ -409,14 +441,6 @@
       "onboard_time": 1772275884,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 317732,
-      "num": 317732,
-      "word": "中国人民永远都要保持居安思危的清醒",
-      "onboard_time": 1772343083,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 315914,
@@ -547,12 +571,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 254734,
+      "num": 254734,
+      "word": "2岁小孩高铁车厢唱歌旅客大打出手",
+      "onboard_time": 1772346443,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252669,
       "num": 120640,
       "word": "伊朗总统之子发声",
       "onboard_time": 1772279843,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248691,
+      "num": 225118,
+      "word": "杨幂去米兰没有带卡",
+      "onboard_time": 1772345542,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 239437,
@@ -595,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222621,
+      "num": 222621,
+      "word": "宋智孝不考虑戒酒",
+      "onboard_time": 1772347942,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221599,
       "num": 221599,
       "word": "最近24小时全球15万人爆仓",
@@ -625,6 +673,14 @@
       "onboard_time": 1772296401,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 203391,
+      "num": 203391,
+      "word": "金价或将冲击历史新高",
+      "onboard_time": 1772347222,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 197277,
@@ -771,6 +827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155809,
+      "num": 155809,
+      "word": "10万元黄金被女儿当垃圾扔了",
+      "onboard_time": 1772347104,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153780,
       "num": 245180,
       "word": "解放军进入菲美日澳巡航区域",
@@ -825,14 +889,6 @@
       "onboard_time": 1772341645,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143434,
-      "num": 163936,
-      "word": "哈梅内伊住所遭袭前后对比景象",
-      "onboard_time": 1772343922,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141822,
@@ -891,6 +947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133279,
+      "num": 118588,
+      "word": "全军启用预备役人员证",
+      "onboard_time": 1772345302,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 130767,
       "num": 373419,
       "word": "五粮液",
@@ -905,6 +969,22 @@
       "onboard_time": 1772323220,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125553,
+      "num": 125553,
+      "word": "官俊臣参加高考成人礼",
+      "onboard_time": 1772344943,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120738,
+      "num": 120738,
+      "word": "陈妍希李钟硕余承恩秀场合照",
+      "onboard_time": 1772348003,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 120391,
@@ -929,14 +1009,6 @@
       "onboard_time": 1772270905,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118014,
-      "num": 118014,
-      "word": "王者荣耀 TF四代",
-      "onboard_time": 1772344522,
-      "rank": 27,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 114447,
@@ -995,14 +1067,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 111668,
-      "num": 111668,
-      "word": "全军启用预备役人员证",
-      "onboard_time": 1772345302,
-      "rank": 31,
-      "category": "军事"
-    },
-    {
       "raw_hot": 110269,
       "num": 110269,
       "word": "在老家不要轻易感冒",
@@ -1027,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105625,
+      "num": 118600,
+      "word": "中500w彩票冷知识",
+      "onboard_time": 1772343743,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104412,
       "num": 104412,
       "word": "女孩自拍被吐槽长得吓人",
@@ -1035,12 +1107,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103555,
+      "num": 100217,
+      "word": "厚本征婚",
+      "onboard_time": 1772347825,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 103212,
       "num": 232802,
       "word": "陈妍希状态满40减20",
       "onboard_time": 1772341463,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102777,
+      "num": 102777,
+      "word": "广州深圳出发机票暴跌超80%",
+      "onboard_time": 1772346562,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101865,
@@ -1107,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91100,
+      "num": 91100,
+      "word": "小米17Ultra",
+      "onboard_time": 1772345423,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 90939,
       "num": 145254,
       "word": "镖人票房超越惊蛰无声",
@@ -1121,6 +1217,14 @@
       "onboard_time": 1772335044,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89712,
+      "num": 97238,
+      "word": "川渝盒饭vs东北盒饭",
+      "onboard_time": 1772344343,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 88139,
@@ -1147,20 +1251,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86209,
+      "num": 86209,
+      "word": "三月了马年果然跑得快",
+      "onboard_time": 1772346803,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84332,
       "num": 84332,
       "word": "七种退税方式",
       "onboard_time": 1772339125,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83131,
-      "num": 97238,
-      "word": "川渝盒饭vs东北盒饭",
-      "onboard_time": 1772344343,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 82779,
@@ -1177,6 +1281,22 @@
       "onboard_time": 1772336065,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80454,
+      "num": 80454,
+      "word": "苦了谁也不能苦了朋友圈",
+      "onboard_time": 1772347222,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 78880,
+      "num": 78880,
+      "word": "秦岚一分钟说了15句谢谢",
+      "onboard_time": 1772348303,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 77820,
@@ -1227,20 +1347,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70605,
-      "num": 70605,
-      "word": "官俊臣参加高考成人礼",
-      "onboard_time": 1772344943,
+      "raw_hot": 70803,
+      "num": 76229,
+      "word": "到底什么值得我们错过四季",
+      "onboard_time": 1772345483,
       "rank": 45,
-      "category": "艺人"
+      "category": "情感"
     },
     {
-      "raw_hot": 70360,
-      "num": 97157,
-      "word": "中500w彩票冷知识",
-      "onboard_time": 1772343743,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 70344,
+      "num": 225259,
+      "word": "伊朗称伊朗武装部队总参谋长身亡",
+      "onboard_time": 1772347825,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69337,
@@ -1257,6 +1377,14 @@
       "onboard_time": 1772344462,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 68815,
+      "num": 75954,
+      "word": "王曼昱孙颖莎女单争金",
+      "onboard_time": 1772348362,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 68160,
