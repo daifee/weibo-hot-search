@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772344864756,
+  "endTime": 1772345386122,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -115,12 +115,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 747265,
-      "num": 290877,
+      "raw_hot": 773455,
+      "num": 291356,
       "word": "杨幂 得罪就得罪吧",
       "onboard_time": 1772340504,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 758304,
+      "num": 269539,
+      "word": "秦岚嗓子哑了三年",
+      "onboard_time": 1772343683,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 744438,
@@ -172,11 +180,19 @@
     },
     {
       "raw_hot": 601630,
-      "num": 252058,
+      "num": 260473,
       "word": "携程回应大马士革到上海机票550万",
       "onboard_time": 1772342723,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 597285,
+      "num": 1460510,
+      "word": "伊朗导弹击中以军总参谋部",
+      "onboard_time": 1772341224,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 587385,
@@ -219,14 +235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 573876,
-      "num": 247603,
-      "word": "秦岚嗓子哑了三年",
-      "onboard_time": 1772343683,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 569724,
       "num": 471750,
       "word": "中东这场仗越打越大了",
@@ -259,12 +267,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 496177,
-      "num": 1460510,
-      "word": "伊朗导弹击中以军总参谋部",
-      "onboard_time": 1772341224,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 507778,
+      "num": 1067836,
+      "word": "女子感觉金手镯变轻报警前男友自首",
+      "onboard_time": 1772342723,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 492158,
@@ -291,12 +299,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 471632,
-      "num": 1067836,
-      "word": "女子感觉金手镯变轻报警前男友自首",
-      "onboard_time": 1772342723,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 469967,
+      "num": 376581,
+      "word": "伊朗确认继任者后或将扩大反击",
+      "onboard_time": 1772343083,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 447635,
@@ -355,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372335,
-      "num": 372335,
-      "word": "伊朗确认继任者后或将扩大反击",
-      "onboard_time": 1772343083,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 365117,
       "num": 293210,
       "word": "伊朗称将抵抗到最后一滴血",
@@ -393,6 +393,14 @@
       "onboard_time": 1772281345,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322852,
+      "num": 227290,
+      "word": "短剧四小花旦同框",
+      "onboard_time": 1772343863,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 322440,
@@ -443,20 +451,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 301350,
-      "num": 217703,
-      "word": "短剧四小花旦同框",
-      "onboard_time": 1772343863,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 296070,
       "num": 283070,
       "word": "美以袭击致伊朗201人死747人伤",
       "onboard_time": 1772331089,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 292752,
+      "num": 292752,
+      "word": "孙颖莎vs陈熠",
+      "onboard_time": 1772340684,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 288326,
@@ -531,14 +539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 269736,
-      "num": 269736,
-      "word": "孙颖莎vs陈熠",
-      "onboard_time": 1772340684,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265182,
       "num": 306816,
       "word": "桃黑黑秒下播",
@@ -611,8 +611,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213208,
-      "num": 213208,
+      "raw_hot": 216432,
+      "num": 216432,
       "word": "烤香蕉",
       "onboard_time": 1772340863,
       "rank": 42,
@@ -827,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143434,
+      "num": 163936,
+      "word": "哈梅内伊住所遭袭前后对比景象",
+      "onboard_time": 1772343922,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141822,
       "num": 141822,
       "word": "伊朗称将严惩凶手",
@@ -923,12 +931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118014,
+      "num": 118014,
+      "word": "王者荣耀 TF四代",
+      "onboard_time": 1772344522,
+      "rank": 27,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 114447,
       "num": 141716,
       "word": "东京马拉松",
       "onboard_time": 1772333066,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113933,
+      "num": 116425,
+      "word": "女童投喂狮子被拖曳涉事动物园停业",
+      "onboard_time": 1772343203,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113889,
@@ -971,6 +995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111668,
+      "num": 111668,
+      "word": "全军启用预备役人员证",
+      "onboard_time": 1772345302,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 110269,
       "num": 110269,
       "word": "在老家不要轻易感冒",
@@ -993,14 +1025,6 @@
       "onboard_time": 1772291243,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108136,
-      "num": 108136,
-      "word": "女童投喂狮子被拖曳涉事动物园停业",
-      "onboard_time": 1772343203,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104412,
@@ -1049,14 +1073,6 @@
       "onboard_time": 1772333725,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 97785,
-      "num": 163936,
-      "word": "哈梅内伊住所遭袭前后对比景象",
-      "onboard_time": 1772343922,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97632,
@@ -1139,20 +1155,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83131,
+      "num": 97238,
+      "word": "川渝盒饭vs东北盒饭",
+      "onboard_time": 1772344343,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 82779,
       "num": 134584,
       "word": "男朋友送的草莓蛋糕第一次见",
       "onboard_time": 1772281162,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81428,
-      "num": 97238,
-      "word": "川渝盒饭vs东北盒饭",
-      "onboard_time": 1772344343,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 81196,
@@ -1211,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70605,
+      "num": 70605,
+      "word": "官俊臣参加高考成人礼",
+      "onboard_time": 1772344943,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70360,
       "num": 97157,
       "word": "中500w彩票冷知识",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1772286805,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 69111,
+      "num": 97094,
+      "word": "第一次看盲人赶作业",
+      "onboard_time": 1772344462,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 68160,
@@ -1259,12 +1291,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63178,
-      "num": 97094,
-      "word": "第一次看盲人赶作业",
-      "onboard_time": 1772344462,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 59375,
+      "num": 69104,
+      "word": "天官赐福全新动画内容",
+      "onboard_time": 1772339305,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 51298,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1772340204,
       "rank": 2,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 44526,
+      "num": 86838,
+      "word": "中东局势解读",
+      "onboard_time": 1772345363,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43488,
