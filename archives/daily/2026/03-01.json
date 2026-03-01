@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772365418052,
+  "endTime": 1772370208711,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -83,12 +83,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1268750,
+      "num": 1268750,
+      "word": "孙颖莎女单夺冠",
+      "onboard_time": 1772368344,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1237632,
       "num": 460580,
       "word": "委内瑞拉",
       "onboard_time": 1772332347,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1230438,
+      "num": 686397,
+      "word": "赵今麦流浪地球3造型",
+      "onboard_time": 1772368104,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1196367,
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 749579,
+      "num": 232515,
+      "word": "陈思罕 我是一个专业的摄影师",
+      "onboard_time": 1772368584,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 744438,
       "num": 387822,
       "word": "伊朗反政府人士推倒哈梅内伊雕像",
@@ -232,6 +256,14 @@
       "word": "贝因美 大麻二酚",
       "onboard_time": 1772353462,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 651042,
+      "num": 281239,
+      "word": "出轨对象得知感染HIV还瞒着自己",
+      "onboard_time": 1772363784,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 499317,
-      "num": 217646,
+      "num": 229465,
       "word": "黄轩的手 此沙的脚",
       "onboard_time": 1772363244,
       "rank": 26,
@@ -473,6 +505,14 @@
       "onboard_time": 1772291963,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 457644,
+      "num": 231392,
+      "word": "陈思罕镜头里的四代",
+      "onboard_time": 1772369723,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 447635,
@@ -547,8 +587,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 398485,
+      "num": 398485,
+      "word": "孙颖莎4比2王曼昱",
+      "onboard_time": 1772368463,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397942,
-      "num": 213261,
+      "num": 229336,
       "word": "宋亚轩海胆头",
       "onboard_time": 1772361862,
       "rank": 40,
@@ -867,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281239,
-      "num": 281239,
-      "word": "出轨对象得知感染HIV还瞒着自己",
-      "onboard_time": 1772363784,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 275127,
       "num": 275127,
       "word": "方大同拍摄的时候没有封路",
@@ -921,6 +961,14 @@
       "onboard_time": 1772327784,
       "rank": 27,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 259992,
+      "num": 230102,
+      "word": "迪拜已拦截超百次伊朗炸弹",
+      "onboard_time": 1772367744,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 252669,
@@ -1059,6 +1107,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 209216,
+      "num": 209216,
+      "word": "AI短剧",
+      "onboard_time": 1772369244,
+      "rank": 27,
+      "category": "作品衍生,互联网"
+    },
+    {
+      "raw_hot": 208288,
+      "num": 208288,
+      "word": "台胞可持台胞证登记撤离以色列",
+      "onboard_time": 1772367744,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 205755,
+      "num": 365087,
+      "word": "王天辰郭晓婷 不舍那你留下来呀",
+      "onboard_time": 1772362344,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198802,
       "num": 198802,
       "word": "宗馥莉砍掉娃哈哈机器人业务",
@@ -1081,6 +1153,14 @@
       "onboard_time": 1772326404,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197017,
+      "num": 197017,
+      "word": "张凌赫田曦薇从见面到合作用了386天",
+      "onboard_time": 1772369663,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 196612,
@@ -1187,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174529,
+      "num": 174529,
+      "word": "世界乒联恭喜孙颖莎新加坡大满贯卫冕",
+      "onboard_time": 1772369964,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172748,
       "num": 475363,
       "word": "国乒仅王楚钦晋级男单四强",
@@ -1209,6 +1297,14 @@
       "onboard_time": 1772351542,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169482,
+      "num": 169482,
+      "word": "曝张元英签售切小屏",
+      "onboard_time": 1772369063,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 165994,
@@ -1363,20 +1459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145383,
-      "num": 365087,
-      "word": "王天辰郭晓婷 不舍那你留下来呀",
-      "onboard_time": 1772362344,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144034,
       "num": 144034,
       "word": "蒋敦豪这个工作不接那就是别人接了",
       "onboard_time": 1772353823,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143013,
+      "num": 230030,
+      "word": "1010元托运柴犬3天没喝一口水死亡",
+      "onboard_time": 1772368945,
+      "rank": 22,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 141822,
@@ -1459,6 +1555,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 132587,
+      "num": 132587,
+      "word": "耙耙柑的本名叫春见",
+      "onboard_time": 1772363123,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 130767,
       "num": 373419,
       "word": "五粮液",
@@ -1481,14 +1585,6 @@
       "onboard_time": 1772359103,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126521,
-      "num": 126521,
-      "word": "耙耙柑的本名叫春见",
-      "onboard_time": 1772363123,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 124389,
@@ -1563,12 +1659,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 120105,
+      "num": 120105,
+      "word": "白鹿赵晴偷拍王星越",
+      "onboard_time": 1772366663,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118978,
       "num": 118978,
       "word": "美媒称谷爱凌有双重国籍毫无证据",
       "onboard_time": 1772350043,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118292,
+      "num": 229713,
+      "word": "一油轮欲通过霍尔木兹海峡被击中",
+      "onboard_time": 1772368945,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118127,
@@ -1593,6 +1705,14 @@
       "onboard_time": 1772362944,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117279,
+      "num": 230997,
+      "word": "秦PLUS官宣7年低息夯爆了",
+      "onboard_time": 1772368884,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 116968,
@@ -1651,6 +1771,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 113869,
+      "num": 113869,
+      "word": "中方予以坚决反对和强烈谴责",
+      "onboard_time": 1772368344,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113834,
       "num": 113834,
       "word": "何炅王嘉尔顺手给刘宪华改名",
@@ -1705,6 +1833,14 @@
       "onboard_time": 1772341103,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108516,
+      "num": 108516,
+      "word": "孙颖莎回应4比2王曼昱",
+      "onboard_time": 1772369842,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 108465,
@@ -1801,6 +1937,14 @@
       "onboard_time": 1772354303,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 101174,
+      "num": 101174,
+      "word": "王曼昱获得亚军",
+      "onboard_time": 1772369783,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 100315,
@@ -2289,6 +2433,14 @@
       "onboard_time": 1772321778,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39799,
+      "num": 111562,
+      "word": "聚会豪饮2斤白酒23岁小伙喝进ICU",
+      "onboard_time": 1772368945,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39140,
