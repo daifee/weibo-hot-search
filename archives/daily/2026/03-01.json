@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772357932616,
+  "endTime": 1772358799605,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1003318,
+      "num": 635250,
+      "word": "伊朗袭击27个美军基地",
+      "onboard_time": 1772355083,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 993678,
       "num": 993678,
       "word": "以色列宣布袭击伊朗",
@@ -99,19 +107,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 930111,
-      "num": 601146,
-      "word": "伊朗袭击27个美军基地",
-      "onboard_time": 1772355083,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 924669,
       "num": 423034,
       "word": "迪拜机场被炸滞留中国旅客发声",
       "onboard_time": 1772333847,
       "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 867471,
+      "num": 305497,
+      "word": "伊朗总统就哈梅内伊身亡发声明",
+      "onboard_time": 1772358442,
+      "rank": 10,
       "category": "国际时政"
     },
     {
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 771642,
-      "num": 222197,
+      "num": 262888,
       "word": "杨紫上次恋爱已是七年前",
       "onboard_time": 1772350703,
       "rank": 22,
@@ -209,6 +217,14 @@
       "onboard_time": 1772292684,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 615289,
+      "num": 877804,
+      "word": "中国男篮vs中国台北男篮",
+      "onboard_time": 1772352263,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 613230,
@@ -347,6 +363,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 502692,
+      "num": 292255,
+      "word": "我在挨骂 稍等呀",
+      "onboard_time": 1772357963,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 500210,
+      "num": 500210,
+      "word": "沈腾马丽 我欲成冰再也无退路",
+      "onboard_time": 1772356043,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492158,
       "num": 377016,
       "word": "哈梅内伊遇害细节公开",
@@ -379,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 456323,
+      "num": 263522,
+      "word": "张元英签售态度",
+      "onboard_time": 1772357243,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447635,
       "num": 646077,
       "word": "小米超跑亮相",
@@ -395,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420711,
+      "num": 420711,
+      "word": "将门独后王鹤棣路透",
+      "onboard_time": 1772352862,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 410924,
       "num": 643352,
       "word": "秦岚一分钟说了15句谢谢",
@@ -409,22 +457,6 @@
       "onboard_time": 1772323942,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 405626,
-      "num": 877804,
-      "word": "中国男篮vs中国台北男篮",
-      "onboard_time": 1772352263,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 401689,
-      "num": 401689,
-      "word": "将门独后王鹤棣路透",
-      "onboard_time": 1772352862,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 401586,
@@ -459,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 389625,
-      "num": 389625,
-      "word": "沈腾马丽 我欲成冰再也无退路",
-      "onboard_time": 1772356043,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 386920,
+      "num": 336704,
+      "word": "以军开始打击伊朗首都心脏地带",
+      "onboard_time": 1772355803,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 373196,
@@ -539,12 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 336704,
-      "num": 336704,
-      "word": "以军开始打击伊朗首都心脏地带",
-      "onboard_time": 1772355803,
-      "rank": 11,
-      "category": "国际时政"
+      "raw_hot": 341280,
+      "num": 295069,
+      "word": "不建议电脑缩放调成500%",
+      "onboard_time": 1772354421,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 333296,
@@ -643,14 +675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 295069,
-      "num": 295069,
-      "word": "不建议电脑缩放调成500%",
-      "onboard_time": 1772354421,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 292752,
       "num": 292752,
       "word": "孙颖莎vs陈熠",
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 271330,
-      "num": 230349,
+      "num": 264432,
       "word": "以军称已向伊朗投掷超1200枚导弹",
       "onboard_time": 1772355743,
       "rank": 16,
@@ -755,6 +779,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 262632,
+      "num": 262632,
+      "word": "男子酒后和老婆吵架胸口撕裂40厘米",
+      "onboard_time": 1772357122,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252669,
       "num": 120640,
       "word": "伊朗总统之子发声",
@@ -763,12 +795,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 250207,
+      "num": 250207,
+      "word": "孙俪邓超 伟大的暧昧期",
+      "onboard_time": 1772357543,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248691,
       "num": 225118,
       "word": "杨幂去米兰没有带卡",
       "onboard_time": 1772345542,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248415,
+      "num": 248415,
+      "word": "迪拜机场被炸前记者接到中国同胞",
+      "onboard_time": 1772354544,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242360,
@@ -867,27 +915,19 @@
       "category": "美食"
     },
     {
+      "raw_hot": 211987,
+      "num": 209113,
+      "word": "一家4口爬山祈福妻子坠亡",
+      "onboard_time": 1772357782,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209907,
       "num": 209907,
       "word": "伊朗拥有中东最大弹道导弹库存",
       "onboard_time": 1772296401,
       "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 205092,
-      "num": 200187,
-      "word": "张元英签售态度",
-      "onboard_time": 1772357243,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 200262,
-      "num": 200262,
-      "word": "迪拜机场被炸前记者接到中国同胞",
-      "onboard_time": 1772354544,
-      "rank": 32,
       "category": "国际时政"
     },
     {
@@ -897,6 +937,14 @@
       "onboard_time": 1772349203,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198061,
+      "num": 198061,
+      "word": "张小满严晓丹分手",
+      "onboard_time": 1772358323,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 197277,
@@ -913,6 +961,14 @@
       "onboard_time": 1772326404,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196612,
+      "num": 223869,
+      "word": "这样退税最划算",
+      "onboard_time": 1772355683,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 196285,
@@ -945,14 +1001,6 @@
       "onboard_time": 1772325203,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190420,
-      "num": 225687,
-      "word": "男子酒后和老婆吵架胸口撕裂40厘米",
-      "onboard_time": 1772357122,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189771,
@@ -1040,22 +1088,6 @@
       "word": "18岁少女感染HPV多种高危型号",
       "onboard_time": 1772327664,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165198,
-      "num": 223869,
-      "word": "这样退税最划算",
-      "onboard_time": 1772355683,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 164264,
-      "num": 148712,
-      "word": "一家4口爬山祈福妻子坠亡",
-      "onboard_time": 1772357782,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1283,14 +1315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 124881,
-      "num": 124881,
-      "word": "孙俪邓超 伟大的暧昧期",
-      "onboard_time": 1772357543,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124389,
       "num": 124389,
       "word": "王曼昱1比8落后大逆转",
@@ -1411,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110504,
+      "num": 138581,
+      "word": "中国男篮半场落后中国台北1分",
+      "onboard_time": 1772355323,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110269,
       "num": 110269,
       "word": "在老家不要轻易感冒",
@@ -1424,6 +1456,14 @@
       "word": "这居然是侯明昊的素颜",
       "onboard_time": 1772288245,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108298,
+      "num": 108298,
+      "word": "李荣浩 高考界最严厉的父亲",
+      "onboard_time": 1772358502,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1515,14 +1555,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 99562,
-      "num": 138581,
-      "word": "中国男篮半场落后中国台北1分",
-      "onboard_time": 1772355323,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99393,
       "num": 99393,
       "word": "王楚钦回应胜F勒布伦",
@@ -1600,6 +1632,14 @@
       "word": "镖人票房超越惊蛰无声",
       "onboard_time": 1772286925,
       "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 90862,
+      "num": 90862,
+      "word": "镖人票房破11亿",
+      "onboard_time": 1772358323,
+      "rank": 47,
       "category": "电影"
     },
     {
@@ -1860,7 +1900,7 @@
     },
     {
       "raw_hot": 46968,
-      "num": 141346,
+      "num": 263968,
       "word": "蓝眼狐是L3吗",
       "onboard_time": 1772357842,
       "rank": 32,
@@ -1931,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33829,
+      "num": 316489,
+      "word": "最新一批侵华日军罪行铁证展出",
+      "onboard_time": 1772358083,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33728,
       "num": 118411,
       "word": "老铺黄金46.9万元金如意售空",
@@ -1955,8 +2003,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29527,
-      "num": 694165,
+      "raw_hot": 30121,
+      "num": 694523,
       "word": "全国政协会议议程来了",
       "onboard_time": 1772330670,
       "rank": 2,
@@ -2025,6 +2073,14 @@
       "onboard_time": 1772301258,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21035,
+      "num": 263670,
+      "word": "2岁患癌女孩获捐10万奶奶哽咽致谢",
+      "onboard_time": 1772358083,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18197,
