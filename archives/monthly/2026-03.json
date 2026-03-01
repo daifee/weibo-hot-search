@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772393463353,
+  "endTime": 1772394292592,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -3089,6 +3089,14 @@
       "onboard_time": 1772373085,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 18780,
+      "num": 18780,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1772393835,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 18197,

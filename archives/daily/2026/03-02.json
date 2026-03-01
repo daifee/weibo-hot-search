@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772393463353,
+  "endTime": 1772394292592,
   "band_list": [
     {
       "raw_hot": 2377348,
@@ -457,6 +457,22 @@
       "onboard_time": 1772387776,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20141,
+      "num": 20141,
+      "word": "玫瑰丛生",
+      "onboard_time": 1772393774,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18780,
+      "num": 18780,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1772393835,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 18409,

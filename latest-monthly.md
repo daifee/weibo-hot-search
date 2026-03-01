@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/01 00:36:45 ~ 2026/03/02 03:31:03
+本榜单时间：2026/03/01 00:36:45 ~ 2026/03/02 03:44:52
 </p>
 </blockquote>
 <p>
@@ -2327,6 +2327,12 @@ TOP秒切第一（热度：24816）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4100%E4%BA%BF%23" target="weibo">
 2026电影总票房破100亿（热度：19344）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%AE%99%E9%97%AA%E7%83%81%E8%AF%B7%E6%B3%A8%E6%84%8F%23" target="weibo">
+宇宙闪烁请注意（热度：18780）
 </a>
 </li>
 
