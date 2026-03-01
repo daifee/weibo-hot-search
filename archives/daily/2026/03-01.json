@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772364575571,
+  "endTime": 1772365418052,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2056777,
-      "num": 355684,
+      "num": 363064,
       "word": "伊朗总统就哈梅内伊身亡发声明",
       "onboard_time": 1772358442,
       "rank": 10,
@@ -59,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1455805,
+      "num": 250452,
+      "word": "纪凌尘与韩国女友泰国度假",
+      "onboard_time": 1772362163,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1379846,
       "num": 1379846,
       "word": "伊朗袭击27个美军基地",
@@ -72,14 +80,6 @@
       "word": "三甲医生回应秦岚嗓子哑了三年",
       "onboard_time": 1772360303,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1345984,
-      "num": 221971,
-      "word": "纪凌尘与韩国女友泰国度假",
-      "onboard_time": 1772362163,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 781973,
-      "num": 334470,
+      "num": 357269,
       "word": "我在挨骂 稍等呀",
       "onboard_time": 1772357963,
       "rank": 12,
@@ -323,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 590805,
+      "num": 361137,
+      "word": "黄金暗盘跳水",
+      "onboard_time": 1772362404,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 588879,
       "num": 520745,
       "word": "陈妍希李钟硕余承恩秀场合照",
@@ -387,6 +395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 565497,
+      "num": 383795,
+      "word": "中俄呼吁立即停止战争",
+      "onboard_time": 1772361862,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 554280,
       "num": 284191,
       "word": "伊朗遭袭小学课本上沾着鲜血",
@@ -403,6 +419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 516100,
+      "num": 822833,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1772362824,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 510003,
       "num": 299448,
       "word": "伊朗遭袭小学超150人死亡",
@@ -411,12 +435,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 497274,
-      "num": 322028,
-      "word": "中俄呼吁立即停止战争",
-      "onboard_time": 1772361862,
-      "rank": 6,
-      "category": "国际时政"
+      "raw_hot": 499317,
+      "num": 217646,
+      "word": "黄轩的手 此沙的脚",
+      "onboard_time": 1772363244,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 492158,
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 412154,
-      "num": 281846,
+      "num": 339590,
       "word": "普京就哈梅内伊遇害表示哀悼",
       "onboard_time": 1772361681,
       "rank": 19,
@@ -524,11 +548,19 @@
     },
     {
       "raw_hot": 397942,
-      "num": 189719,
+      "num": 213261,
       "word": "宋亚轩海胆头",
       "onboard_time": 1772361862,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395592,
+      "num": 410824,
+      "word": "中国军号发布视频",
+      "onboard_time": 1772359882,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 395082,
@@ -545,14 +577,6 @@
       "onboard_time": 1772337265,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 388729,
-      "num": 410824,
-      "word": "中国军号发布视频",
-      "onboard_time": 1772359882,
-      "rank": 31,
-      "category": "军事"
     },
     {
       "raw_hot": 386920,
@@ -577,6 +601,22 @@
       "onboard_time": 1772332228,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371870,
+      "num": 357791,
+      "word": "一家4口爬山祈福妻子坠亡",
+      "onboard_time": 1772357782,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371435,
+      "num": 840218,
+      "word": "诞下5胞胎女子说现在没时间买黄金",
+      "onboard_time": 1772360602,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365117,
@@ -609,14 +649,6 @@
       "onboard_time": 1772359043,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 352667,
-      "num": 300174,
-      "word": "黄金暗盘跳水",
-      "onboard_time": 1772362404,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 351065,
@@ -667,28 +699,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 339921,
-      "num": 277680,
-      "word": "一家4口爬山祈福妻子坠亡",
-      "onboard_time": 1772357782,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 333296,
       "num": 282595,
       "word": "郭晓婷王天辰双人杂志",
       "onboard_time": 1772351662,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331811,
-      "num": 840218,
-      "word": "诞下5胞胎女子说现在没时间买黄金",
-      "onboard_time": 1772360602,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 329772,
@@ -739,22 +755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 310331,
-      "num": 173083,
-      "word": "黄轩的手 此沙的脚",
-      "onboard_time": 1772363244,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 310045,
-      "num": 310045,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1772362824,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 309345,
       "num": 198279,
       "word": "耙耙柑是很善良的水果",
@@ -792,6 +792,14 @@
       "word": "美以袭击致伊朗201人死747人伤",
       "onboard_time": 1772331089,
       "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 295153,
+      "num": 295153,
+      "word": "美以导弹炸到全球人钱包",
+      "onboard_time": 1772359824,
+      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -859,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281239,
+      "num": 281239,
+      "word": "出轨对象得知感染HIV还瞒着自己",
+      "onboard_time": 1772363784,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275127,
       "num": 275127,
       "word": "方大同拍摄的时候没有封路",
@@ -912,14 +928,6 @@
       "word": "伊朗总统之子发声",
       "onboard_time": 1772279843,
       "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 252402,
-      "num": 252402,
-      "word": "美以导弹炸到全球人钱包",
-      "onboard_time": 1772359824,
-      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -1244,7 +1252,7 @@
     },
     {
       "raw_hot": 156256,
-      "num": 156592,
+      "num": 211549,
       "word": "黄金石油美联储降息大变局",
       "onboard_time": 1772359643,
       "rank": 34,
@@ -1355,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145383,
+      "num": 365087,
+      "word": "王天辰郭晓婷 不舍那你留下来呀",
+      "onboard_time": 1772362344,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144034,
       "num": 144034,
       "word": "蒋敦豪这个工作不接那就是别人接了",
@@ -1427,14 +1443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 134890,
-      "num": 134890,
-      "word": "出轨对象得知感染HIV还瞒着自己",
-      "onboard_time": 1772363784,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134712,
       "num": 702970,
       "word": "为什么中国人把这么多钱花在吃上",
@@ -1449,14 +1457,6 @@
       "onboard_time": 1772345302,
       "rank": 31,
       "category": "军事"
-    },
-    {
-      "raw_hot": 131814,
-      "num": 131814,
-      "word": "王天辰郭晓婷 不舍那你留下来呀",
-      "onboard_time": 1772362344,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 130767,
@@ -1483,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126521,
+      "num": 126521,
+      "word": "耙耙柑的本名叫春见",
+      "onboard_time": 1772363123,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124389,
       "num": 124389,
       "word": "王曼昱1比8落后大逆转",
@@ -1492,7 +1500,7 @@
     },
     {
       "raw_hot": 124076,
-      "num": 159269,
+      "num": 210461,
       "word": "王毅同拉夫罗夫通电话",
       "onboard_time": 1772363065,
       "rank": 28,
@@ -1505,6 +1513,30 @@
       "onboard_time": 1772347825,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 123698,
+      "num": 123698,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1772279242,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122777,
+      "num": 122777,
+      "word": "爸爸买了张哪也不去的车票",
+      "onboard_time": 1772363784,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 121477,
+      "num": 121477,
+      "word": "Ruler决赛五杀",
+      "onboard_time": 1772365043,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 120925,
@@ -1553,6 +1585,14 @@
       "onboard_time": 1772362824,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117584,
+      "num": 117584,
+      "word": "肖战展示内搭",
+      "onboard_time": 1772362944,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 116968,
@@ -1635,20 +1675,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112985,
+      "num": 112985,
+      "word": "王译磊 红包",
+      "onboard_time": 1772364084,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111899,
       "num": 284178,
       "word": "约40名伊朗官员在袭击中死亡",
       "onboard_time": 1772332886,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 111736,
-      "num": 111736,
-      "word": "肖战展示内搭",
-      "onboard_time": 1772362944,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 110504,
@@ -1665,14 +1705,6 @@
       "onboard_time": 1772341103,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108675,
-      "num": 108675,
-      "word": "王译磊 红包",
-      "onboard_time": 1772364084,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 108465,
@@ -1729,14 +1761,6 @@
       "onboard_time": 1772343743,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104575,
-      "num": 109544,
-      "word": "耙耙柑的本名叫春见",
-      "onboard_time": 1772363123,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 104412,
@@ -2020,7 +2044,7 @@
     },
     {
       "raw_hot": 76121,
-      "num": 93795,
+      "num": 121519,
       "word": "铁打的女单决赛和王楚钦开盲盒",
       "onboard_time": 1772363123,
       "rank": 49,
@@ -2140,7 +2164,7 @@
     },
     {
       "raw_hot": 58059,
-      "num": 248651,
+      "num": 261692,
       "word": "佩泽希齐扬平安",
       "onboard_time": 1772363002,
       "rank": 16,
@@ -2375,14 +2399,6 @@
       "num": 49033,
       "word": "白鹿古装角色解锁加1",
       "onboard_time": 1772302277,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 24269,
-      "num": 54044,
-      "word": "纯真年代的爱情",
-      "onboard_time": 1772279242,
       "rank": 43,
       "category": "剧集"
     },
