@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772405419037,
+  "endTime": 1772407996024,
   "band_list": [
     {
       "raw_hot": 2377348,
@@ -11,8 +11,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1914436,
+      "num": 232668,
+      "word": "英法德三国联合声明",
+      "onboard_time": 1772407520,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 902486,
-      "num": 209370,
+      "num": 231959,
       "word": "俄罗斯在中东的布局被美国搅乱了",
       "onboard_time": 1772381542,
       "rank": 10,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 690472,
-      "num": 209366,
+      "num": 227315,
       "word": "中东全面战争一触即发",
       "onboard_time": 1772379324,
       "rank": 11,
@@ -28,11 +36,19 @@
     },
     {
       "raw_hot": 658600,
-      "num": 209355,
+      "num": 230188,
       "word": "伊朗向美军林肯号航母发射导弹",
       "onboard_time": 1772375426,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 647463,
+      "num": 506711,
+      "word": "伊朗发布击落美无人机画面",
+      "onboard_time": 1772391196,
+      "rank": 32,
+      "category": "军事"
     },
     {
       "raw_hot": 561180,
@@ -51,12 +67,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457651,
+      "num": 228411,
+      "word": "美以袭击伊朗金价为何下跌",
+      "onboard_time": 1772374226,
+      "rank": 15,
+      "category": "财经,国际时政"
+    },
+    {
       "raw_hot": 457056,
       "num": 457056,
       "word": "浙江地震",
       "onboard_time": 1772372603,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 422228,
+      "num": 367089,
+      "word": "伊朗国家电视台总部遭袭",
+      "onboard_time": 1772406439,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 412482,
+      "num": 412482,
+      "word": "难怪周杰伦再也没来成都开过演唱会",
+      "onboard_time": 1772407278,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 402529,
@@ -75,20 +115,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 331407,
-      "num": 209317,
-      "word": "美以袭击伊朗金价为何下跌",
-      "onboard_time": 1772374226,
-      "rank": 15,
-      "category": "财经,国际时政"
-    },
-    {
       "raw_hot": 317124,
       "num": 209308,
       "word": "迪丽热巴化妆王亚飞发型丽杰",
       "onboard_time": 1772373145,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300725,
+      "num": 300725,
+      "word": "三甲医生回应秦岚嗓子哑了三年",
+      "onboard_time": 1772360303,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 274637,
@@ -107,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238930,
-      "num": 238930,
-      "word": "三甲医生回应秦岚嗓子哑了三年",
-      "onboard_time": 1772360303,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236155,
       "num": 209288,
       "word": "AI短剧",
@@ -131,8 +163,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226714,
+      "num": 226714,
+      "word": "伊朗7名指挥官确认死亡",
+      "onboard_time": 1772407160,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 220019,
-      "num": 220019,
+      "num": 235578,
       "word": "王楚钦孙颖莎冠军自拍",
       "onboard_time": 1772373806,
       "rank": 6,
@@ -161,14 +201,6 @@
       "onboard_time": 1772375548,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 207498,
-      "num": 207498,
-      "word": "伊朗发布击落美无人机画面",
-      "onboard_time": 1772391196,
-      "rank": 32,
-      "category": "军事"
     },
     {
       "raw_hot": 185303,
@@ -211,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 138723,
+      "num": 138723,
+      "word": "多国就美以袭击伊朗表态",
+      "onboard_time": 1772375607,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134816,
       "num": 134816,
       "word": "迪丽热巴连续4年出席迪奥巴黎大秀",
@@ -219,8 +259,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 130654,
+      "num": 130654,
+      "word": "伊朗革命卫队发起新一轮打击",
+      "onboard_time": 1772392994,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124247,
-      "num": 155325,
+      "num": 234973,
       "word": "浙江省地震局通报称今晚浙江没地震",
       "onboard_time": 1772381902,
       "rank": 24,
@@ -272,22 +320,6 @@
       "word": "迪拜家长安抚孩子外面是烟花",
       "onboard_time": 1772380704,
       "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 100878,
-      "num": 100878,
-      "word": "多国就美以袭击伊朗表态",
-      "onboard_time": 1772375607,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 99547,
-      "num": 43154,
-      "word": "伊朗革命卫队发起新一轮打击",
-      "onboard_time": 1772392994,
-      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -403,6 +435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67669,
+      "num": 67669,
+      "word": "伊朗称击落美军死神无人机",
+      "onboard_time": 1772407880,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 67290,
+      "num": 67290,
+      "word": "伊朗导弹击中以色列中部致6死23伤",
+      "onboard_time": 1772391016,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59310,
       "num": 93208,
       "word": "宋亚轩海胆头",
@@ -427,20 +475,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44616,
-      "num": 44616,
-      "word": "伊朗导弹击中以色列中部致6死23伤",
-      "onboard_time": 1772391016,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40864,
       "num": 63054,
       "word": "WTT",
       "onboard_time": 1772372666,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39449,
+      "num": 60325,
+      "word": "椰子水",
+      "onboard_time": 1772407461,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 35818,
@@ -484,7 +532,7 @@
     },
     {
       "raw_hot": 18661,
-      "num": 33972,
+      "num": 60140,
       "word": "WTT新加坡大满贯",
       "onboard_time": 1772371643,
       "rank": 49,
@@ -515,12 +563,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 10259,
+      "raw_hot": 15160,
       "num": 636088,
       "word": "2026新春走基层",
       "onboard_time": 1772372726,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12664,
+      "num": 60130,
+      "word": "中国男篮险胜中国台北男篮",
+      "onboard_time": 1772358923,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
