@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772362254918,
+  "endTime": 1772364575571,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -72,6 +72,14 @@
       "word": "三甲医生回应秦岚嗓子哑了三年",
       "onboard_time": 1772360303,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1345984,
+      "num": 221971,
+      "word": "纪凌尘与韩国女友泰国度假",
+      "onboard_time": 1772362163,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -403,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 497274,
+      "num": 322028,
+      "word": "中俄呼吁立即停止战争",
+      "onboard_time": 1772361862,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 492158,
       "num": 377016,
       "word": "哈梅内伊遇害细节公开",
@@ -467,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 412154,
+      "num": 281846,
+      "word": "普京就哈梅内伊遇害表示哀悼",
+      "onboard_time": 1772361681,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 410924,
       "num": 643352,
       "word": "秦岚一分钟说了15句谢谢",
@@ -499,6 +523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 397942,
+      "num": 189719,
+      "word": "宋亚轩海胆头",
+      "onboard_time": 1772361862,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395082,
       "num": 346345,
       "word": "伊朗一小学遭袭51人死60人伤",
@@ -513,6 +545,14 @@
       "onboard_time": 1772337265,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388729,
+      "num": 410824,
+      "word": "中国军号发布视频",
+      "onboard_time": 1772359882,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 386920,
@@ -571,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 352667,
+      "num": 300174,
+      "word": "黄金暗盘跳水",
+      "onboard_time": 1772362404,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 351065,
       "num": 290005,
       "word": "曝哈梅内伊已任命继任者",
@@ -619,12 +667,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 339921,
+      "num": 277680,
+      "word": "一家4口爬山祈福妻子坠亡",
+      "onboard_time": 1772357782,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333296,
       "num": 282595,
       "word": "郭晓婷王天辰双人杂志",
       "onboard_time": 1772351662,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331811,
+      "num": 840218,
+      "word": "诞下5胞胎女子说现在没时间买黄金",
+      "onboard_time": 1772360602,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329772,
@@ -675,12 +739,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 315516,
-      "num": 410824,
-      "word": "中国军号发布视频",
-      "onboard_time": 1772359882,
-      "rank": 31,
-      "category": "军事"
+      "raw_hot": 310331,
+      "num": 173083,
+      "word": "黄轩的手 此沙的脚",
+      "onboard_time": 1772363244,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310045,
+      "num": 310045,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1772362824,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 309345,
@@ -843,12 +915,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 248908,
-      "num": 194829,
-      "word": "纪凌尘与韩国女友泰国度假",
-      "onboard_time": 1772362163,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 252402,
+      "num": 252402,
+      "word": "美以导弹炸到全球人钱包",
+      "onboard_time": 1772359824,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 248691,
@@ -915,14 +987,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 230593,
-      "num": 110651,
-      "word": "宋亚轩海胆头",
-      "onboard_time": 1772361862,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227808,
       "num": 227808,
       "word": "李荣浩 高考界最严厉的父亲",
@@ -955,14 +1019,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 221388,
-      "num": 238715,
-      "word": "一家4口爬山祈福妻子坠亡",
-      "onboard_time": 1772357782,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217883,
       "num": 217883,
       "word": "迪丽热巴第一语言不是汉语",
@@ -993,14 +1049,6 @@
       "onboard_time": 1772296401,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 203677,
-      "num": 366226,
-      "word": "诞下5胞胎女子说现在没时间买黄金",
-      "onboard_time": 1772360602,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198802,
@@ -1065,6 +1113,14 @@
       "onboard_time": 1772325203,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194526,
+      "num": 153125,
+      "word": "宋亚轩复刻少年与花",
+      "onboard_time": 1772362524,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 189771,
@@ -1188,19 +1244,11 @@
     },
     {
       "raw_hot": 156256,
-      "num": 156256,
+      "num": 156592,
       "word": "黄金石油美联储降息大变局",
       "onboard_time": 1772359643,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 153919,
-      "num": 195886,
-      "word": "美以导弹炸到全球人钱包",
-      "onboard_time": 1772359824,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 153780,
@@ -1217,6 +1265,14 @@
       "onboard_time": 1772336305,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153280,
+      "num": 153280,
+      "word": "仙逆",
+      "onboard_time": 1772364024,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 151833,
@@ -1371,6 +1427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134890,
+      "num": 134890,
+      "word": "出轨对象得知感染HIV还瞒着自己",
+      "onboard_time": 1772363784,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134712,
       "num": 702970,
       "word": "为什么中国人把这么多钱花在吃上",
@@ -1385,6 +1449,14 @@
       "onboard_time": 1772345302,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 131814,
+      "num": 131814,
+      "word": "王天辰郭晓婷 不舍那你留下来呀",
+      "onboard_time": 1772362344,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 130767,
@@ -1417,6 +1489,14 @@
       "onboard_time": 1772349982,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124076,
+      "num": 159269,
+      "word": "王毅同拉夫罗夫通电话",
+      "onboard_time": 1772363065,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124022,
@@ -1465,6 +1545,22 @@
       "onboard_time": 1772270905,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118115,
+      "num": 118115,
+      "word": "七旬岳母独自飞大连女婿全网求照顾",
+      "onboard_time": 1772362824,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116968,
+      "num": 116968,
+      "word": "谷爱凌辛芷蕾 野心是最好的预告",
+      "onboard_time": 1772364383,
+      "rank": 43,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 116501,
@@ -1547,6 +1643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111736,
+      "num": 111736,
+      "word": "肖战展示内搭",
+      "onboard_time": 1772362944,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110504,
       "num": 138581,
       "word": "中国男篮半场落后中国台北1分",
@@ -1561,6 +1665,14 @@
       "onboard_time": 1772341103,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108675,
+      "num": 108675,
+      "word": "王译磊 红包",
+      "onboard_time": 1772364084,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 108465,
@@ -1617,6 +1729,14 @@
       "onboard_time": 1772343743,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104575,
+      "num": 109544,
+      "word": "耙耙柑的本名叫春见",
+      "onboard_time": 1772363123,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 104412,
@@ -1740,7 +1860,7 @@
     },
     {
       "raw_hot": 92828,
-      "num": 92828,
+      "num": 134953,
       "word": "中国男篮小组积分形势",
       "onboard_time": 1772362223,
       "rank": 49,
@@ -1835,14 +1955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84680,
-      "num": 203255,
-      "word": "普京就哈梅内伊遇害表示哀悼",
-      "onboard_time": 1772361681,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 84332,
       "num": 84332,
       "word": "七种退税方式",
@@ -1905,6 +2017,14 @@
       "onboard_time": 1772330369,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76121,
+      "num": 93795,
+      "word": "铁打的女单决赛和王楚钦开盲盒",
+      "onboard_time": 1772363123,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 76078,
@@ -2017,6 +2137,14 @@
       "onboard_time": 1772339305,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 58059,
+      "num": 248651,
+      "word": "佩泽希齐扬平安",
+      "onboard_time": 1772363002,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51298,

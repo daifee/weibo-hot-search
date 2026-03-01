@@ -1,0 +1,410 @@
+{
+  "runTime": 1772364575571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1039947,
+        "num": 1166391,
+        "word": "伊朗袭击27个美军基地",
+        "onboard_time": 1772355083,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331811,
+        "num": 840218,
+        "word": "诞下5胞胎女子说现在没时间买黄金",
+        "onboard_time": 1772360602,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16883,
+        "num": 672885,
+        "word": "全国政协会议议程来了",
+        "onboard_time": 1772330670,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 716656,
+        "num": 648451,
+        "word": "哈梅内伊遇害",
+        "onboard_time": 1772329044,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 388729,
+        "num": 388729,
+        "word": "中国军号发布视频",
+        "onboard_time": 1772359882,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 324722,
+        "num": 324722,
+        "word": "中国男篮险胜中国台北男篮",
+        "onboard_time": 1772358923,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497274,
+        "num": 322028,
+        "word": "中俄呼吁立即停止战争",
+        "onboard_time": 1772361862,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310045,
+        "num": 310045,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1772362824,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206056,
+        "num": 307727,
+        "word": "将门独后王鹤棣路透",
+        "onboard_time": 1772352862,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352667,
+        "num": 300174,
+        "word": "黄金暗盘跳水",
+        "onboard_time": 1772362404,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 960000,
+        "num": 295918,
+        "word": "伊朗总统就哈梅内伊身亡发声明",
+        "onboard_time": 1772358442,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 412596,
+        "num": 288716,
+        "word": "我在挨骂 稍等呀",
+        "onboard_time": 1772357963,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412154,
+        "num": 281846,
+        "word": "普京就哈梅内伊遇害表示哀悼",
+        "onboard_time": 1772361681,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 339921,
+        "num": 277680,
+        "word": "一家4口爬山祈福妻子坠亡",
+        "onboard_time": 1772357782,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271415,
+        "num": 271415,
+        "word": "伊朗确认继任者后或将扩大反击",
+        "onboard_time": 1772343083,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252402,
+        "num": 252402,
+        "word": "美以导弹炸到全球人钱包",
+        "onboard_time": 1772359824,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58059,
+        "num": 248651,
+        "word": "佩泽希齐扬平安",
+        "onboard_time": 1772363002,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245423,
+        "num": 245423,
+        "word": "以军开始打击伊朗首都心脏地带",
+        "onboard_time": 1772355803,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239735,
+        "num": 239735,
+        "word": "男子酒后和老婆吵架胸口撕裂40厘米",
+        "onboard_time": 1772357122,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224507,
+        "num": 224507,
+        "word": "贝因美 大麻二酚",
+        "onboard_time": 1772353462,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1345984,
+        "num": 221971,
+        "word": "纪凌尘与韩国女友泰国度假",
+        "onboard_time": 1772362163,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1289829,
+        "num": 219998,
+        "word": "三甲医生回应秦岚嗓子哑了三年",
+        "onboard_time": 1772360303,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196957,
+        "num": 196957,
+        "word": "以军称已向伊朗投掷超1200枚导弹",
+        "onboard_time": 1772355743,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 581526,
+        "num": 195407,
+        "word": "张元英签售态度",
+        "onboard_time": 1772357243,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397942,
+        "num": 189719,
+        "word": "宋亚轩海胆头",
+        "onboard_time": 1772361862,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175320,
+        "num": 175320,
+        "word": "黄金",
+        "onboard_time": 1772332948,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 310331,
+        "num": 173083,
+        "word": "黄轩的手 此沙的脚",
+        "onboard_time": 1772363244,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272078,
+        "num": 169388,
+        "word": "沈腾马丽 我欲成冰再也无退路",
+        "onboard_time": 1772356043,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124076,
+        "num": 159269,
+        "word": "王毅同拉夫罗夫通电话",
+        "onboard_time": 1772363065,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98707,
+        "num": 156592,
+        "word": "黄金石油美联储降息大变局",
+        "onboard_time": 1772359643,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153280,
+        "num": 153280,
+        "word": "仙逆",
+        "onboard_time": 1772364024,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 244182,
+        "num": 153249,
+        "word": "杨幂 得罪就得罪吧",
+        "onboard_time": 1772340504,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194526,
+        "num": 153125,
+        "word": "宋亚轩复刻少年与花",
+        "onboard_time": 1772362524,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143024,
+        "num": 152989,
+        "word": "瓦希迪执掌伊朗伊斯兰革命卫队",
+        "onboard_time": 1772359043,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152976,
+        "num": 152976,
+        "word": "张小满严晓丹分手",
+        "onboard_time": 1772358323,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152244,
+        "num": 152244,
+        "word": "李荣浩 高考界最严厉的父亲",
+        "onboard_time": 1772358502,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140272,
+        "num": 140272,
+        "word": "耙耙柑是很善良的水果",
+        "onboard_time": 1772350884,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143868,
+        "num": 139168,
+        "word": "孙俪邓超 伟大的暧昧期",
+        "onboard_time": 1772357543,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86465,
+        "num": 134953,
+        "word": "中国男篮小组积分形势",
+        "onboard_time": 1772362223,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134890,
+        "num": 134890,
+        "word": "出轨对象得知感染HIV还瞒着自己",
+        "onboard_time": 1772363784,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134578,
+        "num": 134578,
+        "word": "六点半下班和七点半下班的差别",
+        "onboard_time": 1772355024,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131814,
+        "num": 131814,
+        "word": "王天辰郭晓婷 不舍那你留下来呀",
+        "onboard_time": 1772362344,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118115,
+        "num": 118115,
+        "word": "七旬岳母独自飞大连女婿全网求照顾",
+        "onboard_time": 1772362824,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116968,
+        "num": 116968,
+        "word": "谷爱凌辛芷蕾 野心是最好的预告",
+        "onboard_time": 1772364383,
+        "rank": 43,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 111736,
+        "num": 111736,
+        "word": "肖战展示内搭",
+        "onboard_time": 1772362944,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104575,
+        "num": 109544,
+        "word": "耙耙柑的本名叫春见",
+        "onboard_time": 1772363123,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108675,
+        "num": 108675,
+        "word": "王译磊 红包",
+        "onboard_time": 1772364084,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107273,
+        "num": 107273,
+        "word": "杨紫上次恋爱已是七年前",
+        "onboard_time": 1772350703,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80137,
+        "num": 97699,
+        "word": "小镇唯一外卖员靠跑单月入过万",
+        "onboard_time": 1772351303,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76121,
+        "num": 93795,
+        "word": "铁打的女单决赛和王楚钦开盲盒",
+        "onboard_time": 1772363123,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的心头事#"
+    }
+  }
+}
