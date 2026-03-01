@@ -1,0 +1,410 @@
+{
+  "runTime": 1772361265722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379846,
+        "num": 1379846,
+        "word": "伊朗袭击27个美军基地",
+        "onboard_time": 1772355083,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 692702,
+        "num": 865459,
+        "word": "中国男篮险胜中国台北男篮",
+        "onboard_time": 1772358923,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27584,
+        "num": 700570,
+        "word": "全国政协会议议程来了",
+        "onboard_time": 1772330670,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 913475,
+        "num": 687909,
+        "word": "哈梅内伊遇害",
+        "onboard_time": 1772329044,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 609251,
+        "num": 609251,
+        "word": "沈腾马丽 我欲成冰再也无退路",
+        "onboard_time": 1772356043,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551189,
+        "num": 551189,
+        "word": "伊朗确认继任者后或将扩大反击",
+        "onboard_time": 1772343083,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330816,
+        "num": 330816,
+        "word": "将门独后王鹤棣路透",
+        "onboard_time": 1772352862,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260397,
+        "num": 260397,
+        "word": "中国男篮vs中国台北男篮",
+        "onboard_time": 1772352263,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251319,
+        "num": 251319,
+        "word": "六点半下班和七点半下班的差别",
+        "onboard_time": 1772355024,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98863,
+        "num": 251314,
+        "word": "清华妈妈说对孩子只有2个要求",
+        "onboard_time": 1772360664,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2056777,
+        "num": 251294,
+        "word": "伊朗总统就哈梅内伊身亡发声明",
+        "onboard_time": 1772358442,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 781973,
+        "num": 251249,
+        "word": "我在挨骂 稍等呀",
+        "onboard_time": 1772357963,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412387,
+        "num": 251247,
+        "word": "男子酒后和老婆吵架胸口撕裂40厘米",
+        "onboard_time": 1772357122,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388096,
+        "num": 251210,
+        "word": "贝因美 大麻二酚",
+        "onboard_time": 1772353462,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346753,
+        "num": 251196,
+        "word": "张小满严晓丹分手",
+        "onboard_time": 1772358323,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52808,
+        "num": 251177,
+        "word": "诞下5胞胎女子说现在没时间买黄金",
+        "onboard_time": 1772360602,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29773,
+        "num": 251149,
+        "word": "蓝眼狐是L3吗",
+        "onboard_time": 1772357842,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 46574,
+        "num": 251127,
+        "word": "0.003克黄金手机贴折算克价达万元",
+        "onboard_time": 1772360483,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336113,
+        "num": 251095,
+        "word": "以军开始打击伊朗首都心脏地带",
+        "onboard_time": 1772355803,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34064,
+        "num": 251083,
+        "word": "伊朗驻华使馆降半旗",
+        "onboard_time": 1772360483,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 963315,
+        "num": 251057,
+        "word": "张元英签售态度",
+        "onboard_time": 1772357243,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540929,
+        "num": 251038,
+        "word": "三甲医生回应秦岚嗓子哑了三年",
+        "onboard_time": 1772360303,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251018,
+        "num": 251018,
+        "word": "黄金",
+        "onboard_time": 1772332948,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 318954,
+        "num": 244437,
+        "word": "杨幂 得罪就得罪吧",
+        "onboard_time": 1772340504,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288677,
+        "num": 244426,
+        "word": "孙俪邓超 伟大的暧昧期",
+        "onboard_time": 1772357543,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221388,
+        "num": 238715,
+        "word": "一家4口爬山祈福妻子坠亡",
+        "onboard_time": 1772357782,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237186,
+        "num": 237186,
+        "word": "秦岚嗓子哑了三年",
+        "onboard_time": 1772343683,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236656,
+        "num": 236656,
+        "word": "杨紫上次恋爱已是七年前",
+        "onboard_time": 1772350703,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206897,
+        "num": 235685,
+        "word": "以军称已向伊朗投掷超1200枚导弹",
+        "onboard_time": 1772355743,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192231,
+        "num": 235209,
+        "word": "小镇唯一外卖员靠跑单月入过万",
+        "onboard_time": 1772351303,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346864,
+        "num": 235193,
+        "word": "瓦希迪执掌伊朗伊斯兰革命卫队",
+        "onboard_time": 1772359043,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235124,
+        "num": 235124,
+        "word": "中国军号发布视频",
+        "onboard_time": 1772359882,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 227808,
+        "num": 227808,
+        "word": "李荣浩 高考界最严厉的父亲",
+        "onboard_time": 1772358502,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194515,
+        "num": 194515,
+        "word": "不建议电脑缩放调成500%",
+        "onboard_time": 1772354421,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156256,
+        "num": 156256,
+        "word": "黄金石油美联储降息大变局",
+        "onboard_time": 1772359643,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144687,
+        "num": 144687,
+        "word": "携程回应大马士革到上海机票550万",
+        "onboard_time": 1772342723,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144467,
+        "num": 144467,
+        "word": "这样退税最划算",
+        "onboard_time": 1772355683,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138328,
+        "num": 138328,
+        "word": "迪拜机场被炸前记者接到中国同胞",
+        "onboard_time": 1772354544,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137867,
+        "num": 137867,
+        "word": "美以导弹炸到全球人钱包",
+        "onboard_time": 1772359824,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129884,
+        "num": 129884,
+        "word": "2岁小孩高铁车厢唱歌旅客大打出手",
+        "onboard_time": 1772346443,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129515,
+        "num": 129515,
+        "word": "赵继伟神仙球",
+        "onboard_time": 1772359103,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124636,
+        "num": 124636,
+        "word": "郭晓婷回复剧粉",
+        "onboard_time": 1772360962,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120292,
+        "num": 120292,
+        "word": "耙耙柑是很善良的水果",
+        "onboard_time": 1772350884,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113916,
+        "num": 113916,
+        "word": "全球大量投资者告别美国",
+        "onboard_time": 1772359643,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101461,
+        "num": 101461,
+        "word": "蔡思贝被TVB官网除名",
+        "onboard_time": 1772353223,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100122,
+        "num": 100122,
+        "word": "中国男篮100分",
+        "onboard_time": 1772359643,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97562,
+        "num": 97562,
+        "word": "谢娜 丁程鑫皮痒痒了哇",
+        "onboard_time": 1772354604,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97069,
+        "num": 97069,
+        "word": "王者荣耀 TF四代",
+        "onboard_time": 1772344522,
+        "rank": 47,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 81291,
+        "num": 81291,
+        "word": "北京国安超级杯夺冠",
+        "onboard_time": 1772359404,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80329,
+        "num": 80329,
+        "word": "镖人",
+        "onboard_time": 1772346982,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的心头事#"
+    }
+  }
+}

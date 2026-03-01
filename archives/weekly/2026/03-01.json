@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772358799605,
+  "endTime": 1772361265722,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -27,6 +27,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2056777,
+      "num": 305497,
+      "word": "伊朗总统就哈梅内伊身亡发声明",
+      "onboard_time": 1772358442,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1718479,
       "num": 199270,
       "word": "哈梅内伊",
@@ -48,6 +56,14 @@
       "word": "伊朗确认继任者后或将扩大反击",
       "onboard_time": 1772343083,
       "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1379846,
+      "num": 1379846,
+      "word": "伊朗袭击27个美军基地",
+      "onboard_time": 1772355083,
+      "rank": 25,
       "category": "国际时政"
     },
     {
@@ -83,20 +99,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1003318,
-      "num": 635250,
-      "word": "伊朗袭击27个美军基地",
-      "onboard_time": 1772355083,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 993678,
       "num": 993678,
       "word": "以色列宣布袭击伊朗",
       "onboard_time": 1772260103,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 963315,
+      "num": 263522,
+      "word": "张元英签售态度",
+      "onboard_time": 1772357243,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 948901,
@@ -115,14 +131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 867471,
-      "num": 305497,
-      "word": "伊朗总统就哈梅内伊身亡发声明",
-      "onboard_time": 1772358442,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 808279,
       "num": 2765817,
       "word": "中方呼吁军事行动立即停止",
@@ -137,6 +145,14 @@
       "onboard_time": 1772322139,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 781973,
+      "num": 292255,
+      "word": "我在挨骂 稍等呀",
+      "onboard_time": 1772357963,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 775656,
@@ -185,6 +201,14 @@
       "onboard_time": 1772347463,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 692702,
+      "num": 865459,
+      "word": "中国男篮险胜中国台北男篮",
+      "onboard_time": 1772358923,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 662008,
@@ -241,6 +265,14 @@
       "onboard_time": 1772296101,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 609251,
+      "num": 609251,
+      "word": "沈腾马丽 我欲成冰再也无退路",
+      "onboard_time": 1772356043,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 606227,
@@ -355,28 +387,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 540929,
+      "num": 251038,
+      "word": "三甲医生回应秦岚嗓子哑了三年",
+      "onboard_time": 1772360303,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510003,
       "num": 299448,
       "word": "伊朗遭袭小学超150人死亡",
       "onboard_time": 1772324661,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 502692,
-      "num": 292255,
-      "word": "我在挨骂 稍等呀",
-      "onboard_time": 1772357963,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 500210,
-      "num": 500210,
-      "word": "沈腾马丽 我欲成冰再也无退路",
-      "onboard_time": 1772356043,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 492158,
@@ -411,14 +435,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 456323,
-      "num": 263522,
-      "word": "张元英签售态度",
-      "onboard_time": 1772357243,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 447635,
       "num": 646077,
       "word": "小米超跑亮相",
@@ -441,6 +457,14 @@
       "onboard_time": 1772352862,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 412387,
+      "num": 262632,
+      "word": "男子酒后和老婆吵架胸口撕裂40厘米",
+      "onboard_time": 1772357122,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410924,
@@ -563,6 +587,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346864,
+      "num": 235193,
+      "word": "瓦希迪执掌伊朗伊斯兰革命卫队",
+      "onboard_time": 1772359043,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 346753,
+      "num": 251196,
+      "word": "张小满严晓丹分手",
+      "onboard_time": 1772358323,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346223,
       "num": 291078,
       "word": "伊拉克宣布全国哀悼3天",
@@ -683,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288677,
+      "num": 250207,
+      "word": "孙俪邓超 伟大的暧昧期",
+      "onboard_time": 1772357543,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288326,
       "num": 279939,
       "word": "伊朗正在打击美国军事基地",
@@ -779,28 +827,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 262632,
-      "num": 262632,
-      "word": "男子酒后和老婆吵架胸口撕裂40厘米",
-      "onboard_time": 1772357122,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252669,
       "num": 120640,
       "word": "伊朗总统之子发声",
       "onboard_time": 1772279843,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 250207,
-      "num": 250207,
-      "word": "孙俪邓超 伟大的暧昧期",
-      "onboard_time": 1772357543,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 248691,
@@ -867,6 +899,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 235124,
+      "num": 235124,
+      "word": "中国军号发布视频",
+      "onboard_time": 1772359882,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 227808,
+      "num": 227808,
+      "word": "李荣浩 高考界最严厉的父亲",
+      "onboard_time": 1772358502,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224162,
       "num": 224162,
       "word": "夏之光妈妈 姐系妈感",
@@ -889,6 +937,14 @@
       "onboard_time": 1772322918,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 221388,
+      "num": 238715,
+      "word": "一家4口爬山祈福妻子坠亡",
+      "onboard_time": 1772357782,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217883,
@@ -915,14 +971,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 211987,
-      "num": 209113,
-      "word": "一家4口爬山祈福妻子坠亡",
-      "onboard_time": 1772357782,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209907,
       "num": 209907,
       "word": "伊朗拥有中东最大弹道导弹库存",
@@ -937,14 +985,6 @@
       "onboard_time": 1772349203,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198061,
-      "num": 198061,
-      "word": "张小满严晓丹分手",
-      "onboard_time": 1772358323,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 197277,
@@ -1123,6 +1163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156256,
+      "num": 156256,
+      "word": "黄金石油美联储降息大变局",
+      "onboard_time": 1772359643,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153780,
       "num": 245180,
       "word": "解放军进入菲美日澳巡航区域",
@@ -1251,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137867,
+      "num": 137867,
+      "word": "美以导弹炸到全球人钱包",
+      "onboard_time": 1772359824,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137381,
       "num": 137245,
       "word": "伊朗军方称总司令身体健康",
@@ -1313,6 +1369,22 @@
       "onboard_time": 1772323220,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129515,
+      "num": 129515,
+      "word": "赵继伟神仙球",
+      "onboard_time": 1772359103,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124636,
+      "num": 124636,
+      "word": "郭晓婷回复剧粉",
+      "onboard_time": 1772360962,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 124389,
@@ -1395,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113916,
+      "num": 113916,
+      "word": "全球大量投资者告别美国",
+      "onboard_time": 1772359643,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113889,
       "num": 141380,
       "word": "小米VisionGT实车",
@@ -1456,14 +1536,6 @@
       "word": "这居然是侯明昊的素颜",
       "onboard_time": 1772288245,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 108298,
-      "num": 108298,
-      "word": "李荣浩 高考界最严厉的父亲",
-      "onboard_time": 1772358502,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1547,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100122,
+      "num": 100122,
+      "word": "中国男篮100分",
+      "onboard_time": 1772359643,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100026,
       "num": 100026,
       "word": "A股行情",
@@ -1577,6 +1657,14 @@
       "onboard_time": 1772357782,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98863,
+      "num": 251314,
+      "word": "清华妈妈说对孩子只有2个要求",
+      "onboard_time": 1772360664,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97632,
@@ -1720,6 +1808,14 @@
       "word": "孙颖莎说跟王曼昱交手都很焦灼",
       "onboard_time": 1772353523,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81291,
+      "num": 81291,
+      "word": "北京国安超级杯夺冠",
+      "onboard_time": 1772359404,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1867,6 +1963,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 52808,
+      "num": 251177,
+      "word": "诞下5胞胎女子说现在没时间买黄金",
+      "onboard_time": 1772360602,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51298,
       "num": 2141971,
       "word": "3月起一批国家标准开始实施",
@@ -1905,6 +2009,14 @@
       "onboard_time": 1772357842,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 46574,
+      "num": 251127,
+      "word": "0.003克黄金手机贴折算克价达万元",
+      "onboard_time": 1772360483,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45546,
@@ -1971,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34064,
+      "num": 251083,
+      "word": "伊朗驻华使馆降半旗",
+      "onboard_time": 1772360483,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33829,
       "num": 316489,
       "word": "最新一批侵华日军罪行铁证展出",
@@ -2004,7 +2124,7 @@
     },
     {
       "raw_hot": 30121,
-      "num": 694523,
+      "num": 700570,
       "word": "全国政协会议议程来了",
       "onboard_time": 1772330670,
       "rank": 2,
