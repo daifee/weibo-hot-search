@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772390677837,
+  "endTime": 1772391485097,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -3001,6 +3001,22 @@
       "onboard_time": 1772283145,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28694,
+      "num": 28694,
+      "word": "伊朗发布击落美无人机画面",
+      "onboard_time": 1772391196,
+      "rank": 32,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 28095,
+      "num": 28095,
+      "word": "伊朗导弹击中以色列中部致6死23伤",
+      "onboard_time": 1772391016,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27658,

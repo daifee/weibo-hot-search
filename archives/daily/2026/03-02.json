@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772390677837,
+  "endTime": 1772391485097,
   "band_list": [
     {
       "raw_hot": 2377348,
@@ -433,6 +433,30 @@
       "onboard_time": 1772385498,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28694,
+      "num": 28694,
+      "word": "伊朗发布击落美无人机画面",
+      "onboard_time": 1772391196,
+      "rank": 32,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 28095,
+      "num": 28095,
+      "word": "伊朗导弹击中以色列中部致6死23伤",
+      "onboard_time": 1772391016,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19588,
+      "num": 26130,
+      "word": "江湖夜雨十年灯",
+      "onboard_time": 1772387776,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 18409,
