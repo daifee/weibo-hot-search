@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772466715294,
+  "endTime": 1772467331640,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 808317,
-      "num": 495777,
+      "num": 807660,
       "word": "伊朗首都5地几乎同时爆炸",
       "onboard_time": 1772464105,
       "rank": 4,
@@ -1683,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330560,
+      "num": 842211,
+      "word": "种地吧",
+      "onboard_time": 1772466984,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330497,
       "num": 463278,
       "word": "多国就美以袭击伊朗表态",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1772415803,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 316244,
+      "num": 255407,
+      "word": "iPhone17e浅粉色",
+      "onboard_time": 1772466264,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 316088,
@@ -1824,6 +1840,14 @@
       "word": "伊朗退了一步炮火进了一步",
       "onboard_time": 1772293583,
       "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 301143,
+      "num": 301143,
+      "word": "法国总统下令增加核弹头数量",
+      "onboard_time": 1772464765,
+      "rank": 8,
       "category": "国际时政"
     },
     {
@@ -1947,14 +1971,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 281080,
-      "num": 255407,
-      "word": "iPhone17e浅粉色",
-      "onboard_time": 1772466264,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
       "raw_hot": 275127,
       "num": 275127,
       "word": "方大同拍摄的时候没有封路",
@@ -2051,6 +2067,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 264621,
+      "num": 255363,
+      "word": "张峻豪发巧克力",
+      "onboard_time": 1772466264,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264402,
       "num": 174821,
       "word": "阿富汗使用重型武器打击巴基斯坦",
@@ -2081,14 +2105,6 @@
       "onboard_time": 1772439805,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255436,
-      "num": 255436,
-      "word": "法国总统下令增加核弹头数量",
-      "onboard_time": 1772464765,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 255163,
@@ -2467,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198358,
+      "num": 255374,
+      "word": "2026元宵晚会官宣",
+      "onboard_time": 1772463867,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197964,
       "num": 330321,
       "word": "男子烧烤店就餐发现茶壶内发霉",
@@ -2683,14 +2707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175601,
-      "num": 255374,
-      "word": "2026元宵晚会官宣",
-      "onboard_time": 1772463867,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175080,
       "num": 175080,
       "word": "伊朗3场世界杯小组赛都在美国球场踢",
@@ -2705,14 +2721,6 @@
       "onboard_time": 1772378907,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 173448,
-      "num": 255363,
-      "word": "张峻豪发巧克力",
-      "onboard_time": 1772466264,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 172748,
@@ -2929,6 +2937,14 @@
       "onboard_time": 1772337566,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156396,
+      "num": 255315,
+      "word": "中国有了量子手机",
+      "onboard_time": 1772466444,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156256,
@@ -3571,6 +3587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122728,
+      "num": 255307,
+      "word": "iPadAir 没高刷",
+      "onboard_time": 1772464585,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 122452,
       "num": 160462,
       "word": "WTT新加坡大满贯",
@@ -3596,7 +3620,7 @@
     },
     {
       "raw_hot": 121117,
-      "num": 121117,
+      "num": 156308,
       "word": "王楚然法式碎花裙",
       "onboard_time": 1772461827,
       "rank": 41,
@@ -3608,14 +3632,6 @@
       "word": "清华妈妈说对孩子只有2个要求",
       "onboard_time": 1772360664,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120918,
-      "num": 255315,
-      "word": "中国有了量子手机",
-      "onboard_time": 1772466444,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -3641,14 +3657,6 @@
       "onboard_time": 1772366663,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119808,
-      "num": 255307,
-      "word": "iPadAir 没高刷",
-      "onboard_time": 1772464585,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 119062,
@@ -4387,6 +4395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93953,
+      "num": 156349,
+      "word": "肖战记录粉丝",
+      "onboard_time": 1772466984,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93519,
       "num": 93519,
       "word": "莫雷加德世排升至第二",
@@ -4699,6 +4715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82302,
+      "num": 255150,
+      "word": "女子公园放养10天宠物鸭毫发无损",
+      "onboard_time": 1772463985,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81987,
       "num": 81987,
       "word": "孙颖莎说跟王曼昱交手都很焦灼",
@@ -4916,19 +4940,11 @@
     },
     {
       "raw_hot": 71549,
-      "num": 749448,
+      "num": 809660,
       "word": "598名女性获全国三八红旗手称号",
       "onboard_time": 1772460686,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 71368,
-      "num": 255150,
-      "word": "女子公园放养10天宠物鸭毫发无损",
-      "onboard_time": 1772463985,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71019,
