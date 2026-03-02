@@ -1,0 +1,410 @@
+{
+  "runTime": 1772436835728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 726248,
+        "num": 1116199,
+        "word": "伊朗导弹突破以色列防御系统",
+        "onboard_time": 1772420543,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 529015,
+        "num": 797643,
+        "word": "海口市监局回应椰树低俗广告",
+        "onboard_time": 1772432843,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37493,
+        "num": 617722,
+        "word": "2026全国两会",
+        "onboard_time": 1772420723,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 808121,
+        "num": 554716,
+        "word": "刘文祥麻辣烫",
+        "onboard_time": 1772433261,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 367147,
+        "num": 367147,
+        "word": "家属否认内贾德死亡",
+        "onboard_time": 1772429963,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 351571,
+        "num": 351571,
+        "word": "男子6元买彩票留店里竟然中了707万",
+        "onboard_time": 1772433683,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281761,
+        "num": 281761,
+        "word": "白宫下令暂缓推进对台军售",
+        "onboard_time": 1772425403,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249495,
+        "num": 249495,
+        "word": "豆瓣发致歉信",
+        "onboard_time": 1772433742,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186658,
+        "num": 248888,
+        "word": "当你发现奶茶袋可以防油溅",
+        "onboard_time": 1772423124,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179884,
+        "num": 243401,
+        "word": "孙千的cp玄学又显灵了",
+        "onboard_time": 1772431764,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1944315,
+        "num": 241651,
+        "word": "伊朗导弹绕过拦截击中耶路撒冷",
+        "onboard_time": 1772431042,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1091128,
+        "num": 236051,
+        "word": "刘文祥 紫薯精",
+        "onboard_time": 1772434404,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 830362,
+        "num": 234974,
+        "word": "伊朗大量无人机列阵地下隧道",
+        "onboard_time": 1772432662,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 325620,
+        "num": 231439,
+        "word": "女装牛仔裤也没有放过王楚然",
+        "onboard_time": 1772433863,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500002,
+        "num": 227671,
+        "word": "伊朗导弹摧毁阿联酋萨德系统",
+        "onboard_time": 1772428704,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 306417,
+        "num": 224862,
+        "word": "迪丽热巴扛起裙摆就走了",
+        "onboard_time": 1772434342,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486569,
+        "num": 219189,
+        "word": "伊朗的致命隐患是内奸",
+        "onboard_time": 1772435423,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218068,
+        "num": 218068,
+        "word": "李昀锐还记得自己姓李不姓林吗",
+        "onboard_time": 1772425042,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174025,
+        "num": 174025,
+        "word": "真的没人管管江西小炒吗",
+        "onboard_time": 1772427085,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144813,
+        "num": 173758,
+        "word": "男子烧烤店就餐发现茶壶内发霉",
+        "onboard_time": 1772434821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3260522,
+        "num": 173014,
+        "word": "李雨桐喊话薛之谦",
+        "onboard_time": 1772422521,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265981,
+        "num": 172050,
+        "word": "以色列袭击黎巴嫩致31人死",
+        "onboard_time": 1772432362,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192164,
+        "num": 170422,
+        "word": "小鹏第二代VLA妈妈都爱开的国民智驾",
+        "onboard_time": 1772433323,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 215201,
+        "num": 169911,
+        "word": "boss直聘回应网传伊朗急招炮兵图",
+        "onboard_time": 1772425824,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 103403,
+        "num": 169120,
+        "word": "建议全民发放500元通用消费券",
+        "onboard_time": 1772435183,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98376,
+        "num": 167427,
+        "word": "中国金球奖",
+        "onboard_time": 1772434342,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 806827,
+        "num": 166795,
+        "word": "李雨桐说被薛之谦威胁",
+        "onboard_time": 1772423964,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166247,
+        "num": 166247,
+        "word": "吴京 战狼不干这个",
+        "onboard_time": 1772433683,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134734,
+        "num": 156363,
+        "word": "中国石油封涨停创近11年新高",
+        "onboard_time": 1772434102,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155199,
+        "num": 155199,
+        "word": "迅猛龙自曝直播影响学业了",
+        "onboard_time": 1772436204,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160878,
+        "num": 149528,
+        "word": "坐在医院等结果突然被塞手里一个小孩",
+        "onboard_time": 1772435903,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140212,
+        "num": 140212,
+        "word": "猫 你怎么不等我死了才回来",
+        "onboard_time": 1772435303,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131392,
+        "num": 131392,
+        "word": "宝妈抱5月大婴儿扶梯上被玩具车撞倒",
+        "onboard_time": 1772436565,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127437,
+        "num": 131392,
+        "word": "电影难看20分钟内可退款40%",
+        "onboard_time": 1772423723,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114219,
+        "num": 131392,
+        "word": "迪丽热巴闪耀巴黎",
+        "onboard_time": 1772423424,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109224,
+        "num": 131391,
+        "word": "蓝莓剥皮",
+        "onboard_time": 1772436023,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107776,
+        "num": 131390,
+        "word": "王楚钦过不了安检瞬间红温",
+        "onboard_time": 1772423723,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105676,
+        "num": 131389,
+        "word": "王楚然出个国怎么美成这样",
+        "onboard_time": 1772434102,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104849,
+        "num": 131388,
+        "word": "中国游客迪拜遇机场停运进退两难",
+        "onboard_time": 1772419462,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3161,
+        "num": 131387,
+        "word": "赵晴剧里这样郑业成没法不心动",
+        "onboard_time": 1772435903,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97286,
+        "num": 131387,
+        "word": "新鸳鸯蝴蝶梦在外网火爆了",
+        "onboard_time": 1772436323,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96178,
+        "num": 131386,
+        "word": "在媒婆帮助下相亲有了退展",
+        "onboard_time": 1772431886,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96096,
+        "num": 131385,
+        "word": "杨博文跳伞",
+        "onboard_time": 1772428345,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94730,
+        "num": 131385,
+        "word": "朋友圈置顶分享胶卷",
+        "onboard_time": 1772435003,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49030,
+        "num": 131384,
+        "word": "2026年第一对意难平",
+        "onboard_time": 1772432722,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93195,
+        "num": 131384,
+        "word": "原来不止我一个人这样洗澡",
+        "onboard_time": 1772422583,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92916,
+        "num": 131382,
+        "word": "为什么一直觉得妈妈三十多",
+        "onboard_time": 1772434222,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91909,
+        "num": 131381,
+        "word": "女子称新买LV羽绒服穿3小时掉色",
+        "onboard_time": 1772434821,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90938,
+        "num": 131381,
+        "word": "林一 国产马丁",
+        "onboard_time": 1772434523,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84869,
+        "num": 131381,
+        "word": "大早上以为自己进平行世界了",
+        "onboard_time": 1772436742,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会故事#"
+    }
+  }
+}

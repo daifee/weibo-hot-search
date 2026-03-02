@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772435545498,
+  "endTime": 1772436835728,
   "band_list": [
     {
       "raw_hot": 9863429,
@@ -27,19 +27,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1944315,
+      "num": 249951,
+      "word": "伊朗导弹绕过拦截击中耶路撒冷",
+      "onboard_time": 1772431042,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1754499,
       "num": 392959,
       "word": "伊朗前总统内贾德亲信称其平安",
       "onboard_time": 1772425042,
       "rank": 10,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 1673478,
-      "num": 249951,
-      "word": "伊朗导弹绕过拦截击中耶路撒冷",
-      "onboard_time": 1772431042,
-      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -73,6 +73,14 @@
       "onboard_time": 1772408902,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1091128,
+      "num": 249644,
+      "word": "刘文祥 紫薯精",
+      "onboard_time": 1772434404,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1062628,
@@ -131,6 +139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 830362,
+      "num": 249443,
+      "word": "伊朗大量无人机列阵地下隧道",
+      "onboard_time": 1772432662,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 808821,
       "num": 270223,
       "word": "孟子义自曝两年最长只休了2天",
@@ -187,14 +203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 648705,
-      "num": 249644,
-      "word": "刘文祥 紫薯精",
-      "onboard_time": 1772434404,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 647463,
       "num": 506711,
       "word": "伊朗发布击落美无人机画面",
@@ -232,14 +240,6 @@
       "word": "家属否认内贾德死亡",
       "onboard_time": 1772429963,
       "rank": 4,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 578620,
-      "num": 249443,
-      "word": "伊朗大量无人机列阵地下隧道",
-      "onboard_time": 1772432662,
-      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -289,6 +289,14 @@
       "onboard_time": 1772362163,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486569,
+      "num": 219189,
+      "word": "伊朗的致命隐患是内奸",
+      "onboard_time": 1772435423,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 484930,
@@ -419,12 +427,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 351571,
+      "num": 351571,
+      "word": "男子6元买彩票留店里竟然中了707万",
+      "onboard_time": 1772433683,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344216,
       "num": 344216,
       "word": "椰子水",
       "onboard_time": 1772407461,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 325620,
+      "num": 231439,
+      "word": "女装牛仔裤也没有放过王楚然",
+      "onboard_time": 1772433863,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 317124,
@@ -449,6 +473,14 @@
       "onboard_time": 1772413824,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306417,
+      "num": 249237,
+      "word": "迪丽热巴扛起裙摆就走了",
+      "onboard_time": 1772434342,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 305605,
@@ -515,12 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265658,
-      "num": 249237,
-      "word": "迪丽热巴扛起裙摆就走了",
-      "onboard_time": 1772434342,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 265981,
+      "num": 249005,
+      "word": "以色列袭击黎巴嫩致31人死",
+      "onboard_time": 1772432362,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 264402,
@@ -531,20 +563,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262090,
-      "num": 249005,
-      "word": "以色列袭击黎巴嫩致31人死",
-      "onboard_time": 1772432362,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 250637,
-      "num": 250637,
-      "word": "男子6元买彩票留店里竟然中了707万",
-      "onboard_time": 1772433683,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 249495,
+      "num": 250145,
+      "word": "豆瓣发致歉信",
+      "onboard_time": 1772433742,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 249094,
@@ -651,28 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216258,
-      "num": 216258,
-      "word": "伊朗的致命隐患是内奸",
-      "onboard_time": 1772435423,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 215225,
       "num": 215225,
       "word": "赵今麦流浪地球3造型",
       "onboard_time": 1772368104,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213508,
-      "num": 213508,
-      "word": "女装牛仔裤也没有放过王楚然",
-      "onboard_time": 1772433863,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 213191,
@@ -755,19 +763,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179884,
+      "num": 250575,
+      "word": "孙千的cp玄学又显灵了",
+      "onboard_time": 1772431764,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171792,
       "num": 133362,
       "word": "郭晓婷王天辰 第二十八年春",
       "onboard_time": 1772379265,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 170606,
-      "num": 250575,
-      "word": "孙千的cp玄学又显灵了",
-      "onboard_time": 1772431764,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -795,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 160878,
+      "num": 149528,
+      "word": "坐在医院等结果突然被塞手里一个小孩",
+      "onboard_time": 1772435903,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160174,
       "num": 160922,
       "word": "伊朗临时领导委员会开始工作",
@@ -811,12 +827,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155204,
-      "num": 250145,
-      "word": "豆瓣发致歉信",
-      "onboard_time": 1772433742,
-      "rank": 9,
-      "category": "互联网"
+      "raw_hot": 155199,
+      "num": 155199,
+      "word": "迅猛龙自曝直播影响学业了",
+      "onboard_time": 1772436204,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 155160,
@@ -891,6 +907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144813,
+      "num": 213316,
+      "word": "男子烧烤店就餐发现茶壶内发霉",
+      "onboard_time": 1772434821,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143740,
       "num": 162117,
       "word": "美军承认使用新装备",
@@ -913,6 +937,14 @@
       "onboard_time": 1772426605,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140212,
+      "num": 140212,
+      "word": "猫 你怎么不等我死了才回来",
+      "onboard_time": 1772435303,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 139809,
@@ -947,6 +979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 134734,
+      "num": 156363,
+      "word": "中国石油封涨停创近11年新高",
+      "onboard_time": 1772434102,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 133964,
       "num": 132438,
       "word": "毕雯珺张淼怡新剧领证路透",
@@ -964,7 +1004,7 @@
     },
     {
       "raw_hot": 133027,
-      "num": 126661,
+      "num": 131389,
       "word": "王楚然出个国怎么美成这样",
       "onboard_time": 1772434102,
       "rank": 28,
@@ -977,6 +1017,14 @@
       "onboard_time": 1772409082,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131392,
+      "num": 131392,
+      "word": "宝妈抱5月大婴儿扶梯上被玩具车撞倒",
+      "onboard_time": 1772436565,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128421,
@@ -1052,11 +1100,19 @@
     },
     {
       "raw_hot": 109241,
-      "num": 129832,
+      "num": 131386,
       "word": "在媒婆帮助下相亲有了退展",
       "onboard_time": 1772431886,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109224,
+      "num": 131391,
+      "word": "蓝莓剥皮",
+      "onboard_time": 1772436023,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 108902,
@@ -1068,7 +1124,7 @@
     },
     {
       "raw_hot": 107538,
-      "num": 107538,
+      "num": 131382,
       "word": "为什么一直觉得妈妈三十多",
       "onboard_time": 1772434222,
       "rank": 34,
@@ -1115,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103403,
+      "num": 169120,
+      "word": "建议全民发放500元通用消费券",
+      "onboard_time": 1772435183,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103169,
       "num": 103169,
       "word": "回复已经达到院士级别了",
@@ -1147,6 +1211,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98376,
+      "num": 167427,
+      "word": "中国金球奖",
+      "onboard_time": 1772434342,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97286,
+      "num": 131387,
+      "word": "新鸳鸯蝴蝶梦在外网火爆了",
+      "onboard_time": 1772436323,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 96235,
       "num": 96235,
       "word": "猫生第一次洗澡",
@@ -1163,20 +1243,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95070,
-      "num": 213316,
-      "word": "男子烧烤店就餐发现茶壶内发霉",
-      "onboard_time": 1772434821,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94499,
-      "num": 94499,
-      "word": "猫 你怎么不等我死了才回来",
-      "onboard_time": 1772435303,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 94730,
+      "num": 131385,
+      "word": "朋友圈置顶分享胶卷",
+      "onboard_time": 1772435003,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 94482,
@@ -1219,12 +1291,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 91664,
-      "num": 91664,
-      "word": "中国金球奖",
-      "onboard_time": 1772434342,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 91909,
+      "num": 212999,
+      "word": "女子称新买LV羽绒服穿3小时掉色",
+      "onboard_time": 1772434821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90938,
+      "num": 131381,
+      "word": "林一 国产马丁",
+      "onboard_time": 1772434523,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 89526,
@@ -1315,12 +1395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84442,
-      "num": 106164,
-      "word": "建议全民发放500元通用消费券",
-      "onboard_time": 1772435183,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 84869,
+      "num": 131381,
+      "word": "大早上以为自己进平行世界了",
+      "onboard_time": 1772436742,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 82300,
@@ -1412,7 +1492,7 @@
     },
     {
       "raw_hot": 74637,
-      "num": 104617,
+      "num": 131384,
       "word": "2026年第一对意难平",
       "onboard_time": 1772432722,
       "rank": 39,
@@ -1539,14 +1619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33893,
-      "num": 212999,
-      "word": "女子称新买LV羽绒服穿3小时掉色",
-      "onboard_time": 1772434821,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23404,
       "num": 212375,
       "word": "8个主要产油国4月增产",
@@ -1641,6 +1713,14 @@
       "onboard_time": 1772358923,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3161,
+      "num": 131387,
+      "word": "赵晴剧里这样郑业成没法不心动",
+      "onboard_time": 1772435903,
+      "rank": 39,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
