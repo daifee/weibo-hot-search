@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772464085435,
+  "endTime": 1772466715294,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 809391,
-      "num": 253618,
+      "num": 255204,
       "word": "陈浩民夫妇滞留阿联酋",
       "onboard_time": 1772445266,
       "rank": 23,
@@ -473,6 +473,14 @@
       "onboard_time": 1772413583,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 808317,
+      "num": 495777,
+      "word": "伊朗首都5地几乎同时爆炸",
+      "onboard_time": 1772464105,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 808279,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1772456367,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 465910,
+      "num": 297882,
+      "word": "李昀锐王楚然lingorm合照",
+      "onboard_time": 1772462546,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 462864,
@@ -1819,14 +1835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 297882,
-      "num": 297882,
-      "word": "李昀锐王楚然lingorm合照",
-      "onboard_time": 1772462546,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 296070,
       "num": 283070,
       "word": "美以袭击致伊朗201人死747人伤",
@@ -1939,6 +1947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 281080,
+      "num": 255407,
+      "word": "iPhone17e浅粉色",
+      "onboard_time": 1772466264,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 275127,
       "num": 275127,
       "word": "方大同拍摄的时候没有封路",
@@ -1956,7 +1972,7 @@
     },
     {
       "raw_hot": 273071,
-      "num": 252696,
+      "num": 255187,
       "word": "张婧仪身高一六七点五",
       "onboard_time": 1772447845,
       "rank": 43,
@@ -2067,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255436,
+      "num": 255436,
+      "word": "法国总统下令增加核弹头数量",
+      "onboard_time": 1772464765,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255163,
       "num": 346183,
       "word": "豆瓣发致歉信",
@@ -2124,7 +2148,7 @@
     },
     {
       "raw_hot": 244221,
-      "num": 244221,
+      "num": 255332,
       "word": "美以伊战场装备都升级了",
       "onboard_time": 1772462726,
       "rank": 31,
@@ -2659,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175601,
+      "num": 255374,
+      "word": "2026元宵晚会官宣",
+      "onboard_time": 1772463867,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175080,
       "num": 175080,
       "word": "伊朗3场世界杯小组赛都在美国球场踢",
@@ -2673,6 +2705,14 @@
       "onboard_time": 1772378907,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173448,
+      "num": 255363,
+      "word": "张峻豪发巧克力",
+      "onboard_time": 1772466264,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 172748,
@@ -2692,7 +2732,7 @@
     },
     {
       "raw_hot": 171729,
-      "num": 171729,
+      "num": 255358,
       "word": "被女子扔玩具车撞伤妈妈发声",
       "onboard_time": 1772461225,
       "rank": 30,
@@ -2756,7 +2796,7 @@
     },
     {
       "raw_hot": 168232,
-      "num": 168232,
+      "num": 255326,
       "word": "卡塔尔能源宣布遇袭停产",
       "onboard_time": 1772462308,
       "rank": 40,
@@ -2796,7 +2836,7 @@
     },
     {
       "raw_hot": 164660,
-      "num": 164660,
+      "num": 255239,
       "word": "恋与深空活动场地变更",
       "onboard_time": 1772461888,
       "rank": 32,
@@ -3203,14 +3243,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 140829,
-      "num": 140829,
-      "word": "2026元宵晚会官宣",
-      "onboard_time": 1772463867,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140818,
       "num": 140818,
       "word": "沙特阿拉伯股市",
@@ -3396,7 +3428,7 @@
     },
     {
       "raw_hot": 131826,
-      "num": 131826,
+      "num": 255268,
       "word": "陈飞宇瘦了好多",
       "onboard_time": 1772463505,
       "rank": 36,
@@ -3476,7 +3508,7 @@
     },
     {
       "raw_hot": 125301,
-      "num": 125301,
+      "num": 255153,
       "word": "WBG战胜TES",
       "onboard_time": 1772459006,
       "rank": 39,
@@ -3579,6 +3611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120918,
+      "num": 255315,
+      "word": "中国有了量子手机",
+      "onboard_time": 1772466444,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120391,
       "num": 186464,
       "word": "丰配友打破全国马拉松纪录",
@@ -3601,6 +3641,14 @@
       "onboard_time": 1772366663,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119808,
+      "num": 255307,
+      "word": "iPadAir 没高刷",
+      "onboard_time": 1772464585,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 119062,
@@ -3689,6 +3737,14 @@
       "onboard_time": 1772352683,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116384,
+      "num": 255289,
+      "word": "方穆静妈妈",
+      "onboard_time": 1772464287,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 115763,
@@ -4243,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97878,
+      "num": 255248,
+      "word": "李静回应飞清迈陪戴军过年",
+      "onboard_time": 1772465786,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97632,
       "num": 126239,
       "word": "湖人vs勇士",
@@ -4347,6 +4411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93058,
+      "num": 255227,
+      "word": "张凌赫田曦薇cp超话人数",
+      "onboard_time": 1772465786,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92987,
       "num": 102755,
       "word": "TES将WBG拖进决胜局",
@@ -4377,6 +4449,14 @@
       "onboard_time": 1772430744,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 92397,
+      "num": 255217,
+      "word": "肖战又更新小站记了",
+      "onboard_time": 1772465665,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 91909,
@@ -4521,6 +4601,14 @@
       "onboard_time": 1772434884,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 86376,
+      "num": 255259,
+      "word": "小米Tag追踪器售价69元起",
+      "onboard_time": 1772464465,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 86365,
@@ -4699,6 +4787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77604,
+      "num": 255186,
+      "word": "肖战米兰vlog",
+      "onboard_time": 1772465364,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76609,
       "num": 737718,
       "word": "从一无所有到再造山河",
@@ -4763,6 +4859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74531,
+      "num": 308226,
+      "word": "岳父婚礼现场返还彩礼后续",
+      "onboard_time": 1772463625,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74260,
       "num": 157453,
       "word": "三桶油历史首次收盘集体涨停",
@@ -4817,6 +4921,14 @@
       "onboard_time": 1772460686,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71368,
+      "num": 255150,
+      "word": "女子公园放养10天宠物鸭毫发无损",
+      "onboard_time": 1772463985,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71019,
@@ -5331,14 +5443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30510,
-      "num": 308226,
-      "word": "岳父婚礼现场返还彩礼后续",
-      "onboard_time": 1772463625,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30121,
       "num": 714095,
       "word": "全国政协会议议程来了",
@@ -5560,14 +5664,6 @@
       "word": "全国春日4d大片已上映",
       "onboard_time": 1772354962,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11255,
-      "num": 116347,
-      "word": "女子公园放养10天宠物鸭毫发无损",
-      "onboard_time": 1772463985,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
