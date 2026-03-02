@@ -1,0 +1,410 @@
+{
+  "runTime": 1772451456216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 994185,
+        "num": 1159069,
+        "word": "伊朗一名中国公民遇难",
+        "onboard_time": 1772438483,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 432085,
+        "num": 861194,
+        "word": "莫斯科遭炸弹袭击",
+        "onboard_time": 1772441365,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35376,
+        "num": 655841,
+        "word": "十四届全国人大四次会议发布会",
+        "onboard_time": 1772441606,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 873310,
+        "num": 654212,
+        "word": "伊朗导弹击中美第五舰队总部瞬间",
+        "onboard_time": 1772446103,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363083,
+        "num": 363083,
+        "word": "孙颖莎晒和王曼昱合照",
+        "onboard_time": 1772447483,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515983,
+        "num": 350428,
+        "word": "刘文祥麻辣烫",
+        "onboard_time": 1772433261,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 336523,
+        "num": 336523,
+        "word": "海澜之家被暂停全军采购资格",
+        "onboard_time": 1772444005,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296063,
+        "num": 296063,
+        "word": "豆瓣称无法承受异常订单巨额损失",
+        "onboard_time": 1772443465,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 290404,
+        "num": 290404,
+        "word": "结婚后住上男女混寝了",
+        "onboard_time": 1772446704,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251599,
+        "num": 251599,
+        "word": "海澜之家 不签合同",
+        "onboard_time": 1772448564,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355018,
+        "num": 251549,
+        "word": "伊朗导弹袭击以色列总理办公室",
+        "onboard_time": 1772448505,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250956,
+        "num": 250956,
+        "word": "20后都避开网红名了吗",
+        "onboard_time": 1772441725,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339683,
+        "num": 241933,
+        "word": "多架美军战机坠毁",
+        "onboard_time": 1772440045,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199961,
+        "num": 226642,
+        "word": "俄罗斯",
+        "onboard_time": 1772445024,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220617,
+        "num": 220617,
+        "word": "伊朗发动第10波攻势",
+        "onboard_time": 1772441846,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186082,
+        "num": 220329,
+        "word": "小贝求婚失败",
+        "onboard_time": 1772450786,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176510,
+        "num": 220061,
+        "word": "中方回应是否会对伊朗提供军事支持",
+        "onboard_time": 1772441846,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163591,
+        "num": 219737,
+        "word": "爱与不爱真的很明显",
+        "onboard_time": 1772443046,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134898,
+        "num": 219616,
+        "word": "36岁副镇长开会晕倒除夕不幸离世",
+        "onboard_time": 1772450366,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51120,
+        "num": 219283,
+        "word": "被国外领养男子用刚学的中文喊爸爸",
+        "onboard_time": 1772450546,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10460332,
+        "num": 10460332,
+        "word": "李雨桐实名报案薛之谦重婚罪",
+        "onboard_time": 1772449465,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425647,
+        "num": 218434,
+        "word": "陈浩民夫妇滞留阿联酋",
+        "onboard_time": 1772445266,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150663,
+        "num": 218289,
+        "word": "日本遭遇霍尔木兹休克",
+        "onboard_time": 1772441783,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 385354,
+        "num": 217867,
+        "word": "阿Sa承认与男友同居",
+        "onboard_time": 1772449405,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334221,
+        "num": 217782,
+        "word": "卢昱晓短发",
+        "onboard_time": 1772438843,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145827,
+        "num": 217265,
+        "word": "伊朗前总统内贾德亲信称其平安",
+        "onboard_time": 1772425042,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 793377,
+        "num": 217028,
+        "word": "李雨桐喊话薛之谦",
+        "onboard_time": 1772422521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273071,
+        "num": 216658,
+        "word": "张婧仪身高一六七点五",
+        "onboard_time": 1772447845,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109703,
+        "num": 216534,
+        "word": "命运真的会提醒你适合走哪条路",
+        "onboard_time": 1772440346,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216242,
+        "num": 216242,
+        "word": "偶遇窦骁何超莲有说有笑",
+        "onboard_time": 1772447962,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214445,
+        "num": 214445,
+        "word": "杨超越 末世文女主",
+        "onboard_time": 1772450604,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101061,
+        "num": 203496,
+        "word": "猫 你怎么不等我死了才回来",
+        "onboard_time": 1772435303,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202095,
+        "num": 202095,
+        "word": "刘文祥 紫薯精",
+        "onboard_time": 1772434404,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157981,
+        "num": 202075,
+        "word": "短剧 变天",
+        "onboard_time": 1772439744,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98528,
+        "num": 202041,
+        "word": "衡水中学AI监测系统",
+        "onboard_time": 1772451147,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142568,
+        "num": 201967,
+        "word": "陈昊宇剧宣 低头",
+        "onboard_time": 1772441544,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131134,
+        "num": 201886,
+        "word": "李茂报平安",
+        "onboard_time": 1772441426,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98103,
+        "num": 201833,
+        "word": "女子称租房钉几颗钉子损失2万",
+        "onboard_time": 1772448205,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122241,
+        "num": 201804,
+        "word": "周杰伦成都被称为史上最离谱演唱会",
+        "onboard_time": 1772443944,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16755,
+        "num": 201774,
+        "word": "20万广东人在委内瑞拉谋生",
+        "onboard_time": 1772450424,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52294,
+        "num": 201685,
+        "word": "虞书欣一天穿出两个季节",
+        "onboard_time": 1772443405,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85596,
+        "num": 201672,
+        "word": "王楚钦更新训练vlog",
+        "onboard_time": 1772450665,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106779,
+        "num": 201576,
+        "word": "Fendi认领展轩",
+        "onboard_time": 1772447962,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 58843,
+        "num": 201568,
+        "word": "杨幂主演电影票房破100亿",
+        "onboard_time": 1772446103,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94331,
+        "num": 201515,
+        "word": "中国石油历史上仅涨停9次",
+        "onboard_time": 1772448264,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105724,
+        "num": 201454,
+        "word": "EXO澳门官宣",
+        "onboard_time": 1772451088,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96834,
+        "num": 201401,
+        "word": "吴宣仪 剩下的交给时间和报应",
+        "onboard_time": 1772439025,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79714,
+        "num": 201343,
+        "word": "不要坐在洗衣机上打电话",
+        "onboard_time": 1772450184,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82864,
+        "num": 201288,
+        "word": "湖南卫视元宵喜乐会节目单",
+        "onboard_time": 1772442265,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93772,
+        "num": 201225,
+        "word": "唐嫣只有眼尾有岁月的痕迹",
+        "onboard_time": 1772448864,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的关心事#"
+    }
+  }
+}

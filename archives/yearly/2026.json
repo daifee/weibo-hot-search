@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772449773640,
+  "endTime": 1772451456216,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -129,6 +129,14 @@
       "onboard_time": 1769588241,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 10460332,
+      "num": 10460332,
+      "word": "李雨桐实名报案薛之谦重婚罪",
+      "onboard_time": 1772449465,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 10406029,
@@ -263,14 +271,6 @@
       "num": 8690838,
       "word": "白敬亭 宋轶",
       "onboard_time": 1770992123,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 8667356,
-      "num": 8667356,
-      "word": "李雨桐实名报案薛之谦重婚罪",
-      "onboard_time": 1772449465,
       "rank": 20,
       "category": "艺人"
     },
