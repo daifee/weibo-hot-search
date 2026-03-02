@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772467331640,
+  "endTime": 1772470806868,
   "band_list": [
     {
       "raw_hot": 913630,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455219,
+      "num": 227723,
+      "word": "iPhone17e浅粉色",
+      "onboard_time": 1772466264,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 447705,
       "num": 243313,
       "word": "李昀锐王楚然lingorm合照",
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355628,
+      "num": 478958,
+      "word": "法国总统下令增加核弹头数量",
+      "onboard_time": 1772464765,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 330560,
       "num": 842211,
       "word": "种地吧",
@@ -75,28 +91,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 316244,
-      "num": 227723,
-      "word": "iPhone17e浅粉色",
-      "onboard_time": 1772466264,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
       "raw_hot": 308147,
       "num": 217923,
       "word": "伊朗称已准备长期战争",
       "onboard_time": 1772459065,
       "rank": 14,
       "category": "军事"
-    },
-    {
-      "raw_hot": 301143,
-      "num": 301143,
-      "word": "法国总统下令增加核弹头数量",
-      "onboard_time": 1772464765,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 299987,
@@ -112,6 +112,14 @@
       "word": "海澜之家 不签合同",
       "onboard_time": 1772448564,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281669,
+      "num": 281669,
+      "word": "中国有了量子手机",
+      "onboard_time": 1772466444,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -187,12 +195,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 156396,
-      "num": 156396,
-      "word": "中国有了量子手机",
-      "onboard_time": 1772466444,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 151727,
+      "num": 156349,
+      "word": "肖战记录粉丝",
+      "onboard_time": 1772466984,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 128364,
@@ -264,14 +272,6 @@
       "word": "杨超越 末世文女主",
       "onboard_time": 1772450604,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 93953,
-      "num": 156349,
-      "word": "肖战记录粉丝",
-      "onboard_time": 1772466984,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -401,6 +401,54 @@
       "onboard_time": 1772460686,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50259,
+      "num": 67112,
+      "word": "杨幂迪丽热巴宁艺卓最佳穿搭",
+      "onboard_time": 1772453124,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 48608,
+      "num": 67094,
+      "word": "红楼梦 宝玉宝钗演员争论",
+      "onboard_time": 1772452645,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48409,
+      "num": 67087,
+      "word": "桃黑黑什么时候播",
+      "onboard_time": 1772462966,
+      "rank": 39,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 46381,
+      "num": 67078,
+      "word": "张翅发自拍",
+      "onboard_time": 1772457027,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43018,
+      "num": 67044,
+      "word": "朱志鑫30分钟的vlog",
+      "onboard_time": 1772469861,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32024,
+      "num": 66988,
+      "word": "卢昱晓短发 美萌",
+      "onboard_time": 1772470639,
+      "rank": 49,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

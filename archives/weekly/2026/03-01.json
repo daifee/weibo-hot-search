@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772467331640,
+  "endTime": 1772470806868,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1163,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 455219,
+      "num": 255407,
+      "word": "iPhone17e浅粉色",
+      "onboard_time": 1772466264,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 447635,
       "num": 646077,
       "word": "小米超跑亮相",
@@ -1579,6 +1587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 355628,
+      "num": 478958,
+      "word": "法国总统下令增加核弹头数量",
+      "onboard_time": 1772464765,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 354133,
       "num": 354133,
       "word": "AI短剧",
@@ -1747,14 +1763,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 316244,
-      "num": 255407,
-      "word": "iPhone17e浅粉色",
-      "onboard_time": 1772466264,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
       "raw_hot": 316088,
       "num": 274336,
       "word": "蔡思贝被TVB官网除名",
@@ -1840,14 +1848,6 @@
       "word": "伊朗退了一步炮火进了一步",
       "onboard_time": 1772293583,
       "rank": 22,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 301143,
-      "num": 301143,
-      "word": "法国总统下令增加核弹头数量",
-      "onboard_time": 1772464765,
-      "rank": 8,
       "category": "国际时政"
     },
     {
@@ -1961,6 +1961,14 @@
       "onboard_time": 1772369964,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281669,
+      "num": 281669,
+      "word": "中国有了量子手机",
+      "onboard_time": 1772466444,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281482,
@@ -2939,14 +2947,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 156396,
-      "num": 255315,
-      "word": "中国有了量子手机",
-      "onboard_time": 1772466444,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156256,
       "num": 211549,
       "word": "黄金石油美联储降息大变局",
@@ -3033,6 +3033,14 @@
       "onboard_time": 1772349443,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151727,
+      "num": 156349,
+      "word": "肖战记录粉丝",
+      "onboard_time": 1772466984,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 151271,
@@ -4395,14 +4403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93953,
-      "num": 156349,
-      "word": "肖战记录粉丝",
-      "onboard_time": 1772466984,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93519,
       "num": 93519,
       "word": "莫雷加德世排升至第二",
@@ -5323,6 +5323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43018,
+      "num": 67044,
+      "word": "朱志鑫30分钟的vlog",
+      "onboard_time": 1772469861,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42215,
       "num": 110971,
       "word": "原来父母老了是一瞬间的事",
@@ -5441,6 +5449,14 @@
       "onboard_time": 1772344584,
       "rank": 49,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 32024,
+      "num": 66988,
+      "word": "卢昱晓短发 美萌",
+      "onboard_time": 1772470639,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 30849,
