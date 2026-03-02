@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772487900596,
+  "endTime": 1772488691376,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -5619,6 +5619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21882,
+      "num": 28146,
+      "word": "米兰时装周",
+      "onboard_time": 1772461827,
+      "rank": 36,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 21090,
       "num": 141447,
       "word": "女子回娘家带大鹅开车8小时叫一路",
@@ -5641,14 +5649,6 @@
       "onboard_time": 1772415982,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20424,
-      "num": 28146,
-      "word": "米兰时装周",
-      "onboard_time": 1772461827,
-      "rank": 36,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 19344,
