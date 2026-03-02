@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772446427819,
+  "endTime": 1772448998233,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1107,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424677,
+      "num": 350858,
+      "word": "俄罗斯",
+      "onboard_time": 1772445024,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 420711,
       "num": 420711,
       "word": "将门独后王鹤棣路透",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1772343922,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 401435,
+      "num": 401435,
+      "word": "孙颖莎晒和王曼昱合照",
+      "onboard_time": 1772447483,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 400506,
@@ -1273,14 +1289,6 @@
       "onboard_time": 1772435303,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 374431,
-      "num": 350858,
-      "word": "俄罗斯",
-      "onboard_time": 1772445024,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 373196,
@@ -1683,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284046,
+      "num": 218996,
+      "word": "伊朗导弹袭击以色列总理办公室",
+      "onboard_time": 1772448505,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 284020,
       "num": 247597,
       "word": "伊朗袭击已致约200名美军伤亡",
@@ -1825,6 +1841,14 @@
       "onboard_time": 1772279843,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 250875,
+      "num": 224782,
+      "word": "结婚后住上男女混寝了",
+      "onboard_time": 1772446704,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 249094,
@@ -2427,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169002,
+      "num": 154984,
+      "word": "偶遇窦骁何超莲有说有笑",
+      "onboard_time": 1772447962,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168835,
       "num": 200130,
       "word": "LV羽绒服穿3小时掉色女子发声",
@@ -2683,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149751,
+      "num": 168325,
+      "word": "张碧晨完全是傣族公主",
+      "onboard_time": 1772445806,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149670,
       "num": 149670,
       "word": "王楚钦男单世排积分再度破万",
@@ -2841,6 +2881,14 @@
       "onboard_time": 1772355443,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140660,
+      "num": 140660,
+      "word": "Fendi认领展轩",
+      "onboard_time": 1772447962,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 139809,
@@ -3003,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130616,
+      "num": 130616,
+      "word": "张婧仪身高一六七点五",
+      "onboard_time": 1772447845,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130439,
       "num": 130439,
       "word": "方大同才二十三MV上线",
@@ -3033,14 +3089,6 @@
       "onboard_time": 1772425348,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 127408,
-      "num": 168325,
-      "word": "张碧晨完全是傣族公主",
-      "onboard_time": 1772445806,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 124761,
@@ -3145,6 +3193,14 @@
       "onboard_time": 1772366663,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120079,
+      "num": 152921,
+      "word": "海澜之家 不签合同",
+      "onboard_time": 1772448564,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118978,
@@ -3307,6 +3363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112730,
+      "num": 131378,
+      "word": "中国石油历史上仅涨停9次",
+      "onboard_time": 1772448264,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112567,
       "num": 157555,
       "word": "新鸳鸯蝴蝶梦在外网火爆了",
@@ -3328,6 +3392,14 @@
       "word": "大侦探",
       "onboard_time": 1772428763,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111768,
+      "num": 167243,
+      "word": "湖南卫视元宵喜乐会节目单",
+      "onboard_time": 1772442265,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -3571,6 +3643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 101298,
+      "num": 130572,
+      "word": "唐嫣只有眼尾有岁月的痕迹",
+      "onboard_time": 1772448864,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101174,
       "num": 101174,
       "word": "王曼昱获得亚军",
@@ -3585,6 +3665,14 @@
       "onboard_time": 1772435303,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100940,
+      "num": 130565,
+      "word": "司机错把油门当刹车蹭途乐砸路虎",
+      "onboard_time": 1772446946,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100522,
@@ -4139,6 +4227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74659,
+      "num": 147436,
+      "word": "多品牌回应椰子水疑加水加糖",
+      "onboard_time": 1772447604,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74637,
       "num": 131384,
       "word": "2026年第一对意难平",
@@ -4185,14 +4281,6 @@
       "onboard_time": 1772342124,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71432,
-      "num": 167243,
-      "word": "湖南卫视元宵喜乐会节目单",
-      "onboard_time": 1772442265,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 71019,
@@ -4315,6 +4403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62955,
+      "num": 189215,
+      "word": "女子称租房钉几颗钉子损失2万",
+      "onboard_time": 1772448205,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62781,
       "num": 190065,
       "word": "小鹏智驾负责人称拉开差距的时刻到了",
@@ -4329,6 +4425,14 @@
       "onboard_time": 1772424143,
       "rank": 49,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 61443,
+      "num": 145100,
+      "word": "为什么说一次不忠百次不用",
+      "onboard_time": 1772444724,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 59375,
@@ -4361,6 +4465,14 @@
       "onboard_time": 1772373806,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 55997,
+      "num": 148907,
+      "word": "一家人身高精准复制粘贴1米82",
+      "onboard_time": 1772448924,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51298,
@@ -4635,6 +4747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30717,
+      "num": 143550,
+      "word": "姐姐姐夫 有的爱像中药",
+      "onboard_time": 1772447185,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30121,
       "num": 714095,
       "word": "全国政协会议议程来了",
@@ -4723,6 +4843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22953,
+      "num": 150405,
+      "word": "95后女刑警空手锁喉1米8壮汉",
+      "onboard_time": 1772448805,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22184,
       "num": 2083425,
       "word": "2026新春走基层",
@@ -4785,6 +4913,14 @@
       "onboard_time": 1772287825,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17266,
+      "num": 141447,
+      "word": "女子回娘家带大鹅开车8小时叫一路",
+      "onboard_time": 1772448864,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17044,
