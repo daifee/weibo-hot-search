@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772445622170,
+  "endTime": 1772446427819,
   "band_list": [
     {
       "raw_hot": 9863429,
@@ -91,7 +91,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1292215,
+      "raw_hot": 1304216,
       "num": 901376,
       "word": "刘文祥麻辣烫",
       "onboard_time": 1772433261,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 809391,
+      "num": 199808,
+      "word": "陈浩民夫妇滞留阿联酋",
+      "onboard_time": 1772445266,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808821,
       "num": 270223,
       "word": "孟子义自曝两年最长只休了2天",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 687536,
-      "num": 302924,
+      "num": 352360,
       "word": "中方回应伊朗关闭霍尔木兹海峡",
       "onboard_time": 1772441426,
       "rank": 12,
@@ -281,6 +289,14 @@
       "onboard_time": 1772391196,
       "rank": 32,
       "category": "军事"
+    },
+    {
+      "raw_hot": 621711,
+      "num": 621711,
+      "word": "海澜之家被暂停全军采购资格",
+      "onboard_time": 1772444005,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 619860,
@@ -323,14 +339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 586267,
-      "num": 586267,
-      "word": "海澜之家被暂停全军采购资格",
-      "onboard_time": 1772444005,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 561180,
       "num": 812682,
       "word": "WiFi 穿墙透视",
@@ -345,14 +353,6 @@
       "onboard_time": 1772410764,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 525749,
-      "num": 199808,
-      "word": "陈浩民夫妇滞留阿联酋",
-      "onboard_time": 1772445266,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 521653,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 436764,
-      "num": 228516,
+      "num": 326377,
       "word": "中方回应是否会对伊朗提供军事支持",
       "onboard_time": 1772441846,
       "rank": 30,
@@ -571,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 374431,
+      "num": 350858,
+      "word": "俄罗斯",
+      "onboard_time": 1772445024,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 365174,
       "num": 188509,
       "word": "金银涨爆了",
@@ -601,6 +609,14 @@
       "onboard_time": 1772439025,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338703,
+      "num": 338703,
+      "word": "命运真的会提醒你适合走哪条路",
+      "onboard_time": 1772440346,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 317124,
@@ -827,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228808,
-      "num": 228808,
-      "word": "命运真的会提醒你适合走哪条路",
-      "onboard_time": 1772440346,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 228695,
       "num": 333414,
       "word": "当你发现奶茶袋可以防油溅",
@@ -995,6 +1003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 192014,
+      "num": 168552,
+      "word": "伊朗导弹击中美第五舰队总部瞬间",
+      "onboard_time": 1772446103,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189958,
       "num": 189958,
       "word": "王安宇顶奢官宣待遇",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1772375005,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180256,
-      "num": 201235,
-      "word": "俄罗斯",
-      "onboard_time": 1772445024,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 179884,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1772444065,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168835,
+      "num": 200130,
+      "word": "LV羽绒服穿3小时掉色女子发声",
+      "onboard_time": 1772443345,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168821,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1772437045,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156972,
-      "num": 200130,
-      "word": "LV羽绒服穿3小时掉色女子发声",
-      "onboard_time": 1772443345,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156243,
@@ -1299,12 +1307,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131830,
+      "num": 173838,
+      "word": "刘文祥店主喊话感谢紫薯精",
+      "onboard_time": 1772444483,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128421,
       "num": 128421,
       "word": "黎巴嫩向以色列发射火箭弹",
       "onboard_time": 1772425348,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127408,
+      "num": 168325,
+      "word": "张碧晨完全是傣族公主",
+      "onboard_time": 1772445806,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 124761,
@@ -1491,20 +1515,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102550,
+      "num": 168475,
+      "word": "杨幂主演电影票房破100亿",
+      "onboard_time": 1772446103,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101143,
       "num": 101143,
       "word": "豆瓣将对异常订单退款",
       "onboard_time": 1772435303,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 100770,
-      "num": 173637,
-      "word": "刘文祥店主喊话感谢紫薯精",
-      "onboard_time": 1772444483,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 99948,
@@ -1755,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81508,
+      "num": 167879,
+      "word": "虞书欣一天穿出两个季节",
+      "onboard_time": 1772443405,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81172,
       "num": 125360,
       "word": "440万买房北侧采光太差获赔67万",
@@ -1769,6 +1801,14 @@
       "onboard_time": 1772425764,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79934,
+      "num": 168075,
+      "word": "性格从小就能看出来",
+      "onboard_time": 1772446344,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 77899,
@@ -1801,6 +1841,14 @@
       "onboard_time": 1772420901,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76576,
+      "num": 167916,
+      "word": "原星纪魅族副总裁加盟小米公关部",
+      "onboard_time": 1772446164,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 75583,
@@ -2153,6 +2201,14 @@
       "onboard_time": 1772358923,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7745,
+      "num": 168365,
+      "word": "二孩家庭养娃成本一年至少减万元",
+      "onboard_time": 1772446404,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3161,
