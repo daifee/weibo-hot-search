@@ -1,0 +1,410 @@
+{
+  "runTime": 1772471575310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 503552,
+        "num": 570568,
+        "word": "哈梅内伊妻子伤重不治去世",
+        "onboard_time": 1772459065,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309077,
+        "num": 426273,
+        "word": "法国总统下令增加核弹头数量",
+        "onboard_time": 1772464765,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23810,
+        "num": 313967,
+        "word": "598名女性获全国三八红旗手称号",
+        "onboard_time": 1772460686,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325814,
+        "num": 296963,
+        "word": "伊朗首都5地几乎同时爆炸",
+        "onboard_time": 1772464105,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 251578,
+        "num": 251578,
+        "word": "中国有了量子手机",
+        "onboard_time": 1772466444,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137851,
+        "num": 137851,
+        "word": "刘文祥麻辣烫",
+        "onboard_time": 1772433261,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131966,
+        "num": 131966,
+        "word": "种地吧",
+        "onboard_time": 1772466984,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124294,
+        "num": 124294,
+        "word": "女子带1米长巨大豆荚坐飞机引围观",
+        "onboard_time": 1772461046,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119494,
+        "num": 119494,
+        "word": "中方回应特朗普3月访华能否成行",
+        "onboard_time": 1772452166,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107171,
+        "num": 118209,
+        "word": "郭晓婷回复孙千",
+        "onboard_time": 1772460207,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464045,
+        "num": 117486,
+        "word": "iPhone17e浅粉色",
+        "onboard_time": 1772466264,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 291019,
+        "num": 115265,
+        "word": "王毅和伊朗外长通电话",
+        "onboard_time": 1772456367,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156051,
+        "num": 114776,
+        "word": "肖战记录粉丝",
+        "onboard_time": 1772466984,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257326,
+        "num": 112933,
+        "word": "伊朗导弹击中美第五舰队总部瞬间",
+        "onboard_time": 1772446103,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137564,
+        "num": 111324,
+        "word": "李昀锐王楚然lingorm合照",
+        "onboard_time": 1772462546,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148337,
+        "num": 109454,
+        "word": "伊朗称已准备长期战争",
+        "onboard_time": 1772459065,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 109281,
+        "num": 109281,
+        "word": "李静回应飞清迈陪戴军过年",
+        "onboard_time": 1772465786,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126326,
+        "num": 109233,
+        "word": "伊朗一名中国公民遇难",
+        "onboard_time": 1772438483,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72641,
+        "num": 109118,
+        "word": "海澜之家 不签合同",
+        "onboard_time": 1772448564,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72232,
+        "num": 109066,
+        "word": "张峻豪发巧克力",
+        "onboard_time": 1772466264,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152214,
+        "num": 108939,
+        "word": "弦子报平安",
+        "onboard_time": 1772462966,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74814,
+        "num": 108833,
+        "word": "伊方愿全力保障中方人员机构的安全",
+        "onboard_time": 1772460626,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71394,
+        "num": 108753,
+        "word": "恋与深空活动场地变更",
+        "onboard_time": 1772461888,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65459,
+        "num": 108575,
+        "word": "小贝求婚失败",
+        "onboard_time": 1772450786,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64776,
+        "num": 108454,
+        "word": "被女子扔玩具车撞伤妈妈发声",
+        "onboard_time": 1772461225,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60920,
+        "num": 108370,
+        "word": "张凌赫田曦薇cp超话人数",
+        "onboard_time": 1772465786,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60801,
+        "num": 108278,
+        "word": "李昀锐好像郭晓婷王天辰的孩子",
+        "onboard_time": 1772455945,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59044,
+        "num": 108206,
+        "word": "iPadAir 没高刷",
+        "onboard_time": 1772464585,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 58784,
+        "num": 108052,
+        "word": "杨超越 末世文女主",
+        "onboard_time": 1772450604,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56682,
+        "num": 107995,
+        "word": "大叔因太会种地在非洲被持枪保护",
+        "onboard_time": 1772453964,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56181,
+        "num": 107854,
+        "word": "女子公园放养10天宠物鸭毫发无损",
+        "onboard_time": 1772463985,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55820,
+        "num": 107776,
+        "word": "2026元宵晚会官宣",
+        "onboard_time": 1772463867,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55206,
+        "num": 107701,
+        "word": "美以伊战场装备都升级了",
+        "onboard_time": 1772462726,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55111,
+        "num": 107556,
+        "word": "宋雨琦被詹姆斯比心",
+        "onboard_time": 1772454385,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 50291,
+        "num": 107472,
+        "word": "红楼梦 宝玉宝钗演员争论",
+        "onboard_time": 1772452645,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47487,
+        "num": 107319,
+        "word": "俄罗斯",
+        "onboard_time": 1772445024,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45143,
+        "num": 107246,
+        "word": "海澜之家被暂停全军采购资格",
+        "onboard_time": 1772444005,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39770,
+        "num": 107152,
+        "word": "王安宇CELINE首位中国男大使",
+        "onboard_time": 1772471300,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 39604,
+        "num": 107014,
+        "word": "卡塔尔能源宣布遇袭停产",
+        "onboard_time": 1772462308,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38391,
+        "num": 106904,
+        "word": "张翅发自拍",
+        "onboard_time": 1772457027,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38289,
+        "num": 106830,
+        "word": "杨幂迪丽热巴宁艺卓最佳穿搭",
+        "onboard_time": 1772453124,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36798,
+        "num": 106714,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1772451925,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34851,
+        "num": 106684,
+        "word": "20后都避开网红名了吗",
+        "onboard_time": 1772441725,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34969,
+        "num": 106527,
+        "word": "陈飞宇瘦了好多",
+        "onboard_time": 1772463505,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32211,
+        "num": 106454,
+        "word": "卢昱晓短发 美萌",
+        "onboard_time": 1772470639,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33356,
+        "num": 106289,
+        "word": "方穆静妈妈",
+        "onboard_time": 1772464287,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31917,
+        "num": 106243,
+        "word": "WBG战胜TES",
+        "onboard_time": 1772459006,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31215,
+        "num": 106144,
+        "word": "王楚然法式碎花裙",
+        "onboard_time": 1772461827,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30545,
+        "num": 106020,
+        "word": "桃黑黑什么时候播",
+        "onboard_time": 1772462966,
+        "rank": 48,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 29493,
+        "num": 105889,
+        "word": "小米Tag追踪器售价69元起",
+        "onboard_time": 1772464465,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#最燃的接力#"
+    }
+  }
+}

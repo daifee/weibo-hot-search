@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772470806868,
+  "endTime": 1772471575310,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1139,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464045,
+      "num": 255407,
+      "word": "iPhone17e浅粉色",
+      "onboard_time": 1772466264,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 462864,
       "num": 282570,
       "word": "宋雨琦被詹姆斯比心",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1772375005,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 455219,
-      "num": 255407,
-      "word": "iPhone17e浅粉色",
-      "onboard_time": 1772466264,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 447635,
@@ -2971,6 +2971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 156051,
+      "num": 156349,
+      "word": "肖战记录粉丝",
+      "onboard_time": 1772466984,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155160,
       "num": 155160,
       "word": "浆果类水果简直是来报恩的",
@@ -3033,14 +3041,6 @@
       "onboard_time": 1772349443,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151727,
-      "num": 156349,
-      "word": "肖战记录粉丝",
-      "onboard_time": 1772466984,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 151271,
@@ -3955,6 +3955,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 109281,
+      "num": 255248,
+      "word": "李静回应飞清迈陪戴军过年",
+      "onboard_time": 1772465786,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109269,
       "num": 109269,
       "word": "iPhone17e价格",
@@ -4315,14 +4323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97878,
-      "num": 255248,
-      "word": "李静回应飞清迈陪戴军过年",
-      "onboard_time": 1772465786,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97632,
       "num": 126239,
       "word": "湖人vs勇士",
@@ -4348,7 +4348,7 @@
     },
     {
       "raw_hot": 95618,
-      "num": 95618,
+      "num": 106904,
       "word": "张翅发自拍",
       "onboard_time": 1772457027,
       "rank": 41,
@@ -5379,6 +5379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39770,
+      "num": 107152,
+      "word": "王安宇CELINE首位中国男大使",
+      "onboard_time": 1772471300,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 39140,
       "num": 133454,
       "word": "麻辣拌界史铁生称两眼一睁就是拌",
@@ -5451,8 +5459,8 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 32024,
-      "num": 66988,
+      "raw_hot": 32211,
+      "num": 106454,
       "word": "卢昱晓短发 美萌",
       "onboard_time": 1772470639,
       "rank": 49,

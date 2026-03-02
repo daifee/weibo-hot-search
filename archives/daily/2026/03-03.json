@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772470806868,
+  "endTime": 1772471575310,
   "band_list": [
     {
       "raw_hot": 913630,
@@ -43,7 +43,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 455219,
+      "raw_hot": 464045,
       "num": 227723,
       "word": "iPhone17e浅粉色",
       "onboard_time": 1772466264,
@@ -195,7 +195,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 151727,
+      "raw_hot": 156051,
       "num": 156349,
       "word": "肖战记录粉丝",
       "onboard_time": 1772466984,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109281,
+      "num": 156332,
+      "word": "李静回应飞清迈陪戴军过年",
+      "onboard_time": 1772465786,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106008,
       "num": 156364,
       "word": "20后都避开网红名了吗",
@@ -281,14 +289,6 @@
       "onboard_time": 1772454385,
       "rank": 36,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 91113,
-      "num": 156332,
-      "word": "李静回应飞清迈陪戴军过年",
-      "onboard_time": 1772465786,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 90691,
@@ -403,24 +403,24 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 50259,
-      "num": 67112,
-      "word": "杨幂迪丽热巴宁艺卓最佳穿搭",
-      "onboard_time": 1772453124,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 48608,
-      "num": 67094,
+      "raw_hot": 50291,
+      "num": 107472,
       "word": "红楼梦 宝玉宝钗演员争论",
       "onboard_time": 1772452645,
       "rank": 38,
       "category": "艺人"
     },
     {
+      "raw_hot": 50259,
+      "num": 106830,
+      "word": "杨幂迪丽热巴宁艺卓最佳穿搭",
+      "onboard_time": 1772453124,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 48409,
-      "num": 67087,
+      "num": 106020,
       "word": "桃黑黑什么时候播",
       "onboard_time": 1772462966,
       "rank": 39,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 46381,
-      "num": 67078,
+      "num": 106904,
       "word": "张翅发自拍",
       "onboard_time": 1772457027,
       "rank": 40,
@@ -443,8 +443,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32024,
-      "num": 66988,
+      "raw_hot": 39770,
+      "num": 107152,
+      "word": "王安宇CELINE首位中国男大使",
+      "onboard_time": 1772471300,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 36798,
+      "num": 106714,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1772451925,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32211,
+      "num": 106454,
       "word": "卢昱晓短发 美萌",
       "onboard_time": 1772470639,
       "rank": 49,
