@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772431185773,
+  "endTime": 1772431981807,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -123,19 +123,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1513941,
+      "num": 207610,
+      "word": "李雨桐说被薛之谦威胁",
+      "onboard_time": 1772423964,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1455805,
       "num": 459700,
       "word": "纪凌尘与韩国女友泰国度假",
       "onboard_time": 1772362163,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1454207,
-      "num": 207610,
-      "word": "李雨桐说被薛之谦威胁",
-      "onboard_time": 1772423964,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -411,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 761300,
+      "num": 250867,
+      "word": "伊朗导弹摧毁阿联酋萨德系统",
+      "onboard_time": 1772428704,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 744438,
       "num": 387822,
       "word": "伊朗反政府人士推倒哈梅内伊雕像",
@@ -432,14 +440,6 @@
       "word": "伊朗代表要求美国保持礼貌",
       "onboard_time": 1772347463,
       "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 699824,
-      "num": 250867,
-      "word": "伊朗导弹摧毁阿联酋萨德系统",
-      "onboard_time": 1772428704,
-      "rank": 10,
       "category": "国际时政"
     },
     {
@@ -608,6 +608,14 @@
       "word": "伊朗7名指挥官确认死亡",
       "onboard_time": 1772407160,
       "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 598708,
+      "num": 856782,
+      "word": "家属否认内贾德死亡",
+      "onboard_time": 1772429963,
+      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -843,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 449327,
+      "num": 163926,
+      "word": "伊朗导弹绕过拦截击中耶路撒冷",
+      "onboard_time": 1772431042,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 447635,
       "num": 646077,
       "word": "小米超跑亮相",
@@ -873,6 +889,14 @@
       "onboard_time": 1772371643,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 441256,
+      "num": 466036,
+      "word": "真的没人管管江西小炒吗",
+      "onboard_time": 1772427085,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 430213,
@@ -1003,14 +1027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 395643,
-      "num": 466036,
-      "word": "真的没人管管江西小炒吗",
-      "onboard_time": 1772427085,
-      "rank": 3,
-      "category": "美食"
-    },
-    {
       "raw_hot": 395592,
       "num": 410824,
       "word": "中国军号发布视频",
@@ -1040,14 +1056,6 @@
       "word": "美以不可能打了伊朗就一走了之",
       "onboard_time": 1772424444,
       "rank": 13,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 391518,
-      "num": 391518,
-      "word": "家属否认内贾德死亡",
-      "onboard_time": 1772429963,
-      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -1619,14 +1627,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 235959,
-      "num": 163926,
-      "word": "伊朗导弹绕过拦截击中耶路撒冷",
-      "onboard_time": 1772431042,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 235569,
       "num": 235569,
       "word": "伊朗禁止船只通行霍尔木兹海峡",
@@ -1723,6 +1723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 219081,
+      "num": 219081,
+      "word": "杨博文跳伞",
+      "onboard_time": 1772428345,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217883,
       "num": 217883,
       "word": "迪丽热巴第一语言不是汉语",
@@ -1803,20 +1811,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205965,
+      "num": 135846,
+      "word": "美代表称伊朗试图暗杀特朗普",
+      "onboard_time": 1772430084,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 205755,
       "num": 365087,
       "word": "王天辰郭晓婷 不舍那你留下来呀",
       "onboard_time": 1772362344,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200968,
-      "num": 200968,
-      "word": "杨博文跳伞",
-      "onboard_time": 1772428345,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 198802,
@@ -2339,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145680,
+      "num": 164070,
+      "word": "中方敦促英方取消对中企制裁",
+      "onboard_time": 1772429963,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145549,
       "num": 124636,
       "word": "郭晓婷回复剧粉",
@@ -2377,6 +2393,14 @@
       "onboard_time": 1772413281,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142021,
+      "num": 163620,
+      "word": "机关算尽不如命运轻描淡写的一笔",
+      "onboard_time": 1772426605,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 141822,
@@ -2707,22 +2731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117502,
-      "num": 164070,
-      "word": "中方敦促英方取消对中企制裁",
-      "onboard_time": 1772429963,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 117284,
-      "num": 163620,
-      "word": "机关算尽不如命运轻描淡写的一笔",
-      "onboard_time": 1772426605,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116968,
       "num": 116968,
       "word": "谷爱凌辛芷蕾 野心是最好的预告",
@@ -2835,6 +2843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111899,
+      "num": 266529,
+      "word": "大侦探",
+      "onboard_time": 1772428763,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110504,
       "num": 138581,
       "word": "中国男篮半场落后中国台北1分",
@@ -2897,14 +2913,6 @@
       "onboard_time": 1772288245,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108189,
-      "num": 266529,
-      "word": "大侦探",
-      "onboard_time": 1772428763,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 108137,
@@ -3043,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100978,
+      "num": 130879,
+      "word": "孙千的cp玄学又显灵了",
+      "onboard_time": 1772431764,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100522,
       "num": 116261,
       "word": "河南暴雪局地积雪将达10厘米",
@@ -3163,6 +3179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94113,
+      "num": 130755,
+      "word": "巴黎是迪丽热巴最正确的打开方式",
+      "onboard_time": 1772431342,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93519,
       "num": 93519,
       "word": "莫雷加德世排升至第二",
@@ -3187,7 +3211,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 92485,
+      "raw_hot": 92643,
       "num": 162933,
       "word": "高桥留美子将作品下架小学馆",
       "onboard_time": 1772430744,
@@ -3337,6 +3361,14 @@
       "onboard_time": 1772339125,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83937,
+      "num": 129832,
+      "word": "在媒婆帮助下相亲有了退展",
+      "onboard_time": 1772431886,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 82779,
@@ -3504,6 +3536,14 @@
       "word": "王曼昱孙颖莎女单争金",
       "onboard_time": 1772348362,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69596,
+      "num": 131793,
+      "word": "羽毛球开始降价了",
+      "onboard_time": 1772431821,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -3993,6 +4033,14 @@
       "onboard_time": 1772287825,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17044,
+      "num": 130662,
+      "word": "请姐姐姐夫三搭",
+      "onboard_time": 1772431821,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 16324,

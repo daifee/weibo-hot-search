@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772431185773,
+  "endTime": 1772431981807,
   "band_list": [
     {
       "raw_hot": 9863429,
@@ -43,7 +43,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1454207,
+      "raw_hot": 1513941,
       "num": 207610,
       "word": "李雨桐说被薛之谦威胁",
       "onboard_time": 1772423964,
@@ -131,7 +131,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 699824,
+      "raw_hot": 761300,
       "num": 250867,
       "word": "伊朗导弹摧毁阿联酋萨德系统",
       "onboard_time": 1772428704,
@@ -192,6 +192,14 @@
       "word": "伊朗7名指挥官确认死亡",
       "onboard_time": 1772407160,
       "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 598708,
+      "num": 856782,
+      "word": "家属否认内贾德死亡",
+      "onboard_time": 1772429963,
+      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -267,10 +275,26 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 449327,
+      "num": 163926,
+      "word": "伊朗导弹绕过拦截击中耶路撒冷",
+      "onboard_time": 1772431042,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 446048,
       "num": 446048,
       "word": "霸王茶姬口令",
       "onboard_time": 1772417722,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 441256,
+      "num": 466036,
+      "word": "真的没人管管江西小炒吗",
+      "onboard_time": 1772427085,
       "rank": 3,
       "category": "美食"
     },
@@ -323,27 +347,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 395643,
-      "num": 466036,
-      "word": "真的没人管管江西小炒吗",
-      "onboard_time": 1772427085,
-      "rank": 3,
-      "category": "美食"
-    },
-    {
       "raw_hot": 394096,
       "num": 378568,
       "word": "美以不可能打了伊朗就一走了之",
       "onboard_time": 1772424444,
       "rank": 13,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 391518,
-      "num": 391518,
-      "word": "家属否认内贾德死亡",
-      "onboard_time": 1772429963,
-      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -515,14 +523,6 @@
       "category": "作品衍生,互联网"
     },
     {
-      "raw_hot": 235959,
-      "num": 163926,
-      "word": "伊朗导弹绕过拦截击中耶路撒冷",
-      "onboard_time": 1772431042,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 235292,
       "num": 209273,
       "word": "以色列陷入多线作战的战争泥潭",
@@ -569,6 +569,14 @@
       "onboard_time": 1772373806,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219081,
+      "num": 219081,
+      "word": "杨博文跳伞",
+      "onboard_time": 1772428345,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 216439,
@@ -635,12 +643,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200968,
-      "num": 200968,
-      "word": "杨博文跳伞",
-      "onboard_time": 1772428345,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 205965,
+      "num": 135846,
+      "word": "美代表称伊朗试图暗杀特朗普",
+      "onboard_time": 1772430084,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194910,
@@ -771,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145680,
+      "num": 164070,
+      "word": "中方敦促英方取消对中企制裁",
+      "onboard_time": 1772429963,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143740,
       "num": 162117,
       "word": "美军承认使用新装备",
@@ -785,6 +801,14 @@
       "onboard_time": 1772413281,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142021,
+      "num": 163620,
+      "word": "机关算尽不如命运轻描淡写的一笔",
+      "onboard_time": 1772426605,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 139809,
@@ -883,20 +907,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117502,
-      "num": 164070,
-      "word": "中方敦促英方取消对中企制裁",
-      "onboard_time": 1772429963,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 117284,
-      "num": 163620,
-      "word": "机关算尽不如命运轻描淡写的一笔",
-      "onboard_time": 1772426605,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 111899,
+      "num": 266529,
+      "word": "大侦探",
+      "onboard_time": 1772428763,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 111353,
@@ -929,14 +945,6 @@
       "onboard_time": 1772421023,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108189,
-      "num": 266529,
-      "word": "大侦探",
-      "onboard_time": 1772428763,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 105664,
@@ -987,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100978,
+      "num": 130879,
+      "word": "孙千的cp玄学又显灵了",
+      "onboard_time": 1772431764,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99644,
       "num": 99644,
       "word": "梅西梅开二度",
@@ -1011,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94113,
+      "num": 130755,
+      "word": "巴黎是迪丽热巴最正确的打开方式",
+      "onboard_time": 1772431342,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93415,
       "num": 169359,
       "word": "出轨对象得知感染HIV还瞒着自己",
@@ -1027,7 +1051,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 92485,
+      "raw_hot": 92643,
       "num": 162933,
       "word": "高桥留美子将作品下架小学馆",
       "onboard_time": 1772430744,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1772368584,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83937,
+      "num": 129832,
+      "word": "在媒婆帮助下相亲有了退展",
+      "onboard_time": 1772431886,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 82300,
@@ -1216,6 +1248,14 @@
       "word": "王楚钦冠军城市宣传照",
       "onboard_time": 1772418082,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69596,
+      "num": 131793,
+      "word": "羽毛球开始降价了",
+      "onboard_time": 1772431821,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -1376,6 +1416,14 @@
       "word": "唐宫奇案之青雾风鸣",
       "onboard_time": 1772390716,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17044,
+      "num": 130662,
+      "word": "请姐姐姐夫三搭",
+      "onboard_time": 1772431821,
+      "rank": 39,
       "category": "剧集"
     },
     {

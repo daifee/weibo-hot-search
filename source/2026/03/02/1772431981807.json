@@ -1,0 +1,410 @@
+{
+  "runTime": 1772431981807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 979448,
+        "num": 1156711,
+        "word": "伊朗导弹突破以色列防御系统",
+        "onboard_time": 1772420543,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 598708,
+        "num": 856782,
+        "word": "家属否认内贾德死亡",
+        "onboard_time": 1772429963,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53562,
+        "num": 679918,
+        "word": "从一无所有到再造山河",
+        "onboard_time": 1772420901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514631,
+        "num": 514631,
+        "word": "电影难看20分钟内可退款40%",
+        "onboard_time": 1772423723,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441256,
+        "num": 441256,
+        "word": "真的没人管管江西小炒吗",
+        "onboard_time": 1772427085,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 271131,
+        "num": 271131,
+        "word": "白宫下令暂缓推进对台军售",
+        "onboard_time": 1772425403,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185015,
+        "num": 270065,
+        "word": "学历自卑",
+        "onboard_time": 1772422463,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166577,
+        "num": 260435,
+        "word": "32岁男子首次带女友回家30人迎接",
+        "onboard_time": 1772420423,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138256,
+        "num": 248953,
+        "word": "湖南卫视元宵晚会因暴雪暂停彩排",
+        "onboard_time": 1772422702,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111899,
+        "num": 246175,
+        "word": "大侦探",
+        "onboard_time": 1772428763,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 761300,
+        "num": 237408,
+        "word": "伊朗导弹摧毁阿联酋萨德系统",
+        "onboard_time": 1772428704,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302788,
+        "num": 232333,
+        "word": "李昀锐还记得自己姓李不姓林吗",
+        "onboard_time": 1772425042,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551519,
+        "num": 222077,
+        "word": "伊朗导弹击中耶路撒冷现场画面",
+        "onboard_time": 1772427504,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219081,
+        "num": 219081,
+        "word": "杨博文跳伞",
+        "onboard_time": 1772428345,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204181,
+        "num": 204181,
+        "word": "中国游客迪拜遇机场停运进退两难",
+        "onboard_time": 1772419462,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199737,
+        "num": 199737,
+        "word": "王楚钦过不了安检瞬间红温",
+        "onboard_time": 1772423723,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190680,
+        "num": 190680,
+        "word": "迪丽热巴闪耀巴黎",
+        "onboard_time": 1772423424,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166095,
+        "num": 166095,
+        "word": "刘美含吐槽5家AI答案不一样",
+        "onboard_time": 1772426666,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80767,
+        "num": 165220,
+        "word": "陈若琳手下又有王牌选手了",
+        "onboard_time": 1772419701,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70594,
+        "num": 164676,
+        "word": "商务部回应英方制裁中企",
+        "onboard_time": 1772427627,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6752826,
+        "num": 6752826,
+        "word": "李雨桐喊话薛之谦",
+        "onboard_time": 1772422521,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449327,
+        "num": 162191,
+        "word": "伊朗导弹绕过拦截击中耶路撒冷",
+        "onboard_time": 1772431042,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161788,
+        "num": 161788,
+        "word": "当你发现奶茶袋可以防油溅",
+        "onboard_time": 1772423124,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376949,
+        "num": 154311,
+        "word": "boss直聘回应网传伊朗急招炮兵图",
+        "onboard_time": 1772425824,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 145680,
+        "num": 145680,
+        "word": "中方敦促英方取消对中企制裁",
+        "onboard_time": 1772429963,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1513941,
+        "num": 145000,
+        "word": "李雨桐说被薛之谦威胁",
+        "onboard_time": 1772423964,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300294,
+        "num": 144604,
+        "word": "伊朗前总统内贾德亲信称其平安",
+        "onboard_time": 1772425042,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142021,
+        "num": 142021,
+        "word": "机关算尽不如命运轻描淡写的一笔",
+        "onboard_time": 1772426605,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235678,
+        "num": 140962,
+        "word": "霍尔木兹海峡封锁将致命打击日本经济",
+        "onboard_time": 1772426484,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108422,
+        "num": 137637,
+        "word": "亲母女嫁给了亲父子",
+        "onboard_time": 1772413824,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205965,
+        "num": 135846,
+        "word": "美代表称伊朗试图暗杀特朗普",
+        "onboard_time": 1772430084,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69596,
+        "num": 131793,
+        "word": "羽毛球开始降价了",
+        "onboard_time": 1772431821,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131371,
+        "num": 131371,
+        "word": "佟丽娅给小酒窝发压岁钱",
+        "onboard_time": 1772423483,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125913,
+        "num": 131313,
+        "word": "原来不止我一个人这样洗澡",
+        "onboard_time": 1772422583,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119062,
+        "num": 131256,
+        "word": "赞达亚荷兰弟已经结婚",
+        "onboard_time": 1772417722,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112809,
+        "num": 131128,
+        "word": "演员逼真到根本看不出来是AI",
+        "onboard_time": 1772408061,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100068,
+        "num": 130959,
+        "word": "当农村狗狗第一次吃到狗粮",
+        "onboard_time": 1772427265,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100978,
+        "num": 130879,
+        "word": "孙千的cp玄学又显灵了",
+        "onboard_time": 1772431764,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94113,
+        "num": 130755,
+        "word": "巴黎是迪丽热巴最正确的打开方式",
+        "onboard_time": 1772431342,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17044,
+        "num": 130662,
+        "word": "请姐姐姐夫三搭",
+        "onboard_time": 1772431821,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92643,
+        "num": 130472,
+        "word": "高桥留美子将作品下架小学馆",
+        "onboard_time": 1772430744,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 90116,
+        "num": 130371,
+        "word": "姐姐姐夫重逢吻",
+        "onboard_time": 1772429364,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88114,
+        "num": 130272,
+        "word": "18名中国公民顺利撤离伊朗",
+        "onboard_time": 1772418441,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86882,
+        "num": 130201,
+        "word": "欧洲女子拍中国老公做兰州牛肉面",
+        "onboard_time": 1772429724,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85437,
+        "num": 130019,
+        "word": "向太怒批你凭什么喷王菲",
+        "onboard_time": 1772422042,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85319,
+        "num": 129935,
+        "word": "A股",
+        "onboard_time": 1772415803,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83937,
+        "num": 129832,
+        "word": "在媒婆帮助下相亲有了退展",
+        "onboard_time": 1772431886,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83248,
+        "num": 129707,
+        "word": "孟子义自曝两年最长只休了2天",
+        "onboard_time": 1772413583,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79860,
+        "num": 129608,
+        "word": "宋威龙误入直播间",
+        "onboard_time": 1772418799,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63827,
+        "num": 129483,
+        "word": "孙颖莎对王楚钦说你拍你拍",
+        "onboard_time": 1772425764,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会故事#"
+    }
+  }
+}
