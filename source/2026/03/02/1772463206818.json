@@ -1,0 +1,410 @@
+{
+  "runTime": 1772463206818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1665219,
+        "num": 1665219,
+        "word": "哈梅内伊妻子伤重不治去世",
+        "onboard_time": 1772459065,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 419235,
+        "num": 909612,
+        "word": "海澜之家 不签合同",
+        "onboard_time": 1772448564,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71549,
+        "num": 749448,
+        "word": "598名女性获全国三八红旗手称号",
+        "onboard_time": 1772460686,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1182937,
+        "num": 693591,
+        "word": "王毅和伊朗外长通电话",
+        "onboard_time": 1772456367,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 620684,
+        "num": 620684,
+        "word": "郭晓婷回复孙千",
+        "onboard_time": 1772460207,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474130,
+        "num": 474130,
+        "word": "刘文祥麻辣烫",
+        "onboard_time": 1772433261,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 405660,
+        "num": 405660,
+        "word": "中方回应特朗普3月访华能否成行",
+        "onboard_time": 1772452166,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353082,
+        "num": 353082,
+        "word": "女子带1米长巨大豆荚坐飞机引围观",
+        "onboard_time": 1772461046,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257360,
+        "num": 257360,
+        "word": "20后都避开网红名了吗",
+        "onboard_time": 1772441725,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307717,
+        "num": 257254,
+        "word": "李昀锐好像郭晓婷王天辰的孩子",
+        "onboard_time": 1772455945,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1372728,
+        "num": 255465,
+        "word": "iPhone17e发布",
+        "onboard_time": 1772460987,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 906213,
+        "num": 254243,
+        "word": "伊朗称已准备长期战争",
+        "onboard_time": 1772459065,
+        "rank": 11,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 390278,
+        "num": 252792,
+        "word": "刘诗诗 五奢女王",
+        "onboard_time": 1772460387,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 696463,
+        "num": 251548,
+        "word": "伊朗导弹击中美第五舰队总部瞬间",
+        "onboard_time": 1772446103,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 371323,
+        "num": 249476,
+        "word": "苹果新品",
+        "onboard_time": 1772461166,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 417643,
+        "num": 249123,
+        "word": "伊朗一名中国公民遇难",
+        "onboard_time": 1772438483,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287016,
+        "num": 246691,
+        "word": "小贝求婚失败",
+        "onboard_time": 1772450786,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264643,
+        "num": 245269,
+        "word": "伊方愿全力保障中方人员机构的安全",
+        "onboard_time": 1772460626,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95041,
+        "num": 243973,
+        "word": "Dior要出新招了",
+        "onboard_time": 1772460626,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 41585,
+        "num": 243257,
+        "word": "最高法明确重婚无效",
+        "onboard_time": 1772462245,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242483,
+        "num": 242483,
+        "word": "冯琳 气人",
+        "onboard_time": 1772456367,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240229,
+        "num": 240229,
+        "word": "iPhone17e 远古刘海屏",
+        "onboard_time": 1772462726,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 229632,
+        "num": 229632,
+        "word": "弦子报平安",
+        "onboard_time": 1772462966,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208230,
+        "num": 208230,
+        "word": "美军证实3架F15战机坠毁",
+        "onboard_time": 1772452465,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205477,
+        "num": 205477,
+        "word": "海澜之家被暂停全军采购资格",
+        "onboard_time": 1772444005,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199621,
+        "num": 199621,
+        "word": "陈浩民夫妇滞留阿联酋",
+        "onboard_time": 1772445266,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196654,
+        "num": 196654,
+        "word": "宋雨琦被詹姆斯比心",
+        "onboard_time": 1772454385,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 190124,
+        "num": 190124,
+        "word": "大叔因太会种地在非洲被持枪保护",
+        "onboard_time": 1772453964,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186770,
+        "num": 186770,
+        "word": "舒淇 面部折叠度",
+        "onboard_time": 1772457805,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173205,
+        "num": 173205,
+        "word": "王楚钦晒大满贯奖杯",
+        "onboard_time": 1772457865,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171729,
+        "num": 171729,
+        "word": "被女子扔玩具车撞伤妈妈发声",
+        "onboard_time": 1772461225,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168488,
+        "num": 168488,
+        "word": "美以伊战场装备都升级了",
+        "onboard_time": 1772462726,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164660,
+        "num": 164660,
+        "word": "恋与深空活动场地变更",
+        "onboard_time": 1772461888,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159313,
+        "num": 159313,
+        "word": "李昀锐王楚然lingorm合照",
+        "onboard_time": 1772462546,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143610,
+        "num": 143610,
+        "word": "杨超越 末世文女主",
+        "onboard_time": 1772450604,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130516,
+        "num": 130516,
+        "word": "M4芯片款iPadAir发布",
+        "onboard_time": 1772462186,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130420,
+        "num": 130420,
+        "word": "孙颖莎晒和王曼昱合照",
+        "onboard_time": 1772447483,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126733,
+        "num": 126733,
+        "word": "小米人形机器人已能自主工作3小时",
+        "onboard_time": 1772459006,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126687,
+        "num": 126687,
+        "word": "俄罗斯",
+        "onboard_time": 1772445024,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125301,
+        "num": 125301,
+        "word": "WBG战胜TES",
+        "onboard_time": 1772459006,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121187,
+        "num": 121187,
+        "word": "卡塔尔能源宣布遇袭停产",
+        "onboard_time": 1772462308,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119092,
+        "num": 119092,
+        "word": "王楚然法式碎花裙",
+        "onboard_time": 1772461827,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114877,
+        "num": 114877,
+        "word": "红楼梦 宝玉宝钗演员争论",
+        "onboard_time": 1772452645,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114475,
+        "num": 114475,
+        "word": "四部手机没送达跑腿骑手拒接电话",
+        "onboard_time": 1772458585,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111615,
+        "num": 111615,
+        "word": "桃黑黑什么时候播",
+        "onboard_time": 1772462966,
+        "rank": 44,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 108316,
+        "num": 108316,
+        "word": "纯真年代22集 我一直在哭",
+        "onboard_time": 1772457445,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106510,
+        "num": 106510,
+        "word": "章若楠冷玉公主妆",
+        "onboard_time": 1772458766,
+        "rank": 46,
+        "category": "作品衍生,剧集"
+      },
+      {
+        "raw_hot": 103347,
+        "num": 103347,
+        "word": "naiyou蝎子出装",
+        "onboard_time": 1772462726,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98619,
+        "num": 98619,
+        "word": "杨幂迪丽热巴宁艺卓最佳穿搭",
+        "onboard_time": 1772453124,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95770,
+        "num": 95770,
+        "word": "王楚钦夺冠后配文来日方长",
+        "onboard_time": 1772457686,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#最燃的接力#"
+    }
+  }
+}
