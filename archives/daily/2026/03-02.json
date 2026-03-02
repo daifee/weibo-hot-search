@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772452473551,
+  "endTime": 1772457327932,
   "band_list": [
     {
       "raw_hot": 10460332,
@@ -91,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1380711,
+      "num": 1380711,
+      "word": "伊朗导弹击中美第五舰队总部瞬间",
+      "onboard_time": 1772446103,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1320758,
       "num": 327220,
       "word": "刘文祥 紫薯精",
@@ -105,6 +113,14 @@
       "onboard_time": 1772433261,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1167089,
+      "num": 683722,
+      "word": "王毅和伊朗外长通电话",
+      "onboard_time": 1772456367,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1135456,
@@ -169,14 +185,6 @@
       "onboard_time": 1772408061,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 873310,
-      "num": 654212,
-      "word": "伊朗导弹击中美第五舰队总部瞬间",
-      "onboard_time": 1772446103,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 844352,
@@ -307,6 +315,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 624871,
+      "num": 255708,
+      "word": "小贝求婚失败",
+      "onboard_time": 1772450786,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 621711,
       "num": 621711,
       "word": "海澜之家被暂停全军采购资格",
@@ -355,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 576367,
+      "num": 877834,
+      "word": "海澜之家 不签合同",
+      "onboard_time": 1772448564,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 561180,
       "num": 812682,
       "word": "WiFi 穿墙透视",
@@ -377,6 +401,14 @@
       "onboard_time": 1772418799,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512835,
+      "num": 220462,
+      "word": "伊朗公布高超音速导弹发射画面",
+      "onboard_time": 1772453004,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 510855,
@@ -403,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 505047,
+      "num": 505047,
+      "word": "中方回应特朗普3月访华能否成行",
+      "onboard_time": 1772452166,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 493386,
       "num": 187176,
       "word": "纪凌尘与韩国女友泰国度假",
@@ -417,6 +457,14 @@
       "onboard_time": 1772415022,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 482863,
+      "num": 214881,
+      "word": "美军证实3架F15战机坠毁",
+      "onboard_time": 1772452465,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 479428,
@@ -441,6 +489,14 @@
       "onboard_time": 1772441544,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 462864,
+      "num": 219099,
+      "word": "宋雨琦被詹姆斯比心",
+      "onboard_time": 1772454385,
+      "rank": 13,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 457651,
@@ -515,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 421035,
+      "num": 213087,
+      "word": "红楼梦 宝玉宝钗演员争论",
+      "onboard_time": 1772452645,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412672,
       "num": 412672,
       "word": "学历自卑",
@@ -579,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 382951,
+      "num": 253094,
+      "word": "杨超越 末世文女主",
+      "onboard_time": 1772450604,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381418,
       "num": 260103,
       "word": "伊朗导弹袭击以色列总理办公室",
@@ -625,14 +697,6 @@
       "onboard_time": 1772413703,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 364497,
-      "num": 253094,
-      "word": "杨超越 末世文女主",
-      "onboard_time": 1772450604,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 356976,
@@ -739,14 +803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291767,
-      "num": 291767,
-      "word": "海澜之家 不签合同",
-      "onboard_time": 1772448564,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 290404,
       "num": 290404,
       "word": "结婚后住上男女混寝了",
@@ -819,12 +875,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 265599,
+      "num": 255088,
+      "word": "伊朗最强导弹射程可达2000公里",
+      "onboard_time": 1772451444,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 264402,
       "num": 174821,
       "word": "阿富汗使用重型武器打击巴基斯坦",
       "onboard_time": 1772417603,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 260696,
+      "num": 255639,
+      "word": "衡水中学AI监测系统",
+      "onboard_time": 1772451147,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 257654,
@@ -835,20 +907,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255708,
-      "num": 255708,
-      "word": "小贝求婚失败",
-      "onboard_time": 1772450786,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255163,
       "num": 346183,
       "word": "豆瓣发致歉信",
       "onboard_time": 1772433742,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 254790,
+      "num": 252000,
+      "word": "杨超越惊人的腿长和比例",
+      "onboard_time": 1772452226,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 249094,
@@ -923,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231536,
+      "num": 231536,
+      "word": "冯琳 气人",
+      "onboard_time": 1772456367,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228695,
       "num": 333414,
       "word": "当你发现奶茶袋可以防油溅",
@@ -969,14 +1049,6 @@
       "onboard_time": 1772420963,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 220091,
-      "num": 255639,
-      "word": "衡水中学AI监测系统",
-      "onboard_time": 1772451147,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 220019,
@@ -1067,14 +1139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 198272,
-      "num": 255088,
-      "word": "伊朗最强导弹射程可达2000公里",
-      "onboard_time": 1772451444,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 197964,
       "num": 330321,
       "word": "男子烧烤店就餐发现茶壶内发霉",
@@ -1089,6 +1153,14 @@
       "onboard_time": 1772443944,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195227,
+      "num": 195227,
+      "word": "李昀锐好像郭晓婷王天辰的孩子",
+      "onboard_time": 1772455945,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 194910,
@@ -1185,6 +1257,14 @@
       "onboard_time": 1772407880,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162361,
+      "num": 162361,
+      "word": "大叔因太会种地在非洲被持枪保护",
+      "onboard_time": 1772453964,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160878,
@@ -1291,6 +1371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147217,
+      "num": 147217,
+      "word": "美军说三架战机明显遭友军击落",
+      "onboard_time": 1772454025,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146246,
       "num": 162526,
       "word": "秦岚拍延禧攻略大哭戏引发咽炎",
@@ -1313,6 +1401,14 @@
       "onboard_time": 1772408361,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143709,
+      "num": 143709,
+      "word": "一家七口全是医生的亚洲家庭",
+      "onboard_time": 1772453784,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142852,
@@ -1483,12 +1579,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 120522,
-      "num": 254553,
-      "word": "中方回应特朗普3月访华能否成行",
-      "onboard_time": 1772452166,
-      "rank": 18,
-      "category": "国内时政"
+      "raw_hot": 121437,
+      "num": 121437,
+      "word": "杨幂迪丽热巴宁艺卓最佳穿搭",
+      "onboard_time": 1772453124,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119062,
@@ -1521,6 +1617,14 @@
       "onboard_time": 1772444784,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117108,
+      "num": 117108,
+      "word": "女子扔玩具车撞母婴只赔2千",
+      "onboard_time": 1772452824,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112730,
@@ -1560,6 +1664,14 @@
       "word": "一家4口爬山祈福妻子坠亡",
       "onboard_time": 1772357782,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110824,
+      "num": 110824,
+      "word": "为躲母亲债务儿子放弃继承遗产",
+      "onboard_time": 1772454025,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1681,6 +1793,14 @@
       "onboard_time": 1772425945,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102797,
+      "num": 102797,
+      "word": "徐冬冬尹子维哈尔滨家宴现场曝光",
+      "onboard_time": 1772456604,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 102550,
@@ -1971,6 +2091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 84311,
+      "num": 102755,
+      "word": "TES将WBG拖进决胜局",
+      "onboard_time": 1772457205,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83085,
       "num": 164981,
       "word": "对洗澡的开发还是太少了",
@@ -2147,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71952,
+      "num": 195402,
+      "word": "吴磊Burberry风衣大片",
+      "onboard_time": 1772453185,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 68565,
       "num": 82494,
       "word": "徐梦桃王心迪两口子太有节目了",
@@ -2187,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64686,
+      "num": 231064,
+      "word": "王毅同伊朗外长通话",
+      "onboard_time": 1772456725,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62781,
       "num": 190065,
       "word": "小鹏智驾负责人称拉开差距的时刻到了",
@@ -2209,14 +2353,6 @@
       "onboard_time": 1772424143,
       "rank": 49,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 61571,
-      "num": 252000,
-      "word": "杨超越惊人的腿长和比例",
-      "onboard_time": 1772452226,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 61443,
@@ -2315,12 +2451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42215,
+      "num": 110971,
+      "word": "原来父母老了是一瞬间的事",
+      "onboard_time": 1772451686,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41140,
       "num": 250582,
       "word": "我国每用10度电就有近4度是绿电",
       "onboard_time": 1772441185,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41053,
+      "num": 112500,
+      "word": "西游记AI视频 众神归位",
+      "onboard_time": 1772448564,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 40864,
