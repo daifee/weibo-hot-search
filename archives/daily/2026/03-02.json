@@ -1,10 +1,10 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772408806299,
+  "endTime": 1772419234144,
   "band_list": [
     {
       "raw_hot": 2502813,
-      "num": 232668,
+      "num": 254575,
       "word": "英法德三国联合声明",
       "onboard_time": 1772407520,
       "rank": 10,
@@ -16,6 +16,38 @@
       "word": "伊朗前总统内贾德遇袭身亡",
       "onboard_time": 1772372666,
       "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1135456,
+      "num": 151168,
+      "word": "金价",
+      "onboard_time": 1772408902,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1062628,
+      "num": 197203,
+      "word": "赞达亚荷兰弟已经结婚",
+      "onboard_time": 1772417722,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1051376,
+      "num": 1168220,
+      "word": "以军超100架战机空袭伊朗",
+      "onboard_time": 1772414544,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 938849,
+      "num": 244035,
+      "word": "以军轰炸黎巴嫩首都",
+      "onboard_time": 1772415562,
+      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -33,6 +65,22 @@
       "onboard_time": 1772408061,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 844352,
+      "num": 277872,
+      "word": "油价金价大涨",
+      "onboard_time": 1772411784,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 808821,
+      "num": 254456,
+      "word": "孟子义自曝两年最长只休了2天",
+      "onboard_time": 1772413583,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 690472,
@@ -83,6 +131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 543606,
+      "num": 223533,
+      "word": "伊朗会不会变成下个伊拉克",
+      "onboard_time": 1772410764,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 509621,
       "num": 367089,
       "word": "伊朗国家电视台总部遭袭",
@@ -97,6 +153,14 @@
       "onboard_time": 1772362163,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484930,
+      "num": 233531,
+      "word": "北京协和医院提出的科学减重方法",
+      "onboard_time": 1772415022,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 457651,
@@ -115,6 +179,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 431674,
+      "num": 431674,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1772417722,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 402529,
       "num": 209338,
       "word": "伊朗总统就哈梅内伊身亡发声明",
@@ -131,12 +203,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 365174,
+      "num": 188509,
+      "word": "金银涨爆了",
+      "onboard_time": 1772413703,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 344216,
+      "num": 344216,
+      "word": "椰子水",
+      "onboard_time": 1772407461,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 317124,
       "num": 209308,
       "word": "迪丽热巴化妆王亚飞发型丽杰",
       "onboard_time": 1772373145,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313339,
+      "num": 212016,
+      "word": "A股",
+      "onboard_time": 1772415803,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 311655,
+      "num": 187485,
+      "word": "亲母女嫁给了亲父子",
+      "onboard_time": 1772413824,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300725,
@@ -147,12 +251,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286066,
+      "num": 286066,
+      "word": "油价",
+      "onboard_time": 1772414962,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 274637,
       "num": 274637,
       "word": "小伙腹痛CT查出肠道卡2把勺子",
       "onboard_time": 1772375966,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264402,
+      "num": 174821,
+      "word": "阿富汗使用重型武器打击巴基斯坦",
+      "onboard_time": 1772417603,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 249094,
+      "num": 171557,
+      "word": "英法德或对伊朗采取防御行动",
+      "onboard_time": 1772412204,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 239601,
@@ -211,6 +339,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207242,
+      "num": 207242,
+      "word": "宋威龙误入直播间",
+      "onboard_time": 1772418799,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201692,
+      "num": 280660,
+      "word": "豆瓣 薅羊毛",
+      "onboard_time": 1772416104,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 185303,
       "num": 160887,
       "word": "王天辰郭晓婷 这样的距离算适当吗",
@@ -225,6 +369,22 @@
       "onboard_time": 1772379265,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168063,
+      "num": 168063,
+      "word": "姐姐姐夫共创",
+      "onboard_time": 1772412324,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167172,
+      "num": 156075,
+      "word": "美军3死5重伤",
+      "onboard_time": 1772409982,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166063,
@@ -243,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156243,
+      "num": 156243,
+      "word": "一家6口滞留迪拜老人缺药急需帮助",
+      "onboard_time": 1772416223,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154154,
       "num": 154154,
       "word": "张元英签售态度",
@@ -251,12 +419,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153681,
+      "num": 153681,
+      "word": "elk 十月",
+      "onboard_time": 1772416104,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 152945,
+      "num": 152945,
+      "word": "伊朗遭袭40小时后情况",
+      "onboard_time": 1772410343,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151435,
       "num": 173080,
       "word": "中东冲突出现外溢苗头",
       "onboard_time": 1772378007,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148207,
+      "num": 148207,
+      "word": "广式离职申请书",
+      "onboard_time": 1772416642,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 148160,
@@ -275,12 +467,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142852,
+      "num": 206605,
+      "word": "苏翊鸣北京夺冠后一度空虚",
+      "onboard_time": 1772413281,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139809,
+      "num": 139809,
+      "word": "范丞丞自曝体重63公斤",
+      "onboard_time": 1772410825,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138723,
       "num": 161132,
       "word": "多国就美以袭击伊朗表态",
       "onboard_time": 1772375607,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138033,
+      "num": 138033,
+      "word": "肖战故意把穿什么听成了吃什么",
+      "onboard_time": 1772409744,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 134816,
@@ -291,12 +507,52 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 133964,
+      "num": 132438,
+      "word": "毕雯珺张淼怡新剧领证路透",
+      "onboard_time": 1772413643,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133652,
       "num": 175221,
       "word": "伊朗将走向何方",
       "onboard_time": 1772380103,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 132506,
+      "num": 132506,
+      "word": "当狗咖最后一个顾客离开后",
+      "onboard_time": 1772409082,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 132339,
+      "num": 132339,
+      "word": "浆果类水果简直是来报恩的",
+      "onboard_time": 1772415982,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 132156,
+      "num": 201226,
+      "word": "首都机场工作人员穿上汉服",
+      "onboard_time": 1772416943,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124761,
+      "num": 124761,
+      "word": "七个月大宝宝主动安慰哭泣的妈妈",
+      "onboard_time": 1772413824,
+      "rank": 41,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 124247,
@@ -313,14 +569,6 @@
       "onboard_time": 1772378907,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 119702,
-      "num": 174449,
-      "word": "椰子水",
-      "onboard_time": 1772407461,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 111353,
@@ -379,11 +627,35 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88513,
+      "num": 132362,
+      "word": "王楚钦孙颖莎新加坡城市宣传照",
+      "onboard_time": 1772415022,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88475,
       "num": 161768,
       "word": "孟子义两年最长休息两天",
       "onboard_time": 1772375548,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87696,
+      "num": 87696,
+      "word": "照片调成黑白的瞬间眼泪绷不住了",
+      "onboard_time": 1772416463,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 86575,
+      "num": 86575,
+      "word": "舒淇韩素希看秀同框",
+      "onboard_time": 1772418382,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -393,6 +665,14 @@
       "onboard_time": 1772368584,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84372,
+      "num": 84372,
+      "word": "18名中国公民顺利撤离伊朗",
+      "onboard_time": 1772418441,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82300,
@@ -457,6 +737,22 @@
       "onboard_time": 1772357122,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72713,
+      "num": 84298,
+      "word": "王楚钦冠军城市宣传照",
+      "onboard_time": 1772418082,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68565,
+      "num": 82494,
+      "word": "徐梦桃王心迪两口子太有节目了",
+      "onboard_time": 1772415621,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68544,
@@ -537,6 +833,14 @@
       "onboard_time": 1772387776,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20824,
+      "num": 689479,
+      "word": "骏马闹元宵贺卡",
+      "onboard_time": 1772415982,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20141,

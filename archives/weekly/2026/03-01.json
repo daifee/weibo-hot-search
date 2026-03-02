@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772408806299,
+  "endTime": 1772419234144,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2502813,
-      "num": 232668,
+      "num": 254575,
       "word": "英法德三国联合声明",
       "onboard_time": 1772407520,
       "rank": 10,
@@ -163,6 +163,30 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1135456,
+      "num": 288208,
+      "word": "金价",
+      "onboard_time": 1772262625,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1062628,
+      "num": 197203,
+      "word": "赞达亚荷兰弟已经结婚",
+      "onboard_time": 1772417722,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1051376,
+      "num": 1168220,
+      "word": "以军超100架战机空袭伊朗",
+      "onboard_time": 1772414544,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1031249,
       "num": 1895052,
       "word": "王楚钦孙颖莎冠军自拍",
@@ -219,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 938849,
+      "num": 244035,
+      "word": "以军轰炸黎巴嫩首都",
+      "onboard_time": 1772415562,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 924669,
       "num": 423034,
       "word": "迪拜机场被炸滞留中国旅客发声",
@@ -247,6 +279,22 @@
       "num": 411459,
       "word": "陈思罕 我是一个专业的摄影师",
       "onboard_time": 1772368584,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 844352,
+      "num": 277872,
+      "word": "油价金价大涨",
+      "onboard_time": 1772411784,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 808821,
+      "num": 254456,
+      "word": "孟子义自曝两年最长只休了2天",
+      "onboard_time": 1772413583,
       "rank": 11,
       "category": "艺人"
     },
@@ -611,6 +659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 543606,
+      "num": 223533,
+      "word": "伊朗会不会变成下个伊拉克",
+      "onboard_time": 1772410764,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 516100,
       "num": 822833,
       "word": "孙颖莎vs王曼昱",
@@ -657,6 +713,14 @@
       "onboard_time": 1772330129,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 484930,
+      "num": 233531,
+      "word": "北京协和医院提出的科学减重方法",
+      "onboard_time": 1772415022,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 481992,
@@ -713,6 +777,14 @@
       "onboard_time": 1772371643,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 431674,
+      "num": 431674,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1772417722,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 427891,
@@ -875,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365174,
+      "num": 188509,
+      "word": "金银涨爆了",
+      "onboard_time": 1772413703,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 365117,
       "num": 293210,
       "word": "伊朗称将抵抗到最后一滴血",
@@ -963,6 +1043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 344216,
+      "num": 344216,
+      "word": "椰子水",
+      "onboard_time": 1772407461,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 341280,
       "num": 295069,
       "word": "不建议电脑缩放调成500%",
@@ -1033,6 +1121,22 @@
       "onboard_time": 1772325802,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 313339,
+      "num": 212016,
+      "word": "A股",
+      "onboard_time": 1772415803,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 311655,
+      "num": 187485,
+      "word": "亲母女嫁给了亲父子",
+      "onboard_time": 1772413824,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309345,
@@ -1115,11 +1219,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 288208,
-      "num": 288208,
-      "word": "金价",
-      "onboard_time": 1772262625,
-      "rank": 20,
+      "raw_hot": 286066,
+      "num": 286066,
+      "word": "油价",
+      "onboard_time": 1772414962,
+      "rank": 6,
       "category": "财经"
     },
     {
@@ -1203,6 +1307,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 264402,
+      "num": 174821,
+      "word": "阿富汗使用重型武器打击巴基斯坦",
+      "onboard_time": 1772417603,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 261421,
       "num": 261421,
       "word": "孙千米兰看秀待遇",
@@ -1216,6 +1328,14 @@
       "word": "伊朗总统之子发声",
       "onboard_time": 1772279843,
       "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 249094,
+      "num": 171557,
+      "word": "英法德或对伊朗采取防御行动",
+      "onboard_time": 1772412204,
+      "rank": 25,
       "category": "国际时政"
     },
     {
@@ -1387,12 +1507,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207242,
+      "num": 207242,
+      "word": "宋威龙误入直播间",
+      "onboard_time": 1772418799,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205755,
       "num": 365087,
       "word": "王天辰郭晓婷 不舍那你留下来呀",
       "onboard_time": 1772362344,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201692,
+      "num": 280660,
+      "word": "豆瓣 薅羊毛",
+      "onboard_time": 1772416104,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 198802,
@@ -1611,6 +1747,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168063,
+      "num": 168063,
+      "word": "姐姐姐夫共创",
+      "onboard_time": 1772412324,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167172,
+      "num": 156075,
+      "word": "美军3死5重伤",
+      "onboard_time": 1772409982,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166063,
       "num": 166063,
       "word": "伊朗称击落美军死神无人机",
@@ -1699,6 +1851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 156243,
+      "num": 156243,
+      "word": "一家6口滞留迪拜老人缺药急需帮助",
+      "onboard_time": 1772416223,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156095,
       "num": 156095,
       "word": "金店报价全线跳涨",
@@ -1715,6 +1875,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 153681,
+      "num": 153681,
+      "word": "elk 十月",
+      "onboard_time": 1772416104,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153432,
       "num": 153432,
       "word": "肖战希望乘坐肖战专列穿梭米兰",
@@ -1729,6 +1897,14 @@
       "onboard_time": 1772364024,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 152945,
+      "num": 152945,
+      "word": "伊朗遭袭40小时后情况",
+      "onboard_time": 1772410343,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152616,
@@ -1785,6 +1961,14 @@
       "onboard_time": 1772376387,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148207,
+      "num": 148207,
+      "word": "广式离职申请书",
+      "onboard_time": 1772416642,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 148160,
@@ -1875,6 +2059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142852,
+      "num": 206605,
+      "word": "苏翊鸣北京夺冠后一度空虚",
+      "onboard_time": 1772413281,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141822,
       "num": 141822,
       "word": "伊朗称将严惩凶手",
@@ -1899,12 +2091,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139809,
+      "num": 139809,
+      "word": "范丞丞自曝体重63公斤",
+      "onboard_time": 1772410825,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138053,
       "num": 138053,
       "word": "谢娜 丁程鑫皮痒痒了哇",
       "onboard_time": 1772354604,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138033,
+      "num": 138033,
+      "word": "肖战故意把穿什么听成了吃什么",
+      "onboard_time": 1772409744,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 137381,
@@ -1963,6 +2171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133964,
+      "num": 132438,
+      "word": "毕雯珺张淼怡新剧领证路透",
+      "onboard_time": 1772413643,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133652,
       "num": 175221,
       "word": "伊朗将走向何方",
@@ -1985,6 +2201,30 @@
       "onboard_time": 1772363123,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132506,
+      "num": 132506,
+      "word": "当狗咖最后一个顾客离开后",
+      "onboard_time": 1772409082,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 132339,
+      "num": 132339,
+      "word": "浆果类水果简直是来报恩的",
+      "onboard_time": 1772415982,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 132156,
+      "num": 201226,
+      "word": "首都机场工作人员穿上汉服",
+      "onboard_time": 1772416943,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130767,
@@ -2017,6 +2257,14 @@
       "onboard_time": 1772359103,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124761,
+      "num": 124761,
+      "word": "七个月大宝宝主动安慰哭泣的妈妈",
+      "onboard_time": 1772413824,
+      "rank": 41,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 124389,
@@ -2113,14 +2361,6 @@
       "onboard_time": 1772366663,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119702,
-      "num": 174449,
-      "word": "椰子水",
-      "onboard_time": 1772407461,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 118978,
@@ -2579,6 +2819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 88513,
+      "num": 132362,
+      "word": "王楚钦孙颖莎新加坡城市宣传照",
+      "onboard_time": 1772415022,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88139,
       "num": 88139,
       "word": "中方说谈判之际美以袭击令人震惊",
@@ -2593,6 +2841,14 @@
       "onboard_time": 1772289563,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 87696,
+      "num": 87696,
+      "word": "照片调成黑白的瞬间眼泪绷不住了",
+      "onboard_time": 1772416463,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 87001,
@@ -2611,12 +2867,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86575,
+      "num": 86575,
+      "word": "舒淇韩素希看秀同框",
+      "onboard_time": 1772418382,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86209,
       "num": 86209,
       "word": "三月了马年果然跑得快",
       "onboard_time": 1772346803,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84372,
+      "num": 84372,
+      "word": "18名中国公民顺利撤离伊朗",
+      "onboard_time": 1772418441,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84332,
@@ -2723,6 +2995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72713,
+      "num": 84298,
+      "word": "王楚钦冠军城市宣传照",
+      "onboard_time": 1772418082,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71807,
       "num": 97177,
       "word": "王曼昱15比13温特",
@@ -2777,6 +3057,14 @@
       "onboard_time": 1772375607,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 68565,
+      "num": 82494,
+      "word": "徐梦桃王心迪两口子太有节目了",
+      "onboard_time": 1772415621,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68160,
@@ -3152,6 +3440,14 @@
       "word": "2岁患癌女孩获捐10万奶奶哽咽致谢",
       "onboard_time": 1772358083,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20824,
+      "num": 689479,
+      "word": "骏马闹元宵贺卡",
+      "onboard_time": 1772415982,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
