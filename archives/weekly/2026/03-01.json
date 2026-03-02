@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772485378388,
+  "endTime": 1772487900596,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -5643,6 +5643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20424,
+      "num": 28146,
+      "word": "米兰时装周",
+      "onboard_time": 1772461827,
+      "rank": 36,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 19344,
       "num": 463584,
       "word": "2026电影总票房破100亿",
@@ -5657,14 +5665,6 @@
       "onboard_time": 1772393835,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18749,
-      "num": 28146,
-      "word": "米兰时装周",
-      "onboard_time": 1772461827,
-      "rank": 36,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 18197,
