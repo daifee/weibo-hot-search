@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772457327932,
+  "endTime": 1772458891547,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -57,6 +57,14 @@
       "onboard_time": 1772407520,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2341103,
+      "num": 2341103,
+      "word": "王毅和伊朗外长通电话",
+      "onboard_time": 1772456367,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2294717,
@@ -249,14 +257,6 @@
       "onboard_time": 1772329467,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1167089,
-      "num": 683722,
-      "word": "王毅和伊朗外长通电话",
-      "onboard_time": 1772456367,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1138562,
@@ -475,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 789460,
+      "num": 287363,
+      "word": "小贝求婚失败",
+      "onboard_time": 1772450786,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 781973,
       "num": 357269,
       "word": "我在挨骂 稍等呀",
@@ -667,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 624871,
-      "num": 255708,
-      "word": "小贝求婚失败",
-      "onboard_time": 1772450786,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 621711,
       "num": 621711,
       "word": "海澜之家被暂停全军采购资格",
@@ -852,7 +852,7 @@
     },
     {
       "raw_hot": 576367,
-      "num": 877834,
+      "num": 1017032,
       "word": "海澜之家 不签合同",
       "onboard_time": 1772448564,
       "rank": 31,
@@ -940,7 +940,7 @@
     },
     {
       "raw_hot": 512835,
-      "num": 220462,
+      "num": 276167,
       "word": "伊朗公布高超音速导弹发射画面",
       "onboard_time": 1772453004,
       "rank": 12,
@@ -1020,7 +1020,7 @@
     },
     {
       "raw_hot": 482863,
-      "num": 214881,
+      "num": 279992,
       "word": "美军证实3架F15战机坠毁",
       "onboard_time": 1772452465,
       "rank": 14,
@@ -1067,8 +1067,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466115,
+      "num": 466115,
+      "word": "冯琳 气人",
+      "onboard_time": 1772456367,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462864,
-      "num": 219099,
+      "num": 282570,
       "word": "宋雨琦被詹姆斯比心",
       "onboard_time": 1772454385,
       "rank": 13,
@@ -1188,7 +1196,7 @@
     },
     {
       "raw_hot": 421035,
-      "num": 213087,
+      "num": 279057,
       "word": "红楼梦 宝玉宝钗演员争论",
       "onboard_time": 1772452645,
       "rank": 15,
@@ -1356,7 +1364,7 @@
     },
     {
       "raw_hot": 382951,
-      "num": 253094,
+      "num": 271393,
       "word": "杨超越 末世文女主",
       "onboard_time": 1772450604,
       "rank": 30,
@@ -1601,6 +1609,14 @@
       "onboard_time": 1772343863,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 322681,
+      "num": 273815,
+      "word": "李昀锐好像郭晓婷王天辰的孩子",
+      "onboard_time": 1772455945,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 322440,
@@ -1891,6 +1907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269730,
+      "num": 269730,
+      "word": "王楚钦晒大满贯奖杯",
+      "onboard_time": 1772457865,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266326,
       "num": 215899,
       "word": "佟丽娅给小酒窝发压岁钱",
@@ -2099,20 +2123,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233879,
+      "num": 233879,
+      "word": "大叔因太会种地在非洲被持枪保护",
+      "onboard_time": 1772453964,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233577,
       "num": 233577,
       "word": "毛晓彤去了坦桑尼亚看狮子",
       "onboard_time": 1772439985,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 231536,
-      "num": 231536,
-      "word": "冯琳 气人",
-      "onboard_time": 1772456367,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 228695,
@@ -2395,14 +2419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195227,
-      "num": 195227,
-      "word": "李昀锐好像郭晓婷王天辰的孩子",
-      "onboard_time": 1772455945,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194910,
       "num": 194910,
       "word": "刘美含吐槽5家AI答案不一样",
@@ -2489,6 +2505,14 @@
       "onboard_time": 1772333366,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180713,
+      "num": 132832,
+      "word": "王楚钦夺冠后配文来日方长",
+      "onboard_time": 1772457686,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 179890,
@@ -2579,6 +2603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170003,
+      "num": 170003,
+      "word": "徐冬冬尹子维哈尔滨家宴现场曝光",
+      "onboard_time": 1772456604,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169518,
       "num": 169518,
       "word": "23岁博士生患胃癌晚期家人发声",
@@ -2665,14 +2697,6 @@
       "onboard_time": 1772349682,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162361,
-      "num": 162361,
-      "word": "大叔因太会种地在非洲被持枪保护",
-      "onboard_time": 1772453964,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160878,
@@ -2875,6 +2899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149555,
+      "num": 149555,
+      "word": "纯真年代22集 我一直在哭",
+      "onboard_time": 1772457445,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149481,
       "num": 149481,
       "word": "王楚然老钱风",
@@ -2899,20 +2931,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147712,
+      "num": 147217,
+      "word": "美军说三架战机明显遭友军击落",
+      "onboard_time": 1772454025,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147642,
       "num": 147642,
       "word": "问界2月交付",
       "onboard_time": 1772375367,
       "rank": 44,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 147217,
-      "num": 147217,
-      "word": "美军说三架战机明显遭友军击落",
-      "onboard_time": 1772454025,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 147177,
@@ -3161,6 +3193,14 @@
       "onboard_time": 1772290283,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 134503,
+      "num": 134503,
+      "word": "女子扔玩具车撞母婴只赔2千",
+      "onboard_time": 1772452824,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133964,
@@ -3441,14 +3481,6 @@
       "onboard_time": 1772444784,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117108,
-      "num": 117108,
-      "word": "女子扔玩具车撞母婴只赔2千",
-      "onboard_time": 1772452824,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116968,
@@ -3819,14 +3851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102797,
-      "num": 102797,
-      "word": "徐冬冬尹子维哈尔滨家宴现场曝光",
-      "onboard_time": 1772456604,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102777,
       "num": 102777,
       "word": "广州深圳出发机票暴跌超80%",
@@ -4019,6 +4043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95618,
+      "num": 95618,
+      "word": "张翅发自拍",
+      "onboard_time": 1772457027,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94730,
       "num": 157497,
       "word": "朋友圈置顶分享胶卷",
@@ -4067,6 +4099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93364,
+      "num": 93364,
+      "word": "舒淇 面部折叠度",
+      "onboard_time": 1772457805,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93322,
       "num": 251928,
       "word": "蒋勤勤扛住了G社镜头",
@@ -4081,6 +4121,14 @@
       "onboard_time": 1772447604,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92987,
+      "num": 102755,
+      "word": "TES将WBG拖进决胜局",
+      "onboard_time": 1772457205,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 92828,
@@ -4121,6 +4169,22 @@
       "onboard_time": 1772342962,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91510,
+      "num": 91510,
+      "word": "影石刘靖康回应337调查胜诉",
+      "onboard_time": 1772458104,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 91380,
+      "num": 91380,
+      "word": "章若楠冷玉公主妆",
+      "onboard_time": 1772458766,
+      "rank": 47,
+      "category": "作品衍生,剧集"
     },
     {
       "raw_hot": 91100,
@@ -4305,14 +4369,6 @@
       "onboard_time": 1772339125,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84311,
-      "num": 102755,
-      "word": "TES将WBG拖进决胜局",
-      "onboard_time": 1772457205,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 83085,
@@ -5073,6 +5129,14 @@
       "onboard_time": 1772306955,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27216,
+      "num": 210837,
+      "word": "四部手机没送达跑腿骑手拒接电话",
+      "onboard_time": 1772458585,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26016,
