@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772478746275,
+  "endTime": 1772480618215,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -5753,6 +5753,14 @@
       "onboard_time": 1772476035,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12378,
+      "num": 23374,
+      "word": "杨幂主演票房突破100亿",
+      "onboard_time": 1772479875,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 11630,

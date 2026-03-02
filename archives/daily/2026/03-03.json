@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772478746275,
+  "endTime": 1772480618215,
   "band_list": [
     {
       "raw_hot": 913630,
@@ -536,6 +536,22 @@
       "word": "好好的时光",
       "onboard_time": 1772476035,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 12378,
+      "num": 23374,
+      "word": "杨幂主演票房突破100亿",
+      "onboard_time": 1772479875,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 11802,
+      "num": 23367,
+      "word": "玫瑰丛生",
+      "onboard_time": 1772479095,
+      "rank": 48,
       "category": "剧集"
     }
   ],
