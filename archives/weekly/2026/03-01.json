@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772421426978,
+  "endTime": 1772427343053,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -17,6 +17,14 @@
       "onboard_time": 1772372666,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9319006,
+      "num": 9319006,
+      "word": "李雨桐喊话薛之谦",
+      "onboard_time": 1772422521,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 2577022,
@@ -75,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1754499,
+      "num": 392959,
+      "word": "伊朗前总统内贾德亲信称其平安",
+      "onboard_time": 1772425042,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1718479,
       "num": 199270,
       "word": "哈梅内伊",
@@ -96,6 +112,14 @@
       "word": "伊朗确认继任者后或将扩大反击",
       "onboard_time": 1772343083,
       "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1516084,
+      "num": 1516084,
+      "word": "伊朗导弹突破以色列防御系统",
+      "onboard_time": 1772420543,
+      "rank": 22,
       "category": "国际时政"
     },
     {
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 1062628,
-      "num": 197203,
+      "num": 211758,
       "word": "赞达亚荷兰弟已经结婚",
       "onboard_time": 1772417722,
       "rank": 20,
@@ -259,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 905204,
+      "num": 905204,
+      "word": "电影难看20分钟内可退款40%",
+      "onboard_time": 1772423723,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 902486,
       "num": 231959,
       "word": "俄罗斯在中东的布局被美国搅乱了",
@@ -291,8 +323,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 821777,
+      "num": 192118,
+      "word": "李雨桐说被薛之谦威胁",
+      "onboard_time": 1772423964,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808821,
-      "num": 254456,
+      "num": 270223,
       "word": "孟子义自曝两年最长只休了2天",
       "onboard_time": 1772413583,
       "rank": 11,
@@ -473,6 +513,14 @@
       "onboard_time": 1772346443,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 619860,
+      "num": 388120,
+      "word": "王楚钦过不了安检瞬间红温",
+      "onboard_time": 1772423723,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 615970,
@@ -707,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 505291,
+      "num": 132323,
+      "word": "英国允许美使用英方基地打击伊朗",
+      "onboard_time": 1772421622,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 499317,
       "num": 246308,
       "word": "黄轩的手 此沙的脚",
@@ -827,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427656,
+      "num": 382771,
+      "word": "李昀锐还记得自己姓李不姓林吗",
+      "onboard_time": 1772425042,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426846,
       "num": 426846,
       "word": "小伙腹痛CT查出肠道卡2把勺子",
@@ -841,6 +905,14 @@
       "onboard_time": 1772352862,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 412672,
+      "num": 412672,
+      "word": "学历自卑",
+      "onboard_time": 1772422463,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 412387,
@@ -944,6 +1016,14 @@
       "word": "以军开始打击伊朗首都心脏地带",
       "onboard_time": 1772355803,
       "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 378568,
+      "num": 378568,
+      "word": "美以不可能打了伊朗就一走了之",
+      "onboard_time": 1772424444,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -1148,7 +1228,7 @@
     },
     {
       "raw_hot": 316894,
-      "num": 225342,
+      "num": 225460,
       "word": "A股",
       "onboard_time": 1772415803,
       "rank": 16,
@@ -1172,7 +1252,7 @@
     },
     {
       "raw_hot": 311655,
-      "num": 187485,
+      "num": 190422,
       "word": "亲母女嫁给了亲父子",
       "onboard_time": 1772413824,
       "rank": 22,
@@ -1203,6 +1283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 303231,
+      "num": 303231,
+      "word": "迪丽热巴闪耀巴黎",
+      "onboard_time": 1772423424,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301460,
       "num": 261889,
       "word": "伊朗退了一步炮火进了一步",
@@ -1217,14 +1305,6 @@
       "onboard_time": 1772416943,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299020,
-      "num": 155468,
-      "word": "伊朗导弹突破以色列防御系统",
-      "onboard_time": 1772420543,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 296070,
@@ -1323,6 +1403,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 279194,
+      "num": 176390,
+      "word": "霍尔木兹海峡封锁将致命打击日本经济",
+      "onboard_time": 1772426484,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 277137,
+      "num": 466036,
+      "word": "真的没人管管江西小炒吗",
+      "onboard_time": 1772427085,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 275127,
       "num": 275127,
       "word": "方大同拍摄的时候没有封路",
@@ -1387,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255130,
+      "num": 215899,
+      "word": "佟丽娅给小酒窝发压岁钱",
+      "onboard_time": 1772423483,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252669,
       "num": 120640,
       "word": "伊朗总统之子发声",
@@ -1411,12 +1515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248576,
+      "num": 432930,
+      "word": "白宫下令暂缓推进对台军售",
+      "onboard_time": 1772425403,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 248415,
       "num": 248415,
       "word": "迪拜机场被炸前记者接到中国同胞",
       "onboard_time": 1772354544,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 245807,
+      "num": 226943,
+      "word": "向太怒批你凭什么喷王菲",
+      "onboard_time": 1772422042,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 242360,
@@ -1483,6 +1603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 234629,
+      "num": 411503,
+      "word": "32岁男子首次带女友回家30人迎接",
+      "onboard_time": 1772420423,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228018,
       "num": 211266,
       "word": "孟子义两年最长休息两天",
@@ -1497,6 +1625,14 @@
       "onboard_time": 1772358502,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227177,
+      "num": 227177,
+      "word": "原来不止我一个人这样洗澡",
+      "onboard_time": 1772422583,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 226137,
@@ -1531,6 +1667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 220106,
+      "num": 404867,
+      "word": "豆瓣200减200",
+      "onboard_time": 1772420963,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 217883,
       "num": 217883,
       "word": "迪丽热巴第一语言不是汉语",
@@ -1547,6 +1691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 216439,
+      "num": 400839,
+      "word": "湖南卫视元宵晚会因暴雪暂停彩排",
+      "onboard_time": 1772422702,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216432,
       "num": 216432,
       "word": "烤香蕉",
@@ -1561,6 +1713,22 @@
       "onboard_time": 1772419280,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213084,
+      "num": 396934,
+      "word": "18名中国公民顺利撤离伊朗",
+      "onboard_time": 1772418441,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 211831,
+      "num": 211831,
+      "word": "中国游客迪拜遇机场停运进退两难",
+      "onboard_time": 1772419462,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209907,
@@ -1593,6 +1761,14 @@
       "onboard_time": 1772349203,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197432,
+      "num": 197432,
+      "word": "当你发现奶茶袋可以防油溅",
+      "onboard_time": 1772423124,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 197277,
@@ -1803,14 +1979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169101,
-      "num": 268407,
-      "word": "18名中国公民顺利撤离伊朗",
-      "onboard_time": 1772418441,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 168063,
       "num": 168063,
       "word": "姐姐姐夫共创",
@@ -1907,12 +2075,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 156272,
-      "num": 156272,
-      "word": "中国游客迪拜遇机场停运进退两难",
-      "onboard_time": 1772419462,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 156288,
+      "num": 156288,
+      "word": "刘美含吐槽5家AI答案不一样",
+      "onboard_time": 1772426666,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 156256,
@@ -2041,6 +2209,14 @@
       "onboard_time": 1772376387,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149481,
+      "num": 149481,
+      "word": "王楚然老钱风",
+      "onboard_time": 1772423183,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148160,
@@ -2243,6 +2419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134660,
+      "num": 134660,
+      "word": "秦岚拍延禧攻略大哭戏引发咽炎",
+      "onboard_time": 1772422164,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133964,
       "num": 132438,
       "word": "毕雯珺张淼怡新剧领证路透",
@@ -2443,6 +2627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117742,
+      "num": 117742,
+      "word": "当农村狗狗第一次吃到狗粮",
+      "onboard_time": 1772427265,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117584,
       "num": 117584,
       "word": "肖战展示内搭",
@@ -2587,20 +2779,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109984,
-      "num": 109984,
-      "word": "豆瓣200减200",
-      "onboard_time": 1772420963,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 109850,
       "num": 109850,
       "word": "戴簪花的萨摩耶",
       "onboard_time": 1772367622,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109726,
+      "num": 109726,
+      "word": "小米超跑线下实车曝光",
+      "onboard_time": 1772426246,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 108902,
@@ -2835,12 +3027,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95532,
-      "num": 101812,
-      "word": "32岁男子首次带女友回家30人迎接",
-      "onboard_time": 1772420423,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 97327,
+      "num": 97327,
+      "word": "回复已经达到院士级别了",
+      "onboard_time": 1772425945,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 95727,
+      "num": 225557,
+      "word": "库明加隔扣杨瀚森",
+      "onboard_time": 1772425104,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 94606,
@@ -2865,6 +3065,14 @@
       "onboard_time": 1772355863,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93326,
+      "num": 93326,
+      "word": "机关算尽不如命运轻描淡写的一笔",
+      "onboard_time": 1772426605,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 92828,
@@ -2987,6 +3195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85828,
+      "num": 178918,
+      "word": "开学第一天",
+      "onboard_time": 1772425884,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 84332,
       "num": 84332,
       "word": "七种退税方式",
@@ -3065,6 +3281,22 @@
       "onboard_time": 1772419402,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77160,
+      "num": 130823,
+      "word": "孙颖莎对王楚钦说你拍你拍",
+      "onboard_time": 1772425764,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76609,
+      "num": 737718,
+      "word": "从一无所有到再造山河",
+      "onboard_time": 1772420901,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76121,
@@ -3195,6 +3427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66401,
+      "num": 92837,
+      "word": "孙颖莎王楚钦领跑WTT冠军榜",
+      "onboard_time": 1772426005,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65915,
       "num": 229042,
       "word": "3月第一件事个税退税",
@@ -3227,6 +3467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61856,
+      "num": 92753,
+      "word": "年轻人如何远离胃癌",
+      "onboard_time": 1772424143,
+      "rank": 49,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 59375,
       "num": 69104,
       "word": "天官赐福全新动画内容",
@@ -3249,14 +3497,6 @@
       "onboard_time": 1772373806,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 55815,
-      "num": 668621,
-      "word": "从一无所有到再造山河",
-      "onboard_time": 1772420901,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51298,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772421426978,
+  "endTime": 1772427343053,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -217,6 +217,14 @@
       "onboard_time": 1768729460,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9319006,
+      "num": 9319006,
+      "word": "李雨桐喊话薛之谦",
+      "onboard_time": 1772422521,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 9286837,
@@ -1763,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1754499,
+      "num": 392959,
+      "word": "伊朗前总统内贾德亲信称其平安",
+      "onboard_time": 1772425042,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1752409,
       "num": 101133,
       "word": "疑似小澈P图编码",
@@ -2371,36 +2387,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1516084,
+      "num": 1516084,
+      "word": "伊朗导弹突破以色列防御系统",
+      "onboard_time": 1772420543,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1513071,
       "num": 371177,
       "word": "网红口子姐去世",
       "onboard_time": 1768215022,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1510836,
-      "num": 543591,
-      "word": "微信通知显示头像",
-      "onboard_time": 1768208120,
-      "rank": 40,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 1510424,
-      "num": 323335,
-      "word": "王鹤棣大屏角色没有东方青苍",
-      "onboard_time": 1768656142,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 1504692,
-      "num": 250786,
-      "word": "秦牛正威回应订婚后分手",
-      "onboard_time": 1769952201,
-      "rank": 39,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
