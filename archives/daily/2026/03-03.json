@@ -1,10 +1,10 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772494529457,
+  "endTime": 1772495430787,
   "band_list": [
     {
-      "raw_hot": 917459,
-      "num": 941863,
+      "raw_hot": 947079,
+      "num": 1061966,
       "word": "伊朗导弹击中美第五舰队总部瞬间",
       "onboard_time": 1772446103,
       "rank": 12,
@@ -35,12 +35,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 609371,
+      "num": 782421,
+      "word": "元宵节",
+      "onboard_time": 1772492838,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 569323,
       "num": 255116,
       "word": "王毅和伊朗外长通电话",
       "onboard_time": 1772456367,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 547078,
+      "num": 547078,
+      "word": "美以被曝几个月前就密谋联手打伊朗",
+      "onboard_time": 1772493079,
+      "rank": 4,
+      "category": "军事"
     },
     {
       "raw_hot": 540207,
@@ -67,14 +83,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440813,
-      "num": 705175,
-      "word": "元宵节",
-      "onboard_time": 1772492838,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 372816,
       "num": 372816,
       "word": "女子带1米长巨大豆荚坐飞机引围观",
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319458,
+      "num": 319458,
+      "word": "尘白禁区停服",
+      "onboard_time": 1772492899,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 308147,
       "num": 217923,
       "word": "伊朗称已准备长期战争",
@@ -121,14 +137,6 @@
       "onboard_time": 1772448564,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281995,
-      "num": 281995,
-      "word": "美以被曝几个月前就密谋联手打伊朗",
-      "onboard_time": 1772493079,
-      "rank": 4,
-      "category": "军事"
     },
     {
       "raw_hot": 281669,
@@ -172,15 +180,15 @@
     },
     {
       "raw_hot": 245508,
-      "num": 75394,
+      "num": 82684,
       "word": "伊朗伊斯法罕传出巨大爆炸声",
       "onboard_time": 1772474356,
       "rank": 30,
       "category": "国际时政"
     },
     {
-      "raw_hot": 199144,
-      "num": 156349,
+      "raw_hot": 235707,
+      "num": 179845,
       "word": "肖战记录粉丝",
       "onboard_time": 1772466984,
       "rank": 35,
@@ -193,6 +201,14 @@
       "onboard_time": 1772463867,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196961,
+      "num": 178740,
+      "word": "李静回应飞清迈陪戴军过年",
+      "onboard_time": 1772465786,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 196747,
@@ -209,14 +225,6 @@
       "onboard_time": 1772450786,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171353,
-      "num": 156332,
-      "word": "李静回应飞清迈陪戴军过年",
-      "onboard_time": 1772465786,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 168211,
@@ -236,19 +244,27 @@
     },
     {
       "raw_hot": 160945,
-      "num": 143219,
+      "num": 144405,
       "word": "王安宇CELINE首位中国男大使",
       "onboard_time": 1772471300,
       "rank": 37,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 134136,
-      "num": 134136,
-      "word": "尘白禁区停服",
-      "onboard_time": 1772492899,
-      "rank": 16,
-      "category": "游戏"
+      "raw_hot": 149109,
+      "num": 144212,
+      "word": "美军称已有6名军人身亡",
+      "onboard_time": 1772494038,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 145608,
+      "num": 119784,
+      "word": "黄金白银双双快速跳水",
+      "onboard_time": 1772495361,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 128364,
@@ -315,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99583,
+      "num": 99583,
+      "word": "全国中小学新学期迎来多项新变化",
+      "onboard_time": 1772494940,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 99424,
       "num": 156354,
       "word": "杨超越 末世文女主",
@@ -337,6 +361,14 @@
       "onboard_time": 1772465786,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84346,
+      "num": 82648,
+      "word": "冯琳一巴掌费霆更是一巴掌",
+      "onboard_time": 1772495121,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 82302,
@@ -376,6 +408,22 @@
       "word": "陈浩民夫妇滞留阿联酋",
       "onboard_time": 1772445266,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68792,
+      "num": 82614,
+      "word": "超市的虾是怎么冻成这样的",
+      "onboard_time": 1772495361,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 67388,
+      "num": 107472,
+      "word": "红楼梦 宝玉宝钗演员争论",
+      "onboard_time": 1772452645,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -427,28 +475,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60711,
+      "num": 82527,
+      "word": "终于懂什么叫社交圣母症了",
+      "onboard_time": 1772495361,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60608,
       "num": 156280,
       "word": "冯琳 气人",
       "onboard_time": 1772456367,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59617,
-      "num": 75339,
-      "word": "美军称已有6名军人身亡",
-      "onboard_time": 1772494038,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 59455,
-      "num": 107472,
-      "word": "红楼梦 宝玉宝钗演员争论",
-      "onboard_time": 1772452645,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 53056,
@@ -491,8 +531,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41062,
+      "num": 82416,
+      "word": "湖南卫视元宵晚会",
+      "onboard_time": 1772493499,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40158,
-      "num": 74877,
+      "num": 82299,
       "word": "LV认领徐明浩",
       "onboard_time": 1772472436,
       "rank": 31,
@@ -515,28 +563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32661,
-      "num": 74982,
-      "word": "湖南卫视元宵晚会",
-      "onboard_time": 1772493499,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 31818,
-      "num": 74942,
-      "word": "米兰时装周",
-      "onboard_time": 1772461827,
-      "rank": 36,
-      "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 30235,
-      "num": 74849,
+      "raw_hot": 34611,
+      "num": 82269,
       "word": "尘白禁区停机维护",
       "onboard_time": 1772493980,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 31818,
+      "num": 82142,
+      "word": "米兰时装周",
+      "onboard_time": 1772461827,
+      "rank": 36,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 28427,
