@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772491019478,
+  "endTime": 1772492117364,
   "band_list": [
     {
       "raw_hot": 913630,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518512,
+      "num": 608587,
+      "word": "伊朗导弹击中美第五舰队总部瞬间",
+      "onboard_time": 1772446103,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 464045,
       "num": 227723,
       "word": "iPhone17e浅粉色",
@@ -57,14 +65,6 @@
       "onboard_time": 1772462546,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 443907,
-      "num": 479756,
-      "word": "伊朗导弹击中美第五舰队总部瞬间",
-      "onboard_time": 1772446103,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 372816,
@@ -155,6 +155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 210027,
+      "num": 41365,
+      "word": "伊朗伊斯法罕传出巨大爆炸声",
+      "onboard_time": 1772474356,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 198358,
       "num": 198358,
       "word": "2026元宵晚会官宣",
@@ -169,14 +177,6 @@
       "onboard_time": 1772453964,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176056,
-      "num": 34735,
-      "word": "伊朗伊斯法罕传出巨大爆炸声",
-      "onboard_time": 1772474356,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 171633,
@@ -491,8 +491,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26192,
-      "num": 28869,
+      "raw_hot": 28091,
+      "num": 41352,
       "word": "米兰时装周",
       "onboard_time": 1772461827,
       "rank": 36,
@@ -507,6 +507,14 @@
       "category": "作品衍生,剧集"
     },
     {
+      "raw_hot": 22658,
+      "num": 41288,
+      "word": "今天元宵节",
+      "onboard_time": 1772491335,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22512,
       "num": 47714,
       "word": "元宵晚会你最期待谁的舞台",
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 16975,
-      "num": 28863,
+      "num": 41109,
       "word": "刘宇宁小贝直播",
       "onboard_time": 1772476817,
       "rank": 37,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 16092,
-      "num": 28861,
+      "num": 41054,
       "word": "严浩翔开工录歌",
       "onboard_time": 1772477775,
       "rank": 41,
@@ -532,26 +540,26 @@
     },
     {
       "raw_hot": 14829,
-      "num": 28862,
+      "num": 41033,
       "word": "杨幂主演票房突破100亿",
       "onboard_time": 1772479875,
       "rank": 45,
       "category": "电影"
     },
     {
-      "raw_hot": 13664,
-      "num": 28861,
-      "word": "好好的时光",
-      "onboard_time": 1772476035,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 12785,
-      "num": 28862,
+      "raw_hot": 14512,
+      "num": 41075,
       "word": "玫瑰丛生",
       "onboard_time": 1772479095,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14095,
+      "num": 41086,
+      "word": "好好的时光",
+      "onboard_time": 1772476035,
+      "rank": 47,
       "category": "剧集"
     }
   ],
