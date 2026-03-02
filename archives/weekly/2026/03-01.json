@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772478006749,
+  "endTime": 1772478746275,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -5683,7 +5683,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17117,
+      "raw_hot": 17257,
       "num": 28146,
       "word": "米兰时装周",
       "onboard_time": 1772461827,
@@ -5745,6 +5745,14 @@
       "onboard_time": 1772477775,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13430,
+      "num": 27899,
+      "word": "好好的时光",
+      "onboard_time": 1772476035,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 11630,
