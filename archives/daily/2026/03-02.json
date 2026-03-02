@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772441790860,
+  "endTime": 1772442559534,
   "band_list": [
     {
       "raw_hot": 9863429,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5933659,
+      "raw_hot": 6188688,
       "num": 7141850,
       "word": "伊朗一名中国公民遇难",
       "onboard_time": 1772438483,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1480004,
-      "num": 1022062,
+      "num": 1030021,
       "word": "多架美军战机坠毁",
       "onboard_time": 1772440045,
       "rank": 3,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1292215,
-      "num": 661070,
+      "num": 815604,
       "word": "刘文祥麻辣烫",
       "onboard_time": 1772433261,
       "rank": 3,
@@ -171,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 829555,
+      "num": 1476524,
+      "word": "短剧 变天",
+      "onboard_time": 1772439744,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 808821,
       "num": 270223,
       "word": "孟子义自曝两年最长只休了2天",
@@ -195,6 +203,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 720648,
+      "num": 230411,
+      "word": "李茂报平安",
+      "onboard_time": 1772441426,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 697724,
+      "num": 303356,
+      "word": "卢昱晓短发",
+      "onboard_time": 1772438843,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 690472,
       "num": 227315,
       "word": "中东全面战争一触即发",
@@ -203,20 +227,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 681841,
-      "num": 1398190,
-      "word": "短剧 变天",
-      "onboard_time": 1772439744,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 663357,
-      "num": 303356,
-      "word": "卢昱晓短发",
-      "onboard_time": 1772438843,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 687536,
+      "num": 302924,
+      "word": "中方回应伊朗关闭霍尔木兹海峡",
+      "onboard_time": 1772441426,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 658600,
@@ -387,6 +403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 436764,
+      "num": 168146,
+      "word": "中方回应是否会对伊朗提供军事支持",
+      "onboard_time": 1772441846,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 430213,
       "num": 847701,
       "word": "豆瓣 薅羊毛",
@@ -419,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 406218,
+      "num": 302723,
+      "word": "赵樱子直播关掉美颜",
+      "onboard_time": 1772440287,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402529,
       "num": 209338,
       "word": "伊朗总统就哈梅内伊身亡发声明",
@@ -441,14 +473,6 @@
       "onboard_time": 1772424444,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 390740,
-      "num": 302723,
-      "word": "赵樱子直播关掉美颜",
-      "onboard_time": 1772440287,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 380554,
@@ -491,12 +515,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 362292,
-      "num": 230411,
-      "word": "李茂报平安",
-      "onboard_time": 1772441426,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 364110,
+      "num": 261612,
+      "word": "伊朗发动第10波攻势",
+      "onboard_time": 1772441846,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 356976,
@@ -555,6 +579,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 306956,
+      "num": 306956,
+      "word": "莫斯科遭炸弹袭击",
+      "onboard_time": 1772441365,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 306417,
       "num": 260286,
       "word": "迪丽热巴扛起裙摆就走了",
@@ -577,14 +609,6 @@
       "onboard_time": 1772423424,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302924,
-      "num": 302924,
-      "word": "中方回应伊朗关闭霍尔木兹海峡",
-      "onboard_time": 1772441426,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 300725,
@@ -649,6 +673,14 @@
       "onboard_time": 1772432362,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 265668,
+      "num": 265668,
+      "word": "陈昊宇剧宣 低头",
+      "onboard_time": 1772441544,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 264402,
@@ -835,6 +867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 211676,
+      "num": 211676,
+      "word": "命运真的会提醒你适合走哪条路",
+      "onboard_time": 1772440346,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211587,
       "num": 211587,
       "word": "吴京 战狼不干这个",
@@ -865,14 +905,6 @@
       "onboard_time": 1772430084,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 201357,
-      "num": 201357,
-      "word": "命运真的会提醒你适合走哪条路",
-      "onboard_time": 1772440346,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 197964,
@@ -963,12 +995,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162381,
+      "num": 162381,
+      "word": "20后都避开网红名了吗",
+      "onboard_time": 1772441725,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160878,
-      "num": 157563,
+      "num": 187538,
       "word": "坐在医院等结果突然被塞手里一个小孩",
       "onboard_time": 1772435903,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160361,
+      "num": 160361,
+      "word": "闪耀暖暖",
+      "onboard_time": 1772441665,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 160174,
@@ -1024,6 +1072,14 @@
       "word": "伊朗遭袭40小时后情况",
       "onboard_time": 1772410343,
       "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 151541,
+      "num": 151541,
+      "word": "日本遭遇霍尔木兹休克",
+      "onboard_time": 1772441783,
+      "rank": 36,
       "category": "国际时政"
     },
     {
@@ -1179,14 +1235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126034,
-      "num": 126034,
-      "word": "莫斯科遭炸弹袭击",
-      "onboard_time": 1772441365,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 124761,
       "num": 124761,
       "word": "七个月大宝宝主动安慰哭泣的妈妈",
@@ -1203,28 +1251,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 123780,
-      "num": 123780,
-      "word": "闪耀暖暖",
-      "onboard_time": 1772441665,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 122685,
       "num": 122685,
       "word": "以色列对伊新一轮空袭",
       "onboard_time": 1772378907,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 119293,
-      "num": 119293,
-      "word": "陈昊宇剧宣 低头",
-      "onboard_time": 1772441544,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 117866,
@@ -1376,14 +1408,6 @@
       "word": "回复已经达到院士级别了",
       "onboard_time": 1772425945,
       "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 101305,
-      "num": 101305,
-      "word": "20后都避开网红名了吗",
-      "onboard_time": 1772441725,
-      "rank": 45,
       "category": "幽默"
     },
     {
@@ -1595,6 +1619,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84753,
+      "num": 151004,
+      "word": "老吃家的汤圆吃法",
+      "onboard_time": 1772442085,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 83085,
+      "num": 150919,
+      "word": "对洗澡的开发还是太少了",
+      "onboard_time": 1772441966,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82996,
       "num": 157475,
       "word": "崩坏星穹铁道",
@@ -1787,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58377,
+      "num": 150805,
+      "word": "吴曦获2025中国金球奖",
+      "onboard_time": 1772442445,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56900,
       "num": 161541,
       "word": "孙颖莎女单夺冠",
@@ -1875,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30458,
+      "num": 1159690,
+      "word": "十四届全国人大四次会议发布会",
+      "onboard_time": 1772441606,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25745,
       "num": 157509,
       "word": "泰国实施石油出口禁令",
@@ -1937,14 +1993,6 @@
       "onboard_time": 1772365284,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18015,
-      "num": 1082744,
-      "word": "十四届全国人大四次会议发布会",
-      "onboard_time": 1772441606,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17658,
