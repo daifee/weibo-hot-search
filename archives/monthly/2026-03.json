@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772463206818,
+  "endTime": 1772464085435,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1416460,
+      "num": 368710,
+      "word": "iPhone17e发布",
+      "onboard_time": 1772460987,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1380711,
       "num": 1380711,
       "word": "伊朗导弹击中美第五舰队总部瞬间",
@@ -209,14 +217,6 @@
       "onboard_time": 1772355083,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1372728,
-      "num": 255465,
-      "word": "iPhone17e发布",
-      "onboard_time": 1772460987,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 1356215,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 906213,
-      "num": 254243,
+      "num": 366820,
       "word": "伊朗称已准备长期战争",
       "onboard_time": 1772459065,
       "rank": 11,
@@ -591,6 +591,14 @@
       "num": 252432,
       "word": "李茂报平安",
       "onboard_time": 1772441426,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 699050,
+      "num": 302273,
+      "word": "弦子报平安",
+      "onboard_time": 1772462966,
       "rank": 22,
       "category": "艺人"
     },
@@ -1099,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 467322,
+      "num": 467322,
+      "word": "女子带1米长巨大豆荚坐飞机引围观",
+      "onboard_time": 1772461046,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 466115,
       "num": 466115,
       "word": "冯琳 气人",
@@ -1380,7 +1396,7 @@
     },
     {
       "raw_hot": 390278,
-      "num": 252792,
+      "num": 365629,
       "word": "刘诗诗 五奢女王",
       "onboard_time": 1772460387,
       "rank": 12,
@@ -1484,7 +1500,7 @@
     },
     {
       "raw_hot": 371323,
-      "num": 249476,
+      "num": 346803,
       "word": "苹果新品",
       "onboard_time": 1772461166,
       "rank": 14,
@@ -1555,12 +1571,12 @@
       "category": "作品衍生,互联网"
     },
     {
-      "raw_hot": 353082,
-      "num": 353082,
-      "word": "女子带1米长巨大豆荚坐飞机引围观",
-      "onboard_time": 1772461046,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 352095,
+      "num": 331064,
+      "word": "伊方愿全力保障中方人员机构的安全",
+      "onboard_time": 1772460626,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 351065,
@@ -1633,6 +1649,14 @@
       "onboard_time": 1772440346,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 337284,
+      "num": 337284,
+      "word": "iPhone17e 远古刘海屏",
+      "onboard_time": 1772462726,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 333296,
@@ -1793,6 +1817,14 @@
       "onboard_time": 1772416943,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297882,
+      "num": 297882,
+      "word": "李昀锐王楚然lingorm合照",
+      "onboard_time": 1772462546,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 296070,
@@ -2003,14 +2035,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 264643,
-      "num": 245269,
-      "word": "伊方愿全力保障中方人员机构的安全",
-      "onboard_time": 1772460626,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 264402,
       "num": 174821,
       "word": "阿富汗使用重型武器打击巴基斯坦",
@@ -2099,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244221,
+      "num": 244221,
+      "word": "美以伊战场装备都升级了",
+      "onboard_time": 1772462726,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 242360,
       "num": 222621,
       "word": "宋智孝不考虑戒酒",
@@ -2113,14 +2145,6 @@
       "onboard_time": 1772377764,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240229,
-      "num": 240229,
-      "word": "iPhone17e 远古刘海屏",
-      "onboard_time": 1772462726,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 239437,
@@ -2196,7 +2220,7 @@
     },
     {
       "raw_hot": 233879,
-      "num": 233879,
+      "num": 368986,
       "word": "大叔因太会种地在非洲被持枪保护",
       "onboard_time": 1772453964,
       "rank": 27,
@@ -2208,14 +2232,6 @@
       "word": "毛晓彤去了坦桑尼亚看狮子",
       "onboard_time": 1772439985,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 229632,
-      "num": 229632,
-      "word": "弦子报平安",
-      "onboard_time": 1772462966,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -2739,12 +2755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168488,
-      "num": 168488,
-      "word": "美以伊战场装备都升级了",
-      "onboard_time": 1772462726,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 168232,
+      "num": 168232,
+      "word": "卡塔尔能源宣布遇袭停产",
+      "onboard_time": 1772462308,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 168063,
@@ -2833,14 +2849,6 @@
       "onboard_time": 1772379505,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 159313,
-      "num": 159313,
-      "word": "李昀锐王楚然lingorm合照",
-      "onboard_time": 1772462546,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 159160,
@@ -3195,6 +3203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 140829,
+      "num": 140829,
+      "word": "2026元宵晚会官宣",
+      "onboard_time": 1772463867,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140818,
       "num": 140818,
       "word": "沙特阿拉伯股市",
@@ -3379,6 +3395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 131826,
+      "num": 131826,
+      "word": "陈飞宇瘦了好多",
+      "onboard_time": 1772463505,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130767,
       "num": 373419,
       "word": "五粮液",
@@ -3440,6 +3464,14 @@
       "word": "小米人形机器人已能自主工作3小时",
       "onboard_time": 1772459006,
       "rank": 37,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 126582,
+      "num": 115362,
+      "word": "iPhone17e起售价4499元",
+      "onboard_time": 1772463208,
+      "rank": 40,
       "category": "数码"
     },
     {
@@ -3531,12 +3563,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 121187,
-      "num": 121187,
-      "word": "卡塔尔能源宣布遇袭停产",
-      "onboard_time": 1772462308,
-      "rank": 40,
-      "category": "财经"
+      "raw_hot": 121117,
+      "num": 121117,
+      "word": "王楚然法式碎花裙",
+      "onboard_time": 1772461827,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120925,
@@ -3569,14 +3601,6 @@
       "onboard_time": 1772366663,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119092,
-      "num": 119092,
-      "word": "王楚然法式碎花裙",
-      "onboard_time": 1772461827,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 119062,
@@ -3857,6 +3881,14 @@
       "onboard_time": 1772426246,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 109269,
+      "num": 109269,
+      "word": "iPhone17e价格",
+      "onboard_time": 1772463266,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 109241,
@@ -4244,7 +4276,7 @@
     },
     {
       "raw_hot": 95041,
-      "num": 243973,
+      "num": 323009,
       "word": "Dior要出新招了",
       "onboard_time": 1772460626,
       "rank": 18,
@@ -5299,6 +5331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30510,
+      "num": 308226,
+      "word": "岳父婚礼现场返还彩礼后续",
+      "onboard_time": 1772463625,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30121,
       "num": 714095,
       "word": "全国政协会议议程来了",
@@ -5520,6 +5560,14 @@
       "word": "全国春日4d大片已上映",
       "onboard_time": 1772354962,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11255,
+      "num": 116347,
+      "word": "女子公园放养10天宠物鸭毫发无损",
+      "onboard_time": 1772463985,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

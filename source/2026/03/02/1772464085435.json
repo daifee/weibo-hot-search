@@ -1,0 +1,410 @@
+{
+  "runTime": 1772464085435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1264803,
+        "num": 1264803,
+        "word": "哈梅内伊妻子伤重不治去世",
+        "onboard_time": 1772459065,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 439425,
+        "num": 881125,
+        "word": "海澜之家 不签合同",
+        "onboard_time": 1772448564,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67837,
+        "num": 723743,
+        "word": "598名女性获全国三八红旗手称号",
+        "onboard_time": 1772460686,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 988138,
+        "num": 712944,
+        "word": "王毅和伊朗外长通电话",
+        "onboard_time": 1772456367,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 689271,
+        "num": 689271,
+        "word": "刘文祥麻辣烫",
+        "onboard_time": 1772433261,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 487787,
+        "num": 487787,
+        "word": "郭晓婷回复孙千",
+        "onboard_time": 1772460207,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467322,
+        "num": 467322,
+        "word": "女子带1米长巨大豆荚坐飞机引围观",
+        "onboard_time": 1772461046,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371928,
+        "num": 371928,
+        "word": "中方回应特朗普3月访华能否成行",
+        "onboard_time": 1772452166,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214618,
+        "num": 370930,
+        "word": "20后都避开网红名了吗",
+        "onboard_time": 1772441725,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202651,
+        "num": 368986,
+        "word": "大叔因太会种地在非洲被持枪保护",
+        "onboard_time": 1772453964,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1416460,
+        "num": 368710,
+        "word": "iPhone17e发布",
+        "onboard_time": 1772460987,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 763448,
+        "num": 366820,
+        "word": "伊朗称已准备长期战争",
+        "onboard_time": 1772459065,
+        "rank": 11,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 365629,
+        "num": 365629,
+        "word": "刘诗诗 五奢女王",
+        "onboard_time": 1772460387,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 736876,
+        "num": 362534,
+        "word": "伊朗导弹击中美第五舰队总部瞬间",
+        "onboard_time": 1772446103,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346803,
+        "num": 346803,
+        "word": "苹果新品",
+        "onboard_time": 1772461166,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 392631,
+        "num": 343567,
+        "word": "伊朗一名中国公民遇难",
+        "onboard_time": 1772438483,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337284,
+        "num": 337284,
+        "word": "iPhone17e 远古刘海屏",
+        "onboard_time": 1772462726,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 352095,
+        "num": 331064,
+        "word": "伊方愿全力保障中方人员机构的安全",
+        "onboard_time": 1772460626,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84575,
+        "num": 323009,
+        "word": "Dior要出新招了",
+        "onboard_time": 1772460626,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 30510,
+        "num": 308226,
+        "word": "岳父婚礼现场返还彩礼后续",
+        "onboard_time": 1772463625,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699050,
+        "num": 302273,
+        "word": "弦子报平安",
+        "onboard_time": 1772462966,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297882,
+        "num": 297882,
+        "word": "李昀锐王楚然lingorm合照",
+        "onboard_time": 1772462546,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244221,
+        "num": 244221,
+        "word": "美以伊战场装备都升级了",
+        "onboard_time": 1772462726,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252853,
+        "num": 225079,
+        "word": "小贝求婚失败",
+        "onboard_time": 1772450786,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176576,
+        "num": 176576,
+        "word": "舒淇 面部折叠度",
+        "onboard_time": 1772457805,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171596,
+        "num": 171596,
+        "word": "被女子扔玩具车撞伤妈妈发声",
+        "onboard_time": 1772461225,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250240,
+        "num": 171019,
+        "word": "李昀锐好像郭晓婷王天辰的孩子",
+        "onboard_time": 1772455945,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168232,
+        "num": 168232,
+        "word": "卡塔尔能源宣布遇袭停产",
+        "onboard_time": 1772462308,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174691,
+        "num": 167493,
+        "word": "冯琳 气人",
+        "onboard_time": 1772456367,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164770,
+        "num": 164770,
+        "word": "海澜之家被暂停全军采购资格",
+        "onboard_time": 1772444005,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164611,
+        "num": 164611,
+        "word": "陈浩民夫妇滞留阿联酋",
+        "onboard_time": 1772445266,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153964,
+        "num": 153964,
+        "word": "恋与深空活动场地变更",
+        "onboard_time": 1772461888,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153093,
+        "num": 153093,
+        "word": "宋雨琦被詹姆斯比心",
+        "onboard_time": 1772454385,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 140829,
+        "num": 140829,
+        "word": "2026元宵晚会官宣",
+        "onboard_time": 1772463867,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136012,
+        "num": 136012,
+        "word": "王楚钦晒大满贯奖杯",
+        "onboard_time": 1772457865,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139982,
+        "num": 134609,
+        "word": "杨超越 末世文女主",
+        "onboard_time": 1772450604,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131826,
+        "num": 131826,
+        "word": "陈飞宇瘦了好多",
+        "onboard_time": 1772463505,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126615,
+        "num": 126615,
+        "word": "M4芯片款iPadAir发布",
+        "onboard_time": 1772462186,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121117,
+        "num": 121117,
+        "word": "王楚然法式碎花裙",
+        "onboard_time": 1772461827,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11255,
+        "num": 116347,
+        "word": "女子公园放养10天宠物鸭毫发无损",
+        "onboard_time": 1772463985,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126582,
+        "num": 115362,
+        "word": "iPhone17e起售价4499元",
+        "onboard_time": 1772463208,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113324,
+        "num": 113324,
+        "word": "孙颖莎晒和王曼昱合照",
+        "onboard_time": 1772447483,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110341,
+        "num": 110341,
+        "word": "俄罗斯",
+        "onboard_time": 1772445024,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109269,
+        "num": 109269,
+        "word": "iPhone17e价格",
+        "onboard_time": 1772463266,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107047,
+        "num": 107047,
+        "word": "桃黑黑什么时候播",
+        "onboard_time": 1772462966,
+        "rank": 44,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 103119,
+        "num": 103119,
+        "word": "红楼梦 宝玉宝钗演员争论",
+        "onboard_time": 1772452645,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94994,
+        "num": 94994,
+        "word": "naiyou蝎子出装",
+        "onboard_time": 1772462726,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94860,
+        "num": 94860,
+        "word": "小米人形机器人已能自主工作3小时",
+        "onboard_time": 1772459006,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94712,
+        "num": 94712,
+        "word": "章若楠冷玉公主妆",
+        "onboard_time": 1772458766,
+        "rank": 48,
+        "category": "作品衍生,剧集"
+      },
+      {
+        "raw_hot": 94245,
+        "num": 94245,
+        "word": "纯真年代22集 我一直在哭",
+        "onboard_time": 1772457445,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#最燃的接力#"
+    }
+  }
+}
