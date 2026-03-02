@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772481498177,
+  "endTime": 1772484345103,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -5659,20 +5659,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18749,
+      "num": 28146,
+      "word": "米兰时装周",
+      "onboard_time": 1772461827,
+      "rank": 36,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 18197,
       "num": 125051,
       "word": "中国农机火到海外",
       "onboard_time": 1772354783,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17923,
-      "num": 28146,
-      "word": "米兰时装周",
-      "onboard_time": 1772461827,
-      "rank": 36,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 17658,
@@ -5747,20 +5747,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13430,
-      "num": 27899,
-      "word": "好好的时光",
-      "onboard_time": 1772476035,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 12378,
+      "raw_hot": 14713,
       "num": 23374,
       "word": "杨幂主演票房突破100亿",
       "onboard_time": 1772479875,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 13664,
+      "num": 27899,
+      "word": "好好的时光",
+      "onboard_time": 1772476035,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 11630,
