@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772442559534,
+  "endTime": 1772445622170,
   "band_list": [
     {
       "raw_hot": 9863429,
@@ -51,6 +51,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1518889,
+      "num": 1518889,
+      "word": "莫斯科遭炸弹袭击",
+      "onboard_time": 1772441365,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1516084,
       "num": 1516084,
       "word": "伊朗导弹突破以色列防御系统",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1292215,
-      "num": 815604,
+      "num": 901376,
       "word": "刘文祥麻辣烫",
       "onboard_time": 1772433261,
       "rank": 3,
@@ -113,6 +121,14 @@
       "onboard_time": 1772414544,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 976636,
+      "num": 976636,
+      "word": "豆瓣称无法承受异常订单巨额损失",
+      "onboard_time": 1772443465,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 938849,
@@ -299,6 +315,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 589866,
+      "num": 589866,
+      "word": "20后都避开网红名了吗",
+      "onboard_time": 1772441725,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 586267,
+      "num": 586267,
+      "word": "海澜之家被暂停全军采购资格",
+      "onboard_time": 1772444005,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 561180,
       "num": 812682,
       "word": "WiFi 穿墙透视",
@@ -315,12 +347,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 525749,
+      "num": 199808,
+      "word": "陈浩民夫妇滞留阿联酋",
+      "onboard_time": 1772445266,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521653,
       "num": 237960,
       "word": "宋威龙误入直播间",
       "onboard_time": 1772418799,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 510855,
+      "num": 356470,
+      "word": "伊朗发动第10波攻势",
+      "onboard_time": 1772441846,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 509621,
@@ -371,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467441,
+      "num": 467441,
+      "word": "陈昊宇剧宣 低头",
+      "onboard_time": 1772441544,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457651,
       "num": 228411,
       "word": "美以袭击伊朗金价为何下跌",
@@ -404,7 +460,7 @@
     },
     {
       "raw_hot": 436764,
-      "num": 168146,
+      "num": 228516,
       "word": "中方回应是否会对伊朗提供军事支持",
       "onboard_time": 1772441846,
       "rank": 30,
@@ -475,6 +531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 383390,
+      "num": 383390,
+      "word": "日本遭遇霍尔木兹休克",
+      "onboard_time": 1772441783,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 380554,
       "num": 208732,
       "word": "boss直聘回应网传伊朗急招炮兵图",
@@ -513,14 +577,6 @@
       "onboard_time": 1772413703,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 364110,
-      "num": 261612,
-      "word": "伊朗发动第10波攻势",
-      "onboard_time": 1772441846,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 356976,
@@ -577,14 +633,6 @@
       "onboard_time": 1772436204,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 306956,
-      "num": 306956,
-      "word": "莫斯科遭炸弹袭击",
-      "onboard_time": 1772441365,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 306417,
@@ -659,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272702,
+      "num": 272702,
+      "word": "爱与不爱真的很明显",
+      "onboard_time": 1772443046,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266326,
       "num": 215899,
       "word": "佟丽娅给小酒窝发压岁钱",
@@ -673,14 +729,6 @@
       "onboard_time": 1772432362,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 265668,
-      "num": 265668,
-      "word": "陈昊宇剧宣 低头",
-      "onboard_time": 1772441544,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 264402,
@@ -779,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228808,
+      "num": 228808,
+      "word": "命运真的会提醒你适合走哪条路",
+      "onboard_time": 1772440346,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228695,
       "num": 333414,
       "word": "当你发现奶茶袋可以防油溅",
@@ -801,6 +857,14 @@
       "onboard_time": 1772439863,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 223446,
+      "num": 223446,
+      "word": "日本动漫巨头封口性侵受害者",
+      "onboard_time": 1772439567,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 220106,
@@ -867,14 +931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 211676,
-      "num": 211676,
-      "word": "命运真的会提醒你适合走哪条路",
-      "onboard_time": 1772440346,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211587,
       "num": 211587,
       "word": "吴京 战狼不干这个",
@@ -915,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197492,
+      "num": 197492,
+      "word": "周杰伦成都被称为史上最离谱演唱会",
+      "onboard_time": 1772443944,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194910,
       "num": 194910,
       "word": "刘美含吐槽5家AI答案不一样",
@@ -931,12 +995,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 191197,
-      "num": 191197,
-      "word": "日本动漫巨头封口性侵受害者",
-      "onboard_time": 1772439567,
-      "rank": 31,
-      "category": "海外新闻"
+      "raw_hot": 189958,
+      "num": 189958,
+      "word": "王安宇顶奢官宣待遇",
+      "onboard_time": 1772442625,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 185303,
@@ -945,6 +1009,14 @@
       "onboard_time": 1772375005,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180256,
+      "num": 201235,
+      "word": "俄罗斯",
+      "onboard_time": 1772445024,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179884,
@@ -961,6 +1033,14 @@
       "onboard_time": 1772379265,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170771,
+      "num": 190609,
+      "word": "伊朗击落美军F15战机现场视频",
+      "onboard_time": 1772444065,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168821,
@@ -995,14 +1075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 162381,
-      "num": 162381,
-      "word": "20后都避开网红名了吗",
-      "onboard_time": 1772441725,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 160878,
       "num": 187538,
       "word": "坐在医院等结果突然被塞手里一个小孩",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1772437045,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156972,
+      "num": 200130,
+      "word": "LV羽绒服穿3小时掉色女子发声",
+      "onboard_time": 1772443345,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156243,
@@ -1072,14 +1152,6 @@
       "word": "伊朗遭袭40小时后情况",
       "onboard_time": 1772410343,
       "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 151541,
-      "num": 151541,
-      "word": "日本遭遇霍尔木兹休克",
-      "onboard_time": 1772441783,
-      "rank": 36,
       "category": "国际时政"
     },
     {
@@ -1275,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117583,
+      "num": 169116,
+      "word": "李茂称将跨边境去阿曼",
+      "onboard_time": 1772444784,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112567,
       "num": 157555,
       "word": "新鸳鸯蝴蝶梦在外网火爆了",
@@ -1417,6 +1497,14 @@
       "onboard_time": 1772435303,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100770,
+      "num": 173637,
+      "word": "刘文祥店主喊话感谢紫薯精",
+      "onboard_time": 1772444483,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 99948,
@@ -1587,6 +1675,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 86365,
+      "num": 158780,
+      "word": "ENHYPEN全员取消视频签售",
+      "onboard_time": 1772443884,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86212,
       "num": 210364,
       "word": "商务部回应英方制裁中企",
@@ -1628,7 +1724,7 @@
     },
     {
       "raw_hot": 83085,
-      "num": 150919,
+      "num": 164981,
       "word": "对洗澡的开发还是太少了",
       "onboard_time": 1772441966,
       "rank": 47,
@@ -1739,6 +1835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74868,
+      "num": 161718,
+      "word": "建议大型犬出门叼个篮子",
+      "onboard_time": 1772445565,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74637,
       "num": 131384,
       "word": "2026年第一对意难平",
@@ -1769,6 +1873,14 @@
       "onboard_time": 1772418082,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71432,
+      "num": 167243,
+      "word": "湖南卫视元宵喜乐会节目单",
+      "onboard_time": 1772442265,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 68565,
@@ -1809,6 +1921,14 @@
       "onboard_time": 1772432183,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62781,
+      "num": 190065,
+      "word": "小鹏智驾负责人称拉开差距的时刻到了",
+      "onboard_time": 1772442805,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 61856,
@@ -1907,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37286,
+      "num": 1237553,
+      "word": "十四届全国人大四次会议发布会",
+      "onboard_time": 1772441606,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35818,
       "num": 62991,
       "word": "朱志鑫 漫步艺术回廊",
@@ -1921,14 +2049,6 @@
       "onboard_time": 1772385498,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30458,
-      "num": 1159690,
-      "word": "十四届全国人大四次会议发布会",
-      "onboard_time": 1772441606,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25745,

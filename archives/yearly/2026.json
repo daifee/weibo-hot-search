@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772442559534,
+  "endTime": 1772445622170,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2387,20 +2387,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1518889,
+      "num": 1518889,
+      "word": "莫斯科遭炸弹袭击",
+      "onboard_time": 1772441365,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1516977,
       "num": 365869,
       "word": "比尔盖茨道歉",
       "onboard_time": 1770246676,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1516621,
-      "num": 190449,
-      "word": "何健麒 造谣你都得有个谱啊",
-      "onboard_time": 1769348181,
-      "rank": 23,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
