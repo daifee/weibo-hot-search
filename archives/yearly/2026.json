@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772438722045,
+  "endTime": 1772441790860,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -457,6 +457,14 @@
       "onboard_time": 1770549860,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5933659,
+      "num": 7141850,
+      "word": "伊朗一名中国公民遇难",
+      "onboard_time": 1772438483,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 5646705,
@@ -2017,14 +2025,6 @@
       "onboard_time": 1769296396,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1638755,
-      "num": 1638755,
-      "word": "伊朗一名中国公民遇难",
-      "onboard_time": 1772438483,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1635371,
