@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772474729746,
+  "endTime": 1772478006749,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -2707,6 +2707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176056,
+      "num": 34735,
+      "word": "伊朗伊斯法罕传出巨大爆炸声",
+      "onboard_time": 1772474356,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176046,
       "num": 176046,
       "word": "文咏珊 港女保养这一块",
@@ -5387,14 +5395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39898,
-      "num": 34735,
-      "word": "伊朗伊斯法罕传出巨大爆炸声",
-      "onboard_time": 1772474356,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39799,
       "num": 111562,
       "word": "聚会豪饮2斤白酒23岁小伙喝进ICU",
@@ -5683,11 +5683,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17117,
+      "num": 28146,
+      "word": "米兰时装周",
+      "onboard_time": 1772461827,
+      "rank": 36,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 17044,
       "num": 130662,
       "word": "请姐姐姐夫三搭",
       "onboard_time": 1772431821,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16975,
+      "num": 28145,
+      "word": "刘宇宁小贝直播",
+      "onboard_time": 1772476817,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -5721,6 +5737,14 @@
       "onboard_time": 1772449225,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16092,
+      "num": 28144,
+      "word": "严浩翔开工录歌",
+      "onboard_time": 1772477775,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 11630,

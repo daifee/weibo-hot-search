@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772474729746,
+  "endTime": 1772478006749,
   "band_list": [
     {
       "raw_hot": 913630,
@@ -169,6 +169,14 @@
       "onboard_time": 1772453964,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176056,
+      "num": 34735,
+      "word": "伊朗伊斯法罕传出巨大爆炸声",
+      "onboard_time": 1772474356,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 171633,
@@ -459,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39898,
-      "num": 34735,
-      "word": "伊朗伊斯法罕传出巨大爆炸声",
-      "onboard_time": 1772474356,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37359,
       "num": 106454,
       "word": "卢昱晓短发 美萌",
@@ -505,6 +505,30 @@
       "onboard_time": 1772473456,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17117,
+      "num": 28146,
+      "word": "米兰时装周",
+      "onboard_time": 1772461827,
+      "rank": 36,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 16975,
+      "num": 28145,
+      "word": "刘宇宁小贝直播",
+      "onboard_time": 1772476817,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16092,
+      "num": 28144,
+      "word": "严浩翔开工录歌",
+      "onboard_time": 1772477775,
+      "rank": 41,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
