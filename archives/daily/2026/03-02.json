@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772431981807,
+  "endTime": 1772435545498,
   "band_list": [
     {
       "raw_hot": 9863429,
@@ -35,6 +35,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1673478,
+      "num": 249951,
+      "word": "伊朗导弹绕过拦截击中耶路撒冷",
+      "onboard_time": 1772431042,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1516084,
       "num": 1516084,
       "word": "伊朗导弹突破以色列防御系统",
@@ -49,6 +57,14 @@
       "onboard_time": 1772423964,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1292215,
+      "num": 575719,
+      "word": "刘文祥麻辣烫",
+      "onboard_time": 1772433261,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 1135456,
@@ -163,6 +179,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 654118,
+      "num": 821581,
+      "word": "海口市监局回应椰树低俗广告",
+      "onboard_time": 1772432843,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 648705,
+      "num": 249644,
+      "word": "刘文祥 紫薯精",
+      "onboard_time": 1772434404,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 647463,
       "num": 506711,
       "word": "伊朗发布击落美无人机画面",
@@ -200,6 +232,14 @@
       "word": "家属否认内贾德死亡",
       "onboard_time": 1772429963,
       "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 578620,
+      "num": 249443,
+      "word": "伊朗大量无人机列阵地下隧道",
+      "onboard_time": 1772432662,
+      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -273,14 +313,6 @@
       "onboard_time": 1772372603,
       "rank": 3,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 449327,
-      "num": 163926,
-      "word": "伊朗导弹绕过拦截击中耶路撒冷",
-      "onboard_time": 1772431042,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 446048,
@@ -483,12 +515,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265658,
+      "num": 249237,
+      "word": "迪丽热巴扛起裙摆就走了",
+      "onboard_time": 1772434342,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264402,
       "num": 174821,
       "word": "阿富汗使用重型武器打击巴基斯坦",
       "onboard_time": 1772417603,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 262090,
+      "num": 249005,
+      "word": "以色列袭击黎巴嫩致31人死",
+      "onboard_time": 1772432362,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 250637,
+      "num": 250637,
+      "word": "男子6元买彩票留店里竟然中了707万",
+      "onboard_time": 1772433683,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249094,
@@ -595,12 +651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216258,
+      "num": 216258,
+      "word": "伊朗的致命隐患是内奸",
+      "onboard_time": 1772435423,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 215225,
       "num": 215225,
       "word": "赵今麦流浪地球3造型",
       "onboard_time": 1772368104,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213508,
+      "num": 213508,
+      "word": "女装牛仔裤也没有放过王楚然",
+      "onboard_time": 1772433863,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 213191,
@@ -625,6 +697,14 @@
       "onboard_time": 1772427627,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 211587,
+      "num": 211587,
+      "word": "吴京 战狼不干这个",
+      "onboard_time": 1772433683,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 209394,
@@ -659,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192298,
+      "num": 192298,
+      "word": "小鹏第二代VLA妈妈都爱开的国民智驾",
+      "onboard_time": 1772433323,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 185303,
       "num": 160887,
       "word": "王天辰郭晓婷 这样的距离算适当吗",
@@ -672,6 +760,14 @@
       "word": "郭晓婷王天辰 第二十八年春",
       "onboard_time": 1772379265,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170606,
+      "num": 250575,
+      "word": "孙千的cp玄学又显灵了",
+      "onboard_time": 1772431764,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -713,6 +809,14 @@
       "onboard_time": 1772416223,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155204,
+      "num": 250145,
+      "word": "豆瓣发致歉信",
+      "onboard_time": 1772433742,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 155160,
@@ -859,6 +963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133027,
+      "num": 126661,
+      "word": "王楚然出个国怎么美成这样",
+      "onboard_time": 1772434102,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132506,
       "num": 132506,
       "word": "当狗咖最后一个顾客离开后",
@@ -939,12 +1051,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 109241,
+      "num": 129832,
+      "word": "在媒婆帮助下相亲有了退展",
+      "onboard_time": 1772431886,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108902,
       "num": 108902,
       "word": "王者最稀有的称号",
       "onboard_time": 1772421023,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107538,
+      "num": 107538,
+      "word": "为什么一直觉得妈妈三十多",
+      "onboard_time": 1772434222,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 105664,
@@ -995,12 +1123,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100978,
-      "num": 130879,
-      "word": "孙千的cp玄学又显灵了",
-      "onboard_time": 1772431764,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 101143,
+      "num": 101143,
+      "word": "豆瓣将对异常订单退款",
+      "onboard_time": 1772435303,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 99948,
+      "num": 99948,
+      "word": "什么样的人养什么样的猫",
+      "onboard_time": 1772434042,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 99644,
@@ -1024,6 +1160,30 @@
       "word": "库明加隔扣杨瀚森",
       "onboard_time": 1772425104,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95070,
+      "num": 213316,
+      "word": "男子烧烤店就餐发现茶壶内发霉",
+      "onboard_time": 1772434821,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94499,
+      "num": 94499,
+      "word": "猫 你怎么不等我死了才回来",
+      "onboard_time": 1772435303,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 94482,
+      "num": 131793,
+      "word": "羽毛球开始降价了",
+      "onboard_time": 1772431821,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -1057,6 +1217,14 @@
       "onboard_time": 1772430744,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 91664,
+      "num": 91664,
+      "word": "中国金球奖",
+      "onboard_time": 1772434342,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 89526,
@@ -1115,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86461,
+      "num": 86461,
+      "word": "京都动画社长去世",
+      "onboard_time": 1772434884,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 86212,
       "num": 210364,
       "word": "商务部回应英方制裁中企",
@@ -1139,12 +1315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83937,
-      "num": 129832,
-      "word": "在媒婆帮助下相亲有了退展",
-      "onboard_time": 1772431886,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 84442,
+      "num": 106164,
+      "word": "建议全民发放500元通用消费券",
+      "onboard_time": 1772435183,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82300,
@@ -1235,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74637,
+      "num": 104617,
+      "word": "2026年第一对意难平",
+      "onboard_time": 1772432722,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73479,
       "num": 80764,
       "word": "男子酒后和老婆吵架胸口撕裂40厘米",
@@ -1248,14 +1432,6 @@
       "word": "王楚钦冠军城市宣传照",
       "onboard_time": 1772418082,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 69596,
-      "num": 131793,
-      "word": "羽毛球开始降价了",
-      "onboard_time": 1772431821,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -1324,11 +1500,19 @@
     },
     {
       "raw_hot": 44516,
-      "num": 75327,
+      "num": 666628,
       "word": "2026全国两会",
       "onboard_time": 1772420723,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43211,
+      "num": 105319,
+      "word": "沈腾那时候膝盖还没积水",
+      "onboard_time": 1772434222,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 40864,
@@ -1353,6 +1537,14 @@
       "onboard_time": 1772385498,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33893,
+      "num": 212999,
+      "word": "女子称新买LV羽绒服穿3小时掉色",
+      "onboard_time": 1772434821,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23404,
