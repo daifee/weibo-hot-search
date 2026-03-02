@@ -1,0 +1,410 @@
+{
+  "runTime": 1772421426978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 949505,
+        "num": 1151920,
+        "word": "以军超100架战机空袭伊朗",
+        "onboard_time": 1772414544,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 430213,
+        "num": 847701,
+        "word": "豆瓣 薅羊毛",
+        "onboard_time": 1772416104,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55815,
+        "num": 668621,
+        "word": "从一无所有到再造山河",
+        "onboard_time": 1772420901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446048,
+        "num": 446048,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1772417722,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 400006,
+        "num": 400006,
+        "word": "陈若琳手下又有王牌选手了",
+        "onboard_time": 1772419701,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429039,
+        "num": 372926,
+        "word": "广式离职申请书",
+        "onboard_time": 1772416642,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299988,
+        "num": 299988,
+        "word": "首都机场工作人员穿上汉服",
+        "onboard_time": 1772416943,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281482,
+        "num": 281482,
+        "word": "金饰克价涨到1642元",
+        "onboard_time": 1772419701,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 271526,
+        "num": 271526,
+        "word": "椰子水",
+        "onboard_time": 1772407461,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169101,
+        "num": 268407,
+        "word": "18名中国公民顺利撤离伊朗",
+        "onboard_time": 1772418441,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 768552,
+        "num": 261380,
+        "word": "霍尔木兹海峡两侧船只集体趴窝",
+        "onboard_time": 1772419701,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 701731,
+        "num": 252684,
+        "word": "孟子义自曝两年最长只休了2天",
+        "onboard_time": 1772413583,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553376,
+        "num": 245427,
+        "word": "以军轰炸黎巴嫩首都",
+        "onboard_time": 1772415562,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 521653,
+        "num": 237960,
+        "word": "宋威龙误入直播间",
+        "onboard_time": 1772418799,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359915,
+        "num": 232154,
+        "word": "北京协和医院提出的科学减重方法",
+        "onboard_time": 1772415022,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 316894,
+        "num": 225342,
+        "word": "A股",
+        "onboard_time": 1772415803,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 287414,
+        "num": 217739,
+        "word": "俄罗斯在中东的布局被美国搅乱了",
+        "onboard_time": 1772381542,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216426,
+        "num": 216426,
+        "word": "偶遇李昀锐还合照了",
+        "onboard_time": 1772419280,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156272,
+        "num": 156272,
+        "word": "中国游客迪拜遇机场停运进退两难",
+        "onboard_time": 1772419462,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131287,
+        "num": 156138,
+        "word": "小伙腹痛CT查出肠道卡2把勺子",
+        "onboard_time": 1772375966,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 847292,
+        "num": 155924,
+        "word": "赞达亚荷兰弟已经结婚",
+        "onboard_time": 1772417722,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536159,
+        "num": 155681,
+        "word": "演员逼真到根本看不出来是AI",
+        "onboard_time": 1772408061,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299020,
+        "num": 155468,
+        "word": "伊朗导弹突破以色列防御系统",
+        "onboard_time": 1772420543,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265092,
+        "num": 155303,
+        "word": "难怪周杰伦再也没来成都开过演唱会",
+        "onboard_time": 1772407278,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155160,
+        "num": 155160,
+        "word": "浆果类水果简直是来报恩的",
+        "onboard_time": 1772415982,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235255,
+        "num": 155153,
+        "word": "亲母女嫁给了亲父子",
+        "onboard_time": 1772413824,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229330,
+        "num": 154521,
+        "word": "英法德或对伊朗采取防御行动",
+        "onboard_time": 1772412204,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200935,
+        "num": 154277,
+        "word": "阿富汗使用重型武器打击巴基斯坦",
+        "onboard_time": 1772417603,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202052,
+        "num": 153996,
+        "word": "伊朗国家电视台总部遭袭",
+        "onboard_time": 1772406439,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103800,
+        "num": 153531,
+        "word": "王曼昱比赛裤子抽丝了越抽越多",
+        "onboard_time": 1772419822,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153472,
+        "num": 153472,
+        "word": "伊朗前总统内贾德遇袭身亡",
+        "onboard_time": 1772372666,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122985,
+        "num": 122985,
+        "word": "范丞丞自曝体重63公斤",
+        "onboard_time": 1772410825,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110058,
+        "num": 110058,
+        "word": "赵今麦回应球3造型",
+        "onboard_time": 1772417603,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109984,
+        "num": 109984,
+        "word": "豆瓣200减200",
+        "onboard_time": 1772420963,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109222,
+        "num": 109222,
+        "word": "肖战故意把穿什么听成了吃什么",
+        "onboard_time": 1772409744,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108902,
+        "num": 108902,
+        "word": "王者最稀有的称号",
+        "onboard_time": 1772421023,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108486,
+        "num": 108486,
+        "word": "一家6口滞留迪拜老人缺药急需帮助",
+        "onboard_time": 1772416223,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 899840,
+        "num": 106033,
+        "word": "英法德三国联合声明",
+        "onboard_time": 1772407520,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 374550,
+        "num": 104299,
+        "word": "伊朗会不会变成下个伊拉克",
+        "onboard_time": 1772410764,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95532,
+        "num": 101812,
+        "word": "32岁男子首次带女友回家30人迎接",
+        "onboard_time": 1772420423,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100609,
+        "num": 100609,
+        "word": "elk 十月",
+        "onboard_time": 1772416104,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99644,
+        "num": 99644,
+        "word": "梅西梅开二度",
+        "onboard_time": 1772420362,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95452,
+        "num": 95452,
+        "word": "以色列陷入多线作战的战争泥潭",
+        "onboard_time": 1772372364,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89291,
+        "num": 89291,
+        "word": "七个月大宝宝主动安慰哭泣的妈妈",
+        "onboard_time": 1772413824,
+        "rank": 43,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 88454,
+        "num": 88454,
+        "word": "姐姐姐夫共创",
+        "onboard_time": 1772412324,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85463,
+        "num": 85463,
+        "word": "毕雯珺张淼怡新剧领证路透",
+        "onboard_time": 1772413643,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82520,
+        "num": 82520,
+        "word": "王楚钦孙颖莎新加坡城市宣传照",
+        "onboard_time": 1772415022,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77731,
+        "num": 77731,
+        "word": "王天辰郭晓婷吻戏",
+        "onboard_time": 1772419402,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75350,
+        "num": 75350,
+        "word": "孙颖莎王楚钦的冠军合照加一",
+        "onboard_time": 1772421143,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44516,
+        "num": 75327,
+        "word": "2026全国两会",
+        "onboard_time": 1772420723,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会故事#"
+    }
+  }
+}

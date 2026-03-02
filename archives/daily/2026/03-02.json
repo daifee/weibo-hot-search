@@ -1,6 +1,6 @@
 {
   "startTime": 1772383162207,
-  "endTime": 1772419234144,
+  "endTime": 1772421426978,
   "band_list": [
     {
       "raw_hot": 2502813,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 938849,
-      "num": 244035,
+      "num": 245427,
       "word": "以军轰炸黎巴嫩首都",
       "onboard_time": 1772415562,
       "rank": 12,
@@ -81,6 +81,14 @@
       "onboard_time": 1772413583,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 768552,
+      "num": 261380,
+      "word": "霍尔木兹海峡两侧船只集体趴窝",
+      "onboard_time": 1772419701,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 690472,
@@ -139,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 521653,
+      "num": 237960,
+      "word": "宋威龙误入直播间",
+      "onboard_time": 1772418799,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509621,
       "num": 367089,
       "word": "伊朗国家电视台总部遭袭",
@@ -179,12 +195,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 431674,
-      "num": 431674,
+      "raw_hot": 446048,
+      "num": 446048,
       "word": "霸王茶姬口令",
       "onboard_time": 1772417722,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 430213,
+      "num": 847701,
+      "word": "豆瓣 薅羊毛",
+      "onboard_time": 1772416104,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 429039,
+      "num": 372926,
+      "word": "广式离职申请书",
+      "onboard_time": 1772416642,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 402529,
@@ -193,6 +225,14 @@
       "onboard_time": 1772358442,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 400006,
+      "num": 400006,
+      "word": "陈若琳手下又有王牌选手了",
+      "onboard_time": 1772419701,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 376951,
@@ -227,8 +267,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313339,
-      "num": 212016,
+      "raw_hot": 316894,
+      "num": 225342,
       "word": "A股",
       "onboard_time": 1772415803,
       "rank": 16,
@@ -251,11 +291,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299988,
+      "num": 299988,
+      "word": "首都机场工作人员穿上汉服",
+      "onboard_time": 1772416943,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299020,
+      "num": 155468,
+      "word": "伊朗导弹突破以色列防御系统",
+      "onboard_time": 1772420543,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 286066,
       "num": 286066,
       "word": "油价",
       "onboard_time": 1772414962,
       "rank": 6,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 281482,
+      "num": 281482,
+      "word": "金饰克价涨到1642元",
+      "onboard_time": 1772419701,
+      "rank": 7,
       "category": "财经"
     },
     {
@@ -315,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216426,
+      "num": 216426,
+      "word": "偶遇李昀锐还合照了",
+      "onboard_time": 1772419280,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215225,
       "num": 215225,
       "word": "赵今麦流浪地球3造型",
@@ -339,22 +411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 207242,
-      "num": 207242,
-      "word": "宋威龙误入直播间",
-      "onboard_time": 1772418799,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 201692,
-      "num": 280660,
-      "word": "豆瓣 薅羊毛",
-      "onboard_time": 1772416104,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 185303,
       "num": 160887,
       "word": "王天辰郭晓婷 这样的距离算适当吗",
@@ -369,6 +425,14 @@
       "onboard_time": 1772379265,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169101,
+      "num": 268407,
+      "word": "18名中国公民顺利撤离伊朗",
+      "onboard_time": 1772418441,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168063,
@@ -403,12 +467,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156272,
+      "num": 156272,
+      "word": "中国游客迪拜遇机场停运进退两难",
+      "onboard_time": 1772419462,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156243,
       "num": 156243,
       "word": "一家6口滞留迪拜老人缺药急需帮助",
       "onboard_time": 1772416223,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155160,
+      "num": 155160,
+      "word": "浆果类水果简直是来报恩的",
+      "onboard_time": 1772415982,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 154154,
@@ -441,14 +521,6 @@
       "onboard_time": 1772378007,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148207,
-      "num": 148207,
-      "word": "广式离职申请书",
-      "onboard_time": 1772416642,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 148160,
@@ -531,22 +603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132339,
-      "num": 132339,
-      "word": "浆果类水果简直是来报恩的",
-      "onboard_time": 1772415982,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 132156,
-      "num": 201226,
-      "word": "首都机场工作人员穿上汉服",
-      "onboard_time": 1772416943,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124761,
       "num": 124761,
       "word": "七个月大宝宝主动安慰哭泣的妈妈",
@@ -579,6 +635,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110058,
+      "num": 110058,
+      "word": "赵今麦回应球3造型",
+      "onboard_time": 1772417603,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 109984,
+      "num": 109984,
+      "word": "豆瓣200减200",
+      "onboard_time": 1772420963,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 108902,
+      "num": 108902,
+      "word": "王者最稀有的称号",
+      "onboard_time": 1772421023,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105664,
       "num": 105664,
       "word": "郑润泽升降台事故",
@@ -601,6 +681,30 @@
       "onboard_time": 1772380704,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103800,
+      "num": 153531,
+      "word": "王曼昱比赛裤子抽丝了越抽越多",
+      "onboard_time": 1772419822,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99644,
+      "num": 99644,
+      "word": "梅西梅开二度",
+      "onboard_time": 1772420362,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95532,
+      "num": 101812,
+      "word": "32岁男子首次带女友回家30人迎接",
+      "onboard_time": 1772420423,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93415,
@@ -667,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84372,
-      "num": 84372,
-      "word": "18名中国公民顺利撤离伊朗",
-      "onboard_time": 1772418441,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 82300,
       "num": 93384,
       "word": "陈思罕镜头里的四代",
@@ -707,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77731,
+      "num": 77731,
+      "word": "王天辰郭晓婷吻戏",
+      "onboard_time": 1772419402,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77648,
       "num": 161252,
       "word": "中东冲突全面扩散",
@@ -720,6 +824,14 @@
       "word": "王楚钦男单夺冠",
       "onboard_time": 1772371764,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75350,
+      "num": 75350,
+      "word": "孙颖莎王楚钦的冠军合照加一",
+      "onboard_time": 1772421143,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -787,12 +899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55815,
+      "num": 668621,
+      "word": "从一无所有到再造山河",
+      "onboard_time": 1772420901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46647,
       "num": 160590,
       "word": "逐玉",
       "onboard_time": 1772372846,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44516,
+      "num": 75327,
+      "word": "2026全国两会",
+      "onboard_time": 1772420723,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40864,
@@ -902,6 +1030,9 @@
   "hotgov_list": [
     {
       "word": "#把产业发展落到促进农民增收上来#"
+    },
+    {
+      "word": "#习近平的两会故事#"
     }
   ]
 }
