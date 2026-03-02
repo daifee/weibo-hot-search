@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772480618215,
+  "endTime": 1772481498177,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -5667,6 +5667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17923,
+      "num": 28146,
+      "word": "米兰时装周",
+      "onboard_time": 1772461827,
+      "rank": 36,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 17658,
       "num": 33970,
       "word": "唐宫奇案之青雾风鸣",
@@ -5681,14 +5689,6 @@
       "onboard_time": 1772287825,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17257,
-      "num": 28146,
-      "word": "米兰时装周",
-      "onboard_time": 1772461827,
-      "rank": 36,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 17044,
