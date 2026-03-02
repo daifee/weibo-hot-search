@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772492117364,
+  "endTime": 1772494529457,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1211,6 +1211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 440813,
+      "num": 705175,
+      "word": "元宵节",
+      "onboard_time": 1772492838,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436764,
       "num": 326377,
       "word": "中方回应是否会对伊朗提供军事支持",
@@ -1963,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281995,
+      "num": 281995,
+      "word": "美以被曝几个月前就密谋联手打伊朗",
+      "onboard_time": 1772493079,
+      "rank": 4,
+      "category": "军事"
+    },
+    {
       "raw_hot": 281669,
       "num": 281669,
       "word": "中国有了量子手机",
@@ -2169,6 +2185,14 @@
       "onboard_time": 1772422042,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245508,
+      "num": 75394,
+      "word": "伊朗伊斯法罕传出巨大爆炸声",
+      "onboard_time": 1772474356,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 244221,
@@ -2451,14 +2475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210027,
-      "num": 41365,
-      "word": "伊朗伊斯法罕传出巨大爆炸声",
-      "onboard_time": 1772474356,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 209907,
       "num": 209907,
       "word": "伊朗拥有中东最大弹道导弹库存",
@@ -2489,6 +2505,14 @@
       "onboard_time": 1772362344,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199144,
+      "num": 156349,
+      "word": "肖战记录粉丝",
+      "onboard_time": 1772466984,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 198802,
@@ -2763,6 +2787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171353,
+      "num": 255248,
+      "word": "李静回应飞清迈陪戴军过年",
+      "onboard_time": 1772465786,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171201,
       "num": 119926,
       "word": "母亲回应18岁女儿感染多种高危HPV",
@@ -2892,7 +2924,7 @@
     },
     {
       "raw_hot": 160945,
-      "num": 107152,
+      "num": 143219,
       "word": "王安宇CELINE首位中国男大使",
       "onboard_time": 1772471300,
       "rank": 37,
@@ -2985,14 +3017,6 @@
       "onboard_time": 1772376446,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 156051,
-      "num": 156349,
-      "word": "肖战记录粉丝",
-      "onboard_time": 1772466984,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 155160,
@@ -3409,6 +3433,14 @@
       "onboard_time": 1772452824,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134136,
+      "num": 134136,
+      "word": "尘白禁区停服",
+      "onboard_time": 1772492899,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 133964,
@@ -3969,14 +4001,6 @@
       "onboard_time": 1772426246,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 109281,
-      "num": 255248,
-      "word": "李静回应飞清迈陪戴军过年",
-      "onboard_time": 1772465786,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 109269,
@@ -5123,6 +5147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59617,
+      "num": 75339,
+      "word": "美军称已有6名军人身亡",
+      "onboard_time": 1772494038,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59375,
       "num": 69104,
       "word": "天官赐福全新动画内容",
@@ -5380,7 +5412,7 @@
     },
     {
       "raw_hot": 40158,
-      "num": 47756,
+      "num": 74877,
       "word": "LV认领徐明浩",
       "onboard_time": 1772472436,
       "rank": 31,
@@ -5483,6 +5515,22 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 32661,
+      "num": 74982,
+      "word": "湖南卫视元宵晚会",
+      "onboard_time": 1772493499,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31818,
+      "num": 74942,
+      "word": "米兰时装周",
+      "onboard_time": 1772461827,
+      "rank": 36,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 30849,
       "num": 118413,
       "word": "肖战说米兰最好吃的是披萨",
@@ -5497,6 +5545,14 @@
       "onboard_time": 1772447185,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30235,
+      "num": 74849,
+      "word": "尘白禁区停机维护",
+      "onboard_time": 1772493980,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 30121,
@@ -5529,14 +5585,6 @@
       "onboard_time": 1772473037,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28091,
-      "num": 41352,
-      "word": "米兰时装周",
-      "onboard_time": 1772461827,
-      "rank": 36,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 27658,
@@ -5635,6 +5683,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22140,
+      "num": 74577,
+      "word": "2026全球先锋赛",
+      "onboard_time": 1772494220,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 21249,
+      "num": 74490,
+      "word": "刘宇宁小贝直播",
+      "onboard_time": 1772476817,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21090,
       "num": 141447,
       "word": "女子回娘家带大鹅开车8小时叫一路",
@@ -5704,14 +5768,6 @@
       "word": "请姐姐姐夫三搭",
       "onboard_time": 1772431821,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 16975,
-      "num": 41109,
-      "word": "刘宇宁小贝直播",
-      "onboard_time": 1772476817,
-      "rank": 37,
       "category": "剧集"
     },
     {

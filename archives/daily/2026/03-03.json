@@ -1,7 +1,15 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772492117364,
+  "endTime": 1772494529457,
   "band_list": [
+    {
+      "raw_hot": 917459,
+      "num": 941863,
+      "word": "伊朗导弹击中美第五舰队总部瞬间",
+      "onboard_time": 1772446103,
+      "rank": 12,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 913630,
       "num": 1137864,
@@ -43,14 +51,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 518512,
-      "num": 608587,
-      "word": "伊朗导弹击中美第五舰队总部瞬间",
-      "onboard_time": 1772446103,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 464045,
       "num": 227723,
       "word": "iPhone17e浅粉色",
@@ -65,6 +65,14 @@
       "onboard_time": 1772462546,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 440813,
+      "num": 705175,
+      "word": "元宵节",
+      "onboard_time": 1772492838,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372816,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281995,
+      "num": 281995,
+      "word": "美以被曝几个月前就密谋联手打伊朗",
+      "onboard_time": 1772493079,
+      "rank": 4,
+      "category": "军事"
+    },
+    {
       "raw_hot": 281669,
       "num": 281669,
       "word": "中国有了量子手机",
@@ -155,12 +171,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 210027,
-      "num": 41365,
+      "raw_hot": 245508,
+      "num": 75394,
       "word": "伊朗伊斯法罕传出巨大爆炸声",
       "onboard_time": 1772474356,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199144,
+      "num": 156349,
+      "word": "肖战记录粉丝",
+      "onboard_time": 1772466984,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 198358,
@@ -187,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171353,
+      "num": 156332,
+      "word": "李静回应飞清迈陪戴军过年",
+      "onboard_time": 1772465786,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168211,
       "num": 168211,
       "word": "被女子扔玩具车撞伤妈妈发声",
@@ -204,19 +236,19 @@
     },
     {
       "raw_hot": 160945,
-      "num": 107152,
+      "num": 143219,
       "word": "王安宇CELINE首位中国男大使",
       "onboard_time": 1772471300,
       "rank": 37,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 156051,
-      "num": 156349,
-      "word": "肖战记录粉丝",
-      "onboard_time": 1772466984,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 134136,
+      "num": 134136,
+      "word": "尘白禁区停服",
+      "onboard_time": 1772492899,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 128364,
@@ -265,14 +297,6 @@
       "onboard_time": 1772444005,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109281,
-      "num": 156332,
-      "word": "李静回应飞清迈陪戴军过年",
-      "onboard_time": 1772465786,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 106008,
@@ -411,20 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59617,
+      "num": 75339,
+      "word": "美军称已有6名军人身亡",
+      "onboard_time": 1772494038,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 59455,
+      "num": 107472,
+      "word": "红楼梦 宝玉宝钗演员争论",
+      "onboard_time": 1772452645,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53056,
       "num": 809660,
       "word": "598名女性获全国三八红旗手称号",
       "onboard_time": 1772460686,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 50291,
-      "num": 107472,
-      "word": "红楼梦 宝玉宝钗演员争论",
-      "onboard_time": 1772452645,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 50259,
@@ -460,7 +492,7 @@
     },
     {
       "raw_hot": 40158,
-      "num": 47756,
+      "num": 74877,
       "word": "LV认领徐明浩",
       "onboard_time": 1772472436,
       "rank": 31,
@@ -483,20 +515,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32661,
+      "num": 74982,
+      "word": "湖南卫视元宵晚会",
+      "onboard_time": 1772493499,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31818,
+      "num": 74942,
+      "word": "米兰时装周",
+      "onboard_time": 1772461827,
+      "rank": 36,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 30235,
+      "num": 74849,
+      "word": "尘白禁区停机维护",
+      "onboard_time": 1772493980,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 28427,
       "num": 47741,
       "word": "但愿人长久",
       "onboard_time": 1772473037,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28091,
-      "num": 41352,
-      "word": "米兰时装周",
-      "onboard_time": 1772461827,
-      "rank": 36,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 25095,
@@ -523,8 +571,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16975,
-      "num": 41109,
+      "raw_hot": 22140,
+      "num": 74577,
+      "word": "2026全球先锋赛",
+      "onboard_time": 1772494220,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 21249,
+      "num": 74490,
       "word": "刘宇宁小贝直播",
       "onboard_time": 1772476817,
       "rank": 37,
