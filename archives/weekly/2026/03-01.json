@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772471575310,
+  "endTime": 1772474079360,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -2883,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160945,
+      "num": 107152,
+      "word": "王安宇CELINE首位中国男大使",
+      "onboard_time": 1772471300,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 160878,
       "num": 187538,
       "word": "坐在医院等结果突然被塞手里一个小孩",
@@ -5379,20 +5387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39770,
-      "num": 107152,
-      "word": "王安宇CELINE首位中国男大使",
-      "onboard_time": 1772471300,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 39140,
       "num": 133454,
       "word": "麻辣拌界史铁生称两眼一睁就是拌",
       "onboard_time": 1772293583,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37359,
+      "num": 106454,
+      "word": "卢昱晓短发 美萌",
+      "onboard_time": 1772470639,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 37286,
@@ -5408,6 +5416,14 @@
       "word": "朱志鑫 漫步艺术回廊",
       "onboard_time": 1772383520,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35569,
+      "num": 47756,
+      "word": "LV认领徐明浩",
+      "onboard_time": 1772472436,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -5459,14 +5475,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 32211,
-      "num": 106454,
-      "word": "卢昱晓短发 美萌",
-      "onboard_time": 1772470639,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30849,
       "num": 118413,
       "word": "肖战说米兰最好吃的是披萨",
@@ -5505,6 +5513,14 @@
       "onboard_time": 1772283145,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28427,
+      "num": 47741,
+      "word": "但愿人长久",
+      "onboard_time": 1772473037,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 27658,
@@ -5585,6 +5601,14 @@
       "onboard_time": 1772372726,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21936,
+      "num": 47714,
+      "word": "元宵晚会你最期待谁的舞台",
+      "onboard_time": 1772473456,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 21090,
