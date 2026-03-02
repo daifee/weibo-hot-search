@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772427343053,
+  "endTime": 1772427840108,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -155,6 +155,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 9863429,
+      "num": 9863429,
+      "word": "李雨桐喊话薛之谦",
+      "onboard_time": 1772422521,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9718329,
       "num": 9718329,
       "word": "王一博 中山装",
@@ -217,14 +225,6 @@
       "onboard_time": 1768729460,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 9319006,
-      "num": 9319006,
-      "word": "李雨桐喊话薛之谦",
-      "onboard_time": 1772422521,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 9286837,
