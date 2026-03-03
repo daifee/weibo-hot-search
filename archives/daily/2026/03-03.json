@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772528949067,
+  "endTime": 1772531685766,
   "band_list": [
     {
       "raw_hot": 14299027,
@@ -123,6 +123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 760459,
+      "num": 318077,
+      "word": "迪奥官宣王楚然",
+      "onboard_time": 1772530766,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 754712,
       "num": 754712,
       "word": "刘文祥麻辣烫",
@@ -131,12 +139,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 717145,
+      "num": 854117,
+      "word": "谢霆锋 叫王菲才理人",
+      "onboard_time": 1772528368,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 686511,
       "num": 860488,
       "word": "刘文祥麻辣烫暂停新合作",
       "onboard_time": 1772507906,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 685415,
+      "num": 1109666,
+      "word": "油价或涨超70%",
+      "onboard_time": 1772529807,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 661362,
@@ -387,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301298,
+      "num": 318906,
+      "word": "伊朗纳坦兹核设施遭破坏",
+      "onboard_time": 1772531067,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 299987,
       "num": 299987,
       "word": "中方回应特朗普3月访华能否成行",
@@ -409,6 +441,14 @@
       "onboard_time": 1772512767,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290807,
+      "num": 317833,
+      "word": "舅舅去世舅妈向正月理发外甥索赔百万",
+      "onboard_time": 1772530766,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284961,
@@ -555,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226143,
+      "num": 854976,
+      "word": "以为是正缘来了没想到是血缘",
+      "onboard_time": 1772525370,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221817,
       "num": 858294,
       "word": "以前谈恋爱QQ是要关联的",
@@ -585,6 +633,14 @@
       "onboard_time": 1772520085,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200162,
+      "num": 846438,
+      "word": "2009与2025麦当劳对比",
+      "onboard_time": 1772528247,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 198358,
@@ -633,14 +689,6 @@
       "onboard_time": 1772528008,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 187269,
-      "num": 854976,
-      "word": "以为是正缘来了没想到是血缘",
-      "onboard_time": 1772525370,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 180097,
@@ -721,14 +769,6 @@
       "onboard_time": 1772462726,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 163406,
-      "num": 854117,
-      "word": "谢霆锋 叫王菲才理人",
-      "onboard_time": 1772528368,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 162002,
@@ -939,6 +979,14 @@
       "category": "美妆,作品衍生"
     },
     {
+      "raw_hot": 124779,
+      "num": 842173,
+      "word": "短剧演员就业寒冬",
+      "onboard_time": 1772528846,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123371,
       "num": 209352,
       "word": "张凌赫田曦薇亲脸花絮",
@@ -961,6 +1009,14 @@
       "onboard_time": 1772520808,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 121008,
+      "num": 318433,
+      "word": "深圳租金涨了",
+      "onboard_time": 1772529807,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120674,
@@ -1051,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108849,
+      "num": 318286,
+      "word": "何同学说荣耀MagicV6确实非常不错",
+      "onboard_time": 1772530766,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 108408,
       "num": 220030,
       "word": "王天辰被叫姐夫后暗爽",
@@ -1097,6 +1161,14 @@
       "onboard_time": 1772463505,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104186,
+      "num": 317151,
+      "word": "韩国股市暴跌7.24%",
+      "onboard_time": 1772529866,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 103275,
@@ -1155,6 +1227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 99463,
+      "num": 848290,
+      "word": "建议家暴情形不适用离婚冷静期",
+      "onboard_time": 1772527228,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 99424,
       "num": 156354,
       "word": "杨超越 末世文女主",
@@ -1169,14 +1249,6 @@
       "onboard_time": 1772520866,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 98856,
-      "num": 848290,
-      "word": "建议家暴情形不适用离婚冷静期",
-      "onboard_time": 1772527228,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 98607,
@@ -1227,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92503,
+      "num": 316687,
+      "word": "朴山多拉方否认吸毒",
+      "onboard_time": 1772530408,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91933,
       "num": 156341,
       "word": "宋雨琦被詹姆斯比心",
@@ -1241,6 +1321,14 @@
       "onboard_time": 1772511267,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91340,
+      "num": 317971,
+      "word": "元宵节赏月全食太浪漫了",
+      "onboard_time": 1772530286,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90691,
@@ -1299,14 +1387,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 82886,
-      "num": 846438,
-      "word": "2009与2025麦当劳对比",
-      "onboard_time": 1772528247,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 82302,
       "num": 156354,
       "word": "女子公园放养10天宠物鸭毫发无损",
@@ -1337,6 +1417,14 @@
       "onboard_time": 1772461888,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81611,
+      "num": 316576,
+      "word": "对方紧急撤回了6只企鹅",
+      "onboard_time": 1772527888,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 81037,
@@ -1371,12 +1459,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 78778,
+      "num": 316453,
+      "word": "ADOR将删除Danielle聊天记录",
+      "onboard_time": 1772529086,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78659,
       "num": 301786,
       "word": "iPhone17e官网对比机型为iPhone11",
       "onboard_time": 1772527168,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 78385,
+      "num": 316394,
+      "word": "短剧女主 时尚资源",
+      "onboard_time": 1772531368,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 78017,
@@ -1435,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74996,
+      "num": 316237,
+      "word": "现身凤凰传奇演唱会的副市长获表彰",
+      "onboard_time": 1772530467,
+      "rank": 44,
+      "category": "民生新闻,演出"
+    },
+    {
       "raw_hot": 74404,
       "num": 288173,
       "word": "政协大会主要议程",
@@ -1451,12 +1563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73189,
-      "num": 301514,
-      "word": "对方紧急撤回了6只企鹅",
-      "onboard_time": 1772527888,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 73004,
+      "num": 316106,
+      "word": "被惦记的每一天都是惊喜",
+      "onboard_time": 1772531247,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 72827,
@@ -1489,6 +1601,14 @@
       "onboard_time": 1772528787,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 70736,
+      "num": 316018,
+      "word": "炒方便面秘诀",
+      "onboard_time": 1772529628,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 70694,
@@ -1545,6 +1665,22 @@
       "onboard_time": 1772499444,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68559,
+      "num": 315979,
+      "word": "泰星MAi自曝脸部花费几百万",
+      "onboard_time": 1772531428,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67865,
+      "num": 315858,
+      "word": "有用户反馈向您误转30元",
+      "onboard_time": 1772531607,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 67726,
@@ -1635,6 +1771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64546,
+      "num": 316783,
+      "word": "建议提升教师待遇保障水平",
+      "onboard_time": 1772531548,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64253,
       "num": 218121,
       "word": "你听过最离谱的空耳",
@@ -1657,14 +1801,6 @@
       "onboard_time": 1772447483,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62733,
-      "num": 842173,
-      "word": "短剧演员就业寒冬",
-      "onboard_time": 1772528846,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 62660,
@@ -1737,6 +1873,14 @@
       "onboard_time": 1772460686,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52697,
+      "num": 317460,
+      "word": "HPV可不仅仅跟宫颈癌有关",
+      "onboard_time": 1772530766,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 51654,
