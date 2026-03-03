@@ -1,6 +1,6 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772561185103,
+  "endTime": 1772564556476,
   "band_list": [
     {
       "raw_hot": 750125,
@@ -435,6 +435,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 37907,
+      "num": 258048,
+      "word": "以为李柯以是跨界结果是老本行",
+      "onboard_time": 1772560997,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32991,
+      "num": 258042,
+      "word": "金饰克价突破1660元",
+      "onboard_time": 1772559378,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 30595,
       "num": 365798,
       "word": "王曼昱的元宵节祝福",
@@ -443,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28155,
-      "num": 258048,
-      "word": "以为李柯以是跨界结果是老本行",
-      "onboard_time": 1772560997,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 28834,
+      "num": 60427,
+      "word": "伊朗选举最高领袖的机构遭袭",
+      "onboard_time": 1772564056,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25253,
@@ -459,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20646,
-      "num": 258042,
-      "word": "金饰克价突破1660元",
-      "onboard_time": 1772559378,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 20617,
       "num": 227319,
       "word": "建议保障小学每周5节体育课",
@@ -475,12 +483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20325,
+      "num": 60833,
+      "word": "罗云熙壁上观舞美",
+      "onboard_time": 1772563276,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15347,
       "num": 367014,
       "word": "建议建立长期护理保险制度",
       "onboard_time": 1772552848,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13668,
+      "num": 60157,
+      "word": "周深梦见你好听",
+      "onboard_time": 1772544509,
+      "rank": 45,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

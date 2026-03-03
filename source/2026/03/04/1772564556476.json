@@ -1,0 +1,410 @@
+{
+  "runTime": 1772564556476,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 92878,
+        "num": 92878,
+        "word": "12306回应乘客在高铁上用排插",
+        "onboard_time": 1772554527,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36663,
+        "num": 92763,
+        "word": "DIOR大秀",
+        "onboard_time": 1772544270,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 10718,
+        "num": 92584,
+        "word": "2026全国两会这些看点值得关注",
+        "onboard_time": 1772544450,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65686,
+        "num": 92431,
+        "word": "金价银价断崖式跳水",
+        "onboard_time": 1772528549,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34765,
+        "num": 92200,
+        "word": "元宵晚会 好看",
+        "onboard_time": 1772541150,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92100,
+        "num": 92100,
+        "word": "美以伊最新局势",
+        "onboard_time": 1772552189,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54513,
+        "num": 90604,
+        "word": "世界油阀关闭",
+        "onboard_time": 1772521105,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25288,
+        "num": 89897,
+        "word": "穆祉丞白龙马好可爱",
+        "onboard_time": 1772539531,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24166,
+        "num": 88019,
+        "word": "元宵晚会四美",
+        "onboard_time": 1772545952,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21478,
+        "num": 87407,
+        "word": "月全食",
+        "onboard_time": 1772533406,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85972,
+        "num": 85972,
+        "word": "伊朗最高领袖选举机构办公楼遭袭",
+        "onboard_time": 1772550330,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60843,
+        "num": 60843,
+        "word": "迪奥官宣王楚然",
+        "onboard_time": 1772530766,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20325,
+        "num": 60833,
+        "word": "罗云熙壁上观舞美",
+        "onboard_time": 1772563276,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55555,
+        "num": 60821,
+        "word": "单亲爸爸打铁花成网红中毒离世",
+        "onboard_time": 1772551169,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48004,
+        "num": 60782,
+        "word": "住酒店三年还被员工蛐蛐",
+        "onboard_time": 1772545229,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40922,
+        "num": 60781,
+        "word": "金鹤龙把王菊化成刘亦菲了",
+        "onboard_time": 1772547271,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39404,
+        "num": 60754,
+        "word": "伦敦机场18小时未进食求助女子发声",
+        "onboard_time": 1772555485,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39185,
+        "num": 60721,
+        "word": "金智秀 迪奥公主",
+        "onboard_time": 1772547152,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31865,
+        "num": 60716,
+        "word": "痞幼直播关美颜",
+        "onboard_time": 1772533706,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 27631,
+        "num": 60693,
+        "word": "麦当劳CEO试吃自家汉堡",
+        "onboard_time": 1772552427,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29530,
+        "num": 60678,
+        "word": "龙洋眼妆",
+        "onboard_time": 1772555126,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49769,
+        "num": 60645,
+        "word": "王毅和以色列外长通电话",
+        "onboard_time": 1772545229,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37907,
+        "num": 60627,
+        "word": "以为李柯以是跨界结果是老本行",
+        "onboard_time": 1772560997,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46337,
+        "num": 60605,
+        "word": "伊朗南部阿巴斯港等地遭密集空袭",
+        "onboard_time": 1772559859,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32991,
+        "num": 60579,
+        "word": "金饰克价突破1660元",
+        "onboard_time": 1772559378,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31428,
+        "num": 60573,
+        "word": "美首都集会抗议美以对伊朗动武",
+        "onboard_time": 1772540731,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22241,
+        "num": 60553,
+        "word": "杨幂元宵祈福",
+        "onboard_time": 1772553327,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27963,
+        "num": 60530,
+        "word": "伊朗称向美航母发射4枚巡航导弹",
+        "onboard_time": 1772526447,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21989,
+        "num": 60512,
+        "word": "穆祉丞王橹杰跨代隐藏卡",
+        "onboard_time": 1772532866,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14044,
+        "num": 60496,
+        "word": "人大代表建议元宵节重阳节放假",
+        "onboard_time": 1772541871,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37271,
+        "num": 60462,
+        "word": "王毅要求以方确保中国人员机构安全",
+        "onboard_time": 1772551588,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23760,
+        "num": 60448,
+        "word": "驻迪拜总领馆专人跟踪特别紧急求助案",
+        "onboard_time": 1772556563,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28834,
+        "num": 60427,
+        "word": "伊朗选举最高领袖的机构遭袭",
+        "onboard_time": 1772564056,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21979,
+        "num": 60403,
+        "word": "369为TES野辅发声",
+        "onboard_time": 1772534608,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20818,
+        "num": 60386,
+        "word": "山姆1.38公斤冰块卖37.9元",
+        "onboard_time": 1772547931,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19158,
+        "num": 60357,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1772538629,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19051,
+        "num": 60345,
+        "word": "刘宇宁魏晨 舞台走位",
+        "onboard_time": 1772544211,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18276,
+        "num": 60316,
+        "word": "华晨宇好稳",
+        "onboard_time": 1772551108,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17630,
+        "num": 60295,
+        "word": "元宵红包",
+        "onboard_time": 1772541091,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11823,
+        "num": 60285,
+        "word": "银价突发跳水原因",
+        "onboard_time": 1772550449,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17431,
+        "num": 60266,
+        "word": "黄金跌破5100美元",
+        "onboard_time": 1772539710,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16527,
+        "num": 60240,
+        "word": "妻子要离婚丈夫要求返还10万元彩礼",
+        "onboard_time": 1772547752,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15592,
+        "num": 60212,
+        "word": "檀健次好可爱的汤圆",
+        "onboard_time": 1772543968,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14347,
+        "num": 60208,
+        "word": "41岁打铁花网红一氧化碳中毒去世",
+        "onboard_time": 1772551228,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14103,
+        "num": 60186,
+        "word": "黄金白银跌不停",
+        "onboard_time": 1772546972,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13668,
+        "num": 60157,
+        "word": "周深梦见你好听",
+        "onboard_time": 1772544509,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13239,
+        "num": 60137,
+        "word": "TFING唱了Heart",
+        "onboard_time": 1772549131,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13238,
+        "num": 60125,
+        "word": "Jonathan的Dior新Vibe",
+        "onboard_time": 1772553327,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 9309,
+        "num": 60100,
+        "word": "王曼昱的元宵节祝福",
+        "onboard_time": 1772547090,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8587,
+        "num": 60084,
+        "word": "建议提升教师待遇保障水平",
+        "onboard_time": 1772531548,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两会上关心的那些事#"
+    }
+  }
+}
