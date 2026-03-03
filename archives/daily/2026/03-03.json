@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772505812927,
+  "endTime": 1772508070178,
   "band_list": [
     {
       "raw_hot": 14299027,
@@ -9,6 +9,22 @@
       "onboard_time": 1772501906,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2702084,
+      "num": 2702084,
+      "word": "种地吧4开工直播",
+      "onboard_time": 1772507064,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1477628,
+      "num": 842211,
+      "word": "种地吧",
+      "onboard_time": 1772466984,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 948554,
@@ -43,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 763938,
+      "num": 1004847,
+      "word": "红果停了很多项目",
+      "onboard_time": 1772503166,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 754712,
       "num": 754712,
       "word": "刘文祥麻辣烫",
@@ -51,16 +75,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 729042,
-      "num": 818290,
-      "word": "红果停了很多项目",
-      "onboard_time": 1772503166,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 613557,
-      "num": 185827,
+      "num": 228700,
       "word": "A股",
       "onboard_time": 1772504666,
       "rank": 11,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 540207,
-      "num": 170837,
+      "num": 217651,
       "word": "弦子报平安",
       "onboard_time": 1772462966,
       "rank": 20,
@@ -155,16 +171,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 330560,
-      "num": 842211,
-      "word": "种地吧",
-      "onboard_time": 1772466984,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 323894,
-      "num": 181079,
+      "num": 225849,
       "word": "戒糖加跳绳5个月威力有多大",
       "onboard_time": 1772498844,
       "rank": 12,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 318891,
-      "num": 172616,
+      "num": 230475,
       "word": "杨幂说女孩子要多吃berry",
       "onboard_time": 1772503767,
       "rank": 13,
@@ -227,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 265757,
+      "num": 265757,
+      "word": "白日提灯",
+      "onboard_time": 1772506404,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264621,
       "num": 207884,
       "word": "张峻豪发巧克力",
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 219372,
-      "num": 219372,
+      "num": 225119,
       "word": "女子蹭完WiFi借钱被拒掀翻店家桌子",
       "onboard_time": 1772502026,
       "rank": 7,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 178916,
-      "num": 167748,
+      "num": 222093,
       "word": "iPhone最便宜新机来了",
       "onboard_time": 1772499806,
       "rank": 20,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 170383,
-      "num": 170383,
+      "num": 224006,
       "word": "保镖对IU和曹承衍的表情差异",
       "onboard_time": 1772504007,
       "rank": 14,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 169492,
-      "num": 169492,
+      "num": 225230,
       "word": "以色列空袭黎巴嫩52死154伤",
       "onboard_time": 1772497341,
       "rank": 15,
@@ -347,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162002,
+      "num": 225470,
+      "word": "谷爱凌去德云社听相声了",
+      "onboard_time": 1772507305,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160945,
       "num": 167477,
       "word": "王安宇CELINE首位中国男大使",
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 159940,
-      "num": 199862,
+      "num": 218904,
       "word": "霸王茶姬答案",
       "onboard_time": 1772503465,
       "rank": 9,
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 159492,
-      "num": 167824,
+      "num": 224281,
       "word": "伊朗一医院遭袭后画面",
       "onboard_time": 1772501786,
       "rank": 17,
@@ -380,39 +404,47 @@
     },
     {
       "raw_hot": 145608,
-      "num": 167674,
+      "num": 219637,
       "word": "黄金白银双双快速跳水",
       "onboard_time": 1772495361,
       "rank": 20,
       "category": "财经"
     },
     {
+      "raw_hot": 143716,
+      "num": 220655,
+      "word": "中国石油再度涨停",
+      "onboard_time": 1772507547,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134907,
-      "num": 167794,
+      "num": 220432,
       "word": "两会",
       "onboard_time": 1772501727,
       "rank": 18,
       "category": "国内时政"
     },
     {
-      "raw_hot": 133909,
-      "num": 167775,
-      "word": "美国驻沙特大使馆遭袭起火",
-      "onboard_time": 1772504369,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 133583,
-      "num": 167735,
+      "raw_hot": 134065,
+      "num": 223704,
       "word": "以伊代表在联合国隔空交锋",
       "onboard_time": 1772503946,
       "rank": 21,
       "category": "国际时政"
     },
     {
+      "raw_hot": 133909,
+      "num": 223322,
+      "word": "美国驻沙特大使馆遭袭起火",
+      "onboard_time": 1772504369,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131614,
-      "num": 167706,
+      "num": 221922,
       "word": "汤圆",
       "onboard_time": 1772498003,
       "rank": 22,
@@ -427,8 +459,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125969,
+      "num": 223452,
+      "word": "肖战试衣服时的表情",
+      "onboard_time": 1772506284,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125608,
-      "num": 167683,
+      "num": 221110,
       "word": "巴黎时装周",
       "onboard_time": 1772504546,
       "rank": 23,
@@ -441,6 +481,22 @@
       "onboard_time": 1772464585,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 115007,
+      "num": 223011,
+      "word": "无限暖暖",
+      "onboard_time": 1772507547,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 114132,
+      "num": 222928,
+      "word": "尚公主",
+      "onboard_time": 1772506046,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 113101,
@@ -476,7 +532,7 @@
     },
     {
       "raw_hot": 108408,
-      "num": 167639,
+      "num": 220030,
       "word": "王天辰被叫姐夫后暗爽",
       "onboard_time": 1772502328,
       "rank": 25,
@@ -515,6 +571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102982,
+      "num": 221537,
+      "word": "孙颖莎吐槽鲨鱼游得慢",
+      "onboard_time": 1772507187,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100821,
+      "num": 221458,
+      "word": "汤圆 元宵",
+      "onboard_time": 1772507128,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 99583,
       "num": 167265,
       "word": "全国中小学新学期迎来多项新变化",
@@ -532,7 +604,7 @@
     },
     {
       "raw_hot": 98607,
-      "num": 167571,
+      "num": 219132,
       "word": "30多岁男子总觉脚冷险遭截肢",
       "onboard_time": 1772495842,
       "rank": 28,
@@ -561,6 +633,14 @@
       "onboard_time": 1772500165,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89467,
+      "num": 220785,
+      "word": "拼豆人有自己的大疆",
+      "onboard_time": 1772505867,
+      "rank": 35,
+      "category": "休闲"
     },
     {
       "raw_hot": 89446,
@@ -595,8 +675,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81369,
+      "num": 220256,
+      "word": "刘文祥麻辣烫暂停新合作",
+      "onboard_time": 1772507906,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 81037,
-      "num": 167503,
+      "num": 218615,
       "word": "终于懂什么叫社交圣母症了",
       "onboard_time": 1772495361,
       "rank": 35,
@@ -619,6 +707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76066,
+      "num": 219371,
+      "word": "我的山与海定档",
+      "onboard_time": 1772507845,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74284,
       "num": 156314,
       "word": "陈浩民夫妇滞留阿联酋",
@@ -628,7 +724,7 @@
     },
     {
       "raw_hot": 72223,
-      "num": 167414,
+      "num": 217903,
       "word": "苹果推出大量粉色配件",
       "onboard_time": 1772496502,
       "rank": 36,
@@ -739,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64253,
+      "num": 218121,
+      "word": "你听过最离谱的空耳",
+      "onboard_time": 1772506466,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 63906,
       "num": 156289,
       "word": "WBG战胜TES",
@@ -763,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61658,
+      "num": 217443,
+      "word": "小猫看得出左手跟右手不太熟",
+      "onboard_time": 1772508025,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60608,
       "num": 156280,
       "word": "冯琳 气人",
@@ -777,6 +889,14 @@
       "onboard_time": 1772460686,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50864,
+      "num": 222494,
+      "word": "建议治理农村精智障女性被逼婚问题",
+      "onboard_time": 1772507906,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50259,
@@ -835,12 +955,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37063,
+      "num": 224680,
+      "word": "娘家人带一卡车牛羊来看望出嫁女子",
+      "onboard_time": 1772507245,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36798,
       "num": 106714,
       "word": "纯真年代的爱情",
       "onboard_time": 1772451925,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35197,
+      "num": 256671,
+      "word": "建议减少内卷式加班",
+      "onboard_time": 1772507245,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34611,
@@ -875,6 +1011,14 @@
       "category": "作品衍生,剧集"
     },
     {
+      "raw_hot": 24753,
+      "num": 222303,
+      "word": "今年你期待谁的演唱会",
+      "onboard_time": 1772507064,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22658,
       "num": 41288,
       "word": "今天元宵节",
@@ -905,6 +1049,22 @@
       "onboard_time": 1772476817,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20486,
+      "num": 820628,
+      "word": "90秒看懂全国两会重要知识点",
+      "onboard_time": 1772507485,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 18348,
+      "num": 224402,
+      "word": "催开门电话打爆河南水煎包店主手机",
+      "onboard_time": 1772507845,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16092,
@@ -950,6 +1110,9 @@
   "hotgov_list": [
     {
       "word": "#最燃的接力#"
+    },
+    {
+      "word": "#这就是中国精神#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1772508070178,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2702084,
+        "num": 2702084,
+        "word": "种地吧4开工直播",
+        "onboard_time": 1772507064,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 763938,
+        "num": 1004847,
+        "word": "红果停了很多项目",
+        "onboard_time": 1772503166,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20486,
+        "num": 820628,
+        "word": "90秒看懂全国两会重要知识点",
+        "onboard_time": 1772507485,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1477628,
+        "num": 793050,
+        "word": "种地吧",
+        "onboard_time": 1772466984,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614184,
+        "num": 614184,
+        "word": "越来越多国家被卷入中东冲突",
+        "onboard_time": 1772495781,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300555,
+        "num": 300555,
+        "word": "元宵节",
+        "onboard_time": 1772492838,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309745,
+        "num": 289676,
+        "word": "伊朗发起第13轮攻击",
+        "onboard_time": 1772496684,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265757,
+        "num": 265757,
+        "word": "白日提灯",
+        "onboard_time": 1772506404,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211550,
+        "num": 260268,
+        "word": "火车硬座惊现上下铺",
+        "onboard_time": 1772498964,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35197,
+        "num": 256671,
+        "word": "建议减少内卷式加班",
+        "onboard_time": 1772507245,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12654488,
+        "num": 12654488,
+        "word": "谢娜喊话薛之谦",
+        "onboard_time": 1772501906,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326666,
+        "num": 236463,
+        "word": "当地通报母亲去世后被结婚",
+        "onboard_time": 1772499927,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280070,
+        "num": 230475,
+        "word": "杨幂说女孩子要多吃berry",
+        "onboard_time": 1772503767,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228700,
+        "num": 228700,
+        "word": "A股",
+        "onboard_time": 1772504666,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225849,
+        "num": 225849,
+        "word": "戒糖加跳绳5个月威力有多大",
+        "onboard_time": 1772498844,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 164531,
+        "num": 225692,
+        "word": "iPhone17e浅粉色",
+        "onboard_time": 1772466264,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162002,
+        "num": 225470,
+        "word": "谷爱凌去德云社听相声了",
+        "onboard_time": 1772507305,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154835,
+        "num": 225230,
+        "word": "以色列空袭黎巴嫩52死154伤",
+        "onboard_time": 1772497341,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133672,
+        "num": 225119,
+        "word": "女子蹭完WiFi借钱被拒掀翻店家桌子",
+        "onboard_time": 1772502026,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37063,
+        "num": 224680,
+        "word": "娘家人带一卡车牛羊来看望出嫁女子",
+        "onboard_time": 1772507245,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18348,
+        "num": 224402,
+        "word": "催开门电话打爆河南水煎包店主手机",
+        "onboard_time": 1772507845,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142567,
+        "num": 224281,
+        "word": "伊朗一医院遭袭后画面",
+        "onboard_time": 1772501786,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127851,
+        "num": 224006,
+        "word": "保镖对IU和曹承衍的表情差异",
+        "onboard_time": 1772504007,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134065,
+        "num": 223704,
+        "word": "以伊代表在联合国隔空交锋",
+        "onboard_time": 1772503946,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125969,
+        "num": 223452,
+        "word": "肖战试衣服时的表情",
+        "onboard_time": 1772506284,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124240,
+        "num": 223322,
+        "word": "美国驻沙特大使馆遭袭起火",
+        "onboard_time": 1772504369,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115007,
+        "num": 223011,
+        "word": "无限暖暖",
+        "onboard_time": 1772507547,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114132,
+        "num": 222928,
+        "word": "尚公主",
+        "onboard_time": 1772506046,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50864,
+        "num": 222494,
+        "word": "建议治理农村精智障女性被逼婚问题",
+        "onboard_time": 1772507906,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24753,
+        "num": 222303,
+        "word": "今年你期待谁的演唱会",
+        "onboard_time": 1772507064,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110268,
+        "num": 222093,
+        "word": "iPhone最便宜新机来了",
+        "onboard_time": 1772499806,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109303,
+        "num": 221922,
+        "word": "汤圆",
+        "onboard_time": 1772498003,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102982,
+        "num": 221537,
+        "word": "孙颖莎吐槽鲨鱼游得慢",
+        "onboard_time": 1772507187,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100821,
+        "num": 221458,
+        "word": "汤圆 元宵",
+        "onboard_time": 1772507128,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96626,
+        "num": 221110,
+        "word": "巴黎时装周",
+        "onboard_time": 1772504546,
+        "rank": 34,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 89467,
+        "num": 220785,
+        "word": "拼豆人有自己的大疆",
+        "onboard_time": 1772505867,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 143716,
+        "num": 220655,
+        "word": "中国石油再度涨停",
+        "onboard_time": 1772507547,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86162,
+        "num": 220432,
+        "word": "两会",
+        "onboard_time": 1772501727,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81369,
+        "num": 220256,
+        "word": "刘文祥麻辣烫暂停新合作",
+        "onboard_time": 1772507906,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 80873,
+        "num": 220030,
+        "word": "王天辰被叫姐夫后暗爽",
+        "onboard_time": 1772502328,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77024,
+        "num": 219637,
+        "word": "黄金白银双双快速跳水",
+        "onboard_time": 1772495361,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76066,
+        "num": 219371,
+        "word": "我的山与海定档",
+        "onboard_time": 1772507845,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71487,
+        "num": 219132,
+        "word": "30多岁男子总觉脚冷险遭截肢",
+        "onboard_time": 1772495842,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69484,
+        "num": 218904,
+        "word": "霸王茶姬答案",
+        "onboard_time": 1772503465,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65478,
+        "num": 218615,
+        "word": "终于懂什么叫社交圣母症了",
+        "onboard_time": 1772495361,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65270,
+        "num": 218516,
+        "word": "伊朗首都5地几乎同时爆炸",
+        "onboard_time": 1772464105,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64253,
+        "num": 218121,
+        "word": "你听过最离谱的空耳",
+        "onboard_time": 1772506466,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63263,
+        "num": 217903,
+        "word": "苹果推出大量粉色配件",
+        "onboard_time": 1772496502,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 62881,
+        "num": 217651,
+        "word": "弦子报平安",
+        "onboard_time": 1772462966,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61658,
+        "num": 217443,
+        "word": "小猫看得出左手跟右手不太熟",
+        "onboard_time": 1772508025,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国精神#"
+    }
+  }
+}
