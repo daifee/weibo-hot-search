@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772524941241,
+  "endTime": 1772528117379,
   "band_list": [
     {
       "raw_hot": 14299027,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1167578,
+      "num": 305274,
+      "word": "品牌方回应迪丽热巴缺席",
+      "onboard_time": 1772525967,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 979900,
       "num": 1156784,
       "word": "越来越多国家被卷入中东冲突",
@@ -75,12 +83,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 918233,
+      "num": 1146917,
+      "word": "伊朗称向美航母发射4枚巡航导弹",
+      "onboard_time": 1772526447,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 913630,
       "num": 1137864,
       "word": "哈梅内伊妻子伤重不治去世",
       "onboard_time": 1772459065,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 865560,
+      "num": 365373,
+      "word": "舅妈冒用去世母亲身份与舅舅结婚",
+      "onboard_time": 1772523328,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 807660,
@@ -179,6 +203,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 542660,
+      "num": 542660,
+      "word": "黄金白银断崖式下跌",
+      "onboard_time": 1772524469,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 540207,
       "num": 217651,
       "word": "弦子报平安",
@@ -259,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365373,
-      "num": 365373,
-      "word": "舅妈冒用去世母亲身份与舅舅结婚",
-      "onboard_time": 1772523328,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 360217,
       "num": 360217,
       "word": "火车硬座惊现上下铺",
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 322836,
-      "num": 288194,
+      "num": 303343,
       "word": "台湾热议台胞证能救命",
       "onboard_time": 1772514505,
       "rank": 30,
@@ -337,6 +361,14 @@
       "onboard_time": 1772503767,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316029,
+      "num": 316029,
+      "word": "王玉雯周也在陈星旭胸前喂小羊",
+      "onboard_time": 1772525491,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 308147,
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 292872,
-      "num": 288143,
+      "num": 301348,
       "word": "郑恺回村也不能撕baby",
       "onboard_time": 1772512767,
       "rank": 22,
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 258422,
-      "num": 288237,
+      "num": 303867,
       "word": "AI生成 男女身高",
       "onboard_time": 1772519844,
       "rank": 21,
@@ -449,6 +481,14 @@
       "onboard_time": 1772460207,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257224,
+      "num": 304892,
+      "word": "老人抱孙子玩腰间4厘米钢针扎进肚",
+      "onboard_time": 1772522847,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256004,
@@ -484,7 +524,7 @@
     },
     {
       "raw_hot": 235942,
-      "num": 288176,
+      "num": 302138,
       "word": "杨幂说自己有老人味",
       "onboard_time": 1772512467,
       "rank": 21,
@@ -515,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221817,
+      "num": 304776,
+      "word": "以前谈恋爱QQ是要关联的",
+      "onboard_time": 1772522007,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219372,
       "num": 225119,
       "word": "女子蹭完WiFi借钱被拒掀翻店家桌子",
@@ -524,7 +572,7 @@
     },
     {
       "raw_hot": 211296,
-      "num": 288086,
+      "num": 302299,
       "word": "无情报证明伊朗计划先袭击美军",
       "onboard_time": 1772514444,
       "rank": 14,
@@ -537,14 +585,6 @@
       "onboard_time": 1772520085,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205133,
-      "num": 288211,
-      "word": "老人抱孙子玩腰间4厘米钢针扎进肚",
-      "onboard_time": 1772522847,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198358,
@@ -579,6 +619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186782,
+      "num": 304426,
+      "word": "烟台一只狗被困井下约3年获救",
+      "onboard_time": 1772524411,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180097,
       "num": 258734,
       "word": "中方强烈谴责一切攻击儿童行为",
@@ -603,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174893,
+      "num": 304102,
+      "word": "舅舅回应被指觊觎外甥女财产",
+      "onboard_time": 1772526929,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171633,
       "num": 171633,
       "word": "小贝求婚失败",
@@ -620,7 +676,7 @@
     },
     {
       "raw_hot": 170248,
-      "num": 288116,
+      "num": 302768,
       "word": "比亚迪把天门山天梯搬进了厂房",
       "onboard_time": 1772523387,
       "rank": 30,
@@ -683,14 +739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 158552,
-      "num": 258131,
-      "word": "黄金白银断崖式下跌",
-      "onboard_time": 1772524469,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 157689,
       "num": 259408,
       "word": "谭松韵董晴 真闺蜜二搭",
@@ -723,6 +771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148793,
+      "num": 302985,
+      "word": "以为是正缘来了没想到是血缘",
+      "onboard_time": 1772525370,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147611,
       "num": 258784,
       "word": "带火刘文祥的紫薯精30天涨粉421万",
@@ -753,6 +809,22 @@
       "onboard_time": 1772507547,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141399,
+      "num": 303840,
+      "word": "比亚迪",
+      "onboard_time": 1772527168,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 137677,
+      "num": 303978,
+      "word": "易梦玲工作室回应被质疑压花",
+      "onboard_time": 1772526748,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 134907,
@@ -788,7 +860,7 @@
     },
     {
       "raw_hot": 131614,
-      "num": 288032,
+      "num": 301414,
       "word": "汤圆",
       "onboard_time": 1772498003,
       "rank": 22,
@@ -819,12 +891,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125825,
+      "num": 303428,
+      "word": "易梦玲回应争议",
+      "onboard_time": 1772525310,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125608,
       "num": 221110,
       "word": "巴黎时装周",
       "onboard_time": 1772504546,
       "rank": 23,
       "category": "美妆,作品衍生"
+    },
+    {
+      "raw_hot": 124963,
+      "num": 303694,
+      "word": "王一博巴黎时装周行程",
+      "onboard_time": 1772526929,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 123371,
@@ -857,6 +945,14 @@
       "onboard_time": 1772513846,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120372,
+      "num": 302932,
+      "word": "伊拉克居民捡到完整美国无人机",
+      "onboard_time": 1772528008,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119961,
@@ -924,19 +1020,11 @@
     },
     {
       "raw_hot": 111932,
-      "num": 288104,
+      "num": 301672,
       "word": "父母不应该与孩子分享的事情belike",
       "onboard_time": 1772516846,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110669,
-      "num": 288156,
-      "word": "以前谈恋爱QQ是要关联的",
-      "onboard_time": 1772522007,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 109859,
@@ -1012,7 +1100,7 @@
     },
     {
       "raw_hot": 100852,
-      "num": 288118,
+      "num": 302425,
       "word": "孙俪邓超2026全家福",
       "onboard_time": 1772522966,
       "rank": 29,
@@ -1083,12 +1171,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 93318,
-      "num": 256849,
-      "word": "烟台一只狗被困井下约3年获救",
-      "onboard_time": 1772524411,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 92747,
+      "num": 302706,
+      "word": "女足亚洲杯",
+      "onboard_time": 1772527288,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 92659,
@@ -1121,6 +1209,14 @@
       "onboard_time": 1772465786,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90595,
+      "num": 302540,
+      "word": "飞机上和肖战前后排",
+      "onboard_time": 1772527588,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 89867,
@@ -1187,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81946,
+      "num": 302210,
+      "word": "十个勤天应到十人实到十人",
+      "onboard_time": 1772527048,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81771,
       "num": 156335,
       "word": "恋与深空活动场地变更",
@@ -1224,6 +1328,22 @@
       "word": "小米Tag追踪器售价69元起",
       "onboard_time": 1772464465,
       "rank": 40,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 78945,
+      "num": 301877,
+      "word": "建议家暴情形不适用离婚冷静期",
+      "onboard_time": 1772527228,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 78659,
+      "num": 301786,
+      "word": "iPhone17e官网对比机型为iPhone11",
+      "onboard_time": 1772527168,
+      "rank": 41,
       "category": "数码"
     },
     {
@@ -1299,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73189,
+      "num": 301514,
+      "word": "对方紧急撤回了6只企鹅",
+      "onboard_time": 1772527888,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72223,
       "num": 217903,
       "word": "苹果推出大量粉色配件",
@@ -1319,6 +1447,14 @@
       "num": 287984,
       "word": "宋亚轩21岁最后一天",
       "onboard_time": 1772524167,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70545,
+      "num": 301179,
+      "word": "黄景瑜 咖啡汤圆",
+      "onboard_time": 1772525491,
       "rank": 46,
       "category": "艺人"
     },
@@ -1369,6 +1505,14 @@
       "onboard_time": 1772499444,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67726,
+      "num": 301050,
+      "word": "把回南天拍得好高级",
+      "onboard_time": 1772525069,
+      "rank": 47,
+      "category": "休闲"
     },
     {
       "raw_hot": 67388,
@@ -1443,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64653,
+      "num": 300980,
+      "word": "长期侧睡的猫猫",
+      "onboard_time": 1772525729,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64253,
       "num": 218121,
       "word": "你听过最离谱的空耳",
@@ -1473,6 +1625,14 @@
       "onboard_time": 1772502447,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62161,
+      "num": 300861,
+      "word": "张凌赫别试探了你的设计很有市场",
+      "onboard_time": 1772527768,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 61658,
@@ -1508,7 +1668,7 @@
     },
     {
       "raw_hot": 57334,
-      "num": 511229,
+      "num": 635677,
       "word": "全国政协十四届四次会议新闻发布会",
       "onboard_time": 1772520866,
       "rank": 9,
@@ -1680,6 +1840,14 @@
       "word": "2026全国两会为什么格外重要",
       "onboard_time": 1772524589,
       "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 32340,
+      "num": 302027,
+      "word": "代表建议延长A股交易时间",
+      "onboard_time": 1772527588,
+      "rank": 39,
       "category": "国内时政"
     },
     {
