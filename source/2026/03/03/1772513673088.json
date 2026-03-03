@@ -1,0 +1,410 @@
+{
+  "runTime": 1772513673088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 979900,
+        "num": 1156784,
+        "word": "越来越多国家被卷入中东冲突",
+        "onboard_time": 1772495781,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 546611,
+        "num": 827744,
+        "word": "种地吧4开工直播",
+        "onboard_time": 1772507064,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77964,
+        "num": 729174,
+        "word": "90秒看懂全国两会重要知识点",
+        "onboard_time": 1772507485,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 686511,
+        "num": 686511,
+        "word": "刘文祥麻辣烫暂停新合作",
+        "onboard_time": 1772507906,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 372415,
+        "num": 372415,
+        "word": "伊朗发起第13轮攻击",
+        "onboard_time": 1772496684,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 362408,
+        "num": 362408,
+        "word": "红果停了很多项目",
+        "onboard_time": 1772503166,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353606,
+        "num": 353606,
+        "word": "男子下高速显示费用8万多震惊收费员",
+        "onboard_time": 1772508806,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307122,
+        "num": 307122,
+        "word": "倪萍怒怼李诚儒",
+        "onboard_time": 1772509766,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292812,
+        "num": 292812,
+        "word": "油价调整",
+        "onboard_time": 1772512647,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 234396,
+        "num": 234396,
+        "word": "有人考公雇人大量虚假报名吓走对手",
+        "onboard_time": 1772509465,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10691541,
+        "num": 10691541,
+        "word": "谢娜喊话薛之谦",
+        "onboard_time": 1772501906,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857817,
+        "num": 222056,
+        "word": "胡彦斌只一味吃汤圆",
+        "onboard_time": 1772513606,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214057,
+        "num": 214057,
+        "word": "苏炳添QQ意外曝光",
+        "onboard_time": 1772512707,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208673,
+        "num": 208673,
+        "word": "光与夜之恋",
+        "onboard_time": 1772512407,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205938,
+        "num": 205938,
+        "word": "元宵节",
+        "onboard_time": 1772492838,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200443,
+        "num": 200443,
+        "word": "种地吧",
+        "onboard_time": 1772466984,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180097,
+        "num": 180097,
+        "word": "中方强烈谴责一切攻击儿童行为",
+        "onboard_time": 1772511026,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175665,
+        "num": 175665,
+        "word": "不要和扫兴的人一起去吃自助餐",
+        "onboard_time": 1772509465,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174778,
+        "num": 174778,
+        "word": "伊朗发布袭击美军基地画面",
+        "onboard_time": 1772511928,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139382,
+        "num": 172405,
+        "word": "Angelababy生图有多权威",
+        "onboard_time": 1772510785,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172160,
+        "num": 172160,
+        "word": "戒糖加跳绳5个月威力有多大",
+        "onboard_time": 1772498844,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 171587,
+        "num": 171587,
+        "word": "杨幂说自己有老人味",
+        "onboard_time": 1772512467,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171376,
+        "num": 171376,
+        "word": "郑恺回村也不能撕baby",
+        "onboard_time": 1772512767,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147611,
+        "num": 147611,
+        "word": "带火刘文祥的紫薯精30天涨粉421万",
+        "onboard_time": 1772512108,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144705,
+        "num": 144705,
+        "word": "王者荣耀",
+        "onboard_time": 1772509228,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143762,
+        "num": 143762,
+        "word": "白日提灯",
+        "onboard_time": 1772506404,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129761,
+        "num": 129761,
+        "word": "小猫竟然真会用给它缝的枕头",
+        "onboard_time": 1772510785,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127471,
+        "num": 127471,
+        "word": "以色列空袭黎巴嫩52死154伤",
+        "onboard_time": 1772497341,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109335,
+        "num": 127320,
+        "word": "多方回应女子去世后被嫁弟弟",
+        "onboard_time": 1772512348,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103142,
+        "num": 127241,
+        "word": "火车硬座惊现上下铺",
+        "onboard_time": 1772498964,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127181,
+        "num": 127181,
+        "word": "迪丽热巴陈飞宇元宵营业",
+        "onboard_time": 1772512227,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126342,
+        "num": 126342,
+        "word": "杨幂说女孩子要多吃berry",
+        "onboard_time": 1772503767,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115216,
+        "num": 126127,
+        "word": "汤圆",
+        "onboard_time": 1772498003,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126004,
+        "num": 126004,
+        "word": "孟子义李昀锐跳overdrive",
+        "onboard_time": 1772513487,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119659,
+        "num": 119659,
+        "word": "肖战试衣服时的表情",
+        "onboard_time": 1772506284,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109384,
+        "num": 118092,
+        "word": "地铁上最夯的位置",
+        "onboard_time": 1772512108,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117957,
+        "num": 117957,
+        "word": "谭松韵董晴 真闺蜜二搭",
+        "onboard_time": 1772512647,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87641,
+        "num": 117957,
+        "word": "中国石油再度涨停",
+        "onboard_time": 1772507547,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37171,
+        "num": 117942,
+        "word": "傻妞 人类爱上AI的前兆",
+        "onboard_time": 1772512948,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25655,
+        "num": 117935,
+        "word": "陈飞宇见春天进组路透",
+        "onboard_time": 1772512826,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95013,
+        "num": 117926,
+        "word": "阿轲全新传说皮肤",
+        "onboard_time": 1772510304,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112243,
+        "num": 117920,
+        "word": "张凌赫田曦薇亲脸花絮",
+        "onboard_time": 1772509347,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106231,
+        "num": 117906,
+        "word": "我的山与海定档",
+        "onboard_time": 1772507845,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91863,
+        "num": 117901,
+        "word": "光遇复刻",
+        "onboard_time": 1772511267,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100843,
+        "num": 117888,
+        "word": "檀健次卢昱晓双人cha",
+        "onboard_time": 1772511026,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91231,
+        "num": 117880,
+        "word": "iPhone最便宜新机来了",
+        "onboard_time": 1772499806,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93664,
+        "num": 117865,
+        "word": "张凌赫曾经在我的雅思机构当助教",
+        "onboard_time": 1772513007,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91172,
+        "num": 117864,
+        "word": "凤凰传奇抢票",
+        "onboard_time": 1772511987,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79612,
+        "num": 117855,
+        "word": "女子蹭完WiFi借钱被拒掀翻店家桌子",
+        "onboard_time": 1772502026,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65266,
+        "num": 117841,
+        "word": "勇士查不出波尔津吉斯病因",
+        "onboard_time": 1772509107,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国精神#"
+    }
+  }
+}
