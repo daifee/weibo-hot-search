@@ -1,6 +1,6 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772578484842,
+  "endTime": 1772580960212,
   "band_list": [
     {
       "raw_hot": 750125,
@@ -11,12 +11,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 617342,
+      "num": 368314,
+      "word": "美以伊最新局势",
+      "onboard_time": 1772552189,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 486182,
       "num": 486182,
       "word": "单亲爸爸打铁花成网红中毒离世",
       "onboard_time": 1772551169,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469477,
+      "num": 877633,
+      "word": "中国驻迪拜总领馆发布特别提醒",
+      "onboard_time": 1772573476,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 394323,
@@ -43,14 +59,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341987,
-      "num": 368314,
-      "word": "美以伊最新局势",
-      "onboard_time": 1772552189,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 340647,
       "num": 545308,
       "word": "世界油阀关闭",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 338135,
-      "num": 627178,
+      "num": 648490,
       "word": "12306回应乘客在高铁上用排插",
       "onboard_time": 1772554527,
       "rank": 0,
@@ -91,12 +99,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 270213,
-      "num": 270213,
-      "word": "中国驻迪拜总领馆发布特别提醒",
-      "onboard_time": 1772573476,
-      "rank": 35,
-      "category": "国内时政"
+      "raw_hot": 294398,
+      "num": 494829,
+      "word": "金价银价断崖式跳水",
+      "onboard_time": 1772528549,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 268166,
@@ -113,6 +121,14 @@
       "onboard_time": 1772553807,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255400,
+      "num": 291076,
+      "word": "中国石油发布公告",
+      "onboard_time": 1772580743,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 244714,
@@ -179,14 +195,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 182006,
-      "num": 494829,
-      "word": "金价银价断崖式跳水",
-      "onboard_time": 1772528549,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 178742,
       "num": 527408,
       "word": "刘宇宁魏晨 舞台走位",
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154455,
+      "num": 266640,
+      "word": "伦敦机场18小时未进食求助女子发声",
+      "onboard_time": 1772555485,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153270,
       "num": 367562,
       "word": "黄金跌破5100美元",
@@ -251,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134304,
+      "num": 365716,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1772538629,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124375,
       "num": 366623,
       "word": "美以对伊动武最让人心碎的照片",
@@ -267,12 +291,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106786,
-      "num": 266640,
-      "word": "伦敦机场18小时未进食求助女子发声",
-      "onboard_time": 1772555485,
-      "rank": 21,
-      "category": "海外新闻"
+      "raw_hot": 112691,
+      "num": 263307,
+      "word": "伊朗南部阿巴斯港等地遭密集空袭",
+      "onboard_time": 1772559859,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 107956,
+      "num": 259078,
+      "word": "伊朗导弹击中美第五舰队总部瞬间",
+      "onboard_time": 1772580442,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106240,
@@ -289,6 +321,14 @@
       "onboard_time": 1772531067,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101178,
+      "num": 265224,
+      "word": "妻子要离婚丈夫要求返还10万元彩礼",
+      "onboard_time": 1772547752,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97458,
@@ -313,14 +353,6 @@
       "onboard_time": 1772533107,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 91071,
-      "num": 365716,
-      "word": "纯真年代的爱情",
-      "onboard_time": 1772538629,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 83136,
@@ -379,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72615,
-      "num": 263307,
-      "word": "伊朗南部阿巴斯港等地遭密集空袭",
-      "onboard_time": 1772559859,
-      "rank": 26,
-      "category": "国际时政"
+      "raw_hot": 73241,
+      "num": 265811,
+      "word": "痞幼直播关美颜",
+      "onboard_time": 1772533706,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 67971,
@@ -403,12 +435,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 65918,
+      "num": 259447,
+      "word": "EDG",
+      "onboard_time": 1772579660,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 62636,
       "num": 367261,
       "word": "银价突发跳水原因",
       "onboard_time": 1772550449,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61564,
+      "num": 262872,
+      "word": "赵今麦吃了好多汤圆",
+      "onboard_time": 1772558779,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 58896,
@@ -419,20 +467,44 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 58089,
-      "num": 265811,
-      "word": "痞幼直播关美颜",
-      "onboard_time": 1772533706,
-      "rank": 38,
-      "category": "网红"
+      "raw_hot": 56640,
+      "num": 258516,
+      "word": "美股",
+      "onboard_time": 1772580743,
+      "rank": 26,
+      "category": "财经"
     },
     {
-      "raw_hot": 48725,
-      "num": 265224,
-      "word": "妻子要离婚丈夫要求返还10万元彩礼",
-      "onboard_time": 1772547752,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 53109,
+      "num": 261033,
+      "word": "以为李柯以是跨界结果是老本行",
+      "onboard_time": 1772560997,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50048,
+      "num": 264564,
+      "word": "罗云熙壁上观舞美",
+      "onboard_time": 1772563276,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46525,
+      "num": 257920,
+      "word": "全国两会",
+      "onboard_time": 1772580442,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 45211,
+      "num": 257818,
+      "word": "狼队2比1利物浦",
+      "onboard_time": 1772580442,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 44878,
@@ -443,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43754,
-      "num": 264564,
-      "word": "罗云熙壁上观舞美",
-      "onboard_time": 1772563276,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 43271,
+      "num": 258042,
+      "word": "金饰克价突破1660元",
+      "onboard_time": 1772559378,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 42766,
@@ -467,28 +539,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 37997,
-      "num": 262872,
-      "word": "赵今麦吃了好多汤圆",
-      "onboard_time": 1772558779,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 37948,
+      "num": 257552,
+      "word": "中方呼吁立即停止军事行动",
+      "onboard_time": 1772565134,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 37907,
-      "num": 261033,
-      "word": "以为李柯以是跨界结果是老本行",
-      "onboard_time": 1772560997,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 32991,
-      "num": 258042,
-      "word": "金饰克价突破1660元",
-      "onboard_time": 1772559378,
-      "rank": 39,
-      "category": "财经"
+      "raw_hot": 30919,
+      "num": 257318,
+      "word": "苹果新显示器定价",
+      "onboard_time": 1772580802,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 30595,
@@ -499,12 +563,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29578,
-      "num": 257303,
-      "word": "中方呼吁立即停止军事行动",
-      "onboard_time": 1772565134,
-      "rank": 32,
-      "category": "国内时政"
+      "raw_hot": 28887,
+      "num": 257256,
+      "word": "巴萨3比0马竞",
+      "onboard_time": 1772580081,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28850,
+      "num": 257223,
+      "word": "狼队vs利物浦",
+      "onboard_time": 1772580622,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 28834,
@@ -521,6 +593,14 @@
       "onboard_time": 1772573294,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 22379,
+      "num": 257082,
+      "word": "王橹杰新的一年祝你永远闪耀",
+      "onboard_time": 1772577620,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 20617,
@@ -560,14 +640,6 @@
       "word": "张奕然跳自己的进行曲了",
       "onboard_time": 1772567595,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 12758,
-      "num": 252935,
-      "word": "王橹杰新的一年祝你永远闪耀",
-      "onboard_time": 1772577620,
-      "rank": 49,
       "category": "艺人"
     },
     {
