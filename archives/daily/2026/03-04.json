@@ -1,6 +1,6 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772557181788,
+  "endTime": 1772558029297,
   "band_list": [
     {
       "raw_hot": 750125,
@@ -59,20 +59,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 338135,
+      "num": 627178,
+      "word": "12306回应乘客在高铁上用排插",
+      "onboard_time": 1772554527,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334572,
       "num": 369131,
       "word": "金智秀 迪奥公主",
       "onboard_time": 1772547152,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 325679,
-      "num": 627178,
-      "word": "12306回应乘客在高铁上用排插",
-      "onboard_time": 1772554527,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307412,
@@ -163,6 +163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 182006,
+      "num": 494829,
+      "word": "金价银价断崖式跳水",
+      "onboard_time": 1772528549,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178742,
       "num": 527408,
       "word": "刘宇宁魏晨 舞台走位",
@@ -171,12 +179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166301,
-      "num": 494829,
-      "word": "金价银价断崖式跳水",
-      "onboard_time": 1772528549,
-      "rank": 9,
-      "category": "财经"
+      "raw_hot": 167852,
+      "num": 194333,
+      "word": "龙洋眼妆",
+      "onboard_time": 1772555126,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 165765,
@@ -425,6 +433,14 @@
       "onboard_time": 1772547090,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23615,
+      "num": 193717,
+      "word": "妻子要离婚丈夫要求返还10万元彩礼",
+      "onboard_time": 1772547752,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20617,

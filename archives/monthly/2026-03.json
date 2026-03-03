@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772557181788,
+  "endTime": 1772558029297,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -2115,6 +2115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 338135,
+      "num": 627178,
+      "word": "12306回应乘客在高铁上用排插",
+      "onboard_time": 1772554527,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337284,
       "num": 337284,
       "word": "iPhone17e 远古刘海屏",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1772537187,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 325679,
-      "num": 627178,
-      "word": "12306回应乘客在高铁上用排插",
-      "onboard_time": 1772554527,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 324230,
@@ -3483,6 +3483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182006,
+      "num": 850537,
+      "word": "金价银价断崖式跳水",
+      "onboard_time": 1772528549,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180713,
       "num": 132832,
       "word": "王楚钦夺冠后配文来日方长",
@@ -3731,20 +3739,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167852,
+      "num": 194333,
+      "word": "龙洋眼妆",
+      "onboard_time": 1772555126,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167172,
       "num": 156075,
       "word": "美军3死5重伤",
       "onboard_time": 1772409982,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 166301,
-      "num": 850537,
-      "word": "金价银价断崖式跳水",
-      "onboard_time": 1772528549,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 166063,
