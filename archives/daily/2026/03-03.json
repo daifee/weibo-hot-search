@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772524400912,
+  "endTime": 1772524941241,
   "band_list": [
     {
       "raw_hot": 14299027,
@@ -27,20 +27,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1562846,
+      "num": 1562846,
+      "word": "世界油阀关闭",
+      "onboard_time": 1772521105,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1477628,
       "num": 842211,
       "word": "种地吧",
       "onboard_time": 1772466984,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1432295,
-      "num": 1432295,
-      "word": "世界油阀关闭",
-      "onboard_time": 1772521105,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 1183681,
@@ -227,7 +227,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 382356,
+      "raw_hot": 396200,
       "num": 414806,
       "word": "建议禁止16岁以下使用社媒",
       "onboard_time": 1772519245,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365373,
+      "num": 365373,
+      "word": "舅妈冒用去世母亲身份与舅舅结婚",
+      "onboard_time": 1772523328,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 360217,
       "num": 360217,
       "word": "火车硬座惊现上下铺",
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346816,
+      "num": 346816,
+      "word": "股市",
+      "onboard_time": 1772522247,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 324230,
       "num": 324230,
       "word": "多方回应女子去世后被嫁弟弟",
@@ -305,14 +321,6 @@
       "onboard_time": 1772514505,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 321264,
-      "num": 321264,
-      "word": "股市",
-      "onboard_time": 1772522247,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 319458,
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258422,
+      "num": 288237,
+      "word": "AI生成 男女身高",
+      "onboard_time": 1772519844,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 257566,
       "num": 257566,
       "word": "郭晓婷回复孙千",
@@ -449,14 +465,6 @@
       "onboard_time": 1772518282,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 247075,
-      "num": 288237,
-      "word": "AI生成 男女身高",
-      "onboard_time": 1772519844,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 247050,
@@ -499,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229413,
-      "num": 288231,
-      "word": "舅妈冒用去世母亲身份与舅舅结婚",
-      "onboard_time": 1772523328,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228988,
       "num": 288003,
       "word": "苏炳添QQ意外曝光",
@@ -537,6 +537,14 @@
       "onboard_time": 1772520085,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205133,
+      "num": 288211,
+      "word": "老人抱孙子玩腰间4厘米钢针扎进肚",
+      "onboard_time": 1772522847,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198358,
@@ -675,20 +683,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158552,
+      "num": 258131,
+      "word": "黄金白银断崖式下跌",
+      "onboard_time": 1772524469,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 157689,
       "num": 259408,
       "word": "谭松韵董晴 真闺蜜二搭",
       "onboard_time": 1772512647,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156587,
-      "num": 288211,
-      "word": "老人抱孙子玩腰间4厘米钢针扎进肚",
-      "onboard_time": 1772522847,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150064,
@@ -923,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110669,
+      "num": 288156,
+      "word": "以前谈恋爱QQ是要关联的",
+      "onboard_time": 1772522007,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109859,
       "num": 156371,
       "word": "海澜之家被暂停全军采购资格",
@@ -945,14 +961,6 @@
       "onboard_time": 1772505567,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 106384,
-      "num": 288156,
-      "word": "以前谈恋爱QQ是要关联的",
-      "onboard_time": 1772522007,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 106231,
@@ -1001,6 +1009,14 @@
       "onboard_time": 1772507187,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100852,
+      "num": 288118,
+      "word": "孙俪邓超2026全家福",
+      "onboard_time": 1772522966,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 100843,
@@ -1059,20 +1075,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96621,
-      "num": 288118,
-      "word": "孙俪邓超2026全家福",
-      "onboard_time": 1772522966,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95013,
       "num": 209106,
       "word": "阿轲全新传说皮肤",
       "onboard_time": 1772510304,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93318,
+      "num": 256849,
+      "word": "烟台一只狗被困井下约3年获救",
+      "onboard_time": 1772524411,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92659,
@@ -1299,6 +1315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70694,
+      "num": 287984,
+      "word": "宋亚轩21岁最后一天",
+      "onboard_time": 1772524167,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69364,
       "num": 167388,
       "word": "超市的虾是怎么冻成这样的",
@@ -1344,14 +1368,6 @@
       "word": "岳雨婷出发巴黎时装周",
       "onboard_time": 1772499444,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 68357,
-      "num": 287984,
-      "word": "宋亚轩21岁最后一天",
-      "onboard_time": 1772524167,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1563,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45305,
+      "num": 254951,
+      "word": "无主金融资产或超万亿元",
+      "onboard_time": 1772524831,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 43018,
       "num": 67044,
       "word": "朱志鑫30分钟的vlog",
@@ -1601,6 +1625,14 @@
       "onboard_time": 1772517685,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37658,
+      "num": 288039,
+      "word": "建议严惩歧视女性婚育状况单位",
+      "onboard_time": 1772524047,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37359,
@@ -1643,11 +1675,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32897,
-      "num": 288039,
-      "word": "建议严惩歧视女性婚育状况单位",
-      "onboard_time": 1772524047,
-      "rank": 39,
+      "raw_hot": 34235,
+      "num": 278399,
+      "word": "2026全国两会为什么格外重要",
+      "onboard_time": 1772524589,
+      "rank": 13,
       "category": "国内时政"
     },
     {

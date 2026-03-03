@@ -1,0 +1,410 @@
+{
+  "runTime": 1772524941241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1562846,
+        "num": 1562846,
+        "word": "世界油阀关闭",
+        "onboard_time": 1772521105,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 678371,
+        "num": 891416,
+        "word": "越来越多国家被卷入中东冲突",
+        "onboard_time": 1772495781,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 488997,
+        "num": 736976,
+        "word": "油价调整",
+        "onboard_time": 1772512647,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 488374,
+        "num": 488374,
+        "word": "伊朗称击中了美空军基地大楼",
+        "onboard_time": 1772517205,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39483,
+        "num": 449844,
+        "word": "全国政协十四届四次会议新闻发布会",
+        "onboard_time": 1772520866,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448958,
+        "num": 448958,
+        "word": "刘文祥麻辣烫暂停新合作",
+        "onboard_time": 1772507906,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 396200,
+        "num": 396200,
+        "word": "建议禁止16岁以下使用社媒",
+        "onboard_time": 1772519245,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 390826,
+        "num": 390826,
+        "word": "iPhone17只用一个月橙色变粉色",
+        "onboard_time": 1772514745,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 365373,
+        "num": 365373,
+        "word": "舅妈冒用去世母亲身份与舅舅结婚",
+        "onboard_time": 1772523328,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226814,
+        "num": 352117,
+        "word": "公务员平替岗挤满没上岸的年轻人",
+        "onboard_time": 1772518282,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1257065,
+        "num": 351626,
+        "word": "迪丽热巴将缺席时装周",
+        "onboard_time": 1772518345,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348851,
+        "num": 348851,
+        "word": "曝张元英签售一直玩手机",
+        "onboard_time": 1772518345,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346816,
+        "num": 346816,
+        "word": "股市",
+        "onboard_time": 1772522247,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34235,
+        "num": 278399,
+        "word": "2026全国两会为什么格外重要",
+        "onboard_time": 1772524589,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277710,
+        "num": 277710,
+        "word": "胡彦斌只一味吃汤圆",
+        "onboard_time": 1772513606,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258422,
+        "num": 258422,
+        "word": "AI生成 男女身高",
+        "onboard_time": 1772519844,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205133,
+        "num": 258349,
+        "word": "老人抱孙子玩腰间4厘米钢针扎进肚",
+        "onboard_time": 1772522847,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158552,
+        "num": 258131,
+        "word": "黄金白银断崖式下跌",
+        "onboard_time": 1772524469,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157168,
+        "num": 258032,
+        "word": "元宵晚会节目单",
+        "onboard_time": 1772520085,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152249,
+        "num": 257908,
+        "word": "台湾热议台胞证能救命",
+        "onboard_time": 1772514505,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127871,
+        "num": 257695,
+        "word": "A股",
+        "onboard_time": 1772504666,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119194,
+        "num": 257570,
+        "word": "元宵节",
+        "onboard_time": 1772492838,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111442,
+        "num": 257532,
+        "word": "杨幂说自己有老人味",
+        "onboard_time": 1772512467,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110669,
+        "num": 257382,
+        "word": "以前谈恋爱QQ是要关联的",
+        "onboard_time": 1772522007,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101650,
+        "num": 257231,
+        "word": "郑恺回村也不能撕baby",
+        "onboard_time": 1772512767,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100852,
+        "num": 257041,
+        "word": "孙俪邓超2026全家福",
+        "onboard_time": 1772522966,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93318,
+        "num": 256849,
+        "word": "烟台一只狗被困井下约3年获救",
+        "onboard_time": 1772524411,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91943,
+        "num": 256748,
+        "word": "金饰价一夜大涨42元",
+        "onboard_time": 1772520866,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46734,
+        "num": 256590,
+        "word": "谁与张晚意林允希林娜依高闹元宵",
+        "onboard_time": 1772521528,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90402,
+        "num": 256403,
+        "word": "A股三大指数同步高开",
+        "onboard_time": 1772518524,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157702,
+        "num": 256223,
+        "word": "比亚迪把天门山天梯搬进了厂房",
+        "onboard_time": 1772523387,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 90357,
+        "num": 256161,
+        "word": "晕碳水这个词是谁发明的",
+        "onboard_time": 1772519363,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88594,
+        "num": 255995,
+        "word": "父母不应该与孩子分享的事情belike",
+        "onboard_time": 1772516846,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85986,
+        "num": 255845,
+        "word": "朴信惠被曝涉嫌逃税",
+        "onboard_time": 1772513846,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84508,
+        "num": 255729,
+        "word": "无情报证明伊朗计划先袭击美军",
+        "onboard_time": 1772514444,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80516,
+        "num": 255524,
+        "word": "汤圆",
+        "onboard_time": 1772498003,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78683,
+        "num": 255435,
+        "word": "红果停了很多项目",
+        "onboard_time": 1772503166,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15010,
+        "num": 255242,
+        "word": "宋佳到巴黎就开始唠嗑",
+        "onboard_time": 1772524286,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37658,
+        "num": 255056,
+        "word": "建议严惩歧视女性婚育状况单位",
+        "onboard_time": 1772524047,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45305,
+        "num": 254951,
+        "word": "无主金融资产或超万亿元",
+        "onboard_time": 1772524831,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276849,
+        "num": 254802,
+        "word": "丈夫哭着求母亲你曾也是儿媳",
+        "onboard_time": 1772519545,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76090,
+        "num": 254682,
+        "word": "苏炳添QQ意外曝光",
+        "onboard_time": 1772512707,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72782,
+        "num": 254515,
+        "word": "男子下高速显示费用8万多震惊收费员",
+        "onboard_time": 1772508806,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52754,
+        "num": 254326,
+        "word": "90秒看懂全国两会重要知识点",
+        "onboard_time": 1772507485,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70694,
+        "num": 254241,
+        "word": "宋亚轩21岁最后一天",
+        "onboard_time": 1772524167,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70625,
+        "num": 254098,
+        "word": "允许自己有各种各样的情绪",
+        "onboard_time": 1772523687,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70476,
+        "num": 253931,
+        "word": "鹿晗元宵节撕拉片",
+        "onboard_time": 1772516965,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67052,
+        "num": 253763,
+        "word": "小猫的尾巴出卖了内心",
+        "onboard_time": 1772523929,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66245,
+        "num": 253712,
+        "word": "两会",
+        "onboard_time": 1772501727,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65972,
+        "num": 253491,
+        "word": "苹果官网仅剩两款128GB手机",
+        "onboard_time": 1772520808,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之喻#"
+    }
+  }
+}
