@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772535128844,
+  "endTime": 1772535997158,
   "band_list": [
     {
       "raw_hot": 14299027,
@@ -35,6 +35,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1524466,
+      "num": 1524466,
+      "word": "月全食",
+      "onboard_time": 1772500346,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1477628,
       "num": 842211,
       "word": "种地吧",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1352362,
-      "num": 675757,
+      "num": 1181790,
       "word": "369为TES野辅发声",
       "onboard_time": 1772534608,
       "rank": 3,
@@ -57,14 +65,6 @@
       "onboard_time": 1772530766,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1203197,
-      "num": 1203197,
-      "word": "月全食",
-      "onboard_time": 1772500346,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1183681,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 832594,
+      "num": 327951,
+      "word": "舅舅去世舅妈向正月理发外甥索赔百万",
+      "onboard_time": 1772530766,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 807660,
       "num": 807660,
       "word": "伊朗首都5地几乎同时爆炸",
@@ -161,14 +169,6 @@
       "onboard_time": 1772503166,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 755782,
-      "num": 327951,
-      "word": "舅舅去世舅妈向正月理发外甥索赔百万",
-      "onboard_time": 1772530766,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 754712,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468310,
+      "num": 468310,
+      "word": "刘文祥头像",
+      "onboard_time": 1772533107,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 464045,
       "num": 227723,
       "word": "iPhone17e浅粉色",
@@ -387,6 +395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 326471,
+      "num": 209738,
+      "word": "穆祉丞王橹杰跨代隐藏卡",
+      "onboard_time": 1772532866,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324230,
       "num": 324230,
       "word": "多方回应女子去世后被嫁弟弟",
@@ -435,16 +451,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314893,
-      "num": 314893,
-      "word": "刘文祥头像",
-      "onboard_time": 1772533107,
-      "rank": 6,
-      "category": "美食"
-    },
-    {
       "raw_hot": 313354,
-      "num": 877116,
+      "num": 1278941,
       "word": "深圳租金涨了",
       "onboard_time": 1772529807,
       "rank": 17,
@@ -496,14 +504,6 @@
       "word": "朴信惠被曝涉嫌逃税",
       "onboard_time": 1772513846,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 284092,
-      "num": 157889,
-      "word": "穆祉丞王橹杰跨代隐藏卡",
-      "onboard_time": 1772532866,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234441,
+      "num": 851472,
+      "word": "元宵晚会节目单",
+      "onboard_time": 1772520085,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234396,
       "num": 282093,
       "word": "有人考公雇人大量虚假报名吓走对手",
@@ -667,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221135,
+      "num": 327975,
+      "word": "元宵节赏月全食太浪漫了",
+      "onboard_time": 1772530286,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219372,
       "num": 225119,
       "word": "女子蹭完WiFi借钱被拒掀翻店家桌子",
@@ -681,14 +697,6 @@
       "onboard_time": 1772514444,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 209375,
-      "num": 851472,
-      "word": "元宵晚会节目单",
-      "onboard_time": 1772520085,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 198358,
@@ -755,14 +763,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 177140,
-      "num": 327975,
-      "word": "元宵节赏月全食太浪漫了",
-      "onboard_time": 1772530286,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175665,
       "num": 258601,
       "word": "不要和扫兴的人一起去吃自助餐",
@@ -803,12 +803,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 169984,
+      "num": 208228,
+      "word": "痞幼直播关美颜",
+      "onboard_time": 1772533706,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 169492,
       "num": 225230,
       "word": "以色列空袭黎巴嫩52死154伤",
       "onboard_time": 1772497341,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168453,
+      "num": 327809,
+      "word": "短剧女主 时尚资源",
+      "onboard_time": 1772531368,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 168211,
@@ -867,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153550,
-      "num": 327809,
-      "word": "短剧女主 时尚资源",
-      "onboard_time": 1772531368,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150064,
       "num": 258861,
       "word": "Angelababy生图有多权威",
@@ -923,6 +931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145415,
+      "num": 218156,
+      "word": "建议A股延至下午4点闭市",
+      "onboard_time": 1772532746,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144705,
       "num": 209366,
       "word": "王者荣耀",
@@ -939,20 +955,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 143531,
-      "num": 143531,
-      "word": "建议A股延至下午4点闭市",
-      "onboard_time": 1772532746,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 142178,
-      "num": 142178,
+      "num": 208130,
       "word": "丈夫回应月子期赶走母亲",
       "onboard_time": 1772530766,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141444,
+      "num": 216335,
+      "word": "小满春春在一起了",
+      "onboard_time": 1772532866,
+      "rank": 32,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 141399,
@@ -961,6 +977,14 @@
       "onboard_time": 1772527168,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 139631,
+      "num": 845233,
+      "word": "汤圆",
+      "onboard_time": 1772498003,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 139242,
@@ -1011,14 +1035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131614,
-      "num": 845233,
-      "word": "汤圆",
-      "onboard_time": 1772498003,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
       "raw_hot": 128364,
       "num": 156394,
       "word": "李昀锐好像郭晓婷王天辰的孩子",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1772512227,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127061,
+      "num": 208297,
+      "word": "下次元宵月全食要等到2072年",
+      "onboard_time": 1772534727,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125969,
@@ -1052,7 +1076,7 @@
     },
     {
       "raw_hot": 125657,
-      "num": 125657,
+      "num": 208050,
       "word": "以军称打击伊朗总统府",
       "onboard_time": 1772533167,
       "rank": 28,
@@ -1123,12 +1147,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 115305,
-      "num": 115305,
-      "word": "下次元宵月全食要等到2072年",
-      "onboard_time": 1772534727,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 116239,
+      "num": 207961,
+      "word": "樊振东退世排那天照常训练",
+      "onboard_time": 1772532505,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 115007,
@@ -1272,22 +1296,6 @@
       "word": "孙颖莎吐槽鲨鱼游得慢",
       "onboard_time": 1772507187,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 102850,
-      "num": 117389,
-      "word": "小满春春在一起了",
-      "onboard_time": 1772532866,
-      "rank": 32,
-      "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 101543,
-      "num": 117228,
-      "word": "樊振东退世排那天照常训练",
-      "onboard_time": 1772532505,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -1435,14 +1443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 91598,
-      "num": 116307,
-      "word": "痞幼直播关美颜",
-      "onboard_time": 1772533706,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 91416,
       "num": 327800,
       "word": "现身凤凰传奇演唱会的副市长获表彰",
@@ -1457,6 +1457,14 @@
       "onboard_time": 1772465786,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90062,
+      "num": 207589,
+      "word": "AL对战iG",
+      "onboard_time": 1772534786,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 89867,
@@ -1483,6 +1491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88729,
+      "num": 207529,
+      "word": "李兰迪汤圆全洒了",
+      "onboard_time": 1772535029,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87230,
       "num": 214482,
       "word": "王楚钦孙颖莎元宵节祝福",
@@ -1491,11 +1507,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86725,
+      "num": 207214,
+      "word": "惠英红 你真的太狠了",
+      "onboard_time": 1772535568,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85478,
       "num": 209095,
       "word": "成毅元宵节三张明信片",
       "onboard_time": 1772508386,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83548,
+      "num": 327756,
+      "word": "泰星MAi自曝脸部花费几百万",
+      "onboard_time": 1772531428,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -1507,20 +1539,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82831,
+      "num": 206868,
+      "word": "纯真年代改了方穆静妈妈人设",
+      "onboard_time": 1772534549,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82302,
       "num": 156354,
       "word": "女子公园放养10天宠物鸭毫发无损",
       "onboard_time": 1772463985,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82079,
-      "num": 327756,
-      "word": "泰星MAi自曝脸部花费几百万",
-      "onboard_time": 1772531428,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 81967,
@@ -1601,6 +1633,14 @@
       "onboard_time": 1772527168,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 78381,
+      "num": 207369,
+      "word": "刘文祥 每家店味道不一样",
+      "onboard_time": 1772534608,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 78017,
@@ -1739,14 +1779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70156,
-      "num": 116027,
-      "word": "刘文祥 每家店味道不一样",
-      "onboard_time": 1772534608,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 69479,
       "num": 327737,
       "word": "成熟的猕猴桃是一片一片的",
@@ -1793,14 +1825,6 @@
       "onboard_time": 1772499444,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67892,
-      "num": 115772,
-      "word": "纯真年代改了方穆静妈妈人设",
-      "onboard_time": 1772534549,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 67865,
@@ -1891,6 +1915,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 64712,
+      "num": 206948,
+      "word": "男子40克给父亲救命黄金被捡走",
+      "onboard_time": 1772534065,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64655,
       "num": 167142,
       "word": "杨幂5分半米兰vlog",
@@ -1972,19 +2004,11 @@
     },
     {
       "raw_hot": 57334,
-      "num": 860858,
+      "num": 1227595,
       "word": "全国政协十四届四次会议新闻发布会",
       "onboard_time": 1772520866,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 56483,
-      "num": 116481,
-      "word": "李兰迪汤圆全洒了",
-      "onboard_time": 1772535029,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 56463,
@@ -2099,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38265,
+      "num": 237762,
+      "word": "我拍了拍月亮",
+      "onboard_time": 1772535509,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38230,
       "num": 204631,
       "word": "王鹤棣背白鹿跑步",
@@ -2137,14 +2169,6 @@
       "onboard_time": 1772451925,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36527,
-      "num": 173067,
-      "word": "男子40克给父亲救命黄金被捡走",
-      "onboard_time": 1772534065,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35197,
@@ -2328,6 +2352,14 @@
       "word": "胜诉原告成被执行人被限高7年多",
       "onboard_time": 1772520866,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9057,
+      "num": 212439,
+      "word": "建议多举措斩断不良网络热梗传播",
+      "onboard_time": 1772535630,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1772535997158,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1524466,
+        "num": 1524466,
+        "word": "月全食",
+        "onboard_time": 1772533406,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260081,
+        "num": 1278941,
+        "word": "深圳租金涨了",
+        "onboard_time": 1772529807,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34116,
+        "num": 1227595,
+        "word": "全国政协十四届四次会议新闻发布会",
+        "onboard_time": 1772520866,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1181790,
+        "num": 1181790,
+        "word": "369为TES野辅发声",
+        "onboard_time": 1772534608,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247641,
+        "num": 718680,
+        "word": "建议禁止16岁以下使用社媒",
+        "onboard_time": 1772519245,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 511969,
+        "num": 511969,
+        "word": "伊朗称向美航母发射4枚巡航导弹",
+        "onboard_time": 1772526447,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 468310,
+        "num": 468310,
+        "word": "刘文祥头像",
+        "onboard_time": 1772533107,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 306447,
+        "num": 306447,
+        "word": "世界油阀关闭",
+        "onboard_time": 1772521105,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238646,
+        "num": 238646,
+        "word": "刘文祥麻辣烫暂停新合作",
+        "onboard_time": 1772507906,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 38265,
+        "num": 237762,
+        "word": "我拍了拍月亮",
+        "onboard_time": 1772535509,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 832594,
+        "num": 236716,
+        "word": "舅舅去世舅妈向正月理发外甥索赔百万",
+        "onboard_time": 1772530766,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477151,
+        "num": 236231,
+        "word": "油价或涨超70%",
+        "onboard_time": 1772529807,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 389516,
+        "num": 235388,
+        "word": "伊朗纳坦兹核设施遭破坏",
+        "onboard_time": 1772531067,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234441,
+        "num": 234441,
+        "word": "元宵晚会节目单",
+        "onboard_time": 1772520085,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221135,
+        "num": 221135,
+        "word": "元宵节赏月全食太浪漫了",
+        "onboard_time": 1772530286,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194316,
+        "num": 219655,
+        "word": "元宵节",
+        "onboard_time": 1772492838,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145415,
+        "num": 218156,
+        "word": "建议A股延至下午4点闭市",
+        "onboard_time": 1772532746,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141444,
+        "num": 216335,
+        "word": "小满春春在一起了",
+        "onboard_time": 1772532866,
+        "rank": 17,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 140203,
+        "num": 215107,
+        "word": "2009与2025麦当劳对比",
+        "onboard_time": 1772528247,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 9057,
+        "num": 212439,
+        "word": "建议多举措斩断不良网络热梗传播",
+        "onboard_time": 1772535630,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 831415,
+        "num": 211130,
+        "word": "迪奥官宣王楚然",
+        "onboard_time": 1772530766,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326471,
+        "num": 209738,
+        "word": "穆祉丞王橹杰跨代隐藏卡",
+        "onboard_time": 1772532866,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208626,
+        "num": 208626,
+        "word": "黄金白银断崖式下跌",
+        "onboard_time": 1772524469,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314217,
+        "num": 208610,
+        "word": "品牌方回应迪丽热巴缺席",
+        "onboard_time": 1772525967,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139631,
+        "num": 208528,
+        "word": "汤圆",
+        "onboard_time": 1772498003,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 261880,
+        "num": 208433,
+        "word": "谢霆锋 叫王菲才理人",
+        "onboard_time": 1772528368,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171628,
+        "num": 208406,
+        "word": "曝张元英签售一直玩手机",
+        "onboard_time": 1772518345,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127061,
+        "num": 208297,
+        "word": "下次元宵月全食要等到2072年",
+        "onboard_time": 1772534727,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169984,
+        "num": 208228,
+        "word": "痞幼直播关美颜",
+        "onboard_time": 1772533706,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168453,
+        "num": 208195,
+        "word": "短剧女主 时尚资源",
+        "onboard_time": 1772531368,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118873,
+        "num": 208130,
+        "word": "丈夫回应月子期赶走母亲",
+        "onboard_time": 1772530766,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117584,
+        "num": 208050,
+        "word": "以军称打击伊朗总统府",
+        "onboard_time": 1772533167,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116239,
+        "num": 207961,
+        "word": "樊振东退世排那天照常训练",
+        "onboard_time": 1772532505,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99071,
+        "num": 207918,
+        "word": "烟台一只狗被困井下约3年获救",
+        "onboard_time": 1772524411,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98670,
+        "num": 207825,
+        "word": "油价调整",
+        "onboard_time": 1772512647,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93285,
+        "num": 207779,
+        "word": "建议提升教师待遇保障水平",
+        "onboard_time": 1772531548,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92696,
+        "num": 207688,
+        "word": "以为是正缘来了没想到是血缘",
+        "onboard_time": 1772525370,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90866,
+        "num": 207621,
+        "word": "伊朗称击中了美空军基地大楼",
+        "onboard_time": 1772517205,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90062,
+        "num": 207589,
+        "word": "AL对战iG",
+        "onboard_time": 1772534786,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88729,
+        "num": 207529,
+        "word": "李兰迪汤圆全洒了",
+        "onboard_time": 1772535029,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86769,
+        "num": 207411,
+        "word": "短剧演员就业寒冬",
+        "onboard_time": 1772528846,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78381,
+        "num": 207369,
+        "word": "刘文祥 每家店味道不一样",
+        "onboard_time": 1772534608,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 249117,
+        "num": 207287,
+        "word": "迪丽热巴将缺席时装周",
+        "onboard_time": 1772518345,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86725,
+        "num": 207214,
+        "word": "惠英红 你真的太狠了",
+        "onboard_time": 1772535568,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72322,
+        "num": 207131,
+        "word": "现身凤凰传奇演唱会的副市长获表彰",
+        "onboard_time": 1772530467,
+        "rank": 44,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 85791,
+        "num": 207092,
+        "word": "王一博巴黎时装周行程",
+        "onboard_time": 1772526929,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83548,
+        "num": 207034,
+        "word": "泰星MAi自曝脸部花费几百万",
+        "onboard_time": 1772531428,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64712,
+        "num": 206948,
+        "word": "男子40克给父亲救命黄金被捡走",
+        "onboard_time": 1772534065,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82831,
+        "num": 206868,
+        "word": "纯真年代改了方穆静妈妈人设",
+        "onboard_time": 1772534549,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67185,
+        "num": 206848,
+        "word": "飞机上和肖战前后排",
+        "onboard_time": 1772527588,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之喻#"
+    }
+  }
+}
