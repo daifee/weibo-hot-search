@@ -1,6 +1,6 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772567909990,
+  "endTime": 1772570507475,
   "band_list": [
     {
       "raw_hot": 750125,
@@ -131,6 +131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192907,
+      "num": 58751,
+      "word": "法德联合声明",
+      "onboard_time": 1772565495,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 186945,
       "num": 368205,
       "word": "穆祉丞王橹杰跨代隐藏卡",
@@ -177,14 +185,6 @@
       "onboard_time": 1772544211,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177009,
-      "num": 58751,
-      "word": "法德联合声明",
-      "onboard_time": 1772565495,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 167852,
@@ -545,6 +545,22 @@
       "onboard_time": 1772544509,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11644,
+      "num": 50349,
+      "word": "湖南卫视元宵喜乐会",
+      "onboard_time": 1772537970,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10583,
+      "num": 50312,
+      "word": "LPL第一赛段",
+      "onboard_time": 1772546132,
+      "rank": 44,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772567909990,
+  "endTime": 1772570507475,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -3387,6 +3387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192907,
+      "num": 58751,
+      "word": "法德联合声明",
+      "onboard_time": 1772565495,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192408,
       "num": 849507,
       "word": "伊拉克居民捡到完整美国无人机",
@@ -3545,14 +3553,6 @@
       "onboard_time": 1772499806,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 177009,
-      "num": 58751,
-      "word": "法德联合声明",
-      "onboard_time": 1772565495,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 176046,
@@ -8385,6 +8385,14 @@
       "onboard_time": 1772354962,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10583,
+      "num": 50312,
+      "word": "LPL第一赛段",
+      "onboard_time": 1772546132,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 9057,
