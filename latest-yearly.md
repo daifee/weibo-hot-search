@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/03/03 19:06:37
+本榜单时间：2026/01/01 00:35:36 ~ 2026/03/03 19:41:24
 </p>
 </blockquote>
 <p>
@@ -993,6 +993,12 @@ B站春晚 夯（热度：2280239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A8%E9%A3%9F%23" target="weibo">
+月全食（热度：2131728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
 苹果用户的天塌了（热度：2130426）
 </a>
@@ -1805,12 +1811,6 @@ B站春晚 夯（热度：2280239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E6%B6%89%E5%AB%8C%E9%80%83%E7%A8%8E%23" target="weibo">
 车银优涉嫌逃税（热度：1533186）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B33%E6%AF%940%E8%B6%8A%E5%8D%97U23%23" target="weibo">
-U23国足3比0越南U23（热度：1532686）
 </a>
 </li>
 
