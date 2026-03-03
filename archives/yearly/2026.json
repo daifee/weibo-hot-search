@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772518238102,
+  "endTime": 1772521437982,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -769,6 +769,14 @@
       "onboard_time": 1772259802,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 3248268,
+      "num": 398212,
+      "word": "迪丽热巴将缺席时装周",
+      "onboard_time": 1772518345,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3175580,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1772162781,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1528237,
-      "num": 611829,
-      "word": "爱泼斯坦案诡异照片曝光",
-      "onboard_time": 1769931861,
-      "rank": 13,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

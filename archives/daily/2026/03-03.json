@@ -1,12 +1,20 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772518238102,
+  "endTime": 1772521437982,
   "band_list": [
     {
       "raw_hot": 14299027,
       "num": 14299027,
       "word": "谢娜喊话薛之谦",
       "onboard_time": 1772501906,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3248268,
+      "num": 398212,
+      "word": "迪丽热巴将缺席时装周",
+      "onboard_time": 1772518345,
       "rank": 10,
       "category": "艺人"
     },
@@ -27,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1025496,
+      "num": 391126,
+      "word": "朴春指控朴山多拉吸毒",
+      "onboard_time": 1772518524,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 979900,
       "num": 1156784,
       "word": "越来越多国家被卷入中东冲突",
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 927402,
-      "num": 285196,
+      "num": 383323,
       "word": "胡彦斌只一味吃汤圆",
       "onboard_time": 1772513606,
       "rank": 11,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 613557,
-      "num": 259494,
+      "num": 381421,
       "word": "A股",
       "onboard_time": 1772504666,
       "rank": 11,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 606994,
-      "num": 398622,
+      "num": 419228,
       "word": "iPhone17只用一个月橙色变粉色",
       "onboard_time": 1772514745,
       "rank": 5,
@@ -116,11 +132,19 @@
     },
     {
       "raw_hot": 586597,
-      "num": 801586,
+      "num": 818126,
       "word": "油价调整",
       "onboard_time": 1772512647,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 571733,
+      "num": 571733,
+      "word": "伊朗称击中了美空军基地大楼",
+      "onboard_time": 1772517205,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 569323,
@@ -155,6 +179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 459354,
+      "num": 387240,
+      "word": "特朗普夫人联合国主持会议遭批",
+      "onboard_time": 1772516783,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 447705,
       "num": 243313,
       "word": "李昀锐王楚然lingorm合照",
@@ -176,6 +208,14 @@
       "word": "当地通报母亲去世后被结婚",
       "onboard_time": 1772499927,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377460,
+      "num": 377460,
+      "word": "丈夫哭着求母亲你曾也是儿媳",
+      "onboard_time": 1772519545,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -371,20 +411,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 245735,
-      "num": 270084,
-      "word": "伊朗称击中了美空军基地大楼",
-      "onboard_time": 1772517205,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 245508,
       "num": 82684,
       "word": "伊朗伊斯法罕传出巨大爆炸声",
       "onboard_time": 1772474356,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 243905,
+      "num": 243905,
+      "word": "杨天真 娱乐圈工作越来越无聊",
+      "onboard_time": 1772517804,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 235942,
@@ -417,6 +457,14 @@
       "onboard_time": 1772512707,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225362,
+      "num": 225362,
+      "word": "AI生成 男女身高",
+      "onboard_time": 1772519844,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 219372,
@@ -457,6 +505,22 @@
       "onboard_time": 1772453964,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193975,
+      "num": 214611,
+      "word": "曝张元英签售一直玩手机",
+      "onboard_time": 1772518345,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181466,
+      "num": 414806,
+      "word": "建议禁止16岁以下使用社媒",
+      "onboard_time": 1772519245,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 180097,
@@ -515,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167615,
+      "num": 214601,
+      "word": "A股三大指数同步高开",
+      "onboard_time": 1772518524,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166804,
       "num": 166804,
       "word": "美以伊战场装备都升级了",
@@ -555,20 +627,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 157764,
-      "num": 259013,
-      "word": "特朗普夫人联合国主持会议遭批",
-      "onboard_time": 1772516783,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 157689,
       "num": 259408,
       "word": "谭松韵董晴 真闺蜜二搭",
       "onboard_time": 1772512647,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150287,
+      "num": 214546,
+      "word": "公务员平替岗挤满没上岸的年轻人",
+      "onboard_time": 1772518282,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150064,
@@ -585,6 +657,14 @@
       "onboard_time": 1772513487,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149447,
+      "num": 410907,
+      "word": "元宵晚会节目单",
+      "onboard_time": 1772520085,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 149109,
@@ -715,6 +795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 121067,
+      "num": 214561,
+      "word": "苹果官网仅剩两款128GB手机",
+      "onboard_time": 1772520808,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 120674,
       "num": 258462,
       "word": "不足5%的女性能在晚10点前入睡",
@@ -753,6 +841,14 @@
       "onboard_time": 1772506046,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113362,
+      "num": 214525,
+      "word": "世界油阀关闭",
+      "onboard_time": 1772521105,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 113101,
@@ -835,20 +931,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105588,
+      "num": 214503,
+      "word": "父母不应该与孩子分享的事情belike",
+      "onboard_time": 1772516846,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104374,
       "num": 156363,
       "word": "陈飞宇瘦了好多",
       "onboard_time": 1772463505,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104140,
-      "num": 205796,
-      "word": "杨天真 娱乐圈工作越来越无聊",
-      "onboard_time": 1772517804,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 102982,
@@ -971,12 +1067,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87230,
+      "num": 214482,
+      "word": "王楚钦孙颖莎元宵节祝福",
+      "onboard_time": 1772521105,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85478,
       "num": 209095,
       "word": "成毅元宵节三张明信片",
       "onboard_time": 1772508386,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85413,
+      "num": 214448,
+      "word": "金饰价一夜大涨42元",
+      "onboard_time": 1772520866,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 82934,
@@ -1020,11 +1132,19 @@
     },
     {
       "raw_hot": 80943,
-      "num": 207160,
+      "num": 232452,
       "word": "孙颖莎可爱到蓬出屏幕",
       "onboard_time": 1772517924,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79768,
+      "num": 214435,
+      "word": "晕碳水这个词是谁发明的",
+      "onboard_time": 1772519363,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 79241,
@@ -1083,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72531,
-      "num": 204771,
-      "word": "父母不应该与孩子分享的事情belike",
-      "onboard_time": 1772516846,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 72223,
       "num": 217903,
       "word": "苹果推出大量粉色配件",
@@ -1100,7 +1212,7 @@
     },
     {
       "raw_hot": 72014,
-      "num": 207232,
+      "num": 264249,
       "word": "新版闲鱼拍照就可以赚钱",
       "onboard_time": 1772517865,
       "rank": 17,
@@ -1283,6 +1395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 57334,
+      "num": 400228,
+      "word": "全国政协十四届四次会议新闻发布会",
+      "onboard_time": 1772520866,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54783,
       "num": 258831,
       "word": "人大代表关注农村大龄青年结婚难",
@@ -1411,6 +1531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34461,
+      "num": 227819,
+      "word": "建议将NPC纳入国家认定的新职业",
+      "onboard_time": 1772520926,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31818,
       "num": 82142,
       "word": "米兰时装周",
@@ -1529,6 +1657,14 @@
       "onboard_time": 1772476035,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13020,
+      "num": 214465,
+      "word": "胜诉原告成被执行人被限高7年多",
+      "onboard_time": 1772520866,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3200,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1772521437982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 808128,
+        "num": 1129300,
+        "word": "越来越多国家被卷入中东冲突",
+        "onboard_time": 1772495781,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 408493,
+        "num": 818126,
+        "word": "油价调整",
+        "onboard_time": 1772512647,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 59344,
+        "num": 652767,
+        "word": "90秒看懂全国两会重要知识点",
+        "onboard_time": 1772507485,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 571733,
+        "num": 571733,
+        "word": "伊朗称击中了美空军基地大楼",
+        "onboard_time": 1772517205,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 421616,
+        "num": 421616,
+        "word": "刘文祥麻辣烫暂停新合作",
+        "onboard_time": 1772507906,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 507604,
+        "num": 419228,
+        "word": "iPhone17只用一个月橙色变粉色",
+        "onboard_time": 1772514745,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181466,
+        "num": 414806,
+        "word": "建议禁止16岁以下使用社媒",
+        "onboard_time": 1772519245,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149447,
+        "num": 410907,
+        "word": "元宵晚会节目单",
+        "onboard_time": 1772520085,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140699,
+        "num": 405791,
+        "word": "元宵节",
+        "onboard_time": 1772492838,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57334,
+        "num": 400228,
+        "word": "全国政协十四届四次会议新闻发布会",
+        "onboard_time": 1772520866,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3248268,
+        "num": 398212,
+        "word": "迪丽热巴将缺席时装周",
+        "onboard_time": 1772518345,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1025496,
+        "num": 391126,
+        "word": "朴春指控朴山多拉吸毒",
+        "onboard_time": 1772518524,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459354,
+        "num": 387240,
+        "word": "特朗普夫人联合国主持会议遭批",
+        "onboard_time": 1772516783,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 433810,
+        "num": 383323,
+        "word": "胡彦斌只一味吃汤圆",
+        "onboard_time": 1772513606,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381421,
+        "num": 381421,
+        "word": "A股",
+        "onboard_time": 1772504666,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 377460,
+        "num": 377460,
+        "word": "丈夫哭着求母亲你曾也是儿媳",
+        "onboard_time": 1772519545,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57790,
+        "num": 264249,
+        "word": "新版闲鱼拍照就可以赚钱",
+        "onboard_time": 1772517865,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243905,
+        "num": 243905,
+        "word": "杨天真 娱乐圈工作越来越无聊",
+        "onboard_time": 1772517804,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47149,
+        "num": 232452,
+        "word": "孙颖莎可爱到蓬出屏幕",
+        "onboard_time": 1772517924,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34461,
+        "num": 227819,
+        "word": "建议将NPC纳入国家认定的新职业",
+        "onboard_time": 1772520926,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138616,
+        "num": 225929,
+        "word": "红果停了很多项目",
+        "onboard_time": 1772503166,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225362,
+        "num": 225362,
+        "word": "AI生成 男女身高",
+        "onboard_time": 1772519844,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214616,
+        "num": 214616,
+        "word": "多方回应女子去世后被嫁弟弟",
+        "onboard_time": 1772512348,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193975,
+        "num": 214611,
+        "word": "曝张元英签售一直玩手机",
+        "onboard_time": 1772518345,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167615,
+        "num": 214601,
+        "word": "A股三大指数同步高开",
+        "onboard_time": 1772518524,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152918,
+        "num": 214596,
+        "word": "无情报证明伊朗计划先袭击美军",
+        "onboard_time": 1772514444,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143242,
+        "num": 214583,
+        "word": "台湾热议台胞证能救命",
+        "onboard_time": 1772514505,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126650,
+        "num": 214580,
+        "word": "地铁上最夯的位置",
+        "onboard_time": 1772512108,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124398,
+        "num": 214567,
+        "word": "郑恺回村也不能撕baby",
+        "onboard_time": 1772512767,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121067,
+        "num": 214561,
+        "word": "苹果官网仅剩两款128GB手机",
+        "onboard_time": 1772520808,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150287,
+        "num": 214546,
+        "word": "公务员平替岗挤满没上岸的年轻人",
+        "onboard_time": 1772518282,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117858,
+        "num": 214538,
+        "word": "男子下高速显示费用8万多震惊收费员",
+        "onboard_time": 1772508806,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113939,
+        "num": 214534,
+        "word": "杨幂说自己有老人味",
+        "onboard_time": 1772512467,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113362,
+        "num": 214525,
+        "word": "世界油阀关闭",
+        "onboard_time": 1772521105,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109869,
+        "num": 214513,
+        "word": "种地吧4开工直播",
+        "onboard_time": 1772507064,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105588,
+        "num": 214503,
+        "word": "父母不应该与孩子分享的事情belike",
+        "onboard_time": 1772516846,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99956,
+        "num": 214493,
+        "word": "苏炳添QQ意外曝光",
+        "onboard_time": 1772512707,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97141,
+        "num": 214490,
+        "word": "朴信惠被曝涉嫌逃税",
+        "onboard_time": 1772513846,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87230,
+        "num": 214482,
+        "word": "王楚钦孙颖莎元宵节祝福",
+        "onboard_time": 1772521105,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13020,
+        "num": 214465,
+        "word": "胜诉原告成被执行人被限高7年多",
+        "onboard_time": 1772520866,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86099,
+        "num": 214456,
+        "word": "伊朗发布袭击美军基地画面",
+        "onboard_time": 1772511928,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85413,
+        "num": 214448,
+        "word": "金饰价一夜大涨42元",
+        "onboard_time": 1772520866,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80457,
+        "num": 214445,
+        "word": "宋丹丹让孙子重新演一遍接机",
+        "onboard_time": 1772517263,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79768,
+        "num": 214435,
+        "word": "晕碳水这个词是谁发明的",
+        "onboard_time": 1772519363,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35287,
+        "num": 214426,
+        "word": "谭松韵董晴 真闺蜜二搭",
+        "onboard_time": 1772512647,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76095,
+        "num": 214417,
+        "word": "鹿晗元宵节撕拉片",
+        "onboard_time": 1772516965,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75110,
+        "num": 214402,
+        "word": "两会",
+        "onboard_time": 1772501727,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74497,
+        "num": 214399,
+        "word": "倪萍怒怼李诚儒",
+        "onboard_time": 1772509766,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73573,
+        "num": 214393,
+        "word": "青岛大姨5小时挖蛏近百斤",
+        "onboard_time": 1772516783,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70617,
+        "num": 214382,
+        "word": "汤圆",
+        "onboard_time": 1772498003,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国精神#"
+    }
+  }
+}
