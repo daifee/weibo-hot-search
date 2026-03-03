@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772543604325,
+  "endTime": 1772545166531,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -732,7 +732,7 @@
     },
     {
       "raw_hot": 738894,
-      "num": 895480,
+      "num": 1110650,
       "word": "豆包红包",
       "onboard_time": 1772540970,
       "rank": 1,
@@ -809,6 +809,14 @@
       "onboard_time": 1772507906,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 672321,
+      "num": 789590,
+      "word": "元宵晚会 好看",
+      "onboard_time": 1772541150,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 667992,
@@ -1187,6 +1195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 555008,
+      "num": 555008,
+      "word": "DIOR大秀",
+      "onboard_time": 1772544270,
+      "rank": 3,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 554280,
       "num": 284191,
       "word": "伊朗遭袭小学课本上沾着鲜血",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1772291963,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 479308,
-      "num": 479308,
-      "word": "元宵晚会 好看",
-      "onboard_time": 1772541150,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 473446,
@@ -2059,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331105,
+      "num": 268744,
+      "word": "美首都集会抗议美以对伊朗动武",
+      "onboard_time": 1772540731,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 330497,
       "num": 463278,
       "word": "多国就美以袭击伊朗表态",
@@ -2289,6 +2305,14 @@
       "onboard_time": 1772331089,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 295281,
+      "num": 240184,
+      "word": "黄金跌破5100美元",
+      "onboard_time": 1772539710,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 295153,
@@ -2547,14 +2571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262798,
-      "num": 240184,
-      "word": "黄金跌破5100美元",
-      "onboard_time": 1772539710,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 261421,
       "num": 261421,
       "word": "孙千米兰看秀待遇",
@@ -2585,14 +2601,6 @@
       "onboard_time": 1772517804,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258898,
-      "num": 258898,
-      "word": "美首都集会抗议美以对伊朗动武",
-      "onboard_time": 1772540731,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 258422,
@@ -2859,6 +2867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230119,
+      "num": 239062,
+      "word": "撒贝宁老鼠干",
+      "onboard_time": 1772543131,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228988,
       "num": 288003,
       "word": "苏炳添QQ意外曝光",
@@ -3116,7 +3132,7 @@
     },
     {
       "raw_hot": 203375,
-      "num": 240195,
+      "num": 287283,
       "word": "穆祉丞白龙马好可爱",
       "onboard_time": 1772539531,
       "rank": 22,
@@ -4019,6 +4035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146298,
+      "num": 180684,
+      "word": "蒲巴甲怒批凭什么质疑丁真",
+      "onboard_time": 1772543850,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146246,
       "num": 162526,
       "word": "秦岚拍延禧攻略大哭戏引发咽炎",
@@ -4243,6 +4267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137513,
+      "num": 180442,
+      "word": "周深梦见你好听",
+      "onboard_time": 1772544509,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137381,
       "num": 137245,
       "word": "伊朗军方称总司令身体健康",
@@ -4369,6 +4401,14 @@
       "onboard_time": 1772413643,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133956,
+      "num": 180416,
+      "word": "刘宇宁魏晨 舞台走位",
+      "onboard_time": 1772544211,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 133909,
@@ -4875,6 +4915,14 @@
       "category": "综艺,剧集"
     },
     {
+      "raw_hot": 115223,
+      "num": 180284,
+      "word": "王菊33岁正是爆改的年纪",
+      "onboard_time": 1772544631,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115007,
       "num": 223011,
       "word": "无限暖暖",
@@ -5144,6 +5192,14 @@
       "word": "这居然是侯明昊的素颜",
       "onboard_time": 1772288245,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108460,
+      "num": 180177,
+      "word": "檀健次好可爱的汤圆",
+      "onboard_time": 1772543968,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -5523,6 +5579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99635,
+      "num": 180355,
+      "word": "以军称再袭伊朗总统府",
+      "onboard_time": 1772545109,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99583,
       "num": 167265,
       "word": "全国中小学新学期迎来多项新变化",
@@ -5641,6 +5705,14 @@
       "onboard_time": 1772427745,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95740,
+      "num": 223798,
+      "word": "西班牙国王收到荣耀MagicV6",
+      "onboard_time": 1772544029,
+      "rank": 19,
+      "category": "数码,国际时政"
     },
     {
       "raw_hot": 95727,
@@ -6467,14 +6539,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 74001,
-      "num": 239062,
-      "word": "撒贝宁老鼠干",
-      "onboard_time": 1772543131,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 73360,
       "num": 134009,
       "word": "TOP专辑秒切",
@@ -6651,6 +6715,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69003,
+      "num": 179873,
+      "word": "沈梦辰给薛凯琪披外套",
+      "onboard_time": 1772544869,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 68997,
+      "num": 238655,
+      "word": "第一眼以为馒头结果是大大大汤圆",
+      "onboard_time": 1772542468,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 68972,
       "num": 167327,
       "word": "年轻人有自己的汤圆吃法",
@@ -6713,6 +6793,14 @@
       "onboard_time": 1772525069,
       "rank": 47,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 67681,
+      "num": 180516,
+      "word": "王楚钦成WTT大满贯赛事单打五冠王",
+      "onboard_time": 1772544029,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 67374,
@@ -6995,6 +7083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55376,
+      "num": 179726,
+      "word": "王源时髦汤圆测评",
+      "onboard_time": 1772545109,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54783,
       "num": 258831,
       "word": "人大代表关注农村大龄青年结婚难",
@@ -7017,14 +7113,6 @@
       "onboard_time": 1772530766,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 52604,
-      "num": 238655,
-      "word": "第一眼以为馒头结果是大大大汤圆",
-      "onboard_time": 1772542468,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 51844,
@@ -7617,6 +7705,14 @@
       "onboard_time": 1772517924,
       "rank": 39,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 23585,
+      "num": 666195,
+      "word": "2026全国两会这些看点值得关注",
+      "onboard_time": 1772544450,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23404,
