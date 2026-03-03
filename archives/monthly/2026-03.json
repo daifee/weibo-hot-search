@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772532423118,
+  "endTime": 1772535128844,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1352362,
+      "num": 675757,
+      "word": "369为TES野辅发声",
+      "onboard_time": 1772534608,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1328633,
       "num": 327899,
       "word": "迪奥官宣王楚然",
@@ -313,6 +321,14 @@
       "onboard_time": 1772332347,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1203197,
+      "num": 1203197,
+      "word": "月全食",
+      "onboard_time": 1772500346,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1196367,
@@ -401,6 +417,14 @@
       "onboard_time": 1772260103,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 990792,
+      "num": 327860,
+      "word": "迪丽热巴滞留第一时间爆出是在豆瓣",
+      "onboard_time": 1772532387,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 989603,
@@ -611,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 782210,
-      "num": 327860,
-      "word": "迪丽热巴滞留第一时间爆出是在豆瓣",
-      "onboard_time": 1772532387,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 781973,
       "num": 357269,
       "word": "我在挨骂 稍等呀",
@@ -689,6 +705,14 @@
       "onboard_time": 1772428704,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 755782,
+      "num": 327951,
+      "word": "舅舅去世舅妈向正月理发外甥索赔百万",
+      "onboard_time": 1772530766,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 744438,
@@ -1073,14 +1097,6 @@
       "onboard_time": 1772328744,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 582146,
-      "num": 327951,
-      "word": "舅舅去世舅妈向正月理发外甥索赔百万",
-      "onboard_time": 1772530766,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 578732,
@@ -2099,6 +2115,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314893,
+      "num": 314893,
+      "word": "刘文祥头像",
+      "onboard_time": 1772533107,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 313354,
+      "num": 877116,
+      "word": "深圳租金涨了",
+      "onboard_time": 1772529807,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311655,
       "num": 207166,
       "word": "亲母女嫁给了亲父子",
@@ -2281,6 +2313,14 @@
       "onboard_time": 1772321717,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284092,
+      "num": 157889,
+      "word": "穆祉丞王橹杰跨代隐藏卡",
+      "onboard_time": 1772532866,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 284020,
@@ -3147,14 +3187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 188187,
-      "num": 747170,
-      "word": "深圳租金涨了",
-      "onboard_time": 1772529807,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187457,
       "num": 230030,
       "word": "1010元托运柴犬3天没喝一口水死亡",
@@ -3249,6 +3281,14 @@
       "onboard_time": 1772499806,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 177140,
+      "num": 327975,
+      "word": "元宵节赏月全食太浪漫了",
+      "onboard_time": 1772530286,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176046,
@@ -3619,6 +3659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153550,
+      "num": 327809,
+      "word": "短剧女主 时尚资源",
+      "onboard_time": 1772531368,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153432,
       "num": 153432,
       "word": "肖战希望乘坐肖战专列穿梭米兰",
@@ -3907,12 +3955,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 143531,
+      "num": 143531,
+      "word": "建议A股延至下午4点闭市",
+      "onboard_time": 1772532746,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142852,
       "num": 206605,
       "word": "苏翊鸣北京夺冠后一度空虚",
       "onboard_time": 1772413281,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142178,
+      "num": 142178,
+      "word": "丈夫回应月子期赶走母亲",
+      "onboard_time": 1772530766,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142021,
@@ -4299,6 +4363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125657,
+      "num": 125657,
+      "word": "以军称打击伊朗总统府",
+      "onboard_time": 1772533167,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125608,
       "num": 221110,
       "word": "巴黎时装周",
@@ -4593,6 +4665,14 @@
       "onboard_time": 1772348843,
       "rank": 39,
       "category": "综艺,剧集"
+    },
+    {
+      "raw_hot": 115305,
+      "num": 115305,
+      "word": "下次元宵月全食要等到2072年",
+      "onboard_time": 1772534727,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115007,
@@ -5067,6 +5147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102850,
+      "num": 117389,
+      "word": "小满春春在一起了",
+      "onboard_time": 1772532866,
+      "rank": 32,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 102777,
       "num": 102777,
       "word": "广州深圳出发机票暴跌超80%",
@@ -5097,6 +5185,14 @@
       "onboard_time": 1772448205,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101543,
+      "num": 117228,
+      "word": "樊振东退世排那天照常训练",
+      "onboard_time": 1772532505,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 101477,
@@ -5211,14 +5307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99741,
-      "num": 327975,
-      "word": "元宵节赏月全食太浪漫了",
-      "onboard_time": 1772530286,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99644,
       "num": 99644,
       "word": "梅西梅开二度",
@@ -5281,14 +5369,6 @@
       "onboard_time": 1772357782,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98742,
-      "num": 327809,
-      "word": "短剧女主 时尚资源",
-      "onboard_time": 1772531368,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 98607,
@@ -5361,6 +5441,14 @@
       "onboard_time": 1772457027,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95428,
+      "num": 327904,
+      "word": "建议提升教师待遇保障水平",
+      "onboard_time": 1772531548,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95041,
@@ -5537,6 +5625,14 @@
       "onboard_time": 1772342962,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91598,
+      "num": 116307,
+      "word": "痞幼直播关美颜",
+      "onboard_time": 1772533706,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 91510,
@@ -5827,6 +5923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82079,
+      "num": 327756,
+      "word": "泰星MAi自曝脸部花费几百万",
+      "onboard_time": 1772531428,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81987,
       "num": 81987,
       "word": "孙颖莎说跟王曼昱交手都很焦灼",
@@ -5963,14 +6067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 77955,
-      "num": 327756,
-      "word": "泰星MAi自曝脸部花费几百万",
-      "onboard_time": 1772531428,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77820,
       "num": 141428,
       "word": "Angelababy公主拍立得",
@@ -5993,6 +6089,14 @@
       "onboard_time": 1772465364,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77459,
+      "num": 116365,
+      "word": "中国女足开门红",
+      "onboard_time": 1772534727,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 77110,
@@ -6171,14 +6275,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 72126,
-      "num": 327904,
-      "word": "建议提升教师待遇保障水平",
-      "onboard_time": 1772531548,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71952,
       "num": 195402,
       "word": "吴磊Burberry风衣大片",
@@ -6251,6 +6347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70156,
+      "num": 116027,
+      "word": "刘文祥 每家店味道不一样",
+      "onboard_time": 1772534608,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 70055,
       "num": 76665,
       "word": "王曼昱孙颖莎女单争金",
@@ -6289,14 +6393,6 @@
       "onboard_time": 1772498844,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 69157,
-      "num": 167340,
-      "word": "月全食",
-      "onboard_time": 1772500346,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 69111,
@@ -6353,6 +6449,14 @@
       "onboard_time": 1772344042,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67892,
+      "num": 115772,
+      "word": "纯真年代改了方穆静妈妈人设",
+      "onboard_time": 1772534549,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 67865,
@@ -6601,6 +6705,14 @@
       "onboard_time": 1772373806,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 56483,
+      "num": 116481,
+      "word": "李兰迪汤圆全洒了",
+      "onboard_time": 1772535029,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 56463,
@@ -6951,6 +7063,14 @@
       "num": 224680,
       "word": "娘家人带一卡车牛羊来看望出嫁女子",
       "onboard_time": 1772507245,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36527,
+      "num": 173067,
+      "word": "男子40克给父亲救命黄金被捡走",
+      "onboard_time": 1772534065,
       "rank": 19,
       "category": "民生新闻"
     },
