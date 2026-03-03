@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772514155502,
+  "endTime": 1772517448048,
   "band_list": [
     {
       "raw_hot": 14299027,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 927402,
-      "num": 256489,
+      "num": 259839,
       "word": "胡彦斌只一味吃汤圆",
       "onboard_time": 1772513606,
       "rank": 11,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 613557,
-      "num": 228700,
+      "num": 259494,
       "word": "A股",
       "onboard_time": 1772504666,
       "rank": 11,
@@ -115,6 +115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 556996,
+      "num": 801586,
+      "word": "油价调整",
+      "onboard_time": 1772512647,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 547078,
       "num": 547078,
       "word": "美以被曝几个月前就密谋联手打伊朗",
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511783,
+      "num": 398622,
+      "word": "iPhone17只用一个月橙色变粉色",
+      "onboard_time": 1772514745,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 464045,
       "num": 227723,
       "word": "iPhone17e浅粉色",
@@ -145,6 +161,14 @@
       "onboard_time": 1772462546,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427522,
+      "num": 427522,
+      "word": "伊朗发布袭击美军基地画面",
+      "onboard_time": 1772511928,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 399363,
@@ -187,14 +211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 355385,
-      "num": 292812,
-      "word": "油价调整",
-      "onboard_time": 1772512647,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 353606,
       "num": 353606,
       "word": "男子下高速显示费用8万多震惊收费员",
@@ -204,11 +220,19 @@
     },
     {
       "raw_hot": 323894,
-      "num": 225849,
+      "num": 258969,
       "word": "戒糖加跳绳5个月威力有多大",
       "onboard_time": 1772498844,
       "rank": 12,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 322836,
+      "num": 259058,
+      "word": "台湾热议台胞证能救命",
+      "onboard_time": 1772514505,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 319458,
@@ -225,6 +249,14 @@
       "onboard_time": 1772503767,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309427,
+      "num": 309427,
+      "word": "多方回应女子去世后被嫁弟弟",
+      "onboard_time": 1772512348,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308147,
@@ -259,6 +291,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292872,
+      "num": 259779,
+      "word": "郑恺回村也不能撕baby",
+      "onboard_time": 1772512767,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284961,
+      "num": 259755,
+      "word": "朴信惠被曝涉嫌逃税",
+      "onboard_time": 1772513846,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281669,
       "num": 281669,
       "word": "中国有了量子手机",
@@ -291,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259959,
+      "num": 259959,
+      "word": "地铁上最夯的位置",
+      "onboard_time": 1772512108,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257566,
       "num": 257566,
       "word": "郭晓婷回复孙千",
@@ -308,7 +364,7 @@
     },
     {
       "raw_hot": 247050,
-      "num": 247050,
+      "num": 259254,
       "word": "光与夜之恋",
       "onboard_time": 1772512407,
       "rank": 13,
@@ -323,19 +379,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 240328,
-      "num": 240328,
-      "word": "伊朗发布袭击美军基地画面",
-      "onboard_time": 1772511928,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 235810,
-      "num": 235810,
-      "word": "郑恺回村也不能撕baby",
-      "onboard_time": 1772512767,
-      "rank": 22,
+      "raw_hot": 235942,
+      "num": 259608,
+      "word": "杨幂说自己有老人味",
+      "onboard_time": 1772512467,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -356,7 +404,7 @@
     },
     {
       "raw_hot": 228988,
-      "num": 228988,
+      "num": 259816,
       "word": "苏炳添QQ意外曝光",
       "onboard_time": 1772512707,
       "rank": 12,
@@ -369,14 +417,6 @@
       "onboard_time": 1772502026,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209584,
-      "num": 209584,
-      "word": "杨幂说自己有老人味",
-      "onboard_time": 1772512467,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 198358,
@@ -403,8 +443,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180533,
+      "num": 259710,
+      "word": "无情报证明伊朗计划先袭击美军",
+      "onboard_time": 1772514444,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 180097,
-      "num": 209560,
+      "num": 258734,
       "word": "中方强烈谴责一切攻击儿童行为",
       "onboard_time": 1772511026,
       "rank": 16,
@@ -420,7 +468,7 @@
     },
     {
       "raw_hot": 175665,
-      "num": 209478,
+      "num": 258601,
       "word": "不要和扫兴的人一起去吃自助餐",
       "onboard_time": 1772509465,
       "rank": 17,
@@ -500,23 +548,15 @@
     },
     {
       "raw_hot": 157689,
-      "num": 209497,
+      "num": 259408,
       "word": "谭松韵董晴 真闺蜜二搭",
       "onboard_time": 1772512647,
       "rank": 36,
       "category": "剧集"
     },
     {
-      "raw_hot": 156959,
-      "num": 209545,
-      "word": "多方回应女子去世后被嫁弟弟",
-      "onboard_time": 1772512348,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150064,
-      "num": 209578,
+      "num": 258861,
       "word": "Angelababy生图有多权威",
       "onboard_time": 1772510785,
       "rank": 19,
@@ -524,7 +564,7 @@
     },
     {
       "raw_hot": 149765,
-      "num": 209472,
+      "num": 259279,
       "word": "孟子义李昀锐跳overdrive",
       "onboard_time": 1772513487,
       "rank": 33,
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 147611,
-      "num": 209414,
+      "num": 258784,
       "word": "带火刘文祥的紫薯精30天涨粉421万",
       "onboard_time": 1772512108,
       "rank": 23,
@@ -572,7 +612,7 @@
     },
     {
       "raw_hot": 134907,
-      "num": 220432,
+      "num": 258285,
       "word": "两会",
       "onboard_time": 1772501727,
       "rank": 18,
@@ -596,7 +636,7 @@
     },
     {
       "raw_hot": 132050,
-      "num": 209412,
+      "num": 258928,
       "word": "小猫竟然真会用给它缝的枕头",
       "onboard_time": 1772510785,
       "rank": 26,
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 131614,
-      "num": 221922,
+      "num": 258577,
       "word": "汤圆",
       "onboard_time": 1772498003,
       "rank": 22,
@@ -620,7 +660,7 @@
     },
     {
       "raw_hot": 127181,
-      "num": 209317,
+      "num": 258682,
       "word": "迪丽热巴陈飞宇元宵营业",
       "onboard_time": 1772512227,
       "rank": 30,
@@ -628,7 +668,7 @@
     },
     {
       "raw_hot": 125969,
-      "num": 223452,
+      "num": 258434,
       "word": "肖战试衣服时的表情",
       "onboard_time": 1772506284,
       "rank": 24,
@@ -660,11 +700,19 @@
     },
     {
       "raw_hot": 120674,
-      "num": 209386,
+      "num": 258462,
       "word": "不足5%的女性能在晚10点前入睡",
       "onboard_time": 1772513846,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116779,
+      "num": 259326,
+      "word": "凤凰传奇抢票",
+      "onboard_time": 1772511987,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 115007,
@@ -699,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112430,
-      "num": 209289,
-      "word": "地铁上最夯的位置",
-      "onboard_time": 1772512108,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112194,
       "num": 156374,
       "word": "俄罗斯",
@@ -715,12 +755,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 111906,
-      "num": 209287,
-      "word": "朴信惠被曝涉嫌逃税",
-      "onboard_time": 1772513846,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 111484,
+      "num": 259394,
+      "word": "伊朗称击中了美空军基地大楼",
+      "onboard_time": 1772517205,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109859,
@@ -803,6 +843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100128,
+      "num": 259013,
+      "word": "特朗普夫人联合国主持会议遭批",
+      "onboard_time": 1772516783,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99583,
       "num": 167265,
       "word": "全国中小学新学期迎来多项新变化",
@@ -843,12 +891,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92654,
-      "num": 209129,
-      "word": "凤凰传奇抢票",
-      "onboard_time": 1772511987,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 92659,
+      "num": 259169,
+      "word": "建议加强落实双休制度",
+      "onboard_time": 1772514028,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91933,
@@ -899,12 +947,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86517,
+      "num": 259124,
+      "word": "青岛大姨5小时挖蛏近百斤",
+      "onboard_time": 1772516783,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85478,
       "num": 209095,
       "word": "成毅元宵节三张明信片",
       "onboard_time": 1772508386,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82934,
+      "num": 258907,
+      "word": "8成燃油车主换车选新能源",
+      "onboard_time": 1772516904,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 82302,
@@ -971,11 +1035,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75621,
+      "num": 258662,
+      "word": "肖战黑色亮面皮革",
+      "onboard_time": 1772516364,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74284,
       "num": 156314,
       "word": "陈浩民夫妇滞留阿联酋",
       "onboard_time": 1772445266,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73238,
+      "num": 258491,
+      "word": "宋丹丹让孙子重新演一遍接机",
+      "onboard_time": 1772517263,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -985,6 +1065,14 @@
       "onboard_time": 1772496502,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 71391,
+      "num": 258366,
+      "word": "鹿晗元宵节撕拉片",
+      "onboard_time": 1772516965,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 69364,
@@ -1041,6 +1129,14 @@
       "onboard_time": 1772452645,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67374,
+      "num": 258347,
+      "word": "你可曾在雪山上救过一只狐狸",
+      "onboard_time": 1772514564,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 66734,
@@ -1155,12 +1251,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54783,
+      "num": 258831,
+      "word": "人大代表关注农村大龄青年结婚难",
+      "onboard_time": 1772516064,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53056,
       "num": 809660,
       "word": "598名女性获全国三八红旗手称号",
       "onboard_time": 1772460686,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 51654,
+      "num": 259082,
+      "word": "周柯宇霸总男大秒切换",
+      "onboard_time": 1772514984,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 50864,
@@ -1185,14 +1297,6 @@
       "onboard_time": 1772462966,
       "rank": 39,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 46485,
-      "num": 209349,
-      "word": "建议加强落实双休制度",
-      "onboard_time": 1772514028,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46381,
