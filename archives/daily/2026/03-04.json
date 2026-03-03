@@ -1,6 +1,6 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772554135864,
+  "endTime": 1772557181788,
   "band_list": [
     {
       "raw_hot": 750125,
@@ -51,12 +51,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 339415,
+      "num": 368314,
+      "word": "美以伊最新局势",
+      "onboard_time": 1772552189,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 334572,
       "num": 369131,
       "word": "金智秀 迪奥公主",
       "onboard_time": 1772547152,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325679,
+      "num": 627178,
+      "word": "12306回应乘客在高铁上用排插",
+      "onboard_time": 1772554527,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307412,
@@ -83,20 +99,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251454,
-      "num": 368314,
-      "word": "美以伊最新局势",
-      "onboard_time": 1772552189,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 244714,
       "num": 368748,
       "word": "山姆1.38公斤冰块卖37.9元",
       "onboard_time": 1772547931,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241596,
+      "num": 364714,
+      "word": "王毅要求以方确保中国人员机构安全",
+      "onboard_time": 1772551588,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214661,
@@ -155,6 +171,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166301,
+      "num": 494829,
+      "word": "金价银价断崖式跳水",
+      "onboard_time": 1772528549,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 165765,
+      "num": 366697,
+      "word": "麦当劳CEO试吃自家汉堡",
+      "onboard_time": 1772552427,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 165254,
       "num": 367806,
       "word": "华晨宇好稳",
@@ -195,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140709,
-      "num": 366697,
-      "word": "麦当劳CEO试吃自家汉堡",
-      "onboard_time": 1772552427,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 124375,
       "num": 366623,
       "word": "美以对伊动武最让人心碎的照片",
@@ -235,12 +259,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97544,
-      "num": 494829,
-      "word": "金价银价断崖式跳水",
-      "onboard_time": 1772528549,
-      "rank": 9,
-      "category": "财经"
+      "raw_hot": 101365,
+      "num": 229592,
+      "word": "伦敦机场18小时未进食求助女子发声",
+      "onboard_time": 1772555485,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97458,
@@ -307,6 +331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 77446,
+      "num": 228697,
+      "word": "驻迪拜总领馆专人跟踪特别紧急求助案",
+      "onboard_time": 1772556563,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76242,
       "num": 365038,
       "word": "iPhone17e首发国补即破价",
@@ -321,14 +353,6 @@
       "onboard_time": 1772539531,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71182,
-      "num": 364714,
-      "word": "王毅要求以方确保中国人员机构安全",
-      "onboard_time": 1772551588,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67971,
@@ -363,6 +387,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 49179,
+      "num": 228153,
+      "word": "痞幼直播关美颜",
+      "onboard_time": 1772533706,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 44878,
       "num": 367142,
       "word": "建议提升教师待遇保障水平",
@@ -379,7 +411,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38561,
+      "raw_hot": 39762,
       "num": 368491,
       "word": "Dior秀场泛出莲花之韵",
       "onboard_time": 1772553327,
@@ -395,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20617,
+      "num": 227319,
+      "word": "建议保障小学每周5节体育课",
+      "onboard_time": 1772551647,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15347,
       "num": 367014,
       "word": "建议建立长期护理保险制度",
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#总书记两会上关心的那些事#"
+    },
+    {
+      "word": "#习近平的两会之喻#"
     }
   ]
 }

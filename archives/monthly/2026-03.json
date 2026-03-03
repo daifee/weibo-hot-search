@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772554135864,
+  "endTime": 1772557181788,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -2099,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339415,
+      "num": 372552,
+      "word": "美以伊最新局势",
+      "onboard_time": 1772552189,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 338703,
       "num": 338703,
       "word": "命运真的会提醒你适合走哪条路",
@@ -2169,6 +2177,14 @@
       "onboard_time": 1772537187,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325679,
+      "num": 627178,
+      "word": "12306回应乘客在高铁上用排插",
+      "onboard_time": 1772554527,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 324230,
@@ -2731,14 +2747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 251454,
-      "num": 372552,
-      "word": "美以伊最新局势",
-      "onboard_time": 1772552189,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 250994,
       "num": 846438,
       "word": "2009与2025麦当劳对比",
@@ -2825,6 +2833,14 @@
       "onboard_time": 1772347942,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241596,
+      "num": 371817,
+      "word": "王毅要求以方确保中国人员机构安全",
+      "onboard_time": 1772551588,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 240541,
@@ -3723,6 +3739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 166301,
+      "num": 850537,
+      "word": "金价银价断崖式跳水",
+      "onboard_time": 1772528549,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166063,
       "num": 166063,
       "word": "伊朗称击落美军死神无人机",
@@ -3737,6 +3761,14 @@
       "onboard_time": 1772327664,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165765,
+      "num": 372280,
+      "word": "麦当劳CEO试吃自家汉堡",
+      "onboard_time": 1772552427,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 165254,
@@ -4377,14 +4409,6 @@
       "onboard_time": 1772355443,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 140709,
-      "num": 372280,
-      "word": "麦当劳CEO试吃自家汉堡",
-      "onboard_time": 1772552427,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 140660,
@@ -5659,6 +5683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 101365,
+      "num": 229592,
+      "word": "伦敦机场18小时未进食求助女子发声",
+      "onboard_time": 1772555485,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101174,
       "num": 101174,
       "word": "王曼昱获得亚军",
@@ -5849,14 +5881,6 @@
       "onboard_time": 1772370503,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97991,
-      "num": 850537,
-      "word": "金价银价断崖式跳水",
-      "onboard_time": 1772528549,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 97632,
@@ -6339,14 +6363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84988,
-      "num": 371817,
-      "word": "王毅要求以方确保中国人员机构安全",
-      "onboard_time": 1772551588,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 84869,
       "num": 131381,
       "word": "大早上以为自己进平行世界了",
@@ -6601,6 +6617,14 @@
       "onboard_time": 1772534727,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77446,
+      "num": 228697,
+      "word": "驻迪拜总领馆专人跟踪特别紧急求助案",
+      "onboard_time": 1772556563,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77110,
@@ -7691,6 +7715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39762,
+      "num": 368491,
+      "word": "Dior秀场泛出莲花之韵",
+      "onboard_time": 1772553327,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 39166,
       "num": 343547,
       "word": "救援队讲述被困井下3年小狗近况",
@@ -7705,14 +7737,6 @@
       "onboard_time": 1772293583,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38561,
-      "num": 368491,
-      "word": "Dior秀场泛出莲花之韵",
-      "onboard_time": 1772553327,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 38265,
