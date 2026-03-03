@@ -1,0 +1,410 @@
+{
+  "runTime": 1772514155502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 970577,
+        "num": 1155292,
+        "word": "越来越多国家被卷入中东冲突",
+        "onboard_time": 1772495781,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 487817,
+        "num": 854309,
+        "word": "种地吧4开工直播",
+        "onboard_time": 1772507064,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73583,
+        "num": 680795,
+        "word": "90秒看懂全国两会重要知识点",
+        "onboard_time": 1772507485,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 605528,
+        "num": 605528,
+        "word": "刘文祥麻辣烫暂停新合作",
+        "onboard_time": 1772507906,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 338779,
+        "num": 338779,
+        "word": "红果停了很多项目",
+        "onboard_time": 1772503166,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 336357,
+        "num": 336357,
+        "word": "伊朗发起第13轮攻击",
+        "onboard_time": 1772496684,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 326531,
+        "num": 326531,
+        "word": "男子下高速显示费用8万多震惊收费员",
+        "onboard_time": 1772508806,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287750,
+        "num": 287750,
+        "word": "倪萍怒怼李诚儒",
+        "onboard_time": 1772509766,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214449,
+        "num": 282093,
+        "word": "有人考公雇人大量虚假报名吓走对手",
+        "onboard_time": 1772509465,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200014,
+        "num": 272218,
+        "word": "元宵节",
+        "onboard_time": 1772492838,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10095024,
+        "num": 10095024,
+        "word": "谢娜喊话薛之谦",
+        "onboard_time": 1772501906,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927402,
+        "num": 256489,
+        "word": "胡彦斌只一味吃汤圆",
+        "onboard_time": 1772513606,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247050,
+        "num": 247050,
+        "word": "光与夜之恋",
+        "onboard_time": 1772512407,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240328,
+        "num": 240328,
+        "word": "伊朗发布袭击美军基地画面",
+        "onboard_time": 1772511928,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235810,
+        "num": 235810,
+        "word": "郑恺回村也不能撕baby",
+        "onboard_time": 1772512767,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228988,
+        "num": 228988,
+        "word": "苏炳添QQ意外曝光",
+        "onboard_time": 1772512707,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209584,
+        "num": 209584,
+        "word": "杨幂说自己有老人味",
+        "onboard_time": 1772512467,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150064,
+        "num": 209578,
+        "word": "Angelababy生图有多权威",
+        "onboard_time": 1772510785,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179682,
+        "num": 209560,
+        "word": "中方强烈谴责一切攻击儿童行为",
+        "onboard_time": 1772511026,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156959,
+        "num": 209545,
+        "word": "多方回应女子去世后被嫁弟弟",
+        "onboard_time": 1772512348,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180125,
+        "num": 209523,
+        "word": "种地吧",
+        "onboard_time": 1772466984,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159636,
+        "num": 209511,
+        "word": "戒糖加跳绳5个月威力有多大",
+        "onboard_time": 1772498844,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157689,
+        "num": 209497,
+        "word": "谭松韵董晴 真闺蜜二搭",
+        "onboard_time": 1772512647,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156333,
+        "num": 209478,
+        "word": "不要和扫兴的人一起去吃自助餐",
+        "onboard_time": 1772509465,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149765,
+        "num": 209472,
+        "word": "孟子义李昀锐跳overdrive",
+        "onboard_time": 1772513487,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141805,
+        "num": 209459,
+        "word": "白日提灯",
+        "onboard_time": 1772506404,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355385,
+        "num": 209442,
+        "word": "油价调整",
+        "onboard_time": 1772512647,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134513,
+        "num": 209414,
+        "word": "带火刘文祥的紫薯精30天涨粉421万",
+        "onboard_time": 1772512108,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132050,
+        "num": 209412,
+        "word": "小猫竟然真会用给它缝的枕头",
+        "onboard_time": 1772510785,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120674,
+        "num": 209386,
+        "word": "不足5%的女性能在晚10点前入睡",
+        "onboard_time": 1772513846,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123720,
+        "num": 209366,
+        "word": "王者荣耀",
+        "onboard_time": 1772509228,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123371,
+        "num": 209352,
+        "word": "张凌赫田曦薇亲脸花絮",
+        "onboard_time": 1772509347,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46485,
+        "num": 209349,
+        "word": "建议加强落实双休制度",
+        "onboard_time": 1772514028,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114586,
+        "num": 209332,
+        "word": "肖战试衣服时的表情",
+        "onboard_time": 1772506284,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113271,
+        "num": 209317,
+        "word": "迪丽热巴陈飞宇元宵营业",
+        "onboard_time": 1772512227,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112430,
+        "num": 209289,
+        "word": "地铁上最夯的位置",
+        "onboard_time": 1772512108,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111906,
+        "num": 209287,
+        "word": "朴信惠被曝涉嫌逃税",
+        "onboard_time": 1772513846,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110875,
+        "num": 209259,
+        "word": "以色列空袭黎巴嫩52死154伤",
+        "onboard_time": 1772497341,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108771,
+        "num": 209240,
+        "word": "杨幂说女孩子要多吃berry",
+        "onboard_time": 1772503767,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58868,
+        "num": 209238,
+        "word": "傻妞 人类爱上AI的前兆",
+        "onboard_time": 1772512948,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107459,
+        "num": 209210,
+        "word": "汤圆",
+        "onboard_time": 1772498003,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104376,
+        "num": 209193,
+        "word": "火车硬座惊现上下铺",
+        "onboard_time": 1772498964,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99741,
+        "num": 209178,
+        "word": "檀健次卢昱晓双人cha",
+        "onboard_time": 1772511026,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99730,
+        "num": 209176,
+        "word": "我的山与海定档",
+        "onboard_time": 1772507845,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88482,
+        "num": 209146,
+        "word": "iPhone最便宜新机来了",
+        "onboard_time": 1772499806,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97039,
+        "num": 209139,
+        "word": "张凌赫曾经在我的雅思机构当助教",
+        "onboard_time": 1772513007,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92654,
+        "num": 209129,
+        "word": "凤凰传奇抢票",
+        "onboard_time": 1772511987,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85042,
+        "num": 209106,
+        "word": "阿轲全新传说皮肤",
+        "onboard_time": 1772510304,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85478,
+        "num": 209095,
+        "word": "成毅元宵节三张明信片",
+        "onboard_time": 1772508386,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77110,
+        "num": 209067,
+        "word": "阳光信用",
+        "onboard_time": 1772509107,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国精神#"
+    }
+  }
+}

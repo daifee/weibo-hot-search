@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772513673088,
+  "endTime": 1772514155502,
   "band_list": [
     {
       "raw_hot": 14299027,
@@ -43,20 +43,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 927402,
+      "num": 256489,
+      "word": "胡彦斌只一味吃汤圆",
+      "onboard_time": 1772513606,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 913630,
       "num": 1137864,
       "word": "哈梅内伊妻子伤重不治去世",
       "onboard_time": 1772459065,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 857817,
-      "num": 222056,
-      "word": "胡彦斌只一味吃汤圆",
-      "onboard_time": 1772513606,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 807660,
@@ -187,6 +187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 355385,
+      "num": 292812,
+      "word": "油价调整",
+      "onboard_time": 1772512647,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 353606,
       "num": 353606,
       "word": "男子下高速显示费用8万多震惊收费员",
@@ -251,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 292812,
-      "num": 292812,
-      "word": "油价调整",
-      "onboard_time": 1772512647,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 281669,
       "num": 281669,
       "word": "中国有了量子手机",
@@ -307,12 +307,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 247050,
+      "num": 247050,
+      "word": "光与夜之恋",
+      "onboard_time": 1772512407,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245508,
       "num": 82684,
       "word": "伊朗伊斯法罕传出巨大爆炸声",
       "onboard_time": 1772474356,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 240328,
+      "num": 240328,
+      "word": "伊朗发布袭击美军基地画面",
+      "onboard_time": 1772511928,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 235810,
+      "num": 235810,
+      "word": "郑恺回村也不能撕baby",
+      "onboard_time": 1772512767,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 235707,
@@ -324,11 +348,19 @@
     },
     {
       "raw_hot": 234396,
-      "num": 234396,
+      "num": 282093,
       "word": "有人考公雇人大量虚假报名吓走对手",
       "onboard_time": 1772509465,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228988,
+      "num": 228988,
+      "word": "苏炳添QQ意外曝光",
+      "onboard_time": 1772512707,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 219372,
@@ -339,20 +371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214057,
-      "num": 214057,
-      "word": "苏炳添QQ意外曝光",
-      "onboard_time": 1772512707,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 208673,
-      "num": 208673,
-      "word": "光与夜之恋",
-      "onboard_time": 1772512407,
-      "rank": 13,
-      "category": "游戏"
+      "raw_hot": 209584,
+      "num": 209584,
+      "word": "杨幂说自己有老人味",
+      "onboard_time": 1772512467,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 198358,
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 180097,
-      "num": 180097,
+      "num": 209560,
       "word": "中方强烈谴责一切攻击儿童行为",
       "onboard_time": 1772511026,
       "rank": 16,
@@ -396,19 +420,11 @@
     },
     {
       "raw_hot": 175665,
-      "num": 175665,
+      "num": 209478,
       "word": "不要和扫兴的人一起去吃自助餐",
       "onboard_time": 1772509465,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 174778,
-      "num": 174778,
-      "word": "伊朗发布袭击美军基地画面",
-      "onboard_time": 1772511928,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 171633,
@@ -417,22 +433,6 @@
       "onboard_time": 1772450786,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171587,
-      "num": 171587,
-      "word": "杨幂说自己有老人味",
-      "onboard_time": 1772512467,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 171376,
-      "num": 171376,
-      "word": "郑恺回村也不能撕baby",
-      "onboard_time": 1772512767,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 170383,
@@ -499,6 +499,38 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157689,
+      "num": 209497,
+      "word": "谭松韵董晴 真闺蜜二搭",
+      "onboard_time": 1772512647,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156959,
+      "num": 209545,
+      "word": "多方回应女子去世后被嫁弟弟",
+      "onboard_time": 1772512348,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150064,
+      "num": 209578,
+      "word": "Angelababy生图有多权威",
+      "onboard_time": 1772510785,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149765,
+      "num": 209472,
+      "word": "孟子义李昀锐跳overdrive",
+      "onboard_time": 1772513487,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149109,
       "num": 144212,
       "word": "美军称已有6名军人身亡",
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 147611,
-      "num": 147611,
+      "num": 209414,
       "word": "带火刘文祥的紫薯精30天涨粉421万",
       "onboard_time": 1772512108,
       "rank": 23,
@@ -524,7 +556,7 @@
     },
     {
       "raw_hot": 144705,
-      "num": 144705,
+      "num": 209366,
       "word": "王者荣耀",
       "onboard_time": 1772509228,
       "rank": 24,
@@ -537,14 +569,6 @@
       "onboard_time": 1772507547,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 139382,
-      "num": 172405,
-      "word": "Angelababy生图有多权威",
-      "onboard_time": 1772510785,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 134907,
@@ -571,20 +595,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132050,
+      "num": 209412,
+      "word": "小猫竟然真会用给它缝的枕头",
+      "onboard_time": 1772510785,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131614,
       "num": 221922,
       "word": "汤圆",
       "onboard_time": 1772498003,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 129761,
-      "num": 129761,
-      "word": "小猫竟然真会用给它缝的枕头",
-      "onboard_time": 1772510785,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 128364,
@@ -596,18 +620,10 @@
     },
     {
       "raw_hot": 127181,
-      "num": 127181,
+      "num": 209317,
       "word": "迪丽热巴陈飞宇元宵营业",
       "onboard_time": 1772512227,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 126004,
-      "num": 126004,
-      "word": "孟子义李昀锐跳overdrive",
-      "onboard_time": 1772513487,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -627,6 +643,14 @@
       "category": "美妆,作品衍生"
     },
     {
+      "raw_hot": 123371,
+      "num": 209352,
+      "word": "张凌赫田曦薇亲脸花絮",
+      "onboard_time": 1772509347,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122728,
       "num": 156387,
       "word": "iPadAir 没高刷",
@@ -635,12 +659,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 117957,
-      "num": 117957,
-      "word": "谭松韵董晴 真闺蜜二搭",
-      "onboard_time": 1772512647,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 120674,
+      "num": 209386,
+      "word": "不足5%的女性能在晚10点前入睡",
+      "onboard_time": 1772513846,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115007,
@@ -675,12 +699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112243,
-      "num": 117920,
-      "word": "张凌赫田曦薇亲脸花絮",
-      "onboard_time": 1772509347,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 112430,
+      "num": 209289,
+      "word": "地铁上最夯的位置",
+      "onboard_time": 1772512108,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 112194,
@@ -691,27 +715,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111906,
+      "num": 209287,
+      "word": "朴信惠被曝涉嫌逃税",
+      "onboard_time": 1772513846,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109859,
       "num": 156371,
       "word": "海澜之家被暂停全军采购资格",
       "onboard_time": 1772444005,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109384,
-      "num": 118092,
-      "word": "地铁上最夯的位置",
-      "onboard_time": 1772512108,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 109335,
-      "num": 127320,
-      "word": "多方回应女子去世后被嫁弟弟",
-      "onboard_time": 1772512348,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -772,7 +788,7 @@
     },
     {
       "raw_hot": 100843,
-      "num": 117888,
+      "num": 209178,
       "word": "檀健次卢昱晓双人cha",
       "onboard_time": 1772511026,
       "rank": 44,
@@ -811,20 +827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97039,
+      "num": 209139,
+      "word": "张凌赫曾经在我的雅思机构当助教",
+      "onboard_time": 1772513007,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95013,
-      "num": 117926,
+      "num": 209106,
       "word": "阿轲全新传说皮肤",
       "onboard_time": 1772510304,
       "rank": 40,
       "category": "游戏"
     },
     {
-      "raw_hot": 93664,
-      "num": 117865,
-      "word": "张凌赫曾经在我的雅思机构当助教",
-      "onboard_time": 1772513007,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 92654,
+      "num": 209129,
+      "word": "凤凰传奇抢票",
+      "onboard_time": 1772511987,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 91933,
@@ -841,14 +865,6 @@
       "onboard_time": 1772511267,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91172,
-      "num": 117864,
-      "word": "凤凰传奇抢票",
-      "onboard_time": 1772511987,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 90691,
@@ -881,6 +897,14 @@
       "onboard_time": 1772495901,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85478,
+      "num": 209095,
+      "word": "成毅元宵节三张明信片",
+      "onboard_time": 1772508386,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 82302,
@@ -929,6 +953,14 @@
       "onboard_time": 1772507485,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77110,
+      "num": 209067,
+      "word": "阳光信用",
+      "onboard_time": 1772509107,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 76862,
@@ -1115,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58868,
+      "num": 209238,
+      "word": "傻妞 人类爱上AI的前兆",
+      "onboard_time": 1772512948,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 53056,
       "num": 809660,
       "word": "598名女性获全国三八红旗手称号",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1772462966,
       "rank": 39,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 46485,
+      "num": 209349,
+      "word": "建议加强落实双休制度",
+      "onboard_time": 1772514028,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46381,
@@ -1185,14 +1233,6 @@
       "onboard_time": 1772470639,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37171,
-      "num": 117942,
-      "word": "傻妞 人类爱上AI的前兆",
-      "onboard_time": 1772512948,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 37063,
