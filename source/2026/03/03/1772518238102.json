@@ -1,0 +1,410 @@
+{
+  "runTime": 1772518238102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 692585,
+        "num": 1110813,
+        "word": "越来越多国家被卷入中东冲突",
+        "onboard_time": 1772495781,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 586597,
+        "num": 788542,
+        "word": "油价调整",
+        "onboard_time": 1772512647,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62472,
+        "num": 622323,
+        "word": "90秒看懂全国两会重要知识点",
+        "onboard_time": 1772507485,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449294,
+        "num": 449294,
+        "word": "刘文祥麻辣烫暂停新合作",
+        "onboard_time": 1772507906,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 405257,
+        "num": 405257,
+        "word": "伊朗发布袭击美军基地画面",
+        "onboard_time": 1772511928,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 606994,
+        "num": 390280,
+        "word": "iPhone17只用一个月橙色变粉色",
+        "onboard_time": 1772514745,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 324230,
+        "num": 324230,
+        "word": "多方回应女子去世后被嫁弟弟",
+        "onboard_time": 1772512348,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231063,
+        "num": 323221,
+        "word": "地铁上最夯的位置",
+        "onboard_time": 1772512108,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199058,
+        "num": 311844,
+        "word": "男子下高速显示费用8万多震惊收费员",
+        "onboard_time": 1772508806,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173485,
+        "num": 296272,
+        "word": "红果停了很多项目",
+        "onboard_time": 1772503166,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 608795,
+        "num": 285196,
+        "word": "胡彦斌只一味吃汤圆",
+        "onboard_time": 1772513606,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245735,
+        "num": 270084,
+        "word": "伊朗称击中了美空军基地大楼",
+        "onboard_time": 1772517205,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269419,
+        "num": 269419,
+        "word": "郑恺回村也不能撕baby",
+        "onboard_time": 1772512767,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258108,
+        "num": 258108,
+        "word": "朴信惠被曝涉嫌逃税",
+        "onboard_time": 1772513846,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218215,
+        "num": 218215,
+        "word": "A股",
+        "onboard_time": 1772504666,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211296,
+        "num": 211296,
+        "word": "无情报证明伊朗计划先袭击美军",
+        "onboard_time": 1772514444,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207333,
+        "num": 207333,
+        "word": "杨幂说自己有老人味",
+        "onboard_time": 1772512467,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72014,
+        "num": 207232,
+        "word": "新版闲鱼拍照就可以赚钱",
+        "onboard_time": 1772517865,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80943,
+        "num": 207160,
+        "word": "孙颖莎可爱到蓬出屏幕",
+        "onboard_time": 1772517924,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160895,
+        "num": 207028,
+        "word": "元宵节",
+        "onboard_time": 1772492838,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6933759,
+        "num": 6933759,
+        "word": "谢娜喊话薛之谦",
+        "onboard_time": 1772501906,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179679,
+        "num": 206902,
+        "word": "苏炳添QQ意外曝光",
+        "onboard_time": 1772512707,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162689,
+        "num": 206778,
+        "word": "种地吧4开工直播",
+        "onboard_time": 1772507064,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133443,
+        "num": 206640,
+        "word": "倪萍怒怼李诚儒",
+        "onboard_time": 1772509766,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112575,
+        "num": 206523,
+        "word": "青岛大姨5小时挖蛏近百斤",
+        "onboard_time": 1772516783,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119961,
+        "num": 206406,
+        "word": "宋丹丹让孙子重新演一遍接机",
+        "onboard_time": 1772517263,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107123,
+        "num": 206320,
+        "word": "孟子义李昀锐跳overdrive",
+        "onboard_time": 1772513487,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90372,
+        "num": 206206,
+        "word": "带火刘文祥的紫薯精30天涨粉421万",
+        "onboard_time": 1772512108,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 39064,
+        "num": 206151,
+        "word": "周柯宇霸总男大秒切换",
+        "onboard_time": 1772514984,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83904,
+        "num": 205997,
+        "word": "有人考公雇人大量虚假报名吓走对手",
+        "onboard_time": 1772509465,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273528,
+        "num": 205947,
+        "word": "台湾热议台胞证能救命",
+        "onboard_time": 1772514505,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104140,
+        "num": 205796,
+        "word": "杨天真 娱乐圈工作越来越无聊",
+        "onboard_time": 1772517804,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98609,
+        "num": 205753,
+        "word": "凤凰传奇抢票",
+        "onboard_time": 1772511987,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90246,
+        "num": 205620,
+        "word": "汤圆",
+        "onboard_time": 1772498003,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97884,
+        "num": 205572,
+        "word": "谭松韵董晴 真闺蜜二搭",
+        "onboard_time": 1772512647,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86916,
+        "num": 205409,
+        "word": "光与夜之恋",
+        "onboard_time": 1772512407,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83032,
+        "num": 205314,
+        "word": "建议加强落实双休制度",
+        "onboard_time": 1772514028,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78017,
+        "num": 205270,
+        "word": "鹿晗元宵节撕拉片",
+        "onboard_time": 1772516965,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77461,
+        "num": 205155,
+        "word": "小猫竟然真会用给它缝的枕头",
+        "onboard_time": 1772510785,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24413,
+        "num": 205037,
+        "word": "穆祉丞元宵晚会眼睛红了",
+        "onboard_time": 1772517924,
+        "rank": 39,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 73396,
+        "num": 204904,
+        "word": "戒糖加跳绳5个月威力有多大",
+        "onboard_time": 1772498844,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 72531,
+        "num": 204771,
+        "word": "父母不应该与孩子分享的事情belike",
+        "onboard_time": 1772516846,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157764,
+        "num": 204654,
+        "word": "特朗普夫人联合国主持会议遭批",
+        "onboard_time": 1772516783,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38230,
+        "num": 204631,
+        "word": "王鹤棣背白鹿跑步",
+        "onboard_time": 1772517685,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72006,
+        "num": 204538,
+        "word": "迪丽热巴陈飞宇元宵营业",
+        "onboard_time": 1772512227,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71580,
+        "num": 204360,
+        "word": "中方强烈谴责一切攻击儿童行为",
+        "onboard_time": 1772511026,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70709,
+        "num": 204247,
+        "word": "白日提灯",
+        "onboard_time": 1772506404,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69206,
+        "num": 204157,
+        "word": "Angelababy生图有多权威",
+        "onboard_time": 1772510785,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67327,
+        "num": 204120,
+        "word": "8成燃油车主换车选新能源",
+        "onboard_time": 1772516904,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 66047,
+        "num": 203953,
+        "word": "两会",
+        "onboard_time": 1772501727,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是中国精神#"
+    }
+  }
+}
