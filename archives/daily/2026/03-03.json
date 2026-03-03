@@ -1,6 +1,6 @@
 {
   "startTime": 1772467331640,
-  "endTime": 1772538084966,
+  "endTime": 1772538906988,
   "band_list": [
     {
       "raw_hot": 14299027,
@@ -195,6 +195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 667992,
+      "num": 667992,
+      "word": "湖南卫视元宵喜乐会",
+      "onboard_time": 1772537970,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 661362,
       "num": 387240,
       "word": "特朗普夫人联合国主持会议遭批",
@@ -321,14 +329,6 @@
       "onboard_time": 1772511928,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 421526,
-      "num": 421526,
-      "word": "湖南卫视元宵喜乐会",
-      "onboard_time": 1772537970,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 399363,
@@ -763,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192769,
+      "num": 218728,
+      "word": "央视元宵晚会",
+      "onboard_time": 1772538509,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192408,
       "num": 849507,
       "word": "伊拉克居民捡到完整美国无人机",
@@ -932,7 +940,7 @@
     },
     {
       "raw_hot": 153058,
-      "num": 420893,
+      "num": 670796,
       "word": "全球股市黑色星期二",
       "onboard_time": 1772537970,
       "rank": 18,
@@ -952,6 +960,14 @@
       "word": "孟子义李昀锐跳overdrive",
       "onboard_time": 1772513487,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149135,
+      "num": 417619,
+      "word": "只有胡彦斌记得今天是元宵节",
+      "onboard_time": 1772537187,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1019,6 +1035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142568,
+      "num": 417821,
+      "word": "刘文祥 每家店味道不一样",
+      "onboard_time": 1772534608,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142178,
       "num": 208130,
       "word": "丈夫回应月子期赶走母亲",
@@ -1047,14 +1071,6 @@
       "num": 852438,
       "word": "飞机上和肖战前后排",
       "onboard_time": 1772527588,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 139166,
-      "num": 417619,
-      "word": "只有胡彦斌记得今天是元宵节",
-      "onboard_time": 1772537187,
       "rank": 34,
       "category": "艺人"
     },
@@ -1099,12 +1115,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131328,
-      "num": 417821,
-      "word": "刘文祥 每家店味道不一样",
-      "onboard_time": 1772534608,
-      "rank": 43,
-      "category": "美食"
+      "raw_hot": 128459,
+      "num": 217243,
+      "word": "纯真年代的爱情",
+      "onboard_time": 1772451925,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 128364,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1772531548,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121213,
+      "num": 202981,
+      "word": "Fly赛后发文",
+      "onboard_time": 1772538270,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 121067,
@@ -1353,6 +1377,22 @@
       "onboard_time": 1772441725,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105500,
+      "num": 415211,
+      "word": "网盘成违规影视剧避风港",
+      "onboard_time": 1772537129,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105135,
+      "num": 186755,
+      "word": "月全食好美",
+      "onboard_time": 1772538089,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104374,
@@ -1529,14 +1569,6 @@
       "onboard_time": 1772511267,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91639,
-      "num": 415211,
-      "word": "网盘成违规影视剧避风港",
-      "onboard_time": 1772537129,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91416,
@@ -2027,6 +2059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64417,
+      "num": 421478,
+      "word": "建议禁止12岁以下坐副驾",
+      "onboard_time": 1772537430,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64253,
       "num": 218121,
       "word": "你听过最离谱的空耳",
@@ -2123,6 +2163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 53032,
+      "num": 420833,
+      "word": "代表建议优化大学生婚育教育体系",
+      "onboard_time": 1772537369,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52697,
       "num": 327839,
       "word": "HPV可不仅仅跟宫颈癌有关",
@@ -2161,6 +2209,14 @@
       "onboard_time": 1772462966,
       "rank": 39,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 48299,
+      "num": 217057,
+      "word": "16岁以下禁用社媒是护苗还是一刀切",
+      "onboard_time": 1772538571,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46381,
@@ -2259,14 +2315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36798,
-      "num": 106714,
-      "word": "纯真年代的爱情",
-      "onboard_time": 1772451925,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 35618,
       "num": 414326,
       "word": "15个月宝宝坐飞机宝爸提前送礼道歉",
@@ -2321,6 +2369,14 @@
       "onboard_time": 1772473037,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26170,
+      "num": 416434,
+      "word": "双胞胎哥哥失踪35年后元宵节团圆",
+      "onboard_time": 1772537970,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25655,
@@ -2395,14 +2451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18483,
-      "num": 420833,
-      "word": "代表建议优化大学生婚育教育体系",
-      "onboard_time": 1772537369,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18348,
       "num": 224402,
       "word": "催开门电话打爆河南水煎包店主手机",
@@ -2435,14 +2483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15136,
-      "num": 421478,
-      "word": "建议禁止12岁以下坐副驾",
-      "onboard_time": 1772537430,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14829,
       "num": 41033,
       "word": "杨幂主演票房突破100亿",
@@ -2471,14 +2511,6 @@
       "num": 214465,
       "word": "胜诉原告成被执行人被限高7年多",
       "onboard_time": 1772520866,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12956,
-      "num": 416434,
-      "word": "双胞胎哥哥失踪35年后元宵节团圆",
-      "onboard_time": 1772537970,
       "rank": 39,
       "category": "民生新闻"
     },
