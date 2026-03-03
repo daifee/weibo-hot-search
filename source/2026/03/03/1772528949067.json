@@ -1,0 +1,410 @@
+{
+  "runTime": 1772528949067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123067,
+        "num": 1179690,
+        "word": "伊朗称向美航母发射4枚巡航导弹",
+        "onboard_time": 1772526447,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 375541,
+        "num": 861250,
+        "word": "油价调整",
+        "onboard_time": 1772512647,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 42911,
+        "num": 860858,
+        "word": "全国政协十四届四次会议新闻发布会",
+        "onboard_time": 1772520866,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328898,
+        "num": 860488,
+        "word": "刘文祥麻辣烫暂停新合作",
+        "onboard_time": 1772507906,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 276242,
+        "num": 860152,
+        "word": "王玉雯周也在陈星旭胸前喂小羊",
+        "onboard_time": 1772525491,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 885677,
+        "num": 859710,
+        "word": "世界油阀关闭",
+        "onboard_time": 1772521105,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 301365,
+        "num": 859441,
+        "word": "iPhone17只用一个月橙色变粉色",
+        "onboard_time": 1772514745,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 271313,
+        "num": 859114,
+        "word": "建议禁止16岁以下使用社媒",
+        "onboard_time": 1772519245,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223370,
+        "num": 858786,
+        "word": "越来越多国家被卷入中东冲突",
+        "onboard_time": 1772495781,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197257,
+        "num": 858294,
+        "word": "以前谈恋爱QQ是要关联的",
+        "onboard_time": 1772522007,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 985441,
+        "num": 858012,
+        "word": "品牌方回应迪丽热巴缺席",
+        "onboard_time": 1772525967,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636777,
+        "num": 857280,
+        "word": "黄金白银断崖式下跌",
+        "onboard_time": 1772524469,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300460,
+        "num": 856973,
+        "word": "伊朗称击中了美空军基地大楼",
+        "onboard_time": 1772517205,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247414,
+        "num": 856682,
+        "word": "老人抱孙子玩腰间4厘米钢针扎进肚",
+        "onboard_time": 1772522847,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210647,
+        "num": 856233,
+        "word": "曝张元英签售一直玩手机",
+        "onboard_time": 1772518345,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 914227,
+        "num": 856022,
+        "word": "迪丽热巴将缺席时装周",
+        "onboard_time": 1772518345,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193353,
+        "num": 855537,
+        "word": "烟台一只狗被困井下约3年获救",
+        "onboard_time": 1772524411,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187269,
+        "num": 854976,
+        "word": "以为是正缘来了没想到是血缘",
+        "onboard_time": 1772525370,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173319,
+        "num": 854478,
+        "word": "胡彦斌只一味吃汤圆",
+        "onboard_time": 1772513606,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163406,
+        "num": 854117,
+        "word": "谢霆锋 叫王菲才理人",
+        "onboard_time": 1772528368,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153186,
+        "num": 853883,
+        "word": "舅舅回应被指觊觎外甥女财产",
+        "onboard_time": 1772526929,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148430,
+        "num": 853277,
+        "word": "王一博巴黎时装周行程",
+        "onboard_time": 1772526929,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140292,
+        "num": 852991,
+        "word": "股市",
+        "onboard_time": 1772522247,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139242,
+        "num": 852438,
+        "word": "飞机上和肖战前后排",
+        "onboard_time": 1772527588,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132744,
+        "num": 852166,
+        "word": "易梦玲工作室回应被质疑压花",
+        "onboard_time": 1772526748,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100410,
+        "num": 851859,
+        "word": "AI生成 男女身高",
+        "onboard_time": 1772519844,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107137,
+        "num": 851472,
+        "word": "元宵晚会节目单",
+        "onboard_time": 1772520085,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101477,
+        "num": 851112,
+        "word": "张凌赫别试探了你的设计很有市场",
+        "onboard_time": 1772527768,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97991,
+        "num": 850537,
+        "word": "金价银价断崖式跳水",
+        "onboard_time": 1772528549,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94638,
+        "num": 850197,
+        "word": "公务员平替岗挤满没上岸的年轻人",
+        "onboard_time": 1772518282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718246,
+        "num": 849665,
+        "word": "舅妈冒用去世母亲身份与舅舅结婚",
+        "onboard_time": 1772523328,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192408,
+        "num": 849507,
+        "word": "伊拉克居民捡到完整美国无人机",
+        "onboard_time": 1772528008,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106088,
+        "num": 849169,
+        "word": "易梦玲回应争议",
+        "onboard_time": 1772525310,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99277,
+        "num": 848406,
+        "word": "台湾热议台胞证能救命",
+        "onboard_time": 1772514505,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98856,
+        "num": 848290,
+        "word": "建议家暴情形不适用离婚冷静期",
+        "onboard_time": 1772527228,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91044,
+        "num": 847777,
+        "word": "女足亚洲杯",
+        "onboard_time": 1772527288,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89801,
+        "num": 847308,
+        "word": "元宵节",
+        "onboard_time": 1772492838,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83765,
+        "num": 847161,
+        "word": "郑恺回村也不能撕baby",
+        "onboard_time": 1772512767,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82886,
+        "num": 846438,
+        "word": "2009与2025麦当劳对比",
+        "onboard_time": 1772528247,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 82722,
+        "num": 846319,
+        "word": "孙俪邓超2026全家福",
+        "onboard_time": 1772522966,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51239,
+        "num": 845750,
+        "word": "比亚迪把天门山天梯搬进了厂房",
+        "onboard_time": 1772523387,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 80755,
+        "num": 845233,
+        "word": "汤圆",
+        "onboard_time": 1772498003,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 79603,
+        "num": 845118,
+        "word": "无情报证明伊朗计划先袭击美军",
+        "onboard_time": 1772514444,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72827,
+        "num": 844559,
+        "word": "黄景瑜 咖啡汤圆",
+        "onboard_time": 1772525491,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71678,
+        "num": 844298,
+        "word": "你和闺蜜老了的样子",
+        "onboard_time": 1772528787,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71624,
+        "num": 843910,
+        "word": "十个勤天应到十人实到十人",
+        "onboard_time": 1772527048,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68864,
+        "num": 843244,
+        "word": "杨幂说自己有老人味",
+        "onboard_time": 1772512467,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64839,
+        "num": 843131,
+        "word": "父母不应该与孩子分享的事情belike",
+        "onboard_time": 1772516846,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22584,
+        "num": 842708,
+        "word": "宋亚轩新歌发布节奏",
+        "onboard_time": 1772528787,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62733,
+        "num": 842173,
+        "word": "短剧演员就业寒冬",
+        "onboard_time": 1772528846,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之喻#"
+    }
+  }
+}
