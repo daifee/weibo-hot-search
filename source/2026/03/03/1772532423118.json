@@ -1,0 +1,410 @@
+{
+  "runTime": 1772532423118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 211500,
+        "num": 1033840,
+        "word": "元宵节",
+        "onboard_time": 1772492838,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188187,
+        "num": 747170,
+        "word": "深圳租金涨了",
+        "onboard_time": 1772529807,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37873,
+        "num": 605660,
+        "word": "全国政协十四届四次会议新闻发布会",
+        "onboard_time": 1772520866,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275282,
+        "num": 489561,
+        "word": "建议禁止16岁以下使用社媒",
+        "onboard_time": 1772519245,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147035,
+        "num": 484751,
+        "word": "烟台一只狗被困井下约3年获救",
+        "onboard_time": 1772524411,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 714196,
+        "num": 483983,
+        "word": "伊朗称向美航母发射4枚巡航导弹",
+        "onboard_time": 1772526447,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 480409,
+        "num": 480409,
+        "word": "世界油阀关闭",
+        "onboard_time": 1772521105,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 327982,
+        "num": 327982,
+        "word": "刘文祥麻辣烫暂停新合作",
+        "onboard_time": 1772507906,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120545,
+        "num": 327976,
+        "word": "元宵晚会节目单",
+        "onboard_time": 1772520085,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99741,
+        "num": 327975,
+        "word": "元宵节赏月全食太浪漫了",
+        "onboard_time": 1772530286,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 770324,
+        "num": 327969,
+        "word": "油价或涨超70%",
+        "onboard_time": 1772529807,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 662196,
+        "num": 327960,
+        "word": "谢霆锋 叫王菲才理人",
+        "onboard_time": 1772528368,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 582146,
+        "num": 327951,
+        "word": "舅舅去世舅妈向正月理发外甥索赔百万",
+        "onboard_time": 1772530766,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441943,
+        "num": 327947,
+        "word": "伊朗纳坦兹核设施遭破坏",
+        "onboard_time": 1772531067,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219322,
+        "num": 327943,
+        "word": "iPhone17只用一个月橙色变粉色",
+        "onboard_time": 1772514745,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 409172,
+        "num": 327933,
+        "word": "油价调整",
+        "onboard_time": 1772512647,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250994,
+        "num": 327928,
+        "word": "2009与2025麦当劳对比",
+        "onboard_time": 1772528247,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188208,
+        "num": 327922,
+        "word": "曝张元英签售一直玩手机",
+        "onboard_time": 1772518345,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59956,
+        "num": 327911,
+        "word": "何同学说荣耀MagicV6确实非常不错",
+        "onboard_time": 1772530766,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72126,
+        "num": 327904,
+        "word": "建议提升教师待遇保障水平",
+        "onboard_time": 1772531548,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1328633,
+        "num": 327899,
+        "word": "迪奥官宣王楚然",
+        "onboard_time": 1772530766,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1084676,
+        "num": 327895,
+        "word": "迪丽热巴将缺席时装周",
+        "onboard_time": 1772518345,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453431,
+        "num": 327891,
+        "word": "黄金白银断崖式下跌",
+        "onboard_time": 1772524469,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181463,
+        "num": 327878,
+        "word": "以为是正缘来了没想到是血缘",
+        "onboard_time": 1772525370,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151857,
+        "num": 327875,
+        "word": "越来越多国家被卷入中东冲突",
+        "onboard_time": 1772495781,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147545,
+        "num": 327871,
+        "word": "王玉雯周也在陈星旭胸前喂小羊",
+        "onboard_time": 1772525491,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 782210,
+        "num": 327860,
+        "word": "迪丽热巴滞留第一时间爆出是在豆瓣",
+        "onboard_time": 1772532387,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141614,
+        "num": 327857,
+        "word": "伊朗称击中了美空军基地大楼",
+        "onboard_time": 1772517205,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119338,
+        "num": 327847,
+        "word": "短剧演员就业寒冬",
+        "onboard_time": 1772528846,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49651,
+        "num": 327839,
+        "word": "HPV可不仅仅跟宫颈癌有关",
+        "onboard_time": 1772530766,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110153,
+        "num": 327836,
+        "word": "王一博巴黎时装周行程",
+        "onboard_time": 1772526929,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101713,
+        "num": 327830,
+        "word": "胡彦斌只一味吃汤圆",
+        "onboard_time": 1772513606,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95558,
+        "num": 327824,
+        "word": "汤圆",
+        "onboard_time": 1772498003,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100832,
+        "num": 327813,
+        "word": "飞机上和肖战前后排",
+        "onboard_time": 1772527588,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98742,
+        "num": 327809,
+        "word": "短剧女主 时尚资源",
+        "onboard_time": 1772531368,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91969,
+        "num": 327801,
+        "word": "建议家暴情形不适用离婚冷静期",
+        "onboard_time": 1772527228,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91416,
+        "num": 327800,
+        "word": "现身凤凰传奇演唱会的副市长获表彰",
+        "onboard_time": 1772530467,
+        "rank": 36,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 91328,
+        "num": 327794,
+        "word": "朴山多拉方否认吸毒",
+        "onboard_time": 1772530408,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89295,
+        "num": 327782,
+        "word": "韩国股市暴跌7.24%",
+        "onboard_time": 1772529866,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87891,
+        "num": 327776,
+        "word": "易梦玲工作室回应被质疑压花",
+        "onboard_time": 1772526748,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80913,
+        "num": 327771,
+        "word": "以前谈恋爱QQ是要关联的",
+        "onboard_time": 1772522007,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79090,
+        "num": 327761,
+        "word": "股市",
+        "onboard_time": 1772522247,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77955,
+        "num": 327756,
+        "word": "泰星MAi自曝脸部花费几百万",
+        "onboard_time": 1772531428,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74374,
+        "num": 327749,
+        "word": "AI生成 男女身高",
+        "onboard_time": 1772519844,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69518,
+        "num": 327743,
+        "word": "ADOR将删除Danielle聊天记录",
+        "onboard_time": 1772529086,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69479,
+        "num": 327737,
+        "word": "成熟的猕猴桃是一片一片的",
+        "onboard_time": 1772531909,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 69332,
+        "num": 327734,
+        "word": "炒方便面秘诀",
+        "onboard_time": 1772529628,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 66794,
+        "num": 327727,
+        "word": "有用户反馈向您误转30元",
+        "onboard_time": 1772531607,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65725,
+        "num": 327722,
+        "word": "建议开发未成年人专属网络平台",
+        "onboard_time": 1772532206,
+        "rank": 48,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 61814,
+        "num": 327716,
+        "word": "无情报证明伊朗计划先袭击美军",
+        "onboard_time": 1772514444,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之喻#"
+    }
+  }
+}
