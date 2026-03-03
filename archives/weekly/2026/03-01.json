@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772564556476,
+  "endTime": 1772565388266,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -8145,6 +8145,22 @@
       "onboard_time": 1772494220,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 21826,
+      "num": 55963,
+      "word": "赵今麦吃了好多汤圆",
+      "onboard_time": 1772558779,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21476,
+      "num": 55958,
+      "word": "中方呼吁立即停止军事行动",
+      "onboard_time": 1772565134,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21249,
