@@ -1,6 +1,6 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772574171721,
+  "endTime": 1772575033451,
   "band_list": [
     {
       "raw_hot": 750125,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37214,
+      "num": 34112,
+      "word": "中国驻迪拜总领馆发布特别提醒",
+      "onboard_time": 1772573476,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32991,
       "num": 258042,
       "word": "金饰克价突破1660元",
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20867,
+      "num": 87474,
+      "word": "罗云熙壁上观舞美",
+      "onboard_time": 1772563276,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20617,
       "num": 227319,
       "word": "建议保障小学每周5节体育课",
@@ -515,28 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20325,
-      "num": 64738,
-      "word": "罗云熙壁上观舞美",
-      "onboard_time": 1772563276,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 17925,
       "num": 64100,
       "word": "巴黎时装周",
       "onboard_time": 1772564774,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 16898,
-      "num": 29710,
-      "word": "中国驻迪拜总领馆发布特别提醒",
-      "onboard_time": 1772573476,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15347,
@@ -579,7 +579,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10680,
+      "raw_hot": 10730,
       "num": 63436,
       "word": "央视元宵晚会",
       "onboard_time": 1772538509,
