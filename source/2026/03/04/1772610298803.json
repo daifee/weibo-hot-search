@@ -1,0 +1,410 @@
+{
+  "runTime": 1772610298803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 765744,
+        "num": 1122519,
+        "word": "建议居民身份证去地址化",
+        "onboard_time": 1772604143,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 431407,
+        "num": 821785,
+        "word": "建议彩礼金额不超过6万元",
+        "onboard_time": 1772597425,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49327,
+        "num": 624360,
+        "word": "2026两会日程预告",
+        "onboard_time": 1772598266,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295283,
+        "num": 295283,
+        "word": "一菲和诺澜在短剧二搭了",
+        "onboard_time": 1772604203,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272487,
+        "num": 272487,
+        "word": "全国政协十四届四次会议开幕",
+        "onboard_time": 1772608345,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2302463,
+        "num": 261518,
+        "word": "中东局势彻底失控",
+        "onboard_time": 1772605223,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 334523,
+        "num": 260998,
+        "word": "大学生返校统一姿势",
+        "onboard_time": 1772605704,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248683,
+        "num": 248683,
+        "word": "建议提高个税起征点至8000或1万",
+        "onboard_time": 1772607744,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243744,
+        "num": 243744,
+        "word": "建议高考英语降为100分",
+        "onboard_time": 1772604084,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150209,
+        "num": 243255,
+        "word": "烤肉店辣椒水是干嘛的",
+        "onboard_time": 1772601084,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 450714,
+        "num": 239306,
+        "word": "阿里高层出面挽留林俊旸",
+        "onboard_time": 1772607867,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 351410,
+        "num": 238558,
+        "word": "王天辰 就是很想亲",
+        "onboard_time": 1772606005,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260104,
+        "num": 233768,
+        "word": "伊拉克被美以当成打伊朗的免费跳板",
+        "onboard_time": 1772605763,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233419,
+        "num": 233419,
+        "word": "两会",
+        "onboard_time": 1772586506,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228357,
+        "num": 228357,
+        "word": "这竟然是甄嬛传里的温宜公主",
+        "onboard_time": 1772603544,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218302,
+        "num": 218302,
+        "word": "建议将农村养老金提升至500元每人每月",
+        "onboard_time": 1772603784,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187395,
+        "num": 187395,
+        "word": "全球股市全线暴跌",
+        "onboard_time": 1772603004,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185687,
+        "num": 185687,
+        "word": "徐璐自曝做了牙贴片",
+        "onboard_time": 1772604625,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165461,
+        "num": 165461,
+        "word": "李幼斌 法拉利老了会变成意大利炮",
+        "onboard_time": 1772608943,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147118,
+        "num": 163129,
+        "word": "雨天午睡很舒服就要小心了",
+        "onboard_time": 1772600067,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161523,
+        "num": 161523,
+        "word": "伊朗首都全天遭轮番打击",
+        "onboard_time": 1772592623,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154940,
+        "num": 154940,
+        "word": "李乃文 去法国排什么队",
+        "onboard_time": 1772604924,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157703,
+        "num": 151506,
+        "word": "美军公布最新伤亡情况",
+        "onboard_time": 1772602765,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139301,
+        "num": 139301,
+        "word": "情久对战JDG",
+        "onboard_time": 1772609724,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139820,
+        "num": 137768,
+        "word": "伊朗宣布击中美军驱逐舰补给舰",
+        "onboard_time": 1772606783,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133125,
+        "num": 133125,
+        "word": "肛门周围长东西一定是痔疮吗",
+        "onboard_time": 1772600844,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124574,
+        "num": 124574,
+        "word": "霍尔木兹海峡十多艘油轮被炮弹击中",
+        "onboard_time": 1772591303,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117264,
+        "num": 117264,
+        "word": "十四届全国人大四次会议发布会",
+        "onboard_time": 1772596706,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112228,
+        "num": 112228,
+        "word": "萨巴伦卡订婚",
+        "onboard_time": 1772609003,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105742,
+        "num": 105742,
+        "word": "复旦大学生活码 复活码",
+        "onboard_time": 1772601202,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104201,
+        "num": 104201,
+        "word": "我国今年将大力提振消费",
+        "onboard_time": 1772610024,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102878,
+        "num": 102878,
+        "word": "飞驰人生3暂列全球票房年榜第一",
+        "onboard_time": 1772598266,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102308,
+        "num": 102308,
+        "word": "没有性生活也会感染HPV吗",
+        "onboard_time": 1772599226,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101081,
+        "num": 101081,
+        "word": "林诗栋重庆冠军赛退赛",
+        "onboard_time": 1772609963,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100723,
+        "num": 100723,
+        "word": "赖伟明学范丞丞的手势舞 照抄广告",
+        "onboard_time": 1772597486,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100236,
+        "num": 100236,
+        "word": "十四届全国人大四次会议议程",
+        "onboard_time": 1772594905,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98911,
+        "num": 98911,
+        "word": "惠英红 最灵验的庙宇是我的血肉",
+        "onboard_time": 1772604744,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98822,
+        "num": 98822,
+        "word": "第一场委员通道",
+        "onboard_time": 1772604203,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97346,
+        "num": 97346,
+        "word": "杨幂汤圆头像",
+        "onboard_time": 1772599527,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23740,
+        "num": 93094,
+        "word": "建议为AI生成内容添加不可去除水印",
+        "onboard_time": 1772609244,
+        "rank": 39,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 91354,
+        "num": 91354,
+        "word": "恋与深空",
+        "onboard_time": 1772598807,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88463,
+        "num": 88463,
+        "word": "相亲市场还是太权威了",
+        "onboard_time": 1772605524,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85904,
+        "num": 85904,
+        "word": "你有点不新鲜了",
+        "onboard_time": 1772609483,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85765,
+        "num": 85765,
+        "word": "鸿蒙智行发布会",
+        "onboard_time": 1772610263,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 85219,
+        "num": 85219,
+        "word": "王楚钦许昕互动",
+        "onboard_time": 1772606365,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84517,
+        "num": 84517,
+        "word": "中国石油跌停",
+        "onboard_time": 1772591903,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84322,
+        "num": 84322,
+        "word": "胖东来1月为2员工发放1.5万委屈奖",
+        "onboard_time": 1772606545,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83902,
+        "num": 83902,
+        "word": "镖人 历史上最后的纯手工武侠",
+        "onboard_time": 1772608285,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80453,
+        "num": 80453,
+        "word": "尊界连续5月稳居百万豪车销量冠军",
+        "onboard_time": 1772610024,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 75723,
+        "num": 75723,
+        "word": "建议建立母亲养老金制度",
+        "onboard_time": 1772607266,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#共赴春天之约#"
+    }
+  }
+}

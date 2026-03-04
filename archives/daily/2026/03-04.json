@@ -1,6 +1,6 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772608376341,
+  "endTime": 1772610298803,
   "band_list": [
     {
       "raw_hot": 2742646,
@@ -171,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 450714,
+      "num": 239306,
+      "word": "阿里高层出面挽留林俊旸",
+      "onboard_time": 1772607867,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 423192,
       "num": 767481,
       "word": "中国石油发布公告",
@@ -283,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351410,
+      "num": 251389,
+      "word": "王天辰 就是很想亲",
+      "onboard_time": 1772606005,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344692,
       "num": 745265,
       "word": "12306回应乘客在高铁上用排插",
@@ -313,6 +329,14 @@
       "onboard_time": 1772547152,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334523,
+      "num": 280709,
+      "word": "大学生返校统一姿势",
+      "onboard_time": 1772605704,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 331491,
@@ -387,11 +411,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295279,
-      "num": 251389,
-      "word": "王天辰 就是很想亲",
-      "onboard_time": 1772606005,
-      "rank": 13,
+      "raw_hot": 295283,
+      "num": 295283,
+      "word": "一菲和诺澜在短剧二搭了",
+      "onboard_time": 1772604203,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -411,28 +435,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 283096,
-      "num": 283096,
-      "word": "一菲和诺澜在短剧二搭了",
-      "onboard_time": 1772604203,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 282133,
       "num": 282133,
       "word": "肖战连体T恤",
       "onboard_time": 1772591066,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280709,
-      "num": 280709,
-      "word": "大学生返校统一姿势",
-      "onboard_time": 1772605704,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 277523,
@@ -459,12 +467,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 272487,
+      "num": 272487,
+      "word": "全国政协十四届四次会议开幕",
+      "onboard_time": 1772608345,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 268166,
       "num": 594632,
       "word": "住酒店三年还被员工蛐蛐",
       "onboard_time": 1772545229,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260104,
+      "num": 233768,
+      "word": "伊拉克被美以当成打伊朗的免费跳板",
+      "onboard_time": 1772605763,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 259051,
@@ -491,11 +515,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 245245,
-      "num": 245245,
-      "word": "全国政协十四届四次会议开幕",
-      "onboard_time": 1772608345,
-      "rank": 13,
+      "raw_hot": 248683,
+      "num": 255725,
+      "word": "建议提高个税起征点至8000或1万",
+      "onboard_time": 1772607744,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -513,6 +537,14 @@
       "onboard_time": 1772598807,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243744,
+      "num": 243744,
+      "word": "建议高考英语降为100分",
+      "onboard_time": 1772604084,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 241596,
@@ -537,14 +569,6 @@
       "onboard_time": 1772600844,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 225895,
-      "num": 180321,
-      "word": "伊拉克被美以当成打伊朗的免费跳板",
-      "onboard_time": 1772605763,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 220123,
@@ -715,6 +739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165461,
+      "num": 165461,
+      "word": "李幼斌 法拉利老了会变成意大利炮",
+      "onboard_time": 1772608943,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165254,
       "num": 579864,
       "word": "华晨宇好稳",
@@ -745,6 +777,14 @@
       "onboard_time": 1772585606,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 154940,
+      "num": 154940,
+      "word": "李乃文 去法国排什么队",
+      "onboard_time": 1772604924,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 154455,
@@ -803,14 +843,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 148817,
-      "num": 148817,
-      "word": "李乃文 去法国排什么队",
-      "onboard_time": 1772604924,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148144,
       "num": 148144,
       "word": "王楚然花神传到巴黎了",
@@ -843,12 +875,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143196,
-      "num": 224374,
-      "word": "建议高考英语降为100分",
-      "onboard_time": 1772604084,
-      "rank": 22,
-      "category": "国内时政"
+      "raw_hot": 139301,
+      "num": 139301,
+      "word": "情久对战JDG",
+      "onboard_time": 1772609724,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 136695,
@@ -923,14 +955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122432,
-      "num": 122432,
-      "word": "阿里高层出面挽留林俊旸",
-      "onboard_time": 1772607867,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 118017,
       "num": 149300,
       "word": "这些生活习惯可能给HPV可乘之机",
@@ -977,6 +1001,14 @@
       "onboard_time": 1772605524,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112228,
+      "num": 112228,
+      "word": "萨巴伦卡订婚",
+      "onboard_time": 1772609003,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 109410,
@@ -1027,6 +1059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 104201,
+      "num": 104201,
+      "word": "我国今年将大力提振消费",
+      "onboard_time": 1772610024,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103499,
       "num": 103499,
       "word": "春天是精神病的高发时期",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1772547752,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101081,
+      "num": 101081,
+      "word": "林诗栋重庆冠军赛退赛",
+      "onboard_time": 1772609963,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 100677,
@@ -1195,6 +1243,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85904,
+      "num": 85904,
+      "word": "你有点不新鲜了",
+      "onboard_time": 1772609483,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85765,
+      "num": 85765,
+      "word": "鸿蒙智行发布会",
+      "onboard_time": 1772610263,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 83902,
+      "num": 83902,
+      "word": "镖人 历史上最后的纯手工武侠",
+      "onboard_time": 1772608285,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 83136,
       "num": 577857,
       "word": "檀健次好可爱的汤圆",
@@ -1251,6 +1323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 80453,
+      "num": 80453,
+      "word": "尊界连续5月稳居百万豪车销量冠军",
+      "onboard_time": 1772610024,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 77446,
       "num": 258299,
       "word": "驻迪拜总领馆专人跟踪特别紧急求助案",
@@ -1267,11 +1347,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 75799,
-      "num": 255725,
-      "word": "建议提高个税起征点至8000或1万",
-      "onboard_time": 1772607744,
-      "rank": 9,
+      "raw_hot": 75723,
+      "num": 219361,
+      "word": "建议建立母亲养老金制度",
+      "onboard_time": 1772607266,
+      "rank": 18,
       "category": "国内时政"
     },
     {
@@ -1416,14 +1496,6 @@
       "word": "2026两会日程预告",
       "onboard_time": 1772598266,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 52114,
-      "num": 219361,
-      "word": "建议建立母亲养老金制度",
-      "onboard_time": 1772607266,
-      "rank": 18,
       "category": "国内时政"
     },
     {
@@ -1657,6 +1729,14 @@
       "onboard_time": 1772607626,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23740,
+      "num": 93094,
+      "word": "建议为AI生成内容添加不可去除水印",
+      "onboard_time": 1772609244,
+      "rank": 39,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 21543,
