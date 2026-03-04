@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772635447125,
+  "endTime": 1772636801548,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -435,6 +435,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1114903,
+      "num": 404306,
+      "word": "伊朗玫瑰宫遭袭前后对比",
+      "onboard_time": 1772633666,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1078004,
+      "num": 1172480,
+      "word": "纯真年代 真替身",
+      "onboard_time": 1772633126,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1062628,
       "num": 211758,
       "word": "赞达亚荷兰弟已经结婚",
@@ -480,14 +496,6 @@
       "word": "伊朗确定最高领袖候选人",
       "onboard_time": 1772619085,
       "rank": 10,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 1009642,
-      "num": 404306,
-      "word": "伊朗玫瑰宫遭袭前后对比",
-      "onboard_time": 1772633666,
-      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -873,14 +881,6 @@
       "onboard_time": 1772550330,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 748451,
-      "num": 868387,
-      "word": "纯真年代 真替身",
-      "onboard_time": 1772633126,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 744438,
@@ -2867,6 +2867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 310036,
+      "num": 399069,
+      "word": "方穆静出国",
+      "onboard_time": 1772631387,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309489,
       "num": 309489,
       "word": "迅猛龙自曝直播影响学业了",
@@ -3883,14 +3891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 221493,
-      "num": 399069,
-      "word": "方穆静出国",
-      "onboard_time": 1772631387,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221135,
       "num": 327975,
       "word": "元宵节赏月全食太浪漫了",
@@ -4107,6 +4107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 202180,
+      "num": 395512,
+      "word": "阿里通义实验室紧急召开会议",
+      "onboard_time": 1772634505,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 201915,
       "num": 200198,
       "word": "伊朗低成本武器正耗空美国高端弹药",
@@ -4267,6 +4275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193794,
+      "num": 389889,
+      "word": "微信转账1万没写借条同学不还钱了",
+      "onboard_time": 1772634985,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193353,
       "num": 855537,
       "word": "烟台一只狗被困井下约3年获救",
@@ -4371,14 +4387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 185699,
-      "num": 395512,
-      "word": "阿里通义实验室紧急召开会议",
-      "onboard_time": 1772634505,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 184063,
       "num": 184063,
       "word": "KPL",
@@ -4473,6 +4481,14 @@
       "onboard_time": 1772600425,
       "rank": 26,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 176106,
+      "num": 392314,
+      "word": "最长学期后迎来史上最短学期",
+      "onboard_time": 1772633486,
+      "rank": 31,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 176046,
@@ -4993,14 +5009,6 @@
       "onboard_time": 1772376446,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 156095,
-      "num": 392314,
-      "word": "最长学期后迎来史上最短学期",
-      "onboard_time": 1772633486,
-      "rank": 31,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 155160,
@@ -5867,6 +5875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128840,
+      "num": 345058,
+      "word": "考研MVP结算画面",
+      "onboard_time": 1772636604,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 128421,
       "num": 128421,
       "word": "黎巴嫩向以色列发射火箭弹",
@@ -6171,14 +6187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120437,
-      "num": 389889,
-      "word": "微信转账1万没写借条同学不还钱了",
-      "onboard_time": 1772634985,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120391,
       "num": 186464,
       "word": "丰配友打破全国马拉松纪录",
@@ -6201,6 +6209,14 @@
       "onboard_time": 1772330430,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120182,
+      "num": 384667,
+      "word": "易烊千玺告眼镜公司侵权索赔50.5万",
+      "onboard_time": 1772635106,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 120105,
@@ -6241,6 +6257,14 @@
       "onboard_time": 1772451564,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119023,
+      "num": 388595,
+      "word": "伊朗称击中10多艘油轮",
+      "onboard_time": 1772632527,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118978,
@@ -6443,6 +6467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114105,
+      "num": 385382,
+      "word": "AG让二追四",
+      "onboard_time": 1772635166,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113937,
       "num": 113937,
       "word": "鸿蒙智行发布会",
@@ -6512,14 +6544,6 @@
       "word": "伊朗已发动17轮针对美以的打击",
       "onboard_time": 1772628505,
       "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 113321,
-      "num": 388595,
-      "word": "伊朗称击中10多艘油轮",
-      "onboard_time": 1772632527,
-      "rank": 40,
       "category": "国际时政"
     },
     {
@@ -6889,6 +6913,14 @@
       "onboard_time": 1772343743,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105590,
+      "num": 344917,
+      "word": "MacBookNeo定价4599元起",
+      "onboard_time": 1772636544,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 105284,
@@ -7419,6 +7451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96172,
+      "num": 386728,
+      "word": "小狗做雾化不理解但很配合",
+      "onboard_time": 1772634145,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95740,
       "num": 223798,
       "word": "西班牙国王收到荣耀MagicV6",
@@ -7513,14 +7553,6 @@
       "onboard_time": 1772431821,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94151,
-      "num": 386728,
-      "word": "小狗做雾化不理解但很配合",
-      "onboard_time": 1772634145,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 94113,
@@ -8003,14 +8035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85225,
-      "num": 384667,
-      "word": "易烊千玺告眼镜公司侵权索赔50.5万",
-      "onboard_time": 1772635106,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84869,
       "num": 131381,
       "word": "大早上以为自己进平行世界了",
@@ -8049,14 +8073,6 @@
       "onboard_time": 1772339125,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83999,
-      "num": 385382,
-      "word": "AG让二追四",
-      "onboard_time": 1772635166,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 83902,
@@ -8121,6 +8137,14 @@
       "onboard_time": 1772599106,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 82337,
+      "num": 344760,
+      "word": "Viper我们继续加油",
+      "onboard_time": 1772635943,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 82302,
@@ -8225,6 +8249,14 @@
       "onboard_time": 1772425764,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80530,
+      "num": 344746,
+      "word": "On冰鸟辅助",
+      "onboard_time": 1772636244,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 80517,
@@ -8401,6 +8433,14 @@
       "onboard_time": 1772446164,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 76519,
+      "num": 344719,
+      "word": "AG确认第三轮S组",
+      "onboard_time": 1772635884,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 76306,
@@ -9163,6 +9203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59771,
+      "num": 345271,
+      "word": "人大代表反问微短剧爽完之后呢",
+      "onboard_time": 1772636544,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59375,
       "num": 69104,
       "word": "天官赐福全新动画内容",
@@ -9217,6 +9265,14 @@
       "onboard_time": 1772363002,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57854,
+      "num": 403588,
+      "word": "中国拥有全球门类最齐全制造业体系",
+      "onboard_time": 1772631505,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57492,
@@ -9377,14 +9433,6 @@
       "onboard_time": 1772514984,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51573,
-      "num": 403588,
-      "word": "中国拥有全球门类最齐全制造业体系",
-      "onboard_time": 1772631505,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 51298,
@@ -10396,7 +10444,7 @@
     },
     {
       "raw_hot": 20618,
-      "num": 690189,
+      "num": 697202,
       "word": "在中国式现代化新征程上策马奔腾",
       "onboard_time": 1772631626,
       "rank": 2,
