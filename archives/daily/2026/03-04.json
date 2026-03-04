@@ -1,10 +1,10 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772629928949,
+  "endTime": 1772631487924,
   "band_list": [
     {
-      "raw_hot": 6683227,
-      "num": 6683227,
+      "raw_hot": 9557238,
+      "num": 9557238,
       "word": "迪丽热巴报平安",
       "onboard_time": 1772627666,
       "rank": 20,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 638172,
-      "num": 191782,
+      "num": 224355,
       "word": "女员工手一抖摔破3000多元飞天茅台",
       "onboard_time": 1772624603,
       "rank": 32,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 533743,
-      "num": 842382,
+      "num": 857096,
       "word": "纯真年代的爱情大结局",
       "onboard_time": 1772624543,
       "rank": 16,
@@ -369,6 +369,14 @@
       "onboard_time": 1772608943,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 399619,
+      "num": 198515,
+      "word": "弟弟你的相貌很容易让人轻敌啊",
+      "onboard_time": 1772628386,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 399516,
@@ -520,14 +528,6 @@
       "word": "大学生返校统一姿势",
       "onboard_time": 1772605704,
       "rank": 7,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 333036,
-      "num": 149129,
-      "word": "弟弟你的相貌很容易让人轻敌啊",
-      "onboard_time": 1772628386,
-      "rank": 30,
       "category": "幽默"
     },
     {
@@ -723,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272606,
+      "num": 272606,
+      "word": "社保迎来第六险",
+      "onboard_time": 1772630965,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268166,
       "num": 594632,
       "word": "住酒店三年还被员工蛐蛐",
@@ -827,6 +835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 229971,
+      "num": 149666,
+      "word": "伊朗展开高强度连环反击",
+      "onboard_time": 1772628925,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 220123,
       "num": 584913,
       "word": "雷军2026两会准备5份建议",
@@ -905,6 +921,14 @@
       "onboard_time": 1772621483,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 194842,
+      "num": 194842,
+      "word": "妈妈离世女儿懵懂追问为何手凉",
+      "onboard_time": 1772627606,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193811,
@@ -995,6 +1019,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 175907,
+      "num": 175907,
+      "word": "建议鼓励大学生加入家政行业",
+      "onboard_time": 1772627606,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171230,
       "num": 171230,
       "word": "谁家男主一边擦伤一边擦边",
@@ -1065,14 +1097,6 @@
       "onboard_time": 1772551108,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165184,
-      "num": 149666,
-      "word": "伊朗展开高强度连环反击",
-      "onboard_time": 1772628925,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 163413,
@@ -1299,14 +1323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 127736,
-      "num": 149032,
-      "word": "建议鼓励大学生加入家政行业",
-      "onboard_time": 1772627606,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 127654,
       "num": 127654,
       "word": "朴彩英绿裙看秀",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1772595806,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 122891,
-      "num": 149008,
-      "word": "妈妈离世女儿懵懂追问为何手凉",
-      "onboard_time": 1772627606,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121361,
@@ -1435,19 +1443,19 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 113395,
+      "num": 148942,
+      "word": "伊朗已发动17轮针对美以的打击",
+      "onboard_time": 1772628505,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112691,
       "num": 586689,
       "word": "伊朗南部阿巴斯港等地遭密集空袭",
       "onboard_time": 1772559859,
       "rank": 26,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 112339,
-      "num": 148942,
-      "word": "伊朗已发动17轮针对美以的打击",
-      "onboard_time": 1772628505,
-      "rank": 36,
       "category": "国际时政"
     },
     {
@@ -1457,6 +1465,14 @@
       "onboard_time": 1772605524,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111705,
+      "num": 148803,
+      "word": "凭微信转账记录起诉同学还钱被驳回",
+      "onboard_time": 1772627606,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109980,
@@ -1585,6 +1601,14 @@
       "onboard_time": 1772604744,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101395,
+      "num": 148579,
+      "word": "十日终焉没女主",
+      "onboard_time": 1772629403,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 101178,
@@ -1803,14 +1827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90020,
-      "num": 148803,
-      "word": "凭微信转账记录起诉同学还钱被驳回",
-      "onboard_time": 1772627606,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90003,
       "num": 144403,
       "word": "周五晚高疯直播",
@@ -2003,6 +2019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74176,
+      "num": 148515,
+      "word": "保时捷Taycan",
+      "onboard_time": 1772625863,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73870,
       "num": 73870,
       "word": "郑钦文回应换教练传闻",
@@ -2025,14 +2049,6 @@
       "onboard_time": 1772533706,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 72586,
-      "num": 148579,
-      "word": "十日终焉没女主",
-      "onboard_time": 1772629403,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 72556,
@@ -2059,20 +2075,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68933,
+      "num": 149944,
+      "word": "预防HPV比你想的更简单",
+      "onboard_time": 1772629526,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67971,
       "num": 364608,
       "word": "只有胡彦斌记得今天是元宵节",
       "onboard_time": 1772537187,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67522,
-      "num": 148515,
-      "word": "保时捷Taycan",
-      "onboard_time": 1772625863,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 67427,
@@ -2443,14 +2459,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 33603,
-      "num": 149944,
-      "word": "预防HPV比你想的更简单",
-      "onboard_time": 1772629526,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 33289,
       "num": 144663,
       "word": "苹果新显示器不支持英特尔芯片Mac",
@@ -2473,6 +2481,14 @@
       "onboard_time": 1772547090,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29243,
+      "num": 148158,
+      "word": "关键词速览人大会议首场发布会",
+      "onboard_time": 1772630906,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28850,
@@ -2547,6 +2563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20859,
+      "num": 147810,
+      "word": "中国量子计算稳居国际第一方阵",
+      "onboard_time": 1772630965,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20617,
       "num": 227319,
       "word": "建议保障小学每周5节体育课",
@@ -2577,6 +2601,14 @@
       "onboard_time": 1772620704,
       "rank": 19,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 15996,
+      "num": 661952,
+      "word": "十四届全国人大四次会议记者会时间",
+      "onboard_time": 1772631325,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15738,
@@ -2633,6 +2665,14 @@
       "onboard_time": 1772538509,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10947,
+      "num": 261378,
+      "word": "这些中国奇迹太震撼了",
+      "onboard_time": 1772631325,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10775,

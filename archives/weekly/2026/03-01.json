@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772629928949,
+  "endTime": 1772631487924,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9557238,
+      "num": 9557238,
+      "word": "迪丽热巴报平安",
+      "onboard_time": 1772627666,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9479805,
       "num": 9479805,
       "word": "伊朗前总统内贾德遇袭身亡",
       "onboard_time": 1772372666,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 6683227,
-      "num": 6683227,
-      "word": "迪丽热巴报平安",
-      "onboard_time": 1772627666,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 6188688,
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 638172,
-      "num": 191782,
+      "num": 224355,
       "word": "女员工手一抖摔破3000多元飞天茅台",
       "onboard_time": 1772624603,
       "rank": 32,
@@ -1508,7 +1508,7 @@
     },
     {
       "raw_hot": 533743,
-      "num": 842382,
+      "num": 857096,
       "word": "纯真年代的爱情大结局",
       "onboard_time": 1772624543,
       "rank": 16,
@@ -2067,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399619,
+      "num": 198515,
+      "word": "弟弟你的相貌很容易让人轻敌啊",
+      "onboard_time": 1772628386,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399516,
       "num": 269191,
       "word": "情久对战JDG",
@@ -2585,14 +2593,6 @@
       "onboard_time": 1772537129,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 333036,
-      "num": 149129,
-      "word": "弟弟你的相貌很容易让人轻敌啊",
-      "onboard_time": 1772628386,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 331886,
@@ -3187,6 +3187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272606,
+      "num": 272606,
+      "word": "社保迎来第六险",
+      "onboard_time": 1772630965,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272355,
       "num": 272355,
       "word": "4399跳转steam",
@@ -3683,6 +3691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229971,
+      "num": 149666,
+      "word": "伊朗展开高强度连环反击",
+      "onboard_time": 1772628925,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 228988,
       "num": 288003,
       "word": "苏炳添QQ意外曝光",
@@ -4123,6 +4139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194842,
+      "num": 194842,
+      "word": "妈妈离世女儿懵懂追问为何手凉",
+      "onboard_time": 1772627606,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194526,
       "num": 153125,
       "word": "宋亚轩复刻少年与花",
@@ -4345,6 +4369,14 @@
       "onboard_time": 1772377525,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175907,
+      "num": 175907,
+      "word": "建议鼓励大学生加入家政行业",
+      "onboard_time": 1772627606,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 175665,
@@ -4625,14 +4657,6 @@
       "onboard_time": 1772551108,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165184,
-      "num": 149666,
-      "word": "伊朗展开高强度连环反击",
-      "onboard_time": 1772628925,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 164660,
@@ -5747,14 +5771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 127736,
-      "num": 149032,
-      "word": "建议鼓励大学生加入家政行业",
-      "onboard_time": 1772627606,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 127654,
       "num": 127654,
       "word": "朴彩英绿裙看秀",
@@ -5937,14 +5953,6 @@
       "onboard_time": 1772595806,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 122891,
-      "num": 149008,
-      "word": "妈妈离世女儿懵懂追问为何手凉",
-      "onboard_time": 1772627606,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122777,
@@ -6363,6 +6371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113395,
+      "num": 148942,
+      "word": "伊朗已发动17轮针对美以的打击",
+      "onboard_time": 1772628505,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112985,
       "num": 112985,
       "word": "王译磊 红包",
@@ -6401,14 +6417,6 @@
       "onboard_time": 1772436323,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112339,
-      "num": 148942,
-      "word": "伊朗已发动17轮针对美以的打击",
-      "onboard_time": 1772628505,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 112320,
@@ -6457,6 +6465,14 @@
       "onboard_time": 1772442265,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111705,
+      "num": 148803,
+      "word": "凭微信转账记录起诉同学还钱被驳回",
+      "onboard_time": 1772627606,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111615,
@@ -6952,6 +6968,14 @@
       "word": "张凌赫别试探了你的设计很有市场",
       "onboard_time": 1772527768,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101395,
+      "num": 148579,
+      "word": "十日终焉没女主",
+      "onboard_time": 1772629403,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -7633,14 +7657,6 @@
       "onboard_time": 1772534786,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 90020,
-      "num": 148803,
-      "word": "凭微信转账记录起诉同学还钱被驳回",
-      "onboard_time": 1772627606,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90003,
@@ -8355,6 +8371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74176,
+      "num": 148515,
+      "word": "保时捷Taycan",
+      "onboard_time": 1772625863,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73870,
       "num": 73870,
       "word": "郑钦文回应换教练传闻",
@@ -8409,14 +8433,6 @@
       "onboard_time": 1772418082,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72586,
-      "num": 148579,
-      "word": "十日终焉没女主",
-      "onboard_time": 1772629403,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 72556,
@@ -8603,6 +8619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 68933,
+      "num": 149944,
+      "word": "预防HPV比你想的更简单",
+      "onboard_time": 1772629526,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 68896,
       "num": 468679,
       "word": "荣耀RobotPhone成精了",
@@ -8665,14 +8689,6 @@
       "onboard_time": 1772544029,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67522,
-      "num": 148515,
-      "word": "保时捷Taycan",
-      "onboard_time": 1772625863,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 67374,
@@ -9827,14 +9843,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 33603,
-      "num": 149944,
-      "word": "预防HPV比你想的更简单",
-      "onboard_time": 1772629526,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 33502,
       "num": 113823,
       "word": "夏之光生活在有爱但不健康的家庭",
@@ -9937,6 +9945,14 @@
       "onboard_time": 1772550449,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29243,
+      "num": 148158,
+      "word": "关键词速览人大会议首场发布会",
+      "onboard_time": 1772630906,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28850,
@@ -10187,6 +10203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20859,
+      "num": 147810,
+      "word": "中国量子计算稳居国际第一方阵",
+      "onboard_time": 1772630965,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20824,
       "num": 743199,
       "word": "骏马闹元宵贺卡",
@@ -10323,6 +10347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15996,
+      "num": 661952,
+      "word": "十四届全国人大四次会议记者会时间",
+      "onboard_time": 1772631325,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15347,
       "num": 372980,
       "word": "建议建立长期护理保险制度",
@@ -10401,6 +10433,14 @@
       "onboard_time": 1772354962,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10947,
+      "num": 261378,
+      "word": "这些中国奇迹太震撼了",
+      "onboard_time": 1772631325,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10775,
