@@ -1,0 +1,410 @@
+{
+  "runTime": 1772599720876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845127,
+        "num": 1135220,
+        "word": "建议彩礼金额不超过6万元",
+        "onboard_time": 1772597425,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668404,
+        "num": 797332,
+        "word": "北京下雪",
+        "onboard_time": 1772594064,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26184,
+        "num": 673852,
+        "word": "2026两会日程预告",
+        "onboard_time": 1772598266,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 312742,
+        "num": 399617,
+        "word": "十四届全国人大四次会议发布会",
+        "onboard_time": 1772596706,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181896,
+        "num": 376447,
+        "word": "十四届全国人大四次会议议程",
+        "onboard_time": 1772594905,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1050082,
+        "num": 375382,
+        "word": "伊朗首都全天遭轮番打击",
+        "onboard_time": 1772592623,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 374024,
+        "num": 374024,
+        "word": "吃一口饭倒欠200卡路里",
+        "onboard_time": 1772594725,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156831,
+        "num": 372917,
+        "word": "恋与深空",
+        "onboard_time": 1772598807,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28142,
+        "num": 365387,
+        "word": "9图了解政协知识点",
+        "onboard_time": 1772597845,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153241,
+        "num": 361571,
+        "word": "两会",
+        "onboard_time": 1772586506,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 752093,
+        "num": 358440,
+        "word": "岳雨婷 人在巴黎缺席看秀",
+        "onboard_time": 1772597965,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715655,
+        "num": 354276,
+        "word": "伊朗导弹击中美第五舰队总部瞬间",
+        "onboard_time": 1772580442,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 489640,
+        "num": 348933,
+        "word": "赖伟明学范丞丞的手势舞 照抄广告",
+        "onboard_time": 1772597486,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449794,
+        "num": 343424,
+        "word": "郭晓婷说王天辰吻戏像牛耕地",
+        "onboard_time": 1772598026,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341618,
+        "num": 341618,
+        "word": "日本撞人族事件多发",
+        "onboard_time": 1772594425,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 404914,
+        "num": 340945,
+        "word": "岳雨婷缺席balmain看秀",
+        "onboard_time": 1772597665,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323513,
+        "num": 323513,
+        "word": "中国石油跌停",
+        "onboard_time": 1772591903,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222507,
+        "num": 222507,
+        "word": "全红婵在村里聚完餐骑车离开",
+        "onboard_time": 1772590464,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198163,
+        "num": 198163,
+        "word": "肖战连体T恤",
+        "onboard_time": 1772591066,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152735,
+        "num": 196843,
+        "word": "甜茶首次来华",
+        "onboard_time": 1772592445,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 379962,
+        "num": 193744,
+        "word": "伊朗称击毁美军第三套萨德系统",
+        "onboard_time": 1772594245,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248852,
+        "num": 191771,
+        "word": "金饰克价一夜跌71元",
+        "onboard_time": 1772595025,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 359214,
+        "num": 190121,
+        "word": "霍尔木兹海峡十多艘油轮被炮弹击中",
+        "onboard_time": 1772591303,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188480,
+        "num": 188480,
+        "word": "杨幂汤圆头像",
+        "onboard_time": 1772599527,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274621,
+        "num": 171781,
+        "word": "伊朗库姆遭袭",
+        "onboard_time": 1772596706,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151116,
+        "num": 151116,
+        "word": "建议基础教育学制缩短为532",
+        "onboard_time": 1772596764,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197832,
+        "num": 150567,
+        "word": "乌克兰愿帮忙拦截伊朗无人机",
+        "onboard_time": 1772592445,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148144,
+        "num": 148144,
+        "word": "王楚然花神传到巴黎了",
+        "onboard_time": 1772595328,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188410,
+        "num": 141126,
+        "word": "法国派出航母",
+        "onboard_time": 1772587886,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129974,
+        "num": 129974,
+        "word": "建议高速年度3000公里免费",
+        "onboard_time": 1772584886,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160548,
+        "num": 129133,
+        "word": "伊朗遇难学生一个个墓穴让人心碎",
+        "onboard_time": 1772585727,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127654,
+        "num": 127654,
+        "word": "朴彩英绿裙看秀",
+        "onboard_time": 1772595565,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126256,
+        "num": 126256,
+        "word": "飞驰人生3暂列全球票房年榜第一",
+        "onboard_time": 1772598266,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125668,
+        "num": 125668,
+        "word": "中国石油发布公告",
+        "onboard_time": 1772580743,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125090,
+        "num": 125090,
+        "word": "谁家男主一边擦伤一边擦边",
+        "onboard_time": 1772599046,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115919,
+        "num": 115919,
+        "word": "没有性生活也会感染HPV吗",
+        "onboard_time": 1772599226,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114577,
+        "num": 114577,
+        "word": "上班的意义具像化了",
+        "onboard_time": 1772595806,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38674,
+        "num": 107888,
+        "word": "十四届全国人大四次会议会期8天",
+        "onboard_time": 1772598206,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104622,
+        "num": 104622,
+        "word": "粉丝隔着李昀锐聊天",
+        "onboard_time": 1772592985,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103185,
+        "num": 103185,
+        "word": "EDG",
+        "onboard_time": 1772579660,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102959,
+        "num": 102959,
+        "word": "王一博粉丝 斗歌",
+        "onboard_time": 1772595806,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100226,
+        "num": 100226,
+        "word": "我使馆提醒防范日本撞人族",
+        "onboard_time": 1772594126,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93240,
+        "num": 93240,
+        "word": "侯明昊和平精英霜狼大使",
+        "onboard_time": 1772597126,
+        "rank": 42,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 91669,
+        "num": 91669,
+        "word": "大侦探",
+        "onboard_time": 1772599346,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91589,
+        "num": 91589,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1772590403,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90915,
+        "num": 90915,
+        "word": "薛凯琪发型一半甜妹一半拽姐",
+        "onboard_time": 1772594846,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88384,
+        "num": 88384,
+        "word": "奶茶书皮",
+        "onboard_time": 1772596466,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82589,
+        "num": 82589,
+        "word": "空气炸锅鸡蛋饼",
+        "onboard_time": 1772599106,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 82432,
+        "num": 82432,
+        "word": "姐姐姐夫终于说开了",
+        "onboard_time": 1772587944,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80517,
+        "num": 80517,
+        "word": "曝阿里千问团队或将分拆",
+        "onboard_time": 1772595386,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#共赴春天之约#"
+    }
+  }
+}
