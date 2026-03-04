@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772600197746,
+  "endTime": 1772603580507,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1251,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 575708,
+      "num": 575708,
+      "word": "古茗免单",
+      "onboard_time": 1772601084,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 574637,
       "num": 472612,
       "word": "伊朗称导弹击中美军舰",
@@ -1931,12 +1939,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 386968,
+      "num": 811368,
+      "word": "飞驰人生3暂列全球票房年榜第一",
+      "onboard_time": 1772598266,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 386920,
       "num": 336704,
       "word": "以军开始打击伊朗首都心脏地带",
       "onboard_time": 1772355803,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 384783,
+      "num": 238050,
+      "word": "雨天午睡很舒服就要小心了",
+      "onboard_time": 1772600067,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 383390,
@@ -2315,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331491,
+      "num": 234684,
+      "word": "没有性生活也会感染HPV吗",
+      "onboard_time": 1772599226,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 331105,
       "num": 372737,
       "word": "美首都集会抗议美以对伊朗动武",
@@ -2555,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302343,
+      "num": 261321,
+      "word": "杨幂汤圆头像",
+      "onboard_time": 1772599527,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301460,
       "num": 261889,
       "word": "伊朗退了一步炮火进了一步",
@@ -2747,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276809,
+      "num": 276809,
+      "word": "建议基础教育学制缩短为532",
+      "onboard_time": 1772596764,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 275127,
       "num": 275127,
       "word": "方大同拍摄的时候没有封路",
@@ -2883,14 +2931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261321,
-      "num": 261321,
-      "word": "杨幂汤圆头像",
-      "onboard_time": 1772599527,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260696,
       "num": 255639,
       "word": "衡水中学AI监测系统",
@@ -2945,6 +2985,14 @@
       "onboard_time": 1772522847,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256620,
+      "num": 228410,
+      "word": "复旦大学生活码 复活码",
+      "onboard_time": 1772601202,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 255163,
@@ -3057,6 +3105,14 @@
       "onboard_time": 1772462726,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 244124,
+      "num": 372917,
+      "word": "恋与深空",
+      "onboard_time": 1772598807,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 242360,
@@ -3315,6 +3371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222332,
+      "num": 222332,
+      "word": "肛门周围长东西一定是痔疮吗",
+      "onboard_time": 1772600844,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 221817,
       "num": 858294,
       "word": "以前谈恋爱QQ是要关联的",
@@ -3385,6 +3449,14 @@
       "onboard_time": 1772334925,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217842,
+      "num": 89524,
+      "word": "叶凡剧场版里终于抢婚了",
+      "onboard_time": 1772602525,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 217636,
@@ -3473,6 +3545,14 @@
       "onboard_time": 1772367744,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208021,
+      "num": 230389,
+      "word": "淘宝凑齐短剧四小花旦",
+      "onboard_time": 1772600665,
+      "rank": 17,
+      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 205965,
@@ -3699,14 +3779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 189328,
-      "num": 372917,
-      "word": "恋与深空",
-      "onboard_time": 1772598807,
-      "rank": 7,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 187457,
       "num": 230030,
       "word": "1010元托运柴犬3天没喝一口水死亡",
@@ -3857,6 +3929,14 @@
       "onboard_time": 1772532866,
       "rank": 32,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 174211,
+      "num": 126606,
+      "word": "美军公布最新伤亡情况",
+      "onboard_time": 1772602765,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172748,
@@ -4107,14 +4187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162794,
-      "num": 162794,
-      "word": "建议基础教育学制缩短为532",
-      "onboard_time": 1772596764,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 162377,
       "num": 162377,
       "word": "宋智孝首次全身健康检查结果公开",
@@ -4265,14 +4337,6 @@
       "onboard_time": 1772337566,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 156347,
-      "num": 156347,
-      "word": "飞驰人生3暂列全球票房年榜第一",
-      "onboard_time": 1772598266,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 156332,
@@ -4619,6 +4683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145832,
+      "num": 145832,
+      "word": "甘肃地震",
+      "onboard_time": 1772600425,
+      "rank": 26,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 145829,
       "num": 143518,
       "word": "梁洁郭俊辰国内旅游找了外国导游",
@@ -4721,6 +4793,14 @@
       "onboard_time": 1772453784,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143688,
+      "num": 143688,
+      "word": "全球股市全线暴跌",
+      "onboard_time": 1772603004,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 142852,
@@ -5147,14 +5227,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 126335,
-      "num": 126335,
-      "word": "没有性生活也会感染HPV吗",
-      "onboard_time": 1772599226,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 125969,
       "num": 258434,
       "word": "肖战试衣服时的表情",
@@ -5297,6 +5369,14 @@
       "onboard_time": 1772595806,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122840,
+      "num": 122840,
+      "word": "烤肉店辣椒水是干嘛的",
+      "onboard_time": 1772601084,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 122777,
@@ -5585,6 +5665,14 @@
       "onboard_time": 1772458585,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114462,
+      "num": 114462,
+      "word": "鹅鸭杀新角色肉汁小丑",
+      "onboard_time": 1772602164,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 114447,
@@ -6067,12 +6155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103499,
+      "num": 103499,
+      "word": "春天是精神病的高发时期",
+      "onboard_time": 1772603125,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103347,
       "num": 103347,
       "word": "naiyou蝎子出装",
       "onboard_time": 1772462726,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103284,
+      "num": 103284,
+      "word": "决不允许任何外部势力干涉中国内政",
+      "onboard_time": 1772603184,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103275,
@@ -6635,6 +6739,14 @@
       "category": "民生新闻,演出"
     },
     {
+      "raw_hot": 91415,
+      "num": 91415,
+      "word": "猫 少触碰我",
+      "onboard_time": 1772599825,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91126,
       "num": 414917,
       "word": "惠英红 你真的太狠了",
@@ -6705,14 +6817,6 @@
       "onboard_time": 1772344343,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 89622,
-      "num": 89622,
-      "word": "猫 少触碰我",
-      "onboard_time": 1772599825,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 89467,
@@ -6801,6 +6905,14 @@
       "onboard_time": 1772430923,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 86821,
+      "num": 86821,
+      "word": "阿瑟又白干了",
+      "onboard_time": 1772603484,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 86681,
@@ -7011,6 +7123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81415,
+      "num": 81415,
+      "word": "皮肤也有返工敏感期",
+      "onboard_time": 1772603426,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 81291,
       "num": 81291,
       "word": "北京国安超级杯夺冠",
@@ -7081,6 +7201,14 @@
       "onboard_time": 1772446344,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79754,
+      "num": 79754,
+      "word": "这竟然是甄嬛传里的温宜公主",
+      "onboard_time": 1772603544,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 78778,
@@ -7779,6 +7907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62442,
+      "num": 241656,
+      "word": "人大发布会回应中美关系",
+      "onboard_time": 1772602584,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62181,
       "num": 585089,
       "word": "克林顿作证时一度双手颤抖",
@@ -7841,6 +7977,14 @@
       "onboard_time": 1772548532,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60057,
+      "num": 226719,
+      "word": "为中美合作开辟更广阔空间",
+      "onboard_time": 1772602883,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59375,
@@ -8019,6 +8163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51809,
+      "num": 110539,
+      "word": "刘耀文就是这么对时代峰峻公主的",
+      "onboard_time": 1772602945,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51654,
       "num": 259082,
       "word": "周柯宇霸总男大秒切换",
@@ -8105,6 +8257,14 @@
       "onboard_time": 1772287465,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47447,
+      "num": 673852,
+      "word": "2026两会日程预告",
+      "onboard_time": 1772598266,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47304,
@@ -8633,14 +8793,6 @@
       "onboard_time": 1772550030,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30128,
-      "num": 673852,
-      "word": "2026两会日程预告",
-      "onboard_time": 1772598266,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30121,
