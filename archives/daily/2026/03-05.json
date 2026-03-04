@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772644174430,
+  "endTime": 1772646444406,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -323,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81786,
+      "num": 148460,
+      "word": "美国为何非要搞垮伊朗",
+      "onboard_time": 1772643078,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67556,
       "num": 218036,
       "word": "十日终焉没女主",
@@ -411,14 +419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52754,
-      "num": 148460,
-      "word": "美国为何非要搞垮伊朗",
-      "onboard_time": 1772643078,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 50608,
       "num": 217514,
       "word": "纯真年代的爱情",
@@ -451,12 +451,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34270,
+      "num": 67469,
+      "word": "纯真年代编剧",
+      "onboard_time": 1772645716,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29548,
       "num": 218017,
       "word": "哈尔滨19米高网红大雪人被拆除",
       "onboard_time": 1772639842,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25054,
+      "num": 67459,
+      "word": "灿如繁星",
+      "onboard_time": 1772646076,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19797,
+      "num": 67452,
+      "word": "王嘉尔 TecatePalNorte",
+      "onboard_time": 1772646317,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 17720,
+      "num": 67452,
+      "word": "On冰鸟辅助",
+      "onboard_time": 1772636244,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 14420,
