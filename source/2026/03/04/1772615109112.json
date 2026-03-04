@@ -1,0 +1,410 @@
+{
+  "runTime": 1772615109112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 855374,
+        "num": 1136859,
+        "word": "建议推广农村不超过2万彩礼",
+        "onboard_time": 1772611225,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522514,
+        "num": 802491,
+        "word": "建议居民身份证去地址化",
+        "onboard_time": 1772604143,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20493,
+        "num": 667046,
+        "word": "开放的中国现代化的中国",
+        "onboard_time": 1772614463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 370514,
+        "num": 370514,
+        "word": "建议彩礼金额不超过6万元",
+        "onboard_time": 1772597425,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319541,
+        "num": 319541,
+        "word": "问界M9",
+        "onboard_time": 1772611406,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2361272,
+        "num": 304658,
+        "word": "中东局势彻底失控",
+        "onboard_time": 1772605223,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14093,
+        "num": 278696,
+        "word": "2025年立法工作取得新进展",
+        "onboard_time": 1772614344,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 724687,
+        "num": 278635,
+        "word": "王励勤回应樊振东归队问题",
+        "onboard_time": 1772611406,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278144,
+        "num": 278144,
+        "word": "牛奶再放个把月就能喝了",
+        "onboard_time": 1772612963,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260121,
+        "num": 260121,
+        "word": "建议高考英语降为100分",
+        "onboard_time": 1772604084,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1015578,
+        "num": 259472,
+        "word": "专家表示伊朗导弹必须改打法",
+        "onboard_time": 1772611943,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369178,
+        "num": 259468,
+        "word": "李幼斌 法拉利老了会变成意大利炮",
+        "onboard_time": 1772608943,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258278,
+        "num": 258278,
+        "word": "尚界Z7",
+        "onboard_time": 1772612064,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 240899,
+        "num": 240899,
+        "word": "热水器不能一开一关",
+        "onboard_time": 1772614044,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 222019,
+        "num": 222019,
+        "word": "王天辰 就是很想亲",
+        "onboard_time": 1772606005,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206858,
+        "num": 206858,
+        "word": "这竟然是甄嬛传里的温宜公主",
+        "onboard_time": 1772603544,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199739,
+        "num": 199739,
+        "word": "建议提高个税起征点至8000或1万",
+        "onboard_time": 1772607744,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194966,
+        "num": 194966,
+        "word": "阿里高层出面挽留林俊旸",
+        "onboard_time": 1772607867,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 40844,
+        "num": 183577,
+        "word": "尊界融合感知能力断代领先",
+        "onboard_time": 1772611826,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178251,
+        "num": 178251,
+        "word": "两会",
+        "onboard_time": 1772586506,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 556921,
+        "num": 174452,
+        "word": "伊朗的导弹能用多久",
+        "onboard_time": 1772612963,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183727,
+        "num": 174390,
+        "word": "我国今年将大力提振消费",
+        "onboard_time": 1772610024,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285738,
+        "num": 173223,
+        "word": "伊拉克被美以当成打伊朗的免费跳板",
+        "onboard_time": 1772605763,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165987,
+        "num": 165987,
+        "word": "尊界首搭双光路图像级激光雷达",
+        "onboard_time": 1772611523,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182780,
+        "num": 164462,
+        "word": "伊朗低成本武器正耗空美国高端弹药",
+        "onboard_time": 1772611763,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160797,
+        "num": 160797,
+        "word": "你们霸总的衣服还要共享啊",
+        "onboard_time": 1772611943,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157847,
+        "num": 157847,
+        "word": "大学生返校统一姿势",
+        "onboard_time": 1772605704,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143266,
+        "num": 143266,
+        "word": "雨天午睡很舒服就要小心了",
+        "onboard_time": 1772600067,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142711,
+        "num": 142711,
+        "word": "全国政协十四届四次会议开幕",
+        "onboard_time": 1772608345,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141040,
+        "num": 141040,
+        "word": "王楚然大方介绍自己来自中国",
+        "onboard_time": 1772614463,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131365,
+        "num": 131365,
+        "word": "许昕回复王楚钦",
+        "onboard_time": 1772612725,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130038,
+        "num": 130038,
+        "word": "徐璐自曝做了牙贴片",
+        "onboard_time": 1772604625,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128667,
+        "num": 128667,
+        "word": "肛门周围长东西一定是痔疮吗",
+        "onboard_time": 1772600844,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121285,
+        "num": 121285,
+        "word": "豆包取名",
+        "onboard_time": 1772615004,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108513,
+        "num": 108513,
+        "word": "十四届全国人大四次会议发布会",
+        "onboard_time": 1772596706,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107578,
+        "num": 107578,
+        "word": "美军公布最新伤亡情况",
+        "onboard_time": 1772602765,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106782,
+        "num": 106782,
+        "word": "委员建议00后不要进入加班文化",
+        "onboard_time": 1772614644,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99485,
+        "num": 99485,
+        "word": "没有性生活也会感染HPV吗",
+        "onboard_time": 1772599226,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99030,
+        "num": 99030,
+        "word": "你有点不新鲜了",
+        "onboard_time": 1772609483,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38340,
+        "num": 98413,
+        "word": "李乃文 去法国排什么队",
+        "onboard_time": 1772604924,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33096,
+        "num": 98391,
+        "word": "敏感肌不敢医美怎么办",
+        "onboard_time": 1772614105,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98390,
+        "num": 98390,
+        "word": "十四届全国人大四次会议议程",
+        "onboard_time": 1772594905,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34902,
+        "num": 98375,
+        "word": "HPV需要男女共同预防",
+        "onboard_time": 1772613204,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 5596,
+        "num": 98372,
+        "word": "有了pdd雨林深处也能村口取货",
+        "onboard_time": 1772615065,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98372,
+        "num": 98371,
+        "word": "建议将农村养老金提升至500元每人每月",
+        "onboard_time": 1772603784,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95407,
+        "num": 95407,
+        "word": "全球股市全线暴跌",
+        "onboard_time": 1772603004,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93554,
+        "num": 93554,
+        "word": "世界会偏爱多问一嘴的人",
+        "onboard_time": 1772614886,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90726,
+        "num": 90726,
+        "word": "何老师听到黄毛的反应",
+        "onboard_time": 1772610925,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90534,
+        "num": 90534,
+        "word": "为了哄自己开学想尽了办法",
+        "onboard_time": 1772614764,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90294,
+        "num": 90294,
+        "word": "杨幂汤圆头像",
+        "onboard_time": 1772599527,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国政协十四届四次会议在京开幕#"
+    }
+  }
+}
