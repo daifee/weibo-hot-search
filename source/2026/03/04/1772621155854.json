@@ -1,0 +1,410 @@
+{
+  "runTime": 1772621155854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 486188,
+        "num": 1077790,
+        "word": "委员建议00后不要进入加班文化",
+        "onboard_time": 1772614644,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 465311,
+        "num": 759841,
+        "word": "IF椰子水严正声明",
+        "onboard_time": 1772618365,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37578,
+        "num": 614129,
+        "word": "开放的中国现代化的中国",
+        "onboard_time": 1772614463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 550678,
+        "num": 550678,
+        "word": "热水器不能一开一关",
+        "onboard_time": 1772614044,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 260830,
+        "num": 260830,
+        "word": "建议推广农村不超过2万彩礼",
+        "onboard_time": 1772611225,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1540941,
+        "num": 258118,
+        "word": "中东局势彻底失控",
+        "onboard_time": 1772605223,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24691,
+        "num": 248693,
+        "word": "2025年立法工作取得新进展",
+        "onboard_time": 1772614344,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 358147,
+        "num": 244149,
+        "word": "花店老板 死手快点绑啊",
+        "onboard_time": 1772615723,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281500,
+        "num": 231432,
+        "word": "王励勤回应樊振东归队问题",
+        "onboard_time": 1772611406,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229501,
+        "num": 229501,
+        "word": "建议居民身份证去地址化",
+        "onboard_time": 1772604143,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1026521,
+        "num": 226206,
+        "word": "伊朗确定最高领袖候选人",
+        "onboard_time": 1772619085,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237838,
+        "num": 220054,
+        "word": "弟弟 不管你是谁从我姐身上下来",
+        "onboard_time": 1772617583,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209868,
+        "num": 209868,
+        "word": "委员建议每天下班后投入地玩半小时",
+        "onboard_time": 1772619503,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181732,
+        "num": 181732,
+        "word": "网传杨超越十日终焉女主",
+        "onboard_time": 1772619864,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163473,
+        "num": 163473,
+        "word": "牛奶再放个把月就能喝了",
+        "onboard_time": 1772612963,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133166,
+        "num": 163461,
+        "word": "建议高考英语降为100分",
+        "onboard_time": 1772604084,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128055,
+        "num": 163440,
+        "word": "JDG战胜情久",
+        "onboard_time": 1772619203,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123526,
+        "num": 163424,
+        "word": "建议彩礼金额不超过6万元",
+        "onboard_time": 1772597425,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120038,
+        "num": 163409,
+        "word": "无畏S组",
+        "onboard_time": 1772618964,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17385,
+        "num": 163388,
+        "word": "建议全民免费高发癌筛查",
+        "onboard_time": 1772620704,
+        "rank": 19,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 507910,
+        "num": 163385,
+        "word": "伊朗局势最新情况",
+        "onboard_time": 1772614944,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230665,
+        "num": 163367,
+        "word": "太爷爷摔倒1岁宝宝连滚带爬去扶",
+        "onboard_time": 1772619444,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414493,
+        "num": 163338,
+        "word": "伊朗军舰遭袭101人失踪78人伤",
+        "onboard_time": 1772619684,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230469,
+        "num": 163327,
+        "word": "王楚然大方介绍自己来自中国",
+        "onboard_time": 1772614463,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237186,
+        "num": 163310,
+        "word": "专家表示伊朗导弹必须改打法",
+        "onboard_time": 1772611943,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117750,
+        "num": 163286,
+        "word": "王天辰 就是很想亲",
+        "onboard_time": 1772606005,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91532,
+        "num": 163270,
+        "word": "荣耀MagicV6带飞李杰灵",
+        "onboard_time": 1772618663,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202930,
+        "num": 163256,
+        "word": "伊朗的导弹能用多久",
+        "onboard_time": 1772612963,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108987,
+        "num": 163236,
+        "word": "情久对战JDG",
+        "onboard_time": 1772609724,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106975,
+        "num": 163229,
+        "word": "未来10多年中国中等收入群体可能超8亿",
+        "onboard_time": 1772617104,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119295,
+        "num": 163199,
+        "word": "对方撤回了5条QQ消息",
+        "onboard_time": 1772620523,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118431,
+        "num": 163184,
+        "word": "JDG晋级S组",
+        "onboard_time": 1772620464,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105053,
+        "num": 163168,
+        "word": "一上班物欲就缠上来了",
+        "onboard_time": 1772616623,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98035,
+        "num": 163163,
+        "word": "伊拉克被美以当成打伊朗的免费跳板",
+        "onboard_time": 1772605763,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97265,
+        "num": 163132,
+        "word": "A股半导体公司集体发涨价函",
+        "onboard_time": 1772617944,
+        "rank": 34,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 88969,
+        "num": 163122,
+        "word": "两会",
+        "onboard_time": 1772586506,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81751,
+        "num": 163112,
+        "word": "全国政协十四届四次会议开幕",
+        "onboard_time": 1772608345,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78526,
+        "num": 163094,
+        "word": "问界M9",
+        "onboard_time": 1772611406,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 77602,
+        "num": 163078,
+        "word": "伊朗低成本武器正耗空美国高端弹药",
+        "onboard_time": 1772611763,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75650,
+        "num": 163055,
+        "word": "无畏赵怀真抢龙",
+        "onboard_time": 1772618485,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73834,
+        "num": 163034,
+        "word": "建议将农村医保改为储蓄型",
+        "onboard_time": 1772618725,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73005,
+        "num": 163018,
+        "word": "建议合理增加下半年节假日",
+        "onboard_time": 1772615964,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72649,
+        "num": 163006,
+        "word": "我国今年将大力提振消费",
+        "onboard_time": 1772610024,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70819,
+        "num": 162979,
+        "word": "建议提高个税起征点至8000或1万",
+        "onboard_time": 1772607744,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70442,
+        "num": 162969,
+        "word": "建议彩礼不超6万元为何引热议",
+        "onboard_time": 1772618303,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67226,
+        "num": 162949,
+        "word": "这竟然是甄嬛传里的温宜公主",
+        "onboard_time": 1772603544,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63115,
+        "num": 162932,
+        "word": "KPL春季赛",
+        "onboard_time": 1772619986,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41056,
+        "num": 162916,
+        "word": "建议严禁免密支付默认勾选",
+        "onboard_time": 1772619503,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62550,
+        "num": 162893,
+        "word": "榫猫结构",
+        "onboard_time": 1772621004,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61583,
+        "num": 162873,
+        "word": "这不是周大福的但可能是周大娘的",
+        "onboard_time": 1772618844,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国政协十四届四次会议在京开幕#"
+    }
+  }
+}
