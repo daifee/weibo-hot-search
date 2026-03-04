@@ -1,6 +1,6 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772618003895,
+  "endTime": 1772618705610,
   "band_list": [
     {
       "raw_hot": 2742646,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1144333,
-      "num": 259472,
+      "num": 270610,
       "word": "专家表示伊朗导弹必须改打法",
       "onboard_time": 1772611943,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 815116,
-      "num": 257449,
+      "num": 277849,
       "word": "花店老板 死手快点绑啊",
       "onboard_time": 1772615723,
       "rank": 7,
@@ -129,6 +129,14 @@
       "onboard_time": 1772594064,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 653727,
+      "num": 1104596,
+      "word": "委员建议00后不要进入加班文化",
+      "onboard_time": 1772614644,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 637256,
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519803,
-      "num": 1083168,
-      "word": "委员建议00后不要进入加班文化",
-      "onboard_time": 1772614644,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 505955,
       "num": 410367,
       "word": "郭晓婷说王天辰吻戏像牛耕地",
@@ -241,6 +241,14 @@
       "onboard_time": 1772586506,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 428974,
+      "num": 145761,
+      "word": "伊朗局势最新情况",
+      "onboard_time": 1772614944,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 423192,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399516,
+      "num": 269191,
+      "word": "情久对战JDG",
+      "onboard_time": 1772609724,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 394323,
       "num": 584544,
       "word": "金鹤龙把王菊化成刘亦菲了",
@@ -297,6 +313,14 @@
       "onboard_time": 1772590403,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 392589,
+      "num": 148196,
+      "word": "王楚然大方介绍自己来自中国",
+      "onboard_time": 1772614463,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 389993,
@@ -411,14 +435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 334522,
-      "num": 219294,
-      "word": "情久对战JDG",
-      "onboard_time": 1772609724,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 331491,
       "num": 318323,
       "word": "没有性生活也会感染HPV吗",
@@ -483,14 +499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 311089,
-      "num": 148196,
-      "word": "王楚然大方介绍自己来自中国",
-      "onboard_time": 1772614463,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311031,
       "num": 311031,
       "word": "何与刘些宁同款汤圆",
@@ -521,14 +529,6 @@
       "onboard_time": 1772599527,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295443,
-      "num": 145761,
-      "word": "伊朗局势最新情况",
-      "onboard_time": 1772614944,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 295283,
@@ -601,6 +601,14 @@
       "onboard_time": 1772545229,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264292,
+      "num": 264292,
+      "word": "豆包取名",
+      "onboard_time": 1772615004,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 260121,
@@ -763,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193794,
-      "num": 193794,
-      "word": "豆包取名",
-      "onboard_time": 1772615004,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187860,
       "num": 764495,
       "word": "烤肉店辣椒水是干嘛的",
@@ -793,6 +793,14 @@
       "onboard_time": 1772545952,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184063,
+      "num": 184063,
+      "word": "KPL",
+      "onboard_time": 1772616145,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 183664,
@@ -1067,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128175,
+      "num": 105966,
+      "word": "弟弟 不管你是谁从我姐身上下来",
+      "onboard_time": 1772617583,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127654,
       "num": 127654,
       "word": "朴彩英绿裙看秀",
@@ -1163,6 +1179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114190,
+      "num": 114190,
+      "word": "IF椰子水严正声明",
+      "onboard_time": 1772618365,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113937,
       "num": 113937,
       "word": "鸿蒙智行发布会",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1772603125,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103205,
+      "num": 103205,
+      "word": "一上班物欲就缠上来了",
+      "onboard_time": 1772616623,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 102959,
@@ -1363,14 +1395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96283,
-      "num": 96283,
-      "word": "一上班物欲就缠上来了",
-      "onboard_time": 1772616623,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95014,
       "num": 95014,
       "word": "奶茶书皮",
@@ -1467,6 +1491,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89795,
+      "num": 89795,
+      "word": "A股半导体公司集体发涨价函",
+      "onboard_time": 1772617944,
+      "rank": 45,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 88304,
+      "num": 156064,
+      "word": "未来10多年中国中等收入群体可能超8亿",
+      "onboard_time": 1772617104,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 86231,
+      "num": 86231,
+      "word": "无畏赵怀真抢龙",
+      "onboard_time": 1772618485,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84478,
       "num": 84478,
       "word": "不想本身就是一种拒绝理由",
@@ -1523,22 +1571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 81601,
-      "num": 81601,
-      "word": "弟弟 不管你是谁从我姐身上下来",
-      "onboard_time": 1772617583,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 81524,
-      "num": 81524,
-      "word": "A股半导体公司集体发涨价函",
-      "onboard_time": 1772617944,
-      "rank": 45,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 81415,
       "num": 81415,
       "word": "皮肤也有返工敏感期",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1772556563,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76653,
+      "num": 239059,
+      "word": "代表建议将农村医保改为储蓄型",
+      "onboard_time": 1772617104,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76242,
@@ -1867,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44246,
+      "num": 139084,
+      "word": "建议彩礼不超6万元为何引热议",
+      "onboard_time": 1772618303,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43836,
       "num": 582471,
       "word": "金饰克价突破1660元",
@@ -1880,14 +1928,6 @@
       "word": "2026全国两会这些看点值得关注",
       "onboard_time": 1772544450,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 42632,
-      "num": 239059,
-      "word": "代表建议将农村医保改为储蓄型",
-      "onboard_time": 1772617104,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -1923,14 +1963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39945,
-      "num": 156064,
-      "word": "未来10多年中国中等收入群体可能超8亿",
-      "onboard_time": 1772617104,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 39762,
       "num": 368491,
       "word": "Dior秀场泛出莲花之韵",
@@ -1944,6 +1976,14 @@
       "word": "十四届全国人大四次会议会期8天",
       "onboard_time": 1772598206,
       "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 38489,
+      "num": 667046,
+      "word": "开放的中国现代化的中国",
+      "onboard_time": 1772614463,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -1971,14 +2011,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 35007,
-      "num": 667046,
-      "word": "开放的中国现代化的中国",
-      "onboard_time": 1772614463,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 33289,
       "num": 144663,
       "word": "苹果新显示器不支持英特尔芯片Mac",
@@ -1988,7 +2020,7 @@
     },
     {
       "raw_hot": 32801,
-      "num": 278696,
+      "num": 280272,
       "word": "2025年立法工作取得新进展",
       "onboard_time": 1772614344,
       "rank": 6,
@@ -2064,6 +2096,14 @@
       "word": "蒋胜男呼吁强化精神病院公益属性",
       "onboard_time": 1772606484,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 21197,
+      "num": 267485,
+      "word": "建议家长孩子一起放秋假",
+      "onboard_time": 1772618303,
+      "rank": 12,
       "category": "国内时政"
     },
     {
@@ -2169,6 +2209,14 @@
       "onboard_time": 1772581463,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6936,
+      "num": 94776,
+      "word": "荣耀MagicV6带飞李杰灵",
+      "onboard_time": 1772618663,
+      "rank": 37,
+      "category": "数码"
     }
   ],
   "hotgov_list": [

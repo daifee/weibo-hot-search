@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772618003895,
+  "endTime": 1772618705610,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 1144333,
-      "num": 259472,
+      "num": 270610,
       "word": "专家表示伊朗导弹必须改打法",
       "onboard_time": 1772611943,
       "rank": 10,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 815116,
-      "num": 257449,
+      "num": 277849,
       "word": "花店老板 死手快点绑啊",
       "onboard_time": 1772615723,
       "rank": 7,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1772432843,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 653727,
+      "num": 1104596,
+      "word": "委员建议00后不要进入加班文化",
+      "onboard_time": 1772614644,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 651042,
@@ -1459,14 +1467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519803,
-      "num": 1083168,
-      "word": "委员建议00后不要进入加班文化",
-      "onboard_time": 1772614644,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 517295,
       "num": 420458,
       "word": "穆祉丞王橹杰跨代隐藏卡",
@@ -1795,6 +1795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 428974,
+      "num": 145761,
+      "word": "伊朗局势最新情况",
+      "onboard_time": 1772614944,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 427891,
       "num": 350256,
       "word": "伊朗若退出世界杯谁能替代",
@@ -1979,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399516,
+      "num": 269191,
+      "word": "情久对战JDG",
+      "onboard_time": 1772609724,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 399363,
       "num": 399363,
       "word": "当地通报母亲去世后被结婚",
@@ -2041,6 +2057,14 @@
       "onboard_time": 1772424444,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 392589,
+      "num": 148196,
+      "word": "王楚然大方介绍自己来自中国",
+      "onboard_time": 1772614463,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 390278,
@@ -2451,14 +2475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 334522,
-      "num": 219294,
-      "word": "情久对战JDG",
-      "onboard_time": 1772609724,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 333296,
       "num": 282595,
       "word": "郭晓婷王天辰双人杂志",
@@ -2691,14 +2707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311089,
-      "num": 148196,
-      "word": "王楚然大方介绍自己来自中国",
-      "onboard_time": 1772614463,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311031,
       "num": 311031,
       "word": "何与刘些宁同款汤圆",
@@ -2808,14 +2816,6 @@
       "word": "美以袭击致伊朗201人死747人伤",
       "onboard_time": 1772331089,
       "rank": 25,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 295443,
-      "num": 145761,
-      "word": "伊朗局势最新情况",
-      "onboard_time": 1772614944,
-      "rank": 22,
       "category": "国际时政"
     },
     {
@@ -3145,6 +3145,14 @@
       "onboard_time": 1772417603,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 264292,
+      "num": 264292,
+      "word": "豆包取名",
+      "onboard_time": 1772615004,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 261421,
@@ -3987,14 +3995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193794,
-      "num": 193794,
-      "word": "豆包取名",
-      "onboard_time": 1772615004,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193353,
       "num": 855537,
       "word": "烟台一只狗被困井下约3年获救",
@@ -4097,6 +4097,14 @@
       "onboard_time": 1772276184,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184063,
+      "num": 184063,
+      "word": "KPL",
+      "onboard_time": 1772616145,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 183956,
@@ -5515,6 +5523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128175,
+      "num": 105966,
+      "word": "弟弟 不管你是谁从我姐身上下来",
+      "onboard_time": 1772617583,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127654,
       "num": 127654,
       "word": "朴彩英绿裙看秀",
@@ -6025,6 +6041,14 @@
       "onboard_time": 1772333066,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114190,
+      "num": 114190,
+      "word": "IF椰子水严正声明",
+      "onboard_time": 1772618365,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114132,
@@ -6579,6 +6603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103205,
+      "num": 103205,
+      "word": "一上班物欲就缠上来了",
+      "onboard_time": 1772616623,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103169,
       "num": 103169,
       "word": "回复已经达到院士级别了",
@@ -6947,14 +6979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96283,
-      "num": 96283,
-      "word": "一上班物欲就缠上来了",
-      "onboard_time": 1772616623,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96235,
       "num": 96235,
       "word": "猫生第一次洗澡",
@@ -7315,6 +7339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89795,
+      "num": 89795,
+      "word": "A股半导体公司集体发涨价函",
+      "onboard_time": 1772617944,
+      "rank": 45,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 89712,
       "num": 97238,
       "word": "川渝盒饭vs东北盒饭",
@@ -7361,6 +7393,14 @@
       "onboard_time": 1772536350,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88304,
+      "num": 156064,
+      "word": "未来10多年中国中等收入群体可能超8亿",
+      "onboard_time": 1772617104,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88139,
@@ -7449,6 +7489,14 @@
       "onboard_time": 1772443884,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86231,
+      "num": 86231,
+      "word": "无畏赵怀真抢龙",
+      "onboard_time": 1772618485,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 86212,
@@ -7633,22 +7681,6 @@
       "onboard_time": 1772527888,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81601,
-      "num": 81601,
-      "word": "弟弟 不管你是谁从我姐身上下来",
-      "onboard_time": 1772617583,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 81524,
-      "num": 81524,
-      "word": "A股半导体公司集体发涨价函",
-      "onboard_time": 1772617944,
-      "rank": 45,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 81508,
@@ -7841,6 +7873,14 @@
       "onboard_time": 1772501363,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76653,
+      "num": 239059,
+      "word": "代表建议将农村医保改为储蓄型",
+      "onboard_time": 1772617104,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76609,
@@ -8995,6 +9035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44246,
+      "num": 139084,
+      "word": "建议彩礼不超6万元为何引热议",
+      "onboard_time": 1772618303,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44226,
       "num": 468250,
       "word": "荣耀把科技春晚搬到了MWC",
@@ -9057,14 +9105,6 @@
       "onboard_time": 1772469861,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42632,
-      "num": 239059,
-      "word": "代表建议将农村医保改为储蓄型",
-      "onboard_time": 1772617104,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42215,
@@ -9171,14 +9211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39945,
-      "num": 156064,
-      "word": "未来10多年中国中等收入群体可能超8亿",
-      "onboard_time": 1772617104,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 39799,
       "num": 111562,
       "word": "聚会豪饮2斤白酒23岁小伙喝进ICU",
@@ -9216,6 +9248,14 @@
       "word": "十四届全国人大四次会议会期8天",
       "onboard_time": 1772598206,
       "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 38489,
+      "num": 667046,
+      "word": "开放的中国现代化的中国",
+      "onboard_time": 1772614463,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -9307,14 +9347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35007,
-      "num": 667046,
-      "word": "开放的中国现代化的中国",
-      "onboard_time": 1772614463,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34777,
       "num": 371302,
       "word": "建议保障小学每周5节体育课",
@@ -9396,7 +9428,7 @@
     },
     {
       "raw_hot": 32801,
-      "num": 278696,
+      "num": 280272,
       "word": "2025年立法工作取得新进展",
       "onboard_time": 1772614344,
       "rank": 6,
@@ -9699,6 +9731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21197,
+      "num": 267485,
+      "word": "建议家长孩子一起放秋假",
+      "onboard_time": 1772618303,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21090,
       "num": 141447,
       "word": "女子回娘家带大鹅开车8小时叫一路",
@@ -9969,6 +10009,14 @@
       "onboard_time": 1772446404,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6936,
+      "num": 94776,
+      "word": "荣耀MagicV6带飞李杰灵",
+      "onboard_time": 1772618663,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 3161,
