@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772653569784,
+  "endTime": 1772654311045,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -10785,6 +10785,14 @@
       "onboard_time": 1772543549,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13751,
+      "num": 29813,
+      "word": "晓兮小贝坦白局",
+      "onboard_time": 1772653994,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 13663,
