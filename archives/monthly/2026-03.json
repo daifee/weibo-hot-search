@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772611139012,
+  "endTime": 1772614324906,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1144333,
+      "num": 240889,
+      "word": "专家表示伊朗导弹必须改打法",
+      "onboard_time": 1772611943,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1138562,
       "num": 447997,
       "word": "黄金",
@@ -635,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 818897,
+      "num": 1131023,
+      "word": "建议推广农村不超过2万彩礼",
+      "onboard_time": 1772611225,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 809391,
       "num": 255204,
       "word": "陈浩民夫妇滞留阿联酋",
@@ -825,6 +841,14 @@
       "onboard_time": 1772347463,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 725027,
+      "num": 259649,
+      "word": "王励勤回应樊振东归队问题",
+      "onboard_time": 1772611406,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 720648,
@@ -1883,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402245,
+      "num": 238199,
+      "word": "李幼斌 法拉利老了会变成意大利炮",
+      "onboard_time": 1772608943,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401586,
       "num": 256317,
       "word": "哈梅内伊住所遭袭前后对比景象",
@@ -1976,6 +2008,14 @@
       "word": "美以不可能打了伊朗就一走了之",
       "onboard_time": 1772424444,
       "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 390361,
+      "num": 162193,
+      "word": "伊朗的导弹能用多久",
+      "onboard_time": 1772612963,
+      "rank": 20,
       "category": "国际时政"
     },
     {
@@ -2939,6 +2979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 273918,
+      "num": 273918,
+      "word": "问界M9",
+      "onboard_time": 1772611406,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 273071,
       "num": 255187,
       "word": "张婧仪身高一六七点五",
@@ -3059,14 +3107,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 260038,
-      "num": 217663,
-      "word": "李幼斌 法拉利老了会变成意大利炮",
-      "onboard_time": 1772608943,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259959,
       "num": 323221,
       "word": "地铁上最夯的位置",
@@ -3115,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257607,
+      "num": 257607,
+      "word": "建议高考英语降为100分",
+      "onboard_time": 1772604084,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 257224,
       "num": 856682,
       "word": "老人抱孙子玩腰间4厘米钢针扎进肚",
@@ -3161,14 +3209,6 @@
       "onboard_time": 1772536888,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250259,
-      "num": 250259,
-      "word": "建议高考英语降为100分",
-      "onboard_time": 1772604084,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 249480,
@@ -3265,6 +3305,14 @@
       "onboard_time": 1772551588,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 240941,
+      "num": 240941,
+      "word": "尚界Z7",
+      "onboard_time": 1772612064,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 240541,
@@ -3729,6 +3777,22 @@
       "onboard_time": 1772539531,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202610,
+      "num": 159911,
+      "word": "我国今年将大力提振消费",
+      "onboard_time": 1772610024,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 201915,
+      "num": 156010,
+      "word": "伊朗低成本武器正耗空美国高端弹药",
+      "onboard_time": 1772611763,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 198944,
@@ -4683,14 +4747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149862,
-      "num": 149862,
-      "word": "我国今年将大力提振消费",
-      "onboard_time": 1772610024,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 149765,
       "num": 259279,
       "word": "孟子义李昀锐跳overdrive",
@@ -5067,6 +5123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 139537,
+      "num": 139537,
+      "word": "你们霸总的衣服还要共享啊",
+      "onboard_time": 1772611943,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139301,
       "num": 139301,
       "word": "情久对战JDG",
@@ -5089,6 +5153,14 @@
       "onboard_time": 1772609963,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138389,
+      "num": 151226,
+      "word": "尊界首搭双光路图像级激光雷达",
+      "onboard_time": 1772611523,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 138053,
@@ -5387,6 +5459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127510,
+      "num": 127510,
+      "word": "牛奶再放个把月就能喝了",
+      "onboard_time": 1772612963,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127181,
       "num": 258682,
       "word": "迪丽热巴陈飞宇元宵营业",
@@ -5449,6 +5529,14 @@
       "onboard_time": 1772504546,
       "rank": 23,
       "category": "美妆,作品衍生"
+    },
+    {
+      "raw_hot": 125391,
+      "num": 125391,
+      "word": "许昕回复王楚钦",
+      "onboard_time": 1772612725,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 125319,
@@ -5633,6 +5721,14 @@
       "onboard_time": 1772520808,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 120934,
+      "num": 120934,
+      "word": "你有点不新鲜了",
+      "onboard_time": 1772609483,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 120925,
@@ -6203,6 +6299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107919,
+      "num": 107919,
+      "word": "热水器不能一开一关",
+      "onboard_time": 1772614044,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 107720,
       "num": 107720,
       "word": "夜王唯一一个脱衣服的是黄子华",
@@ -6297,6 +6401,14 @@
       "onboard_time": 1772543249,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105199,
+      "num": 105199,
+      "word": "何老师听到黄毛的反应",
+      "onboard_time": 1772610925,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 105135,
@@ -6707,6 +6819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98851,
+      "num": 98851,
+      "word": "19岁天才少年做AI应用年入2亿",
+      "onboard_time": 1772613803,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 98774,
       "num": 98774,
       "word": "LGDNBW为九尾发律师函",
@@ -6761,14 +6881,6 @@
       "onboard_time": 1772513007,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96945,
-      "num": 96945,
-      "word": "你有点不新鲜了",
-      "onboard_time": 1772609483,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 96582,
@@ -6993,6 +7105,14 @@
       "onboard_time": 1772537608,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 92002,
+      "num": 92002,
+      "word": "一张1999年的账单",
+      "onboard_time": 1772613444,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 91909,
@@ -7763,14 +7883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 73668,
-      "num": 73668,
-      "word": "何老师听到黄毛的反应",
-      "onboard_time": 1772610925,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 73360,
       "num": 134009,
       "word": "TOP专辑秒切",
@@ -8515,6 +8627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51027,
+      "num": 101452,
+      "word": "敏感肌不敢医美怎么办",
+      "onboard_time": 1772614105,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50864,
       "num": 222494,
       "word": "建议治理农村精智障女性被逼婚问题",
@@ -8577,6 +8697,14 @@
       "onboard_time": 1772374646,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47587,
+      "num": 101661,
+      "word": "HPV需要男女共同预防",
+      "onboard_time": 1772613204,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 47474,
@@ -8873,6 +9001,14 @@
       "onboard_time": 1772448564,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 40646,
+      "num": 102409,
+      "word": "纪姿含参加北电校考",
+      "onboard_time": 1772607024,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 40282,
@@ -9193,6 +9329,14 @@
       "onboard_time": 1772564056,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28431,
+      "num": 174226,
+      "word": "尊界融合感知能力断代领先",
+      "onboard_time": 1772611826,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 28427,
@@ -9603,6 +9747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12243,
+      "num": 259964,
+      "word": "促进民营经济发展不能变不会变",
+      "onboard_time": 1772614225,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11630,
       "num": 252223,
       "word": "新人结婚亲友大雪中打伞吃席",
@@ -9703,6 +9855,9 @@
     },
     {
       "word": "#习近平的两会时间#"
+    },
+    {
+      "word": "#全国政协十四届四次会议在京开幕#"
     }
   ]
 }
