@@ -1,0 +1,410 @@
+{
+  "runTime": 1772593939666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 402121,
+        "num": 1064339,
+        "word": "两会",
+        "onboard_time": 1772586506,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311920,
+        "num": 765454,
+        "word": "中国石油发布公告",
+        "onboard_time": 1772580743,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36620,
+        "num": 623425,
+        "word": "2026全国两会这些看点值得关注",
+        "onboard_time": 1772544450,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 338646,
+        "num": 616692,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1772590403,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220123,
+        "num": 584913,
+        "word": "雷军2026两会准备5份建议",
+        "onboard_time": 1772590044,
+        "rank": 4,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 772519,
+        "num": 548843,
+        "word": "霍尔木兹海峡十多艘油轮被炮弹击中",
+        "onboard_time": 1772591303,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205276,
+        "num": 531605,
+        "word": "建议高速年度3000公里免费",
+        "onboard_time": 1772584886,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169991,
+        "num": 489763,
+        "word": "黄金白银再直线拉升",
+        "onboard_time": 1772591784,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162490,
+        "num": 447235,
+        "word": "12306回应乘客在高铁上用排插",
+        "onboard_time": 1772554527,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136695,
+        "num": 430089,
+        "word": "EDG张钊",
+        "onboard_time": 1772591303,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1150604,
+        "num": 387414,
+        "word": "伊朗导弹击中美第五舰队总部瞬间",
+        "onboard_time": 1772580442,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 380828,
+        "num": 380828,
+        "word": "中国石油跌停",
+        "onboard_time": 1772591903,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 361399,
+        "num": 361399,
+        "word": "全红婵在村里聚完餐骑车离开",
+        "onboard_time": 1772590464,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282133,
+        "num": 282133,
+        "word": "肖战连体T恤",
+        "onboard_time": 1772591066,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199885,
+        "num": 199885,
+        "word": "姐姐姐夫终于说开了",
+        "onboard_time": 1772587944,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147273,
+        "num": 147273,
+        "word": "贫血女子经期一次性拔6颗牙",
+        "onboard_time": 1772582486,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53315,
+        "num": 144533,
+        "word": "新款仰望U7首搭第二代刀片电池",
+        "onboard_time": 1772591663,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188375,
+        "num": 144396,
+        "word": "何与刘些宁同款汤圆",
+        "onboard_time": 1772588844,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143979,
+        "num": 143979,
+        "word": "油价",
+        "onboard_time": 1772588304,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116612,
+        "num": 132486,
+        "word": "男性感染HPV有哪些健康风险",
+        "onboard_time": 1772589864,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 504811,
+        "num": 129555,
+        "word": "法国派出航母",
+        "onboard_time": 1772587886,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199179,
+        "num": 128926,
+        "word": "王毅要求以方确保中国人员机构安全",
+        "onboard_time": 1772551588,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125052,
+        "num": 125052,
+        "word": "EDG",
+        "onboard_time": 1772579660,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 338852,
+        "num": 125048,
+        "word": "伊朗首都全天遭轮番打击",
+        "onboard_time": 1772592623,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115382,
+        "num": 124620,
+        "word": "阿里Qwen负责人宣布离开",
+        "onboard_time": 1772591784,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 241752,
+        "num": 123850,
+        "word": "伊朗遇难学生一个个墓穴让人心碎",
+        "onboard_time": 1772585727,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109410,
+        "num": 123386,
+        "word": "阿里千问地震或因Gemini成员空降",
+        "onboard_time": 1772593705,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198944,
+        "num": 123048,
+        "word": "乌克兰愿帮忙拦截伊朗无人机",
+        "onboard_time": 1772592445,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108950,
+        "num": 122562,
+        "word": "甜茶首次来华",
+        "onboard_time": 1772592445,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102115,
+        "num": 122153,
+        "word": "汪东城方严正声明",
+        "onboard_time": 1772583505,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80036,
+        "num": 121752,
+        "word": "这些生活习惯可能给HPV可乘之机",
+        "onboard_time": 1772586267,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101565,
+        "num": 121606,
+        "word": "粉丝隔着李昀锐聊天",
+        "onboard_time": 1772592985,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75660,
+        "num": 120821,
+        "word": "IF椰子水股价连续大跌",
+        "onboard_time": 1772585606,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120802,
+        "num": 120802,
+        "word": "西班牙回应特朗普贸易威胁",
+        "onboard_time": 1772582965,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75030,
+        "num": 120682,
+        "word": "谷爱凌法国晒照",
+        "onboard_time": 1772591965,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72248,
+        "num": 120574,
+        "word": "山姆1.38公斤冰块卖37.9元",
+        "onboard_time": 1772547931,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69615,
+        "num": 120299,
+        "word": "伦敦机场18小时未进食求助女子发声",
+        "onboard_time": 1772555485,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74690,
+        "num": 120062,
+        "word": "美假谈判真备战声誉扫地",
+        "onboard_time": 1772589326,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66171,
+        "num": 119887,
+        "word": "石油",
+        "onboard_time": 1772591303,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66158,
+        "num": 119596,
+        "word": "人大代表建议元宵节重阳节放假",
+        "onboard_time": 1772541871,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63867,
+        "num": 119542,
+        "word": "腰果圣杯",
+        "onboard_time": 1772589144,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63705,
+        "num": 119263,
+        "word": "麦当劳CEO试吃自家汉堡",
+        "onboard_time": 1772552427,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51844,
+        "num": 119133,
+        "word": "刘耀文张真源卡点祝福宋亚轩",
+        "onboard_time": 1772584706,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49253,
+        "num": 118774,
+        "word": "赵今麦吃了好多汤圆",
+        "onboard_time": 1772558779,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43461,
+        "num": 118685,
+        "word": "妻子要离婚丈夫要求返还10万元彩礼",
+        "onboard_time": 1772547752,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49096,
+        "num": 118511,
+        "word": "金智秀 迪奥公主",
+        "onboard_time": 1772547152,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46362,
+        "num": 118316,
+        "word": "穆祉丞怼眼自拍",
+        "onboard_time": 1772588424,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42031,
+        "num": 118020,
+        "word": "罗德里戈无缘世界杯",
+        "onboard_time": 1772588544,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40052,
+        "num": 117862,
+        "word": "康康赛后采访",
+        "onboard_time": 1772590464,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26974,
+        "num": 117753,
+        "word": "油价再度大涨",
+        "onboard_time": 1772582545,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两会上关心的那些事#"
+    }
+  }
+}

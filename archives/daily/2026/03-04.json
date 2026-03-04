@@ -1,7 +1,15 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772591769948,
+  "endTime": 1772593939666,
   "band_list": [
+    {
+      "raw_hot": 1150604,
+      "num": 595265,
+      "word": "伊朗导弹击中美第五舰队总部瞬间",
+      "onboard_time": 1772580442,
+      "rank": 22,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 923446,
       "num": 338662,
@@ -11,11 +19,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 757684,
-      "num": 595265,
-      "word": "伊朗导弹击中美第五舰队总部瞬间",
-      "onboard_time": 1772580442,
-      "rank": 22,
+      "raw_hot": 772519,
+      "num": 548843,
+      "word": "霍尔木兹海峡十多艘油轮被炮弹击中",
+      "onboard_time": 1772591303,
+      "rank": 24,
       "category": "国际时政"
     },
     {
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 394113,
-      "num": 394113,
+      "num": 616692,
       "word": "霸王茶姬口令",
       "onboard_time": 1772590403,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 380828,
+      "num": 380828,
+      "word": "中国石油跌停",
+      "onboard_time": 1772591903,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 376558,
@@ -123,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361399,
+      "num": 361399,
+      "word": "全红婵在村里聚完餐骑车离开",
+      "onboard_time": 1772590464,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 344692,
       "num": 745265,
       "word": "12306回应乘客在高铁上用排插",
@@ -137,6 +161,14 @@
       "onboard_time": 1772521105,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 338852,
+      "num": 125048,
+      "word": "伊朗首都全天遭轮番打击",
+      "onboard_time": 1772592623,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 334572,
@@ -187,6 +219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 282133,
+      "num": 282133,
+      "word": "肖战连体T恤",
+      "onboard_time": 1772591066,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277523,
       "num": 277523,
       "word": "姐姐姐夫终于说开了",
@@ -211,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245544,
-      "num": 154623,
-      "word": "霍尔木兹海峡十多艘油轮被炮弹击中",
-      "onboard_time": 1772591303,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 244714,
       "num": 594180,
       "word": "山姆1.38公斤冰块卖37.9元",
@@ -235,8 +267,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 220123,
+      "num": 584913,
+      "word": "雷军2026两会准备5份建议",
+      "onboard_time": 1772590044,
+      "rank": 5,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 217636,
-      "num": 387915,
+      "num": 531605,
       "word": "建议高速年度3000公里免费",
       "onboard_time": 1772584886,
       "rank": 4,
@@ -259,12 +299,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200249,
-      "num": 379017,
-      "word": "雷军2026两会准备5份建议",
-      "onboard_time": 1772590044,
-      "rank": 5,
-      "category": "国内时政,互联网"
+      "raw_hot": 198944,
+      "num": 123048,
+      "word": "乌克兰愿帮忙拦截伊朗无人机",
+      "onboard_time": 1772592445,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 186945,
@@ -307,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169991,
+      "num": 489763,
+      "word": "黄金白银再直线拉升",
+      "onboard_time": 1772591784,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 168875,
       "num": 168875,
       "word": "贫血女子经期一次性拔6颗牙",
@@ -345,14 +393,6 @@
       "onboard_time": 1772551108,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161656,
-      "num": 161656,
-      "word": "全红婵在村里聚完餐骑车离开",
-      "onboard_time": 1772590464,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 160168,
@@ -435,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136695,
+      "num": 430089,
+      "word": "EDG张钊",
+      "onboard_time": 1772591303,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134304,
       "num": 608806,
       "word": "纯真年代的爱情",
@@ -459,6 +507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125052,
+      "num": 591109,
+      "word": "EDG",
+      "onboard_time": 1772579660,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124375,
       "num": 366623,
       "word": "美以对伊动武最让人心碎的照片",
@@ -475,12 +531,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116612,
+      "num": 163567,
+      "word": "男性感染HPV有哪些健康风险",
+      "onboard_time": 1772589864,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115382,
+      "num": 124620,
+      "word": "阿里Qwen负责人宣布离开",
+      "onboard_time": 1772591784,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112691,
       "num": 586689,
       "word": "伊朗南部阿巴斯港等地遭密集空袭",
       "onboard_time": 1772559859,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109410,
+      "num": 123386,
+      "word": "阿里千问地震或因Gemini成员空降",
+      "onboard_time": 1772593705,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 108950,
+      "num": 122562,
+      "word": "甜茶首次来华",
+      "onboard_time": 1772592445,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 106240,
@@ -499,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101565,
+      "num": 121606,
+      "word": "粉丝隔着李昀锐聊天",
+      "onboard_time": 1772592985,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101178,
       "num": 592335,
       "word": "妻子要离婚丈夫要求返还10万元彩礼",
@@ -515,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95400,
-      "num": 358933,
-      "word": "EDG张钊",
-      "onboard_time": 1772591303,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 95013,
       "num": 366106,
       "word": "369为TES野辅发声",
@@ -537,22 +625,6 @@
       "onboard_time": 1772533107,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 91352,
-      "num": 591109,
-      "word": "EDG",
-      "onboard_time": 1772579660,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 86433,
-      "num": 146941,
-      "word": "肖战连体T恤",
-      "onboard_time": 1772591066,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 83136,
@@ -619,6 +691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 75030,
+      "num": 120682,
+      "word": "谷爱凌法国晒照",
+      "onboard_time": 1772591965,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73816,
       "num": 589964,
       "word": "痞幼直播关美颜",
@@ -651,15 +731,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 66349,
-      "num": 163567,
-      "word": "男性感染HPV有哪些健康风险",
-      "onboard_time": 1772589864,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 63096,
+      "raw_hot": 63867,
       "num": 146629,
       "word": "腰果圣杯",
       "onboard_time": 1772589144,
@@ -697,6 +769,14 @@
       "onboard_time": 1772584706,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53315,
+      "num": 147359,
+      "word": "新款仰望U7首搭第二代刀片电池",
+      "onboard_time": 1772591663,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 53109,
@@ -881,14 +961,6 @@
       "onboard_time": 1772577620,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21384,
-      "num": 147359,
-      "word": "新款仰望U7首搭第二代刀片电池",
-      "onboard_time": 1772591663,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 20617,
