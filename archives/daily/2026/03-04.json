@@ -1,6 +1,6 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772631487924,
+  "endTime": 1772635447125,
   "band_list": [
     {
       "raw_hot": 9557238,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2742646,
-      "num": 364772,
+      "num": 402192,
       "word": "中东局势彻底失控",
       "onboard_time": 1772605223,
       "rank": 5,
@@ -25,6 +25,22 @@
       "onboard_time": 1772622204,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1188619,
+      "num": 1190179,
+      "word": "社保迎来第六险",
+      "onboard_time": 1772630965,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1181908,
+      "num": 401592,
+      "word": "苹果发布会",
+      "onboard_time": 1772634086,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 1171220,
@@ -60,10 +76,18 @@
     },
     {
       "raw_hot": 1026521,
-      "num": 274022,
+      "num": 391313,
       "word": "伊朗确定最高领袖候选人",
       "onboard_time": 1772619085,
       "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1009642,
+      "num": 404306,
+      "word": "伊朗玫瑰宫遭袭前后对比",
+      "onboard_time": 1772633666,
+      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -147,12 +171,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 748451,
+      "num": 868387,
+      "word": "纯真年代 真替身",
+      "onboard_time": 1772633126,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 725027,
       "num": 279825,
       "word": "王励勤回应樊振东归队问题",
       "onboard_time": 1772611406,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 678208,
+      "num": 678208,
+      "word": "Bin 先锋赛给大伙带个冠军回来",
+      "onboard_time": 1772634086,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 668404,
@@ -180,7 +220,7 @@
     },
     {
       "raw_hot": 638172,
-      "num": 224355,
+      "num": 394012,
       "word": "女员工手一抖摔破3000多元飞天茅台",
       "onboard_time": 1772624603,
       "rank": 32,
@@ -196,7 +236,7 @@
     },
     {
       "raw_hot": 628091,
-      "num": 344410,
+      "num": 396299,
       "word": "伊朗军舰遭袭101人失踪78人伤",
       "onboard_time": 1772619684,
       "rank": 22,
@@ -228,7 +268,7 @@
     },
     {
       "raw_hot": 556921,
-      "num": 201330,
+      "num": 387048,
       "word": "伊朗的导弹能用多久",
       "onboard_time": 1772612963,
       "rank": 20,
@@ -268,7 +308,7 @@
     },
     {
       "raw_hot": 507910,
-      "num": 202676,
+      "num": 394289,
       "word": "伊朗局势最新情况",
       "onboard_time": 1772614944,
       "rank": 22,
@@ -284,7 +324,7 @@
     },
     {
       "raw_hot": 503208,
-      "num": 217204,
+      "num": 395009,
       "word": "63岁失独妈妈剖腹产生下健康女婴",
       "onboard_time": 1772622625,
       "rank": 11,
@@ -321,6 +361,14 @@
       "onboard_time": 1772586506,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 425861,
+      "num": 401222,
+      "word": "弟弟你的相貌很容易让人轻敌啊",
+      "onboard_time": 1772628386,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 423192,
@@ -369,14 +417,6 @@
       "onboard_time": 1772608943,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 399619,
-      "num": 198515,
-      "word": "弟弟你的相貌很容易让人轻敌啊",
-      "onboard_time": 1772628386,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 399516,
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 370638,
-      "num": 370638,
+      "num": 384214,
       "word": "委员建议每天下班后投入地玩半小时",
       "onboard_time": 1772619503,
       "rank": 12,
@@ -659,12 +699,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 294029,
+      "num": 400614,
+      "word": "凭微信转账记录起诉同学还钱被驳回",
+      "onboard_time": 1772627606,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289133,
       "num": 203201,
       "word": "太爷爷摔倒1岁宝宝连滚带爬去扶",
       "onboard_time": 1772619444,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287234,
+      "num": 396971,
+      "word": "伊朗展开高强度连环反击",
+      "onboard_time": 1772628925,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 286924,
@@ -689,6 +745,14 @@
       "onboard_time": 1772607744,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 279353,
+      "num": 400600,
+      "word": "MacBook Neo",
+      "onboard_time": 1772634086,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 277523,
@@ -721,14 +785,6 @@
       "onboard_time": 1772538629,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272606,
-      "num": 272606,
-      "word": "社保迎来第六险",
-      "onboard_time": 1772630965,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268166,
@@ -779,6 +835,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256130,
+      "num": 400059,
+      "word": "妈妈离世女儿懵懂追问为何手凉",
+      "onboard_time": 1772627606,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253738,
+      "num": 403931,
+      "word": "建议鼓励大学生加入家政行业",
+      "onboard_time": 1772627606,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 248852,
       "num": 191771,
       "word": "金饰克价一夜跌71元",
@@ -827,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232852,
+      "num": 399670,
+      "word": "十日终焉没女主",
+      "onboard_time": 1772629403,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230801,
       "num": 230801,
       "word": "肛门周围长东西一定是痔疮吗",
@@ -835,12 +915,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 229971,
-      "num": 149666,
-      "word": "伊朗展开高强度连环反击",
-      "onboard_time": 1772628925,
-      "rank": 23,
-      "category": "国际时政"
+      "raw_hot": 230201,
+      "num": 403271,
+      "word": "TTG对战AG",
+      "onboard_time": 1772626525,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 221493,
+      "num": 399069,
+      "word": "方穆静出国",
+      "onboard_time": 1772631387,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 220123,
@@ -883,6 +971,22 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 213684,
+      "num": 395986,
+      "word": "十日终焉",
+      "onboard_time": 1772634025,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205845,
+      "num": 392996,
+      "word": "韩蛇蝎美人被确认为反社会人格",
+      "onboard_time": 1772632229,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 203409,
       "num": 368139,
       "word": "伊朗称向美航母发射4枚巡航导弹",
@@ -907,6 +1011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200082,
+      "num": 398694,
+      "word": "BLG战胜JDG",
+      "onboard_time": 1772634086,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198944,
       "num": 160235,
       "word": "乌克兰愿帮忙拦截伊朗无人机",
@@ -916,19 +1028,11 @@
     },
     {
       "raw_hot": 197647,
-      "num": 201388,
+      "num": 389096,
       "word": "1克拉钻石价格已经1000多了",
       "onboard_time": 1772621483,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 194842,
-      "num": 194842,
-      "word": "妈妈离世女儿懵懂追问为何手凉",
-      "onboard_time": 1772627606,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193811,
@@ -961,6 +1065,14 @@
       "onboard_time": 1772545952,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185699,
+      "num": 395512,
+      "word": "阿里通义实验室紧急召开会议",
+      "onboard_time": 1772634505,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 184063,
@@ -996,7 +1108,7 @@
     },
     {
       "raw_hot": 179081,
-      "num": 149087,
+      "num": 391682,
       "word": "谈到美国电网中国白发院士笑了",
       "onboard_time": 1772628386,
       "rank": 31,
@@ -1017,14 +1129,6 @@
       "onboard_time": 1772600425,
       "rank": 26,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 175907,
-      "num": 175907,
-      "word": "建议鼓励大学生加入家政行业",
-      "onboard_time": 1772627606,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 171230,
@@ -1100,7 +1204,7 @@
     },
     {
       "raw_hot": 163413,
-      "num": 163413,
+      "num": 385480,
       "word": "剑来",
       "onboard_time": 1772623105,
       "rank": 19,
@@ -1113,14 +1217,6 @@
       "onboard_time": 1772623164,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161177,
-      "num": 161177,
-      "word": "TTG对战AG",
-      "onboard_time": 1772626525,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 160797,
@@ -1153,6 +1249,14 @@
       "onboard_time": 1772585606,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156095,
+      "num": 392314,
+      "word": "最长学期后迎来史上最短学期",
+      "onboard_time": 1772633486,
+      "rank": 31,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 154455,
@@ -1233,6 +1337,14 @@
       "onboard_time": 1772623345,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145710,
+      "num": 392160,
+      "word": "建议将香港机场纳入国际航空体系",
+      "onboard_time": 1772634145,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144898,
@@ -1363,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122825,
+      "num": 390139,
+      "word": "BLG赛后发博",
+      "onboard_time": 1772634985,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121361,
       "num": 121361,
       "word": "萨巴伦卡订婚",
@@ -1377,6 +1497,14 @@
       "onboard_time": 1772609483,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120437,
+      "num": 389889,
+      "word": "微信转账1万没写借条同学不还钱了",
+      "onboard_time": 1772634985,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120326,
@@ -1435,6 +1563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114292,
+      "num": 388932,
+      "word": "中国驻日大使馆再发提醒",
+      "onboard_time": 1772628084,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113937,
       "num": 113937,
       "word": "鸿蒙智行发布会",
@@ -1448,6 +1584,14 @@
       "word": "伊朗已发动17轮针对美以的打击",
       "onboard_time": 1772628505,
       "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 113321,
+      "num": 388595,
+      "word": "伊朗称击中10多艘油轮",
+      "onboard_time": 1772632527,
+      "rank": 40,
       "category": "国际时政"
     },
     {
@@ -1467,14 +1611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 111705,
-      "num": 148803,
-      "word": "凭微信转账记录起诉同学还钱被驳回",
-      "onboard_time": 1772627606,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109980,
       "num": 109980,
       "word": "浮生物语",
@@ -1489,6 +1625,14 @@
       "onboard_time": 1772593705,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 107206,
+      "num": 387719,
+      "word": "TTG确认第三轮A组",
+      "onboard_time": 1772635106,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 107183,
@@ -1579,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102400,
-      "num": 148876,
-      "word": "中国驻日大使馆再发提醒",
-      "onboard_time": 1772628084,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 102105,
       "num": 102105,
       "word": "一车人心态好得堪比海绵宝宝",
@@ -1601,14 +1737,6 @@
       "onboard_time": 1772604744,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101395,
-      "num": 148579,
-      "word": "十日终焉没女主",
-      "onboard_time": 1772629403,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 101178,
@@ -1739,6 +1867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94151,
+      "num": 386728,
+      "word": "小狗做雾化不理解但很配合",
+      "onboard_time": 1772634145,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93554,
       "num": 93554,
       "word": "世界会偏爱多问一嘴的人",
@@ -1835,12 +1971,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88153,
+      "num": 386083,
+      "word": "纯真年代结局 全员HE",
+      "onboard_time": 1772631986,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86231,
       "num": 200531,
       "word": "无畏赵怀真抢龙",
       "onboard_time": 1772618485,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 85225,
+      "num": 384667,
+      "word": "易烊千玺告眼镜公司侵权索赔50.5万",
+      "onboard_time": 1772635106,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 84478,
@@ -1857,6 +2009,14 @@
       "onboard_time": 1772621365,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 83999,
+      "num": 385382,
+      "word": "AG让二追四",
+      "onboard_time": 1772635166,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 83902,
@@ -2107,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66574,
+      "num": 397964,
+      "word": "新豪华旗舰昊铂A800上市补贴后16.48万起",
+      "onboard_time": 1772633126,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 63867,
       "num": 146629,
       "word": "腰果圣杯",
@@ -2241,6 +2409,14 @@
       "onboard_time": 1772602945,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51573,
+      "num": 403588,
+      "word": "中国拥有全球门类最齐全制造业体系",
+      "onboard_time": 1772631505,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51027,
@@ -2571,6 +2747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20618,
+      "num": 690189,
+      "word": "在中国式现代化新征程上策马奔腾",
+      "onboard_time": 1772631626,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20617,
       "num": 227319,
       "word": "建议保障小学每周5节体育课",
@@ -2717,6 +2901,9 @@
     },
     {
       "word": "#重磅纪录片历史不会辜负实干者#"
+    },
+    {
+      "word": "#全国政协十四届四次会议开幕#"
     }
   ]
 }
