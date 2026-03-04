@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772667545448,
+  "endTime": 1772668404343,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1038703,
-      "num": 219469,
+      "num": 221213,
       "word": "中东局势彻底失控",
       "onboard_time": 1772605223,
       "rank": 10,
@@ -25,6 +25,22 @@
       "onboard_time": 1772639602,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 811527,
+      "num": 290419,
+      "word": "伊朗袭击以国防部大楼",
+      "onboard_time": 1772667380,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 746716,
+      "num": 462117,
+      "word": "20岁小伙长期戴骨传导耳机致聋",
+      "onboard_time": 1772665819,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 719119,
@@ -43,7 +59,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 502344,
+      "raw_hot": 611066,
       "num": 482971,
       "word": "女子花20万住酒店3年遭员工吐槽",
       "onboard_time": 1772666360,
@@ -51,16 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 441357,
-      "num": 441357,
-      "word": "20岁小伙长期戴骨传导耳机致聋",
-      "onboard_time": 1772665819,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 427849,
-      "num": 893525,
+      "num": 999544,
       "word": "我使馆提醒近期避免前往日本",
       "onboard_time": 1772637803,
       "rank": 18,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 400970,
-      "num": 633493,
+      "num": 718315,
       "word": "人大代表反问微短剧爽完之后呢",
       "onboard_time": 1772636544,
       "rank": 32,
@@ -81,6 +89,14 @@
       "onboard_time": 1772634086,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 365681,
+      "num": 185299,
+      "word": "沙特阿美避开霍尔木兹海峡运原油",
+      "onboard_time": 1772666061,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 348817,
@@ -108,19 +124,11 @@
     },
     {
       "raw_hot": 278817,
-      "num": 190035,
+      "num": 208264,
       "word": "王鹤棣紫衣少年谢景行",
       "onboard_time": 1772641821,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 263841,
-      "num": 117883,
-      "word": "沙特阿美避开霍尔木兹海峡运原油",
-      "onboard_time": 1772666061,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 261424,
@@ -136,6 +144,14 @@
       "word": "微信转账1万没写借条同学不还钱了",
       "onboard_time": 1772634985,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237538,
+      "num": 237538,
+      "word": "物业费越来越难收",
+      "onboard_time": 1772665880,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -179,14 +195,6 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 214459,
-      "num": 116937,
-      "word": "伊朗袭击以国防部大楼",
-      "onboard_time": 1772667380,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 205335,
       "num": 221112,
       "word": "Bin 先锋赛给大伙带个冠军回来",
@@ -203,12 +211,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 195550,
-      "num": 195550,
-      "word": "物业费越来越难收",
-      "onboard_time": 1772665880,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 199702,
+      "num": 199702,
+      "word": "代表谈吴克群帮农民卖3万斤菜",
+      "onboard_time": 1772666239,
+      "rank": 19,
+      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 194806,
@@ -291,14 +299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118889,
-      "num": 118889,
-      "word": "代表谈吴克群帮农民卖3万斤菜",
-      "onboard_time": 1772666239,
-      "rank": 19,
-      "category": "艺人,国内时政"
-    },
-    {
       "raw_hot": 118869,
       "num": 113513,
       "word": "周五晚高疯",
@@ -347,6 +347,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114496,
+      "num": 114496,
+      "word": "齐思钧吕严同一个初中同一个高中",
+      "onboard_time": 1772666299,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112399,
+      "num": 148460,
+      "word": "美国为何非要搞垮伊朗",
+      "onboard_time": 1772643078,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109604,
       "num": 218390,
       "word": "方穆静出国",
@@ -363,12 +379,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 104247,
-      "num": 148460,
-      "word": "美国为何非要搞垮伊朗",
-      "onboard_time": 1772643078,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 109270,
+      "num": 109270,
+      "word": "刘国梁建议加强挫折教育",
+      "onboard_time": 1772667080,
+      "rank": 41,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 100329,
@@ -403,12 +419,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 90394,
-      "num": 90394,
-      "word": "齐思钧吕严同一个初中同一个高中",
-      "onboard_time": 1772666299,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 84419,
+      "num": 227110,
+      "word": "保时捷Taycan",
+      "onboard_time": 1772625863,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 84090,
+      "num": 217928,
+      "word": "MacBookNeo定价4599元起",
+      "onboard_time": 1772636544,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 81939,
+      "num": 81939,
+      "word": "冯琳王德发分手",
+      "onboard_time": 1772668101,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 67556,
@@ -419,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67545,
+      "num": 67545,
+      "word": "iPhone17e上手",
+      "onboard_time": 1772667862,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 67209,
       "num": 217967,
       "word": "1克拉钻石价格已经1000多了",
@@ -427,20 +467,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 65251,
-      "num": 225945,
-      "word": "保时捷Taycan",
-      "onboard_time": 1772625863,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 64220,
-      "num": 217928,
-      "word": "MacBookNeo定价4599元起",
-      "onboard_time": 1772636544,
-      "rank": 41,
-      "category": "数码"
+      "raw_hot": 66203,
+      "num": 66203,
+      "word": "什么水果一听就很东北",
+      "onboard_time": 1772667801,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 62831,
@@ -449,14 +481,6 @@
       "onboard_time": 1772634145,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 61676,
-      "num": 61676,
-      "word": "刘国梁建议加强挫折教育",
-      "onboard_time": 1772667080,
-      "rank": 41,
-      "category": "国内时政,体育"
     },
     {
       "raw_hot": 61413,
@@ -475,12 +499,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 59214,
+      "num": 59214,
+      "word": "阿里CEO吴泳铭现身千问换帅沟通会",
+      "onboard_time": 1772668101,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 58696,
       "num": 217778,
       "word": "考研MVP结算画面",
       "onboard_time": 1772636604,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 57530,
+      "num": 67141,
+      "word": "彩礼设6万元上限治标更要治本",
+      "onboard_time": 1772646976,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56089,
@@ -505,14 +545,6 @@
       "onboard_time": 1772640023,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 53074,
-      "num": 67141,
-      "word": "彩礼设6万元上限治标更要治本",
-      "onboard_time": 1772646976,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50608,
@@ -540,7 +572,7 @@
     },
     {
       "raw_hot": 43740,
-      "num": 220124,
+      "num": 292941,
       "word": "3月5日两会日程",
       "onboard_time": 1772666419,
       "rank": 9,
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 39659,
-      "num": 95328,
+      "num": 223998,
       "word": "2026两会100秒",
       "onboard_time": 1772665580,
       "rank": 31,
@@ -587,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33085,
+      "num": 224748,
+      "word": "建议建立网络微短剧标准",
+      "onboard_time": 1772667140,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29548,
       "num": 218017,
       "word": "哈尔滨19米高网红大雪人被拆除",
@@ -617,14 +657,6 @@
       "onboard_time": 1772646317,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 21565,
-      "num": 224748,
-      "word": "建议建立网络微短剧标准",
-      "onboard_time": 1772667140,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19528,
@@ -659,6 +691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 14974,
+      "num": 632991,
+      "word": "在中国式现代化新征程上策马奔腾",
+      "onboard_time": 1772631626,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14737,
       "num": 49499,
       "word": "TTG对战AG",
@@ -673,14 +713,6 @@
       "onboard_time": 1772619986,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14420,
-      "num": 632991,
-      "word": "在中国式现代化新征程上策马奔腾",
-      "onboard_time": 1772631626,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
