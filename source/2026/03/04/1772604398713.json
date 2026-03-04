@@ -1,0 +1,410 @@
+{
+  "runTime": 1772604398713,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 754915,
+        "num": 1120786,
+        "word": "建议彩礼金额不超过6万元",
+        "onboard_time": 1772597425,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407347,
+        "num": 814030,
+        "word": "飞驰人生3暂列全球票房年榜第一",
+        "onboard_time": 1772598266,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52903,
+        "num": 810424,
+        "word": "2026两会日程预告",
+        "onboard_time": 1772598266,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266604,
+        "num": 806568,
+        "word": "建议基础教育学制缩短为532",
+        "onboard_time": 1772596764,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256670,
+        "num": 794172,
+        "word": "两会",
+        "onboard_time": 1772586506,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 680185,
+        "num": 789408,
+        "word": "伊朗首都全天遭轮番打击",
+        "onboard_time": 1772592623,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220236,
+        "num": 777159,
+        "word": "恋与深空",
+        "onboard_time": 1772598807,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189885,
+        "num": 773175,
+        "word": "北京下雪",
+        "onboard_time": 1772594064,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162184,
+        "num": 764495,
+        "word": "烤肉店辣椒水是干嘛的",
+        "onboard_time": 1772601084,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 73526,
+        "num": 757409,
+        "word": "建议将农村养老金提升至500元每人每月",
+        "onboard_time": 1772603784,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 754464,
+        "num": 754464,
+        "word": "岳雨婷 人在巴黎缺席看秀",
+        "onboard_time": 1772597965,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 416972,
+        "num": 416972,
+        "word": "复旦大学生活码 复活码",
+        "onboard_time": 1772601202,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 410367,
+        "num": 410367,
+        "word": "郭晓婷说王天辰吻戏像牛耕地",
+        "onboard_time": 1772598026,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373573,
+        "num": 373573,
+        "word": "雨天午睡很舒服就要小心了",
+        "onboard_time": 1772600067,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323621,
+        "num": 323621,
+        "word": "赖伟明学范丞丞的手势舞 照抄广告",
+        "onboard_time": 1772597486,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318323,
+        "num": 318323,
+        "word": "没有性生活也会感染HPV吗",
+        "onboard_time": 1772599226,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300865,
+        "num": 300865,
+        "word": "杨幂汤圆头像",
+        "onboard_time": 1772599527,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259051,
+        "num": 259051,
+        "word": "淘宝凑齐短剧四小花旦",
+        "onboard_time": 1772600665,
+        "rank": 17,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 238893,
+        "num": 238893,
+        "word": "伊朗导弹击中美第五舰队总部瞬间",
+        "onboard_time": 1772580442,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249198,
+        "num": 236552,
+        "word": "阿瑟又白干了",
+        "onboard_time": 1772603484,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232355,
+        "num": 232355,
+        "word": "方圆鼻子上的疤痕",
+        "onboard_time": 1772603604,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230801,
+        "num": 230801,
+        "word": "肛门周围长东西一定是痔疮吗",
+        "onboard_time": 1772600844,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65163,
+        "num": 224374,
+        "word": "建议高考英语降为100分",
+        "onboard_time": 1772604084,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223992,
+        "num": 223992,
+        "word": "全球股市全线暴跌",
+        "onboard_time": 1772603004,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198671,
+        "num": 198671,
+        "word": "霍尔木兹海峡十多艘油轮被炮弹击中",
+        "onboard_time": 1772591303,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133426,
+        "num": 195806,
+        "word": "吃一口饭倒欠200卡路里",
+        "onboard_time": 1772594725,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195531,
+        "num": 195531,
+        "word": "这竟然是甄嬛传里的温宜公主",
+        "onboard_time": 1772603544,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178369,
+        "num": 178369,
+        "word": "甘肃地震",
+        "onboard_time": 1772600425,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 151346,
+        "num": 151346,
+        "word": "伊朗称击毁美军第三套萨德系统",
+        "onboard_time": 1772594245,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150837,
+        "num": 150837,
+        "word": "中国石油跌停",
+        "onboard_time": 1772591903,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 259892,
+        "num": 147888,
+        "word": "美军公布最新伤亡情况",
+        "onboard_time": 1772602765,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133035,
+        "num": 133035,
+        "word": "日本撞人族事件多发",
+        "onboard_time": 1772594425,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47323,
+        "num": 126068,
+        "word": "晒出属于你的光",
+        "onboard_time": 1772604264,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142042,
+        "num": 125373,
+        "word": "乌克兰愿帮忙拦截伊朗无人机",
+        "onboard_time": 1772592445,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120636,
+        "num": 120636,
+        "word": "十四届全国人大四次会议发布会",
+        "onboard_time": 1772596706,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114330,
+        "num": 114330,
+        "word": "肖战连体T恤",
+        "onboard_time": 1772591066,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47078,
+        "num": 111791,
+        "word": "护肤界黑马PDRN迎来新突破",
+        "onboard_time": 1772604264,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 111522,
+        "num": 111522,
+        "word": "伊朗遇难学生一个个墓穴让人心碎",
+        "onboard_time": 1772585727,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104762,
+        "num": 104762,
+        "word": "决不允许任何外部势力干涉中国内政",
+        "onboard_time": 1772603184,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108516,
+        "num": 104594,
+        "word": "伊朗库姆遭袭",
+        "onboard_time": 1772596706,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104346,
+        "num": 104346,
+        "word": "为中美合作开辟更广阔空间",
+        "onboard_time": 1772602883,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102391,
+        "num": 102391,
+        "word": "十四届全国人大四次会议议程",
+        "onboard_time": 1772594905,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102337,
+        "num": 102337,
+        "word": "建议居民身份证去地址化",
+        "onboard_time": 1772604143,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100301,
+        "num": 100301,
+        "word": "春天是精神病的高发时期",
+        "onboard_time": 1772603125,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100096,
+        "num": 100096,
+        "word": "谁家男主一边擦伤一边擦边",
+        "onboard_time": 1772599046,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98571,
+        "num": 98571,
+        "word": "全红婵在村里聚完餐骑车离开",
+        "onboard_time": 1772590464,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94329,
+        "num": 94329,
+        "word": "金饰克价一夜跌71元",
+        "onboard_time": 1772595025,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94024,
+        "num": 94024,
+        "word": "岳雨婷缺席balmain看秀",
+        "onboard_time": 1772597665,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93367,
+        "num": 93367,
+        "word": "一菲和诺澜在短剧二搭了",
+        "onboard_time": 1772604203,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83148,
+        "num": 83148,
+        "word": "鹅鸭杀新角色肉汁小丑",
+        "onboard_time": 1772602164,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
