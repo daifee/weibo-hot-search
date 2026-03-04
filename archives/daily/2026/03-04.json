@@ -1,7 +1,23 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772581822542,
+  "endTime": 1772591769948,
   "band_list": [
+    {
+      "raw_hot": 923446,
+      "num": 338662,
+      "word": "法国派出航母",
+      "onboard_time": 1772587886,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 757684,
+      "num": 595265,
+      "word": "伊朗导弹击中美第五舰队总部瞬间",
+      "onboard_time": 1772580442,
+      "rank": 22,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 750125,
       "num": 590930,
@@ -11,19 +27,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 637256,
+      "num": 323667,
+      "word": "大妈攒金34年戴百克黄金逛珠宝城",
+      "onboard_time": 1772587886,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626086,
       "num": 626086,
       "word": "美以伊最新局势",
       "onboard_time": 1772552189,
       "rank": 20,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 595265,
-      "num": 595265,
-      "word": "伊朗导弹击中美第五舰队总部瞬间",
-      "onboard_time": 1772580442,
-      "rank": 22,
       "category": "国际时政"
     },
     {
@@ -35,6 +51,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 548589,
+      "num": 160054,
+      "word": "伊朗遇难学生一个个墓穴让人心碎",
+      "onboard_time": 1772585727,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 486182,
       "num": 594829,
       "word": "单亲爸爸打铁花成网红中毒离世",
@@ -43,8 +67,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 477092,
+      "num": 156608,
+      "word": "伊媒称哈梅内伊之子被选为新任最高领袖",
+      "onboard_time": 1772586806,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 451109,
+      "num": 1072177,
+      "word": "两会",
+      "onboard_time": 1772586506,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 423192,
-      "num": 649303,
+      "num": 767481,
       "word": "中国石油发布公告",
       "onboard_time": 1772580743,
       "rank": 4,
@@ -57,6 +97,14 @@
       "onboard_time": 1772547271,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394113,
+      "num": 394113,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1772590403,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 376558,
@@ -107,6 +155,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 311031,
+      "num": 311031,
+      "word": "何与刘些宁同款汤圆",
+      "onboard_time": 1772588844,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310343,
+      "num": 310343,
+      "word": "油价",
+      "onboard_time": 1772588304,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 307412,
       "num": 587813,
       "word": "王毅和以色列外长通电话",
@@ -121,6 +185,14 @@
       "onboard_time": 1772528549,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 277523,
+      "num": 277523,
+      "word": "姐姐姐夫终于说开了",
+      "onboard_time": 1772587944,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 268166,
@@ -139,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245544,
+      "num": 154623,
+      "word": "霍尔木兹海峡十多艘油轮被炮弹击中",
+      "onboard_time": 1772591303,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 244714,
       "num": 594180,
       "word": "山姆1.38公斤冰块卖37.9元",
@@ -155,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 217636,
+      "num": 387915,
+      "word": "建议高速年度3000公里免费",
+      "onboard_time": 1772584886,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214661,
       "num": 591698,
       "word": "DIOR大秀",
@@ -169,6 +257,14 @@
       "onboard_time": 1772526447,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200249,
+      "num": 379017,
+      "word": "雷军2026两会准备5份建议",
+      "onboard_time": 1772590044,
+      "rank": 5,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 186945,
@@ -211,12 +307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168875,
+      "num": 168875,
+      "word": "贫血女子经期一次性拔6颗牙",
+      "onboard_time": 1772582486,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167852,
       "num": 584819,
       "word": "龙洋眼妆",
       "onboard_time": 1772555126,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167616,
+      "num": 167616,
+      "word": "汪东城方严正声明",
+      "onboard_time": 1772583505,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 165765,
@@ -235,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161656,
+      "num": 161656,
+      "word": "全红婵在村里聚完餐骑车离开",
+      "onboard_time": 1772590464,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160168,
       "num": 589258,
       "word": "伊朗宣称重创美军",
@@ -249,6 +369,14 @@
       "onboard_time": 1772544631,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157990,
+      "num": 157990,
+      "word": "IF椰子水股价连续大跌",
+      "onboard_time": 1772585606,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 154455,
@@ -267,12 +395,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 152271,
+      "num": 152271,
+      "word": "西班牙回应特朗普贸易威胁",
+      "onboard_time": 1772582965,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149357,
       "num": 367404,
       "word": "美首都集会抗议美以对伊朗动武",
       "onboard_time": 1772540731,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149014,
+      "num": 149014,
+      "word": "美假谈判真备战声誉扫地",
+      "onboard_time": 1772589326,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 144898,
+      "num": 155593,
+      "word": "石油",
+      "onboard_time": 1772591303,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 144867,
@@ -315,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118017,
+      "num": 149300,
+      "word": "这些生活习惯可能给HPV可乘之机",
+      "onboard_time": 1772586267,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112691,
       "num": 586689,
       "word": "伊朗南部阿巴斯港等地遭密集空袭",
@@ -355,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95400,
+      "num": 358933,
+      "word": "EDG张钊",
+      "onboard_time": 1772591303,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95013,
       "num": 366106,
       "word": "369为TES野辅发声",
@@ -369,6 +537,22 @@
       "onboard_time": 1772533107,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 91352,
+      "num": 591109,
+      "word": "EDG",
+      "onboard_time": 1772579660,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 86433,
+      "num": 146941,
+      "word": "肖战连体T恤",
+      "onboard_time": 1772591066,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 83136,
@@ -401,14 +585,6 @@
       "onboard_time": 1772541091,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 77805,
-      "num": 591109,
-      "word": "EDG",
-      "onboard_time": 1772579660,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 77446,
@@ -451,6 +627,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 72556,
+      "num": 582958,
+      "word": "赵今麦吃了好多汤圆",
+      "onboard_time": 1772558779,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67971,
       "num": 364608,
       "word": "只有胡彦斌记得今天是元宵节",
@@ -465,6 +649,22 @@
       "onboard_time": 1772550150,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 66349,
+      "num": 163567,
+      "word": "男性感染HPV有哪些健康风险",
+      "onboard_time": 1772589864,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 63096,
+      "num": 146629,
+      "word": "腰果圣杯",
+      "onboard_time": 1772589144,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 62636,
@@ -483,14 +683,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 61564,
-      "num": 582958,
-      "word": "赵今麦吃了好多汤圆",
-      "onboard_time": 1772558779,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 58896,
       "num": 368648,
       "word": "Jonathan的Dior新Vibe",
@@ -499,11 +691,27 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 53575,
+      "num": 146212,
+      "word": "刘耀文张真源卡点祝福宋亚轩",
+      "onboard_time": 1772584706,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53109,
       "num": 582159,
       "word": "以为李柯以是跨界结果是老本行",
       "onboard_time": 1772560997,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 53047,
+      "num": 146058,
+      "word": "穆祉丞怼眼自拍",
+      "onboard_time": 1772588424,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -515,12 +723,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48857,
+      "num": 145733,
+      "word": "苹果上调MacBookAir和Pro售价",
+      "onboard_time": 1772583147,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 48137,
+      "num": 145611,
+      "word": "康康赛后采访",
+      "onboard_time": 1772590464,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 46647,
+      "num": 145276,
+      "word": "BIGBANG今年将世巡",
+      "onboard_time": 1772582545,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 46525,
       "num": 578904,
       "word": "全国两会",
       "onboard_time": 1772580442,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 45736,
+      "num": 145042,
+      "word": "罗德里戈无缘世界杯",
+      "onboard_time": 1772588544,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 45211,
@@ -587,6 +827,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35199,
+      "num": 144964,
+      "word": "油价再度大涨",
+      "onboard_time": 1772582545,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 33289,
+      "num": 144663,
+      "word": "苹果新显示器不支持英特尔芯片Mac",
+      "onboard_time": 1772590945,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 30595,
       "num": 365798,
       "word": "王曼昱的元宵节祝福",
@@ -625,6 +881,14 @@
       "onboard_time": 1772577620,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21384,
+      "num": 147359,
+      "word": "新款仰望U7首搭第二代刀片电池",
+      "onboard_time": 1772591663,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 20617,
