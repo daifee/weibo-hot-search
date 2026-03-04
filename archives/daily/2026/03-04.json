@@ -1,6 +1,6 @@
 {
   "startTime": 1772554135864,
-  "endTime": 1772610298803,
+  "endTime": 1772611139012,
   "band_list": [
     {
       "raw_hot": 2742646,
@@ -131,6 +131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 546014,
+      "num": 237518,
+      "word": "伊拉克被美以当成打伊朗的免费跳板",
+      "onboard_time": 1772605763,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 529982,
       "num": 348933,
       "word": "赖伟明学范丞丞的手势舞 照抄广告",
@@ -163,20 +171,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 457794,
+      "num": 239306,
+      "word": "阿里高层出面挽留林俊旸",
+      "onboard_time": 1772607867,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 451109,
       "num": 1072177,
       "word": "两会",
       "onboard_time": 1772586506,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 450714,
-      "num": 239306,
-      "word": "阿里高层出面挽留林俊旸",
-      "onboard_time": 1772607867,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 423192,
@@ -291,7 +299,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351410,
+      "raw_hot": 360647,
       "num": 251389,
       "word": "王天辰 就是很想亲",
       "onboard_time": 1772606005,
@@ -353,6 +361,14 @@
       "onboard_time": 1772565495,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 323404,
+      "num": 323404,
+      "word": "全国政协十四届四次会议开幕",
+      "onboard_time": 1772608345,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 319319,
@@ -443,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279595,
+      "num": 279595,
+      "word": "建议提高个税起征点至8000或1万",
+      "onboard_time": 1772607744,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 277523,
       "num": 277523,
       "word": "姐姐姐夫终于说开了",
@@ -467,14 +491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 272487,
-      "num": 272487,
-      "word": "全国政协十四届四次会议开幕",
-      "onboard_time": 1772608345,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 268166,
       "num": 594632,
       "word": "住酒店三年还被员工蛐蛐",
@@ -483,12 +499,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 260104,
-      "num": 233768,
-      "word": "伊拉克被美以当成打伊朗的免费跳板",
-      "onboard_time": 1772605763,
-      "rank": 25,
-      "category": "国际时政"
+      "raw_hot": 260038,
+      "num": 217663,
+      "word": "李幼斌 法拉利老了会变成意大利炮",
+      "onboard_time": 1772608943,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 259051,
@@ -507,20 +523,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250259,
+      "num": 250259,
+      "word": "建议高考英语降为100分",
+      "onboard_time": 1772604084,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 248852,
       "num": 191771,
       "word": "金饰克价一夜跌71元",
       "onboard_time": 1772595025,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 248683,
-      "num": 255725,
-      "word": "建议提高个税起征点至8000或1万",
-      "onboard_time": 1772607744,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 244714,
@@ -537,14 +553,6 @@
       "onboard_time": 1772598807,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 243744,
-      "num": 243744,
-      "word": "建议高考英语降为100分",
-      "onboard_time": 1772604084,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 241596,
@@ -625,6 +633,14 @@
       "onboard_time": 1772592445,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 193811,
+      "num": 193811,
+      "word": "李乃文 去法国排什么队",
+      "onboard_time": 1772604924,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 187860,
@@ -739,14 +755,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 165461,
-      "num": 165461,
-      "word": "李幼斌 法拉利老了会变成意大利炮",
-      "onboard_time": 1772608943,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165254,
       "num": 579864,
       "word": "华晨宇好稳",
@@ -777,14 +785,6 @@
       "onboard_time": 1772585606,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 154940,
-      "num": 154940,
-      "word": "李乃文 去法国排什么队",
-      "onboard_time": 1772604924,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 154455,
@@ -825,6 +825,14 @@
       "onboard_time": 1772582965,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149862,
+      "num": 149862,
+      "word": "我国今年将大力提振消费",
+      "onboard_time": 1772610024,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149357,
@@ -881,6 +889,14 @@
       "onboard_time": 1772609724,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138623,
+      "num": 138623,
+      "word": "林诗栋重庆冠军赛退赛",
+      "onboard_time": 1772609963,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 136695,
@@ -955,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121361,
+      "num": 121361,
+      "word": "萨巴伦卡订婚",
+      "onboard_time": 1772609003,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118017,
       "num": 149300,
       "word": "这些生活习惯可能给HPV可乘之机",
@@ -987,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113937,
+      "num": 113937,
+      "word": "鸿蒙智行发布会",
+      "onboard_time": 1772610263,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 112691,
       "num": 586689,
       "word": "伊朗南部阿巴斯港等地遭密集空袭",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1772605524,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112228,
-      "num": 112228,
-      "word": "萨巴伦卡订婚",
-      "onboard_time": 1772609003,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 109410,
@@ -1059,14 +1083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 104201,
-      "num": 104201,
-      "word": "我国今年将大力提振消费",
-      "onboard_time": 1772610024,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 103499,
       "num": 103499,
       "word": "春天是精神病的高发时期",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1772547752,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101081,
-      "num": 101081,
-      "word": "林诗栋重庆冠军赛退赛",
-      "onboard_time": 1772609963,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 100677,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1772551228,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96945,
+      "num": 96945,
+      "word": "你有点不新鲜了",
+      "onboard_time": 1772609483,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 96582,
@@ -1243,20 +1259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85904,
-      "num": 85904,
-      "word": "你有点不新鲜了",
-      "onboard_time": 1772609483,
-      "rank": 42,
+      "raw_hot": 90263,
+      "num": 90263,
+      "word": "一眼看出不经常加班的公司",
+      "onboard_time": 1772610325,
+      "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85765,
-      "num": 85765,
-      "word": "鸿蒙智行发布会",
-      "onboard_time": 1772610263,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 83902,
@@ -1297,6 +1305,14 @@
       "onboard_time": 1772553327,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81672,
+      "num": 81672,
+      "word": "带娃半年终于懂了妈妈的情绪病",
+      "onboard_time": 1772610744,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 81415,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1772533706,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 73668,
+      "num": 73668,
+      "word": "何老师听到黄毛的反应",
+      "onboard_time": 1772610925,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 72556,
