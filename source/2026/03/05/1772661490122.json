@@ -1,0 +1,410 @@
+{
+  "runTime": 1772661490122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 71855,
+        "num": 249153,
+        "word": "我使馆提醒近期避免前往日本",
+        "onboard_time": 1772637803,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51790,
+        "num": 184609,
+        "word": "人大代表反问微短剧爽完之后呢",
+        "onboard_time": 1772636544,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8790,
+        "num": 140391,
+        "word": "在中国式现代化新征程上策马奔腾",
+        "onboard_time": 1772631626,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43139,
+        "num": 43139,
+        "word": "社保迎来第六险",
+        "onboard_time": 1772630965,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37693,
+        "num": 37693,
+        "word": "流动草莓摊因网友评价太好吃火了",
+        "onboard_time": 1772639123,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175894,
+        "num": 36479,
+        "word": "伊朗沉没军舰已找到80具遗体",
+        "onboard_time": 1772639602,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34958,
+        "num": 34958,
+        "word": "谈到美国电网中国白发院士笑了",
+        "onboard_time": 1772628386,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31288,
+        "num": 31288,
+        "word": "最长学期后迎来史上最短学期",
+        "onboard_time": 1772633486,
+        "rank": 7,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 31236,
+        "num": 31236,
+        "word": "纯真年代 真替身",
+        "onboard_time": 1772633126,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30898,
+        "num": 30898,
+        "word": "建议鼓励大学生加入家政行业",
+        "onboard_time": 1772627606,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184506,
+        "num": 30867,
+        "word": "中东局势彻底失控",
+        "onboard_time": 1772605223,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48636,
+        "num": 30826,
+        "word": "王鹤棣紫衣少年谢景行",
+        "onboard_time": 1772641821,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48151,
+        "num": 30764,
+        "word": "叶璇说拍短剧老爽了",
+        "onboard_time": 1772640983,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36473,
+        "num": 30673,
+        "word": "苹果发布会",
+        "onboard_time": 1772634086,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25944,
+        "num": 30596,
+        "word": "凭微信转账记录起诉同学还钱被驳回",
+        "onboard_time": 1772627606,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27254,
+        "num": 30532,
+        "word": "建议废除劳务派遣制度",
+        "onboard_time": 1772623644,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25651,
+        "num": 30501,
+        "word": "车停半个月被老鼠囤了20斤粮食",
+        "onboard_time": 1772638643,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22966,
+        "num": 30390,
+        "word": "十日终焉",
+        "onboard_time": 1772634025,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22284,
+        "num": 30368,
+        "word": "弟弟你的相貌很容易让人轻敌啊",
+        "onboard_time": 1772628386,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20345,
+        "num": 30299,
+        "word": "IF椰子水严正声明",
+        "onboard_time": 1772618365,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151060,
+        "num": 30213,
+        "word": "迪丽热巴报平安",
+        "onboard_time": 1772627666,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97776,
+        "num": 30132,
+        "word": "伊朗玫瑰宫遭袭前后对比",
+        "onboard_time": 1772633666,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43436,
+        "num": 30105,
+        "word": "中国游客在日本目睹老太被壮汉撞飞",
+        "onboard_time": 1772637084,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48573,
+        "num": 29977,
+        "word": "美国为何非要搞垮伊朗",
+        "onboard_time": 1772643078,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29975,
+        "num": 29975,
+        "word": "微信转账1万没写借条同学不还钱了",
+        "onboard_time": 1772634985,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42642,
+        "num": 29907,
+        "word": "西班牙首相重申反战立场",
+        "onboard_time": 1772641161,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17311,
+        "num": 29535,
+        "word": "镖人",
+        "onboard_time": 1772624603,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39516,
+        "num": 29079,
+        "word": "伊朗展开高强度连环反击",
+        "onboard_time": 1772628925,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17174,
+        "num": 28683,
+        "word": "米兰时装周",
+        "onboard_time": 1772620884,
+        "rank": 28,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 25858,
+        "num": 28562,
+        "word": "哈梅内伊之子平安",
+        "onboard_time": 1772644098,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28334,
+        "num": 28334,
+        "word": "韩蛇蝎美人被确认为反社会人格",
+        "onboard_time": 1772632229,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25449,
+        "num": 28320,
+        "word": "建议将香港机场纳入国际航空体系",
+        "onboard_time": 1772634145,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16291,
+        "num": 28314,
+        "word": "彩礼设6万元上限治标更要治本",
+        "onboard_time": 1772646976,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16205,
+        "num": 28305,
+        "word": "63岁失独妈妈剖腹产生下健康女婴",
+        "onboard_time": 1772622625,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14647,
+        "num": 28283,
+        "word": "易烊千玺告眼镜公司侵权索赔50.5万",
+        "onboard_time": 1772635106,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14543,
+        "num": 28276,
+        "word": "TTG对战AG",
+        "onboard_time": 1772626525,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14472,
+        "num": 28250,
+        "word": "灿如繁星",
+        "onboard_time": 1772646076,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14335,
+        "num": 28236,
+        "word": "小狗做雾化不理解但很配合",
+        "onboard_time": 1772634145,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14177,
+        "num": 28221,
+        "word": "虞书欣林晚星报道",
+        "onboard_time": 1772642478,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12951,
+        "num": 28213,
+        "word": "晓兮小贝坦白局",
+        "onboard_time": 1772653994,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12686,
+        "num": 28197,
+        "word": "女员工手一抖摔破3000多元飞天茅台",
+        "onboard_time": 1772624603,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12649,
+        "num": 28181,
+        "word": "KPL春季赛",
+        "onboard_time": 1772619986,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12513,
+        "num": 28171,
+        "word": "宋平同志逝世",
+        "onboard_time": 1772622204,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12245,
+        "num": 28161,
+        "word": "MacBookNeo定价4599元起",
+        "onboard_time": 1772636544,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12227,
+        "num": 28137,
+        "word": "王嘉尔 TecatePalNorte",
+        "onboard_time": 1772646317,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12064,
+        "num": 28132,
+        "word": "给你宇宙",
+        "onboard_time": 1772637444,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11884,
+        "num": 28112,
+        "word": "英雄联盟全球先锋赛",
+        "onboard_time": 1772640023,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11848,
+        "num": 28094,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1772624725,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11613,
+        "num": 28075,
+        "word": "新豪华旗舰昊铂A800上市补贴后16.48万起",
+        "onboard_time": 1772633126,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 11313,
+        "num": 28061,
+        "word": "保时捷Taycan",
+        "onboard_time": 1772625863,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国政协十四届四次会议开幕#"
+    }
+  }
+}
