@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772664055241,
+  "endTime": 1772665140840,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -35,7 +35,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 683579,
+      "raw_hot": 701833,
       "num": 218750,
       "word": "伊朗沉没军舰已找到80具遗体",
       "onboard_time": 1772639602,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 266675,
-      "num": 469431,
+      "num": 584088,
       "word": "我使馆提醒近期避免前往日本",
       "onboard_time": 1772637803,
       "rank": 18,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148636,
+      "num": 420626,
+      "word": "人大代表反问微短剧爽完之后呢",
+      "onboard_time": 1772636544,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148578,
       "num": 219092,
       "word": "给你宇宙",
@@ -259,12 +267,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 112193,
-      "num": 333702,
-      "word": "人大代表反问微短剧爽完之后呢",
-      "onboard_time": 1772636544,
-      "rank": 32,
-      "category": "国内时政"
+      "raw_hot": 113573,
+      "num": 113573,
+      "word": "北京的雪真不小",
+      "onboard_time": 1772663536,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109604,
@@ -289,6 +297,14 @@
       "onboard_time": 1772643078,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100452,
+      "num": 218077,
+      "word": "谈到美国电网中国白发院士笑了",
+      "onboard_time": 1772628386,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100329,
@@ -323,12 +339,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 90792,
-      "num": 218077,
-      "word": "谈到美国电网中国白发院士笑了",
-      "onboard_time": 1772628386,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 76570,
+      "num": 76570,
+      "word": "周五晚高疯",
+      "onboard_time": 1772622865,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 67556,
@@ -345,14 +361,6 @@
       "onboard_time": 1772621483,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 65699,
-      "num": 52611,
-      "word": "周五晚高疯",
-      "onboard_time": 1772622865,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 64220,
@@ -377,6 +385,14 @@
       "onboard_time": 1772634145,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61413,
+      "num": 124553,
+      "word": "哈梅内伊之子平安",
+      "onboard_time": 1772644098,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60908,
@@ -411,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54640,
-      "num": 124553,
-      "word": "哈梅内伊之子平安",
-      "onboard_time": 1772644098,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 53944,
       "num": 217561,
       "word": "英雄联盟全球先锋赛",
@@ -433,14 +441,6 @@
       "onboard_time": 1772624725,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43850,
-      "num": 50017,
-      "word": "北京的雪真不小",
-      "onboard_time": 1772663536,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38790,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 34347,
-      "num": 53275,
+      "num": 67141,
       "word": "彩礼设6万元上限治标更要治本",
       "onboard_time": 1772646976,
       "rank": 32,
@@ -491,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28200,
+      "num": 67093,
+      "word": "刘宇宁拍照要帅动作要快",
+      "onboard_time": 1772663956,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25054,
       "num": 67459,
       "word": "灿如繁星",
@@ -507,8 +515,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 18906,
-      "num": 49628,
+      "raw_hot": 19528,
+      "num": 66840,
       "word": "米兰时装周",
       "onboard_time": 1772620884,
       "rank": 48,
@@ -523,12 +531,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14849,
-      "num": 49517,
+      "raw_hot": 16848,
+      "num": 66874,
       "word": "晓兮小贝坦白局",
       "onboard_time": 1772653994,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16678,
+      "num": 66854,
+      "word": "新豪华旗舰昊铂A800上市补贴后16.48万起",
+      "onboard_time": 1772633126,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 14737,
@@ -553,22 +569,6 @@
       "onboard_time": 1772631626,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14401,
-      "num": 49449,
-      "word": "刘宇宁拍照要帅动作要快",
-      "onboard_time": 1772663956,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 13029,
-      "num": 53230,
-      "word": "新豪华旗舰昊铂A800上市补贴后16.48万起",
-      "onboard_time": 1772633126,
-      "rank": 49,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
