@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/01 00:36:45 ~ 2026/03/05 01:47:24
+本榜单时间：2026/03/01 00:36:45 ~ 2026/03/05 02:05:03
 </p>
 </blockquote>
 <p>
@@ -5487,6 +5487,12 @@ naiyou蝎子出装（热度：103347）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E9%9D%9E%E8%A6%81%E6%90%9E%E5%9E%AE%E4%BC%8A%E6%9C%97%23" target="weibo">
+美国为何非要搞垮伊朗（热度：100810）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23DYG%E4%B8%BA%E9%92%8E%E5%9F%8E%E8%BE%9F%E8%B0%A3%23" target="weibo">
 DYG为钎城辟谣（热度：100677）
 </a>
@@ -6005,12 +6011,6 @@ AL对战iG（热度：90062）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%AF%B4%E8%B0%88%E5%88%A4%E4%B9%8B%E9%99%85%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BB%A4%E4%BA%BA%E9%9C%87%E6%83%8A%23" target="weibo">
 中方说谈判之际美以袭击令人震惊（热度：88139）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E7%AD%89%E6%B6%88%E5%8C%96%E7%B3%BB%E7%BB%9F%E8%82%BF%E7%98%A4%E5%91%88%E5%B9%B4%E8%BD%BB%E5%8C%96%E8%B6%8B%E5%8A%BF%23" target="weibo">
-胃癌等消化系统肿瘤呈年轻化趋势（热度：87977）
 </a>
 </li>
 
