@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772604398713,
+  "endTime": 1772607603572,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -80,6 +80,14 @@
       "word": "英法德三国联合声明",
       "onboard_time": 1772407520,
       "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 2475469,
+      "num": 233982,
+      "word": "中东局势彻底失控",
+      "onboard_time": 1772605223,
+      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -555,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 876586,
+      "num": 236552,
+      "word": "阿瑟又白干了",
+      "onboard_time": 1772603484,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 865560,
       "num": 849665,
       "word": "舅妈冒用去世母亲身份与舅舅结婚",
@@ -841,6 +857,14 @@
       "onboard_time": 1772438843,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 695435,
+      "num": 1111269,
+      "word": "建议居民身份证去地址化",
+      "onboard_time": 1772604143,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 692702,
@@ -1955,6 +1979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 387176,
+      "num": 232355,
+      "word": "方圆鼻子上的疤痕",
+      "onboard_time": 1772603604,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386920,
       "num": 336704,
       "word": "以军开始打击伊朗首都心脏地带",
@@ -2459,6 +2491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 319187,
+      "num": 232008,
+      "word": "全球股市全线暴跌",
+      "onboard_time": 1772603004,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 318891,
       "num": 230475,
       "word": "杨幂说女孩子要多吃berry",
@@ -2617,6 +2657,14 @@
       "onboard_time": 1772416943,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296109,
+      "num": 757409,
+      "word": "建议将农村养老金提升至500元每人每月",
+      "onboard_time": 1772603784,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 296070,
@@ -2803,6 +2851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 276159,
+      "num": 217834,
+      "word": "美军公布最新伤亡情况",
+      "onboard_time": 1772602765,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 275127,
       "num": 275127,
       "word": "方大同拍摄的时候没有封路",
@@ -2955,14 +3011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259892,
-      "num": 147888,
-      "word": "美军公布最新伤亡情况",
-      "onboard_time": 1772602765,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 259557,
       "num": 259557,
       "word": "杨天真 娱乐圈工作越来越无聊",
@@ -3057,14 +3105,6 @@
       "onboard_time": 1772518282,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249198,
-      "num": 236552,
-      "word": "阿瑟又白干了",
-      "onboard_time": 1772603484,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 249094,
@@ -3275,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233984,
+      "num": 233984,
+      "word": "一菲和诺澜在短剧二搭了",
+      "onboard_time": 1772604203,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233879,
       "num": 368986,
       "word": "大叔因太会种地在非洲被持枪保护",
@@ -3299,12 +3347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232355,
-      "num": 232355,
-      "word": "方圆鼻子上的疤痕",
-      "onboard_time": 1772603604,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 231449,
+      "num": 231449,
+      "word": "王天辰 就是很想亲",
+      "onboard_time": 1772606005,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 230801,
@@ -3321,6 +3369,14 @@
       "onboard_time": 1772543131,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229674,
+      "num": 229674,
+      "word": "这竟然是甄嬛传里的温宜公主",
+      "onboard_time": 1772603544,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228988,
@@ -3395,14 +3451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223992,
-      "num": 223992,
-      "word": "全球股市全线暴跌",
-      "onboard_time": 1772603004,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 223446,
       "num": 223446,
       "word": "日本动漫巨头封口性侵受害者",
@@ -3465,6 +3513,14 @@
       "onboard_time": 1772420963,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 220018,
+      "num": 220018,
+      "word": "徐璐自曝做了牙贴片",
+      "onboard_time": 1772604625,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 219372,
@@ -3585,6 +3641,14 @@
       "onboard_time": 1772367744,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208020,
+      "num": 233330,
+      "word": "大学生返校统一姿势",
+      "onboard_time": 1772605704,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 205965,
@@ -3731,14 +3795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195531,
-      "num": 195531,
-      "word": "这竟然是甄嬛传里的温宜公主",
-      "onboard_time": 1772603544,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 194910,
       "num": 194910,
       "word": "刘美含吐槽5家AI答案不一样",
@@ -3817,6 +3873,14 @@
       "onboard_time": 1772317997,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187860,
+      "num": 764495,
+      "word": "烤肉店辣椒水是干嘛的",
+      "onboard_time": 1772601084,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 187457,
@@ -3929,6 +3993,14 @@
       "onboard_time": 1772600425,
       "rank": 26,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 176548,
+      "num": 176548,
+      "word": "伊拉克被美以当成打伊朗的免费跳板",
+      "onboard_time": 1772605763,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 176046,
@@ -4233,14 +4305,6 @@
       "onboard_time": 1772349682,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162184,
-      "num": 764495,
-      "word": "烤肉店辣椒水是干嘛的",
-      "onboard_time": 1772601084,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 162002,
@@ -4803,6 +4867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144571,
+      "num": 144571,
+      "word": "王楚钦许昕互动",
+      "onboard_time": 1772606365,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144034,
       "num": 144034,
       "word": "蒋敦豪这个工作不接那就是别人接了",
@@ -4833,6 +4905,22 @@
       "onboard_time": 1772453784,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143196,
+      "num": 224374,
+      "word": "建议高考英语降为100分",
+      "onboard_time": 1772604084,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 143115,
+      "num": 143115,
+      "word": "伊朗宣布击中美军驱逐舰补给舰",
+      "onboard_time": 1772606783,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142852,
@@ -5427,6 +5515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121789,
+      "num": 121789,
+      "word": "李乃文 去法国排什么队",
+      "onboard_time": 1772604924,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121477,
       "num": 121477,
       "word": "Ruler决赛五杀",
@@ -5521,6 +5617,14 @@
       "onboard_time": 1772549851,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 119647,
+      "num": 119647,
+      "word": "第一场委员通道",
+      "onboard_time": 1772604203,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 119062,
@@ -6171,6 +6275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104123,
+      "num": 104123,
+      "word": "相亲市场还是太权威了",
+      "onboard_time": 1772605524,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103954,
       "num": 161068,
       "word": "迪拜家长安抚孩子外面是烟花",
@@ -6267,14 +6379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 102337,
-      "num": 102337,
-      "word": "建议居民身份证去地址化",
-      "onboard_time": 1772604143,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 101865,
       "num": 184021,
       "word": "小米超跑好帅",
@@ -6289,6 +6393,14 @@
       "onboard_time": 1772448205,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101591,
+      "num": 101591,
+      "word": "惠英红 最灵验的庙宇是我的血肉",
+      "onboard_time": 1772604744,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 101477,
@@ -6371,6 +6483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100677,
+      "num": 100677,
+      "word": "DYG为钎城辟谣",
+      "onboard_time": 1772606603,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100522,
       "num": 116261,
       "word": "河南暴雪局地积雪将达10厘米",
@@ -6408,6 +6528,14 @@
       "word": "中国男篮100分",
       "onboard_time": 1772359643,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100059,
+      "num": 100059,
+      "word": "湖人四杀鹈鹕",
+      "onboard_time": 1772606843,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -6531,6 +6659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96582,
+      "num": 96582,
+      "word": "叠纸心意祁煜香水",
+      "onboard_time": 1772607024,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96235,
       "num": 96235,
       "word": "猫生第一次洗澡",
@@ -6595,6 +6731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94698,
+      "num": 94698,
+      "word": "人大发布会回应伊朗局势",
+      "onboard_time": 1772607204,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94606,
       "num": 211930,
       "word": "王楚然完全老公姐",
@@ -6627,20 +6771,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94055,
+      "num": 119828,
+      "word": "胖东来1月为2员工发放1.5万委屈奖",
+      "onboard_time": 1772606545,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93519,
       "num": 93519,
       "word": "莫雷加德世排升至第二",
       "onboard_time": 1772355863,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93367,
-      "num": 93367,
-      "word": "一菲和诺澜在短剧二搭了",
-      "onboard_time": 1772604203,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 93322,
@@ -7475,14 +7619,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 73526,
-      "num": 757409,
-      "word": "建议将农村养老金提升至500元每人每月",
-      "onboard_time": 1772603784,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 73360,
       "num": 134009,
       "word": "TOP专辑秒切",
@@ -7825,14 +7961,6 @@
       "onboard_time": 1772509107,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65163,
-      "num": 224374,
-      "word": "建议高考英语降为100分",
-      "onboard_time": 1772604084,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 64712,
@@ -8308,7 +8436,7 @@
     },
     {
       "raw_hot": 47323,
-      "num": 126068,
+      "num": 219766,
       "word": "晒出属于你的光",
       "onboard_time": 1772604264,
       "rank": 32,
@@ -8340,7 +8468,7 @@
     },
     {
       "raw_hot": 47078,
-      "num": 111791,
+      "num": 154983,
       "word": "护肤界黑马PDRN迎来新突破",
       "onboard_time": 1772604264,
       "rank": 36,
@@ -8667,6 +8795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38064,
+      "num": 120519,
+      "word": "女明星的美貌 国人的骄傲",
+      "onboard_time": 1772607145,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37948,
       "num": 579361,
       "word": "中方呼吁立即停止军事行动",
@@ -8931,6 +9067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27608,
+      "num": 219361,
+      "word": "建议建立母亲养老金制度",
+      "onboard_time": 1772607266,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26170,
       "num": 416434,
       "word": "双胞胎哥哥失踪35年后元宵节团圆",
@@ -9073,6 +9217,14 @@
       "onboard_time": 1772494220,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 21543,
+      "num": 219017,
+      "word": "蒋胜男呼吁强化精神病院公益属性",
+      "onboard_time": 1772606484,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21249,
