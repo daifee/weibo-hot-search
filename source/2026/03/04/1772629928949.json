@@ -1,0 +1,410 @@
+{
+  "runTime": 1772629928949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1171220,
+        "num": 1187395,
+        "word": "建议废除劳务派遣制度",
+        "onboard_time": 1772623644,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 533743,
+        "num": 842382,
+        "word": "纯真年代的爱情大结局",
+        "onboard_time": 1772624543,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21980,
+        "num": 702946,
+        "word": "十四届全国人大四次会议议程",
+        "onboard_time": 1772594905,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 369734,
+        "num": 369734,
+        "word": "宋平同志逝世",
+        "onboard_time": 1772622204,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 362393,
+        "num": 362393,
+        "word": "IF椰子水严正声明",
+        "onboard_time": 1772618365,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462540,
+        "num": 344410,
+        "word": "伊朗军舰遭袭101人失踪78人伤",
+        "onboard_time": 1772619684,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270861,
+        "num": 270861,
+        "word": "热水器不能一开一关",
+        "onboard_time": 1772614044,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 19444,
+        "num": 267222,
+        "word": "促进民营经济发展不能变不会变",
+        "onboard_time": 1772614225,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263951,
+        "num": 263951,
+        "word": "委员建议00后不要进入加班文化",
+        "onboard_time": 1772614644,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196586,
+        "num": 196586,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1772624725,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2178328,
+        "num": 194105,
+        "word": "中东局势彻底失控",
+        "onboard_time": 1772605223,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 638172,
+        "num": 191782,
+        "word": "女员工手一抖摔破3000多元飞天茅台",
+        "onboard_time": 1772624603,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503208,
+        "num": 188877,
+        "word": "63岁失独妈妈剖腹产生下健康女婴",
+        "onboard_time": 1772622625,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168703,
+        "num": 168703,
+        "word": "建议对性侵未成年出狱者电子定位",
+        "onboard_time": 1772625143,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163413,
+        "num": 163413,
+        "word": "剑来",
+        "onboard_time": 1772623105,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161177,
+        "num": 161177,
+        "word": "TTG对战AG",
+        "onboard_time": 1772626525,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155749,
+        "num": 155749,
+        "word": "对方撤回了5条QQ消息",
+        "onboard_time": 1772620523,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150204,
+        "num": 150204,
+        "word": "镖人",
+        "onboard_time": 1772624603,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149968,
+        "num": 149968,
+        "word": "委员建议每天下班后投入地玩半小时",
+        "onboard_time": 1772619503,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33603,
+        "num": 149944,
+        "word": "预防HPV比你想的更简单",
+        "onboard_time": 1772629526,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 6683227,
+        "num": 6683227,
+        "word": "迪丽热巴报平安",
+        "onboard_time": 1772627666,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300638,
+        "num": 149777,
+        "word": "伊朗确定最高领袖候选人",
+        "onboard_time": 1772619085,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157195,
+        "num": 149749,
+        "word": "1克拉钻石价格已经1000多了",
+        "onboard_time": 1772621483,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165184,
+        "num": 149666,
+        "word": "伊朗展开高强度连环反击",
+        "onboard_time": 1772628925,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143145,
+        "num": 149584,
+        "word": "00后去芒果都是大前辈了",
+        "onboard_time": 1772625684,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162019,
+        "num": 149517,
+        "word": "伊朗局势最新情况",
+        "onboard_time": 1772614944,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135170,
+        "num": 149442,
+        "word": "穆祉丞直播",
+        "onboard_time": 1772623164,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129934,
+        "num": 149330,
+        "word": "昊铂A800创史上最高最长雪地跳台极限爬坡纪录",
+        "onboard_time": 1772629470,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 305677,
+        "num": 149311,
+        "word": "美国防部公布死亡名单",
+        "onboard_time": 1772622323,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126329,
+        "num": 149211,
+        "word": "王励勤回应樊振东归队问题",
+        "onboard_time": 1772611406,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333036,
+        "num": 149129,
+        "word": "弟弟你的相貌很容易让人轻敌啊",
+        "onboard_time": 1772628386,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179081,
+        "num": 149087,
+        "word": "谈到美国电网中国白发院士笑了",
+        "onboard_time": 1772628386,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149041,
+        "num": 149041,
+        "word": "伊朗的导弹能用多久",
+        "onboard_time": 1772612963,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127736,
+        "num": 149032,
+        "word": "建议鼓励大学生加入家政行业",
+        "onboard_time": 1772627606,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122891,
+        "num": 149008,
+        "word": "妈妈离世女儿懵懂追问为何手凉",
+        "onboard_time": 1772627606,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120805,
+        "num": 148952,
+        "word": "网传杨超越十日终焉女主",
+        "onboard_time": 1772619864,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112339,
+        "num": 148942,
+        "word": "伊朗已发动17轮针对美以的打击",
+        "onboard_time": 1772628505,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103240,
+        "num": 148886,
+        "word": "太爷爷摔倒1岁宝宝连滚带爬去扶",
+        "onboard_time": 1772619444,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102400,
+        "num": 148876,
+        "word": "中国驻日大使馆再发提醒",
+        "onboard_time": 1772628084,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95077,
+        "num": 148838,
+        "word": "2026短道速滑世锦赛中国队名单",
+        "onboard_time": 1772629166,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90020,
+        "num": 148803,
+        "word": "凭微信转账记录起诉同学还钱被驳回",
+        "onboard_time": 1772627606,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87848,
+        "num": 148769,
+        "word": "王楚然大方介绍自己来自中国",
+        "onboard_time": 1772614463,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86605,
+        "num": 148731,
+        "word": "牛奶再放个把月就能喝了",
+        "onboard_time": 1772612963,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76137,
+        "num": 148698,
+        "word": "狗子因天生短一截身型独特走红",
+        "onboard_time": 1772624603,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75523,
+        "num": 148670,
+        "word": "建议推广农村不超过2万彩礼",
+        "onboard_time": 1772611225,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73336,
+        "num": 148632,
+        "word": "每天早上床头少了一只小猫",
+        "onboard_time": 1772623044,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73241,
+        "num": 148620,
+        "word": "建议居民身份证去地址化",
+        "onboard_time": 1772604143,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72586,
+        "num": 148579,
+        "word": "十日终焉没女主",
+        "onboard_time": 1772629403,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67640,
+        "num": 148552,
+        "word": "两会",
+        "onboard_time": 1772586506,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67522,
+        "num": 148515,
+        "word": "保时捷Taycan",
+        "onboard_time": 1772625863,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#重磅纪录片历史不会辜负实干者#"
+    }
+  }
+}
