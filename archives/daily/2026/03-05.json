@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772643464118,
+  "endTime": 1772644174430,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -75,7 +75,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274492,
+      "raw_hot": 278817,
       "num": 148567,
       "word": "王鹤棣紫衣少年谢景行",
       "onboard_time": 1772641821,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175818,
+      "num": 217669,
+      "word": "车停半个月被老鼠囤了20斤粮食",
+      "onboard_time": 1772638643,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174545,
       "num": 219607,
       "word": "IF椰子水严正声明",
@@ -217,14 +225,6 @@
       "onboard_time": 1772628386,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122182,
-      "num": 217669,
-      "word": "车停半个月被老鼠囤了20斤粮食",
-      "onboard_time": 1772638643,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116960,
@@ -395,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54640,
+      "num": 124553,
+      "word": "哈梅内伊之子平安",
+      "onboard_time": 1772644098,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53944,
       "num": 217561,
       "word": "英雄联盟全球先锋赛",
       "onboard_time": 1772640023,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 52754,
+      "num": 148460,
+      "word": "美国为何非要搞垮伊朗",
+      "onboard_time": 1772643078,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50608,
@@ -411,12 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38041,
-      "num": 148460,
-      "word": "美国为何非要搞垮伊朗",
-      "onboard_time": 1772643078,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 38790,
+      "num": 123904,
+      "word": "镖人",
+      "onboard_time": 1772624603,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 37668,
