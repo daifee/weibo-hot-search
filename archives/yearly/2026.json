@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772708845066,
+  "endTime": 1772710914701,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1891,6 +1891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1726851,
+      "num": 641939,
+      "word": "春假清明连休6天家长称很无奈",
+      "onboard_time": 1772708844,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1725086,
       "num": 212508,
       "word": "程序员猝死当天5次访问公司OA系统",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1771484899,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1538187,
-      "num": 605330,
-      "word": "圣杯八次不中概率",
-      "onboard_time": 1771655898,
-      "rank": 5,
-      "category": "情感"
     }
   ],
   "hotgov_list": [

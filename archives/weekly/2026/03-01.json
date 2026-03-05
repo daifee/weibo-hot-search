@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772708845066,
+  "endTime": 1772710914701,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -169,6 +169,14 @@
       "onboard_time": 1772425042,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1726851,
+      "num": 641939,
+      "word": "春假清明连休6天家长称很无奈",
+      "onboard_time": 1772708844,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1718479,
@@ -611,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 949835,
+      "num": 630092,
+      "word": "伊朗报复美以",
+      "onboard_time": 1772707102,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 948901,
       "num": 596405,
       "word": "秦岚嗓子哑了三年",
@@ -713,6 +729,14 @@
       "onboard_time": 1772523328,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 859441,
+      "num": 1137510,
+      "word": "建议短视频凌晨1点至5点深夜静默",
+      "onboard_time": 1772707284,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 855374,
@@ -1291,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 629433,
+      "num": 629433,
+      "word": "攻玉主演 侯明昊鹤男",
+      "onboard_time": 1772706502,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 628091,
       "num": 396299,
       "word": "伊朗军舰遭袭101人失踪78人伤",
@@ -1699,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 533447,
-      "num": 533447,
-      "word": "攻玉主演 侯明昊鹤男",
-      "onboard_time": 1772706502,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 529982,
       "num": 348933,
       "word": "赖伟明学范丞丞的手势舞 照抄广告",
@@ -1953,14 +1977,6 @@
       "onboard_time": 1772586806,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 477076,
-      "num": 814484,
-      "word": "建议短视频凌晨1点至5点深夜静默",
-      "onboard_time": 1772707284,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 473446,
@@ -3164,7 +3180,7 @@
     },
     {
       "raw_hot": 316779,
-      "num": 316467,
+      "num": 400697,
       "word": "猫 讨厌和瘦子拍照",
       "onboard_time": 1772700682,
       "rank": 38,
@@ -3356,7 +3372,7 @@
     },
     {
       "raw_hot": 299807,
-      "num": 626743,
+      "num": 630178,
       "word": "建议医务人员薪酬不得与创收挂钩",
       "onboard_time": 1772701402,
       "rank": 19,
@@ -3401,14 +3417,6 @@
       "onboard_time": 1772539710,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 295185,
-      "num": 194966,
-      "word": "伊朗报复美以",
-      "onboard_time": 1772707102,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 295153,
@@ -3635,6 +3643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278154,
+      "num": 278154,
+      "word": "薛之谦万兽之王巡回演唱会",
+      "onboard_time": 1772708062,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 277523,
       "num": 277523,
       "word": "姐姐姐夫终于说开了",
@@ -3713,14 +3729,6 @@
       "onboard_time": 1772355743,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 271075,
-      "num": 271075,
-      "word": "薛之谦万兽之王巡回演唱会",
-      "onboard_time": 1772708062,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 269893,
@@ -4049,6 +4057,14 @@
       "onboard_time": 1772474356,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 244321,
+      "num": 244321,
+      "word": "现在就出发4",
+      "onboard_time": 1772709863,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 244221,
@@ -4675,6 +4691,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 205174,
+      "num": 205174,
+      "word": "肖战十日终焉这两天定妆了",
+      "onboard_time": 1772709742,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204979,
       "num": 218727,
       "word": "中国游客在日本目睹老太被壮汉撞飞",
@@ -4737,6 +4761,14 @@
       "onboard_time": 1772611763,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200508,
+      "num": 200508,
+      "word": "朴元彬 YSL",
+      "onboard_time": 1772709444,
+      "rank": 20,
+      "category": "时尚"
     },
     {
       "raw_hot": 200082,
@@ -6699,12 +6731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130582,
+      "num": 130582,
+      "word": "王俊凯拍自己无所谓 拍自担必须帅",
+      "onboard_time": 1772708062,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130516,
       "num": 130516,
       "word": "M4芯片款iPadAir发布",
       "onboard_time": 1772462186,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 130497,
+      "num": 396061,
+      "word": "京东2025年收入13091亿",
+      "onboard_time": 1772709623,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 130439,
@@ -6905,6 +6953,14 @@
       "onboard_time": 1772413824,
       "rank": 41,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 124528,
+      "num": 114846,
+      "word": "花84万买到的140平步梯顶楼",
+      "onboard_time": 1772706682,
+      "rank": 44,
+      "category": "休闲"
     },
     {
       "raw_hot": 124389,
@@ -8115,14 +8171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102919,
-      "num": 102919,
-      "word": "王俊凯拍自己无所谓 拍自担必须帅",
-      "onboard_time": 1772708062,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102777,
       "num": 102777,
       "word": "广州深圳出发机票暴跌超80%",
@@ -8169,6 +8217,14 @@
       "onboard_time": 1772702483,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101912,
+      "num": 101912,
+      "word": "莲花CEO戴摄像头讽刺车顶激光雷达",
+      "onboard_time": 1772709863,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 101865,
@@ -8771,6 +8827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 93164,
+      "num": 93164,
+      "word": "大侦探NPC颜值",
+      "onboard_time": 1772710223,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93058,
       "num": 255227,
       "word": "张凌赫田曦薇cp超话人数",
@@ -8865,14 +8929,6 @@
       "onboard_time": 1772623044,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92018,
-      "num": 92018,
-      "word": "花84万买到的140平步梯顶楼",
-      "onboard_time": 1772706682,
-      "rank": 44,
-      "category": "休闲"
     },
     {
       "raw_hot": 92002,
@@ -9017,6 +9073,14 @@
       "onboard_time": 1772614764,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90357,
+      "num": 90357,
+      "word": "宋亚轩 内娱窝囊系爱豆",
+      "onboard_time": 1772707882,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 90263,
@@ -9219,14 +9283,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 86444,
-      "num": 86444,
-      "word": "宋亚轩 内娱窝囊系爱豆",
-      "onboard_time": 1772707882,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86376,
       "num": 255259,
       "word": "小米Tag追踪器售价69元起",
@@ -9265,6 +9321,14 @@
       "onboard_time": 1772346803,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85843,
+      "num": 85843,
+      "word": "京东2025年净利润270亿",
+      "onboard_time": 1772709863,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 85837,
@@ -9369,6 +9433,14 @@
       "onboard_time": 1772608285,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 83817,
+      "num": 83817,
+      "word": "开学第一周我的胃belike",
+      "onboard_time": 1772710403,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 83548,
@@ -10011,6 +10083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74606,
+      "num": 81694,
+      "word": "命运戏弄大馋猫",
+      "onboard_time": 1772710882,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74531,
       "num": 308226,
       "word": "岳父婚礼现场返还彩礼后续",
@@ -10025,6 +10105,22 @@
       "onboard_time": 1772523148,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 74401,
+      "num": 205561,
+      "word": "景区妇女节穿汉服旗袍才免费已整改",
+      "onboard_time": 1772708423,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74304,
+      "num": 81542,
+      "word": "鹤男",
+      "onboard_time": 1772709504,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 74260,
@@ -11019,6 +11115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 53234,
+      "num": 200611,
+      "word": "国家的钱准备怎么花",
+      "onboard_time": 1772710042,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53109,
       "num": 582159,
       "word": "以为李柯以是跨界结果是老本行",
@@ -11715,6 +11819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36982,
+      "num": 85917,
+      "word": "人大代表教年轻人缓解焦虑",
+      "onboard_time": 1772710822,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36332,
       "num": 349974,
       "word": "应对人工智能对就业影响",
@@ -12051,6 +12163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27165,
+      "num": 81441,
+      "word": "建议将闲置校舍改造为农村养老院",
+      "onboard_time": 1772709623,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26170,
       "num": 416434,
       "word": "双胞胎哥哥失踪35年后元宵节团圆",
@@ -12193,14 +12313,6 @@
       "onboard_time": 1772301258,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22749,
-      "num": 205561,
-      "word": "景区妇女节穿汉服旗袍才免费已整改",
-      "onboard_time": 1772708423,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22658,

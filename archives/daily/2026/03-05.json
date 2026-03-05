@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772708845066,
+  "endTime": 1772710914701,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -9,6 +9,14 @@
       "onboard_time": 1772627666,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1726851,
+      "num": 641939,
+      "word": "春假清明连休6天家长称很无奈",
+      "onboard_time": 1772708844,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1573589,
@@ -67,12 +75,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 949835,
+      "num": 630092,
+      "word": "伊朗报复美以",
+      "onboard_time": 1772707102,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 868815,
       "num": 1139010,
       "word": "翻拍重案六组",
       "onboard_time": 1772699003,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 859441,
+      "num": 1137510,
+      "word": "建议短视频凌晨1点至5点深夜静默",
+      "onboard_time": 1772707284,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 853944,
@@ -171,20 +195,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 629433,
+      "num": 629433,
+      "word": "攻玉主演 侯明昊鹤男",
+      "onboard_time": 1772706502,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 611066,
       "num": 482971,
       "word": "女子花20万住酒店3年遭员工吐槽",
       "onboard_time": 1772666360,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 533447,
-      "num": 533447,
-      "word": "攻玉主演 侯明昊鹤男",
-      "onboard_time": 1772706502,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 526761,
@@ -240,14 +264,6 @@
       "word": "中方将派特使访问中东",
       "onboard_time": 1772696482,
       "rank": 28,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 477076,
-      "num": 814484,
-      "word": "建议短视频凌晨1点至5点深夜静默",
-      "onboard_time": 1772707284,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 316779,
-      "num": 316467,
+      "num": 400697,
       "word": "猫 讨厌和瘦子拍照",
       "onboard_time": 1772700682,
       "rank": 38,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 299807,
-      "num": 626743,
+      "num": 630178,
       "word": "建议医务人员薪酬不得与创收挂钩",
       "onboard_time": 1772701402,
       "rank": 19,
@@ -457,14 +473,6 @@
       "onboard_time": 1772690243,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295185,
-      "num": 194966,
-      "word": "伊朗报复美以",
-      "onboard_time": 1772707102,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 291219,
@@ -499,8 +507,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271075,
-      "num": 271075,
+      "raw_hot": 278154,
+      "num": 278154,
       "word": "薛之谦万兽之王巡回演唱会",
       "onboard_time": 1772708062,
       "rank": 16,
@@ -561,6 +569,14 @@
       "onboard_time": 1772697442,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 244321,
+      "num": 244321,
+      "word": "现在就出发4",
+      "onboard_time": 1772709863,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 242830,
@@ -683,6 +699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205174,
+      "num": 205174,
+      "word": "肖战十日终焉这两天定妆了",
+      "onboard_time": 1772709742,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204979,
       "num": 218727,
       "word": "中国游客在日本目睹老太被壮汉撞飞",
@@ -721,6 +745,14 @@
       "onboard_time": 1772703023,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200508,
+      "num": 200508,
+      "word": "朴元彬 YSL",
+      "onboard_time": 1772709444,
+      "rank": 20,
+      "category": "时尚"
     },
     {
       "raw_hot": 199702,
@@ -1043,6 +1075,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130582,
+      "num": 130582,
+      "word": "王俊凯拍自己无所谓 拍自担必须帅",
+      "onboard_time": 1772708062,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130497,
+      "num": 396061,
+      "word": "京东2025年收入13091亿",
+      "onboard_time": 1772709623,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130013,
       "num": 130013,
       "word": "岳雨婷时装周出片质量",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1772690122,
       "rank": 27,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 124528,
+      "num": 114846,
+      "word": "花84万买到的140平步梯顶楼",
+      "onboard_time": 1772706682,
+      "rank": 44,
+      "category": "休闲"
     },
     {
       "raw_hot": 123976,
@@ -1275,14 +1331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102919,
-      "num": 102919,
-      "word": "王俊凯拍自己无所谓 拍自担必须帅",
-      "onboard_time": 1772708062,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102581,
       "num": 102581,
       "word": "日本火箭在记者赞美声中发射失败",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1772702483,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101912,
+      "num": 101912,
+      "word": "莲花CEO戴摄像头讽刺车顶激光雷达",
+      "onboard_time": 1772709863,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 100579,
@@ -1443,20 +1499,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 93164,
+      "num": 93164,
+      "word": "大侦探NPC颜值",
+      "onboard_time": 1772710223,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92776,
       "num": 747659,
       "word": "中国2025成绩单",
       "onboard_time": 1772681482,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 92018,
-      "num": 92018,
-      "word": "花84万买到的140平步梯顶楼",
-      "onboard_time": 1772706682,
-      "rank": 44,
-      "category": "休闲"
     },
     {
       "raw_hot": 91759,
@@ -1491,6 +1547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 90357,
+      "num": 90357,
+      "word": "宋亚轩 内娱窝囊系爱豆",
+      "onboard_time": 1772707882,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89077,
       "num": 89077,
       "word": "伊朗表示无意与美谈判",
@@ -1523,12 +1587,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86444,
-      "num": 86444,
-      "word": "宋亚轩 内娱窝囊系爱豆",
-      "onboard_time": 1772707882,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 85843,
+      "num": 85843,
+      "word": "京东2025年净利润270亿",
+      "onboard_time": 1772709863,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 85837,
@@ -1569,6 +1633,14 @@
       "onboard_time": 1772636544,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 83817,
+      "num": 83817,
+      "word": "开学第一周我的胃belike",
+      "onboard_time": 1772710403,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 83387,
@@ -1745,6 +1817,30 @@
       "onboard_time": 1772708002,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74606,
+      "num": 81694,
+      "word": "命运戏弄大馋猫",
+      "onboard_time": 1772710882,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74401,
+      "num": 205561,
+      "word": "景区妇女节穿汉服旗袍才免费已整改",
+      "onboard_time": 1772708423,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74304,
+      "num": 81542,
+      "word": "鹤男",
+      "onboard_time": 1772709504,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 74021,
@@ -2003,6 +2099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 53234,
+      "num": 200611,
+      "word": "国家的钱准备怎么花",
+      "onboard_time": 1772710042,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52887,
       "num": 101709,
       "word": "起亚新狮铂拓界",
@@ -2097,6 +2201,14 @@
       "onboard_time": 1772640321,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36982,
+      "num": 85917,
+      "word": "人大代表教年轻人缓解焦虑",
+      "onboard_time": 1772710822,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36332,
@@ -2195,6 +2307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27165,
+      "num": 81441,
+      "word": "建议将闲置校舍改造为农村养老院",
+      "onboard_time": 1772709623,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26084,
       "num": 549288,
       "word": "政府工作报告有二维码",
@@ -2217,14 +2337,6 @@
       "onboard_time": 1772704223,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22749,
-      "num": 205561,
-      "word": "景区妇女节穿汉服旗袍才免费已整改",
-      "onboard_time": 1772708423,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21710,

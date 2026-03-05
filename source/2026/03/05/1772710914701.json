@@ -1,0 +1,410 @@
+{
+  "runTime": 1772710914701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 859441,
+        "num": 1137510,
+        "word": "建议短视频凌晨1点至5点深夜静默",
+        "onboard_time": 1772707284,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391554,
+        "num": 846933,
+        "word": "建议不调休的代表被记者围住了",
+        "onboard_time": 1772698584,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38565,
+        "num": 643033,
+        "word": "政府工作报告里的民生红包",
+        "onboard_time": 1772699421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1726851,
+        "num": 641939,
+        "word": "春假清明连休6天家长称很无奈",
+        "onboard_time": 1772708844,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192293,
+        "num": 630178,
+        "word": "建议医务人员薪酬不得与创收挂钩",
+        "onboard_time": 1772701402,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 949835,
+        "num": 630092,
+        "word": "伊朗报复美以",
+        "onboard_time": 1772707102,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 629433,
+        "num": 629433,
+        "word": "攻玉主演 侯明昊鹤男",
+        "onboard_time": 1772706502,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427098,
+        "num": 427098,
+        "word": "纯真年代的爱情 烂尾",
+        "onboard_time": 1772702242,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135250,
+        "num": 400697,
+        "word": "猫 讨厌和瘦子拍照",
+        "onboard_time": 1772700682,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130497,
+        "num": 396061,
+        "word": "京东2025年收入13091亿",
+        "onboard_time": 1772709623,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 392725,
+        "num": 392725,
+        "word": "高铁一等座4元二等座8元",
+        "onboard_time": 1772698822,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374579,
+        "num": 374579,
+        "word": "现在就出发",
+        "onboard_time": 1772704462,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325973,
+        "num": 325973,
+        "word": "比Deepfake更严重的AI出现了",
+        "onboard_time": 1772702542,
+        "rank": 12,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 295458,
+        "num": 295458,
+        "word": "伊朗首次使用最快自杀式无人机",
+        "onboard_time": 1772686702,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 278154,
+        "num": 278154,
+        "word": "薛之谦万兽之王巡回演唱会",
+        "onboard_time": 1772708062,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 244321,
+        "num": 244321,
+        "word": "现在就出发4",
+        "onboard_time": 1772709863,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210078,
+        "num": 210078,
+        "word": "租房能不能别再开广角拍房子",
+        "onboard_time": 1772702843,
+        "rank": 16,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 205174,
+        "num": 205174,
+        "word": "肖战十日终焉这两天定妆了",
+        "onboard_time": 1772709742,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147965,
+        "num": 201538,
+        "word": "本以为一次煎7条鱼就够吹牛了",
+        "onboard_time": 1772701943,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 53234,
+        "num": 200611,
+        "word": "国家的钱准备怎么花",
+        "onboard_time": 1772710042,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200508,
+        "num": 200508,
+        "word": "朴元彬 YSL",
+        "onboard_time": 1772709444,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 183629,
+        "num": 183629,
+        "word": "伊拉克全境断电",
+        "onboard_time": 1772702542,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141000,
+        "num": 141000,
+        "word": "薛之谦万兽之王长沙站开启预售",
+        "onboard_time": 1772707702,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134078,
+        "num": 134078,
+        "word": "日本正紧张研判是否支援美军",
+        "onboard_time": 1772697442,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130582,
+        "num": 130582,
+        "word": "王俊凯拍自己无所谓 拍自担必须帅",
+        "onboard_time": 1772708062,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126385,
+        "num": 126385,
+        "word": "种地吧",
+        "onboard_time": 1772707523,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115252,
+        "num": 125172,
+        "word": "WBG对战AL",
+        "onboard_time": 1772705361,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124965,
+        "num": 124965,
+        "word": "少夫人来自东北",
+        "onboard_time": 1772704403,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120337,
+        "num": 120337,
+        "word": "王天辰侯雯元 莞莞类卿",
+        "onboard_time": 1772705482,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115083,
+        "num": 115083,
+        "word": "斗罗大陆小舞",
+        "onboard_time": 1772703442,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124528,
+        "num": 114846,
+        "word": "花84万买到的140平步梯顶楼",
+        "onboard_time": 1772706682,
+        "rank": 30,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 110806,
+        "num": 110806,
+        "word": "建议优化大学生婚育教育体系",
+        "onboard_time": 1772697025,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110370,
+        "num": 110370,
+        "word": "张杰鸟巢演唱会12万张票秒罄",
+        "onboard_time": 1772696242,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109816,
+        "num": 109816,
+        "word": "斯里兰卡称力保另一伊朗军舰安全",
+        "onboard_time": 1772703023,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107103,
+        "num": 107103,
+        "word": "洗头公式",
+        "onboard_time": 1772704403,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 101912,
+        "num": 101912,
+        "word": "莲花CEO戴摄像头讽刺车顶激光雷达",
+        "onboard_time": 1772709863,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 93164,
+        "num": 93164,
+        "word": "大侦探NPC颜值",
+        "onboard_time": 1772710223,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90357,
+        "num": 90357,
+        "word": "宋亚轩 内娱窝囊系爱豆",
+        "onboard_time": 1772707882,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86326,
+        "num": 86326,
+        "word": "刘国梁谈奥运备战",
+        "onboard_time": 1772706502,
+        "rank": 38,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 36982,
+        "num": 85917,
+        "word": "人大代表教年轻人缓解焦虑",
+        "onboard_time": 1772710822,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85843,
+        "num": 85843,
+        "word": "京东2025年净利润270亿",
+        "onboard_time": 1772709863,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85450,
+        "num": 85450,
+        "word": "唐嫣穿得像个灯笼就出来了",
+        "onboard_time": 1772705002,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83817,
+        "num": 83817,
+        "word": "开学第一周我的胃belike",
+        "onboard_time": 1772710403,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81955,
+        "num": 81955,
+        "word": "我国就业形势有两大不匹配现象",
+        "onboard_time": 1772701883,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79207,
+        "num": 81854,
+        "word": "中方将派特使访问中东",
+        "onboard_time": 1772696482,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74823,
+        "num": 81815,
+        "word": "广西整个四月都在上四休三",
+        "onboard_time": 1772699903,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74606,
+        "num": 81694,
+        "word": "命运戏弄大馋猫",
+        "onboard_time": 1772710882,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74401,
+        "num": 81575,
+        "word": "景区妇女节穿汉服旗袍才免费已整改",
+        "onboard_time": 1772708423,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74304,
+        "num": 81542,
+        "word": "鹤男",
+        "onboard_time": 1772709504,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27165,
+        "num": 81441,
+        "word": "建议将闲置校舍改造为农村养老院",
+        "onboard_time": 1772709623,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
