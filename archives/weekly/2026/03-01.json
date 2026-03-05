@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772740661542,
+  "endTime": 1772743629947,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -12907,6 +12907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22938,
+      "num": 76186,
+      "word": "艺考严选 宫里又来新人了",
+      "onboard_time": 1772738294,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22658,
       "num": 41288,
       "word": "今天元宵节",
@@ -13137,14 +13145,6 @@
       "onboard_time": 1772431821,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16980,
-      "num": 76186,
-      "word": "艺考严选 宫里又来新人了",
-      "onboard_time": 1772738294,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 16848,
