@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772753843867,
+  "endTime": 1772755071760,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 1093502,
-      "num": 458996,
+      "num": 572180,
       "word": "伊朗称成功突破以色列七层防御",
       "onboard_time": 1772718143,
       "rank": 5,
@@ -921,6 +921,14 @@
       "onboard_time": 1772450786,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 785654,
+      "num": 575062,
+      "word": "曝现在就出发4沈腾白敬亭带队",
+      "onboard_time": 1772752819,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 781973,
@@ -1699,6 +1707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 562460,
+      "num": 562460,
+      "word": "美国国土安全部部长被解职",
+      "onboard_time": 1772753721,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 561180,
       "num": 812682,
       "word": "WiFi 穿墙透视",
@@ -1921,14 +1937,6 @@
       "onboard_time": 1772452166,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 504409,
-      "num": 378299,
-      "word": "曝现在就出发4沈腾白敬亭带队",
-      "onboard_time": 1772752819,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 503208,
@@ -2169,6 +2177,14 @@
       "onboard_time": 1772501727,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 450679,
+      "num": 450679,
+      "word": "美国与委内瑞拉同意恢复外交关系",
+      "onboard_time": 1772753779,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 447635,
@@ -3459,6 +3475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 305376,
+      "num": 1024016,
+      "word": "香港没有调休",
+      "onboard_time": 1772720004,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 303362,
       "num": 389889,
       "word": "微信转账1万没写借条同学不还钱了",
@@ -3528,6 +3552,14 @@
       "word": "美以袭击致伊朗201人死747人伤",
       "onboard_time": 1772331089,
       "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 295848,
+      "num": 111663,
+      "word": "伊朗称其无人机袭击林肯号航母",
+      "onboard_time": 1772752880,
+      "rank": 21,
       "category": "国际时政"
     },
     {
@@ -3819,20 +3851,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 274269,
-      "num": 844883,
-      "word": "香港没有调休",
-      "onboard_time": 1772720004,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 274103,
       "num": 608806,
       "word": "纯真年代的爱情",
       "onboard_time": 1772279242,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274101,
+      "num": 274101,
+      "word": "曝姜妍补位现在就出发4",
+      "onboard_time": 1772753300,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 273071,
@@ -3889,6 +3921,14 @@
       "onboard_time": 1772704403,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269033,
+      "num": 269033,
+      "word": "武林外传小米演员已经坚持施粥5年",
+      "onboard_time": 1772753118,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 266326,
@@ -4123,6 +4163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251237,
+      "num": 110351,
+      "word": "高速收费员因帅得人山人海火了",
+      "onboard_time": 1772753240,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251039,
       "num": 611296,
       "word": "WBG对战AL",
@@ -4281,14 +4329,6 @@
       "onboard_time": 1772335884,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 238352,
-      "num": 106124,
-      "word": "武林外传小米演员已经坚持施粥5年",
-      "onboard_time": 1772753118,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 238070,
@@ -4875,14 +4915,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 205261,
-      "num": 94820,
-      "word": "伊朗称其无人机袭击林肯号航母",
-      "onboard_time": 1772752880,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 204979,
       "num": 218727,
       "word": "中国游客在日本目睹老太被壮汉撞飞",
@@ -5315,14 +5347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182781,
-      "num": 94397,
-      "word": "高速收费员因帅得人山人海火了",
-      "onboard_time": 1772753240,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181896,
       "num": 702946,
       "word": "十四届全国人大四次会议议程",
@@ -5428,7 +5452,7 @@
     },
     {
       "raw_hot": 176372,
-      "num": 143971,
+      "num": 173611,
       "word": "八爪鱼钻车内失踪3天车主崩溃求助",
       "onboard_time": 1772726242,
       "rank": 47,
@@ -5897,6 +5921,14 @@
       "onboard_time": 1772611943,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160580,
+      "num": 107858,
+      "word": "伊朗称持续打击中东多国美军目标",
+      "onboard_time": 1772753600,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 160361,
@@ -6603,6 +6635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 143234,
+      "num": 106402,
+      "word": "伊朗启动第21轮反击行动",
+      "onboard_time": 1772754803,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143145,
       "num": 149584,
       "word": "00后去芒果都是大前辈了",
@@ -6617,6 +6657,14 @@
       "onboard_time": 1772413281,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142653,
+      "num": 142653,
+      "word": "建议取消私家车年审制度",
+      "onboard_time": 1772754020,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142568,
@@ -6851,6 +6899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136058,
+      "num": 126676,
+      "word": "王楚然 女人中的女人",
+      "onboard_time": 1772729360,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135739,
       "num": 157560,
       "word": "投资贱金属",
@@ -6987,6 +7043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132122,
+      "num": 145340,
+      "word": "00后高速收费员回应撞脸多个明星",
+      "onboard_time": 1772726242,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132050,
       "num": 258928,
       "word": "小猫竟然真会用给它缝的枕头",
@@ -7001,6 +7065,14 @@
       "onboard_time": 1772683524,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131870,
+      "num": 94275,
+      "word": "如萍你真是在哪都不会说话",
+      "onboard_time": 1772754139,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 131830,
@@ -7185,14 +7257,6 @@
       "onboard_time": 1772534727,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126957,
-      "num": 93478,
-      "word": "伊朗称持续打击中东多国美军目标",
-      "onboard_time": 1772753600,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126733,
@@ -7419,14 +7483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122254,
-      "num": 145340,
-      "word": "00后高速收费员回应撞脸多个明星",
-      "onboard_time": 1772726242,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121887,
       "num": 249161,
       "word": "落实职工带薪错峰休假制度",
@@ -7537,6 +7593,14 @@
       "onboard_time": 1772332166,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120332,
+      "num": 455925,
+      "word": "建议最低法定年假从5天提高到10天",
+      "onboard_time": 1772721503,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120326,
@@ -7697,14 +7761,6 @@
       "onboard_time": 1772696963,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 117152,
-      "num": 117152,
-      "word": "曝姜妍补位现在就出发4",
-      "onboard_time": 1772753300,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 116968,
@@ -8011,6 +8067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112069,
+      "num": 144166,
+      "word": "成毅太子长琴cut",
+      "onboard_time": 1772725702,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111932,
       "num": 843131,
       "word": "父母不应该与孩子分享的事情belike",
@@ -8185,14 +8249,6 @@
       "onboard_time": 1772431886,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108998,
-      "num": 455925,
-      "word": "建议最低法定年假从5天提高到10天",
-      "onboard_time": 1772721503,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 108902,
@@ -8385,14 +8441,6 @@
       "onboard_time": 1772343743,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105599,
-      "num": 126676,
-      "word": "王楚然 女人中的女人",
-      "onboard_time": 1772729360,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 105590,
@@ -8963,6 +9011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99019,
+      "num": 99019,
+      "word": "女子一年半攒2000克黄金挣50万",
+      "onboard_time": 1772754561,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 98851,
       "num": 98851,
       "word": "19岁天才少年做AI应用年入2亿",
@@ -9019,28 +9075,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97726,
-      "num": 144166,
-      "word": "成毅太子长琴cut",
-      "onboard_time": 1772725702,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97632,
       "num": 126239,
       "word": "湖人vs勇士",
       "onboard_time": 1772332107,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97422,
-      "num": 78238,
-      "word": "美国国土安全部部长被解职",
-      "onboard_time": 1772753721,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97351,
@@ -9169,6 +9209,14 @@
       "onboard_time": 1772510304,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94818,
+      "num": 298986,
+      "word": "俱乐部通报郭艾伦伤情",
+      "onboard_time": 1772754020,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 94730,
@@ -9795,6 +9843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86292,
+      "num": 144834,
+      "word": "6天长假成都飞三亚机票量激增",
+      "onboard_time": 1772723663,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86231,
       "num": 200531,
       "word": "无畏赵怀真抢龙",
@@ -10369,14 +10425,6 @@
       "onboard_time": 1772507485,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 77919,
-      "num": 144834,
-      "word": "6天长假成都飞三亚机票量激增",
-      "onboard_time": 1772723663,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77820,
@@ -11027,6 +11075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68508,
+      "num": 105896,
+      "word": "艺考严选 宫里又来新人了",
+      "onboard_time": 1772738294,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68266,
       "num": 157996,
       "word": "谷歌DeepMind负责人喊话千问员工",
@@ -11467,6 +11523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60872,
+      "num": 60872,
+      "word": "曝现在就出发4金晨被替换了",
+      "onboard_time": 1772754621,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60647,
       "num": 736583,
       "word": "建议推进落实带薪年假",
@@ -11883,6 +11947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47916,
+      "num": 55153,
+      "word": "攻玉",
+      "onboard_time": 1772753179,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47587,
       "num": 101661,
       "word": "HPV需要男女共同预防",
@@ -12105,14 +12177,6 @@
       "onboard_time": 1772375607,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 44046,
-      "num": 51423,
-      "word": "攻玉",
-      "onboard_time": 1772753179,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 43898,
@@ -12483,14 +12547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35547,
-      "num": 51408,
-      "word": "美国与委内瑞拉同意恢复外交关系",
-      "onboard_time": 1772753779,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 35199,
       "num": 144964,
       "word": "油价再度大涨",
@@ -12513,14 +12569,6 @@
       "onboard_time": 1772715323,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34845,
-      "num": 105896,
-      "word": "艺考严选 宫里又来新人了",
-      "onboard_time": 1772738294,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 34797,
@@ -13473,6 +13521,14 @@
       "onboard_time": 1772341525,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7883,
+      "num": 283393,
+      "word": "霍启刚建议香港深化爱国主义教育",
+      "onboard_time": 1772754920,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7745,
