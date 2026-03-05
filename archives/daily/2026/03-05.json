@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772701702826,
+  "endTime": 1772704539185,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1376421,
-      "num": 425042,
+      "num": 469841,
       "word": "伊朗首次使用最快自杀式无人机",
       "onboard_time": 1772686702,
       "rank": 30,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 836168,
-      "num": 470062,
+      "num": 1113886,
       "word": "建议不调休的代表被记者围住了",
       "onboard_time": 1772698584,
       "rank": 30,
@@ -153,6 +153,22 @@
       "onboard_time": 1772675183,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 637882,
+      "num": 104938,
+      "word": "伊拉克全境断电",
+      "onboard_time": 1772702542,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 616860,
+      "num": 616860,
+      "word": "纯真年代的爱情 烂尾",
+      "onboard_time": 1772702242,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 611066,
@@ -227,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 451166,
+      "num": 170718,
+      "word": "比Deepfake更严重的AI出现了",
+      "onboard_time": 1772702542,
+      "rank": 11,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 441404,
       "num": 441404,
       "word": "普京说考虑主动给欧洲断气",
@@ -265,6 +289,14 @@
       "onboard_time": 1772637803,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 414570,
+      "num": 104817,
+      "word": "本以为一次煎7条鱼就够吹牛了",
+      "onboard_time": 1772701943,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 400970,
@@ -355,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316467,
+      "num": 316467,
+      "word": "猫 讨厌和瘦子拍照",
+      "onboard_time": 1772700682,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 304312,
       "num": 802798,
       "word": "社保迎来第六险",
@@ -417,6 +457,14 @@
       "onboard_time": 1772628925,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 260399,
+      "num": 484550,
+      "word": "建议医务人员薪酬不得与创收挂钩",
+      "onboard_time": 1772701402,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 255362,
@@ -595,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 202313,
+      "num": 103670,
+      "word": "斯里兰卡称力保另一伊朗军舰安全",
+      "onboard_time": 1772703023,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199702,
       "num": 199702,
       "word": "代表谈吴克群帮农民卖3万斤菜",
@@ -715,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173009,
+      "num": 102925,
+      "word": "租房能不能别再开广角拍房子",
+      "onboard_time": 1772702843,
+      "rank": 34,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 169134,
       "num": 280196,
       "word": "永远不要在谈话中自贬",
@@ -803,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142030,
+      "num": 142030,
+      "word": "斗罗大陆小舞",
+      "onboard_time": 1772703442,
+      "rank": 16,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 141073,
       "num": 218620,
       "word": "易烊千玺告眼镜公司侵权索赔50.5万",
@@ -859,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132723,
+      "num": 132723,
+      "word": "我国就业形势有两大不匹配现象",
+      "onboard_time": 1772701883,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131956,
       "num": 155303,
       "word": "办公室被张柏芝美貌暴击",
@@ -875,6 +955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 129734,
+      "num": 129734,
+      "word": "洗头公式",
+      "onboard_time": 1772704403,
+      "rank": 24,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 126690,
       "num": 126690,
       "word": "和平精英让侯明昊演嗨了",
@@ -883,20 +971,28 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 122328,
-      "num": 282117,
-      "word": "猫 讨厌和瘦子拍照",
-      "onboard_time": 1772700682,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 121887,
       "num": 249161,
       "word": "落实职工带薪错峰休假制度",
       "onboard_time": 1772677521,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121390,
+      "num": 289260,
+      "word": "华为MateBookNeo曝光",
+      "onboard_time": 1772699962,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 121255,
+      "num": 282384,
+      "word": "广西整个四月都在上四休三",
+      "onboard_time": 1772699903,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 119251,
@@ -947,14 +1043,6 @@
       "category": "作品衍生,运动健身"
     },
     {
-      "raw_hot": 115688,
-      "num": 289260,
-      "word": "华为MateBookNeo曝光",
-      "onboard_time": 1772699962,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 115231,
       "num": 218440,
       "word": "韩蛇蝎美人被确认为反社会人格",
@@ -985,6 +1073,14 @@
       "onboard_time": 1772666299,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112886,
+      "num": 112886,
+      "word": "为什么很多演员演戏没有活人感",
+      "onboard_time": 1772702242,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 112399,
@@ -1035,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106078,
+      "num": 106078,
+      "word": "赵丽颖第一视角打戏好飒",
+      "onboard_time": 1772702001,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103785,
       "num": 116818,
       "word": "南方绿化带是要考研吗",
@@ -1067,12 +1171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102581,
+      "num": 102581,
+      "word": "日本火箭在记者赞美声中发射失败",
+      "onboard_time": 1772703681,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 102499,
       "num": 102499,
       "word": "靳东说不能让年轻人只沉迷游戏短视频",
       "onboard_time": 1772688262,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101985,
+      "num": 101985,
+      "word": "县城美甲 千禧年遗址",
+      "onboard_time": 1772702483,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 100579,
@@ -1091,12 +1211,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100289,
+      "num": 108562,
+      "word": "斗罗大陆",
+      "onboard_time": 1772703323,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 100219,
       "num": 285381,
       "word": "跟上白鹿新动态",
       "onboard_time": 1772694862,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100182,
+      "num": 280974,
+      "word": "没有人觉得时代发展很快吗",
+      "onboard_time": 1772697862,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 99228,
@@ -1107,20 +1243,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97912,
-      "num": 282384,
-      "word": "广西整个四月都在上四休三",
-      "onboard_time": 1772699903,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 97783,
       "num": 218235,
       "word": "纯真年代的爱情大结局",
       "onboard_time": 1772624543,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96757,
+      "num": 96757,
+      "word": "戴眼镜妆容公式",
+      "onboard_time": 1772701761,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 96432,
@@ -1219,14 +1355,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 89837,
-      "num": 280974,
-      "word": "没有人觉得时代发展很快吗",
-      "onboard_time": 1772697862,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 89077,
       "num": 89077,
       "word": "伊朗表示无意与美谈判",
@@ -1265,6 +1393,14 @@
       "onboard_time": 1772682863,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85194,
+      "num": 96731,
+      "word": "李一桐差点摔倒",
+      "onboard_time": 1772700984,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 84884,
@@ -1379,11 +1515,27 @@
       "category": "艺人,国内时政"
     },
     {
+      "raw_hot": 77657,
+      "num": 96715,
+      "word": "郑业成 我没有脱过那么多衣服",
+      "onboard_time": 1772702422,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77422,
       "num": 72710,
       "word": "瞿桦的初恋",
       "onboard_time": 1772671224,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77141,
+      "num": 96709,
+      "word": "少夫人来自东北",
+      "onboard_time": 1772704403,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1467,6 +1619,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 71123,
+      "num": 136956,
+      "word": "建议强制入职体检",
+      "onboard_time": 1772703562,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70753,
       "num": 505115,
       "word": "第一场部长通道",
@@ -1489,6 +1649,14 @@
       "onboard_time": 1772686765,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68835,
+      "num": 96681,
+      "word": "现在就出发",
+      "onboard_time": 1772704462,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 68266,
@@ -1691,7 +1859,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 47671,
+      "raw_hot": 47958,
       "num": 663617,
       "word": "政府工作报告里的民生红包",
       "onboard_time": 1772699421,
@@ -1787,14 +1955,6 @@
       "category": "汽车,体育"
     },
     {
-      "raw_hot": 34288,
-      "num": 135359,
-      "word": "建议医务人员薪酬不得与创收挂钩",
-      "onboard_time": 1772701402,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34270,
       "num": 67469,
       "word": "纯真年代编剧",
@@ -1865,6 +2025,14 @@
       "onboard_time": 1772646076,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23562,
+      "num": 96744,
+      "word": "王一博长空之王被写入政府工作报告",
+      "onboard_time": 1772704223,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 21710,
