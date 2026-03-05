@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/01 00:36:45 ~ 2026/03/06 02:27:39
+本榜单时间：2026/03/01 00:36:45 ~ 2026/03/06 03:43:21
 </p>
 </blockquote>
 <p>
@@ -9927,6 +9927,12 @@ TOP秒切第一（热度：24816）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%89%BA%E8%80%83%E4%B8%A5%E9%80%89%20%E5%AE%AB%E9%87%8C%E5%8F%88%E6%9D%A5%E6%96%B0%E4%BA%BA%E4%BA%86%23" target="weibo">
+艺考严选 宫里又来新人了（热度：15316）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E4%B8%BB%E6%BC%94%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B4100%E4%BA%BF%23" target="weibo">
 杨幂主演票房突破100亿（热度：14829）
 </a>
@@ -9959,6 +9965,12 @@ TOP秒切第一（热度：24816）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E7%BB%88%E4%BA%8E%E5%BC%80%E6%99%BA%E4%BA%86%E5%90%97%23" target="weibo">
 林一终于开智了吗（热度：13907）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23PEL%E6%98%A5%E5%AD%A3%E8%B5%9B%23" target="weibo">
+PEL春季赛（热度：13885）
 </a>
 </li>
 
@@ -10024,7 +10036,7 @@ LPL第一赛段（热度：10583）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E9%BC%93%E5%8A%B1%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8B%87%E6%95%A2%E8%AF%95%E9%94%99%23" target="weibo">
-张雨霏鼓励年轻人勇敢试错（热度：9728）
+张雨霏鼓励年轻人勇敢试错（热度：10337）
 </a>
 </li>
 

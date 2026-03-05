@@ -1,6 +1,6 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772735259142,
+  "endTime": 1772739801730,
   "band_list": [
     {
       "raw_hot": 1017451,
@@ -419,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23639,
+      "num": 80266,
+      "word": "玫瑰丛生",
+      "onboard_time": 1772737214,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22342,
       "num": 125814,
       "word": "陈哲远大侦探玩成了密逃",
@@ -451,6 +459,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 15316,
+      "num": 76186,
+      "word": "艺考严选 宫里又来新人了",
+      "onboard_time": 1772738294,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13885,
+      "num": 75359,
+      "word": "PEL春季赛",
+      "onboard_time": 1772721086,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 13186,
       "num": 125338,
       "word": "腾势Z9GT充电9分钟续航超千公里",
@@ -467,8 +491,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 9728,
-      "num": 67851,
+      "raw_hot": 10337,
+      "num": 74100,
       "word": "张雨霏鼓励年轻人勇敢试错",
       "onboard_time": 1772734936,
       "rank": 49,

@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772735259142,
+  "endTime": 1772739801730,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -13219,6 +13219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15316,
+      "num": 76186,
+      "word": "艺考严选 宫里又来新人了",
+      "onboard_time": 1772738294,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14829,
       "num": 41033,
       "word": "杨幂主演票房突破100亿",
@@ -13265,6 +13273,14 @@
       "onboard_time": 1772705183,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13885,
+      "num": 75359,
+      "word": "PEL春季赛",
+      "onboard_time": 1772721086,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 13780,
@@ -13347,8 +13363,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 9728,
-      "num": 67851,
+      "raw_hot": 10337,
+      "num": 74100,
       "word": "张雨霏鼓励年轻人勇敢试错",
       "onboard_time": 1772734936,
       "rank": 49,
