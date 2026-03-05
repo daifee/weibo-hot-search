@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772705356594,
+  "endTime": 1772707942098,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -139,7 +139,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 660527,
+      "raw_hot": 673934,
       "num": 616860,
       "word": "纯真年代的爱情 烂尾",
       "onboard_time": 1772702242,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 637882,
-      "num": 121301,
+      "num": 264309,
       "word": "伊拉克全境断电",
       "onboard_time": 1772702542,
       "rank": 30,
@@ -195,12 +195,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 511048,
+      "num": 266879,
+      "word": "比Deepfake更严重的AI出现了",
+      "onboard_time": 1772702542,
+      "rank": 11,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 488891,
       "num": 488891,
       "word": "张杰演唱会抢票",
       "onboard_time": 1772690122,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 488104,
+      "num": 265355,
+      "word": "租房能不能别再开广角拍房子",
+      "onboard_time": 1772702843,
+      "rank": 34,
+      "category": "休闲"
     },
     {
       "raw_hot": 477268,
@@ -217,14 +233,6 @@
       "onboard_time": 1772683943,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 467720,
-      "num": 195577,
-      "word": "比Deepfake更严重的AI出现了",
-      "onboard_time": 1772702542,
-      "rank": 11,
-      "category": "互联网,艺人"
     },
     {
       "raw_hot": 464034,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 414570,
-      "num": 193929,
+      "num": 263354,
       "word": "本以为一次煎7条鱼就够吹牛了",
       "onboard_time": 1772701943,
       "rank": 31,
@@ -321,6 +329,14 @@
       "onboard_time": 1772691204,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397239,
+      "num": 805013,
+      "word": "现在就出发",
+      "onboard_time": 1772704462,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 378779,
@@ -361,14 +377,6 @@
       "onboard_time": 1772680221,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 328162,
-      "num": 194295,
-      "word": "租房能不能别再开广角拍房子",
-      "onboard_time": 1772702843,
-      "rank": 34,
-      "category": "休闲"
     },
     {
       "raw_hot": 324978,
@@ -464,6 +472,22 @@
       "word": "王鹤棣紫衣少年谢景行",
       "onboard_time": 1772641821,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 269454,
+      "num": 269454,
+      "word": "少夫人来自东北",
+      "onboard_time": 1772704403,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 262942,
+      "num": 262942,
+      "word": "攻玉主演 侯明昊鹤男",
+      "onboard_time": 1772706502,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -619,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213636,
-      "num": 213636,
-      "word": "少夫人来自东北",
-      "onboard_time": 1772704403,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205335,
       "num": 221112,
       "word": "Bin 先锋赛给大伙带个冠军回来",
@@ -715,6 +731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 189414,
+      "num": 113145,
+      "word": "薛之谦万兽之王长沙站开启预售",
+      "onboard_time": 1772707702,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186998,
       "num": 282925,
       "word": "伊朗的反击愈发猛烈",
@@ -763,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179920,
+      "num": 179920,
+      "word": "伊朗报复美以",
+      "onboard_time": 1772707102,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176263,
       "num": 285909,
       "word": "伊方称导弹击中一美国油轮",
@@ -803,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161593,
+      "num": 161593,
+      "word": "我国就业形势有两大不匹配现象",
+      "onboard_time": 1772701883,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159183,
       "num": 283954,
       "word": "35岁就业歧视应该得到了缓解",
@@ -817,14 +857,6 @@
       "onboard_time": 1772683824,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154481,
-      "num": 135114,
-      "word": "我国就业形势有两大不匹配现象",
-      "onboard_time": 1772701883,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153525,
@@ -875,6 +907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147267,
+      "num": 147267,
+      "word": "王天辰侯雯元 莞莞类卿",
+      "onboard_time": 1772705482,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146194,
       "num": 146194,
       "word": "狗狗追车几公里上车后生下狗宝宝",
@@ -889,6 +929,14 @@
       "onboard_time": 1772704403,
       "rank": 24,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 145290,
+      "num": 269077,
+      "word": "WBG对战AL",
+      "onboard_time": 1772705361,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 143962,
@@ -953,14 +1001,6 @@
       "onboard_time": 1772675842,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 134757,
-      "num": 134757,
-      "word": "现在就出发",
-      "onboard_time": 1772704462,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 134266,
@@ -1083,6 +1123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 115089,
+      "num": 115089,
+      "word": "唐嫣穿得像个灯笼就出来了",
+      "onboard_time": 1772705002,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115020,
       "num": 218590,
       "word": "63岁失独妈妈剖腹产生下健康女婴",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1772643078,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110503,
+      "num": 110503,
+      "word": "刘国梁谈奥运备战",
+      "onboard_time": 1772706502,
+      "rank": 32,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 109604,
@@ -1347,14 +1403,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 92861,
-      "num": 92861,
-      "word": "唐嫣穿得像个灯笼就出来了",
-      "onboard_time": 1772705002,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92776,
       "num": 747659,
       "word": "中国2025成绩单",
@@ -1499,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81627,
+      "num": 267102,
+      "word": "建议短视频凌晨1点至5点深夜静默",
+      "onboard_time": 1772707284,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81256,
       "num": 81256,
       "word": "育儿补贴惠及3000多万婴幼儿",
@@ -1513,6 +1569,14 @@
       "onboard_time": 1772686345,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80840,
+      "num": 80840,
+      "word": "女子苦寻臭八爪鱼三天拆车抓出",
+      "onboard_time": 1772704102,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80578,
@@ -1545,6 +1609,14 @@
       "onboard_time": 1772700143,
       "rank": 19,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 78109,
+      "num": 78109,
+      "word": "杨幂的长相很符合名字",
+      "onboard_time": 1772705724,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 78070,
@@ -1627,6 +1699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73318,
+      "num": 73318,
+      "word": "关于HPV有哪些隐藏盲点",
+      "onboard_time": 1772707461,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 73214,
       "num": 113406,
       "word": "第一次见把舞狮耍成赖皮蛇",
@@ -1651,6 +1731,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 72173,
+      "num": 72173,
+      "word": "种地吧",
+      "onboard_time": 1772707523,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70753,
       "num": 505115,
       "word": "第一场部长通道",
@@ -1665,14 +1753,6 @@
       "onboard_time": 1772684724,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 70006,
-      "num": 70006,
-      "word": "女子苦寻臭八爪鱼三天拆车抓出",
-      "onboard_time": 1772704102,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69530,
@@ -1713,6 +1793,14 @@
       "onboard_time": 1772696302,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 67103,
+      "num": 67103,
+      "word": "宋亚轩 内娱窝囊系爱豆",
+      "onboard_time": 1772707882,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 66506,
@@ -1868,7 +1956,7 @@
     },
     {
       "raw_hot": 53574,
-      "num": 136130,
+      "num": 192909,
       "word": "丰田铂智7预售权益价15.68万起",
       "onboard_time": 1772705063,
       "rank": 20,
@@ -2153,6 +2241,14 @@
       "onboard_time": 1772705183,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10551,
+      "num": 192343,
+      "word": "全世界都在321上链接",
+      "onboard_time": 1772707644,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

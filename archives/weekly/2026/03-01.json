@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772705356594,
+  "endTime": 1772707942098,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1115,6 +1115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 673934,
+      "num": 616860,
+      "word": "纯真年代的爱情 烂尾",
+      "onboard_time": 1772702242,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 672321,
       "num": 1103857,
       "word": "元宵晚会 好看",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1772372005,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 660527,
-      "num": 616860,
-      "word": "纯真年代的爱情 烂尾",
-      "onboard_time": 1772702242,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 660453,
@@ -1252,7 +1252,7 @@
     },
     {
       "raw_hot": 637882,
-      "num": 121301,
+      "num": 264309,
       "word": "伊拉克全境断电",
       "onboard_time": 1772702542,
       "rank": 30,
@@ -1755,6 +1755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 511048,
+      "num": 266879,
+      "word": "比Deepfake更严重的AI出现了",
+      "onboard_time": 1772702542,
+      "rank": 11,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 510855,
       "num": 356470,
       "word": "伊朗发动第10波攻势",
@@ -1867,6 +1875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 488104,
+      "num": 265355,
+      "word": "租房能不能别再开广角拍房子",
+      "onboard_time": 1772702843,
+      "rank": 34,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 484930,
       "num": 233531,
       "word": "北京协和医院提出的科学减重方法",
@@ -1937,14 +1953,6 @@
       "onboard_time": 1772683943,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 467720,
-      "num": 195577,
-      "word": "比Deepfake更严重的AI出现了",
-      "onboard_time": 1772702542,
-      "rank": 11,
-      "category": "互联网,艺人"
     },
     {
       "raw_hot": 467441,
@@ -2252,7 +2260,7 @@
     },
     {
       "raw_hot": 414570,
-      "num": 193929,
+      "num": 263354,
       "word": "本以为一次煎7条鱼就够吹牛了",
       "onboard_time": 1772701943,
       "rank": 31,
@@ -2425,6 +2433,14 @@
       "onboard_time": 1772361862,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397239,
+      "num": 805013,
+      "word": "现在就出发",
+      "onboard_time": 1772704462,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 396200,
@@ -2993,14 +3009,6 @@
       "onboard_time": 1772565495,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 328162,
-      "num": 194295,
-      "word": "租房能不能别再开广角拍房子",
-      "onboard_time": 1772702843,
-      "rank": 34,
-      "category": "休闲"
     },
     {
       "raw_hot": 325706,
@@ -3699,6 +3707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269454,
+      "num": 269454,
+      "word": "少夫人来自东北",
+      "onboard_time": 1772704403,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266326,
       "num": 215899,
       "word": "佟丽娅给小酒窝发压岁钱",
@@ -3761,6 +3777,14 @@
       "onboard_time": 1772615004,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262942,
+      "num": 262942,
+      "word": "攻玉主演 侯明昊鹤男",
+      "onboard_time": 1772706502,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 261421,
@@ -4539,14 +4563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213636,
-      "num": 213636,
-      "word": "少夫人来自东北",
-      "onboard_time": 1772704403,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213084,
       "num": 396934,
       "word": "18名中国公民顺利撤离伊朗",
@@ -4947,6 +4963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189414,
+      "num": 113145,
+      "word": "薛之谦万兽之王长沙站开启预售",
+      "onboard_time": 1772707702,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187860,
       "num": 764495,
       "word": "烤肉店辣椒水是干嘛的",
@@ -5072,6 +5096,14 @@
       "word": "中方强烈谴责一切攻击儿童行为",
       "onboard_time": 1772511026,
       "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 179920,
+      "num": 179920,
+      "word": "伊朗报复美以",
+      "onboard_time": 1772707102,
+      "rank": 21,
       "category": "国际时政"
     },
     {
@@ -5515,6 +5547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161593,
+      "num": 161593,
+      "word": "我国就业形势有两大不匹配现象",
+      "onboard_time": 1772701883,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160945,
       "num": 167477,
       "word": "王安宇CELINE首位中国男大使",
@@ -5705,14 +5745,6 @@
       "onboard_time": 1772683824,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154481,
-      "num": 135114,
-      "word": "我国就业形势有两大不匹配现象",
-      "onboard_time": 1772701883,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154455,
@@ -6035,6 +6067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147267,
+      "num": 147267,
+      "word": "王天辰侯雯元 莞莞类卿",
+      "onboard_time": 1772705482,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147177,
       "num": 161252,
       "word": "中东冲突全面扩散",
@@ -6153,6 +6193,14 @@
       "onboard_time": 1772532746,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145290,
+      "num": 269077,
+      "word": "WBG对战AL",
+      "onboard_time": 1772705361,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 144898,
@@ -6489,14 +6537,6 @@
       "onboard_time": 1772381364,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 134757,
-      "num": 134757,
-      "word": "现在就出发",
-      "onboard_time": 1772704462,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 134734,
@@ -7307,6 +7347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 115089,
+      "num": 115089,
+      "word": "唐嫣穿得像个灯笼就出来了",
+      "onboard_time": 1772705002,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115007,
       "num": 223011,
       "word": "无限暖暖",
@@ -7569,6 +7617,14 @@
       "onboard_time": 1772355323,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110503,
+      "num": 110503,
+      "word": "刘国梁谈奥运备战",
+      "onboard_time": 1772706502,
+      "rank": 32,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 110269,
@@ -8699,14 +8755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 92861,
-      "num": 92861,
-      "word": "唐嫣穿得像个灯笼就出来了",
-      "onboard_time": 1772705002,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92828,
       "num": 134953,
       "word": "中国男篮小组积分形势",
@@ -9411,6 +9459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81627,
+      "num": 267102,
+      "word": "建议短视频凌晨1点至5点深夜静默",
+      "onboard_time": 1772707284,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81611,
       "num": 316576,
       "word": "对方紧急撤回了6只企鹅",
@@ -9481,6 +9537,14 @@
       "onboard_time": 1772517924,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80840,
+      "num": 80840,
+      "word": "女子苦寻臭八爪鱼三天拆车抓出",
+      "onboard_time": 1772704102,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80750,
@@ -9609,6 +9673,14 @@
       "onboard_time": 1772621365,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78109,
+      "num": 78109,
+      "word": "杨幂的长相很符合名字",
+      "onboard_time": 1772705724,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 78070,
@@ -9947,6 +10019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 73318,
+      "num": 73318,
+      "word": "关于HPV有哪些隐藏盲点",
+      "onboard_time": 1772707461,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 73214,
       "num": 113406,
       "word": "第一次见把舞狮耍成赖皮蛇",
@@ -10139,14 +10219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70006,
-      "num": 70006,
-      "word": "女子苦寻臭八爪鱼三天拆车抓出",
-      "onboard_time": 1772704102,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69530,
       "num": 101609,
       "word": "水蛭型出游",
@@ -10329,6 +10401,14 @@
       "onboard_time": 1772624005,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67103,
+      "num": 67103,
+      "word": "宋亚轩 内娱窝囊系爱豆",
+      "onboard_time": 1772707882,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 66734,
@@ -10884,7 +10964,7 @@
     },
     {
       "raw_hot": 53574,
-      "num": 136130,
+      "num": 192909,
       "word": "丰田铂智7预售权益价15.68万起",
       "onboard_time": 1772705063,
       "rank": 20,
@@ -12433,6 +12513,14 @@
       "onboard_time": 1772546132,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 10551,
+      "num": 192343,
+      "word": "全世界都在321上链接",
+      "onboard_time": 1772707644,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10486,
