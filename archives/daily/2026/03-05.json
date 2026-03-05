@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772678308346,
+  "endTime": 1772680513210,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -11,8 +11,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1200793,
+      "num": 489971,
+      "word": "离职排队都排到7月份了",
+      "onboard_time": 1772678421,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1182250,
-      "num": 386780,
+      "num": 502263,
       "word": "伊朗袭击以国防部大楼",
       "onboard_time": 1772667380,
       "rank": 25,
@@ -75,11 +83,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522023,
+      "num": 522023,
+      "word": "推进祖国统一",
+      "onboard_time": 1772678842,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 490124,
+      "num": 490124,
+      "word": "建议禁止性侵未成年罪犯进入幼儿园",
+      "onboard_time": 1772676020,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 441404,
       "num": 441404,
       "word": "普京说考虑主动给欧洲断气",
       "onboard_time": 1772668702,
       "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 432507,
+      "num": 432507,
+      "word": "伊朗总统强调尊重邻国主权",
+      "onboard_time": 1772675842,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -108,7 +140,7 @@
     },
     {
       "raw_hot": 378145,
-      "num": 378145,
+      "num": 443382,
       "word": "霸王茶姬口令",
       "onboard_time": 1772676562,
       "rank": 6,
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 319968,
-      "num": 249018,
+      "num": 312698,
       "word": "没见过气血虚成这样的",
       "onboard_time": 1772669423,
       "rank": 11,
@@ -163,20 +195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281937,
+      "num": 281937,
+      "word": "居民基础养老金月再提20元",
+      "onboard_time": 1772677641,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 278817,
       "num": 208264,
       "word": "王鹤棣紫衣少年谢景行",
       "onboard_time": 1772641821,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269940,
-      "num": 269940,
-      "word": "建议禁止性侵未成年罪犯进入幼儿园",
-      "onboard_time": 1772676020,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 261424,
@@ -323,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180246,
+      "num": 165630,
+      "word": "女子毕业时120斤工作后胖到200斤",
+      "onboard_time": 1772675302,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175818,
       "num": 217669,
       "word": "车停半个月被老鼠囤了20斤粮食",
       "onboard_time": 1772638643,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175731,
+      "num": 152180,
+      "word": "原著里方穆静是妍妍的偶像",
+      "onboard_time": 1772680343,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 174545,
@@ -339,28 +387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172747,
-      "num": 165630,
-      "word": "女子毕业时120斤工作后胖到200斤",
-      "onboard_time": 1772675302,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169751,
-      "num": 169751,
-      "word": "伊朗总统强调尊重邻国主权",
-      "onboard_time": 1772675842,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 155223,
-      "num": 155223,
-      "word": "居民基础养老金月再提20元",
-      "onboard_time": 1772677641,
-      "rank": 23,
+      "raw_hot": 151770,
+      "num": 151770,
+      "word": "加强初婚初育住房保障",
+      "onboard_time": 1772678722,
+      "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 151190,
+      "num": 151190,
+      "word": "电影我的妈耶定档",
+      "onboard_time": 1772680221,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 148578,
@@ -369,6 +409,22 @@
       "onboard_time": 1772637444,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148230,
+      "num": 148230,
+      "word": "逐玉",
+      "onboard_time": 1772677881,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146194,
+      "num": 146194,
+      "word": "狗狗追车几公里上车后生下狗宝宝",
+      "onboard_time": 1772678183,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143962,
@@ -385,6 +441,14 @@
       "onboard_time": 1772635106,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140767,
+      "num": 140767,
+      "word": "第一场代表通道采访",
+      "onboard_time": 1772669362,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 137445,
@@ -417,22 +481,6 @@
       "onboard_time": 1772628386,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133321,
-      "num": 130719,
-      "word": "狗狗追车几公里上车后生下狗宝宝",
-      "onboard_time": 1772678183,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132815,
-      "num": 132815,
-      "word": "第一场代表通道采访",
-      "onboard_time": 1772669362,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 130013,
@@ -539,6 +587,22 @@
       "category": "国内时政,体育"
     },
     {
+      "raw_hot": 103785,
+      "num": 103785,
+      "word": "南方绿化带是要考研吗",
+      "onboard_time": 1772679503,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 103021,
+      "num": 103021,
+      "word": "苹果新品",
+      "onboard_time": 1772666660,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 100329,
       "num": 218281,
       "word": "伊朗局势最新情况",
@@ -571,14 +635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 94389,
-      "num": 94389,
-      "word": "逐玉",
-      "onboard_time": 1772677881,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 93572,
       "num": 387749,
       "word": "2025年GDP增长5%",
@@ -600,6 +656,22 @@
       "word": "iPhone17e上手",
       "onboard_time": 1772667862,
       "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 91759,
+      "num": 91759,
+      "word": "上班vlog到底是谁在拍",
+      "onboard_time": 1772680102,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 91198,
+      "num": 225832,
+      "word": "千问AI眼镜MWC全球重磅首发",
+      "onboard_time": 1772679683,
+      "rank": 14,
       "category": "数码"
     },
     {
@@ -635,6 +707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 83221,
+      "num": 807986,
+      "word": "今年经济增长目标4.5%至5%",
+      "onboard_time": 1772676322,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81939,
       "num": 81939,
       "word": "冯琳王德发分手",
@@ -651,20 +731,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78739,
+      "num": 78739,
+      "word": "雷军回应小米手机是否涨价",
+      "onboard_time": 1772680463,
+      "rank": 48,
+      "category": "国内时政,数码"
+    },
+    {
+      "raw_hot": 78377,
+      "num": 78377,
+      "word": "周雨彤含泪分享太平年创作感悟",
+      "onboard_time": 1772677701,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78070,
       "num": 78070,
       "word": "张凯丽说短剧不能糊弄观众",
       "onboard_time": 1772674641,
       "rank": 46,
       "category": "艺人,国内时政"
-    },
-    {
-      "raw_hot": 77487,
-      "num": 77487,
-      "word": "周雨彤含泪分享太平年创作感悟",
-      "onboard_time": 1772677701,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 77422,
@@ -731,14 +819,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 60799,
-      "num": 807986,
-      "word": "今年经济增长目标4.5%至5%",
-      "onboard_time": 1772676322,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 59214,
       "num": 59214,
       "word": "阿里CEO吴泳铭现身千问换帅沟通会",
@@ -795,14 +875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47459,
-      "num": 61126,
-      "word": "苹果新品",
-      "onboard_time": 1772666660,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 45982,
       "num": 61005,
       "word": "纽卡斯尔联2比1曼联",
@@ -835,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38753,
+      "num": 433228,
+      "word": "培育发展脑机接口等未来产业",
+      "onboard_time": 1772679922,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37668,
       "num": 148455,
       "word": "父母收到女儿压岁钱和手写信后泪崩",
@@ -849,6 +929,14 @@
       "onboard_time": 1772631505,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34560,
+      "num": 169671,
+      "word": "李娜姜山认定的家用SUV",
+      "onboard_time": 1772679863,
+      "rank": 18,
+      "category": "汽车,体育"
     },
     {
       "raw_hot": 34270,
@@ -873,6 +961,14 @@
       "onboard_time": 1772639842,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28665,
+      "num": 158073,
+      "word": "启动新一轮双一流建设",
+      "onboard_time": 1772680221,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28200,
@@ -953,6 +1049,14 @@
       "onboard_time": 1772619986,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 7882,
+      "num": 505115,
+      "word": "第一场部长通道",
+      "onboard_time": 1772680343,
+      "rank": 4,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
