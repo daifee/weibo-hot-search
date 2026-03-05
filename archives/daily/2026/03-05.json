@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772704539185,
+  "endTime": 1772705356594,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -139,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 660527,
+      "num": 616860,
+      "word": "纯真年代的爱情 烂尾",
+      "onboard_time": 1772702242,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 660453,
       "num": 286632,
       "word": "张杰鸟巢演唱会12万张票秒罄",
@@ -156,19 +164,11 @@
     },
     {
       "raw_hot": 637882,
-      "num": 104938,
+      "num": 121301,
       "word": "伊拉克全境断电",
       "onboard_time": 1772702542,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 616860,
-      "num": 616860,
-      "word": "纯真年代的爱情 烂尾",
-      "onboard_time": 1772702242,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 611066,
@@ -219,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 467720,
+      "num": 195577,
+      "word": "比Deepfake更严重的AI出现了",
+      "onboard_time": 1772702542,
+      "rank": 11,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 464034,
       "num": 840397,
       "word": "霍启刚希望明年春晚有香港分会场",
@@ -241,14 +249,6 @@
       "onboard_time": 1772697025,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 451166,
-      "num": 170718,
-      "word": "比Deepfake更严重的AI出现了",
-      "onboard_time": 1772702542,
-      "rank": 11,
-      "category": "互联网,艺人"
     },
     {
       "raw_hot": 441404,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 414570,
-      "num": 104817,
+      "num": 193929,
       "word": "本以为一次煎7条鱼就够吹牛了",
       "onboard_time": 1772701943,
       "rank": 31,
@@ -363,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 328162,
+      "num": 194295,
+      "word": "租房能不能别再开广角拍房子",
+      "onboard_time": 1772702843,
+      "rank": 34,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 324978,
       "num": 249073,
       "word": "喊卡了姐夫还来个额头吻",
@@ -387,7 +395,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 316467,
+      "raw_hot": 316779,
       "num": 316467,
       "word": "猫 讨厌和瘦子拍照",
       "onboard_time": 1772700682,
@@ -401,6 +409,14 @@
       "onboard_time": 1772630965,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299807,
+      "num": 484550,
+      "word": "建议医务人员薪酬不得与创收挂钩",
+      "onboard_time": 1772701402,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 299066,
@@ -457,14 +473,6 @@
       "onboard_time": 1772628925,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 260399,
-      "num": 484550,
-      "word": "建议医务人员薪酬不得与创收挂钩",
-      "onboard_time": 1772701402,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 255362,
@@ -611,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213636,
+      "num": 213636,
+      "word": "少夫人来自东北",
+      "onboard_time": 1772704403,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205335,
       "num": 221112,
       "word": "Bin 先锋赛给大伙带个冠军回来",
@@ -625,6 +641,14 @@
       "onboard_time": 1772637084,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 204643,
+      "num": 282384,
+      "word": "广西整个四月都在上四休三",
+      "onboard_time": 1772699903,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 203843,
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 202313,
-      "num": 103670,
+      "num": 113851,
       "word": "斯里兰卡称力保另一伊朗军舰安全",
       "onboard_time": 1772703023,
       "rank": 33,
@@ -771,14 +795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173009,
-      "num": 102925,
-      "word": "租房能不能别再开广角拍房子",
-      "onboard_time": 1772702843,
-      "rank": 34,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 169134,
       "num": 280196,
       "word": "永远不要在谈话中自贬",
@@ -803,12 +819,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154481,
+      "num": 135114,
+      "word": "我国就业形势有两大不匹配现象",
+      "onboard_time": 1772701883,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153525,
       "num": 286975,
       "word": "张小斐走红后 不抢不闹不迎合",
       "onboard_time": 1772699242,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153443,
+      "num": 153443,
+      "word": "斗罗大陆小舞",
+      "onboard_time": 1772703442,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 151770,
@@ -851,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145711,
+      "num": 134968,
+      "word": "洗头公式",
+      "onboard_time": 1772704403,
+      "rank": 24,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 143962,
       "num": 218701,
       "word": "王毅同阿联酋外长通电话",
@@ -865,14 +905,6 @@
       "onboard_time": 1772686404,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142030,
-      "num": 142030,
-      "word": "斗罗大陆小舞",
-      "onboard_time": 1772703442,
-      "rank": 16,
-      "category": "动漫"
     },
     {
       "raw_hot": 141073,
@@ -923,20 +955,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 134757,
+      "num": 134757,
+      "word": "现在就出发",
+      "onboard_time": 1772704462,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134266,
       "num": 219129,
       "word": "弟弟你的相貌很容易让人轻敌啊",
       "onboard_time": 1772628386,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132723,
-      "num": 132723,
-      "word": "我国就业形势有两大不匹配现象",
-      "onboard_time": 1772701883,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131956,
@@ -955,20 +987,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 129734,
-      "num": 129734,
-      "word": "洗头公式",
-      "onboard_time": 1772704403,
-      "rank": 24,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 126690,
       "num": 126690,
       "word": "和平精英让侯明昊演嗨了",
       "onboard_time": 1772690122,
       "rank": 27,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 123976,
+      "num": 123976,
+      "word": "为什么很多演员演戏没有活人感",
+      "onboard_time": 1772702242,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 121887,
@@ -979,20 +1011,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121462,
+      "num": 121462,
+      "word": "赵丽颖第一视角打戏好飒",
+      "onboard_time": 1772702001,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121390,
       "num": 289260,
       "word": "华为MateBookNeo曝光",
       "onboard_time": 1772699962,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 121255,
-      "num": 282384,
-      "word": "广西整个四月都在上四休三",
-      "onboard_time": 1772699903,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 119251,
@@ -1075,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112886,
-      "num": 112886,
-      "word": "为什么很多演员演戏没有活人感",
-      "onboard_time": 1772702242,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112399,
       "num": 148460,
       "word": "美国为何非要搞垮伊朗",
@@ -1129,14 +1153,6 @@
       "onboard_time": 1772697502,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106078,
-      "num": 106078,
-      "word": "赵丽颖第一视角打戏好飒",
-      "onboard_time": 1772702001,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 103785,
@@ -1251,12 +1267,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97227,
+      "num": 97227,
+      "word": "戚薇的思维真的好包容",
+      "onboard_time": 1772705183,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96757,
       "num": 96757,
       "word": "戴眼镜妆容公式",
       "onboard_time": 1772701761,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 96634,
+      "num": 136956,
+      "word": "建议强制入职体检",
+      "onboard_time": 1772703562,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96432,
@@ -1313,6 +1345,14 @@
       "onboard_time": 1772667862,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 92861,
+      "num": 92861,
+      "word": "唐嫣穿得像个灯笼就出来了",
+      "onboard_time": 1772705002,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 92776,
@@ -1531,14 +1571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77141,
-      "num": 96709,
-      "word": "少夫人来自东北",
-      "onboard_time": 1772704403,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 76598,
       "num": 116888,
       "word": "魔兽世界",
@@ -1619,14 +1651,6 @@
       "category": "国内时政,艺人"
     },
     {
-      "raw_hot": 71123,
-      "num": 136956,
-      "word": "建议强制入职体检",
-      "onboard_time": 1772703562,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 70753,
       "num": 505115,
       "word": "第一场部长通道",
@@ -1643,20 +1667,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70006,
+      "num": 70006,
+      "word": "女子苦寻臭八爪鱼三天拆车抓出",
+      "onboard_time": 1772704102,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69530,
       "num": 101609,
       "word": "水蛭型出游",
       "onboard_time": 1772686765,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 68835,
-      "num": 96681,
-      "word": "现在就出发",
-      "onboard_time": 1772704462,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 68266,
@@ -1721,6 +1745,14 @@
       "onboard_time": 1772681663,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 65555,
+      "num": 65555,
+      "word": "大侦探这期下刀子了",
+      "onboard_time": 1772705242,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 64741,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1772640023,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53574,
+      "num": 136130,
+      "word": "丰田铂智7预售权益价15.68万起",
+      "onboard_time": 1772705063,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 52887,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1772694743,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13907,
+      "num": 87508,
+      "word": "林一终于开智了吗",
+      "onboard_time": 1772705183,
+      "rank": 38,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
