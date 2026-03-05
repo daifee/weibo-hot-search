@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772739801730,
+  "endTime": 1772740661542,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -13139,6 +13139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16980,
+      "num": 76186,
+      "word": "艺考严选 宫里又来新人了",
+      "onboard_time": 1772738294,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16848,
       "num": 66874,
       "word": "晓兮小贝坦白局",
@@ -13217,14 +13225,6 @@
       "onboard_time": 1772552848,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15316,
-      "num": 76186,
-      "word": "艺考严选 宫里又来新人了",
-      "onboard_time": 1772738294,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 14829,
