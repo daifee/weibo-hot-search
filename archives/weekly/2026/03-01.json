@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772710914701,
+  "endTime": 1772711769934,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2208378,
+      "num": 641939,
+      "word": "春假清明连休6天家长称很无奈",
+      "onboard_time": 1772708844,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 2137611,
       "num": 2137611,
       "word": "哈梅内伊的女儿女婿等遇难",
@@ -169,14 +177,6 @@
       "onboard_time": 1772425042,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1726851,
-      "num": 641939,
-      "word": "春假清明连休6天家长称很无奈",
-      "onboard_time": 1772708844,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1718479,
@@ -547,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 998661,
+      "num": 630092,
+      "word": "伊朗报复美以",
+      "onboard_time": 1772707102,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 993678,
       "num": 993678,
       "word": "以色列宣布袭击伊朗",
@@ -617,14 +625,6 @@
       "onboard_time": 1772676020,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 949835,
-      "num": 630092,
-      "word": "伊朗报复美以",
-      "onboard_time": 1772707102,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 948901,
@@ -1731,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 532194,
+      "num": 532194,
+      "word": "现在就出发4",
+      "onboard_time": 1772709863,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529982,
       "num": 348933,
       "word": "赖伟明学范丞丞的手势舞 照抄广告",
@@ -2785,6 +2793,14 @@
       "onboard_time": 1772498964,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 360180,
+      "num": 103992,
+      "word": "伊朗发射带1吨重弹头导弹打以色列",
+      "onboard_time": 1772711302,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 357176,
@@ -4059,14 +4075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 244321,
-      "num": 244321,
-      "word": "现在就出发4",
-      "onboard_time": 1772709863,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244221,
       "num": 255332,
       "word": "美以伊战场装备都升级了",
@@ -4321,6 +4329,14 @@
       "onboard_time": 1772543131,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229270,
+      "num": 229270,
+      "word": "肖战十日终焉这两天定妆了",
+      "onboard_time": 1772709742,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 228988,
@@ -4627,6 +4643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 212055,
+      "num": 200508,
+      "word": "朴元彬 YSL",
+      "onboard_time": 1772709444,
+      "rank": 20,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 211587,
       "num": 211587,
       "word": "吴京 战狼不干这个",
@@ -4689,14 +4713,6 @@
       "onboard_time": 1772533706,
       "rank": 41,
       "category": "网红"
-    },
-    {
-      "raw_hot": 205174,
-      "num": 205174,
-      "word": "肖战十日终焉这两天定妆了",
-      "onboard_time": 1772709742,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 204979,
@@ -4763,14 +4779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200508,
-      "num": 200508,
-      "word": "朴元彬 YSL",
-      "onboard_time": 1772709444,
-      "rank": 20,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 200082,
       "num": 398694,
       "word": "BLG战胜JDG",
@@ -4785,6 +4793,14 @@
       "onboard_time": 1772666239,
       "rank": 19,
       "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 199687,
+      "num": 620278,
+      "word": "京东2025年收入13091亿",
+      "onboard_time": 1772709623,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 198944,
@@ -5515,6 +5531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 166060,
+      "num": 156067,
+      "word": "鹤男",
+      "onboard_time": 1772709504,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165994,
       "num": 165994,
       "word": "18岁少女感染HPV多种高危型号",
@@ -5529,6 +5553,14 @@
       "onboard_time": 1772611523,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 165787,
+      "num": 114846,
+      "word": "花84万买到的140平步梯顶楼",
+      "onboard_time": 1772706682,
+      "rank": 44,
+      "category": "休闲"
     },
     {
       "raw_hot": 165765,
@@ -6747,14 +6779,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 130497,
-      "num": 396061,
-      "word": "京东2025年收入13091亿",
-      "onboard_time": 1772709623,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 130439,
       "num": 130439,
       "word": "方大同才二十三MV上线",
@@ -6953,14 +6977,6 @@
       "onboard_time": 1772413824,
       "rank": 41,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 124528,
-      "num": 114846,
-      "word": "花84万买到的140平步梯顶楼",
-      "onboard_time": 1772706682,
-      "rank": 44,
-      "category": "休闲"
     },
     {
       "raw_hot": 124389,
@@ -8435,6 +8451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99830,
+      "num": 99830,
+      "word": "大侦探NPC颜值",
+      "onboard_time": 1772710223,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99709,
       "num": 119828,
       "word": "胖东来1月为2员工发放1.5万委屈奖",
@@ -8489,6 +8513,14 @@
       "onboard_time": 1772333725,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 99328,
+      "num": 99328,
+      "word": "宋亚轩 内娱窝囊系爱豆",
+      "onboard_time": 1772707882,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 99274,
@@ -8787,6 +8819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93420,
+      "num": 93420,
+      "word": "成都GG对战FPX.ZQ",
+      "onboard_time": 1772711243,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93380,
       "num": 93380,
       "word": "全球黄金物流遭重大冲击",
@@ -8825,14 +8865,6 @@
       "onboard_time": 1772667862,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 93164,
-      "num": 93164,
-      "word": "大侦探NPC颜值",
-      "onboard_time": 1772710223,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 93058,
@@ -9073,14 +9105,6 @@
       "onboard_time": 1772614764,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90357,
-      "num": 90357,
-      "word": "宋亚轩 内娱窝囊系爱豆",
-      "onboard_time": 1772707882,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 90263,
@@ -9427,6 +9451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84264,
+      "num": 84264,
+      "word": "1岁9个月宝宝吃花生呛到脑部受损",
+      "onboard_time": 1772711542,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83902,
       "num": 83902,
       "word": "镖人 历史上最后的纯手工武侠",
@@ -9665,6 +9697,14 @@
       "onboard_time": 1772425764,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80726,
+      "num": 80726,
+      "word": "代表说农民每月200元养老金太亏了",
+      "onboard_time": 1772711363,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80578,
@@ -10113,14 +10153,6 @@
       "onboard_time": 1772708423,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74304,
-      "num": 81542,
-      "word": "鹤男",
-      "onboard_time": 1772709504,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 74260,
@@ -11411,6 +11443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 46023,
+      "num": 86934,
+      "word": "人大代表教年轻人缓解焦虑",
+      "onboard_time": 1772710822,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45982,
       "num": 61005,
       "word": "纽卡斯尔联2比1曼联",
@@ -11817,14 +11857,6 @@
       "onboard_time": 1772507245,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36982,
-      "num": 85917,
-      "word": "人大代表教年轻人缓解焦虑",
-      "onboard_time": 1772710822,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36332,
@@ -12424,6 +12456,14 @@
       "word": "在中国式现代化新征程上策马奔腾",
       "onboard_time": 1772631626,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 19639,
+      "num": 153941,
+      "word": "建议遏制算法诱导熬夜",
+      "onboard_time": 1772711243,
+      "rank": 19,
       "category": "国内时政"
     },
     {
