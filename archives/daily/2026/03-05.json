@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772694195183,
+  "endTime": 1772695010013,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 764755,
-      "num": 831911,
+      "num": 838973,
       "word": "建议尽量不要调休",
       "onboard_time": 1772687902,
       "rank": 1,
@@ -187,19 +187,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 432239,
+      "num": 432239,
+      "word": "霍启刚希望明年春晚有香港分会场",
+      "onboard_time": 1772691562,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 427849,
       "num": 999544,
       "word": "我使馆提醒近期避免前往日本",
       "onboard_time": 1772637803,
       "rank": 18,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 425217,
-      "num": 425217,
-      "word": "霍启刚希望明年春晚有香港分会场",
-      "onboard_time": 1772691562,
-      "rank": 4,
       "category": "国内时政"
     },
     {
@@ -217,6 +217,14 @@
       "onboard_time": 1772634086,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 397973,
+      "num": 246762,
+      "word": "郭晓婷王天辰结婚共创来了",
+      "onboard_time": 1772691204,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 378779,
@@ -257,14 +265,6 @@
       "onboard_time": 1772680221,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 330960,
-      "num": 246762,
-      "word": "郭晓婷王天辰结婚共创来了",
-      "onboard_time": 1772691204,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 324978,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210815,
+      "num": 210815,
+      "word": "武林外传20年后最大彩蛋",
+      "onboard_time": 1772692883,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205335,
       "num": 221112,
       "word": "Bin 先锋赛给大伙带个冠军回来",
@@ -483,6 +491,14 @@
       "category": "艺人,国内时政"
     },
     {
+      "raw_hot": 198002,
+      "num": 198002,
+      "word": "彩礼把社会责任转移成了家庭矛盾",
+      "onboard_time": 1772690243,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194921,
       "num": 194921,
       "word": "雷军回应小米手机是否涨价",
@@ -513,6 +529,14 @@
       "onboard_time": 1772667801,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 186351,
+      "num": 186351,
+      "word": "代表建议统一全国婚假天数",
+      "onboard_time": 1772692823,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184937,
@@ -571,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154915,
+      "num": 120956,
+      "word": "永远不要在谈话中自贬",
+      "onboard_time": 1772692043,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154756,
       "num": 154756,
       "word": "金毛发现自己的床躺满了小猫",
@@ -593,14 +625,6 @@
       "onboard_time": 1772677881,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149308,
-      "num": 149308,
-      "word": "武林外传20年后最大彩蛋",
-      "onboard_time": 1772692883,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 148578,
@@ -659,14 +683,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137753,
-      "num": 137753,
-      "word": "代表建议统一全国婚假天数",
-      "onboard_time": 1772692823,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137445,
       "num": 219199,
       "word": "女员工手一抖摔破3000多元飞天茅台",
@@ -715,14 +731,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 129004,
-      "num": 129004,
-      "word": "彩礼把社会责任转移成了家庭矛盾",
-      "onboard_time": 1772690243,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126690,
       "num": 126690,
       "word": "和平精英让侯明昊演嗨了",
@@ -737,14 +745,6 @@
       "onboard_time": 1772677521,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 120956,
-      "num": 120956,
-      "word": "永远不要在谈话中自贬",
-      "onboard_time": 1772692043,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 119251,
@@ -769,6 +769,14 @@
       "onboard_time": 1772628386,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117000,
+      "num": 117000,
+      "word": "女子半年未回家走廊被邻居装修了",
+      "onboard_time": 1772694682,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116960,
@@ -907,6 +915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100219,
+      "num": 100219,
+      "word": "跟上白鹿新动态",
+      "onboard_time": 1772694862,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99228,
       "num": 117014,
       "word": "孩子摔倒时家长千万不能对视",
@@ -1027,6 +1043,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87617,
+      "num": 87617,
+      "word": "皮肤HPV感染其实很常见",
+      "onboard_time": 1772690843,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 87567,
+      "num": 87567,
+      "word": "伊朗的反击愈发猛烈",
+      "onboard_time": 1772694922,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87044,
       "num": 87044,
       "word": "穆祉丞说成年前没节目",
@@ -1088,6 +1120,14 @@
       "word": "今年经济增长目标4.5%至5%",
       "onboard_time": 1772676322,
       "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 82449,
+      "num": 82449,
+      "word": "人大代表说年轻人11点一定要睡觉",
+      "onboard_time": 1772694322,
+      "rank": 35,
       "category": "国内时政"
     },
     {
@@ -1153,6 +1193,14 @@
       "onboard_time": 1772671224,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77011,
+      "num": 77011,
+      "word": "建议缩短研究生考录时间",
+      "onboard_time": 1772694442,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76598,
@@ -1251,12 +1299,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66506,
+      "num": 66506,
+      "word": "生活需要一些无用的东西",
+      "onboard_time": 1772694142,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66171,
       "num": 66171,
       "word": "情绪反扑真的不是爱",
       "onboard_time": 1772692043,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 66005,
+      "num": 184181,
+      "word": "有序扩大研究生培养规模",
+      "onboard_time": 1772689942,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65830,
@@ -1275,28 +1339,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 64646,
-      "num": 86628,
-      "word": "皮肤HPV感染其实很常见",
-      "onboard_time": 1772690843,
-      "rank": 39,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 62831,
       "num": 217851,
       "word": "小狗做雾化不理解但很配合",
       "onboard_time": 1772634145,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62086,
-      "num": 184181,
-      "word": "有序扩大研究生培养规模",
-      "onboard_time": 1772689942,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62069,
@@ -1313,14 +1361,6 @@
       "onboard_time": 1772692761,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 61681,
-      "num": 61681,
-      "word": "生活需要一些无用的东西",
-      "onboard_time": 1772694142,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 61413,
@@ -1609,6 +1649,14 @@
       "onboard_time": 1772619986,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 14440,
+      "num": 116912,
+      "word": "董明珠说不主张加班",
+      "onboard_time": 1772694743,
+      "rank": 19,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
