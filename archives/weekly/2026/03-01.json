@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772668404343,
+  "endTime": 1772678308346,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1182250,
+      "num": 386780,
+      "word": "伊朗袭击以国防部大楼",
+      "onboard_time": 1772667380,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1181908,
       "num": 401592,
       "word": "苹果发布会",
@@ -737,14 +745,6 @@
       "onboard_time": 1772615723,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 811527,
-      "num": 290419,
-      "word": "伊朗袭击以国防部大楼",
-      "onboard_time": 1772667380,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 809391,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1772363784,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 649725,
+      "num": 1103956,
+      "word": "2026政府工作报告",
+      "onboard_time": 1772675183,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 647463,
@@ -1904,6 +1912,14 @@
       "word": "伊朗纳坦兹核设施遭破坏",
       "onboard_time": 1772531067,
       "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 441404,
+      "num": 441404,
+      "word": "普京说考虑主动给欧洲断气",
+      "onboard_time": 1772668702,
+      "rank": 3,
       "category": "国际时政"
     },
     {
@@ -2755,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324978,
+      "num": 249073,
+      "word": "喊卡了姐夫还来个额头吻",
+      "onboard_time": 1772672364,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 324230,
       "num": 324230,
       "word": "多方回应女子去世后被嫁弟弟",
@@ -2809,6 +2833,14 @@
       "onboard_time": 1772275884,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319968,
+      "num": 249018,
+      "word": "没见过气血虚成这样的",
+      "onboard_time": 1772669423,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 319541,
@@ -3355,6 +3387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269940,
+      "num": 269940,
+      "word": "建议禁止性侵未成年罪犯进入幼儿园",
+      "onboard_time": 1772676020,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 269893,
       "num": 228221,
       "word": "美方披露战斗受损情况",
@@ -3539,6 +3579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 254817,
+      "num": 244623,
+      "word": "曝十日终焉主演王天辰",
+      "onboard_time": 1772669423,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254790,
       "num": 252000,
       "word": "杨超越惊人的腿长和比例",
@@ -3561,6 +3609,14 @@
       "onboard_time": 1772279843,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 252569,
+      "num": 252569,
+      "word": "物业费越来越难收",
+      "onboard_time": 1772665880,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250994,
@@ -3713,14 +3769,6 @@
       "onboard_time": 1772617583,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237538,
-      "num": 237538,
-      "word": "物业费越来越难收",
-      "onboard_time": 1772665880,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 237015,
@@ -4123,6 +4171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215802,
+      "num": 215802,
+      "word": "曝十日终焉领衔主演艾米",
+      "onboard_time": 1772670864,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213084,
       "num": 396934,
       "word": "18名中国公民顺利撤离伊朗",
@@ -4217,6 +4273,14 @@
       "onboard_time": 1772539531,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202807,
+      "num": 202807,
+      "word": "十四届全国人大四次会议开幕会",
+      "onboard_time": 1772672663,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 202610,
@@ -4387,6 +4451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194675,
+      "num": 184512,
+      "word": "周杰伦或将本月发新专辑",
+      "onboard_time": 1772672304,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194526,
       "num": 153125,
       "word": "宋亚轩复刻少年与花",
@@ -4425,6 +4497,14 @@
       "onboard_time": 1772433323,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 190578,
+      "num": 190578,
+      "word": "什么水果一听就很东北",
+      "onboard_time": 1772667801,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 190221,
@@ -4675,6 +4755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172747,
+      "num": 165630,
+      "word": "女子毕业时120斤工作后胖到200斤",
+      "onboard_time": 1772675302,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171792,
       "num": 163133,
       "word": "郭晓婷王天辰 第二十八年春",
@@ -4745,6 +4833,14 @@
       "onboard_time": 1772591784,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169751,
+      "num": 169751,
+      "word": "伊朗总统强调尊重邻国主权",
+      "onboard_time": 1772675842,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169727,
@@ -5137,6 +5233,14 @@
       "onboard_time": 1772376446,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 155223,
+      "num": 155223,
+      "word": "居民基础养老金月再提20元",
+      "onboard_time": 1772677641,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155160,
@@ -5787,6 +5891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136802,
+      "num": 136802,
+      "word": "章若楠出发参加巴黎时装周",
+      "onboard_time": 1772675842,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 136695,
       "num": 430089,
       "word": "EDG张钊",
@@ -5899,6 +6011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133321,
+      "num": 130719,
+      "word": "狗狗追车几公里上车后生下狗宝宝",
+      "onboard_time": 1772678183,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133279,
       "num": 130031,
       "word": "全军启用预备役人员证",
@@ -5913,6 +6033,14 @@
       "onboard_time": 1772434102,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132815,
+      "num": 132815,
+      "word": "第一场代表通道采访",
+      "onboard_time": 1772669362,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132587,
@@ -5993,6 +6121,14 @@
       "onboard_time": 1772323220,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130013,
+      "num": 130013,
+      "word": "岳雨婷时装周出片质量",
+      "onboard_time": 1772677940,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 129934,
@@ -6265,6 +6401,14 @@
       "onboard_time": 1772371643,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121887,
+      "num": 249161,
+      "word": "落实职工带薪错峰休假制度",
+      "onboard_time": 1772677521,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121477,
@@ -7739,6 +7883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93572,
+      "num": 387749,
+      "word": "2025年GDP增长5%",
+      "onboard_time": 1772673383,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93554,
       "num": 93554,
       "word": "世界会偏爱多问一嘴的人",
@@ -7753,6 +7905,14 @@
       "onboard_time": 1772355863,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93380,
+      "num": 93380,
+      "word": "全球黄金物流遭重大冲击",
+      "onboard_time": 1772674401,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 93322,
@@ -7777,6 +7937,14 @@
       "onboard_time": 1772597126,
       "rank": 42,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 93189,
+      "num": 93189,
+      "word": "iPhone17e上手",
+      "onboard_time": 1772667862,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 93058,
@@ -8043,6 +8211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89077,
+      "num": 89077,
+      "word": "伊朗表示无意与美谈判",
+      "onboard_time": 1772668462,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88513,
       "num": 132362,
       "word": "王楚钦孙颖莎新加坡城市宣传照",
@@ -8105,6 +8281,14 @@
       "onboard_time": 1772521105,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87044,
+      "num": 87044,
+      "word": "穆祉丞说成年前没节目",
+      "onboard_time": 1772673982,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 87001,
@@ -8411,6 +8595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81256,
+      "num": 81256,
+      "word": "育儿补贴惠及3000多万婴幼儿",
+      "onboard_time": 1772673681,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81196,
       "num": 81196,
       "word": "我国综合国力再上新台阶",
@@ -8531,6 +8723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78070,
+      "num": 78070,
+      "word": "张凯丽说短剧不能糊弄观众",
+      "onboard_time": 1772674641,
+      "rank": 46,
+      "category": "艺人,国内时政"
+    },
+    {
       "raw_hot": 78017,
       "num": 287957,
       "word": "鹿晗元宵节撕拉片",
@@ -8571,6 +8771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77487,
+      "num": 77487,
+      "word": "周雨彤含泪分享太平年创作感悟",
+      "onboard_time": 1772677701,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77459,
       "num": 116365,
       "word": "中国女足开门红",
@@ -8585,6 +8793,14 @@
       "onboard_time": 1772556563,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77422,
+      "num": 72710,
+      "word": "瞿桦的初恋",
+      "onboard_time": 1772671224,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 77110,
@@ -8809,6 +9025,14 @@
       "onboard_time": 1772525491,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72810,
+      "num": 72810,
+      "word": "汪涵读省委书记亲笔信",
+      "onboard_time": 1772671284,
+      "rank": 48,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 72713,
@@ -9075,14 +9299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67545,
-      "num": 67545,
-      "word": "iPhone17e上手",
-      "onboard_time": 1772667862,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 67374,
       "num": 258347,
       "word": "你可曾在雪山上救过一只狐狸",
@@ -9139,14 +9355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66203,
-      "num": 66203,
-      "word": "什么水果一听就很东北",
-      "onboard_time": 1772667801,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 65992,
       "num": 157518,
       "word": "刘宇宁满36减18",
@@ -9177,6 +9385,14 @@
       "onboard_time": 1772509107,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64741,
+      "num": 220197,
+      "word": "支持有条件地方推广中小学春秋假",
+      "onboard_time": 1772675120,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64712,
@@ -9401,6 +9617,14 @@
       "onboard_time": 1772521528,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60799,
+      "num": 807986,
+      "word": "今年经济增长目标4.5%至5%",
+      "onboard_time": 1772676322,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60647,
