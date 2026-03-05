@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772690140502,
+  "endTime": 1772690942109,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -67,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 764755,
+      "num": 831911,
+      "word": "建议尽量不要调休",
+      "onboard_time": 1772687902,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 746716,
       "num": 462117,
       "word": "20岁小伙长期戴骨传导耳机致聋",
@@ -113,14 +121,6 @@
       "onboard_time": 1772666360,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 527083,
-      "num": 817074,
-      "word": "建议尽量不要调休",
-      "onboard_time": 1772687902,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 522023,
@@ -491,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184127,
+      "num": 184127,
+      "word": "文咏珊出个国帅成啥了",
+      "onboard_time": 1772686345,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 180399,
       "num": 180399,
       "word": "140斤狗送狗肉馆途中女子600元买下",
@@ -505,14 +513,6 @@
       "onboard_time": 1772675302,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175822,
-      "num": 156014,
-      "word": "文咏珊出个国帅成啥了",
-      "onboard_time": 1772686345,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 175818,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131673,
+      "num": 131673,
+      "word": "伊朗高官让特朗普想想美以谁优先",
+      "onboard_time": 1772690482,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130013,
       "num": 130013,
       "word": "岳雨婷时装周出片质量",
@@ -681,6 +689,14 @@
       "onboard_time": 1772677521,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119251,
+      "num": 119251,
+      "word": "未来真正的竞争力将转向语言型人才",
+      "onboard_time": 1772688022,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 118869,
@@ -835,14 +851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 100130,
-      "num": 100130,
-      "word": "未来真正的竞争力将转向语言型人才",
-      "onboard_time": 1772688022,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 99228,
       "num": 117014,
       "word": "孩子摔倒时家长千万不能对视",
@@ -881,6 +889,14 @@
       "onboard_time": 1772673383,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93452,
+      "num": 93452,
+      "word": "哈蒙德被中国辅助驾驶连连惊出表情包",
+      "onboard_time": 1772690601,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 93422,
@@ -961,6 +977,14 @@
       "onboard_time": 1772673982,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86645,
+      "num": 86645,
+      "word": "彩礼把社会责任转移成了家庭矛盾",
+      "onboard_time": 1772690243,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86531,
@@ -1107,6 +1131,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 71024,
+      "num": 86621,
+      "word": "苹果客服回应iPhone一个月褪色",
+      "onboard_time": 1772688923,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 70753,
       "num": 505115,
       "word": "第一场部长通道",
@@ -1172,7 +1204,7 @@
     },
     {
       "raw_hot": 62069,
-      "num": 162705,
+      "num": 186007,
       "word": "麦吉丽首发3核PDRN",
       "onboard_time": 1772689344,
       "rank": 19,
@@ -1315,6 +1347,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36332,
+      "num": 349974,
+      "word": "应对人工智能对就业影响",
+      "onboard_time": 1772689942,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 35889,
+      "num": 184181,
+      "word": "有序扩大研究生培养规模",
+      "onboard_time": 1772689942,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35017,
       "num": 219654,
       "word": "中国拥有全球门类最齐全制造业体系",
@@ -1371,6 +1419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28630,
+      "num": 86628,
+      "word": "皮肤HPV感染其实很常见",
+      "onboard_time": 1772690843,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 28200,
       "num": 67093,
       "word": "刘宇宁拍照要帅动作要快",
@@ -1395,14 +1451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22455,
-      "num": 119801,
-      "word": "有序扩大研究生培养规模",
-      "onboard_time": 1772689942,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21710,
       "num": 67452,
       "word": "王嘉尔 TecatePalNorte",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1772620884,
       "rank": 48,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 19399,
-      "num": 154159,
-      "word": "应对人工智能对就业影响",
-      "onboard_time": 1772689942,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17720,
