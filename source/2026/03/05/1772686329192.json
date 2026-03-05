@@ -1,0 +1,410 @@
+{
+  "runTime": 1772686329192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 433752,
+        "num": 1069400,
+        "word": "中国芯片攻关取得新突破",
+        "onboard_time": 1772683524,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 361132,
+        "num": 750959,
+        "word": "推进祖国统一",
+        "onboard_time": 1772678842,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92776,
+        "num": 747659,
+        "word": "中国2025成绩单",
+        "onboard_time": 1772681482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343401,
+        "num": 719037,
+        "word": "电影我的妈耶定档",
+        "onboard_time": 1772680221,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233006,
+        "num": 701399,
+        "word": "种地吧直播",
+        "onboard_time": 1772682264,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 753856,
+        "num": 688339,
+        "word": "伊朗袭击以国防部大楼",
+        "onboard_time": 1772667380,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 678501,
+        "num": 678501,
+        "word": "奶奶你是一块金子放错了地方",
+        "onboard_time": 1772682203,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242720,
+        "num": 628580,
+        "word": "阿里已批准林俊旸离职",
+        "onboard_time": 1772682323,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 33338,
+        "num": 590190,
+        "word": "方寸之间看见中国",
+        "onboard_time": 1772681482,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224699,
+        "num": 559241,
+        "word": "2026政府工作报告",
+        "onboard_time": 1772675183,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 960271,
+        "num": 470673,
+        "word": "建议禁止性侵未成年罪犯进入幼儿园",
+        "onboard_time": 1772676020,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 468016,
+        "num": 468016,
+        "word": "小偷来了都要先玩俩小时",
+        "onboard_time": 1772683943,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381038,
+        "num": 381038,
+        "word": "懂中日韩语的都沉默了",
+        "onboard_time": 1772683883,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238182,
+        "num": 238182,
+        "word": "伊朗总统强调尊重邻国主权",
+        "onboard_time": 1772675842,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22629,
+        "num": 225364,
+        "word": "政府工作报告有二维码",
+        "onboard_time": 1772685925,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223728,
+        "num": 223728,
+        "word": "没见过气血虚成这样的",
+        "onboard_time": 1772669423,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194921,
+        "num": 194921,
+        "word": "雷军回应小米手机是否涨价",
+        "onboard_time": 1772680463,
+        "rank": 16,
+        "category": "国内时政,数码"
+      },
+      {
+        "raw_hot": 180399,
+        "num": 180399,
+        "word": "140斤狗送狗肉馆途中女子600元买下",
+        "onboard_time": 1772681603,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170910,
+        "num": 170910,
+        "word": "吴京 公了别人嬷了自己",
+        "onboard_time": 1772684786,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164291,
+        "num": 164291,
+        "word": "Xteam对战北京WBG",
+        "onboard_time": 1772685624,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 393172,
+        "num": 164082,
+        "word": "迪丽热巴报平安",
+        "onboard_time": 1772627666,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162030,
+        "num": 162030,
+        "word": "原著里方穆静是妍妍的偶像",
+        "onboard_time": 1772680343,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158706,
+        "num": 158706,
+        "word": "终于明白项羽为什么不肯过江东",
+        "onboard_time": 1772684664,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151650,
+        "num": 151650,
+        "word": "金毛发现自己的床躺满了小猫",
+        "onboard_time": 1772683824,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150489,
+        "num": 150489,
+        "word": "逐玉",
+        "onboard_time": 1772677881,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140615,
+        "num": 140615,
+        "word": "金饰克价涨到1605元",
+        "onboard_time": 1772683703,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135491,
+        "num": 135491,
+        "word": "普京说考虑主动给欧洲断气",
+        "onboard_time": 1772668702,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65830,
+        "num": 133491,
+        "word": "魏牌V9X宣布代言人魏建军",
+        "onboard_time": 1772681663,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131956,
+        "num": 131956,
+        "word": "办公室被张柏芝美貌暴击",
+        "onboard_time": 1772683524,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118482,
+        "num": 118482,
+        "word": "曝十日终焉领衔主演艾米",
+        "onboard_time": 1772670864,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157027,
+        "num": 117816,
+        "word": "建议三孩每月补贴5000元至3岁",
+        "onboard_time": 1772685865,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117092,
+        "num": 117092,
+        "word": "十四届全国人大四次会议开幕会",
+        "onboard_time": 1772672663,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105860,
+        "num": 117080,
+        "word": "惊蛰",
+        "onboard_time": 1772666419,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103287,
+        "num": 117057,
+        "word": "张凌赫是懂我们想看什么的",
+        "onboard_time": 1772684064,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103017,
+        "num": 117044,
+        "word": "医院回应63岁高龄孕妇产女",
+        "onboard_time": 1772680761,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99228,
+        "num": 117014,
+        "word": "孩子摔倒时家长千万不能对视",
+        "onboard_time": 1772685444,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97149,
+        "num": 116993,
+        "word": "居民基础养老金月再提20元",
+        "onboard_time": 1772677641,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86854,
+        "num": 116980,
+        "word": "什么水果一听就很东北",
+        "onboard_time": 1772667801,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85620,
+        "num": 116963,
+        "word": "林孝埈捐赠头盔",
+        "onboard_time": 1772682863,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82275,
+        "num": 116942,
+        "word": "政府工作报告",
+        "onboard_time": 1772680943,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80837,
+        "num": 116927,
+        "word": "第一场代表通道采访",
+        "onboard_time": 1772669362,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78144,
+        "num": 116897,
+        "word": "工作留痕的重要性",
+        "onboard_time": 1772682082,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76598,
+        "num": 116888,
+        "word": "魔兽世界",
+        "onboard_time": 1772686164,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76584,
+        "num": 116855,
+        "word": "加强初婚初育住房保障",
+        "onboard_time": 1772678722,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76519,
+        "num": 116852,
+        "word": "当你坐车睡着之后",
+        "onboard_time": 1772686105,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75007,
+        "num": 116818,
+        "word": "南方绿化带是要考研吗",
+        "onboard_time": 1772679503,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70493,
+        "num": 116808,
+        "word": "普通高中学位供给将增加",
+        "onboard_time": 1772684724,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74740,
+        "num": 116793,
+        "word": "苹果新品",
+        "onboard_time": 1772666660,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 73122,
+        "num": 116772,
+        "word": "建议给每户发2000元家政消费券",
+        "onboard_time": 1772684305,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70753,
+        "num": 116754,
+        "word": "第一场部长通道",
+        "onboard_time": 1772680343,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大四次会议开幕会举行#"
+    }
+  }
+}

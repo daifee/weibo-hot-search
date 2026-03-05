@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772680513210,
+  "endTime": 1772686329192,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1182250,
-      "num": 502263,
+      "num": 688339,
       "word": "伊朗袭击以国防部大楼",
       "onboard_time": 1772667380,
       "rank": 25,
@@ -33,6 +33,14 @@
       "onboard_time": 1772605223,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 960271,
+      "num": 490124,
+      "word": "建议禁止性侵未成年罪犯进入幼儿园",
+      "onboard_time": 1772676020,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 853944,
@@ -67,6 +75,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 678501,
+      "num": 678501,
+      "word": "奶奶你是一块金子放错了地方",
+      "onboard_time": 1772682203,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 649725,
       "num": 1103956,
       "word": "2026政府工作报告",
@@ -84,19 +100,19 @@
     },
     {
       "raw_hot": 522023,
-      "num": 522023,
+      "num": 750959,
       "word": "推进祖国统一",
       "onboard_time": 1772678842,
       "rank": 3,
       "category": "国内时政"
     },
     {
-      "raw_hot": 490124,
-      "num": 490124,
-      "word": "建议禁止性侵未成年罪犯进入幼儿园",
-      "onboard_time": 1772676020,
-      "rank": 7,
-      "category": "国内时政"
+      "raw_hot": 468016,
+      "num": 468016,
+      "word": "小偷来了都要先玩俩小时",
+      "onboard_time": 1772683943,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 441404,
@@ -105,6 +121,14 @@
       "onboard_time": 1772668702,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 433752,
+      "num": 1069400,
+      "word": "中国芯片攻关取得新突破",
+      "onboard_time": 1772683524,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 432507,
@@ -139,6 +163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 381038,
+      "num": 381038,
+      "word": "懂中日韩语的都沉默了",
+      "onboard_time": 1772683883,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 378145,
       "num": 443382,
       "word": "霸王茶姬口令",
@@ -161,6 +193,14 @@
       "onboard_time": 1772640983,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343401,
+      "num": 719037,
+      "word": "电影我的妈耶定档",
+      "onboard_time": 1772680221,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 324978,
@@ -243,12 +283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242720,
+      "num": 628580,
+      "word": "阿里已批准林俊旸离职",
+      "onboard_time": 1772682323,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 233476,
       "num": 219308,
       "word": "阿里通义实验室紧急召开会议",
       "onboard_time": 1772634505,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 233006,
+      "num": 701399,
+      "word": "种地吧直播",
+      "onboard_time": 1772682264,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 228288,
@@ -323,6 +379,14 @@
       "category": "艺人,国内时政"
     },
     {
+      "raw_hot": 194921,
+      "num": 194921,
+      "word": "雷军回应小米手机是否涨价",
+      "onboard_time": 1772680463,
+      "rank": 48,
+      "category": "国内时政,数码"
+    },
+    {
       "raw_hot": 194806,
       "num": 194806,
       "word": "惊蛰",
@@ -355,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180399,
+      "num": 180399,
+      "word": "140斤狗送狗肉馆途中女子600元买下",
+      "onboard_time": 1772681603,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180246,
       "num": 165630,
       "word": "女子毕业时120斤工作后胖到200斤",
@@ -372,7 +444,7 @@
     },
     {
       "raw_hot": 175731,
-      "num": 152180,
+      "num": 162030,
       "word": "原著里方穆静是妍妍的偶像",
       "onboard_time": 1772680343,
       "rank": 24,
@@ -387,6 +459,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170910,
+      "num": 170910,
+      "word": "吴京 公了别人嬷了自己",
+      "onboard_time": 1772684786,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164291,
+      "num": 164291,
+      "word": "Xteam对战北京WBG",
+      "onboard_time": 1772685624,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 158706,
+      "num": 158706,
+      "word": "终于明白项羽为什么不肯过江东",
+      "onboard_time": 1772684664,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 157027,
+      "num": 117816,
+      "word": "建议三孩每月补贴5000元至3岁",
+      "onboard_time": 1772685865,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151770,
       "num": 151770,
       "word": "加强初婚初育住房保障",
@@ -395,12 +499,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 151190,
-      "num": 151190,
-      "word": "电影我的妈耶定档",
-      "onboard_time": 1772680221,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 151650,
+      "num": 151650,
+      "word": "金毛发现自己的床躺满了小猫",
+      "onboard_time": 1772683824,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 150489,
+      "num": 150489,
+      "word": "逐玉",
+      "onboard_time": 1772677881,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 148578,
@@ -408,14 +520,6 @@
       "word": "给你宇宙",
       "onboard_time": 1772637444,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 148230,
-      "num": 148230,
-      "word": "逐玉",
-      "onboard_time": 1772677881,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -451,6 +555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140615,
+      "num": 140615,
+      "word": "金饰克价涨到1605元",
+      "onboard_time": 1772683703,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137445,
       "num": 219199,
       "word": "女员工手一抖摔破3000多元飞天茅台",
@@ -481,6 +593,14 @@
       "onboard_time": 1772628386,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131956,
+      "num": 131956,
+      "word": "办公室被张柏芝美貌暴击",
+      "onboard_time": 1772683524,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 130013,
@@ -588,19 +708,35 @@
     },
     {
       "raw_hot": 103785,
-      "num": 103785,
+      "num": 116818,
       "word": "南方绿化带是要考研吗",
       "onboard_time": 1772679503,
       "rank": 38,
       "category": "幽默"
     },
     {
+      "raw_hot": 103287,
+      "num": 117057,
+      "word": "张凌赫是懂我们想看什么的",
+      "onboard_time": 1772684064,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103021,
-      "num": 103021,
+      "num": 116793,
       "word": "苹果新品",
       "onboard_time": 1772666660,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103017,
+      "num": 117044,
+      "word": "医院回应63岁高龄孕妇产女",
+      "onboard_time": 1772680761,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100329,
@@ -609,6 +745,14 @@
       "onboard_time": 1772614944,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99228,
+      "num": 117014,
+      "word": "孩子摔倒时家长千万不能对视",
+      "onboard_time": 1772685444,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 97783,
@@ -659,6 +803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92776,
+      "num": 747659,
+      "word": "中国2025成绩单",
+      "onboard_time": 1772681482,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91759,
       "num": 91759,
       "word": "上班vlog到底是谁在拍",
@@ -691,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85620,
+      "num": 116963,
+      "word": "林孝埈捐赠头盔",
+      "onboard_time": 1772682863,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84419,
       "num": 227110,
       "word": "保时捷Taycan",
@@ -715,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82275,
+      "num": 116942,
+      "word": "政府工作报告",
+      "onboard_time": 1772680943,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81939,
       "num": 81939,
       "word": "冯琳王德发分手",
@@ -731,20 +899,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 78739,
-      "num": 78739,
-      "word": "雷军回应小米手机是否涨价",
-      "onboard_time": 1772680463,
-      "rank": 48,
-      "category": "国内时政,数码"
-    },
-    {
       "raw_hot": 78377,
       "num": 78377,
       "word": "周雨彤含泪分享太平年创作感悟",
       "onboard_time": 1772677701,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78144,
+      "num": 116897,
+      "word": "工作留痕的重要性",
+      "onboard_time": 1772682082,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 78070,
@@ -763,12 +931,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76598,
+      "num": 116888,
+      "word": "魔兽世界",
+      "onboard_time": 1772686164,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 76519,
+      "num": 116852,
+      "word": "当你坐车睡着之后",
+      "onboard_time": 1772686105,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73122,
+      "num": 116772,
+      "word": "建议给每户发2000元家政消费券",
+      "onboard_time": 1772684305,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72810,
       "num": 72810,
       "word": "汪涵读省委书记亲笔信",
       "onboard_time": 1772671284,
       "rank": 48,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 70753,
+      "num": 505115,
+      "word": "第一场部长通道",
+      "onboard_time": 1772680343,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 70493,
+      "num": 116808,
+      "word": "普通高中学位供给将增加",
+      "onboard_time": 1772684724,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67556,
@@ -785,6 +993,14 @@
       "onboard_time": 1772621483,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 65830,
+      "num": 133491,
+      "word": "魏牌V9X宣布代言人魏建军",
+      "onboard_time": 1772681663,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 64741,
@@ -947,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33338,
+      "num": 590190,
+      "word": "方寸之间看见中国",
+      "onboard_time": 1772681482,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33085,
       "num": 224748,
       "word": "建议建立网络微短剧标准",
@@ -985,6 +1209,14 @@
       "onboard_time": 1772646076,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22629,
+      "num": 225364,
+      "word": "政府工作报告有二维码",
+      "onboard_time": 1772685925,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21710,
@@ -1049,14 +1281,6 @@
       "onboard_time": 1772619986,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 7882,
-      "num": 505115,
-      "word": "第一场部长通道",
-      "onboard_time": 1772680343,
-      "rank": 4,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -1065,6 +1289,9 @@
     },
     {
       "word": "#全国政协十四届四次会议开幕#"
+    },
+    {
+      "word": "#十四届全国人大四次会议开幕会举行#"
     }
   ]
 }
