@@ -1,0 +1,410 @@
+{
+  "runTime": 1772723590426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 418352,
+        "num": 1066936,
+        "word": "建议短视频凌晨1点至5点深夜静默",
+        "onboard_time": 1772707284,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295089,
+        "num": 782005,
+        "word": "建议不调休的代表被记者围住了",
+        "onboard_time": 1772698584,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69465,
+        "num": 621026,
+        "word": "中国将在哪些方向发力",
+        "onboard_time": 1772717541,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 692362,
+        "num": 474380,
+        "word": "春假清明连休6天家长称很无奈",
+        "onboard_time": 1772708844,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 274269,
+        "num": 274269,
+        "word": "香港没有调休",
+        "onboard_time": 1772720004,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1093502,
+        "num": 265676,
+        "word": "伊朗称成功突破以色列七层防御",
+        "onboard_time": 1772718143,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152098,
+        "num": 258513,
+        "word": "QG五虎十年再合体",
+        "onboard_time": 1772720125,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132932,
+        "num": 254092,
+        "word": "17岁男生发现新物种筷子蛇登上SCI",
+        "onboard_time": 1772723303,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23635,
+        "num": 239048,
+        "word": "关键词速览政府工作报告",
+        "onboard_time": 1772717541,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32826,
+        "num": 232785,
+        "word": "建议对吸纳超龄劳动者企业给予补贴",
+        "onboard_time": 1772722703,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1080044,
+        "num": 225356,
+        "word": "伊朗发射带1吨重弹头导弹打以色列",
+        "onboard_time": 1772711302,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 543024,
+        "num": 219121,
+        "word": "两女子相隔7公里长得一模一样",
+        "onboard_time": 1772715621,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212182,
+        "num": 212182,
+        "word": "高铁一等座4元二等座8元",
+        "onboard_time": 1772698822,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203896,
+        "num": 203896,
+        "word": "鹤男",
+        "onboard_time": 1772709504,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200593,
+        "num": 200593,
+        "word": "郭艾伦受伤",
+        "onboard_time": 1772717722,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44855,
+        "num": 175031,
+        "word": "腾势Z9GT充电9分钟续航超千公里",
+        "onboard_time": 1772719463,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167668,
+        "num": 167668,
+        "word": "坐飞机时发现邻座是只耶耶",
+        "onboard_time": 1772719164,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163096,
+        "num": 163096,
+        "word": "肖战十日终焉这两天定妆了",
+        "onboard_time": 1772709742,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153913,
+        "num": 163088,
+        "word": "代表说农民每月200元养老金太亏了",
+        "onboard_time": 1772711363,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43898,
+        "num": 162865,
+        "word": "建议加大对青年人的住房支持力度",
+        "onboard_time": 1772722703,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 542828,
+        "num": 162676,
+        "word": "现在就出发4",
+        "onboard_time": 1772709863,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475059,
+        "num": 162520,
+        "word": "池昌旭 韩国酵母免疫者",
+        "onboard_time": 1772717963,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351404,
+        "num": 162398,
+        "word": "33岁女子长相幼态常被认为是小学生",
+        "onboard_time": 1772717484,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291489,
+        "num": 162221,
+        "word": "伊朗每天都向以色列发射导弹",
+        "onboard_time": 1772716342,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130063,
+        "num": 161919,
+        "word": "方程豹",
+        "onboard_time": 1772721804,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 249272,
+        "num": 161804,
+        "word": "伊朗避实就虚打击美军",
+        "onboard_time": 1772714723,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233796,
+        "num": 161597,
+        "word": "惊蛰无声",
+        "onboard_time": 1772715443,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201579,
+        "num": 161546,
+        "word": "纯真年代的爱情 烂尾",
+        "onboard_time": 1772702242,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145393,
+        "num": 161386,
+        "word": "伊朗反击进入新阶段",
+        "onboard_time": 1772717243,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199893,
+        "num": 161196,
+        "word": "陈哲远 再不救教资要融化了",
+        "onboard_time": 1772720545,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511880,
+        "num": 161045,
+        "word": "伊朗学校葬礼上的中国书包令人心碎",
+        "onboard_time": 1772722824,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160883,
+        "num": 160883,
+        "word": "攻玉主演 侯明昊鹤男",
+        "onboard_time": 1772706502,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154230,
+        "num": 154230,
+        "word": "田曦薇转圈出场",
+        "onboard_time": 1772716823,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141495,
+        "num": 154217,
+        "word": "年入近50万律师挤20小时绿皮火车看书",
+        "onboard_time": 1772722764,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123127,
+        "num": 154206,
+        "word": "叶璇都演婆婆了刘晓庆还在演少女",
+        "onboard_time": 1772719104,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119938,
+        "num": 154192,
+        "word": "WBG战胜AL",
+        "onboard_time": 1772714723,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116583,
+        "num": 154176,
+        "word": "真正长大了好像就是这样",
+        "onboard_time": 1772715143,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116196,
+        "num": 154149,
+        "word": "比亚迪全球首创闪充桩来了",
+        "onboard_time": 1772715922,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108998,
+        "num": 154146,
+        "word": "建议最低法定年假从5天提高到10天",
+        "onboard_time": 1772721503,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14631,
+        "num": 154128,
+        "word": "推广中小学春秋假面临哪些堵点",
+        "onboard_time": 1772723483,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108296,
+        "num": 154116,
+        "word": "女子收到刮刮乐生日花束刮出80万元",
+        "onboard_time": 1772715982,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106466,
+        "num": 154100,
+        "word": "租房能不能别再开广角拍房子",
+        "onboard_time": 1772702843,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 105730,
+        "num": 154077,
+        "word": "美以超7套先进雷达系统被摧毁",
+        "onboard_time": 1772721264,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92251,
+        "num": 154052,
+        "word": "比Deepfake更严重的AI出现了",
+        "onboard_time": 1772702542,
+        "rank": 43,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 86138,
+        "num": 154045,
+        "word": "薛之谦万兽之王长沙站开启预售",
+        "onboard_time": 1772707702,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83590,
+        "num": 154031,
+        "word": "伊朗报复美以",
+        "onboard_time": 1772707102,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86133,
+        "num": 154009,
+        "word": "吕严我家那小子录制路透",
+        "onboard_time": 1772716101,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32861,
+        "num": 153999,
+        "word": "八旬老人称一辈子要做100万件好事",
+        "onboard_time": 1772722284,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 81106,
+        "num": 153973,
+        "word": "花海已经年过半五十",
+        "onboard_time": 1772720125,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80053,
+        "num": 153967,
+        "word": "JDG",
+        "onboard_time": 1772721985,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加江苏代表团审议#"
+    }
+  }
+}

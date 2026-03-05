@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772722556480,
+  "endTime": 1772723590426,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -487,6 +487,14 @@
       "num": 404306,
       "word": "伊朗玫瑰宫遭袭前后对比",
       "onboard_time": 1772633666,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1093502,
+      "num": 458996,
+      "word": "伊朗称成功突破以色列七层防御",
+      "onboard_time": 1772718143,
       "rank": 5,
       "category": "国际时政"
     },
@@ -1819,6 +1827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 511880,
+      "num": 161045,
+      "word": "伊朗学校葬礼上的中国书包令人心碎",
+      "onboard_time": 1772722824,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 511143,
       "num": 511143,
       "word": "比Deepfake更严重的AI出现了",
@@ -2113,14 +2129,6 @@
       "onboard_time": 1772375005,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 458996,
-      "num": 458996,
-      "word": "伊朗称成功突破以色列七层防御",
-      "onboard_time": 1772718143,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 457794,
@@ -3787,6 +3795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 274269,
+      "num": 519535,
+      "word": "香港没有调休",
+      "onboard_time": 1772720004,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 274103,
       "num": 608806,
       "word": "纯真年代的爱情",
@@ -4081,14 +4097,6 @@
       "onboard_time": 1772665880,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251154,
-      "num": 519535,
-      "word": "香港没有调休",
-      "onboard_time": 1772720004,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 251039,
@@ -5651,6 +5659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167668,
+      "num": 373428,
+      "word": "坐飞机时发现邻座是只耶耶",
+      "onboard_time": 1772719164,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167616,
       "num": 167616,
       "word": "汪东城方严正声明",
@@ -6291,14 +6307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147835,
-      "num": 373428,
-      "word": "坐飞机时发现邻座是只耶耶",
-      "onboard_time": 1772719164,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 147785,
       "num": 124015,
       "word": "你是张栋梁那他是谁",
@@ -6585,6 +6593,14 @@
       "onboard_time": 1772334207,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141495,
+      "num": 154217,
+      "word": "年入近50万律师挤20小时绿皮火车看书",
+      "onboard_time": 1772722764,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141416,
@@ -6891,6 +6907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132932,
+      "num": 254092,
+      "word": "17岁男生发现新物种筷子蛇登上SCI",
+      "onboard_time": 1772723303,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132587,
       "num": 132587,
       "word": "耙耙柑的本名叫春见",
@@ -6993,6 +7017,14 @@
       "onboard_time": 1772323220,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130063,
+      "num": 372792,
+      "word": "方程豹",
+      "onboard_time": 1772721804,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 130013,
@@ -8027,14 +8059,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 109358,
-      "num": 372792,
-      "word": "方程豹",
-      "onboard_time": 1772721804,
-      "rank": 42,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 109344,
       "num": 148504,
       "word": "西班牙首相重申反战立场",
@@ -8065,6 +8089,14 @@
       "onboard_time": 1772431886,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108998,
+      "num": 455925,
+      "word": "建议最低法定年假从5天提高到10天",
+      "onboard_time": 1772721503,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108902,
@@ -9971,6 +10003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81106,
+      "num": 153973,
+      "word": "花海已经年过半五十",
+      "onboard_time": 1772720125,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81037,
       "num": 218615,
       "word": "终于懂什么叫社交圣母症了",
@@ -10065,6 +10105,14 @@
       "onboard_time": 1772521767,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80053,
+      "num": 153967,
+      "word": "JDG",
+      "onboard_time": 1772721985,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 79934,
@@ -11259,14 +11307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 61335,
-      "num": 455925,
-      "word": "建议最低法定年假从5天提高到10天",
-      "onboard_time": 1772721503,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 61189,
       "num": 239658,
       "word": "建议继续扩大免签国范围",
@@ -11899,6 +11939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 43898,
+      "num": 162865,
+      "word": "建议加大对青年人的住房支持力度",
+      "onboard_time": 1772722703,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43836,
       "num": 582471,
       "word": "金饰克价突破1660元",
@@ -12393,6 +12441,22 @@
       "onboard_time": 1772667140,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32861,
+      "num": 372970,
+      "word": "八旬老人称一辈子要做100万件好事",
+      "onboard_time": 1772722284,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 32826,
+      "num": 232785,
+      "word": "建议对吸纳超龄劳动者企业给予补贴",
+      "onboard_time": 1772722703,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32801,
@@ -13027,14 +13091,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15697,
-      "num": 372970,
-      "word": "八旬老人称一辈子要做100万件好事",
-      "onboard_time": 1772722284,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 15347,
       "num": 372980,
       "word": "建议建立长期护理保险制度",
@@ -13049,6 +13105,14 @@
       "onboard_time": 1772479875,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14631,
+      "num": 154128,
+      "word": "推广中小学春秋假面临哪些堵点",
+      "onboard_time": 1772723483,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14466,
