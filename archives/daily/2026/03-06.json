@@ -1,6 +1,6 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772747956025,
+  "endTime": 1772750436861,
   "band_list": [
     {
       "raw_hot": 1017451,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 697144,
-      "num": 171858,
+      "num": 206420,
       "word": "伊朗发射带1吨重弹头导弹打以色列",
       "onboard_time": 1772711302,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 518032,
-      "num": 140410,
+      "num": 254639,
       "word": "伊朗称成功突破以色列七层防御",
       "onboard_time": 1772718143,
       "rank": 20,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 219117,
-      "num": 219117,
+      "num": 277062,
       "word": "建议短视频凌晨1点至5点深夜静默",
       "onboard_time": 1772707284,
       "rank": 4,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 172116,
-      "num": 179718,
+      "num": 346283,
       "word": "香港没有调休",
       "onboard_time": 1772720004,
       "rank": 5,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 138273,
-      "num": 138273,
+      "num": 247857,
       "word": "郭艾伦受伤",
       "onboard_time": 1772717722,
       "rank": 16,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 110220,
-      "num": 172080,
+      "num": 235970,
       "word": "建议不调休的代表被记者围住了",
       "onboard_time": 1772698584,
       "rank": 6,
@@ -243,6 +243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94462,
+      "num": 131468,
+      "word": "八爪鱼钻车内失踪3天车主崩溃求助",
+      "onboard_time": 1772726242,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91874,
       "num": 126302,
       "word": "伊朗报复美以",
@@ -257,6 +265,14 @@
       "onboard_time": 1772711363,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 88426,
+      "num": 109115,
+      "word": "徐浩 团播",
+      "onboard_time": 1772744953,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 84600,
@@ -329,14 +345,6 @@
       "onboard_time": 1772725702,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 69660,
-      "num": 131468,
-      "word": "八爪鱼钻车内失踪3天车主崩溃求助",
-      "onboard_time": 1772726242,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65439,
@@ -419,15 +427,23 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 44077,
-      "num": 109115,
-      "word": "徐浩 团播",
-      "onboard_time": 1772744953,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 37067,
+      "num": 219123,
+      "word": "玫瑰丛生",
+      "onboard_time": 1772737214,
+      "rank": 6,
+      "category": "剧集"
     },
     {
-      "raw_hot": 29705,
+      "raw_hot": 35656,
+      "num": 125697,
+      "word": "美以超7套先进雷达系统被摧毁",
+      "onboard_time": 1772721264,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 34845,
       "num": 105896,
       "word": "艺考严选 宫里又来新人了",
       "onboard_time": 1772738294,
@@ -435,20 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24167,
-      "num": 136058,
-      "word": "玫瑰丛生",
-      "onboard_time": 1772737214,
-      "rank": 6,
+      "raw_hot": 33096,
+      "num": 212197,
+      "word": "十日终焉角色设定",
+      "onboard_time": 1772748315,
+      "rank": 9,
       "category": "剧集"
     },
     {
-      "raw_hot": 23424,
-      "num": 125697,
-      "word": "美以超7套先进雷达系统被摧毁",
-      "onboard_time": 1772721264,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 26890,
+      "num": 125504,
+      "word": "王一博巴黎随拍记录",
+      "onboard_time": 1772713762,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22342,
@@ -467,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19993,
-      "num": 125504,
-      "word": "王一博巴黎随拍记录",
-      "onboard_time": 1772713762,
-      "rank": 45,
-      "category": "作品衍生"
+      "raw_hot": 16272,
+      "num": 125338,
+      "word": "腾势Z9GT充电9分钟续航超千公里",
+      "onboard_time": 1772719463,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 13885,
@@ -483,14 +499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13186,
-      "num": 125338,
-      "word": "腾势Z9GT充电9分钟续航超千公里",
-      "onboard_time": 1772719463,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 12177,
       "num": 99004,
       "word": "比亚迪闪充零下30度12分钟充饱",
@@ -499,7 +507,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 10337,
+      "raw_hot": 10628,
       "num": 98621,
       "word": "张雨霏鼓励年轻人勇敢试错",
       "onboard_time": 1772734936,
