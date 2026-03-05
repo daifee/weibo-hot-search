@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772690942109,
+  "endTime": 1772694195183,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -497,6 +497,14 @@
       "onboard_time": 1772592623,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1050055,
+      "num": 1168008,
+      "word": "建议春节9天假代表收到很多祝贺",
+      "onboard_time": 1772690963,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1031249,
@@ -2107,6 +2115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 425217,
+      "num": 425217,
+      "word": "霍启刚希望明年春晚有香港分会场",
+      "onboard_time": 1772691562,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 424677,
       "num": 350858,
       "word": "俄罗斯",
@@ -2851,6 +2867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 330960,
+      "num": 246762,
+      "word": "郭晓婷王天辰结婚共创来了",
+      "onboard_time": 1772691204,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330497,
       "num": 463278,
       "word": "多国就美以袭击伊朗表态",
@@ -3385,6 +3409,14 @@
       "onboard_time": 1772677641,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 281862,
+      "num": 139030,
+      "word": "伊朗高官让特朗普想想美以谁优先",
+      "onboard_time": 1772690482,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 281669,
@@ -4420,7 +4452,7 @@
     },
     {
       "raw_hot": 203843,
-      "num": 203843,
+      "num": 312456,
       "word": "鼓励3岁以下婴幼儿父母弹性工作制",
       "onboard_time": 1772687123,
       "rank": 17,
@@ -5643,6 +5675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149308,
+      "num": 149308,
+      "word": "武林外传20年后最大彩蛋",
+      "onboard_time": 1772692883,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149109,
       "num": 144212,
       "word": "美军称已有6名军人身亡",
@@ -6020,7 +6060,7 @@
     },
     {
       "raw_hot": 140615,
-      "num": 140615,
+      "num": 281678,
       "word": "金饰克价涨到1605元",
       "onboard_time": 1772683703,
       "rank": 25,
@@ -6073,6 +6113,14 @@
       "onboard_time": 1772409744,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137753,
+      "num": 137753,
+      "word": "代表建议统一全国婚假天数",
+      "onboard_time": 1772692823,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137677,
@@ -6307,14 +6355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131673,
-      "num": 131673,
-      "word": "伊朗高官让特朗普想想美以谁优先",
-      "onboard_time": 1772690482,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 131365,
       "num": 131365,
       "word": "许昕回复王楚钦",
@@ -6385,6 +6425,14 @@
       "onboard_time": 1772359103,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129004,
+      "num": 129004,
+      "word": "彩礼把社会责任转移成了家庭矛盾",
+      "onboard_time": 1772690243,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128840,
@@ -6689,6 +6737,14 @@
       "onboard_time": 1772520808,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 120956,
+      "num": 120956,
+      "word": "永远不要在谈话中自贬",
+      "onboard_time": 1772692043,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 120934,
@@ -8667,14 +8723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86645,
-      "num": 86645,
-      "word": "彩礼把社会责任转移成了家庭矛盾",
-      "onboard_time": 1772690243,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86575,
       "num": 86575,
       "word": "舒淇韩素希看秀同框",
@@ -8771,6 +8819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84884,
+      "num": 191056,
+      "word": "中国硅碳电池获GLOMO大奖",
+      "onboard_time": 1772693603,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 84869,
       "num": 131381,
       "word": "大早上以为自己进平行世界了",
@@ -8833,6 +8889,14 @@
       "onboard_time": 1772531428,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83387,
+      "num": 86621,
+      "word": "苹果客服回应iPhone一个月褪色",
+      "onboard_time": 1772688923,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 83221,
@@ -9331,6 +9395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75364,
+      "num": 75364,
+      "word": "狗 练了半天选择题结果考口语",
+      "onboard_time": 1772693242,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75350,
       "num": 75350,
       "word": "孙颖莎王楚钦的冠军合照加一",
@@ -9409,6 +9481,14 @@
       "onboard_time": 1772437403,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74021,
+      "num": 74021,
+      "word": "伊拉克库尔德人否认越境攻击伊朗",
+      "onboard_time": 1772691383,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73870,
@@ -9545,14 +9625,6 @@
       "onboard_time": 1772460686,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 71024,
-      "num": 86621,
-      "word": "苹果客服回应iPhone一个月褪色",
-      "onboard_time": 1772688923,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 71019,
@@ -9827,6 +9899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66171,
+      "num": 66171,
+      "word": "情绪反扑真的不是爱",
+      "onboard_time": 1772692043,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65992,
       "num": 157518,
       "word": "刘宇宁满36减18",
@@ -9913,6 +9993,14 @@
       "onboard_time": 1772525729,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64646,
+      "num": 86628,
+      "word": "皮肤HPV感染其实很常见",
+      "onboard_time": 1772690843,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 64417,
@@ -10035,6 +10123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62086,
+      "num": 184181,
+      "word": "有序扩大研究生培养规模",
+      "onboard_time": 1772689942,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62069,
       "num": 186007,
       "word": "麦吉丽首发3核PDRN",
@@ -10051,12 +10147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61934,
+      "num": 61934,
+      "word": "武汉草莓音乐节阵容",
+      "onboard_time": 1772692761,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 61856,
       "num": 92753,
       "word": "年轻人如何远离胃癌",
       "onboard_time": 1772424143,
       "rank": 49,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 61681,
+      "num": 61681,
+      "word": "生活需要一些无用的东西",
+      "onboard_time": 1772694142,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 61658,
@@ -10979,14 +11091,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35889,
-      "num": 184181,
-      "word": "有序扩大研究生培养规模",
-      "onboard_time": 1772689942,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 35818,
       "num": 62991,
       "word": "朱志鑫 漫步艺术回廊",
@@ -11249,14 +11353,6 @@
       "onboard_time": 1772680221,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28630,
-      "num": 86628,
-      "word": "皮肤HPV感染其实很常见",
-      "onboard_time": 1772690843,
-      "rank": 39,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 28427,

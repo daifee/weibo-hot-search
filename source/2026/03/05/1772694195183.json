@@ -1,0 +1,410 @@
+{
+  "runTime": 1772694195183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1050055,
+        "num": 1168008,
+        "word": "建议春节9天假代表收到很多祝贺",
+        "onboard_time": 1772690963,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 652181,
+        "num": 823429,
+        "word": "建议尽量不要调休",
+        "onboard_time": 1772687902,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52915,
+        "num": 670576,
+        "word": "中国2025成绩单",
+        "onboard_time": 1772681482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433600,
+        "num": 433600,
+        "word": "建议三孩每月补贴5000元至3岁",
+        "onboard_time": 1772685865,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 425217,
+        "num": 425217,
+        "word": "霍启刚希望明年春晚有香港分会场",
+        "onboard_time": 1772691562,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 695190,
+        "num": 418560,
+        "word": "伊朗首次使用最快自杀式无人机",
+        "onboard_time": 1772686702,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314242,
+        "num": 314242,
+        "word": "奶奶你是一块金子放错了地方",
+        "onboard_time": 1772682203,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185077,
+        "num": 312456,
+        "word": "鼓励3岁以下婴幼儿父母弹性工作制",
+        "onboard_time": 1772687123,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24946,
+        "num": 299196,
+        "word": "方寸之间看见中国",
+        "onboard_time": 1772681482,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54016,
+        "num": 281678,
+        "word": "金饰克价涨到1605元",
+        "onboard_time": 1772683703,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 358109,
+        "num": 273437,
+        "word": "伊朗袭击以国防部大楼",
+        "onboard_time": 1772667380,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330960,
+        "num": 246762,
+        "word": "郭晓婷王天辰结婚共创来了",
+        "onboard_time": 1772691204,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246592,
+        "num": 246592,
+        "word": "建议禁止性侵未成年罪犯进入幼儿园",
+        "onboard_time": 1772676020,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 349947,
+        "num": 231406,
+        "word": "小偷来了都要先玩俩小时",
+        "onboard_time": 1772683943,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84884,
+        "num": 191056,
+        "word": "中国硅碳电池获GLOMO大奖",
+        "onboard_time": 1772693603,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 279577,
+        "num": 191027,
+        "word": "张杰演唱会抢票",
+        "onboard_time": 1772690122,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190516,
+        "num": 190516,
+        "word": "懂中日韩语的都沉默了",
+        "onboard_time": 1772683883,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149308,
+        "num": 149308,
+        "word": "武林外传20年后最大彩蛋",
+        "onboard_time": 1772692883,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139267,
+        "num": 139267,
+        "word": "终于明白项羽为什么不肯过江东",
+        "onboard_time": 1772684664,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144352,
+        "num": 139039,
+        "word": "百妖谱",
+        "onboard_time": 1772686585,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281862,
+        "num": 139030,
+        "word": "伊朗高官让特朗普想想美以谁优先",
+        "onboard_time": 1772690482,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137753,
+        "num": 137753,
+        "word": "代表建议统一全国婚假天数",
+        "onboard_time": 1772692823,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132739,
+        "num": 132739,
+        "word": "2026政府工作报告",
+        "onboard_time": 1772675183,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129004,
+        "num": 129004,
+        "word": "彩礼把社会责任转移成了家庭矛盾",
+        "onboard_time": 1772690243,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120956,
+        "num": 120956,
+        "word": "永远不要在谈话中自贬",
+        "onboard_time": 1772692043,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106008,
+        "num": 106008,
+        "word": "140斤狗送狗肉馆途中女子600元买下",
+        "onboard_time": 1772681603,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103546,
+        "num": 103546,
+        "word": "迪丽热巴报平安",
+        "onboard_time": 1772627666,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96940,
+        "num": 96940,
+        "word": "吴京 公了别人嬷了自己",
+        "onboard_time": 1772684786,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94815,
+        "num": 94815,
+        "word": "推进祖国统一",
+        "onboard_time": 1772678842,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93851,
+        "num": 93851,
+        "word": "文咏珊出个国帅成啥了",
+        "onboard_time": 1772686345,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 93205,
+        "num": 93205,
+        "word": "逐玉",
+        "onboard_time": 1772677881,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90722,
+        "num": 90722,
+        "word": "Xteam对战北京WBG",
+        "onboard_time": 1772685624,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87634,
+        "num": 87634,
+        "word": "电影我的妈耶定档",
+        "onboard_time": 1772680221,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83387,
+        "num": 83387,
+        "word": "苹果客服回应iPhone一个月褪色",
+        "onboard_time": 1772688923,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81496,
+        "num": 81496,
+        "word": "中国芯片攻关取得新突破",
+        "onboard_time": 1772683524,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75364,
+        "num": 75364,
+        "word": "狗 练了半天选择题结果考口语",
+        "onboard_time": 1772693242,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75359,
+        "num": 75359,
+        "word": "十四届全国人大四次会议开幕会",
+        "onboard_time": 1772672663,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75033,
+        "num": 75033,
+        "word": "靳东说不能让年轻人只沉迷游戏短视频",
+        "onboard_time": 1772688262,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74021,
+        "num": 74021,
+        "word": "伊拉克库尔德人否认越境攻击伊朗",
+        "onboard_time": 1772691383,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73062,
+        "num": 73062,
+        "word": "建议将保姆费纳入个税抵扣",
+        "onboard_time": 1772689223,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72797,
+        "num": 72797,
+        "word": "未来真正的竞争力将转向语言型人才",
+        "onboard_time": 1772688022,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69007,
+        "num": 69007,
+        "word": "没见过气血虚成这样的",
+        "onboard_time": 1772669423,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66171,
+        "num": 66171,
+        "word": "情绪反扑真的不是爱",
+        "onboard_time": 1772692043,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64646,
+        "num": 64646,
+        "word": "皮肤HPV感染其实很常见",
+        "onboard_time": 1772690843,
+        "rank": 43,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 62811,
+        "num": 62811,
+        "word": "逐玉OST全阵容官宣",
+        "onboard_time": 1772686404,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62086,
+        "num": 62086,
+        "word": "有序扩大研究生培养规模",
+        "onboard_time": 1772689942,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61934,
+        "num": 61934,
+        "word": "武汉草莓音乐节阵容",
+        "onboard_time": 1772692761,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60174,
+        "num": 61716,
+        "word": "明日方舟",
+        "onboard_time": 1772681482,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61681,
+        "num": 61681,
+        "word": "生活需要一些无用的东西",
+        "onboard_time": 1772694142,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61318,
+        "num": 61318,
+        "word": "医院回应63岁高龄孕妇产女",
+        "onboard_time": 1772680761,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大四次会议开幕会举行#"
+    }
+  }
+}

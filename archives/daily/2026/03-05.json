@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772690942109,
+  "endTime": 1772694195183,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -33,6 +33,14 @@
       "onboard_time": 1772667380,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1050055,
+      "num": 1168008,
+      "word": "建议春节9天假代表收到很多祝贺",
+      "onboard_time": 1772690963,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1038703,
@@ -187,6 +195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 425217,
+      "num": 425217,
+      "word": "霍启刚希望明年春晚有香港分会场",
+      "onboard_time": 1772691562,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 400970,
       "num": 718315,
       "word": "人大代表反问微短剧爽完之后呢",
@@ -243,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 330960,
+      "num": 246762,
+      "word": "郭晓婷王天辰结婚共创来了",
+      "onboard_time": 1772691204,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324978,
       "num": 249073,
       "word": "喊卡了姐夫还来个额头吻",
@@ -281,6 +305,14 @@
       "onboard_time": 1772677641,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 281862,
+      "num": 139030,
+      "word": "伊朗高官让特朗普想想美以谁优先",
+      "onboard_time": 1772690482,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 278817,
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 203843,
-      "num": 203843,
+      "num": 312456,
       "word": "鼓励3岁以下婴幼儿父母弹性工作制",
       "onboard_time": 1772687123,
       "rank": 17,
@@ -563,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149308,
+      "num": 149308,
+      "word": "武林外传20年后最大彩蛋",
+      "onboard_time": 1772692883,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148578,
       "num": 219092,
       "word": "给你宇宙",
@@ -612,11 +652,19 @@
     },
     {
       "raw_hot": 140615,
-      "num": 140615,
+      "num": 281678,
       "word": "金饰克价涨到1605元",
       "onboard_time": 1772683703,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137753,
+      "num": 137753,
+      "word": "代表建议统一全国婚假天数",
+      "onboard_time": 1772692823,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137445,
@@ -659,20 +707,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131673,
-      "num": 131673,
-      "word": "伊朗高官让特朗普想想美以谁优先",
-      "onboard_time": 1772690482,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 130013,
       "num": 130013,
       "word": "岳雨婷时装周出片质量",
       "onboard_time": 1772677940,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 129004,
+      "num": 129004,
+      "word": "彩礼把社会责任转移成了家庭矛盾",
+      "onboard_time": 1772690243,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126690,
@@ -689,6 +737,14 @@
       "onboard_time": 1772677521,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120956,
+      "num": 120956,
+      "word": "永远不要在谈话中自贬",
+      "onboard_time": 1772692043,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 119251,
@@ -979,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86645,
-      "num": 86645,
-      "word": "彩礼把社会责任转移成了家庭矛盾",
-      "onboard_time": 1772690243,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86531,
       "num": 116897,
       "word": "工作留痕的重要性",
@@ -1003,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84884,
+      "num": 191056,
+      "word": "中国硅碳电池获GLOMO大奖",
+      "onboard_time": 1772693603,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 84419,
       "num": 227110,
       "word": "保时捷Taycan",
@@ -1016,6 +1072,14 @@
       "word": "MacBookNeo定价4599元起",
       "onboard_time": 1772636544,
       "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 83387,
+      "num": 86621,
+      "word": "苹果客服回应iPhone一个月褪色",
+      "onboard_time": 1772688923,
+      "rank": 45,
       "category": "数码"
     },
     {
@@ -1115,6 +1179,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75364,
+      "num": 75364,
+      "word": "狗 练了半天选择题结果考口语",
+      "onboard_time": 1772693242,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74021,
+      "num": 74021,
+      "word": "伊拉克库尔德人否认越境攻击伊朗",
+      "onboard_time": 1772691383,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73122,
       "num": 116772,
       "word": "建议给每户发2000元家政消费券",
@@ -1129,14 +1209,6 @@
       "onboard_time": 1772671284,
       "rank": 48,
       "category": "国内时政,艺人"
-    },
-    {
-      "raw_hot": 71024,
-      "num": 86621,
-      "word": "苹果客服回应iPhone一个月褪色",
-      "onboard_time": 1772688923,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 70753,
@@ -1179,6 +1251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66171,
+      "num": 66171,
+      "word": "情绪反扑真的不是爱",
+      "onboard_time": 1772692043,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65830,
       "num": 133491,
       "word": "魏牌V9X宣布代言人魏建军",
@@ -1195,6 +1275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64646,
+      "num": 86628,
+      "word": "皮肤HPV感染其实很常见",
+      "onboard_time": 1772690843,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 62831,
       "num": 217851,
       "word": "小狗做雾化不理解但很配合",
@@ -1203,12 +1291,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62086,
+      "num": 184181,
+      "word": "有序扩大研究生培养规模",
+      "onboard_time": 1772689942,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62069,
       "num": 186007,
       "word": "麦吉丽首发3核PDRN",
       "onboard_time": 1772689344,
       "rank": 19,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 61934,
+      "num": 61934,
+      "word": "武汉草莓音乐节阵容",
+      "onboard_time": 1772692761,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 61681,
+      "num": 61681,
+      "word": "生活需要一些无用的东西",
+      "onboard_time": 1772694142,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 61413,
@@ -1355,14 +1467,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35889,
-      "num": 184181,
-      "word": "有序扩大研究生培养规模",
-      "onboard_time": 1772689942,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 35017,
       "num": 219654,
       "word": "中国拥有全球门类最齐全制造业体系",
@@ -1417,14 +1521,6 @@
       "onboard_time": 1772680221,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28630,
-      "num": 86628,
-      "word": "皮肤HPV感染其实很常见",
-      "onboard_time": 1772690843,
-      "rank": 39,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 28200,
