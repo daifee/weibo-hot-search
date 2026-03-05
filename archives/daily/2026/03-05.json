@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772686329192,
+  "endTime": 1772686893332,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1182250,
-      "num": 688339,
+      "num": 723386,
       "word": "伊朗袭击以国防部大楼",
       "onboard_time": 1772667380,
       "rank": 25,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 960271,
-      "num": 490124,
+      "num": 492527,
       "word": "建议禁止性侵未成年罪犯进入幼儿园",
       "onboard_time": 1772676020,
       "rank": 7,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 522023,
-      "num": 750959,
+      "num": 756777,
       "word": "推进祖国统一",
       "onboard_time": 1772678842,
       "rank": 3,
@@ -123,12 +123,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 433752,
-      "num": 1069400,
+      "raw_hot": 436706,
+      "num": 1069873,
       "word": "中国芯片攻关取得新突破",
       "onboard_time": 1772683524,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 434275,
+      "num": 434275,
+      "word": "懂中日韩语的都沉默了",
+      "onboard_time": 1772683883,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 432507,
@@ -163,12 +171,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 381038,
-      "num": 381038,
-      "word": "懂中日韩语的都沉默了",
-      "onboard_time": 1772683883,
-      "rank": 12,
-      "category": "幽默"
+      "raw_hot": 378779,
+      "num": 637670,
+      "word": "阿里已批准林俊旸离职",
+      "onboard_time": 1772682323,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 378145,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 343401,
-      "num": 719037,
+      "num": 724546,
       "word": "电影我的妈耶定档",
       "onboard_time": 1772680221,
       "rank": 26,
@@ -233,6 +241,14 @@
       "onboard_time": 1772627606,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284702,
+      "num": 723940,
+      "word": "建议三孩每月补贴5000元至3岁",
+      "onboard_time": 1772685865,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 281937,
@@ -281,14 +297,6 @@
       "onboard_time": 1772634985,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242720,
-      "num": 628580,
-      "word": "阿里已批准林俊旸离职",
-      "onboard_time": 1772682323,
-      "rank": 7,
-      "category": "互联网"
     },
     {
       "raw_hot": 233476,
@@ -347,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207944,
+      "num": 207944,
+      "word": "吴京 公了别人嬷了自己",
+      "onboard_time": 1772684786,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205335,
       "num": 221112,
       "word": "Bin 先锋赛给大伙带个冠军回来",
@@ -401,6 +417,14 @@
       "onboard_time": 1772672304,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194035,
+      "num": 194035,
+      "word": "终于明白项羽为什么不肯过江东",
+      "onboard_time": 1772684664,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 190578,
@@ -459,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170910,
-      "num": 170910,
-      "word": "吴京 公了别人嬷了自己",
-      "onboard_time": 1772684786,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 164291,
       "num": 164291,
       "word": "Xteam对战北京WBG",
@@ -475,20 +491,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158706,
-      "num": 158706,
-      "word": "终于明白项羽为什么不肯过江东",
-      "onboard_time": 1772684664,
-      "rank": 22,
+      "raw_hot": 154756,
+      "num": 154756,
+      "word": "金毛发现自己的床躺满了小猫",
+      "onboard_time": 1772683824,
+      "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157027,
-      "num": 117816,
-      "word": "建议三孩每月补贴5000元至3岁",
-      "onboard_time": 1772685865,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 151770,
@@ -497,14 +505,6 @@
       "onboard_time": 1772678722,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 151650,
-      "num": 151650,
-      "word": "金毛发现自己的床躺满了小猫",
-      "onboard_time": 1772683824,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 150489,
@@ -537,6 +537,14 @@
       "onboard_time": 1772637925,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142230,
+      "num": 129230,
+      "word": "逐玉OST全阵容官宣",
+      "onboard_time": 1772686404,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 141073,
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 131956,
-      "num": 131956,
+      "num": 155303,
       "word": "办公室被张柏芝美貌暴击",
       "onboard_time": 1772683524,
       "rank": 28,
@@ -643,6 +651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115664,
+      "num": 115664,
+      "word": "百妖谱",
+      "onboard_time": 1772686585,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115231,
       "num": 218440,
       "word": "韩蛇蝎美人被确认为反社会人格",
@@ -675,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113618,
+      "num": 113618,
+      "word": "伊朗首次使用最快自杀式无人机",
+      "onboard_time": 1772686702,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112399,
       "num": 148460,
       "word": "美国为何非要搞垮伊朗",
@@ -705,6 +729,14 @@
       "onboard_time": 1772667080,
       "rank": 41,
       "category": "国内时政,体育"
+    },
+    {
+      "raw_hot": 107574,
+      "num": 107574,
+      "word": "文咏珊出个国帅成啥了",
+      "onboard_time": 1772686345,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 103785,
@@ -843,7 +875,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85620,
+      "raw_hot": 86531,
+      "num": 116897,
+      "word": "工作留痕的重要性",
+      "onboard_time": 1772682082,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 85837,
       "num": 116963,
       "word": "林孝埈捐赠头盔",
       "onboard_time": 1772682863,
@@ -899,6 +939,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81180,
+      "num": 101737,
+      "word": "擀饺子皮手痒是因为过敏了",
+      "onboard_time": 1772686345,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 80028,
+      "num": 101704,
+      "word": "因为自助没吃回本生气了",
+      "onboard_time": 1772685985,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78377,
       "num": 78377,
       "word": "周雨彤含泪分享太平年创作感悟",
@@ -907,20 +963,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78144,
-      "num": 116897,
-      "word": "工作留痕的重要性",
-      "onboard_time": 1772682082,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 78070,
       "num": 78070,
       "word": "张凯丽说短剧不能糊弄观众",
       "onboard_time": 1772674641,
       "rank": 46,
       "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 78036,
+      "num": 101673,
+      "word": "孔雪儿撑伞又出神图",
+      "onboard_time": 1772686523,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 77422,
@@ -977,6 +1033,14 @@
       "onboard_time": 1772684724,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 69530,
+      "num": 101609,
+      "word": "水蛭型出游",
+      "onboard_time": 1772686765,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 67556,
@@ -1083,6 +1147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52887,
+      "num": 101709,
+      "word": "起亚新狮铂拓界",
+      "onboard_time": 1772686585,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 50608,
       "num": 217514,
       "word": "纯真年代的爱情",
@@ -1147,6 +1219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34797,
+      "num": 590190,
+      "word": "方寸之间看见中国",
+      "onboard_time": 1772681482,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34560,
       "num": 169671,
       "word": "李娜姜山认定的家用SUV",
@@ -1161,14 +1241,6 @@
       "onboard_time": 1772645716,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33338,
-      "num": 590190,
-      "word": "方寸之间看见中国",
-      "onboard_time": 1772681482,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 33085,
@@ -1203,20 +1275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26084,
+      "num": 549288,
+      "word": "政府工作报告有二维码",
+      "onboard_time": 1772685925,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25054,
       "num": 67459,
       "word": "灿如繁星",
       "onboard_time": 1772646076,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22629,
-      "num": 225364,
-      "word": "政府工作报告有二维码",
-      "onboard_time": 1772685925,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21710,
