@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/06 00:11:10 ~ 2026/03/06 02:12:18
+本榜单时间：2026/03/06 00:11:10 ~ 2026/03/06 02:27:39
 </p>
 </blockquote>
 <p>
@@ -340,7 +340,7 @@ AG爱笑（热度：62291）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%B6%857%E5%A5%97%E5%85%88%E8%BF%9B%E9%9B%B7%E8%BE%BE%E7%B3%BB%E7%BB%9F%E8%A2%AB%E6%91%A7%E6%AF%81%23" target="weibo">
-美以超7套先进雷达系统被摧毁（热度：21334）
+美以超7套先进雷达系统被摧毁（热度：21683）
 </a>
 </li>
 
@@ -353,6 +353,18 @@ AG爱笑（热度：62291）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E5%8A%BFZ9GT%E5%85%85%E7%94%B59%E5%88%86%E9%92%9F%E7%BB%AD%E8%88%AA%E8%B6%85%E5%8D%83%E5%85%AC%E9%87%8C%23" target="weibo">
 腾势Z9GT充电9分钟续航超千公里（热度：13186）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E9%9B%B6%E4%B8%8B30%E5%BA%A612%E5%88%86%E9%92%9F%E5%85%85%E9%A5%B1%23" target="weibo">
+比亚迪闪充零下30度12分钟充饱（热度：12177）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E9%BC%93%E5%8A%B1%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8B%87%E6%95%A2%E8%AF%95%E9%94%99%23" target="weibo">
+张雨霏鼓励年轻人勇敢试错（热度：9728）
 </a>
 </li>
 

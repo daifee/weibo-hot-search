@@ -1,6 +1,6 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772734338157,
+  "endTime": 1772735259142,
   "band_list": [
     {
       "raw_hot": 1017451,
@@ -435,7 +435,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21334,
+      "raw_hot": 21683,
       "num": 125697,
       "word": "美以超7套先进雷达系统被摧毁",
       "onboard_time": 1772721264,
@@ -457,6 +457,22 @@
       "onboard_time": 1772719463,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 12177,
+      "num": 67865,
+      "word": "比亚迪闪充零下30度12分钟充饱",
+      "onboard_time": 1772714242,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 9728,
+      "num": 67851,
+      "word": "张雨霏鼓励年轻人勇敢试错",
+      "onboard_time": 1772734936,
+      "rank": 49,
+      "category": "国内时政,体育"
     }
   ],
   "hotgov_list": [
