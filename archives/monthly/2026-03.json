@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772711769934,
+  "endTime": 1772716558921,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1467970,
+      "num": 467024,
+      "word": "伊朗发射带1吨重弹头导弹打以色列",
+      "onboard_time": 1772711302,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1455805,
       "num": 459700,
       "word": "纪凌尘与韩国女友泰国度假",
@@ -545,6 +553,14 @@
       "onboard_time": 1772619085,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1015986,
+      "num": 532194,
+      "word": "现在就出发4",
+      "onboard_time": 1772709863,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 998661,
@@ -1731,14 +1747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 532194,
-      "num": 532194,
-      "word": "现在就出发4",
-      "onboard_time": 1772709863,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 529982,
       "num": 348933,
       "word": "赖伟明学范丞丞的手势舞 照抄广告",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1772598026,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 505587,
+      "num": 505587,
+      "word": "WBG战胜AL",
+      "onboard_time": 1772714723,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 505291,
@@ -2275,6 +2291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 424312,
+      "num": 151032,
+      "word": "伊朗封锁海峡台湾担心快断气了",
+      "onboard_time": 1772713342,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 423192,
       "num": 767481,
       "word": "中国石油发布公告",
@@ -2643,6 +2667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 374157,
+      "num": 792868,
+      "word": "惊蛰无声",
+      "onboard_time": 1772715443,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 374024,
       "num": 374024,
       "word": "吃一口饭倒欠200卡路里",
@@ -2793,14 +2825,6 @@
       "onboard_time": 1772498964,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 360180,
-      "num": 103992,
-      "word": "伊朗发射带1吨重弹头导弹打以色列",
-      "onboard_time": 1772711302,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 357176,
@@ -2977,6 +3001,14 @@
       "onboard_time": 1772462726,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 336263,
+      "num": 188813,
+      "word": "鹤男",
+      "onboard_time": 1772709504,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 334523,
@@ -3915,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257227,
+      "num": 186164,
+      "word": "代表说农民每月200元养老金太亏了",
+      "onboard_time": 1772711363,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 257224,
       "num": 856682,
       "word": "老人抱孙子玩腰间4厘米钢针扎进肚",
@@ -3985,6 +4025,14 @@
       "onboard_time": 1772665880,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251039,
+      "num": 611296,
+      "word": "WBG对战AL",
+      "onboard_time": 1772705361,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 250994,
@@ -4307,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231270,
+      "num": 231270,
+      "word": "两女子相隔7公里长得一模一样",
+      "onboard_time": 1772715621,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230801,
       "num": 230801,
       "word": "肛门周围长东西一定是痔疮吗",
@@ -4441,14 +4497,6 @@
       "onboard_time": 1772439567,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 222923,
-      "num": 611296,
-      "word": "WBG对战AL",
-      "onboard_time": 1772705361,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 222771,
@@ -4619,12 +4667,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215919,
+      "num": 148239,
+      "word": "伊朗避实就虚打击美军",
+      "onboard_time": 1772714723,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 215802,
       "num": 215802,
       "word": "曝十日终焉领衔主演艾米",
       "onboard_time": 1772670864,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215731,
+      "num": 147692,
+      "word": "AG爱笑",
+      "onboard_time": 1772715022,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 213084,
@@ -4961,6 +5025,14 @@
       "onboard_time": 1772362524,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194460,
+      "num": 146068,
+      "word": "伊朗称击落一架美军F15战斗机",
+      "onboard_time": 1772714723,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 193811,
@@ -5531,14 +5603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 166060,
-      "num": 156067,
-      "word": "鹤男",
-      "onboard_time": 1772709504,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165994,
       "num": 165994,
       "word": "18岁少女感染HPV多种高危型号",
@@ -5899,6 +5963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153334,
+      "num": 145306,
+      "word": "1岁9个月宝宝吃花生呛到脑部受损",
+      "onboard_time": 1772711542,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153280,
       "num": 153280,
       "word": "仙逆",
@@ -5985,6 +6057,14 @@
       "onboard_time": 1772351003,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151123,
+      "num": 151123,
+      "word": "比亚迪全球首创闪充桩来了",
+      "onboard_time": 1772715922,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 150697,
@@ -6299,6 +6379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144757,
+      "num": 144757,
+      "word": "伊朗每天都向以色列发射导弹",
+      "onboard_time": 1772716342,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144705,
       "num": 209366,
       "word": "王者荣耀",
@@ -6369,6 +6457,14 @@
       "onboard_time": 1772534608,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142415,
+      "num": 140608,
+      "word": "女子收到刮刮乐生日花束刮出80万元",
+      "onboard_time": 1772715982,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142230,
@@ -6755,6 +6851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131023,
+      "num": 131023,
+      "word": "美驻联合国代表让伊朗代表小心点",
+      "onboard_time": 1772713342,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130767,
       "num": 373419,
       "word": "五粮液",
@@ -7019,6 +7123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123964,
+      "num": 123964,
+      "word": "吕严我家那小子录制路透",
+      "onboard_time": 1772716101,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123817,
       "num": 588853,
       "word": "41岁打铁花网红一氧化碳中毒去世",
@@ -7033,6 +7145,14 @@
       "onboard_time": 1772548050,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 123403,
+      "num": 123403,
+      "word": "原来爸妈年轻时比我们还疯",
+      "onboard_time": 1772714004,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 123371,
@@ -7177,6 +7297,14 @@
       "onboard_time": 1772513846,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120446,
+      "num": 111311,
+      "word": "王一博巴黎随拍记录",
+      "onboard_time": 1772713762,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 120391,
@@ -7689,6 +7817,14 @@
       "onboard_time": 1772462966,
       "rank": 44,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 111539,
+      "num": 111539,
+      "word": "建议解决公积金看得到用不了难题",
+      "onboard_time": 1772715083,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111118,
@@ -8523,6 +8659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99292,
+      "num": 94064,
+      "word": "比亚迪第二代刀片电池5分钟充好",
+      "onboard_time": 1772716163,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 99274,
       "num": 288100,
       "word": "金饰价一夜大涨42元",
@@ -8771,12 +8915,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94126,
+      "num": 94126,
+      "word": "真正长大了好像就是这样",
+      "onboard_time": 1772715143,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94113,
       "num": 130755,
       "word": "巴黎是迪丽热巴最正确的打开方式",
       "onboard_time": 1772431342,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93913,
+      "num": 151445,
+      "word": "罗意威大秀阵容",
+      "onboard_time": 1772712443,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 93572,
@@ -9435,6 +9595,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84393,
+      "num": 184166,
+      "word": "比亚迪闪充零下30度12分钟充饱",
+      "onboard_time": 1772714242,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 84384,
       "num": 144351,
       "word": "毛晓彤撑油纸伞跳舞",
@@ -9448,14 +9616,6 @@
       "word": "七种退税方式",
       "onboard_time": 1772339125,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84264,
-      "num": 84264,
-      "word": "1岁9个月宝宝吃花生呛到脑部受损",
-      "onboard_time": 1772711542,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -9699,14 +9859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80726,
-      "num": 80726,
-      "word": "代表说农民每月200元养老金太亏了",
-      "onboard_time": 1772711363,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 80578,
       "num": 286054,
       "word": "建议明确下班后有权拒回工作消息",
@@ -9793,6 +9945,14 @@
       "onboard_time": 1772527168,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 78582,
+      "num": 123537,
+      "word": "委员谈女性如何平衡生育与工作",
+      "onboard_time": 1772715202,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 78424,
@@ -11275,6 +11435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50019,
+      "num": 146953,
+      "word": "委员说家长焦虑让太多孩子过早学习",
+      "onboard_time": 1772716402,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49325,
       "num": 281634,
       "word": "春敏修护黄金法则",
@@ -11337,6 +11505,14 @@
       "onboard_time": 1772613204,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 47553,
+      "num": 105570,
+      "word": "贺峻霖 这是一个梗",
+      "onboard_time": 1772711062,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 47474,
@@ -11867,6 +12043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36053,
+      "num": 98156,
+      "word": "上海网约公交车票价仅1元",
+      "onboard_time": 1772716523,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35818,
       "num": 62991,
       "word": "朱志鑫 漫步艺术回廊",
@@ -11897,6 +12081,14 @@
       "onboard_time": 1772507245,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34988,
+      "num": 93018,
+      "word": "面试收感谢信和30元路费女子被录用",
+      "onboard_time": 1772715323,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34797,
