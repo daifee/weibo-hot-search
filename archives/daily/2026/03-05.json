@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772686893332,
+  "endTime": 1772690140502,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -9,6 +9,14 @@
       "onboard_time": 1772627666,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1376421,
+      "num": 425042,
+      "word": "伊朗首次使用最快自杀式无人机",
+      "onboard_time": 1772686702,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1200793,
@@ -49,6 +57,14 @@
       "onboard_time": 1772639602,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 831633,
+      "num": 1133061,
+      "word": "建议三孩每月补贴5000元至3岁",
+      "onboard_time": 1772685865,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 746716,
@@ -99,12 +115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527083,
+      "num": 817074,
+      "word": "建议尽量不要调休",
+      "onboard_time": 1772687902,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 522023,
       "num": 756777,
       "word": "推进祖国统一",
       "onboard_time": 1772678842,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 488891,
+      "num": 488891,
+      "word": "张杰演唱会抢票",
+      "onboard_time": 1772690122,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 468016,
@@ -243,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 284702,
-      "num": 723940,
-      "word": "建议三孩每月补贴5000元至3岁",
-      "onboard_time": 1772685865,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 281937,
       "num": 281937,
       "word": "居民基础养老金月再提20元",
@@ -299,6 +323,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242830,
+      "num": 429690,
+      "word": "百妖谱",
+      "onboard_time": 1772686585,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 235232,
+      "num": 235232,
+      "word": "吴京 公了别人嬷了自己",
+      "onboard_time": 1772684786,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233476,
       "num": 219308,
       "word": "阿里通义实验室紧急召开会议",
@@ -323,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228099,
+      "num": 407892,
+      "word": "Xteam对战北京WBG",
+      "onboard_time": 1772685624,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224180,
       "num": 224180,
       "word": "建议废除劳务派遣制度",
@@ -337,6 +385,14 @@
       "onboard_time": 1772634025,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219835,
+      "num": 219835,
+      "word": "终于明白项羽为什么不肯过江东",
+      "onboard_time": 1772684664,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 219703,
@@ -355,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207944,
-      "num": 207944,
-      "word": "吴京 公了别人嬷了自己",
-      "onboard_time": 1772684786,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 205335,
       "num": 221112,
       "word": "Bin 先锋赛给大伙带个冠军回来",
@@ -377,6 +425,14 @@
       "onboard_time": 1772637084,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 203843,
+      "num": 203843,
+      "word": "鼓励3岁以下婴幼儿父母弹性工作制",
+      "onboard_time": 1772687123,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 202807,
@@ -419,14 +475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194035,
-      "num": 194035,
-      "word": "终于明白项羽为什么不肯过江东",
-      "onboard_time": 1772684664,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190578,
       "num": 190578,
       "word": "什么水果一听就很东北",
@@ -459,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175822,
+      "num": 156014,
+      "word": "文咏珊出个国帅成啥了",
+      "onboard_time": 1772686345,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 175818,
       "num": 217669,
       "word": "车停半个月被老鼠囤了20斤粮食",
@@ -481,14 +537,6 @@
       "onboard_time": 1772618365,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164291,
-      "num": 164291,
-      "word": "Xteam对战北京WBG",
-      "onboard_time": 1772685624,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 154756,
@@ -619,6 +667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 126690,
+      "num": 126690,
+      "word": "和平精英让侯明昊演嗨了",
+      "onboard_time": 1772690122,
+      "rank": 27,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 121887,
       "num": 249161,
       "word": "落实职工带薪错峰休假制度",
@@ -649,14 +705,6 @@
       "onboard_time": 1772619684,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115664,
-      "num": 115664,
-      "word": "百妖谱",
-      "onboard_time": 1772686585,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 115231,
@@ -691,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113618,
-      "num": 113618,
-      "word": "伊朗首次使用最快自杀式无人机",
-      "onboard_time": 1772686702,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112399,
       "num": 148460,
       "word": "美国为何非要搞垮伊朗",
@@ -731,12 +771,12 @@
       "category": "国内时政,体育"
     },
     {
-      "raw_hot": 107574,
-      "num": 107574,
-      "word": "文咏珊出个国帅成啥了",
-      "onboard_time": 1772686345,
-      "rank": 31,
-      "category": "作品衍生,时尚"
+      "raw_hot": 108156,
+      "num": 108156,
+      "word": "何老师淋过雨所以想为别人撑伞",
+      "onboard_time": 1772688804,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 103785,
@@ -771,12 +811,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102499,
+      "num": 102499,
+      "word": "靳东说不能让年轻人只沉迷游戏短视频",
+      "onboard_time": 1772688262,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 100579,
+      "num": 101673,
+      "word": "孔雪儿撑伞又出神图",
+      "onboard_time": 1772686523,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100329,
       "num": 218281,
       "word": "伊朗局势最新情况",
       "onboard_time": 1772614944,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100130,
+      "num": 100130,
+      "word": "未来真正的竞争力将转向语言型人才",
+      "onboard_time": 1772688022,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 99228,
@@ -819,6 +883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93422,
+      "num": 93422,
+      "word": "中国人均预期寿命79.25岁",
+      "onboard_time": 1772687963,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93380,
       "num": 93380,
       "word": "全球黄金物流遭重大冲击",
@@ -857,6 +929,22 @@
       "onboard_time": 1772679683,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 91113,
+      "num": 101704,
+      "word": "因为自助没吃回本生气了",
+      "onboard_time": 1772685985,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 91048,
+      "num": 91048,
+      "word": "建议将保姆费纳入个税抵扣",
+      "onboard_time": 1772689223,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89077,
@@ -947,12 +1035,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 80028,
-      "num": 101704,
-      "word": "因为自助没吃回本生气了",
-      "onboard_time": 1772685985,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 78683,
+      "num": 86651,
+      "word": "明日方舟",
+      "onboard_time": 1772681482,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 78377,
@@ -969,14 +1057,6 @@
       "onboard_time": 1772674641,
       "rank": 46,
       "category": "艺人,国内时政"
-    },
-    {
-      "raw_hot": 78036,
-      "num": 101673,
-      "word": "孔雪儿撑伞又出神图",
-      "onboard_time": 1772686523,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 77422,
@@ -1000,6 +1080,14 @@
       "word": "当你坐车睡着之后",
       "onboard_time": 1772686105,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 75406,
+      "num": 86650,
+      "word": "230元买螃蟹60元买绳子",
+      "onboard_time": 1772689344,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -1081,6 +1169,14 @@
       "onboard_time": 1772634145,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62069,
+      "num": 162705,
+      "word": "麦吉丽首发3核PDRN",
+      "onboard_time": 1772689344,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 61413,
@@ -1177,6 +1273,14 @@
       "onboard_time": 1772666419,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42069,
+      "num": 86649,
+      "word": "一关灯陈哲远就什么都招了",
+      "onboard_time": 1772687543,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 39659,
@@ -1291,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22455,
+      "num": 119801,
+      "word": "有序扩大研究生培养规模",
+      "onboard_time": 1772689942,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21710,
       "num": 67452,
       "word": "王嘉尔 TecatePalNorte",
@@ -1305,6 +1417,14 @@
       "onboard_time": 1772620884,
       "rank": 48,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 19399,
+      "num": 154159,
+      "word": "应对人工智能对就业影响",
+      "onboard_time": 1772689942,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17720,
