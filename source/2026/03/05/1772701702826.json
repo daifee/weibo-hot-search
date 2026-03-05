@@ -1,0 +1,410 @@
+{
+  "runTime": 1772701702826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 435925,
+        "num": 1069748,
+        "word": "建议优化大学生婚育教育体系",
+        "onboard_time": 1772697025,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 818202,
+        "num": 818202,
+        "word": "翻拍重案六组",
+        "onboard_time": 1772699003,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47671,
+        "num": 615124,
+        "word": "政府工作报告里的民生红包",
+        "onboard_time": 1772699421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 836168,
+        "num": 470062,
+        "word": "建议不调休的代表被记者围住了",
+        "onboard_time": 1772698584,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 322290,
+        "num": 322290,
+        "word": "建议春节9天假代表收到很多祝贺",
+        "onboard_time": 1772690963,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 432729,
+        "num": 305152,
+        "word": "伊朗首次使用最快自杀式无人机",
+        "onboard_time": 1772686702,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263047,
+        "num": 263047,
+        "word": "建议三孩每月补贴5000元至3岁",
+        "onboard_time": 1772685865,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 260007,
+        "num": 260007,
+        "word": "建议缩短研究生考录时间",
+        "onboard_time": 1772694442,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26169,
+        "num": 254179,
+        "word": "2026发展主要预期目标速览",
+        "onboard_time": 1772699421,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115688,
+        "num": 234343,
+        "word": "华为MateBookNeo曝光",
+        "onboard_time": 1772699962,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1452864,
+        "num": 222214,
+        "word": "高铁一等座4元二等座8元",
+        "onboard_time": 1772698822,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277798,
+        "num": 216463,
+        "word": "女子半年未回家走廊被邻居装修了",
+        "onboard_time": 1772694682,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424897,
+        "num": 206652,
+        "word": "中方将派特使访问中东",
+        "onboard_time": 1772696482,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194164,
+        "num": 194164,
+        "word": "麻辣拌史铁生",
+        "onboard_time": 1772697862,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184180,
+        "num": 184180,
+        "word": "建议尽量不要调休",
+        "onboard_time": 1772687902,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173546,
+        "num": 173546,
+        "word": "neo是定位卖给国外中学生的",
+        "onboard_time": 1772696242,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156277,
+        "num": 156277,
+        "word": "人大代表说年轻人11点一定要睡觉",
+        "onboard_time": 1772694322,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152643,
+        "num": 152643,
+        "word": "张小斐走红后 不抢不闹不迎合",
+        "onboard_time": 1772699242,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136341,
+        "num": 136341,
+        "word": "武林外传20年后最大彩蛋",
+        "onboard_time": 1772692883,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34288,
+        "num": 135359,
+        "word": "建议医务人员薪酬不得与创收挂钩",
+        "onboard_time": 1772701402,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 593362,
+        "num": 132633,
+        "word": "张杰鸟巢演唱会12万张票秒罄",
+        "onboard_time": 1772696242,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209670,
+        "num": 131245,
+        "word": "日本正紧张研判是否支援美军",
+        "onboard_time": 1772697442,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184876,
+        "num": 130143,
+        "word": "伊朗高官让特朗普想想美以谁优先",
+        "onboard_time": 1772690482,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156574,
+        "num": 128172,
+        "word": "郭敬明发了邓为眼部特写",
+        "onboard_time": 1772696183,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136641,
+        "num": 125919,
+        "word": "伊方称导弹击中一美国油轮",
+        "onboard_time": 1772697201,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124790,
+        "num": 124790,
+        "word": "霍启刚希望明年春晚有香港分会场",
+        "onboard_time": 1772691562,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132526,
+        "num": 123076,
+        "word": "小偷来了都要先玩俩小时",
+        "onboard_time": 1772683943,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112997,
+        "num": 112997,
+        "word": "A股迎来大涨",
+        "onboard_time": 1772699542,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108759,
+        "num": 108759,
+        "word": "奶奶你是一块金子放错了地方",
+        "onboard_time": 1772682203,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104274,
+        "num": 104274,
+        "word": "伊朗袭击以国防部大楼",
+        "onboard_time": 1772667380,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122328,
+        "num": 104256,
+        "word": "猫 讨厌和瘦子拍照",
+        "onboard_time": 1772700682,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103998,
+        "num": 103998,
+        "word": "35岁就业歧视应该得到了缓解",
+        "onboard_time": 1772696183,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97912,
+        "num": 103997,
+        "word": "广西整个四月都在上四休三",
+        "onboard_time": 1772699903,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91164,
+        "num": 103959,
+        "word": "建议禁止性侵未成年罪犯进入幼儿园",
+        "onboard_time": 1772676020,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91002,
+        "num": 103930,
+        "word": "伊朗的反击愈发猛烈",
+        "onboard_time": 1772694922,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89837,
+        "num": 103918,
+        "word": "没有人觉得时代发展很快吗",
+        "onboard_time": 1772697862,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86431,
+        "num": 103883,
+        "word": "给白发母亲塞200元当事医生发声",
+        "onboard_time": 1772697502,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80578,
+        "num": 103861,
+        "word": "建议明确下班后有权拒回工作消息",
+        "onboard_time": 1772699721,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78364,
+        "num": 103839,
+        "word": "不建议大学生直接用AI写论文",
+        "onboard_time": 1772700143,
+        "rank": 38,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 77990,
+        "num": 103805,
+        "word": "百妖谱",
+        "onboard_time": 1772686585,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43675,
+        "num": 103785,
+        "word": "春敏修护黄金法则",
+        "onboard_time": 1772700443,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 77742,
+        "num": 103756,
+        "word": "肖战成唯一上榜中国艺人",
+        "onboard_time": 1772695641,
+        "rank": 41,
+        "category": "作品衍生,运动健身"
+      },
+      {
+        "raw_hot": 76046,
+        "num": 103742,
+        "word": "孙颖莎诠释独立女性力量",
+        "onboard_time": 1772700984,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74317,
+        "num": 103706,
+        "word": "永远不要在谈话中自贬",
+        "onboard_time": 1772692043,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72599,
+        "num": 103681,
+        "word": "2026政府工作报告",
+        "onboard_time": 1772675183,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67975,
+        "num": 103664,
+        "word": "懂中日韩语的都沉默了",
+        "onboard_time": 1772683883,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67855,
+        "num": 103652,
+        "word": "彩礼把社会责任转移成了家庭矛盾",
+        "onboard_time": 1772690243,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63682,
+        "num": 103628,
+        "word": "逐玉陈皮糖吻",
+        "onboard_time": 1772695942,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62475,
+        "num": 103585,
+        "word": "养生壶太全面了",
+        "onboard_time": 1772701642,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62154,
+        "num": 103567,
+        "word": "郭晓婷王天辰结婚共创来了",
+        "onboard_time": 1772691204,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

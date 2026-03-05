@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772700977541,
+  "endTime": 1772701702826,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 836168,
+      "num": 470062,
+      "word": "建议不调休的代表被记者围住了",
+      "onboard_time": 1772698584,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 831633,
       "num": 1133061,
       "word": "建议三孩每月补贴5000元至3岁",
@@ -105,14 +113,6 @@
       "onboard_time": 1772665819,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 722686,
-      "num": 284169,
-      "word": "建议不调休的代表被记者围住了",
-      "onboard_time": 1772698584,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 719119,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 453355,
-      "num": 830185,
+      "num": 1069748,
       "word": "建议优化大学生婚育教育体系",
       "onboard_time": 1772697025,
       "rank": 29,
@@ -883,6 +883,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 122328,
+      "num": 282117,
+      "word": "猫 讨厌和瘦子拍照",
+      "onboard_time": 1772700682,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121887,
       "num": 249161,
       "word": "落实职工带薪错峰休假制度",
@@ -937,6 +945,14 @@
       "onboard_time": 1772695641,
       "rank": 32,
       "category": "作品衍生,运动健身"
+    },
+    {
+      "raw_hot": 115688,
+      "num": 289260,
+      "word": "华为MateBookNeo曝光",
+      "onboard_time": 1772699962,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 115231,
@@ -1051,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102668,
-      "num": 289260,
-      "word": "华为MateBookNeo曝光",
-      "onboard_time": 1772699962,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 102499,
       "num": 102499,
       "word": "靳东说不能让年轻人只沉迷游戏短视频",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1772685444,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97912,
+      "num": 282384,
+      "word": "广西整个四月都在上四休三",
+      "onboard_time": 1772699903,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 97783,
@@ -1203,12 +1219,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 89185,
-      "num": 282384,
-      "word": "广西整个四月都在上四休三",
-      "onboard_time": 1772699903,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 89837,
+      "num": 280974,
+      "word": "没有人觉得时代发展很快吗",
+      "onboard_time": 1772697862,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 89077,
@@ -1217,14 +1233,6 @@
       "onboard_time": 1772668462,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 88359,
-      "num": 282117,
-      "word": "猫 讨厌和瘦子拍照",
-      "onboard_time": 1772700682,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 87617,
@@ -1331,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80578,
+      "num": 286054,
+      "word": "建议明确下班后有权拒回工作消息",
+      "onboard_time": 1772699721,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78683,
       "num": 157715,
       "word": "明日方舟",
@@ -1347,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78364,
+      "num": 286775,
+      "word": "不建议大学生直接用AI写论文",
+      "onboard_time": 1772700143,
+      "rank": 19,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 78070,
       "num": 78070,
       "word": "张凯丽说短剧不能糊弄观众",
@@ -1361,14 +1385,6 @@
       "onboard_time": 1772671224,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76950,
-      "num": 280974,
-      "word": "没有人觉得时代发展很快吗",
-      "onboard_time": 1772697862,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 76598,
@@ -1395,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76046,
+      "num": 103742,
+      "word": "孙颖莎诠释独立女性力量",
+      "onboard_time": 1772700984,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75406,
       "num": 86650,
       "word": "230元买螃蟹60元买绳子",
@@ -1409,14 +1433,6 @@
       "onboard_time": 1772693242,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74204,
-      "num": 286054,
-      "word": "建议明确下班后有权拒回工作消息",
-      "onboard_time": 1772699721,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 74021,
@@ -1563,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62475,
+      "num": 103585,
+      "word": "养生壶太全面了",
+      "onboard_time": 1772701642,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 62069,
       "num": 186007,
       "word": "麦吉丽首发3核PDRN",
@@ -1667,20 +1691,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 47671,
+      "num": 663617,
+      "word": "政府工作报告里的民生红包",
+      "onboard_time": 1772699421,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45982,
       "num": 61005,
       "word": "纽卡斯尔联2比1曼联",
       "onboard_time": 1772666299,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45037,
-      "num": 286775,
-      "word": "不建议大学生直接用AI写论文",
-      "onboard_time": 1772700143,
-      "rank": 19,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 43740,
@@ -1704,14 +1728,6 @@
       "word": "2026两会100秒",
       "onboard_time": 1772665580,
       "rank": 31,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 38863,
-      "num": 663617,
-      "word": "政府工作报告里的民生红包",
-      "onboard_time": 1772699421,
-      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -1769,6 +1785,14 @@
       "onboard_time": 1772679863,
       "rank": 18,
       "category": "汽车,体育"
+    },
+    {
+      "raw_hot": 34288,
+      "num": 135359,
+      "word": "建议医务人员薪酬不得与创收挂钩",
+      "onboard_time": 1772701402,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34270,
@@ -1927,6 +1951,9 @@
     },
     {
       "word": "#十四届全国人大四次会议开幕#"
+    },
+    {
+      "word": "#习近平的两会时间#"
     }
   ]
 }
