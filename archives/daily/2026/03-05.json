@@ -1,6 +1,6 @@
 {
   "startTime": 1772640294778,
-  "endTime": 1772695010013,
+  "endTime": 1772697188067,
   "band_list": [
     {
       "raw_hot": 3876944,
@@ -139,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 514864,
+      "num": 298623,
+      "word": "女子半年未回家走廊被邻居装修了",
+      "onboard_time": 1772694682,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 488891,
       "num": 488891,
       "word": "张杰演唱会抢票",
@@ -153,6 +161,14 @@
       "onboard_time": 1772683943,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 464034,
+      "num": 840397,
+      "word": "霍启刚希望明年春晚有香港分会场",
+      "onboard_time": 1772691562,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 441404,
@@ -187,14 +203,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 432239,
-      "num": 432239,
-      "word": "霍启刚希望明年春晚有香港分会场",
-      "onboard_time": 1772691562,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 427849,
       "num": 999544,
       "word": "我使馆提醒近期避免前往日本",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 397973,
-      "num": 246762,
+      "num": 288437,
       "word": "郭晓婷王天辰结婚共创来了",
       "onboard_time": 1772691204,
       "rank": 11,
@@ -249,6 +257,14 @@
       "onboard_time": 1772666061,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 356369,
+      "num": 356369,
+      "word": "建议缩短研究生考录时间",
+      "onboard_time": 1772694442,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 348817,
@@ -283,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304552,
+      "num": 297755,
+      "word": "武林外传20年后最大彩蛋",
+      "onboard_time": 1772692883,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 304312,
       "num": 802798,
       "word": "社保迎来第六险",
@@ -299,6 +323,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 297435,
+      "num": 297435,
+      "word": "彩礼把社会责任转移成了家庭矛盾",
+      "onboard_time": 1772690243,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291219,
+      "num": 150291,
+      "word": "郭敬明发了邓为眼部特写",
+      "onboard_time": 1772696183,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281937,
       "num": 281937,
       "word": "居民基础养老金月再提20元",
@@ -308,7 +348,7 @@
     },
     {
       "raw_hot": 281862,
-      "num": 139030,
+      "num": 147738,
       "word": "伊朗高官让特朗普想想美以谁优先",
       "onboard_time": 1772690482,
       "rank": 25,
@@ -435,20 +475,20 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 216590,
+      "num": 216590,
+      "word": "代表建议统一全国婚假天数",
+      "onboard_time": 1772692823,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215802,
       "num": 215802,
       "word": "曝十日终焉领衔主演艾米",
       "onboard_time": 1772670864,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210815,
-      "num": 210815,
-      "word": "武林外传20年后最大彩蛋",
-      "onboard_time": 1772692883,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205335,
@@ -491,14 +531,6 @@
       "category": "艺人,国内时政"
     },
     {
-      "raw_hot": 198002,
-      "num": 198002,
-      "word": "彩礼把社会责任转移成了家庭矛盾",
-      "onboard_time": 1772690243,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194921,
       "num": 194921,
       "word": "雷军回应小米手机是否涨价",
@@ -531,12 +563,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 186351,
-      "num": 186351,
-      "word": "代表建议统一全国婚假天数",
-      "onboard_time": 1772692823,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 186998,
+      "num": 143187,
+      "word": "伊朗的反击愈发猛烈",
+      "onboard_time": 1772694922,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184937,
@@ -595,12 +627,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154915,
-      "num": 120956,
+      "raw_hot": 171154,
+      "num": 171154,
+      "word": "neo是定位卖给国外中学生的",
+      "onboard_time": 1772696242,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 169134,
+      "num": 141580,
       "word": "永远不要在谈话中自贬",
       "onboard_time": 1772692043,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157371,
+      "num": 157371,
+      "word": "张杰鸟巢演唱会12万张票秒罄",
+      "onboard_time": 1772696242,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 154756,
@@ -609,6 +657,14 @@
       "onboard_time": 1772683824,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152522,
+      "num": 152522,
+      "word": "人大代表说年轻人11点一定要睡觉",
+      "onboard_time": 1772694322,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151770,
@@ -676,7 +732,7 @@
     },
     {
       "raw_hot": 140615,
-      "num": 281678,
+      "num": 298856,
       "word": "金饰克价涨到1605元",
       "onboard_time": 1772683703,
       "rank": 25,
@@ -731,12 +787,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 128071,
+      "num": 128071,
+      "word": "中方将派特使访问中东",
+      "onboard_time": 1772696482,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126690,
       "num": 126690,
       "word": "和平精英让侯明昊演嗨了",
       "onboard_time": 1772690122,
       "rank": 27,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 125232,
+      "num": 125232,
+      "word": "35岁就业歧视应该得到了缓解",
+      "onboard_time": 1772696183,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121887,
@@ -771,20 +843,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 117000,
-      "num": 117000,
-      "word": "女子半年未回家走廊被邻居装修了",
-      "onboard_time": 1772694682,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116960,
       "num": 218513,
       "word": "伊朗军舰遭袭101人失踪78人伤",
       "onboard_time": 1772619684,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116073,
+      "num": 116073,
+      "word": "肖战成唯一上榜中国艺人",
+      "onboard_time": 1772695641,
+      "rank": 32,
+      "category": "作品衍生,运动健身"
     },
     {
       "raw_hot": 115231,
@@ -916,7 +988,7 @@
     },
     {
       "raw_hot": 100219,
-      "num": 100219,
+      "num": 148942,
       "word": "跟上白鹿新动态",
       "onboard_time": 1772694862,
       "rank": 27,
@@ -1044,19 +1116,11 @@
     },
     {
       "raw_hot": 87617,
-      "num": 87617,
+      "num": 113420,
       "word": "皮肤HPV感染其实很常见",
       "onboard_time": 1772690843,
       "rank": 39,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 87567,
-      "num": 87567,
-      "word": "伊朗的反击愈发猛烈",
-      "onboard_time": 1772694922,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87044,
@@ -1123,16 +1187,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82449,
-      "num": 82449,
-      "word": "人大代表说年轻人11点一定要睡觉",
-      "onboard_time": 1772694322,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 82275,
-      "num": 116942,
+      "num": 622345,
       "word": "政府工作报告",
       "onboard_time": 1772680943,
       "rank": 39,
@@ -1161,6 +1217,14 @@
       "onboard_time": 1772686345,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79368,
+      "num": 113475,
+      "word": "比亚迪闪充",
+      "onboard_time": 1772696963,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 78683,
@@ -1193,14 +1257,6 @@
       "onboard_time": 1772671224,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77011,
-      "num": 77011,
-      "word": "建议缩短研究生考录时间",
-      "onboard_time": 1772694442,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76598,
@@ -1241,6 +1297,14 @@
       "onboard_time": 1772691383,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73214,
+      "num": 113406,
+      "word": "第一次见把舞狮耍成赖皮蛇",
+      "onboard_time": 1772696722,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 73122,
@@ -1299,6 +1363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67193,
+      "num": 113377,
+      "word": "虎杖悠仁摘下兜帽好帅",
+      "onboard_time": 1772696302,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 66506,
       "num": 66506,
       "word": "生活需要一些无用的东西",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1772675120,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62988,
+      "num": 113321,
+      "word": "谷歌DeepMind负责人喊话千问员工",
+      "onboard_time": 1772696362,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 62831,
@@ -1441,6 +1521,14 @@
       "onboard_time": 1772624725,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49405,
+      "num": 126868,
+      "word": "建议优化大学生婚育教育体系",
+      "onboard_time": 1772697025,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45982,
@@ -1585,6 +1673,14 @@
       "onboard_time": 1772646076,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23436,
+      "num": 299382,
+      "word": "我国经济顶压前行展现强大韧性",
+      "onboard_time": 1772681004,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21710,

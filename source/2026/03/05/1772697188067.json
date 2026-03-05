@@ -1,0 +1,410 @@
+{
+  "runTime": 1772697188067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 786080,
+        "num": 1125772,
+        "word": "建议春节9天假代表收到很多祝贺",
+        "onboard_time": 1772690963,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 464034,
+        "num": 840397,
+        "word": "霍启刚希望明年春晚有香港分会场",
+        "onboard_time": 1772691562,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66471,
+        "num": 622345,
+        "word": "政府工作报告",
+        "onboard_time": 1772680943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 443631,
+        "num": 443631,
+        "word": "建议尽量不要调休",
+        "onboard_time": 1772687902,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 362323,
+        "num": 362323,
+        "word": "建议三孩每月补贴5000元至3岁",
+        "onboard_time": 1772685865,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 580338,
+        "num": 359596,
+        "word": "伊朗首次使用最快自杀式无人机",
+        "onboard_time": 1772686702,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356369,
+        "num": 356369,
+        "word": "建议缩短研究生考录时间",
+        "onboard_time": 1772694442,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299549,
+        "num": 299549,
+        "word": "奶奶你是一块金子放错了地方",
+        "onboard_time": 1772682203,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23436,
+        "num": 299382,
+        "word": "我国经济顶压前行展现强大韧性",
+        "onboard_time": 1772681004,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98755,
+        "num": 298856,
+        "word": "金饰克价涨到1605元",
+        "onboard_time": 1772683703,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 514864,
+        "num": 298623,
+        "word": "女子半年未回家走廊被邻居装修了",
+        "onboard_time": 1772694682,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316823,
+        "num": 298023,
+        "word": "建议禁止性侵未成年罪犯进入幼儿园",
+        "onboard_time": 1772676020,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 304552,
+        "num": 297755,
+        "word": "武林外传20年后最大彩蛋",
+        "onboard_time": 1772692883,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297435,
+        "num": 297435,
+        "word": "彩礼把社会责任转移成了家庭矛盾",
+        "onboard_time": 1772690243,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288437,
+        "num": 288437,
+        "word": "郭晓婷王天辰结婚共创来了",
+        "onboard_time": 1772691204,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283052,
+        "num": 283052,
+        "word": "伊朗袭击以国防部大楼",
+        "onboard_time": 1772667380,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216590,
+        "num": 216590,
+        "word": "代表建议统一全国婚假天数",
+        "onboard_time": 1772692823,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171154,
+        "num": 171154,
+        "word": "neo是定位卖给国外中学生的",
+        "onboard_time": 1772696242,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157371,
+        "num": 157371,
+        "word": "张杰鸟巢演唱会12万张票秒罄",
+        "onboard_time": 1772696242,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152522,
+        "num": 152522,
+        "word": "人大代表说年轻人11点一定要睡觉",
+        "onboard_time": 1772694322,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317304,
+        "num": 151705,
+        "word": "小偷来了都要先玩俩小时",
+        "onboard_time": 1772683943,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291219,
+        "num": 150291,
+        "word": "郭敬明发了邓为眼部特写",
+        "onboard_time": 1772696183,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96297,
+        "num": 148942,
+        "word": "跟上白鹿新动态",
+        "onboard_time": 1772694862,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244625,
+        "num": 147738,
+        "word": "伊朗高官让特朗普想想美以谁优先",
+        "onboard_time": 1772690482,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196827,
+        "num": 145898,
+        "word": "张杰演唱会抢票",
+        "onboard_time": 1772690122,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186998,
+        "num": 143187,
+        "word": "伊朗的反击愈发猛烈",
+        "onboard_time": 1772694922,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169134,
+        "num": 141580,
+        "word": "永远不要在谈话中自贬",
+        "onboard_time": 1772692043,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141372,
+        "num": 141372,
+        "word": "鼓励3岁以下婴幼儿父母弹性工作制",
+        "onboard_time": 1772687123,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128071,
+        "num": 128071,
+        "word": "中方将派特使访问中东",
+        "onboard_time": 1772696482,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49405,
+        "num": 126868,
+        "word": "建议优化大学生婚育教育体系",
+        "onboard_time": 1772697025,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126707,
+        "num": 126707,
+        "word": "懂中日韩语的都沉默了",
+        "onboard_time": 1772683883,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125232,
+        "num": 125232,
+        "word": "35岁就业歧视应该得到了缓解",
+        "onboard_time": 1772696183,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116073,
+        "num": 116073,
+        "word": "肖战成唯一上榜中国艺人",
+        "onboard_time": 1772695641,
+        "rank": 32,
+        "category": "作品衍生,运动健身"
+      },
+      {
+        "raw_hot": 113514,
+        "num": 113514,
+        "word": "百妖谱",
+        "onboard_time": 1772686585,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103903,
+        "num": 113503,
+        "word": "2026政府工作报告",
+        "onboard_time": 1772675183,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84688,
+        "num": 113488,
+        "word": "140斤狗送狗肉馆途中女子600元买下",
+        "onboard_time": 1772681603,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79368,
+        "num": 113475,
+        "word": "比亚迪闪充",
+        "onboard_time": 1772696963,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 75627,
+        "num": 113459,
+        "word": "吴京 公了别人嬷了自己",
+        "onboard_time": 1772684786,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75366,
+        "num": 113436,
+        "word": "终于明白项羽为什么不肯过江东",
+        "onboard_time": 1772684664,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74474,
+        "num": 113420,
+        "word": "皮肤HPV感染其实很常见",
+        "onboard_time": 1772690843,
+        "rank": 39,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 73214,
+        "num": 113406,
+        "word": "第一次见把舞狮耍成赖皮蛇",
+        "onboard_time": 1772696722,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68059,
+        "num": 113389,
+        "word": "中国芯片攻关取得新突破",
+        "onboard_time": 1772683524,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67193,
+        "num": 113377,
+        "word": "虎杖悠仁摘下兜帽好帅",
+        "onboard_time": 1772696302,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 66785,
+        "num": 113356,
+        "word": "电影我的妈耶定档",
+        "onboard_time": 1772680221,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65845,
+        "num": 113354,
+        "word": "推进祖国统一",
+        "onboard_time": 1772678842,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64852,
+        "num": 113330,
+        "word": "Xteam对战北京WBG",
+        "onboard_time": 1772685624,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62988,
+        "num": 113321,
+        "word": "谷歌DeepMind负责人喊话千问员工",
+        "onboard_time": 1772696362,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 58533,
+        "num": 113305,
+        "word": "医院回应63岁高龄孕妇产女",
+        "onboard_time": 1772680761,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58161,
+        "num": 113291,
+        "word": "文咏珊出个国帅成啥了",
+        "onboard_time": 1772686345,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 56231,
+        "num": 113261,
+        "word": "十四届全国人大四次会议开幕会",
+        "onboard_time": 1772672663,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大四次会议开幕会举行#"
+    }
+  }
+}
