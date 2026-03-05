@@ -1,0 +1,410 @@
+{
+  "runTime": 1772753843867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 218024,
+        "num": 844883,
+        "word": "香港没有调休",
+        "onboard_time": 1772720004,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152190,
+        "num": 597107,
+        "word": "建议短视频凌晨1点至5点深夜静默",
+        "onboard_time": 1772707284,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44315,
+        "num": 468708,
+        "word": "中国将在哪些方向发力",
+        "onboard_time": 1772717541,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1019337,
+        "num": 437427,
+        "word": "春假清明连休6天家长称很无奈",
+        "onboard_time": 1772708844,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 504409,
+        "num": 378299,
+        "word": "曝现在就出发4沈腾白敬亭带队",
+        "onboard_time": 1772752819,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 668103,
+        "num": 318821,
+        "word": "伊朗称成功突破以色列七层防御",
+        "onboard_time": 1772718143,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117152,
+        "num": 117152,
+        "word": "曝姜妍补位现在就出发4",
+        "onboard_time": 1772753300,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115628,
+        "num": 115628,
+        "word": "十日终焉角色设定",
+        "onboard_time": 1772748315,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108868,
+        "num": 108868,
+        "word": "建议最低法定年假从5天提高到10天",
+        "onboard_time": 1772721503,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65019,
+        "num": 107795,
+        "word": "郭艾伦受伤",
+        "onboard_time": 1772717722,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422931,
+        "num": 106639,
+        "word": "伊朗发射带1吨重弹头导弹打以色列",
+        "onboard_time": 1772711302,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238352,
+        "num": 106124,
+        "word": "武林外传小米演员已经坚持施粥5年",
+        "onboard_time": 1772753118,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181464,
+        "num": 104998,
+        "word": "两女子相隔7公里长得一模一样",
+        "onboard_time": 1772715621,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176372,
+        "num": 102962,
+        "word": "八爪鱼钻车内失踪3天车主崩溃求助",
+        "onboard_time": 1772726242,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138441,
+        "num": 101870,
+        "word": "坐飞机时发现邻座是只耶耶",
+        "onboard_time": 1772719164,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130081,
+        "num": 99904,
+        "word": "徐浩 团播",
+        "onboard_time": 1772744953,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122254,
+        "num": 98746,
+        "word": "00后高速收费员回应撞脸多个明星",
+        "onboard_time": 1772726242,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98572,
+        "num": 98572,
+        "word": "建议不调休的代表被记者围住了",
+        "onboard_time": 1772698584,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97726,
+        "num": 97726,
+        "word": "成毅太子长琴cut",
+        "onboard_time": 1772725702,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81614,
+        "num": 97715,
+        "word": "代表说农民每月200元养老金太亏了",
+        "onboard_time": 1772711363,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 313467,
+        "num": 96448,
+        "word": "17岁男生发现新物种筷子蛇登上SCI",
+        "onboard_time": 1772723303,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205261,
+        "num": 94820,
+        "word": "伊朗称其无人机袭击林肯号航母",
+        "onboard_time": 1772752880,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182781,
+        "num": 94397,
+        "word": "高速收费员因帅得人山人海火了",
+        "onboard_time": 1772753240,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126957,
+        "num": 93478,
+        "word": "伊朗称持续打击中东多国美军目标",
+        "onboard_time": 1772753600,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105599,
+        "num": 91942,
+        "word": "王楚然 女人中的女人",
+        "onboard_time": 1772729360,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104937,
+        "num": 91552,
+        "word": "33岁女子长相幼态常被认为是小学生",
+        "onboard_time": 1772717484,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90899,
+        "num": 90899,
+        "word": "伊朗报复美以",
+        "onboard_time": 1772707102,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88957,
+        "num": 88957,
+        "word": "叶璇都演婆婆了刘晓庆还在演少女",
+        "onboard_time": 1772719104,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84635,
+        "num": 84635,
+        "word": "现在就出发4",
+        "onboard_time": 1772709863,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78427,
+        "num": 78427,
+        "word": "伊朗反击进入新阶段",
+        "onboard_time": 1772717243,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97422,
+        "num": 78238,
+        "word": "美国国土安全部部长被解职",
+        "onboard_time": 1772753721,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80521,
+        "num": 78080,
+        "word": "池昌旭 韩国酵母免疫者",
+        "onboard_time": 1772717963,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77919,
+        "num": 77919,
+        "word": "6天长假成都飞三亚机票量激增",
+        "onboard_time": 1772723663,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71163,
+        "num": 71163,
+        "word": "伊朗每天都向以色列发射导弹",
+        "onboard_time": 1772716342,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66538,
+        "num": 66538,
+        "word": "肖战十日终焉这两天定妆了",
+        "onboard_time": 1772709742,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57603,
+        "num": 57603,
+        "word": "伊朗避实就虚打击美军",
+        "onboard_time": 1772714723,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54408,
+        "num": 54408,
+        "word": "真正长大了好像就是这样",
+        "onboard_time": 1772715143,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51882,
+        "num": 51882,
+        "word": "女子收到刮刮乐生日花束刮出80万元",
+        "onboard_time": 1772715982,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51427,
+        "num": 51427,
+        "word": "陈哲远 再不救教资要融化了",
+        "onboard_time": 1772720545,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44046,
+        "num": 51423,
+        "word": "攻玉",
+        "onboard_time": 1772753179,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38357,
+        "num": 51421,
+        "word": "比亚迪全球首创闪充桩来了",
+        "onboard_time": 1772715922,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44012,
+        "num": 51415,
+        "word": "玫瑰丛生",
+        "onboard_time": 1772737214,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42706,
+        "num": 51412,
+        "word": "田曦薇转圈出场",
+        "onboard_time": 1772716823,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35547,
+        "num": 51408,
+        "word": "美国与委内瑞拉同意恢复外交关系",
+        "onboard_time": 1772753779,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37921,
+        "num": 51403,
+        "word": "王一博巴黎随拍记录",
+        "onboard_time": 1772713762,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34418,
+        "num": 51400,
+        "word": "陈哲远大侦探玩成了密逃",
+        "onboard_time": 1772731638,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30292,
+        "num": 51397,
+        "word": "高铁一等座4元二等座8元",
+        "onboard_time": 1772698822,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31966,
+        "num": 51392,
+        "word": "张艺兴直播",
+        "onboard_time": 1772718803,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30844,
+        "num": 51389,
+        "word": "惊蛰无声",
+        "onboard_time": 1772715443,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25393,
+        "num": 51384,
+        "word": "腾势Z9GT充电9分钟续航超千公里",
+        "onboard_time": 1772719463,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加江苏代表团审议#"
+    }
+  }
+}

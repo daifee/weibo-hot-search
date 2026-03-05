@@ -1,7 +1,15 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772750436861,
+  "endTime": 1772753843867,
   "band_list": [
+    {
+      "raw_hot": 1019337,
+      "num": 488737,
+      "word": "春假清明连休6天家长称很无奈",
+      "onboard_time": 1772708844,
+      "rank": 3,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 1017451,
       "num": 171960,
@@ -27,20 +35,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 518032,
-      "num": 254639,
+      "raw_hot": 668103,
+      "num": 318821,
       "word": "伊朗称成功突破以色列七层防御",
       "onboard_time": 1772718143,
       "rank": 20,
       "category": "国际时政"
     },
     {
-      "raw_hot": 488737,
-      "num": 488737,
-      "word": "春假清明连休6天家长称很无奈",
-      "onboard_time": 1772708844,
-      "rank": 3,
-      "category": "国内时政"
+      "raw_hot": 504409,
+      "num": 378299,
+      "word": "曝现在就出发4沈腾白敬亭带队",
+      "onboard_time": 1772752819,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 345454,
@@ -67,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238352,
+      "num": 106124,
+      "word": "武林外传小米演员已经坚持施粥5年",
+      "onboard_time": 1772753118,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225846,
       "num": 171854,
       "word": "两女子相隔7公里长得一模一样",
@@ -76,11 +92,27 @@
     },
     {
       "raw_hot": 219117,
-      "num": 277062,
+      "num": 597107,
       "word": "建议短视频凌晨1点至5点深夜静默",
       "onboard_time": 1772707284,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 218024,
+      "num": 844883,
+      "word": "香港没有调休",
+      "onboard_time": 1772720004,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 205261,
+      "num": 94820,
+      "word": "伊朗称其无人机袭击林肯号航母",
+      "onboard_time": 1772752880,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195580,
@@ -91,20 +123,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182781,
+      "num": 94397,
+      "word": "高速收费员因帅得人山人海火了",
+      "onboard_time": 1772753240,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176372,
+      "num": 131468,
+      "word": "八爪鱼钻车内失踪3天车主崩溃求助",
+      "onboard_time": 1772726242,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175676,
       "num": 138251,
       "word": "sask mage",
       "onboard_time": 1772723903,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172116,
-      "num": 346283,
-      "word": "香港没有调休",
-      "onboard_time": 1772720004,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 171752,
@@ -171,6 +211,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130081,
+      "num": 109115,
+      "word": "徐浩 团播",
+      "onboard_time": 1772744953,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126957,
+      "num": 93478,
+      "word": "伊朗称持续打击中东多国美军目标",
+      "onboard_time": 1772753600,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126713,
       "num": 126713,
       "word": "郭晓婷评论王天辰",
@@ -179,12 +235,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122254,
+      "num": 129890,
+      "word": "00后高速收费员回应撞脸多个明星",
+      "onboard_time": 1772726242,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121677,
       "num": 126026,
       "word": "陈哲远 再不救教资要融化了",
       "onboard_time": 1772720545,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117152,
+      "num": 117152,
+      "word": "曝姜妍补位现在就出发4",
+      "onboard_time": 1772753300,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115628,
+      "num": 212197,
+      "word": "十日终焉角色设定",
+      "onboard_time": 1772748315,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 110220,
@@ -203,12 +283,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108868,
+      "num": 171957,
+      "word": "建议最低法定年假从5天提高到10天",
+      "onboard_time": 1772721503,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105940,
       "num": 138271,
       "word": "肖战十日终焉这两天定妆了",
       "onboard_time": 1772709742,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105599,
+      "num": 126676,
+      "word": "王楚然 女人中的女人",
+      "onboard_time": 1772729360,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 99130,
@@ -227,6 +323,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97726,
+      "num": 128181,
+      "word": "成毅太子长琴cut",
+      "onboard_time": 1772725702,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97422,
+      "num": 78238,
+      "word": "美国国土安全部部长被解职",
+      "onboard_time": 1772753721,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97351,
       "num": 126387,
       "word": "美国老兵高呼没人愿为以色列而战",
@@ -241,14 +353,6 @@
       "onboard_time": 1772720125,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 94462,
-      "num": 131468,
-      "word": "八爪鱼钻车内失踪3天车主崩溃求助",
-      "onboard_time": 1772726242,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91874,
@@ -267,15 +371,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 88426,
-      "num": 109115,
-      "word": "徐浩 团播",
-      "onboard_time": 1772744953,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 84600,
+      "raw_hot": 88957,
       "num": 125945,
       "word": "叶璇都演婆婆了刘晓庆还在演少女",
       "onboard_time": 1772719104,
@@ -291,12 +387,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77973,
-      "num": 126676,
-      "word": "王楚然 女人中的女人",
-      "onboard_time": 1772729360,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 78427,
+      "num": 126002,
+      "word": "伊朗反击进入新阶段",
+      "onboard_time": 1772717243,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 77919,
+      "num": 125412,
+      "word": "6天长假成都飞三亚机票量激增",
+      "onboard_time": 1772723663,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77263,
@@ -307,52 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76890,
-      "num": 126002,
-      "word": "伊朗反击进入新阶段",
-      "onboard_time": 1772717243,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 76182,
-      "num": 171957,
-      "word": "建议最低法定年假从5天提高到10天",
-      "onboard_time": 1772721503,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 72457,
       "num": 138263,
       "word": "WBG战胜AL",
       "onboard_time": 1772714723,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 71472,
-      "num": 129890,
-      "word": "00后高速收费员回应撞脸多个明星",
-      "onboard_time": 1772726242,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70466,
-      "num": 128181,
-      "word": "成毅太子长琴cut",
-      "onboard_time": 1772725702,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 65439,
-      "num": 125412,
-      "word": "6天长假成都飞三亚机票量激增",
-      "onboard_time": 1772723663,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65412,
@@ -427,7 +491,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37067,
+      "raw_hot": 44046,
+      "num": 51423,
+      "word": "攻玉",
+      "onboard_time": 1772753179,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 44012,
       "num": 219123,
       "word": "玫瑰丛生",
       "onboard_time": 1772737214,
@@ -435,11 +507,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37921,
+      "num": 125504,
+      "word": "王一博巴黎随拍记录",
+      "onboard_time": 1772713762,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 35656,
       "num": 125697,
       "word": "美以超7套先进雷达系统被摧毁",
       "onboard_time": 1772721264,
       "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 35547,
+      "num": 51408,
+      "word": "美国与委内瑞拉同意恢复外交关系",
+      "onboard_time": 1772753779,
+      "rank": 43,
       "category": "国际时政"
     },
     {
@@ -451,23 +539,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33096,
-      "num": 212197,
-      "word": "十日终焉角色设定",
-      "onboard_time": 1772748315,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 26890,
-      "num": 125504,
-      "word": "王一博巴黎随拍记录",
-      "onboard_time": 1772713762,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22342,
+      "raw_hot": 34418,
       "num": 125814,
       "word": "陈哲远大侦探玩成了密逃",
       "onboard_time": 1772731638,
@@ -475,7 +547,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22316,
+      "raw_hot": 31966,
       "num": 125831,
       "word": "张艺兴直播",
       "onboard_time": 1772718803,
@@ -483,7 +555,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16272,
+      "raw_hot": 25393,
       "num": 125338,
       "word": "腾势Z9GT充电9分钟续航超千公里",
       "onboard_time": 1772719463,
