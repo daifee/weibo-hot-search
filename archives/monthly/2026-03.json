@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772744495610,
+  "endTime": 1772747050852,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -12571,6 +12571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31957,
+      "num": 96937,
+      "word": "徐浩 团播",
+      "onboard_time": 1772744953,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31818,
       "num": 82142,
       "word": "米兰时装周",
@@ -12625,6 +12633,14 @@
       "onboard_time": 1772372243,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29705,
+      "num": 94061,
+      "word": "艺考严选 宫里又来新人了",
+      "onboard_time": 1772738294,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 29548,
@@ -12697,14 +12713,6 @@
       "onboard_time": 1772473037,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28402,
-      "num": 76186,
-      "word": "艺考严选 宫里又来新人了",
-      "onboard_time": 1772738294,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 28200,
@@ -13276,7 +13284,7 @@
     },
     {
       "raw_hot": 13885,
-      "num": 75359,
+      "num": 89340,
       "word": "PEL春季赛",
       "onboard_time": 1772721086,
       "rank": 40,
@@ -13364,7 +13372,7 @@
     },
     {
       "raw_hot": 10337,
-      "num": 74100,
+      "num": 87258,
       "word": "张雨霏鼓励年轻人勇敢试错",
       "onboard_time": 1772734936,
       "rank": 49,
