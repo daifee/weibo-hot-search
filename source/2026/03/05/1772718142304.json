@@ -1,0 +1,410 @@
+{
+  "runTime": 1772718142304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 676309,
+        "num": 1108209,
+        "word": "两女子相隔7公里长得一模一样",
+        "onboard_time": 1772715621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555974,
+        "num": 808819,
+        "word": "建议短视频凌晨1点至5点深夜静默",
+        "onboard_time": 1772707284,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18753,
+        "num": 637302,
+        "word": "中国将在哪些方向发力",
+        "onboard_time": 1772717541,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1050414,
+        "num": 532761,
+        "word": "春假清明连休6天家长称很无奈",
+        "onboard_time": 1772708844,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 309164,
+        "num": 309164,
+        "word": "WBG战胜AL",
+        "onboard_time": 1772714723,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1397638,
+        "num": 308757,
+        "word": "伊朗发射带1吨重弹头导弹打以色列",
+        "onboard_time": 1772711302,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221973,
+        "num": 308018,
+        "word": "建议不调休的代表被记者围住了",
+        "onboard_time": 1772698584,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138407,
+        "num": 307177,
+        "word": "吕严我家那小子录制路透",
+        "onboard_time": 1772716101,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20947,
+        "num": 305850,
+        "word": "关键词速览政府工作报告",
+        "onboard_time": 1772717541,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133437,
+        "num": 305392,
+        "word": "建议优化大学生婚育教育体系",
+        "onboard_time": 1772697025,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378285,
+        "num": 304975,
+        "word": "惊蛰无声",
+        "onboard_time": 1772715443,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335459,
+        "num": 303863,
+        "word": "伊朗每天都向以色列发射导弹",
+        "onboard_time": 1772716342,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84392,
+        "num": 302562,
+        "word": "比亚迪闪充零下30度12分钟充饱",
+        "onboard_time": 1772714242,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 302513,
+        "num": 302513,
+        "word": "高铁一等座4元二等座8元",
+        "onboard_time": 1772698822,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294074,
+        "num": 294074,
+        "word": "鹤男",
+        "onboard_time": 1772709504,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246658,
+        "num": 246658,
+        "word": "代表说农民每月200元养老金太亏了",
+        "onboard_time": 1772711363,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166264,
+        "num": 166264,
+        "word": "肖战十日终焉这两天定妆了",
+        "onboard_time": 1772709742,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158829,
+        "num": 158829,
+        "word": "比亚迪全球首创闪充桩来了",
+        "onboard_time": 1772715922,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154635,
+        "num": 154635,
+        "word": "WBG对战AL",
+        "onboard_time": 1772705361,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25606,
+        "num": 154486,
+        "word": "过半受访者期待涨工资",
+        "onboard_time": 1772717603,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 976632,
+        "num": 154272,
+        "word": "现在就出发4",
+        "onboard_time": 1772709863,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360941,
+        "num": 153846,
+        "word": "纯真年代的爱情 烂尾",
+        "onboard_time": 1772702242,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306503,
+        "num": 153610,
+        "word": "伊朗报复美以",
+        "onboard_time": 1772707102,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231480,
+        "num": 153174,
+        "word": "攻玉主演 侯明昊鹤男",
+        "onboard_time": 1772706502,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230894,
+        "num": 153031,
+        "word": "伊朗避实就虚打击美军",
+        "onboard_time": 1772714723,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162071,
+        "num": 152855,
+        "word": "AG爱笑",
+        "onboard_time": 1772715022,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152587,
+        "num": 152587,
+        "word": "比Deepfake更严重的AI出现了",
+        "onboard_time": 1772702542,
+        "rank": 26,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 146592,
+        "num": 146592,
+        "word": "女子收到刮刮乐生日花束刮出80万元",
+        "onboard_time": 1772715982,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143246,
+        "num": 143246,
+        "word": "伊朗反击进入新阶段",
+        "onboard_time": 1772717243,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127804,
+        "num": 127804,
+        "word": "租房能不能别再开广角拍房子",
+        "onboard_time": 1772702843,
+        "rank": 29,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 369349,
+        "num": 127138,
+        "word": "33岁女子长相幼态常被认为是小学生",
+        "onboard_time": 1772717484,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123177,
+        "num": 123177,
+        "word": "伊朗称击落一架美军F15战斗机",
+        "onboard_time": 1772714723,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120766,
+        "num": 120766,
+        "word": "田曦薇转圈出场",
+        "onboard_time": 1772716823,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117606,
+        "num": 117606,
+        "word": "1岁9个月宝宝吃花生呛到脑部受损",
+        "onboard_time": 1772711542,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110266,
+        "num": 110266,
+        "word": "建议解决公积金看得到用不了难题",
+        "onboard_time": 1772715083,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108544,
+        "num": 108544,
+        "word": "王一博巴黎随拍记录",
+        "onboard_time": 1772713762,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107238,
+        "num": 107238,
+        "word": "腾势Z9GT",
+        "onboard_time": 1772717603,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 105357,
+        "num": 105357,
+        "word": "郭艾伦受伤",
+        "onboard_time": 1772717722,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104537,
+        "num": 104537,
+        "word": "真正长大了好像就是这样",
+        "onboard_time": 1772715143,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41345,
+        "num": 102554,
+        "word": "池昌旭 韩国酵母免疫者",
+        "onboard_time": 1772717963,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101658,
+        "num": 101658,
+        "word": "原来爸妈年轻时比我们还疯",
+        "onboard_time": 1772714004,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92128,
+        "num": 101634,
+        "word": "6个月宝宝第一次吃香蕉表情绝了",
+        "onboard_time": 1772716342,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89303,
+        "num": 101551,
+        "word": "女孩3天晒成酱油色回国被要中国护照",
+        "onboard_time": 1772717784,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86486,
+        "num": 101486,
+        "word": "薛之谦万兽之王长沙站开启预售",
+        "onboard_time": 1772707702,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17165,
+        "num": 101434,
+        "word": "文咏珊像肩膀里塞了个衣架",
+        "onboard_time": 1772717903,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85170,
+        "num": 101364,
+        "word": "罗意威大秀阵容",
+        "onboard_time": 1772712443,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 84291,
+        "num": 101313,
+        "word": "京东2025年收入13091亿",
+        "onboard_time": 1772709623,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80929,
+        "num": 101267,
+        "word": "刘国梁谈国乒男队发展现状",
+        "onboard_time": 1772713162,
+        "rank": 47,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 79586,
+        "num": 101231,
+        "word": "薛之谦万兽之王巡回演唱会",
+        "onboard_time": 1772708062,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74479,
+        "num": 101158,
+        "word": "花84万买到的140平步梯顶楼",
+        "onboard_time": 1772706682,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加江苏代表团审议#"
+    }
+  }
+}
