@@ -1,0 +1,410 @@
+{
+  "runTime": 1772797943743,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 371808,
+        "num": 1059489,
+        "word": "妇女节 放假",
+        "onboard_time": 1772786902,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248563,
+        "num": 1038532,
+        "word": "双一流高校本科扩招10万人以上",
+        "onboard_time": 1772790143,
+        "rank": 1,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 26007,
+        "num": 1008376,
+        "word": "视频速览十五五20项主要指标",
+        "onboard_time": 1772785641,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137116,
+        "num": 995958,
+        "word": "耿爽履新中国人民外交学会副会长",
+        "onboard_time": 1772786242,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135085,
+        "num": 949517,
+        "word": "陈幸同获伦敦世乒赛团体参赛资格",
+        "onboard_time": 1772797462,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 942694,
+        "num": 942694,
+        "word": "逐玉热度",
+        "onboard_time": 1772793741,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291396,
+        "num": 937706,
+        "word": "伊朗导弹袭击以色列最大机场",
+        "onboard_time": 1772796261,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194161,
+        "num": 797477,
+        "word": "千问妇女节活动",
+        "onboard_time": 1772782401,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25370,
+        "num": 689802,
+        "word": "这位人大代表坚守乡村小学40年",
+        "onboard_time": 1772785641,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156687,
+        "num": 549631,
+        "word": "破5亿播放AI短剧成本仅3000",
+        "onboard_time": 1772781682,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533699,
+        "num": 533699,
+        "word": "贾国龙卸任西贝CEO",
+        "onboard_time": 1772794701,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510075,
+        "num": 510075,
+        "word": "369 小丑了",
+        "onboard_time": 1772786962,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 280527,
+        "num": 502139,
+        "word": "伊朗一儿童游乐场遭袭",
+        "onboard_time": 1772786121,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 494964,
+        "num": 494964,
+        "word": "TES上报Naiyou不正当行为",
+        "onboard_time": 1772786962,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60168,
+        "num": 444034,
+        "word": "千问AI一句话下单无门槛立减",
+        "onboard_time": 1772794881,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 432047,
+        "num": 432047,
+        "word": "逐玉开播",
+        "onboard_time": 1772791282,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410233,
+        "num": 410233,
+        "word": "滨寿司员工餐",
+        "onboard_time": 1772790861,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 375161,
+        "num": 375161,
+        "word": "第五人格",
+        "onboard_time": 1772784082,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 370960,
+        "num": 370960,
+        "word": "罗意威大秀",
+        "onboard_time": 1772793682,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 341157,
+        "num": 341157,
+        "word": "肖战李宛妲 十日终焉",
+        "onboard_time": 1772784561,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271496,
+        "num": 271496,
+        "word": "建议艾滋感染者1个月内告知配偶",
+        "onboard_time": 1772788282,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267581,
+        "num": 267581,
+        "word": "逐玉 顶级待遇",
+        "onboard_time": 1772787501,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162487,
+        "num": 162487,
+        "word": "王一博巴黎时装周大片",
+        "onboard_time": 1772795422,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 82587,
+        "num": 158126,
+        "word": "白鹿春节后首个活动",
+        "onboard_time": 1772795122,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154966,
+        "num": 154966,
+        "word": "4岁女孩高血压就诊发现竟是男孩",
+        "onboard_time": 1772792002,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196220,
+        "num": 152811,
+        "word": "逐玉直播",
+        "onboard_time": 1772796863,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157045,
+        "num": 152111,
+        "word": "董璇张维伊婚礼策划倒闭了",
+        "onboard_time": 1772785941,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145224,
+        "num": 145224,
+        "word": "专家建议女性尽早做生育力评估",
+        "onboard_time": 1772794761,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152969,
+        "num": 144955,
+        "word": "喜人真的升咖了",
+        "onboard_time": 1772796501,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116634,
+        "num": 142180,
+        "word": "央行今年将降准降息",
+        "onboard_time": 1772785822,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140929,
+        "num": 140929,
+        "word": "剩半截身体的鱼经主人照顾奇迹康复",
+        "onboard_time": 1772795301,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127449,
+        "num": 127449,
+        "word": "逐玉云包场",
+        "onboard_time": 1772792482,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127266,
+        "num": 127266,
+        "word": "广西壮族自治区党委书记陈刚亮家丑",
+        "onboard_time": 1772794761,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127199,
+        "num": 127199,
+        "word": "女子频繁迟到做事拖沓被确诊ADHD",
+        "onboard_time": 1772794223,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120058,
+        "num": 120058,
+        "word": "美以袭击已致1332名伊朗人死亡",
+        "onboard_time": 1772788643,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119777,
+        "num": 119777,
+        "word": "10年内保姆机器人走进千家万户",
+        "onboard_time": 1772797402,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114632,
+        "num": 114632,
+        "word": "金智秀新剧开播",
+        "onboard_time": 1772790202,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112133,
+        "num": 112133,
+        "word": "第五人格牙医",
+        "onboard_time": 1772795781,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111894,
+        "num": 111894,
+        "word": "王楚钦孙颖莎缺席WTT太原挑战赛",
+        "onboard_time": 1772796801,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109686,
+        "num": 109686,
+        "word": "女子常熬夜上班压力大查出3种癌",
+        "onboard_time": 1772796681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107282,
+        "num": 107282,
+        "word": "逐玉反馈",
+        "onboard_time": 1772796382,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105504,
+        "num": 105504,
+        "word": "女子翻老盒子内藏十几张清朝地契",
+        "onboard_time": 1772797881,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98987,
+        "num": 98987,
+        "word": "钎九不清冰合照",
+        "onboard_time": 1772787562,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97794,
+        "num": 97794,
+        "word": "白鹿跳水了",
+        "onboard_time": 1772787743,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91379,
+        "num": 91379,
+        "word": "唐家三少口碑因晋江女频翻盘",
+        "onboard_time": 1772788761,
+        "rank": 44,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 90994,
+        "num": 90994,
+        "word": "最有钱的时候买了最没用的东西",
+        "onboard_time": 1772789242,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48839,
+        "num": 90020,
+        "word": "徐志胜红绿色盲看股票",
+        "onboard_time": 1772793560,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89736,
+        "num": 89736,
+        "word": "斯里兰卡营救遭击沉伊朗军舰画面",
+        "onboard_time": 1772792842,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86811,
+        "num": 89717,
+        "word": "真我 暂停新机研发",
+        "onboard_time": 1772784680,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 60082,
+        "num": 89688,
+        "word": "周恺放弃参加第一阶段选拔赛",
+        "onboard_time": 1772795842,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再话共同富裕#"
+    }
+  }
+}
