@@ -1,0 +1,410 @@
+{
+  "runTime": 1772773036574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 716560,
+        "num": 1114649,
+        "word": "多地官宣春假清明连休6天",
+        "onboard_time": 1772766320,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 419101,
+        "num": 802797,
+        "word": "被骂了千年的小动物们该翻身了",
+        "onboard_time": 1772766923,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77879,
+        "num": 637657,
+        "word": "十五五规划109项重大工程项目一览",
+        "onboard_time": 1772768421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49992,
+        "num": 633067,
+        "word": "代表建议将心理筛查纳入中小学体检",
+        "onboard_time": 1772772383,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 629537,
+        "num": 629537,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1772762962,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 375447,
+        "num": 375447,
+        "word": "美国24州联合起诉特朗普政府",
+        "onboard_time": 1772766861,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 333013,
+        "num": 333013,
+        "word": "你的肉松肉紧",
+        "onboard_time": 1772766801,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318441,
+        "num": 318441,
+        "word": "刘国梁高度肯定樊振东",
+        "onboard_time": 1772770341,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241473,
+        "num": 241473,
+        "word": "龚俊陆小凤造型",
+        "onboard_time": 1772765901,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40527,
+        "num": 241314,
+        "word": "建议提高农村居民育儿补贴",
+        "onboard_time": 1772763082,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 757310,
+        "num": 240857,
+        "word": "老舅妈嫩娘去世",
+        "onboard_time": 1772769442,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632544,
+        "num": 240208,
+        "word": "伊朗外长拒绝与美国谈判",
+        "onboard_time": 1772763142,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 435568,
+        "num": 239620,
+        "word": "委内瑞拉决定同美国恢复外交关系",
+        "onboard_time": 1772763861,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352918,
+        "num": 238746,
+        "word": "撞脸肖战收费员说没肖战帅",
+        "onboard_time": 1772771303,
+        "rank": 13,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 311551,
+        "num": 238257,
+        "word": "曝现在就出发4金晨被替换了",
+        "onboard_time": 1772754621,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249303,
+        "num": 238007,
+        "word": "重案六组",
+        "onboard_time": 1772762962,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237576,
+        "num": 237576,
+        "word": "伊朗军队誓为遭击沉军舰复仇",
+        "onboard_time": 1772768061,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210121,
+        "num": 210121,
+        "word": "谭松韵新剧气血十足老辈子来的",
+        "onboard_time": 1772771003,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31297,
+        "num": 201821,
+        "word": "草本初色开启蚕丝内衣新纪元",
+        "onboard_time": 1772770341,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 196669,
+        "num": 196669,
+        "word": "女生800元买猫被传染全身长猫藓",
+        "onboard_time": 1772765482,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151412,
+        "num": 193458,
+        "word": "蔡徐坤阳光感好绝",
+        "onboard_time": 1772769862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219833,
+        "num": 193204,
+        "word": "惠英红 叫声妈咪保你在香港风生水起",
+        "onboard_time": 1772768661,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198801,
+        "num": 193178,
+        "word": "今年首个官宣涨价的车企",
+        "onboard_time": 1772767402,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191287,
+        "num": 191287,
+        "word": "逐玉",
+        "onboard_time": 1772758763,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106650,
+        "num": 167061,
+        "word": "刘亦菲夏日松弛感拉满",
+        "onboard_time": 1772769862,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150111,
+        "num": 150111,
+        "word": "军费增长7%专家解读",
+        "onboard_time": 1772770521,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162914,
+        "num": 149617,
+        "word": "凤舞九天",
+        "onboard_time": 1772763260,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64085,
+        "num": 147189,
+        "word": "张予曦是花仙子本仙吧",
+        "onboard_time": 1772766261,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129504,
+        "num": 147067,
+        "word": "伊朗称美军林肯号航母被击中后撤",
+        "onboard_time": 1772755761,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147038,
+        "num": 147038,
+        "word": "逐玉追剧日历",
+        "onboard_time": 1772767823,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179190,
+        "num": 143657,
+        "word": "外国朋友以为中国也是一人一道菜",
+        "onboard_time": 1772772202,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139944,
+        "num": 139944,
+        "word": "伊朗向美以发动第20波袭击",
+        "onboard_time": 1772772202,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137114,
+        "num": 137114,
+        "word": "十日终焉纯大男主群像",
+        "onboard_time": 1772770282,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133036,
+        "num": 133036,
+        "word": "曝现在就出发4沈腾白敬亭带队",
+        "onboard_time": 1772752819,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128625,
+        "num": 128625,
+        "word": "中方吊唁哈梅内伊遇难",
+        "onboard_time": 1772764040,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117986,
+        "num": 117986,
+        "word": "死了么团队改名回归",
+        "onboard_time": 1772768783,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115403,
+        "num": 115403,
+        "word": "有效中文vs无效中文",
+        "onboard_time": 1772769801,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115159,
+        "num": 115159,
+        "word": "这种妈妈宠女儿最狠了",
+        "onboard_time": 1772772803,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111358,
+        "num": 111358,
+        "word": "超市招收银员限制30岁体重110斤",
+        "onboard_time": 1772770161,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110827,
+        "num": 110827,
+        "word": "伊朗称其无人机袭击林肯号航母",
+        "onboard_time": 1772752880,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11774,
+        "num": 108589,
+        "word": "建议三年级前学生课间延长至30分钟",
+        "onboard_time": 1772772983,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108464,
+        "num": 108464,
+        "word": "建议中小学春秋假也要考虑家长放假",
+        "onboard_time": 1772761641,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42052,
+        "num": 107589,
+        "word": "张凌赫田曦薇逐玉三连吻",
+        "onboard_time": 1772771664,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106964,
+        "num": 106964,
+        "word": "真正的细糠一直在家里",
+        "onboard_time": 1772771183,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104266,
+        "num": 104266,
+        "word": "利率下调房贷省出110万元",
+        "onboard_time": 1772758463,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101981,
+        "num": 101981,
+        "word": "原来四个小时能干这么多事",
+        "onboard_time": 1772772623,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97621,
+        "num": 97621,
+        "word": "两会",
+        "onboard_time": 1772759181,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90894,
+        "num": 90894,
+        "word": "和高中班主任说来读我的研",
+        "onboard_time": 1772768600,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88864,
+        "num": 88864,
+        "word": "郑钦文缺席澳网后痛哭",
+        "onboard_time": 1772771544,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88712,
+        "num": 88712,
+        "word": "当小猫看见主人的双胞胎姐姐",
+        "onboard_time": 1772772923,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为经济大省向新指明方向#"
+    }
+  }
+}
