@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772836672293,
+  "endTime": 1772837766176,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -299,6 +299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 76497,
+      "num": 101884,
+      "word": "女子频繁迟到做事拖沓被确诊ADHD",
+      "onboard_time": 1772794223,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76052,
       "num": 138359,
       "word": "剩半截身体的鱼经主人照顾奇迹康复",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 74938,
-      "num": 28826,
+      "num": 38826,
       "word": "伊朗1吨重弹头导弹打击以色列",
       "onboard_time": 1772824875,
       "rank": 23,
@@ -321,6 +329,14 @@
       "onboard_time": 1772794761,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 72097,
+      "num": 39348,
+      "word": "王一博罗意威大秀内场状态",
+      "onboard_time": 1772834535,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 71406,
@@ -345,14 +361,6 @@
       "onboard_time": 1772790202,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65160,
-      "num": 101884,
-      "word": "女子频繁迟到做事拖沓被确诊ADHD",
-      "onboard_time": 1772794223,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64923,
@@ -427,14 +435,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 51473,
-      "num": 28797,
-      "word": "王一博罗意威大秀内场状态",
-      "onboard_time": 1772834535,
-      "rank": 22,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 51162,
       "num": 136889,
       "word": "破5亿播放AI短剧成本仅3000",
@@ -491,8 +491,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24782,
-      "num": 24782,
+      "raw_hot": 25406,
+      "num": 25406,
       "word": "周五晚高疯",
       "onboard_time": 1772823195,
       "rank": 41,
@@ -515,20 +515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19055,
+      "num": 25341,
+      "word": "建议将天价彩礼治理纳入当地考核",
+      "onboard_time": 1772836516,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14837,
-      "num": 22243,
+      "num": 25339,
       "word": "2026PEL春季赛",
       "onboard_time": 1772821155,
       "rank": 46,
       "category": "电竞"
     },
     {
-      "raw_hot": 11064,
-      "num": 22204,
-      "word": "建议将天价彩礼治理纳入当地考核",
-      "onboard_time": 1772836516,
+      "raw_hot": 12979,
+      "num": 25337,
+      "word": "肖战十日终焉的适配度",
+      "onboard_time": 1772837656,
       "rank": 49,
-      "category": "国内时政"
+      "category": "剧集"
     },
     {
       "raw_hot": 6326,
