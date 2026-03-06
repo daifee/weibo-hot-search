@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772791405985,
+  "endTime": 1772793950713,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -393,6 +393,14 @@
       "onboard_time": 1772433261,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1303150,
+      "num": 536014,
+      "word": "第五人格",
+      "onboard_time": 1772784082,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 1268750,
@@ -1435,6 +1443,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 646211,
+      "num": 508766,
+      "word": "逐玉开播",
+      "onboard_time": 1772765240,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 644600,
       "num": 912472,
       "word": "IF椰子水严正声明",
@@ -1980,7 +1996,7 @@
     },
     {
       "raw_hot": 517349,
-      "num": 307309,
+      "num": 436088,
       "word": "逐玉 顶级待遇",
       "onboard_time": 1772787501,
       "rank": 36,
@@ -2116,7 +2132,7 @@
     },
     {
       "raw_hot": 496607,
-      "num": 325057,
+      "num": 601606,
       "word": "伊朗一儿童游乐场遭袭",
       "onboard_time": 1772786121,
       "rank": 39,
@@ -2177,6 +2193,14 @@
       "onboard_time": 1772452465,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 482760,
+      "num": 482760,
+      "word": "滨寿司员工餐",
+      "onboard_time": 1772790861,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 481992,
@@ -2281,6 +2305,14 @@
       "onboard_time": 1772462546,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465833,
+      "num": 783224,
+      "word": "双一流高校本科扩招10万人以上",
+      "onboard_time": 1772790143,
+      "rank": 6,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 464045,
@@ -3507,14 +3539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 328089,
-      "num": 328089,
-      "word": "逐玉开播",
-      "onboard_time": 1772765240,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 325706,
       "num": 417619,
       "word": "只有胡彦斌记得今天是元宵节",
@@ -3833,14 +3857,6 @@
       "onboard_time": 1772720004,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 304106,
-      "num": 304106,
-      "word": "第五人格",
-      "onboard_time": 1772784082,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 303362,
@@ -4763,6 +4779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239827,
+      "num": 239827,
+      "word": "建议艾滋感染者1个月内告知配偶",
+      "onboard_time": 1772788282,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 239437,
       "num": 227494,
       "word": "美军公布对伊朗行动视频",
@@ -5315,14 +5339,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 212108,
-      "num": 314945,
-      "word": "双一流高校本科扩招10万人以上",
-      "onboard_time": 1772790143,
-      "rank": 6,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 212055,
       "num": 200508,
       "word": "朴元彬 YSL",
@@ -5337,6 +5353,14 @@
       "onboard_time": 1772433683,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211461,
+      "num": 211461,
+      "word": "逐玉云包场",
+      "onboard_time": 1772792482,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 211296,
@@ -6331,6 +6355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167757,
+      "num": 167757,
+      "word": "金智秀新剧开播",
+      "onboard_time": 1772790202,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167616,
       "num": 167616,
       "word": "汪东城方严正声明",
@@ -6435,28 +6467,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163789,
-      "num": 163789,
-      "word": "金智秀新剧开播",
-      "onboard_time": 1772790202,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163413,
       "num": 385480,
       "word": "剑来",
       "onboard_time": 1772623105,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163379,
-      "num": 163379,
-      "word": "建议艾滋感染者1个月内告知配偶",
-      "onboard_time": 1772788282,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 162829,
@@ -6649,6 +6665,14 @@
       "onboard_time": 1772437045,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158839,
+      "num": 158839,
+      "word": "唐家三少口碑因晋江女频翻盘",
+      "onboard_time": 1772788761,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 158697,
@@ -7547,14 +7571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137955,
-      "num": 137955,
-      "word": "唐家三少口碑因晋江女频翻盘",
-      "onboard_time": 1772788761,
-      "rank": 31,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 137677,
       "num": 852166,
       "word": "易梦玲工作室回应被质疑压花",
@@ -7851,6 +7867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131043,
+      "num": 131043,
+      "word": "罗意威大秀",
+      "onboard_time": 1772793682,
+      "rank": 29,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 131023,
       "num": 131023,
       "word": "美驻联合国代表让伊朗代表小心点",
@@ -7865,6 +7889,14 @@
       "onboard_time": 1772286744,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130647,
+      "num": 130647,
+      "word": "美以袭击已致1332名伊朗人死亡",
+      "onboard_time": 1772788643,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130582,
@@ -7969,6 +8001,14 @@
       "onboard_time": 1772425348,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128098,
+      "num": 128098,
+      "word": "4岁女孩高血压就诊发现竟是男孩",
+      "onboard_time": 1772792002,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128055,
@@ -8451,6 +8491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 120192,
+      "num": 120192,
+      "word": "建议全国统一婚假天数",
+      "onboard_time": 1772791341,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120105,
       "num": 120105,
       "word": "白鹿赵晴偷拍王星越",
@@ -8499,20 +8547,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 119670,
-      "num": 119670,
-      "word": "美以袭击已致1332名伊朗人死亡",
-      "onboard_time": 1772788643,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 119251,
       "num": 119251,
       "word": "未来真正的竞争力将转向语言型人才",
       "onboard_time": 1772688022,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 119247,
+      "num": 153838,
+      "word": "王安宇出发CELINE大秀",
+      "onboard_time": 1772791642,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119062,
@@ -8987,6 +9035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112393,
+      "num": 112393,
+      "word": "真我 暂停新机研发",
+      "onboard_time": 1772784680,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 112320,
       "num": 112320,
       "word": "相亲市场还是太权威了",
@@ -9347,14 +9403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 106770,
-      "num": 106770,
-      "word": "滨寿司员工餐",
-      "onboard_time": 1772790861,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 106679,
       "num": 283232,
       "word": "给白发母亲塞200元当事医生发声",
@@ -9433,6 +9481,14 @@
       "onboard_time": 1772543249,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105248,
+      "num": 105248,
+      "word": "逐玉热度",
+      "onboard_time": 1772793741,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 105199,
@@ -9811,6 +9867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100862,
+      "num": 112615,
+      "word": "斯里兰卡营救遭击沉伊朗军舰画面",
+      "onboard_time": 1772792842,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100852,
       "num": 846319,
       "word": "孙俪邓超2026全家福",
@@ -9929,6 +9993,14 @@
       "onboard_time": 1772606843,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100035,
+      "num": 100035,
+      "word": "369 我付出真心就这样被对待",
+      "onboard_time": 1772793081,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 100026,
@@ -11105,14 +11177,6 @@
       "onboard_time": 1772508386,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85274,
-      "num": 85274,
-      "word": "真我 暂停新机研发",
-      "onboard_time": 1772784680,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 85194,
@@ -12539,6 +12603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67351,
+      "num": 112413,
+      "word": "白鹿抱孩子vs王鹤棣抱孩子",
+      "onboard_time": 1772790741,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67290,
       "num": 161856,
       "word": "伊朗导弹击中以色列中部致6死23伤",
@@ -12769,6 +12841,14 @@
       "onboard_time": 1772589144,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63419,
+      "num": 127040,
+      "word": "人大代表建议提倡领导带头休假",
+      "onboard_time": 1772792602,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63370,
@@ -13107,6 +13187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55209,
+      "num": 109317,
+      "word": "刘宇宁水仙 家好像都变小了",
+      "onboard_time": 1772789123,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55194,
       "num": 910642,
       "word": "AI相关产业规模将超10万亿元",
@@ -13137,6 +13225,14 @@
       "onboard_time": 1772516064,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53997,
+      "num": 109298,
+      "word": "秦岚的高情商不是话术是善良",
+      "onboard_time": 1772788942,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 53944,
@@ -13721,6 +13817,14 @@
       "onboard_time": 1772469861,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42373,
+      "num": 153481,
+      "word": "建议设置孕产妇隐私诊室",
+      "onboard_time": 1772792540,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42215,
@@ -14315,14 +14419,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 31149,
-      "num": 115448,
-      "word": "建议全国统一婚假天数",
-      "onboard_time": 1772791341,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 30849,
       "num": 118413,
       "word": "肖战说米兰最好吃的是披萨",
@@ -14913,6 +15009,14 @@
       "onboard_time": 1772390716,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17437,
+      "num": 212457,
+      "word": "建议为罕见病患者家庭提供支持",
+      "onboard_time": 1772793741,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17422,
