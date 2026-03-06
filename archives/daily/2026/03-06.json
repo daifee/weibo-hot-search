@@ -1,6 +1,6 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772797943743,
+  "endTime": 1772802683823,
   "band_list": [
     {
       "raw_hot": 2048848,
@@ -17,6 +17,14 @@
       "onboard_time": 1772786962,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1516899,
+      "num": 937706,
+      "word": "伊朗导弹袭击以色列最大机场",
+      "onboard_time": 1772796261,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1448072,
@@ -235,6 +243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 539657,
+      "num": 539657,
+      "word": "伊朗打击伊拉克库尔德地区",
+      "onboard_time": 1772799262,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 538662,
       "num": 262699,
       "word": "女子产后21天突发大出血晕倒车库",
@@ -248,6 +264,22 @@
       "word": "逐玉 顶级待遇",
       "onboard_time": 1772787501,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 515664,
+      "num": 1082506,
+      "word": "生命树",
+      "onboard_time": 1772798242,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 514022,
+      "num": 514022,
+      "word": "逐玉腾讯爱奇艺热度差距",
+      "onboard_time": 1772799442,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -507,14 +539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 291396,
-      "num": 937706,
-      "word": "伊朗导弹袭击以色列最大机场",
-      "onboard_time": 1772796261,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 289614,
       "num": 138259,
       "word": "现在就出发4",
@@ -683,6 +707,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215080,
+      "num": 215080,
+      "word": "逐玉假洞房比真的还涩",
+      "onboard_time": 1772800101,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212116,
+      "num": 570105,
+      "word": "广西壮族自治区党委书记陈刚亮家丑",
+      "onboard_time": 1772794761,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 210018,
+      "num": 210018,
+      "word": "张予曦毕雯珺 综艺",
+      "onboard_time": 1772800401,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208107,
       "num": 172247,
       "word": "伊朗称已准备好应对美军地面入侵",
@@ -755,6 +803,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 189868,
+      "num": 189868,
+      "word": "林俊杰空降逐玉直播间",
+      "onboard_time": 1772802622,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189168,
       "num": 115546,
       "word": "比亚迪闪充站建设真的猛",
@@ -819,6 +875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172726,
+      "num": 172726,
+      "word": "女子翻老盒子内藏十几张清朝地契",
+      "onboard_time": 1772797881,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171752,
       "num": 171752,
       "word": "鹤男",
@@ -865,6 +929,14 @@
       "onboard_time": 1772786541,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 165945,
+      "num": 165945,
+      "word": "女子常熬夜上班压力大查出3种癌",
+      "onboard_time": 1772796681,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165828,
@@ -947,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155786,
+      "num": 155786,
+      "word": "逐玉 曾庆杰",
+      "onboard_time": 1772798782,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153748,
       "num": 153748,
       "word": "高铁一等座4元二等座8元",
@@ -1000,6 +1080,14 @@
       "word": "曝周翊然竞争十日终焉被pass",
       "onboard_time": 1772782941,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146599,
+      "num": 85525,
+      "word": "张凌赫演技",
+      "onboard_time": 1772801182,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1072,6 +1160,14 @@
       "word": "两会",
       "onboard_time": 1772759181,
       "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 140351,
+      "num": 587333,
+      "word": "六大未来产业有哪些",
+      "onboard_time": 1772798721,
+      "rank": 4,
       "category": "国内时政"
     },
     {
@@ -1185,14 +1281,6 @@
       "onboard_time": 1772773643,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130166,
-      "num": 130166,
-      "word": "广西壮族自治区党委书记陈刚亮家丑",
-      "onboard_time": 1772794761,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 130081,
@@ -1515,14 +1603,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109686,
-      "num": 109686,
-      "word": "女子常熬夜上班压力大查出3种癌",
-      "onboard_time": 1772796681,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109297,
       "num": 109297,
       "word": "剑来",
@@ -1577,14 +1657,6 @@
       "onboard_time": 1772709742,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105504,
-      "num": 105504,
-      "word": "女子翻老盒子内藏十几张清朝地契",
-      "onboard_time": 1772797881,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103390,
@@ -1731,6 +1803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94874,
+      "num": 94874,
+      "word": "建议减轻教师非教育教学负担",
+      "onboard_time": 1772799621,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94818,
       "num": 298986,
       "word": "俱乐部通报郭艾伦伤情",
@@ -1809,6 +1889,14 @@
       "onboard_time": 1772782641,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89030,
+      "num": 89030,
+      "word": "请全球通缉发明这个水枪的天才",
+      "onboard_time": 1772802563,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 88864,
@@ -1891,6 +1979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 85844,
+      "num": 85844,
+      "word": "建议家长放弃竞争式教育观念",
+      "onboard_time": 1772799923,
+      "rank": 36,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 84471,
       "num": 178090,
       "word": "D级SUV的顶级掌控感",
@@ -1905,6 +2001,14 @@
       "onboard_time": 1772780843,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83955,
+      "num": 83955,
+      "word": "魏建军就海报抄袭道歉",
+      "onboard_time": 1772802382,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 83758,
@@ -2051,6 +2155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76631,
+      "num": 76631,
+      "word": "OpenClaw爆火",
+      "onboard_time": 1772802622,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76505,
       "num": 216072,
       "word": "张予曦是花仙子本仙吧",
@@ -2089,6 +2201,14 @@
       "onboard_time": 1772773464,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72976,
+      "num": 72976,
+      "word": "委员说去机场比坐飞机时间还长",
+      "onboard_time": 1772800702,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72949,
@@ -2147,6 +2267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69972,
+      "num": 69972,
+      "word": "黄景瑜孙千 明川有知夏",
+      "onboard_time": 1772802622,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69678,
       "num": 216152,
       "word": "建议解决配偶住院无人陪护难题",
@@ -2201,6 +2329,22 @@
       "onboard_time": 1772715922,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 64120,
+      "num": 192209,
+      "word": "代表说70岁以上老人真干不动农活了",
+      "onboard_time": 1772802322,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63258,
+      "num": 69943,
+      "word": "手机涨价买新机还是买老款",
+      "onboard_time": 1772799742,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 62813,
@@ -2403,6 +2547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39177,
+      "num": 549712,
+      "word": "委员称培训隐形变异侵蚀教育公平",
+      "onboard_time": 1772802022,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37921,
       "num": 125504,
       "word": "王一博巴黎随拍记录",
@@ -2521,6 +2673,14 @@
       "onboard_time": 1772784622,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 29498,
+      "num": 595864,
+      "word": "十五五规划新指标新看点",
+      "onboard_time": 1772801242,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27727,
@@ -2666,6 +2826,9 @@
     },
     {
       "word": "#总书记再话共同富裕#"
+    },
+    {
+      "word": "#习近平看望全国政协委员#"
     }
   ]
 }
