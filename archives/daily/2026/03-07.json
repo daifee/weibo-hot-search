@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772818944182,
+  "endTime": 1772820052995,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -419,6 +419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 43713,
+      "num": 43713,
+      "word": "月刊男友",
+      "onboard_time": 1772817797,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42902,
       "num": 102783,
       "word": "Naiyou疑似假赛",
@@ -435,14 +443,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 42288,
-      "num": 42288,
-      "word": "月刊男友",
-      "onboard_time": 1772817797,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 42086,
       "num": 101884,
       "word": "女子频繁迟到做事拖沓被确诊ADHD",
@@ -451,7 +451,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36173,
+      "raw_hot": 39124,
       "num": 40568,
       "word": "美国土安全部长诺姆被解职",
       "onboard_time": 1772818457,
@@ -465,6 +465,22 @@
       "onboard_time": 1772801242,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26442,
+      "num": 34392,
+      "word": "穆祉丞新歌等待一切重来",
+      "onboard_time": 1772819596,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 22580,
+      "num": 34387,
+      "word": "檀健次直播",
+      "onboard_time": 1772819057,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 6326,
