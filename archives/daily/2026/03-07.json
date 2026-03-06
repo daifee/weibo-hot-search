@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772824197914,
+  "endTime": 1772826039791,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -457,6 +457,14 @@
       "onboard_time": 1772794223,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28949,
+      "num": 26701,
+      "word": "伊朗1吨重弹头导弹打击以色列",
+      "onboard_time": 1772824875,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28824,
