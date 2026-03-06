@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772787040168,
+  "endTime": 1772787867674,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -155,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2048848,
+      "num": 751082,
+      "word": "TES上报Naiyou不正当行为",
+      "onboard_time": 1772786962,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1944315,
       "num": 249951,
       "word": "伊朗导弹绕过拦截击中耶路撒冷",
@@ -169,6 +177,14 @@
       "onboard_time": 1772375426,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1768231,
+      "num": 862637,
+      "word": "369 小丑了",
+      "onboard_time": 1772786962,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 1754499,
@@ -683,6 +699,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 965437,
+      "num": 829712,
+      "word": "肖战李宛妲 十日终焉",
+      "onboard_time": 1772784561,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 963315,
       "num": 301447,
       "word": "张元英签售态度",
@@ -811,14 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 862637,
-      "num": 862637,
-      "word": "369 小丑了",
-      "onboard_time": 1772786962,
-      "rank": 10,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 859441,
       "num": 1137510,
       "word": "建议短视频凌晨1点至5点深夜静默",
@@ -921,14 +937,6 @@
       "onboard_time": 1772432662,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 829712,
-      "num": 829712,
-      "word": "肖战李宛妲 十日终焉",
-      "onboard_time": 1772784561,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 829555,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1772769442,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 751082,
-      "num": 751082,
-      "word": "TES上报Naiyou不正当行为",
-      "onboard_time": 1772786962,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 750125,
@@ -1723,6 +1723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 586710,
+      "num": 586710,
+      "word": "董璇吐槽张维伊",
+      "onboard_time": 1772785461,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 586597,
       "num": 861250,
       "word": "油价调整",
@@ -1963,14 +1971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519761,
-      "num": 519761,
-      "word": "董璇吐槽张维伊",
-      "onboard_time": 1772785461,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 517295,
       "num": 420458,
       "word": "穆祉丞王橹杰跨代隐藏卡",
@@ -2177,6 +2177,14 @@
       "onboard_time": 1772291963,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 479216,
+      "num": 286582,
+      "word": "董璇张维伊婚礼策划倒闭了",
+      "onboard_time": 1772785941,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 477268,
@@ -2723,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399923,
+      "num": 941883,
+      "word": "千问妇女节活动",
+      "onboard_time": 1772782401,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 399516,
       "num": 269191,
       "word": "情久对战JDG",
@@ -3059,14 +3075,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 367996,
-      "num": 941883,
-      "word": "千问妇女节活动",
-      "onboard_time": 1772782401,
-      "rank": 29,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 365681,
       "num": 185299,
       "word": "沙特阿美避开霍尔木兹海峡运原油",
@@ -3361,6 +3369,14 @@
       "onboard_time": 1772709504,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335821,
+      "num": 335821,
+      "word": "钎九不清冰合照",
+      "onboard_time": 1772787562,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 334523,
@@ -3785,14 +3801,6 @@
       "onboard_time": 1772423424,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302991,
-      "num": 231680,
-      "word": "董璇张维伊婚礼策划倒闭了",
-      "onboard_time": 1772785941,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 302343,
@@ -4883,6 +4891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232278,
+      "num": 232278,
+      "word": "第五人格",
+      "onboard_time": 1772784082,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230801,
       "num": 230801,
       "word": "肛门周围长东西一定是痔疮吗",
@@ -4945,6 +4961,14 @@
       "onboard_time": 1772685624,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 228022,
+      "num": 918869,
+      "word": "央行今年将降准降息",
+      "onboard_time": 1772785822,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 228018,
@@ -5065,6 +5089,14 @@
       "onboard_time": 1772530286,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220660,
+      "num": 220660,
+      "word": "Naiyou疑似假赛",
+      "onboard_time": 1772787083,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 220429,
@@ -5289,6 +5321,14 @@
       "onboard_time": 1772756242,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 206417,
+      "num": 602991,
+      "word": "耿爽履新中国人民外交学会副会长",
+      "onboard_time": 1772786242,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 205965,
@@ -5660,7 +5700,7 @@
     },
     {
       "raw_hot": 191661,
-      "num": 193919,
+      "num": 262188,
       "word": "小鹏G6超级增程六项全能一步到位",
       "onboard_time": 1772782461,
       "rank": 22,
@@ -6265,6 +6305,14 @@
       "onboard_time": 1772762360,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166066,
+      "num": 166066,
+      "word": "腾讯工程师在楼下免费安装OpenClaw",
+      "onboard_time": 1772786541,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 166063,
@@ -6987,6 +7035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147212,
+      "num": 147212,
+      "word": "伊朗一儿童游乐场遭袭",
+      "onboard_time": 1772786121,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147177,
       "num": 161252,
       "word": "中东冲突全面扩散",
@@ -7169,6 +7225,14 @@
       "onboard_time": 1772408361,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143737,
+      "num": 143737,
+      "word": "妇女节 放假",
+      "onboard_time": 1772786902,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143716,
@@ -7627,6 +7691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132612,
+      "num": 132612,
+      "word": "白鹿跳水了",
+      "onboard_time": 1772787743,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132587,
       "num": 132587,
       "word": "耙耙柑的本名叫春见",
@@ -7657,6 +7729,14 @@
       "onboard_time": 1772726242,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132113,
+      "num": 132113,
+      "word": "逐玉 顶级待遇",
+      "onboard_time": 1772787501,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 132050,
@@ -8059,14 +8139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123670,
-      "num": 918869,
-      "word": "央行今年将降准降息",
-      "onboard_time": 1772785822,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 123460,
       "num": 371735,
       "word": "iPhone17e首发国补即破价",
@@ -8401,14 +8473,6 @@
       "onboard_time": 1772620464,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118362,
-      "num": 118362,
-      "word": "耿爽履新中国人民外交学会副会长",
-      "onboard_time": 1772786242,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 118257,
@@ -9273,14 +9337,6 @@
       "onboard_time": 1772543249,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 105241,
-      "num": 105241,
-      "word": "伊朗一儿童游乐场遭袭",
-      "onboard_time": 1772786121,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 105199,
@@ -10435,14 +10491,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 91482,
-      "num": 91482,
-      "word": "腾讯工程师在楼下免费安装OpenClaw",
-      "onboard_time": 1772786541,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 91416,
       "num": 327800,
       "word": "现身凤凰传奇演唱会的副市长获表彰",
@@ -11361,14 +11409,6 @@
       "onboard_time": 1772721985,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 80008,
-      "num": 80008,
-      "word": "妇女节 放假",
-      "onboard_time": 1772786902,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79934,
@@ -13147,6 +13187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49555,
+      "num": 119358,
+      "word": "只有白鹿一个人自恋",
+      "onboard_time": 1772783962,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49325,
       "num": 281634,
       "word": "春敏修护黄金法则",
@@ -13345,6 +13393,14 @@
       "onboard_time": 1772361742,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46281,
+      "num": 118993,
+      "word": "PDRN为什么叫液体黄金",
+      "onboard_time": 1772787444,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 46269,
@@ -13572,7 +13628,7 @@
     },
     {
       "raw_hot": 41520,
-      "num": 131510,
+      "num": 177969,
       "word": "领克900大五座官宣亮相",
       "onboard_time": 1772784382,
       "rank": 29,
@@ -13859,6 +13915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35613,
+      "num": 981508,
+      "word": "视频速览十五五20项主要指标",
+      "onboard_time": 1772785641,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35199,
       "num": 144964,
       "word": "油价再度大涨",
@@ -13872,6 +13936,14 @@
       "word": "建议减少内卷式加班",
       "onboard_time": 1772507245,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 35194,
+      "num": 599063,
+      "word": "建议老年人转账设24小时冷静期",
+      "onboard_time": 1772787024,
+      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -13921,14 +13993,6 @@
       "onboard_time": 1772493980,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34586,
-      "num": 981508,
-      "word": "视频速览十五五20项主要指标",
-      "onboard_time": 1772785641,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34560,
@@ -14059,6 +14123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32684,
+      "num": 891830,
+      "word": "这位人大代表坚守乡村小学40年",
+      "onboard_time": 1772785641,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32340,
       "num": 302027,
       "word": "代表建议延长A股交易时间",
@@ -14140,7 +14212,7 @@
     },
     {
       "raw_hot": 29756,
-      "num": 234516,
+      "num": 305300,
       "word": "天猫一场直播汇集百款AI新品",
       "onboard_time": 1772784622,
       "rank": 19,
@@ -14272,14 +14344,6 @@
       "word": "建议将闲置校舍改造为农村养老院",
       "onboard_time": 1772709623,
       "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 26998,
-      "num": 891830,
-      "word": "这位人大代表坚守乡村小学40年",
-      "onboard_time": 1772785641,
-      "rank": 8,
       "category": "国内时政"
     },
     {
@@ -14841,6 +14905,14 @@
       "onboard_time": 1772476035,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13957,
+      "num": 287081,
+      "word": "代表说宠物相关法律迟早会出台",
+      "onboard_time": 1772787083,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13907,

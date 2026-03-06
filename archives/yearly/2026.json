@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772787040168,
+  "endTime": 1772787867674,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1411,6 +1411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2048848,
+      "num": 751082,
+      "word": "TES上报Naiyou不正当行为",
+      "onboard_time": 1772786962,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2047463,
       "num": 302605,
       "word": "花海房管",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1769250741,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1768231,
+      "num": 862637,
+      "word": "369 小丑了",
+      "onboard_time": 1772786962,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 1765303,
@@ -2384,22 +2400,6 @@
       "word": "特朗普发布马杜罗在美国军舰上照片",
       "onboard_time": 1767459021,
       "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 1541282,
-      "num": 1541282,
-      "word": "宋平同志逝世",
-      "onboard_time": 1772622204,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1540685,
-      "num": 1540685,
-      "word": "尹锡悦被判无期徒刑",
-      "onboard_time": 1771484899,
-      "rank": 0,
       "category": "国际时政"
     }
   ],

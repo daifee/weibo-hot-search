@@ -1,0 +1,410 @@
+{
+  "runTime": 1772787867674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 86121,
+        "num": 1013779,
+        "word": "经济主题记者会",
+        "onboard_time": 1772780601,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268139,
+        "num": 716984,
+        "word": "青海省委书记看生命树落泪",
+        "onboard_time": 1772779762,
+        "rank": 1,
+        "category": "国内时政,剧集"
+      },
+      {
+        "raw_hot": 35613,
+        "num": 605144,
+        "word": "视频速览十五五20项主要指标",
+        "onboard_time": 1772785641,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228022,
+        "num": 603783,
+        "word": "央行今年将降准降息",
+        "onboard_time": 1772785822,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206417,
+        "num": 602991,
+        "word": "耿爽履新中国人民外交学会副会长",
+        "onboard_time": 1772786242,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 399923,
+        "num": 601328,
+        "word": "千问妇女节活动",
+        "onboard_time": 1772782401,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35194,
+        "num": 599063,
+        "word": "建议老年人转账设24小时冷静期",
+        "onboard_time": 1772787024,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46164,
+        "num": 598527,
+        "word": "AI相关产业规模将超10万亿元",
+        "onboard_time": 1772781322,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32684,
+        "num": 597023,
+        "word": "这位人大代表坚守乡村小学40年",
+        "onboard_time": 1772785641,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32418,
+        "num": 594990,
+        "word": "预计今年GDP增量超6万亿元",
+        "onboard_time": 1772781322,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2048848,
+        "num": 593406,
+        "word": "TES上报Naiyou不正当行为",
+        "onboard_time": 1772786962,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1768231,
+        "num": 592794,
+        "word": "369 小丑了",
+        "onboard_time": 1772786962,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 965437,
+        "num": 590404,
+        "word": "肖战李宛妲 十日终焉",
+        "onboard_time": 1772784561,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 757007,
+        "num": 589013,
+        "word": "伊朗称击中美国林肯号航母",
+        "onboard_time": 1772778562,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194224,
+        "num": 587083,
+        "word": "多地官宣春假清明连休6天",
+        "onboard_time": 1772766320,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 586710,
+        "num": 586710,
+        "word": "董璇吐槽张维伊",
+        "onboard_time": 1772785461,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443587,
+        "num": 443587,
+        "word": "千问宣布妇女节再次请客",
+        "onboard_time": 1772779462,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 335821,
+        "num": 335821,
+        "word": "钎九不清冰合照",
+        "onboard_time": 1772787562,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27764,
+        "num": 305300,
+        "word": "天猫一场直播汇集百款AI新品",
+        "onboard_time": 1772784622,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13957,
+        "num": 287081,
+        "word": "代表说宠物相关法律迟早会出台",
+        "onboard_time": 1772787083,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 479216,
+        "num": 286582,
+        "word": "董璇张维伊婚礼策划倒闭了",
+        "onboard_time": 1772785941,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285619,
+        "num": 285619,
+        "word": "千问",
+        "onboard_time": 1772777062,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 282203,
+        "num": 282203,
+        "word": "孩子大了后要帮孩子完成社会化",
+        "onboard_time": 1772777542,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140834,
+        "num": 262188,
+        "word": "小鹏G6超级增程六项全能一步到位",
+        "onboard_time": 1772782461,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 247611,
+        "num": 247611,
+        "word": "破5亿播放AI短剧成本仅3000",
+        "onboard_time": 1772781682,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232278,
+        "num": 232278,
+        "word": "第五人格",
+        "onboard_time": 1772784082,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220660,
+        "num": 220660,
+        "word": "Naiyou疑似假赛",
+        "onboard_time": 1772787083,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216648,
+        "num": 216648,
+        "word": "小米发布国内第一个手机版龙虾",
+        "onboard_time": 1772777542,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193270,
+        "num": 193270,
+        "word": "印度对美国炸船行为保持沉默",
+        "onboard_time": 1772777542,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37163,
+        "num": 177969,
+        "word": "领克900大五座官宣亮相",
+        "onboard_time": 1772784382,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177557,
+        "num": 177557,
+        "word": "女子产后21天突发大出血晕倒车库",
+        "onboard_time": 1772774301,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166066,
+        "num": 166066,
+        "word": "腾讯工程师在楼下免费安装OpenClaw",
+        "onboard_time": 1772786541,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151802,
+        "num": 151802,
+        "word": "教练笑了半小时才决定教普拉提",
+        "onboard_time": 1772783782,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147212,
+        "num": 147212,
+        "word": "伊朗一儿童游乐场遭袭",
+        "onboard_time": 1772786121,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143737,
+        "num": 143737,
+        "word": "妇女节 放假",
+        "onboard_time": 1772786902,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132612,
+        "num": 132612,
+        "word": "白鹿跳水了",
+        "onboard_time": 1772787743,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132113,
+        "num": 132113,
+        "word": "逐玉 顶级待遇",
+        "onboard_time": 1772787501,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129165,
+        "num": 129165,
+        "word": "建议在全国推行低彩礼",
+        "onboard_time": 1772784622,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20642,
+        "num": 123280,
+        "word": "娜扎我互联网的好闺蜜",
+        "onboard_time": 1772780601,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49555,
+        "num": 119358,
+        "word": "只有白鹿一个人自恋",
+        "onboard_time": 1772783962,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46281,
+        "num": 118993,
+        "word": "PDRN为什么叫液体黄金",
+        "onboard_time": 1772787444,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118879,
+        "num": 118879,
+        "word": "曝周翊然竞争十日终焉被pass",
+        "onboard_time": 1772782941,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113426,
+        "num": 113426,
+        "word": "本想全国唯一却因太生僻改名",
+        "onboard_time": 1772784799,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111619,
+        "num": 111619,
+        "word": "Kep1er徐永恩退团",
+        "onboard_time": 1772779882,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109642,
+        "num": 109642,
+        "word": "刘国梁回应樊振东一出一回",
+        "onboard_time": 1772777482,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109308,
+        "num": 109308,
+        "word": "不要热水洗头时梳头发",
+        "onboard_time": 1772774424,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107269,
+        "num": 107269,
+        "word": "逐玉集均",
+        "onboard_time": 1772784864,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104199,
+        "num": 104199,
+        "word": "避免女性在生育与事业间被迫二选一",
+        "onboard_time": 1772783241,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101787,
+        "num": 101787,
+        "word": "猫 哥你别吃了我害怕",
+        "onboard_time": 1772781742,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101632,
+        "num": 101632,
+        "word": "季洁扮演者王茜回应重案六组翻拍",
+        "onboard_time": 1772779160,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再话共同富裕#"
+    }
+  }
+}
