@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772816829800,
+  "endTime": 1772818944182,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -139,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197803,
+      "num": 120299,
+      "word": "逐玉 截不到丑图",
+      "onboard_time": 1772815820,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185948,
       "num": 140479,
       "word": "逐玉 任豪",
@@ -177,14 +185,6 @@
       "onboard_time": 1772802622,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 152415,
-      "num": 120299,
-      "word": "逐玉 截不到丑图",
-      "onboard_time": 1772815820,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 150968,
@@ -267,20 +267,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85347,
+      "num": 107090,
+      "word": "董璇名下公司被执行千万",
+      "onboard_time": 1772814801,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83105,
       "num": 138699,
       "word": "369 小丑了",
       "onboard_time": 1772786962,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 80573,
-      "num": 107090,
-      "word": "董璇名下公司被执行千万",
-      "onboard_time": 1772814801,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 77274,
@@ -435,12 +435,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 38631,
+      "raw_hot": 42288,
+      "num": 42288,
+      "word": "月刊男友",
+      "onboard_time": 1772817797,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42086,
       "num": 101884,
       "word": "女子频繁迟到做事拖沓被确诊ADHD",
       "onboard_time": 1772794223,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36173,
+      "num": 40568,
+      "word": "美国土安全部长诺姆被解职",
+      "onboard_time": 1772818457,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28824,
