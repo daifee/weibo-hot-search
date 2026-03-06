@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772820052995,
+  "endTime": 1772823493341,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -13523,6 +13523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62368,
+      "num": 44275,
+      "word": "美国土安全部长诺姆被解职",
+      "onboard_time": 1772818457,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62201,
       "num": 216501,
       "word": "有了pdd雨林深处也能村口取货",
@@ -14051,6 +14059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49017,
+      "num": 43885,
+      "word": "月刊男友",
+      "onboard_time": 1772817797,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48857,
       "num": 145733,
       "word": "苹果上调MacBookAir和Pro售价",
@@ -14379,14 +14395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43713,
-      "num": 43713,
-      "word": "月刊男友",
-      "onboard_time": 1772817797,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 43503,
       "num": 607949,
       "word": "孙颖莎4比1战胜陈熠",
@@ -14657,14 +14665,6 @@
       "onboard_time": 1772293583,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39124,
-      "num": 40568,
-      "word": "美国土安全部长诺姆被解职",
-      "onboard_time": 1772818457,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38825,
@@ -15505,6 +15505,14 @@
       "onboard_time": 1772494220,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 22033,
+      "num": 22033,
+      "word": "逐玉 真正的男帅女美",
+      "onboard_time": 1772820676,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 21710,
