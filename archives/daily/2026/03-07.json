@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772812883497,
+  "endTime": 1772816019996,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1070512,
-      "num": 221073,
+      "num": 296257,
       "word": "伊朗导弹袭击以色列最大机场",
       "onboard_time": 1772796261,
       "rank": 5,
@@ -25,6 +25,22 @@
       "onboard_time": 1772803703,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 655773,
+      "num": 348311,
+      "word": "省委书记怒批有点小权就用到极致",
+      "onboard_time": 1772812641,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 416585,
+      "num": 156874,
+      "word": "张凌赫 配音",
+      "onboard_time": 1772811803,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 373879,
@@ -43,20 +59,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 307794,
+      "num": 307794,
+      "word": "生命树",
+      "onboard_time": 1772798242,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282278,
       "num": 172423,
       "word": "伊朗发射超重型导弹为遇难学生复仇",
       "onboard_time": 1772805624,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 266669,
-      "num": 266669,
-      "word": "生命树",
-      "onboard_time": 1772798242,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 257699,
@@ -107,28 +123,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212193,
-      "num": 156874,
-      "word": "张凌赫 配音",
-      "onboard_time": 1772811803,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 210809,
-      "num": 176215,
-      "word": "省委书记怒批有点小权就用到极致",
-      "onboard_time": 1772812641,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 198554,
+      "raw_hot": 208801,
       "num": 180147,
       "word": "乒协会尊重樊振东意愿全力保障",
       "onboard_time": 1772803643,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204828,
+      "num": 141668,
+      "word": "穆祉丞新歌",
+      "onboard_time": 1772805384,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 185948,
@@ -171,20 +179,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 150914,
+      "num": 471979,
+      "word": "镖人",
+      "onboard_time": 1772812582,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140801,
       "num": 140801,
       "word": "女子翻老盒子内藏十几张清朝地契",
       "onboard_time": 1772797881,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139451,
-      "num": 139451,
-      "word": "穆祉丞新歌",
-      "onboard_time": 1772805384,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 133731,
@@ -201,6 +209,14 @@
       "onboard_time": 1772798721,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115695,
+      "num": 115695,
+      "word": "逐玉 截不到丑图",
+      "onboard_time": 1772815820,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 114396,
@@ -283,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73786,
+      "num": 107090,
+      "word": "董璇名下公司被执行千万",
+      "onboard_time": 1772814801,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73418,
       "num": 138179,
       "word": "专家建议女性尽早做生育力评估",
@@ -347,20 +371,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 59558,
+      "num": 106278,
+      "word": "你好星期六",
+      "onboard_time": 1772812761,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 58575,
+      "num": 137181,
+      "word": "建议双一流本科扩招优先山河四省",
+      "onboard_time": 1772809882,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 56468,
       "num": 137239,
       "word": "美以袭击已致1332名伊朗人死亡",
       "onboard_time": 1772788643,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56411,
-      "num": 137181,
-      "word": "建议双一流本科扩招优先山河四省",
-      "onboard_time": 1772809882,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 53464,
@@ -387,6 +419,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 42836,
+      "num": 103007,
+      "word": "关于短线交易监管的若干规定",
+      "onboard_time": 1772815459,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 42228,
+      "num": 102783,
+      "word": "Naiyou疑似假赛",
+      "onboard_time": 1772787083,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 34915,
+      "num": 101884,
+      "word": "女子频繁迟到做事拖沓被确诊ADHD",
+      "onboard_time": 1772794223,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28824,
       "num": 592913,
       "word": "十五五规划新指标新看点",
@@ -406,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#习近平看望全国政协委员#"
+    },
+    {
+      "word": "#习近平总书记向女同胞致以节日祝福#"
     }
   ]
 }
