@@ -1,0 +1,410 @@
+{
+  "runTime": 1772809540800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 413206,
+        "num": 1066113,
+        "word": "代表说70岁以上老人真干不动农活了",
+        "onboard_time": 1772802322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307887,
+        "num": 782921,
+        "word": "花呗等网络消费信贷可享受贴息",
+        "onboard_time": 1772805143,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36895,
+        "num": 631002,
+        "word": "十五五规划新指标新看点",
+        "onboard_time": 1772801242,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 547315,
+        "num": 547315,
+        "word": "生命树",
+        "onboard_time": 1772798242,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132683,
+        "num": 540749,
+        "word": "六大未来产业有哪些",
+        "onboard_time": 1772798721,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1246675,
+        "num": 520827,
+        "word": "伊朗大使说250年怎能挑衅3000年历史",
+        "onboard_time": 1772803703,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199588,
+        "num": 516283,
+        "word": "广西壮族自治区党委书记陈刚亮家丑",
+        "onboard_time": 1772794761,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142570,
+        "num": 501749,
+        "word": "OpenClaw爆火",
+        "onboard_time": 1772802622,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16312,
+        "num": 484955,
+        "word": "预计今年GDP增量超6万亿元",
+        "onboard_time": 1772781322,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136799,
+        "num": 466266,
+        "word": "妇女节 放假",
+        "onboard_time": 1772786902,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1189698,
+        "num": 452985,
+        "word": "伊朗导弹袭击以色列最大机场",
+        "onboard_time": 1772796261,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 448431,
+        "num": 448431,
+        "word": "乒协会尊重樊振东意愿全力保障",
+        "onboard_time": 1772803643,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414550,
+        "num": 414550,
+        "word": "迪丽热巴包场支持张凌赫新剧",
+        "onboard_time": 1772803521,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359654,
+        "num": 359654,
+        "word": "请全球通缉发明这个水枪的天才",
+        "onboard_time": 1772802563,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 400359,
+        "num": 343370,
+        "word": "逐玉开播",
+        "onboard_time": 1772791282,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257562,
+        "num": 314876,
+        "word": "张予曦毕雯珺 综艺",
+        "onboard_time": 1772800401,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153736,
+        "num": 306397,
+        "word": "魏建军就海报抄袭道歉",
+        "onboard_time": 1772802382,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 300516,
+        "num": 300516,
+        "word": "逐玉腾讯爱奇艺热度差距",
+        "onboard_time": 1772799442,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174555,
+        "num": 294863,
+        "word": "周杰伦新歌要来了",
+        "onboard_time": 1772807662,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153483,
+        "num": 291325,
+        "word": "TES上报Naiyou不正当行为",
+        "onboard_time": 1772786962,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 694797,
+        "num": 291052,
+        "word": "伊朗发射超重型导弹为遇难学生复仇",
+        "onboard_time": 1772805624,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290385,
+        "num": 290385,
+        "word": "逐玉热度",
+        "onboard_time": 1772793741,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186184,
+        "num": 186184,
+        "word": "曾庆杰 升咖",
+        "onboard_time": 1772803943,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172263,
+        "num": 172263,
+        "word": "伊朗打击伊拉克库尔德地区",
+        "onboard_time": 1772799262,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283369,
+        "num": 171030,
+        "word": "逐玉 任豪",
+        "onboard_time": 1772805503,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147563,
+        "num": 147563,
+        "word": "字节腾讯同日抢人",
+        "onboard_time": 1772806463,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 253667,
+        "num": 146754,
+        "word": "逐玉爆开",
+        "onboard_time": 1772809164,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136838,
+        "num": 136838,
+        "word": "女子翻老盒子内藏十几张清朝地契",
+        "onboard_time": 1772797881,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134113,
+        "num": 134113,
+        "word": "黄景瑜孙千 明川有知夏",
+        "onboard_time": 1772802622,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132085,
+        "num": 132085,
+        "word": "穆祉丞新歌",
+        "onboard_time": 1772805384,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122878,
+        "num": 122878,
+        "word": "369 小丑了",
+        "onboard_time": 1772786962,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119978,
+        "num": 119978,
+        "word": "女子常熬夜上班压力大查出3种癌",
+        "onboard_time": 1772796681,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119869,
+        "num": 119869,
+        "word": "专家建议女性尽早做生育力评估",
+        "onboard_time": 1772794761,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116308,
+        "num": 116308,
+        "word": "第五人格",
+        "onboard_time": 1772784082,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113150,
+        "num": 113150,
+        "word": "真我",
+        "onboard_time": 1772805503,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104715,
+        "num": 104715,
+        "word": "伊朗外长说对抗美以已是胜利",
+        "onboard_time": 1772803703,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92390,
+        "num": 92390,
+        "word": "我国初高中学生人数将排浪式达峰",
+        "onboard_time": 1772808684,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88395,
+        "num": 88395,
+        "word": "草莓价格大大大跳水",
+        "onboard_time": 1772808023,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87573,
+        "num": 87573,
+        "word": "剩半截身体的鱼经主人照顾奇迹康复",
+        "onboard_time": 1772795301,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74490,
+        "num": 87137,
+        "word": "海狮06自由闪充告别等待",
+        "onboard_time": 1772808203,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 87003,
+        "num": 87003,
+        "word": "白鹿跳水了",
+        "onboard_time": 1772787743,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83747,
+        "num": 86953,
+        "word": "破5亿播放AI短剧成本仅3000",
+        "onboard_time": 1772781682,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82109,
+        "num": 86933,
+        "word": "巴黎时装周",
+        "onboard_time": 1772809403,
+        "rank": 42,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 79007,
+        "num": 86902,
+        "word": "金智秀新剧开播",
+        "onboard_time": 1772790202,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79684,
+        "num": 86833,
+        "word": "超近距离看王一博",
+        "onboard_time": 1772806824,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 76620,
+        "num": 86761,
+        "word": "OpenClaw安装服务爆火",
+        "onboard_time": 1772808684,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76290,
+        "num": 86706,
+        "word": "肖战李宛妲 十日终焉",
+        "onboard_time": 1772784561,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76001,
+        "num": 86680,
+        "word": "陈飞宇直播",
+        "onboard_time": 1772807904,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74537,
+        "num": 86616,
+        "word": "千问妇女节活动",
+        "onboard_time": 1772782401,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 43137,
+        "num": 86562,
+        "word": "山东出手解决年轻人来鲁第一难",
+        "onboard_time": 1772807603,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望全国政协委员#"
+    }
+  }
+}

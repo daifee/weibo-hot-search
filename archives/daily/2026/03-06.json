@@ -1,6 +1,6 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772808259085,
+  "endTime": 1772809540800,
   "band_list": [
     {
       "raw_hot": 2048848,
@@ -192,6 +192,14 @@
       "word": "伊朗发射带1吨重弹头导弹打以色列",
       "onboard_time": 1772711302,
       "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 694797,
+      "num": 335996,
+      "word": "伊朗发射超重型导弹为遇难学生复仇",
+      "onboard_time": 1772805624,
+      "rank": 20,
       "category": "国际时政"
     },
     {
@@ -403,12 +411,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 404862,
-      "num": 335996,
-      "word": "伊朗发射超重型导弹为遇难学生复仇",
-      "onboard_time": 1772805624,
-      "rank": 20,
-      "category": "国际时政"
+      "raw_hot": 414550,
+      "num": 414550,
+      "word": "迪丽热巴包场支持张凌赫新剧",
+      "onboard_time": 1772803521,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 399923,
@@ -449,14 +457,6 @@
       "onboard_time": 1772787562,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 368703,
-      "num": 368703,
-      "word": "迪丽热巴包场支持张凌赫新剧",
-      "onboard_time": 1772803521,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 361241,
@@ -563,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 307887,
+      "num": 782921,
+      "word": "花呗等网络消费信贷可享受贴息",
+      "onboard_time": 1772805143,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 306631,
       "num": 344822,
       "word": "刘国梁回应樊振东一出一回",
@@ -616,6 +624,14 @@
       "word": "逐玉",
       "onboard_time": 1772758763,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 283369,
+      "num": 171030,
+      "word": "逐玉 任豪",
+      "onboard_time": 1772805503,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -683,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253667,
+      "num": 146754,
+      "word": "逐玉爆开",
+      "onboard_time": 1772809164,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251237,
       "num": 110351,
       "word": "高速收费员因帅得人山人海火了",
@@ -729,14 +753,6 @@
       "onboard_time": 1772717963,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 230848,
-      "num": 151958,
-      "word": "逐玉 任豪",
-      "onboard_time": 1772805503,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 225846,
@@ -955,20 +971,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174555,
+      "num": 294863,
+      "word": "周杰伦新歌要来了",
+      "onboard_time": 1772807662,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171752,
       "num": 171752,
       "word": "鹤男",
       "onboard_time": 1772709504,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171241,
-      "num": 567521,
-      "word": "花呗等网络消费信贷可享受贴息",
-      "onboard_time": 1772805143,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 170741,
@@ -1155,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147563,
+      "num": 147563,
+      "word": "字节腾讯同日抢人",
+      "onboard_time": 1772806463,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 147309,
       "num": 147309,
       "word": "我熬夜熬穿了就这样",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1772754020,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142570,
+      "num": 501749,
+      "word": "OpenClaw爆火",
+      "onboard_time": 1772802622,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 140929,
@@ -1371,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132085,
+      "num": 132085,
+      "word": "穆祉丞新歌",
+      "onboard_time": 1772805384,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131870,
       "num": 94275,
       "word": "如萍你真是在哪都不会说话",
@@ -1425,14 +1465,6 @@
       "onboard_time": 1772794223,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127044,
-      "num": 127044,
-      "word": "穆祉丞新歌",
-      "onboard_time": 1772805384,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 126713,
@@ -1505,14 +1537,6 @@
       "onboard_time": 1772803703,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 121377,
-      "num": 121377,
-      "word": "字节腾讯同日抢人",
-      "onboard_time": 1772806463,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 120639,
@@ -1907,14 +1931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 98189,
-      "num": 102563,
-      "word": "周杰伦新歌要来了",
-      "onboard_time": 1772807662,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 97642,
       "num": 97642,
       "word": "据报初步评估显示美军袭击伊朗学校",
@@ -1987,6 +2003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 92390,
+      "num": 92390,
+      "word": "我国初高中学生人数将排浪式达峰",
+      "onboard_time": 1772808684,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 91874,
       "num": 126302,
       "word": "伊朗报复美以",
@@ -2057,6 +2081,14 @@
       "onboard_time": 1772764223,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88395,
+      "num": 105792,
+      "word": "草莓价格大大大跳水",
+      "onboard_time": 1772808023,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88310,
@@ -2179,20 +2211,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82321,
-      "num": 102511,
-      "word": "OpenClaw爆火",
-      "onboard_time": 1772802622,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 82293,
       "num": 82293,
       "word": "勇士vs火箭",
       "onboard_time": 1772763442,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82109,
+      "num": 86933,
+      "word": "巴黎时装周",
+      "onboard_time": 1772809403,
+      "rank": 42,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 81830,
@@ -2307,11 +2339,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76620,
+      "num": 86761,
+      "word": "OpenClaw安装服务爆火",
+      "onboard_time": 1772808684,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76505,
       "num": 216072,
       "word": "张予曦是花仙子本仙吧",
       "onboard_time": 1772766261,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76001,
+      "num": 86680,
+      "word": "陈飞宇直播",
+      "onboard_time": 1772807904,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -2329,6 +2377,14 @@
       "onboard_time": 1772775920,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74490,
+      "num": 107600,
+      "word": "海狮06自由闪充告别等待",
+      "onboard_time": 1772808203,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 74388,
@@ -2635,14 +2691,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 44127,
-      "num": 107600,
-      "word": "海狮06自由闪充告别等待",
-      "onboard_time": 1772808203,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 44012,
       "num": 219123,
       "word": "玫瑰丛生",
@@ -2692,7 +2740,7 @@
     },
     {
       "raw_hot": 39278,
-      "num": 599207,
+      "num": 631002,
       "word": "十五五规划新指标新看点",
       "onboard_time": 1772801242,
       "rank": 2,
@@ -2929,14 +2977,6 @@
       "onboard_time": 1772767701,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17658,
-      "num": 105792,
-      "word": "草莓价格大大大跳水",
-      "onboard_time": 1772808023,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13957,
