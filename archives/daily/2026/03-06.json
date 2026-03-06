@@ -1,6 +1,6 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772776433306,
+  "endTime": 1772777177705,
   "band_list": [
     {
       "raw_hot": 1448072,
@@ -259,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 293921,
+      "num": 293921,
+      "word": "千问",
+      "onboard_time": 1772777062,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 289614,
       "num": 138259,
       "word": "现在就出发4",
@@ -275,20 +283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282765,
+      "num": 282765,
+      "word": "伊朗军队誓为遭击沉军舰复仇",
+      "onboard_time": 1772768061,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 279313,
       "num": 176879,
       "word": "妈妈回应女儿长得像星星人",
       "onboard_time": 1772763921,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275462,
-      "num": 275462,
-      "word": "伊朗军队誓为遭击沉军舰复仇",
-      "onboard_time": 1772768061,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 274101,
@@ -315,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265221,
+      "num": 203915,
+      "word": "十年前卖衣服方式",
+      "onboard_time": 1772773703,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251237,
       "num": 110351,
       "word": "高速收费员因帅得人山人海火了",
       "onboard_time": 1772753240,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249479,
+      "num": 285701,
+      "word": "逐玉 智能倍速看剧",
+      "onboard_time": 1772775022,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 246317,
@@ -411,14 +435,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 197114,
-      "num": 197114,
-      "word": "十年前卖衣服方式",
-      "onboard_time": 1772773703,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196421,
       "num": 174242,
       "word": "辛芷蕾巴黎时装周新造型",
@@ -443,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191008,
+      "num": 191008,
+      "word": "不要热水洗头时梳头发",
+      "onboard_time": 1772774424,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179416,
       "num": 171802,
       "word": "向涵之看秀造型",
@@ -457,14 +481,6 @@
       "onboard_time": 1772726242,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175963,
-      "num": 285701,
-      "word": "逐玉 智能倍速看剧",
-      "onboard_time": 1772775022,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 175676,
@@ -539,6 +555,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 159264,
+      "num": 159264,
+      "word": "男子吃火锅花113元发票抽奖中了10万",
+      "onboard_time": 1772775920,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158005,
+      "num": 158005,
+      "word": "白敬亭又来找心动的offer了",
+      "onboard_time": 1772775383,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155876,
       "num": 216122,
       "word": "蔡徐坤阳光感好绝",
@@ -553,14 +585,6 @@
       "onboard_time": 1772698822,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152615,
-      "num": 152615,
-      "word": "白敬亭又来找心动的offer了",
-      "onboard_time": 1772775383,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 151290,
@@ -617,14 +641,6 @@
       "onboard_time": 1772754020,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 142350,
-      "num": 142350,
-      "word": "不要热水洗头时梳头发",
-      "onboard_time": 1772774424,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 140369,
@@ -689,6 +705,14 @@
       "onboard_time": 1772729360,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135224,
+      "num": 130549,
+      "word": "得闲谨制最终票房4.12亿",
+      "onboard_time": 1772774183,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 132122,
@@ -787,12 +811,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 116496,
-      "num": 116496,
-      "word": "男子吃火锅花113元发票抽奖中了10万",
-      "onboard_time": 1772775920,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 118257,
+      "num": 113300,
+      "word": "田曦薇能演杀猪女李雪琴早有预言",
+      "onboard_time": 1772774844,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 115628,
@@ -841,14 +865,6 @@
       "onboard_time": 1772762422,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113300,
-      "num": 113300,
-      "word": "田曦薇能演杀猪女李雪琴早有预言",
-      "onboard_time": 1772774844,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 112069,
@@ -995,14 +1011,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 95446,
-      "num": 95446,
-      "word": "得闲谨制最终票房4.12亿",
-      "onboard_time": 1772774183,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 95028,
       "num": 172050,
       "word": "QG五虎十年再合体",
@@ -1083,6 +1091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 88110,
+      "num": 95334,
+      "word": "詹姆斯生涯进球数历史第一",
+      "onboard_time": 1772774064,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86619,
       "num": 86619,
       "word": "逐玉云包场好多cp",
@@ -1115,12 +1131,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82941,
-      "num": 95334,
-      "word": "詹姆斯生涯进球数历史第一",
-      "onboard_time": 1772774064,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 83579,
+      "num": 83579,
+      "word": "张维伊救的不是董璇是房主任",
+      "onboard_time": 1772776943,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 82452,
@@ -1179,6 +1195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78130,
+      "num": 78130,
+      "word": "朱桢悼念嫩娘",
+      "onboard_time": 1772777062,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77263,
       "num": 121260,
       "word": "留给大侦探新人的名字不多了",
@@ -1203,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73354,
+      "num": 95130,
+      "word": "原神",
+      "onboard_time": 1772773464,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 72949,
       "num": 72949,
       "word": "杀戮尖塔 2",
@@ -1211,12 +1243,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 72633,
-      "num": 95130,
-      "word": "原神",
-      "onboard_time": 1772773464,
+      "raw_hot": 72898,
+      "num": 72898,
+      "word": "看得都想去大学捡破烂了",
+      "onboard_time": 1772777001,
       "rank": 49,
-      "category": "游戏"
+      "category": "幽默"
     },
     {
       "raw_hot": 72457,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1772715982,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66070,
+      "num": 85417,
+      "word": "戚薇王鸥你俩一起过刚刚好",
+      "onboard_time": 1772774003,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 65412,
@@ -1420,7 +1460,7 @@
     },
     {
       "raw_hot": 31869,
-      "num": 158482,
+      "num": 185106,
       "word": "舒适正当夏",
       "onboard_time": 1772773464,
       "rank": 19,
@@ -1435,6 +1475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26059,
+      "num": 273645,
+      "word": "村口小卖部里的全国人大代表",
+      "onboard_time": 1772756542,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25393,
       "num": 125338,
       "word": "腾势Z9GT充电9分钟续航超千公里",
@@ -1443,19 +1491,19 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 21752,
-      "num": 273645,
-      "word": "村口小卖部里的全国人大代表",
-      "onboard_time": 1772756542,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 20666,
       "num": 219286,
       "word": "直播两会开放团组活动",
       "onboard_time": 1772768962,
       "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14636,
+      "num": 272241,
+      "word": "政府工作报告中的民生热词",
+      "onboard_time": 1772775742,
+      "rank": 8,
       "category": "国内时政"
     },
     {
@@ -1488,14 +1536,6 @@
       "word": "霍启刚建议香港深化爱国主义教育",
       "onboard_time": 1772754920,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 4634,
-      "num": 272241,
-      "word": "政府工作报告中的民生热词",
-      "onboard_time": 1772775742,
-      "rank": 8,
       "category": "国内时政"
     }
   ],

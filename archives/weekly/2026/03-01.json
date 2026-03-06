@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772776433306,
+  "endTime": 1772777177705,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -3763,6 +3763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 293921,
+      "num": 293921,
+      "word": "千问",
+      "onboard_time": 1772777062,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 292872,
       "num": 847161,
       "word": "郑恺回村也不能撕baby",
@@ -3915,6 +3923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282765,
+      "num": 282765,
+      "word": "伊朗军队誓为遭击沉军舰复仇",
+      "onboard_time": 1772768061,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 282133,
       "num": 282133,
       "word": "肖战连体T恤",
@@ -4009,14 +4025,6 @@
       "onboard_time": 1772596764,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 275462,
-      "num": 275462,
-      "word": "伊朗军队誓为遭击沉军舰复仇",
-      "onboard_time": 1772768061,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 275127,
@@ -4161,6 +4169,14 @@
       "onboard_time": 1772451444,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 265221,
+      "num": 203915,
+      "word": "十年前卖衣服方式",
+      "onboard_time": 1772773703,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 265182,
@@ -4401,6 +4417,14 @@
       "onboard_time": 1772518282,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249479,
+      "num": 285701,
+      "word": "逐玉 智能倍速看剧",
+      "onboard_time": 1772775022,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 249094,
@@ -5339,14 +5363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 197114,
-      "num": 197114,
-      "word": "十年前卖衣服方式",
-      "onboard_time": 1772773703,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196961,
       "num": 255248,
       "word": "李静回应飞清迈陪戴军过年",
@@ -5497,6 +5513,14 @@
       "onboard_time": 1772433323,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 191008,
+      "num": 191008,
+      "word": "不要热水洗头时梳头发",
+      "onboard_time": 1772774424,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 190578,
@@ -5769,14 +5793,6 @@
       "onboard_time": 1772377525,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175963,
-      "num": 285701,
-      "word": "逐玉 智能倍速看剧",
-      "onboard_time": 1772775022,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 175818,
@@ -6323,6 +6339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159264,
+      "num": 159264,
+      "word": "男子吃火锅花113元发票抽奖中了10万",
+      "onboard_time": 1772775920,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159183,
       "num": 283954,
       "word": "35岁就业歧视应该得到了缓解",
@@ -6361,6 +6385,14 @@
       "onboard_time": 1772374707,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158005,
+      "num": 158005,
+      "word": "白敬亭又来找心动的offer了",
+      "onboard_time": 1772775383,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 157990,
@@ -6561,14 +6593,6 @@
       "onboard_time": 1772374886,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152615,
-      "num": 152615,
-      "word": "白敬亭又来找心动的offer了",
-      "onboard_time": 1772775383,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 152271,
@@ -7051,14 +7075,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 142350,
-      "num": 142350,
-      "word": "不要热水洗头时梳头发",
-      "onboard_time": 1772774424,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142230,
       "num": 129230,
       "word": "逐玉OST全阵容官宣",
@@ -7313,6 +7329,14 @@
       "onboard_time": 1772438005,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135224,
+      "num": 130549,
+      "word": "得闲谨制最终票房4.12亿",
+      "onboard_time": 1772774183,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 135172,
@@ -8147,6 +8171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118257,
+      "num": 113300,
+      "word": "田曦薇能演杀猪女李雪琴早有预言",
+      "onboard_time": 1772774844,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118127,
       "num": 364228,
       "word": "山姆520元巧克力降到99元",
@@ -8249,14 +8281,6 @@
       "onboard_time": 1772352683,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116496,
-      "num": 116496,
-      "word": "男子吃火锅花113元发票抽奖中了10万",
-      "onboard_time": 1772775920,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116384,
@@ -8497,14 +8521,6 @@
       "onboard_time": 1772628505,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 113300,
-      "num": 113300,
-      "word": "田曦薇能演杀猪女李雪琴早有预言",
-      "onboard_time": 1772774844,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 112985,
@@ -9755,14 +9771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 95446,
-      "num": 95446,
-      "word": "得闲谨制最终票房4.12亿",
-      "onboard_time": 1772774183,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 95077,
       "num": 148838,
       "word": "2026短道速滑世锦赛中国队名单",
@@ -10371,6 +10379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88110,
+      "num": 95334,
+      "word": "詹姆斯生涯进球数历史第一",
+      "onboard_time": 1772774064,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87977,
       "num": 164802,
       "word": "胃癌等消化系统肿瘤呈年轻化趋势",
@@ -10659,6 +10675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83579,
+      "num": 83579,
+      "word": "张维伊救的不是董璇是房主任",
+      "onboard_time": 1772776943,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83548,
       "num": 327756,
       "word": "泰星MAi自曝脸部花费几百万",
@@ -10697,14 +10721,6 @@
       "onboard_time": 1772437824,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 82941,
-      "num": 95334,
-      "word": "詹姆斯生涯进球数历史第一",
-      "onboard_time": 1772774064,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 82934,
@@ -11089,6 +11105,14 @@
       "onboard_time": 1772700143,
       "rank": 19,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 78130,
+      "num": 78130,
+      "word": "朱桢悼念嫩娘",
+      "onboard_time": 1772777062,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 78128,
@@ -11483,6 +11507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 73354,
+      "num": 95130,
+      "word": "原神",
+      "onboard_time": 1772773464,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73318,
       "num": 73318,
       "word": "关于HPV有哪些隐藏盲点",
@@ -11531,6 +11563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72898,
+      "num": 72898,
+      "word": "看得都想去大学捡破烂了",
+      "onboard_time": 1772777001,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72827,
       "num": 844559,
       "word": "黄景瑜 咖啡汤圆",
@@ -11553,14 +11593,6 @@
       "onboard_time": 1772418082,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72633,
-      "num": 95130,
-      "word": "原神",
-      "onboard_time": 1772773464,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 72556,
@@ -11953,6 +11985,14 @@
       "onboard_time": 1772692043,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 66070,
+      "num": 85417,
+      "word": "戚薇王鸥你俩一起过刚刚好",
+      "onboard_time": 1772774003,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 66005,
@@ -13524,7 +13564,7 @@
     },
     {
       "raw_hot": 31869,
-      "num": 158482,
+      "num": 185106,
       "word": "舒适正当夏",
       "onboard_time": 1772773464,
       "rank": 19,
@@ -13731,6 +13771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26059,
+      "num": 273645,
+      "word": "村口小卖部里的全国人大代表",
+      "onboard_time": 1772756542,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26016,
       "num": 161140,
       "word": "95后女刑警空手锁喉1米8壮汉",
@@ -13913,14 +13961,6 @@
       "onboard_time": 1772494220,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 21752,
-      "num": 273645,
-      "word": "村口小卖部里的全国人大代表",
-      "onboard_time": 1772756542,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21710,
@@ -14195,6 +14235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14636,
+      "num": 272241,
+      "word": "政府工作报告中的民生热词",
+      "onboard_time": 1772775742,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14631,
       "num": 154128,
       "word": "推广中小学春秋假面临哪些堵点",
@@ -14361,14 +14409,6 @@
       "onboard_time": 1772446404,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4634,
-      "num": 272241,
-      "word": "政府工作报告中的民生热词",
-      "onboard_time": 1772775742,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 3161,
