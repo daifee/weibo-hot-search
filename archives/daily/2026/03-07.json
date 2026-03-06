@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772823493341,
+  "endTime": 1772824197914,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -475,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24782,
+      "num": 24782,
+      "word": "周五晚高疯",
+      "onboard_time": 1772823195,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22580,
       "num": 34387,
       "word": "檀健次直播",
@@ -489,14 +497,6 @@
       "onboard_time": 1772820676,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20500,
-      "num": 21099,
-      "word": "周五晚高疯",
-      "onboard_time": 1772823195,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 6326,
