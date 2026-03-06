@@ -1,10 +1,10 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772764589159,
+  "endTime": 1772766855872,
   "band_list": [
     {
-      "raw_hot": 1104908,
-      "num": 463815,
+      "raw_hot": 1448072,
+      "num": 617525,
       "word": "霸王茶姬免单",
       "onboard_time": 1772762962,
       "rank": 4,
@@ -27,12 +27,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1008169,
+      "num": 429019,
+      "word": "重案六组",
+      "onboard_time": 1772762962,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 925495,
       "num": 259510,
       "word": "特朗普在白宫接见梅西",
       "onboard_time": 1772760501,
       "rank": 10,
       "category": "海外新闻,体育"
+    },
+    {
+      "raw_hot": 849412,
+      "num": 603317,
+      "word": "伊朗外长拒绝与美国谈判",
+      "onboard_time": 1772763142,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 836719,
@@ -75,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 603070,
+      "num": 603070,
+      "word": "委内瑞拉决定同美国恢复外交关系",
+      "onboard_time": 1772763861,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 562460,
       "num": 562460,
       "word": "美国国土安全部部长被解职",
@@ -99,11 +123,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 382992,
-      "num": 382992,
-      "word": "重案六组",
-      "onboard_time": 1772762962,
-      "rank": 6,
+      "raw_hot": 428851,
+      "num": 428851,
+      "word": "凤舞九天",
+      "onboard_time": 1772763260,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -121,6 +145,14 @@
       "onboard_time": 1772722764,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331209,
+      "num": 1052993,
+      "word": "利率下调房贷省出110万元",
+      "onboard_time": 1772758463,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 305376,
@@ -155,6 +187,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285890,
+      "num": 782182,
+      "word": "逐玉",
+      "onboard_time": 1772758763,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 279313,
+      "num": 176879,
+      "word": "妈妈回应女儿长得像星星人",
+      "onboard_time": 1772763921,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274101,
       "num": 274101,
       "word": "曝姜妍补位现在就出发4",
@@ -169,30 +217,6 @@
       "onboard_time": 1772753118,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268394,
-      "num": 268394,
-      "word": "凤舞九天",
-      "onboard_time": 1772763260,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 266185,
-      "num": 266185,
-      "word": "伊朗外长拒绝与美国谈判",
-      "onboard_time": 1772763142,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 264828,
-      "num": 758448,
-      "word": "利率下调房贷省出110万元",
-      "onboard_time": 1772758463,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 251237,
@@ -235,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219678,
-      "num": 219678,
-      "word": "逐玉",
-      "onboard_time": 1772758763,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219117,
       "num": 722907,
       "word": "建议短视频凌晨1点至5点深夜静默",
@@ -259,12 +275,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 201690,
+      "num": 174403,
+      "word": "中方吊唁哈梅内伊遇难",
+      "onboard_time": 1772764040,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 196421,
+      "num": 174242,
+      "word": "辛芷蕾巴黎时装周新造型",
+      "onboard_time": 1772763501,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 195580,
       "num": 171783,
       "word": "坐飞机时发现邻座是只耶耶",
       "onboard_time": 1772719164,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193547,
+      "num": 193547,
+      "word": "日本再次向海洋排放核污染水",
+      "onboard_time": 1772764280,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179416,
@@ -275,28 +315,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 178868,
-      "num": 126265,
-      "word": "妈妈回应女儿长得像星星人",
-      "onboard_time": 1772763921,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176372,
       "num": 173611,
       "word": "八爪鱼钻车内失踪3天车主崩溃求助",
       "onboard_time": 1772726242,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175836,
-      "num": 175836,
-      "word": "委内瑞拉决定同美国恢复外交关系",
-      "onboard_time": 1772763861,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 175676,
@@ -307,11 +331,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173073,
+      "num": 173073,
+      "word": "女生800元买猫被传染全身长猫藓",
+      "onboard_time": 1772765482,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171752,
       "num": 171752,
       "word": "鹤男",
       "onboard_time": 1772709504,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170741,
+      "num": 170741,
+      "word": "李昀锐刘些宁归良辰今日开机",
+      "onboard_time": 1772761700,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -363,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151198,
-      "num": 151198,
-      "word": "李昀锐刘些宁归良辰今日开机",
-      "onboard_time": 1772761700,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 151393,
+      "num": 129774,
+      "word": "多地官宣春假清明连休6天",
+      "onboard_time": 1772766320,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150111,
@@ -377,22 +417,6 @@
       "onboard_time": 1772702242,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148210,
-      "num": 168575,
-      "word": "日本再次向海洋排放核污染水",
-      "onboard_time": 1772764280,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 147701,
-      "num": 122507,
-      "word": "中方吊唁哈梅内伊遇难",
-      "onboard_time": 1772764040,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 143267,
@@ -417,6 +441,22 @@
       "onboard_time": 1772754020,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140369,
+      "num": 140369,
+      "word": "两会",
+      "onboard_time": 1772759181,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 139145,
+      "num": 128900,
+      "word": "十日终焉",
+      "onboard_time": 1772764641,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 138273,
@@ -475,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129987,
+      "num": 129987,
+      "word": "龚俊陆小凤造型",
+      "onboard_time": 1772765901,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126713,
       "num": 126713,
       "word": "郭晓婷评论王天辰",
@@ -483,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126686,
-      "num": 126686,
-      "word": "两会",
-      "onboard_time": 1772759181,
-      "rank": 28,
-      "category": "国内时政"
+      "raw_hot": 126404,
+      "num": 126404,
+      "word": "纯真年代播完卖上姐夫战袍了",
+      "onboard_time": 1772765721,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121677,
@@ -513,6 +561,14 @@
       "onboard_time": 1772748315,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115514,
+      "num": 115514,
+      "word": "F1",
+      "onboard_time": 1772765062,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 113935,
@@ -547,20 +603,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110014,
+      "num": 603432,
+      "word": "建议中小学春秋假也要考虑家长放假",
+      "onboard_time": 1772761641,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107574,
       "num": 126268,
       "word": "折叠屏最好的屏幕长什么样",
       "onboard_time": 1772762602,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 106800,
-      "num": 106800,
-      "word": "辛芷蕾巴黎时装周新造型",
-      "onboard_time": 1772763501,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 106278,
@@ -595,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100813,
+      "num": 100813,
+      "word": "凤舞九天开机",
+      "onboard_time": 1772765361,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99130,
       "num": 126421,
       "word": "真正长大了好像就是这样",
@@ -617,6 +681,14 @@
       "onboard_time": 1772725761,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95516,
+      "num": 487230,
+      "word": "建议取消学术不端人员教职或学位",
+      "onboard_time": 1772762720,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95028,
@@ -659,6 +731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 91243,
+      "num": 91243,
+      "word": "逐玉开播",
+      "onboard_time": 1772765240,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88493,
       "num": 88493,
       "word": "杨超越出发巴黎时装周机场路透",
@@ -681,6 +761,14 @@
       "onboard_time": 1772723663,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84471,
+      "num": 178090,
+      "word": "D级SUV的顶级掌控感",
+      "onboard_time": 1772764401,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 82452,
@@ -731,20 +819,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76326,
-      "num": 487230,
-      "word": "建议取消学术不端人员教职或学位",
-      "onboard_time": 1772762720,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 73092,
-      "num": 144384,
-      "word": "D级SUV的顶级掌控感",
-      "onboard_time": 1772764401,
-      "rank": 26,
-      "category": "汽车"
+      "raw_hot": 72949,
+      "num": 72949,
+      "word": "杀戮尖塔 2",
+      "onboard_time": 1772766801,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 72457,
@@ -753,6 +833,14 @@
       "onboard_time": 1772714723,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 71282,
+      "num": 71282,
+      "word": "你的肉松肉紧",
+      "onboard_time": 1772766801,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 68508,
@@ -803,6 +891,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 54976,
+      "num": 176414,
+      "word": "张予曦是花仙子本仙吧",
+      "onboard_time": 1772766261,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52087,
       "num": 125323,
       "word": "郭艾伦被担架抬出场",
@@ -812,7 +908,7 @@
     },
     {
       "raw_hot": 51946,
-      "num": 610451,
+      "num": 620122,
       "word": "中国将在哪些方向发力",
       "onboard_time": 1772717541,
       "rank": 2,
@@ -820,7 +916,7 @@
     },
     {
       "raw_hot": 50259,
-      "num": 123337,
+      "num": 429032,
       "word": "建议提高农村居民育儿补贴",
       "onboard_time": 1772763082,
       "rank": 32,
@@ -889,6 +985,14 @@
       "onboard_time": 1772718803,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27727,
+      "num": 429217,
+      "word": "建议推动立法减少加班",
+      "onboard_time": 1772766022,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25393,
