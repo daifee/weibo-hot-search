@@ -1,7 +1,15 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772755071760,
+  "endTime": 1772764589159,
   "band_list": [
+    {
+      "raw_hot": 1104908,
+      "num": 463815,
+      "word": "霸王茶姬免单",
+      "onboard_time": 1772762962,
+      "rank": 4,
+      "category": "美食"
+    },
     {
       "raw_hot": 1072874,
       "num": 586140,
@@ -17,6 +25,22 @@
       "onboard_time": 1772722824,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 925495,
+      "num": 259510,
+      "word": "特朗普在白宫接见梅西",
+      "onboard_time": 1772760501,
+      "rank": 10,
+      "category": "海外新闻,体育"
+    },
+    {
+      "raw_hot": 836719,
+      "num": 441902,
+      "word": "戴电子手表人的统一奇怪动作",
+      "onboard_time": 1772760501,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 785654,
@@ -59,12 +83,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 472598,
+      "num": 1075615,
+      "word": "被医生咆哮塞200元母亲婉拒捐款",
+      "onboard_time": 1772760141,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 450679,
       "num": 450679,
       "word": "美国与委内瑞拉同意恢复外交关系",
       "onboard_time": 1772753779,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 382992,
+      "num": 382992,
+      "word": "重案六组",
+      "onboard_time": 1772762962,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 361241,
+      "num": 247416,
+      "word": "曝现在就出发4金晨被替换了",
+      "onboard_time": 1772754621,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 345454,
@@ -83,8 +131,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 297162,
+      "num": 253917,
+      "word": "伊朗称美军林肯号航母被击中后撤",
+      "onboard_time": 1772755761,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 295848,
-      "num": 111663,
+      "num": 170802,
       "word": "伊朗称其无人机袭击林肯号航母",
       "onboard_time": 1772752880,
       "rank": 21,
@@ -115,12 +171,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268394,
+      "num": 268394,
+      "word": "凤舞九天",
+      "onboard_time": 1772763260,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266185,
+      "num": 266185,
+      "word": "伊朗外长拒绝与美国谈判",
+      "onboard_time": 1772763142,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 264828,
+      "num": 758448,
+      "word": "利率下调房贷省出110万元",
+      "onboard_time": 1772758463,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 251237,
       "num": 110351,
       "word": "高速收费员因帅得人山人海火了",
       "onboard_time": 1772753240,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246317,
+      "num": 246317,
+      "word": "人类进化没放弃头发是有原因的",
+      "onboard_time": 1772759961,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 243146,
+      "num": 243146,
+      "word": "10万亿存量公积金如何盘活",
+      "onboard_time": 1772757562,
+      "rank": 15,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 240116,
@@ -139,12 +235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219678,
+      "num": 219678,
+      "word": "逐玉",
+      "onboard_time": 1772758763,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219117,
       "num": 722907,
       "word": "建议短视频凌晨1点至5点深夜静默",
       "onboard_time": 1772707284,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 208107,
+      "num": 172247,
+      "word": "伊朗称已准备好应对美军地面入侵",
+      "onboard_time": 1772756242,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195580,
@@ -155,12 +267,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179416,
+      "num": 171802,
+      "word": "向涵之看秀造型",
+      "onboard_time": 1772758103,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 178868,
+      "num": 126265,
+      "word": "妈妈回应女儿长得像星星人",
+      "onboard_time": 1772763921,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176372,
       "num": 173611,
       "word": "八爪鱼钻车内失踪3天车主崩溃求助",
       "onboard_time": 1772726242,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175836,
+      "num": 175836,
+      "word": "委内瑞拉决定同美国恢复外交关系",
+      "onboard_time": 1772763861,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175676,
@@ -187,12 +323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166576,
+      "num": 166576,
+      "word": "王楚钦与小海螺",
+      "onboard_time": 1772762360,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165171,
       "num": 165171,
       "word": "薛之谦万兽之王长沙站开启预售",
       "onboard_time": 1772707702,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 162318,
+      "num": 99019,
+      "word": "女子一年半攒2000克黄金挣50万",
+      "onboard_time": 1772754561,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 160580,
@@ -211,12 +363,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151198,
+      "num": 151198,
+      "word": "李昀锐刘些宁归良辰今日开机",
+      "onboard_time": 1772761700,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150111,
       "num": 138247,
       "word": "纯真年代的爱情 烂尾",
       "onboard_time": 1772702242,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148210,
+      "num": 168575,
+      "word": "日本再次向海洋排放核污染水",
+      "onboard_time": 1772764280,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 147701,
+      "num": 122507,
+      "word": "中方吊唁哈梅内伊遇难",
+      "onboard_time": 1772764040,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 143267,
+      "num": 143267,
+      "word": "外婆以为这样就是在送礼物了",
+      "onboard_time": 1772761283,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 143234,
@@ -299,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126686,
+      "num": 126686,
+      "word": "两会",
+      "onboard_time": 1772759181,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121677,
       "num": 126026,
       "word": "陈哲远 再不救教资要融化了",
@@ -321,6 +513,14 @@
       "onboard_time": 1772748315,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113935,
+      "num": 113935,
+      "word": "委员谈年轻人不愿意体检",
+      "onboard_time": 1772762422,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112069,
@@ -347,6 +547,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107574,
+      "num": 126268,
+      "word": "折叠屏最好的屏幕长什么样",
+      "onboard_time": 1772762602,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 106800,
+      "num": 106800,
+      "word": "辛芷蕾巴黎时装周新造型",
+      "onboard_time": 1772763501,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 106278,
+      "num": 106278,
+      "word": "猫咪外出归来回家发现天塌了",
+      "onboard_time": 1772762300,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106108,
       "num": 125945,
       "word": "叶璇都演婆婆了刘晓庆还在演少女",
@@ -363,20 +587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102456,
+      "num": 132705,
+      "word": "归良辰",
+      "onboard_time": 1772726720,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99130,
       "num": 126421,
       "word": "真正长大了好像就是这样",
       "onboard_time": 1772715143,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 99019,
-      "num": 99019,
-      "word": "女子一年半攒2000克黄金挣50万",
-      "onboard_time": 1772754561,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 98914,
@@ -411,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93907,
+      "num": 93907,
+      "word": "当事人回应每月买黄金已赚50万",
+      "onboard_time": 1772758463,
+      "rank": 41,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 91874,
       "num": 126302,
       "word": "伊朗报复美以",
@@ -427,6 +659,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 88493,
+      "num": 88493,
+      "word": "杨超越出发巴黎时装周机场路透",
+      "onboard_time": 1772764223,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 86619,
+      "num": 86619,
+      "word": "逐玉云包场好多cp",
+      "onboard_time": 1772761219,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86292,
       "num": 125412,
       "word": "6天长假成都飞三亚机票量激增",
@@ -435,12 +683,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82452,
+      "num": 88805,
+      "word": "人际交往里最让人反感的行为",
+      "onboard_time": 1772762602,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 82293,
+      "num": 82293,
+      "word": "勇士vs火箭",
+      "onboard_time": 1772763442,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79837,
       "num": 126344,
       "word": "田曦薇转圈出场",
       "onboard_time": 1772716823,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78765,
+      "num": 81890,
+      "word": "AG冠军五人组合照",
+      "onboard_time": 1772764461,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 78427,
@@ -457,6 +729,22 @@
       "onboard_time": 1772724563,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76326,
+      "num": 487230,
+      "word": "建议取消学术不端人员教职或学位",
+      "onboard_time": 1772762720,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 73092,
+      "num": 144384,
+      "word": "D级SUV的顶级掌控感",
+      "onboard_time": 1772764401,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 72457,
@@ -499,14 +787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 60872,
-      "num": 60872,
-      "word": "曝现在就出发4金晨被替换了",
-      "onboard_time": 1772754621,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 58207,
       "num": 120776,
       "word": "错世",
@@ -532,19 +812,27 @@
     },
     {
       "raw_hot": 51946,
-      "num": 601582,
+      "num": 610451,
       "word": "中国将在哪些方向发力",
       "onboard_time": 1772717541,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 49768,
-      "num": 132705,
-      "word": "归良辰",
-      "onboard_time": 1772726720,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 50259,
+      "num": 123337,
+      "word": "建议提高农村居民育儿补贴",
+      "onboard_time": 1772763082,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 49257,
+      "num": 265945,
+      "word": "代表建议提升环卫工人待遇",
+      "onboard_time": 1772758823,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47916,
