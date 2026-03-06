@@ -1,10 +1,10 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772766855872,
+  "endTime": 1772772565597,
   "band_list": [
     {
       "raw_hot": 1448072,
-      "num": 617525,
+      "num": 666028,
       "word": "霸王茶姬免单",
       "onboard_time": 1772762962,
       "rank": 4,
@@ -59,12 +59,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 820553,
+      "num": 1131288,
+      "word": "多地官宣春假清明连休6天",
+      "onboard_time": 1772766320,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 785654,
       "num": 575062,
       "word": "曝现在就出发4沈腾白敬亭带队",
       "onboard_time": 1772752819,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 753238,
+      "num": 255574,
+      "word": "老舅妈嫩娘去世",
+      "onboard_time": 1772769442,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 698089,
@@ -123,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 444001,
+      "num": 830415,
+      "word": "被骂了千年的小动物们该翻身了",
+      "onboard_time": 1772766923,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428851,
       "num": 428851,
       "word": "凤舞九天",
@@ -131,12 +155,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418367,
+      "num": 418367,
+      "word": "美国24州联合起诉特朗普政府",
+      "onboard_time": 1772766861,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 398713,
+      "num": 398713,
+      "word": "你的肉松肉紧",
+      "onboard_time": 1772766801,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 361241,
       "num": 247416,
       "word": "曝现在就出发4金晨被替换了",
       "onboard_time": 1772754621,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347234,
+      "num": 347234,
+      "word": "刘国梁高度肯定樊振东",
+      "onboard_time": 1772770341,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 345454,
@@ -153,6 +201,14 @@
       "onboard_time": 1772758463,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 321180,
+      "num": 233823,
+      "word": "撞脸肖战收费员说没肖战帅",
+      "onboard_time": 1772771303,
+      "rank": 14,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 305376,
@@ -219,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267958,
+      "num": 267958,
+      "word": "龚俊陆小凤造型",
+      "onboard_time": 1772765901,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251237,
       "num": 110351,
       "word": "高速收费员因帅得人山人海火了",
@@ -241,6 +305,14 @@
       "onboard_time": 1772757562,
       "rank": 15,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 241288,
+      "num": 216097,
+      "word": "惠英红 叫声妈咪保你在香港风生水起",
+      "onboard_time": 1772768661,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 240116,
@@ -267,6 +339,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 216214,
+      "num": 216214,
+      "word": "女生800元买猫被传染全身长猫藓",
+      "onboard_time": 1772765482,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216078,
+      "num": 216078,
+      "word": "伊朗军队誓为遭击沉军舰复仇",
+      "onboard_time": 1772768061,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 216072,
+      "num": 216071,
+      "word": "谭松韵新剧气血十足老辈子来的",
+      "onboard_time": 1772771003,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208107,
       "num": 172247,
       "word": "伊朗称已准备好应对美军地面入侵",
@@ -281,6 +377,14 @@
       "onboard_time": 1772764040,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 199676,
+      "num": 216072,
+      "word": "今年首个官宣涨价的车企",
+      "onboard_time": 1772767402,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 196421,
@@ -329,14 +433,6 @@
       "onboard_time": 1772723903,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 173073,
-      "num": 173073,
-      "word": "女生800元买猫被传染全身长猫藓",
-      "onboard_time": 1772765482,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171752,
@@ -395,6 +491,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159935,
+      "num": 180020,
+      "word": "军费增长7%专家解读",
+      "onboard_time": 1772770521,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 155876,
+      "num": 216122,
+      "word": "蔡徐坤阳光感好绝",
+      "onboard_time": 1772769862,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153748,
       "num": 153748,
       "word": "高铁一等座4元二等座8元",
@@ -403,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151393,
-      "num": 129774,
-      "word": "多地官宣春假清明连休6天",
-      "onboard_time": 1772766320,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 151290,
+      "num": 144542,
+      "word": "逐玉追剧日历",
+      "onboard_time": 1772767823,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 150111,
@@ -475,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136987,
+      "num": 136987,
+      "word": "外国朋友以为中国也是一人一道菜",
+      "onboard_time": 1772772202,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136547,
       "num": 136547,
       "word": "伊朗避实就虚打击美军",
@@ -489,6 +609,14 @@
       "onboard_time": 1772729360,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132288,
+      "num": 132288,
+      "word": "十日终焉纯大男主群像",
+      "onboard_time": 1772770282,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 132122,
@@ -515,12 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129987,
-      "num": 129987,
-      "word": "龚俊陆小凤造型",
-      "onboard_time": 1772765901,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 127347,
+      "num": 127347,
+      "word": "死了么团队改名回归",
+      "onboard_time": 1772768783,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 126713,
@@ -547,11 +675,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120522,
+      "num": 120522,
+      "word": "真正的细糠一直在家里",
+      "onboard_time": 1772771183,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120332,
       "num": 171957,
       "word": "建议最低法定年假从5天提高到10天",
       "onboard_time": 1772721503,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 120099,
+      "num": 120099,
+      "word": "超市招收银员限制30岁体重110斤",
+      "onboard_time": 1772770161,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120009,
+      "num": 603432,
+      "word": "建议中小学春秋假也要考虑家长放假",
+      "onboard_time": 1772761641,
+      "rank": 4,
       "category": "国内时政"
     },
     {
@@ -571,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115051,
+      "num": 115051,
+      "word": "有效中文vs无效中文",
+      "onboard_time": 1772769801,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113935,
       "num": 113935,
       "word": "委员谈年轻人不愿意体检",
@@ -585,6 +745,14 @@
       "onboard_time": 1772725702,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111371,
+      "num": 216072,
+      "word": "刘亦菲夏日松弛感拉满",
+      "onboard_time": 1772769862,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 110220,
@@ -603,12 +771,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 110014,
-      "num": 603432,
-      "word": "建议中小学春秋假也要考虑家长放假",
-      "onboard_time": 1772761641,
-      "rank": 4,
-      "category": "国内时政"
+      "raw_hot": 107746,
+      "num": 107746,
+      "word": "伊朗向美以发动第20波袭击",
+      "onboard_time": 1772772202,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107574,
@@ -649,6 +817,14 @@
       "onboard_time": 1772726720,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101593,
+      "num": 101593,
+      "word": "建议实行初中直升高中",
+      "onboard_time": 1772768720,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100813,
@@ -795,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79701,
+      "num": 728379,
+      "word": "十五五规划109项重大工程项目一览",
+      "onboard_time": 1772768421,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78765,
       "num": 81890,
       "word": "AG冠军五人组合照",
@@ -819,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76505,
+      "num": 216072,
+      "word": "张予曦是花仙子本仙吧",
+      "onboard_time": 1772766261,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72949,
       "num": 72949,
       "word": "杀戮尖塔 2",
@@ -835,12 +1027,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 71282,
-      "num": 71282,
-      "word": "你的肉松肉紧",
-      "onboard_time": 1772766801,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 71652,
+      "num": 103552,
+      "word": "政协委员说要让青年愿意进工厂",
+      "onboard_time": 1772771003,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 69678,
+      "num": 216152,
+      "word": "建议解决配偶住院无人陪护难题",
+      "onboard_time": 1772771183,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68508,
@@ -883,20 +1083,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55589,
+      "num": 108494,
+      "word": "王鸥有一群很宠自己的朋友就这样",
+      "onboard_time": 1772772383,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55139,
       "num": 120696,
       "word": "比Deepfake更严重的AI出现了",
       "onboard_time": 1772702542,
       "rank": 45,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 54976,
-      "num": 176414,
-      "word": "张予曦是花仙子本仙吧",
-      "onboard_time": 1772766261,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 52087,
@@ -955,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40994,
+      "num": 216162,
+      "word": "草本初色开启蚕丝内衣新纪元",
+      "onboard_time": 1772770341,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 37921,
       "num": 125504,
       "word": "王一博巴黎随拍记录",
@@ -1003,6 +1211,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 20666,
+      "num": 219286,
+      "word": "直播两会开放团组活动",
+      "onboard_time": 1772768962,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15639,
+      "num": 678055,
+      "word": "代表建议将心理筛查纳入中小学体检",
+      "onboard_time": 1772772383,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13885,
       "num": 99977,
       "word": "PEL春季赛",
@@ -1041,6 +1265,9 @@
     },
     {
       "word": "#习近平参加江苏代表团审议#"
+    },
+    {
+      "word": "#总书记为经济大省向新指明方向#"
     }
   ]
 }
