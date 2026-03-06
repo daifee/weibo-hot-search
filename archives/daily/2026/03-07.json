@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772826918416,
+  "endTime": 1772829671683,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -459,7 +459,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29366,
+      "raw_hot": 33703,
       "num": 26701,
       "word": "伊朗1吨重弹头导弹打击以色列",
       "onboard_time": 1772824875,
@@ -505,6 +505,14 @@
       "onboard_time": 1772820676,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11547,
+      "num": 15457,
+      "word": "2026PEL春季赛",
+      "onboard_time": 1772821155,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 6326,

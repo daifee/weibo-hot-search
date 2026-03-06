@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/07 00:01:23 ~ 2026/03/07 03:55:18
+本榜单时间：2026/03/07 00:01:23 ~ 2026/03/07 04:41:11
 </p>
 </blockquote>
 <p>
@@ -358,7 +358,7 @@ Naiyou疑似假赛（热度：42902）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%971%E5%90%A8%E9%87%8D%E5%BC%B9%E5%A4%B4%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
-伊朗1吨重弹头导弹打击以色列（热度：29366）
+伊朗1吨重弹头导弹打击以色列（热度：33703）
 </a>
 </li>
 
@@ -389,6 +389,12 @@ Naiyou疑似假赛（热度：42902）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%20%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%B7%E5%B8%85%E5%A5%B3%E7%BE%8E%23" target="weibo">
 逐玉 真正的男帅女美（热度：22033）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232026PEL%E6%98%A5%E5%AD%A3%E8%B5%9B%23" target="weibo">
+2026PEL春季赛（热度：11547）
 </a>
 </li>
 
