@@ -1,6 +1,6 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772777177705,
+  "endTime": 1772780523740,
   "band_list": [
     {
       "raw_hot": 1448072,
@@ -25,6 +25,14 @@
       "onboard_time": 1772708844,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1035808,
+      "num": 596870,
+      "word": "千问",
+      "onboard_time": 1772777062,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 1017451,
@@ -89,6 +97,14 @@
       "onboard_time": 1772769442,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 702271,
+      "num": 265755,
+      "word": "伊朗称击中美国林肯号航母",
+      "onboard_time": 1772778562,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 698089,
@@ -163,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442788,
+      "num": 1070846,
+      "word": "逐玉 智能倍速看剧",
+      "onboard_time": 1772775022,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 428851,
       "num": 428851,
       "word": "凤舞九天",
@@ -203,6 +227,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 348533,
+      "num": 348533,
+      "word": "不要热水洗头时梳头发",
+      "onboard_time": 1772774424,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347234,
       "num": 347234,
       "word": "刘国梁高度肯定樊振东",
@@ -217,6 +249,14 @@
       "onboard_time": 1772722764,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338317,
+      "num": 460114,
+      "word": "千问宣布妇女节再次请客",
+      "onboard_time": 1772779462,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 331209,
@@ -259,12 +299,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 293921,
-      "num": 293921,
-      "word": "千问",
-      "onboard_time": 1772777062,
-      "rank": 4,
-      "category": "互联网"
+      "raw_hot": 295165,
+      "num": 260636,
+      "word": "刘国梁回应樊振东一出一回",
+      "onboard_time": 1772777482,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 289614,
@@ -331,20 +371,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262799,
+      "num": 752031,
+      "word": "小米发布国内第一个手机版龙虾",
+      "onboard_time": 1772777542,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 260201,
+      "num": 260201,
+      "word": "张维伊救的不是董璇是房主任",
+      "onboard_time": 1772776943,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251237,
       "num": 110351,
       "word": "高速收费员因帅得人山人海火了",
       "onboard_time": 1772753240,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249479,
-      "num": 285701,
-      "word": "逐玉 智能倍速看剧",
-      "onboard_time": 1772775022,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 246317,
@@ -459,12 +507,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 191008,
-      "num": 191008,
-      "word": "不要热水洗头时梳头发",
-      "onboard_time": 1772774424,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 191414,
+      "num": 191414,
+      "word": "青海省委书记看生命树落泪",
+      "onboard_time": 1772779762,
+      "rank": 17,
+      "category": "国内时政,剧集"
+    },
+    {
+      "raw_hot": 189168,
+      "num": 115546,
+      "word": "比亚迪闪充站建设真的猛",
+      "onboard_time": 1772778982,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 179416,
@@ -513,6 +569,14 @@
       "onboard_time": 1772717484,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167007,
+      "num": 158821,
+      "word": "印度对美国炸船行为保持沉默",
+      "onboard_time": 1772777542,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166576,
@@ -576,6 +640,14 @@
       "word": "蔡徐坤阳光感好绝",
       "onboard_time": 1772769862,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154987,
+      "num": 154987,
+      "word": "Kep1er徐永恩退团",
+      "onboard_time": 1772779882,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -715,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132629,
+      "num": 132629,
+      "word": "印度失联战斗机确认坠毁",
+      "onboard_time": 1772777962,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132122,
       "num": 132122,
       "word": "00后高速收费员回应撞脸多个明星",
@@ -737,6 +817,14 @@
       "onboard_time": 1772773643,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131315,
+      "num": 131315,
+      "word": "季洁扮演者王茜回应重案六组翻拍",
+      "onboard_time": 1772779160,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 130081,
@@ -769,6 +857,14 @@
       "onboard_time": 1772765721,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124894,
+      "num": 124894,
+      "word": "王传君把徐志胜一撮毛扯下来了",
+      "onboard_time": 1772779582,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 121677,
@@ -819,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115810,
+      "num": 115810,
+      "word": "刘些宁又回横店当公主了",
+      "onboard_time": 1772778141,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115628,
       "num": 212197,
       "word": "十日终焉角色设定",
@@ -849,6 +953,14 @@
       "onboard_time": 1772772803,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115047,
+      "num": 115047,
+      "word": "十日终焉原著齐夏相貌平平",
+      "onboard_time": 1772778262,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 114066,
@@ -905,6 +1017,14 @@
       "onboard_time": 1772762602,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 106448,
+      "num": 106448,
+      "word": "孩子大了后要帮孩子完成社会化",
+      "onboard_time": 1772777542,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 106278,
@@ -1067,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89169,
+      "num": 89169,
+      "word": "生孩子还带了个执法记录姨",
+      "onboard_time": 1772779342,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88864,
       "num": 88864,
       "word": "郑钦文缺席澳网后痛哭",
@@ -1091,6 +1219,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 88310,
+      "num": 88310,
+      "word": "原来十年前是这样卖衣服的",
+      "onboard_time": 1772778680,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88110,
       "num": 95334,
       "word": "詹姆斯生涯进球数历史第一",
@@ -1105,6 +1241,14 @@
       "onboard_time": 1772761219,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86367,
+      "num": 86367,
+      "word": "舞狮界最手忙脚乱的一集",
+      "onboard_time": 1772780122,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 86292,
@@ -1123,20 +1267,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84436,
+      "num": 84436,
+      "word": "伊朗外长说以色列优先意味美国最后",
+      "onboard_time": 1772779223,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83758,
       "num": 108589,
       "word": "建议三年级前学生课间延长至30分钟",
       "onboard_time": 1772772983,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 83579,
-      "num": 83579,
-      "word": "张维伊救的不是董璇是房主任",
-      "onboard_time": 1772776943,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 82452,
@@ -1203,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77394,
+      "num": 77394,
+      "word": "原神莉奈娅",
+      "onboard_time": 1772780302,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 77263,
       "num": 121260,
       "word": "留给大侦探新人的名字不多了",
@@ -1211,12 +1363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77102,
+      "num": 77102,
+      "word": "孙燕姿苏州演唱会抢票",
+      "onboard_time": 1772778321,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 76505,
       "num": 216072,
       "word": "张予曦是花仙子本仙吧",
       "onboard_time": 1772766261,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75053,
+      "num": 76017,
+      "word": "小米全新轻薄笔记本曝光",
+      "onboard_time": 1772779281,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 75051,
@@ -1283,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67855,
+      "num": 277820,
+      "word": "建议将免费教育年限扩至15年",
+      "onboard_time": 1772774183,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67771,
       "num": 125646,
       "word": "女子收到刮刮乐生日花束刮出80万元",
@@ -1305,6 +1481,14 @@
       "onboard_time": 1772715922,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 62918,
+      "num": 268478,
+      "word": "代表建议不对70岁以上老人开自动续费",
+      "onboard_time": 1772777302,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62291,
@@ -1371,6 +1555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49699,
+      "num": 85177,
+      "word": "李昀锐新剧满级大佬装萌新",
+      "onboard_time": 1772776823,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49257,
       "num": 265945,
       "word": "代表建议提升环卫工人待遇",
@@ -1417,6 +1609,14 @@
       "onboard_time": 1772770341,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 39662,
+      "num": 93747,
+      "word": "建议给企业立法让员工强制休假",
+      "onboard_time": 1772780421,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37921,
@@ -1467,6 +1667,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 31091,
+      "num": 272241,
+      "word": "政府工作报告中的民生热词",
+      "onboard_time": 1772775742,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27727,
       "num": 429217,
       "word": "建议推动立法减少加班",
@@ -1499,11 +1707,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14636,
-      "num": 272241,
-      "word": "政府工作报告中的民生热词",
-      "onboard_time": 1772775742,
-      "rank": 8,
+      "raw_hot": 19773,
+      "num": 84647,
+      "word": "代表说女性爱自己是最浪漫的课题",
+      "onboard_time": 1772780421,
+      "rank": 39,
       "category": "国内时政"
     },
     {

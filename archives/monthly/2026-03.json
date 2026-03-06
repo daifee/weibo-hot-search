@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772777177705,
+  "endTime": 1772780523740,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -561,6 +561,14 @@
       "onboard_time": 1772690963,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1035808,
+      "num": 596870,
+      "word": "千问",
+      "onboard_time": 1772777062,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 1031249,
@@ -1177,6 +1185,14 @@
       "onboard_time": 1772528368,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 702271,
+      "num": 265755,
+      "word": "伊朗称击中美国林肯号航母",
+      "onboard_time": 1772778562,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 699050,
@@ -2323,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442788,
+      "num": 1070846,
+      "word": "逐玉 智能倍速看剧",
+      "onboard_time": 1772775022,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441943,
       "num": 421206,
       "word": "伊朗纳坦兹核设施遭破坏",
@@ -3147,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348533,
+      "num": 348533,
+      "word": "不要热水洗头时梳头发",
+      "onboard_time": 1772774424,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347234,
       "num": 347234,
       "word": "刘国梁高度肯定樊振东",
@@ -3233,6 +3265,14 @@
       "onboard_time": 1772440346,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 338317,
+      "num": 460114,
+      "word": "千问宣布妇女节再次请客",
+      "onboard_time": 1772779462,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 337284,
@@ -3747,6 +3787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 295165,
+      "num": 260636,
+      "word": "刘国梁回应樊振东一出一回",
+      "onboard_time": 1772777482,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295153,
       "num": 295153,
       "word": "美以导弹炸到全球人钱包",
@@ -3761,14 +3809,6 @@
       "onboard_time": 1772528549,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 293921,
-      "num": 293921,
-      "word": "千问",
-      "onboard_time": 1772777062,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 292872,
@@ -4219,6 +4259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262799,
+      "num": 752031,
+      "word": "小米发布国内第一个手机版龙虾",
+      "onboard_time": 1772777542,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 261421,
       "num": 261421,
       "word": "孙千米兰看秀待遇",
@@ -4233,6 +4281,14 @@
       "onboard_time": 1772451147,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 260201,
+      "num": 260201,
+      "word": "张维伊救的不是董璇是房主任",
+      "onboard_time": 1772776943,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 260121,
@@ -4417,14 +4473,6 @@
       "onboard_time": 1772518282,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249479,
-      "num": 285701,
-      "word": "逐玉 智能倍速看剧",
-      "onboard_time": 1772775022,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 249094,
@@ -5515,12 +5563,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 191008,
-      "num": 191008,
-      "word": "不要热水洗头时梳头发",
-      "onboard_time": 1772774424,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 191414,
+      "num": 191414,
+      "word": "青海省委书记看生命树落泪",
+      "onboard_time": 1772779762,
+      "rank": 17,
+      "category": "国内时政,剧集"
     },
     {
       "raw_hot": 190578,
@@ -5577,6 +5625,14 @@
       "onboard_time": 1772707702,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189168,
+      "num": 115546,
+      "word": "比亚迪闪充站建设真的猛",
+      "onboard_time": 1772778982,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 187860,
@@ -6107,6 +6163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 167007,
+      "num": 158821,
+      "word": "印度对美国炸船行为保持沉默",
+      "onboard_time": 1772777542,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166576,
       "num": 166576,
       "word": "王楚钦与小海螺",
@@ -6473,6 +6537,14 @@
       "onboard_time": 1772415982,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154987,
+      "num": 154987,
+      "word": "Kep1er徐永恩退团",
+      "onboard_time": 1772779882,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 154756,
@@ -7443,6 +7515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132629,
+      "num": 132629,
+      "word": "印度失联战斗机确认坠毁",
+      "onboard_time": 1772777962,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132587,
       "num": 132587,
       "word": "耙耙柑的本名叫春见",
@@ -7529,6 +7609,14 @@
       "onboard_time": 1772612725,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131315,
+      "num": 131315,
+      "word": "季洁扮演者王茜回应重案六组翻拍",
+      "onboard_time": 1772779160,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 131023,
@@ -7801,6 +7889,14 @@
       "onboard_time": 1772531548,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124894,
+      "num": 124894,
+      "word": "王传君把徐志胜一撮毛扯下来了",
+      "onboard_time": 1772779582,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 124779,
@@ -8315,6 +8411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115810,
+      "num": 115810,
+      "word": "刘些宁又回横店当公主了",
+      "onboard_time": 1772778141,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115763,
       "num": 115763,
       "word": "余承恩入青云杀青后出不了戏",
@@ -8369,6 +8473,14 @@
       "onboard_time": 1772705002,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115047,
+      "num": 115047,
+      "word": "十日终焉原著齐夏相貌平平",
+      "onboard_time": 1772778262,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 115007,
@@ -8937,6 +9049,14 @@
       "onboard_time": 1772458766,
       "rank": 47,
       "category": "作品衍生,剧集"
+    },
+    {
+      "raw_hot": 106448,
+      "num": 106448,
+      "word": "孩子大了后要帮孩子完成社会化",
+      "onboard_time": 1772777542,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 106278,
@@ -10307,6 +10427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89169,
+      "num": 89169,
+      "word": "生孩子还带了个执法记录姨",
+      "onboard_time": 1772779342,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89077,
       "num": 89077,
       "word": "伊朗表示无意与美谈判",
@@ -10360,6 +10488,14 @@
       "word": "臭脚丫味把小猫逼疯",
       "onboard_time": 1772536350,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 88310,
+      "num": 88310,
+      "word": "原来十年前是这样卖衣服的",
+      "onboard_time": 1772778680,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -10491,6 +10627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 86367,
+      "num": 86367,
+      "word": "舞狮界最手忙脚乱的一集",
+      "onboard_time": 1772780122,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86365,
       "num": 158780,
       "word": "ENHYPEN全员取消视频签售",
@@ -10619,6 +10763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84436,
+      "num": 84436,
+      "word": "伊朗外长说以色列优先意味美国最后",
+      "onboard_time": 1772779223,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84419,
       "num": 227110,
       "word": "保时捷Taycan",
@@ -10673,14 +10825,6 @@
       "onboard_time": 1772772983,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 83579,
-      "num": 83579,
-      "word": "张维伊救的不是董璇是房主任",
-      "onboard_time": 1772776943,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 83548,
@@ -11211,12 +11355,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77394,
+      "num": 77394,
+      "word": "原神莉奈娅",
+      "onboard_time": 1772780302,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 77110,
       "num": 209067,
       "word": "阳光信用",
       "onboard_time": 1772509107,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 77102,
+      "num": 77102,
+      "word": "孙燕姿苏州演唱会抢票",
+      "onboard_time": 1772778321,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 76862,
@@ -11377,6 +11537,14 @@
       "onboard_time": 1772708002,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75053,
+      "num": 76017,
+      "word": "小米全新轻薄笔记本曝光",
+      "onboard_time": 1772779281,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 75051,
@@ -11891,6 +12059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67855,
+      "num": 277820,
+      "word": "建议将免费教育年限扩至15年",
+      "onboard_time": 1772774183,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67726,
       "num": 301050,
       "word": "把回南天拍得好高级",
@@ -12169,6 +12345,14 @@
       "onboard_time": 1772550449,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 62918,
+      "num": 268478,
+      "word": "代表建议不对70岁以上老人开自动续费",
+      "onboard_time": 1772777302,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62795,
@@ -12681,6 +12865,14 @@
       "onboard_time": 1772772383,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 49699,
+      "num": 85177,
+      "word": "李昀锐新剧满级大佬装萌新",
+      "onboard_time": 1772776823,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 49325,
@@ -13211,6 +13403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 39662,
+      "num": 93747,
+      "word": "建议给企业立法让员工强制休假",
+      "onboard_time": 1772780421,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39659,
       "num": 223998,
       "word": "2026两会100秒",
@@ -13577,6 +13777,14 @@
       "onboard_time": 1772461827,
       "rank": 36,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 31091,
+      "num": 272241,
+      "word": "政府工作报告中的民生热词",
+      "onboard_time": 1772775742,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30849,
@@ -14051,6 +14259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19773,
+      "num": 84647,
+      "word": "代表说女性爱自己是最浪漫的课题",
+      "onboard_time": 1772780421,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19639,
       "num": 153941,
       "word": "建议遏制算法诱导熬夜",
@@ -14233,14 +14449,6 @@
       "onboard_time": 1772479875,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14636,
-      "num": 272241,
-      "word": "政府工作报告中的民生热词",
-      "onboard_time": 1772775742,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14631,
