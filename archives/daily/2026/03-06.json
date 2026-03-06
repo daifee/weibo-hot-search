@@ -1,6 +1,6 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772780523740,
+  "endTime": 1772781261567,
   "band_list": [
     {
       "raw_hot": 1448072,
@@ -59,6 +59,14 @@
       "category": "海外新闻,体育"
     },
     {
+      "raw_hot": 878102,
+      "num": 1140496,
+      "word": "千问宣布妇女节再次请客",
+      "onboard_time": 1772779462,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 849412,
       "num": 603317,
       "word": "伊朗外长拒绝与美国谈判",
@@ -99,7 +107,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 702271,
+      "raw_hot": 733748,
       "num": 265755,
       "word": "伊朗称击中美国林肯号航母",
       "onboard_time": 1772778562,
@@ -251,12 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 338317,
-      "num": 460114,
-      "word": "千问宣布妇女节再次请客",
-      "onboard_time": 1772779462,
-      "rank": 4,
-      "category": "互联网"
+      "raw_hot": 341915,
+      "num": 752031,
+      "word": "小米发布国内第一个手机版龙虾",
+      "onboard_time": 1772777542,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 331209,
@@ -371,20 +379,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 262799,
-      "num": 752031,
-      "word": "小米发布国内第一个手机版龙虾",
-      "onboard_time": 1772777542,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 260201,
       "num": 260201,
       "word": "张维伊救的不是董璇是房主任",
       "onboard_time": 1772776943,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259261,
+      "num": 259261,
+      "word": "青海省委书记看生命树落泪",
+      "onboard_time": 1772779762,
+      "rank": 17,
+      "category": "国内时政,剧集"
     },
     {
       "raw_hot": 251237,
@@ -459,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208875,
+      "num": 165117,
+      "word": "Kep1er徐永恩退团",
+      "onboard_time": 1772779882,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208107,
       "num": 172247,
       "word": "伊朗称已准备好应对美军地面入侵",
@@ -507,14 +523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 191414,
-      "num": 191414,
-      "word": "青海省委书记看生命树落泪",
-      "onboard_time": 1772779762,
-      "rank": 17,
-      "category": "国内时政,剧集"
-    },
-    {
       "raw_hot": 189168,
       "num": 115546,
       "word": "比亚迪闪充站建设真的猛",
@@ -547,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173090,
+      "num": 173090,
+      "word": "印度对美国炸船行为保持沉默",
+      "onboard_time": 1772777542,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171752,
       "num": 171752,
       "word": "鹤男",
@@ -569,14 +585,6 @@
       "onboard_time": 1772717484,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167007,
-      "num": 158821,
-      "word": "印度对美国炸船行为保持沉默",
-      "onboard_time": 1772777542,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 166576,
@@ -635,19 +643,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157247,
+      "num": 157247,
+      "word": "印度失联战斗机确认坠毁",
+      "onboard_time": 1772777962,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155876,
       "num": 216122,
       "word": "蔡徐坤阳光感好绝",
       "onboard_time": 1772769862,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 154987,
-      "num": 154987,
-      "word": "Kep1er徐永恩退团",
-      "onboard_time": 1772779882,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -779,20 +787,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135392,
+      "num": 135392,
+      "word": "季洁扮演者王茜回应重案六组翻拍",
+      "onboard_time": 1772779160,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135224,
       "num": 130549,
       "word": "得闲谨制最终票房4.12亿",
       "onboard_time": 1772774183,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 132629,
-      "num": 132629,
-      "word": "印度失联战斗机确认坠毁",
-      "onboard_time": 1772777962,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 132122,
@@ -817,14 +825,6 @@
       "onboard_time": 1772773643,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131315,
-      "num": 131315,
-      "word": "季洁扮演者王茜回应重案六组翻拍",
-      "onboard_time": 1772779160,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 130081,
@@ -907,6 +907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118862,
+      "num": 118862,
+      "word": "十日终焉原著齐夏相貌平平",
+      "onboard_time": 1772778262,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118257,
       "num": 113300,
       "word": "田曦薇能演杀猪女李雪琴早有预言",
@@ -953,14 +961,6 @@
       "onboard_time": 1772772803,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115047,
-      "num": 115047,
-      "word": "十日终焉原著齐夏相貌平平",
-      "onboard_time": 1772778262,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 114066,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1772709742,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104174,
+      "num": 104174,
+      "word": "伊朗外长说以色列优先意味美国最后",
+      "onboard_time": 1772779223,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103390,
@@ -1187,8 +1195,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89169,
-      "num": 89169,
+      "raw_hot": 90682,
+      "num": 90682,
       "word": "生孩子还带了个执法记录姨",
       "onboard_time": 1772779342,
       "rank": 35,
@@ -1267,12 +1275,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 84436,
-      "num": 84436,
-      "word": "伊朗外长说以色列优先意味美国最后",
-      "onboard_time": 1772779223,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 84124,
+      "num": 84124,
+      "word": "开学第一周vs开学第二周",
+      "onboard_time": 1772780843,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 83758,
@@ -1299,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81830,
+      "num": 81830,
+      "word": "手机厂商为何开始做龙虾",
+      "onboard_time": 1772781021,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 79837,
       "num": 126344,
       "word": "田曦薇转圈出场",
@@ -1320,6 +1336,14 @@
       "word": "十五五规划109项重大工程项目一览",
       "onboard_time": 1772768421,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 79135,
+      "num": 277820,
+      "word": "建议将免费教育年限扩至15年",
+      "onboard_time": 1772774183,
+      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -1451,20 +1475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67855,
-      "num": 277820,
-      "word": "建议将免费教育年限扩至15年",
-      "onboard_time": 1772774183,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 67771,
       "num": 125646,
       "word": "女子收到刮刮乐生日花束刮出80万元",
       "onboard_time": 1772715982,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66244,
+      "num": 268478,
+      "word": "代表建议不对70岁以上老人开自动续费",
+      "onboard_time": 1772777302,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66070,
@@ -1481,14 +1505,6 @@
       "onboard_time": 1772715922,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 62918,
-      "num": 268478,
-      "word": "代表建议不对70岁以上老人开自动续费",
-      "onboard_time": 1772777302,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62291,
@@ -1612,7 +1628,7 @@
     },
     {
       "raw_hot": 39662,
-      "num": 93747,
+      "num": 257340,
       "word": "建议给企业立法让员工强制休假",
       "onboard_time": 1772780421,
       "rank": 34,
@@ -1651,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33487,
+      "num": 272241,
+      "word": "政府工作报告中的民生热词",
+      "onboard_time": 1772775742,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31966,
       "num": 125831,
       "word": "张艺兴直播",
@@ -1665,14 +1689,6 @@
       "onboard_time": 1772773464,
       "rank": 19,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 31091,
-      "num": 272241,
-      "word": "政府工作报告中的民生热词",
-      "onboard_time": 1772775742,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27727,
@@ -1699,19 +1715,35 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 24611,
+      "num": 96125,
+      "word": "代表说女性爱自己是最浪漫的课题",
+      "onboard_time": 1772780421,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 22894,
+      "num": 158029,
+      "word": "娜扎我互联网的好闺蜜",
+      "onboard_time": 1772780601,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21243,
+      "num": 166469,
+      "word": "建议预制菜标准执行与企业信用挂钩",
+      "onboard_time": 1772780780,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20666,
       "num": 219286,
       "word": "直播两会开放团组活动",
       "onboard_time": 1772768962,
       "rank": 16,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 19773,
-      "num": 84647,
-      "word": "代表说女性爱自己是最浪漫的课题",
-      "onboard_time": 1772780421,
-      "rank": 39,
       "category": "国内时政"
     },
     {
@@ -1744,6 +1776,14 @@
       "word": "霍启刚建议香港深化爱国主义教育",
       "onboard_time": 1772754920,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 6673,
+      "num": 417316,
+      "word": "经济主题记者会",
+      "onboard_time": 1772780601,
+      "rank": 4,
       "category": "国内时政"
     }
   ],
