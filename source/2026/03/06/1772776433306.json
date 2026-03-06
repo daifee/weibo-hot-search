@@ -1,0 +1,410 @@
+{
+  "runTime": 1772776433306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 406349,
+        "num": 1065015,
+        "word": "多地官宣春假清明连休6天",
+        "onboard_time": 1772766320,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280223,
+        "num": 782133,
+        "word": "被骂了千年的小动物们该翻身了",
+        "onboard_time": 1772766923,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58529,
+        "num": 637716,
+        "word": "十五五规划109项重大工程项目一览",
+        "onboard_time": 1772768421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307107,
+        "num": 307107,
+        "word": "霸王茶姬免单",
+        "onboard_time": 1772762962,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175963,
+        "num": 285701,
+        "word": "逐玉 智能倍速看剧",
+        "onboard_time": 1772775022,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314444,
+        "num": 281589,
+        "word": "外国朋友以为中国也是一人一道菜",
+        "onboard_time": 1772772202,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275462,
+        "num": 275462,
+        "word": "伊朗军队誓为遭击沉军舰复仇",
+        "onboard_time": 1772768061,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21752,
+        "num": 273645,
+        "word": "村口小卖部里的全国人大代表",
+        "onboard_time": 1772756542,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4634,
+        "num": 272241,
+        "word": "政府工作报告中的民生热词",
+        "onboard_time": 1772775742,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35044,
+        "num": 269418,
+        "word": "委员呼吁破除35岁职业门槛",
+        "onboard_time": 1772775383,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174866,
+        "num": 265606,
+        "word": "谭松韵新剧气血十足老辈子来的",
+        "onboard_time": 1772771003,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1130714,
+        "num": 265574,
+        "word": "死了么APP创始人被原公司劝离职",
+        "onboard_time": 1772773104,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 538662,
+        "num": 262699,
+        "word": "女子产后21天突发大出血晕倒车库",
+        "onboard_time": 1772774301,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319604,
+        "num": 259576,
+        "word": "老舅妈嫩娘去世",
+        "onboard_time": 1772769442,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258201,
+        "num": 258201,
+        "word": "撞脸肖战收费员说没肖战帅",
+        "onboard_time": 1772771303,
+        "rank": 14,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 231378,
+        "num": 231378,
+        "word": "伊朗外长拒绝与美国谈判",
+        "onboard_time": 1772763142,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198835,
+        "num": 198835,
+        "word": "曝现在就出发4金晨被替换了",
+        "onboard_time": 1772754621,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197114,
+        "num": 197114,
+        "word": "十年前卖衣服方式",
+        "onboard_time": 1772773703,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191830,
+        "num": 191830,
+        "word": "委内瑞拉决定同美国恢复外交关系",
+        "onboard_time": 1772763861,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31869,
+        "num": 158482,
+        "word": "舒适正当夏",
+        "onboard_time": 1772773464,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 154150,
+        "num": 154150,
+        "word": "重案六组",
+        "onboard_time": 1772762962,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152615,
+        "num": 152615,
+        "word": "白敬亭又来找心动的offer了",
+        "onboard_time": 1772775383,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143309,
+        "num": 143309,
+        "word": "知道会动的冰箱贴受众是谁了",
+        "onboard_time": 1772773223,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62669,
+        "num": 142982,
+        "word": "刘亦菲夏日松弛感拉满",
+        "onboard_time": 1772769862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142838,
+        "num": 142838,
+        "word": "刘昊然宋祖儿 你透过我的眼睛在看谁",
+        "onboard_time": 1772773942,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142350,
+        "num": 142350,
+        "word": "不要热水洗头时梳头发",
+        "onboard_time": 1772774424,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135865,
+        "num": 135865,
+        "word": "逐玉",
+        "onboard_time": 1772758763,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131869,
+        "num": 131869,
+        "word": "美国24州联合起诉特朗普政府",
+        "onboard_time": 1772766861,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131717,
+        "num": 131717,
+        "word": "王安宇巴黎时装周出图",
+        "onboard_time": 1772773643,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125995,
+        "num": 125995,
+        "word": "伊朗向美以发动第20波袭击",
+        "onboard_time": 1772772202,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118560,
+        "num": 118560,
+        "word": "凤舞九天",
+        "onboard_time": 1772763260,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116496,
+        "num": 116496,
+        "word": "男子吃火锅花113元发票抽奖中了10万",
+        "onboard_time": 1772775920,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114821,
+        "num": 114821,
+        "word": "刘国梁高度肯定樊振东",
+        "onboard_time": 1772770341,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114066,
+        "num": 114066,
+        "word": "二十多年内娱只有这一个拿得出手的女警",
+        "onboard_time": 1772773822,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113300,
+        "num": 113300,
+        "word": "田曦薇能演杀猪女李雪琴早有预言",
+        "onboard_time": 1772774844,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107184,
+        "num": 107184,
+        "word": "你的肉松肉紧",
+        "onboard_time": 1772766801,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105863,
+        "num": 105863,
+        "word": "女生800元买猫被传染全身长猫藓",
+        "onboard_time": 1772765482,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104132,
+        "num": 104132,
+        "word": "惠英红 叫声妈咪保你在香港风生水起",
+        "onboard_time": 1772768661,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 103390,
+        "num": 103390,
+        "word": "建议别让家长替学校站岗",
+        "onboard_time": 1772773284,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97642,
+        "num": 97642,
+        "word": "据报初步评估显示美军袭击伊朗学校",
+        "onboard_time": 1772773762,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96440,
+        "num": 96440,
+        "word": "十日终焉纯大男主群像",
+        "onboard_time": 1772770282,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95446,
+        "num": 95446,
+        "word": "得闲谨制最终票房4.12亿",
+        "onboard_time": 1772774183,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86133,
+        "num": 95424,
+        "word": "原来四个小时能干这么多事",
+        "onboard_time": 1772772623,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83758,
+        "num": 95366,
+        "word": "建议三年级前学生课间延长至30分钟",
+        "onboard_time": 1772772983,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82941,
+        "num": 95334,
+        "word": "詹姆斯生涯进球数历史第一",
+        "onboard_time": 1772774064,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79778,
+        "num": 95275,
+        "word": "哪本小说让你觉得作者的文化水平很高",
+        "onboard_time": 1772776162,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 78213,
+        "num": 95244,
+        "word": "龚俊陆小凤造型",
+        "onboard_time": 1772765901,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77618,
+        "num": 95214,
+        "word": "逐玉追剧日历",
+        "onboard_time": 1772767823,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75051,
+        "num": 95166,
+        "word": "开学才发现寒假作业忘给学生发了",
+        "onboard_time": 1772775920,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72633,
+        "num": 95130,
+        "word": "原神",
+        "onboard_time": 1772773464,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的两会关切#"
+    }
+  }
+}

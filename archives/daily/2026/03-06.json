@@ -1,6 +1,6 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772773036574,
+  "endTime": 1772776433306,
   "band_list": [
     {
       "raw_hot": 1448072,
@@ -9,6 +9,14 @@
       "onboard_time": 1772762962,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1130714,
+      "num": 265574,
+      "word": "死了么APP创始人被原公司劝离职",
+      "onboard_time": 1772773104,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 1072874,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 757310,
-      "num": 255574,
+      "num": 259576,
       "word": "老舅妈嫩娘去世",
       "onboard_time": 1772769442,
       "rank": 10,
@@ -121,6 +129,14 @@
       "onboard_time": 1772753721,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 538662,
+      "num": 262699,
+      "word": "女子产后21天突发大出血晕倒车库",
+      "onboard_time": 1772774301,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 472598,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 352918,
-      "num": 238746,
+      "num": 258201,
       "word": "撞脸肖战收费员说没肖战帅",
       "onboard_time": 1772771303,
       "rank": 14,
@@ -209,6 +225,14 @@
       "onboard_time": 1772758463,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 314444,
+      "num": 281589,
+      "word": "外国朋友以为中国也是一人一道菜",
+      "onboard_time": 1772772202,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 305376,
@@ -257,6 +281,14 @@
       "onboard_time": 1772763921,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275462,
+      "num": 275462,
+      "word": "伊朗军队誓为遭击沉军舰复仇",
+      "onboard_time": 1772768061,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 274101,
@@ -323,14 +355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 237576,
-      "num": 237576,
-      "word": "伊朗军队誓为遭击沉军舰复仇",
-      "onboard_time": 1772768061,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 225846,
       "num": 215201,
       "word": "两女子相隔7公里长得一模一样",
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 216072,
-      "num": 216071,
+      "num": 265606,
       "word": "谭松韵新剧气血十足老辈子来的",
       "onboard_time": 1772771003,
       "rank": 27,
@@ -385,6 +409,14 @@
       "onboard_time": 1772767402,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 197114,
+      "num": 197114,
+      "word": "十年前卖衣服方式",
+      "onboard_time": 1772773703,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 196421,
@@ -419,20 +451,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 179190,
-      "num": 143657,
-      "word": "外国朋友以为中国也是一人一道菜",
-      "onboard_time": 1772772202,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176372,
       "num": 173611,
       "word": "八爪鱼钻车内失踪3天车主崩溃求助",
       "onboard_time": 1772726242,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175963,
+      "num": 285701,
+      "word": "逐玉 智能倍速看剧",
+      "onboard_time": 1772775022,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 175676,
@@ -523,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152615,
+      "num": 152615,
+      "word": "白敬亭又来找心动的offer了",
+      "onboard_time": 1772775383,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151290,
       "num": 147038,
       "word": "逐玉追剧日历",
@@ -537,6 +577,14 @@
       "onboard_time": 1772702242,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143309,
+      "num": 143309,
+      "word": "知道会动的冰箱贴受众是谁了",
+      "onboard_time": 1772773223,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 143267,
@@ -555,12 +603,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142838,
+      "num": 142838,
+      "word": "刘昊然宋祖儿 你透过我的眼睛在看谁",
+      "onboard_time": 1772773942,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142653,
       "num": 142653,
       "word": "建议取消私家车年审制度",
       "onboard_time": 1772754020,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142350,
+      "num": 142350,
+      "word": "不要热水洗头时梳头发",
+      "onboard_time": 1772774424,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 140369,
@@ -643,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131717,
+      "num": 131717,
+      "word": "王安宇巴黎时装周出图",
+      "onboard_time": 1772773643,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130081,
       "num": 109115,
       "word": "徐浩 团播",
@@ -715,6 +787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116496,
+      "num": 116496,
+      "word": "男子吃火锅花113元发票抽奖中了10万",
+      "onboard_time": 1772775920,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115628,
       "num": 212197,
       "word": "十日终焉角色设定",
@@ -747,12 +827,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114066,
+      "num": 114066,
+      "word": "二十多年内娱只有这一个拿得出手的女警",
+      "onboard_time": 1772773822,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113935,
       "num": 113935,
       "word": "委员谈年轻人不愿意体检",
       "onboard_time": 1772762422,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113300,
+      "num": 113300,
+      "word": "田曦薇能演杀猪女李雪琴早有预言",
+      "onboard_time": 1772774844,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 112069,
@@ -819,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103390,
+      "num": 103390,
+      "word": "建议别让家长替学校站岗",
+      "onboard_time": 1772773284,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102456,
       "num": 132705,
       "word": "归良辰",
@@ -867,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97642,
+      "num": 97642,
+      "word": "据报初步评估显示美军袭击伊朗学校",
+      "onboard_time": 1772773762,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97351,
       "num": 126387,
       "word": "美国老兵高呼没人愿为以色列而战",
@@ -881,6 +993,14 @@
       "onboard_time": 1772762720,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 95446,
+      "num": 95446,
+      "word": "得闲谨制最终票房4.12亿",
+      "onboard_time": 1772774183,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 95028,
@@ -987,6 +1107,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83758,
+      "num": 108589,
+      "word": "建议三年级前学生课间延长至30分钟",
+      "onboard_time": 1772772983,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 82941,
+      "num": 95334,
+      "word": "詹姆斯生涯进球数历史第一",
+      "onboard_time": 1772774064,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82452,
       "num": 88805,
       "word": "人际交往里最让人反感的行为",
@@ -1009,6 +1145,14 @@
       "onboard_time": 1772716823,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79778,
+      "num": 95275,
+      "word": "哪本小说让你觉得作者的文化水平很高",
+      "onboard_time": 1772776162,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 79701,
@@ -1051,11 +1195,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75051,
+      "num": 95166,
+      "word": "开学才发现寒假作业忘给学生发了",
+      "onboard_time": 1772775920,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72949,
       "num": 72949,
       "word": "杀戮尖塔 2",
       "onboard_time": 1772766801,
       "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 72633,
+      "num": 95130,
+      "word": "原神",
+      "onboard_time": 1772773464,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -1235,6 +1395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35044,
+      "num": 269418,
+      "word": "委员呼吁破除35岁职业门槛",
+      "onboard_time": 1772775383,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34418,
       "num": 125814,
       "word": "陈哲远大侦探玩成了密逃",
@@ -1251,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31869,
+      "num": 158482,
+      "word": "舒适正当夏",
+      "onboard_time": 1772773464,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 27727,
       "num": 429217,
       "word": "建议推动立法减少加班",
@@ -1265,6 +1441,14 @@
       "onboard_time": 1772719463,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 21752,
+      "num": 273645,
+      "word": "村口小卖部里的全国人大代表",
+      "onboard_time": 1772756542,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20666,
@@ -1291,14 +1475,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 11774,
-      "num": 108589,
-      "word": "建议三年级前学生课间延长至30分钟",
-      "onboard_time": 1772772983,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 10628,
       "num": 98621,
       "word": "张雨霏鼓励年轻人勇敢试错",
@@ -1313,6 +1489,14 @@
       "onboard_time": 1772754920,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 4634,
+      "num": 272241,
+      "word": "政府工作报告中的民生热词",
+      "onboard_time": 1772775742,
+      "rank": 8,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -1324,6 +1508,9 @@
     },
     {
       "word": "#总书记为经济大省向新指明方向#"
+    },
+    {
+      "word": "#总书记的两会关切#"
     }
   ]
 }
