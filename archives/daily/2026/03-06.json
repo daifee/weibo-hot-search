@@ -1,6 +1,6 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772783234204,
+  "endTime": 1772783928814,
   "band_list": [
     {
       "raw_hot": 1448072,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 827710,
-      "num": 265755,
+      "num": 390851,
       "word": "伊朗称击中美国林肯号航母",
       "onboard_time": 1772778562,
       "rank": 10,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 447477,
-      "num": 203329,
+      "num": 347098,
       "word": "印度对美国炸船行为保持沉默",
       "onboard_time": 1772777542,
       "rank": 20,
@@ -227,7 +227,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 372338,
+      "raw_hot": 382650,
       "num": 752031,
       "word": "小米发布国内第一个手机版龙虾",
       "onboard_time": 1772777542,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 349013,
-      "num": 349013,
+      "num": 522052,
       "word": "青海省委书记看生命树落泪",
       "onboard_time": 1772779762,
       "rank": 17,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 332894,
-      "num": 133327,
+      "num": 312703,
       "word": "破5亿播放AI短剧成本仅3000",
       "onboard_time": 1772781682,
       "rank": 20,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 306631,
-      "num": 260636,
+      "num": 344822,
       "word": "刘国梁回应樊振东一出一回",
       "onboard_time": 1772777482,
       "rank": 13,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272422,
+      "num": 272422,
+      "word": "Kep1er徐永恩退团",
+      "onboard_time": 1772779882,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269033,
       "num": 269033,
       "word": "武林外传小米演员已经坚持施粥5年",
@@ -401,14 +409,6 @@
       "onboard_time": 1772773703,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 264274,
-      "num": 165117,
-      "word": "Kep1er徐永恩退团",
-      "onboard_time": 1772779882,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 260201,
@@ -459,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233721,
+      "num": 233721,
+      "word": "孩子大了后要帮孩子完成社会化",
+      "onboard_time": 1772777542,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225846,
       "num": 215201,
       "word": "两女子相隔7公里长得一模一样",
@@ -497,6 +505,14 @@
       "onboard_time": 1772756242,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205420,
+      "num": 480249,
+      "word": "季洁扮演者王茜回应重案六组翻拍",
+      "onboard_time": 1772779160,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 201690,
@@ -539,12 +555,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191661,
+      "num": 191661,
+      "word": "小鹏G6超级增程六项全能一步到位",
+      "onboard_time": 1772782461,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 189168,
       "num": 115546,
       "word": "比亚迪闪充站建设真的猛",
       "onboard_time": 1772778982,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 180918,
+      "num": 723817,
+      "word": "千问妇女节活动",
+      "onboard_time": 1772782401,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 179416,
@@ -569,14 +601,6 @@
       "onboard_time": 1772723903,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 174970,
-      "num": 174970,
-      "word": "季洁扮演者王茜回应重案六组翻拍",
-      "onboard_time": 1772779160,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 171752,
@@ -697,22 +721,6 @@
       "onboard_time": 1772702242,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146489,
-      "num": 130078,
-      "word": "小鹏G6超级增程六项全能一步到位",
-      "onboard_time": 1772782461,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 144133,
-      "num": 144133,
-      "word": "孩子大了后要帮孩子完成社会化",
-      "onboard_time": 1772777542,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 143309,
@@ -891,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123396,
+      "num": 120059,
+      "word": "十日终焉原著齐夏相貌平平",
+      "onboard_time": 1772778262,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121677,
       "num": 126026,
       "word": "陈哲远 再不救教资要融化了",
@@ -929,14 +945,6 @@
       "onboard_time": 1772761641,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 118862,
-      "num": 118862,
-      "word": "十日终焉原著齐夏相貌平平",
-      "onboard_time": 1772778262,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 118257,
@@ -1003,6 +1011,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113617,
+      "num": 113617,
+      "word": "伊朗外长说以色列优先意味美国最后",
+      "onboard_time": 1772779223,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 113268,
+      "num": 113268,
+      "word": "ZSLin对战DOU5",
+      "onboard_time": 1772782221,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112069,
       "num": 128181,
       "word": "成毅太子长琴cut",
@@ -1067,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104174,
-      "num": 104174,
-      "word": "伊朗外长说以色列优先意味美国最后",
-      "onboard_time": 1772779223,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 103390,
       "num": 103390,
       "word": "建议别让家长替学校站岗",
@@ -1107,6 +1123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 100942,
+      "num": 100942,
+      "word": "猫 哥你别吃了我害怕",
+      "onboard_time": 1772781742,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100813,
       "num": 100813,
       "word": "凤舞九天开机",
@@ -1132,7 +1156,7 @@
     },
     {
       "raw_hot": 98233,
-      "num": 91286,
+      "num": 91724,
       "word": "生孩子还带了个执法记录姨",
       "onboard_time": 1772779342,
       "rank": 35,
@@ -1187,6 +1211,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 92912,
+      "num": 1014866,
+      "word": "经济主题记者会",
+      "onboard_time": 1772780601,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91874,
       "num": 126302,
       "word": "伊朗报复美以",
@@ -1203,12 +1235,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 91671,
-      "num": 91671,
-      "word": "千问妇女节活动",
-      "onboard_time": 1772782401,
-      "rank": 29,
-      "category": "互联网"
+      "raw_hot": 91670,
+      "num": 91670,
+      "word": "曝周翊然竞争十日终焉被pass",
+      "onboard_time": 1772782941,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 91243,
@@ -1347,14 +1379,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 80264,
-      "num": 80264,
-      "word": "猫 哥你别吃了我害怕",
-      "onboard_time": 1772781742,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 79837,
       "num": 126344,
       "word": "田曦薇转圈出场",
@@ -1393,6 +1417,22 @@
       "onboard_time": 1772764461,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78737,
+      "num": 78737,
+      "word": "教练笑了半小时才决定教普拉提",
+      "onboard_time": 1772783782,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 78609,
+      "num": 78609,
+      "word": "医生说春天是养头发的好时机",
+      "onboard_time": 1772782342,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 78427,
@@ -1435,14 +1475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 76663,
-      "num": 76663,
-      "word": "医生说春天是养头发的好时机",
-      "onboard_time": 1772782342,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 76505,
       "num": 216072,
       "word": "张予曦是花仙子本仙吧",
@@ -1467,6 +1499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74388,
+      "num": 125684,
+      "word": "委员呼吁减轻年轻人生育负担",
+      "onboard_time": 1772781981,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 73354,
       "num": 95130,
       "word": "原神",
@@ -1489,14 +1529,6 @@
       "onboard_time": 1772777001,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72831,
-      "num": 1011653,
-      "word": "经济主题记者会",
-      "onboard_time": 1772780601,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 72457,
@@ -1604,7 +1636,7 @@
     },
     {
       "raw_hot": 55194,
-      "num": 211449,
+      "num": 452821,
       "word": "AI相关产业规模将超10万亿元",
       "onboard_time": 1772781322,
       "rank": 7,
@@ -1633,14 +1665,6 @@
       "onboard_time": 1772717541,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 51550,
-      "num": 80082,
-      "word": "曝周翊然竞争十日终焉被pass",
-      "onboard_time": 1772782941,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 50259,
@@ -1683,19 +1707,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47876,
+      "num": 320386,
+      "word": "避免女性在生育与事业间被迫二选一",
+      "onboard_time": 1772783241,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47559,
       "num": 120510,
       "word": "呼吁节假日公共停车位免费",
       "onboard_time": 1772725102,
       "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 45646,
-      "num": 125684,
-      "word": "委员呼吁减轻年轻人生育负担",
-      "onboard_time": 1772781981,
-      "rank": 24,
       "category": "国内时政"
     },
     {
@@ -1739,6 +1763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 35898,
+      "num": 161173,
+      "word": "娜扎我互联网的好闺蜜",
+      "onboard_time": 1772780601,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35656,
       "num": 125697,
       "word": "美以超7套先进雷达系统被摧毁",
@@ -1764,7 +1796,7 @@
     },
     {
       "raw_hot": 34407,
-      "num": 272241,
+      "num": 433422,
       "word": "政府工作报告中的民生热词",
       "onboard_time": 1772775742,
       "rank": 8,
@@ -1772,19 +1804,11 @@
     },
     {
       "raw_hot": 34099,
-      "num": 207922,
+      "num": 429812,
       "word": "预计今年GDP增量超6万亿元",
       "onboard_time": 1772781322,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33650,
-      "num": 158029,
-      "word": "娜扎我互联网的好闺蜜",
-      "onboard_time": 1772780601,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 31966,
@@ -1808,6 +1832,14 @@
       "word": "建议推动立法减少加班",
       "onboard_time": 1772766022,
       "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 26144,
+      "num": 465883,
+      "word": "建议给应届生发租房补贴",
+      "onboard_time": 1772783421,
+      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -1851,16 +1883,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19409,
-      "num": 80051,
+      "raw_hot": 20183,
+      "num": 316951,
       "word": "建议儿童机票价始终具备优惠属性",
       "onboard_time": 1772783182,
       "rank": 40,
       "category": "国内时政"
     },
     {
-      "raw_hot": 14715,
-      "num": 590350,
+      "raw_hot": 18596,
+      "num": 604676,
       "word": "3月6日两会日程",
       "onboard_time": 1772767701,
       "rank": 2,
