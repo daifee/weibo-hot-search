@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772816019996,
+  "endTime": 1772816829800,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -179,7 +179,15 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 150914,
+      "raw_hot": 152415,
+      "num": 120299,
+      "word": "逐玉 截不到丑图",
+      "onboard_time": 1772815820,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150968,
       "num": 471979,
       "word": "镖人",
       "onboard_time": 1772812582,
@@ -209,14 +217,6 @@
       "onboard_time": 1772798721,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 115695,
-      "num": 115695,
-      "word": "逐玉 截不到丑图",
-      "onboard_time": 1772815820,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 114396,
@@ -275,6 +275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80573,
+      "num": 107090,
+      "word": "董璇名下公司被执行千万",
+      "onboard_time": 1772814801,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77274,
       "num": 138597,
       "word": "黄景瑜孙千 明川有知夏",
@@ -299,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73786,
-      "num": 107090,
-      "word": "董璇名下公司被执行千万",
-      "onboard_time": 1772814801,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73418,
       "num": 138179,
       "word": "专家建议女性尽早做生育力评估",
@@ -321,6 +321,14 @@
       "onboard_time": 1772803703,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70996,
+      "num": 106278,
+      "word": "你好星期六",
+      "onboard_time": 1772812761,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 65645,
@@ -371,14 +379,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 59558,
-      "num": 106278,
-      "word": "你好星期六",
-      "onboard_time": 1772812761,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 58575,
       "num": 137181,
       "word": "建议双一流本科扩招优先山河四省",
@@ -419,6 +419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 42902,
+      "num": 102783,
+      "word": "Naiyou疑似假赛",
+      "onboard_time": 1772787083,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 42836,
       "num": 103007,
       "word": "关于短线交易监管的若干规定",
@@ -427,15 +435,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 42228,
-      "num": 102783,
-      "word": "Naiyou疑似假赛",
-      "onboard_time": 1772787083,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 34915,
+      "raw_hot": 38631,
       "num": 101884,
       "word": "女子频繁迟到做事拖沓被确诊ADHD",
       "onboard_time": 1772794223,
