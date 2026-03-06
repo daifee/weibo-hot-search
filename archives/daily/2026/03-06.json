@@ -1,6 +1,6 @@
 {
   "startTime": 1772727070988,
-  "endTime": 1772804142088,
+  "endTime": 1772808259085,
   "band_list": [
     {
       "raw_hot": 2048848,
@@ -33,6 +33,14 @@
       "onboard_time": 1772762962,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1307222,
+      "num": 574371,
+      "word": "伊朗大使说250年怎能挑衅3000年历史",
+      "onboard_time": 1772803703,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1303150,
@@ -104,6 +112,14 @@
       "word": "逐玉热度",
       "onboard_time": 1772793741,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 933883,
+      "num": 1082506,
+      "word": "生命树",
+      "onboard_time": 1772798242,
+      "rank": 0,
       "category": "剧集"
     },
     {
@@ -259,19 +275,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 521655,
+      "num": 521655,
+      "word": "乒协会尊重樊振东意愿全力保障",
+      "onboard_time": 1772803643,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 517349,
       "num": 436088,
       "word": "逐玉 顶级待遇",
       "onboard_time": 1772787501,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 515664,
-      "num": 1082506,
-      "word": "生命树",
-      "onboard_time": 1772798242,
-      "rank": 0,
       "category": "剧集"
     },
     {
@@ -281,6 +297,14 @@
       "onboard_time": 1772799442,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 510459,
+      "num": 510459,
+      "word": "请全球通缉发明这个水枪的天才",
+      "onboard_time": 1772802563,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 496607,
@@ -297,6 +321,14 @@
       "onboard_time": 1772785941,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 477371,
+      "num": 1076379,
+      "word": "代表说70岁以上老人真干不动农活了",
+      "onboard_time": 1772802322,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 472598,
@@ -371,6 +403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 404862,
+      "num": 335996,
+      "word": "伊朗发射超重型导弹为遇难学生复仇",
+      "onboard_time": 1772805624,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 399923,
       "num": 941883,
       "word": "千问妇女节活动",
@@ -411,6 +451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 368703,
+      "num": 368703,
+      "word": "迪丽热巴包场支持张凌赫新剧",
+      "onboard_time": 1772803521,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361241,
       "num": 247416,
       "word": "曝现在就出发4金晨被替换了",
@@ -428,7 +476,7 @@
     },
     {
       "raw_hot": 354251,
-      "num": 354251,
+      "num": 414456,
       "word": "张予曦毕雯珺 综艺",
       "onboard_time": 1772800401,
       "rank": 17,
@@ -555,14 +603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 290857,
-      "num": 290857,
-      "word": "乒协会尊重樊振东意愿全力保障",
-      "onboard_time": 1772803643,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289614,
       "num": 138259,
       "word": "现在就出发4",
@@ -643,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254669,
-      "num": 771047,
-      "word": "代表说70岁以上老人真干不动农活了",
-      "onboard_time": 1772802322,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251237,
       "num": 110351,
       "word": "高速收费员因帅得人山人海火了",
@@ -697,6 +729,14 @@
       "onboard_time": 1772717963,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230848,
+      "num": 151958,
+      "word": "逐玉 任豪",
+      "onboard_time": 1772805503,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 225846,
@@ -771,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202199,
-      "num": 202199,
-      "word": "伊朗大使说250年怎能挑衅3000年历史",
-      "onboard_time": 1772803703,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 201690,
       "num": 174403,
       "word": "中方吊唁哈梅内伊遇难",
@@ -792,6 +824,14 @@
       "word": "今年首个官宣涨价的车企",
       "onboard_time": 1772767402,
       "rank": 26,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 198943,
+      "num": 414357,
+      "word": "魏建军就海报抄袭道歉",
+      "onboard_time": 1772802382,
+      "rank": 38,
       "category": "汽车"
     },
     {
@@ -817,6 +857,14 @@
       "onboard_time": 1772719164,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194910,
+      "num": 194910,
+      "word": "曾庆杰 升咖",
+      "onboard_time": 1772803943,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 193547,
@@ -875,14 +923,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 177294,
-      "num": 177294,
-      "word": "迪丽热巴包场支持张凌赫新剧",
-      "onboard_time": 1772803521,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177196,
       "num": 177196,
       "word": "女子翻老盒子内藏十几张清朝地契",
@@ -923,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171241,
+      "num": 567521,
+      "word": "花呗等网络消费信贷可享受贴息",
+      "onboard_time": 1772805143,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 170741,
       "num": 170741,
       "word": "李昀锐刘些宁归良辰今日开机",
@@ -955,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166210,
+      "num": 338051,
+      "word": "黄景瑜孙千 明川有知夏",
+      "onboard_time": 1772802622,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166066,
       "num": 166066,
       "word": "腾讯工程师在楼下免费安装OpenClaw",
@@ -985,14 +1041,6 @@
       "onboard_time": 1772707702,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 162878,
-      "num": 162878,
-      "word": "魏建军就海报抄袭道歉",
-      "onboard_time": 1772802382,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 162318,
@@ -1291,12 +1339,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134752,
+      "num": 134752,
+      "word": "逐玉 猪圈出神图",
+      "onboard_time": 1772805083,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133795,
       "num": 155396,
       "word": "美以袭击已致1332名伊朗人死亡",
       "onboard_time": 1772788643,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133505,
+      "num": 133505,
+      "word": "真我",
+      "onboard_time": 1772805503,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 132122,
@@ -1312,14 +1376,6 @@
       "word": "如萍你真是在哪都不会说话",
       "onboard_time": 1772754139,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 131812,
-      "num": 131812,
-      "word": "黄景瑜孙千 明川有知夏",
-      "onboard_time": 1772802622,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1369,6 +1425,14 @@
       "onboard_time": 1772794223,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127044,
+      "num": 127044,
+      "word": "穆祉丞新歌",
+      "onboard_time": 1772805384,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 126713,
@@ -1427,20 +1491,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122011,
-      "num": 122011,
-      "word": "请全球通缉发明这个水枪的天才",
-      "onboard_time": 1772802563,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 121677,
       "num": 126026,
       "word": "陈哲远 再不救教资要融化了",
       "onboard_time": 1772720545,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121445,
+      "num": 121445,
+      "word": "伊朗外长说对抗美以已是胜利",
+      "onboard_time": 1772803703,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 121377,
+      "num": 121377,
+      "word": "字节腾讯同日抢人",
+      "onboard_time": 1772806463,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 120639,
@@ -1715,12 +1787,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105511,
-      "num": 105511,
-      "word": "伊朗外长说对抗美以已是胜利",
-      "onboard_time": 1772803703,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 104510,
+      "num": 104510,
+      "word": "超近距离看王一博",
+      "onboard_time": 1772806824,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 103390,
@@ -1833,6 +1905,14 @@
       "onboard_time": 1772779342,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98189,
+      "num": 102563,
+      "word": "周杰伦新歌要来了",
+      "onboard_time": 1772807662,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 97642,
@@ -1995,14 +2075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87802,
-      "num": 92196,
-      "word": "曾庆杰 升咖",
-      "onboard_time": 1772803943,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87375,
       "num": 87375,
       "word": "洗脸巾二次利用",
@@ -2067,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84284,
+      "num": 102520,
+      "word": "AG仙崽独狼MVP",
+      "onboard_time": 1772807963,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84124,
       "num": 84124,
       "word": "开学第一周vs开学第二周",
@@ -2100,7 +2180,7 @@
     },
     {
       "raw_hot": 82321,
-      "num": 92144,
+      "num": 102511,
       "word": "OpenClaw爆火",
       "onboard_time": 1772802622,
       "rank": 44,
@@ -2355,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67510,
+      "num": 102501,
+      "word": "山东出手解决年轻人来鲁第一难",
+      "onboard_time": 1772807603,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67351,
       "num": 112413,
       "word": "白鹿抱孩子vs王鹤棣抱孩子",
@@ -2547,6 +2635,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 44127,
+      "num": 107600,
+      "word": "海狮06自由闪充告别等待",
+      "onboard_time": 1772808203,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44012,
       "num": 219123,
       "word": "玫瑰丛生",
@@ -2595,6 +2691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39278,
+      "num": 599207,
+      "word": "十五五规划新指标新看点",
+      "onboard_time": 1772801242,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39177,
       "num": 549712,
       "word": "委员称培训隐形变异侵蚀教育公平",
@@ -2609,14 +2713,6 @@
       "onboard_time": 1772713762,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 36431,
-      "num": 595864,
-      "word": "十五五规划新指标新看点",
-      "onboard_time": 1772801242,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35898,
@@ -2696,6 +2792,14 @@
       "word": "预计今年GDP增量超6万亿元",
       "onboard_time": 1772781322,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 33694,
+      "num": 126343,
+      "word": "代表建议差异化设定丧假天数",
+      "onboard_time": 1772806884,
+      "rank": 32,
       "category": "国内时政"
     },
     {
@@ -2825,6 +2929,14 @@
       "onboard_time": 1772767701,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17658,
+      "num": 105792,
+      "word": "草莓价格大大大跳水",
+      "onboard_time": 1772808023,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13957,
