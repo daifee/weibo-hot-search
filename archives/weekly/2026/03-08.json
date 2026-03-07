@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772904583132,
+  "endTime": 1772905602652,
   "band_list": [
     {
       "raw_hot": 676139,
@@ -315,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47486,
+      "num": 410531,
+      "word": "蒋胜男建议处罚加班严重企业",
+      "onboard_time": 1772902340,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45682,
       "num": 739365,
       "word": "美以袭击致192名伊朗师生死亡",
@@ -353,14 +361,6 @@
       "onboard_time": 1772883202,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 38559,
-      "num": 410531,
-      "word": "蒋胜男建议处罚加班严重企业",
-      "onboard_time": 1772902340,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38175,
@@ -448,6 +448,14 @@
       "word": "AG单日三鸡积分第一",
       "onboard_time": 1772892321,
       "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 19496,
+      "num": 192253,
+      "word": "WBG无缘先锋赛",
+      "onboard_time": 1772905398,
+      "rank": 47,
       "category": "电竞"
     },
     {
