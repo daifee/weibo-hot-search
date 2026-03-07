@@ -1,0 +1,410 @@
+{
+  "runTime": 1772862206766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 408241,
+        "num": 1065318,
+        "word": "40年前的丧假制度该更新了",
+        "onboard_time": 1772852002,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277462,
+        "num": 747949,
+        "word": "教资",
+        "onboard_time": 1772842340,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 50124,
+        "num": 629978,
+        "word": "十五五109项重大工程项目思维导图",
+        "onboard_time": 1772854641,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 380012,
+        "num": 380012,
+        "word": "90后单亲妈妈摆地摊起家年赚上千万",
+        "onboard_time": 1772857160,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261510,
+        "num": 261510,
+        "word": "张凌赫感谢惠英红推荐逐玉",
+        "onboard_time": 1772853861,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231034,
+        "num": 231034,
+        "word": "不会化妆的女生建议反复观看",
+        "onboard_time": 1772852301,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 218629,
+        "num": 218629,
+        "word": "成年男性腰围控制90cm以内女性85以内",
+        "onboard_time": 1772856080,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215941,
+        "num": 215941,
+        "word": "刘敏涛倒第二遍水这段真绷不住了",
+        "onboard_time": 1772854342,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26110,
+        "num": 213882,
+        "word": "报告里这些民生举措触手可及",
+        "onboard_time": 1772854641,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118191,
+        "num": 212143,
+        "word": "杨瀚森21分9篮板",
+        "onboard_time": 1772861422,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 645955,
+        "num": 207864,
+        "word": "建议像治理黄色网站治理网盘浏览器",
+        "onboard_time": 1772858903,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 451508,
+        "num": 204673,
+        "word": "美第三个航母打击群或将部署至中东",
+        "onboard_time": 1772858842,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341759,
+        "num": 201804,
+        "word": "麦当劳CEO再被网友扒出假吃",
+        "onboard_time": 1772852961,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 325234,
+        "num": 200482,
+        "word": "逐玉",
+        "onboard_time": 1772860161,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238793,
+        "num": 195217,
+        "word": "张凌赫手戳田曦薇梨涡",
+        "onboard_time": 1772858903,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195018,
+        "num": 195018,
+        "word": "你弟什么身份居然还有门卫",
+        "onboard_time": 1772857221,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229333,
+        "num": 194354,
+        "word": "花儿与少年8",
+        "onboard_time": 1772852661,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201104,
+        "num": 194171,
+        "word": "林书豪张嘴闭嘴都是钱",
+        "onboard_time": 1772858241,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187512,
+        "num": 187512,
+        "word": "因为9岁侄子的一句话哭了40分钟",
+        "onboard_time": 1772857702,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165321,
+        "num": 165321,
+        "word": "惠英红也在看逐玉",
+        "onboard_time": 1772853560,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480818,
+        "num": 162886,
+        "word": "白鹿因为当模特患上风湿病",
+        "onboard_time": 1772859680,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157927,
+        "num": 157927,
+        "word": "感受到了明星化妆师的权威",
+        "onboard_time": 1772860702,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 402482,
+        "num": 157061,
+        "word": "宝格丽 刘亦菲在哪儿我在哪儿",
+        "onboard_time": 1772860461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195432,
+        "num": 156091,
+        "word": "刘亦菲8秒换胎",
+        "onboard_time": 1772861661,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147734,
+        "num": 147734,
+        "word": "ZOO对战北京WBG",
+        "onboard_time": 1772862022,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146071,
+        "num": 146071,
+        "word": "霍尔木兹海峡船只遭袭致4死3重伤",
+        "onboard_time": 1772843781,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133653,
+        "num": 133653,
+        "word": "王一博周围全是LV集团高层",
+        "onboard_time": 1772853861,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127990,
+        "num": 127990,
+        "word": "4岁女儿被诊断为男孩需选性别做手术",
+        "onboard_time": 1772849241,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127640,
+        "num": 127640,
+        "word": "王小亿你演短剧的时候不是这样的",
+        "onboard_time": 1772858420,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122326,
+        "num": 122326,
+        "word": "俄方警告芬兰",
+        "onboard_time": 1772851941,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265420,
+        "num": 121599,
+        "word": "下面用的已经是苹果二十几了",
+        "onboard_time": 1772861302,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112547,
+        "num": 112547,
+        "word": "王楚然偏偏你最争气",
+        "onboard_time": 1772859501,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110224,
+        "num": 110224,
+        "word": "所有省份已推行课间15分钟",
+        "onboard_time": 1772853501,
+        "rank": 32,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 109159,
+        "num": 109159,
+        "word": "岳雨婷G社出图",
+        "onboard_time": 1772851041,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108659,
+        "num": 108659,
+        "word": "女子热水泡脚3个月皮肤变色洗不掉",
+        "onboard_time": 1772840358,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107599,
+        "num": 107599,
+        "word": "Jennie出发Chanel大秀",
+        "onboard_time": 1772859742,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102339,
+        "num": 102339,
+        "word": "张凯丽谈20天婚假公司只批3天",
+        "onboard_time": 1772852480,
+        "rank": 36,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 101186,
+        "num": 101186,
+        "word": "维斯塔潘撞墙",
+        "onboard_time": 1772861122,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100910,
+        "num": 100910,
+        "word": "未来五年哪些工作更吃香",
+        "onboard_time": 1772847142,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42183,
+        "num": 99490,
+        "word": "于正说墨雨云间会有第二季",
+        "onboard_time": 1772854941,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99055,
+        "num": 99055,
+        "word": "两口子是在工地认识的吗",
+        "onboard_time": 1772859860,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95059,
+        "num": 95059,
+        "word": "男队依然需要樊振东这样的定海神针",
+        "onboard_time": 1772861241,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94267,
+        "num": 94267,
+        "word": "以军被指击中伊朗直升机涂鸦",
+        "onboard_time": 1772856742,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93735,
+        "num": 93735,
+        "word": "镖人",
+        "onboard_time": 1772812582,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92801,
+        "num": 92801,
+        "word": "高卿尘逐玉出场三集被打6次",
+        "onboard_time": 1772857041,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91860,
+        "num": 91860,
+        "word": "德黑兰发生巨大爆炸",
+        "onboard_time": 1772841080,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86979,
+        "num": 86979,
+        "word": "教资作文",
+        "onboard_time": 1772852961,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83300,
+        "num": 83300,
+        "word": "白鹿回应和跑男团关系",
+        "onboard_time": 1772861902,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82958,
+        "num": 82958,
+        "word": "亲密关系中的煤气灯效应",
+        "onboard_time": 1772861601,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79562,
+        "num": 79562,
+        "word": "贵州炒饭",
+        "onboard_time": 1772859443,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记两会下团组#"
+    }
+  }
+}
