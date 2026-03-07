@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772876244705,
+  "endTime": 1772877125467,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1414218,
-      "num": 222717,
+      "num": 226902,
       "word": "伊朗总统称不再首先攻击邻国",
       "onboard_time": 1772871921,
       "rank": 23,
@@ -843,6 +843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 920381,
+      "num": 610888,
+      "word": "秦岚在花少头发都没油成这样",
+      "onboard_time": 1772873542,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 906213,
       "num": 366820,
       "word": "伊朗称已准备长期战争",
@@ -881,14 +889,6 @@
       "onboard_time": 1772614044,
       "rank": 37,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 873512,
-      "num": 549723,
-      "word": "秦岚在花少头发都没油成这样",
-      "onboard_time": 1772873542,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 868815,
@@ -2779,6 +2779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 433332,
+      "num": 221257,
+      "word": "迪拜国际机场紧急疏散旅客",
+      "onboard_time": 1772871921,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 432617,
       "num": 1065318,
       "word": "40年前的丧假制度该更新了",
@@ -3539,14 +3547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 365301,
-      "num": 221257,
-      "word": "迪拜国际机场紧急疏散旅客",
-      "onboard_time": 1772871921,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 365174,
       "num": 188509,
       "word": "金银涨爆了",
@@ -3865,6 +3865,14 @@
       "onboard_time": 1772594425,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 341408,
+      "num": 220205,
+      "word": "鲁豫吃了多少盐才能讲出这些话",
+      "onboard_time": 1772875882,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 341280,
@@ -4376,6 +4384,14 @@
       "word": "迪丽热巴闪耀巴黎",
       "onboard_time": 1772423424,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 303172,
+      "num": 196180,
+      "word": "王安宇裴秀智孙千同框",
+      "onboard_time": 1772875522,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -5553,6 +5569,14 @@
       "onboard_time": 1772634505,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 233203,
+      "num": 233203,
+      "word": "医生建议女性量力而行",
+      "onboard_time": 1772874142,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233006,
@@ -7075,6 +7099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169175,
+      "num": 195602,
+      "word": "留个学被老师科普了三天中国",
+      "onboard_time": 1772874082,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169134,
       "num": 280196,
       "word": "永远不要在谈话中自贬",
@@ -7401,14 +7433,6 @@
       "onboard_time": 1772435903,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160817,
-      "num": 195602,
-      "word": "留个学被老师科普了三天中国",
-      "onboard_time": 1772874082,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 160797,
@@ -8971,14 +8995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 130231,
-      "num": 196180,
-      "word": "王安宇裴秀智孙千同框",
-      "onboard_time": 1772875522,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130081,
       "num": 109115,
       "word": "徐浩 团播",
@@ -9137,6 +9153,14 @@
       "onboard_time": 1772858420,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127366,
+      "num": 208525,
+      "word": "十个勤天到底有多少个群",
+      "onboard_time": 1772874441,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 127347,
@@ -9305,14 +9329,6 @@
       "onboard_time": 1772413824,
       "rank": 41,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 124676,
-      "num": 216231,
-      "word": "医生建议女性量力而行",
-      "onboard_time": 1772874142,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124389,
@@ -10363,6 +10379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111077,
+      "num": 193351,
+      "word": "曝花少8拟邀宁艺卓刘浩存",
+      "onboard_time": 1772875460,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110942,
       "num": 110942,
       "word": "财政部部长称一分钱掰成两半花",
@@ -10713,14 +10737,6 @@
       "onboard_time": 1772697502,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106554,
-      "num": 208525,
-      "word": "十个勤天到底有多少个群",
-      "onboard_time": 1772874441,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 106510,
@@ -12603,14 +12619,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 86716,
-      "num": 195118,
-      "word": "鲁豫吃了多少盐才能讲出这些话",
-      "onboard_time": 1772875882,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86681,
       "num": 86681,
       "word": "老一辈助眠就是没轻没重",
@@ -13355,6 +13363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78860,
+      "num": 221629,
+      "word": "普高扩招是否意味高中将纳入义务教育",
+      "onboard_time": 1772875221,
+      "rank": 9,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 78793,
       "num": 78793,
       "word": "JackeyLove职业生涯最夯的一次闪现",
@@ -13955,6 +13971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 73507,
+      "num": 73507,
+      "word": "WBG对战JDG",
+      "onboard_time": 1772874742,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73360,
       "num": 134009,
       "word": "TOP专辑秒切",
@@ -14057,6 +14081,14 @@
       "onboard_time": 1772671284,
       "rank": 48,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 72715,
+      "num": 193973,
+      "word": "谁敢信这是20块的猫啊",
+      "onboard_time": 1772875281,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 72713,
@@ -14259,6 +14291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69618,
+      "num": 69618,
+      "word": "杨幂三亚卡诗活动人气",
+      "onboard_time": 1772877020,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 69530,
       "num": 101609,
       "word": "水蛭型出游",
@@ -14377,6 +14417,14 @@
       "onboard_time": 1772415621,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68511,
+      "num": 68511,
+      "word": "JackeyLove的号是买的",
+      "onboard_time": 1772877020,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 68508,
@@ -14537,14 +14585,6 @@
       "onboard_time": 1772777302,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 66233,
-      "num": 193973,
-      "word": "谁敢信这是20块的猫啊",
-      "onboard_time": 1772875281,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 66171,
@@ -14979,14 +15019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60076,
-      "num": 193351,
-      "word": "曝花少8拟邀宁艺卓刘浩存",
-      "onboard_time": 1772875460,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 59488,
       "num": 155739,
       "word": "让学生身上有汗眼里有光",
@@ -15001,6 +15033,14 @@
       "onboard_time": 1772339305,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 59294,
+      "num": 192808,
+      "word": "周云杰真诚回应雷军的邀请",
+      "onboard_time": 1772875161,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 59214,
@@ -15137,14 +15177,6 @@
       "onboard_time": 1772521947,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 56216,
-      "num": 192808,
-      "word": "周云杰真诚回应雷军的邀请",
-      "onboard_time": 1772875161,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 55589,
@@ -15755,6 +15787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45661,
+      "num": 68704,
+      "word": "孔雪儿将门独后首套造型",
+      "onboard_time": 1772876362,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45546,
       "num": 118418,
       "word": "伊朗小学遭袭死亡升至85人",
@@ -16073,14 +16113,6 @@
       "onboard_time": 1772368945,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39782,
-      "num": 221629,
-      "word": "普高扩招是否意味高中将纳入义务教育",
-      "onboard_time": 1772875221,
-      "rank": 9,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 39762,
@@ -17265,6 +17297,14 @@
       "onboard_time": 1772354783,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17935,
+      "num": 192409,
+      "word": "委员建议为春秋假做好配套政策",
+      "onboard_time": 1772876421,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17835,
