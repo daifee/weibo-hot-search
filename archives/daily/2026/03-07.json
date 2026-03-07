@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772867147638,
+  "endTime": 1772869004148,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -67,7 +67,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 622700,
+      "raw_hot": 634395,
       "num": 296408,
       "word": "花少神一季鬼一季的定律",
       "onboard_time": 1772865682,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401556,
+      "num": 798595,
+      "word": "雷军说未来每周或仅需工作3天",
+      "onboard_time": 1772865921,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 392728,
       "num": 250125,
       "word": "花儿与少年8",
@@ -251,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 358762,
+      "num": 280888,
+      "word": "逐玉",
+      "onboard_time": 1772860161,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357291,
       "num": 247816,
       "word": "张凯丽谈20天婚假公司只批3天",
@@ -267,20 +283,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 355215,
+      "num": 233296,
+      "word": "伊朗不许美以相关船只通过霍尔木兹",
+      "onboard_time": 1772867661,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 353891,
       "num": 247173,
       "word": "俄方警告芬兰",
       "onboard_time": 1772851941,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 351703,
-      "num": 280888,
-      "word": "逐玉",
-      "onboard_time": 1772860161,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 344036,
@@ -321,6 +337,14 @@
       "onboard_time": 1772849660,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316027,
+      "num": 316027,
+      "word": "教资科二",
+      "onboard_time": 1772867542,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 308883,
@@ -563,14 +587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189644,
-      "num": 321118,
-      "word": "雷军说未来每周或仅需工作3天",
-      "onboard_time": 1772865921,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 187512,
       "num": 187512,
       "word": "因为9岁侄子的一句话哭了40分钟",
@@ -691,6 +707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145473,
+      "num": 138823,
+      "word": "工作脑vs事业脑",
+      "onboard_time": 1772867542,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143983,
       "num": 212143,
       "word": "杨瀚森21分9篮板",
@@ -737,6 +761,14 @@
       "onboard_time": 1772861122,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135662,
+      "num": 162641,
+      "word": "霍启刚建议中小学开冰雪课",
+      "onboard_time": 1772866761,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133731,
@@ -867,6 +899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110185,
+      "num": 269569,
+      "word": "身份证上这些彩蛋你看到了吗",
+      "onboard_time": 1772867000,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109393,
       "num": 109393,
       "word": "在家吃饭vs在外吃饭",
@@ -907,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106244,
+      "num": 106244,
+      "word": "金饰克价涨到1607元",
+      "onboard_time": 1772868081,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104614,
       "num": 104614,
       "word": "居然在熊出没看到了真正的大女主",
@@ -931,6 +979,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103382,
+      "num": 109196,
+      "word": "老年人追星的痛",
+      "onboard_time": 1772864781,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 103014,
+      "num": 103014,
+      "word": "JackeyLove回应退役",
+      "onboard_time": 1772867601,
+      "rank": 31,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 102947,
       "num": 139146,
       "word": "字节腾讯同日抢人",
@@ -947,20 +1011,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 102554,
-      "num": 109196,
-      "word": "老年人追星的痛",
-      "onboard_time": 1772864781,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101812,
       "num": 101812,
       "word": "真凶只有一个但嫌犯有八十个",
       "onboard_time": 1772854760,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101607,
+      "num": 101607,
+      "word": "读提词器都翻车的艺人",
+      "onboard_time": 1772867601,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 101314,
@@ -1059,6 +1123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 95721,
+      "num": 95721,
+      "word": "伊朗霍尔木兹甘省发生4.3级地震",
+      "onboard_time": 1772868383,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95059,
       "num": 95059,
       "word": "男队依然需要樊振东这样的定海神针",
@@ -1081,6 +1153,14 @@
       "onboard_time": 1772852901,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93747,
+      "num": 93747,
+      "word": "杨幂杀青出发回国",
+      "onboard_time": 1772867661,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 93500,
@@ -1147,6 +1227,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87614,
+      "num": 87614,
+      "word": "男生腰椎间盘突出医生让他跳社会摇",
+      "onboard_time": 1772866522,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 87072,
+      "num": 292359,
+      "word": "委员称想你的风该换换文案了",
+      "onboard_time": 1772867421,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85596,
       "num": 85596,
       "word": "代表介绍20元人民币背面取景地的转变",
@@ -1184,6 +1280,14 @@
       "word": "谁给李昀锐开机现场放毒了",
       "onboard_time": 1772862983,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80144,
+      "num": 84145,
+      "word": "张凌赫给田曦薇把脉",
+      "onboard_time": 1772868022,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1491,6 +1595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 49328,
+      "num": 150943,
+      "word": "拉塞尔夺F1澳大利亚站杆位",
+      "onboard_time": 1772867961,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49070,
       "num": 49070,
       "word": "建议将天价彩礼治理纳入当地考核",
@@ -1513,6 +1625,14 @@
       "onboard_time": 1772857281,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48807,
+      "num": 86747,
+      "word": "秦岚事事有回应",
+      "onboard_time": 1772868983,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 48156,
@@ -1643,14 +1763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31400,
-      "num": 162641,
-      "word": "霍启刚建议中小学开冰雪课",
-      "onboard_time": 1772866761,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 30860,
       "num": 592913,
       "word": "十五五规划新指标新看点",
@@ -1660,7 +1772,7 @@
     },
     {
       "raw_hot": 29126,
-      "num": 418685,
+      "num": 619474,
       "word": "3月7日两会日程",
       "onboard_time": 1772838616,
       "rank": 9,
@@ -1707,14 +1819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19302,
-      "num": 108663,
-      "word": "身份证上这些彩蛋你看到了吗",
-      "onboard_time": 1772867000,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 14837,
       "num": 25339,
       "word": "2026PEL春季赛",
@@ -1731,6 +1835,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 9883,
+      "num": 84267,
+      "word": "霍启刚建议降低中等收入群体税率",
+      "onboard_time": 1772868983,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 9238,
+      "num": 159797,
+      "word": "建议增设班级行政助理岗位",
+      "onboard_time": 1772868741,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8806,
       "num": 192814,
       "word": "建议开展反家暴法全国执法检查",
@@ -1743,6 +1863,14 @@
       "num": 335917,
       "word": "预计今年GDP增量超6万亿元",
       "onboard_time": 1772781322,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 2565,
+      "num": 272990,
+      "word": "未来5年这些前沿科技创新值得期待",
+      "onboard_time": 1772807064,
       "rank": 8,
       "category": "国内时政"
     }

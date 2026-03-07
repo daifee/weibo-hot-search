@@ -1,0 +1,410 @@
+{
+  "runTime": 1772869004148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 516717,
+        "num": 1082674,
+        "word": "F1",
+        "onboard_time": 1772865141,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401556,
+        "num": 798595,
+        "word": "雷军说未来每周或仅需工作3天",
+        "onboard_time": 1772865921,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10974,
+        "num": 619474,
+        "word": "3月7日两会日程",
+        "onboard_time": 1772838616,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 316027,
+        "num": 316027,
+        "word": "教资科二",
+        "onboard_time": 1772867542,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 302586,
+        "num": 302586,
+        "word": "王传君恶剪了所有人",
+        "onboard_time": 1772862740,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497951,
+        "num": 302361,
+        "word": "伊朗7小时5轮导弹射向以色列",
+        "onboard_time": 1772862321,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295892,
+        "num": 295892,
+        "word": "40年前的丧假制度该更新了",
+        "onboard_time": 1772852002,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87072,
+        "num": 292359,
+        "word": "委员称想你的风该换换文案了",
+        "onboard_time": 1772867421,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2565,
+        "num": 272990,
+        "word": "未来5年这些前沿科技创新值得期待",
+        "onboard_time": 1772807064,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110185,
+        "num": 269569,
+        "word": "身份证上这些彩蛋你看到了吗",
+        "onboard_time": 1772867000,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 634395,
+        "num": 250029,
+        "word": "花少神一季鬼一季的定律",
+        "onboard_time": 1772865682,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358762,
+        "num": 240226,
+        "word": "逐玉",
+        "onboard_time": 1772860161,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355215,
+        "num": 233296,
+        "word": "伊朗不许美以相关船只通过霍尔木兹",
+        "onboard_time": 1772867661,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 336410,
+        "num": 219576,
+        "word": "建议像治理黄色网站治理网盘浏览器",
+        "onboard_time": 1772858903,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210687,
+        "num": 210687,
+        "word": "路虎揽胜回应魏建军道歉",
+        "onboard_time": 1772862682,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 194371,
+        "num": 194371,
+        "word": "90后单亲妈妈摆地摊起家年赚上千万",
+        "onboard_time": 1772857160,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185968,
+        "num": 185968,
+        "word": "麦当劳CEO再被网友扒出假吃",
+        "onboard_time": 1772852961,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160637,
+        "num": 160637,
+        "word": "不会化妆的女生建议反复观看",
+        "onboard_time": 1772852301,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 9238,
+        "num": 159797,
+        "word": "建议增设班级行政助理岗位",
+        "onboard_time": 1772868741,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49328,
+        "num": 150943,
+        "word": "拉塞尔夺F1澳大利亚站杆位",
+        "onboard_time": 1772867961,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279701,
+        "num": 146508,
+        "word": "刘亦菲8秒换胎",
+        "onboard_time": 1772861661,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39547,
+        "num": 142077,
+        "word": "爱慕店长竟然是柯爱林",
+        "onboard_time": 1772863521,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138960,
+        "num": 138960,
+        "word": "教资",
+        "onboard_time": 1772842340,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204930,
+        "num": 138915,
+        "word": "白鹿因为当模特患上风湿病",
+        "onboard_time": 1772859680,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162910,
+        "num": 138860,
+        "word": "宝格丽 刘亦菲在哪儿我在哪儿",
+        "onboard_time": 1772860461,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145473,
+        "num": 138823,
+        "word": "工作脑vs事业脑",
+        "onboard_time": 1772867542,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138683,
+        "num": 138683,
+        "word": "张凌赫感谢惠英红推荐逐玉",
+        "onboard_time": 1772853861,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135662,
+        "num": 135662,
+        "word": "霍启刚建议中小学开冰雪课",
+        "onboard_time": 1772866761,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122486,
+        "num": 122486,
+        "word": "两口子是在工地认识的吗",
+        "onboard_time": 1772859860,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106244,
+        "num": 106244,
+        "word": "金饰克价涨到1607元",
+        "onboard_time": 1772868081,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103382,
+        "num": 103382,
+        "word": "老年人追星的痛",
+        "onboard_time": 1772864781,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103014,
+        "num": 103014,
+        "word": "JackeyLove回应退役",
+        "onboard_time": 1772867601,
+        "rank": 31,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 101607,
+        "num": 101607,
+        "word": "读提词器都翻车的艺人",
+        "onboard_time": 1772867601,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97762,
+        "num": 97762,
+        "word": "美第三个航母打击群或将部署至中东",
+        "onboard_time": 1772858842,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95721,
+        "num": 95721,
+        "word": "伊朗霍尔木兹甘省发生4.3级地震",
+        "onboard_time": 1772868383,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93747,
+        "num": 93747,
+        "word": "杨幂杀青出发回国",
+        "onboard_time": 1772867661,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90213,
+        "num": 90213,
+        "word": "黄晓明 圈外交心的朋友比圈内的多",
+        "onboard_time": 1772866281,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87614,
+        "num": 87614,
+        "word": "男生腰椎间盘突出医生让他跳社会摇",
+        "onboard_time": 1772866522,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19844,
+        "num": 86845,
+        "word": "报告里这些民生举措触手可及",
+        "onboard_time": 1772854641,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48807,
+        "num": 86747,
+        "word": "秦岚事事有回应",
+        "onboard_time": 1772868983,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86675,
+        "num": 86675,
+        "word": "逐玉有条通天路你走不走",
+        "onboard_time": 1772865141,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84671,
+        "num": 84671,
+        "word": "惠英红也在看逐玉",
+        "onboard_time": 1772853560,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9883,
+        "num": 84267,
+        "word": "霍启刚建议降低中等收入群体税率",
+        "onboard_time": 1772868983,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237635,
+        "num": 84243,
+        "word": "下面用的已经是苹果二十几了",
+        "onboard_time": 1772861302,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84173,
+        "num": 84173,
+        "word": "白鹿回应和跑男团关系",
+        "onboard_time": 1772861902,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83354,
+        "num": 84164,
+        "word": "张凯丽谈20天婚假公司只批3天",
+        "onboard_time": 1772852480,
+        "rank": 45,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 79515,
+        "num": 84159,
+        "word": "4岁女儿被诊断为男孩需选性别做手术",
+        "onboard_time": 1772849241,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80144,
+        "num": 84145,
+        "word": "张凌赫给田曦薇把脉",
+        "onboard_time": 1772868022,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75696,
+        "num": 84143,
+        "word": "王一博周围全是LV集团高层",
+        "onboard_time": 1772853861,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74122,
+        "num": 84128,
+        "word": "Faker直播犯困",
+        "onboard_time": 1772866641,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记两会下团组#"
+    }
+  }
+}
