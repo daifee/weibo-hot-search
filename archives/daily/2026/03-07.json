@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772872878158,
+  "endTime": 1772873728375,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -35,6 +35,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 739244,
+      "num": 148739,
+      "word": "伊朗总统称不再首先攻击邻国",
+      "onboard_time": 1772871921,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 721882,
       "num": 337937,
       "word": "伊朗7小时5轮导弹射向以色列",
@@ -49,6 +57,14 @@
       "onboard_time": 1772803703,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 664295,
+      "num": 1106287,
+      "word": "孩子一出生就自带口粮自带工资",
+      "onboard_time": 1772869102,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 655773,
@@ -97,14 +113,6 @@
       "onboard_time": 1772865141,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 553357,
-      "num": 1088537,
-      "word": "孩子一出生就自带口粮自带工资",
-      "onboard_time": 1772869102,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 535289,
@@ -299,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 355466,
+      "num": 132074,
+      "word": "中国的身份证果然高级",
+      "onboard_time": 1772869343,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 353891,
       "num": 247173,
       "word": "俄方警告芬兰",
@@ -321,14 +337,6 @@
       "onboard_time": 1772849241,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 336415,
-      "num": 132074,
-      "word": "中国的身份证果然高级",
-      "onboard_time": 1772869343,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 334704,
@@ -491,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224424,
+      "num": 224424,
+      "word": "逐玉首日云合",
+      "onboard_time": 1772871800,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219033,
       "num": 174725,
       "word": "逐玉腾讯爱奇艺热度差距",
@@ -521,6 +537,14 @@
       "onboard_time": 1772840358,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216353,
+      "num": 131431,
+      "word": "迪拜国际机场紧急疏散旅客",
+      "onboard_time": 1772871921,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 215370,
@@ -569,14 +593,6 @@
       "onboard_time": 1772805384,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 203464,
-      "num": 131431,
-      "word": "迪拜国际机场紧急疏散旅客",
-      "onboard_time": 1772871921,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 201104,
@@ -633,14 +649,6 @@
       "onboard_time": 1772808684,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 181734,
-      "num": 130141,
-      "word": "伊朗总统称不再首先攻击邻国",
-      "onboard_time": 1772871921,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 178953,
@@ -737,14 +745,6 @@
       "onboard_time": 1772794223,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155524,
-      "num": 155524,
-      "word": "逐玉首日云合",
-      "onboard_time": 1772871800,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 155254,
@@ -907,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121689,
+      "num": 235940,
+      "word": "霍启刚建议降低中等收入群体税率",
+      "onboard_time": 1772868983,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120921,
       "num": 269569,
       "word": "身份证上这些彩蛋你看到了吗",
@@ -928,14 +936,6 @@
       "word": "教育部部长现场感谢1800多万教师",
       "onboard_time": 1772857401,
       "rank": 21,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 115361,
-      "num": 235940,
-      "word": "霍启刚建议降低中等收入群体税率",
-      "onboard_time": 1772868983,
-      "rank": 42,
       "category": "国内时政"
     },
     {
@@ -1011,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108982,
+      "num": 108982,
+      "word": "何广智 名侦探学院是什么单位",
+      "onboard_time": 1772872521,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108631,
       "num": 267204,
       "word": "千问女孩吃上刘文祥了",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1772859742,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107130,
+      "num": 107130,
+      "word": "伊朗称尚未大规模使用新型武器",
+      "onboard_time": 1772870782,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104614,
@@ -1084,7 +1100,7 @@
     },
     {
       "raw_hot": 101607,
-      "num": 101607,
+      "num": 121527,
       "word": "读提词器都翻车的艺人",
       "onboard_time": 1772867601,
       "rank": 32,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1772851220,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 100848,
-      "num": 100848,
-      "word": "伊朗称尚未大规模使用新型武器",
-      "onboard_time": 1772870782,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 100141,
@@ -1267,6 +1275,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 91584,
+      "num": 91584,
+      "word": "秦岚事事有回应",
+      "onboard_time": 1772868983,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91043,
       "num": 91043,
       "word": "毕业后特别羡慕视力好的人",
@@ -1307,12 +1323,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86448,
-      "num": 86747,
-      "word": "秦岚事事有回应",
-      "onboard_time": 1772868983,
-      "rank": 39,
+      "raw_hot": 86826,
+      "num": 84319,
+      "word": "秦岚在花少头发都没油成这样",
+      "onboard_time": 1772873542,
+      "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86543,
+      "num": 86543,
+      "word": "迪拜国际机场暂停运营",
+      "onboard_time": 1772873121,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85596,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1772839879,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85309,
+      "num": 84319,
+      "word": "伊朗总统称绝不可能无条件投降",
+      "onboard_time": 1772872342,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84866,
@@ -1363,12 +1395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80874,
-      "num": 80874,
-      "word": "伊朗总统称绝不可能无条件投降",
-      "onboard_time": 1772872342,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 80271,
+      "num": 78845,
+      "word": "镖人大沙暴是实拍八级大风",
+      "onboard_time": 1772870782,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 79562,
@@ -1385,6 +1417,14 @@
       "onboard_time": 1772846901,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79064,
+      "num": 79064,
+      "word": "拿得出手却带不出门的徒弟",
+      "onboard_time": 1772873001,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 78793,
@@ -1451,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75896,
+      "num": 75896,
+      "word": "省长说抢不到苏超的票找副省长",
+      "onboard_time": 1772872642,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75730,
       "num": 75730,
       "word": "刘萧旭这次真嫩成小孩哥了",
@@ -1465,14 +1513,6 @@
       "onboard_time": 1772824875,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 74415,
-      "num": 74415,
-      "word": "何广智 名侦探学院是什么单位",
-      "onboard_time": 1772872521,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 73418,
@@ -1523,14 +1563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 66315,
-      "num": 66315,
-      "word": "省长说抢不到苏超的票找副省长",
-      "onboard_time": 1772872642,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 65645,
       "num": 138000,
       "word": "金智秀新剧开播",
@@ -1555,14 +1587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63707,
-      "num": 66314,
-      "word": "镖人大沙暴是实拍八级大风",
-      "onboard_time": 1772870782,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 63457,
       "num": 63457,
       "word": "李雪琴给杨紫大冒险突袭",
@@ -1572,7 +1596,7 @@
     },
     {
       "raw_hot": 63449,
-      "num": 66314,
+      "num": 68511,
       "word": "吃自助烤肉时的几类人",
       "onboard_time": 1772869881,
       "rank": 48,
@@ -1649,6 +1673,14 @@
       "onboard_time": 1772811204,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 59488,
+      "num": 155739,
+      "word": "让学生身上有汗眼里有光",
+      "onboard_time": 1772871502,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58786,
@@ -1811,14 +1843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42125,
-      "num": 155739,
-      "word": "让学生身上有汗眼里有光",
-      "onboard_time": 1772871502,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41328,
       "num": 44324,
       "word": "未来人均预期寿命有可能达到120岁",
@@ -1876,7 +1900,7 @@
     },
     {
       "raw_hot": 32680,
-      "num": 628321,
+      "num": 643750,
       "word": "我国义务教育达高收入国家平均水平",
       "onboard_time": 1772849841,
       "rank": 7,
@@ -1971,20 +1995,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17835,
+      "num": 140160,
+      "word": "建议平台推行算法选择权",
+      "onboard_time": 1772872821,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14837,
       "num": 25339,
       "word": "2026PEL春季赛",
       "onboard_time": 1772821155,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 13567,
-      "num": 93096,
-      "word": "建议平台推行算法选择权",
-      "onboard_time": 1772872821,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10993,
@@ -2031,6 +2055,9 @@
     },
     {
       "word": "#习近平的两会时间#"
+    },
+    {
+      "word": "#总书记同代表们亲切交流#"
     }
   ]
 }
