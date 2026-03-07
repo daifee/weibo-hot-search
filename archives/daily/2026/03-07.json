@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772852636179,
+  "endTime": 1772857678434,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -27,6 +27,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 834631,
+      "num": 250522,
+      "word": "麦当劳CEO再被网友扒出假吃",
+      "onboard_time": 1772852961,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 706120,
       "num": 181910,
       "word": "伊朗大使说250年怎能挑衅3000年历史",
@@ -43,12 +51,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 610410,
+      "num": 715284,
+      "word": "教资",
+      "onboard_time": 1772842340,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 602445,
       "num": 258582,
       "word": "霍尔木兹海峡船只遭袭致4死3重伤",
       "onboard_time": 1772843781,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 497654,
+      "num": 405308,
+      "word": "不会化妆的女生建议反复观看",
+      "onboard_time": 1772852301,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 467215,
@@ -75,6 +99,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 432617,
+      "num": 432617,
+      "word": "40年前的丧假制度该更新了",
+      "onboard_time": 1772852002,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 418469,
+      "num": 418469,
+      "word": "刘敏涛倒第二遍水这段真绷不住了",
+      "onboard_time": 1772854342,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416585,
       "num": 156874,
       "word": "张凌赫 配音",
@@ -91,8 +131,24 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 392728,
+      "num": 250125,
+      "word": "花儿与少年8",
+      "onboard_time": 1772852661,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 390936,
+      "num": 390936,
+      "word": "张凌赫感谢惠英红推荐逐玉",
+      "onboard_time": 1772853861,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382886,
-      "num": 182751,
+      "num": 244440,
       "word": "岳雨婷G社出图",
       "onboard_time": 1772851041,
       "rank": 20,
@@ -115,6 +171,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 357291,
+      "num": 247816,
+      "word": "张凯丽谈20天婚假公司只批3天",
+      "onboard_time": 1772852480,
+      "rank": 39,
+      "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 353891,
+      "num": 247173,
+      "word": "俄方警告芬兰",
+      "onboard_time": 1772851941,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 344036,
       "num": 764625,
       "word": "花呗等网络消费信贷可享受贴息",
@@ -131,12 +203,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334704,
+      "num": 245022,
+      "word": "内娱吻戏关系网",
+      "onboard_time": 1772853081,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317100,
       "num": 172759,
       "word": "白鹿进组要下半年往后了",
       "onboard_time": 1772849660,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308883,
+      "num": 308883,
+      "word": "教资作文",
+      "onboard_time": 1772852961,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 307794,
@@ -203,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 251022,
+      "num": 251022,
+      "word": "所有省份已推行课间15分钟",
+      "onboard_time": 1772853501,
+      "rank": 9,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 250526,
       "num": 91903,
       "word": "多国明确表态不会参与对伊朗打击",
@@ -211,12 +307,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 246044,
+      "num": 246044,
+      "word": "惠英红也在看逐玉",
+      "onboard_time": 1772853560,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244355,
       "num": 180905,
       "word": "逐玉开播",
       "onboard_time": 1772791282,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244337,
+      "num": 244337,
+      "word": "王一博周围全是LV集团高层",
+      "onboard_time": 1772853861,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 241063,
@@ -244,7 +356,7 @@
     },
     {
       "raw_hot": 216564,
-      "num": 171699,
+      "num": 245578,
       "word": "女子热水泡脚3个月皮肤变色洗不掉",
       "onboard_time": 1772840358,
       "rank": 21,
@@ -371,20 +483,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162827,
-      "num": 162827,
-      "word": "俄方警告芬兰",
-      "onboard_time": 1772851941,
-      "rank": 27,
-      "category": "国际时政"
+      "raw_hot": 165651,
+      "num": 165651,
+      "word": "好好吃饭的重要性太大了",
+      "onboard_time": 1772854880,
+      "rank": 26,
+      "category": "情感"
     },
     {
-      "raw_hot": 159540,
-      "num": 455200,
-      "word": "教资",
-      "onboard_time": 1772842340,
-      "rank": 3,
-      "category": "教育"
+      "raw_hot": 157778,
+      "num": 157778,
+      "word": "成年男性腰围控制90cm以内女性85以内",
+      "onboard_time": 1772856080,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155799,
@@ -395,12 +507,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154042,
-      "num": 143264,
-      "word": "40年前的丧假制度该更新了",
-      "onboard_time": 1772852002,
+      "raw_hot": 155254,
+      "num": 166408,
+      "word": "教资答案",
+      "onboard_time": 1772853861,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 154327,
+      "num": 154327,
+      "word": "90后单亲妈妈摆地摊起家年赚上千万",
+      "onboard_time": 1772857160,
       "rank": 30,
-      "category": "国内时政"
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143896,
+      "num": 143896,
+      "word": "恋与深空",
+      "onboard_time": 1772853262,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 140801,
@@ -417,14 +545,6 @@
       "onboard_time": 1772794761,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 133443,
-      "num": 359245,
-      "word": "不会化妆的女生建议反复观看",
-      "onboard_time": 1772852301,
-      "rank": 7,
-      "category": "美妆"
     },
     {
       "raw_hot": 130876,
@@ -459,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126165,
+      "num": 126165,
+      "word": "张凌赫不想在林俊杰面前丢脸",
+      "onboard_time": 1772852421,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125918,
       "num": 125918,
       "word": "章若楠黄色蝴蝶结吊带裙",
@@ -475,12 +603,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115121,
+      "num": 115121,
+      "word": "水哥一分钟猜出三个人的职业",
+      "onboard_time": 1772857101,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114396,
       "num": 139275,
       "word": "最强大脑主理人谈判掀桌",
       "onboard_time": 1772810123,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111979,
+      "num": 107151,
+      "word": "王劲松刘威演谭松韵的两个爸",
+      "onboard_time": 1772855660,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 111907,
@@ -491,20 +635,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 111118,
-      "num": 111118,
-      "word": "张凯丽谈20天婚假公司只批3天",
-      "onboard_time": 1772852480,
-      "rank": 39,
-      "category": "艺人,国内时政"
-    },
-    {
       "raw_hot": 110942,
       "num": 110942,
       "word": "财政部部长称一分钱掰成两半花",
       "onboard_time": 1772847742,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 109393,
+      "num": 109393,
+      "word": "在家吃饭vs在外吃饭",
+      "onboard_time": 1772857461,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 109240,
@@ -531,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103933,
+      "num": 103933,
+      "word": "高卿尘逐玉出场三集被打6次",
+      "onboard_time": 1772857041,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103795,
       "num": 139432,
       "word": "TES上报Naiyou不正当行为",
@@ -547,12 +699,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 102912,
+      "num": 102912,
+      "word": "你弟什么身份居然还有门卫",
+      "onboard_time": 1772857221,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102838,
       "num": 139005,
       "word": "伊朗打击伊拉克库尔德地区",
       "onboard_time": 1772799262,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101812,
+      "num": 101812,
+      "word": "真凶只有一个但嫌犯有八十个",
+      "onboard_time": 1772854760,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 101314,
@@ -595,12 +763,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98644,
+      "num": 98644,
+      "word": "以军被指击中伊朗直升机涂鸦",
+      "onboard_time": 1772856742,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97915,
       "num": 97915,
       "word": "此人是蟑螂的最大粉头",
       "onboard_time": 1772852601,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97808,
+      "num": 97808,
+      "word": "建议对电影不满意可退票",
+      "onboard_time": 1772854101,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97158,
@@ -619,20 +803,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 94854,
+      "num": 94854,
+      "word": "文旅部部长谈成为中国人火了",
+      "onboard_time": 1772857101,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 93772,
+      "num": 93772,
+      "word": "医生回应女子泡脚3个月皮肤变色",
+      "onboard_time": 1772852901,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93462,
       "num": 93462,
       "word": "沧元图",
       "onboard_time": 1772849961,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 91800,
-      "num": 91800,
-      "word": "张凌赫不想在林俊杰面前丢脸",
-      "onboard_time": 1772852421,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 90331,
@@ -787,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65464,
+      "num": 244852,
+      "word": "教育部部长现场感谢1800多万教师",
+      "onboard_time": 1772857401,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64923,
       "num": 137853,
       "word": "妇女节 放假",
@@ -827,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62566,
+      "num": 597630,
+      "word": "十五五109项重大工程项目思维导图",
+      "onboard_time": 1772854641,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62368,
       "num": 44275,
       "word": "美国土安全部长诺姆被解职",
@@ -849,6 +1057,14 @@
       "onboard_time": 1772802382,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 61498,
+      "num": 1009839,
+      "word": "民生主题记者会",
+      "onboard_time": 1772848882,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60807,
@@ -891,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53489,
+      "num": 103986,
+      "word": "这才是送花界的天花板吧",
+      "onboard_time": 1772855181,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 53464,
       "num": 137027,
       "word": "巴黎时装周",
@@ -915,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50967,
+      "num": 154538,
+      "word": "今年38节流行即时送礼",
+      "onboard_time": 1772856261,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49070,
       "num": 49070,
       "word": "建议将天价彩礼治理纳入当地考核",
@@ -936,14 +1168,6 @@
       "word": "去年高中毛入学率92%",
       "onboard_time": 1772850022,
       "rank": 19,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 45141,
-      "num": 1007222,
-      "word": "民生主题记者会",
-      "onboard_time": 1772848882,
-      "rank": 0,
       "category": "国内时政"
     },
     {
@@ -1000,6 +1224,14 @@
       "word": "已有3300万家庭领到育儿补贴",
       "onboard_time": 1772852301,
       "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 32823,
+      "num": 261664,
+      "word": "报告里这些民生举措触手可及",
+      "onboard_time": 1772854641,
+      "rank": 8,
       "category": "国内时政"
     },
     {
@@ -1083,6 +1315,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 13316,
+      "num": 249305,
+      "word": "建议严禁AI随意替换他人面孔",
+      "onboard_time": 1772857281,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 9526,
+      "num": 245470,
+      "word": "台湾省全国人大代表畅想祖国统一",
+      "onboard_time": 1772857281,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 6326,
       "num": 335917,
       "word": "预计今年GDP增量超6万亿元",
@@ -1097,6 +1345,9 @@
     },
     {
       "word": "#习近平总书记向女同胞致以节日祝福#"
+    },
+    {
+      "word": "#习近平总书记两会下团组#"
     }
   ]
 }
