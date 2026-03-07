@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772879585607,
+  "endTime": 1772880556415,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -3419,6 +3419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 378143,
+      "num": 1060503,
+      "word": "医生建议女性量力而行",
+      "onboard_time": 1772874142,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377422,
       "num": 206503,
       "word": "霍尔木兹海峡封锁将致命打击日本经济",
@@ -3553,14 +3561,6 @@
       "onboard_time": 1772619503,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 369199,
-      "num": 784912,
-      "word": "医生建议女性量力而行",
-      "onboard_time": 1772874142,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 365681,
@@ -3881,6 +3881,14 @@
       "onboard_time": 1772849241,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342333,
+      "num": 655365,
+      "word": "孔雪儿将门独后首套造型",
+      "onboard_time": 1772876362,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 341618,
@@ -4833,6 +4841,14 @@
       "onboard_time": 1772753300,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273406,
+      "num": 647250,
+      "word": "陈小春再也没让应采儿上这种节目",
+      "onboard_time": 1772879241,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 273222,
@@ -7025,6 +7041,14 @@
       "onboard_time": 1772761700,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170661,
+      "num": 649201,
+      "word": "王一博拒绝不了攀岩绳",
+      "onboard_time": 1772877622,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 170383,
@@ -9259,14 +9283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125737,
-      "num": 655365,
-      "word": "孔雪儿将门独后首套造型",
-      "onboard_time": 1772876362,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125657,
       "num": 415892,
       "word": "以军称打击伊朗总统府",
@@ -9387,14 +9403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123590,
-      "num": 649201,
-      "word": "王一博拒绝不了攀岩绳",
-      "onboard_time": 1772877622,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123460,
       "num": 371735,
       "word": "iPhone17e首发国补即破价",
@@ -9497,6 +9505,14 @@
       "onboard_time": 1772855660,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122213,
+      "num": 646731,
+      "word": "短剧霸总一件衣服12人穿",
+      "onboard_time": 1772879001,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121887,
@@ -9984,6 +10000,14 @@
       "word": "阿里Qwen负责人宣布离开",
       "onboard_time": 1772591784,
       "rank": 24,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 115280,
+      "num": 197223,
+      "word": "在QQ也可以用OpenClaw了",
+      "onboard_time": 1772879662,
+      "rank": 14,
       "category": "互联网"
     },
     {
@@ -11739,6 +11763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96329,
+      "num": 203907,
+      "word": "教资科三",
+      "onboard_time": 1772879842,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 96235,
       "num": 96235,
       "word": "猫生第一次洗澡",
@@ -11761,14 +11793,6 @@
       "onboard_time": 1772834535,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 95872,
-      "num": 647250,
-      "word": "陈小春再也没让应采儿上这种节目",
-      "onboard_time": 1772879241,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 95740,
@@ -11953,6 +11977,22 @@
       "onboard_time": 1772852901,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93710,
+      "num": 647641,
+      "word": "JackeyLove的号是买的",
+      "onboard_time": 1772877020,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 93595,
+      "num": 650849,
+      "word": "浙产减重药一个疗程平均能瘦15%",
+      "onboard_time": 1772878161,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93572,
@@ -12193,6 +12233,14 @@
       "onboard_time": 1772613444,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91951,
+      "num": 641052,
+      "word": "没有女生能拒绝这么暖心的地铁标语",
+      "onboard_time": 1772877442,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 91909,
@@ -12787,14 +12835,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 85797,
-      "num": 646731,
-      "word": "短剧霸总一件衣服12人穿",
-      "onboard_time": 1772879001,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 85596,
       "num": 201672,
       "word": "王楚钦更新训练vlog",
@@ -12947,28 +12987,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 83818,
-      "num": 647641,
-      "word": "JackeyLove的号是买的",
-      "onboard_time": 1772877020,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 83817,
       "num": 83817,
       "word": "开学第一周我的胃belike",
       "onboard_time": 1772710403,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 83791,
-      "num": 650849,
-      "word": "浙产减重药一个疗程平均能瘦15%",
-      "onboard_time": 1772878161,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 83758,
@@ -13083,6 +13107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82440,
+      "num": 103249,
+      "word": "揽胜回应魏建军道歉",
+      "onboard_time": 1772862682,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 82337,
       "num": 344760,
       "word": "Viper我们继续加油",
@@ -13161,6 +13193,14 @@
       "onboard_time": 1772862983,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81693,
+      "num": 644837,
+      "word": "WBG对战JDG",
+      "onboard_time": 1772874742,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 81672,
@@ -14019,14 +14059,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 73507,
-      "num": 644837,
-      "word": "WBG对战JDG",
-      "onboard_time": 1772874742,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 73360,
       "num": 134009,
       "word": "TOP专辑秒切",
@@ -14627,6 +14659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66196,
+      "num": 644208,
+      "word": "猫像喝醉了被鸭子带回家",
+      "onboard_time": 1772879302,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66171,
       "num": 66171,
       "word": "情绪反扑真的不是爱",
@@ -14752,6 +14792,14 @@
       "word": "陆虎家的小朋友毕业了",
       "onboard_time": 1772838917,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 64503,
+      "num": 101751,
+      "word": "王鹤棣牵白鹿手",
+      "onboard_time": 1772880023,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -14985,14 +15033,6 @@
       "onboard_time": 1772424143,
       "rank": 49,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 61775,
-      "num": 644208,
-      "word": "猫像喝醉了被鸭子带回家",
-      "onboard_time": 1772879302,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 61658,
@@ -15243,14 +15283,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 56882,
-      "num": 641052,
-      "word": "没有女生能拒绝这么暖心的地铁标语",
-      "onboard_time": 1772877442,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 56874,
       "num": 640632,
       "word": "何炅把张远远行看成张远远",
@@ -15369,6 +15401,14 @@
       "onboard_time": 1772640023,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53943,
+      "num": 101074,
+      "word": "李亮辟谣红果缩减真人短剧投入",
+      "onboard_time": 1772880322,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 53575,
@@ -15545,6 +15585,14 @@
       "onboard_time": 1772763082,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50198,
+      "num": 100842,
+      "word": "路人把中国boy认成杨迪",
+      "onboard_time": 1772880202,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 50048,
