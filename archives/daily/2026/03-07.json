@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772857678434,
+  "endTime": 1772858851010,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 610410,
-      "num": 715284,
+      "num": 1083536,
       "word": "教资",
       "onboard_time": 1772842340,
       "rank": 3,
@@ -100,11 +100,19 @@
     },
     {
       "raw_hot": 432617,
-      "num": 432617,
+      "num": 764543,
       "word": "40年前的丧假制度该更新了",
       "onboard_time": 1772852002,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 426909,
+      "num": 426909,
+      "word": "张凌赫感谢惠英红推荐逐玉",
+      "onboard_time": 1772853861,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 418469,
@@ -137,14 +145,6 @@
       "onboard_time": 1772852661,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 390936,
-      "num": 390936,
-      "word": "张凌赫感谢惠英红推荐逐玉",
-      "onboard_time": 1772853861,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 382886,
@@ -209,6 +209,14 @@
       "onboard_time": 1772853081,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324873,
+      "num": 324873,
+      "word": "90后单亲妈妈摆地摊起家年赚上千万",
+      "onboard_time": 1772857160,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317100,
@@ -283,6 +291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 254073,
+      "num": 246044,
+      "word": "惠英红也在看逐玉",
+      "onboard_time": 1772853560,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253926,
       "num": 209947,
       "word": "成年人最大的魅力就是解决问题的能力",
@@ -305,14 +321,6 @@
       "onboard_time": 1772839578,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 246044,
-      "num": 246044,
-      "word": "惠英红也在看逐玉",
-      "onboard_time": 1772853560,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 244355,
@@ -403,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202688,
+      "num": 202688,
+      "word": "成年男性腰围控制90cm以内女性85以内",
+      "onboard_time": 1772856080,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 200591,
       "num": 169546,
       "word": "普京与伊朗总统通电话",
@@ -491,12 +507,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157778,
-      "num": 157778,
-      "word": "成年男性腰围控制90cm以内女性85以内",
-      "onboard_time": 1772856080,
-      "rank": 27,
-      "category": "国内时政"
+      "raw_hot": 156029,
+      "num": 156029,
+      "word": "水哥一分钟猜出三个人的职业",
+      "onboard_time": 1772857101,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 155799,
@@ -515,20 +531,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 154327,
-      "num": 154327,
-      "word": "90后单亲妈妈摆地摊起家年赚上千万",
-      "onboard_time": 1772857160,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143896,
       "num": 143896,
       "word": "恋与深空",
       "onboard_time": 1772853262,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142379,
+      "num": 142379,
+      "word": "以军被指击中伊朗直升机涂鸦",
+      "onboard_time": 1772856742,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140801,
@@ -563,6 +579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129735,
+      "num": 129735,
+      "word": "高卿尘逐玉出场三集被打6次",
+      "onboard_time": 1772857041,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129021,
       "num": 213632,
       "word": "我国在校生2.8亿",
@@ -595,6 +619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123636,
+      "num": 115288,
+      "word": "你弟什么身份居然还有门卫",
+      "onboard_time": 1772857221,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 122353,
+      "num": 122353,
+      "word": "王劲松刘威演谭松韵的两个爸",
+      "onboard_time": 1772855660,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119395,
       "num": 222317,
       "word": "六大未来产业有哪些",
@@ -603,12 +643,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115121,
-      "num": 115121,
-      "word": "水哥一分钟猜出三个人的职业",
-      "onboard_time": 1772857101,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 115625,
+      "num": 244852,
+      "word": "教育部部长现场感谢1800多万教师",
+      "onboard_time": 1772857401,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114396,
@@ -619,12 +659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111979,
-      "num": 107151,
-      "word": "王劲松刘威演谭松韵的两个爸",
-      "onboard_time": 1772855660,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 113783,
+      "num": 113783,
+      "word": "王小亿你演短剧的时候不是这样的",
+      "onboard_time": 1772858420,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 111907,
@@ -667,20 +707,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104614,
+      "num": 104614,
+      "word": "居然在熊出没看到了真正的大女主",
+      "onboard_time": 1772858241,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104328,
       "num": 104328,
       "word": "山东一幼儿园硬核体能课走红",
       "onboard_time": 1772847502,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103933,
-      "num": 103933,
-      "word": "高卿尘逐玉出场三集被打6次",
-      "onboard_time": 1772857041,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 103795,
@@ -697,14 +737,6 @@
       "onboard_time": 1772806463,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 102912,
-      "num": 102912,
-      "word": "你弟什么身份居然还有门卫",
-      "onboard_time": 1772857221,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 102838,
@@ -747,6 +779,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99420,
+      "num": 99420,
+      "word": "斗罗2霍雨浩唐舞桐宿命重逢",
+      "onboard_time": 1772858481,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 99365,
+      "num": 99365,
+      "word": "因为9岁侄子的一句话哭了40分钟",
+      "onboard_time": 1772857702,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 99329,
+      "num": 99329,
+      "word": "林书豪张嘴闭嘴都是钱",
+      "onboard_time": 1772858241,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99320,
       "num": 99320,
       "word": "孤独症男孩被同学围着不给独处机会",
@@ -761,14 +817,6 @@
       "onboard_time": 1772850022,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 98644,
-      "num": 98644,
-      "word": "以军被指击中伊朗直升机涂鸦",
-      "onboard_time": 1772856742,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97915,
@@ -825,6 +873,14 @@
       "onboard_time": 1772849961,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 91854,
+      "num": 91854,
+      "word": "Prada2026米兰女装时装秀",
+      "onboard_time": 1772858241,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 90331,
@@ -979,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65464,
-      "num": 244852,
-      "word": "教育部部长现场感谢1800多万教师",
-      "onboard_time": 1772857401,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 64923,
       "num": 137853,
       "word": "妇女节 放假",
@@ -1028,7 +1076,7 @@
     },
     {
       "raw_hot": 62566,
-      "num": 597630,
+      "num": 649085,
       "word": "十五五109项重大工程项目思维导图",
       "onboard_time": 1772854641,
       "rank": 2,
@@ -1081,6 +1129,14 @@
       "onboard_time": 1772811204,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 58786,
+      "num": 154538,
+      "word": "今年38节流行即时送礼",
+      "onboard_time": 1772856261,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58575,
@@ -1139,14 +1195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50967,
-      "num": 154538,
-      "word": "今年38节流行即时送礼",
-      "onboard_time": 1772856261,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49070,
       "num": 49070,
       "word": "建议将天价彩礼治理纳入当地考核",
@@ -1161,6 +1209,22 @@
       "onboard_time": 1772817797,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48896,
+      "num": 249305,
+      "word": "建议严禁AI随意替换他人面孔",
+      "onboard_time": 1772857281,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 48156,
+      "num": 245470,
+      "word": "台湾省全国人大代表畅想祖国统一",
+      "onboard_time": 1772857281,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46251,
@@ -1313,22 +1377,6 @@
       "onboard_time": 1772821155,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 13316,
-      "num": 249305,
-      "word": "建议严禁AI随意替换他人面孔",
-      "onboard_time": 1772857281,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 9526,
-      "num": 245470,
-      "word": "台湾省全国人大代表畅想祖国统一",
-      "onboard_time": 1772857281,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 6326,

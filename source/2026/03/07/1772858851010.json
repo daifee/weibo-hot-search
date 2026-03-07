@@ -1,0 +1,410 @@
+{
+  "runTime": 1772858851010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 522105,
+        "num": 1083536,
+        "word": "教资",
+        "onboard_time": 1772842340,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 352644,
+        "num": 764543,
+        "word": "40年前的丧假制度该更新了",
+        "onboard_time": 1772852002,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60832,
+        "num": 649085,
+        "word": "十五五109项重大工程项目思维导图",
+        "onboard_time": 1772854641,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 426909,
+        "num": 426909,
+        "word": "张凌赫感谢惠英红推荐逐玉",
+        "onboard_time": 1772853861,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56245,
+        "num": 403522,
+        "word": "民生主题记者会",
+        "onboard_time": 1772848882,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 397606,
+        "num": 397606,
+        "word": "不会化妆的女生建议反复观看",
+        "onboard_time": 1772852301,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 358304,
+        "num": 358304,
+        "word": "刘敏涛倒第二遍水这段真绷不住了",
+        "onboard_time": 1772854342,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324873,
+        "num": 324873,
+        "word": "90后单亲妈妈摆地摊起家年赚上千万",
+        "onboard_time": 1772857160,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28781,
+        "num": 249241,
+        "word": "报告里这些民生举措触手可及",
+        "onboard_time": 1772854641,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224379,
+        "num": 224379,
+        "word": "所有省份已推行课间15分钟",
+        "onboard_time": 1772853501,
+        "rank": 9,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 711142,
+        "num": 221266,
+        "word": "麦当劳CEO再被网友扒出假吃",
+        "onboard_time": 1772852961,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 337282,
+        "num": 218019,
+        "word": "花儿与少年8",
+        "onboard_time": 1772852661,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276162,
+        "num": 216618,
+        "word": "张凯丽谈20天婚假公司只批3天",
+        "onboard_time": 1772852480,
+        "rank": 12,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 248477,
+        "num": 212947,
+        "word": "霍尔木兹海峡船只遭袭致4死3重伤",
+        "onboard_time": 1772843781,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254073,
+        "num": 206472,
+        "word": "惠英红也在看逐玉",
+        "onboard_time": 1772853560,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248448,
+        "num": 204069,
+        "word": "俄方警告芬兰",
+        "onboard_time": 1772851941,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202688,
+        "num": 202688,
+        "word": "成年男性腰围控制90cm以内女性85以内",
+        "onboard_time": 1772856080,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191166,
+        "num": 191166,
+        "word": "教资作文",
+        "onboard_time": 1772852961,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182224,
+        "num": 182224,
+        "word": "德黑兰发生巨大爆炸",
+        "onboard_time": 1772841080,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181066,
+        "num": 181066,
+        "word": "女子热水泡脚3个月皮肤变色洗不掉",
+        "onboard_time": 1772840358,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221614,
+        "num": 172696,
+        "word": "王一博周围全是LV集团高层",
+        "onboard_time": 1772853861,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219955,
+        "num": 168636,
+        "word": "岳雨婷G社出图",
+        "onboard_time": 1772851041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163276,
+        "num": 163276,
+        "word": "4岁女儿被诊断为男孩需选性别做手术",
+        "onboard_time": 1772849241,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156029,
+        "num": 156029,
+        "word": "水哥一分钟猜出三个人的职业",
+        "onboard_time": 1772857101,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142379,
+        "num": 142379,
+        "word": "以军被指击中伊朗直升机涂鸦",
+        "onboard_time": 1772856742,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137047,
+        "num": 137047,
+        "word": "未来五年哪些工作更吃香",
+        "onboard_time": 1772847142,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129735,
+        "num": 129735,
+        "word": "高卿尘逐玉出场三集被打6次",
+        "onboard_time": 1772857041,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122353,
+        "num": 122353,
+        "word": "王劲松刘威演谭松韵的两个爸",
+        "onboard_time": 1772855660,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115625,
+        "num": 115625,
+        "word": "教育部部长现场感谢1800多万教师",
+        "onboard_time": 1772857401,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58786,
+        "num": 115350,
+        "word": "今年38节流行即时送礼",
+        "onboard_time": 1772856261,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123636,
+        "num": 115288,
+        "word": "你弟什么身份居然还有门卫",
+        "onboard_time": 1772857221,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116009,
+        "num": 115271,
+        "word": "易烊千玺网站续费到2035年",
+        "onboard_time": 1772841260,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115220,
+        "num": 115220,
+        "word": "好好吃饭的重要性太大了",
+        "onboard_time": 1772854880,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113783,
+        "num": 113783,
+        "word": "王小亿你演短剧的时候不是这样的",
+        "onboard_time": 1772858420,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110161,
+        "num": 110161,
+        "word": "TESnaiyou 假赛",
+        "onboard_time": 1772842462,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104614,
+        "num": 104614,
+        "word": "居然在熊出没看到了真正的大女主",
+        "onboard_time": 1772858241,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102897,
+        "num": 102897,
+        "word": "恋与深空",
+        "onboard_time": 1772853262,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102284,
+        "num": 102284,
+        "word": "白鹿进组要下半年往后了",
+        "onboard_time": 1772849660,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99420,
+        "num": 99420,
+        "word": "斗罗2霍雨浩唐舞桐宿命重逢",
+        "onboard_time": 1772858481,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 48896,
+        "num": 99386,
+        "word": "建议严禁AI随意替换他人面孔",
+        "onboard_time": 1772857281,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99365,
+        "num": 99365,
+        "word": "因为9岁侄子的一句话哭了40分钟",
+        "onboard_time": 1772857702,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99329,
+        "num": 99329,
+        "word": "林书豪张嘴闭嘴都是钱",
+        "onboard_time": 1772858241,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96845,
+        "num": 96845,
+        "word": "教资答案",
+        "onboard_time": 1772853861,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98042,
+        "num": 96268,
+        "word": "普京与伊朗总统通电话",
+        "onboard_time": 1772842160,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93379,
+        "num": 93379,
+        "word": "文旅部部长谈成为中国人火了",
+        "onboard_time": 1772857101,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91854,
+        "num": 91854,
+        "word": "Prada2026米兰女装时装秀",
+        "onboard_time": 1772858241,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 106819,
+        "num": 90897,
+        "word": "张凌赫不想在林俊杰面前丢脸",
+        "onboard_time": 1772852421,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89932,
+        "num": 89932,
+        "word": "在家吃饭vs在外吃饭",
+        "onboard_time": 1772857461,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89401,
+        "num": 89401,
+        "word": "陈飞宇 吃的也不多还是得活着",
+        "onboard_time": 1772847801,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48156,
+        "num": 88578,
+        "word": "台湾省全国人大代表畅想祖国统一",
+        "onboard_time": 1772857281,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记两会下团组#"
+    }
+  }
+}
