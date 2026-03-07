@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772923739920,
+  "endTime": 1772926287375,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -3763,6 +3763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 360039,
+      "num": 56489,
+      "word": "美袭击伊朗海水淡化厂",
+      "onboard_time": 1772925016,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 360024,
       "num": 995958,
       "word": "耿爽履新中国人民外交学会副会长",
@@ -5107,6 +5115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268851,
+      "num": 808641,
+      "word": "公务员养上政务龙虾了",
+      "onboard_time": 1772889862,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267958,
       "num": 267958,
       "word": "龚俊陆小凤造型",
@@ -5201,14 +5217,6 @@
       "onboard_time": 1772615004,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 264098,
-      "num": 740637,
-      "word": "公务员养上政务龙虾了",
-      "onboard_time": 1772889862,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261421,
@@ -6777,6 +6785,14 @@
       "onboard_time": 1772433323,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 191870,
+      "num": 376889,
+      "word": "你好星期六",
+      "onboard_time": 1772283145,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 191661,
@@ -9379,6 +9395,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 130028,
+      "num": 52871,
+      "word": "伊朗外长称美袭击海水淡化厂是犯罪",
+      "onboard_time": 1772925737,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130013,
       "num": 130013,
       "word": "岳雨婷时装周出片质量",
@@ -10435,6 +10459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114517,
+      "num": 52856,
+      "word": "多架美军轰炸机飞抵英国基地",
+      "onboard_time": 1772925016,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114496,
       "num": 114496,
       "word": "齐思钧吕严同一个初中同一个高中",
@@ -10929,14 +10961,6 @@
       "onboard_time": 1772857461,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 109363,
-      "num": 376889,
-      "word": "你好星期六",
-      "onboard_time": 1772283145,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 109344,
@@ -12075,6 +12099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98296,
+      "num": 572194,
+      "word": "妇女节",
+      "onboard_time": 1772924956,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98259,
       "num": 98259,
       "word": "孙颖莎与王曼昱的30次国际交手",
@@ -12177,6 +12209,14 @@
       "onboard_time": 1772701761,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 96745,
+      "num": 52838,
+      "word": "伊朗发动第26波打击",
+      "onboard_time": 1772925677,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96634,
@@ -16011,6 +16051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56025,
+      "num": 52774,
+      "word": "张凌赫谢征外甥随舅舅",
+      "onboard_time": 1772926157,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55589,
       "num": 108494,
       "word": "王鸥有一群很宠自己的朋友就这样",
@@ -16737,6 +16785,14 @@
       "onboard_time": 1772375607,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 44080,
+      "num": 52887,
+      "word": "对张凌赫田曦薇身高差有了实感",
+      "onboard_time": 1772925737,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 43898,
@@ -17977,6 +18033,14 @@
       "onboard_time": 1772427504,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23401,
+      "num": 57725,
+      "word": "AI时代每人都有份专属课表",
+      "onboard_time": 1772925077,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23158,

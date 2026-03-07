@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772923739920,
+  "endTime": 1772926287375,
   "band_list": [
     {
       "raw_hot": 676139,
@@ -15,6 +15,14 @@
       "num": 740342,
       "word": "伊朗导弹袭击以色列机场",
       "onboard_time": 1772890103,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 360039,
+      "num": 56489,
+      "word": "美袭击伊朗海水淡化厂",
+      "onboard_time": 1772925016,
       "rank": 10,
       "category": "国际时政"
     },
@@ -35,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268851,
+      "num": 808641,
+      "word": "公务员养上政务龙虾了",
+      "onboard_time": 1772889862,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265589,
       "num": 739994,
       "word": "肖战十日终焉灰瞳",
@@ -51,20 +67,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191870,
+      "num": 376889,
+      "word": "你好星期六",
+      "onboard_time": 1772887943,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184742,
       "num": 739916,
       "word": "逐玉",
       "onboard_time": 1772860161,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179741,
-      "num": 740637,
-      "word": "公务员养上政务龙虾了",
-      "onboard_time": 1772889862,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156642,
@@ -107,12 +123,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 130028,
+      "num": 52871,
+      "word": "伊朗外长称美袭击海水淡化厂是犯罪",
+      "onboard_time": 1772925737,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119208,
       "num": 740533,
       "word": "周深 英文歌",
       "onboard_time": 1772897782,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114517,
+      "num": 52856,
+      "word": "多架美军轰炸机飞抵英国基地",
+      "onboard_time": 1772925016,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113928,
@@ -139,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 98296,
+      "num": 572194,
+      "word": "妇女节",
+      "onboard_time": 1772924956,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98101,
       "num": 739752,
       "word": "张凌赫田曦薇对唱",
@@ -155,12 +195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97606,
-      "num": 376889,
-      "word": "你好星期六",
-      "onboard_time": 1772887943,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 96745,
+      "num": 52838,
+      "word": "伊朗发动第26波打击",
+      "onboard_time": 1772925677,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95507,
@@ -169,6 +209,14 @@
       "onboard_time": 1772888062,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 83729,
+      "num": 740210,
+      "word": "女孩贪玩忘事成绩下滑查出罕见病",
+      "onboard_time": 1772892742,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79858,
@@ -185,14 +233,6 @@
       "onboard_time": 1772896163,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 79532,
-      "num": 740210,
-      "word": "女孩贪玩忘事成绩下滑查出罕见病",
-      "onboard_time": 1772892742,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78815,
@@ -291,12 +331,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56825,
+      "num": 56825,
+      "word": "爸妈收个礼物全村都知道了",
+      "onboard_time": 1772893163,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 56025,
+      "num": 52774,
+      "word": "张凌赫谢征外甥随舅舅",
+      "onboard_time": 1772926157,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54935,
       "num": 740079,
       "word": "委员说每天应有8小时生活时间",
       "onboard_time": 1772898322,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52923,
+      "num": 739465,
+      "word": "倪萍看望渐冻症终末期的蔡磊",
+      "onboard_time": 1772882062,
+      "rank": 37,
+      "category": "艺人,突发/灾害"
     },
     {
       "raw_hot": 51367,
@@ -307,19 +371,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 50183,
-      "num": 739465,
-      "word": "倪萍看望渐冻症终末期的蔡磊",
-      "onboard_time": 1772882062,
-      "rank": 37,
-      "category": "艺人,突发/灾害"
-    },
-    {
       "raw_hot": 48670,
       "num": 739405,
       "word": "鲁豫吃了多少盐才能讲出这些话",
       "onboard_time": 1772875882,
       "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 47699,
+      "num": 651723,
+      "word": "陈小春再也没让应采儿上这种节目",
+      "onboard_time": 1772879241,
+      "rank": 49,
       "category": "作品衍生"
     },
     {
@@ -329,6 +393,14 @@
       "onboard_time": 1772884582,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46146,
+      "num": 739289,
+      "word": "能瘦15%的减重药创始人回应自己胖",
+      "onboard_time": 1772883202,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 45682,
@@ -355,20 +427,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44080,
+      "num": 52887,
+      "word": "对张凌赫田曦薇身高差有了实感",
+      "onboard_time": 1772925737,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40926,
       "num": 740379,
       "word": "邝兆镭中超首秀",
       "onboard_time": 1772894064,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40778,
-      "num": 651723,
-      "word": "陈小春再也没让应采儿上这种节目",
-      "onboard_time": 1772879241,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 39625,
@@ -379,12 +451,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 39019,
-      "num": 739289,
-      "word": "能瘦15%的减重药创始人回应自己胖",
-      "onboard_time": 1772883202,
-      "rank": 42,
-      "category": "健康医疗"
+      "raw_hot": 38611,
+      "num": 45267,
+      "word": "全国两会",
+      "onboard_time": 1772925616,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38175,
@@ -467,6 +539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23401,
+      "num": 57725,
+      "word": "AI时代每人都有份专属课表",
+      "onboard_time": 1772925077,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22378,
       "num": 46098,
       "word": "惊蛰无声",
@@ -499,20 +579,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16943,
+      "num": 45852,
+      "word": "罗意威新设计师",
+      "onboard_time": 1772892384,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 14293,
       "num": 45955,
       "word": "星河入梦票房破亿",
       "onboard_time": 1772909355,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 12845,
-      "num": 45852,
-      "word": "罗意威新设计师",
-      "onboard_time": 1772892384,
-      "rank": 49,
-      "category": "时尚"
     }
   ],
   "hotgov_list": [
