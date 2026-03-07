@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772863212432,
+  "endTime": 1772866456392,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -43,6 +43,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 690086,
+      "num": 331858,
+      "word": "伊朗7小时5轮导弹射向以色列",
+      "onboard_time": 1772862321,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 655773,
       "num": 974673,
       "word": "省委书记怒批有点小权就用到极致",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 655484,
-      "num": 207864,
+      "num": 290566,
       "word": "建议像治理黄色网站治理网盘浏览器",
       "onboard_time": 1772858903,
       "rank": 10,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 480818,
-      "num": 162886,
+      "num": 182947,
       "word": "白鹿因为当模特患上风湿病",
       "onboard_time": 1772859680,
       "rank": 20,
@@ -97,6 +105,14 @@
       "onboard_time": 1772847142,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463564,
+      "num": 1074170,
+      "word": "F1",
+      "onboard_time": 1772865141,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 451508,
@@ -155,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410347,
+      "num": 410347,
+      "word": "王传君恶剪了所有人",
+      "onboard_time": 1772862740,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404931,
       "num": 404931,
       "word": "原来这就是录音的意义",
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 402482,
-      "num": 157061,
+      "num": 189697,
       "word": "宝格丽 刘亦菲在哪儿我在哪儿",
       "onboard_time": 1772860461,
       "rank": 22,
@@ -176,6 +200,14 @@
       "word": "花儿与少年8",
       "onboard_time": 1772852661,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 391606,
+      "num": 296408,
+      "word": "花少神一季鬼一季的定律",
+      "onboard_time": 1772865682,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 375301,
-      "num": 203001,
+      "num": 286239,
       "word": "下面用的已经是苹果二十几了",
       "onboard_time": 1772861302,
       "rank": 30,
@@ -236,7 +268,7 @@
     },
     {
       "raw_hot": 351703,
-      "num": 200482,
+      "num": 280888,
       "word": "逐玉",
       "onboard_time": 1772860161,
       "rank": 13,
@@ -265,6 +297,22 @@
       "onboard_time": 1772853081,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330994,
+      "num": 192113,
+      "word": "刘亦菲8秒换胎",
+      "onboard_time": 1772861661,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323676,
+      "num": 323676,
+      "word": "路虎揽胜回应魏建军道歉",
+      "onboard_time": 1772862682,
+      "rank": 7,
+      "category": "汽车"
     },
     {
       "raw_hot": 317100,
@@ -297,14 +345,6 @@
       "onboard_time": 1772847801,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283129,
-      "num": 156091,
-      "word": "刘亦菲8秒换胎",
-      "onboard_time": 1772861661,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 282278,
@@ -459,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211861,
+      "num": 211861,
+      "word": "两口子是在工地认识的吗",
+      "onboard_time": 1772859860,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208864,
       "num": 208864,
       "word": "熬夜后头皮发臭的原因",
@@ -579,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167770,
+      "num": 167770,
+      "word": "感受到了明星化妆师的权威",
+      "onboard_time": 1772860702,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 167662,
       "num": 167662,
       "word": "谁说在KTV里面只能正常唱歌",
@@ -593,14 +649,6 @@
       "onboard_time": 1772854880,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157927,
-      "num": 157927,
-      "word": "感受到了明星化妆师的权威",
-      "onboard_time": 1772860702,
-      "rank": 21,
-      "category": "美妆"
     },
     {
       "raw_hot": 156029,
@@ -625,22 +673,6 @@
       "onboard_time": 1772853861,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 154752,
-      "num": 154752,
-      "word": "两口子是在工地认识的吗",
-      "onboard_time": 1772859860,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 147912,
-      "num": 215537,
-      "word": "路虎揽胜回应魏建军道歉",
-      "onboard_time": 1772862682,
-      "rank": 7,
-      "category": "汽车"
     },
     {
       "raw_hot": 147734,
@@ -713,14 +745,6 @@
       "onboard_time": 1772838616,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130760,
-      "num": 130760,
-      "word": "伊朗7小时5轮导弹射向以色列",
-      "onboard_time": 1772862321,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 129934,
@@ -811,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113070,
-      "num": 113070,
-      "word": "王传君恶剪了所有人",
-      "onboard_time": 1772862740,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112846,
       "num": 112846,
       "word": "王楚然偏偏你最争气",
@@ -873,6 +889,14 @@
       "onboard_time": 1772859742,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105220,
+      "num": 267204,
+      "word": "千问女孩吃上刘文祥了",
+      "onboard_time": 1772863281,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 104614,
@@ -963,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98893,
+      "num": 98893,
+      "word": "谭维维陈卓璇养成系具象化",
+      "onboard_time": 1772865203,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98733,
       "num": 98733,
       "word": "从小学生到工程师都在装OpenClaw",
@@ -1003,6 +1035,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 95107,
+      "num": 95107,
+      "word": "逐玉有条通天路你走不走",
+      "onboard_time": 1772865141,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95059,
       "num": 95059,
       "word": "男队依然需要樊振东这样的定海神针",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1772849961,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 93215,
+      "num": 99403,
+      "word": "老年人追星的痛",
+      "onboard_time": 1772864781,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 92948,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1772839879,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85152,
+      "num": 94987,
+      "word": "狄龙涉嫌酒驾被捕现场视频曝光",
+      "onboard_time": 1772865682,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 83405,
@@ -1163,6 +1219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 76088,
+      "num": 73586,
+      "word": "黄晓明 圈外交心的朋友比圈内的多",
+      "onboard_time": 1772866281,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76052,
       "num": 138359,
       "word": "剩半截身体的鱼经主人照顾奇迹康复",
@@ -1219,6 +1283,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70547,
+      "num": 70547,
+      "word": "JackeyLove职业生涯最夯的一次闪现",
+      "onboard_time": 1772865981,
+      "rank": 45,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 66313,
+      "num": 66313,
+      "word": "这大尾巴谁不想摸",
+      "onboard_time": 1772866401,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 65645,
       "num": 138000,
       "word": "金智秀新剧开播",
@@ -1265,6 +1345,14 @@
       "onboard_time": 1772800101,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62635,
+      "num": 321118,
+      "word": "雷军说未来每周或仅需工作3天",
+      "onboard_time": 1772865921,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62566,
@@ -1387,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50994,
+      "num": 185502,
+      "word": "爱慕店长竟然是柯爱林",
+      "onboard_time": 1772863521,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 49070,
       "num": 49070,
       "word": "建议将天价彩礼治理纳入当地考核",
@@ -1491,8 +1587,24 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35265,
+      "num": 306833,
+      "word": "5500多所医疗机构设健康体重管理门诊",
+      "onboard_time": 1772863041,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 34115,
+      "num": 339111,
+      "word": "第2场委员通道",
+      "onboard_time": 1772863342,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32823,
-      "num": 261664,
+      "num": 311630,
       "word": "报告里这些民生举措触手可及",
       "onboard_time": 1772854641,
       "rank": 8,
@@ -1595,11 +1707,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10343,
-      "num": 114588,
-      "word": "5500多所医疗机构设健康体重管理门诊",
-      "onboard_time": 1772863041,
-      "rank": 34,
+      "raw_hot": 8806,
+      "num": 192814,
+      "word": "建议开展反家暴法全国执法检查",
+      "onboard_time": 1772865561,
+      "rank": 19,
       "category": "国内时政"
     },
     {

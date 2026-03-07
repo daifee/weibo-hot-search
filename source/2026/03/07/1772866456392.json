@@ -1,0 +1,410 @@
+{
+  "runTime": 1772866456392,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 463564,
+        "num": 1074170,
+        "word": "F1",
+        "onboard_time": 1772865141,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375433,
+        "num": 780390,
+        "word": "40年前的丧假制度该更新了",
+        "onboard_time": 1772852002,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49271,
+        "num": 643505,
+        "word": "十五五109项重大工程项目思维导图",
+        "onboard_time": 1772854641,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410347,
+        "num": 410347,
+        "word": "王传君恶剪了所有人",
+        "onboard_time": 1772862740,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34115,
+        "num": 339111,
+        "word": "第2场委员通道",
+        "onboard_time": 1772863342,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 690086,
+        "num": 331858,
+        "word": "伊朗7小时5轮导弹射向以色列",
+        "onboard_time": 1772862321,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323676,
+        "num": 323676,
+        "word": "路虎揽胜回应魏建军道歉",
+        "onboard_time": 1772862682,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62635,
+        "num": 321118,
+        "word": "雷军说未来每周或仅需工作3天",
+        "onboard_time": 1772865921,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21839,
+        "num": 311630,
+        "word": "报告里这些民生举措触手可及",
+        "onboard_time": 1772854641,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35265,
+        "num": 306833,
+        "word": "5500多所医疗机构设健康体重管理门诊",
+        "onboard_time": 1772863041,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391606,
+        "num": 296408,
+        "word": "花少神一季鬼一季的定律",
+        "onboard_time": 1772865682,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374512,
+        "num": 290566,
+        "word": "建议像治理黄色网站治理网盘浏览器",
+        "onboard_time": 1772858903,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333251,
+        "num": 286239,
+        "word": "下面用的已经是苹果二十几了",
+        "onboard_time": 1772861302,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280888,
+        "num": 280888,
+        "word": "逐玉",
+        "onboard_time": 1772860161,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105220,
+        "num": 267204,
+        "word": "千问女孩吃上刘文祥了",
+        "onboard_time": 1772863281,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 262505,
+        "num": 262505,
+        "word": "90后单亲妈妈摆地摊起家年赚上千万",
+        "onboard_time": 1772857160,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211861,
+        "num": 211861,
+        "word": "两口子是在工地认识的吗",
+        "onboard_time": 1772859860,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197643,
+        "num": 197643,
+        "word": "麦当劳CEO再被网友扒出假吃",
+        "onboard_time": 1772852961,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195206,
+        "num": 195206,
+        "word": "张凌赫感谢惠英红推荐逐玉",
+        "onboard_time": 1772853861,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8806,
+        "num": 192814,
+        "word": "建议开展反家暴法全国执法检查",
+        "onboard_time": 1772865561,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330994,
+        "num": 192113,
+        "word": "刘亦菲8秒换胎",
+        "onboard_time": 1772861661,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299067,
+        "num": 189697,
+        "word": "宝格丽 刘亦菲在哪儿我在哪儿",
+        "onboard_time": 1772860461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50994,
+        "num": 185502,
+        "word": "爱慕店长竟然是柯爱林",
+        "onboard_time": 1772863521,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184657,
+        "num": 184657,
+        "word": "不会化妆的女生建议反复观看",
+        "onboard_time": 1772852301,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 258536,
+        "num": 182947,
+        "word": "白鹿因为当模特患上风湿病",
+        "onboard_time": 1772859680,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171637,
+        "num": 171637,
+        "word": "美第三个航母打击群或将部署至中东",
+        "onboard_time": 1772858842,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167770,
+        "num": 167770,
+        "word": "感受到了明星化妆师的权威",
+        "onboard_time": 1772860702,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 154407,
+        "num": 154407,
+        "word": "教资",
+        "onboard_time": 1772842340,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116159,
+        "num": 116159,
+        "word": "4岁女儿被诊断为男孩需选性别做手术",
+        "onboard_time": 1772849241,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112106,
+        "num": 112106,
+        "word": "花儿与少年8",
+        "onboard_time": 1772852661,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108001,
+        "num": 108001,
+        "word": "惠英红也在看逐玉",
+        "onboard_time": 1772853560,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93215,
+        "num": 99403,
+        "word": "老年人追星的痛",
+        "onboard_time": 1772864781,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98893,
+        "num": 98893,
+        "word": "谭维维陈卓璇养成系具象化",
+        "onboard_time": 1772865203,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95107,
+        "num": 95107,
+        "word": "逐玉有条通天路你走不走",
+        "onboard_time": 1772865141,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85152,
+        "num": 94987,
+        "word": "狄龙涉嫌酒驾被捕现场视频曝光",
+        "onboard_time": 1772865682,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94914,
+        "num": 94914,
+        "word": "王一博周围全是LV集团高层",
+        "onboard_time": 1772853861,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91215,
+        "num": 91215,
+        "word": "白鹿回应和跑男团关系",
+        "onboard_time": 1772861902,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78102,
+        "num": 87425,
+        "word": "霍尔木兹海峡船只遭袭致4死3重伤",
+        "onboard_time": 1772843781,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84344,
+        "num": 84344,
+        "word": "张凯丽谈20天婚假公司只批3天",
+        "onboard_time": 1772852480,
+        "rank": 38,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 81147,
+        "num": 81147,
+        "word": "张凌赫手戳田曦薇梨涡",
+        "onboard_time": 1772858903,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73591,
+        "num": 73591,
+        "word": "女子热水泡脚3个月皮肤变色洗不掉",
+        "onboard_time": 1772840358,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76088,
+        "num": 73586,
+        "word": "黄晓明 圈外交心的朋友比圈内的多",
+        "onboard_time": 1772866281,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73200,
+        "num": 73200,
+        "word": "谁给李昀锐开机现场放毒了",
+        "onboard_time": 1772862983,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73141,
+        "num": 73141,
+        "word": "俄方警告芬兰",
+        "onboard_time": 1772851941,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72911,
+        "num": 72911,
+        "word": "成年男性腰围控制90cm以内女性85以内",
+        "onboard_time": 1772856080,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70547,
+        "num": 70547,
+        "word": "JackeyLove职业生涯最夯的一次闪现",
+        "onboard_time": 1772865981,
+        "rank": 45,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 69224,
+        "num": 69224,
+        "word": "未来五年哪些工作更吃香",
+        "onboard_time": 1772847142,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67482,
+        "num": 67482,
+        "word": "杨瀚森21分9篮板",
+        "onboard_time": 1772861422,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67411,
+        "num": 67411,
+        "word": "Jennie出发Chanel大秀",
+        "onboard_time": 1772859742,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66313,
+        "num": 66313,
+        "word": "这大尾巴谁不想摸",
+        "onboard_time": 1772866401,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记两会下团组#"
+    }
+  }
+}
