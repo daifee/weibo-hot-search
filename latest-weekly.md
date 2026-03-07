@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/08 00:37:50 ~ 2026/03/08 03:44:33
+本榜单时间：2026/03/08 00:37:50 ~ 2026/03/08 04:35:08
 </p>
 </blockquote>
 <p>
@@ -231,6 +231,12 @@ TES教练 Naiyou说季后赛输的都是假赛（热度：77347）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
+你好星期六（热度：54250）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E6%88%98%E8%83%9CWB%23" target="weibo">
 AG战胜WB（热度：51367）
 </a>
@@ -359,12 +365,6 @@ AG单日三鸡积分第一（热度：23849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23WBG%E6%97%A0%E7%BC%98%E5%85%88%E9%94%8B%E8%B5%9B%23" target="weibo">
 WBG无缘先锋赛（热度：19496）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
-你好星期六（热度：17828）
 </a>
 </li>
 
