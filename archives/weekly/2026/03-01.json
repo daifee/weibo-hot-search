@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772889336065,
+  "endTime": 1772891231738,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -2403,6 +2403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 488539,
+      "num": 403663,
+      "word": "伊朗导弹袭击以色列机场",
+      "onboard_time": 1772890103,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 488104,
       "num": 373079,
       "word": "租房能不能别再开广角拍房子",
@@ -3121,6 +3129,14 @@
       "onboard_time": 1772597665,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 403945,
+      "num": 838205,
+      "word": "逐玉 二人转",
+      "onboard_time": 1772886383,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 403549,
@@ -3987,6 +4003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 336298,
+      "num": 336298,
+      "word": "郭晓婷王天辰GLASS",
+      "onboard_time": 1772887103,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 336263,
       "num": 451292,
       "word": "鹤男",
@@ -4619,14 +4643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 290266,
-      "num": 838205,
-      "word": "逐玉 二人转",
-      "onboard_time": 1772886383,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289133,
       "num": 203201,
       "word": "太爷爷摔倒1岁宝宝连滚带爬去扶",
@@ -4660,7 +4676,7 @@
     },
     {
       "raw_hot": 288148,
-      "num": 288148,
+      "num": 374570,
       "word": "吉赛尔缺席aespa澳门演唱会",
       "onboard_time": 1772886681,
       "rank": 17,
@@ -4793,14 +4809,6 @@
       "onboard_time": 1772466444,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281639,
-      "num": 203027,
-      "word": "郭晓婷王天辰GLASS",
-      "onboard_time": 1772887103,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 281482,
@@ -5707,6 +5715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 230493,
+      "num": 175466,
+      "word": "公务员养上政务龙虾了",
+      "onboard_time": 1772889862,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230201,
       "num": 403271,
       "word": "TTG对战AG",
@@ -6299,6 +6315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203371,
+      "num": 414256,
+      "word": "张凌赫田曦薇对唱",
+      "onboard_time": 1772889323,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202807,
       "num": 202807,
       "word": "十四届全国人大四次会议开幕会",
@@ -6793,6 +6817,14 @@
       "onboard_time": 1772639123,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184823,
+      "num": 184823,
+      "word": "王鹤棣首部电影票房破亿",
+      "onboard_time": 1772889143,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 184729,
@@ -7905,6 +7937,14 @@
       "onboard_time": 1772325743,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 153689,
+      "num": 184947,
+      "word": "霍启刚回应香港无冰雪发展冰雪经济",
+      "onboard_time": 1772889983,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153681,
@@ -9675,6 +9715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121773,
+      "num": 121773,
+      "word": "美以袭击致192名伊朗师生死亡",
+      "onboard_time": 1772890943,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121689,
       "num": 235940,
       "word": "霍启刚建议降低中等收入群体税率",
@@ -11163,6 +11211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103938,
+      "num": 381080,
+      "word": "委员建议文旅不要沉迷做网红",
+      "onboard_time": 1772882360,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103931,
       "num": 151255,
       "word": "M5芯片款MacBookAir发布",
@@ -11193,6 +11249,14 @@
       "onboard_time": 1772603125,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103441,
+      "num": 396969,
+      "word": "AG对战WB",
+      "onboard_time": 1772889443,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 103390,
@@ -12091,6 +12155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94963,
+      "num": 94963,
+      "word": "斗破苍穹",
+      "onboard_time": 1772890222,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 94920,
       "num": 155578,
       "word": "JDG战胜WBG",
@@ -12465,14 +12537,6 @@
       "onboard_time": 1772613444,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91921,
-      "num": 298378,
-      "word": "委员建议文旅不要沉迷做网红",
-      "onboard_time": 1772882360,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91909,
@@ -12889,6 +12953,14 @@
       "onboard_time": 1772416463,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87693,
+      "num": 87693,
+      "word": "家长称8天假期打印了60多页作业",
+      "onboard_time": 1772891002,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87617,
@@ -13465,6 +13537,14 @@
       "onboard_time": 1772443405,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81448,
+      "num": 81448,
+      "word": "虎杖悠仁vs日车宽见",
+      "onboard_time": 1772890523,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 81415,
@@ -14219,14 +14299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74950,
-      "num": 155710,
-      "word": "王鹤棣首部电影票房破亿",
-      "onboard_time": 1772889143,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 74938,
       "num": 48228,
       "word": "伊朗1吨重弹头导弹打击以色列",
@@ -14811,6 +14883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67883,
+      "num": 70479,
+      "word": "电影我许可定档",
+      "onboard_time": 1772889562,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67865,
       "num": 327727,
       "word": "有用户反馈向您误转30元",
@@ -15115,6 +15195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64222,
+      "num": 155385,
+      "word": "白鹿认为真心的朋友没必要那么多",
+      "onboard_time": 1772888542,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63867,
       "num": 146629,
       "word": "腰果圣杯",
@@ -15393,14 +15481,6 @@
       "onboard_time": 1772521528,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61026,
-      "num": 155385,
-      "word": "白鹿认为真心的朋友没必要那么多",
-      "onboard_time": 1772888542,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 60807,
@@ -17235,6 +17315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28908,
+      "num": 392235,
+      "word": "代表建议婚检应为婚姻登记前置程序",
+      "onboard_time": 1772890461,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28850,
       "num": 257223,
       "word": "狼队vs利物浦",
@@ -18132,7 +18220,7 @@
     },
     {
       "raw_hot": 6477,
-      "num": 314653,
+      "num": 386899,
       "word": "谋新篇开新局",
       "onboard_time": 1772854161,
       "rank": 8,
