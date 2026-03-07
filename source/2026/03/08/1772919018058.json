@@ -1,0 +1,410 @@
+{
+  "runTime": 1772919018058,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 43445,
+        "num": 144468,
+        "word": "公务员养上政务龙虾了",
+        "onboard_time": 1772889862,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22525,
+        "num": 107993,
+        "word": "蒋胜男建议处罚加班严重企业",
+        "onboard_time": 1772902340,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10354,
+        "num": 82296,
+        "word": "两会学习笔记",
+        "onboard_time": 1772893823,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51928,
+        "num": 51928,
+        "word": "你好星期六",
+        "onboard_time": 1772887943,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23868,
+        "num": 23868,
+        "word": "手机放大身份证竟藏微缩字母",
+        "onboard_time": 1772892143,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141259,
+        "num": 23444,
+        "word": "伊朗65所学校遭袭",
+        "onboard_time": 1772899221,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22027,
+        "num": 22027,
+        "word": "霍启刚回应香港无冰雪发展冰雪经济",
+        "onboard_time": 1772889983,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18988,
+        "num": 22027,
+        "word": "周深 英文歌",
+        "onboard_time": 1772897782,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18336,
+        "num": 22024,
+        "word": "华春莹在广东团被一棵树吸引了",
+        "onboard_time": 1772897304,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14628,
+        "num": 22021,
+        "word": "6年派遣工仍觉自己是职场二等公民",
+        "onboard_time": 1772897362,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43986,
+        "num": 22020,
+        "word": "伊朗导弹袭击以色列机场",
+        "onboard_time": 1772890103,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34711,
+        "num": 22020,
+        "word": "奥巴马说在当前的美国很难怀抱希望",
+        "onboard_time": 1772891543,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22018,
+        "num": 22018,
+        "word": "陈小春再也没让应采儿上这种节目",
+        "onboard_time": 1772879241,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21288,
+        "num": 21288,
+        "word": "男子丽江旅游中奖1034万",
+        "onboard_time": 1772885962,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20027,
+        "num": 21271,
+        "word": "女孩贪玩忘事成绩下滑查出罕见病",
+        "onboard_time": 1772892742,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17312,
+        "num": 21192,
+        "word": "KPL",
+        "onboard_time": 1772894603,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16426,
+        "num": 21165,
+        "word": "AG战胜WB",
+        "onboard_time": 1772894064,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15739,
+        "num": 21073,
+        "word": "倪萍看望渐冻症终末期的蔡磊",
+        "onboard_time": 1772882062,
+        "rank": 17,
+        "category": "艺人,突发/灾害"
+      },
+      {
+        "raw_hot": 13804,
+        "num": 21049,
+        "word": "我的山与海",
+        "onboard_time": 1772884941,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13371,
+        "num": 21000,
+        "word": "你好星期六 逐玉",
+        "onboard_time": 1772907077,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48630,
+        "num": 20926,
+        "word": "杨超越巴黎世家全球首穿",
+        "onboard_time": 1772891422,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23312,
+        "num": 20864,
+        "word": "逐玉热度",
+        "onboard_time": 1772892562,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20858,
+        "num": 20858,
+        "word": "肖战十日终焉灰瞳",
+        "onboard_time": 1772893223,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20361,
+        "num": 20361,
+        "word": "伊朗总统称不再首先攻击邻国",
+        "onboard_time": 1772871921,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20186,
+        "num": 20186,
+        "word": "59瓶汇源果汁起拍价109元",
+        "onboard_time": 1772903538,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19838,
+        "num": 19838,
+        "word": "3人48小时做出5亿播放量AI短剧",
+        "onboard_time": 1772892562,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19739,
+        "num": 19739,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1772896163,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 12867,
+        "num": 18254,
+        "word": "惊蛰无声",
+        "onboard_time": 1772909836,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17652,
+        "num": 17652,
+        "word": "金价剧烈波动大家开始观望",
+        "onboard_time": 1772897543,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16375,
+        "num": 17354,
+        "word": "美媒称美国或应为伊朗小学遇袭负责",
+        "onboard_time": 1772888062,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17300,
+        "num": 17300,
+        "word": "逐玉",
+        "onboard_time": 1772860161,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15526,
+        "num": 17300,
+        "word": "田曦薇跳高好有力量美",
+        "onboard_time": 1772898021,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15264,
+        "num": 17297,
+        "word": "人大代表推荐化橘红纳入国礼",
+        "onboard_time": 1772895024,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14842,
+        "num": 17291,
+        "word": "美以袭击致192名伊朗师生死亡",
+        "onboard_time": 1772890943,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14320,
+        "num": 17290,
+        "word": "谭松韵演技",
+        "onboard_time": 1772895563,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14238,
+        "num": 17286,
+        "word": "伊拉克记者方浩明成中国准女婿",
+        "onboard_time": 1772884582,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13880,
+        "num": 17283,
+        "word": "家长称8天假期打印了60多页作业",
+        "onboard_time": 1772891002,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13557,
+        "num": 17277,
+        "word": "伊朗驻埃及大使说不会再相信美国",
+        "onboard_time": 1772884222,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12392,
+        "num": 17274,
+        "word": "委员说每天应有8小时生活时间",
+        "onboard_time": 1772898322,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11962,
+        "num": 17270,
+        "word": "逐玉 田耕纪",
+        "onboard_time": 1772880622,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11907,
+        "num": 17266,
+        "word": "能瘦15%的减重药创始人回应自己胖",
+        "onboard_time": 1772883202,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 11659,
+        "num": 17263,
+        "word": "王鹤棣首部电影票房破亿",
+        "onboard_time": 1772889143,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10943,
+        "num": 17259,
+        "word": "金价剧烈波动现在还能上车吗",
+        "onboard_time": 1772894123,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10738,
+        "num": 17256,
+        "word": "TES教练 Naiyou说季后赛输的都是假赛",
+        "onboard_time": 1772881701,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10729,
+        "num": 17251,
+        "word": "星河入梦票房破亿",
+        "onboard_time": 1772909355,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10516,
+        "num": 17250,
+        "word": "大帅三连MVP",
+        "onboard_time": 1772896103,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10358,
+        "num": 17245,
+        "word": "罗意威新设计师",
+        "onboard_time": 1772892384,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 10033,
+        "num": 17244,
+        "word": "张凌赫田曦薇对唱",
+        "onboard_time": 1772889323,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10648,
+        "num": 17237,
+        "word": "斗破苍穹",
+        "onboard_time": 1772890222,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 9735,
+        "num": 17234,
+        "word": "AG第三轮S组首胜",
+        "onboard_time": 1772898980,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#充分发挥政治建军特有优势#"
+    }
+  }
+}
