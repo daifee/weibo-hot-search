@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772882927321,
+  "endTime": 1772883801570,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -2115,6 +2115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 543213,
+      "num": 509078,
+      "word": "TES教练 Naiyou说季后赛输的都是假赛",
+      "onboard_time": 1772881701,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 539657,
       "num": 539657,
       "word": "伊朗打击伊拉克库尔德地区",
@@ -2265,14 +2273,6 @@
       "onboard_time": 1772406439,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 509078,
-      "num": 509078,
-      "word": "TES教练 Naiyou说季后赛输的都是假赛",
-      "onboard_time": 1772881701,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 507910,
@@ -2665,6 +2665,14 @@
       "onboard_time": 1772753779,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 447767,
+      "num": 373597,
+      "word": "逐玉 田耕纪",
+      "onboard_time": 1772880622,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 447635,
@@ -3211,6 +3219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397865,
+      "num": 782182,
+      "word": "逐玉",
+      "onboard_time": 1772372846,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396200,
       "num": 859114,
       "word": "建议禁止16岁以下使用社媒",
@@ -3329,14 +3345,6 @@
       "onboard_time": 1772793682,
       "rank": 29,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 385461,
-      "num": 782182,
-      "word": "逐玉",
-      "onboard_time": 1772372846,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 384783,
@@ -3489,14 +3497,6 @@
       "onboard_time": 1772714723,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 373597,
-      "num": 373597,
-      "word": "逐玉 田耕纪",
-      "onboard_time": 1772880622,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 373196,
@@ -5001,6 +5001,14 @@
       "onboard_time": 1772327784,
       "rank": 27,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 265035,
+      "num": 761215,
+      "word": "男子养豪猪拔刺一斤能卖400元",
+      "onboard_time": 1772882001,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264621,
@@ -6747,6 +6755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183928,
+      "num": 324772,
+      "word": "刘耀文叫白鹿嫂嫂",
+      "onboard_time": 1772883022,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181962,
       "num": 181962,
       "word": "4岁女孩高血压就诊发现竟是男孩",
@@ -7033,6 +7049,14 @@
       "onboard_time": 1772300658,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171031,
+      "num": 293239,
+      "word": "倪萍看望渐冻症终末期的蔡磊",
+      "onboard_time": 1772882062,
+      "rank": 23,
+      "category": "艺人,突发/灾害"
     },
     {
       "raw_hot": 170875,
@@ -7443,6 +7467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161724,
+      "num": 644837,
+      "word": "WBG对战JDG",
+      "onboard_time": 1772874742,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161650,
       "num": 577857,
       "word": "檀健次好可爱的汤圆",
@@ -7649,14 +7681,6 @@
       "onboard_time": 1772512647,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157557,
-      "num": 428198,
-      "word": "男子养豪猪拔刺一斤能卖400元",
-      "onboard_time": 1772882001,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157365,
@@ -7969,14 +7993,6 @@
       "onboard_time": 1772354421,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150461,
-      "num": 150461,
-      "word": "倪萍看望渐冻症终末期的蔡磊",
-      "onboard_time": 1772882062,
-      "rank": 23,
-      "category": "艺人,突发/灾害"
     },
     {
       "raw_hot": 150392,
@@ -8884,7 +8900,7 @@
     },
     {
       "raw_hot": 133775,
-      "num": 250125,
+      "num": 330905,
       "word": "教资科三",
       "onboard_time": 1772879842,
       "rank": 8,
@@ -9409,6 +9425,14 @@
       "onboard_time": 1772381902,
       "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 124126,
+      "num": 293110,
+      "word": "蝴蝶忍 童琴",
+      "onboard_time": 1772881401,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 124076,
@@ -9963,14 +9987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116527,
-      "num": 150415,
-      "word": "蝴蝶忍 童琴",
-      "onboard_time": 1772881401,
-      "rank": 25,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 116501,
       "num": 116501,
       "word": "王楚钦4比1F勒布伦",
@@ -10001,6 +10017,14 @@
       "onboard_time": 1772695641,
       "rank": 32,
       "category": "作品衍生,运动健身"
+    },
+    {
+      "raw_hot": 115982,
+      "num": 292989,
+      "word": "在QQ也可以用OpenClaw了",
+      "onboard_time": 1772879662,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 115951,
@@ -10056,14 +10080,6 @@
       "word": "阿里Qwen负责人宣布离开",
       "onboard_time": 1772591784,
       "rank": 24,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 115280,
-      "num": 246488,
-      "word": "在QQ也可以用OpenClaw了",
-      "onboard_time": 1772879662,
-      "rank": 14,
       "category": "互联网"
     },
     {
@@ -10859,6 +10875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106234,
+      "num": 292742,
+      "word": "能瘦15%的减重药创始人回应自己胖",
+      "onboard_time": 1772883202,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106231,
       "num": 219371,
       "word": "我的山与海定档",
@@ -10905,6 +10929,14 @@
       "onboard_time": 1772636544,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 105403,
+      "num": 293523,
+      "word": "AG荣都吃鸡",
+      "onboard_time": 1772883561,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 105284,
@@ -12283,6 +12315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91921,
+      "num": 298378,
+      "word": "委员建议文旅不要沉迷做网红",
+      "onboard_time": 1772882360,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91909,
       "num": 212999,
       "word": "女子称新买LV羽绒服穿3小时掉色",
@@ -13235,14 +13275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81693,
-      "num": 644837,
-      "word": "WBG对战JDG",
-      "onboard_time": 1772874742,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 81672,
       "num": 81672,
       "word": "带娃半年终于懂了妈妈的情绪病",
@@ -13692,7 +13724,7 @@
     },
     {
       "raw_hot": 77472,
-      "num": 150101,
+      "num": 292345,
       "word": "孙颖莎女性榜样力量",
       "onboard_time": 1772880862,
       "rank": 33,
@@ -14988,7 +15020,7 @@
     },
     {
       "raw_hot": 62606,
-      "num": 149965,
+      "num": 292125,
       "word": "路人把中国boy认成杨迪",
       "onboard_time": 1772880202,
       "rank": 48,
@@ -15315,6 +15347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57705,
+      "num": 291950,
+      "word": "王楚钦参加重庆冠军赛抽签",
+      "onboard_time": 1772883501,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57530,
       "num": 67141,
       "word": "彩礼设6万元上限治标更要治本",
@@ -15443,6 +15483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54692,
+      "num": 291861,
+      "word": "AI短剧霍去病凭啥刷屏",
+      "onboard_time": 1772882602,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 54445,
       "num": 54445,
       "word": "白鹿跳水都不忘宣传唐宫奇案",
@@ -15452,7 +15500,7 @@
     },
     {
       "raw_hot": 54033,
-      "num": 149757,
+      "num": 291805,
       "word": "蒋胜男谈农村精智障女性被迫婚育",
       "onboard_time": 1772882842,
       "rank": 42,
@@ -15563,6 +15611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 52734,
+      "num": 291721,
+      "word": "黄金回收业务量大降",
+      "onboard_time": 1772883202,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 52697,
       "num": 327839,
       "word": "HPV可不仅仅跟宫颈癌有关",
@@ -15625,14 +15681,6 @@
       "onboard_time": 1772286324,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51186,
-      "num": 149563,
-      "word": "AI短剧霍去病凭啥刷屏",
-      "onboard_time": 1772882602,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 51027,
@@ -16168,14 +16216,6 @@
       "word": "建议设置孕产妇隐私诊室",
       "onboard_time": 1772792540,
       "rank": 26,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 42371,
-      "num": 298378,
-      "word": "委员建议文旅不要沉迷做网红",
-      "onboard_time": 1772882360,
-      "rank": 8,
       "category": "国内时政"
     },
     {
@@ -17363,6 +17403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21551,
+      "num": 310669,
+      "word": "建议带薪年假最长提至20天",
+      "onboard_time": 1772881641,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 21543,
       "num": 219017,
       "word": "蒋胜男呼吁强化精神病院公益属性",
@@ -17859,14 +17907,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 8257,
-      "num": 284956,
-      "word": "建议带薪年假最长提至20天",
-      "onboard_time": 1772881641,
-      "rank": 9,
-      "category": "民生新闻,国内时政"
-    },
-    {
       "raw_hot": 7896,
       "num": 132675,
       "word": "椰树曾称椰汁擦乳是科普非广告",
@@ -17889,6 +17929,14 @@
       "onboard_time": 1772446404,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6477,
+      "num": 314653,
+      "word": "谋新篇开新局",
+      "onboard_time": 1772854161,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3506,
