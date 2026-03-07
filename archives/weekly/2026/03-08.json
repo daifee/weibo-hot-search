@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772922732542,
+  "endTime": 1772923739920,
   "band_list": [
     {
       "raw_hot": 676139,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97606,
+      "num": 376889,
+      "word": "你好星期六",
+      "onboard_time": 1772887943,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95507,
       "num": 739784,
       "word": "美媒称美国或应为伊朗小学遇袭负责",
@@ -233,14 +241,6 @@
       "onboard_time": 1772903538,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69325,
-      "num": 84404,
-      "word": "你好星期六",
-      "onboard_time": 1772887943,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 68371,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40778,
+      "num": 651723,
+      "word": "陈小春再也没让应采儿上这种节目",
+      "onboard_time": 1772879241,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39625,
       "num": 739272,
       "word": "KPL",
@@ -409,14 +417,6 @@
       "onboard_time": 1772887642,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35067,
-      "num": 651723,
-      "word": "陈小春再也没让应采儿上这种节目",
-      "onboard_time": 1772879241,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 34943,
@@ -467,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 22378,
+      "num": 46098,
+      "word": "惊蛰无声",
+      "onboard_time": 1772909836,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19496,
       "num": 192253,
       "word": "WBG无缘先锋赛",
@@ -491,14 +499,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16756,
-      "num": 46098,
-      "word": "惊蛰无声",
-      "onboard_time": 1772909836,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 14293,
       "num": 45955,
       "word": "星河入梦票房破亿",
@@ -507,7 +507,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 11207,
+      "raw_hot": 12845,
       "num": 45852,
       "word": "罗意威新设计师",
       "onboard_time": 1772892384,
