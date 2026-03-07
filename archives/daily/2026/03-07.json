@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772883801570,
+  "endTime": 1772888521203,
   "band_list": [
     {
       "raw_hot": 1414218,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 627815,
+      "num": 1100450,
+      "word": "男子丽江旅游中奖1034万",
+      "onboard_time": 1772885962,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610410,
       "num": 1083536,
       "word": "教资",
@@ -121,6 +129,14 @@
       "onboard_time": 1772843781,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 600486,
+      "num": 600486,
+      "word": "蔡依林内地版没有大蛇",
+      "onboard_time": 1772886142,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 577572,
@@ -161,6 +177,14 @@
       "onboard_time": 1772859680,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 480482,
+      "num": 293239,
+      "word": "倪萍看望渐冻症终末期的蔡磊",
+      "onboard_time": 1772882062,
+      "rank": 23,
+      "category": "艺人,突发/灾害"
     },
     {
       "raw_hot": 475765,
@@ -283,7 +307,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 397865,
+      "raw_hot": 401127,
       "num": 656530,
       "word": "逐玉",
       "onboard_time": 1772860161,
@@ -427,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326616,
+      "num": 253749,
+      "word": "伊拉克记者方浩明成中国准女婿",
+      "onboard_time": 1772884582,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 323676,
       "num": 657485,
       "word": "路虎揽胜回应魏建军道歉",
@@ -521,6 +553,14 @@
       "onboard_time": 1772810662,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 255402,
+      "num": 255402,
+      "word": "Celine大秀",
+      "onboard_time": 1772885361,
+      "rank": 4,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 254073,
@@ -651,12 +691,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214943,
+      "num": 292742,
+      "word": "能瘦15%的减重药创始人回应自己胖",
+      "onboard_time": 1772883202,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 211861,
       "num": 211861,
       "word": "两口子是在工地认识的吗",
       "onboard_time": 1772859860,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211850,
+      "num": 293110,
+      "word": "蝴蝶忍 童琴",
+      "onboard_time": 1772881401,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 208864,
@@ -699,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197833,
+      "num": 197833,
+      "word": "逐玉 二人转",
+      "onboard_time": 1772886383,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197803,
       "num": 120846,
       "word": "逐玉 截不到丑图",
@@ -713,6 +777,14 @@
       "onboard_time": 1772857221,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189774,
+      "num": 189774,
+      "word": "吉赛尔缺席aespa澳门演唱会",
+      "onboard_time": 1772886681,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 187512,
@@ -771,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177675,
+      "num": 177675,
+      "word": "郭晓婷王天辰GLASS",
+      "onboard_time": 1772887103,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176433,
       "num": 654979,
       "word": "何广智 名侦探学院是什么单位",
@@ -793,14 +873,6 @@
       "onboard_time": 1772802622,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 171031,
-      "num": 293239,
-      "word": "倪萍看望渐冻症终末期的蔡磊",
-      "onboard_time": 1772882062,
-      "rank": 23,
-      "category": "艺人,突发/灾害"
     },
     {
       "raw_hot": 170661,
@@ -1059,12 +1131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124126,
-      "num": 293110,
-      "word": "蝴蝶忍 童琴",
-      "onboard_time": 1772881401,
-      "rank": 25,
-      "category": "动漫"
+      "raw_hot": 123095,
+      "num": 148767,
+      "word": "美媒称美国或应为伊朗小学遇袭负责",
+      "onboard_time": 1772888062,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 122779,
+      "num": 148808,
+      "word": "伊朗驻埃及大使说不会再相信美国",
+      "onboard_time": 1772884222,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122353,
@@ -1097,6 +1177,14 @@
       "onboard_time": 1772867000,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120755,
+      "num": 148797,
+      "word": "大厂发的三八节福利都值多少钱",
+      "onboard_time": 1772884281,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119395,
@@ -1195,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109680,
+      "num": 148789,
+      "word": "商务部回应安世荷兰禁用中国员工账号",
+      "onboard_time": 1772886983,
+      "rank": 28,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 109583,
       "num": 193095,
       "word": "金饰克价涨到1607元",
@@ -1209,6 +1305,14 @@
       "onboard_time": 1772857461,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109363,
+      "num": 148772,
+      "word": "你好星期六",
+      "onboard_time": 1772812761,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 109240,
@@ -1243,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108102,
+      "num": 148751,
+      "word": "JDG晋级全球先锋赛",
+      "onboard_time": 1772884643,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107599,
       "num": 107599,
       "word": "Jennie出发Chanel大秀",
@@ -1257,14 +1369,6 @@
       "onboard_time": 1772870782,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 106234,
-      "num": 292742,
-      "word": "能瘦15%的减重药创始人回应自己胖",
-      "onboard_time": 1772883202,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 105403,
@@ -1313,6 +1417,14 @@
       "onboard_time": 1772799262,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102586,
+      "num": 148739,
+      "word": "田曦薇太适合演生命力旺盛的女生了",
+      "onboard_time": 1772883922,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 101812,
@@ -1369,6 +1481,14 @@
       "onboard_time": 1772839698,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99013,
+      "num": 148732,
+      "word": "我的山与海",
+      "onboard_time": 1772884941,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 98893,
@@ -1449,6 +1569,14 @@
       "onboard_time": 1772867421,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 94920,
+      "num": 148724,
+      "word": "JDG战胜WBG",
+      "onboard_time": 1772884643,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 94854,
@@ -1555,6 +1683,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90721,
+      "num": 148713,
+      "word": "谭松韵新剧开局就扇巴掌",
+      "onboard_time": 1772887943,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90675,
+      "num": 148703,
+      "word": "鹿晗五哈上海录制",
+      "onboard_time": 1772887642,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90331,
       "num": 90331,
       "word": "首批OpenClaw用户开始清醒了",
@@ -1569,6 +1713,14 @@
       "onboard_time": 1772796681,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88979,
+      "num": 291721,
+      "word": "黄金回收业务量大降",
+      "onboard_time": 1772883202,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 88436,
@@ -1651,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80809,
+      "num": 148662,
+      "word": "米兰冬残奥会中国代表团首金诞生",
+      "onboard_time": 1772887581,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80271,
       "num": 193032,
       "word": "镖人大沙暴是实拍八级大风",
@@ -1689,6 +1849,14 @@
       "onboard_time": 1772865981,
       "rank": 45,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 78609,
+      "num": 148641,
+      "word": "陆虎家里的冰箱是冰箱贴换来的",
+      "onboard_time": 1772887522,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 78467,
@@ -1739,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77050,
+      "num": 148639,
+      "word": "梁洁 内娱甜妹使不完的牛劲",
+      "onboard_time": 1772884883,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76675,
       "num": 138508,
       "word": "真我",
@@ -1787,6 +1963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74531,
+      "num": 148624,
+      "word": "黄金以旧换新火了",
+      "onboard_time": 1772884763,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73418,
       "num": 138179,
       "word": "专家建议女性尽早做生育力评估",
@@ -1811,6 +1995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72394,
+      "num": 148598,
+      "word": "蒋胜男说年轻人不加班才有时间生娃",
+      "onboard_time": 1772887581,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71975,
       "num": 192620,
       "word": "香飘飘投入1000万用于女性经期关爱",
@@ -1825,14 +2017,6 @@
       "onboard_time": 1772803703,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 70996,
-      "num": 106278,
-      "word": "你好星期六",
-      "onboard_time": 1772812761,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 69618,
@@ -2137,14 +2321,6 @@
       "onboard_time": 1772809403,
       "rank": 47,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 52734,
-      "num": 291721,
-      "word": "黄金回收业务量大降",
-      "onboard_time": 1772883202,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 52663,
