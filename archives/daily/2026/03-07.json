@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772891785114,
+  "endTime": 1772893963243,
   "band_list": [
     {
       "raw_hot": 1414218,
@@ -57,6 +57,14 @@
       "onboard_time": 1772885962,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 750255,
+      "num": 523922,
+      "word": "伊朗导弹袭击以色列机场",
+      "onboard_time": 1772890103,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 721882,
@@ -163,14 +171,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 523922,
-      "num": 523922,
-      "word": "伊朗导弹袭击以色列机场",
-      "onboard_time": 1772890103,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 497654,
       "num": 405308,
       "word": "不会化妆的女生建议反复观看",
@@ -275,6 +275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 427199,
+      "num": 218182,
+      "word": "杨超越巴黎世家全球首穿",
+      "onboard_time": 1772891422,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 426909,
       "num": 426909,
       "word": "张凌赫感谢惠英红推荐逐玉",
@@ -289,6 +297,14 @@
       "onboard_time": 1772854342,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 418077,
+      "num": 811126,
+      "word": "霍启刚回应香港无冰雪发展冰雪经济",
+      "onboard_time": 1772889983,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 416585,
@@ -353,6 +369,14 @@
       "onboard_time": 1772851041,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382021,
+      "num": 382021,
+      "word": "逐玉热度",
+      "onboard_time": 1772892562,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 380012,
@@ -531,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299342,
+      "num": 396969,
+      "word": "AG对战WB",
+      "onboard_time": 1772889443,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 288148,
       "num": 374570,
       "word": "吉赛尔缺席aespa澳门演唱会",
@@ -571,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264098,
+      "num": 215672,
+      "word": "公务员养上政务龙虾了",
+      "onboard_time": 1772889862,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257699,
       "num": 181347,
       "word": "周杰伦新歌要来了",
@@ -593,6 +633,14 @@
       "onboard_time": 1772885361,
       "rank": 4,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 254106,
+      "num": 254106,
+      "word": "肖战十日终焉灰瞳",
+      "onboard_time": 1772893223,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 254073,
@@ -627,6 +675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 248642,
+      "num": 562027,
+      "word": "王鹤棣首部电影票房破亿",
+      "onboard_time": 1772889143,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 244355,
       "num": 180905,
       "word": "逐玉开播",
@@ -651,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238985,
-      "num": 191184,
-      "word": "公务员养上政务龙虾了",
-      "onboard_time": 1772889862,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238793,
       "num": 195217,
       "word": "张凌赫手戳田曦薇梨涡",
@@ -667,20 +715,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225387,
+      "num": 225387,
+      "word": "奥巴马说在当前的美国很难怀抱希望",
+      "onboard_time": 1772891543,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 224424,
       "num": 657799,
       "word": "逐玉首日云合",
       "onboard_time": 1772871800,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221702,
-      "num": 562027,
-      "word": "王鹤棣首部电影票房破亿",
-      "onboard_time": 1772889143,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 219033,
@@ -755,20 +803,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213383,
+      "num": 293110,
+      "word": "蝴蝶忍 童琴",
+      "onboard_time": 1772881401,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 211861,
       "num": 211861,
       "word": "两口子是在工地认识的吗",
       "onboard_time": 1772859860,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211850,
-      "num": 293110,
-      "word": "蝴蝶忍 童琴",
-      "onboard_time": 1772881401,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 208864,
@@ -859,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181865,
+      "num": 155981,
+      "word": "田曦薇太适合演生命力旺盛的女生了",
+      "onboard_time": 1772883922,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181571,
       "num": 648630,
       "word": "袁姗姗第一章异国千金",
@@ -889,6 +945,14 @@
       "onboard_time": 1772872521,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173547,
+      "num": 220994,
+      "word": "女孩贪玩忘事成绩下滑查出罕见病",
+      "onboard_time": 1772892742,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172760,
@@ -979,6 +1043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156408,
+      "num": 156408,
+      "word": "AG单日三鸡积分第一",
+      "onboard_time": 1772892321,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156071,
       "num": 156071,
       "word": "特朗普说伊朗今天将遭极猛烈打击",
@@ -1009,14 +1081,6 @@
       "onboard_time": 1772853861,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 153689,
-      "num": 540285,
-      "word": "霍启刚回应香港无冰雪发展冰雪经济",
-      "onboard_time": 1772889983,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 152204,
@@ -1067,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142178,
+      "num": 251042,
+      "word": "3人48小时做出5亿播放量AI短剧",
+      "onboard_time": 1772892562,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140801,
       "num": 140801,
       "word": "女子翻老盒子内藏十几张清朝地契",
@@ -1075,8 +1147,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138813,
-      "num": 124205,
+      "raw_hot": 139559,
+      "num": 139559,
       "word": "美以袭击致192名伊朗师生死亡",
       "onboard_time": 1772890943,
       "rank": 29,
@@ -1203,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123786,
-      "num": 123786,
-      "word": "奥巴马说在当前的美国很难怀抱希望",
-      "onboard_time": 1772891543,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 122353,
       "num": 122353,
       "word": "王劲松刘威演谭松韵的两个爸",
@@ -1257,14 +1321,6 @@
       "onboard_time": 1772798721,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 118557,
-      "num": 118557,
-      "word": "杨超越巴黎世家全球首穿",
-      "onboard_time": 1772891422,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 117828,
@@ -1483,12 +1539,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103441,
-      "num": 396969,
-      "word": "AG对战WB",
-      "onboard_time": 1772889443,
-      "rank": 6,
-      "category": "电竞"
+      "raw_hot": 102998,
+      "num": 102998,
+      "word": "家长称8天假期打印了60多页作业",
+      "onboard_time": 1772891002,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102947,
@@ -1505,14 +1561,6 @@
       "onboard_time": 1772799262,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 102586,
-      "num": 155981,
-      "word": "田曦薇太适合演生命力旺盛的女生了",
-      "onboard_time": 1772883922,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 101812,
@@ -1537,14 +1585,6 @@
       "onboard_time": 1772851220,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 101087,
-      "num": 101087,
-      "word": "家长称8天假期打印了60多页作业",
-      "onboard_time": 1772891002,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100141,
@@ -1657,6 +1697,14 @@
       "onboard_time": 1772834535,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 95782,
+      "num": 95782,
+      "word": "手机放大身份证竟藏微缩字母",
+      "onboard_time": 1772892143,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95059,
@@ -1811,6 +1859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 89032,
+      "num": 124455,
+      "word": "加装电梯后一楼获采光补偿2.1万",
+      "onboard_time": 1772891602,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89005,
       "num": 138751,
       "word": "女子常熬夜上班压力大查出3种癌",
@@ -1841,6 +1897,14 @@
       "onboard_time": 1772873121,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85710,
+      "num": 223440,
+      "word": "罗意威新设计师",
+      "onboard_time": 1772892384,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 85596,
@@ -1995,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77297,
+      "num": 240382,
+      "word": "上海海港1比2河南队",
+      "onboard_time": 1772892384,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77287,
       "num": 77287,
       "word": "建议未来5年逐渐取消公摊面积",
@@ -2057,6 +2129,14 @@
       "onboard_time": 1772846182,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75252,
+      "num": 93293,
+      "word": "TES主教练道歉",
+      "onboard_time": 1772893644,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 74938,
@@ -2587,6 +2667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 41000,
+      "num": 96991,
+      "word": "十五五重大工程项目思维导图",
+      "onboard_time": 1772892983,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39702,
       "num": 101432,
       "word": "持续清理整治违规办学校园欺凌",
@@ -2683,6 +2771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27683,
+      "num": 617171,
+      "word": "两会学习笔记",
+      "onboard_time": 1772893823,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26442,
       "num": 34392,
       "word": "穆祉丞新歌等待一切重来",
@@ -2699,6 +2795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25253,
+      "num": 231802,
+      "word": "未来5年这些硬核基建影响你我",
+      "onboard_time": 1772893462,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25241,
       "num": 160255,
       "word": "建议增设班级行政助理岗位",
@@ -2713,6 +2817,14 @@
       "onboard_time": 1772854941,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23566,
+      "num": 220040,
+      "word": "男子称退票后遭遇幽灵机票",
+      "onboard_time": 1772893223,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22580,
@@ -2755,6 +2867,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17688,
+      "num": 224158,
+      "word": "让中国工业母机装上中国芯",
+      "onboard_time": 1772893462,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 16134,
+      "num": 93783,
+      "word": "中国航天这组数字惊喜又提气",
+      "onboard_time": 1772893104,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15488,
+      "num": 243652,
+      "word": "速览民生主题记者会上的惠民清单",
+      "onboard_time": 1772893823,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14837,
       "num": 25339,
       "word": "2026PEL春季赛",
@@ -2777,14 +2913,6 @@
       "onboard_time": 1772865561,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 7987,
-      "num": 124455,
-      "word": "加装电梯后一楼获采光补偿2.1万",
-      "onboard_time": 1772891602,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6477,
@@ -2826,6 +2954,9 @@
     },
     {
       "word": "#总书记同代表们亲切交流#"
+    },
+    {
+      "word": "#充分发挥政治建军特有优势#"
     }
   ]
 }
