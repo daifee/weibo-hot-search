@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772919870911,
+  "endTime": 1772922732542,
   "band_list": [
     {
       "raw_hot": 676139,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69325,
+      "num": 84404,
+      "word": "你好星期六",
+      "onboard_time": 1772887943,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68371,
       "num": 740099,
       "word": "张凌赫的秘密",
@@ -289,14 +297,6 @@
       "onboard_time": 1772898322,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 54250,
-      "num": 84404,
-      "word": "你好星期六",
-      "onboard_time": 1772887943,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 51367,
@@ -491,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16756,
+      "num": 46098,
+      "word": "惊蛰无声",
+      "onboard_time": 1772909836,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 14293,
       "num": 45955,
       "word": "星河入梦票房破亿",
@@ -499,15 +507,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 13608,
-      "num": 46098,
-      "word": "惊蛰无声",
-      "onboard_time": 1772909836,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 10439,
+      "raw_hot": 11207,
       "num": 45852,
       "word": "罗意威新设计师",
       "onboard_time": 1772892384,
