@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772905602652,
+  "endTime": 1772909061459,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -15643,6 +15643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62271,
+      "num": 410531,
+      "word": "蒋胜男建议处罚加班严重企业",
+      "onboard_time": 1772902340,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62201,
       "num": 216501,
       "word": "有了pdd雨林深处也能村口取货",
@@ -16505,14 +16513,6 @@
       "onboard_time": 1772711062,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47486,
-      "num": 410531,
-      "word": "蒋胜男建议处罚加班严重企业",
-      "onboard_time": 1772902340,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47474,
@@ -17553,6 +17553,14 @@
       "onboard_time": 1772851281,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31644,
+      "num": 85125,
+      "word": "你好星期六 逐玉",
+      "onboard_time": 1772907077,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 30849,
