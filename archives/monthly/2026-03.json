@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772893963243,
+  "endTime": 1772894981455,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1219,20 +1219,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 759416,
+      "num": 523922,
+      "word": "伊朗导弹袭击以色列机场",
+      "onboard_time": 1772890103,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 757310,
       "num": 259576,
       "word": "老舅妈嫩娘去世",
       "onboard_time": 1772769442,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 750255,
-      "num": 523922,
-      "word": "伊朗导弹袭击以色列机场",
-      "onboard_time": 1772890103,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 750125,
@@ -2195,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 523613,
+      "num": 523613,
+      "word": "肖战十日终焉灰瞳",
+      "onboard_time": 1772893223,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 522023,
       "num": 756777,
       "word": "推进祖国统一",
@@ -2225,6 +2233,14 @@
       "onboard_time": 1772787501,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 517323,
+      "num": 218182,
+      "word": "杨超越巴黎世家全球首穿",
+      "onboard_time": 1772891422,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 517295,
@@ -2643,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 459525,
+      "num": 459525,
+      "word": "AG战胜WB",
+      "onboard_time": 1772894064,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 459102,
       "num": 459102,
       "word": "王天辰郭晓婷 这样的距离算适当吗",
@@ -2939,14 +2963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 427199,
-      "num": 218182,
-      "word": "杨超越巴黎世家全球首穿",
-      "onboard_time": 1772891422,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 426909,
       "num": 426909,
       "word": "张凌赫感谢惠英红推荐逐玉",
@@ -3028,7 +3044,7 @@
     },
     {
       "raw_hot": 418077,
-      "num": 811126,
+      "num": 1060698,
       "word": "霍启刚回应香港无冰雪发展冰雪经济",
       "onboard_time": 1772889983,
       "rank": 16,
@@ -3643,6 +3659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 370382,
+      "num": 396969,
+      "word": "AG对战WB",
+      "onboard_time": 1772889443,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 365681,
       "num": 185299,
       "word": "沙特阿美避开霍尔木兹海峡运原油",
@@ -4139,6 +4163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 329562,
+      "num": 329562,
+      "word": "女孩贪玩忘事成绩下滑查出罕见病",
+      "onboard_time": 1772892742,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325706,
       "num": 417619,
       "word": "只有胡彦斌记得今天是元宵节",
@@ -4555,14 +4587,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 299342,
-      "num": 396969,
-      "word": "AG对战WB",
-      "onboard_time": 1772889443,
-      "rank": 6,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 299066,
       "num": 400614,
       "word": "凭微信转账记录起诉同学还钱被驳回",
@@ -4737,6 +4761,14 @@
       "onboard_time": 1772513846,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284827,
+      "num": 284827,
+      "word": "奥巴马说在当前的美国很难怀抱希望",
+      "onboard_time": 1772891543,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 284555,
@@ -5299,14 +5331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254106,
-      "num": 254106,
-      "word": "肖战十日终焉灰瞳",
-      "onboard_time": 1772893223,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254073,
       "num": 246044,
       "word": "惠英红也在看逐玉",
@@ -5395,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249863,
+      "num": 562027,
+      "word": "王鹤棣首部电影票房破亿",
+      "onboard_time": 1772889143,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 249480,
       "num": 850197,
       "word": "公务员平替岗挤满没上岸的年轻人",
@@ -5425,14 +5457,6 @@
       "onboard_time": 1772345542,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248642,
-      "num": 562027,
-      "word": "王鹤棣首部电影票房破亿",
-      "onboard_time": 1772889143,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 248415,
@@ -5601,6 +5625,14 @@
       "onboard_time": 1772617583,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237364,
+      "num": 448449,
+      "word": "蝴蝶忍 童琴",
+      "onboard_time": 1772881401,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 237015,
@@ -5873,14 +5905,6 @@
       "onboard_time": 1772633486,
       "rank": 31,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 225387,
-      "num": 225387,
-      "word": "奥巴马说在当前的美国很难怀抱希望",
-      "onboard_time": 1772891543,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 224424,
@@ -6187,14 +6211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213383,
-      "num": 293110,
-      "word": "蝴蝶忍 童琴",
-      "onboard_time": 1772881401,
-      "rank": 25,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 213084,
       "num": 396934,
       "word": "18名中国公民顺利撤离伊朗",
@@ -6241,6 +6257,14 @@
       "onboard_time": 1772433683,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211300,
+      "num": 751179,
+      "word": "3人48小时做出5亿播放量AI短剧",
+      "onboard_time": 1772892562,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211296,
@@ -7169,14 +7193,6 @@
       "onboard_time": 1772532866,
       "rank": 32,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 173547,
-      "num": 220994,
-      "word": "女孩贪玩忘事成绩下滑查出罕见病",
-      "onboard_time": 1772892742,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172748,
@@ -8627,6 +8643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143060,
+      "num": 429038,
+      "word": "邝兆镭中超首秀",
+      "onboard_time": 1772894064,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142945,
       "num": 171353,
       "word": "王安宇出发CELINE大秀",
@@ -8688,14 +8712,6 @@
       "word": "丈夫回应月子期赶走母亲",
       "onboard_time": 1772530766,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142178,
-      "num": 251042,
-      "word": "3人48小时做出5亿播放量AI短剧",
-      "onboard_time": 1772892562,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -9329,6 +9345,14 @@
       "onboard_time": 1772848522,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129868,
+      "num": 129868,
+      "word": "家长称8天假期打印了60多页作业",
+      "onboard_time": 1772891002,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129853,
@@ -11379,14 +11403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102998,
-      "num": 102998,
-      "word": "家长称8天假期打印了60多页作业",
-      "onboard_time": 1772891002,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102982,
       "num": 221537,
       "word": "孙颖莎吐槽鲨鱼游得慢",
@@ -12099,6 +12115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96541,
+      "num": 123996,
+      "word": "金价剧烈波动现在还能上车吗",
+      "onboard_time": 1772894123,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96235,
       "num": 96235,
       "word": "猫生第一次洗澡",
@@ -12132,7 +12156,7 @@
     },
     {
       "raw_hot": 95782,
-      "num": 95782,
+      "num": 122640,
       "word": "手机放大身份证竟藏微缩字母",
       "onboard_time": 1772892143,
       "rank": 41,
@@ -12220,7 +12244,7 @@
     },
     {
       "raw_hot": 94963,
-      "num": 94963,
+      "num": 122122,
       "word": "斗破苍穹",
       "onboard_time": 1772890222,
       "rank": 33,
@@ -12345,6 +12369,14 @@
       "onboard_time": 1772877020,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93574,
+      "num": 223440,
+      "word": "罗意威新设计师",
+      "onboard_time": 1772892384,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 93572,
@@ -12777,6 +12809,14 @@
       "onboard_time": 1772887943,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90608,
+      "num": 122365,
+      "word": "TES主教练道歉",
+      "onboard_time": 1772893644,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 90534,
@@ -13219,14 +13259,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 85710,
-      "num": 223440,
-      "word": "罗意威新设计师",
-      "onboard_time": 1772892384,
-      "rank": 17,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 85596,
       "num": 201672,
       "word": "王楚钦更新训练vlog",
@@ -13241,6 +13273,14 @@
       "onboard_time": 1772839879,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85556,
+      "num": 121445,
+      "word": "爸妈收个礼物全村都知道了",
+      "onboard_time": 1772893163,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85478,
@@ -14339,14 +14379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75252,
-      "num": 93293,
-      "word": "TES主教练道歉",
-      "onboard_time": 1772893644,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 75053,
       "num": 76017,
       "word": "小米全新轻薄笔记本曝光",
@@ -14657,6 +14689,14 @@
       "onboard_time": 1772782221,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 72264,
+      "num": 120525,
+      "word": "CBA全明星周末",
+      "onboard_time": 1772894483,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 72223,
@@ -15049,6 +15089,14 @@
       "onboard_time": 1772790741,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67308,
+      "num": 118780,
+      "word": "提示通过早筛发现常见癌症",
+      "onboard_time": 1772891963,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67290,
@@ -16859,6 +16907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38909,
+      "num": 617171,
+      "word": "两会学习笔记",
+      "onboard_time": 1772893823,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38825,
       "num": 448468,
       "word": "建议80岁以上农民免缴个人医保",
@@ -17515,14 +17571,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27683,
-      "num": 617171,
-      "word": "两会学习笔记",
-      "onboard_time": 1772893823,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27658,
       "num": 54105,
       "word": "江湖夜雨十年灯",
@@ -17761,6 +17809,14 @@
       "onboard_time": 1772301258,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22827,
+      "num": 406862,
+      "word": "速览民生主题记者会上的惠民清单",
+      "onboard_time": 1772893823,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22658,
@@ -18155,11 +18211,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15488,
-      "num": 243652,
-      "word": "速览民生主题记者会上的惠民清单",
-      "onboard_time": 1772893823,
-      "rank": 8,
+      "raw_hot": 15466,
+      "num": 153851,
+      "word": "建议试点建立工时大数据监测平台",
+      "onboard_time": 1772894723,
+      "rank": 22,
       "category": "国内时政"
     },
     {

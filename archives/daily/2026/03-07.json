@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772893963243,
+  "endTime": 1772894981455,
   "band_list": [
     {
       "raw_hot": 1414218,
@@ -59,7 +59,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 750255,
+      "raw_hot": 759416,
       "num": 523922,
       "word": "伊朗导弹袭击以色列机场",
       "onboard_time": 1772890103,
@@ -171,6 +171,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 523613,
+      "num": 523613,
+      "word": "肖战十日终焉灰瞳",
+      "onboard_time": 1772893223,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 517323,
+      "num": 218182,
+      "word": "杨超越巴黎世家全球首穿",
+      "onboard_time": 1772891422,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 504568,
+      "num": 382021,
+      "word": "逐玉热度",
+      "onboard_time": 1772892562,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497654,
       "num": 405308,
       "word": "不会化妆的女生建议反复观看",
@@ -217,6 +241,14 @@
       "onboard_time": 1772847142,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459525,
+      "num": 459525,
+      "word": "AG战胜WB",
+      "onboard_time": 1772894064,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 451508,
@@ -275,14 +307,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 427199,
-      "num": 218182,
-      "word": "杨超越巴黎世家全球首穿",
-      "onboard_time": 1772891422,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 426909,
       "num": 426909,
       "word": "张凌赫感谢惠英红推荐逐玉",
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 418077,
-      "num": 811126,
+      "num": 1060698,
       "word": "霍启刚回应香港无冰雪发展冰雪经济",
       "onboard_time": 1772889983,
       "rank": 16,
@@ -371,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382021,
-      "num": 382021,
-      "word": "逐玉热度",
-      "onboard_time": 1772892562,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 380012,
       "num": 653164,
       "word": "90后单亲妈妈摆地摊起家年赚上千万",
@@ -409,6 +425,14 @@
       "onboard_time": 1772808023,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370382,
+      "num": 396969,
+      "word": "AG对战WB",
+      "onboard_time": 1772889443,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 361397,
@@ -507,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329562,
+      "num": 329562,
+      "word": "女孩贪玩忘事成绩下滑查出罕见病",
+      "onboard_time": 1772892742,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323676,
       "num": 657485,
       "word": "路虎揽胜回应魏建军道歉",
@@ -555,20 +587,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 299342,
-      "num": 396969,
-      "word": "AG对战WB",
-      "onboard_time": 1772889443,
-      "rank": 6,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 288148,
       "num": 374570,
       "word": "吉赛尔缺席aespa澳门演唱会",
       "onboard_time": 1772886681,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 284827,
+      "num": 284827,
+      "word": "奥巴马说在当前的美国很难怀抱希望",
+      "onboard_time": 1772891543,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 282278,
@@ -635,14 +667,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 254106,
-      "num": 254106,
-      "word": "肖战十日终焉灰瞳",
-      "onboard_time": 1772893223,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254073,
       "num": 246044,
       "word": "惠英红也在看逐玉",
@@ -675,7 +699,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 248642,
+      "raw_hot": 249863,
       "num": 562027,
       "word": "王鹤棣首部电影票房破亿",
       "onboard_time": 1772889143,
@@ -715,12 +739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225387,
-      "num": 225387,
-      "word": "奥巴马说在当前的美国很难怀抱希望",
-      "onboard_time": 1772891543,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 237364,
+      "num": 448449,
+      "word": "蝴蝶忍 童琴",
+      "onboard_time": 1772881401,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 224424,
@@ -803,20 +827,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213383,
-      "num": 293110,
-      "word": "蝴蝶忍 童琴",
-      "onboard_time": 1772881401,
-      "rank": 25,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 211861,
       "num": 211861,
       "word": "两口子是在工地认识的吗",
       "onboard_time": 1772859860,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211300,
+      "num": 751179,
+      "word": "3人48小时做出5亿播放量AI短剧",
+      "onboard_time": 1772892562,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208864,
@@ -945,14 +969,6 @@
       "onboard_time": 1772872521,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173547,
-      "num": 220994,
-      "word": "女孩贪玩忘事成绩下滑查出罕见病",
-      "onboard_time": 1772892742,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172760,
@@ -1123,20 +1139,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143060,
+      "num": 429038,
+      "word": "邝兆镭中超首秀",
+      "onboard_time": 1772894064,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142379,
       "num": 142379,
       "word": "以军被指击中伊朗直升机涂鸦",
       "onboard_time": 1772856742,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 142178,
-      "num": 251042,
-      "word": "3人48小时做出5亿播放量AI短剧",
-      "onboard_time": 1772892562,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140801,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1772848522,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129868,
+      "num": 129868,
+      "word": "家长称8天假期打印了60多页作业",
+      "onboard_time": 1772891002,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129735,
@@ -1539,14 +1563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 102998,
-      "num": 102998,
-      "word": "家长称8天假期打印了60多页作业",
-      "onboard_time": 1772891002,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102947,
       "num": 139146,
       "word": "字节腾讯同日抢人",
@@ -1659,6 +1675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97787,
+      "num": 125053,
+      "word": "KPL",
+      "onboard_time": 1772894603,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97158,
       "num": 326835,
       "word": "今年高校毕业生预计1270万人",
@@ -1683,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96541,
+      "num": 123996,
+      "word": "金价剧烈波动现在还能上车吗",
+      "onboard_time": 1772894123,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96021,
       "num": 155933,
       "word": "鹿晗五哈上海录制",
@@ -1700,7 +1732,7 @@
     },
     {
       "raw_hot": 95782,
-      "num": 95782,
+      "num": 122640,
       "word": "手机放大身份证竟藏微缩字母",
       "onboard_time": 1772892143,
       "rank": 41,
@@ -1724,7 +1756,7 @@
     },
     {
       "raw_hot": 94963,
-      "num": 94963,
+      "num": 122122,
       "word": "斗破苍穹",
       "onboard_time": 1772890222,
       "rank": 33,
@@ -1769,6 +1801,14 @@
       "onboard_time": 1772877020,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93574,
+      "num": 223440,
+      "word": "罗意威新设计师",
+      "onboard_time": 1772892384,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 93500,
@@ -1851,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90608,
+      "num": 122365,
+      "word": "TES主教练道歉",
+      "onboard_time": 1772893644,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90331,
       "num": 90331,
       "word": "首批OpenClaw用户开始清醒了",
@@ -1899,20 +1947,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 85710,
-      "num": 223440,
-      "word": "罗意威新设计师",
-      "onboard_time": 1772892384,
-      "rank": 17,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 85596,
       "num": 85596,
       "word": "代表介绍20元人民币背面取景地的转变",
       "onboard_time": 1772839879,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85556,
+      "num": 121445,
+      "word": "爸妈收个礼物全村都知道了",
+      "onboard_time": 1772893163,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85309,
@@ -2131,14 +2179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75252,
-      "num": 93293,
-      "word": "TES主教练道歉",
-      "onboard_time": 1772893644,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 74938,
       "num": 48228,
       "word": "伊朗1吨重弹头导弹打击以色列",
@@ -2195,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72264,
+      "num": 120525,
+      "word": "CBA全明星周末",
+      "onboard_time": 1772894483,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71975,
       "num": 192620,
       "word": "香飘飘投入1000万用于女性经期关爱",
@@ -2249,6 +2297,14 @@
       "onboard_time": 1772889562,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67308,
+      "num": 118780,
+      "word": "提示通过早筛发现常见癌症",
+      "onboard_time": 1772891963,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 66701,
@@ -2691,6 +2747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38909,
+      "num": 617171,
+      "word": "两会学习笔记",
+      "onboard_time": 1772893823,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35785,
       "num": 306833,
       "word": "5500多所医疗机构设健康体重管理门诊",
@@ -2771,14 +2835,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27683,
-      "num": 617171,
-      "word": "两会学习笔记",
-      "onboard_time": 1772893823,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 26442,
       "num": 34392,
       "word": "穆祉丞新歌等待一切重来",
@@ -2825,6 +2881,14 @@
       "onboard_time": 1772893223,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22827,
+      "num": 406862,
+      "word": "速览民生主题记者会上的惠民清单",
+      "onboard_time": 1772893823,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22580,
@@ -2883,11 +2947,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15488,
-      "num": 243652,
-      "word": "速览民生主题记者会上的惠民清单",
-      "onboard_time": 1772893823,
-      "rank": 8,
+      "raw_hot": 15466,
+      "num": 153851,
+      "word": "建议试点建立工时大数据监测平台",
+      "onboard_time": 1772894723,
+      "rank": 22,
       "category": "国内时政"
     },
     {
