@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772909061459,
+  "endTime": 1772909842490,
   "band_list": [
     {
       "raw_hot": 676139,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44403,
+      "num": 85125,
+      "word": "你好星期六 逐玉",
+      "onboard_time": 1772907077,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40926,
       "num": 740379,
       "word": "邝兆镭中超首秀",
@@ -427,14 +435,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31644,
-      "num": 85125,
-      "word": "你好星期六 逐玉",
-      "onboard_time": 1772907077,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 31512,
       "num": 651792,
       "word": "斗破苍穹",
@@ -489,6 +489,14 @@
       "onboard_time": 1772893823,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14293,
+      "num": 34882,
+      "word": "星河入梦票房破亿",
+      "onboard_time": 1772909355,
+      "rank": 47,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
