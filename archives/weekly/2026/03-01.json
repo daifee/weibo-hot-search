@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772880556415,
+  "endTime": 1772882927321,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -2267,6 +2267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 509078,
+      "num": 509078,
+      "word": "TES教练 Naiyou说季后赛输的都是假赛",
+      "onboard_time": 1772881701,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 507910,
       "num": 394289,
       "word": "伊朗局势最新情况",
@@ -3291,6 +3299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 387596,
+      "num": 647250,
+      "word": "陈小春再也没让应采儿上这种节目",
+      "onboard_time": 1772879241,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 387176,
       "num": 232355,
       "word": "方圆鼻子上的疤痕",
@@ -3315,7 +3331,7 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 385077,
+      "raw_hot": 385461,
       "num": 782182,
       "word": "逐玉",
       "onboard_time": 1772372846,
@@ -3473,6 +3489,14 @@
       "onboard_time": 1772714723,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 373597,
+      "num": 373597,
+      "word": "逐玉 田耕纪",
+      "onboard_time": 1772880622,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 373196,
@@ -4841,14 +4865,6 @@
       "onboard_time": 1772753300,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273406,
-      "num": 647250,
-      "word": "陈小春再也没让应采儿上这种节目",
-      "onboard_time": 1772879241,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 273222,
@@ -7635,6 +7651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157557,
+      "num": 428198,
+      "word": "男子养豪猪拔刺一斤能卖400元",
+      "onboard_time": 1772882001,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157365,
       "num": 402894,
       "word": "秦PLUS官宣7年低息夯爆了",
@@ -7945,6 +7969,14 @@
       "onboard_time": 1772354421,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150461,
+      "num": 150461,
+      "word": "倪萍看望渐冻症终末期的蔡磊",
+      "onboard_time": 1772882062,
+      "rank": 23,
+      "category": "艺人,突发/灾害"
     },
     {
       "raw_hot": 150392,
@@ -8849,6 +8881,14 @@
       "onboard_time": 1772788643,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133775,
+      "num": 250125,
+      "word": "教资科三",
+      "onboard_time": 1772879842,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 133652,
@@ -9907,12 +9947,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116594,
+      "num": 650849,
+      "word": "浙产减重药一个疗程平均能瘦15%",
+      "onboard_time": 1772878161,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116534,
       "num": 465311,
       "word": "12306回应男子在高铁车厢吸烟",
       "onboard_time": 1772375966,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116527,
+      "num": 150415,
+      "word": "蝴蝶忍 童琴",
+      "onboard_time": 1772881401,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 116501,
@@ -10004,7 +10060,7 @@
     },
     {
       "raw_hot": 115280,
-      "num": 197223,
+      "num": 246488,
       "word": "在QQ也可以用OpenClaw了",
       "onboard_time": 1772879662,
       "rank": 14,
@@ -11763,14 +11819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96329,
-      "num": 203907,
-      "word": "教资科三",
-      "onboard_time": 1772879842,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 96235,
       "num": 96235,
       "word": "猫生第一次洗澡",
@@ -11987,14 +12035,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 93595,
-      "num": 650849,
-      "word": "浙产减重药一个疗程平均能瘦15%",
-      "onboard_time": 1772878161,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 93572,
       "num": 387749,
       "word": "2025年GDP增长5%",
@@ -12179,6 +12219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 92604,
+      "num": 641052,
+      "word": "没有女生能拒绝这么暖心的地铁标语",
+      "onboard_time": 1772877442,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92503,
       "num": 327794,
       "word": "朴山多拉方否认吸毒",
@@ -12233,14 +12281,6 @@
       "onboard_time": 1772613444,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91951,
-      "num": 641052,
-      "word": "没有女生能拒绝这么暖心的地铁标语",
-      "onboard_time": 1772877442,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 91909,
@@ -13651,6 +13691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77472,
+      "num": 150101,
+      "word": "孙颖莎女性榜样力量",
+      "onboard_time": 1772880862,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77459,
       "num": 116365,
       "word": "中国女足开门红",
@@ -13753,6 +13801,14 @@
       "onboard_time": 1772686164,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 76584,
+      "num": 149661,
+      "word": "王鹤棣牵白鹿手",
+      "onboard_time": 1772880023,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 76576,
@@ -14795,14 +14851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64503,
-      "num": 101751,
-      "word": "王鹤棣牵白鹿手",
-      "onboard_time": 1772880023,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 64417,
       "num": 421478,
       "word": "建议禁止12岁以下坐副驾",
@@ -14936,6 +14984,14 @@
       "word": "郭碧婷刘忻张予曦同台",
       "onboard_time": 1772502447,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 62606,
+      "num": 149965,
+      "word": "路人把中国boy认成杨迪",
+      "onboard_time": 1772880202,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -15267,6 +15323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57498,
+      "num": 149906,
+      "word": "斗罗大陆2动画",
+      "onboard_time": 1772882303,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 57492,
       "num": 200022,
       "word": "上床下桌 mini版loft",
@@ -15385,6 +15449,14 @@
       "onboard_time": 1772838977,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54033,
+      "num": 149757,
+      "word": "蒋胜男谈农村精智障女性被迫婚育",
+      "onboard_time": 1772882842,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53997,
@@ -15507,6 +15579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 52420,
+      "num": 149676,
+      "word": "小狗感受花香萌化了",
+      "onboard_time": 1772882842,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52339,
       "num": 354511,
       "word": "00后收费员嘴在笑眼在笑眉毛也在笑",
@@ -15547,6 +15627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51186,
+      "num": 149563,
+      "word": "AI短剧霍去病凭啥刷屏",
+      "onboard_time": 1772882602,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51027,
       "num": 101452,
       "word": "敏感肌不敢医美怎么办",
@@ -15585,14 +15673,6 @@
       "onboard_time": 1772763082,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 50198,
-      "num": 100842,
-      "word": "路人把中国boy认成杨迪",
-      "onboard_time": 1772880202,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 50048,
@@ -16088,6 +16168,14 @@
       "word": "建议设置孕产妇隐私诊室",
       "onboard_time": 1772792540,
       "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 42371,
+      "num": 298378,
+      "word": "委员建议文旅不要沉迷做网红",
+      "onboard_time": 1772882360,
+      "rank": 8,
       "category": "国内时政"
     },
     {
@@ -17769,6 +17857,14 @@
       "onboard_time": 1772865561,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8257,
+      "num": 284956,
+      "word": "建议带薪年假最长提至20天",
+      "onboard_time": 1772881641,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 7896,

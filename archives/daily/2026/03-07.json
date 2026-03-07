@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772880556415,
+  "endTime": 1772882927321,
   "band_list": [
     {
       "raw_hot": 1414218,
@@ -139,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 509078,
+      "num": 509078,
+      "word": "TES教练 Naiyou说季后赛输的都是假赛",
+      "onboard_time": 1772881701,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 497654,
       "num": 405308,
       "word": "不会化妆的女生建议反复观看",
@@ -275,7 +283,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 385077,
+      "raw_hot": 387596,
+      "num": 647250,
+      "word": "陈小春再也没让应采儿上这种节目",
+      "onboard_time": 1772879241,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 385461,
       "num": 656530,
       "word": "逐玉",
       "onboard_time": 1772860161,
@@ -321,6 +337,14 @@
       "onboard_time": 1772808023,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373597,
+      "num": 373597,
+      "word": "逐玉 田耕纪",
+      "onboard_time": 1772880622,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 361397,
@@ -465,14 +489,6 @@
       "onboard_time": 1772842820,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273406,
-      "num": 647250,
-      "word": "陈小春再也没让应采儿上这种节目",
-      "onboard_time": 1772879241,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 273222,
@@ -819,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157557,
+      "num": 428198,
+      "word": "男子养豪猪拔刺一斤能卖400元",
+      "onboard_time": 1772882001,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156029,
       "num": 156029,
       "word": "水哥一分钟猜出三个人的职业",
@@ -849,6 +873,14 @@
       "onboard_time": 1772873001,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150461,
+      "num": 150461,
+      "word": "倪萍看望渐冻症终末期的蔡磊",
+      "onboard_time": 1772882062,
+      "rank": 23,
+      "category": "艺人,突发/灾害"
     },
     {
       "raw_hot": 147734,
@@ -921,6 +953,14 @@
       "onboard_time": 1772867601,
       "rank": 31,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 133775,
+      "num": 250125,
+      "word": "教资科三",
+      "onboard_time": 1772879842,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 133731,
@@ -1051,6 +1091,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116594,
+      "num": 650849,
+      "word": "浙产减重药一个疗程平均能瘦15%",
+      "onboard_time": 1772878161,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 116527,
+      "num": 150415,
+      "word": "蝴蝶忍 童琴",
+      "onboard_time": 1772881401,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 115625,
       "num": 244852,
       "word": "教育部部长现场感谢1800多万教师",
@@ -1060,7 +1116,7 @@
     },
     {
       "raw_hot": 115280,
-      "num": 197223,
+      "num": 246488,
       "word": "在QQ也可以用OpenClaw了",
       "onboard_time": 1772879662,
       "rank": 14,
@@ -1339,14 +1395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96329,
-      "num": 203907,
-      "word": "教资科三",
-      "onboard_time": 1772879842,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 95895,
       "num": 74475,
       "word": "王一博罗意威大秀内场状态",
@@ -1403,14 +1451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 93595,
-      "num": 650849,
-      "word": "浙产减重药一个疗程平均能瘦15%",
-      "onboard_time": 1772878161,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 93500,
       "num": 93500,
       "word": "Faker直播犯困",
@@ -1435,7 +1475,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91951,
+      "raw_hot": 92604,
       "num": 641052,
       "word": "没有女生能拒绝这么暖心的地铁标语",
       "onboard_time": 1772877442,
@@ -1643,6 +1683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77472,
+      "num": 150101,
+      "word": "孙颖莎女性榜样力量",
+      "onboard_time": 1772880862,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77287,
       "num": 77287,
       "word": "建议未来5年逐渐取消公摊面积",
@@ -1665,6 +1713,14 @@
       "onboard_time": 1772805503,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 76584,
+      "num": 149661,
+      "word": "王鹤棣牵白鹿手",
+      "onboard_time": 1772880023,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 76201,
@@ -1803,14 +1859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64503,
-      "num": 101751,
-      "word": "王鹤棣牵白鹿手",
-      "onboard_time": 1772880023,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 63457,
       "num": 63457,
       "word": "李雪琴给杨紫大冒险突袭",
@@ -1833,6 +1881,14 @@
       "onboard_time": 1772800101,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62606,
+      "num": 149965,
+      "word": "路人把中国boy认成杨迪",
+      "onboard_time": 1772880202,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 62566,
@@ -1971,6 +2027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57498,
+      "num": 149906,
+      "word": "斗罗大陆2动画",
+      "onboard_time": 1772882303,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 56874,
       "num": 640632,
       "word": "何炅把张远远行看成张远远",
@@ -1993,6 +2057,14 @@
       "onboard_time": 1772838977,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54033,
+      "num": 149757,
+      "word": "蒋胜男谈农村精智障女性被迫婚育",
+      "onboard_time": 1772882842,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53943,
@@ -2027,6 +2099,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 52420,
+      "num": 149676,
+      "word": "小狗感受花香萌化了",
+      "onboard_time": 1772882842,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 51186,
+      "num": 149563,
+      "word": "AI短剧霍去病凭啥刷屏",
+      "onboard_time": 1772882602,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51162,
       "num": 136889,
       "word": "破5亿播放AI短剧成本仅3000",
@@ -2041,14 +2129,6 @@
       "onboard_time": 1772863521,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 50198,
-      "num": 100842,
-      "word": "路人把中国boy认成杨迪",
-      "onboard_time": 1772880202,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 49328,
@@ -2121,6 +2201,14 @@
       "onboard_time": 1772815459,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 42371,
+      "num": 298378,
+      "word": "委员建议文旅不要沉迷做网红",
+      "onboard_time": 1772882360,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42183,
@@ -2321,6 +2409,14 @@
       "onboard_time": 1772865561,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8257,
+      "num": 284956,
+      "word": "建议带薪年假最长提至20天",
+      "onboard_time": 1772881641,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 6326,
