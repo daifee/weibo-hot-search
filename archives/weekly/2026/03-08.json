@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772909842490,
+  "endTime": 1772911770710,
   "band_list": [
     {
       "raw_hot": 676139,
@@ -497,6 +497,14 @@
       "onboard_time": 1772909355,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9448,
+      "num": 29262,
+      "word": "罗意威新设计师",
+      "onboard_time": 1772892384,
+      "rank": 49,
+      "category": "时尚"
     }
   ],
   "hotgov_list": [
