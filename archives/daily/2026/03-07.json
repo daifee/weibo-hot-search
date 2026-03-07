@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772862206766,
+  "endTime": 1772863212432,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -51,7 +51,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 645955,
+      "raw_hot": 655484,
       "num": 207864,
       "word": "建议像治理黄色网站治理网盘浏览器",
       "onboard_time": 1772858903,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375301,
+      "num": 203001,
+      "word": "下面用的已经是苹果二十几了",
+      "onboard_time": 1772861302,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 373879,
       "num": 1059820,
       "word": "草莓价格大大大跳水",
@@ -227,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 351703,
+      "num": 200482,
+      "word": "逐玉",
+      "onboard_time": 1772860161,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344036,
       "num": 764625,
       "word": "花呗等网络消费信贷可享受贴息",
@@ -248,14 +264,6 @@
       "word": "内娱吻戏关系网",
       "onboard_time": 1772853081,
       "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 325234,
-      "num": 200482,
-      "word": "逐玉",
-      "onboard_time": 1772860161,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283129,
+      "num": 156091,
+      "word": "刘亦菲8秒换胎",
+      "onboard_time": 1772861661,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282278,
       "num": 172423,
       "word": "伊朗发射超重型导弹为遇难学生复仇",
@@ -313,14 +329,6 @@
       "onboard_time": 1772840299,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 265420,
-      "num": 121599,
-      "word": "下面用的已经是苹果二十几了",
-      "onboard_time": 1772861302,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 257699,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 218629,
-      "num": 218629,
+      "num": 218748,
       "word": "成年男性腰围控制90cm以内女性85以内",
       "onboard_time": 1772856080,
       "rank": 27,
@@ -497,14 +505,6 @@
       "onboard_time": 1772815820,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195432,
-      "num": 156091,
-      "word": "刘亦菲8秒换胎",
-      "onboard_time": 1772861661,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 195018,
@@ -627,12 +627,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 154752,
+      "num": 154752,
+      "word": "两口子是在工地认识的吗",
+      "onboard_time": 1772859860,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 147912,
+      "num": 215537,
+      "word": "路虎揽胜回应魏建军道歉",
+      "onboard_time": 1772862682,
+      "rank": 7,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 147734,
       "num": 147734,
       "word": "ZOO对战北京WBG",
       "onboard_time": 1772862022,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143983,
+      "num": 212143,
+      "word": "杨瀚森21分9篮板",
+      "onboard_time": 1772861422,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 143896,
@@ -659,6 +683,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138156,
+      "num": 138156,
+      "word": "白鹿回应和跑男团关系",
+      "onboard_time": 1772861902,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137555,
+      "num": 137555,
+      "word": "维斯塔潘撞墙",
+      "onboard_time": 1772861122,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133731,
       "num": 183663,
       "word": "广西壮族自治区党委书记陈刚亮家丑",
@@ -673,6 +713,14 @@
       "onboard_time": 1772838616,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130760,
+      "num": 130760,
+      "word": "伊朗7小时5轮导弹射向以色列",
+      "onboard_time": 1772862321,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129934,
@@ -747,14 +795,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 118191,
-      "num": 212143,
-      "word": "杨瀚森21分9篮板",
-      "onboard_time": 1772861422,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115625,
       "num": 244852,
       "word": "教育部部长现场感谢1800多万教师",
@@ -771,8 +811,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112547,
-      "num": 112547,
+      "raw_hot": 113070,
+      "num": 113070,
+      "word": "王传君恶剪了所有人",
+      "onboard_time": 1772862740,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112846,
+      "num": 112846,
       "word": "王楚然偏偏你最争气",
       "onboard_time": 1772859501,
       "rank": 31,
@@ -883,14 +931,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 101186,
-      "num": 101186,
-      "word": "维斯塔潘撞墙",
-      "onboard_time": 1772861122,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100141,
       "num": 138963,
       "word": "曾庆杰 升咖",
@@ -921,14 +961,6 @@
       "onboard_time": 1772839698,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99055,
-      "num": 99055,
-      "word": "两口子是在工地认识的吗",
-      "onboard_time": 1772859860,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 98733,
@@ -1003,6 +1035,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 92948,
+      "num": 92948,
+      "word": "不同公司的妇女节福利",
+      "onboard_time": 1772862983,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91854,
       "num": 91854,
       "word": "Prada2026米兰女装时装秀",
@@ -1043,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83300,
-      "num": 83300,
-      "word": "白鹿回应和跑男团关系",
-      "onboard_time": 1772861902,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 83105,
       "num": 138699,
       "word": "369 小丑了",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1772861601,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81803,
+      "num": 80196,
+      "word": "谁给李昀锐开机现场放毒了",
+      "onboard_time": 1772862983,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 79562,
@@ -1515,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23784,
+      "num": 88618,
+      "word": "逐玉1集初遇4集大婚5集床戏",
+      "onboard_time": 1772854941,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22580,
       "num": 34387,
       "word": "檀健次直播",
@@ -1537,6 +1585,22 @@
       "onboard_time": 1772821155,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 10993,
+      "num": 95536,
+      "word": "商务部部长再说西方不亮东方亮",
+      "onboard_time": 1772863161,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10343,
+      "num": 114588,
+      "word": "5500多所医疗机构设健康体重管理门诊",
+      "onboard_time": 1772863041,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6326,
