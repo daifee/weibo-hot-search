@@ -1,0 +1,410 @@
+{
+  "runTime": 1772898382695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 572314,
+        "num": 1091570,
+        "word": "3人48小时做出5亿播放量AI短剧",
+        "onboard_time": 1772892562,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179776,
+        "num": 801170,
+        "word": "霍启刚回应香港无冰雪发展冰雪经济",
+        "onboard_time": 1772889983,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48524,
+        "num": 652288,
+        "word": "两会学习笔记",
+        "onboard_time": 1772893823,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278127,
+        "num": 649558,
+        "word": "谭松韵演技",
+        "onboard_time": 1772895563,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276878,
+        "num": 645998,
+        "word": "手机放大身份证竟藏微缩字母",
+        "onboard_time": 1772892143,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147003,
+        "num": 642009,
+        "word": "多地实现草莓自由",
+        "onboard_time": 1772895923,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123912,
+        "num": 638953,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1772896163,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 108502,
+        "num": 635221,
+        "word": "田曦薇跳高好有力量美",
+        "onboard_time": 1772898021,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25145,
+        "num": 631028,
+        "word": "速览民生主题记者会上的惠民清单",
+        "onboard_time": 1772893823,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103558,
+        "num": 627111,
+        "word": "邝兆镭中超首秀",
+        "onboard_time": 1772894064,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 625851,
+        "num": 625851,
+        "word": "伊朗导弹袭击以色列机场",
+        "onboard_time": 1772890103,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296798,
+        "num": 625619,
+        "word": "男子丽江旅游中奖1034万",
+        "onboard_time": 1772885962,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232519,
+        "num": 614531,
+        "word": "逐玉",
+        "onboard_time": 1772860161,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228224,
+        "num": 612121,
+        "word": "伊朗总统称不再首先攻击邻国",
+        "onboard_time": 1772871921,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200171,
+        "num": 602797,
+        "word": "奥巴马说在当前的美国很难怀抱希望",
+        "onboard_time": 1772891543,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188633,
+        "num": 593952,
+        "word": "女孩贪玩忘事成绩下滑查出罕见病",
+        "onboard_time": 1772892742,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120110,
+        "num": 592977,
+        "word": "郭晓婷王天辰GLASS",
+        "onboard_time": 1772887103,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113385,
+        "num": 582587,
+        "word": "TES教练 Naiyou说季后赛输的都是假赛",
+        "onboard_time": 1772881701,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107671,
+        "num": 576902,
+        "word": "AG战胜WB",
+        "onboard_time": 1772894064,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62831,
+        "num": 572796,
+        "word": "6年派遣工仍觉自己是职场二等公民",
+        "onboard_time": 1772897362,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567842,
+        "num": 567842,
+        "word": "肖战十日终焉灰瞳",
+        "onboard_time": 1772893223,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351624,
+        "num": 567729,
+        "word": "逐玉热度",
+        "onboard_time": 1772892562,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157184,
+        "num": 567397,
+        "word": "公务员养上政务龙虾了",
+        "onboard_time": 1772889862,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261621,
+        "num": 567180,
+        "word": "杨超越巴黎世家全球首穿",
+        "onboard_time": 1772891422,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60335,
+        "num": 567059,
+        "word": "河南矿山老板妇女节又发钱了",
+        "onboard_time": 1772897122,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130238,
+        "num": 566788,
+        "word": "张凌赫田曦薇对唱",
+        "onboard_time": 1772889323,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124516,
+        "num": 566456,
+        "word": "金价剧烈波动现在还能上车吗",
+        "onboard_time": 1772894123,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109699,
+        "num": 566352,
+        "word": "逐玉 田耕纪",
+        "onboard_time": 1772880622,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108634,
+        "num": 565889,
+        "word": "上海一爆火小吃店煎包5毛胡辣汤3元",
+        "onboard_time": 1772892263,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104760,
+        "num": 565813,
+        "word": "美媒称美国或应为伊朗小学遇袭负责",
+        "onboard_time": 1772888062,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133487,
+        "num": 565492,
+        "word": "人大代表推荐化橘红纳入国礼",
+        "onboard_time": 1772895024,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99621,
+        "num": 565214,
+        "word": "王鹤棣首部电影票房破亿",
+        "onboard_time": 1772889143,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99479,
+        "num": 565064,
+        "word": "倪萍看望渐冻症终末期的蔡磊",
+        "onboard_time": 1772882062,
+        "rank": 32,
+        "category": "艺人,突发/灾害"
+      },
+      {
+        "raw_hot": 83095,
+        "num": 564690,
+        "word": "伊朗驻埃及大使说不会再相信美国",
+        "onboard_time": 1772884222,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97613,
+        "num": 564425,
+        "word": "鲁豫吃了多少盐才能讲出这些话",
+        "onboard_time": 1772875882,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89031,
+        "num": 564204,
+        "word": "逐玉 二人转",
+        "onboard_time": 1772886383,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41465,
+        "num": 563973,
+        "word": "委员说每天应有8小时生活时间",
+        "onboard_time": 1772898322,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86840,
+        "num": 563803,
+        "word": "周深 英文歌",
+        "onboard_time": 1772897782,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85523,
+        "num": 563470,
+        "word": "张凌赫的秘密",
+        "onboard_time": 1772895084,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81774,
+        "num": 563262,
+        "word": "大帅三连MVP",
+        "onboard_time": 1772896103,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76912,
+        "num": 563153,
+        "word": "孩子一出生就自带口粮自带工资",
+        "onboard_time": 1772869102,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81468,
+        "num": 562836,
+        "word": "家长称8天假期打印了60多页作业",
+        "onboard_time": 1772891002,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73300,
+        "num": 562434,
+        "word": "王安宇裴秀智孙千同框",
+        "onboard_time": 1772875522,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72698,
+        "num": 562319,
+        "word": "华春莹在广东团被一棵树吸引了",
+        "onboard_time": 1772897304,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72344,
+        "num": 562064,
+        "word": "罗意威新设计师",
+        "onboard_time": 1772892384,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 70440,
+        "num": 561700,
+        "word": "伊朗不许美以相关船只通过霍尔木兹",
+        "onboard_time": 1772867661,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70204,
+        "num": 561534,
+        "word": "王曼昱诠释女性独立的内生力量",
+        "onboard_time": 1772896284,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69556,
+        "num": 561418,
+        "word": "美以袭击致192名伊朗师生死亡",
+        "onboard_time": 1772890943,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69009,
+        "num": 561098,
+        "word": "加满一箱油预计多花19.5元",
+        "onboard_time": 1772897064,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66666,
+        "num": 560829,
+        "word": "伊拉克记者方浩明成中国准女婿",
+        "onboard_time": 1772884582,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#充分发挥政治建军特有优势#"
+    }
+  }
+}
