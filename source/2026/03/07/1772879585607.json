@@ -1,0 +1,410 @@
+{
+  "runTime": 1772879585607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 375755,
+        "num": 1060120,
+        "word": "孩子一出生就自带口粮自带工资",
+        "onboard_time": 1772869102,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 369199,
+        "num": 784912,
+        "word": "医生建议女性量力而行",
+        "onboard_time": 1772874142,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18819,
+        "num": 709107,
+        "word": "我国义务教育达高收入国家平均水平",
+        "onboard_time": 1772849841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659937,
+        "num": 659937,
+        "word": "鲁豫吃了多少盐才能讲出这些话",
+        "onboard_time": 1772875882,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194569,
+        "num": 659850,
+        "word": "雷军说未来每周或仅需工作3天",
+        "onboard_time": 1772865921,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 309370,
+        "num": 659307,
+        "word": "伊朗不许美以相关船只通过霍尔木兹",
+        "onboard_time": 1772867661,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218890,
+        "num": 658835,
+        "word": "留个学被老师科普了三天中国",
+        "onboard_time": 1772874082,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131322,
+        "num": 658606,
+        "word": "十个勤天到底有多少个群",
+        "onboard_time": 1772874441,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104780,
+        "num": 657799,
+        "word": "逐玉首日云合",
+        "onboard_time": 1772871800,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92658,
+        "num": 657485,
+        "word": "路虎揽胜回应魏建军道歉",
+        "onboard_time": 1772862682,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 874302,
+        "num": 657101,
+        "word": "伊朗总统称不再首先攻击邻国",
+        "onboard_time": 1772871921,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 362495,
+        "num": 656530,
+        "word": "逐玉",
+        "onboard_time": 1772860161,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147748,
+        "num": 656277,
+        "word": "花少神一季鬼一季的定律",
+        "onboard_time": 1772865682,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145442,
+        "num": 655760,
+        "word": "建议像治理黄色网站治理网盘浏览器",
+        "onboard_time": 1772858903,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125737,
+        "num": 655365,
+        "word": "孔雪儿将门独后首套造型",
+        "onboard_time": 1772876362,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111111,
+        "num": 654979,
+        "word": "何广智 名侦探学院是什么单位",
+        "onboard_time": 1772872521,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101712,
+        "num": 654440,
+        "word": "拿得出手却带不出门的徒弟",
+        "onboard_time": 1772873001,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92545,
+        "num": 653977,
+        "word": "伊朗霍尔木兹甘省发生4.3级地震",
+        "onboard_time": 1772868383,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88292,
+        "num": 653547,
+        "word": "教资科二",
+        "onboard_time": 1772867542,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 85333,
+        "num": 653164,
+        "word": "90后单亲妈妈摆地摊起家年赚上千万",
+        "onboard_time": 1772857160,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 836541,
+        "num": 652768,
+        "word": "秦岚在花少头发都没油成这样",
+        "onboard_time": 1772873542,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475534,
+        "num": 652490,
+        "word": "王安宇裴秀智孙千同框",
+        "onboard_time": 1772875522,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255212,
+        "num": 652104,
+        "word": "伊朗宣布关闭股市",
+        "onboard_time": 1772874142,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207236,
+        "num": 651600,
+        "word": "中国的身份证果然高级",
+        "onboard_time": 1772869343,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166197,
+        "num": 651118,
+        "word": "迪拜国际机场紧急疏散旅客",
+        "onboard_time": 1772871921,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83791,
+        "num": 650849,
+        "word": "浙产减重药一个疗程平均能瘦15%",
+        "onboard_time": 1772878161,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144668,
+        "num": 650212,
+        "word": "伊朗7小时5轮导弹射向以色列",
+        "onboard_time": 1772862321,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131524,
+        "num": 649773,
+        "word": "白鹿因为当模特患上风湿病",
+        "onboard_time": 1772859680,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123590,
+        "num": 649201,
+        "word": "王一博拒绝不了攀岩绳",
+        "onboard_time": 1772877622,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85192,
+        "num": 648950,
+        "word": "麦当劳CEO再被网友扒出假吃",
+        "onboard_time": 1772852961,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118038,
+        "num": 648630,
+        "word": "袁姗姗第一章异国千金",
+        "onboard_time": 1772874142,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 114731,
+        "num": 648047,
+        "word": "曝花少8拟邀宁艺卓刘浩存",
+        "onboard_time": 1772875460,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83818,
+        "num": 647641,
+        "word": "JackeyLove的号是买的",
+        "onboard_time": 1772877020,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95872,
+        "num": 647250,
+        "word": "陈小春再也没让应采儿上这种节目",
+        "onboard_time": 1772879241,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85797,
+        "num": 646731,
+        "word": "短剧霸总一件衣服12人穿",
+        "onboard_time": 1772879001,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74862,
+        "num": 646425,
+        "word": "教资",
+        "onboard_time": 1772842340,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84023,
+        "num": 646050,
+        "word": "刘亦菲8秒换胎",
+        "onboard_time": 1772861661,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69297,
+        "num": 645488,
+        "word": "谁敢信这是20块的猫啊",
+        "onboard_time": 1772875281,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64242,
+        "num": 645142,
+        "word": "吃自助烤肉时的几类人",
+        "onboard_time": 1772869881,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63587,
+        "num": 644837,
+        "word": "WBG对战JDG",
+        "onboard_time": 1772874742,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61775,
+        "num": 644208,
+        "word": "猫像喝醉了被鸭子带回家",
+        "onboard_time": 1772879302,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61313,
+        "num": 643693,
+        "word": "山东泰山3比0辽宁铁人",
+        "onboard_time": 1772878461,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61264,
+        "num": 643469,
+        "word": "父亲回应9岁女儿埃及骑马霸气维权",
+        "onboard_time": 1772876660,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61163,
+        "num": 643168,
+        "word": "伊朗总统向邻国表示歉意",
+        "onboard_time": 1772875281,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58817,
+        "num": 642602,
+        "word": "上海申花vs大连英博",
+        "onboard_time": 1772876961,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58622,
+        "num": 642215,
+        "word": "苏翊鸣重返云顶",
+        "onboard_time": 1772879362,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58406,
+        "num": 641825,
+        "word": "2026LPL第一赛段",
+        "onboard_time": 1772878461,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56882,
+        "num": 641052,
+        "word": "没有女生能拒绝这么暖心的地铁标语",
+        "onboard_time": 1772877442,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56874,
+        "num": 640632,
+        "word": "何炅把张远远行看成张远远",
+        "onboard_time": 1772878461,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55454,
+        "num": 640580,
+        "word": "伊朗称尚未大规模使用新型武器",
+        "onboard_time": 1772870782,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
