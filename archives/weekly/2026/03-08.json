@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772911770710,
+  "endTime": 1772912673336,
   "band_list": [
     {
       "raw_hot": 676139,
@@ -496,6 +496,14 @@
       "word": "星河入梦票房破亿",
       "onboard_time": 1772909355,
       "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 13608,
+      "num": 24636,
+      "word": "惊蛰无声",
+      "onboard_time": 1772909836,
+      "rank": 43,
       "category": "电影"
     },
     {

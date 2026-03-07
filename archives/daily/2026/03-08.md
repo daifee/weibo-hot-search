@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/08 00:37:50 ~ 2026/03/08 03:29:30
+本榜单时间：2026/03/08 00:37:50 ~ 2026/03/08 03:44:33
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@ WBG无缘先锋赛（热度：19496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E6%B2%B3%E5%85%A5%E6%A2%A6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF%23" target="weibo">
 星河入梦票房破亿（热度：14293）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%23" target="weibo">
+惊蛰无声（热度：13608）
 </a>
 </li>
 
