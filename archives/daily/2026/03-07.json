@@ -1,6 +1,6 @@
 {
   "startTime": 1772812883497,
-  "endTime": 1772869004148,
+  "endTime": 1772869782302,
   "band_list": [
     {
       "raw_hot": 1269715,
@@ -67,7 +67,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 634395,
+      "raw_hot": 638348,
       "num": 296408,
       "word": "花少神一季鬼一季的定律",
       "onboard_time": 1772865682,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 535289,
+      "num": 1085646,
+      "word": "雷军说未来每周或仅需工作3天",
+      "onboard_time": 1772865921,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 497654,
       "num": 405308,
       "word": "不会化妆的女生建议反复观看",
@@ -113,6 +121,14 @@
       "onboard_time": 1772859680,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475765,
+      "num": 238754,
+      "word": "伊朗不许美以相关船只通过霍尔木兹",
+      "onboard_time": 1772867661,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 467215,
@@ -203,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 401556,
-      "num": 798595,
-      "word": "雷军说未来每周或仅需工作3天",
-      "onboard_time": 1772865921,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 392728,
       "num": 250125,
       "word": "花儿与少年8",
@@ -281,14 +289,6 @@
       "onboard_time": 1772861661,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 355215,
-      "num": 233296,
-      "word": "伊朗不许美以相关船只通过霍尔木兹",
-      "onboard_time": 1772867661,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 353891,
@@ -675,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162110,
+      "num": 162110,
+      "word": "伊朗霍尔木兹甘省发生4.3级地震",
+      "onboard_time": 1772868383,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156029,
       "num": 156029,
       "word": "水哥一分钟猜出三个人的职业",
@@ -699,20 +707,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 150287,
+      "num": 150287,
+      "word": "工作脑vs事业脑",
+      "onboard_time": 1772867542,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147734,
       "num": 147734,
       "word": "ZOO对战北京WBG",
       "onboard_time": 1772862022,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 145473,
-      "num": 138823,
-      "word": "工作脑vs事业脑",
-      "onboard_time": 1772867542,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 143983,
@@ -729,6 +737,14 @@
       "onboard_time": 1772853262,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143490,
+      "num": 114462,
+      "word": "中国的身份证果然高级",
+      "onboard_time": 1772869343,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142379,
@@ -769,6 +785,14 @@
       "onboard_time": 1772866761,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 134475,
+      "num": 134475,
+      "word": "JackeyLove回应退役",
+      "onboard_time": 1772867601,
+      "rank": 31,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 133731,
@@ -851,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120921,
+      "num": 269569,
+      "word": "身份证上这些彩蛋你看到了吗",
+      "onboard_time": 1772867000,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119395,
       "num": 222317,
       "word": "六大未来产业有哪些",
@@ -867,12 +899,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114547,
+      "num": 114547,
+      "word": "老年人追星的痛",
+      "onboard_time": 1772864781,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114396,
       "num": 139275,
       "word": "最强大脑主理人谈判掀桌",
       "onboard_time": 1772810123,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113757,
+      "num": 113757,
+      "word": "杨幂杀青出发回国",
+      "onboard_time": 1772867661,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113384,
+      "num": 113384,
+      "word": "孩子一出生就自带口粮自带工资",
+      "onboard_time": 1772869102,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112846,
@@ -899,12 +955,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 110185,
-      "num": 269569,
-      "word": "身份证上这些彩蛋你看到了吗",
-      "onboard_time": 1772867000,
+      "raw_hot": 109583,
+      "num": 109583,
+      "word": "金饰克价涨到1607元",
+      "onboard_time": 1772868081,
       "rank": 29,
-      "category": "国内时政"
+      "category": "财经"
     },
     {
       "raw_hot": 109393,
@@ -947,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106244,
-      "num": 106244,
-      "word": "金饰克价涨到1607元",
-      "onboard_time": 1772868081,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 104614,
       "num": 104614,
       "word": "居然在熊出没看到了真正的大女主",
@@ -977,22 +1025,6 @@
       "onboard_time": 1772786962,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 103382,
-      "num": 109196,
-      "word": "老年人追星的痛",
-      "onboard_time": 1772864781,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 103014,
-      "num": 103014,
-      "word": "JackeyLove回应退役",
-      "onboard_time": 1772867601,
-      "rank": 31,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 102947,
@@ -1123,20 +1155,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 95721,
-      "num": 95721,
-      "word": "伊朗霍尔木兹甘省发生4.3级地震",
-      "onboard_time": 1772868383,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 95059,
       "num": 95059,
       "word": "男队依然需要樊振东这样的定海神针",
       "onboard_time": 1772861241,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94998,
+      "num": 292359,
+      "word": "委员称想你的风该换换文案了",
+      "onboard_time": 1772867421,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 94854,
@@ -1147,20 +1179,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94180,
+      "num": 94180,
+      "word": "男生腰椎间盘突出医生让他跳社会摇",
+      "onboard_time": 1772866522,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93772,
       "num": 93772,
       "word": "医生回应女子泡脚3个月皮肤变色",
       "onboard_time": 1772852901,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93747,
-      "num": 93747,
-      "word": "杨幂杀青出发回国",
-      "onboard_time": 1772867661,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 93500,
@@ -1227,20 +1259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87614,
-      "num": 87614,
-      "word": "男生腰椎间盘突出医生让他跳社会摇",
-      "onboard_time": 1772866522,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 87072,
-      "num": 292359,
-      "word": "委员称想你的风该换换文案了",
-      "onboard_time": 1772867421,
-      "rank": 7,
-      "category": "国内时政"
+      "raw_hot": 86448,
+      "num": 86747,
+      "word": "秦岚事事有回应",
+      "onboard_time": 1772868983,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 85596,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1772839879,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 84866,
+      "num": 84866,
+      "word": "张凌赫给田曦薇把脉",
+      "onboard_time": 1772868022,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 83405,
@@ -1280,14 +1312,6 @@
       "word": "谁给李昀锐开机现场放毒了",
       "onboard_time": 1772862983,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 80144,
-      "num": 84145,
-      "word": "张凌赫给田曦薇把脉",
-      "onboard_time": 1772868022,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1539,6 +1563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 57809,
+      "num": 84853,
+      "word": "TES对战TTG",
+      "onboard_time": 1772869701,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56468,
       "num": 137239,
       "word": "美以袭击已致1332名伊朗人死亡",
@@ -1627,14 +1659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48807,
-      "num": 86747,
-      "word": "秦岚事事有回应",
-      "onboard_time": 1772868983,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 48156,
       "num": 245470,
       "word": "台湾省全国人大代表畅想祖国统一",
@@ -1707,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37538,
+      "num": 235940,
+      "word": "霍启刚建议降低中等收入群体税率",
+      "onboard_time": 1772868983,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35785,
       "num": 306833,
       "word": "5500多所医疗机构设健康体重管理门诊",
@@ -1772,7 +1804,7 @@
     },
     {
       "raw_hot": 29126,
-      "num": 619474,
+      "num": 630627,
       "word": "3月7日两会日程",
       "onboard_time": 1772838616,
       "rank": 9,
@@ -1793,6 +1825,14 @@
       "onboard_time": 1772823195,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25241,
+      "num": 160255,
+      "word": "建议增设班级行政助理岗位",
+      "onboard_time": 1772868741,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23784,
@@ -1835,22 +1875,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 9883,
-      "num": 84267,
-      "word": "霍启刚建议降低中等收入群体税率",
-      "onboard_time": 1772868983,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 9238,
-      "num": 159797,
-      "word": "建议增设班级行政助理岗位",
-      "onboard_time": 1772868741,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 8806,
       "num": 192814,
       "word": "建议开展反家暴法全国执法检查",
@@ -1867,7 +1891,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2565,
+      "raw_hot": 3506,
       "num": 272990,
       "word": "未来5年这些前沿科技创新值得期待",
       "onboard_time": 1772807064,
