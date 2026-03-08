@@ -1,0 +1,410 @@
+{
+  "runTime": 1772949860239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 122996,
+        "num": 1019679,
+        "word": "外交部长王毅答记者问",
+        "onboard_time": 1772934981,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103619,
+        "num": 748482,
+        "word": "世界乱象丛生祖国稳如泰山",
+        "onboard_time": 1772939242,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29774,
+        "num": 571912,
+        "word": "奋进十五五AI超燃大片",
+        "onboard_time": 1772939780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272571,
+        "num": 272571,
+        "word": "台湾绝无可能成为国家",
+        "onboard_time": 1772942422,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91084,
+        "num": 266651,
+        "word": "王毅谈伊朗局势",
+        "onboard_time": 1772941041,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263802,
+        "num": 263802,
+        "word": "妇女节",
+        "onboard_time": 1772924956,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219671,
+        "num": 219671,
+        "word": "华春莹一口气吃了两颗化橘红",
+        "onboard_time": 1772941762,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209189,
+        "num": 209189,
+        "word": "霍去病导演澄清3000元制作80集",
+        "onboard_time": 1772943441,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49576,
+        "num": 190899,
+        "word": "未来5年这些民生举措事关你我",
+        "onboard_time": 1772939780,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190894,
+        "num": 190894,
+        "word": "F1",
+        "onboard_time": 1772942961,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428800,
+        "num": 187228,
+        "word": "田曦薇趴在张凌赫身上亲",
+        "onboard_time": 1772948120,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238467,
+        "num": 184607,
+        "word": "狗 我就是咪咪啊",
+        "onboard_time": 1772944401,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180204,
+        "num": 180204,
+        "word": "迪拜黄金打折售卖",
+        "onboard_time": 1772943139,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149499,
+        "num": 179841,
+        "word": "多方回应深圳公务员组团养政务龙虾",
+        "onboard_time": 1772941401,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144062,
+        "num": 178797,
+        "word": "妇女节快乐",
+        "onboard_time": 1772932700,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141707,
+        "num": 177157,
+        "word": "云南蓝莓",
+        "onboard_time": 1772941642,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125597,
+        "num": 176478,
+        "word": "AI龙虾到底能干什么",
+        "onboard_time": 1772949500,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120621,
+        "num": 175842,
+        "word": "安装OpenClaw价格",
+        "onboard_time": 1772948901,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111444,
+        "num": 174283,
+        "word": "为了哄老己上班有多舍得花钱",
+        "onboard_time": 1772946740,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100060,
+        "num": 173512,
+        "word": "养龙虾为什么爆火",
+        "onboard_time": 1772937801,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 634842,
+        "num": 172349,
+        "word": "张凌赫田曦薇下意识的牵手",
+        "onboard_time": 1772937623,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320309,
+        "num": 170944,
+        "word": "惠英红 是妇女节快乐",
+        "onboard_time": 1772946381,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299365,
+        "num": 170567,
+        "word": "女孩患癌复查结果不好妈妈骗她及格了",
+        "onboard_time": 1772948120,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261052,
+        "num": 168641,
+        "word": "逐玉",
+        "onboard_time": 1772934860,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168518,
+        "num": 168518,
+        "word": "网友上门安装小龙虾几天赚26万",
+        "onboard_time": 1772940079,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132136,
+        "num": 168512,
+        "word": "70岁网瘾老人刷手机近视2300度",
+        "onboard_time": 1772946321,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119481,
+        "num": 168438,
+        "word": "汪苏泷纽约上座率",
+        "onboard_time": 1772940922,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97755,
+        "num": 168417,
+        "word": "杨紫左手牵娃右手抱娃",
+        "onboard_time": 1772948780,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73602,
+        "num": 168374,
+        "word": "低食量女生的一顿饭",
+        "onboard_time": 1772937261,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91461,
+        "num": 168292,
+        "word": "玉兰花开君再来",
+        "onboard_time": 1772938039,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89998,
+        "num": 168265,
+        "word": "王赫野周震南这主意到底谁出的",
+        "onboard_time": 1772948420,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73222,
+        "num": 168231,
+        "word": "伊朗称以色列试图构建人盾",
+        "onboard_time": 1772929040,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71944,
+        "num": 168179,
+        "word": "十日终焉",
+        "onboard_time": 1772929160,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71636,
+        "num": 168125,
+        "word": "谷爱凌和妈妈一起出席活动",
+        "onboard_time": 1772944281,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68431,
+        "num": 168075,
+        "word": "一个宠妻上头一个浪漫过敏",
+        "onboard_time": 1772946801,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67791,
+        "num": 168049,
+        "word": "嘻哈 我感谢那些女士",
+        "onboard_time": 1772949381,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67238,
+        "num": 168001,
+        "word": "拉塞尔夺F1揭幕战冠军",
+        "onboard_time": 1772948961,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66653,
+        "num": 167949,
+        "word": "硬糖少女偷偶像练习生的鱼",
+        "onboard_time": 1772937801,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64489,
+        "num": 167924,
+        "word": "别被巴黎世家看到了",
+        "onboard_time": 1772948481,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61175,
+        "num": 167844,
+        "word": "AI龙虾存在多重安全隐患",
+        "onboard_time": 1772949140,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 615669,
+        "num": 167805,
+        "word": "马化腾说没想到养龙虾这么火",
+        "onboard_time": 1772944101,
+        "rank": 40,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 36705,
+        "num": 167767,
+        "word": "日本没资格插手台湾事务",
+        "onboard_time": 1772940381,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60715,
+        "num": 167710,
+        "word": "杨紫玉兰花开君再来大婚造型",
+        "onboard_time": 1772946982,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60017,
+        "num": 167698,
+        "word": "黄子韬曾经是张艺凡导师",
+        "onboard_time": 1772939660,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59313,
+        "num": 167617,
+        "word": "伊朗大规模无人机攻击美以",
+        "onboard_time": 1772927657,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58955,
+        "num": 167593,
+        "word": "两会",
+        "onboard_time": 1772936240,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55355,
+        "num": 167544,
+        "word": "库里说天天想吃中国的火锅小龙虾",
+        "onboard_time": 1772941880,
+        "rank": 46,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 53747,
+        "num": 167494,
+        "word": "卢昱晓跳Zoo",
+        "onboard_time": 1772936000,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52515,
+        "num": 167452,
+        "word": "王毅答记者问",
+        "onboard_time": 1772949740,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58012,
+        "num": 167408,
+        "word": "白鹿张艺凡内娱最爱笑的俩聚一起了",
+        "onboard_time": 1772947641,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再部署加快建设健康中国#"
+    }
+  }
+}
