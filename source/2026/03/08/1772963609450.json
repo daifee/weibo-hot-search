@@ -1,0 +1,410 @@
+{
+  "runTime": 1772963609450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 550914,
+        "num": 1088146,
+        "word": "王毅回应两岸统一时间表",
+        "onboard_time": 1772955800,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176251,
+        "num": 813270,
+        "word": "华春莹一口气吃了两颗化橘红",
+        "onboard_time": 1772941762,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35336,
+        "num": 635316,
+        "word": "世界乱象丛生祖国稳如泰山",
+        "onboard_time": 1772939242,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 294574,
+        "num": 458472,
+        "word": "人脸验证时千万记得穿衣服",
+        "onboard_time": 1772959220,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262393,
+        "num": 320614,
+        "word": "马来西亚通报MH370搜寻最新进展",
+        "onboard_time": 1772954360,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 787693,
+        "num": 319092,
+        "word": "伊朗亮底线",
+        "onboard_time": 1772951001,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301353,
+        "num": 301353,
+        "word": "微波炉泡面",
+        "onboard_time": 1772958681,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 30702,
+        "num": 295027,
+        "word": "工信部提示OpenClaw安全隐患",
+        "onboard_time": 1772963181,
+        "rank": 7,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 47410,
+        "num": 286434,
+        "word": "中国人有天下为公的格局",
+        "onboard_time": 1772959281,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71426,
+        "num": 278238,
+        "word": "建议减少中小学学科数量",
+        "onboard_time": 1772949859,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 393674,
+        "num": 269474,
+        "word": "伊朗选出新最高领袖",
+        "onboard_time": 1772952140,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265093,
+        "num": 265093,
+        "word": "王楚钦我是第一个来的",
+        "onboard_time": 1772959880,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232359,
+        "num": 232359,
+        "word": "张凌赫晒谢征日常",
+        "onboard_time": 1772960301,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178416,
+        "num": 178416,
+        "word": "霍去病团队近20人非3人",
+        "onboard_time": 1772954300,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134222,
+        "num": 134222,
+        "word": "108公斤27岁女生花1年减掉108斤",
+        "onboard_time": 1772954720,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129473,
+        "num": 129473,
+        "word": "妇女节",
+        "onboard_time": 1772924956,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119457,
+        "num": 119457,
+        "word": "AI龙虾爆火工信部发布高危风险预警",
+        "onboard_time": 1772961739,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129444,
+        "num": 117907,
+        "word": "逐玉云合翻倍",
+        "onboard_time": 1772957720,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112960,
+        "num": 112960,
+        "word": "全泰国最虔诚的鸭子",
+        "onboard_time": 1772959820,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34100,
+        "num": 105062,
+        "word": "38节女明星红包团建",
+        "onboard_time": 1772960720,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366234,
+        "num": 104605,
+        "word": "伊朗宣布将采用全新攻击方式",
+        "onboard_time": 1772961261,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220227,
+        "num": 104466,
+        "word": "逐玉",
+        "onboard_time": 1772934860,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103760,
+        "num": 103760,
+        "word": "妇女节 卫生巾半价",
+        "onboard_time": 1772952502,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142588,
+        "num": 100381,
+        "word": "张凌赫田曦薇下意识的牵手",
+        "onboard_time": 1772937623,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108753,
+        "num": 99066,
+        "word": "惠英红 是妇女节快乐",
+        "onboard_time": 1772946381,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93871,
+        "num": 93871,
+        "word": "女子糖尿病不忌口8年变尿毒症",
+        "onboard_time": 1772963421,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86129,
+        "num": 93849,
+        "word": "养胡萝卜",
+        "onboard_time": 1772960120,
+        "rank": 26,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 82584,
+        "num": 93818,
+        "word": "妇女节红包",
+        "onboard_time": 1772953220,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83791,
+        "num": 93762,
+        "word": "张凯丽 网红能当一辈子吗",
+        "onboard_time": 1772951780,
+        "rank": 28,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 75071,
+        "num": 93687,
+        "word": "没有任何一个决定会毁了你的一生",
+        "onboard_time": 1772953400,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118008,
+        "num": 93678,
+        "word": "桃黑黑抽奖",
+        "onboard_time": 1772963061,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 85449,
+        "num": 93636,
+        "word": "伊朗说将推动美国完全撤出中东",
+        "onboard_time": 1772962340,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74957,
+        "num": 93561,
+        "word": "代表建议把物业管理改为物业服务",
+        "onboard_time": 1772957061,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80946,
+        "num": 93543,
+        "word": "氧化菊回应被央视用作妇女节封面",
+        "onboard_time": 1772963481,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70545,
+        "num": 93473,
+        "word": "田曦薇演技好灵",
+        "onboard_time": 1772955440,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70368,
+        "num": 93433,
+        "word": "迪拜黄金打折售卖",
+        "onboard_time": 1772943139,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69613,
+        "num": 93387,
+        "word": "岳雨婷看秀待遇",
+        "onboard_time": 1772954120,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68108,
+        "num": 93322,
+        "word": "在北京穿了将近半年的羽绒服",
+        "onboard_time": 1772963540,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66554,
+        "num": 93277,
+        "word": "红烧排骨烧的是李飞的脊椎",
+        "onboard_time": 1772957840,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63563,
+        "num": 93252,
+        "word": "油价创数十年来最大单周涨幅",
+        "onboard_time": 1772962580,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48755,
+        "num": 93211,
+        "word": "建议加强老年群体艾滋病防治",
+        "onboard_time": 1772961980,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62304,
+        "num": 93154,
+        "word": "普通人需要养龙虾吗",
+        "onboard_time": 1772962461,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 62009,
+        "num": 93117,
+        "word": "杨紫左手牵娃右手抱娃",
+        "onboard_time": 1772948780,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61197,
+        "num": 93034,
+        "word": "70岁网瘾老人刷手机近视2300度",
+        "onboard_time": 1772946321,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61114,
+        "num": 93014,
+        "word": "猫 在哪里打呵欠就在哪里磨牙",
+        "onboard_time": 1772962640,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59038,
+        "num": 92965,
+        "word": "BLG对战JDG",
+        "onboard_time": 1772959820,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59362,
+        "num": 92914,
+        "word": "周鸿祎称将发行一键安装的龙虾",
+        "onboard_time": 1772962401,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 57055,
+        "num": 92888,
+        "word": "当你觉得自己乱花钱的时候可以来看",
+        "onboard_time": 1772961200,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56328,
+        "num": 92812,
+        "word": "年锦好强",
+        "onboard_time": 1772963540,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53202,
+        "num": 92799,
+        "word": "智力已达人类低谷",
+        "onboard_time": 1772959101,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和政协委员共绘民生蓝图#"
+    }
+  }
+}

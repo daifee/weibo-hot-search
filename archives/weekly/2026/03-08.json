@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772962704034,
+  "endTime": 1772963609450,
   "band_list": [
     {
       "raw_hot": 1538769,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366234,
+      "num": 108596,
+      "word": "伊朗宣布将采用全新攻击方式",
+      "onboard_time": 1772961261,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 363267,
       "num": 298517,
       "word": "网友上门安装小龙虾几天赚26万",
@@ -219,6 +227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 294574,
+      "num": 458472,
+      "word": "人脸验证时千万记得穿衣服",
+      "onboard_time": 1772959220,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292365,
       "num": 739990,
       "word": "谭松韵演技",
@@ -249,14 +265,6 @@
       "onboard_time": 1772959880,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 275880,
-      "num": 340917,
-      "word": "人脸验证时千万记得穿衣服",
-      "onboard_time": 1772959220,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271821,
@@ -297,14 +305,6 @@
       "onboard_time": 1772932700,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259107,
-      "num": 108596,
-      "word": "伊朗宣布将采用全新攻击方式",
-      "onboard_time": 1772961261,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 255557,
@@ -691,12 +691,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 119457,
+      "num": 119457,
+      "word": "AI龙虾爆火工信部发布高危风险预警",
+      "onboard_time": 1772961739,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 119208,
       "num": 740533,
       "word": "周深 英文歌",
       "onboard_time": 1772897782,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118008,
+      "num": 93678,
+      "word": "桃黑黑抽奖",
+      "onboard_time": 1772963061,
+      "rank": 30,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 117855,
@@ -745,14 +761,6 @@
       "onboard_time": 1772949381,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106242,
-      "num": 98181,
-      "word": "AI龙虾爆火工信部发布高危风险预警",
-      "onboard_time": 1772961739,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 105174,
@@ -915,6 +923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93871,
+      "num": 93871,
+      "word": "女子糖尿病不忌口8年变尿毒症",
+      "onboard_time": 1772963421,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93306,
       "num": 157660,
       "word": "田曦薇演技好灵",
@@ -1027,12 +1043,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 86129,
+      "num": 98157,
+      "word": "养胡萝卜",
+      "onboard_time": 1772960120,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 85901,
       "num": 85901,
       "word": "阿姨打车误点代驾执意要补偿",
       "onboard_time": 1772932823,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85449,
+      "num": 98139,
+      "word": "伊朗说将推动美国完全撤出中东",
+      "onboard_time": 1772962340,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84693,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1772937560,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80946,
+      "num": 93543,
+      "word": "氧化菊回应被央视用作妇女节封面",
+      "onboard_time": 1772963481,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80190,
@@ -1347,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68108,
+      "num": 93322,
+      "word": "在北京穿了将近半年的羽绒服",
+      "onboard_time": 1772963540,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67238,
       "num": 296601,
       "word": "拉塞尔夺F1揭幕战冠军",
@@ -1379,6 +1427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66554,
+      "num": 98149,
+      "word": "红烧排骨烧的是李飞的脊椎",
+      "onboard_time": 1772957840,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66284,
       "num": 157951,
       "word": "如何避免OpenClaw使用风险",
@@ -1401,22 +1457,6 @@
       "onboard_time": 1772952261,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65120,
-      "num": 98157,
-      "word": "养胡萝卜",
-      "onboard_time": 1772960120,
-      "rank": 47,
-      "category": "休闲"
-    },
-    {
-      "raw_hot": 64893,
-      "num": 98149,
-      "word": "红烧排骨烧的是李飞的脊椎",
-      "onboard_time": 1772957840,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 64489,
@@ -1449,6 +1489,14 @@
       "onboard_time": 1772938940,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63563,
+      "num": 98117,
+      "word": "油价创数十年来最大单周涨幅",
+      "onboard_time": 1772962580,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 63434,
@@ -1491,6 +1539,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 62304,
+      "num": 98142,
+      "word": "普通人需要养龙虾吗",
+      "onboard_time": 1772962461,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62271,
       "num": 410531,
       "word": "蒋胜男建议处罚加班严重企业",
@@ -1515,12 +1571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 60714,
-      "num": 98142,
-      "word": "普通人需要养龙虾吗",
-      "onboard_time": 1772962461,
-      "rank": 37,
-      "category": "互联网"
+      "raw_hot": 61114,
+      "num": 98084,
+      "word": "猫 在哪里打呵欠就在哪里磨牙",
+      "onboard_time": 1772962640,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 60295,
@@ -1563,14 +1619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 58463,
-      "num": 98139,
-      "word": "伊朗说将推动美国完全撤出中东",
-      "onboard_time": 1772962340,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 58121,
       "num": 236736,
       "word": "王毅向女同胞致以节日祝福",
@@ -1587,20 +1635,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 57315,
-      "num": 98117,
-      "word": "油价创数十年来最大单周涨幅",
-      "onboard_time": 1772962580,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 56985,
       "num": 157765,
       "word": "两大芯片巨头为何带崩韩国股市",
       "onboard_time": 1772954781,
       "rank": 46,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 56328,
+      "num": 92812,
+      "word": "年锦好强",
+      "onboard_time": 1772963540,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 54935,
@@ -1651,14 +1699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51871,
-      "num": 98084,
-      "word": "猫 在哪里打呵欠就在哪里磨牙",
-      "onboard_time": 1772962640,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 51367,
       "num": 740027,
       "word": "AG战胜WB",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1772927058,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48755,
+      "num": 310153,
+      "word": "建议加强老年群体艾滋病防治",
+      "onboard_time": 1772961980,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48670,
@@ -1955,6 +2003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30702,
+      "num": 295027,
+      "word": "工信部提示OpenClaw安全隐患",
+      "onboard_time": 1772963181,
+      "rank": 7,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 27152,
       "num": 199708,
       "word": "建议给大龄农民工提供培训就业",
@@ -2033,14 +2089,6 @@
       "onboard_time": 1772905398,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 19313,
-      "num": 310153,
-      "word": "建议加强老年群体艾滋病防治",
-      "onboard_time": 1772961980,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17629,
