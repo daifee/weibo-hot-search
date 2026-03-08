@@ -1,0 +1,410 @@
+{
+  "runTime": 1772960163750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 701876,
+        "num": 1112300,
+        "word": "王毅回应两岸统一时间表",
+        "onboard_time": 1772955800,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167527,
+        "num": 793112,
+        "word": "华春莹一口气吃了两颗化橘红",
+        "onboard_time": 1772941762,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27070,
+        "num": 638348,
+        "word": "世界乱象丛生祖国稳如泰山",
+        "onboard_time": 1772939242,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 446255,
+        "num": 446255,
+        "word": "马来西亚通报MH370搜寻最新进展",
+        "onboard_time": 1772954360,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167465,
+        "num": 167465,
+        "word": "霍去病团队近20人非3人",
+        "onboard_time": 1772954300,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 912641,
+        "num": 166660,
+        "word": "伊朗亮底线",
+        "onboard_time": 1772951001,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162948,
+        "num": 162948,
+        "word": "妇女节",
+        "onboard_time": 1772924956,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90562,
+        "num": 162207,
+        "word": "BLG对战JDG",
+        "onboard_time": 1772959820,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24711,
+        "num": 161225,
+        "word": "中国人有天下为公的格局",
+        "onboard_time": 1772959281,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76708,
+        "num": 159780,
+        "word": "建议减少中小学学科数量",
+        "onboard_time": 1772949859,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 534132,
+        "num": 158652,
+        "word": "伊朗选出新最高领袖",
+        "onboard_time": 1772952140,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268345,
+        "num": 156732,
+        "word": "108公斤27岁女生花1年减掉108斤",
+        "onboard_time": 1772954720,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216431,
+        "num": 156497,
+        "word": "逐玉云合翻倍",
+        "onboard_time": 1772957720,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155225,
+        "num": 155225,
+        "word": "妇女节 卫生巾半价",
+        "onboard_time": 1772952502,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17526,
+        "num": 151017,
+        "word": "春天的第一场雨是红包雨",
+        "onboard_time": 1772956881,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147585,
+        "num": 147585,
+        "word": "张凯丽 网红能当一辈子吗",
+        "onboard_time": 1772951780,
+        "rank": 15,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 133693,
+        "num": 133693,
+        "word": "妇女节红包",
+        "onboard_time": 1772953220,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129693,
+        "num": 129693,
+        "word": "没有任何一个决定会毁了你的一生",
+        "onboard_time": 1772953400,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120506,
+        "num": 120506,
+        "word": "代表建议把物业管理改为物业服务",
+        "onboard_time": 1772957061,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23610,
+        "num": 114024,
+        "word": "她在自己的时区里发光",
+        "onboard_time": 1772958260,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 249481,
+        "num": 113950,
+        "word": "逐玉",
+        "onboard_time": 1772934860,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219907,
+        "num": 113858,
+        "word": "张凌赫田曦薇下意识的牵手",
+        "onboard_time": 1772937623,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113672,
+        "num": 113672,
+        "word": "人脸验证时千万记得穿衣服",
+        "onboard_time": 1772959220,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83359,
+        "num": 101821,
+        "word": "DeepSeek建议普通用户养虾前先观望",
+        "onboard_time": 1772957361,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114709,
+        "num": 98082,
+        "word": "惠英红 是妇女节快乐",
+        "onboard_time": 1772946381,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92510,
+        "num": 92510,
+        "word": "GW对战Gr",
+        "onboard_time": 1772954300,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92935,
+        "num": 91475,
+        "word": "田曦薇演技好灵",
+        "onboard_time": 1772955440,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89543,
+        "num": 89543,
+        "word": "WTT重庆冠军赛抽签结果来了",
+        "onboard_time": 1772957120,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86425,
+        "num": 86425,
+        "word": "女孩患癌复查结果不好妈妈骗她及格了",
+        "onboard_time": 1772948120,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85898,
+        "num": 85898,
+        "word": "岳雨婷看秀待遇",
+        "onboard_time": 1772954120,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116877,
+        "num": 85897,
+        "word": "王楚钦我是第一个来的",
+        "onboard_time": 1772959880,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84590,
+        "num": 85895,
+        "word": "杨紫左手牵娃右手抱娃",
+        "onboard_time": 1772948780,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83756,
+        "num": 85894,
+        "word": "迪拜黄金打折售卖",
+        "onboard_time": 1772943139,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82298,
+        "num": 85893,
+        "word": "情久战胜Hero",
+        "onboard_time": 1772959161,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79559,
+        "num": 85891,
+        "word": "微波炉泡面",
+        "onboard_time": 1772958681,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78977,
+        "num": 85890,
+        "word": "伊朗说具备进行超半年高强度战争能力",
+        "onboard_time": 1772954900,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73713,
+        "num": 85887,
+        "word": "43岁女医生一头白发玩摇滚",
+        "onboard_time": 1772957061,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68151,
+        "num": 85887,
+        "word": "全泰国最虔诚的鸭子",
+        "onboard_time": 1772959820,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66944,
+        "num": 85886,
+        "word": "名侦探学院",
+        "onboard_time": 1772951780,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65089,
+        "num": 85883,
+        "word": "小猫知道自己可爱",
+        "onboard_time": 1772958921,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64621,
+        "num": 85881,
+        "word": "云南蓝莓",
+        "onboard_time": 1772941642,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63798,
+        "num": 85880,
+        "word": "1家4姐妹3个查出卵巢癌",
+        "onboard_time": 1772954840,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61411,
+        "num": 85879,
+        "word": "智力已达人类低谷",
+        "onboard_time": 1772959101,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59962,
+        "num": 85877,
+        "word": "70岁网瘾老人刷手机近视2300度",
+        "onboard_time": 1772946321,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58273,
+        "num": 85875,
+        "word": "王楚钦浅浅一笑",
+        "onboard_time": 1772958081,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57454,
+        "num": 85874,
+        "word": "台湾绝无可能成为国家",
+        "onboard_time": 1772942422,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57274,
+        "num": 85873,
+        "word": "妇女节快乐",
+        "onboard_time": 1772932700,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55974,
+        "num": 85871,
+        "word": "养胡萝卜",
+        "onboard_time": 1772960120,
+        "rank": 47,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 55808,
+        "num": 85869,
+        "word": "逐玉毛林林张凌赫好权威的母子",
+        "onboard_time": 1772954120,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55110,
+        "num": 85869,
+        "word": "国乒男单首轮2场内战",
+        "onboard_time": 1772957960,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和政协委员共绘民生蓝图#"
+    }
+  }
+}

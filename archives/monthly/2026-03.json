@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772959262942,
+  "endTime": 1772960163750,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1363,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 701876,
+      "num": 1112300,
+      "word": "王毅回应两岸统一时间表",
+      "onboard_time": 1772955800,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 699050,
       "num": 302273,
       "word": "弦子报平安",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1772634086,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 677178,
-      "num": 1108348,
-      "word": "王毅回应两岸统一时间表",
-      "onboard_time": 1772955800,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 676309,
@@ -7851,6 +7851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167465,
+      "num": 167465,
+      "word": "霍去病团队近20人非3人",
+      "onboard_time": 1772954300,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167172,
       "num": 156075,
       "word": "美军3死5重伤",
@@ -10787,6 +10795,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 116877,
+      "num": 85897,
+      "word": "王楚钦我是第一个来的",
+      "onboard_time": 1772959880,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116779,
       "num": 259326,
       "word": "凤凰传奇抢票",
@@ -11113,6 +11129,14 @@
       "onboard_time": 1772291842,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113672,
+      "num": 113672,
+      "word": "人脸验证时千万记得穿衣服",
+      "onboard_time": 1772959220,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113617,
@@ -11721,14 +11745,6 @@
       "onboard_time": 1772617104,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 106958,
-      "num": 158263,
-      "word": "霍去病团队近20人非3人",
-      "onboard_time": 1772954300,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106679,
@@ -13619,6 +13635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90562,
+      "num": 162207,
+      "word": "BLG对战JDG",
+      "onboard_time": 1772959820,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90534,
       "num": 90534,
       "word": "为了哄自己开学想尽了办法",
@@ -13836,7 +13860,7 @@
     },
     {
       "raw_hot": 88389,
-      "num": 88389,
+      "num": 101821,
       "word": "DeepSeek建议普通用户养虾前先观望",
       "onboard_time": 1772957361,
       "rank": 30,
@@ -14276,7 +14300,7 @@
     },
     {
       "raw_hot": 83917,
-      "num": 83917,
+      "num": 85869,
       "word": "国乒男单首轮2场内战",
       "onboard_time": 1772957960,
       "rank": 33,
@@ -14803,6 +14827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 79559,
+      "num": 85891,
+      "word": "微波炉泡面",
+      "onboard_time": 1772958681,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 79550,
       "num": 79550,
       "word": "聚酯纤维最有用的一集",
@@ -14833,14 +14865,6 @@
       "onboard_time": 1772774183,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 78996,
-      "num": 78996,
-      "word": "人脸验证时千万记得穿衣服",
-      "onboard_time": 1772959220,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78966,
@@ -15169,6 +15193,14 @@
       "onboard_time": 1772501363,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76708,
+      "num": 320545,
+      "word": "建议减少中小学学科数量",
+      "onboard_time": 1772949859,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76656,
@@ -15828,7 +15860,7 @@
     },
     {
       "raw_hot": 71157,
-      "num": 71157,
+      "num": 85875,
       "word": "王楚钦浅浅一笑",
       "onboard_time": 1772958081,
       "rank": 40,
@@ -15892,7 +15924,7 @@
     },
     {
       "raw_hot": 70591,
-      "num": 70591,
+      "num": 85883,
       "word": "小猫知道自己可爱",
       "onboard_time": 1772958921,
       "rank": 41,
@@ -16075,14 +16107,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 68899,
-      "num": 68899,
-      "word": "微波炉泡面",
-      "onboard_time": 1772958681,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 68896,
       "num": 468679,
       "word": "荣耀RobotPhone成精了",
@@ -16131,14 +16155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68481,
-      "num": 320545,
-      "word": "建议减少中小学学科数量",
-      "onboard_time": 1772949859,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 68266,
       "num": 157996,
       "word": "谷歌DeepMind负责人喊话千问员工",
@@ -16153,6 +16169,14 @@
       "onboard_time": 1772344042,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68151,
+      "num": 85887,
+      "word": "全泰国最虔诚的鸭子",
+      "onboard_time": 1772959820,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 68117,
@@ -16596,7 +16620,7 @@
     },
     {
       "raw_hot": 63434,
-      "num": 63434,
+      "num": 85879,
       "word": "智力已达人类低谷",
       "onboard_time": 1772959101,
       "rank": 47,
@@ -17177,6 +17201,14 @@
       "onboard_time": 1772521947,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55974,
+      "num": 85871,
+      "word": "养胡萝卜",
+      "onboard_time": 1772960120,
+      "rank": 47,
+      "category": "休闲"
     },
     {
       "raw_hot": 55589,
@@ -19251,6 +19283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24711,
+      "num": 161225,
+      "word": "中国人有天下为公的格局",
+      "onboard_time": 1772959281,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24622,
       "num": 49033,
       "word": "白鹿古装角色解锁加1",
@@ -19313,6 +19353,14 @@
       "onboard_time": 1772609244,
       "rank": 39,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 23610,
+      "num": 114024,
+      "word": "她在自己的时区里发光",
+      "onboard_time": 1772958260,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 23566,
@@ -19441,14 +19489,6 @@
       "onboard_time": 1772606484,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21315,
-      "num": 99397,
-      "word": "她在自己的时区里发光",
-      "onboard_time": 1772958260,
-      "rank": 19,
-      "category": "美妆"
     },
     {
       "raw_hot": 21249,
@@ -19657,6 +19697,14 @@
       "onboard_time": 1772935760,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17526,
+      "num": 174920,
+      "word": "春天的第一场雨是红包雨",
+      "onboard_time": 1772956881,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 17422,
@@ -19881,14 +19929,6 @@
       "onboard_time": 1772787083,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13942,
-      "num": 174920,
-      "word": "春天的第一场雨是红包雨",
-      "onboard_time": 1772956881,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 13907,
