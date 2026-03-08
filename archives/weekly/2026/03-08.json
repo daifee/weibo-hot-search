@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773006378650,
+  "endTime": 1773009189148,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 222362,
-      "num": 178362,
+      "num": 181063,
       "word": "伊朗最高权力平稳过渡",
       "onboard_time": 1772986580,
       "rank": 24,
@@ -2691,6 +2691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 40093,
+      "num": 51878,
+      "word": "设计师演我见到王一博",
+      "onboard_time": 1772988798,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 39939,
       "num": 608447,
       "word": "网络名人赞两会",
@@ -2777,14 +2785,6 @@
       "onboard_time": 1772886383,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36100,
-      "num": 51878,
-      "word": "设计师演我见到王一博",
-      "onboard_time": 1772988798,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 35626,
@@ -2979,6 +2979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24045,
+      "num": 35070,
+      "word": "刘宇宁演技层次感",
+      "onboard_time": 1773006495,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23849,
       "num": 394526,
       "word": "AG单日三鸡积分第一",
@@ -3035,6 +3043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20822,
+      "num": 26831,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1772997854,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 19496,
       "num": 192253,
       "word": "WBG无缘先锋赛",
@@ -3043,12 +3059,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 18400,
-      "num": 20142,
-      "word": "汪苏泷演唱会",
-      "onboard_time": 1772997854,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 18405,
+      "num": 28733,
+      "word": "白鹿综艺战损",
+      "onboard_time": 1772995096,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 18354,
@@ -3057,14 +3073,6 @@
       "onboard_time": 1772994315,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17899,
-      "num": 28733,
-      "word": "白鹿综艺战损",
-      "onboard_time": 1772995096,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 17629,
