@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772966048366,
+  "endTime": 1772967071545,
   "band_list": [
     {
       "raw_hot": 1538769,
@@ -395,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231932,
+      "num": 231932,
+      "word": "严屹宽一出场皇帝瞬间被衬成公公",
+      "onboard_time": 1772966840,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226693,
       "num": 226693,
       "word": "去动物园竟被猴子投喂苹果",
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 216036,
-      "num": 107996,
+      "num": 108493,
       "word": "女子糖尿病不忌口8年变尿毒症",
       "onboard_time": 1772963421,
       "rank": 25,
@@ -475,6 +483,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 187734,
+      "num": 805162,
+      "word": "AI龙虾爆火工信部发布高危风险预警",
+      "onboard_time": 1772961739,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 179419,
       "num": 179419,
       "word": "霍去病团队近20人非3人",
@@ -507,20 +523,20 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 168525,
+      "num": 108299,
+      "word": "高至霆我从小美好就跟你了",
+      "onboard_time": 1772964021,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159076,
       "num": 197371,
       "word": "没有任何一个决定会毁了你的一生",
       "onboard_time": 1772953400,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157442,
-      "num": 106703,
-      "word": "高至霆我从小美好就跟你了",
-      "onboard_time": 1772964021,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 156642,
@@ -555,20 +571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151895,
+      "num": 108058,
+      "word": "伊朗说将推动美国完全撤出中东",
+      "onboard_time": 1772962340,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151501,
       "num": 151501,
       "word": "麦当劳CEO被质疑多次假吃吐掉汉堡",
       "onboard_time": 1772927898,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 149311,
-      "num": 149311,
-      "word": "AI龙虾爆火工信部发布高危风险预警",
-      "onboard_time": 1772961739,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 148544,
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 143659,
-      "num": 106307,
+      "num": 107838,
       "word": "桃黑黑抽奖",
       "onboard_time": 1772963061,
       "rank": 30,
@@ -683,20 +699,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130002,
-      "num": 105911,
-      "word": "伊朗说将推动美国完全撤出中东",
-      "onboard_time": 1772962340,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129924,
       "num": 228515,
       "word": "中俄关系风雨不动安如山",
       "onboard_time": 1772937440,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128365,
+      "num": 107754,
+      "word": "王一博Lacoste的造型",
+      "onboard_time": 1772965521,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127141,
@@ -708,7 +724,7 @@
     },
     {
       "raw_hot": 126469,
-      "num": 105179,
+      "num": 107570,
       "word": "公务员谈养龙虾真实感受",
       "onboard_time": 1772963721,
       "rank": 27,
@@ -771,6 +787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118617,
+      "num": 162207,
+      "word": "BLG对战JDG",
+      "onboard_time": 1772959820,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117855,
       "num": 754830,
       "word": "世界乱象丛生祖国稳如泰山",
@@ -812,10 +836,18 @@
     },
     {
       "raw_hot": 113377,
-      "num": 103427,
+      "num": 112966,
       "word": "中国孩子坐警车看表演火爆外网",
       "onboard_time": 1772964382,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108814,
+      "num": 108814,
+      "word": "在北京穿了将近半年的羽绒服",
+      "onboard_time": 1772963540,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -841,14 +873,6 @@
       "onboard_time": 1772897304,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 104474,
-      "num": 162207,
-      "word": "BLG对战JDG",
-      "onboard_time": 1772959820,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 104349,
@@ -889,14 +913,6 @@
       "onboard_time": 1772938880,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 99562,
-      "num": 99562,
-      "word": "王一博Lacoste的造型",
-      "onboard_time": 1772965521,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 99415,
@@ -952,14 +968,6 @@
       "word": "多地实现草莓自由",
       "onboard_time": 1772895923,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97297,
-      "num": 97297,
-      "word": "在北京穿了将近半年的羽绒服",
-      "onboard_time": 1772963540,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1227,6 +1235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78470,
+      "num": 78470,
+      "word": "中国体操队夺美国杯混团冠军",
+      "onboard_time": 1772966300,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78264,
       "num": 181390,
       "word": "孙颖莎出镜央视妇女节短片",
@@ -1299,12 +1315,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75866,
+      "num": 97215,
+      "word": "退出APP显示残忍离开到底谁发明的",
+      "onboard_time": 1772965401,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75742,
       "num": 230999,
       "word": "谷爱凌花车巡游",
       "onboard_time": 1772949140,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75341,
+      "num": 97088,
+      "word": "刘强东讲管理全是实战干货",
+      "onboard_time": 1772963900,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 74991,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1772935400,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72411,
+      "num": 72411,
+      "word": "王楚钦拍签表",
+      "onboard_time": 1772966361,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 72272,
@@ -1443,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67766,
+      "num": 71786,
+      "word": "孙颖莎收到自己漫画形象礼物",
+      "onboard_time": 1772966661,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67238,
       "num": 296601,
       "word": "拉塞尔夺F1揭幕战冠军",
@@ -1491,14 +1539,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 66158,
-      "num": 97215,
-      "word": "退出APP显示残忍离开到底谁发明的",
-      "onboard_time": 1772965401,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 65284,
       "num": 65284,
       "word": "A股化工板块大涨",
@@ -1513,6 +1553,14 @@
       "onboard_time": 1772952261,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64959,
+      "num": 97147,
+      "word": "DYG对战KSG",
+      "onboard_time": 1772963600,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 64489,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1772891002,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64313,
+      "num": 97073,
+      "word": "建议农村医保缴费不清零滚存用",
+      "onboard_time": 1772964319,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63805,
@@ -1611,6 +1667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61509,
+      "num": 97056,
+      "word": "Gala醒一醒",
+      "onboard_time": 1772965999,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61458,
       "num": 157835,
       "word": "伊朗重申睦邻友好尊重地区国家主权",
@@ -1659,14 +1723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 59008,
-      "num": 97147,
-      "word": "DYG对战KSG",
-      "onboard_time": 1772963600,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 58908,
       "num": 387946,
       "word": "未来5年这些民生举措事关你我",
@@ -1683,27 +1739,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58637,
-      "num": 97088,
-      "word": "刘强东讲管理全是实战干货",
-      "onboard_time": 1772963900,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 58121,
       "num": 236736,
       "word": "王毅向女同胞致以节日祝福",
       "onboard_time": 1772936720,
       "rank": 6,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 58073,
-      "num": 97073,
-      "word": "建议农村医保缴费不清零滚存用",
-      "onboard_time": 1772964319,
-      "rank": 46,
       "category": "国内时政"
     },
     {
@@ -1713,14 +1753,6 @@
       "onboard_time": 1772889143,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 57392,
-      "num": 97056,
-      "word": "Gala醒一醒",
-      "onboard_time": 1772965999,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 56985,
@@ -1931,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40753,
+      "num": 109115,
+      "word": "台湾代表呼吁台青走出信息茧房",
+      "onboard_time": 1772965521,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39939,
       "num": 608447,
       "word": "网络名人赞两会",
@@ -2123,6 +2163,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 28764,
+      "num": 186836,
+      "word": "建议科学调控网约车出租车运力",
+      "onboard_time": 1772965580,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27152,
       "num": 199708,
       "word": "建议给大龄农民工提供培训就业",
@@ -2203,14 +2251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 17981,
-      "num": 109115,
-      "word": "台湾代表呼吁台青走出信息茧房",
-      "onboard_time": 1772965521,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 17629,
       "num": 215424,
       "word": "用智搜读懂女性的每一种精彩",
@@ -2281,14 +2321,6 @@
       "onboard_time": 1772909355,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 13735,
-      "num": 186836,
-      "word": "建议科学调控网约车出租车运力",
-      "onboard_time": 1772965580,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13070,
