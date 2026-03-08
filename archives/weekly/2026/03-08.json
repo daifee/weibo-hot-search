@@ -1,10 +1,10 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772956291211,
+  "endTime": 1772959262942,
   "band_list": [
     {
       "raw_hot": 1538769,
-      "num": 231552,
+      "num": 280673,
       "word": "伊朗选出新最高领袖",
       "onboard_time": 1772952140,
       "rank": 20,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1343198,
-      "num": 231927,
+      "num": 420665,
       "word": "伊朗亮底线",
       "onboard_time": 1772951001,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1772944101,
       "rank": 11,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 677178,
+      "num": 1108348,
+      "word": "王毅回应两岸统一时间表",
+      "onboard_time": 1772955800,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 676139,
@@ -60,11 +68,19 @@
     },
     {
       "raw_hot": 516606,
-      "num": 516606,
+      "num": 812680,
       "word": "华春莹一口气吃了两颗化橘红",
       "onboard_time": 1772941762,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 475340,
+      "num": 475340,
+      "word": "马来西亚通报MH370搜寻最新进展",
+      "onboard_time": 1772954360,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 471852,
@@ -121,14 +137,6 @@
       "onboard_time": 1772940079,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 342143,
-      "num": 342143,
-      "word": "马来西亚通报MH370搜寻最新进展",
-      "onboard_time": 1772954360,
-      "rank": 7,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 337866,
@@ -225,6 +233,22 @@
       "onboard_time": 1772934380,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271821,
+      "num": 271821,
+      "word": "108公斤27岁女生花1年减掉108斤",
+      "onboard_time": 1772954720,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266239,
+      "num": 266239,
+      "word": "逐玉云合翻倍",
+      "onboard_time": 1772957720,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 265589,
@@ -475,14 +499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 147237,
-      "num": 159032,
-      "word": "108公斤27岁女生花1年减掉108斤",
-      "onboard_time": 1772954720,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145635,
       "num": 145635,
       "word": "外国游客到中国根本买不够",
@@ -547,6 +563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132305,
+      "num": 398987,
+      "word": "代表建议把物业管理改为物业服务",
+      "onboard_time": 1772957061,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132136,
       "num": 298366,
       "word": "70岁网瘾老人刷手机近视2300度",
@@ -600,14 +624,6 @@
       "word": "王毅谈伊朗局势",
       "onboard_time": 1772941041,
       "rank": 4,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 121879,
-      "num": 145654,
-      "word": "王毅回应两岸统一时间表",
-      "onboard_time": 1772955800,
-      "rank": 30,
       "category": "国内时政"
     },
     {
@@ -673,6 +689,14 @@
       "onboard_time": 1772949381,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106958,
+      "num": 158263,
+      "word": "霍去病团队近20人非3人",
+      "onboard_time": 1772954300,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105174,
@@ -747,6 +771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99142,
+      "num": 99142,
+      "word": "情久战胜Hero",
+      "onboard_time": 1772959161,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98121,
       "num": 297791,
       "word": "库里说天天想吃中国的火锅小龙虾",
@@ -761,6 +793,14 @@
       "onboard_time": 1772889323,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97953,
+      "num": 387917,
+      "word": "WTT重庆冠军赛抽签结果来了",
+      "onboard_time": 1772957120,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 97818,
@@ -819,6 +859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93306,
+      "num": 157660,
+      "word": "田曦薇演技好灵",
+      "onboard_time": 1772955440,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92402,
       "num": 92402,
       "word": "海贼王也得拜妈祖",
@@ -851,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89582,
+      "num": 158125,
+      "word": "伊朗说具备进行超半年高强度战争能力",
+      "onboard_time": 1772954900,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89270,
       "num": 89270,
       "word": "岳雨婷事业心",
@@ -859,12 +915,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89213,
+      "num": 89213,
+      "word": "43岁女医生一头白发玩摇滚",
+      "onboard_time": 1772957061,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89019,
       "num": 740210,
       "word": "女孩贪玩忘事成绩下滑查出罕见病",
       "onboard_time": 1772892742,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88389,
+      "num": 88389,
+      "word": "DeepSeek建议普通用户养虾前先观望",
+      "onboard_time": 1772957361,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 88027,
@@ -883,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86843,
+      "num": 158519,
+      "word": "岳雨婷看秀待遇",
+      "onboard_time": 1772954120,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 85901,
       "num": 85901,
       "word": "阿姨打车误点代驾执意要补偿",
@@ -897,6 +977,14 @@
       "onboard_time": 1772955800,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 83917,
+      "num": 83917,
+      "word": "国乒男单首轮2场内战",
+      "onboard_time": 1772957960,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 83512,
@@ -923,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82436,
-      "num": 158519,
-      "word": "岳雨婷看秀待遇",
-      "onboard_time": 1772954120,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 81023,
       "num": 87393,
       "word": "网传侯明昊陈意涵主演攻玉",
@@ -955,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80022,
-      "num": 158263,
-      "word": "霍去病团队近20人非3人",
-      "onboard_time": 1772954300,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79858,
       "num": 739705,
       "word": "逐玉 田耕纪",
@@ -979,14 +1051,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 79794,
-      "num": 158125,
-      "word": "伊朗说具备进行超半年高强度战争能力",
-      "onboard_time": 1772954900,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 79566,
       "num": 87392,
       "word": "伊朗称打击超200处美以目标",
@@ -1001,6 +1065,14 @@
       "onboard_time": 1772936301,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78996,
+      "num": 78996,
+      "word": "人脸验证时千万记得穿衣服",
+      "onboard_time": 1772959220,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78815,
@@ -1099,14 +1171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73954,
-      "num": 157660,
-      "word": "田曦薇演技好灵",
-      "onboard_time": 1772955440,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 73883,
       "num": 231084,
       "word": "伊朗未透露新最高领袖姓名",
@@ -1131,6 +1195,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 71157,
+      "num": 71157,
+      "word": "王楚钦浅浅一笑",
+      "onboard_time": 1772958081,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71009,
       "num": 181250,
       "word": "这是我给妈妈报的网课",
@@ -1147,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70591,
+      "num": 70591,
+      "word": "小猫知道自己可爱",
+      "onboard_time": 1772958921,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70047,
       "num": 87391,
       "word": "00后老板妇女节送员工月薪翻倍奖",
@@ -1155,12 +1235,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 68997,
+      "num": 68997,
+      "word": "WTT重庆冠军赛",
+      "onboard_time": 1772958560,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68899,
+      "num": 68899,
+      "word": "微波炉泡面",
+      "onboard_time": 1772958681,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 68883,
       "num": 297535,
       "word": "杨紫玉兰花开君再来大婚造型",
       "onboard_time": 1772946982,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68481,
+      "num": 320545,
+      "word": "建议减少中小学学科数量",
+      "onboard_time": 1772949859,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68371,
@@ -1259,20 +1363,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64153,
-      "num": 230867,
-      "word": "建议减少中小学学科数量",
-      "onboard_time": 1772949859,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 63805,
       "num": 87389,
       "word": "中美可以改变相处方式",
       "onboard_time": 1772938940,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63434,
+      "num": 63434,
+      "word": "智力已达人类低谷",
+      "onboard_time": 1772959101,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 63337,
@@ -1289,6 +1393,22 @@
       "onboard_time": 1772927958,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62771,
+      "num": 62771,
+      "word": "重庆赛莫雷加德2号种子",
+      "onboard_time": 1772958802,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62627,
+      "num": 143649,
+      "word": "四分离卫生间",
+      "onboard_time": 1772956040,
+      "rank": 45,
+      "category": "休闲"
     },
     {
       "raw_hot": 62271,
@@ -1393,14 +1513,6 @@
       "onboard_time": 1772953400,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 54425,
-      "num": 143649,
-      "word": "四分离卫生间",
-      "onboard_time": 1772956040,
-      "rank": 45,
-      "category": "休闲"
     },
     {
       "raw_hot": 53576,
@@ -1595,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38336,
+      "num": 68942,
+      "word": "建议城市公共场所增加女性厕位",
+      "onboard_time": 1772957780,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38175,
       "num": 739206,
       "word": "上海一爆火小吃店煎包5毛胡辣汤3元",
@@ -1731,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24324,
+      "num": 338105,
+      "word": "祝每一个她都不被定义活出热爱",
+      "onboard_time": 1772959040,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23849,
       "num": 394526,
       "word": "AG单日三鸡积分第一",
@@ -1761,6 +1889,14 @@
       "onboard_time": 1772909836,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21315,
+      "num": 99397,
+      "word": "她在自己的时区里发光",
+      "onboard_time": 1772958260,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 19496,
@@ -1795,6 +1931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17282,
+      "num": 88710,
+      "word": "这些数字透着暖暖的民生温度",
+      "onboard_time": 1772958260,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16943,
       "num": 45852,
       "word": "罗意威新设计师",
@@ -1811,6 +1955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15096,
+      "num": 617989,
+      "word": "祖国完全统一历史进程不可阻挡",
+      "onboard_time": 1772940860,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14293,
       "num": 45955,
       "word": "星河入梦票房破亿",
@@ -1819,11 +1971,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 13942,
+      "num": 174920,
+      "word": "春天的第一场雨是红包雨",
+      "onboard_time": 1772956881,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13070,
       "num": 164366,
       "word": "9个字看十五五规划里的世界机遇",
       "onboard_time": 1772939482,
       "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11294,
+      "num": 88487,
+      "word": "3位全国人大代表激动交换种子",
+      "onboard_time": 1772958260,
+      "rank": 29,
       "category": "国内时政"
     }
   ],
@@ -1836,6 +2004,9 @@
     },
     {
       "word": "#总书记寄语半边天#"
+    },
+    {
+      "word": "#总书记和政协委员共绘民生蓝图#"
     }
   ]
 }
