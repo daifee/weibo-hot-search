@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772995500778,
+  "endTime": 1772996334088,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -3051,6 +3051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17899,
+      "num": 28733,
+      "word": "白鹿综艺战损",
+      "onboard_time": 1772995096,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17629,
       "num": 215424,
       "word": "用智搜读懂女性的每一种精彩",
@@ -3113,14 +3121,6 @@
       "onboard_time": 1772940860,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14581,
-      "num": 28733,
-      "word": "白鹿综艺战损",
-      "onboard_time": 1772995096,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 14293,
