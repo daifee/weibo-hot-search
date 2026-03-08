@@ -1,10 +1,10 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772960163750,
+  "endTime": 1772962704034,
   "band_list": [
     {
       "raw_hot": 1538769,
-      "num": 280673,
+      "num": 288295,
       "word": "伊朗选出新最高领袖",
       "onboard_time": 1772952140,
       "rank": 20,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 516606,
-      "num": 812680,
+      "num": 818115,
       "word": "华春莹一口气吃了两颗化橘红",
       "onboard_time": 1772941762,
       "rank": 3,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310334,
+      "num": 310334,
+      "word": "微波炉泡面",
+      "onboard_time": 1772958681,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 310197,
       "num": 310197,
       "word": "GW对战Gr",
@@ -235,6 +243,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280696,
+      "num": 280696,
+      "word": "王楚钦我是第一个来的",
+      "onboard_time": 1772959880,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 275880,
+      "num": 340917,
+      "word": "人脸验证时千万记得穿衣服",
+      "onboard_time": 1772959220,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271821,
       "num": 271821,
       "word": "108公斤27岁女生花1年减掉108斤",
@@ -275,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259107,
+      "num": 108596,
+      "word": "伊朗宣布将采用全新攻击方式",
+      "onboard_time": 1772961261,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255557,
       "num": 255557,
       "word": "AI写作48小时生成500万字长篇小说",
@@ -313,6 +345,14 @@
       "onboard_time": 1772942961,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242592,
+      "num": 242592,
+      "word": "张凌赫晒谢征日常",
+      "onboard_time": 1772960301,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 238467,
@@ -363,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208032,
+      "num": 208032,
+      "word": "全泰国最虔诚的鸭子",
+      "onboard_time": 1772959820,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207020,
       "num": 1033123,
       "word": "外交部长王毅答记者问",
@@ -403,6 +451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 179419,
+      "num": 179419,
+      "word": "霍去病团队近20人非3人",
+      "onboard_time": 1772954300,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177160,
       "num": 297874,
       "word": "低食量女生的一顿饭",
@@ -425,14 +481,6 @@
       "onboard_time": 1772940439,
       "rank": 26,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 167465,
-      "num": 167465,
-      "word": "霍去病团队近20人非3人",
-      "onboard_time": 1772954300,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159076,
@@ -667,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116877,
-      "num": 85897,
-      "word": "王楚钦我是第一个来的",
-      "onboard_time": 1772959880,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114517,
       "num": 58918,
       "word": "多架美军轰炸机飞抵英国基地",
@@ -699,20 +739,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 113672,
-      "num": 113672,
-      "word": "人脸验证时千万记得穿衣服",
-      "onboard_time": 1772959220,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107606,
       "num": 231311,
       "word": "嘻哈 我感谢那些女士",
       "onboard_time": 1772949381,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106242,
+      "num": 98181,
+      "word": "AI龙虾爆火工信部发布高危风险预警",
+      "onboard_time": 1772961739,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 105174,
@@ -940,7 +980,7 @@
     },
     {
       "raw_hot": 89213,
-      "num": 89213,
+      "num": 98078,
       "word": "43岁女医生一头白发玩摇滚",
       "onboard_time": 1772957061,
       "rank": 27,
@@ -1081,14 +1121,6 @@
       "onboard_time": 1772928439,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 79559,
-      "num": 85891,
-      "word": "微波炉泡面",
-      "onboard_time": 1772958681,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 79166,
@@ -1283,20 +1315,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68865,
+      "num": 98172,
+      "word": "当你觉得自己乱花钱的时候可以来看",
+      "onboard_time": 1772961200,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 68544,
+      "num": 98192,
+      "word": "周鸿祎称将发行一键安装的龙虾",
+      "onboard_time": 1772962401,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68371,
       "num": 740099,
       "word": "张凌赫的秘密",
       "onboard_time": 1772895084,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 68151,
-      "num": 85887,
-      "word": "全泰国最虔诚的鸭子",
-      "onboard_time": 1772959820,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 68117,
@@ -1363,6 +1403,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65120,
+      "num": 98157,
+      "word": "养胡萝卜",
+      "onboard_time": 1772960120,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 64893,
+      "num": 98149,
+      "word": "红烧排骨烧的是李飞的脊椎",
+      "onboard_time": 1772957840,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64489,
       "num": 296769,
       "word": "别被巴黎世家看到了",
@@ -1396,7 +1452,7 @@
     },
     {
       "raw_hot": 63434,
-      "num": 85879,
+      "num": 98100,
       "word": "智力已达人类低谷",
       "onboard_time": 1772959101,
       "rank": 47,
@@ -1459,6 +1515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60714,
+      "num": 98142,
+      "word": "普通人需要养龙虾吗",
+      "onboard_time": 1772962461,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 60295,
       "num": 739522,
       "word": "伊朗驻埃及大使说不会再相信美国",
@@ -1499,6 +1563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58463,
+      "num": 98139,
+      "word": "伊朗说将推动美国完全撤出中东",
+      "onboard_time": 1772962340,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58121,
       "num": 236736,
       "word": "王毅向女同胞致以节日祝福",
@@ -1515,20 +1587,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57315,
+      "num": 98117,
+      "word": "油价创数十年来最大单周涨幅",
+      "onboard_time": 1772962580,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 56985,
       "num": 157765,
       "word": "两大芯片巨头为何带崩韩国股市",
       "onboard_time": 1772954781,
       "rank": 46,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 55974,
-      "num": 85871,
-      "word": "养胡萝卜",
-      "onboard_time": 1772960120,
-      "rank": 47,
-      "category": "休闲"
     },
     {
       "raw_hot": 54935,
@@ -1579,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51871,
+      "num": 98084,
+      "word": "猫 在哪里打呵欠就在哪里磨牙",
+      "onboard_time": 1772962640,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 51367,
       "num": 740027,
       "word": "AG战胜WB",
@@ -1617,6 +1697,14 @@
       "onboard_time": 1772950461,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48617,
+      "num": 300013,
+      "word": "中国人有天下为公的格局",
+      "onboard_time": 1772959281,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47781,
@@ -1795,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35117,
+      "num": 108794,
+      "word": "38节女明星红包团建",
+      "onboard_time": 1772960720,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34943,
       "num": 739101,
       "word": "河南矿山老板妇女节又发钱了",
@@ -1883,14 +1979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24711,
-      "num": 161225,
-      "word": "中国人有天下为公的格局",
-      "onboard_time": 1772959281,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 24324,
       "num": 338105,
       "word": "祝每一个她都不被定义活出热爱",
@@ -1945,6 +2033,14 @@
       "onboard_time": 1772905398,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 19313,
+      "num": 310153,
+      "word": "建议加强老年群体艾滋病防治",
+      "onboard_time": 1772961980,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17629,
