@@ -1,22 +1,38 @@
 {
   "startTime": 1772987964652,
-  "endTime": 1773012777644,
+  "endTime": 1773013610693,
   "band_list": [
     {
       "raw_hot": 1436207,
-      "num": 483238,
+      "num": 522504,
       "word": "狂飙",
       "onboard_time": 1772981482,
       "rank": 3,
       "category": "剧集"
     },
     {
+      "raw_hot": 1252850,
+      "num": 519723,
+      "word": "哈梅内伊之子接任最高领袖",
+      "onboard_time": 1773012439,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 651292,
-      "num": 478350,
+      "num": 521355,
       "word": "多家黄金品牌宣布调价",
       "onboard_time": 1772984060,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 648863,
+      "num": 156939,
+      "word": "逐玉因平台缺爆款被迫爆",
+      "onboard_time": 1773013280,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 529209,
@@ -27,12 +43,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 469466,
-      "num": 469466,
-      "word": "哈梅内伊之子接任最高领袖",
-      "onboard_time": 1773012439,
-      "rank": 5,
-      "category": "国际时政"
+      "raw_hot": 510212,
+      "num": 510212,
+      "word": "中传砍掉翻译摄影等16个专业",
+      "onboard_time": 1773012318,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 462507,
@@ -59,20 +75,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235592,
-      "num": 235592,
-      "word": "中传砍掉翻译摄影等16个专业",
-      "onboard_time": 1773012318,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 229040,
-      "num": 229040,
+      "raw_hot": 245008,
+      "num": 245008,
       "word": "武大食堂4元熬夜水日销百斤",
       "onboard_time": 1772974761,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235997,
+      "num": 924495,
+      "word": "王毅向日本发出灵魂4问",
+      "onboard_time": 1772988560,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 224983,
@@ -91,14 +107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 213188,
-      "num": 814387,
-      "word": "王毅向日本发出灵魂4问",
-      "onboard_time": 1772988560,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 207363,
       "num": 207363,
       "word": "金晨孙阳偏偏喜欢你2杀青捧花",
@@ -107,12 +115,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187862,
-      "num": 579750,
+      "raw_hot": 205084,
+      "num": 648233,
       "word": "两艘万吨大驱亮相",
       "onboard_time": 1772979441,
       "rank": 7,
       "category": "军事"
+    },
+    {
+      "raw_hot": 203777,
+      "num": 84458,
+      "word": "27岁女子挤痘痘后确诊2型糖尿病",
+      "onboard_time": 1772975302,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186052,
@@ -121,6 +137,14 @@
       "onboard_time": 1772982081,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177762,
+      "num": 177762,
+      "word": "玫瑰丛生",
+      "onboard_time": 1773011838,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 172463,
@@ -163,24 +187,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154203,
-      "num": 84458,
-      "word": "27岁女子挤痘痘后确诊2型糖尿病",
-      "onboard_time": 1772975302,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146094,
-      "num": 146094,
-      "word": "玫瑰丛生",
-      "onboard_time": 1773011838,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 143875,
+      "num": 82305,
+      "word": "恋综史上最明艳的出场",
+      "onboard_time": 1772977943,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 143744,
-      "num": 99705,
+      "num": 100187,
       "word": "王祉怡获全英赛女单冠军",
       "onboard_time": 1772987840,
       "rank": 25,
@@ -195,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127453,
+      "num": 63904,
+      "word": "霍去病团队1分钟视频报价6000元起",
+      "onboard_time": 1773012318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125006,
       "num": 83152,
       "word": "美军战斗力成谜",
@@ -203,20 +227,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124062,
+      "num": 124062,
+      "word": "肖战到上海参加电视剧品质盛典",
+      "onboard_time": 1773012078,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122510,
       "num": 728004,
       "word": "王毅回应两岸统一时间表",
       "onboard_time": 1772955800,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121774,
-      "num": 82305,
-      "word": "恋综史上最明艳的出场",
-      "onboard_time": 1772977943,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 111041,
@@ -235,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94849,
-      "num": 94849,
-      "word": "肖战到上海参加电视剧品质盛典",
-      "onboard_time": 1773012078,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 100194,
+      "num": 100194,
+      "word": "恋与深空",
+      "onboard_time": 1773011417,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 88766,
@@ -267,6 +291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74022,
+      "num": 74022,
+      "word": "短剧霍去病AI平台幕后老板是周鸿祎",
+      "onboard_time": 1773012379,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70873,
       "num": 70873,
       "word": "起猛了隐形眼镜发展到这个地步了",
@@ -275,28 +307,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68898,
-      "num": 60389,
-      "word": "设计师演我见到王一博",
-      "onboard_time": 1772988798,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 68454,
-      "num": 86723,
-      "word": "恋与深空",
-      "onboard_time": 1773011417,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 67566,
+      "raw_hot": 68994,
       "num": 82329,
       "word": "多架美军机相继离开韩国基地",
       "onboard_time": 1772971580,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68898,
+      "num": 62878,
+      "word": "设计师演我见到王一博",
+      "onboard_time": 1772988798,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 67369,
@@ -315,15 +339,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62782,
-      "num": 62782,
-      "word": "霍去病团队1分钟视频报价6000元起",
-      "onboard_time": 1773012318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 61319,
+      "raw_hot": 64321,
       "num": 81316,
       "word": "王一博看完你的看你的",
       "onboard_time": 1772975541,
@@ -340,11 +356,27 @@
     },
     {
       "raw_hot": 55964,
-      "num": 487390,
+      "num": 522705,
       "word": "从海底1万米到距地球4300万公里",
       "onboard_time": 1772976380,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55313,
+      "num": 55313,
+      "word": "全英赛国羽2冠收官",
+      "onboard_time": 1773013580,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54908,
+      "num": 54908,
+      "word": "苹果或推出三款Ultra新品",
+      "onboard_time": 1773012560,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 54356,
@@ -355,12 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53533,
-      "num": 53533,
-      "word": "短剧霍去病AI平台幕后老板是周鸿祎",
-      "onboard_time": 1773012379,
-      "rank": 32,
-      "category": "互联网"
+      "raw_hot": 52329,
+      "num": 81625,
+      "word": "女子糖尿病不忌口8年变尿毒症",
+      "onboard_time": 1772963421,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52121,
@@ -379,12 +411,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 49889,
-      "num": 81625,
-      "word": "女子糖尿病不忌口8年变尿毒症",
-      "onboard_time": 1772963421,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 48589,
+      "num": 48589,
+      "word": "全英羽毛球公开赛",
+      "onboard_time": 1773013161,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48308,
+      "num": 48308,
+      "word": "王祉怡终结安洗莹36连胜",
+      "onboard_time": 1773013340,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 47210,
@@ -403,20 +443,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 45225,
-      "num": 53473,
-      "word": "苹果或推出三款Ultra新品",
-      "onboard_time": 1773012560,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 43430,
       "num": 81109,
       "word": "杨紫罗马时装周",
       "onboard_time": 1772973440,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 42331,
+      "num": 53403,
+      "word": "逐玉小说",
+      "onboard_time": 1773012199,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 41993,
@@ -459,6 +499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39260,
+      "num": 53364,
+      "word": "时代少年团高会直播",
+      "onboard_time": 1773009195,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39224,
       "num": 66163,
       "word": "逐玉破29000了",
@@ -475,20 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38400,
-      "num": 53403,
-      "word": "逐玉小说",
-      "onboard_time": 1773012199,
-      "rank": 45,
-      "category": "读书作家"
-    },
-    {
-      "raw_hot": 36635,
+      "raw_hot": 38721,
       "num": 53390,
       "word": "白鹿综艺战损",
       "onboard_time": 1772995096,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38586,
+      "num": 48293,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1772997854,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 36392,
@@ -505,14 +553,6 @@
       "onboard_time": 1772965401,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 35577,
-      "num": 53364,
-      "word": "时代少年团高会直播",
-      "onboard_time": 1773009195,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 32798,
@@ -539,8 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27511,
-      "num": 176062,
+      "raw_hot": 29430,
+      "num": 191171,
       "word": "中国式现代化圈粉全球",
       "onboard_time": 1772976380,
       "rank": 8,
@@ -553,14 +593,6 @@
       "onboard_time": 1773009316,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21446,
-      "num": 39318,
-      "word": "汪苏泷演唱会",
-      "onboard_time": 1772997854,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 18354,

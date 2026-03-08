@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773012777644,
+  "endTime": 1773013610693,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -473,6 +473,14 @@
       "onboard_time": 1772368344,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1252850,
+      "num": 519723,
+      "word": "哈梅内伊之子接任最高领袖",
+      "onboard_time": 1773012439,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1237632,
@@ -1676,7 +1684,7 @@
     },
     {
       "raw_hot": 651292,
-      "num": 478350,
+      "num": 521355,
       "word": "多家黄金品牌宣布调价",
       "onboard_time": 1772984060,
       "rank": 7,
@@ -1697,6 +1705,14 @@
       "onboard_time": 1772675183,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 648863,
+      "num": 156939,
+      "word": "逐玉因平台缺爆款被迫爆",
+      "onboard_time": 1773013280,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 647463,
@@ -2475,6 +2491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 510212,
+      "num": 510212,
+      "word": "中传砍掉翻译摄影等16个专业",
+      "onboard_time": 1773012318,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 510003,
       "num": 299448,
       "word": "伊朗遭袭小学超150人死亡",
@@ -2768,14 +2792,6 @@
       "word": "伊朗宣布将采用全新攻击方式",
       "onboard_time": 1772961261,
       "rank": 20,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 469466,
-      "num": 469466,
-      "word": "哈梅内伊之子接任最高领袖",
-      "onboard_time": 1773012439,
-      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -6251,6 +6267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235997,
+      "num": 924495,
+      "word": "王毅向日本发出灵魂4问",
+      "onboard_time": 1772988560,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 235942,
       "num": 843244,
       "word": "杨幂说自己有老人味",
@@ -6265,14 +6289,6 @@
       "onboard_time": 1772466984,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235592,
-      "num": 235592,
-      "word": "中传砍掉翻译摄影等16个专业",
-      "onboard_time": 1773012318,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 235569,
@@ -6881,14 +6897,6 @@
       "onboard_time": 1772889323,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213188,
-      "num": 814387,
-      "word": "王毅向日本发出灵魂4问",
-      "onboard_time": 1772988560,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 213084,
@@ -7841,6 +7849,14 @@
       "onboard_time": 1772841441,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177762,
+      "num": 507439,
+      "word": "玫瑰丛生",
+      "onboard_time": 1772307195,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 177196,
@@ -9355,14 +9371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146094,
-      "num": 507439,
-      "word": "玫瑰丛生",
-      "onboard_time": 1772307195,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145829,
       "num": 143518,
       "word": "梁洁郭俊辰国内旅游找了外国导游",
@@ -9492,7 +9500,7 @@
     },
     {
       "raw_hot": 143744,
-      "num": 99705,
+      "num": 100187,
       "word": "王祉怡获全英赛女单冠军",
       "onboard_time": 1772987840,
       "rank": 25,
@@ -10523,6 +10531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127453,
+      "num": 63904,
+      "word": "霍去病团队1分钟视频报价6000元起",
+      "onboard_time": 1773012318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127347,
       "num": 127347,
       "word": "死了么团队改名回归",
@@ -10769,6 +10785,14 @@
       "onboard_time": 1772363065,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124062,
+      "num": 124062,
+      "word": "肖战到上海参加电视剧品质盛典",
+      "onboard_time": 1773012078,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 124022,
@@ -13635,14 +13659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 94849,
-      "num": 94849,
-      "word": "肖战到上海参加电视剧品质盛典",
-      "onboard_time": 1773012078,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 94818,
       "num": 298986,
       "word": "俱乐部通报郭艾伦伤情",
@@ -16315,6 +16331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74022,
+      "num": 74022,
+      "word": "短剧霍去病AI平台幕后老板是周鸿祎",
+      "onboard_time": 1773012379,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 74021,
       "num": 74021,
       "word": "伊拉克库尔德人否认越境攻击伊朗",
@@ -16892,7 +16916,7 @@
     },
     {
       "raw_hot": 68898,
-      "num": 60389,
+      "num": 62878,
       "word": "设计师演我见到王一博",
       "onboard_time": 1772988798,
       "rank": 32,
@@ -17555,14 +17579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62782,
-      "num": 62782,
-      "word": "霍去病团队1分钟视频报价6000元起",
-      "onboard_time": 1773012318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62781,
       "num": 190065,
       "word": "小鹏智驾负责人称拉开差距的时刻到了",
@@ -18179,6 +18195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55313,
+      "num": 55313,
+      "word": "全英赛国羽2冠收官",
+      "onboard_time": 1773013580,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55209,
       "num": 109317,
       "word": "刘宇宁水仙 家好像都变小了",
@@ -18217,6 +18241,14 @@
       "onboard_time": 1772898322,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 54908,
+      "num": 54908,
+      "word": "苹果或推出三款Ultra新品",
+      "onboard_time": 1773012560,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 54783,
@@ -18305,14 +18337,6 @@
       "onboard_time": 1772705063,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 53533,
-      "num": 53533,
-      "word": "短剧霍去病AI平台幕后老板是周鸿祎",
-      "onboard_time": 1773012379,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 53489,
@@ -18675,12 +18699,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48589,
+      "num": 48589,
+      "word": "全英羽毛球公开赛",
+      "onboard_time": 1773013161,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48524,
       "num": 740588,
       "word": "两会学习笔记",
       "onboard_time": 1772893823,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48308,
+      "num": 48308,
+      "word": "王祉怡终结安洗莹36连胜",
+      "onboard_time": 1773013340,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 48299,
@@ -18963,14 +19003,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 45225,
-      "num": 53473,
-      "word": "苹果或推出三款Ultra新品",
-      "onboard_time": 1773012560,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 45211,
       "num": 581118,
       "word": "狼队2比1利物浦",
@@ -19137,6 +19169,14 @@
       "onboard_time": 1772792540,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42331,
+      "num": 53403,
+      "word": "逐玉小说",
+      "onboard_time": 1773012199,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 42215,
@@ -19419,6 +19459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39260,
+      "num": 53364,
+      "word": "时代少年团高会直播",
+      "onboard_time": 1773009195,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39177,
       "num": 549712,
       "word": "委员称培训隐形变异侵蚀教育公平",
@@ -19459,12 +19507,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38721,
+      "num": 53390,
+      "word": "白鹿综艺战损",
+      "onboard_time": 1772995096,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38674,
       "num": 107888,
       "word": "十四届全国人大四次会议会期8天",
       "onboard_time": 1772598206,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38586,
+      "num": 48293,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1772997854,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 38550,
@@ -19489,14 +19553,6 @@
       "onboard_time": 1772614463,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38400,
-      "num": 53403,
-      "word": "逐玉小说",
-      "onboard_time": 1773012199,
-      "rank": 45,
-      "category": "读书作家"
     },
     {
       "raw_hot": 38348,
@@ -19579,14 +19635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36635,
-      "num": 53390,
-      "word": "白鹿综艺战损",
-      "onboard_time": 1772995096,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 36332,
       "num": 349974,
       "word": "应对人工智能对就业影响",
@@ -19649,14 +19697,6 @@
       "onboard_time": 1772785641,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35577,
-      "num": 53364,
-      "word": "时代少年团高会直播",
-      "onboard_time": 1773009195,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 35523,
@@ -20673,14 +20713,6 @@
       "onboard_time": 1772606484,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21446,
-      "num": 39318,
-      "word": "汪苏泷演唱会",
-      "onboard_time": 1772997854,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 21249,

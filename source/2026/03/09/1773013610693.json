@@ -1,0 +1,410 @@
+{
+  "runTime": 1773013610693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 235997,
+        "num": 924495,
+        "word": "王毅向日本发出灵魂4问",
+        "onboard_time": 1772988560,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205084,
+        "num": 648233,
+        "word": "两艘万吨大驱亮相",
+        "onboard_time": 1772979441,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 55108,
+        "num": 522705,
+        "word": "从海底1万米到距地球4300万公里",
+        "onboard_time": 1772976380,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 936602,
+        "num": 522504,
+        "word": "狂飙",
+        "onboard_time": 1772981482,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569753,
+        "num": 521355,
+        "word": "多家黄金品牌宣布调价",
+        "onboard_time": 1772984060,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1252850,
+        "num": 519723,
+        "word": "哈梅内伊之子接任最高领袖",
+        "onboard_time": 1773012439,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 510212,
+        "num": 510212,
+        "word": "中传砍掉翻译摄影等16个专业",
+        "onboard_time": 1773012318,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245008,
+        "num": 245008,
+        "word": "武大食堂4元熬夜水日销百斤",
+        "onboard_time": 1772974761,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29430,
+        "num": 191171,
+        "word": "中国式现代化圈粉全球",
+        "onboard_time": 1772976380,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177762,
+        "num": 177762,
+        "word": "玫瑰丛生",
+        "onboard_time": 1773011838,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 648863,
+        "num": 156939,
+        "word": "逐玉因平台缺爆款被迫爆",
+        "onboard_time": 1773013280,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334584,
+        "num": 154837,
+        "word": "伊朗最高权力平稳过渡",
+        "onboard_time": 1772986580,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180110,
+        "num": 148671,
+        "word": "逐玉 出圈梗",
+        "onboard_time": 1772979201,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124557,
+        "num": 124557,
+        "word": "98岁爷爷在西湖边火了",
+        "onboard_time": 1772974882,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124062,
+        "num": 124062,
+        "word": "肖战到上海参加电视剧品质盛典",
+        "onboard_time": 1773012078,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100194,
+        "num": 100194,
+        "word": "恋与深空",
+        "onboard_time": 1773011417,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100187,
+        "num": 100187,
+        "word": "王祉怡获全英赛女单冠军",
+        "onboard_time": 1772987840,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96299,
+        "num": 96299,
+        "word": "逐玉播放量超过狂飙",
+        "onboard_time": 1772975661,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89024,
+        "num": 89024,
+        "word": "AI对老师的影响",
+        "onboard_time": 1772979862,
+        "rank": 18,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 76537,
+        "num": 76537,
+        "word": "湖南卫视妇女节视频设计好天才啊",
+        "onboard_time": 1772983281,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260618,
+        "num": 76243,
+        "word": "伊朗称击毁4部美军萨德系统雷达",
+        "onboard_time": 1772982562,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203777,
+        "num": 76145,
+        "word": "27岁女子挤痘痘后确诊2型糖尿病",
+        "onboard_time": 1772975302,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159385,
+        "num": 75620,
+        "word": "严屹宽一出场皇帝瞬间被衬成公公",
+        "onboard_time": 1772966840,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143875,
+        "num": 75229,
+        "word": "恋综史上最明艳的出场",
+        "onboard_time": 1772977943,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112492,
+        "num": 75084,
+        "word": "美军战斗力成谜",
+        "onboard_time": 1772981902,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98333,
+        "num": 74506,
+        "word": "王一博 巴黎也有回南天",
+        "onboard_time": 1772977521,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77203,
+        "num": 74186,
+        "word": "伊朗亮底线",
+        "onboard_time": 1772951001,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74022,
+        "num": 74022,
+        "word": "短剧霍去病AI平台幕后老板是周鸿祎",
+        "onboard_time": 1773012379,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74075,
+        "num": 70558,
+        "word": "伊朗选出新最高领袖",
+        "onboard_time": 1772952140,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64321,
+        "num": 64321,
+        "word": "王一博看完你的看你的",
+        "onboard_time": 1772975541,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127453,
+        "num": 63904,
+        "word": "霍去病团队1分钟视频报价6000元起",
+        "onboard_time": 1773012318,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68994,
+        "num": 63819,
+        "word": "多架美军机相继离开韩国基地",
+        "onboard_time": 1772971580,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62878,
+        "num": 62878,
+        "word": "设计师演我见到王一博",
+        "onboard_time": 1772988798,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 59385,
+        "num": 59385,
+        "word": "我妈以为的早熟vs实际上的早熟",
+        "onboard_time": 1772974401,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55313,
+        "num": 55313,
+        "word": "全英赛国羽2冠收官",
+        "onboard_time": 1773013580,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54908,
+        "num": 54908,
+        "word": "苹果或推出三款Ultra新品",
+        "onboard_time": 1773012560,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53429,
+        "num": 53429,
+        "word": "伊朗宣布将采用全新攻击方式",
+        "onboard_time": 1772961261,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52329,
+        "num": 52329,
+        "word": "女子糖尿病不忌口8年变尿毒症",
+        "onboard_time": 1772963421,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44005,
+        "num": 49794,
+        "word": "逐玉 认养一头牛",
+        "onboard_time": 1772978481,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48589,
+        "num": 48589,
+        "word": "全英羽毛球公开赛",
+        "onboard_time": 1773013161,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48308,
+        "num": 48308,
+        "word": "王祉怡终结安洗莹36连胜",
+        "onboard_time": 1773013340,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42331,
+        "num": 48307,
+        "word": "逐玉小说",
+        "onboard_time": 1773012199,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 41146,
+        "num": 48304,
+        "word": "樊长玉家 猪猪痛屋",
+        "onboard_time": 1772985261,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40252,
+        "num": 48300,
+        "word": "金晨孙阳偏偏喜欢你2杀青捧花",
+        "onboard_time": 1772981181,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39249,
+        "num": 48300,
+        "word": "在北京穿了将近半年的羽绒服",
+        "onboard_time": 1772963540,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39260,
+        "num": 48297,
+        "word": "时代少年团高会直播",
+        "onboard_time": 1773009195,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38721,
+        "num": 48293,
+        "word": "白鹿综艺战损",
+        "onboard_time": 1772995096,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38586,
+        "num": 48293,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1772997854,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34765,
+        "num": 48289,
+        "word": "无畏 赵怀真",
+        "onboard_time": 1772982081,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34610,
+        "num": 48286,
+        "word": "刘宇宁演技层次感",
+        "onboard_time": 1773006495,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记两会下团组#"
+    }
+  }
+}
