@@ -1,6 +1,6 @@
 {
   "startTime": 1772987964652,
-  "endTime": 1772987964652,
+  "endTime": 1772988796884,
   "band_list": [
     {
       "raw_hot": 1436207,
@@ -41,6 +41,14 @@
       "onboard_time": 1772966840,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222362,
+      "num": 142380,
+      "word": "伊朗最高权力平稳过渡",
+      "onboard_time": 1772986580,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 218884,
@@ -123,12 +131,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 151792,
-      "num": 83833,
-      "word": "伊朗最高权力平稳过渡",
-      "onboard_time": 1772986580,
-      "rank": 24,
-      "category": "国际时政"
+      "raw_hot": 143744,
+      "num": 83100,
+      "word": "王祉怡获全英赛女单冠军",
+      "onboard_time": 1772987840,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 142742,
@@ -155,14 +163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121015,
-      "num": 83100,
-      "word": "王祉怡获全英赛女单冠军",
-      "onboard_time": 1772987840,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111041,
       "num": 531362,
       "word": "AI对老师的影响",
@@ -179,8 +179,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93039,
-      "num": 93039,
+      "raw_hot": 107215,
+      "num": 107215,
       "word": "逐玉 帅哥",
       "onboard_time": 1772984300,
       "rank": 17,
@@ -195,8 +195,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86531,
-      "num": 86531,
+      "raw_hot": 87419,
+      "num": 87419,
       "word": "我妈以为的早熟vs实际上的早熟",
       "onboard_time": 1772974401,
       "rank": 19,
@@ -227,20 +227,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66405,
+      "num": 82059,
+      "word": "樊长玉家 猪猪痛屋",
+      "onboard_time": 1772985261,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60977,
       "num": 82225,
       "word": "恋综史上最明艳的出场",
       "onboard_time": 1772977943,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56903,
-      "num": 82059,
-      "word": "樊长玉家 猪猪痛屋",
-      "onboard_time": 1772985261,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 56077,
@@ -281,6 +281,14 @@
       "onboard_time": 1772963421,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47362,
+      "num": 66177,
+      "word": "王毅向日本发出灵魂4问",
+      "onboard_time": 1772988560,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47210,
@@ -347,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39224,
+      "num": 66163,
+      "word": "逐玉破29000了",
+      "onboard_time": 1772981662,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39044,
       "num": 80733,
       "word": "童禹坤直播",
@@ -393,6 +409,14 @@
       "onboard_time": 1772980401,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27219,
+      "num": 66098,
+      "word": "退出APP显示残忍离开到底谁发明的",
+      "onboard_time": 1772965401,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 23342,
