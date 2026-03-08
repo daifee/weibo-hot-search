@@ -1,0 +1,410 @@
+{
+  "runTime": 1772998309742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 43706,
+        "num": 75831,
+        "word": "王毅向日本发出灵魂4问",
+        "onboard_time": 1772988560,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26855,
+        "num": 72217,
+        "word": "两艘万吨大驱亮相",
+        "onboard_time": 1772979441,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 18401,
+        "num": 71467,
+        "word": "从海底1万米到距地球4300万公里",
+        "onboard_time": 1772976380,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219312,
+        "num": 71238,
+        "word": "狂飙",
+        "onboard_time": 1772981482,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70883,
+        "num": 70883,
+        "word": "多家黄金品牌宣布调价",
+        "onboard_time": 1772984060,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 60866,
+        "num": 60866,
+        "word": "伊朗最高权力平稳过渡",
+        "onboard_time": 1772986580,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45487,
+        "num": 45487,
+        "word": "武大食堂4元熬夜水日销百斤",
+        "onboard_time": 1772974761,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30968,
+        "num": 30968,
+        "word": "樊长玉家 猪猪痛屋",
+        "onboard_time": 1772985261,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12256,
+        "num": 28239,
+        "word": "中国式现代化圈粉全球",
+        "onboard_time": 1772976380,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26235,
+        "num": 26235,
+        "word": "我妈以为的早熟vs实际上的早熟",
+        "onboard_time": 1772974401,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71889,
+        "num": 25699,
+        "word": "逐玉 出圈梗",
+        "onboard_time": 1772979201,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40552,
+        "num": 25634,
+        "word": "伊朗称击毁4部美军萨德系统雷达",
+        "onboard_time": 1772982562,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36166,
+        "num": 25105,
+        "word": "逐玉播放量超过狂飙",
+        "onboard_time": 1772975661,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24206,
+        "num": 24206,
+        "word": "无畏 赵怀真",
+        "onboard_time": 1772982081,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25876,
+        "num": 23984,
+        "word": "张凌赫田曦薇cp感",
+        "onboard_time": 1772981782,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23727,
+        "num": 23727,
+        "word": "王祉怡获全英赛女单冠军",
+        "onboard_time": 1772987840,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23165,
+        "num": 23165,
+        "word": "逐玉 帅哥",
+        "onboard_time": 1772984300,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21620,
+        "num": 21620,
+        "word": "金晨孙阳偏偏喜欢你2杀青捧花",
+        "onboard_time": 1772981181,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20227,
+        "num": 20227,
+        "word": "JDG战胜狼队",
+        "onboard_time": 1772981841,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19241,
+        "num": 20225,
+        "word": "湖南卫视妇女节视频设计好天才啊",
+        "onboard_time": 1772983281,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37342,
+        "num": 20222,
+        "word": "严屹宽一出场皇帝瞬间被衬成公公",
+        "onboard_time": 1772966840,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31126,
+        "num": 20217,
+        "word": "王一博 巴黎也有回南天",
+        "onboard_time": 1772977521,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29795,
+        "num": 20210,
+        "word": "27岁女子挤痘痘后确诊2型糖尿病",
+        "onboard_time": 1772975302,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24443,
+        "num": 20206,
+        "word": "恋综史上最明艳的出场",
+        "onboard_time": 1772977943,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23649,
+        "num": 20200,
+        "word": "伊朗亮底线",
+        "onboard_time": 1772951001,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17141,
+        "num": 20197,
+        "word": "回避型差评需要一个引导型商家",
+        "onboard_time": 1772972541,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20423,
+        "num": 20194,
+        "word": "多架美军机相继离开韩国基地",
+        "onboard_time": 1772971580,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16722,
+        "num": 20189,
+        "word": "设计师演我见到王一博",
+        "onboard_time": 1772988798,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19095,
+        "num": 20181,
+        "word": "美军战斗力成谜",
+        "onboard_time": 1772981902,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16271,
+        "num": 20180,
+        "word": "AI对老师的影响",
+        "onboard_time": 1772979862,
+        "rank": 29,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 17821,
+        "num": 20174,
+        "word": "伊朗发起第28波攻势",
+        "onboard_time": 1772973321,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15988,
+        "num": 20169,
+        "word": "国际劳动妇女节",
+        "onboard_time": 1772976862,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17791,
+        "num": 20165,
+        "word": "伊朗选出新最高领袖",
+        "onboard_time": 1772952140,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15507,
+        "num": 20161,
+        "word": "谢征高精力的一天",
+        "onboard_time": 1772994315,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15206,
+        "num": 20155,
+        "word": "很喜欢用嘿嘿这两个字",
+        "onboard_time": 1772967860,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15122,
+        "num": 20152,
+        "word": "伊朗宣布将采用全新攻击方式",
+        "onboard_time": 1772961261,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14608,
+        "num": 20149,
+        "word": "王毅回应两岸统一时间表",
+        "onboard_time": 1772955800,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14393,
+        "num": 20142,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1772997854,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14101,
+        "num": 20137,
+        "word": "白鹿综艺战损",
+        "onboard_time": 1772995096,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13166,
+        "num": 20130,
+        "word": "金智秀新剧韩趋第一",
+        "onboard_time": 1772971401,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12953,
+        "num": 20128,
+        "word": "退出APP显示残忍离开到底谁发明的",
+        "onboard_time": 1772965401,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12743,
+        "num": 20123,
+        "word": "Bin获FMVP",
+        "onboard_time": 1772975062,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12727,
+        "num": 20117,
+        "word": "女子糖尿病不忌口8年变尿毒症",
+        "onboard_time": 1772963421,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12255,
+        "num": 20116,
+        "word": "王一博看完你的看你的",
+        "onboard_time": 1772975541,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 12043,
+        "num": 20111,
+        "word": "仙逆动画",
+        "onboard_time": 1772967320,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 11677,
+        "num": 20105,
+        "word": "98岁爷爷在西湖边火了",
+        "onboard_time": 1772974882,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10684,
+        "num": 20098,
+        "word": "OpenAI多位负责人抗议辞职",
+        "onboard_time": 1772984360,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 10523,
+        "num": 20096,
+        "word": "英雄联盟全球先锋赛",
+        "onboard_time": 1772985921,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10168,
+        "num": 20090,
+        "word": "童禹坤直播",
+        "onboard_time": 1772975122,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10099,
+        "num": 20089,
+        "word": "杨紫罗马时装周",
+        "onboard_time": 1772973440,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记两会下团组#"
+    }
+  }
+}
