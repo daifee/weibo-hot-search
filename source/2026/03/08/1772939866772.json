@@ -1,0 +1,410 @@
+{
+  "runTime": 1772939866772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 207020,
+        "num": 1033123,
+        "word": "外交部长王毅答记者问",
+        "onboard_time": 1772934981,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 502650,
+        "num": 734189,
+        "word": "妇女节",
+        "onboard_time": 1772924956,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28922,
+        "num": 568797,
+        "word": "奋进十五五AI超燃大片",
+        "onboard_time": 1772939780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 471852,
+        "num": 471852,
+        "word": "AI龙虾爆火有人几天赚了26万",
+        "onboard_time": 1772938039,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 222498,
+        "num": 222498,
+        "word": "玉兰花开君再来",
+        "onboard_time": 1772938039,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228835,
+        "num": 219908,
+        "word": "美袭击伊朗海水淡化厂",
+        "onboard_time": 1772925016,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216582,
+        "num": 216582,
+        "word": "妇女节快乐",
+        "onboard_time": 1772932700,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195061,
+        "num": 195061,
+        "word": "我的饭量得吃50层才能饱",
+        "onboard_time": 1772933179,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6794,
+        "num": 174202,
+        "word": "未来5年这些民生举措事关你我",
+        "onboard_time": 1772939780,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169878,
+        "num": 169878,
+        "word": "养龙虾为什么爆火",
+        "onboard_time": 1772937801,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 419202,
+        "num": 168884,
+        "word": "张凌赫田曦薇下意识的牵手",
+        "onboard_time": 1772937623,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211895,
+        "num": 168103,
+        "word": "170斤女孩穿旗袍跳舞自信到发光",
+        "onboard_time": 1772934380,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177160,
+        "num": 165941,
+        "word": "低食量女生的一顿饭",
+        "onboard_time": 1772937261,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13070,
+        "num": 164366,
+        "word": "9个字看十五五规划里的世界机遇",
+        "onboard_time": 1772939482,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100218,
+        "num": 162060,
+        "word": "千问一句话买眼镜",
+        "onboard_time": 1772938880,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161664,
+        "num": 161664,
+        "word": "AI写作48小时生成500万字长篇小说",
+        "onboard_time": 1772929457,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155900,
+        "num": 155900,
+        "word": "十日终焉",
+        "onboard_time": 1772929160,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150677,
+        "num": 150677,
+        "word": "伊朗65所学校遭袭",
+        "onboard_time": 1772899221,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136222,
+        "num": 136222,
+        "word": "硬糖少女偷偶像练习生的鱼",
+        "onboard_time": 1772937801,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129924,
+        "num": 129924,
+        "word": "中俄关系风雨不动安如山",
+        "onboard_time": 1772937440,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15748,
+        "num": 126686,
+        "word": "一五到十五五重大工程",
+        "onboard_time": 1772939482,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276829,
+        "num": 126616,
+        "word": "逐玉",
+        "onboard_time": 1772934860,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126017,
+        "num": 126017,
+        "word": "伊朗称以色列试图构建人盾",
+        "onboard_time": 1772929040,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123293,
+        "num": 123293,
+        "word": "去动物园竟被猴子投喂苹果",
+        "onboard_time": 1772931141,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118382,
+        "num": 118382,
+        "word": "麦当劳CEO被质疑多次假吃吐掉汉堡",
+        "onboard_time": 1772927898,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118262,
+        "num": 118262,
+        "word": "卢昱晓跳Zoo",
+        "onboard_time": 1772936000,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115163,
+        "num": 115163,
+        "word": "iPhone17国内最新销量",
+        "onboard_time": 1772932280,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98415,
+        "num": 98415,
+        "word": "外国游客到中国根本买不够",
+        "onboard_time": 1772931439,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95141,
+        "num": 95141,
+        "word": "伊朗大规模无人机攻击美以",
+        "onboard_time": 1772927657,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94458,
+        "num": 94458,
+        "word": "王毅谈中美",
+        "onboard_time": 1772939062,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92402,
+        "num": 92402,
+        "word": "海贼王也得拜妈祖",
+        "onboard_time": 1772934919,
+        "rank": 30,
+        "category": "剧集,动漫"
+      },
+      {
+        "raw_hot": 92344,
+        "num": 92344,
+        "word": "杨超越陈飞宇G社生图",
+        "onboard_time": 1772936301,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86700,
+        "num": 89149,
+        "word": "伊朗外长称特朗普误判扼杀和平努力",
+        "onboard_time": 1772937500,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87394,
+        "num": 87394,
+        "word": "对张凌赫田曦薇身高差有了实感",
+        "onboard_time": 1772925737,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83324,
+        "num": 87394,
+        "word": "郑钦文止步次轮",
+        "onboard_time": 1772936661,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81696,
+        "num": 87393,
+        "word": "多地学校早读取消了",
+        "onboard_time": 1772926878,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 81023,
+        "num": 87393,
+        "word": "网传侯明昊陈意涵主演攻玉",
+        "onboard_time": 1772937560,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79526,
+        "num": 87393,
+        "word": "伊朗高官说伊朗导弹库仍完好",
+        "onboard_time": 1772936119,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73739,
+        "num": 87393,
+        "word": "黄子韬曾经是张艺凡导师",
+        "onboard_time": 1772939660,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78175,
+        "num": 87392,
+        "word": "伊朗称打击超200处美以目标",
+        "onboard_time": 1772928439,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72034,
+        "num": 87392,
+        "word": "我国正在攻关外星长期生存问题",
+        "onboard_time": 1772934140,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 70047,
+        "num": 87391,
+        "word": "00后老板妇女节送员工月薪翻倍奖",
+        "onboard_time": 1772939780,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 66807,
+        "num": 87391,
+        "word": "医生回应33岁男子熬夜喝酒心脏烂个洞",
+        "onboard_time": 1772939182,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66604,
+        "num": 87390,
+        "word": "贵州豌豆尖卖到320一公斤",
+        "onboard_time": 1772935400,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35359,
+        "num": 87390,
+        "word": "今天妇女节",
+        "onboard_time": 1772939182,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65939,
+        "num": 87389,
+        "word": "伊朗民众前往献血",
+        "onboard_time": 1772932400,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63805,
+        "num": 87389,
+        "word": "中美可以改变相处方式",
+        "onboard_time": 1772938940,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63612,
+        "num": 87388,
+        "word": "王安宇Celine造型",
+        "onboard_time": 1772933900,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33966,
+        "num": 87388,
+        "word": "向每一位闪闪发光的她致敬",
+        "onboard_time": 1772939182,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62654,
+        "num": 87388,
+        "word": "郭晓婷王天辰双人大片花絮",
+        "onboard_time": 1772936301,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再部署加快建设健康中国#"
+    }
+  }
+}
