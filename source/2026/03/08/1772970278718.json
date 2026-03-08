@@ -1,0 +1,410 @@
+{
+  "runTime": 1772970278718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 440957,
+        "num": 1070553,
+        "word": "王毅回应两岸统一时间表",
+        "onboard_time": 1772955800,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196206,
+        "num": 786292,
+        "word": "AI龙虾爆火工信部发布高危风险预警",
+        "onboard_time": 1772961739,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23400,
+        "num": 617764,
+        "word": "世界乱象丛生祖国稳如泰山",
+        "onboard_time": 1772939242,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298685,
+        "num": 604955,
+        "word": "中国孩子坐警车看表演火爆外网",
+        "onboard_time": 1772964382,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238029,
+        "num": 602894,
+        "word": "在北京穿了将近半年的羽绒服",
+        "onboard_time": 1772963540,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296121,
+        "num": 577255,
+        "word": "伊朗宣布将采用全新攻击方式",
+        "onboard_time": 1772961261,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191819,
+        "num": 564633,
+        "word": "退出APP显示残忍离开到底谁发明的",
+        "onboard_time": 1772965401,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31445,
+        "num": 559782,
+        "word": "建议规范食品有效期标注",
+        "onboard_time": 1772960780,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33395,
+        "num": 548968,
+        "word": "中国人有天下为公的格局",
+        "onboard_time": 1772959281,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152185,
+        "num": 531027,
+        "word": "人脸验证时千万记得穿衣服",
+        "onboard_time": 1772959220,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 871029,
+        "num": 518067,
+        "word": "伊朗亮底线",
+        "onboard_time": 1772951001,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 646773,
+        "num": 503075,
+        "word": "逐玉9集封神了",
+        "onboard_time": 1772968702,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195858,
+        "num": 487871,
+        "word": "氧化菊回应被央视用作妇女节封面",
+        "onboard_time": 1772963481,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131184,
+        "num": 477668,
+        "word": "马来西亚通报MH370搜寻最新进展",
+        "onboard_time": 1772954360,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13805,
+        "num": 463658,
+        "word": "接红包做发光大女主",
+        "onboard_time": 1772967740,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124951,
+        "num": 452209,
+        "word": "仙逆动画",
+        "onboard_time": 1772967320,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 117643,
+        "num": 433646,
+        "word": "BLG对战JDG",
+        "onboard_time": 1772959820,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115405,
+        "num": 422701,
+        "word": "时代少年团广州演唱会",
+        "onboard_time": 1772969540,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104675,
+        "num": 411712,
+        "word": "很喜欢用嘿嘿这两个字",
+        "onboard_time": 1772967860,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100837,
+        "num": 396312,
+        "word": "妇女节",
+        "onboard_time": 1772924956,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693274,
+        "num": 382000,
+        "word": "严屹宽一出场皇帝瞬间被衬成公公",
+        "onboard_time": 1772966840,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373378,
+        "num": 373378,
+        "word": "时代少年团直播",
+        "onboard_time": 1772964319,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241631,
+        "num": 373376,
+        "word": "伊朗选出新最高领袖",
+        "onboard_time": 1772952140,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189998,
+        "num": 373376,
+        "word": "桃黑黑抽奖",
+        "onboard_time": 1772963061,
+        "rank": 23,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 181151,
+        "num": 373375,
+        "word": "女子糖尿病不忌口8年变尿毒症",
+        "onboard_time": 1772963421,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164447,
+        "num": 373373,
+        "word": "逐玉",
+        "onboard_time": 1772934860,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129212,
+        "num": 373371,
+        "word": "山东的煎饼是要考研吗",
+        "onboard_time": 1772969960,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97646,
+        "num": 373368,
+        "word": "微波炉泡面",
+        "onboard_time": 1772958681,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143612,
+        "num": 373367,
+        "word": "张凌赫晒谢征日常",
+        "onboard_time": 1772960301,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118580,
+        "num": 373365,
+        "word": "王一博Lacoste的造型",
+        "onboard_time": 1772965521,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93587,
+        "num": 373365,
+        "word": "DYG对战KSG",
+        "onboard_time": 1772963600,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93286,
+        "num": 373362,
+        "word": "中国体操队夺美国杯混团冠军",
+        "onboard_time": 1772966300,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90962,
+        "num": 373361,
+        "word": "公务员谈养龙虾真实感受",
+        "onboard_time": 1772963721,
+        "rank": 32,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 88941,
+        "num": 373360,
+        "word": "伊朗说将推动美国完全撤出中东",
+        "onboard_time": 1772962340,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84727,
+        "num": 373357,
+        "word": "妇女节红包",
+        "onboard_time": 1772953220,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77551,
+        "num": 373356,
+        "word": "赵丽颖乔妍带假发摇摆",
+        "onboard_time": 1772969481,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75693,
+        "num": 373354,
+        "word": "惠英红 是妇女节快乐",
+        "onboard_time": 1772946381,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28354,
+        "num": 373352,
+        "word": "中国算力网如何织就",
+        "onboard_time": 1772968880,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70161,
+        "num": 373352,
+        "word": "仁科 国足拿世界杯五条人就解散",
+        "onboard_time": 1772968521,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66808,
+        "num": 373349,
+        "word": "家里已经有你这只小猫",
+        "onboard_time": 1772970201,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65871,
+        "num": 373348,
+        "word": "孙颖莎收到自己漫画形象礼物",
+        "onboard_time": 1772966661,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65554,
+        "num": 373347,
+        "word": "月薪8千快递员夫妻坚持带娃务工",
+        "onboard_time": 1772968761,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64617,
+        "num": 373345,
+        "word": "不同体重下猫正面坐姿的区别",
+        "onboard_time": 1772969960,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63185,
+        "num": 373344,
+        "word": "敖瑞鹏异域古装造型路透",
+        "onboard_time": 1772968941,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63052,
+        "num": 373343,
+        "word": "高至霆我从小美好就跟你了",
+        "onboard_time": 1772964021,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62511,
+        "num": 373340,
+        "word": "108公斤27岁女生花1年减掉108斤",
+        "onboard_time": 1772954720,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57840,
+        "num": 373340,
+        "word": "田曦薇演技好灵",
+        "onboard_time": 1772955440,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56195,
+        "num": 373337,
+        "word": "养胡萝卜",
+        "onboard_time": 1772960120,
+        "rank": 47,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 55565,
+        "num": 373335,
+        "word": "20种口味的鸡翅",
+        "onboard_time": 1772967259,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 55041,
+        "num": 373333,
+        "word": "张凌赫九个枕头的腿长含金量",
+        "onboard_time": 1772968640,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和政协委员共绘民生蓝图#"
+    }
+  }
+}
