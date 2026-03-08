@@ -1,6 +1,6 @@
 {
   "startTime": 1772987964652,
-  "endTime": 1773002199061,
+  "endTime": 1773002995078,
   "band_list": [
     {
       "raw_hot": 1436207,
@@ -473,6 +473,14 @@
       "onboard_time": 1772974521,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 8428,
+      "num": 16632,
+      "word": "时代少年团直播",
+      "onboard_time": 1772964319,
+      "rank": 49,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
