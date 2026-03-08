@@ -1,6 +1,6 @@
 {
   "startTime": 1772987964652,
-  "endTime": 1773005550767,
+  "endTime": 1773006378650,
   "band_list": [
     {
       "raw_hot": 1436207,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 180352,
-      "num": 180352,
+      "num": 197898,
       "word": "两艘万吨大驱亮相",
       "onboard_time": 1772979441,
       "rank": 7,
@@ -467,7 +467,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 14039,
+      "raw_hot": 14719,
       "num": 28677,
       "word": "PEL春季赛",
       "onboard_time": 1772974521,
