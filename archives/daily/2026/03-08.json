@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772980402790,
+  "endTime": 1772981463246,
   "band_list": [
     {
       "raw_hot": 1779732,
@@ -41,6 +41,14 @@
       "onboard_time": 1772937623,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 812964,
+      "num": 240555,
+      "word": "逐玉 出圈梗",
+      "onboard_time": 1772979201,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 701876,
@@ -95,14 +103,6 @@
       "num": 503075,
       "word": "逐玉9集封神了",
       "onboard_time": 1772968702,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 609152,
-      "num": 191489,
-      "word": "逐玉 出圈梗",
-      "onboard_time": 1772979201,
       "rank": 12,
       "category": "剧集"
     },
@@ -195,8 +195,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 403886,
+      "num": 1064621,
+      "word": "两艘万吨大驱亮相",
+      "onboard_time": 1772979441,
+      "rank": 17,
+      "category": "军事"
+    },
+    {
       "raw_hot": 403000,
-      "num": 155991,
+      "num": 207402,
       "word": "王一博 巴黎也有回南天",
       "onboard_time": 1772977521,
       "rank": 37,
@@ -323,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 306075,
+      "num": 347555,
+      "word": "JDG对战狼队",
+      "onboard_time": 1772973201,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 303529,
       "num": 373357,
       "word": "妇女节红包",
@@ -345,14 +361,6 @@
       "onboard_time": 1772964382,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 297802,
-      "num": 347555,
-      "word": "JDG对战狼队",
-      "onboard_time": 1772973201,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 297207,
@@ -523,6 +531,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240753,
+      "num": 240753,
+      "word": "我妈以为的早熟vs实际上的早熟",
+      "onboard_time": 1772974401,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 240546,
+      "num": 317776,
+      "word": "回避型差评需要一个引导型商家",
+      "onboard_time": 1772972541,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238576,
       "num": 214373,
       "word": "杨紫罗马时装周",
@@ -547,6 +571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 233566,
+      "num": 203599,
+      "word": "恋综史上最明艳的出场",
+      "onboard_time": 1772977943,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232614,
       "num": 805162,
       "word": "AI龙虾爆火工信部发布高危风险预警",
@@ -561,14 +593,6 @@
       "onboard_time": 1772933179,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 232174,
-      "num": 232174,
-      "word": "我妈以为的早熟vs实际上的早熟",
-      "onboard_time": 1772974401,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 226693,
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 224343,
-      "num": 188399,
+      "num": 215053,
       "word": "逐玉 认养一头牛",
       "onboard_time": 1772978481,
       "rank": 16,
@@ -600,14 +624,6 @@
       "word": "你好星期六",
       "onboard_time": 1772887943,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 219220,
-      "num": 145536,
-      "word": "恋综史上最明艳的出场",
-      "onboard_time": 1772977943,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -625,14 +641,6 @@
       "onboard_time": 1772978481,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208281,
-      "num": 317776,
-      "word": "回避型差评需要一个引导型商家",
-      "onboard_time": 1772972541,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 208032,
@@ -707,14 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179223,
-      "num": 179223,
-      "word": "两艘万吨大驱亮相",
-      "onboard_time": 1772979441,
-      "rank": 17,
-      "category": "军事"
-    },
-    {
       "raw_hot": 177160,
       "num": 297874,
       "word": "低食量女生的一顿饭",
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 175189,
-      "num": 141207,
+      "num": 162491,
       "word": "所有对伊作战的美军基地全被打了",
       "onboard_time": 1772976982,
       "rank": 43,
@@ -892,7 +892,7 @@
     },
     {
       "raw_hot": 139919,
-      "num": 139919,
+      "num": 161519,
       "word": "胡明轩三分大赛冠军",
       "onboard_time": 1772976141,
       "rank": 29,
@@ -1028,7 +1028,7 @@
     },
     {
       "raw_hot": 121346,
-      "num": 129002,
+      "num": 161768,
       "word": "童禹坤直播",
       "onboard_time": 1772975122,
       "rank": 46,
@@ -1100,7 +1100,7 @@
     },
     {
       "raw_hot": 110334,
-      "num": 129033,
+      "num": 162162,
       "word": "国际劳动妇女节",
       "onboard_time": 1772976862,
       "rank": 35,
@@ -1123,8 +1123,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105376,
+      "num": 240684,
+      "word": "AI对老师的影响",
+      "onboard_time": 1772979862,
+      "rank": 9,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 105203,
-      "num": 129080,
+      "num": 161606,
       "word": "AG花花三连周MVP",
       "onboard_time": 1772980161,
       "rank": 35,
@@ -1164,7 +1172,7 @@
     },
     {
       "raw_hot": 103622,
-      "num": 128850,
+      "num": 161905,
       "word": "金智秀新剧韩趋第一",
       "onboard_time": 1772971401,
       "rank": 36,
@@ -1172,7 +1180,7 @@
     },
     {
       "raw_hot": 102885,
-      "num": 129049,
+      "num": 162050,
       "word": "98岁爷爷在西湖边火了",
       "onboard_time": 1772974882,
       "rank": 43,
@@ -1235,6 +1243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98446,
+      "num": 162238,
+      "word": "金晨孙阳偏偏喜欢你2杀青捧花",
+      "onboard_time": 1772981181,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98121,
       "num": 297791,
       "word": "库里说天天想吃中国的火锅小龙虾",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1772895923,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96798,
+      "num": 162218,
+      "word": "徐杰当选全明星MVP",
+      "onboard_time": 1772980401,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 96340,
@@ -1540,7 +1564,7 @@
     },
     {
       "raw_hot": 82521,
-      "num": 128957,
+      "num": 161865,
       "word": "已有600余名中国公民从伊朗安全撤离",
       "onboard_time": 1772979743,
       "rank": 41,
@@ -1668,7 +1692,7 @@
     },
     {
       "raw_hot": 77614,
-      "num": 128884,
+      "num": 161442,
       "word": "春天真的是一个太美好的季节",
       "onboard_time": 1772979802,
       "rank": 45,
@@ -1740,7 +1764,7 @@
     },
     {
       "raw_hot": 75436,
-      "num": 128877,
+      "num": 161758,
       "word": "GEN对战JDG",
       "onboard_time": 1772977822,
       "rank": 46,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1772968521,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70072,
+      "num": 630903,
+      "word": "从海底1万米到距地球4300万公里",
+      "onboard_time": 1772976380,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70047,
@@ -2091,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62654,
+      "num": 161570,
+      "word": "触控屏MacBookPro爆料",
+      "onboard_time": 1772980522,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 62627,
       "num": 143649,
       "word": "四分离卫生间",
@@ -2161,14 +2201,6 @@
       "onboard_time": 1772884222,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 60018,
-      "num": 630903,
-      "word": "从海底1万米到距地球4300万公里",
-      "onboard_time": 1772976380,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59718,
@@ -2497,14 +2529,6 @@
       "onboard_time": 1772965521,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 40650,
-      "num": 194919,
-      "word": "AI对老师的影响",
-      "onboard_time": 1772979862,
-      "rank": 9,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 39939,
