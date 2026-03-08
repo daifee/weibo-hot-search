@@ -1,0 +1,410 @@
+{
+  "runTime": 1772977819535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 390788,
+        "num": 1062526,
+        "word": "王毅回应两岸统一时间表",
+        "onboard_time": 1772955800,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177046,
+        "num": 747726,
+        "word": "AI龙虾爆火工信部发布高危风险预警",
+        "onboard_time": 1772961739,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 47702,
+        "num": 590538,
+        "word": "从海底1万米到距地球4300万公里",
+        "onboard_time": 1772976380,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 501513,
+        "num": 501513,
+        "word": "武大食堂4元熬夜水日销百斤",
+        "onboard_time": 1772974761,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382032,
+        "num": 382032,
+        "word": "Bin获FMVP",
+        "onboard_time": 1772975062,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 415266,
+        "num": 380454,
+        "word": "多架美军机相继离开韩国基地",
+        "onboard_time": 1772971580,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269262,
+        "num": 377669,
+        "word": "很喜欢用嘿嘿这两个字",
+        "onboard_time": 1772967860,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31622,
+        "num": 375932,
+        "word": "不同意授权不能用App是霸王条款",
+        "onboard_time": 1772977041,
+        "rank": 7,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 30572,
+        "num": 373184,
+        "word": "中国式现代化圈粉全球",
+        "onboard_time": 1772976380,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27699,
+        "num": 372367,
+        "word": "小麦代表的麦田情",
+        "onboard_time": 1772975241,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1519931,
+        "num": 367883,
+        "word": "逐玉播放量超过狂飙",
+        "onboard_time": 1772975661,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367744,
+        "num": 367744,
+        "word": "伊朗亮底线",
+        "onboard_time": 1772951001,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 711066,
+        "num": 356726,
+        "word": "逐玉走势",
+        "onboard_time": 1772970560,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286019,
+        "num": 347555,
+        "word": "JDG对战狼队",
+        "onboard_time": 1772973201,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25033,
+        "num": 343148,
+        "word": "谁懂妇女能顶半边天的含金量",
+        "onboard_time": 1772975002,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340430,
+        "num": 340430,
+        "word": "孔雪儿逐玉出场",
+        "onboard_time": 1772973681,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237519,
+        "num": 334819,
+        "word": "退出APP显示残忍离开到底谁发明的",
+        "onboard_time": 1772965401,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204513,
+        "num": 331439,
+        "word": "BLG对战JDG",
+        "onboard_time": 1772959820,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188582,
+        "num": 322852,
+        "word": "逐玉9集封神了",
+        "onboard_time": 1772968702,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155048,
+        "num": 317776,
+        "word": "回避型差评需要一个引导型商家",
+        "onboard_time": 1772972541,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398014,
+        "num": 312238,
+        "word": "严屹宽一出场皇帝瞬间被衬成公公",
+        "onboard_time": 1772966840,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306951,
+        "num": 306951,
+        "word": "27岁女子挤痘痘后确诊2型糖尿病",
+        "onboard_time": 1772975302,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297207,
+        "num": 297207,
+        "word": "王一博看完你的看你的",
+        "onboard_time": 1772975541,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269784,
+        "num": 269784,
+        "word": "伊朗选出新最高领袖",
+        "onboard_time": 1772952140,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214373,
+        "num": 214373,
+        "word": "杨紫罗马时装周",
+        "onboard_time": 1772973440,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187598,
+        "num": 187598,
+        "word": "伊朗发起第28波攻势",
+        "onboard_time": 1772973321,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183098,
+        "num": 183098,
+        "word": "逐玉",
+        "onboard_time": 1772934860,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167812,
+        "num": 167812,
+        "word": "伊朗宣布将采用全新攻击方式",
+        "onboard_time": 1772961261,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154148,
+        "num": 154148,
+        "word": "王一博Mai合影",
+        "onboard_time": 1772976742,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139919,
+        "num": 139919,
+        "word": "胡明轩三分大赛冠军",
+        "onboard_time": 1772976141,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133198,
+        "num": 133198,
+        "word": "时代少年团广州演唱会",
+        "onboard_time": 1772969540,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125566,
+        "num": 125566,
+        "word": "女子糖尿病不忌口8年变尿毒症",
+        "onboard_time": 1772963421,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119324,
+        "num": 119324,
+        "word": "我妈以为的早熟vs实际上的早熟",
+        "onboard_time": 1772974401,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53994,
+        "num": 115135,
+        "word": "赵雅芝红包",
+        "onboard_time": 1772975302,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114895,
+        "num": 114895,
+        "word": "童禹坤直播",
+        "onboard_time": 1772975122,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110334,
+        "num": 110334,
+        "word": "国际劳动妇女节",
+        "onboard_time": 1772976862,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97141,
+        "num": 110333,
+        "word": "98岁爷爷在西湖边火了",
+        "onboard_time": 1772974882,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96674,
+        "num": 110331,
+        "word": "王一博 巴黎也有回南天",
+        "onboard_time": 1772977521,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91687,
+        "num": 110328,
+        "word": "建议70岁以上农村老人免缴医保",
+        "onboard_time": 1772974641,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89214,
+        "num": 110325,
+        "word": "金智秀新剧韩趋第一",
+        "onboard_time": 1772971401,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88843,
+        "num": 110322,
+        "word": "妇女节",
+        "onboard_time": 1772924956,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87205,
+        "num": 110321,
+        "word": "中国孩子坐警车看表演火爆外网",
+        "onboard_time": 1772964382,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88280,
+        "num": 110318,
+        "word": "桃黑黑抽奖",
+        "onboard_time": 1772963061,
+        "rank": 42,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 87912,
+        "num": 110315,
+        "word": "所有对伊作战的美军基地全被打了",
+        "onboard_time": 1772976982,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85953,
+        "num": 110312,
+        "word": "在北京穿了将近半年的羽绒服",
+        "onboard_time": 1772963540,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79458,
+        "num": 110310,
+        "word": "女子抽中工资翻倍要把产线干停",
+        "onboard_time": 1772973321,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78108,
+        "num": 110308,
+        "word": "Bin说要打爆Kiin",
+        "onboard_time": 1772976563,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77937,
+        "num": 110305,
+        "word": "BLG夺得优胜者",
+        "onboard_time": 1772975122,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74029,
+        "num": 110302,
+        "word": "武汉三镇0比2北京国安",
+        "onboard_time": 1772977642,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72885,
+        "num": 110300,
+        "word": "时代少年团直播",
+        "onboard_time": 1772964319,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记两会下团组#"
+    }
+  }
+}

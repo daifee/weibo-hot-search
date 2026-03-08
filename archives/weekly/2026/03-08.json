@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772975812624,
+  "endTime": 1772977819535,
   "band_list": [
     {
       "raw_hot": 1538769,
@@ -9,6 +9,14 @@
       "onboard_time": 1772952140,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1519931,
+      "num": 367883,
+      "word": "逐玉播放量超过狂飙",
+      "onboard_time": 1772975661,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 1343198,
@@ -121,6 +129,14 @@
       "onboard_time": 1772971580,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 501513,
+      "num": 501513,
+      "word": "武大食堂4元熬夜水日销百斤",
+      "onboard_time": 1772974761,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 475340,
@@ -267,6 +283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 306951,
+      "num": 306951,
+      "word": "27岁女子挤痘痘后确诊2型糖尿病",
+      "onboard_time": 1772975302,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306899,
       "num": 297721,
       "word": "黄子韬曾经是张艺凡导师",
@@ -307,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 297207,
+      "num": 297207,
+      "word": "王一博看完你的看你的",
+      "onboard_time": 1772975541,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 294574,
       "num": 531027,
       "word": "人脸验证时千万记得穿衣服",
@@ -329,6 +361,14 @@
       "onboard_time": 1772967860,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 286019,
+      "num": 347555,
+      "word": "JDG对战狼队",
+      "onboard_time": 1772973201,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 284209,
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 238576,
-      "num": 196017,
+      "num": 214373,
       "word": "杨紫罗马时装周",
       "onboard_time": 1772973440,
       "rank": 24,
@@ -472,6 +512,14 @@
       "word": "狗 我就是咪咪啊",
       "onboard_time": 1772944401,
       "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 237519,
+      "num": 564633,
+      "word": "退出APP显示残忍离开到底谁发明的",
+      "onboard_time": 1772965401,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -496,14 +544,6 @@
       "word": "我的饭量得吃50层才能饱",
       "onboard_time": 1772933179,
       "rank": 7,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 231652,
-      "num": 564633,
-      "word": "退出APP显示残忍离开到底谁发明的",
-      "onboard_time": 1772965401,
-      "rank": 38,
       "category": "幽默"
     },
     {
@@ -555,14 +595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 204682,
-      "num": 204682,
-      "word": "JDG对战狼队",
-      "onboard_time": 1772973201,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 199922,
       "num": 297052,
       "word": "杨紫左手牵娃右手抱娃",
@@ -603,16 +635,8 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 183454,
-      "num": 140222,
-      "word": "27岁女子挤痘痘后确诊2型糖尿病",
-      "onboard_time": 1772975302,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179744,
-      "num": 163941,
+      "raw_hot": 187598,
+      "num": 187598,
       "word": "伊朗发起第28波攻势",
       "onboard_time": 1772973321,
       "rank": 27,
@@ -659,14 +683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162760,
-      "num": 89736,
-      "word": "逐玉播放量超过狂飙",
-      "onboard_time": 1772975661,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159076,
       "num": 197371,
       "word": "没有任何一个决定会毁了你的一生",
@@ -689,6 +705,22 @@
       "onboard_time": 1772925677,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155048,
+      "num": 317776,
+      "word": "回避型差评需要一个引导型商家",
+      "onboard_time": 1772972541,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154148,
+      "num": 154148,
+      "word": "王一博Mai合影",
+      "onboard_time": 1772976742,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153797,
@@ -795,6 +827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139919,
+      "num": 139919,
+      "word": "胡明轩三分大赛冠军",
+      "onboard_time": 1772976141,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138541,
       "num": 299084,
       "word": "王赫野周震南这主意到底谁出的",
@@ -817,14 +857,6 @@
       "onboard_time": 1772889983,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 132600,
-      "num": 198162,
-      "word": "回避型差评需要一个引导型商家",
-      "onboard_time": 1772972541,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 132305,
@@ -939,6 +971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 119324,
+      "num": 119324,
+      "word": "我妈以为的早熟vs实际上的早熟",
+      "onboard_time": 1772974401,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119208,
       "num": 740533,
       "word": "周深 英文歌",
@@ -963,12 +1003,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116876,
-      "num": 116876,
-      "word": "王一博看完你的看你的",
-      "onboard_time": 1772975541,
-      "rank": 36,
-      "category": "作品衍生,时尚"
+      "raw_hot": 114895,
+      "num": 114895,
+      "word": "童禹坤直播",
+      "onboard_time": 1772975122,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 114517,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1772971882,
       "rank": 33,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 110334,
+      "num": 110334,
+      "word": "国际劳动妇女节",
+      "onboard_time": 1772976862,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107606,
@@ -1052,7 +1100,7 @@
     },
     {
       "raw_hot": 103622,
-      "num": 103622,
+      "num": 110325,
       "word": "金智秀新剧韩趋第一",
       "onboard_time": 1772971401,
       "rank": 36,
@@ -1115,14 +1163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98510,
-      "num": 98510,
-      "word": "我妈以为的早熟vs实际上的早熟",
-      "onboard_time": 1772974401,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 98121,
       "num": 297791,
       "word": "库里说天天想吃中国的火锅小龙虾",
@@ -1153,6 +1193,22 @@
       "onboard_time": 1772895923,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97141,
+      "num": 110333,
+      "word": "98岁爷爷在西湖边火了",
+      "onboard_time": 1772974882,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96674,
+      "num": 110331,
+      "word": "王一博 巴黎也有回南天",
+      "onboard_time": 1772977521,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 96340,
@@ -1227,14 +1283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92623,
-      "num": 92623,
-      "word": "童禹坤直播",
-      "onboard_time": 1772975122,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92402,
       "num": 92402,
       "word": "海贼王也得拜妈祖",
@@ -1265,6 +1313,14 @@
       "onboard_time": 1772936119,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91687,
+      "num": 283860,
+      "word": "建议70岁以上农村老人免缴医保",
+      "onboard_time": 1772974641,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89582,
@@ -1331,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87912,
+      "num": 110315,
+      "word": "所有对伊作战的美军基地全被打了",
+      "onboard_time": 1772976982,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87551,
       "num": 87551,
       "word": "张凌赫谢征外甥随舅舅",
@@ -1356,7 +1420,7 @@
     },
     {
       "raw_hot": 86083,
-      "num": 86083,
+      "num": 110310,
       "word": "女子抽中工资翻倍要把产线干停",
       "onboard_time": 1772973321,
       "rank": 40,
@@ -1385,14 +1449,6 @@
       "onboard_time": 1772955800,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 84006,
-      "num": 183717,
-      "word": "武大食堂4元熬夜水日销百斤",
-      "onboard_time": 1772974761,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83917,
@@ -1491,14 +1547,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 78445,
-      "num": 78445,
-      "word": "98岁爷爷在西湖边火了",
-      "onboard_time": 1772974882,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78264,
       "num": 181390,
       "word": "孙颖莎出镜央视妇女节短片",
@@ -1512,6 +1560,14 @@
       "word": "PEL春季赛",
       "onboard_time": 1772974521,
       "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 78108,
+      "num": 110308,
+      "word": "Bin说要打爆Kiin",
+      "onboard_time": 1772976563,
+      "rank": 46,
       "category": "电竞"
     },
     {
@@ -1625,6 +1681,14 @@
       "onboard_time": 1772903538,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74029,
+      "num": 110302,
+      "word": "武汉三镇0比2北京国安",
+      "onboard_time": 1772977642,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 73883,
@@ -2107,6 +2171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 53994,
+      "num": 132909,
+      "word": "赵雅芝红包",
+      "onboard_time": 1772975302,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53576,
       "num": 230665,
       "word": "边牧第一次碰到羊群血脉觉醒",
@@ -2147,14 +2219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52168,
-      "num": 283860,
-      "word": "建议70岁以上农村老人免缴医保",
-      "onboard_time": 1772974641,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 51367,
       "num": 740027,
       "word": "AG战胜WB",
@@ -2185,14 +2249,6 @@
       "onboard_time": 1772927058,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 50076,
-      "num": 132909,
-      "word": "赵雅芝红包",
-      "onboard_time": 1772975302,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 48755,
@@ -2233,6 +2289,14 @@
       "onboard_time": 1772952502,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47702,
+      "num": 590538,
+      "word": "从海底1万米到距地球4300万公里",
+      "onboard_time": 1772976380,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47699,
@@ -2491,6 +2555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31622,
+      "num": 375932,
+      "word": "不同意授权不能用App是霸王条款",
+      "onboard_time": 1772977041,
+      "rank": 7,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 31512,
       "num": 651792,
       "word": "斗破苍穹",
@@ -2523,6 +2595,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 30572,
+      "num": 373184,
+      "word": "中国式现代化圈粉全球",
+      "onboard_time": 1772976380,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29563,
       "num": 278630,
       "word": "每一位妇女都是主角",
@@ -2547,6 +2627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27699,
+      "num": 372367,
+      "word": "小麦代表的麦田情",
+      "onboard_time": 1772975241,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27152,
       "num": 199708,
       "word": "建议给大龄农民工提供培训就业",
@@ -2561,6 +2649,14 @@
       "onboard_time": 1772942660,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 25033,
+      "num": 343148,
+      "word": "谁懂妇女能顶半边天的含金量",
+      "onboard_time": 1772975002,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24753,
@@ -2643,14 +2739,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 19082,
-      "num": 274297,
-      "word": "小麦代表的麦田情",
-      "onboard_time": 1772975241,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 17629,
       "num": 215424,
       "word": "用智搜读懂女性的每一种精彩",
@@ -2729,14 +2817,6 @@
       "onboard_time": 1772967740,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13803,
-      "num": 203605,
-      "word": "谁懂妇女能顶半边天的含金量",
-      "onboard_time": 1772975002,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13070,
