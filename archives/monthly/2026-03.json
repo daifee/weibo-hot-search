@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772983964097,
+  "endTime": 1772984807373,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -131,6 +131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2136890,
+      "num": 709924,
+      "word": "狂飙",
+      "onboard_time": 1772981482,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2131728,
       "num": 2131728,
       "word": "月全食",
@@ -145,14 +153,6 @@
       "onboard_time": 1772372603,
       "rank": 3,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 2098934,
-      "num": 709924,
-      "word": "狂飙",
-      "onboard_time": 1772981482,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 2056777,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1538769,
-      "num": 397343,
+      "num": 416062,
       "word": "伊朗选出新最高领袖",
       "onboard_time": 1772952140,
       "rank": 20,
@@ -2572,7 +2572,7 @@
     },
     {
       "raw_hot": 492360,
-      "num": 228501,
+      "num": 232066,
       "word": "blue 预言家",
       "onboard_time": 1772982442,
       "rank": 11,
@@ -3187,6 +3187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 427039,
+      "num": 427039,
+      "word": "金晨孙阳偏偏喜欢你2杀青捧花",
+      "onboard_time": 1772981181,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 426909,
       "num": 426909,
       "word": "张凌赫感谢惠英红推荐逐玉",
@@ -3537,14 +3545,6 @@
       "onboard_time": 1772361862,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 397394,
-      "num": 397394,
-      "word": "金晨孙阳偏偏喜欢你2杀青捧花",
-      "onboard_time": 1772981181,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 396200,
@@ -5835,6 +5835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 253253,
+      "num": 253253,
+      "word": "多家黄金品牌宣布调价",
+      "onboard_time": 1772984060,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 252669,
       "num": 120640,
       "word": "伊朗总统之子发声",
@@ -6659,6 +6667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219206,
+      "num": 219206,
+      "word": "张凌赫田曦薇cp感",
+      "onboard_time": 1772981782,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219081,
       "num": 219081,
       "word": "杨博文跳伞",
@@ -6833,14 +6849,6 @@
       "onboard_time": 1772889323,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213103,
-      "num": 213103,
-      "word": "张凌赫田曦薇cp感",
-      "onboard_time": 1772981782,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 213084,
@@ -7401,6 +7409,14 @@
       "onboard_time": 1772524411,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193263,
+      "num": 193263,
+      "word": "无畏 赵怀真",
+      "onboard_time": 1772982081,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 193188,
@@ -9051,14 +9067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149540,
-      "num": 149540,
-      "word": "无畏 赵怀真",
-      "onboard_time": 1772982081,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 149481,
       "num": 149481,
       "word": "王楚然老钱风",
@@ -9177,6 +9185,14 @@
       "onboard_time": 1772806463,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 147431,
+      "num": 241194,
+      "word": "AI对老师的影响",
+      "onboard_time": 1772979862,
+      "rank": 9,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 147346,
@@ -9417,14 +9433,6 @@
       "onboard_time": 1772861422,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143939,
-      "num": 240684,
-      "word": "AI对老师的影响",
-      "onboard_time": 1772979862,
-      "rank": 9,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 143740,
@@ -12283,6 +12291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106053,
+      "num": 124684,
+      "word": "湖南卫视妇女节视频设计好天才啊",
+      "onboard_time": 1772983281,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105983,
       "num": 105983,
       "word": "台湾代表连报十几个大陆APP",
@@ -14867,14 +14883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 84169,
-      "num": 124684,
-      "word": "湖南卫视妇女节视频设计好天才啊",
-      "onboard_time": 1772983281,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84124,
       "num": 84124,
       "word": "开学第一周vs开学第二周",
@@ -16531,6 +16539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71555,
+      "num": 112384,
+      "word": "OpenAI多位负责人抗议辞职",
+      "onboard_time": 1772984360,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 71549,
       "num": 809660,
       "word": "598名女性获全国三八红旗手称号",
@@ -17939,6 +17955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57714,
+      "num": 112219,
+      "word": "以总统说战争期间不讨论赦免总理",
+      "onboard_time": 1772984242,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57705,
       "num": 291950,
       "word": "王楚钦参加重庆冠军赛抽签",
@@ -18649,6 +18673,14 @@
       "onboard_time": 1772711062,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47499,
+      "num": 112048,
+      "word": "谭松韵王劲松对手戏",
+      "onboard_time": 1772984123,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 47474,

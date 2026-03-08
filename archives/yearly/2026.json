@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1772983964097,
+  "endTime": 1772984807373,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1323,6 +1323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2136890,
+      "num": 709924,
+      "word": "狂飙",
+      "onboard_time": 1772981482,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2133729,
       "num": 2133729,
       "word": "霸王茶姬通报",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1772372603,
       "rank": 3,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 2098934,
-      "num": 709924,
-      "word": "狂飙",
-      "onboard_time": 1772981482,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 2080280,
