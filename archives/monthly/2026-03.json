@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772963609450,
+  "endTime": 1772966048366,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1443,6 +1443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 685769,
+      "num": 108735,
+      "word": "时代少年团直播",
+      "onboard_time": 1772964319,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 685460,
       "num": 523146,
       "word": "马化腾说没想到养龙虾这么火",
@@ -2659,6 +2667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 469542,
+      "num": 182729,
+      "word": "伊朗宣布将采用全新攻击方式",
+      "onboard_time": 1772961261,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 468016,
       "num": 468016,
       "word": "小偷来了都要先玩俩小时",
@@ -3049,6 +3065,14 @@
       "onboard_time": 1772637803,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 427803,
+      "num": 181231,
+      "word": "氧化菊回应被央视用作妇女节封面",
+      "onboard_time": 1772963481,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 427656,
@@ -3793,14 +3817,6 @@
       "onboard_time": 1772946381,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366234,
-      "num": 108596,
-      "word": "伊朗宣布将采用全新攻击方式",
-      "onboard_time": 1772961261,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 365681,
@@ -6531,6 +6547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216036,
+      "num": 107996,
+      "word": "女子糖尿病不忌口8年变尿毒症",
+      "onboard_time": 1772963421,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215802,
       "num": 215802,
       "word": "曝十日终焉领衔主演艾米",
@@ -8307,6 +8331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157442,
+      "num": 106703,
+      "word": "高至霆我从小美好就跟你了",
+      "onboard_time": 1772964021,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157365,
       "num": 402894,
       "word": "秦PLUS官宣7年低息夯爆了",
@@ -8723,6 +8755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149311,
+      "num": 149311,
+      "word": "AI龙虾爆火工信部发布高危风险预警",
+      "onboard_time": 1772961739,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149109,
       "num": 144212,
       "word": "美军称已有6名军人身亡",
@@ -9097,6 +9137,14 @@
       "onboard_time": 1772453784,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143659,
+      "num": 106307,
+      "word": "桃黑黑抽奖",
+      "onboard_time": 1772963061,
+      "rank": 30,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 143451,
@@ -9899,6 +9947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 130002,
+      "num": 105911,
+      "word": "伊朗说将推动美国完全撤出中东",
+      "onboard_time": 1772962340,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129934,
       "num": 149330,
       "word": "昊铂A800创史上最高最长雪地跳台极限爬坡纪录",
@@ -10115,6 +10171,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 126469,
+      "num": 105179,
+      "word": "公务员谈养龙虾真实感受",
+      "onboard_time": 1772963721,
+      "rank": 27,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 126404,
       "num": 126404,
       "word": "纯真年代播完卖上姐夫战袍了",
@@ -10129,6 +10193,14 @@
       "onboard_time": 1772852421,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126160,
+      "num": 126160,
+      "word": "养胡萝卜",
+      "onboard_time": 1772960120,
+      "rank": 47,
+      "category": "休闲"
     },
     {
       "raw_hot": 125969,
@@ -10683,14 +10755,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 119457,
-      "num": 119457,
-      "word": "AI龙虾爆火工信部发布高危风险预警",
-      "onboard_time": 1772961739,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 119251,
       "num": 119251,
       "word": "未来真正的竞争力将转向语言型人才",
@@ -10777,14 +10841,6 @@
       "onboard_time": 1772586267,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 118008,
-      "num": 93678,
-      "word": "桃黑黑抽奖",
-      "onboard_time": 1772963061,
-      "rank": 30,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 117866,
@@ -11209,6 +11265,14 @@
       "onboard_time": 1772628505,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113377,
+      "num": 103427,
+      "word": "中国孩子坐警车看表演火爆外网",
+      "onboard_time": 1772964382,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113277,
@@ -11971,6 +12035,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 104474,
+      "num": 162207,
+      "word": "BLG对战JDG",
+      "onboard_time": 1772959820,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104412,
       "num": 104412,
       "word": "女孩自拍被吐槽长得吓人",
@@ -12555,6 +12627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 99562,
+      "num": 99562,
+      "word": "王一博Lacoste的造型",
+      "onboard_time": 1772965521,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 99469,
       "num": 99469,
       "word": "男子喜宴误饮燃料氰化物中毒身亡",
@@ -12825,6 +12905,14 @@
       "onboard_time": 1772725761,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97297,
+      "num": 97297,
+      "word": "在北京穿了将近半年的羽绒服",
+      "onboard_time": 1772963540,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97265,
@@ -13161,14 +13249,6 @@
       "onboard_time": 1772758463,
       "rank": 41,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 93871,
-      "num": 93871,
-      "word": "女子糖尿病不忌口8年变尿毒症",
-      "onboard_time": 1772963421,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93772,
@@ -13691,14 +13771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 90562,
-      "num": 162207,
-      "word": "BLG对战JDG",
-      "onboard_time": 1772959820,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 90534,
       "num": 90534,
       "word": "为了哄自己开学想尽了办法",
@@ -14163,14 +14235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86129,
-      "num": 98157,
-      "word": "养胡萝卜",
-      "onboard_time": 1772960120,
-      "rank": 47,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 85901,
       "num": 85901,
       "word": "阿姨打车误点代驾执意要补偿",
@@ -14233,14 +14297,6 @@
       "onboard_time": 1772508386,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85449,
-      "num": 98139,
-      "word": "伊朗说将推动美国完全撤出中东",
-      "onboard_time": 1772962340,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85309,
@@ -14721,14 +14777,6 @@
       "onboard_time": 1772937560,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80946,
-      "num": 93543,
-      "word": "氧化菊回应被央视用作妇女节封面",
-      "onboard_time": 1772963481,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80943,
@@ -15763,6 +15811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72965,
+      "num": 98117,
+      "word": "油价创数十年来最大单周涨幅",
+      "onboard_time": 1772962580,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72949,
       "num": 72949,
       "word": "杀戮尖塔 2",
@@ -16267,14 +16323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68108,
-      "num": 93322,
-      "word": "在北京穿了将近半年的羽绒服",
-      "onboard_time": 1772963540,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67883,
       "num": 70479,
       "word": "电影我许可定档",
@@ -16491,6 +16539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66158,
+      "num": 97215,
+      "word": "退出APP显示残忍离开到底谁发明的",
+      "onboard_time": 1772965401,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66070,
       "num": 85417,
       "word": "戚薇王鸥你俩一起过刚刚好",
@@ -16705,14 +16761,6 @@
       "onboard_time": 1772809882,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 63563,
-      "num": 98117,
-      "word": "油价创数十年来最大单周涨幅",
-      "onboard_time": 1772962580,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 63457,
@@ -17123,6 +17171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 59008,
+      "num": 97147,
+      "word": "DYG对战KSG",
+      "onboard_time": 1772963600,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58908,
       "num": 338331,
       "word": "石宇奇止步全英赛首轮",
@@ -17171,6 +17227,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58725,
+      "num": 97131,
+      "word": "孔雪儿红包",
+      "onboard_time": 1772964919,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58637,
+      "num": 97088,
+      "word": "刘强东讲管理全是实战干货",
+      "onboard_time": 1772963900,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 58622,
       "num": 642215,
       "word": "苏翊鸣重返云顶",
@@ -17216,6 +17288,14 @@
       "word": "王毅向女同胞致以节日祝福",
       "onboard_time": 1772936720,
       "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 58073,
+      "num": 97073,
+      "word": "建议农村医保缴费不清零滚存用",
+      "onboard_time": 1772964319,
+      "rank": 46,
       "category": "国内时政"
     },
     {
@@ -17273,6 +17353,14 @@
       "onboard_time": 1772621906,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57392,
+      "num": 97056,
+      "word": "Gala醒一醒",
+      "onboard_time": 1772965999,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 57334,
@@ -17665,6 +17753,14 @@
       "onboard_time": 1772954540,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50665,
+      "num": 97023,
+      "word": "以军称将视哈梅内伊继任者为目标",
+      "onboard_time": 1772964561,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50616,
@@ -18227,6 +18323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42967,
+      "num": 97115,
+      "word": "建议保障医务工作者休息权",
+      "onboard_time": 1772964382,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42836,
       "num": 103007,
       "word": "关于短线交易监管的若干规定",
@@ -18561,6 +18665,14 @@
       "onboard_time": 1772614463,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38348,
+      "num": 148115,
+      "word": "突然get到了妇女节的意义",
+      "onboard_time": 1772964139,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38336,
@@ -19803,6 +19915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17981,
+      "num": 109115,
+      "word": "台湾代表呼吁台青走出信息茧房",
+      "onboard_time": 1772965521,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17935,
       "num": 192409,
       "word": "委员建议为春秋假做好配套政策",
@@ -20096,6 +20216,14 @@
       "word": "拥抱十五五",
       "onboard_time": 1772543549,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13735,
+      "num": 186836,
+      "word": "建议科学调控网约车出租车运力",
+      "onboard_time": 1772965580,
+      "rank": 7,
       "category": "国内时政"
     },
     {

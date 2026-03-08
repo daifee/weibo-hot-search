@@ -1,0 +1,410 @@
+{
+  "runTime": 1772966048366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 486654,
+        "num": 1077864,
+        "word": "王毅回应两岸统一时间表",
+        "onboard_time": 1772955800,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136279,
+        "num": 755502,
+        "word": "华春莹一口气吃了两颗化橘红",
+        "onboard_time": 1772941762,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30023,
+        "num": 613738,
+        "word": "世界乱象丛生祖国稳如泰山",
+        "onboard_time": 1772939242,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213165,
+        "num": 213165,
+        "word": "人脸验证时千万记得穿衣服",
+        "onboard_time": 1772959220,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180823,
+        "num": 190455,
+        "word": "张凌赫晒谢征日常",
+        "onboard_time": 1772960301,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 746207,
+        "num": 189891,
+        "word": "伊朗亮底线",
+        "onboard_time": 1772951001,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188547,
+        "num": 188547,
+        "word": "微波炉泡面",
+        "onboard_time": 1772958681,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13735,
+        "num": 186836,
+        "word": "建议科学调控网约车出租车运力",
+        "onboard_time": 1772965580,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35173,
+        "num": 186748,
+        "word": "中国人有天下为公的格局",
+        "onboard_time": 1772959281,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57396,
+        "num": 184768,
+        "word": "建议减少中小学学科数量",
+        "onboard_time": 1772949859,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 469542,
+        "num": 182729,
+        "word": "伊朗宣布将采用全新攻击方式",
+        "onboard_time": 1772961261,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 427803,
+        "num": 181231,
+        "word": "氧化菊回应被央视用作妇女节封面",
+        "onboard_time": 1772963481,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179613,
+        "num": 179613,
+        "word": "马来西亚通报MH370搜寻最新进展",
+        "onboard_time": 1772954360,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149311,
+        "num": 149311,
+        "word": "AI龙虾爆火工信部发布高危风险预警",
+        "onboard_time": 1772961739,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 38348,
+        "num": 148115,
+        "word": "突然get到了妇女节的意义",
+        "onboard_time": 1772964139,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147524,
+        "num": 147524,
+        "word": "王楚钦我是第一个来的",
+        "onboard_time": 1772959880,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126160,
+        "num": 126160,
+        "word": "养胡萝卜",
+        "onboard_time": 1772960120,
+        "rank": 16,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 113591,
+        "num": 113591,
+        "word": "霍去病团队近20人非3人",
+        "onboard_time": 1772954300,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109547,
+        "num": 109547,
+        "word": "妇女节",
+        "onboard_time": 1772924956,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17981,
+        "num": 109115,
+        "word": "台湾代表呼吁台青走出信息茧房",
+        "onboard_time": 1772965521,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 685769,
+        "num": 108735,
+        "word": "时代少年团直播",
+        "onboard_time": 1772964319,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304228,
+        "num": 108165,
+        "word": "伊朗选出新最高领袖",
+        "onboard_time": 1772952140,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216036,
+        "num": 107996,
+        "word": "女子糖尿病不忌口8年变尿毒症",
+        "onboard_time": 1772963421,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195497,
+        "num": 107088,
+        "word": "逐玉",
+        "onboard_time": 1772934860,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157442,
+        "num": 106703,
+        "word": "高至霆我从小美好就跟你了",
+        "onboard_time": 1772964021,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143659,
+        "num": 106307,
+        "word": "桃黑黑抽奖",
+        "onboard_time": 1772963061,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 130002,
+        "num": 105911,
+        "word": "伊朗说将推动美国完全撤出中东",
+        "onboard_time": 1772962340,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126469,
+        "num": 105179,
+        "word": "公务员谈养龙虾真实感受",
+        "onboard_time": 1772963721,
+        "rank": 27,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 96806,
+        "num": 104528,
+        "word": "全泰国最虔诚的鸭子",
+        "onboard_time": 1772959820,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104474,
+        "num": 104474,
+        "word": "BLG对战JDG",
+        "onboard_time": 1772959820,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113377,
+        "num": 103427,
+        "word": "中国孩子坐警车看表演火爆外网",
+        "onboard_time": 1772964382,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99688,
+        "num": 99688,
+        "word": "惠英红 是妇女节快乐",
+        "onboard_time": 1772946381,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99562,
+        "num": 99562,
+        "word": "王一博Lacoste的造型",
+        "onboard_time": 1772965521,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97297,
+        "num": 97297,
+        "word": "在北京穿了将近半年的羽绒服",
+        "onboard_time": 1772963540,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89841,
+        "num": 97293,
+        "word": "张凌赫田曦薇下意识的牵手",
+        "onboard_time": 1772937623,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87696,
+        "num": 97278,
+        "word": "108公斤27岁女生花1年减掉108斤",
+        "onboard_time": 1772954720,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77898,
+        "num": 97248,
+        "word": "妇女节红包",
+        "onboard_time": 1772953220,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 72965,
+        "num": 97227,
+        "word": "油价创数十年来最大单周涨幅",
+        "onboard_time": 1772962580,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66158,
+        "num": 97215,
+        "word": "退出APP显示残忍离开到底谁发明的",
+        "onboard_time": 1772965401,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69229,
+        "num": 97193,
+        "word": "田曦薇演技好灵",
+        "onboard_time": 1772955440,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63211,
+        "num": 97181,
+        "word": "张凯丽 网红能当一辈子吗",
+        "onboard_time": 1772951780,
+        "rank": 40,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 63002,
+        "num": 97157,
+        "word": "妇女节 卫生巾半价",
+        "onboard_time": 1772952502,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59008,
+        "num": 97147,
+        "word": "DYG对战KSG",
+        "onboard_time": 1772963600,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58725,
+        "num": 97131,
+        "word": "孔雪儿红包",
+        "onboard_time": 1772964919,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42967,
+        "num": 97115,
+        "word": "建议保障医务工作者休息权",
+        "onboard_time": 1772964382,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58637,
+        "num": 97088,
+        "word": "刘强东讲管理全是实战干货",
+        "onboard_time": 1772963900,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 58073,
+        "num": 97073,
+        "word": "建议农村医保缴费不清零滚存用",
+        "onboard_time": 1772964319,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57392,
+        "num": 97056,
+        "word": "Gala醒一醒",
+        "onboard_time": 1772965999,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 55940,
+        "num": 97037,
+        "word": "杨紫左手牵娃右手抱娃",
+        "onboard_time": 1772948780,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50665,
+        "num": 97023,
+        "word": "以军称将视哈梅内伊继任者为目标",
+        "onboard_time": 1772964561,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和政协委员共绘民生蓝图#"
+    }
+  }
+}
