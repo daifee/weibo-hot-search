@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772984807373,
+  "endTime": 1772987964652,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -113,6 +113,14 @@
       "onboard_time": 1772925016,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 651292,
+      "num": 336244,
+      "word": "多家黄金品牌宣布调价",
+      "onboard_time": 1772984060,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 646773,
@@ -499,14 +507,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 253253,
-      "num": 253253,
-      "word": "多家黄金品牌宣布调价",
-      "onboard_time": 1772984060,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 250520,
       "num": 231195,
       "word": "妇女节 卫生巾半价",
@@ -835,6 +835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158477,
+      "num": 158477,
+      "word": "湖南卫视妇女节视频设计好天才啊",
+      "onboard_time": 1772983281,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156642,
       "num": 739856,
       "word": "逐玉热度",
@@ -848,6 +856,14 @@
       "word": "伊朗发动第26波打击",
       "onboard_time": 1772925677,
       "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 154452,
+      "num": 124725,
+      "word": "伊朗称击毁4部美军萨德系统雷达",
+      "onboard_time": 1772982562,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -872,6 +888,14 @@
       "word": "伊朗说将推动美国完全撤出中东",
       "onboard_time": 1772962340,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 151792,
+      "num": 83833,
+      "word": "伊朗最高权力平稳过渡",
+      "onboard_time": 1772986580,
+      "rank": 24,
       "category": "国际时政"
     },
     {
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 147431,
-      "num": 241194,
+      "num": 531362,
       "word": "AI对老师的影响",
       "onboard_time": 1772979862,
       "rank": 9,
@@ -1011,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131409,
-      "num": 124725,
-      "word": "伊朗称击毁4部美军萨德系统雷达",
-      "onboard_time": 1772982562,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129924,
       "num": 228515,
       "word": "中俄关系风雨不动安如山",
@@ -1115,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121015,
+      "num": 83100,
+      "word": "王祉怡获全英赛女单冠军",
+      "onboard_time": 1772987840,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120621,
       "num": 298069,
       "word": "安装OpenClaw价格",
@@ -1201,14 +1225,6 @@
       "onboard_time": 1772981662,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106053,
-      "num": 124684,
-      "word": "湖南卫视妇女节视频设计好天才啊",
-      "onboard_time": 1772983281,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 105983,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1772966300,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93039,
+      "num": 93039,
+      "word": "逐玉 帅哥",
+      "onboard_time": 1772984300,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 92402,
@@ -2371,6 +2395,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 56903,
+      "num": 82059,
+      "word": "樊长玉家 猪猪痛屋",
+      "onboard_time": 1772985261,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56867,
       "num": 132909,
       "word": "赵雅芝红包",
@@ -2643,6 +2675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40639,
+      "num": 81143,
+      "word": "英雄联盟全球先锋赛",
+      "onboard_time": 1772985921,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39939,
       "num": 608447,
       "word": "网络名人赞两会",
@@ -2809,6 +2849,14 @@
       "onboard_time": 1772893823,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32798,
+      "num": 80454,
+      "word": "Viper的目标是连冠",
+      "onboard_time": 1772985079,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 31512,

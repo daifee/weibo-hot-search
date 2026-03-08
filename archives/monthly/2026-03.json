@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772984807373,
+  "endTime": 1772987964652,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1673,6 +1673,14 @@
       "onboard_time": 1772614644,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 651292,
+      "num": 336244,
+      "word": "多家黄金品牌宣布调价",
+      "onboard_time": 1772984060,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 651042,
@@ -5835,14 +5843,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 253253,
-      "num": 253253,
-      "word": "多家黄金品牌宣布调价",
-      "onboard_time": 1772984060,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 252669,
       "num": 120640,
       "word": "伊朗总统之子发声",
@@ -8619,6 +8619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158477,
+      "num": 158477,
+      "word": "湖南卫视妇女节视频设计好天才啊",
+      "onboard_time": 1772983281,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158353,
       "num": 158353,
       "word": "任达华祝贺王楚钦",
@@ -8795,6 +8803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 154452,
+      "num": 124725,
+      "word": "伊朗称击毁4部美军萨德系统雷达",
+      "onboard_time": 1772982562,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154167,
       "num": 218701,
       "word": "王毅同阿联酋外长通电话",
@@ -8961,6 +8977,14 @@
       "onboard_time": 1772349443,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151792,
+      "num": 83833,
+      "word": "伊朗最高权力平稳过渡",
+      "onboard_time": 1772986580,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151770,
@@ -9188,7 +9212,7 @@
     },
     {
       "raw_hot": 147431,
-      "num": 241194,
+      "num": 531362,
       "word": "AI对老师的影响",
       "onboard_time": 1772979862,
       "rank": 9,
@@ -10187,14 +10211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131409,
-      "num": 124725,
-      "word": "伊朗称击毁4部美军萨德系统雷达",
-      "onboard_time": 1772982562,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 131365,
       "num": 131365,
       "word": "许昕回复王楚钦",
@@ -10945,6 +10961,14 @@
       "onboard_time": 1772520808,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 121015,
+      "num": 83100,
+      "word": "王祉怡获全英赛女单冠军",
+      "onboard_time": 1772987840,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 120934,
@@ -12289,14 +12313,6 @@
       "onboard_time": 1772495121,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106053,
-      "num": 124684,
-      "word": "湖南卫视妇女节视频设计好天才啊",
-      "onboard_time": 1772983281,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 105983,
@@ -13841,6 +13857,14 @@
       "onboard_time": 1772465786,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 93039,
+      "num": 93039,
+      "word": "逐玉 帅哥",
+      "onboard_time": 1772984300,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 92987,
@@ -18011,6 +18035,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 56903,
+      "num": 82059,
+      "word": "樊长玉家 猪猪痛屋",
+      "onboard_time": 1772985261,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56874,
       "num": 640632,
       "word": "何炅把张远远行看成张远远",
@@ -19825,6 +19857,14 @@
       "onboard_time": 1772614344,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32798,
+      "num": 80454,
+      "word": "Viper的目标是连冠",
+      "onboard_time": 1772985079,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 32680,
