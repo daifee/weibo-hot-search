@@ -1,7 +1,15 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772977819535,
+  "endTime": 1772978236125,
   "band_list": [
+    {
+      "raw_hot": 1779732,
+      "num": 367883,
+      "word": "逐玉播放量超过狂飙",
+      "onboard_time": 1772975661,
+      "rank": 48,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1538769,
       "num": 373376,
@@ -9,14 +17,6 @@
       "onboard_time": 1772952140,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1519931,
-      "num": 367883,
-      "word": "逐玉播放量超过狂飙",
-      "onboard_time": 1772975661,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 1343198,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 566413,
+      "num": 566413,
+      "word": "武大食堂4元熬夜水日销百斤",
+      "onboard_time": 1772974761,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 528723,
       "num": 736100,
       "word": "妇女节",
@@ -129,14 +137,6 @@
       "onboard_time": 1772971580,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 501513,
-      "num": 501513,
-      "word": "武大食堂4元熬夜水日销百斤",
-      "onboard_time": 1772974761,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 475340,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330869,
+      "num": 306951,
+      "word": "27岁女子挤痘痘后确诊2型糖尿病",
+      "onboard_time": 1772975302,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323172,
       "num": 930613,
       "word": "公务员养上政务龙虾了",
@@ -281,14 +289,6 @@
       "onboard_time": 1772954300,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 306951,
-      "num": 306951,
-      "word": "27岁女子挤痘痘后确诊2型糖尿病",
-      "onboard_time": 1772975302,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306899,
@@ -459,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 245456,
+      "num": 564633,
+      "word": "退出APP显示残忍离开到底谁发明的",
+      "onboard_time": 1772965401,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244362,
       "num": 298316,
       "word": "玉兰花开君再来",
@@ -512,14 +520,6 @@
       "word": "狗 我就是咪咪啊",
       "onboard_time": 1772944401,
       "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 237519,
-      "num": 564633,
-      "word": "退出APP显示残忍离开到底谁发明的",
-      "onboard_time": 1772965401,
-      "rank": 38,
       "category": "幽默"
     },
     {
@@ -603,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196777,
+      "num": 187598,
+      "word": "伊朗发起第28波攻势",
+      "onboard_time": 1772973321,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 194694,
       "num": 59678,
       "word": "伊朗外长称美袭击海水淡化厂是犯罪",
@@ -635,14 +643,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 187598,
-      "num": 187598,
-      "word": "伊朗发起第28波攻势",
-      "onboard_time": 1772973321,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 179419,
       "num": 179419,
       "word": "霍去病团队近20人非3人",
@@ -667,6 +667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 171330,
+      "num": 317776,
+      "word": "回避型差评需要一个引导型商家",
+      "onboard_time": 1772972541,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168757,
       "num": 297192,
       "word": "王楚然仿妆还以为本尊来了",
@@ -681,6 +689,14 @@
       "onboard_time": 1772964021,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164225,
+      "num": 164225,
+      "word": "王一博Mai合影",
+      "onboard_time": 1772976742,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159076,
@@ -705,22 +721,6 @@
       "onboard_time": 1772925677,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 155048,
-      "num": 317776,
-      "word": "回避型差评需要一个引导型商家",
-      "onboard_time": 1772972541,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 154148,
-      "num": 154148,
-      "word": "王一博Mai合影",
-      "onboard_time": 1772976742,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 153797,
@@ -785,6 +785,14 @@
       "onboard_time": 1772931439,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143703,
+      "num": 120851,
+      "word": "王一博 巴黎也有回南天",
+      "onboard_time": 1772977521,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143404,
@@ -963,6 +971,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121346,
+      "num": 121346,
+      "word": "童禹坤直播",
+      "onboard_time": 1772975122,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120904,
+      "num": 120904,
+      "word": "我妈以为的早熟vs实际上的早熟",
+      "onboard_time": 1772974401,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120621,
       "num": 298069,
       "word": "安装OpenClaw价格",
@@ -971,12 +995,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 119324,
-      "num": 119324,
-      "word": "我妈以为的早熟vs实际上的早熟",
-      "onboard_time": 1772974401,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 119982,
+      "num": 107065,
+      "word": "恋综史上最明艳的出场",
+      "onboard_time": 1772977943,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 119208,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1772925737,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114895,
-      "num": 114895,
-      "word": "童禹坤直播",
-      "onboard_time": 1772975122,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 114517,
@@ -1123,6 +1139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 100906,
+      "num": 110333,
+      "word": "98岁爷爷在西湖边火了",
+      "onboard_time": 1772974882,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100833,
       "num": 158441,
       "word": "多家A股公司与AI龙虾业务关联",
@@ -1195,22 +1219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97141,
-      "num": 110333,
-      "word": "98岁爷爷在西湖边火了",
-      "onboard_time": 1772974882,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96674,
-      "num": 110331,
-      "word": "王一博 巴黎也有回南天",
-      "onboard_time": 1772977521,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 96340,
       "num": 94139,
       "word": "严屹宽 天涯四美",
@@ -1240,6 +1248,14 @@
       "word": "美媒称美国或应为伊朗小学遇袭负责",
       "onboard_time": 1772888062,
       "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 95256,
+      "num": 110315,
+      "word": "所有对伊作战的美军基地全被打了",
+      "onboard_time": 1772976982,
+      "rank": 43,
       "category": "国际时政"
     },
     {
@@ -1385,14 +1401,6 @@
       "onboard_time": 1772943981,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87912,
-      "num": 110315,
-      "word": "所有对伊作战的美军基地全被打了",
-      "onboard_time": 1772976982,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87551,
@@ -1545,6 +1553,14 @@
       "onboard_time": 1772895024,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 78761,
+      "num": 100573,
+      "word": "龙虾一秒可搬空用户隐私信息",
+      "onboard_time": 1772978182,
+      "rank": 47,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 78264,
@@ -2139,6 +2155,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 56867,
+      "num": 132909,
+      "word": "赵雅芝红包",
+      "onboard_time": 1772975302,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56328,
       "num": 92812,
       "word": "年锦好强",
@@ -2169,14 +2193,6 @@
       "onboard_time": 1772953400,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 53994,
-      "num": 132909,
-      "word": "赵雅芝红包",
-      "onboard_time": 1772975302,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 53576,
@@ -2243,6 +2259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50536,
+      "num": 630903,
+      "word": "从海底1万米到距地球4300万公里",
+      "onboard_time": 1772976380,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50439,
       "num": 46683,
       "word": "伊朗今天或选出最高领袖",
@@ -2291,14 +2315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47702,
-      "num": 590538,
-      "word": "从海底1万米到距地球4300万公里",
-      "onboard_time": 1772976380,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 47699,
       "num": 651723,
       "word": "陈小春再也没让应采儿上这种节目",
@@ -2329,6 +2345,14 @@
       "onboard_time": 1772890943,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45438,
+      "num": 375932,
+      "word": "不同意授权不能用App是霸王条款",
+      "onboard_time": 1772977041,
+      "rank": 7,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 45265,
@@ -2555,12 +2579,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31622,
-      "num": 375932,
-      "word": "不同意授权不能用App是霸王条款",
-      "onboard_time": 1772977041,
-      "rank": 7,
-      "category": "民生新闻,互联网"
+      "raw_hot": 32400,
+      "num": 373184,
+      "word": "中国式现代化圈粉全球",
+      "onboard_time": 1772976380,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31512,
@@ -2595,14 +2619,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 30572,
-      "num": 373184,
-      "word": "中国式现代化圈粉全球",
-      "onboard_time": 1772976380,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 29563,
       "num": 278630,
       "word": "每一位妇女都是主角",
@@ -2627,7 +2643,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27699,
+      "raw_hot": 27774,
       "num": 372367,
       "word": "小麦代表的麦田情",
       "onboard_time": 1772975241,
