@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772967071545,
+  "endTime": 1772969386584,
   "band_list": [
     {
       "raw_hot": 1538769,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 685769,
-      "num": 108735,
+      "num": 267912,
       "word": "时代少年团直播",
       "onboard_time": 1772964319,
       "rank": 20,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 469542,
-      "num": 182729,
+      "num": 298156,
       "word": "伊朗宣布将采用全新攻击方式",
       "onboard_time": 1772961261,
       "rank": 20,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 427803,
-      "num": 181231,
+      "num": 300022,
       "word": "氧化菊回应被央视用作妇女节封面",
       "onboard_time": 1772963481,
       "rank": 33,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 294574,
-      "num": 458472,
+      "num": 514070,
       "word": "人脸验证时千万记得穿衣服",
       "onboard_time": 1772959220,
       "rank": 37,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268217,
+      "num": 268217,
+      "word": "逐玉9集封神了",
+      "onboard_time": 1772968702,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266239,
       "num": 266239,
       "word": "逐玉云合翻倍",
@@ -331,6 +339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 251536,
+      "num": 635539,
+      "word": "中国孩子坐警车看表演火爆外网",
+      "onboard_time": 1772964382,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250520,
       "num": 231195,
       "word": "妇女节 卫生巾半价",
@@ -364,11 +380,19 @@
     },
     {
       "raw_hot": 242592,
-      "num": 242592,
+      "num": 268074,
       "word": "张凌赫晒谢征日常",
       "onboard_time": 1772960301,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242211,
+      "num": 542194,
+      "word": "在北京穿了将近半年的羽绒服",
+      "onboard_time": 1772963540,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238467,
@@ -385,6 +409,14 @@
       "onboard_time": 1772941642,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 232614,
+      "num": 805162,
+      "word": "AI龙虾爆火工信部发布高危风险预警",
+      "onboard_time": 1772961739,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 232307,
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 216036,
-      "num": 108493,
+      "num": 196654,
       "word": "女子糖尿病不忌口8年变尿毒症",
       "onboard_time": 1772963421,
       "rank": 25,
@@ -483,14 +515,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 187734,
-      "num": 805162,
-      "word": "AI龙虾爆火工信部发布高危风险预警",
-      "onboard_time": 1772961739,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 179419,
       "num": 179419,
       "word": "霍去病团队近20人非3人",
@@ -529,6 +553,14 @@
       "onboard_time": 1772964021,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165689,
+      "num": 165689,
+      "word": "桃黑黑抽奖",
+      "onboard_time": 1772963061,
+      "rank": 30,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 159076,
@@ -619,14 +651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 143659,
-      "num": 107838,
-      "word": "桃黑黑抽奖",
-      "onboard_time": 1772963061,
-      "rank": 30,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 143404,
       "num": 90911,
       "word": "伊朗外长称特朗普误判扼杀和平努力",
@@ -708,11 +732,19 @@
     },
     {
       "raw_hot": 128365,
-      "num": 107754,
+      "num": 124536,
       "word": "王一博Lacoste的造型",
       "onboard_time": 1772965521,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128225,
+      "num": 268207,
+      "word": "仙逆动画",
+      "onboard_time": 1772967320,
+      "rank": 13,
+      "category": "动漫"
     },
     {
       "raw_hot": 127141,
@@ -724,7 +756,7 @@
     },
     {
       "raw_hot": 126469,
-      "num": 107570,
+      "num": 119638,
       "word": "公务员谈养龙虾真实感受",
       "onboard_time": 1772963721,
       "rank": 27,
@@ -835,22 +867,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 113377,
-      "num": 112966,
-      "word": "中国孩子坐警车看表演火爆外网",
-      "onboard_time": 1772964382,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108814,
-      "num": 108814,
-      "word": "在北京穿了将近半年的羽绒服",
-      "onboard_time": 1772963540,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107606,
       "num": 231311,
       "word": "嘻哈 我感谢那些女士",
@@ -883,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104226,
+      "num": 268032,
+      "word": "DYG对战KSG",
+      "onboard_time": 1772963600,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102194,
       "num": 181687,
       "word": "最近爆火的AI龙虾是什么",
@@ -897,6 +921,14 @@
       "onboard_time": 1772893163,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101077,
+      "num": 268001,
+      "word": "退出APP显示残忍离开到底谁发明的",
+      "onboard_time": 1772965401,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 100833,
@@ -1091,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88616,
+      "num": 88616,
+      "word": "孙颖莎收到自己漫画形象礼物",
+      "onboard_time": 1772966661,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88389,
       "num": 101821,
       "word": "DeepSeek建议普通用户养虾前先观望",
@@ -1115,12 +1155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87008,
+      "num": 87008,
+      "word": "中国体操队夺美国杯混团冠军",
+      "onboard_time": 1772966300,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86843,
       "num": 158519,
       "word": "岳雨婷看秀待遇",
       "onboard_time": 1772954120,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86372,
+      "num": 86372,
+      "word": "袁姗姗红包",
+      "onboard_time": 1772968521,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 85901,
@@ -1235,20 +1291,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 78470,
-      "num": 78470,
-      "word": "中国体操队夺美国杯混团冠军",
-      "onboard_time": 1772966300,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 78264,
       "num": 181390,
       "word": "孙颖莎出镜央视妇女节短片",
       "onboard_time": 1772944161,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77759,
+      "num": 77759,
+      "word": "月薪8千快递员夫妻坚持带娃务工",
+      "onboard_time": 1772968761,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77758,
@@ -1291,6 +1347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 77050,
+      "num": 77050,
+      "word": "很喜欢用嘿嘿这两个字",
+      "onboard_time": 1772967860,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76897,
       "num": 740134,
       "word": "郭晓婷王天辰GLASS",
@@ -1313,14 +1377,6 @@
       "onboard_time": 1772897362,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75866,
-      "num": 97215,
-      "word": "退出APP显示残忍离开到底谁发明的",
-      "onboard_time": 1772965401,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 75742,
@@ -1435,6 +1491,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 69466,
+      "num": 76111,
+      "word": "仁科 国足拿世界杯五条人就解散",
+      "onboard_time": 1772968521,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68997,
       "num": 68997,
       "word": "WTT重庆冠军赛",
@@ -1481,14 +1545,6 @@
       "onboard_time": 1772953461,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67766,
-      "num": 71786,
-      "word": "孙颖莎收到自己漫画形象礼物",
-      "onboard_time": 1772966661,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 67238,
@@ -1555,14 +1611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64959,
-      "num": 97147,
-      "word": "DYG对战KSG",
-      "onboard_time": 1772963600,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 64489,
       "num": 296769,
       "word": "别被巴黎世家看到了",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1772964319,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64308,
+      "num": 76088,
+      "word": "张凌赫九个枕头的腿长含金量",
+      "onboard_time": 1772968640,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 63805,
@@ -1681,6 +1737,14 @@
       "onboard_time": 1772953999,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61417,
+      "num": 76078,
+      "word": "敖瑞鹏异域古装造型路透",
+      "onboard_time": 1772968941,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 61114,
@@ -1819,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52425,
+      "num": 76043,
+      "word": "孙颖莎手捧鲜花退场",
+      "onboard_time": 1772967081,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51367,
       "num": 740027,
       "word": "AG战胜WB",
@@ -1833,6 +1905,14 @@
       "onboard_time": 1772954540,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50767,
+      "num": 76028,
+      "word": "20种口味的鸡翅",
+      "onboard_time": 1772967259,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 50665,
@@ -1876,7 +1956,7 @@
     },
     {
       "raw_hot": 48617,
-      "num": 300013,
+      "num": 378554,
       "word": "中国人有天下为公的格局",
       "onboard_time": 1772959281,
       "rank": 8,
@@ -2195,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24493,
+      "num": 406987,
+      "word": "建议规范食品有效期标注",
+      "onboard_time": 1772960780,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24324,
       "num": 338105,
       "word": "祝每一个她都不被定义活出热爱",
@@ -2224,6 +2312,14 @@
       "word": "AI时代每人都有份专属课表",
       "onboard_time": 1772925077,
       "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 22580,
+      "num": 267964,
+      "word": "中国算力网如何织就",
+      "onboard_time": 1772968880,
+      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -2337,6 +2433,14 @@
       "onboard_time": 1772958260,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10069,
+      "num": 268167,
+      "word": "接红包做发光大女主",
+      "onboard_time": 1772967740,
+      "rank": 14,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
