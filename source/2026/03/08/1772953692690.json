@@ -1,0 +1,410 @@
+{
+  "runTime": 1772953692690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 95390,
+        "num": 1015262,
+        "word": "外交部长王毅答记者问",
+        "onboard_time": 1772934981,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231657,
+        "num": 736100,
+        "word": "妇女节",
+        "onboard_time": 1772924956,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6759,
+        "num": 608447,
+        "word": "网络名人赞两会",
+        "onboard_time": 1772953580,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202518,
+        "num": 202518,
+        "word": "华春莹一口气吃了两颗化橘红",
+        "onboard_time": 1772941762,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88642,
+        "num": 202372,
+        "word": "王毅谈伊朗局势",
+        "onboard_time": 1772941041,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177990,
+        "num": 202294,
+        "word": "台湾绝无可能成为国家",
+        "onboard_time": 1772942422,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130129,
+        "num": 201969,
+        "word": "霍去病导演澄清3000元制作80集",
+        "onboard_time": 1772943441,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91407,
+        "num": 201810,
+        "word": "妇女节快乐",
+        "onboard_time": 1772932700,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40550,
+        "num": 201623,
+        "word": "未来5年这些民生举措事关你我",
+        "onboard_time": 1772939780,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90659,
+        "num": 201423,
+        "word": "年轻人为何排队疯抢AI龙虾",
+        "onboard_time": 1772952799,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1463662,
+        "num": 201235,
+        "word": "伊朗选出新最高领袖",
+        "onboard_time": 1772952140,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 370297,
+        "num": 201076,
+        "word": "张凯丽 网红能当一辈子吗",
+        "onboard_time": 1772951780,
+        "rank": 11,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 24722,
+        "num": 200995,
+        "word": "奋进十五五AI超燃大片",
+        "onboard_time": 1772939780,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303529,
+        "num": 200706,
+        "word": "妇女节红包",
+        "onboard_time": 1772953220,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111065,
+        "num": 200625,
+        "word": "AI龙虾到底能干什么",
+        "onboard_time": 1772949500,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1343198,
+        "num": 200476,
+        "word": "伊朗亮底线",
+        "onboard_time": 1772951001,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 276070,
+        "num": 200270,
+        "word": "女孩患癌复查结果不好妈妈骗她及格了",
+        "onboard_time": 1772948120,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86211,
+        "num": 200083,
+        "word": "世界乱象丛生祖国稳如泰山",
+        "onboard_time": 1772939242,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199922,
+        "num": 199922,
+        "word": "杨紫左手牵娃右手抱娃",
+        "onboard_time": 1772948780,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27152,
+        "num": 199708,
+        "word": "建议给大龄农民工提供培训就业",
+        "onboard_time": 1772953220,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141727,
+        "num": 199551,
+        "word": "妇女节 卫生巾半价",
+        "onboard_time": 1772952502,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96638,
+        "num": 199330,
+        "word": "狗 我就是咪咪啊",
+        "onboard_time": 1772944401,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89426,
+        "num": 199116,
+        "word": "为了哄老己上班有多舍得花钱",
+        "onboard_time": 1772946740,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 349065,
+        "num": 198972,
+        "word": "张凌赫田曦薇下意识的牵手",
+        "onboard_time": 1772937623,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225084,
+        "num": 198762,
+        "word": "逐玉",
+        "onboard_time": 1772934860,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98081,
+        "num": 198412,
+        "word": "70岁网瘾老人刷手机近视2300度",
+        "onboard_time": 1772946321,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149568,
+        "num": 198345,
+        "word": "惠英红 是妇女节快乐",
+        "onboard_time": 1772946381,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93468,
+        "num": 198116,
+        "word": "嘻哈 我感谢那些女士",
+        "onboard_time": 1772949381,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89484,
+        "num": 197805,
+        "word": "安装OpenClaw价格",
+        "onboard_time": 1772948901,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88516,
+        "num": 197606,
+        "word": "迪拜黄金打折售卖",
+        "onboard_time": 1772943139,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83251,
+        "num": 197371,
+        "word": "没有任何一个决定会毁了你的一生",
+        "onboard_time": 1772953400,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80785,
+        "num": 197180,
+        "word": "云南蓝莓",
+        "onboard_time": 1772941642,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 79061,
+        "num": 196968,
+        "word": "名侦探学院",
+        "onboard_time": 1772951780,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77579,
+        "num": 196792,
+        "word": "汪苏泷纽约上座率",
+        "onboard_time": 1772940922,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75742,
+        "num": 196439,
+        "word": "谷爱凌花车巡游",
+        "onboard_time": 1772949140,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69945,
+        "num": 196262,
+        "word": "伊朗未透露新最高领袖姓名",
+        "onboard_time": 1772952319,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67764,
+        "num": 196085,
+        "word": "F1",
+        "onboard_time": 1772942961,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385984,
+        "num": 195798,
+        "word": "田曦薇趴在张凌赫身上亲",
+        "onboard_time": 1772948120,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64244,
+        "num": 195681,
+        "word": "9岁小球员送王楚钦重庆拼图",
+        "onboard_time": 1772952319,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38550,
+        "num": 195429,
+        "word": "逐玉剧组hi6收视率",
+        "onboard_time": 1772951661,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61696,
+        "num": 195181,
+        "word": "郑钦文回应一轮游",
+        "onboard_time": 1772952261,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61509,
+        "num": 194999,
+        "word": "建议减少中小学学科数量",
+        "onboard_time": 1772949859,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54453,
+        "num": 194782,
+        "word": "工信部提醒防范AI龙虾安全风险",
+        "onboard_time": 1772953400,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53612,
+        "num": 194548,
+        "word": "汪苏泷英文水平",
+        "onboard_time": 1772953461,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52807,
+        "num": 194367,
+        "word": "头一次见动物投喂游客",
+        "onboard_time": 1772952981,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52090,
+        "num": 194043,
+        "word": "伊朗称将打击向敌提供领空领土国家",
+        "onboard_time": 1772951600,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48359,
+        "num": 193890,
+        "word": "AI龙虾存在多重安全隐患",
+        "onboard_time": 1772949140,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49446,
+        "num": 193681,
+        "word": "硬糖少女偷偶像练习生的鱼",
+        "onboard_time": 1772937801,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48288,
+        "num": 193383,
+        "word": "王楚然仿妆还以为本尊来了",
+        "onboard_time": 1772940439,
+        "rank": 48,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 47425,
+        "num": 193160,
+        "word": "伊朗称以色列试图构建人盾",
+        "onboard_time": 1772929040,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语半边天#"
+    }
+  }
+}
