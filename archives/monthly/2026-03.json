@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772975012632,
+  "endTime": 1772975812624,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -723,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 989608,
+      "num": 404188,
+      "word": "逐玉走势",
+      "onboard_time": 1772970560,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 989603,
       "num": 470851,
       "word": "迪拜已拦截超百次伊朗炸弹",
@@ -913,14 +921,6 @@
       "onboard_time": 1772614044,
       "rank": 37,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 884850,
-      "num": 404188,
-      "word": "逐玉走势",
-      "onboard_time": 1772970560,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 868815,
@@ -2307,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524561,
+      "num": 524561,
+      "word": "Bin获FMVP",
+      "onboard_time": 1772975062,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 522023,
       "num": 756777,
       "word": "推进祖国统一",
@@ -2369,6 +2377,14 @@
       "onboard_time": 1772362824,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 515957,
+      "num": 515957,
+      "word": "多架美军机相继离开韩国基地",
+      "onboard_time": 1772971580,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 514022,
@@ -3032,14 +3048,6 @@
       "word": "伊朗总统强调尊重邻国主权",
       "onboard_time": 1772675842,
       "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 431769,
-      "num": 431769,
-      "word": "多架美军机相继离开韩国基地",
-      "onboard_time": 1772971580,
-      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -5003,6 +5011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290320,
+      "num": 427622,
+      "word": "很喜欢用嘿嘿这两个字",
+      "onboard_time": 1772967860,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289133,
       "num": 203201,
       "word": "太爷爷摔倒1岁宝宝连滚带爬去扶",
@@ -5081,14 +5097,6 @@
       "onboard_time": 1772891543,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 284713,
-      "num": 427622,
-      "word": "很喜欢用嘿嘿这两个字",
-      "onboard_time": 1772967860,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 284555,
@@ -5876,7 +5884,7 @@
     },
     {
       "raw_hot": 245970,
-      "num": 466073,
+      "num": 519381,
       "word": "时代少年团广州演唱会",
       "onboard_time": 1772969540,
       "rank": 17,
@@ -6017,6 +6025,14 @@
       "onboard_time": 1772858903,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238576,
+      "num": 196017,
+      "word": "杨紫罗马时装周",
+      "onboard_time": 1772973440,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 238467,
@@ -7139,14 +7155,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 196017,
-      "num": 196017,
-      "word": "杨紫罗马时装周",
-      "onboard_time": 1772973440,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 195775,
       "num": 195775,
       "word": "伊朗足协主席称很难期待世界杯了",
@@ -7483,6 +7491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183454,
+      "num": 140222,
+      "word": "27岁女子挤痘痘后确诊2型糖尿病",
+      "onboard_time": 1772975302,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181962,
       "num": 181962,
       "word": "4岁女孩高血压就诊发现竟是男孩",
@@ -7576,6 +7592,14 @@
       "word": "伊朗启动大规模军事行动",
       "onboard_time": 1772276783,
       "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 179744,
+      "num": 163941,
+      "word": "伊朗发起第28波攻势",
+      "onboard_time": 1772973321,
+      "rank": 27,
       "category": "国际时政"
     },
     {
@@ -8187,6 +8211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162760,
+      "num": 89736,
+      "word": "逐玉播放量超过狂飙",
+      "onboard_time": 1772975661,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162466,
       "num": 154313,
       "word": "穆祉丞直播",
@@ -8795,14 +8827,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 151457,
-      "num": 151457,
-      "word": "伊朗发起第28波攻势",
-      "onboard_time": 1772973321,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 151290,
       "num": 147038,
       "word": "逐玉追剧日历",
@@ -9387,6 +9411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142243,
+      "num": 142243,
+      "word": "BLG夺得优胜者",
+      "onboard_time": 1772975122,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142230,
       "num": 129230,
       "word": "逐玉OST全阵容官宣",
@@ -9881,6 +9913,14 @@
       "onboard_time": 1772434102,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132600,
+      "num": 198162,
+      "word": "回避型差评需要一个引导型商家",
+      "onboard_time": 1772972541,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 132587,
@@ -11051,6 +11091,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 116876,
+      "num": 116876,
+      "word": "王一博看完你的看你的",
+      "onboard_time": 1772975541,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 116779,
       "num": 259326,
       "word": "凤凰传奇抢票",
@@ -11145,14 +11193,6 @@
       "onboard_time": 1772348843,
       "rank": 39,
       "category": "综艺,剧集"
-    },
-    {
-      "raw_hot": 115722,
-      "num": 198162,
-      "word": "回避型差评需要一个引导型商家",
-      "onboard_time": 1772972541,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 115628,
@@ -12979,6 +13019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98510,
+      "num": 98510,
+      "word": "我妈以为的早熟vs实际上的早熟",
+      "onboard_time": 1772974401,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98376,
       "num": 167427,
       "word": "中国金球奖",
@@ -13128,6 +13176,14 @@
       "word": "逐玉有条通天路你走不走",
       "onboard_time": 1772865141,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96340,
+      "num": 94139,
+      "word": "严屹宽 天涯四美",
+      "onboard_time": 1772970981,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -13635,6 +13691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 92623,
+      "num": 92623,
+      "word": "童禹坤直播",
+      "onboard_time": 1772975122,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92604,
       "num": 641052,
       "word": "没有女生能拒绝这么暖心的地铁标语",
@@ -13649,14 +13713,6 @@
       "onboard_time": 1772530408,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92433,
-      "num": 92433,
-      "word": "严屹宽 天涯四美",
-      "onboard_time": 1772970981,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 92402,
@@ -14617,6 +14673,14 @@
       "onboard_time": 1772780843,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84006,
+      "num": 183717,
+      "word": "武大食堂4元熬夜水日销百斤",
+      "onboard_time": 1772974761,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83917,
@@ -15713,14 +15777,6 @@
       "onboard_time": 1772607266,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 75679,
-      "num": 75679,
-      "word": "我妈以为的早熟vs实际上的早熟",
-      "onboard_time": 1772974401,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 75621,
@@ -17987,6 +18043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52168,
+      "num": 283860,
+      "word": "建议70岁以上农村老人免缴医保",
+      "onboard_time": 1772974641,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51844,
       "num": 93213,
       "word": "贺峻霖又在哪儿闯祸呢",
@@ -18081,6 +18145,14 @@
       "onboard_time": 1772763082,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50076,
+      "num": 132909,
+      "word": "赵雅芝红包",
+      "onboard_time": 1772975302,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 50048,
@@ -19571,6 +19643,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 29563,
+      "num": 278630,
+      "word": "每一位妇女都是主角",
+      "onboard_time": 1772975481,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29548,
       "num": 218017,
       "word": "哈尔滨19米高网红大雪人被拆除",
@@ -19995,7 +20075,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23093,
+      "raw_hot": 23135,
       "num": 202713,
       "word": "和日落姐姐一起放心美",
       "onboard_time": 1772971642,
@@ -20025,6 +20105,14 @@
       "onboard_time": 1772819057,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22538,
+      "num": 615140,
+      "word": "十五五规划提到这些新词热词",
+      "onboard_time": 1772972422,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22512,
@@ -20227,11 +20315,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 18898,
-      "num": 204724,
-      "word": "建议70岁以上农村老人免缴医保",
-      "onboard_time": 1772974641,
-      "rank": 16,
+      "raw_hot": 19082,
+      "num": 274297,
+      "word": "小麦代表的麦田情",
+      "onboard_time": 1772975241,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -20555,6 +20643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13803,
+      "num": 203605,
+      "word": "谁懂妇女能顶半边天的含金量",
+      "onboard_time": 1772975002,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13780,
       "num": 715108,
       "word": "拥抱十五五",
@@ -20673,14 +20769,6 @@
       "onboard_time": 1772581463,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10481,
-      "num": 145303,
-      "word": "武大食堂4元熬夜水日销百斤",
-      "onboard_time": 1772974761,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9057,

@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1772975012632,
+  "endTime": 1772975812624,
   "band_list": [
     {
       "raw_hot": 1538769,
@@ -19,20 +19,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 989608,
+      "num": 404188,
+      "word": "逐玉走势",
+      "onboard_time": 1772970560,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 914822,
       "num": 298816,
       "word": "张凌赫田曦薇下意识的牵手",
       "onboard_time": 1772937623,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 884850,
-      "num": 404188,
-      "word": "逐玉走势",
-      "onboard_time": 1772970560,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 701876,
@@ -99,12 +99,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524561,
+      "num": 524561,
+      "word": "Bin获FMVP",
+      "onboard_time": 1772975062,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 516606,
       "num": 818115,
       "word": "华春莹一口气吃了两颗化橘红",
       "onboard_time": 1772941762,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 515957,
+      "num": 515957,
+      "word": "多架美军机相继离开韩国基地",
+      "onboard_time": 1772971580,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 475340,
@@ -128,14 +144,6 @@
       "word": "伊朗宣布将采用全新攻击方式",
       "onboard_time": 1772961261,
       "rank": 20,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 431769,
-      "num": 431769,
-      "word": "多架美军机相继离开韩国基地",
-      "onboard_time": 1772971580,
-      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -315,7 +323,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284713,
+      "raw_hot": 290320,
       "num": 427622,
       "word": "很喜欢用嘿嘿这两个字",
       "onboard_time": 1772967860,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 245970,
-      "num": 466073,
+      "num": 519381,
       "word": "时代少年团广州演唱会",
       "onboard_time": 1772969540,
       "rank": 17,
@@ -449,6 +457,14 @@
       "onboard_time": 1772963540,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238576,
+      "num": 196017,
+      "word": "杨紫罗马时装周",
+      "onboard_time": 1772973440,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 238467,
@@ -555,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196017,
-      "num": 196017,
-      "word": "杨紫罗马时装周",
-      "onboard_time": 1772973440,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 194694,
       "num": 59678,
       "word": "伊朗外长称美袭击海水淡化厂是犯罪",
@@ -593,6 +601,22 @@
       "onboard_time": 1772963061,
       "rank": 30,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 183454,
+      "num": 140222,
+      "word": "27岁女子挤痘痘后确诊2型糖尿病",
+      "onboard_time": 1772975302,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179744,
+      "num": 163941,
+      "word": "伊朗发起第28波攻势",
+      "onboard_time": 1772973321,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179419,
@@ -632,6 +656,14 @@
       "word": "高至霆我从小美好就跟你了",
       "onboard_time": 1772964021,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162760,
+      "num": 89736,
+      "word": "逐玉播放量超过狂飙",
+      "onboard_time": 1772975661,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -689,14 +721,6 @@
       "onboard_time": 1772927898,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 151457,
-      "num": 151457,
-      "word": "伊朗发起第28波攻势",
-      "onboard_time": 1772973321,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 148544,
@@ -763,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142243,
+      "num": 142243,
+      "word": "BLG夺得优胜者",
+      "onboard_time": 1772975122,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138541,
       "num": 299084,
       "word": "王赫野周震南这主意到底谁出的",
@@ -785,6 +817,14 @@
       "onboard_time": 1772889983,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132600,
+      "num": 198162,
+      "word": "回避型差评需要一个引导型商家",
+      "onboard_time": 1772972541,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 132305,
@@ -923,12 +963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115722,
-      "num": 198162,
-      "word": "回避型差评需要一个引导型商家",
-      "onboard_time": 1772972541,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 116876,
+      "num": 116876,
+      "word": "王一博看完你的看你的",
+      "onboard_time": 1772975541,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 114517,
@@ -1075,6 +1115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98510,
+      "num": 98510,
+      "word": "我妈以为的早熟vs实际上的早熟",
+      "onboard_time": 1772974401,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98121,
       "num": 297791,
       "word": "库里说天天想吃中国的火锅小龙虾",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1772895923,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96340,
+      "num": 94139,
+      "word": "严屹宽 天涯四美",
+      "onboard_time": 1772970981,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 96300,
@@ -1171,12 +1227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92433,
-      "num": 92433,
-      "word": "严屹宽 天涯四美",
-      "onboard_time": 1772970981,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 92623,
+      "num": 92623,
+      "word": "童禹坤直播",
+      "onboard_time": 1772975122,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 92402,
@@ -1217,6 +1273,14 @@
       "onboard_time": 1772954900,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89558,
+      "num": 89558,
+      "word": "BLG战胜JDG",
+      "onboard_time": 1772975781,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 89270,
@@ -1321,6 +1385,14 @@
       "onboard_time": 1772955800,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 84006,
+      "num": 183717,
+      "word": "武大食堂4元熬夜水日销百斤",
+      "onboard_time": 1772974761,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83917,
@@ -1521,14 +1593,6 @@
       "onboard_time": 1772949140,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75679,
-      "num": 75679,
-      "word": "我妈以为的早熟vs实际上的早熟",
-      "onboard_time": 1772974401,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 75470,
@@ -2083,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52168,
+      "num": 283860,
+      "word": "建议70岁以上农村老人免缴医保",
+      "onboard_time": 1772974641,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51367,
       "num": 740027,
       "word": "AG战胜WB",
@@ -2113,6 +2185,14 @@
       "onboard_time": 1772927058,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50076,
+      "num": 132909,
+      "word": "赵雅芝红包",
+      "onboard_time": 1772975302,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 48755,
@@ -2443,6 +2523,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 29563,
+      "num": 278630,
+      "word": "每一位妇女都是主角",
+      "onboard_time": 1772975481,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28764,
       "num": 186836,
       "word": "建议科学调控网约车出租车运力",
@@ -2515,12 +2603,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23093,
+      "raw_hot": 23135,
       "num": 202713,
       "word": "和日落姐姐一起放心美",
       "onboard_time": 1772971642,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22538,
+      "num": 615140,
+      "word": "十五五规划提到这些新词热词",
+      "onboard_time": 1772972422,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22417,
@@ -2547,11 +2643,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 18898,
-      "num": 204724,
-      "word": "建议70岁以上农村老人免缴医保",
-      "onboard_time": 1772974641,
-      "rank": 16,
+      "raw_hot": 19082,
+      "num": 274297,
+      "word": "小麦代表的麦田情",
+      "onboard_time": 1772975241,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -2635,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13803,
+      "num": 203605,
+      "word": "谁懂妇女能顶半边天的含金量",
+      "onboard_time": 1772975002,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13070,
       "num": 164366,
       "word": "9个字看十五五规划里的世界机遇",
@@ -2657,14 +2761,6 @@
       "onboard_time": 1772958260,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10481,
-      "num": 145303,
-      "word": "武大食堂4元熬夜水日销百斤",
-      "onboard_time": 1772974761,
-      "rank": 29,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2679,6 +2775,9 @@
     },
     {
       "word": "#总书记和政协委员共绘民生蓝图#"
+    },
+    {
+      "word": "#习近平总书记两会下团组#"
     }
   ]
 }
