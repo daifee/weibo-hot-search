@@ -1,6 +1,6 @@
 {
   "startTime": 1772987964652,
-  "endTime": 1772992111622,
+  "endTime": 1772995500778,
   "band_list": [
     {
       "raw_hot": 1436207,
@@ -433,6 +433,38 @@
       "onboard_time": 1772976380,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18354,
+      "num": 28864,
+      "word": "谢征高精力的一天",
+      "onboard_time": 1772994315,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15552,
+      "num": 28741,
+      "word": "仙逆动画",
+      "onboard_time": 1772967320,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 14581,
+      "num": 28733,
+      "word": "白鹿综艺战损",
+      "onboard_time": 1772995096,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12881,
+      "num": 28677,
+      "word": "PEL春季赛",
+      "onboard_time": 1772974521,
+      "rank": 47,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

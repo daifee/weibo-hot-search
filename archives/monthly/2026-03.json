@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772992111622,
+  "endTime": 1772995500778,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -20723,6 +20723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18354,
+      "num": 28864,
+      "word": "谢征高精力的一天",
+      "onboard_time": 1772994315,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18348,
       "num": 224402,
       "word": "催开门电话打爆河南水煎包店主手机",
@@ -20969,6 +20977,14 @@
       "onboard_time": 1772723483,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14581,
+      "num": 28733,
+      "word": "白鹿综艺战损",
+      "onboard_time": 1772995096,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 14466,
