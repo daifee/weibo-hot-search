@@ -1,0 +1,410 @@
+{
+  "runTime": 1773012777644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 213188,
+        "num": 814387,
+        "word": "王毅向日本发出灵魂4问",
+        "onboard_time": 1772988560,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187862,
+        "num": 579750,
+        "word": "两艘万吨大驱亮相",
+        "onboard_time": 1772979441,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 55964,
+        "num": 487390,
+        "word": "从海底1万米到距地球4300万公里",
+        "onboard_time": 1772976380,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 881930,
+        "num": 483238,
+        "word": "狂飙",
+        "onboard_time": 1772981482,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558272,
+        "num": 478350,
+        "word": "多家黄金品牌宣布调价",
+        "onboard_time": 1772984060,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 469466,
+        "num": 469466,
+        "word": "哈梅内伊之子接任最高领袖",
+        "onboard_time": 1773012439,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235592,
+        "num": 235592,
+        "word": "中传砍掉翻译摄影等16个专业",
+        "onboard_time": 1773012318,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 229040,
+        "num": 229040,
+        "word": "武大食堂4元熬夜水日销百斤",
+        "onboard_time": 1772974761,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27511,
+        "num": 156130,
+        "word": "中国式现代化圈粉全球",
+        "onboard_time": 1772976380,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146094,
+        "num": 146094,
+        "word": "玫瑰丛生",
+        "onboard_time": 1773011838,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462507,
+        "num": 145397,
+        "word": "伊朗最高权力平稳过渡",
+        "onboard_time": 1772986580,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186118,
+        "num": 141329,
+        "word": "逐玉 出圈梗",
+        "onboard_time": 1772979201,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128937,
+        "num": 128937,
+        "word": "98岁爷爷在西湖边火了",
+        "onboard_time": 1772974882,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99705,
+        "num": 99705,
+        "word": "王祉怡获全英赛女单冠军",
+        "onboard_time": 1772987840,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96787,
+        "num": 96787,
+        "word": "逐玉播放量超过狂飙",
+        "onboard_time": 1772975661,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94849,
+        "num": 94849,
+        "word": "肖战到上海参加电视剧品质盛典",
+        "onboard_time": 1773012078,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89815,
+        "num": 89815,
+        "word": "AI对老师的影响",
+        "onboard_time": 1772979862,
+        "rank": 16,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 87029,
+        "num": 87029,
+        "word": "湖南卫视妇女节视频设计好天才啊",
+        "onboard_time": 1772983281,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68454,
+        "num": 86723,
+        "word": "恋与深空",
+        "onboard_time": 1773011417,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64067,
+        "num": 85797,
+        "word": "我妈以为的早熟vs实际上的早熟",
+        "onboard_time": 1772974401,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313642,
+        "num": 84951,
+        "word": "伊朗称击毁4部美军萨德系统雷达",
+        "onboard_time": 1772982562,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154203,
+        "num": 83959,
+        "word": "27岁女子挤痘痘后确诊2型糖尿病",
+        "onboard_time": 1772975302,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125006,
+        "num": 83152,
+        "word": "美军战斗力成谜",
+        "onboard_time": 1772981902,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121774,
+        "num": 82305,
+        "word": "恋综史上最明艳的出场",
+        "onboard_time": 1772977943,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120591,
+        "num": 81473,
+        "word": "严屹宽一出场皇帝瞬间被衬成公公",
+        "onboard_time": 1772966840,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107990,
+        "num": 81346,
+        "word": "伊朗选出新最高领袖",
+        "onboard_time": 1772952140,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94824,
+        "num": 80424,
+        "word": "王一博 巴黎也有回南天",
+        "onboard_time": 1772977521,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79776,
+        "num": 79776,
+        "word": "伊朗亮底线",
+        "onboard_time": 1772951001,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70873,
+        "num": 70873,
+        "word": "起猛了隐形眼镜发展到这个地步了",
+        "onboard_time": 1773012138,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66606,
+        "num": 66606,
+        "word": "多架美军机相继离开韩国基地",
+        "onboard_time": 1772971580,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62782,
+        "num": 62782,
+        "word": "霍去病团队1分钟视频报价6000元起",
+        "onboard_time": 1773012318,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68898,
+        "num": 60389,
+        "word": "设计师演我见到王一博",
+        "onboard_time": 1772988798,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 53533,
+        "num": 53533,
+        "word": "短剧霍去病AI平台幕后老板是周鸿祎",
+        "onboard_time": 1773012379,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61319,
+        "num": 53533,
+        "word": "王一博看完你的看你的",
+        "onboard_time": 1772975541,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 53503,
+        "num": 53503,
+        "word": "伊朗宣布将采用全新攻击方式",
+        "onboard_time": 1772961261,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50280,
+        "num": 53501,
+        "word": "逐玉 认养一头牛",
+        "onboard_time": 1772978481,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49889,
+        "num": 53484,
+        "word": "女子糖尿病不忌口8年变尿毒症",
+        "onboard_time": 1772963421,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48757,
+        "num": 53484,
+        "word": "樊长玉家 猪猪痛屋",
+        "onboard_time": 1772985261,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45225,
+        "num": 53473,
+        "word": "苹果或推出三款Ultra新品",
+        "onboard_time": 1773012560,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 41993,
+        "num": 53457,
+        "word": "在北京穿了将近半年的羽绒服",
+        "onboard_time": 1772963540,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40928,
+        "num": 53451,
+        "word": "刘宇宁演技层次感",
+        "onboard_time": 1773006495,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40285,
+        "num": 53437,
+        "word": "金晨孙阳偏偏喜欢你2杀青捧花",
+        "onboard_time": 1772981181,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39372,
+        "num": 53428,
+        "word": "LPL第一赛段",
+        "onboard_time": 1773012199,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40183,
+        "num": 53421,
+        "word": "逐玉 帅哥",
+        "onboard_time": 1772984300,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36810,
+        "num": 53413,
+        "word": "杨紫罗马时装周",
+        "onboard_time": 1772973440,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38400,
+        "num": 53403,
+        "word": "逐玉小说",
+        "onboard_time": 1773012199,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 36635,
+        "num": 53390,
+        "word": "白鹿综艺战损",
+        "onboard_time": 1772995096,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35732,
+        "num": 53387,
+        "word": "王毅回应两岸统一时间表",
+        "onboard_time": 1772955800,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35644,
+        "num": 53369,
+        "word": "退出APP显示残忍离开到底谁发明的",
+        "onboard_time": 1772965401,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35577,
+        "num": 53364,
+        "word": "时代少年团高会直播",
+        "onboard_time": 1773009195,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记两会下团组#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773010196256,
+  "endTime": 1773012777644,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 651292,
-      "num": 336244,
+      "num": 478350,
       "word": "多家黄金品牌宣布调价",
       "onboard_time": 1772984060,
       "rank": 7,
@@ -200,6 +200,22 @@
       "word": "伊朗宣布将采用全新攻击方式",
       "onboard_time": 1772961261,
       "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 469466,
+      "num": 469466,
+      "word": "哈梅内伊之子接任最高领袖",
+      "onboard_time": 1773012439,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 462507,
+      "num": 276410,
+      "word": "伊朗最高权力平稳过渡",
+      "onboard_time": 1772986580,
+      "rank": 24,
       "category": "国际时政"
     },
     {
@@ -339,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313642,
+      "num": 124725,
+      "word": "伊朗称击毁4部美军萨德系统雷达",
+      "onboard_time": 1772982562,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 310334,
       "num": 373368,
       "word": "微波炉泡面",
@@ -457,14 +481,6 @@
       "onboard_time": 1772959880,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276410,
-      "num": 276410,
-      "word": "伊朗最高权力平稳过渡",
-      "onboard_time": 1772986580,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 271821,
@@ -611,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235592,
+      "num": 235592,
+      "word": "中传砍掉翻译摄影等16个专业",
+      "onboard_time": 1773012318,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 233597,
       "num": 299315,
       "word": "云南蓝莓",
@@ -689,6 +713,14 @@
       "onboard_time": 1772963421,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213188,
+      "num": 814387,
+      "word": "王毅向日本发出灵魂4问",
+      "onboard_time": 1772988560,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 211886,
@@ -779,14 +811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179151,
-      "num": 124725,
-      "word": "伊朗称击毁4部美军萨德系统雷达",
-      "onboard_time": 1772982562,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 177160,
       "num": 297874,
       "word": "低食量女生的一顿饭",
@@ -801,14 +825,6 @@
       "onboard_time": 1772976982,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 174782,
-      "num": 518798,
-      "word": "王毅向日本发出灵魂4问",
-      "onboard_time": 1772988560,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 172963,
@@ -947,6 +963,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 146094,
+      "num": 146094,
+      "word": "玫瑰丛生",
+      "onboard_time": 1773011838,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145635,
       "num": 145635,
       "word": "外国游客到中国根本买不够",
@@ -956,7 +980,7 @@
     },
     {
       "raw_hot": 143744,
-      "num": 83100,
+      "num": 99705,
       "word": "王祉怡获全英赛女单冠军",
       "onboard_time": 1772987840,
       "rank": 25,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1772969960,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128937,
+      "num": 162050,
+      "word": "98岁爷爷在西湖边火了",
+      "onboard_time": 1772974882,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128365,
@@ -1299,14 +1331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102885,
-      "num": 162050,
-      "word": "98岁爷爷在西湖边火了",
-      "onboard_time": 1772974882,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102194,
       "num": 181687,
       "word": "最近爆火的AI龙虾是什么",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1772955263,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94849,
+      "num": 94849,
+      "word": "肖战到上海参加电视剧品质盛典",
+      "onboard_time": 1773012078,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 94458,
@@ -1979,6 +2011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70873,
+      "num": 70873,
+      "word": "起猛了隐形眼镜发展到这个地步了",
+      "onboard_time": 1773012138,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70633,
       "num": 297321,
       "word": "白鹿张艺凡内娱最爱笑的俩聚一起了",
@@ -2035,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68898,
+      "num": 60389,
+      "word": "设计师演我见到王一博",
+      "onboard_time": 1772988798,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 68883,
       "num": 297535,
       "word": "杨紫玉兰花开君再来大婚造型",
@@ -2057,6 +2105,14 @@
       "onboard_time": 1772962401,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 68454,
+      "num": 86723,
+      "word": "恋与深空",
+      "onboard_time": 1773011417,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 68371,
@@ -2227,14 +2283,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 63312,
-      "num": 51878,
-      "word": "设计师演我见到王一博",
-      "onboard_time": 1772988798,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 63185,
       "num": 373344,
       "word": "敖瑞鹏异域古装造型路透",
@@ -2248,6 +2296,14 @@
       "word": "不二之臣",
       "onboard_time": 1772927958,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62782,
+      "num": 62782,
+      "word": "霍去病团队1分钟视频报价6000元起",
+      "onboard_time": 1773012318,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -2467,6 +2523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 53533,
+      "num": 53533,
+      "word": "短剧霍去病AI平台幕后老板是周鸿祎",
+      "onboard_time": 1773012379,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 52807,
       "num": 194367,
       "word": "头一次见动物投喂游客",
@@ -2627,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45225,
+      "num": 53473,
+      "word": "苹果或推出三款Ultra新品",
+      "onboard_time": 1773012560,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44403,
       "num": 85125,
       "word": "你好星期六 逐玉",
@@ -2673,6 +2745,14 @@
       "onboard_time": 1772982263,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40928,
+      "num": 53451,
+      "word": "刘宇宁演技层次感",
+      "onboard_time": 1773006495,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 40926,
@@ -2723,6 +2803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39372,
+      "num": 53428,
+      "word": "LPL第一赛段",
+      "onboard_time": 1773012199,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39337,
       "num": 230831,
       "word": "王毅说了5个坚定",
@@ -2745,6 +2833,14 @@
       "onboard_time": 1772951661,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38400,
+      "num": 53403,
+      "word": "逐玉小说",
+      "onboard_time": 1773012199,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 38348,
@@ -2787,6 +2883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36635,
+      "num": 53390,
+      "word": "白鹿综艺战损",
+      "onboard_time": 1772995096,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35626,
       "num": 652099,
       "word": "鹿晗五哈上海录制",
@@ -2801,6 +2905,14 @@
       "onboard_time": 1772939780,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35577,
+      "num": 53364,
+      "word": "时代少年团高会直播",
+      "onboard_time": 1773009195,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 35359,
@@ -2873,14 +2985,6 @@
       "onboard_time": 1772985079,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 31517,
-      "num": 47846,
-      "word": "刘宇宁演技层次感",
-      "onboard_time": 1773006495,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 31512,
@@ -2963,14 +3067,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 26260,
-      "num": 39720,
-      "word": "白鹿综艺战损",
-      "onboard_time": 1772995096,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 25033,
       "num": 343148,
       "word": "谁懂妇女能顶半边天的含金量",
@@ -2985,14 +3081,6 @@
       "onboard_time": 1772884941,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24704,
-      "num": 39585,
-      "word": "时代少年团高会直播",
-      "onboard_time": 1773009195,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 24701,
