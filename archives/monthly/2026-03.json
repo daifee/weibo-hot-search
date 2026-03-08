@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772970278718,
+  "endTime": 1772975012632,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -913,6 +913,14 @@
       "onboard_time": 1772614044,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 884850,
+      "num": 404188,
+      "word": "逐玉走势",
+      "onboard_time": 1772970560,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 868815,
@@ -3027,6 +3035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 431769,
+      "num": 431769,
+      "word": "多架美军机相继离开韩国基地",
+      "onboard_time": 1772971580,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 430213,
       "num": 847701,
       "word": "豆瓣 薅羊毛",
@@ -3425,6 +3441,14 @@
       "onboard_time": 1772368463,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398310,
+      "num": 398310,
+      "word": "孔雪儿逐玉出场",
+      "onboard_time": 1772973681,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 397973,
@@ -4523,6 +4547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317771,
+      "num": 433646,
+      "word": "BLG对战JDG",
+      "onboard_time": 1772959820,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 317100,
       "num": 172759,
       "word": "白鹿进组要下半年往后了",
@@ -5049,6 +5081,14 @@
       "onboard_time": 1772891543,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 284713,
+      "num": 427622,
+      "word": "很喜欢用嘿嘿这两个字",
+      "onboard_time": 1772967860,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 284555,
@@ -5835,6 +5875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245970,
+      "num": 466073,
+      "word": "时代少年团广州演唱会",
+      "onboard_time": 1772969540,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245807,
       "num": 233365,
       "word": "向太怒批你凭什么喷王菲",
@@ -6184,6 +6232,14 @@
       "word": "我的饭量得吃50层才能饱",
       "onboard_time": 1772933179,
       "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 231652,
+      "num": 564633,
+      "word": "退出APP显示残忍离开到底谁发明的",
+      "onboard_time": 1772965401,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -6795,6 +6851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204682,
+      "num": 204682,
+      "word": "JDG对战狼队",
+      "onboard_time": 1772973201,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204643,
       "num": 282384,
       "word": "广西整个四月都在上四休三",
@@ -7075,6 +7139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 196017,
+      "num": 196017,
+      "word": "杨紫罗马时装周",
+      "onboard_time": 1772973440,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 195775,
       "num": 195775,
       "word": "伊朗足协主席称很难期待世界杯了",
@@ -7201,14 +7273,6 @@
       "onboard_time": 1772433323,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 191819,
-      "num": 564633,
-      "word": "退出APP显示残忍离开到底谁发明的",
-      "onboard_time": 1772965401,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 191661,
@@ -8729,6 +8793,14 @@
       "onboard_time": 1772927898,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 151457,
+      "num": 151457,
+      "word": "伊朗发起第28波攻势",
+      "onboard_time": 1772973321,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151290,
@@ -10867,14 +10939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118617,
-      "num": 433646,
-      "word": "BLG对战JDG",
-      "onboard_time": 1772959820,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 118431,
       "num": 163184,
       "word": "JDG晋级S组",
@@ -11083,6 +11147,14 @@
       "category": "综艺,剧集"
     },
     {
+      "raw_hot": 115722,
+      "num": 198162,
+      "word": "回避型差评需要一个引导型商家",
+      "onboard_time": 1772972541,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115628,
       "num": 212197,
       "word": "十日终焉角色设定",
@@ -11097,14 +11169,6 @@
       "onboard_time": 1772857401,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 115405,
-      "num": 422701,
-      "word": "时代少年团广州演唱会",
-      "onboard_time": 1772969540,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 115403,
@@ -11329,6 +11393,14 @@
       "onboard_time": 1772779223,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113489,
+      "num": 113489,
+      "word": "Lacoste大秀",
+      "onboard_time": 1772971882,
+      "rank": 33,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 113438,
@@ -11987,6 +12059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105983,
+      "num": 105983,
+      "word": "台湾代表连报十几个大陆APP",
+      "onboard_time": 1772971642,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105664,
       "num": 105664,
       "word": "郑润泽升降台事故",
@@ -12081,14 +12161,6 @@
       "onboard_time": 1772603184,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 104675,
-      "num": 411712,
-      "word": "很喜欢用嘿嘿这两个字",
-      "onboard_time": 1772967860,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 104622,
@@ -12193,6 +12265,14 @@
       "onboard_time": 1772679503,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103622,
+      "num": 103622,
+      "word": "金智秀新剧韩趋第一",
+      "onboard_time": 1772971401,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 103499,
@@ -13571,6 +13651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92433,
+      "num": 92433,
+      "word": "严屹宽 天涯四美",
+      "onboard_time": 1772970981,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92402,
       "num": 92402,
       "word": "海贼王也得拜妈祖",
@@ -14321,6 +14409,22 @@
       "onboard_time": 1772346803,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86083,
+      "num": 86083,
+      "word": "女子抽中工资翻倍要把产线干停",
+      "onboard_time": 1772973321,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86010,
+      "num": 373356,
+      "word": "赵丽颖乔妍带假发摇摆",
+      "onboard_time": 1772969481,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 85901,
@@ -15163,6 +15267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78445,
+      "num": 78445,
+      "word": "98岁爷爷在西湖边火了",
+      "onboard_time": 1772974882,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78424,
       "num": 144290,
       "word": "桃黑黑纸嫁衣",
@@ -15209,6 +15321,14 @@
       "onboard_time": 1772621365,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78118,
+      "num": 99977,
+      "word": "PEL春季赛",
+      "onboard_time": 1772721086,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 78109,
@@ -15305,14 +15425,6 @@
       "onboard_time": 1772465364,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77551,
-      "num": 373356,
-      "word": "赵丽颖乔妍带假发摇摆",
-      "onboard_time": 1772969481,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 77472,
@@ -15603,12 +15715,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 75679,
+      "num": 75679,
+      "word": "我妈以为的早熟vs实际上的早熟",
+      "onboard_time": 1772974401,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75621,
       "num": 258662,
       "word": "肖战黑色亮面皮革",
       "onboard_time": 1772516364,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75470,
+      "num": 75470,
+      "word": "Delight力挺Faker",
+      "onboard_time": 1772973801,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 75406,
@@ -17267,6 +17395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61088,
+      "num": 75432,
+      "word": "他们抢着帮孙颖莎捡球",
+      "onboard_time": 1772974281,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60807,
       "num": 60807,
       "word": "肖战十日终焉的适配度",
@@ -17441,6 +17577,14 @@
       "onboard_time": 1772936720,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58101,
+      "num": 75418,
+      "word": "Gala醒了",
+      "onboard_time": 1772974281,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 58059,
@@ -18475,6 +18619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43012,
+      "num": 559782,
+      "word": "建议规范食品有效期标注",
+      "onboard_time": 1772960780,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42967,
       "num": 97115,
       "word": "建议保障医务工作者休息权",
@@ -19339,12 +19491,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31445,
-      "num": 559782,
-      "word": "建议规范食品有效期标注",
-      "onboard_time": 1772960780,
-      "rank": 7,
-      "category": "国内时政"
+      "raw_hot": 31369,
+      "num": 144417,
+      "word": "谁懂这种被女孩子圈粉的感觉",
+      "onboard_time": 1772972901,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 31268,
@@ -19843,6 +19995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23093,
+      "num": 202713,
+      "word": "和日落姐姐一起放心美",
+      "onboard_time": 1772971642,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22658,
       "num": 41288,
       "word": "今天元宵节",
@@ -20065,6 +20225,14 @@
       "onboard_time": 1772373085,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 18898,
+      "num": 204724,
+      "word": "建议70岁以上农村老人免缴医保",
+      "onboard_time": 1772974641,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18780,
@@ -20379,14 +20547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13885,
-      "num": 99977,
-      "word": "PEL春季赛",
-      "onboard_time": 1772721086,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 13805,
       "num": 463658,
       "word": "接红包做发光大女主",
@@ -20451,6 +20611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11391,
+      "num": 201438,
+      "word": "孙颖莎实力真香",
+      "onboard_time": 1772971580,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11294,
       "num": 88487,
       "word": "3位全国人大代表激动交换种子",
@@ -20505,6 +20673,14 @@
       "onboard_time": 1772581463,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10481,
+      "num": 145303,
+      "word": "武大食堂4元熬夜水日销百斤",
+      "onboard_time": 1772974761,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9057,
