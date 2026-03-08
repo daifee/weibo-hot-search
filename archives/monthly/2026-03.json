@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1772949860239,
+  "endTime": 1772952922371,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -393,6 +393,14 @@
       "onboard_time": 1772368104,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1322991,
+      "num": 231927,
+      "word": "伊朗亮底线",
+      "onboard_time": 1772951001,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1320758,
@@ -3353,6 +3361,14 @@
       "onboard_time": 1772368463,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398220,
+      "num": 231552,
+      "word": "伊朗选出新最高领袖",
+      "onboard_time": 1772952140,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 397973,
@@ -7003,6 +7019,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 192134,
+      "num": 297052,
+      "word": "杨紫左手牵娃右手抱娃",
+      "onboard_time": 1772948780,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191661,
       "num": 262188,
       "word": "小鹏G6超级增程六项全能一步到位",
@@ -8161,6 +8185,14 @@
       "onboard_time": 1772368884,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 157269,
+      "num": 231766,
+      "word": "张凯丽 网红能当一辈子吗",
+      "onboard_time": 1772951780,
+      "rank": 14,
+      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 157247,
@@ -9996,7 +10028,7 @@
     },
     {
       "raw_hot": 125597,
-      "num": 176478,
+      "num": 231974,
       "word": "AI龙虾到底能干什么",
       "onboard_time": 1772949500,
       "rank": 16,
@@ -11523,6 +11555,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 107606,
+      "num": 231311,
+      "word": "嘻哈 我感谢那些女士",
+      "onboard_time": 1772949381,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107599,
       "num": 107599,
       "word": "Jennie出发Chanel大秀",
@@ -12569,14 +12609,6 @@
       "onboard_time": 1772854101,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 97755,
-      "num": 297052,
-      "word": "杨紫左手牵娃右手抱娃",
-      "onboard_time": 1772948780,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 97642,
@@ -13963,6 +13995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84877,
+      "num": 231565,
+      "word": "年轻人为何排队疯抢AI龙虾",
+      "onboard_time": 1772952799,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 84869,
       "num": 131381,
       "word": "大早上以为自己进平行世界了",
@@ -14169,6 +14209,14 @@
       "onboard_time": 1772281162,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82772,
+      "num": 231145,
+      "word": "9岁小球员送王楚钦重庆拼图",
+      "onboard_time": 1772952319,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 82589,
@@ -14409,6 +14457,14 @@
       "onboard_time": 1772896284,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80843,
+      "num": 231195,
+      "word": "妇女节 卫生巾半价",
+      "onboard_time": 1772952502,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80840,
@@ -15299,6 +15355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73883,
+      "num": 231084,
+      "word": "伊朗未透露新最高领袖姓名",
+      "onboard_time": 1772952319,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73878,
       "num": 155672,
       "word": "蒋胜男说年轻人不加班才有时间生娃",
@@ -15481,6 +15545,14 @@
       "onboard_time": 1772894483,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72243,
+      "num": 231030,
+      "word": "名侦探学院",
+      "onboard_time": 1772951780,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 72223,
@@ -15867,14 +15939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67791,
-      "num": 168049,
-      "word": "嘻哈 我感谢那些女士",
-      "onboard_time": 1772949381,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67726,
       "num": 301050,
       "word": "把回南天拍得好高级",
@@ -16043,6 +16107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66233,
+      "num": 230999,
+      "word": "谷爱凌花车巡游",
+      "onboard_time": 1772949140,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66196,
       "num": 644208,
       "word": "猫像喝醉了被鸭子带回家",
@@ -16131,6 +16203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65149,
+      "num": 230970,
+      "word": "郑钦文回应一轮游",
+      "onboard_time": 1772952261,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64741,
       "num": 220197,
       "word": "支持有条件地方推广中小学春秋假",
@@ -16195,6 +16275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64425,
+      "num": 230913,
+      "word": "AI龙虾存在多重安全隐患",
+      "onboard_time": 1772949140,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 64417,
       "num": 421478,
       "word": "建议禁止12岁以下坐副驾",
@@ -16233,6 +16321,14 @@
       "onboard_time": 1772888542,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64153,
+      "num": 230867,
+      "word": "建议减少中小学学科数量",
+      "onboard_time": 1772949859,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63867,
@@ -16411,6 +16507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62222,
+      "num": 230857,
+      "word": "伊朗称将打击向敌提供领空领土国家",
+      "onboard_time": 1772951600,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62201,
       "num": 216501,
       "word": "有了pdd雨林深处也能村口取货",
@@ -16529,14 +16633,6 @@
       "onboard_time": 1772542112,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61175,
-      "num": 167844,
-      "word": "AI龙虾存在多重安全隐患",
-      "onboard_time": 1772949140,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 61140,
@@ -16931,6 +17027,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 53576,
+      "num": 230665,
+      "word": "边牧第一次碰到羊群血脉觉醒",
+      "onboard_time": 1772951541,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 53575,
       "num": 146212,
       "word": "刘耀文张真源卡点祝福宋亚轩",
@@ -17033,6 +17137,14 @@
       "onboard_time": 1772949740,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52509,
+      "num": 230527,
+      "word": "范丞丞对张艺凡说303你不能偷",
+      "onboard_time": 1772950400,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 52420,
@@ -17243,6 +17355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48670,
+      "num": 230443,
+      "word": "包上恩王影璐红包",
+      "onboard_time": 1772950461,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48524,
       "num": 740588,
       "word": "两会学习笔记",
@@ -17305,6 +17425,14 @@
       "onboard_time": 1772753179,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47781,
+      "num": 230419,
+      "word": "郑钦文说需要找到比赛的节奏",
+      "onboard_time": 1772952502,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 47587,
