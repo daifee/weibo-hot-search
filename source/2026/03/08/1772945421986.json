@@ -1,0 +1,410 @@
+{
+  "runTime": 1772945421986,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 152583,
+        "num": 1024413,
+        "word": "外交部长王毅答记者问",
+        "onboard_time": 1772934981,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116622,
+        "num": 742114,
+        "word": "世界乱象丛生祖国稳如泰山",
+        "onboard_time": 1772939242,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35626,
+        "num": 603590,
+        "word": "奋进十五五AI超燃大片",
+        "onboard_time": 1772939780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 516606,
+        "num": 516606,
+        "word": "华春莹一口气吃了两颗化橘红",
+        "onboard_time": 1772941762,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123373,
+        "num": 432260,
+        "word": "王毅谈伊朗局势",
+        "onboard_time": 1772941041,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 430660,
+        "num": 430660,
+        "word": "妇女节",
+        "onboard_time": 1772924956,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421187,
+        "num": 421187,
+        "word": "AI龙虾爆火有人几天赚了26万",
+        "onboard_time": 1772938039,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29208,
+        "num": 384122,
+        "word": "中国绝不走国强必霸的老路",
+        "onboard_time": 1772944880,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58908,
+        "num": 355572,
+        "word": "未来5年这些民生举措事关你我",
+        "onboard_time": 1772939780,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66281,
+        "num": 354248,
+        "word": "日本没资格插手台湾事务",
+        "onboard_time": 1772940381,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353935,
+        "num": 353935,
+        "word": "台湾绝无可能成为国家",
+        "onboard_time": 1772942422,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 344726,
+        "num": 344726,
+        "word": "马化腾说没想到养龙虾这么火",
+        "onboard_time": 1772944101,
+        "rank": 11,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 322843,
+        "num": 322843,
+        "word": "多方回应深圳公务员组团养政务龙虾",
+        "onboard_time": 1772941401,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 306453,
+        "num": 306453,
+        "word": "汪苏泷纽约上座率",
+        "onboard_time": 1772940922,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243506,
+        "num": 243506,
+        "word": "F1",
+        "onboard_time": 1772942961,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202425,
+        "num": 202425,
+        "word": "云南蓝莓",
+        "onboard_time": 1772941642,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199394,
+        "num": 199394,
+        "word": "妇女节快乐",
+        "onboard_time": 1772932700,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196850,
+        "num": 196850,
+        "word": "迪拜黄金打折售卖",
+        "onboard_time": 1772943139,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25890,
+        "num": 180081,
+        "word": "全微博开抢百变之光",
+        "onboard_time": 1772942660,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172963,
+        "num": 172963,
+        "word": "养龙虾为什么爆火",
+        "onboard_time": 1772937801,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 914822,
+        "num": 172516,
+        "word": "张凌赫田曦薇下意识的牵手",
+        "onboard_time": 1772937623,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363267,
+        "num": 171984,
+        "word": "网友上门安装小龙虾几天赚26万",
+        "onboard_time": 1772940079,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 315030,
+        "num": 170831,
+        "word": "逐玉",
+        "onboard_time": 1772934860,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306899,
+        "num": 170034,
+        "word": "黄子韬曾经是张艺凡导师",
+        "onboard_time": 1772939660,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169454,
+        "num": 169454,
+        "word": "低食量女生的一顿饭",
+        "onboard_time": 1772937261,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244362,
+        "num": 169339,
+        "word": "玉兰花开君再来",
+        "onboard_time": 1772938039,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168757,
+        "num": 168757,
+        "word": "王楚然仿妆还以为本尊来了",
+        "onboard_time": 1772940439,
+        "rank": 26,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 105174,
+        "num": 168718,
+        "word": "侧颜天菜妆容",
+        "onboard_time": 1772943981,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 129732,
+        "num": 168478,
+        "word": "霍去病导演澄清3000元制作80集",
+        "onboard_time": 1772943441,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99379,
+        "num": 168352,
+        "word": "JackeyLove回应输给越南",
+        "onboard_time": 1772943202,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112289,
+        "num": 168103,
+        "word": "装龙虾生意引爆全球",
+        "onboard_time": 1772945121,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102194,
+        "num": 167849,
+        "word": "最近爆火的AI龙虾是什么",
+        "onboard_time": 1772945059,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96291,
+        "num": 167680,
+        "word": "硬糖少女偷偶像练习生的鱼",
+        "onboard_time": 1772937801,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80190,
+        "num": 167612,
+        "word": "快递送花也开始卷仪式感了",
+        "onboard_time": 1772940320,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95130,
+        "num": 167298,
+        "word": "十日终焉",
+        "onboard_time": 1772929160,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93480,
+        "num": 167289,
+        "word": "狗 我就是咪咪啊",
+        "onboard_time": 1772944401,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92298,
+        "num": 166947,
+        "word": "卢昱晓跳Zoo",
+        "onboard_time": 1772936000,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92180,
+        "num": 166879,
+        "word": "景区乞丐npc遭到游客疯狂投喂",
+        "onboard_time": 1772942480,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85398,
+        "num": 166725,
+        "word": "库里说天天想吃中国的火锅小龙虾",
+        "onboard_time": 1772941880,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88027,
+        "num": 166374,
+        "word": "林噙霜你的周娘子跟大娘子跑了",
+        "onboard_time": 1772943981,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87622,
+        "num": 166198,
+        "word": "伊朗称以色列试图构建人盾",
+        "onboard_time": 1772929040,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82992,
+        "num": 166019,
+        "word": "谷爱凌和妈妈一起出席活动",
+        "onboard_time": 1772944281,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78264,
+        "num": 165853,
+        "word": "孙颖莎出镜央视妇女节短片",
+        "onboard_time": 1772944161,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77305,
+        "num": 165696,
+        "word": "粉笔模考",
+        "onboard_time": 1772940621,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 73425,
+        "num": 165586,
+        "word": "杨超越陈飞宇G社生图",
+        "onboard_time": 1772936301,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72272,
+        "num": 165412,
+        "word": "把大自然的颜色画在脸上",
+        "onboard_time": 1772944401,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 71645,
+        "num": 165116,
+        "word": "170斤女孩穿旗袍跳舞自信到发光",
+        "onboard_time": 1772934380,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71009,
+        "num": 164962,
+        "word": "这是我给妈妈报的网课",
+        "onboard_time": 1772944041,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65264,
+        "num": 164838,
+        "word": "伊朗大规模无人机攻击美以",
+        "onboard_time": 1772927657,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62420,
+        "num": 164587,
+        "word": "AI写作48小时生成500万字长篇小说",
+        "onboard_time": 1772929457,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再部署加快建设健康中国#"
+    }
+  }
+}
