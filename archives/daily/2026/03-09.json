@@ -1,6 +1,6 @@
 {
   "startTime": 1772987964652,
-  "endTime": 1773050488079,
+  "endTime": 1773051216672,
   "band_list": [
     {
       "raw_hot": 1436207,
@@ -51,7 +51,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 724321,
+      "raw_hot": 749859,
       "num": 562201,
       "word": "被邻桌倒螺蛳粉汤女子发声",
       "onboard_time": 1773049040,
@@ -81,6 +81,14 @@
       "onboard_time": 1772984060,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 649442,
+      "num": 543493,
+      "word": "腾讯视频回应播放异常",
+      "onboard_time": 1773051081,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 617115,
@@ -147,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 456480,
+      "num": 500715,
+      "word": "重案六组 张一山李沐宸",
+      "onboard_time": 1773050181,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 448793,
       "num": 607012,
       "word": "美被迫中止军事行动的可能性上升",
@@ -163,20 +179,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436508,
+      "num": 559739,
+      "word": "长玉大人开恩 谢征都杀喽",
+      "onboard_time": 1773047481,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422632,
       "num": 204606,
       "word": "金价上涨金条卖爆了",
       "onboard_time": 1773026421,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 422293,
-      "num": 559739,
-      "word": "长玉大人开恩 谢征都杀喽",
-      "onboard_time": 1773047481,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 420534,
@@ -427,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 236825,
+      "num": 1037892,
+      "word": "农业农村部部长建议大家少吃点油",
+      "onboard_time": 1773045622,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 235997,
       "num": 924495,
       "word": "王毅向日本发出灵魂4问",
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 216704,
-      "num": 607156,
+      "num": 611202,
       "word": "镖人升至全球武侠片票房亚军",
       "onboard_time": 1773045262,
       "rank": 8,
@@ -513,6 +537,14 @@
       "onboard_time": 1773040761,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211377,
+      "num": 560288,
+      "word": "妈妈在被子上缝了一道线",
+      "onboard_time": 1773046222,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 207363,
@@ -595,14 +627,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 189990,
-      "num": 1030398,
-      "word": "农业农村部部长建议大家少吃点油",
-      "onboard_time": 1773045622,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 186730,
       "num": 174927,
       "word": "蕾哈娜豪宅遭枪击",
@@ -619,12 +643,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182397,
+      "num": 435890,
+      "word": "爱玩拼豆的人天塌了",
+      "onboard_time": 1773050601,
+      "rank": 24,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 182105,
       "num": 432369,
       "word": "任豪用剑扶田曦薇腰这一下",
       "onboard_time": 1773034163,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180411,
+      "num": 613266,
+      "word": "镖人 全女版",
+      "onboard_time": 1773049221,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 177774,
@@ -795,20 +835,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149649,
+      "num": 504224,
+      "word": "敬妃带着胧月开网约车",
+      "onboard_time": 1773049941,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148548,
       "num": 614546,
       "word": "杭州初二男生贴助长贴一年长高11厘米",
       "onboard_time": 1773032003,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147657,
-      "num": 560288,
-      "word": "妈妈在被子上缝了一道线",
-      "onboard_time": 1773046222,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 145498,
@@ -955,14 +995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114192,
-      "num": 500715,
-      "word": "重案六组 张一山李沐宸",
-      "onboard_time": 1773050181,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113667,
       "num": 113667,
       "word": "美军最活跃进攻基地遭重创",
@@ -1083,14 +1115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102008,
-      "num": 566763,
-      "word": "镖人 全女版",
-      "onboard_time": 1773049221,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 101590,
       "num": 596996,
       "word": "刘亦菲抵达巴黎看秀",
@@ -1121,6 +1145,14 @@
       "onboard_time": 1773011417,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97245,
+      "num": 598666,
+      "word": "中国女足vs朝鲜女足",
+      "onboard_time": 1773046280,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 97055,
@@ -1275,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87951,
+      "num": 435237,
+      "word": "荣耀MagicV6还原法拉利的优雅",
+      "onboard_time": 1773051081,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 87419,
       "num": 87419,
       "word": "我妈以为的早熟vs实际上的早熟",
@@ -1323,28 +1363,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 84307,
-      "num": 504224,
-      "word": "敬妃带着胧月开网约车",
-      "onboard_time": 1773049941,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82415,
       "num": 82415,
       "word": "Bin获FMVP",
       "onboard_time": 1772975062,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 81811,
-      "num": 598666,
-      "word": "中国女足vs朝鲜女足",
-      "onboard_time": 1773046280,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 81279,
@@ -1475,6 +1499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 73265,
+      "num": 435163,
+      "word": "中国女足半场2比1朝鲜女足",
+      "onboard_time": 1773051081,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72480,
       "num": 76167,
       "word": "云南的紫外线我给到夯",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1773039861,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70055,
+      "num": 434708,
+      "word": "女子戴10款黄金珠宝到胖东来买首饰",
+      "onboard_time": 1773051141,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69037,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1772973321,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66679,
+      "num": 434484,
+      "word": "别轻易跟不熟的朋友去迪士尼",
+      "onboard_time": 1773050542,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 66405,
@@ -1723,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51479,
+      "num": 435097,
+      "word": "日方恣意妄为必将付出代价",
+      "onboard_time": 1773050481,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51387,
       "num": 81534,
       "word": "王一博Mai合影",
@@ -1780,7 +1836,7 @@
     },
     {
       "raw_hot": 48093,
-      "num": 609659,
+      "num": 621868,
       "word": "人大报告精华版",
       "onboard_time": 1773043522,
       "rank": 2,
@@ -2011,6 +2067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26449,
+      "num": 496210,
+      "word": "辛芷蕾工作室 有效出图",
+      "onboard_time": 1773050364,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 24701,
       "num": 39553,
       "word": "丁禹兮吹花瓣",
@@ -2033,14 +2097,6 @@
       "onboard_time": 1773025941,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21746,
-      "num": 496210,
-      "word": "辛芷蕾工作室 有效出图",
-      "onboard_time": 1773050364,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 21173,
@@ -2097,6 +2153,14 @@
       "onboard_time": 1772964319,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9466,
+      "num": 434373,
+      "word": "NBA常规赛",
+      "onboard_time": 1773047362,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
