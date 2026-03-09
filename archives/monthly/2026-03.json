@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773057405974,
+  "endTime": 1773062370947,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -833,6 +833,14 @@
       "onboard_time": 1772676020,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 949721,
+      "num": 656031,
+      "word": "肖战孙俪 郑晓龙的一双儿女",
+      "onboard_time": 1773057022,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 948901,
@@ -2459,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529684,
+      "num": 529684,
+      "word": "教师法",
+      "onboard_time": 1773060081,
+      "rank": 3,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 528723,
       "num": 736100,
       "word": "妇女节",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1772975062,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 522996,
+      "num": 653361,
+      "word": "杨超越 中国有自己的张元英",
+      "onboard_time": 1773056540,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 522023,
@@ -2987,6 +3011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 463270,
+      "num": 463270,
+      "word": "腾讯视频 版本回调",
+      "onboard_time": 1773060861,
+      "rank": 12,
+      "category": "互联网,剧集"
+    },
+    {
       "raw_hot": 462864,
       "num": 282570,
       "word": "宋雨琦被詹姆斯比心",
@@ -3411,6 +3443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 425811,
+      "num": 1068129,
+      "word": "13岁中国小孩哥夺得世界街舞冠军",
+      "onboard_time": 1773058761,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 424677,
       "num": 350858,
       "word": "俄罗斯",
@@ -3465,14 +3505,6 @@
       "onboard_time": 1773040100,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 418850,
-      "num": 656031,
-      "word": "肖战孙俪 郑晓龙的一双儿女",
-      "onboard_time": 1773057022,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 418469,
@@ -4131,6 +4163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 372091,
+      "num": 655621,
+      "word": "白鹿别把白敬亭扇感冒了",
+      "onboard_time": 1773056002,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 371870,
       "num": 403694,
       "word": "一家4口爬山祈福妻子坠亡",
@@ -4321,14 +4361,6 @@
       "onboard_time": 1772433683,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 356726,
-      "num": 655621,
-      "word": "白鹿别把白敬亭扇感冒了",
-      "onboard_time": 1773056002,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 356245,
@@ -4673,6 +4705,14 @@
       "onboard_time": 1772781682,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332215,
+      "num": 331809,
+      "word": "肖战被叫驸马害羞了",
+      "onboard_time": 1773060442,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 331886,
@@ -6363,6 +6403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249678,
+      "num": 330880,
+      "word": "导演说郭晓婷王天辰不要在一起",
+      "onboard_time": 1773061402,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249480,
       "num": 850197,
       "word": "公务员平替岗挤满没上岸的年轻人",
@@ -7763,6 +7811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197829,
+      "num": 330041,
+      "word": "宋亚轩直播",
+      "onboard_time": 1773058583,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197803,
       "num": 120846,
       "word": "逐玉 截不到丑图",
@@ -8025,6 +8081,14 @@
       "onboard_time": 1773021799,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 192993,
+      "num": 330383,
+      "word": "腾讯近期因内容违规被罚",
+      "onboard_time": 1773059422,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 192408,
@@ -9417,6 +9481,14 @@
       "onboard_time": 1772337566,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156796,
+      "num": 647686,
+      "word": "周深1天官宣8场演唱会",
+      "onboard_time": 1773052282,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 156408,
@@ -11603,6 +11675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123549,
+      "num": 652716,
+      "word": "甜茶卖上霉豆腐了",
+      "onboard_time": 1773055822,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123460,
       "num": 371735,
       "word": "iPhone17e首发国补即破价",
@@ -11731,6 +11811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121888,
+      "num": 329092,
+      "word": "油价将上调加油站员工发声",
+      "onboard_time": 1773061702,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121887,
       "num": 249161,
       "word": "落实职工带薪错峰休假制度",
@@ -11745,6 +11833,14 @@
       "onboard_time": 1772868983,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121645,
+      "num": 328800,
+      "word": "高至霆回应耿耿吴柏松he了",
+      "onboard_time": 1773059722,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 121477,
@@ -12683,14 +12779,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 112155,
-      "num": 652716,
-      "word": "甜茶卖上霉豆腐了",
-      "onboard_time": 1773055822,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 112133,
       "num": 112133,
       "word": "第五人格牙医",
@@ -12777,6 +12865,14 @@
       "onboard_time": 1772545830,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111003,
+      "num": 328309,
+      "word": "普京祝贺伊朗新任最高领袖",
+      "onboard_time": 1773058641,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110942,
@@ -12913,14 +13009,6 @@
       "onboard_time": 1772868081,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 109447,
-      "num": 653361,
-      "word": "杨超越 中国有自己的张元英",
-      "onboard_time": 1773056540,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 109410,
@@ -14227,6 +14315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99156,
+      "num": 327978,
+      "word": "品质盛典后台直播",
+      "onboard_time": 1773058463,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99142,
       "num": 99142,
       "word": "情久战胜Hero",
@@ -14297,6 +14393,14 @@
       "onboard_time": 1772607986,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98382,
+      "num": 699137,
+      "word": "建议中小学周边禁设台球厅",
+      "onboard_time": 1773054682,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98376,
@@ -14803,6 +14907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93642,
+      "num": 327417,
+      "word": "广东名医欧阳卫权去世",
+      "onboard_time": 1773058702,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93574,
       "num": 562064,
       "word": "罗意威新设计师",
@@ -15081,14 +15193,6 @@
       "onboard_time": 1772936301,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 92276,
-      "num": 699137,
-      "word": "建议中小学周边禁设台球厅",
-      "onboard_time": 1773054682,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 92180,
@@ -15457,6 +15561,14 @@
       "onboard_time": 1772954900,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89516,
+      "num": 326807,
+      "word": "青岛女子回应十几万黄金藏冰箱冷冻",
+      "onboard_time": 1773058702,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89513,
@@ -16043,6 +16155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85018,
+      "num": 326557,
+      "word": "宁德时代2025年净利润722亿元",
+      "onboard_time": 1773062121,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84981,
       "num": 84981,
       "word": "我国是世界上最安全国家之一",
@@ -16401,6 +16521,14 @@
       "onboard_time": 1772680943,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82240,
+      "num": 326455,
+      "word": "脾堵不堵一个动作自测",
+      "onboard_time": 1773060142,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 82036,
@@ -16897,6 +17025,14 @@
       "onboard_time": 1772715202,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 78571,
+      "num": 649636,
+      "word": "一颗粘在厨房两年的QQ糖",
+      "onboard_time": 1773056962,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 78467,
@@ -17523,14 +17659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74985,
-      "num": 647686,
-      "word": "周深1天官宣8场演唱会",
-      "onboard_time": 1773052282,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 74938,
       "num": 48228,
       "word": "伊朗1吨重弹头导弹打击以色列",
@@ -17787,14 +17915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 72990,
-      "num": 649636,
-      "word": "一颗粘在厨房两年的QQ糖",
-      "onboard_time": 1773056962,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 72976,
       "num": 72976,
       "word": "委员说去机场比坐飞机时间还长",
@@ -17817,6 +17937,14 @@
       "onboard_time": 1772766801,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72939,
+      "num": 678701,
+      "word": "建议鼓励大学生返乡创业",
+      "onboard_time": 1773054440,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72898,
@@ -18121,6 +18249,14 @@
       "onboard_time": 1772618303,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70403,
+      "num": 325300,
+      "word": "王者荣耀打击代练上分",
+      "onboard_time": 1773059962,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 70380,
@@ -18555,6 +18691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67069,
+      "num": 324666,
+      "word": "我上班简直在乱摸鱼",
+      "onboard_time": 1773061582,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66808,
       "num": 373349,
       "word": "家里已经有你这只小猫",
@@ -18841,6 +18985,14 @@
       "onboard_time": 1772948481,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64460,
+      "num": 647146,
+      "word": "被逐玉拼好婿笑死",
+      "onboard_time": 1773057322,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 64425,
@@ -19136,6 +19288,14 @@
       "word": "蒋胜男建议处罚加班严重企业",
       "onboard_time": 1772902340,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 62231,
+      "num": 435097,
+      "word": "日方恣意妄为必将付出代价",
+      "onboard_time": 1773050481,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -19579,14 +19739,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 57518,
-      "num": 678701,
-      "word": "建议鼓励大学生返乡创业",
-      "onboard_time": 1773054440,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 57498,
       "num": 149906,
       "word": "斗罗大陆2动画",
@@ -19609,14 +19761,6 @@
       "onboard_time": 1772520866,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 57110,
-      "num": 647146,
-      "word": "被逐玉拼好婿笑死",
-      "onboard_time": 1773057322,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 56985,
@@ -20035,14 +20179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51479,
-      "num": 435097,
-      "word": "日方恣意妄为必将付出代价",
-      "onboard_time": 1773050481,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 51298,
       "num": 2141971,
       "word": "3月起一批国家标准开始实施",
@@ -20385,6 +20521,14 @@
       "onboard_time": 1772952502,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47672,
+      "num": 524476,
+      "word": "张伯礼说久坐不宜超过1小时",
+      "onboard_time": 1773061402,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47587,
@@ -22379,6 +22523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 22096,
+      "num": 331300,
+      "word": "99年女生读博时转行开全女维修公司",
+      "onboard_time": 1773061883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22033,
       "num": 22217,
       "word": "逐玉 真正的男帅女美",
@@ -22785,6 +22937,14 @@
       "onboard_time": 1772552848,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15190,
+      "num": 330971,
+      "word": "别让加班文化透支消费活力",
+      "onboard_time": 1773062062,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15096,

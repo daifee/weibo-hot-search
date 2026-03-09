@@ -1,0 +1,410 @@
+{
+  "runTime": 1773062370947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 425811,
+        "num": 1068129,
+        "word": "13岁中国小孩哥夺得世界街舞冠军",
+        "onboard_time": 1773058761,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150499,
+        "num": 794050,
+        "word": "农业农村部部长建议大家少吃点油",
+        "onboard_time": 1773045622,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22239,
+        "num": 593626,
+        "word": "人大报告精华版",
+        "onboard_time": 1773043522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 529684,
+        "num": 529684,
+        "word": "教师法",
+        "onboard_time": 1773060081,
+        "rank": 3,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 156796,
+        "num": 528926,
+        "word": "周深1天官宣8场演唱会",
+        "onboard_time": 1773052282,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258877,
+        "num": 528076,
+        "word": "美被迫中止军事行动的可能性上升",
+        "onboard_time": 1773044601,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98382,
+        "num": 527332,
+        "word": "建议中小学周边禁设台球厅",
+        "onboard_time": 1773054682,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89378,
+        "num": 526555,
+        "word": "公司辞退闭眼小憩3分钟员工违法",
+        "onboard_time": 1773051262,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72939,
+        "num": 524924,
+        "word": "建议鼓励大学生返乡创业",
+        "onboard_time": 1773054440,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47672,
+        "num": 524476,
+        "word": "张伯礼说久坐不宜超过1小时",
+        "onboard_time": 1773061402,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 949721,
+        "num": 523076,
+        "word": "肖战孙俪 郑晓龙的一双儿女",
+        "onboard_time": 1773057022,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522996,
+        "num": 522996,
+        "word": "杨超越 中国有自己的张元英",
+        "onboard_time": 1773056540,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463270,
+        "num": 463270,
+        "word": "腾讯视频 版本回调",
+        "onboard_time": 1773060861,
+        "rank": 12,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 437388,
+        "num": 437388,
+        "word": "千万不要在洗澡时做人脸认证",
+        "onboard_time": 1773052102,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 416115,
+        "num": 416115,
+        "word": "重案六组 张一山李沐宸",
+        "onboard_time": 1773050181,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372091,
+        "num": 372091,
+        "word": "白鹿别把白敬亭扇感冒了",
+        "onboard_time": 1773056002,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331951,
+        "num": 331951,
+        "word": "爱玩拼豆的人天塌了",
+        "onboard_time": 1773050601,
+        "rank": 16,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 332215,
+        "num": 331809,
+        "word": "肖战被叫驸马害羞了",
+        "onboard_time": 1773060442,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259246,
+        "num": 331464,
+        "word": "逐玉 杀人者的噩梦竟然是杀猪",
+        "onboard_time": 1773055342,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22096,
+        "num": 331300,
+        "word": "99年女生读博时转行开全女维修公司",
+        "onboard_time": 1773061883,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15190,
+        "num": 330971,
+        "word": "别让加班文化透支消费活力",
+        "onboard_time": 1773062062,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249678,
+        "num": 330880,
+        "word": "导演说郭晓婷王天辰不要在一起",
+        "onboard_time": 1773061402,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234910,
+        "num": 330608,
+        "word": "长玉大人开恩 谢征都杀喽",
+        "onboard_time": 1773047481,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192993,
+        "num": 330383,
+        "word": "腾讯近期因内容违规被罚",
+        "onboard_time": 1773059422,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197829,
+        "num": 330041,
+        "word": "宋亚轩直播",
+        "onboard_time": 1773058583,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186894,
+        "num": 329893,
+        "word": "TVB女主播靠指纹破37年杀人悬案",
+        "onboard_time": 1773052102,
+        "rank": 25,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 144503,
+        "num": 329667,
+        "word": "日本部署远程导弹",
+        "onboard_time": 1773048141,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123549,
+        "num": 329308,
+        "word": "甜茶卖上霉豆腐了",
+        "onboard_time": 1773055822,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121888,
+        "num": 329092,
+        "word": "油价将上调加油站员工发声",
+        "onboard_time": 1773061702,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121645,
+        "num": 328800,
+        "word": "高至霆回应耿耿吴柏松he了",
+        "onboard_time": 1773059722,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112406,
+        "num": 328688,
+        "word": "嘉人镜头冲到王一博怀里了",
+        "onboard_time": 1773054203,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111003,
+        "num": 328309,
+        "word": "普京祝贺伊朗新任最高领袖",
+        "onboard_time": 1773058641,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111343,
+        "num": 328262,
+        "word": "逐玉弹幕 恶语伤牛心",
+        "onboard_time": 1773040761,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99156,
+        "num": 327978,
+        "word": "品质盛典后台直播",
+        "onboard_time": 1773058463,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93968,
+        "num": 327677,
+        "word": "妈妈在被子上缝了一道线",
+        "onboard_time": 1773046222,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93642,
+        "num": 327417,
+        "word": "广东名医欧阳卫权去世",
+        "onboard_time": 1773058702,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91324,
+        "num": 327165,
+        "word": "镖人 全女版",
+        "onboard_time": 1773049221,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89516,
+        "num": 326807,
+        "word": "青岛女子回应十几万黄金藏冰箱冷冻",
+        "onboard_time": 1773058702,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85018,
+        "num": 326557,
+        "word": "宁德时代2025年净利润722亿元",
+        "onboard_time": 1773062121,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82240,
+        "num": 326455,
+        "word": "脾堵不堵一个动作自测",
+        "onboard_time": 1773060142,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80534,
+        "num": 326174,
+        "word": "中国女足2比1朝鲜女足",
+        "onboard_time": 1773054561,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78571,
+        "num": 325820,
+        "word": "一颗粘在厨房两年的QQ糖",
+        "onboard_time": 1773056962,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75486,
+        "num": 325701,
+        "word": "男子送女友刮刮乐花束刮出80万",
+        "onboard_time": 1773053421,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70831,
+        "num": 325369,
+        "word": "48岁中国女博导在埃及突然去世",
+        "onboard_time": 1773042321,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70403,
+        "num": 325300,
+        "word": "王者荣耀打击代练上分",
+        "onboard_time": 1773059962,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67845,
+        "num": 324867,
+        "word": "美议员称推翻伊朗美国将在中东大赚",
+        "onboard_time": 1773052881,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67069,
+        "num": 324666,
+        "word": "我上班简直在乱摸鱼",
+        "onboard_time": 1773061582,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64460,
+        "num": 324549,
+        "word": "被逐玉拼好婿笑死",
+        "onboard_time": 1773057322,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23831,
+        "num": 324123,
+        "word": "中国女足小组第1",
+        "onboard_time": 1773056180,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62231,
+        "num": 324041,
+        "word": "日方恣意妄为必将付出代价",
+        "onboard_time": 1773050481,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记同代表委员话民生#"
+    }
+  }
+}

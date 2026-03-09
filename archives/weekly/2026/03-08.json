@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773057405974,
+  "endTime": 1773062370947,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -65,6 +65,14 @@
       "onboard_time": 1772970560,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 949721,
+      "num": 656031,
+      "word": "肖战孙俪 郑晓龙的一双儿女",
+      "onboard_time": 1773057022,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 939571,
@@ -259,6 +267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 529684,
+      "num": 529684,
+      "word": "教师法",
+      "onboard_time": 1773060081,
+      "rank": 3,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 528723,
       "num": 736100,
       "word": "妇女节",
@@ -273,6 +289,14 @@
       "onboard_time": 1772975062,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 522996,
+      "num": 653361,
+      "word": "杨超越 中国有自己的张元英",
+      "onboard_time": 1773056540,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 516606,
@@ -347,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 463270,
+      "num": 463270,
+      "word": "腾讯视频 版本回调",
+      "onboard_time": 1773060861,
+      "rank": 12,
+      "category": "互联网,剧集"
+    },
+    {
       "raw_hot": 462507,
       "num": 276410,
       "word": "伊朗最高权力平稳过渡",
@@ -419,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 425811,
+      "num": 1068129,
+      "word": "13岁中国小孩哥夺得世界街舞冠军",
+      "onboard_time": 1773058761,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422632,
       "num": 204606,
       "word": "金价上涨金条卖爆了",
@@ -433,14 +473,6 @@
       "onboard_time": 1773040100,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 418850,
-      "num": 656031,
-      "word": "肖战孙俪 郑晓龙的一双儿女",
-      "onboard_time": 1773057022,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 414200,
@@ -515,6 +547,14 @@
       "category": "艺人,国内时政"
     },
     {
+      "raw_hot": 372091,
+      "num": 655621,
+      "word": "白鹿别把白敬亭扇感冒了",
+      "onboard_time": 1773056002,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370415,
       "num": 521184,
       "word": "伊朗导弹突防能力拉满",
@@ -539,14 +579,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 356726,
-      "num": 655621,
-      "word": "白鹿别把白敬亭扇感冒了",
-      "onboard_time": 1773056002,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 340887,
       "num": 306951,
       "word": "27岁女子挤痘痘后确诊2型糖尿病",
@@ -569,6 +601,14 @@
       "onboard_time": 1773030864,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332215,
+      "num": 331809,
+      "word": "肖战被叫驸马害羞了",
+      "onboard_time": 1773060442,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 326613,
@@ -955,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249678,
+      "num": 330880,
+      "word": "导演说郭晓婷王天辰不要在一起",
+      "onboard_time": 1773061402,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245970,
       "num": 519381,
       "word": "时代少年团广州演唱会",
@@ -1291,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197829,
+      "num": 330041,
+      "word": "宋亚轩直播",
+      "onboard_time": 1773058583,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196777,
       "num": 187598,
       "word": "伊朗发起第28波攻势",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1773021799,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 192993,
+      "num": 330383,
+      "word": "腾讯近期因内容违规被罚",
+      "onboard_time": 1773059422,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 191612,
@@ -1593,6 +1657,14 @@
       "onboard_time": 1772983281,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156796,
+      "num": 647686,
+      "word": "周深1天官宣8场演唱会",
+      "onboard_time": 1773052282,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 156642,
@@ -1995,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123549,
+      "num": 652716,
+      "word": "甜茶卖上霉豆腐了",
+      "onboard_time": 1773055822,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123373,
       "num": 432260,
       "word": "王毅谈伊朗局势",
@@ -2009,6 +2089,22 @@
       "onboard_time": 1773051262,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121888,
+      "num": 329092,
+      "word": "油价将上调加油站员工发声",
+      "onboard_time": 1773061702,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121645,
+      "num": 328800,
+      "word": "高至霆回应耿耿吴柏松he了",
+      "onboard_time": 1773059722,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 121346,
@@ -2147,12 +2243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112155,
-      "num": 652716,
-      "word": "甜茶卖上霉豆腐了",
-      "onboard_time": 1773055822,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 111003,
+      "num": 328309,
+      "word": "普京祝贺伊朗新任最高领袖",
+      "onboard_time": 1773058641,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110334,
@@ -2177,14 +2273,6 @@
       "onboard_time": 1773041721,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109447,
-      "num": 653361,
-      "word": "杨超越 中国有自己的张元英",
-      "onboard_time": 1773056540,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 108310,
@@ -2427,12 +2515,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99156,
+      "num": 327978,
+      "word": "品质盛典后台直播",
+      "onboard_time": 1773058463,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99142,
       "num": 99142,
       "word": "情久战胜Hero",
       "onboard_time": 1772959161,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98382,
+      "num": 699137,
+      "word": "建议中小学周边禁设台球厅",
+      "onboard_time": 1773054682,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98121,
@@ -2587,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93642,
+      "num": 327417,
+      "word": "广东名医欧阳卫权去世",
+      "onboard_time": 1773058702,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93491,
       "num": 422370,
       "word": "檀健次尖叫之夜后台原声掉落",
@@ -2625,14 +2737,6 @@
       "onboard_time": 1772936301,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 92276,
-      "num": 699137,
-      "word": "建议中小学周边禁设台球厅",
-      "onboard_time": 1773054682,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 92180,
@@ -2713,6 +2817,14 @@
       "onboard_time": 1772975781,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89516,
+      "num": 326807,
+      "word": "青岛女子回应十几万黄金藏冰箱冷冻",
+      "onboard_time": 1773058702,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89270,
@@ -2899,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85018,
+      "num": 326557,
+      "word": "宁德时代2025年净利润722亿元",
+      "onboard_time": 1773062121,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84981,
       "num": 84981,
       "word": "我国是世界上最安全国家之一",
@@ -2977,6 +3097,14 @@
       "onboard_time": 1772979743,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82240,
+      "num": 326455,
+      "word": "脾堵不堵一个动作自测",
+      "onboard_time": 1773060142,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 81279,
@@ -3105,6 +3233,14 @@
       "onboard_time": 1772978182,
       "rank": 47,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 78571,
+      "num": 649636,
+      "word": "一颗粘在厨房两年的QQ糖",
+      "onboard_time": 1773056962,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 78356,
@@ -3299,14 +3435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74985,
-      "num": 647686,
-      "word": "周深1天官宣8场演唱会",
-      "onboard_time": 1773052282,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 74592,
       "num": 76163,
       "word": "伊朗指责美以实施化学战",
@@ -3363,20 +3491,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 72990,
-      "num": 649636,
-      "word": "一颗粘在厨房两年的QQ糖",
-      "onboard_time": 1773056962,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 72965,
       "num": 98117,
       "word": "油价创数十年来最大单周涨幅",
       "onboard_time": 1772962580,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 72939,
+      "num": 678701,
+      "word": "建议鼓励大学生返乡创业",
+      "onboard_time": 1773054440,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72798,
@@ -3489,6 +3617,14 @@
       "onboard_time": 1772958921,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70403,
+      "num": 325300,
+      "word": "王者荣耀打击代练上分",
+      "onboard_time": 1773059962,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 70280,
@@ -3643,6 +3779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67069,
+      "num": 324666,
+      "word": "我上班简直在乱摸鱼",
+      "onboard_time": 1773061582,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66808,
       "num": 373349,
       "word": "家里已经有你这只小猫",
@@ -3729,6 +3873,14 @@
       "onboard_time": 1772948481,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64460,
+      "num": 647146,
+      "word": "被逐玉拼好婿笑死",
+      "onboard_time": 1773057322,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 64425,
@@ -3856,6 +4008,14 @@
       "word": "蒋胜男建议处罚加班严重企业",
       "onboard_time": 1772902340,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 62231,
+      "num": 435097,
+      "word": "日方恣意妄为必将付出代价",
+      "onboard_time": 1773050481,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -4027,22 +4187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 57518,
-      "num": 678701,
-      "word": "建议鼓励大学生返乡创业",
-      "onboard_time": 1773054440,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 57110,
-      "num": 647146,
-      "word": "被逐玉拼好婿笑死",
-      "onboard_time": 1773057322,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 56985,
       "num": 157765,
       "word": "两大芯片巨头为何带崩韩国股市",
@@ -4177,14 +4321,6 @@
       "onboard_time": 1772967081,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51479,
-      "num": 435097,
-      "word": "日方恣意妄为必将付出代价",
-      "onboard_time": 1773050481,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 51367,
@@ -4337,6 +4473,14 @@
       "onboard_time": 1772884582,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47672,
+      "num": 524476,
+      "word": "张伯礼说久坐不宜超过1小时",
+      "onboard_time": 1773061402,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47499,
@@ -4939,6 +5083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22096,
+      "num": 331300,
+      "word": "99年女生读博时转行开全女维修公司",
+      "onboard_time": 1773061883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21173,
       "num": 427645,
       "word": "最高法点名工作8小时闭眼3分钟被辞",
@@ -5015,6 +5167,14 @@
       "num": 126686,
       "word": "一五到十五五重大工程",
       "onboard_time": 1772939482,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15190,
+      "num": 330971,
+      "word": "别让加班文化透支消费活力",
+      "onboard_time": 1773062062,
       "rank": 20,
       "category": "国内时政"
     },
