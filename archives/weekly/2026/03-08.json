@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773024257996,
+  "endTime": 1773026477737,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 717449,
+      "num": 725513,
+      "word": "今年修改教师法",
+      "onboard_time": 1773021081,
+      "rank": 3,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 705439,
       "num": 705439,
       "word": "JDG战胜狼队",
@@ -123,6 +131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 670013,
+      "num": 311266,
+      "word": "伊朗确认军舰遭美军击沉致104人死亡",
+      "onboard_time": 1773017180,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 654365,
       "num": 251797,
       "word": "美袭击伊朗海水淡化厂",
@@ -147,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 641143,
-      "num": 311266,
-      "word": "伊朗确认军舰遭美军击沉致104人死亡",
-      "onboard_time": 1773017180,
-      "rank": 10,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 610632,
       "num": 710514,
       "word": "建议将8小时工作制缩短为7小时",
@@ -163,20 +171,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 601070,
+      "num": 601070,
+      "word": "胖东来超8成员工拒绝降薪增假",
+      "onboard_time": 1773024320,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 566413,
       "num": 566413,
       "word": "武大食堂4元熬夜水日销百斤",
       "onboard_time": 1772974761,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 543263,
-      "num": 543263,
-      "word": "今年修改教师法",
-      "onboard_time": 1773021081,
-      "rank": 3,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 528723,
@@ -289,6 +297,14 @@
       "onboard_time": 1772981181,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 422632,
+      "num": 204606,
+      "word": "金价上涨金条卖爆了",
+      "onboard_time": 1773026421,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 414200,
@@ -499,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293409,
+      "num": 293409,
+      "word": "周杰伦温州",
+      "onboard_time": 1773025341,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 292365,
       "num": 739990,
       "word": "谭松韵演技",
@@ -641,6 +665,14 @@
       "onboard_time": 1772942961,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243463,
+      "num": 190955,
+      "word": "秀智晒与王安宇孙千晚宴合照",
+      "onboard_time": 1773025641,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 242592,
@@ -787,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209514,
+      "num": 190815,
+      "word": "伊朗导弹突防能力拉满",
+      "onboard_time": 1773025281,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 208032,
       "num": 208032,
       "word": "全泰国最虔诚的鸭子",
@@ -800,6 +840,14 @@
       "word": "外交部长王毅答记者问",
       "onboard_time": 1772934981,
       "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 201779,
+      "num": 327475,
+      "word": "治理高额彩礼写进最高法报告",
+      "onboard_time": 1773023480,
+      "rank": 7,
       "category": "国内时政"
     },
     {
@@ -843,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 193068,
+      "num": 314840,
+      "word": "最高法最高检工作报告",
+      "onboard_time": 1773021799,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191111,
       "num": 191111,
       "word": "iPhone17国内最新销量",
@@ -851,8 +907,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 190072,
-      "num": 190072,
+      "raw_hot": 190276,
+      "num": 190276,
       "word": "4种无效早睡没比熬夜强多少",
       "onboard_time": 1773022101,
       "rank": 24,
@@ -865,6 +921,14 @@
       "onboard_time": 1772963061,
       "rank": 30,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 187918,
+      "num": 118220,
+      "word": "李延贺煽动分裂国家破坏国家统一",
+      "onboard_time": 1773025460,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179419,
@@ -905,6 +969,14 @@
       "onboard_time": 1772937801,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 171067,
+      "num": 171067,
+      "word": "4岁女儿被诊断为男孩需选性别做手术",
+      "onboard_time": 1773023840,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168757,
@@ -1051,6 +1123,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 146268,
+      "num": 192876,
+      "word": "张凌赫人生镜头",
+      "onboard_time": 1773025520,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145635,
       "num": 145635,
       "word": "外国游客到中国根本买不够",
@@ -1129,14 +1209,6 @@
       "onboard_time": 1772948420,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137837,
-      "num": 314840,
-      "word": "最高法最高检工作报告",
-      "onboard_time": 1773021799,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 136222,
@@ -1347,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115511,
-      "num": 115511,
-      "word": "4岁女儿被诊断为男孩需选性别做手术",
-      "onboard_time": 1773023840,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114517,
       "num": 58918,
       "word": "多架美军轰炸机飞抵英国基地",
@@ -1379,12 +1443,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113667,
+      "num": 113667,
+      "word": "美军最活跃进攻基地遭重创",
+      "onboard_time": 1773023480,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 113489,
       "num": 113489,
       "word": "Lacoste大秀",
       "onboard_time": 1772971882,
       "rank": 33,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 113031,
+      "num": 113031,
+      "word": "iPhoneUltra起售价或超万元",
+      "onboard_time": 1773021381,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 110334,
@@ -1417,14 +1497,6 @@
       "onboard_time": 1772981662,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106361,
-      "num": 106361,
-      "word": "美军最活跃进攻基地遭重创",
-      "onboard_time": 1773023480,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 105983,
@@ -1505,14 +1577,6 @@
       "onboard_time": 1772893163,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 101570,
-      "num": 101570,
-      "word": "iPhoneUltra起售价或超万元",
-      "onboard_time": 1773021381,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 100833,
@@ -1673,6 +1737,14 @@
       "onboard_time": 1772939062,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 94211,
+      "num": 94211,
+      "word": "这课上的心脏挖出来还能跳三天",
+      "onboard_time": 1773025641,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 93306,
@@ -1851,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84981,
+      "num": 84981,
+      "word": "我国是世界上最安全国家之一",
+      "onboard_time": 1773024500,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84693,
       "num": 144899,
       "word": "比亚迪回应闪充是否影响电池寿命",
@@ -1915,6 +1995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81279,
+      "num": 81279,
+      "word": "缅北四大家族16名主犯死刑立即执行",
+      "onboard_time": 1773025100,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81023,
       "num": 87393,
       "word": "网传侯明昊陈意涵主演攻玉",
@@ -1961,6 +2049,14 @@
       "onboard_time": 1772928439,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79270,
+      "num": 79270,
+      "word": "大自然给小猫做了个大玩具",
+      "onboard_time": 1773025401,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 79166,
@@ -2139,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74592,
+      "num": 76163,
+      "word": "伊朗指责美以实施化学战",
+      "onboard_time": 1773023840,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74240,
       "num": 407318,
       "word": "59瓶汇源果汁起拍价109元",
@@ -2169,6 +2273,22 @@
       "onboard_time": 1772952319,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73587,
+      "num": 73587,
+      "word": "KPL春季赛",
+      "onboard_time": 1773025881,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 73295,
+      "num": 207628,
+      "word": "慢病人群更需警惕带状疱疹",
+      "onboard_time": 1773023480,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 72965,
@@ -2411,14 +2531,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 65562,
-      "num": 76163,
-      "word": "伊朗指责美以实施化学战",
-      "onboard_time": 1773023840,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65284,
       "num": 65284,
       "word": "A股化工板块大涨",
@@ -2433,6 +2545,14 @@
       "onboard_time": 1772952261,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65000,
+      "num": 65000,
+      "word": "MacBookNeo未开卖就破发",
+      "onboard_time": 1773025881,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 64617,
@@ -2483,6 +2603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63868,
+      "num": 76159,
+      "word": "徐志胜回应黄子韬徐艺洋吵架",
+      "onboard_time": 1773020780,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63805,
       "num": 87389,
       "word": "中美可以改变相处方式",
@@ -2505,14 +2633,6 @@
       "onboard_time": 1772894123,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 63285,
-      "num": 76159,
-      "word": "徐志胜回应黄子韬徐艺洋吵架",
-      "onboard_time": 1773020780,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 63185,
@@ -2619,14 +2739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60372,
-      "num": 327475,
-      "word": "治理高额彩礼写进最高法报告",
-      "onboard_time": 1773023480,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 60295,
       "num": 739522,
       "word": "伊朗驻埃及大使说不会再相信美国",
@@ -2659,6 +2771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59149,
+      "num": 59149,
+      "word": "蒋敦豪到底吃了多少过期食品",
+      "onboard_time": 1773026241,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58908,
       "num": 387946,
       "word": "未来5年这些民生举措事关你我",
@@ -2673,6 +2793,14 @@
       "onboard_time": 1772964919,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58626,
+      "num": 58626,
+      "word": "维护女职工合法权益",
+      "onboard_time": 1773026362,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58121,
@@ -2777,6 +2905,14 @@
       "onboard_time": 1772953400,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 53977,
+      "num": 1008636,
+      "word": "第2场部长通道",
+      "onboard_time": 1773017180,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53576,
@@ -3019,14 +3155,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 44087,
-      "num": 207628,
-      "word": "慢病人群更需警惕带状疱疹",
-      "onboard_time": 1773023480,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 43638,
       "num": 389033,
       "word": "中国绝不走国强必霸的老路",
@@ -3105,6 +3233,14 @@
       "onboard_time": 1772985921,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 40606,
+      "num": 202188,
+      "word": "支持农民工讨薪诉讼2.8万件",
+      "onboard_time": 1773025220,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39939,
@@ -3440,6 +3576,14 @@
       "word": "AI时代每人都有份专属课表",
       "onboard_time": 1772925077,
       "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23286,
+      "num": 192311,
+      "word": "建议将不得强迫游客购物写进旅游法",
+      "onboard_time": 1773025941,
+      "rank": 19,
       "category": "国内时政"
     },
     {

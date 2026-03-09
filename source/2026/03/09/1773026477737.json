@@ -1,0 +1,410 @@
+{
+  "runTime": 1773026477737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 53977,
+        "num": 1008636,
+        "word": "第2场部长通道",
+        "onboard_time": 1773017180,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 717449,
+        "num": 725513,
+        "word": "今年修改教师法",
+        "onboard_time": 1773021081,
+        "rank": 1,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 30835,
+        "num": 609788,
+        "word": "从海底1万米到距地球4300万公里",
+        "onboard_time": 1772976380,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 601070,
+        "num": 601070,
+        "word": "胖东来超8成员工拒绝降薪增假",
+        "onboard_time": 1773024320,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568437,
+        "num": 568437,
+        "word": "建议将8小时工作制缩短为7小时",
+        "onboard_time": 1773020660,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 293409,
+        "num": 293409,
+        "word": "周杰伦温州",
+        "onboard_time": 1773025341,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268226,
+        "num": 268226,
+        "word": "哈梅内伊之子接任最高领袖",
+        "onboard_time": 1773012439,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209186,
+        "num": 209186,
+        "word": "中传砍掉翻译摄影等16个专业",
+        "onboard_time": 1773012318,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24583,
+        "num": 208938,
+        "word": "中国式现代化圈粉全球",
+        "onboard_time": 1772976380,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162333,
+        "num": 207602,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1773022340,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 670013,
+        "num": 206620,
+        "word": "伊朗确认军舰遭美军击沉致104人死亡",
+        "onboard_time": 1773017180,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 422632,
+        "num": 204606,
+        "word": "金价上涨金条卖爆了",
+        "onboard_time": 1773026421,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 279141,
+        "num": 204108,
+        "word": "985父母的清醒反思",
+        "onboard_time": 1773020903,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40606,
+        "num": 202188,
+        "word": "支持农民工讨薪诉讼2.8万件",
+        "onboard_time": 1773025220,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201779,
+        "num": 201779,
+        "word": "治理高额彩礼写进最高法报告",
+        "onboard_time": 1773023480,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201546,
+        "num": 201546,
+        "word": "逐玉",
+        "onboard_time": 1773013880,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193068,
+        "num": 193068,
+        "word": "最高法最高检工作报告",
+        "onboard_time": 1773021799,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146268,
+        "num": 192876,
+        "word": "张凌赫人生镜头",
+        "onboard_time": 1773025520,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73295,
+        "num": 192634,
+        "word": "慢病人群更需警惕带状疱疹",
+        "onboard_time": 1773023480,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23286,
+        "num": 192311,
+        "word": "建议将不得强迫游客购物写进旅游法",
+        "onboard_time": 1773025941,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 652834,
+        "num": 192089,
+        "word": "逐玉因平台缺爆款被迫爆",
+        "onboard_time": 1773013280,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102596,
+        "num": 191849,
+        "word": "地狱级饮食后身体的变化",
+        "onboard_time": 1773014661,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 472905,
+        "num": 191544,
+        "word": "狂飙",
+        "onboard_time": 1772981482,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320769,
+        "num": 191151,
+        "word": "女子称自己有190斤只因脸小没人信",
+        "onboard_time": 1773022281,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243463,
+        "num": 190955,
+        "word": "秀智晒与王安宇孙千晚宴合照",
+        "onboard_time": 1773025641,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209514,
+        "num": 190815,
+        "word": "伊朗导弹突防能力拉满",
+        "onboard_time": 1773025281,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200825,
+        "num": 190360,
+        "word": "岳雨婷口碑反转",
+        "onboard_time": 1773021441,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190276,
+        "num": 190276,
+        "word": "4种无效早睡没比熬夜强多少",
+        "onboard_time": 1773022101,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171067,
+        "num": 171067,
+        "word": "4岁女儿被诊断为男孩需选性别做手术",
+        "onboard_time": 1773023840,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119773,
+        "num": 119773,
+        "word": "孔雪儿 真天使投资人",
+        "onboard_time": 1773014181,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187918,
+        "num": 118220,
+        "word": "李延贺煽动分裂国家破坏国家统一",
+        "onboard_time": 1773025460,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113667,
+        "num": 113667,
+        "word": "美军最活跃进攻基地遭重创",
+        "onboard_time": 1773023480,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113031,
+        "num": 113031,
+        "word": "iPhoneUltra起售价或超万元",
+        "onboard_time": 1773021381,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108785,
+        "num": 108785,
+        "word": "五角大楼承认伊无人机破坏力超预期",
+        "onboard_time": 1773016101,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104994,
+        "num": 104994,
+        "word": "逐玉 出圈梗",
+        "onboard_time": 1772979201,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94211,
+        "num": 94211,
+        "word": "这课上的心脏挖出来还能跳三天",
+        "onboard_time": 1773025641,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92649,
+        "num": 92649,
+        "word": "多家黄金品牌宣布调价",
+        "onboard_time": 1772984060,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84981,
+        "num": 84981,
+        "word": "我国是世界上最安全国家之一",
+        "onboard_time": 1773024500,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83871,
+        "num": 83871,
+        "word": "王鹤棣孟子义将门独后首个同框路透",
+        "onboard_time": 1773014842,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81279,
+        "num": 81279,
+        "word": "缅北四大家族16名主犯死刑立即执行",
+        "onboard_time": 1773025100,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79270,
+        "num": 79270,
+        "word": "大自然给小猫做了个大玩具",
+        "onboard_time": 1773025401,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77745,
+        "num": 77745,
+        "word": "父亲回应9岁女孩埃及霸气维权",
+        "onboard_time": 1773020721,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75378,
+        "num": 75378,
+        "word": "伊朗总统说新任最高领袖开启新时代",
+        "onboard_time": 1773024140,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73587,
+        "num": 73587,
+        "word": "KPL春季赛",
+        "onboard_time": 1773025881,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74592,
+        "num": 72829,
+        "word": "伊朗指责美以实施化学战",
+        "onboard_time": 1773023840,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68719,
+        "num": 68719,
+        "word": "27岁女子挤痘痘后确诊2型糖尿病",
+        "onboard_time": 1772975302,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65000,
+        "num": 65000,
+        "word": "MacBookNeo未开卖就破发",
+        "onboard_time": 1773025881,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63868,
+        "num": 63868,
+        "word": "徐志胜回应黄子韬徐艺洋吵架",
+        "onboard_time": 1773020780,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59149,
+        "num": 59149,
+        "word": "蒋敦豪到底吃了多少过期食品",
+        "onboard_time": 1773026241,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58626,
+        "num": 58626,
+        "word": "维护女职工合法权益",
+        "onboard_time": 1773026362,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记两会下团组#"
+    }
+  }
+}
