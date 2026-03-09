@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773026477737,
+  "endTime": 1773032385829,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -75,6 +75,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 753608,
+      "num": 601070,
+      "word": "胖东来超8成员工拒绝降薪增假",
+      "onboard_time": 1773024320,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 729032,
+      "num": 1116645,
+      "word": "李延贺煽动分裂国家破坏国家统一",
+      "onboard_time": 1773025460,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 717449,
       "num": 725513,
       "word": "今年修改教师法",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 670013,
-      "num": 311266,
+      "num": 333526,
       "word": "伊朗确认军舰遭美军击沉致104人死亡",
       "onboard_time": 1773017180,
       "rank": 10,
@@ -164,19 +180,19 @@
     },
     {
       "raw_hot": 610632,
-      "num": 710514,
+      "num": 806826,
       "word": "建议将8小时工作制缩短为7小时",
       "onboard_time": 1773020660,
       "rank": 1,
       "category": "国内时政"
     },
     {
-      "raw_hot": 601070,
-      "num": 601070,
-      "word": "胖东来超8成员工拒绝降薪增假",
-      "onboard_time": 1773024320,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 603845,
+      "num": 147743,
+      "word": "孙千发了和王安宇合照",
+      "onboard_time": 1773030083,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 566413,
@@ -257,6 +273,14 @@
       "onboard_time": 1772961261,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 468830,
+      "num": 468830,
+      "word": "怪不得古代能一眼认出刺客",
+      "onboard_time": 1773026842,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 462507,
@@ -361,6 +385,14 @@
       "onboard_time": 1772946381,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366856,
+      "num": 366856,
+      "word": "伊朗导弹突防能力拉满",
+      "onboard_time": 1773025281,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 363267,
@@ -507,6 +539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 296410,
+      "num": 296410,
+      "word": "张凌赫人生镜头",
+      "onboard_time": 1773025520,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294574,
       "num": 531027,
       "word": "人脸验证时千万记得穿衣服",
@@ -547,12 +587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286867,
+      "num": 286867,
+      "word": "乳腺癌女子从腹部借回一对新乳房",
+      "onboard_time": 1773028640,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284209,
       "num": 740279,
       "word": "田曦薇跳高好有力量美",
       "onboard_time": 1772898021,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282734,
+      "num": 190955,
+      "word": "秀智晒与王安宇孙千晚宴合照",
+      "onboard_time": 1773025641,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 282481,
@@ -611,12 +667,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256622,
+      "num": 256622,
+      "word": "五字概括逐玉剧情",
+      "onboard_time": 1773027320,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255557,
       "num": 255557,
       "word": "AI写作48小时生成500万字长篇小说",
       "onboard_time": 1772929457,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 253984,
+      "num": 477846,
+      "word": "建议处罚加班严重企业",
+      "onboard_time": 1773028943,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 250520,
@@ -665,14 +737,6 @@
       "onboard_time": 1772942961,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243463,
-      "num": 190955,
-      "word": "秀智晒与王安宇孙千晚宴合照",
-      "onboard_time": 1773025641,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 242592,
@@ -729,6 +793,14 @@
       "onboard_time": 1772988560,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 234940,
+      "num": 234940,
+      "word": "苹果新品发布会",
+      "onboard_time": 1773027681,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 233597,
@@ -803,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217692,
+      "num": 139948,
+      "word": "卢昱晓 大花气质",
+      "onboard_time": 1773028761,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216036,
       "num": 373375,
       "word": "女子糖尿病不忌口8年变尿毒症",
@@ -819,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209514,
-      "num": 190815,
-      "word": "伊朗导弹突防能力拉满",
-      "onboard_time": 1773025281,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 208032,
       "num": 208032,
       "word": "全泰国最虔诚的鸭子",
@@ -841,6 +913,14 @@
       "onboard_time": 1772934981,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 204750,
+      "num": 360557,
+      "word": "黄晓明范丞丞认识十几年了",
+      "onboard_time": 1773030803,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 201779,
@@ -865,6 +945,14 @@
       "onboard_time": 1772973321,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 195938,
+      "num": 129554,
+      "word": "这不是弃养这是托孤",
+      "onboard_time": 1773031402,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 194694,
@@ -892,7 +980,7 @@
     },
     {
       "raw_hot": 193068,
-      "num": 314840,
+      "num": 356085,
       "word": "最高法最高检工作报告",
       "onboard_time": 1773021799,
       "rank": 9,
@@ -923,12 +1011,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 187918,
-      "num": 118220,
-      "word": "李延贺煽动分裂国家破坏国家统一",
-      "onboard_time": 1773025460,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 186730,
+      "num": 134130,
+      "word": "蕾哈娜豪宅遭枪击",
+      "onboard_time": 1773027742,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 179419,
@@ -1003,6 +1091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 166234,
+      "num": 347184,
+      "word": "明星化妆师的权威我后知后觉",
+      "onboard_time": 1773030803,
+      "rank": 9,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 164706,
       "num": 164706,
       "word": "孔雪儿 真天使投资人",
@@ -1033,6 +1129,14 @@
       "onboard_time": 1772953400,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158554,
+      "num": 129588,
+      "word": "电视剧品质盛典",
+      "onboard_time": 1773027502,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 158477,
@@ -1091,6 +1195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151094,
+      "num": 151094,
+      "word": "这课上的心脏挖出来还能跳三天",
+      "onboard_time": 1773025641,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148544,
       "num": 231565,
       "word": "年轻人为何排队疯抢AI龙虾",
@@ -1121,14 +1233,6 @@
       "onboard_time": 1772979862,
       "rank": 9,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 146268,
-      "num": 192876,
-      "word": "张凌赫人生镜头",
-      "onboard_time": 1773025520,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 145635,
@@ -1219,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134806,
+      "num": 134806,
+      "word": "第五人格",
+      "onboard_time": 1773031883,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132863,
       "num": 740620,
       "word": "霍启刚回应香港无冰雪发展冰雪经济",
@@ -1249,6 +1361,14 @@
       "onboard_time": 1772946321,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132130,
+      "num": 132130,
+      "word": "双休保底2.5天激励梯度制度",
+      "onboard_time": 1773028042,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129924,
@@ -1305,6 +1425,14 @@
       "onboard_time": 1772926878,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 126748,
+      "num": 126748,
+      "word": "小哥AI换脸Kpop歌手一夜爆红",
+      "onboard_time": 1773030864,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126469,
@@ -1467,12 +1595,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 112536,
+      "num": 112536,
+      "word": "大侦探",
+      "onboard_time": 1773030803,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110334,
       "num": 162162,
       "word": "国际劳动妇女节",
       "onboard_time": 1772976862,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110158,
+      "num": 110158,
+      "word": "汪苏泷第12张创作专辑",
+      "onboard_time": 1773030922,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 107606,
@@ -1497,6 +1641,14 @@
       "onboard_time": 1772981662,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106631,
+      "num": 1008636,
+      "word": "第2场部长通道",
+      "onboard_time": 1773017180,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105983,
@@ -1539,6 +1691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104268,
+      "num": 95684,
+      "word": "汪苏泷换头像",
+      "onboard_time": 1773030864,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104226,
       "num": 373365,
       "word": "DYG对战KSG",
@@ -1553,6 +1713,14 @@
       "onboard_time": 1773014842,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103657,
+      "num": 103657,
+      "word": "法官说婚姻自由也包括离婚自由",
+      "onboard_time": 1773029004,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103622,
@@ -1601,6 +1769,14 @@
       "onboard_time": 1773011417,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99919,
+      "num": 99919,
+      "word": "杭州初二男生贴助长贴一年长高11厘米",
+      "onboard_time": 1773032003,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99415,
@@ -1657,6 +1833,14 @@
       "onboard_time": 1772895923,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97055,
+      "num": 97055,
+      "word": "蒋敦豪到底吃了多少过期食品",
+      "onboard_time": 1773026241,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 96798,
@@ -1739,12 +1923,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 94211,
-      "num": 94211,
-      "word": "这课上的心脏挖出来还能跳三天",
-      "onboard_time": 1773025641,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 94104,
+      "num": 94104,
+      "word": "王橹杰又在诡异的笑",
+      "onboard_time": 1773031043,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 93306,
@@ -1859,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88588,
+      "num": 88588,
+      "word": "郭晓婷王天辰合体首封",
+      "onboard_time": 1773026542,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 88389,
       "num": 101821,
       "word": "DeepSeek建议普通用户养虾前先观望",
@@ -1875,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87744,
+      "num": 94609,
+      "word": "一诺无偿给JDG复盘教学",
+      "onboard_time": 1773030741,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87551,
       "num": 87551,
       "word": "张凌赫谢征外甥随舅舅",
@@ -1889,6 +2089,14 @@
       "onboard_time": 1772954120,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86440,
+      "num": 86440,
+      "word": "中国人的饮食习惯会造成老年人肌少症",
+      "onboard_time": 1773031642,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 86372,
@@ -1923,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85677,
+      "num": 85677,
+      "word": "小狗在街上认出妈妈时的反应",
+      "onboard_time": 1773032242,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84981,
       "num": 84981,
       "word": "我国是世界上最安全国家之一",
@@ -1937,6 +2153,14 @@
       "onboard_time": 1772955800,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 84579,
+      "num": 84579,
+      "word": "原来春天更容易被晒黑",
+      "onboard_time": 1773032362,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 84397,
@@ -2009,6 +2233,14 @@
       "onboard_time": 1772937560,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80661,
+      "num": 80661,
+      "word": "周冬雨被路人夸好美的反应",
+      "onboard_time": 1773032003,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 80190,
@@ -2771,14 +3003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 59149,
-      "num": 59149,
-      "word": "蒋敦豪到底吃了多少过期食品",
-      "onboard_time": 1773026241,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 58908,
       "num": 387946,
       "word": "未来5年这些民生举措事关你我",
@@ -2905,14 +3129,6 @@
       "onboard_time": 1772953400,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 53977,
-      "num": 1008636,
-      "word": "第2场部长通道",
-      "onboard_time": 1773017180,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 53576,
@@ -3139,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44985,
+      "num": 659085,
+      "word": "从基层一线走进人民殿堂",
+      "onboard_time": 1773030323,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44403,
       "num": 85125,
       "word": "你好星期六 逐玉",
@@ -3200,6 +3424,14 @@
       "word": "十四届全国人大四次会议二次全体会议",
       "onboard_time": 1773017963,
       "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 40952,
+      "num": 149984,
+      "word": "建议加班付费成硬约束",
+      "onboard_time": 1773031402,
+      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -3425,6 +3657,14 @@
       "onboard_time": 1772927058,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33627,
+      "num": 98165,
+      "word": "建议建立婚姻强迫预警机制",
+      "onboard_time": 1773031883,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33372,
@@ -3754,6 +3994,9 @@
     },
     {
       "word": "#习近平总书记两会下团组#"
+    },
+    {
+      "word": "#习近平的两会时间#"
     }
   ]
 }

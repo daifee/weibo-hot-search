@@ -1,0 +1,410 @@
+{
+  "runTime": 1773032385829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 729032,
+        "num": 1116645,
+        "word": "李延贺煽动分裂国家破坏国家统一",
+        "onboard_time": 1773025460,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 385187,
+        "num": 806826,
+        "word": "建议将8小时工作制缩短为7小时",
+        "onboard_time": 1773020660,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44985,
+        "num": 659085,
+        "word": "从基层一线走进人民殿堂",
+        "onboard_time": 1773030323,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297054,
+        "num": 529543,
+        "word": "今年修改教师法",
+        "onboard_time": 1773021081,
+        "rank": 3,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 253984,
+        "num": 477846,
+        "word": "建议处罚加班严重企业",
+        "onboard_time": 1773028943,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 468830,
+        "num": 468830,
+        "word": "怪不得古代能一眼认出刺客",
+        "onboard_time": 1773026842,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366856,
+        "num": 366856,
+        "word": "伊朗导弹突防能力拉满",
+        "onboard_time": 1773025281,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204750,
+        "num": 360557,
+        "word": "黄晓明范丞丞认识十几年了",
+        "onboard_time": 1773030803,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143980,
+        "num": 356085,
+        "word": "最高法最高检工作报告",
+        "onboard_time": 1773021799,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166234,
+        "num": 347184,
+        "word": "明星化妆师的权威我后知后觉",
+        "onboard_time": 1773030803,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 753608,
+        "num": 333684,
+        "word": "胖东来超8成员工拒绝降薪增假",
+        "onboard_time": 1773024320,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333526,
+        "num": 333526,
+        "word": "伊朗确认军舰遭美军击沉致104人死亡",
+        "onboard_time": 1773017180,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 296410,
+        "num": 296410,
+        "word": "张凌赫人生镜头",
+        "onboard_time": 1773025520,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286867,
+        "num": 286867,
+        "word": "乳腺癌女子从腹部借回一对新乳房",
+        "onboard_time": 1773028640,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256622,
+        "num": 256622,
+        "word": "五字概括逐玉剧情",
+        "onboard_time": 1773027320,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234940,
+        "num": 234940,
+        "word": "苹果新品发布会",
+        "onboard_time": 1773027681,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 246631,
+        "num": 211214,
+        "word": "逐玉",
+        "onboard_time": 1773013880,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170178,
+        "num": 170178,
+        "word": "周杰伦温州",
+        "onboard_time": 1773025341,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151094,
+        "num": 151094,
+        "word": "这课上的心脏挖出来还能跳三天",
+        "onboard_time": 1773025641,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40952,
+        "num": 149984,
+        "word": "建议加班付费成硬约束",
+        "onboard_time": 1773031402,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 603845,
+        "num": 147743,
+        "word": "孙千发了和王安宇合照",
+        "onboard_time": 1773030083,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332284,
+        "num": 143199,
+        "word": "狂飙",
+        "onboard_time": 1772981482,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183225,
+        "num": 142160,
+        "word": "哈梅内伊之子接任最高领袖",
+        "onboard_time": 1773012439,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217692,
+        "num": 139948,
+        "word": "卢昱晓 大花气质",
+        "onboard_time": 1773028761,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206157,
+        "num": 135514,
+        "word": "逐玉因平台缺爆款被迫爆",
+        "onboard_time": 1773013280,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134806,
+        "num": 134806,
+        "word": "第五人格",
+        "onboard_time": 1773031883,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282734,
+        "num": 134365,
+        "word": "秀智晒与王安宇孙千晚宴合照",
+        "onboard_time": 1773025641,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186730,
+        "num": 134130,
+        "word": "蕾哈娜豪宅遭枪击",
+        "onboard_time": 1773027742,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132130,
+        "num": 132130,
+        "word": "双休保底2.5天激励梯度制度",
+        "onboard_time": 1773028042,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158554,
+        "num": 129588,
+        "word": "电视剧品质盛典",
+        "onboard_time": 1773027502,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195938,
+        "num": 129554,
+        "word": "这不是弃养这是托孤",
+        "onboard_time": 1773031402,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126748,
+        "num": 126748,
+        "word": "小哥AI换脸Kpop歌手一夜爆红",
+        "onboard_time": 1773030864,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124745,
+        "num": 124745,
+        "word": "女子称自己有190斤只因脸小没人信",
+        "onboard_time": 1773022281,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106631,
+        "num": 121852,
+        "word": "第2场部长通道",
+        "onboard_time": 1773017180,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119961,
+        "num": 119961,
+        "word": "4种无效早睡没比熬夜强多少",
+        "onboard_time": 1773022101,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112536,
+        "num": 112536,
+        "word": "大侦探",
+        "onboard_time": 1773030803,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110158,
+        "num": 110158,
+        "word": "汪苏泷第12张创作专辑",
+        "onboard_time": 1773030922,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103657,
+        "num": 103657,
+        "word": "法官说婚姻自由也包括离婚自由",
+        "onboard_time": 1773029004,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99919,
+        "num": 99919,
+        "word": "杭州初二男生贴助长贴一年长高11厘米",
+        "onboard_time": 1773032003,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33627,
+        "num": 98165,
+        "word": "建议建立婚姻强迫预警机制",
+        "onboard_time": 1773031883,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97055,
+        "num": 97055,
+        "word": "蒋敦豪到底吃了多少过期食品",
+        "onboard_time": 1773026241,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104268,
+        "num": 95684,
+        "word": "汪苏泷换头像",
+        "onboard_time": 1773030864,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87744,
+        "num": 94609,
+        "word": "一诺无偿给JDG复盘教学",
+        "onboard_time": 1773030741,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94104,
+        "num": 94104,
+        "word": "王橹杰又在诡异的笑",
+        "onboard_time": 1773031043,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88588,
+        "num": 88588,
+        "word": "郭晓婷王天辰合体首封",
+        "onboard_time": 1773026542,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87361,
+        "num": 87361,
+        "word": "985父母的清醒反思",
+        "onboard_time": 1773020903,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86440,
+        "num": 86440,
+        "word": "中国人的饮食习惯会造成老年人肌少症",
+        "onboard_time": 1773031642,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85677,
+        "num": 85677,
+        "word": "小狗在街上认出妈妈时的反应",
+        "onboard_time": 1773032242,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84579,
+        "num": 84579,
+        "word": "原来春天更容易被晒黑",
+        "onboard_time": 1773032362,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 80661,
+        "num": 80661,
+        "word": "周冬雨被路人夸好美的反应",
+        "onboard_time": 1773032003,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
