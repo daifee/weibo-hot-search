@@ -1,6 +1,6 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773093350905,
+  "endTime": 1773095889945,
   "band_list": [
     {
       "raw_hot": 864377,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126473,
+      "num": 126473,
+      "word": "伊朗重型导弹打击美以目标",
+      "onboard_time": 1773076096,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122980,
       "num": 367314,
       "word": "哥伦比亚女子滑滑梯猛烈撞墙后身亡",
@@ -243,12 +251,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76498,
-      "num": 107939,
-      "word": "伊朗重型导弹打击美以目标",
-      "onboard_time": 1773076096,
-      "rank": 13,
-      "category": "国际时政"
+      "raw_hot": 74261,
+      "num": 366141,
+      "word": "巴黎时装周",
+      "onboard_time": 1773072500,
+      "rank": 40,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 71893,
+      "num": 230687,
+      "word": "镖人",
+      "onboard_time": 1773081615,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 69862,
@@ -291,14 +307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 46529,
-      "num": 366141,
-      "word": "巴黎时装周",
-      "onboard_time": 1773072500,
-      "rank": 40,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 45998,
       "num": 501493,
       "word": "五月天成团29周年演唱会官宣",
@@ -329,14 +337,6 @@
       "onboard_time": 1773064944,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 42756,
-      "num": 115812,
-      "word": "镖人",
-      "onboard_time": 1773081615,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 42427,
@@ -395,7 +395,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32648,
+      "raw_hot": 34902,
+      "num": 106253,
+      "word": "白鹿别把白敬亭扇感冒了",
+      "onboard_time": 1773056002,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33168,
       "num": 106516,
       "word": "伊朗强调侵略持续就不谈停火",
       "onboard_time": 1773077295,
@@ -435,14 +443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27087,
-      "num": 106253,
-      "word": "白鹿别把白敬亭扇感冒了",
-      "onboard_time": 1773056002,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 26347,
       "num": 105724,
       "word": "征玉",
@@ -459,7 +459,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19160,
+      "raw_hot": 26020,
       "num": 364991,
       "word": "男子全网寻恩人还8年前借的1000元",
       "onboard_time": 1773073039,
@@ -467,12 +467,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18630,
-      "num": 52866,
+      "raw_hot": 22412,
+      "num": 88632,
       "word": "章若楠说王安宇长得好戏也好",
       "onboard_time": 1773081494,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20371,
+      "num": 134313,
+      "word": "周深回应OST劳模",
+      "onboard_time": 1773082093,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19007,
+      "num": 88507,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1773086532,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 18231,
@@ -483,24 +499,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16480,
-      "num": 53882,
-      "word": "宇宙闪烁请注意",
-      "onboard_time": 1773086532,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15414,
-      "num": 86440,
-      "word": "周深回应OST劳模",
-      "onboard_time": 1773082093,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 12298,
-      "num": 53525,
+      "raw_hot": 13463,
+      "num": 88395,
       "word": "周深演唱会",
       "onboard_time": 1773083774,
       "rank": 43,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 11675,
-      "num": 53373,
+      "num": 88285,
       "word": "女足亚洲杯",
       "onboard_time": 1773052041,
       "rank": 49,
