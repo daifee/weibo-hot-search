@@ -1,7 +1,15 @@
 {
   "startTime": 1772987964652,
-  "endTime": 1773051216672,
+  "endTime": 1773053907965,
   "band_list": [
+    {
+      "raw_hot": 1451688,
+      "num": 602996,
+      "word": "腾讯视频回应播放异常",
+      "onboard_time": 1773051081,
+      "rank": 11,
+      "category": "互联网"
+    },
     {
       "raw_hot": 1436207,
       "num": 595322,
@@ -17,6 +25,14 @@
       "onboard_time": 1773012439,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1150565,
+      "num": 602779,
+      "word": "重案六组 张一山李沐宸",
+      "onboard_time": 1773050181,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 939571,
@@ -75,20 +91,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 666395,
+      "num": 602555,
+      "word": "爱玩拼豆的人天塌了",
+      "onboard_time": 1773050601,
+      "rank": 24,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 651292,
       "num": 521355,
       "word": "多家黄金品牌宣布调价",
       "onboard_time": 1772984060,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 649442,
-      "num": 543493,
-      "word": "腾讯视频回应播放异常",
-      "onboard_time": 1773051081,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 617115,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 559950,
-      "num": 559950,
+      "num": 602129,
       "word": "日本部署远程导弹",
       "onboard_time": 1773048141,
       "rank": 11,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 502954,
-      "num": 502954,
+      "num": 599535,
       "word": "肖战红毯等马",
       "onboard_time": 1773047362,
       "rank": 20,
@@ -155,14 +171,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 456480,
-      "num": 500715,
-      "word": "重案六组 张一山李沐宸",
-      "onboard_time": 1773050181,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 448793,
       "num": 607012,
       "word": "美被迫中止军事行动的可能性上升",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 436508,
-      "num": 559739,
+      "num": 601814,
       "word": "长玉大人开恩 谢征都杀喽",
       "onboard_time": 1773047481,
       "rank": 12,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 391574,
-      "num": 560573,
+      "num": 598115,
       "word": "林书豪爆科比私下性格",
       "onboard_time": 1773046701,
       "rank": 40,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 298049,
-      "num": 563467,
+      "num": 598879,
       "word": "舍友睡了vs舍友醒了",
       "onboard_time": 1773046582,
       "rank": 34,
@@ -361,6 +369,14 @@
       "onboard_time": 1773025641,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276959,
+      "num": 613266,
+      "word": "镖人 全女版",
+      "onboard_time": 1773049221,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 269215,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 211377,
-      "num": 560288,
+      "num": 598759,
       "word": "妈妈在被子上缝了一道线",
       "onboard_time": 1773046222,
       "rank": 41,
@@ -569,6 +585,14 @@
       "onboard_time": 1772975302,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203428,
+      "num": 601330,
+      "word": "敬妃带着胧月开网约车",
+      "onboard_time": 1773049941,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 201779,
@@ -601,6 +625,14 @@
       "onboard_time": 1773043101,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 193516,
+      "num": 599200,
+      "word": "TVB女主播靠指纹破37年杀人悬案",
+      "onboard_time": 1773052102,
+      "rank": 23,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 193068,
@@ -643,28 +675,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182397,
-      "num": 435890,
-      "word": "爱玩拼豆的人天塌了",
-      "onboard_time": 1773050601,
-      "rank": 24,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 182105,
       "num": 432369,
       "word": "任豪用剑扶田曦薇腰这一下",
       "onboard_time": 1773034163,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180411,
-      "num": 613266,
-      "word": "镖人 全女版",
-      "onboard_time": 1773049221,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 177774,
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 170484,
-      "num": 602705,
+      "num": 604226,
       "word": "AI焦虑症",
       "onboard_time": 1773044542,
       "rank": 19,
@@ -777,6 +793,14 @@
       "onboard_time": 1773045441,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160929,
+      "num": 601102,
+      "word": "千万不要在洗澡时做人脸认证",
+      "onboard_time": 1773052102,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 160018,
@@ -833,14 +857,6 @@
       "onboard_time": 1773035543,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149649,
-      "num": 504224,
-      "word": "敬妃带着胧月开网约车",
-      "onboard_time": 1773049941,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 148548,
@@ -1092,7 +1108,7 @@
     },
     {
       "raw_hot": 103764,
-      "num": 499226,
+      "num": 596363,
       "word": "我开始理解喜欢独自徒步爬山的人",
       "onboard_time": 1773048380,
       "rank": 31,
@@ -1148,7 +1164,7 @@
     },
     {
       "raw_hot": 97245,
-      "num": 598666,
+      "num": 603618,
       "word": "中国女足vs朝鲜女足",
       "onboard_time": 1773046280,
       "rank": 29,
@@ -1164,7 +1180,7 @@
     },
     {
       "raw_hot": 96654,
-      "num": 568539,
+      "num": 597682,
       "word": "建议允许护士给患者开药",
       "onboard_time": 1773047000,
       "rank": 24,
@@ -1236,7 +1252,7 @@
     },
     {
       "raw_hot": 90721,
-      "num": 592303,
+      "num": 592385,
       "word": "白鹿出场动画",
       "onboard_time": 1773045922,
       "rank": 44,
@@ -1283,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88753,
+      "num": 593898,
+      "word": "女子戴10款黄金珠宝到胖东来买首饰",
+      "onboard_time": 1773051141,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88746,
       "num": 595734,
       "word": "这代父母养娃新方式",
@@ -1308,7 +1332,7 @@
     },
     {
       "raw_hot": 87951,
-      "num": 435237,
+      "num": 600693,
       "word": "荣耀MagicV6还原法拉利的优雅",
       "onboard_time": 1773051081,
       "rank": 35,
@@ -1371,6 +1395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82405,
+      "num": 603381,
+      "word": "公司辞退闭眼小憩3分钟员工违法",
+      "onboard_time": 1773051262,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81279,
       "num": 81279,
       "word": "缅北四大家族16名主犯死刑立即执行",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1773032242,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79388,
+      "num": 594967,
+      "word": "趁油价大涨前去加满",
+      "onboard_time": 1773053062,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79270,
@@ -1467,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75054,
+      "num": 593074,
+      "word": "美议员称推翻伊朗美国将在中东大赚",
+      "onboard_time": 1773052881,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74592,
       "num": 76163,
       "word": "伊朗指责美以实施化学战",
@@ -1500,7 +1548,7 @@
     },
     {
       "raw_hot": 73265,
-      "num": 435163,
+      "num": 600201,
       "word": "中国女足半场2比1朝鲜女足",
       "onboard_time": 1773051081,
       "rank": 36,
@@ -1521,6 +1569,14 @@
       "onboard_time": 1773040100,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 71900,
+      "num": 592105,
+      "word": "小猫完成讽刺并离场",
+      "onboard_time": 1773051980,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 71111,
@@ -1553,14 +1609,6 @@
       "onboard_time": 1773039861,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 70055,
-      "num": 434708,
-      "word": "女子戴10款黄金珠宝到胖东来买首饰",
-      "onboard_time": 1773051141,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69037,
@@ -1619,8 +1667,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 66679,
-      "num": 434484,
+      "raw_hot": 67277,
+      "num": 592037,
       "word": "别轻易跟不熟的朋友去迪士尼",
       "onboard_time": 1773050542,
       "rank": 47,
@@ -1659,12 +1707,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63580,
+      "num": 601636,
+      "word": "宋雨琦官宣入职乐事",
+      "onboard_time": 1773052941,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62032,
       "num": 76152,
       "word": "美军称已有7名士兵阵亡",
       "onboard_time": 1773019460,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61887,
+      "num": 595183,
+      "word": "女足亚洲杯",
+      "onboard_time": 1773052041,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61278,
+      "num": 591602,
+      "word": "M5版MacBookAir性能飙升",
+      "onboard_time": 1773053782,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 61276,
+      "num": 600338,
+      "word": "男子送女友刮刮乐花束刮出80万",
+      "onboard_time": 1773053421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61233,
@@ -2033,6 +2113,14 @@
       "onboard_time": 1772965401,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 33320,
+      "num": 594544,
+      "word": "王鹤棣镜头中的白鹿",
+      "onboard_time": 1773052521,
+      "rank": 39,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 32798,
