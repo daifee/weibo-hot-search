@@ -1,0 +1,410 @@
+{
+  "runTime": 1773056450374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 295994,
+        "num": 1047359,
+        "word": "中国女足2比1朝鲜女足",
+        "onboard_time": 1773054561,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169194,
+        "num": 765333,
+        "word": "农业农村部部长建议大家少吃点油",
+        "onboard_time": 1773045622,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28557,
+        "num": 626327,
+        "word": "人大报告精华版",
+        "onboard_time": 1773043522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122469,
+        "num": 625097,
+        "word": "公司辞退闭眼小憩3分钟员工违法",
+        "onboard_time": 1773051262,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96169,
+        "num": 622012,
+        "word": "中国女足小组第1",
+        "onboard_time": 1773056180,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238762,
+        "num": 619653,
+        "word": "美被迫中止军事行动的可能性上升",
+        "onboard_time": 1773044601,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117809,
+        "num": 618115,
+        "word": "电视剧品质盛典",
+        "onboard_time": 1773027502,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84925,
+        "num": 616206,
+        "word": "代表谈老百姓有钱不敢消费",
+        "onboard_time": 1773054021,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48494,
+        "num": 612772,
+        "word": "建议鼓励大学生返乡创业",
+        "onboard_time": 1773054440,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79161,
+        "num": 611307,
+        "word": "建议中小学周边禁设台球厅",
+        "onboard_time": 1773054682,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 813885,
+        "num": 609190,
+        "word": "千万不要在洗澡时做人脸认证",
+        "onboard_time": 1773052102,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 739414,
+        "num": 606219,
+        "word": "重案六组 张一山李沐宸",
+        "onboard_time": 1773050181,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130213,
+        "num": 604630,
+        "word": "宋雨琦官宣入职乐事",
+        "onboard_time": 1773052941,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603552,
+        "num": 603552,
+        "word": "爱玩拼豆的人天塌了",
+        "onboard_time": 1773050601,
+        "rank": 13,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 380869,
+        "num": 603517,
+        "word": "逐玉 杀人者的噩梦竟然是杀猪",
+        "onboard_time": 1773055342,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349026,
+        "num": 603252,
+        "word": "长玉大人开恩 谢征都杀喽",
+        "onboard_time": 1773047481,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241549,
+        "num": 603061,
+        "word": "日本部署远程导弹",
+        "onboard_time": 1773048141,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194828,
+        "num": 602846,
+        "word": "男子送女友刮刮乐花束刮出80万",
+        "onboard_time": 1773053421,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138980,
+        "num": 602567,
+        "word": "逐玉弹幕 恶语伤牛心",
+        "onboard_time": 1773040761,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48640,
+        "num": 602303,
+        "word": "百家企业联合呼吁关爱痛经女性",
+        "onboard_time": 1773054682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77562,
+        "num": 602105,
+        "word": "品质盛典红毯直播",
+        "onboard_time": 1773041721,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330152,
+        "num": 601846,
+        "word": "TVB女主播靠指纹破37年杀人悬案",
+        "onboard_time": 1773052102,
+        "rank": 21,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 183445,
+        "num": 601765,
+        "word": "镖人 全女版",
+        "onboard_time": 1773049221,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68615,
+        "num": 601411,
+        "word": "李延贺煽动分裂国家破坏国家统一",
+        "onboard_time": 1773025460,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172724,
+        "num": 601366,
+        "word": "刘晓艳说肖战撒贝宁并列第一",
+        "onboard_time": 1773056062,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151697,
+        "num": 600989,
+        "word": "嘉人镜头冲到王一博怀里了",
+        "onboard_time": 1773054203,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119845,
+        "num": 600965,
+        "word": "桃黑黑直播",
+        "onboard_time": 1773056062,
+        "rank": 26,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 145816,
+        "num": 600746,
+        "word": "白鹿别把白敬亭扇感冒了",
+        "onboard_time": 1773056002,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115337,
+        "num": 600415,
+        "word": "伊朗总统提醒邻国别被美以欺骗",
+        "onboard_time": 1773036380,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1093296,
+        "num": 600161,
+        "word": "腾讯视频回应播放异常",
+        "onboard_time": 1773051081,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151293,
+        "num": 600098,
+        "word": "肖战红毯等马",
+        "onboard_time": 1773047362,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113606,
+        "num": 599815,
+        "word": "趁油价大涨前去加满",
+        "onboard_time": 1773053062,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113056,
+        "num": 599476,
+        "word": "逐玉",
+        "onboard_time": 1773013880,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56068,
+        "num": 599396,
+        "word": "中国女足vs朝鲜女足",
+        "onboard_time": 1773046280,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112155,
+        "num": 599246,
+        "word": "甜茶卖上霉豆腐了",
+        "onboard_time": 1773055822,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106126,
+        "num": 598995,
+        "word": "美议员称推翻伊朗美国将在中东大赚",
+        "onboard_time": 1773052881,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85140,
+        "num": 598630,
+        "word": "镖人升至全球武侠片票房亚军",
+        "onboard_time": 1773045262,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85089,
+        "num": 598414,
+        "word": "48岁中国女博导在埃及突然去世",
+        "onboard_time": 1773042321,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60080,
+        "num": 598307,
+        "word": "代旭 儿行千里母担忧",
+        "onboard_time": 1773052881,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51981,
+        "num": 598036,
+        "word": "林书豪爆科比私下性格",
+        "onboard_time": 1773046701,
+        "rank": 39,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 84497,
+        "num": 597907,
+        "word": "终于有人把相亲的感受说清楚了",
+        "onboard_time": 1773042681,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82742,
+        "num": 597545,
+        "word": "白鹿问这是直播么",
+        "onboard_time": 1773053961,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81594,
+        "num": 597442,
+        "word": "周深发了194个啊",
+        "onboard_time": 1773039861,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70403,
+        "num": 597243,
+        "word": "AI焦虑症",
+        "onboard_time": 1773044542,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78780,
+        "num": 597100,
+        "word": "孙千发了和王安宇合照",
+        "onboard_time": 1773030083,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69732,
+        "num": 596831,
+        "word": "敬妃带着胧月开网约车",
+        "onboard_time": 1773049941,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68828,
+        "num": 596631,
+        "word": "张凯丽说天价彩礼不应归咎于女性",
+        "onboard_time": 1773039680,
+        "rank": 46,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 67178,
+        "num": 596427,
+        "word": "我开始理解喜欢独自徒步爬山的人",
+        "onboard_time": 1773048380,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63944,
+        "num": 596117,
+        "word": "中国女足全胜晋级八强",
+        "onboard_time": 1773055760,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63681,
+        "num": 595901,
+        "word": "逐玉 肥肠面",
+        "onboard_time": 1773044902,
+        "rank": 49,
+        "category": "剧集,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记同代表委员话民生#"
+    }
+  }
+}
