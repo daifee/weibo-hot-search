@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773092462311,
+  "endTime": 1773093350905,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -4739,6 +4739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46529,
+      "num": 366141,
+      "word": "巴黎时装周",
+      "onboard_time": 1773072500,
+      "rank": 40,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 45682,
       "num": 739365,
       "word": "美以袭击致192名伊朗师生死亡",
@@ -4779,14 +4787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44457,
-      "num": 366141,
-      "word": "巴黎时装周",
-      "onboard_time": 1773072500,
-      "rank": 40,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 44403,
       "num": 85125,
       "word": "你好星期六 逐玉",
@@ -4825,6 +4825,14 @@
       "onboard_time": 1772964382,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42756,
+      "num": 115812,
+      "word": "镖人",
+      "onboard_time": 1773081615,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 42427,
@@ -4977,14 +4985,6 @@
       "onboard_time": 1773009195,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38853,
-      "num": 96324,
-      "word": "镖人",
-      "onboard_time": 1773081615,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 38721,
@@ -5483,7 +5483,7 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 16056,
+      "raw_hot": 16480,
       "num": 53882,
       "word": "宇宙闪烁请注意",
       "onboard_time": 1773086532,
@@ -5499,8 +5499,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15373,
-      "num": 74538,
+      "raw_hot": 15414,
+      "num": 86440,
       "word": "周深回应OST劳模",
       "onboard_time": 1773082093,
       "rank": 7,
@@ -5563,7 +5563,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12225,
+      "raw_hot": 12298,
       "num": 53525,
       "word": "周深演唱会",
       "onboard_time": 1773083774,

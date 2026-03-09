@@ -1,6 +1,6 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773092462311,
+  "endTime": 1773093350905,
   "band_list": [
     {
       "raw_hot": 864377,
@@ -291,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46529,
+      "num": 366141,
+      "word": "巴黎时装周",
+      "onboard_time": 1773072500,
+      "rank": 40,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 45998,
       "num": 501493,
       "word": "五月天成团29周年演唱会官宣",
@@ -307,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44457,
-      "num": 366141,
-      "word": "巴黎时装周",
-      "onboard_time": 1773072500,
-      "rank": 40,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 43717,
       "num": 365475,
       "word": "卢昱晓 拿到了金灿灿的苹果",
@@ -329,6 +329,14 @@
       "onboard_time": 1773064944,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42756,
+      "num": 115812,
+      "word": "镖人",
+      "onboard_time": 1773081615,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 42427,
@@ -377,14 +385,6 @@
       "onboard_time": 1773052881,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 38853,
-      "num": 96324,
-      "word": "镖人",
-      "onboard_time": 1773081615,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 35260,
@@ -483,7 +483,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16056,
+      "raw_hot": 16480,
       "num": 53882,
       "word": "宇宙闪烁请注意",
       "onboard_time": 1773086532,
@@ -491,15 +491,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15373,
-      "num": 74538,
+      "raw_hot": 15414,
+      "num": 86440,
       "word": "周深回应OST劳模",
       "onboard_time": 1773082093,
       "rank": 7,
       "category": "剧集"
     },
     {
-      "raw_hot": 12225,
+      "raw_hot": 12298,
       "num": 53525,
       "word": "周深演唱会",
       "onboard_time": 1773083774,
