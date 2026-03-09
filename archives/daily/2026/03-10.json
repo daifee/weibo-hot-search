@@ -1,6 +1,6 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773079035839,
+  "endTime": 1773079671402,
   "band_list": [
     {
       "raw_hot": 864377,
@@ -243,7 +243,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70597,
+      "raw_hot": 76498,
       "num": 107939,
       "word": "伊朗重型导弹打击美以目标",
       "onboard_time": 1773076096,
@@ -443,7 +443,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20940,
+      "raw_hot": 25049,
       "num": 105724,
       "word": "征玉",
       "onboard_time": 1773078735,

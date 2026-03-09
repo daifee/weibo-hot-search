@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773079035839,
+  "endTime": 1773079671402,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -17643,6 +17643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76498,
+      "num": 107939,
+      "word": "伊朗重型导弹打击美以目标",
+      "onboard_time": 1773076096,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76417,
       "num": 280867,
       "word": "逐玉陈皮糖吻",
@@ -18449,14 +18457,6 @@
       "onboard_time": 1772947641,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 70597,
-      "num": 107939,
-      "word": "伊朗重型导弹打击美以目标",
-      "onboard_time": 1773076096,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 70591,
@@ -22571,6 +22571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25049,
+      "num": 105724,
+      "word": "征玉",
+      "onboard_time": 1773078735,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25033,
       "num": 343148,
       "word": "谁懂妇女能顶半边天的含金量",
@@ -22897,14 +22905,6 @@
       "onboard_time": 1772358083,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20940,
-      "num": 105724,
-      "word": "征玉",
-      "onboard_time": 1773078735,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 20859,
