@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773090014178,
+  "endTime": 1773092462311,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -4779,6 +4779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44457,
+      "num": 366141,
+      "word": "巴黎时装周",
+      "onboard_time": 1773072500,
+      "rank": 40,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 44403,
       "num": 85125,
       "word": "你好星期六 逐玉",
@@ -4857,14 +4865,6 @@
       "onboard_time": 1773017963,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 41284,
-      "num": 366141,
-      "word": "巴黎时装周",
-      "onboard_time": 1773072500,
-      "rank": 40,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 40952,
@@ -4980,7 +4980,7 @@
     },
     {
       "raw_hot": 38853,
-      "num": 63109,
+      "num": 96324,
       "word": "镖人",
       "onboard_time": 1773081615,
       "rank": 8,
@@ -5483,6 +5483,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 16056,
+      "num": 53882,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1773086532,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15748,
       "num": 126686,
       "word": "一五到十五五重大工程",
@@ -5492,7 +5500,7 @@
     },
     {
       "raw_hot": 15373,
-      "num": 60207,
+      "num": 74538,
       "word": "周深回应OST劳模",
       "onboard_time": 1773082093,
       "rank": 7,
@@ -5513,14 +5521,6 @@
       "onboard_time": 1772940860,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15041,
-      "num": 53882,
-      "word": "宇宙闪烁请注意",
-      "onboard_time": 1773086532,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 15014,
