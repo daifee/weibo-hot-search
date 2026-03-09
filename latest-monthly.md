@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/01 00:36:45 ~ 2026/03/09 18:58:27
+本榜单时间：2026/03/01 00:36:45 ~ 2026/03/09 19:10:17
 </p>
 </blockquote>
 <p>
@@ -4737,6 +4737,12 @@ WBG对战AL（热度：251039）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%B4%97%E6%BE%A1%E6%97%B6%E5%81%9A%E4%BA%BA%E8%84%B8%E8%AE%A4%E8%AF%81%23" target="weibo">
+千万不要在洗澡时做人脸认证（热度：250471）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%BC%80%E5%88%9B%E5%85%A8%E7%90%83%E9%A6%96%E7%A9%BF%E6%96%B0%E6%96%B9%E5%BC%8F%23" target="weibo">
 肖战开创全球首穿新方式（热度：250412）
 </a>
@@ -5799,6 +5805,12 @@ BLG战胜JDG（热度：200082）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TVB%E5%A5%B3%E4%B8%BB%E6%92%AD%E9%9D%A0%E6%8C%87%E7%BA%B9%E7%A0%B437%E5%B9%B4%E6%9D%80%E4%BA%BA%E6%82%AC%E6%A1%88%23" target="weibo">
+TVB女主播靠指纹破37年杀人悬案（热度：197697）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%231%E5%85%8B%E6%8B%89%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E5%B7%B2%E7%BB%8F1000%E5%A4%9A%E4%BA%86%23" target="weibo">
 1克拉钻石价格已经1000多了（热度：197647）
 </a>
@@ -5967,12 +5979,6 @@ A股三大指数同步高开（热度：196550）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23TVB%E5%A5%B3%E4%B8%BB%E6%92%AD%E9%9D%A0%E6%8C%87%E7%BA%B9%E7%A0%B437%E5%B9%B4%E6%9D%80%E4%BA%BA%E6%82%AC%E6%A1%88%23" target="weibo">
-TVB女主播靠指纹破37年杀人悬案（热度：193516）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8F%B0%E4%B8%80%E5%8F%AA%E7%8B%97%E8%A2%AB%E5%9B%B0%E4%BA%95%E4%B8%8B%E7%BA%A63%E5%B9%B4%E8%8E%B7%E6%95%91%23" target="weibo">
 烟台一只狗被困井下约3年获救（热度：193353）
 </a>
@@ -6005,12 +6011,6 @@ TVB女主播靠指纹破37年杀人悬案（热度：193516）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E7%AC%AC%E4%BA%8C%E4%BB%A3VLA%E5%A6%88%E5%A6%88%E9%83%BD%E7%88%B1%E5%BC%80%E7%9A%84%E5%9B%BD%E6%B0%91%E6%99%BA%E9%A9%BE%23" target="weibo">
 小鹏第二代VLA妈妈都爱开的国民智驾（热度：192298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8FG6%E8%B6%85%E7%BA%A7%E5%A2%9E%E7%A8%8B%E5%85%AD%E9%A1%B9%E5%85%A8%E8%83%BD%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D%23" target="weibo">
-小鹏G6超级增程六项全能一步到位（热度：191661）
 </a>
 </li>
 
