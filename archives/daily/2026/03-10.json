@@ -1,6 +1,6 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773079671402,
+  "endTime": 1773083009548,
   "band_list": [
     {
       "raw_hot": 864377,
@@ -435,20 +435,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26347,
+      "num": 105724,
+      "word": "征玉",
+      "onboard_time": 1773078735,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26330,
       "num": 105997,
       "word": "全国两会",
       "onboard_time": 1773078195,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25049,
-      "num": 105724,
-      "word": "征玉",
-      "onboard_time": 1773078735,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 19160,
@@ -459,12 +459,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18630,
+      "num": 25083,
+      "word": "章若楠说王安宇长得好戏也好",
+      "onboard_time": 1773081494,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 18231,
       "num": 105360,
       "word": "王者荣耀打击代练上分",
       "onboard_time": 1773059962,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15373,
+      "num": 56595,
+      "word": "周深回应OST劳模",
+      "onboard_time": 1773082093,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14824,
+      "num": 56210,
+      "word": "镖人",
+      "onboard_time": 1773081615,
+      "rank": 8,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
