@@ -1,6 +1,6 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773099400959,
+  "endTime": 1773100293787,
   "band_list": [
     {
       "raw_hot": 864377,
@@ -19,8 +19,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 551915,
+      "num": 133081,
+      "word": "医生提醒不要模仿Ella真空腹",
+      "onboard_time": 1773098059,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542373,
-      "num": 520008,
+      "num": 522502,
       "word": "美军精锐部队突然异动",
       "onboard_time": 1773067163,
       "rank": 5,
@@ -33,14 +41,6 @@
       "onboard_time": 1773070701,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 460585,
-      "num": 110561,
-      "word": "医生提醒不要模仿Ella真空腹",
-      "onboard_time": 1773098059,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 432063,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332855,
+      "num": 332855,
+      "word": "肖战孙俪 郑晓龙的一双儿女",
+      "onboard_time": 1773057022,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323422,
       "num": 409621,
       "word": "1亿美元委内瑞拉黄金运抵美国",
@@ -75,12 +83,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 278487,
-      "num": 162824,
-      "word": "肖战孙俪 郑晓龙的一双儿女",
-      "onboard_time": 1773057022,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 280911,
+      "num": 280911,
+      "word": "普京特朗普再通话",
+      "onboard_time": 1773099022,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 245331,
@@ -89,6 +97,30 @@
       "onboard_time": 1773058761,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242901,
+      "num": 522514,
+      "word": "巴黎时装周",
+      "onboard_time": 1773072500,
+      "rank": 40,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 238651,
+      "num": 238651,
+      "word": "在韩剧里看中国人演中国人",
+      "onboard_time": 1773098538,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 235231,
+      "num": 121691,
+      "word": "伊朗新领袖释放强硬信号",
+      "onboard_time": 1773098718,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 235016,
@@ -108,19 +140,19 @@
     },
     {
       "raw_hot": 225308,
-      "num": 94906,
+      "num": 97418,
       "word": "国家队教练教你快速瘦肚子的方法",
       "onboard_time": 1773098059,
       "rank": 30,
       "category": "运动健身"
     },
     {
-      "raw_hot": 220510,
-      "num": 449045,
-      "word": "巴黎时装周",
-      "onboard_time": 1773072500,
-      "rank": 40,
-      "category": "时尚,作品衍生"
+      "raw_hot": 221149,
+      "num": 403497,
+      "word": "镖人",
+      "onboard_time": 1773081615,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 217815,
@@ -148,7 +180,7 @@
     },
     {
       "raw_hot": 207805,
-      "num": 109517,
+      "num": 115798,
       "word": "小孩打针视频外网播放破两千万",
       "onboard_time": 1773098237,
       "rank": 21,
@@ -171,28 +203,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 193329,
-      "num": 94389,
-      "word": "在韩剧里看中国人演中国人",
-      "onboard_time": 1773098538,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185266,
       "num": 370282,
       "word": "胖东来12名店长共分2.4亿资产利润",
       "onboard_time": 1773063622,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 184671,
-      "num": 403497,
-      "word": "镖人",
-      "onboard_time": 1773081615,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 163138,
@@ -219,6 +235,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127476,
+      "num": 94613,
+      "word": "第一批养虾人已经失眠了",
+      "onboard_time": 1773099622,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 123031,
+      "num": 432117,
+      "word": "历届SMG视帝",
+      "onboard_time": 1773099557,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122980,
       "num": 367314,
       "word": "哥伦比亚女子滑滑梯猛烈撞墙后身亡",
@@ -233,6 +265,14 @@
       "onboard_time": 1773055342,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115731,
+      "num": 99681,
+      "word": "伊朗发起第32波打击",
+      "onboard_time": 1773098359,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114731,
@@ -251,12 +291,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112239,
-      "num": 93946,
-      "word": "普京特朗普再通话",
-      "onboard_time": 1773099022,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 104321,
+      "num": 104321,
+      "word": "6个月宝宝吃辅食被香得一激灵",
+      "onboard_time": 1773098118,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103919,
@@ -267,28 +307,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 100945,
-      "num": 100945,
-      "word": "6个月宝宝吃辅食被香得一激灵",
-      "onboard_time": 1773098118,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99109,
-      "num": 99109,
-      "word": "伊朗新领袖释放强硬信号",
-      "onboard_time": 1773098718,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 98494,
       "num": 367822,
       "word": "杨超越 中国有自己的张元英",
       "onboard_time": 1773056540,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 91438,
+      "num": 91438,
+      "word": "王一博出席香奈儿秀场",
+      "onboard_time": 1773098959,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 88907,
@@ -313,14 +345,6 @@
       "onboard_time": 1773052102,
       "rank": 34,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 81563,
-      "num": 65376,
-      "word": "伊朗发起第32波打击",
-      "onboard_time": 1773098359,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79300,
@@ -371,6 +395,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 64834,
+      "num": 64834,
+      "word": "香奈儿大秀",
+      "onboard_time": 1773099022,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 62198,
       "num": 62198,
       "word": "韩国很火的狗布奇诺",
@@ -379,20 +411,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 56735,
-      "num": 56735,
-      "word": "王一博出席香奈儿秀场",
-      "onboard_time": 1773098959,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 56581,
       "num": 704889,
       "word": "农业农村部部长建议大家少吃点油",
       "onboard_time": 1773045622,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55145,
+      "num": 58481,
+      "word": "藏海传横扫SMG",
+      "onboard_time": 1773100101,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 54272,
@@ -419,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49525,
+      "num": 62813,
+      "word": "代表建议升级育儿补贴",
+      "onboard_time": 1773099079,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48605,
       "num": 145336,
       "word": "章若楠说王安宇长得好戏也好",
@@ -427,28 +467,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 48165,
-      "num": 48165,
-      "word": "香奈儿大秀",
-      "onboard_time": 1773099022,
-      "rank": 44,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 45998,
       "num": 501493,
       "word": "五月天成团29周年演唱会官宣",
       "onboard_time": 1773065542,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 45103,
-      "num": 45103,
-      "word": "代表建议升级育儿补贴",
-      "onboard_time": 1773099079,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44635,
@@ -481,6 +505,14 @@
       "onboard_time": 1773071302,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 42236,
+      "num": 358819,
+      "word": "委员谈如何提高居民财产收入",
+      "onboard_time": 1773098478,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41521,
@@ -539,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32649,
+      "num": 522504,
+      "word": "最高法成绩单新亮点",
+      "onboard_time": 1773098659,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31650,
       "num": 488045,
       "word": "建议把更多救命药纳入医保",
@@ -560,14 +600,6 @@
       "word": "6G网能自己管自己",
       "onboard_time": 1773066803,
       "rank": 39,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 28033,
-      "num": 332669,
-      "word": "委员谈如何提高居民财产收入",
-      "onboard_time": 1773098478,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -603,20 +635,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18956,
-      "num": 439037,
-      "word": "最高法成绩单新亮点",
-      "onboard_time": 1773098659,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 18231,
       "num": 105360,
       "word": "王者荣耀打击代练上分",
       "onboard_time": 1773059962,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17525,
+      "num": 279009,
+      "word": "两会关注的前沿科技",
+      "onboard_time": 1773099022,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13463,
@@ -641,14 +673,6 @@
       "onboard_time": 1773080055,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 6097,
-      "num": 279009,
-      "word": "两会关注的前沿科技",
-      "onboard_time": 1773099022,
-      "rank": 11,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
