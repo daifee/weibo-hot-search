@@ -1,6 +1,6 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773086330682,
+  "endTime": 1773089008532,
   "band_list": [
     {
       "raw_hot": 864377,
@@ -379,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38853,
+      "num": 56210,
+      "word": "镖人",
+      "onboard_time": 1773081615,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35260,
       "num": 162473,
       "word": "品质盛典后台直播",
@@ -425,14 +433,6 @@
       "onboard_time": 1773063863,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28337,
-      "num": 56210,
-      "word": "镖人",
-      "onboard_time": 1773081615,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 27087,
@@ -491,8 +491,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11883,
-      "num": 27658,
+      "raw_hot": 14576,
+      "num": 22623,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1773086532,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12018,
+      "num": 29963,
       "word": "周深演唱会",
       "onboard_time": 1773083774,
       "rank": 43,
@@ -507,7 +515,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 10232,
+      "raw_hot": 11675,
       "num": 23478,
       "word": "女足亚洲杯",
       "onboard_time": 1773052041,
