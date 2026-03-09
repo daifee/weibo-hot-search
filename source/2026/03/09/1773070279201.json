@@ -1,0 +1,410 @@
+{
+  "runTime": 1773070279201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 348703,
+        "num": 1055792,
+        "word": "13岁中国小孩哥夺得世界街舞冠军",
+        "onboard_time": 1773058761,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90270,
+        "num": 757237,
+        "word": "农业农村部部长建议大家少吃点油",
+        "onboard_time": 1773045622,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46935,
+        "num": 620089,
+        "word": "2026这些区域将迎发展",
+        "onboard_time": 1773064283,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214996,
+        "num": 573425,
+        "word": "教师法",
+        "onboard_time": 1773060081,
+        "rank": 3,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 109317,
+        "num": 556574,
+        "word": "周深1天官宣8场演唱会",
+        "onboard_time": 1773052282,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 554716,
+        "num": 554716,
+        "word": "美军精锐部队突然异动",
+        "onboard_time": 1773067163,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95613,
+        "num": 553266,
+        "word": "五月天成团29周年演唱会官宣",
+        "onboard_time": 1773065542,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36485,
+        "num": 552316,
+        "word": "建议把更多救命药纳入医保",
+        "onboard_time": 1773066863,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45602,
+        "num": 548962,
+        "word": "中国拥有全球规模最大的海运船队",
+        "onboard_time": 1773063863,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34560,
+        "num": 548755,
+        "word": "电视剧品质盛典",
+        "onboard_time": 1773027502,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 647027,
+        "num": 546448,
+        "word": "1亿美元委内瑞拉黄金运抵美国",
+        "onboard_time": 1773064705,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 545082,
+        "num": 545082,
+        "word": "肖战孙俪 郑晓龙的一双儿女",
+        "onboard_time": 1773057022,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347812,
+        "num": 347812,
+        "word": "逐玉热度",
+        "onboard_time": 1773063564,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304868,
+        "num": 304868,
+        "word": "胖东来12名店长共分2.4亿资产利润",
+        "onboard_time": 1773063622,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 319734,
+        "num": 297605,
+        "word": "重案六组 张一山李沐宸",
+        "onboard_time": 1773050181,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287102,
+        "num": 287102,
+        "word": "千万不要在洗澡时做人脸认证",
+        "onboard_time": 1773052102,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 279605,
+        "num": 279605,
+        "word": "爱玩拼豆的人天塌了",
+        "onboard_time": 1773050601,
+        "rank": 16,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 250069,
+        "num": 250069,
+        "word": "91岁女儿受委屈向113岁妈妈哭诉",
+        "onboard_time": 1773063622,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202422,
+        "num": 249655,
+        "word": "白鹿别把白敬亭扇感冒了",
+        "onboard_time": 1773056002,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180626,
+        "num": 241407,
+        "word": "伊朗警告油价或超200美元",
+        "onboard_time": 1773066443,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1041868,
+        "num": 236696,
+        "word": "张艺兴工作室声明",
+        "onboard_time": 1773066323,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910670,
+        "num": 233979,
+        "word": "卢昱晓走红毯忘记把暖宝宝拿下来了",
+        "onboard_time": 1773067642,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148760,
+        "num": 225577,
+        "word": "苹果首款折叠机要来了",
+        "onboard_time": 1773064763,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 225030,
+        "num": 225030,
+        "word": "白鹿回应把白敬亭扇感冒",
+        "onboard_time": 1773068844,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169527,
+        "num": 225023,
+        "word": "逐玉 杀人者的噩梦竟然是杀猪",
+        "onboard_time": 1773055342,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109222,
+        "num": 224935,
+        "word": "伊朗发起第31波打击",
+        "onboard_time": 1773064944,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 325189,
+        "num": 224922,
+        "word": "张艺兴处于术后康复阶段",
+        "onboard_time": 1773067823,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151986,
+        "num": 224846,
+        "word": "杨超越 中国有自己的张元英",
+        "onboard_time": 1773056540,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106986,
+        "num": 224790,
+        "word": "TVB女主播靠指纹破37年杀人悬案",
+        "onboard_time": 1773052102,
+        "rank": 28,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 37953,
+        "num": 224777,
+        "word": "6G网能自己管自己",
+        "onboard_time": 1773066803,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120465,
+        "num": 224703,
+        "word": "华裔花滑选手称批评谷爱凌的人虚伪",
+        "onboard_time": 1773068064,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116595,
+        "num": 224652,
+        "word": "长玉大人开恩 谢征都杀喽",
+        "onboard_time": 1773047481,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110835,
+        "num": 224604,
+        "word": "导演说郭晓婷王天辰不要在一起",
+        "onboard_time": 1773061402,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99581,
+        "num": 224576,
+        "word": "油价将上调加油站员工发声",
+        "onboard_time": 1773061702,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93701,
+        "num": 224482,
+        "word": "华裔选手称谷爱凌有权代表中国出战",
+        "onboard_time": 1773067403,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32627,
+        "num": 224477,
+        "word": "建议整治手机App侵犯个人隐私",
+        "onboard_time": 1773065665,
+        "rank": 35,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 90597,
+        "num": 224382,
+        "word": "嘉人镜头冲到王一博怀里了",
+        "onboard_time": 1773054203,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 83889,
+        "num": 224362,
+        "word": "肖战被叫驸马害羞了",
+        "onboard_time": 1773060442,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74162,
+        "num": 224285,
+        "word": "日本或陷入无油可用困境",
+        "onboard_time": 1773069503,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21855,
+        "num": 224247,
+        "word": "被文物的出差请假条萌到了",
+        "onboard_time": 1773069263,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68810,
+        "num": 224202,
+        "word": "日本部署远程导弹",
+        "onboard_time": 1773048141,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66516,
+        "num": 224146,
+        "word": "美被迫中止军事行动的可能性上升",
+        "onboard_time": 1773044601,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65898,
+        "num": 224129,
+        "word": "甜茶卖上霉豆腐了",
+        "onboard_time": 1773055822,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62583,
+        "num": 224052,
+        "word": "外网上演日韩文化之争",
+        "onboard_time": 1773064944,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54837,
+        "num": 224027,
+        "word": "卢昱晓 拿到了金灿灿的苹果",
+        "onboard_time": 1773063382,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53826,
+        "num": 223939,
+        "word": "脾堵不堵一个动作自测",
+        "onboard_time": 1773060142,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52419,
+        "num": 223916,
+        "word": "宋亚轩直播",
+        "onboard_time": 1773058583,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50657,
+        "num": 223873,
+        "word": "美议员称推翻伊朗美国将在中东大赚",
+        "onboard_time": 1773052881,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49928,
+        "num": 223796,
+        "word": "品质盛典后台直播",
+        "onboard_time": 1773058463,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40416,
+        "num": 223758,
+        "word": "我上班简直在乱摸鱼",
+        "onboard_time": 1773061582,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#两场团组活动一份民生关切#"
+    }
+  }
+}
