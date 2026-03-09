@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773043469581,
+  "endTime": 1773046573371,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -4627,6 +4627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326613,
+      "num": 611534,
+      "word": "48岁中国女博导在埃及突然去世",
+      "onboard_time": 1773042321,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325706,
       "num": 417619,
       "word": "只有胡彦斌记得今天是元宵节",
@@ -4795,6 +4803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318125,
+      "num": 612736,
+      "word": "离职的红利终于让我吃上了",
+      "onboard_time": 1773041363,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317771,
       "num": 433646,
       "word": "BLG对战JDG",
@@ -4897,14 +4913,6 @@
       "onboard_time": 1772529807,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312748,
-      "num": 612736,
-      "word": "离职的红利终于让我吃上了",
-      "onboard_time": 1773041363,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 311655,
@@ -5304,6 +5312,14 @@
       "word": "谭松韵演技",
       "onboard_time": 1772895563,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 291695,
+      "num": 609596,
+      "word": "云合",
+      "onboard_time": 1773045441,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -6339,14 +6355,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 242897,
-      "num": 611534,
-      "word": "48岁中国女博导在埃及突然去世",
-      "onboard_time": 1773042321,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 242830,
       "num": 429690,
       "word": "百妖谱",
@@ -6904,6 +6912,14 @@
       "word": "逐玉云包场",
       "onboard_time": 1772792482,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222064,
+      "num": 615175,
+      "word": "电视剧品质盛典",
+      "onboard_time": 1773027502,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -7683,14 +7699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195422,
-      "num": 615175,
-      "word": "电视剧品质盛典",
-      "onboard_time": 1773027502,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195018,
       "num": 195018,
       "word": "你弟什么身份居然还有门卫",
@@ -7851,12 +7859,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 191612,
+      "num": 602348,
+      "word": "终于有人把相亲的感受说清楚了",
+      "onboard_time": 1773042681,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191111,
       "num": 191111,
       "word": "iPhone17国内最新销量",
       "onboard_time": 1772932280,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190717,
+      "num": 604310,
+      "word": "逐玉 肥肠面",
+      "onboard_time": 1773044902,
+      "rank": 15,
+      "category": "剧集,美食"
     },
     {
       "raw_hot": 190578,
@@ -8211,6 +8235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 178617,
+      "num": 601526,
+      "word": "大一到大四宿舍资产对比",
+      "onboard_time": 1773045142,
+      "rank": 22,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 178369,
       "num": 178369,
       "word": "甘肃地震",
@@ -8404,7 +8436,7 @@
     },
     {
       "raw_hot": 172522,
-      "num": 601676,
+      "num": 608756,
       "word": "Uzi杯官宣",
       "onboard_time": 1773042202,
       "rank": 31,
@@ -8859,6 +8891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162603,
+      "num": 601220,
+      "word": "刘浩存在巴黎铁塔下跳舞",
+      "onboard_time": 1773045441,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162466,
       "num": 154313,
       "word": "穆祉丞直播",
@@ -8923,6 +8963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160993,
+      "num": 607156,
+      "word": "镖人升至全球武侠片票房亚军",
+      "onboard_time": 1773045262,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160945,
       "num": 167477,
       "word": "王安宇CELINE首位中国男大使",
@@ -8952,6 +9000,14 @@
       "word": "伊朗称持续打击中东多国美军目标",
       "onboard_time": 1772753600,
       "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 160375,
+      "num": 607012,
+      "word": "美被迫中止军事行动的可能性上升",
+      "onboard_time": 1773044601,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -9001,6 +9057,14 @@
       "onboard_time": 1772888062,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160018,
+      "num": 605113,
+      "word": "周深发了194个啊",
+      "onboard_time": 1773039861,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 159940,
@@ -9609,14 +9673,6 @@
       "onboard_time": 1772589326,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148935,
-      "num": 605113,
-      "word": "周深发了194个啊",
-      "onboard_time": 1773039861,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 148578,
@@ -10371,6 +10427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137533,
+      "num": 600222,
+      "word": "岳雨婷去巴黎 带戏服",
+      "onboard_time": 1773041901,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137513,
       "num": 337831,
       "word": "周深梦见你好听",
@@ -10779,6 +10843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131206,
+      "num": 602705,
+      "word": "AI焦虑症",
+      "onboard_time": 1773044542,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131023,
       "num": 131023,
       "word": "美驻联合国代表让伊朗代表小心点",
@@ -10947,6 +11019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128947,
+      "num": 599803,
+      "word": "单依纯卖霉豆腐了",
+      "onboard_time": 1773044121,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128937,
       "num": 162050,
       "word": "98岁爷爷在西湖边火了",
@@ -10961,14 +11041,6 @@
       "onboard_time": 1772636604,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 128690,
-      "num": 600807,
-      "word": "终于有人把相亲的感受说清楚了",
-      "onboard_time": 1773042681,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 128421,
@@ -12531,6 +12603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110029,
+      "num": 597842,
+      "word": "品质盛典红毯直播",
+      "onboard_time": 1773041721,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109997,
       "num": 252262,
       "word": "EXO澳门官宣",
@@ -13209,14 +13289,6 @@
       "onboard_time": 1772773284,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 103384,
-      "num": 600222,
-      "word": "岳雨婷去巴黎 带戏服",
-      "onboard_time": 1773041901,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 103347,
@@ -14107,14 +14179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96434,
-      "num": 597842,
-      "word": "品质盛典红毯直播",
-      "onboard_time": 1773041721,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96340,
       "num": 94139,
       "word": "严屹宽 天涯四美",
@@ -14561,6 +14625,14 @@
       "onboard_time": 1772966300,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93259,
+      "num": 596996,
+      "word": "刘亦菲抵达巴黎看秀",
+      "onboard_time": 1773044962,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93240,
@@ -15131,6 +15203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89204,
+      "num": 608327,
+      "word": "霍启刚希望有湾超湾BA",
+      "onboard_time": 1773044421,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 89077,
       "num": 89077,
       "word": "伊朗表示无意与美谈判",
@@ -15177,6 +15257,14 @@
       "onboard_time": 1773017963,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88746,
+      "num": 595734,
+      "word": "这代父母养娃新方式",
+      "onboard_time": 1773044902,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 88712,
@@ -15779,6 +15867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83676,
+      "num": 595024,
+      "word": "我家那小子",
+      "onboard_time": 1772271204,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83548,
       "num": 327756,
       "word": "泰星MAi自曝脸部花费几百万",
@@ -15793,6 +15889,14 @@
       "onboard_time": 1772954840,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83406,
+      "num": 607741,
+      "word": "农业农村部部长建议大家少吃点油",
+      "onboard_time": 1773045622,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83405,
@@ -17411,6 +17515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72362,
+      "num": 592851,
+      "word": "伊朗驻华大使回应霍尔木兹海峡问题",
+      "onboard_time": 1773045982,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72345,
       "num": 75529,
       "word": "我只是一般大人",
@@ -17739,6 +17851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 69306,
+      "num": 592303,
+      "word": "白鹿出场动画",
+      "onboard_time": 1773045922,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 69295,
       "num": 392235,
       "word": "代表建议婚检应为婚姻登记前置程序",
@@ -17921,6 +18041,14 @@
       "onboard_time": 1772953461,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67956,
+      "num": 592557,
+      "word": "苹果最高端笔记本来了",
+      "onboard_time": 1773046522,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 67883,
@@ -18329,6 +18457,14 @@
       "onboard_time": 1772537430,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64375,
+      "num": 591915,
+      "word": "高敏感人的共性",
+      "onboard_time": 1773043880,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 64374,
@@ -18745,6 +18881,14 @@
       "onboard_time": 1772876660,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 61256,
+      "num": 598666,
+      "word": "中国女足vs朝鲜女足",
+      "onboard_time": 1773046280,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 61233,
@@ -19851,6 +19995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47182,
+      "num": 594432,
+      "word": "白鹿说自己最好的朋友是工作人员",
+      "onboard_time": 1773044063,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47180,
       "num": 101336,
       "word": "肖战给顾魏选了新造型",
@@ -19888,6 +20040,14 @@
       "word": "严惩台独顽固分子写进最高法报告",
       "onboard_time": 1773023540,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 46697,
+      "num": 609659,
+      "word": "人大报告精华版",
+      "onboard_time": 1773043522,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -20489,6 +20649,14 @@
       "onboard_time": 1772850201,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39575,
+      "num": 590392,
+      "word": "90后女孩成霸气农机手",
+      "onboard_time": 1773044182,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39372,
@@ -21643,6 +21811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23431,
+      "num": 590146,
+      "word": "速览最高检工作报告",
+      "onboard_time": 1773043701,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23404,
       "num": 212375,
       "word": "8个主要产油国4月增产",
@@ -22091,14 +22267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16195,
-      "num": 40733,
-      "word": "我家那小子",
-      "onboard_time": 1772271204,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16134,
       "num": 93783,
       "word": "中国航天这组数字惊喜又提气",
@@ -22525,6 +22693,9 @@
     },
     {
       "word": "#总书记和政协委员共绘民生蓝图#"
+    },
+    {
+      "word": "#总书记同代表委员话民生#"
     }
   ]
 }

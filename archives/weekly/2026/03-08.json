@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773043469581,
+  "endTime": 1773046573371,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326613,
+      "num": 611534,
+      "word": "48岁中国女博导在埃及突然去世",
+      "onboard_time": 1773042321,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323172,
       "num": 930613,
       "word": "公务员养上政务龙虾了",
@@ -473,6 +481,14 @@
       "onboard_time": 1772941401,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 318125,
+      "num": 612736,
+      "word": "离职的红利终于让我吃上了",
+      "onboard_time": 1773041363,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 317771,
@@ -497,14 +513,6 @@
       "onboard_time": 1772982562,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 312748,
-      "num": 612736,
-      "word": "离职的红利终于让我吃上了",
-      "onboard_time": 1773041363,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 310334,
@@ -632,6 +640,14 @@
       "word": "谭松韵演技",
       "onboard_time": 1772895563,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 291695,
+      "num": 609596,
+      "word": "云合",
+      "onboard_time": 1773045441,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -835,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242897,
-      "num": 611534,
-      "word": "48岁中国女博导在埃及突然去世",
-      "onboard_time": 1773042321,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 242592,
       "num": 373367,
       "word": "张凌赫晒谢征日常",
@@ -987,6 +995,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 222064,
+      "num": 615175,
+      "word": "电视剧品质盛典",
+      "onboard_time": 1773027502,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220919,
       "num": 376889,
       "word": "你好星期六",
@@ -1091,14 +1107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 195422,
-      "num": 615175,
-      "word": "电视剧品质盛典",
-      "onboard_time": 1773027502,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194694,
       "num": 59678,
       "word": "伊朗外长称美袭击海水淡化厂是犯罪",
@@ -1147,12 +1155,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191612,
+      "num": 602348,
+      "word": "终于有人把相亲的感受说清楚了",
+      "onboard_time": 1773042681,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191111,
       "num": 191111,
       "word": "iPhone17国内最新销量",
       "onboard_time": 1772932280,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190717,
+      "num": 604310,
+      "word": "逐玉 肥肠面",
+      "onboard_time": 1773044902,
+      "rank": 15,
+      "category": "剧集,美食"
     },
     {
       "raw_hot": 190276,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1772954300,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178617,
+      "num": 601526,
+      "word": "大一到大四宿舍资产对比",
+      "onboard_time": 1773045142,
+      "rank": 22,
+      "category": "休闲"
     },
     {
       "raw_hot": 177774,
@@ -1252,7 +1284,7 @@
     },
     {
       "raw_hot": 172522,
-      "num": 601676,
+      "num": 608756,
       "word": "Uzi杯官宣",
       "onboard_time": 1773042202,
       "rank": 31,
@@ -1323,12 +1355,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162603,
+      "num": 601220,
+      "word": "刘浩存在巴黎铁塔下跳舞",
+      "onboard_time": 1773045441,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160993,
+      "num": 607156,
+      "word": "镖人升至全球武侠片票房亚军",
+      "onboard_time": 1773045262,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 160375,
+      "num": 607012,
+      "word": "美被迫中止军事行动的可能性上升",
+      "onboard_time": 1773044601,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160175,
       "num": 124770,
       "word": "美军战斗力成谜",
       "onboard_time": 1772981902,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160018,
+      "num": 605113,
+      "word": "周深发了194个啊",
+      "onboard_time": 1773039861,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 159076,
@@ -1417,14 +1481,6 @@
       "onboard_time": 1773035543,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148935,
-      "num": 605113,
-      "word": "周深发了194个啊",
-      "onboard_time": 1773039861,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 148548,
@@ -1555,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137533,
+      "num": 600222,
+      "word": "岳雨婷去巴黎 带戏服",
+      "onboard_time": 1773041901,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136222,
       "num": 296977,
       "word": "硬糖少女偷偶像练习生的鱼",
@@ -1611,6 +1675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131206,
+      "num": 602705,
+      "word": "AI焦虑症",
+      "onboard_time": 1773044542,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129924,
       "num": 228515,
       "word": "中俄关系风雨不动安如山",
@@ -1627,20 +1699,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128947,
+      "num": 599803,
+      "word": "单依纯卖霉豆腐了",
+      "onboard_time": 1773044121,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128937,
       "num": 162050,
       "word": "98岁爷爷在西湖边火了",
       "onboard_time": 1772974882,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128690,
-      "num": 600807,
-      "word": "终于有人把相亲的感受说清楚了",
-      "onboard_time": 1773042681,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 128365,
@@ -1859,6 +1931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110029,
+      "num": 597842,
+      "word": "品质盛典红毯直播",
+      "onboard_time": 1773041721,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107606,
       "num": 231311,
       "word": "嘻哈 我感谢那些女士",
@@ -1969,14 +2049,6 @@
       "onboard_time": 1772971401,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103384,
-      "num": 600222,
-      "word": "岳雨婷去巴黎 带戏服",
-      "onboard_time": 1773041901,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 102719,
@@ -2123,14 +2195,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 96434,
-      "num": 597842,
-      "word": "品质盛典红毯直播",
-      "onboard_time": 1773041721,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96340,
       "num": 94139,
       "word": "严屹宽 天涯四美",
@@ -2233,6 +2297,14 @@
       "onboard_time": 1772966300,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93259,
+      "num": 596996,
+      "word": "刘亦菲抵达巴黎看秀",
+      "onboard_time": 1773044962,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 92402,
@@ -2339,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89204,
+      "num": 608327,
+      "word": "霍启刚希望有湾超湾BA",
+      "onboard_time": 1773044421,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 89019,
       "num": 740210,
       "word": "女孩贪玩忘事成绩下滑查出罕见病",
@@ -2361,6 +2441,14 @@
       "onboard_time": 1773017963,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88746,
+      "num": 595734,
+      "word": "这代父母养娃新方式",
+      "onboard_time": 1773044902,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 88616,
@@ -2507,12 +2595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83676,
+      "num": 595024,
+      "word": "我家那小子",
+      "onboard_time": 1773045502,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83512,
       "num": 158952,
       "word": "1家4姐妹3个查出卵巢癌",
       "onboard_time": 1772954840,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83406,
+      "num": 607741,
+      "word": "农业农村部部长建议大家少吃点油",
+      "onboard_time": 1773045622,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83219,
@@ -2923,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72362,
+      "num": 592851,
+      "word": "伊朗驻华大使回应霍尔木兹海峡问题",
+      "onboard_time": 1773045982,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72272,
       "num": 181189,
       "word": "把大自然的颜色画在脸上",
@@ -3035,6 +3147,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 69306,
+      "num": 592303,
+      "word": "白鹿出场动画",
+      "onboard_time": 1773045922,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 69037,
       "num": 142317,
       "word": "朝鲜女足vs中国女足",
@@ -3097,6 +3217,14 @@
       "onboard_time": 1772953461,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67956,
+      "num": 592557,
+      "word": "苹果最高端笔记本来了",
+      "onboard_time": 1773046522,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 67238,
@@ -3209,6 +3337,14 @@
       "onboard_time": 1772949140,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 64375,
+      "num": 591915,
+      "word": "高敏感人的共性",
+      "onboard_time": 1773043880,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 64317,
@@ -3353,6 +3489,14 @@
       "onboard_time": 1772953999,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61256,
+      "num": 598666,
+      "word": "中国女足vs朝鲜女足",
+      "onboard_time": 1773046280,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 61233,
@@ -3739,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47182,
+      "num": 594432,
+      "word": "白鹿说自己最好的朋友是工作人员",
+      "onboard_time": 1773044063,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46937,
       "num": 739289,
       "word": "能瘦15%的减重药创始人回应自己胖",
@@ -3752,6 +3904,14 @@
       "word": "严惩台独顽固分子写进最高法报告",
       "onboard_time": 1773023540,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 46697,
+      "num": 609659,
+      "word": "人大报告精华版",
+      "onboard_time": 1773043522,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -3937,6 +4097,14 @@
       "onboard_time": 1772894603,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 39575,
+      "num": 590392,
+      "word": "90后女孩成霸气农机手",
+      "onboard_time": 1773044182,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39372,
@@ -4251,6 +4419,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 23431,
+      "num": 590146,
+      "word": "速览最高检工作报告",
+      "onboard_time": 1773043701,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23401,
       "num": 57725,
       "word": "AI时代每人都有份专属课表",
@@ -4453,6 +4629,9 @@
     },
     {
       "word": "#习近平的两会时间#"
+    },
+    {
+      "word": "#总书记同代表委员话民生#"
     }
   ]
 }
