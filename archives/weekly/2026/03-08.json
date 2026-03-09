@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773074063062,
+  "endTime": 1773079035839,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -3835,6 +3835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70597,
+      "num": 107939,
+      "word": "伊朗重型导弹打击美以目标",
+      "onboard_time": 1773076096,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70591,
       "num": 85883,
       "word": "小猫知道自己可爱",
@@ -4980,7 +4988,7 @@
     },
     {
       "raw_hot": 38611,
-      "num": 45267,
+      "num": 105997,
       "word": "全国两会",
       "onboard_time": 1772925616,
       "rank": 35,
@@ -5145,6 +5153,14 @@
       "onboard_time": 1772985079,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32648,
+      "num": 106516,
+      "word": "伊朗强调侵略持续就不谈停火",
+      "onboard_time": 1773077295,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32627,
@@ -5369,6 +5385,14 @@
       "onboard_time": 1773036202,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20940,
+      "num": 105724,
+      "word": "征玉",
+      "onboard_time": 1773078735,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 19496,
