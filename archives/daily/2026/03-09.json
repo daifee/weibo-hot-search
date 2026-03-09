@@ -1,6 +1,6 @@
 {
   "startTime": 1772987964652,
-  "endTime": 1773033014417,
+  "endTime": 1773036353947,
   "band_list": [
     {
       "raw_hot": 1436207,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 670013,
-      "num": 333526,
+      "num": 429221,
       "word": "伊朗确认军舰遭美军击沉致104人死亡",
       "onboard_time": 1773017180,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 617115,
-      "num": 213073,
+      "num": 432482,
       "word": "孙千发了和王安宇合照",
       "onboard_time": 1773030083,
       "rank": 20,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 468830,
-      "num": 468830,
+      "num": 581174,
       "word": "怪不得古代能一眼认出刺客",
       "onboard_time": 1773026842,
       "rank": 5,
@@ -124,19 +124,35 @@
     },
     {
       "raw_hot": 414200,
-      "num": 194292,
+      "num": 428535,
       "word": "女子称自己有190斤只因脸小没人信",
       "onboard_time": 1773022281,
       "rank": 22,
       "category": "幽默"
     },
     {
-      "raw_hot": 366856,
-      "num": 366856,
+      "raw_hot": 388448,
+      "num": 525597,
+      "word": "杨紫王安宇合作",
+      "onboard_time": 1773035479,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 370415,
+      "num": 521184,
       "word": "伊朗导弹突防能力拉满",
       "onboard_time": 1773025281,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 334443,
+      "num": 601226,
+      "word": "小哥AI换脸Kpop歌手一夜爆红",
+      "onboard_time": 1773030864,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313642,
@@ -163,8 +179,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301539,
+      "num": 431959,
+      "word": "黄晓明范丞丞认识十几年了",
+      "onboard_time": 1773030803,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296410,
-      "num": 296410,
+      "num": 429963,
       "word": "张凌赫人生镜头",
       "onboard_time": 1773025520,
       "rank": 17,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 293409,
-      "num": 293409,
+      "num": 419835,
       "word": "周杰伦温州",
       "onboard_time": 1773025341,
       "rank": 5,
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 291361,
-      "num": 291361,
+      "num": 465116,
       "word": "乳腺癌女子从腹部借回一对新乳房",
       "onboard_time": 1773028640,
       "rank": 13,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 269215,
-      "num": 269215,
+      "num": 486838,
       "word": "五字概括逐玉剧情",
       "onboard_time": 1773027320,
       "rank": 14,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 262898,
-      "num": 477846,
+      "num": 561068,
       "word": "建议处罚加班严重企业",
       "onboard_time": 1773028943,
       "rank": 4,
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 248788,
-      "num": 248788,
+      "num": 459452,
       "word": "逐玉",
       "onboard_time": 1773013880,
       "rank": 12,
@@ -251,14 +275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 233388,
-      "num": 368616,
-      "word": "黄晓明范丞丞认识十几年了",
-      "onboard_time": 1773030803,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224983,
       "num": 86275,
       "word": "严屹宽一出场皇帝瞬间被衬成公公",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 217692,
-      "num": 182103,
+      "num": 421971,
       "word": "卢昱晓 大花气质",
       "onboard_time": 1773028761,
       "rank": 23,
@@ -284,11 +300,19 @@
     },
     {
       "raw_hot": 216690,
-      "num": 269239,
+      "num": 441405,
       "word": "这不是弃养这是托孤",
       "onboard_time": 1773031402,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210393,
+      "num": 592881,
+      "word": "白岩松称很多年轻人没时间去爱",
+      "onboard_time": 1773032602,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207363,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 193860,
-      "num": 347184,
+      "num": 427086,
       "word": "明星化妆师的权威我后知后觉",
       "onboard_time": 1773030803,
       "rank": 9,
@@ -339,8 +363,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 192117,
+      "num": 475526,
+      "word": "玫瑰丛生0热度战报图",
+      "onboard_time": 1773033142,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190276,
-      "num": 190276,
+      "num": 426559,
       "word": "4种无效早睡没比熬夜强多少",
       "onboard_time": 1773022101,
       "rank": 24,
@@ -363,12 +395,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182105,
+      "num": 432369,
+      "word": "任豪用剑扶田曦薇腰这一下",
+      "onboard_time": 1773034163,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177762,
       "num": 177762,
       "word": "玫瑰丛生",
       "onboard_time": 1773011838,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176028,
+      "num": 431131,
+      "word": "小狗在街上认出妈妈时的反应",
+      "onboard_time": 1773032242,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 172463,
@@ -403,6 +451,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 164892,
+      "num": 446060,
+      "word": "董晴接档董晴",
+      "onboard_time": 1773033322,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164706,
       "num": 164706,
       "word": "孔雪儿 真天使投资人",
@@ -420,7 +476,7 @@
     },
     {
       "raw_hot": 158554,
-      "num": 134868,
+      "num": 420363,
       "word": "电视剧品质盛典",
       "onboard_time": 1773027502,
       "rank": 29,
@@ -433,14 +489,6 @@
       "onboard_time": 1772983281,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156858,
-      "num": 252255,
-      "word": "小哥AI换脸Kpop歌手一夜爆红",
-      "onboard_time": 1773030864,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156463,
@@ -491,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137388,
+      "num": 427973,
+      "word": "西班牙人来中国一周后",
+      "onboard_time": 1773034281,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132418,
       "num": 224327,
       "word": "胖东来每年利润50%发奖金",
@@ -515,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128722,
+      "num": 430568,
+      "word": "杭州初二男生贴助长贴一年长高11厘米",
+      "onboard_time": 1773032003,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127453,
       "num": 63904,
       "word": "霍去病团队1分钟视频报价6000元起",
       "onboard_time": 1773012318,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125542,
+      "num": 429562,
+      "word": "清华满绩学生路演被评答非所问",
+      "onboard_time": 1773035543,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 125006,
@@ -580,7 +652,7 @@
     },
     {
       "raw_hot": 112536,
-      "num": 112536,
+      "num": 421334,
       "word": "大侦探",
       "onboard_time": 1773030803,
       "rank": 35,
@@ -643,12 +715,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102373,
-      "num": 102373,
-      "word": "杭州初二男生贴助长贴一年长高11厘米",
+      "raw_hot": 102719,
+      "num": 426336,
+      "word": "肖战共赴2026电视剧品质盛典",
+      "onboard_time": 1773031883,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101543,
+      "num": 425439,
+      "word": "周冬雨被路人夸好美的反应",
       "onboard_time": 1773032003,
-      "rank": 38,
-      "category": "民生新闻"
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 100194,
@@ -665,14 +745,6 @@
       "onboard_time": 1773026241,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96985,
-      "num": 96985,
-      "word": "周冬雨被路人夸好美的反应",
-      "onboard_time": 1773032003,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 96644,
@@ -699,12 +771,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94833,
+      "num": 546191,
+      "word": "周深官宣2026巡回演唱会",
+      "onboard_time": 1773035901,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94104,
       "num": 94104,
       "word": "王橹杰又在诡异的笑",
       "onboard_time": 1773031043,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91273,
+      "num": 424423,
+      "word": "一诺无偿给JDG复盘教学",
+      "onboard_time": 1773030741,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 90429,
+      "num": 424103,
+      "word": "黄金品牌涨价50克金手镯贵了5万元",
+      "onboard_time": 1773034582,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 90378,
+      "num": 423327,
+      "word": "9旬母亲瘫痪5个子女赡养起争执",
+      "onboard_time": 1773036082,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88818,
@@ -731,12 +835,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 87744,
-      "num": 94609,
-      "word": "一诺无偿给JDG复盘教学",
-      "onboard_time": 1773030741,
-      "rank": 42,
-      "category": "电竞"
+      "raw_hot": 88435,
+      "num": 512884,
+      "word": "谭松韵红包剧宣",
+      "onboard_time": 1773035781,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88149,
+      "num": 535059,
+      "word": "杨瀚森和队友联手缔造五佳球",
+      "onboard_time": 1773033262,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 87419,
@@ -748,19 +860,11 @@
     },
     {
       "raw_hot": 86978,
-      "num": 86978,
+      "num": 419341,
       "word": "中国人的饮食习惯会造成老年人肌少症",
       "onboard_time": 1773031642,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 85677,
-      "num": 85677,
-      "word": "小狗在街上认出妈妈时的反应",
-      "onboard_time": 1773032242,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 84981,
@@ -779,12 +883,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84375,
+      "num": 422955,
+      "word": "九尾祝大家越来越好",
+      "onboard_time": 1773035962,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82415,
       "num": 82415,
       "word": "Bin获FMVP",
       "onboard_time": 1772975062,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82043,
+      "num": 422370,
+      "word": "檀健次尖叫之夜后台原声掉落",
+      "onboard_time": 1773035301,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 81279,
@@ -809,6 +929,14 @@
       "onboard_time": 1773025401,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78356,
+      "num": 421423,
+      "word": "黄金白银盘中突然跳水",
+      "onboard_time": 1773033502,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 77657,
@@ -865,6 +993,14 @@
       "onboard_time": 1773016342,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71023,
+      "num": 420885,
+      "word": "沉迷AI的中年领导",
+      "onboard_time": 1773035781,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 70873,
@@ -1107,6 +1243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 42334,
+      "num": 425742,
+      "word": "建议教大学生如何面对婚育问题",
+      "onboard_time": 1773035001,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42331,
       "num": 53403,
       "word": "逐玉小说",
@@ -1283,11 +1427,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20286,
-      "num": 231509,
-      "word": "白岩松称很多年轻人没时间去爱",
-      "onboard_time": 1773032602,
-      "rank": 19,
+      "raw_hot": 21173,
+      "num": 427645,
+      "word": "最高法点名工作8小时闭眼3分钟被辞",
+      "onboard_time": 1773036202,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
