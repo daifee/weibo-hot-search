@@ -1,6 +1,6 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773083763981,
+  "endTime": 1773085801308,
   "band_list": [
     {
       "raw_hot": 864377,
@@ -427,20 +427,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28337,
+      "num": 56210,
+      "word": "镖人",
+      "onboard_time": 1773081615,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27087,
       "num": 106253,
       "word": "白鹿别把白敬亭扇感冒了",
       "onboard_time": 1773056002,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26903,
-      "num": 56210,
-      "word": "镖人",
-      "onboard_time": 1773081615,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 26347,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 18630,
-      "num": 25083,
+      "num": 27705,
       "word": "章若楠说王安宇长得好戏也好",
       "onboard_time": 1773081494,
       "rank": 35,
@@ -489,6 +489,22 @@
       "onboard_time": 1773082093,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11883,
+      "num": 27658,
+      "word": "周深演唱会",
+      "onboard_time": 1773083774,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 11788,
+      "num": 27655,
+      "word": "刘宇时装周直播",
+      "onboard_time": 1773080055,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 9318,
