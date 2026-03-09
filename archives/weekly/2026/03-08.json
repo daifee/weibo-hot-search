@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773047320228,
+  "endTime": 1773050488079,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -96,6 +96,14 @@
       "word": "胖东来超8成员工拒绝降薪增假",
       "onboard_time": 1773024320,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 724321,
+      "num": 562201,
+      "word": "被邻桌倒螺蛳粉汤女子发声",
+      "onboard_time": 1773049040,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -211,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 559950,
+      "num": 559950,
+      "word": "日本部署远程导弹",
+      "onboard_time": 1773048141,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 528723,
       "num": 736100,
       "word": "妇女节",
@@ -249,6 +265,14 @@
       "onboard_time": 1773012318,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 502954,
+      "num": 502954,
+      "word": "肖战红毯等马",
+      "onboard_time": 1773047362,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 492360,
@@ -307,6 +331,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 448793,
+      "num": 607012,
+      "word": "美被迫中止军事行动的可能性上升",
+      "onboard_time": 1773044601,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 436888,
       "num": 608782,
       "word": "杨紫王安宇合作",
@@ -345,6 +377,14 @@
       "onboard_time": 1773026421,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 422293,
+      "num": 559739,
+      "word": "长玉大人开恩 谢征都杀喽",
+      "onboard_time": 1773047481,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 420534,
@@ -401,6 +441,14 @@
       "onboard_time": 1772942422,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 391574,
+      "num": 560573,
+      "word": "林书豪爆科比私下性格",
+      "onboard_time": 1773046701,
+      "rank": 40,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 373979,
@@ -473,6 +521,14 @@
       "onboard_time": 1773045441,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325048,
+      "num": 604310,
+      "word": "逐玉 肥肠面",
+      "onboard_time": 1773044902,
+      "rank": 15,
+      "category": "剧集,美食"
     },
     {
       "raw_hot": 323172,
@@ -587,14 +643,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 303211,
-      "num": 604310,
-      "word": "逐玉 肥肠面",
-      "onboard_time": 1773044902,
-      "rank": 15,
-      "category": "剧集,美食"
-    },
-    {
       "raw_hot": 301539,
       "num": 431959,
       "word": "黄晓明范丞丞认识十几年了",
@@ -617,6 +665,14 @@
       "onboard_time": 1772964382,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298049,
+      "num": 563467,
+      "word": "舍友睡了vs舍友醒了",
+      "onboard_time": 1773046582,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 297207,
@@ -793,14 +849,6 @@
       "onboard_time": 1772929457,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 254129,
-      "num": 607012,
-      "word": "美被迫中止军事行动的可能性上升",
-      "onboard_time": 1773044601,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 252619,
@@ -1219,6 +1267,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 189990,
+      "num": 1030398,
+      "word": "农业农村部部长建议大家少吃点油",
+      "onboard_time": 1773045622,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186730,
       "num": 174927,
       "word": "蕾哈娜豪宅遭枪击",
@@ -1321,6 +1377,14 @@
       "onboard_time": 1773040222,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170484,
+      "num": 602705,
+      "word": "AI焦虑症",
+      "onboard_time": 1773044542,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 168757,
@@ -1515,6 +1579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147657,
+      "num": 560288,
+      "word": "妈妈在被子上缝了一道线",
+      "onboard_time": 1773046222,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147431,
       "num": 531362,
       "word": "AI对老师的影响",
@@ -1641,14 +1713,6 @@
       "onboard_time": 1772889983,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 132736,
-      "num": 602705,
-      "word": "AI焦虑症",
-      "onboard_time": 1773044542,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 132418,
@@ -1883,6 +1947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114192,
+      "num": 500715,
+      "word": "重案六组 张一山李沐宸",
+      "onboard_time": 1773050181,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113928,
       "num": 739817,
       "word": "杨超越巴黎世家全球首穿",
@@ -1955,12 +2027,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109135,
-      "num": 607741,
-      "word": "农业农村部部长建议大家少吃点油",
-      "onboard_time": 1773045622,
-      "rank": 7,
-      "category": "国内时政"
+      "raw_hot": 108310,
+      "num": 592851,
+      "word": "伊朗驻华大使回应霍尔木兹海峡问题",
+      "onboard_time": 1773045982,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107606,
@@ -1993,6 +2065,14 @@
       "onboard_time": 1773017180,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106544,
+      "num": 499616,
+      "word": "逐玉数据超狂飙为何遭群嘲",
+      "onboard_time": 1773044781,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 105983,
@@ -2059,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103764,
+      "num": 499226,
+      "word": "我开始理解喜欢独自徒步爬山的人",
+      "onboard_time": 1773048380,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103657,
       "num": 103657,
       "word": "法官说婚姻自由也包括离婚自由",
@@ -2089,6 +2177,14 @@
       "onboard_time": 1772945059,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 102008,
+      "num": 566763,
+      "word": "镖人 全女版",
+      "onboard_time": 1773049221,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 101979,
@@ -2171,14 +2267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98460,
-      "num": 592851,
-      "word": "伊朗驻华大使回应霍尔木兹海峡问题",
-      "onboard_time": 1773045982,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 98121,
       "num": 297791,
       "word": "库里说天天想吃中国的火锅小龙虾",
@@ -2193,14 +2281,6 @@
       "onboard_time": 1772889323,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98024,
-      "num": 563467,
-      "word": "舍友睡了vs舍友醒了",
-      "onboard_time": 1773046582,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 97953,
@@ -2233,6 +2313,14 @@
       "onboard_time": 1772980401,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96654,
+      "num": 568539,
+      "word": "建议允许护士给患者开药",
+      "onboard_time": 1773047000,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96644,
@@ -2409,6 +2497,14 @@
       "onboard_time": 1773030741,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90721,
+      "num": 592303,
+      "word": "白鹿出场动画",
+      "onboard_time": 1773045922,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 90429,
@@ -2603,14 +2699,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 84835,
-      "num": 560573,
-      "word": "林书豪爆科比私下性格",
-      "onboard_time": 1773046701,
-      "rank": 40,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 84693,
       "num": 144899,
       "word": "比亚迪回应闪充是否影响电池寿命",
@@ -2633,6 +2721,14 @@
       "onboard_time": 1773035962,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84307,
+      "num": 504224,
+      "word": "敬妃带着胧月开网约车",
+      "onboard_time": 1773049941,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 83917,
@@ -2675,14 +2771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82715,
-      "num": 560288,
-      "word": "妈妈在被子上缝了一道线",
-      "onboard_time": 1773046222,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 82521,
       "num": 161865,
       "word": "已有600余名中国公民从伊朗安全撤离",
@@ -2691,12 +2779,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 81708,
-      "num": 592303,
-      "word": "白鹿出场动画",
-      "onboard_time": 1773045922,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 81811,
+      "num": 598666,
+      "word": "中国女足vs朝鲜女足",
+      "onboard_time": 1773046280,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 81279,
@@ -2849,6 +2937,14 @@
       "onboard_time": 1772976563,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78011,
+      "num": 498154,
+      "word": "国际油价暴涨",
+      "onboard_time": 1773047300,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 77759,
@@ -3123,6 +3219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71111,
+      "num": 495722,
+      "word": "小米很快会推出L3L4驾驶",
+      "onboard_time": 1773047362,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 71023,
       "num": 420885,
       "word": "沉迷AI的中年领导",
@@ -3251,6 +3355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 68536,
+      "num": 493946,
+      "word": "高考复读综艺",
+      "onboard_time": 1773048921,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68371,
       "num": 740099,
       "word": "张凌赫的秘密",
@@ -3273,6 +3385,14 @@
       "onboard_time": 1773046522,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 67530,
+      "num": 493781,
+      "word": "全国统一的奶奶式擦脸手法",
+      "onboard_time": 1773048562,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 67238,
@@ -3529,14 +3649,6 @@
       "onboard_time": 1772953999,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 61256,
-      "num": 598666,
-      "word": "中国女足vs朝鲜女足",
-      "onboard_time": 1773046280,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 61233,
@@ -4299,14 +4411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 34189,
-      "num": 568539,
-      "word": "建议允许护士给患者开药",
-      "onboard_time": 1773047000,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 33966,
       "num": 87388,
       "word": "向每一位闪闪发光的她致敬",
@@ -4521,6 +4625,14 @@
       "onboard_time": 1772909836,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21746,
+      "num": 496210,
+      "word": "辛芷蕾工作室 有效出图",
+      "onboard_time": 1773050364,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 21173,

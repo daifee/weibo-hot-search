@@ -1,0 +1,410 @@
+{
+  "runTime": 1773050488079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 189990,
+        "num": 1030398,
+        "word": "农业农村部部长建议大家少吃点油",
+        "onboard_time": 1773045622,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183836,
+        "num": 725883,
+        "word": "李延贺煽动分裂国家破坏国家统一",
+        "onboard_time": 1773025460,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42351,
+        "num": 604741,
+        "word": "人大报告精华版",
+        "onboard_time": 1773043522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187751,
+        "num": 599853,
+        "word": "镖人升至全球武侠片票房亚军",
+        "onboard_time": 1773045262,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145706,
+        "num": 598659,
+        "word": "电视剧品质盛典",
+        "onboard_time": 1773027502,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448793,
+        "num": 592526,
+        "word": "美被迫中止军事行动的可能性上升",
+        "onboard_time": 1773044601,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54312,
+        "num": 585853,
+        "word": "霍启刚希望有湾超湾BA",
+        "onboard_time": 1773044421,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170484,
+        "num": 581915,
+        "word": "AI焦虑症",
+        "onboard_time": 1773044542,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109878,
+        "num": 574442,
+        "word": "华为Mate80销量国产第一",
+        "onboard_time": 1773039922,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102008,
+        "num": 566763,
+        "word": "镖人 全女版",
+        "onboard_time": 1773049221,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 724321,
+        "num": 562201,
+        "word": "被邻桌倒螺蛳粉汤女子发声",
+        "onboard_time": 1773049040,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559950,
+        "num": 559950,
+        "word": "日本部署远程导弹",
+        "onboard_time": 1773048141,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422293,
+        "num": 559739,
+        "word": "长玉大人开恩 谢征都杀喽",
+        "onboard_time": 1773047481,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391574,
+        "num": 550041,
+        "word": "林书豪爆科比私下性格",
+        "onboard_time": 1773046701,
+        "rank": 13,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 97546,
+        "num": 543991,
+        "word": "建议将8小时工作制缩短为7小时",
+        "onboard_time": 1773020660,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325048,
+        "num": 534019,
+        "word": "逐玉 肥肠面",
+        "onboard_time": 1773044902,
+        "rank": 15,
+        "category": "剧集,美食"
+      },
+      {
+        "raw_hot": 298049,
+        "num": 530231,
+        "word": "舍友睡了vs舍友醒了",
+        "onboard_time": 1773046582,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176806,
+        "num": 519714,
+        "word": "伊朗总统提醒邻国别被美以欺骗",
+        "onboard_time": 1773036380,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153314,
+        "num": 510463,
+        "word": "逐玉弹幕 恶语伤牛心",
+        "onboard_time": 1773040761,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84307,
+        "num": 504224,
+        "word": "敬妃带着胧月开网约车",
+        "onboard_time": 1773049941,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 502954,
+        "num": 502954,
+        "word": "肖战红毯等马",
+        "onboard_time": 1773047362,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238323,
+        "num": 502829,
+        "word": "张凯丽说天价彩礼不应归咎于女性",
+        "onboard_time": 1773039680,
+        "rank": 21,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 210720,
+        "num": 502494,
+        "word": "48岁中国女博导在埃及突然去世",
+        "onboard_time": 1773042321,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147657,
+        "num": 502164,
+        "word": "妈妈在被子上缝了一道线",
+        "onboard_time": 1773046222,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96654,
+        "num": 501745,
+        "word": "建议允许护士给患者开药",
+        "onboard_time": 1773047000,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193985,
+        "num": 501265,
+        "word": "大一到大四宿舍资产对比",
+        "onboard_time": 1773045142,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 128630,
+        "num": 500933,
+        "word": "终于有人把相亲的感受说清楚了",
+        "onboard_time": 1773042681,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114192,
+        "num": 500715,
+        "word": "重案六组 张一山李沐宸",
+        "onboard_time": 1773050181,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108310,
+        "num": 500185,
+        "word": "伊朗驻华大使回应霍尔木兹海峡问题",
+        "onboard_time": 1773045982,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81811,
+        "num": 499961,
+        "word": "中国女足vs朝鲜女足",
+        "onboard_time": 1773046280,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106544,
+        "num": 499616,
+        "word": "逐玉数据超狂飙为何遭群嘲",
+        "onboard_time": 1773044781,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103764,
+        "num": 499226,
+        "word": "我开始理解喜欢独自徒步爬山的人",
+        "onboard_time": 1773048380,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98615,
+        "num": 498919,
+        "word": "单依纯卖霉豆腐了",
+        "onboard_time": 1773044121,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95242,
+        "num": 498422,
+        "word": "孙千发了和王安宇合照",
+        "onboard_time": 1773030083,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78011,
+        "num": 498154,
+        "word": "国际油价暴涨",
+        "onboard_time": 1773047300,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90721,
+        "num": 497986,
+        "word": "白鹿出场动画",
+        "onboard_time": 1773045922,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83351,
+        "num": 497679,
+        "word": "逐玉",
+        "onboard_time": 1773013880,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77389,
+        "num": 497290,
+        "word": "Uzi杯官宣",
+        "onboard_time": 1773042202,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81992,
+        "num": 496886,
+        "word": "周深发了194个啊",
+        "onboard_time": 1773039861,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81226,
+        "num": 496564,
+        "word": "张婧仪 谁说演员不能看镜头",
+        "onboard_time": 1773045800,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21746,
+        "num": 496210,
+        "word": "辛芷蕾工作室 有效出图",
+        "onboard_time": 1773050364,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71111,
+        "num": 495722,
+        "word": "小米很快会推出L3L4驾驶",
+        "onboard_time": 1773047362,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 81010,
+        "num": 495432,
+        "word": "我家那小子",
+        "onboard_time": 1773045502,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80563,
+        "num": 494900,
+        "word": "杨紫王安宇合作",
+        "onboard_time": 1773035479,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38300,
+        "num": 494546,
+        "word": "今年修改教师法",
+        "onboard_time": 1773021081,
+        "rank": 44,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 74269,
+        "num": 494246,
+        "word": "田曦薇张凌赫 仇二代",
+        "onboard_time": 1773040100,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68536,
+        "num": 493946,
+        "word": "高考复读综艺",
+        "onboard_time": 1773048921,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67530,
+        "num": 493781,
+        "word": "全国统一的奶奶式擦脸手法",
+        "onboard_time": 1773048562,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67090,
+        "num": 493235,
+        "word": "刘亦菲抵达巴黎看秀",
+        "onboard_time": 1773044962,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66869,
+        "num": 492922,
+        "word": "伊朗驻华大使回应哈梅内伊之子当选",
+        "onboard_time": 1773038001,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记同代表委员话民生#"
+    }
+  }
+}
