@@ -1,6 +1,6 @@
 {
   "startTime": 1772987964652,
-  "endTime": 1773062370947,
+  "endTime": 1773063924308,
   "band_list": [
     {
       "raw_hot": 1451688,
@@ -17,6 +17,14 @@
       "onboard_time": 1772981482,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1289079,
+      "num": 487713,
+      "word": "腾讯视频 版本回调",
+      "onboard_time": 1773060861,
+      "rank": 12,
+      "category": "互联网,剧集"
     },
     {
       "raw_hot": 1252850,
@@ -147,8 +155,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 529684,
-      "num": 529684,
+      "raw_hot": 534897,
+      "num": 1085583,
+      "word": "13岁中国小孩哥夺得世界街舞冠军",
+      "onboard_time": 1773058761,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 533069,
+      "num": 533069,
       "word": "教师法",
       "onboard_time": 1773060081,
       "rank": 3,
@@ -195,14 +211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 463270,
-      "num": 463270,
-      "word": "腾讯视频 版本回调",
-      "onboard_time": 1773060861,
-      "rank": 12,
-      "category": "互联网,剧集"
-    },
-    {
       "raw_hot": 462507,
       "num": 276410,
       "word": "伊朗最高权力平稳过渡",
@@ -243,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 425811,
-      "num": 1068129,
-      "word": "13岁中国小孩哥夺得世界街舞冠军",
-      "onboard_time": 1773058761,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 422632,
       "num": 204606,
       "word": "金价上涨金条卖爆了",
@@ -283,6 +283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 393483,
+      "num": 393483,
+      "word": "腾讯近期因内容违规被罚",
+      "onboard_time": 1773059422,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 391574,
       "num": 613825,
       "word": "林书豪爆科比私下性格",
@@ -313,6 +321,14 @@
       "onboard_time": 1773025281,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 363360,
+      "num": 363360,
+      "word": "导演说郭晓婷王天辰不要在一起",
+      "onboard_time": 1773061402,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 334443,
@@ -513,14 +529,6 @@
       "onboard_time": 1773038001,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 249678,
-      "num": 330880,
-      "word": "导演说郭晓婷王天辰不要在一起",
-      "onboard_time": 1773061402,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 248788,
@@ -747,14 +755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 192993,
-      "num": 330383,
-      "word": "腾讯近期因内容违规被罚",
-      "onboard_time": 1773059422,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 191612,
       "num": 651010,
       "word": "终于有人把相亲的感受说清楚了",
@@ -769,6 +769,14 @@
       "onboard_time": 1773022101,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 189352,
+      "num": 288745,
+      "word": "胖东来12名店长共分2.4亿资产利润",
+      "onboard_time": 1773063622,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 186730,
@@ -851,6 +859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171507,
+      "num": 329092,
+      "word": "油价将上调加油站员工发声",
+      "onboard_time": 1773061702,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171067,
       "num": 171067,
       "word": "4岁女儿被诊断为男孩需选性别做手术",
@@ -873,6 +889,14 @@
       "onboard_time": 1773044542,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167067,
+      "num": 647686,
+      "word": "周深1天官宣8场演唱会",
+      "onboard_time": 1773052282,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 166866,
@@ -945,14 +969,6 @@
       "onboard_time": 1772983281,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156796,
-      "num": 647686,
-      "word": "周深1天官宣8场演唱会",
-      "onboard_time": 1773052282,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 156463,
@@ -1147,14 +1163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121888,
-      "num": 329092,
-      "word": "油价将上调加油站员工发声",
-      "onboard_time": 1773061702,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121645,
       "num": 328800,
       "word": "高至霆回应耿耿吴柏松he了",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1773056062,
       "rank": 26,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 118985,
+      "num": 287759,
+      "word": "逐玉热度",
+      "onboard_time": 1773063564,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 118893,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1773045982,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 107699,
+      "num": 500948,
+      "word": "99年女生读博时转行开全女维修公司",
+      "onboard_time": 1773061883,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107215,
@@ -1387,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98898,
+      "num": 494212,
+      "word": "91岁女儿受委屈向113岁妈妈哭诉",
+      "onboard_time": 1773063622,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98382,
       "num": 699137,
       "word": "建议中小学周边禁设台球厅",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1773020721,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94156,
+      "num": 326455,
+      "word": "脾堵不堵一个动作自测",
+      "onboard_time": 1773060142,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94104,
@@ -1507,7 +1547,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 89516,
+      "raw_hot": 90369,
       "num": 326807,
       "word": "青岛女子回应十几万黄金藏冰箱冷冻",
       "onboard_time": 1773058702,
@@ -1619,6 +1659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86043,
+      "num": 435095,
+      "word": "91岁还能和妈妈撒娇是什么体验",
+      "onboard_time": 1773061283,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85018,
       "num": 326557,
       "word": "宁德时代2025年净利润722亿元",
@@ -1657,14 +1705,6 @@
       "onboard_time": 1772975062,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82240,
-      "num": 326455,
-      "word": "脾堵不堵一个动作自测",
-      "onboard_time": 1773060142,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 81279,
@@ -1739,6 +1779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78080,
+      "num": 324666,
+      "word": "我上班简直在乱摸鱼",
+      "onboard_time": 1773061582,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78011,
       "num": 498154,
       "word": "国际油价暴涨",
@@ -1755,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76324,
+      "num": 524476,
+      "word": "张伯礼说久坐不宜超过1小时",
+      "onboard_time": 1773061402,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76171,
       "num": 76171,
       "word": "严惩以婚嫁为名实施诈骗",
@@ -1769,6 +1825,14 @@
       "onboard_time": 1773040222,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75459,
+      "num": 325300,
+      "word": "王者荣耀打击代练上分",
+      "onboard_time": 1773059962,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 75359,
@@ -1843,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71830,
+      "num": 285526,
+      "word": "卢昱晓 拿到了金灿灿的苹果",
+      "onboard_time": 1773063382,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71111,
       "num": 495722,
       "word": "小米很快会推出L3L4驾驶",
@@ -1865,14 +1937,6 @@
       "onboard_time": 1773012138,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70403,
-      "num": 325300,
-      "word": "王者荣耀打击代练上分",
-      "onboard_time": 1773059962,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 70280,
@@ -1944,14 +2008,6 @@
       "word": "别轻易跟不熟的朋友去迪士尼",
       "onboard_time": 1773050542,
       "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 67069,
-      "num": 324666,
-      "word": "我上班简直在乱摸鱼",
-      "onboard_time": 1773061582,
-      "rank": 46,
       "category": "幽默"
     },
     {
@@ -2219,14 +2275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 47672,
-      "num": 524476,
-      "word": "张伯礼说久坐不宜超过1小时",
-      "onboard_time": 1773061402,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 47210,
       "num": 81477,
       "word": "很喜欢用嘿嘿这两个字",
@@ -2459,6 +2507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27424,
+      "num": 342227,
+      "word": "CELINE秀场细节满分",
+      "onboard_time": 1773063142,
+      "rank": 19,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 26449,
       "num": 496210,
       "word": "辛芷蕾工作室 有效出图",
@@ -2489,14 +2545,6 @@
       "onboard_time": 1773025941,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22096,
-      "num": 331300,
-      "word": "99年女生读博时转行开全女维修公司",
-      "onboard_time": 1773061883,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21173,
@@ -2569,6 +2617,22 @@
       "onboard_time": 1773047362,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7147,
+      "num": 634920,
+      "word": "报告里的民生温度热气腾腾",
+      "onboard_time": 1773063863,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 5664,
+      "num": 518494,
+      "word": "中国拥有全球规模最大的海运船队",
+      "onboard_time": 1773063863,
+      "rank": 6,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2580,6 +2644,9 @@
     },
     {
       "word": "#总书记同代表委员话民生#"
+    },
+    {
+      "word": "#两场团组活动一份民生关切#"
     }
   ]
 }
