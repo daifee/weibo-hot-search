@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773036353947,
+  "endTime": 1773038254934,
   "band_list": [
     {
       "raw_hot": 2136890,
@@ -299,6 +299,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 436888,
+      "num": 525597,
+      "word": "杨紫王安宇合作",
+      "onboard_time": 1773035479,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 428800,
       "num": 299602,
       "word": "田曦薇趴在张凌赫身上亲",
@@ -339,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 406832,
+      "num": 406832,
+      "word": "LOL",
+      "onboard_time": 1773036563,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 403979,
       "num": 740342,
       "word": "伊朗导弹袭击以色列机场",
@@ -369,14 +385,6 @@
       "onboard_time": 1772942422,
       "rank": 10,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 388448,
-      "num": 525597,
-      "word": "杨紫王安宇合作",
-      "onboard_time": 1773035479,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 373979,
@@ -859,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230210,
+      "num": 475526,
+      "word": "玫瑰丛生0热度战报图",
+      "onboard_time": 1773033142,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226693,
       "num": 226693,
       "word": "去动物园竟被猴子投喂苹果",
@@ -881,6 +897,14 @@
       "onboard_time": 1772978481,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223803,
+      "num": 592881,
+      "word": "白岩松称很多年轻人没时间去爱",
+      "onboard_time": 1773032602,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220919,
@@ -931,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210393,
-      "num": 592881,
-      "word": "白岩松称很多年轻人没时间去爱",
-      "onboard_time": 1773032602,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208032,
       "num": 208032,
       "word": "全泰国最虔诚的鸭子",
@@ -976,6 +992,14 @@
       "word": "伊朗发起第28波攻势",
       "onboard_time": 1772973321,
       "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 195917,
+      "num": 195917,
+      "word": "伊朗总统提醒邻国别被美以欺骗",
+      "onboard_time": 1773036380,
+      "rank": 7,
       "category": "国际时政"
     },
     {
@@ -1017,14 +1041,6 @@
       "onboard_time": 1773021799,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 192117,
-      "num": 475526,
-      "word": "玫瑰丛生0热度战报图",
-      "onboard_time": 1773033142,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 191111,
@@ -1075,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177774,
+      "num": 546191,
+      "word": "周深官宣2026巡回演唱会",
+      "onboard_time": 1773035901,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177762,
       "num": 177762,
       "word": "玫瑰丛生",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1772976982,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173814,
+      "num": 427973,
+      "word": "西班牙人来中国一周后",
+      "onboard_time": 1773034281,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172963,
@@ -1259,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151039,
+      "num": 429562,
+      "word": "清华满绩学生路演被评答非所问",
+      "onboard_time": 1773035543,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148544,
       "num": 231565,
       "word": "年轻人为何排队疯抢AI龙虾",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1772948420,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137388,
-      "num": 427973,
-      "word": "西班牙人来中国一周后",
-      "onboard_time": 1773034281,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136222,
@@ -1529,14 +1561,6 @@
       "onboard_time": 1772949500,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 125542,
-      "num": 429562,
-      "word": "清华满绩学生路演被评答非所问",
-      "onboard_time": 1773035543,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 124704,
@@ -1803,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103401,
+      "num": 93363,
+      "word": "伊朗驻华大使回应哈梅内伊之子当选",
+      "onboard_time": 1773038001,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102719,
       "num": 426336,
       "word": "肖战共赴2026电视剧品质盛典",
@@ -1833,6 +1865,14 @@
       "onboard_time": 1773032003,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101541,
+      "num": 423327,
+      "word": "9旬母亲瘫痪5个子女赡养起争执",
+      "onboard_time": 1773036082,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100833,
@@ -2003,14 +2043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94833,
-      "num": 546191,
-      "word": "周深官宣2026巡回演唱会",
-      "onboard_time": 1773035901,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 94458,
       "num": 94458,
       "word": "王毅谈中美",
@@ -2025,6 +2057,14 @@
       "onboard_time": 1773031043,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93491,
+      "num": 422370,
+      "word": "檀健次尖叫之夜后台原声掉落",
+      "onboard_time": 1773035301,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 93306,
@@ -2075,12 +2115,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91936,
+      "num": 91936,
+      "word": "孙俪ELLE4月刊封面",
+      "onboard_time": 1773036982,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 91687,
       "num": 283860,
       "word": "建议70岁以上农村老人免缴医保",
       "onboard_time": 1772974641,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91432,
+      "num": 535059,
+      "word": "杨瀚森和队友联手缔造五佳球",
+      "onboard_time": 1773033262,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 91273,
@@ -2097,14 +2153,6 @@
       "onboard_time": 1773034582,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 90378,
-      "num": 423327,
-      "word": "9旬母亲瘫痪5个子女赡养起争执",
-      "onboard_time": 1773036082,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89582,
@@ -2187,14 +2235,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 88149,
-      "num": 535059,
-      "word": "杨瀚森和队友联手缔造五佳球",
-      "onboard_time": 1773033262,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88027,
       "num": 181559,
       "word": "林噙霜你的周娘子跟大娘子跑了",
@@ -2208,6 +2248,14 @@
       "word": "张凌赫谢征外甥随舅舅",
       "onboard_time": 1772926157,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86994,
+      "num": 91423,
+      "word": "赵晴新剧内娱稀有不缺爱女主",
+      "onboard_time": 1773037521,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -2337,14 +2385,6 @@
       "onboard_time": 1772979743,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 82043,
-      "num": 422370,
-      "word": "檀健次尖叫之夜后台原声掉落",
-      "onboard_time": 1773035301,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 81279,
@@ -2795,6 +2835,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 69037,
+      "num": 91400,
+      "word": "朝鲜女足vs中国女足",
+      "onboard_time": 1773036741,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68997,
       "num": 68997,
       "word": "WTT重庆冠军赛",
@@ -3107,6 +3155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61233,
+      "num": 91386,
+      "word": "第一次下厨把鸡蛋炒成了炭",
+      "onboard_time": 1773037341,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 61114,
       "num": 98084,
       "word": "猫 在哪里打呵欠就在哪里磨牙",
@@ -3305,6 +3361,14 @@
       "onboard_time": 1772952981,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52806,
+      "num": 91383,
+      "word": "老天爷收拾我的时候力度刚刚好",
+      "onboard_time": 1773038180,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 52515,
@@ -3609,6 +3673,14 @@
       "onboard_time": 1772894064,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40811,
+      "num": 91414,
+      "word": "白鹿素材够了就收工",
+      "onboard_time": 1773036380,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 40753,

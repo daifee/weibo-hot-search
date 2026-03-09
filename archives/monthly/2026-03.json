@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773036353947,
+  "endTime": 1773038254934,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -3147,6 +3147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436888,
+      "num": 525597,
+      "word": "杨紫王安宇合作",
+      "onboard_time": 1773035479,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 436764,
       "num": 326377,
       "word": "中方回应是否会对伊朗提供军事支持",
@@ -3491,6 +3499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 406832,
+      "num": 406832,
+      "word": "LOL",
+      "onboard_time": 1773036563,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 406218,
       "num": 302723,
       "word": "赵樱子直播关掉美颜",
@@ -3753,14 +3769,6 @@
       "onboard_time": 1772594245,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 388448,
-      "num": 525597,
-      "word": "杨紫王安宇合作",
-      "onboard_time": 1773035479,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 387596,
@@ -6619,6 +6627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 230210,
+      "num": 475526,
+      "word": "玫瑰丛生0热度战报图",
+      "onboard_time": 1773033142,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230201,
       "num": 403271,
       "word": "TTG对战AG",
@@ -6769,6 +6785,14 @@
       "onboard_time": 1772348723,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223803,
+      "num": 592881,
+      "word": "白岩松称很多年轻人没时间去爱",
+      "onboard_time": 1773032602,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223446,
@@ -7153,14 +7177,6 @@
       "onboard_time": 1772514444,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 210393,
-      "num": 592881,
-      "word": "白岩松称很多年轻人没时间去爱",
-      "onboard_time": 1773032602,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209907,
@@ -7563,6 +7579,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 195917,
+      "num": 195917,
+      "word": "伊朗总统提醒邻国别被美以欺骗",
+      "onboard_time": 1773036380,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 195775,
       "num": 195775,
       "word": "伊朗足协主席称很难期待世界杯了",
@@ -7713,14 +7737,6 @@
       "onboard_time": 1772433323,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 192117,
-      "num": 475526,
-      "word": "玫瑰丛生0热度战报图",
-      "onboard_time": 1773033142,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 191661,
@@ -8107,6 +8123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177774,
+      "num": 546191,
+      "word": "周深官宣2026巡回演唱会",
+      "onboard_time": 1773035901,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177762,
       "num": 507439,
       "word": "玫瑰丛生",
@@ -8249,6 +8273,14 @@
       "onboard_time": 1772532866,
       "rank": 32,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 173814,
+      "num": 427973,
+      "word": "西班牙人来中国一周后",
+      "onboard_time": 1773034281,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172963,
@@ -9363,6 +9395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151039,
+      "num": 429562,
+      "word": "清华满绩学生路演被评答非所问",
+      "onboard_time": 1773035543,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150697,
       "num": 150697,
       "word": "迪丽热巴全维语采访",
@@ -10203,14 +10243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137388,
-      "num": 427973,
-      "word": "西班牙人来中国一周后",
-      "onboard_time": 1773034281,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137381,
       "num": 137245,
       "word": "伊朗军方称总司令身体健康",
@@ -11025,14 +11057,6 @@
       "onboard_time": 1772949500,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 125542,
-      "num": 429562,
-      "word": "清华满绩学生路演被评答非所问",
-      "onboard_time": 1773035543,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 125319,
@@ -13035,6 +13059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103401,
+      "num": 93363,
+      "word": "伊朗驻华大使回应哈梅内伊之子当选",
+      "onboard_time": 1773038001,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103390,
       "num": 103390,
       "word": "建议别让家长替学校站岗",
@@ -13281,6 +13313,14 @@
       "onboard_time": 1773032003,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101541,
+      "num": 423327,
+      "word": "9旬母亲瘫痪5个子女赡养起争执",
+      "onboard_time": 1773036082,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101530,
@@ -14123,14 +14163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 94833,
-      "num": 546191,
-      "word": "周深官宣2026巡回演唱会",
-      "onboard_time": 1773035901,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 94818,
       "num": 298986,
       "word": "俱乐部通报郭艾伦伤情",
@@ -14289,6 +14321,14 @@
       "onboard_time": 1772866641,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93491,
+      "num": 422370,
+      "word": "檀健次尖叫之夜后台原声掉落",
+      "onboard_time": 1773035301,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 93462,
@@ -14563,6 +14603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91936,
+      "num": 91936,
+      "word": "孙俪ELLE4月刊封面",
+      "onboard_time": 1773036982,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 91909,
       "num": 212999,
       "word": "女子称新买LV羽绒服穿3小时掉色",
@@ -14633,6 +14681,14 @@
       "onboard_time": 1772458104,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 91432,
+      "num": 535059,
+      "word": "杨瀚森和队友联手缔造五佳球",
+      "onboard_time": 1773033262,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 91416,
@@ -14793,14 +14849,6 @@
       "onboard_time": 1773034582,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 90378,
-      "num": 423327,
-      "word": "9旬母亲瘫痪5个子女赡养起争执",
-      "onboard_time": 1773036082,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90331,
@@ -15067,14 +15115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88149,
-      "num": 535059,
-      "word": "杨瀚森和队友联手缔造五佳球",
-      "onboard_time": 1773033262,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88139,
       "num": 88139,
       "word": "中方说谈判之际美以袭击令人震惊",
@@ -15161,6 +15201,14 @@
       "onboard_time": 1772356343,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86994,
+      "num": 91423,
+      "word": "赵晴新剧内娱稀有不缺爱女主",
+      "onboard_time": 1773037521,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 86978,
@@ -15761,14 +15809,6 @@
       "onboard_time": 1772680943,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 82043,
-      "num": 422370,
-      "word": "檀健次尖叫之夜后台原声掉落",
-      "onboard_time": 1773035301,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 82036,
@@ -17531,6 +17571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69037,
+      "num": 91400,
+      "word": "朝鲜女足vs中国女足",
+      "onboard_time": 1773036741,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69019,
       "num": 69019,
       "word": "这大尾巴谁不想摸",
@@ -18499,6 +18547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 61233,
+      "num": 91386,
+      "word": "第一次下厨把鸡蛋炒成了炭",
+      "onboard_time": 1773037341,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 61189,
       "num": 239658,
       "word": "建议继续扩大免签国范围",
@@ -19113,6 +19169,14 @@
       "onboard_time": 1772952981,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52806,
+      "num": 91383,
+      "word": "老天爷收拾我的时候力度刚刚好",
+      "onboard_time": 1773038180,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 52697,
@@ -20097,6 +20161,14 @@
       "onboard_time": 1772611826,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 40811,
+      "num": 91414,
+      "word": "白鹿素材够了就收工",
+      "onboard_time": 1773036380,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 40753,

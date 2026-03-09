@@ -1,0 +1,410 @@
+{
+  "runTime": 1773038254934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 476636,
+        "num": 1076261,
+        "word": "李延贺煽动分裂国家破坏国家统一",
+        "onboard_time": 1773025460,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265664,
+        "num": 760527,
+        "word": "建议将8小时工作制缩短为7小时",
+        "onboard_time": 1773020660,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36165,
+        "num": 597823,
+        "word": "从基层一线走进人民殿堂",
+        "onboard_time": 1773030323,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 406832,
+        "num": 406832,
+        "word": "LOL",
+        "onboard_time": 1773036563,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 248472,
+        "num": 248472,
+        "word": "小哥AI换脸Kpop歌手一夜爆红",
+        "onboard_time": 1773030864,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240808,
+        "num": 240808,
+        "word": "怪不得古代能一眼认出刺客",
+        "onboard_time": 1773026842,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223803,
+        "num": 223803,
+        "word": "白岩松称很多年轻人没时间去爱",
+        "onboard_time": 1773032602,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195917,
+        "num": 195917,
+        "word": "伊朗总统提醒邻国别被美以欺骗",
+        "onboard_time": 1773036380,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180343,
+        "num": 180343,
+        "word": "今年修改教师法",
+        "onboard_time": 1773021081,
+        "rank": 8,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 177774,
+        "num": 177774,
+        "word": "周深官宣2026巡回演唱会",
+        "onboard_time": 1773035901,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 436888,
+        "num": 177170,
+        "word": "杨紫王安宇合作",
+        "onboard_time": 1773035479,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250273,
+        "num": 176213,
+        "word": "胖东来超8成员工拒绝降薪增假",
+        "onboard_time": 1773024320,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232656,
+        "num": 175598,
+        "word": "伊朗导弹突防能力拉满",
+        "onboard_time": 1773025281,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230210,
+        "num": 175026,
+        "word": "玫瑰丛生0热度战报图",
+        "onboard_time": 1773033142,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182474,
+        "num": 174455,
+        "word": "五字概括逐玉剧情",
+        "onboard_time": 1773027320,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173814,
+        "num": 173814,
+        "word": "西班牙人来中国一周后",
+        "onboard_time": 1773034281,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172997,
+        "num": 172997,
+        "word": "乳腺癌女子从腹部借回一对新乳房",
+        "onboard_time": 1773028640,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169511,
+        "num": 169511,
+        "word": "这不是弃养这是托孤",
+        "onboard_time": 1773031402,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139367,
+        "num": 166144,
+        "word": "逐玉",
+        "onboard_time": 1773013880,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112332,
+        "num": 163803,
+        "word": "建议处罚加班严重企业",
+        "onboard_time": 1773028943,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320294,
+        "num": 163615,
+        "word": "孙千发了和王安宇合照",
+        "onboard_time": 1773030083,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163419,
+        "num": 163419,
+        "word": "狂飙",
+        "onboard_time": 1772981482,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159716,
+        "num": 159716,
+        "word": "小狗在街上认出妈妈时的反应",
+        "onboard_time": 1773032242,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152462,
+        "num": 152462,
+        "word": "任豪用剑扶田曦薇腰这一下",
+        "onboard_time": 1773034163,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151039,
+        "num": 151039,
+        "word": "清华满绩学生路演被评答非所问",
+        "onboard_time": 1773035543,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111619,
+        "num": 111619,
+        "word": "杭州初二男生贴助长贴一年长高11厘米",
+        "onboard_time": 1773032003,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105653,
+        "num": 105653,
+        "word": "女子称自己有190斤只因脸小没人信",
+        "onboard_time": 1773022281,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103473,
+        "num": 103473,
+        "word": "张凌赫人生镜头",
+        "onboard_time": 1773025520,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101541,
+        "num": 101541,
+        "word": "9旬母亲瘫痪5个子女赡养起争执",
+        "onboard_time": 1773036082,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93491,
+        "num": 93491,
+        "word": "檀健次尖叫之夜后台原声掉落",
+        "onboard_time": 1773035301,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103401,
+        "num": 93363,
+        "word": "伊朗驻华大使回应哈梅内伊之子当选",
+        "onboard_time": 1773038001,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91936,
+        "num": 91936,
+        "word": "孙俪ELLE4月刊封面",
+        "onboard_time": 1773036982,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 91432,
+        "num": 91432,
+        "word": "杨瀚森和队友联手缔造五佳球",
+        "onboard_time": 1773033262,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87861,
+        "num": 91429,
+        "word": "4种无效早睡没比熬夜强多少",
+        "onboard_time": 1773022101,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87563,
+        "num": 91429,
+        "word": "伊朗确认军舰遭美军击沉致104人死亡",
+        "onboard_time": 1773017180,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86994,
+        "num": 91423,
+        "word": "赵晴新剧内娱稀有不缺爱女主",
+        "onboard_time": 1773037521,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85780,
+        "num": 91423,
+        "word": "黄金品牌涨价50克金手镯贵了5万元",
+        "onboard_time": 1773034582,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83884,
+        "num": 91420,
+        "word": "哈梅内伊之子接任最高领袖",
+        "onboard_time": 1773012439,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79557,
+        "num": 91417,
+        "word": "谭松韵红包剧宣",
+        "onboard_time": 1773035781,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40811,
+        "num": 91414,
+        "word": "白鹿素材够了就收工",
+        "onboard_time": 1773036380,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70333,
+        "num": 91408,
+        "word": "一诺无偿给JDG复盘教学",
+        "onboard_time": 1773030741,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70969,
+        "num": 91405,
+        "word": "电视剧品质盛典",
+        "onboard_time": 1773027502,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70114,
+        "num": 91404,
+        "word": "董晴接档董晴",
+        "onboard_time": 1773033322,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69037,
+        "num": 91400,
+        "word": "朝鲜女足vs中国女足",
+        "onboard_time": 1773036741,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68230,
+        "num": 91399,
+        "word": "黄金白银盘中突然跳水",
+        "onboard_time": 1773033502,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63022,
+        "num": 91395,
+        "word": "沉迷AI的中年领导",
+        "onboard_time": 1773035781,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62488,
+        "num": 91391,
+        "word": "白鹿首登电视剧品质盛典",
+        "onboard_time": 1773032242,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61673,
+        "num": 91387,
+        "word": "周杰伦温州",
+        "onboard_time": 1773025341,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61233,
+        "num": 91386,
+        "word": "第一次下厨把鸡蛋炒成了炭",
+        "onboard_time": 1773037341,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 52806,
+        "num": 91383,
+        "word": "老天爷收拾我的时候力度刚刚好",
+        "onboard_time": 1773038180,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
