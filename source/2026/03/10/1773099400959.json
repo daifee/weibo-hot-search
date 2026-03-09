@@ -1,0 +1,410 @@
+{
+  "runTime": 1773099400959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 172730,
+        "num": 837636,
+        "word": "13岁中国小孩哥夺得世界街舞冠军",
+        "onboard_time": 1773058761,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44554,
+        "num": 608043,
+        "word": "农业农村部部长建议大家少吃点油",
+        "onboard_time": 1773045622,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22701,
+        "num": 470192,
+        "word": "2026这些区域将迎发展",
+        "onboard_time": 1773064283,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220510,
+        "num": 449045,
+        "word": "巴黎时装周",
+        "onboard_time": 1773072500,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 18956,
+        "num": 439037,
+        "word": "最高法成绩单新亮点",
+        "onboard_time": 1773098659,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 542373,
+        "num": 422080,
+        "word": "美军精锐部队突然异动",
+        "onboard_time": 1773067163,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184671,
+        "num": 403497,
+        "word": "镖人",
+        "onboard_time": 1773081615,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149307,
+        "num": 364625,
+        "word": "华裔选手称谷爱凌有权代表中国出战",
+        "onboard_time": 1773067403,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121611,
+        "num": 355581,
+        "word": "教师法",
+        "onboard_time": 1773060081,
+        "rank": 8,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 28033,
+        "num": 332669,
+        "word": "委员谈如何提高居民财产收入",
+        "onboard_time": 1773098478,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 315428,
+        "num": 315428,
+        "word": "肖战SMG视帝",
+        "onboard_time": 1773070582,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 6097,
+        "num": 279009,
+        "word": "两会关注的前沿科技",
+        "onboard_time": 1773099022,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278441,
+        "num": 278441,
+        "word": "1亿美元委内瑞拉黄金运抵美国",
+        "onboard_time": 1773064705,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235016,
+        "num": 235016,
+        "word": "伊朗重型导弹打击美以目标",
+        "onboard_time": 1773076096,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178760,
+        "num": 178760,
+        "word": "胖东来12名店长共分2.4亿资产利润",
+        "onboard_time": 1773063622,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 278487,
+        "num": 162824,
+        "word": "肖战孙俪 郑晓龙的一双儿女",
+        "onboard_time": 1773057022,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141412,
+        "num": 141412,
+        "word": "千万不要在洗澡时做人脸认证",
+        "onboard_time": 1773052102,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 114731,
+        "num": 114731,
+        "word": "91岁女儿受委屈向113岁妈妈哭诉",
+        "onboard_time": 1773063622,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69607,
+        "num": 114716,
+        "word": "华裔花滑选手称批评谷爱凌的人虚伪",
+        "onboard_time": 1773068064,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166602,
+        "num": 111502,
+        "word": "孙俪SMG视后",
+        "onboard_time": 1773070701,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460585,
+        "num": 110561,
+        "word": "医生提醒不要模仿Ella真空腹",
+        "onboard_time": 1773098059,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207805,
+        "num": 109517,
+        "word": "小孩打针视频外网播放破两千万",
+        "onboard_time": 1773098237,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417906,
+        "num": 107175,
+        "word": "张艺兴处于术后康复阶段",
+        "onboard_time": 1773067823,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68780,
+        "num": 105804,
+        "word": "逐玉热度",
+        "onboard_time": 1773063564,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178601,
+        "num": 103091,
+        "word": "伊朗警告油价或超200美元",
+        "onboard_time": 1773066443,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171570,
+        "num": 102056,
+        "word": "卢昱晓走红毯忘记把暖宝宝拿下来了",
+        "onboard_time": 1773067642,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100945,
+        "num": 100945,
+        "word": "6个月宝宝吃辅食被香得一激灵",
+        "onboard_time": 1773098118,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99109,
+        "num": 99109,
+        "word": "伊朗新领袖释放强硬信号",
+        "onboard_time": 1773098718,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68661,
+        "num": 96095,
+        "word": "白鹿别把白敬亭扇感冒了",
+        "onboard_time": 1773056002,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95496,
+        "num": 95496,
+        "word": "苹果首款折叠机要来了",
+        "onboard_time": 1773064763,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 225308,
+        "num": 94906,
+        "word": "国家队教练教你快速瘦肚子的方法",
+        "onboard_time": 1773098059,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 193329,
+        "num": 94389,
+        "word": "在韩剧里看中国人演中国人",
+        "onboard_time": 1773098538,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112239,
+        "num": 93946,
+        "word": "普京特朗普再通话",
+        "onboard_time": 1773099022,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92406,
+        "num": 92406,
+        "word": "哥伦比亚女子滑滑梯猛烈撞墙后身亡",
+        "onboard_time": 1773071181,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83505,
+        "num": 83505,
+        "word": "日本或陷入无油可用困境",
+        "onboard_time": 1773069503,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79300,
+        "num": 79300,
+        "word": "油价将上调加油站员工发声",
+        "onboard_time": 1773061702,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67587,
+        "num": 67587,
+        "word": "杨超越 中国有自己的张元英",
+        "onboard_time": 1773056540,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81563,
+        "num": 65376,
+        "word": "伊朗发起第32波打击",
+        "onboard_time": 1773098359,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69877,
+        "num": 64379,
+        "word": "张艺兴工作室声明",
+        "onboard_time": 1773066323,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62198,
+        "num": 62198,
+        "word": "韩国很火的狗布奇诺",
+        "onboard_time": 1773098299,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56735,
+        "num": 56735,
+        "word": "王一博出席香奈儿秀场",
+        "onboard_time": 1773098959,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54272,
+        "num": 54272,
+        "word": "伊朗强调侵略持续就不谈停火",
+        "onboard_time": 1773077295,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53191,
+        "num": 53191,
+        "word": "脾堵不堵一个动作自测",
+        "onboard_time": 1773060142,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48605,
+        "num": 48605,
+        "word": "章若楠说王安宇长得好戏也好",
+        "onboard_time": 1773081494,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48165,
+        "num": 48165,
+        "word": "香奈儿大秀",
+        "onboard_time": 1773099022,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 45958,
+        "num": 45958,
+        "word": "重案六组 张一山李沐宸",
+        "onboard_time": 1773050181,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45139,
+        "num": 45139,
+        "word": "导演说郭晓婷王天辰不要在一起",
+        "onboard_time": 1773061402,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45103,
+        "num": 45103,
+        "word": "代表建议升级育儿补贴",
+        "onboard_time": 1773099079,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41521,
+        "num": 45046,
+        "word": "中国拥有全球规模最大的海运船队",
+        "onboard_time": 1773063863,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38738,
+        "num": 44970,
+        "word": "男子全网寻恩人还8年前借的1000元",
+        "onboard_time": 1773073039,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两场团组活动一份民生关切#"
+    }
+  }
+}
