@@ -1,0 +1,410 @@
+{
+  "runTime": 1773042914169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 286731,
+        "num": 1045877,
+        "word": "李延贺煽动分裂国家破坏国家统一",
+        "onboard_time": 1773025460,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180405,
+        "num": 732738,
+        "word": "建议将8小时工作制缩短为7小时",
+        "onboard_time": 1773020660,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36745,
+        "num": 617588,
+        "word": "从基层一线走进人民殿堂",
+        "onboard_time": 1773030323,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222302,
+        "num": 370007,
+        "word": "华为Mate80销量国产第一",
+        "onboard_time": 1773039922,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132093,
+        "num": 275998,
+        "word": "电视剧品质盛典",
+        "onboard_time": 1773027502,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258158,
+        "num": 258158,
+        "word": "伊朗总统提醒邻国别被美以欺骗",
+        "onboard_time": 1773036380,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252619,
+        "num": 252619,
+        "word": "真人版神庙逃亡",
+        "onboard_time": 1773039261,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132290,
+        "num": 252188,
+        "word": "苹果回应Macmini断货",
+        "onboard_time": 1773041002,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122612,
+        "num": 250023,
+        "word": "今年修改教师法",
+        "onboard_time": 1773021081,
+        "rank": 8,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 110381,
+        "num": 246966,
+        "word": "杭州初二男生贴助长贴一年长高11厘米",
+        "onboard_time": 1773032003,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 939571,
+        "num": 245609,
+        "word": "张凯丽说天价彩礼不应归咎于女性",
+        "onboard_time": 1773039680,
+        "rank": 10,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 420534,
+        "num": 243515,
+        "word": "田曦薇张凌赫 仇二代",
+        "onboard_time": 1773040100,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242357,
+        "num": 242357,
+        "word": "曝美不满以袭击伊朗燃料存储设施",
+        "onboard_time": 1773038242,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222719,
+        "num": 222719,
+        "word": "离职的红利终于让我吃上了",
+        "onboard_time": 1773041363,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214397,
+        "num": 214397,
+        "word": "逐玉弹幕 恶语伤牛心",
+        "onboard_time": 1773040761,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208611,
+        "num": 208611,
+        "word": "杨紫王安宇合作",
+        "onboard_time": 1773035479,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186313,
+        "num": 186313,
+        "word": "LOL",
+        "onboard_time": 1773036563,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 298717,
+        "num": 175792,
+        "word": "田曦薇新剧中杀的是金华两头乌",
+        "onboard_time": 1773038600,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158951,
+        "num": 158951,
+        "word": "胖东来超8成员工拒绝降薪增假",
+        "onboard_time": 1773024320,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141432,
+        "num": 158940,
+        "word": "周深发了194个啊",
+        "onboard_time": 1773039861,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230535,
+        "num": 158922,
+        "word": "伊朗驻华大使回应哈梅内伊之子当选",
+        "onboard_time": 1773038001,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198081,
+        "num": 158911,
+        "word": "孙千发了和王安宇合照",
+        "onboard_time": 1773030083,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170600,
+        "num": 158907,
+        "word": "你是孙俪那她是谁",
+        "onboard_time": 1773040222,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133073,
+        "num": 158889,
+        "word": "怪不得古代能一眼认出刺客",
+        "onboard_time": 1773026842,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158879,
+        "num": 158879,
+        "word": "00后已经不认识吴彦祖了",
+        "onboard_time": 1773041002,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101875,
+        "num": 158677,
+        "word": "乳腺癌女子从腹部借回一对新乳房",
+        "onboard_time": 1773028640,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101173,
+        "num": 158161,
+        "word": "逐玉",
+        "onboard_time": 1773013880,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96434,
+        "num": 157932,
+        "word": "品质盛典红毯直播",
+        "onboard_time": 1773041721,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83513,
+        "num": 157193,
+        "word": "威少0失误三双",
+        "onboard_time": 1773042202,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75466,
+        "num": 156967,
+        "word": "男子结婚17年逢年过节就买黄金宠妻",
+        "onboard_time": 1773040222,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156661,
+        "num": 156661,
+        "word": "48岁中国女博导在埃及突然去世",
+        "onboard_time": 1773042321,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155464,
+        "num": 155464,
+        "word": "Uzi杯官宣",
+        "onboard_time": 1773042202,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142431,
+        "num": 142431,
+        "word": "高盐高糖高脂肪全齐了",
+        "onboard_time": 1773041780,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108542,
+        "num": 142426,
+        "word": "终于有人把相亲的感受说清楚了",
+        "onboard_time": 1773042681,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93592,
+        "num": 142418,
+        "word": "狂飙",
+        "onboard_time": 1772981482,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90915,
+        "num": 142417,
+        "word": "小狗在街上认出妈妈时的反应",
+        "onboard_time": 1773032242,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88873,
+        "num": 142410,
+        "word": "小哥AI换脸Kpop歌手一夜爆红",
+        "onboard_time": 1773030864,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81953,
+        "num": 142400,
+        "word": "清华满绩学生路演被评答非所问",
+        "onboard_time": 1773035543,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72105,
+        "num": 142397,
+        "word": "大学生绝对不能碰的7条红线",
+        "onboard_time": 1773040100,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32001,
+        "num": 142387,
+        "word": "赵晴新剧内娱稀有不缺爱女主",
+        "onboard_time": 1773037521,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81801,
+        "num": 142378,
+        "word": "张凌赫人生镜头",
+        "onboard_time": 1773025520,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80702,
+        "num": 142377,
+        "word": "代表说越是贫穷的地方彩礼越高",
+        "onboard_time": 1773040761,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79995,
+        "num": 142366,
+        "word": "夏之光妈妈好像杨迪梦女",
+        "onboard_time": 1773039261,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79922,
+        "num": 142360,
+        "word": "西班牙人来中国一周后",
+        "onboard_time": 1773034281,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78209,
+        "num": 142351,
+        "word": "玫瑰丛生0热度战报图",
+        "onboard_time": 1773033142,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77514,
+        "num": 142344,
+        "word": "岳雨婷去巴黎 带戏服",
+        "onboard_time": 1773041901,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70280,
+        "num": 142342,
+        "word": "孙中山后人称祖国统一势在必然",
+        "onboard_time": 1773039861,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65908,
+        "num": 142336,
+        "word": "4种无效早睡没比熬夜强多少",
+        "onboard_time": 1773022101,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65757,
+        "num": 142326,
+        "word": "伊朗导弹突防能力拉满",
+        "onboard_time": 1773025281,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56164,
+        "num": 142317,
+        "word": "朝鲜女足vs中国女足",
+        "onboard_time": 1773036741,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
