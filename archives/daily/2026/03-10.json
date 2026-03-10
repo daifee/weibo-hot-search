@@ -1,6 +1,6 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773129110240,
+  "endTime": 1773129682865,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -27,6 +27,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1695263,
+      "num": 462894,
+      "word": "ZB1解散",
+      "onboard_time": 1773128545,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1094160,
+      "num": 519801,
+      "word": "伊朗提出停火条件",
+      "onboard_time": 1773129145,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1062794,
       "num": 859690,
       "word": "Ella送别袁惟仁哭到抽搐",
@@ -40,14 +56,6 @@
       "word": "李羲承 ENHYPEN",
       "onboard_time": 1773126921,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 914972,
-      "num": 462894,
-      "word": "ZB1解散",
-      "onboard_time": 1773128545,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1773114742,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 786082,
+      "num": 429681,
+      "word": "七人男团魔咒",
+      "onboard_time": 1773128545,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 777263,
@@ -235,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366689,
-      "num": 429681,
-      "word": "七人男团魔咒",
-      "onboard_time": 1773128545,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 379093,
+      "num": 451449,
+      "word": "黄金不再保值了吗",
+      "onboard_time": 1773127825,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 361342,
@@ -323,6 +339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 309190,
+      "num": 422465,
+      "word": "50岁大姐睡觉时粉碎性骨折",
+      "onboard_time": 1773127825,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306208,
       "num": 1047265,
       "word": "代表说儿子告诉他千万不要爹味太浓",
@@ -337,14 +361,6 @@
       "onboard_time": 1773115761,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 299415,
-      "num": 451449,
-      "word": "黄金不再保值了吗",
-      "onboard_time": 1773127825,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 294000,
@@ -387,12 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256875,
-      "num": 422465,
-      "word": "50岁大姐睡觉时粉碎性骨折",
-      "onboard_time": 1773127825,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 245653,
+      "num": 572542,
+      "word": "手机集体涨价原因",
+      "onboard_time": 1773127884,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 245331,
@@ -587,14 +603,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 179633,
-      "num": 541767,
-      "word": "手机集体涨价原因",
-      "onboard_time": 1773127884,
-      "rank": 5,
-      "category": "数码"
-    },
-    {
       "raw_hot": 174254,
       "num": 856739,
       "word": "周深 合同签了吗",
@@ -657,6 +665,14 @@
       "onboard_time": 1773109100,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 151968,
+      "num": 378692,
+      "word": "大藤沙月回应首胜王曼昱",
+      "onboard_time": 1773129145,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 150859,
@@ -795,20 +811,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 124941,
+      "num": 474664,
+      "word": "给男朋友用特效化妆",
+      "onboard_time": 1773128905,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123610,
       "num": 856688,
       "word": "林书豪说蒲熠星长得好漂亮",
       "onboard_time": 1773114262,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123512,
-      "num": 474664,
-      "word": "给男朋友用特效化妆",
-      "onboard_time": 1773128905,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 123031,
@@ -915,6 +931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104675,
+      "num": 377833,
+      "word": "朴成训 门面",
+      "onboard_time": 1773129446,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104321,
       "num": 220651,
       "word": "6个月宝宝吃辅食被香得一激灵",
@@ -939,12 +963,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100995,
+      "raw_hot": 101437,
       "num": 589504,
       "word": "生命树",
       "onboard_time": 1773125300,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101019,
+      "num": 378153,
+      "word": "伊朗驻华大使称美以必须离开",
+      "onboard_time": 1773129266,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 99675,
+      "num": 418144,
+      "word": "150层酥皮连切30多刀雕出松鼠",
+      "onboard_time": 1773127524,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99592,
@@ -963,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97295,
+      "num": 377909,
+      "word": "周雨说王曼昱今天状态不佳",
+      "onboard_time": 1773129387,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96728,
       "num": 400551,
       "word": "王曼昱爆冷后摇头",
@@ -977,14 +1025,6 @@
       "onboard_time": 1773127224,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 95723,
-      "num": 418144,
-      "word": "150层酥皮连切30多刀雕出松鼠",
-      "onboard_time": 1773127524,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95029,
@@ -1059,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88462,
+      "num": 583275,
+      "word": "我是小鸟胃 品种不同罢了",
+      "onboard_time": 1773126442,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87988,
       "num": 590532,
       "word": "王曼昱止步重庆冠军赛首轮",
@@ -1129,14 +1177,6 @@
       "onboard_time": 1773110182,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80295,
-      "num": 583275,
-      "word": "我是小鸟胃 品种不同罢了",
-      "onboard_time": 1773126442,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 80266,
@@ -1299,6 +1339,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 64149,
+      "num": 400289,
+      "word": "国家开始挂念你的腰围了",
+      "onboard_time": 1773127284,
+      "rank": 43,
+      "category": "国内时政,健康医疗"
+    },
+    {
       "raw_hot": 64049,
       "num": 779114,
       "word": "OpenClaw 用户隐私",
@@ -1323,6 +1371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62262,
+      "num": 400398,
+      "word": "张钧甯谷爱凌王一博互让C位",
+      "onboard_time": 1773129085,
+      "rank": 40,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 62198,
       "num": 62198,
       "word": "韩国很火的狗布奇诺",
@@ -1339,6 +1395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61496,
+      "num": 601802,
+      "word": "中传回应砍掉16个专业",
+      "onboard_time": 1773126023,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 61302,
       "num": 612928,
       "word": "建议餐馆标明预制菜让顾客自己选",
@@ -1353,14 +1417,6 @@
       "onboard_time": 1773117140,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 60141,
-      "num": 601802,
-      "word": "中传回应砍掉16个专业",
-      "onboard_time": 1773126023,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 59248,
@@ -1393,14 +1449,6 @@
       "onboard_time": 1773045622,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 56356,
-      "num": 400289,
-      "word": "国家开始挂念你的腰围了",
-      "onboard_time": 1773127284,
-      "rank": 43,
-      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 55781,
@@ -1441,14 +1489,6 @@
       "onboard_time": 1773106820,
       "rank": 48,
       "category": "艺人,国内时政"
-    },
-    {
-      "raw_hot": 54109,
-      "num": 400398,
-      "word": "张钧甯谷爱凌王一博互让C位",
-      "onboard_time": 1773129085,
-      "rank": 40,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 53191,

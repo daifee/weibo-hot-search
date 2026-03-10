@@ -1,0 +1,410 @@
+{
+  "runTime": 1773129682865,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 136274,
+        "num": 1021803,
+        "word": "6G网要来了",
+        "onboard_time": 1773102801,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128593,
+        "num": 744344,
+        "word": "建议小学三年级前课间半小时",
+        "onboard_time": 1773112462,
+        "rank": 1,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 19912,
+        "num": 591684,
+        "word": "两会声音传递法治力度民生温度",
+        "onboard_time": 1773113841,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 363358,
+        "num": 584416,
+        "word": "王曼昱0比3大藤沙月",
+        "onboard_time": 1773123922,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341540,
+        "num": 579763,
+        "word": "王曼昱爆冷",
+        "onboard_time": 1773124342,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245653,
+        "num": 572542,
+        "word": "手机集体涨价原因",
+        "onboard_time": 1773127884,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101437,
+        "num": 555648,
+        "word": "生命树",
+        "onboard_time": 1773125300,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98323,
+        "num": 546174,
+        "word": "董晴一部一个有效出演",
+        "onboard_time": 1773125180,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26052,
+        "num": 538654,
+        "word": "制造业升级的超级红包来了",
+        "onboard_time": 1773113662,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61496,
+        "num": 532391,
+        "word": "中传回应砍掉16个专业",
+        "onboard_time": 1773126023,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1094160,
+        "num": 519801,
+        "word": "伊朗提出停火条件",
+        "onboard_time": 1773129145,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 377909,
+        "num": 509458,
+        "word": "张凌赫回应天涯四美已合作两美",
+        "onboard_time": 1773122721,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507612,
+        "num": 507612,
+        "word": "美国开始甩锅了",
+        "onboard_time": 1773114742,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364760,
+        "num": 504277,
+        "word": "香蕉有可能会灭绝",
+        "onboard_time": 1773113601,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304802,
+        "num": 496747,
+        "word": "姑姑你明天没法上学了",
+        "onboard_time": 1773123802,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292987,
+        "num": 488247,
+        "word": "长宁是未来皇后",
+        "onboard_time": 1773126622,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244221,
+        "num": 477491,
+        "word": "肖战 黄金时代",
+        "onboard_time": 1773125121,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151048,
+        "num": 464112,
+        "word": "代表说儿子告诉他千万不要爹味太浓",
+        "onboard_time": 1773113962,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140124,
+        "num": 457926,
+        "word": "OPPO涨价",
+        "onboard_time": 1773112161,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124941,
+        "num": 445545,
+        "word": "给男朋友用特效化妆",
+        "onboard_time": 1773128905,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13869308,
+        "num": 13869308,
+        "word": "李羲承退队",
+        "onboard_time": 1773126921,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4358274,
+        "num": 421539,
+        "word": "JYP从JYP辞职了",
+        "onboard_time": 1773128484,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421444,
+        "num": 421444,
+        "word": "美军急调韩国萨德系统部署中东",
+        "onboard_time": 1773122841,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1695263,
+        "num": 419363,
+        "word": "ZB1解散",
+        "onboard_time": 1773128545,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786082,
+        "num": 417556,
+        "word": "七人男团魔咒",
+        "onboard_time": 1773128545,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415381,
+        "num": 415381,
+        "word": "德黑兰降黑雨",
+        "onboard_time": 1773126081,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 735316,
+        "num": 408494,
+        "word": "李羲承 ENHYPEN",
+        "onboard_time": 1773126921,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379093,
+        "num": 379093,
+        "word": "黄金不再保值了吗",
+        "onboard_time": 1773127825,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99675,
+        "num": 379073,
+        "word": "150层酥皮连切30多刀雕出松鼠",
+        "onboard_time": 1773127524,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92735,
+        "num": 378953,
+        "word": "王曼昱爆冷后摇头",
+        "onboard_time": 1773129085,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309190,
+        "num": 378907,
+        "word": "50岁大姐睡觉时粉碎性骨折",
+        "onboard_time": 1773127825,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226853,
+        "num": 378817,
+        "word": "白日提灯",
+        "onboard_time": 1773123381,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203875,
+        "num": 378727,
+        "word": "朴振英 JYP",
+        "onboard_time": 1773128545,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151968,
+        "num": 378692,
+        "word": "大藤沙月回应首胜王曼昱",
+        "onboard_time": 1773129145,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186913,
+        "num": 378635,
+        "word": "袁惟仁丧葬费用均由圈内好友支付",
+        "onboard_time": 1773127102,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48085,
+        "num": 378493,
+        "word": "汪苏泷新专辑明日世界",
+        "onboard_time": 1773124161,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111461,
+        "num": 378479,
+        "word": "终于有人把化橘红说清楚了",
+        "onboard_time": 1773124760,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141383,
+        "num": 378384,
+        "word": "2026白玉兰预测",
+        "onboard_time": 1773119062,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131853,
+        "num": 378334,
+        "word": "ENHYPEN将以六人组活动",
+        "onboard_time": 1773127464,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62262,
+        "num": 378212,
+        "word": "张钧甯谷爱凌王一博互让C位",
+        "onboard_time": 1773129085,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 101019,
+        "num": 378153,
+        "word": "伊朗驻华大使称美以必须离开",
+        "onboard_time": 1773129266,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183594,
+        "num": 378079,
+        "word": "Ella送别袁惟仁哭到抽搐",
+        "onboard_time": 1773115342,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110619,
+        "num": 378016,
+        "word": "张凌赫像是在横店待疯了",
+        "onboard_time": 1773120441,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97295,
+        "num": 377909,
+        "word": "周雨说王曼昱今天状态不佳",
+        "onboard_time": 1773129387,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104675,
+        "num": 377833,
+        "word": "朴成训 门面",
+        "onboard_time": 1773129446,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94934,
+        "num": 377746,
+        "word": "青3创4门面同框今夕是何年",
+        "onboard_time": 1773120199,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93018,
+        "num": 377678,
+        "word": "我国约2.2亿人听力有问题",
+        "onboard_time": 1773127224,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92921,
+        "num": 377585,
+        "word": "经纪公司否认张娜拉去世",
+        "onboard_time": 1773111261,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88462,
+        "num": 377545,
+        "word": "我是小鸟胃 品种不同罢了",
+        "onboard_time": 1773126442,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64149,
+        "num": 377507,
+        "word": "国家开始挂念你的腰围了",
+        "onboard_time": 1773127284,
+        "rank": 49,
+        "category": "国内时政,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#为了中华民族永续发展#"
+    }
+  }
+}
