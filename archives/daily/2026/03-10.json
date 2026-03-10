@@ -1,7 +1,23 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773126863627,
+  "endTime": 1773129110240,
   "band_list": [
+    {
+      "raw_hot": 14888503,
+      "num": 14888503,
+      "word": "李羲承退队",
+      "onboard_time": 1773126921,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4682490,
+      "num": 473264,
+      "word": "JYP从JYP辞职了",
+      "onboard_time": 1773128484,
+      "rank": 23,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2807648,
       "num": 861131,
@@ -16,6 +32,22 @@
       "word": "Ella送别袁惟仁哭到抽搐",
       "onboard_time": 1773115342,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 922479,
+      "num": 440459,
+      "word": "李羲承 ENHYPEN",
+      "onboard_time": 1773126921,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 914972,
+      "num": 462894,
+      "word": "ZB1解散",
+      "onboard_time": 1773128545,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -147,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 473963,
+      "num": 596929,
+      "word": "德黑兰降黑雨",
+      "onboard_time": 1773126081,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 468885,
       "num": 860594,
       "word": "OPPO涨价",
@@ -184,6 +224,22 @@
       "word": "张艺兴工作室声明",
       "onboard_time": 1773066323,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 400738,
+      "num": 400738,
+      "word": "朴振英 JYP",
+      "onboard_time": 1773128545,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 366689,
+      "num": 429681,
+      "word": "七人男团魔咒",
+      "onboard_time": 1773128545,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -283,6 +339,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 299415,
+      "num": 451449,
+      "word": "黄金不再保值了吗",
+      "onboard_time": 1773127825,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 294000,
+      "num": 588141,
+      "word": "长宁是未来皇后",
+      "onboard_time": 1773126622,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287675,
       "num": 878301,
       "word": "2026白玉兰预测",
@@ -305,6 +377,22 @@
       "onboard_time": 1773099022,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 259991,
+      "num": 604923,
+      "word": "肖战 黄金时代",
+      "onboard_time": 1773125121,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256875,
+      "num": 422465,
+      "word": "50岁大姐睡觉时粉碎性骨折",
+      "onboard_time": 1773127825,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245331,
@@ -361,14 +449,6 @@
       "onboard_time": 1773098059,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 225164,
-      "num": 604923,
-      "word": "肖战 黄金时代",
-      "onboard_time": 1773125121,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 224780,
@@ -467,6 +547,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 200841,
+      "num": 400215,
+      "word": "袁惟仁丧葬费用均由圈内好友支付",
+      "onboard_time": 1773127102,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195447,
       "num": 602037,
       "word": "亚历山大绝杀掘金",
@@ -499,6 +587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179633,
+      "num": 541767,
+      "word": "手机集体涨价原因",
+      "onboard_time": 1773127884,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 174254,
       "num": 856739,
       "word": "周深 合同签了吗",
@@ -521,6 +617,14 @@
       "onboard_time": 1773124760,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 165522,
+      "num": 400604,
+      "word": "ENHYPEN将以六人组活动",
+      "onboard_time": 1773127464,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 163558,
@@ -585,14 +689,6 @@
       "onboard_time": 1773120022,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142191,
-      "num": 596929,
-      "word": "德黑兰降黑雨",
-      "onboard_time": 1773126081,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141472,
@@ -707,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123512,
+      "num": 474664,
+      "word": "给男朋友用特效化妆",
+      "onboard_time": 1773128905,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123031,
       "num": 432117,
       "word": "历届SMG视帝",
@@ -763,6 +867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112197,
+      "num": 594297,
+      "word": "董晴一部一个有效出演",
+      "onboard_time": 1773125180,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110971,
       "num": 236890,
       "word": "明日方舟",
@@ -777,14 +889,6 @@
       "onboard_time": 1773115642,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 109700,
-      "num": 594297,
-      "word": "董晴一部一个有效出演",
-      "onboard_time": 1773125180,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 109332,
@@ -835,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100995,
+      "num": 589504,
+      "word": "生命树",
+      "onboard_time": 1773125300,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99592,
       "num": 617148,
       "word": "胖东来八成员工月收入9000元",
@@ -849,6 +961,30 @@
       "onboard_time": 1773056540,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96728,
+      "num": 400551,
+      "word": "王曼昱爆冷后摇头",
+      "onboard_time": 1773129085,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96002,
+      "num": 400127,
+      "word": "我国约2.2亿人听力有问题",
+      "onboard_time": 1773127224,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95723,
+      "num": 418144,
+      "word": "150层酥皮连切30多刀雕出松鼠",
+      "onboard_time": 1773127524,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95029,
@@ -963,11 +1099,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84455,
-      "num": 588141,
-      "word": "长宁是未来皇后",
-      "onboard_time": 1773126622,
-      "rank": 37,
+      "raw_hot": 84124,
+      "num": 590481,
+      "word": "田嘉瑞大男主",
+      "onboard_time": 1773125061,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -995,12 +1131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81547,
-      "num": 590481,
-      "word": "田嘉瑞大男主",
-      "onboard_time": 1773125061,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 80295,
+      "num": 583275,
+      "word": "我是小鸟胃 品种不同罢了",
+      "onboard_time": 1773126442,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 80266,
@@ -1083,14 +1219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70932,
-      "num": 589504,
-      "word": "生命树",
-      "onboard_time": 1773125300,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 69946,
       "num": 856363,
       "word": "男女主爱惨了观众嗑疯了",
@@ -1105,14 +1233,6 @@
       "onboard_time": 1773064944,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 69225,
-      "num": 583275,
-      "word": "我是小鸟胃 品种不同罢了",
-      "onboard_time": 1773126442,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 68661,
@@ -1235,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 60141,
+      "num": 601802,
+      "word": "中传回应砍掉16个专业",
+      "onboard_time": 1773126023,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 59248,
       "num": 580069,
       "word": "孙颖莎王楚钦火锅比正手辣",
@@ -1267,6 +1395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56356,
+      "num": 400289,
+      "word": "国家开始挂念你的腰围了",
+      "onboard_time": 1773127284,
+      "rank": 43,
+      "category": "国内时政,健康医疗"
+    },
+    {
       "raw_hot": 55781,
       "num": 589748,
       "word": "谁上班不想来包薯片",
@@ -1283,12 +1419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54796,
-      "num": 601802,
-      "word": "中传回应砍掉16个专业",
-      "onboard_time": 1773126023,
-      "rank": 42,
-      "category": "教育"
+      "raw_hot": 54555,
+      "num": 407380,
+      "word": "过于强调第一学历歪曲人才评价标准",
+      "onboard_time": 1773127645,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54272,
@@ -1307,12 +1443,28 @@
       "category": "艺人,国内时政"
     },
     {
+      "raw_hot": 54109,
+      "num": 400398,
+      "word": "张钧甯谷爱凌王一博互让C位",
+      "onboard_time": 1773129085,
+      "rank": 40,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 53191,
       "num": 365278,
       "word": "脾堵不堵一个动作自测",
       "onboard_time": 1773060142,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 51373,
+      "num": 473990,
+      "word": "汪苏泷新专辑明日世界",
+      "onboard_time": 1773124161,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 51051,
@@ -1409,6 +1561,14 @@
       "onboard_time": 1773065542,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 45474,
+      "num": 400415,
+      "word": "逐玉一个担心得要命一个只想亲亲",
+      "onboard_time": 1773127284,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 44635,
