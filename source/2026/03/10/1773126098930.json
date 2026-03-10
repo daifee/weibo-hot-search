@@ -1,0 +1,410 @@
+{
+  "runTime": 1773126098930,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 282080,
+        "num": 1045132,
+        "word": "代表说儿子告诉他千万不要爹味太浓",
+        "onboard_time": 1773113962,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133266,
+        "num": 752382,
+        "word": "6G网要来了",
+        "onboard_time": 1773102801,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25250,
+        "num": 638798,
+        "word": "两会声音传递法治力度民生温度",
+        "onboard_time": 1773113841,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 867879,
+        "num": 637220,
+        "word": "王曼昱0比3大藤沙月",
+        "onboard_time": 1773123922,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462887,
+        "num": 623318,
+        "word": "王曼昱爆冷",
+        "onboard_time": 1773124342,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 619852,
+        "num": 619852,
+        "word": "美军急调韩国萨德系统部署中东",
+        "onboard_time": 1773122841,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 311171,
+        "num": 618795,
+        "word": "白日提灯",
+        "onboard_time": 1773123381,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199358,
+        "num": 609992,
+        "word": "2026白玉兰预测",
+        "onboard_time": 1773119062,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19794,
+        "num": 601431,
+        "word": "制造业升级的超级红包来了",
+        "onboard_time": 1773113662,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108548,
+        "num": 593339,
+        "word": "建议小学三年级前课间半小时",
+        "onboard_time": 1773112462,
+        "rank": 9,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 592660,
+        "num": 592660,
+        "word": "张凌赫回应天涯四美已合作两美",
+        "onboard_time": 1773122721,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427594,
+        "num": 592613,
+        "word": "美国开始甩锅了",
+        "onboard_time": 1773114742,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 361342,
+        "num": 592519,
+        "word": "普京提建议后特朗普称很快停火",
+        "onboard_time": 1773121101,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356317,
+        "num": 592402,
+        "word": "香蕉有可能会灭绝",
+        "onboard_time": 1773113601,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278823,
+        "num": 592317,
+        "word": "姑姑你明天没法上学了",
+        "onboard_time": 1773123802,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197551,
+        "num": 592234,
+        "word": "手机市场将迎来全面涨价",
+        "onboard_time": 1773114024,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173252,
+        "num": 592158,
+        "word": "第一次见反向装修的",
+        "onboard_time": 1773119242,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170477,
+        "num": 592025,
+        "word": "青3创4门面同框今夕是何年",
+        "onboard_time": 1773120199,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167846,
+        "num": 591989,
+        "word": "OPPO涨价",
+        "onboard_time": 1773112161,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133935,
+        "num": 591873,
+        "word": "肖战 黄金时代",
+        "onboard_time": 1773125121,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334711,
+        "num": 591760,
+        "word": "Ella送别袁惟仁哭到抽搐",
+        "onboard_time": 1773115342,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150292,
+        "num": 591703,
+        "word": "终于有人把化橘红说清楚了",
+        "onboard_time": 1773124760,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220023,
+        "num": 591559,
+        "word": "张凌赫像是在横店待疯了",
+        "onboard_time": 1773120441,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125316,
+        "num": 591538,
+        "word": "美方称不会让印度胜过美国",
+        "onboard_time": 1773119362,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122841,
+        "num": 591368,
+        "word": "孔雪儿逐玉带球跑",
+        "onboard_time": 1773123079,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121865,
+        "num": 591302,
+        "word": "一个小朋友学过台阶的视频火了",
+        "onboard_time": 1773120022,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112526,
+        "num": 591253,
+        "word": "美媒称这场战争打不起了",
+        "onboard_time": 1773107660,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99265,
+        "num": 591168,
+        "word": "经纪公司否认张娜拉去世",
+        "onboard_time": 1773111261,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91474,
+        "num": 591000,
+        "word": "数字生命",
+        "onboard_time": 1773121641,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90236,
+        "num": 590957,
+        "word": "董明珠说奋斗不等于要加班",
+        "onboard_time": 1773123981,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150859,
+        "num": 590815,
+        "word": "李诞称有人用AI龙虾约女主播饭",
+        "onboard_time": 1773121700,
+        "rank": 30,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 86888,
+        "num": 590792,
+        "word": "别再吃高油高盐的食物了",
+        "onboard_time": 1773114802,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86863,
+        "num": 590631,
+        "word": "医生提醒不要模仿Ella真空腹",
+        "onboard_time": 1773098059,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86332,
+        "num": 590532,
+        "word": "王曼昱止步重庆冠军赛首轮",
+        "onboard_time": 1773125002,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81547,
+        "num": 590481,
+        "word": "田嘉瑞大男主",
+        "onboard_time": 1773125061,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14059,
+        "num": 590342,
+        "word": "物业到底是来管理还是服务我们的",
+        "onboard_time": 1773126023,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76115,
+        "num": 590309,
+        "word": "火鸡面冰淇淋",
+        "onboard_time": 1773115761,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 74582,
+        "num": 590208,
+        "word": "男子养双头龟喂食时2个头还争食",
+        "onboard_time": 1773114561,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68044,
+        "num": 590078,
+        "word": "袁惟仁告别式",
+        "onboard_time": 1773115281,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67260,
+        "num": 590019,
+        "word": "王曼昱vs大藤沙月",
+        "onboard_time": 1773125241,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66902,
+        "num": 589901,
+        "word": "樊长玉得知谢征是武安侯",
+        "onboard_time": 1773111680,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66047,
+        "num": 589873,
+        "word": "腾讯版小龙虾致歉信",
+        "onboard_time": 1773115943,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54796,
+        "num": 589767,
+        "word": "中传回应砍掉16个专业",
+        "onboard_time": 1773126023,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 66032,
+        "num": 589689,
+        "word": "董晴一部一个有效出演",
+        "onboard_time": 1773125180,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63596,
+        "num": 589577,
+        "word": "原来这就是小说里的强者气息",
+        "onboard_time": 1773124823,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63003,
+        "num": 589504,
+        "word": "生命树",
+        "onboard_time": 1773125300,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62294,
+        "num": 589343,
+        "word": "委员劝大家把事情看淡",
+        "onboard_time": 1773118823,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61510,
+        "num": 589272,
+        "word": "A股超4300家股上涨",
+        "onboard_time": 1773125061,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61296,
+        "num": 589145,
+        "word": "韩国人夸起易烊千玺发了狠忘了情",
+        "onboard_time": 1773117140,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58752,
+        "num": 589062,
+        "word": "贪吃蛇碰碰车",
+        "onboard_time": 1773124641,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#为了中华民族永续发展#"
+    }
+  }
+}

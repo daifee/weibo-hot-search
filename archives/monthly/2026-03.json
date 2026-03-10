@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773122818578,
+  "endTime": 1773126098930,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1027,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 867879,
+      "num": 637220,
+      "word": "王曼昱0比3大藤沙月",
+      "onboard_time": 1773123922,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 865560,
       "num": 849665,
       "word": "舅妈冒用去世母亲身份与舅舅结婚",
@@ -2027,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 619852,
+      "num": 619852,
+      "word": "美军急调韩国萨德系统部署中东",
+      "onboard_time": 1773122841,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 618117,
       "num": 739994,
       "word": "肖战十日终焉灰瞳",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1772341224,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 592660,
+      "num": 785212,
+      "word": "张凌赫回应天涯四美已合作两美",
+      "onboard_time": 1773122721,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 590805,
@@ -3169,6 +3193,14 @@
       "onboard_time": 1772691562,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 462887,
+      "num": 623318,
+      "word": "王曼昱爆冷",
+      "onboard_time": 1773124342,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 462864,
@@ -4483,6 +4515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 361342,
+      "num": 859910,
+      "word": "普京提建议后特朗普称很快停火",
+      "onboard_time": 1773121101,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 361241,
       "num": 247416,
       "word": "曝现在就出发4金晨被替换了",
@@ -5315,6 +5355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311171,
+      "num": 618795,
+      "word": "白日提灯",
+      "onboard_time": 1772506404,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311031,
       "num": 311031,
       "word": "何与刘些宁同款汤圆",
@@ -5444,7 +5492,7 @@
     },
     {
       "raw_hot": 306208,
-      "num": 861631,
+      "num": 1045132,
       "word": "代表说儿子告诉他千万不要爹味太浓",
       "onboard_time": 1773113962,
       "rank": 9,
@@ -6059,6 +6107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278823,
+      "num": 592317,
+      "word": "姑姑你明天没法上学了",
+      "onboard_time": 1773123802,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278817,
       "num": 208264,
       "word": "王鹤棣紫衣少年谢景行",
@@ -6128,14 +6184,6 @@
       "word": "中东空域关闭致全球航空大乱",
       "onboard_time": 1772328264,
       "rank": 26,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 274449,
-      "num": 859910,
-      "word": "普京提建议后特朗普称很快停火",
-      "onboard_time": 1773121101,
-      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -6281,14 +6329,6 @@
       "onboard_time": 1772432362,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 265757,
-      "num": 265757,
-      "word": "白日提灯",
-      "onboard_time": 1772506404,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 265599,
@@ -10307,6 +10347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150859,
+      "num": 858046,
+      "word": "李诞称有人用AI龙虾约女主播饭",
+      "onboard_time": 1773121700,
+      "rank": 31,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 150697,
       "num": 150697,
       "word": "迪丽热巴全维语采访",
@@ -10329,6 +10377,14 @@
       "onboard_time": 1772287524,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150292,
+      "num": 591703,
+      "word": "终于有人把化橘红说清楚了",
+      "onboard_time": 1773124760,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 150064,
@@ -11443,6 +11499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133935,
+      "num": 591873,
+      "word": "肖战 黄金时代",
+      "onboard_time": 1773125121,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133909,
       "num": 223322,
       "word": "美国驻沙特大使馆遭袭起火",
@@ -11713,14 +11777,6 @@
       "onboard_time": 1773052941,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130118,
-      "num": 785212,
-      "word": "张凌赫回应天涯四美已合作两美",
-      "onboard_time": 1773122721,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 130081,
@@ -12353,6 +12409,14 @@
       "onboard_time": 1773071181,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122841,
+      "num": 591368,
+      "word": "孔雪儿逐玉带球跑",
+      "onboard_time": 1773123079,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 122825,
@@ -13409,14 +13473,6 @@
       "onboard_time": 1772795781,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112110,
-      "num": 858046,
-      "word": "李诞称有人用AI龙虾约女主播饭",
-      "onboard_time": 1773121700,
-      "rank": 31,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 112069,
@@ -16083,6 +16139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 91474,
+      "num": 857704,
+      "word": "数字生命",
+      "onboard_time": 1773121641,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91438,
       "num": 91438,
       "word": "王一博出席香奈儿秀场",
@@ -16297,6 +16361,14 @@
       "onboard_time": 1772610325,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90236,
+      "num": 590957,
+      "word": "董明珠说奋斗不等于要加班",
+      "onboard_time": 1773123981,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90140,
@@ -16555,14 +16627,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 88410,
-      "num": 857704,
-      "word": "数字生命",
-      "onboard_time": 1773121641,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 88389,
       "num": 101821,
       "word": "DeepSeek建议普通用户养虾前先观望",
@@ -16809,6 +16873,14 @@
       "onboard_time": 1772443884,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86332,
+      "num": 590532,
+      "word": "王曼昱止步重庆冠军赛首轮",
+      "onboard_time": 1773125002,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 86292,
@@ -17433,6 +17505,14 @@
       "onboard_time": 1772527888,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81547,
+      "num": 590481,
+      "word": "田嘉瑞大男主",
+      "onboard_time": 1773125061,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 81508,
@@ -19587,6 +19667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67260,
+      "num": 590019,
+      "word": "王曼昱vs大藤沙月",
+      "onboard_time": 1773125241,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67238,
       "num": 296601,
       "word": "拉塞尔夺F1揭幕战冠军",
@@ -19753,6 +19841,14 @@
       "onboard_time": 1772774003,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66032,
+      "num": 589689,
+      "word": "董晴一部一个有效出演",
+      "onboard_time": 1773125180,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 66005,
@@ -20033,6 +20129,14 @@
       "onboard_time": 1772809882,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 63596,
+      "num": 589577,
+      "word": "原来这就是小说里的强者气息",
+      "onboard_time": 1773124823,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 63457,
@@ -20331,6 +20435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61510,
+      "num": 589272,
+      "word": "A股超4300家股上涨",
+      "onboard_time": 1773125061,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 61509,
       "num": 97056,
       "word": "Gala醒一醒",
@@ -20385,6 +20497,14 @@
       "onboard_time": 1773104242,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 61296,
+      "num": 589145,
+      "word": "韩国人夸起易烊千玺发了狠忘了情",
+      "onboard_time": 1773117140,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 61278,
@@ -20569,6 +20689,14 @@
       "onboard_time": 1772856261,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58752,
+      "num": 589062,
+      "word": "贪吃蛇碰碰车",
+      "onboard_time": 1773124641,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 58725,
@@ -20905,6 +21033,14 @@
       "onboard_time": 1773012560,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 54796,
+      "num": 589767,
+      "word": "中传回应砍掉16个专业",
+      "onboard_time": 1773126023,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 54783,
@@ -23339,14 +23475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26183,
-      "num": 286144,
-      "word": "韩国人夸起易烊千玺发了狠忘了情",
-      "onboard_time": 1773117140,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 26170,
       "num": 416434,
       "word": "双胞胎哥哥失踪35年后元宵节团圆",
@@ -24233,6 +24361,14 @@
       "onboard_time": 1772476035,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14059,
+      "num": 590342,
+      "word": "物业到底是来管理还是服务我们的",
+      "onboard_time": 1773126023,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13957,
