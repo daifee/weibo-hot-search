@@ -1,0 +1,410 @@
+{
+  "runTime": 1773118657168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 393415,
+        "num": 1062946,
+        "word": "6G网要来了",
+        "onboard_time": 1773102801,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 314417,
+        "num": 773482,
+        "word": "建议小学三年级前课间半小时",
+        "onboard_time": 1773112462,
+        "rank": 1,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 25635,
+        "num": 598945,
+        "word": "两会声音传递法治力度民生温度",
+        "onboard_time": 1773113841,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60789,
+        "num": 598413,
+        "word": "正在解决地外星球长期生存问题",
+        "onboard_time": 1773110480,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 421268,
+        "num": 598028,
+        "word": "OPPO涨价",
+        "onboard_time": 1773112161,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 458575,
+        "num": 597640,
+        "word": "美国开始甩锅了",
+        "onboard_time": 1773114742,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323621,
+        "num": 596899,
+        "word": "手机市场将迎来全面涨价",
+        "onboard_time": 1773114024,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 290694,
+        "num": 596598,
+        "word": "代表说儿子告诉他千万不要爹味太浓",
+        "onboard_time": 1773113962,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29931,
+        "num": 596078,
+        "word": "制造业升级的超级红包来了",
+        "onboard_time": 1773113662,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132429,
+        "num": 595048,
+        "word": "五月天演唱会取消24号场次",
+        "onboard_time": 1773113962,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2243796,
+        "num": 594844,
+        "word": "香蕉有可能会灭绝",
+        "onboard_time": 1773113601,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 711543,
+        "num": 594340,
+        "word": "美媒称这场战争打不起了",
+        "onboard_time": 1773107660,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 327302,
+        "num": 593712,
+        "word": "樊长玉得知谢征是武安侯",
+        "onboard_time": 1773111680,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306103,
+        "num": 593216,
+        "word": "火鸡面冰淇淋",
+        "onboard_time": 1773115761,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197640,
+        "num": 592278,
+        "word": "爱奇艺逐玉标题00后写的吧",
+        "onboard_time": 1773111920,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154509,
+        "num": 591923,
+        "word": "周深 合同签了吗",
+        "onboard_time": 1773111920,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94399,
+        "num": 591395,
+        "word": "未来5年中国要建设的重大工程",
+        "onboard_time": 1773100580,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166975,
+        "num": 591121,
+        "word": "逐玉原来谢征亲回去了",
+        "onboard_time": 1773114383,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116066,
+        "num": 590567,
+        "word": "林书豪说蒲熠星长得好漂亮",
+        "onboard_time": 1773114262,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46290,
+        "num": 589748,
+        "word": "谁上班不想来包薯片",
+        "onboard_time": 1773115462,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1062794,
+        "num": 589136,
+        "word": "Ella送别袁惟仁哭到抽搐",
+        "onboard_time": 1773115342,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281706,
+        "num": 588405,
+        "word": "伊朗称驱逐美以大使可过霍尔木兹",
+        "onboard_time": 1773105081,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262488,
+        "num": 588247,
+        "word": "经纪公司否认张娜拉去世",
+        "onboard_time": 1773111261,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204619,
+        "num": 587460,
+        "word": "别再吃高油高盐的食物了",
+        "onboard_time": 1773114802,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171968,
+        "num": 587038,
+        "word": "伊朗放弃猛打猛冲",
+        "onboard_time": 1773102021,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262746,
+        "num": 586113,
+        "word": "医生提醒不要模仿Ella真空腹",
+        "onboard_time": 1773098059,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192711,
+        "num": 585893,
+        "word": "袁惟仁告别式",
+        "onboard_time": 1773115281,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151747,
+        "num": 585189,
+        "word": "性格有5个特点的人更容易长寿",
+        "onboard_time": 1773106939,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134114,
+        "num": 584845,
+        "word": "男子养双头龟喂食时2个头还争食",
+        "onboard_time": 1773114561,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75764,
+        "num": 584157,
+        "word": "建议小学每周1节方言课",
+        "onboard_time": 1773116722,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127563,
+        "num": 583797,
+        "word": "20头整容骆驼参加选美被抓包",
+        "onboard_time": 1773112281,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125654,
+        "num": 582992,
+        "word": "腾讯版小龙虾致歉信",
+        "onboard_time": 1773115943,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23826,
+        "num": 582545,
+        "word": "委员称文科会永远存在",
+        "onboard_time": 1773117262,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115116,
+        "num": 581664,
+        "word": "原来这么多年错怪凤梨了",
+        "onboard_time": 1773117624,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107078,
+        "num": 581606,
+        "word": "涉密人员被开除主动投靠间谍机关",
+        "onboard_time": 1773111500,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107055,
+        "num": 580961,
+        "word": "腾讯大涨超6%",
+        "onboard_time": 1773117624,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102974,
+        "num": 580145,
+        "word": "美官员称都是以色列干的",
+        "onboard_time": 1773115642,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72685,
+        "num": 579440,
+        "word": "物业管理改服务住建部采纳了",
+        "onboard_time": 1773105621,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37581,
+        "num": 579352,
+        "word": "谭松韵新剧唱歌跑调",
+        "onboard_time": 1773116363,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150665,
+        "num": 578316,
+        "word": "315消费段位大比拼",
+        "onboard_time": 1773115281,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101528,
+        "num": 578211,
+        "word": "我听到肖战这里真的掉眼泪了",
+        "onboard_time": 1773114921,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101203,
+        "num": 577518,
+        "word": "刘亦菲LV大秀造型图",
+        "onboard_time": 1773107423,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 99896,
+        "num": 576806,
+        "word": "泽连斯基称已有11国向乌克兰求助",
+        "onboard_time": 1773101301,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86070,
+        "num": 576094,
+        "word": "陈妍希藏海传粉丝都喊我妈咪",
+        "onboard_time": 1773118162,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83996,
+        "num": 575553,
+        "word": "王一博谷爱凌张钧甯合影",
+        "onboard_time": 1773101542,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 74452,
+        "num": 575440,
+        "word": "苹果Finder吉祥物爆红",
+        "onboard_time": 1773118342,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97611,
+        "num": 574706,
+        "word": "陈伟霆肖战同框 张家汪家世纪大和解",
+        "onboard_time": 1773106881,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68819,
+        "num": 574242,
+        "word": "司宫令",
+        "onboard_time": 1773104363,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68387,
+        "num": 573498,
+        "word": "胖东来八成员工月收入9000元",
+        "onboard_time": 1773109160,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79329,
+        "num": 573069,
+        "word": "王一博巴黎大秀第三套",
+        "onboard_time": 1773116062,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#为了中华民族永续发展#"
+    }
+  }
+}
