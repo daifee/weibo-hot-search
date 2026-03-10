@@ -1,6 +1,6 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773136528718,
+  "endTime": 1773137261934,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -299,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 334258,
+      "num": 713188,
+      "word": "英国博物馆被曝藏超26万件人类遗骸",
+      "onboard_time": 1773131843,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 333699,
       "num": 611797,
       "word": "陈伟霆肖战同框 张家汪家世纪大和解",
@@ -329,6 +337,14 @@
       "onboard_time": 1773064705,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 323056,
+      "num": 946022,
+      "word": "白蛇传1924两天播放破2亿",
+      "onboard_time": 1773131784,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 314417,
@@ -411,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290145,
-      "num": 946022,
-      "word": "白蛇传1924两天播放破2亿",
-      "onboard_time": 1773131784,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 287675,
       "num": 878301,
       "word": "2026白玉兰预测",
@@ -473,6 +481,14 @@
       "onboard_time": 1773125121,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247007,
+      "num": 213702,
+      "word": "逐玉",
+      "onboard_time": 1773136762,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 245331,
@@ -667,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193278,
+      "num": 590563,
+      "word": "52条中日航线2月取消全部航班",
+      "onboard_time": 1773135562,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 190822,
       "num": 858000,
       "word": "性格有5个特点的人更容易长寿",
@@ -675,12 +699,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 187472,
-      "num": 713188,
-      "word": "英国博物馆被曝藏超26万件人类遗骸",
-      "onboard_time": 1773131843,
-      "rank": 39,
-      "category": "海外新闻"
+      "raw_hot": 187330,
+      "num": 187330,
+      "word": "你的下一部手机要多花1000元",
+      "onboard_time": 1773135623,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 185266,
@@ -787,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151183,
+      "num": 151183,
+      "word": "原来忌口辛辣是忌这些",
+      "onboard_time": 1773134242,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150859,
       "num": 858046,
       "word": "李诞称有人用AI龙虾约女主播饭",
@@ -841,22 +873,6 @@
       "onboard_time": 1773112281,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 139989,
-      "num": 139989,
-      "word": "你的下一部手机要多花1000元",
-      "onboard_time": 1773135623,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 139798,
-      "num": 139798,
-      "word": "原来忌口辛辣是忌这些",
-      "onboard_time": 1773134242,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 138513,
@@ -969,6 +985,14 @@
       "onboard_time": 1773128905,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124836,
+      "num": 935323,
+      "word": "150层酥皮连切30多刀雕出松鼠",
+      "onboard_time": 1773127524,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123610,
@@ -1115,14 +1139,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 103438,
-      "num": 590563,
-      "word": "52条中日航线2月取消全部航班",
-      "onboard_time": 1773135562,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 101681,
       "num": 915408,
       "word": "自己做饭固然健康但能吃吗",
@@ -1147,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99675,
-      "num": 935323,
-      "word": "150层酥皮连切30多刀雕出松鼠",
-      "onboard_time": 1773127524,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99592,
       "num": 617148,
       "word": "胖东来八成员工月收入9000元",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1773056540,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 97722,
+      "num": 234974,
+      "word": "伊朗将通过三步走方案推动局势缓和",
+      "onboard_time": 1773135862,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97295,
@@ -1211,6 +1227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 93119,
+      "num": 490673,
+      "word": "中方回应北京至平壤列车恢复运行",
+      "onboard_time": 1773135743,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92670,
       "num": 221973,
       "word": "鸡鸣寺消息树今年失约",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1773098959,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91289,
+      "num": 137864,
+      "word": "周雨推测王曼昱爆冷输球原因",
+      "onboard_time": 1773135985,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90995,
@@ -1331,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84879,
+      "num": 138287,
+      "word": "别着急赶路 抬头看看春天",
+      "onboard_time": 1773136402,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84124,
       "num": 590481,
       "word": "田嘉瑞大男主",
@@ -1345,6 +1385,22 @@
       "onboard_time": 1773122601,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83801,
+      "num": 99151,
+      "word": "王一博秀场抓拍",
+      "onboard_time": 1773136943,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 83505,
+      "num": 983403,
+      "word": "建议设夫妻陪护假解决住院无人陪",
+      "onboard_time": 1773132805,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83456,
@@ -1403,20 +1459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78291,
-      "num": 138287,
-      "word": "别着急赶路 抬头看看春天",
-      "onboard_time": 1773136402,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 78249,
       "num": 509915,
       "word": "周深1天官宣8场演唱会",
       "onboard_time": 1773052282,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78197,
+      "num": 745893,
+      "word": "这位人大代表太飒了",
+      "onboard_time": 1773131603,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77109,
@@ -1449,22 +1505,6 @@
       "onboard_time": 1773118342,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 73485,
-      "num": 983403,
-      "word": "建议设夫妻陪护假解决住院无人陪",
-      "onboard_time": 1773132805,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 72992,
-      "num": 137864,
-      "word": "周雨推测王曼昱爆冷输球原因",
-      "onboard_time": 1773135985,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 72666,
@@ -1651,14 +1691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 59482,
-      "num": 745893,
-      "word": "这位人大代表太飒了",
-      "onboard_time": 1773131603,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 59248,
       "num": 580069,
       "word": "孙颖莎王楚钦火锅比正手辣",
@@ -1699,6 +1731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 55440,
+      "num": 932775,
+      "word": "建议推出老年人防沉迷模式",
+      "onboard_time": 1773133224,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55145,
       "num": 58481,
       "word": "藏海传横扫SMG",
@@ -1729,6 +1769,14 @@
       "onboard_time": 1773106820,
       "rank": 48,
       "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 53521,
+      "num": 992026,
+      "word": "126个走出大山的孩子老师全都记得",
+      "onboard_time": 1773132565,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53191,
@@ -1769,14 +1817,6 @@
       "onboard_time": 1773111141,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 50200,
-      "num": 992026,
-      "word": "126个走出大山的孩子老师全都记得",
-      "onboard_time": 1773132565,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50179,
@@ -1875,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 43056,
+      "num": 388275,
+      "word": "华东师大去年起停招学前教育本科",
+      "onboard_time": 1773137182,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 42809,
       "num": 365668,
       "word": "外网上演日韩文化之争",
@@ -1945,14 +1993,6 @@
       "onboard_time": 1773052881,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 39237,
-      "num": 932775,
-      "word": "建议推出老年人防沉迷模式",
-      "onboard_time": 1773133224,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38738,
@@ -2059,6 +2099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25687,
+      "num": 138731,
+      "word": "美的稳坐全球智能家电销量第一",
+      "onboard_time": 1773137121,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24371,
       "num": 184101,
       "word": "周深回应OST劳模",
@@ -2073,6 +2121,14 @@
       "onboard_time": 1773117262,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21941,
+      "num": 233594,
+      "word": "代表建议男性也要接种hpv疫苗",
+      "onboard_time": 1773136826,
+      "rank": 19,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 21576,
@@ -2097,14 +2153,6 @@
       "onboard_time": 1773132502,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19965,
-      "num": 234974,
-      "word": "伊朗将通过三步走方案推动局势缓和",
-      "onboard_time": 1773135862,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19964,
