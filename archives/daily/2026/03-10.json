@@ -1,7 +1,23 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773112366001,
+  "endTime": 1773118136040,
   "band_list": [
+    {
+      "raw_hot": 2807648,
+      "num": 318000,
+      "word": "香蕉有可能会灭绝",
+      "onboard_time": 1773113601,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1005850,
+      "num": 315321,
+      "word": "Ella送别袁惟仁哭到抽搐",
+      "onboard_time": 1773115342,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 864377,
       "num": 484047,
@@ -11,19 +27,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 777263,
+      "num": 621949,
+      "word": "美媒称这场战争打不起了",
+      "onboard_time": 1773107660,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 762358,
       "num": 612609,
       "word": "伊朗称驱逐美以大使可过霍尔木兹",
       "onboard_time": 1773105081,
       "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 746215,
-      "num": 621949,
-      "word": "美媒称这场战争打不起了",
-      "onboard_time": 1773107660,
-      "rank": 10,
       "category": "国际时政"
     },
     {
@@ -91,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 468885,
+      "num": 619487,
+      "word": "OPPO涨价",
+      "onboard_time": 1773112161,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 432063,
       "num": 369013,
       "word": "肖战和白鹿挑眉",
@@ -113,6 +137,22 @@
       "onboard_time": 1773066323,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367774,
+      "num": 367774,
+      "word": "美国开始甩锅了",
+      "onboard_time": 1773114742,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 338561,
+      "num": 614772,
+      "word": "樊长玉得知谢征是武安侯",
+      "onboard_time": 1773111680,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 333699,
@@ -139,12 +179,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 318698,
+      "num": 318698,
+      "word": "手机市场将迎来全面涨价",
+      "onboard_time": 1773114024,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 310322,
-      "num": 244163,
+      "num": 286446,
       "word": "刘亦菲LV大秀造型图",
       "onboard_time": 1773107423,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 309659,
+      "num": 789738,
+      "word": "建议小学三年级前课间半小时",
+      "onboard_time": 1773112462,
+      "rank": 1,
+      "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 306208,
+      "num": 318427,
+      "word": "代表说儿子告诉他千万不要爹味太浓",
+      "onboard_time": 1773113962,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 282347,
+      "num": 317583,
+      "word": "火鸡面冰淇淋",
+      "onboard_time": 1773115761,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 280911,
@@ -219,6 +291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 224330,
+      "num": 317242,
+      "word": "爱奇艺逐玉标题00后写的吧",
+      "onboard_time": 1773111920,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221149,
       "num": 403497,
       "word": "镖人",
@@ -267,6 +347,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 206184,
+      "num": 287405,
+      "word": "袁惟仁告别式",
+      "onboard_time": 1773115281,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200944,
       "num": 379981,
       "word": "千万不要在洗澡时做人脸认证",
@@ -291,8 +379,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192270,
+      "num": 290015,
+      "word": "别再吃高油高盐的食物了",
+      "onboard_time": 1773114802,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190822,
-      "num": 243673,
+      "num": 287317,
       "word": "性格有5个特点的人更容易长寿",
       "onboard_time": 1773106939,
       "rank": 23,
@@ -305,6 +401,14 @@
       "onboard_time": 1773063622,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 174254,
+      "num": 316845,
+      "word": "周深 合同签了吗",
+      "onboard_time": 1773111920,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 163558,
@@ -323,6 +427,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162114,
+      "num": 285942,
+      "word": "315消费段位大比拼",
+      "onboard_time": 1773115281,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155804,
+      "num": 316293,
+      "word": "逐玉原来谢征亲回去了",
+      "onboard_time": 1773114383,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152283,
       "num": 546777,
       "word": "霸王茶姬口令答案",
@@ -332,7 +452,7 @@
     },
     {
       "raw_hot": 148123,
-      "num": 242922,
+      "num": 287121,
       "word": "涉密人员被开除主动投靠间谍机关",
       "onboard_time": 1773111500,
       "rank": 26,
@@ -355,6 +475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141294,
+      "num": 287174,
+      "word": "20头整容骆驼参加选美被抓包",
+      "onboard_time": 1773112281,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 136375,
+      "num": 316053,
+      "word": "五月天演唱会取消24号场次",
+      "onboard_time": 1773113962,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133744,
       "num": 242645,
       "word": "妈妈回应女儿用烧火棍在灶台作画",
@@ -364,7 +500,7 @@
     },
     {
       "raw_hot": 133184,
-      "num": 241427,
+      "num": 285570,
       "word": "泽连斯基称已有11国向乌克兰求助",
       "onboard_time": 1773101301,
       "rank": 25,
@@ -385,6 +521,22 @@
       "onboard_time": 1773100761,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123610,
+      "num": 286992,
+      "word": "林书豪说蒲熠星长得好漂亮",
+      "onboard_time": 1773114262,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123443,
+      "num": 286850,
+      "word": "男子养双头龟喂食时2个头还争食",
+      "onboard_time": 1773114561,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123031,
@@ -427,6 +579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115500,
+      "num": 286752,
+      "word": "腾讯版小龙虾致歉信",
+      "onboard_time": 1773115943,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114731,
       "num": 557245,
       "word": "91岁女儿受委屈向113岁妈妈哭诉",
@@ -451,8 +611,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110794,
+      "num": 286660,
+      "word": "美官员称都是以色列干的",
+      "onboard_time": 1773115642,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109332,
-      "num": 242002,
+      "num": 284936,
       "word": "王一博谷爱凌张钧甯合影",
       "onboard_time": 1773101542,
       "rank": 31,
@@ -465,6 +633,14 @@
       "onboard_time": 1773106042,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104668,
+      "num": 286479,
+      "word": "腾讯大涨超6%",
+      "onboard_time": 1773117624,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 104321,
@@ -483,20 +659,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 103831,
-      "num": 619487,
-      "word": "OPPO涨价",
-      "onboard_time": 1773112161,
-      "rank": 6,
-      "category": "数码"
-    },
-    {
       "raw_hot": 99592,
       "num": 617148,
       "word": "胖东来八成员工月收入9000元",
       "onboard_time": 1773109160,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98509,
+      "num": 285211,
+      "word": "我听到肖战这里真的掉眼泪了",
+      "onboard_time": 1773114921,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 98494,
@@ -523,20 +699,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 93756,
-      "num": 614772,
-      "word": "樊长玉得知谢征是武安侯",
-      "onboard_time": 1773111680,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92670,
       "num": 221973,
       "word": "鸡鸣寺消息树今年失约",
       "onboard_time": 1773100580,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92276,
+      "num": 285460,
+      "word": "王一博巴黎大秀第三套",
+      "onboard_time": 1773116062,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 91438,
@@ -561,6 +737,14 @@
       "onboard_time": 1773068064,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86700,
+      "num": 285289,
+      "word": "原来这么多年错怪凤梨了",
+      "onboard_time": 1773117624,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 85681,
@@ -603,12 +787,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80266,
+      "num": 285000,
+      "word": "国际金银突然拉升",
+      "onboard_time": 1773115103,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 79300,
       "num": 366629,
       "word": "油价将上调加油站员工发声",
       "onboard_time": 1773061702,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78650,
+      "num": 284815,
+      "word": "宋雨琦客串韩剧",
+      "onboard_time": 1773114082,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 78249,
@@ -627,8 +827,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76526,
+      "num": 285815,
+      "word": "建议小学每周1节方言课",
+      "onboard_time": 1773116722,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72666,
-      "num": 236568,
+      "num": 286024,
       "word": "看完第十一集逐玉的我",
       "onboard_time": 1773110962,
       "rank": 41,
@@ -641,14 +849,6 @@
       "onboard_time": 1773064944,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 69382,
-      "num": 233646,
-      "word": "爱奇艺逐玉标题00后写的吧",
-      "onboard_time": 1773111920,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 68661,
@@ -723,6 +923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55781,
+      "num": 315948,
+      "word": "谁上班不想来包薯片",
+      "onboard_time": 1773115462,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 55145,
       "num": 58481,
       "word": "藏海传横扫SMG",
@@ -763,14 +971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 50563,
-      "num": 237673,
-      "word": "20头整容骆驼参加选美被抓包",
-      "onboard_time": 1773112281,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 50399,
       "num": 585199,
       "word": "建议公立幼儿园推广小托班",
@@ -809,6 +1009,14 @@
       "onboard_time": 1773111261,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46334,
+      "num": 285367,
+      "word": "谭松韵新剧唱歌跑调",
+      "onboard_time": 1773116363,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 45998,
@@ -947,6 +1155,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29401,
+      "num": 318612,
+      "word": "制造业升级的超级红包来了",
+      "onboard_time": 1773113662,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 26709,
+      "num": 613480,
+      "word": "两会声音传递法治力度民生温度",
+      "onboard_time": 1773113841,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26347,
       "num": 105724,
       "word": "征玉",
@@ -963,6 +1187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26183,
+      "num": 286144,
+      "word": "韩国人夸起易烊千玺发了狠忘了情",
+      "onboard_time": 1773117140,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24371,
       "num": 184101,
       "word": "周深回应OST劳模",
@@ -977,6 +1209,14 @@
       "onboard_time": 1773086532,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21014,
+      "num": 315512,
+      "word": "委员称文科会永远存在",
+      "onboard_time": 1773117262,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18231,
@@ -1030,6 +1270,9 @@
   "hotgov_list": [
     {
       "word": "#两场团组活动一份民生关切#"
+    },
+    {
+      "word": "#为了中华民族永续发展#"
     }
   ]
 }
