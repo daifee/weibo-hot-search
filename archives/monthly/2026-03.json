@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773139912259,
+  "endTime": 1773140893226,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -3139,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472726,
+      "num": 169374,
+      "word": "李羲承有点像我离职的lastday",
+      "onboard_time": 1773138022,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472598,
       "num": 1075615,
       "word": "被医生咆哮塞200元母亲婉拒捐款",
@@ -3161,14 +3169,6 @@
       "onboard_time": 1773063622,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 469598,
-      "num": 169374,
-      "word": "李羲承有点像我离职的lastday",
-      "onboard_time": 1773138022,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 469542,
@@ -3329,6 +3329,14 @@
       "onboard_time": 1772607867,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 456847,
+      "num": 154771,
+      "word": "JYP考公上岸了",
+      "onboard_time": 1773139522,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 453355,
@@ -6267,6 +6275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280609,
+      "num": 1044897,
+      "word": "建议消除育龄女性职场顾虑",
+      "onboard_time": 1773138321,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 279595,
       "num": 279595,
       "word": "建议提高个税起征点至8000或1万",
@@ -7691,6 +7707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222547,
+      "num": 1034399,
+      "word": "宋平同志遗体在京火化",
+      "onboard_time": 1773130523,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 222140,
       "num": 211461,
       "word": "逐玉云包场",
@@ -7993,14 +8017,6 @@
       "onboard_time": 1772842462,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 214998,
-      "num": 1034399,
-      "word": "宋平同志遗体在京火化",
-      "onboard_time": 1773130523,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 214943,
@@ -8531,6 +8547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 196681,
+      "num": 165610,
+      "word": "女子怀孕后送护肤品朋友感到冒犯",
+      "onboard_time": 1773137541,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196612,
       "num": 223869,
       "word": "这样退税最划算",
@@ -8673,6 +8697,14 @@
       "onboard_time": 1772714723,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 194358,
+      "num": 158092,
+      "word": "LV大秀",
+      "onboard_time": 1773139103,
+      "rank": 32,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 194121,
@@ -9121,14 +9153,6 @@
       "onboard_time": 1772294423,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 179465,
-      "num": 1028714,
-      "word": "建议消除育龄女性职场顾虑",
-      "onboard_time": 1773138321,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 179419,
@@ -9835,14 +9859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165610,
-      "num": 165610,
-      "word": "女子怀孕后送护肤品朋友感到冒犯",
-      "onboard_time": 1773137541,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165522,
       "num": 400604,
       "word": "ENHYPEN将以六人组活动",
@@ -9921,6 +9937,14 @@
       "onboard_time": 1772341463,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162687,
+      "num": 145525,
+      "word": "刘亦菲看秀造型",
+      "onboard_time": 1773139403,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 162603,
@@ -10025,6 +10049,14 @@
       "onboard_time": 1772435903,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160805,
+      "num": 160805,
+      "word": "孔雪儿回应和田曦薇二搭",
+      "onboard_time": 1773140002,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 160797,
@@ -10737,6 +10769,14 @@
       "onboard_time": 1772494038,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149018,
+      "num": 308244,
+      "word": "周雨推测王曼昱爆冷输球原因",
+      "onboard_time": 1773135985,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 149014,
@@ -12219,14 +12259,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 129127,
-      "num": 129127,
-      "word": "LV大秀",
-      "onboard_time": 1773139103,
-      "rank": 32,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 129054,
       "num": 858197,
       "word": "美方称不会让印度胜过美国",
@@ -12681,6 +12713,14 @@
       "onboard_time": 1772548050,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 123410,
+      "num": 123410,
+      "word": "杨紫紫色高定",
+      "onboard_time": 1773140482,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 123403,
@@ -13379,6 +13419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115818,
+      "num": 115818,
+      "word": "哄自己多喝水的邪修方法",
+      "onboard_time": 1773139942,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115810,
       "num": 115810,
       "word": "刘些宁又回横店当公主了",
@@ -13609,14 +13657,6 @@
       "onboard_time": 1772368344,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113835,
-      "num": 113835,
-      "word": "刘亦菲看秀造型",
-      "onboard_time": 1773139403,
-      "rank": 37,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 113834,
@@ -14915,14 +14955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102222,
-      "num": 308244,
-      "word": "周雨推测王曼昱爆冷输球原因",
-      "onboard_time": 1773135985,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102194,
       "num": 181687,
       "word": "最近爆火的AI龙虾是什么",
@@ -15187,6 +15219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100747,
+      "num": 100747,
+      "word": "一个选公司的绝佳好办法",
+      "onboard_time": 1773139883,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100677,
       "num": 100677,
       "word": "DYG为钎城辟谣",
@@ -15275,14 +15315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100079,
-      "num": 100079,
-      "word": "JYP考公上岸了",
-      "onboard_time": 1773139522,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100059,
       "num": 100059,
       "word": "湖人四杀鹈鹕",
@@ -15305,6 +15337,14 @@
       "onboard_time": 1772337145,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 99973,
+      "num": 260518,
+      "word": "2026年安排国防支出1.94万亿元",
+      "onboard_time": 1773139281,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99948,
@@ -17379,14 +17419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86071,
-      "num": 93348,
-      "word": "一个选公司的绝佳好办法",
-      "onboard_time": 1773139883,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 86070,
       "num": 576094,
       "word": "陈妍希藏海传粉丝都喊我妈咪",
@@ -19443,14 +19475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 72941,
-      "num": 196592,
-      "word": "2026年安排国防支出1.94万亿元",
-      "onboard_time": 1773139281,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 72939,
       "num": 678701,
       "word": "建议鼓励大学生返乡创业",
@@ -19808,6 +19832,14 @@
       "word": "孙中山后人称祖国统一势在必然",
       "onboard_time": 1773039861,
       "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 70208,
+      "num": 301167,
+      "word": "统一是正道大势",
+      "onboard_time": 1773139221,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -20489,6 +20521,14 @@
       "onboard_time": 1773025881,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 64854,
+      "num": 201755,
+      "word": "孙颖莎萌态震惊",
+      "onboard_time": 1773139281,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 64834,
@@ -21515,6 +21555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56302,
+      "num": 101186,
+      "word": "陈添祥倪虹洁牵手走红毯",
+      "onboard_time": 1773140061,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56262,
       "num": 76137,
       "word": "撤销997名不适格父母监护人资格",
@@ -22104,14 +22152,6 @@
       "word": "2026这些区域将迎发展",
       "onboard_time": 1773064283,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 49451,
-      "num": 301167,
-      "word": "统一是正道大势",
-      "onboard_time": 1773139221,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -22779,6 +22819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 42536,
+      "num": 203593,
+      "word": "美的稳坐全球智能家电销量第一",
+      "onboard_time": 1773137121,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42427,
       "num": 365946,
       "word": "字节版OpenClaw上线",
@@ -23347,20 +23395,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 36404,
-      "num": 201755,
-      "word": "孙颖莎萌态震惊",
-      "onboard_time": 1773139281,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 36332,
       "num": 349974,
       "word": "应对人工智能对就业影响",
       "onboard_time": 1772689942,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36309,
+      "num": 90743,
+      "word": "王曼昱重庆冠军赛状态",
+      "onboard_time": 1773138563,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 36053,
@@ -23488,6 +23536,14 @@
       "word": "建议职称评定对生育期女性放宽要求",
       "onboard_time": 1772791219,
       "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 34873,
+      "num": 159288,
+      "word": "台独是逆流绝路",
+      "onboard_time": 1773140482,
+      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -23875,14 +23931,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 30589,
-      "num": 203593,
-      "word": "美的稳坐全球智能家电销量第一",
-      "onboard_time": 1773137121,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30492,
       "num": 678456,
       "word": "代表建议完善生育假成本分担机制",
@@ -24071,6 +24119,14 @@
       "num": 372367,
       "word": "小麦代表的麦田情",
       "onboard_time": 1772975241,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 27738,
+      "num": 251541,
+      "word": "建议关注大学生心理健康问题",
+      "onboard_time": 1773140425,
       "rank": 9,
       "category": "国内时政"
     },

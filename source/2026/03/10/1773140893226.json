@@ -1,0 +1,410 @@
+{
+  "runTime": 1773140893226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 280609,
+        "num": 1044897,
+        "word": "建议消除育龄女性职场顾虑",
+        "onboard_time": 1773138321,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222547,
+        "num": 753629,
+        "word": "宋平同志遗体在京火化",
+        "onboard_time": 1773130523,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27924,
+        "num": 622956,
+        "word": "推动新型城镇化今年有这些变化",
+        "onboard_time": 1773132863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280131,
+        "num": 280131,
+        "word": "中方回应北京至平壤列车恢复运行",
+        "onboard_time": 1773135743,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178657,
+        "num": 278441,
+        "word": "52条中日航线2月取消全部航班",
+        "onboard_time": 1773135562,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149018,
+        "num": 272754,
+        "word": "周雨推测王曼昱爆冷输球原因",
+        "onboard_time": 1773135985,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123650,
+        "num": 266019,
+        "word": "150层酥皮连切30多刀雕出松鼠",
+        "onboard_time": 1773127524,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99973,
+        "num": 260518,
+        "word": "2026年安排国防支出1.94万亿元",
+        "onboard_time": 1773139281,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88672,
+        "num": 253246,
+        "word": "中传回应砍掉16个专业",
+        "onboard_time": 1773126023,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27738,
+        "num": 251541,
+        "word": "建议关注大学生心理健康问题",
+        "onboard_time": 1773140425,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1769120,
+        "num": 245534,
+        "word": "伊朗提出停火条件",
+        "onboard_time": 1773129145,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241937,
+        "num": 241937,
+        "word": "白蛇传1924两天播放破2亿",
+        "onboard_time": 1773131784,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77846,
+        "num": 240474,
+        "word": "建议推出老年人防沉迷模式",
+        "onboard_time": 1773133224,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240469,
+        "num": 240469,
+        "word": "逐玉",
+        "onboard_time": 1773136762,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210189,
+        "num": 210189,
+        "word": "黄金不再保值了吗",
+        "onboard_time": 1773127825,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175329,
+        "num": 175329,
+        "word": "英国博物馆被曝藏超26万件人类遗骸",
+        "onboard_time": 1773131843,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161660,
+        "num": 161660,
+        "word": "马琳王曼昱赛后一言不发",
+        "onboard_time": 1773133642,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160805,
+        "num": 160805,
+        "word": "孔雪儿回应和田曦薇二搭",
+        "onboard_time": 1773140002,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42536,
+        "num": 159968,
+        "word": "美的稳坐全球智能家电销量第一",
+        "onboard_time": 1773137121,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34873,
+        "num": 159288,
+        "word": "台独是逆流绝路",
+        "onboard_time": 1773140482,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159260,
+        "num": 159260,
+        "word": "原来忌口辛辣是忌这些",
+        "onboard_time": 1773134242,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1066175,
+        "num": 159255,
+        "word": "李羲承退队",
+        "onboard_time": 1773126921,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460526,
+        "num": 158871,
+        "word": "JYP从JYP辞职了",
+        "onboard_time": 1773128484,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196681,
+        "num": 158550,
+        "word": "女子怀孕后送护肤品朋友感到冒犯",
+        "onboard_time": 1773137541,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236568,
+        "num": 158493,
+        "word": "ZB1解散",
+        "onboard_time": 1773128545,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194358,
+        "num": 158092,
+        "word": "LV大秀",
+        "onboard_time": 1773139103,
+        "rank": 25,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 158030,
+        "num": 158030,
+        "word": "手机集体涨价原因",
+        "onboard_time": 1773127884,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 472726,
+        "num": 157355,
+        "word": "李羲承有点像我离职的lastday",
+        "onboard_time": 1773138022,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456847,
+        "num": 154771,
+        "word": "JYP考公上岸了",
+        "onboard_time": 1773139522,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127890,
+        "num": 150609,
+        "word": "50岁大姐睡觉时粉碎性骨折",
+        "onboard_time": 1773127825,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149390,
+        "num": 149390,
+        "word": "鹿晗五哈上班",
+        "onboard_time": 1773135203,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162687,
+        "num": 145525,
+        "word": "刘亦菲看秀造型",
+        "onboard_time": 1773139403,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 117560,
+        "num": 139083,
+        "word": "你的下一部手机要多花1000元",
+        "onboard_time": 1773135623,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134122,
+        "num": 134122,
+        "word": "樊长玉真实身份",
+        "onboard_time": 1773130464,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123410,
+        "num": 123410,
+        "word": "杨紫紫色高定",
+        "onboard_time": 1773140482,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115818,
+        "num": 115818,
+        "word": "哄自己多喝水的邪修方法",
+        "onboard_time": 1773139942,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110804,
+        "num": 110804,
+        "word": "王曼昱爆冷",
+        "onboard_time": 1773124342,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107335,
+        "num": 107335,
+        "word": "35岁程序员写网文2年成大神",
+        "onboard_time": 1773131724,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104895,
+        "num": 104895,
+        "word": "向佐腰间插了一圈鲜花",
+        "onboard_time": 1773139642,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56302,
+        "num": 101186,
+        "word": "陈添祥倪虹洁牵手走红毯",
+        "onboard_time": 1773140061,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100747,
+        "num": 100747,
+        "word": "一个选公司的绝佳好办法",
+        "onboard_time": 1773139883,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104029,
+        "num": 99648,
+        "word": "袁惟仁丧葬费用均由圈内好友支付",
+        "onboard_time": 1773127102,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98515,
+        "num": 98515,
+        "word": "白日提灯",
+        "onboard_time": 1773123381,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70208,
+        "num": 97256,
+        "word": "统一是正道大势",
+        "onboard_time": 1773139221,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64854,
+        "num": 96848,
+        "word": "孙颖莎萌态震惊",
+        "onboard_time": 1773139281,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96790,
+        "num": 96790,
+        "word": "王劲松长文",
+        "onboard_time": 1773130105,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94208,
+        "num": 94208,
+        "word": "伊朗将通过三步走方案推动局势缓和",
+        "onboard_time": 1773135862,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93258,
+        "num": 93258,
+        "word": "美国开始甩锅了",
+        "onboard_time": 1773114742,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50265,
+        "num": 91557,
+        "word": "王曼昱输球后未接受采访",
+        "onboard_time": 1773132502,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36309,
+        "num": 90743,
+        "word": "王曼昱重庆冠军赛状态",
+        "onboard_time": 1773138563,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会约定#"
+    }
+  }
+}
