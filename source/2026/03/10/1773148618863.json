@@ -1,0 +1,410 @@
+{
+  "runTime": 1773148618863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 169742,
+        "num": 1027158,
+        "word": "2026年安排国防支出1.94万亿元",
+        "onboard_time": 1773139281,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145084,
+        "num": 729967,
+        "word": "宋平同志遗体在京火化",
+        "onboard_time": 1773130523,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24141,
+        "num": 601516,
+        "word": "中国两会将为全球创造更多机遇",
+        "onboard_time": 1773147624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258531,
+        "num": 600038,
+        "word": "中国队金牌榜奖牌榜都是第一",
+        "onboard_time": 1773146902,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89807,
+        "num": 598768,
+        "word": "福建舰入列就形成了战斗力",
+        "onboard_time": 1773141801,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 88882,
+        "num": 595365,
+        "word": "建议向新婚夫妇发放住房补贴",
+        "onboard_time": 1773144683,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74617,
+        "num": 593122,
+        "word": "国家互联网应急中心提示龙虾风险",
+        "onboard_time": 1773144863,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24078,
+        "num": 592152,
+        "word": "代表称农民工怕社保断缴白花钱",
+        "onboard_time": 1773147624,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15158,
+        "num": 589407,
+        "word": "外媒记者期待与中国共享发展新机遇",
+        "onboard_time": 1773147624,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74597,
+        "num": 588704,
+        "word": "52条中日航线2月取消全部航班",
+        "onboard_time": 1773135562,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 872067,
+        "num": 585005,
+        "word": "伊朗提出停火条件",
+        "onboard_time": 1773129145,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202761,
+        "num": 583672,
+        "word": "未婚夫去世了该不该赡养对方父母",
+        "onboard_time": 1773141982,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200222,
+        "num": 581932,
+        "word": "逐玉 女主职业自卑",
+        "onboard_time": 1773146544,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165259,
+        "num": 579266,
+        "word": "第一批养虾人已经开始卸载了",
+        "onboard_time": 1773147025,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186948,
+        "num": 577158,
+        "word": "逐玉云合",
+        "onboard_time": 1773145162,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159147,
+        "num": 575356,
+        "word": "在医院生个孩子只花了2块5",
+        "onboard_time": 1773142101,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158656,
+        "num": 572655,
+        "word": "甜茶买了孙颖莎海报",
+        "onboard_time": 1773141261,
+        "rank": 16,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 141153,
+        "num": 570863,
+        "word": "原来厉害的人面试这么溜啊",
+        "onboard_time": 1773144683,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54692,
+        "num": 568011,
+        "word": "荣耀MagicV6太能整活了",
+        "onboard_time": 1773147983,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 16386,
+        "num": 566371,
+        "word": "起底团油直播间加油券套路",
+        "onboard_time": 1773147624,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9393530,
+        "num": 9393530,
+        "word": "张凌赫道歉",
+        "onboard_time": 1773145702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679305,
+        "num": 563195,
+        "word": "杨紫紫色高定",
+        "onboard_time": 1773140482,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 401831,
+        "num": 559545,
+        "word": "婆婆进卧室不敲门儿媳崩溃哭诉",
+        "onboard_time": 1773143063,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60806,
+        "num": 558456,
+        "word": "LV秋冬女装秀",
+        "onboard_time": 1773147983,
+        "rank": 23,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 556961,
+        "num": 556961,
+        "word": "JYP考公上岸了",
+        "onboard_time": 1773139522,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42655,
+        "num": 504718,
+        "word": "BeADreamer",
+        "onboard_time": 1773142582,
+        "rank": 25,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 502232,
+        "num": 502232,
+        "word": "李羲承退队",
+        "onboard_time": 1773126921,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324118,
+        "num": 501849,
+        "word": "突然一下就不焦虑了",
+        "onboard_time": 1773144503,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284879,
+        "num": 500393,
+        "word": "逐玉",
+        "onboard_time": 1773136762,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212961,
+        "num": 498004,
+        "word": "原来这些爆火的文案都是王源写的",
+        "onboard_time": 1773145825,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126468,
+        "num": 495422,
+        "word": "林高远也加入网球大军",
+        "onboard_time": 1773148464,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170330,
+        "num": 494188,
+        "word": "刘亦菲看秀造型",
+        "onboard_time": 1773139403,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 165196,
+        "num": 493095,
+        "word": "倪虹洁走完红毯天塌了",
+        "onboard_time": 1773141623,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125324,
+        "num": 491056,
+        "word": "把果蝇的大脑复制到电脑",
+        "onboard_time": 1773148464,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152042,
+        "num": 488442,
+        "word": "鹿晗喝霸王茶姬",
+        "onboard_time": 1773147801,
+        "rank": 34,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 129227,
+        "num": 487120,
+        "word": "镖人 惠英红挟持戏份删减",
+        "onboard_time": 1773147683,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118758,
+        "num": 484783,
+        "word": "伊朗驻华大使谈霍尔木兹海峡通行",
+        "onboard_time": 1773145342,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117709,
+        "num": 482812,
+        "word": "22个月大宝宝在院子里慵懒躺倒晒太阳",
+        "onboard_time": 1773146425,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116616,
+        "num": 482539,
+        "word": "杨紫周翊然活动同台",
+        "onboard_time": 1773147863,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113573,
+        "num": 479862,
+        "word": "村民20元买彩票中100万",
+        "onboard_time": 1773147742,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112678,
+        "num": 479052,
+        "word": "blackpink的周冠宇",
+        "onboard_time": 1773146844,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108743,
+        "num": 476961,
+        "word": "孔雪儿回应和田曦薇二搭",
+        "onboard_time": 1773140002,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104024,
+        "num": 473943,
+        "word": "JYP从JYP辞职了",
+        "onboard_time": 1773128484,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98081,
+        "num": 473687,
+        "word": "黄金不再保值了吗",
+        "onboard_time": 1773127825,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98075,
+        "num": 470950,
+        "word": "李羲承有点像我离职的lastday",
+        "onboard_time": 1773138022,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96443,
+        "num": 468803,
+        "word": "ZB1解散",
+        "onboard_time": 1773128545,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88460,
+        "num": 467133,
+        "word": "原来忌口辛辣是忌这些",
+        "onboard_time": 1773134242,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100036,
+        "num": 466631,
+        "word": "孔雪儿演技",
+        "onboard_time": 1773147443,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90473,
+        "num": 464696,
+        "word": "白蛇传1924两天播放破2亿",
+        "onboard_time": 1773131784,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88139,
+        "num": 462309,
+        "word": "女子怀孕后送护肤品朋友感到冒犯",
+        "onboard_time": 1773137541,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保一张蓝图绘到底#"
+    }
+  }
+}
