@@ -1,6 +1,6 @@
 {
   "startTime": 1773158847894,
-  "endTime": 1773175381648,
+  "endTime": 1773176341096,
   "band_list": [
     {
       "raw_hot": 5914442,
@@ -497,6 +497,14 @@
       "onboard_time": 1773160100,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13862,
+      "num": 46574,
+      "word": "豆包限制AI成毅",
+      "onboard_time": 1773175874,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 9521,
