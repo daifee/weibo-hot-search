@@ -1,0 +1,410 @@
+{
+  "runTime": 1773154686456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 453850,
+        "num": 1072616,
+        "word": "去机场不该比坐飞机时间还长",
+        "onboard_time": 1773151042,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101784,
+        "num": 756995,
+        "word": "2026年安排国防支出1.94万亿元",
+        "onboard_time": 1773139281,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32924,
+        "num": 754923,
+        "word": "中国两会将为全球创造更多机遇",
+        "onboard_time": 1773147624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196670,
+        "num": 753652,
+        "word": "杨舒予担任中国女篮队长",
+        "onboard_time": 1773151343,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157316,
+        "num": 751404,
+        "word": "中国队金牌榜奖牌榜都是第一",
+        "onboard_time": 1773146902,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353172,
+        "num": 747681,
+        "word": "我要回伊朗我要保卫我的国家",
+        "onboard_time": 1773152184,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162538,
+        "num": 745575,
+        "word": "伊朗高官6种语言发帖",
+        "onboard_time": 1773153324,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85172,
+        "num": 743408,
+        "word": "院士说文科生绝不会被AI替代",
+        "onboard_time": 1773151583,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85166,
+        "num": 740102,
+        "word": "建议向新婚夫妇发放住房补贴",
+        "onboard_time": 1773144683,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76523,
+        "num": 737902,
+        "word": "建议高速每年1000元免费额度",
+        "onboard_time": 1773153144,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 736435,
+        "num": 736435,
+        "word": "伊朗提出停火条件",
+        "onboard_time": 1773129145,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 485484,
+        "num": 736272,
+        "word": "逐玉 女主职业自卑",
+        "onboard_time": 1773146544,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295619,
+        "num": 726855,
+        "word": "肖战白敬亭没使劲 陈伟霆是真犟",
+        "onboard_time": 1773149124,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151326,
+        "num": 719320,
+        "word": "在医院生个孩子只花了2块5",
+        "onboard_time": 1773142101,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156752,
+        "num": 717730,
+        "word": "杨迪回复穆祉丞",
+        "onboard_time": 1773150624,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142181,
+        "num": 708003,
+        "word": "村民20元买彩票中100万",
+        "onboard_time": 1773147742,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139025,
+        "num": 706318,
+        "word": "周杰伦新专辑时间",
+        "onboard_time": 1773152124,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132297,
+        "num": 698444,
+        "word": "陈昊宇新剧给自己生了个弟弟",
+        "onboard_time": 1773151343,
+        "rank": 17,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 112581,
+        "num": 692801,
+        "word": "把果蝇的大脑复制到电脑",
+        "onboard_time": 1773148464,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25281,
+        "num": 688069,
+        "word": "方言保护迫在眉睫",
+        "onboard_time": 1773153742,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6583694,
+        "num": 6583694,
+        "word": "张凌赫道歉",
+        "onboard_time": 1773145702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678694,
+        "num": 678694,
+        "word": "JYP考公上岸了",
+        "onboard_time": 1773139522,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268368,
+        "num": 670951,
+        "word": "突然一下就不焦虑了",
+        "onboard_time": 1773144503,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63058,
+        "num": 670526,
+        "word": "欧冠联赛",
+        "onboard_time": 1773153203,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 670271,
+        "num": 670271,
+        "word": "李羲承退队",
+        "onboard_time": 1773126921,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1169010,
+        "num": 535782,
+        "word": "你好星期六删除张凌赫争议片段",
+        "onboard_time": 1773153981,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199928,
+        "num": 430656,
+        "word": "婆婆进卧室不敲门儿媳崩溃哭诉",
+        "onboard_time": 1773143063,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358874,
+        "num": 358874,
+        "word": "崔然竣 光头强",
+        "onboard_time": 1773152364,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 313280,
+        "num": 313280,
+        "word": "杨紫紫色高定",
+        "onboard_time": 1773140482,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106786,
+        "num": 294693,
+        "word": "22个月大宝宝在院子里慵懒躺倒晒太阳",
+        "onboard_time": 1773146425,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57804,
+        "num": 293910,
+        "word": "国乒人才梯队建设怎么样",
+        "onboard_time": 1773148825,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293893,
+        "num": 293893,
+        "word": "原来这些爆火的文案都是王源写的",
+        "onboard_time": 1773145825,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207268,
+        "num": 293698,
+        "word": "逐玉",
+        "onboard_time": 1773136762,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98919,
+        "num": 293473,
+        "word": "伊朗驻华大使谈霍尔木兹海峡通行",
+        "onboard_time": 1773145342,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123436,
+        "num": 293107,
+        "word": "苏新皓跳第三个吻痕",
+        "onboard_time": 1773149664,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122708,
+        "num": 292855,
+        "word": "鹿晗喝霸王茶姬",
+        "onboard_time": 1773147801,
+        "rank": 35,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 89464,
+        "num": 292515,
+        "word": "MiuMiu直播",
+        "onboard_time": 1773149064,
+        "rank": 36,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 112161,
+        "num": 292163,
+        "word": "刘亦菲ins更新看秀照",
+        "onboard_time": 1773149243,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 75382,
+        "num": 291812,
+        "word": "孙颖莎王楚钦公式照",
+        "onboard_time": 1773153863,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67394,
+        "num": 291340,
+        "word": "孙颖莎打破圈层跨越国际",
+        "onboard_time": 1773153863,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100169,
+        "num": 290962,
+        "word": "未婚夫去世了该不该赡养对方父母",
+        "onboard_time": 1773141982,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95931,
+        "num": 290654,
+        "word": "甜茶买了孙颖莎海报",
+        "onboard_time": 1773141261,
+        "rank": 41,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 83224,
+        "num": 290254,
+        "word": "上门卸载OpenClaw单次299元",
+        "onboard_time": 1773151525,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89885,
+        "num": 290025,
+        "word": "ZB1解散",
+        "onboard_time": 1773128545,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85194,
+        "num": 289578,
+        "word": "刘亦菲看秀造型",
+        "onboard_time": 1773139403,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 72667,
+        "num": 289236,
+        "word": "老一辈过年最难忘的是哪一年",
+        "onboard_time": 1773153025,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81926,
+        "num": 288879,
+        "word": "孔雪儿演技",
+        "onboard_time": 1773147443,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79705,
+        "num": 288537,
+        "word": "李羲承有点像我离职的lastday",
+        "onboard_time": 1773138022,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70855,
+        "num": 288345,
+        "word": "周雨推测王曼昱爆冷输球原因",
+        "onboard_time": 1773135985,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74365,
+        "num": 287879,
+        "word": "杨紫周翊然活动同台",
+        "onboard_time": 1773147863,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保一张蓝图绘到底#"
+    }
+  }
+}
