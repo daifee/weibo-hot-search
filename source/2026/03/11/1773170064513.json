@@ -1,0 +1,410 @@
+{
+  "runTime": 1773170064513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 57199,
+        "num": 57199,
+        "word": "去机场不该比坐飞机时间还长",
+        "onboard_time": 1773151042,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23151,
+        "num": 56403,
+        "word": "建议高速每年1000元免费额度",
+        "onboard_time": 1773153144,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10514,
+        "num": 53439,
+        "word": "中国两会将为全球创造更多机遇",
+        "onboard_time": 1773147624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20205,
+        "num": 52549,
+        "word": "75万亿元居民存款将到期",
+        "onboard_time": 1773158061,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 19337,
+        "num": 49290,
+        "word": "中国队金牌榜奖牌榜都是第一",
+        "onboard_time": 1773146902,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48973,
+        "num": 48973,
+        "word": "我要回伊朗我要保卫我的国家",
+        "onboard_time": 1773152184,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32296,
+        "num": 48952,
+        "word": "刘国梁卸任WTT董事会主席",
+        "onboard_time": 1773159380,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30374,
+        "num": 48949,
+        "word": "伊朗高官6种语言发帖",
+        "onboard_time": 1773153324,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8464,
+        "num": 48929,
+        "word": "外媒记者期待与中国共享发展新机遇",
+        "onboard_time": 1773147624,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15635,
+        "num": 48897,
+        "word": "杨舒予担任中国女篮队长",
+        "onboard_time": 1773151343,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114404,
+        "num": 48878,
+        "word": "伊朗提出停火条件",
+        "onboard_time": 1773129145,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85067,
+        "num": 48861,
+        "word": "地球或将迎超级厄尔尼诺现象",
+        "onboard_time": 1773154944,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28198,
+        "num": 48838,
+        "word": "作者一边写天灾一边处理人祸",
+        "onboard_time": 1773160040,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26596,
+        "num": 48811,
+        "word": "肖战白敬亭没使劲 陈伟霆是真犟",
+        "onboard_time": 1773149124,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25131,
+        "num": 48800,
+        "word": "孔雪儿演技",
+        "onboard_time": 1773147443,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23284,
+        "num": 48770,
+        "word": "把果蝇的大脑复制到电脑",
+        "onboard_time": 1773148464,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22453,
+        "num": 48761,
+        "word": "逐玉 女主职业自卑",
+        "onboard_time": 1773146544,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21128,
+        "num": 48745,
+        "word": "伊朗驻华大使谈霍尔木兹海峡通行",
+        "onboard_time": 1773145342,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19961,
+        "num": 48716,
+        "word": "MiuMiu直播",
+        "onboard_time": 1773149064,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 19939,
+        "num": 48692,
+        "word": "杨迪回复穆祉丞",
+        "onboard_time": 1773150624,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298663,
+        "num": 48675,
+        "word": "张凌赫道歉",
+        "onboard_time": 1773145702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48666,
+        "num": 48666,
+        "word": "李羲承退队",
+        "onboard_time": 1773126921,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48053,
+        "num": 48053,
+        "word": "逐玉",
+        "onboard_time": 1773136762,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43912,
+        "num": 43912,
+        "word": "原来这些爆火的文案都是王源写的",
+        "onboard_time": 1773145825,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25391,
+        "num": 43910,
+        "word": "JYP考公上岸了",
+        "onboard_time": 1773139522,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56015,
+        "num": 43910,
+        "word": "你好星期六删除张凌赫争议片段",
+        "onboard_time": 1773153981,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25211,
+        "num": 43905,
+        "word": "杨紫紫色高定",
+        "onboard_time": 1773140482,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25117,
+        "num": 43903,
+        "word": "洪欣张镐濂不像母子像姐弟",
+        "onboard_time": 1773161898,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22509,
+        "num": 43900,
+        "word": "突然一下就不焦虑了",
+        "onboard_time": 1773144503,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22312,
+        "num": 43896,
+        "word": "你好星期六",
+        "onboard_time": 1773165255,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20255,
+        "num": 43895,
+        "word": "婆婆进卧室不敲门儿媳崩溃哭诉",
+        "onboard_time": 1773143063,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20006,
+        "num": 43891,
+        "word": "刘亦菲ins更新看秀照",
+        "onboard_time": 1773149243,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 18806,
+        "num": 43887,
+        "word": "陈昊宇新剧给自己生了个弟弟",
+        "onboard_time": 1773151343,
+        "rank": 32,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 17617,
+        "num": 43884,
+        "word": "22个月大宝宝在院子里慵懒躺倒晒太阳",
+        "onboard_time": 1773146425,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17118,
+        "num": 43883,
+        "word": "哈哈哈哈哈6",
+        "onboard_time": 1773155424,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16064,
+        "num": 43878,
+        "word": "尹李灿直播时看到李羲承退队的反应",
+        "onboard_time": 1773159200,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15946,
+        "num": 43878,
+        "word": "村民20元买彩票中100万",
+        "onboard_time": 1773147742,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15943,
+        "num": 43875,
+        "word": "崔然竣 光头强",
+        "onboard_time": 1773152364,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 15380,
+        "num": 43871,
+        "word": "blackpink的周冠宇",
+        "onboard_time": 1773146844,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15262,
+        "num": 43869,
+        "word": "鹿晗喝霸王茶姬",
+        "onboard_time": 1773147801,
+        "rank": 39,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 15156,
+        "num": 43864,
+        "word": "李在明回应萨德外调",
+        "onboard_time": 1773157103,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14806,
+        "num": 43864,
+        "word": "荣耀Magic V6",
+        "onboard_time": 1773151104,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14704,
+        "num": 43859,
+        "word": "惊蛰无声",
+        "onboard_time": 1773168434,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14597,
+        "num": 43856,
+        "word": "至尊马蒂",
+        "onboard_time": 1773164596,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13983,
+        "num": 43855,
+        "word": "崔然竣MiuMiu走秀",
+        "onboard_time": 1773157761,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 13863,
+        "num": 43850,
+        "word": "在医院生个孩子只花了2块5",
+        "onboard_time": 1773142101,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13280,
+        "num": 43848,
+        "word": "批发商回应4.5元的1米大肉串卖20元",
+        "onboard_time": 1773155123,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13115,
+        "num": 43847,
+        "word": "好好的时光",
+        "onboard_time": 1773156623,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12371,
+        "num": 43843,
+        "word": "院士说文科生绝不会被AI替代",
+        "onboard_time": 1773151583,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9159,
+        "num": 43839,
+        "word": "周冠宇渴望正式席位的大眼睛",
+        "onboard_time": 1773160100,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保一张蓝图绘到底#"
+    }
+  }
+}
