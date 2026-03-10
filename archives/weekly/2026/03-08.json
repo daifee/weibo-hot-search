@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773126098930,
+  "endTime": 1773126863627,
   "band_list": [
     {
       "raw_hot": 2807648,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 867879,
-      "num": 637220,
+      "num": 729499,
       "word": "王曼昱0比3大藤沙月",
       "onboard_time": 1773123922,
       "rank": 3,
@@ -225,6 +225,14 @@
       "onboard_time": 1773049040,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 717680,
+      "num": 717680,
+      "word": "美军急调韩国萨德系统部署中东",
+      "onboard_time": 1773122841,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 717449,
@@ -323,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 619852,
-      "num": 619852,
-      "word": "美军急调韩国萨德系统部署中东",
-      "onboard_time": 1773122841,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 617115,
       "num": 650756,
       "word": "孙千发了和王安宇合照",
@@ -347,20 +347,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 608131,
+      "num": 785212,
+      "word": "张凌赫回应天涯四美已合作两美",
+      "onboard_time": 1773122721,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 606924,
       "num": 1097107,
       "word": "6G网要来了",
       "onboard_time": 1773102801,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 592660,
-      "num": 785212,
-      "word": "张凌赫回应天涯四美已合作两美",
-      "onboard_time": 1773122721,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 569351,
@@ -483,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495841,
+      "num": 721312,
+      "word": "王曼昱爆冷",
+      "onboard_time": 1773124342,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 493203,
       "num": 857467,
       "word": "伊朗放弃猛打猛冲",
@@ -563,20 +571,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 462887,
-      "num": 623318,
-      "word": "王曼昱爆冷",
-      "onboard_time": 1773124342,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 462507,
       "num": 276410,
       "word": "伊朗最高权力平稳过渡",
       "onboard_time": 1772986580,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 461102,
+      "num": 607009,
+      "word": "姑姑你明天没法上学了",
+      "onboard_time": 1773123802,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 453232,
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 311171,
-      "num": 618795,
+      "num": 715093,
       "word": "白日提灯",
       "onboard_time": 1773123381,
       "rank": 6,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 306208,
-      "num": 1045132,
+      "num": 1047265,
       "word": "代表说儿子告诉他千万不要爹味太浓",
       "onboard_time": 1773113962,
       "rank": 9,
@@ -1209,14 +1217,6 @@
       "onboard_time": 1772959880,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 278823,
-      "num": 592317,
-      "word": "姑姑你明天没法上学了",
-      "onboard_time": 1773123802,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 276959,
@@ -1553,6 +1553,14 @@
       "onboard_time": 1773098059,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 225164,
+      "num": 604923,
+      "word": "肖战 黄金时代",
+      "onboard_time": 1773125121,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 225030,
@@ -2091,6 +2099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 165999,
+      "num": 599133,
+      "word": "终于有人把化橘红说清楚了",
+      "onboard_time": 1773124760,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 164892,
       "num": 446060,
       "word": "董晴接档董晴",
@@ -2267,14 +2283,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 150292,
-      "num": 591703,
-      "word": "终于有人把化橘红说清楚了",
-      "onboard_time": 1773124760,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 148548,
       "num": 614546,
       "word": "杭州初二男生贴助长贴一年长高11厘米",
@@ -2419,6 +2427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142191,
+      "num": 596929,
+      "word": "德黑兰降黑雨",
+      "onboard_time": 1773126081,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141472,
       "num": 589723,
       "word": "历届SMG视后",
@@ -2499,14 +2515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133935,
-      "num": 591873,
-      "word": "肖战 黄金时代",
-      "onboard_time": 1773125121,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133744,
       "num": 242645,
       "word": "妈妈回应女儿用烧火棍在灶台作画",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1773028042,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130566,
+      "num": 596600,
+      "word": "孔雪儿逐玉带球跑",
+      "onboard_time": 1773123079,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 130213,
@@ -2769,14 +2785,6 @@
       "onboard_time": 1773071181,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 122841,
-      "num": 591368,
-      "word": "孔雪儿逐玉带球跑",
-      "onboard_time": 1773123079,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 122469,
@@ -3001,6 +3009,14 @@
       "onboard_time": 1773041721,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109700,
+      "num": 594297,
+      "word": "董晴一部一个有效出演",
+      "onboard_time": 1773125180,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 109332,
@@ -3811,6 +3827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87988,
+      "num": 590532,
+      "word": "王曼昱止步重庆冠军赛首轮",
+      "onboard_time": 1773125002,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87951,
       "num": 614344,
       "word": "荣耀MagicV6还原法拉利的优雅",
@@ -3865,14 +3889,6 @@
       "onboard_time": 1772968521,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86332,
-      "num": 590532,
-      "word": "王曼昱止步重庆冠军赛首轮",
-      "onboard_time": 1773125002,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 86083,
@@ -3953,6 +3969,14 @@
       "onboard_time": 1772955800,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 84455,
+      "num": 588141,
+      "word": "长宁是未来皇后",
+      "onboard_time": 1773126622,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 84397,
@@ -4531,6 +4555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72451,
+      "num": 586143,
+      "word": "安卓涨价你会考虑买iPhone吗",
+      "onboard_time": 1773126201,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 72411,
       "num": 72411,
       "word": "王楚钦拍签表",
@@ -4611,6 +4643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 70932,
+      "num": 589504,
+      "word": "生命树",
+      "onboard_time": 1773125300,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70873,
       "num": 70873,
       "word": "起猛了隐形眼镜发展到这个地步了",
@@ -4681,6 +4721,14 @@
       "onboard_time": 1772978541,
       "rank": 48,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 69225,
+      "num": 583275,
+      "word": "我是小鸟胃 品种不同罢了",
+      "onboard_time": 1773126442,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 69037,
@@ -4851,6 +4899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66562,
+      "num": 582381,
+      "word": "用钓鱼佬拍鱼的方式拍猫",
+      "onboard_time": 1773126622,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66554,
       "num": 98149,
       "word": "红烧排骨烧的是李飞的脊椎",
@@ -4873,14 +4929,6 @@
       "onboard_time": 1772955081,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 66032,
-      "num": 589689,
-      "word": "董晴一部一个有效出演",
-      "onboard_time": 1773125180,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 65284,
@@ -5032,14 +5080,6 @@
       "word": "敖瑞鹏异域古装造型路透",
       "onboard_time": 1772968941,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 63003,
-      "num": 589504,
-      "word": "生命树",
-      "onboard_time": 1773125300,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -5243,6 +5283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59248,
+      "num": 580069,
+      "word": "孙颖莎王楚钦火锅比正手辣",
+      "onboard_time": 1773126801,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59229,
       "num": 59229,
       "word": "上学时最怕的就是这种老师了",
@@ -5420,7 +5468,7 @@
     },
     {
       "raw_hot": 54796,
-      "num": 589767,
+      "num": 601802,
       "word": "中传回应砍掉16个专业",
       "onboard_time": 1773126023,
       "rank": 42,
@@ -6467,6 +6515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21065,
+      "num": 602681,
+      "word": "物业到底是来管理还是服务我们的",
+      "onboard_time": 1773126023,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19964,
       "num": 781261,
       "word": "甜茶去拉兰州拉面毫无违和",
@@ -6593,14 +6649,6 @@
       "onboard_time": 1772909355,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14059,
-      "num": 590342,
-      "word": "物业到底是来管理还是服务我们的",
-      "onboard_time": 1773126023,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13956,

@@ -1,6 +1,6 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773126098930,
+  "endTime": 1773126863627,
   "band_list": [
     {
       "raw_hot": 2807648,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 867879,
-      "num": 637220,
+      "num": 729499,
       "word": "王曼昱0比3大藤沙月",
       "onboard_time": 1773123922,
       "rank": 3,
@@ -59,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 717680,
+      "num": 717680,
+      "word": "美军急调韩国萨德系统部署中东",
+      "onboard_time": 1773122841,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 690284,
       "num": 368497,
       "word": "卢昱晓走红毯忘记把暖宝宝拿下来了",
@@ -67,12 +75,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 619852,
-      "num": 619852,
-      "word": "美军急调韩国萨德系统部署中东",
-      "onboard_time": 1773122841,
-      "rank": 5,
-      "category": "国际时政"
+      "raw_hot": 608131,
+      "num": 785212,
+      "word": "张凌赫回应天涯四美已合作两美",
+      "onboard_time": 1773122721,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 606924,
@@ -81,14 +89,6 @@
       "onboard_time": 1773102801,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 592660,
-      "num": 785212,
-      "word": "张凌赫回应天涯四美已合作两美",
-      "onboard_time": 1773122721,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 569351,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495841,
+      "num": 721312,
+      "word": "王曼昱爆冷",
+      "onboard_time": 1773124342,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 493203,
       "num": 857467,
       "word": "伊朗放弃猛打猛冲",
@@ -147,12 +155,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 462887,
-      "num": 623318,
-      "word": "王曼昱爆冷",
-      "onboard_time": 1773124342,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 461102,
+      "num": 607009,
+      "word": "姑姑你明天没法上学了",
+      "onboard_time": 1773123802,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 432063,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 311171,
-      "num": 618795,
+      "num": 715093,
       "word": "白日提灯",
       "onboard_time": 1773123381,
       "rank": 6,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 306208,
-      "num": 1045132,
+      "num": 1047265,
       "word": "代表说儿子告诉他千万不要爹味太浓",
       "onboard_time": 1773113962,
       "rank": 9,
@@ -297,14 +305,6 @@
       "onboard_time": 1773099022,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 278823,
-      "num": 592317,
-      "word": "姑姑你明天没法上学了",
-      "onboard_time": 1773123802,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 245331,
@@ -361,6 +361,14 @@
       "onboard_time": 1773098059,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 225164,
+      "num": 604923,
+      "word": "肖战 黄金时代",
+      "onboard_time": 1773125121,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 224780,
@@ -507,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165999,
+      "num": 599133,
+      "word": "终于有人把化橘红说清楚了",
+      "onboard_time": 1773124760,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 163558,
       "num": 856218,
       "word": "未来5年中国要建设的重大工程",
@@ -547,14 +563,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 150292,
-      "num": 591703,
-      "word": "终于有人把化橘红说清楚了",
-      "onboard_time": 1773124760,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 148123,
       "num": 581606,
       "word": "涉密人员被开除主动投靠间谍机关",
@@ -577,6 +585,14 @@
       "onboard_time": 1773120022,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142191,
+      "num": 596929,
+      "word": "德黑兰降黑雨",
+      "onboard_time": 1773126081,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141472,
@@ -627,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133935,
-      "num": 591873,
-      "word": "肖战 黄金时代",
-      "onboard_time": 1773125121,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133744,
       "num": 242645,
       "word": "妈妈回应女儿用烧火棍在灶台作画",
@@ -649,6 +657,14 @@
       "onboard_time": 1773101301,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130566,
+      "num": 596600,
+      "word": "孔雪儿逐玉带球跑",
+      "onboard_time": 1773123079,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 129565,
@@ -715,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122841,
-      "num": 591368,
-      "word": "孔雪儿逐玉带球跑",
-      "onboard_time": 1773123079,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121778,
       "num": 234797,
       "word": "胖东来室外保洁月薪近万元",
@@ -769,6 +777,14 @@
       "onboard_time": 1773115642,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109700,
+      "num": 594297,
+      "word": "董晴一部一个有效出演",
+      "onboard_time": 1773125180,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 109332,
@@ -907,7 +923,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86332,
+      "raw_hot": 87988,
       "num": 590532,
       "word": "王曼昱止步重庆冠军赛首轮",
       "onboard_time": 1773125002,
@@ -944,6 +960,14 @@
       "word": "长玉大人开恩 谢征都杀喽",
       "onboard_time": 1773047481,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84455,
+      "num": 588141,
+      "word": "长宁是未来皇后",
+      "onboard_time": 1773126622,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1043,12 +1067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72451,
+      "num": 586143,
+      "word": "安卓涨价你会考虑买iPhone吗",
+      "onboard_time": 1773126201,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 71055,
       "num": 856524,
       "word": "年轻人的三座大山房价职场婚恋",
       "onboard_time": 1773120982,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70932,
+      "num": 589504,
+      "word": "生命树",
+      "onboard_time": 1773125300,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 69946,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1773064944,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69225,
+      "num": 583275,
+      "word": "我是小鸟胃 品种不同罢了",
+      "onboard_time": 1773126442,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 68661,
@@ -1115,12 +1163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66032,
-      "num": 589689,
-      "word": "董晴一部一个有效出演",
-      "onboard_time": 1773125180,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 66562,
+      "num": 582381,
+      "word": "用钓鱼佬拍鱼的方式拍猫",
+      "onboard_time": 1773126622,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 64834,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1773124823,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 63003,
-      "num": 589504,
-      "word": "生命树",
-      "onboard_time": 1773125300,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 62773,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1773117140,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 59248,
+      "num": 580069,
+      "word": "孙颖莎王楚钦火锅比正手辣",
+      "onboard_time": 1773126801,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 58752,
@@ -1236,7 +1284,7 @@
     },
     {
       "raw_hot": 54796,
-      "num": 589767,
+      "num": 601802,
       "word": "中传回应砍掉16个专业",
       "onboard_time": 1773126023,
       "rank": 42,
@@ -1547,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21065,
+      "num": 602681,
+      "word": "物业到底是来管理还是服务我们的",
+      "onboard_time": 1773126023,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19964,
       "num": 781261,
       "word": "甜茶去拉兰州拉面毫无违和",
@@ -1576,14 +1632,6 @@
       "word": "代表呼吁提高中低收入人群育儿补贴",
       "onboard_time": 1773116062,
       "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 14059,
-      "num": 590342,
-      "word": "物业到底是来管理还是服务我们的",
-      "onboard_time": 1773126023,
-      "rank": 35,
       "category": "国内时政"
     },
     {
