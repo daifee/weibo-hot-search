@@ -1,6 +1,6 @@
 {
   "startTime": 1773158847894,
-  "endTime": 1773166079258,
+  "endTime": 1773169253191,
   "band_list": [
     {
       "raw_hot": 5914442,
@@ -451,20 +451,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21789,
+      "num": 163112,
+      "word": "你好星期六",
+      "onboard_time": 1773165255,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21147,
       "num": 562858,
       "word": "中国两会将为全球创造更多机遇",
       "onboard_time": 1773147624,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20500,
-      "num": 163112,
-      "word": "你好星期六",
-      "onboard_time": 1773165255,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 19875,
@@ -481,6 +481,22 @@
       "onboard_time": 1773160100,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14771,
+      "num": 68900,
+      "word": "荣耀Magic V6",
+      "onboard_time": 1773151104,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 13804,
+      "num": 68430,
+      "word": "惊蛰无声",
+      "onboard_time": 1773168434,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 9521,

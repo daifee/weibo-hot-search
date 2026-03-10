@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/08 00:37:50 ~ 2026/03/11 02:07:59
+本榜单时间：2026/03/08 00:37:50 ~ 2026/03/11 03:00:53
 </p>
 </blockquote>
 <p>
@@ -6035,6 +6035,12 @@ WBG无缘先锋赛（热度：19496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%AB%98%E6%B3%95%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E6%9E%81%E7%AE%80%E7%89%88%E6%9D%A5%E4%BA%86%23" target="weibo">
 最高法工作报告极简版来了（热度：15014）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80Magic%20V6%23" target="weibo">
+荣耀Magic V6（热度：14771）
 </a>
 </li>
 
