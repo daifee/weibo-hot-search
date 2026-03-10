@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773170064513,
+  "endTime": 1773171929390,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -25723,6 +25723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15193,
+      "num": 68900,
+      "word": "荣耀Magic V6",
+      "onboard_time": 1773151104,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 15190,
       "num": 330971,
       "word": "别让加班文化透支消费活力",
@@ -25769,14 +25777,6 @@
       "onboard_time": 1772479875,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14806,
-      "num": 68900,
-      "word": "荣耀Magic V6",
-      "onboard_time": 1773151104,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 14631,
