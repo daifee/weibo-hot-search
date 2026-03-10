@@ -1,0 +1,410 @@
+{
+  "runTime": 1773133736670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 194032,
+        "num": 1031045,
+        "word": "宋平同志遗体在京火化",
+        "onboard_time": 1773130523,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131116,
+        "num": 1030435,
+        "word": "中传回应砍掉16个专业",
+        "onboard_time": 1773126023,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23583,
+        "num": 1021262,
+        "word": "推动新型城镇化今年有这些变化",
+        "onboard_time": 1773132863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190515,
+        "num": 1016053,
+        "word": "王曼昱爆冷",
+        "onboard_time": 1773124342,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148131,
+        "num": 1012436,
+        "word": "王曼昱0比3大藤沙月",
+        "onboard_time": 1773123922,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124212,
+        "num": 1005331,
+        "word": "马琳王曼昱赛后一言不发",
+        "onboard_time": 1773133642,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97333,
+        "num": 1003374,
+        "word": "大藤沙月回应首胜王曼昱",
+        "onboard_time": 1773129145,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386588,
+        "num": 993808,
+        "word": "手机集体涨价原因",
+        "onboard_time": 1773127884,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45978,
+        "num": 992026,
+        "word": "126个走出大山的孩子老师全都记得",
+        "onboard_time": 1773132565,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25803,
+        "num": 983403,
+        "word": "建议设夫妻陪护假解决住院无人陪",
+        "onboard_time": 1773132805,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2762904,
+        "num": 980542,
+        "word": "伊朗提出停火条件",
+        "onboard_time": 1773129145,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 374960,
+        "num": 971956,
+        "word": "王劲松长文",
+        "onboard_time": 1773130105,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333288,
+        "num": 969791,
+        "word": "黄金不再保值了吗",
+        "onboard_time": 1773127825,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238025,
+        "num": 962247,
+        "word": "香蕉有可能会灭绝",
+        "onboard_time": 1773113601,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93443,
+        "num": 955972,
+        "word": "建议小学三年级前课间半小时",
+        "onboard_time": 1773112462,
+        "rank": 14,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 227394,
+        "num": 952035,
+        "word": "35岁程序员写网文2年成大神",
+        "onboard_time": 1773131724,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213990,
+        "num": 946022,
+        "word": "白蛇传1924两天播放破2亿",
+        "onboard_time": 1773131784,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190162,
+        "num": 942220,
+        "word": "樊长玉真实身份",
+        "onboard_time": 1773130464,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79544,
+        "num": 935323,
+        "word": "150层酥皮连切30多刀雕出松鼠",
+        "onboard_time": 1773127524,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11290,
+        "num": 932775,
+        "word": "建议推出老年人防沉迷模式",
+        "onboard_time": 1773133224,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36088,
+        "num": 928077,
+        "word": "女子看日本人商场扮熊猫称很搞笑",
+        "onboard_time": 1773133463,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 4659582,
+        "num": 921951,
+        "word": "李羲承退队",
+        "onboard_time": 1773126921,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 917891,
+        "num": 917891,
+        "word": "JYP从JYP辞职了",
+        "onboard_time": 1773128484,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295507,
+        "num": 917832,
+        "word": "50岁大姐睡觉时粉碎性骨折",
+        "onboard_time": 1773127825,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624346,
+        "num": 917753,
+        "word": "ZB1解散",
+        "onboard_time": 1773128545,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302119,
+        "num": 917612,
+        "word": "七人男团魔咒",
+        "onboard_time": 1773128545,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163990,
+        "num": 917584,
+        "word": "12岁女孩盘下文具店雇妈妈看店",
+        "onboard_time": 1773130404,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256052,
+        "num": 917467,
+        "word": "李羲承进行曲",
+        "onboard_time": 1773130585,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250580,
+        "num": 917371,
+        "word": "汪峰要开演唱会了",
+        "onboard_time": 1773132204,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152880,
+        "num": 917258,
+        "word": "爸妈用车vs我用车",
+        "onboard_time": 1773131843,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229221,
+        "num": 917200,
+        "word": "朴成训 门面",
+        "onboard_time": 1773129446,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167168,
+        "num": 917069,
+        "word": "时代峰峻把world打成word",
+        "onboard_time": 1773131784,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146673,
+        "num": 916979,
+        "word": "千元机快要消失了",
+        "onboard_time": 1773132863,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152440,
+        "num": 916937,
+        "word": "白日提灯",
+        "onboard_time": 1773123381,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79644,
+        "num": 916820,
+        "word": "美的首发自进化家居智能体",
+        "onboard_time": 1773133702,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86923,
+        "num": 916705,
+        "word": "肖战藏海的封神之路",
+        "onboard_time": 1773129685,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150869,
+        "num": 916665,
+        "word": "长宁是未来皇后",
+        "onboard_time": 1773126622,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123936,
+        "num": 916564,
+        "word": "伊朗驻华大使称美以必须离开",
+        "onboard_time": 1773129266,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36979,
+        "num": 916438,
+        "word": "孙颖莎好chill",
+        "onboard_time": 1773132743,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75266,
+        "num": 916387,
+        "word": "孙颖莎些许犹豫",
+        "onboard_time": 1773132743,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122346,
+        "num": 916298,
+        "word": "美国开始甩锅了",
+        "onboard_time": 1773114742,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63996,
+        "num": 916174,
+        "word": "看到这谁能忍住不动",
+        "onboard_time": 1773132264,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 148062,
+        "num": 916060,
+        "word": "张凌赫回应天涯四美已合作两美",
+        "onboard_time": 1773122721,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142477,
+        "num": 915956,
+        "word": "肖战 黄金时代",
+        "onboard_time": 1773125121,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118835,
+        "num": 915900,
+        "word": "美军急调韩国萨德系统部署中东",
+        "onboard_time": 1773122841,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142461,
+        "num": 915833,
+        "word": "袁惟仁丧葬费用均由圈内好友支付",
+        "onboard_time": 1773127102,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109186,
+        "num": 915705,
+        "word": "德黑兰降黑雨",
+        "onboard_time": 1773126081,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93539,
+        "num": 915578,
+        "word": "张凌赫像是在横店待疯了",
+        "onboard_time": 1773120441,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92333,
+        "num": 915505,
+        "word": "enhypen成员",
+        "onboard_time": 1773129805,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92163,
+        "num": 915408,
+        "word": "自己做饭固然健康但能吃吗",
+        "onboard_time": 1773130883,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会约定#"
+    }
+  }
+}
