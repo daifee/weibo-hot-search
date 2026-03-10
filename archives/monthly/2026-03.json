@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773172710784,
+  "endTime": 1773175381648,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -25707,20 +25707,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15603,
+      "num": 68900,
+      "word": "荣耀Magic V6",
+      "onboard_time": 1773151104,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 15466,
       "num": 153851,
       "word": "建议试点建立工时大数据监测平台",
       "onboard_time": 1772894723,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15355,
-      "num": 68900,
-      "word": "荣耀Magic V6",
-      "onboard_time": 1773151104,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 15347,
@@ -26033,6 +26033,14 @@
       "onboard_time": 1772446404,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7595,
+      "num": 26684,
+      "word": "当6G走进生活你的一天可能是啥样",
+      "onboard_time": 1773173173,
+      "rank": 49,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 7147,
