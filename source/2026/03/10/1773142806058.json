@@ -1,0 +1,410 @@
+{
+  "runTime": 1773142806058,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 204711,
+        "num": 1032753,
+        "word": "宋平同志遗体在京火化",
+        "onboard_time": 1773130523,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184212,
+        "num": 1024142,
+        "word": "2026年安排国防支出1.94万亿元",
+        "onboard_time": 1773139281,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29773,
+        "num": 1016974,
+        "word": "推动新型城镇化今年有这些变化",
+        "onboard_time": 1773132863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167743,
+        "num": 1002349,
+        "word": "中方回应北京至平壤列车恢复运行",
+        "onboard_time": 1773135743,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123010,
+        "num": 995486,
+        "word": "52条中日航线2月取消全部航班",
+        "onboard_time": 1773135562,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88319,
+        "num": 987141,
+        "word": "150层酥皮连切30多刀雕出松鼠",
+        "onboard_time": 1773127524,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72857,
+        "num": 975382,
+        "word": "福建舰入列就形成了战斗力",
+        "onboard_time": 1773141801,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 59391,
+        "num": 967507,
+        "word": "建议推出老年人防沉迷模式",
+        "onboard_time": 1773133224,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46213,
+        "num": 956808,
+        "word": "中传回应砍掉16个专业",
+        "onboard_time": 1773126023,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36051,
+        "num": 937964,
+        "word": "建议关注大学生心理健康问题",
+        "onboard_time": 1773140425,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1475323,
+        "num": 925604,
+        "word": "伊朗提出停火条件",
+        "onboard_time": 1773129145,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 315166,
+        "num": 924437,
+        "word": "建议消除育龄女性职场顾虑",
+        "onboard_time": 1773138321,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189901,
+        "num": 912442,
+        "word": "周雨推测王曼昱爆冷输球原因",
+        "onboard_time": 1773135985,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187770,
+        "num": 902115,
+        "word": "白蛇传1924两天播放破2亿",
+        "onboard_time": 1773131784,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273305,
+        "num": 888285,
+        "word": "逐玉",
+        "onboard_time": 1773136762,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173056,
+        "num": 879846,
+        "word": "原来忌口辛辣是忌这些",
+        "onboard_time": 1773134242,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184729,
+        "num": 868416,
+        "word": "甜茶买了孙颖莎海报",
+        "onboard_time": 1773141261,
+        "rank": 16,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 183211,
+        "num": 850387,
+        "word": "孔雪儿回应和田曦薇二搭",
+        "onboard_time": 1773140002,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170816,
+        "num": 841343,
+        "word": "黄金不再保值了吗",
+        "onboard_time": 1773127825,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179441,
+        "num": 838325,
+        "word": "未婚夫去世了该不该赡养对方父母",
+        "onboard_time": 1773141982,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1532661,
+        "num": 827266,
+        "word": "JYP考公上岸了",
+        "onboard_time": 1773139522,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220870,
+        "num": 812513,
+        "word": "女子怀孕后送护肤品朋友感到冒犯",
+        "onboard_time": 1773137541,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806825,
+        "num": 806825,
+        "word": "李羲承退队",
+        "onboard_time": 1773126921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50314,
+        "num": 773795,
+        "word": "BeADreamer",
+        "onboard_time": 1773142582,
+        "rank": 23,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 767414,
+        "num": 767414,
+        "word": "杨紫紫色高定",
+        "onboard_time": 1773140482,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 288825,
+        "num": 767275,
+        "word": "刘亦菲看秀造型",
+        "onboard_time": 1773139403,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 205959,
+        "num": 766229,
+        "word": "LV大秀",
+        "onboard_time": 1773139103,
+        "rank": 26,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 87863,
+        "num": 765283,
+        "word": "罗永浩说手机行业好久没创新了",
+        "onboard_time": 1773141801,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 323551,
+        "num": 763517,
+        "word": "李羲承有点像我离职的lastday",
+        "onboard_time": 1773138022,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244732,
+        "num": 762436,
+        "word": "倪虹洁走完红毯天塌了",
+        "onboard_time": 1773141623,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143489,
+        "num": 761072,
+        "word": "英国博物馆被曝藏超26万件人类遗骸",
+        "onboard_time": 1773131843,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230997,
+        "num": 760499,
+        "word": "JYP从JYP辞职了",
+        "onboard_time": 1773128484,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170584,
+        "num": 759739,
+        "word": "ZB1解散",
+        "onboard_time": 1773128545,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127350,
+        "num": 757882,
+        "word": "50岁大姐睡觉时粉碎性骨折",
+        "onboard_time": 1773127825,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133628,
+        "num": 757730,
+        "word": "鹿晗五哈上班",
+        "onboard_time": 1773135203,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122020,
+        "num": 756242,
+        "word": "手机涨价潮下老款机型遭疯抢",
+        "onboard_time": 1773141142,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116423,
+        "num": 755182,
+        "word": "手机集体涨价原因",
+        "onboard_time": 1773127884,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112119,
+        "num": 753653,
+        "word": "原来茶叶会越放越香",
+        "onboard_time": 1773142402,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110843,
+        "num": 753116,
+        "word": "哄自己多喝水的邪修方法",
+        "onboard_time": 1773139942,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25645,
+        "num": 751653,
+        "word": "国宝级兵王亮相",
+        "onboard_time": 1773142642,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102327,
+        "num": 751267,
+        "word": "袁惟仁丧葬费用均由圈内好友支付",
+        "onboard_time": 1773127102,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47568,
+        "num": 750305,
+        "word": "美的稳坐全球智能家电销量第一",
+        "onboard_time": 1773137121,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97020,
+        "num": 748652,
+        "word": "在医院生个孩子只花了2块5",
+        "onboard_time": 1773142101,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88943,
+        "num": 747303,
+        "word": "你的下一部手机要多花1000元",
+        "onboard_time": 1773135623,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88904,
+        "num": 746280,
+        "word": "马琳王曼昱赛后一言不发",
+        "onboard_time": 1773133642,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86052,
+        "num": 745148,
+        "word": "35岁程序员写网文2年成大神",
+        "onboard_time": 1773131724,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79686,
+        "num": 744634,
+        "word": "白日提灯",
+        "onboard_time": 1773123381,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74071,
+        "num": 743522,
+        "word": "王曼昱爆冷",
+        "onboard_time": 1773124342,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50162,
+        "num": 742449,
+        "word": "王曼昱输球后未接受采访",
+        "onboard_time": 1773132502,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29259,
+        "num": 741418,
+        "word": "王曼昱重庆冠军赛状态",
+        "onboard_time": 1773138563,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会约定#"
+    }
+  }
+}
