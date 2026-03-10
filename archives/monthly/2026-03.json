@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773171929390,
+  "endTime": 1773172710784,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -25715,20 +25715,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15355,
+      "num": 68900,
+      "word": "荣耀Magic V6",
+      "onboard_time": 1773151104,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 15347,
       "num": 372980,
       "word": "建议建立长期护理保险制度",
       "onboard_time": 1772552848,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15193,
-      "num": 68900,
-      "word": "荣耀Magic V6",
-      "onboard_time": 1773151104,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 15190,
