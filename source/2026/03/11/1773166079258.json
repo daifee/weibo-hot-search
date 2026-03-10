@@ -1,0 +1,410 @@
+{
+  "runTime": 1773166079258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 95083,
+        "num": 236897,
+        "word": "去机场不该比坐飞机时间还长",
+        "onboard_time": 1773151042,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33146,
+        "num": 175878,
+        "word": "建议高速每年1000元免费额度",
+        "onboard_time": 1773153144,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10476,
+        "num": 175596,
+        "word": "中国两会将为全球创造更多机遇",
+        "onboard_time": 1773147624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30906,
+        "num": 174652,
+        "word": "75万亿元居民存款将到期",
+        "onboard_time": 1773158061,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 26379,
+        "num": 173058,
+        "word": "中国队金牌榜奖牌榜都是第一",
+        "onboard_time": 1773146902,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78037,
+        "num": 172787,
+        "word": "我要回伊朗我要保卫我的国家",
+        "onboard_time": 1773152184,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62395,
+        "num": 172023,
+        "word": "刘国梁卸任WTT董事会主席",
+        "onboard_time": 1773159380,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43320,
+        "num": 170584,
+        "word": "伊朗高官6种语言发帖",
+        "onboard_time": 1773153324,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9262,
+        "num": 169894,
+        "word": "外媒记者期待与中国共享发展新机遇",
+        "onboard_time": 1773147624,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22188,
+        "num": 169045,
+        "word": "杨舒予担任中国女篮队长",
+        "onboard_time": 1773151343,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168193,
+        "num": 168193,
+        "word": "伊朗提出停火条件",
+        "onboard_time": 1773129145,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106543,
+        "num": 168076,
+        "word": "地球或将迎超级厄尔尼诺现象",
+        "onboard_time": 1773154944,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77971,
+        "num": 167910,
+        "word": "作者一边写天灾一边处理人祸",
+        "onboard_time": 1773160040,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41177,
+        "num": 167796,
+        "word": "逐玉 女主职业自卑",
+        "onboard_time": 1773146544,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35748,
+        "num": 167637,
+        "word": "杨迪回复穆祉丞",
+        "onboard_time": 1773150624,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33408,
+        "num": 167344,
+        "word": "把果蝇的大脑复制到电脑",
+        "onboard_time": 1773148464,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30959,
+        "num": 167239,
+        "word": "伊朗驻华大使谈霍尔木兹海峡通行",
+        "onboard_time": 1773145342,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30357,
+        "num": 167144,
+        "word": "肖战白敬亭没使劲 陈伟霆是真犟",
+        "onboard_time": 1773149124,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29615,
+        "num": 166855,
+        "word": "哈哈哈哈哈6",
+        "onboard_time": 1773155424,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26532,
+        "num": 166775,
+        "word": "孔雪儿演技",
+        "onboard_time": 1773147443,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 925399,
+        "num": 166545,
+        "word": "张凌赫道歉",
+        "onboard_time": 1773145702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97879,
+        "num": 166311,
+        "word": "李羲承退队",
+        "onboard_time": 1773126921,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69813,
+        "num": 166143,
+        "word": "逐玉",
+        "onboard_time": 1773136762,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68118,
+        "num": 165988,
+        "word": "原来这些爆火的文案都是王源写的",
+        "onboard_time": 1773145825,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50636,
+        "num": 165893,
+        "word": "洪欣张镐濂不像母子像姐弟",
+        "onboard_time": 1773161898,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206162,
+        "num": 165634,
+        "word": "你好星期六删除张凌赫争议片段",
+        "onboard_time": 1773153981,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48917,
+        "num": 165579,
+        "word": "JYP考公上岸了",
+        "onboard_time": 1773139522,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38219,
+        "num": 165331,
+        "word": "崔然竣 光头强",
+        "onboard_time": 1773152364,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 35791,
+        "num": 165083,
+        "word": "杨紫紫色高定",
+        "onboard_time": 1773140482,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29386,
+        "num": 165058,
+        "word": "突然一下就不焦虑了",
+        "onboard_time": 1773144503,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29160,
+        "num": 164814,
+        "word": "刘亦菲ins更新看秀照",
+        "onboard_time": 1773149243,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 26895,
+        "num": 164689,
+        "word": "婆婆进卧室不敲门儿媳崩溃哭诉",
+        "onboard_time": 1773143063,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26015,
+        "num": 164465,
+        "word": "鹿晗喝霸王茶姬",
+        "onboard_time": 1773147801,
+        "rank": 32,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 24840,
+        "num": 164343,
+        "word": "陈昊宇新剧给自己生了个弟弟",
+        "onboard_time": 1773151343,
+        "rank": 33,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 23386,
+        "num": 164142,
+        "word": "MiuMiu直播",
+        "onboard_time": 1773149064,
+        "rank": 34,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 22986,
+        "num": 163942,
+        "word": "尹李灿直播时看到李羲承退队的反应",
+        "onboard_time": 1773159200,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21756,
+        "num": 163699,
+        "word": "李在明回应萨德外调",
+        "onboard_time": 1773157103,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21155,
+        "num": 163491,
+        "word": "22个月大宝宝在院子里慵懒躺倒晒太阳",
+        "onboard_time": 1773146425,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21097,
+        "num": 163482,
+        "word": "blackpink的周冠宇",
+        "onboard_time": 1773146844,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21002,
+        "num": 163281,
+        "word": "周杰伦新专辑时间",
+        "onboard_time": 1773152124,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20500,
+        "num": 163112,
+        "word": "你好星期六",
+        "onboard_time": 1773165255,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19424,
+        "num": 162924,
+        "word": "批发商回应4.5元的1米大肉串卖20元",
+        "onboard_time": 1773155123,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18677,
+        "num": 162663,
+        "word": "村民20元买彩票中100万",
+        "onboard_time": 1773147742,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18376,
+        "num": 162595,
+        "word": "至尊马蒂",
+        "onboard_time": 1773164596,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16953,
+        "num": 162421,
+        "word": "在医院生个孩子只花了2块5",
+        "onboard_time": 1773142101,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16653,
+        "num": 162260,
+        "word": "苏新皓跳第三个吻痕",
+        "onboard_time": 1773149664,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16547,
+        "num": 162069,
+        "word": "鞠婧祎ELLE四月刊官宣节奏",
+        "onboard_time": 1773163996,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16104,
+        "num": 161873,
+        "word": "好好的时光",
+        "onboard_time": 1773156623,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14508,
+        "num": 161661,
+        "word": "院士说文科生绝不会被AI替代",
+        "onboard_time": 1773151583,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12938,
+        "num": 161475,
+        "word": "周冠宇渴望正式席位的大眼睛",
+        "onboard_time": 1773160100,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保一张蓝图绘到底#"
+    }
+  }
+}

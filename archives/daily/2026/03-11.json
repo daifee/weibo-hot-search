@@ -1,6 +1,6 @@
 {
   "startTime": 1773158847894,
-  "endTime": 1773165217769,
+  "endTime": 1773166079258,
   "band_list": [
     {
       "raw_hot": 5914442,
@@ -457,6 +457,14 @@
       "onboard_time": 1773147624,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20500,
+      "num": 163112,
+      "word": "你好星期六",
+      "onboard_time": 1773165255,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 19875,
