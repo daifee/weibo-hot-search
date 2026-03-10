@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/01 00:36:45 ~ 2026/03/10 23:16:49
+本榜单时间：2026/03/01 00:36:45 ~ 2026/03/11 00:07:27
 </p>
 </blockquote>
 <p>
@@ -4731,6 +4731,12 @@ JDG对战狼队（热度：306075）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E6%88%96%E5%B0%86%E8%BF%8E%E8%B6%85%E7%BA%A7%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E7%8E%B0%E8%B1%A1%23" target="weibo">
+地球或将迎超级厄尔尼诺现象（热度：283577）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%20%E4%BB%BB%E8%B1%AA%23" target="weibo">
 逐玉 任豪（热度：283369）
 </a>
@@ -6005,12 +6011,6 @@ Naiyou疑似假赛（热度：220660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E4%B8%AA%E5%AD%A6%E8%A2%AB%E8%80%81%E5%B8%88%E7%A7%91%E6%99%AE%E4%BA%86%E4%B8%89%E5%A4%A9%E4%B8%AD%E5%9B%BD%23" target="weibo">
 留个学被老师科普了三天中国（热度：218890）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E5%B9%B4%E7%94%B7%E6%80%A7%E8%85%B0%E5%9B%B4%E6%8E%A7%E5%88%B690cm%E4%BB%A5%E5%86%85%E5%A5%B3%E6%80%A785%E4%BB%A5%E5%86%85%23" target="weibo">
-成年男性腰围控制90cm以内女性85以内（热度：218629）
 </a>
 </li>
 
