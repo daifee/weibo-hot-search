@@ -1,0 +1,410 @@
+{
+  "runTime": 1773122040764,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 245593,
+        "num": 1039294,
+        "word": "6G网要来了",
+        "onboard_time": 1773102801,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163186,
+        "num": 1034437,
+        "word": "建议小学三年级前课间半小时",
+        "onboard_time": 1773112462,
+        "rank": 1,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 22235,
+        "num": 968400,
+        "word": "两会声音传递法治力度民生温度",
+        "onboard_time": 1773113841,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60287,
+        "num": 915120,
+        "word": "正在解决地外星球长期生存问题",
+        "onboard_time": 1773110480,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287675,
+        "num": 878301,
+        "word": "2026白玉兰预测",
+        "onboard_time": 1773119062,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 861769,
+        "num": 861769,
+        "word": "美国开始甩锅了",
+        "onboard_time": 1773114742,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175904,
+        "num": 861631,
+        "word": "代表说儿子告诉他千万不要爹味太浓",
+        "onboard_time": 1773113962,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117795,
+        "num": 861493,
+        "word": "委员劝大家把事情看淡",
+        "onboard_time": 1773118823,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20642,
+        "num": 861467,
+        "word": "制造业升级的超级红包来了",
+        "onboard_time": 1773113662,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85271,
+        "num": 861326,
+        "word": "五月天演唱会取消24号场次",
+        "onboard_time": 1773113962,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 506533,
+        "num": 861131,
+        "word": "香蕉有可能会灭绝",
+        "onboard_time": 1773113601,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337466,
+        "num": 860981,
+        "word": "第一次见反向装修的",
+        "onboard_time": 1773119242,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326823,
+        "num": 860861,
+        "word": "美媒称这场战争打不起了",
+        "onboard_time": 1773107660,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252382,
+        "num": 860713,
+        "word": "手机市场将迎来全面涨价",
+        "onboard_time": 1773114024,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 227719,
+        "num": 860594,
+        "word": "OPPO涨价",
+        "onboard_time": 1773112161,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 211613,
+        "num": 860401,
+        "word": "火鸡面冰淇淋",
+        "onboard_time": 1773115761,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184088,
+        "num": 860237,
+        "word": "樊长玉得知谢征是武安侯",
+        "onboard_time": 1773111680,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160643,
+        "num": 860143,
+        "word": "青3创4门面同框今夕是何年",
+        "onboard_time": 1773120199,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113394,
+        "num": 859910,
+        "word": "普京提建议后特朗普称很快停火",
+        "onboard_time": 1773121101,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103432,
+        "num": 859797,
+        "word": "逐玉原来谢征亲回去了",
+        "onboard_time": 1773114383,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 684982,
+        "num": 859690,
+        "word": "Ella送别袁惟仁哭到抽搐",
+        "onboard_time": 1773115342,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153998,
+        "num": 859459,
+        "word": "别再吃高油高盐的食物了",
+        "onboard_time": 1773114802,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198941,
+        "num": 859438,
+        "word": "张凌赫像是在横店待疯了",
+        "onboard_time": 1773120441,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130766,
+        "num": 859285,
+        "word": "原来这么多年错怪凤梨了",
+        "onboard_time": 1773117624,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120907,
+        "num": 859098,
+        "word": "伊朗称驱逐美以大使可过霍尔木兹",
+        "onboard_time": 1773105081,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227594,
+        "num": 859003,
+        "word": "医生提醒不要模仿Ella真空腹",
+        "onboard_time": 1773098059,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120475,
+        "num": 858832,
+        "word": "经纪公司否认张娜拉去世",
+        "onboard_time": 1773111261,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115536,
+        "num": 858624,
+        "word": "一个小朋友学过台阶的视频火了",
+        "onboard_time": 1773120022,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111036,
+        "num": 858447,
+        "word": "男子养双头龟喂食时2个头还争食",
+        "onboard_time": 1773114561,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105752,
+        "num": 858432,
+        "word": "袁惟仁告别式",
+        "onboard_time": 1773115281,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107593,
+        "num": 858197,
+        "word": "美方称不会让印度胜过美国",
+        "onboard_time": 1773119362,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98713,
+        "num": 858046,
+        "word": "李诞称有人用AI龙虾约女主播饭",
+        "onboard_time": 1773121700,
+        "rank": 31,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 95650,
+        "num": 858000,
+        "word": "性格有5个特点的人更容易长寿",
+        "onboard_time": 1773106939,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94849,
+        "num": 857729,
+        "word": "腾讯版小龙虾致歉信",
+        "onboard_time": 1773115943,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88410,
+        "num": 857704,
+        "word": "数字生命",
+        "onboard_time": 1773121641,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78491,
+        "num": 857467,
+        "word": "伊朗放弃猛打猛冲",
+        "onboard_time": 1773102021,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74903,
+        "num": 857423,
+        "word": "20头整容骆驼参加选美被抓包",
+        "onboard_time": 1773112281,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74400,
+        "num": 857174,
+        "word": "爱奇艺逐玉标题00后写的吧",
+        "onboard_time": 1773111920,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69157,
+        "num": 857058,
+        "word": "刘亦菲LV大秀造型图",
+        "onboard_time": 1773107423,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 51051,
+        "num": 856896,
+        "word": "建议育儿补贴对二胎家庭加倍",
+        "onboard_time": 1773118823,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66760,
+        "num": 856739,
+        "word": "周深 合同签了吗",
+        "onboard_time": 1773111920,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66458,
+        "num": 856688,
+        "word": "林书豪说蒲熠星长得好漂亮",
+        "onboard_time": 1773114262,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65903,
+        "num": 856524,
+        "word": "年轻人的三座大山房价职场婚恋",
+        "onboard_time": 1773120982,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65482,
+        "num": 856363,
+        "word": "男女主爱惨了观众嗑疯了",
+        "onboard_time": 1773121700,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60496,
+        "num": 856218,
+        "word": "未来5年中国要建设的重大工程",
+        "onboard_time": 1773100580,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50179,
+        "num": 856020,
+        "word": "动物园门口织长颈鹿包包的阿姨火了",
+        "onboard_time": 1773118823,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62773,
+        "num": 855932,
+        "word": "KPL",
+        "onboard_time": 1773119542,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61584,
+        "num": 855775,
+        "word": "我听到肖战这里真的掉眼泪了",
+        "onboard_time": 1773114921,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46233,
+        "num": 855690,
+        "word": "WTT重庆冠军赛",
+        "onboard_time": 1773118641,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14592,
+        "num": 855507,
+        "word": "代表呼吁提高中低收入人群育儿补贴",
+        "onboard_time": 1773116062,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#为了中华民族永续发展#"
+    }
+  }
+}
