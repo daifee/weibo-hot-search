@@ -1,0 +1,410 @@
+{
+  "runTime": 1773150187382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 153125,
+        "num": 1024500,
+        "word": "2026年安排国防支出1.94万亿元",
+        "onboard_time": 1773139281,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118900,
+        "num": 746464,
+        "word": "宋平同志遗体在京火化",
+        "onboard_time": 1773130523,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31158,
+        "num": 593677,
+        "word": "中国两会将为全球创造更多机遇",
+        "onboard_time": 1773147624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288496,
+        "num": 580660,
+        "word": "中国队金牌榜奖牌榜都是第一",
+        "onboard_time": 1773146902,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97529,
+        "num": 563598,
+        "word": "建议向新婚夫妇发放住房补贴",
+        "onboard_time": 1773144683,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71727,
+        "num": 549988,
+        "word": "福建舰入列就形成了战斗力",
+        "onboard_time": 1773141801,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 71200,
+        "num": 534605,
+        "word": "国家互联网应急中心提示龙虾风险",
+        "onboard_time": 1773144863,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68777,
+        "num": 525813,
+        "word": "52条中日航线2月取消全部航班",
+        "onboard_time": 1773135562,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19076,
+        "num": 507554,
+        "word": "外媒记者期待与中国共享发展新机遇",
+        "onboard_time": 1773147624,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37128,
+        "num": 494315,
+        "word": "委员说能量低时要养一养",
+        "onboard_time": 1773149183,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 803215,
+        "num": 466976,
+        "word": "伊朗提出停火条件",
+        "onboard_time": 1773129145,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 461862,
+        "num": 461862,
+        "word": "逐玉 女主职业自卑",
+        "onboard_time": 1773146544,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358236,
+        "num": 358236,
+        "word": "第一批养虾人已经开始卸载了",
+        "onboard_time": 1773147025,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 305650,
+        "num": 357869,
+        "word": "肖战白敬亭没使劲 陈伟霆是真犟",
+        "onboard_time": 1773149124,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191779,
+        "num": 357761,
+        "word": "把果蝇的大脑复制到电脑",
+        "onboard_time": 1773148464,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144522,
+        "num": 357166,
+        "word": "伊朗驻华大使谈霍尔木兹海峡通行",
+        "onboard_time": 1773145342,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144137,
+        "num": 357094,
+        "word": "MiuMiu直播",
+        "onboard_time": 1773149064,
+        "rank": 16,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 143091,
+        "num": 356634,
+        "word": "在医院生个孩子只花了2块5",
+        "onboard_time": 1773142101,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62019,
+        "num": 356308,
+        "word": "荣耀MagicV6太能整活了",
+        "onboard_time": 1773147983,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 59305,
+        "num": 355972,
+        "word": "徐梦桃和她的冠军荣耀",
+        "onboard_time": 1773149783,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7650429,
+        "num": 7650429,
+        "word": "张凌赫道歉",
+        "onboard_time": 1773145702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662555,
+        "num": 355112,
+        "word": "JYP考公上岸了",
+        "onboard_time": 1773139522,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363109,
+        "num": 354494,
+        "word": "突然一下就不焦虑了",
+        "onboard_time": 1773144503,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 615653,
+        "num": 354409,
+        "word": "杨紫紫色高定",
+        "onboard_time": 1773140482,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 65175,
+        "num": 353878,
+        "word": "LV秋冬女装秀",
+        "onboard_time": 1773147983,
+        "rank": 24,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 136030,
+        "num": 353703,
+        "word": "镖人 惠英红挟持戏份删减",
+        "onboard_time": 1773147683,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 527258,
+        "num": 353126,
+        "word": "李羲承退队",
+        "onboard_time": 1773126921,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293945,
+        "num": 352724,
+        "word": "婆婆进卧室不敲门儿媳崩溃哭诉",
+        "onboard_time": 1773143063,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264057,
+        "num": 352322,
+        "word": "逐玉",
+        "onboard_time": 1773136762,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243641,
+        "num": 351941,
+        "word": "原来这些爆火的文案都是王源写的",
+        "onboard_time": 1773145825,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193046,
+        "num": 351632,
+        "word": "鹿晗喝霸王茶姬",
+        "onboard_time": 1773147801,
+        "rank": 30,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 134675,
+        "num": 351419,
+        "word": "22个月大宝宝在院子里慵懒躺倒晒太阳",
+        "onboard_time": 1773146425,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33790,
+        "num": 350802,
+        "word": "中朝国际旅客列车将双向开行",
+        "onboard_time": 1773148825,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146858,
+        "num": 350552,
+        "word": "刘亦菲看秀造型",
+        "onboard_time": 1773139403,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 138034,
+        "num": 349997,
+        "word": "未婚夫去世了该不该赡养对方父母",
+        "onboard_time": 1773141982,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129151,
+        "num": 349851,
+        "word": "村民20元买彩票中100万",
+        "onboard_time": 1773147742,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10879,
+        "num": 349447,
+        "word": "留守儿童被手机锁住要怎么改变",
+        "onboard_time": 1773150025,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131081,
+        "num": 348866,
+        "word": "苏新皓跳第三个吻痕",
+        "onboard_time": 1773149664,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123680,
+        "num": 348562,
+        "word": "杨紫周翊然活动同台",
+        "onboard_time": 1773147863,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120309,
+        "num": 348342,
+        "word": "王宁身价达1100亿元",
+        "onboard_time": 1773150025,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122910,
+        "num": 347999,
+        "word": "甜茶买了孙颖莎海报",
+        "onboard_time": 1773141261,
+        "rank": 40,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 117202,
+        "num": 347475,
+        "word": "逐玉云合",
+        "onboard_time": 1773145162,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101967,
+        "num": 347214,
+        "word": "原来厉害的人面试这么溜啊",
+        "onboard_time": 1773144683,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111806,
+        "num": 346903,
+        "word": "刘亦菲ins更新看秀照",
+        "onboard_time": 1773149243,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 104449,
+        "num": 346231,
+        "word": "孔雪儿演技",
+        "onboard_time": 1773147443,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101690,
+        "num": 346113,
+        "word": "blackpink的周冠宇",
+        "onboard_time": 1773146844,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98851,
+        "num": 345686,
+        "word": "同频真的太重要了",
+        "onboard_time": 1773149303,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96626,
+        "num": 345393,
+        "word": "林高远也加入网球大军",
+        "onboard_time": 1773148464,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94514,
+        "num": 344945,
+        "word": "国乒人才梯队建设怎么样",
+        "onboard_time": 1773148825,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93497,
+        "num": 344438,
+        "word": "ZB1解散",
+        "onboard_time": 1773128545,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保一张蓝图绘到底#"
+    }
+  }
+}

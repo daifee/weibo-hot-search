@@ -1,6 +1,6 @@
 {
   "startTime": 1773072464174,
-  "endTime": 1773148618863,
+  "endTime": 1773150187382,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -243,6 +243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 461862,
+      "num": 581932,
+      "word": "逐玉 女主职业自卑",
+      "onboard_time": 1773146544,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 461102,
       "num": 703520,
       "word": "姑姑你明天没法上学了",
@@ -315,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363109,
+      "num": 501849,
+      "word": "突然一下就不焦虑了",
+      "onboard_time": 1773144503,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 361342,
       "num": 859910,
       "word": "普京提建议后特朗普称很快停火",
       "onboard_time": 1773121101,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 358236,
+      "num": 579266,
+      "word": "第一批养虾人已经开始卸载了",
+      "onboard_time": 1773147025,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 340698,
@@ -377,14 +401,6 @@
       "onboard_time": 1773057022,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324118,
-      "num": 501849,
-      "word": "突然一下就不焦虑了",
-      "onboard_time": 1773144503,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 323621,
@@ -499,6 +515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 305650,
+      "num": 357869,
+      "word": "肖战白敬亭没使劲 陈伟霆是真犟",
+      "onboard_time": 1773149124,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295778,
       "num": 917467,
       "word": "李羲承进行曲",
@@ -513,6 +537,14 @@
       "onboard_time": 1773126622,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288496,
+      "num": 600038,
+      "word": "中国队金牌榜奖牌榜都是第一",
+      "onboard_time": 1773146902,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 287675,
@@ -579,20 +611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258531,
-      "num": 600038,
-      "word": "中国队金牌榜奖牌榜都是第一",
-      "onboard_time": 1773146902,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245331,
       "num": 981770,
       "word": "13岁中国小孩哥夺得世界街舞冠军",
       "onboard_time": 1773058761,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243641,
+      "num": 498004,
+      "word": "原来这些爆火的文案都是王源写的",
+      "onboard_time": 1773145825,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 242901,
@@ -707,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212961,
-      "num": 498004,
-      "word": "原来这些爆火的文案都是王源写的",
-      "onboard_time": 1773145825,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 211497,
       "num": 1011941,
       "word": "52条中日航线2月取消全部航班",
@@ -819,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200222,
-      "num": 581932,
-      "word": "逐玉 女主职业自卑",
-      "onboard_time": 1773146544,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195447,
       "num": 602037,
       "word": "亚历山大绝杀掘金",
@@ -841,6 +857,22 @@
       "onboard_time": 1773104363,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193046,
+      "num": 488442,
+      "word": "鹿晗喝霸王茶姬",
+      "onboard_time": 1773147801,
+      "rank": 34,
+      "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 191779,
+      "num": 491056,
+      "word": "把果蝇的大脑复制到电脑",
+      "onboard_time": 1773148464,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 190822,
@@ -931,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165259,
-      "num": 579266,
-      "word": "第一批养虾人已经开始卸载了",
-      "onboard_time": 1773147025,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 163990,
       "num": 917584,
       "word": "12岁女孩盘下文具店雇妈妈看店",
@@ -995,14 +1019,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 152042,
-      "num": 488442,
-      "word": "鹿晗喝霸王茶姬",
-      "onboard_time": 1773147801,
-      "rank": 34,
-      "category": "艺人,美食"
-    },
-    {
       "raw_hot": 151968,
       "num": 1003374,
       "word": "大藤沙月回应首胜王曼昱",
@@ -1041,6 +1057,22 @@
       "onboard_time": 1773132863,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 144522,
+      "num": 484783,
+      "word": "伊朗驻华大使谈霍尔木兹海峡通行",
+      "onboard_time": 1773145342,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 144137,
+      "num": 357094,
+      "word": "MiuMiu直播",
+      "onboard_time": 1773149064,
+      "rank": 16,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 142241,
@@ -1115,6 +1147,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136030,
+      "num": 487120,
+      "word": "镖人 惠英红挟持戏份删减",
+      "onboard_time": 1773147683,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 134675,
+      "num": 482812,
+      "word": "22个月大宝宝在院子里慵懒躺倒晒太阳",
+      "onboard_time": 1773146425,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134114,
       "num": 858447,
       "word": "男子养双头龟喂食时2个头还争食",
@@ -1147,6 +1195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 131081,
+      "num": 348866,
+      "word": "苏新皓跳第三个吻痕",
+      "onboard_time": 1773149664,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130566,
       "num": 596600,
       "word": "孔雪儿逐玉带球跑",
@@ -1163,12 +1219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129227,
-      "num": 487120,
-      "word": "镖人 惠英红挟持戏份删减",
-      "onboard_time": 1773147683,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 129151,
+      "num": 479862,
+      "word": "村民20元买彩票中100万",
+      "onboard_time": 1773147742,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129054,
@@ -1211,14 +1267,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 125324,
-      "num": 491056,
-      "word": "把果蝇的大脑复制到电脑",
-      "onboard_time": 1773148464,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 124941,
       "num": 474664,
       "word": "给男朋友用特效化妆",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1773127524,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123680,
+      "num": 482539,
+      "word": "杨紫周翊然活动同台",
+      "onboard_time": 1773147863,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 123610,
@@ -1275,12 +1331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118758,
-      "num": 484783,
-      "word": "伊朗驻华大使谈霍尔木兹海峡通行",
-      "onboard_time": 1773145342,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 120309,
+      "num": 348342,
+      "word": "王宁身价达1100亿元",
+      "onboard_time": 1773150025,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 118102,
@@ -1289,22 +1345,6 @@
       "onboard_time": 1773129805,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117709,
-      "num": 482812,
-      "word": "22个月大宝宝在院子里慵懒躺倒晒太阳",
-      "onboard_time": 1773146425,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116616,
-      "num": 482539,
-      "word": "杨紫周翊然活动同台",
-      "onboard_time": 1773147863,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 115818,
@@ -1339,14 +1379,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 113573,
-      "num": 479862,
-      "word": "村民20元买彩票中100万",
-      "onboard_time": 1773147742,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112678,
       "num": 479052,
       "word": "blackpink的周冠宇",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1773142402,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 111806,
+      "num": 346903,
+      "word": "刘亦菲ins更新看秀照",
+      "onboard_time": 1773149243,
+      "rank": 43,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 110971,
@@ -1435,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104449,
+      "num": 466631,
+      "word": "孔雪儿演技",
+      "onboard_time": 1773147443,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104321,
       "num": 220651,
       "word": "6个月宝宝吃辅食被香得一激灵",
@@ -1483,14 +1531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100036,
-      "num": 466631,
-      "word": "孔雪儿演技",
-      "onboard_time": 1773147443,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99592,
       "num": 617148,
       "word": "胖东来八成员工月收入9000元",
@@ -1499,12 +1539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98851,
+      "num": 345686,
+      "word": "同频真的太重要了",
+      "onboard_time": 1773149303,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98494,
       "num": 367822,
       "word": "杨超越 中国有自己的张元英",
       "onboard_time": 1773056540,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 97529,
+      "num": 595365,
+      "word": "建议向新婚夫妇发放住房补贴",
+      "onboard_time": 1773144683,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97295,
@@ -1537,6 +1593,14 @@
       "onboard_time": 1773106820,
       "rank": 34,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 94514,
+      "num": 344945,
+      "word": "国乒人才梯队建设怎么样",
+      "onboard_time": 1773148825,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 93849,
@@ -1609,14 +1673,6 @@
       "onboard_time": 1773068064,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88882,
-      "num": 595365,
-      "word": "建议向新婚夫妇发放住房补贴",
-      "onboard_time": 1773144683,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88462,
@@ -1963,6 +2019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 65175,
+      "num": 558456,
+      "word": "LV秋冬女装秀",
+      "onboard_time": 1773147983,
+      "rank": 23,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 64854,
       "num": 201755,
       "word": "孙颖莎萌态震惊",
@@ -2035,6 +2099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62019,
+      "num": 568011,
+      "word": "荣耀MagicV6太能整活了",
+      "onboard_time": 1773147983,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 61510,
       "num": 589272,
       "word": "A股超4300家股上涨",
@@ -2059,12 +2131,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 60806,
-      "num": 558456,
-      "word": "LV秋冬女装秀",
-      "onboard_time": 1773147983,
-      "rank": 23,
-      "category": "时尚,作品衍生"
+      "raw_hot": 59305,
+      "num": 355972,
+      "word": "徐梦桃和她的冠军荣耀",
+      "onboard_time": 1773149783,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 59248,
@@ -2137,14 +2209,6 @@
       "onboard_time": 1773100101,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54692,
-      "num": 568011,
-      "word": "荣耀MagicV6太能整活了",
-      "onboard_time": 1773147983,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 54555,
@@ -2435,6 +2499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37128,
+      "num": 494315,
+      "word": "委员说能量低时要养一养",
+      "onboard_time": 1773149183,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36979,
       "num": 916438,
       "word": "孙颖莎好chill",
@@ -2467,6 +2539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33790,
+      "num": 350802,
+      "word": "中朝国际旅客列车将双向开行",
+      "onboard_time": 1773148825,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32649,
       "num": 522504,
       "word": "最高法成绩单新亮点",
@@ -2495,6 +2575,14 @@
       "num": 1025878,
       "word": "推动新型城镇化今年有这些变化",
       "onboard_time": 1773132863,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31158,
+      "num": 601516,
+      "word": "中国两会将为全球创造更多机遇",
+      "onboard_time": 1773147624,
       "rank": 2,
       "category": "国内时政"
     },
@@ -2563,14 +2651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24141,
-      "num": 601516,
-      "word": "中国两会将为全球创造更多机遇",
-      "onboard_time": 1773147624,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 24078,
       "num": 592152,
       "word": "代表称农民工怕社保断缴白花钱",
@@ -2627,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19076,
+      "num": 589407,
+      "word": "外媒记者期待与中国共享发展新机遇",
+      "onboard_time": 1773147624,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18231,
       "num": 105360,
       "word": "王者荣耀打击代练上分",
@@ -2649,14 +2737,6 @@
       "onboard_time": 1773147624,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15158,
-      "num": 589407,
-      "word": "外媒记者期待与中国共享发展新机遇",
-      "onboard_time": 1773147624,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14592,
@@ -2697,6 +2777,14 @@
       "onboard_time": 1773080055,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 10879,
+      "num": 349447,
+      "word": "留守儿童被手机锁住要怎么改变",
+      "onboard_time": 1773150025,
+      "rank": 36,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
