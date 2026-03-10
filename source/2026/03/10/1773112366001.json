@@ -1,0 +1,410 @@
+{
+  "runTime": 1773112366001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 438821,
+        "num": 1070211,
+        "word": "6G网要来了",
+        "onboard_time": 1773102801,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215645,
+        "num": 773380,
+        "word": "物业管理改服务住建部采纳了",
+        "onboard_time": 1773105621,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22793,
+        "num": 625936,
+        "word": "2026这些区域将迎发展",
+        "onboard_time": 1773064283,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85529,
+        "num": 625588,
+        "word": "正在解决地外星球长期生存问题",
+        "onboard_time": 1773110480,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161079,
+        "num": 623305,
+        "word": "未来5年中国要建设的重大工程",
+        "onboard_time": 1773100580,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 746215,
+        "num": 621949,
+        "word": "美媒称这场战争打不起了",
+        "onboard_time": 1773107660,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103831,
+        "num": 619487,
+        "word": "OPPO涨价",
+        "onboard_time": 1773112161,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99592,
+        "num": 617148,
+        "word": "胖东来八成员工月收入9000元",
+        "onboard_time": 1773109160,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93756,
+        "num": 614772,
+        "word": "樊长玉得知谢征是武安侯",
+        "onboard_time": 1773111680,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55049,
+        "num": 612928,
+        "word": "建议餐馆标明预制菜让顾客自己选",
+        "onboard_time": 1773104242,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 612609,
+        "num": 612609,
+        "word": "伊朗称驱逐美以大使可过霍尔木兹",
+        "onboard_time": 1773105081,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274850,
+        "num": 611797,
+        "word": "陈伟霆肖战同框 张家汪家世纪大和解",
+        "onboard_time": 1773106881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195447,
+        "num": 602037,
+        "word": "亚历山大绝杀掘金",
+        "onboard_time": 1773109700,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110377,
+        "num": 589723,
+        "word": "历届SMG视后",
+        "onboard_time": 1773105681,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50399,
+        "num": 585199,
+        "word": "建议公立幼儿园推广小托班",
+        "onboard_time": 1773111141,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123304,
+        "num": 573919,
+        "word": "司宫令",
+        "onboard_time": 1773104363,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107899,
+        "num": 566971,
+        "word": "胖东来12名店长共分2.4亿资产利润",
+        "onboard_time": 1773063622,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106937,
+        "num": 557245,
+        "word": "91岁女儿受委屈向113岁妈妈哭诉",
+        "onboard_time": 1773063622,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105781,
+        "num": 546777,
+        "word": "霸王茶姬口令答案",
+        "onboard_time": 1773109100,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 48322,
+        "num": 537073,
+        "word": "董明珠谈提高农民养老金",
+        "onboard_time": 1773111261,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 533832,
+        "num": 533832,
+        "word": "经纪公司否认张娜拉去世",
+        "onboard_time": 1773111261,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441686,
+        "num": 441686,
+        "word": "伊朗放弃猛打猛冲",
+        "onboard_time": 1773102021,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 303070,
+        "num": 303070,
+        "word": "医生提醒不要模仿Ella真空腹",
+        "onboard_time": 1773098059,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244163,
+        "num": 244163,
+        "word": "刘亦菲LV大秀造型图",
+        "onboard_time": 1773107423,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 103927,
+        "num": 244129,
+        "word": "谢征强吻长玉后的台词",
+        "onboard_time": 1773100761,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190822,
+        "num": 243673,
+        "word": "性格有5个特点的人更容易长寿",
+        "onboard_time": 1773106939,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148123,
+        "num": 242922,
+        "word": "涉密人员被开除主动投靠间谍机关",
+        "onboard_time": 1773111500,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133744,
+        "num": 242645,
+        "word": "妈妈回应女儿用烧火棍在灶台作画",
+        "onboard_time": 1773110480,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95259,
+        "num": 242318,
+        "word": "孙俪SMG视后",
+        "onboard_time": 1773070701,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104739,
+        "num": 242002,
+        "word": "王一博谷爱凌张钧甯合影",
+        "onboard_time": 1773101542,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 98482,
+        "num": 241427,
+        "word": "泽连斯基称已有11国向乌克兰求助",
+        "onboard_time": 1773101301,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101521,
+        "num": 241051,
+        "word": "肖战SMG视帝",
+        "onboard_time": 1773070582,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93849,
+        "num": 240720,
+        "word": "伊朗提出过霍尔木兹海峡条件",
+        "onboard_time": 1773110300,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95662,
+        "num": 239918,
+        "word": "卢昱晓走红毯忘记把暖宝宝拿下来了",
+        "onboard_time": 1773067642,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92769,
+        "num": 239734,
+        "word": "劳动者退休后养老待遇应是平等的",
+        "onboard_time": 1773106042,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90510,
+        "num": 239085,
+        "word": "司机大山里突然停机拨打119求冲话费",
+        "onboard_time": 1773103042,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85549,
+        "num": 238620,
+        "word": "历届SMG视帝",
+        "onboard_time": 1773099557,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82107,
+        "num": 238437,
+        "word": "周冠宇紫薯精",
+        "onboard_time": 1773110182,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79137,
+        "num": 238162,
+        "word": "建议促消费先要加工资",
+        "onboard_time": 1773108560,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50563,
+        "num": 237673,
+        "word": "20头整容骆驼参加选美被抓包",
+        "onboard_time": 1773112281,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75062,
+        "num": 236890,
+        "word": "明日方舟",
+        "onboard_time": 1773109281,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72666,
+        "num": 236568,
+        "word": "看完第十一集逐玉的我",
+        "onboard_time": 1773110962,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72310,
+        "num": 236383,
+        "word": "宁德时代日赚近2亿",
+        "onboard_time": 1773106820,
+        "rank": 42,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 19293,
+        "num": 235906,
+        "word": "靳东呼吁针对AI换脸立法",
+        "onboard_time": 1773106820,
+        "rank": 43,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 71378,
+        "num": 235494,
+        "word": "镖人",
+        "onboard_time": 1773081615,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71138,
+        "num": 234797,
+        "word": "胖东来室外保洁月薪近万元",
+        "onboard_time": 1773107181,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70976,
+        "num": 234531,
+        "word": "伊朗发起第32波打击",
+        "onboard_time": 1773098359,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68340,
+        "num": 233905,
+        "word": "NBA现场放汪苏泷像晴天像雨天",
+        "onboard_time": 1773111141,
+        "rank": 47,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 69382,
+        "num": 233646,
+        "word": "爱奇艺逐玉标题00后写的吧",
+        "onboard_time": 1773111920,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62700,
+        "num": 233428,
+        "word": "1亿美元委内瑞拉黄金运抵美国",
+        "onboard_time": 1773064705,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#两场团组活动一份民生关切#"
+    }
+  }
+}
