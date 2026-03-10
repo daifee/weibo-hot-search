@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773176341096,
+  "endTime": 1773178636565,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -24963,6 +24963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25194,
+      "num": 79806,
+      "word": "豆包限制AI成毅",
+      "onboard_time": 1773175874,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25145,
       "num": 739247,
       "word": "速览民生主题记者会上的惠民清单",
@@ -25708,7 +25716,7 @@
     },
     {
       "raw_hot": 15603,
-      "num": 68900,
+      "num": 79142,
       "word": "荣耀Magic V6",
       "onboard_time": 1773151104,
       "rank": 41,
@@ -25840,14 +25848,6 @@
       "word": "林一终于开智了吗",
       "onboard_time": 1772705183,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 13862,
-      "num": 46574,
-      "word": "豆包限制AI成毅",
-      "onboard_time": 1773175874,
-      "rank": 32,
       "category": "艺人"
     },
     {

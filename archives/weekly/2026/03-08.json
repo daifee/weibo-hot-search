@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773176341096,
+  "endTime": 1773178636565,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -7524,7 +7524,7 @@
     },
     {
       "raw_hot": 33299,
-      "num": 68430,
+      "num": 92794,
       "word": "惊蛰无声",
       "onboard_time": 1772909836,
       "rank": 43,
@@ -7713,6 +7713,14 @@
       "onboard_time": 1773153742,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25194,
+      "num": 79806,
+      "word": "豆包限制AI成毅",
+      "onboard_time": 1773175874,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 25033,
@@ -8004,7 +8012,7 @@
     },
     {
       "raw_hot": 15603,
-      "num": 68900,
+      "num": 79142,
       "word": "荣耀Magic V6",
       "onboard_time": 1773151104,
       "rank": 41,
@@ -8065,14 +8073,6 @@
       "onboard_time": 1773109941,
       "rank": 26,
       "category": "军事"
-    },
-    {
-      "raw_hot": 13862,
-      "num": 46574,
-      "word": "豆包限制AI成毅",
-      "onboard_time": 1773175874,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 13805,
