@@ -1,6 +1,6 @@
 {
   "startTime": 1773158847894,
-  "endTime": 1773182253936,
+  "endTime": 1773183270921,
   "band_list": [
     {
       "raw_hot": 5914442,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136672,
+      "num": 514156,
+      "word": "建议不允许青少年用AI做作业",
+      "onboard_time": 1773157342,
+      "rank": 40,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 131133,
       "num": 521258,
       "word": "崔然竣 光头强",
@@ -145,6 +153,14 @@
       "onboard_time": 1773144503,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118109,
+      "num": 431997,
+      "word": "刘国梁卸任WTT董事会主席",
+      "onboard_time": 1773159380,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 117932,
@@ -179,6 +195,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100186,
+      "num": 321077,
+      "word": "豆包限制AI成毅",
+      "onboard_time": 1773175874,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99109,
+      "num": 324469,
+      "word": "惊蛰无声",
+      "onboard_time": 1773168434,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98626,
       "num": 416451,
       "word": "作者一边写天灾一边处理人祸",
@@ -195,20 +227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90283,
-      "num": 234198,
-      "word": "豆包限制AI成毅",
-      "onboard_time": 1773175874,
-      "rank": 32,
+      "raw_hot": 87871,
+      "num": 314011,
+      "word": "AI短剧侵权肖战最高可判10年",
+      "onboard_time": 1773181214,
+      "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89236,
-      "num": 431997,
-      "word": "刘国梁卸任WTT董事会主席",
-      "onboard_time": 1773159380,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 87375,
@@ -217,14 +241,6 @@
       "onboard_time": 1773145342,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84254,
-      "num": 263350,
-      "word": "惊蛰无声",
-      "onboard_time": 1773168434,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 80043,
@@ -257,6 +273,14 @@
       "onboard_time": 1773147742,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75701,
+      "num": 511412,
+      "word": "陈昊宇新剧给自己生了个弟弟",
+      "onboard_time": 1773151343,
+      "rank": 43,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 73065,
@@ -323,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61609,
-      "num": 514156,
-      "word": "建议不允许青少年用AI做作业",
-      "onboard_time": 1773157342,
-      "rank": 40,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 61431,
       "num": 514233,
       "word": "在医院生个孩子只花了2块5",
@@ -355,16 +371,8 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 55771,
-      "num": 511412,
-      "word": "陈昊宇新剧给自己生了个弟弟",
-      "onboard_time": 1773151343,
-      "rank": 43,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 54295,
-      "num": 216299,
+      "num": 294453,
       "word": "洪欣张镐濂不像母子像姐弟",
       "onboard_time": 1773161898,
       "rank": 26,
@@ -419,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41838,
-      "num": 228353,
-      "word": "AI短剧侵权肖战最高可判10年",
-      "onboard_time": 1773181214,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 40593,
       "num": 417112,
       "word": "blackpink的周冠宇",
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 27848,
-      "num": 201678,
+      "num": 281127,
       "word": "孔雪儿演技",
       "onboard_time": 1773147443,
       "rank": 19,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 24359,
-      "num": 206422,
+      "num": 279405,
       "word": "至尊马蒂",
       "onboard_time": 1773164596,
       "rank": 40,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 22312,
-      "num": 198287,
+      "num": 271471,
       "word": "你好星期六",
       "onboard_time": 1773165255,
       "rank": 40,
@@ -499,8 +499,16 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 15831,
-      "num": 199711,
+      "raw_hot": 18608,
+      "num": 275433,
+      "word": "王源是环球人物6年专栏作家",
+      "onboard_time": 1773182897,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16510,
+      "num": 273371,
       "word": "荣耀Magic V6",
       "onboard_time": 1773151104,
       "rank": 41,
@@ -515,7 +523,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9521,
+      "raw_hot": 11071,
       "num": 542492,
       "word": "外媒记者期待与中国共享发展新机遇",
       "onboard_time": 1773147624,
