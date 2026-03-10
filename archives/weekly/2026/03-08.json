@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773178636565,
+  "endTime": 1773179526566,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -7315,6 +7315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38589,
+      "num": 130208,
+      "word": "惊蛰无声",
+      "onboard_time": 1772909836,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38550,
       "num": 195429,
       "word": "逐玉剧组hi6收视率",
@@ -7507,6 +7515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33626,
+      "num": 95652,
+      "word": "豆包限制AI成毅",
+      "onboard_time": 1773175874,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33372,
       "num": 740588,
       "word": "两会学习笔记",
@@ -7521,14 +7537,6 @@
       "onboard_time": 1773052521,
       "rank": 39,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 33299,
-      "num": 92794,
-      "word": "惊蛰无声",
-      "onboard_time": 1772909836,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 32924,
@@ -7713,14 +7721,6 @@
       "onboard_time": 1773153742,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25194,
-      "num": 79806,
-      "word": "豆包限制AI成毅",
-      "onboard_time": 1773175874,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 25033,
@@ -8012,7 +8012,7 @@
     },
     {
       "raw_hot": 15603,
-      "num": 79142,
+      "num": 91093,
       "word": "荣耀Magic V6",
       "onboard_time": 1773151104,
       "rank": 41,

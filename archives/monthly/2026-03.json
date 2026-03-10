@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773178636565,
+  "endTime": 1773179526566,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -24339,6 +24339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33626,
+      "num": 95652,
+      "word": "豆包限制AI成毅",
+      "onboard_time": 1773175874,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33502,
       "num": 113823,
       "word": "夏之光生活在有爱但不健康的家庭",
@@ -24960,14 +24968,6 @@
       "word": "宋亚轩 可以想我",
       "onboard_time": 1772303117,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 25194,
-      "num": 79806,
-      "word": "豆包限制AI成毅",
-      "onboard_time": 1773175874,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -25716,7 +25716,7 @@
     },
     {
       "raw_hot": 15603,
-      "num": 79142,
+      "num": 91093,
       "word": "荣耀Magic V6",
       "onboard_time": 1773151104,
       "rank": 41,

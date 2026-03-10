@@ -1,6 +1,6 @@
 {
   "startTime": 1773158847894,
-  "endTime": 1773178636565,
+  "endTime": 1773179526566,
   "band_list": [
     {
       "raw_hot": 5914442,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38589,
+      "num": 130208,
+      "word": "惊蛰无声",
+      "onboard_time": 1773168434,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38024,
       "num": 416939,
       "word": "至尊马蒂导演表白樊振东",
@@ -419,12 +427,12 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 33299,
-      "num": 92794,
-      "word": "惊蛰无声",
-      "onboard_time": 1773168434,
-      "rank": 46,
-      "category": "电影"
+      "raw_hot": 33626,
+      "num": 95652,
+      "word": "豆包限制AI成毅",
+      "onboard_time": 1773175874,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 27848,
@@ -449,14 +457,6 @@
       "onboard_time": 1773148825,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25194,
-      "num": 79806,
-      "word": "豆包限制AI成毅",
-      "onboard_time": 1773175874,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 24359,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 15603,
-      "num": 79142,
+      "num": 91093,
       "word": "荣耀Magic V6",
       "onboard_time": 1773151104,
       "rank": 41,
