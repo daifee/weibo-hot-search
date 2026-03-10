@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773179526566,
+  "endTime": 1773182253936,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -17235,6 +17235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 90283,
+      "num": 234198,
+      "word": "豆包限制AI成毅",
+      "onboard_time": 1773175874,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90263,
       "num": 90263,
       "word": "一眼看出不经常加班的公司",
@@ -17361,6 +17369,14 @@
       "onboard_time": 1772931141,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89236,
+      "num": 431997,
+      "word": "刘国梁卸任WTT董事会主席",
+      "onboard_time": 1773159380,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 89213,
@@ -18489,14 +18505,6 @@
       "onboard_time": 1772527888,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81561,
-      "num": 431997,
-      "word": "刘国梁卸任WTT董事会主席",
-      "onboard_time": 1773159380,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 81508,
@@ -21571,6 +21579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61609,
+      "num": 514156,
+      "word": "建议不允许青少年用AI做作业",
+      "onboard_time": 1773157342,
+      "rank": 40,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 61583,
       "num": 162873,
       "word": "这不是周大福的但可能是周大娘的",
@@ -22260,7 +22276,7 @@
     },
     {
       "raw_hot": 54295,
-      "num": 190722,
+      "num": 216299,
       "word": "洪欣张镐濂不像母子像姐弟",
       "onboard_time": 1773161898,
       "rank": 26,
@@ -22963,14 +22979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47563,
-      "num": 514156,
-      "word": "建议不允许青少年用AI做作业",
-      "onboard_time": 1773157342,
-      "rank": 40,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 47559,
       "num": 220821,
       "word": "呼吁节假日公共停车位免费",
@@ -23513,6 +23521,14 @@
       "onboard_time": 1772771664,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41838,
+      "num": 228353,
+      "word": "AI短剧侵权肖战最高可判10年",
+      "onboard_time": 1773181214,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 41621,
@@ -24339,14 +24355,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33626,
-      "num": 95652,
-      "word": "豆包限制AI成毅",
-      "onboard_time": 1773175874,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33502,
       "num": 113823,
       "word": "夏之光生活在有爱但不健康的家庭",
@@ -25052,7 +25060,7 @@
     },
     {
       "raw_hot": 24359,
-      "num": 188942,
+      "num": 206422,
       "word": "至尊马蒂",
       "onboard_time": 1773164596,
       "rank": 40,
@@ -25707,20 +25715,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15831,
+      "num": 199711,
+      "word": "荣耀Magic V6",
+      "onboard_time": 1773151104,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 15748,
       "num": 126686,
       "word": "一五到十五五重大工程",
       "onboard_time": 1772939482,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15603,
-      "num": 91093,
-      "word": "荣耀Magic V6",
-      "onboard_time": 1773151104,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 15466,
