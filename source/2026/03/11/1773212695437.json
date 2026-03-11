@@ -1,0 +1,410 @@
+{
+  "runTime": 1773212695437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 398052,
+        "num": 1063688,
+        "word": "建议允许未休年假两年内结转使用",
+        "onboard_time": 1773210321,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282476,
+        "num": 788094,
+        "word": "工作不满10年休5天年假规则该调整",
+        "onboard_time": 1773192621,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19195,
+        "num": 626237,
+        "word": "政协会议圆满完成各项议程",
+        "onboard_time": 1773192621,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 852371,
+        "num": 608881,
+        "word": "华莱士正式宣布退市",
+        "onboard_time": 1773199525,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 332195,
+        "num": 332195,
+        "word": "AG 首发",
+        "onboard_time": 1773210321,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 357458,
+        "num": 331470,
+        "word": "伊朗下起毒雨",
+        "onboard_time": 1773185599,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78170,
+        "num": 330077,
+        "word": "建议设大龄人才友好岗",
+        "onboard_time": 1773211521,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164193,
+        "num": 328297,
+        "word": "王楚钦vs格罗特",
+        "onboard_time": 1773208102,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34745,
+        "num": 327758,
+        "word": "十五五蓝图中的职业新图景",
+        "onboard_time": 1773204382,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68564,
+        "num": 325568,
+        "word": "建议新增元宵节假日",
+        "onboard_time": 1773205042,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 497652,
+        "num": 324978,
+        "word": "逐玉 赋魅",
+        "onboard_time": 1773202943,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323622,
+        "num": 323622,
+        "word": "国际油价历史性暴跌",
+        "onboard_time": 1773204743,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 301577,
+        "num": 301577,
+        "word": "女子将老公送金镯扔地上又响又跳",
+        "onboard_time": 1773200302,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237359,
+        "num": 237359,
+        "word": "逐玉孔雪儿邓凯这一对简直仙品",
+        "onboard_time": 1773209060,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231429,
+        "num": 231429,
+        "word": "向佐差点踢到主持人的头",
+        "onboard_time": 1773200722,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149234,
+        "num": 185857,
+        "word": "驻韩美军6部萨德发射车全部运出",
+        "onboard_time": 1773199525,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23353,
+        "num": 175601,
+        "word": "不带大梁能穿越N39吗",
+        "onboard_time": 1773210979,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 173467,
+        "num": 173467,
+        "word": "张凌赫回应颜值出圈",
+        "onboard_time": 1773212181,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32904,
+        "num": 156918,
+        "word": "女子上班时为隔壁公司灭火获11万赞",
+        "onboard_time": 1773212181,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 89346,
+        "num": 155929,
+        "word": "建议上夜班前打坐3到5分钟",
+        "onboard_time": 1773211521,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181999,
+        "num": 155910,
+        "word": "大学生嘴上说不想开学",
+        "onboard_time": 1773211221,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155855,
+        "num": 155855,
+        "word": "要对钱有概念",
+        "onboard_time": 1773204083,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152128,
+        "num": 152128,
+        "word": "黄觉教肖战脸颊比心",
+        "onboard_time": 1773210140,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141763,
+        "num": 141763,
+        "word": "王小亿内场这个美",
+        "onboard_time": 1773207862,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125041,
+        "num": 125041,
+        "word": "以为是段子结果真发生了",
+        "onboard_time": 1773204324,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129143,
+        "num": 124075,
+        "word": "桃花坞",
+        "onboard_time": 1773206182,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118055,
+        "num": 118055,
+        "word": "美国驻多伦多领馆遭枪击",
+        "onboard_time": 1773204683,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101959,
+        "num": 101959,
+        "word": "TF后代大战EXO老祖",
+        "onboard_time": 1773211100,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101621,
+        "num": 101621,
+        "word": "逐玉 三对CP",
+        "onboard_time": 1773210979,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100373,
+        "num": 100373,
+        "word": "iPhone18Pro或无屏下FaceID",
+        "onboard_time": 1773212121,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96636,
+        "num": 96636,
+        "word": "早熟的人通常都晚熟",
+        "onboard_time": 1773211399,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87170,
+        "num": 87170,
+        "word": "帅的追你一秒就同意了",
+        "onboard_time": 1773205642,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85707,
+        "num": 85707,
+        "word": "伊朗称正在霍尔木兹海峡等待美海军",
+        "onboard_time": 1773197423,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79365,
+        "num": 79365,
+        "word": "资本重新押注30元咖啡",
+        "onboard_time": 1773205522,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78523,
+        "num": 78523,
+        "word": "汾酒回应多名硕士拟录为酿酒工成装工",
+        "onboard_time": 1773202101,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77287,
+        "num": 77287,
+        "word": "刘浩存 还有我的老鼠干",
+        "onboard_time": 1773211760,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54627,
+        "num": 76805,
+        "word": "蔚来ES6五年跑出百万公里",
+        "onboard_time": 1773209541,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 76366,
+        "num": 76366,
+        "word": "建议推行婴幼儿父母弹性上下班",
+        "onboard_time": 1773198981,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75027,
+        "num": 75027,
+        "word": "阿德巴约回应超越偶像科比",
+        "onboard_time": 1773210680,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34261,
+        "num": 73563,
+        "word": "男子懒得动脑一直守号中奖500万",
+        "onboard_time": 1773212121,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72650,
+        "num": 72650,
+        "word": "怪不得小孩总是一哭就找妈妈",
+        "onboard_time": 1773200482,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72640,
+        "num": 72640,
+        "word": "薛之谦广州场二开",
+        "onboard_time": 1773212541,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71800,
+        "num": 71800,
+        "word": "社会化能力",
+        "onboard_time": 1773206600,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70895,
+        "num": 70895,
+        "word": "让龙虾知道密码有风险",
+        "onboard_time": 1773209780,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70330,
+        "num": 70330,
+        "word": "TVB风味古偶白日提灯",
+        "onboard_time": 1773209661,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69506,
+        "num": 69506,
+        "word": "MiuMiu大秀",
+        "onboard_time": 1773205642,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 69028,
+        "num": 69028,
+        "word": "詹姆斯回应阿德巴约破纪录",
+        "onboard_time": 1773200600,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65621,
+        "num": 65621,
+        "word": "逐玉播出实绩",
+        "onboard_time": 1773199281,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65451,
+        "num": 65451,
+        "word": "湖人战胜森林狼",
+        "onboard_time": 1773209001,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64522,
+        "num": 64522,
+        "word": "猫 我晨练碍着你了",
+        "onboard_time": 1773209481,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强国是现代化强国的一个重要标志#"
+    }
+  }
+}
