@@ -1,0 +1,410 @@
+{
+  "runTime": 1773236670025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 257299,
+        "num": 1041167,
+        "word": "委员回应年轻人天天熬夜行不行",
+        "onboard_time": 1773227662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127941,
+        "num": 772749,
+        "word": "国防部回应日本部署远程导弹",
+        "onboard_time": 1773218001,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13498,
+        "num": 601027,
+        "word": "解读国家账本看数字背后",
+        "onboard_time": 1773236184,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 924737,
+        "num": 581834,
+        "word": "公积金提取",
+        "onboard_time": 1773230182,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359088,
+        "num": 359088,
+        "word": "精灵黄lululemon发圈被炒到999元",
+        "onboard_time": 1773231202,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331309,
+        "num": 331309,
+        "word": "炸伊朗小学导弹零件MadeinUSA",
+        "onboard_time": 1773233364,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 276048,
+        "num": 276048,
+        "word": "宁德时代创始人曾毓群个人分红81亿",
+        "onboard_time": 1773231502,
+        "rank": 6,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 64217,
+        "num": 276014,
+        "word": "建议未来五年逐步取消公摊面积",
+        "onboard_time": 1773230420,
+        "rank": 7,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 10259,
+        "num": 275584,
+        "word": "村书记带了一堆柠檬上两会",
+        "onboard_time": 1773236243,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41214,
+        "num": 274707,
+        "word": "委员谈员工不敢休年假怎么办",
+        "onboard_time": 1773234023,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2795692,
+        "num": 274299,
+        "word": "逐玉爱奇艺破万",
+        "onboard_time": 1773233542,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526996,
+        "num": 274089,
+        "word": "这才是普通身材的普通人穿搭",
+        "onboard_time": 1773233962,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 512589,
+        "num": 273498,
+        "word": "逐玉",
+        "onboard_time": 1773223101,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273296,
+        "num": 273296,
+        "word": "乘风2026将全程直播",
+        "onboard_time": 1773234683,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493221,
+        "num": 268841,
+        "word": "为农民哽咽发声代表接到多部委电话",
+        "onboard_time": 1773230121,
+        "rank": 14,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 466513,
+        "num": 265129,
+        "word": "田曦薇背后抱量张凌赫腰围",
+        "onboard_time": 1773234983,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260296,
+        "num": 260296,
+        "word": "MiuMiu",
+        "onboard_time": 1773221782,
+        "rank": 16,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 344100,
+        "num": 255459,
+        "word": "逐玉 头纱",
+        "onboard_time": 1773226220,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247529,
+        "num": 247529,
+        "word": "伊朗对美以发动38波攻击",
+        "onboard_time": 1773228862,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239207,
+        "num": 239207,
+        "word": "Gemini五连绝世",
+        "onboard_time": 1773230723,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 505450,
+        "num": 237287,
+        "word": "公积金改革大潮真的来了",
+        "onboard_time": 1773222982,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207222,
+        "num": 207222,
+        "word": "逐玉追剧团",
+        "onboard_time": 1773226942,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186772,
+        "num": 186772,
+        "word": "吴昕在大侦探爆哭",
+        "onboard_time": 1773228862,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186382,
+        "num": 186382,
+        "word": "建议允许60岁以上农民工继续务工",
+        "onboard_time": 1773221183,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155358,
+        "num": 155358,
+        "word": "曝AL签下Bigwei",
+        "onboard_time": 1773234683,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137528,
+        "num": 137528,
+        "word": "西班牙降级与以色列外交关系",
+        "onboard_time": 1773234983,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167446,
+        "num": 135513,
+        "word": "田曦薇 我图你好看啊",
+        "onboard_time": 1773235463,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131908,
+        "num": 131908,
+        "word": "不二之臣",
+        "onboard_time": 1773217462,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128057,
+        "num": 128057,
+        "word": "伊朗称不再局限于对等反击",
+        "onboard_time": 1773235943,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125149,
+        "num": 125149,
+        "word": "取微信名要慎重",
+        "onboard_time": 1773215180,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 130206,
+        "num": 123422,
+        "word": "慕慕昭昭大婚",
+        "onboard_time": 1773226761,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195275,
+        "num": 122829,
+        "word": "3名美国富豪强奸性侵60名女性",
+        "onboard_time": 1773236061,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121009,
+        "num": 121009,
+        "word": "上过班的才知道这有多幸福",
+        "onboard_time": 1773232343,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114324,
+        "num": 114324,
+        "word": "你更愿意喝9.9元还是30元的咖啡",
+        "onboard_time": 1773228681,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111867,
+        "num": 111867,
+        "word": "双人餐是需要两份主食饮料的",
+        "onboard_time": 1773217881,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109408,
+        "num": 109408,
+        "word": "入职大疆1个月被发了5次钱",
+        "onboard_time": 1773225740,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109075,
+        "num": 109075,
+        "word": "WB对战狼队",
+        "onboard_time": 1773233302,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108923,
+        "num": 108923,
+        "word": "TVB演员江华化身景区打工皇帝",
+        "onboard_time": 1773233842,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105909,
+        "num": 105909,
+        "word": "我们的少年时代2开通官微",
+        "onboard_time": 1773219141,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104114,
+        "num": 104114,
+        "word": "伊朗多弹头导弹袭击美军基地",
+        "onboard_time": 1773236543,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101374,
+        "num": 101374,
+        "word": "白敬亭拍长风渡留下的疤",
+        "onboard_time": 1773233243,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96725,
+        "num": 96725,
+        "word": "博主称阿德巴约83分是对科比的羞辱",
+        "onboard_time": 1773235162,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96415,
+        "num": 96415,
+        "word": "中国女篮vs马里女篮",
+        "onboard_time": 1773232102,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95356,
+        "num": 95356,
+        "word": "梁朝伟走势",
+        "onboard_time": 1773218541,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15590,
+        "num": 92892,
+        "word": "她把无声者的声音带到人民大会堂",
+        "onboard_time": 1773235762,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23705,
+        "num": 91163,
+        "word": "我国已连续编制并完成14个五年规划",
+        "onboard_time": 1773235703,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91079,
+        "num": 91079,
+        "word": "中国博主拍下打击电诈后的柬埔寨",
+        "onboard_time": 1773236184,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88097,
+        "num": 88097,
+        "word": "姥姥不愿意进城因为有土匪闺蜜",
+        "onboard_time": 1773234083,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87531,
+        "num": 87531,
+        "word": "蔡猛说王曼昱后续或将暂停比赛",
+        "onboard_time": 1773223821,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81800,
+        "num": 87364,
+        "word": "剑来",
+        "onboard_time": 1773228142,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的两会关切#"
+    }
+  }
+}
