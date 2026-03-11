@@ -1,0 +1,410 @@
+{
+  "runTime": 1773227258914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1184578,
+        "num": 1189532,
+        "word": "公积金改革大潮真的来了",
+        "onboard_time": 1773222982,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489370,
+        "num": 845570,
+        "word": "建议允许60岁以上农民工继续务工",
+        "onboard_time": 1773221183,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10160,
+        "num": 705559,
+        "word": "前2月外贸交出提气答卷",
+        "onboard_time": 1773226701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146547,
+        "num": 704051,
+        "word": "国防部回应日本部署远程导弹",
+        "onboard_time": 1773218001,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140367,
+        "num": 677852,
+        "word": "华师大回应师范本科不再输出教师",
+        "onboard_time": 1773215361,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 317433,
+        "num": 630257,
+        "word": "伊朗总统之子称最高领袖平安",
+        "onboard_time": 1773213980,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199314,
+        "num": 615936,
+        "word": "不二之臣",
+        "onboard_time": 1773217462,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134226,
+        "num": 589225,
+        "word": "人大代表随身带针走到哪扎到哪",
+        "onboard_time": 1773219621,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15456,
+        "num": 577433,
+        "word": "代表揣着的红色笔记本里记了啥",
+        "onboard_time": 1773226820,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105335,
+        "num": 544205,
+        "word": "江湖夜雨十年灯大结局",
+        "onboard_time": 1773225801,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 737829,
+        "num": 514253,
+        "word": "MiuMiu",
+        "onboard_time": 1773221782,
+        "rank": 10,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 503089,
+        "num": 503089,
+        "word": "华莱士正式宣布退市",
+        "onboard_time": 1773199525,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 388649,
+        "num": 388649,
+        "word": "双人餐是需要两份主食饮料的",
+        "onboard_time": 1773217881,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340197,
+        "num": 340197,
+        "word": "逐玉 头纱",
+        "onboard_time": 1773226220,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277722,
+        "num": 277722,
+        "word": "蔡猛说王曼昱后续或将暂停比赛",
+        "onboard_time": 1773223821,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246986,
+        "num": 246986,
+        "word": "七部云合破40%的剧",
+        "onboard_time": 1773220162,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178194,
+        "num": 178194,
+        "word": "天选喝奶茶体质",
+        "onboard_time": 1773220281,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145211,
+        "num": 145211,
+        "word": "JDG对战KSG",
+        "onboard_time": 1773221841,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138112,
+        "num": 138112,
+        "word": "伊朗下起毒雨",
+        "onboard_time": 1773185599,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21857,
+        "num": 135873,
+        "word": "200元就能买演员AI换口型视频",
+        "onboard_time": 1773226820,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 352730,
+        "num": 135557,
+        "word": "入职大疆1个月被发了5次钱",
+        "onboard_time": 1773225740,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303773,
+        "num": 133176,
+        "word": "逐玉",
+        "onboard_time": 1773223101,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264532,
+        "num": 131120,
+        "word": "取微信名要慎重",
+        "onboard_time": 1773215180,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 236822,
+        "num": 127632,
+        "word": "中餐厅10网传阵容",
+        "onboard_time": 1773219502,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225321,
+        "num": 126285,
+        "word": "我们的少年时代2开通官微",
+        "onboard_time": 1773219141,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124604,
+        "num": 124604,
+        "word": "金价杀疯了山东直接去地下2700米挖",
+        "onboard_time": 1773225140,
+        "rank": 25,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 136954,
+        "num": 122003,
+        "word": "逐玉 赋魅",
+        "onboard_time": 1773202943,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116810,
+        "num": 116810,
+        "word": "梁朝伟走势",
+        "onboard_time": 1773218541,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98952,
+        "num": 98952,
+        "word": "5岁男童总腿疼以为长个子确诊白血病",
+        "onboard_time": 1773221541,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93647,
+        "num": 93647,
+        "word": "逐玉追剧团",
+        "onboard_time": 1773226942,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168821,
+        "num": 92755,
+        "word": "原来何老师从小就是何老师了",
+        "onboard_time": 1773215782,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109346,
+        "num": 92229,
+        "word": "英语老师干脆讲点自己喜欢的",
+        "onboard_time": 1773225140,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90102,
+        "num": 90102,
+        "word": "AG 首发",
+        "onboard_time": 1773210321,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88933,
+        "num": 88933,
+        "word": "伊朗警告将报复美以银行目标",
+        "onboard_time": 1773223642,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85651,
+        "num": 88933,
+        "word": "公谨爆蛋",
+        "onboard_time": 1773226341,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 36645,
+        "num": 88930,
+        "word": "朝鲜崔贤号驱逐舰试射战略巡航导弹",
+        "onboard_time": 1773225860,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80693,
+        "num": 88924,
+        "word": "逐玉云合破40了",
+        "onboard_time": 1773220402,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79669,
+        "num": 88920,
+        "word": "妈妈听儿子话囤黄金3年赚40万",
+        "onboard_time": 1773221600,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78488,
+        "num": 88919,
+        "word": "杜兰特回应阿德巴约83分",
+        "onboard_time": 1773224180,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18994,
+        "num": 88915,
+        "word": "曾庆杰 留下你最美的样子",
+        "onboard_time": 1773226761,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76076,
+        "num": 88910,
+        "word": "黄金涨价劝退不了消费者",
+        "onboard_time": 1773226882,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73707,
+        "num": 88908,
+        "word": "白玉兰预测",
+        "onboard_time": 1773213320,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72242,
+        "num": 88904,
+        "word": "6部萨德发射车运出监控画面曝光",
+        "onboard_time": 1773221482,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72186,
+        "num": 88900,
+        "word": "冯天薇盛赞孙颖莎全面有灵气",
+        "onboard_time": 1773225921,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67783,
+        "num": 88897,
+        "word": "谢小侯爷有一双琥珀色的美丽眼睛",
+        "onboard_time": 1773220521,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66574,
+        "num": 88896,
+        "word": "周也张婧仪宋威龙张凌赫 全员修罗场",
+        "onboard_time": 1773221002,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15189,
+        "num": 88891,
+        "word": "两会上有只特别的蝴蝶",
+        "onboard_time": 1773226581,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65321,
+        "num": 88888,
+        "word": "种地吧",
+        "onboard_time": 1773224721,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58679,
+        "num": 88884,
+        "word": "80元Lululemon发圈卖断货",
+        "onboard_time": 1773215303,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53374,
+        "num": 88884,
+        "word": "银行员工抢救23万元火烧币",
+        "onboard_time": 1773225561,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五开局总书记指明方向#"
+    }
+  }
+}
