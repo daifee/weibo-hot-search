@@ -1,0 +1,410 @@
+{
+  "runTime": 1773209369021,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 288756,
+        "num": 1046200,
+        "word": "工作不满10年休5天年假规则该调整",
+        "onboard_time": 1773192621,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153639,
+        "num": 768141,
+        "word": "建议推行婴幼儿父母弹性上下班",
+        "onboard_time": 1773198981,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13243,
+        "num": 577357,
+        "word": "政协会议圆满完成各项议程",
+        "onboard_time": 1773192621,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1091540,
+        "num": 577260,
+        "word": "华莱士正式宣布退市",
+        "onboard_time": 1773199525,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165029,
+        "num": 577229,
+        "word": "汾酒回应多名硕士拟录为酿酒工成装工",
+        "onboard_time": 1773202101,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464184,
+        "num": 577101,
+        "word": "伊朗下起毒雨",
+        "onboard_time": 1773185599,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155967,
+        "num": 577039,
+        "word": "美国驻多伦多领馆遭枪击",
+        "onboard_time": 1773204683,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132191,
+        "num": 576932,
+        "word": "桃花坞",
+        "onboard_time": 1773206182,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38341,
+        "num": 576816,
+        "word": "十五五蓝图中的职业新图景",
+        "onboard_time": 1773204382,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71063,
+        "num": 576727,
+        "word": "建议新增元宵节假日",
+        "onboard_time": 1773205042,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 711067,
+        "num": 576550,
+        "word": "逐玉 赋魅",
+        "onboard_time": 1773202943,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117362,
+        "num": 576485,
+        "word": "MiuMiu大秀",
+        "onboard_time": 1773205642,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 348732,
+        "num": 576315,
+        "word": "国际油价历史性暴跌",
+        "onboard_time": 1773204743,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 254047,
+        "num": 576273,
+        "word": "向佐差点踢到主持人的头",
+        "onboard_time": 1773200722,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252459,
+        "num": 576121,
+        "word": "女子将老公送金镯扔地上又响又跳",
+        "onboard_time": 1773200302,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152261,
+        "num": 576065,
+        "word": "驻韩美军6部萨德发射车全部运出",
+        "onboard_time": 1773199525,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139028,
+        "num": 575947,
+        "word": "苹果最便宜手机来了",
+        "onboard_time": 1773186199,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131192,
+        "num": 575822,
+        "word": "王小亿内场这个美",
+        "onboard_time": 1773207862,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109328,
+        "num": 575696,
+        "word": "逐玉播出实绩",
+        "onboard_time": 1773199281,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27136,
+        "num": 575659,
+        "word": "呼吁合理增加下半年节假日天数",
+        "onboard_time": 1773208821,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298105,
+        "num": 575536,
+        "word": "要对钱有概念",
+        "onboard_time": 1773204083,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208319,
+        "num": 575410,
+        "word": "以为是段子结果真发生了",
+        "onboard_time": 1773204324,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130429,
+        "num": 575358,
+        "word": "伊朗称正在霍尔木兹海峡等待美海军",
+        "onboard_time": 1773197423,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117232,
+        "num": 575173,
+        "word": "资本重新押注30元咖啡",
+        "onboard_time": 1773205522,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107786,
+        "num": 575152,
+        "word": "王励勤称正在与樊振东沟通",
+        "onboard_time": 1773193281,
+        "rank": 24,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 106373,
+        "num": 574963,
+        "word": "詹姆斯回应阿德巴约破纪录",
+        "onboard_time": 1773200600,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106175,
+        "num": 574936,
+        "word": "热水肥皂拖地法",
+        "onboard_time": 1773204202,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100578,
+        "num": 574833,
+        "word": "杨紫罗马时装周出发图",
+        "onboard_time": 1773198200,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 90063,
+        "num": 574673,
+        "word": "马斯克身价达8390亿美元",
+        "onboard_time": 1773207202,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90038,
+        "num": 574540,
+        "word": "帅的追你一秒就同意了",
+        "onboard_time": 1773205642,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85103,
+        "num": 574477,
+        "word": "阿德巴约83分",
+        "onboard_time": 1773195441,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82998,
+        "num": 574415,
+        "word": "王楚钦vs格罗特",
+        "onboard_time": 1773208102,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82557,
+        "num": 574301,
+        "word": "怪不得小孩总是一哭就找妈妈",
+        "onboard_time": 1773200482,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80373,
+        "num": 574200,
+        "word": "虞书欣一滴泪原始帧",
+        "onboard_time": 1773203722,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79546,
+        "num": 574079,
+        "word": "统一平台热度标准才能让爆款名副其实",
+        "onboard_time": 1773207380,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76818,
+        "num": 573945,
+        "word": "公牛加时战胜勇士",
+        "onboard_time": 1773208341,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75224,
+        "num": 573799,
+        "word": "社会化能力",
+        "onboard_time": 1773206600,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74237,
+        "num": 573713,
+        "word": "电脑售价或上涨40%",
+        "onboard_time": 1773197301,
+        "rank": 37,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 72790,
+        "num": 573651,
+        "word": "联合国警告以美袭击伊朗后果",
+        "onboard_time": 1773202161,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65010,
+        "num": 573572,
+        "word": "81岁爷爷被火鸡面攻击了",
+        "onboard_time": 1773202522,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63468,
+        "num": 573384,
+        "word": "她的盛焰定档",
+        "onboard_time": 1773199040,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61452,
+        "num": 573347,
+        "word": "伊朗发起第37波打击",
+        "onboard_time": 1773191122,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60511,
+        "num": 573259,
+        "word": "吃寿司把筷子给咬断了",
+        "onboard_time": 1773207202,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60497,
+        "num": 573083,
+        "word": "两会",
+        "onboard_time": 1773193401,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59089,
+        "num": 573028,
+        "word": "代拍给林允拍出神图了",
+        "onboard_time": 1773201862,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58681,
+        "num": 572951,
+        "word": "湖人战胜森林狼",
+        "onboard_time": 1773209001,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52333,
+        "num": 572821,
+        "word": "回顾孙颖莎零封压制大藤沙月",
+        "onboard_time": 1773205402,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52202,
+        "num": 572733,
+        "word": "逐玉孔雪儿邓凯这一对简直仙品",
+        "onboard_time": 1773209060,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51767,
+        "num": 572580,
+        "word": "人类幼崽的手有多小",
+        "onboard_time": 1773202402,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51663,
+        "num": 572521,
+        "word": "大侦探",
+        "onboard_time": 1773203183,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强国是现代化强国的一个重要标志#"
+    }
+  }
+}
