@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773223660301,
+  "endTime": 1773226312722,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -643,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1170419,
+      "num": 1187267,
+      "word": "公积金改革大潮真的来了",
+      "onboard_time": 1773222982,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1167578,
       "num": 858012,
       "word": "品牌方回应迪丽热巴缺席",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1772603484,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 931560,
+      "num": 180288,
+      "word": "MiuMiu",
+      "onboard_time": 1773221782,
+      "rank": 18,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 927402,
@@ -1572,7 +1588,7 @@
     },
     {
       "raw_hot": 751728,
-      "num": 577522,
+      "num": 868218,
       "word": "建议允许60岁以上农民工继续务工",
       "onboard_time": 1773221183,
       "rank": 4,
@@ -2497,14 +2513,6 @@
       "onboard_time": 1772293943,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 578546,
-      "num": 180288,
-      "word": "MiuMiu",
-      "onboard_time": 1773221782,
-      "rank": 18,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 577572,
@@ -7451,6 +7459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249824,
+      "num": 125847,
+      "word": "入职大疆1个月被发了5次钱",
+      "onboard_time": 1773225740,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249480,
       "num": 850197,
       "word": "公务员平替岗挤满没上岸的年轻人",
@@ -7497,6 +7513,14 @@
       "onboard_time": 1772354544,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248273,
+      "num": 139565,
+      "word": "天选喝奶茶体质",
+      "onboard_time": 1773220281,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 247600,
@@ -9331,6 +9355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194405,
+      "num": 194405,
+      "word": "蔡猛说王曼昱后续或将暂停比赛",
+      "onboard_time": 1773223821,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194121,
       "num": 574242,
       "word": "司宫令",
@@ -9921,14 +9953,6 @@
       "onboard_time": 1772307195,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177590,
-      "num": 177590,
-      "word": "公积金改革大潮真的来了",
-      "onboard_time": 1773222982,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177453,
@@ -10751,6 +10775,14 @@
       "num": 644837,
       "word": "WBG对战JDG",
       "onboard_time": 1772874742,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 161714,
+      "num": 139479,
+      "word": "JDG对战KSG",
+      "onboard_time": 1773221841,
       "rank": 36,
       "category": "电竞"
     },
@@ -15051,14 +15083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111197,
-      "num": 111197,
-      "word": "天选喝奶茶体质",
-      "onboard_time": 1773220281,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111118,
       "num": 342338,
       "word": "张凌赫田曦薇回应合作逐玉",
@@ -15369,6 +15393,14 @@
       "onboard_time": 1772863281,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 108579,
+      "num": 108579,
+      "word": "英语老师干脆讲点自己喜欢的",
+      "onboard_time": 1773225140,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 108564,
@@ -16219,6 +16251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101794,
+      "num": 101794,
+      "word": "伊朗警告将报复美以银行目标",
+      "onboard_time": 1773223642,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101702,
       "num": 251724,
       "word": "女子称租房钉几颗钉子损失2万",
@@ -16875,14 +16915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98326,
-      "num": 98326,
-      "word": "JDG对战KSG",
-      "onboard_time": 1773221841,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 98312,
       "num": 98312,
       "word": "6部萨德发射车运出监控画面曝光",
@@ -16929,6 +16961,14 @@
       "onboard_time": 1772852601,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97912,
+      "num": 131041,
+      "word": "金价杀疯了山东直接去地下2700米挖",
+      "onboard_time": 1773225140,
+      "rank": 18,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 97848,
@@ -17241,6 +17281,14 @@
       "onboard_time": 1772762720,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 95353,
+      "num": 95353,
+      "word": "逐玉 头纱",
+      "onboard_time": 1773226220,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 95183,
@@ -18633,6 +18681,14 @@
       "onboard_time": 1773194600,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 87284,
+      "num": 87284,
+      "word": "杜兰特回应阿德巴约83分",
+      "onboard_time": 1773224180,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 87230,
@@ -20691,6 +20747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75120,
+      "num": 82623,
+      "word": "谢小侯爷有一双琥珀色的美丽眼睛",
+      "onboard_time": 1773220521,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75053,
       "num": 76017,
       "word": "小米全新轻薄笔记本曝光",
@@ -21043,6 +21107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73047,
+      "num": 82546,
+      "word": "冯天薇盛赞孙颖莎全面有灵气",
+      "onboard_time": 1773225921,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73004,
       "num": 316106,
       "word": "被惦记的每一天都是惊喜",
@@ -21161,6 +21233,14 @@
       "onboard_time": 1773110962,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72575,
+      "num": 97813,
+      "word": "长辈做饭有多惊人",
+      "onboard_time": 1773223401,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 72556,
@@ -21739,6 +21819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 68923,
+      "num": 97953,
+      "word": "张凌赫逐玉追剧团逆应援",
+      "onboard_time": 1773223462,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68898,
       "num": 62878,
       "word": "设计师演我见到王一博",
@@ -21851,14 +21939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68374,
-      "num": 97953,
-      "word": "张凌赫逐玉追剧团逆应援",
-      "onboard_time": 1773223462,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 68340,
       "num": 233905,
       "word": "NBA现场放汪苏泷像晴天像雨天",
@@ -21881,6 +21961,14 @@
       "onboard_time": 1772696362,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 68198,
+      "num": 82442,
+      "word": "苹果上调MacBook售价",
+      "onboard_time": 1773225261,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 68160,
@@ -22635,14 +22723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63386,
-      "num": 78566,
-      "word": "谢小侯爷有一双琥珀色的美丽眼睛",
-      "onboard_time": 1773220521,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63370,
       "num": 118431,
       "word": "迪拜再次传出爆炸声",
@@ -23089,14 +23169,6 @@
       "onboard_time": 1772974281,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60813,
-      "num": 97813,
-      "word": "长辈做饭有多惊人",
-      "onboard_time": 1773223401,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 60807,
@@ -26748,7 +26820,7 @@
     },
     {
       "raw_hot": 23674,
-      "num": 626237,
+      "num": 695611,
       "word": "政协会议圆满完成各项议程",
       "onboard_time": 1773192621,
       "rank": 9,
@@ -27579,6 +27651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13126,
+      "num": 129761,
+      "word": "朝鲜崔贤号驱逐舰试射战略巡航导弹",
+      "onboard_time": 1773225860,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13070,
       "num": 164366,
       "word": "9个字看十五五规划里的世界机遇",
@@ -27895,6 +27975,9 @@
     },
     {
       "word": "#体育强国是现代化强国的一个重要标志#"
+    },
+    {
+      "word": "#十五五开局总书记指明方向#"
     }
   ]
 }
