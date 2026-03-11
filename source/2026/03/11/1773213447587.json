@@ -1,0 +1,410 @@
+{
+  "runTime": 1773213447587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 464894,
+        "num": 1074383,
+        "word": "建议允许未休年假两年内结转使用",
+        "onboard_time": 1773210321,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201397,
+        "num": 783271,
+        "word": "工作不满10年休5天年假规则该调整",
+        "onboard_time": 1773192621,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22720,
+        "num": 612456,
+        "word": "政协会议圆满完成各项议程",
+        "onboard_time": 1773192621,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 818406,
+        "num": 556287,
+        "word": "华莱士正式宣布退市",
+        "onboard_time": 1773199525,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 345454,
+        "num": 345454,
+        "word": "AG 首发",
+        "onboard_time": 1773210321,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 352231,
+        "num": 341801,
+        "word": "伊朗下起毒雨",
+        "onboard_time": 1773185599,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16613,
+        "num": 340318,
+        "word": "建议整治同一航班同一张票两个价",
+        "onboard_time": 1773212960,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157866,
+        "num": 333206,
+        "word": "王楚钦vs格罗特",
+        "onboard_time": 1773208102,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40053,
+        "num": 326490,
+        "word": "十五五蓝图中的职业新图景",
+        "onboard_time": 1773204382,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71519,
+        "num": 324754,
+        "word": "建议新增元宵节假日",
+        "onboard_time": 1773205042,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 501780,
+        "num": 316544,
+        "word": "逐玉 赋魅",
+        "onboard_time": 1773202943,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315252,
+        "num": 315252,
+        "word": "女子将老公送金镯扔地上又响又跳",
+        "onboard_time": 1773200302,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313884,
+        "num": 313884,
+        "word": "国际油价历史性暴跌",
+        "onboard_time": 1773204743,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 279119,
+        "num": 279119,
+        "word": "张凌赫回应颜值出圈",
+        "onboard_time": 1773212181,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230326,
+        "num": 230326,
+        "word": "外甥正月偷偷剪发舅舅气到血压飙升",
+        "onboard_time": 1773212900,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27504,
+        "num": 229852,
+        "word": "不带大梁能穿越N39吗",
+        "onboard_time": 1773210979,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 249065,
+        "num": 229837,
+        "word": "逐玉孔雪儿邓凯这一对简直仙品",
+        "onboard_time": 1773209060,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229785,
+        "num": 229785,
+        "word": "向佐差点踢到主持人的头",
+        "onboard_time": 1773200722,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120968,
+        "num": 171221,
+        "word": "建议上夜班前打坐3到5分钟",
+        "onboard_time": 1773211521,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156722,
+        "num": 156722,
+        "word": "驻韩美军6部萨德发射车全部运出",
+        "onboard_time": 1773199525,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153951,
+        "num": 153951,
+        "word": "大学生嘴上说不想开学",
+        "onboard_time": 1773211221,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133451,
+        "num": 133451,
+        "word": "黄觉教肖战脸颊比心",
+        "onboard_time": 1773210140,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132774,
+        "num": 132774,
+        "word": "要对钱有概念",
+        "onboard_time": 1773204083,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126573,
+        "num": 126573,
+        "word": "iPhone18Pro或无屏下FaceID",
+        "onboard_time": 1773212121,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46419,
+        "num": 123707,
+        "word": "女子上班时为隔壁公司灭火获11万赞",
+        "onboard_time": 1773212181,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 121905,
+        "num": 121905,
+        "word": "TF后代大战EXO老祖",
+        "onboard_time": 1773211100,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114752,
+        "num": 114752,
+        "word": "桃花坞",
+        "onboard_time": 1773206182,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109132,
+        "num": 109132,
+        "word": "以为是段子结果真发生了",
+        "onboard_time": 1773204324,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113459,
+        "num": 108646,
+        "word": "刘浩存 还有我的老鼠干",
+        "onboard_time": 1773211760,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107410,
+        "num": 107410,
+        "word": "王小亿内场这个美",
+        "onboard_time": 1773207862,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99756,
+        "num": 99756,
+        "word": "建议设大龄人才友好岗",
+        "onboard_time": 1773211521,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105869,
+        "num": 99749,
+        "word": "逐玉 三对CP",
+        "onboard_time": 1773210979,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99443,
+        "num": 99443,
+        "word": "伊朗称正在霍尔木兹海峡等待美海军",
+        "onboard_time": 1773197423,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93048,
+        "num": 93048,
+        "word": "刘文祥过完零丁洋得坨",
+        "onboard_time": 1773212360,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91887,
+        "num": 91887,
+        "word": "美国驻多伦多领馆遭枪击",
+        "onboard_time": 1773204683,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84242,
+        "num": 84242,
+        "word": "早熟的人通常都晚熟",
+        "onboard_time": 1773211399,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55852,
+        "num": 82264,
+        "word": "蔚来ES6五年跑出百万公里",
+        "onboard_time": 1773209541,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 80760,
+        "num": 80760,
+        "word": "豆包万能P图口令",
+        "onboard_time": 1773212840,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14296,
+        "num": 77566,
+        "word": "律师解读平台限制AI成毅",
+        "onboard_time": 1773211760,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44914,
+        "num": 77540,
+        "word": "神秘买家超7亿买入4套豪宅",
+        "onboard_time": 1773212960,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77524,
+        "num": 77524,
+        "word": "帅的追你一秒就同意了",
+        "onboard_time": 1773205642,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74094,
+        "num": 74094,
+        "word": "恋与深空委托 1300一小时",
+        "onboard_time": 1773213261,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73414,
+        "num": 73414,
+        "word": "TVB风味古偶白日提灯",
+        "onboard_time": 1773209661,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73196,
+        "num": 73196,
+        "word": "薛之谦广州场二开",
+        "onboard_time": 1773212541,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72764,
+        "num": 72764,
+        "word": "让龙虾知道密码有风险",
+        "onboard_time": 1773209780,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71473,
+        "num": 71473,
+        "word": "白玉兰预测",
+        "onboard_time": 1773213320,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67881,
+        "num": 67881,
+        "word": "两会",
+        "onboard_time": 1773193401,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66652,
+        "num": 66652,
+        "word": "资本重新押注30元咖啡",
+        "onboard_time": 1773205522,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66632,
+        "num": 66632,
+        "word": "王楚钦3比0格罗特",
+        "onboard_time": 1773213081,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66540,
+        "num": 66540,
+        "word": "汾酒回应多名硕士拟录为酿酒工成装工",
+        "onboard_time": 1773202101,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强国是现代化强国的一个重要标志#"
+    }
+  }
+}

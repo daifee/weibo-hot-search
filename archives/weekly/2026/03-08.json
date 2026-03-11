@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773212695437,
+  "endTime": 1773213447587,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -763,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 464894,
+      "num": 1074383,
+      "word": "建议允许未休年假两年内结转使用",
+      "onboard_time": 1773210321,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 462507,
       "num": 276410,
       "word": "伊朗最高权力平稳过渡",
@@ -947,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 398052,
-      "num": 1063688,
-      "word": "建议允许未休年假两年内结转使用",
-      "onboard_time": 1773210321,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 395712,
       "num": 395712,
       "word": "台湾绝无可能成为国家",
@@ -1123,6 +1123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 345454,
+      "num": 345454,
+      "word": "AG 首发",
+      "onboard_time": 1773210321,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 340887,
       "num": 306951,
       "word": "27岁女子挤痘痘后确诊2型糖尿病",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1773060442,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 332195,
-      "num": 332195,
-      "word": "AG 首发",
-      "onboard_time": 1773210321,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 329515,
@@ -1755,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279119,
+      "num": 279119,
+      "word": "张凌赫回应颜值出圈",
+      "onboard_time": 1773212181,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276959,
       "num": 654117,
       "word": "镖人 全女版",
@@ -1891,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249065,
+      "num": 572733,
+      "word": "逐玉孔雪儿邓凯这一对简直仙品",
+      "onboard_time": 1773209060,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245970,
       "num": 519381,
       "word": "时代少年团广州演唱会",
@@ -2019,14 +2035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237359,
-      "num": 572733,
-      "word": "逐玉孔雪儿邓凯这一对简直仙品",
-      "onboard_time": 1773209060,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236825,
       "num": 1037892,
       "word": "农业农村部部长建议大家少吃点油",
@@ -2113,6 +2121,14 @@
       "onboard_time": 1773153324,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 230326,
+      "num": 230326,
+      "word": "外甥正月偷偷剪发舅舅气到血压飙升",
+      "onboard_time": 1773212900,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230298,
@@ -2785,14 +2801,6 @@
       "onboard_time": 1773034281,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173467,
-      "num": 173467,
-      "word": "张凌赫回应颜值出圈",
-      "onboard_time": 1773212181,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 173056,
@@ -3739,6 +3747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126573,
+      "num": 126573,
+      "word": "iPhone18Pro或无屏下FaceID",
+      "onboard_time": 1773212121,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 126507,
       "num": 574301,
       "word": "怪不得小孩总是一哭就找妈妈",
@@ -3899,6 +3915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121905,
+      "num": 121905,
+      "word": "TF后代大战EXO老祖",
+      "onboard_time": 1773211100,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121778,
       "num": 234797,
       "word": "胖东来室外保洁月薪近万元",
@@ -3921,6 +3945,14 @@
       "onboard_time": 1772975122,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120968,
+      "num": 171221,
+      "word": "建议上夜班前打坐3到5分钟",
+      "onboard_time": 1773211521,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120621,
@@ -4105,6 +4137,14 @@
       "onboard_time": 1772971882,
       "rank": 33,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 113459,
+      "num": 108646,
+      "word": "刘浩存 还有我的老鼠干",
+      "onboard_time": 1773211760,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 113031,
@@ -4339,6 +4379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105869,
+      "num": 101621,
+      "word": "逐玉 三对CP",
+      "onboard_time": 1773210979,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105203,
       "num": 161606,
       "word": "AG花花三连周MVP",
@@ -4499,28 +4547,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 101959,
-      "num": 101959,
-      "word": "TF后代大战EXO老祖",
-      "onboard_time": 1773211100,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 101681,
       "num": 915408,
       "word": "自己做饭固然健康但能吃吗",
       "onboard_time": 1773130883,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101621,
-      "num": 101621,
-      "word": "逐玉 三对CP",
-      "onboard_time": 1773210979,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 101590,
@@ -4587,14 +4619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100373,
-      "num": 100373,
-      "word": "iPhone18Pro或无屏下FaceID",
-      "onboard_time": 1773212121,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 100218,
       "num": 162060,
       "word": "千问一句话买眼镜",
@@ -4617,6 +4641,14 @@
       "onboard_time": 1773193700,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99756,
+      "num": 330077,
+      "word": "建议设大龄人才友好岗",
+      "onboard_time": 1773211521,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99592,
@@ -5003,6 +5035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93048,
+      "num": 93048,
+      "word": "刘文祥过完零丁洋得坨",
+      "onboard_time": 1773212360,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92670,
       "num": 221973,
       "word": "鸡鸣寺消息树今年失约",
@@ -5200,14 +5240,6 @@
       "word": "院士说文科生绝不会被AI替代",
       "onboard_time": 1773151583,
       "rank": 7,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 89346,
-      "num": 155929,
-      "word": "建议上夜班前打坐3到5分钟",
-      "onboard_time": 1773211521,
-      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -5707,6 +5739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80760,
+      "num": 80760,
+      "word": "豆包万能P图口令",
+      "onboard_time": 1773212840,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80702,
       "num": 593007,
       "word": "代表说越是贫穷的地方彩礼越高",
@@ -5899,14 +5939,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 78170,
-      "num": 330077,
-      "word": "建议设大龄人才友好岗",
-      "onboard_time": 1773211521,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 78118,
       "num": 78118,
       "word": "PEL春季赛",
@@ -6001,14 +6033,6 @@
       "onboard_time": 1772940621,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 77287,
-      "num": 77287,
-      "word": "刘浩存 还有我的老鼠干",
-      "onboard_time": 1773211760,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 76897,
@@ -6195,6 +6219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74094,
+      "num": 74094,
+      "word": "恋与深空委托 1300一小时",
+      "onboard_time": 1773213261,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74029,
       "num": 110302,
       "word": "武汉三镇0比2北京国安",
@@ -6227,6 +6259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73414,
+      "num": 73414,
+      "word": "TVB风味古偶白日提灯",
+      "onboard_time": 1773209661,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73396,
       "num": 73396,
       "word": "小猫捧着耶耶的脸亲了两下",
@@ -6241,6 +6281,14 @@
       "onboard_time": 1773023480,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73196,
+      "num": 73196,
+      "word": "薛之谦广州场二开",
+      "onboard_time": 1773212541,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 73072,
@@ -6275,6 +6323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72764,
+      "num": 72764,
+      "word": "让龙虾知道密码有风险",
+      "onboard_time": 1773209780,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72667,
       "num": 289236,
       "word": "老一辈过年最难忘的是哪一年",
@@ -6289,14 +6345,6 @@
       "onboard_time": 1773110962,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72640,
-      "num": 72640,
-      "word": "薛之谦广州场二开",
-      "onboard_time": 1773212541,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 72480,
@@ -6371,6 +6419,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 71519,
+      "num": 576727,
+      "word": "建议新增元宵节假日",
+      "onboard_time": 1773205042,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 71473,
+      "num": 71473,
+      "word": "白玉兰预测",
+      "onboard_time": 1773213320,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71157,
       "num": 85875,
       "word": "王楚钦浅浅一笑",
@@ -6385,14 +6449,6 @@
       "onboard_time": 1773047362,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 71063,
-      "num": 576727,
-      "word": "建议新增元宵节假日",
-      "onboard_time": 1773205042,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 71055,
@@ -6427,14 +6483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70895,
-      "num": 70895,
-      "word": "让龙虾知道密码有风险",
-      "onboard_time": 1773209780,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70873,
       "num": 70873,
       "word": "起猛了隐形眼镜发展到这个地步了",
@@ -6465,14 +6513,6 @@
       "onboard_time": 1773203002,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 70330,
-      "num": 70330,
-      "word": "TVB风味古偶白日提灯",
-      "onboard_time": 1773209661,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 70280,
@@ -6737,6 +6777,14 @@
       "onboard_time": 1773203843,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66632,
+      "num": 66632,
+      "word": "王楚钦3比0格罗特",
+      "onboard_time": 1773213081,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 66562,
@@ -7515,6 +7563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55852,
+      "num": 82264,
+      "word": "蔚来ES6五年跑出百万公里",
+      "onboard_time": 1773209541,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55781,
       "num": 589748,
       "word": "谁上班不想来包薯片",
@@ -7585,14 +7641,6 @@
       "onboard_time": 1773012560,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 54627,
-      "num": 76805,
-      "word": "蔚来ES6五年跑出百万公里",
-      "onboard_time": 1773209541,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 54555,
@@ -8035,6 +8083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46419,
+      "num": 156918,
+      "word": "女子上班时为隔壁公司灭火获11万赞",
+      "onboard_time": 1773212181,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 46334,
       "num": 579352,
       "word": "谭松韵新剧唱歌跑调",
@@ -8081,6 +8137,14 @@
       "onboard_time": 1773030323,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44914,
+      "num": 77540,
+      "word": "神秘买家超7亿买入4套豪宅",
+      "onboard_time": 1773212960,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44847,
@@ -8283,6 +8347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40053,
+      "num": 576816,
+      "word": "十五五蓝图中的职业新图景",
+      "onboard_time": 1773204382,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39939,
       "num": 608447,
       "word": "网络名人赞两会",
@@ -8377,14 +8449,6 @@
       "onboard_time": 1772964139,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38341,
-      "num": 576816,
-      "word": "十五五蓝图中的职业新图景",
-      "onboard_time": 1773204382,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38336,
@@ -8595,14 +8659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32904,
-      "num": 156918,
-      "word": "女子上班时为隔壁公司灭火获11万赞",
-      "onboard_time": 1773212181,
-      "rank": 18,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 32798,
       "num": 80454,
       "word": "Viper的目标是连冠",
@@ -8721,6 +8777,14 @@
       "onboard_time": 1772975241,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27504,
+      "num": 229852,
+      "word": "不带大梁能穿越N39吗",
+      "onboard_time": 1773210979,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 27424,
@@ -8897,14 +8961,6 @@
       "onboard_time": 1772925077,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23353,
-      "num": 175601,
-      "word": "不带大梁能穿越N39吗",
-      "onboard_time": 1773210979,
-      "rank": 16,
-      "category": "汽车"
     },
     {
       "raw_hot": 23286,
@@ -9099,6 +9155,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 16613,
+      "num": 340318,
+      "word": "建议整治同一航班同一张票两个价",
+      "onboard_time": 1773212960,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16510,
       "num": 273371,
       "word": "荣耀Magic V6",
@@ -9161,6 +9225,14 @@
       "onboard_time": 1773116062,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14296,
+      "num": 77566,
+      "word": "律师解读平台限制AI成毅",
+      "onboard_time": 1773211760,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 14293,
