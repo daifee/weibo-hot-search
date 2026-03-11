@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773252596827,
+  "endTime": 1773255767661,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -28489,6 +28489,14 @@
       "onboard_time": 1773198500,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13488,
+      "num": 24435,
+      "word": "黄子弘凡演唱会体育场终章版",
+      "onboard_time": 1773255555,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 13463,

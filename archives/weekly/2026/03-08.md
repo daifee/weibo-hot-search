@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/08 00:37:50 ~ 2026/03/12 02:09:56
+本榜单时间：2026/03/08 00:37:50 ~ 2026/03/12 03:02:47
 </p>
 </blockquote>
 <p>
@@ -7977,6 +7977,12 @@ WBG无缘先锋赛（热度：19496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E4%B8%87%E5%85%BD%E4%B9%8B%E7%8E%8B%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+薛之谦万兽之王巡回演唱会（热度：15768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%94%E5%88%B0%E5%8D%81%E4%BA%94%E4%BA%94%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%23" target="weibo">
 一五到十五五重大工程（热度：15748）
 </a>
@@ -8045,6 +8051,12 @@ WBG无缘先锋赛（热度：19496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A7%E6%A3%80%E7%AE%97%E5%8A%B3%E5%8A%A8%E6%97%B6%E9%97%B4%E6%AD%A3%E5%B8%B8%E4%BB%98%E5%B7%A5%E8%B5%84%23" target="weibo">
 产检算劳动时间正常付工资（热度：13616）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BD%93%E8%82%B2%E5%9C%BA%E7%BB%88%E7%AB%A0%E7%89%88%23" target="weibo">
+黄子弘凡演唱会体育场终章版（热度：13488）
 </a>
 </li>
 
