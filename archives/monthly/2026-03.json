@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773213447587,
+  "endTime": 1773216135206,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1523,6 +1523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 763567,
+      "num": 239099,
+      "word": "外甥正月偷偷剪发舅舅气到血压飙升",
+      "onboard_time": 1773212900,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 762358,
       "num": 859098,
       "word": "伊朗称驱逐美以大使可过霍尔木兹",
@@ -2731,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 534082,
+      "num": 534082,
+      "word": "白玉兰预测",
+      "onboard_time": 1773213320,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 533832,
       "num": 858832,
       "word": "经纪公司否认张娜拉去世",
@@ -3011,6 +3027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 501957,
+      "num": 112455,
+      "word": "原来何老师从小就是何老师了",
+      "onboard_time": 1773215782,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 499317,
       "num": 246308,
       "word": "黄轩的手 此沙的脚",
@@ -3105,6 +3129,14 @@
       "onboard_time": 1772702843,
       "rank": 34,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 486522,
+      "num": 237308,
+      "word": "曝美军方花900万美元买帝王蟹龙虾",
+      "onboard_time": 1773214522,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 485935,
@@ -3291,6 +3323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 471664,
+      "num": 1075466,
+      "word": "建议允许未休年假两年内结转使用",
+      "onboard_time": 1773210321,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 470442,
       "num": 786124,
       "word": "91岁女儿受委屈向113岁妈妈哭诉",
@@ -3377,14 +3417,6 @@
       "onboard_time": 1772790143,
       "rank": 6,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 464894,
-      "num": 1074383,
-      "word": "建议允许未休年假两年内结转使用",
-      "onboard_time": 1773210321,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 464045,
@@ -4883,6 +4915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356395,
+      "num": 228542,
+      "word": "百岁山官方把肖战喝水画面分成了2段",
+      "onboard_time": 1773214100,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356245,
       "num": 374488,
       "word": "公然击杀主权国家领导人不可接受",
@@ -5737,6 +5777,14 @@
       "onboard_time": 1772529807,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312381,
+      "num": 279119,
+      "word": "张凌赫回应颜值出圈",
+      "onboard_time": 1773212181,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 311655,
@@ -6643,14 +6691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279119,
-      "num": 279119,
-      "word": "张凌赫回应颜值出圈",
-      "onboard_time": 1773212181,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278817,
       "num": 208264,
       "word": "王鹤棣紫衣少年谢景行",
@@ -7097,6 +7137,14 @@
       "onboard_time": 1772522847,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256541,
+      "num": 256541,
+      "word": "刘文祥过完零丁洋得坨",
+      "onboard_time": 1773212360,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 256130,
@@ -7859,14 +7907,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 230326,
-      "num": 230326,
-      "word": "外甥正月偷偷剪发舅舅气到血压飙升",
-      "onboard_time": 1773212900,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230298,
       "num": 368857,
       "word": "伊朗警告油价或超200美元",
@@ -8441,6 +8481,14 @@
       "onboard_time": 1772883202,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 214873,
+      "num": 214873,
+      "word": "伊朗总统之子称最高领袖平安",
+      "onboard_time": 1773213980,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214462,
@@ -9241,6 +9289,14 @@
       "onboard_time": 1773147801,
       "rank": 34,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 192690,
+      "num": 771879,
+      "word": "建议整治同一航班同一张票两个价",
+      "onboard_time": 1773212960,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192408,
@@ -10779,6 +10835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158517,
+      "num": 255820,
+      "word": "80元Lululemon发圈卖断货",
+      "onboard_time": 1773215303,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158477,
       "num": 158477,
       "word": "湖南卫视妇女节视频设计好天才啊",
@@ -10817,6 +10881,14 @@
       "onboard_time": 1772512647,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157626,
+      "num": 157626,
+      "word": "甜茶关晓彤合照",
+      "onboard_time": 1773215421,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 157365,
@@ -11345,6 +11417,14 @@
       "onboard_time": 1772589326,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148815,
+      "num": 148815,
+      "word": "刘浩存 还有我的老鼠干",
+      "onboard_time": 1773211760,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 148578,
@@ -12659,6 +12739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132291,
+      "num": 132291,
+      "word": "金店集体涨价",
+      "onboard_time": 1773213800,
+      "rank": 22,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 132290,
       "num": 604768,
       "word": "苹果回应Macmini断货",
@@ -13283,6 +13371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 125564,
+      "num": 125564,
+      "word": "无痛上班模式",
+      "onboard_time": 1773213860,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125319,
       "num": 588580,
       "word": "中东冲突让日韩一起慌了",
@@ -13297,6 +13393,14 @@
       "onboard_time": 1772459006,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125285,
+      "num": 112752,
+      "word": "取微信名要慎重",
+      "onboard_time": 1773215180,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 125052,
@@ -13699,12 +13803,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121339,
+      "num": 121339,
+      "word": "恋与深空委托 1300一小时",
+      "onboard_time": 1773213261,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121213,
       "num": 202981,
       "word": "Fly赛后发文",
       "onboard_time": 1772538270,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121136,
+      "num": 127348,
+      "word": "豆包万能P图口令",
+      "onboard_time": 1773212840,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 121117,
@@ -14187,6 +14307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116223,
+      "num": 116223,
+      "word": "BBA车价大降销量回温难",
+      "onboard_time": 1773216082,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116073,
       "num": 282694,
       "word": "肖战成唯一上榜中国艺人",
@@ -14291,6 +14419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115082,
+      "num": 105207,
+      "word": "王楚钦锐评重庆菜",
+      "onboard_time": 1773215361,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115007,
       "num": 223011,
       "word": "无限暖暖",
@@ -14377,6 +14513,14 @@
       "onboard_time": 1772628084,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114191,
+      "num": 114191,
+      "word": "逐玉 三对CP",
+      "onboard_time": 1773210979,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 114132,
@@ -14521,14 +14665,6 @@
       "onboard_time": 1772971882,
       "rank": 33,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 113459,
-      "num": 108646,
-      "word": "刘浩存 还有我的老鼠干",
-      "onboard_time": 1773211760,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 113438,
@@ -15403,14 +15539,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 105869,
-      "num": 101621,
-      "word": "逐玉 三对CP",
-      "onboard_time": 1773210979,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105664,
       "num": 105664,
       "word": "郑润泽升降台事故",
@@ -15713,6 +15841,14 @@
       "onboard_time": 1772603125,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103438,
+      "num": 103438,
+      "word": "张凌赫伴手礼",
+      "onboard_time": 1773216022,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 103390,
@@ -16579,6 +16715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98051,
+      "num": 98051,
+      "word": "华师大回应师范本科不再输出教师",
+      "onboard_time": 1773215361,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 97953,
       "num": 387917,
       "word": "WTT重庆冠军赛抽签结果来了",
@@ -16697,6 +16841,14 @@
       "onboard_time": 1772513007,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97002,
+      "num": 97002,
+      "word": "逐玉原著",
+      "onboard_time": 1773215601,
+      "rank": 41,
+      "category": "读书作家"
     },
     {
       "raw_hot": 96798,
@@ -17353,14 +17505,6 @@
       "onboard_time": 1772465786,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 93048,
-      "num": 93048,
-      "word": "刘文祥过完零丁洋得坨",
-      "onboard_time": 1773212360,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 92987,
@@ -18251,6 +18395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87677,
+      "num": 87677,
+      "word": "DYG 自求多福",
+      "onboard_time": 1773213681,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87617,
       "num": 157849,
       "word": "皮肤HPV感染其实很常见",
@@ -19083,6 +19235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82225,
+      "num": 82225,
+      "word": "当你生了一个双鱼座小孩",
+      "onboard_time": 1773213741,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 82107,
       "num": 238437,
       "word": "周冠宇紫薯精",
@@ -19305,14 +19465,6 @@
       "onboard_time": 1772887581,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80760,
-      "num": 80760,
-      "word": "豆包万能P图口令",
-      "onboard_time": 1773212840,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 80750,
@@ -20491,14 +20643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74094,
-      "num": 74094,
-      "word": "恋与深空委托 1300一小时",
-      "onboard_time": 1773213261,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 74062,
       "num": 74062,
       "word": "几分钟讲清楚投资的本质",
@@ -20572,7 +20716,7 @@
     },
     {
       "raw_hot": 73414,
-      "num": 73414,
+      "num": 97061,
       "word": "TVB风味古偶白日提灯",
       "onboard_time": 1773209661,
       "rank": 44,
@@ -20961,14 +21105,6 @@
       "onboard_time": 1773205042,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 71473,
-      "num": 71473,
-      "word": "白玉兰预测",
-      "onboard_time": 1773213320,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 71157,
@@ -21417,6 +21553,14 @@
       "onboard_time": 1773111141,
       "rank": 47,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 68338,
+      "num": 77405,
+      "word": "拍到了猫生照片",
+      "onboard_time": 1773215180,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 68266,
@@ -26379,6 +26523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22290,
+      "num": 97010,
+      "word": "政协委员建议别信不明养生小视频",
+      "onboard_time": 1773216022,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22184,
       "num": 2083425,
       "word": "2026新春走基层",
@@ -26801,14 +26953,6 @@
       "onboard_time": 1773198141,
       "rank": 19,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 16613,
-      "num": 340318,
-      "word": "建议整治同一航班同一张票两个价",
-      "onboard_time": 1773212960,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16510,
