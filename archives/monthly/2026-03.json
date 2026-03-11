@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773265314426,
+  "endTime": 1773266165249,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -28643,20 +28643,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8968,
+      "num": 117219,
+      "word": "建议增设重阳节为法定节假日",
+      "onboard_time": 1773237263,
+      "rank": 7,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 8806,
       "num": 192814,
       "word": "建议开展反家暴法全国执法检查",
       "onboard_time": 1772865561,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8666,
-      "num": 92100,
-      "word": "建议增设重阳节为法定节假日",
-      "onboard_time": 1773237263,
-      "rank": 7,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 7896,

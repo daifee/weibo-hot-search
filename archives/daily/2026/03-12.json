@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773265314426,
+  "endTime": 1773266165249,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -459,8 +459,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27046,
-      "num": 27046,
+      "raw_hot": 29318,
+      "num": 29318,
       "word": "云合",
       "onboard_time": 1773261913,
       "rank": 18,
@@ -547,16 +547,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 8666,
-      "num": 92100,
+      "raw_hot": 8968,
+      "num": 117219,
       "word": "建议增设重阳节为法定节假日",
       "onboard_time": 1773237263,
       "rank": 7,
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 7749,
-      "num": 87954,
+      "raw_hot": 8029,
+      "num": 115128,
       "word": "建议逐步推行现房销售",
       "onboard_time": 1773241223,
       "rank": 9,
