@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773216135206,
+  "endTime": 1773219281048,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 763567,
-      "num": 239099,
+      "num": 424973,
       "word": "外甥正月偷偷剪发舅舅气到血压飙升",
       "onboard_time": 1773212900,
       "rank": 14,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 501957,
-      "num": 112455,
+      "num": 403871,
       "word": "原来何老师从小就是何老师了",
       "onboard_time": 1773215782,
       "rank": 31,
@@ -843,6 +843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 438394,
+      "num": 415510,
+      "word": "取微信名要慎重",
+      "onboard_time": 1773215180,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 436888,
       "num": 608782,
       "word": "杨紫王安宇合作",
@@ -881,6 +889,22 @@
       "onboard_time": 1773071961,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 430658,
+      "num": 430658,
+      "word": "80元Lululemon发圈卖断货",
+      "onboard_time": 1773215303,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 429064,
+      "num": 429064,
+      "word": "甜茶关晓彤合照",
+      "onboard_time": 1773215421,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 428800,
@@ -1164,7 +1188,7 @@
     },
     {
       "raw_hot": 345454,
-      "num": 345454,
+      "num": 420832,
       "word": "AG 首发",
       "onboard_time": 1773210321,
       "rank": 4,
@@ -1388,7 +1412,7 @@
     },
     {
       "raw_hot": 312381,
-      "num": 279119,
+      "num": 411776,
       "word": "张凌赫回应颜值出圈",
       "onboard_time": 1773212181,
       "rank": 17,
@@ -1811,6 +1835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 274796,
+      "num": 1043967,
+      "word": "建议整治同一航班同一张票两个价",
+      "onboard_time": 1773212960,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 271821,
       "num": 373340,
       "word": "108公斤27岁女生花1年减掉108斤",
@@ -1833,6 +1865,14 @@
       "onboard_time": 1772957720,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265995,
+      "num": 430286,
+      "word": "豆包万能P图口令",
+      "onboard_time": 1773212840,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 265589,
@@ -1923,12 +1963,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 254498,
+      "num": 428842,
+      "word": "华师大回应师范本科不再输出教师",
+      "onboard_time": 1773215361,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 252619,
       "num": 615315,
       "word": "真人版神庙逃亡",
       "onboard_time": 1773039261,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252290,
+      "num": 426434,
+      "word": "伊朗总统之子称最高领袖平安",
+      "onboard_time": 1773213980,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 251143,
@@ -2355,14 +2411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214873,
-      "num": 214873,
-      "word": "伊朗总统之子称最高领袖平安",
-      "onboard_time": 1773213980,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 214397,
       "num": 656792,
       "word": "逐玉弹幕 恶语伤牛心",
@@ -2643,14 +2691,6 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 192690,
-      "num": 771879,
-      "word": "建议整治同一航班同一张票两个价",
-      "onboard_time": 1773212960,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 191779,
       "num": 692801,
       "word": "把果蝇的大脑复制到电脑",
@@ -2705,6 +2745,14 @@
       "onboard_time": 1773135985,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189599,
+      "num": 422977,
+      "word": "双人餐是需要两份主食饮料的",
+      "onboard_time": 1773217881,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 187888,
@@ -3099,28 +3147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158517,
-      "num": 255820,
-      "word": "80元Lululemon发圈卖断货",
-      "onboard_time": 1773215303,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158477,
       "num": 158477,
       "word": "湖南卫视妇女节视频设计好天才啊",
       "onboard_time": 1772983281,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157626,
-      "num": 157626,
-      "word": "甜茶关晓彤合照",
-      "onboard_time": 1773215421,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 156752,
@@ -3180,7 +3212,7 @@
     },
     {
       "raw_hot": 152128,
-      "num": 152128,
+      "num": 400829,
       "word": "黄觉教肖战脸颊比心",
       "onboard_time": 1773210140,
       "rank": 22,
@@ -3251,8 +3283,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148922,
+      "num": 413578,
+      "word": "不二之臣",
+      "onboard_time": 1772927958,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148815,
-      "num": 148815,
+      "num": 402433,
       "word": "刘浩存 还有我的老鼠干",
       "onboard_time": 1773211760,
       "rank": 35,
@@ -3339,6 +3379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 146086,
+      "num": 411869,
+      "word": "iPhone18Pro外观上惊喜感或有限",
+      "onboard_time": 1773217222,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 145635,
       "num": 145635,
       "word": "外国游客到中国根本买不够",
@@ -3353,6 +3401,14 @@
       "onboard_time": 1773044121,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144959,
+      "num": 742902,
+      "word": "国防部回应日本部署远程导弹",
+      "onboard_time": 1773218001,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144522,
@@ -3668,7 +3724,7 @@
     },
     {
       "raw_hot": 132291,
-      "num": 132291,
+      "num": 407954,
       "word": "金店集体涨价",
       "onboard_time": 1773213800,
       "rank": 22,
@@ -3835,6 +3891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126991,
+      "num": 403682,
+      "word": "Rookie开箱vlog",
+      "onboard_time": 1773216860,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126573,
       "num": 126573,
       "word": "iPhone18Pro或无屏下FaceID",
@@ -3913,14 +3977,6 @@
       "onboard_time": 1773213860,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125285,
-      "num": 112752,
-      "word": "取微信名要慎重",
-      "onboard_time": 1773215180,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 124941,
@@ -4052,19 +4108,11 @@
     },
     {
       "raw_hot": 121339,
-      "num": 121339,
+      "num": 402961,
       "word": "恋与深空委托 1300一小时",
       "onboard_time": 1773213261,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 121136,
-      "num": 127348,
-      "word": "豆包万能P图口令",
-      "onboard_time": 1773212840,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 120968,
@@ -4180,7 +4228,7 @@
     },
     {
       "raw_hot": 116223,
-      "num": 116223,
+      "num": 405402,
       "word": "BBA车价大降销量回温难",
       "onboard_time": 1773216082,
       "rank": 27,
@@ -4220,7 +4268,7 @@
     },
     {
       "raw_hot": 114191,
-      "num": 114191,
+      "num": 403128,
       "word": "逐玉 三对CP",
       "onboard_time": 1773210979,
       "rank": 28,
@@ -4644,10 +4692,18 @@
     },
     {
       "raw_hot": 103438,
-      "num": 103438,
+      "num": 400335,
       "word": "张凌赫伴手礼",
       "onboard_time": 1773216022,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103187,
+      "num": 404145,
+      "word": "我们的少年时代2开通官微",
+      "onboard_time": 1773219141,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -4753,6 +4809,14 @@
       "onboard_time": 1773139883,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100692,
+      "num": 403478,
+      "word": "刘亦菲冷到攥拳头仍大方营业",
+      "onboard_time": 1773217702,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 100218,
@@ -4873,14 +4937,6 @@
       "onboard_time": 1772889323,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98051,
-      "num": 98051,
-      "word": "华师大回应师范本科不再输出教师",
-      "onboard_time": 1773215361,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 97953,
@@ -5539,6 +5595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87525,
+      "num": 402084,
+      "word": "男子回应开电车5年跑100万公里",
+      "onboard_time": 1773219022,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87320,
       "num": 87320,
       "word": "广西一山洞内景似世外桃源",
@@ -5689,6 +5753,14 @@
       "onboard_time": 1773110480,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85074,
+      "num": 401349,
+      "word": "梁朝伟走势",
+      "onboard_time": 1773218541,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 85018,
@@ -5852,7 +5924,7 @@
     },
     {
       "raw_hot": 82225,
-      "num": 82225,
+      "num": 401045,
       "word": "当你生了一个双鱼座小孩",
       "onboard_time": 1773213741,
       "rank": 45,
@@ -6089,6 +6161,14 @@
       "onboard_time": 1773131603,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 78184,
+      "num": 419212,
+      "word": "联合国16位专家呼吁日本道歉",
+      "onboard_time": 1773218603,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78118,
@@ -6651,6 +6731,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 70459,
+      "num": 400026,
+      "word": "苹果国补后双产品跌破4000元",
+      "onboard_time": 1773218183,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 70454,
+      "num": 399863,
+      "word": "怎么会有鸽子胖得像母鸡",
+      "onboard_time": 1773219022,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70280,
       "num": 591778,
       "word": "孙中山后人称祖国统一势在必然",
@@ -6705,6 +6801,22 @@
       "onboard_time": 1772978541,
       "rank": 48,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 69830,
+      "num": 399620,
+      "word": "小米车险承保公司小米持股超3成",
+      "onboard_time": 1773216983,
+      "rank": 45,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 69355,
+      "num": 398996,
+      "word": "饿怒型人格",
+      "onboard_time": 1773218841,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 69037,
@@ -6841,6 +6953,14 @@
       "onboard_time": 1773188661,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67278,
+      "num": 398764,
+      "word": "金店店员谈金不响银不跳",
+      "onboard_time": 1773218901,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 67277,
@@ -7235,14 +7355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62995,
-      "num": 62995,
-      "word": "不二之臣",
-      "onboard_time": 1772927958,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62773,
       "num": 855932,
       "word": "KPL",
@@ -7449,6 +7561,14 @@
       "onboard_time": 1772884222,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60179,
+      "num": 409513,
+      "word": "MiuMiu大秀刘浩存李庚希",
+      "onboard_time": 1773216382,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 60080,
@@ -9195,6 +9315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20235,
+      "num": 422429,
+      "word": "奥迪宋斐明和微博王巍谈双料冠军",
+      "onboard_time": 1773217342,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 20116,
       "num": 149977,
       "word": "AI回答AI时代如何定义人",
@@ -9368,6 +9496,14 @@
       "word": "代表呼吁提高中低收入人群育儿补贴",
       "onboard_time": 1773116062,
       "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14499,
+      "num": 417837,
+      "word": "委员给反内卷支招",
+      "onboard_time": 1773218603,
+      "rank": 19,
       "category": "国内时政"
     },
     {
