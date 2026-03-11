@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773186653879,
+  "endTime": 1773196455124,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1143242,
+      "num": 1002851,
+      "word": "工作不满10年休5天年假规则该调整",
+      "onboard_time": 1773192621,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1062794,
       "num": 859690,
       "word": "Ella送别袁惟仁哭到抽搐",
@@ -163,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 944093,
+      "num": 305101,
+      "word": "伊朗下起毒雨",
+      "onboard_time": 1773185599,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 939571,
       "num": 648736,
       "word": "张凯丽说天价彩礼不应归咎于女性",
@@ -177,6 +193,14 @@
       "onboard_time": 1773140482,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 926440,
+      "num": 926440,
+      "word": "阿德巴约83分",
+      "onboard_time": 1773195441,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 922479,
@@ -419,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 639839,
+      "num": 272789,
+      "word": "阿德巴约现役得分王",
+      "onboard_time": 1773194961,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 617115,
       "num": 650756,
       "word": "孙千发了和王安宇合照",
@@ -472,14 +504,6 @@
       "word": "日本部署远程导弹",
       "onboard_time": 1773048141,
       "rank": 11,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 555560,
-      "num": 187499,
-      "word": "伊朗下起毒雨",
-      "onboard_time": 1773185599,
-      "rank": 29,
       "category": "国际时政"
     },
     {
@@ -915,6 +939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 392727,
+      "num": 235559,
+      "word": "逐玉原著的女主",
+      "onboard_time": 1773193640,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391574,
       "num": 613825,
       "word": "林书豪爆科比私下性格",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1773060442,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329515,
+      "num": 329515,
+      "word": "等我小了我也要这么晒太阳",
+      "onboard_time": 1773191181,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326613,
@@ -1555,6 +1595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 283246,
+      "num": 234920,
+      "word": "苹果最便宜手机来了",
+      "onboard_time": 1773186199,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 282734,
       "num": 190955,
       "word": "秀智晒与王安宇孙千晚宴合照",
@@ -1931,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231774,
+      "num": 321077,
+      "word": "豆包限制AI成毅",
+      "onboard_time": 1773175874,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231753,
       "num": 745575,
       "word": "伊朗高官6种语言发帖",
@@ -1955,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227603,
+      "num": 227603,
+      "word": "美国要求以色列勿袭伊朗能源设施",
+      "onboard_time": 1773192682,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226693,
       "num": 226693,
       "word": "去动物园竟被猴子投喂苹果",
@@ -1977,6 +2041,14 @@
       "onboard_time": 1773098059,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 225237,
+      "num": 225237,
+      "word": "阿德巴约单节31分",
+      "onboard_time": 1773194120,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 225030,
@@ -2227,6 +2299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202706,
+      "num": 103423,
+      "word": "相差十岁的兄妹一天没见就紧紧相拥",
+      "onboard_time": 1773194303,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201779,
       "num": 327475,
       "word": "治理高额彩礼写进最高法报告",
@@ -2475,14 +2555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183306,
-      "num": 183306,
-      "word": "苹果最便宜手机来了",
-      "onboard_time": 1773186199,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 182105,
       "num": 432369,
       "word": "任豪用剑扶田曦薇腰这一下",
@@ -2593,6 +2665,14 @@
       "onboard_time": 1772937801,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 172611,
+      "num": 172611,
+      "word": "哈哈哈哈哈6铁三角回归",
+      "onboard_time": 1773189502,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 171507,
@@ -2753,6 +2833,14 @@
       "onboard_time": 1773064763,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 160337,
+      "num": 100951,
+      "word": "刘冲选的刘浩存李庚希封面图",
+      "onboard_time": 1773195140,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 160175,
@@ -3315,6 +3403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130791,
+      "num": 130791,
+      "word": "王励勤称正在与樊振东沟通",
+      "onboard_time": 1773193281,
+      "rank": 18,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 130566,
       "num": 596600,
       "word": "孔雪儿逐玉带球跑",
@@ -3603,14 +3699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120969,
-      "num": 321077,
-      "word": "豆包限制AI成毅",
-      "onboard_time": 1773175874,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120621,
       "num": 298069,
       "word": "安装OpenClaw价格",
@@ -3720,6 +3808,14 @@
       "word": "多架美军轰炸机飞抵英国基地",
       "onboard_time": 1772925016,
       "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 114082,
+      "num": 100280,
+      "word": "伊朗发起第37波打击",
+      "onboard_time": 1773191122,
+      "rank": 23,
       "category": "国际时政"
     },
     {
@@ -3891,6 +3987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 108768,
+      "num": 99470,
+      "word": "美国被曝考虑派兵夺取伊朗哈尔克岛",
+      "onboard_time": 1773187042,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108310,
       "num": 592851,
       "word": "伊朗驻华大使回应霍尔木兹海峡问题",
@@ -3993,6 +4097,14 @@
       "onboard_time": 1772980161,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105175,
+      "num": 92512,
+      "word": "伊朗逮捕10名伊斯兰革命卫队成员",
+      "onboard_time": 1773196339,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105174,
@@ -4211,6 +4323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99886,
+      "num": 99886,
+      "word": "敖瑞鹏不二之臣婚礼路透",
+      "onboard_time": 1773193700,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99592,
       "num": 617148,
       "word": "胖东来八成员工月收入9000元",
@@ -4313,6 +4433,14 @@
       "onboard_time": 1772895923,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97798,
+      "num": 97798,
+      "word": "姐姐是大将军姐夫是摄政王",
+      "onboard_time": 1773189443,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 97529,
@@ -4531,6 +4659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93457,
+      "num": 93457,
+      "word": "刘亦菲行走的玫瑰花",
+      "onboard_time": 1773189743,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93335,
       "num": 920866,
       "word": "罗永浩说手机行业好久没创新了",
@@ -4617,6 +4753,14 @@
       "onboard_time": 1772974641,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91528,
+      "num": 91528,
+      "word": "奇才vs热火",
+      "onboard_time": 1773195380,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 91474,
@@ -5147,6 +5291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81670,
+      "num": 81670,
+      "word": "NBA",
+      "onboard_time": 1773195380,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81279,
       "num": 81279,
       "word": "缅北四大家族16名主犯死刑立即执行",
@@ -5209,6 +5361,14 @@
       "onboard_time": 1772946801,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80032,
+      "num": 80032,
+      "word": "周杰伦将举行发片记者会",
+      "onboard_time": 1773192021,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 79995,
@@ -5387,20 +5547,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77672,
+      "num": 230518,
+      "word": "两会",
+      "onboard_time": 1772936240,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77657,
       "num": 77657,
       "word": "张凌赫谢征掐脖强制吻",
       "onboard_time": 1773032902,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77637,
-      "num": 230518,
-      "word": "两会",
-      "onboard_time": 1772936240,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 77614,
@@ -5457,6 +5617,14 @@
       "onboard_time": 1772949859,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76676,
+      "num": 76676,
+      "word": "广西一山洞内景似世外桃源",
+      "onboard_time": 1773194600,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 76526,
@@ -5771,6 +5939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71027,
+      "num": 71027,
+      "word": "孔雪儿俞浅浅含泪发脾气",
+      "onboard_time": 1773195859,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71023,
       "num": 420885,
       "word": "沉迷AI的中年领导",
@@ -6067,6 +6243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66450,
+      "num": 1010632,
+      "word": "政协会议闭幕",
+      "onboard_time": 1773194181,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66405,
       "num": 82059,
       "word": "樊长玉家 猪猪痛屋",
@@ -6089,6 +6273,14 @@
       "onboard_time": 1773185000,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65452,
+      "num": 65452,
+      "word": "成员回应李羲承退队",
+      "onboard_time": 1773196041,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 65284,
@@ -6121,6 +6313,14 @@
       "onboard_time": 1772952261,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65086,
+      "num": 65086,
+      "word": "车还能用电池先老了",
+      "onboard_time": 1773192080,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 65000,
@@ -6323,6 +6523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62931,
+      "num": 62931,
+      "word": "衣食住行就是人的气运",
+      "onboard_time": 1773188661,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 62773,
       "num": 855932,
       "word": "KPL",
@@ -6401,6 +6609,14 @@
       "onboard_time": 1773098299,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62182,
+      "num": 62182,
+      "word": "逐玉原著vs剧版",
+      "onboard_time": 1773192381,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 62032,
@@ -6523,6 +6739,14 @@
       "category": "艺人,突发/灾害"
     },
     {
+      "raw_hot": 59497,
+      "num": 62176,
+      "word": "董明珠说年轻人有压力是好事",
+      "onboard_time": 1773192981,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59377,
       "num": 59377,
       "word": "妇女节祝福大家拥有美好的词汇",
@@ -6635,6 +6859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57594,
+      "num": 62161,
+      "word": "原来甜茶也喜欢孙颖莎",
+      "onboard_time": 1773189684,
+      "rank": 45,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 57205,
       "num": 935896,
       "word": "BeADreamer",
@@ -6721,6 +6953,14 @@
       "onboard_time": 1773013580,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55286,
+      "num": 62129,
+      "word": "王励勤谈乒乓球",
+      "onboard_time": 1773193160,
+      "rank": 48,
+      "category": "体育,国内时政"
     },
     {
       "raw_hot": 55145,
@@ -7684,7 +7924,7 @@
     },
     {
       "raw_hot": 32924,
-      "num": 754923,
+      "num": 948553,
       "word": "中国两会将为全球创造更多机遇",
       "onboard_time": 1773147624,
       "rank": 2,
@@ -7928,6 +8168,14 @@
       "word": "委员称文科会永远存在",
       "onboard_time": 1773117262,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23674,
+      "num": 237014,
+      "word": "政协会议圆满完成各项议程",
+      "onboard_time": 1773192621,
+      "rank": 9,
       "category": "国内时政"
     },
     {

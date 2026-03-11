@@ -1,0 +1,410 @@
+{
+  "runTime": 1773196455124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 66450,
+        "num": 1010632,
+        "word": "政协会议闭幕",
+        "onboard_time": 1773194181,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1143242,
+        "num": 1002851,
+        "word": "工作不满10年休5天年假规则该调整",
+        "onboard_time": 1773192621,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19455,
+        "num": 948553,
+        "word": "中国两会将为全球创造更多机遇",
+        "onboard_time": 1773147624,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 926440,
+        "num": 926440,
+        "word": "阿德巴约83分",
+        "onboard_time": 1773195441,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329515,
+        "num": 329515,
+        "word": "等我小了我也要这么晒太阳",
+        "onboard_time": 1773191181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 944093,
+        "num": 305101,
+        "word": "伊朗下起毒雨",
+        "onboard_time": 1773185599,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31771,
+        "num": 272838,
+        "word": "3月11日两会日程",
+        "onboard_time": 1773185299,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 639839,
+        "num": 272789,
+        "word": "阿德巴约现役得分王",
+        "onboard_time": 1773194961,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272384,
+        "num": 272384,
+        "word": "去机场不该比坐飞机时间还长",
+        "onboard_time": 1773151042,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23674,
+        "num": 237014,
+        "word": "政协会议圆满完成各项议程",
+        "onboard_time": 1773192621,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392727,
+        "num": 235559,
+        "word": "逐玉原著的女主",
+        "onboard_time": 1773193640,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283246,
+        "num": 234920,
+        "word": "苹果最便宜手机来了",
+        "onboard_time": 1773186199,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 231774,
+        "num": 231774,
+        "word": "豆包限制AI成毅",
+        "onboard_time": 1773175874,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227603,
+        "num": 227603,
+        "word": "美国要求以色列勿袭伊朗能源设施",
+        "onboard_time": 1773192682,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225237,
+        "num": 225237,
+        "word": "阿德巴约单节31分",
+        "onboard_time": 1773194120,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172611,
+        "num": 172611,
+        "word": "哈哈哈哈哈6铁三角回归",
+        "onboard_time": 1773189502,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165300,
+        "num": 165300,
+        "word": "日本是一个老龄化很严重的国家",
+        "onboard_time": 1773184218,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139442,
+        "num": 139442,
+        "word": "老夫妻双双129岁相恋100年引质疑",
+        "onboard_time": 1773185540,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130791,
+        "num": 130791,
+        "word": "王励勤称正在与樊振东沟通",
+        "onboard_time": 1773193281,
+        "rank": 18,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 103786,
+        "num": 103786,
+        "word": "王励勤希望樊振东能代表国家征战",
+        "onboard_time": 1773185780,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202706,
+        "num": 103423,
+        "word": "相差十岁的兄妹一天没见就紧紧相拥",
+        "onboard_time": 1773194303,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185350,
+        "num": 102135,
+        "word": "伊朗逮捕81名内鬼",
+        "onboard_time": 1773185180,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160337,
+        "num": 100951,
+        "word": "刘冲选的刘浩存李庚希封面图",
+        "onboard_time": 1773195140,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114082,
+        "num": 100280,
+        "word": "伊朗发起第37波打击",
+        "onboard_time": 1773191122,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99886,
+        "num": 99886,
+        "word": "敖瑞鹏不二之臣婚礼路透",
+        "onboard_time": 1773193700,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108768,
+        "num": 99470,
+        "word": "美国被曝考虑派兵夺取伊朗哈尔克岛",
+        "onboard_time": 1773187042,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97798,
+        "num": 97798,
+        "word": "姐姐是大将军姐夫是摄政王",
+        "onboard_time": 1773189443,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106266,
+        "num": 97490,
+        "word": "伊朗提出停火条件",
+        "onboard_time": 1773129145,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95292,
+        "num": 95292,
+        "word": "地球或将迎超级厄尔尼诺现象",
+        "onboard_time": 1773154944,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93457,
+        "num": 93457,
+        "word": "刘亦菲行走的玫瑰花",
+        "onboard_time": 1773189743,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105175,
+        "num": 92512,
+        "word": "伊朗逮捕10名伊斯兰革命卫队成员",
+        "onboard_time": 1773196339,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91528,
+        "num": 91528,
+        "word": "奇才vs热火",
+        "onboard_time": 1773195380,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89987,
+        "num": 89987,
+        "word": "对台绝不承诺放弃使用武力",
+        "onboard_time": 1773185660,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81670,
+        "num": 81670,
+        "word": "NBA",
+        "onboard_time": 1773195380,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80032,
+        "num": 80032,
+        "word": "周杰伦将举行发片记者会",
+        "onboard_time": 1773192021,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77672,
+        "num": 77672,
+        "word": "两会",
+        "onboard_time": 1773193401,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76676,
+        "num": 76676,
+        "word": "广西一山洞内景似世外桃源",
+        "onboard_time": 1773194600,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 71027,
+        "num": 71027,
+        "word": "孔雪儿俞浅浅含泪发脾气",
+        "onboard_time": 1773195859,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68827,
+        "num": 68827,
+        "word": "业内人士谈小米汽车被销售嘲讽",
+        "onboard_time": 1773185599,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 68474,
+        "num": 68474,
+        "word": "AI短剧侵权肖战最高可判10年",
+        "onboard_time": 1773181214,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65452,
+        "num": 65452,
+        "word": "成员回应李羲承退队",
+        "onboard_time": 1773196041,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65086,
+        "num": 65086,
+        "word": "车还能用电池先老了",
+        "onboard_time": 1773192080,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62931,
+        "num": 62931,
+        "word": "衣食住行就是人的气运",
+        "onboard_time": 1773188661,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62182,
+        "num": 62182,
+        "word": "逐玉原著vs剧版",
+        "onboard_time": 1773192381,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59497,
+        "num": 62176,
+        "word": "董明珠说年轻人有压力是好事",
+        "onboard_time": 1773192981,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57594,
+        "num": 62161,
+        "word": "原来甜茶也喜欢孙颖莎",
+        "onboard_time": 1773189684,
+        "rank": 45,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 56318,
+        "num": 62146,
+        "word": "22个月大宝宝在院子里慵懒躺倒晒太阳",
+        "onboard_time": 1773146425,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55297,
+        "num": 62137,
+        "word": "小猫捧着耶耶的脸亲了两下",
+        "onboard_time": 1773184759,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55286,
+        "num": 62129,
+        "word": "王励勤谈乒乓球",
+        "onboard_time": 1773193160,
+        "rank": 48,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 51004,
+        "num": 62108,
+        "word": "建议不允许青少年用AI做作业",
+        "onboard_time": 1773157342,
+        "rank": 49,
+        "category": "国内时政,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保一张蓝图绘到底#"
+    }
+  }
+}
