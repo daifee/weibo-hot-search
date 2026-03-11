@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773261741163,
+  "endTime": 1773262719699,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -499,6 +499,14 @@
       "category": "民生新闻,美妆"
     },
     {
+      "raw_hot": 19756,
+      "num": 19756,
+      "word": "云合",
+      "onboard_time": 1773261913,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18967,
       "num": 214988,
       "word": "小米车险上线",
@@ -539,16 +547,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 8229,
-      "num": 21214,
+      "raw_hot": 8604,
+      "num": 36030,
       "word": "建议增设重阳节为法定节假日",
       "onboard_time": 1773237263,
       "rank": 7,
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 7188,
-      "num": 21147,
+      "raw_hot": 7417,
+      "num": 35848,
       "word": "建议逐步推行现房销售",
       "onboard_time": 1773241223,
       "rank": 9,
