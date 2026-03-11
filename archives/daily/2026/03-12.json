@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773268521153,
+  "endTime": 1773269420874,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 447186,
-      "num": 243484,
+      "num": 344426,
       "word": "张凌赫95生唯一三平台破万男主",
       "onboard_time": 1773249496,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386611,
+      "num": 534486,
+      "word": "伊朗称毁灭性打击美军基地",
+      "onboard_time": 1773243261,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 305052,
@@ -65,14 +73,6 @@
       "onboard_time": 1773237624,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283835,
-      "num": 534486,
-      "word": "伊朗称毁灭性打击美军基地",
-      "onboard_time": 1773243261,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 274217,
@@ -107,20 +107,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227463,
+      "num": 227463,
+      "word": "分析称美国可能真的有点撑不住了",
+      "onboard_time": 1773245841,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 218939,
       "num": 539325,
       "word": "这才是普通身材的普通人穿搭",
       "onboard_time": 1773233962,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 199591,
-      "num": 223362,
-      "word": "分析称美国可能真的有点撑不住了",
-      "onboard_time": 1773245841,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 195437,
@@ -145,6 +145,14 @@
       "onboard_time": 1773234983,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159043,
+      "num": 528927,
+      "word": "日本大阪一地下管道冲出地面18米",
+      "onboard_time": 1773238826,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 155526,
@@ -195,16 +203,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 118203,
-      "num": 528927,
-      "word": "日本大阪一地下管道冲出地面18米",
-      "onboard_time": 1773238826,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 116037,
-      "num": 116037,
+      "raw_hot": 118349,
+      "num": 118349,
       "word": "邓凯孔雪儿第三个吻痕",
       "onboard_time": 1773250636,
       "rank": 11,
@@ -315,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61757,
+      "num": 526512,
+      "word": "炸伊朗小学导弹零件MadeinUSA",
+      "onboard_time": 1773233364,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60297,
       "num": 527549,
       "word": "宁德时代创始人曾毓群个人分红81亿",
@@ -329,14 +337,6 @@
       "onboard_time": 1773228681,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 56392,
-      "num": 526512,
-      "word": "炸伊朗小学导弹零件MadeinUSA",
-      "onboard_time": 1773233364,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55777,
@@ -395,20 +395,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44707,
+      "num": 99723,
+      "word": "杨紫青海生态文化传播大使",
+      "onboard_time": 1773250457,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42850,
+      "num": 214240,
+      "word": "入职大疆1个月被发了5次钱",
+      "onboard_time": 1773225740,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42461,
       "num": 522821,
       "word": "国防部回应日本部署远程导弹",
       "onboard_time": 1773218001,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38123,
-      "num": 99723,
-      "word": "杨紫青海生态文化传播大使",
-      "onboard_time": 1773250457,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 35971,
@@ -435,14 +443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32464,
-      "num": 214240,
-      "word": "入职大疆1个月被发了5次钱",
-      "onboard_time": 1773225740,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32044,
       "num": 521499,
       "word": "深圳男篮vs辽宁男篮",
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 31880,
-      "num": 35166,
+      "num": 43730,
       "word": "云合",
       "onboard_time": 1773261913,
       "rank": 18,
@@ -523,20 +523,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17943,
+      "num": 371811,
+      "word": "建议增设重阳节为法定节假日",
+      "onboard_time": 1773237263,
+      "rank": 7,
+      "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 17517,
+      "num": 43854,
+      "word": "薛之谦万兽之王巡回演唱会",
+      "onboard_time": 1773254174,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 17270,
       "num": 545449,
       "word": "她把无声者的声音带到人民大会堂",
       "onboard_time": 1773235762,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15768,
-      "num": 43854,
-      "word": "薛之谦万兽之王巡回演唱会",
-      "onboard_time": 1773254174,
-      "rank": 9,
-      "category": "演出"
     },
     {
       "raw_hot": 15290,
@@ -547,20 +555,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 12983,
-      "num": 273002,
-      "word": "建议增设重阳节为法定节假日",
-      "onboard_time": 1773237263,
-      "rank": 7,
-      "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 9573,
-      "num": 245237,
+      "raw_hot": 11676,
+      "num": 350706,
       "word": "建议逐步推行现房销售",
       "onboard_time": 1773241223,
       "rank": 9,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 573,
+      "num": 43672,
+      "word": "徐梦桃和她的冠军荣耀",
+      "onboard_time": 1773149783,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

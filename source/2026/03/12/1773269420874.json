@@ -1,0 +1,410 @@
+{
+  "runTime": 1773269420874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 73234,
+        "num": 507568,
+        "word": "委员回应年轻人天天熬夜行不行",
+        "onboard_time": 1773227662,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56322,
+        "num": 456840,
+        "word": "建议年假天数按工龄递增",
+        "onboard_time": 1773242422,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11002,
+        "num": 436617,
+        "word": "解读国家账本看数字背后",
+        "onboard_time": 1773236184,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 416823,
+        "num": 416823,
+        "word": "王濛拟被破格晋升",
+        "onboard_time": 1773242662,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64246,
+        "num": 394529,
+        "word": "公积金提取",
+        "onboard_time": 1773230182,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386611,
+        "num": 386611,
+        "word": "伊朗称毁灭性打击美军基地",
+        "onboard_time": 1773243261,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58071,
+        "num": 385425,
+        "word": "精灵黄lululemon发圈被炒到999元",
+        "onboard_time": 1773231202,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17943,
+        "num": 371811,
+        "word": "建议增设重阳节为法定节假日",
+        "onboard_time": 1773237263,
+        "rank": 7,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 13394,
+        "num": 356271,
+        "word": "她把无声者的声音带到人民大会堂",
+        "onboard_time": 1773235762,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11676,
+        "num": 350706,
+        "word": "建议逐步推行现房销售",
+        "onboard_time": 1773241223,
+        "rank": 9,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 344426,
+        "num": 344426,
+        "word": "张凌赫95生唯一三平台破万男主",
+        "onboard_time": 1773249496,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227463,
+        "num": 227463,
+        "word": "分析称美国可能真的有点撑不住了",
+        "onboard_time": 1773245841,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172715,
+        "num": 172715,
+        "word": "这才是普通身材的普通人穿搭",
+        "onboard_time": 1773233962,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159043,
+        "num": 159043,
+        "word": "日本大阪一地下管道冲出地面18米",
+        "onboard_time": 1773238826,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118349,
+        "num": 118349,
+        "word": "邓凯孔雪儿第三个吻痕",
+        "onboard_time": 1773250636,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106329,
+        "num": 106329,
+        "word": "张凌赫听到我结婚时的反应",
+        "onboard_time": 1773243981,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100952,
+        "num": 100952,
+        "word": "1斤赘肉换1斤牛肉已超千人报名",
+        "onboard_time": 1773237624,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62482,
+        "num": 62482,
+        "word": "西班牙降级与以色列外交关系",
+        "onboard_time": 1773234983,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50023,
+        "num": 50023,
+        "word": "为农民哽咽发声代表接到多部委电话",
+        "onboard_time": 1773230121,
+        "rank": 18,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 44707,
+        "num": 44707,
+        "word": "杨紫青海生态文化传播大使",
+        "onboard_time": 1773250457,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455759,
+        "num": 44677,
+        "word": "3名美国富豪强奸性侵60名女性",
+        "onboard_time": 1773236061,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106661,
+        "num": 44516,
+        "word": "特朗普说对伊行动即将结束",
+        "onboard_time": 1773240564,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103053,
+        "num": 44415,
+        "word": "公积金改革大潮真的来了",
+        "onboard_time": 1773222982,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100220,
+        "num": 44297,
+        "word": "刘晓艳想邀请肖战上旅行综艺",
+        "onboard_time": 1773239365,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77425,
+        "num": 44187,
+        "word": "逐玉双平台破万",
+        "onboard_time": 1773240685,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74657,
+        "num": 44164,
+        "word": "美官员称特朗普对伊朗反应有误判",
+        "onboard_time": 1773243620,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48644,
+        "num": 43994,
+        "word": "逐玉",
+        "onboard_time": 1773223101,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61757,
+        "num": 43916,
+        "word": "炸伊朗小学导弹零件MadeinUSA",
+        "onboard_time": 1773233364,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42850,
+        "num": 43825,
+        "word": "入职大疆1个月被发了5次钱",
+        "onboard_time": 1773225740,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43752,
+        "num": 43752,
+        "word": "伊朗多弹头导弹袭击美军基地",
+        "onboard_time": 1773236543,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39023,
+        "num": 43749,
+        "word": "小水在看逐玉",
+        "onboard_time": 1773240263,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35572,
+        "num": 43745,
+        "word": "建议允许60岁以上农民工继续务工",
+        "onboard_time": 1773221183,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33541,
+        "num": 43742,
+        "word": "每天花费近9亿美元美国要打不起了",
+        "onboard_time": 1773240024,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29370,
+        "num": 43737,
+        "word": "孙颖莎王楚钦到底激励了多少人",
+        "onboard_time": 1773246499,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28870,
+        "num": 43732,
+        "word": "你更愿意喝9.9元还是30元的咖啡",
+        "onboard_time": 1773228681,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28552,
+        "num": 43730,
+        "word": "云合",
+        "onboard_time": 1773261913,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27425,
+        "num": 43725,
+        "word": "孙千认认真真地追了29集",
+        "onboard_time": 1773245961,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26866,
+        "num": 43721,
+        "word": "逐玉 头纱",
+        "onboard_time": 1773226220,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26214,
+        "num": 43715,
+        "word": "MiuMiu",
+        "onboard_time": 1773221782,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 23928,
+        "num": 43710,
+        "word": "我的山与海",
+        "onboard_time": 1773248897,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22064,
+        "num": 43708,
+        "word": "乘风2026将全程直播",
+        "onboard_time": 1773234683,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21599,
+        "num": 43703,
+        "word": "不二之臣",
+        "onboard_time": 1773217462,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21192,
+        "num": 43697,
+        "word": "伊朗对美以发动38波攻击",
+        "onboard_time": 1773228862,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20534,
+        "num": 43697,
+        "word": "周深挑战夜市游戏",
+        "onboard_time": 1773251175,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18150,
+        "num": 43690,
+        "word": "虞书欣国王开播一周年晒照",
+        "onboard_time": 1773239425,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17737,
+        "num": 43686,
+        "word": "田曦薇逐玉破万贺图",
+        "onboard_time": 1773238524,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17517,
+        "num": 43683,
+        "word": "薛之谦万兽之王巡回演唱会",
+        "onboard_time": 1773254174,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15178,
+        "num": 43680,
+        "word": "小米车险上线",
+        "onboard_time": 1773238164,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10442,
+        "num": 43674,
+        "word": "剑来",
+        "onboard_time": 1773228142,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 573,
+        "num": 43672,
+        "word": "徐梦桃和她的冠军荣耀",
+        "onboard_time": 1773149783,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的两会关切#"
+    }
+  }
+}
