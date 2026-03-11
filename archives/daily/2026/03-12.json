@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773262719699,
+  "endTime": 1773265314426,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -459,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 27046,
+      "num": 27046,
+      "word": "云合",
+      "onboard_time": 1773261913,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26194,
       "num": 187309,
       "word": "曝AL签下Bigwei",
@@ -497,14 +505,6 @@
       "onboard_time": 1773248357,
       "rank": 48,
       "category": "民生新闻,美妆"
-    },
-    {
-      "raw_hot": 19756,
-      "num": 19756,
-      "word": "云合",
-      "onboard_time": 1773261913,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 18967,
@@ -547,16 +547,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 8604,
-      "num": 36030,
+      "raw_hot": 8666,
+      "num": 92100,
       "word": "建议增设重阳节为法定节假日",
       "onboard_time": 1773237263,
       "rank": 7,
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 7417,
-      "num": 35848,
+      "raw_hot": 7749,
+      "num": 87954,
       "word": "建议逐步推行现房销售",
       "onboard_time": 1773241223,
       "rank": 9,
