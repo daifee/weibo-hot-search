@@ -1,6 +1,6 @@
 {
   "startTime": 1773158847894,
-  "endTime": 1773196455124,
+  "endTime": 1773198706163,
   "band_list": [
     {
       "raw_hot": 5914442,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 944093,
-      "num": 305101,
+      "num": 501524,
       "word": "伊朗下起毒雨",
       "onboard_time": 1773185599,
       "rank": 29,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 639839,
-      "num": 272789,
+      "num": 335747,
       "word": "阿德巴约现役得分王",
       "onboard_time": 1773194961,
       "rank": 7,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 392727,
-      "num": 235559,
+      "num": 299883,
       "word": "逐玉原著的女主",
       "onboard_time": 1773193640,
       "rank": 10,
@@ -123,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348915,
+      "num": 134601,
+      "word": "刘冲选的刘浩存李庚希封面图",
+      "onboard_time": 1773195140,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329515,
-      "num": 329515,
+      "num": 503020,
       "word": "等我小了我也要这么晒太阳",
       "onboard_time": 1773191181,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326820,
+      "num": 326820,
+      "word": "美国要求以色列勿袭伊朗能源设施",
+      "onboard_time": 1773192682,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 319201,
@@ -155,8 +171,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286044,
+      "num": 286044,
+      "word": "王励勤称正在与樊振东沟通",
+      "onboard_time": 1773193281,
+      "rank": 18,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 283246,
-      "num": 234920,
+      "num": 248197,
       "word": "苹果最便宜手机来了",
       "onboard_time": 1773186199,
       "rank": 18,
@@ -187,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227603,
-      "num": 227603,
-      "word": "美国要求以色列勿袭伊朗能源设施",
-      "onboard_time": 1773192682,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 225237,
       "num": 225237,
       "word": "阿德巴约单节31分",
@@ -203,8 +219,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202706,
-      "num": 103423,
+      "raw_hot": 202934,
+      "num": 134592,
       "word": "相差十岁的兄妹一天没见就紧紧相拥",
       "onboard_time": 1773194303,
       "rank": 20,
@@ -267,12 +283,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 160337,
-      "num": 100951,
-      "word": "刘冲选的刘浩存李庚希封面图",
-      "onboard_time": 1773195140,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 159858,
+      "num": 83025,
+      "word": "伊朗称正在霍尔木兹海峡等待美海军",
+      "onboard_time": 1773197423,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150885,
@@ -315,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139603,
+      "num": 139603,
+      "word": "电脑售价或上涨40%",
+      "onboard_time": 1773197301,
+      "rank": 16,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 136185,
       "num": 532406,
       "word": "肖战白敬亭没使劲 陈伟霆是真犟",
@@ -329,14 +353,6 @@
       "onboard_time": 1773152364,
       "rank": 30,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 130791,
-      "num": 130791,
-      "word": "王励勤称正在与樊振东沟通",
-      "onboard_time": 1773193281,
-      "rank": 18,
-      "category": "体育,国内时政"
     },
     {
       "raw_hot": 127403,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 114082,
-      "num": 100280,
+      "num": 101477,
       "word": "伊朗发起第37波打击",
       "onboard_time": 1773191122,
       "rank": 23,
@@ -467,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91511,
+      "num": 91511,
+      "word": "成员回应李羲承退队",
+      "onboard_time": 1773196041,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91394,
       "num": 546792,
       "word": "杨舒予担任中国女篮队长",
@@ -481,6 +505,30 @@
       "onboard_time": 1773145342,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87320,
+      "num": 87320,
+      "word": "广西一山洞内景似世外桃源",
+      "onboard_time": 1773194600,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 86743,
+      "num": 86743,
+      "word": "魏晨一句话陈哲远天塌了",
+      "onboard_time": 1773196881,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 82266,
+      "num": 82266,
+      "word": "杨紫罗马时装周出发图",
+      "onboard_time": 1773198200,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 81670,
@@ -505,6 +553,14 @@
       "onboard_time": 1773192021,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 79846,
+      "num": 79846,
+      "word": "世界最强超高强度碳纤维来了",
+      "onboard_time": 1773198262,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 79648,
@@ -532,19 +588,11 @@
     },
     {
       "raw_hot": 77672,
-      "num": 77672,
+      "num": 77955,
       "word": "两会",
       "onboard_time": 1773193401,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 76676,
-      "num": 76676,
-      "word": "广西一山洞内景似世外桃源",
-      "onboard_time": 1773194600,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 75725,
@@ -571,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71731,
+      "num": 1011476,
+      "word": "政协会议闭幕",
+      "onboard_time": 1773194181,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71284,
       "num": 529312,
       "word": "院士说文科生绝不会被AI替代",
@@ -580,7 +636,7 @@
     },
     {
       "raw_hot": 71027,
-      "num": 71027,
+      "num": 77901,
       "word": "孔雪儿俞浅浅含泪发脾气",
       "onboard_time": 1773195859,
       "rank": 37,
@@ -593,6 +649,22 @@
       "onboard_time": 1773147801,
       "rank": 36,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 68859,
+      "num": 77941,
+      "word": "猫 她用的都是我的动作啊",
+      "onboard_time": 1773198500,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67281,
+      "num": 77924,
+      "word": "衣食住行就是人的气运",
+      "onboard_time": 1773188661,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 67101,
@@ -611,14 +683,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 66450,
-      "num": 1010632,
-      "word": "政协会议闭幕",
-      "onboard_time": 1773194181,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 65663,
       "num": 65663,
       "word": "亲爱的客栈第二期热度",
@@ -627,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65452,
-      "num": 65452,
-      "word": "成员回应李羲承退队",
-      "onboard_time": 1773196041,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 65487,
+      "num": 77904,
+      "word": "这才是小说妹想看的改编",
+      "onboard_time": 1773198082,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 65086,
@@ -665,14 +729,6 @@
       "onboard_time": 1773182897,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 62931,
-      "num": 62931,
-      "word": "衣食住行就是人的气运",
-      "onboard_time": 1773188661,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 62271,
@@ -715,6 +771,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 60540,
+      "num": 77867,
+      "word": "曝苹果放弃小折叠iPhone",
+      "onboard_time": 1773191242,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 59497,
       "num": 62176,
       "word": "董明珠说年轻人有压力是好事",
@@ -729,6 +793,14 @@
       "onboard_time": 1773189684,
       "rank": 45,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 57372,
+      "num": 77852,
+      "word": "希望樊振东代表国家征战是共同心愿",
+      "onboard_time": 1773198321,
+      "rank": 46,
+      "category": "体育,国内时政"
     },
     {
       "raw_hot": 55286,
@@ -777,6 +849,14 @@
       "onboard_time": 1773149064,
       "rank": 46,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 49312,
+      "num": 328228,
+      "word": "一杯奶茶融合两岸口味",
+      "onboard_time": 1773197781,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46970,
@@ -868,7 +948,7 @@
     },
     {
       "raw_hot": 23674,
-      "num": 237014,
+      "num": 327237,
       "word": "政协会议圆满完成各项议程",
       "onboard_time": 1773192621,
       "rank": 9,
@@ -899,6 +979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 16683,
+      "num": 134738,
+      "word": "建议AI应用设计多考虑残疾人",
+      "onboard_time": 1773198141,
+      "rank": 19,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 16510,
       "num": 273371,
       "word": "荣耀Magic V6",
@@ -921,6 +1009,14 @@
       "onboard_time": 1773160100,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13616,
+      "num": 77936,
+      "word": "产检算劳动时间正常付工资",
+      "onboard_time": 1773198500,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7595,
