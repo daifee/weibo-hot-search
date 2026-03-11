@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773266165249,
+  "endTime": 1773268521153,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 447186,
-      "num": 116983,
+      "num": 243484,
       "word": "张凌赫95生唯一三平台破万男主",
       "onboard_time": 1773249496,
       "rank": 10,
@@ -67,20 +67,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283835,
+      "num": 534486,
+      "word": "伊朗称毁灭性打击美军基地",
+      "onboard_time": 1773243261,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 274217,
       "num": 538836,
       "word": "逐玉",
       "onboard_time": 1773223101,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269456,
-      "num": 534486,
-      "word": "伊朗称毁灭性打击美军基地",
-      "onboard_time": 1773243261,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 268957,
@@ -195,7 +195,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 117193,
+      "raw_hot": 118203,
       "num": 528927,
       "word": "日本大阪一地下管道冲出地面18米",
       "onboard_time": 1773238826,
@@ -451,20 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31880,
+      "num": 35166,
+      "word": "云合",
+      "onboard_time": 1773261913,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31839,
       "num": 213957,
       "word": "JDG战胜KSG",
       "onboard_time": 1773230121,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 29318,
-      "num": 29318,
-      "word": "云合",
-      "onboard_time": 1773261913,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 26194,
@@ -547,16 +547,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 8968,
-      "num": 117219,
+      "raw_hot": 12983,
+      "num": 273002,
       "word": "建议增设重阳节为法定节假日",
       "onboard_time": 1773237263,
       "rank": 7,
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 8029,
-      "num": 115128,
+      "raw_hot": 9573,
+      "num": 245237,
       "word": "建议逐步推行现房销售",
       "onboard_time": 1773241223,
       "rank": 9,
