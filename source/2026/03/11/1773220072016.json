@@ -1,0 +1,410 @@
+{
+  "runTime": 1773220072016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 259889,
+        "num": 1041582,
+        "word": "国防部回应日本部署远程导弹",
+        "onboard_time": 1773218001,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247074,
+        "num": 742856,
+        "word": "建议整治同一航班同一张票两个价",
+        "onboard_time": 1773212960,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9746,
+        "num": 583169,
+        "word": "政协会议圆满完成各项议程",
+        "onboard_time": 1773192621,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 431595,
+        "num": 431595,
+        "word": "80元Lululemon发圈卖断货",
+        "onboard_time": 1773215303,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234350,
+        "num": 398999,
+        "word": "华师大回应师范本科不再输出教师",
+        "onboard_time": 1773215361,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 587977,
+        "num": 398744,
+        "word": "华莱士正式宣布退市",
+        "onboard_time": 1773199525,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 398413,
+        "num": 398413,
+        "word": "伊朗总统之子称最高领袖平安",
+        "onboard_time": 1773213980,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47814,
+        "num": 391078,
+        "word": "建议允许未休年假两年内结转使用",
+        "onboard_time": 1773210321,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30050,
+        "num": 385596,
+        "word": "十五五蓝图中的职业新图景",
+        "onboard_time": 1773204382,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43599,
+        "num": 372234,
+        "word": "人大代表随身带针走到哪扎到哪",
+        "onboard_time": 1773219621,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 430591,
+        "num": 369799,
+        "word": "甜茶关晓彤合照",
+        "onboard_time": 1773215421,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363211,
+        "num": 363211,
+        "word": "双人餐是需要两份主食饮料的",
+        "onboard_time": 1773217881,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237608,
+        "num": 237608,
+        "word": "伊朗下起毒雨",
+        "onboard_time": 1773185599,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210045,
+        "num": 210045,
+        "word": "逐玉 赋魅",
+        "onboard_time": 1773202943,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204418,
+        "num": 204418,
+        "word": "中餐厅10网传阵容",
+        "onboard_time": 1773219502,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204323,
+        "num": 204323,
+        "word": "豆包万能P图口令",
+        "onboard_time": 1773212840,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192676,
+        "num": 192676,
+        "word": "外甥正月偷偷剪发舅舅气到血压飙升",
+        "onboard_time": 1773212900,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187635,
+        "num": 187635,
+        "word": "iPhone18Pro外观上惊喜感或有限",
+        "onboard_time": 1773217222,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162833,
+        "num": 162833,
+        "word": "AG 首发",
+        "onboard_time": 1773210321,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27733,
+        "num": 162739,
+        "word": "奥迪宋斐明和微博王巍谈双料冠军",
+        "onboard_time": 1773217342,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 440291,
+        "num": 162563,
+        "word": "取微信名要慎重",
+        "onboard_time": 1773215180,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 389913,
+        "num": 162452,
+        "word": "白玉兰预测",
+        "onboard_time": 1773213320,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48557,
+        "num": 162363,
+        "word": "MiuMiu大秀刘浩存李庚希",
+        "onboard_time": 1773216382,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162272,
+        "num": 162272,
+        "word": "联合国16位专家呼吁日本道歉",
+        "onboard_time": 1773218603,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154820,
+        "num": 154820,
+        "word": "我们的少年时代2开通官微",
+        "onboard_time": 1773219141,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149504,
+        "num": 149504,
+        "word": "梁朝伟走势",
+        "onboard_time": 1773218541,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121920,
+        "num": 121920,
+        "word": "Rookie开箱vlog",
+        "onboard_time": 1773216860,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129567,
+        "num": 119070,
+        "word": "不二之臣",
+        "onboard_time": 1773217462,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105112,
+        "num": 105112,
+        "word": "刘亦菲冷到攥拳头仍大方营业",
+        "onboard_time": 1773217702,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97848,
+        "num": 97848,
+        "word": "男子回应开电车5年跑100万公里",
+        "onboard_time": 1773219022,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352048,
+        "num": 97847,
+        "word": "原来何老师从小就是何老师了",
+        "onboard_time": 1773215782,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43531,
+        "num": 97536,
+        "word": "建议对年假使用率低的单位加强监管",
+        "onboard_time": 1773219980,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102801,
+        "num": 97535,
+        "word": "孙颖莎练到双手撑桌休息",
+        "onboard_time": 1773219261,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97524,
+        "num": 97524,
+        "word": "BBA车价大降销量回温难",
+        "onboard_time": 1773216082,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100512,
+        "num": 97319,
+        "word": "张凌赫回应颜值出圈",
+        "onboard_time": 1773212181,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96049,
+        "num": 96049,
+        "word": "金店集体涨价",
+        "onboard_time": 1773213800,
+        "rank": 35,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 88474,
+        "num": 88474,
+        "word": "女子将老公送金镯扔地上又响又跳",
+        "onboard_time": 1773200302,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83471,
+        "num": 83471,
+        "word": "要对钱有概念",
+        "onboard_time": 1773204083,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80699,
+        "num": 80699,
+        "word": "蔡猛分析王曼昱爆冷输球原因",
+        "onboard_time": 1773219322,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46905,
+        "num": 80686,
+        "word": "TF后代大战EXO老祖",
+        "onboard_time": 1773211100,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80686,
+        "num": 80685,
+        "word": "恋与深空委托 1300一小时",
+        "onboard_time": 1773213261,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79919,
+        "num": 79919,
+        "word": "逐玉 三对CP",
+        "onboard_time": 1773210979,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78731,
+        "num": 78731,
+        "word": "薛之谦广州场二开",
+        "onboard_time": 1773212541,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75021,
+        "num": 78679,
+        "word": "2月小米YU7销量全国前三",
+        "onboard_time": 1773218361,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 78649,
+        "num": 78649,
+        "word": "刘浩存 还有我的老鼠干",
+        "onboard_time": 1773211760,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18404,
+        "num": 76475,
+        "word": "委员给反内卷支招",
+        "onboard_time": 1773218603,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76302,
+        "num": 76302,
+        "word": "张凌赫伴手礼",
+        "onboard_time": 1773216022,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73310,
+        "num": 73310,
+        "word": "金店店员谈金不响银不跳",
+        "onboard_time": 1773218901,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72844,
+        "num": 72844,
+        "word": "哄自己上班的理由又多了",
+        "onboard_time": 1773216860,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68839,
+        "num": 68839,
+        "word": "盈科律所高层回应创始人被传暴雷",
+        "onboard_time": 1773217642,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强国是现代化强国的一个重要标志#"
+    }
+  }
+}
