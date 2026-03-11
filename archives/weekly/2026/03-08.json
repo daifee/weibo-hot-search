@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773229242488,
+  "endTime": 1773230139852,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -115,20 +115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1354098,
+      "num": 955809,
+      "word": "逐玉追剧团",
+      "onboard_time": 1773226942,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1343198,
       "num": 518067,
       "word": "伊朗亮底线",
       "onboard_time": 1772951001,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1331339,
-      "num": 955809,
-      "word": "逐玉追剧团",
-      "onboard_time": 1773226942,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 1289079,
@@ -1155,6 +1155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 385124,
+      "num": 385124,
+      "word": "慕慕昭昭大婚",
+      "onboard_time": 1773226761,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382707,
       "num": 655903,
       "word": "TVB女主播靠指纹破37年杀人悬案",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1772946381,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363431,
+      "num": 363431,
+      "word": "JDG对战KSG",
+      "onboard_time": 1773221841,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 363360,
@@ -1803,14 +1819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 290175,
-      "num": 290175,
-      "word": "慕慕昭昭大婚",
-      "onboard_time": 1773226761,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 288496,
       "num": 751404,
       "word": "中国队金牌榜奖牌榜都是第一",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1772973440,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 238513,
+      "num": 563318,
+      "word": "伊朗对美以发动38波攻击",
+      "onboard_time": 1773228862,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 238467,
@@ -2739,6 +2755,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 197128,
+      "num": 967415,
+      "word": "银行员工抢救23万元火烧币",
+      "onboard_time": 1773225561,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196777,
       "num": 187598,
       "word": "伊朗发起第28波攻势",
@@ -3107,6 +3131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170206,
+      "num": 170206,
+      "word": "吴昕在大侦探爆哭",
+      "onboard_time": 1773228862,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168757,
       "num": 297192,
       "word": "王楚然仿妆还以为本尊来了",
@@ -3259,14 +3291,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 161714,
-      "num": 145211,
-      "word": "JDG对战KSG",
-      "onboard_time": 1773221841,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 160175,
       "num": 124770,
       "word": "美军战斗力成谜",
@@ -3313,6 +3337,14 @@
       "onboard_time": 1772983281,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157088,
+      "num": 157088,
+      "word": "剑来",
+      "onboard_time": 1773228142,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 156752,
@@ -3675,6 +3707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141553,
+      "num": 141553,
+      "word": "日本大阪一马路长出15米高巨型水管",
+      "onboard_time": 1773229521,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141472,
       "num": 589723,
       "word": "历届SMG视后",
@@ -3971,6 +4011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128796,
+      "num": 128796,
+      "word": "黄金涨价劝退不了消费者",
+      "onboard_time": 1773226882,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128410,
       "num": 131041,
       "word": "金价杀疯了山东直接去地下2700米挖",
@@ -3985,6 +4033,14 @@
       "onboard_time": 1772965521,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128294,
+      "num": 403128,
+      "word": "逐玉 三对CP",
+      "onboard_time": 1773210979,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 128225,
@@ -4041,14 +4097,6 @@
       "onboard_time": 1773100761,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126993,
-      "num": 126993,
-      "word": "伊朗对美以发动38波攻击",
-      "onboard_time": 1773228862,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126991,
@@ -4235,14 +4283,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121913,
-      "num": 121913,
-      "word": "剑来",
-      "onboard_time": 1773228142,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 121905,
       "num": 121905,
       "word": "TF后代大战EXO老祖",
@@ -4297,6 +4337,14 @@
       "onboard_time": 1772948901,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 120577,
+      "num": 969504,
+      "word": "委员回应年轻人天天熬夜行不行",
+      "onboard_time": 1773227662,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120309,
@@ -4435,14 +4483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114191,
-      "num": 403128,
-      "word": "逐玉 三对CP",
-      "onboard_time": 1773210979,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114082,
       "num": 573347,
       "word": "伊朗发起第37波打击",
@@ -4507,6 +4547,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 112872,
+      "num": 118283,
+      "word": "无畏张良MVP",
+      "onboard_time": 1773229641,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112678,
       "num": 479052,
       "word": "blackpink的周冠宇",
@@ -4545,14 +4593,6 @@
       "onboard_time": 1773142402,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 111560,
-      "num": 969504,
-      "word": "委员回应年轻人天天熬夜行不行",
-      "onboard_time": 1773227662,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111003,
@@ -4601,14 +4641,6 @@
       "onboard_time": 1773041721,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109431,
-      "num": 109431,
-      "word": "黄金涨价劝退不了消费者",
-      "onboard_time": 1773226882,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 109418,
@@ -4809,14 +4841,6 @@
       "onboard_time": 1772897304,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 104643,
-      "num": 967415,
-      "word": "银行员工抢救23万元火烧币",
-      "onboard_time": 1773225561,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104505,
@@ -5227,14 +5251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97347,
-      "num": 97347,
-      "word": "吴昕在大侦探爆哭",
-      "onboard_time": 1773228862,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97295,
       "num": 377909,
       "word": "周雨说王曼昱今天状态不佳",
@@ -5433,6 +5449,14 @@
       "onboard_time": 1773031043,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93970,
+      "num": 93970,
+      "word": "你更愿意喝9.9元还是30元的咖啡",
+      "onboard_time": 1773228681,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 93960,
@@ -5859,6 +5883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87525,
+      "num": 801540,
+      "word": "种地吧4种地日记",
+      "onboard_time": 1773228982,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87320,
       "num": 87320,
       "word": "广西一山洞内景似世外桃源",
@@ -5876,7 +5908,7 @@
     },
     {
       "raw_hot": 87284,
-      "num": 88919,
+      "num": 91188,
       "word": "杜兰特回应阿德巴约83分",
       "onboard_time": 1773224180,
       "rank": 36,
@@ -6020,7 +6052,7 @@
     },
     {
       "raw_hot": 85651,
-      "num": 88933,
+      "num": 91876,
       "word": "公谨爆蛋",
       "onboard_time": 1773226341,
       "rank": 34,
@@ -6060,7 +6092,7 @@
     },
     {
       "raw_hot": 84878,
-      "num": 84878,
+      "num": 92964,
       "word": "逐玉 说闲话",
       "onboard_time": 1773228260,
       "rank": 41,
@@ -6153,14 +6185,6 @@
       "onboard_time": 1773134903,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 83352,
-      "num": 801540,
-      "word": "种地吧4种地日记",
-      "onboard_time": 1773228982,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 83224,
@@ -6979,14 +7003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 71896,
-      "num": 71896,
-      "word": "你更愿意喝9.9元还是30元的咖啡",
-      "onboard_time": 1773228681,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 71731,
       "num": 1011476,
       "word": "政协会议闭幕",
@@ -7395,6 +7411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67155,
+      "num": 506710,
+      "word": "追觅拟发射200万颗算力卫星",
+      "onboard_time": 1773229941,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67101,
       "num": 518321,
       "word": "好好的时光",
@@ -7433,6 +7457,14 @@
       "onboard_time": 1772940381,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 66795,
+      "num": 91677,
+      "word": "长大了还是喜欢买文具",
+      "onboard_time": 1773229582,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 66770,
@@ -8371,6 +8403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53641,
+      "num": 90868,
+      "word": "追觅连发三款芯片",
+      "onboard_time": 1773228142,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 53583,
       "num": 260179,
       "word": "林高远网球王子",
@@ -8785,6 +8825,14 @@
       "onboard_time": 1772890943,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45609,
+      "num": 90732,
+      "word": "建议提高35岁以下群体个税起征点",
+      "onboard_time": 1773230001,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45474,
@@ -9859,6 +9907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18065,
+      "num": 961274,
+      "word": "要尽快建立AI的准则和伦理道德",
+      "onboard_time": 1773228741,
+      "rank": 9,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 17629,
       "num": 215424,
       "word": "用智搜读懂女性的每一种精彩",
@@ -10097,14 +10153,6 @@
       "onboard_time": 1773150025,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10787,
-      "num": 961274,
-      "word": "要尽快建立AI的准则和伦理道德",
-      "onboard_time": 1773228741,
-      "rank": 9,
-      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 7595,
