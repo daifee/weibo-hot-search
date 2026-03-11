@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773259058687,
+  "endTime": 1773261741163,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -537,6 +537,22 @@
       "onboard_time": 1773255555,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 8229,
+      "num": 21214,
+      "word": "建议增设重阳节为法定节假日",
+      "onboard_time": 1773237263,
+      "rank": 7,
+      "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 7188,
+      "num": 21147,
+      "word": "建议逐步推行现房销售",
+      "onboard_time": 1773241223,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
     }
   ],
   "hotgov_list": [
