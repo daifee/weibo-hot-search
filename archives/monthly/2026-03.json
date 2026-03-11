@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773222835592,
+  "endTime": 1773223660301,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -1571,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 751728,
+      "num": 577522,
+      "word": "建议允许60岁以上农民工继续务工",
+      "onboard_time": 1773221183,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 750125,
       "num": 590930,
       "word": "伊朗最高领袖选举机构办公楼遭袭",
@@ -2489,6 +2497,14 @@
       "onboard_time": 1772293943,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 578546,
+      "num": 180288,
+      "word": "MiuMiu",
+      "onboard_time": 1773221782,
+      "rank": 18,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 577572,
@@ -3755,6 +3771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 434955,
+      "num": 179334,
+      "word": "七部云合破40%的剧",
+      "onboard_time": 1773220162,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434299,
       "num": 187229,
       "word": "老夫妻双双129岁相恋100年引质疑",
@@ -3905,14 +3929,6 @@
       "onboard_time": 1772511928,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 427099,
-      "num": 427099,
-      "word": "建议允许60岁以上农民工继续务工",
-      "onboard_time": 1773221183,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 427039,
@@ -4155,6 +4171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 406323,
+      "num": 204418,
+      "word": "中餐厅10网传阵容",
+      "onboard_time": 1773219502,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406218,
       "num": 302723,
       "word": "赵樱子直播关掉美颜",
@@ -4241,14 +4265,6 @@
       "onboard_time": 1772636544,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 400864,
-      "num": 204418,
-      "word": "中餐厅10网传阵容",
-      "onboard_time": 1773219502,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 400738,
@@ -4881,14 +4897,6 @@
       "onboard_time": 1773144503,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 362800,
-      "num": 178914,
-      "word": "七部云合破40%的剧",
-      "onboard_time": 1773220162,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 361399,
@@ -8427,6 +8435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218161,
+      "num": 178052,
+      "word": "逐玉云合破40了",
+      "onboard_time": 1773220402,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217911,
       "num": 217911,
       "word": "易烊千玺网站续费到2035年",
@@ -8473,14 +8489,6 @@
       "onboard_time": 1772584886,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217030,
-      "num": 172476,
-      "word": "逐玉云合破40了",
-      "onboard_time": 1773220402,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 216704,
@@ -9915,6 +9923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177590,
+      "num": 177590,
+      "word": "公积金改革大潮真的来了",
+      "onboard_time": 1773222982,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177453,
       "num": 654311,
       "word": "刘晓艳说肖战撒贝宁并列第一",
@@ -10857,14 +10873,6 @@
       "onboard_time": 1772770521,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 159918,
-      "num": 159918,
-      "word": "MiuMiu",
-      "onboard_time": 1773221782,
-      "rank": 18,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 159698,
@@ -12593,6 +12601,14 @@
       "onboard_time": 1773147683,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135791,
+      "num": 135791,
+      "word": "5岁男童总腿疼以为长个子确诊白血病",
+      "onboard_time": 1773221541,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135739,
@@ -15035,6 +15051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111197,
+      "num": 111197,
+      "word": "天选喝奶茶体质",
+      "onboard_time": 1773220281,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111118,
       "num": 342338,
       "word": "张凌赫田曦薇回应合作逐玉",
@@ -15683,14 +15707,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 105510,
-      "num": 105510,
-      "word": "天选喝奶茶体质",
-      "onboard_time": 1773220281,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105403,
       "num": 293523,
       "word": "AG荣都吃鸡",
@@ -15971,6 +15987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103569,
+      "num": 398764,
+      "word": "金店店员谈金不响银不跳",
+      "onboard_time": 1773218901,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103499,
       "num": 103499,
       "word": "春天是精神病的高发时期",
@@ -16043,14 +16067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 103084,
-      "num": 103084,
-      "word": "5岁男童总腿疼以为长个子确诊白血病",
-      "onboard_time": 1773221541,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103017,
       "num": 158111,
       "word": "医院回应63岁高龄孕妇产女",
@@ -16076,7 +16092,7 @@
     },
     {
       "raw_hot": 102801,
-      "num": 97535,
+      "num": 97938,
       "word": "孙颖莎练到双手撑桌休息",
       "onboard_time": 1773219261,
       "rank": 32,
@@ -16129,14 +16145,6 @@
       "onboard_time": 1772726720,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102409,
-      "num": 398764,
-      "word": "金店店员谈金不响银不跳",
-      "onboard_time": 1773218901,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 102274,
@@ -16571,6 +16579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99742,
+      "num": 99742,
+      "word": "妈妈听儿子话囤黄金3年赚40万",
+      "onboard_time": 1773221600,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99709,
       "num": 119828,
       "word": "胖东来1月为2员工发放1.5万委屈奖",
@@ -16593,6 +16609,14 @@
       "onboard_time": 1772852240,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99601,
+      "num": 99601,
+      "word": "周也张婧仪宋威龙张凌赫 全员修罗场",
+      "onboard_time": 1773221002,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 99592,
@@ -16787,14 +16811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98775,
-      "num": 98775,
-      "word": "周也张婧仪宋威龙张凌赫 全员修罗场",
-      "onboard_time": 1773221002,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 98774,
       "num": 98774,
       "word": "LGDNBW为九尾发律师函",
@@ -16857,6 +16873,22 @@
       "onboard_time": 1772434342,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98326,
+      "num": 98326,
+      "word": "JDG对战KSG",
+      "onboard_time": 1773221841,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 98312,
+      "num": 98312,
+      "word": "6部萨德发射车运出监控画面曝光",
+      "onboard_time": 1773221482,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98259,
@@ -17241,14 +17273,6 @@
       "onboard_time": 1772861241,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95052,
-      "num": 95052,
-      "word": "妈妈听儿子话囤黄金3年赚40万",
-      "onboard_time": 1773221600,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95044,
@@ -18971,14 +18995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85082,
-      "num": 85082,
-      "word": "JDG对战KSG",
-      "onboard_time": 1773221841,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 85018,
       "num": 326557,
       "word": "宁德时代2025年净利润722亿元",
@@ -19436,7 +19452,7 @@
     },
     {
       "raw_hot": 82040,
-      "num": 82040,
+      "num": 98275,
       "word": "薛之谦广州场二开",
       "onboard_time": 1773212541,
       "rank": 41,
@@ -19859,14 +19875,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 79635,
-      "num": 79635,
-      "word": "6部萨德发射车运出监控画面曝光",
-      "onboard_time": 1773221482,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 79566,
       "num": 87392,
       "word": "伊朗称打击超200处美以目标",
@@ -20017,6 +20025,14 @@
       "onboard_time": 1773056962,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78523,
+      "num": 98187,
+      "word": "汉密尔顿九寨沟骑马",
+      "onboard_time": 1773222499,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 78467,
@@ -20476,7 +20492,7 @@
     },
     {
       "raw_hot": 76247,
-      "num": 79582,
+      "num": 98135,
       "word": "肖战漂亮又无奈的笑",
       "onboard_time": 1773221900,
       "rank": 40,
@@ -20929,14 +20945,6 @@
       "onboard_time": 1772618725,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 73775,
-      "num": 79492,
-      "word": "汉密尔顿九寨沟骑马",
-      "onboard_time": 1773222499,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 73587,
@@ -21515,6 +21523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70196,
+      "num": 98079,
+      "word": "伊朗总统之子说穆杰塔巴受伤",
+      "onboard_time": 1773223280,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70161,
       "num": 373352,
       "word": "仁科 国足拿世界杯五条人就解散",
@@ -21708,7 +21724,7 @@
     },
     {
       "raw_hot": 68961,
-      "num": 79019,
+      "num": 97830,
       "word": "这才是我上大学想学到的东西",
       "onboard_time": 1773222203,
       "rank": 44,
@@ -21745,6 +21761,14 @@
       "onboard_time": 1772946982,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68875,
+      "num": 97995,
+      "word": "马化腾官宣全系龙虾矩阵",
+      "onboard_time": 1773222861,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 68865,
@@ -21825,6 +21849,14 @@
       "onboard_time": 1772738294,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68374,
+      "num": 97953,
+      "word": "张凌赫逐玉追剧团逆应援",
+      "onboard_time": 1773223462,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 68340,
@@ -23057,6 +23089,14 @@
       "onboard_time": 1772974281,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60813,
+      "num": 97813,
+      "word": "长辈做饭有多惊人",
+      "onboard_time": 1773223401,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 60807,
@@ -24499,6 +24539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47488,
+      "num": 196855,
+      "word": "建议对年假使用率低的单位加强监管",
+      "onboard_time": 1773219980,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47474,
       "num": 118421,
       "word": "伊朗称大量美以导弹坠落境外",
@@ -24760,14 +24808,6 @@
       "word": "从基层一线走进人民殿堂",
       "onboard_time": 1773030323,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 44939,
-      "num": 196855,
-      "word": "建议对年假使用率低的单位加强监管",
-      "onboard_time": 1773219980,
-      "rank": 31,
       "category": "国内时政"
     },
     {
@@ -25563,6 +25603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37063,
+      "num": 155730,
+      "word": "日本一停在波斯湾的船只受损",
+      "onboard_time": 1773222203,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36979,
       "num": 916438,
       "word": "孙颖莎好chill",
@@ -25689,14 +25737,6 @@
       "onboard_time": 1772787024,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35173,
-      "num": 155730,
-      "word": "日本一停在波斯湾的船只受损",
-      "onboard_time": 1773222203,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 35117,

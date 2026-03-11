@@ -1,6 +1,6 @@
 {
   "startTime": 1773158847894,
-  "endTime": 1773222835592,
+  "endTime": 1773223660301,
   "band_list": [
     {
       "raw_hot": 5914442,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 751728,
+      "num": 577522,
+      "word": "建议允许60岁以上农民工继续务工",
+      "onboard_time": 1773221183,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 723151,
       "num": 535554,
       "word": "伊朗提出停火条件",
@@ -97,6 +105,14 @@
       "onboard_time": 1773213980,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 578546,
+      "num": 180288,
+      "word": "MiuMiu",
+      "onboard_time": 1773221782,
+      "rank": 18,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 534082,
@@ -187,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 434955,
+      "num": 179334,
+      "word": "七部云合破40%的剧",
+      "onboard_time": 1773220162,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434299,
       "num": 187229,
       "word": "老夫妻双双129岁相恋100年引质疑",
@@ -211,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427099,
-      "num": 427099,
-      "word": "建议允许60岁以上农民工继续务工",
-      "onboard_time": 1773221183,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 416263,
       "num": 1066602,
       "word": "国防部回应日本部署远程导弹",
@@ -227,7 +243,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 400864,
+      "raw_hot": 406323,
       "num": 204418,
       "word": "中餐厅10网传阵容",
       "onboard_time": 1773219502,
@@ -249,14 +265,6 @@
       "onboard_time": 1773184218,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 362800,
-      "num": 178914,
-      "word": "七部云合破40%的剧",
-      "onboard_time": 1773220162,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 356395,
@@ -459,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245060,
+      "num": 523673,
+      "word": "逐玉",
+      "onboard_time": 1773136762,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239143,
       "num": 186793,
       "word": "业内人士谈小米汽车被销售嘲讽",
@@ -483,8 +499,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217030,
-      "num": 172476,
+      "raw_hot": 218161,
+      "num": 178052,
       "word": "逐玉云合破40了",
       "onboard_time": 1773220402,
       "rank": 15,
@@ -513,14 +529,6 @@
       "onboard_time": 1773157342,
       "rank": 40,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 192967,
-      "num": 523673,
-      "word": "逐玉",
-      "onboard_time": 1773136762,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 187888,
@@ -571,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177590,
+      "num": 177590,
+      "word": "公积金改革大潮真的来了",
+      "onboard_time": 1773222982,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172611,
       "num": 172611,
       "word": "哈哈哈哈哈6铁三角回归",
@@ -617,14 +633,6 @@
       "onboard_time": 1773218603,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 159918,
-      "num": 159918,
-      "word": "MiuMiu",
-      "onboard_time": 1773221782,
-      "rank": 18,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 155967,
@@ -745,6 +753,14 @@
       "onboard_time": 1773149124,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135791,
+      "num": 135791,
+      "word": "5岁男童总腿疼以为长个子确诊白血病",
+      "onboard_time": 1773221541,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132291,
@@ -915,6 +931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111197,
+      "num": 111197,
+      "word": "天选喝奶茶体质",
+      "onboard_time": 1773220281,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109297,
       "num": 574936,
       "word": "热水肥皂拖地法",
@@ -937,14 +961,6 @@
       "onboard_time": 1773155123,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105510,
-      "num": 105510,
-      "word": "天选喝奶茶体质",
-      "onboard_time": 1773220281,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 105175,
@@ -971,6 +987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 103569,
+      "num": 398764,
+      "word": "金店店员谈金不响银不跳",
+      "onboard_time": 1773218901,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103438,
       "num": 400335,
       "word": "张凌赫伴手礼",
@@ -979,28 +1003,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103084,
-      "num": 103084,
-      "word": "5岁男童总腿疼以为长个子确诊白血病",
-      "onboard_time": 1773221541,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102801,
-      "num": 97535,
+      "num": 97938,
       "word": "孙颖莎练到双手撑桌休息",
       "onboard_time": 1773219261,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102409,
-      "num": 398764,
-      "word": "金店店员谈金不响银不跳",
-      "onboard_time": 1773218901,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 102274,
@@ -1043,8 +1051,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 98775,
-      "num": 98775,
+      "raw_hot": 99742,
+      "num": 99742,
+      "word": "妈妈听儿子话囤黄金3年赚40万",
+      "onboard_time": 1773221600,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99601,
+      "num": 99601,
       "word": "周也张婧仪宋威龙张凌赫 全员修罗场",
       "onboard_time": 1773221002,
       "rank": 32,
@@ -1057,6 +1073,22 @@
       "onboard_time": 1773160040,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98326,
+      "num": 98326,
+      "word": "JDG对战KSG",
+      "onboard_time": 1773221841,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 98312,
+      "num": 98312,
+      "word": "6部萨德发射车运出监控画面曝光",
+      "onboard_time": 1773221482,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97848,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1773185960,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 95052,
-      "num": 95052,
-      "word": "妈妈听儿子话囤黄金3年赚40万",
-      "onboard_time": 1773221600,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93960,
@@ -1227,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85082,
-      "num": 85082,
-      "word": "JDG对战KSG",
-      "onboard_time": 1773221841,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 82225,
       "num": 401045,
       "word": "当你生了一个双鱼座小孩",
@@ -1244,7 +1260,7 @@
     },
     {
       "raw_hot": 82040,
-      "num": 82040,
+      "num": 98275,
       "word": "薛之谦广州场二开",
       "onboard_time": 1773212541,
       "rank": 41,
@@ -1307,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79635,
-      "num": 79635,
-      "word": "6部萨德发射车运出监控画面曝光",
-      "onboard_time": 1773221482,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 79507,
       "num": 519171,
       "word": "刘亦菲ins更新看秀照",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1773146425,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78523,
+      "num": 98187,
+      "word": "汉密尔顿九寨沟骑马",
+      "onboard_time": 1773222499,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 78517,
@@ -1348,7 +1364,7 @@
     },
     {
       "raw_hot": 76247,
-      "num": 79582,
+      "num": 98135,
       "word": "肖战漂亮又无奈的笑",
       "onboard_time": 1773221900,
       "rank": 40,
@@ -1385,14 +1401,6 @@
       "onboard_time": 1773218361,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 73775,
-      "num": 79492,
-      "word": "汉密尔顿九寨沟骑马",
-      "onboard_time": 1773222499,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 73414,
@@ -1507,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70196,
+      "num": 98079,
+      "word": "伊朗总统之子说穆杰塔巴受伤",
+      "onboard_time": 1773223280,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69830,
       "num": 399620,
       "word": "小米车险承保公司小米持股超3成",
@@ -1524,7 +1540,7 @@
     },
     {
       "raw_hot": 68961,
-      "num": 79019,
+      "num": 97830,
       "word": "这才是我上大学想学到的东西",
       "onboard_time": 1773222203,
       "rank": 44,
@@ -1537,6 +1553,14 @@
       "onboard_time": 1773147801,
       "rank": 36,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 68875,
+      "num": 97995,
+      "word": "马化腾官宣全系龙虾矩阵",
+      "onboard_time": 1773222861,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 68859,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1773217642,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 68374,
+      "num": 97953,
+      "word": "张凌赫逐玉追剧团逆应援",
+      "onboard_time": 1773223462,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 68338,
@@ -1729,6 +1761,14 @@
       "onboard_time": 1773155183,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60813,
+      "num": 97813,
+      "word": "长辈做饭有多惊人",
+      "onboard_time": 1773223401,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 60540,
@@ -1931,6 +1971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47488,
+      "num": 196855,
+      "word": "建议对年假使用率低的单位加强监管",
+      "onboard_time": 1773219980,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46970,
       "num": 418349,
       "word": "尹李灿直播时看到李羲承退队的反应",
@@ -1969,14 +2017,6 @@
       "onboard_time": 1773141982,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44939,
-      "num": 196855,
-      "word": "建议对年假使用率低的单位加强监管",
-      "onboard_time": 1773219980,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44914,
@@ -2027,7 +2067,7 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 35173,
+      "raw_hot": 37063,
       "num": 155730,
       "word": "日本一停在波斯湾的船只受损",
       "onboard_time": 1773222203,
