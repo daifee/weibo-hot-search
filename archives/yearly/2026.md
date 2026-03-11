@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/03/11 21:44:30
+本榜单时间：2026/01/01 00:35:36 ~ 2026/03/11 22:55:53
 </p>
 </blockquote>
 <p>
@@ -1347,6 +1347,12 @@ TES上报Naiyou不正当行为（热度：2048848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E5%90%8D%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E5%BC%BA%E5%A5%B8%E6%80%A7%E4%BE%B560%E5%90%8D%E5%A5%B3%E6%80%A7%23" target="weibo">
+3名美国富豪强奸性侵60名女性（热度：1845842）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86%23" target="weibo">
 肯德基崩了（热度：1839108）
 </a>
@@ -1805,12 +1811,6 @@ ZB1解散（热度：1695263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8F%97%E5%88%B0%E5%A4%84%E7%BD%9A%23" target="weibo">
 拼多多受到处罚（热度：1571390）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E5%8D%8A%E5%A4%9C%E5%80%99%E8%A1%A5%E6%88%90%E5%8A%9F1700%E5%85%83%E8%BD%A6%E7%A5%A8%E4%BD%9C%E5%BA%9F%23" target="weibo">
-12306半夜候补成功1700元车票作废（热度：1567504）
 </a>
 </li>
 

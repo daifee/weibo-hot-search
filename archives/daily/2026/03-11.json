@@ -1,6 +1,6 @@
 {
   "startTime": 1773158847894,
-  "endTime": 1773236670025,
+  "endTime": 1773240953680,
   "band_list": [
     {
       "raw_hot": 5914442,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 3639088,
-      "num": 293915,
+      "num": 319251,
       "word": "逐玉爱奇艺破万",
       "onboard_time": 1773233542,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1845842,
+      "num": 178767,
+      "word": "3名美国富豪强奸性侵60名女性",
+      "onboard_time": 1773236061,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1575413,
@@ -147,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 709901,
+      "num": 309948,
+      "word": "逐玉腾讯破3万",
+      "onboard_time": 1773240384,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 659982,
       "num": 534854,
       "word": "地球或将迎超级厄尔尼诺现象",
@@ -161,6 +177,14 @@
       "onboard_time": 1773194961,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 627935,
+      "num": 285504,
+      "word": "逐玉双平台破万",
+      "onboard_time": 1773240685,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 611339,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 526996,
-      "num": 274089,
+      "num": 315715,
       "word": "这才是普通身材的普通人穿搭",
       "onboard_time": 1773233962,
       "rank": 30,
@@ -219,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493251,
+      "num": 373696,
+      "word": "伊朗多弹头导弹袭击美军基地",
+      "onboard_time": 1773236543,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 493221,
       "num": 445097,
       "word": "为农民哽咽发声代表接到多部委电话",
       "onboard_time": 1773230121,
       "rank": 4,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 492151,
+      "num": 265129,
+      "word": "田曦薇背后抱量张凌赫腰围",
+      "onboard_time": 1773234983,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 490959,
@@ -251,14 +291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 466513,
-      "num": 265129,
-      "word": "田曦薇背后抱量张凌赫腰围",
-      "onboard_time": 1773234983,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 445584,
       "num": 445584,
       "word": "我们的少年时代2开通官微",
@@ -273,6 +305,14 @@
       "onboard_time": 1773215180,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 436059,
+      "num": 172778,
+      "word": "田曦薇逐玉破万贺图",
+      "onboard_time": 1773238524,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 435697,
@@ -361,6 +401,14 @@
       "onboard_time": 1773226761,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384584,
+      "num": 384584,
+      "word": "1斤赘肉换1斤牛肉已超千人报名",
+      "onboard_time": 1773237624,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 380154,
@@ -564,7 +612,7 @@
     },
     {
       "raw_hot": 273296,
-      "num": 273296,
+      "num": 328765,
       "word": "乘风2026将全程直播",
       "onboard_time": 1773234683,
       "rank": 16,
@@ -627,6 +675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 249901,
+      "num": 249901,
+      "word": "西班牙降级与以色列外交关系",
+      "onboard_time": 1773234983,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 249212,
       "num": 525987,
       "word": "原来这些爆火的文案都是王源写的",
@@ -649,6 +705,14 @@
       "onboard_time": 1773220281,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242632,
+      "num": 242632,
+      "word": "刘晓艳想邀请肖战上旅行综艺",
+      "onboard_time": 1773239365,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 239143,
@@ -699,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200717,
+      "num": 164711,
+      "word": "虞书欣国王开播一周年晒照",
+      "onboard_time": 1773239425,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197366,
       "num": 708690,
       "word": "建议不允许青少年用AI做作业",
@@ -713,14 +785,6 @@
       "onboard_time": 1773225561,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195275,
-      "num": 122829,
-      "word": "3名美国富豪强奸性侵60名女性",
-      "onboard_time": 1773236061,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 187888,
@@ -787,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171506,
+      "num": 160985,
+      "word": "逐玉断层领跑",
+      "onboard_time": 1773236723,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171094,
       "num": 534408,
       "word": "逐玉 女主职业自卑",
@@ -833,6 +905,30 @@
       "onboard_time": 1773218603,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161682,
+      "num": 161682,
+      "word": "伊朗称不再局限于对等反击",
+      "onboard_time": 1773235943,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 160220,
+      "num": 320427,
+      "word": "WB对战狼队",
+      "onboard_time": 1773233302,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 158466,
+      "num": 158466,
+      "word": "外婆妈妈确诊乳腺癌女子恐惧睡不着",
+      "onboard_time": 1773238763,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157088,
@@ -971,14 +1067,6 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 137528,
-      "num": 137528,
-      "word": "西班牙降级与以色列外交关系",
-      "onboard_time": 1773234983,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 136185,
       "num": 532406,
       "word": "肖战白敬亭没使劲 陈伟霆是真犟",
@@ -1011,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131617,
+      "num": 131617,
+      "word": "特朗普说对伊行动即将结束",
+      "onboard_time": 1773240564,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131133,
       "num": 521258,
       "word": "崔然竣 光头强",
@@ -1041,14 +1137,6 @@
       "onboard_time": 1773210979,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128057,
-      "num": 128057,
-      "word": "伊朗称不再局限于对等反击",
-      "onboard_time": 1773235943,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 127403,
@@ -1139,6 +1227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119582,
+      "num": 119582,
+      "word": "每天花费近9亿美元美国要打不起了",
+      "onboard_time": 1773240024,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118678,
       "num": 118678,
       "word": "中国女篮vs马里女篮",
@@ -1203,6 +1299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112909,
+      "num": 112909,
+      "word": "妻子回应帮丈夫贴瓷砖月入2万",
+      "onboard_time": 1773238703,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112872,
       "num": 118283,
       "word": "无畏张良MVP",
@@ -1225,14 +1329,6 @@
       "onboard_time": 1773204202,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 109075,
-      "num": 109075,
-      "word": "WB对战狼队",
-      "onboard_time": 1773233302,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 108923,
@@ -1289,14 +1385,6 @@
       "onboard_time": 1773217702,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104114,
-      "num": 104114,
-      "word": "伊朗多弹头导弹袭击美军基地",
-      "onboard_time": 1773236543,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 103627,
@@ -1483,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91695,
+      "num": 91695,
+      "word": "日本大阪一地下管道冲出地面18米",
+      "onboard_time": 1773238826,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 91579,
       "num": 261271,
       "word": "王楚钦舞力全开",
@@ -1667,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81274,
+      "num": 81274,
+      "word": "扫地机器人把地砖划出大面积划痕",
+      "onboard_time": 1773239965,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80699,
       "num": 80699,
       "word": "蔡猛分析王曼昱爆冷输球原因",
@@ -1681,6 +1785,14 @@
       "onboard_time": 1773203722,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80306,
+      "num": 80306,
+      "word": "TF四代荣耀之战分房",
+      "onboard_time": 1773235582,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 80043,
@@ -1961,6 +2073,14 @@
       "onboard_time": 1773216983,
       "rank": 45,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 69428,
+      "num": 80218,
+      "word": "伊朗发起第39波打击",
+      "onboard_time": 1773236784,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69355,
@@ -2267,12 +2387,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58794,
+      "num": 274707,
+      "word": "委员谈员工不敢休年假怎么办",
+      "onboard_time": 1773234023,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58789,
       "num": 468533,
       "word": "小狗 倒霉的时候风都塞牙",
       "onboard_time": 1773207020,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58527,
+      "num": 80107,
+      "word": "小米车险上线",
+      "onboard_time": 1773238164,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 57594,
@@ -2427,6 +2563,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 49879,
+      "num": 324814,
+      "word": "村书记带了一堆柠檬上两会",
+      "onboard_time": 1773236243,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49312,
       "num": 328228,
       "word": "一杯奶茶融合两岸口味",
@@ -2515,14 +2659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 41214,
-      "num": 274707,
-      "word": "委员谈员工不敢休年假怎么办",
-      "onboard_time": 1773234023,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 40593,
       "num": 417112,
       "word": "blackpink的周冠宇",
@@ -2592,6 +2728,14 @@
       "word": "代表揣着的红色笔记本里记了啥",
       "onboard_time": 1773226820,
       "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 28196,
+      "num": 601027,
+      "word": "解读国家账本看数字背后",
+      "onboard_time": 1773236184,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -2819,27 +2963,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13498,
-      "num": 601027,
-      "word": "解读国家账本看数字背后",
-      "onboard_time": 1773236184,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 12470,
       "num": 90356,
       "word": "两会期间中国航天迎重要里程碑",
       "onboard_time": 1773204626,
       "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 10259,
-      "num": 275584,
-      "word": "村书记带了一堆柠檬上两会",
-      "onboard_time": 1773236243,
-      "rank": 8,
       "category": "国内时政"
     },
     {
