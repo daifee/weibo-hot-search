@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773198706163,
+  "endTime": 1773204619094,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -73,6 +73,14 @@
       "onboard_time": 1773128545,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1575413,
+      "num": 582613,
+      "word": "华莱士正式宣布退市",
+      "onboard_time": 1773199525,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 1563152,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 944093,
-      "num": 501524,
+      "num": 564115,
       "word": "伊朗下起毒雨",
       "onboard_time": 1773185599,
       "rank": 29,
@@ -545,6 +553,14 @@
       "onboard_time": 1773060081,
       "rank": 3,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 529088,
+      "num": 529088,
+      "word": "女子将老公送金镯扔地上又响又跳",
+      "onboard_time": 1773200302,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 528723,
@@ -1547,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291951,
+      "num": 291951,
+      "word": "向佐差点踢到主持人的头",
+      "onboard_time": 1773200722,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291361,
       "num": 599988,
       "word": "乳腺癌女子从腹部借回一对新乳房",
@@ -1603,6 +1627,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 285520,
+      "num": 285520,
+      "word": "驻韩美军6部萨德发射车全部运出",
+      "onboard_time": 1773199525,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 284209,
       "num": 740279,
       "word": "田曦薇跳高好有力量美",
@@ -1620,7 +1652,7 @@
     },
     {
       "raw_hot": 283246,
-      "num": 248197,
+      "num": 279149,
       "word": "苹果最便宜手机来了",
       "onboard_time": 1773186199,
       "rank": 18,
@@ -1641,6 +1673,14 @@
       "onboard_time": 1772934380,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281642,
+      "num": 281642,
+      "word": "井胧酒吧开业披哥都来支持了",
+      "onboard_time": 1773201441,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 281404,
@@ -1731,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261655,
+      "num": 261655,
+      "word": "以为是段子结果真发生了",
+      "onboard_time": 1773204324,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261123,
       "num": 299911,
       "word": "霍去病导演澄清3000元制作80集",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1772929457,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 254615,
+      "num": 281354,
+      "word": "逐玉 赋魅",
+      "onboard_time": 1773202943,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 252619,
@@ -2289,6 +2345,14 @@
       "onboard_time": 1773139103,
       "rank": 32,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 205973,
+      "num": 273786,
+      "word": "伊朗称正在霍尔木兹海峡等待美海军",
+      "onboard_time": 1773197423,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205537,
@@ -2835,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162342,
+      "num": 1025974,
+      "word": "建议推行婴幼儿父母弹性上下班",
+      "onboard_time": 1773198981,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 162114,
       "num": 578316,
       "word": "315消费段位大比拼",
@@ -2865,14 +2937,6 @@
       "onboard_time": 1773039861,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 159858,
-      "num": 83025,
-      "word": "伊朗称正在霍尔木兹海峡等待美海军",
-      "onboard_time": 1773197423,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 159147,
@@ -3009,6 +3073,14 @@
       "onboard_time": 1773121700,
       "rank": 31,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 149813,
+      "num": 531196,
+      "word": "詹姆斯回应阿德巴约破纪录",
+      "onboard_time": 1773200600,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 148548,
@@ -3163,6 +3235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142658,
+      "num": 261644,
+      "word": "要对钱有概念",
+      "onboard_time": 1773204083,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142415,
       "num": 142415,
       "word": "郑钦文止步次轮",
@@ -3211,6 +3291,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142034,
+      "num": 545546,
+      "word": "她的盛焰定档",
+      "onboard_time": 1773199040,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141732,
+      "num": 271304,
+      "word": "联合国警告以美袭击伊朗后果",
+      "onboard_time": 1773202161,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141472,
       "num": 589723,
       "word": "历届SMG视后",
@@ -3252,7 +3348,7 @@
     },
     {
       "raw_hot": 139603,
-      "num": 139603,
+      "num": 274217,
       "word": "电脑售价或上涨40%",
       "onboard_time": 1773197301,
       "rank": 16,
@@ -3523,6 +3619,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 127393,
+      "num": 278090,
+      "word": "逐玉播出实绩",
+      "onboard_time": 1773199281,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127141,
       "num": 127141,
       "word": "多地学校早读取消了",
@@ -3537,6 +3641,14 @@
       "onboard_time": 1773100761,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126507,
+      "num": 261564,
+      "word": "怪不得小孩总是一哭就找妈妈",
+      "onboard_time": 1773200482,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 126469,
@@ -3723,6 +3835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 120432,
+      "num": 277618,
+      "word": "汾酒回应多名硕士拟录为酿酒工成装工",
+      "onboard_time": 1773202101,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120309,
       "num": 348342,
       "word": "王宁身价达1100亿元",
@@ -3828,7 +3948,7 @@
     },
     {
       "raw_hot": 114082,
-      "num": 101477,
+      "num": 267636,
       "word": "伊朗发起第37波打击",
       "onboard_time": 1773191122,
       "rank": 23,
@@ -4307,6 +4427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100986,
+      "num": 261417,
+      "word": "81岁爷爷被火鸡面攻击了",
+      "onboard_time": 1773202522,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100833,
       "num": 158441,
       "word": "多家A股公司与AI龙虾业务关联",
@@ -4499,6 +4627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96685,
+      "num": 272449,
+      "word": "杨紫罗马时装周出发图",
+      "onboard_time": 1773198200,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 96654,
       "num": 597682,
       "word": "建议允许护士给患者开药",
@@ -4651,6 +4787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93960,
+      "num": 261340,
+      "word": "人类幼崽的手有多小",
+      "onboard_time": 1773202402,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93849,
       "num": 240720,
       "word": "伊朗提出过霍尔木兹海峡条件",
@@ -4769,6 +4913,14 @@
       "onboard_time": 1772974641,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91579,
+      "num": 261271,
+      "word": "王楚钦舞力全开",
+      "onboard_time": 1773204083,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 91528,
@@ -5307,6 +5459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82707,
+      "num": 261189,
+      "word": "狗 不理解不反抗",
+      "onboard_time": 1773201622,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82521,
       "num": 161865,
       "word": "已有600余名中国公民从伊朗安全撤离",
@@ -5321,14 +5481,6 @@
       "onboard_time": 1773139462,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 82266,
-      "num": 82266,
-      "word": "杨紫罗马时装周出发图",
-      "onboard_time": 1773198200,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 82107,
@@ -5531,6 +5683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78446,
+      "num": 261110,
+      "word": "热水肥皂拖地法",
+      "onboard_time": 1773204202,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78356,
       "num": 421423,
       "word": "黄金白银盘中突然跳水",
@@ -5604,7 +5764,7 @@
     },
     {
       "raw_hot": 77672,
-      "num": 230518,
+      "num": 260420,
       "word": "两会",
       "onboard_time": 1772936240,
       "rank": 37,
@@ -5867,6 +6027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 73072,
+      "num": 269256,
+      "word": "代拍给林允拍出神图了",
+      "onboard_time": 1773201862,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72965,
       "num": 98117,
       "word": "油价创数十年来最大单周涨幅",
@@ -5927,6 +6095,14 @@
       "num": 72411,
       "word": "王楚钦拍签表",
       "onboard_time": 1772966361,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72400,
+      "num": 261048,
+      "word": "苏群谈阿德巴约单场83分",
+      "onboard_time": 1773200902,
       "rank": 38,
       "category": "体育"
     },
@@ -6041,6 +6217,14 @@
       "onboard_time": 1772958921,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70561,
+      "num": 260937,
+      "word": "荷兰菜竟然走出荷兰了",
+      "onboard_time": 1773203002,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 70280,
@@ -6323,6 +6507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66380,
+      "num": 260859,
+      "word": "每个电动车上都有一个蘑菇",
+      "onboard_time": 1773203843,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66284,
       "num": 157951,
       "word": "如何避免OpenClaw使用风险",
@@ -6417,6 +6609,14 @@
       "onboard_time": 1772969960,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64499,
+      "num": 266209,
+      "word": "照片花束",
+      "onboard_time": 1773203602,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 64489,
@@ -6931,6 +7131,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 57474,
+      "num": 260766,
+      "word": "看完感觉又上了一天班",
+      "onboard_time": 1773203062,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57372,
       "num": 77852,
       "word": "希望樊振东代表国家征战是共同心愿",
@@ -6971,11 +7179,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56908,
+      "num": 260662,
+      "word": "尾巴出卖了咪的开心",
+      "onboard_time": 1773203661,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 56867,
       "num": 132909,
       "word": "赵雅芝红包",
       "onboard_time": 1772975302,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 56507,
+      "num": 260582,
+      "word": "军师上战场了就是不一样",
+      "onboard_time": 1773204023,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 56378,
+      "num": 260551,
+      "word": "前妻发文告别袁惟仁",
+      "onboard_time": 1773200182,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -7017,6 +7249,14 @@
       "onboard_time": 1772967259,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 55501,
+      "num": 260348,
+      "word": "学霸考试时的脑子",
+      "onboard_time": 1773203843,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 55313,
@@ -7113,6 +7353,14 @@
       "onboard_time": 1773106820,
       "rank": 48,
       "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 53583,
+      "num": 260179,
+      "word": "林高远网球王子",
+      "onboard_time": 1773204502,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 53576,
@@ -7632,6 +7880,14 @@
       "word": "委员谈如何提高居民财产收入",
       "onboard_time": 1773098478,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 42109,
+      "num": 264529,
+      "word": "建议引入物业公司竞争机制",
+      "onboard_time": 1773200421,
+      "rank": 27,
       "category": "国内时政"
     },
     {
@@ -8252,7 +8508,7 @@
     },
     {
       "raw_hot": 23674,
-      "num": 327237,
+      "num": 585749,
       "word": "政协会议圆满完成各项议程",
       "onboard_time": 1773192621,
       "rank": 9,
@@ -8289,6 +8545,14 @@
       "onboard_time": 1773025941,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23210,
+      "num": 262043,
+      "word": "家里有三高人群警惕带状疱疹",
+      "onboard_time": 1773201802,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23135,
@@ -8625,6 +8889,14 @@
       "onboard_time": 1773150025,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8811,
+      "num": 541812,
+      "word": "十五五蓝图中的职业新图景",
+      "onboard_time": 1773204382,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7595,
