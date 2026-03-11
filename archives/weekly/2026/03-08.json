@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773251856053,
+  "endTime": 1773252596827,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -10313,6 +10313,14 @@
       "onboard_time": 1773043701,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23412,
+      "num": 33911,
+      "word": "逐玉开播6天",
+      "onboard_time": 1773251055,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 23401,

@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773251856053,
+  "endTime": 1773252596827,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -472,6 +472,14 @@
       "word": "我的山与海",
       "onboard_time": 1773248897,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23412,
+      "num": 33911,
+      "word": "逐玉开播6天",
+      "onboard_time": 1773251055,
+      "rank": 38,
       "category": "剧集"
     },
     {
