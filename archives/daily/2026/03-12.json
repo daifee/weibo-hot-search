@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773312660213,
+  "endTime": 1773313638441,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 433960,
+      "num": 433960,
+      "word": "天塌了山姆的三文鱼原来不能生吃",
+      "onboard_time": 1773309622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432980,
       "num": 823989,
       "word": "意识到同事不傻只是在逃避工作",
@@ -313,6 +321,22 @@
       "onboard_time": 1773281122,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428974,
+      "num": 428974,
+      "word": "西安不倒翁小姐姐宣布离职",
+      "onboard_time": 1773312620,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 426363,
+      "num": 547703,
+      "word": "中方回应特朗普计划访华",
+      "onboard_time": 1773309261,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 423365,
@@ -363,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399031,
+      "num": 476996,
+      "word": "朝九晚五其实是朝七晚六",
+      "onboard_time": 1773306021,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 393071,
       "num": 830777,
       "word": "微信视频通话终于有锁定功能了",
@@ -403,14 +435,6 @@
       "category": "作品衍生,民生新闻"
     },
     {
-      "raw_hot": 371231,
-      "num": 371231,
-      "word": "天塌了山姆的三文鱼原来不能生吃",
-      "onboard_time": 1773309622,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 353639,
       "num": 822148,
       "word": "伊总统提出结束战争3大必要条件",
@@ -433,14 +457,6 @@
       "onboard_time": 1773288441,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 344270,
-      "num": 547703,
-      "word": "中方回应特朗普计划访华",
-      "onboard_time": 1773309261,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 333753,
@@ -515,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303490,
+      "num": 538836,
+      "word": "逐玉",
+      "onboard_time": 1773223101,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296470,
       "num": 382284,
       "word": "狗 人我讨厌坐飞机",
@@ -528,14 +552,6 @@
       "word": "张凌赫被田曦薇摸耳朵的反应",
       "onboard_time": 1773300141,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 277675,
-      "num": 538836,
-      "word": "逐玉",
-      "onboard_time": 1773223101,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -579,14 +595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245584,
-      "num": 476996,
-      "word": "朝九晚五其实是朝七晚六",
-      "onboard_time": 1773306021,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 232062,
       "num": 538374,
       "word": "刘晓艳想邀请肖战上旅行综艺",
@@ -609,6 +617,14 @@
       "onboard_time": 1773238826,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 218637,
+      "num": 218637,
+      "word": "伊朗空军指挥官遭袭身亡",
+      "onboard_time": 1773312322,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 218572,
@@ -891,7 +907,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132801,
+      "raw_hot": 133790,
       "num": 474572,
       "word": "鞠婧祎彝族服饰造型",
       "onboard_time": 1773307522,
@@ -979,14 +995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116292,
-      "num": 116292,
-      "word": "伊朗空军指挥官遭袭身亡",
-      "onboard_time": 1773312322,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 116002,
       "num": 822557,
       "word": "曝美国国防部长5天花501亿美元",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1773308481,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114214,
-      "num": 114214,
-      "word": "西安不倒翁小姐姐宣布离职",
-      "onboard_time": 1773312620,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114136,
@@ -1123,6 +1123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104922,
+      "num": 104922,
+      "word": "AI演员都出片场花絮了",
+      "onboard_time": 1773312020,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103583,
       "num": 533665,
       "word": "为农民哽咽发声代表接到多部委电话",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1773289223,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98672,
+      "num": 98672,
+      "word": "伊朗自曝研究美军20年",
+      "onboard_time": 1773311540,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97199,
@@ -1299,14 +1315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92715,
-      "num": 92715,
-      "word": "伊朗自曝研究美军20年",
-      "onboard_time": 1773311540,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 92577,
       "num": 471634,
       "word": "乘风2026",
@@ -1395,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87239,
+      "num": 138835,
+      "word": "12306回应列车为无座旅客发便民凳",
+      "onboard_time": 1773312020,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87075,
       "num": 86817,
       "word": "鞠婧祎ELLE四月刊封面",
@@ -1475,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77292,
+      "num": 77292,
+      "word": "逐玉超过赘婿",
+      "onboard_time": 1773313461,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76640,
       "num": 436213,
       "word": "F1官号谁教你这么写文案的",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1773306501,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74971,
+      "num": 74971,
+      "word": "白鹿把孩子塞到王鹤棣怀里",
+      "onboard_time": 1773313521,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 74827,
@@ -1611,6 +1643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68984,
+      "num": 72791,
+      "word": "孙颖莎不敢轻易尝试火锅",
+      "onboard_time": 1773310879,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68333,
       "num": 821800,
       "word": "原来努力和天赋并存是这种感觉",
@@ -1691,11 +1731,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64204,
+      "num": 434178,
+      "word": "NBA常规赛",
+      "onboard_time": 1773309681,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63491,
       "num": 466443,
       "word": "全场响起孙颖莎雄起",
       "onboard_time": 1773295641,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62654,
+      "num": 126023,
+      "word": "最强alpha齐聚阿迪达斯",
+      "onboard_time": 1773310940,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -1784,14 +1840,6 @@
       "word": "陈幸同3比0波尔卡诺娃",
       "onboard_time": 1773290722,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 56593,
-      "num": 126023,
-      "word": "最强alpha齐聚阿迪达斯",
-      "onboard_time": 1773310940,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -1931,14 +1979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48545,
-      "num": 101755,
-      "word": "AI演员都出片场花絮了",
-      "onboard_time": 1773312020,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 46757,
       "num": 88668,
       "word": "谭松韵选本眼光",
@@ -2043,14 +2083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36886,
-      "num": 393655,
-      "word": "NBA常规赛",
-      "onboard_time": 1773309681,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 35971,
       "num": 522240,
       "word": "建议加大带薪休假执法检查",
@@ -2107,20 +2139,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33367,
-      "num": 138835,
-      "word": "12306回应列车为无座旅客发便民凳",
-      "onboard_time": 1773312020,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33220,
       "num": 214331,
       "word": "比起探店更像315暗访",
       "onboard_time": 1773247039,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32877,
+      "num": 72881,
+      "word": "三大平台的养老剧",
+      "onboard_time": 1773313399,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 32348,
@@ -2321,6 +2353,14 @@
       "onboard_time": 1773255555,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10504,
+      "num": 119459,
+      "word": "两个无印良品共存易让人误购",
+      "onboard_time": 1773313399,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1583,

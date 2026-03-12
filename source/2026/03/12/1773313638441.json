@@ -1,0 +1,410 @@
+{
+  "runTime": 1773313638441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 32585,
+        "num": 1005213,
+        "word": "十四届全国人大四次会议闭幕会",
+        "onboard_time": 1773297080,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182561,
+        "num": 709059,
+        "word": "司法部将在全国统一推行扫码入企",
+        "onboard_time": 1773305422,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1678,
+        "num": 575775,
+        "word": "3月12日两会日程",
+        "onboard_time": 1773271759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 426363,
+        "num": 522590,
+        "word": "中方回应特朗普计划访华",
+        "onboard_time": 1773309261,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24931,
+        "num": 506477,
+        "word": "第3场部长通道",
+        "onboard_time": 1773301222,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 498517,
+        "num": 498517,
+        "word": "种地吧直播",
+        "onboard_time": 1773310401,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442621,
+        "num": 442621,
+        "word": "美国海军已逃离伊朗周边海域",
+        "onboard_time": 1773306562,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24496,
+        "num": 437617,
+        "word": "表决通过生态环境法典",
+        "onboard_time": 1773300624,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111868,
+        "num": 434465,
+        "word": "建议禁止流量月底清零",
+        "onboard_time": 1773301642,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64204,
+        "num": 434178,
+        "word": "NBA常规赛",
+        "onboard_time": 1773309681,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433960,
+        "num": 433960,
+        "word": "天塌了山姆的三文鱼原来不能生吃",
+        "onboard_time": 1773309622,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428974,
+        "num": 428974,
+        "word": "西安不倒翁小姐姐宣布离职",
+        "onboard_time": 1773312620,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399031,
+        "num": 399031,
+        "word": "朝九晚五其实是朝七晚六",
+        "onboard_time": 1773306021,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296108,
+        "num": 296108,
+        "word": "吴艳妮决赛退赛",
+        "onboard_time": 1773308241,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243819,
+        "num": 243819,
+        "word": "微信3大新功能",
+        "onboard_time": 1773303922,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237939,
+        "num": 237939,
+        "word": "大学生4个馒头卖了30000元",
+        "onboard_time": 1773300020,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221254,
+        "num": 221254,
+        "word": "本田突发暴雷",
+        "onboard_time": 1773305599,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 218637,
+        "num": 218637,
+        "word": "伊朗空军指挥官遭袭身亡",
+        "onboard_time": 1773312322,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201189,
+        "num": 201189,
+        "word": "保时捷车主回应车窗被砸取AED救人",
+        "onboard_time": 1773305662,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158516,
+        "num": 158516,
+        "word": "韩国人分享在中国起号方式",
+        "onboard_time": 1773306141,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 649378,
+        "num": 157319,
+        "word": "爆剧 养老剧",
+        "onboard_time": 1773302120,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447925,
+        "num": 149755,
+        "word": "男子误吞12厘米筷子忍了8年才取出",
+        "onboard_time": 1773304761,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303490,
+        "num": 146189,
+        "word": "逐玉",
+        "onboard_time": 1773309861,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236692,
+        "num": 143198,
+        "word": "肖战白鹿白敬亭 谁说内娱没有齐舞",
+        "onboard_time": 1773302422,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130564,
+        "num": 137935,
+        "word": "伊朗用最强导弹专打以色列",
+        "onboard_time": 1773299601,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134722,
+        "num": 134722,
+        "word": "网传琅琊榜3吴磊换张凌赫",
+        "onboard_time": 1773311362,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133790,
+        "num": 133790,
+        "word": "鞠婧祎彝族服饰造型",
+        "onboard_time": 1773307522,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10504,
+        "num": 119459,
+        "word": "两个无印良品共存易让人误购",
+        "onboard_time": 1773313399,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111640,
+        "num": 111640,
+        "word": "杨幂把海洋穿身上了",
+        "onboard_time": 1773297380,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62654,
+        "num": 106724,
+        "word": "最强alpha齐聚阿迪达斯",
+        "onboard_time": 1773310940,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104922,
+        "num": 104922,
+        "word": "AI演员都出片场花絮了",
+        "onboard_time": 1773312020,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104891,
+        "num": 104891,
+        "word": "吃全麦面包减肥的人天塌了",
+        "onboard_time": 1773299722,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98672,
+        "num": 98672,
+        "word": "伊朗自曝研究美军20年",
+        "onboard_time": 1773311540,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97049,
+        "num": 97049,
+        "word": "腾讯视频 无添加不兑水",
+        "onboard_time": 1773309622,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96553,
+        "num": 96553,
+        "word": "易梦体质",
+        "onboard_time": 1773300562,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95425,
+        "num": 95425,
+        "word": "镖人 第二部",
+        "onboard_time": 1773296721,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89653,
+        "num": 89653,
+        "word": "猫 我刚刚是不是太凶了",
+        "onboard_time": 1773311661,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88097,
+        "num": 88097,
+        "word": "腾讯回应被龙虾之父指责抄袭",
+        "onboard_time": 1773307581,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87239,
+        "num": 87239,
+        "word": "12306回应列车为无座旅客发便民凳",
+        "onboard_time": 1773312020,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86616,
+        "num": 86616,
+        "word": "月薪7000元招人种地",
+        "onboard_time": 1773309861,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84003,
+        "num": 84003,
+        "word": "李羲承退团后ENHYPEN成员状态",
+        "onboard_time": 1773311962,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79638,
+        "num": 79638,
+        "word": "Lululemon店员称售罄发圈非常耐用",
+        "onboard_time": 1773312322,
+        "rank": 41,
+        "category": "时尚,民生新闻"
+      },
+      {
+        "raw_hot": 77528,
+        "num": 77528,
+        "word": "多邻国绿鸟 离职",
+        "onboard_time": 1773289101,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77292,
+        "num": 77292,
+        "word": "逐玉超过赘婿",
+        "onboard_time": 1773313461,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74971,
+        "num": 74971,
+        "word": "白鹿把孩子塞到王鹤棣怀里",
+        "onboard_time": 1773313521,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32877,
+        "num": 72881,
+        "word": "三大平台的养老剧",
+        "onboard_time": 1773313399,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68984,
+        "num": 72791,
+        "word": "孙颖莎不敢轻易尝试火锅",
+        "onboard_time": 1773310879,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72757,
+        "num": 72757,
+        "word": "浪姐7",
+        "onboard_time": 1773299422,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28626,
+        "num": 71717,
+        "word": "莫家蝶60米栏金牌",
+        "onboard_time": 1773312380,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17804,
+        "num": 71670,
+        "word": "向鹏vs梁靖崑",
+        "onboard_time": 1773298880,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树就是植未来#"
+    }
+  }
+}
