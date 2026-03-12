@@ -1,6 +1,6 @@
 {
   "startTime": 1773331581257,
-  "endTime": 1773349277941,
+  "endTime": 1773351682204,
   "band_list": [
     {
       "raw_hot": 557519,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 17428,
-      "num": 78620,
+      "num": 78740,
       "word": "专家建议放宽公积金提取限制",
       "onboard_time": 1773320420,
       "rank": 43,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 16115,
-      "num": 78373,
+      "num": 80447,
       "word": "王楚钦vs弗朗西斯卡",
       "onboard_time": 1773319220,
       "rank": 48,
@@ -515,32 +515,32 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10278,
-      "num": 65049,
+      "raw_hot": 12297,
+      "num": 97835,
       "word": "建议给新就业形态人员缴纳社保",
       "onboard_time": 1773345615,
       "rank": 6,
       "category": "国内时政"
     },
     {
-      "raw_hot": 8894,
-      "num": 65822,
-      "word": "春天里的中国向新而行",
-      "onboard_time": 1773326003,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 8849,
-      "num": 64960,
+      "raw_hot": 8986,
+      "num": 95621,
       "word": "呼吁老人大额转账设24小时冷静期",
       "onboard_time": 1773311602,
       "rank": 7,
       "category": "国内时政"
     },
     {
-      "raw_hot": 8407,
-      "num": 64532,
+      "raw_hot": 8894,
+      "num": 101553,
+      "word": "春天里的中国向新而行",
+      "onboard_time": 1773326003,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 8791,
+      "num": 93477,
       "word": "人大代表说一切都离不开创新",
       "onboard_time": 1773345615,
       "rank": 9,
