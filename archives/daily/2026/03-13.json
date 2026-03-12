@@ -1,6 +1,6 @@
 {
   "startTime": 1773331581257,
-  "endTime": 1773358593124,
+  "endTime": 1773359447670,
   "band_list": [
     {
       "raw_hot": 611247,
@@ -35,7 +35,15 @@
       "category": "军事"
     },
     {
-      "raw_hot": 320804,
+      "raw_hot": 373198,
+      "num": 91002,
+      "word": "伊朗称若电力遭袭整个地区将陷黑暗",
+      "onboard_time": 1773358279,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 337336,
       "num": 301921,
       "word": "女子腰臀部疼了8年终于找到元凶",
       "onboard_time": 1773320542,
@@ -59,8 +67,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228390,
-      "num": 78004,
+      "raw_hot": 258705,
+      "num": 90453,
       "word": "女子寺庙求姻缘遇心动男生",
       "onboard_time": 1773358098,
       "rank": 22,
@@ -72,14 +80,6 @@
       "word": "伊朗最高领袖要求地区美军基地关闭",
       "onboard_time": 1773326543,
       "rank": 12,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 216714,
-      "num": 64232,
-      "word": "伊朗称若电力遭袭整个地区将陷黑暗",
-      "onboard_time": 1773358279,
-      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -99,6 +99,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187510,
+      "num": 948404,
+      "word": "建议允许公积金直接抵首付还房贷",
+      "onboard_time": 1773325942,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 181522,
+      "num": 90037,
+      "word": "女子不爱喝水长巨型肾结石",
+      "onboard_time": 1773358400,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177086,
       "num": 427804,
       "word": "西安不倒翁小姐姐宣布离职",
@@ -115,14 +131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170951,
-      "num": 829869,
-      "word": "建议允许公积金直接抵首付还房贷",
-      "onboard_time": 1773325942,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 164146,
       "num": 425444,
       "word": "李维嘉或将你好星期六常驻",
@@ -137,6 +145,14 @@
       "onboard_time": 1773309261,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 162976,
+      "num": 162976,
+      "word": "张凌赫田曦薇醉酒吻是现挂",
+      "onboard_time": 1773358339,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 150849,
@@ -163,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118462,
+      "num": 373900,
+      "word": "飞机上到处求摸摸的社交悍匪小狗",
+      "onboard_time": 1773321863,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118335,
       "num": 290067,
       "word": "陈赫录综艺全身紫外线过敏",
@@ -187,7 +211,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112325,
+      "raw_hot": 113253,
       "num": 289679,
       "word": "肾病恶化身体会发3次信号",
       "onboard_time": 1773324744,
@@ -195,12 +219,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 105932,
-      "num": 373900,
-      "word": "飞机上到处求摸摸的社交悍匪小狗",
-      "onboard_time": 1773321863,
-      "rank": 18,
-      "category": "幽默"
+      "raw_hot": 108019,
+      "num": 80641,
+      "word": "美军一加油机坠毁据称非被击落",
+      "onboard_time": 1773358819,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101956,
@@ -243,12 +267,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 91613,
-      "num": 91613,
-      "word": "张凌赫田曦薇醉酒吻是现挂",
-      "onboard_time": 1773358339,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 91888,
+      "num": 287284,
+      "word": "衣服洗不干净的原因找到了",
+      "onboard_time": 1773319642,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89675,
+      "num": 89675,
+      "word": "李雪琴的网恋对象是师兄",
+      "onboard_time": 1773356597,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 88444,
@@ -267,23 +299,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 87009,
-      "num": 77776,
-      "word": "女子不爱喝水长巨型肾结石",
-      "onboard_time": 1773358400,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85826,
-      "num": 287284,
-      "word": "衣服洗不干净的原因找到了",
-      "onboard_time": 1773319642,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82563,
+      "raw_hot": 83516,
       "num": 429006,
       "word": "伊朗向以发射多型号导弹",
       "onboard_time": 1773330141,
@@ -291,7 +307,23 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 76894,
+      "raw_hot": 83161,
+      "num": 91473,
+      "word": "杨紫说没接综艺",
+      "onboard_time": 1773358279,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 79174,
+      "num": 79174,
+      "word": "谢征带兵救下宁娘",
+      "onboard_time": 1773358942,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78180,
       "num": 515351,
       "word": "代表推进小班化教学建议被采纳",
       "onboard_time": 1773331220,
@@ -299,12 +331,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 72733,
+      "raw_hot": 74928,
       "num": 287406,
       "word": "白鹿把孩子塞到王鹤棣怀里",
       "onboard_time": 1773313521,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72853,
+      "num": 284349,
+      "word": "中方回应是否有中国民用商船遭袭",
+      "onboard_time": 1773324923,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71539,
@@ -315,12 +355,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69898,
+      "num": 69898,
+      "word": "肖战品质盛典金辉魅影大片",
+      "onboard_time": 1773358458,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65527,
       "num": 286479,
       "word": "逐玉预告",
       "onboard_time": 1773325702,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62897,
+      "num": 62897,
+      "word": "科学家发现30亿年前月球仍生机勃勃",
+      "onboard_time": 1773358580,
+      "rank": 36,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 62601,
@@ -331,12 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62012,
-      "num": 62012,
-      "word": "李雪琴的网恋对象是师兄",
-      "onboard_time": 1773356597,
-      "rank": 33,
-      "category": "电影"
+      "raw_hot": 62553,
+      "num": 62553,
+      "word": "代表教你用生姜白糖绿茶治肠胃病",
+      "onboard_time": 1773357858,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 60744,
@@ -345,14 +401,6 @@
       "onboard_time": 1773326543,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 60723,
-      "num": 284349,
-      "word": "中方回应是否有中国民用商船遭袭",
-      "onboard_time": 1773324923,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59728,
@@ -387,20 +435,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 53597,
+      "num": 57074,
+      "word": "鹿晗专辑预告",
+      "onboard_time": 1773358098,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 52808,
       "num": 283595,
       "word": "于谦也想要孙颖莎的小卡",
       "onboard_time": 1773324202,
       "rank": 45,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 52665,
-      "num": 52665,
-      "word": "杨紫说没接综艺",
-      "onboard_time": 1773358279,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 52299,
@@ -425,14 +473,6 @@
       "onboard_time": 1773335656,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51663,
-      "num": 51663,
-      "word": "代表教你用生姜白糖绿茶治肠胃病",
-      "onboard_time": 1773357858,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 50537,
@@ -483,12 +523,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 45034,
-      "num": 48653,
-      "word": "鹿晗专辑预告",
-      "onboard_time": 1773358098,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 44613,
+      "num": 57043,
+      "word": "微信视频防挂断功能来了",
+      "onboard_time": 1773358580,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 43661,
@@ -497,6 +537,14 @@
       "onboard_time": 1773315680,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 41162,
+      "num": 57035,
+      "word": "养AI龙虾小心安全风险",
+      "onboard_time": 1773358758,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 39986,
@@ -515,15 +563,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32426,
-      "num": 48642,
-      "word": "肖战品质盛典金辉魅影大片",
-      "onboard_time": 1773358458,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 31775,
+      "raw_hot": 35811,
       "num": 285204,
       "word": "建议给新就业形态人员缴纳社保",
       "onboard_time": 1773345615,
@@ -539,7 +579,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 26769,
+      "raw_hot": 27731,
       "num": 278874,
       "word": "呼吁老人大额转账设24小时冷静期",
       "onboard_time": 1773311602,
@@ -555,8 +595,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20295,
-      "num": 472292,
+      "raw_hot": 21763,
+      "num": 549104,
       "word": "春天里的中国向新而行",
       "onboard_time": 1773326003,
       "rank": 2,
