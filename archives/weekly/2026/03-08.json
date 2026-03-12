@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773283224093,
+  "endTime": 1773285502291,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1111942,
-      "num": 388940,
+      "num": 476621,
       "word": "张凌赫田曦薇头纱照",
       "onboard_time": 1773271821,
       "rank": 15,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 881659,
-      "num": 589408,
+      "num": 600666,
       "word": "王濛拟被破格晋升",
       "onboard_time": 1773242662,
       "rank": 3,
@@ -505,6 +505,14 @@
       "onboard_time": 1772966840,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 691109,
+      "num": 477324,
+      "word": "章子怡求剧本",
+      "onboard_time": 1773283460,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 685769,
@@ -923,6 +931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 477502,
+      "num": 477502,
+      "word": "伊朗港口若遭袭将打击地区所有港口",
+      "onboard_time": 1773279440,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 476169,
       "num": 739856,
       "word": "逐玉热度",
@@ -931,20 +947,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475826,
+      "num": 475826,
+      "word": "苹果最贵手机要来了",
+      "onboard_time": 1773275002,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 475340,
       "num": 477668,
       "word": "马来西亚通报MH370搜寻最新进展",
       "onboard_time": 1772954360,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 474173,
-      "num": 474173,
-      "word": "苹果最贵手机要来了",
-      "onboard_time": 1773275002,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 473963,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1773071961,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 431605,
+      "num": 294280,
+      "word": "鹿晗新商务",
+      "onboard_time": 1773281122,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 431595,
@@ -1739,6 +1763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 317734,
+      "num": 317734,
+      "word": "逐玉破万 经纪人亲一个",
+      "onboard_time": 1773284481,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 316785,
       "num": 298654,
       "word": "女孩患癌复查结果不好妈妈骗她及格了",
@@ -1825,14 +1857,6 @@
       "onboard_time": 1772954300,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 309417,
-      "num": 383425,
-      "word": "伊朗港口若遭袭将打击地区所有港口",
-      "onboard_time": 1773279440,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 309190,
@@ -2003,6 +2027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 296470,
+      "num": 382284,
+      "word": "狗 人我讨厌坐飞机",
+      "onboard_time": 1773279320,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 296410,
       "num": 592250,
       "word": "张凌赫人生镜头",
@@ -2033,14 +2065,6 @@
       "onboard_time": 1772959220,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 294280,
-      "num": 294280,
-      "word": "鹿晗新商务",
-      "onboard_time": 1773281122,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 294000,
@@ -2315,14 +2339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 262903,
-      "num": 382284,
-      "word": "狗 人我讨厌坐飞机",
-      "onboard_time": 1773279320,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 262898,
       "num": 561068,
       "word": "建议处罚加班严重企业",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1773220281,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246769,
+      "num": 293837,
+      "word": "东北阿姨坐5小时高铁后把座椅全立直",
+      "onboard_time": 1773281540,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245970,
@@ -3755,6 +3779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157806,
+      "num": 585301,
+      "word": "长生钟意回归首发",
+      "onboard_time": 1773282621,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157088,
       "num": 523531,
       "word": "剑来",
@@ -3988,7 +4020,7 @@
     },
     {
       "raw_hot": 147780,
-      "num": 775513,
+      "num": 787333,
       "word": "建议年假天数按工龄递增",
       "onboard_time": 1773242422,
       "rank": 1,
@@ -4331,6 +4363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134025,
+      "num": 530380,
+      "word": "姜贞羽无限超越班路透",
+      "onboard_time": 1773282319,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133744,
       "num": 242645,
       "word": "妈妈回应女儿用烧火棍在灶台作画",
@@ -4353,14 +4393,6 @@
       "onboard_time": 1772889983,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 132794,
-      "num": 293837,
-      "word": "东北阿姨坐5小时高铁后把座椅全立直",
-      "onboard_time": 1773281540,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132782,
@@ -4691,6 +4723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124267,
+      "num": 124267,
+      "word": "腾讯视频版头有9部爆剧",
+      "onboard_time": 1773284001,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124135,
       "num": 296870,
       "word": "卢昱晓跳Zoo",
@@ -4761,6 +4801,14 @@
       "onboard_time": 1773051262,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122101,
+      "num": 122101,
+      "word": "王腾官宣品牌名",
+      "onboard_time": 1773284481,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 121905,
@@ -4995,6 +5043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114136,
+      "num": 292011,
+      "word": "美国将释放1.72亿桶战略石油储备",
+      "onboard_time": 1773282500,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114082,
       "num": 573347,
       "word": "伊朗发起第37波打击",
@@ -5097,14 +5153,6 @@
       "onboard_time": 1773146844,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112635,
-      "num": 549860,
-      "word": "长生钟意回归首发",
-      "onboard_time": 1773282621,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 112536,
@@ -5835,6 +5883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97199,
+      "num": 292506,
+      "word": "伊朗与黎巴嫩真主党联合作战",
+      "onboard_time": 1773280222,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97055,
       "num": 97055,
       "word": "蒋敦豪到底吃了多少过期食品",
@@ -5873,6 +5929,14 @@
       "onboard_time": 1773235162,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96715,
+      "num": 96715,
+      "word": "甜茶坐地铁通勤也一身班味",
+      "onboard_time": 1773284181,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 96654,
@@ -5977,6 +6041,14 @@
       "onboard_time": 1772927657,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95121,
+      "num": 95121,
+      "word": "暴雪又来了",
+      "onboard_time": 1773285201,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95056,
@@ -6571,6 +6643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 87075,
+      "num": 86817,
+      "word": "鞠婧祎ELLE四月刊封面",
+      "onboard_time": 1773285080,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 86994,
       "num": 596045,
       "word": "赵晴新剧内娱稀有不缺爱女主",
@@ -6641,6 +6721,14 @@
       "onboard_time": 1772968521,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86330,
+      "num": 86330,
+      "word": "美国伊朗冲突",
+      "onboard_time": 1773284541,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86083,
@@ -6769,6 +6857,14 @@
       "onboard_time": 1773024140,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84393,
+      "num": 84393,
+      "word": "Viper与Daeny韩国起飞",
+      "onboard_time": 1773284120,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 84375,
@@ -6913,14 +7009,6 @@
       "onboard_time": 1773212541,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 81848,
-      "num": 530380,
-      "word": "姜贞羽无限超越班路透",
-      "onboard_time": 1773282319,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 81670,
@@ -7515,14 +7603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74033,
-      "num": 292506,
-      "word": "伊朗与黎巴嫩真主党联合作战",
-      "onboard_time": 1773280222,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74029,
       "num": 110302,
       "word": "武汉三镇0比2北京国安",
@@ -7915,14 +7995,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 69947,
-      "num": 292011,
-      "word": "美国将释放1.72亿桶战略石油储备",
-      "onboard_time": 1773282500,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 69946,
       "num": 856363,
       "word": "男女主爱惨了观众嗑疯了",
@@ -7953,6 +8025,14 @@
       "onboard_time": 1773236784,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69375,
+      "num": 84348,
+      "word": "游客夜爬华山偶遇神兽",
+      "onboard_time": 1773285442,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69355,
@@ -8947,6 +9027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57792,
+      "num": 610677,
+      "word": "委员回应年轻人受不了内卷想出家",
+      "onboard_time": 1773284181,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57714,
       "num": 112219,
       "word": "以总统说战争期间不讨论赦免总理",
@@ -9931,6 +10019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40546,
+      "num": 555903,
+      "word": "代表刚回屋建议就收到回复",
+      "onboard_time": 1773283940,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40053,
       "num": 576816,
       "word": "十五五蓝图中的职业新图景",
@@ -10160,6 +10256,14 @@
       "word": "建议把更多救命药纳入医保",
       "onboard_time": 1773066863,
       "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 36456,
+      "num": 525310,
+      "word": "建议提高待遇激励医学生扎根基层",
+      "onboard_time": 1773283940,
+      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -10393,6 +10497,14 @@
       "onboard_time": 1772963181,
       "rank": 7,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 30156,
+      "num": 96716,
+      "word": "宋兆普说两年内高额彩礼有望取消",
+      "onboard_time": 1773285380,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30018,
@@ -10792,6 +10904,14 @@
       "word": "物业到底是来管理还是服务我们的",
       "onboard_time": 1773126023,
       "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 20957,
+      "num": 500483,
+      "word": "建议扩围职业病目录明确认定标准",
+      "onboard_time": 1773283882,
+      "rank": 7,
       "category": "国内时政"
     },
     {
@@ -11205,6 +11325,9 @@
     },
     {
       "word": "#总书记的两会关切#"
+    },
+    {
+      "word": "#植树就是植未来#"
     }
   ]
 }

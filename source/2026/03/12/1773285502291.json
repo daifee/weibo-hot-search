@@ -1,0 +1,410 @@
+{
+  "runTime": 1773285502291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 329649,
+        "num": 1052743,
+        "word": "建议让全年无休的照护者能喘口气",
+        "onboard_time": 1773278661,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120262,
+        "num": 787333,
+        "word": "建议年假天数按工龄递增",
+        "onboard_time": 1773242422,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57792,
+        "num": 610677,
+        "word": "委员回应年轻人受不了内卷想出家",
+        "onboard_time": 1773284181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218265,
+        "num": 600666,
+        "word": "王濛拟被破格晋升",
+        "onboard_time": 1773242662,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157806,
+        "num": 585301,
+        "word": "长生钟意回归首发",
+        "onboard_time": 1773282621,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40546,
+        "num": 555903,
+        "word": "代表刚回屋建议就收到回复",
+        "onboard_time": 1773283940,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36456,
+        "num": 525310,
+        "word": "建议提高待遇激励医学生扎根基层",
+        "onboard_time": 1773283940,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20957,
+        "num": 500483,
+        "word": "建议扩围职业病目录明确认定标准",
+        "onboard_time": 1773283882,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14672,
+        "num": 493461,
+        "word": "解读国家账本看数字背后",
+        "onboard_time": 1773236184,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 477502,
+        "num": 477502,
+        "word": "伊朗港口若遭袭将打击地区所有港口",
+        "onboard_time": 1773279440,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 691109,
+        "num": 477324,
+        "word": "章子怡求剧本",
+        "onboard_time": 1773283460,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 571494,
+        "num": 476621,
+        "word": "张凌赫田曦薇头纱照",
+        "onboard_time": 1773271821,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 475826,
+        "num": 475826,
+        "word": "苹果最贵手机要来了",
+        "onboard_time": 1773275002,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134025,
+        "num": 400740,
+        "word": "姜贞羽无限超越班路透",
+        "onboard_time": 1773282319,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345463,
+        "num": 345463,
+        "word": "代表说农民交的公粮就等于交了社保",
+        "onboard_time": 1773276261,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317734,
+        "num": 317734,
+        "word": "逐玉破万 经纪人亲一个",
+        "onboard_time": 1773284481,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351030,
+        "num": 313794,
+        "word": "田曦薇第一位双平台破万女演员",
+        "onboard_time": 1773277223,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308642,
+        "num": 308642,
+        "word": "景区买个水果捞没想到切完多了",
+        "onboard_time": 1773279502,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296470,
+        "num": 296470,
+        "word": "狗 人我讨厌坐飞机",
+        "onboard_time": 1773279320,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270046,
+        "num": 270046,
+        "word": "伊总统提出结束战争3大必要条件",
+        "onboard_time": 1773274461,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 507945,
+        "num": 261123,
+        "word": "3名美国富豪强奸性侵60名女性",
+        "onboard_time": 1773236061,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 431605,
+        "num": 255595,
+        "word": "鹿晗新商务",
+        "onboard_time": 1773281122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246769,
+        "num": 246769,
+        "word": "东北阿姨坐5小时高铁后把座椅全立直",
+        "onboard_time": 1773281540,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186640,
+        "num": 186640,
+        "word": "伴娘回应婚礼偶遇吴彦祖代旭井胧",
+        "onboard_time": 1773278361,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152271,
+        "num": 152271,
+        "word": "张凌赫回应逐玉双平台破万",
+        "onboard_time": 1773280461,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147632,
+        "num": 147632,
+        "word": "我国灵活就业人员超2.4亿",
+        "onboard_time": 1773274281,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124267,
+        "num": 124267,
+        "word": "腾讯视频版头有9部爆剧",
+        "onboard_time": 1773284001,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122101,
+        "num": 122101,
+        "word": "王腾官宣品牌名",
+        "onboard_time": 1773284481,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120018,
+        "num": 120018,
+        "word": "23岁牛散5000万买股浮盈超4100万",
+        "onboard_time": 1773275721,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114136,
+        "num": 114136,
+        "word": "美国将释放1.72亿桶战略石油储备",
+        "onboard_time": 1773282500,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112176,
+        "num": 112176,
+        "word": "骄阳似我",
+        "onboard_time": 1773271339,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99625,
+        "num": 99625,
+        "word": "1斤赘肉换1斤牛肉已超千人报名",
+        "onboard_time": 1773237624,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97199,
+        "num": 97199,
+        "word": "伊朗与黎巴嫩真主党联合作战",
+        "onboard_time": 1773280222,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30156,
+        "num": 96716,
+        "word": "宋兆普说两年内高额彩礼有望取消",
+        "onboard_time": 1773285380,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96715,
+        "num": 96715,
+        "word": "甜茶坐地铁通勤也一身班味",
+        "onboard_time": 1773284181,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96110,
+        "num": 96110,
+        "word": "同工不同酬的劳务派遣制度该废止了",
+        "onboard_time": 1773277460,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95121,
+        "num": 95121,
+        "word": "暴雪又来了",
+        "onboard_time": 1773285201,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94423,
+        "num": 94423,
+        "word": "曝李鹤来退出SMTR25",
+        "onboard_time": 1773270858,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91587,
+        "num": 91587,
+        "word": "逐玉",
+        "onboard_time": 1773223101,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86817,
+        "num": 86817,
+        "word": "80元Lululemon发圈火爆是因为天热",
+        "onboard_time": 1773274341,
+        "rank": 39,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 87075,
+        "num": 86817,
+        "word": "鞠婧祎ELLE四月刊封面",
+        "onboard_time": 1773285080,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 86330,
+        "num": 86330,
+        "word": "美国伊朗冲突",
+        "onboard_time": 1773284541,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84393,
+        "num": 84393,
+        "word": "Viper与Daeny韩国起飞",
+        "onboard_time": 1773284120,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72217,
+        "num": 84380,
+        "word": "植树节",
+        "onboard_time": 1773276261,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71538,
+        "num": 84366,
+        "word": "朴综星疑似回应李羲承退团",
+        "onboard_time": 1773280761,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71475,
+        "num": 84352,
+        "word": "伊朗以色列德黑兰上空持续交战",
+        "onboard_time": 1773278781,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69375,
+        "num": 84348,
+        "word": "游客夜爬华山偶遇神兽",
+        "onboard_time": 1773285442,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69314,
+        "num": 84324,
+        "word": "KPL",
+        "onboard_time": 1773282441,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68508,
+        "num": 84318,
+        "word": "黄油年糕在韩国流行",
+        "onboard_time": 1773276862,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 30644,
+        "num": 84309,
+        "word": "皇马3比0曼城",
+        "onboard_time": 1773272541,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树就是植未来#"
+    }
+  }
+}
