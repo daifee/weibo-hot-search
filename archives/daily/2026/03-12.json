@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773306545286,
+  "endTime": 1773309264613,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -8,6 +8,14 @@
       "word": "逐玉双平台破万",
       "onboard_time": 1773240685,
       "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1141559,
+      "num": 553022,
+      "word": "爆剧 养老剧",
+      "onboard_time": 1773302120,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -33,6 +41,14 @@
       "onboard_time": 1773289101,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 862208,
+      "num": 519600,
+      "word": "男子误吞12厘米筷子忍了8年才取出",
+      "onboard_time": 1773304761,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 860507,
@@ -67,28 +83,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 777517,
-      "num": 553022,
-      "word": "爆剧 养老剧",
-      "onboard_time": 1773302120,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 770383,
       "num": 834017,
       "word": "腾讯视频修改逐玉战报",
       "onboard_time": 1773288502,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 710483,
-      "num": 519600,
-      "word": "男子误吞12厘米筷子忍了8年才取出",
-      "onboard_time": 1773304761,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 696468,
@@ -121,6 +121,22 @@
       "onboard_time": 1773289223,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 634394,
+      "num": 634394,
+      "word": "韩国人分享在中国起号方式",
+      "onboard_time": 1773306141,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 624046,
+      "num": 624046,
+      "word": "微信3大新功能",
+      "onboard_time": 1773303922,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 622967,
@@ -179,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 521941,
+      "num": 521941,
+      "word": "本田突发暴雷",
+      "onboard_time": 1773305599,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 498968,
       "num": 831894,
       "word": "逐玉破万 经纪人亲一个",
@@ -193,6 +217,14 @@
       "onboard_time": 1773287962,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 484859,
+      "num": 515131,
+      "word": "保时捷车主回应车窗被砸取AED救人",
+      "onboard_time": 1773305662,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 480732,
@@ -227,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 459348,
-      "num": 521665,
-      "word": "微信3大新功能",
-      "onboard_time": 1773303922,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 451064,
       "num": 539778,
       "word": "张凌赫听到我结婚时的反应",
@@ -265,6 +289,14 @@
       "onboard_time": 1773281122,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423365,
+      "num": 750345,
+      "word": "司法部将在全国统一推行扫码入企",
+      "onboard_time": 1773305422,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 421390,
@@ -379,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332958,
+      "num": 698732,
+      "word": "美国海军已逃离伊朗周边海域",
+      "onboard_time": 1773306562,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 331046,
       "num": 331046,
       "word": "伴娘回应婚礼偶遇吴彦祖代旭井胧",
@@ -388,7 +428,7 @@
     },
     {
       "raw_hot": 326233,
-      "num": 584293,
+      "num": 683252,
       "word": "镖人 第二部",
       "onboard_time": 1773296721,
       "rank": 3,
@@ -484,7 +524,7 @@
     },
     {
       "raw_hot": 254584,
-      "num": 721996,
+      "num": 727549,
       "word": "建议禁止流量月底清零",
       "onboard_time": 1773301642,
       "rank": 7,
@@ -513,6 +553,14 @@
       "onboard_time": 1773239365,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223952,
+      "num": 483235,
+      "word": "吴艳妮决赛退赛",
+      "onboard_time": 1773308241,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 221914,
@@ -571,28 +619,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 204752,
-      "num": 514016,
-      "word": "本田突发暴雷",
-      "onboard_time": 1773305599,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 199505,
       "num": 1031920,
       "word": "建议70岁以上农民养老金提至500",
       "onboard_time": 1773288322,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 197707,
-      "num": 515131,
-      "word": "保时捷车主回应车窗被砸取AED救人",
-      "onboard_time": 1773305662,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195437,
@@ -689,14 +721,6 @@
       "onboard_time": 1773250636,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160296,
-      "num": 439570,
-      "word": "韩国人分享在中国起号方式",
-      "onboard_time": 1773306141,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 159940,
@@ -867,6 +891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 121673,
+      "num": 476996,
+      "word": "朝九晚五其实是朝七晚六",
+      "onboard_time": 1773306021,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121125,
       "num": 513040,
       "word": "张翅直播",
@@ -883,20 +915,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119127,
-      "num": 521093,
-      "word": "司法部将在全国统一推行扫码入企",
-      "onboard_time": 1773305422,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117247,
       "num": 293592,
       "word": "刘亦菲早春穿搭",
       "onboard_time": 1773276503,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116823,
+      "num": 476264,
+      "word": "恭迎武安侯上线",
+      "onboard_time": 1773306382,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 116002,
@@ -995,12 +1027,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108964,
+      "num": 474572,
+      "word": "鞠婧祎彝族服饰造型",
+      "onboard_time": 1773307522,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 108758,
       "num": 108758,
       "word": "无期迷途",
       "onboard_time": 1773290242,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108536,
+      "num": 475449,
+      "word": "腾讯回应被龙虾之父指责抄袭",
+      "onboard_time": 1773307581,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 107938,
+      "num": 473284,
+      "word": "逐玉剧组拿任豪当水印",
+      "onboard_time": 1773308481,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 105209,
@@ -1139,12 +1195,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92577,
+      "num": 471634,
+      "word": "乘风2026",
+      "onboard_time": 1773307223,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92178,
       "num": 509532,
       "word": "伊朗调整战略",
       "onboard_time": 1773301582,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90950,
+      "num": 470763,
+      "word": "AI生产一台大屏电视只需20秒",
+      "onboard_time": 1773307640,
+      "rank": 38,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 90823,
@@ -1204,7 +1276,7 @@
     },
     {
       "raw_hot": 87985,
-      "num": 437307,
+      "num": 465730,
       "word": "逐玉云合42.2%",
       "onboard_time": 1773305783,
       "rank": 42,
@@ -1259,22 +1331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82468,
-      "num": 436721,
-      "word": "恭迎武安侯上线",
-      "onboard_time": 1773306382,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 81247,
-      "num": 436407,
-      "word": "朝九晚五其实是朝七晚六",
-      "onboard_time": 1773306021,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80831,
       "num": 531243,
       "word": "吴昕在大侦探爆哭",
@@ -1307,12 +1363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75758,
+      "num": 467797,
+      "word": "谷歌发现iOS严重漏洞",
+      "onboard_time": 1773308181,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 75746,
       "num": 530564,
       "word": "上过班的才知道这有多幸福",
       "onboard_time": 1773232343,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75592,
+      "num": 466324,
+      "word": "猫自己住一个房子",
+      "onboard_time": 1773308541,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 75053,
@@ -1329,6 +1401,14 @@
       "onboard_time": 1773281540,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 74587,
+      "num": 650951,
+      "word": "通过政府立法解决内卷式竞争",
+      "onboard_time": 1773305722,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74342,
@@ -1452,7 +1532,7 @@
     },
     {
       "raw_hot": 65635,
-      "num": 440837,
+      "num": 483141,
       "word": "科技探索她力量",
       "onboard_time": 1773306321,
       "rank": 24,
@@ -1651,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51490,
-      "num": 546098,
-      "word": "通过政府立法解决内卷式竞争",
-      "onboard_time": 1773305722,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 50786,
       "num": 464812,
       "word": "孙颖莎回应3比0战胜朱芊曦",
@@ -1852,7 +1924,7 @@
     },
     {
       "raw_hot": 34357,
-      "num": 588663,
+      "num": 714086,
       "word": "第3场部长通道",
       "onboard_time": 1773301222,
       "rank": 4,
@@ -1915,6 +1987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30154,
+      "num": 675369,
+      "word": "表决通过生态环境法典",
+      "onboard_time": 1773300624,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28646,
       "num": 460800,
       "word": "名宿赞孙颖莎真的不简单",
@@ -1937,6 +2017,14 @@
       "onboard_time": 1773248897,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25672,
+      "num": 465141,
+      "word": "吴艳妮60米栏晋级决赛",
+      "onboard_time": 1773308000,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 24482,
