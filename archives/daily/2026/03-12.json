@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773305776044,
+  "endTime": 1773306545286,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -67,7 +67,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 775538,
+      "raw_hot": 777517,
       "num": 553022,
       "word": "爆剧 养老剧",
       "onboard_time": 1773302120,
@@ -81,6 +81,14 @@
       "onboard_time": 1773288502,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 710483,
+      "num": 519600,
+      "word": "男子误吞12厘米筷子忍了8年才取出",
+      "onboard_time": 1773304761,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 696468,
@@ -155,20 +163,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 536784,
+      "num": 536784,
+      "word": "肖战白鹿白敬亭 谁说内娱没有齐舞",
+      "onboard_time": 1773302422,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 523426,
       "num": 523426,
       "word": "田曦薇第一位双平台破万女演员",
       "onboard_time": 1773277223,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 523135,
-      "num": 523135,
-      "word": "肖战白鹿白敬亭 谁说内娱没有齐舞",
-      "onboard_time": 1773302422,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 498968,
@@ -217,6 +225,14 @@
       "onboard_time": 1773295821,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 459348,
+      "num": 521665,
+      "word": "微信3大新功能",
+      "onboard_time": 1773303922,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 451064,
@@ -499,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230258,
-      "num": 519600,
-      "word": "男子误吞12厘米筷子忍了8年才取出",
-      "onboard_time": 1773304761,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 221914,
       "num": 829068,
       "word": "年轻人不知道的交公粮",
@@ -563,6 +571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204752,
+      "num": 514016,
+      "word": "本田突发暴雷",
+      "onboard_time": 1773305599,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 199505,
       "num": 1031920,
       "word": "建议70岁以上农民养老金提至500",
@@ -571,12 +587,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 199447,
-      "num": 521665,
-      "word": "微信3大新功能",
-      "onboard_time": 1773303922,
-      "rank": 17,
-      "category": "互联网"
+      "raw_hot": 197707,
+      "num": 515131,
+      "word": "保时捷车主回应车窗被砸取AED救人",
+      "onboard_time": 1773305662,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195437,
@@ -673,6 +689,14 @@
       "onboard_time": 1773250636,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160296,
+      "num": 439570,
+      "word": "韩国人分享在中国起号方式",
+      "onboard_time": 1773306141,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159940,
@@ -787,14 +811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 138758,
-      "num": 515131,
-      "word": "保时捷车主回应车窗被砸取AED救人",
-      "onboard_time": 1773305662,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134543,
       "num": 535040,
       "word": "田曦薇逐玉破万贺图",
@@ -851,12 +867,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 121125,
+      "num": 513040,
+      "word": "张翅直播",
+      "onboard_time": 1773303261,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120312,
       "num": 507901,
       "word": "王天辰回应生李昀锐",
       "onboard_time": 1773301521,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119127,
+      "num": 521093,
+      "word": "司法部将在全国统一推行扫码入企",
+      "onboard_time": 1773305422,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117247,
@@ -947,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109844,
+      "num": 513524,
+      "word": "乐华 中韩男团",
+      "onboard_time": 1773303201,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108988,
       "num": 514504,
       "word": "董卿何赛飞 初见她漫步溪桥下",
@@ -961,14 +1001,6 @@
       "onboard_time": 1773290242,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 106144,
-      "num": 513524,
-      "word": "乐华 中韩男团",
-      "onboard_time": 1773303201,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 105209,
@@ -995,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100103,
-      "num": 513040,
-      "word": "张翅直播",
-      "onboard_time": 1773303261,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99859,
       "num": 96007,
       "word": "爆剧标准",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1773289223,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98739,
-      "num": 514016,
-      "word": "本田突发暴雷",
-      "onboard_time": 1773305599,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 97199,
@@ -1171,12 +1187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88490,
+      "num": 438553,
+      "word": "王者诸葛亮女娲伤害调整",
+      "onboard_time": 1773305961,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88184,
       "num": 824554,
       "word": "苏翊鸣坐拉塞尔副驾飙速",
       "onboard_time": 1773291502,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87985,
+      "num": 437307,
+      "word": "逐玉云合42.2%",
+      "onboard_time": 1773305783,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 87075,
@@ -1211,12 +1243,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84299,
+      "num": 436868,
+      "word": "这幼儿园怎么净教些有用的",
+      "onboard_time": 1773306382,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83652,
       "num": 496896,
       "word": "向鹏vs梁靖崑",
       "onboard_time": 1773298880,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82468,
+      "num": 436721,
+      "word": "恭迎武安侯上线",
+      "onboard_time": 1773306382,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 81247,
+      "num": 436407,
+      "word": "朝九晚五其实是朝七晚六",
+      "onboard_time": 1773306021,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 80831,
@@ -1243,12 +1299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76640,
+      "num": 436213,
+      "word": "F1官号谁教你这么写文案的",
+      "onboard_time": 1773306441,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75746,
       "num": 530564,
       "word": "上过班的才知道这有多幸福",
       "onboard_time": 1773232343,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75053,
+      "num": 435917,
+      "word": "小时候奇怪的卫生准则",
+      "onboard_time": 1773306501,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 74827,
@@ -1379,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65635,
+      "num": 440837,
+      "word": "科技探索她力量",
+      "onboard_time": 1773306321,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65336,
       "num": 463546,
       "word": "美国将对16个贸易伙伴发起301调查",
@@ -1491,14 +1571,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 57566,
-      "num": 521093,
-      "word": "司法部将在全国统一推行扫码入企",
-      "onboard_time": 1773305422,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 57137,
       "num": 526787,
       "word": "你更愿意喝9.9元还是30元的咖啡",
@@ -1580,7 +1652,7 @@
     },
     {
       "raw_hot": 51490,
-      "num": 509885,
+      "num": 546098,
       "word": "通过政府立法解决内卷式竞争",
       "onboard_time": 1773305722,
       "rank": 41,
@@ -1747,6 +1819,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 35936,
+      "num": 512003,
+      "word": "孙颖莎完赛又去加练了",
+      "onboard_time": 1773305662,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35585,
       "num": 564759,
       "word": "表决通过政府工作报告",
@@ -1795,6 +1875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32085,
+      "num": 510776,
+      "word": "推进不动产登记跨省通办",
+      "onboard_time": 1773305362,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32044,
       "num": 521499,
       "word": "深圳男篮vs辽宁男篮",
@@ -1819,14 +1907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 30942,
-      "num": 512003,
-      "word": "孙颖莎完赛又去加练了",
-      "onboard_time": 1773305662,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 30156,
       "num": 96716,
       "word": "宋兆普说两年内高额彩礼有望取消",
@@ -1841,14 +1921,6 @@
       "onboard_time": 1773299661,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27155,
-      "num": 510776,
-      "word": "推进不动产登记跨省通办",
-      "onboard_time": 1773305362,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26194,

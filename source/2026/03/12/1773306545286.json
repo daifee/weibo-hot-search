@@ -1,0 +1,410 @@
+{
+  "runTime": 1773306545286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 42572,
+        "num": 1006811,
+        "word": "十四届全国人大四次会议闭幕会",
+        "onboard_time": 1773297080,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227857,
+        "num": 721469,
+        "word": "建议禁止流量月底清零",
+        "onboard_time": 1773301642,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2664,
+        "num": 574089,
+        "word": "3月12日两会日程",
+        "onboard_time": 1773271759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 560510,
+        "num": 560510,
+        "word": "首批能活到1000岁的人或已出生",
+        "onboard_time": 1773301702,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29044,
+        "num": 560354,
+        "word": "第3场部长通道",
+        "onboard_time": 1773301222,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 312825,
+        "num": 555980,
+        "word": "伊朗用最强导弹专打以色列",
+        "onboard_time": 1773299601,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149934,
+        "num": 552879,
+        "word": "镖人 第二部",
+        "onboard_time": 1773296721,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122378,
+        "num": 550516,
+        "word": "女孩回老家把祖屋改造成雨林民宿",
+        "onboard_time": 1773297080,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50941,
+        "num": 546098,
+        "word": "通过政府立法解决内卷式竞争",
+        "onboard_time": 1773305722,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33706,
+        "num": 543676,
+        "word": "今年加快研究人工智能立法",
+        "onboard_time": 1773304521,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 777517,
+        "num": 541427,
+        "word": "爆剧 养老剧",
+        "onboard_time": 1773302120,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 773488,
+        "num": 537352,
+        "word": "易梦体质",
+        "onboard_time": 1773300562,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 536784,
+        "num": 536784,
+        "word": "肖战白鹿白敬亭 谁说内娱没有齐舞",
+        "onboard_time": 1773302422,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459348,
+        "num": 459348,
+        "word": "微信3大新功能",
+        "onboard_time": 1773303922,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 442565,
+        "num": 442565,
+        "word": "大学生4个馒头卖了30000元",
+        "onboard_time": 1773300020,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227517,
+        "num": 442459,
+        "word": "多邻国绿鸟 离职",
+        "onboard_time": 1773289101,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207843,
+        "num": 442233,
+        "word": "张凌赫被田曦薇摸耳朵的反应",
+        "onboard_time": 1773300141,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204752,
+        "num": 442091,
+        "word": "本田突发暴雷",
+        "onboard_time": 1773305599,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197707,
+        "num": 441965,
+        "word": "保时捷车主回应车窗被砸取AED救人",
+        "onboard_time": 1773305662,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119127,
+        "num": 441713,
+        "word": "司法部将在全国统一推行扫码入企",
+        "onboard_time": 1773305422,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 710483,
+        "num": 441597,
+        "word": "男子误吞12厘米筷子忍了8年才取出",
+        "onboard_time": 1773304761,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365457,
+        "num": 441338,
+        "word": "浪姐7",
+        "onboard_time": 1773299422,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288056,
+        "num": 441039,
+        "word": "杨幂把海洋穿身上了",
+        "onboard_time": 1773297380,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163397,
+        "num": 440959,
+        "word": "辛辛苦苦考了一份辛辛苦苦的工作",
+        "onboard_time": 1773289223,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65635,
+        "num": 440837,
+        "word": "科技探索她力量",
+        "onboard_time": 1773306321,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232059,
+        "num": 440554,
+        "word": "改剧本 加流量演员",
+        "onboard_time": 1773299540,
+        "rank": 25,
+        "category": "作品衍生,民生新闻"
+      },
+      {
+        "raw_hot": 161609,
+        "num": 440298,
+        "word": "腾讯视频修改逐玉战报",
+        "onboard_time": 1773288502,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156434,
+        "num": 440220,
+        "word": "吃全麦面包减肥的人天塌了",
+        "onboard_time": 1773299722,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134990,
+        "num": 440011,
+        "word": "张凌赫王玉雯 刺棠",
+        "onboard_time": 1773294801,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133219,
+        "num": 439802,
+        "word": "儿媳一怀孕婆婆立马报班学月嫂",
+        "onboard_time": 1773296001,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160296,
+        "num": 439570,
+        "word": "韩国人分享在中国起号方式",
+        "onboard_time": 1773306141,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121125,
+        "num": 439398,
+        "word": "张翅直播",
+        "onboard_time": 1773303261,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109242,
+        "num": 439246,
+        "word": "微信视频通话终于有锁定功能了",
+        "onboard_time": 1773291201,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109844,
+        "num": 438991,
+        "word": "乐华 中韩男团",
+        "onboard_time": 1773303201,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98373,
+        "num": 438853,
+        "word": "董卿何赛飞 初见她漫步溪桥下",
+        "onboard_time": 1773303261,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88490,
+        "num": 438553,
+        "word": "王者诸葛亮女娲伤害调整",
+        "onboard_time": 1773305961,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96243,
+        "num": 438492,
+        "word": "王濛官宣参加浪姐7",
+        "onboard_time": 1773295821,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44813,
+        "num": 438333,
+        "word": "孙颖莎不听不听和尚念经",
+        "onboard_time": 1773305662,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35936,
+        "num": 438042,
+        "word": "孙颖莎完赛又去加练了",
+        "onboard_time": 1773305662,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32085,
+        "num": 437849,
+        "word": "推进不动产登记跨省通办",
+        "onboard_time": 1773305362,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95319,
+        "num": 437692,
+        "word": "逐玉 业内",
+        "onboard_time": 1773289761,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87836,
+        "num": 437473,
+        "word": "为何很多肾病发现就是晚期",
+        "onboard_time": 1773302901,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87985,
+        "num": 437307,
+        "word": "逐玉云合42.2%",
+        "onboard_time": 1773305783,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86173,
+        "num": 437161,
+        "word": "全红婵白衬衫配裙子发辫精致",
+        "onboard_time": 1773302901,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84299,
+        "num": 436868,
+        "word": "这幼儿园怎么净教些有用的",
+        "onboard_time": 1773306382,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82468,
+        "num": 436721,
+        "word": "恭迎武安侯上线",
+        "onboard_time": 1773306382,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81855,
+        "num": 436483,
+        "word": "王天辰回应生李昀锐",
+        "onboard_time": 1773301521,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81247,
+        "num": 436407,
+        "word": "朝九晚五其实是朝七晚六",
+        "onboard_time": 1773306021,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76640,
+        "num": 436213,
+        "word": "F1官号谁教你这么写文案的",
+        "onboard_time": 1773306441,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75053,
+        "num": 435917,
+        "word": "小时候奇怪的卫生准则",
+        "onboard_time": 1773306501,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树就是植未来#"
+    }
+  }
+}
