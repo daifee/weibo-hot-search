@@ -1,0 +1,410 @@
+{
+  "runTime": 1773295913685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 50631,
+        "num": 1008101,
+        "word": "第3场代表通道",
+        "onboard_time": 1773295221,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412645,
+        "num": 709599,
+        "word": "代表建议取消中考分流",
+        "onboard_time": 1773291922,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12379,
+        "num": 591778,
+        "word": "3月12日两会日程",
+        "onboard_time": 1773271759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170524,
+        "num": 590859,
+        "word": "代表称老师的职责不该向家长转移",
+        "onboard_time": 1773288322,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136929,
+        "num": 587516,
+        "word": "微信语音视频来电能忽略了",
+        "onboard_time": 1773286761,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206458,
+        "num": 585389,
+        "word": "安理会决议要求伊朗停止打海湾国家",
+        "onboard_time": 1773286701,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24942,
+        "num": 582186,
+        "word": "建议提高待遇激励医学生扎根基层",
+        "onboard_time": 1773283940,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136188,
+        "num": 581039,
+        "word": "王濛官宣参加浪姐7",
+        "onboard_time": 1773295821,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21129,
+        "num": 577514,
+        "word": "在春天里奔赴新征程",
+        "onboard_time": 1773285861,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117876,
+        "num": 574425,
+        "word": "孙颖莎vs朱芊曦",
+        "onboard_time": 1773290242,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 864810,
+        "num": 571186,
+        "word": "多邻国绿鸟 离职",
+        "onboard_time": 1773289101,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41930,
+        "num": 569103,
+        "word": "春天薯片也要吃新鲜的",
+        "onboard_time": 1773291922,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 783532,
+        "num": 566035,
+        "word": "德国选手拒绝与俄中选手合影",
+        "onboard_time": 1773293840,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565431,
+        "num": 565431,
+        "word": "辛辛苦苦考了一份辛辛苦苦的工作",
+        "onboard_time": 1773289223,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 438060,
+        "num": 438060,
+        "word": "腾讯视频修改逐玉战报",
+        "onboard_time": 1773288502,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390976,
+        "num": 390976,
+        "word": "逐玉 业内",
+        "onboard_time": 1773289761,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245131,
+        "num": 382627,
+        "word": "随手拍的照片帮我赚一年生活费",
+        "onboard_time": 1773289462,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 378731,
+        "num": 378731,
+        "word": "张凌赫王玉雯 刺棠",
+        "onboard_time": 1773294801,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316414,
+        "num": 316414,
+        "word": "黄婷婷解约后首个综艺",
+        "onboard_time": 1773294022,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60235,
+        "num": 281578,
+        "word": "如何抓住孩子春季长高黄金期",
+        "onboard_time": 1773291922,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79329,
+        "num": 276380,
+        "word": "周杰伦南宁站抢票",
+        "onboard_time": 1773288980,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 393071,
+        "num": 276356,
+        "word": "微信视频通话终于有锁定功能了",
+        "onboard_time": 1773291201,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 275688,
+        "num": 275688,
+        "word": "3名美国富豪强奸性侵60名女性",
+        "onboard_time": 1773236061,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201453,
+        "num": 201453,
+        "word": "袁姗姗演疯了张维伊演爽了",
+        "onboard_time": 1773294921,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199281,
+        "num": 199281,
+        "word": "张凌赫田曦薇头纱照",
+        "onboard_time": 1773271821,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188612,
+        "num": 188612,
+        "word": "美国伊朗冲突",
+        "onboard_time": 1773284541,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184912,
+        "num": 184912,
+        "word": "双胞胎老了后",
+        "onboard_time": 1773288441,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184592,
+        "num": 184592,
+        "word": "逐玉破万 经纪人亲一个",
+        "onboard_time": 1773284481,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179981,
+        "num": 179981,
+        "word": "陈情令演员舞台剧倩女幽魂重聚",
+        "onboard_time": 1773294442,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116002,
+        "num": 152031,
+        "word": "曝美国国防部长5天花501亿美元",
+        "onboard_time": 1773292821,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151180,
+        "num": 151180,
+        "word": "王不染直播关美颜",
+        "onboard_time": 1773292521,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127969,
+        "num": 127969,
+        "word": "逐玉女二 穿越",
+        "onboard_time": 1773288622,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110098,
+        "num": 119058,
+        "word": "星穹铁道欢愉主角首曝",
+        "onboard_time": 1773294200,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58236,
+        "num": 118551,
+        "word": "快船大胜森林狼",
+        "onboard_time": 1773295161,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32750,
+        "num": 118354,
+        "word": "谁懂啊侧面真看不见",
+        "onboard_time": 1773295882,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118272,
+        "num": 118272,
+        "word": "白敬亭小学同学录",
+        "onboard_time": 1773292282,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115378,
+        "num": 115378,
+        "word": "年轻人不知道的交公粮",
+        "onboard_time": 1773290783,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112710,
+        "num": 112710,
+        "word": "章子怡求剧本",
+        "onboard_time": 1773283460,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107947,
+        "num": 107947,
+        "word": "苹果最贵手机要来了",
+        "onboard_time": 1773275002,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 62234,
+        "num": 103094,
+        "word": "全场响起孙颖莎雄起",
+        "onboard_time": 1773295641,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100314,
+        "num": 100314,
+        "word": "姐妹俩互用化妆品双双查出肾病",
+        "onboard_time": 1773293601,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100087,
+        "num": 100087,
+        "word": "一胎双胞胎女儿二胎双胞胎儿子",
+        "onboard_time": 1773289462,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89428,
+        "num": 89428,
+        "word": "鹿晗新商务",
+        "onboard_time": 1773281122,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86284,
+        "num": 86284,
+        "word": "美军舰后勤补给港口被炸",
+        "onboard_time": 1773295821,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83598,
+        "num": 83598,
+        "word": "原来给肉去腥这么简单",
+        "onboard_time": 1773287182,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 79260,
+        "num": 79260,
+        "word": "意识到同事不傻只是在逃避工作",
+        "onboard_time": 1773286221,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72139,
+        "num": 79202,
+        "word": "明日方舟终末地",
+        "onboard_time": 1773292341,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68333,
+        "num": 79157,
+        "word": "原来努力和天赋并存是这种感觉",
+        "onboard_time": 1773293000,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52734,
+        "num": 79109,
+        "word": "杨瀚森G联赛半场8中8",
+        "onboard_time": 1773289223,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66609,
+        "num": 79037,
+        "word": "张杰演唱会抢票",
+        "onboard_time": 1773292582,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树就是植未来#"
+    }
+  }
+}
