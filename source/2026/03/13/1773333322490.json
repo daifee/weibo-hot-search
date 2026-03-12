@@ -1,0 +1,410 @@
+{
+  "runTime": 1773333322490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 115919,
+        "num": 755283,
+        "word": "中方回应特朗普计划访华",
+        "onboard_time": 1773309261,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92112,
+        "num": 564899,
+        "word": "建议允许公积金直接抵首付还房贷",
+        "onboard_time": 1773325942,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20653,
+        "num": 444865,
+        "word": "读懂中国经济的长远考量",
+        "onboard_time": 1773326302,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134580,
+        "num": 443644,
+        "word": "王楚钦回应出现失误",
+        "onboard_time": 1773328462,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60485,
+        "num": 435719,
+        "word": "法拉利来中国也得进货",
+        "onboard_time": 1773332178,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169624,
+        "num": 432822,
+        "word": "美国防部被曝龙虾门",
+        "onboard_time": 1773327623,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68784,
+        "num": 429006,
+        "word": "伊朗向以发射多型号导弹",
+        "onboard_time": 1773330141,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41667,
+        "num": 421793,
+        "word": "代表推进小班化教学建议被采纳",
+        "onboard_time": 1773331220,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19183,
+        "num": 416550,
+        "word": "世界从中国两会看到新机遇",
+        "onboard_time": 1773326003,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19767,
+        "num": 414121,
+        "word": "随身带针的人大代表回应上热搜",
+        "onboard_time": 1773319701,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 477346,
+        "num": 408585,
+        "word": "樊长玉取关言正",
+        "onboard_time": 1773329301,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404443,
+        "num": 404443,
+        "word": "伊朗最高领袖公开声明",
+        "onboard_time": 1773322944,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246359,
+        "num": 246359,
+        "word": "韩网热议韩国掀起中国热",
+        "onboard_time": 1773326362,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208353,
+        "num": 245449,
+        "word": "伊朗最高领袖要求地区美军基地关闭",
+        "onboard_time": 1773326543,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135244,
+        "num": 242469,
+        "word": "西安不倒翁小姐姐宣布离职",
+        "onboard_time": 1773312620,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101632,
+        "num": 240837,
+        "word": "李维嘉或将你好星期六常驻",
+        "onboard_time": 1773320002,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98449,
+        "num": 238685,
+        "word": "乃万演唱会取消",
+        "onboard_time": 1773321803,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93207,
+        "num": 236949,
+        "word": "伊朗的策略越来越清晰",
+        "onboard_time": 1773329722,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84773,
+        "num": 235634,
+        "word": "天塌了山姆的三文鱼原来不能生吃",
+        "onboard_time": 1773309622,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83354,
+        "num": 233316,
+        "word": "飞机上到处求摸摸的社交悍匪小狗",
+        "onboard_time": 1773321863,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265732,
+        "num": 230762,
+        "word": "男子被遗忘核磁共振机涉事医生发声",
+        "onboard_time": 1773325763,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229848,
+        "num": 229848,
+        "word": "女子腰臀部疼了8年终于找到元凶",
+        "onboard_time": 1773320542,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223392,
+        "num": 223392,
+        "word": "强吻亦是吻",
+        "onboard_time": 1773326662,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125995,
+        "num": 223165,
+        "word": "20岁小伙泡沫尿1年多不重视致透析",
+        "onboard_time": 1773319341,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161238,
+        "num": 222951,
+        "word": "逐玉",
+        "onboard_time": 1773309861,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87374,
+        "num": 222414,
+        "word": "肾病恶化身体会发3次信号",
+        "onboard_time": 1773324744,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72849,
+        "num": 222095,
+        "word": "微信3大新功能",
+        "onboard_time": 1773303922,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67969,
+        "num": 221734,
+        "word": "白鹿把孩子塞到王鹤棣怀里",
+        "onboard_time": 1773313521,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67123,
+        "num": 221269,
+        "word": "岳雨婷 司宫令",
+        "onboard_time": 1773323243,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61222,
+        "num": 221098,
+        "word": "男子误吞12厘米筷子忍了8年才取出",
+        "onboard_time": 1773304761,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174365,
+        "num": 220590,
+        "word": "美军福特号航母发生火灾",
+        "onboard_time": 1773331759,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 59548,
+        "num": 220304,
+        "word": "AG战胜DYG",
+        "onboard_time": 1773324263,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42322,
+        "num": 219667,
+        "word": "公积金制度改革加速中",
+        "onboard_time": 1773324383,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58225,
+        "num": 219526,
+        "word": "衣服洗不干净的原因找到了",
+        "onboard_time": 1773319642,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52517,
+        "num": 219064,
+        "word": "霍尔木兹海峡将继续关闭",
+        "onboard_time": 1773323361,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51598,
+        "num": 218655,
+        "word": "陈赫录综艺全身紫外线过敏",
+        "onboard_time": 1773324083,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51501,
+        "num": 218531,
+        "word": "张凌赫用了谢征进行曲",
+        "onboard_time": 1773327741,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50537,
+        "num": 217995,
+        "word": "Apple50周年",
+        "onboard_time": 1773330979,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46540,
+        "num": 217597,
+        "word": "谢征强吻樊长玉",
+        "onboard_time": 1773314000,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33342,
+        "num": 217081,
+        "word": "于谦也想要孙颖莎的小卡",
+        "onboard_time": 1773324202,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 45661,
+        "num": 216928,
+        "word": "伊朗空军指挥官遭袭身亡",
+        "onboard_time": 1773312322,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45359,
+        "num": 216677,
+        "word": "逐玉预告",
+        "onboard_time": 1773325702,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44416,
+        "num": 216231,
+        "word": "伊朗新任最高领袖称或开辟新战线",
+        "onboard_time": 1773329961,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43661,
+        "num": 215808,
+        "word": "ITZY召回打歌",
+        "onboard_time": 1773315680,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 43598,
+        "num": 215269,
+        "word": "看到了最符合人设的一集",
+        "onboard_time": 1773326543,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43528,
+        "num": 214835,
+        "word": "中方回应是否有中国民用商船遭袭",
+        "onboard_time": 1773324923,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40889,
+        "num": 214720,
+        "word": "AG对战DYG",
+        "onboard_time": 1773319220,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39873,
+        "num": 214337,
+        "word": "美以无人机在伊朗接连折戟",
+        "onboard_time": 1773325282,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38415,
+        "num": 213954,
+        "word": "肖战白鹿白敬亭 谁说内娱没有齐舞",
+        "onboard_time": 1773302422,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33689,
+        "num": 213476,
+        "word": "中国女篮不敌比利时女篮",
+        "onboard_time": 1773322944,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大四次会议闭幕#"
+    }
+  }
+}
