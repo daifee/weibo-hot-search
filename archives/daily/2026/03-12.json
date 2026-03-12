@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773302601445,
+  "endTime": 1773305776044,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -17,6 +17,14 @@
       "onboard_time": 1773271821,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1032557,
+      "num": 559132,
+      "word": "易梦体质",
+      "onboard_time": 1773300562,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 864810,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 809860,
-      "num": 462446,
+      "num": 547840,
       "word": "大学生4个馒头卖了30000元",
       "onboard_time": 1773300020,
       "rank": 11,
@@ -57,6 +65,14 @@
       "onboard_time": 1773293840,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 775538,
+      "num": 553022,
+      "word": "爆剧 养老剧",
+      "onboard_time": 1773302120,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 770383,
@@ -83,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 665547,
+      "num": 591814,
+      "word": "首批能活到1000岁的人或已出生",
+      "onboard_time": 1773301702,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 641603,
       "num": 834465,
       "word": "辛辛苦苦考了一份辛辛苦苦的工作",
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 622967,
-      "num": 467649,
+      "num": 519900,
       "word": "杨幂把海洋穿身上了",
       "onboard_time": 1773297380,
       "rank": 20,
@@ -137,6 +161,14 @@
       "onboard_time": 1773277223,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 523135,
+      "num": 523135,
+      "word": "肖战白鹿白敬亭 谁说内娱没有齐舞",
+      "onboard_time": 1773302422,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 498968,
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 375171,
-      "num": 459206,
+      "num": 519084,
       "word": "改剧本 加流量演员",
       "onboard_time": 1773299540,
       "rank": 27,
@@ -304,6 +336,14 @@
       "word": "伊总统提出结束战争3大必要条件",
       "onboard_time": 1773274461,
       "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 349586,
+      "num": 582523,
+      "word": "伊朗用最强导弹专打以色列",
+      "onboard_time": 1773299601,
+      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -395,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 278716,
+      "num": 522807,
+      "word": "张凌赫被田曦薇摸耳朵的反应",
+      "onboard_time": 1773300141,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274217,
       "num": 538836,
       "word": "逐玉",
@@ -411,20 +459,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 268640,
-      "num": 461374,
-      "word": "张凌赫被田曦薇摸耳朵的反应",
-      "onboard_time": 1773300141,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 266609,
-      "num": 485001,
+      "num": 518454,
       "word": "熊 这辈子吃的最贵的苹果",
       "onboard_time": 1773296721,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 254584,
+      "num": 721996,
+      "word": "建议禁止流量月底清零",
+      "onboard_time": 1773301642,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 253800,
@@ -451,12 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226486,
-      "num": 454275,
-      "word": "易梦体质",
-      "onboard_time": 1773300562,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 230258,
+      "num": 519600,
+      "word": "男子误吞12厘米筷子忍了8年才取出",
+      "onboard_time": 1773304761,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221914,
@@ -476,7 +524,7 @@
     },
     {
       "raw_hot": 218572,
-      "num": 458636,
+      "num": 517261,
       "word": "吃全麦面包减肥的人天塌了",
       "onboard_time": 1773299722,
       "rank": 30,
@@ -484,7 +532,7 @@
     },
     {
       "raw_hot": 217585,
-      "num": 467412,
+      "num": 516335,
       "word": "儿媳一怀孕婆婆立马报班学月嫂",
       "onboard_time": 1773296001,
       "rank": 22,
@@ -521,6 +569,14 @@
       "onboard_time": 1773288322,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 199447,
+      "num": 521665,
+      "word": "微信3大新功能",
+      "onboard_time": 1773303922,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 195437,
@@ -628,7 +684,7 @@
     },
     {
       "raw_hot": 157873,
-      "num": 466643,
+      "num": 506294,
       "word": "60斤和110斤互换饮食的一天",
       "onboard_time": 1773298221,
       "rank": 27,
@@ -657,22 +713,6 @@
       "onboard_time": 1773274341,
       "rank": 4,
       "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 156504,
-      "num": 520914,
-      "word": "首批能活到1000岁的人或已出生",
-      "onboard_time": 1773301702,
-      "rank": 6,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 156337,
-      "num": 457032,
-      "word": "伊朗用最强导弹专打以色列",
-      "onboard_time": 1773299601,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155526,
@@ -747,6 +787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138758,
+      "num": 515131,
+      "word": "保时捷车主回应车窗被砸取AED救人",
+      "onboard_time": 1773305662,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134543,
       "num": 535040,
       "word": "田曦薇逐玉破万贺图",
@@ -804,7 +852,7 @@
     },
     {
       "raw_hot": 120312,
-      "num": 120312,
+      "num": 507901,
       "word": "王天辰回应生李昀锐",
       "onboard_time": 1773301521,
       "rank": 34,
@@ -841,14 +889,6 @@
       "onboard_time": 1773282500,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 114093,
-      "num": 497685,
-      "word": "建议禁止流量月底清零",
-      "onboard_time": 1773301642,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 113945,
@@ -907,12 +947,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108988,
+      "num": 514504,
+      "word": "董卿何赛飞 初见她漫步溪桥下",
+      "onboard_time": 1773303261,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108758,
       "num": 108758,
       "word": "无期迷途",
       "onboard_time": 1773290242,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106144,
+      "num": 513524,
+      "word": "乐华 中韩男团",
+      "onboard_time": 1773303201,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 105209,
@@ -939,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100103,
+      "num": 513040,
+      "word": "张翅直播",
+      "onboard_time": 1773303261,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99859,
       "num": 96007,
       "word": "爆剧标准",
@@ -961,6 +1025,14 @@
       "onboard_time": 1773289223,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98739,
+      "num": 514016,
+      "word": "本田突发暴雷",
+      "onboard_time": 1773305599,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 97199,
@@ -995,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96510,
-      "num": 95272,
-      "word": "肖战白鹿白敬亭 谁说内娱没有齐舞",
-      "onboard_time": 1773302422,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 95963,
       "num": 464584,
       "word": "邓凯孔雪儿情人节封面",
@@ -1035,14 +1099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 94786,
-      "num": 94786,
-      "word": "爆剧 养老剧",
-      "onboard_time": 1773302120,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 94441,
       "num": 829473,
       "word": "宋雨琦于谦不新鲜才怪",
@@ -1067,12 +1123,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92178,
+      "num": 509532,
+      "word": "伊朗调整战略",
+      "onboard_time": 1773301582,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90823,
       "num": 90823,
       "word": "iPhoneFold起售价约1.4万",
       "onboard_time": 1773288201,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 90515,
+      "num": 508885,
+      "word": "为何很多肾病发现就是晚期",
+      "onboard_time": 1773302901,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 89181,
+      "num": 508436,
+      "word": "全红婵白衬衫配裙子发辫精致",
+      "onboard_time": 1773302901,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 89041,
@@ -1116,7 +1196,7 @@
     },
     {
       "raw_hot": 86176,
-      "num": 86176,
+      "num": 507080,
       "word": "BFX下路回应Bin",
       "onboard_time": 1773301702,
       "rank": 43,
@@ -1411,6 +1491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57566,
+      "num": 521093,
+      "word": "司法部将在全国统一推行扫码入企",
+      "onboard_time": 1773305422,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57137,
       "num": 526787,
       "word": "你更愿意喝9.9元还是30元的咖啡",
@@ -1491,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51490,
+      "num": 509885,
+      "word": "通过政府立法解决内卷式竞争",
+      "onboard_time": 1773305722,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50786,
       "num": 464812,
       "word": "孙颖莎回应3比0战胜朱芊曦",
@@ -1555,12 +1651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45049,
+      "num": 511157,
+      "word": "孙颖莎不听不听和尚念经",
+      "onboard_time": 1773305662,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44707,
       "num": 99723,
       "word": "杨紫青海生态文化传播大使",
       "onboard_time": 1773250457,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43341,
+      "num": 1006934,
+      "word": "十四届全国人大四次会议闭幕会",
+      "onboard_time": 1773297080,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42461,
@@ -1579,8 +1691,16 @@
       "category": "美食"
     },
     {
+      "raw_hot": 41659,
+      "num": 550049,
+      "word": "今年加快研究人工智能立法",
+      "onboard_time": 1773304521,
+      "rank": 12,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 41518,
-      "num": 488988,
+      "num": 568618,
       "word": "十五五规划纲要表决通过",
       "onboard_time": 1773300441,
       "rank": 8,
@@ -1628,7 +1748,7 @@
     },
     {
       "raw_hot": 35585,
-      "num": 477394,
+      "num": 564759,
       "word": "表决通过政府工作报告",
       "onboard_time": 1773299722,
       "rank": 9,
@@ -1652,7 +1772,7 @@
     },
     {
       "raw_hot": 34357,
-      "num": 550700,
+      "num": 588663,
       "word": "第3场部长通道",
       "onboard_time": 1773301222,
       "rank": 4,
@@ -1699,6 +1819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30942,
+      "num": 512003,
+      "word": "孙颖莎完赛又去加练了",
+      "onboard_time": 1773305662,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30156,
       "num": 96716,
       "word": "宋兆普说两年内高额彩礼有望取消",
@@ -1713,6 +1841,14 @@
       "onboard_time": 1773299661,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27155,
+      "num": 510776,
+      "word": "推进不动产登记跨省通办",
+      "onboard_time": 1773305362,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26194,
@@ -1808,14 +1944,6 @@
       "word": "解读国家账本看数字背后",
       "onboard_time": 1773236184,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 16702,
-      "num": 1002672,
-      "word": "十四届全国人大四次会议闭幕会",
-      "onboard_time": 1773297080,
-      "rank": 0,
       "category": "国内时政"
     },
     {
