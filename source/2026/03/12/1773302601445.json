@@ -1,0 +1,410 @@
+{
+  "runTime": 1773302601445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16702,
+        "num": 1002672,
+        "word": "十四届全国人大四次会议闭幕会",
+        "onboard_time": 1773297080,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205176,
+        "num": 712615,
+        "word": "女孩回老家把祖屋改造成雨林民宿",
+        "onboard_time": 1773297080,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3484,
+        "num": 571556,
+        "word": "3月12日两会日程",
+        "onboard_time": 1773271759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264126,
+        "num": 561653,
+        "word": "镖人 第二部",
+        "onboard_time": 1773296721,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34357,
+        "num": 550700,
+        "word": "第3场部长通道",
+        "onboard_time": 1773301222,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195615,
+        "num": 533847,
+        "word": "安理会决议要求伊朗停止打海湾国家",
+        "onboard_time": 1773286701,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156504,
+        "num": 520914,
+        "word": "首批能活到1000岁的人或已出生",
+        "onboard_time": 1773301702,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114093,
+        "num": 497685,
+        "word": "建议禁止流量月底清零",
+        "onboard_time": 1773301642,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41518,
+        "num": 475486,
+        "word": "十五五规划纲要表决通过",
+        "onboard_time": 1773300441,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26666,
+        "num": 472673,
+        "word": "表决通过政府工作报告",
+        "onboard_time": 1773299722,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 809860,
+        "num": 442411,
+        "word": "大学生4个馒头卖了30000元",
+        "onboard_time": 1773300020,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441432,
+        "num": 441432,
+        "word": "多邻国绿鸟 离职",
+        "onboard_time": 1773289101,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 298707,
+        "num": 298707,
+        "word": "德国选手拒绝与俄中选手合影",
+        "onboard_time": 1773293840,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268640,
+        "num": 268640,
+        "word": "张凌赫被田曦薇摸耳朵的反应",
+        "onboard_time": 1773300141,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259005,
+        "num": 259005,
+        "word": "熊 这辈子吃的最贵的苹果",
+        "onboard_time": 1773296721,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254042,
+        "num": 254042,
+        "word": "辛辛苦苦考了一份辛辛苦苦的工作",
+        "onboard_time": 1773289223,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226486,
+        "num": 226486,
+        "word": "易梦体质",
+        "onboard_time": 1773300562,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156337,
+        "num": 226015,
+        "word": "伊朗用最强导弹专打以色列",
+        "onboard_time": 1773299601,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 480732,
+        "num": 223632,
+        "word": "浪姐7",
+        "onboard_time": 1773299422,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69193,
+        "num": 221836,
+        "word": "批准2026年中央预算",
+        "onboard_time": 1773301822,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 480535,
+        "num": 221550,
+        "word": "杨幂把海洋穿身上了",
+        "onboard_time": 1773297380,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407574,
+        "num": 218921,
+        "word": "张凌赫王玉雯 刺棠",
+        "onboard_time": 1773294801,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218572,
+        "num": 218572,
+        "word": "吃全麦面包减肥的人天塌了",
+        "onboard_time": 1773299722,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 375171,
+        "num": 218180,
+        "word": "改剧本 加流量演员",
+        "onboard_time": 1773299540,
+        "rank": 23,
+        "category": "作品衍生,民生新闻"
+      },
+      {
+        "raw_hot": 144240,
+        "num": 217375,
+        "word": "微信语音视频来电能忽略了",
+        "onboard_time": 1773286761,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 258654,
+        "num": 217375,
+        "word": "王濛官宣参加浪姐7",
+        "onboard_time": 1773295821,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217345,
+        "num": 217345,
+        "word": "腾讯视频修改逐玉战报",
+        "onboard_time": 1773288502,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173461,
+        "num": 173461,
+        "word": "儿媳一怀孕婆婆立马报班学月嫂",
+        "onboard_time": 1773296001,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158143,
+        "num": 158143,
+        "word": "逐玉 业内",
+        "onboard_time": 1773289761,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147432,
+        "num": 147432,
+        "word": "美军舰后勤补给港口被炸",
+        "onboard_time": 1773295821,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143089,
+        "num": 143089,
+        "word": "代表建议取消中考分流",
+        "onboard_time": 1773291922,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140798,
+        "num": 140798,
+        "word": "袁姗姗演疯了张维伊演爽了",
+        "onboard_time": 1773294921,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135047,
+        "num": 135047,
+        "word": "微信视频通话终于有锁定功能了",
+        "onboard_time": 1773291201,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133480,
+        "num": 133480,
+        "word": "60斤和110斤互换饮食的一天",
+        "onboard_time": 1773298221,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120312,
+        "num": 120312,
+        "word": "王天辰回应生李昀锐",
+        "onboard_time": 1773301521,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111354,
+        "num": 111354,
+        "word": "逐玉破万 经纪人亲一个",
+        "onboard_time": 1773284481,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95339,
+        "num": 95339,
+        "word": "姐妹俩互用化妆品双双查出肾病",
+        "onboard_time": 1773293601,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96510,
+        "num": 95272,
+        "word": "肖战白鹿白敬亭 谁说内娱没有齐舞",
+        "onboard_time": 1773302422,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54062,
+        "num": 94831,
+        "word": "孙颖莎时刻保持微笑",
+        "onboard_time": 1773302301,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24482,
+        "num": 94800,
+        "word": "亲妈生病住院后妈忙前忙后照顾",
+        "onboard_time": 1773301642,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94786,
+        "num": 94786,
+        "word": "爆剧 养老剧",
+        "onboard_time": 1773302120,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94696,
+        "num": 94696,
+        "word": "吴京 你看又要传绯闻了",
+        "onboard_time": 1773297321,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40630,
+        "num": 88687,
+        "word": "白敬亭小学同学录",
+        "onboard_time": 1773292282,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86176,
+        "num": 86176,
+        "word": "BFX下路回应Bin",
+        "onboard_time": 1773301702,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91172,
+        "num": 84655,
+        "word": "田曦薇情商",
+        "onboard_time": 1773297620,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82943,
+        "num": 82943,
+        "word": "双胞胎老了后",
+        "onboard_time": 1773288441,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78839,
+        "num": 78839,
+        "word": "黄婷婷解约后首个综艺",
+        "onboard_time": 1773294022,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74234,
+        "num": 74234,
+        "word": "曝美国国防部长5天花501亿美元",
+        "onboard_time": 1773292821,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72457,
+        "num": 72457,
+        "word": "邓凯孔雪儿情人节封面",
+        "onboard_time": 1773298641,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71005,
+        "num": 71005,
+        "word": "代表称老师的职责不该向家长转移",
+        "onboard_time": 1773288322,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树就是植未来#"
+    }
+  }
+}
