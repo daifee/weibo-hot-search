@@ -1,0 +1,410 @@
+{
+  "runTime": 1773321414969,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 39418,
+        "num": 1006306,
+        "word": "专家建议放宽公积金提取限制",
+        "onboard_time": 1773320420,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 260975,
+        "num": 742396,
+        "word": "中方回应特朗普计划访华",
+        "onboard_time": 1773309261,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56493,
+        "num": 590996,
+        "word": "中国109项硬核项目来了",
+        "onboard_time": 1773314000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220746,
+        "num": 220746,
+        "word": "中国女篮vs比利时女篮",
+        "onboard_time": 1773317661,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21466,
+        "num": 220651,
+        "word": "十四届全国人大四次会议闭幕会",
+        "onboard_time": 1773297080,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303476,
+        "num": 220343,
+        "word": "伊朗空军指挥官遭袭身亡",
+        "onboard_time": 1773312322,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97365,
+        "num": 220042,
+        "word": "司法部将在全国统一推行扫码入企",
+        "onboard_time": 1773305422,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31155,
+        "num": 219696,
+        "word": "生态环境部部长现场拿出一枚芯片",
+        "onboard_time": 1773320420,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52209,
+        "num": 219514,
+        "word": "我国人均有100棵树",
+        "onboard_time": 1773313762,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93990,
+        "num": 219160,
+        "word": "两会期间单位食堂少了个碗",
+        "onboard_time": 1773315861,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 831984,
+        "num": 218947,
+        "word": "女子腰臀部疼了8年终于找到元凶",
+        "onboard_time": 1773320542,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555062,
+        "num": 218791,
+        "word": "西安不倒翁小姐姐宣布离职",
+        "onboard_time": 1773312620,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516432,
+        "num": 218465,
+        "word": "台湾地震",
+        "onboard_time": 1773318382,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 363811,
+        "num": 217976,
+        "word": "AG对战DYG",
+        "onboard_time": 1773319220,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273383,
+        "num": 217947,
+        "word": "金正恩和女儿体验手枪射击",
+        "onboard_time": 1773316883,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272903,
+        "num": 217539,
+        "word": "王楚钦vs弗朗西斯卡",
+        "onboard_time": 1773319220,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251520,
+        "num": 217171,
+        "word": "天塌了山姆的三文鱼原来不能生吃",
+        "onboard_time": 1773309622,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186712,
+        "num": 216959,
+        "word": "微信3大新功能",
+        "onboard_time": 1773303922,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 56110,
+        "num": 216684,
+        "word": "全新坦克700伴你青云直上",
+        "onboard_time": 1773317901,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170145,
+        "num": 216314,
+        "word": "ITZY召回打歌",
+        "onboard_time": 1773315680,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 543823,
+        "num": 216226,
+        "word": "谢征强吻樊长玉",
+        "onboard_time": 1773314000,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305039,
+        "num": 215912,
+        "word": "男子误吞12厘米筷子忍了8年才取出",
+        "onboard_time": 1773304761,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215752,
+        "num": 215752,
+        "word": "20岁小伙泡沫尿1年多不重视致透析",
+        "onboard_time": 1773319341,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198377,
+        "num": 215647,
+        "word": "白鹿把孩子塞到王鹤棣怀里",
+        "onboard_time": 1773313521,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161649,
+        "num": 215634,
+        "word": "樊长玉 腮红",
+        "onboard_time": 1773314782,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137534,
+        "num": 215454,
+        "word": "美国海军已逃离伊朗周边海域",
+        "onboard_time": 1773306562,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143535,
+        "num": 215330,
+        "word": "张凌赫没牵上然后垂下的手",
+        "onboard_time": 1773318621,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136352,
+        "num": 215263,
+        "word": "逐玉神级镜头加一",
+        "onboard_time": 1773320483,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129666,
+        "num": 215150,
+        "word": "大学生4个馒头卖了30000元",
+        "onboard_time": 1773300020,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117908,
+        "num": 215030,
+        "word": "肖战白鹿白敬亭 谁说内娱没有齐舞",
+        "onboard_time": 1773302422,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116592,
+        "num": 214901,
+        "word": "李维嘉或将你好星期六常驻",
+        "onboard_time": 1773320002,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107880,
+        "num": 214794,
+        "word": "衣服洗不干净的原因找到了",
+        "onboard_time": 1773319642,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123497,
+        "num": 214686,
+        "word": "网传琅琊榜3吴磊换张凌赫",
+        "onboard_time": 1773311362,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107507,
+        "num": 214657,
+        "word": "追觅汽车价格",
+        "onboard_time": 1773315921,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 105832,
+        "num": 214543,
+        "word": "鞠婧祎彝族服饰造型",
+        "onboard_time": 1773307522,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104478,
+        "num": 214387,
+        "word": "没想到青春有你2还有售后",
+        "onboard_time": 1773317181,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100096,
+        "num": 214357,
+        "word": "伊朗称袭击了美国油轮",
+        "onboard_time": 1773314121,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101027,
+        "num": 214155,
+        "word": "逐玉网友有偿求经纪人接吻直拍",
+        "onboard_time": 1773316702,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96035,
+        "num": 214108,
+        "word": "女子花10多元为姥姥爆改钻石拐杖",
+        "onboard_time": 1773320961,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23907,
+        "num": 213965,
+        "word": "明年3月起预包装食品不得标注0添加",
+        "onboard_time": 1773320542,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97447,
+        "num": 213884,
+        "word": "逐玉 弃养一头牛",
+        "onboard_time": 1773315802,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89917,
+        "num": 213730,
+        "word": "王楚钦11比3弗朗西斯卡",
+        "onboard_time": 1773321083,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88522,
+        "num": 213699,
+        "word": "谢征切大号",
+        "onboard_time": 1773315441,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86595,
+        "num": 213505,
+        "word": "温瑞博掀翻世界第二",
+        "onboard_time": 1773319220,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86228,
+        "num": 213437,
+        "word": "保时捷车主回应车窗被砸取AED救人",
+        "onboard_time": 1773305662,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80459,
+        "num": 213319,
+        "word": "爆剧 养老剧",
+        "onboard_time": 1773302120,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74247,
+        "num": 213240,
+        "word": "种地吧直播",
+        "onboard_time": 1773310401,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73798,
+        "num": 213091,
+        "word": "伊朗自曝研究美军20年",
+        "onboard_time": 1773311540,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70665,
+        "num": 213036,
+        "word": "吃全麦面包减肥的人天塌了",
+        "onboard_time": 1773299722,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68360,
+        "num": 212962,
+        "word": "吴艳妮决赛退赛",
+        "onboard_time": 1773308241,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#两个德胜村同一份牵挂#"
+    }
+  }
+}

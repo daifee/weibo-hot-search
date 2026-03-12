@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773316244263,
+  "endTime": 1773321414969,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -65,6 +65,14 @@
       "onboard_time": 1773242662,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 831984,
+      "num": 218947,
+      "word": "女子腰臀部疼了8年终于找到元凶",
+      "onboard_time": 1773320542,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 822595,
@@ -235,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 516432,
+      "num": 218465,
+      "word": "台湾地震",
+      "onboard_time": 1773318382,
+      "rank": 12,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 498968,
       "num": 831894,
       "word": "逐玉破万 经纪人亲一个",
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 426363,
-      "num": 706015,
+      "num": 742396,
       "word": "中方回应特朗普计划访华",
       "onboard_time": 1773309261,
       "rank": 35,
@@ -457,6 +473,14 @@
       "onboard_time": 1773299540,
       "rank": 27,
       "category": "作品衍生,民生新闻"
+    },
+    {
+      "raw_hot": 363811,
+      "num": 217976,
+      "word": "AG对战DYG",
+      "onboard_time": 1773319220,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 353639,
@@ -587,6 +611,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273383,
+      "num": 217947,
+      "word": "金正恩和女儿体验手枪射击",
+      "onboard_time": 1773316883,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 272903,
+      "num": 217539,
+      "word": "王楚钦vs弗朗西斯卡",
+      "onboard_time": 1773319220,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268957,
       "num": 550375,
       "word": "伊朗多弹头导弹袭击美军基地",
@@ -643,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220746,
+      "num": 220746,
+      "word": "中国女篮vs比利时女篮",
+      "onboard_time": 1773317661,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220409,
       "num": 528927,
       "word": "日本大阪一地下管道冲出地面18米",
@@ -673,6 +721,14 @@
       "onboard_time": 1773315680,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 215752,
+      "num": 215752,
+      "word": "20岁小伙泡沫尿1年多不重视致透析",
+      "onboard_time": 1773319341,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206608,
@@ -811,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161649,
+      "num": 657958,
+      "word": "樊长玉 腮红",
+      "onboard_time": 1773314782,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159940,
       "num": 822501,
       "word": "原来给肉去腥这么简单",
@@ -923,12 +987,28 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 143535,
+      "num": 215330,
+      "word": "张凌赫没牵上然后垂下的手",
+      "onboard_time": 1773318621,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142385,
       "num": 293922,
       "word": "23岁牛散5000万买股浮盈超4100万",
       "onboard_time": 1773275721,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136352,
+      "num": 215263,
+      "word": "逐玉神级镜头加一",
+      "onboard_time": 1773320483,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 134543,
@@ -969,14 +1049,6 @@
       "onboard_time": 1773234983,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 129888,
-      "num": 657958,
-      "word": "樊长玉 腮红",
-      "onboard_time": 1773314782,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 128451,
@@ -1057,6 +1129,14 @@
       "onboard_time": 1773306382,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116592,
+      "num": 214901,
+      "word": "李维嘉或将你好星期六常驻",
+      "onboard_time": 1773320002,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 116002,
@@ -1179,6 +1259,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107880,
+      "num": 214794,
+      "word": "衣服洗不干净的原因找到了",
+      "onboard_time": 1773319642,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107507,
+      "num": 656605,
+      "word": "追觅汽车价格",
+      "onboard_time": 1773315921,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 107319,
       "num": 687551,
       "word": "NBA常规赛",
@@ -1193,6 +1289,14 @@
       "onboard_time": 1773297321,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104478,
+      "num": 214387,
+      "word": "没想到青春有你2还有售后",
+      "onboard_time": 1773317181,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 103583,
@@ -1217,6 +1321,14 @@
       "onboard_time": 1773311661,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101027,
+      "num": 214155,
+      "word": "逐玉网友有偿求经纪人接吻直拍",
+      "onboard_time": 1773316702,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 100695,
@@ -1267,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97447,
+      "num": 213884,
+      "word": "逐玉 弃养一头牛",
+      "onboard_time": 1773315802,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97199,
       "num": 292506,
       "word": "伊朗与黎巴嫩真主党联合作战",
@@ -1297,6 +1417,14 @@
       "onboard_time": 1773284181,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96035,
+      "num": 214108,
+      "word": "女子花10多元为姥姥爆改钻石拐杖",
+      "onboard_time": 1773320961,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95963,
@@ -1371,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93990,
+      "num": 671692,
+      "word": "两会期间单位食堂少了个碗",
+      "onboard_time": 1773315861,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93681,
       "num": 390527,
       "word": "月薪7000元招人种地",
@@ -1435,6 +1571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89917,
+      "num": 213730,
+      "word": "王楚钦11比3弗朗西斯卡",
+      "onboard_time": 1773321083,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89181,
       "num": 508436,
       "word": "全红婵白衬衫配裙子发辫精致",
@@ -1497,6 +1641,14 @@
       "onboard_time": 1773285080,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 86595,
+      "num": 213505,
+      "word": "温瑞博掀翻世界第二",
+      "onboard_time": 1773319220,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 86534,
@@ -1673,14 +1825,6 @@
       "onboard_time": 1773315141,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 73679,
-      "num": 656605,
-      "word": "追觅汽车价格",
-      "onboard_time": 1773315921,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 72791,
@@ -1971,6 +2115,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56493,
+      "num": 711523,
+      "word": "中国109项硬核项目来了",
+      "onboard_time": 1773314000,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 56110,
+      "num": 216684,
+      "word": "全新坦克700伴你青云直上",
+      "onboard_time": 1773317901,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55777,
       "num": 525555,
       "word": "怪不得实验室不让用筷子当玻璃棒",
@@ -2027,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52209,
+      "num": 674353,
+      "word": "我国人均有100棵树",
+      "onboard_time": 1773313762,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52064,
       "num": 524378,
       "word": "不二之臣",
@@ -2041,14 +2209,6 @@
       "onboard_time": 1773313399,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50980,
-      "num": 711523,
-      "word": "中国109项硬核项目来了",
-      "onboard_time": 1773314000,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50786,
@@ -2097,22 +2257,6 @@
       "onboard_time": 1773244340,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 49219,
-      "num": 671692,
-      "word": "两会期间单位食堂少了个碗",
-      "onboard_time": 1773315861,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 49179,
-      "num": 674353,
-      "word": "我国人均有100棵树",
-      "onboard_time": 1773313762,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49162,
@@ -2209,6 +2353,14 @@
       "onboard_time": 1773307162,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39418,
+      "num": 1006306,
+      "word": "专家建议放宽公积金提取限制",
+      "onboard_time": 1773320420,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38823,
@@ -2339,6 +2491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31155,
+      "num": 219696,
+      "word": "生态环境部部长现场拿出一枚芯片",
+      "onboard_time": 1773320420,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30792,
       "num": 101637,
       "word": "孟子义看得我想吃砂糖橘了",
@@ -2417,6 +2577,14 @@
       "onboard_time": 1773238164,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 23907,
+      "num": 213965,
+      "word": "明年3月起预包装食品不得标注0添加",
+      "onboard_time": 1773320542,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23412,
