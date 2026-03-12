@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773342260172,
+  "endTime": 1773343035966,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -31107,19 +31107,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8894,
+      "num": 60470,
+      "word": "春天里的中国向新而行",
+      "onboard_time": 1773326003,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8806,
       "num": 192814,
       "word": "建议开展反家暴法全国执法检查",
       "onboard_time": 1772865561,
       "rank": 19,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 8243,
-      "num": 60470,
-      "word": "春天里的中国向新而行",
-      "onboard_time": 1773326003,
-      "rank": 2,
       "category": "国内时政"
     },
     {
