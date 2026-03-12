@@ -1,0 +1,410 @@
+{
+  "runTime": 1773299211987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13298,
+        "num": 1002127,
+        "word": "十四届全国人大四次会议闭幕会",
+        "onboard_time": 1773297080,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198085,
+        "num": 728666,
+        "word": "代表建议取消中考分流",
+        "onboard_time": 1773291922,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8805,
+        "num": 584711,
+        "word": "3月12日两会日程",
+        "onboard_time": 1773271759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275129,
+        "num": 584293,
+        "word": "镖人 第二部",
+        "onboard_time": 1773296721,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150428,
+        "num": 583157,
+        "word": "微信语音视频来电能忽略了",
+        "onboard_time": 1773286761,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 239991,
+        "num": 581042,
+        "word": "安理会决议要求伊朗停止打海湾国家",
+        "onboard_time": 1773286701,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130822,
+        "num": 580146,
+        "word": "代表称老师的职责不该向家长转移",
+        "onboard_time": 1773288322,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 454097,
+        "num": 579358,
+        "word": "王濛官宣参加浪姐7",
+        "onboard_time": 1773295821,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122947,
+        "num": 578367,
+        "word": "女孩回老家把祖屋改造成雨林民宿",
+        "onboard_time": 1773297080,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64877,
+        "num": 577087,
+        "word": "雷军称小米能有效应对内存涨价冲击",
+        "onboard_time": 1773298761,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 576151,
+        "num": 576151,
+        "word": "多邻国绿鸟 离职",
+        "onboard_time": 1773289101,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 548517,
+        "num": 548517,
+        "word": "袁姗姗演疯了张维伊演爽了",
+        "onboard_time": 1773294921,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505443,
+        "num": 505443,
+        "word": "德国选手拒绝与俄中选手合影",
+        "onboard_time": 1773293840,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411225,
+        "num": 503124,
+        "word": "张凌赫王玉雯 刺棠",
+        "onboard_time": 1773294801,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64374,
+        "num": 496896,
+        "word": "向鹏vs梁靖崑",
+        "onboard_time": 1773298880,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395073,
+        "num": 489721,
+        "word": "辛辛苦苦考了一份辛辛苦苦的工作",
+        "onboard_time": 1773289223,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266609,
+        "num": 485001,
+        "word": "熊 这辈子吃的最贵的苹果",
+        "onboard_time": 1773296721,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227640,
+        "num": 482966,
+        "word": "腾讯视频修改逐玉战报",
+        "onboard_time": 1773288502,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184663,
+        "num": 474658,
+        "word": "黄婷婷解约后首个综艺",
+        "onboard_time": 1773294022,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141823,
+        "num": 472089,
+        "word": "随手拍的照片帮我赚一年生活费",
+        "onboard_time": 1773289462,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 467649,
+        "num": 467649,
+        "word": "杨幂把海洋穿身上了",
+        "onboard_time": 1773297380,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228336,
+        "num": 467536,
+        "word": "微信视频通话终于有锁定功能了",
+        "onboard_time": 1773291201,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217585,
+        "num": 467412,
+        "word": "儿媳一怀孕婆婆立马报班学月嫂",
+        "onboard_time": 1773296001,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184234,
+        "num": 467277,
+        "word": "逐玉 业内",
+        "onboard_time": 1773289761,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139854,
+        "num": 467144,
+        "word": "美军舰后勤补给港口被炸",
+        "onboard_time": 1773295821,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41066,
+        "num": 466902,
+        "word": "谁懂啊侧面真看不见",
+        "onboard_time": 1773295882,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176466,
+        "num": 466849,
+        "word": "田曦薇情商",
+        "onboard_time": 1773297620,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126351,
+        "num": 466643,
+        "word": "60斤和110斤互换饮食的一天",
+        "onboard_time": 1773298221,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144406,
+        "num": 466489,
+        "word": "逐玉破万 经纪人亲一个",
+        "onboard_time": 1773284481,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63491,
+        "num": 466443,
+        "word": "全场响起孙颖莎雄起",
+        "onboard_time": 1773295641,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113127,
+        "num": 466265,
+        "word": "双胞胎老了后",
+        "onboard_time": 1773288441,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112359,
+        "num": 466128,
+        "word": "曝美国国防部长5天花501亿美元",
+        "onboard_time": 1773292821,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111999,
+        "num": 465908,
+        "word": "张凌赫田曦薇头纱照",
+        "onboard_time": 1773271821,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108824,
+        "num": 465739,
+        "word": "3名美国富豪强奸性侵60名女性",
+        "onboard_time": 1773236061,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105209,
+        "num": 465556,
+        "word": "吴京 你看又要传绯闻了",
+        "onboard_time": 1773297321,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19015,
+        "num": 465464,
+        "word": "在春天里奔赴新征程",
+        "onboard_time": 1773285861,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95642,
+        "num": 465379,
+        "word": "王不染直播关美颜",
+        "onboard_time": 1773292521,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91662,
+        "num": 465222,
+        "word": "姐妹俩互用化妆品双双查出肾病",
+        "onboard_time": 1773293601,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91295,
+        "num": 464991,
+        "word": "陈情令演员舞台剧倩女幽魂重聚",
+        "onboard_time": 1773294442,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50786,
+        "num": 464812,
+        "word": "孙颖莎回应3比0战胜朱芊曦",
+        "onboard_time": 1773295942,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89075,
+        "num": 464753,
+        "word": "美国伊朗冲突",
+        "onboard_time": 1773284541,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76224,
+        "num": 464584,
+        "word": "邓凯孔雪儿情人节封面",
+        "onboard_time": 1773298641,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73283,
+        "num": 464376,
+        "word": "白敬亭小学同学录",
+        "onboard_time": 1773292282,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69404,
+        "num": 464256,
+        "word": "原来给肉去腥这么简单",
+        "onboard_time": 1773287182,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70346,
+        "num": 464042,
+        "word": "大侦探全员不忍揭开NPC伤疤",
+        "onboard_time": 1773298880,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67832,
+        "num": 464013,
+        "word": "年轻人不知道的交公粮",
+        "onboard_time": 1773290783,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67284,
+        "num": 463837,
+        "word": "明日方舟终末地",
+        "onboard_time": 1773292341,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64575,
+        "num": 463639,
+        "word": "原来灰姑娘的舞会真的存在",
+        "onboard_time": 1773298520,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65336,
+        "num": 463546,
+        "word": "美国将对16个贸易伙伴发起301调查",
+        "onboard_time": 1773295582,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49095,
+        "num": 463366,
+        "word": "杨瀚森方回应得分G联盟新高",
+        "onboard_time": 1773297801,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树就是植未来#"
+    }
+  }
+}
