@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773272995586,
+  "endTime": 1773283224093,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 860507,
-      "num": 554287,
+      "num": 589408,
       "word": "王濛拟被破格晋升",
       "onboard_time": 1773242662,
       "rank": 3,
@@ -59,12 +59,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 523426,
+      "num": 523426,
+      "word": "田曦薇第一位双平台破万女演员",
+      "onboard_time": 1773277223,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 474173,
+      "num": 474173,
+      "word": "苹果最贵手机要来了",
+      "onboard_time": 1773275002,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 451064,
       "num": 539778,
       "word": "张凌赫听到我结婚时的反应",
       "onboard_time": 1773243981,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421390,
+      "num": 421390,
+      "word": "代表说农民交的公粮就等于交了社保",
+      "onboard_time": 1773276261,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 412908,
@@ -75,12 +99,44 @@
       "category": "军事"
     },
     {
+      "raw_hot": 386915,
+      "num": 386915,
+      "word": "景区买个水果捞没想到切完多了",
+      "onboard_time": 1773279502,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 383782,
+      "num": 1061405,
+      "word": "建议让全年无休的照护者能喘口气",
+      "onboard_time": 1773278661,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 381427,
       "num": 381427,
       "word": "分析称美国可能真的有点撑不住了",
       "onboard_time": 1773245841,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 353639,
+      "num": 571111,
+      "word": "伊总统提出结束战争3大必要条件",
+      "onboard_time": 1773274461,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 331046,
+      "num": 331046,
+      "word": "伴娘回应婚礼偶遇吴彦祖代旭井胧",
+      "onboard_time": 1773278361,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 310833,
@@ -99,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 309417,
+      "num": 383425,
+      "word": "伊朗港口若遭袭将打击地区所有港口",
+      "onboard_time": 1773279440,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 305052,
       "num": 536138,
       "word": "公积金改革大潮真的来了",
@@ -108,11 +172,19 @@
     },
     {
       "raw_hot": 304329,
-      "num": 304329,
+      "num": 359735,
       "word": "骄阳似我",
       "onboard_time": 1773271339,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294280,
+      "num": 294280,
+      "word": "鹿晗新商务",
+      "onboard_time": 1773281122,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 274217,
@@ -129,6 +201,14 @@
       "onboard_time": 1773236543,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 262903,
+      "num": 382284,
+      "word": "狗 人我讨厌坐飞机",
+      "onboard_time": 1773279320,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 253800,
@@ -155,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 206608,
+      "num": 294141,
+      "word": "张凌赫回应逐玉双平台破万",
+      "onboard_time": 1773280461,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195437,
       "num": 957676,
       "word": "委员回应年轻人天天熬夜行不行",
@@ -171,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194782,
+      "num": 370937,
+      "word": "同工不同酬的劳务派遣制度该废止了",
+      "onboard_time": 1773277460,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186803,
       "num": 537680,
       "word": "田曦薇背后抱量张凌赫腰围",
@@ -180,11 +276,19 @@
     },
     {
       "raw_hot": 180914,
-      "num": 180914,
+      "num": 293714,
       "word": "曝李鹤来退出SMTR25",
       "onboard_time": 1773270858,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174908,
+      "num": 294192,
+      "word": "我国灵活就业人员超2.4亿",
+      "onboard_time": 1773274281,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172148,
@@ -201,6 +305,14 @@
       "onboard_time": 1773272541,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156829,
+      "num": 575446,
+      "word": "80元Lululemon发圈火爆是因为天热",
+      "onboard_time": 1773274341,
+      "rank": 4,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 155526,
@@ -220,11 +332,19 @@
     },
     {
       "raw_hot": 147780,
-      "num": 675309,
+      "num": 775513,
       "word": "建议年假天数按工龄递增",
       "onboard_time": 1773242422,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146499,
+      "num": 294022,
+      "word": "KPL",
+      "onboard_time": 1773282441,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 146122,
@@ -235,6 +355,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 142385,
+      "num": 293922,
+      "word": "23岁牛散5000万买股浮盈超4100万",
+      "onboard_time": 1773275721,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134543,
       "num": 535040,
       "word": "田曦薇逐玉破万贺图",
@@ -243,12 +371,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132794,
+      "num": 293837,
+      "word": "东北阿姨坐5小时高铁后把座椅全立直",
+      "onboard_time": 1773281540,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130874,
       "num": 535626,
       "word": "西班牙降级与以色列外交关系",
       "onboard_time": 1773234983,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117247,
+      "num": 293592,
+      "word": "刘亦菲早春穿搭",
+      "onboard_time": 1773276503,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115375,
+      "num": 293448,
+      "word": "影视聚焦 逐玉",
+      "onboard_time": 1773279801,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 113945,
@@ -265,6 +417,22 @@
       "onboard_time": 1773226220,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112635,
+      "num": 549860,
+      "word": "长生钟意回归首发",
+      "onboard_time": 1773282621,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 111139,
+      "num": 293335,
+      "word": "穆祉丞官宣加入周五晚高疯",
+      "onboard_time": 1773282200,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 103583,
@@ -299,6 +467,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95035,
+      "num": 293554,
+      "word": "伊朗以色列德黑兰上空持续交战",
+      "onboard_time": 1773278781,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 94202,
+      "num": 293233,
+      "word": "黄油年糕在韩国流行",
+      "onboard_time": 1773276862,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 94136,
       "num": 531844,
       "word": "美官员称特朗普对伊朗反应有误判",
@@ -307,12 +491,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88783,
+      "num": 292900,
+      "word": "朴综星疑似回应李羲承退团",
+      "onboard_time": 1773280761,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86534,
       "num": 79223,
       "word": "李卿回应逐玉风雨廊亭名台词",
       "onboard_time": 1773271699,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81848,
+      "num": 530380,
+      "word": "姜贞羽无限超越班路透",
+      "onboard_time": 1773282319,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 80831,
@@ -331,12 +531,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77374,
+      "num": 292768,
+      "word": "植树节",
+      "onboard_time": 1773276261,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75746,
       "num": 530564,
       "word": "上过班的才知道这有多幸福",
       "onboard_time": 1773232343,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74827,
+      "num": 292635,
+      "word": "华为小米荣耀下场AI龙虾了",
+      "onboard_time": 1773281540,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 74342,
@@ -347,12 +563,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74033,
+      "num": 292506,
+      "word": "伊朗与黎巴嫩真主党联合作战",
+      "onboard_time": 1773280222,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72791,
       "num": 526512,
       "word": "炸伊朗小学导弹零件MadeinUSA",
       "onboard_time": 1773233364,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 72738,
+      "num": 292379,
+      "word": "雷军回应小米手机龙虾",
+      "onboard_time": 1773281481,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 72395,
+      "num": 292232,
+      "word": "王一博还配了bgm",
+      "onboard_time": 1773275662,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 70158,
@@ -371,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69947,
+      "num": 292011,
+      "word": "美国将释放1.72亿桶战略石油储备",
+      "onboard_time": 1773282500,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67576,
       "num": 543935,
       "word": "乘风2026将全程直播",
@@ -387,6 +635,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 65102,
+      "num": 291897,
+      "word": "Lululemon客服回应80元发圈售罄",
+      "onboard_time": 1773281540,
+      "rank": 46,
+      "category": "民生新闻,时尚"
+    },
+    {
       "raw_hot": 61927,
       "num": 527659,
       "word": "伊朗对美以发动38波攻击",
@@ -401,6 +657,22 @@
       "onboard_time": 1773231502,
       "rank": 38,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 58456,
+      "num": 291759,
+      "word": "苹果首款折叠屏手机细节",
+      "onboard_time": 1773281481,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 58180,
+      "num": 291540,
+      "word": "苹果首款折叠定名iPhoneFold",
+      "onboard_time": 1773281901,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 58082,
@@ -540,7 +812,7 @@
     },
     {
       "raw_hot": 34743,
-      "num": 404541,
+      "num": 552701,
       "word": "3月12日两会日程",
       "onboard_time": 1773271759,
       "rank": 6,
@@ -651,8 +923,8 @@
       "category": "民生新闻,美妆"
     },
     {
-      "raw_hot": 18620,
-      "num": 555384,
+      "raw_hot": 18630,
+      "num": 591384,
       "word": "解读国家账本看数字背后",
       "onboard_time": 1773236184,
       "rank": 2,
