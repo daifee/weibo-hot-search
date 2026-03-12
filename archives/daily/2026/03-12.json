@@ -1,6 +1,6 @@
 {
   "startTime": 1773245428302,
-  "endTime": 1773309264613,
+  "endTime": 1773310044971,
   "band_list": [
     {
       "raw_hot": 1567787,
@@ -251,12 +251,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 471411,
+      "num": 483235,
+      "word": "吴艳妮决赛退赛",
+      "onboard_time": 1773308241,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460506,
       "num": 581039,
       "word": "王濛官宣参加浪姐7",
       "onboard_time": 1773295821,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453814,
+      "num": 698732,
+      "word": "美国海军已逃离伊朗周边海域",
+      "onboard_time": 1773306562,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 451064,
@@ -411,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 332958,
-      "num": 698732,
-      "word": "美国海军已逃离伊朗周边海域",
-      "onboard_time": 1773306562,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 331046,
       "num": 331046,
       "word": "伴娘回应婚礼偶遇吴彦祖代旭井胧",
@@ -553,14 +561,6 @@
       "onboard_time": 1773239365,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223952,
-      "num": 483235,
-      "word": "吴艳妮决赛退赛",
-      "onboard_time": 1773308241,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 221914,
@@ -835,6 +835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136183,
+      "num": 476996,
+      "word": "朝九晚五其实是朝七晚六",
+      "onboard_time": 1773306021,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134543,
       "num": 535040,
       "word": "田曦薇逐玉破万贺图",
@@ -875,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125749,
+      "num": 475449,
+      "word": "腾讯回应被龙虾之父指责抄袭",
+      "onboard_time": 1773307581,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 125449,
       "num": 834803,
       "word": "周杰伦南宁站抢票",
@@ -883,20 +899,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125185,
+      "num": 474572,
+      "word": "鞠婧祎彝族服饰造型",
+      "onboard_time": 1773307522,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122101,
       "num": 122101,
       "word": "王腾官宣品牌名",
       "onboard_time": 1773284481,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 121673,
-      "num": 476996,
-      "word": "朝九晚五其实是朝七晚六",
-      "onboard_time": 1773306021,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 121125,
@@ -944,6 +960,14 @@
       "word": "影视聚焦 逐玉",
       "onboard_time": 1773279801,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115099,
+      "num": 473284,
+      "word": "逐玉剧组拿任豪当水印",
+      "onboard_time": 1773308481,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1027,36 +1051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108964,
-      "num": 474572,
-      "word": "鞠婧祎彝族服饰造型",
-      "onboard_time": 1773307522,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 108758,
       "num": 108758,
       "word": "无期迷途",
       "onboard_time": 1773290242,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108536,
-      "num": 475449,
-      "word": "腾讯回应被龙虾之父指责抄袭",
-      "onboard_time": 1773307581,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 107938,
-      "num": 473284,
-      "word": "逐玉剧组拿任豪当水印",
-      "onboard_time": 1773308481,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 105209,
@@ -1075,12 +1075,36 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 102519,
+      "num": 102519,
+      "word": "理想现金储备超1000亿",
+      "onboard_time": 1773309741,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 101861,
+      "num": 101861,
+      "word": "中方回应特朗普计划访华",
+      "onboard_time": 1773309261,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100695,
       "num": 825277,
       "word": "姐妹俩互用化妆品双双查出肾病",
       "onboard_time": 1773293601,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99891,
+      "num": 99891,
+      "word": "理想2025年财报",
+      "onboard_time": 1773309502,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 99859,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1773288502,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94427,
+      "num": 94427,
+      "word": "腾讯视频 无添加不兑水",
+      "onboard_time": 1773309622,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 94202,
@@ -1307,6 +1339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85207,
+      "num": 85207,
+      "word": "苹果折叠屏或更宽",
+      "onboard_time": 1773309801,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 84393,
       "num": 84393,
       "word": "Viper与Daeny韩国起飞",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1773298880,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83340,
+      "num": 83340,
+      "word": "月薪7000元招人种地",
+      "onboard_time": 1773309861,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80831,
@@ -1611,6 +1659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58463,
+      "num": 195816,
+      "word": "天塌了山姆的三文鱼原来不能生吃",
+      "onboard_time": 1773309622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58456,
       "num": 291759,
       "word": "苹果首款折叠屏手机细节",
@@ -1747,6 +1803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50366,
+      "num": 83676,
+      "word": "肖战谈藏海传中最具挑战性的戏",
+      "onboard_time": 1773308423,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49913,
       "num": 914585,
       "word": "建议提高待遇激励医学生扎根基层",
@@ -1785,6 +1849,14 @@
       "onboard_time": 1773297801,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49058,
+      "num": 92404,
+      "word": "网友提名金鹰奖名单",
+      "onboard_time": 1773309562,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 46757,

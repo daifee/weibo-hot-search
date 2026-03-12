@@ -1,0 +1,410 @@
+{
+  "runTime": 1773310044971,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 37231,
+        "num": 1005957,
+        "word": "十四届全国人大四次会议闭幕会",
+        "onboard_time": 1773297080,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 383790,
+        "num": 720761,
+        "word": "司法部将在全国统一推行扫码入企",
+        "onboard_time": 1773305422,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2113,
+        "num": 595331,
+        "word": "3月12日两会日程",
+        "onboard_time": 1773271759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166523,
+        "num": 592419,
+        "word": "建议禁止流量月底清零",
+        "onboard_time": 1773301642,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26799,
+        "num": 587647,
+        "word": "第3场部长通道",
+        "onboard_time": 1773301222,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 453814,
+        "num": 578980,
+        "word": "美国海军已逃离伊朗周边海域",
+        "onboard_time": 1773306562,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140020,
+        "num": 569924,
+        "word": "镖人 第二部",
+        "onboard_time": 1773296721,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29307,
+        "num": 564714,
+        "word": "表决通过生态环境法典",
+        "onboard_time": 1773300624,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68719,
+        "num": 562504,
+        "word": "通过政府立法解决内卷式竞争",
+        "onboard_time": 1773305722,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59412,
+        "num": 555916,
+        "word": "明日方舟终末地",
+        "onboard_time": 1773292341,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 550808,
+        "num": 550808,
+        "word": "韩国人分享在中国起号方式",
+        "onboard_time": 1773306141,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 529322,
+        "num": 529322,
+        "word": "微信3大新功能",
+        "onboard_time": 1773303922,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 471411,
+        "num": 471411,
+        "word": "吴艳妮决赛退赛",
+        "onboard_time": 1773308241,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453767,
+        "num": 453767,
+        "word": "本田突发暴雷",
+        "onboard_time": 1773305599,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 450893,
+        "num": 450893,
+        "word": "保时捷车主回应车窗被砸取AED救人",
+        "onboard_time": 1773305662,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257568,
+        "num": 257568,
+        "word": "易梦体质",
+        "onboard_time": 1773300562,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249708,
+        "num": 249708,
+        "word": "大学生4个馒头卖了30000元",
+        "onboard_time": 1773300020,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20181,
+        "num": 212287,
+        "word": "科技探索她力量",
+        "onboard_time": 1773306321,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198885,
+        "num": 198885,
+        "word": "伊朗用最强导弹专打以色列",
+        "onboard_time": 1773299601,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58463,
+        "num": 195816,
+        "word": "天塌了山姆的三文鱼原来不能生吃",
+        "onboard_time": 1773309622,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1083396,
+        "num": 193252,
+        "word": "爆剧 养老剧",
+        "onboard_time": 1773302120,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 708695,
+        "num": 189851,
+        "word": "男子误吞12厘米筷子忍了8年才取出",
+        "onboard_time": 1773304761,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452691,
+        "num": 184159,
+        "word": "肖战白鹿白敬亭 谁说内娱没有齐舞",
+        "onboard_time": 1773302422,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240128,
+        "num": 181419,
+        "word": "逐玉",
+        "onboard_time": 1773309861,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136183,
+        "num": 176133,
+        "word": "朝九晚五其实是朝七晚六",
+        "onboard_time": 1773306021,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175865,
+        "num": 175865,
+        "word": "杨幂把海洋穿身上了",
+        "onboard_time": 1773297380,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143318,
+        "num": 143318,
+        "word": "吃全麦面包减肥的人天塌了",
+        "onboard_time": 1773299722,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142045,
+        "num": 142045,
+        "word": "多邻国绿鸟 离职",
+        "onboard_time": 1773289101,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125185,
+        "num": 125185,
+        "word": "鞠婧祎彝族服饰造型",
+        "onboard_time": 1773307522,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124338,
+        "num": 124338,
+        "word": "浪姐7",
+        "onboard_time": 1773299422,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125749,
+        "num": 120769,
+        "word": "腾讯回应被龙虾之父指责抄袭",
+        "onboard_time": 1773307581,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116715,
+        "num": 116715,
+        "word": "恭迎武安侯上线",
+        "onboard_time": 1773306382,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115545,
+        "num": 115545,
+        "word": "腾讯视频修改逐玉战报",
+        "onboard_time": 1773288502,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102519,
+        "num": 102519,
+        "word": "理想现金储备超1000亿",
+        "onboard_time": 1773309741,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115099,
+        "num": 102319,
+        "word": "逐玉剧组拿任豪当水印",
+        "onboard_time": 1773308481,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101861,
+        "num": 101861,
+        "word": "中方回应特朗普计划访华",
+        "onboard_time": 1773309261,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99891,
+        "num": 99891,
+        "word": "理想2025年财报",
+        "onboard_time": 1773309502,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98065,
+        "num": 98065,
+        "word": "改剧本 加流量演员",
+        "onboard_time": 1773299540,
+        "rank": 37,
+        "category": "作品衍生,民生新闻"
+      },
+      {
+        "raw_hot": 94427,
+        "num": 94427,
+        "word": "腾讯视频 无添加不兑水",
+        "onboard_time": 1773309622,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49058,
+        "num": 92404,
+        "word": "网友提名金鹰奖名单",
+        "onboard_time": 1773309562,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91335,
+        "num": 91335,
+        "word": "儿媳一怀孕婆婆立马报班学月嫂",
+        "onboard_time": 1773296001,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88829,
+        "num": 88829,
+        "word": "辛辛苦苦考了一份辛辛苦苦的工作",
+        "onboard_time": 1773289223,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85207,
+        "num": 85207,
+        "word": "苹果折叠屏或更宽",
+        "onboard_time": 1773309801,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50366,
+        "num": 83676,
+        "word": "肖战谈藏海传中最具挑战性的戏",
+        "onboard_time": 1773308423,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83583,
+        "num": 83583,
+        "word": "王濛官宣参加浪姐7",
+        "onboard_time": 1773295821,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83340,
+        "num": 83340,
+        "word": "月薪7000元招人种地",
+        "onboard_time": 1773309861,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82194,
+        "num": 82194,
+        "word": "张凌赫被田曦薇摸耳朵的反应",
+        "onboard_time": 1773300141,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76124,
+        "num": 76124,
+        "word": "张翅直播",
+        "onboard_time": 1773303261,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23610,
+        "num": 74813,
+        "word": "向鹏vs梁靖崑",
+        "onboard_time": 1773298880,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74625,
+        "num": 74625,
+        "word": "乘风2026",
+        "onboard_time": 1773307223,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树就是植未来#"
+    }
+  }
+}

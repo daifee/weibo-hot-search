@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773309264613,
+  "endTime": 1773310044971,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -3715,6 +3715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 471411,
+      "num": 483235,
+      "word": "吴艳妮决赛退赛",
+      "onboard_time": 1773308241,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 470442,
       "num": 786124,
       "word": "91岁女儿受委屈向113岁妈妈哭诉",
@@ -3889,6 +3897,14 @@
       "onboard_time": 1772607867,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 453814,
+      "num": 698732,
+      "word": "美国海军已逃离伊朗周边海域",
+      "onboard_time": 1773306562,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 453355,
@@ -5977,14 +5993,6 @@
       "onboard_time": 1772537129,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 332958,
-      "num": 698732,
-      "word": "美国海军已逃离伊朗周边海域",
-      "onboard_time": 1773306562,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 332894,
@@ -8961,14 +8969,6 @@
       "onboard_time": 1772348723,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223952,
-      "num": 483235,
-      "word": "吴艳妮决赛退赛",
-      "onboard_time": 1773308241,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 223803,
@@ -13611,6 +13611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136183,
+      "num": 476996,
+      "word": "朝九晚五其实是朝七晚六",
+      "onboard_time": 1773306021,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136058,
       "num": 126676,
       "word": "王楚然 女人中的女人",
@@ -14563,6 +14571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125749,
+      "num": 475449,
+      "word": "腾讯回应被龙虾之父指责抄袭",
+      "onboard_time": 1773307581,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 125724,
       "num": 1013733,
       "word": "福建舰入列就形成了战斗力",
@@ -14625,6 +14641,14 @@
       "onboard_time": 1772459006,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125185,
+      "num": 474572,
+      "word": "鞠婧祎彝族服饰造型",
+      "onboard_time": 1773307522,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125052,
@@ -14969,14 +14993,6 @@
       "onboard_time": 1772868983,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121673,
-      "num": 476996,
-      "word": "朝九晚五其实是朝七晚六",
-      "onboard_time": 1773306021,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 121645,
@@ -15713,6 +15729,14 @@
       "onboard_time": 1772772803,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115099,
+      "num": 473284,
+      "word": "逐玉剧组拿任豪当水印",
+      "onboard_time": 1773308481,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 115089,
@@ -16579,14 +16603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108964,
-      "num": 474572,
-      "word": "鞠婧祎彝族服饰造型",
-      "onboard_time": 1773307522,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 108923,
       "num": 108923,
       "word": "TVB演员江华化身景区打工皇帝",
@@ -16657,14 +16673,6 @@
       "onboard_time": 1772792842,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 108536,
-      "num": 475449,
-      "word": "腾讯回应被龙虾之父指责抄袭",
-      "onboard_time": 1773307581,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 108516,
@@ -16745,14 +16753,6 @@
       "onboard_time": 1772350822,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107938,
-      "num": 473284,
-      "word": "逐玉剧组拿任豪当水印",
-      "onboard_time": 1773308481,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 107923,
@@ -17451,6 +17451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102519,
+      "num": 102519,
+      "word": "理想现金储备超1000亿",
+      "onboard_time": 1773309741,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102499,
       "num": 102499,
       "word": "靳东说不能让年轻人只沉迷游戏短视频",
@@ -17529,6 +17537,14 @@
       "onboard_time": 1772294722,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 101861,
+      "num": 101861,
+      "word": "中方回应特朗普计划访华",
+      "onboard_time": 1773309261,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101812,
@@ -17889,6 +17905,14 @@
       "onboard_time": 1772434042,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99891,
+      "num": 99891,
+      "word": "理想2025年财报",
+      "onboard_time": 1773309502,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 99886,
@@ -18857,6 +18881,14 @@
       "onboard_time": 1773288502,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94427,
+      "num": 94427,
+      "word": "腾讯视频 无添加不兑水",
+      "onboard_time": 1773309622,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 94202,
@@ -20595,6 +20627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85207,
+      "num": 85207,
+      "word": "苹果折叠屏或更宽",
+      "onboard_time": 1773309801,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85194,
       "num": 109594,
       "word": "李一桐差点摔倒",
@@ -20897,6 +20937,14 @@
       "onboard_time": 1772688923,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 83340,
+      "num": 83340,
+      "word": "月薪7000元招人种地",
+      "onboard_time": 1773309861,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83224,
@@ -25267,6 +25315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 58463,
+      "num": 195816,
+      "word": "天塌了山姆的三文鱼原来不能生吃",
+      "onboard_time": 1773309622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58456,
       "num": 291759,
       "word": "苹果首款折叠屏手机细节",
@@ -26211,6 +26267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50366,
+      "num": 83676,
+      "word": "肖战谈藏海传中最具挑战性的戏",
+      "onboard_time": 1773308423,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50259,
       "num": 429032,
       "word": "建议提高农村居民育儿补贴",
@@ -26369,6 +26433,14 @@
       "onboard_time": 1772836516,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 49058,
+      "num": 92404,
+      "word": "网友提名金鹰奖名单",
+      "onboard_time": 1773309562,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 49017,
