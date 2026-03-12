@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773355996170,
+  "endTime": 1773358593124,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -1523,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418168,
+      "num": 259711,
+      "word": "美军福特号航母发生火灾",
+      "onboard_time": 1773331759,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 417906,
       "num": 368293,
       "word": "张艺兴处于术后康复阶段",
@@ -2867,14 +2875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259711,
-      "num": 259711,
-      "word": "美军福特号航母发生火灾",
-      "onboard_time": 1773331759,
-      "rank": 30,
-      "category": "军事"
-    },
-    {
       "raw_hot": 258158,
       "num": 654753,
       "word": "伊朗总统提醒邻国别被美以欺骗",
@@ -3251,6 +3251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228390,
+      "num": 78004,
+      "word": "女子寺庙求姻缘遇心动男生",
+      "onboard_time": 1773358098,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228380,
       "num": 442121,
       "word": "伊朗最高领袖要求地区美军基地关闭",
@@ -3457,6 +3465,14 @@
       "onboard_time": 1773296001,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216714,
+      "num": 64232,
+      "word": "伊朗称若电力遭袭整个地区将陷黑暗",
+      "onboard_time": 1773358279,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 216704,
@@ -4203,6 +4219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170951,
+      "num": 829869,
+      "word": "建议允许公积金直接抵首付还房贷",
+      "onboard_time": 1773325942,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 170600,
       "num": 604165,
       "word": "你是孙俪那她是谁",
@@ -4537,14 +4561,6 @@
       "onboard_time": 1772925677,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 155513,
-      "num": 758318,
-      "word": "建议允许公积金直接抵首付还房贷",
-      "onboard_time": 1773325942,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 155358,
@@ -5929,6 +5945,14 @@
       "onboard_time": 1772925016,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114376,
+      "num": 435719,
+      "word": "法拉利来中国也得进货",
+      "onboard_time": 1773332178,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 114136,
@@ -7467,6 +7491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 91613,
+      "num": 91613,
+      "word": "张凌赫田曦薇醉酒吻是现挂",
+      "onboard_time": 1773358339,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91579,
       "num": 261271,
       "word": "王楚钦舞力全开",
@@ -7939,6 +7971,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 87009,
+      "num": 77776,
+      "word": "女子不爱喝水长巨型肾结石",
+      "onboard_time": 1773358400,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86994,
       "num": 596045,
       "word": "赵晴新剧内娱稀有不缺爱女主",
@@ -8305,6 +8345,14 @@
       "onboard_time": 1772952319,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82563,
+      "num": 429006,
+      "word": "伊朗向以发射多型号导弹",
+      "onboard_time": 1773330141,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82521,
@@ -8771,6 +8819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 76894,
+      "num": 515351,
+      "word": "代表推进小班化教学建议被采纳",
+      "onboard_time": 1773331220,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76727,
       "num": 536848,
       "word": "孙颖莎打破圈层跨越国际",
@@ -9067,14 +9123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 73723,
-      "num": 429006,
-      "word": "伊朗向以发射多型号导弹",
-      "onboard_time": 1773330141,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 73587,
       "num": 73587,
       "word": "KPL春季赛",
@@ -9305,14 +9353,6 @@
       "onboard_time": 1773205042,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 71334,
-      "num": 435719,
-      "word": "法拉利来中国也得进货",
-      "onboard_time": 1773332178,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 71218,
@@ -10371,6 +10411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 62012,
+      "num": 62012,
+      "word": "李雪琴的网恋对象是师兄",
+      "onboard_time": 1773356597,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 61887,
       "num": 595183,
       "word": "女足亚洲杯",
@@ -10601,14 +10649,6 @@
       "onboard_time": 1773124641,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 58746,
-      "num": 515351,
-      "word": "代表推进小班化教学建议被采纳",
-      "onboard_time": 1773331220,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 58725,
@@ -11091,6 +11131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52665,
+      "num": 52665,
+      "word": "杨紫说没接综艺",
+      "onboard_time": 1773358279,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52515,
       "num": 167452,
       "word": "王毅答记者问",
@@ -11115,12 +11163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52299,
+      "num": 189296,
+      "word": "白鹿唐宫奇案红毯",
+      "onboard_time": 1773355397,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52209,
       "num": 674353,
       "word": "我国人均有100棵树",
       "onboard_time": 1773313762,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52156,
+      "num": 190237,
+      "word": "病人被困核磁机一夜被保洁救下",
+      "onboard_time": 1773335656,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52003,
@@ -11137,6 +11201,14 @@
       "onboard_time": 1773244340,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 51663,
+      "num": 51663,
+      "word": "代表教你用生姜白糖绿茶治肠胃病",
+      "onboard_time": 1773357858,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 51373,
@@ -11361,6 +11433,14 @@
       "onboard_time": 1772950461,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48654,
+      "num": 191149,
+      "word": "王一博入围巴黎时装周名人声量",
+      "onboard_time": 1773336015,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 48640,
@@ -11593,6 +11673,14 @@
       "onboard_time": 1773305662,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45034,
+      "num": 48653,
+      "word": "鹿晗专辑预告",
+      "onboard_time": 1773358098,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 44985,
@@ -11889,6 +11977,14 @@
       "onboard_time": 1773228022,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 39986,
+      "num": 189932,
+      "word": "瞿颖papi热烈欢迎",
+      "onboard_time": 1773330501,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 39939,
@@ -12315,14 +12411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32811,
-      "num": 191149,
-      "word": "王一博入围巴黎时装周名人声量",
-      "onboard_time": 1773336015,
-      "rank": 42,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 32798,
       "num": 80454,
       "word": "Viper的目标是连冠",
@@ -12347,11 +12435,27 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 32426,
+      "num": 48642,
+      "word": "肖战品质盛典金辉魅影大片",
+      "onboard_time": 1773358458,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32085,
       "num": 510776,
       "word": "推进不动产登记跨省通办",
       "onboard_time": 1773305362,
       "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31775,
+      "num": 285204,
+      "word": "建议给新就业形态人员缴纳社保",
+      "onboard_time": 1773345615,
+      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -12393,14 +12497,6 @@
       "onboard_time": 1772926276,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30971,
-      "num": 190237,
-      "word": "病人被困核磁机一夜被保洁救下",
-      "onboard_time": 1773335656,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30792,
@@ -12491,14 +12587,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29393,
-      "num": 189932,
-      "word": "瞿颖papi热烈欢迎",
-      "onboard_time": 1773330501,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 29093,
       "num": 216167,
       "word": "华春莹点赞的化橘红为啥要敲一敲",
@@ -12553,14 +12641,6 @@
       "onboard_time": 1773217342,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 27711,
-      "num": 189296,
-      "word": "白鹿唐宫奇案红毯",
-      "onboard_time": 1773355397,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 27504,
@@ -12923,6 +13003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20295,
+      "num": 472292,
+      "word": "春天里的中国向新而行",
+      "onboard_time": 1773326003,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20259,
       "num": 753898,
       "word": "十五五扬帆起航正当时",
@@ -12968,14 +13056,6 @@
       "word": "随身带针的人大代表回应上热搜",
       "onboard_time": 1773319701,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 19614,
-      "num": 285204,
-      "word": "建议给新就业形态人员缴纳社保",
-      "onboard_time": 1773345615,
-      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -13219,14 +13299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13692,
-      "num": 299612,
-      "word": "春天里的中国向新而行",
-      "onboard_time": 1773326003,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 13616,
       "num": 77936,
       "word": "产检算劳动时间正常付工资",
@@ -13249,6 +13321,14 @@
       "onboard_time": 1773343994,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13235,
+      "num": 270580,
+      "word": "人大代表说一切都离不开创新",
+      "onboard_time": 1773345615,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13070,
@@ -13305,14 +13385,6 @@
       "onboard_time": 1773150025,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9458,
-      "num": 270580,
-      "word": "人大代表说一切都离不开创新",
-      "onboard_time": 1773345615,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 7595,
