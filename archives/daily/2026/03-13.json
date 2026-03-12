@@ -1,6 +1,6 @@
 {
   "startTime": 1773331581257,
-  "endTime": 1773348263884,
+  "endTime": 1773349277941,
   "band_list": [
     {
       "raw_hot": 557519,
@@ -508,15 +508,15 @@
     },
     {
       "raw_hot": 13445,
-      "num": 20959,
+      "num": 63695,
       "word": "月光永不坠落",
       "onboard_time": 1773343994,
       "rank": 35,
       "category": "剧集"
     },
     {
-      "raw_hot": 10227,
-      "num": 32851,
+      "raw_hot": 10278,
+      "num": 65049,
       "word": "建议给新就业形态人员缴纳社保",
       "onboard_time": 1773345615,
       "rank": 6,
@@ -524,23 +524,23 @@
     },
     {
       "raw_hot": 8894,
-      "num": 60470,
+      "num": 65822,
       "word": "春天里的中国向新而行",
       "onboard_time": 1773326003,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 8662,
-      "num": 32191,
+      "raw_hot": 8849,
+      "num": 64960,
       "word": "呼吁老人大额转账设24小时冷静期",
       "onboard_time": 1773311602,
       "rank": 7,
       "category": "国内时政"
     },
     {
-      "raw_hot": 7965,
-      "num": 31185,
+      "raw_hot": 8407,
+      "num": 64532,
       "word": "人大代表说一切都离不开创新",
       "onboard_time": 1773345615,
       "rank": 9,
