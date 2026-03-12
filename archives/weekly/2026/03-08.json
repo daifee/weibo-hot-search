@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773338123340,
+  "endTime": 1773338994889,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -12875,20 +12875,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21094,
+      "num": 88697,
+      "word": "病人被困核磁机一夜被保洁救下",
+      "onboard_time": 1773335656,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21065,
       "num": 602681,
       "word": "物业到底是来管理还是服务我们的",
       "onboard_time": 1773126023,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20960,
-      "num": 88697,
-      "word": "病人被困核磁机一夜被保洁救下",
-      "onboard_time": 1773335656,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20957,
@@ -12939,7 +12939,7 @@
       "category": "民生新闻,美妆"
     },
     {
-      "raw_hot": 19883,
+      "raw_hot": 19908,
       "num": 88201,
       "word": "王一博入围巴黎时装周名人声量",
       "onboard_time": 1773336015,
@@ -13289,6 +13289,14 @@
       "onboard_time": 1773063863,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2997,
+      "num": 78311,
+      "word": "正泰电源涨停",
+      "onboard_time": 1773338955,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 1583,
