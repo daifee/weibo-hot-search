@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773322947751,
+  "endTime": 1773327499510,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -201,6 +201,14 @@
       "onboard_time": 1773050181,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1143628,
+      "num": 490327,
+      "word": "伊朗最高领袖公开声明",
+      "onboard_time": 1773322944,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1143242,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1773284481,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 498673,
+      "num": 154109,
+      "word": "男子被遗忘核磁共振机涉事医生发声",
+      "onboard_time": 1773325763,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 495841,
@@ -1867,12 +1883,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 357230,
+      "num": 154013,
+      "word": "陈赫录综艺全身紫外线过敏",
+      "onboard_time": 1773324083,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356395,
       "num": 228542,
       "word": "百岁山官方把肖战喝水画面分成了2段",
       "onboard_time": 1773214100,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354129,
+      "num": 354129,
+      "word": "李维嘉或将你好星期六常驻",
+      "onboard_time": 1773320002,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 353639,
@@ -2755,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264871,
+      "num": 264871,
+      "word": "飞机上到处求摸摸的社交悍匪小狗",
+      "onboard_time": 1773321863,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264076,
       "num": 575410,
       "word": "以为是段子结果真发生了",
@@ -3075,6 +3115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 235568,
+      "num": 235568,
+      "word": "岳雨婷 司宫令",
+      "onboard_time": 1773323243,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235231,
       "num": 121691,
       "word": "伊朗新领袖释放强硬信号",
@@ -3121,6 +3169,14 @@
       "onboard_time": 1772961739,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 232602,
+      "num": 232602,
+      "word": "乃万演唱会取消",
+      "onboard_time": 1773321803,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 232307,
@@ -3555,14 +3611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201178,
-      "num": 201178,
-      "word": "乃万演唱会取消",
-      "onboard_time": 1773321803,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 200841,
       "num": 915833,
       "word": "袁惟仁丧葬费用均由圈内好友支付",
@@ -3699,6 +3747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 193330,
+      "num": 153756,
+      "word": "韩网热议韩国掀起中国热",
+      "onboard_time": 1773326362,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 193263,
       "num": 193263,
       "word": "无畏 赵怀真",
@@ -3713,6 +3769,14 @@
       "onboard_time": 1772929040,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 193108,
+      "num": 153885,
+      "word": "肾病恶化身体会发3次信号",
+      "onboard_time": 1773324744,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193068,
@@ -4107,6 +4171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169524,
+      "num": 169524,
+      "word": "AG战胜DYG",
+      "onboard_time": 1773324263,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168757,
       "num": 297192,
       "word": "王楚然仿妆还以为本尊来了",
@@ -4347,6 +4419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158203,
+      "num": 153822,
+      "word": "强吻亦是吻",
+      "onboard_time": 1773326662,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157873,
       "num": 506294,
       "word": "60斤和110斤互换饮食的一天",
@@ -4369,14 +4449,6 @@
       "onboard_time": 1773282621,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 157434,
-      "num": 214901,
-      "word": "李维嘉或将你好星期六常驻",
-      "onboard_time": 1773320002,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 157088,
@@ -4425,6 +4497,14 @@
       "onboard_time": 1772925677,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155513,
+      "num": 580753,
+      "word": "建议允许公积金直接抵首付还房贷",
+      "onboard_time": 1773325942,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155358,
@@ -4745,6 +4825,14 @@
       "onboard_time": 1772987840,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143628,
+      "num": 154121,
+      "word": "伊朗最高领袖要求地区美军基地关闭",
+      "onboard_time": 1773326543,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143404,
@@ -5475,6 +5563,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 123164,
+      "num": 153740,
+      "word": "王楚钦说要主动承担责任压力",
+      "onboard_time": 1773326482,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123094,
+      "num": 153706,
+      "word": "逐玉预告",
+      "onboard_time": 1773325702,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123031,
       "num": 432117,
       "word": "历届SMG视帝",
@@ -5987,6 +6091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 110322,
+      "num": 153571,
+      "word": "于谦也想要孙颖莎的小卡",
+      "onboard_time": 1773324202,
+      "rank": 36,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 110158,
       "num": 110158,
       "word": "汪苏泷第12张创作专辑",
@@ -6281,6 +6393,14 @@
       "onboard_time": 1772897304,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104539,
+      "num": 153516,
+      "word": "Viper被椅子单杀",
+      "onboard_time": 1773324383,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 104505,
@@ -6665,6 +6785,14 @@
       "onboard_time": 1772959161,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99117,
+      "num": 153510,
+      "word": "美以无人机在伊朗接连折戟",
+      "onboard_time": 1773325282,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98873,
@@ -7379,14 +7507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 90549,
-      "num": 194549,
-      "word": "飞机上到处求摸摸的社交悍匪小狗",
-      "onboard_time": 1773321863,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 90515,
       "num": 508885,
       "word": "为何很多肾病发现就是晚期",
@@ -7483,6 +7603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89473,
+      "num": 535143,
+      "word": "公积金制度改革加速中",
+      "onboard_time": 1773324383,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 89270,
       "num": 89270,
       "word": "岳雨婷事业心",
@@ -7513,6 +7641,14 @@
       "onboard_time": 1773302901,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89152,
+      "num": 153433,
+      "word": "中方回应是否有中国民用商船遭袭",
+      "onboard_time": 1773324923,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89041,
@@ -7731,6 +7867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87176,
+      "num": 153370,
+      "word": "霍尔木兹海峡将继续关闭",
+      "onboard_time": 1773323361,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87150,
       "num": 365668,
       "word": "外网上演日韩文化之争",
@@ -7921,6 +8065,14 @@
       "onboard_time": 1773309801,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 85107,
+      "num": 194209,
+      "word": "种地吧4",
+      "onboard_time": 1773321623,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 85018,
@@ -8131,6 +8283,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 82167,
+      "num": 153339,
+      "word": "认养一头牛投广在被弃养的这集",
+      "onboard_time": 1773326122,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82107,
       "num": 238437,
       "word": "周冠宇紫薯精",
@@ -8305,6 +8465,14 @@
       "onboard_time": 1772896163,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 79679,
+      "num": 153242,
+      "word": "李想官宣下半年推出理想i9",
+      "onboard_time": 1773326842,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 79644,
@@ -8539,14 +8707,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 77136,
-      "num": 194209,
-      "word": "种地吧4",
-      "onboard_time": 1773321623,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76990,
       "num": 194139,
       "word": "伊朗要求美以赔偿",
@@ -8763,6 +8923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74915,
+      "num": 153179,
+      "word": "iPhoneFold或可避免永久性折痕",
+      "onboard_time": 1773326722,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 74827,
       "num": 292635,
       "word": "华为小米荣耀下场AI龙虾了",
@@ -8907,6 +9075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73018,
+      "num": 471900,
+      "word": "中国女篮不敌比利时女篮",
+      "onboard_time": 1773322944,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72965,
       "num": 98117,
       "word": "油价创数十年来最大单周涨幅",
@@ -9041,6 +9217,14 @@
       "onboard_time": 1773051980,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71785,
+      "num": 153157,
+      "word": "大唐不夜城回应皮卡晨离职",
+      "onboard_time": 1773327442,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71731,
@@ -9995,6 +10179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62849,
+      "num": 518410,
+      "word": "生态环境部部长现场拿出一枚芯片",
+      "onboard_time": 1773320420,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62771,
       "num": 62771,
       "word": "重庆赛莫雷加德2号种子",
@@ -10569,14 +10761,6 @@
       "onboard_time": 1773317901,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 55942,
-      "num": 518410,
-      "word": "生态环境部部长现场拿出一枚芯片",
-      "onboard_time": 1773320420,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 55852,
@@ -12323,6 +12507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24536,
+      "num": 588647,
+      "word": "读懂中国经济的长远考量",
+      "onboard_time": 1773326302,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24482,
       "num": 94800,
       "word": "亲妈生病住院后妈忙前忙后照顾",
@@ -12609,6 +12801,14 @@
       "onboard_time": 1772905398,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 19427,
+      "num": 390002,
+      "word": "世界从中国两会看到新机遇",
+      "onboard_time": 1773326003,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19076,
@@ -12987,6 +13187,9 @@
     },
     {
       "word": "#两个德胜村同一份牵挂#"
+    },
+    {
+      "word": "#十四届全国人大四次会议闭幕#"
     }
   ]
 }
