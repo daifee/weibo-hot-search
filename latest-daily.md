@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/13 00:06:21 ~ 2026/03/13 02:09:54
+本榜单时间：2026/03/13 00:06:21 ~ 2026/03/13 03:04:20
 </p>
 </blockquote>
 <p>
@@ -389,6 +389,12 @@ ITZY召回打歌（热度：43661）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%E5%8D%A1%23" target="weibo">
 王楚钦vs弗朗西斯卡（热度：16115）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%91%E6%96%B0%E8%80%8C%E8%A1%8C%23" target="weibo">
+春天里的中国向新而行（热度：8243）
 </a>
 </li>
 
