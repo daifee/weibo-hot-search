@@ -1,0 +1,410 @@
+{
+  "runTime": 1773300638026,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5665,
+        "num": 1000906,
+        "word": "十四届全国人大四次会议闭幕会",
+        "onboard_time": 1773297080,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192396,
+        "num": 708527,
+        "word": "代表建议取消中考分流",
+        "onboard_time": 1773291922,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6446,
+        "num": 559423,
+        "word": "3月12日两会日程",
+        "onboard_time": 1773271759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 326233,
+        "num": 546636,
+        "word": "镖人 第二部",
+        "onboard_time": 1773296721,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274863,
+        "num": 543795,
+        "word": "浪姐7",
+        "onboard_time": 1773299422,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196160,
+        "num": 523785,
+        "word": "安理会决议要求伊朗停止打海湾国家",
+        "onboard_time": 1773286701,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175505,
+        "num": 508279,
+        "word": "女孩回老家把祖屋改造成雨林民宿",
+        "onboard_time": 1773297080,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112390,
+        "num": 506551,
+        "word": "微信语音视频来电能忽略了",
+        "onboard_time": 1773286761,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30439,
+        "num": 488988,
+        "word": "十五五规划纲要表决通过",
+        "onboard_time": 1773300441,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35585,
+        "num": 477394,
+        "word": "表决通过政府工作报告",
+        "onboard_time": 1773299722,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 468331,
+        "num": 468331,
+        "word": "多邻国绿鸟 离职",
+        "onboard_time": 1773289101,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 462446,
+        "num": 462446,
+        "word": "大学生4个馒头卖了30000元",
+        "onboard_time": 1773300020,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424071,
+        "num": 462391,
+        "word": "德国选手拒绝与俄中选手合影",
+        "onboard_time": 1773293840,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312762,
+        "num": 462108,
+        "word": "袁姗姗演疯了张维伊演爽了",
+        "onboard_time": 1773294921,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309574,
+        "num": 461893,
+        "word": "辛辛苦苦考了一份辛辛苦苦的工作",
+        "onboard_time": 1773289223,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253570,
+        "num": 461720,
+        "word": "熊 这辈子吃的最贵的苹果",
+        "onboard_time": 1773296721,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189264,
+        "num": 461374,
+        "word": "张凌赫被田曦薇摸耳朵的反应",
+        "onboard_time": 1773300141,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185524,
+        "num": 461291,
+        "word": "美军舰后勤补给港口被炸",
+        "onboard_time": 1773295821,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121318,
+        "num": 460997,
+        "word": "代表称老师的职责不该向家长转移",
+        "onboard_time": 1773288322,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28646,
+        "num": 460800,
+        "word": "名宿赞孙颖莎真的不简单",
+        "onboard_time": 1773299661,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622967,
+        "num": 460714,
+        "word": "杨幂把海洋穿身上了",
+        "onboard_time": 1773297380,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460506,
+        "num": 460506,
+        "word": "王濛官宣参加浪姐7",
+        "onboard_time": 1773295821,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215491,
+        "num": 460407,
+        "word": "儿媳一怀孕婆婆立马报班学月嫂",
+        "onboard_time": 1773296001,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372783,
+        "num": 460236,
+        "word": "张凌赫王玉雯 刺棠",
+        "onboard_time": 1773294801,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223430,
+        "num": 460036,
+        "word": "腾讯视频修改逐玉战报",
+        "onboard_time": 1773288502,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157873,
+        "num": 459629,
+        "word": "60斤和110斤互换饮食的一天",
+        "onboard_time": 1773298221,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181062,
+        "num": 459377,
+        "word": "逐玉破万 经纪人亲一个",
+        "onboard_time": 1773284481,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177868,
+        "num": 459206,
+        "word": "改剧本 加流量演员",
+        "onboard_time": 1773299540,
+        "rank": 27,
+        "category": "作品衍生,民生新闻"
+      },
+      {
+        "raw_hot": 153355,
+        "num": 458999,
+        "word": "微信视频通话终于有锁定功能了",
+        "onboard_time": 1773291201,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149824,
+        "num": 458843,
+        "word": "逐玉 业内",
+        "onboard_time": 1773289761,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176054,
+        "num": 458636,
+        "word": "吃全麦面包减肥的人天塌了",
+        "onboard_time": 1773299722,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97256,
+        "num": 458329,
+        "word": "随手拍的照片帮我赚一年生活费",
+        "onboard_time": 1773289462,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121974,
+        "num": 458071,
+        "word": "黄婷婷解约后首个综艺",
+        "onboard_time": 1773294022,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121161,
+        "num": 457802,
+        "word": "田曦薇情商",
+        "onboard_time": 1773297620,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98636,
+        "num": 457687,
+        "word": "双胞胎老了后",
+        "onboard_time": 1773288441,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103617,
+        "num": 457458,
+        "word": "吴京 你看又要传绯闻了",
+        "onboard_time": 1773297321,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95963,
+        "num": 457206,
+        "word": "邓凯孔雪儿情人节封面",
+        "onboard_time": 1773298641,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95168,
+        "num": 457032,
+        "word": "伊朗用最强导弹专打以色列",
+        "onboard_time": 1773299601,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84919,
+        "num": 456657,
+        "word": "曝美国国防部长5天花501亿美元",
+        "onboard_time": 1773292821,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83652,
+        "num": 456385,
+        "word": "向鹏vs梁靖崑",
+        "onboard_time": 1773298880,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83301,
+        "num": 456203,
+        "word": "姐妹俩互用化妆品双双查出肾病",
+        "onboard_time": 1773293601,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80730,
+        "num": 456047,
+        "word": "王不染直播关美颜",
+        "onboard_time": 1773292521,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 77841,
+        "num": 455831,
+        "word": "陈情令演员舞台剧倩女幽魂重聚",
+        "onboard_time": 1773294442,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71751,
+        "num": 455677,
+        "word": "美国伊朗冲突",
+        "onboard_time": 1773284541,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69904,
+        "num": 455276,
+        "word": "3月小米新SU7备产或达16000辆",
+        "onboard_time": 1773299839,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 68386,
+        "num": 455075,
+        "word": "3名美国富豪强奸性侵60名女性",
+        "onboard_time": 1773236061,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67291,
+        "num": 454888,
+        "word": "住进21岁住过的家",
+        "onboard_time": 1773300321,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63900,
+        "num": 454602,
+        "word": "明日方舟终末地",
+        "onboard_time": 1773292341,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59895,
+        "num": 454347,
+        "word": "弥补了人类不能进电风扇的遗憾",
+        "onboard_time": 1773300081,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56887,
+        "num": 454275,
+        "word": "易梦体质",
+        "onboard_time": 1773300562,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树就是植未来#"
+    }
+  }
+}
