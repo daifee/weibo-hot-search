@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773407684193,
+  "endTime": 1773409196991,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -475,6 +475,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 820276,
+      "num": 345340,
+      "word": "多人反映贷款逾期被银行划走养老金",
+      "onboard_time": 1773406822,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 812964,
       "num": 240555,
       "word": "逐玉 出圈梗",
@@ -932,7 +940,7 @@
     },
     {
       "raw_hot": 584955,
-      "num": 142577,
+      "num": 169710,
       "word": "印度90岁妇人遭4蒙面男子强奸",
       "onboard_time": 1773405261,
       "rank": 22,
@@ -1827,6 +1835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 411435,
+      "num": 293326,
+      "word": "随元青我恨你",
+      "onboard_time": 1773401002,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411225,
       "num": 826999,
       "word": "张凌赫王玉雯 刺棠",
@@ -1913,6 +1929,14 @@
       "onboard_time": 1773143063,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400867,
+      "num": 400867,
+      "word": "赵今麦范丞丞 电影",
+      "onboard_time": 1773406762,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 400738,
@@ -2019,14 +2043,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 388761,
-      "num": 293326,
-      "word": "随元青我恨你",
-      "onboard_time": 1773401002,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 386915,
       "num": 386915,
       "word": "景区买个水果捞没想到切完多了",
@@ -2089,6 +2105,14 @@
       "onboard_time": 1773127825,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 378786,
+      "num": 378786,
+      "word": "姐姐把150万元黄金当垃圾扔掉",
+      "onboard_time": 1773405802,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375171,
@@ -2427,14 +2451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 332131,
-      "num": 332131,
-      "word": "姐姐把150万元黄金当垃圾扔掉",
-      "onboard_time": 1773405802,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 331309,
       "num": 526512,
       "word": "炸伊朗小学导弹零件MadeinUSA",
@@ -2620,7 +2636,7 @@
     },
     {
       "raw_hot": 315889,
-      "num": 142391,
+      "num": 168505,
       "word": "教官军训期间猥亵15岁少女",
       "onboard_time": 1773404601,
       "rank": 23,
@@ -3091,6 +3107,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 285565,
+      "num": 285565,
+      "word": "钎九",
+      "onboard_time": 1773408022,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 285520,
       "num": 576065,
       "word": "驻韩美军6部萨德发射车全部运出",
@@ -3419,6 +3443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 256846,
+      "num": 256846,
+      "word": "王一博完全不需要翻译",
+      "onboard_time": 1773404301,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256541,
       "num": 256541,
       "word": "刘文祥过完零丁洋得坨",
@@ -3667,20 +3699,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 238359,
-      "num": 169269,
-      "word": "王一博完全不需要翻译",
-      "onboard_time": 1773404301,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236825,
       "num": 1037892,
       "word": "农业农村部部长建议大家少吃点油",
       "onboard_time": 1773045622,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 236224,
+      "num": 211216,
+      "word": "曝虞书欣何与确定二搭",
+      "onboard_time": 1773408743,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 235997,
@@ -4107,12 +4139,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212291,
+      "num": 768539,
+      "word": "呼啸山庄尺度好大",
+      "onboard_time": 1773407842,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211886,
       "num": 140093,
       "word": "牛耕田",
       "onboard_time": 1772978481,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211676,
+      "num": 211676,
+      "word": "父亲回应女婴出生2天被爷爷丢弃厕所",
+      "onboard_time": 1773405861,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211497,
@@ -4803,14 +4851,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 175044,
-      "num": 331462,
-      "word": "赵今麦范丞丞 电影",
-      "onboard_time": 1773406762,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 175012,
       "num": 917069,
       "word": "时代峰峻把world打成word",
@@ -4953,14 +4993,6 @@
       "onboard_time": 1773324263,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 169333,
-      "num": 169333,
-      "word": "父亲回应女婴出生2天被爷爷丢弃厕所",
-      "onboard_time": 1773405861,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168757,
@@ -5219,6 +5251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161231,
+      "num": 113762,
+      "word": "韩国外交部发声明",
+      "onboard_time": 1773406701,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160937,
       "num": 138427,
       "word": "天津一摊主削凤梨火了",
@@ -5425,6 +5465,14 @@
       "onboard_time": 1772946740,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153667,
+      "num": 153667,
+      "word": "穿prada的女王2 小时代",
+      "onboard_time": 1773404241,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 153574,
@@ -5723,14 +5771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144585,
-      "num": 144585,
-      "word": "多人反映贷款逾期被银行划走养老金",
-      "onboard_time": 1773406822,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144522,
       "num": 566510,
       "word": "伊朗驻华大使谈霍尔木兹海峡通行",
@@ -5985,14 +6025,6 @@
       "onboard_time": 1773402622,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138400,
-      "num": 138400,
-      "word": "穿prada的女王2 小时代",
-      "onboard_time": 1773404241,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 138156,
@@ -7019,6 +7051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115425,
+      "num": 113886,
+      "word": "呼啸山庄",
+      "onboard_time": 1773407301,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115375,
       "num": 293448,
       "word": "影视聚焦 逐玉",
@@ -7209,6 +7249,14 @@
       "onboard_time": 1773229641,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112683,
+      "num": 112683,
+      "word": "樊振东可可爱爱出场",
+      "onboard_time": 1773407903,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 112678,
@@ -7451,6 +7499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108550,
+      "num": 108550,
+      "word": "孙燕姿演唱会",
+      "onboard_time": 1773407662,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108310,
       "num": 592851,
       "word": "伊朗驻华大使回应霍尔木兹海峡问题",
@@ -7537,14 +7593,6 @@
       "onboard_time": 1773117624,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 106975,
-      "num": 106975,
-      "word": "韩国外交部发声明",
-      "onboard_time": 1773406701,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106891,
@@ -9899,6 +9947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82791,
+      "num": 90114,
+      "word": "成长最快的方式是硬着头皮上",
+      "onboard_time": 1773408982,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82772,
       "num": 231145,
       "word": "9岁小球员送王楚钦重庆拼图",
@@ -9963,6 +10019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82131,
+      "num": 82131,
+      "word": "潦草野猫强行提亲",
+      "onboard_time": 1773407903,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82107,
       "num": 238437,
       "word": "周冠宇紫薯精",
@@ -9977,6 +10041,14 @@
       "onboard_time": 1773212541,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81804,
+      "num": 81804,
+      "word": "斗罗2最新一集嗑撑着了",
+      "onboard_time": 1773407903,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 81670,
@@ -10075,6 +10147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80307,
+      "num": 80307,
+      "word": "黄景瑜用粉色手机壳",
+      "onboard_time": 1773408743,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80306,
       "num": 80306,
       "word": "TF四代荣耀之战分房",
@@ -10137,14 +10217,6 @@
       "onboard_time": 1773039261,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79949,
-      "num": 79949,
-      "word": "孙燕姿演唱会",
-      "onboard_time": 1773407662,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 79894,
@@ -10555,6 +10627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76578,
+      "num": 76578,
+      "word": "原来杨幂头顶上只是个普通夹子",
+      "onboard_time": 1773406642,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76572,
       "num": 272096,
       "word": "金银直播间宣称真材实料却卖白菜价",
@@ -10593,14 +10673,6 @@
       "onboard_time": 1773061402,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 76270,
-      "num": 76270,
-      "word": "呼啸山庄",
-      "onboard_time": 1773407301,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 76247,
@@ -10769,6 +10841,14 @@
       "onboard_time": 1773306501,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75031,
+      "num": 75031,
+      "word": "Hero对战LGDNBW",
+      "onboard_time": 1773409162,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 75027,
@@ -11041,6 +11121,14 @@
       "onboard_time": 1773054440,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72898,
+      "num": 173251,
+      "word": "周云杰出道一周年谈心得",
+      "onboard_time": 1773408803,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 72859,
@@ -13755,6 +13843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 46429,
+      "num": 272349,
+      "word": "2026年政府工作报告全文",
+      "onboard_time": 1773407903,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46419,
       "num": 156918,
       "word": "女子上班时为隔壁公司灭火获11万赞",
@@ -15289,6 +15385,14 @@
       "onboard_time": 1773086532,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21455,
+      "num": 172848,
+      "word": "移动副卡未启用扣费560",
+      "onboard_time": 1773408022,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21274,

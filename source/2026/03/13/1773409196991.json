@@ -1,0 +1,410 @@
+{
+  "runTime": 1773409196991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 294524,
+        "num": 1047123,
+        "word": "7000元月薪种地不到一周已招满",
+        "onboard_time": 1773399621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212291,
+        "num": 768539,
+        "word": "呼啸山庄尺度好大",
+        "onboard_time": 1773407842,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25268,
+        "num": 597555,
+        "word": "绿色低碳发展迈入法典时代",
+        "onboard_time": 1773396801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400867,
+        "num": 400867,
+        "word": "赵今麦范丞丞 电影",
+        "onboard_time": 1773406762,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 378786,
+        "num": 378786,
+        "word": "姐姐把150万元黄金当垃圾扔掉",
+        "onboard_time": 1773405802,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 820276,
+        "num": 345340,
+        "word": "多人反映贷款逾期被银行划走养老金",
+        "onboard_time": 1773406822,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285565,
+        "num": 285565,
+        "word": "钎九",
+        "onboard_time": 1773408022,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180527,
+        "num": 285118,
+        "word": "华为回应15599元折叠屏用3天黑屏",
+        "onboard_time": 1773399079,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46429,
+        "num": 272349,
+        "word": "2026年政府工作报告全文",
+        "onboard_time": 1773407903,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54507,
+        "num": 266678,
+        "word": "取消家长护学岗让家校关系回归正轨",
+        "onboard_time": 1773395542,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299567,
+        "num": 256891,
+        "word": "逐玉",
+        "onboard_time": 1773396621,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256846,
+        "num": 256846,
+        "word": "王一博完全不需要翻译",
+        "onboard_time": 1773404301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211676,
+        "num": 211676,
+        "word": "父亲回应女婴出生2天被爷爷丢弃厕所",
+        "onboard_time": 1773405861,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236224,
+        "num": 211216,
+        "word": "曝虞书欣何与确定二搭",
+        "onboard_time": 1773408743,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 615683,
+        "num": 210311,
+        "word": "张凌赫田曦薇头纱转场",
+        "onboard_time": 1773403401,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209404,
+        "num": 209404,
+        "word": "教师值班病逝抢救超48小时未认工伤",
+        "onboard_time": 1773403222,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411435,
+        "num": 199426,
+        "word": "随元青我恨你",
+        "onboard_time": 1773401002,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174277,
+        "num": 174277,
+        "word": "警方通报女子从行驶中出租车跳下",
+        "onboard_time": 1773403222,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 72898,
+        "num": 173251,
+        "word": "周云杰出道一周年谈心得",
+        "onboard_time": 1773408803,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21455,
+        "num": 172848,
+        "word": "移动副卡未启用扣费560",
+        "onboard_time": 1773408022,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536197,
+        "num": 170980,
+        "word": "研究称第二次怀孕会继续重塑大脑",
+        "onboard_time": 1773394401,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 526551,
+        "num": 169710,
+        "word": "印度90岁妇人遭4蒙面男子强奸",
+        "onboard_time": 1773405261,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187826,
+        "num": 168505,
+        "word": "教官军训期间猥亵15岁少女",
+        "onboard_time": 1773404601,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167404,
+        "num": 167404,
+        "word": "张馨予因为减肥抵抗力下降",
+        "onboard_time": 1773402021,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153667,
+        "num": 153667,
+        "word": "穿prada的女王2 小时代",
+        "onboard_time": 1773404241,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120614,
+        "num": 136771,
+        "word": "爱奇艺股价",
+        "onboard_time": 1773397940,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135881,
+        "num": 135881,
+        "word": "康婆子下线看哭了",
+        "onboard_time": 1773401661,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126662,
+        "num": 126662,
+        "word": "李现风格大变",
+        "onboard_time": 1773406162,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114496,
+        "num": 114496,
+        "word": "长期用小拇指托手机的后果",
+        "onboard_time": 1773387682,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115425,
+        "num": 113886,
+        "word": "呼啸山庄",
+        "onboard_time": 1773407301,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161231,
+        "num": 113762,
+        "word": "韩国外交部发声明",
+        "onboard_time": 1773406701,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112683,
+        "num": 112683,
+        "word": "樊振东可可爱爱出场",
+        "onboard_time": 1773407903,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108550,
+        "num": 108550,
+        "word": "孙燕姿演唱会",
+        "onboard_time": 1773407662,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104587,
+        "num": 104587,
+        "word": "关晓彤紧急补救塌颅顶",
+        "onboard_time": 1773400701,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103448,
+        "num": 103448,
+        "word": "美军确认坠毁加油机上4人死亡",
+        "onboard_time": 1773406101,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100427,
+        "num": 100427,
+        "word": "逐玉18集太惨了",
+        "onboard_time": 1773402622,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94653,
+        "num": 94653,
+        "word": "严屹宽 双男主",
+        "onboard_time": 1773385702,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82791,
+        "num": 90114,
+        "word": "成长最快的方式是硬着头皮上",
+        "onboard_time": 1773408982,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88138,
+        "num": 88138,
+        "word": "肖战品质盛典揉了多次眼睛",
+        "onboard_time": 1773399861,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86901,
+        "num": 86901,
+        "word": "金秀贤不愿赔广告主钱",
+        "onboard_time": 1773403581,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45782,
+        "num": 83711,
+        "word": "张云龙虞书欣聚餐",
+        "onboard_time": 1773399561,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82131,
+        "num": 82131,
+        "word": "潦草野猫强行提亲",
+        "onboard_time": 1773407903,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81804,
+        "num": 81804,
+        "word": "斗罗2最新一集嗑撑着了",
+        "onboard_time": 1773407903,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 80307,
+        "num": 80307,
+        "word": "黄景瑜用粉色手机壳",
+        "onboard_time": 1773408743,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79200,
+        "num": 79200,
+        "word": "杨紫又被表扬了",
+        "onboard_time": 1773406401,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77235,
+        "num": 77235,
+        "word": "被盗国保琉璃竟在闲鱼公开售卖",
+        "onboard_time": 1773394640,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77752,
+        "num": 77129,
+        "word": "姓丁的有福了 丁永一",
+        "onboard_time": 1773394580,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76578,
+        "num": 76578,
+        "word": "原来杨幂头顶上只是个普通夹子",
+        "onboard_time": 1773406642,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75031,
+        "num": 75031,
+        "word": "Hero对战LGDNBW",
+        "onboard_time": 1773409162,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75187,
+        "num": 74678,
+        "word": "铁证 孙红雷刘宇宁",
+        "onboard_time": 1773398300,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#用心领悟总书记两会上的殷殷嘱托#"
+    }
+  }
+}
