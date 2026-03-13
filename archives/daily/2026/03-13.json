@@ -1,6 +1,6 @@
 {
   "startTime": 1773331581257,
-  "endTime": 1773392792064,
+  "endTime": 1773395412788,
   "band_list": [
     {
       "raw_hot": 1231876,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314525,
+      "num": 613482,
+      "word": "张凌赫田曦薇挑衅经纪人",
+      "onboard_time": 1773392061,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308581,
       "num": 152565,
       "word": "陈浚铭 闹鬼了",
@@ -467,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242067,
-      "num": 613482,
-      "word": "张凌赫田曦薇挑衅经纪人",
-      "onboard_time": 1773392061,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228380,
       "num": 442121,
       "word": "伊朗最高领袖要求地区美军基地关闭",
@@ -505,6 +505,14 @@
       "onboard_time": 1773377663,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207920,
+      "num": 207920,
+      "word": "美国中期选举开战",
+      "onboard_time": 1773389781,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205975,
@@ -585,6 +593,14 @@
       "onboard_time": 1773325942,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 186423,
+      "num": 136574,
+      "word": "姓丁的有福了 丁永一",
+      "onboard_time": 1773394580,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 181522,
@@ -707,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161423,
+      "num": 161423,
+      "word": "谢征求婚",
+      "onboard_time": 1773392241,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161288,
       "num": 161288,
       "word": "男子做核磁被忘机器上6小时妻子报警",
@@ -763,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150219,
+      "num": 150219,
+      "word": "研究称第二次怀孕会继续重塑大脑",
+      "onboard_time": 1773394401,
+      "rank": 7,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 147797,
       "num": 147797,
       "word": "谢征给樊长玉刮痧",
@@ -793,6 +825,22 @@
       "onboard_time": 1773382581,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142890,
+      "num": 142890,
+      "word": "手机价格大涨消费者发声",
+      "onboard_time": 1773392361,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 141823,
+      "num": 141823,
+      "word": "中方向伊朗遇难学生家长援助20万美元",
+      "onboard_time": 1773390922,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 139247,
@@ -865,14 +913,6 @@
       "onboard_time": 1773376822,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129294,
-      "num": 129294,
-      "word": "美国中期选举开战",
-      "onboard_time": 1773389781,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 129051,
@@ -1043,14 +1083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 109412,
-      "num": 109412,
-      "word": "中方向伊朗遇难学生家长援助20万美元",
-      "onboard_time": 1773390922,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 108041,
       "num": 108041,
       "word": "F1冲刺排位赛",
@@ -1155,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98430,
+      "num": 98430,
+      "word": "母亲网购中药儿子吃后抽搐昏迷",
+      "onboard_time": 1773394940,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98375,
       "num": 289409,
       "word": "微信3大新功能",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1773370100,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94052,
-      "num": 94052,
-      "word": "手机价格大涨消费者发声",
-      "onboard_time": 1773392361,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 93732,
@@ -1291,12 +1323,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 89526,
-      "num": 89526,
-      "word": "谢征求婚",
-      "onboard_time": 1773392241,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 88939,
+      "num": 88939,
+      "word": "阎鹤祥从未否认自己是王一博",
+      "onboard_time": 1773393562,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 88828,
@@ -1403,6 +1435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84397,
+      "num": 84397,
+      "word": "小时候的愿望水灵灵实现了",
+      "onboard_time": 1773394820,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83849,
       "num": 83849,
       "word": "马思纯一演戏面相都变了",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1773379222,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80226,
+      "num": 80226,
+      "word": "陈伟霆的老钱风怎么来的",
+      "onboard_time": 1773390142,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 80068,
@@ -1577,14 +1625,6 @@
       "onboard_time": 1773380901,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 75936,
-      "num": 75936,
-      "word": "陈伟霆的老钱风怎么来的",
-      "onboard_time": 1773390142,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 75443,
@@ -1723,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69626,
+      "num": 79863,
+      "word": "女子泰山插队被大妈一棍回击",
+      "onboard_time": 1773392902,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69336,
       "num": 69336,
       "word": "第五人格COA9",
@@ -1737,6 +1785,14 @@
       "onboard_time": 1773371660,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68255,
+      "num": 79793,
+      "word": "俞浅浅为什么不认识张凌赫田曦薇",
+      "onboard_time": 1773395122,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 68166,
@@ -1763,12 +1819,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64103,
+      "num": 79603,
+      "word": "大冰让做微商的女子讲行业内幕",
+      "onboard_time": 1773393261,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 63866,
+      "num": 79554,
+      "word": "三亚偶遇张柏芝",
+      "onboard_time": 1773394042,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63751,
       "num": 63751,
       "word": "莱巴金娜战胜佩古拉",
       "onboard_time": 1773367760,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63093,
+      "num": 79504,
+      "word": "果然慈母多败咪",
+      "onboard_time": 1773393201,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 62934,
@@ -1851,6 +1931,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58935,
+      "num": 79394,
+      "word": "咪的世界一直在下坠",
+      "onboard_time": 1773395301,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 58792,
+      "num": 79287,
+      "word": "爱的五种表达方式",
+      "onboard_time": 1773394341,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57380,
       "num": 102799,
       "word": "中产小孩降级去泰国插班",
@@ -1865,6 +1961,14 @@
       "onboard_time": 1773329961,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54208,
+      "num": 513601,
+      "word": "漳州市市监局介入核实问题冻干草莓",
+      "onboard_time": 1773392061,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 53903,
@@ -2019,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40495,
+      "num": 139554,
+      "word": "被盗国保琉璃竟在闲鱼公开售卖",
+      "onboard_time": 1773394640,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39986,
       "num": 189932,
       "word": "瞿颖papi热烈欢迎",
@@ -2051,6 +2163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35638,
+      "num": 143070,
+      "word": "建议发放历史贡献养老金",
+      "onboard_time": 1773393083,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34976,
       "num": 199749,
       "word": "周云杰2026首场大型发布会直播",
@@ -2067,20 +2187,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32610,
-      "num": 513601,
-      "word": "漳州市市监局介入核实问题冻干草莓",
-      "onboard_time": 1773392061,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 31865,
       "num": 261007,
       "word": "人人人人也要拍到孙颖莎",
       "onboard_time": 1773380901,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30105,
+      "num": 529427,
+      "word": "代表呼吁关注通信骚扰再抬头",
+      "onboard_time": 1773390621,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29719,
@@ -2147,14 +2267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23911,
-      "num": 529427,
-      "word": "代表呼吁关注通信骚扰再抬头",
-      "onboard_time": 1773390621,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 23433,
       "num": 635135,
       "word": "这个春天再出发",
@@ -2219,12 +2331,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19395,
+      "num": 138763,
+      "word": "甲胺磷羊肉面与剧毒农药同名引争议",
+      "onboard_time": 1773394820,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18940,
       "num": 187635,
       "word": "王楚钦vs弗朗西斯卡",
       "onboard_time": 1773319220,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18230,
+      "num": 80177,
+      "word": "穿普拉达的女王2手提包爆米花桶",
+      "onboard_time": 1773394280,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 17860,
