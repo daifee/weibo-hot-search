@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773386955317,
+  "endTime": 1773388995187,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -241,6 +241,14 @@
       "onboard_time": 1773271821,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1102729,
+      "num": 240384,
+      "word": "痞幼做医美了",
+      "onboard_time": 1773385942,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 1088591,
@@ -1227,14 +1235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 487356,
-      "num": 240384,
-      "word": "痞幼做医美了",
-      "onboard_time": 1773385942,
-      "rank": 20,
-      "category": "网红"
-    },
-    {
       "raw_hot": 486522,
       "num": 237308,
       "word": "曝美军方花900万美元买帝王蟹龙虾",
@@ -1545,6 +1545,14 @@
       "onboard_time": 1773185540,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433588,
+      "num": 266073,
+      "word": "绩效 反人类",
+      "onboard_time": 1773386420,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 432980,
@@ -2097,6 +2105,14 @@
       "onboard_time": 1773144503,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 361577,
+      "num": 265523,
+      "word": "澳洲遇难男子遗体回家费用犯愁",
+      "onboard_time": 1773385461,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 361342,
@@ -3491,6 +3507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237053,
+      "num": 237053,
+      "word": "长期用小拇指托手机的后果",
+      "onboard_time": 1773387682,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 236825,
       "num": 1037892,
       "word": "农业农村部部长建议大家少吃点油",
@@ -4227,6 +4251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192504,
+      "num": 313231,
+      "word": "沈月说不能留白鹿一个人",
+      "onboard_time": 1773385520,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191779,
       "num": 692801,
       "word": "把果蝇的大脑复制到电脑",
@@ -4379,6 +4411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186133,
+      "num": 186133,
+      "word": "儿子遗体在泰医院失踪中国父亲报警",
+      "onboard_time": 1773387020,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 185524,
       "num": 467144,
       "word": "美军舰后勤补给港口被炸",
@@ -4441,14 +4481,6 @@
       "onboard_time": 1773294442,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 179587,
-      "num": 179587,
-      "word": "澳洲遇难男子遗体回家费用犯愁",
-      "onboard_time": 1773385461,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 179419,
@@ -4825,6 +4857,14 @@
       "onboard_time": 1773100580,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163366,
+      "num": 96255,
+      "word": "温瑞博vs邱党",
+      "onboard_time": 1773388160,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 162603,
@@ -5659,6 +5699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135801,
+      "num": 135801,
+      "word": "女子把过期牛奶给狗喝致其死亡",
+      "onboard_time": 1773388942,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135791,
       "num": 135791,
       "word": "5岁男童总腿疼以为长个子确诊白血病",
@@ -6171,6 +6219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124666,
+      "num": 124666,
+      "word": "卜凡 sk团播",
+      "onboard_time": 1773388283,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124333,
       "num": 124333,
       "word": "代露娃唐诗逸开机路透",
@@ -6323,6 +6379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121271,
+      "num": 121271,
+      "word": "周星驰打劫孙燕姿抢演唱会门票",
+      "onboard_time": 1773387861,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121180,
       "num": 121180,
       "word": "丁真控诉十个勤天",
@@ -6361,14 +6425,6 @@
       "onboard_time": 1772948901,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 120488,
-      "num": 120488,
-      "word": "绩效 反人类",
-      "onboard_time": 1773386420,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 120312,
@@ -7025,14 +7081,6 @@
       "onboard_time": 1772949381,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107560,
-      "num": 107560,
-      "word": "沈月说不能留白鹿一个人",
-      "onboard_time": 1773385520,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 107507,
@@ -8379,6 +8427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91344,
+      "num": 372902,
+      "word": "这球也就是孙颖莎能打出来",
+      "onboard_time": 1773386060,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91285,
       "num": 657695,
       "word": "谢征切大号",
@@ -8707,6 +8763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 88383,
+      "num": 88383,
+      "word": "小猫相亲选了个秃头",
+      "onboard_time": 1773386841,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88194,
       "num": 88194,
       "word": "BTS动画预告",
@@ -8883,6 +8947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 86755,
+      "num": 310085,
+      "word": "襁褓女婴被领养到荷兰28年今日回国",
+      "onboard_time": 1773386543,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86743,
       "num": 86743,
       "word": "魏晨一句话陈哲远天塌了",
@@ -8905,6 +8977,14 @@
       "onboard_time": 1773367220,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86654,
+      "num": 86654,
+      "word": "韩佳人化中国网红妆",
+      "onboard_time": 1773388581,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 86595,
@@ -9155,14 +9235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83846,
-      "num": 83846,
-      "word": "小猫相亲选了个秃头",
-      "onboard_time": 1773386841,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83818,
       "num": 786027,
       "word": "申裕斌3比1桥本帆乃香",
@@ -9353,6 +9425,22 @@
       "onboard_time": 1773195380,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81391,
+      "num": 81391,
+      "word": "上门开锁标价25元上门收2000元",
+      "onboard_time": 1773386961,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81346,
+      "num": 81346,
+      "word": "郭晓婷理想型是傲慢与偏见的达西",
+      "onboard_time": 1773388520,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 81279,
@@ -9881,6 +9969,14 @@
       "onboard_time": 1772897362,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76397,
+      "num": 76397,
+      "word": "缺觉等于全身发炎",
+      "onboard_time": 1773388642,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 76324,
@@ -10531,6 +10627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70747,
+      "num": 70747,
+      "word": "伊朗被曝研究开辟新战场",
+      "onboard_time": 1773388821,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70633,
       "num": 297321,
       "word": "白鹿张艺凡内娱最爱笑的俩聚一起了",
@@ -10875,6 +10979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 68166,
+      "num": 372165,
+      "word": "去年315被点名的企业怎么样了",
+      "onboard_time": 1773385821,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68134,
       "num": 221037,
       "word": "OpenClaw火了龙虾养了也要防",
@@ -10897,14 +11009,6 @@
       "onboard_time": 1773046522,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 67608,
-      "num": 372165,
-      "word": "去年315被点名的企业怎么样了",
-      "onboard_time": 1773385821,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67530,
@@ -12073,14 +12177,6 @@
       "onboard_time": 1773022281,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 56157,
-      "num": 372902,
-      "word": "这球也就是孙颖莎能打出来",
-      "onboard_time": 1773386060,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 56110,
@@ -13435,6 +13531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36234,
+      "num": 81516,
+      "word": "女孩吃酸奶勺子卡牙里凌晨就医",
+      "onboard_time": 1773388760,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35936,
       "num": 512003,
       "word": "孙颖莎完赛又去加练了",
@@ -14011,6 +14115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24916,
+      "num": 679163,
+      "word": "十五五新程上我们有底气有动力",
+      "onboard_time": 1773376282,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24701,
       "num": 39553,
       "word": "丁禹兮吹花瓣",
@@ -14219,20 +14331,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21691,
-      "num": 679163,
-      "word": "十五五新程上我们有底气有动力",
-      "onboard_time": 1773376282,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21576,
       "num": 144540,
       "word": "宇宙闪烁请注意",
       "onboard_time": 1773086532,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21274,
+      "num": 204765,
+      "word": "双十一囤的三亚酒店券全约不上",
+      "onboard_time": 1773388160,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21173,
@@ -14329,14 +14441,6 @@
       "onboard_time": 1773163996,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 19769,
-      "num": 310085,
-      "word": "襁褓女婴被领养到荷兰28年今日回国",
-      "onboard_time": 1773386543,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19767,
