@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773398806974,
+  "endTime": 1773399899122,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 934710,
-      "num": 548815,
+      "num": 613560,
       "word": "研究称第二次怀孕会继续重塑大脑",
       "onboard_time": 1773394401,
       "rank": 7,
@@ -963,20 +963,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 540880,
+      "num": 540880,
+      "word": "姓丁的有福了 丁永一",
+      "onboard_time": 1773394580,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540286,
       "num": 540286,
       "word": "小水在看逐玉",
       "onboard_time": 1773240263,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 538340,
-      "num": 169904,
-      "word": "姓丁的有福了 丁永一",
-      "onboard_time": 1773394580,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 536784,
@@ -2971,6 +2971,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 288040,
+      "num": 188787,
+      "word": "母亲网购中药儿子吃后抽搐昏迷",
+      "onboard_time": 1773394940,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287675,
       "num": 878301,
       "word": "2026白玉兰预测",
@@ -3121,6 +3129,14 @@
       "onboard_time": 1773049221,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276401,
+      "num": 749492,
+      "word": "被盗国保琉璃竟在闲鱼公开售卖",
+      "onboard_time": 1773394640,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274796,
@@ -3507,14 +3523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241914,
-      "num": 749492,
-      "word": "被盗国保琉璃竟在闲鱼公开售卖",
-      "onboard_time": 1773394640,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241552,
       "num": 366670,
       "word": "岳雨婷 司宫令",
@@ -3761,6 +3769,14 @@
       "onboard_time": 1773105621,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 224727,
+      "num": 148089,
+      "word": "爱情公寓是霍建华推荐娄艺潇演的",
+      "onboard_time": 1773395542,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224343,
@@ -4259,6 +4275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195038,
+      "num": 195038,
+      "word": "俞浅浅为什么不认识张凌赫田曦薇",
+      "onboard_time": 1773395122,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194782,
       "num": 370937,
       "word": "同工不同酬的劳务派遣制度该废止了",
@@ -4651,6 +4675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175133,
+      "num": 200763,
+      "word": "中方向伊朗遇难学生家长援助20万美元",
+      "onboard_time": 1773390922,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 175012,
       "num": 917069,
       "word": "时代峰峻把world打成word",
@@ -4665,14 +4697,6 @@
       "onboard_time": 1773274281,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174608,
-      "num": 200763,
-      "word": "中方向伊朗遇难学生家长援助20万美元",
-      "onboard_time": 1773390922,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 174496,
@@ -5451,14 +5475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 148089,
-      "num": 148089,
-      "word": "爱情公寓是霍建华推荐娄艺潇演的",
-      "onboard_time": 1773395542,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 147797,
       "num": 147797,
       "word": "谢征给樊长玉刮痧",
@@ -5529,6 +5545,14 @@
       "onboard_time": 1772931439,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145549,
+      "num": 200756,
+      "word": "济州航空空难一年后再现遇难者遗骸",
+      "onboard_time": 1773396141,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 145498,
@@ -5619,14 +5643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142765,
-      "num": 188787,
-      "word": "母亲网购中药儿子吃后抽搐昏迷",
-      "onboard_time": 1773394940,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142415,
       "num": 142415,
       "word": "郑钦文止步次轮",
@@ -5713,6 +5729,14 @@
       "onboard_time": 1773105681,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141397,
+      "num": 576816,
+      "word": "爱奇艺股价",
+      "onboard_time": 1773397940,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 141294,
@@ -6227,6 +6251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126656,
+      "num": 126656,
+      "word": "铁证 孙红雷刘宇宁",
+      "onboard_time": 1773398300,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126573,
       "num": 126573,
       "word": "iPhone18Pro或无屏下FaceID",
@@ -6425,14 +6457,6 @@
       "onboard_time": 1772941041,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 123232,
-      "num": 200756,
-      "word": "济州航空空难一年后再现遇难者遗骸",
-      "onboard_time": 1773396141,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 123164,
@@ -7291,6 +7315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106670,
+      "num": 106670,
+      "word": "荷兰回国认亲女子生父回应遗弃女儿",
+      "onboard_time": 1773399141,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106631,
       "num": 1008636,
       "word": "第2场部长通道",
@@ -7336,14 +7368,6 @@
       "word": "江湖夜雨十年灯大结局",
       "onboard_time": 1773225801,
       "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 105312,
-      "num": 180823,
-      "word": "俞浅浅为什么不认识张凌赫田曦薇",
-      "onboard_time": 1773395122,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -9523,6 +9547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83500,
+      "num": 83500,
+      "word": "76年的李维嘉像96年的付豪生的",
+      "onboard_time": 1773397640,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83456,
       "num": 138512,
       "word": "养龙虾前你需要知道这些风险",
@@ -10067,6 +10099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77682,
+      "num": 200755,
+      "word": "取消家长护学岗让家校关系回归正轨",
+      "onboard_time": 1773395542,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77672,
       "num": 573083,
       "word": "两会",
@@ -10169,14 +10209,6 @@
       "onboard_time": 1773316462,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 76925,
-      "num": 200755,
-      "word": "取消家长护学岗让家校关系回归正轨",
-      "onboard_time": 1773395542,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76897,
@@ -10787,6 +10819,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 72200,
+      "num": 80876,
+      "word": "多方回应被盗国保琉璃在闲鱼售卖",
+      "onboard_time": 1773398661,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72105,
       "num": 598689,
       "word": "大学生绝对不能碰的7条红线",
@@ -10897,14 +10937,6 @@
       "onboard_time": 1773195859,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71024,
-      "num": 106437,
-      "word": "爱奇艺股价",
-      "onboard_time": 1773397940,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 71023,
@@ -11057,6 +11089,14 @@
       "onboard_time": 1772939780,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 70032,
+      "num": 70032,
+      "word": "谢娜防了半天还是被套路了",
+      "onboard_time": 1773399861,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 69946,
@@ -11347,6 +11387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67393,
+      "num": 75236,
+      "word": "华为回应15599元折叠屏用3天黑屏",
+      "onboard_time": 1773399079,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 67291,
       "num": 454888,
       "word": "住进21岁住过的家",
@@ -11507,20 +11555,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66316,
+      "num": 66316,
+      "word": "这么傻的羊居然有两只",
+      "onboard_time": 1773398901,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66284,
       "num": 157951,
       "word": "如何避免OpenClaw使用风险",
       "onboard_time": 1772955081,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 66255,
-      "num": 109130,
-      "word": "铁证 孙红雷刘宇宁",
-      "onboard_time": 1773398300,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 65866,
@@ -12379,14 +12427,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 58147,
-      "num": 67747,
-      "word": "76年的李维嘉像96年的付豪生的",
-      "onboard_time": 1773397640,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 58121,
       "num": 236736,
       "word": "王毅向女同胞致以节日祝福",
@@ -12451,6 +12491,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 57551,
+      "num": 62136,
+      "word": "火星日落的真实照片",
+      "onboard_time": 1773399079,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 57474,
       "num": 260766,
       "word": "看完感觉又上了一天班",
@@ -12513,6 +12561,14 @@
       "onboard_time": 1772954781,
       "rank": 46,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 56982,
+      "num": 56982,
+      "word": "肖战品质盛典揉了多次眼睛",
+      "onboard_time": 1773399861,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 56917,
@@ -12729,14 +12785,6 @@
       "onboard_time": 1773077295,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 54248,
-      "num": 67745,
-      "word": "多方回应被盗国保琉璃在闲鱼售卖",
-      "onboard_time": 1773398661,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54208,
@@ -13523,6 +13571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42718,
+      "num": 67302,
+      "word": "7000元月薪种地不到一周已招满",
+      "onboard_time": 1773399621,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42427,
       "num": 365946,
       "word": "字节版OpenClaw上线",
@@ -14116,7 +14172,7 @@
     },
     {
       "raw_hot": 34322,
-      "num": 612165,
+      "num": 622799,
       "word": "绿色低碳发展迈入法典时代",
       "onboard_time": 1773396801,
       "rank": 2,
@@ -14177,6 +14233,14 @@
       "onboard_time": 1772893823,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33349,
+      "num": 106168,
+      "word": "售价3000的美容仪成本仅100元",
+      "onboard_time": 1773399621,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33320,
@@ -14771,6 +14835,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22895,
+      "num": 200759,
+      "word": "这些两会好声音掷地有声",
+      "onboard_time": 1773396801,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 22743,
+      "num": 67357,
+      "word": "杨紫在罗马一眼认出粉丝",
+      "onboard_time": 1773399621,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22538,
       "num": 615140,
       "word": "十五五规划提到这些新词热词",
@@ -14881,6 +14961,14 @@
       "onboard_time": 1773283882,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20911,
+      "num": 172833,
+      "word": "全素猫粮是噱头吗",
+      "onboard_time": 1773398422,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20670,
@@ -15147,14 +15235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15748,
-      "num": 200759,
-      "word": "这些两会好声音掷地有声",
-      "onboard_time": 1773396801,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 15413,
       "num": 83750,
       "word": "大国重器又立功了",
@@ -15311,14 +15391,6 @@
       "num": 570867,
       "word": "江西一村老人满100岁发10万",
       "onboard_time": 1773046822,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12957,
-      "num": 172833,
-      "word": "全素猫粮是噱头吗",
-      "onboard_time": 1773398422,
       "rank": 19,
       "category": "民生新闻"
     },
