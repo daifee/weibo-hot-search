@@ -1,6 +1,6 @@
 {
   "startTime": 1773331581257,
-  "endTime": 1773399899122,
+  "endTime": 1773401934847,
   "band_list": [
     {
       "raw_hot": 1231876,
@@ -97,6 +97,14 @@
       "onboard_time": 1773374242,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 729546,
+      "num": 123389,
+      "word": "关晓彤紧急补救塌颅顶",
+      "onboard_time": 1773400701,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 708560,
@@ -299,6 +307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 386844,
+      "num": 290251,
+      "word": "逐玉",
+      "onboard_time": 1773309861,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373198,
       "num": 136549,
       "word": "伊朗称若电力遭袭整个地区将陷黑暗",
@@ -323,11 +339,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 353200,
+      "num": 1056512,
+      "word": "爱奇艺股价",
+      "onboard_time": 1773397940,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 350278,
       "num": 783570,
       "word": "多款100%椰子水被曝兑水加糖",
       "onboard_time": 1773374903,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340962,
+      "num": 751407,
+      "word": "被盗国保琉璃竟在闲鱼公开售卖",
+      "onboard_time": 1773394640,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -459,14 +491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 276401,
-      "num": 749492,
-      "word": "被盗国保琉璃竟在闲鱼公开售卖",
-      "onboard_time": 1773394640,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269398,
       "num": 206631,
       "word": "杨紫向品牌方赠汉服引惊叹",
@@ -515,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 228137,
+      "num": 195038,
+      "word": "俞浅浅为什么不认识张凌赫田曦薇",
+      "onboard_time": 1773395122,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226993,
       "num": 226993,
       "word": "北京WBG对战ACT",
@@ -547,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212743,
+      "num": 186315,
+      "word": "荷兰回国认亲女子生父回应遗弃女儿",
+      "onboard_time": 1773399141,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207920,
       "num": 207920,
       "word": "美国中期选举开战",
@@ -571,14 +611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200766,
-      "num": 290251,
-      "word": "逐玉",
-      "onboard_time": 1773309861,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200077,
       "num": 290497,
       "word": "20岁小伙泡沫尿1年多不重视致透析",
@@ -601,14 +633,6 @@
       "onboard_time": 1773369320,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195038,
-      "num": 195038,
-      "word": "俞浅浅为什么不认识张凌赫田曦薇",
-      "onboard_time": 1773395122,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 193168,
@@ -697,6 +721,22 @@
       "onboard_time": 1773388581,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173131,
+      "num": 173131,
+      "word": "随元青我恨你",
+      "onboard_time": 1773401002,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169203,
+      "num": 169203,
+      "word": "华为回应15599元折叠屏用3天黑屏",
+      "onboard_time": 1773399079,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 168646,
@@ -827,6 +867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154035,
+      "num": 121648,
+      "word": "谢娜防了半天还是被套路了",
+      "onboard_time": 1773399861,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152466,
       "num": 152466,
       "word": "00后女生运营体温计网店月销超10万",
@@ -841,6 +889,22 @@
       "onboard_time": 1773328462,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149494,
+      "num": 149494,
+      "word": "7000元月薪种地不到一周已招满",
+      "onboard_time": 1773399621,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149188,
+      "num": 149188,
+      "word": "24岁女研究生陪母抗癌后确诊肠癌",
+      "onboard_time": 1773399920,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147797,
@@ -881,14 +945,6 @@
       "onboard_time": 1773382581,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141397,
-      "num": 576816,
-      "word": "爱奇艺股价",
-      "onboard_time": 1773397940,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 139247,
@@ -947,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134161,
+      "num": 134161,
+      "word": "铁证 孙红雷刘宇宁",
+      "onboard_time": 1773398300,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133640,
       "num": 133640,
       "word": "晨跑vs夜跑的区别",
@@ -979,14 +1043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126656,
-      "num": 126656,
-      "word": "铁证 孙红雷刘宇宁",
-      "onboard_time": 1773398300,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125648,
       "num": 125648,
       "word": "这开口就是20年工龄",
@@ -1008,6 +1064,14 @@
       "word": "代露娃唐诗逸开机路透",
       "onboard_time": 1773368542,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121318,
+      "num": 121318,
+      "word": "张云龙虞书欣聚餐",
+      "onboard_time": 1773399561,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1073,6 +1137,14 @@
       "onboard_time": 1773360019,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117198,
+      "num": 106706,
+      "word": "垫底辣孩到底长什么样",
+      "onboard_time": 1773400401,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 115257,
@@ -1163,14 +1235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 106670,
-      "num": 106670,
-      "word": "荷兰回国认亲女子生父回应遗弃女儿",
-      "onboard_time": 1773399141,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105223,
       "num": 105223,
       "word": "LABUBU三丽鸥联名被吐槽不协调",
@@ -1243,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100478,
+      "num": 100478,
+      "word": "男子伪造3.7万个拉环每天兑10箱啤酒",
+      "onboard_time": 1773400342,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99922,
       "num": 99922,
       "word": "6800元一针细胞回春到底什么来头",
@@ -1257,6 +1329,14 @@
       "onboard_time": 1773386241,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99132,
+      "num": 99132,
+      "word": "76年的李维嘉像96年的付豪生的",
+      "onboard_time": 1773397640,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 98644,
@@ -1289,6 +1369,14 @@
       "onboard_time": 1773383061,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97078,
+      "num": 97078,
+      "word": "肖战品质盛典揉了多次眼睛",
+      "onboard_time": 1773399861,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 96417,
@@ -1443,6 +1531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88101,
+      "num": 88101,
+      "word": "多方回应被盗国保琉璃在闲鱼售卖",
+      "onboard_time": 1773398661,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87977,
       "num": 87977,
       "word": "gse 抢日乙鸡蛋",
@@ -1539,14 +1635,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83500,
-      "num": 83500,
-      "word": "76年的李维嘉像96年的付豪生的",
-      "onboard_time": 1773397640,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 83161,
       "num": 91473,
       "word": "杨紫说没接综艺",
@@ -1571,6 +1659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 82193,
+      "num": 200755,
+      "word": "取消家长护学岗让家校关系回归正轨",
+      "onboard_time": 1773395542,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82191,
       "num": 82191,
       "word": "十个勤天到底对丁真做了什么",
@@ -1592,6 +1688,14 @@
       "word": "郭晓婷理想型是傲慢与偏见的达西",
       "onboard_time": 1773388520,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 81331,
+      "num": 81331,
+      "word": "康婆子下线看哭了",
+      "onboard_time": 1773401661,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1651,19 +1755,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 78532,
+      "num": 78532,
+      "word": "男子被忘核磁共振机医院曾被罚5900万",
+      "onboard_time": 1773401362,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78180,
       "num": 515351,
       "word": "代表推进小班化教学建议被采纳",
       "onboard_time": 1773331220,
       "rank": 7,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 77682,
-      "num": 200755,
-      "word": "取消家长护学岗让家校关系回归正轨",
-      "onboard_time": 1773395542,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -1819,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72859,
+      "num": 72859,
+      "word": "分期乐等5家平台运营机构被约谈",
+      "onboard_time": 1773401661,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72853,
       "num": 284349,
       "word": "中方回应是否有中国民用商船遭袭",
@@ -1833,14 +1945,6 @@
       "onboard_time": 1773383840,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72200,
-      "num": 80876,
-      "word": "多方回应被盗国保琉璃在闲鱼售卖",
-      "onboard_time": 1773398661,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72056,
@@ -1875,6 +1979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 70217,
+      "num": 73055,
+      "word": "地平线HSD城野皆好开",
+      "onboard_time": 1773401720,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 70157,
       "num": 70157,
       "word": "又被小孩上了一课",
@@ -1889,14 +2001,6 @@
       "onboard_time": 1773390621,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 70032,
-      "num": 70032,
-      "word": "谢娜防了半天还是被套路了",
-      "onboard_time": 1773399861,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 69898,
@@ -1939,12 +2043,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67393,
-      "num": 75236,
-      "word": "华为回应15599元折叠屏用3天黑屏",
-      "onboard_time": 1773399079,
-      "rank": 33,
-      "category": "数码"
+      "raw_hot": 67901,
+      "num": 67420,
+      "word": "可灵3.0全量开放降低动画创作门槛",
+      "onboard_time": 1773401300,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 66316,
@@ -2027,12 +2131,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62518,
+      "num": 62518,
+      "word": "王橹杰投篮",
+      "onboard_time": 1773399981,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62452,
       "num": 69059,
       "word": "90后成30万级汽车消费主力",
       "onboard_time": 1773391881,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 61428,
+      "num": 61428,
+      "word": "蔓味轻食切掉霉斑继续用门店已停业",
+      "onboard_time": 1773401841,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61385,
+      "num": 86703,
+      "word": "WTT重庆冠军赛",
+      "onboard_time": 1773270378,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60744,
@@ -2129,14 +2257,6 @@
       "onboard_time": 1773395840,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56982,
-      "num": 56982,
-      "word": "肖战品质盛典揉了多次眼睛",
-      "onboard_time": 1773399861,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 55617,
@@ -2291,14 +2411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 42718,
-      "num": 67302,
-      "word": "7000元月薪种地不到一周已招满",
-      "onboard_time": 1773399621,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41162,
       "num": 57035,
       "word": "养AI龙虾小心安全风险",
@@ -2329,6 +2441,14 @@
       "onboard_time": 1773330501,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39039,
+      "num": 72864,
+      "word": "平台订房付1471元酒店仅收到618元",
+      "onboard_time": 1773400824,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37397,
@@ -2483,19 +2603,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24201,
+      "num": 200759,
+      "word": "这些两会好声音掷地有声",
+      "onboard_time": 1773396801,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23433,
       "num": 635135,
       "word": "这个春天再出发",
       "onboard_time": 1773380541,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 22895,
-      "num": 200759,
-      "word": "这些两会好声音掷地有声",
-      "onboard_time": 1773396801,
-      "rank": 7,
       "category": "国内时政"
     },
     {
@@ -2619,6 +2739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16989,
+      "num": 124557,
+      "word": "阳光财险员工借项目垫资骗取百万元",
+      "onboard_time": 1773400824,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 16887,
       "num": 185660,
       "word": "种地吧4",
@@ -2705,14 +2833,6 @@
       "onboard_time": 1773338955,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1371,
-      "num": 86703,
-      "word": "WTT重庆冠军赛",
-      "onboard_time": 1773270378,
-      "rank": 49,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
