@@ -1,6 +1,6 @@
 {
   "startTime": 1773331581257,
-  "endTime": 1773402832266,
+  "endTime": 1773407684193,
   "band_list": [
     {
       "raw_hot": 1231876,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 729546,
-      "num": 124247,
+      "num": 141146,
       "word": "关晓彤紧急补救塌颅顶",
       "onboard_time": 1773400701,
       "rank": 20,
@@ -112,6 +112,14 @@
       "word": "严屹宽 双男主",
       "onboard_time": 1773385702,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 702184,
+      "num": 299158,
+      "word": "张凌赫田曦薇头纱转场",
+      "onboard_time": 1773403401,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -129,6 +137,14 @@
       "onboard_time": 1773365359,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 584955,
+      "num": 142577,
+      "word": "印度90岁妇人遭4蒙面男子强奸",
+      "onboard_time": 1773405261,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 540880,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 438267,
-      "num": 290251,
+      "num": 310332,
       "word": "逐玉",
       "onboard_time": 1773309861,
       "rank": 24,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 390667,
-      "num": 752493,
+      "num": 771565,
       "word": "华为回应15599元折叠屏用3天黑屏",
       "onboard_time": 1773399079,
       "rank": 33,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 388761,
-      "num": 248612,
+      "num": 293326,
       "word": "随元青我恨你",
       "onboard_time": 1773401002,
       "rank": 12,
@@ -403,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332131,
+      "num": 332131,
+      "word": "姐姐把150万元黄金当垃圾扔掉",
+      "onboard_time": 1773405802,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329769,
       "num": 329769,
       "word": "冻干草莓测出二十几种农药",
@@ -435,12 +459,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315889,
+      "num": 142391,
+      "word": "教官军训期间猥亵15岁少女",
+      "onboard_time": 1773404601,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314525,
       "num": 613482,
       "word": "张凌赫田曦薇挑衅经纪人",
       "onboard_time": 1773392061,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311756,
+      "num": 1049880,
+      "word": "7000元月薪种地不到一周已招满",
+      "onboard_time": 1773399621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308581,
@@ -465,6 +505,14 @@
       "onboard_time": 1773365600,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 298429,
+      "num": 298429,
+      "word": "教师值班病逝抢救超48小时未认工伤",
+      "onboard_time": 1773403222,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290812,
@@ -507,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273013,
+      "num": 273013,
+      "word": "张馨予因为减肥抵抗力下降",
+      "onboard_time": 1773402021,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269398,
       "num": 206631,
       "word": "杨紫向品牌方赠汉服引惊叹",
@@ -539,20 +595,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 252768,
-      "num": 252768,
-      "word": "7000元月薪种地不到一周已招满",
-      "onboard_time": 1773399621,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243262,
       "num": 618404,
       "word": "安崎求职浪姐真的成功了",
       "onboard_time": 1773389841,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238359,
+      "num": 169269,
+      "word": "王一博完全不需要翻译",
+      "onboard_time": 1773404301,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 228380,
@@ -593,6 +649,14 @@
       "onboard_time": 1773395542,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220142,
+      "num": 324802,
+      "word": "警方通报女子从行驶中出租车跳下",
+      "onboard_time": 1773403222,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 216019,
@@ -747,12 +811,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175044,
+      "num": 331462,
+      "word": "赵今麦范丞丞 电影",
+      "onboard_time": 1773406762,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173658,
       "num": 173658,
       "word": "韩佳人化中国网红妆",
       "onboard_time": 1773388581,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171466,
+      "num": 318728,
+      "word": "康婆子下线看哭了",
+      "onboard_time": 1773401661,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169333,
+      "num": 169333,
+      "word": "父亲回应女婴出生2天被爷爷丢弃厕所",
+      "onboard_time": 1773405861,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168646,
@@ -867,6 +955,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 154824,
+      "num": 143340,
+      "word": "美军确认坠毁加油机上4人死亡",
+      "onboard_time": 1773406101,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154375,
       "num": 154375,
       "word": "王鹤润道歉",
@@ -931,6 +1027,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 144585,
+      "num": 144585,
+      "word": "多人反映贷款逾期被银行划走养老金",
+      "onboard_time": 1773406822,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144388,
       "num": 128051,
       "word": "遇难女生最后1条朋友圈说能见度为0",
@@ -947,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140935,
+      "num": 140935,
+      "word": "李现风格大变",
+      "onboard_time": 1773406162,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139247,
       "num": 407699,
       "word": "天塌了山姆的三文鱼原来不能生吃",
@@ -961,6 +1073,22 @@
       "onboard_time": 1773389061,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138472,
+      "num": 138472,
+      "word": "逐玉18集太惨了",
+      "onboard_time": 1773402622,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138400,
+      "num": 138400,
+      "word": "穿prada的女王2 小时代",
+      "onboard_time": 1773404241,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 135763,
@@ -1035,14 +1163,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127211,
-      "num": 127211,
-      "word": "康婆子下线看哭了",
-      "onboard_time": 1773401661,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126699,
       "num": 129449,
       "word": "小狗被困井底三个冬天居然胖了",
@@ -1107,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119970,
+      "num": 119970,
+      "word": "金秀贤不愿赔广告主钱",
+      "onboard_time": 1773403581,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119854,
       "num": 119854,
       "word": "女子流清鼻涕4年竟是脑子漏水",
@@ -1161,14 +1289,6 @@
       "onboard_time": 1773400401,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 116005,
-      "num": 116005,
-      "word": "张馨予因为减肥抵抗力下降",
-      "onboard_time": 1773402021,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 115257,
@@ -1275,6 +1395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106975,
+      "num": 106975,
+      "word": "韩国外交部发声明",
+      "onboard_time": 1773406701,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105223,
       "num": 105223,
       "word": "LABUBU三丽鸥联名被吐槽不协调",
@@ -1339,6 +1467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101405,
+      "num": 101405,
+      "word": "洛克王国世界上线新画面首曝",
+      "onboard_time": 1773407482,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 100722,
       "num": 132204,
       "word": "湖人战胜公牛",
@@ -1369,6 +1505,14 @@
       "onboard_time": 1773397640,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98902,
+      "num": 98902,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1773406881,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 98644,
@@ -1409,6 +1553,14 @@
       "onboard_time": 1773383061,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96477,
+      "num": 96477,
+      "word": "杨紫又被表扬了",
+      "onboard_time": 1773406401,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 96417,
@@ -1675,6 +1827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83342,
+      "num": 83342,
+      "word": "陈熠vs大藤沙月",
+      "onboard_time": 1773407062,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83161,
       "num": 91473,
       "word": "杨紫说没接综艺",
@@ -1700,7 +1860,7 @@
     },
     {
       "raw_hot": 82193,
-      "num": 245797,
+      "num": 304635,
       "word": "取消家长护学岗让家校关系回归正轨",
       "onboard_time": 1773395542,
       "rank": 9,
@@ -1755,6 +1915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 79949,
+      "num": 79949,
+      "word": "孙燕姿演唱会",
+      "onboard_time": 1773407662,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 79547,
       "num": 79547,
       "word": "莱巴金娜首登世界第二",
@@ -1803,20 +1971,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77655,
+      "num": 77655,
+      "word": "宋祖儿金树林红毯造型",
+      "onboard_time": 1773404121,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77486,
       "num": 81516,
       "word": "女孩吃酸奶勺子卡牙里凌晨就医",
       "onboard_time": 1773388760,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77473,
-      "num": 77473,
-      "word": "逐玉18集太惨了",
-      "onboard_time": 1773402622,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 77457,
@@ -1857,6 +2025,14 @@
       "onboard_time": 1773388642,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 76270,
+      "num": 76270,
+      "word": "呼啸山庄",
+      "onboard_time": 1773407301,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 76046,
@@ -2651,6 +2827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26746,
+      "num": 86156,
+      "word": "股掌柜荐股让股民高位接盘血亏",
+      "onboard_time": 1773406822,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 26178,
       "num": 102142,
       "word": "209元买梭子蟹百来块买绑绳",
@@ -2684,7 +2868,7 @@
     },
     {
       "raw_hot": 24201,
-      "num": 248797,
+      "num": 314626,
       "word": "这些两会好声音掷地有声",
       "onboard_time": 1773396801,
       "rank": 7,
@@ -2697,6 +2881,14 @@
       "onboard_time": 1773380541,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23236,
+      "num": 152973,
+      "word": "整改一年啄木鸟归来仍是维修刺客",
+      "onboard_time": 1773407362,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22057,
