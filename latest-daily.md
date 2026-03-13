@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/14 00:03:05 ~ 2026/03/14 03:37:22
+本榜单时间：2026/03/14 00:03:05 ~ 2026/03/14 03:56:13
 </p>
 </blockquote>
 <p>
@@ -443,6 +443,12 @@ PEL春季赛（热度：15980）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E8%BF%87%E5%90%8E%E5%A4%96%E5%8D%96%E4%B8%BA%E5%95%A5%E6%B6%A8%E4%BB%B7%E4%BA%86%23" target="weibo">
 春节过后外卖为啥涨价了（热度：13536）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%B9%B4%E5%BA%A6%E5%BD%B1%E8%A7%86%E6%AD%8C%E6%89%8B%23" target="weibo">
+周深年度影视歌手（热度：13178）
 </a>
 </li>
 

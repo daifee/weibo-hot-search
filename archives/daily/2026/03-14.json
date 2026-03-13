@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773430642914,
+  "endTime": 1773431773497,
   "band_list": [
     {
       "raw_hot": 629950,
@@ -577,6 +577,14 @@
       "onboard_time": 1773416902,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13178,
+      "num": 16844,
+      "word": "周深年度影视歌手",
+      "onboard_time": 1773425895,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 12675,
