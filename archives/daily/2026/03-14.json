@@ -1,9 +1,9 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773445011900,
+  "endTime": 1773445910082,
   "band_list": [
     {
-      "raw_hot": 905628,
+      "raw_hot": 980303,
       "num": 592242,
       "word": "伊朗30枚超重导弹袭击以色列",
       "onboard_time": 1773434055,
@@ -25,6 +25,14 @@
       "onboard_time": 1773407301,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 512458,
+      "num": 512458,
+      "word": "弟弟的脐带血15年后救了哥哥",
+      "onboard_time": 1773444617,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497913,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 426969,
-      "num": 108539,
+      "num": 112690,
       "word": "呼啸山庄尺度好大",
       "onboard_time": 1773407842,
       "rank": 24,
@@ -99,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273055,
+      "num": 273055,
+      "word": "西安不倒翁小姐姐离职丈夫回应",
+      "onboard_time": 1773409522,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272240,
       "num": 115348,
       "word": "逐玉",
@@ -107,44 +123,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272027,
-      "num": 272027,
-      "word": "西安不倒翁小姐姐离职丈夫回应",
-      "onboard_time": 1773409522,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 264914,
+      "num": 110462,
+      "word": "警方通报19岁男子无证驾驶致1死6伤",
+      "onboard_time": 1773444197,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
-      "raw_hot": 244198,
-      "num": 244198,
+      "raw_hot": 252299,
+      "num": 252299,
       "word": "伊朗打击中东多国美资金融机构",
       "onboard_time": 1773440774,
       "rank": 29,
       "category": "国际时政"
     },
     {
-      "raw_hot": 240692,
-      "num": 71288,
-      "word": "弟弟的脐带血15年后救了哥哥",
-      "onboard_time": 1773444617,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 243388,
+      "num": 243388,
+      "word": "第一次见女明星打出溜滑出场",
+      "onboard_time": 1773440715,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 237772,
-      "num": 384923,
-      "word": "男子维权被12315工作人员嘲讽",
-      "onboard_time": 1773411503,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237188,
-      "num": 79112,
+      "raw_hot": 239828,
+      "num": 109235,
       "word": "4种睡眠异常提示肾出问题",
       "onboard_time": 1773443477,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 237772,
+      "num": 416335,
+      "word": "男子维权被12315工作人员嘲讽",
+      "onboard_time": 1773411503,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230810,
@@ -171,20 +187,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191254,
-      "num": 191254,
-      "word": "第一次见女明星打出溜滑出场",
-      "onboard_time": 1773440715,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 188003,
       "num": 188003,
       "word": "美军坠毁加油机上6人全死",
       "onboard_time": 1773414683,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166645,
+      "num": 357555,
+      "word": "如果一个人的朋友圈特别正常",
+      "onboard_time": 1773444799,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 166470,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 160519,
-      "num": 602458,
+      "num": 696415,
       "word": "省考 紧张",
       "onboard_time": 1773413482,
       "rank": 45,
@@ -235,6 +251,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148159,
+      "num": 148159,
+      "word": "省考",
+      "onboard_time": 1773444678,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 135213,
+      "num": 92586,
+      "word": "FBI警告伊朗或突袭美国本土",
+      "onboard_time": 1773416720,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 134909,
+      "num": 90858,
+      "word": "32岁女子反复便血半年确诊肠癌",
+      "onboard_time": 1773443897,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130968,
       "num": 130968,
       "word": "海尔发布会",
@@ -259,22 +299,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 119227,
-      "num": 75450,
-      "word": "32岁女子反复便血半年确诊肠癌",
-      "onboard_time": 1773443897,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117928,
-      "num": 90105,
-      "word": "FBI警告伊朗或突袭美国本土",
-      "onboard_time": 1773416720,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 97538,
       "num": 497406,
       "word": "九尾提到DYG",
@@ -289,14 +313,6 @@
       "onboard_time": 1773421398,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95699,
-      "num": 69250,
-      "word": "警方通报19岁男子无证驾驶致1死6伤",
-      "onboard_time": 1773444197,
-      "rank": 32,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 92467,
@@ -321,22 +337,6 @@
       "onboard_time": 1773412523,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79949,
-      "num": 79949,
-      "word": "省考",
-      "onboard_time": 1773444678,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 79480,
-      "num": 79480,
-      "word": "如果一个人的朋友圈特别正常",
-      "onboard_time": 1773444799,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 77205,
@@ -377,6 +377,14 @@
       "onboard_time": 1773417501,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71137,
+      "num": 71137,
+      "word": "垫底辣孩到底长什么样",
+      "onboard_time": 1773400401,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 70979,
@@ -435,20 +443,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 65057,
-      "num": 65057,
-      "word": "垫底辣孩到底长什么样",
-      "onboard_time": 1773400401,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 64749,
       "num": 101542,
       "word": "18岁女生被诱导贷8万做医美",
       "onboard_time": 1773417621,
       "rank": 27,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 64425,
+      "num": 64425,
+      "word": "财务离职总经理转错公账23万余元",
+      "onboard_time": 1773445399,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64199,
+      "num": 569207,
+      "word": "国家网络安全通报中心通报OpenClaw风险",
+      "onboard_time": 1773444378,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64010,
@@ -467,12 +483,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 60864,
+      "num": 60864,
+      "word": "交警回应半挂车高速2次恶意别车",
+      "onboard_time": 1773445340,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54987,
       "num": 54987,
       "word": "薛之谦万兽之王首支预告",
       "onboard_time": 1773419599,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 54370,
+      "num": 54370,
+      "word": "特朗普宣布对伊朗哈尔克岛发动空袭",
+      "onboard_time": 1773445698,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53944,
@@ -515,6 +547,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 50368,
+      "num": 50368,
+      "word": "菠萝和凤梨到底啥区别",
+      "onboard_time": 1773445399,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 48043,
       "num": 495655,
       "word": "跟着人大代表来做操全身都通了",
@@ -547,12 +587,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 40436,
-      "num": 497201,
-      "word": "国家网络安全通报中心通报OpenClaw风险",
-      "onboard_time": 1773444378,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 39859,
+      "num": 38460,
+      "word": "穿prada的女王2 小时代",
+      "onboard_time": 1773404241,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 38916,
@@ -585,14 +625,6 @@
       "onboard_time": 1773428354,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31519,
-      "num": 31519,
-      "word": "穿prada的女王2 小时代",
-      "onboard_time": 1773404241,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 28288,
@@ -659,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20427,
+      "num": 506862,
+      "word": "十五五向你发出奋斗邀请",
+      "onboard_time": 1773444378,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17904,
       "num": 27418,
       "word": "时代少年团贝加尔湖畔vlog",
@@ -708,7 +748,7 @@
     },
     {
       "raw_hot": 15191,
-      "num": 320714,
+      "num": 333792,
       "word": "建议完善特殊工作环境劳动者权益",
       "onboard_time": 1773439216,
       "rank": 8,
@@ -739,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13338,
-      "num": 452146,
-      "word": "十五五向你发出奋斗邀请",
-      "onboard_time": 1773444378,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 13178,
       "num": 16844,
       "word": "周深年度影视歌手",
@@ -763,8 +795,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10008,
-      "num": 272915,
+      "raw_hot": 10642,
+      "num": 283539,
       "word": "世界目光聚焦中国两会新举措",
       "onboard_time": 1773413243,
       "rank": 9,
