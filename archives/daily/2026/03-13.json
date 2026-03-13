@@ -1,6 +1,6 @@
 {
   "startTime": 1773331581257,
-  "endTime": 1773378059350,
+  "endTime": 1773381413262,
   "band_list": [
     {
       "raw_hot": 1231876,
@@ -17,6 +17,14 @@
       "onboard_time": 1773368659,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 858853,
+      "num": 1137416,
+      "word": "国产手机涨价2000元",
+      "onboard_time": 1773378083,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 783140,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 534899,
-      "num": 222704,
+      "num": 223235,
       "word": "谁敢相信这是九年前的张凌赫",
       "onboard_time": 1773374422,
       "rank": 10,
@@ -163,6 +171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 380805,
+      "num": 828319,
+      "word": "微信 朋友圈编辑",
+      "onboard_time": 1773378862,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 373198,
       "num": 136549,
       "word": "伊朗称若电力遭袭整个地区将陷黑暗",
@@ -243,12 +259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288247,
+      "num": 219640,
+      "word": "中腰部演员将被AI替代",
+      "onboard_time": 1773375382,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278350,
       "num": 215319,
       "word": "此人的懒商还是太超前了",
       "onboard_time": 1773365840,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270906,
+      "num": 270906,
+      "word": "为什么现在冰箱门越来越多了",
+      "onboard_time": 1773376764,
+      "rank": 22,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 269398,
@@ -395,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166934,
+      "num": 143770,
+      "word": "90年代订奶",
+      "onboard_time": 1773377663,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165971,
       "num": 165971,
       "word": "韩国知名男星涉嫌借权势性侵",
       "onboard_time": 1773377482,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165827,
+      "num": 184910,
+      "word": "女子屡遭凌晨强制投丰巢快递柜",
+      "onboard_time": 1773377663,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165355,
@@ -451,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160261,
-      "num": 160261,
-      "word": "为什么现在冰箱门越来越多了",
-      "onboard_time": 1773376764,
-      "rank": 22,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 156172,
       "num": 193985,
       "word": "小米SU7靛石绿",
@@ -497,6 +537,14 @@
       "onboard_time": 1773376103,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 142653,
+      "num": 142653,
+      "word": "谢征给樊长玉刮痧",
+      "onboard_time": 1773380002,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 139247,
@@ -579,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121180,
+      "num": 121180,
+      "word": "丁真控诉十个勤天",
+      "onboard_time": 1773375502,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118462,
       "num": 373900,
       "word": "飞机上到处求摸摸的社交悍匪小狗",
@@ -593,14 +649,6 @@
       "onboard_time": 1773324083,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117815,
-      "num": 117815,
-      "word": "中腰部演员将被AI替代",
-      "onboard_time": 1773375382,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 117368,
@@ -676,11 +724,19 @@
     },
     {
       "raw_hot": 111447,
-      "num": 116031,
+      "num": 132095,
       "word": "当年轻人贴冰箱贴的思路打开后",
       "onboard_time": 1773376822,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109672,
+      "num": 138250,
+      "word": "突然发现这样喝牛奶不会弄脏手",
+      "onboard_time": 1773380183,
+      "rank": 26,
+      "category": "休闲"
     },
     {
       "raw_hot": 108019,
@@ -707,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102395,
+      "num": 102395,
+      "word": "女子流清鼻涕4年竟是脑子漏水",
+      "onboard_time": 1773379222,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101956,
       "num": 366670,
       "word": "岳雨婷 司宫令",
@@ -723,12 +787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100630,
-      "num": 100630,
-      "word": "丁真控诉十个勤天",
-      "onboard_time": 1773375502,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 100722,
+      "num": 132204,
+      "word": "湖人战胜公牛",
+      "onboard_time": 1773380662,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 98644,
@@ -747,20 +811,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 96740,
-      "num": 96740,
-      "word": "90年代订奶",
-      "onboard_time": 1773377663,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 96417,
       "num": 96417,
       "word": "不要每天焦虑这个焦虑那个",
       "onboard_time": 1773377182,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96393,
+      "num": 96393,
+      "word": "中俄安理会硬刚美国",
+      "onboard_time": 1773381381,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95598,
@@ -931,6 +995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77457,
+      "num": 77158,
+      "word": "汪苏泷新歌回答AI",
+      "onboard_time": 1773379700,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 77168,
       "num": 86307,
       "word": "王者万象棋蔷薇恋人上线",
@@ -945,6 +1017,30 @@
       "onboard_time": 1773368479,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 76972,
+      "num": 76972,
+      "word": "看看那个被炸死的7岁伊朗女孩",
+      "onboard_time": 1773379222,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 76129,
+      "num": 76129,
+      "word": "入住小区8年才知吃的是井水",
+      "onboard_time": 1773381143,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75861,
+      "num": 75861,
+      "word": "鞠婧祎ELLE美人图",
+      "onboard_time": 1773380901,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 75443,
@@ -995,12 +1091,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73394,
+      "num": 73394,
+      "word": "标价3999元护肤品直播间69.9元两瓶",
+      "onboard_time": 1773381262,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73210,
+      "num": 77156,
+      "word": "穆祉丞用尽全力捍卫TF家族荣耀",
+      "onboard_time": 1773376702,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72853,
       "num": 284349,
       "word": "中方回应是否有中国民用商船遭袭",
       "onboard_time": 1773324923,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72056,
+      "num": 72056,
+      "word": "冻干草莓毒隐患谁该担责",
+      "onboard_time": 1773378440,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71539,
@@ -1107,14 +1227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 58942,
-      "num": 184910,
-      "word": "女子屡遭凌晨强制投丰巢快递柜",
-      "onboard_time": 1773377663,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57192,
       "num": 284812,
       "word": "伊朗新任最高领袖称或开辟新战线",
@@ -1169,6 +1281,14 @@
       "onboard_time": 1773335656,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51874,
+      "num": 77158,
+      "word": "张拿铁差点被取名战狼2",
+      "onboard_time": 1773381381,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 50537,
@@ -1283,10 +1403,26 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31665,
+      "num": 144930,
+      "word": "王安宇一瓶接一瓶",
+      "onboard_time": 1773380541,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29719,
       "num": 489693,
       "word": "世界从中国两会看到新机遇",
       "onboard_time": 1773326003,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 29170,
+      "num": 239632,
+      "word": "政协委员说国家统一才有安定未来",
+      "onboard_time": 1773376522,
       "rank": 8,
       "category": "国内时政"
     },
@@ -1307,14 +1443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22775,
-      "num": 225927,
-      "word": "政协委员说国家统一才有安定未来",
-      "onboard_time": 1773376522,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 22057,
       "num": 568913,
       "word": "读懂中国经济的长远考量",
@@ -1331,6 +1459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20699,
+      "num": 253621,
+      "word": "中美将在法国举行经贸磋商",
+      "onboard_time": 1773380901,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19767,
       "num": 469700,
       "word": "随身带针的人大代表回应上热搜",
@@ -1345,6 +1481,14 @@
       "onboard_time": 1773334098,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19173,
+      "num": 261007,
+      "word": "人人人人也要拍到孙颖莎",
+      "onboard_time": 1773380901,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 18940,
@@ -1411,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10704,
+      "num": 679163,
+      "word": "十五五新程上我们有底气有动力",
+      "onboard_time": 1773376282,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 7193,
       "num": 592574,
       "word": "今年加快研究人工智能立法",
@@ -1438,6 +1590,9 @@
   "hotgov_list": [
     {
       "word": "#十四届全国人大四次会议闭幕#"
+    },
+    {
+      "word": "#习近平总书记的2026全国两会日历#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1773381413262,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 858853,
+        "num": 1137416,
+        "word": "国产手机涨价2000元",
+        "onboard_time": 1773378083,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 380805,
+        "num": 828319,
+        "word": "微信 朋友圈编辑",
+        "onboard_time": 1773378862,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 10704,
+        "num": 679163,
+        "word": "十五五新程上我们有底气有动力",
+        "onboard_time": 1773376282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299648,
+        "num": 299648,
+        "word": "多款100%椰子水被曝兑水加糖",
+        "onboard_time": 1773374903,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284325,
+        "num": 284325,
+        "word": "别让你的微信隐私在裸奔",
+        "onboard_time": 1773374061,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 270906,
+        "num": 270906,
+        "word": "为什么现在冰箱门越来越多了",
+        "onboard_time": 1773376764,
+        "rank": 5,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 19173,
+        "num": 261007,
+        "word": "人人人人也要拍到孙颖莎",
+        "onboard_time": 1773380901,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20699,
+        "num": 253621,
+        "word": "中美将在法国举行经贸磋商",
+        "onboard_time": 1773380901,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29170,
+        "num": 239632,
+        "word": "政协委员说国家统一才有安定未来",
+        "onboard_time": 1773376522,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7174,
+        "num": 228400,
+        "word": "世界从中国两会看到新机遇",
+        "onboard_time": 1773326003,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224121,
+        "num": 224121,
+        "word": "微信新功能被称为社恐福音",
+        "onboard_time": 1773360440,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 367912,
+        "num": 223235,
+        "word": "谁敢相信这是九年前的张凌赫",
+        "onboard_time": 1773374422,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330577,
+        "num": 221650,
+        "word": "佟湘玉李大嘴办婚礼了",
+        "onboard_time": 1773375442,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253624,
+        "num": 220312,
+        "word": "豆包 消极怠工",
+        "onboard_time": 1773368659,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288247,
+        "num": 219640,
+        "word": "中腰部演员将被AI替代",
+        "onboard_time": 1773375382,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218483,
+        "num": 218483,
+        "word": "老人拒透露500枚金币下落被关十年",
+        "onboard_time": 1773374181,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165827,
+        "num": 165827,
+        "word": "女子屡遭凌晨强制投丰巢快递柜",
+        "onboard_time": 1773377663,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145036,
+        "num": 145036,
+        "word": "保洁员发现男子被遗忘核磁共振机",
+        "onboard_time": 1773365540,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31665,
+        "num": 144930,
+        "word": "王安宇一瓶接一瓶",
+        "onboard_time": 1773380541,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138304,
+        "num": 144809,
+        "word": "毛主席纪念堂3月16日起暂停开放",
+        "onboard_time": 1773374121,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527798,
+        "num": 144772,
+        "word": "谭松韵长文回应王劲松",
+        "onboard_time": 1773374242,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252885,
+        "num": 144510,
+        "word": "王鹤润 王玉雯",
+        "onboard_time": 1773372800,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144510,
+        "num": 144509,
+        "word": "丈夫意外去世女子求解锁手机",
+        "onboard_time": 1773371899,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166934,
+        "num": 143770,
+        "word": "90年代订奶",
+        "onboard_time": 1773377663,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142653,
+        "num": 142653,
+        "word": "谢征给樊长玉刮痧",
+        "onboard_time": 1773380002,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141422,
+        "num": 141422,
+        "word": "你好1983定档",
+        "onboard_time": 1773370160,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109672,
+        "num": 138250,
+        "word": "突然发现这样喝牛奶不会弄脏手",
+        "onboard_time": 1773380183,
+        "rank": 26,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 136206,
+        "num": 136206,
+        "word": "韩国知名男星涉嫌借权势性侵",
+        "onboard_time": 1773377482,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105405,
+        "num": 132909,
+        "word": "F1",
+        "onboard_time": 1773362960,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100722,
+        "num": 132204,
+        "word": "湖人战胜公牛",
+        "onboard_time": 1773380662,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109324,
+        "num": 132095,
+        "word": "当年轻人贴冰箱贴的思路打开后",
+        "onboard_time": 1773376822,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132055,
+        "num": 132055,
+        "word": "杨紫向品牌方赠汉服引惊叹",
+        "onboard_time": 1773371899,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121180,
+        "num": 121180,
+        "word": "丁真控诉十个勤天",
+        "onboard_time": 1773375502,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118697,
+        "num": 118697,
+        "word": "遇难女生最后1条朋友圈说能见度为0",
+        "onboard_time": 1773376103,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102395,
+        "num": 102395,
+        "word": "女子流清鼻涕4年竟是脑子漏水",
+        "onboard_time": 1773379222,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96393,
+        "num": 96393,
+        "word": "中俄安理会硬刚美国",
+        "onboard_time": 1773381381,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92415,
+        "num": 92415,
+        "word": "韩佳人上海游体验中国网红妆",
+        "onboard_time": 1773374181,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 82645,
+        "num": 82645,
+        "word": "白鹿丁禹兮 恰逢雨连天",
+        "onboard_time": 1773360622,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77186,
+        "num": 77186,
+        "word": "小狗被困井底三个冬天居然胖了",
+        "onboard_time": 1773372982,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51874,
+        "num": 77158,
+        "word": "张拿铁差点被取名战狼2",
+        "onboard_time": 1773381381,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77457,
+        "num": 77158,
+        "word": "汪苏泷新歌回答AI",
+        "onboard_time": 1773379700,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73210,
+        "num": 77156,
+        "word": "穆祉丞用尽全力捍卫TF家族荣耀",
+        "onboard_time": 1773376702,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77156,
+        "num": 77155,
+        "word": "男子做核磁被忘机器上6小时妻子报警",
+        "onboard_time": 1773371120,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77344,
+        "num": 77111,
+        "word": "王鹤润道歉",
+        "onboard_time": 1773372982,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76972,
+        "num": 76972,
+        "word": "看看那个被炸死的7岁伊朗女孩",
+        "onboard_time": 1773379222,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76129,
+        "num": 76129,
+        "word": "入住小区8年才知吃的是井水",
+        "onboard_time": 1773381143,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75861,
+        "num": 75861,
+        "word": "鞠婧祎ELLE美人图",
+        "onboard_time": 1773380901,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73394,
+        "num": 73394,
+        "word": "标价3999元护肤品直播间69.9元两瓶",
+        "onboard_time": 1773381262,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72970,
+        "num": 72970,
+        "word": "杨紫不染发是因为大家喜欢黑色",
+        "onboard_time": 1773363680,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72056,
+        "num": 72056,
+        "word": "冻干草莓毒隐患谁该担责",
+        "onboard_time": 1773378440,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2026全国两会日历#"
+    }
+  }
+}
