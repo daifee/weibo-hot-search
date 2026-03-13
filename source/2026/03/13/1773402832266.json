@@ -1,0 +1,410 @@
+{
+  "runTime": 1773402832266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 441721,
+        "num": 1070675,
+        "word": "爱奇艺股价",
+        "onboard_time": 1773397940,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 390667,
+        "num": 752493,
+        "word": "华为回应15599元折叠屏用3天黑屏",
+        "onboard_time": 1773399079,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25723,
+        "num": 589492,
+        "word": "绿色低碳发展迈入法典时代",
+        "onboard_time": 1773396801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 430876,
+        "num": 430876,
+        "word": "研究称第二次怀孕会继续重塑大脑",
+        "onboard_time": 1773394401,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 261838,
+        "num": 261838,
+        "word": "被盗国保琉璃竟在闲鱼公开售卖",
+        "onboard_time": 1773394640,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438267,
+        "num": 257439,
+        "word": "逐玉",
+        "onboard_time": 1773396621,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252768,
+        "num": 252768,
+        "word": "7000元月薪种地不到一周已招满",
+        "onboard_time": 1773399621,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19970,
+        "num": 248797,
+        "word": "这些两会好声音掷地有声",
+        "onboard_time": 1773396801,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 388761,
+        "num": 248612,
+        "word": "随元青我恨你",
+        "onboard_time": 1773401002,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69170,
+        "num": 245797,
+        "word": "取消家长护学岗让家校关系回归正轨",
+        "onboard_time": 1773395542,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245703,
+        "num": 245703,
+        "word": "姓丁的有福了 丁永一",
+        "onboard_time": 1773394580,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216019,
+        "num": 216019,
+        "word": "荷兰回国认亲女子生父回应遗弃女儿",
+        "onboard_time": 1773399141,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183172,
+        "num": 183172,
+        "word": "24岁女研究生陪母抗癌后确诊肠癌",
+        "onboard_time": 1773399920,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178623,
+        "num": 178623,
+        "word": "俞浅浅为什么不认识张凌赫田曦薇",
+        "onboard_time": 1773395122,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162412,
+        "num": 162412,
+        "word": "长期用小拇指托手机的后果",
+        "onboard_time": 1773387682,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150615,
+        "num": 150615,
+        "word": "微信 朋友圈编辑",
+        "onboard_time": 1773378862,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134975,
+        "num": 134975,
+        "word": "严屹宽 双男主",
+        "onboard_time": 1773385702,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127211,
+        "num": 127211,
+        "word": "康婆子下线看哭了",
+        "onboard_time": 1773401661,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41758,
+        "num": 126435,
+        "word": "地平线HSD城野皆好开",
+        "onboard_time": 1773401720,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 43579,
+        "num": 125717,
+        "word": "女子花近10万做折角腰术后浑身血水",
+        "onboard_time": 1773402021,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668079,
+        "num": 124247,
+        "word": "关晓彤紧急补救塌颅顶",
+        "onboard_time": 1773400701,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164461,
+        "num": 123944,
+        "word": "爱情公寓是霍建华推荐娄艺潇演的",
+        "onboard_time": 1773395542,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123216,
+        "num": 123216,
+        "word": "男子被忘核磁共振机医院曾被罚5900万",
+        "onboard_time": 1773401362,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140163,
+        "num": 121805,
+        "word": "谢娜防了半天还是被套路了",
+        "onboard_time": 1773399861,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120285,
+        "num": 120285,
+        "word": "女子把过期牛奶给狗喝致其死亡",
+        "onboard_time": 1773388942,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116005,
+        "num": 116005,
+        "word": "张馨予因为减肥抵抗力下降",
+        "onboard_time": 1773402021,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115976,
+        "num": 115976,
+        "word": "垫底辣孩到底长什么样",
+        "onboard_time": 1773400401,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113579,
+        "num": 113579,
+        "word": "中方向伊朗遇难学生家长援助20万美元",
+        "onboard_time": 1773390922,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111241,
+        "num": 111241,
+        "word": "男子伪造3.7万个拉环每天兑10箱啤酒",
+        "onboard_time": 1773400342,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110291,
+        "num": 110291,
+        "word": "铁证 孙红雷刘宇宁",
+        "onboard_time": 1773398300,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108911,
+        "num": 108911,
+        "word": "张云龙虞书欣聚餐",
+        "onboard_time": 1773399561,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97923,
+        "num": 97923,
+        "word": "点点 行天快祝福我下",
+        "onboard_time": 1773401962,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108859,
+        "num": 97760,
+        "word": "肖战品质盛典揉了多次眼睛",
+        "onboard_time": 1773399861,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88245,
+        "num": 88245,
+        "word": "WTT重庆冠军赛",
+        "onboard_time": 1773401841,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84564,
+        "num": 84564,
+        "word": "母亲网购中药儿子吃后抽搐昏迷",
+        "onboard_time": 1773394940,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81118,
+        "num": 81118,
+        "word": "76年的李维嘉像96年的付豪生的",
+        "onboard_time": 1773397640,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80292,
+        "num": 80292,
+        "word": "多方回应被盗国保琉璃在闲鱼售卖",
+        "onboard_time": 1773398661,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78522,
+        "num": 78522,
+        "word": "逐玉随元青屠村",
+        "onboard_time": 1773402382,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75810,
+        "num": 78236,
+        "word": "GSE折扣游戏明日下架",
+        "onboard_time": 1773402501,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49559,
+        "num": 78236,
+        "word": "杨紫在罗马一眼认出粉丝",
+        "onboard_time": 1773399621,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78236,
+        "num": 78235,
+        "word": "沈月说不能留白鹿一个人",
+        "onboard_time": 1773385520,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74351,
+        "num": 77782,
+        "word": "中俄安理会硬刚美国",
+        "onboard_time": 1773381381,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77473,
+        "num": 77473,
+        "word": "逐玉18集太惨了",
+        "onboard_time": 1773402622,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76037,
+        "num": 76037,
+        "word": "尚界Z7轿跑猎装双车同步公示",
+        "onboard_time": 1773402261,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 74419,
+        "num": 74419,
+        "word": "广电总局将公布演员番位规则",
+        "onboard_time": 1773385461,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69140,
+        "num": 69140,
+        "word": "25岁女孩一周啃出胡萝卜版长城",
+        "onboard_time": 1773402382,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65545,
+        "num": 65545,
+        "word": "贵州茅台董秘被查",
+        "onboard_time": 1773402680,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64610,
+        "num": 64610,
+        "word": "绩效 反人类",
+        "onboard_time": 1773386420,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64326,
+        "num": 64326,
+        "word": "蔓味轻食切掉霉斑继续用门店已停业",
+        "onboard_time": 1773401841,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62312,
+        "num": 62312,
+        "word": "痞幼做医美了",
+        "onboard_time": 1773385942,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#用心领悟总书记两会上的殷殷嘱托#"
+    }
+  }
+}
