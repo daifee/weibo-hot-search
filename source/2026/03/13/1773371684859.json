@@ -1,0 +1,410 @@
+{
+  "runTime": 1773371684859,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1231876,
+        "num": 1231876,
+        "word": "F1",
+        "onboard_time": 1773362960,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559797,
+        "num": 884609,
+        "word": "微信新功能被称为社恐福音",
+        "onboard_time": 1773360440,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16787,
+        "num": 677060,
+        "word": "春天里的中国向新而行",
+        "onboard_time": 1773326003,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484943,
+        "num": 674227,
+        "word": "你好1983定档",
+        "onboard_time": 1773370160,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196984,
+        "num": 650733,
+        "word": "单亲妈妈14年手打200万个锅盔",
+        "onboard_time": 1773369320,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1066710,
+        "num": 628766,
+        "word": "豆包 消极怠工",
+        "onboard_time": 1773368659,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 5307,
+        "num": 592574,
+        "word": "今年加快研究人工智能立法",
+        "onboard_time": 1773304521,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325086,
+        "num": 572464,
+        "word": "沈月张晚意开机路透",
+        "onboard_time": 1773368180,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306544,
+        "num": 550333,
+        "word": "以色列总理威胁刺杀伊朗新最高领袖",
+        "onboard_time": 1773365359,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32831,
+        "num": 533300,
+        "word": "3个新人跑两会是啥体验",
+        "onboard_time": 1773367521,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 515107,
+        "num": 515107,
+        "word": "保洁员发现男子被遗忘核磁共振机",
+        "onboard_time": 1773365540,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504519,
+        "num": 504519,
+        "word": "张踩铃 不要脸的人先享受甜茶",
+        "onboard_time": 1773366681,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418175,
+        "num": 418175,
+        "word": "澳洲遇难2名中国人深夜自驾赶工作",
+        "onboard_time": 1773367460,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 406405,
+        "num": 406405,
+        "word": "张柏芝一把夺过粉丝手机合拍",
+        "onboard_time": 1773369560,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181850,
+        "num": 311041,
+        "word": "冻干草莓测出二十几种农药",
+        "onboard_time": 1773364640,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264997,
+        "num": 264997,
+        "word": "医院通报患者被遗忘6小时处理结果",
+        "onboard_time": 1773369020,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215319,
+        "num": 215319,
+        "word": "此人的懒商还是太超前了",
+        "onboard_time": 1773365840,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162274,
+        "num": 162274,
+        "word": "苹果税下调",
+        "onboard_time": 1773365600,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154259,
+        "num": 154259,
+        "word": "俄向伊朗提供人道主义援助",
+        "onboard_time": 1773365718,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74084,
+        "num": 151537,
+        "word": "拼多多试行免费送货进村",
+        "onboard_time": 1773368479,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 257010,
+        "num": 149986,
+        "word": "杨紫不染发是因为大家喜欢黑色",
+        "onboard_time": 1773363680,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225712,
+        "num": 144099,
+        "word": "陈浚铭 闹鬼了",
+        "onboard_time": 1773367340,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160937,
+        "num": 138427,
+        "word": "天津一摊主削凤梨火了",
+        "onboard_time": 1773369741,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137534,
+        "num": 137534,
+        "word": "男子做核磁被忘机器上6小时妻子报警",
+        "onboard_time": 1773371120,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132009,
+        "num": 132009,
+        "word": "白鹿丁禹兮 恰逢雨连天",
+        "onboard_time": 1773360622,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129051,
+        "num": 129051,
+        "word": "苏醒缺席黄子弘凡北京演唱会原因",
+        "onboard_time": 1773370762,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125548,
+        "num": 125548,
+        "word": "手机涨价潮真的来了",
+        "onboard_time": 1773370399,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121469,
+        "num": 121469,
+        "word": "张凌赫田曦薇醉酒吻是现挂",
+        "onboard_time": 1773358339,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121123,
+        "num": 121123,
+        "word": "代露娃唐诗逸开机路透",
+        "onboard_time": 1773368542,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114025,
+        "num": 114025,
+        "word": "公司AI监控",
+        "onboard_time": 1773369199,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117209,
+        "num": 113938,
+        "word": "杨紫罗马看秀G社生图",
+        "onboard_time": 1773364580,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 113466,
+        "num": 113466,
+        "word": "12岁男孩很少生病突然查出肾衰竭",
+        "onboard_time": 1773360681,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99809,
+        "num": 99809,
+        "word": "女子腰臀部疼了8年终于找到元凶",
+        "onboard_time": 1773320542,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97391,
+        "num": 97391,
+        "word": "孔雪儿回复田曦薇",
+        "onboard_time": 1773363381,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96043,
+        "num": 96043,
+        "word": "但愿人长久",
+        "onboard_time": 1773367220,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95598,
+        "num": 95598,
+        "word": "业内称草莓存农残和重金属两大顽疾",
+        "onboard_time": 1773370100,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88194,
+        "num": 88194,
+        "word": "BTS动画预告",
+        "onboard_time": 1773370881,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82579,
+        "num": 82579,
+        "word": "沧元图",
+        "onboard_time": 1773369861,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 76356,
+        "num": 82273,
+        "word": "教育局回应学校取消家长护学岗",
+        "onboard_time": 1773367040,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28095,
+        "num": 82205,
+        "word": "迪玛希带弟弟出道",
+        "onboard_time": 1773371241,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74618,
+        "num": 82192,
+        "word": "F1练习赛",
+        "onboard_time": 1773371480,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82191,
+        "num": 82191,
+        "word": "十个勤天到底对丁真做了什么",
+        "onboard_time": 1773370160,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80004,
+        "num": 80004,
+        "word": "伊朗称若电力遭袭整个地区将陷黑暗",
+        "onboard_time": 1773358279,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79395,
+        "num": 79395,
+        "word": "樊长玉取关言正",
+        "onboard_time": 1773329301,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73934,
+        "num": 73934,
+        "word": "Lululemon回应发圈限购",
+        "onboard_time": 1773371541,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 73823,
+        "num": 73823,
+        "word": "公牛vs湖人",
+        "onboard_time": 1773371660,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71785,
+        "num": 71785,
+        "word": "鹿晗专辑预告",
+        "onboard_time": 1773358098,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70157,
+        "num": 70157,
+        "word": "又被小孩上了一课",
+        "onboard_time": 1773368120,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68748,
+        "num": 68748,
+        "word": "国乒4人晋级王楚钦独守上半区",
+        "onboard_time": 1773371660,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68612,
+        "num": 68612,
+        "word": "伊朗公布袭击美军基地卫星图像",
+        "onboard_time": 1773363621,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大四次会议闭幕#"
+    }
+  }
+}
