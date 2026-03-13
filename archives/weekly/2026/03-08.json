@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773385516533,
+  "endTime": 1773386955317,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 1012145,
-      "num": 339519,
+      "num": 858228,
       "word": "广电总局将公布演员番位规则",
       "onboard_time": 1773385461,
       "rank": 10,
@@ -307,20 +307,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 956491,
+      "num": 1153038,
+      "word": "微信 朋友圈编辑",
+      "onboard_time": 1773378862,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 955193,
       "num": 955193,
       "word": "逐玉 头纱",
       "onboard_time": 1773226220,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 950498,
-      "num": 1152079,
-      "word": "微信 朋友圈编辑",
-      "onboard_time": 1773378862,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 949721,
@@ -473,6 +473,14 @@
       "onboard_time": 1773300020,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 802624,
+      "num": 369649,
+      "word": "张踩铃跨年看到张杰谢娜就换台了",
+      "onboard_time": 1773385821,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 799265,
@@ -648,6 +656,14 @@
       "word": "逐玉 赋魅",
       "onboard_time": 1773202943,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 708560,
+      "num": 352300,
+      "word": "严屹宽 双男主",
+      "onboard_time": 1773385702,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -1209,6 +1225,14 @@
       "onboard_time": 1773287962,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 487356,
+      "num": 240384,
+      "word": "痞幼做医美了",
+      "onboard_time": 1773385942,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 486522,
@@ -1780,7 +1804,7 @@
     },
     {
       "raw_hot": 403817,
-      "num": 352964,
+      "num": 373477,
       "word": "中俄安理会硬刚美国",
       "onboard_time": 1773381381,
       "rank": 35,
@@ -1816,6 +1840,22 @@
       "word": "朴振英 JYP",
       "onboard_time": 1773128545,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 399749,
+      "num": 399749,
+      "word": "冻干草莓 农药",
+      "onboard_time": 1773382942,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399324,
+      "num": 343843,
+      "word": "头部演员片酬将发生结构性改变",
+      "onboard_time": 1773385702,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -1881,6 +1921,14 @@
       "onboard_time": 1773046701,
       "rank": 40,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 391192,
+      "num": 358914,
+      "word": "不想看AI演戏",
+      "onboard_time": 1773385520,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 386915,
@@ -2003,6 +2051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 369547,
+      "num": 369547,
+      "word": "黄晓明要小海绵10年后接班",
+      "onboard_time": 1773385821,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369357,
       "num": 373354,
       "word": "惠英红 是妇女节快乐",
@@ -2073,14 +2129,6 @@
       "onboard_time": 1773147025,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 357649,
-      "num": 357649,
-      "word": "冻干草莓 农药",
-      "onboard_time": 1773382942,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 357230,
@@ -2323,6 +2371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 326000,
+      "num": 326000,
+      "word": "伊朗称对林肯号航母发动袭击",
+      "onboard_time": 1773382100,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 325673,
       "num": 609596,
       "word": "云合",
@@ -2353,6 +2409,14 @@
       "onboard_time": 1773286761,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 324220,
+      "num": 351991,
+      "word": "魏大勋吐槽周冬雨穿得像自己奶奶",
+      "onboard_time": 1773383840,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 324193,
@@ -2729,14 +2793,6 @@
       "onboard_time": 1773025520,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296011,
-      "num": 296011,
-      "word": "伊朗称对林肯号航母发动袭击",
-      "onboard_time": 1773382100,
-      "rank": 38,
-      "category": "军事"
     },
     {
       "raw_hot": 295994,
@@ -3145,14 +3201,6 @@
       "onboard_time": 1773129446,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261834,
-      "num": 351991,
-      "word": "魏大勋吐槽周冬雨穿得像自己奶奶",
-      "onboard_time": 1773383840,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 261123,
@@ -4395,6 +4443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179587,
+      "num": 179587,
+      "word": "澳洲遇难男子遗体回家费用犯愁",
+      "onboard_time": 1773385461,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 179419,
       "num": 179419,
       "word": "霍去病团队近20人非3人",
@@ -4465,6 +4521,14 @@
       "onboard_time": 1772976982,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 175163,
+      "num": 175163,
+      "word": "赵钰琪七七进组但愿人长久",
+      "onboard_time": 1773386183,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 175012,
@@ -5043,6 +5107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152466,
+      "num": 152466,
+      "word": "00后女生运营体温计网店月销超10万",
+      "onboard_time": 1773385102,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152283,
       "num": 546777,
       "word": "霸王茶姬口令答案",
@@ -5257,6 +5329,14 @@
       "onboard_time": 1773284001,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146886,
+      "num": 146886,
+      "word": "2026年春季全国中小学消防安全公开课",
+      "onboard_time": 1773386482,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 146673,
@@ -6283,6 +6363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 120488,
+      "num": 120488,
+      "word": "绩效 反人类",
+      "onboard_time": 1773386420,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120312,
       "num": 507901,
       "word": "王天辰回应生李昀锐",
@@ -6907,6 +6995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108041,
+      "num": 108041,
+      "word": "F1冲刺排位赛",
+      "onboard_time": 1773386601,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108019,
       "num": 80641,
       "word": "美军一加油机坠毁据称非被击落",
@@ -6929,6 +7025,14 @@
       "onboard_time": 1772949381,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107560,
+      "num": 107560,
+      "word": "沈月说不能留白鹿一个人",
+      "onboard_time": 1773385520,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 107507,
@@ -7177,6 +7281,14 @@
       "onboard_time": 1773048380,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103680,
+      "num": 103680,
+      "word": "汪铎看出祝绪丹挂脸了",
+      "onboard_time": 1773383840,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 103657,
@@ -7507,6 +7619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99161,
+      "num": 102600,
+      "word": "男子向12315投诉遭接线员吐槽恶心",
+      "onboard_time": 1773386241,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99156,
       "num": 356915,
       "word": "品质盛典后台直播",
@@ -7627,6 +7747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97784,
+      "num": 97784,
+      "word": "干净自己 埋汰别人",
+      "onboard_time": 1773384501,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97630,
       "num": 97630,
       "word": "内娱第一次出现舔狗系歌手",
@@ -7667,14 +7795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97244,
-      "num": 97244,
-      "word": "干净自己 埋汰别人",
-      "onboard_time": 1773384501,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 97199,
       "num": 292506,
       "word": "伊朗与黎巴嫩真主党联合作战",
@@ -7713,14 +7833,6 @@
       "onboard_time": 1772980401,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96731,
-      "num": 96731,
-      "word": "汪铎看出祝绪丹挂脸了",
-      "onboard_time": 1773383840,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 96728,
@@ -8643,6 +8755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87977,
+      "num": 87977,
+      "word": "gse 抢日乙鸡蛋",
+      "onboard_time": 1773383061,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 87951,
       "num": 614344,
       "word": "荣耀MagicV6还原法拉利的优雅",
@@ -8769,6 +8889,14 @@
       "onboard_time": 1773196881,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86739,
+      "num": 86739,
+      "word": "微信公关总监曾回应朋友圈编辑功能",
+      "onboard_time": 1773386300,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 86660,
@@ -9017,6 +9145,22 @@
       "onboard_time": 1772957960,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83849,
+      "num": 83849,
+      "word": "马思纯一演戏面相都变了",
+      "onboard_time": 1773386901,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83846,
+      "num": 83846,
+      "word": "小猫相亲选了个秃头",
+      "onboard_time": 1773386841,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 83818,
@@ -9715,6 +9859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76572,
+      "num": 272096,
+      "word": "金银直播间宣称真材实料却卖白菜价",
+      "onboard_time": 1773385762,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76526,
       "num": 584157,
       "word": "建议小学每周1节方言课",
@@ -9921,14 +10073,6 @@
       "onboard_time": 1773281540,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 74692,
-      "num": 74692,
-      "word": "00后女生运营体温计网店月销超10万",
-      "onboard_time": 1773385102,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74618,
@@ -10755,6 +10899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 67608,
+      "num": 372165,
+      "word": "去年315被点名的企业怎么样了",
+      "onboard_time": 1773385821,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67530,
       "num": 493781,
       "word": "全国统一的奶奶式擦脸手法",
@@ -11124,7 +11276,7 @@
     },
     {
       "raw_hot": 64390,
-      "num": 86707,
+      "num": 103620,
       "word": "张拿铁差点被取名战狼2",
       "onboard_time": 1773381381,
       "rank": 39,
@@ -11795,6 +11947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57380,
+      "num": 102799,
+      "word": "中产小孩降级去泰国插班",
+      "onboard_time": 1773385821,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57372,
       "num": 77852,
       "word": "希望樊振东代表国家征战是共同心愿",
@@ -11913,6 +12073,14 @@
       "onboard_time": 1773022281,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 56157,
+      "num": 372902,
+      "word": "这球也就是孙颖莎能打出来",
+      "onboard_time": 1773386060,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 56110,
@@ -13195,14 +13363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37169,
-      "num": 86884,
-      "word": "澳洲遇难男子遗体回家费用犯愁",
-      "onboard_time": 1773385461,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 37128,
       "num": 494315,
       "word": "委员说能量低时要养一养",
@@ -13652,7 +13812,7 @@
     },
     {
       "raw_hot": 29170,
-      "num": 345976,
+      "num": 371849,
       "word": "政协委员说国家统一才有安定未来",
       "onboard_time": 1773376522,
       "rank": 8,
@@ -13785,6 +13945,14 @@
       "onboard_time": 1773078735,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26178,
+      "num": 102142,
+      "word": "209元买梭子蟹百来块买绑绳",
+      "onboard_time": 1773385880,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26096,
@@ -14161,6 +14329,14 @@
       "onboard_time": 1773163996,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 19769,
+      "num": 310085,
+      "word": "襁褓女婴被领养到荷兰28年今日回国",
+      "onboard_time": 1773386543,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19767,
