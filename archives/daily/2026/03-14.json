@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773428066288,
+  "endTime": 1773428917009,
   "band_list": [
     {
       "raw_hot": 629950,
@@ -507,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20971,
+      "num": 92895,
+      "word": "齐旻好疯",
+      "onboard_time": 1773428354,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20912,
       "num": 72731,
       "word": "维修没查出问题被啄木鸟收2000元",
@@ -523,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16625,
+      "num": 21213,
+      "word": "KPL春季赛",
+      "onboard_time": 1773406042,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 16605,
       "num": 494724,
       "word": "十五五规划是施工图也是邀请函",
@@ -531,12 +547,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16530,
-      "num": 21213,
-      "word": "KPL春季赛",
-      "onboard_time": 1773406042,
-      "rank": 43,
-      "category": "电竞"
+      "raw_hot": 16556,
+      "num": 21212,
+      "word": "呼啸山庄原著",
+      "onboard_time": 1773426135,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 15980,
@@ -547,20 +563,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 15239,
-      "num": 21212,
-      "word": "呼啸山庄原著",
-      "onboard_time": 1773426135,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 13536,
       "num": 72704,
       "word": "春节过后外卖为啥涨价了",
       "onboard_time": 1773416902,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12675,
+      "num": 17357,
+      "word": "WTT重庆冠军赛",
+      "onboard_time": 1773401841,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
