@@ -1,0 +1,410 @@
+{
+  "runTime": 1773392030909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 408975,
+        "num": 1065436,
+        "word": "微信 朋友圈编辑",
+        "onboard_time": 1773378862,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 308339,
+        "num": 789193,
+        "word": "国产手机涨价2000元",
+        "onboard_time": 1773378083,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15513,
+        "num": 622285,
+        "word": "十五五新程上我们有底气有动力",
+        "onboard_time": 1773376282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226131,
+        "num": 618404,
+        "word": "安崎求职浪姐真的成功了",
+        "onboard_time": 1773389841,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172925,
+        "num": 583734,
+        "word": "冻干草莓 农药",
+        "onboard_time": 1773382942,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229205,
+        "num": 561004,
+        "word": "中俄安理会硬刚美国",
+        "onboard_time": 1773381381,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134737,
+        "num": 549838,
+        "word": "刘国梁卸任世界乒联董事会主席",
+        "onboard_time": 1773390261,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19429,
+        "num": 529427,
+        "word": "代表呼吁关注通信骚扰再抬头",
+        "onboard_time": 1773390621,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110284,
+        "num": 498287,
+        "word": "别让你的微信隐私在裸奔",
+        "onboard_time": 1773374061,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2068,
+        "num": 477090,
+        "word": "世界从中国两会看到新机遇",
+        "onboard_time": 1773326003,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 475387,
+        "num": 475387,
+        "word": "长期用小拇指托手机的后果",
+        "onboard_time": 1773387682,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 441267,
+        "num": 441267,
+        "word": "卜凡 sk团播",
+        "onboard_time": 1773388283,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364995,
+        "num": 364995,
+        "word": "绩效 反人类",
+        "onboard_time": 1773386420,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 350298,
+        "num": 350298,
+        "word": "严屹宽 双男主",
+        "onboard_time": 1773385702,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275327,
+        "num": 275327,
+        "word": "47岁男子1000元彩礼娶82岁老人",
+        "onboard_time": 1773390682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209542,
+        "num": 209542,
+        "word": "北京WBG对战ACT",
+        "onboard_time": 1773390441,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204799,
+        "num": 204799,
+        "word": "广电总局将公布演员番位规则",
+        "onboard_time": 1773385461,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197312,
+        "num": 197312,
+        "word": "儿子遗体在泰医院失踪中国父亲报警",
+        "onboard_time": 1773387020,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173115,
+        "num": 173115,
+        "word": "韩佳人化中国网红妆",
+        "onboard_time": 1773388581,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167521,
+        "num": 167521,
+        "word": "中方支持伊朗人民渡过难关",
+        "onboard_time": 1773390381,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 851342,
+        "num": 166284,
+        "word": "痞幼做医美了",
+        "onboard_time": 1773385942,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189671,
+        "num": 163414,
+        "word": "女子把过期牛奶给狗喝致其死亡",
+        "onboard_time": 1773388942,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158184,
+        "num": 158184,
+        "word": "澳洲遇难男子遗体回家费用犯愁",
+        "onboard_time": 1773385461,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131194,
+        "num": 131194,
+        "word": "伊朗称对林肯号航母发动袭击",
+        "onboard_time": 1773382100,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 130600,
+        "num": 130600,
+        "word": "沈月说不能留白鹿一个人",
+        "onboard_time": 1773385520,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129184,
+        "num": 129184,
+        "word": "女生照片遭一键脱衣发至色情网",
+        "onboard_time": 1773389061,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89998,
+        "num": 117582,
+        "word": "花1.5万就能用修正商标卖自家产品",
+        "onboard_time": 1773390022,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109412,
+        "num": 109412,
+        "word": "中方向伊朗遇难学生家长援助20万美元",
+        "onboard_time": 1773390922,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100971,
+        "num": 100971,
+        "word": "张杰鸟巢舞台概念图",
+        "onboard_time": 1773391161,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101424,
+        "num": 100767,
+        "word": "伊朗被曝研究开辟新战场",
+        "onboard_time": 1773388821,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111718,
+        "num": 99845,
+        "word": "美国中期选举开战",
+        "onboard_time": 1773389781,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98204,
+        "num": 98204,
+        "word": "谁敢相信这是九年前的张凌赫",
+        "onboard_time": 1773374422,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90363,
+        "num": 90363,
+        "word": "周星驰打劫孙燕姿抢演唱会门票",
+        "onboard_time": 1773387861,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83249,
+        "num": 83249,
+        "word": "五粮液变五稂液",
+        "onboard_time": 1773390441,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82594,
+        "num": 82594,
+        "word": "多款100%椰子水被曝兑水加糖",
+        "onboard_time": 1773374903,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82195,
+        "num": 82195,
+        "word": "头部演员片酬将发生结构性改变",
+        "onboard_time": 1773385702,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81545,
+        "num": 81545,
+        "word": "辞职把自己感动哭了",
+        "onboard_time": 1773391021,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81235,
+        "num": 81235,
+        "word": "王鹤润 王玉雯",
+        "onboard_time": 1773372800,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80473,
+        "num": 80473,
+        "word": "81岁爷爷误食了我的火鸡面",
+        "onboard_time": 1773382280,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47158,
+        "num": 79794,
+        "word": "汪铎看出祝绪丹挂脸了",
+        "onboard_time": 1773383840,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79780,
+        "num": 79780,
+        "word": "00后女生运营体温计网店月销超10万",
+        "onboard_time": 1773385102,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77486,
+        "num": 77486,
+        "word": "女孩吃酸奶勺子卡牙里凌晨就医",
+        "onboard_time": 1773388760,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75732,
+        "num": 75732,
+        "word": "不想看AI演戏",
+        "onboard_time": 1773385520,
+        "rank": 42,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 70086,
+        "num": 70086,
+        "word": "国漫男主单刀抢亲夯爆了",
+        "onboard_time": 1773390621,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 69336,
+        "num": 69336,
+        "word": "第五人格COA9",
+        "onboard_time": 1773391881,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69088,
+        "num": 69088,
+        "word": "缺觉等于全身发炎",
+        "onboard_time": 1773388642,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62471,
+        "num": 69074,
+        "word": "温瑞博vs邱党",
+        "onboard_time": 1773388160,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62452,
+        "num": 69059,
+        "word": "90后成30万级汽车消费主力",
+        "onboard_time": 1773391881,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 59688,
+        "num": 69052,
+        "word": "邓凯一集比一集美貌",
+        "onboard_time": 1773392001,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59647,
+        "num": 69028,
+        "word": "梅奔双男主包揽冲刺赛排位一二",
+        "onboard_time": 1773392001,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2026全国两会日历#"
+    }
+  }
+}
