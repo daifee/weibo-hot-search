@@ -1,0 +1,410 @@
+{
+  "runTime": 1773369478578,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 731618,
+        "num": 1117058,
+        "word": "微信新功能被称为社恐福音",
+        "onboard_time": 1773360440,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 542028,
+        "num": 836487,
+        "word": "F1",
+        "onboard_time": 1773362960,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17548,
+        "num": 649674,
+        "word": "春天里的中国向新而行",
+        "onboard_time": 1773326003,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329769,
+        "num": 329769,
+        "word": "冻干草莓测出二十几种农药",
+        "onboard_time": 1773364640,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193283,
+        "num": 193283,
+        "word": "沈月张晚意开机路透",
+        "onboard_time": 1773368180,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 588843,
+        "num": 193172,
+        "word": "以色列总理威胁刺杀伊朗新最高领袖",
+        "onboard_time": 1773365359,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 7193,
+        "num": 193018,
+        "word": "今年加快研究人工智能立法",
+        "onboard_time": 1773304521,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278350,
+        "num": 192991,
+        "word": "此人的懒商还是太超前了",
+        "onboard_time": 1773365840,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192953,
+        "num": 192953,
+        "word": "但愿人长久",
+        "onboard_time": 1773367220,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28342,
+        "num": 192387,
+        "word": "3个新人跑两会是啥体验",
+        "onboard_time": 1773367521,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 783140,
+        "num": 191785,
+        "word": "保洁员发现男子被遗忘核磁共振机",
+        "onboard_time": 1773365540,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515935,
+        "num": 189602,
+        "word": "张踩铃 不要脸的人先享受甜茶",
+        "onboard_time": 1773366681,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298897,
+        "num": 188649,
+        "word": "苹果税下调",
+        "onboard_time": 1773365600,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188436,
+        "num": 188436,
+        "word": "孔雪儿回复田曦薇",
+        "onboard_time": 1773363381,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180910,
+        "num": 180910,
+        "word": "杨紫罗马看秀G社生图",
+        "onboard_time": 1773364580,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 168646,
+        "num": 168646,
+        "word": "12岁男孩很少生病突然查出肾衰竭",
+        "onboard_time": 1773360681,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168410,
+        "num": 168410,
+        "word": "多地学校取消家长护学岗",
+        "onboard_time": 1773365180,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165355,
+        "num": 165355,
+        "word": "白鹿丁禹兮 恰逢雨连天",
+        "onboard_time": 1773360622,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165113,
+        "num": 165113,
+        "word": "张凌赫田曦薇醉酒吻是现挂",
+        "onboard_time": 1773358339,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77091,
+        "num": 153802,
+        "word": "拼多多试行免费送货进村",
+        "onboard_time": 1773368479,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 413600,
+        "num": 153385,
+        "word": "杨紫不染发是因为大家喜欢黑色",
+        "onboard_time": 1773363680,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308581,
+        "num": 152565,
+        "word": "陈浚铭 闹鬼了",
+        "onboard_time": 1773367340,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147372,
+        "num": 147372,
+        "word": "俄向伊朗提供人道主义援助",
+        "onboard_time": 1773365718,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139711,
+        "num": 139711,
+        "word": "豆包 消极怠工",
+        "onboard_time": 1773368659,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136549,
+        "num": 136549,
+        "word": "伊朗称若电力遭袭整个地区将陷黑暗",
+        "onboard_time": 1773358279,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134439,
+        "num": 134439,
+        "word": "女子腰臀部疼了8年终于找到元凶",
+        "onboard_time": 1773320542,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124333,
+        "num": 124333,
+        "word": "代露娃唐诗逸开机路透",
+        "onboard_time": 1773368542,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117368,
+        "num": 117368,
+        "word": "法院拍卖布加迪跑车强调无法上牌",
+        "onboard_time": 1773360019,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104998,
+        "num": 104998,
+        "word": "教育局回应学校取消家长护学岗",
+        "onboard_time": 1773367040,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103568,
+        "num": 103568,
+        "word": "霍华德宣布退役",
+        "onboard_time": 1773361160,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292884,
+        "num": 102488,
+        "word": "澳洲遇难2名中国人深夜自驾赶工作",
+        "onboard_time": 1773367460,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115257,
+        "num": 101225,
+        "word": "伊朗公布袭击美军基地卫星图像",
+        "onboard_time": 1773363621,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110199,
+        "num": 99633,
+        "word": "樊长玉取关言正",
+        "onboard_time": 1773329301,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93410,
+        "num": 93410,
+        "word": "鹿晗专辑预告",
+        "onboard_time": 1773358098,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86660,
+        "num": 86660,
+        "word": "爷爷跨越2200公里找孙女看哭网友",
+        "onboard_time": 1773367220,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86216,
+        "num": 86216,
+        "word": "女总裁人设带货不知名美妆月销破亿",
+        "onboard_time": 1773368721,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85674,
+        "num": 85674,
+        "word": "女子不爱喝水长巨型肾结石",
+        "onboard_time": 1773358400,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83845,
+        "num": 83845,
+        "word": "医院通报患者被遗忘6小时处理结果",
+        "onboard_time": 1773369020,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79547,
+        "num": 79547,
+        "word": "莱巴金娜首登世界第二",
+        "onboard_time": 1773369261,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75443,
+        "num": 75443,
+        "word": "28人闯罗布泊无人区民警狂追4小时",
+        "onboard_time": 1773364881,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74260,
+        "num": 74260,
+        "word": "从一只大公鸡身上看到了安全感",
+        "onboard_time": 1773368960,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72152,
+        "num": 72152,
+        "word": "建议允许公积金直接抵首付还房贷",
+        "onboard_time": 1773325942,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70247,
+        "num": 70247,
+        "word": "美军福特号航母发生火灾",
+        "onboard_time": 1773331759,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 68913,
+        "num": 68913,
+        "word": "逐玉",
+        "onboard_time": 1773309861,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63751,
+        "num": 63751,
+        "word": "莱巴金娜战胜佩古拉",
+        "onboard_time": 1773367760,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62934,
+        "num": 62934,
+        "word": "新一代小米SU7本月发布",
+        "onboard_time": 1773369381,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62539,
+        "num": 62539,
+        "word": "黑白真的能抑制食欲",
+        "onboard_time": 1773368960,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62440,
+        "num": 62440,
+        "word": "公司AI监控",
+        "onboard_time": 1773369199,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61681,
+        "num": 61681,
+        "word": "单亲妈妈14年手打200万个锅盔",
+        "onboard_time": 1773369320,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61486,
+        "num": 61486,
+        "word": "美国防部被曝龙虾门",
+        "onboard_time": 1773327623,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大四次会议闭幕#"
+    }
+  }
+}
