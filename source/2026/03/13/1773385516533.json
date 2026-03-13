@@ -1,0 +1,410 @@
+{
+  "runTime": 1773385516533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 950498,
+        "num": 1152079,
+        "word": "微信 朋友圈编辑",
+        "onboard_time": 1773378862,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 601468,
+        "num": 807042,
+        "word": "国产手机涨价2000元",
+        "onboard_time": 1773378083,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23433,
+        "num": 635135,
+        "word": "这个春天再出发",
+        "onboard_time": 1773380541,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 357649,
+        "num": 357649,
+        "word": "冻干草莓 农药",
+        "onboard_time": 1773382942,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 853605,
+        "num": 355783,
+        "word": "日本高官承认出轨但拒绝辞职",
+        "onboard_time": 1773382280,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 403817,
+        "num": 352964,
+        "word": "中俄安理会硬刚美国",
+        "onboard_time": 1773381381,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261834,
+        "num": 351991,
+        "word": "魏大勋吐槽周冬雨穿得像自己奶奶",
+        "onboard_time": 1773383840,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26096,
+        "num": 346953,
+        "word": "连锁轻食店员感冒边擦鼻涕边切菜",
+        "onboard_time": 1773384623,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18277,
+        "num": 345976,
+        "word": "政协委员说国家统一才有安定未来",
+        "onboard_time": 1773376522,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3624,
+        "num": 342077,
+        "word": "世界从中国两会看到新机遇",
+        "onboard_time": 1773326003,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1012145,
+        "num": 339519,
+        "word": "广电总局将公布演员番位规则",
+        "onboard_time": 1773385461,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338328,
+        "num": 338328,
+        "word": "81岁爷爷误食了我的火鸡面",
+        "onboard_time": 1773382280,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296011,
+        "num": 296011,
+        "word": "伊朗称对林肯号航母发动袭击",
+        "onboard_time": 1773382100,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 256880,
+        "num": 256880,
+        "word": "谁敢相信这是九年前的张凌赫",
+        "onboard_time": 1773374422,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214610,
+        "num": 214610,
+        "word": "别让你的微信隐私在裸奔",
+        "onboard_time": 1773374061,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169501,
+        "num": 169501,
+        "word": "豆包 消极怠工",
+        "onboard_time": 1773368659,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161112,
+        "num": 161112,
+        "word": "多款100%椰子水被曝兑水加糖",
+        "onboard_time": 1773374903,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157108,
+        "num": 157108,
+        "word": "中腰部演员将被AI替代",
+        "onboard_time": 1773375382,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146801,
+        "num": 146801,
+        "word": "为什么现在冰箱门越来越多了",
+        "onboard_time": 1773376764,
+        "rank": 18,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 37092,
+        "num": 146309,
+        "word": "网购三份书皮两份邻苯超标百倍",
+        "onboard_time": 1773384560,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242885,
+        "num": 145991,
+        "word": "谭松韵长文回应王劲松",
+        "onboard_time": 1773374242,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152430,
+        "num": 144755,
+        "word": "王鹤润 王玉雯",
+        "onboard_time": 1773372800,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21691,
+        "num": 144363,
+        "word": "十五五新程上我们有底气有动力",
+        "onboard_time": 1773376282,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143750,
+        "num": 143750,
+        "word": "佟湘玉李大嘴办婚礼了",
+        "onboard_time": 1773375442,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142978,
+        "num": 142978,
+        "word": "孙颖莎vs迪亚兹",
+        "onboard_time": 1773382581,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133949,
+        "num": 133949,
+        "word": "谢征给樊长玉刮痧",
+        "onboard_time": 1773380002,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120598,
+        "num": 120598,
+        "word": "当年轻人贴冰箱贴的思路打开后",
+        "onboard_time": 1773376822,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114181,
+        "num": 114181,
+        "word": "ios端高会价格下调",
+        "onboard_time": 1773384623,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105223,
+        "num": 105223,
+        "word": "LABUBU三丽鸥联名被吐槽不协调",
+        "onboard_time": 1773384860,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 104816,
+        "num": 104816,
+        "word": "老人拒透露500枚金币下落被关十年",
+        "onboard_time": 1773374181,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103175,
+        "num": 103175,
+        "word": "丈夫意外去世女子求解锁手机",
+        "onboard_time": 1773371899,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97630,
+        "num": 97630,
+        "word": "内娱第一次出现舔狗系歌手",
+        "onboard_time": 1773383061,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97244,
+        "num": 97244,
+        "word": "干净自己 埋汰别人",
+        "onboard_time": 1773384501,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96731,
+        "num": 96731,
+        "word": "汪铎看出祝绪丹挂脸了",
+        "onboard_time": 1773383840,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94155,
+        "num": 94155,
+        "word": "女子屡遭凌晨强制投丰巢快递柜",
+        "onboard_time": 1773377663,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88951,
+        "num": 88951,
+        "word": "突然发现这样喝牛奶不会弄脏手",
+        "onboard_time": 1773380183,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 37169,
+        "num": 86884,
+        "word": "澳洲遇难男子遗体回家费用犯愁",
+        "onboard_time": 1773385461,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64390,
+        "num": 86707,
+        "word": "张拿铁差点被取名战狼2",
+        "onboard_time": 1773381381,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86594,
+        "num": 86594,
+        "word": "6800元一针细胞回春到底什么来头",
+        "onboard_time": 1773381861,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15168,
+        "num": 86245,
+        "word": "暴力测评直播间被曝全是套路",
+        "onboard_time": 1773384682,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86208,
+        "num": 86208,
+        "word": "gse折扣",
+        "onboard_time": 1773368420,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85818,
+        "num": 85818,
+        "word": "女子流清鼻涕4年竟是脑子漏水",
+        "onboard_time": 1773379222,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83937,
+        "num": 83937,
+        "word": "保洁员发现男子被遗忘核磁共振机",
+        "onboard_time": 1773365540,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85371,
+        "num": 82765,
+        "word": "遇难女生最后1条朋友圈说能见度为0",
+        "onboard_time": 1773376103,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80068,
+        "num": 80068,
+        "word": "首款侵入式脑机接口医疗器械上市",
+        "onboard_time": 1773384082,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74692,
+        "num": 74692,
+        "word": "00后女生运营体温计网店月销超10万",
+        "onboard_time": 1773385102,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73990,
+        "num": 73990,
+        "word": "你好1983定档",
+        "onboard_time": 1773370160,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73711,
+        "num": 73711,
+        "word": "穆祉丞一回头发现楼外没有下雨",
+        "onboard_time": 1773385400,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72496,
+        "num": 72496,
+        "word": "东契奇51分准三双",
+        "onboard_time": 1773383840,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72356,
+        "num": 72356,
+        "word": "毛主席纪念堂3月16日起暂停开放",
+        "onboard_time": 1773374121,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2026全国两会日历#"
+    }
+  }
+}

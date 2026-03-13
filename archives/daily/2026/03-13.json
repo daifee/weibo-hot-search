@@ -1,6 +1,6 @@
 {
   "startTime": 1773331581257,
-  "endTime": 1773382244909,
+  "endTime": 1773385516533,
   "band_list": [
     {
       "raw_hot": 1231876,
@@ -19,12 +19,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1012145,
+      "num": 339519,
+      "word": "广电总局将公布演员番位规则",
+      "onboard_time": 1773385461,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 976720,
       "num": 1156275,
       "word": "国产手机涨价2000元",
       "onboard_time": 1773378083,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 950498,
+      "num": 1152079,
+      "word": "微信 朋友圈编辑",
+      "onboard_time": 1773378862,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 853605,
+      "num": 355783,
+      "word": "日本高官承认出轨但拒绝辞职",
+      "onboard_time": 1773382280,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 783140,
@@ -59,14 +83,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 596307,
-      "num": 838163,
-      "word": "微信 朋友圈编辑",
-      "onboard_time": 1773378862,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 588843,
       "num": 550333,
       "word": "以色列总理威胁刺杀伊朗新最高领袖",
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 534899,
-      "num": 223235,
+      "num": 256880,
       "word": "谁敢相信这是九年前的张凌赫",
       "onboard_time": 1773374422,
       "rank": 10,
@@ -171,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403817,
+      "num": 352964,
+      "word": "中俄安理会硬刚美国",
+      "onboard_time": 1773381381,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 402126,
       "num": 221096,
       "word": "老人拒透露500枚金币下落被关十年",
@@ -187,12 +211,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 357649,
+      "num": 357649,
+      "word": "冻干草莓 农药",
+      "onboard_time": 1773382942,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350278,
       "num": 783570,
       "word": "多款100%椰子水被曝兑水加糖",
       "onboard_time": 1773374903,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338328,
+      "num": 338328,
+      "word": "81岁爷爷误食了我的火鸡面",
+      "onboard_time": 1773382280,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 337398,
@@ -251,6 +291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 296011,
+      "num": 296011,
+      "word": "伊朗称对林肯号航母发动袭击",
+      "onboard_time": 1773382100,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 290812,
       "num": 290812,
       "word": "强吻亦是吻",
@@ -305,6 +353,14 @@
       "onboard_time": 1773370399,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 261834,
+      "num": 351991,
+      "word": "魏大勋吐槽周冬雨穿得像自己奶奶",
+      "onboard_time": 1773383840,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 258705,
@@ -377,14 +433,6 @@
       "onboard_time": 1773363381,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187789,
-      "num": 237069,
-      "word": "中俄安理会硬刚美国",
-      "onboard_time": 1773381381,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 187510,
@@ -555,6 +603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 142978,
+      "num": 142978,
+      "word": "孙颖莎vs迪亚兹",
+      "onboard_time": 1773382581,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139247,
       "num": 407699,
       "word": "天塌了山姆的三文鱼原来不能生吃",
@@ -707,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114181,
+      "num": 114181,
+      "word": "ios端高会价格下调",
+      "onboard_time": 1773384623,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 114025,
       "num": 114025,
       "word": "公司AI监控",
@@ -761,6 +825,14 @@
       "onboard_time": 1773358819,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105223,
+      "num": 105223,
+      "word": "LABUBU三丽鸥联名被吐槽不协调",
+      "onboard_time": 1773384860,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 104998,
@@ -825,6 +897,30 @@
       "onboard_time": 1773303922,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 97630,
+      "num": 97630,
+      "word": "内娱第一次出现舔狗系歌手",
+      "onboard_time": 1773383061,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97244,
+      "num": 97244,
+      "word": "干净自己 埋汰别人",
+      "onboard_time": 1773384501,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 96731,
+      "num": 96731,
+      "word": "汪铎看出祝绪丹挂脸了",
+      "onboard_time": 1773383840,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 96417,
@@ -955,12 +1051,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84106,
-      "num": 84106,
-      "word": "伊朗称对林肯号航母发动袭击",
-      "onboard_time": 1773382100,
-      "rank": 38,
-      "category": "军事"
+      "raw_hot": 86208,
+      "num": 86208,
+      "word": "gse折扣",
+      "onboard_time": 1773368420,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 83516,
@@ -1009,6 +1105,14 @@
       "onboard_time": 1773379222,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80068,
+      "num": 80068,
+      "word": "首款侵入式脑机接口医疗器械上市",
+      "onboard_time": 1773384082,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 79547,
@@ -1091,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74692,
+      "num": 74692,
+      "word": "00后女生运营体温计网店月销超10万",
+      "onboard_time": 1773385102,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74618,
       "num": 82192,
       "word": "F1练习赛",
@@ -1123,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73711,
+      "num": 73711,
+      "word": "穆祉丞一回头发现楼外没有下雨",
+      "onboard_time": 1773385400,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73295,
       "num": 73295,
       "word": "美预测手动处理退款需4431161小时",
@@ -1145,6 +1265,14 @@
       "onboard_time": 1773324923,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72496,
+      "num": 72496,
+      "word": "东契奇51分准三双",
+      "onboard_time": 1773383840,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 72056,
@@ -1193,6 +1321,14 @@
       "onboard_time": 1773325702,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64390,
+      "num": 86707,
+      "word": "张拿铁差点被取名战狼2",
+      "onboard_time": 1773381381,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 63751,
@@ -1323,14 +1459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51874,
-      "num": 77158,
-      "word": "张拿铁差点被取名战狼2",
-      "onboard_time": 1773381381,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 50537,
       "num": 217995,
       "word": "Apple50周年",
@@ -1427,6 +1555,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37169,
+      "num": 86884,
+      "word": "澳洲遇难男子遗体回家费用犯愁",
+      "onboard_time": 1773385461,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 37092,
+      "num": 146309,
+      "word": "网购三份书皮两份邻苯超标百倍",
+      "onboard_time": 1773384560,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35811,
       "num": 285204,
       "word": "建议给新就业形态人员缴纳社保",
@@ -1468,7 +1612,7 @@
     },
     {
       "raw_hot": 29170,
-      "num": 239632,
+      "num": 345976,
       "word": "政协委员说国家统一才有安定未来",
       "onboard_time": 1773376522,
       "rank": 8,
@@ -1491,6 +1635,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26096,
+      "num": 346953,
+      "word": "连锁轻食店员感冒边擦鼻涕边切菜",
+      "onboard_time": 1773384623,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23433,
+      "num": 635135,
+      "word": "这个春天再出发",
+      "onboard_time": 1773380541,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22057,
       "num": 568913,
       "word": "读懂中国经济的长远考量",
@@ -1503,6 +1663,14 @@
       "num": 677060,
       "word": "春天里的中国向新而行",
       "onboard_time": 1773326003,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 21691,
+      "num": 679163,
+      "word": "十五五新程上我们有底气有动力",
+      "onboard_time": 1773376282,
       "rank": 2,
       "category": "国内时政"
     },
@@ -1571,12 +1739,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14066,
-      "num": 679163,
-      "word": "十五五新程上我们有底气有动力",
-      "onboard_time": 1773376282,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 15168,
+      "num": 86245,
+      "word": "暴力测评直播间被曝全是套路",
+      "onboard_time": 1773384682,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13445,
