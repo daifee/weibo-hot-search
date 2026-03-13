@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773417785284,
+  "endTime": 1773420728079,
   "band_list": [
     {
       "raw_hot": 629950,
@@ -41,6 +41,14 @@
       "onboard_time": 1773411143,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 426969,
+      "num": 108539,
+      "word": "呼啸山庄尺度好大",
+      "onboard_time": 1773407842,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 325748,
@@ -99,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232638,
-      "num": 108539,
-      "word": "呼啸山庄尺度好大",
-      "onboard_time": 1773407842,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 223171,
+      "num": 368774,
+      "word": "白玉兰视后大年",
+      "onboard_time": 1773419239,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 217108,
@@ -131,6 +139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188003,
+      "num": 188003,
+      "word": "美军坠毁加油机上6人全死",
+      "onboard_time": 1773414683,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 155978,
+      "num": 791488,
+      "word": "花6毛骑共享单车每月被扣费173元",
+      "onboard_time": 1773415221,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 154138,
       "num": 99169,
       "word": "随元青我恨你",
@@ -139,12 +163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137773,
-      "num": 791488,
-      "word": "花6毛骑共享单车每月被扣费173元",
-      "onboard_time": 1773415221,
-      "rank": 1,
-      "category": "舆论监督"
+      "raw_hot": 142403,
+      "num": 93472,
+      "word": "伊朗发起第45波打击",
+      "onboard_time": 1773418040,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135129,
@@ -171,11 +195,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 102841,
-      "num": 102841,
-      "word": "美军坠毁加油机上6人全死",
-      "onboard_time": 1773414683,
-      "rank": 26,
+      "raw_hot": 105177,
+      "num": 90105,
+      "word": "FBI警告伊朗或突袭美国本土",
+      "onboard_time": 1773416720,
+      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -267,8 +291,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69502,
+      "num": 112944,
+      "word": "啄木鸟通马桶10分钟收448元",
+      "onboard_time": 1773416542,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68552,
+      "num": 64560,
+      "word": "张凌赫特别适合在很狼狈的时候爱人",
+      "onboard_time": 1773414443,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68404,
-      "num": 68404,
+      "num": 361037,
       "word": "省考 紧张",
       "onboard_time": 1773413482,
       "rank": 45,
@@ -299,6 +339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64749,
+      "num": 101542,
+      "word": "18岁女生被诱导贷8万做医美",
+      "onboard_time": 1773417621,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 64010,
       "num": 64010,
       "word": "315晚会主题官宣",
@@ -307,12 +355,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63017,
-      "num": 112944,
-      "word": "啄木鸟通马桶10分钟收448元",
-      "onboard_time": 1773416542,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 62824,
+      "num": 62824,
+      "word": "恋与深空芬达",
+      "onboard_time": 1773417201,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 54987,
+      "num": 54987,
+      "word": "薛之谦万兽之王首支预告",
+      "onboard_time": 1773419599,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 53078,
+      "num": 53078,
+      "word": "逐玉18集太惨了",
+      "onboard_time": 1773402622,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 52470,
+      "num": 52470,
+      "word": "李羲承单独进行签售",
+      "onboard_time": 1773418941,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 52297,
+      "num": 52297,
+      "word": "李鹤来说想当演员",
+      "onboard_time": 1773409582,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 51136,
@@ -331,12 +411,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 42758,
-      "num": 72802,
-      "word": "FBI警告伊朗或突袭美国本土",
-      "onboard_time": 1773416720,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 47091,
+      "num": 52295,
+      "word": "总局痛斥流量明星改剧本",
+      "onboard_time": 1773415703,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 46948,
+      "num": 52296,
+      "word": "钎九",
+      "onboard_time": 1773408022,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 38916,
@@ -347,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26893,
-      "num": 101542,
-      "word": "18岁女生被诱导贷8万做医美",
-      "onboard_time": 1773417621,
-      "rank": 27,
-      "category": "舆论监督"
+      "raw_hot": 36255,
+      "num": 52295,
+      "word": "法拉利放歌撩拨红牛",
+      "onboard_time": 1773420618,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 26877,
