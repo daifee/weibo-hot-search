@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/14 00:03:05 ~ 2026/03/14 02:00:07
+本榜单时间：2026/03/14 00:03:05 ~ 2026/03/14 02:54:26
 </p>
 </blockquote>
 <p>
@@ -407,6 +407,24 @@ AI把茶道门槛打下来了（热度：27751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E6%98%AF%E6%96%BD%E5%B7%A5%E5%9B%BE%E4%B9%9F%E6%98%AF%E9%82%80%E8%AF%B7%E5%87%BD%23" target="weibo">
 十五五规划是施工图也是邀请函（热度：16605）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23KPL%E6%98%A5%E5%AD%A3%E8%B5%9B%23" target="weibo">
+KPL春季赛（热度：16530）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23PEL%E6%98%A5%E5%AD%A3%E8%B5%9B%23" target="weibo">
+PEL春季赛（热度：15980）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%95%B8%E5%B1%B1%E5%BA%84%E5%8E%9F%E8%91%97%23" target="weibo">
+呼啸山庄原著（热度：15239）
 </a>
 </li>
 
