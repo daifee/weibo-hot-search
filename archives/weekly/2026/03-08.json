@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773423765443,
+  "endTime": 1773424807205,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -5211,6 +5211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166470,
+      "num": 166470,
+      "word": "张颂文硬气回应AI冲击影视行业",
+      "onboard_time": 1773422418,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166286,
       "num": 332951,
       "word": "霸王茶姬口令",
@@ -5369,14 +5377,6 @@
       "onboard_time": 1773235943,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 161677,
-      "num": 161677,
-      "word": "张颂文硬气回应AI冲击影视行业",
-      "onboard_time": 1773422418,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 161649,

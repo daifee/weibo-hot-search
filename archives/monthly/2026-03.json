@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773423765443,
+  "endTime": 1773424807205,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -12603,6 +12603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166470,
+      "num": 166470,
+      "word": "张颂文硬气回应AI冲击影视行业",
+      "onboard_time": 1773422418,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166210,
       "num": 338051,
       "word": "黄景瑜孙千 明川有知夏",
@@ -12913,14 +12921,6 @@
       "onboard_time": 1773235943,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 161677,
-      "num": 161677,
-      "word": "张颂文硬气回应AI冲击影视行业",
-      "onboard_time": 1773422418,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 161650,

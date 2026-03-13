@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773423765443,
+  "endTime": 1773424807205,
   "band_list": [
     {
       "raw_hot": 629950,
@@ -147,8 +147,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 161677,
-      "num": 161677,
+      "raw_hot": 166470,
+      "num": 166470,
       "word": "张颂文硬气回应AI冲击影视行业",
       "onboard_time": 1773422418,
       "rank": 10,
@@ -497,6 +497,14 @@
       "onboard_time": 1773416660,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 21832,
+      "num": 27894,
+      "word": "穿prada的女王2 小时代",
+      "onboard_time": 1773404241,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 20912,
