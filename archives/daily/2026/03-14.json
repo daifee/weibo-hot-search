@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773428917009,
+  "endTime": 1773430642914,
   "band_list": [
     {
       "raw_hot": 629950,
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33642,
+      "num": 92895,
+      "word": "齐旻好疯",
+      "onboard_time": 1773428354,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28288,
       "num": 46985,
       "word": "专家建议A股给散户提供T加0制度",
@@ -507,14 +515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 20971,
-      "num": 92895,
-      "word": "齐旻好疯",
-      "onboard_time": 1773428354,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 20912,
       "num": 72731,
       "word": "维修没查出问题被啄木鸟收2000元",
@@ -561,6 +561,14 @@
       "onboard_time": 1773418819,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15507,
+      "num": 19480,
+      "word": "厚厚的名著中藏着13.2万现金",
+      "onboard_time": 1773428415,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13536,
