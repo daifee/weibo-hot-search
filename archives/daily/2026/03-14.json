@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773441370067,
+  "endTime": 1773442360610,
   "band_list": [
     {
       "raw_hot": 629950,
@@ -35,6 +35,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 491446,
+      "num": 592242,
+      "word": "伊朗30枚超重导弹袭击以色列",
+      "onboard_time": 1773434055,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 434183,
       "num": 434183,
       "word": "九尾 这导播是真恶心",
@@ -49,14 +57,6 @@
       "onboard_time": 1773407842,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 365144,
-      "num": 210757,
-      "word": "伊朗30枚超重导弹袭击以色列",
-      "onboard_time": 1773434055,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 325748,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123048,
+      "num": 167460,
+      "word": "美媒称美低估军事行动对霍尔木兹影响",
+      "onboard_time": 1773436993,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 105177,
       "num": 90105,
       "word": "FBI警告伊朗或突袭美国本土",
@@ -219,20 +227,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 102659,
-      "num": 167460,
-      "word": "美媒称美低估军事行动对霍尔木兹影响",
-      "onboard_time": 1773436993,
-      "rank": 31,
-      "category": "军事"
-    },
-    {
       "raw_hot": 97538,
       "num": 497406,
       "word": "九尾提到DYG",
       "onboard_time": 1773412163,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95736,
+      "num": 318014,
+      "word": "手机支付一定要设置3道锁",
+      "onboard_time": 1773421398,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92467,
@@ -259,12 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78203,
-      "num": 318014,
-      "word": "手机支付一定要设置3道锁",
-      "onboard_time": 1773421398,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 87202,
+      "num": 87202,
+      "word": "伊朗打击中东多国美资金融机构",
+      "onboard_time": 1773440774,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77205,
@@ -395,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 58957,
+      "num": 58957,
+      "word": "第一次见女明星打出溜滑出场",
+      "onboard_time": 1773440715,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 54987,
       "num": 54987,
       "word": "薛之谦万兽之王首支预告",
@@ -483,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28885,
-      "num": 28885,
-      "word": "伊朗打击中东多国美资金融机构",
-      "onboard_time": 1773440774,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 31519,
+      "num": 31519,
+      "word": "穿prada的女王2 小时代",
+      "onboard_time": 1773404241,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 28288,
@@ -497,6 +513,14 @@
       "onboard_time": 1773414022,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 27907,
+      "num": 27907,
+      "word": "最强大脑这期淘汰10个人",
+      "onboard_time": 1773440896,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 27751,
@@ -531,36 +555,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 24200,
-      "num": 27894,
-      "word": "穿prada的女王2 小时代",
-      "onboard_time": 1773404241,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 25043,
+      "num": 27532,
+      "word": "厚厚的名著中藏着13.2万现金",
+      "onboard_time": 1773428415,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 23969,
-      "num": 23969,
-      "word": "第一次见女明星打出溜滑出场",
-      "onboard_time": 1773440715,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21520,
-      "num": 21520,
+      "raw_hot": 23854,
+      "num": 27510,
       "word": "十五五规划",
       "onboard_time": 1773435313,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21229,
-      "num": 21229,
-      "word": "最强大脑这期淘汰10个人",
-      "onboard_time": 1773440896,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 20912,
@@ -571,12 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20215,
-      "num": 20895,
-      "word": "厚厚的名著中藏着13.2万现金",
-      "onboard_time": 1773428415,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 17904,
+      "num": 27418,
+      "word": "时代少年团贝加尔湖畔vlog",
+      "onboard_time": 1773434894,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 17308,
@@ -587,11 +595,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16625,
-      "num": 21213,
+      "raw_hot": 16828,
+      "num": 27403,
       "word": "KPL春季赛",
       "onboard_time": 1773406042,
       "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 16754,
+      "num": 27376,
+      "word": "PEL春季赛",
+      "onboard_time": 1773418819,
+      "rank": 44,
       "category": "电竞"
     },
     {
@@ -611,16 +627,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15980,
-      "num": 21213,
-      "word": "PEL春季赛",
-      "onboard_time": 1773418819,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 14543,
-      "num": 20892,
+      "raw_hot": 14820,
+      "num": 27359,
       "word": "WTT重庆冠军赛",
       "onboard_time": 1773401841,
       "rank": 49,
@@ -633,14 +641,6 @@
       "onboard_time": 1773418760,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 13845,
-      "num": 15808,
-      "word": "时代少年团贝加尔湖畔vlog",
-      "onboard_time": 1773434894,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 13536,
@@ -659,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 11791,
+      "num": 131257,
+      "word": "建议完善特殊工作环境劳动者权益",
+      "onboard_time": 1773439216,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11632,
       "num": 15804,
       "word": "金树林绽放之夜红毯",
@@ -672,14 +680,6 @@
       "word": "世界目光聚焦中国两会新举措",
       "onboard_time": 1773413243,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 8726,
-      "num": 131257,
-      "word": "建议完善特殊工作环境劳动者权益",
-      "onboard_time": 1773439216,
-      "rank": 8,
       "category": "国内时政"
     }
   ],

@@ -1,0 +1,410 @@
+{
+  "runTime": 1773442360610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 491446,
+        "num": 592242,
+        "word": "伊朗30枚超重导弹袭击以色列",
+        "onboard_time": 1773434055,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199407,
+        "num": 424352,
+        "word": "呼啸山庄",
+        "onboard_time": 1773407301,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11905,
+        "num": 352996,
+        "word": "春日里的中国经济密码",
+        "onboard_time": 1773413603,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123048,
+        "num": 123048,
+        "word": "美媒称美低估军事行动对霍尔木兹影响",
+        "onboard_time": 1773436993,
+        "rank": 3,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 95736,
+        "num": 95736,
+        "word": "手机支付一定要设置3道锁",
+        "onboard_time": 1773421398,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180876,
+        "num": 95698,
+        "word": "以色列总统称特朗普攻击国家主权",
+        "onboard_time": 1773409283,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109639,
+        "num": 95483,
+        "word": "多人反映贷款逾期被银行划走养老金",
+        "onboard_time": 1773406822,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88475,
+        "num": 95162,
+        "word": "男子维权被12315工作人员嘲讽",
+        "onboard_time": 1773411503,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11791,
+        "num": 94978,
+        "word": "建议完善特殊工作环境劳动者权益",
+        "onboard_time": 1773439216,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8435,
+        "num": 94731,
+        "word": "世界目光聚焦中国两会新举措",
+        "onboard_time": 1773413243,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154943,
+        "num": 94469,
+        "word": "西安不倒翁小姐姐离职丈夫回应",
+        "onboard_time": 1773409522,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121692,
+        "num": 94269,
+        "word": "瞿颖让我笑一天了",
+        "onboard_time": 1773414922,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120828,
+        "num": 94144,
+        "word": "父亲回应女婴出生2天被爷爷丢弃厕所",
+        "onboard_time": 1773405861,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94042,
+        "num": 94042,
+        "word": "男一男二男三男四男五",
+        "onboard_time": 1773412883,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87202,
+        "num": 87202,
+        "word": "伊朗打击中东多国美资金融机构",
+        "onboard_time": 1773440774,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72133,
+        "num": 72133,
+        "word": "白玉兰视后大年",
+        "onboard_time": 1773419239,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71354,
+        "num": 71354,
+        "word": "FBI警告伊朗或突袭美国本土",
+        "onboard_time": 1773416720,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59935,
+        "num": 59935,
+        "word": "省考 紧张",
+        "onboard_time": 1773413482,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 58957,
+        "num": 58957,
+        "word": "第一次见女明星打出溜滑出场",
+        "onboard_time": 1773440715,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58306,
+        "num": 58306,
+        "word": "穿了二十厘米勉强一米七",
+        "onboard_time": 1773409283,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177174,
+        "num": 58293,
+        "word": "呼啸山庄尺度好大",
+        "onboard_time": 1773407842,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125156,
+        "num": 58256,
+        "word": "印度90岁妇人遭4蒙面男子强奸",
+        "onboard_time": 1773405261,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108706,
+        "num": 58192,
+        "word": "研究称第二次怀孕会继续重塑大脑",
+        "onboard_time": 1773394401,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 80797,
+        "num": 58121,
+        "word": "2026白玉兰提名名单预测",
+        "onboard_time": 1773411561,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59692,
+        "num": 58072,
+        "word": "美军坠毁加油机上6人全死",
+        "onboard_time": 1773414683,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58062,
+        "num": 58062,
+        "word": "张颂文硬气回应AI冲击影视行业",
+        "onboard_time": 1773422418,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46813,
+        "num": 46813,
+        "word": "逐玉",
+        "onboard_time": 1773396621,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43672,
+        "num": 43672,
+        "word": "胖东来",
+        "onboard_time": 1773410003,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43989,
+        "num": 43245,
+        "word": "田曦薇心疼樊长玉哭了",
+        "onboard_time": 1773413541,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42168,
+        "num": 42168,
+        "word": "九尾 这导播是真恶心",
+        "onboard_time": 1773411143,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54497,
+        "num": 41430,
+        "word": "广电总局呼吁视听平台别意图垄断",
+        "onboard_time": 1773417561,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38978,
+        "num": 38978,
+        "word": "王一博完全不需要翻译",
+        "onboard_time": 1773404301,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31519,
+        "num": 31519,
+        "word": "穿prada的女王2 小时代",
+        "onboard_time": 1773404241,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29118,
+        "num": 29118,
+        "word": "花6毛骑共享单车每月被扣费173元",
+        "onboard_time": 1773415221,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 28594,
+        "num": 28594,
+        "word": "伊朗发起第45波打击",
+        "onboard_time": 1773418040,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27907,
+        "num": 27907,
+        "word": "最强大脑这期淘汰10个人",
+        "onboard_time": 1773440896,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27878,
+        "num": 27878,
+        "word": "女孩牙里卡勺子就医后自己薅了出来",
+        "onboard_time": 1773413423,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27536,
+        "num": 27536,
+        "word": "跟着人大代表来做操全身都通了",
+        "onboard_time": 1773414802,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25043,
+        "num": 27532,
+        "word": "厚厚的名著中藏着13.2万现金",
+        "onboard_time": 1773428415,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23854,
+        "num": 27510,
+        "word": "十五五规划",
+        "onboard_time": 1773435313,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23716,
+        "num": 27500,
+        "word": "齐旻好疯",
+        "onboard_time": 1773428354,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23220,
+        "num": 27481,
+        "word": "张凌赫特别适合在很狼狈的时候爱人",
+        "onboard_time": 1773414443,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23141,
+        "num": 27459,
+        "word": "18岁女生被诱导贷8万做医美",
+        "onboard_time": 1773417621,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19364,
+        "num": 27446,
+        "word": "钎城",
+        "onboard_time": 1773412942,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18220,
+        "num": 27425,
+        "word": "懒人冰箱",
+        "onboard_time": 1773415942,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17904,
+        "num": 27418,
+        "word": "时代少年团贝加尔湖畔vlog",
+        "onboard_time": 1773434894,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16828,
+        "num": 27403,
+        "word": "KPL春季赛",
+        "onboard_time": 1773406042,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16754,
+        "num": 27376,
+        "word": "PEL春季赛",
+        "onboard_time": 1773418819,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15823,
+        "num": 27360,
+        "word": "海尔发布会",
+        "onboard_time": 1773412043,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14820,
+        "num": 27359,
+        "word": "WTT重庆冠军赛",
+        "onboard_time": 1773401841,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#用心领悟总书记两会上的殷殷嘱托#"
+    }
+  }
+}
