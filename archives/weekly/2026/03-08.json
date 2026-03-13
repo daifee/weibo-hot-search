@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773417168505,
+  "endTime": 1773417785284,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -1283,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 494017,
+      "num": 494017,
+      "word": "男一男二男三男四男五",
+      "onboard_time": 1773412883,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 493251,
       "num": 560716,
       "word": "伊朗多弹头导弹袭击美军基地",
@@ -1561,14 +1569,6 @@
       "onboard_time": 1773295821,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 453297,
-      "num": 453297,
-      "word": "男一男二男三男四男五",
-      "onboard_time": 1773412883,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 453232,
@@ -2659,6 +2659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 321895,
+      "num": 321895,
+      "word": "瞿颖让我笑一天了",
+      "onboard_time": 1773414922,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319201,
       "num": 314011,
       "word": "AI短剧侵权肖战最高可判10年",
@@ -3187,6 +3195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 284241,
+      "num": 565252,
+      "word": "田曦薇心疼樊长玉哭了",
+      "onboard_time": 1773413541,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284209,
       "num": 740279,
       "word": "田曦薇跳高好有力量美",
@@ -3665,14 +3681,6 @@
       "onboard_time": 1773409643,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 244813,
-      "num": 565252,
-      "word": "田曦薇心疼樊长玉哭了",
-      "onboard_time": 1773413541,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 244362,
@@ -4881,14 +4889,6 @@
       "onboard_time": 1773294442,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 179515,
-      "num": 179515,
-      "word": "瞿颖让我笑一天了",
-      "onboard_time": 1773414922,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 179419,
@@ -6155,6 +6155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137773,
+      "num": 827686,
+      "word": "花6毛骑共享单车每月被扣费173元",
+      "onboard_time": 1773415221,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 137533,
       "num": 600222,
       "word": "岳雨婷去巴黎 带戏服",
@@ -7041,14 +7049,6 @@
       "onboard_time": 1773045800,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 118681,
-      "num": 827686,
-      "word": "花6毛骑共享单车每月被扣费173元",
-      "onboard_time": 1773415221,
-      "rank": 1,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 118678,
@@ -10827,6 +10827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 77205,
+      "num": 77205,
+      "word": "广电总局呼吁视听平台别意图垄断",
+      "onboard_time": 1773417561,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77168,
       "num": 86307,
       "word": "王者万象棋蔷薇恋人上线",
@@ -11099,6 +11107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75175,
+      "num": 125800,
+      "word": "懒人冰箱",
+      "onboard_time": 1773415942,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 75120,
       "num": 93584,
       "word": "谢小侯爷有一双琥珀色的美丽眼睛",
@@ -11307,6 +11323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73418,
+      "num": 98363,
+      "word": "张桂源 李总你说的是这个麦吗",
+      "onboard_time": 1773414443,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73414,
       "num": 97061,
       "word": "TVB风味古偶白日提灯",
@@ -11337,14 +11361,6 @@
       "onboard_time": 1773381441,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 73226,
-      "num": 125800,
-      "word": "懒人冰箱",
-      "onboard_time": 1773415942,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 73210,
@@ -11593,6 +11609,14 @@
       "onboard_time": 1773205042,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71298,
+      "num": 71298,
+      "word": "邓凯晋江式演技上新了",
+      "onboard_time": 1773417501,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 71218,
@@ -12099,6 +12123,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 67585,
+      "num": 67585,
+      "word": "林沐然替随元青道歉",
+      "onboard_time": 1773415522,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67530,
       "num": 493781,
       "word": "全国统一的奶奶式擦脸手法",
@@ -12555,6 +12587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 64010,
+      "num": 98189,
+      "word": "315晚会主题官宣",
+      "onboard_time": 1773414022,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63996,
       "num": 916174,
       "word": "看到这谁能忍住不动",
@@ -12673,6 +12713,14 @@
       "onboard_time": 1773153203,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63017,
+      "num": 172937,
+      "word": "啄木鸟通马桶10分钟收448元",
+      "onboard_time": 1773416542,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62934,
@@ -14035,14 +14083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 47860,
-      "num": 98189,
-      "word": "315晚会主题官宣",
-      "onboard_time": 1773414022,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47781,
       "num": 230419,
       "word": "郑钦文说需要找到比赛的节奏",
@@ -14169,14 +14209,6 @@
       "onboard_time": 1773212181,
       "rank": 18,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 46419,
-      "num": 172937,
-      "word": "啄木鸟通马桶10分钟收448元",
-      "onboard_time": 1773416542,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46334,
@@ -14361,6 +14393,14 @@
       "onboard_time": 1772964382,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42758,
+      "num": 78978,
+      "word": "FBI警告伊朗或突袭美国本土",
+      "onboard_time": 1773416720,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42427,
@@ -14649,6 +14689,14 @@
       "onboard_time": 1773143481,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38916,
+      "num": 168208,
+      "word": "云南一村民宰猪摆摊卖被罚5000元",
+      "onboard_time": 1773416421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38823,
@@ -15379,7 +15427,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 26847,
+      "raw_hot": 26893,
+      "num": 101542,
+      "word": "18岁女生被诱导贷8万做医美",
+      "onboard_time": 1773417621,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 26877,
       "num": 657228,
       "word": "春日里的中国经济密码",
       "onboard_time": 1773413603,
@@ -15401,6 +15457,14 @@
       "onboard_time": 1772942660,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 26464,
+      "num": 176259,
+      "word": "金银直播间真证书配假货",
+      "onboard_time": 1773416660,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 26449,
@@ -15667,14 +15731,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22614,
-      "num": 168208,
-      "word": "云南一村民宰猪摆摊卖被罚5000元",
-      "onboard_time": 1773416421,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22538,
       "num": 615140,
       "word": "十五五规划提到这些新词热词",
@@ -15795,6 +15851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20912,
+      "num": 79175,
+      "word": "维修没查出问题被啄木鸟收2000元",
+      "onboard_time": 1773416660,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20911,
       "num": 172833,
       "word": "全素猫粮是噱头吗",
@@ -15889,14 +15953,6 @@
       "onboard_time": 1773319701,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19743,
-      "num": 79175,
-      "word": "维修没查出问题被啄木鸟收2000元",
-      "onboard_time": 1773416660,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19496,
@@ -16011,6 +16067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17308,
+      "num": 555256,
+      "word": "专家建议建立新就业群体专项年金",
+      "onboard_time": 1773414802,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17282,
       "num": 88710,
       "word": "这些数字透着暖暖的民生温度",
@@ -16049,14 +16113,6 @@
       "onboard_time": 1773151104,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 16427,
-      "num": 176259,
-      "word": "金银直播间真证书配假货",
-      "onboard_time": 1773416660,
-      "rank": 17,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 16386,
@@ -16163,14 +16219,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14753,
-      "num": 555256,
-      "word": "专家建议建立新就业群体专项年金",
-      "onboard_time": 1773414802,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 14592,
       "num": 855507,
       "word": "代表呼吁提高中低收入人群育儿补贴",
@@ -16211,20 +16259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13666,
-      "num": 78978,
-      "word": "FBI警告伊朗或突袭美国本土",
-      "onboard_time": 1773416720,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 13616,
       "num": 77936,
       "word": "产检算劳动时间正常付工资",
       "onboard_time": 1773198500,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13536,
+      "num": 79484,
+      "word": "春节过后外卖为啥涨价了",
+      "onboard_time": 1773416902,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13463,
@@ -16329,22 +16377,6 @@
       "onboard_time": 1773413243,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8877,
-      "num": 98363,
-      "word": "张桂源 李总你说的是这个麦吗",
-      "onboard_time": 1773414443,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 8115,
-      "num": 79484,
-      "word": "春节过后外卖为啥涨价了",
-      "onboard_time": 1773416902,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7595,
