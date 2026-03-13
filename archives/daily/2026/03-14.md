@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/14 00:03:05 ~ 2026/03/14 01:06:58
+本榜单时间：2026/03/14 00:03:05 ~ 2026/03/14 01:42:45
 </p>
 </blockquote>
 <p>
@@ -119,6 +119,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%9D%A0%E6%AF%81%E5%8A%A0%E6%B2%B9%E6%9C%BA%E4%B8%8A6%E4%BA%BA%E5%85%A8%E6%AD%BB%23" target="weibo">
 美军坠毁加油机上6人全死（热度：188003）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E7%A1%AC%E6%B0%94%E5%9B%9E%E5%BA%94AI%E5%86%B2%E5%87%BB%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%23" target="weibo">
+张颂文硬气回应AI冲击影视行业（热度：161677）
 </a>
 </li>
 
@@ -357,8 +363,20 @@ FBI警告伊朗或突袭美国本土（热度：105177）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E6%8A%8A%E8%8C%B6%E9%81%93%E9%97%A8%E6%A7%9B%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
+AI把茶道门槛打下来了（热度：27751）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%AF%86%E7%A0%81%23" target="weibo">
 春日里的中国经济密码（热度：26877）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B6%8A%E9%87%91%E6%A0%91%E6%9E%97%E5%B9%B4%E5%BA%A6%E5%A5%B3%E4%B8%BB%E8%A7%92%23" target="weibo">
+吴越金树林年度女主角（热度：26788）
 </a>
 </li>
 

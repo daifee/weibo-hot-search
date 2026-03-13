@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773421618202,
+  "endTime": 1773423765443,
   "band_list": [
     {
       "raw_hot": 629950,
@@ -145,6 +145,14 @@
       "onboard_time": 1773414683,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161677,
+      "num": 161677,
+      "word": "张颂文硬气回应AI冲击影视行业",
+      "onboard_time": 1773422418,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 155978,
@@ -459,12 +467,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 27751,
+      "num": 31400,
+      "word": "AI把茶道门槛打下来了",
+      "onboard_time": 1773422177,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 26877,
       "num": 635435,
       "word": "春日里的中国经济密码",
       "onboard_time": 1773413603,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26788,
+      "num": 31390,
+      "word": "吴越金树林年度女主角",
+      "onboard_time": 1773415342,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 26464,

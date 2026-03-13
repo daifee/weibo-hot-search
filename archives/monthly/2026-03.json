@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773421618202,
+  "endTime": 1773423765443,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -12913,6 +12913,14 @@
       "onboard_time": 1773235943,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161677,
+      "num": 161677,
+      "word": "张颂文硬气回应AI冲击影视行业",
+      "onboard_time": 1773422418,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 161650,
@@ -32499,6 +32507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27751,
+      "num": 31400,
+      "word": "AI把茶道门槛打下来了",
+      "onboard_time": 1773422177,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 27733,
       "num": 422429,
       "word": "奥迪宋斐明和微博王巍谈双料冠军",
@@ -32577,6 +32593,14 @@
       "onboard_time": 1773413603,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26788,
+      "num": 31390,
+      "word": "吴越金树林年度女主角",
+      "onboard_time": 1773415342,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 26746,
