@@ -1,6 +1,6 @@
 {
   "startTime": 1773331581257,
-  "endTime": 1773392030909,
+  "endTime": 1773392792064,
   "band_list": [
     {
       "raw_hot": 1231876,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490336,
+      "num": 490336,
+      "word": "47岁男子1000元彩礼娶82岁老人",
+      "onboard_time": 1773390682,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484943,
       "num": 674227,
       "word": "你好1983定档",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 399749,
-      "num": 583734,
+      "num": 591867,
       "word": "冻干草莓 农药",
       "onboard_time": 1773382942,
       "rank": 3,
@@ -419,14 +427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 275327,
-      "num": 275327,
-      "word": "47岁男子1000元彩礼娶82岁老人",
-      "onboard_time": 1773390682,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269398,
       "num": 206631,
       "word": "杨紫向品牌方赠汉服引惊叹",
@@ -459,6 +459,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243262,
+      "num": 618404,
+      "word": "安崎求职浪姐真的成功了",
+      "onboard_time": 1773389841,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242067,
+      "num": 613482,
+      "word": "张凌赫田曦薇挑衅经纪人",
+      "onboard_time": 1773392061,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228380,
       "num": 442121,
       "word": "伊朗最高领袖要求地区美军基地关闭",
@@ -467,12 +483,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 226131,
-      "num": 618404,
-      "word": "安崎求职浪姐真的成功了",
-      "onboard_time": 1773389841,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 226993,
+      "num": 226993,
+      "word": "北京WBG对战ACT",
+      "onboard_time": 1773390441,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 225523,
+      "num": 562066,
+      "word": "中方支持伊朗人民渡过难关",
+      "onboard_time": 1773390381,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 214133,
@@ -481,14 +505,6 @@
       "onboard_time": 1773377663,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209542,
-      "num": 209542,
-      "word": "北京WBG对战ACT",
-      "onboard_time": 1773390441,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 205975,
@@ -531,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193168,
+      "num": 163414,
+      "word": "女子把过期牛奶给狗喝致其死亡",
+      "onboard_time": 1773388942,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192953,
       "num": 192953,
       "word": "但愿人长久",
@@ -545,14 +569,6 @@
       "onboard_time": 1773385520,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189671,
-      "num": 163414,
-      "word": "女子把过期牛奶给狗喝致其死亡",
-      "onboard_time": 1773388942,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188436,
@@ -611,8 +627,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173115,
-      "num": 173115,
+      "raw_hot": 173658,
+      "num": 173658,
       "word": "韩佳人化中国网红妆",
       "onboard_time": 1773388581,
       "rank": 36,
@@ -633,14 +649,6 @@
       "onboard_time": 1773365180,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167521,
-      "num": 167521,
-      "word": "中方支持伊朗人民渡过难关",
-      "onboard_time": 1773390381,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 166934,
@@ -795,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138876,
+      "num": 138876,
+      "word": "女生照片遭一键脱衣发至色情网",
+      "onboard_time": 1773389061,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135763,
       "num": 135763,
       "word": "刘亦菲 巡视领地的雌狮",
@@ -851,12 +867,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129184,
-      "num": 129184,
-      "word": "女生照片遭一键脱衣发至色情网",
-      "onboard_time": 1773389061,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 129294,
+      "num": 129294,
+      "word": "美国中期选举开战",
+      "onboard_time": 1773389781,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129051,
@@ -921,6 +937,14 @@
       "onboard_time": 1773379222,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118930,
+      "num": 118930,
+      "word": "张杰鸟巢舞台概念图",
+      "onboard_time": 1773391161,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 118462,
@@ -1019,14 +1043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 111718,
-      "num": 99845,
-      "word": "美国中期选举开战",
-      "onboard_time": 1773389781,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 109412,
       "num": 109412,
       "word": "中方向伊朗遇难学生家长援助20万美元",
@@ -1107,14 +1123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 100971,
-      "num": 100971,
-      "word": "张杰鸟巢舞台概念图",
-      "onboard_time": 1773391161,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100722,
       "num": 132204,
       "word": "湖人战胜公牛",
@@ -1185,6 +1193,22 @@
       "onboard_time": 1773370100,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94052,
+      "num": 94052,
+      "word": "手机价格大涨消费者发声",
+      "onboard_time": 1773392361,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 93732,
+      "num": 93732,
+      "word": "佩特拉索林回应接替刘国梁",
+      "onboard_time": 1773392721,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 93410,
@@ -1267,6 +1291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89526,
+      "num": 89526,
+      "word": "谢征求婚",
+      "onboard_time": 1773392241,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88828,
       "num": 88828,
       "word": "张慧雯准备好上浪姐了",
@@ -1339,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86384,
+      "num": 86384,
+      "word": "五粮液变五稂液",
+      "onboard_time": 1773390441,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86216,
       "num": 86216,
       "word": "女总裁人设带货不知名美妆月销破亿",
@@ -1355,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85927,
+      "num": 85926,
+      "word": "辞职把自己感动哭了",
+      "onboard_time": 1773391021,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83849,
       "num": 83849,
       "word": "马思纯一演戏面相都变了",
@@ -1369,14 +1417,6 @@
       "onboard_time": 1773330141,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 83249,
-      "num": 83249,
-      "word": "五粮液变五稂液",
-      "onboard_time": 1773390441,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83161,
@@ -1409,14 +1449,6 @@
       "onboard_time": 1773370160,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81545,
-      "num": 81545,
-      "word": "辞职把自己感动哭了",
-      "onboard_time": 1773391021,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 81391,
@@ -1473,6 +1505,14 @@
       "onboard_time": 1773381143,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79074,
+      "num": 79074,
+      "word": "瞿颖 他以为我命令他说中文",
+      "onboard_time": 1773392661,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 78180,
@@ -1537,6 +1577,14 @@
       "onboard_time": 1773380901,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 75936,
+      "num": 75936,
+      "word": "陈伟霆的老钱风怎么来的",
+      "onboard_time": 1773390142,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 75443,
@@ -1633,6 +1681,14 @@
       "onboard_time": 1773378440,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72029,
+      "num": 75602,
+      "word": "新款LABUBU隐藏款被炒至919元",
+      "onboard_time": 1773390682,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 71539,
@@ -1899,12 +1955,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 48595,
+      "num": 86102,
+      "word": "王一博分享Bolog模板",
+      "onboard_time": 1773391021,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 47450,
       "num": 284753,
       "word": "生态环境部部长现场拿出一枚芯片",
       "onboard_time": 1773320420,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 47444,
+      "num": 85935,
+      "word": "200亩荠菜地被传野菜免费挖遭疯抢",
+      "onboard_time": 1773392422,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46678,
@@ -1995,6 +2067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32610,
+      "num": 513601,
+      "word": "漳州市市监局介入核实问题冻干草莓",
+      "onboard_time": 1773392061,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 31865,
       "num": 261007,
       "word": "人人人人也要拍到孙颖莎",
@@ -2004,7 +2084,7 @@
     },
     {
       "raw_hot": 29719,
-      "num": 489693,
+      "num": 501333,
       "word": "世界从中国两会看到新机遇",
       "onboard_time": 1773326003,
       "rank": 8,
@@ -2059,6 +2139,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24467,
+      "num": 85927,
+      "word": "4个馒头卖3万学生曾做上百次实验",
+      "onboard_time": 1773392422,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23911,
+      "num": 529427,
+      "word": "代表呼吁关注通信骚扰再抬头",
+      "onboard_time": 1773390621,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23433,
       "num": 635135,
       "word": "这个春天再出发",
@@ -2091,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20670,
+      "num": 154607,
+      "word": "缅甸电诈园困住少年威胁10年不放人",
+      "onboard_time": 1773392422,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19981,
       "num": 83496,
       "word": "收购人员称草莓规格和生产日期随便写",
@@ -2112,14 +2216,6 @@
       "word": "全国两会",
       "onboard_time": 1773334098,
       "rank": 43,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 19429,
-      "num": 529427,
-      "word": "代表呼吁关注通信骚扰再抬头",
-      "onboard_time": 1773390621,
-      "rank": 7,
       "category": "国内时政"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773392030909,
+  "endTime": 1773392792064,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -1227,6 +1227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 490336,
+      "num": 490336,
+      "word": "47岁男子1000元彩礼娶82岁老人",
+      "onboard_time": 1773390682,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 487688,
       "num": 487688,
       "word": "张凌赫看了好几次田曦薇的手",
@@ -1868,7 +1876,7 @@
     },
     {
       "raw_hot": 399749,
-      "num": 583734,
+      "num": 591867,
       "word": "冻干草莓 农药",
       "onboard_time": 1773382942,
       "rank": 3,
@@ -3091,14 +3099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 275327,
-      "num": 275327,
-      "word": "47岁男子1000元彩礼娶82岁老人",
-      "onboard_time": 1773390682,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 274796,
       "num": 1043967,
       "word": "建议整治同一航班同一张票两个价",
@@ -3443,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243262,
+      "num": 618404,
+      "word": "安崎求职浪姐真的成功了",
+      "onboard_time": 1773389841,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242901,
       "num": 522514,
       "word": "巴黎时装周",
@@ -3473,6 +3481,14 @@
       "onboard_time": 1772963540,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242067,
+      "num": 613482,
+      "word": "张凌赫田曦薇挑衅经纪人",
+      "onboard_time": 1773392061,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 241552,
@@ -3659,6 +3675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226993,
+      "num": 226993,
+      "word": "北京WBG对战ACT",
+      "onboard_time": 1773390441,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 226693,
       "num": 226693,
       "word": "去动物园竟被猴子投喂苹果",
@@ -3667,20 +3691,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226131,
-      "num": 618404,
-      "word": "安崎求职浪姐真的成功了",
-      "onboard_time": 1773389841,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225872,
       "num": 297439,
       "word": "十日终焉",
       "onboard_time": 1772929160,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225523,
+      "num": 562066,
+      "word": "中方支持伊朗人民渡过难关",
+      "onboard_time": 1773390381,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 225308,
@@ -3945,14 +3969,6 @@
       "onboard_time": 1773046222,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 209542,
-      "num": 209542,
-      "word": "北京WBG对战ACT",
-      "onboard_time": 1773390441,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 208032,
@@ -4267,6 +4283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 193168,
+      "num": 163414,
+      "word": "女子把过期牛奶给狗喝致其死亡",
+      "onboard_time": 1773388942,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193068,
       "num": 356085,
       "word": "最高法最高检工作报告",
@@ -4353,14 +4377,6 @@
       "onboard_time": 1773135985,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189671,
-      "num": 163414,
-      "word": "女子把过期牛奶给狗喝致其死亡",
-      "onboard_time": 1773388942,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189554,
@@ -4643,8 +4659,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173115,
-      "num": 173115,
+      "raw_hot": 173658,
+      "num": 173658,
       "word": "韩佳人化中国网红妆",
       "onboard_time": 1773388581,
       "rank": 36,
@@ -4769,14 +4785,6 @@
       "onboard_time": 1773365180,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167521,
-      "num": 167521,
-      "word": "中方支持伊朗人民渡过难关",
-      "onboard_time": 1773390381,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 167446,
@@ -5683,6 +5691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138876,
+      "num": 138876,
+      "word": "女生照片遭一键脱衣发至色情网",
+      "onboard_time": 1773389061,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138541,
       "num": 299084,
       "word": "王赫野周震南这主意到底谁出的",
@@ -5987,20 +6003,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129294,
+      "num": 129294,
+      "word": "美国中期选举开战",
+      "onboard_time": 1773389781,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129212,
       "num": 373371,
       "word": "山东的煎饼是要考研吗",
       "onboard_time": 1772969960,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 129184,
-      "num": 129184,
-      "word": "女生照片遭一键脱衣发至色情网",
-      "onboard_time": 1773389061,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129054,
@@ -6531,6 +6547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118930,
+      "num": 118930,
+      "word": "张杰鸟巢舞台概念图",
+      "onboard_time": 1773391161,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118893,
       "num": 566231,
       "word": "张婧仪 谁说演员不能看镜头",
@@ -6921,14 +6945,6 @@
       "onboard_time": 1773375082,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 111718,
-      "num": 99845,
-      "word": "美国中期选举开战",
-      "onboard_time": 1773389781,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 111139,
@@ -7603,14 +7619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100971,
-      "num": 100971,
-      "word": "张杰鸟巢舞台概念图",
-      "onboard_time": 1773391161,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100833,
       "num": 158441,
       "word": "多家A股公司与AI龙虾业务关联",
@@ -8243,6 +8251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94052,
+      "num": 94052,
+      "word": "手机价格大涨消费者发声",
+      "onboard_time": 1773392361,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 93994,
       "num": 390466,
       "word": "李羲承退团后ENHYPEN成员状态",
@@ -8288,6 +8304,14 @@
       "word": "公牛加时战胜勇士",
       "onboard_time": 1773208341,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93732,
+      "num": 93732,
+      "word": "佩特拉索林回应接替刘国梁",
+      "onboard_time": 1773392721,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -8689,6 +8713,14 @@
       "onboard_time": 1772975781,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89526,
+      "num": 89526,
+      "word": "谢征求婚",
+      "onboard_time": 1773392241,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 89520,
@@ -9099,6 +9131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86384,
+      "num": 86384,
+      "word": "五粮液变五稂液",
+      "onboard_time": 1773390441,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86372,
       "num": 86372,
       "word": "袁姗姗红包",
@@ -9161,6 +9201,14 @@
       "onboard_time": 1772969481,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 85927,
+      "num": 85926,
+      "word": "辞职把自己感动哭了",
+      "onboard_time": 1773391021,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 85901,
@@ -9387,14 +9435,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 83249,
-      "num": 83249,
-      "word": "五粮液变五稂液",
-      "onboard_time": 1773390441,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83224,
       "num": 290254,
       "word": "上门卸载OpenClaw单次299元",
@@ -9521,14 +9561,6 @@
       "onboard_time": 1773195380,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81545,
-      "num": 81545,
-      "word": "辞职把自己感动哭了",
-      "onboard_time": 1773391021,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 81391,
@@ -9777,6 +9809,14 @@
       "onboard_time": 1773381143,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79074,
+      "num": 79074,
+      "word": "瞿颖 他以为我命令他说中文",
+      "onboard_time": 1773392661,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 78815,
@@ -10121,6 +10161,14 @@
       "onboard_time": 1773380901,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 75936,
+      "num": 75936,
+      "word": "陈伟霆的老钱风怎么来的",
+      "onboard_time": 1773390142,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 75758,
@@ -10625,6 +10673,14 @@
       "onboard_time": 1773378440,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72029,
+      "num": 75602,
+      "word": "新款LABUBU隐藏款被炒至919元",
+      "onboard_time": 1773390682,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 71900,
@@ -12891,6 +12947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48595,
+      "num": 86102,
+      "word": "王一博分享Bolog模板",
+      "onboard_time": 1773391021,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 48589,
       "num": 48589,
       "word": "全英羽毛球公开赛",
@@ -12977,6 +13041,14 @@
       "onboard_time": 1773219980,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 47444,
+      "num": 85935,
+      "word": "200亩荠菜地被传野菜免费挖遭疯抢",
+      "onboard_time": 1773392422,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46970,
@@ -13907,6 +13979,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 32610,
+      "num": 513601,
+      "word": "漳州市市监局介入核实问题冻干草莓",
+      "onboard_time": 1773392061,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 32085,
       "num": 510776,
       "word": "推进不动产登记跨省通办",
@@ -14036,7 +14116,7 @@
     },
     {
       "raw_hot": 29719,
-      "num": 489693,
+      "num": 501333,
       "word": "世界从中国两会看到新机遇",
       "onboard_time": 1773326003,
       "rank": 8,
@@ -14275,6 +14355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24467,
+      "num": 85927,
+      "word": "4个馒头卖3万学生曾做上百次实验",
+      "onboard_time": 1773392422,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24371,
       "num": 184101,
       "word": "周深回应OST劳模",
@@ -14297,6 +14385,14 @@
       "onboard_time": 1773147624,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23911,
+      "num": 529427,
+      "word": "代表呼吁关注通信骚扰再抬头",
+      "onboard_time": 1773390621,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23907,
@@ -14523,6 +14619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20670,
+      "num": 154607,
+      "word": "缅甸电诈园困住少年威胁10年不放人",
+      "onboard_time": 1773392422,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20368,
       "num": 545449,
       "word": "她把无声者的声音带到人民大会堂",
@@ -14593,14 +14697,6 @@
       "onboard_time": 1772905398,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 19429,
-      "num": 529427,
-      "word": "代表呼吁关注通信骚扰再抬头",
-      "onboard_time": 1773390621,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19076,

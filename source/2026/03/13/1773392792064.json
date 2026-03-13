@@ -1,0 +1,410 @@
+{
+  "runTime": 1773392792064,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 377263,
+        "num": 1060362,
+        "word": "微信 朋友圈编辑",
+        "onboard_time": 1773378862,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 287562,
+        "num": 778931,
+        "word": "国产手机涨价2000元",
+        "onboard_time": 1773378083,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14437,
+        "num": 613702,
+        "word": "十五五新程上我们有底气有动力",
+        "onboard_time": 1773376282,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242067,
+        "num": 613482,
+        "word": "张凌赫田曦薇挑衅经纪人",
+        "onboard_time": 1773392061,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165853,
+        "num": 591867,
+        "word": "冻干草莓 农药",
+        "onboard_time": 1773382942,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225523,
+        "num": 562066,
+        "word": "中方支持伊朗人民渡过难关",
+        "onboard_time": 1773390381,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243262,
+        "num": 556806,
+        "word": "安崎求职浪姐真的成功了",
+        "onboard_time": 1773389841,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23911,
+        "num": 527873,
+        "word": "代表呼吁关注通信骚扰再抬头",
+        "onboard_time": 1773390621,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32610,
+        "num": 513601,
+        "word": "漳州市市监局介入核实问题冻干草莓",
+        "onboard_time": 1773392061,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2026,
+        "num": 501333,
+        "word": "世界从中国两会看到新机遇",
+        "onboard_time": 1773326003,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 490336,
+        "num": 490336,
+        "word": "47岁男子1000元彩礼娶82岁老人",
+        "onboard_time": 1773390682,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380591,
+        "num": 380591,
+        "word": "长期用小拇指托手机的后果",
+        "onboard_time": 1773387682,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 369882,
+        "num": 369882,
+        "word": "卜凡 sk团播",
+        "onboard_time": 1773388283,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301328,
+        "num": 301328,
+        "word": "严屹宽 双男主",
+        "onboard_time": 1773385702,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301283,
+        "num": 301283,
+        "word": "绩效 反人类",
+        "onboard_time": 1773386420,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226993,
+        "num": 226993,
+        "word": "北京WBG对战ACT",
+        "onboard_time": 1773390441,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205970,
+        "num": 205970,
+        "word": "中俄安理会硬刚美国",
+        "onboard_time": 1773381381,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189766,
+        "num": 189766,
+        "word": "儿子遗体在泰医院失踪中国父亲报警",
+        "onboard_time": 1773387020,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173658,
+        "num": 173658,
+        "word": "韩佳人化中国网红妆",
+        "onboard_time": 1773388581,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20670,
+        "num": 154607,
+        "word": "缅甸电诈园困住少年威胁10年不放人",
+        "onboard_time": 1773392422,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762590,
+        "num": 154156,
+        "word": "痞幼做医美了",
+        "onboard_time": 1773385942,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193168,
+        "num": 152510,
+        "word": "女子把过期牛奶给狗喝致其死亡",
+        "onboard_time": 1773388942,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150285,
+        "num": 150285,
+        "word": "广电总局将公布演员番位规则",
+        "onboard_time": 1773385461,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138876,
+        "num": 138876,
+        "word": "女生照片遭一键脱衣发至色情网",
+        "onboard_time": 1773389061,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129294,
+        "num": 129294,
+        "word": "美国中期选举开战",
+        "onboard_time": 1773389781,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123394,
+        "num": 123394,
+        "word": "别让你的微信隐私在裸奔",
+        "onboard_time": 1773374061,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118930,
+        "num": 118930,
+        "word": "张杰鸟巢舞台概念图",
+        "onboard_time": 1773391161,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107531,
+        "num": 107531,
+        "word": "中方向伊朗遇难学生家长援助20万美元",
+        "onboard_time": 1773390922,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104314,
+        "num": 104314,
+        "word": "沈月说不能留白鹿一个人",
+        "onboard_time": 1773385520,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104541,
+        "num": 102723,
+        "word": "伊朗称对林肯号航母发动袭击",
+        "onboard_time": 1773382100,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 99519,
+        "num": 99519,
+        "word": "澳洲遇难男子遗体回家费用犯愁",
+        "onboard_time": 1773385461,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97414,
+        "num": 97414,
+        "word": "周星驰打劫孙燕姿抢演唱会门票",
+        "onboard_time": 1773387861,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96624,
+        "num": 96624,
+        "word": "刘国梁卸任世界乒联董事会主席",
+        "onboard_time": 1773390261,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94052,
+        "num": 94052,
+        "word": "手机价格大涨消费者发声",
+        "onboard_time": 1773392361,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93732,
+        "num": 93732,
+        "word": "佩特拉索林回应接替刘国梁",
+        "onboard_time": 1773392721,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89526,
+        "num": 89526,
+        "word": "谢征求婚",
+        "onboard_time": 1773392241,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86384,
+        "num": 86384,
+        "word": "五粮液变五稂液",
+        "onboard_time": 1773390441,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48595,
+        "num": 86102,
+        "word": "王一博分享Bolog模板",
+        "onboard_time": 1773391021,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47444,
+        "num": 85935,
+        "word": "200亩荠菜地被传野菜免费挖遭疯抢",
+        "onboard_time": 1773392422,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24467,
+        "num": 85927,
+        "word": "4个馒头卖3万学生曾做上百次实验",
+        "onboard_time": 1773392422,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85927,
+        "num": 85926,
+        "word": "辞职把自己感动哭了",
+        "onboard_time": 1773391021,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85283,
+        "num": 85283,
+        "word": "花1.5万就能用修正商标卖自家产品",
+        "onboard_time": 1773390022,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85037,
+        "num": 85037,
+        "word": "谁敢相信这是九年前的张凌赫",
+        "onboard_time": 1773374422,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79913,
+        "num": 79913,
+        "word": "伊朗被曝研究开辟新战场",
+        "onboard_time": 1773388821,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79074,
+        "num": 79074,
+        "word": "瞿颖 他以为我命令他说中文",
+        "onboard_time": 1773392661,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78944,
+        "num": 78944,
+        "word": "00后女生运营体温计网店月销超10万",
+        "onboard_time": 1773385102,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76404,
+        "num": 76404,
+        "word": "头部演员片酬将发生结构性改变",
+        "onboard_time": 1773385702,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75936,
+        "num": 75936,
+        "word": "陈伟霆的老钱风怎么来的",
+        "onboard_time": 1773390142,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72029,
+        "num": 75602,
+        "word": "新款LABUBU隐藏款被炒至919元",
+        "onboard_time": 1773390682,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 75462,
+        "num": 75462,
+        "word": "王鹤润 王玉雯",
+        "onboard_time": 1773372800,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的2026全国两会日历#"
+    }
+  }
+}
