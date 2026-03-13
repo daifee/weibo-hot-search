@@ -1,7 +1,15 @@
 {
   "startTime": 1773331581257,
-  "endTime": 1773409196991,
+  "endTime": 1773413545586,
   "band_list": [
+    {
+      "raw_hot": 1449536,
+      "num": 255435,
+      "word": "九尾 这导播是真恶心",
+      "onboard_time": 1773411143,
+      "rank": 10,
+      "category": "电竞"
+    },
     {
       "raw_hot": 1231876,
       "num": 1231876,
@@ -59,6 +67,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 906290,
+      "num": 422835,
+      "word": "以色列总统称特朗普攻击国家主权",
+      "onboard_time": 1773409283,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 853605,
       "num": 355783,
       "word": "日本高官承认出轨但拒绝辞职",
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 820276,
-      "num": 345340,
+      "num": 378430,
       "word": "多人反映贷款逾期被银行划走养老金",
       "onboard_time": 1773406822,
       "rank": 19,
@@ -81,6 +97,22 @@
       "onboard_time": 1773385821,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 797043,
+      "num": 1127526,
+      "word": "2026白玉兰提名名单预测",
+      "onboard_time": 1773411561,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 794583,
+      "num": 768539,
+      "word": "呼啸山庄尺度好大",
+      "onboard_time": 1773407842,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 783140,
@@ -148,7 +180,7 @@
     },
     {
       "raw_hot": 584955,
-      "num": 169710,
+      "num": 202422,
       "word": "印度90岁妇人遭4蒙面男子强奸",
       "onboard_time": 1773405261,
       "rank": 22,
@@ -185,6 +217,14 @@
       "onboard_time": 1773366681,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494827,
+      "num": 494827,
+      "word": "胖东来",
+      "onboard_time": 1773410003,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 490336,
@@ -401,6 +441,14 @@
       "onboard_time": 1773385461,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 355029,
+      "num": 242339,
+      "word": "西安不倒翁小姐姐离职丈夫回应",
+      "onboard_time": 1773409522,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350278,
@@ -627,12 +675,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246868,
+      "num": 430233,
+      "word": "韩国外交部发声明",
+      "onboard_time": 1773406701,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 245347,
+      "num": 839810,
+      "word": "十五五规划纲要全文",
+      "onboard_time": 1773409643,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 243262,
       "num": 618404,
       "word": "安崎求职浪姐真的成功了",
       "onboard_time": 1773389841,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239101,
+      "num": 239101,
+      "word": "海尔发布会",
+      "onboard_time": 1773412043,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 236224,
@@ -683,6 +755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221152,
+      "num": 221152,
+      "word": "王橹杰没想到的成片",
+      "onboard_time": 1773412523,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220142,
       "num": 324802,
       "word": "警方通报女子从行驶中出租车跳下",
@@ -707,12 +787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212291,
-      "num": 768539,
-      "word": "呼啸山庄尺度好大",
-      "onboard_time": 1773407842,
-      "rank": 1,
-      "category": "电影"
+      "raw_hot": 212161,
+      "num": 212161,
+      "word": "男子维权被12315工作人员嘲讽",
+      "onboard_time": 1773411503,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211676,
@@ -747,12 +827,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 202991,
+      "num": 202991,
+      "word": "呼啸山庄",
+      "onboard_time": 1773407301,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200077,
       "num": 290497,
       "word": "20岁小伙泡沫尿1年多不重视致透析",
       "onboard_time": 1773319341,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199915,
+      "num": 199915,
+      "word": "九尾提到DYG",
+      "onboard_time": 1773412163,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 198010,
+      "num": 198010,
+      "word": "穿了二十厘米勉强一米七",
+      "onboard_time": 1773409283,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 197312,
@@ -969,14 +1073,6 @@
       "onboard_time": 1773371120,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161231,
-      "num": 113762,
-      "word": "韩国外交部发声明",
-      "onboard_time": 1773406701,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 160937,
@@ -1227,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123976,
+      "num": 119482,
+      "word": "男一男二男三男四男五",
+      "onboard_time": 1773412883,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123216,
       "num": 123216,
       "word": "男子被忘核磁共振机医院曾被罚5900万",
@@ -1283,6 +1387,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119618,
+      "num": 119618,
+      "word": "石洵瑶vs张本美和",
+      "onboard_time": 1773412222,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119044,
+      "num": 119044,
+      "word": "钎城",
+      "onboard_time": 1773412942,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118930,
       "num": 118930,
       "word": "张杰鸟巢舞台概念图",
@@ -1321,14 +1441,6 @@
       "onboard_time": 1773400401,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 115425,
-      "num": 113886,
-      "word": "呼啸山庄",
-      "onboard_time": 1773407301,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 115257,
@@ -1419,20 +1531,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109729,
+      "num": 109729,
+      "word": "孙燕姿演唱会",
+      "onboard_time": 1773407662,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108859,
       "num": 97760,
       "word": "肖战品质盛典揉了多次眼睛",
       "onboard_time": 1773399861,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108550,
-      "num": 108550,
-      "word": "孙燕姿演唱会",
-      "onboard_time": 1773407662,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 108041,
@@ -1531,6 +1643,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99983,
+      "num": 99983,
+      "word": "女子花12万做试管被带到民房手术",
+      "onboard_time": 1773410422,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99972,
+      "num": 99972,
+      "word": "李鹤来说想当演员",
+      "onboard_time": 1773409582,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99922,
       "num": 99922,
       "word": "6800元一针细胞回春到底什么来头",
@@ -1569,6 +1697,14 @@
       "onboard_time": 1773375682,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98442,
+      "num": 98442,
+      "word": "倪妮哭出了漫画里才有的泪眼",
+      "onboard_time": 1773412583,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 98375,
@@ -1723,6 +1859,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89415,
+      "num": 88859,
+      "word": "大侦探",
+      "onboard_time": 1773413302,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 88950,
+      "num": 88950,
+      "word": "女孩牙里卡勺子就医后自己薅了出来",
+      "onboard_time": 1773413423,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88939,
       "num": 88939,
       "word": "阎鹤祥从未否认自己是王一博",
@@ -1744,6 +1896,14 @@
       "word": "谢征强吻樊长玉",
       "onboard_time": 1773314000,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88420,
+      "num": 88420,
+      "word": "王橹杰投篮",
+      "onboard_time": 1773399981,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -1851,6 +2011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84531,
+      "num": 84531,
+      "word": "省考 紧张",
+      "onboard_time": 1773413482,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 84397,
       "num": 84397,
       "word": "小时候的愿望水灵灵实现了",
@@ -1867,12 +2035,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83702,
+      "num": 83702,
+      "word": "陈伟霆终于演医生了",
+      "onboard_time": 1773411923,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83516,
       "num": 429006,
       "word": "伊朗向以发射多型号导弹",
       "onboard_time": 1773330141,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 83416,
+      "num": 83416,
+      "word": "宝宝迈过人生中第一道坎视频火了",
+      "onboard_time": 1773412822,
+      "rank": 47,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 83342,
@@ -1937,6 +2121,14 @@
       "onboard_time": 1773407903,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82112,
+      "num": 82112,
+      "word": "宣纸自己都没想过会被AI熨烫机熨平",
+      "onboard_time": 1773412343,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 81804,
@@ -2475,14 +2667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 62518,
-      "num": 62518,
-      "word": "王橹杰投篮",
-      "onboard_time": 1773399981,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62452,
       "num": 69059,
       "word": "90后成30万级汽车消费主力",
@@ -2732,7 +2916,7 @@
     },
     {
       "raw_hot": 46429,
-      "num": 272349,
+      "num": 273067,
       "word": "2026年政府工作报告全文",
       "onboard_time": 1773407903,
       "rank": 8,
@@ -2760,6 +2944,14 @@
       "word": "女子花近10万做折角腰术后浑身血水",
       "onboard_time": 1773402021,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42711,
+      "num": 207449,
+      "word": "周云杰隔山打牛5分钟解冻冰坨榴莲",
+      "onboard_time": 1773411082,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2859,12 +3051,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32348,
+      "num": 205614,
+      "word": "男子平台买机票比航司贵1.5万元",
+      "onboard_time": 1773412822,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 31865,
       "num": 261007,
       "word": "人人人人也要拍到孙颖莎",
       "onboard_time": 1773380901,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31323,
+      "num": 208985,
+      "word": "P图许愿网友被周云杰请到了现场",
+      "onboard_time": 1773409402,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 30105,
@@ -3187,6 +3395,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 9700,
+      "num": 267873,
+      "word": "十五五规划是施工图也是邀请函",
+      "onboard_time": 1773413243,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 9474,
+      "num": 648693,
+      "word": "世界目光聚焦中国两会新举措",
+      "onboard_time": 1773413243,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 7193,
       "num": 592574,
       "word": "今年加快研究人工智能立法",
@@ -3212,6 +3436,9 @@
     },
     {
       "word": "#用心领悟总书记两会上的殷殷嘱托#"
+    },
+    {
+      "word": "#习近平的两会之喻#"
     }
   ]
 }
