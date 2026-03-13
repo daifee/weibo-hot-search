@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773381413262,
+  "endTime": 1773382244909,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 976720,
+      "num": 1156275,
+      "word": "国产手机涨价2000元",
+      "onboard_time": 1773378083,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 955193,
       "num": 955193,
       "word": "逐玉 头纱",
@@ -417,14 +425,6 @@
       "onboard_time": 1773114742,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 858853,
-      "num": 1137416,
-      "word": "国产手机涨价2000元",
-      "onboard_time": 1773378083,
-      "rank": 0,
-      "category": "数码"
     },
     {
       "raw_hot": 825528,
@@ -841,6 +841,14 @@
       "onboard_time": 1773243261,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 596307,
+      "num": 838163,
+      "word": "微信 朋友圈编辑",
+      "onboard_time": 1773378862,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 588843,
@@ -1899,14 +1907,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 380805,
-      "num": 828319,
-      "word": "微信 朋友圈编辑",
-      "onboard_time": 1773378862,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 380154,
       "num": 359209,
       "word": "日本是一个老龄化很严重的国家",
@@ -2795,6 +2795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288090,
+      "num": 270906,
+      "word": "为什么现在冰箱门越来越多了",
+      "onboard_time": 1773376764,
+      "rank": 22,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 287675,
       "num": 878301,
       "word": "2026白玉兰预测",
@@ -2985,14 +2993,6 @@
       "onboard_time": 1772954720,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 270906,
-      "num": 270906,
-      "word": "为什么现在冰箱门越来越多了",
-      "onboard_time": 1773376764,
-      "rank": 22,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 269398,
@@ -3755,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214133,
+      "num": 214133,
+      "word": "女子屡遭凌晨强制投丰巢快递柜",
+      "onboard_time": 1773377663,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213375,
       "num": 289679,
       "word": "肾病恶化身体会发3次信号",
@@ -4211,6 +4219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187789,
+      "num": 237069,
+      "word": "中俄安理会硬刚美国",
+      "onboard_time": 1773381381,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 187635,
       "num": 411869,
       "word": "iPhone18Pro外观上惊喜感或有限",
@@ -4625,14 +4641,6 @@
       "onboard_time": 1773377482,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165827,
-      "num": 184910,
-      "word": "女子屡遭凌晨强制投丰巢快递柜",
-      "onboard_time": 1773377663,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165522,
@@ -5163,6 +5171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147797,
+      "num": 147797,
+      "word": "谢征给樊长玉刮痧",
+      "onboard_time": 1773380002,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147780,
       "num": 787333,
       "word": "建议年假天数按工龄递增",
@@ -5297,14 +5313,6 @@
       "onboard_time": 1772892143,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 142653,
-      "num": 142653,
-      "word": "谢征给樊长玉刮痧",
-      "onboard_time": 1773380002,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 142415,
@@ -5593,6 +5601,14 @@
       "onboard_time": 1773377482,
       "rank": 26,
       "category": "运动健身,幽默"
+    },
+    {
+      "raw_hot": 133386,
+      "num": 133386,
+      "word": "当年轻人贴冰箱贴的思路打开后",
+      "onboard_time": 1773376822,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 133184,
@@ -6003,6 +6019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124823,
+      "num": 138250,
+      "word": "突然发现这样喝牛奶不会弄脏手",
+      "onboard_time": 1773380183,
+      "rank": 26,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 124704,
       "num": 215997,
       "word": "地狱级饮食后身体的变化",
@@ -6217,6 +6241,14 @@
       "onboard_time": 1773150025,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119854,
+      "num": 119854,
+      "word": "女子流清鼻涕4年竟是脑子漏水",
+      "onboard_time": 1773379222,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119845,
@@ -6627,14 +6659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 111447,
-      "num": 132095,
-      "word": "当年轻人贴冰箱贴的思路打开后",
-      "onboard_time": 1773376822,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111139,
       "num": 293335,
       "word": "穆祉丞官宣加入周五晚高疯",
@@ -6721,14 +6745,6 @@
       "onboard_time": 1773303201,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109672,
-      "num": 138250,
-      "word": "突然发现这样喝牛奶不会弄脏手",
-      "onboard_time": 1773380183,
-      "rank": 26,
-      "category": "休闲"
     },
     {
       "raw_hot": 109418,
@@ -7163,14 +7179,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 102395,
-      "num": 102395,
-      "word": "女子流清鼻涕4年竟是脑子漏水",
-      "onboard_time": 1773379222,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102274,
       "num": 187866,
       "word": "对台绝不承诺放弃使用武力",
@@ -7337,6 +7345,14 @@
       "onboard_time": 1773011417,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99922,
+      "num": 99922,
+      "word": "6800元一针细胞回春到底什么来头",
+      "onboard_time": 1773381861,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 99891,
@@ -7665,14 +7681,6 @@
       "onboard_time": 1773377182,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96393,
-      "num": 96393,
-      "word": "中俄安理会硬刚美国",
-      "onboard_time": 1773381381,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 96340,
@@ -8009,6 +8017,14 @@
       "onboard_time": 1773329722,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92821,
+      "num": 92821,
+      "word": "张凌赫田曦薇偷偷比心",
+      "onboard_time": 1773381622,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 92670,
@@ -8891,6 +8907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84106,
+      "num": 84106,
+      "word": "伊朗称对林肯号航母发动袭击",
+      "onboard_time": 1773382100,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 83917,
       "num": 85869,
       "word": "国乒男单首轮2场内战",
@@ -8993,6 +9017,14 @@
       "onboard_time": 1773358279,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83143,
+      "num": 83143,
+      "word": "标价3999元护肤品直播间69.9元两瓶",
+      "onboard_time": 1773381262,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82992,
@@ -9105,6 +9137,14 @@
       "onboard_time": 1773051081,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80859,
+      "num": 80859,
+      "word": "看看那个被炸死的7岁伊朗女孩",
+      "onboard_time": 1773379222,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80702,
@@ -9289,6 +9329,14 @@
       "onboard_time": 1772936301,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 79134,
+      "num": 79134,
+      "word": "入住小区8年才知吃的是井水",
+      "onboard_time": 1773381143,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78815,
@@ -9531,14 +9579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 76972,
-      "num": 76972,
-      "word": "看看那个被炸死的7岁伊朗女孩",
-      "onboard_time": 1773379222,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 76897,
       "num": 740134,
       "word": "郭晓婷王天辰GLASS",
@@ -9611,16 +9651,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 76129,
-      "num": 76129,
-      "word": "入住小区8年才知吃的是井水",
-      "onboard_time": 1773381143,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75861,
-      "num": 75861,
+      "raw_hot": 76046,
+      "num": 76046,
       "word": "鞠婧祎ELLE美人图",
       "onboard_time": 1773380901,
       "rank": 46,
@@ -9923,20 +9955,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 73394,
-      "num": 73394,
-      "word": "标价3999元护肤品直播间69.9元两瓶",
-      "onboard_time": 1773381262,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73295,
       "num": 207628,
       "word": "慢病人群更需警惕带状疱疹",
       "onboard_time": 1773023480,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73295,
+      "num": 73295,
+      "word": "美预测手动处理退款需4431161小时",
+      "onboard_time": 1773381441,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73210,
@@ -12011,6 +12043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52332,
+      "num": 253621,
+      "word": "中美将在法国举行经贸磋商",
+      "onboard_time": 1773380901,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52299,
       "num": 189296,
       "word": "白鹿唐宫奇案红毯",
@@ -12771,6 +12811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40900,
+      "num": 146819,
+      "word": "王安宇一瓶接一瓶",
+      "onboard_time": 1773380541,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40881,
       "num": 711086,
       "word": "银发经济大有可为",
@@ -13323,12 +13371,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31665,
-      "num": 144930,
-      "word": "王安宇一瓶接一瓶",
-      "onboard_time": 1773380541,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 31865,
+      "num": 261007,
+      "word": "人人人人也要拍到孙颖莎",
+      "onboard_time": 1773380901,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 31512,
@@ -13891,14 +13939,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20699,
-      "num": 253621,
-      "word": "中美将在法国举行经贸磋商",
-      "onboard_time": 1773380901,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20368,
       "num": 545449,
       "word": "她把无声者的声音带到人民大会堂",
@@ -13921,6 +13961,14 @@
       "onboard_time": 1773185599,
       "rank": 28,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 19981,
+      "num": 83496,
+      "word": "收购人员称草莓规格和生产日期随便写",
+      "onboard_time": 1773382100,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19964,
@@ -13961,14 +14009,6 @@
       "onboard_time": 1772905398,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 19173,
-      "num": 261007,
-      "word": "人人人人也要拍到孙颖莎",
-      "onboard_time": 1773380901,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 19076,
@@ -14195,6 +14235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14066,
+      "num": 679163,
+      "word": "十五五新程上我们有底气有动力",
+      "onboard_time": 1773376282,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13956,
       "num": 222612,
       "word": "起飞就是战斗起飞定传胜利消息",
@@ -14305,14 +14353,6 @@
       "onboard_time": 1773150025,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10704,
-      "num": 679163,
-      "word": "十五五新程上我们有底气有动力",
-      "onboard_time": 1773376282,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 7595,
