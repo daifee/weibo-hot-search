@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773521572063,
+  "endTime": 1773524100763,
   "band_list": [
     {
       "raw_hot": 600463,
@@ -507,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16557,
+      "num": 16557,
+      "word": "CMG年度剧情电影男演员提名",
+      "onboard_time": 1773523514,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15549,
       "num": 18327,
       "word": "刘宇宁演唱会脱外套",
@@ -524,11 +532,19 @@
     },
     {
       "raw_hot": 13301,
-      "num": 14664,
+      "num": 15598,
       "word": "年度剧情电影男演员提名",
       "onboard_time": 1773517934,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 7968,
+      "num": 26717,
+      "word": "十五五首次设置支持青年发展专节",
+      "onboard_time": 1773521893,
+      "rank": 9,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
