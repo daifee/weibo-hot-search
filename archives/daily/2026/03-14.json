@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773481321177,
+  "endTime": 1773482222826,
   "band_list": [
     {
       "raw_hot": 1578804,
@@ -195,6 +195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 434878,
+      "num": 110157,
+      "word": "陆仙人回应整容",
+      "onboard_time": 1773479661,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434183,
       "num": 434183,
       "word": "九尾 这导播是真恶心",
@@ -243,8 +251,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331949,
-      "num": 331949,
+      "raw_hot": 332231,
+      "num": 332231,
       "word": "申论大作文",
       "onboard_time": 1773479602,
       "rank": 4,
@@ -369,14 +377,6 @@
       "onboard_time": 1773455300,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276684,
-      "num": 110157,
-      "word": "陆仙人回应整容",
-      "onboard_time": 1773479661,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 273326,
@@ -619,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195679,
+      "num": 195679,
+      "word": "生菜是最伟大的蔬菜",
+      "onboard_time": 1773479301,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195558,
       "num": 195558,
       "word": "王橹杰逆光海报",
@@ -633,6 +641,14 @@
       "onboard_time": 1773469581,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188240,
+      "num": 107597,
+      "word": "小红帽下楼",
+      "onboard_time": 1773479421,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 188003,
@@ -659,14 +675,6 @@
       "category": "综艺,剧集"
     },
     {
-      "raw_hot": 176787,
-      "num": 107597,
-      "word": "小红帽下楼",
-      "onboard_time": 1773479421,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175914,
       "num": 175914,
       "word": "15岁男孩嘴歪发现智齿长到眼窝里",
@@ -681,6 +689,14 @@
       "onboard_time": 1773469941,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174849,
+      "num": 174849,
+      "word": "冰箱贴一直不挪会伤害冰箱",
+      "onboard_time": 1773478881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172176,
@@ -899,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138504,
-      "num": 138504,
-      "word": "冰箱贴一直不挪会伤害冰箱",
-      "onboard_time": 1773478881,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137288,
       "num": 103255,
       "word": "第一个用羽毛做假睫毛的是天才",
@@ -1051,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118121,
+      "num": 118121,
+      "word": "第一次知道茶叶放久了会变质",
+      "onboard_time": 1773479960,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 117407,
       "num": 117407,
       "word": "吉林省考",
@@ -1067,28 +1083,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115497,
-      "num": 115497,
-      "word": "第一次知道茶叶放久了会变质",
-      "onboard_time": 1773479960,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 114535,
       "num": 114535,
       "word": "多方回应火锅店老板砍伤广场舞人群",
       "onboard_time": 1773463040,
       "rank": 46,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 114322,
-      "num": 114322,
-      "word": "生菜是最伟大的蔬菜",
-      "onboard_time": 1773479301,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 113270,
@@ -1315,6 +1315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 91933,
+      "num": 86361,
+      "word": "只有阎鹤祥把郭德纲的话听进去了",
+      "onboard_time": 1773480921,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91444,
       "num": 91444,
       "word": "女孩牙里卡勺子就医后自己薅了出来",
@@ -1345,6 +1353,14 @@
       "onboard_time": 1773470120,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90003,
+      "num": 90003,
+      "word": "120斤减肥减到160斤",
+      "onboard_time": 1773480501,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 89170,
@@ -1395,20 +1411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87040,
-      "num": 87040,
-      "word": "120斤减肥减到160斤",
-      "onboard_time": 1773480501,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 86466,
       "num": 86466,
       "word": "王霜无缘半决赛",
       "onboard_time": 1773479062,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86198,
+      "num": 86198,
+      "word": "申论 赛道",
+      "onboard_time": 1773481162,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 85874,
@@ -1475,28 +1491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82271,
+      "num": 82271,
+      "word": "艾玛沃森帕丁森久违同框",
+      "onboard_time": 1773481640,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82117,
       "num": 82117,
       "word": "徐冬冬 出道没有少女期",
       "onboard_time": 1773467239,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82057,
-      "num": 82057,
-      "word": "只有阎鹤祥把郭德纲的话听进去了",
-      "onboard_time": 1773480921,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 81983,
-      "num": 81983,
-      "word": "申论 赛道",
-      "onboard_time": 1773481162,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 80895,
@@ -1555,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78778,
+      "num": 78778,
+      "word": "比长剧还卷的短剧女主妆造来了",
+      "onboard_time": 1773481282,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78509,
       "num": 78509,
       "word": "杨戬21连败",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1773479780,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 76668,
+      "num": 76668,
+      "word": "中超联赛",
+      "onboard_time": 1773481942,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 76000,
@@ -1657,6 +1681,14 @@
       "onboard_time": 1773471440,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 74556,
+      "num": 74556,
+      "word": "一节课讲一道题",
+      "onboard_time": 1773481521,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 74376,
@@ -1731,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71180,
+      "num": 71180,
+      "word": "拉塞尔车坏了",
+      "onboard_time": 1773478941,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71137,
       "num": 71137,
       "word": "垫底辣孩到底长什么样",
@@ -1771,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68571,
+      "num": 68571,
+      "word": "JDG赛季九连胜",
+      "onboard_time": 1773479301,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67804,
       "num": 67804,
       "word": "内娱什么人都能出书了",
@@ -1779,12 +1827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67780,
-      "num": 65722,
-      "word": "比长剧还卷的短剧女主妆造来了",
-      "onboard_time": 1773481282,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 67665,
+      "num": 67665,
+      "word": "边工作边考研的人",
+      "onboard_time": 1773482121,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 67585,
@@ -1793,6 +1841,30 @@
       "onboard_time": 1773415522,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67440,
+      "num": 67440,
+      "word": "林孝埈为安东内利颁小轮胎",
+      "onboard_time": 1773481700,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67300,
+      "num": 67300,
+      "word": "怕狗的人才懂有多恐怖",
+      "onboard_time": 1773482181,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 67010,
+      "num": 67010,
+      "word": "山东泰山vs北京国安",
+      "onboard_time": 1773477440,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 66320,
@@ -2363,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25437,
+      "num": 247608,
+      "word": "AI时代青少年该掌握哪些能力",
+      "onboard_time": 1773480561,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24603,
       "num": 108619,
       "word": "猫头鹰白鹇等保护动物变成挂售野味",
@@ -2416,14 +2496,6 @@
       "word": "十五五向你发出奋斗邀请",
       "onboard_time": 1773444378,
       "rank": 4,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 18643,
-      "num": 247608,
-      "word": "AI时代青少年该掌握哪些能力",
-      "onboard_time": 1773480561,
-      "rank": 8,
       "category": "国内时政"
     },
     {
