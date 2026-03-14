@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773516900256,
+  "endTime": 1773517744944,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -36939,6 +36939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15549,
+      "num": 18327,
+      "word": "刘宇宁演唱会脱外套",
+      "onboard_time": 1773516795,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 15466,
       "num": 153851,
       "word": "建议试点建立工时大数据监测平台",
@@ -37001,14 +37009,6 @@
       "onboard_time": 1773384682,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15162,
-      "num": 16942,
-      "word": "刘宇宁演唱会脱外套",
-      "onboard_time": 1773516795,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 15104,
