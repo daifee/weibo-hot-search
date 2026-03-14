@@ -1,7 +1,15 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773455758733,
+  "endTime": 1773457967222,
   "band_list": [
+    {
+      "raw_hot": 1283922,
+      "num": 312224,
+      "word": "田曦薇张凌赫经纪人依旧纯恨中",
+      "onboard_time": 1773454279,
+      "rank": 10,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 980303,
       "num": 592242,
@@ -11,20 +19,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 910631,
-      "num": 219413,
-      "word": "田曦薇张凌赫经纪人依旧纯恨中",
-      "onboard_time": 1773454279,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 703558,
-      "num": 181398,
+      "num": 224302,
       "word": "杨幂赵丽颖 白玉兰",
       "onboard_time": 1773448459,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 643099,
+      "num": 1102895,
+      "word": "省考",
+      "onboard_time": 1773444678,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 629950,
@@ -59,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 505582,
+      "num": 810211,
+      "word": "我们的少年时代2",
+      "onboard_time": 1773454820,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497913,
       "num": 497913,
       "word": "以色列总统称特朗普攻击国家主权",
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 426969,
-      "num": 166473,
+      "num": 222539,
       "word": "呼啸山庄尺度好大",
       "onboard_time": 1773407842,
       "rank": 24,
@@ -97,6 +113,14 @@
       "onboard_time": 1773453139,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365482,
+      "num": 310403,
+      "word": "男子狂扇自己称后悔花10万再婚",
+      "onboard_time": 1773455601,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 328432,
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 312291,
-      "num": 216417,
+      "num": 262780,
       "word": "毛林林感谢田曦薇",
       "onboard_time": 1773453139,
       "rank": 12,
@@ -145,6 +169,14 @@
       "onboard_time": 1773448400,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 309285,
+      "num": 309285,
+      "word": "鞠婧祎杂志开售",
+      "onboard_time": 1773455781,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 289793,
@@ -163,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276987,
+      "num": 276987,
+      "word": "严屹宽 别让老霸总演这些",
+      "onboard_time": 1773455300,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273055,
       "num": 273055,
       "word": "西安不倒翁小姐姐离职丈夫回应",
@@ -177,6 +217,14 @@
       "onboard_time": 1773396621,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266393,
+      "num": 266393,
+      "word": "女孩用胡萝卜啃出70cm高黄鹤楼",
+      "onboard_time": 1773453500,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264914,
@@ -235,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225548,
-      "num": 225548,
-      "word": "省考",
-      "onboard_time": 1773444678,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 217108,
       "num": 105951,
       "word": "张凌赫田曦薇头纱转场",
@@ -259,20 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214080,
-      "num": 214080,
-      "word": "我们的少年时代2",
-      "onboard_time": 1773454820,
-      "rank": 15,
+      "raw_hot": 195558,
+      "num": 195558,
+      "word": "王橹杰逆光海报",
+      "onboard_time": 1773456800,
+      "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204501,
-      "num": 204501,
-      "word": "女孩用胡萝卜啃出70cm高黄鹤楼",
-      "onboard_time": 1773453500,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188003,
@@ -283,11 +315,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 172030,
-      "num": 125097,
+      "raw_hot": 172176,
+      "num": 172176,
       "word": "把本侯的女儿毫发无伤地带回来",
       "onboard_time": 1773454219,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170427,
+      "num": 170427,
+      "word": "腾讯2026年8部头部大剧",
+      "onboard_time": 1773457280,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -339,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153560,
+      "num": 153560,
+      "word": "我们的少年时代2官宣",
+      "onboard_time": 1773456141,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152951,
       "num": 152951,
       "word": "伊朗发起第45波打击",
@@ -361,6 +409,14 @@
       "onboard_time": 1773455660,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135901,
+      "num": 134505,
+      "word": "妻子的浪漫旅行8路透",
+      "onboard_time": 1773457821,
+      "rank": 30,
+      "category": "综艺,剧集"
     },
     {
       "raw_hot": 135213,
@@ -387,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133533,
+      "num": 133533,
+      "word": "岳雨婷万渣朝凰定妆照",
+      "onboard_time": 1773457222,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133176,
       "num": 133176,
       "word": "张凌赫特别适合在很狼狈的时候爱人",
@@ -411,14 +475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 128150,
-      "num": 128150,
-      "word": "男子狂扇自己称后悔花10万再婚",
-      "onboard_time": 1773455601,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123048,
       "num": 167460,
       "word": "美媒称美低估军事行动对霍尔木兹影响",
@@ -433,6 +489,14 @@
       "onboard_time": 1773450559,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117407,
+      "num": 117407,
+      "word": "吉林省考",
+      "onboard_time": 1773457640,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 113034,
@@ -451,12 +515,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 105583,
-      "num": 105583,
-      "word": "严屹宽 别让老霸总演这些",
-      "onboard_time": 1773455300,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 101698,
+      "num": 101698,
+      "word": "有一种浪漫叫玉兰花开了",
+      "onboard_time": 1773457222,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 97538,
@@ -499,6 +563,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89152,
+      "num": 89152,
+      "word": "陈楚生也沉迷短剧无法自拔",
+      "onboard_time": 1773455422,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88625,
+      "num": 97483,
+      "word": "谎称280元帮女孩根管牙医发声",
+      "onboard_time": 1773455719,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 87703,
       "num": 87703,
       "word": "王橹杰没想到的成片",
@@ -515,12 +595,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83053,
-      "num": 83053,
-      "word": "陈楚生也沉迷短剧无法自拔",
-      "onboard_time": 1773455422,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 83742,
+      "num": 83742,
+      "word": "公务员招录持续向应届生和基层倾斜",
+      "onboard_time": 1773457519,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 80895,
+      "num": 80895,
+      "word": "央视曝光报废车黑色产业链",
+      "onboard_time": 1773454341,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80481,
@@ -529,6 +617,14 @@
       "onboard_time": 1773453859,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80426,
+      "num": 200281,
+      "word": "官方通报被盗国保琉璃被公开售卖",
+      "onboard_time": 1773454581,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 78442,
@@ -668,7 +764,7 @@
     },
     {
       "raw_hot": 64199,
-      "num": 616935,
+      "num": 637506,
       "word": "国家网络安全通报中心通报OpenClaw风险",
       "onboard_time": 1773444378,
       "rank": 2,
@@ -699,12 +795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59805,
-      "num": 97483,
-      "word": "谎称280元帮女孩根管牙医发声",
-      "onboard_time": 1773455719,
-      "rank": 39,
-      "category": "正能量"
+      "raw_hot": 59577,
+      "num": 82313,
+      "word": "70岁老人种植牙手术4天后离世",
+      "onboard_time": 1773456739,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56011,
@@ -779,6 +875,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 48355,
+      "num": 315791,
+      "word": "直播间卖200元抗癌药实为糖果",
+      "onboard_time": 1773457222,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 48043,
       "num": 495655,
       "word": "跟着人大代表来做操全身都通了",
@@ -811,16 +915,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 46067,
-      "num": 200281,
-      "word": "官方通报被盗国保琉璃被公开售卖",
-      "onboard_time": 1773454581,
-      "rank": 17,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 44264,
-      "num": 222980,
+      "num": 319398,
       "word": "十五五这四类人群直接受益",
       "onboard_time": 1773451701,
       "rank": 7,
@@ -851,6 +947,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38860,
+      "num": 236691,
+      "word": "近半老年人在租房时被拒绝",
+      "onboard_time": 1773457222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37967,
+      "num": 313964,
+      "word": "成为中国人何以海外出圈",
+      "onboard_time": 1773455478,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 37286,
+      "num": 258172,
+      "word": "海尔AI科技真的懂生活",
+      "onboard_time": 1773457580,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 36450,
       "num": 36450,
       "word": "厚厚的名著中藏着13.2万现金",
@@ -867,12 +987,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34109,
+      "num": 82321,
+      "word": "被丢弃厕所女婴生母感谢养母",
+      "onboard_time": 1773457940,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33911,
       "num": 92895,
       "word": "齐旻好疯",
       "onboard_time": 1773428354,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33135,
+      "num": 246911,
+      "word": "3米就放电伤人电杆标语引质疑",
+      "onboard_time": 1773457222,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28288,
@@ -1075,16 +1211,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 5326,
-      "num": 220498,
-      "word": "成为中国人何以海外出圈",
-      "onboard_time": 1773455478,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 2874,
-      "num": 225261,
+      "raw_hot": 3374,
+      "num": 322750,
       "word": "人大代表支招小单方治大病",
       "onboard_time": 1773360019,
       "rank": 5,

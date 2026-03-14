@@ -1,0 +1,410 @@
+{
+  "runTime": 1773457967222,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 643099,
+        "num": 1102895,
+        "word": "省考",
+        "onboard_time": 1773444678,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 505582,
+        "num": 810211,
+        "word": "我们的少年时代2",
+        "onboard_time": 1773454820,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50449,
+        "num": 637506,
+        "word": "国家网络安全通报中心通报OpenClaw风险",
+        "onboard_time": 1773444378,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404198,
+        "num": 404198,
+        "word": "第31届白玉兰奖",
+        "onboard_time": 1773453139,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324162,
+        "num": 324162,
+        "word": "人民大会堂的热水瓶用了30年",
+        "onboard_time": 1773450680,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 3374,
+        "num": 322750,
+        "word": "人大代表支招小单方治大病",
+        "onboard_time": 1773360019,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 344457,
+        "num": 321029,
+        "word": "伊朗30枚超重导弹袭击以色列",
+        "onboard_time": 1773434055,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39718,
+        "num": 319398,
+        "word": "十五五这四类人群直接受益",
+        "onboard_time": 1773451701,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48355,
+        "num": 315791,
+        "word": "直播间卖200元抗癌药实为糖果",
+        "onboard_time": 1773457222,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37967,
+        "num": 313964,
+        "word": "成为中国人何以海外出圈",
+        "onboard_time": 1773455478,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1283922,
+        "num": 312224,
+        "word": "田曦薇张凌赫经纪人依旧纯恨中",
+        "onboard_time": 1773454279,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365482,
+        "num": 310403,
+        "word": "男子狂扇自己称后悔花10万再婚",
+        "onboard_time": 1773455601,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309285,
+        "num": 309285,
+        "word": "鞠婧祎杂志开售",
+        "onboard_time": 1773455781,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283896,
+        "num": 283896,
+        "word": "弟弟的脐带血15年后救了哥哥",
+        "onboard_time": 1773444617,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276987,
+        "num": 276987,
+        "word": "严屹宽 别让老霸总演这些",
+        "onboard_time": 1773455300,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266393,
+        "num": 266393,
+        "word": "女孩用胡萝卜啃出70cm高黄鹤楼",
+        "onboard_time": 1773453500,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262780,
+        "num": 262780,
+        "word": "毛林林感谢田曦薇",
+        "onboard_time": 1773453139,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37286,
+        "num": 258172,
+        "word": "海尔AI科技真的懂生活",
+        "onboard_time": 1773457580,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 33135,
+        "num": 246911,
+        "word": "3米就放电伤人电杆标语引质疑",
+        "onboard_time": 1773457222,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38860,
+        "num": 236691,
+        "word": "近半老年人在租房时被拒绝",
+        "onboard_time": 1773457222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552868,
+        "num": 224302,
+        "word": "杨幂赵丽颖 白玉兰",
+        "onboard_time": 1773448459,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222539,
+        "num": 222539,
+        "word": "呼啸山庄尺度好大",
+        "onboard_time": 1773407842,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212969,
+        "num": 212969,
+        "word": "原来被老天爷追着喂饭是这样",
+        "onboard_time": 1773453139,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 197502,
+        "num": 197502,
+        "word": "贵州茅台",
+        "onboard_time": 1773452480,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195558,
+        "num": 195558,
+        "word": "王橹杰逆光海报",
+        "onboard_time": 1773456800,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172176,
+        "num": 172176,
+        "word": "把本侯的女儿毫发无伤地带回来",
+        "onboard_time": 1773454219,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138510,
+        "num": 171045,
+        "word": "伊朗向以色列发动最猛烈空袭",
+        "onboard_time": 1773448400,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170427,
+        "num": 170427,
+        "word": "腾讯2026年8部头部大剧",
+        "onboard_time": 1773457280,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153560,
+        "num": 153560,
+        "word": "我们的少年时代2官宣",
+        "onboard_time": 1773456141,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134935,
+        "num": 134935,
+        "word": "4种睡眠异常提示肾出问题",
+        "onboard_time": 1773443477,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135901,
+        "num": 134505,
+        "word": "妻子的浪漫旅行8路透",
+        "onboard_time": 1773457821,
+        "rank": 30,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 133533,
+        "num": 133533,
+        "word": "岳雨婷万渣朝凰定妆照",
+        "onboard_time": 1773457222,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122300,
+        "num": 122300,
+        "word": "男子维权被12315工作人员嘲讽",
+        "onboard_time": 1773411503,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130213,
+        "num": 120193,
+        "word": "ELLE四月刊鞠婧祎封面",
+        "onboard_time": 1773455660,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117407,
+        "num": 117407,
+        "word": "吉林省考",
+        "onboard_time": 1773457640,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107802,
+        "num": 107802,
+        "word": "张凌赫特别适合在很狼狈的时候爱人",
+        "onboard_time": 1773414443,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101698,
+        "num": 101698,
+        "word": "有一种浪漫叫玉兰花开了",
+        "onboard_time": 1773457222,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 89152,
+        "num": 89152,
+        "word": "陈楚生也沉迷短剧无法自拔",
+        "onboard_time": 1773455422,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88625,
+        "num": 88625,
+        "word": "谎称280元帮女孩根管牙医发声",
+        "onboard_time": 1773455719,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 88287,
+        "num": 88287,
+        "word": "EXO澳门演唱会抢票",
+        "onboard_time": 1773454820,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84329,
+        "num": 84329,
+        "word": "随元青结局",
+        "onboard_time": 1773454519,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83742,
+        "num": 83742,
+        "word": "公务员招录持续向应届生和基层倾斜",
+        "onboard_time": 1773457519,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82351,
+        "num": 82351,
+        "word": "美军对伊石油出口枢纽猛烈空袭",
+        "onboard_time": 1773448040,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34109,
+        "num": 82321,
+        "word": "被丢弃厕所女婴生母感谢养母",
+        "onboard_time": 1773457940,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59577,
+        "num": 82313,
+        "word": "70岁老人种植牙手术4天后离世",
+        "onboard_time": 1773456739,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82309,
+        "num": 82309,
+        "word": "财务离职总经理转错公账23万余元",
+        "onboard_time": 1773445399,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80895,
+        "num": 80895,
+        "word": "央视曝光报废车黑色产业链",
+        "onboard_time": 1773454341,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81990,
+        "num": 80783,
+        "word": "怀孕可能改变大脑结构",
+        "onboard_time": 1773450559,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74063,
+        "num": 80501,
+        "word": "警方通报19岁男子无证驾驶致1死6伤",
+        "onboard_time": 1773444197,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 80426,
+        "num": 80426,
+        "word": "官方通报被盗国保琉璃被公开售卖",
+        "onboard_time": 1773454581,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#用心领悟总书记两会上的殷殷嘱托#"
+    }
+  }
+}
