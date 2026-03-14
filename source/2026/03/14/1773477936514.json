@@ -1,0 +1,410 @@
+{
+  "runTime": 1773477936514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 657031,
+        "num": 1105125,
+        "word": "央视315晚会点了4个领域",
+        "onboard_time": 1773476361,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 615380,
+        "num": 806439,
+        "word": "315调查眼镜到底有多暴利",
+        "onboard_time": 1773468021,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 15935,
+        "num": 613080,
+        "word": "十五五规划纲要解读来了",
+        "onboard_time": 1773475820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484419,
+        "num": 484419,
+        "word": "云南花香蓝莓",
+        "onboard_time": 1773472041,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 452740,
+        "num": 452740,
+        "word": "韩军称朝鲜发射10余枚弹道导弹",
+        "onboard_time": 1773474981,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 404024,
+        "num": 404024,
+        "word": "爸爸给被丢弃厕所女儿准备金手镯",
+        "onboard_time": 1773468620,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272063,
+        "num": 272063,
+        "word": "王鹤棣新歌歌词",
+        "onboard_time": 1773470722,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202444,
+        "num": 202444,
+        "word": "老凤祥40克旧黄金置换后仅剩17克",
+        "onboard_time": 1773475341,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199234,
+        "num": 199234,
+        "word": "中国女足直通巴西世界杯",
+        "onboard_time": 1773475341,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154821,
+        "num": 154821,
+        "word": "省考",
+        "onboard_time": 1773444678,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 7527,
+        "num": 154754,
+        "word": "50秒解码美丽中国",
+        "onboard_time": 1773476361,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 293222,
+        "num": 153877,
+        "word": "霍尔木兹封锁日本最先扛不住了",
+        "onboard_time": 1773473603,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252341,
+        "num": 153533,
+        "word": "富二代为情人落户雇人假结婚",
+        "onboard_time": 1773473060,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224058,
+        "num": 152887,
+        "word": "马思纯发文",
+        "onboard_time": 1773472099,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174706,
+        "num": 151874,
+        "word": "WB对战JDG",
+        "onboard_time": 1773470120,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151745,
+        "num": 151745,
+        "word": "孙颖莎反手发球首秀",
+        "onboard_time": 1773476361,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151092,
+        "num": 151092,
+        "word": "谢征收到了和离书",
+        "onboard_time": 1773469161,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49309,
+        "num": 149939,
+        "word": "格力高管被Tim追着提问",
+        "onboard_time": 1773475402,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74315,
+        "num": 149487,
+        "word": "男子买皮卡收到超大老头乐愁坏妻子",
+        "onboard_time": 1773477021,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27393,
+        "num": 147616,
+        "word": "硒片宣称30天HPV一定转阴",
+        "onboard_time": 1773477500,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194728,
+        "num": 145929,
+        "word": "谢征没有言正帅 谁上班谁知道",
+        "onboard_time": 1773469282,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142357,
+        "num": 143973,
+        "word": "美国凭啥从委内瑞拉搬走1亿美元黄金",
+        "onboard_time": 1773471500,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143466,
+        "num": 143466,
+        "word": "饭馆用的塑封碗筷脏到你想吐",
+        "onboard_time": 1773476540,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 141993,
+        "num": 141993,
+        "word": "F1直播",
+        "onboard_time": 1773476901,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139026,
+        "num": 139026,
+        "word": "生理性讨厌是藏不住的",
+        "onboard_time": 1773476481,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134052,
+        "num": 134052,
+        "word": "关晓彤程潇F1观赛造型",
+        "onboard_time": 1773472941,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 132053,
+        "num": 132053,
+        "word": "王一博给品牌发title",
+        "onboard_time": 1773471080,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123887,
+        "num": 123887,
+        "word": "孙颖莎2比4蒯曼",
+        "onboard_time": 1773469460,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21565,
+        "num": 118197,
+        "word": "你的外卖是谁在背后抬价",
+        "onboard_time": 1773477742,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 125426,
+        "num": 118194,
+        "word": "田曦薇张凌赫经纪人依旧纯恨中",
+        "onboard_time": 1773454279,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117898,
+        "num": 117898,
+        "word": "蒯曼回应4比2孙颖莎",
+        "onboard_time": 1773471200,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117143,
+        "num": 117143,
+        "word": "有刘海漂亮 没有刘海也漂亮",
+        "onboard_time": 1773476481,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114943,
+        "num": 114943,
+        "word": "逐玉 肛泰别闹了",
+        "onboard_time": 1773477622,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113787,
+        "num": 113787,
+        "word": "上海F1偶遇关晓彤",
+        "onboard_time": 1773469941,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113026,
+        "num": 113026,
+        "word": "怪不得有人做饭这么好吃",
+        "onboard_time": 1773467780,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104414,
+        "num": 104414,
+        "word": "瞿颖自曝不需要赚那么多钱",
+        "onboard_time": 1773476780,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102356,
+        "num": 102356,
+        "word": "外卖到了白鹿就这样跑步迎接",
+        "onboard_time": 1773472941,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100648,
+        "num": 100648,
+        "word": "15岁男孩嘴歪发现智齿长到眼窝里",
+        "onboard_time": 1773468201,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97438,
+        "num": 97438,
+        "word": "孔雪儿 只想演强制爱",
+        "onboard_time": 1773472881,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16953,
+        "num": 97285,
+        "word": "起底德国皇家科学院",
+        "onboard_time": 1773477622,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 97260,
+        "num": 97260,
+        "word": "发现了让小猫多喝水的方法",
+        "onboard_time": 1773476901,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94483,
+        "num": 94483,
+        "word": "赵丽颖已经三提白玉兰了",
+        "onboard_time": 1773469581,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93388,
+        "num": 93388,
+        "word": "林依晨谈做脑部手术经历",
+        "onboard_time": 1773465980,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82404,
+        "num": 91146,
+        "word": "杨旭文凭唐诡3拿下第5个奖",
+        "onboard_time": 1773477440,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36604,
+        "num": 90559,
+        "word": "陈楚生你浪费我的半小时拿什么赔我",
+        "onboard_time": 1773471741,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90312,
+        "num": 90312,
+        "word": "终于不用手洗内裤袜子了",
+        "onboard_time": 1773477021,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 90030,
+        "num": 90030,
+        "word": "KPL",
+        "onboard_time": 1773470120,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81364,
+        "num": 81364,
+        "word": "25岁硕士曝光剧本直播间被死亡威胁",
+        "onboard_time": 1773465561,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77873,
+        "num": 77873,
+        "word": "安东内利夺F1生涯首个杆位",
+        "onboard_time": 1773477500,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77552,
+        "num": 77552,
+        "word": "第31届白玉兰奖",
+        "onboard_time": 1773453139,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的两会足迹#"
+    }
+  }
+}
