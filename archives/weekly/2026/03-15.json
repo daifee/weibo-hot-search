@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773509712772,
+  "endTime": 1773510760589,
   "band_list": [
     {
       "raw_hot": 600463,
@@ -403,6 +403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 41440,
+      "num": 49800,
+      "word": "2026F1中国大奖赛",
+      "onboard_time": 1773509536,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41356,
       "num": 105603,
       "word": "Knight巴西服改名Tian",
@@ -425,14 +433,6 @@
       "onboard_time": 1773490042,
       "rank": 46,
       "category": "网红"
-    },
-    {
-      "raw_hot": 37566,
-      "num": 49800,
-      "word": "2026F1中国大奖赛",
-      "onboard_time": 1773509536,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 37056,
@@ -467,7 +467,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28310,
+      "raw_hot": 28789,
       "num": 49871,
       "word": "恋与深空",
       "onboard_time": 1773496284,

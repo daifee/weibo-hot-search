@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773509712772,
+  "endTime": 1773510760589,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -33539,6 +33539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41440,
+      "num": 49800,
+      "word": "2026F1中国大奖赛",
+      "onboard_time": 1773509536,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41331,
       "num": 313964,
       "word": "成为中国人何以海外出圈",
@@ -34089,14 +34097,6 @@
       "onboard_time": 1772524047,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 37566,
-      "num": 49800,
-      "word": "2026F1中国大奖赛",
-      "onboard_time": 1773509536,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 37397,
