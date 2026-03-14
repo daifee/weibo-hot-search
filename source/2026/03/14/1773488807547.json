@@ -1,0 +1,410 @@
+{
+  "runTime": 1773488807547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 421383,
+        "num": 1067421,
+        "word": "央视315晚会点了4个领域",
+        "onboard_time": 1773476361,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 306424,
+        "num": 762614,
+        "word": "315调查眼镜到底有多暴利",
+        "onboard_time": 1773468021,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 26461,
+        "num": 628372,
+        "word": "十五五规划纲要解读来了",
+        "onboard_time": 1773475820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157803,
+        "num": 323798,
+        "word": "冰箱贴一直不挪会伤害冰箱",
+        "onboard_time": 1773478881,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139909,
+        "num": 290598,
+        "word": "省考行测",
+        "onboard_time": 1773484581,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 281844,
+        "num": 281844,
+        "word": "这洗脚水是非喝不可吗",
+        "onboard_time": 1773485063,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281400,
+        "num": 281400,
+        "word": "孔雪儿邓凯浴池戏",
+        "onboard_time": 1773488003,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241205,
+        "num": 241205,
+        "word": "豹豹原来是汗脚",
+        "onboard_time": 1773483860,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29831,
+        "num": 235674,
+        "word": "AI时代青少年该掌握哪些能力",
+        "onboard_time": 1773480561,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12974,
+        "num": 233118,
+        "word": "建议慈善教育分层推进",
+        "onboard_time": 1773480561,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 432763,
+        "num": 232377,
+        "word": "女孩长期便血以为是痔疮结果是癌症",
+        "onboard_time": 1773482481,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230859,
+        "num": 230859,
+        "word": "逐玉 肛泰别闹了",
+        "onboard_time": 1773477622,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214503,
+        "num": 214503,
+        "word": "生菜是最伟大的蔬菜",
+        "onboard_time": 1773479301,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187700,
+        "num": 187700,
+        "word": "田嘉瑞一进门先找余承恩外甥女",
+        "onboard_time": 1773486382,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180774,
+        "num": 180774,
+        "word": "伊朗称袭击美军中东三大军事基地",
+        "onboard_time": 1773487221,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134054,
+        "num": 165441,
+        "word": "申论大作文",
+        "onboard_time": 1773479602,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151166,
+        "num": 151166,
+        "word": "云南花香蓝莓",
+        "onboard_time": 1773472041,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120007,
+        "num": 150553,
+        "word": "狼队对战DYG",
+        "onboard_time": 1773483141,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106665,
+        "num": 149182,
+        "word": "伊方称结束战争有两个条件",
+        "onboard_time": 1773486741,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97492,
+        "num": 147086,
+        "word": "肖战朱一龙易烊千玺提名cmg影帝",
+        "onboard_time": 1773487461,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1412843,
+        "num": 145400,
+        "word": "王冕官宣生子",
+        "onboard_time": 1773484401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145301,
+        "num": 145301,
+        "word": "美国急于退场以色列还想硬刚",
+        "onboard_time": 1773483860,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245225,
+        "num": 145166,
+        "word": "逐玉",
+        "onboard_time": 1773483202,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177703,
+        "num": 144557,
+        "word": "陆仙人回应整容",
+        "onboard_time": 1773479661,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93204,
+        "num": 143756,
+        "word": "省考申论",
+        "onboard_time": 1773478281,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239923,
+        "num": 143339,
+        "word": "逐玉云合第三",
+        "onboard_time": 1773485541,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175879,
+        "num": 143026,
+        "word": "林依晨称因熬夜和压力患脑部囊肿",
+        "onboard_time": 1773485841,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103327,
+        "num": 142461,
+        "word": "用多巴胺打开春天有多绝",
+        "onboard_time": 1773488300,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141893,
+        "num": 141893,
+        "word": "林一别试探了有市场",
+        "onboard_time": 1773485181,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135252,
+        "num": 141868,
+        "word": "谢征没有言正帅 谁上班谁知道",
+        "onboard_time": 1773469282,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96388,
+        "num": 141859,
+        "word": "120斤减肥减到160斤",
+        "onboard_time": 1773480501,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96785,
+        "num": 141819,
+        "word": "被丢弃厕所女婴含泪抱住妈妈",
+        "onboard_time": 1773478582,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94684,
+        "num": 141781,
+        "word": "外卖到了白鹿就这样跑步迎接",
+        "onboard_time": 1773472941,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88321,
+        "num": 141761,
+        "word": "王鹤棣新歌歌词",
+        "onboard_time": 1773470722,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83306,
+        "num": 141721,
+        "word": "行测答案",
+        "onboard_time": 1773488241,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83168,
+        "num": 141697,
+        "word": "印度掀起赴日旅游风潮",
+        "onboard_time": 1773485661,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83060,
+        "num": 141670,
+        "word": "金道勋ana互动",
+        "onboard_time": 1773488781,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82090,
+        "num": 141641,
+        "word": "马思纯发文",
+        "onboard_time": 1773472099,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80707,
+        "num": 141582,
+        "word": "男子投诉10分钟后隐私被扒得底朝天",
+        "onboard_time": 1773486741,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10014,
+        "num": 141561,
+        "word": "人人盼火锅强大刀盼她吃饭香",
+        "onboard_time": 1773486140,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81460,
+        "num": 141517,
+        "word": "16岁少年未管所遭同监区3人殴打致死",
+        "onboard_time": 1773484520,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78710,
+        "num": 141500,
+        "word": "生巧吐司",
+        "onboard_time": 1773485482,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 77092,
+        "num": 141481,
+        "word": "关晓彤程潇F1观赛造型",
+        "onboard_time": 1773472941,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 76572,
+        "num": 141442,
+        "word": "孙颖莎输球未必是坏事",
+        "onboard_time": 1773486681,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75741,
+        "num": 141409,
+        "word": "小红帽下楼",
+        "onboard_time": 1773479421,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73772,
+        "num": 141386,
+        "word": "谢征收到了和离书",
+        "onboard_time": 1773469161,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67830,
+        "num": 141332,
+        "word": "人民大会堂的同款老式热水瓶已停产",
+        "onboard_time": 1773486023,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69831,
+        "num": 141301,
+        "word": "瞿颖自曝不需要赚那么多钱",
+        "onboard_time": 1773476780,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66153,
+        "num": 141275,
+        "word": "生理性讨厌是藏不住的",
+        "onboard_time": 1773476481,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65776,
+        "num": 141252,
+        "word": "老年人多吃这10种碱性食物",
+        "onboard_time": 1773488062,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的两会足迹#"
+    }
+  }
+}
