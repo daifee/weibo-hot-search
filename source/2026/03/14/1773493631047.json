@@ -1,0 +1,410 @@
+{
+  "runTime": 1773493631047,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1597190,
+        "num": 1597190,
+        "word": "王楚钦2比4松岛辉空",
+        "onboard_time": 1773492144,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 488863,
+        "num": 911907,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1773490882,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24756,
+        "num": 697708,
+        "word": "十五五民生红包",
+        "onboard_time": 1773492803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 334326,
+        "num": 334326,
+        "word": "央视315晚会点了4个领域",
+        "onboard_time": 1773476361,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 264573,
+        "num": 264573,
+        "word": "生菜是最伟大的蔬菜",
+        "onboard_time": 1773479301,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212482,
+        "num": 212482,
+        "word": "伊朗称袭击美军中东三大军事基地",
+        "onboard_time": 1773487221,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204248,
+        "num": 204248,
+        "word": "315调查眼镜到底有多暴利",
+        "onboard_time": 1773468021,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 393183,
+        "num": 201067,
+        "word": "黄子弘凡鸟巢上座率",
+        "onboard_time": 1773488961,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195236,
+        "num": 195236,
+        "word": "逐玉预告",
+        "onboard_time": 1773491961,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67303,
+        "num": 195159,
+        "word": "人民大会堂的同款老式热水瓶已停产",
+        "onboard_time": 1773486023,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 442229,
+        "num": 195086,
+        "word": "一栗小莎子近况",
+        "onboard_time": 1773490042,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 342537,
+        "num": 195034,
+        "word": "谢征替樊长玉受罚",
+        "onboard_time": 1773489922,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208257,
+        "num": 194887,
+        "word": "这洗脚水是非喝不可吗",
+        "onboard_time": 1773485063,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296797,
+        "num": 194816,
+        "word": "林依晨称因熬夜和压力患脑部囊肿",
+        "onboard_time": 1773485841,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194792,
+        "num": 194792,
+        "word": "女孩长期便血以为是痔疮结果是癌症",
+        "onboard_time": 1773482481,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193873,
+        "num": 193873,
+        "word": "肖战朱一龙易烊千玺提名cmg影帝",
+        "onboard_time": 1773487461,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192737,
+        "num": 192737,
+        "word": "女子称顺产分娩时直肠被切漏",
+        "onboard_time": 1773489803,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129885,
+        "num": 129885,
+        "word": "刘文祥麻辣烫回应鸭肉当猪肉牛肉卖",
+        "onboard_time": 1773492742,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120882,
+        "num": 120882,
+        "word": "美国急于退场以色列还想硬刚",
+        "onboard_time": 1773483860,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109464,
+        "num": 109464,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1773489563,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 922920,
+        "num": 109247,
+        "word": "王冕官宣生子",
+        "onboard_time": 1773484401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105206,
+        "num": 105206,
+        "word": "DYG选马可",
+        "onboard_time": 1773493281,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 460843,
+        "num": 104691,
+        "word": "孔雪儿邓凯浴池戏",
+        "onboard_time": 1773488003,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207936,
+        "num": 104448,
+        "word": "TOP直播",
+        "onboard_time": 1773488903,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103265,
+        "num": 103265,
+        "word": "冰箱贴一直不挪会伤害冰箱",
+        "onboard_time": 1773478881,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304307,
+        "num": 101565,
+        "word": "逐玉 肛泰别闹了",
+        "onboard_time": 1773477622,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156340,
+        "num": 100473,
+        "word": "金道勋ana互动",
+        "onboard_time": 1773488781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96479,
+        "num": 96479,
+        "word": "男子投诉10分钟后隐私被扒得底朝天",
+        "onboard_time": 1773486741,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253518,
+        "num": 95205,
+        "word": "逐玉",
+        "onboard_time": 1773483202,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99854,
+        "num": 94952,
+        "word": "陆仙人回应整容",
+        "onboard_time": 1773479661,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91531,
+        "num": 91531,
+        "word": "陈熠3比4大藤沙月",
+        "onboard_time": 1773489500,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91170,
+        "num": 91170,
+        "word": "豹豹原来是汗脚",
+        "onboard_time": 1773483860,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89556,
+        "num": 89556,
+        "word": "伊方称结束战争有两个条件",
+        "onboard_time": 1773486741,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87765,
+        "num": 87765,
+        "word": "谢征没有言正帅 谁上班谁知道",
+        "onboard_time": 1773469282,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83796,
+        "num": 83796,
+        "word": "省考申论",
+        "onboard_time": 1773478281,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82979,
+        "num": 82979,
+        "word": "被丢弃厕所女婴含泪抱住妈妈",
+        "onboard_time": 1773478582,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82891,
+        "num": 82891,
+        "word": "薛凯琪 我活着也不要做活死人",
+        "onboard_time": 1773491842,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81948,
+        "num": 81948,
+        "word": "周深翻唱TaylorSwift的CruelSummer",
+        "onboard_time": 1773492322,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80251,
+        "num": 80251,
+        "word": "申论大作文",
+        "onboard_time": 1773479602,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79892,
+        "num": 79892,
+        "word": "中国女篮vs南苏丹女篮",
+        "onboard_time": 1773492443,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79407,
+        "num": 79407,
+        "word": "第一次被一个柜子惊艳到",
+        "onboard_time": 1773492922,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78974,
+        "num": 78974,
+        "word": "你好星期六",
+        "onboard_time": 1773490281,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75333,
+        "num": 75333,
+        "word": "云南花香蓝莓",
+        "onboard_time": 1773472041,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 73517,
+        "num": 73517,
+        "word": "狼队战胜DYG",
+        "onboard_time": 1773492922,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71219,
+        "num": 71219,
+        "word": "孙颖莎挠痒痒没挠到",
+        "onboard_time": 1773492562,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70816,
+        "num": 70816,
+        "word": "伊朗发起第49波打击",
+        "onboard_time": 1773493160,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70079,
+        "num": 70079,
+        "word": "李小冉F1时候",
+        "onboard_time": 1773490042,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 69505,
+        "num": 69505,
+        "word": "打大藤沙月还得看孙颖莎",
+        "onboard_time": 1773492562,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69443,
+        "num": 69443,
+        "word": "从此不敢直视白色缅因猫",
+        "onboard_time": 1773493582,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23913,
+        "num": 68615,
+        "word": "于莎莎尹贝希被喜剧耽误的歌后",
+        "onboard_time": 1773489741,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着总书记的嘱托一起出发#"
+    }
+  }
+}

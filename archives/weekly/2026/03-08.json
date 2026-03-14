@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773488807547,
+  "endTime": 1773493631047,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -97,6 +97,14 @@
       "onboard_time": 1773128545,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1597190,
+      "num": 1597190,
+      "word": "王楚钦2比4松岛辉空",
+      "onboard_time": 1773492144,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1578804,
@@ -1483,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 488863,
+      "num": 911907,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1773490882,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487688,
       "num": 487688,
       "word": "张凌赫看了好几次田曦薇的手",
@@ -1612,7 +1628,7 @@
     },
     {
       "raw_hot": 474654,
-      "num": 241080,
+      "num": 264573,
       "word": "生菜是最伟大的蔬菜",
       "onboard_time": 1773479301,
       "rank": 19,
@@ -1739,6 +1755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 460843,
+      "num": 281400,
+      "word": "孔雪儿邓凯浴池戏",
+      "onboard_time": 1773488003,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460506,
       "num": 581039,
       "word": "王濛官宣参加浪姐7",
@@ -1801,6 +1825,14 @@
       "onboard_time": 1773219141,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 442229,
+      "num": 195086,
+      "word": "一栗小莎子近况",
+      "onboard_time": 1773490042,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 441721,
@@ -2267,6 +2299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 393183,
+      "num": 201067,
+      "word": "黄子弘凡鸟巢上座率",
+      "onboard_time": 1773488961,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 393071,
       "num": 830777,
       "word": "微信视频通话终于有锁定功能了",
@@ -2633,6 +2673,14 @@
       "onboard_time": 1773210321,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 342537,
+      "num": 195034,
+      "word": "谢征替樊长玉受罚",
+      "onboard_time": 1773489922,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 340962,
@@ -3315,6 +3363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 296797,
+      "num": 194816,
+      "word": "林依晨称因熬夜和压力患脑部囊肿",
+      "onboard_time": 1773485841,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296470,
       "num": 382284,
       "word": "狗 人我讨厌坐飞机",
@@ -3569,14 +3625,6 @@
       "onboard_time": 1773120441,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 281400,
-      "num": 281400,
-      "word": "孔雪儿邓凯浴池戏",
-      "onboard_time": 1773488003,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 281199,
@@ -4779,6 +4827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212482,
+      "num": 212482,
+      "word": "伊朗称袭击美军中东三大军事基地",
+      "onboard_time": 1773487221,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 211886,
       "num": 140093,
       "word": "牛耕田",
@@ -4825,6 +4881,14 @@
       "onboard_time": 1772959820,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207936,
+      "num": 104448,
+      "word": "TOP直播",
+      "onboard_time": 1773488903,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 207920,
@@ -5139,6 +5203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195236,
+      "num": 286479,
+      "word": "逐玉预告",
+      "onboard_time": 1773325702,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194782,
       "num": 370937,
       "word": "同工不同酬的劳务派遣制度该废止了",
@@ -5161,6 +5233,14 @@
       "onboard_time": 1773104363,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193873,
+      "num": 193873,
+      "word": "肖战朱一龙易烊千玺提名cmg影帝",
+      "onboard_time": 1773487461,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 193860,
@@ -5225,6 +5305,14 @@
       "onboard_time": 1773367220,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192737,
+      "num": 192737,
+      "word": "女子称顺产分娩时直肠被切漏",
+      "onboard_time": 1773489803,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192504,
@@ -5491,14 +5579,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 180774,
-      "num": 180774,
-      "word": "伊朗称袭击美军中东三大军事基地",
-      "onboard_time": 1773487221,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 179981,
       "num": 828641,
       "word": "陈情令演员舞台剧倩女幽魂重聚",
@@ -5577,14 +5657,6 @@
       "onboard_time": 1773468201,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 175879,
-      "num": 143026,
-      "word": "林依晨称因熬夜和压力患脑部囊肿",
-      "onboard_time": 1773485841,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 175655,
@@ -6241,6 +6313,14 @@
       "onboard_time": 1773150624,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156340,
+      "num": 141670,
+      "word": "金道勋ana互动",
+      "onboard_time": 1773488781,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 156172,
@@ -7363,6 +7443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129885,
+      "num": 129885,
+      "word": "刘文祥麻辣烫回应鸭肉当猪肉牛肉卖",
+      "onboard_time": 1773492742,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129565,
       "num": 367925,
       "word": "风雨廊亭梦已醒",
@@ -7753,14 +7841,6 @@
       "onboard_time": 1773326482,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123094,
-      "num": 286479,
-      "word": "逐玉预告",
-      "onboard_time": 1773325702,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 123048,
@@ -8635,6 +8715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109464,
+      "num": 109464,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1773489563,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109418,
       "num": 109418,
       "word": "向佐腰间插了一圈鲜花",
@@ -8905,6 +8993,14 @@
       "onboard_time": 1773297321,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105206,
+      "num": 105206,
+      "word": "DYG选马可",
+      "onboard_time": 1773493281,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 105203,
@@ -9715,14 +9811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97492,
-      "num": 147086,
-      "word": "肖战朱一龙易烊千玺提名cmg影帝",
-      "onboard_time": 1773487461,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 97447,
       "num": 213884,
       "word": "逐玉 弃养一头牛",
@@ -9849,6 +9937,14 @@
       "onboard_time": 1773211399,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96479,
+      "num": 141582,
+      "word": "男子投诉10分钟后隐私被扒得底朝天",
+      "onboard_time": 1773486741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96477,
@@ -10400,6 +10496,14 @@
       "word": "王楚钦舞力全开",
       "onboard_time": 1773204083,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91531,
+      "num": 91531,
+      "word": "陈熠3比4大藤沙月",
+      "onboard_time": 1773489500,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -11068,7 +11172,7 @@
     },
     {
       "raw_hot": 86756,
-      "num": 141332,
+      "num": 195159,
       "word": "人民大会堂的同款老式热水瓶已停产",
       "onboard_time": 1773486023,
       "rank": 31,
@@ -11104,14 +11208,6 @@
       "word": "爷爷跨越2200公里找孙女看哭网友",
       "onboard_time": 1773367220,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86598,
-      "num": 141582,
-      "word": "男子投诉10分钟后隐私被扒得底朝天",
-      "onboard_time": 1773486741,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -11603,14 +11699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83060,
-      "num": 141670,
-      "word": "金道勋ana互动",
-      "onboard_time": 1773488781,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82992,
       "num": 297373,
       "word": "谷爱凌和妈妈一起出席活动",
@@ -11625,6 +11713,14 @@
       "onboard_time": 1773472401,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 82891,
+      "num": 82891,
+      "word": "薛凯琪 我活着也不要做活死人",
+      "onboard_time": 1773491842,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 82791,
@@ -11761,6 +11857,14 @@
       "onboard_time": 1773212541,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81948,
+      "num": 81948,
+      "word": "周深翻唱TaylorSwift的CruelSummer",
+      "onboard_time": 1773492322,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 81901,
@@ -12019,6 +12123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79892,
+      "num": 79892,
+      "word": "中国女篮vs南苏丹女篮",
+      "onboard_time": 1773492443,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79861,
       "num": 96445,
       "word": "白鹿首登电视剧品质盛典",
@@ -12089,6 +12201,14 @@
       "onboard_time": 1773369261,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79407,
+      "num": 79407,
+      "word": "第一次被一个柜子惊艳到",
+      "onboard_time": 1773492922,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 79270,
@@ -13035,6 +13155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73517,
+      "num": 73517,
+      "word": "狼队战胜DYG",
+      "onboard_time": 1773492922,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73418,
       "num": 98363,
       "word": "张桂源 李总你说的是这个麦吗",
@@ -13371,6 +13499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71219,
+      "num": 71219,
+      "word": "孙颖莎挠痒痒没挠到",
+      "onboard_time": 1773492562,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71218,
       "num": 529805,
       "word": "打工人偷电宝",
@@ -13457,6 +13593,14 @@
       "onboard_time": 1773398241,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 70816,
+      "num": 70816,
+      "word": "伊朗发起第49波打击",
+      "onboard_time": 1773493160,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70633,
@@ -13579,6 +13723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 70079,
+      "num": 70079,
+      "word": "李小冉F1时候",
+      "onboard_time": 1773490042,
+      "rank": 46,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 70072,
       "num": 710039,
       "word": "从海底1万米到距地球4300万公里",
@@ -13643,12 +13795,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69505,
+      "num": 69505,
+      "word": "打大藤沙月还得看孙颖莎",
+      "onboard_time": 1773492562,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69502,
       "num": 172937,
       "word": "啄木鸟通马桶10分钟收448元",
       "onboard_time": 1773416542,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69443,
+      "num": 69443,
+      "word": "从此不敢直视白色缅因猫",
+      "onboard_time": 1773493582,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 69428,
@@ -17843,6 +18011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24756,
+      "num": 697708,
+      "word": "十五五民生红包",
+      "onboard_time": 1773492803,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24701,
       "num": 39553,
       "word": "丁禹兮吹花瓣",
@@ -17905,6 +18081,14 @@
       "onboard_time": 1773147624,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23913,
+      "num": 68615,
+      "word": "于莎莎尹贝希被喜剧耽误的歌后",
+      "onboard_time": 1773489741,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 23907,
@@ -18957,6 +19141,9 @@
     },
     {
       "word": "#总书记的两会足迹#"
+    },
+    {
+      "word": "#带着总书记的嘱托一起出发#"
     }
   ]
 }
