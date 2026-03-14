@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773524980620,
+  "endTime": 1773527748749,
   "band_list": [
     {
       "raw_hot": 600463,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 165704,
-      "num": 165704,
+      "num": 325112,
       "word": "央视315晚会点了4个领域",
       "onboard_time": 1773476361,
       "rank": 8,
@@ -483,8 +483,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19200,
-      "num": 29783,
+      "raw_hot": 19849,
+      "num": 37050,
       "word": "林依晨称因熬夜和压力患脑部囊肿",
       "onboard_time": 1773485841,
       "rank": 43,
@@ -507,20 +507,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16557,
-      "num": 16557,
-      "word": "CMG年度剧情电影男演员提名",
-      "onboard_time": 1773523514,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 15549,
-      "num": 18327,
+      "raw_hot": 17606,
+      "num": 37029,
       "word": "刘宇宁演唱会脱外套",
       "onboard_time": 1773516795,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16557,
+      "num": 37002,
+      "word": "CMG年度剧情电影男演员提名",
+      "onboard_time": 1773523514,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 15457,
@@ -532,15 +532,15 @@
     },
     {
       "raw_hot": 13301,
-      "num": 15598,
+      "num": 36998,
       "word": "年度剧情电影男演员提名",
       "onboard_time": 1773517934,
       "rank": 42,
       "category": "电影"
     },
     {
-      "raw_hot": 8271,
-      "num": 27242,
+      "raw_hot": 10570,
+      "num": 42419,
       "word": "十五五首次设置支持青年发展专节",
       "onboard_time": 1773521893,
       "rank": 9,
