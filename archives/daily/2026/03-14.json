@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773445910082,
+  "endTime": 1773455758733,
   "band_list": [
     {
       "raw_hot": 980303,
@@ -11,12 +11,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 910631,
+      "num": 219413,
+      "word": "田曦薇张凌赫经纪人依旧纯恨中",
+      "onboard_time": 1773454279,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 703558,
+      "num": 181398,
+      "word": "杨幂赵丽颖 白玉兰",
+      "onboard_time": 1773448459,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 629950,
       "num": 133408,
       "word": "2026白玉兰提名名单预测",
       "onboard_time": 1773411561,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 562796,
+      "num": 1090047,
+      "word": "人民大会堂的热水瓶用了30年",
+      "onboard_time": 1773450680,
+      "rank": 0,
+      "category": "正能量"
     },
     {
       "raw_hot": 554009,
@@ -60,11 +84,27 @@
     },
     {
       "raw_hot": 426969,
-      "num": 112690,
+      "num": 166473,
       "word": "呼啸山庄尺度好大",
       "onboard_time": 1773407842,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 411538,
+      "num": 765081,
+      "word": "第31届白玉兰奖",
+      "onboard_time": 1773453139,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 328432,
+      "num": 328432,
+      "word": "贵州茅台",
+      "onboard_time": 1773452480,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325748,
@@ -89,6 +129,22 @@
       "onboard_time": 1773405261,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 312291,
+      "num": 216417,
+      "word": "毛林林感谢田曦薇",
+      "onboard_time": 1773453139,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310108,
+      "num": 174121,
+      "word": "伊朗向以色列发动最猛烈空袭",
+      "onboard_time": 1773448400,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 289793,
@@ -124,11 +180,19 @@
     },
     {
       "raw_hot": 264914,
-      "num": 110462,
+      "num": 156872,
       "word": "警方通报19岁男子无证驾驶致1死6伤",
       "onboard_time": 1773444197,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 264254,
+      "num": 214386,
+      "word": "原来被老天爷追着喂饭是这样",
+      "onboard_time": 1773453139,
+      "rank": 14,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 252299,
@@ -148,7 +212,7 @@
     },
     {
       "raw_hot": 239828,
-      "num": 109235,
+      "num": 141675,
       "word": "4种睡眠异常提示肾出问题",
       "onboard_time": 1773443477,
       "rank": 21,
@@ -171,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225548,
+      "num": 225548,
+      "word": "省考",
+      "onboard_time": 1773444678,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 217108,
       "num": 105951,
       "word": "张凌赫田曦薇头纱转场",
@@ -187,12 +259,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214080,
+      "num": 214080,
+      "word": "我们的少年时代2",
+      "onboard_time": 1773454820,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204501,
+      "num": 204501,
+      "word": "女孩用胡萝卜啃出70cm高黄鹤楼",
+      "onboard_time": 1773453500,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188003,
       "num": 188003,
       "word": "美军坠毁加油机上6人全死",
       "onboard_time": 1773414683,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172030,
+      "num": 125097,
+      "word": "把本侯的女儿毫发无伤地带回来",
+      "onboard_time": 1773454219,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 166645,
@@ -209,6 +305,14 @@
       "onboard_time": 1773422418,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166110,
+      "num": 166110,
+      "word": "财务离职总经理转错公账23万余元",
+      "onboard_time": 1773445399,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160519,
@@ -251,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148159,
-      "num": 148159,
-      "word": "省考",
-      "onboard_time": 1773444678,
-      "rank": 18,
-      "category": "教育"
+      "raw_hot": 149705,
+      "num": 149705,
+      "word": "ELLE四月刊鞠婧祎封面",
+      "onboard_time": 1773455660,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135213,
@@ -267,12 +371,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134950,
+      "num": 134950,
+      "word": "EXO澳门演唱会抢票",
+      "onboard_time": 1773454820,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134909,
       "num": 90858,
       "word": "32岁女子反复便血半年确诊肠癌",
       "onboard_time": 1773443897,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133176,
+      "num": 133176,
+      "word": "张凌赫特别适合在很狼狈的时候爱人",
+      "onboard_time": 1773414443,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130968,
@@ -291,12 +411,52 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128150,
+      "num": 128150,
+      "word": "男子狂扇自己称后悔花10万再婚",
+      "onboard_time": 1773455601,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123048,
       "num": 167460,
       "word": "美媒称美低估军事行动对霍尔木兹影响",
       "onboard_time": 1773436993,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 119871,
+      "num": 119871,
+      "word": "怀孕可能改变大脑结构",
+      "onboard_time": 1773450559,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113034,
+      "num": 113034,
+      "word": "随元青结局",
+      "onboard_time": 1773454519,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108557,
+      "num": 108557,
+      "word": "美向中东增派军舰和海军陆战队",
+      "onboard_time": 1773453980,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 105583,
+      "num": 105583,
+      "word": "严屹宽 别让老霸总演这些",
+      "onboard_time": 1773455300,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 97538,
@@ -313,6 +473,14 @@
       "onboard_time": 1773421398,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93478,
+      "num": 224004,
+      "word": "美军对伊石油出口枢纽猛烈空袭",
+      "onboard_time": 1773448040,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92467,
@@ -339,12 +507,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85874,
+      "num": 85874,
+      "word": "二战考上研究生却确诊癌症晚期",
+      "onboard_time": 1773452960,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83053,
+      "num": 83053,
+      "word": "陈楚生也沉迷短剧无法自拔",
+      "onboard_time": 1773455422,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80481,
+      "num": 80481,
+      "word": "被丢弃厕所女婴母亲愧疚没保护好女儿",
+      "onboard_time": 1773453859,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78442,
+      "num": 78442,
+      "word": "田曦薇骑马这段夯爆了",
+      "onboard_time": 1773448818,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77205,
       "num": 77205,
       "word": "广电总局呼吁视听平台别意图垄断",
       "onboard_time": 1773417561,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76000,
+      "num": 76000,
+      "word": "白玉兰",
+      "onboard_time": 1773451219,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75772,
+      "num": 75772,
+      "word": "工作时的时间流速belike",
+      "onboard_time": 1773454941,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 75175,
@@ -361,6 +577,14 @@
       "onboard_time": 1773414443,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72748,
+      "num": 72748,
+      "word": "洛克王国世界发布会全是熟人",
+      "onboard_time": 1773454760,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 72704,
@@ -411,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68552,
-      "num": 64560,
-      "word": "张凌赫特别适合在很狼狈的时候爱人",
-      "onboard_time": 1773414443,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 67585,
       "num": 67585,
       "word": "林沐然替随元青道歉",
@@ -451,16 +667,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 64425,
-      "num": 64425,
-      "word": "财务离职总经理转错公账23万余元",
-      "onboard_time": 1773445399,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64199,
-      "num": 569207,
+      "num": 616935,
       "word": "国家网络安全通报中心通报OpenClaw风险",
       "onboard_time": 1773444378,
       "rank": 2,
@@ -489,6 +697,22 @@
       "onboard_time": 1773445340,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59805,
+      "num": 97483,
+      "word": "谎称280元帮女孩根管牙医发声",
+      "onboard_time": 1773455719,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 56011,
+      "num": 221456,
+      "word": "啄木鸟1个故障修完变5个故障",
+      "onboard_time": 1773454699,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 54987,
@@ -585,6 +809,30 @@
       "onboard_time": 1773408022,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 46067,
+      "num": 200281,
+      "word": "官方通报被盗国保琉璃被公开售卖",
+      "onboard_time": 1773454581,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 44264,
+      "num": 222980,
+      "word": "十五五这四类人群直接受益",
+      "onboard_time": 1773451701,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 42809,
+      "num": 191589,
+      "word": "闲鱼售卖被盗文物嫌疑人被抓",
+      "onboard_time": 1773454699,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 39859,
@@ -771,6 +1019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 14481,
+      "num": 99371,
+      "word": "起底借ETC推广乱收费现象",
+      "onboard_time": 1773455541,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 13536,
       "num": 72704,
       "word": "春节过后外卖为啥涨价了",
@@ -787,6 +1043,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12442,
+      "num": 91103,
+      "word": "涉企执法该严则严当宽则宽",
+      "onboard_time": 1773451701,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11846,
+      "num": 193649,
+      "word": "大雁列队排成ETC阵型北飞",
+      "onboard_time": 1773455239,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11632,
       "num": 15804,
       "word": "金树林绽放之夜红毯",
@@ -800,6 +1072,22 @@
       "word": "世界目光聚焦中国两会新举措",
       "onboard_time": 1773413243,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 5326,
+      "num": 220498,
+      "word": "成为中国人何以海外出圈",
+      "onboard_time": 1773455478,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 2874,
+      "num": 225261,
+      "word": "人大代表支招小单方治大病",
+      "onboard_time": 1773360019,
+      "rank": 5,
       "category": "国内时政"
     }
   ],
