@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773494927897,
+  "endTime": 1773496929092,
   "band_list": [
     {
       "raw_hot": 1597190,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 662819,
+      "num": 187826,
+      "word": "成毅撤诉",
+      "onboard_time": 1773495861,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657229,
       "num": 251509,
       "word": "逐玉 肛泰别闹了",
@@ -115,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 580730,
+      "num": 186216,
+      "word": "女子翻丈夫手机发现其出轨几十人",
+      "onboard_time": 1773494964,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 562796,
       "num": 1090047,
       "word": "人民大会堂的热水瓶用了30年",
@@ -145,6 +161,14 @@
       "onboard_time": 1773488961,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 505785,
+      "num": 242750,
+      "word": "第一次被一个柜子惊艳到",
+      "onboard_time": 1773492922,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 505582,
@@ -299,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367164,
+      "num": 183886,
+      "word": "中国34岁女子在泰国被抛尸水沟",
+      "onboard_time": 1773495082,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 365482,
       "num": 310403,
       "word": "男子狂扇自己称后悔花10万再婚",
@@ -419,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 306781,
+      "num": 182091,
+      "word": "唐嫣张若昀主持",
+      "onboard_time": 1773495623,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296797,
       "num": 194816,
       "word": "林依晨称因熬夜和压力患脑部囊肿",
@@ -456,14 +496,6 @@
       "word": "这洗脚水是非喝不可吗",
       "onboard_time": 1773485063,
       "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 280213,
-      "num": 213640,
-      "word": "第一次被一个柜子惊艳到",
-      "onboard_time": 1773492922,
-      "rank": 40,
       "category": "幽默"
     },
     {
@@ -531,11 +563,27 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 261774,
+      "num": 261774,
+      "word": "逐玉预告",
+      "onboard_time": 1773491961,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252341,
       "num": 245553,
       "word": "富二代为情人落户雇人假结婚",
       "onboard_time": 1773473060,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252340,
+      "num": 252340,
+      "word": "刘文祥麻辣烫回应鸭肉当猪肉牛肉卖",
+      "onboard_time": 1773492742,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -609,14 +657,6 @@
       "onboard_time": 1773411503,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237464,
-      "num": 200342,
-      "word": "逐玉预告",
-      "onboard_time": 1773491961,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 234188,
@@ -723,8 +763,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 213670,
-      "num": 213670,
+      "raw_hot": 213708,
+      "num": 213708,
       "word": "王楚钦从1比7到11比8",
       "onboard_time": 1773493942,
       "rank": 4,
@@ -755,12 +795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204594,
-      "num": 204594,
-      "word": "刘文祥麻辣烫回应鸭肉当猪肉牛肉卖",
-      "onboard_time": 1773492742,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 206987,
+      "num": 206987,
+      "word": "AG对战KSG",
+      "onboard_time": 1773495261,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 202767,
@@ -817,6 +857,14 @@
       "onboard_time": 1773489803,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190802,
+      "num": 190802,
+      "word": "李宇春张靓颖周笔畅该来的都没来",
+      "onboard_time": 1773495443,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 190402,
@@ -1267,6 +1315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 118661,
+      "num": 118661,
+      "word": "恋与深空",
+      "onboard_time": 1773496284,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118543,
       "num": 118543,
       "word": "被丢弃厕所女婴生母感谢养母",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1773470241,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112790,
+      "num": 112790,
+      "word": "王楚钦下一站澳门世界杯",
+      "onboard_time": 1773495141,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 109464,
@@ -1451,6 +1515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 100396,
+      "num": 91814,
+      "word": "孔雪儿我不允许你这么演",
+      "onboard_time": 1773495861,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99427,
       "num": 99427,
       "word": "省考 比国考难",
@@ -1499,6 +1571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 97861,
+      "num": 159556,
+      "word": "男子投诉10分钟后隐私被扒得底朝天",
+      "onboard_time": 1773486741,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97538,
       "num": 497406,
       "word": "九尾提到DYG",
@@ -1531,20 +1611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96479,
-      "num": 159556,
-      "word": "男子投诉10分钟后隐私被扒得底朝天",
-      "onboard_time": 1773486741,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96456,
       "num": 158793,
       "word": "田曦薇20秒无台词情绪戏",
       "onboard_time": 1773493823,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96301,
+      "num": 158840,
+      "word": "伊朗发起第49波打击",
+      "onboard_time": 1773493160,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95736,
@@ -1651,6 +1731,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 90196,
+      "num": 90196,
+      "word": "任豪李怀安看到和离书的眼神亮了",
+      "onboard_time": 1773495861,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90030,
       "num": 90030,
       "word": "KPL",
@@ -1715,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87092,
+      "num": 91197,
+      "word": "日本考虑购买俄罗斯石油",
+      "onboard_time": 1773496883,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87072,
       "num": 159099,
       "word": "李宇春裸背红裙",
@@ -1755,20 +1851,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85747,
-      "num": 158840,
-      "word": "伊朗发起第49波打击",
-      "onboard_time": 1773493160,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 85277,
       "num": 85277,
       "word": "金玟庭跳了姐姐真漂亮",
       "onboard_time": 1773482781,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85136,
+      "num": 90206,
+      "word": "官方回应重庆两男子虐杀萨摩耶",
+      "onboard_time": 1773496104,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84672,
@@ -1859,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82082,
+      "num": 89717,
+      "word": "黄子弘凡内娱花篮名人堂",
+      "onboard_time": 1773496104,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 81948,
       "num": 158185,
       "word": "周深翻唱TaylorSwift的CruelSummer",
@@ -1937,6 +2041,14 @@
       "onboard_time": 1773454581,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 80421,
+      "num": 89956,
+      "word": "林孝埈称F1像熟悉的冰场",
+      "onboard_time": 1773496403,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 79892,
@@ -2195,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72239,
+      "num": 158246,
+      "word": "樊振东赛季首冠纪录片",
+      "onboard_time": 1773493942,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71510,
       "num": 71510,
       "word": "国产剧迎来了最严厉的老姐",
@@ -2289,6 +2409,14 @@
       "onboard_time": 1773493582,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69341,
+      "num": 88732,
+      "word": "松岛辉空曾夸孙颖莎非常强劲",
+      "onboard_time": 1773496223,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68571,
@@ -2409,14 +2537,6 @@
       "onboard_time": 1773414022,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63895,
-      "num": 158246,
-      "word": "樊振东赛季首冠纪录片",
-      "onboard_time": 1773493942,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 63597,
