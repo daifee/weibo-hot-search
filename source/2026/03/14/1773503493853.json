@@ -1,0 +1,410 @@
+{
+  "runTime": 1773503493853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 496482,
+        "num": 1079437,
+        "word": "暗访10家便利店10家都卖假烟",
+        "onboard_time": 1773498144,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 287378,
+        "num": 766045,
+        "word": "女子捐赠4万多毫升母乳给医院",
+        "onboard_time": 1773501023,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28701,
+        "num": 631695,
+        "word": "十五五民生红包",
+        "onboard_time": 1773492803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 274242,
+        "num": 274242,
+        "word": "谢征试探长玉",
+        "onboard_time": 1773499942,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263848,
+        "num": 263848,
+        "word": "央视315晚会点了4个领域",
+        "onboard_time": 1773476361,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 258525,
+        "num": 258525,
+        "word": "文淇路演亲了粉丝",
+        "onboard_time": 1773499043,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177707,
+        "num": 177707,
+        "word": "第一次被一个柜子惊艳到",
+        "onboard_time": 1773492922,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117196,
+        "num": 177564,
+        "word": "KSG战胜AG",
+        "onboard_time": 1773499223,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109200,
+        "num": 176232,
+        "word": "F1",
+        "onboard_time": 1773500723,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60586,
+        "num": 175985,
+        "word": "人民大会堂的同款老式热水瓶已停产",
+        "onboard_time": 1773486023,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365085,
+        "num": 174992,
+        "word": "王楚钦差点吐了",
+        "onboard_time": 1773498081,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238698,
+        "num": 173915,
+        "word": "中国34岁女子在泰国被抛尸水沟",
+        "onboard_time": 1773495082,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 212373,
+        "num": 173120,
+        "word": "王楚钦2比4松岛辉空",
+        "onboard_time": 1773492144,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 970138,
+        "num": 172126,
+        "word": "韩综男主持当众殴打女主持",
+        "onboard_time": 1773498023,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315369,
+        "num": 171635,
+        "word": "逐玉热度超过宁安如梦",
+        "onboard_time": 1773497902,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171205,
+        "num": 171205,
+        "word": "两人敲晕老年犬丢垃圾桶致死被罚款",
+        "onboard_time": 1773497243,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112226,
+        "num": 169983,
+        "word": "女孩长期便血以为是痔疮结果是癌症",
+        "onboard_time": 1773482481,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99864,
+        "num": 169155,
+        "word": "原来这就叫感官过载呀",
+        "onboard_time": 1773498322,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98737,
+        "num": 167612,
+        "word": "著名哲学家哈贝马斯去世",
+        "onboard_time": 1773499822,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93681,
+        "num": 166916,
+        "word": "内娱明星在Tiffany晚宴团建",
+        "onboard_time": 1773498923,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576204,
+        "num": 164903,
+        "word": "爱奇艺海外播放量前十作品",
+        "onboard_time": 1773497603,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190980,
+        "num": 164002,
+        "word": "女子翻丈夫手机发现其出轨几十人",
+        "onboard_time": 1773494964,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413038,
+        "num": 162820,
+        "word": "王冕官宣生子",
+        "onboard_time": 1773484401,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400371,
+        "num": 161905,
+        "word": "成毅撤诉",
+        "onboard_time": 1773495861,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97094,
+        "num": 160381,
+        "word": "日本考虑购买俄罗斯石油",
+        "onboard_time": 1773496883,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205785,
+        "num": 159372,
+        "word": "逐玉",
+        "onboard_time": 1773483202,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158554,
+        "num": 158554,
+        "word": "唐嫣张若昀主持",
+        "onboard_time": 1773495623,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83916,
+        "num": 136220,
+        "word": "广东315晚会",
+        "onboard_time": 1773500183,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131867,
+        "num": 131867,
+        "word": "李宇春张靓颖周笔畅该来的都没来",
+        "onboard_time": 1773495443,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82378,
+        "num": 127320,
+        "word": "伊朗宣布导弹命中率提升了一倍",
+        "onboard_time": 1773500663,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126691,
+        "num": 126691,
+        "word": "春晚与周深同台女孩靠输血维持生命",
+        "onboard_time": 1773498262,
+        "rank": 30,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 110173,
+        "num": 110173,
+        "word": "金道勋ana互动",
+        "onboard_time": 1773488781,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82808,
+        "num": 110135,
+        "word": "AG对战KSG",
+        "onboard_time": 1773495261,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90761,
+        "num": 110080,
+        "word": "柯淳人帅心善买了残疾人的水果",
+        "onboard_time": 1773498863,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89666,
+        "num": 110027,
+        "word": "胡先煦看了黄子弘凡演唱会",
+        "onboard_time": 1773497542,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77133,
+        "num": 109949,
+        "word": "伊朗称袭击美军中东三大军事基地",
+        "onboard_time": 1773487221,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85645,
+        "num": 109885,
+        "word": "孔雪儿邓凯浴池戏",
+        "onboard_time": 1773488003,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82851,
+        "num": 109785,
+        "word": "夏之光出道两年每月只有三千元",
+        "onboard_time": 1773501262,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75950,
+        "num": 109753,
+        "word": "袋鼠妈妈被曝虚假宣传孕妇适用",
+        "onboard_time": 1773499342,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 80608,
+        "num": 109667,
+        "word": "林依晨称因熬夜和压力患脑部囊肿",
+        "onboard_time": 1773485841,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76840,
+        "num": 109636,
+        "word": "TOP直播",
+        "onboard_time": 1773488903,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75324,
+        "num": 109520,
+        "word": "刘文祥麻辣烫回应鸭肉当猪肉牛肉卖",
+        "onboard_time": 1773492742,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76139,
+        "num": 109490,
+        "word": "黄子弘凡鸟巢上座率",
+        "onboard_time": 1773488961,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76102,
+        "num": 109423,
+        "word": "我家那小子",
+        "onboard_time": 1773497243,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65138,
+        "num": 109338,
+        "word": "Knight巴西服改名Tian",
+        "onboard_time": 1773496403,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71052,
+        "num": 109295,
+        "word": "谢征越骗越多",
+        "onboard_time": 1773500663,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67954,
+        "num": 109243,
+        "word": "认识的哥哥",
+        "onboard_time": 1773502881,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62265,
+        "num": 109150,
+        "word": "松岛辉空仰天大笑庆祝胜利",
+        "onboard_time": 1773500604,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64397,
+        "num": 109109,
+        "word": "一栗小莎子近况",
+        "onboard_time": 1773490042,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 59826,
+        "num": 109034,
+        "word": "杨舒予飞身拥抱杨力维",
+        "onboard_time": 1773502224,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着总书记的嘱托一起出发#"
+    }
+  }
+}
