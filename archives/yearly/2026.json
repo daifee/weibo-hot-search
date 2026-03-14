@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1773472357812,
+  "endTime": 1773474111847,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2387,20 +2387,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1578804,
+      "num": 146777,
+      "word": "王鹤润王玉雯 反转",
+      "onboard_time": 1773469341,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1575413,
       "num": 608881,
       "word": "华莱士正式宣布退市",
       "onboard_time": 1773199525,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1573589,
-      "num": 496376,
-      "word": "高铁一等座4元二等座8元",
-      "onboard_time": 1772698822,
-      "rank": 10,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

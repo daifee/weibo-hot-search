@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773472357812,
+  "endTime": 1773474111847,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1578804,
+      "num": 146777,
+      "word": "王鹤润王玉雯 反转",
+      "onboard_time": 1773469341,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1575413,
       "num": 608881,
       "word": "华莱士正式宣布退市",
@@ -121,14 +129,6 @@
       "onboard_time": 1772952140,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1455304,
-      "num": 146777,
-      "word": "王鹤润王玉雯 反转",
-      "onboard_time": 1773469341,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1451688,
@@ -843,6 +843,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 680345,
+      "num": 1108855,
+      "word": "315调查眼镜到底有多暴利",
+      "onboard_time": 1773468021,
+      "rank": 16,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 676139,
       "num": 740483,
       "word": "伊朗65所学校遭袭",
@@ -1555,14 +1563,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 473461,
-      "num": 1075753,
-      "word": "315调查眼镜到底有多暴利",
-      "onboard_time": 1773468021,
-      "rank": 16,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 472726,
       "num": 919897,
       "word": "李羲承有点像我离职的lastday",
@@ -1681,6 +1681,14 @@
       "onboard_time": 1773295821,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460150,
+      "num": 460150,
+      "word": "王鹤棣新歌歌词",
+      "onboard_time": 1773470722,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 453232,
@@ -2611,6 +2619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334895,
+      "num": 293511,
+      "word": "谢征没有言正帅 谁上班谁知道",
+      "onboard_time": 1773469282,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334443,
       "num": 601226,
       "word": "小哥AI换脸Kpop歌手一夜爆红",
@@ -3259,14 +3275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 293511,
-      "num": 293511,
-      "word": "谢征没有言正帅 谁上班谁知道",
-      "onboard_time": 1773469282,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 293409,
       "num": 419835,
       "word": "周杰伦温州",
@@ -3844,7 +3852,7 @@
     },
     {
       "raw_hot": 251911,
-      "num": 111048,
+      "num": 208251,
       "word": "蒯曼回应4比2孙颖莎",
       "onboard_time": 1773471200,
       "rank": 30,
@@ -4179,14 +4187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231898,
-      "num": 231898,
-      "word": "王鹤棣新歌歌词",
-      "onboard_time": 1773470722,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 231774,
       "num": 321077,
       "word": "豆包限制AI成毅",
@@ -4225,6 +4225,14 @@
       "onboard_time": 1773033142,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228931,
+      "num": 175924,
+      "word": "马思纯发文",
+      "onboard_time": 1773472099,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 228380,
@@ -4347,6 +4355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223761,
+      "num": 223761,
+      "word": "美国凭啥从委内瑞拉搬走1亿美元黄金",
+      "onboard_time": 1773471500,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 222718,
       "num": 617750,
       "word": "华为Mate80销量国产第一",
@@ -4361,6 +4377,14 @@
       "onboard_time": 1773130523,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 222219,
+      "num": 222219,
+      "word": "谢征收到了和离书",
+      "onboard_time": 1773469161,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 222064,
@@ -4393,14 +4417,6 @@
       "onboard_time": 1773081615,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 221069,
-      "num": 221069,
-      "word": "谢征收到了和离书",
-      "onboard_time": 1773469161,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 220919,
@@ -5059,6 +5075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190402,
+      "num": 190402,
+      "word": "赵丽颖已经三提白玉兰了",
+      "onboard_time": 1773469581,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190276,
       "num": 426559,
       "word": "4种无效早睡没比熬夜强多少",
@@ -5331,6 +5355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175655,
+      "num": 158200,
+      "word": "上海F1偶遇关晓彤",
+      "onboard_time": 1773469941,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175243,
       "num": 526787,
       "word": "你更愿意喝9.9元还是30元的咖啡",
@@ -5433,6 +5465,14 @@
       "onboard_time": 1772937801,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 172864,
+      "num": 172864,
+      "word": "云南花香蓝莓",
+      "onboard_time": 1773472041,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 172611,
@@ -5889,14 +5929,6 @@
       "onboard_time": 1773041002,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158770,
-      "num": 151798,
-      "word": "赵丽颖已经三提白玉兰了",
-      "onboard_time": 1773469581,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 158477,
@@ -6435,6 +6467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145201,
+      "num": 145201,
+      "word": "霍尔木兹封锁日本最先扛不住了",
+      "onboard_time": 1773473603,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144522,
       "num": 566510,
       "word": "伊朗驻华大使谈霍尔木兹海峡通行",
@@ -6707,12 +6747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137469,
-      "num": 137469,
-      "word": "上海F1偶遇关晓彤",
-      "onboard_time": 1773469941,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 137297,
+      "num": 137297,
+      "word": "富二代为情人落户雇人假结婚",
+      "onboard_time": 1773473060,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137288,
@@ -7731,6 +7771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118163,
+      "num": 118163,
+      "word": "关晓彤程潇F1观赛造型",
+      "onboard_time": 1773472941,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 118102,
       "num": 915505,
       "word": "enhypen成员",
@@ -8225,14 +8273,6 @@
       "onboard_time": 1773324202,
       "rank": 36,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 110321,
-      "num": 110321,
-      "word": "美国凭啥从委内瑞拉搬走1亿美元黄金",
-      "onboard_time": 1773471500,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110158,
@@ -9547,6 +9587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95601,
+      "num": 95601,
+      "word": "孔雪儿 只想演强制爱",
+      "onboard_time": 1773472881,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95598,
       "num": 95598,
       "word": "业内称草莓存农残和重金属两大顽疾",
@@ -9843,6 +9891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92792,
+      "num": 97378,
+      "word": "哪个天才发明的减肥群",
+      "onboard_time": 1773473302,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92670,
       "num": 221973,
       "word": "鸡鸣寺消息树今年失约",
@@ -9865,6 +9921,14 @@
       "onboard_time": 1772934919,
       "rank": 39,
       "category": "剧集,动漫"
+    },
+    {
+      "raw_hot": 92374,
+      "num": 92374,
+      "word": "绘旅人白色情人节",
+      "onboard_time": 1773473421,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 92344,
@@ -10025,14 +10089,6 @@
       "onboard_time": 1773030741,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91179,
-      "num": 91179,
-      "word": "马思纯发文",
-      "onboard_time": 1773472099,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 91079,
@@ -10209,6 +10265,14 @@
       "onboard_time": 1772931141,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89264,
+      "num": 89264,
+      "word": "外卖到了白鹿就这样跑步迎接",
+      "onboard_time": 1773472941,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 89213,
@@ -10771,14 +10835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85803,
-      "num": 85803,
-      "word": "云南花香蓝莓",
-      "onboard_time": 1773472041,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 85761,
       "num": 928077,
       "word": "女子看日本人商场扮熊猫称很搞笑",
@@ -11105,6 +11161,14 @@
       "onboard_time": 1772944281,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82934,
+      "num": 82934,
+      "word": "唐嫣刺绣吊带裙",
+      "onboard_time": 1773472401,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 82791,
@@ -12689,6 +12753,14 @@
       "onboard_time": 1773205042,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71510,
+      "num": 71510,
+      "word": "国产剧迎来了最严厉的老姐",
+      "onboard_time": 1773474021,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 71298,
@@ -14515,6 +14587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56878,
+      "num": 86330,
+      "word": "王霜下一场停赛",
+      "onboard_time": 1773472701,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56867,
       "num": 132909,
       "word": "赵雅芝红包",
@@ -15083,6 +15163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49845,
+      "num": 85190,
+      "word": "大张伟在音乐剧被人喊闭嘴",
+      "onboard_time": 1773471741,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49609,
       "num": 76111,
       "word": "白天辉被执行死刑写进最高法报告",
@@ -15627,6 +15715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43204,
+      "num": 84623,
+      "word": "爱优腾芒果2026年头部大剧",
+      "onboard_time": 1773468141,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43056,
       "num": 388275,
       "word": "华东师大去年起停招学前教育本科",
@@ -15937,14 +16033,6 @@
       "onboard_time": 1773009195,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39126,
-      "num": 73988,
-      "word": "爱优腾芒果2026年头部大剧",
-      "onboard_time": 1773468141,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 39039,
