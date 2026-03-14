@@ -1,0 +1,410 @@
+{
+  "runTime": 1773467643118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 546686,
+        "num": 1087469,
+        "word": "马杜罗彻夜高喊我是总统正被虐待",
+        "onboard_time": 1773465381,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 501590,
+        "num": 794230,
+        "word": "省考",
+        "onboard_time": 1773444678,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13465,
+        "num": 636172,
+        "word": "十五五向你发出奋斗邀请",
+        "onboard_time": 1773444378,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462902,
+        "num": 462902,
+        "word": "苏醒为胡辣汤事件道歉",
+        "onboard_time": 1773465081,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210330,
+        "num": 210330,
+        "word": "申论考100分就能上岸了",
+        "onboard_time": 1773463222,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178189,
+        "num": 178189,
+        "word": "申论",
+        "onboard_time": 1773459800,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154978,
+        "num": 154978,
+        "word": "丰巢超时收5毛钱恶心又得咽下",
+        "onboard_time": 1773459200,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 32498,
+        "num": 154418,
+        "word": "电子烟加兽用麻醉药",
+        "onboard_time": 1773466640,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 73312,
+        "num": 152888,
+        "word": "近半老年人在租房时被拒绝",
+        "onboard_time": 1773457222,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21252,
+        "num": 152341,
+        "word": "国家摄影队独有的两会时间",
+        "onboard_time": 1773466222,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 389953,
+        "num": 151640,
+        "word": "林依晨谈做脑部手术经历",
+        "onboard_time": 1773465980,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384302,
+        "num": 150288,
+        "word": "田曦薇张凌赫经纪人依旧纯恨中",
+        "onboard_time": 1773454279,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313091,
+        "num": 149534,
+        "word": "25岁硕士曝光剧本直播间被死亡威胁",
+        "onboard_time": 1773465561,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197150,
+        "num": 147623,
+        "word": "孙杨张豆豆俄罗斯街头牵手举高高",
+        "onboard_time": 1773464300,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147359,
+        "num": 147359,
+        "word": "温瑞博4比2战胜邱党",
+        "onboard_time": 1773465322,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125020,
+        "num": 125020,
+        "word": "人民大会堂的热水瓶用了30年",
+        "onboard_time": 1773450680,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 124289,
+        "num": 124289,
+        "word": "省考图推",
+        "onboard_time": 1773458540,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123425,
+        "num": 123425,
+        "word": "伊朗30枚超重导弹袭击以色列",
+        "onboard_time": 1773434055,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78635,
+        "num": 121828,
+        "word": "女子错转23万给老赖无法追回",
+        "onboard_time": 1773466581,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20877,
+        "num": 117844,
+        "word": "意大利知名品牌钢笔是国内生产",
+        "onboard_time": 1773466701,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 214688,
+        "num": 114830,
+        "word": "第31届白玉兰奖",
+        "onboard_time": 1773453139,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194240,
+        "num": 113297,
+        "word": "杨幂赵丽颖 白玉兰",
+        "onboard_time": 1773448459,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111952,
+        "num": 111952,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1773466222,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125055,
+        "num": 111746,
+        "word": "我们的少年时代2",
+        "onboard_time": 1773454820,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113749,
+        "num": 111090,
+        "word": "鞠婧祎杂志开售",
+        "onboard_time": 1773455781,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110422,
+        "num": 110422,
+        "word": "多方回应火锅店老板砍伤广场舞人群",
+        "onboard_time": 1773463040,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 109884,
+        "num": 109884,
+        "word": "刘昊然周冬雨同款帽子",
+        "onboard_time": 1773461960,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106470,
+        "num": 106470,
+        "word": "女孩用胡萝卜啃出70cm高黄鹤楼",
+        "onboard_time": 1773453500,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104718,
+        "num": 104718,
+        "word": "沈月大大方方聊生理期不适",
+        "onboard_time": 1773464540,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103985,
+        "num": 103985,
+        "word": "我妈做饭vs我做饭",
+        "onboard_time": 1773466822,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137288,
+        "num": 103255,
+        "word": "第一个用羽毛做假睫毛的是天才",
+        "onboard_time": 1773467540,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 66320,
+        "num": 102702,
+        "word": "孕妇专用化妆品实为普通化妆品",
+        "onboard_time": 1773466161,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102466,
+        "num": 102466,
+        "word": "弟弟的脐带血15年后救了哥哥",
+        "onboard_time": 1773444617,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96669,
+        "num": 96669,
+        "word": "原来被老天爷追着喂饭是这样",
+        "onboard_time": 1773453139,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 88227,
+        "num": 88227,
+        "word": "猫 原生家庭的痛谁懂",
+        "onboard_time": 1773466822,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26113,
+        "num": 88159,
+        "word": "演员董晴的含金量还在上升",
+        "onboard_time": 1773465322,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60975,
+        "num": 88048,
+        "word": "火了就散伙是组合的必经之路吗",
+        "onboard_time": 1773464900,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45327,
+        "num": 87930,
+        "word": "刘耀文把宋亚轩认成丁程鑫",
+        "onboard_time": 1773464961,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22310,
+        "num": 87714,
+        "word": "0含驼量香精乳品冒充进口驼奶",
+        "onboard_time": 1773466701,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 27938,
+        "num": 87630,
+        "word": "老年人如何适应AI时代",
+        "onboard_time": 1773464540,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16319,
+        "num": 87486,
+        "word": "周云杰家电界最严厉的父亲",
+        "onboard_time": 1773463642,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87416,
+        "num": 87416,
+        "word": "男子狂扇自己称后悔花10万再婚",
+        "onboard_time": 1773455601,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85771,
+        "num": 85771,
+        "word": "中国女足vs中国台北女足",
+        "onboard_time": 1773467600,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85753,
+        "num": 85753,
+        "word": "吴艳妮为拉塞尔颁奖",
+        "onboard_time": 1773467422,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84672,
+        "num": 84672,
+        "word": "王艺迪希望申裕斌没事",
+        "onboard_time": 1773467600,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81364,
+        "num": 83291,
+        "word": "耳帝说内娱音综彻底放下身段了",
+        "onboard_time": 1773467422,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18423,
+        "num": 82456,
+        "word": "享界粉白新色亮相上海AWE",
+        "onboard_time": 1773462980,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 82117,
+        "num": 82117,
+        "word": "徐冬冬 出道没有少女期",
+        "onboard_time": 1773467239,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81401,
+        "num": 81401,
+        "word": "拉塞尔夺F1中国站冲刺赛冠军",
+        "onboard_time": 1773460160,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81353,
+        "num": 81353,
+        "word": "何炅逞能公主抱导致肩伤",
+        "onboard_time": 1773461480,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共赴新程之约#"
+    }
+  }
+}
