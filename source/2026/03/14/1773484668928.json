@@ -1,0 +1,410 @@
+{
+  "runTime": 1773484668928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 395603,
+        "num": 1063296,
+        "word": "央视315晚会点了4个领域",
+        "onboard_time": 1773476361,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 328747,
+        "num": 791741,
+        "word": "申论大作文",
+        "onboard_time": 1773479602,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32402,
+        "num": 588369,
+        "word": "十五五规划纲要解读来了",
+        "onboard_time": 1773475820,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 673395,
+        "num": 479089,
+        "word": "女孩长期便血以为是痔疮结果是癌症",
+        "onboard_time": 1773482481,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237063,
+        "num": 237063,
+        "word": "315调查眼镜到底有多暴利",
+        "onboard_time": 1773468021,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 474654,
+        "num": 227122,
+        "word": "生菜是最伟大的蔬菜",
+        "onboard_time": 1773479301,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196535,
+        "num": 196535,
+        "word": "冰箱贴一直不挪会伤害冰箱",
+        "onboard_time": 1773478881,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25382,
+        "num": 195348,
+        "word": "产品宣称每克添加750亿活菌实测2.2万",
+        "onboard_time": 1773483801,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 39253,
+        "num": 193382,
+        "word": "AI时代青少年该掌握哪些能力",
+        "onboard_time": 1773480561,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14634,
+        "num": 191273,
+        "word": "建议慈善教育分层推进",
+        "onboard_time": 1773480561,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254976,
+        "num": 189249,
+        "word": "霍尔木兹封锁日本最先扛不住了",
+        "onboard_time": 1773473603,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189230,
+        "num": 189230,
+        "word": "云南花香蓝莓",
+        "onboard_time": 1773472041,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187952,
+        "num": 187952,
+        "word": "武契奇证实购买中国超音速导弹",
+        "onboard_time": 1773483860,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148420,
+        "num": 148420,
+        "word": "王鹤棣新歌歌词",
+        "onboard_time": 1773470722,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81791,
+        "num": 139465,
+        "word": "Tiffany三里屯开幕",
+        "onboard_time": 1773482661,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137635,
+        "num": 137635,
+        "word": "省考",
+        "onboard_time": 1773444678,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142778,
+        "num": 134823,
+        "word": "谢征收到了和离书",
+        "onboard_time": 1773469161,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131850,
+        "num": 131850,
+        "word": "河南申论",
+        "onboard_time": 1773478522,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131032,
+        "num": 131032,
+        "word": "省考申论",
+        "onboard_time": 1773478281,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15972,
+        "num": 99668,
+        "word": "起底3C认证充电宝造假产业链",
+        "onboard_time": 1773484100,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 399796,
+        "num": 98744,
+        "word": "逐玉 肛泰别闹了",
+        "onboard_time": 1773477622,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372953,
+        "num": 98637,
+        "word": "陆仙人回应整容",
+        "onboard_time": 1773479661,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95310,
+        "num": 95310,
+        "word": "美国急于退场以色列还想硬刚",
+        "onboard_time": 1773483860,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230794,
+        "num": 95130,
+        "word": "谢征没有言正帅 谁上班谁知道",
+        "onboard_time": 1773469282,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159658,
+        "num": 95106,
+        "word": "小红帽下楼",
+        "onboard_time": 1773479421,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94877,
+        "num": 94877,
+        "word": "被丢弃厕所女婴含泪抱住妈妈",
+        "onboard_time": 1773478582,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222308,
+        "num": 94810,
+        "word": "逐玉",
+        "onboard_time": 1773483202,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130542,
+        "num": 93870,
+        "word": "王冕官宣生子",
+        "onboard_time": 1773484401,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313138,
+        "num": 93829,
+        "word": "韩军称朝鲜发射10余枚弹道导弹",
+        "onboard_time": 1773474981,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91607,
+        "num": 91607,
+        "word": "老凤祥40克旧黄金置换后仅剩17克",
+        "onboard_time": 1773475341,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130869,
+        "num": 91595,
+        "word": "豹豹原来是汗脚",
+        "onboard_time": 1773483860,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98044,
+        "num": 91468,
+        "word": "关晓彤程潇F1观赛造型",
+        "onboard_time": 1773472941,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 94270,
+        "num": 91232,
+        "word": "央视主持人怎么也开始拍短剧了",
+        "onboard_time": 1773479181,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89749,
+        "num": 89749,
+        "word": "120斤减肥减到160斤",
+        "onboard_time": 1773480501,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92390,
+        "num": 89684,
+        "word": "外卖到了白鹿就这样跑步迎接",
+        "onboard_time": 1773472941,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87740,
+        "num": 87740,
+        "word": "孙颖莎2比4蒯曼",
+        "onboard_time": 1773469460,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86276,
+        "num": 86276,
+        "word": "马思纯发文",
+        "onboard_time": 1773472099,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32194,
+        "num": 83771,
+        "word": "0713一个没活的找了一帮没活的",
+        "onboard_time": 1773480921,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26401,
+        "num": 82047,
+        "word": "16岁少年未管所遭同监区3人殴打致死",
+        "onboard_time": 1773484520,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20652,
+        "num": 81922,
+        "word": "多款被曝工业用酶婴幼儿产品下架",
+        "onboard_time": 1773484100,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 81877,
+        "num": 81877,
+        "word": "LGD零封晋级六强",
+        "onboard_time": 1773484100,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77590,
+        "num": 77590,
+        "word": "生理性讨厌是藏不住的",
+        "onboard_time": 1773476481,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75535,
+        "num": 75535,
+        "word": "只有阎鹤祥把郭德纲的话听进去了",
+        "onboard_time": 1773480921,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37411,
+        "num": 74627,
+        "word": "内娱什么人都能出书了",
+        "onboard_time": 1773480740,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74557,
+        "num": 74557,
+        "word": "辽宁申论",
+        "onboard_time": 1773478821,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 75238,
+        "num": 73967,
+        "word": "瞿颖自曝不需要赚那么多钱",
+        "onboard_time": 1773476780,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73287,
+        "num": 73287,
+        "word": "省考行测",
+        "onboard_time": 1773484581,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 73010,
+        "num": 73010,
+        "word": "JDG拿下S组三连胜",
+        "onboard_time": 1773483742,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71580,
+        "num": 71580,
+        "word": "金玟庭跳了姐姐真漂亮",
+        "onboard_time": 1773482781,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70162,
+        "num": 70162,
+        "word": "狼队对战DYG",
+        "onboard_time": 1773483141,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的两会足迹#"
+    }
+  }
+}

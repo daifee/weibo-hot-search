@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773482222826,
+  "endTime": 1773484668928,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -2307,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 673395,
+      "num": 479089,
+      "word": "女孩长期便血以为是痔疮结果是癌症",
+      "onboard_time": 1773482481,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 672321,
       "num": 1103857,
       "word": "元宵晚会 好看",
@@ -4129,6 +4137,14 @@
       "onboard_time": 1772954360,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 474654,
+      "num": 227122,
+      "word": "生菜是最伟大的蔬菜",
+      "onboard_time": 1773479301,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 473963,
@@ -6796,7 +6812,7 @@
     },
     {
       "raw_hot": 332231,
-      "num": 332231,
+      "num": 791741,
       "word": "申论大作文",
       "onboard_time": 1773479602,
       "rank": 4,
@@ -11547,6 +11563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 196535,
+      "num": 196535,
+      "word": "冰箱贴一直不挪会伤害冰箱",
+      "onboard_time": 1773478881,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196421,
       "num": 174242,
       "word": "辛芷蕾巴黎时装周新造型",
@@ -11601,14 +11625,6 @@
       "onboard_time": 1772325203,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195679,
-      "num": 195679,
-      "word": "生菜是最伟大的蔬菜",
-      "onboard_time": 1773479301,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 195558,
@@ -12008,6 +12024,14 @@
       "word": "美军坠毁加油机上6人全死",
       "onboard_time": 1773414683,
       "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 187952,
+      "num": 187952,
+      "word": "武契奇证实购买中国超音速导弹",
+      "onboard_time": 1773483860,
+      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -12640,14 +12664,6 @@
       "word": "舅舅回应被指觊觎外甥女财产",
       "onboard_time": 1772526929,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174849,
-      "num": 174849,
-      "word": "冰箱贴一直不挪会伤害冰箱",
-      "onboard_time": 1773478881,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -16371,6 +16387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130869,
+      "num": 91595,
+      "word": "豹豹原来是汗脚",
+      "onboard_time": 1773483860,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130767,
       "num": 373419,
       "word": "五粮液",
@@ -16393,6 +16417,14 @@
       "onboard_time": 1773123079,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130542,
+      "num": 93870,
+      "word": "王冕官宣生子",
+      "onboard_time": 1773484401,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 130516,
@@ -21803,6 +21835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95310,
+      "num": 95310,
+      "word": "美国急于退场以色列还想硬刚",
+      "onboard_time": 1773483860,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95183,
       "num": 95183,
       "word": "雷军新闻联播镜头",
@@ -21937,6 +21977,14 @@
       "onboard_time": 1772884643,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94877,
+      "num": 94877,
+      "word": "被丢弃厕所女婴含泪抱住妈妈",
+      "onboard_time": 1773478582,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94874,
@@ -24931,6 +24979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81877,
+      "num": 81877,
+      "word": "LGD零封晋级六强",
+      "onboard_time": 1773484100,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81830,
       "num": 81830,
       "word": "手机厂商为何开始做龙虾",
@@ -24953,6 +25009,14 @@
       "onboard_time": 1772862983,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81791,
+      "num": 139465,
+      "word": "Tiffany三里屯开幕",
+      "onboard_time": 1773482661,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 81774,
@@ -27115,6 +27179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73287,
+      "num": 73287,
+      "word": "省考行测",
+      "onboard_time": 1773484581,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 73214,
       "num": 113406,
       "word": "第一次见把舞狮耍成赖皮蛇",
@@ -27185,6 +27257,14 @@
       "onboard_time": 1773322944,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73010,
+      "num": 73010,
+      "word": "JDG拿下S组三连胜",
+      "onboard_time": 1773483742,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 73004,
@@ -27547,6 +27627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71580,
+      "num": 71580,
+      "word": "金玟庭跳了姐姐真漂亮",
+      "onboard_time": 1773482781,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71555,
       "num": 112384,
       "word": "OpenAI多位负责人抗议辞职",
@@ -27833,6 +27921,14 @@
       "onboard_time": 1773223280,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70162,
+      "num": 70162,
+      "word": "狼队对战DYG",
+      "onboard_time": 1773483141,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 70161,
@@ -28380,7 +28476,7 @@
     },
     {
       "raw_hot": 67804,
-      "num": 67804,
+      "num": 74627,
       "word": "内娱什么人都能出书了",
       "onboard_time": 1773480740,
       "rank": 47,
@@ -32915,6 +33011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39253,
+      "num": 247608,
+      "word": "AI时代青少年该掌握哪些能力",
+      "onboard_time": 1773480561,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39177,
       "num": 549712,
       "word": "委员称培训隐形变异侵蚀教育公平",
@@ -33891,6 +33995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32194,
+      "num": 83771,
+      "word": "0713一个没活的找了一帮没活的",
+      "onboard_time": 1773480921,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32085,
       "num": 510776,
       "word": "推进不动产登记跨省通办",
@@ -34499,6 +34611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 26401,
+      "num": 82047,
+      "word": "16岁少年未管所遭同监区3人殴打致死",
+      "onboard_time": 1773484520,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26347,
       "num": 105724,
       "word": "征玉",
@@ -34651,12 +34771,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25437,
-      "num": 247608,
-      "word": "AI时代青少年该掌握哪些能力",
-      "onboard_time": 1773480561,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 25382,
+      "num": 195348,
+      "word": "产品宣称每克添加750亿活菌实测2.2万",
+      "onboard_time": 1773483801,
+      "rank": 7,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25281,
@@ -35323,6 +35443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20652,
+      "num": 81922,
+      "word": "多款被曝工业用酶婴幼儿产品下架",
+      "onboard_time": 1773484100,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 20619,
       "num": 274768,
       "word": "街头捕获女神节惊喜",
@@ -35835,6 +35963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15972,
+      "num": 99668,
+      "word": "起底3C认证充电宝造假产业链",
+      "onboard_time": 1773484100,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 15748,
       "num": 126686,
       "word": "一五到十五五重大工程",
@@ -35945,6 +36081,14 @@
       "onboard_time": 1772479875,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14634,
+      "num": 191273,
+      "word": "建议慈善教育分层推进",
+      "onboard_time": 1773480561,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14631,
