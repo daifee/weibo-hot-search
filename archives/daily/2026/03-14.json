@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773484668928,
+  "endTime": 1773485688777,
   "band_list": [
     {
       "raw_hot": 1578804,
@@ -43,6 +43,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 820395,
+      "num": 115074,
+      "word": "王冕官宣生子",
+      "onboard_time": 1773484401,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703558,
       "num": 224302,
       "word": "杨幂赵丽颖 白玉兰",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 673395,
-      "num": 479089,
+      "num": 601487,
       "word": "女孩长期便血以为是痔疮结果是癌症",
       "onboard_time": 1773482481,
       "rank": 3,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 474654,
-      "num": 227122,
+      "num": 235367,
       "word": "生菜是最伟大的蔬菜",
       "onboard_time": 1773479301,
       "rank": 19,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 434878,
-      "num": 110157,
+      "num": 111752,
       "word": "陆仙人回应整容",
       "onboard_time": 1773479661,
       "rank": 23,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 332231,
-      "num": 791741,
+      "num": 795322,
       "word": "申论大作文",
       "onboard_time": 1773479602,
       "rank": 4,
@@ -499,6 +507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 237909,
+      "num": 237909,
+      "word": "武契奇证实购买中国超音速导弹",
+      "onboard_time": 1773483860,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 237772,
       "num": 416335,
       "word": "男子维权被12315工作人员嘲讽",
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 188240,
-      "num": 107597,
+      "num": 108693,
       "word": "小红帽下楼",
       "onboard_time": 1773479421,
       "rank": 27,
@@ -672,14 +688,6 @@
       "word": "美军坠毁加油机上6人全死",
       "onboard_time": 1773414683,
       "rank": 26,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 187952,
-      "num": 187952,
-      "word": "武契奇证实购买中国超音速导弹",
-      "onboard_time": 1773483860,
-      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -697,6 +705,14 @@
       "onboard_time": 1773457821,
       "rank": 30,
       "category": "综艺,剧集"
+    },
+    {
+      "raw_hot": 177141,
+      "num": 177141,
+      "word": "豹豹原来是汗脚",
+      "onboard_time": 1773483860,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 175914,
@@ -736,6 +752,14 @@
       "word": "腾讯2026年8部头部大剧",
       "onboard_time": 1773457280,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169595,
+      "num": 169595,
+      "word": "逐玉云合第三",
+      "onboard_time": 1773485541,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -995,20 +1019,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 130869,
-      "num": 91595,
-      "word": "豹豹原来是汗脚",
+      "raw_hot": 129857,
+      "num": 113899,
+      "word": "美国急于退场以色列还想硬刚",
       "onboard_time": 1773483860,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 130542,
-      "num": 93870,
-      "word": "王冕官宣生子",
-      "onboard_time": 1773484401,
-      "rank": 27,
-      "category": "艺人"
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128762,
@@ -1024,6 +1040,14 @@
       "word": "辽宁申论",
       "onboard_time": 1773478821,
       "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 126220,
+      "num": 126220,
+      "word": "省考行测",
+      "onboard_time": 1773484581,
+      "rank": 46,
       "category": "教育"
     },
     {
@@ -1171,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104880,
+      "num": 104880,
+      "word": "120斤减肥减到160斤",
+      "onboard_time": 1773480501,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104718,
       "num": 104718,
       "word": "沈月大大方方聊生理期不适",
@@ -1291,27 +1323,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95948,
+      "num": 95948,
+      "word": "被丢弃厕所女婴含泪抱住妈妈",
+      "onboard_time": 1773478582,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95736,
       "num": 318014,
       "word": "手机支付一定要设置3道锁",
       "onboard_time": 1773421398,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95310,
-      "num": 95310,
-      "word": "美国急于退场以色列还想硬刚",
-      "onboard_time": 1773483860,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 94877,
-      "num": 94877,
-      "word": "被丢弃厕所女婴含泪抱住妈妈",
-      "onboard_time": 1773478582,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1403,14 +1427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 90003,
-      "num": 90003,
-      "word": "120斤减肥减到160斤",
-      "onboard_time": 1773480501,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 89170,
       "num": 89170,
       "word": "孔雪儿邓凯白色情人节大片",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1773452960,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85277,
+      "num": 85277,
+      "word": "金玟庭跳了姐姐真漂亮",
+      "onboard_time": 1773482781,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 84672,
@@ -1651,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77956,
+      "num": 77956,
+      "word": "真服了你们这些遛狗的了",
+      "onboard_time": 1773485541,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77873,
       "num": 77873,
       "word": "安东内利夺F1生涯首个杆位",
@@ -1691,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76559,
+      "num": 76559,
+      "word": "林一别试探了有市场",
+      "onboard_time": 1773485181,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76000,
       "num": 76000,
       "word": "白玉兰",
@@ -1705,6 +1745,14 @@
       "onboard_time": 1773479541,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75795,
+      "num": 75795,
+      "word": "这洗脚水是非喝不可吗",
+      "onboard_time": 1773485063,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 75772,
@@ -1787,20 +1835,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73287,
-      "num": 73287,
-      "word": "省考行测",
-      "onboard_time": 1773484581,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 73010,
       "num": 73010,
       "word": "JDG拿下S组三连胜",
       "onboard_time": 1773483742,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72987,
+      "num": 72987,
+      "word": "林孝埈为安东内利颁小轮胎",
+      "onboard_time": 1773481700,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 72748,
@@ -1825,14 +1873,6 @@
       "onboard_time": 1773469941,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71580,
-      "num": 71580,
-      "word": "金玟庭跳了姐姐真漂亮",
-      "onboard_time": 1773482781,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 71510,
@@ -1939,14 +1979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67440,
-      "num": 67440,
-      "word": "林孝埈为安东内利颁小轮胎",
-      "onboard_time": 1773481700,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67300,
       "num": 67300,
       "word": "怕狗的人才懂有多恐怖",
@@ -1971,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65703,
+      "num": 65703,
+      "word": "生巧吐司",
+      "onboard_time": 1773485482,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 65638,
       "num": 161904,
       "word": "春天是洞洞鞋的统治区",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1773412942,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 64890,
+      "num": 82047,
+      "word": "16岁少年未管所遭同监区3人殴打致死",
+      "onboard_time": 1773484520,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64749,
@@ -2025,6 +2073,22 @@
       "onboard_time": 1773417201,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62892,
+      "num": 62892,
+      "word": "生孩子前先介绍下家庭配置",
+      "onboard_time": 1773482840,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 62885,
+      "num": 62885,
+      "word": "印度掀起赴日旅游风潮",
+      "onboard_time": 1773485661,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61010,
@@ -2299,20 +2363,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 39897,
+      "num": 247608,
+      "word": "AI时代青少年该掌握哪些能力",
+      "onboard_time": 1773480561,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39859,
       "num": 38460,
       "word": "穿prada的女王2 小时代",
       "onboard_time": 1773404241,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 39253,
-      "num": 247608,
-      "word": "AI时代青少年该掌握哪些能力",
-      "onboard_time": 1773480561,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38916,
@@ -2523,14 +2587,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 26401,
-      "num": 82047,
-      "word": "16岁少年未管所遭同监区3人殴打致死",
-      "onboard_time": 1773484520,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26346,
       "num": 356725,
       "word": "国家摄影队独有的两会时间",
@@ -2553,6 +2609,14 @@
       "onboard_time": 1773465322,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25925,
+      "num": 77586,
+      "word": "1800元买猫传腹特效药竟是假兽药",
+      "onboard_time": 1773485301,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25382,
@@ -2584,6 +2648,14 @@
       "word": "0含驼量香精乳品冒充进口驼奶",
       "onboard_time": 1773466701,
       "rank": 38,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 20944,
+      "num": 116227,
+      "word": "多方回应除尘魔盒不吸尘",
+      "onboard_time": 1773484762,
+      "rank": 19,
       "category": "舆论监督"
     },
     {
@@ -2651,6 +2723,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 16856,
+      "num": 191273,
+      "word": "建议慈善教育分层推进",
+      "onboard_time": 1773480561,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16828,
       "num": 27403,
       "word": "KPL春季赛",
@@ -2705,14 +2785,6 @@
       "onboard_time": 1773401841,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14634,
-      "num": 191273,
-      "word": "建议慈善教育分层推进",
-      "onboard_time": 1773480561,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14540,
