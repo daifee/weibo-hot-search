@@ -1,0 +1,410 @@
+{
+  "runTime": 1773468409273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 630197,
+        "num": 1100831,
+        "word": "马杜罗彻夜高喊我是总统正被虐待",
+        "onboard_time": 1773465381,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296590,
+        "num": 801859,
+        "word": "省考",
+        "onboard_time": 1773444678,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 14136,
+        "num": 618635,
+        "word": "十五五向你发出奋斗邀请",
+        "onboard_time": 1773444378,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 443956,
+        "num": 443956,
+        "word": "苏醒为胡辣汤事件道歉",
+        "onboard_time": 1773465081,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202767,
+        "num": 202767,
+        "word": "女子错转23万给老赖无法追回",
+        "onboard_time": 1773466581,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196094,
+        "num": 196094,
+        "word": "孙颖莎vs蒯曼",
+        "onboard_time": 1773466222,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167666,
+        "num": 167666,
+        "word": "丰巢超时收5毛钱恶心又得咽下",
+        "onboard_time": 1773459200,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 158730,
+        "num": 158730,
+        "word": "申论考100分就能上岸了",
+        "onboard_time": 1773463222,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 71804,
+        "num": 156362,
+        "word": "近半老年人在租房时被拒绝",
+        "onboard_time": 1773457222,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19930,
+        "num": 153761,
+        "word": "国家摄影队独有的两会时间",
+        "onboard_time": 1773466222,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 440390,
+        "num": 144681,
+        "word": "田曦薇张凌赫经纪人依旧纯恨中",
+        "onboard_time": 1773454279,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362785,
+        "num": 141426,
+        "word": "林依晨谈做脑部手术经历",
+        "onboard_time": 1773465980,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309606,
+        "num": 136055,
+        "word": "25岁硕士曝光剧本直播间被死亡威胁",
+        "onboard_time": 1773465561,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178874,
+        "num": 130924,
+        "word": "孙杨张豆豆俄罗斯街头牵手举高高",
+        "onboard_time": 1773464300,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129836,
+        "num": 129836,
+        "word": "人民大会堂的热水瓶用了30年",
+        "onboard_time": 1773450680,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 120528,
+        "num": 120528,
+        "word": "温瑞博4比2战胜邱党",
+        "onboard_time": 1773465322,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68698,
+        "num": 117080,
+        "word": "315调查眼镜到底有多暴利",
+        "onboard_time": 1773468021,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 116992,
+        "num": 116992,
+        "word": "女孩用胡萝卜啃出70cm高黄鹤楼",
+        "onboard_time": 1773453500,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46370,
+        "num": 114885,
+        "word": "刘耀文把宋亚轩认成丁程鑫",
+        "onboard_time": 1773464961,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48823,
+        "num": 114568,
+        "word": "多花1.5万买的智驾版不如普通版",
+        "onboard_time": 1773467900,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180416,
+        "num": 114566,
+        "word": "第31届白玉兰奖",
+        "onboard_time": 1773453139,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114523,
+        "num": 114523,
+        "word": "怪不得有人做饭这么好吃",
+        "onboard_time": 1773467780,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175101,
+        "num": 112525,
+        "word": "杨幂赵丽颖 白玉兰",
+        "onboard_time": 1773448459,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109277,
+        "num": 109277,
+        "word": "多方回应火锅店老板砍伤广场舞人群",
+        "onboard_time": 1773463040,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 103688,
+        "num": 103688,
+        "word": "15岁男孩嘴歪发现智齿长到眼窝里",
+        "onboard_time": 1773468201,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33030,
+        "num": 103428,
+        "word": "余承东AWE现场解读MateX7新体验",
+        "onboard_time": 1773468201,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103238,
+        "num": 103238,
+        "word": "鞠婧祎杂志开售",
+        "onboard_time": 1773455781,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101230,
+        "num": 101230,
+        "word": "省考图推",
+        "onboard_time": 1773458540,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100285,
+        "num": 100285,
+        "word": "伊朗30枚超重导弹袭击以色列",
+        "onboard_time": 1773434055,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98253,
+        "num": 98253,
+        "word": "我们的少年时代2",
+        "onboard_time": 1773454820,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104191,
+        "num": 96471,
+        "word": "第一个用羽毛做假睫毛的是天才",
+        "onboard_time": 1773467540,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 92755,
+        "num": 95380,
+        "word": "申论",
+        "onboard_time": 1773459800,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94314,
+        "num": 94314,
+        "word": "沈月大大方方聊生理期不适",
+        "onboard_time": 1773464540,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94074,
+        "num": 94074,
+        "word": "吴艳妮为拉塞尔颁奖",
+        "onboard_time": 1773467422,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92954,
+        "num": 92954,
+        "word": "我妈做饭vs我做饭",
+        "onboard_time": 1773466822,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90124,
+        "num": 90124,
+        "word": "刘昊然周冬雨同款帽子",
+        "onboard_time": 1773461960,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85146,
+        "num": 85146,
+        "word": "原来被老天爷追着喂饭是这样",
+        "onboard_time": 1773453139,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 75657,
+        "num": 83511,
+        "word": "王鹤棣 邵子恒一字一句都在杀我",
+        "onboard_time": 1773468319,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83411,
+        "num": 83411,
+        "word": "王艺迪希望申裕斌没事",
+        "onboard_time": 1773467600,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46606,
+        "num": 83176,
+        "word": "买二手苹果标称无拆修实则哪都动过",
+        "onboard_time": 1773467900,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 80524,
+        "num": 83125,
+        "word": "女足",
+        "onboard_time": 1773467721,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83089,
+        "num": 83089,
+        "word": "弟弟的脐带血15年后救了哥哥",
+        "onboard_time": 1773444617,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81077,
+        "num": 81077,
+        "word": "中国女足vs中国台北女足",
+        "onboard_time": 1773467600,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79741,
+        "num": 79741,
+        "word": "肖战就这样水灵灵路过",
+        "onboard_time": 1773468319,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75902,
+        "num": 75902,
+        "word": "男子狂扇自己称后悔花10万再婚",
+        "onboard_time": 1773455601,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74963,
+        "num": 74963,
+        "word": "买书挂到专家号了",
+        "onboard_time": 1773468021,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44814,
+        "num": 74397,
+        "word": "火了就散伙是组合的必经之路吗",
+        "onboard_time": 1773464900,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39126,
+        "num": 73988,
+        "word": "爱优腾芒果2026年头部大剧",
+        "onboard_time": 1773468141,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73880,
+        "num": 73880,
+        "word": "拉塞尔夺F1中国站冲刺赛冠军",
+        "onboard_time": 1773460160,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73641,
+        "num": 73641,
+        "word": "俞灏明怕苏醒靠陆虎开路虎",
+        "onboard_time": 1773464840,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共赴新程之约#"
+    }
+  }
+}

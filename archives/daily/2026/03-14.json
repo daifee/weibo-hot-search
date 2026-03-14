@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773467643118,
+  "endTime": 1773468409273,
   "band_list": [
     {
       "raw_hot": 1328471,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 630197,
+      "num": 1100831,
+      "word": "马杜罗彻夜高喊我是总统正被虐待",
+      "onboard_time": 1773465381,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 629950,
       "num": 133408,
       "word": "2026白玉兰提名名单预测",
@@ -57,14 +65,6 @@
       "onboard_time": 1773407301,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 546686,
-      "num": 1087469,
-      "word": "马杜罗彻夜高喊我是总统正被虐待",
-      "onboard_time": 1773465381,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 512458,
@@ -387,12 +387,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202767,
+      "num": 202767,
+      "word": "女子错转23万给老赖无法追回",
+      "onboard_time": 1773466581,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197150,
       "num": 167021,
       "word": "孙杨张豆豆俄罗斯街头牵手举高高",
       "onboard_time": 1773464300,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196094,
+      "num": 196094,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1773466222,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 195558,
@@ -691,6 +707,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 114523,
+      "num": 114523,
+      "word": "怪不得有人做饭这么好吃",
+      "onboard_time": 1773467780,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113270,
       "num": 113270,
       "word": "余秀华曾抑郁半个月无法下床",
@@ -705,14 +729,6 @@
       "onboard_time": 1773454519,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111952,
-      "num": 111952,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1773466222,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 108840,
@@ -745,6 +761,14 @@
       "onboard_time": 1773466822,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103688,
+      "num": 103688,
+      "word": "15岁男孩嘴歪发现智齿长到眼窝里",
+      "onboard_time": 1773468201,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 101881,
@@ -825,6 +849,14 @@
       "onboard_time": 1773421398,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94074,
+      "num": 94074,
+      "word": "吴艳妮为拉塞尔颁奖",
+      "onboard_time": 1773467422,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 93478,
@@ -923,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85753,
-      "num": 85753,
-      "word": "吴艳妮为拉塞尔颁奖",
-      "onboard_time": 1773467422,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 84672,
       "num": 84672,
       "word": "王艺迪希望申裕斌没事",
@@ -971,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80524,
+      "num": 83125,
+      "word": "女足",
+      "onboard_time": 1773467721,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80481,
       "num": 80481,
       "word": "被丢弃厕所女婴母亲愧疚没保护好女儿",
@@ -987,12 +1019,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 78635,
-      "num": 121828,
-      "word": "女子错转23万给老赖无法追回",
-      "onboard_time": 1773466581,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 79741,
+      "num": 79741,
+      "word": "肖战就这样水灵灵路过",
+      "onboard_time": 1773468319,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 78442,
@@ -1027,12 +1059,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75657,
+      "num": 83511,
+      "word": "王鹤棣 邵子恒一字一句都在杀我",
+      "onboard_time": 1773468319,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75175,
       "num": 98543,
       "word": "懒人冰箱",
       "onboard_time": 1773415942,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 74963,
+      "num": 74963,
+      "word": "买书挂到专家号了",
+      "onboard_time": 1773468021,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73641,
+      "num": 73641,
+      "word": "俞灏明怕苏醒靠陆虎开路虎",
+      "onboard_time": 1773464840,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 73418,
@@ -1105,6 +1161,14 @@
       "onboard_time": 1773416542,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68698,
+      "num": 117080,
+      "word": "315调查眼镜到底有多暴利",
+      "onboard_time": 1773468021,
+      "rank": 16,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 67585,
@@ -1283,6 +1347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 48823,
+      "num": 114568,
+      "word": "多花1.5万买的智驾版不如普通版",
+      "onboard_time": 1773467900,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48355,
       "num": 315791,
       "word": "直播间卖200元抗癌药实为糖果",
@@ -1331,20 +1403,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46606,
+      "num": 83176,
+      "word": "买二手苹果标称无拆修实则哪都动过",
+      "onboard_time": 1773467900,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 46370,
+      "num": 114885,
+      "word": "刘耀文把宋亚轩认成丁程鑫",
+      "onboard_time": 1773464961,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45760,
       "num": 157924,
       "word": "宋雨琦是懂白色情人节的",
       "onboard_time": 1773461361,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45327,
-      "num": 87930,
-      "word": "刘耀文把宋亚轩认成丁程鑫",
-      "onboard_time": 1773464961,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 44264,
@@ -1377,6 +1457,14 @@
       "onboard_time": 1773404241,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 39126,
+      "num": 73988,
+      "word": "爱优腾芒果2026年头部大剧",
+      "onboard_time": 1773468141,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 38916,
@@ -1425,6 +1513,14 @@
       "onboard_time": 1773457222,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33030,
+      "num": 103428,
+      "word": "余承东AWE现场解读MateX7新体验",
+      "onboard_time": 1773468201,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 32616,
@@ -1548,7 +1644,7 @@
     },
     {
       "raw_hot": 21252,
-      "num": 152341,
+      "num": 153761,
       "word": "国家摄影队独有的两会时间",
       "onboard_time": 1773466222,
       "rank": 9,
