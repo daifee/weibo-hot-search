@@ -1,0 +1,410 @@
+{
+  "runTime": 1773494927897,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1345116,
+        "num": 1345116,
+        "word": "王楚钦2比4松岛辉空",
+        "onboard_time": 1773492144,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324654,
+        "num": 861519,
+        "word": "央视315晚会点了4个领域",
+        "onboard_time": 1773476361,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 35769,
+        "num": 702455,
+        "word": "十五五民生红包",
+        "onboard_time": 1773492803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230136,
+        "num": 230136,
+        "word": "生菜是最伟大的蔬菜",
+        "onboard_time": 1773479301,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213670,
+        "num": 213670,
+        "word": "王楚钦从1比7到11比8",
+        "onboard_time": 1773493942,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280213,
+        "num": 213640,
+        "word": "第一次被一个柜子惊艳到",
+        "onboard_time": 1773492922,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204594,
+        "num": 204594,
+        "word": "刘文祥麻辣烫回应鸭肉当猪肉牛肉卖",
+        "onboard_time": 1773492742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174053,
+        "num": 203120,
+        "word": "315调查眼镜到底有多暴利",
+        "onboard_time": 1773468021,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 237464,
+        "num": 200342,
+        "word": "逐玉预告",
+        "onboard_time": 1773491961,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60514,
+        "num": 197265,
+        "word": "人民大会堂的同款老式热水瓶已停产",
+        "onboard_time": 1773486023,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 511334,
+        "num": 193508,
+        "word": "黄子弘凡鸟巢上座率",
+        "onboard_time": 1773488961,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232624,
+        "num": 191701,
+        "word": "美国急于退场以色列还想硬刚",
+        "onboard_time": 1773483860,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211671,
+        "num": 188432,
+        "word": "林依晨称因熬夜和压力患脑部囊肿",
+        "onboard_time": 1773485841,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186115,
+        "num": 186115,
+        "word": "女孩长期便血以为是痔疮结果是癌症",
+        "onboard_time": 1773482481,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184125,
+        "num": 184125,
+        "word": "女子称顺产分娩时直肠被切漏",
+        "onboard_time": 1773489803,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171267,
+        "num": 171267,
+        "word": "肖战朱一龙易烊千玺提名cmg影帝",
+        "onboard_time": 1773487461,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164093,
+        "num": 164093,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1773490882,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159805,
+        "num": 159805,
+        "word": "伊朗称袭击美军中东三大军事基地",
+        "onboard_time": 1773487221,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116822,
+        "num": 159805,
+        "word": "王楚钦重庆赛止步八强",
+        "onboard_time": 1773493942,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108279,
+        "num": 159690,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1773489563,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 799276,
+        "num": 159654,
+        "word": "王冕官宣生子",
+        "onboard_time": 1773484401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94244,
+        "num": 159556,
+        "word": "男子投诉10分钟后隐私被扒得底朝天",
+        "onboard_time": 1773486741,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430631,
+        "num": 159526,
+        "word": "一栗小莎子近况",
+        "onboard_time": 1773490042,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 340734,
+        "num": 159435,
+        "word": "孔雪儿邓凯浴池戏",
+        "onboard_time": 1773488003,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92484,
+        "num": 159400,
+        "word": "豹豹原来是汗脚",
+        "onboard_time": 1773483860,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273060,
+        "num": 159301,
+        "word": "逐玉 肛泰别闹了",
+        "onboard_time": 1773477622,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179333,
+        "num": 159286,
+        "word": "TOP直播",
+        "onboard_time": 1773488903,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86771,
+        "num": 159220,
+        "word": "冰箱贴一直不挪会伤害冰箱",
+        "onboard_time": 1773478881,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262276,
+        "num": 159133,
+        "word": "谢征替樊长玉受罚",
+        "onboard_time": 1773489922,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87072,
+        "num": 159099,
+        "word": "李宇春裸背红裙",
+        "onboard_time": 1773494842,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86360,
+        "num": 159022,
+        "word": "被丢弃厕所女婴含泪抱住妈妈",
+        "onboard_time": 1773478582,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231775,
+        "num": 158933,
+        "word": "逐玉",
+        "onboard_time": 1773483202,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127027,
+        "num": 158903,
+        "word": "金道勋ana互动",
+        "onboard_time": 1773488781,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85747,
+        "num": 158840,
+        "word": "伊朗发起第49波打击",
+        "onboard_time": 1773493160,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96456,
+        "num": 158793,
+        "word": "田曦薇20秒无台词情绪戏",
+        "onboard_time": 1773493823,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93351,
+        "num": 158712,
+        "word": "薛凯琪 我活着也不要做活死人",
+        "onboard_time": 1773491842,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77782,
+        "num": 158623,
+        "word": "省考申论",
+        "onboard_time": 1773478281,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 92967,
+        "num": 158583,
+        "word": "陆仙人回应整容",
+        "onboard_time": 1773479661,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74161,
+        "num": 158528,
+        "word": "伊方称结束战争有两个条件",
+        "onboard_time": 1773486741,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72202,
+        "num": 158425,
+        "word": "申论大作文",
+        "onboard_time": 1773479602,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67090,
+        "num": 158374,
+        "word": "中国女篮vs南苏丹女篮",
+        "onboard_time": 1773492443,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66092,
+        "num": 158303,
+        "word": "黄子弘凡坐飞机绕场鸟巢",
+        "onboard_time": 1773493103,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63895,
+        "num": 158246,
+        "word": "樊振东赛季首冠纪录片",
+        "onboard_time": 1773493942,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62445,
+        "num": 158185,
+        "word": "周深翻唱TaylorSwift的CruelSummer",
+        "onboard_time": 1773492322,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61463,
+        "num": 158149,
+        "word": "陈熠3比4大藤沙月",
+        "onboard_time": 1773489500,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59642,
+        "num": 158070,
+        "word": "云南花香蓝莓",
+        "onboard_time": 1773472041,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 57528,
+        "num": 157989,
+        "word": "DYG选马可",
+        "onboard_time": 1773493281,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55641,
+        "num": 157932,
+        "word": "央视曝光纯骗版医美",
+        "onboard_time": 1773493702,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55344,
+        "num": 157846,
+        "word": "猫咪不应该都是身手矫健的吗",
+        "onboard_time": 1773494782,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53880,
+        "num": 157834,
+        "word": "你好星期六",
+        "onboard_time": 1773490281,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着总书记的嘱托一起出发#"
+    }
+  }
+}
