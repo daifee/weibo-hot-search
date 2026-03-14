@@ -1,0 +1,410 @@
+{
+  "runTime": 1773463770338,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1328471,
+        "num": 1328471,
+        "word": "省考",
+        "onboard_time": 1773444678,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 493470,
+        "num": 900363,
+        "word": "省考图推",
+        "onboard_time": 1773458540,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20268,
+        "num": 675330,
+        "word": "十五五向你发出奋斗邀请",
+        "onboard_time": 1773444378,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 284638,
+        "num": 284638,
+        "word": "申论",
+        "onboard_time": 1773459800,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 277796,
+        "num": 277796,
+        "word": "丰巢超时收5毛钱恶心又得咽下",
+        "onboard_time": 1773459200,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 223730,
+        "num": 223730,
+        "word": "伊朗30枚超重导弹袭击以色列",
+        "onboard_time": 1773434055,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214223,
+        "num": 214223,
+        "word": "河南省考图推",
+        "onboard_time": 1773459381,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214150,
+        "num": 214150,
+        "word": "何炅逞能公主抱导致肩伤",
+        "onboard_time": 1773461480,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59577,
+        "num": 214084,
+        "word": "两名中国公民在澳大利亚洪灾中遇难",
+        "onboard_time": 1773462681,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41331,
+        "num": 214039,
+        "word": "成为中国人何以海外出圈",
+        "onboard_time": 1773455478,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 691050,
+        "num": 213887,
+        "word": "田曦薇张凌赫经纪人依旧纯恨中",
+        "onboard_time": 1773454279,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2780,
+        "num": 213824,
+        "word": "人大代表支招小单方治大病",
+        "onboard_time": 1773360019,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213740,
+        "num": 213740,
+        "word": "省考答案",
+        "onboard_time": 1773458960,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183865,
+        "num": 183865,
+        "word": "男子狂扇自己称后悔花10万再婚",
+        "onboard_time": 1773455601,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177177,
+        "num": 177177,
+        "word": "妻子的浪漫旅行8路透",
+        "onboard_time": 1773457821,
+        "rank": 14,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 167703,
+        "num": 167703,
+        "word": "弟弟的脐带血15年后救了哥哥",
+        "onboard_time": 1773444617,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164249,
+        "num": 164249,
+        "word": "刘昊然周冬雨同款帽子",
+        "onboard_time": 1773461960,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30962,
+        "num": 162886,
+        "word": "享界粉白新色亮相上海AWE",
+        "onboard_time": 1773462980,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 65638,
+        "num": 161904,
+        "word": "春天是洞洞鞋的统治区",
+        "onboard_time": 1773461300,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 41153,
+        "num": 157924,
+        "word": "宋雨琦是懂白色情人节的",
+        "onboard_time": 1773461361,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495117,
+        "num": 157026,
+        "word": "第31届白玉兰奖",
+        "onboard_time": 1773453139,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155687,
+        "num": 155687,
+        "word": "原神",
+        "onboard_time": 1773461662,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288783,
+        "num": 153374,
+        "word": "杨幂赵丽颖 白玉兰",
+        "onboard_time": 1773448459,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254653,
+        "num": 152904,
+        "word": "我们的少年时代2",
+        "onboard_time": 1773454820,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149397,
+        "num": 149397,
+        "word": "人民大会堂的热水瓶用了30年",
+        "onboard_time": 1773450680,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 149920,
+        "num": 149103,
+        "word": "鞠婧祎杂志开售",
+        "onboard_time": 1773455781,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148035,
+        "num": 148035,
+        "word": "省考 没有上岸的风险",
+        "onboard_time": 1773461480,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147935,
+        "num": 147935,
+        "word": "省考弃考率显著下降",
+        "onboard_time": 1773462140,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134598,
+        "num": 134598,
+        "word": "拉塞尔夺F1中国站冲刺赛冠军",
+        "onboard_time": 1773460160,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134158,
+        "num": 134158,
+        "word": "严屹宽 别让老霸总演这些",
+        "onboard_time": 1773455300,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159674,
+        "num": 133668,
+        "word": "申论考100分就能上岸了",
+        "onboard_time": 1773463222,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 8968,
+        "num": 123791,
+        "word": "周云杰家电界最严厉的父亲",
+        "onboard_time": 1773463642,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121669,
+        "num": 121669,
+        "word": "湖北省考",
+        "onboard_time": 1773458481,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121649,
+        "num": 121649,
+        "word": "女孩用胡萝卜啃出70cm高黄鹤楼",
+        "onboard_time": 1773453500,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120804,
+        "num": 120804,
+        "word": "你对白开水的态度belike",
+        "onboard_time": 1773462020,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119401,
+        "num": 119401,
+        "word": "河北省考 行测好难",
+        "onboard_time": 1773459140,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118543,
+        "num": 118543,
+        "word": "被丢弃厕所女婴生母感谢养母",
+        "onboard_time": 1773457940,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113270,
+        "num": 113270,
+        "word": "余秀华曾抑郁半个月无法下床",
+        "onboard_time": 1773463222,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 108840,
+        "num": 108840,
+        "word": "白玉兰 85花",
+        "onboard_time": 1773462681,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103051,
+        "num": 103051,
+        "word": "原来被老天爷追着喂饭是这样",
+        "onboard_time": 1773453139,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 32250,
+        "num": 102075,
+        "word": "14年后好声音顶流们现在怎么样了",
+        "onboard_time": 1773462321,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101881,
+        "num": 101881,
+        "word": "辽宁行测",
+        "onboard_time": 1773459381,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100863,
+        "num": 100863,
+        "word": "行测",
+        "onboard_time": 1773458241,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98705,
+        "num": 98705,
+        "word": "王艺迪4比3申裕斌",
+        "onboard_time": 1773463280,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98341,
+        "num": 98341,
+        "word": "省考数量",
+        "onboard_time": 1773459140,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98194,
+        "num": 98194,
+        "word": "省考 比国考难",
+        "onboard_time": 1773463460,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98062,
+        "num": 98062,
+        "word": "多方回应火锅店老板砍伤广场舞人群",
+        "onboard_time": 1773463040,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 92855,
+        "num": 92855,
+        "word": "安徽省考",
+        "onboard_time": 1773458720,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 92205,
+        "num": 92205,
+        "word": "山西行测",
+        "onboard_time": 1773463521,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91335,
+        "num": 91335,
+        "word": "当派对主题是穿错衣服",
+        "onboard_time": 1773463521,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#共赴新程之约#"
+    }
+  }
+}
