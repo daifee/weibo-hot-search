@@ -1,7 +1,15 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773468409273,
+  "endTime": 1773471568593,
   "band_list": [
+    {
+      "raw_hot": 1455304,
+      "num": 112806,
+      "word": "王鹤润王玉雯 反转",
+      "onboard_time": 1773469341,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1328471,
       "num": 1328471,
@@ -115,6 +123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 472690,
+      "num": 1075630,
+      "word": "孙颖莎2比4蒯曼",
+      "onboard_time": 1773469460,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 462902,
       "num": 462902,
       "word": "苏醒为胡辣汤事件道歉",
@@ -139,8 +155,24 @@
       "category": "电影"
     },
     {
+      "raw_hot": 403125,
+      "num": 769073,
+      "word": "315调查眼镜到底有多暴利",
+      "onboard_time": 1773468021,
+      "rank": 16,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 393758,
+      "num": 184022,
+      "word": "爸爸给被丢弃厕所女儿准备金手镯",
+      "onboard_time": 1773468620,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389953,
-      "num": 151640,
+      "num": 180475,
       "word": "林依晨谈做脑部手术经历",
       "onboard_time": 1773465980,
       "rank": 10,
@@ -187,8 +219,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 320428,
+      "num": 320428,
+      "word": "孙颖莎vs蒯曼",
+      "onboard_time": 1773466222,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313091,
-      "num": 149534,
+      "num": 176072,
       "word": "25岁硕士曝光剧本直播间被死亡威胁",
       "onboard_time": 1773465561,
       "rank": 12,
@@ -275,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271429,
+      "num": 271429,
+      "word": "谢征没有言正帅 谁上班谁知道",
+      "onboard_time": 1773469282,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266393,
       "num": 266393,
       "word": "女孩用胡萝卜啃出70cm高黄鹤楼",
@@ -331,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231889,
+      "num": 231889,
+      "word": "怪不得有人做饭这么好吃",
+      "onboard_time": 1773467780,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230810,
       "num": 562554,
       "word": "白玉兰视后大年",
@@ -379,6 +435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213090,
+      "num": 213090,
+      "word": "谢征收到了和离书",
+      "onboard_time": 1773469161,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210330,
       "num": 210330,
       "word": "申论考100分就能上岸了",
@@ -401,14 +465,6 @@
       "onboard_time": 1773464300,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196094,
-      "num": 196094,
-      "word": "孙颖莎vs蒯曼",
-      "onboard_time": 1773466222,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 195558,
@@ -435,12 +491,28 @@
       "category": "综艺,剧集"
     },
     {
+      "raw_hot": 175914,
+      "num": 175914,
+      "word": "15岁男孩嘴歪发现智齿长到眼窝里",
+      "onboard_time": 1773468201,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 172176,
       "num": 172176,
       "word": "把本侯的女儿毫发无伤地带回来",
       "onboard_time": 1773454219,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170674,
+      "num": 170674,
+      "word": "王一博给品牌发title",
+      "onboard_time": 1773471080,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 170427,
@@ -483,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161091,
+      "num": 161091,
+      "word": "王鹤棣新歌歌词",
+      "onboard_time": 1773470722,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160519,
       "num": 696415,
       "word": "省考 紧张",
       "onboard_time": 1773413482,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158770,
+      "num": 112698,
+      "word": "赵丽颖已经三提白玉兰了",
+      "onboard_time": 1773469581,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 155978,
@@ -505,6 +593,14 @@
       "onboard_time": 1773461662,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155299,
+      "num": 104736,
+      "word": "蒯曼回应4比2孙颖莎",
+      "onboard_time": 1773471200,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 154138,
@@ -651,6 +747,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 123013,
+      "num": 107636,
+      "word": "上海F1偶遇关晓彤",
+      "onboard_time": 1773469941,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121669,
       "num": 121669,
       "word": "湖北省考",
@@ -691,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118023,
+      "num": 106731,
+      "word": "伊能静秦昊秀恩爱不管孙杨死活",
+      "onboard_time": 1773470182,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117407,
       "num": 117407,
       "word": "吉林省考",
@@ -705,14 +817,6 @@
       "onboard_time": 1773463040,
       "rank": 46,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 114523,
-      "num": 114523,
-      "word": "怪不得有人做饭这么好吃",
-      "onboard_time": 1773467780,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 113270,
@@ -731,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111596,
+      "num": 111596,
+      "word": "打赏女主播167万发现已婚起诉退款",
+      "onboard_time": 1773469341,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108840,
       "num": 108840,
       "word": "白玉兰 85花",
@@ -745,6 +857,14 @@
       "onboard_time": 1773453980,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106825,
+      "num": 106825,
+      "word": "中国女足vs中国台北女足",
+      "onboard_time": 1773467600,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 104718,
@@ -763,14 +883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103688,
-      "num": 103688,
-      "word": "15岁男孩嘴歪发现智齿长到眼窝里",
-      "onboard_time": 1773468201,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 101881,
       "num": 101881,
       "word": "辽宁行测",
@@ -785,6 +897,14 @@
       "onboard_time": 1773457222,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 101039,
+      "num": 101039,
+      "word": "耳帝说内娱音综彻底放下身段了",
+      "onboard_time": 1773467422,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 100863,
@@ -833,6 +953,14 @@
       "onboard_time": 1773459140,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 98085,
+      "num": 98085,
+      "word": "WB对战JDG",
+      "onboard_time": 1773470120,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 97538,
@@ -891,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90809,
+      "num": 90809,
+      "word": "孙颖莎止步八强",
+      "onboard_time": 1773471020,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89170,
       "num": 89170,
       "word": "孔雪儿邓凯白色情人节大片",
@@ -947,20 +1083,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85771,
-      "num": 85771,
-      "word": "中国女足vs中国台北女足",
-      "onboard_time": 1773467600,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 84672,
       "num": 84672,
       "word": "王艺迪希望申裕斌没事",
       "onboard_time": 1773467600,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84669,
+      "num": 84669,
+      "word": "美国凭啥从委内瑞拉搬走1亿美元黄金",
+      "onboard_time": 1773471500,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83742,
@@ -979,12 +1115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81364,
-      "num": 83291,
-      "word": "耳帝说内娱音综彻底放下身段了",
-      "onboard_time": 1773467422,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 81234,
+      "num": 81234,
+      "word": "清明节放假安排来了",
+      "onboard_time": 1773470241,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80895,
@@ -1001,6 +1137,14 @@
       "onboard_time": 1773467721,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80489,
+      "num": 80489,
+      "word": "下次我就这样装修",
+      "onboard_time": 1773470962,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 80481,
@@ -1033,6 +1177,14 @@
       "onboard_time": 1773448818,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78275,
+      "num": 78275,
+      "word": "为什么用脏话写代码",
+      "onboard_time": 1773471020,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 77205,
@@ -1083,8 +1235,24 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74651,
+      "num": 74651,
+      "word": "15岁男孩智齿长到眼窝里妈妈发声",
+      "onboard_time": 1773471440,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 74546,
+      "num": 106172,
+      "word": "逛华为展看鸿蒙车",
+      "onboard_time": 1773471080,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73641,
-      "num": 73641,
+      "num": 85169,
       "word": "俞灏明怕苏醒靠陆虎开路虎",
       "onboard_time": 1773464840,
       "rank": 49,
@@ -1161,14 +1329,6 @@
       "onboard_time": 1773416542,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68698,
-      "num": 117080,
-      "word": "315调查眼镜到底有多暴利",
-      "onboard_time": 1773468021,
-      "rank": 16,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 67585,
@@ -1451,6 +1611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40678,
+      "num": 98957,
+      "word": "刘耀文叫王俊凯必带师兄",
+      "onboard_time": 1773465322,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39859,
       "num": 38460,
       "word": "穿prada的女王2 小时代",
@@ -1481,6 +1649,14 @@
       "onboard_time": 1773457580,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 36813,
+      "num": 84679,
+      "word": "公厕的蹲坑和马桶究竟哪个更脏",
+      "onboard_time": 1773470541,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36450,
@@ -1516,7 +1692,7 @@
     },
     {
       "raw_hot": 33030,
-      "num": 103428,
+      "num": 113949,
       "word": "余承东AWE现场解读MateX7新体验",
       "onboard_time": 1773468201,
       "rank": 25,
@@ -1553,6 +1729,14 @@
       "onboard_time": 1773462980,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 30592,
+      "num": 84692,
+      "word": "20余省份公务员省考今举行",
+      "onboard_time": 1773471500,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 28288,
@@ -1627,6 +1811,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25853,
+      "num": 281533,
+      "word": "国家摄影队独有的两会时间",
+      "onboard_time": 1773466222,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 24603,
+      "num": 108619,
+      "word": "猫头鹰白鹇等保护动物变成挂售野味",
+      "onboard_time": 1773470302,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 23854,
       "num": 27510,
       "word": "十五五规划",
@@ -1641,14 +1841,6 @@
       "onboard_time": 1773466701,
       "rank": 38,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 21252,
-      "num": 153761,
-      "word": "国家摄影队独有的两会时间",
-      "onboard_time": 1773466222,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20912,
