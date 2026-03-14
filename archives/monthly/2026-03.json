@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773517744944,
+  "endTime": 1773520674210,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -37193,6 +37193,14 @@
       "onboard_time": 1773343994,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13252,
+      "num": 14319,
+      "word": "年度剧情电影男演员提名",
+      "onboard_time": 1773517934,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 13235,
