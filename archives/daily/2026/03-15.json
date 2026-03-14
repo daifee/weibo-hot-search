@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773506500059,
+  "endTime": 1773507419380,
   "band_list": [
     {
       "raw_hot": 600463,
@@ -35,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259230,
+      "raw_hot": 269834,
       "num": 182121,
       "word": "上海F1最惨小孩哥",
       "onboard_time": 1773503901,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 206514,
-      "num": 206514,
+      "num": 468917,
       "word": "谢征试探长玉",
       "onboard_time": 1773499942,
       "rank": 3,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109280,
+      "num": 109280,
+      "word": "李昀锐宋雨琦晚宴表演",
+      "onboard_time": 1773507259,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105907,
       "num": 105907,
       "word": "金道勋ana互动",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 66240,
-      "num": 105822,
+      "num": 107637,
       "word": "虞书欣张云龙cha",
       "onboard_time": 1773504500,
       "rank": 34,
@@ -299,7 +307,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54540,
+      "raw_hot": 54793,
       "num": 105681,
       "word": "黄子弘凡鸟巢上座率",
       "onboard_time": 1773488961,
@@ -371,6 +379,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43093,
+      "num": 96202,
+      "word": "女篮世界杯资格赛",
+      "onboard_time": 1773506959,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42061,
+      "num": 96110,
+      "word": "我家那小子",
+      "onboard_time": 1773497243,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41737,
       "num": 105676,
       "word": "陕西人赌上尊严的一场比赛",
@@ -393,6 +417,22 @@
       "onboard_time": 1773500183,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40459,
+      "num": 96063,
+      "word": "一栗小莎子近况",
+      "onboard_time": 1773490042,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 37056,
+      "num": 96033,
+      "word": "一笙钟馗吓哭了",
+      "onboard_time": 1773507140,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 22485,
