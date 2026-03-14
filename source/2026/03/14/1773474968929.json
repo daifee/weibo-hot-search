@@ -1,0 +1,410 @@
+{
+  "runTime": 1773474968929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 599586,
+        "num": 1095933,
+        "word": "315调查眼镜到底有多暴利",
+        "onboard_time": 1773468021,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 226073,
+        "num": 783253,
+        "word": "孙颖莎2比4蒯曼",
+        "onboard_time": 1773469460,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7091,
+        "num": 616729,
+        "word": "十五五规划纲要全文",
+        "onboard_time": 1773409643,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378927,
+        "num": 378927,
+        "word": "王鹤棣新歌歌词",
+        "onboard_time": 1773470722,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21415,
+        "num": 356725,
+        "word": "国家摄影队独有的两会时间",
+        "onboard_time": 1773466222,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 340167,
+        "num": 340167,
+        "word": "云南花香蓝莓",
+        "onboard_time": 1773472041,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 221797,
+        "num": 221797,
+        "word": "谢征收到了和离书",
+        "onboard_time": 1773469161,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217157,
+        "num": 217157,
+        "word": "美国凭啥从委内瑞拉搬走1亿美元黄金",
+        "onboard_time": 1773471500,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187084,
+        "num": 217075,
+        "word": "蒯曼回应4比2孙颖莎",
+        "onboard_time": 1773471200,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160758,
+        "num": 210270,
+        "word": "赵丽颖已经三提白玉兰了",
+        "onboard_time": 1773469581,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308170,
+        "num": 208180,
+        "word": "霍尔木兹封锁日本最先扛不住了",
+        "onboard_time": 1773473603,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 308160,
+        "num": 203283,
+        "word": "爸爸给被丢弃厕所女儿准备金手镯",
+        "onboard_time": 1773468620,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225283,
+        "num": 199278,
+        "word": "马思纯发文",
+        "onboard_time": 1773472099,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196457,
+        "num": 196457,
+        "word": "富二代为情人落户雇人假结婚",
+        "onboard_time": 1773473060,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195327,
+        "num": 195327,
+        "word": "田曦薇张凌赫经纪人依旧纯恨中",
+        "onboard_time": 1773454279,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165231,
+        "num": 165231,
+        "word": "上海F1偶遇关晓彤",
+        "onboard_time": 1773469941,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157213,
+        "num": 157213,
+        "word": "女足",
+        "onboard_time": 1773467721,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154626,
+        "num": 154626,
+        "word": "怪不得有人做饭这么好吃",
+        "onboard_time": 1773467780,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143750,
+        "num": 143750,
+        "word": "王一博给品牌发title",
+        "onboard_time": 1773471080,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301664,
+        "num": 142866,
+        "word": "谢征没有言正帅 谁上班谁知道",
+        "onboard_time": 1773469282,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140173,
+        "num": 140173,
+        "word": "中国女足vs中国台北女足",
+        "onboard_time": 1773467600,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120028,
+        "num": 120028,
+        "word": "中国女足1比0中国台北",
+        "onboard_time": 1773474141,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115348,
+        "num": 115348,
+        "word": "关晓彤程潇F1观赛造型",
+        "onboard_time": 1773472941,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 112910,
+        "num": 112910,
+        "word": "15岁男孩嘴歪发现智齿长到眼窝里",
+        "onboard_time": 1773468201,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112578,
+        "num": 112578,
+        "word": "林依晨谈做脑部手术经历",
+        "onboard_time": 1773465980,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111345,
+        "num": 111345,
+        "word": "25岁硕士曝光剧本直播间被死亡威胁",
+        "onboard_time": 1773465561,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110027,
+        "num": 110027,
+        "word": "清明节放假安排来了",
+        "onboard_time": 1773470241,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97304,
+        "num": 97304,
+        "word": "打赏女主播167万发现已婚起诉退款",
+        "onboard_time": 1773469341,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96942,
+        "num": 96942,
+        "word": "外卖到了白鹿就这样跑步迎接",
+        "onboard_time": 1773472941,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77155,
+        "num": 95515,
+        "word": "逛华为展看鸿蒙车",
+        "onboard_time": 1773471080,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 95274,
+        "num": 95274,
+        "word": "孔雪儿 只想演强制爱",
+        "onboard_time": 1773472881,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92538,
+        "num": 92538,
+        "word": "第31届白玉兰奖",
+        "onboard_time": 1773453139,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83230,
+        "num": 89627,
+        "word": "如何把一家人情绪价值都拉满",
+        "onboard_time": 1773474201,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86729,
+        "num": 86729,
+        "word": "伊能静秦昊秀恩爱不管孙杨死活",
+        "onboard_time": 1773470182,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85311,
+        "num": 85311,
+        "word": "苏醒为胡辣汤事件道歉",
+        "onboard_time": 1773465081,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9644,
+        "num": 83061,
+        "word": "两会结束国务院立刻行动",
+        "onboard_time": 1773474860,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81971,
+        "num": 81971,
+        "word": "唐嫣刺绣吊带裙",
+        "onboard_time": 1773472401,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 74383,
+        "num": 74383,
+        "word": "15岁男孩智齿长到眼窝里妈妈发声",
+        "onboard_time": 1773471440,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1498298,
+        "num": 74360,
+        "word": "王鹤润王玉雯 反转",
+        "onboard_time": 1773469341,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44016,
+        "num": 73845,
+        "word": "大张伟在音乐剧被人喊闭嘴",
+        "onboard_time": 1773471741,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73606,
+        "num": 73606,
+        "word": "省考",
+        "onboard_time": 1773444678,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 73715,
+        "num": 71845,
+        "word": "哪个天才发明的减肥群",
+        "onboard_time": 1773473302,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69852,
+        "num": 69852,
+        "word": "杨幂赵丽颖 白玉兰",
+        "onboard_time": 1773448459,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68619,
+        "num": 68619,
+        "word": "官方通报12345投诉被泄露个人信息",
+        "onboard_time": 1773471679,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67062,
+        "num": 67062,
+        "word": "原神",
+        "onboard_time": 1773461662,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66736,
+        "num": 66736,
+        "word": "WB对战JDG",
+        "onboard_time": 1773470120,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62717,
+        "num": 62717,
+        "word": "鞠婧祎杂志开售",
+        "onboard_time": 1773455781,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 61742,
+        "num": 61742,
+        "word": "工资都没群聊多",
+        "onboard_time": 1773471679,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61010,
+        "num": 61010,
+        "word": "鹿晗LP专辑水敏纸封面好浪漫",
+        "onboard_time": 1773474860,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59960,
+        "num": 59960,
+        "word": "你的磁场很好天生就是富婆命",
+        "onboard_time": 1773474500,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#共赴新程之约#"
+    }
+  }
+}
