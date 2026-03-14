@@ -1,10 +1,10 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773471568593,
+  "endTime": 1773472357812,
   "band_list": [
     {
       "raw_hot": 1455304,
-      "num": 112806,
+      "num": 146777,
       "word": "王鹤润王玉雯 反转",
       "onboard_time": 1773469341,
       "rank": 20,
@@ -123,6 +123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 473461,
+      "num": 1075753,
+      "word": "315调查眼镜到底有多暴利",
+      "onboard_time": 1773468021,
+      "rank": 16,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 472690,
       "num": 1075630,
       "word": "孙颖莎2比4蒯曼",
@@ -155,16 +163,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 403125,
-      "num": 769073,
-      "word": "315调查眼镜到底有多暴利",
-      "onboard_time": 1773468021,
-      "rank": 16,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 393758,
-      "num": 184022,
+      "num": 185760,
       "word": "爸爸给被丢弃厕所女儿准备金手镯",
       "onboard_time": 1773468620,
       "rank": 11,
@@ -259,6 +259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 293511,
+      "num": 293511,
+      "word": "谢征没有言正帅 谁上班谁知道",
+      "onboard_time": 1773469282,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289793,
       "num": 509483,
       "word": "胖东来",
@@ -315,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271429,
-      "num": 271429,
-      "word": "谢征没有言正帅 谁上班谁知道",
-      "onboard_time": 1773469282,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 266393,
       "num": 266393,
       "word": "女孩用胡萝卜啃出70cm高黄鹤楼",
@@ -355,12 +355,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 251911,
+      "num": 111048,
+      "word": "蒯曼回应4比2孙颖莎",
+      "onboard_time": 1773471200,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243388,
       "num": 243388,
       "word": "第一次见女明星打出溜滑出场",
       "onboard_time": 1773440715,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241933,
+      "num": 241933,
+      "word": "怪不得有人做饭这么好吃",
+      "onboard_time": 1773467780,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 239828,
@@ -379,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231889,
-      "num": 231889,
-      "word": "怪不得有人做饭这么好吃",
-      "onboard_time": 1773467780,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 231898,
+      "num": 231898,
+      "word": "王鹤棣新歌歌词",
+      "onboard_time": 1773470722,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 230810,
@@ -392,6 +408,14 @@
       "word": "白玉兰视后大年",
       "onboard_time": 1773419239,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 221069,
+      "num": 221069,
+      "word": "谢征收到了和离书",
+      "onboard_time": 1773469161,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -433,14 +457,6 @@
       "onboard_time": 1773458960,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 213090,
-      "num": 213090,
-      "word": "谢征收到了和离书",
-      "onboard_time": 1773469161,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 210330,
@@ -555,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161091,
-      "num": 161091,
-      "word": "王鹤棣新歌歌词",
-      "onboard_time": 1773470722,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 160519,
       "num": 696415,
       "word": "省考 紧张",
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 158770,
-      "num": 112698,
+      "num": 151798,
       "word": "赵丽颖已经三提白玉兰了",
       "onboard_time": 1773469581,
       "rank": 21,
@@ -593,14 +601,6 @@
       "onboard_time": 1773461662,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155299,
-      "num": 104736,
-      "word": "蒯曼回应4比2孙颖莎",
-      "onboard_time": 1773471200,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 154138,
@@ -627,11 +627,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152605,
+      "num": 152605,
+      "word": "中国女足vs中国台北女足",
+      "onboard_time": 1773467600,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151259,
       "num": 151259,
       "word": "父亲回应女婴出生2天被爷爷丢弃厕所",
       "onboard_time": 1773405861,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150629,
+      "num": 150629,
+      "word": "打赏女主播167万发现已婚起诉退款",
+      "onboard_time": 1773469341,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -665,6 +681,22 @@
       "onboard_time": 1773465322,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147283,
+      "num": 147283,
+      "word": "伊能静秦昊秀恩爱不管孙杨死活",
+      "onboard_time": 1773470182,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137469,
+      "num": 137469,
+      "word": "上海F1偶遇关晓彤",
+      "onboard_time": 1773469941,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 137288,
@@ -739,20 +771,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127303,
+      "num": 127303,
+      "word": "女足",
+      "onboard_time": 1773467721,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123048,
       "num": 167460,
       "word": "美媒称美低估军事行动对霍尔木兹影响",
       "onboard_time": 1773436993,
       "rank": 31,
       "category": "军事"
-    },
-    {
-      "raw_hot": 123013,
-      "num": 107636,
-      "word": "上海F1偶遇关晓彤",
-      "onboard_time": 1773469941,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 121669,
@@ -795,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118023,
-      "num": 106731,
-      "word": "伊能静秦昊秀恩爱不管孙杨死活",
-      "onboard_time": 1773470182,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117407,
       "num": 117407,
       "word": "吉林省考",
@@ -835,12 +859,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111596,
-      "num": 111596,
-      "word": "打赏女主播167万发现已婚起诉退款",
-      "onboard_time": 1773469341,
-      "rank": 22,
+      "raw_hot": 112947,
+      "num": 112947,
+      "word": "清明节放假安排来了",
+      "onboard_time": 1773470241,
+      "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110321,
+      "num": 110321,
+      "word": "美国凭啥从委内瑞拉搬走1亿美元黄金",
+      "onboard_time": 1773471500,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108840,
@@ -857,14 +889,6 @@
       "onboard_time": 1773453980,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 106825,
-      "num": 106825,
-      "word": "中国女足vs中国台北女足",
-      "onboard_time": 1773467600,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 104718,
@@ -1019,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91179,
+      "num": 91179,
+      "word": "马思纯发文",
+      "onboard_time": 1773472099,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90809,
       "num": 90809,
       "word": "孙颖莎止步八强",
@@ -1083,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85803,
+      "num": 85803,
+      "word": "云南花香蓝莓",
+      "onboard_time": 1773472041,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84672,
       "num": 84672,
       "word": "王艺迪希望申裕斌没事",
@@ -1091,12 +1131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84669,
-      "num": 84669,
-      "word": "美国凭啥从委内瑞拉搬走1亿美元黄金",
-      "onboard_time": 1773471500,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 84085,
+      "num": 84085,
+      "word": "官方通报12345投诉被泄露个人信息",
+      "onboard_time": 1773471679,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83742,
@@ -1107,20 +1147,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 82659,
+      "num": 82659,
+      "word": "工资都没群聊多",
+      "onboard_time": 1773471679,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82117,
       "num": 82117,
       "word": "徐冬冬 出道没有少女期",
       "onboard_time": 1773467239,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81234,
-      "num": 81234,
-      "word": "清明节放假安排来了",
-      "onboard_time": 1773470241,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80895,
@@ -1131,12 +1171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80524,
-      "num": 83125,
-      "word": "女足",
-      "onboard_time": 1773467721,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 80678,
+      "num": 80678,
+      "word": "为什么用脏话写代码",
+      "onboard_time": 1773471020,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 80489,
@@ -1177,14 +1217,6 @@
       "onboard_time": 1773448818,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78275,
-      "num": 78275,
-      "word": "为什么用脏话写代码",
-      "onboard_time": 1773471020,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 77205,
@@ -1244,11 +1276,19 @@
     },
     {
       "raw_hot": 74546,
-      "num": 106172,
+      "num": 111354,
       "word": "逛华为展看鸿蒙车",
       "onboard_time": 1773471080,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 74376,
+      "num": 74376,
+      "word": "春游",
+      "onboard_time": 1773472281,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 73641,
@@ -1291,12 +1331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72297,
+      "num": 72297,
+      "word": "白玉兰预测",
+      "onboard_time": 1773469941,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71298,
       "num": 71298,
       "word": "邓凯晋江式演技上新了",
       "onboard_time": 1773417501,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71168,
+      "num": 71168,
+      "word": "KPL",
+      "onboard_time": 1773470120,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 71137,
@@ -1595,6 +1651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43978,
+      "num": 148106,
+      "word": "刘耀文叫王俊凯必带师兄",
+      "onboard_time": 1773465322,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42809,
       "num": 191589,
       "word": "闲鱼售卖被盗文物嫌疑人被抓",
@@ -1609,14 +1673,6 @@
       "onboard_time": 1773455478,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 40678,
-      "num": 98957,
-      "word": "刘耀文叫王俊凯必带师兄",
-      "onboard_time": 1773465322,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 39859,
@@ -1675,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35119,
+      "num": 85832,
+      "word": "蒋敦豪 经常蹭饭的大馋小子",
+      "onboard_time": 1773471561,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33911,
       "num": 92895,
       "word": "齐旻好疯",
@@ -1692,7 +1756,7 @@
     },
     {
       "raw_hot": 33030,
-      "num": 113949,
+      "num": 148719,
       "word": "余承东AWE现场解读MateX7新体验",
       "onboard_time": 1773468201,
       "rank": 25,
@@ -1732,7 +1796,7 @@
     },
     {
       "raw_hot": 30592,
-      "num": 84692,
+      "num": 147979,
       "word": "20余省份公务员省考今举行",
       "onboard_time": 1773471500,
       "rank": 38,
@@ -1795,6 +1859,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 26346,
+      "num": 281533,
+      "word": "国家摄影队独有的两会时间",
+      "onboard_time": 1773466222,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26176,
       "num": 147932,
       "word": "周云杰家电界最严厉的父亲",
@@ -1809,14 +1881,6 @@
       "onboard_time": 1773465322,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25853,
-      "num": 281533,
-      "word": "国家摄影队独有的两会时间",
-      "onboard_time": 1773466222,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24603,
