@@ -1,6 +1,6 @@
 {
   "startTime": 1773417785284,
-  "endTime": 1773485688777,
+  "endTime": 1773487933603,
   "band_list": [
     {
       "raw_hot": 1578804,
@@ -8,6 +8,14 @@
       "word": "王鹤润王玉雯 反转",
       "onboard_time": 1773469341,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1457217,
+      "num": 115074,
+      "word": "王冕官宣生子",
+      "onboard_time": 1773484401,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -41,14 +49,6 @@
       "onboard_time": 1773478281,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 820395,
-      "num": 115074,
-      "word": "王冕官宣生子",
-      "onboard_time": 1773484401,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 703558,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 474654,
-      "num": 235367,
+      "num": 241080,
       "word": "生菜是最伟大的蔬菜",
       "onboard_time": 1773479301,
       "rank": 19,
@@ -265,6 +265,14 @@
       "onboard_time": 1773455601,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354030,
+      "num": 237909,
+      "word": "武契奇证实购买中国超音速导弹",
+      "onboard_time": 1773483860,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 334895,
@@ -507,14 +515,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 237909,
-      "num": 237909,
-      "word": "武契奇证实购买中国超音速导弹",
-      "onboard_time": 1773483860,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 237772,
       "num": 416335,
       "word": "男子维权被12315工作人员嘲讽",
@@ -529,6 +529,14 @@
       "onboard_time": 1773475341,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232515,
+      "num": 232515,
+      "word": "豹豹原来是汗脚",
+      "onboard_time": 1773483860,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 230810,
@@ -561,6 +569,14 @@
       "onboard_time": 1773471500,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 223615,
+      "num": 223615,
+      "word": "逐玉云合第三",
+      "onboard_time": 1773485541,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 222219,
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 196535,
-      "num": 196535,
+      "num": 264062,
       "word": "冰箱贴一直不挪会伤害冰箱",
       "onboard_time": 1773478881,
       "rank": 14,
@@ -707,14 +723,6 @@
       "category": "综艺,剧集"
     },
     {
-      "raw_hot": 177141,
-      "num": 177141,
-      "word": "豹豹原来是汗脚",
-      "onboard_time": 1773483860,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 175914,
       "num": 175914,
       "word": "15岁男孩嘴歪发现智齿长到眼窝里",
@@ -752,14 +760,6 @@
       "word": "腾讯2026年8部头部大剧",
       "onboard_time": 1773457280,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 169595,
-      "num": 169595,
-      "word": "逐玉云合第三",
-      "onboard_time": 1773485541,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -811,12 +811,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 157721,
+      "num": 88270,
+      "word": "林一别试探了有市场",
+      "onboard_time": 1773485181,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157213,
       "num": 157213,
       "word": "女足",
       "onboard_time": 1773467721,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156021,
+      "num": 88195,
+      "word": "林依晨称因熬夜和压力患脑部囊肿",
+      "onboard_time": 1773485841,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 155978,
@@ -939,12 +955,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144073,
+      "num": 113899,
+      "word": "美国急于退场以色列还想硬刚",
+      "onboard_time": 1773483860,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 144028,
+      "num": 144028,
+      "word": "田嘉瑞一进门先找余承恩外甥女",
+      "onboard_time": 1773486382,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142760,
       "num": 149487,
       "word": "男子买皮卡收到超大老头乐愁坏妻子",
       "onboard_time": 1773477021,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142320,
+      "num": 142320,
+      "word": "省考行测",
+      "onboard_time": 1773484581,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 141993,
@@ -1019,14 +1059,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 129857,
-      "num": 113899,
-      "word": "美国急于退场以色列还想硬刚",
-      "onboard_time": 1773483860,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 128762,
       "num": 95820,
       "word": "赵今麦范丞丞 电影",
@@ -1043,12 +1075,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 126220,
-      "num": 126220,
-      "word": "省考行测",
-      "onboard_time": 1773484581,
-      "rank": 46,
-      "category": "教育"
+      "raw_hot": 124711,
+      "num": 124711,
+      "word": "这洗脚水是非喝不可吗",
+      "onboard_time": 1773485063,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 123834,
@@ -1147,6 +1179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 113782,
+      "num": 113782,
+      "word": "120斤减肥减到160斤",
+      "onboard_time": 1773480501,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113270,
       "num": 113270,
       "word": "余秀华曾抑郁半个月无法下床",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1773472941,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 104880,
-      "num": 104880,
-      "word": "120斤减肥减到160斤",
-      "onboard_time": 1773480501,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 104718,
@@ -1339,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95664,
+      "num": 95664,
+      "word": "伊方称结束战争有两个条件",
+      "onboard_time": 1773486741,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94074,
       "num": 94074,
       "word": "吴艳妮为拉塞尔颁奖",
@@ -1451,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88697,
+      "num": 88697,
+      "word": "伊朗称袭击美军中东三大军事基地",
+      "onboard_time": 1773487221,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88625,
       "num": 97483,
       "word": "谎称280元帮女孩根管牙医发声",
@@ -1467,12 +1515,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88164,
+      "num": 88164,
+      "word": "16岁少年未管所遭同监区3人殴打致死",
+      "onboard_time": 1773484520,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87703,
       "num": 87703,
       "word": "王橹杰没想到的成片",
       "onboard_time": 1773412523,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86756,
+      "num": 86756,
+      "word": "人民大会堂的同款老式热水瓶已停产",
+      "onboard_time": 1773486023,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86598,
+      "num": 86598,
+      "word": "男子投诉10分钟后隐私被扒得底朝天",
+      "onboard_time": 1773486741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86466,
@@ -1513,6 +1585,14 @@
       "onboard_time": 1773467600,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84126,
+      "num": 84126,
+      "word": "狼队对战DYG",
+      "onboard_time": 1773483141,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 84085,
@@ -1577,6 +1657,14 @@
       "onboard_time": 1773467239,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81901,
+      "num": 81901,
+      "word": "孙颖莎输球未必是坏事",
+      "onboard_time": 1773486681,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 81877,
@@ -1723,14 +1811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76559,
-      "num": 76559,
-      "word": "林一别试探了有市场",
-      "onboard_time": 1773485181,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76000,
       "num": 76000,
       "word": "白玉兰",
@@ -1745,14 +1825,6 @@
       "onboard_time": 1773479541,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75795,
-      "num": 75795,
-      "word": "这洗脚水是非喝不可吗",
-      "onboard_time": 1773485063,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 75772,
@@ -1801,6 +1873,14 @@
       "onboard_time": 1773481521,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74401,
+      "num": 74401,
+      "word": "TE对战Gr",
+      "onboard_time": 1773487642,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 74376,
@@ -1923,14 +2003,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 70162,
-      "num": 70162,
-      "word": "狼队对战DYG",
-      "onboard_time": 1773483141,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 69806,
       "num": 69806,
       "word": "于东来发胖东来郑州店规划效果图",
@@ -2004,7 +2076,7 @@
     },
     {
       "raw_hot": 65703,
-      "num": 65703,
+      "num": 67017,
       "word": "生巧吐司",
       "onboard_time": 1773485482,
       "rank": 47,
@@ -2033,14 +2105,6 @@
       "onboard_time": 1773412942,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 64890,
-      "num": 82047,
-      "word": "16岁少年未管所遭同监区3人殴打致死",
-      "onboard_time": 1773484520,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64749,
@@ -2075,6 +2139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63255,
+      "num": 67006,
+      "word": "泄露3000余条居民信息社区主任被判刑",
+      "onboard_time": 1773486023,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62892,
       "num": 62892,
       "word": "生孩子前先介绍下家庭配置",
@@ -2084,7 +2156,7 @@
     },
     {
       "raw_hot": 62885,
-      "num": 62885,
+      "num": 66999,
       "word": "印度掀起赴日旅游风潮",
       "onboard_time": 1773485661,
       "rank": 49,
@@ -2643,6 +2715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23709,
+      "num": 74452,
+      "word": "肖战朱一龙易烊千玺提名cmg影帝",
+      "onboard_time": 1773487461,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22310,
       "num": 87714,
       "word": "0含驼量香精乳品冒充进口驼奶",
@@ -2724,7 +2804,7 @@
     },
     {
       "raw_hot": 16856,
-      "num": 191273,
+      "num": 224729,
       "word": "建议慈善教育分层推进",
       "onboard_time": 1773480561,
       "rank": 9,
@@ -2849,6 +2929,14 @@
       "onboard_time": 1773433094,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10748,
+      "num": 74424,
+      "word": "人人盼火锅强大刀盼她吃饭香",
+      "onboard_time": 1773486140,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 10642,
