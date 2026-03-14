@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773507419380,
+  "endTime": 1773509712772,
   "band_list": [
     {
       "raw_hot": 600463,
@@ -227,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74817,
+      "num": 107637,
+      "word": "虞书欣张云龙cha",
+      "onboard_time": 1773504500,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72508,
       "num": 121790,
       "word": "KSG战胜AG",
@@ -243,19 +251,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66240,
-      "num": 107637,
-      "word": "虞书欣张云龙cha",
-      "onboard_time": 1773504500,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64368,
       "num": 105810,
       "word": "孔雪儿邓凯浴池戏",
       "onboard_time": 1773488003,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63332,
+      "num": 105653,
+      "word": "谢征越骗越多",
+      "onboard_time": 1773500663,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -313,14 +321,6 @@
       "onboard_time": 1773488961,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 54538,
-      "num": 105653,
-      "word": "谢征越骗越多",
-      "onboard_time": 1773500663,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 53317,
@@ -427,12 +427,52 @@
       "category": "网红"
     },
     {
+      "raw_hot": 37566,
+      "num": 49800,
+      "word": "2026F1中国大奖赛",
+      "onboard_time": 1773509536,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37056,
       "num": 96033,
       "word": "一笙钟馗吓哭了",
       "onboard_time": 1773507140,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33272,
+      "num": 50049,
+      "word": "胡先煦看了黄子弘凡演唱会",
+      "onboard_time": 1773497542,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 30563,
+      "num": 49955,
+      "word": "易烊千玺cmg提名",
+      "onboard_time": 1773509238,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 29960,
+      "num": 49897,
+      "word": "你好星期六下期是黑夜告白",
+      "onboard_time": 1773507439,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28310,
+      "num": 49871,
+      "word": "恋与深空",
+      "onboard_time": 1773496284,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 22485,
