@@ -1,6 +1,6 @@
 {
   "startTime": 1772901470795,
-  "endTime": 1773478888945,
+  "endTime": 1773481321177,
   "band_list": [
     {
       "raw_hot": 14888503,
@@ -387,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 949561,
+      "num": 1151929,
+      "word": "省考申论",
+      "onboard_time": 1773478281,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 944093,
       "num": 577101,
       "word": "伊朗下起毒雨",
@@ -651,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 767164,
-      "num": 1122746,
-      "word": "省考申论",
-      "onboard_time": 1773478281,
-      "rank": 0,
-      "category": "教育"
-    },
-    {
       "raw_hot": 765560,
       "num": 1122489,
       "word": "李延贺煽动分裂国家破坏国家统一",
@@ -905,6 +905,14 @@
       "onboard_time": 1773314000,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 657229,
+      "num": 251509,
+      "word": "逐玉 肛泰别闹了",
+      "onboard_time": 1773477622,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 657031,
@@ -2419,14 +2427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367188,
-      "num": 251509,
-      "word": "逐玉 肛泰别闹了",
-      "onboard_time": 1773477622,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 365482,
       "num": 310403,
       "word": "男子狂扇自己称后悔花10万再婚",
@@ -2705,6 +2705,14 @@
       "onboard_time": 1773060442,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 331949,
+      "num": 331949,
+      "word": "申论大作文",
+      "onboard_time": 1773479602,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 331309,
@@ -3595,6 +3603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276684,
+      "num": 110157,
+      "word": "陆仙人回应整容",
+      "onboard_time": 1773479661,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274796,
       "num": 1043967,
       "word": "建议整治同一航班同一张票两个价",
@@ -3609,6 +3625,14 @@
       "onboard_time": 1773316883,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 273326,
+      "num": 273326,
+      "word": "河南申论",
+      "onboard_time": 1773478522,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 273296,
@@ -4667,6 +4691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213948,
+      "num": 109833,
+      "word": "瞿颖自曝不需要赚那么多钱",
+      "onboard_time": 1773476780,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213740,
       "num": 213740,
       "word": "省考答案",
@@ -5009,6 +5041,14 @@
       "onboard_time": 1773151343,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195921,
+      "num": 107965,
+      "word": "央视主持人怎么也开始拍短剧了",
+      "onboard_time": 1773479181,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 195558,
@@ -5419,6 +5459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 176787,
+      "num": 107597,
+      "word": "小红帽下楼",
+      "onboard_time": 1773479421,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176466,
       "num": 466849,
       "word": "田曦薇情商",
@@ -5577,14 +5625,6 @@
       "onboard_time": 1773250636,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171991,
-      "num": 171991,
-      "word": "河南申论",
-      "onboard_time": 1773478522,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 171507,
@@ -6851,6 +6891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138504,
+      "num": 138504,
+      "word": "冰箱贴一直不挪会伤害冰箱",
+      "onboard_time": 1773478881,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138472,
       "num": 138472,
       "word": "逐玉18集太惨了",
@@ -6913,14 +6961,6 @@
       "onboard_time": 1772937801,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136166,
-      "num": 104414,
-      "word": "瞿颖自曝不需要赚那么多钱",
-      "onboard_time": 1773476780,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 136030,
@@ -7403,6 +7443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126435,
+      "num": 126435,
+      "word": "辽宁申论",
+      "onboard_time": 1773478821,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 126160,
       "num": 373337,
       "word": "养胡萝卜",
@@ -7537,6 +7585,14 @@
       "onboard_time": 1773012078,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123834,
+      "num": 123834,
+      "word": "gr",
+      "onboard_time": 1773480861,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 123680,
@@ -8051,6 +8107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115497,
+      "num": 115497,
+      "word": "第一次知道茶叶放久了会变质",
+      "onboard_time": 1773479960,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115396,
       "num": 104790,
       "word": "倪妮哭出了漫画里才有的泪眼",
@@ -8113,6 +8177,14 @@
       "onboard_time": 1773332178,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114322,
+      "num": 114322,
+      "word": "生菜是最伟大的蔬菜",
+      "onboard_time": 1773479301,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 114181,
@@ -9571,14 +9643,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 96841,
-      "num": 96841,
-      "word": "辽宁申论",
-      "onboard_time": 1773478821,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 96798,
       "num": 162218,
       "word": "徐杰当选全明星MVP",
@@ -10795,6 +10859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 87040,
+      "num": 87040,
+      "word": "120斤减肥减到160斤",
+      "onboard_time": 1773480501,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86994,
       "num": 596045,
       "word": "赵晴新剧内娱稀有不缺爱女主",
@@ -10881,6 +10953,14 @@
       "onboard_time": 1773271699,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86466,
+      "num": 86466,
+      "word": "王霜无缘半决赛",
+      "onboard_time": 1773479062,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 86431,
@@ -11451,12 +11531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82057,
+      "num": 82057,
+      "word": "只有阎鹤祥把郭德纲的话听进去了",
+      "onboard_time": 1773480921,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82040,
       "num": 98275,
       "word": "薛之谦广州场二开",
       "onboard_time": 1773212541,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81983,
+      "num": 81983,
+      "word": "申论 赛道",
+      "onboard_time": 1773481162,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 81804,
@@ -12131,6 +12227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 76818,
+      "num": 76818,
+      "word": "原来生蚝外壳上的是海葵",
+      "onboard_time": 1773479780,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 76727,
       "num": 536848,
       "word": "孙颖莎打破圈层跨越国际",
@@ -12257,6 +12361,14 @@
       "onboard_time": 1773451219,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75984,
+      "num": 75984,
+      "word": "球迷喊孙颖莎去吃火锅",
+      "onboard_time": 1773479541,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 75857,
@@ -13051,6 +13163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70629,
+      "num": 70629,
+      "word": "水果做饭也能这么好吃",
+      "onboard_time": 1773481100,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 70591,
       "num": 85883,
       "word": "小猫知道自己可爱",
@@ -13473,6 +13593,22 @@
       "onboard_time": 1773401300,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 67804,
+      "num": 67804,
+      "word": "内娱什么人都能出书了",
+      "onboard_time": 1773480740,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 67780,
+      "num": 65722,
+      "word": "比长剧还卷的短剧女主妆造来了",
+      "onboard_time": 1773481282,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 67585,
@@ -16747,6 +16883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33089,
+      "num": 662386,
+      "word": "十五五规划纲要解读来了",
+      "onboard_time": 1773475820,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33030,
       "num": 148719,
       "word": "余承东AWE现场解读MateX7新体验",
@@ -17499,14 +17643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23037,
-      "num": 662386,
-      "word": "十五五规划纲要解读来了",
-      "onboard_time": 1773475820,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 23021,
       "num": 267832,
       "word": "中方回应人权理事会呼吁日本正式道歉",
@@ -17793,6 +17929,14 @@
       "onboard_time": 1773226761,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18643,
+      "num": 247608,
+      "word": "AI时代青少年该掌握哪些能力",
+      "onboard_time": 1773480561,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18620,
