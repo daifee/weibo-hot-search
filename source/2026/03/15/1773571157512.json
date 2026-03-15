@@ -1,0 +1,410 @@
+{
+  "runTime": 1773571157512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1264930,
+        "num": 1264930,
+        "word": "鹿哈或需赔偿消费者26.9亿元",
+        "onboard_time": 1773556760,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1006234,
+        "num": 1006234,
+        "word": "315",
+        "onboard_time": 1773536180,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3745,
+        "num": 682666,
+        "word": "十五五这四类人群直接受益",
+        "onboard_time": 1773451701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1865225,
+        "num": 639799,
+        "word": "紫薯精天塌了",
+        "onboard_time": 1773565461,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 525617,
+        "num": 525617,
+        "word": "胖东来要求博主删除视频",
+        "onboard_time": 1773563901,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298216,
+        "num": 298216,
+        "word": "逐玉开始单更了",
+        "onboard_time": 1773567142,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296543,
+        "num": 296543,
+        "word": "国色天香 何晟铭",
+        "onboard_time": 1773567321,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224013,
+        "num": 224013,
+        "word": "F1",
+        "onboard_time": 1773559281,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50645,
+        "num": 224000,
+        "word": "网红法式鹅肝竟检出鸡源性成分",
+        "onboard_time": 1773570380,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23785,
+        "num": 220219,
+        "word": "中美大模型谁找工作更厉害",
+        "onboard_time": 1773569121,
+        "rank": 9,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 320166,
+        "num": 216190,
+        "word": "F1现场好多明星",
+        "onboard_time": 1773567321,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 266618,
+        "num": 214759,
+        "word": "林丹回应不让儿子学羽毛球",
+        "onboard_time": 1773567083,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240795,
+        "num": 209727,
+        "word": "黑工厂制假天麻现场触目惊心",
+        "onboard_time": 1773568821,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 238075,
+        "num": 208702,
+        "word": "315记者为拍证据曾勇闯杀人蜂区",
+        "onboard_time": 1773567502,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 205954,
+        "num": 205954,
+        "word": "逐玉云合破50%",
+        "onboard_time": 1773565221,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201593,
+        "num": 201593,
+        "word": "江西九江发生岩降事故 3人死亡",
+        "onboard_time": 1773564321,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192764,
+        "num": 192764,
+        "word": "刘文祥麻辣烫多处不合规",
+        "onboard_time": 1773570502,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176926,
+        "num": 176926,
+        "word": "七种千万不能吃的食物",
+        "onboard_time": 1773563481,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164367,
+        "num": 164367,
+        "word": "北京WBG对战FPX.ZQ",
+        "onboard_time": 1773567982,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77942,
+        "num": 147987,
+        "word": "女童穿新鞋3天后高低腿被客服嘲讽",
+        "onboard_time": 1773570261,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 532574,
+        "num": 146317,
+        "word": "郝熠然直播",
+        "onboard_time": 1773569182,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399271,
+        "num": 145463,
+        "word": "成毅 年龄",
+        "onboard_time": 1773537920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144056,
+        "num": 144056,
+        "word": "央视调查某茶饮品牌遭恶意抹黑始末",
+        "onboard_time": 1773549440,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263846,
+        "num": 142519,
+        "word": "小英整牙",
+        "onboard_time": 1773568582,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184322,
+        "num": 138618,
+        "word": "男制作人用吉赛尔未公开照片当头像",
+        "onboard_time": 1773569422,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134066,
+        "num": 134066,
+        "word": "温瑞博4比2张本智和",
+        "onboard_time": 1773558021,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173161,
+        "num": 133905,
+        "word": "逐玉",
+        "onboard_time": 1773552681,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136835,
+        "num": 133775,
+        "word": "三平台破万的六位演员",
+        "onboard_time": 1773565702,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131844,
+        "num": 131844,
+        "word": "为什么大学里的男生比例越来越少",
+        "onboard_time": 1773569422,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135414,
+        "num": 130054,
+        "word": "怪不得今年陆虎蒋敦豪没上春晚",
+        "onboard_time": 1773570022,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126790,
+        "num": 126790,
+        "word": "以前扮丑是真的扮丑",
+        "onboard_time": 1773567321,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126153,
+        "num": 126153,
+        "word": "刘文祥刚爆火就塌房",
+        "onboard_time": 1773558921,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122685,
+        "num": 122685,
+        "word": "王橹杰的语音",
+        "onboard_time": 1773567502,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115881,
+        "num": 115881,
+        "word": "iPhone长焦 出片",
+        "onboard_time": 1773569062,
+        "rank": 33,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 115345,
+        "num": 115345,
+        "word": "伊朗称要打到美以投降受到惩罚",
+        "onboard_time": 1773566062,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112542,
+        "num": 112542,
+        "word": "张凌赫田曦薇没有杀青合照",
+        "onboard_time": 1773563481,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106092,
+        "num": 106092,
+        "word": "保证前额叶健康太重要了",
+        "onboard_time": 1773552802,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103897,
+        "num": 103897,
+        "word": "怪不得印度工业发达原来都是0成本",
+        "onboard_time": 1773561802,
+        "rank": 37,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 102350,
+        "num": 102350,
+        "word": "央视315晚会点名食品安全领域",
+        "onboard_time": 1773563721,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38953,
+        "num": 98762,
+        "word": "去年最狠的十个消费陷阱",
+        "onboard_time": 1773568942,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95835,
+        "num": 95835,
+        "word": "呼啸山庄好癫",
+        "onboard_time": 1773569721,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95508,
+        "num": 95508,
+        "word": "美宜佳致歉",
+        "onboard_time": 1773559462,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142307,
+        "num": 95392,
+        "word": "李煜东故事会",
+        "onboard_time": 1773567562,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95136,
+        "num": 95136,
+        "word": "眼镜镜片标价799元进价仅15元",
+        "onboard_time": 1773556820,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 94895,
+        "num": 94895,
+        "word": "孔雪儿邓凯 接三搭",
+        "onboard_time": 1773566062,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94674,
+        "num": 94674,
+        "word": "泡椒凤爪的泡椒竟是印上去的",
+        "onboard_time": 1773549200,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 93655,
+        "num": 93655,
+        "word": "维斯塔潘退赛",
+        "onboard_time": 1773563662,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91641,
+        "num": 91641,
+        "word": "刘文祥",
+        "onboard_time": 1773547938,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90837,
+        "num": 90837,
+        "word": "痞幼带保洁阿姨去三亚度假",
+        "onboard_time": 1773570861,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 89604,
+        "num": 89604,
+        "word": "鹿哈 凌达乐",
+        "onboard_time": 1773561321,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指引新起点上推进强国建设#"
+    }
+  }
+}
