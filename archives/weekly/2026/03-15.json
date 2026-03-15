@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773561657558,
+  "endTime": 1773564448879,
   "band_list": [
     {
       "raw_hot": 2210943,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 803369,
-      "num": 803369,
+      "num": 995327,
       "word": "刘文祥刚爆火就塌房",
       "onboard_time": 1773558921,
       "rank": 13,
@@ -131,12 +131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517160,
+      "num": 257932,
+      "word": "何晟铭因不愿演男主和于正冷战",
+      "onboard_time": 1773561023,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 511438,
       "num": 853070,
       "word": "机器人正要进电梯被男子一脚踹倒",
       "onboard_time": 1773531258,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 499104,
+      "num": 499104,
+      "word": "F1",
+      "onboard_time": 1773500723,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 470892,
@@ -161,6 +177,14 @@
       "onboard_time": 1773559462,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423146,
+      "num": 250441,
+      "word": "怪不得印度工业发达原来都是0成本",
+      "onboard_time": 1773561802,
+      "rank": 12,
+      "category": "休闲"
     },
     {
       "raw_hot": 421336,
@@ -203,20 +227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377565,
+      "num": 248516,
+      "word": "鹿哈 凌达乐",
+      "onboard_time": 1773561321,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 356416,
       "num": 217053,
       "word": "她俩从连体婴到形同陌路",
       "onboard_time": 1773548060,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353948,
-      "num": 353948,
-      "word": "F1",
-      "onboard_time": 1773500723,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 349184,
@@ -233,6 +257,14 @@
       "onboard_time": 1773541879,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 329756,
+      "num": 244542,
+      "word": "法拉利内斗",
+      "onboard_time": 1773561861,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 328862,
@@ -355,6 +387,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 263135,
+      "num": 263135,
+      "word": "七种千万不能吃的食物",
+      "onboard_time": 1773563481,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 261282,
       "num": 257859,
       "word": "谢征掉马被打看的好爽",
@@ -475,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201117,
-      "num": 201117,
-      "word": "何晟铭因不愿演男主和于正冷战",
-      "onboard_time": 1773561023,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199771,
       "num": 199771,
       "word": "时代少年团 外务",
@@ -587,6 +619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 176848,
+      "num": 176848,
+      "word": "维斯塔潘退赛",
+      "onboard_time": 1773563662,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174848,
       "num": 174848,
       "word": "文淇路演亲了粉丝",
@@ -617,6 +657,14 @@
       "onboard_time": 1773498322,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168283,
+      "num": 168283,
+      "word": "张凌赫田曦薇没有杀青合照",
+      "onboard_time": 1773563481,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 166973,
@@ -659,6 +707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159562,
+      "num": 159562,
+      "word": "郝熠然 今晚见一面吧",
+      "onboard_time": 1773562282,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159009,
       "num": 159009,
       "word": "亿级APP存在大量儿童软色情内容",
@@ -673,6 +729,14 @@
       "onboard_time": 1773498081,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157773,
+      "num": 157773,
+      "word": "孩子总说上吊卧轨竟因接触毒卡片",
+      "onboard_time": 1773562820,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 155144,
@@ -713,6 +777,14 @@
       "onboard_time": 1773540080,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147029,
+      "num": 147029,
+      "word": "胖东来要求博主删除视频",
+      "onboard_time": 1773563901,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142339,
@@ -811,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124761,
+      "num": 124761,
+      "word": "Jennie和Maddy看起来像同一个人",
+      "onboard_time": 1773561921,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123960,
       "num": 123960,
       "word": "王楚钦2比4松岛辉空",
@@ -835,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119638,
+      "num": 119638,
+      "word": "蒙牛普通奶粉暗示能长一米八八",
+      "onboard_time": 1773561622,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 118266,
       "num": 118266,
       "word": "张凌赫吃了田曦薇给的青提",
@@ -857,6 +945,14 @@
       "onboard_time": 1773533779,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115710,
+      "num": 115710,
+      "word": "咖啡焖子",
+      "onboard_time": 1773561262,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 113006,
@@ -897,6 +993,14 @@
       "onboard_time": 1773507259,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108769,
+      "num": 108769,
+      "word": "逐玉曾导抛媚眼给瞎子看",
+      "onboard_time": 1773562463,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 107535,
@@ -952,6 +1056,14 @@
       "word": "美宜佳假烟比真烟更毒",
       "onboard_time": 1773547760,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104953,
+      "num": 104953,
+      "word": "央视315晚会点名食品安全领域",
+      "onboard_time": 1773563721,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1059,6 +1171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93954,
+      "num": 92386,
+      "word": "电视剧品质盛典",
+      "onboard_time": 1773561742,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93941,
       "num": 93941,
       "word": "考研初试成绩权重不低于50%",
@@ -1080,6 +1200,14 @@
       "word": "蒯曼决赛对阵张本美和",
       "onboard_time": 1773551481,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92817,
+      "num": 92817,
+      "word": "马龙开启人生新体验",
+      "onboard_time": 1773563842,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1115,14 +1243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89823,
-      "num": 89823,
-      "word": "鹿哈 凌达乐",
-      "onboard_time": 1773561321,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 89718,
       "num": 89718,
       "word": "315直播曝光消费乱象",
@@ -1137,6 +1257,14 @@
       "onboard_time": 1773550101,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87708,
+      "num": 87708,
+      "word": "马龙观赛F1",
+      "onboard_time": 1773564263,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 87566,
@@ -1507,6 +1635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 55165,
+      "num": 120037,
+      "word": "让客服电话说人话就这么难吗",
+      "onboard_time": 1773563122,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 54902,
       "num": 105712,
       "word": "张翅直播",
@@ -1529,6 +1665,14 @@
       "onboard_time": 1773531738,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 53387,
+      "num": 754051,
+      "word": "守护黄河用上了智能石头",
+      "onboard_time": 1773563062,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53317,
@@ -1584,6 +1728,14 @@
       "word": "盗号清洗卖号全流程曝光",
       "onboard_time": 1773542540,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48190,
+      "num": 107789,
+      "word": "江西九江发生岩降事故 3人死亡",
+      "onboard_time": 1773564321,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1873,14 +2025,6 @@
       "onboard_time": 1773561622,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7968,
-      "num": 90742,
-      "word": "蒙牛普通奶粉暗示能长一米八八",
-      "onboard_time": 1773561622,
-      "rank": 36,
-      "category": "舆论监督"
     }
   ],
   "hotgov_list": [
@@ -1889,6 +2033,9 @@
     },
     {
       "word": "#120秒回顾总书记的两会时刻#"
+    },
+    {
+      "word": "#总书记指引新起点上推进强国建设#"
     }
   ]
 }

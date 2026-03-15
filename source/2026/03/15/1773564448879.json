@@ -1,0 +1,410 @@
+{
+  "runTime": 1773564448879,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2072600,
+        "num": 2072600,
+        "word": "鹿哈或需赔偿消费者26.9亿元",
+        "onboard_time": 1773556760,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 642964,
+        "num": 995327,
+        "word": "刘文祥刚爆火就塌房",
+        "onboard_time": 1773558921,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53387,
+        "num": 754051,
+        "word": "守护黄河用上了智能石头",
+        "onboard_time": 1773563062,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499104,
+        "num": 499104,
+        "word": "F1",
+        "onboard_time": 1773559281,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397642,
+        "num": 397642,
+        "word": "315",
+        "onboard_time": 1773536180,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329252,
+        "num": 329252,
+        "word": "美宜佳致歉",
+        "onboard_time": 1773559462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285699,
+        "num": 285699,
+        "word": "眼镜镜片标价799元进价仅15元",
+        "onboard_time": 1773556820,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 267790,
+        "num": 267790,
+        "word": "泡椒凤爪的泡椒竟是印上去的",
+        "onboard_time": 1773549200,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 264267,
+        "num": 264267,
+        "word": "温瑞博4比2张本智和",
+        "onboard_time": 1773558021,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263135,
+        "num": 263135,
+        "word": "七种千万不能吃的食物",
+        "onboard_time": 1773563481,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 677099,
+        "num": 262051,
+        "word": "成毅 年龄",
+        "onboard_time": 1773537920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517160,
+        "num": 257932,
+        "word": "何晟铭因不愿演男主和于正冷战",
+        "onboard_time": 1773561023,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423146,
+        "num": 250441,
+        "word": "怪不得印度工业发达原来都是0成本",
+        "onboard_time": 1773561802,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 377565,
+        "num": 248516,
+        "word": "鹿哈 凌达乐",
+        "onboard_time": 1773561321,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 329756,
+        "num": 244542,
+        "word": "法拉利内斗",
+        "onboard_time": 1773561861,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240901,
+        "num": 240901,
+        "word": "梁婷 成毅报户口的时候报大一岁",
+        "onboard_time": 1773542900,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205510,
+        "num": 205510,
+        "word": "保证前额叶健康太重要了",
+        "onboard_time": 1773552802,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183720,
+        "num": 183720,
+        "word": "伊朗用涂鸦骗导弹轰炸",
+        "onboard_time": 1773551901,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176848,
+        "num": 176848,
+        "word": "维斯塔潘退赛",
+        "onboard_time": 1773563662,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168294,
+        "num": 168294,
+        "word": "刘文祥店员说20元1斤能是纯牛肉吗",
+        "onboard_time": 1773551240,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168283,
+        "num": 168283,
+        "word": "张凌赫田曦薇没有杀青合照",
+        "onboard_time": 1773563481,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166229,
+        "num": 166229,
+        "word": "央视调查某茶饮品牌遭恶意抹黑始末",
+        "onboard_time": 1773549440,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159562,
+        "num": 159562,
+        "word": "郝熠然 今晚见一面吧",
+        "onboard_time": 1773562282,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157773,
+        "num": 157773,
+        "word": "孩子总说上吊卧轨竟因接触毒卡片",
+        "onboard_time": 1773562820,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156112,
+        "num": 156112,
+        "word": "25岁儿子毕业不工作急哭父亲",
+        "onboard_time": 1773548060,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150380,
+        "num": 150380,
+        "word": "逐玉",
+        "onboard_time": 1773552681,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147029,
+        "num": 147029,
+        "word": "胖东来要求博主删除视频",
+        "onboard_time": 1773563901,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137122,
+        "num": 137122,
+        "word": "夏之光 我的家庭没有能力兜底",
+        "onboard_time": 1773555741,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124761,
+        "num": 124761,
+        "word": "Jennie和Maddy看起来像同一个人",
+        "onboard_time": 1773561921,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55165,
+        "num": 120037,
+        "word": "让客服电话说人话就这么难吗",
+        "onboard_time": 1773563122,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 119638,
+        "num": 119638,
+        "word": "蒙牛普通奶粉暗示能长一米八八",
+        "onboard_time": 1773561622,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 118152,
+        "num": 118152,
+        "word": "100万装出了10万的装修效果",
+        "onboard_time": 1773548720,
+        "rank": 31,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 115710,
+        "num": 115710,
+        "word": "咖啡焖子",
+        "onboard_time": 1773561262,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108769,
+        "num": 108769,
+        "word": "逐玉曾导抛媚眼给瞎子看",
+        "onboard_time": 1773562463,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108253,
+        "num": 108253,
+        "word": "亿级APP存在大量儿童软色情内容",
+        "onboard_time": 1773554181,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 48190,
+        "num": 107789,
+        "word": "江西九江发生岩降事故 3人死亡",
+        "onboard_time": 1773564321,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107663,
+        "num": 107663,
+        "word": "迈凯轮双车退赛",
+        "onboard_time": 1773559281,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106535,
+        "num": 106535,
+        "word": "315记者直击酒店偷拍黑色产业链",
+        "onboard_time": 1773560601,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104953,
+        "num": 104953,
+        "word": "央视315晚会点名食品安全领域",
+        "onboard_time": 1773563721,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103219,
+        "num": 103219,
+        "word": "金道勋 ana",
+        "onboard_time": 1773552022,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101042,
+        "num": 101042,
+        "word": "李煜东发文",
+        "onboard_time": 1773552441,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95220,
+        "num": 95220,
+        "word": "泰国遇害中国女子丈夫发声",
+        "onboard_time": 1773545960,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100300,
+        "num": 95182,
+        "word": "窦骁在何超莲vlog出镜",
+        "onboard_time": 1773559341,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94456,
+        "num": 94456,
+        "word": "网友卢浮宫偶遇素颜刘亦菲",
+        "onboard_time": 1773547461,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92817,
+        "num": 92817,
+        "word": "马龙开启人生新体验",
+        "onboard_time": 1773563842,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93954,
+        "num": 92386,
+        "word": "电视剧品质盛典",
+        "onboard_time": 1773561742,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90314,
+        "num": 90314,
+        "word": "刘文祥",
+        "onboard_time": 1773547938,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87708,
+        "num": 87708,
+        "word": "马龙观赛F1",
+        "onboard_time": 1773564263,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86045,
+        "num": 86045,
+        "word": "虞书欣拍上云初令短剧了",
+        "onboard_time": 1773556280,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81714,
+        "num": 81714,
+        "word": "F1取消四月全部赛事",
+        "onboard_time": 1773551962,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指引新起点上推进强国建设#"
+    }
+  }
+}
