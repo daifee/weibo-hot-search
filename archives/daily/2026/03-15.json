@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773581418139,
+  "endTime": 1773583468105,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -8,6 +8,14 @@
       "word": "315晚会",
       "onboard_time": 1773575781,
       "rank": 0,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 5992055,
+      "num": 5992055,
+      "word": "315名单",
+      "onboard_time": 1773581607,
+      "rank": 1,
       "category": "舆论监督"
     },
     {
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 2087503,
-      "num": 667375,
+      "num": 688455,
       "word": "紫薯精天塌了",
       "onboard_time": 1773565461,
       "rank": 3,
@@ -41,6 +49,14 @@
       "onboard_time": 1773537920,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1769557,
+      "num": 1769557,
+      "word": "给AI投毒",
+      "onboard_time": 1773581668,
+      "rank": 3,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1538614,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1070737,
-      "num": 454852,
+      "num": 777126,
       "word": "吴佳妮自曝婚内没收入很没尊严",
       "onboard_time": 1773578366,
       "rank": 11,
@@ -128,6 +144,14 @@
       "word": "刘文祥刚爆火就塌房",
       "onboard_time": 1773558921,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 799900,
+      "num": 799900,
+      "word": "有友鸡爪",
+      "onboard_time": 1773581726,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -203,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 616604,
+      "num": 616604,
+      "word": "医美骗局",
+      "onboard_time": 1773579689,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 613857,
       "num": 207436,
       "word": "古巴",
@@ -236,7 +268,7 @@
     },
     {
       "raw_hot": 594816,
-      "num": 427236,
+      "num": 465867,
       "word": "乖媳妇鸡爪",
       "onboard_time": 1773577825,
       "rank": 19,
@@ -296,14 +328,6 @@
       "word": "机器人正要进电梯被男子一脚踹倒",
       "onboard_time": 1773531258,
       "rank": 39,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 484495,
-      "num": 425101,
-      "word": "医美骗局",
-      "onboard_time": 1773579689,
-      "rank": 25,
       "category": "舆论监督"
     },
     {
@@ -401,6 +425,14 @@
       "onboard_time": 1773563481,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 381402,
+      "num": 381402,
+      "word": "原著作者回应肖战出演十日终焉",
+      "onboard_time": 1773581428,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 379816,
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 315963,
-      "num": 315963,
+      "num": 778160,
       "word": "温瑞博亚军",
       "onboard_time": 1773579689,
       "rank": 34,
@@ -731,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257390,
+      "num": 257390,
+      "word": "315晚会曝光AI大模型被投毒",
+      "onboard_time": 1773581847,
+      "rank": 26,
+      "category": "舆论监督,互联网"
+    },
+    {
       "raw_hot": 245734,
       "num": 245734,
       "word": "张凌赫一只手就把田曦薇提溜起来",
@@ -740,7 +780,7 @@
     },
     {
       "raw_hot": 244341,
-      "num": 244341,
+      "num": 641925,
       "word": "原来电商图是这样生成的",
       "onboard_time": 1773577225,
       "rank": 27,
@@ -980,7 +1020,7 @@
     },
     {
       "raw_hot": 192764,
-      "num": 198876,
+      "num": 219257,
       "word": "刘文祥麻辣烫多处不合规",
       "onboard_time": 1773570502,
       "rank": 16,
@@ -1091,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181189,
+      "num": 181189,
+      "word": "王楚钦噘嘴鼓掌",
+      "onboard_time": 1773580826,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178664,
       "num": 142151,
       "word": "三平台破万的六位演员",
@@ -1161,6 +1209,14 @@
       "onboard_time": 1773567982,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163787,
+      "num": 163787,
+      "word": "私域营销",
+      "onboard_time": 1773583291,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 163229,
@@ -1235,6 +1291,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 156560,
+      "num": 156560,
+      "word": "刘宇宁在最猛的年纪又野又欲",
+      "onboard_time": 1773582567,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155144,
       "num": 77645,
       "word": "带货救女妈妈终究没留住女儿",
@@ -1267,20 +1331,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152229,
+      "num": 152229,
+      "word": "崔永熙首秀",
+      "onboard_time": 1773583107,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151073,
       "num": 151073,
       "word": "章子怡为角色增重20斤",
       "onboard_time": 1773542000,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149304,
-      "num": 149304,
-      "word": "王楚钦噘嘴鼓掌",
-      "onboard_time": 1773580826,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 148694,
@@ -1297,6 +1361,14 @@
       "onboard_time": 1773579509,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142560,
+      "num": 142560,
+      "word": "ZB1一个一个退场",
+      "onboard_time": 1773583047,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 142339,
@@ -1388,7 +1460,7 @@
     },
     {
       "raw_hot": 131584,
-      "num": 460492,
+      "num": 777186,
       "word": "专家建议工作日缩至4天",
       "onboard_time": 1773541460,
       "rank": 30,
@@ -1441,6 +1513,14 @@
       "onboard_time": 1773531798,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126785,
+      "num": 126785,
+      "word": "田曦薇逐玉戏份",
+      "onboard_time": 1773583291,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 125568,
@@ -1499,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123504,
+      "num": 123504,
+      "word": "中国女篮战胜捷克女篮",
+      "onboard_time": 1773583227,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122945,
       "num": 120681,
       "word": "女子翻丈夫手机发现其出轨几十人",
@@ -1539,12 +1627,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 119611,
+      "num": 119611,
+      "word": "樊振东终于又出现了",
+      "onboard_time": 1773581547,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118266,
       "num": 118266,
       "word": "张凌赫吃了田曦薇给的青提",
       "onboard_time": 1773556461,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117570,
+      "num": 117570,
+      "word": "LGDNBW对战TTG",
+      "onboard_time": 1773581547,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 116841,
@@ -1585,6 +1689,14 @@
       "onboard_time": 1773561262,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115564,
+      "num": 115564,
+      "word": "GEO",
+      "onboard_time": 1773581967,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 113006,
@@ -2291,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73805,
+      "num": 362003,
+      "word": "漂白鸡爪被查封",
+      "onboard_time": 1773583047,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 73771,
       "num": 73771,
       "word": "我欲乘风",
@@ -2571,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44757,
+      "num": 2175044,
+      "word": "网警提醒看不见的虚假更要防",
+      "onboard_time": 1773581188,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43323,
       "num": 105571,
       "word": "刘宇宁把自己唱熟了",
@@ -2795,7 +2923,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23915,
+      "raw_hot": 25157,
       "num": 445277,
       "word": "王建华主业让人笑副业让人哇",
       "onboard_time": 1773579748,
@@ -2896,14 +3024,6 @@
       "word": "赶在涨价前车主把加油站的油抢光了",
       "onboard_time": 1773561622,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7685,
-      "num": 2175044,
-      "word": "网警提醒看不见的虚假更要防",
-      "onboard_time": 1773581188,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
