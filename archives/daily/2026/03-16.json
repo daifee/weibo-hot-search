@@ -1,6 +1,6 @@
 {
   "startTime": 1773592897493,
-  "endTime": 1773617861659,
+  "endTime": 1773618814125,
   "band_list": [
     {
       "raw_hot": 2402447,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 603599,
-      "num": 241627,
+      "num": 291029,
       "word": "伊朗发射泥石弹道导弹",
       "onboard_time": 1773593298,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 590883,
+      "num": 207675,
+      "word": "今年315把我爱吃的查了个遍",
+      "onboard_time": 1773616758,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 547975,
@@ -25,6 +33,14 @@
       "onboard_time": 1773586826,
       "rank": 10,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 527343,
+      "num": 206519,
+      "word": "1岁半宝宝睡醒后哭喊妈妈6小时",
+      "onboard_time": 1773617418,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 525767,
@@ -43,8 +59,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 407322,
-      "num": 845168,
+      "raw_hot": 409942,
+      "num": 919314,
       "word": "周小闹回应刘文祥塌房",
       "onboard_time": 1773574522,
       "rank": 4,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 400554,
-      "num": 135147,
+      "num": 203631,
       "word": "医用级卫生巾",
       "onboard_time": 1773585326,
       "rank": 11,
@@ -67,20 +83,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 347137,
-      "num": 128936,
-      "word": "1岁半宝宝睡醒后哭喊妈妈6小时",
-      "onboard_time": 1773617418,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 338541,
-      "num": 127539,
-      "word": "今年315把我爱吃的查了个遍",
-      "onboard_time": 1773616758,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 346925,
+      "num": 346925,
+      "word": "315曝光的鸡爪公司股东也在看晚会",
+      "onboard_time": 1773588384,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 336405,
@@ -91,12 +99,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 329756,
-      "num": 329756,
-      "word": "315曝光的鸡爪公司股东也在看晚会",
-      "onboard_time": 1773588384,
-      "rank": 14,
-      "category": "舆论监督"
+      "raw_hot": 318674,
+      "num": 204257,
+      "word": "以色列否认美方说法",
+      "onboard_time": 1773617119,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 314738,
+      "num": 314738,
+      "word": "奥斯卡",
+      "onboard_time": 1773617299,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 312535,
@@ -115,16 +131,16 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 245924,
-      "num": 245924,
+      "raw_hot": 249734,
+      "num": 249734,
       "word": "你住的酒店可能藏着第3只眼",
       "onboard_time": 1773616519,
       "rank": 4,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230378,
-      "num": 230378,
+      "raw_hot": 248908,
+      "num": 248908,
       "word": "老师标配的小蜜蜂该用还是该禁",
       "onboard_time": 1773576022,
       "rank": 19,
@@ -136,6 +152,14 @@
       "word": "海霸王",
       "onboard_time": 1773585926,
       "rank": 8,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 187641,
+      "num": 187641,
+      "word": "给AI投毒已成产业链",
+      "onboard_time": 1773588802,
+      "rank": 27,
       "category": "舆论监督"
     },
     {
@@ -156,26 +180,26 @@
     },
     {
       "raw_hot": 174994,
-      "num": 118735,
+      "num": 119486,
       "word": "刘文祥这泼天的富贵你都没接住",
       "onboard_time": 1773587605,
       "rank": 20,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174569,
-      "num": 125369,
-      "word": "奥斯卡",
-      "onboard_time": 1773617299,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 165535,
-      "num": 134343,
+      "num": 136656,
       "word": "原著作者回应肖战出演十日终焉",
       "onboard_time": 1773581428,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164873,
+      "num": 164873,
+      "word": "等风热吻你",
+      "onboard_time": 1773616820,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -187,22 +211,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 140975,
-      "num": 122952,
-      "word": "给AI投毒已成产业链",
-      "onboard_time": 1773588802,
-      "rank": 27,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 137448,
-      "num": 120758,
-      "word": "以色列否认美方说法",
-      "onboard_time": 1773617119,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 136146,
       "num": 134275,
       "word": "配眼镜 暴利",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 135457,
-      "num": 135457,
+      "num": 211168,
       "word": "原来电商图是这样生成的",
       "onboard_time": 1773577225,
       "rank": 9,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 134850,
-      "num": 113068,
+      "num": 116036,
       "word": "伊朗攻击美战机支援基地",
       "onboard_time": 1773594077,
       "rank": 21,
@@ -235,20 +243,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123574,
+      "num": 116062,
+      "word": "奥斯卡红毯",
+      "onboard_time": 1773617240,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 122701,
+      "num": 122701,
+      "word": "医美骗局",
+      "onboard_time": 1773579689,
+      "rank": 32,
+      "category": "舆论监督,健康医疗"
+    },
+    {
       "raw_hot": 119703,
       "num": 119703,
       "word": "成毅正月里真不剪头发",
       "onboard_time": 1773586525,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113640,
-      "num": 113640,
-      "word": "医美骗局",
-      "onboard_time": 1773579689,
-      "rank": 32,
-      "category": "舆论监督,健康医疗"
     },
     {
       "raw_hot": 108620,
@@ -275,12 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100481,
-      "num": 100481,
-      "word": "奥斯卡红毯",
-      "onboard_time": 1773617240,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 100097,
+      "num": 100097,
+      "word": "樊振东这一球请起立鼓掌",
+      "onboard_time": 1773616639,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 99381,
@@ -291,20 +307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91301,
-      "num": 91301,
-      "word": "樊振东这一球请起立鼓掌",
-      "onboard_time": 1773616639,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91069,
       "num": 91069,
       "word": "刘宇宁快把自己送出去了",
       "onboard_time": 1773590482,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91007,
+      "num": 91007,
+      "word": "2026奥斯卡获奖名单",
+      "onboard_time": 1773617961,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 89685,
@@ -339,12 +355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85069,
+      "num": 85069,
+      "word": "315记者为暗访一个月抽血十几次",
+      "onboard_time": 1773575843,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 84242,
       "num": 84242,
       "word": "樊长玉知道谢征的身份了",
       "onboard_time": 1773574162,
       "rank": 31,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 82090,
+      "num": 82090,
+      "word": "张凌赫第一次拍长玉",
+      "onboard_time": 1773576562,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 81978,
@@ -371,20 +403,12 @@
       "category": "舆论监督,健康医疗"
     },
     {
-      "raw_hot": 79272,
-      "num": 79272,
-      "word": "315记者为暗访一个月抽血十几次",
-      "onboard_time": 1773575843,
-      "rank": 35,
+      "raw_hot": 78850,
+      "num": 78850,
+      "word": "网红西梅汁实则暗藏强效泻药",
+      "onboard_time": 1773577767,
+      "rank": 38,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 78529,
-      "num": 78529,
-      "word": "等风热吻你",
-      "onboard_time": 1773616820,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 78362,
@@ -403,14 +427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 75760,
-      "num": 75760,
-      "word": "网红西梅汁实则暗藏强效泻药",
-      "onboard_time": 1773577767,
-      "rank": 38,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 74281,
       "num": 74281,
       "word": "老人8万贱卖劳力士充值理发店",
@@ -419,16 +435,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73020,
-      "num": 73020,
-      "word": "张凌赫第一次拍长玉",
-      "onboard_time": 1773576562,
+      "raw_hot": 73332,
+      "num": 73332,
+      "word": "白敬亭用睡不着哄不好逃不掉高度总结",
+      "onboard_time": 1773607034,
       "rank": 33,
       "category": "剧集"
     },
     {
-      "raw_hot": 68436,
-      "num": 68436,
+      "raw_hot": 70705,
+      "num": 68745,
       "word": "谢征什么叫我们没在一起过",
       "onboard_time": 1773585626,
       "rank": 40,
@@ -467,12 +483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61846,
-      "num": 61846,
-      "word": "白敬亭用睡不着哄不好逃不掉高度总结",
-      "onboard_time": 1773607034,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 60746,
+      "num": 61839,
+      "word": "你问AI得到的答案可能是广告",
+      "onboard_time": 1773615557,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60581,
@@ -523,20 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52871,
-      "num": 61839,
-      "word": "你问AI得到的答案可能是广告",
-      "onboard_time": 1773615557,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48247,
+      "raw_hot": 50429,
       "num": 61832,
       "word": "伊朗发起第54波打击",
       "onboard_time": 1773616820,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50061,
+      "num": 60507,
+      "word": "F1中国大奖赛",
+      "onboard_time": 1773618380,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 47586,
@@ -571,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43874,
+      "num": 61812,
+      "word": "田柾国two挑战",
+      "onboard_time": 1773616519,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43837,
       "num": 43837,
       "word": "刘文祥麻辣烫在杂物间煎鸡蛋",
@@ -593,14 +617,6 @@
       "onboard_time": 1773587844,
       "rank": 28,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 40163,
-      "num": 61812,
-      "word": "田柾国two挑战",
-      "onboard_time": 1773616519,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 34755,
@@ -651,8 +667,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25201,
-      "num": 646283,
+      "raw_hot": 25269,
+      "num": 764421,
       "word": "网警提醒看不见的虚假更要防",
       "onboard_time": 1773581188,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773617861659,
+  "endTime": 1773618814125,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 603599,
-      "num": 241627,
+      "num": 291029,
       "word": "伊朗发射泥石弹道导弹",
       "onboard_time": 1773593298,
       "rank": 15,
@@ -323,6 +323,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 590883,
+      "num": 207675,
+      "word": "今年315把我爱吃的查了个遍",
+      "onboard_time": 1773616758,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 581506,
       "num": 834773,
       "word": "刘文祥店员说20元1斤能是纯牛肉吗",
@@ -361,6 +369,14 @@
       "onboard_time": 1773569182,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 527343,
+      "num": 206519,
+      "word": "1岁半宝宝睡醒后哭喊妈妈6小时",
+      "onboard_time": 1773617418,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 517160,
@@ -571,20 +587,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 347137,
-      "num": 128936,
-      "word": "1岁半宝宝睡醒后哭喊妈妈6小时",
-      "onboard_time": 1773617418,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 338541,
-      "num": 127539,
-      "word": "今年315把我爱吃的查了个遍",
-      "onboard_time": 1773616758,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 346925,
+      "num": 346925,
+      "word": "315曝光的鸡爪公司股东也在看晚会",
+      "onboard_time": 1773588384,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 336370,
@@ -609,14 +617,6 @@
       "onboard_time": 1773561861,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329756,
-      "num": 329756,
-      "word": "315曝光的鸡爪公司股东也在看晚会",
-      "onboard_time": 1773588384,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 328862,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318674,
+      "num": 204257,
+      "word": "以色列否认美方说法",
+      "onboard_time": 1773617119,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 317786,
       "num": 317786,
       "word": "张凌赫田曦薇没有杀青合照",
@@ -673,6 +681,14 @@
       "onboard_time": 1773569422,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 314738,
+      "num": 314738,
+      "word": "奥斯卡",
+      "onboard_time": 1773617299,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 312535,
@@ -899,8 +915,8 @@
       "category": "舆论监督,互联网"
     },
     {
-      "raw_hot": 245924,
-      "num": 245924,
+      "raw_hot": 249734,
+      "num": 249734,
       "word": "你住的酒店可能藏着第3只眼",
       "onboard_time": 1773616519,
       "rank": 4,
@@ -1251,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187641,
+      "num": 187641,
+      "word": "给AI投毒已成产业链",
+      "onboard_time": 1773588802,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 185861,
       "num": 138579,
       "word": "蓝盈莹一出手就是浪姐水准",
@@ -1339,14 +1363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174569,
-      "num": 125369,
-      "word": "奥斯卡",
-      "onboard_time": 1773617299,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 173669,
       "num": 173669,
       "word": "刘宇宁杭州演唱会",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1773540619,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164873,
+      "num": 164873,
+      "word": "等风热吻你",
+      "onboard_time": 1773616820,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 164367,
@@ -1587,14 +1611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 140975,
-      "num": 124877,
-      "word": "给AI投毒已成产业链",
-      "onboard_time": 1773588802,
-      "rank": 36,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 139542,
       "num": 139542,
       "word": "安东内利夺F1中国站冠军",
@@ -1609,14 +1625,6 @@
       "onboard_time": 1773571942,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 137448,
-      "num": 120758,
-      "word": "以色列否认美方说法",
-      "onboard_time": 1773617119,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137290,
@@ -1660,7 +1668,7 @@
     },
     {
       "raw_hot": 134850,
-      "num": 113068,
+      "num": 116036,
       "word": "伊朗攻击美战机支援基地",
       "onboard_time": 1773594077,
       "rank": 21,
@@ -1817,6 +1825,14 @@
       "onboard_time": 1773492144,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123574,
+      "num": 116062,
+      "word": "奥斯卡红毯",
+      "onboard_time": 1773617240,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 123504,
@@ -2211,12 +2227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100481,
-      "num": 100481,
-      "word": "奥斯卡红毯",
-      "onboard_time": 1773617240,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 100097,
+      "num": 100097,
+      "word": "樊振东这一球请起立鼓掌",
+      "onboard_time": 1773616639,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 99810,
@@ -2443,14 +2459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91301,
-      "num": 91301,
-      "word": "樊振东这一球请起立鼓掌",
-      "onboard_time": 1773616639,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91236,
       "num": 91236,
       "word": "暗访保税仓发货背后造假黑产",
@@ -2481,6 +2489,14 @@
       "onboard_time": 1773590482,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91007,
+      "num": 91007,
+      "word": "2026奥斯卡获奖名单",
+      "onboard_time": 1773617961,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 90837,
@@ -2747,14 +2763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78529,
-      "num": 78529,
-      "word": "等风热吻你",
-      "onboard_time": 1773616820,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 78483,
       "num": 78483,
       "word": "防止邻居太吵的方法找到了",
@@ -2856,6 +2864,14 @@
       "word": "我欲乘风",
       "onboard_time": 1773560121,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 73332,
+      "num": 73332,
+      "word": "白敬亭用睡不着哄不好逃不掉高度总结",
+      "onboard_time": 1773607034,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -2987,12 +3003,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61846,
-      "num": 61846,
-      "word": "白敬亭用睡不着哄不好逃不掉高度总结",
-      "onboard_time": 1773607034,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 60746,
+      "num": 61839,
+      "word": "你问AI得到的答案可能是广告",
+      "onboard_time": 1773615557,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60467,
@@ -3099,20 +3115,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52871,
-      "num": 61839,
-      "word": "你问AI得到的答案可能是广告",
-      "onboard_time": 1773615557,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51281,
       "num": 105849,
       "word": "著名哲学家哈贝马斯去世",
       "onboard_time": 1773499822,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 50429,
+      "num": 61832,
+      "word": "伊朗发起第54波打击",
+      "onboard_time": 1773616820,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 50061,
+      "num": 60507,
+      "word": "F1中国大奖赛",
+      "onboard_time": 1773618380,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 49939,
@@ -3155,14 +3179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48247,
-      "num": 61832,
-      "word": "伊朗发起第54波打击",
-      "onboard_time": 1773616820,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47586,
       "num": 47586,
       "word": "文淇 我已经反思了",
@@ -3201,6 +3217,14 @@
       "onboard_time": 1773581188,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43874,
+      "num": 61812,
+      "word": "田柾国two挑战",
+      "onboard_time": 1773616519,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 43837,
@@ -3289,14 +3313,6 @@
       "onboard_time": 1773532219,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40163,
-      "num": 61812,
-      "word": "田柾国two挑战",
-      "onboard_time": 1773616519,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 39518,
