@@ -1,0 +1,410 @@
+{
+  "runTime": 1773567823757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1688139,
+        "num": 1688139,
+        "word": "鹿哈或需赔偿消费者26.9亿元",
+        "onboard_time": 1773556760,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 793902,
+        "num": 909421,
+        "word": "315",
+        "onboard_time": 1773536180,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3865,
+        "num": 734279,
+        "word": "十五五这四类人群直接受益",
+        "onboard_time": 1773451701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1778930,
+        "num": 610312,
+        "word": "紫薯精天塌了",
+        "onboard_time": 1773565461,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 391658,
+        "num": 391658,
+        "word": "胖东来要求博主删除视频",
+        "onboard_time": 1773563901,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357226,
+        "num": 357226,
+        "word": "逐玉云合破50%",
+        "onboard_time": 1773565221,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349033,
+        "num": 349033,
+        "word": "F1",
+        "onboard_time": 1773559281,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325204,
+        "num": 325204,
+        "word": "刘文祥刚爆火就塌房",
+        "onboard_time": 1773558921,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317786,
+        "num": 317786,
+        "word": "张凌赫田曦薇没有杀青合照",
+        "onboard_time": 1773563481,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33755,
+        "num": 316116,
+        "word": "中美经贸磋商在巴黎举行",
+        "onboard_time": 1773566781,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316086,
+        "num": 316086,
+        "word": "怪不得印度工业发达原来都是0成本",
+        "onboard_time": 1773561802,
+        "rank": 10,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 300416,
+        "num": 300416,
+        "word": "江西九江发生岩降事故 3人死亡",
+        "onboard_time": 1773564321,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288357,
+        "num": 288357,
+        "word": "七种千万不能吃的食物",
+        "onboard_time": 1773563481,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 242913,
+        "num": 242913,
+        "word": "维斯塔潘退赛",
+        "onboard_time": 1773563662,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199604,
+        "num": 199604,
+        "word": "温瑞博4比2张本智和",
+        "onboard_time": 1773558021,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172491,
+        "num": 172491,
+        "word": "央视315晚会点名食品安全领域",
+        "onboard_time": 1773563721,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171748,
+        "num": 171748,
+        "word": "法拉利内斗",
+        "onboard_time": 1773561861,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166404,
+        "num": 166404,
+        "word": "逐玉开始单更了",
+        "onboard_time": 1773567142,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161552,
+        "num": 161552,
+        "word": "美宜佳致歉",
+        "onboard_time": 1773559462,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27135,
+        "num": 149323,
+        "word": "315记者为拍证据曾勇闯杀人蜂区",
+        "onboard_time": 1773567502,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 547272,
+        "num": 148757,
+        "word": "成毅 年龄",
+        "onboard_time": 1773537920,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319545,
+        "num": 148538,
+        "word": "李煜东故事会",
+        "onboard_time": 1773567562,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143771,
+        "num": 143771,
+        "word": "央视调查某茶饮品牌遭恶意抹黑始末",
+        "onboard_time": 1773549440,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143686,
+        "num": 143686,
+        "word": "泡椒凤爪的泡椒竟是印上去的",
+        "onboard_time": 1773549200,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 279835,
+        "num": 143352,
+        "word": "何晟铭因不愿演男主和于正冷战",
+        "onboard_time": 1773561023,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178664,
+        "num": 142151,
+        "word": "三平台破万的六位演员",
+        "onboard_time": 1773565702,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130923,
+        "num": 130923,
+        "word": "眼镜镜片标价799元进价仅15元",
+        "onboard_time": 1773556820,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 96808,
+        "num": 130585,
+        "word": "部分商家被315晚会曝光后屡教不改",
+        "onboard_time": 1773566541,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168140,
+        "num": 130262,
+        "word": "鹿哈 凌达乐",
+        "onboard_time": 1773561321,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 161706,
+        "num": 130110,
+        "word": "逐玉",
+        "onboard_time": 1773552681,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135440,
+        "num": 129741,
+        "word": "林丹回应不让儿子学羽毛球",
+        "onboard_time": 1773567083,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159724,
+        "num": 129051,
+        "word": "郝熠然 今晚见一面吧",
+        "onboard_time": 1773562282,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153734,
+        "num": 128886,
+        "word": "王橹杰的语音",
+        "onboard_time": 1773567502,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128646,
+        "num": 128646,
+        "word": "保证前额叶健康太重要了",
+        "onboard_time": 1773552802,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128987,
+        "num": 128646,
+        "word": "国色天香 何晟铭",
+        "onboard_time": 1773567321,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124539,
+        "num": 124539,
+        "word": "孔雪儿邓凯 接三搭",
+        "onboard_time": 1773566062,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122633,
+        "num": 122633,
+        "word": "伊朗用涂鸦骗导弹轰炸",
+        "onboard_time": 1773551901,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116841,
+        "num": 116841,
+        "word": "余承恩妈妈感谢夏之光",
+        "onboard_time": 1773565881,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116596,
+        "num": 116596,
+        "word": "自闭症女孩玩游戏半年充45万",
+        "onboard_time": 1773565221,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 112926,
+        "num": 112926,
+        "word": "短视频平台直播间的暗藏色情交易",
+        "onboard_time": 1773564441,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 111408,
+        "num": 111408,
+        "word": "伊朗称要打到美以投降受到惩罚",
+        "onboard_time": 1773566062,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110632,
+        "num": 110632,
+        "word": "李煜东发文",
+        "onboard_time": 1773552441,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107923,
+        "num": 107923,
+        "word": "奔驰EQC车主称花50万买了个老头乐",
+        "onboard_time": 1773566062,
+        "rank": 42,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 101255,
+        "num": 101255,
+        "word": "胡彦斌你要的全撒了",
+        "onboard_time": 1773566122,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100632,
+        "num": 100632,
+        "word": "25岁儿子毕业不工作急哭父亲",
+        "onboard_time": 1773548060,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99210,
+        "num": 99210,
+        "word": "刘文祥店员说20元1斤能是纯牛肉吗",
+        "onboard_time": 1773551240,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91995,
+        "num": 91995,
+        "word": "梁婷 成毅报户口的时候报大一岁",
+        "onboard_time": 1773542900,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91817,
+        "num": 91817,
+        "word": "F1现场好多明星",
+        "onboard_time": 1773567321,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 87531,
+        "num": 87531,
+        "word": "丢了5000块钱怎么和自己和解",
+        "onboard_time": 1773565823,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87137,
+        "num": 87137,
+        "word": "25岁儿子回应毕业不工作急哭父亲",
+        "onboard_time": 1773567801,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指引新起点上推进强国建设#"
+    }
+  }
+}
