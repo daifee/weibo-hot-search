@@ -1,6 +1,6 @@
 {
   "startTime": 1773592897493,
-  "endTime": 1773610577381,
+  "endTime": 1773611539913,
   "band_list": [
     {
       "raw_hot": 2402447,
@@ -459,20 +459,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33873,
+      "num": 33873,
+      "word": "白敬亭用睡不着哄不好逃不掉高度总结",
+      "onboard_time": 1773607034,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33662,
       "num": 53790,
       "word": "魏建军现身F1",
       "onboard_time": 1773592160,
       "rank": 49,
       "category": "体育,汽车"
-    },
-    {
-      "raw_hot": 32486,
-      "num": 32486,
-      "word": "白敬亭用睡不着哄不好逃不掉高度总结",
-      "onboard_time": 1773607034,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 32149,
@@ -483,8 +483,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29436,
-      "num": 29436,
+      "raw_hot": 30459,
+      "num": 30459,
       "word": "今年315晚会它们都被曝光了",
       "onboard_time": 1773598817,
       "rank": 26,
