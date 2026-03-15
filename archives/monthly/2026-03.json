@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773601549758,
+  "endTime": 1773603366387,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -39667,6 +39667,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 16948,
+      "num": 19775,
+      "word": "田曦薇我镜头下你的眼睛",
+      "onboard_time": 1773601395,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16856,
       "num": 233118,
       "word": "建议慈善教育分层推进",
@@ -39737,14 +39745,6 @@
       "onboard_time": 1772522068,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16427,
-      "num": 19775,
-      "word": "田曦薇我镜头下你的眼睛",
-      "onboard_time": 1773601395,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 16386,
@@ -39921,6 +39921,14 @@
       "onboard_time": 1773384682,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15149,
+      "num": 19577,
+      "word": "肖战品质盛典造型大片",
+      "onboard_time": 1773601694,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 15104,

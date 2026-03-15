@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773601549758,
+  "endTime": 1773603366387,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -3427,6 +3427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16948,
+      "num": 19775,
+      "word": "田曦薇我镜头下你的眼睛",
+      "onboard_time": 1773601395,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16705,
       "num": 22404,
       "word": "朱志鑫牙牙乐打卡",
@@ -3441,14 +3449,6 @@
       "onboard_time": 1773523514,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 16427,
-      "num": 19775,
-      "word": "田曦薇我镜头下你的眼睛",
-      "onboard_time": 1773601395,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 15893,
@@ -3473,6 +3473,14 @@
       "onboard_time": 1773490281,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15149,
+      "num": 19577,
+      "word": "肖战品质盛典造型大片",
+      "onboard_time": 1773601694,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14049,

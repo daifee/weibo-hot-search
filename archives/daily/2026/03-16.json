@@ -1,6 +1,6 @@
 {
   "startTime": 1773592897493,
-  "endTime": 1773601549758,
+  "endTime": 1773603366387,
   "band_list": [
     {
       "raw_hot": 2402447,
@@ -531,7 +531,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20726,
+      "raw_hot": 21726,
       "num": 22432,
       "word": "315晚会曝光AI大模型被投毒",
       "onboard_time": 1773581847,
@@ -547,20 +547,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16948,
+      "num": 19775,
+      "word": "田曦薇我镜头下你的眼睛",
+      "onboard_time": 1773601395,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16705,
       "num": 22404,
       "word": "朱志鑫牙牙乐打卡",
       "onboard_time": 1773600015,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16427,
-      "num": 19775,
-      "word": "田曦薇我镜头下你的眼睛",
-      "onboard_time": 1773601395,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 15893,
@@ -577,6 +577,14 @@
       "onboard_time": 1773601155,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15149,
+      "num": 19577,
+      "word": "肖战品质盛典造型大片",
+      "onboard_time": 1773601694,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14049,
