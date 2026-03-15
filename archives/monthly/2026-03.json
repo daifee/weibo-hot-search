@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773559761701,
+  "endTime": 1773561657558,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2210943,
+      "num": 2210943,
+      "word": "鹿哈或需赔偿消费者26.9亿元",
+      "onboard_time": 1773556760,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2208378,
       "num": 641939,
       "word": "春假清明连休6天家长称很无奈",
@@ -217,14 +225,6 @@
       "onboard_time": 1772786962,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2030630,
-      "num": 2030630,
-      "word": "鹿哈或需赔偿消费者26.9亿元",
-      "onboard_time": 1773556760,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1989878,
@@ -1721,6 +1721,14 @@
       "onboard_time": 1772328563,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 803369,
+      "num": 803369,
+      "word": "刘文祥刚爆火就塌房",
+      "onboard_time": 1773558921,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 802624,
@@ -4931,6 +4939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436110,
+      "num": 436110,
+      "word": "美宜佳致歉",
+      "onboard_time": 1773559462,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436059,
       "num": 535040,
       "word": "田曦薇逐玉破万贺图",
@@ -5241,6 +5257,14 @@
       "onboard_time": 1773276261,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 421336,
+      "num": 421336,
+      "word": "眼镜镜片标价799元进价仅15元",
+      "onboard_time": 1773556820,
+      "rank": 22,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 421035,
@@ -6097,6 +6121,14 @@
       "onboard_time": 1772857160,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379816,
+      "num": 275738,
+      "word": "冻干草莓",
+      "onboard_time": 1773556280,
+      "rank": 21,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 379778,
@@ -8451,14 +8483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291022,
-      "num": 291022,
-      "word": "刘文祥刚爆火就塌房",
-      "onboard_time": 1773558921,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 290404,
       "num": 290404,
       "word": "结婚后住上男女混寝了",
@@ -8985,14 +9009,6 @@
       "onboard_time": 1773539180,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275738,
-      "num": 275738,
-      "word": "冻干草莓",
-      "onboard_time": 1773556280,
-      "rank": 21,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 275127,
@@ -9769,14 +9785,6 @@
       "onboard_time": 1772665880,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252393,
-      "num": 252393,
-      "word": "眼镜镜片标价799元进价仅15元",
-      "onboard_time": 1773556820,
-      "rank": 22,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 252341,
@@ -11945,6 +11953,14 @@
       "onboard_time": 1773053421,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201117,
+      "num": 201117,
+      "word": "何晟铭因不愿演男主和于正冷战",
+      "onboard_time": 1773561023,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 201104,
@@ -15219,6 +15235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152405,
+      "num": 152405,
+      "word": "窦骁在何超莲vlog出镜",
+      "onboard_time": 1773559341,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152283,
       "num": 546777,
       "word": "霸王茶姬口令答案",
@@ -17867,14 +17891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126373,
-      "num": 292209,
-      "word": "美宜佳致歉",
-      "onboard_time": 1773559462,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126165,
       "num": 126165,
       "word": "张凌赫不想在林俊杰面前丢脸",
@@ -18009,6 +18025,14 @@
       "onboard_time": 1772459006,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125252,
+      "num": 125252,
+      "word": "315记者直击酒店偷拍黑色产业链",
+      "onboard_time": 1773560601,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125052,
@@ -20083,6 +20107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111370,
+      "num": 110561,
+      "word": "谢霆锋是上海F1001号车手",
+      "onboard_time": 1773560962,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111241,
       "num": 111241,
       "word": "男子伪造3.7万个拉环每天兑10箱啤酒",
@@ -20865,6 +20897,14 @@
       "onboard_time": 1772792602,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106233,
+      "num": 106233,
+      "word": "虞书欣拍上云初令短剧了",
+      "onboard_time": 1773556280,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 106231,
@@ -21955,14 +21995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100680,
-      "num": 100680,
-      "word": "虞书欣拍上云初令短剧了",
-      "onboard_time": 1773556280,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100677,
       "num": 100677,
       "word": "DYG为钎城辟谣",
@@ -22529,14 +22561,6 @@
       "onboard_time": 1772607986,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98551,
-      "num": 98551,
-      "word": "窦骁在何超莲vlog出镜",
-      "onboard_time": 1773559341,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 98454,
@@ -24635,6 +24659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89823,
+      "num": 89823,
+      "word": "鹿哈 凌达乐",
+      "onboard_time": 1773561321,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 89718,
       "num": 89718,
       "word": "315直播曝光消费乱象",
@@ -25771,6 +25803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85265,
+      "num": 85265,
+      "word": "王鹤棣把白鹿宋茜沈月都回答了一遍",
+      "onboard_time": 1773553581,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85207,
       "num": 85207,
       "word": "苹果折叠屏或更宽",
@@ -26771,6 +26811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81247,
+      "num": 85513,
+      "word": "第一次见反向cos的",
+      "onboard_time": 1773561079,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81196,
       "num": 81196,
       "word": "我国综合国力再上新台阶",
@@ -27120,14 +27168,6 @@
       "word": "夏之光妈妈好像杨迪梦女",
       "onboard_time": 1773039261,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 79953,
-      "num": 79953,
-      "word": "王鹤棣把白鹿宋茜沈月都回答了一遍",
-      "onboard_time": 1773553581,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -28763,6 +28803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74111,
+      "num": 74111,
+      "word": "美宜佳总部回应多地门店卖假烟",
+      "onboard_time": 1773559823,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74062,
       "num": 74062,
       "word": "几分钟讲清楚投资的本质",
@@ -28857,6 +28905,14 @@
       "onboard_time": 1773371660,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73771,
+      "num": 73771,
+      "word": "我欲乘风",
+      "onboard_time": 1773560121,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 73711,
@@ -29313,6 +29369,14 @@
       "onboard_time": 1772496502,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 72114,
+      "num": 74272,
+      "word": "F1取消赛事损失或高达2亿美元",
+      "onboard_time": 1773560962,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 72105,
@@ -38689,6 +38753,22 @@
       "onboard_time": 1772865561,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8021,
+      "num": 89910,
+      "word": "赶在涨价前车主把加油站的油抢光了",
+      "onboard_time": 1773561622,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7968,
+      "num": 90742,
+      "word": "蒙牛普通奶粉暗示能长一米八八",
+      "onboard_time": 1773561622,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 7896,

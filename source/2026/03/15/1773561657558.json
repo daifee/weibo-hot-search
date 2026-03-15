@@ -1,0 +1,410 @@
+{
+  "runTime": 1773561657558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2210943,
+        "num": 2210943,
+        "word": "鹿哈或需赔偿消费者26.9亿元",
+        "onboard_time": 1773556760,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 943794,
+        "num": 961455,
+        "word": "315",
+        "onboard_time": 1773536180,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25524,
+        "num": 812024,
+        "word": "十五五规划里的新提法",
+        "onboard_time": 1773540560,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 803369,
+        "num": 803369,
+        "word": "刘文祥刚爆火就塌房",
+        "onboard_time": 1773558921,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460156,
+        "num": 460156,
+        "word": "温瑞博4比2张本智和",
+        "onboard_time": 1773558021,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436110,
+        "num": 436110,
+        "word": "美宜佳致歉",
+        "onboard_time": 1773559462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421336,
+        "num": 421336,
+        "word": "眼镜镜片标价799元进价仅15元",
+        "onboard_time": 1773556820,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 353948,
+        "num": 353948,
+        "word": "F1",
+        "onboard_time": 1773559281,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60313,
+        "num": 260971,
+        "word": "专家建议工作日缩至4天",
+        "onboard_time": 1773541460,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 259799,
+        "num": 259799,
+        "word": "迈凯轮双车退赛",
+        "onboard_time": 1773559281,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 603665,
+        "num": 257129,
+        "word": "成毅 年龄",
+        "onboard_time": 1773537920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243122,
+        "num": 243122,
+        "word": "泡椒凤爪的泡椒竟是印上去的",
+        "onboard_time": 1773549200,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 232742,
+        "num": 232742,
+        "word": "夏之光 我的家庭没有能力兜底",
+        "onboard_time": 1773555741,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231381,
+        "num": 231381,
+        "word": "保证前额叶健康太重要了",
+        "onboard_time": 1773552802,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203379,
+        "num": 203379,
+        "word": "刘文祥店员说20元1斤能是纯牛肉吗",
+        "onboard_time": 1773551240,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252198,
+        "num": 203339,
+        "word": "梁婷 成毅报户口的时候报大一岁",
+        "onboard_time": 1773542900,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201117,
+        "num": 201117,
+        "word": "何晟铭因不愿演男主和于正冷战",
+        "onboard_time": 1773561023,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193026,
+        "num": 193026,
+        "word": "25岁儿子毕业不工作急哭父亲",
+        "onboard_time": 1773548060,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192910,
+        "num": 192910,
+        "word": "伊朗用涂鸦骗导弹轰炸",
+        "onboard_time": 1773551901,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171830,
+        "num": 171830,
+        "word": "央视调查某茶饮品牌遭恶意抹黑始末",
+        "onboard_time": 1773549440,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152405,
+        "num": 152405,
+        "word": "窦骁在何超莲vlog出镜",
+        "onboard_time": 1773559341,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149547,
+        "num": 149547,
+        "word": "谭松韵别试探了有市场",
+        "onboard_time": 1773557421,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140959,
+        "num": 140959,
+        "word": "亿级APP存在大量儿童软色情内容",
+        "onboard_time": 1773554181,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 126616,
+        "num": 126616,
+        "word": "100万装出了10万的装修效果",
+        "onboard_time": 1773548720,
+        "rank": 23,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 125524,
+        "num": 125524,
+        "word": "逐玉",
+        "onboard_time": 1773552681,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125252,
+        "num": 125252,
+        "word": "315记者直击酒店偷拍黑色产业链",
+        "onboard_time": 1773560601,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116279,
+        "num": 116279,
+        "word": "网友卢浮宫偶遇素颜刘亦菲",
+        "onboard_time": 1773547461,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113325,
+        "num": 113325,
+        "word": "金道勋 ana",
+        "onboard_time": 1773552022,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110768,
+        "num": 110768,
+        "word": "刘文祥",
+        "onboard_time": 1773547938,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111370,
+        "num": 110561,
+        "word": "谢霆锋是上海F1001号车手",
+        "onboard_time": 1773560962,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108772,
+        "num": 108772,
+        "word": "泰国遇害中国女子丈夫发声",
+        "onboard_time": 1773545960,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106233,
+        "num": 106233,
+        "word": "虞书欣拍上云初令短剧了",
+        "onboard_time": 1773556280,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105898,
+        "num": 105898,
+        "word": "张凌赫吃了田曦薇给的青提",
+        "onboard_time": 1773556461,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379816,
+        "num": 103145,
+        "word": "冻干草莓",
+        "onboard_time": 1773556280,
+        "rank": 33,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 97498,
+        "num": 97498,
+        "word": "温瑞博晋级重庆赛决赛",
+        "onboard_time": 1773558801,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96211,
+        "num": 96211,
+        "word": "F1取消四月全部赛事",
+        "onboard_time": 1773551962,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7968,
+        "num": 90742,
+        "word": "蒙牛普通奶粉暗示能长一米八八",
+        "onboard_time": 1773561622,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 8021,
+        "num": 89910,
+        "word": "赶在涨价前车主把加油站的油抢光了",
+        "onboard_time": 1773561622,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89823,
+        "num": 89823,
+        "word": "鹿哈 凌达乐",
+        "onboard_time": 1773561321,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86667,
+        "num": 86667,
+        "word": "李煜东发文",
+        "onboard_time": 1773552441,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81247,
+        "num": 85513,
+        "word": "第一次见反向cos的",
+        "onboard_time": 1773561079,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85265,
+        "num": 85265,
+        "word": "王鹤棣把白鹿宋茜沈月都回答了一遍",
+        "onboard_time": 1773553581,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81366,
+        "num": 81366,
+        "word": "方圆自曝不火了就去国外读书",
+        "onboard_time": 1773549560,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80997,
+        "num": 80997,
+        "word": "孔雪儿好有版权意识",
+        "onboard_time": 1773552200,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74405,
+        "num": 80250,
+        "word": "书源摔倒",
+        "onboard_time": 1773558501,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79689,
+        "num": 79689,
+        "word": "李兰迪林沐然十年前的合照",
+        "onboard_time": 1773557000,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75424,
+        "num": 75424,
+        "word": "王橹杰自拍九宫格",
+        "onboard_time": 1773553280,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72114,
+        "num": 74272,
+        "word": "F1取消赛事损失或高达2亿美元",
+        "onboard_time": 1773560962,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74111,
+        "num": 74111,
+        "word": "美宜佳总部回应多地门店卖假烟",
+        "onboard_time": 1773559823,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73771,
+        "num": 73771,
+        "word": "我欲乘风",
+        "onboard_time": 1773560121,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#120秒回顾总书记的两会时刻#"
+    }
+  }
+}
