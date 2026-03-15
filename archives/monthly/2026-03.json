@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773558528142,
+  "endTime": 1773559761701,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -219,8 +219,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2030630,
+      "num": 2030630,
+      "word": "鹿哈或需赔偿消费者26.9亿元",
+      "onboard_time": 1773556760,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1989878,
-      "num": 271624,
+      "num": 291735,
       "word": "成毅 年龄",
       "onboard_time": 1773537920,
       "rank": 10,
@@ -707,14 +715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1200540,
-      "num": 1200540,
-      "word": "鹿哈或需赔偿消费者26.9亿元",
-      "onboard_time": 1773556760,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1196367,
       "num": 625283,
       "word": "伊朗政府宣布40天全国哀悼",
@@ -867,6 +867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1120739,
+      "num": 1167793,
+      "word": "315",
+      "onboard_time": 1773536180,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1114903,
       "num": 404306,
       "word": "伊朗玫瑰宫遭袭前后对比",
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 1068657,
-      "num": 213487,
+      "num": 253859,
       "word": "梁婷 成毅报户口的时候报大一岁",
       "onboard_time": 1773542900,
       "rank": 24,
@@ -993,14 +1001,6 @@
       "onboard_time": 1772779462,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1048710,
-      "num": 1167793,
-      "word": "315",
-      "onboard_time": 1773536180,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1035808,
@@ -2747,6 +2747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 634238,
+      "num": 634238,
+      "word": "温瑞博4比2张本智和",
+      "onboard_time": 1773558021,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 630197,
       "num": 1100831,
       "word": "马杜罗彻夜高喊我是总统正被虐待",
@@ -3403,6 +3411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551047,
+      "num": 296144,
+      "word": "章子怡状态",
+      "onboard_time": 1773553881,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 548589,
       "num": 160054,
       "word": "伊朗遇难学生一个个墓穴让人心碎",
@@ -3769,14 +3785,6 @@
       "onboard_time": 1773531258,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 511355,
-      "num": 511355,
-      "word": "温瑞博4比2张本智和",
-      "onboard_time": 1773558021,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 511334,
@@ -7891,20 +7899,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 307816,
+      "num": 307816,
+      "word": "夏之光 我的家庭没有能力兜底",
+      "onboard_time": 1773555741,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307577,
       "num": 307577,
       "word": "985父母的清醒反思",
       "onboard_time": 1773020903,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 307564,
-      "num": 307564,
-      "word": "夏之光 我的家庭没有能力兜底",
-      "onboard_time": 1773555741,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 307437,
@@ -8267,6 +8275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296740,
+      "num": 296740,
+      "word": "迈凯轮双车退赛",
+      "onboard_time": 1773559281,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296470,
       "num": 382284,
       "word": "狗 人我讨厌坐飞机",
@@ -8433,6 +8449,14 @@
       "onboard_time": 1772696183,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291022,
+      "num": 291022,
+      "word": "刘文祥刚爆火就塌房",
+      "onboard_time": 1773558921,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290404,
@@ -8963,6 +8987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275738,
+      "num": 275738,
+      "word": "冻干草莓",
+      "onboard_time": 1773556280,
+      "rank": 21,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 275127,
       "num": 275127,
       "word": "方大同拍摄的时候没有封路",
@@ -9144,6 +9176,14 @@
       "word": "王楚钦晒大满贯奖杯",
       "onboard_time": 1772457865,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 269672,
+      "num": 269672,
+      "word": "温瑞博晋级重庆赛决赛",
+      "onboard_time": 1773558801,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -9729,6 +9769,14 @@
       "onboard_time": 1772665880,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252393,
+      "num": 252393,
+      "word": "眼镜镜片标价799元进价仅15元",
+      "onboard_time": 1773556820,
+      "rank": 22,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 252341,
@@ -11723,14 +11771,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 205682,
-      "num": 205682,
-      "word": "冻干草莓",
-      "onboard_time": 1773556280,
-      "rank": 21,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 205537,
       "num": 905303,
       "word": "鹿晗五哈上班",
@@ -12033,6 +12073,14 @@
       "onboard_time": 1772802382,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 198866,
+      "num": 198866,
+      "word": "谭松韵别试探了有市场",
+      "onboard_time": 1773557421,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 198802,
@@ -13089,14 +13137,6 @@
       "onboard_time": 1773294442,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 179933,
-      "num": 179933,
-      "word": "眼镜镜片标价799元进价仅15元",
-      "onboard_time": 1773556820,
-      "rank": 22,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 179890,
@@ -14603,6 +14643,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 159009,
+      "num": 159009,
+      "word": "亿级APP存在大量儿童软色情内容",
+      "onboard_time": 1773554181,
+      "rank": 24,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 158879,
       "num": 603208,
       "word": "00后已经不认识吴彦祖了",
@@ -15249,14 +15297,6 @@
       "onboard_time": 1773054203,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 151625,
-      "num": 151625,
-      "word": "亿级APP存在大量儿童软色情内容",
-      "onboard_time": 1773554181,
-      "rank": 24,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 151509,
@@ -16288,14 +16328,6 @@
       "word": "王小亿内场这个美",
       "onboard_time": 1773207862,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 141702,
-      "num": 141702,
-      "word": "谭松韵别试探了有市场",
-      "onboard_time": 1773557421,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -17833,6 +17865,14 @@
       "onboard_time": 1772765721,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126373,
+      "num": 292209,
+      "word": "美宜佳致歉",
+      "onboard_time": 1773559462,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126165,
@@ -21915,6 +21955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100680,
+      "num": 100680,
+      "word": "虞书欣拍上云初令短剧了",
+      "onboard_time": 1773556280,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100677,
       "num": 100677,
       "word": "DYG为钎城辟谣",
@@ -21993,14 +22041,6 @@
       "onboard_time": 1772938880,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 100213,
-      "num": 96522,
-      "word": "虞书欣拍上云初令短剧了",
-      "onboard_time": 1773556280,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 100182,
@@ -22489,6 +22529,14 @@
       "onboard_time": 1772607986,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98551,
+      "num": 98551,
+      "word": "窦骁在何超莲vlog出镜",
+      "onboard_time": 1773559341,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 98454,
@@ -23267,6 +23315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94902,
+      "num": 94902,
+      "word": "李昀锐F1赛车服造型",
+      "onboard_time": 1773554480,
+      "rank": 40,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 94874,
       "num": 94874,
       "word": "建议减轻教师非教育教学负担",
@@ -23305,14 +23361,6 @@
       "onboard_time": 1772607204,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 94659,
-      "num": 91774,
-      "word": "李昀锐F1赛车服造型",
-      "onboard_time": 1773554480,
-      "rank": 40,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 94606,
@@ -27467,6 +27515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78250,
+      "num": 98540,
+      "word": "温瑞博首进冠军赛决赛",
+      "onboard_time": 1773559584,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78197,
       "num": 745893,
       "word": "这位人大代表太飒了",
@@ -29297,6 +29353,14 @@
       "onboard_time": 1772453185,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 71946,
+      "num": 93825,
+      "word": "维斯塔潘说新车很拉垮",
+      "onboard_time": 1773559641,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 71900,

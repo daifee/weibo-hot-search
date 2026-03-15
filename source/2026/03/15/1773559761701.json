@@ -1,0 +1,410 @@
+{
+  "runTime": 1773559761701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2030630,
+        "num": 2030630,
+        "word": "鹿哈或需赔偿消费者26.9亿元",
+        "onboard_time": 1773556760,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1120739,
+        "num": 1120739,
+        "word": "315",
+        "onboard_time": 1773536180,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27159,
+        "num": 743183,
+        "word": "十五五规划里的新提法",
+        "onboard_time": 1773540560,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 634238,
+        "num": 634238,
+        "word": "温瑞博4比2张本智和",
+        "onboard_time": 1773558021,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 556343,
+        "num": 556343,
+        "word": "温瑞博vs张本智和",
+        "onboard_time": 1773553640,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321525,
+        "num": 321525,
+        "word": "F1",
+        "onboard_time": 1773559281,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314998,
+        "num": 314998,
+        "word": "刘文祥店员说20元1斤能是纯牛肉吗",
+        "onboard_time": 1773551240,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307816,
+        "num": 307816,
+        "word": "夏之光 我的家庭没有能力兜底",
+        "onboard_time": 1773555741,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60114,
+        "num": 301583,
+        "word": "专家建议工作日缩至4天",
+        "onboard_time": 1773541460,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296740,
+        "num": 296740,
+        "word": "迈凯轮双车退赛",
+        "onboard_time": 1773559281,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551047,
+        "num": 296144,
+        "word": "章子怡状态",
+        "onboard_time": 1773553881,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126373,
+        "num": 292209,
+        "word": "美宜佳致歉",
+        "onboard_time": 1773559462,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541160,
+        "num": 291735,
+        "word": "成毅 年龄",
+        "onboard_time": 1773537920,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291022,
+        "num": 291022,
+        "word": "刘文祥刚爆火就塌房",
+        "onboard_time": 1773558921,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275738,
+        "num": 275738,
+        "word": "冻干草莓",
+        "onboard_time": 1773556280,
+        "rank": 14,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 269672,
+        "num": 269672,
+        "word": "温瑞博晋级重庆赛决赛",
+        "onboard_time": 1773558801,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266239,
+        "num": 266239,
+        "word": "保证前额叶健康太重要了",
+        "onboard_time": 1773552802,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258429,
+        "num": 258429,
+        "word": "泡椒凤爪的泡椒竟是印上去的",
+        "onboard_time": 1773549200,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 253859,
+        "num": 253859,
+        "word": "梁婷 成毅报户口的时候报大一岁",
+        "onboard_time": 1773542900,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252393,
+        "num": 252393,
+        "word": "眼镜镜片标价799元进价仅15元",
+        "onboard_time": 1773556820,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 237327,
+        "num": 237327,
+        "word": "伊朗用涂鸦骗导弹轰炸",
+        "onboard_time": 1773551901,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233441,
+        "num": 233441,
+        "word": "央视调查某茶饮品牌遭恶意抹黑始末",
+        "onboard_time": 1773549440,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198866,
+        "num": 198866,
+        "word": "谭松韵别试探了有市场",
+        "onboard_time": 1773557421,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183280,
+        "num": 183280,
+        "word": "孔雪儿好有版权意识",
+        "onboard_time": 1773552200,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181200,
+        "num": 181200,
+        "word": "25岁儿子毕业不工作急哭父亲",
+        "onboard_time": 1773548060,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177280,
+        "num": 177280,
+        "word": "刘文祥",
+        "onboard_time": 1773547938,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160087,
+        "num": 160087,
+        "word": "100万装出了10万的装修效果",
+        "onboard_time": 1773548720,
+        "rank": 26,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 159009,
+        "num": 159009,
+        "word": "亿级APP存在大量儿童软色情内容",
+        "onboard_time": 1773554181,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 154397,
+        "num": 154397,
+        "word": "逐玉",
+        "onboard_time": 1773552681,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152804,
+        "num": 152804,
+        "word": "F1取消四月全部赛事",
+        "onboard_time": 1773551962,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120858,
+        "num": 120858,
+        "word": "金道勋 ana",
+        "onboard_time": 1773552022,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116219,
+        "num": 116219,
+        "word": "泰国遇害中国女子丈夫发声",
+        "onboard_time": 1773545960,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116097,
+        "num": 116097,
+        "word": "网友卢浮宫偶遇素颜刘亦菲",
+        "onboard_time": 1773547461,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87698,
+        "num": 103283,
+        "word": "F1正赛",
+        "onboard_time": 1773558261,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100680,
+        "num": 100680,
+        "word": "虞书欣拍上云初令短剧了",
+        "onboard_time": 1773556280,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98551,
+        "num": 98551,
+        "word": "窦骁在何超莲vlog出镜",
+        "onboard_time": 1773559341,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78250,
+        "num": 98540,
+        "word": "温瑞博首进冠军赛决赛",
+        "onboard_time": 1773559584,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98535,
+        "num": 98535,
+        "word": "张凌赫吃了田曦薇给的青提",
+        "onboard_time": 1773556461,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95800,
+        "num": 95800,
+        "word": "李兰迪林沐然十年前的合照",
+        "onboard_time": 1773557000,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75425,
+        "num": 95050,
+        "word": "书源摔倒",
+        "onboard_time": 1773558501,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94902,
+        "num": 94902,
+        "word": "李昀锐F1赛车服造型",
+        "onboard_time": 1773554480,
+        "rank": 40,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 93999,
+        "num": 93999,
+        "word": "王橹杰自拍九宫格",
+        "onboard_time": 1773553280,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71946,
+        "num": 93825,
+        "word": "维斯塔潘说新车很拉垮",
+        "onboard_time": 1773559641,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93805,
+        "num": 93805,
+        "word": "国产剧月经戏终于不尴尬了",
+        "onboard_time": 1773552802,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92894,
+        "num": 92894,
+        "word": "方圆自曝不火了就去国外读书",
+        "onboard_time": 1773549560,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69717,
+        "num": 86468,
+        "word": "315不是一天的事",
+        "onboard_time": 1773545839,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81262,
+        "num": 81262,
+        "word": "李煜东发文",
+        "onboard_time": 1773552441,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77852,
+        "num": 77852,
+        "word": "她俩从连体婴到形同陌路",
+        "onboard_time": 1773548060,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69614,
+        "num": 69614,
+        "word": "古巴",
+        "onboard_time": 1773539422,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65257,
+        "num": 69606,
+        "word": "王励勤观战温瑞博",
+        "onboard_time": 1773558201,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#120秒回顾总书记的两会时刻#"
+    }
+  }
+}
