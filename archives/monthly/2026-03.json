@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773567823757,
+  "endTime": 1773568659896,
   "band_list": [
     {
       "raw_hot": 15067767,
@@ -211,6 +211,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 2087503,
+      "num": 654584,
+      "word": "紫薯精天塌了",
+      "onboard_time": 1773565461,
+      "rank": 3,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 2056777,
       "num": 476441,
       "word": "伊朗总统就哈梅内伊身亡发声明",
@@ -281,14 +289,6 @@
       "onboard_time": 1772975661,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1778930,
-      "num": 610312,
-      "word": "紫薯精天塌了",
-      "onboard_time": 1773565461,
-      "rank": 3,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1768231,
@@ -3395,6 +3395,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 554824,
+      "num": 554824,
+      "word": "胖东来要求博主删除视频",
+      "onboard_time": 1773563901,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 554716,
       "num": 787541,
       "word": "美军精锐部队突然异动",
@@ -5931,14 +5939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 391658,
-      "num": 391658,
-      "word": "胖东来要求博主删除视频",
-      "onboard_time": 1773563901,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 391574,
       "num": 613825,
       "word": "林书豪爆科比私下性格",
@@ -6795,6 +6795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352320,
+      "num": 352320,
+      "word": "江西九江发生岩降事故 3人死亡",
+      "onboard_time": 1773564321,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352095,
       "num": 331064,
       "word": "伊方愿全力保障中方人员机构的安全",
@@ -7424,6 +7432,14 @@
       "word": "云合",
       "onboard_time": 1773045441,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 325159,
+      "num": 263464,
+      "word": "逐玉开始单更了",
+      "onboard_time": 1773567142,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -8257,14 +8273,6 @@
       "onboard_time": 1772293583,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 300416,
-      "num": 300416,
-      "word": "江西九江发生岩降事故 3人死亡",
-      "onboard_time": 1773564321,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 300305,
@@ -11003,6 +11011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224293,
+      "num": 159562,
+      "word": "郝熠然 今晚见一面吧",
+      "onboard_time": 1773562282,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224162,
       "num": 224162,
       "word": "夏之光妈妈 姐系妈感",
@@ -13643,6 +13659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172680,
+      "num": 172680,
+      "word": "国色天香 何晟铭",
+      "onboard_time": 1773567321,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172611,
       "num": 172611,
       "word": "哈哈哈哈哈6铁三角回归",
@@ -14137,14 +14161,6 @@
       "onboard_time": 1773422418,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166404,
-      "num": 166404,
-      "word": "逐玉开始单更了",
-      "onboard_time": 1773567142,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 166214,
@@ -14683,14 +14699,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 159724,
-      "num": 159562,
-      "word": "郝熠然 今晚见一面吧",
-      "onboard_time": 1773562282,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159698,
       "num": 194535,
       "word": "工作脑vs事业脑",
@@ -15083,6 +15091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155632,
+      "num": 155632,
+      "word": "北京WBG对战FPX.ZQ",
+      "onboard_time": 1773567982,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155358,
       "num": 187309,
       "word": "曝AL签下Bigwei",
@@ -15204,7 +15220,7 @@
     },
     {
       "raw_hot": 153734,
-      "num": 128886,
+      "num": 134763,
       "word": "王橹杰的语音",
       "onboard_time": 1773567502,
       "rank": 32,
@@ -15649,6 +15665,14 @@
       "onboard_time": 1773232641,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149301,
+      "num": 149301,
+      "word": "林丹回应不让儿子学羽毛球",
+      "onboard_time": 1773567083,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 149109,
@@ -16707,6 +16731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138716,
+      "num": 138716,
+      "word": "F1现场好多明星",
+      "onboard_time": 1773567321,
+      "rank": 47,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 138623,
       "num": 138623,
       "word": "林诗栋重庆冠军赛退赛",
@@ -16985,14 +17017,6 @@
       "onboard_time": 1772866761,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 135440,
-      "num": 129741,
-      "word": "林丹回应不让儿子学羽毛球",
-      "onboard_time": 1773567083,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 135310,
@@ -17731,14 +17755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 128987,
-      "num": 128646,
-      "word": "国色天香 何晟铭",
-      "onboard_time": 1773567321,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128937,
       "num": 162050,
       "word": "98岁爷爷在西湖边火了",
@@ -17865,6 +17881,14 @@
       "onboard_time": 1772720845,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 127716,
+      "num": 127716,
+      "word": "伊朗称要打到美以投降受到惩罚",
+      "onboard_time": 1773566062,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127654,
@@ -20339,14 +20363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 111408,
-      "num": 111408,
-      "word": "伊朗称要打到美以投降受到惩罚",
-      "onboard_time": 1773566062,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 111371,
       "num": 216072,
       "word": "刘亦菲夏日松弛感拉满",
@@ -22185,6 +22201,14 @@
       "onboard_time": 1773498923,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100958,
+      "num": 100958,
+      "word": "以前扮丑是真的扮丑",
+      "onboard_time": 1773567321,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 100940,
@@ -24451,14 +24475,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 91817,
-      "num": 91817,
-      "word": "F1现场好多明星",
-      "onboard_time": 1773567321,
-      "rank": 47,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 91759,
       "num": 91759,
       "word": "上班vlog到底是谁在拍",
@@ -25451,6 +25467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88058,
+      "num": 88058,
+      "word": "丢了5000块钱怎么和自己和解",
+      "onboard_time": 1773565823,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88027,
       "num": 181559,
       "word": "林噙霜你的周娘子跟大娘子跑了",
@@ -25537,14 +25561,6 @@
       "onboard_time": 1772926157,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87531,
-      "num": 87531,
-      "word": "丢了5000块钱怎么和自己和解",
-      "onboard_time": 1773565823,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 87525,
@@ -25969,6 +25985,14 @@
       "onboard_time": 1772969481,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 85944,
+      "num": 85944,
+      "word": "小英整牙",
+      "onboard_time": 1773568582,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 85927,
@@ -27649,6 +27673,14 @@
       "onboard_time": 1773392661,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 79062,
+      "num": 149323,
+      "word": "315记者为拍证据曾勇闯杀人蜂区",
+      "onboard_time": 1773567502,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 78966,
@@ -37089,14 +37121,6 @@
       "onboard_time": 1773208821,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27135,
-      "num": 149323,
-      "word": "315记者为拍证据曾勇闯杀人蜂区",
-      "onboard_time": 1773567502,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 26965,

@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773567823757,
+  "endTime": 1773568659896,
   "band_list": [
     {
       "raw_hot": 2210943,
@@ -11,20 +11,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2087503,
+      "num": 654584,
+      "word": "紫薯精天塌了",
+      "onboard_time": 1773565461,
+      "rank": 3,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 1989878,
       "num": 291735,
       "word": "成毅 年龄",
       "onboard_time": 1773537920,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1778930,
-      "num": 610312,
-      "word": "紫薯精天塌了",
-      "onboard_time": 1773565461,
-      "rank": 3,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1364294,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 554824,
+      "num": 554824,
+      "word": "胖东来要求博主删除视频",
+      "onboard_time": 1773563901,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551247,
       "num": 551247,
       "word": "F1",
@@ -227,14 +235,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 391658,
-      "num": 391658,
-      "word": "胖东来要求博主删除视频",
-      "onboard_time": 1773563901,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 383080,
       "num": 383080,
       "word": "七种千万不能吃的食物",
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352320,
+      "num": 352320,
+      "word": "江西九江发生岩降事故 3人死亡",
+      "onboard_time": 1773564321,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349184,
       "num": 349184,
       "word": "泡椒凤爪的泡椒竟是印上去的",
@@ -312,6 +320,14 @@
       "word": "一秒接受了宁娘是谢征女儿这件事",
       "onboard_time": 1773530657,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 325159,
+      "num": 263464,
+      "word": "逐玉开始单更了",
+      "onboard_time": 1773567142,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -361,14 +377,6 @@
       "onboard_time": 1773540741,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 300416,
-      "num": 300416,
-      "word": "江西九江发生岩降事故 3人死亡",
-      "onboard_time": 1773564321,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 298391,
@@ -504,6 +512,14 @@
       "word": "陈漫发了2023年的杨紫",
       "onboard_time": 1773538220,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224293,
+      "num": 159562,
+      "word": "郝熠然 今晚见一面吧",
+      "onboard_time": 1773562282,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -699,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172680,
+      "num": 172680,
+      "word": "国色天香 何晟铭",
+      "onboard_time": 1773567321,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172594,
       "num": 138016,
       "word": "汪苏泷直播",
@@ -729,14 +753,6 @@
       "onboard_time": 1773541160,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166404,
-      "num": 166404,
-      "word": "逐玉开始单更了",
-      "onboard_time": 1773567142,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 166214,
@@ -771,14 +787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 159724,
-      "num": 159562,
-      "word": "郝熠然 今晚见一面吧",
-      "onboard_time": 1773562282,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159009,
       "num": 159009,
       "word": "亿级APP存在大量儿童软色情内容",
@@ -803,6 +811,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 155632,
+      "num": 155632,
+      "word": "北京WBG对战FPX.ZQ",
+      "onboard_time": 1773567982,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155144,
       "num": 77645,
       "word": "带货救女妈妈终究没留住女儿",
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 153734,
-      "num": 128886,
+      "num": 134763,
       "word": "王橹杰的语音",
       "onboard_time": 1773567502,
       "rank": 32,
@@ -841,6 +857,14 @@
       "onboard_time": 1773542000,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149301,
+      "num": 149301,
+      "word": "林丹回应不让儿子学羽毛球",
+      "onboard_time": 1773567083,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 148694,
@@ -867,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138716,
+      "num": 138716,
+      "word": "F1现场好多明星",
+      "onboard_time": 1773567321,
+      "rank": 47,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 137290,
       "num": 213675,
       "word": "F1正赛",
@@ -889,14 +921,6 @@
       "onboard_time": 1773541400,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 135440,
-      "num": 129741,
-      "word": "林丹回应不让儿子学羽毛球",
-      "onboard_time": 1773567083,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 133288,
@@ -931,20 +955,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128987,
-      "num": 128646,
-      "word": "国色天香 何晟铭",
-      "onboard_time": 1773567321,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128541,
       "num": 128541,
       "word": "中国爸爸带娃视频在推特上火了",
       "onboard_time": 1773547938,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127716,
+      "num": 127716,
+      "word": "伊朗称要打到美以投降受到惩罚",
+      "onboard_time": 1773566062,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127200,
@@ -1123,14 +1147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111408,
-      "num": 111408,
-      "word": "伊朗称要打到美以投降受到惩罚",
-      "onboard_time": 1773566062,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 111370,
       "num": 110561,
       "word": "谢霆锋是上海F1001号车手",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1773566122,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100958,
+      "num": 100958,
+      "word": "以前扮丑是真的扮丑",
+      "onboard_time": 1773567321,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 99810,
@@ -1403,14 +1427,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 91817,
-      "num": 91817,
-      "word": "F1现场好多明星",
-      "onboard_time": 1773567321,
-      "rank": 47,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 91741,
       "num": 91741,
       "word": "云合",
@@ -1451,20 +1467,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88058,
+      "num": 88058,
+      "word": "丢了5000块钱怎么和自己和解",
+      "onboard_time": 1773565823,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87566,
       "num": 87566,
       "word": "315晚会总导演剧透来了",
       "onboard_time": 1773538820,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87531,
-      "num": 87531,
-      "word": "丢了5000块钱怎么和自己和解",
-      "onboard_time": 1773565823,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 87240,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1773532519,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85944,
+      "num": 85944,
+      "word": "小英整牙",
+      "onboard_time": 1773568582,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 85514,
@@ -1617,6 +1641,14 @@
       "onboard_time": 1773531137,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79062,
+      "num": 149323,
+      "word": "315记者为拍证据曾勇闯杀人蜂区",
+      "onboard_time": 1773567502,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 78483,
@@ -2129,14 +2161,6 @@
       "onboard_time": 1773551300,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27135,
-      "num": 149323,
-      "word": "315记者为拍证据曾勇闯杀人蜂区",
-      "onboard_time": 1773567502,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 23509,
