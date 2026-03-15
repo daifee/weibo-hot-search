@@ -1,0 +1,410 @@
+{
+  "runTime": 1773558528142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200540,
+        "num": 1200540,
+        "word": "鹿哈或需赔偿消费者26.9亿元",
+        "onboard_time": 1773556760,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1028154,
+        "num": 1028154,
+        "word": "温瑞博vs张本智和",
+        "onboard_time": 1773553640,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31301,
+        "num": 918124,
+        "word": "十五五规划里的新提法",
+        "onboard_time": 1773540560,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 869924,
+        "num": 869924,
+        "word": "315",
+        "onboard_time": 1773536180,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511355,
+        "num": 511355,
+        "word": "温瑞博4比2张本智和",
+        "onboard_time": 1773558021,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388961,
+        "num": 388961,
+        "word": "刘文祥店员说20元1斤能是纯牛肉吗",
+        "onboard_time": 1773551240,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307564,
+        "num": 307564,
+        "word": "夏之光 我的家庭没有能力兜底",
+        "onboard_time": 1773555741,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298340,
+        "num": 298340,
+        "word": "伊朗用涂鸦骗导弹轰炸",
+        "onboard_time": 1773551901,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61523,
+        "num": 291867,
+        "word": "专家建议工作日缩至4天",
+        "onboard_time": 1773541460,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288804,
+        "num": 288804,
+        "word": "保证前额叶健康太重要了",
+        "onboard_time": 1773552802,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1182190,
+        "num": 263251,
+        "word": "章子怡 医美",
+        "onboard_time": 1773553881,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551014,
+        "num": 257890,
+        "word": "成毅 年龄",
+        "onboard_time": 1773537920,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225568,
+        "num": 225568,
+        "word": "央视调查某茶饮品牌遭恶意抹黑始末",
+        "onboard_time": 1773549440,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249954,
+        "num": 225077,
+        "word": "孔雪儿好有版权意识",
+        "onboard_time": 1773552200,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219767,
+        "num": 219767,
+        "word": "刘文祥",
+        "onboard_time": 1773547938,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214920,
+        "num": 214920,
+        "word": "泡椒凤爪的泡椒竟是印上去的",
+        "onboard_time": 1773549200,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 137290,
+        "num": 213675,
+        "word": "F1正赛",
+        "onboard_time": 1773558261,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292563,
+        "num": 213487,
+        "word": "梁婷 成毅报户口的时候报大一岁",
+        "onboard_time": 1773542900,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213263,
+        "num": 213263,
+        "word": "F1取消四月全部赛事",
+        "onboard_time": 1773551962,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21503,
+        "num": 209747,
+        "word": "AMG带你追F1",
+        "onboard_time": 1773554599,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208648,
+        "num": 208648,
+        "word": "25岁儿子毕业不工作急哭父亲",
+        "onboard_time": 1773548060,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205682,
+        "num": 205682,
+        "word": "冻干草莓",
+        "onboard_time": 1773556280,
+        "rank": 21,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 179933,
+        "num": 179933,
+        "word": "眼镜镜片标价799元进价仅15元",
+        "onboard_time": 1773556820,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 161497,
+        "num": 161497,
+        "word": "100万装出了10万的装修效果",
+        "onboard_time": 1773548720,
+        "rank": 23,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 151625,
+        "num": 151625,
+        "word": "亿级APP存在大量儿童软色情内容",
+        "onboard_time": 1773554181,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 141702,
+        "num": 141702,
+        "word": "谭松韵别试探了有市场",
+        "onboard_time": 1773557421,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128781,
+        "num": 128781,
+        "word": "金道勋 ana",
+        "onboard_time": 1773552022,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122892,
+        "num": 122892,
+        "word": "泰国遇害中国女子丈夫发声",
+        "onboard_time": 1773545960,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125053,
+        "num": 121706,
+        "word": "逐玉",
+        "onboard_time": 1773552681,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119236,
+        "num": 119236,
+        "word": "国产剧月经戏终于不尴尬了",
+        "onboard_time": 1773552802,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102299,
+        "num": 119060,
+        "word": "书源摔倒",
+        "onboard_time": 1773558501,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118975,
+        "num": 118975,
+        "word": "网友卢浮宫偶遇素颜刘亦菲",
+        "onboard_time": 1773547461,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118266,
+        "num": 118266,
+        "word": "张凌赫吃了田曦薇给的青提",
+        "onboard_time": 1773556461,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99810,
+        "num": 107887,
+        "word": "F勒布伦4比3松岛辉空",
+        "onboard_time": 1773554841,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102529,
+        "num": 102529,
+        "word": "王橹杰自拍九宫格",
+        "onboard_time": 1773553280,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100744,
+        "num": 100744,
+        "word": "她俩从连体婴到形同陌路",
+        "onboard_time": 1773548060,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96760,
+        "num": 96760,
+        "word": "5岁金毛长期寄养宠夕夕发病身亡",
+        "onboard_time": 1773554841,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 100213,
+        "num": 96522,
+        "word": "虞书欣拍上云初令短剧了",
+        "onboard_time": 1773556280,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97193,
+        "num": 95926,
+        "word": "李兰迪林沐然十年前的合照",
+        "onboard_time": 1773557000,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93941,
+        "num": 93941,
+        "word": "考研初试成绩权重不低于50%",
+        "onboard_time": 1773556760,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94659,
+        "num": 91774,
+        "word": "李昀锐F1赛车服造型",
+        "onboard_time": 1773554480,
+        "rank": 40,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 88619,
+        "num": 88619,
+        "word": "把家租给短剧剧组吧",
+        "onboard_time": 1773551600,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 85960,
+        "num": 85960,
+        "word": "李煜东发文",
+        "onboard_time": 1773552441,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84724,
+        "num": 84724,
+        "word": "方圆自曝不火了就去国外读书",
+        "onboard_time": 1773549560,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81000,
+        "num": 81000,
+        "word": "交友APP色情聊天收割中老年男性",
+        "onboard_time": 1773552081,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 79953,
+        "num": 79953,
+        "word": "王鹤棣把白鹿宋茜沈月都回答了一遍",
+        "onboard_time": 1773553581,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71323,
+        "num": 71323,
+        "word": "库里回复庞博",
+        "onboard_time": 1773553040,
+        "rank": 46,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 71029,
+        "num": 71029,
+        "word": "老虎纠正游客发音竟然害羞了",
+        "onboard_time": 1773553762,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70075,
+        "num": 70075,
+        "word": "王励勤观战温瑞博",
+        "onboard_time": 1773558201,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36425,
+        "num": 69963,
+        "word": "刘耀文生活中的朋友兄弟只有时团",
+        "onboard_time": 1773552380,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#120秒回顾总书记的两会时刻#"
+    }
+  }
+}
