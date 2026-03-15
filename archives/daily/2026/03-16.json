@@ -1,6 +1,6 @@
 {
   "startTime": 1773592897493,
-  "endTime": 1773603366387,
+  "endTime": 1773604203417,
   "band_list": [
     {
       "raw_hot": 2402447,
@@ -539,12 +539,28 @@
       "category": "舆论监督,互联网"
     },
     {
+      "raw_hot": 19528,
+      "num": 19527,
+      "word": "315曝光双氧水漂白鸡爪",
+      "onboard_time": 1773603794,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19233,
       "num": 27373,
       "word": "亚洲电影大奖",
       "onboard_time": 1773595998,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19081,
+      "num": 19532,
+      "word": "肖战匠心赴长路",
+      "onboard_time": 1773604093,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 16948,
