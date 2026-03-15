@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773586600659,
+  "endTime": 1773589063020,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1083987,
+      "num": 1880556,
+      "word": "椰子水 兑水加糖",
+      "onboard_time": 1773585567,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1070737,
       "num": 777126,
       "word": "吴佳妮自曝婚内没收入很没尊严",
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 802186,
+      "num": 250092,
+      "word": "315之夜某市监局大楼空无一人",
+      "onboard_time": 1773585805,
+      "rank": 17,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 797802,
       "num": 797802,
       "word": "315像是来审判我的",
@@ -201,6 +217,14 @@
       "onboard_time": 1773572722,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 645448,
+      "num": 645448,
+      "word": "西梅汁",
+      "onboard_time": 1773586826,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 643751,
@@ -315,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528447,
+      "num": 528447,
+      "word": "孔雪儿邓凯 等风热吻你",
+      "onboard_time": 1773586345,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 517160,
       "num": 257932,
       "word": "何晟铭因不愿演男主和于正冷战",
@@ -353,6 +385,14 @@
       "onboard_time": 1773547461,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459245,
+      "num": 459245,
+      "word": "医用级卫生巾",
+      "onboard_time": 1773585326,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 451691,
@@ -417,22 +457,6 @@
       "onboard_time": 1773548720,
       "rank": 5,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 394454,
-      "num": 394454,
-      "word": "椰子水 兑水加糖",
-      "onboard_time": 1773585567,
-      "rank": 6,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 383416,
-      "num": 383416,
-      "word": "医用级卫生巾",
-      "onboard_time": 1773585326,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 383080,
@@ -512,6 +536,14 @@
       "word": "泡椒凤爪的泡椒竟是印上去的",
       "onboard_time": 1773549200,
       "rank": 6,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 344524,
+      "num": 175697,
+      "word": "315 没有红名单",
+      "onboard_time": 1773587724,
+      "rank": 12,
       "category": "舆论监督"
     },
     {
@@ -779,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258129,
+      "num": 233165,
+      "word": "院人喜人看黄子弘凡演唱会",
+      "onboard_time": 1773586046,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257870,
       "num": 257870,
       "word": "孙颖莎观战女单决赛",
@@ -793,14 +833,6 @@
       "onboard_time": 1773581847,
       "rank": 26,
       "category": "舆论监督,互联网"
-    },
-    {
-      "raw_hot": 250092,
-      "num": 250092,
-      "word": "315之夜某市监局大楼空无一人",
-      "onboard_time": 1773585805,
-      "rank": 17,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 245734,
@@ -833,14 +865,6 @@
       "onboard_time": 1773495082,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 233165,
-      "num": 233165,
-      "word": "院人喜人看黄子弘凡演唱会",
-      "onboard_time": 1773586046,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 229698,
@@ -929,6 +953,22 @@
       "onboard_time": 1773580826,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216023,
+      "num": 172293,
+      "word": "刘文祥这泼天的富贵你都没接住",
+      "onboard_time": 1773587605,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215695,
+      "num": 173238,
+      "word": "海霸王",
+      "onboard_time": 1773585926,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 215266,
@@ -1307,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162126,
+      "num": 162126,
+      "word": "李宇春吴青峰都哭了",
+      "onboard_time": 1773585926,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161913,
       "num": 211460,
       "word": "美宜佳被约谈",
@@ -1483,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137220,
+      "num": 137220,
+      "word": "中国仙侠剧凡人修仙传火爆全球",
+      "onboard_time": 1773588203,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136296,
       "num": 124911,
       "word": "第一次被一个柜子惊艳到",
@@ -1515,14 +1571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134492,
-      "num": 134492,
-      "word": "孔雪儿邓凯 等风热吻你",
-      "onboard_time": 1773586345,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134371,
       "num": 131412,
       "word": "谢征什么叫我们没在一起过",
@@ -1537,14 +1585,6 @@
       "onboard_time": 1773498262,
       "rank": 31,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 132413,
-      "num": 132413,
-      "word": "海霸王",
-      "onboard_time": 1773585926,
-      "rank": 36,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 132048,
@@ -1737,6 +1777,14 @@
       "onboard_time": 1773581547,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119117,
+      "num": 119117,
+      "word": "给AI投毒已成产业链",
+      "onboard_time": 1773588802,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 118266,
@@ -2011,6 +2059,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 102111,
+      "num": 102111,
+      "word": "315点名漂白鸡爪为比比赞供应商",
+      "onboard_time": 1773586944,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101388,
       "num": 102942,
       "word": "以为是分手结果是索命",
@@ -2024,6 +2080,22 @@
       "word": "胡彦斌你要的全撒了",
       "onboard_time": 1773566122,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101030,
+      "num": 101030,
+      "word": "F勒布伦冠军",
+      "onboard_time": 1773587065,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100822,
+      "num": 100822,
+      "word": "田曦薇芭比脸金刚身",
+      "onboard_time": 1773588265,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -2219,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92726,
+      "num": 92726,
+      "word": "肖战解读藏海传",
+      "onboard_time": 1773587605,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92669,
       "num": 92669,
       "word": "今日鲜奶铺卖的不全是鲜牛奶",
@@ -2387,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85074,
+      "num": 174799,
+      "word": "成都通报漂白鸡爪",
+      "onboard_time": 1773587844,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 84226,
       "num": 84226,
       "word": "李柱延 私联粉丝",
@@ -2489,6 +2577,14 @@
       "onboard_time": 1773531137,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79926,
+      "num": 82618,
+      "word": "曼联vs阿斯顿维拉",
+      "onboard_time": 1773587782,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 78483,
@@ -2897,6 +2993,14 @@
       "onboard_time": 1773505160,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 41718,
+      "num": 172810,
+      "word": "315曝光的鸡爪公司股东也在看晚会",
+      "onboard_time": 1773588384,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41440,

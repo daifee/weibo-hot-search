@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773586600659,
+  "endTime": 1773589063020,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -979,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1083987,
+      "num": 1880556,
+      "word": "椰子水 兑水加糖",
+      "onboard_time": 1773585567,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1082350,
       "num": 1100217,
       "word": "韩综男主持当众殴打女主持",
@@ -1825,6 +1833,14 @@
       "onboard_time": 1773385821,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 802186,
+      "num": 250092,
+      "word": "315之夜某市监局大楼空无一人",
+      "onboard_time": 1773585805,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 801370,
@@ -2793,6 +2809,14 @@
       "onboard_time": 1772765240,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 645448,
+      "num": 645448,
+      "word": "西梅汁",
+      "onboard_time": 1773586826,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 644600,
@@ -3785,6 +3809,14 @@
       "onboard_time": 1772924956,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528447,
+      "num": 528447,
+      "word": "孔雪儿邓凯 等风热吻你",
+      "onboard_time": 1773586345,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 526996,
@@ -4833,6 +4865,14 @@
       "onboard_time": 1772894064,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 459245,
+      "num": 459245,
+      "word": "医用级卫生巾",
+      "onboard_time": 1773585326,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 459102,
@@ -6067,14 +6107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 394454,
-      "num": 394454,
-      "word": "椰子水 兑水加糖",
-      "onboard_time": 1773585567,
-      "rank": 6,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 394096,
       "num": 378568,
       "word": "美以不可能打了伊朗就一走了之",
@@ -6257,14 +6289,6 @@
       "onboard_time": 1773278661,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 383416,
-      "num": 383416,
-      "word": "医用级卫生巾",
-      "onboard_time": 1773585326,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 383390,
@@ -7185,6 +7209,14 @@
       "onboard_time": 1772554527,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344524,
+      "num": 175697,
+      "word": "315 没有红名单",
+      "onboard_time": 1773587724,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 344216,
@@ -10003,6 +10035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 258129,
+      "num": 233165,
+      "word": "院人喜人看黄子弘凡演唱会",
+      "onboard_time": 1773586046,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257870,
       "num": 257870,
       "word": "孙颖莎观战女单决赛",
@@ -10329,14 +10369,6 @@
       "onboard_time": 1773411503,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250092,
-      "num": 250092,
-      "word": "315之夜某市监局大楼空无一人",
-      "onboard_time": 1773585805,
-      "rank": 17,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 249901,
@@ -11009,14 +11041,6 @@
       "onboard_time": 1772634505,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 233165,
-      "num": 233165,
-      "word": "院人喜人看黄子弘凡演唱会",
-      "onboard_time": 1773586046,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 232852,
@@ -11851,6 +11875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216023,
+      "num": 172293,
+      "word": "刘文祥这泼天的富贵你都没接住",
+      "onboard_time": 1773587605,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216019,
       "num": 216019,
       "word": "荷兰回国认亲女子生父回应遗弃女儿",
@@ -11881,6 +11913,14 @@
       "onboard_time": 1772715022,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 215695,
+      "num": 173238,
+      "word": "海霸王",
+      "onboard_time": 1773585926,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 215370,
@@ -14995,6 +15035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162126,
+      "num": 162126,
+      "word": "李宇春吴青峰都哭了",
+      "onboard_time": 1773585926,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162114,
       "num": 578316,
       "word": "315消费段位大比拼",
@@ -17467,6 +17515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137220,
+      "num": 137220,
+      "word": "中国仙侠剧凡人修仙传火爆全球",
+      "onboard_time": 1773588203,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137114,
       "num": 137114,
       "word": "十日终焉纯大男主群像",
@@ -17755,14 +17811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134492,
-      "num": 134492,
-      "word": "孔雪儿邓凯 等风热吻你",
-      "onboard_time": 1773586345,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134475,
       "num": 193452,
       "word": "JackeyLove回应退役",
@@ -17977,14 +18025,6 @@
       "onboard_time": 1773017901,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132413,
-      "num": 132413,
-      "word": "海霸王",
-      "onboard_time": 1773585926,
-      "rank": 36,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 132305,
@@ -19785,6 +19825,14 @@
       "onboard_time": 1772897782,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119117,
+      "num": 119117,
+      "word": "给AI投毒已成产业链",
+      "onboard_time": 1773588802,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 119062,
@@ -22635,6 +22683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 102111,
+      "num": 102111,
+      "word": "315点名漂白鸡爪为比比赞供应商",
+      "onboard_time": 1773586944,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102105,
       "num": 102105,
       "word": "一车人心态好得堪比海绵宝宝",
@@ -22931,6 +22987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101030,
+      "num": 101030,
+      "word": "F勒布伦冠军",
+      "onboard_time": 1773587065,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101027,
       "num": 214155,
       "word": "逐玉网友有偿求经纪人接吻直拍",
@@ -22993,6 +23057,14 @@
       "onboard_time": 1772954900,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100822,
+      "num": 100822,
+      "word": "田曦薇芭比脸金刚身",
+      "onboard_time": 1773588265,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 100821,
@@ -25043,6 +25115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92726,
+      "num": 92726,
+      "word": "肖战解读藏海传",
+      "onboard_time": 1773587605,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92670,
       "num": 221973,
       "word": "鸡鸣寺消息树今年失约",
@@ -27019,6 +27099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85074,
+      "num": 174799,
+      "word": "成都通报漂白鸡爪",
+      "onboard_time": 1773587844,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 85018,
       "num": 326557,
       "word": "宁德时代2025年净利润722亿元",
@@ -28353,6 +28441,14 @@
       "onboard_time": 1772446344,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79926,
+      "num": 82618,
+      "word": "曼联vs阿斯顿维拉",
+      "onboard_time": 1773587782,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 79894,
@@ -35969,6 +36065,14 @@
       "onboard_time": 1773505160,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 41718,
+      "num": 172810,
+      "word": "315曝光的鸡爪公司股东也在看晚会",
+      "onboard_time": 1773588384,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41659,
