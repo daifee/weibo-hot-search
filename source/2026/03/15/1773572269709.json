@@ -1,0 +1,410 @@
+{
+  "runTime": 1773572269709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1193194,
+        "num": 1193194,
+        "word": "鹿哈或需赔偿消费者26.9亿元",
+        "onboard_time": 1773556760,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1008666,
+        "num": 1008666,
+        "word": "315",
+        "onboard_time": 1773536180,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3472,
+        "num": 694624,
+        "word": "十五五这四类人群直接受益",
+        "onboard_time": 1773451701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1726788,
+        "num": 626016,
+        "word": "紫薯精天塌了",
+        "onboard_time": 1773565461,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 493814,
+        "num": 493814,
+        "word": "胖东来要求博主删除视频",
+        "onboard_time": 1773563901,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264134,
+        "num": 264134,
+        "word": "315记者为拍证据曾勇闯杀人蜂区",
+        "onboard_time": 1773567502,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 252590,
+        "num": 252590,
+        "word": "国色天香 何晟铭",
+        "onboard_time": 1773567321,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189689,
+        "num": 189689,
+        "word": "F1",
+        "onboard_time": 1773559281,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47224,
+        "num": 189074,
+        "word": "315晚会后台探秘",
+        "onboard_time": 1773571160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35781,
+        "num": 188470,
+        "word": "中美大模型谁找工作更厉害",
+        "onboard_time": 1773569121,
+        "rank": 9,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 310534,
+        "num": 187977,
+        "word": "F1现场好多明星",
+        "onboard_time": 1773567321,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 303989,
+        "num": 186975,
+        "word": "林丹回应不让儿子学羽毛球",
+        "onboard_time": 1773567083,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244116,
+        "num": 186572,
+        "word": "逐玉开始单更了",
+        "onboard_time": 1773567142,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198250,
+        "num": 185724,
+        "word": "网红法式鹅肝竟检出鸡源性成分",
+        "onboard_time": 1773570380,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 185606,
+        "num": 185606,
+        "word": "黑工厂制假天麻现场触目惊心",
+        "onboard_time": 1773568821,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 173212,
+        "num": 173212,
+        "word": "刘文祥麻辣烫多处不合规",
+        "onboard_time": 1773570502,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170638,
+        "num": 170638,
+        "word": "为什么大学里的男生比例越来越少",
+        "onboard_time": 1773569422,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154358,
+        "num": 154358,
+        "word": "江西九江发生岩降事故 3人死亡",
+        "onboard_time": 1773564321,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143187,
+        "num": 143187,
+        "word": "iPhone长焦 出片",
+        "onboard_time": 1773569062,
+        "rank": 18,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 30454,
+        "num": 136132,
+        "word": "美宜佳被约谈整改",
+        "onboard_time": 1773571942,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 498265,
+        "num": 136040,
+        "word": "郝熠然直播",
+        "onboard_time": 1773569182,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358216,
+        "num": 135988,
+        "word": "成毅 年龄",
+        "onboard_time": 1773537920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134226,
+        "num": 134226,
+        "word": "仙逆",
+        "onboard_time": 1773571942,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 215624,
+        "num": 133542,
+        "word": "男制作人用吉赛尔未公开照片当头像",
+        "onboard_time": 1773569422,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203589,
+        "num": 133464,
+        "word": "小英整牙",
+        "onboard_time": 1773568582,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130613,
+        "num": 130613,
+        "word": "七种千万不能吃的食物",
+        "onboard_time": 1773563481,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184649,
+        "num": 128637,
+        "word": "逐玉云合破50%",
+        "onboard_time": 1773565221,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124776,
+        "num": 124776,
+        "word": "女童穿新鞋3天后高低腿被客服嘲讽",
+        "onboard_time": 1773570261,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 123343,
+        "num": 123343,
+        "word": "央视315晚会点名食品安全领域",
+        "onboard_time": 1773563721,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120490,
+        "num": 120490,
+        "word": "逐玉",
+        "onboard_time": 1773552681,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118169,
+        "num": 118169,
+        "word": "以前扮丑是真的扮丑",
+        "onboard_time": 1773567321,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117765,
+        "num": 117765,
+        "word": "伊朗称要打到美以投降受到惩罚",
+        "onboard_time": 1773566062,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114618,
+        "num": 114618,
+        "word": "北京WBG对战FPX.ZQ",
+        "onboard_time": 1773567982,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113217,
+        "num": 113217,
+        "word": "央视调查某茶饮品牌遭恶意抹黑始末",
+        "onboard_time": 1773549440,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111468,
+        "num": 111468,
+        "word": "怪不得今年陆虎蒋敦豪没上春晚",
+        "onboard_time": 1773570022,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108315,
+        "num": 108315,
+        "word": "三平台破万的六位演员",
+        "onboard_time": 1773565702,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103080,
+        "num": 103080,
+        "word": "刘文祥刚爆火就塌房",
+        "onboard_time": 1773558921,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107248,
+        "num": 103045,
+        "word": "王橹杰的语音",
+        "onboard_time": 1773567502,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103001,
+        "num": 103001,
+        "word": "张凌赫田曦薇没有杀青合照",
+        "onboard_time": 1773563481,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35713,
+        "num": 102895,
+        "word": "去年最狠的十个消费陷阱",
+        "onboard_time": 1773568942,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102842,
+        "num": 102842,
+        "word": "温瑞博4比2张本智和",
+        "onboard_time": 1773558021,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99598,
+        "num": 99598,
+        "word": "怪不得印度工业发达原来都是0成本",
+        "onboard_time": 1773561802,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 98168,
+        "num": 98168,
+        "word": "配眼镜 暴利",
+        "onboard_time": 1773572061,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97581,
+        "num": 97581,
+        "word": "不喜欢可能认识的人",
+        "onboard_time": 1773571700,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96641,
+        "num": 96641,
+        "word": "美宜佳致歉",
+        "onboard_time": 1773559462,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96302,
+        "num": 96302,
+        "word": "25岁儿子回应毕业不工作急哭父亲",
+        "onboard_time": 1773567801,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95090,
+        "num": 95090,
+        "word": "刘文祥 纯素菜",
+        "onboard_time": 1773572241,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92060,
+        "num": 92060,
+        "word": "保证前额叶健康太重要了",
+        "onboard_time": 1773552802,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91236,
+        "num": 91236,
+        "word": "暗访保税仓发货背后造假黑产",
+        "onboard_time": 1773571341,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88363,
+        "num": 88363,
+        "word": "痞幼带保洁阿姨去三亚度假",
+        "onboard_time": 1773570861,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指引新起点上推进强国建设#"
+    }
+  }
+}
