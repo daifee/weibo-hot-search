@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773574496508,
+  "endTime": 1773575365742,
   "band_list": [
     {
       "raw_hot": 2210943,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2087503,
-      "num": 654584,
+      "num": 667375,
       "word": "紫薯精天塌了",
       "onboard_time": 1773565461,
       "rank": 3,
@@ -67,12 +67,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 979030,
-      "num": 979030,
+      "raw_hot": 1019809,
+      "num": 1019809,
       "word": "配眼镜 暴利",
       "onboard_time": 1773572061,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 996225,
+      "num": 680939,
+      "word": "周小闹回应刘文祥塌房",
+      "onboard_time": 1773574522,
+      "rank": 3,
+      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 803369,
@@ -89,6 +97,14 @@
       "onboard_time": 1773547938,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 649064,
+      "num": 649064,
+      "word": "蒯曼vs张本美和",
+      "onboard_time": 1773572722,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 634238,
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451691,
+      "num": 451691,
+      "word": "刘文祥 纯素菜",
+      "onboard_time": 1773572241,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 449939,
       "num": 449939,
       "word": "维斯塔潘退赛",
@@ -216,14 +240,6 @@
       "word": "美宜佳致歉",
       "onboard_time": 1773559462,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 426640,
-      "num": 426640,
-      "word": "刘文祥 纯素菜",
-      "onboard_time": 1773572241,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -379,12 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 314210,
-      "num": 314210,
-      "word": "蒯曼vs张本美和",
-      "onboard_time": 1773572722,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 315386,
+      "num": 285572,
+      "word": "为什么大学里的男生比例越来越少",
+      "onboard_time": 1773569422,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 310176,
@@ -411,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307366,
+      "num": 307366,
+      "word": "央视315晚会点名食品安全领域",
+      "onboard_time": 1773563721,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303989,
       "num": 214759,
       "word": "林丹回应不让儿子学羽毛球",
@@ -420,19 +444,11 @@
     },
     {
       "raw_hot": 302728,
-      "num": 141273,
+      "num": 144258,
       "word": "男制作人用吉赛尔未公开照片当头像",
       "onboard_time": 1773569422,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301691,
-      "num": 203507,
-      "word": "为什么大学里的男生比例越来越少",
-      "onboard_time": 1773569422,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 301491,
@@ -483,20 +499,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 284268,
-      "num": 284268,
-      "word": "央视315晚会点名食品安全领域",
-      "onboard_time": 1773563721,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 283661,
       "num": 165281,
       "word": "方圆自曝不火了就去国外读书",
       "onboard_time": 1773549560,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 282132,
+      "num": 282132,
+      "word": "孙颖莎示意观众小声些",
+      "onboard_time": 1773574102,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 280412,
@@ -561,6 +577,14 @@
       "onboard_time": 1773543020,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257870,
+      "num": 257870,
+      "word": "孙颖莎观战女单决赛",
+      "onboard_time": 1773573501,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 245734,
@@ -651,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216835,
-      "num": 216835,
-      "word": "孙颖莎观战女单决赛",
-      "onboard_time": 1773573501,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215266,
       "num": 215266,
       "word": "张凌赫田曦薇逐玉最后一场戏",
@@ -699,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203968,
+      "num": 203968,
+      "word": "黄天鹅鸡蛋检出人工色素",
+      "onboard_time": 1773572302,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202521,
       "num": 202521,
       "word": "iPhone长焦 出片",
@@ -721,6 +745,14 @@
       "onboard_time": 1773557421,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198267,
+      "num": 198267,
+      "word": "315像是来审判我的",
+      "onboard_time": 1773574463,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198250,
@@ -771,6 +803,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 190483,
+      "num": 190483,
+      "word": "樊长玉知道谢征的身份了",
+      "onboard_time": 1773574162,
+      "rank": 35,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 189799,
       "num": 263469,
       "word": "网红锅巴厂原料和鞋垫一起烤",
@@ -801,6 +841,14 @@
       "onboard_time": 1773537321,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185861,
+      "num": 138579,
+      "word": "蓝盈莹一出手就是浪姐水准",
+      "onboard_time": 1773574223,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 185371,
@@ -915,14 +963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 159322,
-      "num": 159322,
-      "word": "黄天鹅鸡蛋检出人工色素",
-      "onboard_time": 1773572302,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159009,
       "num": 159009,
       "word": "亿级APP存在大量儿童软色情内容",
@@ -987,20 +1027,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149902,
-      "num": 133513,
-      "word": "孙颖莎示意观众小声些",
-      "onboard_time": 1773574102,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148694,
       "num": 141440,
       "word": "谢征好有礼貌",
       "onboard_time": 1773540080,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144786,
+      "num": 144786,
+      "word": "山姆有机冻干草莓已下架",
+      "onboard_time": 1773574643,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142339,
@@ -1049,6 +1089,14 @@
       "onboard_time": 1773541400,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136155,
+      "num": 136155,
+      "word": "黄天鹅",
+      "onboard_time": 1773573682,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135414,
@@ -1113,6 +1161,14 @@
       "onboard_time": 1773566062,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127308,
+      "num": 127308,
+      "word": "鹿哈曾自曝带货7个月赚了3500万",
+      "onboard_time": 1773574581,
+      "rank": 28,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 127200,
@@ -1200,6 +1256,14 @@
       "word": "刘翔回应身高有没有1米9",
       "onboard_time": 1773564861,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119937,
+      "num": 119937,
+      "word": "孙颖莎观赛",
+      "onboard_time": 1773575062,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1323,28 +1387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108981,
-      "num": 108481,
-      "word": "蓝盈莹一出手就是浪姐水准",
-      "onboard_time": 1773574223,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 108093,
-      "num": 108093,
-      "word": "樊长玉知道谢征的身份了",
-      "onboard_time": 1773574162,
-      "rank": 35,
-      "category": "剧集,综艺"
-    },
-    {
       "raw_hot": 107923,
       "num": 107923,
       "word": "奔驰EQC车主称花50万买了个老头乐",
       "onboard_time": 1773566062,
       "rank": 42,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 107903,
+      "num": 107903,
+      "word": "9岁男孩17楼坠亡生母质疑死因不明",
+      "onboard_time": 1773574342,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107535,
@@ -1435,28 +1491,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101388,
+      "num": 102942,
+      "word": "以为是分手结果是索命",
+      "onboard_time": 1773574884,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101255,
       "num": 101255,
       "word": "胡彦斌你要的全撒了",
       "onboard_time": 1773566122,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100633,
-      "num": 100633,
-      "word": "黄天鹅",
-      "onboard_time": 1773573682,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99844,
-      "num": 99844,
-      "word": "9岁男孩17楼坠亡生母质疑死因不明",
-      "onboard_time": 1773574342,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99810,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1773574102,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98354,
+      "num": 98354,
+      "word": "少吃水果就少生病吗",
+      "onboard_time": 1773574581,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98318,
@@ -1537,14 +1593,6 @@
       "onboard_time": 1773549020,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96329,
-      "num": 96329,
-      "word": "315像是来审判我的",
-      "onboard_time": 1773574463,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96236,
@@ -1707,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89169,
+      "num": 89169,
+      "word": "林孝埈晒F1观赛照",
+      "onboard_time": 1773575243,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88350,
       "num": 88350,
       "word": "男子称结婚3年妻子在家不到15天",
@@ -1753,6 +1809,14 @@
       "onboard_time": 1773532519,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85805,
+      "num": 85805,
+      "word": "伊朗发起第53波攻势",
+      "onboard_time": 1773570742,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85514,
@@ -2307,6 +2371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37717,
+      "num": 103455,
+      "word": "315押题大会",
+      "onboard_time": 1773572541,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37563,
       "num": 37563,
       "word": "林依晨称因熬夜和压力患脑部囊肿",
@@ -2337,14 +2409,6 @@
       "onboard_time": 1773569121,
       "rank": 9,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 34634,
-      "num": 99929,
-      "word": "315押题大会",
-      "onboard_time": 1773572541,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33755,
