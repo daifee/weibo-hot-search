@@ -1,10 +1,10 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773546062406,
+  "endTime": 1773551602840,
   "band_list": [
     {
       "raw_hot": 1989878,
-      "num": 207907,
+      "num": 226233,
       "word": "成毅 年龄",
       "onboard_time": 1773537920,
       "rank": 10,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1068657,
+      "num": 186275,
+      "word": "梁婷 成毅报户口的时候报大一岁",
+      "onboard_time": 1773542900,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1048710,
       "num": 1167793,
       "word": "315",
@@ -27,12 +35,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 648208,
-      "num": 186275,
-      "word": "梁婷 成毅报户口的时候报大一岁",
-      "onboard_time": 1773542900,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 694239,
+      "num": 836389,
+      "word": "刘文祥",
+      "onboard_time": 1773547938,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 619836,
+      "num": 619836,
+      "word": "央视调查某茶饮品牌遭恶意抹黑始末",
+      "onboard_time": 1773549440,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 613857,
@@ -51,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 594866,
+      "num": 594866,
+      "word": "25岁儿子毕业不工作急哭父亲",
+      "onboard_time": 1773548060,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 511438,
       "num": 853070,
       "word": "机器人正要进电梯被男子一脚踹倒",
@@ -67,12 +91,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 463058,
+      "num": 197071,
+      "word": "网友卢浮宫偶遇素颜刘亦菲",
+      "onboard_time": 1773547461,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405439,
       "num": 206257,
       "word": "三里屯真人模特",
       "onboard_time": 1773540201,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397026,
+      "num": 397026,
+      "word": "100万装出了10万的装修效果",
+      "onboard_time": 1773548720,
+      "rank": 5,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 351619,
+      "num": 174477,
+      "word": "她俩从连体婴到形同陌路",
+      "onboard_time": 1773548060,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 336370,
+      "num": 257308,
+      "word": "花少 花儿与中老年",
+      "onboard_time": 1773541879,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 328862,
@@ -107,12 +163,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299480,
-      "num": 257308,
-      "word": "花少 花儿与中老年",
-      "onboard_time": 1773541879,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 298391,
+      "num": 186638,
+      "word": "泰国遇害中国女子丈夫发声",
+      "onboard_time": 1773545960,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 297611,
+      "num": 297611,
+      "word": "泡椒凤爪的泡椒竟是印上去的",
+      "onboard_time": 1773549200,
+      "rank": 6,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 280412,
@@ -147,12 +211,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 257859,
+      "raw_hot": 261282,
       "num": 257859,
       "word": "谢征掉马被打看的好爽",
       "onboard_time": 1773543020,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257903,
+      "num": 147501,
+      "word": "方圆自曝不火了就去国外读书",
+      "onboard_time": 1773549560,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 245734,
@@ -169,6 +241,14 @@
       "onboard_time": 1773495082,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 229698,
+      "num": 229698,
+      "word": "高质量睡眠对人的改变",
+      "onboard_time": 1773547938,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 228822,
@@ -259,6 +339,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 189799,
+      "num": 263469,
+      "word": "网红锅巴厂原料和鞋垫一起烤",
+      "onboard_time": 1773547820,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189090,
       "num": 112146,
       "word": "逐玉热度超过宁安如梦",
@@ -281,6 +369,14 @@
       "onboard_time": 1773501262,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183131,
+      "num": 142548,
+      "word": "谢娜晒老家学校旁边的面",
+      "onboard_time": 1773549320,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 178538,
@@ -436,11 +532,19 @@
     },
     {
       "raw_hot": 131584,
-      "num": 131584,
+      "num": 237940,
       "word": "专家建议工作日缩至4天",
       "onboard_time": 1773541460,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128541,
+      "num": 128541,
+      "word": "中国爸爸带娃视频在推特上火了",
+      "onboard_time": 1773547938,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 127200,
@@ -483,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120874,
+      "num": 120874,
+      "word": "蒯曼4比1王艺迪",
+      "onboard_time": 1773548119,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116067,
       "num": 116067,
       "word": "年销20万根的冬虫夏草是胶水拼的",
@@ -499,8 +611,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112428,
-      "num": 112428,
+      "raw_hot": 113006,
+      "num": 113006,
+      "word": "不给女儿买校服但给儿子买新书",
+      "onboard_time": 1773549560,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112512,
+      "num": 112512,
       "word": "看完瞿颖我的清迈病犯了",
       "onboard_time": 1773545660,
       "rank": 30,
@@ -513,6 +633,14 @@
       "onboard_time": 1773507259,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107302,
+      "num": 107302,
+      "word": "人民教育家于漪逝世",
+      "onboard_time": 1773547760,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106469,
@@ -531,12 +659,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105393,
+      "num": 105393,
+      "word": "内娱05生",
+      "onboard_time": 1773550821,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105069,
+      "num": 105069,
+      "word": "美宜佳假烟比真烟更毒",
+      "onboard_time": 1773547760,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103079,
-      "num": 103079,
+      "num": 107685,
       "word": "伊朗第51轮军事行动",
       "onboard_time": 1773545119,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101429,
+      "num": 101429,
+      "word": "刘文祥店员说20元1斤能是纯牛肉吗",
+      "onboard_time": 1773551240,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97223,
@@ -545,6 +697,14 @@
       "onboard_time": 1773545839,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96448,
+      "num": 96448,
+      "word": "邓凯回应孔雪儿想演强制爱",
+      "onboard_time": 1773549020,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 96236,
@@ -579,6 +739,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93464,
+      "num": 93464,
+      "word": "谢谢AI成功让我笑了出来",
+      "onboard_time": 1773549921,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 93324,
+      "num": 93324,
+      "word": "蒯曼决赛对阵张本美和",
+      "onboard_time": 1773551481,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92669,
+      "num": 92669,
+      "word": "今日鲜奶铺卖的不全是鲜牛奶",
+      "onboard_time": 1773549381,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 92408,
       "num": 123881,
       "word": "F1",
@@ -608,6 +792,14 @@
       "word": "315直播曝光消费乱象",
       "onboard_time": 1773544161,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88350,
+      "num": 88350,
+      "word": "男子称结婚3年妻子在家不到15天",
+      "onboard_time": 1773550101,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -643,12 +835,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85514,
+      "num": 85514,
+      "word": "东契奇绝杀掘金",
+      "onboard_time": 1773546201,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84226,
       "num": 84226,
       "word": "李柱延 私联粉丝",
       "onboard_time": 1773539780,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84121,
+      "num": 84121,
+      "word": "315问题车展",
+      "onboard_time": 1773549740,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84099,
@@ -683,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82671,
+      "num": 82671,
+      "word": "孔雪儿发了85个哭脸表情包",
+      "onboard_time": 1773551481,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81369,
       "num": 81369,
       "word": "妈妈依偎在被丢弃厕所女婴肩头",
@@ -691,20 +907,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80765,
-      "num": 80765,
-      "word": "泰国遇害中国女子丈夫发声",
-      "onboard_time": 1773545960,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 80716,
       "num": 105859,
       "word": "唐嫣张若昀主持",
       "onboard_time": 1773495623,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80576,
+      "num": 80576,
+      "word": "金融315",
+      "onboard_time": 1773551300,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80297,
@@ -1028,7 +1244,7 @@
     },
     {
       "raw_hot": 39518,
-      "num": 664729,
+      "num": 672699,
       "word": "未来5年民生保障再加力",
       "onboard_time": 1773541822,
       "rank": 2,
@@ -1067,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30739,
+      "num": 141385,
+      "word": "84岁奶奶为AI霸总花近万还要嫁给他",
+      "onboard_time": 1773551002,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30563,
       "num": 49955,
       "word": "易烊千玺cmg提名",
@@ -1083,12 +1307,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29093,
+      "num": 141760,
+      "word": "男子称用交行信用卡4年被扣4000年费",
+      "onboard_time": 1773550881,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 28789,
       "num": 49871,
       "word": "恋与深空",
       "onboard_time": 1773496284,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 27784,
+      "num": 80614,
+      "word": "谁在给F1加满能量",
+      "onboard_time": 1773551300,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23509,
+      "num": 140117,
+      "word": "牛肉丸里的牛肉含量",
+      "onboard_time": 1773551361,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 22485,
@@ -1166,6 +1414,9 @@
   "hotgov_list": [
     {
       "word": "#带着总书记的嘱托一起出发#"
+    },
+    {
+      "word": "#120秒回顾总书记的两会时刻#"
     }
   ]
 }
