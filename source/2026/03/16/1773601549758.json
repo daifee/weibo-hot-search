@@ -1,0 +1,410 @@
+{
+  "runTime": 1773601549758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 291844,
+        "num": 291844,
+        "word": "315曝光名单",
+        "onboard_time": 1773581607,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 85618,
+        "num": 85618,
+        "word": "有友食品声明",
+        "onboard_time": 1773590243,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10790,
+        "num": 69909,
+        "word": "网警提醒看不见的虚假更要防",
+        "onboard_time": 1773581188,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69718,
+        "num": 69718,
+        "word": "椰子水 兑水加糖",
+        "onboard_time": 1773585567,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 63942,
+        "num": 63942,
+        "word": "周小闹回应刘文祥塌房",
+        "onboard_time": 1773574522,
+        "rank": 4,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 87922,
+        "num": 60288,
+        "word": "伊朗发射泥石弹道导弹",
+        "onboard_time": 1773593298,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56221,
+        "num": 56221,
+        "word": "给AI投毒已成产业链",
+        "onboard_time": 1773588802,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 55993,
+        "num": 55993,
+        "word": "315晚会",
+        "onboard_time": 1773575781,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 55837,
+        "num": 55837,
+        "word": "医美骗局",
+        "onboard_time": 1773579689,
+        "rank": 8,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 54822,
+        "num": 54822,
+        "word": "逐玉 李卿",
+        "onboard_time": 1773590183,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50062,
+        "num": 50062,
+        "word": "315曝光的鸡爪公司股东也在看晚会",
+        "onboard_time": 1773588384,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 38984,
+        "num": 38984,
+        "word": "医用级卫生巾",
+        "onboard_time": 1773585326,
+        "rank": 11,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 38946,
+        "num": 38946,
+        "word": "外泌体",
+        "onboard_time": 1773578067,
+        "rank": 12,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 38923,
+        "num": 38923,
+        "word": "原著作者回应肖战出演十日终焉",
+        "onboard_time": 1773581428,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37244,
+        "num": 37244,
+        "word": "原来电商图是这样生成的",
+        "onboard_time": 1773577225,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35723,
+        "num": 35723,
+        "word": "伊朗攻击美战机支援基地",
+        "onboard_time": 1773594077,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34975,
+        "num": 34975,
+        "word": "中国仙侠剧凡人修仙传火爆全球",
+        "onboard_time": 1773588203,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34918,
+        "num": 34918,
+        "word": "给AI投毒",
+        "onboard_time": 1773581668,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 30561,
+        "num": 30561,
+        "word": "爱吃毛肚的人天塌了",
+        "onboard_time": 1773576866,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29267,
+        "num": 29267,
+        "word": "老师标配的小蜜蜂该用还是该禁",
+        "onboard_time": 1773576022,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35033,
+        "num": 29041,
+        "word": "刘文祥这泼天的富贵你都没接住",
+        "onboard_time": 1773587605,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28574,
+        "num": 28574,
+        "word": "双氧水鸡爪",
+        "onboard_time": 1773577045,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 27934,
+        "num": 27934,
+        "word": "孙燕姿演唱会",
+        "onboard_time": 1773592039,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27613,
+        "num": 27613,
+        "word": "文淇 我已经反思了",
+        "onboard_time": 1773594797,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26216,
+        "num": 26216,
+        "word": "今年315晚会它们都被曝光了",
+        "onboard_time": 1773598817,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25716,
+        "num": 25716,
+        "word": "司宫令",
+        "onboard_time": 1773589701,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24121,
+        "num": 24121,
+        "word": "刘宇宁快把自己送出去了",
+        "onboard_time": 1773590482,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23389,
+        "num": 23389,
+        "word": "315记者为暗访一个月抽血十几次",
+        "onboard_time": 1773575843,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22113,
+        "num": 22113,
+        "word": "逐玉",
+        "onboard_time": 1773552681,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22083,
+        "num": 22083,
+        "word": "公司称李羲承不会回归ENHYPEN",
+        "onboard_time": 1773596597,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24424,
+        "num": 21666,
+        "word": "老人8万贱卖劳力士充值理发店",
+        "onboard_time": 1773597616,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20726,
+        "num": 20726,
+        "word": "315晚会曝光AI大模型被投毒",
+        "onboard_time": 1773581847,
+        "rank": 31,
+        "category": "舆论监督,互联网"
+      },
+      {
+        "raw_hot": 20460,
+        "num": 20460,
+        "word": "田曦薇芭比脸金刚身",
+        "onboard_time": 1773588265,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19796,
+        "num": 19796,
+        "word": "李宇春吴青峰都哭了",
+        "onboard_time": 1773585926,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19776,
+        "num": 19776,
+        "word": "网红西梅汁实则暗藏强效泻药",
+        "onboard_time": 1773577767,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19158,
+        "num": 19776,
+        "word": "成毅正月里真不剪头发",
+        "onboard_time": 1773586525,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18526,
+        "num": 19776,
+        "word": "有友鸡爪否认使用双氧水",
+        "onboard_time": 1773581726,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18305,
+        "num": 19776,
+        "word": "刘文祥麻辣烫在杂物间煎鸡蛋",
+        "onboard_time": 1773595756,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18015,
+        "num": 19776,
+        "word": "在外婆家里翻出过期了26年的东西",
+        "onboard_time": 1773593899,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17451,
+        "num": 19775,
+        "word": "电视剧品质盛典",
+        "onboard_time": 1773593178,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16820,
+        "num": 19775,
+        "word": "谢征什么叫我们没在一起过",
+        "onboard_time": 1773585626,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16734,
+        "num": 19775,
+        "word": "胖东来要求博主删除视频",
+        "onboard_time": 1773563901,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16427,
+        "num": 19775,
+        "word": "田曦薇我镜头下你的眼睛",
+        "onboard_time": 1773601395,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15465,
+        "num": 19775,
+        "word": "李宇春吴青峰新歌预告",
+        "onboard_time": 1773601155,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15439,
+        "num": 19775,
+        "word": "亚洲电影大奖",
+        "onboard_time": 1773595998,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15066,
+        "num": 19775,
+        "word": "刘宇宁在最猛的年纪又野又欲",
+        "onboard_time": 1773582567,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15009,
+        "num": 19775,
+        "word": "肖战解读藏海传",
+        "onboard_time": 1773587605,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14260,
+        "num": 19775,
+        "word": "章昊哭了",
+        "onboard_time": 1773592580,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12796,
+        "num": 19775,
+        "word": "曼联vs阿斯顿维拉",
+        "onboard_time": 1773587782,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12239,
+        "num": 19775,
+        "word": "驻法兰克福总领事观战樊振东",
+        "onboard_time": 1773587484,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五奋进之声#"
+    }
+  }
+}
