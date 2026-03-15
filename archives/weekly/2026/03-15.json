@@ -1,10 +1,10 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773551602840,
+  "endTime": 1773553887250,
   "band_list": [
     {
       "raw_hot": 1989878,
-      "num": 226233,
+      "num": 271624,
       "word": "成毅 年龄",
       "onboard_time": 1773537920,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1068657,
-      "num": 186275,
+      "num": 204922,
       "word": "梁婷 成毅报户口的时候报大一岁",
       "onboard_time": 1773542900,
       "rank": 24,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 581506,
+      "num": 834773,
+      "word": "刘文祥店员说20元1斤能是纯牛肉吗",
+      "onboard_time": 1773551240,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 511438,
       "num": 853070,
       "word": "机器人正要进电梯被男子一脚踹倒",
@@ -115,12 +123,28 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 351619,
-      "num": 174477,
+      "raw_hot": 379778,
+      "num": 237899,
+      "word": "孔雪儿好有版权意识",
+      "onboard_time": 1773552200,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 356416,
+      "num": 217053,
       "word": "她俩从连体婴到形同陌路",
       "onboard_time": 1773548060,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349184,
+      "num": 349184,
+      "word": "泡椒凤爪的泡椒竟是印上去的",
+      "onboard_time": 1773549200,
+      "rank": 6,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 336370,
@@ -164,19 +188,19 @@
     },
     {
       "raw_hot": 298391,
-      "num": 186638,
+      "num": 227701,
       "word": "泰国遇害中国女子丈夫发声",
       "onboard_time": 1773545960,
       "rank": 45,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 297611,
-      "num": 297611,
-      "word": "泡椒凤爪的泡椒竟是印上去的",
-      "onboard_time": 1773549200,
-      "rank": 6,
-      "category": "舆论监督"
+      "raw_hot": 283661,
+      "num": 165281,
+      "word": "方圆自曝不火了就去国外读书",
+      "onboard_time": 1773549560,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 280412,
@@ -219,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257903,
-      "num": 147501,
-      "word": "方圆自曝不火了就去国外读书",
-      "onboard_time": 1773549560,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 245734,
       "num": 245734,
       "word": "张凌赫一只手就把田曦薇提溜起来",
@@ -259,12 +275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226584,
+      "num": 152448,
+      "word": "逐玉",
+      "onboard_time": 1773483202,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224682,
       "num": 205654,
       "word": "陈漫发了2023年的杨紫",
       "onboard_time": 1773538220,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220455,
+      "num": 220455,
+      "word": "把家租给短剧剧组吧",
+      "onboard_time": 1773551600,
+      "rank": 13,
+      "category": "休闲"
     },
     {
       "raw_hot": 220224,
@@ -289,6 +321,14 @@
       "onboard_time": 1773540379,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212589,
+      "num": 143361,
+      "word": "王橹杰自拍九宫格",
+      "onboard_time": 1773553280,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 206514,
@@ -323,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195067,
+      "num": 142862,
+      "word": "李煜东发文",
+      "onboard_time": 1773552441,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192643,
       "num": 282440,
       "word": "可怕的租机贷又玩废了一批年轻人",
@@ -345,6 +393,14 @@
       "onboard_time": 1773547820,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189767,
+      "num": 162131,
+      "word": "国产剧月经戏终于不尴尬了",
+      "onboard_time": 1773552802,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 189090,
@@ -387,6 +443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175807,
+      "num": 175807,
+      "word": "伊朗用涂鸦骗导弹轰炸",
+      "onboard_time": 1773551901,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174848,
       "num": 174848,
       "word": "文淇路演亲了粉丝",
@@ -395,12 +459,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 171636,
-      "num": 106344,
-      "word": "逐玉",
-      "onboard_time": 1773483202,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 172594,
+      "num": 138016,
+      "word": "汪苏泷直播",
+      "onboard_time": 1773553521,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 170949,
@@ -433,6 +497,14 @@
       "onboard_time": 1773540619,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163229,
+      "num": 136205,
+      "word": "金道勋 ana",
+      "onboard_time": 1773552022,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 160958,
@@ -499,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139007,
+      "num": 139007,
+      "word": "F1取消四月全部赛事",
+      "onboard_time": 1773551962,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136296,
       "num": 124911,
       "word": "第一次被一个柜子惊艳到",
@@ -532,7 +612,7 @@
     },
     {
       "raw_hot": 131584,
-      "num": 237940,
+      "num": 332024,
       "word": "专家建议工作日缩至4天",
       "onboard_time": 1773541460,
       "rank": 30,
@@ -569,6 +649,14 @@
       "onboard_time": 1773539840,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124648,
+      "num": 124648,
+      "word": "温瑞博vs张本智和",
+      "onboard_time": 1773553640,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 123960,
@@ -611,12 +699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114652,
+      "num": 114652,
+      "word": "保证前额叶健康太重要了",
+      "onboard_time": 1773552802,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113006,
       "num": 113006,
       "word": "不给女儿买校服但给儿子买新书",
       "onboard_time": 1773549560,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112556,
+      "num": 112556,
+      "word": "交友APP色情聊天收割中老年男性",
+      "onboard_time": 1773552081,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 112512,
@@ -633,6 +737,14 @@
       "onboard_time": 1773507259,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107535,
+      "num": 107535,
+      "word": "库里回复庞博",
+      "onboard_time": 1773553040,
+      "rank": 37,
+      "category": "电影,体育"
     },
     {
       "raw_hot": 107302,
@@ -675,20 +787,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104103,
+      "num": 104103,
+      "word": "懒人真的很适合去过极简生活",
+      "onboard_time": 1773552861,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103079,
       "num": 107685,
       "word": "伊朗第51轮军事行动",
       "onboard_time": 1773545119,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 101429,
-      "num": 101429,
-      "word": "刘文祥店员说20元1斤能是纯牛肉吗",
-      "onboard_time": 1773551240,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97223,
@@ -769,6 +881,14 @@
       "onboard_time": 1773500723,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91891,
+      "num": 132243,
+      "word": "央视曝光增肌神药",
+      "onboard_time": 1773552081,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 91513,
@@ -891,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82895,
+      "num": 82895,
+      "word": "老虎纠正游客发音竟然害羞了",
+      "onboard_time": 1773553762,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82671,
       "num": 82671,
       "word": "孔雪儿发了85个哭脸表情包",
@@ -937,6 +1065,14 @@
       "onboard_time": 1773546021,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78439,
+      "num": 78439,
+      "word": "鹿哈带货牛肚直接扔地上冷却",
+      "onboard_time": 1773552502,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77581,
@@ -1171,6 +1307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47455,
+      "num": 290280,
+      "word": "博主用饲料标准测评胖东来鸡蛋",
+      "onboard_time": 1773553280,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47249,
+      "num": 147995,
+      "word": "进口增肌药里检测出美国兽药",
+      "onboard_time": 1773552621,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43323,
       "num": 105571,
       "word": "刘宇宁把自己唱熟了",
@@ -1323,8 +1475,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27784,
-      "num": 80614,
+      "raw_hot": 28371,
+      "num": 96469,
       "word": "谁在给F1加满能量",
       "onboard_time": 1773551300,
       "rank": 48,

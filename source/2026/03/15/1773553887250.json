@@ -1,0 +1,410 @@
+{
+  "runTime": 1773553887250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 858600,
+        "num": 1137376,
+        "word": "315",
+        "onboard_time": 1773536180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581506,
+        "num": 834773,
+        "word": "刘文祥店员说20元1斤能是纯牛肉吗",
+        "onboard_time": 1773551240,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22975,
+        "num": 662051,
+        "word": "未来5年民生保障再加力",
+        "onboard_time": 1773541822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 575327,
+        "num": 575327,
+        "word": "央视调查某茶饮品牌遭恶意抹黑始末",
+        "onboard_time": 1773549440,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392815,
+        "num": 392815,
+        "word": "25岁儿子毕业不工作急哭父亲",
+        "onboard_time": 1773548060,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375534,
+        "num": 375534,
+        "word": "刘文祥",
+        "onboard_time": 1773547938,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349184,
+        "num": 349184,
+        "word": "泡椒凤爪的泡椒竟是印上去的",
+        "onboard_time": 1773549200,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 334600,
+        "num": 334600,
+        "word": "100万装出了10万的装修效果",
+        "onboard_time": 1773548720,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 80313,
+        "num": 332024,
+        "word": "专家建议工作日缩至4天",
+        "onboard_time": 1773541460,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47455,
+        "num": 290280,
+        "word": "博主用饲料标准测评胖东来鸡蛋",
+        "onboard_time": 1773553280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 902628,
+        "num": 271624,
+        "word": "成毅 年龄",
+        "onboard_time": 1773537920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379778,
+        "num": 237899,
+        "word": "孔雪儿好有版权意识",
+        "onboard_time": 1773552200,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227701,
+        "num": 227701,
+        "word": "泰国遇害中国女子丈夫发声",
+        "onboard_time": 1773545960,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220455,
+        "num": 220455,
+        "word": "把家租给短剧剧组吧",
+        "onboard_time": 1773551600,
+        "rank": 13,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 356416,
+        "num": 217053,
+        "word": "她俩从连体婴到形同陌路",
+        "onboard_time": 1773548060,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835094,
+        "num": 204922,
+        "word": "梁婷 成毅报户口的时候报大一岁",
+        "onboard_time": 1773542900,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175807,
+        "num": 175807,
+        "word": "伊朗用涂鸦骗导弹轰炸",
+        "onboard_time": 1773551901,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292659,
+        "num": 168196,
+        "word": "网友卢浮宫偶遇素颜刘亦菲",
+        "onboard_time": 1773547461,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283661,
+        "num": 165281,
+        "word": "方圆自曝不火了就去国外读书",
+        "onboard_time": 1773549560,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189767,
+        "num": 162131,
+        "word": "国产剧月经戏终于不尴尬了",
+        "onboard_time": 1773552802,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158709,
+        "num": 158709,
+        "word": "高质量睡眠对人的改变",
+        "onboard_time": 1773547938,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263804,
+        "num": 157555,
+        "word": "花少 花儿与中老年",
+        "onboard_time": 1773541879,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226584,
+        "num": 152448,
+        "word": "逐玉",
+        "onboard_time": 1773552681,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47249,
+        "num": 147995,
+        "word": "进口增肌药里检测出美国兽药",
+        "onboard_time": 1773552621,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212589,
+        "num": 143361,
+        "word": "王橹杰自拍九宫格",
+        "onboard_time": 1773553280,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195067,
+        "num": 142862,
+        "word": "李煜东发文",
+        "onboard_time": 1773552441,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139007,
+        "num": 139007,
+        "word": "F1取消四月全部赛事",
+        "onboard_time": 1773551962,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172594,
+        "num": 138016,
+        "word": "汪苏泷直播",
+        "onboard_time": 1773553521,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163229,
+        "num": 136205,
+        "word": "金道勋 ana",
+        "onboard_time": 1773552022,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91891,
+        "num": 132243,
+        "word": "央视曝光增肌神药",
+        "onboard_time": 1773552081,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 132023,
+        "num": 132023,
+        "word": "网红锅巴厂原料和鞋垫一起烤",
+        "onboard_time": 1773547820,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156808,
+        "num": 130657,
+        "word": "谢征掉马被打看的好爽",
+        "onboard_time": 1773543020,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125853,
+        "num": 125853,
+        "word": "谢娜晒老家学校旁边的面",
+        "onboard_time": 1773549320,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124648,
+        "num": 124648,
+        "word": "温瑞博vs张本智和",
+        "onboard_time": 1773553640,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114652,
+        "num": 114652,
+        "word": "保证前额叶健康太重要了",
+        "onboard_time": 1773552802,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112556,
+        "num": 112556,
+        "word": "交友APP色情聊天收割中老年男性",
+        "onboard_time": 1773552081,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 107732,
+        "num": 107732,
+        "word": "中国爸爸带娃视频在推特上火了",
+        "onboard_time": 1773547938,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107535,
+        "num": 107535,
+        "word": "库里回复庞博",
+        "onboard_time": 1773553040,
+        "rank": 37,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 104103,
+        "num": 104103,
+        "word": "懒人真的很适合去过极简生活",
+        "onboard_time": 1773552861,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28371,
+        "num": 96469,
+        "word": "谁在给F1加满能量",
+        "onboard_time": 1773551300,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95850,
+        "num": 95850,
+        "word": "宁娘天选女主",
+        "onboard_time": 1773540741,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91233,
+        "num": 91233,
+        "word": "古巴",
+        "onboard_time": 1773539422,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89093,
+        "num": 89093,
+        "word": "内娱05生",
+        "onboard_time": 1773550821,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87212,
+        "num": 87212,
+        "word": "蒯曼4比1王艺迪",
+        "onboard_time": 1773548119,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82895,
+        "num": 82895,
+        "word": "老虎纠正游客发音竟然害羞了",
+        "onboard_time": 1773553762,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81494,
+        "num": 81494,
+        "word": "国内成品油价格将迎调整",
+        "onboard_time": 1773543980,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80771,
+        "num": 80771,
+        "word": "不给女儿买校服但给儿子买新书",
+        "onboard_time": 1773549560,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80565,
+        "num": 80565,
+        "word": "机器人正要进电梯被男子一脚踹倒",
+        "onboard_time": 1773531258,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 79462,
+        "num": 79462,
+        "word": "伊朗官员称乌克兰已成打击目标",
+        "onboard_time": 1773543741,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78439,
+        "num": 78439,
+        "word": "鹿哈带货牛肚直接扔地上冷却",
+        "onboard_time": 1773552502,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#120秒回顾总书记的两会时刻#"
+    }
+  }
+}
