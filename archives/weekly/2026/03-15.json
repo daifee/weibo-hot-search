@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773580071539,
+  "endTime": 1773581418139,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1538614,
+      "num": 1538614,
+      "word": "爱吃毛肚的人天塌了",
+      "onboard_time": 1773576866,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1443356,
       "num": 1443356,
       "word": "周小闹回应刘文祥塌房",
@@ -67,19 +75,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1230954,
-      "num": 1230954,
-      "word": "爱吃毛肚的人天塌了",
-      "onboard_time": 1773576866,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1182190,
       "num": 263251,
       "word": "章子怡 医美",
       "onboard_time": 1773553881,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1070737,
+      "num": 454852,
+      "word": "吴佳妮自曝婚内没收入很没尊严",
+      "onboard_time": 1773578366,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 857324,
+      "num": 857324,
+      "word": "315记者为暗访一个月抽血十几次",
+      "onboard_time": 1773575843,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 803369,
       "num": 995327,
       "word": "刘文祥刚爆火就塌房",
@@ -123,12 +139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 733128,
-      "num": 454852,
-      "word": "吴佳妮自曝婚内没收入很没尊严",
-      "onboard_time": 1773578366,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 725794,
+      "num": 141249,
+      "word": "鹅鸭杀崩了",
+      "onboard_time": 1773580587,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 722405,
@@ -139,11 +155,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 708485,
-      "num": 450841,
-      "word": "315记者为暗访一个月抽血十几次",
-      "onboard_time": 1773575843,
-      "rank": 12,
+      "raw_hot": 710789,
+      "num": 450244,
+      "word": "网红西梅汁实则暗藏强效泻药",
+      "onboard_time": 1773577767,
+      "rank": 13,
       "category": "舆论监督"
     },
     {
@@ -161,6 +177,14 @@
       "onboard_time": 1773572722,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 643751,
+      "num": 428845,
+      "word": "哈啰电动车超速",
+      "onboard_time": 1773580948,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 634238,
@@ -195,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598949,
+      "num": 427771,
+      "word": "多品牌回应鸡爪安全",
+      "onboard_time": 1773579448,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 594866,
       "num": 594866,
       "word": "25岁儿子毕业不工作急哭父亲",
@@ -203,11 +235,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 588821,
-      "num": 450244,
-      "word": "网红西梅汁实则暗藏强效泻药",
-      "onboard_time": 1773577767,
-      "rank": 13,
+      "raw_hot": 594816,
+      "num": 427236,
+      "word": "乖媳妇鸡爪",
+      "onboard_time": 1773577825,
+      "rank": 19,
       "category": "舆论监督"
     },
     {
@@ -267,6 +299,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 484495,
+      "num": 425101,
+      "word": "医美骗局",
+      "onboard_time": 1773579689,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 470892,
       "num": 273571,
       "word": "印度与伊朗紧急谈判",
@@ -315,8 +355,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 428573,
-      "num": 428573,
+      "raw_hot": 432069,
+      "num": 432069,
       "word": "张本美和冠军",
       "onboard_time": 1773576264,
       "rank": 18,
@@ -355,14 +395,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 387410,
-      "num": 387410,
-      "word": "乖媳妇鸡爪",
-      "onboard_time": 1773577825,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 383080,
       "num": 383080,
       "word": "七种千万不能吃的食物",
@@ -393,6 +425,14 @@
       "onboard_time": 1773561321,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 373020,
+      "num": 373020,
+      "word": "老师标配的小蜜蜂该用还是该禁",
+      "onboard_time": 1773576022,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357226,
@@ -491,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315963,
+      "num": 315963,
+      "word": "温瑞博亚军",
+      "onboard_time": 1773579689,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315386,
       "num": 285572,
       "word": "为什么大学里的男生比例越来越少",
@@ -553,14 +601,6 @@
       "onboard_time": 1773540741,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 298922,
-      "num": 298922,
-      "word": "老师标配的小蜜蜂该用还是该禁",
-      "onboard_time": 1773576022,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 298391,
@@ -699,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244341,
+      "num": 244341,
+      "word": "原来电商图是这样生成的",
+      "onboard_time": 1773577225,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 240795,
       "num": 209727,
       "word": "黑工厂制假天麻现场触目惊心",
@@ -721,6 +769,14 @@
       "onboard_time": 1773547938,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229022,
+      "num": 229022,
+      "word": "黄天鹅",
+      "onboard_time": 1773573682,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228822,
@@ -779,12 +835,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215715,
-      "num": 215715,
-      "word": "黄天鹅",
-      "onboard_time": 1773573682,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 217530,
+      "num": 217530,
+      "word": "黄天鹅严正声明",
+      "onboard_time": 1773578127,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 216986,
+      "num": 216986,
+      "word": "中国女篮vs捷克女篮",
+      "onboard_time": 1773580826,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 215266,
@@ -803,28 +867,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212595,
-      "num": 212595,
-      "word": "医美骗局",
-      "onboard_time": 1773579689,
-      "rank": 25,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 212589,
       "num": 143361,
       "word": "王橹杰自拍九宫格",
       "onboard_time": 1773553280,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211588,
-      "num": 211588,
-      "word": "原来电商图是这样生成的",
-      "onboard_time": 1773577225,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 211423,
@@ -873,14 +921,6 @@
       "onboard_time": 1773569062,
       "rank": 33,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 202041,
-      "num": 202041,
-      "word": "多品牌回应鸡爪安全",
-      "onboard_time": 1773579448,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199771,
@@ -971,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191132,
+      "num": 462170,
+      "word": "315晚会曝光增高骗局",
+      "onboard_time": 1773579448,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 189799,
       "num": 263469,
       "word": "网红锅巴厂原料和鞋垫一起烤",
@@ -1025,6 +1073,14 @@
       "onboard_time": 1773549320,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182569,
+      "num": 182569,
+      "word": "樊振东vs沃尔瑟",
+      "onboard_time": 1773580768,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 182460,
@@ -1131,20 +1187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160843,
+      "num": 249154,
+      "word": "2026考研复试新变化",
+      "onboard_time": 1773581127,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 160778,
+      "num": 160778,
+      "word": "张凌赫第一次拍长玉",
+      "onboard_time": 1773576562,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160219,
       "num": 160219,
       "word": "伊朗官员称乌克兰已成打击目标",
       "onboard_time": 1773543741,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 160215,
-      "num": 160215,
-      "word": "张凌赫第一次拍长玉",
-      "onboard_time": 1773576562,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 159009,
@@ -1195,14 +1259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153093,
-      "num": 197595,
-      "word": "温瑞博亚军",
-      "onboard_time": 1773579689,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152405,
       "num": 152405,
       "word": "窦骁在何超莲vlog出镜",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1773542000,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149304,
+      "num": 149304,
+      "word": "王楚钦噘嘴鼓掌",
+      "onboard_time": 1773580826,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 148694,
@@ -1307,14 +1371,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 132277,
-      "num": 132277,
-      "word": "黄天鹅严正声明",
-      "onboard_time": 1773578127,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 132048,
       "num": 129648,
       "word": "长玉转身就把谢征师父抱起来了",
@@ -1337,14 +1393,6 @@
       "onboard_time": 1773541460,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 130911,
-      "num": 462170,
-      "word": "315晚会曝光增高骗局",
-      "onboard_time": 1773579448,
-      "rank": 8,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 129380,
@@ -1587,6 +1635,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 111750,
+      "num": 431817,
+      "word": "漂白鸡爪企业买了超5000桶过氧化氢",
+      "onboard_time": 1773580648,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 111370,
       "num": 110561,
       "word": "谢霆锋是上海F1001号车手",
@@ -1705,6 +1761,14 @@
       "onboard_time": 1773558501,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102284,
+      "num": 426157,
+      "word": "冒牌专家说过了315再联系",
+      "onboard_time": 1773581067,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 101388,
@@ -2307,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64386,
+      "num": 3435940,
+      "word": "未来五年我国这样干",
+      "onboard_time": 1773579989,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64368,
       "num": 105810,
       "word": "孔雪儿邓凯浴池戏",
@@ -2723,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23915,
+      "num": 445277,
+      "word": "王建华主业让人笑副业让人哇",
+      "onboard_time": 1773579748,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23509,
       "num": 140117,
       "word": "牛肉丸里的牛肉含量",
@@ -2771,14 +2851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17148,
-      "num": 445277,
-      "word": "王建华主业让人笑副业让人哇",
-      "onboard_time": 1773579748,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16557,
       "num": 37002,
       "word": "CMG年度剧情电影男演员提名",
@@ -2803,14 +2875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 12032,
-      "num": 3435940,
-      "word": "未来五年我国这样干",
-      "onboard_time": 1773579989,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 10570,
       "num": 51549,
       "word": "十五五首次设置支持青年发展专节",
@@ -2832,6 +2896,14 @@
       "word": "赶在涨价前车主把加油站的油抢光了",
       "onboard_time": 1773561622,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7685,
+      "num": 2175044,
+      "word": "网警提醒看不见的虚假更要防",
+      "onboard_time": 1773581188,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

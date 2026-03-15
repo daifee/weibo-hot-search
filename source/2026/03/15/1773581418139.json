@@ -1,0 +1,410 @@
+{
+  "runTime": 1773581418139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12954923,
+        "num": 12954923,
+        "word": "315晚会",
+        "onboard_time": 1773575781,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2972840,
+        "num": 2972840,
+        "word": "双氧水鸡爪",
+        "onboard_time": 1773577045,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 7685,
+        "num": 2175044,
+        "word": "网警提醒看不见的虚假更要防",
+        "onboard_time": 1773581188,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1538614,
+        "num": 1538614,
+        "word": "爱吃毛肚的人天塌了",
+        "onboard_time": 1773576866,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1400619,
+        "num": 1400619,
+        "word": "周小闹回应刘文祥塌房",
+        "onboard_time": 1773574522,
+        "rank": 4,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 857324,
+        "num": 857324,
+        "word": "315记者为暗访一个月抽血十几次",
+        "onboard_time": 1773575843,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 783668,
+        "num": 783668,
+        "word": "315像是来审判我的",
+        "onboard_time": 1773574463,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432069,
+        "num": 432069,
+        "word": "张本美和冠军",
+        "onboard_time": 1773576264,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111750,
+        "num": 431817,
+        "word": "漂白鸡爪企业买了超5000桶过氧化氢",
+        "onboard_time": 1773580648,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 12427,
+        "num": 431427,
+        "word": "专家建议工作日缩至4天",
+        "onboard_time": 1773541460,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1179987,
+        "num": 430866,
+        "word": "紫薯精天塌了",
+        "onboard_time": 1773565461,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1070737,
+        "num": 430364,
+        "word": "吴佳妮自曝婚内没收入很没尊严",
+        "onboard_time": 1773578366,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710789,
+        "num": 429418,
+        "word": "网红西梅汁实则暗藏强效泻药",
+        "onboard_time": 1773577767,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 643751,
+        "num": 428845,
+        "word": "哈啰电动车超速",
+        "onboard_time": 1773580948,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23915,
+        "num": 428537,
+        "word": "王建华主业让人笑副业让人哇",
+        "onboard_time": 1773579748,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598949,
+        "num": 427771,
+        "word": "多品牌回应鸡爪安全",
+        "onboard_time": 1773579448,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594816,
+        "num": 427236,
+        "word": "乖媳妇鸡爪",
+        "onboard_time": 1773577825,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 564582,
+        "num": 426907,
+        "word": "配眼镜 暴利",
+        "onboard_time": 1773572061,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544530,
+        "num": 426399,
+        "word": "外泌体",
+        "onboard_time": 1773578067,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 102284,
+        "num": 426157,
+        "word": "冒牌专家说过了315再联系",
+        "onboard_time": 1773581067,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 484495,
+        "num": 425101,
+        "word": "医美骗局",
+        "onboard_time": 1773579689,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 425084,
+        "num": 425084,
+        "word": "315",
+        "onboard_time": 1773536180,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374263,
+        "num": 374263,
+        "word": "温瑞博vsF勒布伦",
+        "onboard_time": 1773577825,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373020,
+        "num": 373020,
+        "word": "老师标配的小蜜蜂该用还是该禁",
+        "onboard_time": 1773576022,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64386,
+        "num": 344438,
+        "word": "未来五年我国这样干",
+        "onboard_time": 1773579989,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317029,
+        "num": 317029,
+        "word": "胖东来要求博主删除视频",
+        "onboard_time": 1773563901,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315963,
+        "num": 315963,
+        "word": "温瑞博亚军",
+        "onboard_time": 1773579689,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278992,
+        "num": 278992,
+        "word": "樊长玉知道谢征的身份了",
+        "onboard_time": 1773574162,
+        "rank": 27,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 273788,
+        "num": 273788,
+        "word": "刘文祥 纯素菜",
+        "onboard_time": 1773572241,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160843,
+        "num": 249154,
+        "word": "2026考研复试新变化",
+        "onboard_time": 1773581127,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244341,
+        "num": 244341,
+        "word": "原来电商图是这样生成的",
+        "onboard_time": 1773577225,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229022,
+        "num": 229022,
+        "word": "黄天鹅",
+        "onboard_time": 1773573682,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217530,
+        "num": 217530,
+        "word": "黄天鹅严正声明",
+        "onboard_time": 1773578127,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 216986,
+        "num": 216986,
+        "word": "中国女篮vs捷克女篮",
+        "onboard_time": 1773580826,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191132,
+        "num": 191132,
+        "word": "315晚会曝光增高骗局",
+        "onboard_time": 1773579448,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 187849,
+        "num": 187849,
+        "word": "315晚会打假万能神药",
+        "onboard_time": 1773578606,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 182569,
+        "num": 182569,
+        "word": "樊振东vs沃尔瑟",
+        "onboard_time": 1773580768,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180400,
+        "num": 180400,
+        "word": "为什么大学里的男生比例越来越少",
+        "onboard_time": 1773569422,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167449,
+        "num": 167449,
+        "word": "9岁男孩17楼坠亡生母质疑死因不明",
+        "onboard_time": 1773574342,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160778,
+        "num": 160778,
+        "word": "张凌赫第一次拍长玉",
+        "onboard_time": 1773576562,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155065,
+        "num": 155065,
+        "word": "山姆有机冻干草莓已下架",
+        "onboard_time": 1773574643,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151457,
+        "num": 151457,
+        "word": "逐玉",
+        "onboard_time": 1773552681,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149304,
+        "num": 149304,
+        "word": "王楚钦噘嘴鼓掌",
+        "onboard_time": 1773580826,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 725794,
+        "num": 141249,
+        "word": "鹅鸭杀崩了",
+        "onboard_time": 1773580587,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133115,
+        "num": 133115,
+        "word": "刘文祥麻辣烫多处不合规",
+        "onboard_time": 1773570502,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130869,
+        "num": 130869,
+        "word": "美宜佳被约谈",
+        "onboard_time": 1773573981,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123458,
+        "num": 123458,
+        "word": "网红鸡爪生产车间令人作呕",
+        "onboard_time": 1773578247,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122346,
+        "num": 122346,
+        "word": "蒯曼亚军",
+        "onboard_time": 1773575543,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120777,
+        "num": 120777,
+        "word": "成毅 年龄",
+        "onboard_time": 1773537920,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118322,
+        "num": 118322,
+        "word": "黄子弘凡新歌",
+        "onboard_time": 1773579509,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五奋进之声#"
+    }
+  }
+}
