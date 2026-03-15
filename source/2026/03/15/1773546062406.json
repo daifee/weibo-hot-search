@@ -1,0 +1,410 @@
+{
+  "runTime": 1773546062406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1048710,
+        "num": 1167793,
+        "word": "315",
+        "onboard_time": 1773536180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372225,
+        "num": 853070,
+        "word": "机器人正要进电梯被男子一脚踹倒",
+        "onboard_time": 1773531258,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37066,
+        "num": 664729,
+        "word": "未来5年民生保障再加力",
+        "onboard_time": 1773541822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266596,
+        "num": 266596,
+        "word": "官方通报鹿哈带货牛肚加工环境问题",
+        "onboard_time": 1773541041,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 257859,
+        "num": 257859,
+        "word": "谢征掉马被打看的好爽",
+        "onboard_time": 1773543020,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299480,
+        "num": 257308,
+        "word": "花少 花儿与中老年",
+        "onboard_time": 1773541879,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256144,
+        "num": 256144,
+        "word": "宁娘天选女主",
+        "onboard_time": 1773540741,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187722,
+        "num": 187722,
+        "word": "掘金vs湖人",
+        "onboard_time": 1773537321,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47474,
+        "num": 187300,
+        "word": "车险套餐竟含有租房燃气险",
+        "onboard_time": 1773541400,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2597,
+        "num": 187136,
+        "word": "两会结束国务院立刻行动",
+        "onboard_time": 1773474860,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1989878,
+        "num": 186803,
+        "word": "成毅 年龄",
+        "onboard_time": 1773537920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648208,
+        "num": 186275,
+        "word": "梁婷 成毅报户口的时候报大一岁",
+        "onboard_time": 1773542900,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295953,
+        "num": 185690,
+        "word": "三里屯真人模特",
+        "onboard_time": 1773540201,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220224,
+        "num": 185364,
+        "word": "丞磊徐若晗吻脖子路透",
+        "onboard_time": 1773543500,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185016,
+        "num": 185016,
+        "word": "张凌赫田曦薇逐玉最后一场戏",
+        "onboard_time": 1773540379,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178538,
+        "num": 178538,
+        "word": "国内成品油价格将迎调整",
+        "onboard_time": 1773543980,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1364294,
+        "num": 176625,
+        "word": "梁婷 成毅年龄这个事怪我",
+        "onboard_time": 1773543500,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173335,
+        "num": 173335,
+        "word": "古巴",
+        "onboard_time": 1773539422,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166214,
+        "num": 166214,
+        "word": "洗澡省心到怀疑养了一只假猫",
+        "onboard_time": 1773540619,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160219,
+        "num": 160219,
+        "word": "伊朗官员称乌克兰已成打击目标",
+        "onboard_time": 1773543741,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158066,
+        "num": 158066,
+        "word": "鹿哈带货牛肚操作人员抽烟",
+        "onboard_time": 1773539180,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152560,
+        "num": 152560,
+        "word": "陈漫发了2023年的杨紫",
+        "onboard_time": 1773538220,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151073,
+        "num": 151073,
+        "word": "章子怡为角色增重20斤",
+        "onboard_time": 1773542000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140494,
+        "num": 140494,
+        "word": "胖东来鸡蛋被指人工色素超标",
+        "onboard_time": 1773531199,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146666,
+        "num": 139251,
+        "word": "时代少年团 外务",
+        "onboard_time": 1773539120,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136073,
+        "num": 136073,
+        "word": "刘宇宁露肚子",
+        "onboard_time": 1773541879,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124889,
+        "num": 124889,
+        "word": "5款网红护肝片含量检测全虚标",
+        "onboard_time": 1773539840,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124124,
+        "num": 124124,
+        "word": "印度与伊朗紧急谈判",
+        "onboard_time": 1773530596,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119097,
+        "num": 119097,
+        "word": "女子患红斑狼疮为备孕停药进ICU",
+        "onboard_time": 1773531798,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118898,
+        "num": 118898,
+        "word": "谢征好有礼貌",
+        "onboard_time": 1773540080,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112428,
+        "num": 112428,
+        "word": "看完瞿颖我的清迈病犯了",
+        "onboard_time": 1773545660,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109878,
+        "num": 109878,
+        "word": "伊朗告诉邻国美国只在乎以色列",
+        "onboard_time": 1773541400,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106469,
+        "num": 106469,
+        "word": "鹿哈方称正在核实情况",
+        "onboard_time": 1773545360,
+        "rank": 32,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 104263,
+        "num": 104263,
+        "word": "张凌赫一只手就把田曦薇提溜起来",
+        "onboard_time": 1773530657,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103079,
+        "num": 103079,
+        "word": "伊朗第51轮军事行动",
+        "onboard_time": 1773545119,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97223,
+        "num": 97223,
+        "word": "315不是一天的事",
+        "onboard_time": 1773545839,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96263,
+        "num": 96263,
+        "word": "何晟铭说于正活在象牙塔",
+        "onboard_time": 1773541160,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96236,
+        "num": 96236,
+        "word": "阿朵自曝全家吃隔夜三文鱼中毒",
+        "onboard_time": 1773544280,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95302,
+        "num": 95302,
+        "word": "低精力单休人无痛家务tips",
+        "onboard_time": 1773543920,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 94411,
+        "num": 94411,
+        "word": "泰遇害女子朋友曾与疑似嫌疑人通话",
+        "onboard_time": 1773545839,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89718,
+        "num": 89718,
+        "word": "315直播曝光消费乱象",
+        "onboard_time": 1773544161,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86502,
+        "num": 86502,
+        "word": "年销20万根的冬虫夏草是胶水拼的",
+        "onboard_time": 1773541340,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 84099,
+        "num": 84099,
+        "word": "米卡别试探了有市场",
+        "onboard_time": 1773545301,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83789,
+        "num": 83789,
+        "word": "敖瑞鹏 从考古的全世界路过",
+        "onboard_time": 1773544220,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81369,
+        "num": 81369,
+        "word": "妈妈依偎在被丢弃厕所女婴肩头",
+        "onboard_time": 1773542961,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80765,
+        "num": 80765,
+        "word": "泰国遇害中国女子丈夫发声",
+        "onboard_time": 1773545960,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80316,
+        "num": 80316,
+        "word": "天鹅出轨后新欢1年没下蛋原配提3娃",
+        "onboard_time": 1773530596,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78483,
+        "num": 78483,
+        "word": "防止邻居太吵的方法找到了",
+        "onboard_time": 1773546021,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75654,
+        "num": 75654,
+        "word": "男主持回应当众殴打女主持",
+        "onboard_time": 1773543379,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63825,
+        "num": 75456,
+        "word": "樊振东表示一切尚新未来会更好",
+        "onboard_time": 1773532519,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着总书记的嘱托一起出发#"
+    }
+  }
+}
