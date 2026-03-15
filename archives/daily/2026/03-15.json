@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773564448879,
+  "endTime": 1773565328828,
   "band_list": [
     {
       "raw_hot": 2210943,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551247,
+      "num": 551247,
+      "word": "F1",
+      "onboard_time": 1773500723,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 551047,
       "num": 296144,
       "word": "章子怡状态",
@@ -147,14 +155,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 499104,
-      "num": 499104,
-      "word": "F1",
-      "onboard_time": 1773500723,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 470892,
       "num": 273571,
       "word": "印度与伊朗紧急谈判",
@@ -169,6 +169,14 @@
       "onboard_time": 1773547461,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449939,
+      "num": 449939,
+      "word": "维斯塔潘退赛",
+      "onboard_time": 1773563662,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 436110,
@@ -209,6 +217,14 @@
       "onboard_time": 1773548720,
       "rank": 5,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 383080,
+      "num": 383080,
+      "word": "七种千万不能吃的食物",
+      "onboard_time": 1773563481,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 379816,
@@ -387,14 +403,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 263135,
-      "num": 263135,
-      "word": "七种千万不能吃的食物",
-      "onboard_time": 1773563481,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 261282,
       "num": 257859,
       "word": "谢征掉马被打看的好爽",
@@ -408,6 +416,14 @@
       "word": "张凌赫一只手就把田曦薇提溜起来",
       "onboard_time": 1773530657,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 245234,
+      "num": 239653,
+      "word": "张凌赫田曦薇没有杀青合照",
+      "onboard_time": 1773563481,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -515,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202445,
+      "num": 202445,
+      "word": "胖东来要求博主删除视频",
+      "onboard_time": 1773563901,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199771,
       "num": 199771,
       "word": "时代少年团 外务",
@@ -587,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187756,
+      "num": 187756,
+      "word": "央视315晚会点名食品安全领域",
+      "onboard_time": 1773563721,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187722,
       "num": 187722,
       "word": "掘金vs湖人",
@@ -619,14 +651,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 176848,
-      "num": 176848,
-      "word": "维斯塔潘退赛",
-      "onboard_time": 1773563662,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174848,
       "num": 174848,
       "word": "文淇路演亲了粉丝",
@@ -657,14 +681,6 @@
       "onboard_time": 1773498322,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168283,
-      "num": 168283,
-      "word": "张凌赫田曦薇没有杀青合照",
-      "onboard_time": 1773563481,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 166973,
@@ -779,20 +795,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147029,
-      "num": 147029,
-      "word": "胖东来要求博主删除视频",
-      "onboard_time": 1773563901,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142339,
       "num": 142339,
       "word": "伊朗袭击地区内美国银行",
       "onboard_time": 1773531258,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139542,
+      "num": 139542,
+      "word": "安东内利夺F1中国站冠军",
+      "onboard_time": 1773564503,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 137290,
@@ -841,6 +857,14 @@
       "onboard_time": 1773541460,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129380,
+      "num": 129380,
+      "word": "逐玉曾导抛媚眼给瞎子看",
+      "onboard_time": 1773562463,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 128541,
@@ -915,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120143,
+      "num": 120143,
+      "word": "刘翔回应身高有没有1米9",
+      "onboard_time": 1773564861,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119638,
       "num": 119638,
       "word": "蒙牛普通奶粉暗示能长一米八八",
@@ -979,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112151,
+      "num": 112151,
+      "word": "拉塞尔第二",
+      "onboard_time": 1773564982,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111370,
       "num": 110561,
       "word": "谢霆锋是上海F1001号车手",
@@ -987,20 +1027,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109987,
+      "num": 109987,
+      "word": "马龙观赛F1",
+      "onboard_time": 1773564263,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109280,
       "num": 109280,
       "word": "李昀锐宋雨琦晚宴表演",
       "onboard_time": 1773507259,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108769,
-      "num": 108769,
-      "word": "逐玉曾导抛媚眼给瞎子看",
-      "onboard_time": 1773562463,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 107535,
@@ -1059,20 +1099,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104953,
-      "num": 104953,
-      "word": "央视315晚会点名食品安全领域",
-      "onboard_time": 1773563721,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104103,
       "num": 104103,
       "word": "懒人真的很适合去过极简生活",
       "onboard_time": 1773552861,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103693,
+      "num": 103693,
+      "word": "逐玉云合破50%",
+      "onboard_time": 1773565221,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 103079,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1773554841,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98318,
+      "num": 98318,
+      "word": "司马光拔牙肿成蜜蜂小狗",
+      "onboard_time": 1773564861,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 97223,
@@ -1211,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92753,
+      "num": 245652,
+      "word": "江西九江发生岩降事故 3人死亡",
+      "onboard_time": 1773564321,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92669,
       "num": 92669,
       "word": "今日鲜奶铺卖的不全是鲜牛奶",
@@ -1225,6 +1281,14 @@
       "onboard_time": 1773552081,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 91741,
+      "num": 91741,
+      "word": "云合",
+      "onboard_time": 1773565041,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 91513,
@@ -1257,14 +1321,6 @@
       "onboard_time": 1773550101,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87708,
-      "num": 87708,
-      "word": "马龙观赛F1",
-      "onboard_time": 1773564263,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 87566,
@@ -1595,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60360,
+      "num": 226404,
+      "word": "短视频平台直播间的暗藏色情交易",
+      "onboard_time": 1773564441,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 57723,
       "num": 154927,
       "word": "多个品牌标签隐瞒一口价黄金克重",
@@ -1731,14 +1795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48190,
-      "num": 107789,
-      "word": "江西九江发生岩降事故 3人死亡",
-      "onboard_time": 1773564321,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47455,
       "num": 290280,
       "word": "博主用饲料标准测评胖东来鸡蛋",
@@ -1769,6 +1825,14 @@
       "onboard_time": 1773506959,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42963,
+      "num": 130339,
+      "word": "自闭症女孩玩游戏半年充45万",
+      "onboard_time": 1773565221,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 42061,
@@ -2025,6 +2089,14 @@
       "onboard_time": 1773561622,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1428,
+      "num": 772432,
+      "word": "十五五这四类人群直接受益",
+      "onboard_time": 1773451701,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
