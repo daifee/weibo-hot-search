@@ -1,0 +1,410 @@
+{
+  "runTime": 1773585548216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10599614,
+        "num": 10599614,
+        "word": "315名单",
+        "onboard_time": 1773581607,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2007316,
+        "num": 2188202,
+        "word": "315晚会",
+        "onboard_time": 1773575781,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36701,
+        "num": 1689711,
+        "word": "网警提醒看不见的虚假更要防",
+        "onboard_time": 1773581188,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1368801,
+        "num": 1368801,
+        "word": "有友鸡爪",
+        "onboard_time": 1773581726,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1194257,
+        "num": 1194257,
+        "word": "给AI投毒",
+        "onboard_time": 1773581668,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 779008,
+        "num": 779008,
+        "word": "周小闹回应刘文祥塌房",
+        "onboard_time": 1773574522,
+        "rank": 5,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 482106,
+        "num": 482106,
+        "word": "双氧水鸡爪",
+        "onboard_time": 1773577045,
+        "rank": 6,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 444084,
+        "num": 444084,
+        "word": "爱吃毛肚的人天塌了",
+        "onboard_time": 1773576866,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271262,
+        "num": 420155,
+        "word": "原来电商图是这样生成的",
+        "onboard_time": 1773577225,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1033,
+        "num": 417098,
+        "word": "未来5年民生保障再加力",
+        "onboard_time": 1773541822,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479408,
+        "num": 416789,
+        "word": "吴佳妮自曝婚内没收入很没尊严",
+        "onboard_time": 1773578366,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416053,
+        "num": 416053,
+        "word": "紫薯精天塌了",
+        "onboard_time": 1773565461,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 365760,
+        "num": 365760,
+        "word": "医美骗局",
+        "onboard_time": 1773579689,
+        "rank": 12,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 353851,
+        "num": 353851,
+        "word": "配眼镜 暴利",
+        "onboard_time": 1773572061,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297988,
+        "num": 297988,
+        "word": "原著作者回应肖战出演十日终焉",
+        "onboard_time": 1773581428,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286342,
+        "num": 286342,
+        "word": "乖媳妇鸡爪",
+        "onboard_time": 1773577825,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 266646,
+        "num": 266646,
+        "word": "315记者为暗访一个月抽血十几次",
+        "onboard_time": 1773575843,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 251105,
+        "num": 251105,
+        "word": "网红西梅汁实则暗藏强效泻药",
+        "onboard_time": 1773577767,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 63178,
+        "num": 244607,
+        "word": "内科医师一上网成了眼科专家",
+        "onboard_time": 1773585147,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 72776,
+        "num": 244399,
+        "word": "重庆市监局通报漂白鸡爪",
+        "onboard_time": 1773584785,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 70642,
+        "num": 244345,
+        "word": "私域营销5倍暴利围猎老人",
+        "onboard_time": 1773584246,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 244342,
+        "num": 244342,
+        "word": "老师标配的小蜜蜂该用还是该禁",
+        "onboard_time": 1773576022,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236127,
+        "num": 236127,
+        "word": "刘宇宁在最猛的年纪又野又欲",
+        "onboard_time": 1773582567,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210781,
+        "num": 210781,
+        "word": "等风热吻你看到了网友的呼吁",
+        "onboard_time": 1773583586,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183268,
+        "num": 183268,
+        "word": "多品牌回应鸡爪安全",
+        "onboard_time": 1773579448,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207362,
+        "num": 182990,
+        "word": "樊长玉知道谢征的身份了",
+        "onboard_time": 1773574162,
+        "rank": 25,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 182303,
+        "num": 182303,
+        "word": "外泌体",
+        "onboard_time": 1773578067,
+        "rank": 26,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 179504,
+        "num": 179504,
+        "word": "315",
+        "onboard_time": 1773536180,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173669,
+        "num": 173669,
+        "word": "刘宇宁杭州演唱会",
+        "onboard_time": 1773584490,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98752,
+        "num": 173585,
+        "word": "刘文祥麻辣烫多处不合规",
+        "onboard_time": 1773570502,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92842,
+        "num": 173164,
+        "word": "315晚会曝光荐股分成骗局",
+        "onboard_time": 1773585447,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 202099,
+        "num": 172524,
+        "word": "民警抓捕逃犯时牺牲2嫌犯畏罪自杀",
+        "onboard_time": 1773584490,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 180439,
+        "num": 172108,
+        "word": "医用级卫生巾",
+        "onboard_time": 1773585326,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 171996,
+        "num": 171996,
+        "word": "哈啰电动车超速",
+        "onboard_time": 1773580948,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 168583,
+        "num": 168583,
+        "word": "黄子弘凡直播",
+        "onboard_time": 1773584967,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159663,
+        "num": 159663,
+        "word": "胖东来要求博主删除视频",
+        "onboard_time": 1773563901,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137441,
+        "num": 137441,
+        "word": "黄天鹅",
+        "onboard_time": 1773573682,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136598,
+        "num": 136598,
+        "word": "刘文祥 纯素菜",
+        "onboard_time": 1773572241,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126823,
+        "num": 126823,
+        "word": "温瑞博亚军",
+        "onboard_time": 1773579689,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126660,
+        "num": 126660,
+        "word": "为什么大学里的男生比例越来越少",
+        "onboard_time": 1773569422,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122554,
+        "num": 122554,
+        "word": "9岁男孩17楼坠亡生母质疑死因不明",
+        "onboard_time": 1773574342,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121593,
+        "num": 121593,
+        "word": "逐玉",
+        "onboard_time": 1773552681,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111009,
+        "num": 111009,
+        "word": "ZB1一个一个退场",
+        "onboard_time": 1773583047,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110267,
+        "num": 110267,
+        "word": "王楚钦噘嘴鼓掌",
+        "onboard_time": 1773580826,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108834,
+        "num": 108834,
+        "word": "黄子弘凡新歌",
+        "onboard_time": 1773579509,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108361,
+        "num": 108361,
+        "word": "邱贻可找孙颖莎聊天",
+        "onboard_time": 1773583886,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107380,
+        "num": 107380,
+        "word": "田曦薇逐玉戏份",
+        "onboard_time": 1773583291,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107295,
+        "num": 107295,
+        "word": "315晚会曝光AI大模型被投毒",
+        "onboard_time": 1773581847,
+        "rank": 47,
+        "category": "舆论监督,互联网"
+      },
+      {
+        "raw_hot": 106884,
+        "num": 106884,
+        "word": "LGD第四周周冠军",
+        "onboard_time": 1773585386,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105413,
+        "num": 105413,
+        "word": "樊振东vs沃尔瑟",
+        "onboard_time": 1773580768,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#十五五奋进之声#"
+    }
+  }
+}
