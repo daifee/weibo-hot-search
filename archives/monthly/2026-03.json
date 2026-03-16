@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773695148524,
+  "endTime": 1773697812877,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -34371,6 +34371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66512,
+      "num": 46456,
+      "word": "伊朗打击美军阿联酋基地弹药库",
+      "onboard_time": 1773679279,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66506,
       "num": 66506,
       "word": "生活需要一些无用的东西",
@@ -38041,14 +38049,6 @@
       "onboard_time": 1772440164,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45784,
-      "num": 46456,
-      "word": "伊朗打击美军阿联酋基地弹药库",
-      "onboard_time": 1773679279,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45760,
@@ -42563,6 +42563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15174,
+      "num": 15275,
+      "word": "中美就一些议题取得初步共识",
+      "onboard_time": 1773668962,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15168,
       "num": 86245,
       "word": "暴力测评直播间被曝全是套路",
@@ -42683,12 +42691,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14029,
-      "num": 15275,
-      "word": "中美就一些议题取得初步共识",
-      "onboard_time": 1773668962,
-      "rank": 47,
-      "category": "国内时政"
+      "raw_hot": 14058,
+      "num": 14983,
+      "word": "丁禹兮司宫令权谋人设",
+      "onboard_time": 1773694694,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 13957,
@@ -42913,14 +42921,6 @@
       "onboard_time": 1772354962,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11400,
-      "num": 11981,
-      "word": "丁禹兮司宫令权谋人设",
-      "onboard_time": 1773694694,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 11391,
