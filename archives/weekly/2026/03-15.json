@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773662181935,
+  "endTime": 1773662736251,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1168181,
-      "num": 206661,
+      "num": 214625,
       "word": "周冬雨 刘昊然",
       "onboard_time": 1773636623,
       "rank": 22,
@@ -603,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 485301,
+      "num": 303798,
+      "word": "315塌房全总结",
+      "onboard_time": 1773658763,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484719,
       "num": 230533,
       "word": "湘雅",
@@ -625,14 +633,6 @@
       "onboard_time": 1773530596,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 468613,
-      "num": 283206,
-      "word": "315塌房全总结",
-      "onboard_time": 1773658763,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 467809,
@@ -667,7 +667,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 463001,
+      "raw_hot": 463008,
       "num": 231938,
       "word": "孙燕姿胖了",
       "onboard_time": 1773658703,
@@ -795,6 +795,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 394189,
+      "num": 302448,
+      "word": "长玉说和离 谢征吐血",
+      "onboard_time": 1773659661,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391103,
       "num": 242090,
       "word": "姚安娜让我看到传说中的浮光锦了",
@@ -889,14 +897,6 @@
       "onboard_time": 1773576022,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 367473,
-      "num": 277228,
-      "word": "长玉说和离 谢征吐血",
-      "onboard_time": 1773659661,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 358653,
@@ -1147,6 +1147,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 308825,
+      "num": 526451,
+      "word": "开心消消乐发错版本了",
+      "onboard_time": 1773660322,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307816,
       "num": 307816,
       "word": "夏之光 我的家庭没有能力兜底",
@@ -1201,6 +1209,22 @@
       "onboard_time": 1773649587,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302104,
+      "num": 1091563,
+      "word": "事业单位招人岗位在海拔3614米山顶",
+      "onboard_time": 1773658823,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301731,
+      "num": 301731,
+      "word": "范丞丞开始减肥第一天",
+      "onboard_time": 1773659122,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 301491,
@@ -1273,14 +1297,6 @@
       "onboard_time": 1773649645,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 286105,
-      "num": 231274,
-      "word": "范丞丞开始减肥第一天",
-      "onboard_time": 1773659122,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 283661,
@@ -1377,14 +1393,6 @@
       "onboard_time": 1773567502,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 264027,
-      "num": 1091563,
-      "word": "事业单位招人岗位在海拔3614米山顶",
-      "onboard_time": 1773658823,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263846,
@@ -1539,14 +1547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 230648,
-      "num": 526451,
-      "word": "开心消消乐发错版本了",
-      "onboard_time": 1773660322,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 229698,
       "num": 229698,
       "word": "高质量睡眠对人的改变",
@@ -1651,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215883,
+      "num": 308658,
+      "word": "联合调查组调查湘雅医院学生坠江身亡",
+      "onboard_time": 1773661764,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 215266,
       "num": 215266,
       "word": "张凌赫田曦薇逐玉最后一场戏",
@@ -1728,6 +1736,14 @@
       "word": "胖东来鸡蛋被指人工色素超标",
       "onboard_time": 1773531199,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204564,
+      "num": 233999,
+      "word": "香港西贡码头惊现身绑砖头浮尸",
+      "onboard_time": 1773657744,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2035,6 +2051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173402,
+      "num": 306385,
+      "word": "手机电脑迎来涨价潮",
+      "onboard_time": 1773660863,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 172594,
       "num": 138016,
       "word": "汪苏泷直播",
@@ -2195,6 +2219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 160048,
+      "num": 160048,
+      "word": "孔雪儿伟大的爱豆时期",
+      "onboard_time": 1773660143,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159009,
       "num": 159009,
       "word": "亿级APP存在大量儿童软色情内容",
@@ -2339,14 +2371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146329,
-      "num": 233999,
-      "word": "香港西贡码头惊现身绑砖头浮尸",
-      "onboard_time": 1773657744,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143687,
       "num": 108351,
       "word": "武契奇称三个邻居准备进攻塞尔维亚",
@@ -2401,6 +2425,14 @@
       "onboard_time": 1773531258,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142190,
+      "num": 142190,
+      "word": "宋威龙私底下烟酒都不来",
+      "onboard_time": 1773661944,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 141001,
@@ -2473,14 +2505,6 @@
       "onboard_time": 1773541400,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 136077,
-      "num": 287047,
-      "word": "联合调查组调查湘雅医院学生坠江身亡",
-      "onboard_time": 1773661764,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 135585,
@@ -2561,14 +2585,6 @@
       "onboard_time": 1773498262,
       "rank": 31,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 132644,
-      "num": 132644,
-      "word": "孔雪儿伟大的爱豆时期",
-      "onboard_time": 1773660143,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 132424,
@@ -2843,12 +2859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119508,
+      "num": 119508,
+      "word": "张艺凡 黄子韬老娘来了",
+      "onboard_time": 1773661641,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119203,
       "num": 119203,
       "word": "最小概率的事就这么发生了",
       "onboard_time": 1773632363,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118316,
+      "num": 106942,
+      "word": "刚起床的素颜张柏芝",
+      "onboard_time": 1773661885,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 118266,
@@ -2897,14 +2929,6 @@
       "onboard_time": 1773565221,
       "rank": 32,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 116213,
-      "num": 231443,
-      "word": "手机电脑迎来涨价潮",
-      "onboard_time": 1773660863,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 116067,
@@ -3121,6 +3145,14 @@
       "onboard_time": 1773647368,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107031,
+      "num": 107031,
+      "word": "恋与深空 偷跑",
+      "onboard_time": 1773661885,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 106884,
@@ -3411,14 +3443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 97707,
-      "num": 97707,
-      "word": "宋威龙私底下烟酒都不来",
-      "onboard_time": 1773661944,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97581,
       "num": 97581,
       "word": "不喜欢可能认识的人",
@@ -3563,6 +3587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94503,
+      "num": 94503,
+      "word": "李门槛 齐本宫",
+      "onboard_time": 1773661463,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94411,
       "num": 94411,
       "word": "泰遇害女子朋友曾与疑似嫌疑人通话",
@@ -3635,6 +3667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93389,
+      "num": 93389,
+      "word": "林一你咋了",
+      "onboard_time": 1773661764,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93330,
       "num": 93330,
       "word": "黄金跌破5000美元的原因找到了",
@@ -3697,14 +3737,6 @@
       "onboard_time": 1773652225,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92434,
-      "num": 92434,
-      "word": "张艺凡 黄子韬老娘来了",
-      "onboard_time": 1773661641,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 91891,
@@ -3915,6 +3947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87545,
+      "num": 87545,
+      "word": "王楚钦开心吃雪糕",
+      "onboard_time": 1773662303,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87259,
       "num": 87259,
       "word": "在外婆家里翻出过期了26年的东西",
@@ -4041,14 +4081,6 @@
       "onboard_time": 1773646041,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 84681,
-      "num": 84681,
-      "word": "李门槛 齐本宫",
-      "onboard_time": 1773661463,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 84461,
@@ -4179,6 +4211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81287,
+      "num": 121529,
+      "word": "何小鹏直播第二代VLA推送",
+      "onboard_time": 1773659122,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81247,
       "num": 85513,
       "word": "第一次见反向cos的",
@@ -4195,28 +4235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80996,
-      "num": 80996,
-      "word": "刚起床的素颜张柏芝",
-      "onboard_time": 1773661885,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80803,
       "num": 80803,
       "word": "经销商称市场已找不到千元内手机",
       "onboard_time": 1773660443,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 80751,
-      "num": 91154,
-      "word": "恋与深空 偷跑",
-      "onboard_time": 1773661885,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 80716,
@@ -4337,6 +4361,14 @@
       "onboard_time": 1773543379,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77571,
+      "num": 85251,
+      "word": "为了不等桌直接自带桌",
+      "onboard_time": 1773662663,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 77382,
@@ -4611,14 +4643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 67263,
-      "num": 120113,
-      "word": "何小鹏直播第二代VLA推送",
-      "onboard_time": 1773659122,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 67118,
       "num": 121399,
       "word": "内娱明星在Tiffany晚宴团建",
@@ -4689,6 +4713,14 @@
       "onboard_time": 1773539840,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61466,
+      "num": 105912,
+      "word": "黄天鹅多平台遭退单",
+      "onboard_time": 1773661820,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60746,
@@ -4809,14 +4841,6 @@
       "onboard_time": 1773502881,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53306,
-      "num": 97786,
-      "word": "黄天鹅多平台遭退单",
-      "onboard_time": 1773661820,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51519,
@@ -4995,6 +5019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42812,
+      "num": 106569,
+      "word": "谁给李煜东戴的大直径美瞳",
+      "onboard_time": 1773662063,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42568,
       "num": 1082261,
       "word": "2026年以旧换新数据亮眼",
@@ -5083,14 +5115,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 39150,
-      "num": 98409,
-      "word": "谁给李煜东戴的大直径美瞳",
-      "onboard_time": 1773662063,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39052,
       "num": 108975,
       "word": "网络问诊开单秘籍男攻肾虚女攻衰老",
@@ -5161,6 +5185,14 @@
       "onboard_time": 1773569121,
       "rank": 9,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 33915,
+      "num": 304461,
+      "word": "刘文祥致歉信已不可见",
+      "onboard_time": 1773661820,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33755,
@@ -5347,6 +5379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22126,
+      "num": 106293,
+      "word": "宋一国说大韩身高超过185cm",
+      "onboard_time": 1773662423,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22121,
       "num": 38921,
       "word": "315晚会曝光七大问题",
@@ -5377,6 +5417,14 @@
       "onboard_time": 1773595998,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19885,
+      "num": 232864,
+      "word": "保护消费者权益不能靠每年315算总账",
+      "onboard_time": 1773661701,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 19528,
@@ -5419,14 +5467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18359,
-      "num": 232864,
-      "word": "保护消费者权益不能靠每年315算总账",
-      "onboard_time": 1773661701,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 18088,
       "num": 83248,
       "word": "钢铁侠送美队丁字裤",
@@ -5460,7 +5500,7 @@
     },
     {
       "raw_hot": 16741,
-      "num": 158425,
+      "num": 192096,
       "word": "跟着周云杰打卡无人家务黑科技",
       "onboard_time": 1773661944,
       "rank": 27,
@@ -5529,14 +5569,6 @@
       "onboard_time": 1773651684,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13805,
-      "num": 233356,
-      "word": "刘文祥致歉信已不可见",
-      "onboard_time": 1773661820,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13561,

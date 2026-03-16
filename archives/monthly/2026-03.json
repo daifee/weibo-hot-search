@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773662181935,
+  "endTime": 1773662736251,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -892,7 +892,7 @@
     },
     {
       "raw_hot": 1168181,
-      "num": 206661,
+      "num": 214625,
       "word": "周冬雨 刘昊然",
       "onboard_time": 1773636623,
       "rank": 22,
@@ -4603,6 +4603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485301,
+      "num": 303798,
+      "word": "315塌房全总结",
+      "onboard_time": 1773658763,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484943,
       "num": 674227,
       "word": "你好1983定档",
@@ -4939,14 +4947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 468613,
-      "num": 283206,
-      "word": "315塌房全总结",
-      "onboard_time": 1773658763,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 468016,
       "num": 468016,
       "word": "小偷来了都要先玩俩小时",
@@ -5051,7 +5051,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 463001,
+      "raw_hot": 463008,
       "num": 231938,
       "word": "孙燕姿胖了",
       "onboard_time": 1773658703,
@@ -6435,6 +6435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394189,
+      "num": 302448,
+      "word": "长玉说和离 谢征吐血",
+      "onboard_time": 1773659661,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394096,
       "num": 378568,
       "word": "美以不可能打了伊朗就一走了之",
@@ -7057,14 +7065,6 @@
       "onboard_time": 1772946381,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367473,
-      "num": 277228,
-      "word": "长玉说和离 谢征吐血",
-      "onboard_time": 1773659661,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 367247,
@@ -8779,6 +8779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 308825,
+      "num": 526451,
+      "word": "开心消消乐发错版本了",
+      "onboard_time": 1773660322,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 308581,
       "num": 152565,
       "word": "陈浚铭 闹鬼了",
@@ -9065,6 +9073,22 @@
       "onboard_time": 1773649587,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302104,
+      "num": 1091563,
+      "word": "事业单位招人岗位在海拔3614米山顶",
+      "onboard_time": 1773658823,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301731,
+      "num": 301731,
+      "word": "范丞丞开始减肥第一天",
+      "onboard_time": 1773659122,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 301539,
@@ -9577,14 +9601,6 @@
       "onboard_time": 1773649645,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 286105,
-      "num": 231274,
-      "word": "范丞丞开始减肥第一天",
-      "onboard_time": 1773659122,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 286044,
@@ -10417,14 +10433,6 @@
       "onboard_time": 1773370399,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 264027,
-      "num": 1091563,
-      "word": "事业单位招人岗位在海拔3614米山顶",
-      "onboard_time": 1773658823,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263846,
@@ -11755,14 +11763,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 230648,
-      "num": 526451,
-      "word": "开心消消乐发错版本了",
-      "onboard_time": 1773660322,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 230298,
       "num": 368857,
       "word": "伊朗警告油价或超200美元",
@@ -12547,6 +12547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215883,
+      "num": 308658,
+      "word": "联合调查组调查湘雅医院学生坠江身亡",
+      "onboard_time": 1773661764,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 215880,
       "num": 659425,
       "word": "ITZY召回打歌",
@@ -13065,6 +13073,14 @@
       "onboard_time": 1773114802,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 204564,
+      "num": 233999,
+      "word": "香港西贡码头惊现身绑砖头浮尸",
+      "onboard_time": 1773657744,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204136,
@@ -14915,6 +14931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173402,
+      "num": 306385,
+      "word": "手机电脑迎来涨价潮",
+      "onboard_time": 1773660863,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173056,
       "num": 960647,
       "word": "原来忌口辛辣是忌这些",
@@ -16033,6 +16057,14 @@
       "onboard_time": 1772581043,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160048,
+      "num": 160048,
+      "word": "孔雪儿伟大的爱豆时期",
+      "onboard_time": 1773660143,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 160036,
@@ -17459,14 +17491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 146329,
-      "num": 233999,
-      "word": "香港西贡码头惊现身绑砖头浮尸",
-      "onboard_time": 1773657744,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146298,
       "num": 341528,
       "word": "蒲巴甲怒批凭什么质疑丁真",
@@ -17945,6 +17969,14 @@
       "onboard_time": 1772686404,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142190,
+      "num": 142190,
+      "word": "宋威龙私底下烟酒都不来",
+      "onboard_time": 1773661944,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 142181,
@@ -18475,14 +18507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136077,
-      "num": 287047,
-      "word": "联合调查组调查湘雅医院学生坠江身亡",
-      "onboard_time": 1773661764,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 136058,
       "num": 126676,
       "word": "王楚然 女人中的女人",
@@ -18937,14 +18961,6 @@
       "onboard_time": 1773126023,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 132644,
-      "num": 132644,
-      "word": "孔雪儿伟大的爱豆时期",
-      "onboard_time": 1773660143,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 132587,
@@ -20835,6 +20851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119508,
+      "num": 119508,
+      "word": "张艺凡 黄子韬老娘来了",
+      "onboard_time": 1773661641,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119401,
       "num": 119401,
       "word": "河北省考 行测好难",
@@ -20961,6 +20985,14 @@
       "onboard_time": 1772428763,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118316,
+      "num": 106942,
+      "word": "刚起床的素颜张柏芝",
+      "onboard_time": 1773661885,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 118266,
@@ -21297,14 +21329,6 @@
       "onboard_time": 1773216082,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 116213,
-      "num": 231443,
-      "word": "手机电脑迎来涨价潮",
-      "onboard_time": 1773660863,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 116073,
@@ -22977,6 +23001,14 @@
       "onboard_time": 1773117624,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107031,
+      "num": 107031,
+      "word": "恋与深空 偷跑",
+      "onboard_time": 1773661885,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 106975,
@@ -25067,14 +25099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97707,
-      "num": 97707,
-      "word": "宋威龙私底下烟酒都不来",
-      "onboard_time": 1773661944,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97642,
       "num": 97642,
       "word": "据报初步评估显示美军袭击伊朗学校",
@@ -25875,6 +25899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94503,
+      "num": 94503,
+      "word": "李门槛 齐本宫",
+      "onboard_time": 1773661463,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94483,
       "num": 94483,
       "word": "Lululemon店员称售罄发圈非常耐用",
@@ -26251,6 +26283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 93389,
+      "num": 93389,
+      "word": "林一你咋了",
+      "onboard_time": 1773661764,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93380,
       "num": 93380,
       "word": "全球黄金物流遭重大冲击",
@@ -26520,14 +26560,6 @@
       "word": "朴山多拉方否认吸毒",
       "onboard_time": 1772530408,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 92434,
-      "num": 92434,
-      "word": "张艺凡 黄子韬老娘来了",
-      "onboard_time": 1773661641,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -27939,6 +27971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87545,
+      "num": 87545,
+      "word": "王楚钦开心吃雪糕",
+      "onboard_time": 1773662303,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87525,
       "num": 801540,
       "word": "种地吧4种地日记",
@@ -28697,14 +28737,6 @@
       "onboard_time": 1772955800,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 84681,
-      "num": 84681,
-      "word": "李门槛 齐本宫",
-      "onboard_time": 1773661463,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 84672,
@@ -29643,6 +29675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81287,
+      "num": 121529,
+      "word": "何小鹏直播第二代VLA推送",
+      "onboard_time": 1773659122,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81279,
       "num": 81279,
       "word": "缅北四大家族16名主犯死刑立即执行",
@@ -29723,14 +29763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80996,
-      "num": 80996,
-      "word": "刚起床的素颜张柏芝",
-      "onboard_time": 1773661885,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80943,
       "num": 348614,
       "word": "孙颖莎可爱到蓬出屏幕",
@@ -29801,14 +29833,6 @@
       "onboard_time": 1773660443,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 80751,
-      "num": 91154,
-      "word": "恋与深空 偷跑",
-      "onboard_time": 1773661885,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 80750,
@@ -30729,6 +30753,14 @@
       "onboard_time": 1773543379,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77571,
+      "num": 85251,
+      "word": "为了不等桌直接自带桌",
+      "onboard_time": 1773662663,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 77486,
@@ -33635,14 +33667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67263,
-      "num": 120113,
-      "word": "何小鹏直播第二代VLA推送",
-      "onboard_time": 1773659122,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 67260,
       "num": 590019,
       "word": "王曼昱vs大藤沙月",
@@ -34963,6 +34987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61466,
+      "num": 105912,
+      "word": "黄天鹅多平台遭退单",
+      "onboard_time": 1773661820,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61458,
       "num": 157835,
       "word": "伊朗重申睦邻友好尊重地区国家主权",
@@ -36281,14 +36313,6 @@
       "onboard_time": 1772591663,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 53306,
-      "num": 97786,
-      "word": "黄天鹅多平台遭退单",
-      "onboard_time": 1773661820,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53283,
@@ -37875,6 +37899,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 42812,
+      "num": 106569,
+      "word": "谁给李煜东戴的大直径美瞳",
+      "onboard_time": 1773662063,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42809,
       "num": 191589,
       "word": "闲鱼售卖被盗文物嫌疑人被抓",
@@ -38465,14 +38497,6 @@
       "onboard_time": 1772549494,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39150,
-      "num": 98409,
-      "word": "谁给李煜东戴的大直径美瞳",
-      "onboard_time": 1773662063,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 39140,
@@ -39225,6 +39249,14 @@
       "onboard_time": 1772939182,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33915,
+      "num": 304461,
+      "word": "刘文祥致歉信已不可见",
+      "onboard_time": 1773661820,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33911,
@@ -40899,6 +40931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 22126,
+      "num": 106293,
+      "word": "宋一国说大韩身高超过185cm",
+      "onboard_time": 1773662423,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22121,
       "num": 38921,
       "word": "315晚会曝光七大问题",
@@ -41283,6 +41323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19885,
+      "num": 232864,
+      "word": "保护消费者权益不能靠每年315算总账",
+      "onboard_time": 1773661701,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 19875,
       "num": 188666,
       "word": "鞠婧祎ELLE四月刊官宣节奏",
@@ -41425,14 +41473,6 @@
       "onboard_time": 1773218603,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18359,
-      "num": 232864,
-      "word": "保护消费者权益不能靠每年315算总账",
-      "onboard_time": 1773661701,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 18354,
@@ -41676,7 +41716,7 @@
     },
     {
       "raw_hot": 16741,
-      "num": 158425,
+      "num": 192096,
       "word": "跟着周云杰打卡无人家务黑科技",
       "onboard_time": 1773661944,
       "rank": 27,
@@ -42065,14 +42105,6 @@
       "onboard_time": 1772967740,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13805,
-      "num": 233356,
-      "word": "刘文祥致歉信已不可见",
-      "onboard_time": 1773661820,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13780,
