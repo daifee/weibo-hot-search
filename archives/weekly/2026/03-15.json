@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773638696078,
+  "endTime": 1773641161135,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2082344,
-      "num": 190737,
+      "num": 200992,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1773621382,
       "rank": 20,
@@ -128,6 +128,14 @@
       "word": "章子怡 医美",
       "onboard_time": 1773553881,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1168181,
+      "num": 206661,
+      "word": "周冬雨 刘昊然",
+      "onboard_time": 1773636623,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -217,14 +225,6 @@
       "onboard_time": 1773625641,
       "rank": 3,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 754671,
-      "num": 139187,
-      "word": "周冬雨 刘昊然",
-      "onboard_time": 1773636623,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 726858,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 589599,
+      "num": 252116,
+      "word": "小狗舔人被说主人情绪失控",
+      "onboard_time": 1773638783,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 584532,
       "num": 584532,
       "word": "卖给孩子的可爱卡片竟有上吊暗示",
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 449992,
-      "num": 336978,
+      "num": 355431,
       "word": "伊朗称440公斤60%丰度浓缩铀被埋",
       "onboard_time": 1773636024,
       "rank": 6,
@@ -620,11 +628,19 @@
     },
     {
       "raw_hot": 419365,
-      "num": 419365,
+      "num": 783491,
       "word": "vivo宣布涨价",
       "onboard_time": 1773637103,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 406847,
+      "num": 406847,
+      "word": "埃文凯尔官宣定居中国",
+      "onboard_time": 1773640342,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 405439,
@@ -649,6 +665,14 @@
       "onboard_time": 1773635003,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389079,
+      "num": 389079,
+      "word": "坠江身亡研究生离世前疑似发布遗言",
+      "onboard_time": 1773640583,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 383080,
@@ -777,6 +801,14 @@
       "onboard_time": 1773588384,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 344248,
+      "num": 344248,
+      "word": "卧底老K收入暴涨315总导演1天1电话",
+      "onboard_time": 1773638963,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336370,
@@ -1123,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258329,
+      "num": 258329,
+      "word": "山姆等多品牌回应双氧水漂白鸡爪",
+      "onboard_time": 1773639681,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258129,
       "num": 233165,
       "word": "院人喜人看黄子弘凡演唱会",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1773581847,
       "rank": 26,
       "category": "舆论监督,互联网"
+    },
+    {
+      "raw_hot": 252897,
+      "num": 221107,
+      "word": "好像郭晓婷王天辰婚礼答谢宴",
+      "onboard_time": 1773639262,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 249734,
@@ -1507,6 +1555,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 190417,
+      "num": 190417,
+      "word": "原来有天赋的孩子从小就能看出来",
+      "onboard_time": 1773637163,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 189799,
       "num": 263469,
       "word": "网红锅巴厂原料和鞋垫一起烤",
@@ -1747,6 +1803,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 163513,
+      "num": 163513,
+      "word": "逐玉为何被审判",
+      "onboard_time": 1773637944,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163229,
       "num": 136205,
       "word": "金道勋 ana",
@@ -1915,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143687,
+      "num": 108351,
+      "word": "武契奇称三个邻居准备进攻塞尔维亚",
+      "onboard_time": 1773638963,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142942,
       "num": 142942,
       "word": "陈梦看F1晒照",
@@ -1937,6 +2009,14 @@
       "onboard_time": 1773583047,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142487,
+      "num": 142487,
+      "word": "霍尔木兹海峡首次没有船只通航",
+      "onboard_time": 1773639382,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142339,
@@ -2363,14 +2443,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 116174,
-      "num": 116174,
-      "word": "原来有天赋的孩子从小就能看出来",
-      "onboard_time": 1773637163,
-      "rank": 30,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 116067,
       "num": 116067,
       "word": "年销20万根的冬虫夏草是胶水拼的",
@@ -2409,14 +2481,6 @@
       "onboard_time": 1773631881,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 113725,
-      "num": 113725,
-      "word": "逐玉为何被审判",
-      "onboard_time": 1773637944,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 113015,
@@ -2521,6 +2585,14 @@
       "onboard_time": 1773507259,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109012,
+      "num": 108219,
+      "word": "日本将中国文物当战利品宣扬军国主义",
+      "onboard_time": 1773640342,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108361,
@@ -2649,6 +2721,14 @@
       "onboard_time": 1773552861,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103295,
+      "num": 103295,
+      "word": "雷军回应回到5年前还造车吗",
+      "onboard_time": 1773641122,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 103079,
@@ -2835,6 +2915,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 96507,
+      "num": 96507,
+      "word": "老辈子的精神资产没轻没重的",
+      "onboard_time": 1773639922,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96448,
       "num": 96448,
       "word": "邓凯回应孔雪儿想演强制爱",
@@ -2883,12 +2971,28 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 94718,
+      "num": 94718,
+      "word": "残疾外卖员一个月赔了500多块",
+      "onboard_time": 1773640523,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94411,
       "num": 94411,
       "word": "泰遇害女子朋友曾与疑似嫌疑人通话",
       "onboard_time": 1773545839,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94356,
+      "num": 94356,
+      "word": "这个315全家人的天都塌了",
+      "onboard_time": 1773639382,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94064,
@@ -2947,6 +3051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93330,
+      "num": 93330,
+      "word": "黄金跌破5000美元的原因找到了",
+      "onboard_time": 1773640822,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93324,
       "num": 93324,
       "word": "蒯曼决赛对阵张本美和",
@@ -2961,6 +3073,14 @@
       "onboard_time": 1773637823,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93007,
+      "num": 93007,
+      "word": "单依纯抢票",
+      "onboard_time": 1773640401,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 92842,
@@ -3105,6 +3225,14 @@
       "onboard_time": 1773575243,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88519,
+      "num": 88519,
+      "word": "芒果一口气宣了20场音乐节",
+      "onboard_time": 1773641001,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 88350,
@@ -3659,6 +3787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63507,
+      "num": 93729,
+      "word": "逐玉这些动作都是张凌赫设计的",
+      "onboard_time": 1773638001,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63332,
       "num": 105653,
       "word": "谢征越骗越多",
@@ -3905,6 +4041,14 @@
       "onboard_time": 1773581188,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44053,
+      "num": 94377,
+      "word": "300个AI机器人5天能打34万个电话",
+      "onboard_time": 1773640822,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 43874,
@@ -4313,6 +4457,14 @@
       "onboard_time": 1773510976,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18554,
+      "num": 94424,
+      "word": "建议儿女们315查查爸妈的冰箱",
+      "onboard_time": 1773639083,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17621,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1773641161135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 523754,
+        "num": 1083800,
+        "word": "315曝光名单",
+        "onboard_time": 1773581607,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 408513,
+        "num": 783491,
+        "word": "vivo宣布涨价",
+        "onboard_time": 1773637103,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21234,
+        "num": 614477,
+        "word": "致敬每一份不屈的热爱",
+        "onboard_time": 1773629181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 406847,
+        "num": 406847,
+        "word": "埃文凯尔官宣定居中国",
+        "onboard_time": 1773640342,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389079,
+        "num": 389079,
+        "word": "坠江身亡研究生离世前疑似发布遗言",
+        "onboard_time": 1773640583,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604936,
+        "num": 387035,
+        "word": "湘雅医院失联学生确认坠江身亡",
+        "onboard_time": 1773625342,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355431,
+        "num": 355431,
+        "word": "伊朗称440公斤60%丰度浓缩铀被埋",
+        "onboard_time": 1773636024,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 344248,
+        "num": 344248,
+        "word": "卧底老K收入暴涨315总导演1天1电话",
+        "onboard_time": 1773638963,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308316,
+        "num": 308316,
+        "word": "卧底卧成二把手的记者315又立功",
+        "onboard_time": 1773633682,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 258329,
+        "num": 258329,
+        "word": "山姆等多品牌回应双氧水漂白鸡爪",
+        "onboard_time": 1773639681,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595909,
+        "num": 254560,
+        "word": "刘宇宁回应黄子韬道歉",
+        "onboard_time": 1773635903,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589599,
+        "num": 252116,
+        "word": "小狗舔人被说主人情绪失控",
+        "onboard_time": 1773638783,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249526,
+        "num": 249526,
+        "word": "刘文祥被查紫薯精停更一天",
+        "onboard_time": 1773635783,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385293,
+        "num": 242551,
+        "word": "金价",
+        "onboard_time": 1773628161,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 294784,
+        "num": 241312,
+        "word": "瞿颖 翻红",
+        "onboard_time": 1773632903,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273604,
+        "num": 232014,
+        "word": "姚安娜让我看到传说中的浮光锦了",
+        "onboard_time": 1773635003,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221489,
+        "num": 221489,
+        "word": "脑梗最快急救方法",
+        "onboard_time": 1773631401,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252897,
+        "num": 221107,
+        "word": "好像郭晓婷王天辰婚礼答谢宴",
+        "onboard_time": 1773639262,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217754,
+        "num": 217754,
+        "word": "宋智雅因三星Galaxy言论被骂",
+        "onboard_time": 1773632542,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208255,
+        "num": 208255,
+        "word": "漂白鸡爪企业致歉",
+        "onboard_time": 1773625641,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1168181,
+        "num": 206661,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1773636623,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1030155,
+        "num": 200992,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1773621382,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190417,
+        "num": 190417,
+        "word": "原来有天赋的孩子从小就能看出来",
+        "onboard_time": 1773637163,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 180307,
+        "num": 180307,
+        "word": "男子发现自己长期吃315曝光鸡爪",
+        "onboard_time": 1773635903,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163513,
+        "num": 163513,
+        "word": "逐玉为何被审判",
+        "onboard_time": 1773637944,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151886,
+        "num": 151886,
+        "word": "中南大学和湖南卫健委成立联合调查组",
+        "onboard_time": 1773631162,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149093,
+        "num": 149093,
+        "word": "终于有人把带孩子的累说清楚了",
+        "onboard_time": 1773632363,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148871,
+        "num": 148871,
+        "word": "奥斯卡",
+        "onboard_time": 1773617299,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142487,
+        "num": 142487,
+        "word": "霍尔木兹海峡首次没有船只通航",
+        "onboard_time": 1773639382,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108369,
+        "num": 108369,
+        "word": "14岁女儿在校被打智力退至3岁",
+        "onboard_time": 1773635604,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143687,
+        "num": 108351,
+        "word": "武契奇称三个邻居准备进攻塞尔维亚",
+        "onboard_time": 1773638963,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109012,
+        "num": 108219,
+        "word": "日本将中国文物当战利品宣扬军国主义",
+        "onboard_time": 1773640342,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107954,
+        "num": 107954,
+        "word": "2026奥斯卡获奖名单",
+        "onboard_time": 1773617961,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103295,
+        "num": 103295,
+        "word": "雷军回应回到5年前还造车吗",
+        "onboard_time": 1773641122,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102877,
+        "num": 102877,
+        "word": "315曝光后多地连夜通报",
+        "onboard_time": 1773622463,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96877,
+        "num": 96877,
+        "word": "湘雅",
+        "onboard_time": 1773625043,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96507,
+        "num": 96507,
+        "word": "老辈子的精神资产没轻没重的",
+        "onboard_time": 1773639922,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94718,
+        "num": 94718,
+        "word": "残疾外卖员一个月赔了500多块",
+        "onboard_time": 1773640523,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18554,
+        "num": 94424,
+        "word": "建议儿女们315查查爸妈的冰箱",
+        "onboard_time": 1773639083,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44053,
+        "num": 94377,
+        "word": "300个AI机器人5天能打34万个电话",
+        "onboard_time": 1773640822,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94356,
+        "num": 94356,
+        "word": "这个315全家人的天都塌了",
+        "onboard_time": 1773639382,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63507,
+        "num": 93729,
+        "word": "逐玉这些动作都是张凌赫设计的",
+        "onboard_time": 1773638001,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93330,
+        "num": 93330,
+        "word": "黄金跌破5000美元的原因找到了",
+        "onboard_time": 1773640822,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93007,
+        "num": 93007,
+        "word": "单依纯抢票",
+        "onboard_time": 1773640401,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91417,
+        "num": 91417,
+        "word": "卢昱晓被家乡台贴脸开大",
+        "onboard_time": 1773635183,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83749,
+        "num": 90089,
+        "word": "多国回应特朗普护航要求",
+        "onboard_time": 1773635483,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89335,
+        "num": 89335,
+        "word": "田曦薇任豪 我欲乘风",
+        "onboard_time": 1773623542,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88519,
+        "num": 88519,
+        "word": "芒果一口气宣了20场音乐节",
+        "onboard_time": 1773641001,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79444,
+        "num": 87964,
+        "word": "KPL老乡杯来了",
+        "onboard_time": 1773637284,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87528,
+        "num": 87528,
+        "word": "家有七郎开机",
+        "onboard_time": 1773631641,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}
