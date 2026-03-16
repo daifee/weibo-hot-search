@@ -1,6 +1,6 @@
 {
   "startTime": 1773592897493,
-  "endTime": 1773654010887,
+  "endTime": 1773658924558,
   "band_list": [
     {
       "raw_hot": 9686798,
@@ -35,8 +35,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1283621,
-      "num": 261497,
+      "raw_hot": 1339144,
+      "num": 576428,
       "word": "爱吃薯片的人天塌了",
       "onboard_time": 1773652225,
       "rank": 5,
@@ -97,6 +97,14 @@
       "onboard_time": 1773641481,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 685655,
+      "num": 1109704,
+      "word": "樊振东下赛季加盟杜塞尔多夫",
+      "onboard_time": 1773657442,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 674004,
@@ -163,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 573891,
+      "num": 573891,
+      "word": "发现虾腿有肉以后",
+      "onboard_time": 1773656662,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 547975,
       "num": 135409,
       "word": "西梅汁",
@@ -211,6 +227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 503908,
+      "num": 503908,
+      "word": "教体局通报女孩遭殴打不予立案原因",
+      "onboard_time": 1773655223,
+      "rank": 7,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 492575,
       "num": 1078812,
       "word": "刘文祥致歉",
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 452783,
-      "num": 261121,
+      "num": 286214,
       "word": "F1海外账号发合影把吴艳妮裁掉",
       "onboard_time": 1773652104,
       "rank": 6,
@@ -331,6 +355,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384685,
+      "num": 384685,
+      "word": "逐玉",
+      "onboard_time": 1773552681,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 383854,
+      "num": 601456,
+      "word": "坠江研究生曾因试图跳楼被送精神病科",
+      "onboard_time": 1773656782,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381838,
       "num": 381838,
       "word": "刘文祥被查紫薯精停更一天",
@@ -380,7 +420,7 @@
     },
     {
       "raw_hot": 354779,
-      "num": 354779,
+      "num": 578347,
       "word": "鸿蒙智行 小米",
       "onboard_time": 1773647308,
       "rank": 9,
@@ -443,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 323988,
+      "num": 120995,
+      "word": "王一栩 虞书欣演过最好的都是我给的",
+      "onboard_time": 1773655163,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318674,
       "num": 204257,
       "word": "以色列否认美方说法",
@@ -489,6 +537,14 @@
       "onboard_time": 1773649587,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299379,
+      "num": 270855,
+      "word": "张凌赫田曦薇浴池戏",
+      "onboard_time": 1773655104,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 295218,
@@ -691,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180000,
+      "num": 180000,
+      "word": "樊振东回应转会",
+      "onboard_time": 1773658103,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177121,
       "num": 167473,
       "word": "中国仙侠剧凡人修仙传火爆全球",
@@ -723,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170450,
+      "num": 170450,
+      "word": "樊振东将离开萨尔队",
+      "onboard_time": 1773657744,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167521,
       "num": 167521,
       "word": "家有七郎开机",
@@ -737,6 +809,14 @@
       "onboard_time": 1773581428,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165457,
+      "num": 782076,
+      "word": "以为是火腿肠其实是炸药",
+      "onboard_time": 1773653244,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 164873,
@@ -835,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149599,
+      "num": 120328,
+      "word": "女子借5万还不上履约做对方女友",
+      "onboard_time": 1773658523,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143687,
       "num": 108351,
       "word": "武契奇称三个邻居准备进攻塞尔维亚",
@@ -857,6 +945,14 @@
       "onboard_time": 1773652225,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138868,
+      "num": 117056,
+      "word": "痞幼自曝彩礼只要10万",
+      "onboard_time": 1773658042,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 136982,
@@ -1027,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119199,
+      "num": 119199,
+      "word": "男子喝咖啡后头晕送检查出伟哥成分",
+      "onboard_time": 1773658401,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117450,
       "num": 108468,
       "word": "肖战一个emoji代表一个角色",
@@ -1048,6 +1152,14 @@
       "word": "夫妻结婚54年打呼噜也不分床睡",
       "onboard_time": 1773627683,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111999,
+      "num": 111999,
+      "word": "315塌房全总结",
+      "onboard_time": 1773658763,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1147,6 +1259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105920,
+      "num": 105920,
+      "word": "向太给郭碧婷买了4块地",
+      "onboard_time": 1773655821,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104687,
       "num": 104687,
       "word": "伊朗称目前发射导弹多为10年前生产",
@@ -1243,6 +1363,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95727,
+      "num": 112643,
+      "word": "涉事机器人高举双手被警方押走",
+      "onboard_time": 1773654983,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95635,
+      "num": 95635,
+      "word": "吴敬平说樊振东娘家人来了",
+      "onboard_time": 1773655283,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95258,
       "num": 95258,
       "word": "没见过逐玉这么伟大的剧宣",
@@ -1259,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94847,
+      "num": 94847,
+      "word": "一代人有一代人的下班仪式感",
+      "onboard_time": 1773655043,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94718,
       "num": 94718,
       "word": "残疾外卖员一个月赔了500多块",
@@ -1273,6 +1417,14 @@
       "onboard_time": 1773639382,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94331,
+      "num": 94331,
+      "word": "孙燕姿胖了",
+      "onboard_time": 1773658703,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 93931,
@@ -1401,6 +1553,22 @@
       "onboard_time": 1773636443,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88503,
+      "num": 88503,
+      "word": "王一栩虞书欣 三搭",
+      "onboard_time": 1773657862,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88383,
+      "num": 90361,
+      "word": "香港西贡码头惊现身绑砖头浮尸",
+      "onboard_time": 1773657744,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87706,
@@ -1547,20 +1715,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81978,
-      "num": 81978,
-      "word": "逐玉",
-      "onboard_time": 1773552681,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 81656,
       "num": 81656,
       "word": "门店回应vivo涨价",
       "onboard_time": 1773645741,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81099,
+      "num": 81099,
+      "word": "老人被烫伤酒店怒吼家属你没责任吗",
+      "onboard_time": 1773654923,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80337,
@@ -1593,6 +1761,22 @@
       "onboard_time": 1773578067,
       "rank": 36,
       "category": "舆论监督,健康医疗"
+    },
+    {
+      "raw_hot": 79413,
+      "num": 79413,
+      "word": "猫 人能不能有点边界感",
+      "onboard_time": 1773658703,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 78916,
+      "num": 78916,
+      "word": "田曦薇哭戏",
+      "onboard_time": 1773656002,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 78850,
@@ -1633,14 +1817,6 @@
       "onboard_time": 1773623122,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 76510,
-      "num": 167750,
-      "word": "以为是火腿肠其实是炸药",
-      "onboard_time": 1773653244,
-      "rank": 29,
-      "category": "军事"
     },
     {
       "raw_hot": 76363,
@@ -1697,6 +1873,14 @@
       "onboard_time": 1773638663,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73677,
+      "num": 73677,
+      "word": "王橹杰语音",
+      "onboard_time": 1773654743,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 73630,
@@ -1948,7 +2132,7 @@
     },
     {
       "raw_hot": 42568,
-      "num": 617128,
+      "num": 634349,
       "word": "2026年以旧换新数据亮眼",
       "onboard_time": 1773650845,
       "rank": 2,
@@ -1971,6 +2155,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 40085,
+      "num": 122463,
+      "word": "黄子韬疑似回应被经纪人背刺",
+      "onboard_time": 1773657982,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39052,
       "num": 108975,
       "word": "网络问诊开单秘籍男攻肾虚女攻衰老",
@@ -1985,6 +2177,14 @@
       "onboard_time": 1773581847,
       "rank": 36,
       "category": "舆论监督,互联网"
+    },
+    {
+      "raw_hot": 33821,
+      "num": 94862,
+      "word": "事业单位招人岗位在海拔3614米山顶",
+      "onboard_time": 1773658823,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33662,
@@ -2041,6 +2241,14 @@
       "onboard_time": 1773581188,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25148,
+      "num": 172889,
+      "word": "大众9X首发MomentaR7世界模型",
+      "onboard_time": 1773654203,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 24611,

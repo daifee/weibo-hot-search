@@ -1,0 +1,410 @@
+{
+  "runTime": 1773658924558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 685655,
+        "num": 1109704,
+        "word": "樊振东下赛季加盟杜塞尔多夫",
+        "onboard_time": 1773657442,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165457,
+        "num": 782076,
+        "word": "以为是火腿肠其实是炸药",
+        "onboard_time": 1773653244,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 31489,
+        "num": 634349,
+        "word": "2026年以旧换新数据亮眼",
+        "onboard_time": 1773650845,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 383854,
+        "num": 601456,
+        "word": "坠江研究生曾因试图跳楼被送精神病科",
+        "onboard_time": 1773656782,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232811,
+        "num": 578347,
+        "word": "鸿蒙智行 小米",
+        "onboard_time": 1773647308,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1339144,
+        "num": 576428,
+        "word": "爱吃薯片的人天塌了",
+        "onboard_time": 1773652225,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 573891,
+        "num": 573891,
+        "word": "发现虾腿有肉以后",
+        "onboard_time": 1773656662,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 503908,
+        "num": 503908,
+        "word": "教体局通报女孩遭殴打不予立案原因",
+        "onboard_time": 1773655223,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 384685,
+        "num": 384685,
+        "word": "逐玉",
+        "onboard_time": 1773656302,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286214,
+        "num": 286214,
+        "word": "F1海外账号发合影把吴艳妮裁掉",
+        "onboard_time": 1773652104,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299379,
+        "num": 270855,
+        "word": "张凌赫田曦薇浴池戏",
+        "onboard_time": 1773655104,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244663,
+        "num": 244663,
+        "word": "刘文祥致歉",
+        "onboard_time": 1773649705,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180000,
+        "num": 180000,
+        "word": "樊振东回应转会",
+        "onboard_time": 1773658103,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175903,
+        "num": 175903,
+        "word": "深圳卫健委又发力了",
+        "onboard_time": 1773646282,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25148,
+        "num": 172889,
+        "word": "大众9X首发MomentaR7世界模型",
+        "onboard_time": 1773654203,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170450,
+        "num": 170450,
+        "word": "樊振东将离开萨尔队",
+        "onboard_time": 1773657744,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157320,
+        "num": 157320,
+        "word": "中方回应特朗普呼吁多国派军舰护航",
+        "onboard_time": 1773649645,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124644,
+        "num": 124644,
+        "word": "埃文凯尔官宣定居中国",
+        "onboard_time": 1773640342,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122913,
+        "num": 122913,
+        "word": "逐玉 编剧浪费演员颜值",
+        "onboard_time": 1773646526,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40085,
+        "num": 122463,
+        "word": "黄子韬疑似回应被经纪人背刺",
+        "onboard_time": 1773657982,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160319,
+        "num": 121882,
+        "word": "26岁患癌女子冒生命危险坚持备孕",
+        "onboard_time": 1773649227,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439920,
+        "num": 121400,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1773621382,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323988,
+        "num": 120995,
+        "word": "王一栩 虞书欣演过最好的都是我给的",
+        "onboard_time": 1773655163,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149599,
+        "num": 120328,
+        "word": "女子借5万还不上履约做对方女友",
+        "onboard_time": 1773658523,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242820,
+        "num": 119776,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1773636623,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165065,
+        "num": 119297,
+        "word": "李诞说现在失业的人可能是一件好事",
+        "onboard_time": 1773641542,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119199,
+        "num": 119199,
+        "word": "男子喝咖啡后头晕送检查出伟哥成分",
+        "onboard_time": 1773658401,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155299,
+        "num": 118775,
+        "word": "张檬想给孩子喂母乳到2岁",
+        "onboard_time": 1773652524,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138868,
+        "num": 117056,
+        "word": "痞幼自曝彩礼只要10万",
+        "onboard_time": 1773658042,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95727,
+        "num": 112643,
+        "word": "涉事机器人高举双手被警方押走",
+        "onboard_time": 1773654983,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111999,
+        "num": 111999,
+        "word": "315塌房全总结",
+        "onboard_time": 1773658763,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111896,
+        "num": 111896,
+        "word": "刘宇宁回应黄子韬道歉",
+        "onboard_time": 1773635903,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105920,
+        "num": 105920,
+        "word": "向太给郭碧婷买了4块地",
+        "onboard_time": 1773655821,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95635,
+        "num": 95635,
+        "word": "吴敬平说樊振东娘家人来了",
+        "onboard_time": 1773655283,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100488,
+        "num": 95416,
+        "word": "经纪人回应瞿颖翻红",
+        "onboard_time": 1773641481,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94987,
+        "num": 94987,
+        "word": "315曝光名单",
+        "onboard_time": 1773581607,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 33821,
+        "num": 94862,
+        "word": "事业单位招人岗位在海拔3614米山顶",
+        "onboard_time": 1773658823,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94847,
+        "num": 94847,
+        "word": "一代人有一代人的下班仪式感",
+        "onboard_time": 1773655043,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94331,
+        "num": 94331,
+        "word": "孙燕姿胖了",
+        "onboard_time": 1773658703,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88383,
+        "num": 90361,
+        "word": "香港西贡码头惊现身绑砖头浮尸",
+        "onboard_time": 1773657744,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88503,
+        "num": 88503,
+        "word": "王一栩虞书欣 三搭",
+        "onboard_time": 1773657862,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83433,
+        "num": 83433,
+        "word": "78岁老人离世天空群鹤盘旋半小时",
+        "onboard_time": 1773651385,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83422,
+        "num": 83422,
+        "word": "爱穿带帽卫衣的那批人被年龄攻击了",
+        "onboard_time": 1773648147,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81099,
+        "num": 81099,
+        "word": "老人被烫伤酒店怒吼家属你没责任吗",
+        "onboard_time": 1773654923,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80595,
+        "num": 80595,
+        "word": "宋雨琦 内娱星二代孩子王",
+        "onboard_time": 1773650906,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81854,
+        "num": 80593,
+        "word": "胡兵要去papi节目了",
+        "onboard_time": 1773652225,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80578,
+        "num": 80578,
+        "word": "卧底老K收入暴涨315总导演1天1电话",
+        "onboard_time": 1773638963,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79413,
+        "num": 79413,
+        "word": "猫 人能不能有点边界感",
+        "onboard_time": 1773658703,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78916,
+        "num": 78916,
+        "word": "田曦薇哭戏",
+        "onboard_time": 1773656002,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73677,
+        "num": 73677,
+        "word": "王橹杰语音",
+        "onboard_time": 1773654743,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着总书记的嘱托一起出发#"
+    }
+  }
+}
