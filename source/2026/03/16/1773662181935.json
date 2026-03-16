@@ -1,0 +1,410 @@
+{
+  "runTime": 1773662181935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 425735,
+        "num": 1068117,
+        "word": "樊振东下赛季加盟杜塞尔多夫",
+        "onboard_time": 1773657442,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264027,
+        "num": 757635,
+        "word": "事业单位招人岗位在海拔3614米山顶",
+        "onboard_time": 1773658823,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29598,
+        "num": 589906,
+        "word": "2026年以旧换新数据亮眼",
+        "onboard_time": 1773650845,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230648,
+        "num": 526451,
+        "word": "开心消消乐发错版本了",
+        "onboard_time": 1773660322,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227453,
+        "num": 483207,
+        "word": "樊振东将离开萨尔队",
+        "onboard_time": 1773657744,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 858544,
+        "num": 477778,
+        "word": "爱吃薯片的人天塌了",
+        "onboard_time": 1773652225,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 466523,
+        "num": 466523,
+        "word": "发现虾腿有肉以后",
+        "onboard_time": 1773656662,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297071,
+        "num": 297071,
+        "word": "樊振东回应转会",
+        "onboard_time": 1773658103,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179507,
+        "num": 296498,
+        "word": "鸿蒙智行 小米",
+        "onboard_time": 1773647308,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 136077,
+        "num": 287047,
+        "word": "联合调查组调查湘雅医院学生坠江身亡",
+        "onboard_time": 1773661764,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 468613,
+        "num": 283206,
+        "word": "315塌房全总结",
+        "onboard_time": 1773658763,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367473,
+        "num": 277228,
+        "word": "长玉说和离 谢征吐血",
+        "onboard_time": 1773659661,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274279,
+        "num": 274279,
+        "word": "逐玉",
+        "onboard_time": 1773656302,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261620,
+        "num": 261620,
+        "word": "教体局通报女孩遭殴打不予立案原因",
+        "onboard_time": 1773655223,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 234398,
+        "num": 234398,
+        "word": "张凌赫田曦薇浴池戏",
+        "onboard_time": 1773655104,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170724,
+        "num": 234113,
+        "word": "中方回应特朗普呼吁多国派军舰护航",
+        "onboard_time": 1773649645,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146329,
+        "num": 233999,
+        "word": "香港西贡码头惊现身绑砖头浮尸",
+        "onboard_time": 1773657744,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13805,
+        "num": 233356,
+        "word": "刘文祥致歉信已不可见",
+        "onboard_time": 1773661820,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128605,
+        "num": 233022,
+        "word": "以为是火腿肠其实是炸药",
+        "onboard_time": 1773653244,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 18359,
+        "num": 232864,
+        "word": "保护消费者权益不能靠每年315算总账",
+        "onboard_time": 1773661701,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 490088,
+        "num": 232359,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1773621382,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463001,
+        "num": 231938,
+        "word": "孙燕姿胖了",
+        "onboard_time": 1773658703,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116213,
+        "num": 231443,
+        "word": "手机电脑迎来涨价潮",
+        "onboard_time": 1773660863,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 286105,
+        "num": 231274,
+        "word": "范丞丞开始减肥第一天",
+        "onboard_time": 1773659122,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231020,
+        "num": 231020,
+        "word": "女子借5万还不上履约做对方女友",
+        "onboard_time": 1773658523,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184287,
+        "num": 184287,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1773636623,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168396,
+        "num": 168396,
+        "word": "王一栩 虞书欣演过最好的都是我给的",
+        "onboard_time": 1773655163,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16741,
+        "num": 158425,
+        "word": "跟着周云杰打卡无人家务黑科技",
+        "onboard_time": 1773661944,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155401,
+        "num": 155401,
+        "word": "李诞说现在失业的人可能是一件好事",
+        "onboard_time": 1773641542,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133521,
+        "num": 133521,
+        "word": "26岁患癌女子冒生命危险坚持备孕",
+        "onboard_time": 1773649227,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132644,
+        "num": 132644,
+        "word": "孔雪儿伟大的爱豆时期",
+        "onboard_time": 1773660143,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130084,
+        "num": 130084,
+        "word": "痞幼自曝彩礼只要10万",
+        "onboard_time": 1773658042,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120191,
+        "num": 120191,
+        "word": "男子喝咖啡后头晕送检查出伟哥成分",
+        "onboard_time": 1773658401,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67263,
+        "num": 120113,
+        "word": "何小鹏直播第二代VLA推送",
+        "onboard_time": 1773659122,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102071,
+        "num": 120083,
+        "word": "埃文凯尔官宣定居中国",
+        "onboard_time": 1773640342,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120073,
+        "num": 120073,
+        "word": "韩已故演员崔真实女儿结婚请帖公开",
+        "onboard_time": 1773660383,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103088,
+        "num": 103088,
+        "word": "F1官方未回应吴艳妮合影被裁",
+        "onboard_time": 1773660083,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43157,
+        "num": 99582,
+        "word": "黄亦玫你又去找庄国栋了吗",
+        "onboard_time": 1773661641,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39150,
+        "num": 98409,
+        "word": "谁给李煜东戴的大直径美瞳",
+        "onboard_time": 1773662063,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53306,
+        "num": 97786,
+        "word": "黄天鹅多平台遭退单",
+        "onboard_time": 1773661820,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97707,
+        "num": 97707,
+        "word": "宋威龙私底下烟酒都不来",
+        "onboard_time": 1773661944,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92434,
+        "num": 92434,
+        "word": "张艺凡 黄子韬老娘来了",
+        "onboard_time": 1773661641,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80751,
+        "num": 91154,
+        "word": "恋与深空 偷跑",
+        "onboard_time": 1773661885,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90787,
+        "num": 90787,
+        "word": "向太给郭碧婷买了4块地",
+        "onboard_time": 1773655821,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89303,
+        "num": 89303,
+        "word": "逐玉 编剧浪费演员颜值",
+        "onboard_time": 1773646526,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76207,
+        "num": 85685,
+        "word": "幼儿园孩子该不该活在楚门的世界里",
+        "onboard_time": 1773658943,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 84681,
+        "num": 84681,
+        "word": "李门槛 齐本宫",
+        "onboard_time": 1773661463,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80996,
+        "num": 80996,
+        "word": "刚起床的素颜张柏芝",
+        "onboard_time": 1773661885,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73516,
+        "num": 80974,
+        "word": "邱党欢迎樊振东加盟",
+        "onboard_time": 1773660562,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72041,
+        "num": 80712,
+        "word": "球队经理回应樊振东离开萨尔布吕肯",
+        "onboard_time": 1773661103,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着总书记的嘱托一起出发#"
+    }
+  }
+}

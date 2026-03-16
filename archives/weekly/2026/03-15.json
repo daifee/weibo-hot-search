@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773660506496,
+  "endTime": 1773662181935,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2082344,
-      "num": 200992,
+      "num": 232359,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1773621382,
       "rank": 20,
@@ -627,6 +627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 468613,
+      "num": 283206,
+      "word": "315塌房全总结",
+      "onboard_time": 1773658763,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467809,
       "num": 234327,
       "word": "布洛芬很着急为您服务",
@@ -657,6 +665,14 @@
       "onboard_time": 1773547461,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463001,
+      "num": 231938,
+      "word": "孙燕姿胖了",
+      "onboard_time": 1773658703,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 452783,
@@ -875,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367473,
+      "num": 277228,
+      "word": "长玉说和离 谢征吐血",
+      "onboard_time": 1773659661,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358653,
       "num": 222457,
       "word": "邓凯妈妈 有那么帅吗",
@@ -889,14 +913,6 @@
       "onboard_time": 1773648687,
       "rank": 26,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 358124,
-      "num": 150037,
-      "word": "孙燕姿胖了",
-      "onboard_time": 1773658703,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 357226,
@@ -1044,7 +1060,7 @@
     },
     {
       "raw_hot": 323988,
-      "num": 149793,
+      "num": 168396,
       "word": "王一栩 虞书欣演过最好的都是我给的",
       "onboard_time": 1773655163,
       "rank": 22,
@@ -1211,6 +1227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 297071,
+      "num": 333502,
+      "word": "樊振东回应转会",
+      "onboard_time": 1773658103,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296740,
       "num": 296740,
       "word": "迈凯轮双车退赛",
@@ -1244,11 +1268,19 @@
     },
     {
       "raw_hot": 286494,
-      "num": 227792,
+      "num": 234113,
       "word": "中方回应特朗普呼吁多国派军舰护航",
       "onboard_time": 1773649645,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 286105,
+      "num": 231274,
+      "word": "范丞丞开始减肥第一天",
+      "onboard_time": 1773659122,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 283661,
@@ -1347,6 +1379,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 264027,
+      "num": 1091563,
+      "word": "事业单位招人岗位在海拔3614米山顶",
+      "onboard_time": 1773658823,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263846,
       "num": 142519,
       "word": "小英整牙",
@@ -1361,14 +1401,6 @@
       "onboard_time": 1773543020,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260324,
-      "num": 260324,
-      "word": "315塌房全总结",
-      "onboard_time": 1773658763,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259079,
@@ -1401,14 +1433,6 @@
       "onboard_time": 1773573501,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257557,
-      "num": 149920,
-      "word": "范丞丞开始减肥第一天",
-      "onboard_time": 1773659122,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 257390,
@@ -1468,7 +1492,7 @@
     },
     {
       "raw_hot": 243033,
-      "num": 149956,
+      "num": 231020,
       "word": "女子借5万还不上履约做对方女友",
       "onboard_time": 1773658523,
       "rank": 23,
@@ -1515,6 +1539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230648,
+      "num": 526451,
+      "word": "开心消消乐发错版本了",
+      "onboard_time": 1773660322,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229698,
       "num": 229698,
       "word": "高质量睡眠对人的改变",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1773501023,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227453,
+      "num": 483207,
+      "word": "樊振东将离开萨尔队",
+      "onboard_time": 1773657744,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 224682,
@@ -1729,22 +1769,6 @@
       "onboard_time": 1773539120,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199304,
-      "num": 333502,
-      "word": "樊振东回应转会",
-      "onboard_time": 1773658103,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199218,
-      "num": 1091563,
-      "word": "事业单位招人岗位在海拔3614米山顶",
-      "onboard_time": 1773658823,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198866,
@@ -2019,14 +2043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172209,
-      "num": 172209,
-      "word": "长玉说和离 谢征吐血",
-      "onboard_time": 1773659661,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171357,
       "num": 171357,
       "word": "宋雨琦 内娱星二代孩子王",
@@ -2041,14 +2057,6 @@
       "onboard_time": 1773530596,
       "rank": 6,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 170450,
-      "num": 170450,
-      "word": "樊振东将离开萨尔队",
-      "onboard_time": 1773657744,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 169228,
@@ -2331,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146329,
+      "num": 233999,
+      "word": "香港西贡码头惊现身绑砖头浮尸",
+      "onboard_time": 1773657744,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143687,
       "num": 108351,
       "word": "武契奇称三个邻居准备进攻塞尔维亚",
@@ -2459,6 +2475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136077,
+      "num": 287047,
+      "word": "联合调查组调查湘雅医院学生坠江身亡",
+      "onboard_time": 1773661764,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 135585,
       "num": 198465,
       "word": "14岁女孩被上铺舍友踩头致重伤",
@@ -2537,6 +2561,14 @@
       "onboard_time": 1773498262,
       "rank": 31,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 132644,
+      "num": 132644,
+      "word": "孔雪儿伟大的爱豆时期",
+      "onboard_time": 1773660143,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 132424,
@@ -2771,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120073,
+      "num": 120073,
+      "word": "韩已故演员崔真实女儿结婚请帖公开",
+      "onboard_time": 1773660383,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119937,
       "num": 119937,
       "word": "孙颖莎观赛",
@@ -2857,6 +2897,14 @@
       "onboard_time": 1773565221,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 116213,
+      "num": 231443,
+      "word": "手机电脑迎来涨价潮",
+      "onboard_time": 1773660863,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 116067,
@@ -3187,6 +3235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 103088,
+      "num": 103088,
+      "word": "F1官方未回应吴艳妮合影被裁",
+      "onboard_time": 1773660083,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103079,
       "num": 107685,
       "word": "伊朗第51轮军事行动",
@@ -3249,14 +3305,6 @@
       "onboard_time": 1773586944,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101535,
-      "num": 101535,
-      "word": "孔雪儿伟大的爱豆时期",
-      "onboard_time": 1773660143,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 101388,
@@ -3347,14 +3395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98477,
-      "num": 98477,
-      "word": "开心消消乐发错版本了",
-      "onboard_time": 1773660322,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 98354,
       "num": 98354,
       "word": "少吃水果就少生病吗",
@@ -3369,6 +3409,14 @@
       "onboard_time": 1773564861,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97707,
+      "num": 97707,
+      "word": "宋威龙私底下烟酒都不来",
+      "onboard_time": 1773661944,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 97581,
@@ -3619,14 +3667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 92963,
-      "num": 92963,
-      "word": "香港西贡码头惊现身绑砖头浮尸",
-      "onboard_time": 1773657744,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92842,
       "num": 383894,
       "word": "315晚会曝光荐股分成骗局",
@@ -3657,6 +3697,14 @@
       "onboard_time": 1773652225,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92434,
+      "num": 92434,
+      "word": "张艺凡 黄子韬老娘来了",
+      "onboard_time": 1773661641,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 91891,
@@ -3745,14 +3793,6 @@
       "onboard_time": 1773642082,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89933,
-      "num": 89933,
-      "word": "韩已故演员崔真实女儿结婚请帖公开",
-      "onboard_time": 1773660383,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 89863,
@@ -4003,6 +4043,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 84681,
+      "num": 84681,
+      "word": "李门槛 齐本宫",
+      "onboard_time": 1773661463,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84461,
       "num": 84461,
       "word": "谢征樊长玉吵架冷战",
@@ -4147,12 +4195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80996,
+      "num": 80996,
+      "word": "刚起床的素颜张柏芝",
+      "onboard_time": 1773661885,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80803,
       "num": 80803,
       "word": "经销商称市场已找不到千元内手机",
       "onboard_time": 1773660443,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 80751,
+      "num": 91154,
+      "word": "恋与深空 偷跑",
+      "onboard_time": 1773661885,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 80716,
@@ -4323,6 +4387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76207,
+      "num": 85685,
+      "word": "幼儿园孩子该不该活在楚门的世界里",
+      "onboard_time": 1773658943,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 76111,
       "num": 76111,
       "word": "林诗栋世排掉至第5",
@@ -4419,6 +4491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73516,
+      "num": 80974,
+      "word": "邱党欢迎樊振东加盟",
+      "onboard_time": 1773660562,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73332,
       "num": 73332,
       "word": "白敬亭用睡不着哄不好逃不掉高度总结",
@@ -4464,6 +4544,14 @@
       "word": "F1取消赛事损失或高达2亿美元",
       "onboard_time": 1773560962,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72041,
+      "num": 80712,
+      "word": "球队经理回应樊振东离开萨尔布吕肯",
+      "onboard_time": 1773661103,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -4521,6 +4609,14 @@
       "onboard_time": 1773591381,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67263,
+      "num": 120113,
+      "word": "何小鹏直播第二代VLA推送",
+      "onboard_time": 1773659122,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 67118,
@@ -4715,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53306,
+      "num": 97786,
+      "word": "黄天鹅多平台遭退单",
+      "onboard_time": 1773661820,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51519,
       "num": 211234,
       "word": "周云杰的真诚是先把标准卡严",
@@ -4777,14 +4881,6 @@
       "onboard_time": 1773530778,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 48710,
-      "num": 107979,
-      "word": "何小鹏直播第二代VLA推送",
-      "onboard_time": 1773659122,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 48669,
@@ -4883,6 +4979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43157,
+      "num": 99582,
+      "word": "黄亦玫你又去找庄国栋了吗",
+      "onboard_time": 1773661641,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43093,
       "num": 96202,
       "word": "女篮世界杯资格赛",
@@ -4977,6 +5081,14 @@
       "onboard_time": 1773541822,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39150,
+      "num": 98409,
+      "word": "谁给李煜东戴的大直径美瞳",
+      "onboard_time": 1773662063,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 39052,
@@ -5307,6 +5419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18359,
+      "num": 232864,
+      "word": "保护消费者权益不能靠每年315算总账",
+      "onboard_time": 1773661701,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 18088,
       "num": 83248,
       "word": "钢铁侠送美队丁字裤",
@@ -5337,6 +5457,14 @@
       "onboard_time": 1773601395,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16741,
+      "num": 158425,
+      "word": "跟着周云杰打卡无人家务黑科技",
+      "onboard_time": 1773661944,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16705,
@@ -5401,6 +5529,14 @@
       "onboard_time": 1773651684,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13805,
+      "num": 233356,
+      "word": "刘文祥致歉信已不可见",
+      "onboard_time": 1773661820,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13561,
