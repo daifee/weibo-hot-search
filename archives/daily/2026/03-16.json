@@ -1,6 +1,6 @@
 {
   "startTime": 1773592897493,
-  "endTime": 1773652019052,
+  "endTime": 1773654010887,
   "band_list": [
     {
       "raw_hot": 9686798,
@@ -33,6 +33,14 @@
       "onboard_time": 1773625342,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1283621,
+      "num": 261497,
+      "word": "爱吃薯片的人天塌了",
+      "onboard_time": 1773652225,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 1168181,
@@ -203,6 +211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 492575,
+      "num": 1078812,
+      "word": "刘文祥致歉",
+      "onboard_time": 1773649705,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484719,
       "num": 230533,
       "word": "湘雅",
@@ -227,12 +243,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 452040,
-      "num": 1072326,
-      "word": "刘文祥致歉",
-      "onboard_time": 1773649705,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 452783,
+      "num": 261121,
+      "word": "F1海外账号发合影把吴艳妮裁掉",
+      "onboard_time": 1773652104,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 451739,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 358611,
-      "num": 130922,
+      "num": 175000,
       "word": "林永健儿子与苏翊鸣合照",
       "onboard_time": 1773648687,
       "rank": 26,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 332507,
-      "num": 187017,
+      "num": 259217,
       "word": "脱刘文祥",
       "onboard_time": 1773648627,
       "rank": 12,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 286494,
-      "num": 181653,
+      "num": 227792,
       "word": "中方回应特朗普呼吁多国派军舰护航",
       "onboard_time": 1773649645,
       "rank": 14,
@@ -571,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244977,
+      "num": 173875,
+      "word": "张檬想给孩子喂母乳到2岁",
+      "onboard_time": 1773652524,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231614,
       "num": 231614,
       "word": "终于有人把带孩子的累说清楚了",
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 183869,
-      "num": 154860,
+      "num": 167934,
       "word": "性格内向的人看起来更显小",
       "onboard_time": 1773646945,
       "rank": 30,
@@ -689,6 +713,14 @@
       "onboard_time": 1773587605,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171357,
+      "num": 171357,
+      "word": "宋雨琦 内娱星二代孩子王",
+      "onboard_time": 1773650906,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 167521,
@@ -740,7 +772,7 @@
     },
     {
       "raw_hot": 157091,
-      "num": 157091,
+      "num": 181189,
       "word": "司宫令正式官宣",
       "onboard_time": 1773648087,
       "rank": 24,
@@ -779,20 +811,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 153124,
-      "num": 128677,
-      "word": "宋雨琦 内娱星二代孩子王",
-      "onboard_time": 1773650906,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153110,
       "num": 153110,
       "word": "ILLIT新专logo被质疑抄袭BLACKPINK",
       "onboard_time": 1773645382,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151841,
+      "num": 196542,
+      "word": "78岁老人离世天空群鹤盘旋半小时",
+      "onboard_time": 1773651385,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149694,
@@ -817,6 +849,14 @@
       "onboard_time": 1773639382,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 141001,
+      "num": 141001,
+      "word": "胡兵要去papi节目了",
+      "onboard_time": 1773652225,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 136982,
@@ -939,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126089,
-      "num": 196542,
-      "word": "78岁老人离世天空群鹤盘旋半小时",
-      "onboard_time": 1773651385,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125581,
       "num": 160516,
       "word": "清明不调休不补班",
@@ -969,6 +1001,14 @@
       "onboard_time": 1773632661,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 121012,
+      "num": 259820,
+      "word": "嫩牛五方桌",
+      "onboard_time": 1773646945,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 119703,
@@ -1043,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108616,
-      "num": 108616,
-      "word": "嫩牛五方桌",
-      "onboard_time": 1773646945,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 107323,
       "num": 107323,
       "word": "婴儿消毒乳膏检出致大头娃娃激素",
@@ -1076,7 +1108,7 @@
     },
     {
       "raw_hot": 107097,
-      "num": 107097,
+      "num": 179822,
       "word": "奥斯卡最佳男主穿新中式领奖",
       "onboard_time": 1773647368,
       "rank": 37,
@@ -1291,6 +1323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92568,
+      "num": 92568,
+      "word": "宋祖儿司宫令造型",
+      "onboard_time": 1773652225,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91758,
       "num": 91758,
       "word": "伊能静拥有女儿是太美好的事情",
@@ -1401,6 +1441,14 @@
       "onboard_time": 1773645322,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86851,
+      "num": 143149,
+      "word": "外国人赶飞机迟到工作人员一路带跑",
+      "onboard_time": 1773651864,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 86363,
@@ -1531,6 +1579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80032,
+      "num": 178586,
+      "word": "多家手机品牌表态",
+      "onboard_time": 1773653663,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 79954,
       "num": 79954,
       "word": "外泌体",
@@ -1577,6 +1633,14 @@
       "onboard_time": 1773623122,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 76510,
+      "num": 167750,
+      "word": "以为是火腿肠其实是炸药",
+      "onboard_time": 1773653244,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 76363,
@@ -1635,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73630,
+      "num": 82519,
+      "word": "猫咪主人 小丑竟是自己",
+      "onboard_time": 1773653364,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73332,
       "num": 73332,
       "word": "白敬亭用睡不着哄不好逃不掉高度总结",
@@ -1648,6 +1720,14 @@
       "word": "谢征什么叫我们没在一起过",
       "onboard_time": 1773585626,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 70389,
+      "num": 70389,
+      "word": "张凌赫田曦薇脱敏",
+      "onboard_time": 1773653903,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1667,12 +1747,36 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 65211,
+      "num": 164882,
+      "word": "外交部回应中朝恢复客运航班",
+      "onboard_time": 1773651266,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 64807,
+      "num": 69566,
+      "word": "当你压着胳膊睡觉时",
+      "onboard_time": 1773653962,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64223,
       "num": 64223,
       "word": "李宇春吴青峰都哭了",
       "onboard_time": 1773585926,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63717,
+      "num": 66638,
+      "word": "王炸姐丈夫否认妻子因连夜工作离世",
+      "onboard_time": 1773653903,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63507,
@@ -1844,7 +1948,7 @@
     },
     {
       "raw_hot": 42568,
-      "num": 596730,
+      "num": 617128,
       "word": "2026年以旧换新数据亮眼",
       "onboard_time": 1773650845,
       "rank": 2,
@@ -1873,14 +1977,6 @@
       "onboard_time": 1773631280,
       "rank": 41,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 34837,
-      "num": 164882,
-      "word": "外交部回应中朝恢复客运航班",
-      "onboard_time": 1773651266,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34755,
@@ -2025,6 +2121,14 @@
       "onboard_time": 1773639083,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18088,
+      "num": 83248,
+      "word": "钢铁侠送美队丁字裤",
+      "onboard_time": 1773653543,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 17017,
