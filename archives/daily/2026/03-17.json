@@ -1,6 +1,6 @@
 {
   "startTime": 1773681061140,
-  "endTime": 1773698558311,
+  "endTime": 1773700966196,
   "band_list": [
     {
       "raw_hot": 1082922,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 207615,
-      "num": 207615,
+      "num": 460734,
       "word": "租客装修后退房房东让恢复成毛坯",
       "onboard_time": 1773676821,
       "rank": 3,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 43228,
-      "num": 46442,
+      "num": 337320,
       "word": "中方反对美方单边的301调查",
       "onboard_time": 1773678978,
       "rank": 29,
@@ -427,11 +427,51 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 26176,
+      "num": 26176,
+      "word": "中美就一些议题取得初步共识",
+      "onboard_time": 1773668962,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 26129,
+      "num": 22015,
+      "word": "伊朗成功执行第55轮打击",
+      "onboard_time": 1773667825,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 24326,
+      "num": 24326,
+      "word": "KPL老乡杯",
+      "onboard_time": 1773666983,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 22241,
+      "num": 21799,
+      "word": "中国援助伊朗人道主义物资完成交接",
+      "onboard_time": 1773663264,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21743,
-      "num": 21743,
+      "num": 22105,
       "word": "周五晚高疯",
       "onboard_time": 1773687133,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21597,
+      "num": 21597,
+      "word": "宇宙闪烁请注意",
+      "onboard_time": 1773686175,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -443,47 +483,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19756,
-      "num": 19756,
-      "word": "中国援助伊朗人道主义物资完成交接",
-      "onboard_time": 1773663264,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 16682,
-      "num": 16682,
-      "word": "伊朗成功执行第55轮打击",
-      "onboard_time": 1773667825,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 16076,
-      "num": 16076,
-      "word": "中美就一些议题取得初步共识",
-      "onboard_time": 1773668962,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 15788,
-      "num": 15788,
-      "word": "KPL老乡杯",
-      "onboard_time": 1773666983,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 15766,
-      "num": 15766,
-      "word": "宇宙闪烁请注意",
-      "onboard_time": 1773686175,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15658,
+      "raw_hot": 19485,
       "num": 320314,
       "word": "奋进十五五你会看到这样的中国",
       "onboard_time": 1773670644,
@@ -491,20 +491,52 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14149,
-      "num": 15281,
+      "raw_hot": 18871,
+      "num": 19730,
+      "word": "丁禹兮司宫令权谋人设",
+      "onboard_time": 1773694694,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18230,
+      "num": 19727,
+      "word": "侯明昊官宣南京站",
+      "onboard_time": 1773700636,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18132,
+      "num": 19727,
+      "word": "贺峻霖 今天我盯片",
+      "onboard_time": 1773700756,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15265,
+      "num": 19718,
       "word": "英雄联盟全球先锋赛",
       "onboard_time": 1773674243,
       "rank": 46,
       "category": "电竞"
     },
     {
-      "raw_hot": 14058,
-      "num": 15746,
-      "word": "丁禹兮司宫令权谋人设",
-      "onboard_time": 1773694694,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 15228,
+      "num": 19717,
+      "word": "极氪8X预售37.68万起",
+      "onboard_time": 1773669802,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 14740,
+      "num": 19715,
+      "word": "德甲乒乓球联赛",
+      "onboard_time": 1773656602,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
