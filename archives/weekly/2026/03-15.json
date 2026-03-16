@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773673750437,
+  "endTime": 1773675587985,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540999,
+      "num": 1086559,
+      "word": "美宜佳被曝光后半小时无一人进店",
+      "onboard_time": 1773670942,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 532574,
       "num": 146317,
       "word": "郝熠然直播",
@@ -571,11 +579,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 519296,
-      "num": 1083087,
-      "word": "美宜佳被曝光后半小时无一人进店",
-      "onboard_time": 1773670942,
-      "rank": 0,
+      "raw_hot": 519575,
+      "num": 814875,
+      "word": "胖东来169元1克拉方糖戒指再上架",
+      "onboard_time": 1773672146,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -665,14 +673,6 @@
       "onboard_time": 1773644001,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 465101,
-      "num": 810019,
-      "word": "胖东来169元1克拉方糖戒指再上架",
-      "onboard_time": 1773672146,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 464574,
@@ -1331,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298447,
+      "num": 298447,
+      "word": "BLG对战BFX",
+      "onboard_time": 1773673163,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 298391,
       "num": 227701,
       "word": "泰国遇害中国女子丈夫发声",
@@ -1723,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220614,
+      "num": 220614,
+      "word": "截瘫女子植入脑机1年后能刷手机了",
+      "onboard_time": 1773673704,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220455,
       "num": 220455,
       "word": "把家租给短剧剧组吧",
@@ -1915,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199712,
+      "num": 151826,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1773673763,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198866,
       "num": 198866,
       "word": "谭松韵别试探了有市场",
@@ -2067,6 +2091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 186349,
+      "num": 186349,
+      "word": "无畏 福建队",
+      "onboard_time": 1773673643,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185861,
       "num": 138579,
       "word": "蓝盈莹一出手就是浪姐水准",
@@ -2185,6 +2217,14 @@
       "onboard_time": 1773499043,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174564,
+      "num": 374471,
+      "word": "入职未满1年怀孕请假被拒获赔10万",
+      "onboard_time": 1773672146,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173669,
@@ -2387,14 +2427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157026,
-      "num": 374471,
-      "word": "入职未满1年怀孕请假被拒获赔10万",
-      "onboard_time": 1773672146,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155144,
       "num": 77645,
       "word": "带货救女妈妈终究没留住女儿",
@@ -2505,6 +2537,22 @@
       "onboard_time": 1773540080,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146841,
+      "num": 146841,
+      "word": "KPL福建靠谱男人",
+      "onboard_time": 1773673525,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 145383,
+      "num": 145383,
+      "word": "Diable五杀",
+      "onboard_time": 1773674843,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 144754,
@@ -2771,6 +2819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131108,
+      "num": 131108,
+      "word": "BLG中上",
+      "onboard_time": 1773675323,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131102,
       "num": 131102,
       "word": "丈夫拍下妻子走进催产室的身影",
@@ -2939,20 +2995,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122211,
-      "num": 122211,
-      "word": "KPL福建靠谱男人",
-      "onboard_time": 1773673525,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121503,
       "num": 121503,
       "word": "伊朗亮出2000公里射程战略杀器",
       "onboard_time": 1773632661,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 121051,
+      "num": 121051,
+      "word": "T1怎么输的",
+      "onboard_time": 1773671243,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 121012,
@@ -3523,6 +3579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101604,
+      "num": 101604,
+      "word": "赵丽颖 电影",
+      "onboard_time": 1773675202,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101533,
       "num": 101533,
       "word": "2岁娃被忘车内反锁1小时",
@@ -3627,6 +3691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98879,
+      "num": 98879,
+      "word": "张凌赫壁纸",
+      "onboard_time": 1773672927,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 98354,
       "num": 98354,
       "word": "少吃水果就少生病吗",
@@ -3649,14 +3721,6 @@
       "onboard_time": 1773571700,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97243,
-      "num": 97243,
-      "word": "T1怎么输的",
-      "onboard_time": 1773671243,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 97223,
@@ -3811,14 +3875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94432,
-      "num": 94432,
-      "word": "BLG对战BFX",
-      "onboard_time": 1773673163,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 94411,
       "num": 94411,
       "word": "泰遇害女子朋友曾与疑似嫌疑人通话",
@@ -3873,14 +3929,6 @@
       "onboard_time": 1773667765,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93752,
-      "num": 93752,
-      "word": "张凌赫壁纸",
-      "onboard_time": 1773672927,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 93634,
@@ -4715,6 +4763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 77351,
+      "num": 77351,
+      "word": "丁禹兮空降",
+      "onboard_time": 1773674424,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 77288,
       "num": 77288,
       "word": "电影镖人",
@@ -4737,6 +4793,14 @@
       "onboard_time": 1773496883,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76707,
+      "num": 78315,
+      "word": "马斯克5万美金小屋简陋似仓库",
+      "onboard_time": 1773672504,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 76423,
@@ -4777,6 +4841,14 @@
       "onboard_time": 1773628403,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75878,
+      "num": 75878,
+      "word": "女子花244元加油中10万大奖",
+      "onboard_time": 1773674062,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75306,
@@ -4955,20 +5027,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71612,
+      "num": 71612,
+      "word": "消耗战之下伊朗亮出反击新手段",
+      "onboard_time": 1773673404,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71303,
       "num": 105734,
       "word": "伊朗称袭击美军中东三大军事基地",
       "onboard_time": 1773487221,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 71256,
-      "num": 71256,
-      "word": "无畏 福建队",
-      "onboard_time": 1773673643,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 71196,
@@ -5011,20 +5083,12 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 69445,
-      "num": 78315,
-      "word": "马斯克5万美金小屋简陋似仓库",
-      "onboard_time": 1773672504,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 69293,
-      "num": 69293,
-      "word": "消耗战之下伊朗亮出反击新手段",
-      "onboard_time": 1773673404,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 68081,
+      "num": 70002,
+      "word": "她的盛焰谁看谁窒息",
+      "onboard_time": 1773671363,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 68056,
@@ -5033,6 +5097,14 @@
       "onboard_time": 1773591381,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 67313,
+      "num": 137093,
+      "word": "深圳人100岁每月可领千元",
+      "onboard_time": 1773673225,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67118,
@@ -5107,6 +5179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61737,
+      "num": 76835,
+      "word": "27岁女子隆鼻后鼻部大面积坏死",
+      "onboard_time": 1773674843,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61466,
       "num": 105912,
       "word": "黄天鹅多平台遭退单",
@@ -5169,14 +5249,6 @@
       "onboard_time": 1773488903,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55737,
-      "num": 89169,
-      "word": "截瘫女子植入脑机1年后能刷手机了",
-      "onboard_time": 1773673704,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55488,
@@ -5417,14 +5489,6 @@
       "onboard_time": 1773506959,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43060,
-      "num": 137093,
-      "word": "深圳人100岁每月可领千元",
-      "onboard_time": 1773673225,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42812,

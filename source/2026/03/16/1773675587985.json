@@ -1,0 +1,410 @@
+{
+  "runTime": 1773675587985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 540999,
+        "num": 1086559,
+        "word": "美宜佳被曝光后半小时无一人进店",
+        "onboard_time": 1773670942,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519575,
+        "num": 814875,
+        "word": "胖东来169元1克拉方糖戒指再上架",
+        "onboard_time": 1773672146,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25072,
+        "num": 612234,
+        "word": "奋进十五五你会看到这样的中国",
+        "onboard_time": 1773670644,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384740,
+        "num": 384740,
+        "word": "永辉公开喊话山姆",
+        "onboard_time": 1773670883,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298447,
+        "num": 298447,
+        "word": "BLG对战BFX",
+        "onboard_time": 1773673163,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 507406,
+        "num": 287398,
+        "word": "爱吃薯片的人天塌了",
+        "onboard_time": 1773652225,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220614,
+        "num": 220614,
+        "word": "截瘫女子植入脑机1年后能刷手机了",
+        "onboard_time": 1773673704,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186349,
+        "num": 186349,
+        "word": "无畏 福建队",
+        "onboard_time": 1773673643,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174564,
+        "num": 174564,
+        "word": "入职未满1年怀孕请假被拒获赔10万",
+        "onboard_time": 1773672146,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157826,
+        "num": 157826,
+        "word": "深圳公积金新规4月施行",
+        "onboard_time": 1773669084,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326011,
+        "num": 155899,
+        "word": "89岁老人过马路半路变红灯被撞身亡",
+        "onboard_time": 1773670464,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298241,
+        "num": 154495,
+        "word": "因为瞿颖盒马的菠菜都标上英文了",
+        "onboard_time": 1773666804,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199712,
+        "num": 151826,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1773673763,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193773,
+        "num": 149419,
+        "word": "逐玉",
+        "onboard_time": 1773656302,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146841,
+        "num": 146841,
+        "word": "KPL福建靠谱男人",
+        "onboard_time": 1773673525,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159547,
+        "num": 146684,
+        "word": "张凌赫 导演你管管她",
+        "onboard_time": 1773664044,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174334,
+        "num": 146187,
+        "word": "Ella评论瞿颖",
+        "onboard_time": 1773671604,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145383,
+        "num": 145383,
+        "word": "Diable五杀",
+        "onboard_time": 1773674843,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138236,
+        "num": 138236,
+        "word": "极氪8X",
+        "onboard_time": 1773669441,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 135277,
+        "num": 135277,
+        "word": "孔雪儿伟大的爱豆时期",
+        "onboard_time": 1773660143,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131108,
+        "num": 131108,
+        "word": "BLG中上",
+        "onboard_time": 1773675323,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130303,
+        "num": 130303,
+        "word": "315塌房全总结",
+        "onboard_time": 1773658763,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123092,
+        "num": 123092,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1773636623,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75844,
+        "num": 121294,
+        "word": "极氪8X预售38分钟破万",
+        "onboard_time": 1773671724,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121051,
+        "num": 121051,
+        "word": "T1怎么输的",
+        "onboard_time": 1773671243,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117325,
+        "num": 117325,
+        "word": "42岁女子从不抽烟确诊肺癌晚期",
+        "onboard_time": 1773666562,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113192,
+        "num": 113192,
+        "word": "孙燕姿胖了",
+        "onboard_time": 1773658703,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112200,
+        "num": 112200,
+        "word": "伊朗成功执行第55轮打击",
+        "onboard_time": 1773667825,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108578,
+        "num": 108578,
+        "word": "鹿哈毛肚事件获商家退款消费者发声",
+        "onboard_time": 1773671124,
+        "rank": 28,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 101604,
+        "num": 101604,
+        "word": "赵丽颖 电影",
+        "onboard_time": 1773675202,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98879,
+        "num": 98879,
+        "word": "张凌赫壁纸",
+        "onboard_time": 1773672927,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98606,
+        "num": 98606,
+        "word": "发现虾腿有肉以后",
+        "onboard_time": 1773656662,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96248,
+        "num": 96248,
+        "word": "18岁女孩腹中肿块里还有24颗牙齿",
+        "onboard_time": 1773664463,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86140,
+        "num": 86140,
+        "word": "女子借5万还不上履约做对方女友",
+        "onboard_time": 1773658523,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83168,
+        "num": 83168,
+        "word": "樊振东回应转会",
+        "onboard_time": 1773658103,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83053,
+        "num": 83053,
+        "word": "事业单位招人岗位在海拔3614米山顶",
+        "onboard_time": 1773658823,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81449,
+        "num": 81449,
+        "word": "手机电脑迎来涨价潮",
+        "onboard_time": 1773660863,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 79342,
+        "num": 79342,
+        "word": "伊朗称逮捕500名间谍",
+        "onboard_time": 1773664223,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77351,
+        "num": 77351,
+        "word": "丁禹兮空降",
+        "onboard_time": 1773674424,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61737,
+        "num": 76835,
+        "word": "27岁女子隆鼻后鼻部大面积坏死",
+        "onboard_time": 1773674843,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76707,
+        "num": 76707,
+        "word": "马斯克5万美金小屋简陋似仓库",
+        "onboard_time": 1773672504,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75878,
+        "num": 75878,
+        "word": "女子花244元加油中10万大奖",
+        "onboard_time": 1773674062,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71612,
+        "num": 71612,
+        "word": "消耗战之下伊朗亮出反击新手段",
+        "onboard_time": 1773673404,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70869,
+        "num": 70869,
+        "word": "杨紫在秀场交到了新朋友",
+        "onboard_time": 1773671964,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70122,
+        "num": 70122,
+        "word": "188套餐拍写真结果花了3万",
+        "onboard_time": 1773669802,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 70119,
+        "num": 70119,
+        "word": "钎城官宣老乡杯",
+        "onboard_time": 1773671124,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68081,
+        "num": 70002,
+        "word": "她的盛焰谁看谁窒息",
+        "onboard_time": 1773671363,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69962,
+        "num": 69962,
+        "word": "宋威龙私底下烟酒都不来",
+        "onboard_time": 1773661944,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67313,
+        "num": 69954,
+        "word": "深圳人100岁每月可领千元",
+        "onboard_time": 1773673225,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63766,
+        "num": 69943,
+        "word": "刚起床的素颜张柏芝",
+        "onboard_time": 1773661885,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一口水井一种信念#"
+    }
+  }
+}
