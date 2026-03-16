@@ -1,0 +1,410 @@
+{
+  "runTime": 1773647742512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 523942,
+        "num": 1083830,
+        "word": "埃文凯尔官宣定居中国",
+        "onboard_time": 1773640342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323551,
+        "num": 795343,
+        "word": "315曝光名单",
+        "onboard_time": 1773581607,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 17773,
+        "num": 643485,
+        "word": "致敬每一份不屈的热爱",
+        "onboard_time": 1773629181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 236815,
+        "num": 236815,
+        "word": "卧底老K收入暴涨315总导演1天1电话",
+        "onboard_time": 1773638963,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203898,
+        "num": 235677,
+        "word": "芒果一口气宣了20场音乐节",
+        "onboard_time": 1773641001,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 408572,
+        "num": 234327,
+        "word": "布洛芬很着急为您服务",
+        "onboard_time": 1773644001,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199502,
+        "num": 232684,
+        "word": "伊朗称440公斤60%丰度浓缩铀被埋",
+        "onboard_time": 1773636024,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172375,
+        "num": 231654,
+        "word": "山姆等多品牌回应双氧水漂白鸡爪",
+        "onboard_time": 1773639681,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153524,
+        "num": 230617,
+        "word": "360元雅诗兰黛口红只有外壳没膏体",
+        "onboard_time": 1773645141,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 142412,
+        "num": 227943,
+        "word": "鸿蒙智行 小米",
+        "onboard_time": 1773647308,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 9686798,
+        "num": 9686798,
+        "word": "姚晨曹郁官宣离婚",
+        "onboard_time": 1773647187,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545037,
+        "num": 225633,
+        "word": "经纪人回应瞿颖翻红",
+        "onboard_time": 1773641481,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467463,
+        "num": 224680,
+        "word": "湘雅医院失联学生确认坠江身亡",
+        "onboard_time": 1773625342,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358653,
+        "num": 222457,
+        "word": "邓凯妈妈 有那么帅吗",
+        "onboard_time": 1773642982,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251372,
+        "num": 220472,
+        "word": "逐玉 编剧浪费演员颜值",
+        "onboard_time": 1773646526,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237256,
+        "num": 220213,
+        "word": "深圳卫健委又发力了",
+        "onboard_time": 1773646282,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218934,
+        "num": 218934,
+        "word": "都美竹被判向朱姐道歉",
+        "onboard_time": 1773641782,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128151,
+        "num": 217978,
+        "word": "vivo宣布涨价",
+        "onboard_time": 1773637103,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217530,
+        "num": 217530,
+        "word": "小狗舔人被说主人情绪失控",
+        "onboard_time": 1773638783,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192001,
+        "num": 192001,
+        "word": "金价",
+        "onboard_time": 1773628161,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 991213,
+        "num": 187717,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1773636623,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 828651,
+        "num": 183978,
+        "word": "李诞说现在失业的人可能是一件好事",
+        "onboard_time": 1773641542,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144680,
+        "num": 180847,
+        "word": "卧底卧成二把手的记者315又立功",
+        "onboard_time": 1773633682,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 754823,
+        "num": 177868,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1773621382,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573422,
+        "num": 170107,
+        "word": "章子怡的买股运",
+        "onboard_time": 1773641602,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169824,
+        "num": 169824,
+        "word": "脑梗最快急救方法",
+        "onboard_time": 1773631401,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 462924,
+        "num": 167217,
+        "word": "刘宇宁回应黄子韬道歉",
+        "onboard_time": 1773635903,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343539,
+        "num": 166149,
+        "word": "瞿颖 翻红",
+        "onboard_time": 1773632903,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125581,
+        "num": 160516,
+        "word": "清明不调休不补班",
+        "onboard_time": 1773641723,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50388,
+        "num": 157149,
+        "word": "机皇EA211黄金增程步入增程3.0",
+        "onboard_time": 1773647609,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 183869,
+        "num": 154860,
+        "word": "性格内向的人看起来更显小",
+        "onboard_time": 1773646945,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153110,
+        "num": 153110,
+        "word": "ILLIT新专logo被质疑抄袭BLACKPINK",
+        "onboard_time": 1773645382,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143006,
+        "num": 143006,
+        "word": "宋智雅因三星Galaxy言论被骂",
+        "onboard_time": 1773632542,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119756,
+        "num": 133069,
+        "word": "终于有人把带孩子的累说清楚了",
+        "onboard_time": 1773632363,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128159,
+        "num": 128159,
+        "word": "肖战黑粉手写道歉信",
+        "onboard_time": 1773645682,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128140,
+        "num": 128140,
+        "word": "建议papi酱多请上个世纪的艺人",
+        "onboard_time": 1773644780,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113558,
+        "num": 113558,
+        "word": "霍尔木兹海峡首次没有船只通航",
+        "onboard_time": 1773639382,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107097,
+        "num": 107097,
+        "word": "奥斯卡最佳男主穿新中式领奖",
+        "onboard_time": 1773647368,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102409,
+        "num": 102409,
+        "word": "何炅杨蓉是十指紧扣的关系",
+        "onboard_time": 1773647427,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89657,
+        "num": 89657,
+        "word": "胖东来鸡蛋",
+        "onboard_time": 1773642682,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107060,
+        "num": 89638,
+        "word": "肖战一个emoji代表一个角色",
+        "onboard_time": 1773644241,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90234,
+        "num": 89596,
+        "word": "什么和离书分明是录取通知书",
+        "onboard_time": 1773642082,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89158,
+        "num": 89158,
+        "word": "婴儿消毒乳膏检出致大头娃娃激素",
+        "onboard_time": 1773643522,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 90136,
+        "num": 88405,
+        "word": "吴昕说大侦探是成年人社交的范本",
+        "onboard_time": 1773645922,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86946,
+        "num": 86946,
+        "word": "王海测评回应胖东来",
+        "onboard_time": 1773647667,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85251,
+        "num": 85251,
+        "word": "漂白鸡爪企业致歉",
+        "onboard_time": 1773625641,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 84408,
+        "num": 84408,
+        "word": "小猫也是会洗头的",
+        "onboard_time": 1773646467,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84069,
+        "num": 84069,
+        "word": "郭碧婷把向太给的钱都存给孩子了",
+        "onboard_time": 1773646826,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83133,
+        "num": 83133,
+        "word": "这群大雁是不是刚下高速",
+        "onboard_time": 1773646041,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 82473,
+        "num": 82473,
+        "word": "国乒全队在成都开启40余天的封闭集训",
+        "onboard_time": 1773647548,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}
