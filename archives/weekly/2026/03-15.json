@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773618814125,
+  "endTime": 1773629845264,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -51,6 +51,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 2082344,
+      "num": 133948,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1773621382,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1989878,
       "num": 291735,
       "word": "成毅 年龄",
@@ -65,6 +73,14 @@
       "onboard_time": 1773581668,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1705765,
+      "num": 1705765,
+      "word": "湘雅医院失联学生确认坠江身亡",
+      "onboard_time": 1773625342,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1538614,
@@ -187,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 779056,
+      "num": 779056,
+      "word": "漂白鸡爪企业致歉",
+      "onboard_time": 1773625641,
+      "rank": 3,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 725794,
       "num": 141249,
       "word": "鹅鸭杀崩了",
@@ -217,6 +241,14 @@
       "onboard_time": 1773547938,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 674004,
+      "num": 133920,
+      "word": "2026奥斯卡获奖名单",
+      "onboard_time": 1773617961,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 649064,
@@ -331,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 584532,
+      "num": 584532,
+      "word": "卖给孩子的可爱卡片竟有上吊暗示",
+      "onboard_time": 1773626242,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 581506,
       "num": 834773,
       "word": "刘文祥店员说20元1斤能是纯牛肉吗",
@@ -371,11 +411,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528194,
+      "num": 132916,
+      "word": "田曦薇任豪 我欲乘风",
+      "onboard_time": 1773623542,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 527343,
       "num": 206519,
       "word": "1岁半宝宝睡醒后哭喊妈妈6小时",
       "onboard_time": 1773617418,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523595,
+      "num": 89559,
+      "word": "与辉同行回应带货漂白鸡爪",
+      "onboard_time": 1773625342,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -393,6 +449,14 @@
       "onboard_time": 1773531258,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 484719,
+      "num": 163991,
+      "word": "湘雅",
+      "onboard_time": 1773625043,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 470892,
@@ -425,6 +489,14 @@
       "onboard_time": 1773547461,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451739,
+      "num": 314738,
+      "word": "奥斯卡",
+      "onboard_time": 1773617299,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 451691,
@@ -547,12 +619,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 375463,
+      "num": 375463,
+      "word": "部分茶叶咖啡中检出伟哥成分",
+      "onboard_time": 1773626601,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373020,
       "num": 373020,
       "word": "老师标配的小蜜蜂该用还是该禁",
       "onboard_time": 1773576022,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368939,
+      "num": 162620,
+      "word": "金价",
+      "onboard_time": 1773628161,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 357226,
@@ -609,6 +697,14 @@
       "onboard_time": 1773574162,
       "rank": 35,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 331720,
+      "num": 331720,
+      "word": "内塔尼亚胡发视频自证在世",
+      "onboard_time": 1773620482,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 329756,
@@ -683,14 +779,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 314738,
-      "num": 314738,
-      "word": "奥斯卡",
-      "onboard_time": 1773617299,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 312535,
       "num": 312535,
       "word": "逐玉 李卿",
@@ -747,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302650,
+      "num": 302650,
+      "word": "胖东来回应若检测无错会起诉博主",
+      "onboard_time": 1773622345,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 301491,
       "num": 301491,
       "word": "宁娘天选女主",
@@ -787,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295218,
+      "num": 160198,
+      "word": "A股",
+      "onboard_time": 1773627621,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 288804,
       "num": 288804,
       "word": "保证前额叶健康太重要了",
@@ -825,6 +929,14 @@
       "onboard_time": 1773539180,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273992,
+      "num": 128284,
+      "word": "十日终焉",
+      "onboard_time": 1773623122,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 271262,
@@ -921,6 +1033,14 @@
       "onboard_time": 1773616519,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249356,
+      "num": 158994,
+      "word": "黄金",
+      "onboard_time": 1773625942,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 245734,
@@ -1275,6 +1395,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 185918,
+      "num": 156791,
+      "word": "泰国抛尸案嫌疑人对话音频曝光",
+      "onboard_time": 1773626002,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 185861,
       "num": 138579,
       "word": "蓝盈莹一出手就是浪姐水准",
@@ -1355,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175765,
+      "num": 175765,
+      "word": "司宫令开机",
+      "onboard_time": 1773627321,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174848,
       "num": 174848,
       "word": "文淇路演亲了粉丝",
@@ -1403,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167280,
+      "num": 155847,
+      "word": "伊朗发布战报",
+      "onboard_time": 1773619702,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166973,
       "num": 166973,
       "word": "何晟铭说于正活在象牙塔",
@@ -1433,6 +1577,14 @@
       "onboard_time": 1773567982,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164102,
+      "num": 164102,
+      "word": "数十万爆雷车企车主售后困境",
+      "onboard_time": 1773624562,
+      "rank": 9,
+      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 163787,
@@ -1539,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154679,
+      "num": 154679,
+      "word": "王小卤鸡爪称绝不添加双氧水",
+      "onboard_time": 1773623722,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153734,
       "num": 134763,
       "word": "王橹杰的语音",
@@ -1635,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136805,
+      "num": 111530,
+      "word": "大冰教家长应对孩子不自律",
+      "onboard_time": 1773628460,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136296,
       "num": 124911,
       "word": "第一次被一个柜子惊艳到",
@@ -1675,12 +1843,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134707,
+      "num": 134707,
+      "word": "奥斯卡红毯",
+      "onboard_time": 1773617240,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134371,
       "num": 131412,
       "word": "谢征什么叫我们没在一起过",
       "onboard_time": 1773585626,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134181,
+      "num": 124735,
+      "word": "王俊凯 演唱会",
+      "onboard_time": 1773618861,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 133864,
+      "num": 133864,
+      "word": "金银大跳水原因",
+      "onboard_time": 1773622823,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 133288,
@@ -1713,6 +1905,14 @@
       "onboard_time": 1773541460,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131102,
+      "num": 131102,
+      "word": "丈夫拍下妻子走进催产室的身影",
+      "onboard_time": 1773625161,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129380,
@@ -1827,14 +2027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123574,
-      "num": 116062,
-      "word": "奥斯卡红毯",
-      "onboard_time": 1773617240,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 123504,
       "num": 123504,
       "word": "中国女篮战胜捷克女篮",
@@ -1872,6 +2064,14 @@
       "word": "刘翔回应身高有没有1米9",
       "onboard_time": 1773564861,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120035,
+      "num": 120035,
+      "word": "樊振东倒车球迷安慰别紧张",
+      "onboard_time": 1773627921,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -1977,6 +2177,14 @@
       "onboard_time": 1773581967,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 113015,
+      "num": 113015,
+      "word": "夫妻结婚54年打呼噜也不分床睡",
+      "onboard_time": 1773627683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113006,
@@ -2155,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104687,
+      "num": 104687,
+      "word": "伊朗称目前发射导弹多为10年前生产",
+      "onboard_time": 1773621923,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 104103,
       "num": 104103,
       "word": "懒人真的很适合去过极简生活",
@@ -2168,6 +2384,14 @@
       "word": "伊朗第51轮军事行动",
       "onboard_time": 1773545119,
       "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 102899,
+      "num": 102899,
+      "word": "特朗普威胁北约",
+      "onboard_time": 1773625403,
+      "rank": 33,
       "category": "国际时政"
     },
     {
@@ -2241,6 +2465,14 @@
       "onboard_time": 1773554841,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99721,
+      "num": 99721,
+      "word": "儿子生前砍的柴放8年妈妈舍不得用",
+      "onboard_time": 1773621742,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99710,
@@ -2395,6 +2627,30 @@
       "category": "教育"
     },
     {
+      "raw_hot": 93931,
+      "num": 93931,
+      "word": "伊朗称美以伤亡约5000人",
+      "onboard_time": 1773628701,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 93634,
+      "num": 93634,
+      "word": "网红锅巴公司已停产停售",
+      "onboard_time": 1773620602,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93483,
+      "num": 93483,
+      "word": "迈克尔B乔丹奥斯卡影帝",
+      "onboard_time": 1773629540,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93464,
       "num": 93464,
       "word": "谢谢AI成功让我笑了出来",
@@ -2491,14 +2747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 91007,
-      "num": 91007,
-      "word": "2026奥斯卡获奖名单",
-      "onboard_time": 1773617961,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 90837,
       "num": 90837,
       "word": "痞幼带保洁阿姨去三亚度假",
@@ -2513,6 +2761,14 @@
       "onboard_time": 1773573501,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89739,
+      "num": 89739,
+      "word": "便秘时一定要试试6种食物",
+      "onboard_time": 1773620241,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 89718,
@@ -2611,6 +2867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85953,
+      "num": 85953,
+      "word": "5岁男孩反复发烧确诊白血病",
+      "onboard_time": 1773626962,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85805,
       "num": 85805,
       "word": "伊朗发起第53波攻势",
@@ -2641,6 +2905,22 @@
       "onboard_time": 1773587844,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 84694,
+      "num": 84694,
+      "word": "樊长玉因身份悬殊不敢回应",
+      "onboard_time": 1773629660,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84461,
+      "num": 84461,
+      "word": "谢征樊长玉吵架冷战",
+      "onboard_time": 1773629121,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 84226,
@@ -2803,12 +3083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77382,
+      "num": 77382,
+      "word": "华为春季发布会定档3月23日",
+      "onboard_time": 1773628403,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 77288,
       "num": 77288,
       "word": "电影镖人",
       "onboard_time": 1773616398,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77120,
+      "num": 100474,
+      "word": "谢霆锋新歌推倒重来",
+      "onboard_time": 1773623122,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 76969,
@@ -2825,6 +3121,22 @@
       "onboard_time": 1773500663,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76111,
+      "num": 76111,
+      "word": "林诗栋世排掉至第5",
+      "onboard_time": 1773628403,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75306,
+      "num": 75306,
+      "word": "公孙鄞撕碎祖训",
+      "onboard_time": 1773629781,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 74817,
@@ -3603,6 +3915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18208,
+      "num": 867895,
+      "word": "致敬每一份不屈的热爱",
+      "onboard_time": 1773629181,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17621,
       "num": 17621,
       "word": "刘宇宁一开口吃了一嘴的纸",
@@ -3711,6 +4031,9 @@
     },
     {
       "word": "#十五五奋进之声#"
+    },
+    {
+      "word": "#足迹里的政绩观#"
     }
   ]
 }
