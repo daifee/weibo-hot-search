@@ -1,0 +1,410 @@
+{
+  "runTime": 1773638696078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 708199,
+        "num": 1113311,
+        "word": "315曝光名单",
+        "onboard_time": 1773581607,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 625409,
+        "num": 831318,
+        "word": "卧底卧成二把手的记者315又立功",
+        "onboard_time": 1773633682,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 20070,
+        "num": 642556,
+        "word": "致敬每一份不屈的热爱",
+        "onboard_time": 1773629181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 419365,
+        "num": 419365,
+        "word": "vivo宣布涨价",
+        "onboard_time": 1773637103,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 381838,
+        "num": 381838,
+        "word": "刘文祥被查紫薯精停更一天",
+        "onboard_time": 1773635783,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1311191,
+        "num": 337922,
+        "word": "湘雅医院失联学生确认坠江身亡",
+        "onboard_time": 1773625342,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449992,
+        "num": 336978,
+        "word": "伊朗称440公斤60%丰度浓缩铀被埋",
+        "onboard_time": 1773636024,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 276587,
+        "num": 276587,
+        "word": "漂白鸡爪企业致歉",
+        "onboard_time": 1773625641,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 270143,
+        "num": 270143,
+        "word": "男子发现自己长期吃315曝光鸡爪",
+        "onboard_time": 1773635903,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149694,
+        "num": 266826,
+        "word": "315曝光后多地连夜通报",
+        "onboard_time": 1773622463,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 937764,
+        "num": 264030,
+        "word": "刘宇宁回应黄子韬道歉",
+        "onboard_time": 1773635903,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591426,
+        "num": 260064,
+        "word": "瞿颖 翻红",
+        "onboard_time": 1773632903,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380303,
+        "num": 252383,
+        "word": "金价",
+        "onboard_time": 1773628161,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139918,
+        "num": 246838,
+        "word": "中南大学和湖南卫健委成立联合调查组",
+        "onboard_time": 1773631162,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391103,
+        "num": 242090,
+        "word": "姚安娜让我看到传说中的浮光锦了",
+        "onboard_time": 1773635003,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369785,
+        "num": 236779,
+        "word": "脑梗最快急救方法",
+        "onboard_time": 1773631401,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 357128,
+        "num": 233776,
+        "word": "宋智雅因三星Galaxy言论被骂",
+        "onboard_time": 1773632542,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231614,
+        "num": 231614,
+        "word": "终于有人把带孩子的累说清楚了",
+        "onboard_time": 1773632363,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160920,
+        "num": 160920,
+        "word": "家有七郎开机",
+        "onboard_time": 1773631641,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145615,
+        "num": 145615,
+        "word": "邓凯又在犯姐夫瘾了",
+        "onboard_time": 1773632062,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139233,
+        "num": 139233,
+        "word": "湘雅",
+        "onboard_time": 1773625043,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1348954,
+        "num": 139208,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1773621382,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754671,
+        "num": 139187,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1773636623,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139120,
+        "num": 139120,
+        "word": "内塔尼亚胡发视频自证在世",
+        "onboard_time": 1773620482,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17017,
+        "num": 137849,
+        "word": "漂白鸡爪涉事公司曾参与制定鸡爪标准",
+        "onboard_time": 1773638483,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 197648,
+        "num": 137631,
+        "word": "2026奥斯卡获奖名单",
+        "onboard_time": 1773617961,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196867,
+        "num": 137618,
+        "word": "奥斯卡",
+        "onboard_time": 1773617299,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136889,
+        "num": 136889,
+        "word": "14岁女儿在校被打智力退至3岁",
+        "onboard_time": 1773635604,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133939,
+        "num": 133939,
+        "word": "卢昱晓被家乡台贴脸开大",
+        "onboard_time": 1773635183,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121857,
+        "num": 121857,
+        "word": "刘宇宁不去鸟巢开演唱会的原因",
+        "onboard_time": 1773631102,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116174,
+        "num": 116174,
+        "word": "原来有天赋的孩子从小就能看出来",
+        "onboard_time": 1773637163,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 115828,
+        "num": 115828,
+        "word": "田曦薇任豪 我欲乘风",
+        "onboard_time": 1773623542,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113725,
+        "num": 113725,
+        "word": "逐玉为何被审判",
+        "onboard_time": 1773637944,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87166,
+        "num": 113451,
+        "word": "清融老乡杯江西队队长",
+        "onboard_time": 1773638303,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113195,
+        "num": 113195,
+        "word": "樊长玉因身份悬殊不敢回应",
+        "onboard_time": 1773629660,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110776,
+        "num": 110776,
+        "word": "大侦探",
+        "onboard_time": 1773637103,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108160,
+        "num": 108160,
+        "word": "大冰教家长应对孩子不自律",
+        "onboard_time": 1773628460,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107268,
+        "num": 107268,
+        "word": "甜茶至尊马蒂9提0中",
+        "onboard_time": 1773634883,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106472,
+        "num": 106472,
+        "word": "多国回应特朗普护航要求",
+        "onboard_time": 1773635483,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106097,
+        "num": 106097,
+        "word": "KPL老乡杯来了",
+        "onboard_time": 1773637284,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99229,
+        "num": 99229,
+        "word": "伊朗亮出2000公里射程战略杀器",
+        "onboard_time": 1773632661,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 57966,
+        "num": 97785,
+        "word": "单车刺客骑30多分钟被收40元",
+        "onboard_time": 1773637284,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 96882,
+        "num": 96882,
+        "word": "卖给孩子的可爱卡片竟有上吊暗示",
+        "onboard_time": 1773626242,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95258,
+        "num": 95258,
+        "word": "没见过逐玉这么伟大的剧宣",
+        "onboard_time": 1773635664,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93191,
+        "num": 93191,
+        "word": "papi开辟vintage艺人采访赛道",
+        "onboard_time": 1773637823,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89293,
+        "num": 93030,
+        "word": "狗 在外面叫我刀哥",
+        "onboard_time": 1773636443,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92887,
+        "num": 92887,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1773618861,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91758,
+        "num": 91758,
+        "word": "伊能静拥有女儿是太美好的事情",
+        "onboard_time": 1773638422,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87706,
+        "num": 87706,
+        "word": "美军林肯号航母驶离伊朗沿海",
+        "onboard_time": 1773635543,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 74043,
+        "num": 86275,
+        "word": "樊振东又是跺脚又是捂脸",
+        "onboard_time": 1773638663,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}

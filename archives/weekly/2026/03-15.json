@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773632681020,
+  "endTime": 1773638696078,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 937764,
+      "num": 264030,
+      "word": "刘宇宁回应黄子韬道歉",
+      "onboard_time": 1773635903,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 857324,
       "num": 857324,
       "word": "315记者为暗访一个月抽血十几次",
@@ -209,6 +217,14 @@
       "onboard_time": 1773625641,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 754671,
+      "num": 139187,
+      "word": "周冬雨 刘昊然",
+      "onboard_time": 1773636623,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 726858,
@@ -291,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 625409,
+      "num": 831318,
+      "word": "卧底卧成二把手的记者315又立功",
+      "onboard_time": 1773633682,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 619836,
       "num": 619836,
       "word": "央视调查某茶饮品牌遭恶意抹黑始末",
@@ -361,6 +385,14 @@
       "onboard_time": 1773577825,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 591426,
+      "num": 260064,
+      "word": "瞿颖 翻红",
+      "onboard_time": 1773632903,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 590883,
@@ -523,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 449992,
+      "num": 336978,
+      "word": "伊朗称440公斤60%丰度浓缩铀被埋",
+      "onboard_time": 1773636024,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 449939,
       "num": 449939,
       "word": "维斯塔潘退赛",
@@ -579,6 +619,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 419365,
+      "num": 419365,
+      "word": "vivo宣布涨价",
+      "onboard_time": 1773637103,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 405439,
       "num": 206257,
       "word": "三里屯真人模特",
@@ -595,6 +643,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 391103,
+      "num": 242090,
+      "word": "姚安娜让我看到传说中的浮光锦了",
+      "onboard_time": 1773635003,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383080,
       "num": 383080,
       "word": "七种千万不能吃的食物",
@@ -609,6 +665,14 @@
       "onboard_time": 1773587724,
       "rank": 12,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 381838,
+      "num": 381838,
+      "word": "刘文祥被查紫薯精停更一天",
+      "onboard_time": 1773635783,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381402,
@@ -665,6 +729,14 @@
       "onboard_time": 1773565221,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357128,
+      "num": 233776,
+      "word": "宋智雅因三星Galaxy言论被骂",
+      "onboard_time": 1773632542,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 356416,
@@ -987,6 +1059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 270143,
+      "num": 270143,
+      "word": "男子发现自己长期吃315曝光鸡爪",
+      "onboard_time": 1773635903,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269834,
       "num": 182121,
       "word": "上海F1最惨小孩哥",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1773495082,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 231614,
+      "num": 231614,
+      "word": "终于有人把带孩子的累说清楚了",
+      "onboard_time": 1773632363,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 229698,
@@ -1811,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149694,
+      "num": 266826,
+      "word": "315曝光后多地连夜通报",
+      "onboard_time": 1773622463,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148694,
       "num": 141440,
       "word": "谢征好有礼貌",
@@ -1891,6 +1987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136889,
+      "num": 136889,
+      "word": "14岁女儿在校被打智力退至3岁",
+      "onboard_time": 1773635604,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136296,
       "num": 124911,
       "word": "第一次被一个柜子惊艳到",
@@ -1952,6 +2056,14 @@
       "word": "谢征什么叫我们没在一起过",
       "onboard_time": 1773585626,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133939,
+      "num": 133939,
+      "word": "卢昱晓被家乡台贴脸开大",
+      "onboard_time": 1773635183,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -2155,14 +2267,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 120948,
-      "num": 120948,
-      "word": "宋智雅因三星Galaxy言论被骂",
-      "onboard_time": 1773632542,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120874,
       "num": 120874,
       "word": "蒯曼4比1王艺迪",
@@ -2259,6 +2363,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 116174,
+      "num": 116174,
+      "word": "原来有天赋的孩子从小就能看出来",
+      "onboard_time": 1773637163,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 116067,
       "num": 116067,
       "word": "年销20万根的冬虫夏草是胶水拼的",
@@ -2297,6 +2409,14 @@
       "onboard_time": 1773631881,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113725,
+      "num": 113725,
+      "word": "逐玉为何被审判",
+      "onboard_time": 1773637944,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 113015,
@@ -2379,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110776,
+      "num": 110776,
+      "word": "大侦探",
+      "onboard_time": 1773637103,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109987,
       "num": 109987,
       "word": "马龙观赛F1",
@@ -2393,14 +2521,6 @@
       "onboard_time": 1773507259,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108689,
-      "num": 108689,
-      "word": "终于有人把带孩子的累说清楚了",
-      "onboard_time": 1773632363,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 108361,
@@ -2435,12 +2555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107268,
+      "num": 107268,
+      "word": "甜茶至尊马蒂9提0中",
+      "onboard_time": 1773634883,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106884,
       "num": 106884,
       "word": "LGD第四周周冠军",
       "onboard_time": 1773585386,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106472,
+      "num": 106472,
+      "word": "多国回应特朗普护航要求",
+      "onboard_time": 1773635483,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106469,
@@ -2457,6 +2593,14 @@
       "onboard_time": 1773556280,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106097,
+      "num": 106097,
+      "word": "KPL老乡杯来了",
+      "onboard_time": 1773637284,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 105907,
@@ -2723,6 +2867,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 95258,
+      "num": 95258,
+      "word": "没见过逐玉这么伟大的剧宣",
+      "onboard_time": 1773635664,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94902,
       "num": 94902,
       "word": "李昀锐F1赛车服造型",
@@ -2803,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93191,
+      "num": 93191,
+      "word": "papi开辟vintage艺人采访赛道",
+      "onboard_time": 1773637823,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92842,
       "num": 383894,
       "word": "315晚会曝光荐股分成骗局",
@@ -2833,6 +2993,14 @@
       "onboard_time": 1773552081,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 91758,
+      "num": 91758,
+      "word": "伊能静拥有女儿是太美好的事情",
+      "onboard_time": 1773638422,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 91741,
@@ -2923,6 +3091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89293,
+      "num": 93030,
+      "word": "狗 在外面叫我刀哥",
+      "onboard_time": 1773636443,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89169,
       "num": 89169,
       "word": "林孝埈晒F1观赛照",
@@ -2955,6 +3131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87706,
+      "num": 87706,
+      "word": "美军林肯号航母驶离伊朗沿海",
+      "onboard_time": 1773635543,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 87566,
       "num": 87566,
       "word": "315晚会总导演剧透来了",
@@ -2977,6 +3161,14 @@
       "onboard_time": 1773497243,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87166,
+      "num": 113451,
+      "word": "清融老乡杯江西队队长",
+      "onboard_time": 1773638303,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 86960,
@@ -3323,6 +3515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74043,
+      "num": 86275,
+      "word": "樊振东又是跺脚又是捂脸",
+      "onboard_time": 1773638663,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73805,
       "num": 362003,
       "word": "漂白鸡爪被查封",
@@ -3489,6 +3689,14 @@
       "onboard_time": 1773498863,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57966,
+      "num": 97785,
+      "word": "单车刺客骑30多分钟被收40元",
+      "onboard_time": 1773637284,
+      "rank": 41,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 57723,
@@ -4113,6 +4321,14 @@
       "onboard_time": 1773515894,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17017,
+      "num": 137849,
+      "word": "漂白鸡爪涉事公司曾参与制定鸡爪标准",
+      "onboard_time": 1773638483,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 16948,
