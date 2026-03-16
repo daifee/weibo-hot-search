@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773700966196,
+  "endTime": 1773701858773,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -40971,6 +40971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25762,
+      "num": 25762,
+      "word": "高寒司宫令改名高鹤元",
+      "onboard_time": 1773700998,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25745,
       "num": 157509,
       "word": "泰国实施石油出口禁令",
@@ -41371,6 +41379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23539,
+      "num": 24149,
+      "word": "侯明昊官宣南京站",
+      "onboard_time": 1773700636,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23509,
       "num": 140117,
       "word": "牛肉丸里的牛肉含量",
@@ -41611,7 +41627,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21597,
+      "raw_hot": 21636,
       "num": 144540,
       "word": "宇宙闪烁请注意",
       "onboard_time": 1772393835,
@@ -41724,7 +41740,7 @@
     },
     {
       "raw_hot": 21088,
-      "num": 21088,
+      "num": 21243,
       "word": "逐玉 我又贪了",
       "onboard_time": 1773683776,
       "rank": 27,
@@ -42043,6 +42059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19048,
+      "num": 21250,
+      "word": "丁禹兮司宫令权谋人设",
+      "onboard_time": 1773694694,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19025,
       "num": 29773,
       "word": "黑夜告白",
@@ -42056,14 +42080,6 @@
       "word": "曾庆杰 留下你最美的样子",
       "onboard_time": 1773226761,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18871,
-      "num": 19730,
-      "word": "丁禹兮司宫令权谋人设",
-      "onboard_time": 1773694694,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -42129,14 +42145,6 @@
       "onboard_time": 1773394280,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 18230,
-      "num": 19727,
-      "word": "侯明昊官宣南京站",
-      "onboard_time": 1773700636,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 18197,
@@ -42257,6 +42265,14 @@
       "onboard_time": 1772524286,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17406,
+      "num": 21248,
+      "word": "德甲乒乓球联赛",
+      "onboard_time": 1773656602,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 17385,
@@ -42641,14 +42657,6 @@
       "onboard_time": 1772479875,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14740,
-      "num": 19715,
-      "word": "德甲乒乓球联赛",
-      "onboard_time": 1773656602,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 14631,

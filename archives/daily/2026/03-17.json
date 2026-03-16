@@ -1,6 +1,6 @@
 {
   "startTime": 1773681061140,
-  "endTime": 1773700966196,
+  "endTime": 1773701858773,
   "band_list": [
     {
       "raw_hot": 1082922,
@@ -436,27 +436,43 @@
     },
     {
       "raw_hot": 26129,
-      "num": 22015,
+      "num": 24021,
       "word": "伊朗成功执行第55轮打击",
       "onboard_time": 1773667825,
       "rank": 40,
       "category": "国际时政"
     },
     {
-      "raw_hot": 24326,
-      "num": 24326,
+      "raw_hot": 25762,
+      "num": 25762,
+      "word": "高寒司宫令改名高鹤元",
+      "onboard_time": 1773700998,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25052,
+      "num": 25052,
       "word": "KPL老乡杯",
       "onboard_time": 1773666983,
       "rank": 38,
       "category": "电竞"
     },
     {
-      "raw_hot": 22241,
-      "num": 21799,
+      "raw_hot": 23650,
+      "num": 23650,
       "word": "中国援助伊朗人道主义物资完成交接",
       "onboard_time": 1773663264,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23539,
+      "num": 24149,
+      "word": "侯明昊官宣南京站",
+      "onboard_time": 1773700636,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 21743,
@@ -467,8 +483,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21597,
-      "num": 21597,
+      "raw_hot": 21636,
+      "num": 21636,
       "word": "宇宙闪烁请注意",
       "onboard_time": 1773686175,
       "rank": 39,
@@ -476,14 +492,14 @@
     },
     {
       "raw_hot": 21088,
-      "num": 21088,
+      "num": 21243,
       "word": "逐玉 我又贪了",
       "onboard_time": 1773683776,
       "rank": 27,
       "category": "剧集"
     },
     {
-      "raw_hot": 19485,
+      "raw_hot": 20515,
       "num": 320314,
       "word": "奋进十五五你会看到这样的中国",
       "onboard_time": 1773670644,
@@ -491,20 +507,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18871,
-      "num": 19730,
+      "raw_hot": 19048,
+      "num": 21250,
       "word": "丁禹兮司宫令权谋人设",
       "onboard_time": 1773694694,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18230,
-      "num": 19727,
-      "word": "侯明昊官宣南京站",
-      "onboard_time": 1773700636,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 18132,
@@ -515,8 +523,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 15265,
-      "num": 19718,
+      "raw_hot": 17406,
+      "num": 21248,
+      "word": "德甲乒乓球联赛",
+      "onboard_time": 1773656602,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16131,
+      "num": 21244,
       "word": "英雄联盟全球先锋赛",
       "onboard_time": 1773674243,
       "rank": 46,
@@ -529,14 +545,6 @@
       "onboard_time": 1773669802,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 14740,
-      "num": 19715,
-      "word": "德甲乒乓球联赛",
-      "onboard_time": 1773656602,
-      "rank": 49,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
