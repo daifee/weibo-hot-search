@@ -1,0 +1,410 @@
+{
+  "runTime": 1773646163400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 593617,
+        "num": 1094978,
+        "word": "埃文凯尔官宣定居中国",
+        "onboard_time": 1773640342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331862,
+        "num": 773138,
+        "word": "315曝光名单",
+        "onboard_time": 1773581607,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 17074,
+        "num": 607028,
+        "word": "致敬每一份不屈的热爱",
+        "onboard_time": 1773629181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264431,
+        "num": 264431,
+        "word": "卧底老K收入暴涨315总导演1天1电话",
+        "onboard_time": 1773638963,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204084,
+        "num": 204084,
+        "word": "芒果一口气宣了20场音乐节",
+        "onboard_time": 1773641001,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 467809,
+        "num": 203912,
+        "word": "布洛芬很着急为您服务",
+        "onboard_time": 1773644001,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233097,
+        "num": 203729,
+        "word": "伊朗称440公斤60%丰度浓缩铀被埋",
+        "onboard_time": 1773636024,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202021,
+        "num": 202021,
+        "word": "山姆等多品牌回应双氧水漂白鸡爪",
+        "onboard_time": 1773639681,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164957,
+        "num": 164957,
+        "word": "卧底卧成二把手的记者315又立功",
+        "onboard_time": 1773633682,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 142138,
+        "num": 142138,
+        "word": "vivo宣布涨价",
+        "onboard_time": 1773637103,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 843722,
+        "num": 141088,
+        "word": "李诞说现在失业的人可能是一件好事",
+        "onboard_time": 1773641542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692957,
+        "num": 139714,
+        "word": "经纪人回应瞿颖翻红",
+        "onboard_time": 1773641481,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417498,
+        "num": 138659,
+        "word": "湘雅医院失联学生确认坠江身亡",
+        "onboard_time": 1773625342,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347383,
+        "num": 136071,
+        "word": "邓凯妈妈 有那么帅吗",
+        "onboard_time": 1773642982,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264897,
+        "num": 134845,
+        "word": "小狗舔人被说主人情绪失控",
+        "onboard_time": 1773638783,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247841,
+        "num": 132835,
+        "word": "都美竹被判向朱姐道歉",
+        "onboard_time": 1773641782,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214347,
+        "num": 131385,
+        "word": "金价",
+        "onboard_time": 1773628161,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164585,
+        "num": 129916,
+        "word": "宋智雅因三星Galaxy言论被骂",
+        "onboard_time": 1773632542,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158074,
+        "num": 127882,
+        "word": "脑梗最快急救方法",
+        "onboard_time": 1773631401,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74526,
+        "num": 126237,
+        "word": "360元雅诗兰黛口红只有外壳没膏体",
+        "onboard_time": 1773645141,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 889021,
+        "num": 125079,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1773636623,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780227,
+        "num": 123343,
+        "word": "章子怡的买股运",
+        "onboard_time": 1773641602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122672,
+        "num": 122672,
+        "word": "清明不调休不补班",
+        "onboard_time": 1773641723,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696208,
+        "num": 121431,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1773621382,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412360,
+        "num": 120460,
+        "word": "刘宇宁回应黄子韬道歉",
+        "onboard_time": 1773635903,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114155,
+        "num": 114155,
+        "word": "霍尔木兹海峡首次没有船只通航",
+        "onboard_time": 1773639382,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 342785,
+        "num": 112150,
+        "word": "瞿颖 翻红",
+        "onboard_time": 1773632903,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147135,
+        "num": 111507,
+        "word": "ILLIT新专logo被质疑抄袭BLACKPINK",
+        "onboard_time": 1773645382,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109545,
+        "num": 109545,
+        "word": "终于有人把带孩子的累说清楚了",
+        "onboard_time": 1773632363,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132424,
+        "num": 109074,
+        "word": "建议papi酱多请上个世纪的艺人",
+        "onboard_time": 1773644780,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117450,
+        "num": 108468,
+        "word": "肖战一个emoji代表一个角色",
+        "onboard_time": 1773644241,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107323,
+        "num": 107323,
+        "word": "婴儿消毒乳膏检出致大头娃娃激素",
+        "onboard_time": 1773643522,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 106382,
+        "num": 106382,
+        "word": "小米大涨逾5%",
+        "onboard_time": 1773645322,
+        "rank": 32,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 100768,
+        "num": 100768,
+        "word": "日本将中国文物当战利品宣扬军国主义",
+        "onboard_time": 1773640342,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100029,
+        "num": 100029,
+        "word": "吴昕说大侦探是成年人社交的范本",
+        "onboard_time": 1773645922,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96437,
+        "num": 96437,
+        "word": "315曝光后多地连夜通报",
+        "onboard_time": 1773622463,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95150,
+        "num": 95150,
+        "word": "胖东来鸡蛋",
+        "onboard_time": 1773642682,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90406,
+        "num": 90406,
+        "word": "逐玉为何被审判",
+        "onboard_time": 1773637944,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90288,
+        "num": 90288,
+        "word": "十日终焉",
+        "onboard_time": 1773623122,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14503,
+        "num": 90192,
+        "word": "网红儿童奶粉疑为假洋实验室包装",
+        "onboard_time": 1773645141,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 90116,
+        "num": 90116,
+        "word": "男子发现自己长期吃315曝光鸡爪",
+        "onboard_time": 1773635903,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89587,
+        "num": 89587,
+        "word": "21岁男生习惯整吞瓜子致肠穿孔",
+        "onboard_time": 1773644662,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256350,
+        "num": 88776,
+        "word": "坠江身亡研究生离世前疑似发布遗言",
+        "onboard_time": 1773640583,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87272,
+        "num": 87272,
+        "word": "奥斯卡",
+        "onboard_time": 1773617299,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86878,
+        "num": 86878,
+        "word": "大侦探惊变七日",
+        "onboard_time": 1773645322,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86599,
+        "num": 86599,
+        "word": "漂白鸡爪企业致歉",
+        "onboard_time": 1773625641,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 85129,
+        "num": 85129,
+        "word": "中南大学和湖南卫健委成立联合调查组",
+        "onboard_time": 1773631162,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84776,
+        "num": 84776,
+        "word": "这群大雁是不是刚下高速",
+        "onboard_time": 1773646041,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 81656,
+        "num": 81656,
+        "word": "门店回应vivo涨价",
+        "onboard_time": 1773645741,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 80881,
+        "num": 80881,
+        "word": "什么和离书分明是录取通知书",
+        "onboard_time": 1773642082,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}
