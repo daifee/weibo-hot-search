@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773694094552,
+  "endTime": 1773695148524,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -6225,6 +6225,14 @@
       "onboard_time": 1773517934,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 11400,
+      "num": 11981,
+      "word": "丁禹兮司宫令权谋人设",
+      "onboard_time": 1773694694,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 10570,

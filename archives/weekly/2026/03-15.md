@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/15 00:41:40 ~ 2026/03/17 04:48:14
+本榜单时间：2026/03/15 00:41:40 ~ 2026/03/17 05:05:48
 </p>
 </blockquote>
 <p>
@@ -4679,6 +4679,12 @@ CMG年度剧情电影男演员提名（热度：16557）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%BA%A6%E5%89%A7%E6%83%85%E7%94%B5%E5%BD%B1%E7%94%B7%E6%BC%94%E5%91%98%E6%8F%90%E5%90%8D%23" target="weibo">
 年度剧情电影男演员提名（热度：13561）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8F%B8%E5%AE%AB%E4%BB%A4%E6%9D%83%E8%B0%8B%E4%BA%BA%E8%AE%BE%23" target="weibo">
+丁禹兮司宫令权谋人设（热度：11400）
 </a>
 </li>
 
