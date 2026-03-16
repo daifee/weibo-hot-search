@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773629845264,
+  "endTime": 1773632681020,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 2082344,
-      "num": 133948,
+      "num": 190737,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1773621382,
       "rank": 20,
@@ -2275,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726858,
+      "num": 726858,
+      "word": "中南大学和湖南卫健委成立联合调查组",
+      "onboard_time": 1773631162,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 725794,
       "num": 141249,
       "word": "鹅鸭杀崩了",
@@ -2580,7 +2588,7 @@
     },
     {
       "raw_hot": 674004,
-      "num": 133920,
+      "num": 183912,
       "word": "2026奥斯卡获奖名单",
       "onboard_time": 1773617961,
       "rank": 26,
@@ -3884,7 +3892,7 @@
     },
     {
       "raw_hot": 528194,
-      "num": 132916,
+      "num": 182931,
       "word": "田曦薇任豪 我欲乘风",
       "onboard_time": 1773623542,
       "rank": 23,
@@ -4484,7 +4492,7 @@
     },
     {
       "raw_hot": 484719,
-      "num": 163991,
+      "num": 230533,
       "word": "湘雅",
       "onboard_time": 1773625043,
       "rank": 10,
@@ -5265,6 +5273,14 @@
       "onboard_time": 1773372800,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438095,
+      "num": 242376,
+      "word": "脑梗最快急救方法",
+      "onboard_time": 1773631401,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 436888,
@@ -7179,6 +7195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 351567,
+      "num": 351567,
+      "word": "樊长玉因身份悬殊不敢回应",
+      "onboard_time": 1773629660,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351065,
       "num": 290005,
       "word": "曝哈梅内伊已任命继任者",
@@ -8225,6 +8249,14 @@
       "onboard_time": 1772603784,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 314923,
+      "num": 314923,
+      "word": "大冰教家长应对孩子不自律",
+      "onboard_time": 1773628460,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 314525,
@@ -9593,6 +9625,14 @@
       "onboard_time": 1773539180,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275996,
+      "num": 275996,
+      "word": "我们的爸爸",
+      "onboard_time": 1773630441,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 275127,
@@ -11627,6 +11667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 223740,
+      "num": 223740,
+      "word": "泰国抛尸案嫌疑人对话音频曝光",
+      "onboard_time": 1773626002,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 223446,
       "num": 223446,
       "word": "日本动漫巨头封口性侵受害者",
@@ -11696,6 +11744,14 @@
       "word": "年轻人不知道的交公粮",
       "onboard_time": 1773290783,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221901,
+      "num": 221901,
+      "word": "315晚会曝光7件事",
+      "onboard_time": 1773630742,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -12209,6 +12265,14 @@
       "onboard_time": 1772418441,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 212608,
+      "num": 212608,
+      "word": "我瘦了8斤就张远这样",
+      "onboard_time": 1773631941,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 212589,
@@ -13715,14 +13779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185918,
-      "num": 156791,
-      "word": "泰国抛尸案嫌疑人对话音频曝光",
-      "onboard_time": 1773626002,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 185861,
       "num": 138579,
       "word": "蓝盈莹一出手就是浪姐水准",
@@ -13825,6 +13881,14 @@
       "onboard_time": 1772883022,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183403,
+      "num": 183403,
+      "word": "伊朗发布战报",
+      "onboard_time": 1773619702,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 183172,
@@ -14843,20 +14907,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167521,
+      "num": 167521,
+      "word": "家有七郎开机",
+      "onboard_time": 1773631641,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167446,
       "num": 135513,
       "word": "田曦薇 我图你好看啊",
       "onboard_time": 1773235463,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167280,
-      "num": 155847,
-      "word": "伊朗发布战报",
-      "onboard_time": 1773619702,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 167172,
@@ -15963,6 +16027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155001,
+      "num": 155001,
+      "word": "韩国回应被特朗普点名护航海峡",
+      "onboard_time": 1773630021,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154834,
       "num": 154834,
       "word": "刘宇宁露肚子",
@@ -16073,6 +16145,14 @@
       "onboard_time": 1773404241,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153660,
+      "num": 153660,
+      "word": "邓凯又在犯姐夫瘾了",
+      "onboard_time": 1773632062,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 153574,
@@ -17755,12 +17835,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136805,
-      "num": 111530,
-      "word": "大冰教家长应对孩子不自律",
-      "onboard_time": 1773628460,
-      "rank": 30,
-      "category": "教育"
+      "raw_hot": 136982,
+      "num": 136982,
+      "word": "王俊凯 演唱会",
+      "onboard_time": 1773618861,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 136928,
+      "num": 131260,
+      "word": "刘宇宁不去鸟巢开演唱会的原因",
+      "onboard_time": 1773631102,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 136802,
@@ -17873,6 +17961,14 @@
       "onboard_time": 1772866761,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135585,
+      "num": 198465,
+      "word": "14岁女孩被上铺舍友踩头致重伤",
+      "onboard_time": 1773631881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135435,
@@ -18075,14 +18171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134181,
-      "num": 124735,
-      "word": "王俊凯 演唱会",
-      "onboard_time": 1773618861,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 134161,
       "num": 134161,
       "word": "铁证 孙红雷刘宇宁",
@@ -18137,6 +18225,14 @@
       "onboard_time": 1773622823,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133827,
+      "num": 133827,
+      "word": "樊振东倒车球迷安慰别紧张",
+      "onboard_time": 1773627921,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 133795,
@@ -19643,6 +19739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121503,
+      "num": 121503,
+      "word": "伊朗亮出2000公里射程战略杀器",
+      "onboard_time": 1773632661,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 121477,
       "num": 121477,
       "word": "Ruler决赛五杀",
@@ -19777,6 +19881,14 @@
       "onboard_time": 1773211521,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120948,
+      "num": 120948,
+      "word": "宋智雅因三星Galaxy言论被骂",
+      "onboard_time": 1773632542,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 120934,
@@ -19955,14 +20067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120035,
-      "num": 120035,
-      "word": "樊振东倒车球迷安慰别紧张",
-      "onboard_time": 1773627921,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120028,
       "num": 120028,
       "word": "中国女足1比0中国台北",
@@ -20121,6 +20225,14 @@
       "onboard_time": 1772897782,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119203,
+      "num": 119203,
+      "word": "最小概率的事就这么发生了",
+      "onboard_time": 1773632363,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 119062,
@@ -20665,6 +20777,14 @@
       "onboard_time": 1772769801,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115400,
+      "num": 115400,
+      "word": "赵婷电影出两位奥斯卡影后",
+      "onboard_time": 1773631881,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 115396,
@@ -21873,6 +21993,14 @@
       "onboard_time": 1773290242,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108689,
+      "num": 108689,
+      "word": "终于有人把带孩子的累说清楚了",
+      "onboard_time": 1773632363,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 108634,
@@ -23353,6 +23481,14 @@
       "onboard_time": 1772446946,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100878,
+      "num": 100878,
+      "word": "晚上出门尽量穿亮色衣服",
+      "onboard_time": 1773632001,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 100863,
@@ -26275,6 +26411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89584,
+      "num": 89584,
+      "word": "巴克利奥斯卡影后",
+      "onboard_time": 1773632542,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 89582,
       "num": 158125,
       "word": "伊朗说具备进行超半年高强度战争能力",
@@ -27563,14 +27707,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 84694,
-      "num": 84694,
-      "word": "樊长玉因身份悬殊不敢回应",
-      "onboard_time": 1773629660,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84693,
       "num": 144899,
       "word": "比亚迪回应闪充是否影响电池寿命",
@@ -27825,6 +27961,14 @@
       "onboard_time": 1772772983,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 83758,
+      "num": 83758,
+      "word": "女生从上铺跳下导致黄体破裂",
+      "onboard_time": 1773629902,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83757,
@@ -28745,6 +28889,14 @@
       "onboard_time": 1773581726,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80334,
+      "num": 203893,
+      "word": "中国石狮被刻意放在靖国神社",
+      "onboard_time": 1773631941,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80307,
@@ -30433,6 +30585,14 @@
       "onboard_time": 1772884763,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74514,
+      "num": 83088,
+      "word": "西湖醋鱼咖啡",
+      "onboard_time": 1773632661,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 74490,
@@ -35131,6 +35291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51519,
+      "num": 211234,
+      "word": "周云杰的真诚是先把标准卡严",
+      "onboard_time": 1773632363,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51373,
       "num": 473990,
       "word": "汪苏泷新专辑明日世界",
@@ -37035,6 +37203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39052,
+      "num": 108975,
+      "word": "网络问诊开单秘籍男攻肾虚女攻衰老",
+      "onboard_time": 1773631280,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 39039,
       "num": 72864,
       "word": "平台订房付1471元酒店仅收到618元",
@@ -38907,6 +39083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25606,
+      "num": 173611,
+      "word": "起底花钱就能办证书的救援队",
+      "onboard_time": 1773632481,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 25515,
       "num": 40736,
       "word": "美以袭击伊朗学校现场一片废墟",
@@ -39392,6 +39576,14 @@
       "word": "政协委员建议别信不明养生小视频",
       "onboard_time": 1773216022,
       "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 22269,
+      "num": 867895,
+      "word": "致敬每一份不屈的热爱",
+      "onboard_time": 1773629181,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -39953,14 +40145,6 @@
       "onboard_time": 1773394280,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 18208,
-      "num": 867895,
-      "word": "致敬每一份不屈的热爱",
-      "onboard_time": 1773629181,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18197,

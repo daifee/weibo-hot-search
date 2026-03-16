@@ -1,0 +1,410 @@
+{
+  "runTime": 1773632681020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1461308,
+        "num": 1461308,
+        "word": "湘雅医院失联学生确认坠江身亡",
+        "onboard_time": 1773625342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1175787,
+        "num": 1175787,
+        "word": "315曝光名单",
+        "onboard_time": 1773581607,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22269,
+        "num": 855153,
+        "word": "致敬每一份不屈的热爱",
+        "onboard_time": 1773629181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 726858,
+        "num": 726858,
+        "word": "中南大学和湖南卫健委成立联合调查组",
+        "onboard_time": 1773631162,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582747,
+        "num": 582747,
+        "word": "漂白鸡爪企业致歉",
+        "onboard_time": 1773625641,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 351567,
+        "num": 351567,
+        "word": "樊长玉因身份悬殊不敢回应",
+        "onboard_time": 1773629660,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329002,
+        "num": 329002,
+        "word": "内塔尼亚胡发视频自证在世",
+        "onboard_time": 1773620482,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314923,
+        "num": 314923,
+        "word": "大冰教家长应对孩子不自律",
+        "onboard_time": 1773628460,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 275996,
+        "num": 275996,
+        "word": "我们的爸爸",
+        "onboard_time": 1773630441,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262417,
+        "num": 262417,
+        "word": "胖东来回应若检测无错会起诉博主",
+        "onboard_time": 1773622345,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 516743,
+        "num": 253619,
+        "word": "金价",
+        "onboard_time": 1773628161,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 478352,
+        "num": 245269,
+        "word": "卖给孩子的可爱卡片竟有上吊暗示",
+        "onboard_time": 1773626242,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438095,
+        "num": 242376,
+        "word": "脑梗最快急救方法",
+        "onboard_time": 1773631401,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 320548,
+        "num": 230533,
+        "word": "湘雅",
+        "onboard_time": 1773625043,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223740,
+        "num": 223740,
+        "word": "泰国抛尸案嫌疑人对话音频曝光",
+        "onboard_time": 1773626002,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221901,
+        "num": 221901,
+        "word": "315晚会曝光7件事",
+        "onboard_time": 1773630742,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212608,
+        "num": 212608,
+        "word": "我瘦了8斤就张远这样",
+        "onboard_time": 1773631941,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51519,
+        "num": 211234,
+        "word": "周云杰的真诚是先把标准卡严",
+        "onboard_time": 1773632363,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80334,
+        "num": 203893,
+        "word": "中国石狮被刻意放在靖国神社",
+        "onboard_time": 1773631941,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135585,
+        "num": 198465,
+        "word": "14岁女孩被上铺舍友踩头致重伤",
+        "onboard_time": 1773631881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1785211,
+        "num": 190737,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1773621382,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453494,
+        "num": 183912,
+        "word": "2026奥斯卡获奖名单",
+        "onboard_time": 1773617961,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183403,
+        "num": 183403,
+        "word": "伊朗发布战报",
+        "onboard_time": 1773619702,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346759,
+        "num": 182931,
+        "word": "田曦薇任豪 我欲乘风",
+        "onboard_time": 1773623542,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288023,
+        "num": 182858,
+        "word": "奥斯卡",
+        "onboard_time": 1773617299,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179677,
+        "num": 179677,
+        "word": "部分茶叶咖啡中检出伟哥成分",
+        "onboard_time": 1773626601,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177817,
+        "num": 177817,
+        "word": "A股",
+        "onboard_time": 1773627621,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25606,
+        "num": 173611,
+        "word": "起底花钱就能办证书的救援队",
+        "onboard_time": 1773632481,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 171957,
+        "num": 171957,
+        "word": "司宫令开机",
+        "onboard_time": 1773627321,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167521,
+        "num": 167521,
+        "word": "家有七郎开机",
+        "onboard_time": 1773631641,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163122,
+        "num": 163122,
+        "word": "1岁半宝宝睡醒后哭喊妈妈6小时",
+        "onboard_time": 1773617418,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157725,
+        "num": 157725,
+        "word": "十日终焉",
+        "onboard_time": 1773623122,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155001,
+        "num": 155001,
+        "word": "韩国回应被特朗普点名护航海峡",
+        "onboard_time": 1773630021,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153660,
+        "num": 153660,
+        "word": "邓凯又在犯姐夫瘾了",
+        "onboard_time": 1773632062,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136982,
+        "num": 136982,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1773618861,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133827,
+        "num": 133827,
+        "word": "樊振东倒车球迷安慰别紧张",
+        "onboard_time": 1773627921,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136928,
+        "num": 131260,
+        "word": "刘宇宁不去鸟巢开演唱会的原因",
+        "onboard_time": 1773631102,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121503,
+        "num": 121503,
+        "word": "伊朗亮出2000公里射程战略杀器",
+        "onboard_time": 1773632661,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 120948,
+        "num": 120948,
+        "word": "宋智雅因三星Galaxy言论被骂",
+        "onboard_time": 1773632542,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119203,
+        "num": 119203,
+        "word": "最小概率的事就这么发生了",
+        "onboard_time": 1773632363,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115400,
+        "num": 115400,
+        "word": "赵婷电影出两位奥斯卡影后",
+        "onboard_time": 1773631881,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39052,
+        "num": 108975,
+        "word": "网络问诊开单秘籍男攻肾虚女攻衰老",
+        "onboard_time": 1773631280,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 108689,
+        "num": 108689,
+        "word": "终于有人把带孩子的累说清楚了",
+        "onboard_time": 1773632363,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100878,
+        "num": 100878,
+        "word": "晚上出门尽量穿亮色衣服",
+        "onboard_time": 1773632001,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89584,
+        "num": 89584,
+        "word": "巴克利奥斯卡影后",
+        "onboard_time": 1773632542,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88406,
+        "num": 88406,
+        "word": "伊朗称美以伤亡约5000人",
+        "onboard_time": 1773628701,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87041,
+        "num": 87041,
+        "word": "奥斯卡红毯",
+        "onboard_time": 1773617240,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85818,
+        "num": 85818,
+        "word": "数十万爆雷车企车主售后困境",
+        "onboard_time": 1773624562,
+        "rank": 47,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 83758,
+        "num": 83758,
+        "word": "女生从上铺跳下导致黄体破裂",
+        "onboard_time": 1773629902,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74514,
+        "num": 83088,
+        "word": "西湖醋鱼咖啡",
+        "onboard_time": 1773632661,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}
