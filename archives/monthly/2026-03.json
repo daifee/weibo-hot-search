@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773688501870,
+  "endTime": 1773689725914,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -41715,6 +41715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21088,
+      "num": 21088,
+      "word": "逐玉 我又贪了",
+      "onboard_time": 1773683776,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21065,
       "num": 602681,
       "word": "物业到底是来管理还是服务我们的",
@@ -42009,14 +42017,6 @@
       "onboard_time": 1772373085,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19183,
-      "num": 19183,
-      "word": "逐玉 我又贪了",
-      "onboard_time": 1773683776,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 19081,

@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773688501870,
+  "endTime": 1773689725914,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -6011,6 +6011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21088,
+      "num": 21088,
+      "word": "逐玉 我又贪了",
+      "onboard_time": 1773683776,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20446,
       "num": 30630,
       "word": "央视315",
@@ -6049,14 +6057,6 @@
       "onboard_time": 1773516795,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19183,
-      "num": 19183,
-      "word": "逐玉 我又贪了",
-      "onboard_time": 1773683776,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 19081,
