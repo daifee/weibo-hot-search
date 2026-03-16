@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773647742512,
+  "endTime": 1773652019052,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -555,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472381,
+      "num": 348564,
+      "word": "坠江研究生离世前上完最后一个夜班",
+      "onboard_time": 1773647908,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 470892,
       "num": 273571,
       "word": "印度与伊朗紧急谈判",
@@ -593,6 +601,14 @@
       "onboard_time": 1773547461,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 452040,
+      "num": 1072326,
+      "word": "刘文祥致歉",
+      "onboard_time": 1773649705,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 451739,
@@ -657,6 +673,14 @@
       "onboard_time": 1773576264,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 426366,
+      "num": 191675,
+      "word": "26岁患癌女子冒生命危险坚持备孕",
+      "onboard_time": 1773649227,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 423146,
@@ -795,6 +819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 358611,
+      "num": 130922,
+      "word": "林永健儿子与苏翊鸣合照",
+      "onboard_time": 1773648687,
+      "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 357226,
       "num": 357226,
       "word": "逐玉云合破50%",
@@ -817,6 +849,14 @@
       "onboard_time": 1773548060,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354779,
+      "num": 354779,
+      "word": "鸿蒙智行 小米",
+      "onboard_time": 1773647308,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 352320,
@@ -867,12 +907,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 335656,
+      "num": 220472,
+      "word": "逐玉 编剧浪费演员颜值",
+      "onboard_time": 1773646526,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334010,
       "num": 334010,
       "word": "樊长玉知道谢征的身份了",
       "onboard_time": 1773574162,
       "rank": 35,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 332507,
+      "num": 187017,
+      "word": "脱刘文祥",
+      "onboard_time": 1773648627,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331720,
@@ -1003,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304269,
+      "num": 220213,
+      "word": "深圳卫健委又发力了",
+      "onboard_time": 1773646282,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303989,
       "num": 214759,
       "word": "林丹回应不让儿子学羽毛球",
@@ -1025,6 +1089,14 @@
       "onboard_time": 1773622345,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 302286,
+      "num": 302286,
+      "word": "湘雅医院已多次被罚",
+      "onboard_time": 1773649587,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301491,
@@ -1081,6 +1153,14 @@
       "onboard_time": 1773552802,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 286494,
+      "num": 181653,
+      "word": "中方回应特朗普呼吁多国派军舰护航",
+      "onboard_time": 1773649645,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 283661,
@@ -1243,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251372,
-      "num": 220472,
-      "word": "逐玉 编剧浪费演员颜值",
-      "onboard_time": 1773646526,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 249734,
       "num": 249734,
       "word": "你住的酒店可能藏着第3只眼",
@@ -1297,14 +1369,6 @@
       "onboard_time": 1773585926,
       "rank": 36,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 237256,
-      "num": 220213,
-      "word": "深圳卫健委又发力了",
-      "onboard_time": 1773646282,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236127,
@@ -1441,6 +1505,14 @@
       "onboard_time": 1773540379,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214446,
+      "num": 214446,
+      "word": "爱穿带帽卫衣的那批人被年龄攻击了",
+      "onboard_time": 1773648147,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 213263,
@@ -1979,6 +2051,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 157091,
+      "num": 157091,
+      "word": "司宫令正式官宣",
+      "onboard_time": 1773648087,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155144,
       "num": 77645,
       "word": "带货救女妈妈终究没留住女儿",
@@ -2033,6 +2113,14 @@
       "onboard_time": 1773645141,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 153124,
+      "num": 128677,
+      "word": "宋雨琦 内娱星二代孩子王",
+      "onboard_time": 1773650906,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 153110,
@@ -2121,14 +2209,6 @@
       "onboard_time": 1773639382,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 142412,
-      "num": 227943,
-      "word": "鸿蒙智行 小米",
-      "onboard_time": 1773647308,
-      "rank": 9,
-      "category": "汽车"
     },
     {
       "raw_hot": 142339,
@@ -2385,6 +2465,14 @@
       "onboard_time": 1773583291,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126089,
+      "num": 196542,
+      "word": "78岁老人离世天空群鹤盘旋半小时",
+      "onboard_time": 1773651385,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125581,
@@ -2731,12 +2819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109274,
+      "num": 102619,
+      "word": "郭碧婷把向太给的钱都存给孩子了",
+      "onboard_time": 1773646826,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109012,
       "num": 108219,
       "word": "日本将中国文物当战利品宣扬军国主义",
       "onboard_time": 1773640342,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108616,
+      "num": 108616,
+      "word": "嫩牛五方桌",
+      "onboard_time": 1773646945,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 108361,
@@ -2923,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102429,
+      "num": 102429,
+      "word": "喜剧演员李宗恒的原生家庭",
+      "onboard_time": 1773650785,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102409,
       "num": 102409,
       "word": "何炅杨蓉是十指紧扣的关系",
@@ -3033,6 +3145,14 @@
       "onboard_time": 1773589701,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98919,
+      "num": 98919,
+      "word": "时代峰峻养的孩子从不缺教养",
+      "onboard_time": 1773646706,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 98354,
@@ -3371,6 +3491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 90756,
+      "num": 100294,
+      "word": "金价陷入调整期",
+      "onboard_time": 1773651026,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90234,
       "num": 89596,
       "word": "什么和离书分明是录取通知书",
@@ -3603,6 +3731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84418,
+      "num": 98370,
+      "word": "黄金年内涨幅降至15%",
+      "onboard_time": 1773651565,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84408,
       "num": 84408,
       "word": "小猫也是会洗头的",
@@ -3632,14 +3768,6 @@
       "word": "米卡别试探了有市场",
       "onboard_time": 1773545301,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 84069,
-      "num": 84069,
-      "word": "郭碧婷把向太给的钱都存给孩子了",
-      "onboard_time": 1773646826,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -3843,6 +3971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76363,
+      "num": 76363,
+      "word": "坦然 队长",
+      "onboard_time": 1773649106,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 76343,
       "num": 122098,
       "word": "伊朗宣布导弹命中率提升了一倍",
@@ -3865,6 +4001,14 @@
       "onboard_time": 1773629781,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74918,
+      "num": 74918,
+      "word": "草莓框也有实心的了",
+      "onboard_time": 1773650426,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 74817,
@@ -4212,7 +4356,7 @@
     },
     {
       "raw_hot": 50388,
-      "num": 157149,
+      "num": 174984,
       "word": "机皇EA211黄金增程步入增程3.0",
       "onboard_time": 1773647609,
       "rank": 29,
@@ -4345,6 +4489,14 @@
       "onboard_time": 1773506959,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42568,
+      "num": 596730,
+      "word": "2026年以旧换新数据亮眼",
+      "onboard_time": 1773650845,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42061,
@@ -4489,6 +4641,14 @@
       "onboard_time": 1773569121,
       "rank": 9,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 34837,
+      "num": 164882,
+      "word": "外交部回应中朝恢复客运航班",
+      "onboard_time": 1773651266,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33755,
@@ -4801,6 +4961,14 @@
       "onboard_time": 1773645141,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 13948,
+      "num": 99195,
+      "word": "喜剧人春风里派对舞所不能",
+      "onboard_time": 1773651684,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 13561,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1773652019052,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 452040,
+        "num": 1072326,
+        "word": "刘文祥致歉",
+        "onboard_time": 1773649705,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235279,
+        "num": 777443,
+        "word": "315曝光名单",
+        "onboard_time": 1773581607,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 42568,
+        "num": 596730,
+        "word": "2026年以旧换新数据亮眼",
+        "onboard_time": 1773650845,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354779,
+        "num": 354779,
+        "word": "鸿蒙智行 小米",
+        "onboard_time": 1773647308,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 472381,
+        "num": 348564,
+        "word": "坠江研究生离世前上完最后一个夜班",
+        "onboard_time": 1773647908,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302286,
+        "num": 302286,
+        "word": "湘雅医院已多次被罚",
+        "onboard_time": 1773649587,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279536,
+        "num": 279536,
+        "word": "埃文凯尔官宣定居中国",
+        "onboard_time": 1773640342,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214446,
+        "num": 214446,
+        "word": "爱穿带帽卫衣的那批人被年龄攻击了",
+        "onboard_time": 1773648147,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197490,
+        "num": 197490,
+        "word": "卧底老K收入暴涨315总导演1天1电话",
+        "onboard_time": 1773638963,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126089,
+        "num": 196542,
+        "word": "78岁老人离世天空群鹤盘旋半小时",
+        "onboard_time": 1773651385,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426366,
+        "num": 191675,
+        "word": "26岁患癌女子冒生命危险坚持备孕",
+        "onboard_time": 1773649227,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335656,
+        "num": 189311,
+        "word": "逐玉 编剧浪费演员颜值",
+        "onboard_time": 1773646526,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332507,
+        "num": 187017,
+        "word": "脱刘文祥",
+        "onboard_time": 1773648627,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304269,
+        "num": 182892,
+        "word": "深圳卫健委又发力了",
+        "onboard_time": 1773646282,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286494,
+        "num": 181653,
+        "word": "中方回应特朗普呼吁多国派军舰护航",
+        "onboard_time": 1773649645,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208770,
+        "num": 176332,
+        "word": "经纪人回应瞿颖翻红",
+        "onboard_time": 1773641481,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28140,
+        "num": 174984,
+        "word": "机皇EA211黄金增程步入增程3.0",
+        "onboard_time": 1773647609,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 116094,
+        "num": 171043,
+        "word": "伊朗称440公斤60%丰度浓缩铀被埋",
+        "onboard_time": 1773636024,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170201,
+        "num": 170201,
+        "word": "小狗舔人被说主人情绪失控",
+        "onboard_time": 1773638783,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34837,
+        "num": 164882,
+        "word": "外交部回应中朝恢复客运航班",
+        "onboard_time": 1773651266,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 683941,
+        "num": 164048,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1773621382,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599041,
+        "num": 162490,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1773636623,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160686,
+        "num": 160686,
+        "word": "湘雅医院失联学生确认坠江身亡",
+        "onboard_time": 1773625342,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366460,
+        "num": 160657,
+        "word": "李诞说现在失业的人可能是一件好事",
+        "onboard_time": 1773641542,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157091,
+        "num": 157091,
+        "word": "司宫令正式官宣",
+        "onboard_time": 1773648087,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131327,
+        "num": 131327,
+        "word": "金价",
+        "onboard_time": 1773628161,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 358611,
+        "num": 130922,
+        "word": "林永健儿子与苏翊鸣合照",
+        "onboard_time": 1773648687,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 227040,
+        "num": 130644,
+        "word": "刘宇宁回应黄子韬道歉",
+        "onboard_time": 1773635903,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174041,
+        "num": 130165,
+        "word": "布洛芬很着急为您服务",
+        "onboard_time": 1773644001,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168783,
+        "num": 129225,
+        "word": "章子怡的买股运",
+        "onboard_time": 1773641602,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153124,
+        "num": 128677,
+        "word": "宋雨琦 内娱星二代孩子王",
+        "onboard_time": 1773650906,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128621,
+        "num": 128621,
+        "word": "性格内向的人看起来更显小",
+        "onboard_time": 1773646945,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115539,
+        "num": 115539,
+        "word": "瞿颖 翻红",
+        "onboard_time": 1773632903,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115280,
+        "num": 115280,
+        "word": "邓凯妈妈 有那么帅吗",
+        "onboard_time": 1773642982,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108616,
+        "num": 108616,
+        "word": "嫩牛五方桌",
+        "onboard_time": 1773646945,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98731,
+        "num": 102700,
+        "word": "脑梗最快急救方法",
+        "onboard_time": 1773631401,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109274,
+        "num": 102619,
+        "word": "郭碧婷把向太给的钱都存给孩子了",
+        "onboard_time": 1773646826,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102429,
+        "num": 102429,
+        "word": "喜剧演员李宗恒的原生家庭",
+        "onboard_time": 1773650785,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90756,
+        "num": 100294,
+        "word": "金价陷入调整期",
+        "onboard_time": 1773651026,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13948,
+        "num": 99195,
+        "word": "喜剧人春风里派对舞所不能",
+        "onboard_time": 1773651684,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98919,
+        "num": 98919,
+        "word": "时代峰峻养的孩子从不缺教养",
+        "onboard_time": 1773646706,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84418,
+        "num": 98370,
+        "word": "黄金年内涨幅降至15%",
+        "onboard_time": 1773651565,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98312,
+        "num": 98312,
+        "word": "奥斯卡最佳男主穿新中式领奖",
+        "onboard_time": 1773647368,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88835,
+        "num": 88835,
+        "word": "肖战一个emoji代表一个角色",
+        "onboard_time": 1773644241,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76363,
+        "num": 76363,
+        "word": "坦然 队长",
+        "onboard_time": 1773649106,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75542,
+        "num": 75542,
+        "word": "ILLIT新专logo被质疑抄袭BLACKPINK",
+        "onboard_time": 1773645382,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75332,
+        "num": 75332,
+        "word": "奥斯卡",
+        "onboard_time": 1773617299,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74918,
+        "num": 74918,
+        "word": "草莓框也有实心的了",
+        "onboard_time": 1773650426,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 74493,
+        "num": 74493,
+        "word": "360元雅诗兰黛口红只有外壳没膏体",
+        "onboard_time": 1773645141,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 71605,
+        "num": 71605,
+        "word": "卧底卧成二把手的记者315又立功",
+        "onboard_time": 1773633682,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着总书记的嘱托一起出发#"
+    }
+  }
+}
