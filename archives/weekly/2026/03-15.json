@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773689725914,
+  "endTime": 1773694094552,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -6003,6 +6003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21743,
+      "num": 21743,
+      "word": "周五晚高疯",
+      "onboard_time": 1773687133,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21503,
       "num": 209747,
       "word": "AMG带你追F1",
@@ -6081,14 +6089,6 @@
       "onboard_time": 1773639083,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18096,
-      "num": 18096,
-      "word": "周五晚高疯",
-      "onboard_time": 1773687133,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 18088,
@@ -6203,20 +6203,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14029,
+      "num": 15275,
+      "word": "中美就一些议题取得初步共识",
+      "onboard_time": 1773668962,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13948,
       "num": 99195,
       "word": "喜剧人春风里派对舞所不能",
       "onboard_time": 1773651684,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13775,
-      "num": 15275,
-      "word": "中美就一些议题取得初步共识",
-      "onboard_time": 1773668962,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13561,
