@@ -1,0 +1,410 @@
+{
+  "runTime": 1773660506496,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 611456,
+        "num": 1097832,
+        "word": "樊振东下赛季加盟杜塞尔多夫",
+        "onboard_time": 1773657442,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199218,
+        "num": 1091563,
+        "word": "事业单位招人岗位在海拔3614米山顶",
+        "onboard_time": 1773658823,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31378,
+        "num": 1082261,
+        "word": "2026年以旧换新数据亮眼",
+        "onboard_time": 1773650845,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197975,
+        "num": 1064932,
+        "word": "鸿蒙智行 小米",
+        "onboard_time": 1773647308,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189532,
+        "num": 1051075,
+        "word": "以为是火腿肠其实是炸药",
+        "onboard_time": 1773653244,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1039046,
+        "num": 1039046,
+        "word": "爱吃薯片的人天塌了",
+        "onboard_time": 1773652225,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 529372,
+        "num": 529372,
+        "word": "发现虾腿有肉以后",
+        "onboard_time": 1773656662,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338742,
+        "num": 338742,
+        "word": "教体局通报女孩遭殴打不予立案原因",
+        "onboard_time": 1773655223,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 199304,
+        "num": 333502,
+        "word": "樊振东回应转会",
+        "onboard_time": 1773658103,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29660,
+        "num": 333299,
+        "word": "中美双方就特朗普总统访华事保持着沟通",
+        "onboard_time": 1773651204,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 873440,
+        "num": 333238,
+        "word": "不然官宣恋情",
+        "onboard_time": 1773659003,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 333132,
+        "num": 333132,
+        "word": "逐玉",
+        "onboard_time": 1773656302,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260324,
+        "num": 260324,
+        "word": "315塌房全总结",
+        "onboard_time": 1773658763,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328852,
+        "num": 245044,
+        "word": "张凌赫田曦薇浴池戏",
+        "onboard_time": 1773655104,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172209,
+        "num": 172209,
+        "word": "长玉说和离 谢征吐血",
+        "onboard_time": 1773659661,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162510,
+        "num": 162510,
+        "word": "樊振东将离开萨尔队",
+        "onboard_time": 1773657744,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150306,
+        "num": 150306,
+        "word": "中方回应特朗普呼吁多国派军舰护航",
+        "onboard_time": 1773649645,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107170,
+        "num": 150276,
+        "word": "逐玉 编剧浪费演员颜值",
+        "onboard_time": 1773646526,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103856,
+        "num": 150217,
+        "word": "埃文凯尔官宣定居中国",
+        "onboard_time": 1773640342,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44919,
+        "num": 150169,
+        "word": "啃雕胡萝卜女孩称曾因牙齿自卑",
+        "onboard_time": 1773659603,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248318,
+        "num": 150123,
+        "word": "F1海外账号发合影把吴艳妮裁掉",
+        "onboard_time": 1773652104,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454017,
+        "num": 150095,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1773621382,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358124,
+        "num": 150037,
+        "word": "孙燕姿胖了",
+        "onboard_time": 1773658703,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243033,
+        "num": 149956,
+        "word": "女子借5万还不上履约做对方女友",
+        "onboard_time": 1773658523,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257557,
+        "num": 149920,
+        "word": "范丞丞开始减肥第一天",
+        "onboard_time": 1773659122,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486603,
+        "num": 149874,
+        "word": "坠江研究生曾因试图跳楼被送精神病科",
+        "onboard_time": 1773656782,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235742,
+        "num": 149793,
+        "word": "王一栩 虞书欣演过最好的都是我给的",
+        "onboard_time": 1773655163,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210517,
+        "num": 149770,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1773636623,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130520,
+        "num": 149720,
+        "word": "26岁患癌女子冒生命危险坚持备孕",
+        "onboard_time": 1773649227,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149687,
+        "num": 149687,
+        "word": "李诞说现在失业的人可能是一件好事",
+        "onboard_time": 1773641542,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142871,
+        "num": 142871,
+        "word": "痞幼自曝彩礼只要10万",
+        "onboard_time": 1773658042,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129459,
+        "num": 129459,
+        "word": "男子喝咖啡后头晕送检查出伟哥成分",
+        "onboard_time": 1773658401,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48710,
+        "num": 107979,
+        "word": "何小鹏直播第二代VLA推送",
+        "onboard_time": 1773659122,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 101535,
+        "num": 101535,
+        "word": "孔雪儿伟大的爱豆时期",
+        "onboard_time": 1773660143,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100543,
+        "num": 100543,
+        "word": "张檬想给孩子喂母乳到2岁",
+        "onboard_time": 1773652524,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98477,
+        "num": 98477,
+        "word": "开心消消乐发错版本了",
+        "onboard_time": 1773660322,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98805,
+        "num": 97920,
+        "word": "刘宇宁回应黄子韬道歉",
+        "onboard_time": 1773635903,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83074,
+        "num": 96998,
+        "word": "樊振东与波尔的约定实现了",
+        "onboard_time": 1773659603,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43706,
+        "num": 95892,
+        "word": "邓凯妈妈 有那么帅吗",
+        "onboard_time": 1773642982,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15590,
+        "num": 95279,
+        "word": "商家为逃避价保在链接上玩猫腻",
+        "onboard_time": 1773660143,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94656,
+        "num": 94656,
+        "word": "向太给郭碧婷买了4块地",
+        "onboard_time": 1773655821,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92963,
+        "num": 92963,
+        "word": "香港西贡码头惊现身绑砖头浮尸",
+        "onboard_time": 1773657744,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89933,
+        "num": 89933,
+        "word": "韩已故演员崔真实女儿结婚请帖公开",
+        "onboard_time": 1773660383,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89829,
+        "num": 89829,
+        "word": "杜塞尔多夫官方欢迎樊振东加盟",
+        "onboard_time": 1773659962,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88691,
+        "num": 88691,
+        "word": "杜塞尔多夫回应樊振东加盟",
+        "onboard_time": 1773659903,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83419,
+        "num": 83419,
+        "word": "经纪人回应瞿颖翻红",
+        "onboard_time": 1773641481,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80803,
+        "num": 80803,
+        "word": "经销商称市场已找不到千元内手机",
+        "onboard_time": 1773660443,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 80554,
+        "num": 80554,
+        "word": "吴敬平说樊振东娘家人来了",
+        "onboard_time": 1773655283,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79554,
+        "num": 79554,
+        "word": "王一栩虞书欣 三搭",
+        "onboard_time": 1773657862,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79549,
+        "num": 79549,
+        "word": "杜塞尔多夫俱乐部经理深感荣幸",
+        "onboard_time": 1773660443,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着总书记的嘱托一起出发#"
+    }
+  }
+}
