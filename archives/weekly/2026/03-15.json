@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773669622216,
+  "endTime": 1773673750437,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 519296,
+      "num": 1083087,
+      "word": "美宜佳被曝光后半小时无一人进店",
+      "onboard_time": 1773670942,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 517160,
       "num": 257932,
       "word": "何晟铭因不愿演男主和于正冷战",
@@ -659,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 465101,
+      "num": 810019,
+      "word": "胖东来169元1克拉方糖戒指再上架",
+      "onboard_time": 1773672146,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 464574,
       "num": 464574,
       "word": "温瑞博vsF勒布伦",
@@ -689,6 +705,14 @@
       "onboard_time": 1773658703,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 456221,
+      "num": 386347,
+      "word": "89岁老人过马路半路变红灯被撞身亡",
+      "onboard_time": 1773670464,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 454317,
@@ -824,6 +848,14 @@
       "word": "三里屯真人模特",
       "onboard_time": 1773540201,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398483,
+      "num": 398483,
+      "word": "永辉公开喊话山姆",
+      "onboard_time": 1773670883,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -1057,6 +1089,14 @@
       "onboard_time": 1773646526,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334597,
+      "num": 165125,
+      "word": "Ella评论瞿颖",
+      "onboard_time": 1773671604,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 334010,
@@ -1611,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230079,
+      "num": 397367,
+      "word": "深圳公积金新规4月施行",
+      "onboard_time": 1773669084,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229698,
       "num": 229698,
       "word": "高质量睡眠对人的改变",
@@ -2011,6 +2059,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 186941,
+      "num": 382077,
+      "word": "伊朗成功执行第55轮打击",
+      "onboard_time": 1773667825,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 185861,
       "num": 138579,
       "word": "蓝盈莹一出手就是浪姐水准",
@@ -2331,6 +2387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157026,
+      "num": 374471,
+      "word": "入职未满1年怀孕请假被拒获赔10万",
+      "onboard_time": 1773672146,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155144,
       "num": 77645,
       "word": "带货救女妈妈终究没留住女儿",
@@ -2435,14 +2499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149633,
-      "num": 275765,
-      "word": "伊朗成功执行第55轮打击",
-      "onboard_time": 1773667825,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 148694,
       "num": 141440,
       "word": "谢征好有礼貌",
@@ -2521,6 +2577,14 @@
       "onboard_time": 1773661944,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141291,
+      "num": 141291,
+      "word": "极氪8X",
+      "onboard_time": 1773669441,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 141001,
@@ -2875,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122211,
+      "num": 122211,
+      "word": "KPL福建靠谱男人",
+      "onboard_time": 1773673525,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121503,
       "num": 121503,
       "word": "伊朗亮出2000公里射程战略杀器",
@@ -3153,6 +3225,14 @@
       "onboard_time": 1773637103,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110484,
+      "num": 110484,
+      "word": "鹿哈毛肚事件获商家退款消费者发声",
+      "onboard_time": 1773671124,
+      "rank": 28,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 109987,
@@ -3443,6 +3523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101533,
+      "num": 101533,
+      "word": "2岁娃被忘车内反锁1小时",
+      "onboard_time": 1773668844,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101388,
       "num": 102942,
       "word": "以为是分手结果是索命",
@@ -3561,6 +3649,14 @@
       "onboard_time": 1773571700,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97243,
+      "num": 97243,
+      "word": "T1怎么输的",
+      "onboard_time": 1773671243,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 97223,
@@ -3715,6 +3811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94432,
+      "num": 94432,
+      "word": "BLG对战BFX",
+      "onboard_time": 1773673163,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94411,
       "num": 94411,
       "word": "泰遇害女子朋友曾与疑似嫌疑人通话",
@@ -3769,6 +3873,14 @@
       "onboard_time": 1773667765,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93752,
+      "num": 93752,
+      "word": "张凌赫壁纸",
+      "onboard_time": 1773672927,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93634,
@@ -3841,14 +3953,6 @@
       "onboard_time": 1773585447,
       "rank": 30,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 92831,
-      "num": 92831,
-      "word": "深圳公积金新规4月施行",
-      "onboard_time": 1773669084,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92817,
@@ -4123,6 +4227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86974,
+      "num": 86974,
+      "word": "188套餐拍写真结果花了3万",
+      "onboard_time": 1773669802,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 86960,
       "num": 86960,
       "word": "孙颖莎王楚钦世界杯见",
@@ -4160,6 +4272,14 @@
       "word": "樊振东表示一切尚新未来会更好",
       "onboard_time": 1773532519,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86488,
+      "num": 86488,
+      "word": "感谢萨尔布吕肯与樊振东的相遇",
+      "onboard_time": 1773673344,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -4225,6 +4345,22 @@
       "onboard_time": 1773546201,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85442,
+      "num": 85442,
+      "word": "杨紫在秀场交到了新朋友",
+      "onboard_time": 1773671964,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 85364,
+      "num": 85364,
+      "word": "我国将适度超前推进新基建",
+      "onboard_time": 1773670464,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85265,
@@ -4411,11 +4547,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80809,
-      "num": 80809,
-      "word": "极氪8X",
-      "onboard_time": 1773669441,
-      "rank": 42,
+      "raw_hot": 80827,
+      "num": 132036,
+      "word": "极氪8X预售38分钟破万",
+      "onboard_time": 1773671724,
+      "rank": 25,
       "category": "汽车"
     },
     {
@@ -4425,6 +4561,14 @@
       "onboard_time": 1773660443,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 80791,
+      "num": 80791,
+      "word": "钎城官宣老乡杯",
+      "onboard_time": 1773671124,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 80716,
@@ -4819,6 +4963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71256,
+      "num": 71256,
+      "word": "无畏 福建队",
+      "onboard_time": 1773673643,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71196,
       "num": 71196,
       "word": "交警让后退群众以为要击掌",
@@ -4849,6 +5001,30 @@
       "onboard_time": 1773558201,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70051,
+      "num": 70051,
+      "word": "外交部回应中国特使赴阿巴穿梭斡旋",
+      "onboard_time": 1773667104,
+      "rank": 47,
+      "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 69445,
+      "num": 78315,
+      "word": "马斯克5万美金小屋简陋似仓库",
+      "onboard_time": 1773672504,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 69293,
+      "num": 69293,
+      "word": "消耗战之下伊朗亮出反击新手段",
+      "onboard_time": 1773673404,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68056,
@@ -4995,6 +5171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55737,
+      "num": 89169,
+      "word": "截瘫女子植入脑机1年后能刷手机了",
+      "onboard_time": 1773673704,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55488,
       "num": 109800,
       "word": "AG对战KSG",
@@ -5065,14 +5249,6 @@
       "onboard_time": 1773502881,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53310,
-      "num": 82633,
-      "word": "2岁娃被忘车内反锁1小时",
-      "onboard_time": 1773668844,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51519,
@@ -5243,6 +5419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43060,
+      "num": 137093,
+      "word": "深圳人100岁每月可领千元",
+      "onboard_time": 1773673225,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42812,
       "num": 106569,
       "word": "谁给李煜东戴的大直径美瞳",
@@ -5257,6 +5441,14 @@
       "onboard_time": 1773650845,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42424,
+      "num": 261887,
+      "word": "极氪8X预售37.68万起",
+      "onboard_time": 1773669802,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 42061,
@@ -5521,6 +5713,14 @@
       "onboard_time": 1773551300,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26226,
+      "num": 637441,
+      "word": "奋进十五五你会看到这样的中国",
+      "onboard_time": 1773670644,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25976,
@@ -5858,6 +6058,9 @@
     },
     {
       "word": "#足迹里的政绩观#"
+    },
+    {
+      "word": "#一口水井一种信念#"
     }
   ]
 }
