@@ -1,7 +1,31 @@
 {
   "startTime": 1773681061140,
-  "endTime": 1773681061140,
+  "endTime": 1773682505407,
   "band_list": [
+    {
+      "raw_hot": 1082922,
+      "num": 1082922,
+      "word": "Bin 外战看BLG",
+      "onboard_time": 1773681317,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 372157,
+      "num": 397103,
+      "word": "BLG战胜BFX",
+      "onboard_time": 1773680898,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 289918,
+      "num": 289918,
+      "word": "管泽元",
+      "onboard_time": 1773681317,
+      "rank": 3,
+      "category": "电竞"
+    },
     {
       "raw_hot": 274012,
       "num": 123557,
@@ -57,14 +81,6 @@
       "onboard_time": 1773652225,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151944,
-      "num": 151944,
-      "word": "BLG战胜BFX",
-      "onboard_time": 1773680898,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 145630,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83281,
+      "num": 83281,
+      "word": "不挑食 感观度低",
+      "onboard_time": 1773676641,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72073,
       "num": 72073,
       "word": "张凌赫 导演你管管她",
@@ -145,14 +169,6 @@
       "onboard_time": 1773673704,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68026,
-      "num": 68026,
-      "word": "不挑食 感观度低",
-      "onboard_time": 1773676641,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 56041,
@@ -227,7 +243,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 43772,
+      "raw_hot": 44280,
       "num": 46456,
       "word": "伊朗打击美军阿联酋基地弹药库",
       "onboard_time": 1773679279,
@@ -371,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30621,
+      "num": 42870,
+      "word": "T1怎么输的",
+      "onboard_time": 1773671243,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 30406,
       "num": 46268,
       "word": "丁禹兮空降",
@@ -393,6 +417,14 @@
       "onboard_time": 1773673404,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27798,
+      "num": 42804,
+      "word": "极氪8X",
+      "onboard_time": 1773669441,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 15658,

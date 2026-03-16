@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773681061140,
+  "endTime": 1773682505407,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1773585567,
       "rank": 6,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1082922,
+      "num": 1082922,
+      "word": "Bin 外战看BLG",
+      "onboard_time": 1773681317,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 1082350,
@@ -7067,6 +7075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372157,
+      "num": 397103,
+      "word": "BLG战胜BFX",
+      "onboard_time": 1773680898,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 372091,
       "num": 655621,
       "word": "白鹿别把白敬亭扇感冒了",
@@ -9561,6 +9577,14 @@
       "onboard_time": 1772967860,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289918,
+      "num": 289918,
+      "word": "管泽元",
+      "onboard_time": 1773681317,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 289133,
@@ -17089,14 +17113,6 @@
       "onboard_time": 1773129145,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151944,
-      "num": 151944,
-      "word": "BLG战胜BFX",
-      "onboard_time": 1773680898,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 151895,
@@ -29523,6 +29539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83281,
+      "num": 83281,
+      "word": "不挑食 感观度低",
+      "onboard_time": 1773676641,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83230,
       "num": 89627,
       "word": "如何把一家人情绪价值都拉满",
@@ -33987,14 +34011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 68026,
-      "num": 68026,
-      "word": "不挑食 感观度低",
-      "onboard_time": 1773676641,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 67995,
       "num": 67995,
       "word": "冷柜里的牛奶不一定是巴氏奶",
@@ -38219,6 +38235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44280,
+      "num": 46456,
+      "word": "伊朗打击美军阿联酋基地弹药库",
+      "onboard_time": 1773679279,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44264,
       "num": 772432,
       "word": "十五五这四类人群直接受益",
@@ -38289,14 +38313,6 @@
       "onboard_time": 1772559378,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 43772,
-      "num": 46456,
-      "word": "伊朗打击美军阿联酋基地弹药库",
-      "onboard_time": 1773679279,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 43740,
