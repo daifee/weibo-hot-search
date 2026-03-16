@@ -1,0 +1,410 @@
+{
+  "runTime": 1773688501870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 59814,
+        "num": 59814,
+        "word": "美宜佳被曝光后半小时无一人进店",
+        "onboard_time": 1773670942,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59665,
+        "num": 59665,
+        "word": "Bin 外战看BLG",
+        "onboard_time": 1773681317,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10081,
+        "num": 58770,
+        "word": "奋进十五五你会看到这样的中国",
+        "onboard_time": 1773670644,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58401,
+        "num": 58401,
+        "word": "管泽元",
+        "onboard_time": 1773681317,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56419,
+        "num": 56419,
+        "word": "爱吃薯片的人天塌了",
+        "onboard_time": 1773652225,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47280,
+        "num": 47280,
+        "word": "BLG战胜BFX",
+        "onboard_time": 1773680898,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46606,
+        "num": 46606,
+        "word": "胖东来169元1克拉方糖戒指再上架",
+        "onboard_time": 1773672146,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45784,
+        "num": 45784,
+        "word": "伊朗打击美军阿联酋基地弹药库",
+        "onboard_time": 1773679279,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39876,
+        "num": 39876,
+        "word": "租客装修后退房房东让恢复成毛坯",
+        "onboard_time": 1773676821,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33462,
+        "num": 33462,
+        "word": "永辉公开喊话山姆",
+        "onboard_time": 1773670883,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45229,
+        "num": 33118,
+        "word": "因为瞿颖盒马的菠菜都标上英文了",
+        "onboard_time": 1773666804,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40628,
+        "num": 32964,
+        "word": "逐玉",
+        "onboard_time": 1773656302,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32422,
+        "num": 32422,
+        "word": "鹿哈毛肚事件获商家退款消费者发声",
+        "onboard_time": 1773671124,
+        "rank": 12,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 31496,
+        "num": 31496,
+        "word": "BLG中上",
+        "onboard_time": 1773675323,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28181,
+        "num": 28181,
+        "word": "伊朗发起第56波打击",
+        "onboard_time": 1773675981,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30867,
+        "num": 27809,
+        "word": "瞿颖好大的雨啊",
+        "onboard_time": 1773665725,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27255,
+        "num": 27255,
+        "word": "邓凯演技",
+        "onboard_time": 1773676283,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24131,
+        "num": 24131,
+        "word": "BLG对战BFX",
+        "onboard_time": 1773673163,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23971,
+        "num": 23971,
+        "word": "张凌赫 导演你管管她",
+        "onboard_time": 1773664044,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21322,
+        "num": 23576,
+        "word": "赵丽颖 电影",
+        "onboard_time": 1773675202,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29093,
+        "num": 23533,
+        "word": "42岁女子从不抽烟确诊肺癌晚期",
+        "onboard_time": 1773666562,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23487,
+        "num": 23487,
+        "word": "消耗战之下伊朗亮出反击新手段",
+        "onboard_time": 1773673404,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22670,
+        "num": 22670,
+        "word": "18岁女孩腹中肿块里还有24颗牙齿",
+        "onboard_time": 1773664463,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20997,
+        "num": 20997,
+        "word": "入职未满1年怀孕请假被拒获赔10万",
+        "onboard_time": 1773672146,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19852,
+        "num": 19852,
+        "word": "伊朗称逮捕500名间谍",
+        "onboard_time": 1773664223,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19819,
+        "num": 19819,
+        "word": "不挑食 感观度低",
+        "onboard_time": 1773676641,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19702,
+        "num": 19702,
+        "word": "樊振东说准备好迈出新的步伐",
+        "onboard_time": 1773680657,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19183,
+        "num": 19183,
+        "word": "逐玉 我又贪了",
+        "onboard_time": 1773683776,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18659,
+        "num": 18659,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1773636623,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18182,
+        "num": 18182,
+        "word": "AirPodsMax2发布",
+        "onboard_time": 1773668844,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18096,
+        "num": 18096,
+        "word": "周五晚高疯",
+        "onboard_time": 1773687133,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17145,
+        "num": 17145,
+        "word": "KPL福建靠谱男人",
+        "onboard_time": 1773673525,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16929,
+        "num": 16929,
+        "word": "马斯克5万美金小屋简陋似仓库",
+        "onboard_time": 1773672504,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16716,
+        "num": 16716,
+        "word": "女子借5万还不上履约做对方女友",
+        "onboard_time": 1773658523,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16491,
+        "num": 16491,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1773673763,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16411,
+        "num": 16411,
+        "word": "孔雪儿伟大的爱豆时期",
+        "onboard_time": 1773660143,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16342,
+        "num": 16342,
+        "word": "外交部回应中国特使赴阿巴穿梭斡旋",
+        "onboard_time": 1773667104,
+        "rank": 36,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 16123,
+        "num": 16123,
+        "word": "恋与深空 偷跑",
+        "onboard_time": 1773661885,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15788,
+        "num": 15788,
+        "word": "KPL老乡杯",
+        "onboard_time": 1773666983,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15484,
+        "num": 15484,
+        "word": "宇宙闪烁请注意",
+        "onboard_time": 1773686175,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15470,
+        "num": 15470,
+        "word": "伊朗成功执行第55轮打击",
+        "onboard_time": 1773667825,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15301,
+        "num": 15301,
+        "word": "坠江研究生疑留遗言曾遭导师训斥",
+        "onboard_time": 1773679519,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14744,
+        "num": 15298,
+        "word": "315塌房全总结",
+        "onboard_time": 1773658763,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14696,
+        "num": 15296,
+        "word": "中方反对美方单边的301调查",
+        "onboard_time": 1773678978,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14567,
+        "num": 15288,
+        "word": "宋威龙私底下烟酒都不来",
+        "onboard_time": 1773661944,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14558,
+        "num": 15283,
+        "word": "丁禹兮空降",
+        "onboard_time": 1773674424,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14149,
+        "num": 15281,
+        "word": "英雄联盟全球先锋赛",
+        "onboard_time": 1773674243,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13775,
+        "num": 15275,
+        "word": "中美就一些议题取得初步共识",
+        "onboard_time": 1773668962,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13687,
+        "num": 15270,
+        "word": "极氪8X",
+        "onboard_time": 1773669441,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 13016,
+        "num": 15265,
+        "word": "盗版逐玉PDF剧本疯传",
+        "onboard_time": 1773679938,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一口水井一种信念#"
+    }
+  }
+}
