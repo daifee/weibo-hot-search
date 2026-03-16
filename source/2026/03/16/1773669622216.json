@@ -1,0 +1,410 @@
+{
+  "runTime": 1773669622216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 454317,
+        "num": 1072690,
+        "word": "胖东来 打假人",
+        "onboard_time": 1773664643,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 182283,
+        "num": 799236,
+        "word": "事业单位招人岗位在海拔3614米山顶",
+        "onboard_time": 1773658823,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23895,
+        "num": 602815,
+        "word": "2026年以旧换新数据亮眼",
+        "onboard_time": 1773650845,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2023157,
+        "num": 600353,
+        "word": "一男女在公众场合实施不雅行为被抓",
+        "onboard_time": 1773667404,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 365164,
+        "num": 598258,
+        "word": "张凌赫 导演你管管她",
+        "onboard_time": 1773664044,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 597649,
+        "num": 597649,
+        "word": "爱吃薯片的人天塌了",
+        "onboard_time": 1773652225,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283872,
+        "num": 283872,
+        "word": "42岁女子从不抽烟确诊肺癌晚期",
+        "onboard_time": 1773666562,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181829,
+        "num": 280723,
+        "word": "樊振东回应转会",
+        "onboard_time": 1773658103,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149973,
+        "num": 277065,
+        "word": "手机电脑迎来涨价潮",
+        "onboard_time": 1773660863,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149633,
+        "num": 275765,
+        "word": "伊朗成功执行第55轮打击",
+        "onboard_time": 1773667825,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 724733,
+        "num": 270860,
+        "word": "因为瞿颖盒马的菠菜都标上英文了",
+        "onboard_time": 1773666804,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269840,
+        "num": 269840,
+        "word": "刚起床的素颜张柏芝",
+        "onboard_time": 1773661885,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255380,
+        "num": 255380,
+        "word": "18岁女孩腹中肿块里还有24颗牙齿",
+        "onboard_time": 1773664463,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233222,
+        "num": 233222,
+        "word": "逐玉",
+        "onboard_time": 1773656302,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200745,
+        "num": 200745,
+        "word": "孔雪儿伟大的爱豆时期",
+        "onboard_time": 1773660143,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147389,
+        "num": 180569,
+        "word": "恋与深空 偷跑",
+        "onboard_time": 1773661885,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 413553,
+        "num": 180552,
+        "word": "瞿颖好大的雨啊",
+        "onboard_time": 1773665725,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180254,
+        "num": 180254,
+        "word": "发现虾腿有肉以后",
+        "onboard_time": 1773656662,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170605,
+        "num": 170605,
+        "word": "315塌房全总结",
+        "onboard_time": 1773658763,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168966,
+        "num": 168966,
+        "word": "女子借5万还不上履约做对方女友",
+        "onboard_time": 1773658523,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321049,
+        "num": 160000,
+        "word": "周冬雨 刘昊然",
+        "onboard_time": 1773636623,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263291,
+        "num": 155365,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1773621382,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144754,
+        "num": 144754,
+        "word": "长沙警方通报一起寻衅滋事案",
+        "onboard_time": 1773666864,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165667,
+        "num": 142506,
+        "word": "孙燕姿胖了",
+        "onboard_time": 1773658703,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136770,
+        "num": 136770,
+        "word": "张凌赫田曦薇浴池戏",
+        "onboard_time": 1773655104,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106208,
+        "num": 109786,
+        "word": "AirPodsMax2发布",
+        "onboard_time": 1773668844,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109240,
+        "num": 109240,
+        "word": "范丞丞开始减肥第一天",
+        "onboard_time": 1773659122,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107947,
+        "num": 107947,
+        "word": "求逐玉加更",
+        "onboard_time": 1773669203,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102957,
+        "num": 102957,
+        "word": "教体局通报女孩遭殴打不予立案原因",
+        "onboard_time": 1773655223,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 104580,
+        "num": 102645,
+        "word": "长玉说和离 谢征吐血",
+        "onboard_time": 1773659661,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100116,
+        "num": 100116,
+        "word": "极氪8X售价",
+        "onboard_time": 1773668183,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 95868,
+        "num": 95868,
+        "word": "樊振东下赛季加盟杜塞尔多夫",
+        "onboard_time": 1773657442,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93903,
+        "num": 93903,
+        "word": "吴敬平回应樊振东转会",
+        "onboard_time": 1773667765,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92831,
+        "num": 92831,
+        "word": "深圳公积金新规4月施行",
+        "onboard_time": 1773669084,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92663,
+        "num": 92663,
+        "word": "伊朗称逮捕500名间谍",
+        "onboard_time": 1773664223,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86136,
+        "num": 86136,
+        "word": "21万买新车提车一个月锈迹斑斑",
+        "onboard_time": 1773667885,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85547,
+        "num": 85547,
+        "word": "重庆万州马拉松冠军冲线被拦截",
+        "onboard_time": 1773668425,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82945,
+        "num": 82945,
+        "word": "女子买12克乐事薯片打开仅一片",
+        "onboard_time": 1773663201,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41275,
+        "num": 82684,
+        "word": "林一你咋了",
+        "onboard_time": 1773661764,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53310,
+        "num": 82633,
+        "word": "2岁娃被忘车内反锁1小时",
+        "onboard_time": 1773668844,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82617,
+        "num": 82617,
+        "word": "KPL老乡杯",
+        "onboard_time": 1773666983,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81461,
+        "num": 81461,
+        "word": "王一栩 虞书欣演过最好的都是我给的",
+        "onboard_time": 1773655163,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80809,
+        "num": 80809,
+        "word": "极氪8X",
+        "onboard_time": 1773669441,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 78706,
+        "num": 78706,
+        "word": "中国援助伊朗人道主义物资完成交接",
+        "onboard_time": 1773663264,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78158,
+        "num": 78158,
+        "word": "26岁患癌女子冒生命危险坚持备孕",
+        "onboard_time": 1773649227,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78135,
+        "num": 78135,
+        "word": "李诞说现在失业的人可能是一件好事",
+        "onboard_time": 1773641542,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76423,
+        "num": 76423,
+        "word": "瑞幸的钱被外卖偷了",
+        "onboard_time": 1773666924,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76420,
+        "num": 76420,
+        "word": "黄亦玫你又去找庄国栋了吗",
+        "onboard_time": 1773661641,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75294,
+        "num": 75294,
+        "word": "夏以昼 新日卡",
+        "onboard_time": 1773665423,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75084,
+        "num": 75084,
+        "word": "驻法兰克福总领馆发文肯定樊振东",
+        "onboard_time": 1773669084,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#带着总书记的嘱托一起出发#"
+    }
+  }
+}
