@@ -1,6 +1,6 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773774809005,
+  "endTime": 1773776102133,
   "band_list": [
     {
       "raw_hot": 320001,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24418,
+      "num": 87830,
+      "word": "小巷人家",
+      "onboard_time": 1773764422,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23452,
       "num": 87981,
       "word": "美国夫妻藏匿190具遗体致腐烂获刑",
@@ -403,15 +411,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 22725,
-      "num": 87830,
-      "word": "小巷人家",
-      "onboard_time": 1773764422,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 21712,
+      "raw_hot": 22008,
       "num": 87799,
       "word": "逐玉",
       "onboard_time": 1773765678,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 15702,
-      "num": 19214,
+      "num": 21819,
       "word": "时装周瞩目艺人TOP10",
       "onboard_time": 1773769995,
       "rank": 35,
@@ -436,26 +436,26 @@
     },
     {
       "raw_hot": 12949,
-      "num": 19193,
+      "num": 21751,
       "word": "黄子弘凡得知能在鸟巢开唱后没信",
       "onboard_time": 1773770716,
       "rank": 40,
       "category": "演出"
     },
     {
-      "raw_hot": 12134,
-      "num": 19190,
-      "word": "电影挽救计划",
-      "onboard_time": 1773772515,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 11239,
-      "num": 19177,
+      "raw_hot": 12595,
+      "num": 21790,
       "word": "周深献唱挽救计划主题曲",
       "onboard_time": 1773774616,
       "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 12134,
+      "num": 21765,
+      "word": "电影挽救计划",
+      "onboard_time": 1773772515,
+      "rank": 41,
       "category": "电影"
     }
   ],
