@@ -1,6 +1,6 @@
 {
   "startTime": 1773681061140,
-  "endTime": 1773705161081,
+  "endTime": 1773715232635,
   "band_list": [
     {
       "raw_hot": 1082922,
@@ -11,12 +11,84 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 813985,
+      "num": 1130237,
+      "word": "逐玉 韩国",
+      "onboard_time": 1773713360,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 674618,
+      "num": 803260,
+      "word": "入职未满1年怀孕请假被拒获赔10万",
+      "onboard_time": 1773672146,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495606,
+      "num": 495606,
+      "word": "大爷撞法拉利掏163元和4棵菜赔偿",
+      "onboard_time": 1773710300,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 478843,
+      "num": 370772,
+      "word": "美军被曝对伊朗退出选项",
+      "onboard_time": 1773709279,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 469998,
+      "num": 195718,
+      "word": "紫薯精不吃刘文祥改大理寺了",
+      "onboard_time": 1773714500,
+      "rank": 10,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 390250,
+      "num": 390250,
+      "word": "爸爸买彩票中748万不告诉孩子",
+      "onboard_time": 1773703519,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372157,
       "num": 397103,
       "word": "BLG战胜BFX",
       "onboard_time": 1773680898,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 342578,
+      "num": 342578,
+      "word": "洛克王国世界预注册",
+      "onboard_time": 1773713360,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 324349,
+      "num": 146543,
+      "word": "睡得晚和睡得少哪个更伤身体",
+      "onboard_time": 1773713000,
+      "rank": 20,
+      "category": "健康医疗,健康医疗"
+    },
+    {
+      "raw_hot": 293148,
+      "num": 194210,
+      "word": "20岁男子感染HIV后HPV反复发作",
+      "onboard_time": 1773711379,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289918,
@@ -27,12 +99,52 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 280799,
+      "num": 191384,
+      "word": "美国陷入孤立",
+      "onboard_time": 1773707122,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 274012,
       "num": 123557,
       "word": "BLG中上",
       "onboard_time": 1773675323,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 269070,
+      "num": 269070,
+      "word": "吴映洁说期待大侦探返场",
+      "onboard_time": 1773711022,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 258384,
+      "num": 190477,
+      "word": "邓凯跑了8年龙套",
+      "onboard_time": 1773709461,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237316,
+      "num": 939713,
+      "word": "最佳睡眠到底是几个小时",
+      "onboard_time": 1773703879,
+      "rank": 0,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 235853,
+      "num": 675339,
+      "word": "胖东来169元1克拉方糖戒指再上架",
+      "onboard_time": 1773672146,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231487,
@@ -51,12 +163,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182420,
-      "num": 675339,
-      "word": "胖东来169元1克拉方糖戒指再上架",
-      "onboard_time": 1773672146,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 196582,
+      "num": 196582,
+      "word": "樊长玉听见下聘成亲的反应",
+      "onboard_time": 1773707721,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187005,
+      "num": 187005,
+      "word": "甜茶的面相变了",
+      "onboard_time": 1773711080,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179956,
+      "num": 179956,
+      "word": "AppleWatch国行上线房颤功能",
+      "onboard_time": 1773713420,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 175364,
@@ -65,6 +193,14 @@
       "onboard_time": 1773676283,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168707,
+      "num": 168707,
+      "word": "因为瞿颖盒马的菠菜都标上英文了",
+      "onboard_time": 1773666804,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 167954,
@@ -83,12 +219,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145630,
-      "num": 121531,
-      "word": "因为瞿颖盒马的菠菜都标上英文了",
-      "onboard_time": 1773666804,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 159195,
+      "num": 159195,
+      "word": "永辉公开喊话山姆",
+      "onboard_time": 1773670883,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146562,
+      "num": 146562,
+      "word": "孔雪儿 谁说内娱爱豆不会演戏的",
+      "onboard_time": 1773709342,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146517,
+      "num": 146517,
+      "word": "KTV员工酒后死亡家属诉共饮人被驳回",
+      "onboard_time": 1773711981,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138408,
+      "num": 138408,
+      "word": "90岁老人与妻子告别后几秒钟去世",
+      "onboard_time": 1773710841,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137929,
@@ -99,12 +259,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135690,
+      "num": 135690,
+      "word": "双氧水漂白鸡爪名单",
+      "onboard_time": 1773714381,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132720,
+      "num": 132720,
+      "word": "当风象妈生了个水象闺女",
+      "onboard_time": 1773712340,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131237,
       "num": 120590,
       "word": "逐玉",
       "onboard_time": 1773656302,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131086,
+      "num": 131086,
+      "word": "单位称已有人致电咨询山顶岗位",
+      "onboard_time": 1773713781,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127088,
@@ -115,12 +299,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118525,
-      "num": 118525,
-      "word": "永辉公开喊话山姆",
-      "onboard_time": 1773670883,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 119966,
+      "num": 119966,
+      "word": "六国发布联合声明",
+      "onboard_time": 1773703038,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102147,
@@ -139,12 +323,44 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 101591,
+      "num": 101591,
+      "word": "马拉松冠军冲刺时被强行带离赛道",
+      "onboard_time": 1773707661,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100019,
+      "num": 100019,
+      "word": "内马尔回应落选",
+      "onboard_time": 1773708380,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99965,
       "num": 99965,
       "word": "瞿颖好大的雨啊",
       "onboard_time": 1773665725,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90121,
+      "num": 90121,
+      "word": "42岁女子从不抽烟确诊肺癌晚期",
+      "onboard_time": 1773666562,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89448,
+      "num": 89448,
+      "word": "美国驻伊拉克大使馆遭袭起火",
+      "onboard_time": 1773708142,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83281,
@@ -163,6 +379,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77769,
+      "num": 77769,
+      "word": "张凌赫回复谢征",
+      "onboard_time": 1773704361,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 76251,
+      "num": 65035,
+      "word": "网传张凌赫主演许你星河千里",
+      "onboard_time": 1773704719,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72073,
       "num": 72073,
       "word": "张凌赫 导演你管管她",
@@ -171,12 +403,76 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71178,
+      "num": 71178,
+      "word": "男子泳池溺亡女儿称10分钟无人救",
+      "onboard_time": 1773715102,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69738,
       "num": 69738,
       "word": "截瘫女子植入脑机1年后能刷手机了",
       "onboard_time": 1773673704,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65947,
+      "num": 65947,
+      "word": "关于上班是个很奇怪的事情",
+      "onboard_time": 1773713661,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 62948,
+      "num": 62948,
+      "word": "里巴回归郑钦文团队",
+      "onboard_time": 1773715041,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62492,
+      "num": 62492,
+      "word": "铁扇公主vs巴掌男团",
+      "onboard_time": 1773714680,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61728,
+      "num": 61728,
+      "word": "AirPodsMax2按表冠拍照",
+      "onboard_time": 1773712820,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 60486,
+      "num": 60486,
+      "word": "AirPodsMax2发布",
+      "onboard_time": 1773668844,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 56974,
+      "num": 56974,
+      "word": "伊朗战术策略已准备多年",
+      "onboard_time": 1773708561,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 56637,
+      "num": 62666,
+      "word": "On卡蜜尔",
+      "onboard_time": 1773714800,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 56041,
@@ -195,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54930,
-      "num": 54930,
-      "word": "42岁女子从不抽烟确诊肺癌晚期",
-      "onboard_time": 1773666562,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54922,
       "num": 54922,
       "word": "周冬雨 刘昊然",
@@ -217,14 +505,6 @@
       "onboard_time": 1773673643,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 53840,
-      "num": 53840,
-      "word": "入职未满1年怀孕请假被拒获赔10万",
-      "onboard_time": 1773672146,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53047,
@@ -323,14 +603,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 36523,
-      "num": 46358,
-      "word": "AirPodsMax2发布",
-      "onboard_time": 1773668844,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 36437,
       "num": 46353,
       "word": "樊振东说准备好迈出新的步伐",
@@ -363,22 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35488,
-      "num": 939713,
-      "word": "最佳睡眠到底是几个小时",
-      "onboard_time": 1773703879,
-      "rank": 0,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 35117,
-      "num": 29645,
-      "word": "六国发布联合声明",
-      "onboard_time": 1773703038,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 34763,
       "num": 46314,
       "word": "发现虾腿有肉以后",
@@ -393,14 +649,6 @@
       "onboard_time": 1773658703,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 33060,
-      "num": 33060,
-      "word": "爸爸买彩票中748万不告诉孩子",
-      "onboard_time": 1773703519,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32868,
@@ -420,7 +668,7 @@
     },
     {
       "raw_hot": 31749,
-      "num": 549335,
+      "num": 678000,
       "word": "奋进十五五你会看到这样的中国",
       "onboard_time": 1773670644,
       "rank": 2,
@@ -499,28 +747,12 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 29208,
-      "num": 29208,
-      "word": "网传张凌赫主演许你星河千里",
-      "onboard_time": 1773704719,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28154,
       "num": 25519,
       "word": "中美讨论了哪些议题",
       "onboard_time": 1773703759,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28092,
-      "num": 25518,
-      "word": "张凌赫回复谢征",
-      "onboard_time": 1773704361,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 27798,
@@ -697,6 +929,14 @@
       "onboard_time": 1773669802,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 14946,
+      "num": 68059,
+      "word": "孑然尔李门槛齐本宫你们坐一桌吧",
+      "onboard_time": 1773714980,
+      "rank": 39,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773705161081,
+  "endTime": 1773715232635,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813985,
+      "num": 1130237,
+      "word": "逐玉 韩国",
+      "onboard_time": 1773713360,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 803369,
       "num": 995327,
       "word": "刘文祥刚爆火就塌房",
@@ -345,6 +353,14 @@
       "onboard_time": 1773657442,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 674618,
+      "num": 803260,
+      "word": "入职未满1年怀孕请假被拒获赔10万",
+      "onboard_time": 1773672146,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 674004,
@@ -627,6 +643,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 495606,
+      "num": 495606,
+      "word": "大爷撞法拉利掏163元和4棵菜赔偿",
+      "onboard_time": 1773710300,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492575,
       "num": 1078812,
       "word": "刘文祥致歉",
@@ -659,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478843,
+      "num": 370772,
+      "word": "美军被曝对伊朗退出选项",
+      "onboard_time": 1773709279,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 472381,
       "num": 348564,
       "word": "坠江研究生离世前上完最后一个夜班",
@@ -673,6 +705,14 @@
       "onboard_time": 1773530596,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 469998,
+      "num": 195718,
+      "word": "紫薯精不吃刘文祥改大理寺了",
+      "onboard_time": 1773714500,
+      "rank": 10,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 467809,
@@ -891,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390250,
+      "num": 390250,
+      "word": "爸爸买彩票中748万不告诉孩子",
+      "onboard_time": 1773703519,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389079,
       "num": 389079,
       "word": "坠江身亡研究生离世前疑似发布遗言",
@@ -1091,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342578,
+      "num": 342578,
+      "word": "洛克王国世界预注册",
+      "onboard_time": 1773713360,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 336370,
       "num": 257308,
       "word": "花少 花儿与中老年",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1773567142,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324349,
+      "num": 146543,
+      "word": "睡得晚和睡得少哪个更伤身体",
+      "onboard_time": 1773713000,
+      "rank": 20,
+      "category": "健康医疗,健康医疗"
     },
     {
       "raw_hot": 323988,
@@ -1403,6 +1467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 293148,
+      "num": 194210,
+      "word": "20岁男子感染HIV后HPV反复发作",
+      "onboard_time": 1773711379,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289918,
       "num": 289918,
       "word": "管泽元",
@@ -1449,6 +1521,14 @@
       "onboard_time": 1773574102,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280799,
+      "num": 191384,
+      "word": "美国陷入孤立",
+      "onboard_time": 1773707122,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 280412,
@@ -1523,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269070,
+      "num": 269070,
+      "word": "吴映洁说期待大侦探返场",
+      "onboard_time": 1773711022,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266596,
       "num": 266596,
       "word": "官方通报鹿哈带货牛肚加工环境问题",
@@ -1561,6 +1649,14 @@
       "onboard_time": 1773587605,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258384,
+      "num": 190477,
+      "word": "邓凯跑了8年龙套",
+      "onboard_time": 1773709461,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 258329,
@@ -1665,6 +1761,14 @@
       "onboard_time": 1773585926,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 237316,
+      "num": 939713,
+      "word": "最佳睡眠到底是几个小时",
+      "onboard_time": 1773703879,
+      "rank": 0,
+      "category": "科学科普"
     },
     {
       "raw_hot": 236127,
@@ -2003,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196582,
+      "num": 196582,
+      "word": "樊长玉听见下聘成亲的反应",
+      "onboard_time": 1773707721,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195902,
       "num": 202365,
       "word": "网红神药外泌体竟是三无产品",
@@ -2123,6 +2235,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 187005,
+      "num": 187005,
+      "word": "甜茶的面相变了",
+      "onboard_time": 1773711080,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186941,
       "num": 382077,
       "word": "伊朗成功执行第55轮打击",
@@ -2211,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179956,
+      "num": 179956,
+      "word": "AppleWatch国行上线房颤功能",
+      "onboard_time": 1773713420,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 178894,
       "num": 178894,
       "word": "315曝光名单梳理",
@@ -2265,14 +2393,6 @@
       "onboard_time": 1773499043,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174564,
-      "num": 374471,
-      "word": "入职未满1年怀孕请假被拒获赔10万",
-      "onboard_time": 1773672146,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173669,
@@ -2595,6 +2715,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146562,
+      "num": 146562,
+      "word": "孔雪儿 谁说内娱爱豆不会演戏的",
+      "onboard_time": 1773709342,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146517,
+      "num": 146517,
+      "word": "KTV员工酒后死亡家属诉共饮人被驳回",
+      "onboard_time": 1773711981,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145383,
       "num": 145383,
       "word": "Diable五杀",
@@ -2699,6 +2835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138408,
+      "num": 138408,
+      "word": "90岁老人与妻子告别后几秒钟去世",
+      "onboard_time": 1773710841,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138206,
       "num": 138206,
       "word": "仙逆",
@@ -2761,6 +2905,14 @@
       "onboard_time": 1773541400,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135690,
+      "num": 135690,
+      "word": "双氧水漂白鸡爪名单",
+      "onboard_time": 1773714381,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135585,
@@ -2843,6 +2995,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 132720,
+      "num": 132720,
+      "word": "当风象妈生了个水象闺女",
+      "onboard_time": 1773712340,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132424,
       "num": 128140,
       "word": "建议papi酱多请上个世纪的艺人",
@@ -2879,6 +3039,14 @@
       "num": 131102,
       "word": "丈夫拍下妻子走进催产室的身影",
       "onboard_time": 1773625161,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131086,
+      "num": 131086,
+      "word": "单位称已有人致电咨询山顶岗位",
+      "onboard_time": 1773713781,
       "rank": 25,
       "category": "民生新闻"
     },
@@ -3097,6 +3265,14 @@
       "onboard_time": 1773660383,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119966,
+      "num": 119966,
+      "word": "六国发布联合声明",
+      "onboard_time": 1773703038,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119937,
@@ -3635,6 +3811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101591,
+      "num": 101591,
+      "word": "马拉松冠军冲刺时被强行带离赛道",
+      "onboard_time": 1773707661,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101533,
       "num": 101533,
       "word": "2岁娃被忘车内反锁1小时",
@@ -3697,6 +3881,14 @@
       "onboard_time": 1773645922,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100019,
+      "num": 100019,
+      "word": "内马尔回应落选",
+      "onboard_time": 1773708380,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 99810,
@@ -4209,6 +4401,14 @@
       "onboard_time": 1773632542,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89448,
+      "num": 89448,
+      "word": "美国驻伊拉克大使馆遭袭起火",
+      "onboard_time": 1773708142,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89293,
@@ -4795,6 +4995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77769,
+      "num": 77769,
+      "word": "张凌赫回复谢征",
+      "onboard_time": 1773704361,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77581,
       "num": 77581,
       "word": "男主持回应当众殴打女主持",
@@ -4889,6 +5097,14 @@
       "onboard_time": 1773500663,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76251,
+      "num": 65035,
+      "word": "网传张凌赫主演许你星河千里",
+      "onboard_time": 1773704719,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 76207,
@@ -5115,6 +5331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71178,
+      "num": 71178,
+      "word": "男子泳池溺亡女儿称10分钟无人救",
+      "onboard_time": 1773715102,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70642,
       "num": 244345,
       "word": "私域营销5倍暴利围猎老人",
@@ -5177,6 +5401,14 @@
       "onboard_time": 1773498923,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65947,
+      "num": 65947,
+      "word": "关于上班是个很奇怪的事情",
+      "onboard_time": 1773713661,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 65211,
@@ -5243,12 +5475,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62948,
+      "num": 62948,
+      "word": "里巴回归郑钦文团队",
+      "onboard_time": 1773715041,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62492,
+      "num": 62492,
+      "word": "铁扇公主vs巴掌男团",
+      "onboard_time": 1773714680,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61737,
       "num": 76835,
       "word": "27岁女子隆鼻后鼻部大面积坏死",
       "onboard_time": 1773674843,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61728,
+      "num": 61728,
+      "word": "AirPodsMax2按表冠拍照",
+      "onboard_time": 1773712820,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 61466,
@@ -5297,6 +5553,22 @@
       "onboard_time": 1773542240,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 56974,
+      "num": 56974,
+      "word": "伊朗战术策略已准备多年",
+      "onboard_time": 1773708561,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 56637,
+      "num": 62666,
+      "word": "On卡蜜尔",
+      "onboard_time": 1773714800,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 56182,
@@ -5787,22 +6059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35488,
-      "num": 939713,
-      "word": "最佳睡眠到底是几个小时",
-      "onboard_time": 1773703879,
-      "rank": 0,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 35117,
-      "num": 29645,
-      "word": "六国发布联合声明",
-      "onboard_time": 1773703038,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33915,
       "num": 304461,
       "word": "刘文祥致歉信已不可见",
@@ -5835,14 +6091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33060,
-      "num": 33060,
-      "word": "爸爸买彩票中748万不告诉孩子",
-      "onboard_time": 1773703519,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32868,
       "num": 28464,
       "word": "怀孕流浪猫腹部紧缠绳子胎猫被勒变形",
@@ -5852,7 +6100,7 @@
     },
     {
       "raw_hot": 31749,
-      "num": 637441,
+      "num": 678000,
       "word": "奋进十五五你会看到这样的中国",
       "onboard_time": 1773670644,
       "rank": 2,
@@ -5947,14 +6195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29208,
-      "num": 29208,
-      "word": "网传张凌赫主演许你星河千里",
-      "onboard_time": 1773704719,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 29093,
       "num": 141760,
       "word": "男子称用交行信用卡4年被扣4000年费",
@@ -5985,14 +6225,6 @@
       "onboard_time": 1773703759,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28092,
-      "num": 25518,
-      "word": "张凌赫回复谢征",
-      "onboard_time": 1773704361,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 26176,
@@ -6369,6 +6601,14 @@
       "onboard_time": 1773490281,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14946,
+      "num": 68059,
+      "word": "孑然尔李门槛齐本宫你们坐一桌吧",
+      "onboard_time": 1773714980,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 14503,
