@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773748205279,
+  "endTime": 1773748994111,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -424,6 +424,14 @@
       "word": "经纪人回应瞿颖翻红",
       "onboard_time": 1773641481,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 688005,
+      "num": 135710,
+      "word": "郑恺苗苗公开三胎小女儿",
+      "onboard_time": 1773747802,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -947,6 +955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 457038,
+      "num": 136324,
+      "word": "公安介入调查高中生过斑马线被撞亡",
+      "onboard_time": 1773747200,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456221,
       "num": 386347,
       "word": "89岁老人过马路半路变红灯被撞身亡",
@@ -1076,7 +1092,7 @@
     },
     {
       "raw_hot": 420935,
-      "num": 219216,
+      "num": 1066913,
       "word": "曝小巷人家2以庄图南李佳为主视角",
       "onboard_time": 1773746660,
       "rank": 5,
@@ -1147,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392012,
+      "num": 209104,
+      "word": "以色列称已死的拉里贾尼账号更新",
+      "onboard_time": 1773744320,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 391753,
       "num": 391753,
       "word": "一个34岁研究生上岸后的猝死",
@@ -1179,12 +1203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 387913,
-      "num": 209104,
-      "word": "以色列称已死的拉里贾尼账号更新",
-      "onboard_time": 1773744320,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 386685,
+      "num": 799099,
+      "word": "一个烟头夺走22条生命谁该担责",
+      "onboard_time": 1773744621,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 384685,
@@ -1209,14 +1233,6 @@
       "onboard_time": 1773563481,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 382995,
-      "num": 799099,
-      "word": "一个烟头夺走22条生命谁该担责",
-      "onboard_time": 1773744621,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 382921,
@@ -1388,7 +1404,7 @@
     },
     {
       "raw_hot": 353636,
-      "num": 151845,
+      "num": 170746,
       "word": "伊朗这次不想忍了",
       "onboard_time": 1773738080,
       "rank": 28,
@@ -1545,14 +1561,6 @@
       "onboard_time": 1773655104,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325920,
-      "num": 111356,
-      "word": "公安介入调查高中生过斑马线被撞亡",
-      "onboard_time": 1773747200,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 325159,
@@ -2235,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245656,
+      "num": 245656,
+      "word": "OPPO发布会",
+      "onboard_time": 1773747382,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 244977,
       "num": 173875,
       "word": "张檬想给孩子喂母乳到2岁",
@@ -2417,14 +2433,6 @@
       "onboard_time": 1773721343,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 222300,
-      "num": 222300,
-      "word": "OPPO发布会",
-      "onboard_time": 1773747382,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 221901,
@@ -2625,6 +2633,14 @@
       "onboard_time": 1773730761,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204216,
+      "num": 146139,
+      "word": "坠江身亡研究生导师有多个头衔",
+      "onboard_time": 1773744560,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204084,
@@ -3163,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163340,
+      "num": 163340,
+      "word": "中国女足1比2澳大利亚",
+      "onboard_time": 1773747982,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163229,
       "num": 136205,
       "word": "金道勋 ana",
@@ -3283,12 +3307,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155196,
-      "num": 135710,
-      "word": "郑恺苗苗公开三胎小女儿",
-      "onboard_time": 1773747802,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 156393,
+      "num": 156393,
+      "word": "马斯克对所有人工智能公司放狠话",
+      "onboard_time": 1773747022,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 155144,
@@ -3473,14 +3497,6 @@
       "onboard_time": 1773735862,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146139,
-      "num": 146139,
-      "word": "坠江身亡研究生导师有多个头衔",
-      "onboard_time": 1773744560,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145836,
@@ -3771,6 +3787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134888,
+      "num": 129591,
+      "word": "齐旻是邓凯临时救场的",
+      "onboard_time": 1773746781,
+      "rank": 27,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 134850,
       "num": 116036,
       "word": "伊朗攻击美战机支援基地",
@@ -3819,6 +3843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133775,
+      "num": 105899,
+      "word": "30岁小伙确诊红斑狼疮",
+      "onboard_time": 1773747262,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133288,
       "num": 105876,
       "word": "春晚与周深同台女孩靠输血维持生命",
@@ -3859,12 +3891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132047,
+      "num": 132047,
+      "word": "唐嫣杨晨 真闺蜜N搭",
+      "onboard_time": 1773747982,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132038,
       "num": 132038,
       "word": "蒯曼亚军",
       "onboard_time": 1773575543,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131754,
+      "num": 131754,
+      "word": "谢征樊长玉亲的好响",
+      "onboard_time": 1773747742,
+      "rank": 35,
+      "category": "综艺,剧集"
     },
     {
       "raw_hot": 131584,
@@ -3905,14 +3953,6 @@
       "onboard_time": 1773736461,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 129591,
-      "num": 129591,
-      "word": "齐旻是邓凯临时救场的",
-      "onboard_time": 1773746781,
-      "rank": 27,
-      "category": "剧集,综艺"
     },
     {
       "raw_hot": 129459,
@@ -4515,14 +4555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109665,
-      "num": 141428,
-      "word": "马斯克对所有人工智能公司放狠话",
-      "onboard_time": 1773747022,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 109280,
       "num": 109280,
       "word": "李昀锐宋雨琦晚宴表演",
@@ -4721,14 +4753,6 @@
       "onboard_time": 1773488781,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105899,
-      "num": 105899,
-      "word": "30岁小伙确诊红斑狼疮",
-      "onboard_time": 1773747262,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105471,
@@ -5643,14 +5667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89157,
-      "num": 89157,
-      "word": "中国女足1比2澳大利亚",
-      "onboard_time": 1773747982,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88870,
       "num": 88870,
       "word": "日媒炒作中国卫星每10分钟过一次日本",
@@ -6027,6 +6043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84081,
+      "num": 84081,
+      "word": "广东00后女生公司估值达110亿",
+      "onboard_time": 1773739879,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83789,
       "num": 83789,
       "word": "敖瑞鹏 从考古的全世界路过",
@@ -6115,28 +6139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81942,
-      "num": 81942,
-      "word": "谢征樊长玉亲的好响",
-      "onboard_time": 1773747742,
-      "rank": 35,
-      "category": "综艺,剧集"
-    },
-    {
       "raw_hot": 81656,
       "num": 81656,
       "word": "门店回应vivo涨价",
       "onboard_time": 1773645741,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 81535,
-      "num": 81535,
-      "word": "广东00后女生公司估值达110亿",
-      "onboard_time": 1773739879,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81377,
@@ -6539,8 +6547,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75929,
-      "num": 75929,
+      "raw_hot": 76064,
+      "num": 76064,
       "word": "公司招聘写不建议大龄报名引争议",
       "onboard_time": 1773746602,
       "rank": 41,
@@ -6561,6 +6569,14 @@
       "onboard_time": 1773743362,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 75386,
+      "num": 75386,
+      "word": "两男子备迷药刀具专盯豪车女车主",
+      "onboard_time": 1773748642,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75379,
@@ -6875,20 +6891,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69142,
+      "num": 69142,
+      "word": "不要把一切都看得这么严重",
+      "onboard_time": 1773748582,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68929,
       "num": 149589,
       "word": "76岁奶奶送孙子入伍这一幕看泪目了",
       "onboard_time": 1773717020,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68381,
-      "num": 68381,
-      "word": "唐嫣杨晨 真闺蜜N搭",
-      "onboard_time": 1773747982,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 68165,
@@ -6963,12 +6979,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66199,
+      "num": 66199,
+      "word": "AI时代文科生比理科生更吃香",
+      "onboard_time": 1773748882,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 65947,
       "num": 65947,
       "word": "关于上班是个很奇怪的事情",
       "onboard_time": 1773713661,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65872,
+      "num": 65872,
+      "word": "原来labubu早就出现在搞笑一家人了",
+      "onboard_time": 1773748941,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 65799,
@@ -7657,6 +7689,14 @@
       "onboard_time": 1773490042,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 40399,
+      "num": 66382,
+      "word": "杨紫在罗马许愿池报身份证号",
+      "onboard_time": 1773748822,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 40359,
