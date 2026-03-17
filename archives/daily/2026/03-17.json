@@ -1,6 +1,6 @@
 {
   "startTime": 1773681061140,
-  "endTime": 1773724233768,
+  "endTime": 1773727641509,
   "band_list": [
     {
       "raw_hot": 1082922,
@@ -123,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 463719,
+      "num": 215784,
+      "word": "易烊千玺新惊喜预热",
+      "onboard_time": 1773725241,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391753,
       "num": 391753,
       "word": "一个34岁研究生上岸后的猝死",
@@ -163,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351211,
+      "num": 213697,
+      "word": "公司把猫裁了",
+      "onboard_time": 1773722184,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345491,
       "num": 1055278,
       "word": "仅收280元牙医回应女孩将复查3次",
@@ -185,6 +201,14 @@
       "onboard_time": 1773716840,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 294902,
+      "num": 1047184,
+      "word": "山姆多次被零售企业控诉",
+      "onboard_time": 1773725002,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293148,
@@ -259,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255031,
+      "num": 255031,
+      "word": "伊朗对以色列心脏地带展开袭击",
+      "onboard_time": 1773723502,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 253024,
       "num": 253024,
       "word": "当公交车突然没了台阶",
@@ -331,6 +363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 217623,
+      "num": 217623,
+      "word": "被美国架在火上的日本",
+      "onboard_time": 1773725303,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207615,
       "num": 460734,
       "word": "租客装修后退房房东让恢复成毛坯",
@@ -385,14 +425,6 @@
       "onboard_time": 1773716301,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 176601,
-      "num": 176601,
-      "word": "公司把猫裁了",
-      "onboard_time": 1773722184,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 175364,
@@ -491,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139136,
+      "num": 216912,
+      "word": "汕头自建房致12死火灾系使用蚊香引发",
+      "onboard_time": 1773721102,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138408,
       "num": 138408,
       "word": "90岁老人与妻子告别后几秒钟去世",
@@ -515,12 +555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134609,
+      "num": 134609,
+      "word": "周迅金色长发",
+      "onboard_time": 1773724462,
+      "rank": 22,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 132720,
       "num": 132720,
       "word": "当风象妈生了个水象闺女",
       "onboard_time": 1773712340,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132547,
+      "num": 132547,
+      "word": "鹿哈方称将追究工厂责任",
+      "onboard_time": 1773724223,
+      "rank": 23,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 131237,
@@ -635,14 +691,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 103935,
-      "num": 103935,
-      "word": "伊朗对以色列心脏地带展开袭击",
-      "onboard_time": 1773723502,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 102147,
       "num": 102147,
       "word": "本周做什么都顺的星座",
@@ -723,16 +771,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92306,
-      "num": 92306,
-      "word": "汕头自建房致12死火灾系使用蚊香引发",
-      "onboard_time": 1773721102,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92228,
-      "num": 92228,
+      "num": 213052,
       "word": "湖人战胜火箭",
       "onboard_time": 1773721102,
       "rank": 49,
@@ -755,8 +795,24 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88210,
+      "num": 88210,
+      "word": "小巷人家第二部",
+      "onboard_time": 1773726141,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 87596,
+      "num": 87596,
+      "word": "养QQ宠物的那批人回来了",
+      "onboard_time": 1773726623,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87379,
-      "num": 87379,
+      "num": 216389,
       "word": "樊振东转发杜塞官宣发文",
       "onboard_time": 1773724043,
       "rank": 45,
@@ -771,12 +827,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85531,
+      "num": 85531,
+      "word": "日媒炒作中国卫星每10分钟过一次日本",
+      "onboard_time": 1773725602,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83281,
       "num": 83281,
       "word": "不挑食 感观度低",
       "onboard_time": 1773676641,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82485,
+      "num": 85566,
+      "word": "81岁老人为外籍外孙女寻意定监护人",
+      "onboard_time": 1773727161,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82336,
@@ -801,6 +873,14 @@
       "onboard_time": 1773717502,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80905,
+      "num": 80905,
+      "word": "鸿蒙系统6到底是难用够用还是好用",
+      "onboard_time": 1773726502,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 80765,
@@ -843,12 +923,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75379,
+      "num": 75379,
+      "word": "怦然心动20岁冬季定档",
+      "onboard_time": 1773725842,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74447,
+      "num": 74447,
+      "word": "好工作比好恋人难找",
+      "onboard_time": 1773725602,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73469,
       "num": 73469,
       "word": "iPhone19e或有高刷",
       "onboard_time": 1773716840,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 72562,
+      "num": 72562,
+      "word": "甜茶据称无缘奥斯卡影帝后彻底崩溃",
+      "onboard_time": 1773724403,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 72073,
@@ -873,6 +977,22 @@
       "onboard_time": 1773717020,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67977,
+      "num": 67977,
+      "word": "杜兰特对里夫斯恶意犯规",
+      "onboard_time": 1773725902,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67011,
+      "num": 72603,
+      "word": "爱上了不会爱上自己的人是什么感受",
+      "onboard_time": 1773727161,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 65947,
@@ -1331,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21811,
+      "num": 83814,
+      "word": "泰柬边境电诈园实行企业化管理",
+      "onboard_time": 1773727221,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21743,
       "num": 22105,
       "word": "周五晚高疯",
@@ -1417,6 +1545,14 @@
       "onboard_time": 1773714980,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13985,
+      "num": 169615,
+      "word": "男子泳池浅水区溺亡警方介入调查",
+      "onboard_time": 1773727221,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

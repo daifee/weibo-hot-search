@@ -1,0 +1,410 @@
+{
+  "runTime": 1773727641509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 294902,
+        "num": 1047184,
+        "word": "山姆多次被零售企业控诉",
+        "onboard_time": 1773725002,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272203,
+        "num": 734276,
+        "word": "莫斯科遭大量无人机袭击",
+        "onboard_time": 1773716840,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85094,
+        "num": 595898,
+        "word": "中国机器人开始打网球了",
+        "onboard_time": 1773721702,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214440,
+        "num": 389326,
+        "word": "ZARA拉夫劳伦被点名通报",
+        "onboard_time": 1773721644,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123921,
+        "num": 314128,
+        "word": "蒋超良被逮捕",
+        "onboard_time": 1773716662,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311344,
+        "num": 311344,
+        "word": "全是不想坐B座的聪明人",
+        "onboard_time": 1773718280,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255031,
+        "num": 255031,
+        "word": "伊朗对以色列心脏地带展开袭击",
+        "onboard_time": 1773723502,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217623,
+        "num": 217623,
+        "word": "被美国架在火上的日本",
+        "onboard_time": 1773725303,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139136,
+        "num": 216912,
+        "word": "汕头自建房致12死火灾系使用蚊香引发",
+        "onboard_time": 1773721102,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51302,
+        "num": 216389,
+        "word": "樊振东转发杜塞官宣发文",
+        "onboard_time": 1773724043,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463719,
+        "num": 215784,
+        "word": "易烊千玺新惊喜预热",
+        "onboard_time": 1773725241,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449910,
+        "num": 215275,
+        "word": "伊朗警告日本",
+        "onboard_time": 1773718941,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 374238,
+        "num": 214507,
+        "word": "AI 裁员",
+        "onboard_time": 1773718401,
+        "rank": 12,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 351211,
+        "num": 213697,
+        "word": "公司把猫裁了",
+        "onboard_time": 1773722184,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50442,
+        "num": 213052,
+        "word": "湖人战胜火箭",
+        "onboard_time": 1773721102,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328974,
+        "num": 212273,
+        "word": "高中生斑马线过马路被撞飞身亡",
+        "onboard_time": 1773716960,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312802,
+        "num": 211214,
+        "word": "赵本山近况",
+        "onboard_time": 1773718401,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211189,
+        "num": 211189,
+        "word": "逐玉 韩国",
+        "onboard_time": 1773713360,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192696,
+        "num": 192696,
+        "word": "睡得晚和睡得少哪个更伤身体",
+        "onboard_time": 1773713000,
+        "rank": 18,
+        "category": "健康医疗,健康医疗"
+      },
+      {
+        "raw_hot": 13985,
+        "num": 169615,
+        "word": "男子泳池浅水区溺亡警方介入调查",
+        "onboard_time": 1773727221,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202710,
+        "num": 165017,
+        "word": "包文婧产后10个月开练普拉提",
+        "onboard_time": 1773722602,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156403,
+        "num": 156403,
+        "word": "金价下跌却买不进",
+        "onboard_time": 1773721343,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134609,
+        "num": 134609,
+        "word": "周迅金色长发",
+        "onboard_time": 1773724462,
+        "rank": 22,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 132547,
+        "num": 132547,
+        "word": "鹿哈方称将追究工厂责任",
+        "onboard_time": 1773724223,
+        "rank": 23,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 131868,
+        "num": 131868,
+        "word": "鹿晗专辑发售",
+        "onboard_time": 1773721042,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98642,
+        "num": 98642,
+        "word": "张凌赫说舍不得逐玉",
+        "onboard_time": 1773720924,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97643,
+        "num": 97643,
+        "word": "当公交车突然没了台阶",
+        "onboard_time": 1773718521,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97468,
+        "num": 97468,
+        "word": "多方回应高中生过斑马线被撞飞身亡",
+        "onboard_time": 1773721883,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339008,
+        "num": 97386,
+        "word": "大理寺米线 泼天的富贵",
+        "onboard_time": 1773718100,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 359575,
+        "num": 96637,
+        "word": "奥斯卡再陷歧视亚裔争议",
+        "onboard_time": 1773720443,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93272,
+        "num": 93272,
+        "word": "刘文祥 杨国福粉丝",
+        "onboard_time": 1773719961,
+        "rank": 30,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 89244,
+        "num": 89244,
+        "word": "李一桐 天选种田文女主",
+        "onboard_time": 1773721823,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88210,
+        "num": 88210,
+        "word": "小巷人家第二部",
+        "onboard_time": 1773726141,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87596,
+        "num": 87596,
+        "word": "养QQ宠物的那批人回来了",
+        "onboard_time": 1773726623,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86349,
+        "num": 86349,
+        "word": "刘在石经常使用的破冰问题",
+        "onboard_time": 1773720443,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85638,
+        "num": 85638,
+        "word": "郑合惠子任宥纶同款手机壳",
+        "onboard_time": 1773719781,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82485,
+        "num": 85566,
+        "word": "81岁老人为外籍外孙女寻意定监护人",
+        "onboard_time": 1773727161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85531,
+        "num": 85531,
+        "word": "日媒炒作中国卫星每10分钟过一次日本",
+        "onboard_time": 1773725602,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21811,
+        "num": 83814,
+        "word": "泰柬边境电诈园实行企业化管理",
+        "onboard_time": 1773727221,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83698,
+        "num": 83698,
+        "word": "章子怡嗑cp战绩可查",
+        "onboard_time": 1773723863,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80905,
+        "num": 80905,
+        "word": "鸿蒙系统6到底是难用够用还是好用",
+        "onboard_time": 1773726502,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 77234,
+        "num": 77234,
+        "word": "中国籍男子在日本遭抢劫嫌犯被抓",
+        "onboard_time": 1773723863,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75723,
+        "num": 75723,
+        "word": "张凌赫说浴池戏像打架",
+        "onboard_time": 1773721042,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75379,
+        "num": 75379,
+        "word": "怦然心动20岁冬季定档",
+        "onboard_time": 1773725842,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74447,
+        "num": 74447,
+        "word": "好工作比好恋人难找",
+        "onboard_time": 1773725602,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73736,
+        "num": 73736,
+        "word": "你好1983今日开播",
+        "onboard_time": 1773718521,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72650,
+        "num": 72650,
+        "word": "苏炳添官宣代言小米汽车",
+        "onboard_time": 1773720981,
+        "rank": 46,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 67011,
+        "num": 72603,
+        "word": "爱上了不会爱上自己的人是什么感受",
+        "onboard_time": 1773727161,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72562,
+        "num": 72562,
+        "word": "甜茶据称无缘奥斯卡影帝后彻底崩溃",
+        "onboard_time": 1773724403,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67977,
+        "num": 67977,
+        "word": "杜兰特对里夫斯恶意犯规",
+        "onboard_time": 1773725902,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引经据典谈正确政绩观#"
+    }
+  }
+}
