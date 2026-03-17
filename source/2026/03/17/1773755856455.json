@@ -1,0 +1,410 @@
+{
+  "runTime": 1773755856455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 802437,
+        "num": 1128390,
+        "word": "12306回应不想坐B座怎么办",
+        "onboard_time": 1773751822,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306422,
+        "num": 798398,
+        "word": "多家商场厕所隐藏洗手液擦手纸",
+        "onboard_time": 1773749062,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13429,
+        "num": 668080,
+        "word": "神21乘组圆满完成第二次出舱活动",
+        "onboard_time": 1773733943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 302510,
+        "num": 302510,
+        "word": "官方给油菜花喷药致蜜蜂大量死亡",
+        "onboard_time": 1773751642,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210762,
+        "num": 210762,
+        "word": "一个烟头夺走22条生命谁该担责",
+        "onboard_time": 1773744621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214072,
+        "num": 210085,
+        "word": "伊朗最高领袖驳回斡旋提案",
+        "onboard_time": 1773747320,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136771,
+        "num": 208810,
+        "word": "中国女篮战胜巴西",
+        "onboard_time": 1773754942,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120019,
+        "num": 206501,
+        "word": "周杰伦预热新专辑",
+        "onboard_time": 1773749361,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118172,
+        "num": 205455,
+        "word": "原来这就是小鸟胃啊",
+        "onboard_time": 1773733879,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92795,
+        "num": 203665,
+        "word": "林沐然演逐玉的时候才19岁",
+        "onboard_time": 1773755182,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 793881,
+        "num": 202175,
+        "word": "警方通报高中生过斑马线被撞身亡",
+        "onboard_time": 1773751162,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 631221,
+        "num": 200499,
+        "word": "谢征樊长玉圆房吻",
+        "onboard_time": 1773751342,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532119,
+        "num": 198635,
+        "word": "小巷人家2官宣",
+        "onboard_time": 1773732922,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89467,
+        "num": 198274,
+        "word": "OPPO发布会",
+        "onboard_time": 1773747382,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 448662,
+        "num": 196558,
+        "word": "儿媳挪用婆婆900万给姐姐300万遗产",
+        "onboard_time": 1773749782,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57857,
+        "num": 194395,
+        "word": "启境GT7首发十大新一代黑科技",
+        "onboard_time": 1773754762,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 402141,
+        "num": 193139,
+        "word": "韩国网友吐槽逐玉",
+        "onboard_time": 1773743422,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64602,
+        "num": 191455,
+        "word": "华为广汽跨界合作打造启境品牌",
+        "onboard_time": 1773752723,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 372050,
+        "num": 189583,
+        "word": "曝小巷人家2以庄图南李佳为主视角",
+        "onboard_time": 1773746660,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329712,
+        "num": 188863,
+        "word": "公安介入调查高中生过斑马线被撞亡",
+        "onboard_time": 1773747200,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1060619,
+        "num": 186920,
+        "word": "郑恺苗苗公开三胎小女儿",
+        "onboard_time": 1773747802,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272824,
+        "num": 185991,
+        "word": "刘昊然 周冬雨",
+        "onboard_time": 1773730702,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260477,
+        "num": 184626,
+        "word": "宝马大降价30万",
+        "onboard_time": 1773753202,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 183153,
+        "num": 183153,
+        "word": "金价波动",
+        "onboard_time": 1773749542,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201831,
+        "num": 181384,
+        "word": "小巷人家2 范丞丞卢昱晓",
+        "onboard_time": 1773734121,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178999,
+        "num": 178999,
+        "word": "伊朗的新战法让美国很头疼",
+        "onboard_time": 1773752962,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157537,
+        "num": 157537,
+        "word": "华为靳玉志称把新一代技术都给了启境",
+        "onboard_time": 1773754762,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 161685,
+        "num": 156809,
+        "word": "伊朗这次不想忍了",
+        "onboard_time": 1773738080,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141039,
+        "num": 141039,
+        "word": "李卿咋这帅",
+        "onboard_time": 1773753023,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109372,
+        "num": 134700,
+        "word": "下次油价调整每升或涨1元以上",
+        "onboard_time": 1773752723,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133191,
+        "num": 133191,
+        "word": "瞿颖自曝爸爸身高1.69米",
+        "onboard_time": 1773754463,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106428,
+        "num": 133035,
+        "word": "苹果山药糕",
+        "onboard_time": 1773755122,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98974,
+        "num": 132368,
+        "word": "伊朗反击纪念出生3天遇难婴儿",
+        "onboard_time": 1773754164,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98318,
+        "num": 132231,
+        "word": "两女孩玩耍一人突然拿砖头砸对方",
+        "onboard_time": 1773752243,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94715,
+        "num": 131469,
+        "word": "伊朗查获数百套美以运进的星链",
+        "onboard_time": 1773755724,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86980,
+        "num": 131276,
+        "word": "一人公司爆火银行坐不住了",
+        "onboard_time": 1773753142,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86275,
+        "num": 130884,
+        "word": "那些让人醍醐灌顶的一句话",
+        "onboard_time": 1773755182,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84002,
+        "num": 130243,
+        "word": "好好的时光",
+        "onboard_time": 1773753443,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83962,
+        "num": 129699,
+        "word": "拉里贾尼发表手写悼词",
+        "onboard_time": 1773743182,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83007,
+        "num": 129208,
+        "word": "文淇放卫生巾互助盒",
+        "onboard_time": 1773754524,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82764,
+        "num": 128882,
+        "word": "水沟玩耍无人管姐弟系母亲去世",
+        "onboard_time": 1773752423,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68779,
+        "num": 128230,
+        "word": "郑恺苗苗一家五口同框",
+        "onboard_time": 1773745221,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80948,
+        "num": 127939,
+        "word": "国产存储到了必须突围的时候",
+        "onboard_time": 1773753682,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 77544,
+        "num": 127650,
+        "word": "唐嫣杨晨 真闺蜜N搭",
+        "onboard_time": 1773747982,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77071,
+        "num": 126876,
+        "word": "30岁小伙确诊红斑狼疮",
+        "onboard_time": 1773747262,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75470,
+        "num": 126481,
+        "word": "齐旻是邓凯临时救场的",
+        "onboard_time": 1773746781,
+        "rank": 45,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 74743,
+        "num": 125911,
+        "word": "中国女足无缘亚洲杯决赛",
+        "onboard_time": 1773749361,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71474,
+        "num": 125672,
+        "word": "选择题错三个就用黑笔改",
+        "onboard_time": 1773755423,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70513,
+        "num": 124940,
+        "word": "20岁女子瘦到皮包骨查出脂肪肝",
+        "onboard_time": 1773755423,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59329,
+        "num": 124781,
+        "word": "数学好的人果然都是爱钻研的",
+        "onboard_time": 1773755363,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人民出政绩#"
+    }
+  }
+}
