@@ -1,6 +1,6 @@
 {
   "startTime": 1773681061140,
-  "endTime": 1773723601693,
+  "endTime": 1773724233768,
   "band_list": [
     {
       "raw_hot": 1082922,
@@ -35,7 +35,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 842620,
+      "raw_hot": 862739,
       "num": 491270,
       "word": "湘雅医院坠江身亡研究生导师已停诊",
       "onboard_time": 1773721102,
@@ -115,8 +115,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 444563,
-      "num": 1071130,
+      "raw_hot": 470583,
+      "num": 1075293,
       "word": "奥斯卡再陷歧视亚裔争议",
       "onboard_time": 1773720443,
       "rank": 0,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 383242,
-      "num": 198585,
+      "num": 209765,
       "word": "睡得晚和睡得少哪个更伤身体",
       "onboard_time": 1773713000,
       "rank": 20,
@@ -299,6 +299,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 230952,
+      "num": 230952,
+      "word": "湘雅医院坠江学生曾多次求助",
+      "onboard_time": 1773722663,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227960,
+      "num": 227960,
+      "word": "包文婧产后10个月开练普拉提",
+      "onboard_time": 1773722602,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224715,
+      "num": 487264,
+      "word": "鹿晗专辑发售",
+      "onboard_time": 1773721042,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 222817,
       "num": 222817,
       "word": "金价下跌却买不进",
@@ -329,14 +353,6 @@
       "onboard_time": 1773707721,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189724,
-      "num": 189724,
-      "word": "湘雅医院坠江学生曾多次求助",
-      "onboard_time": 1773722663,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187005,
@@ -371,8 +387,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176127,
-      "num": 176127,
+      "raw_hot": 176601,
+      "num": 176601,
       "word": "公司把猫裁了",
       "onboard_time": 1773722184,
       "rank": 26,
@@ -443,14 +459,6 @@
       "category": "体育,汽车"
     },
     {
-      "raw_hot": 149190,
-      "num": 149190,
-      "word": "包文婧产后10个月开练普拉提",
-      "onboard_time": 1773722602,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146562,
       "num": 146562,
       "word": "孔雪儿 谁说内娱爱豆不会演戏的",
@@ -475,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142989,
-      "num": 487264,
-      "word": "鹿晗专辑发售",
-      "onboard_time": 1773721042,
-      "rank": 9,
-      "category": "音乐"
+      "raw_hot": 142520,
+      "num": 278524,
+      "word": "湘雅医院坠亡研究生导师已停诊",
+      "onboard_time": 1773722663,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138408,
@@ -539,14 +547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125995,
-      "num": 125995,
-      "word": "湘雅医院坠亡研究生导师已停诊",
-      "onboard_time": 1773722663,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124174,
       "num": 124174,
       "word": "你好1983今日开播",
@@ -587,20 +587,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114654,
+      "num": 632807,
+      "word": "中国机器人开始打网球了",
+      "onboard_time": 1773721702,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111395,
       "num": 111395,
       "word": "男子泳池溺亡女儿称10分钟无人救",
       "onboard_time": 1773715102,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109660,
-      "num": 590710,
-      "word": "中国机器人开始打网球了",
-      "onboard_time": 1773721702,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 107445,
@@ -625,6 +625,14 @@
       "onboard_time": 1773720081,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104569,
+      "num": 104569,
+      "word": "中国籍男子在日本遭抢劫嫌犯被抓",
+      "onboard_time": 1773723863,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103935,
@@ -659,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101181,
+      "num": 99928,
+      "word": "张凌赫说浴池戏像打架",
+      "onboard_time": 1773721042,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100019,
       "num": 100019,
       "word": "内马尔回应落选",
@@ -675,12 +691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99928,
-      "num": 99928,
-      "word": "张凌赫说浴池戏像打架",
-      "onboard_time": 1773721042,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 99764,
+      "num": 99764,
+      "word": "章子怡嗑cp战绩可查",
+      "onboard_time": 1773723863,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 98596,
@@ -737,6 +753,22 @@
       "onboard_time": 1773708142,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87379,
+      "num": 87379,
+      "word": "樊振东转发杜塞官宣发文",
+      "onboard_time": 1773724043,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87293,
+      "num": 87293,
+      "word": "边牧 请苍天辨忠奸",
+      "onboard_time": 1773723803,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 83281,
