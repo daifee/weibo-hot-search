@@ -1,0 +1,410 @@
+{
+  "runTime": 1773717585602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 345491,
+        "num": 1055278,
+        "word": "仅收280元牙医回应女孩将复查3次",
+        "onboard_time": 1773715882,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249000,
+        "num": 747017,
+        "word": "华为渠道服",
+        "onboard_time": 1773716721,
+        "rank": 1,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 25912,
+        "num": 611757,
+        "word": "奋进十五五你会看到这样的中国",
+        "onboard_time": 1773670644,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 377122,
+        "num": 377122,
+        "word": "爸爸买彩票中748万不告诉孩子",
+        "onboard_time": 1773703519,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322615,
+        "num": 322615,
+        "word": "大爷撞法拉利掏163元和4棵菜赔偿",
+        "onboard_time": 1773710300,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 949348,
+        "num": 312326,
+        "word": "逐玉 韩国",
+        "onboard_time": 1773713360,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297564,
+        "num": 297564,
+        "word": "美军被曝对伊朗退出选项",
+        "onboard_time": 1773709279,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219184,
+        "num": 219184,
+        "word": "胖东来169元1克拉方糖戒指再上架",
+        "onboard_time": 1773672146,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178693,
+        "num": 178693,
+        "word": "樊长玉听见下聘成亲的反应",
+        "onboard_time": 1773707721,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177442,
+        "num": 177442,
+        "word": "恋与深空 无法登陆",
+        "onboard_time": 1773716301,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1052241,
+        "num": 177339,
+        "word": "紫薯精不吃刘文祥改大理寺了",
+        "onboard_time": 1773714500,
+        "rank": 10,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 609755,
+        "num": 174151,
+        "word": "朱丹回应被瞿颖说黑",
+        "onboard_time": 1773715522,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452884,
+        "num": 170144,
+        "word": "入职未满1年怀孕请假被拒获赔10万",
+        "onboard_time": 1773672146,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243338,
+        "num": 167828,
+        "word": "美国陷入孤立",
+        "onboard_time": 1773707122,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206924,
+        "num": 166201,
+        "word": "吴映洁说期待大侦探返场",
+        "onboard_time": 1773711022,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187375,
+        "num": 163717,
+        "word": "20岁男子感染HIV后HPV反复发作",
+        "onboard_time": 1773711379,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162079,
+        "num": 162079,
+        "word": "洛克王国世界预注册",
+        "onboard_time": 1773713360,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154029,
+        "num": 154029,
+        "word": "邓凯跑了8年龙套",
+        "onboard_time": 1773709461,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68929,
+        "num": 149589,
+        "word": "76岁奶奶送孙子入伍这一幕看泪目了",
+        "onboard_time": 1773717020,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149524,
+        "num": 149524,
+        "word": "莫斯科遭大量无人机袭击",
+        "onboard_time": 1773716840,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 383242,
+        "num": 149422,
+        "word": "睡得晚和睡得少哪个更伤身体",
+        "onboard_time": 1773713000,
+        "rank": 20,
+        "category": "健康医疗,健康医疗"
+      },
+      {
+        "raw_hot": 189814,
+        "num": 148638,
+        "word": "高中生斑马线过马路被撞飞身亡",
+        "onboard_time": 1773716960,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150446,
+        "num": 148630,
+        "word": "AppleWatch国行上线房颤功能",
+        "onboard_time": 1773713420,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146657,
+        "num": 146657,
+        "word": "最佳睡眠到底是几个小时",
+        "onboard_time": 1773703879,
+        "rank": 23,
+        "category": "健康医疗,健康医疗"
+      },
+      {
+        "raw_hot": 126973,
+        "num": 126973,
+        "word": "当风象妈生了个水象闺女",
+        "onboard_time": 1773712340,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122304,
+        "num": 122304,
+        "word": "甜茶的面相变了",
+        "onboard_time": 1773711080,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120025,
+        "num": 120025,
+        "word": "KTV员工酒后死亡家属诉共饮人被驳回",
+        "onboard_time": 1773711981,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118562,
+        "num": 118562,
+        "word": "洛克王国世界抢学号崩了",
+        "onboard_time": 1773715400,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117650,
+        "num": 117650,
+        "word": "小伙卖卤肉饭被同行强行倒菜驱赶",
+        "onboard_time": 1773717502,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112905,
+        "num": 112905,
+        "word": "双氧水漂白鸡爪名单",
+        "onboard_time": 1773714381,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112005,
+        "num": 112005,
+        "word": "蒋超良被逮捕",
+        "onboard_time": 1773716662,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111395,
+        "num": 111395,
+        "word": "男子泳池溺亡女儿称10分钟无人救",
+        "onboard_time": 1773715102,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107445,
+        "num": 107445,
+        "word": "金条在唐朝花不出去",
+        "onboard_time": 1773717441,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 105143,
+        "num": 105143,
+        "word": "90岁老人与妻子告别后几秒钟去世",
+        "onboard_time": 1773710841,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97563,
+        "num": 97563,
+        "word": "重庆马拉松裁判误拦冠军被禁赛1年",
+        "onboard_time": 1773715460,
+        "rank": 34,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 97443,
+        "num": 97443,
+        "word": "因为瞿颖盒马的菠菜都标上英文了",
+        "onboard_time": 1773666804,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97224,
+        "num": 97224,
+        "word": "考古的风终于轮到田曦薇了",
+        "onboard_time": 1773716240,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90261,
+        "num": 90261,
+        "word": "永辉公开喊话山姆",
+        "onboard_time": 1773670883,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94910,
+        "num": 89887,
+        "word": "孔雪儿 谁说内娱爱豆不会演戏的",
+        "onboard_time": 1773709342,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39619,
+        "num": 88912,
+        "word": "批发商回应毒卡片流入校园周边",
+        "onboard_time": 1773716960,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88900,
+        "num": 88900,
+        "word": "单位称已有人致电咨询山顶岗位",
+        "onboard_time": 1773713781,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83700,
+        "num": 83700,
+        "word": "美宜佳被曝光后半小时无一人进店",
+        "onboard_time": 1773670942,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82336,
+        "num": 82336,
+        "word": "男孩独自照顾婴儿妹妹崩溃大哭",
+        "onboard_time": 1773716060,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81377,
+        "num": 81377,
+        "word": "要不说乱室出佳人呢",
+        "onboard_time": 1773717441,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81036,
+        "num": 81036,
+        "word": "洛克王国世界抢绝版uid",
+        "onboard_time": 1773717502,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78929,
+        "num": 78929,
+        "word": "英伟达新一代Rubin芯片阵容亮相",
+        "onboard_time": 1773717200,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 77320,
+        "num": 77320,
+        "word": "42岁女子从不抽烟确诊肺癌晚期",
+        "onboard_time": 1773666562,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76252,
+        "num": 76252,
+        "word": "谢征回应被和离书气到吐血",
+        "onboard_time": 1773716180,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73469,
+        "num": 73469,
+        "word": "iPhone19e或有高刷",
+        "onboard_time": 1773716840,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 73142,
+        "num": 73142,
+        "word": "管泽元",
+        "onboard_time": 1773681317,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#一口水井一种信念#"
+    }
+  }
+}

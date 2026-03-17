@@ -1,6 +1,6 @@
 {
   "startTime": 1773681061140,
-  "endTime": 1773715232635,
+  "endTime": 1773717585602,
   "band_list": [
     {
       "raw_hot": 1082922,
@@ -11,7 +11,15 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 813985,
+      "raw_hot": 1052241,
+      "num": 195718,
+      "word": "紫薯精不吃刘文祥改大理寺了",
+      "onboard_time": 1773714500,
+      "rank": 10,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 949348,
       "num": 1130237,
       "word": "逐玉 韩国",
       "onboard_time": 1773713360,
@@ -25,6 +33,14 @@
       "onboard_time": 1773672146,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 609755,
+      "num": 174151,
+      "word": "朱丹回应被瞿颖说黑",
+      "onboard_time": 1773715522,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 495606,
@@ -43,20 +59,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 469998,
-      "num": 195718,
-      "word": "紫薯精不吃刘文祥改大理寺了",
-      "onboard_time": 1773714500,
-      "rank": 10,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 390250,
       "num": 390250,
       "word": "爸爸买彩票中748万不告诉孩子",
       "onboard_time": 1773703519,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383242,
+      "num": 149422,
+      "word": "睡得晚和睡得少哪个更伤身体",
+      "onboard_time": 1773713000,
+      "rank": 20,
+      "category": "健康医疗,健康医疗"
     },
     {
       "raw_hot": 372157,
@@ -67,20 +83,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 345491,
+      "num": 1055278,
+      "word": "仅收280元牙医回应女孩将复查3次",
+      "onboard_time": 1773715882,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 342578,
       "num": 342578,
       "word": "洛克王国世界预注册",
       "onboard_time": 1773713360,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 324349,
-      "num": 146543,
-      "word": "睡得晚和睡得少哪个更伤身体",
-      "onboard_time": 1773713000,
-      "rank": 20,
-      "category": "健康医疗,健康医疗"
     },
     {
       "raw_hot": 293148,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249000,
+      "num": 747017,
+      "word": "华为渠道服",
+      "onboard_time": 1773716721,
+      "rank": 1,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 237316,
       "num": 939713,
       "word": "最佳睡眠到底是几个小时",
@@ -171,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189814,
+      "num": 148638,
+      "word": "高中生斑马线过马路被撞飞身亡",
+      "onboard_time": 1773716960,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187005,
       "num": 187005,
       "word": "甜茶的面相变了",
@@ -185,6 +217,14 @@
       "onboard_time": 1773713420,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 177442,
+      "num": 177442,
+      "word": "恋与深空 无法登陆",
+      "onboard_time": 1773716301,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 175364,
@@ -225,6 +265,14 @@
       "onboard_time": 1773670883,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149524,
+      "num": 149524,
+      "word": "莫斯科遭大量无人机袭击",
+      "onboard_time": 1773716840,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 146562,
@@ -307,6 +355,46 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118562,
+      "num": 118562,
+      "word": "洛克王国世界抢学号崩了",
+      "onboard_time": 1773715400,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 117650,
+      "num": 117650,
+      "word": "小伙卖卤肉饭被同行强行倒菜驱赶",
+      "onboard_time": 1773717502,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112005,
+      "num": 112005,
+      "word": "蒋超良被逮捕",
+      "onboard_time": 1773716662,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 111395,
+      "num": 111395,
+      "word": "男子泳池溺亡女儿称10分钟无人救",
+      "onboard_time": 1773715102,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107445,
+      "num": 107445,
+      "word": "金条在唐朝花不出去",
+      "onboard_time": 1773717441,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 102147,
       "num": 102147,
       "word": "本周做什么都顺的星座",
@@ -347,6 +435,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97563,
+      "num": 97563,
+      "word": "重庆马拉松裁判误拦冠军被禁赛1年",
+      "onboard_time": 1773715460,
+      "rank": 34,
+      "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 97224,
+      "num": 97224,
+      "word": "考古的风终于轮到田曦薇了",
+      "onboard_time": 1773716240,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90121,
       "num": 90121,
       "word": "42岁女子从不抽烟确诊肺癌晚期",
@@ -371,6 +475,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82336,
+      "num": 82336,
+      "word": "男孩独自照顾婴儿妹妹崩溃大哭",
+      "onboard_time": 1773716060,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81377,
+      "num": 81377,
+      "word": "要不说乱室出佳人呢",
+      "onboard_time": 1773717441,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81036,
+      "num": 81036,
+      "word": "洛克王国世界抢绝版uid",
+      "onboard_time": 1773717502,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80765,
       "num": 46456,
       "word": "伊朗打击美军阿联酋基地弹药库",
@@ -379,11 +507,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78929,
+      "num": 78929,
+      "word": "英伟达新一代Rubin芯片阵容亮相",
+      "onboard_time": 1773717200,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 77769,
       "num": 77769,
       "word": "张凌赫回复谢征",
       "onboard_time": 1773704361,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 76252,
+      "num": 76252,
+      "word": "谢征回应被和离书气到吐血",
+      "onboard_time": 1773716180,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -395,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73469,
+      "num": 73469,
+      "word": "iPhone19e或有高刷",
+      "onboard_time": 1773716840,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 72073,
       "num": 72073,
       "word": "张凌赫 导演你管管她",
@@ -403,18 +555,18 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71178,
-      "num": 71178,
-      "word": "男子泳池溺亡女儿称10分钟无人救",
-      "onboard_time": 1773715102,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69738,
       "num": 69738,
       "word": "截瘫女子植入脑机1年后能刷手机了",
       "onboard_time": 1773673704,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68929,
+      "num": 149589,
+      "word": "76岁奶奶送孙子入伍这一幕看泪目了",
+      "onboard_time": 1773717020,
       "rank": 18,
       "category": "民生新闻"
     },
@@ -561,6 +713,14 @@
       "onboard_time": 1773673404,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39619,
+      "num": 88912,
+      "word": "批发商回应毒卡片流入校园周边",
+      "onboard_time": 1773716960,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38695,
