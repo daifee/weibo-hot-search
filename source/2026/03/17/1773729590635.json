@@ -1,0 +1,410 @@
+{
+  "runTime": 1773729590635,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 938576,
+        "num": 1150172,
+        "word": "小巷人家第二部",
+        "onboard_time": 1773726141,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401792,
+        "num": 844781,
+        "word": "山姆多次被零售企业控诉",
+        "onboard_time": 1773725002,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80590,
+        "num": 642240,
+        "word": "中国机器人开始打网球了",
+        "onboard_time": 1773721702,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 552047,
+        "num": 552047,
+        "word": "曝小巷人家2剧情",
+        "onboard_time": 1773728481,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228506,
+        "num": 228506,
+        "word": "莫斯科遭大量无人机袭击",
+        "onboard_time": 1773716840,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270160,
+        "num": 225799,
+        "word": "全是不想坐B座的聪明人",
+        "onboard_time": 1773718280,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233802,
+        "num": 223805,
+        "word": "被美国架在火上的日本",
+        "onboard_time": 1773725303,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186648,
+        "num": 221145,
+        "word": "ZARA拉夫劳伦被点名通报",
+        "onboard_time": 1773721644,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159711,
+        "num": 216956,
+        "word": "伊朗对以色列心脏地带展开袭击",
+        "onboard_time": 1773723502,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148390,
+        "num": 214368,
+        "word": "金价下跌却买不进",
+        "onboard_time": 1773721343,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 398334,
+        "num": 212631,
+        "word": "伊朗警告日本",
+        "onboard_time": 1773718941,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314664,
+        "num": 209004,
+        "word": "易烊千玺网站歌曲投票",
+        "onboard_time": 1773728062,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294773,
+        "num": 204733,
+        "word": "赵本山近况",
+        "onboard_time": 1773718401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35469,
+        "num": 204113,
+        "word": "NX8告别老三样拥抱AI新五件",
+        "onboard_time": 1773728001,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 277711,
+        "num": 199810,
+        "word": "高中生斑马线过马路被撞飞身亡",
+        "onboard_time": 1773716960,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254495,
+        "num": 195846,
+        "word": "AI 裁员",
+        "onboard_time": 1773718401,
+        "rank": 15,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 195536,
+        "num": 195536,
+        "word": "睡得晚和睡得少哪个更伤身体",
+        "onboard_time": 1773713000,
+        "rank": 16,
+        "category": "健康医疗,健康医疗"
+      },
+      {
+        "raw_hot": 195454,
+        "num": 195454,
+        "word": "公司把猫裁了",
+        "onboard_time": 1773722184,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171218,
+        "num": 171218,
+        "word": "逐玉 韩国",
+        "onboard_time": 1773713360,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115737,
+        "num": 153146,
+        "word": "81岁老人为外籍外孙女寻意定监护人",
+        "onboard_time": 1773727161,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 772724,
+        "num": 150754,
+        "word": "瞿颖已婚",
+        "onboard_time": 1773729021,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148334,
+        "num": 148334,
+        "word": "周迅金色长发",
+        "onboard_time": 1773724462,
+        "rank": 21,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 121612,
+        "num": 121612,
+        "word": "网友连续3天抢黄金却1克难求",
+        "onboard_time": 1773728541,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123961,
+        "num": 120010,
+        "word": "章昊大学考卷",
+        "onboard_time": 1773728961,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118308,
+        "num": 118308,
+        "word": "A股",
+        "onboard_time": 1773728360,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117741,
+        "num": 117741,
+        "word": "包文婧产后10个月开练普拉提",
+        "onboard_time": 1773722602,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111313,
+        "num": 111313,
+        "word": "养QQ宠物的那批人回来了",
+        "onboard_time": 1773726623,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103241,
+        "num": 103241,
+        "word": "鹿晗专辑发售",
+        "onboard_time": 1773721042,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101704,
+        "num": 101704,
+        "word": "医生谈规培生处境",
+        "onboard_time": 1773728062,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 100440,
+        "num": 100440,
+        "word": "鹿哈方称将追究工厂责任",
+        "onboard_time": 1773724223,
+        "rank": 29,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 95723,
+        "num": 95723,
+        "word": "鸿蒙系统6到底是难用够用还是好用",
+        "onboard_time": 1773726502,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94513,
+        "num": 94513,
+        "word": "张凌赫田曦薇糖葫芦转场",
+        "onboard_time": 1773728842,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93574,
+        "num": 93574,
+        "word": "汕头自建房致12死火灾系使用蚊香引发",
+        "onboard_time": 1773721102,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89930,
+        "num": 89930,
+        "word": "工位按职级排",
+        "onboard_time": 1773727761,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88870,
+        "num": 88870,
+        "word": "日媒炒作中国卫星每10分钟过一次日本",
+        "onboard_time": 1773725602,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85046,
+        "num": 85046,
+        "word": "王一博瑞士回国路透",
+        "onboard_time": 1773727702,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84188,
+        "num": 84188,
+        "word": "中国籍男子在日本遭抢劫嫌犯被抓",
+        "onboard_time": 1773723863,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84133,
+        "num": 84133,
+        "word": "当公交车突然没了台阶",
+        "onboard_time": 1773718521,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81409,
+        "num": 81409,
+        "word": "高中生过马路被撞身亡目击者发声",
+        "onboard_time": 1773729441,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79515,
+        "num": 79515,
+        "word": "张真源登英语21世纪报",
+        "onboard_time": 1773729260,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77941,
+        "num": 77941,
+        "word": "蒋超良被逮捕",
+        "onboard_time": 1773716662,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73548,
+        "num": 73548,
+        "word": "头一次见这样结拜",
+        "onboard_time": 1773728842,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71488,
+        "num": 71488,
+        "word": "卡塔尔大熊猫馆暂时闭馆",
+        "onboard_time": 1773728181,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70812,
+        "num": 70812,
+        "word": "多方回应高中生过斑马线被撞飞身亡",
+        "onboard_time": 1773721883,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70539,
+        "num": 70539,
+        "word": "章子怡嗑cp战绩可查",
+        "onboard_time": 1773723863,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69991,
+        "num": 69991,
+        "word": "郑合惠子任宥纶同款手机壳",
+        "onboard_time": 1773719781,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68165,
+        "num": 68165,
+        "word": "买了东西先过咪检",
+        "onboard_time": 1773729202,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67394,
+        "num": 67394,
+        "word": "第一次发觉磁力片这么好看",
+        "onboard_time": 1773728541,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65589,
+        "num": 65589,
+        "word": "刘文祥 杨国福粉丝",
+        "onboard_time": 1773719961,
+        "rank": 48,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 28745,
+        "num": 65395,
+        "word": "瞿颖 网球界的泽塔琼斯",
+        "onboard_time": 1773722303,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引经据典谈正确政绩观#"
+    }
+  }
+}

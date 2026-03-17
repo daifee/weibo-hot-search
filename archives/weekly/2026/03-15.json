@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773727641509,
+  "endTime": 1773729590635,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 938576,
+      "num": 1150172,
+      "word": "小巷人家第二部",
+      "onboard_time": 1773726141,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 937764,
       "num": 264030,
       "word": "刘宇宁回应黄子韬道歉",
@@ -313,6 +321,14 @@
       "onboard_time": 1773625641,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 772724,
+      "num": 150754,
+      "word": "瞿颖已婚",
+      "onboard_time": 1773729021,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 726858,
@@ -593,6 +609,14 @@
       "onboard_time": 1773563901,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552047,
+      "num": 552047,
+      "word": "曝小巷人家2剧情",
+      "onboard_time": 1773728481,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 551247,
@@ -976,6 +1000,14 @@
       "word": "三里屯真人模特",
       "onboard_time": 1773540201,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 401792,
+      "num": 1047184,
+      "word": "山姆多次被零售企业控诉",
+      "onboard_time": 1773725002,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -1419,6 +1451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 314664,
+      "num": 209004,
+      "word": "易烊千玺网站歌曲投票",
+      "onboard_time": 1773728062,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312535,
       "num": 312535,
       "word": "逐玉 李卿",
@@ -1585,14 +1625,6 @@
       "onboard_time": 1773627621,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 294902,
-      "num": 1047184,
-      "word": "山姆多次被零售企业控诉",
-      "onboard_time": 1773725002,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293148,
@@ -1963,6 +1995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 233802,
+      "num": 223805,
+      "word": "被美国架在火上的日本",
+      "onboard_time": 1773725303,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 231614,
       "num": 231614,
       "word": "终于有人把带孩子的累说清楚了",
@@ -2105,14 +2145,6 @@
       "onboard_time": 1773484401,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217623,
-      "num": 217623,
-      "word": "被美国架在火上的日本",
-      "onboard_time": 1773725303,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 217530,
@@ -2971,6 +3003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148334,
+      "num": 148334,
+      "word": "周迅金色长发",
+      "onboard_time": 1773724462,
+      "rank": 22,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 146841,
       "num": 146841,
       "word": "KPL福建靠谱男人",
@@ -3243,14 +3283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 134609,
-      "num": 134609,
-      "word": "周迅金色长发",
-      "onboard_time": 1773724462,
-      "rank": 22,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 134371,
       "num": 131412,
       "word": "谢征什么叫我们没在一起过",
@@ -3499,6 +3531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123961,
+      "num": 120010,
+      "word": "章昊大学考卷",
+      "onboard_time": 1773728961,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123960,
       "num": 123960,
       "word": "王楚钦2比4松岛辉空",
@@ -3537,6 +3577,14 @@
       "onboard_time": 1773720924,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121612,
+      "num": 121612,
+      "word": "网友连续3天抢黄金却1克难求",
+      "onboard_time": 1773728541,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 121503,
@@ -3739,6 +3787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115737,
+      "num": 153146,
+      "word": "81岁老人为外籍外孙女寻意定监护人",
+      "onboard_time": 1773727161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115710,
       "num": 115710,
       "word": "咖啡焖子",
@@ -3764,7 +3820,7 @@
     },
     {
       "raw_hot": 114654,
-      "num": 632807,
+      "num": 642240,
       "word": "中国机器人开始打网球了",
       "onboard_time": 1773721702,
       "rank": 2,
@@ -3857,6 +3913,14 @@
       "onboard_time": 1773560962,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111313,
+      "num": 111313,
+      "word": "养QQ宠物的那批人回来了",
+      "onboard_time": 1773726623,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 110776,
@@ -4195,6 +4259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101704,
+      "num": 101704,
+      "word": "医生谈规培生处境",
+      "onboard_time": 1773728062,
+      "rank": 28,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 101591,
       "num": 101591,
       "word": "马拉松冠军冲刺时被强行带离赛道",
@@ -4467,6 +4539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95723,
+      "num": 95723,
+      "word": "鸿蒙系统6到底是难用够用还是好用",
+      "onboard_time": 1773726502,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95635,
       "num": 95635,
       "word": "吴敬平说樊振东娘家人来了",
@@ -4529,6 +4609,14 @@
       "onboard_time": 1773640523,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94513,
+      "num": 94513,
+      "word": "张凌赫田曦薇糖葫芦转场",
+      "onboard_time": 1773728842,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 94503,
@@ -4787,6 +4875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89930,
+      "num": 89930,
+      "word": "工位按职级排",
+      "onboard_time": 1773727761,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89863,
       "num": 89863,
       "word": "BLG冲击先锋赛开门红",
@@ -4859,6 +4955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88870,
+      "num": 88870,
+      "word": "日媒炒作中国卫星每10分钟过一次日本",
+      "onboard_time": 1773725602,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88691,
       "num": 88691,
       "word": "杜塞尔多夫回应樊振东加盟",
@@ -4883,14 +4987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88210,
-      "num": 88210,
-      "word": "小巷人家第二部",
-      "onboard_time": 1773726141,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88153,
       "num": 211905,
       "word": "吃了所谓医美神药烂脸3个月",
@@ -4913,14 +5009,6 @@
       "onboard_time": 1773635543,
       "rank": 48,
       "category": "军事"
-    },
-    {
-      "raw_hot": 87596,
-      "num": 87596,
-      "word": "养QQ宠物的那批人回来了",
-      "onboard_time": 1773726623,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 87566,
@@ -5099,14 +5187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85531,
-      "num": 85531,
-      "word": "日媒炒作中国卫星每10分钟过一次日本",
-      "onboard_time": 1773725602,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 85514,
       "num": 85514,
       "word": "东契奇绝杀掘金",
@@ -5153,6 +5233,14 @@
       "onboard_time": 1773587844,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 85046,
+      "num": 85046,
+      "word": "王一博瑞士回国路透",
+      "onboard_time": 1773727702,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 84776,
@@ -5275,14 +5363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82485,
-      "num": 85566,
-      "word": "81岁老人为外籍外孙女寻意定监护人",
-      "onboard_time": 1773727161,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82473,
       "num": 82473,
       "word": "国乒全队在成都开启40余天的封闭集训",
@@ -5305,6 +5385,14 @@
       "onboard_time": 1773645741,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81409,
+      "num": 81409,
+      "word": "高中生过马路被撞身亡目击者发声",
+      "onboard_time": 1773729441,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81377,
@@ -5353,14 +5441,6 @@
       "onboard_time": 1773717502,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 80905,
-      "num": 80905,
-      "word": "鸿蒙系统6到底是难用够用还是好用",
-      "onboard_time": 1773726502,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 80827,
@@ -5457,6 +5537,14 @@
       "onboard_time": 1773660443,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79515,
+      "num": 79515,
+      "word": "张真源登英语21世纪报",
+      "onboard_time": 1773729260,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 79413,
@@ -5779,6 +5867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73548,
+      "num": 73548,
+      "word": "头一次见这样结拜",
+      "onboard_time": 1773728842,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73516,
       "num": 80974,
       "word": "邱党欢迎樊振东加盟",
@@ -5875,6 +5971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71488,
+      "num": 71488,
+      "word": "卡塔尔大熊猫馆暂时闭馆",
+      "onboard_time": 1773728181,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71303,
       "num": 105734,
       "word": "伊朗称袭击美军中东三大军事基地",
@@ -5931,6 +6035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68165,
+      "num": 68165,
+      "word": "买了东西先过咪检",
+      "onboard_time": 1773729202,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68081,
       "num": 70002,
       "word": "她的盛焰谁看谁窒息",
@@ -5953,6 +6065,14 @@
       "onboard_time": 1773725902,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67394,
+      "num": 67394,
+      "word": "第一次发觉磁力片这么好看",
+      "onboard_time": 1773728541,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 67313,
@@ -6651,6 +6771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35469,
+      "num": 204113,
+      "word": "NX8告别老三样拥抱AI新五件",
+      "onboard_time": 1773728001,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 33915,
       "num": 304461,
       "word": "刘文祥致歉信已不可见",
@@ -6801,6 +6929,14 @@
       "onboard_time": 1773496284,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 28745,
+      "num": 65395,
+      "word": "瞿颖 网球界的泽塔琼斯",
+      "onboard_time": 1773722303,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 28371,
