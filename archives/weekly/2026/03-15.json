@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773738917590,
+  "endTime": 1773742485828,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -369,6 +369,14 @@
       "onboard_time": 1773666804,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 722515,
+      "num": 149949,
+      "word": "以色列刺杀拉里贾尼",
+      "onboard_time": 1773736101,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 722405,
@@ -1075,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 399222,
+      "num": 399222,
+      "word": "27岁女子应聘卡旺卡被嫌年龄大",
+      "onboard_time": 1773739042,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398483,
       "num": 398483,
       "word": "永辉公开喊话山姆",
@@ -1283,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356843,
+      "num": 140004,
+      "word": "瞿颖的便宜货她是真的在用",
+      "onboard_time": 1773740241,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356416,
       "num": 217053,
       "word": "她俩从连体婴到形同陌路",
@@ -1297,6 +1321,14 @@
       "onboard_time": 1773647308,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 352507,
+      "num": 139330,
+      "word": "伊朗这次不想忍了",
+      "onboard_time": 1773738080,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 352320,
@@ -1329,14 +1361,6 @@
       "onboard_time": 1773549200,
       "rank": 6,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 347536,
-      "num": 126717,
-      "word": "以色列刺杀拉里贾尼",
-      "onboard_time": 1773736101,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 346925,
@@ -1491,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319293,
+      "num": 304537,
+      "word": "两个女孩之间闹掰的原因",
+      "onboard_time": 1773736162,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 318674,
       "num": 204257,
       "word": "以色列否认美方说法",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1773563721,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 304537,
-      "num": 304537,
-      "word": "两个女孩之间闹掰的原因",
-      "onboard_time": 1773736162,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 304269,
@@ -1835,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275622,
+      "num": 783243,
+      "word": "甘肃省副省长雷思维被查",
+      "onboard_time": 1773738861,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 274547,
       "num": 815617,
       "word": "满13周岁女孩免费接种HPV",
@@ -2044,7 +2076,7 @@
     },
     {
       "raw_hot": 250583,
-      "num": 125548,
+      "num": 136595,
       "word": "宝宝巴士被罚30万元",
       "onboard_time": 1773735022,
       "rank": 23,
@@ -2129,6 +2161,14 @@
       "onboard_time": 1773585926,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 238840,
+      "num": 147603,
+      "word": "张凌赫也抠手",
+      "onboard_time": 1773737960,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 237316,
@@ -2227,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226296,
+      "num": 226296,
+      "word": "以色列防长称拉里贾尼死亡",
+      "onboard_time": 1773741021,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 224715,
       "num": 487264,
       "word": "鹿晗专辑发售",
@@ -2316,7 +2364,7 @@
     },
     {
       "raw_hot": 217484,
-      "num": 125299,
+      "num": 137163,
       "word": "宋家三胞胎14岁身高",
       "onboard_time": 1773737004,
       "rank": 24,
@@ -2875,6 +2923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173259,
+      "num": 146638,
+      "word": "李海涛受贿1.5亿余元",
+      "onboard_time": 1773741021,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 172594,
       "num": 138016,
       "word": "汪苏泷直播",
@@ -3083,6 +3139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 157654,
+      "num": 228482,
+      "word": "山姆在中国正高速扩张",
+      "onboard_time": 1773739521,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157091,
       "num": 181189,
       "word": "司宫令正式官宣",
@@ -3187,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151300,
+      "num": 151300,
+      "word": "美方澄清特朗普威胁推迟访华",
+      "onboard_time": 1773735742,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151073,
       "num": 151073,
       "word": "章子怡为角色增重20斤",
@@ -3251,6 +3323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146456,
+      "num": 146456,
+      "word": "正式确诊为番茄",
+      "onboard_time": 1773735862,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145836,
       "num": 297153,
       "word": "湘雅规培不该让人以死明志",
@@ -3273,6 +3353,14 @@
       "onboard_time": 1773721883,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145291,
+      "num": 136522,
+      "word": "以军袭击伊朗最高安全官员",
+      "onboard_time": 1773740781,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145148,
@@ -3379,6 +3467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140833,
+      "num": 140833,
+      "word": "啥事啊孟子义何与张康乐都去香港",
+      "onboard_time": 1773740600,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139542,
       "num": 139542,
       "word": "安东内利夺F1中国站冠军",
@@ -3473,6 +3569,14 @@
       "onboard_time": 1773541400,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136060,
+      "num": 136060,
+      "word": "雷军说不想背刺老用户",
+      "onboard_time": 1773738681,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 135690,
@@ -3699,14 +3803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 127321,
-      "num": 127321,
-      "word": "正式确诊为番茄",
-      "onboard_time": 1773735862,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127308,
       "num": 127308,
       "word": "鹿哈曾自曝带货7个月赚了3500万",
@@ -3747,14 +3843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126671,
-      "num": 121832,
-      "word": "伊朗这次不想忍了",
-      "onboard_time": 1773738080,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 125581,
       "num": 160516,
       "word": "清明不调休不补班",
@@ -3771,11 +3859,27 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 125369,
+      "num": 152713,
+      "word": "荣耀涨价",
+      "onboard_time": 1773742040,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125252,
       "num": 125252,
       "word": "315记者直击酒店偷拍黑色产业链",
       "onboard_time": 1773560601,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125222,
+      "num": 125222,
+      "word": "坠江学生疑称最后悔保研选择湘雅",
+      "onboard_time": 1773740661,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -3899,14 +4003,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 120875,
-      "num": 120875,
-      "word": "张凌赫也抠手",
-      "onboard_time": 1773737960,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120874,
       "num": 120874,
       "word": "蒯曼4比1王艺迪",
@@ -3969,6 +4065,14 @@
       "onboard_time": 1773581547,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119583,
+      "num": 119583,
+      "word": "eStar全员在评论区开麦了",
+      "onboard_time": 1773740122,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 119508,
@@ -4283,14 +4387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108326,
-      "num": 108326,
-      "word": "雷军说不想背刺老用户",
-      "onboard_time": 1773738681,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 107947,
       "num": 107947,
       "word": "求逐玉加更",
@@ -4419,6 +4515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105976,
+      "num": 105976,
+      "word": "英伟达押注下一个万亿级机遇",
+      "onboard_time": 1773741501,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 105920,
       "num": 105920,
       "word": "向太给郭碧婷买了4块地",
@@ -4513,6 +4617,14 @@
       "onboard_time": 1773641122,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 103273,
+      "num": 103273,
+      "word": "伊朗媒体称拉里贾尼将发表声明",
+      "onboard_time": 1773742281,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103088,
@@ -5651,6 +5763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84242,
+      "num": 84242,
+      "word": "中国女足vs澳大利亚女足",
+      "onboard_time": 1773739102,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84226,
       "num": 84226,
       "word": "李柱延 私联粉丝",
@@ -5715,6 +5835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83248,
+      "num": 83248,
+      "word": "广州中院回应考公诡计事件",
+      "onboard_time": 1773740543,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83108,
       "num": 83108,
       "word": "肖战携藏海传参加盛典",
@@ -5769,6 +5897,14 @@
       "onboard_time": 1773645741,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81535,
+      "num": 81535,
+      "word": "广东00后女生公司估值达110亿",
+      "onboard_time": 1773739879,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81377,
@@ -5920,6 +6056,14 @@
       "word": "张真源登英语21世纪报",
       "onboard_time": 1773729260,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 79513,
+      "num": 79513,
+      "word": "邓凯怎么这么窄",
+      "onboard_time": 1773740661,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -6145,6 +6289,14 @@
       "onboard_time": 1773674062,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75489,
+      "num": 75489,
+      "word": "34岁女子脸部美容9日后身亡",
+      "onboard_time": 1773739521,
+      "rank": 44,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 75379,
@@ -6459,14 +6611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68789,
-      "num": 68789,
-      "word": "美方澄清特朗普威胁推迟访华",
-      "onboard_time": 1773735742,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 68165,
       "num": 68165,
       "word": "买了东西先过咪检",
@@ -6523,6 +6667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67056,
+      "num": 67056,
+      "word": "梦女素材",
+      "onboard_time": 1773739161,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67011,
       "num": 72603,
       "word": "爱上了不会爱上自己的人是什么感受",
@@ -6537,6 +6689,14 @@
       "onboard_time": 1773713661,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65462,
+      "num": 65462,
+      "word": "拉布拉多拉肠犬",
+      "onboard_time": 1773740480,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 65211,
@@ -6577,6 +6737,14 @@
       "onboard_time": 1773737783,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64339,
+      "num": 148092,
+      "word": "东北大爷用千问把孙子教明白了",
+      "onboard_time": 1773741681,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 64164,
@@ -7523,14 +7691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25875,
-      "num": 68769,
-      "word": "甘肃省副省长雷思维被查",
-      "onboard_time": 1773738861,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 25762,
       "num": 25762,
       "word": "高寒司宫令改名高鹤元",
@@ -7825,6 +7985,14 @@
       "onboard_time": 1773656602,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17199,
+      "num": 140358,
+      "word": "猪肉价创7年新低",
+      "onboard_time": 1773741681,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17017,
