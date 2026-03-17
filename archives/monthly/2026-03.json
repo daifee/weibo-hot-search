@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773734920756,
+  "endTime": 1773738228706,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -595,6 +595,14 @@
       "category": "舆论监督,网红"
     },
     {
+      "raw_hot": 1432959,
+      "num": 1179311,
+      "word": "小巷人家2官宣",
+      "onboard_time": 1773732922,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1416460,
       "num": 368710,
       "word": "iPhone17e发布",
@@ -993,14 +1001,6 @@
       "onboard_time": 1772526447,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1120699,
-      "num": 1179311,
-      "word": "小巷人家2官宣",
-      "onboard_time": 1773732922,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1114903,
@@ -2048,6 +2048,14 @@
       "word": "小贝求婚失败",
       "onboard_time": 1772450786,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 787370,
+      "num": 551094,
+      "word": "小巷人家2 范丞丞卢昱晓",
+      "onboard_time": 1773734121,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -3435,6 +3443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 602133,
+      "num": 1096341,
+      "word": "AI大厂月薪3万疯抢文科生",
+      "onboard_time": 1773733222,
+      "rank": 4,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 601630,
       "num": 293827,
       "word": "携程回应大马士革到上海机票550万",
@@ -4017,6 +4033,14 @@
       "onboard_time": 1773240263,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539818,
+      "num": 539818,
+      "word": "以军认为成功暗杀拉里贾尼",
+      "onboard_time": 1773737960,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 539657,
@@ -5387,6 +5411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455198,
+      "num": 285077,
+      "word": "中方向伊朗提供人道主义援助",
+      "onboard_time": 1773734362,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 454317,
       "num": 1072690,
       "word": "胖东来 打假人",
@@ -5737,14 +5769,6 @@
       "onboard_time": 1773047481,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 436257,
-      "num": 595384,
-      "word": "AI大厂月薪3万疯抢文科生",
-      "onboard_time": 1773733222,
-      "rank": 4,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 436110,
@@ -7897,6 +7921,14 @@
       "onboard_time": 1773288441,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 347536,
+      "num": 119667,
+      "word": "以色列刺杀拉里贾尼",
+      "onboard_time": 1773736101,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 347234,
@@ -10475,6 +10507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274547,
+      "num": 815617,
+      "word": "满13周岁女孩免费接种HPV",
+      "onboard_time": 1773733763,
+      "rank": 47,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 274526,
       "num": 274526,
       "word": "中东空域关闭致全球航空大乱",
@@ -10545,6 +10585,14 @@
       "onboard_time": 1773234683,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273272,
+      "num": 184073,
+      "word": "金价大跌黄金9点开卖9点01分售罄",
+      "onboard_time": 1773733342,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 273222,
@@ -10705,6 +10753,14 @@
       "onboard_time": 1772753118,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268855,
+      "num": 268855,
+      "word": "原来这就是小鸟胃啊",
+      "onboard_time": 1773733879,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 268011,
@@ -11195,14 +11251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256714,
-      "num": 184073,
-      "word": "金价大跌黄金9点开卖9点01分售罄",
-      "onboard_time": 1773733342,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 256541,
       "num": 256541,
       "word": "刘文祥过完零丁洋得坨",
@@ -11449,6 +11497,14 @@
       "onboard_time": 1772528247,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 250583,
+      "num": 118333,
+      "word": "宝宝巴士被罚30万元",
+      "onboard_time": 1773735022,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250526,
@@ -13435,6 +13491,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 210566,
+      "num": 560395,
+      "word": "50多斤巨莽现身安溪一工地",
+      "onboard_time": 1773735262,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210330,
       "num": 210330,
       "word": "申论考100分就能上岸了",
@@ -13649,14 +13713,6 @@
       "onboard_time": 1772779160,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205290,
-      "num": 285077,
-      "word": "中方向伊朗提供人道主义援助",
-      "onboard_time": 1773734362,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 205285,
@@ -14451,6 +14507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193324,
+      "num": 117472,
+      "word": "宋家三胞胎14岁身高",
+      "onboard_time": 1773737004,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193263,
       "num": 193263,
       "word": "无畏 赵怀真",
@@ -15091,6 +15155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182979,
+      "num": 182979,
+      "word": "两个女孩之间闹掰的原因",
+      "onboard_time": 1773736162,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182569,
       "num": 182569,
       "word": "樊振东vs沃尔瑟",
@@ -15588,7 +15660,7 @@
     },
     {
       "raw_hot": 175044,
-      "num": 175044,
+      "num": 218783,
       "word": "周杰伦说今晚0点准备",
       "onboard_time": 1773733280,
       "rank": 23,
@@ -20155,6 +20227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130556,
+      "num": 115589,
+      "word": "省考考生被指P高14分误导竞争者",
+      "onboard_time": 1773736461,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 130516,
       "num": 130516,
       "word": "M4芯片款iPadAir发布",
@@ -21443,6 +21523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121316,
+      "num": 121316,
+      "word": "七万元买QQ到底贵不贵",
+      "onboard_time": 1773736522,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 121271,
       "num": 121271,
       "word": "周星驰打劫孙燕姿抢演唱会门票",
@@ -21547,14 +21635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 120894,
-      "num": 120894,
-      "word": "原来这就是小鸟胃啊",
-      "onboard_time": 1773733879,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120874,
       "num": 120874,
       "word": "蒯曼4比1王艺迪",
@@ -21617,6 +21697,14 @@
       "onboard_time": 1772713762,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120400,
+      "num": 120400,
+      "word": "正式确诊为番茄",
+      "onboard_time": 1773735862,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 120391,
@@ -23747,6 +23835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108764,
+      "num": 218568,
+      "word": "逐步推行免费学前教育",
+      "onboard_time": 1773734061,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 108758,
       "num": 108758,
       "word": "无期迷途",
@@ -24283,6 +24379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105800,
+      "num": 105800,
+      "word": "伊朗这次不想忍了",
+      "onboard_time": 1773738080,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105664,
       "num": 105664,
       "word": "郑润泽升降台事故",
@@ -24401,6 +24505,14 @@
       "onboard_time": 1772943981,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 105172,
+      "num": 105172,
+      "word": "银行金条越来越难买了",
+      "onboard_time": 1773738023,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 105135,
@@ -26299,14 +26411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97640,
-      "num": 97640,
-      "word": "小巷人家2 范丞丞卢昱晓",
-      "onboard_time": 1773734121,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97632,
       "num": 126239,
       "word": "湖人vs勇士",
@@ -26761,6 +26865,14 @@
       "onboard_time": 1773127224,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95965,
+      "num": 95965,
+      "word": "外交部回应特朗普访华时间",
+      "onboard_time": 1773736042,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95963,
@@ -29283,6 +29395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87492,
+      "num": 87492,
+      "word": "张凌赫也抠手",
+      "onboard_time": 1773737960,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87379,
       "num": 216389,
       "word": "樊振东转发杜塞官宣发文",
@@ -30059,6 +30179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84990,
+      "num": 84990,
+      "word": "王子文带儿子聚餐",
+      "onboard_time": 1773735682,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84981,
       "num": 84981,
       "word": "我国是世界上最安全国家之一",
@@ -30617,14 +30745,6 @@
       "onboard_time": 1773659603,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83028,
-      "num": 83028,
-      "word": "满13周岁女孩免费接种HPV",
-      "onboard_time": 1773733763,
-      "rank": 47,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 82992,
@@ -31427,6 +31547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80369,
+      "num": 80369,
+      "word": "JackeyLove谈BLG战胜BFX",
+      "onboard_time": 1773734841,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80337,
       "num": 80337,
       "word": "有友鸡爪否认使用双氧水",
@@ -31705,14 +31833,6 @@
       "onboard_time": 1773025401,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79196,
-      "num": 79196,
-      "word": "逐步推行免费学前教育",
-      "onboard_time": 1773734061,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 79177,
@@ -32137,6 +32257,14 @@
       "onboard_time": 1773228260,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 77831,
+      "num": 77831,
+      "word": "苏翊鸣经常教拉塞尔滑雪",
+      "onboard_time": 1773738141,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 77820,
@@ -32699,6 +32827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76346,
+      "num": 76346,
+      "word": "iOS26无缘最强Siri",
+      "onboard_time": 1773738023,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76324,
       "num": 524476,
       "word": "张伯礼说久坐不宜超过1小时",
@@ -33057,14 +33193,6 @@
       "onboard_time": 1773206600,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 75205,
-      "num": 75205,
-      "word": "JackeyLove谈BLG战胜BFX",
-      "onboard_time": 1773734841,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 75175,
@@ -33537,6 +33665,14 @@
       "onboard_time": 1772616804,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73835,
+      "num": 73835,
+      "word": "人生有三样东西最重要",
+      "onboard_time": 1773735382,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 73834,
@@ -36035,6 +36171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64368,
+      "num": 64368,
+      "word": "第一个发现红黑笔好嗑的是天才",
+      "onboard_time": 1773737783,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64326,
       "num": 64326,
       "word": "蔓味轻食切掉霉斑继续用门店已停业",
@@ -36097,6 +36241,14 @@
       "onboard_time": 1773444378,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64164,
+      "num": 64164,
+      "word": "这才是我梦想中的厨房水池",
+      "onboard_time": 1773737482,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 64149,
@@ -36193,6 +36345,14 @@
       "onboard_time": 1773653903,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63709,
+      "num": 76349,
+      "word": "杨洋雨霖铃巨幅海报",
+      "onboard_time": 1773729021,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 63597,
@@ -36417,6 +36577,14 @@
       "onboard_time": 1772958802,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62671,
+      "num": 62671,
+      "word": "李羲承上海签售退款",
+      "onboard_time": 1773737900,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 62660,
@@ -40683,6 +40851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36486,
+      "num": 667984,
+      "word": "神21乘组圆满完成第二次出舱活动",
+      "onboard_time": 1773733943,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36485,
       "num": 786799,
       "word": "建议把更多救命药纳入医保",
@@ -41553,6 +41729,14 @@
       "onboard_time": 1773497902,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30982,
+      "num": 76388,
+      "word": "林沐然艾米等比例长大",
+      "onboard_time": 1773738141,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 30962,
@@ -43427,6 +43611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19098,
+      "num": 76494,
+      "word": "王橹杰 男神蜕变之路",
+      "onboard_time": 1773738141,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19081,
       "num": 19532,
       "word": "肖战匠心赴长路",
@@ -44456,14 +44648,6 @@
       "word": "中国始终是动荡世界最稳定的力量",
       "onboard_time": 1772581463,
       "rank": 16,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 9128,
-      "num": 667984,
-      "word": "神21乘组圆满完成第二次出舱活动",
-      "onboard_time": 1773733943,
-      "rank": 2,
       "category": "国内时政"
     },
     {
