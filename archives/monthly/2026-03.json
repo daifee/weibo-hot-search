@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773781692679,
+  "endTime": 1773784024974,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -45539,6 +45539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14138,
+      "num": 21785,
+      "word": "刘宇宁一如既往感谢观众",
+      "onboard_time": 1773777735,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13985,
       "num": 169615,
       "word": "男子泳池浅水区溺亡警方介入调查",
@@ -45699,19 +45707,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 12595,
+      "raw_hot": 12820,
+      "num": 21767,
+      "word": "电影挽救计划",
+      "onboard_time": 1773772515,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 12613,
       "num": 21790,
       "word": "周深献唱挽救计划主题曲",
       "onboard_time": 1773774616,
       "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 12520,
-      "num": 21765,
-      "word": "电影挽救计划",
-      "onboard_time": 1773772515,
-      "rank": 41,
       "category": "电影"
     },
     {
@@ -45745,14 +45753,6 @@
       "onboard_time": 1772570773,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12269,
-      "num": 20012,
-      "word": "刘宇宁一如既往感谢观众",
-      "onboard_time": 1773777735,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 12023,

@@ -1,6 +1,6 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773781692679,
+  "endTime": 1773784024974,
   "band_list": [
     {
       "raw_hot": 320001,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 28599,
-      "num": 88574,
+      "num": 155371,
       "word": "恋与深空",
       "onboard_time": 1773760583,
       "rank": 43,
@@ -411,7 +411,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 22008,
+      "raw_hot": 22972,
       "num": 87799,
       "word": "逐玉",
       "onboard_time": 1773765678,
@@ -436,11 +436,19 @@
     },
     {
       "raw_hot": 14710,
-      "num": 20063,
+      "num": 21791,
       "word": "玫瑰丛生",
       "onboard_time": 1773778034,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14138,
+      "num": 21785,
+      "word": "刘宇宁一如既往感谢观众",
+      "onboard_time": 1773777735,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 12949,
@@ -451,28 +459,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 12595,
-      "num": 21790,
-      "word": "周深献唱挽救计划主题曲",
-      "onboard_time": 1773774616,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 12520,
-      "num": 21765,
+      "raw_hot": 12820,
+      "num": 21767,
       "word": "电影挽救计划",
       "onboard_time": 1773772515,
       "rank": 41,
       "category": "电影"
     },
     {
-      "raw_hot": 12269,
-      "num": 20012,
-      "word": "刘宇宁一如既往感谢观众",
-      "onboard_time": 1773777735,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 12613,
+      "num": 21790,
+      "word": "周深献唱挽救计划主题曲",
+      "onboard_time": 1773774616,
+      "rank": 45,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
