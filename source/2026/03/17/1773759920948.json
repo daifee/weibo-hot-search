@@ -1,0 +1,410 @@
+{
+  "runTime": 1773759920948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 589657,
+        "num": 1094345,
+        "word": "刘文祥3名员工后厨抽烟吐槽315",
+        "onboard_time": 1773757225,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348030,
+        "num": 803896,
+        "word": "12306回应不想坐B座怎么办",
+        "onboard_time": 1773751822,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67093,
+        "num": 632537,
+        "word": "家电进化开倍速了吗",
+        "onboard_time": 1773756562,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156053,
+        "num": 626779,
+        "word": "多家商场厕所隐藏洗手液擦手纸",
+        "onboard_time": 1773749062,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153544,
+        "num": 609163,
+        "word": "一个烟头夺走22条生命谁该担责",
+        "onboard_time": 1773744621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397128,
+        "num": 595175,
+        "word": "内塔尼亚胡说拉里贾尼已身亡",
+        "onboard_time": 1773758664,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143197,
+        "num": 572915,
+        "word": "一人公司爆火银行坐不住了",
+        "onboard_time": 1773753142,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120953,
+        "num": 553279,
+        "word": "苹果山药糕",
+        "onboard_time": 1773755122,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118384,
+        "num": 538267,
+        "word": "20岁女子瘦到皮包骨查出脂肪肝",
+        "onboard_time": 1773755423,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89201,
+        "num": 528216,
+        "word": "中国女篮战胜巴西",
+        "onboard_time": 1773754942,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687503,
+        "num": 513499,
+        "word": "霍尔木兹海峡争夺战浮出水面",
+        "onboard_time": 1773755904,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 500004,
+        "num": 500004,
+        "word": "小巷人家2官宣",
+        "onboard_time": 1773732922,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410460,
+        "num": 410460,
+        "word": "谢征樊长玉圆房吻",
+        "onboard_time": 1773751342,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293482,
+        "num": 293482,
+        "word": "3岁女童被虐死生父女友已执行死刑",
+        "onboard_time": 1773757403,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313390,
+        "num": 285497,
+        "word": "韩国网友吐槽逐玉",
+        "onboard_time": 1773743422,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263708,
+        "num": 263708,
+        "word": "TF家族翻牌",
+        "onboard_time": 1773755843,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188992,
+        "num": 262976,
+        "word": "宝马大降价30万",
+        "onboard_time": 1773753202,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 208297,
+        "num": 262565,
+        "word": "林沐然演逐玉的时候才19岁",
+        "onboard_time": 1773755182,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171186,
+        "num": 261021,
+        "word": "儿媳挪用婆婆900万给姐姐300万遗产",
+        "onboard_time": 1773749782,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136676,
+        "num": 260985,
+        "word": "男子遭前同事背调杀月薪降5000",
+        "onboard_time": 1773758724,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29476,
+        "num": 259938,
+        "word": "西安一148平方米住宅将1元起拍",
+        "onboard_time": 1773759623,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 796950,
+        "num": 258522,
+        "word": "郑恺苗苗公开三胎小女儿",
+        "onboard_time": 1773747802,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341723,
+        "num": 257891,
+        "word": "女子怀孕2个月后脑出血智力仅3岁",
+        "onboard_time": 1773756984,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558296,
+        "num": 257013,
+        "word": "单位应考虑终止录用P分诈胡考生",
+        "onboard_time": 1773756023,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291709,
+        "num": 256189,
+        "word": "刘昊然 周冬雨",
+        "onboard_time": 1773730702,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255548,
+        "num": 255548,
+        "word": "小巷人家2 范丞丞卢昱晓",
+        "onboard_time": 1773734121,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156149,
+        "num": 255416,
+        "word": "官方给油菜花喷药致蜜蜂大量死亡",
+        "onboard_time": 1773751642,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168204,
+        "num": 255011,
+        "word": "孔雪儿自己手机里可能都没这视频",
+        "onboard_time": 1773759562,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50681,
+        "num": 254799,
+        "word": "启境第二款车中大型SUV年内推出",
+        "onboard_time": 1773756263,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151532,
+        "num": 254524,
+        "word": "公安介入调查高中生过斑马线被撞亡",
+        "onboard_time": 1773747200,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23711,
+        "num": 254112,
+        "word": "高中生过斑马线被撞亡路口无红绿灯",
+        "onboard_time": 1773759802,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35865,
+        "num": 253914,
+        "word": "3人产权住房1人将名下1平米拍卖",
+        "onboard_time": 1773758603,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82055,
+        "num": 253703,
+        "word": "华为靳玉志称把新一代技术都给了启境",
+        "onboard_time": 1773754762,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 69340,
+        "num": 253338,
+        "word": "启境双车齐发亮剑新能源下半场",
+        "onboard_time": 1773756984,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144057,
+        "num": 253128,
+        "word": "你好1983播出反馈",
+        "onboard_time": 1773757344,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129486,
+        "num": 252633,
+        "word": "曝小巷人家2以庄图南李佳为主视角",
+        "onboard_time": 1773746660,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115710,
+        "num": 252387,
+        "word": "伊朗的新战法让美国很头疼",
+        "onboard_time": 1773752962,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102719,
+        "num": 252011,
+        "word": "手机大概率越来越贵",
+        "onboard_time": 1773756023,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106598,
+        "num": 251727,
+        "word": "伊朗对美以发动58波打击",
+        "onboard_time": 1773756922,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18801,
+        "num": 251457,
+        "word": "被人冒名做了胆囊切除术买保险遭拒",
+        "onboard_time": 1773759262,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101497,
+        "num": 251268,
+        "word": "赖清德侮辱台湾抗日先烈",
+        "onboard_time": 1773759443,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92611,
+        "num": 250967,
+        "word": "周杰伦预热新专辑",
+        "onboard_time": 1773749361,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 5898,
+        "num": 250477,
+        "word": "做饭时接个电话家变废墟",
+        "onboard_time": 1773759623,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90298,
+        "num": 250299,
+        "word": "李卿咋这帅",
+        "onboard_time": 1773753023,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81313,
+        "num": 249972,
+        "word": "拉里贾尼发表手写悼词",
+        "onboard_time": 1773743182,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29139,
+        "num": 249662,
+        "word": "启境GT7首发十大新一代黑科技",
+        "onboard_time": 1773754762,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 80335,
+        "num": 249520,
+        "word": "选择题错三个就用黑笔改",
+        "onboard_time": 1773755423,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73353,
+        "num": 249057,
+        "word": "伊朗反击纪念出生3天遇难婴儿",
+        "onboard_time": 1773754164,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69707,
+        "num": 248840,
+        "word": "记者卧底桂林游低价团目睹老人遭威胁",
+        "onboard_time": 1773759443,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72837,
+        "num": 248596,
+        "word": "伊朗这次不想忍了",
+        "onboard_time": 1773738080,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人民出政绩#"
+    }
+  }
+}
