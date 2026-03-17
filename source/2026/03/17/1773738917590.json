@@ -1,0 +1,410 @@
+{
+  "runTime": 1773738917590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 628084,
+        "num": 1100493,
+        "word": "AI大厂月薪3万疯抢文科生",
+        "onboard_time": 1773733222,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 260400,
+        "num": 805177,
+        "word": "满13周岁女孩免费接种HPV",
+        "onboard_time": 1773733763,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 34337,
+        "num": 632110,
+        "word": "神21乘组圆满完成第二次出舱活动",
+        "onboard_time": 1773733943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136455,
+        "num": 350398,
+        "word": "周杰伦说今晚0点准备",
+        "onboard_time": 1773733280,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102838,
+        "num": 305754,
+        "word": "逐步推行免费学前教育",
+        "onboard_time": 1773734061,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 700892,
+        "num": 305207,
+        "word": "以军认为成功暗杀拉里贾尼",
+        "onboard_time": 1773737960,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304537,
+        "num": 304537,
+        "word": "两个女孩之间闹掰的原因",
+        "onboard_time": 1773736162,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84184,
+        "num": 300782,
+        "word": "JackeyLove谈BLG战胜BFX",
+        "onboard_time": 1773734841,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 300778,
+        "num": 300778,
+        "word": "50多斤巨莽现身安溪一工地",
+        "onboard_time": 1773735262,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74224,
+        "num": 292956,
+        "word": "外交部回应特朗普访华时间",
+        "onboard_time": 1773736042,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1383811,
+        "num": 291015,
+        "word": "小巷人家2官宣",
+        "onboard_time": 1773732922,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386496,
+        "num": 278529,
+        "word": "中方向伊朗提供人道主义援助",
+        "onboard_time": 1773734362,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 919300,
+        "num": 271921,
+        "word": "小巷人家2 范丞丞卢昱晓",
+        "onboard_time": 1773734121,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265407,
+        "num": 265407,
+        "word": "原来这就是小鸟胃啊",
+        "onboard_time": 1773733879,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219638,
+        "num": 219638,
+        "word": "赵丽颖于适 浮华之上",
+        "onboard_time": 1773732679,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207238,
+        "num": 207238,
+        "word": "正午阳光又要拍宅斗了",
+        "onboard_time": 1773728360,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150900,
+        "num": 150900,
+        "word": "深圳卫健委抽烟这块越骂越勇",
+        "onboard_time": 1773732261,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115556,
+        "num": 135933,
+        "word": "七万元买QQ到底贵不贵",
+        "onboard_time": 1773736522,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129410,
+        "num": 129410,
+        "word": "小巷人家第二部",
+        "onboard_time": 1773726141,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127321,
+        "num": 127321,
+        "word": "正式确诊为番茄",
+        "onboard_time": 1773735862,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 479574,
+        "num": 127038,
+        "word": "刘昊然 周冬雨",
+        "onboard_time": 1773730702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288921,
+        "num": 126717,
+        "word": "以色列刺杀拉里贾尼",
+        "onboard_time": 1773736101,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261511,
+        "num": 126626,
+        "word": "金价大跌黄金9点开卖9点01分售罄",
+        "onboard_time": 1773733342,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126058,
+        "num": 126058,
+        "word": "A股行情",
+        "onboard_time": 1773731840,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221443,
+        "num": 125548,
+        "word": "宝宝巴士被罚30万元",
+        "onboard_time": 1773735022,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217484,
+        "num": 125299,
+        "word": "宋家三胞胎14岁身高",
+        "onboard_time": 1773737004,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138065,
+        "num": 123831,
+        "word": "伊朗警告日本",
+        "onboard_time": 1773718941,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122036,
+        "num": 122036,
+        "word": "省考考生被指P高14分误导竞争者",
+        "onboard_time": 1773736461,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126671,
+        "num": 121832,
+        "word": "伊朗这次不想忍了",
+        "onboard_time": 1773738080,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120875,
+        "num": 120875,
+        "word": "张凌赫也抠手",
+        "onboard_time": 1773737960,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114619,
+        "num": 114619,
+        "word": "鹿晗专辑发售",
+        "onboard_time": 1773721042,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108326,
+        "num": 108326,
+        "word": "雷军说不想背刺老用户",
+        "onboard_time": 1773738681,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106903,
+        "num": 106903,
+        "word": "金价下跌却买不进",
+        "onboard_time": 1773721343,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95879,
+        "num": 95879,
+        "word": "银行金条越来越难买了",
+        "onboard_time": 1773738023,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95775,
+        "num": 95775,
+        "word": "曝小巷人家2剧情",
+        "onboard_time": 1773728481,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87721,
+        "num": 87721,
+        "word": "苏翊鸣经常教拉塞尔滑雪",
+        "onboard_time": 1773738141,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76423,
+        "num": 76423,
+        "word": "图书馆就应该建在商场里",
+        "onboard_time": 1773738382,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73979,
+        "num": 73979,
+        "word": "ELLE四月刊张凌赫封面预告",
+        "onboard_time": 1773733101,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38926,
+        "num": 70189,
+        "word": "林沐然艾米等比例长大",
+        "onboard_time": 1773738141,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31011,
+        "num": 69638,
+        "word": "王橹杰 男神蜕变之路",
+        "onboard_time": 1773738141,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69325,
+        "num": 69325,
+        "word": "视力不详臂力超强",
+        "onboard_time": 1773738741,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69412,
+        "num": 69131,
+        "word": "正午阳光官宣电影版开端",
+        "onboard_time": 1773738562,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68789,
+        "num": 68789,
+        "word": "美方澄清特朗普威胁推迟访华",
+        "onboard_time": 1773735742,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25875,
+        "num": 68769,
+        "word": "甘肃省副省长雷思维被查",
+        "onboard_time": 1773738861,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68769,
+        "num": 68768,
+        "word": "豆包给周也指导的穿搭",
+        "onboard_time": 1773730223,
+        "rank": 44,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 68629,
+        "num": 68629,
+        "word": "易烊千玺网站歌曲投票",
+        "onboard_time": 1773728062,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60789,
+        "num": 64773,
+        "word": "Kimi回应马斯克点赞AI论文",
+        "onboard_time": 1773735080,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 63678,
+        "num": 63678,
+        "word": "正午阳光2026片单",
+        "onboard_time": 1773730761,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63389,
+        "num": 63389,
+        "word": "假如狗狗们开网约车",
+        "onboard_time": 1773738801,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63150,
+        "num": 63150,
+        "word": "橘猫的基因能有多强",
+        "onboard_time": 1773738861,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程是新的长征#"
+    }
+  }
+}

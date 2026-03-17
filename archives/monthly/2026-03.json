@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773738228706,
+  "endTime": 1773738917590,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -1587,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 919300,
+      "num": 551094,
+      "word": "小巷人家2 范丞丞卢昱晓",
+      "onboard_time": 1773734121,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 914822,
       "num": 298816,
       "word": "张凌赫田曦薇下意识的牵手",
@@ -2048,14 +2056,6 @@
       "word": "小贝求婚失败",
       "onboard_time": 1772450786,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 787370,
-      "num": 551094,
-      "word": "小巷人家2 范丞丞卢昱晓",
-      "onboard_time": 1773734121,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -2561,6 +2561,14 @@
       "onboard_time": 1772955800,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 700892,
+      "num": 539818,
+      "word": "以军认为成功暗杀拉里贾尼",
+      "onboard_time": 1773737960,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 699165,
@@ -3171,6 +3179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 628084,
+      "num": 1100493,
+      "word": "AI大厂月薪3万疯抢文科生",
+      "onboard_time": 1773733222,
+      "rank": 4,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 626086,
       "num": 626086,
       "word": "美以伊最新局势",
@@ -3441,14 +3457,6 @@
       "onboard_time": 1772843781,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 602133,
-      "num": 1096341,
-      "word": "AI大厂月薪3万疯抢文科生",
-      "onboard_time": 1773733222,
-      "rank": 4,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 601630,
@@ -4033,14 +4041,6 @@
       "onboard_time": 1773240263,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 539818,
-      "num": 539818,
-      "word": "以军认为成功暗杀拉里贾尼",
-      "onboard_time": 1773737960,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 539657,
@@ -7924,7 +7924,7 @@
     },
     {
       "raw_hot": 347536,
-      "num": 119667,
+      "num": 126717,
       "word": "以色列刺杀拉里贾尼",
       "onboard_time": 1773736101,
       "rank": 21,
@@ -9395,6 +9395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304537,
+      "num": 304537,
+      "word": "两个女孩之间闹掰的原因",
+      "onboard_time": 1773736162,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304329,
       "num": 359735,
       "word": "骄阳似我",
@@ -9529,6 +9537,14 @@
       "onboard_time": 1772293583,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 300778,
+      "num": 560395,
+      "word": "50多斤巨莽现身安溪一工地",
+      "onboard_time": 1773735262,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300305,
@@ -11500,7 +11516,7 @@
     },
     {
       "raw_hot": 250583,
-      "num": 118333,
+      "num": 125548,
       "word": "宝宝巴士被罚30万元",
       "onboard_time": 1773735022,
       "rank": 23,
@@ -13099,6 +13115,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 217484,
+      "num": 125299,
+      "word": "宋家三胞胎14岁身高",
+      "onboard_time": 1773737004,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216986,
       "num": 216986,
       "word": "中国女篮vs捷克女篮",
@@ -13489,14 +13513,6 @@
       "onboard_time": 1773578606,
       "rank": 30,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 210566,
-      "num": 560395,
-      "word": "50多斤巨莽现身安溪一工地",
-      "onboard_time": 1773735262,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210330,
@@ -14507,14 +14523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193324,
-      "num": 117472,
-      "word": "宋家三胞胎14岁身高",
-      "onboard_time": 1773737004,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193263,
       "num": 193263,
       "word": "无畏 赵怀真",
@@ -15155,14 +15163,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 182979,
-      "num": 182979,
-      "word": "两个女孩之间闹掰的原因",
-      "onboard_time": 1773736162,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182569,
       "num": 182569,
       "word": "樊振东vs沃尔瑟",
@@ -15660,7 +15660,7 @@
     },
     {
       "raw_hot": 175044,
-      "num": 218783,
+      "num": 350398,
       "word": "周杰伦说今晚0点准备",
       "onboard_time": 1773733280,
       "rank": 23,
@@ -20228,7 +20228,7 @@
     },
     {
       "raw_hot": 130556,
-      "num": 115589,
+      "num": 122036,
       "word": "省考考生被指P高14分误导竞争者",
       "onboard_time": 1773736461,
       "rank": 26,
@@ -20635,6 +20635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127321,
+      "num": 127321,
+      "word": "正式确诊为番茄",
+      "onboard_time": 1773735862,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127308,
       "num": 127308,
       "word": "鹿哈曾自曝带货7个月赚了3500万",
@@ -20745,6 +20753,14 @@
       "onboard_time": 1772690122,
       "rank": 27,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 126671,
+      "num": 121832,
+      "word": "伊朗这次不想忍了",
+      "onboard_time": 1773738080,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126582,
@@ -21524,7 +21540,7 @@
     },
     {
       "raw_hot": 121316,
-      "num": 121316,
+      "num": 135933,
       "word": "七万元买QQ到底贵不贵",
       "onboard_time": 1773736522,
       "rank": 17,
@@ -21635,6 +21651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120875,
+      "num": 120875,
+      "word": "张凌赫也抠手",
+      "onboard_time": 1773737960,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120874,
       "num": 120874,
       "word": "蒯曼4比1王艺迪",
@@ -21697,14 +21721,6 @@
       "onboard_time": 1772713762,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 120400,
-      "num": 120400,
-      "word": "正式确诊为番茄",
-      "onboard_time": 1773735862,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 120391,
@@ -23836,7 +23852,7 @@
     },
     {
       "raw_hot": 108764,
-      "num": 218568,
+      "num": 305754,
       "word": "逐步推行免费学前教育",
       "onboard_time": 1773734061,
       "rank": 49,
@@ -23913,6 +23929,14 @@
       "onboard_time": 1773583886,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108326,
+      "num": 108326,
+      "word": "雷军说不想背刺老用户",
+      "onboard_time": 1773738681,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 108310,
@@ -24377,14 +24401,6 @@
       "onboard_time": 1773655821,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105800,
-      "num": 105800,
-      "word": "伊朗这次不想忍了",
-      "onboard_time": 1773738080,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 105664,
@@ -26868,7 +26884,7 @@
     },
     {
       "raw_hot": 95965,
-      "num": 95965,
+      "num": 292956,
       "word": "外交部回应特朗普访华时间",
       "onboard_time": 1773736042,
       "rank": 31,
@@ -29331,6 +29347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 87721,
+      "num": 87721,
+      "word": "苏翊鸣经常教拉塞尔滑雪",
+      "onboard_time": 1773738141,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87706,
       "num": 87706,
       "word": "美军林肯号航母驶离伊朗沿海",
@@ -29393,14 +29417,6 @@
       "onboard_time": 1773228982,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87492,
-      "num": 87492,
-      "word": "张凌赫也抠手",
-      "onboard_time": 1773737960,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 87379,
@@ -30401,6 +30417,14 @@
       "onboard_time": 1773539780,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84184,
+      "num": 300782,
+      "word": "JackeyLove谈BLG战胜BFX",
+      "onboard_time": 1773734841,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 84179,
@@ -31547,14 +31571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80369,
-      "num": 80369,
-      "word": "JackeyLove谈BLG战胜BFX",
-      "onboard_time": 1773734841,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 80337,
       "num": 80337,
       "word": "有友鸡爪否认使用双氧水",
@@ -32259,14 +32275,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 77831,
-      "num": 77831,
-      "word": "苏翊鸣经常教拉塞尔滑雪",
-      "onboard_time": 1773738141,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77820,
       "num": 141428,
       "word": "Angelababy公主拍立得",
@@ -32801,6 +32809,14 @@
       "onboard_time": 1773666924,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76423,
+      "num": 76423,
+      "word": "图书馆就应该建在商场里",
+      "onboard_time": 1773738382,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 76417,
@@ -34891,6 +34907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69412,
+      "num": 69131,
+      "word": "正午阳光官宣电影版开端",
+      "onboard_time": 1773738562,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69375,
       "num": 84348,
       "word": "游客夜爬华山偶遇神兽",
@@ -34937,6 +34961,14 @@
       "onboard_time": 1773391881,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69325,
+      "num": 69325,
+      "word": "视力不详臂力超强",
+      "onboard_time": 1773738741,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 69295,
@@ -35121,6 +35153,14 @@
       "onboard_time": 1773217642,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 68789,
+      "num": 68789,
+      "word": "美方澄清特朗普威胁推迟访华",
+      "onboard_time": 1773735742,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68758,
@@ -36403,6 +36443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63389,
+      "num": 63389,
+      "word": "假如狗狗们开网约车",
+      "onboard_time": 1773738801,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63370,
       "num": 118431,
       "word": "迪拜再次传出爆炸声",
@@ -36473,6 +36521,14 @@
       "onboard_time": 1772968941,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63150,
+      "num": 63150,
+      "word": "橘猫的基因能有多强",
+      "onboard_time": 1773738861,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 63093,
@@ -37049,6 +37105,14 @@
       "onboard_time": 1772837656,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60789,
+      "num": 64773,
+      "word": "Kimi回应马斯克点赞AI论文",
+      "onboard_time": 1773735080,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 60746,
@@ -40539,6 +40603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38926,
+      "num": 76388,
+      "word": "林沐然艾米等比例长大",
+      "onboard_time": 1773738141,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38919,
       "num": 948816,
       "word": "台湾老百姓最期盼的是过太平日子",
@@ -41731,11 +41803,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30982,
-      "num": 76388,
-      "word": "林沐然艾米等比例长大",
+      "raw_hot": 31011,
+      "num": 76494,
+      "word": "王橹杰 男神蜕变之路",
       "onboard_time": 1773738141,
-      "rank": 38,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -42497,6 +42569,14 @@
       "onboard_time": 1773197660,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25875,
+      "num": 68769,
+      "word": "甘肃省副省长雷思维被查",
+      "onboard_time": 1773738861,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25762,
@@ -43609,14 +43689,6 @@
       "onboard_time": 1772373085,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19098,
-      "num": 76494,
-      "word": "王橹杰 男神蜕变之路",
-      "onboard_time": 1773738141,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 19081,
