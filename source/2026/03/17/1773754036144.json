@@ -1,0 +1,410 @@
+{
+  "runTime": 1773754036144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 562679,
+        "num": 1090028,
+        "word": "12306回应不想坐B座怎么办",
+        "onboard_time": 1773751822,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378796,
+        "num": 782130,
+        "word": "多家商场厕所隐藏洗手液擦手纸",
+        "onboard_time": 1773749062,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16887,
+        "num": 619706,
+        "word": "神21乘组圆满完成第二次出舱活动",
+        "onboard_time": 1773733943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319102,
+        "num": 319102,
+        "word": "警方通报高中生过斑马线被撞身亡",
+        "onboard_time": 1773751162,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 234542,
+        "num": 234542,
+        "word": "官方给油菜花喷药致蜜蜂大量死亡",
+        "onboard_time": 1773751642,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215965,
+        "num": 215965,
+        "word": "一个烟头夺走22条生命谁该担责",
+        "onboard_time": 1773744621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182200,
+        "num": 182200,
+        "word": "伊朗最高领袖驳回斡旋提案",
+        "onboard_time": 1773747320,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125966,
+        "num": 125966,
+        "word": "原来这就是小鸟胃啊",
+        "onboard_time": 1773733879,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117312,
+        "num": 117312,
+        "word": "好好的时光",
+        "onboard_time": 1773753443,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112825,
+        "num": 112825,
+        "word": "OPPO发布会",
+        "onboard_time": 1773747382,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 595833,
+        "num": 112796,
+        "word": "谢征樊长玉圆房吻",
+        "onboard_time": 1773751342,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522561,
+        "num": 111841,
+        "word": "小巷人家2官宣",
+        "onboard_time": 1773732922,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419753,
+        "num": 110985,
+        "word": "公安介入调查高中生过斑马线被撞亡",
+        "onboard_time": 1773747200,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474341,
+        "num": 110308,
+        "word": "曝小巷人家2以庄图南李佳为主视角",
+        "onboard_time": 1773746660,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436653,
+        "num": 109755,
+        "word": "韩国网友吐槽逐玉",
+        "onboard_time": 1773743422,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417799,
+        "num": 109021,
+        "word": "儿媳挪用婆婆900万给姐姐300万遗产",
+        "onboard_time": 1773749782,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191695,
+        "num": 108921,
+        "word": "金价波动",
+        "onboard_time": 1773749542,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 65742,
+        "num": 108336,
+        "word": "华为广汽跨界合作打造启境品牌",
+        "onboard_time": 1773752723,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154747,
+        "num": 107591,
+        "word": "伊朗这次不想忍了",
+        "onboard_time": 1773738080,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116543,
+        "num": 106440,
+        "word": "唐嫣杨晨 真闺蜜N搭",
+        "onboard_time": 1773747982,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1114543,
+        "num": 106224,
+        "word": "郑恺苗苗公开三胎小女儿",
+        "onboard_time": 1773747802,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313984,
+        "num": 105521,
+        "word": "宝马大降价30万",
+        "onboard_time": 1773753202,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 230512,
+        "num": 104815,
+        "word": "小巷人家2 范丞丞卢昱晓",
+        "onboard_time": 1773734121,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181981,
+        "num": 103991,
+        "word": "刘昊然 周冬雨",
+        "onboard_time": 1773730702,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162727,
+        "num": 103515,
+        "word": "内塔尼亚胡下令消灭伊朗政府高官",
+        "onboard_time": 1773751763,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103215,
+        "num": 103215,
+        "word": "宝宝巴士被罚30万元",
+        "onboard_time": 1773735022,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137146,
+        "num": 103189,
+        "word": "伊朗的新战法让美国很头疼",
+        "onboard_time": 1773752962,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102226,
+        "num": 102226,
+        "word": "周杰伦预热新专辑",
+        "onboard_time": 1773749361,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97355,
+        "num": 97355,
+        "word": "30岁小伙确诊红斑狼疮",
+        "onboard_time": 1773747262,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94251,
+        "num": 94251,
+        "word": "水沟玩耍无人管姐弟系母亲去世",
+        "onboard_time": 1773752423,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112645,
+        "num": 94231,
+        "word": "启境GT7",
+        "onboard_time": 1773753923,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 105566,
+        "num": 94184,
+        "word": "一人公司爆火银行坐不住了",
+        "onboard_time": 1773753142,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94134,
+        "num": 94134,
+        "word": "下次油价调整每升或涨1元以上",
+        "onboard_time": 1773752723,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92007,
+        "num": 92007,
+        "word": "齐旻是邓凯临时救场的",
+        "onboard_time": 1773746781,
+        "rank": 33,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 89689,
+        "num": 89689,
+        "word": "拉里贾尼发表手写悼词",
+        "onboard_time": 1773743182,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87155,
+        "num": 87155,
+        "word": "李卿咋这帅",
+        "onboard_time": 1773753023,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86977,
+        "num": 86977,
+        "word": "郑恺苗苗一家五口同框",
+        "onboard_time": 1773745221,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80683,
+        "num": 80683,
+        "word": "金价银价下跌原因找到了",
+        "onboard_time": 1773747081,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83029,
+        "num": 80596,
+        "word": "杨紫在罗马许愿池报身份证号",
+        "onboard_time": 1773748822,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80426,
+        "num": 80426,
+        "word": "国产存储到了必须突围的时候",
+        "onboard_time": 1773753682,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 79876,
+        "num": 79876,
+        "word": "AI大厂月薪3万疯抢文科生",
+        "onboard_time": 1773733222,
+        "rank": 40,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 79710,
+        "num": 79710,
+        "word": "两女孩玩耍一人突然拿砖头砸对方",
+        "onboard_time": 1773752243,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76743,
+        "num": 76743,
+        "word": "睡觉大赛7小时不许上厕所",
+        "onboard_time": 1773752423,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75902,
+        "num": 75902,
+        "word": "中国女足1比2澳大利亚",
+        "onboard_time": 1773747982,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74446,
+        "num": 74446,
+        "word": "张维伊为了减肥把零食全给吕严",
+        "onboard_time": 1773749843,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71714,
+        "num": 71714,
+        "word": "A股调整背后原因",
+        "onboard_time": 1773751523,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71209,
+        "num": 71209,
+        "word": "中国女足无缘亚洲杯决赛",
+        "onboard_time": 1773749361,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71144,
+        "num": 71144,
+        "word": "金价大跌黄金9点开卖9点01分售罄",
+        "onboard_time": 1773733342,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69978,
+        "num": 69978,
+        "word": "英伟达押注下一个万亿级机遇",
+        "onboard_time": 1773741501,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 66918,
+        "num": 66918,
+        "word": "医护发患者手术视频臀部暴露",
+        "onboard_time": 1773751702,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程是新的长征#"
+    }
+  }
+}

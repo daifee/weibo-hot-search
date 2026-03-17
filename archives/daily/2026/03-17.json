@@ -1,6 +1,6 @@
 {
   "startTime": 1773681061140,
-  "endTime": 1773748994111,
+  "endTime": 1773754036144,
   "band_list": [
     {
       "raw_hot": 1432959,
@@ -17,6 +17,14 @@
       "onboard_time": 1773743422,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1114543,
+      "num": 135710,
+      "word": "郑恺苗苗公开三胎小女儿",
+      "onboard_time": 1773747802,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 1082922,
@@ -99,14 +107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 688005,
-      "num": 135710,
-      "word": "郑恺苗苗公开三胎小女儿",
-      "onboard_time": 1773747802,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 674618,
       "num": 803260,
       "word": "入职未满1年怀孕请假被拒获赔10万",
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595833,
+      "num": 112796,
+      "word": "谢征樊长玉圆房吻",
+      "onboard_time": 1773751342,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 581957,
       "num": 180395,
       "word": "刘昊然 周冬雨",
@@ -153,6 +161,14 @@
       "onboard_time": 1773732801,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 562679,
+      "num": 1090028,
+      "word": "12306回应不想坐B座怎么办",
+      "onboard_time": 1773751822,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 560582,
@@ -235,6 +251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 474341,
+      "num": 1066913,
+      "word": "曝小巷人家2以庄图南李佳为主视角",
+      "onboard_time": 1773746660,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 470583,
       "num": 1075293,
       "word": "奥斯卡再陷歧视亚裔争议",
@@ -267,12 +291,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 420935,
-      "num": 1066913,
-      "word": "曝小巷人家2以庄图南李佳为主视角",
-      "onboard_time": 1773746660,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 417799,
+      "num": 109021,
+      "word": "儿媳挪用婆婆900万给姐姐300万遗产",
+      "onboard_time": 1773749782,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 401792,
@@ -329,6 +353,14 @@
       "onboard_time": 1773713000,
       "rank": 20,
       "category": "健康医疗,健康医疗"
+    },
+    {
+      "raw_hot": 378796,
+      "num": 782130,
+      "word": "多家商场厕所隐藏洗手液擦手纸",
+      "onboard_time": 1773749062,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 377214,
@@ -427,12 +459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 319102,
+      "num": 319102,
+      "word": "警方通报高中生过斑马线被撞身亡",
+      "onboard_time": 1773751162,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 314664,
       "num": 209004,
       "word": "易烊千玺网站歌曲投票",
       "onboard_time": 1773728062,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313984,
+      "num": 105521,
+      "word": "宝马大降价30万",
+      "onboard_time": 1773753202,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 309092,
@@ -675,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234542,
+      "num": 234542,
+      "word": "官方给油菜花喷药致蜜蜂大量死亡",
+      "onboard_time": 1773751642,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233802,
       "num": 223805,
       "word": "被美国架在火上的日本",
@@ -787,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191695,
+      "num": 108921,
+      "word": "金价波动",
+      "onboard_time": 1773749542,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187005,
       "num": 187005,
       "word": "甜茶的面相变了",
@@ -809,6 +873,14 @@
       "onboard_time": 1773732261,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182200,
+      "num": 182200,
+      "word": "伊朗最高领袖驳回斡旋提案",
+      "onboard_time": 1773747320,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 181759,
@@ -905,6 +977,14 @@
       "onboard_time": 1773718581,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 162727,
+      "num": 103515,
+      "word": "内塔尼亚胡下令消灭伊朗政府高官",
+      "onboard_time": 1773751763,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159195,
@@ -1088,6 +1168,14 @@
       "word": "伊朗发起第56波打击",
       "onboard_time": 1773675981,
       "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 137146,
+      "num": 103189,
+      "word": "伊朗的新战法让美国很头疼",
+      "onboard_time": 1773752962,
+      "rank": 26,
       "category": "国际时政"
     },
     {
@@ -1299,12 +1387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117060,
-      "num": 117060,
-      "word": "伊朗最高领袖驳回斡旋提案",
-      "onboard_time": 1773747320,
-      "rank": 28,
-      "category": "国际时政"
+      "raw_hot": 117312,
+      "num": 117312,
+      "word": "好好的时光",
+      "onboard_time": 1773753443,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 115737,
@@ -1321,6 +1409,14 @@
       "onboard_time": 1773721702,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112645,
+      "num": 94231,
+      "word": "启境GT7",
+      "onboard_time": 1773753923,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 111395,
@@ -1379,6 +1475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 105566,
+      "num": 94184,
+      "word": "一人公司爆火银行坐不住了",
+      "onboard_time": 1773753142,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105471,
       "num": 105471,
       "word": "苹果烧排骨",
@@ -1433,6 +1537,14 @@
       "onboard_time": 1773739102,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102226,
+      "num": 102226,
+      "word": "周杰伦预热新专辑",
+      "onboard_time": 1773749361,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 102147,
@@ -1563,12 +1675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94251,
+      "num": 94251,
+      "word": "水沟玩耍无人管姐弟系母亲去世",
+      "onboard_time": 1773752423,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94221,
       "num": 94221,
       "word": "中国女足落后澳大利亚",
       "onboard_time": 1773746961,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94134,
+      "num": 94134,
+      "word": "下次油价调整每升或涨1元以上",
+      "onboard_time": 1773752723,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 93856,
@@ -1643,6 +1771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87155,
+      "num": 87155,
+      "word": "李卿咋这帅",
+      "onboard_time": 1773753023,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85565,
       "num": 85565,
       "word": "34岁女子脸部美容9日后身亡",
@@ -1699,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83029,
+      "num": 80596,
+      "word": "杨紫在罗马许愿池报身份证号",
+      "onboard_time": 1773748822,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82336,
       "num": 82336,
       "word": "男孩独自照顾婴儿妹妹崩溃大哭",
@@ -1731,12 +1875,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80426,
+      "num": 80426,
+      "word": "国产存储到了必须突围的时候",
+      "onboard_time": 1773753682,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 80128,
       "num": 80128,
       "word": "邓凯怎么这么窄",
       "onboard_time": 1773740661,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79710,
+      "num": 79710,
+      "word": "两女孩玩耍一人突然拿砖头砸对方",
+      "onboard_time": 1773752243,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79581,
@@ -1792,6 +1952,14 @@
       "word": "山姆三文鱼遵循的是非即食国标",
       "onboard_time": 1773731122,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76743,
+      "num": 76743,
+      "word": "睡觉大赛7小时不许上厕所",
+      "onboard_time": 1773752423,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1867,6 +2035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74446,
+      "num": 74446,
+      "word": "张维伊为了减肥把零食全给吕严",
+      "onboard_time": 1773749843,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73835,
       "num": 73835,
       "word": "人生有三样东西最重要",
@@ -1915,12 +2091,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71714,
+      "num": 71714,
+      "word": "A股调整背后原因",
+      "onboard_time": 1773751523,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 71488,
       "num": 71488,
       "word": "卡塔尔大熊猫馆暂时闭馆",
       "onboard_time": 1773728181,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 71209,
+      "num": 71209,
+      "word": "中国女足无缘亚洲杯决赛",
+      "onboard_time": 1773749361,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 69738,
@@ -2003,6 +2195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66918,
+      "num": 66918,
+      "word": "医护发患者手术视频臀部暴露",
+      "onboard_time": 1773751702,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66199,
       "num": 66199,
       "word": "AI时代文科生比理科生更吃香",
@@ -2033,6 +2233,14 @@
       "onboard_time": 1773744921,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 65742,
+      "num": 108336,
+      "word": "华为广汽跨界合作打造启境品牌",
+      "onboard_time": 1773752723,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 65462,
@@ -2305,14 +2513,6 @@
       "onboard_time": 1773734422,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40399,
-      "num": 66382,
-      "word": "杨紫在罗马许愿池报身份证号",
-      "onboard_time": 1773748822,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 39735,
