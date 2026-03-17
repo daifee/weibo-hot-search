@@ -1,6 +1,6 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773769188182,
+  "endTime": 1773774809005,
   "band_list": [
     {
       "raw_hot": 320001,
@@ -227,19 +227,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40587,
+      "num": 88846,
+      "word": "1983剧情",
+      "onboard_time": 1773767117,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39148,
       "num": 88140,
       "word": "曝小巷人家2以庄图南李佳为主视角",
       "onboard_time": 1773746660,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 36419,
-      "num": 88846,
-      "word": "1983剧情",
-      "onboard_time": 1773767117,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -379,7 +379,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24770,
+      "raw_hot": 24809,
       "num": 88302,
       "word": "周也",
       "onboard_time": 1773765257,
@@ -403,7 +403,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 22478,
+      "raw_hot": 22725,
       "num": 87830,
       "word": "小巷人家",
       "onboard_time": 1773764422,
@@ -411,7 +411,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21621,
+      "raw_hot": 21712,
       "num": 87799,
       "word": "逐玉",
       "onboard_time": 1773765678,
@@ -425,6 +425,38 @@
       "onboard_time": 1773756562,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15702,
+      "num": 19214,
+      "word": "时装周瞩目艺人TOP10",
+      "onboard_time": 1773769995,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12949,
+      "num": 19193,
+      "word": "黄子弘凡得知能在鸟巢开唱后没信",
+      "onboard_time": 1773770716,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 12134,
+      "num": 19190,
+      "word": "电影挽救计划",
+      "onboard_time": 1773772515,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 11239,
+      "num": 19177,
+      "word": "周深献唱挽救计划主题曲",
+      "onboard_time": 1773774616,
+      "rank": 45,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
