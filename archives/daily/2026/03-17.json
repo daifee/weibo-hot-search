@@ -1,6 +1,6 @@
 {
   "startTime": 1773681061140,
-  "endTime": 1773742485828,
+  "endTime": 1773745144668,
   "band_list": [
     {
       "raw_hot": 1432959,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 937700,
+      "num": 571314,
+      "word": "韩国网友吐槽逐玉",
+      "onboard_time": 1773743422,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 919300,
       "num": 551094,
       "word": "小巷人家2 范丞丞卢昱晓",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 722515,
-      "num": 149949,
+      "num": 179698,
       "word": "以色列刺杀拉里贾尼",
       "onboard_time": 1773736101,
       "rank": 21,
@@ -169,6 +177,14 @@
       "onboard_time": 1773718280,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 504702,
+      "num": 1080752,
+      "word": "省考第一P分诈胡后道歉称自己卑劣",
+      "onboard_time": 1773742582,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 495606,
@@ -283,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361396,
+      "num": 278604,
+      "word": "拉里贾尼发表手写悼词",
+      "onboard_time": 1773743182,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 356843,
       "num": 140004,
       "word": "瞿颖的便宜货她是真的在用",
@@ -291,7 +315,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352507,
+      "raw_hot": 353636,
       "num": 139330,
       "word": "伊朗这次不想忍了",
       "onboard_time": 1773738080,
@@ -353,6 +377,14 @@
       "onboard_time": 1773728062,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309092,
+      "num": 794563,
+      "word": "湘雅医院回应坠江学生导师停诊",
+      "onboard_time": 1773742881,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300778,
@@ -531,6 +563,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 248623,
+      "num": 248623,
+      "word": "荣耀涨价",
+      "onboard_time": 1773742040,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 238840,
       "num": 147603,
       "word": "张凌赫也抠手",
@@ -627,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204556,
+      "num": 87729,
+      "word": "本科同学谈湘雅医院坠江研究生",
+      "onboard_time": 1773744082,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204369,
       "num": 204369,
       "word": "正午阳光2026片单",
@@ -659,12 +707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185951,
+      "num": 185951,
+      "word": "李海涛受贿1.5亿余元",
+      "onboard_time": 1773741021,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 183071,
       "num": 183071,
       "word": "深圳卫健委抽烟这块越骂越勇",
       "onboard_time": 1773732261,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 181759,
+      "num": 125222,
+      "word": "坠江学生疑称最后悔保研选择湘雅",
+      "onboard_time": 1773740661,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180244,
@@ -712,14 +776,6 @@
       "word": "蒋超良被逮捕",
       "onboard_time": 1773716662,
       "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 173259,
-      "num": 146638,
-      "word": "李海涛受贿1.5亿余元",
-      "onboard_time": 1773741021,
-      "rank": 16,
       "category": "国内时政"
     },
     {
@@ -883,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141250,
+      "num": 103008,
+      "word": "赞达亚独家公开与荷兰弟的结婚视频",
+      "onboard_time": 1773742641,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140833,
       "num": 140833,
       "word": "啥事啊孟子义何与张康乐都去香港",
@@ -1011,22 +1075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125369,
-      "num": 152713,
-      "word": "荣耀涨价",
-      "onboard_time": 1773742040,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 125222,
-      "num": 125222,
-      "word": "坠江学生疑称最后悔保研选择湘雅",
-      "onboard_time": 1773740661,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124174,
       "num": 124174,
       "word": "你好1983今日开播",
@@ -1099,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117575,
+      "num": 87234,
+      "word": "以色列称已死的拉里贾尼账号更新",
+      "onboard_time": 1773744320,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115737,
       "num": 153146,
       "word": "81岁老人为外籍外孙女寻意定监护人",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1773721702,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114101,
+      "num": 114101,
+      "word": "一个烟头夺走22条生命谁该担责",
+      "onboard_time": 1773744621,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111395,
@@ -1201,6 +1265,14 @@
       "onboard_time": 1773742281,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102593,
+      "num": 102593,
+      "word": "中国女足vs澳大利亚女足",
+      "onboard_time": 1773739102,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 102147,
@@ -1403,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85565,
+      "num": 85565,
+      "word": "34岁女子脸部美容9日后身亡",
+      "onboard_time": 1773739521,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 85046,
       "num": 85046,
       "word": "王一博瑞士回国路透",
@@ -1417,14 +1497,6 @@
       "onboard_time": 1773735682,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84242,
-      "num": 84242,
-      "word": "中国女足vs澳大利亚女足",
-      "onboard_time": 1773739102,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 84184,
@@ -1491,19 +1563,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80128,
+      "num": 80128,
+      "word": "邓凯怎么这么窄",
+      "onboard_time": 1773740661,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79515,
       "num": 79515,
       "word": "张真源登英语21世纪报",
       "onboard_time": 1773729260,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 79513,
-      "num": 79513,
-      "word": "邓凯怎么这么窄",
-      "onboard_time": 1773740661,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1520,6 +1592,14 @@
       "word": "张凌赫回复谢征",
       "onboard_time": 1773704361,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77407,
+      "num": 77407,
+      "word": "原来逐玉这段吻戏是这么拍的",
+      "onboard_time": 1773743240,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1561,14 +1641,6 @@
       "onboard_time": 1773704719,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75489,
-      "num": 75489,
-      "word": "34岁女子脸部美容9日后身亡",
-      "onboard_time": 1773739521,
-      "rank": 44,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 75379,
@@ -1633,6 +1705,14 @@
       "onboard_time": 1773728181,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70465,
+      "num": 185275,
+      "word": "买一套房补贴10万杭州多地已安排",
+      "onboard_time": 1773744082,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69738,
@@ -1715,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65799,
+      "num": 65799,
+      "word": "葱油鲍鱼片",
+      "onboard_time": 1773744921,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 65462,
       "num": 65462,
       "word": "拉布拉多拉肠犬",
@@ -1795,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61917,
+      "num": 64393,
+      "word": "第一次当服务员脑子乱码",
+      "onboard_time": 1773745041,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61728,
       "num": 61728,
       "word": "AirPodsMax2按表冠拍照",
@@ -1811,12 +1907,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 60523,
+      "num": 64171,
+      "word": "留给大家的求婚方式不多了",
+      "onboard_time": 1773742341,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60486,
       "num": 60486,
       "word": "AirPodsMax2发布",
       "onboard_time": 1773668844,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 59516,
+      "num": 64031,
+      "word": "山姆销售镉超标冻干草莓或涉刑事",
+      "onboard_time": 1773743362,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 56974,
@@ -1875,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51261,
+      "num": 104567,
+      "word": "坠江身亡研究生导师有多个头衔",
+      "onboard_time": 1773744560,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46457,
       "num": 46457,
       "word": "KPL福建靠谱男人",
@@ -1928,6 +2048,14 @@
       "word": "坠江研究生疑留遗言曾遭导师训斥",
       "onboard_time": 1773679519,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42421,
+      "num": 79259,
+      "word": "几十年不管女儿六旬父亲老了要赡养",
+      "onboard_time": 1773744382,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

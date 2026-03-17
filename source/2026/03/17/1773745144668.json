@@ -1,0 +1,410 @@
+{
+  "runTime": 1773745144668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 504702,
+        "num": 1080752,
+        "word": "省考第一P分诈胡后道歉称自己卑劣",
+        "onboard_time": 1773742582,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309092,
+        "num": 794563,
+        "word": "湘雅医院回应坠江学生导师停诊",
+        "onboard_time": 1773742881,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28560,
+        "num": 609414,
+        "word": "神21乘组圆满完成第二次出舱活动",
+        "onboard_time": 1773733943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 937700,
+        "num": 571314,
+        "word": "韩国网友吐槽逐玉",
+        "onboard_time": 1773743422,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279858,
+        "num": 279858,
+        "word": "AI大厂月薪3万疯抢文科生",
+        "onboard_time": 1773733222,
+        "rank": 4,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 361396,
+        "num": 278604,
+        "word": "拉里贾尼发表手写悼词",
+        "onboard_time": 1773743182,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270748,
+        "num": 270748,
+        "word": "27岁女子应聘卡旺卡被嫌年龄大",
+        "onboard_time": 1773739042,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248623,
+        "num": 248623,
+        "word": "荣耀涨价",
+        "onboard_time": 1773742040,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185951,
+        "num": 185951,
+        "word": "李海涛受贿1.5亿余元",
+        "onboard_time": 1773741021,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70465,
+        "num": 185275,
+        "word": "买一套房补贴10万杭州多地已安排",
+        "onboard_time": 1773744082,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 923886,
+        "num": 181845,
+        "word": "小巷人家2官宣",
+        "onboard_time": 1773732922,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527958,
+        "num": 179698,
+        "word": "以色列刺杀拉里贾尼",
+        "onboard_time": 1773736101,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 606210,
+        "num": 176871,
+        "word": "小巷人家2 范丞丞卢昱晓",
+        "onboard_time": 1773734121,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174395,
+        "num": 174395,
+        "word": "原来这就是小鸟胃啊",
+        "onboard_time": 1773733879,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58491,
+        "num": 139449,
+        "word": "东北大爷用千问把孙子教明白了",
+        "onboard_time": 1773741681,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133666,
+        "num": 133666,
+        "word": "甘肃省副省长雷思维被查",
+        "onboard_time": 1773738861,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114377,
+        "num": 114377,
+        "word": "山姆在中国正高速扩张",
+        "onboard_time": 1773739521,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114101,
+        "num": 114101,
+        "word": "一个烟头夺走22条生命谁该担责",
+        "onboard_time": 1773744621,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104876,
+        "num": 104876,
+        "word": "正午阳光又要拍宅斗了",
+        "onboard_time": 1773728360,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51261,
+        "num": 104567,
+        "word": "坠江身亡研究生导师有多个头衔",
+        "onboard_time": 1773744560,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197736,
+        "num": 104314,
+        "word": "以色列防长称拉里贾尼死亡",
+        "onboard_time": 1773741021,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197429,
+        "num": 103906,
+        "word": "刘昊然 周冬雨",
+        "onboard_time": 1773730702,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161670,
+        "num": 103688,
+        "word": "金价大跌黄金9点开卖9点01分售罄",
+        "onboard_time": 1773733342,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154461,
+        "num": 103561,
+        "word": "宝宝巴士被罚30万元",
+        "onboard_time": 1773735022,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141250,
+        "num": 103008,
+        "word": "赞达亚独家公开与荷兰弟的结婚视频",
+        "onboard_time": 1773742641,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353636,
+        "num": 102907,
+        "word": "伊朗这次不想忍了",
+        "onboard_time": 1773738080,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102593,
+        "num": 102593,
+        "word": "中国女足vs澳大利亚女足",
+        "onboard_time": 1773739102,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101751,
+        "num": 101751,
+        "word": "以军认为成功暗杀拉里贾尼",
+        "onboard_time": 1773737960,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90041,
+        "num": 90041,
+        "word": "赵丽颖于适 浮华之上",
+        "onboard_time": 1773732679,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95594,
+        "num": 88262,
+        "word": "中方向伊朗提供人道主义援助",
+        "onboard_time": 1773734362,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204556,
+        "num": 87729,
+        "word": "本科同学谈湘雅医院坠江研究生",
+        "onboard_time": 1773744082,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117575,
+        "num": 87234,
+        "word": "以色列称已死的拉里贾尼账号更新",
+        "onboard_time": 1773744320,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85565,
+        "num": 85565,
+        "word": "34岁女子脸部美容9日后身亡",
+        "onboard_time": 1773739521,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 84079,
+        "num": 84079,
+        "word": "小巷人家第二部",
+        "onboard_time": 1773726141,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181759,
+        "num": 83480,
+        "word": "坠江学生疑称最后悔保研选择湘雅",
+        "onboard_time": 1773740661,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82878,
+        "num": 82878,
+        "word": "周杰伦说今晚0点准备",
+        "onboard_time": 1773733280,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 80128,
+        "num": 80128,
+        "word": "邓凯怎么这么窄",
+        "onboard_time": 1773740661,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79890,
+        "num": 79890,
+        "word": "雷军说不想背刺老用户",
+        "onboard_time": 1773738681,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 79557,
+        "num": 79557,
+        "word": "英伟达押注下一个万亿级机遇",
+        "onboard_time": 1773741501,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42421,
+        "num": 79259,
+        "word": "几十年不管女儿六旬父亲老了要赡养",
+        "onboard_time": 1773744382,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78997,
+        "num": 78997,
+        "word": "正式确诊为番茄",
+        "onboard_time": 1773735862,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78783,
+        "num": 78783,
+        "word": "以军袭击伊朗最高安全官员",
+        "onboard_time": 1773740781,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77407,
+        "num": 77407,
+        "word": "原来逐玉这段吻戏是这么拍的",
+        "onboard_time": 1773743240,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72583,
+        "num": 72583,
+        "word": "啥事啊孟子义何与张康乐都去香港",
+        "onboard_time": 1773740600,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65799,
+        "num": 65799,
+        "word": "葱油鲍鱼片",
+        "onboard_time": 1773744921,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65654,
+        "num": 65654,
+        "word": "ELLE四月刊张凌赫封面预告",
+        "onboard_time": 1773733101,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64417,
+        "num": 64417,
+        "word": "广东00后女生公司估值达110亿",
+        "onboard_time": 1773739879,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61917,
+        "num": 64393,
+        "word": "第一次当服务员脑子乱码",
+        "onboard_time": 1773745041,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60523,
+        "num": 64171,
+        "word": "留给大家的求婚方式不多了",
+        "onboard_time": 1773742341,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59516,
+        "num": 64031,
+        "word": "山姆销售镉超标冻干草莓或涉刑事",
+        "onboard_time": 1773743362,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程是新的长征#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773742485828,
+  "endTime": 1773745144668,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 937700,
+      "num": 571314,
+      "word": "韩国网友吐槽逐玉",
+      "onboard_time": 1773743422,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 919300,
       "num": 551094,
       "word": "小巷人家2 范丞丞卢昱晓",
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 722515,
-      "num": 149949,
+      "num": 179698,
       "word": "以色列刺杀拉里贾尼",
       "onboard_time": 1773736101,
       "rank": 21,
@@ -777,6 +785,14 @@
       "onboard_time": 1773531258,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 504702,
+      "num": 1080752,
+      "word": "省考第一P分诈胡后道歉称自己卑劣",
+      "onboard_time": 1773742582,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 503908,
@@ -1267,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361396,
+      "num": 278604,
+      "word": "拉里贾尼发表手写悼词",
+      "onboard_time": 1773743182,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 358653,
       "num": 222457,
       "word": "邓凯妈妈 有那么帅吗",
@@ -1323,7 +1347,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 352507,
+      "raw_hot": 353636,
       "num": 139330,
       "word": "伊朗这次不想忍了",
       "onboard_time": 1773738080,
@@ -1593,6 +1617,14 @@
       "onboard_time": 1773498144,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 309092,
+      "num": 794563,
+      "word": "湘雅医院回应坠江学生导师停诊",
+      "onboard_time": 1773742881,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308825,
@@ -2115,6 +2147,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 248623,
+      "num": 248623,
+      "word": "荣耀涨价",
+      "onboard_time": 1773742040,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 247841,
       "num": 218934,
       "word": "都美竹被判向朱姐道歉",
@@ -2499,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204556,
+      "num": 87729,
+      "word": "本科同学谈湘雅医院坠江研究生",
+      "onboard_time": 1773744082,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204369,
       "num": 204369,
       "word": "正午阳光2026片单",
@@ -2739,6 +2787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185951,
+      "num": 185951,
+      "word": "李海涛受贿1.5亿余元",
+      "onboard_time": 1773741021,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185861,
       "num": 138579,
       "word": "蓝盈莹一出手就是浪姐水准",
@@ -2808,6 +2864,14 @@
       "word": "网红鸡爪生产车间令人作呕",
       "onboard_time": 1773578247,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181759,
+      "num": 125222,
+      "word": "坠江学生疑称最后悔保研选择湘雅",
+      "onboard_time": 1773740661,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2921,14 +2985,6 @@
       "onboard_time": 1773584490,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 173259,
-      "num": 146638,
-      "word": "李海涛受贿1.5亿余元",
-      "onboard_time": 1773741021,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 172594,
@@ -3459,6 +3515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 141250,
+      "num": 103008,
+      "word": "赞达亚独家公开与荷兰弟的结婚视频",
+      "onboard_time": 1773742641,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141001,
       "num": 141001,
       "word": "胡兵要去papi节目了",
@@ -3859,27 +3923,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 125369,
-      "num": 152713,
-      "word": "荣耀涨价",
-      "onboard_time": 1773742040,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 125252,
       "num": 125252,
       "word": "315记者直击酒店偷拍黑色产业链",
       "onboard_time": 1773560601,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125222,
-      "num": 125222,
-      "word": "坠江学生疑称最后悔保研选择湘雅",
-      "onboard_time": 1773740661,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -4131,6 +4179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117575,
+      "num": 87234,
+      "word": "以色列称已死的拉里贾尼账号更新",
+      "onboard_time": 1773744320,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117570,
       "num": 117570,
       "word": "LGDNBW对战TTG",
@@ -4225,6 +4281,14 @@
       "onboard_time": 1773721702,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114101,
+      "num": 114101,
+      "word": "一个烟头夺走22条生命谁该担责",
+      "onboard_time": 1773744621,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113015,
@@ -4656,6 +4720,14 @@
       "word": "邱贻可逗笑孙颖莎",
       "onboard_time": 1773585567,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102593,
+      "num": 102593,
+      "word": "中国女足vs澳大利亚女足",
+      "onboard_time": 1773739102,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -5659,6 +5731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85565,
+      "num": 85565,
+      "word": "34岁女子脸部美容9日后身亡",
+      "onboard_time": 1773739521,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 85547,
       "num": 85547,
       "word": "重庆万州马拉松冠军冲线被拦截",
@@ -5761,14 +5841,6 @@
       "onboard_time": 1773646467,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84242,
-      "num": 84242,
-      "word": "中国女足vs澳大利亚女足",
-      "onboard_time": 1773739102,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 84226,
@@ -6027,6 +6099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80128,
+      "num": 80128,
+      "word": "邓凯怎么这么窄",
+      "onboard_time": 1773740661,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80032,
       "num": 178586,
       "word": "多家手机品牌表态",
@@ -6056,14 +6136,6 @@
       "word": "张真源登英语21世纪报",
       "onboard_time": 1773729260,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 79513,
-      "num": 79513,
-      "word": "邓凯怎么这么窄",
-      "onboard_time": 1773740661,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -6153,6 +6225,14 @@
       "onboard_time": 1773667463,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 77407,
+      "num": 77407,
+      "word": "原来逐玉这段吻戏是这么拍的",
+      "onboard_time": 1773743240,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 77382,
@@ -6289,14 +6369,6 @@
       "onboard_time": 1773674062,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75489,
-      "num": 75489,
-      "word": "34岁女子脸部美容9日后身亡",
-      "onboard_time": 1773739521,
-      "rank": 44,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 75379,
@@ -6563,6 +6635,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 70465,
+      "num": 185275,
+      "word": "买一套房补贴10万杭州多地已安排",
+      "onboard_time": 1773744082,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70389,
       "num": 70389,
       "word": "张凌赫田曦薇脱敏",
@@ -6689,6 +6769,14 @@
       "onboard_time": 1773713661,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65799,
+      "num": 65799,
+      "word": "葱油鲍鱼片",
+      "onboard_time": 1773744921,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 65462,
@@ -6835,6 +6923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61917,
+      "num": 64393,
+      "word": "第一次当服务员脑子乱码",
+      "onboard_time": 1773745041,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61737,
       "num": 76835,
       "word": "27岁女子隆鼻后鼻部大面积坏死",
@@ -6875,6 +6971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60523,
+      "num": 64171,
+      "word": "留给大家的求婚方式不多了",
+      "onboard_time": 1773742341,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60467,
       "num": 105763,
       "word": "柯淳人帅心善买了残疾人的水果",
@@ -6889,6 +6993,14 @@
       "onboard_time": 1773666265,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 59516,
+      "num": 64031,
+      "word": "山姆销售镉超标冻干草莓或涉刑事",
+      "onboard_time": 1773743362,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 57966,
@@ -7033,6 +7145,14 @@
       "onboard_time": 1773499822,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 51261,
+      "num": 104567,
+      "word": "坠江身亡研究生导师有多个头衔",
+      "onboard_time": 1773744560,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50429,
@@ -7257,6 +7377,14 @@
       "onboard_time": 1773669802,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 42421,
+      "num": 79259,
+      "word": "几十年不管女儿六旬父亲老了要赡养",
+      "onboard_time": 1773744382,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42061,
