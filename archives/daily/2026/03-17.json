@@ -1,6 +1,6 @@
 {
   "startTime": 1773681061140,
-  "endTime": 1773746096597,
+  "endTime": 1773748205279,
   "band_list": [
     {
       "raw_hot": 1432959,
@@ -11,7 +11,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1089492,
+      "raw_hot": 1121341,
       "num": 571314,
       "word": "韩国网友吐槽逐玉",
       "onboard_time": 1773743422,
@@ -113,6 +113,14 @@
       "onboard_time": 1773733222,
       "rank": 4,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 623614,
+      "num": 214917,
+      "word": "宝宝巴士被没收违法所得3.68元",
+      "onboard_time": 1773745281,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 609755,
@@ -243,6 +251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 420935,
+      "num": 219216,
+      "word": "曝小巷人家2以庄图南李佳为主视角",
+      "onboard_time": 1773746660,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401792,
       "num": 1047184,
       "word": "山姆多次被零售企业控诉",
@@ -275,12 +291,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387913,
+      "num": 209104,
+      "word": "以色列称已死的拉里贾尼账号更新",
+      "onboard_time": 1773744320,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 383242,
       "num": 209765,
       "word": "睡得晚和睡得少哪个更伤身体",
       "onboard_time": 1773713000,
       "rank": 20,
       "category": "健康医疗,健康医疗"
+    },
+    {
+      "raw_hot": 382995,
+      "num": 799099,
+      "word": "一个烟头夺走22条生命谁该担责",
+      "onboard_time": 1773744621,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377214,
+      "num": 150425,
+      "word": "郑恺苗苗一家五口同框",
+      "onboard_time": 1773745221,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 372157,
@@ -363,11 +403,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329397,
-      "num": 773314,
-      "word": "一个烟头夺走22条生命谁该担责",
-      "onboard_time": 1773744621,
-      "rank": 17,
+      "raw_hot": 325920,
+      "num": 111356,
+      "word": "公安介入调查高中生过斑马线被撞亡",
+      "onboard_time": 1773747200,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -507,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261284,
+      "num": 228061,
+      "word": "本科同学谈湘雅医院坠江研究生",
+      "onboard_time": 1773744082,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261136,
       "num": 261136,
       "word": "李一桐 天选种田文女主",
@@ -595,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237949,
-      "num": 149136,
-      "word": "以色列称已死的拉里贾尼账号更新",
-      "onboard_time": 1773744320,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 237316,
       "num": 939713,
       "word": "最佳睡眠到底是几个小时",
@@ -643,14 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228061,
-      "num": 228061,
-      "word": "本科同学谈湘雅医院坠江研究生",
-      "onboard_time": 1773744082,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227960,
       "num": 227960,
       "word": "包文婧产后10个月开练普拉提",
@@ -683,6 +715,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 222300,
+      "num": 222300,
+      "word": "OPPO发布会",
+      "onboard_time": 1773747382,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 221071,
+      "num": 221071,
+      "word": "中国女足点球进了",
+      "onboard_time": 1773745281,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217484,
       "num": 137163,
       "word": "宋家三胞胎14岁身高",
@@ -697,14 +745,6 @@
       "onboard_time": 1773676821,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205093,
-      "num": 150425,
-      "word": "郑恺苗苗一家五口同框",
-      "onboard_time": 1773745221,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 204369,
@@ -811,14 +851,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 170186,
-      "num": 170186,
-      "word": "中国女足点球进了",
-      "onboard_time": 1773745281,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168707,
       "num": 168707,
       "word": "因为瞿颖盒马的菠菜都标上英文了",
@@ -883,12 +915,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155196,
+      "num": 135710,
+      "word": "郑恺苗苗公开三胎小女儿",
+      "onboard_time": 1773747802,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154207,
       "num": 147668,
       "word": "曝刘晓庆别墅因违法建设被人投诉",
       "onboard_time": 1773731600,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153929,
+      "num": 139791,
+      "word": "金价银价下跌原因找到了",
+      "onboard_time": 1773747081,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 151300,
@@ -939,20 +987,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146139,
+      "num": 146139,
+      "word": "坠江身亡研究生导师有多个头衔",
+      "onboard_time": 1773744560,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145836,
       "num": 297153,
       "word": "湘雅规培不该让人以死明志",
       "onboard_time": 1773733042,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145373,
-      "num": 186537,
-      "word": "宝宝巴士被没收违法所得3.68元",
-      "onboard_time": 1773745281,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 145339,
@@ -1099,6 +1147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129591,
+      "num": 129591,
+      "word": "齐旻是邓凯临时救场的",
+      "onboard_time": 1773746781,
+      "rank": 27,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 128373,
       "num": 128373,
       "word": "ELLE四月刊张凌赫封面预告",
@@ -1203,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117060,
+      "num": 117060,
+      "word": "伊朗最高领袖驳回斡旋提案",
+      "onboard_time": 1773747320,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115737,
       "num": 153146,
       "word": "81岁老人为外籍外孙女寻意定监护人",
@@ -1235,12 +1299,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109198,
-      "num": 109198,
-      "word": "坠江身亡研究生导师有多个头衔",
-      "onboard_time": 1773744560,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 109665,
+      "num": 141428,
+      "word": "马斯克对所有人工智能公司放狠话",
+      "onboard_time": 1773747022,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 108764,
@@ -1267,12 +1331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105998,
+      "num": 141164,
+      "word": "护士误将患者药物用于他人称都一样",
+      "onboard_time": 1773746062,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105976,
       "num": 105976,
       "word": "英伟达押注下一个万亿级机遇",
       "onboard_time": 1773741501,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 105899,
+      "num": 105899,
+      "word": "30岁小伙确诊红斑狼疮",
+      "onboard_time": 1773747262,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105471,
@@ -1307,20 +1387,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104456,
+      "num": 140904,
+      "word": "深圳落地机器人上门保洁服务",
+      "onboard_time": 1773746003,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 103273,
       "num": 103273,
       "word": "伊朗媒体称拉里贾尼将发表声明",
       "onboard_time": 1773742281,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 103156,
-      "num": 103156,
-      "word": "深圳落地机器人上门保洁服务",
-      "onboard_time": 1773746003,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 102593,
@@ -1459,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94221,
+      "num": 94221,
+      "word": "中国女足落后澳大利亚",
+      "onboard_time": 1773746961,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93856,
       "num": 93856,
       "word": "我买东西只看差评",
@@ -1497,6 +1585,14 @@
       "onboard_time": 1773708142,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89157,
+      "num": 89157,
+      "word": "中国女足1比2澳大利亚",
+      "onboard_time": 1773747982,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 88870,
@@ -1585,6 +1681,14 @@
       "onboard_time": 1773716060,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81942,
+      "num": 81942,
+      "word": "谢征樊长玉亲的好响",
+      "onboard_time": 1773747742,
+      "rank": 35,
+      "category": "综艺,剧集"
     },
     {
       "raw_hot": 81535,
@@ -1715,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75929,
+      "num": 75929,
+      "word": "公司招聘写不建议大龄报名引争议",
+      "onboard_time": 1773746602,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75869,
       "num": 75869,
       "word": "山姆销售镉超标冻干草莓或涉刑事",
@@ -1827,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68381,
+      "num": 68381,
+      "word": "唐嫣杨晨 真闺蜜N搭",
+      "onboard_time": 1773747982,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68165,
       "num": 68165,
       "word": "买了东西先过咪检",
@@ -1889,6 +2009,14 @@
       "onboard_time": 1773740480,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65408,
+      "num": 65408,
+      "word": "无言染详合拍",
+      "onboard_time": 1773747022,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 64368,
@@ -2009,6 +2137,14 @@
       "onboard_time": 1773668844,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 60320,
+      "num": 60320,
+      "word": "学会拒绝不合理要求",
+      "onboard_time": 1773747141,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 57063,
@@ -2457,14 +2593,6 @@
       "onboard_time": 1773666983,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 24863,
-      "num": 84172,
-      "word": "护士误将患者药物用于他人称都一样",
-      "onboard_time": 1773746062,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24388,

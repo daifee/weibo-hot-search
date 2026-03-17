@@ -1,0 +1,410 @@
+{
+  "runTime": 1773748205279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 477755,
+        "num": 1076440,
+        "word": "省考第一P分诈胡后道歉称自己卑劣",
+        "onboard_time": 1773742582,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382995,
+        "num": 799099,
+        "word": "一个烟头夺走22条生命谁该担责",
+        "onboard_time": 1773744621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22724,
+        "num": 624049,
+        "word": "神21乘组圆满完成第二次出舱活动",
+        "onboard_time": 1773733943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222300,
+        "num": 222300,
+        "word": "OPPO发布会",
+        "onboard_time": 1773747382,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 221071,
+        "num": 221071,
+        "word": "中国女足点球进了",
+        "onboard_time": 1773745281,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420935,
+        "num": 219216,
+        "word": "曝小巷人家2以庄图南李佳为主视角",
+        "onboard_time": 1773746660,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 623614,
+        "num": 214917,
+        "word": "宝宝巴士被没收违法所得3.68元",
+        "onboard_time": 1773745281,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 387913,
+        "num": 209104,
+        "word": "以色列称已死的拉里贾尼账号更新",
+        "onboard_time": 1773744320,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166941,
+        "num": 166941,
+        "word": "AI大厂月薪3万疯抢文科生",
+        "onboard_time": 1773733222,
+        "rank": 8,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 146139,
+        "num": 146139,
+        "word": "坠江身亡研究生导师有多个头衔",
+        "onboard_time": 1773744560,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1121341,
+        "num": 145038,
+        "word": "韩国网友吐槽逐玉",
+        "onboard_time": 1773743422,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 601720,
+        "num": 144498,
+        "word": "小巷人家2官宣",
+        "onboard_time": 1773732922,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173912,
+        "num": 144105,
+        "word": "伊朗这次不想忍了",
+        "onboard_time": 1773738080,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142482,
+        "num": 142482,
+        "word": "买一套房补贴10万杭州多地已安排",
+        "onboard_time": 1773744082,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133943,
+        "num": 142211,
+        "word": "原来这就是小鸟胃啊",
+        "onboard_time": 1773733879,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54121,
+        "num": 142175,
+        "word": "奥迪E7X原创才是设计",
+        "onboard_time": 1773745641,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120265,
+        "num": 141776,
+        "word": "荣耀涨价",
+        "onboard_time": 1773742040,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109665,
+        "num": 141428,
+        "word": "马斯克对所有人工智能公司放狠话",
+        "onboard_time": 1773747022,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105998,
+        "num": 141164,
+        "word": "护士误将患者药物用于他人称都一样",
+        "onboard_time": 1773746062,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104456,
+        "num": 140904,
+        "word": "深圳落地机器人上门保洁服务",
+        "onboard_time": 1773746003,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 568327,
+        "num": 140464,
+        "word": "小巷人家2 范丞丞卢昱晓",
+        "onboard_time": 1773734121,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377214,
+        "num": 140095,
+        "word": "郑恺苗苗一家五口同框",
+        "onboard_time": 1773745221,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153929,
+        "num": 139791,
+        "word": "金价银价下跌原因找到了",
+        "onboard_time": 1773747081,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167434,
+        "num": 139534,
+        "word": "刘昊然 周冬雨",
+        "onboard_time": 1773730702,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139444,
+        "num": 139444,
+        "word": "拉里贾尼发表手写悼词",
+        "onboard_time": 1773743182,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136131,
+        "num": 136131,
+        "word": "金价大跌黄金9点开卖9点01分售罄",
+        "onboard_time": 1773733342,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155196,
+        "num": 135710,
+        "word": "郑恺苗苗公开三胎小女儿",
+        "onboard_time": 1773747802,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129591,
+        "num": 129591,
+        "word": "齐旻是邓凯临时救场的",
+        "onboard_time": 1773746781,
+        "rank": 27,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 117060,
+        "num": 117060,
+        "word": "伊朗最高领袖驳回斡旋提案",
+        "onboard_time": 1773747320,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111421,
+        "num": 111421,
+        "word": "赞达亚独家公开与荷兰弟的结婚视频",
+        "onboard_time": 1773742641,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325920,
+        "num": 111356,
+        "word": "公安介入调查高中生过斑马线被撞亡",
+        "onboard_time": 1773747200,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105899,
+        "num": 105899,
+        "word": "30岁小伙确诊红斑狼疮",
+        "onboard_time": 1773747262,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94221,
+        "num": 94221,
+        "word": "中国女足落后澳大利亚",
+        "onboard_time": 1773746961,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89157,
+        "num": 89157,
+        "word": "中国女足1比2澳大利亚",
+        "onboard_time": 1773747982,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88264,
+        "num": 88264,
+        "word": "中国女足vs澳大利亚女足",
+        "onboard_time": 1773739102,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81942,
+        "num": 81942,
+        "word": "谢征樊长玉亲的好响",
+        "onboard_time": 1773747742,
+        "rank": 35,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 80173,
+        "num": 80173,
+        "word": "中方向伊朗提供人道主义援助",
+        "onboard_time": 1773734362,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79674,
+        "num": 79674,
+        "word": "李海涛受贿1.5亿余元",
+        "onboard_time": 1773741021,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78181,
+        "num": 78181,
+        "word": "赵丽颖于适 浮华之上",
+        "onboard_time": 1773732679,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77894,
+        "num": 77894,
+        "word": "广东00后女生公司估值达110亿",
+        "onboard_time": 1773739879,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76518,
+        "num": 76518,
+        "word": "正午阳光又要拍宅斗了",
+        "onboard_time": 1773728360,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75929,
+        "num": 75929,
+        "word": "公司招聘写不建议大龄报名引争议",
+        "onboard_time": 1773746602,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72624,
+        "num": 72624,
+        "word": "山姆销售镉超标冻干草莓或涉刑事",
+        "onboard_time": 1773743362,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 261284,
+        "num": 72054,
+        "word": "本科同学谈湘雅医院坠江研究生",
+        "onboard_time": 1773744082,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68381,
+        "num": 68381,
+        "word": "唐嫣杨晨 真闺蜜N搭",
+        "onboard_time": 1773747982,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65408,
+        "num": 65408,
+        "word": "无言染详合拍",
+        "onboard_time": 1773747022,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62921,
+        "num": 62921,
+        "word": "周杰伦说今晚0点准备",
+        "onboard_time": 1773733280,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62526,
+        "num": 62526,
+        "word": "以军认为成功暗杀拉里贾尼",
+        "onboard_time": 1773737960,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61353,
+        "num": 61353,
+        "word": "小巷人家第二部",
+        "onboard_time": 1773726141,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60320,
+        "num": 60320,
+        "word": "学会拒绝不合理要求",
+        "onboard_time": 1773747141,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程是新的长征#"
+    }
+  }
+}
