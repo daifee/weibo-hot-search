@@ -1,0 +1,410 @@
+{
+  "runTime": 1773761930616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 517036,
+        "num": 1082725,
+        "word": "刘文祥3名员工后厨抽烟吐槽315",
+        "onboard_time": 1773757225,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154464,
+        "num": 802579,
+        "word": "一个烟头夺走22条生命谁该担责",
+        "onboard_time": 1773744621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69014,
+        "num": 647638,
+        "word": "家电进化开倍速了吗",
+        "onboard_time": 1773756562,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236574,
+        "num": 555411,
+        "word": "有人出价8千元购买淮山手",
+        "onboard_time": 1773759443,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155533,
+        "num": 510796,
+        "word": "一人公司爆火银行坐不住了",
+        "onboard_time": 1773753142,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500709,
+        "num": 500709,
+        "word": "内塔尼亚胡说拉里贾尼已身亡",
+        "onboard_time": 1773758664,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134322,
+        "num": 479888,
+        "word": "苹果山药糕",
+        "onboard_time": 1773755122,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216421,
+        "num": 467206,
+        "word": "12306回应不想坐B座怎么办",
+        "onboard_time": 1773751822,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118745,
+        "num": 427381,
+        "word": "多家商场厕所隐藏洗手液擦手纸",
+        "onboard_time": 1773749062,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97489,
+        "num": 409491,
+        "word": "20岁女子瘦到皮包骨查出脂肪肝",
+        "onboard_time": 1773755423,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397347,
+        "num": 397347,
+        "word": "小巷人家2官宣",
+        "onboard_time": 1773732922,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341725,
+        "num": 341725,
+        "word": "韩国网友吐槽逐玉",
+        "onboard_time": 1773743422,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218091,
+        "num": 218091,
+        "word": "3岁女童被虐死生父女友已执行死刑",
+        "onboard_time": 1773757403,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316141,
+        "num": 196069,
+        "word": "谢征樊长玉圆房吻",
+        "onboard_time": 1773751342,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165763,
+        "num": 165763,
+        "word": "宝马大降价30万",
+        "onboard_time": 1773753202,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160807,
+        "num": 160807,
+        "word": "林沐然演逐玉的时候才19岁",
+        "onboard_time": 1773755182,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150852,
+        "num": 150852,
+        "word": "儿媳挪用婆婆900万给姐姐300万遗产",
+        "onboard_time": 1773749782,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149517,
+        "num": 149517,
+        "word": "男子遭前同事背调杀月薪降5000",
+        "onboard_time": 1773758724,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148119,
+        "num": 148119,
+        "word": "TF家族翻牌",
+        "onboard_time": 1773755843,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96036,
+        "num": 148066,
+        "word": "多地宣布生物地理不再计入中考总分",
+        "onboard_time": 1773761002,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653352,
+        "num": 148020,
+        "word": "郑恺苗苗公开三胎小女儿",
+        "onboard_time": 1773747802,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282637,
+        "num": 147911,
+        "word": "女子怀孕2个月后脑出血智力仅3岁",
+        "onboard_time": 1773756984,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233670,
+        "num": 147836,
+        "word": "刘昊然 周冬雨",
+        "onboard_time": 1773730702,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217726,
+        "num": 147752,
+        "word": "小巷人家2 范丞丞卢昱晓",
+        "onboard_time": 1773734121,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101337,
+        "num": 147682,
+        "word": "gala状态",
+        "onboard_time": 1773760882,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137797,
+        "num": 147571,
+        "word": "你好1983播出反馈",
+        "onboard_time": 1773757344,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115793,
+        "num": 147491,
+        "word": "周杰伦预热新专辑",
+        "onboard_time": 1773749361,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90755,
+        "num": 147481,
+        "word": "伊朗的新战法让美国很头疼",
+        "onboard_time": 1773752962,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100772,
+        "num": 147325,
+        "word": "曝小巷人家2以庄图南李佳为主视角",
+        "onboard_time": 1773746660,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96780,
+        "num": 147303,
+        "word": "孔雪儿自己手机里可能都没这视频",
+        "onboard_time": 1773759562,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107672,
+        "num": 147188,
+        "word": "赖清德侮辱台湾抗日先烈",
+        "onboard_time": 1773759443,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85140,
+        "num": 147127,
+        "word": "手机大概率越来越贵",
+        "onboard_time": 1773756023,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84477,
+        "num": 147031,
+        "word": "西安一148平方米住宅将1元起拍",
+        "onboard_time": 1773759623,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81922,
+        "num": 146934,
+        "word": "伊朗这次不想忍了",
+        "onboard_time": 1773738080,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75521,
+        "num": 146843,
+        "word": "恋与深空",
+        "onboard_time": 1773760583,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81181,
+        "num": 146832,
+        "word": "拉里贾尼发表手写悼词",
+        "onboard_time": 1773743182,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71410,
+        "num": 146738,
+        "word": "李卿咋这帅",
+        "onboard_time": 1773753023,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80469,
+        "num": 146648,
+        "word": "伊朗对美以发动58波打击",
+        "onboard_time": 1773756922,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60232,
+        "num": 146582,
+        "word": "聂玮辰内娱sakuya塑",
+        "onboard_time": 1773761301,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39739,
+        "num": 146452,
+        "word": "儿童水枪竟从隐私部位喷水",
+        "onboard_time": 1773761662,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60035,
+        "num": 146421,
+        "word": "记者卧底桂林游低价团目睹老人遭威胁",
+        "onboard_time": 1773759443,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57795,
+        "num": 146295,
+        "word": "家长想强制早读被学校拒绝了",
+        "onboard_time": 1773760461,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56934,
+        "num": 146224,
+        "word": "选择题错三个就用黑笔改",
+        "onboard_time": 1773755423,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56054,
+        "num": 146125,
+        "word": "伊朗反击纪念出生3天遇难婴儿",
+        "onboard_time": 1773754164,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53325,
+        "num": 146116,
+        "word": "美国夫妻藏匿190具遗体致腐烂获刑",
+        "onboard_time": 1773756864,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51550,
+        "num": 146005,
+        "word": "伊朗查获数百套美以运进的星链",
+        "onboard_time": 1773755724,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44914,
+        "num": 145908,
+        "word": "金价银价下跌原因找到了",
+        "onboard_time": 1773747081,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44099,
+        "num": 145885,
+        "word": "中国女篮战胜巴西",
+        "onboard_time": 1773754942,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43355,
+        "num": 145761,
+        "word": "数学好的人果然都是爱钻研的",
+        "onboard_time": 1773755363,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42865,
+        "num": 145712,
+        "word": "高中生过斑马线被撞亡路口无红绿灯",
+        "onboard_time": 1773759802,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人民出政绩#"
+    }
+  }
+}
