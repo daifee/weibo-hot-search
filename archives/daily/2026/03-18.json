@@ -1,10 +1,18 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773788456754,
+  "endTime": 1773790862613,
   "band_list": [
     {
-      "raw_hot": 367050,
-      "num": 621228,
+      "raw_hot": 941496,
+      "num": 142414,
+      "word": "拉里贾尼与其子死于以军空袭",
+      "onboard_time": 1773789139,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 461754,
+      "num": 914158,
       "word": "多地宣布生物地理不再计入中考总分",
       "onboard_time": 1773761002,
       "rank": 0,
@@ -19,7 +27,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283165,
+      "raw_hot": 298124,
+      "num": 134137,
+      "word": "郑恺苗苗公开三胎小女儿",
+      "onboard_time": 1773747802,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 294107,
       "num": 201210,
       "word": "内塔尼亚胡说拉里贾尼已身亡",
       "onboard_time": 1773758664,
@@ -35,15 +51,15 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 218295,
-      "num": 89263,
-      "word": "郑恺苗苗公开三胎小女儿",
-      "onboard_time": 1773747802,
-      "rank": 20,
+      "raw_hot": 232582,
+      "num": 146148,
+      "word": "吕严说蒋诗萌就是用生酮瘦下来的",
+      "onboard_time": 1773763042,
+      "rank": 12,
       "category": "艺人"
     },
     {
-      "raw_hot": 175572,
+      "raw_hot": 207472,
       "num": 452009,
       "word": "招聘不建议大龄报名公司负责人发声",
       "onboard_time": 1773760583,
@@ -51,12 +67,60 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153657,
-      "num": 146148,
-      "word": "吕严说蒋诗萌就是用生酮瘦下来的",
-      "onboard_time": 1773763042,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 199462,
+      "num": 134129,
+      "word": "女子怀孕2个月后脑出血智力仅3岁",
+      "onboard_time": 1773756984,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166398,
+      "num": 672178,
+      "word": "刘文祥3名员工后厨抽烟吐槽315",
+      "onboard_time": 1773757225,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156311,
+      "num": 220239,
+      "word": "美国夫妻藏匿190具遗体致腐烂获刑",
+      "onboard_time": 1773756864,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155857,
+      "num": 135953,
+      "word": "儿媳挪用婆婆900万给姐姐300万遗产",
+      "onboard_time": 1773749782,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153680,
+      "num": 135663,
+      "word": "男子遭前同事背调杀月薪降5000",
+      "onboard_time": 1773758724,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144919,
+      "num": 144919,
+      "word": "周杰伦新歌预告",
+      "onboard_time": 1773789139,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 142985,
+      "num": 141444,
+      "word": "谢征樊长玉圆房吻",
+      "onboard_time": 1773751342,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 142924,
@@ -75,75 +139,59 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141444,
-      "num": 141444,
-      "word": "谢征樊长玉圆房吻",
-      "onboard_time": 1773751342,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 134168,
-      "num": 89205,
-      "word": "女子怀孕2个月后脑出血智力仅3岁",
-      "onboard_time": 1773756984,
-      "rank": 21,
+      "raw_hot": 138176,
+      "num": 180456,
+      "word": "有人出价8千元购买淮山手",
+      "onboard_time": 1773759443,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111238,
-      "num": 111238,
-      "word": "美反恐中心主任称无法昧良心支持对伊战争",
-      "onboard_time": 1773764718,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 101665,
-      "num": 377737,
-      "word": "刘文祥3名员工后厨抽烟吐槽315",
-      "onboard_time": 1773757225,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101381,
-      "num": 220239,
-      "word": "美国夫妻藏匿190具遗体致腐烂获刑",
-      "onboard_time": 1773756864,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 100772,
-      "num": 89351,
-      "word": "男子遭前同事背调杀月薪降5000",
-      "onboard_time": 1773758724,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98993,
-      "num": 89059,
+      "raw_hot": 133844,
+      "num": 133844,
       "word": "伊朗的新战法让美国很头疼",
       "onboard_time": 1773752962,
       "rank": 26,
       "category": "国际时政"
     },
     {
-      "raw_hot": 87791,
-      "num": 88746,
-      "word": "儿媳挪用婆婆900万给姐姐300万遗产",
-      "onboard_time": 1773749782,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 126778,
+      "num": 133808,
+      "word": "美反恐中心主任称无法昧良心支持对伊战争",
+      "onboard_time": 1773764718,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 77759,
+      "raw_hot": 118989,
       "num": 192056,
       "word": "一人公司爆火银行坐不住了",
       "onboard_time": 1773753142,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107315,
+      "num": 134901,
+      "word": "宝马大降价30万",
+      "onboard_time": 1773753202,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 106312,
+      "num": 133832,
+      "word": "小巷人家2 范丞丞卢昱晓",
+      "onboard_time": 1773734121,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82367,
+      "num": 133805,
+      "word": "3岁女童被虐死生父女友已执行死刑",
+      "onboard_time": 1773757403,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -156,7 +204,7 @@
     },
     {
       "raw_hot": 76135,
-      "num": 89453,
+      "num": 133471,
       "word": "孔雪儿自己手机里可能都没这视频",
       "onboard_time": 1773759562,
       "rank": 16,
@@ -171,44 +219,60 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68933,
-      "num": 89168,
-      "word": "小巷人家2 范丞丞卢昱晓",
-      "onboard_time": 1773734121,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 71539,
+      "num": 133772,
+      "word": "伊朗最高领袖驳回斡旋提案",
+      "onboard_time": 1773747320,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 68702,
-      "num": 89504,
-      "word": "宝马大降价30万",
-      "onboard_time": 1773753202,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 66881,
-      "num": 180456,
-      "word": "有人出价8千元购买淮山手",
+      "raw_hot": 65999,
+      "num": 133702,
+      "word": "赖清德侮辱台湾抗日先烈",
       "onboard_time": 1773759443,
-      "rank": 4,
-      "category": "民生新闻"
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65789,
-      "num": 88539,
+      "num": 133677,
       "word": "拉里贾尼发表手写悼词",
       "onboard_time": 1773743182,
       "rank": 37,
       "category": "国际时政"
     },
     {
-      "raw_hot": 60095,
-      "num": 88698,
-      "word": "3岁女童被虐死生父女友已执行死刑",
-      "onboard_time": 1773757403,
-      "rank": 28,
+      "raw_hot": 65654,
+      "num": 141188,
+      "word": "20岁女子瘦到皮包骨查出脂肪肝",
+      "onboard_time": 1773755423,
+      "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63266,
+      "num": 133745,
+      "word": "伊朗反击纪念出生3天遇难婴儿",
+      "onboard_time": 1773754164,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 59084,
+      "num": 133736,
+      "word": "肖战登场时段双网收视创纪录",
+      "onboard_time": 1773786196,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57518,
+      "num": 133686,
+      "word": "金价银价下跌原因找到了",
+      "onboard_time": 1773747081,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 57258,
@@ -220,51 +284,19 @@
     },
     {
       "raw_hot": 53842,
-      "num": 88955,
+      "num": 133613,
       "word": "你好1983播出反馈",
       "onboard_time": 1773757344,
       "rank": 24,
       "category": "剧集"
     },
     {
-      "raw_hot": 53282,
-      "num": 80573,
-      "word": "肖战登场时段双网收视创纪录",
-      "onboard_time": 1773786196,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 50411,
-      "num": 88253,
-      "word": "伊朗最高领袖驳回斡旋提案",
-      "onboard_time": 1773747320,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 50175,
-      "num": 141188,
-      "word": "20岁女子瘦到皮包骨查出脂肪肝",
-      "onboard_time": 1773755423,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49833,
-      "num": 88442,
-      "word": "金价银价下跌原因找到了",
-      "onboard_time": 1773747081,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 49205,
-      "num": 88203,
-      "word": "赖清德侮辱台湾抗日先烈",
-      "onboard_time": 1773759443,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 50690,
+      "num": 137626,
+      "word": "欧冠联赛",
+      "onboard_time": 1773788237,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 48807,
@@ -273,6 +305,22 @@
       "onboard_time": 1773763641,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46873,
+      "num": 133663,
+      "word": "曝小巷人家2以庄图南李佳为主视角",
+      "onboard_time": 1773746660,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 46768,
+      "num": 133640,
+      "word": "明日方舟",
+      "onboard_time": 1773790759,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 42747,
@@ -291,20 +339,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39148,
-      "num": 88140,
-      "word": "曝小巷人家2以庄图南李佳为主视角",
-      "onboard_time": 1773746660,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 38931,
+      "num": 546613,
+      "word": "家电进化开倍速了吗",
+      "onboard_time": 1773756562,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 37925,
-      "num": 88365,
-      "word": "伊朗反击纪念出生3天遇难婴儿",
-      "onboard_time": 1773754164,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 37462,
+      "num": 133584,
+      "word": "手机大概率越来越贵",
+      "onboard_time": 1773756023,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 37164,
@@ -316,7 +364,7 @@
     },
     {
       "raw_hot": 36183,
-      "num": 87913,
+      "num": 133549,
       "word": "林沐然演逐玉的时候才19岁",
       "onboard_time": 1773755182,
       "rank": 30,
@@ -332,7 +380,7 @@
     },
     {
       "raw_hot": 32863,
-      "num": 87503,
+      "num": 133445,
       "word": "多家商场厕所隐藏洗手液擦手纸",
       "onboard_time": 1773749062,
       "rank": 33,
@@ -347,28 +395,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 31053,
-      "num": 359283,
-      "word": "家电进化开倍速了吗",
-      "onboard_time": 1773756562,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30318,
-      "num": 88043,
-      "word": "手机大概率越来越贵",
-      "onboard_time": 1773756023,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 29654,
-      "num": 87750,
+      "raw_hot": 32140,
+      "num": 133571,
       "word": "选择题错三个就用黑笔改",
       "onboard_time": 1773755423,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 29840,
+      "num": 133538,
+      "word": "时装周瞩目艺人TOP10",
+      "onboard_time": 1773769995,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 29440,
@@ -379,12 +419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26380,
-      "num": 80525,
-      "word": "时装周瞩目艺人TOP10",
-      "onboard_time": 1773769995,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 29318,
+      "num": 133497,
+      "word": "田曦薇军营小玉",
+      "onboard_time": 1773767357,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 26121,
@@ -395,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25303,
-      "num": 50354,
-      "word": "欧冠联赛",
-      "onboard_time": 1773788237,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 25121,
       "num": 87442,
       "word": "聂玮辰内娱sakuya塑",
@@ -411,16 +443,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24851,
-      "num": 87675,
-      "word": "田曦薇军营小玉",
-      "onboard_time": 1773767357,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 24809,
-      "num": 88302,
+      "num": 133423,
       "word": "周也",
       "onboard_time": 1773765257,
       "rank": 48,
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 24418,
-      "num": 87830,
+      "num": 133362,
       "word": "小巷人家",
       "onboard_time": 1773764422,
       "rank": 42,
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 23701,
-      "num": 87799,
+      "num": 133395,
       "word": "逐玉",
       "onboard_time": 1773765678,
       "rank": 43,
@@ -465,6 +489,14 @@
       "onboard_time": 1773774616,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 18867,
+      "num": 133391,
+      "word": "光与夜之恋",
+      "onboard_time": 1773745343,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 15610,
