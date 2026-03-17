@@ -1,7 +1,15 @@
 {
   "startTime": 1773681061140,
-  "endTime": 1773734358954,
+  "endTime": 1773734920756,
   "band_list": [
+    {
+      "raw_hot": 1120699,
+      "num": 1179311,
+      "word": "小巷人家2官宣",
+      "onboard_time": 1773732922,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1082922,
       "num": 1082922,
@@ -43,14 +51,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 919891,
-      "num": 1147182,
-      "word": "小巷人家2官宣",
-      "onboard_time": 1773732922,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 862739,
       "num": 491270,
       "word": "湘雅医院坠江身亡研究生导师已停诊",
@@ -80,6 +80,14 @@
       "word": "朱丹回应被瞿颖说黑",
       "onboard_time": 1773715522,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 581957,
+      "num": 180395,
+      "word": "刘昊然 周冬雨",
+      "onboard_time": 1773730702,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 529031,
-      "num": 819800,
+      "num": 828438,
       "word": "20斤排骨炖好放门口被大爷整盆端走",
       "onboard_time": 1773730822,
       "rank": 1,
@@ -179,12 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404500,
-      "num": 180395,
-      "word": "刘昊然 周冬雨",
-      "onboard_time": 1773730702,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 436257,
+      "num": 595384,
+      "word": "AI大厂月薪3万疯抢文科生",
+      "onboard_time": 1773733222,
+      "rank": 4,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 401792,
@@ -323,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 278564,
+      "num": 278564,
+      "word": "赵丽颖于适 浮华之上",
+      "onboard_time": 1773732679,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 274012,
       "num": 123557,
       "word": "BLG中上",
@@ -337,14 +353,6 @@
       "onboard_time": 1773711022,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264195,
-      "num": 264195,
-      "word": "赵丽颖于适 浮华之上",
-      "onboard_time": 1773732679,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 261486,
@@ -377,6 +385,14 @@
       "onboard_time": 1773709461,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256714,
+      "num": 184073,
+      "word": "金价大跌黄金9点开卖9点01分售罄",
+      "onboard_time": 1773733342,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 255031,
@@ -451,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228973,
-      "num": 184073,
-      "word": "金价大跌黄金9点开卖9点01分售罄",
-      "onboard_time": 1773733342,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 227960,
       "num": 227960,
       "word": "包文婧产后10个月开练普拉提",
@@ -491,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205290,
+      "num": 285077,
+      "word": "中方向伊朗提供人道主义援助",
+      "onboard_time": 1773734362,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 204369,
       "num": 204369,
       "word": "正午阳光2026片单",
@@ -507,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200803,
-      "num": 595384,
-      "word": "AI大厂月薪3万疯抢文科生",
-      "onboard_time": 1773733222,
-      "rank": 4,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 196582,
       "num": 196582,
       "word": "樊长玉听见下聘成亲的反应",
@@ -529,6 +537,14 @@
       "onboard_time": 1773711080,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183071,
+      "num": 183071,
+      "word": "深圳卫健委抽烟这块越骂越勇",
+      "onboard_time": 1773732261,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 180244,
@@ -627,6 +643,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 158511,
+      "num": 145692,
+      "word": "马丁 富人区跑步",
+      "onboard_time": 1773732201,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 154207,
       "num": 147668,
       "word": "曝刘晓庆别墅因违法建设被人投诉",
@@ -641,14 +665,6 @@
       "onboard_time": 1773724462,
       "rank": 22,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 147695,
-      "num": 147695,
-      "word": "深圳卫健委抽烟这块越骂越勇",
-      "onboard_time": 1773732261,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 147224,
@@ -675,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145836,
+      "num": 297153,
+      "word": "湘雅规培不该让人以死明志",
+      "onboard_time": 1773733042,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145339,
       "num": 125930,
       "word": "多方回应高中生过斑马线被撞飞身亡",
@@ -683,19 +707,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145148,
+      "num": 191307,
+      "word": "初中学历花7000考取药师资格证",
+      "onboard_time": 1773733222,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142520,
       "num": 278524,
       "word": "湘雅医院坠亡研究生导师已停诊",
       "onboard_time": 1773722663,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142181,
-      "num": 297153,
-      "word": "湘雅规培不该让人以死明志",
-      "onboard_time": 1773733042,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -771,12 +795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130182,
-      "num": 191307,
-      "word": "初中学历花7000考取药师资格证",
-      "onboard_time": 1773733222,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 131056,
+      "num": 131056,
+      "word": "电视剧当年不肯嫁东风",
+      "onboard_time": 1773729621,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 128373,
@@ -811,14 +835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122454,
-      "num": 122454,
-      "word": "马丁 富人区跑步",
-      "onboard_time": 1773732201,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 122080,
       "num": 122080,
       "word": "张凌赫说舍不得逐玉",
@@ -835,20 +851,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 120894,
+      "num": 120894,
+      "word": "原来这就是小鸟胃啊",
+      "onboard_time": 1773733879,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119966,
       "num": 119966,
       "word": "六国发布联合声明",
       "onboard_time": 1773703038,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 118761,
-      "num": 118761,
-      "word": "电视剧当年不肯嫁东风",
-      "onboard_time": 1773729621,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 118562,
@@ -915,6 +931,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 106382,
+      "num": 106382,
+      "word": "男子买18元彩票中1734万",
+      "onboard_time": 1773729681,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105471,
       "num": 105471,
       "word": "苹果烧排骨",
@@ -937,14 +961,6 @@
       "onboard_time": 1773723863,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 103074,
-      "num": 103074,
-      "word": "男子买18元彩票中1734万",
-      "onboard_time": 1773729681,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102147,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1773716240,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97640,
+      "num": 97640,
+      "word": "小巷人家2 范丞丞卢昱晓",
+      "onboard_time": 1773734121,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 97563,
@@ -1131,14 +1155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85304,
-      "num": 85304,
-      "word": "小巷人家2 范丞丞卢昱晓",
-      "onboard_time": 1773734121,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85046,
       "num": 85046,
       "word": "王一博瑞士回国路透",
@@ -1147,20 +1163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84092,
-      "num": 84092,
-      "word": "原来这就是小鸟胃啊",
-      "onboard_time": 1773733879,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83281,
       "num": 83281,
       "word": "不挑食 感观度低",
       "onboard_time": 1773676641,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83028,
+      "num": 83028,
+      "word": "满13周岁女孩免费接种HPV",
+      "onboard_time": 1773733763,
+      "rank": 47,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 82336,
@@ -1195,14 +1211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 80296,
-      "num": 80296,
-      "word": "满13周岁女孩免费接种HPV",
-      "onboard_time": 1773733763,
-      "rank": 47,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 79515,
       "num": 79515,
       "word": "张真源登英语21世纪报",
@@ -1235,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76936,
+      "num": 76936,
+      "word": "山姆三文鱼遵循的是非即食国标",
+      "onboard_time": 1773731122,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76252,
       "num": 76252,
       "word": "谢征回应被和离书气到吐血",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1773725842,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75205,
+      "num": 75205,
+      "word": "JackeyLove谈BLG战胜BFX",
+      "onboard_time": 1773734841,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 74447,
@@ -1491,11 +1515,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42688,
+      "num": 193580,
+      "word": "人民日报深度访谈魏建军",
+      "onboard_time": 1773732261,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42449,
       "num": 46427,
       "word": "坠江研究生疑留遗言曾遭导师训斥",
       "onboard_time": 1773679519,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40497,
+      "num": 175139,
+      "word": "61岁东北农村大爷养老金每月191块",
+      "onboard_time": 1773734422,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1611,14 +1651,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 35302,
-      "num": 193580,
-      "word": "人民日报深度访谈魏建军",
-      "onboard_time": 1773732261,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 34763,
       "num": 46314,
       "word": "发现虾腿有肉以后",
@@ -1689,6 +1721,14 @@
       "onboard_time": 1773671243,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 30440,
+      "num": 96501,
+      "word": "小女孩常吃凤爪满嘴疱疹久治不愈",
+      "onboard_time": 1773734601,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30406,
@@ -1963,8 +2003,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2656,
-      "num": 637824,
+      "raw_hot": 9128,
+      "num": 667984,
       "word": "神21乘组圆满完成第二次出舱活动",
       "onboard_time": 1773733943,
       "rank": 2,

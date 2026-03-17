@@ -1,0 +1,410 @@
+{
+  "runTime": 1773734920756,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1120699,
+        "num": 1179311,
+        "word": "小巷人家2官宣",
+        "onboard_time": 1773732922,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480233,
+        "num": 828438,
+        "word": "20斤排骨炖好放门口被大爷整盆端走",
+        "onboard_time": 1773730822,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9128,
+        "num": 667984,
+        "word": "神21乘组圆满完成第二次出舱活动",
+        "onboard_time": 1773733943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 436257,
+        "num": 436257,
+        "word": "AI大厂月薪3万疯抢文科生",
+        "onboard_time": 1773733222,
+        "rank": 3,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 429479,
+        "num": 429479,
+        "word": "小巷人家第二部",
+        "onboard_time": 1773726141,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499900,
+        "num": 378663,
+        "word": "泰国遇害34岁女子生前连发7条救我",
+        "onboard_time": 1773732801,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 298204,
+        "num": 298204,
+        "word": "正午阳光又要拍宅斗了",
+        "onboard_time": 1773728360,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205290,
+        "num": 285077,
+        "word": "中方向伊朗提供人道主义援助",
+        "onboard_time": 1773734362,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167525,
+        "num": 281380,
+        "word": "金价下跌却买不进",
+        "onboard_time": 1773721343,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157490,
+        "num": 279193,
+        "word": "全是不想坐B座的聪明人",
+        "onboard_time": 1773718280,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278564,
+        "num": 278564,
+        "word": "赵丽颖于适 浮华之上",
+        "onboard_time": 1773732679,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271601,
+        "num": 271601,
+        "word": "A股行情",
+        "onboard_time": 1773731840,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 251009,
+        "num": 251009,
+        "word": "伊朗警告日本",
+        "onboard_time": 1773718941,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235947,
+        "num": 235947,
+        "word": "田曦薇逐玉接吻咽口水",
+        "onboard_time": 1773734001,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223279,
+        "num": 223279,
+        "word": "豆包给周也指导的穿搭",
+        "onboard_time": 1773730223,
+        "rank": 14,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 200346,
+        "num": 200346,
+        "word": "高中生斑马线过马路被撞飞身亡",
+        "onboard_time": 1773716960,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183071,
+        "num": 183071,
+        "word": "深圳卫健委抽烟这块越骂越勇",
+        "onboard_time": 1773732261,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176598,
+        "num": 176598,
+        "word": "正午阳光2026片单",
+        "onboard_time": 1773730761,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42688,
+        "num": 176410,
+        "word": "人民日报深度访谈魏建军",
+        "onboard_time": 1773732261,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 40497,
+        "num": 175139,
+        "word": "61岁东北农村大爷养老金每月191块",
+        "onboard_time": 1773734422,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643787,
+        "num": 174567,
+        "word": "瞿颖已婚",
+        "onboard_time": 1773729021,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581957,
+        "num": 173544,
+        "word": "刘昊然 周冬雨",
+        "onboard_time": 1773730702,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256714,
+        "num": 172698,
+        "word": "金价大跌黄金9点开卖9点01分售罄",
+        "onboard_time": 1773733342,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171996,
+        "num": 171996,
+        "word": "周杰伦说今晚0点准备",
+        "onboard_time": 1773733280,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160752,
+        "num": 160752,
+        "word": "曝小巷人家2剧情",
+        "onboard_time": 1773728481,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145836,
+        "num": 145836,
+        "word": "湘雅规培不该让人以死明志",
+        "onboard_time": 1773733042,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158511,
+        "num": 145692,
+        "word": "马丁 富人区跑步",
+        "onboard_time": 1773732201,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145148,
+        "num": 145148,
+        "word": "初中学历花7000考取药师资格证",
+        "onboard_time": 1773733222,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131724,
+        "num": 131724,
+        "word": "高中生过马路被撞身亡目击者发声",
+        "onboard_time": 1773729441,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131056,
+        "num": 131056,
+        "word": "电视剧当年不肯嫁东风",
+        "onboard_time": 1773729621,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123901,
+        "num": 123901,
+        "word": "曝刘晓庆别墅因违法建设被人投诉",
+        "onboard_time": 1773731600,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120894,
+        "num": 120894,
+        "word": "原来这就是小鸟胃啊",
+        "onboard_time": 1773733879,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121309,
+        "num": 120843,
+        "word": "章昊大学考卷",
+        "onboard_time": 1773728961,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119069,
+        "num": 119069,
+        "word": "ELLE四月刊张凌赫封面预告",
+        "onboard_time": 1773733101,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118842,
+        "num": 118842,
+        "word": "小猫生了个自己",
+        "onboard_time": 1773729621,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116567,
+        "num": 116567,
+        "word": "赵本山近况",
+        "onboard_time": 1773718401,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114059,
+        "num": 114059,
+        "word": "AI 裁员",
+        "onboard_time": 1773718401,
+        "rank": 36,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 106382,
+        "num": 106382,
+        "word": "男子买18元彩票中1734万",
+        "onboard_time": 1773729681,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97640,
+        "num": 97640,
+        "word": "小巷人家2 范丞丞卢昱晓",
+        "onboard_time": 1773734121,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30440,
+        "num": 96501,
+        "word": "小女孩常吃凤爪满嘴疱疹久治不愈",
+        "onboard_time": 1773734601,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95942,
+        "num": 95942,
+        "word": "被美国架在火上的日本",
+        "onboard_time": 1773725303,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94501,
+        "num": 94501,
+        "word": "易烊千玺网站歌曲投票",
+        "onboard_time": 1773728062,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92912,
+        "num": 92912,
+        "word": "肖战这才是真的内娱影视排面",
+        "onboard_time": 1773730822,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87145,
+        "num": 87145,
+        "word": "A股两大利好",
+        "onboard_time": 1773730100,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84319,
+        "num": 84319,
+        "word": "我买东西只看差评",
+        "onboard_time": 1773730702,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83028,
+        "num": 83028,
+        "word": "满13周岁女孩免费接种HPV",
+        "onboard_time": 1773733763,
+        "rank": 45,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 81651,
+        "num": 81651,
+        "word": "睡得晚和睡得少哪个更伤身体",
+        "onboard_time": 1773713000,
+        "rank": 46,
+        "category": "健康医疗,健康医疗"
+      },
+      {
+        "raw_hot": 78439,
+        "num": 78439,
+        "word": "81岁老人为外籍外孙女寻意定监护人",
+        "onboard_time": 1773727161,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76936,
+        "num": 76936,
+        "word": "山姆三文鱼遵循的是非即食国标",
+        "onboard_time": 1773731122,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75205,
+        "num": 75205,
+        "word": "JackeyLove谈BLG战胜BFX",
+        "onboard_time": 1773734841,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程是新的长征#"
+    }
+  }
+}
