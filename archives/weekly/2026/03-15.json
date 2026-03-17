@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773717585602,
+  "endTime": 1773723601693,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 960354,
+      "num": 485986,
+      "word": "伊朗警告日本",
+      "onboard_time": 1773718941,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 949348,
       "num": 1130237,
       "word": "逐玉 韩国",
@@ -257,6 +265,14 @@
       "onboard_time": 1773641542,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 842620,
+      "num": 491270,
+      "word": "湘雅医院坠江身亡研究生导师已停诊",
+      "onboard_time": 1773721102,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 803369,
@@ -555,6 +571,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 559722,
+      "num": 484687,
+      "word": "高中生斑马线过马路被撞飞身亡",
+      "onboard_time": 1773716960,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 558062,
+      "num": 484425,
+      "word": "AI 裁员",
+      "onboard_time": 1773718401,
+      "rank": 12,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 554824,
       "num": 554824,
       "word": "胖东来要求博主删除视频",
@@ -643,6 +675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 513254,
+      "num": 490068,
+      "word": "全是不想坐B座的聪明人",
+      "onboard_time": 1773718280,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 511438,
       "num": 853070,
       "word": "机器人正要进电梯被男子一脚踹倒",
@@ -665,6 +705,14 @@
       "onboard_time": 1773710300,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 493233,
+      "num": 493233,
+      "word": "大理寺米线 泼天的富贵",
+      "onboard_time": 1773718100,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 492575,
@@ -697,6 +745,14 @@
       "onboard_time": 1773625043,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 482295,
+      "num": 482295,
+      "word": "赵本山近况",
+      "onboard_time": 1773718401,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 478843,
@@ -827,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444563,
+      "num": 1071130,
+      "word": "奥斯卡再陷歧视亚裔争议",
+      "onboard_time": 1773720443,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 442797,
       "num": 605605,
       "word": "有友食品声明",
@@ -931,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 391753,
+      "num": 391753,
+      "word": "一个34岁研究生上岸后的猝死",
+      "onboard_time": 1773718521,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 391103,
       "num": 242090,
       "word": "姚安娜让我看到传说中的浮光锦了",
@@ -964,7 +1036,7 @@
     },
     {
       "raw_hot": 383242,
-      "num": 149422,
+      "num": 198585,
       "word": "睡得晚和睡得少哪个更伤身体",
       "onboard_time": 1773713000,
       "rank": 20,
@@ -1065,6 +1137,14 @@
       "onboard_time": 1773661885,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362653,
+      "num": 489716,
+      "word": "湘雅医院学生坠江调查不容含糊",
+      "onboard_time": 1773721162,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358653,
@@ -1169,6 +1249,14 @@
       "onboard_time": 1773713360,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 339857,
+      "num": 764754,
+      "word": "莫斯科遭大量无人机袭击",
+      "onboard_time": 1773716840,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 336370,
@@ -1531,6 +1619,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 282912,
+      "num": 282912,
+      "word": "刘文祥 杨国福粉丝",
+      "onboard_time": 1773719961,
+      "rank": 16,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 282132,
       "num": 282132,
       "word": "孙颖莎示意观众小声些",
@@ -1651,12 +1747,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 261486,
+      "num": 492577,
+      "word": "ZARA拉夫劳伦被点名通报",
+      "onboard_time": 1773721644,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261282,
       "num": 257859,
       "word": "谢征掉马被打看的好爽",
       "onboard_time": 1773543020,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261136,
+      "num": 261136,
+      "word": "李一桐 天选种田文女主",
+      "onboard_time": 1773721823,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 259079,
@@ -1705,6 +1817,14 @@
       "onboard_time": 1773581847,
       "rank": 26,
       "category": "舆论监督,互联网"
+    },
+    {
+      "raw_hot": 253024,
+      "num": 253024,
+      "word": "当公交车突然没了台阶",
+      "onboard_time": 1773718521,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 252897,
@@ -1881,6 +2001,14 @@
       "onboard_time": 1773626002,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 222817,
+      "num": 222817,
+      "word": "金价下跌却买不进",
+      "onboard_time": 1773721343,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 221901,
@@ -2083,6 +2211,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 202450,
+      "num": 202450,
+      "word": "郑合惠子任宥纶同款手机壳",
+      "onboard_time": 1773719781,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202099,
       "num": 194374,
       "word": "民警抓捕逃犯时牺牲2嫌犯畏罪自杀",
@@ -2211,14 +2347,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 189814,
-      "num": 148638,
-      "word": "高中生斑马线过马路被撞飞身亡",
-      "onboard_time": 1773716960,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189799,
       "num": 263469,
       "word": "网红锅巴厂原料和鞋垫一起烤",
@@ -2233,6 +2361,14 @@
       "onboard_time": 1773552802,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189724,
+      "num": 189724,
+      "word": "湘雅医院坠江学生曾多次求助",
+      "onboard_time": 1773722663,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189532,
@@ -2363,6 +2499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180244,
+      "num": 180244,
+      "word": "刘在石经常使用的破冰问题",
+      "onboard_time": 1773720443,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179956,
       "num": 179956,
       "word": "AppleWatch国行上线房颤功能",
@@ -2411,6 +2555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176127,
+      "num": 176127,
+      "word": "公司把猫裁了",
+      "onboard_time": 1773722184,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175765,
       "num": 175765,
       "word": "司宫令开机",
@@ -2433,6 +2585,14 @@
       "onboard_time": 1773499043,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174320,
+      "num": 488038,
+      "word": "蒋超良被逮捕",
+      "onboard_time": 1773716662,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173669,
@@ -2555,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163215,
+      "num": 163215,
+      "word": "AI 替代岗位",
+      "onboard_time": 1773718581,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 162126,
       "num": 162126,
       "word": "李宇春吴青峰都哭了",
@@ -2609,6 +2777,14 @@
       "onboard_time": 1773554181,
       "rank": 24,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 158820,
+      "num": 253455,
+      "word": "苏炳添官宣代言小米汽车",
+      "onboard_time": 1773720981,
+      "rank": 18,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 158064,
@@ -2739,12 +2915,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149524,
-      "num": 149524,
-      "word": "莫斯科遭大量无人机袭击",
-      "onboard_time": 1773716840,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 149190,
+      "num": 149190,
+      "word": "包文婧产后10个月开练普拉提",
+      "onboard_time": 1773722602,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 148694,
@@ -2787,6 +2963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145339,
+      "num": 125930,
+      "word": "多方回应高中生过斑马线被撞飞身亡",
+      "onboard_time": 1773721883,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144754,
       "num": 144754,
       "word": "长沙警方通报一起寻衅滋事案",
@@ -2801,6 +2985,14 @@
       "onboard_time": 1773638963,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142989,
+      "num": 487264,
+      "word": "鹿晗专辑发售",
+      "onboard_time": 1773721042,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 142942,
@@ -3179,6 +3371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125995,
+      "num": 125995,
+      "word": "湘雅医院坠亡研究生导师已停诊",
+      "onboard_time": 1773722663,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125581,
       "num": 160516,
       "word": "清明不调休不补班",
@@ -3235,6 +3435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124174,
+      "num": 124174,
+      "word": "你好1983今日开播",
+      "onboard_time": 1773718521,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123960,
       "num": 123960,
       "word": "王楚钦2比4松岛辉空",
@@ -3265,6 +3473,14 @@
       "onboard_time": 1773494964,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122080,
+      "num": 122080,
+      "word": "张凌赫说舍不得逐玉",
+      "onboard_time": 1773720924,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 121503,
@@ -3395,20 +3611,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117921,
+      "num": 117921,
+      "word": "小伙卖卤肉饭被同行强行倒菜驱赶",
+      "onboard_time": 1773717502,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117705,
       "num": 117705,
       "word": "伊朗称逮捕500名间谍",
       "onboard_time": 1773664223,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 117650,
-      "num": 117650,
-      "word": "小伙卖卤肉饭被同行强行倒菜驱赶",
-      "onboard_time": 1773717502,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117570,
@@ -3539,14 +3755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112005,
-      "num": 112005,
-      "word": "蒋超良被逮捕",
-      "onboard_time": 1773716662,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 111951,
       "num": 111951,
       "word": "乖媳妇漂白鸡爪",
@@ -3609,6 +3817,14 @@
       "onboard_time": 1773564263,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109660,
+      "num": 590710,
+      "word": "中国机器人开始打网球了",
+      "onboard_time": 1773721702,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 109280,
@@ -3779,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105471,
+      "num": 105471,
+      "word": "苹果烧排骨",
+      "onboard_time": 1773723263,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 105393,
       "num": 105393,
       "word": "内娱05生",
@@ -3803,6 +4027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105013,
+      "num": 105013,
+      "word": "你的心理健康比你的工作重要",
+      "onboard_time": 1773720081,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104687,
       "num": 104687,
       "word": "伊朗称目前发射导弹多为10年前生产",
@@ -3817,6 +4049,14 @@
       "onboard_time": 1773552861,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103935,
+      "num": 103935,
+      "word": "伊朗对以色列心脏地带展开袭击",
+      "onboard_time": 1773723502,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103295,
@@ -3979,6 +4219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99928,
+      "num": 99928,
+      "word": "张凌赫说浴池戏像打架",
+      "onboard_time": 1773721042,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99810,
       "num": 107887,
       "word": "F勒布伦4比3松岛辉空",
@@ -4027,6 +4275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 98596,
+      "num": 97224,
+      "word": "考古的风终于轮到田曦薇了",
+      "onboard_time": 1773716240,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98354,
       "num": 98354,
       "word": "少吃水果就少生病吗",
@@ -4057,14 +4313,6 @@
       "onboard_time": 1773715460,
       "rank": 34,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 97224,
-      "num": 97224,
-      "word": "考古的风终于轮到田曦薇了",
-      "onboard_time": 1773716240,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 97223,
@@ -4177,6 +4425,14 @@
       "onboard_time": 1773635664,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95201,
+      "num": 95201,
+      "word": "直井怜让粉丝别说场周贵",
+      "onboard_time": 1773720862,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 95150,
@@ -4369,6 +4625,22 @@
       "onboard_time": 1773652225,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92306,
+      "num": 92306,
+      "word": "汕头自建房致12死火灾系使用蚊香引发",
+      "onboard_time": 1773721102,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92228,
+      "num": 92228,
+      "word": "湖人战胜火箭",
+      "onboard_time": 1773721102,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 91891,
@@ -5979,6 +6251,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 43824,
+      "num": 253197,
+      "word": "被于谦多新鲜呐洗脑了",
+      "onboard_time": 1773721102,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43323,
       "num": 105571,
       "word": "刘宇宁把自己唱熟了",
@@ -6667,6 +6947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 17760,
+      "num": 105720,
+      "word": "捉奸收情夫2.5万被控敲诈案最新进展",
+      "onboard_time": 1773722784,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17621,
       "num": 17621,
       "word": "刘宇宁一开口吃了一嘴的纸",
@@ -6845,6 +7133,9 @@
     },
     {
       "word": "#一口水井一种信念#"
+    },
+    {
+      "word": "#总书记引经据典谈正确政绩观#"
     }
   ]
 }
