@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773862257333,
+  "endTime": 1773864090908,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -48249,6 +48249,14 @@
       "onboard_time": 1772909355,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14005,
+      "num": 18637,
+      "word": "百花杀耀客新剧发布会",
+      "onboard_time": 1773862693,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 13985,
