@@ -1,0 +1,410 @@
+{
+  "runTime": 1773873773787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 240669,
+        "num": 494132,
+        "word": "逐玉",
+        "onboard_time": 1773841163,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237212,
+        "num": 361842,
+        "word": "假装上班公司有员工月入七八万",
+        "onboard_time": 1773848181,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23895,
+        "num": 280086,
+        "word": "新一批重大外资项目要来了",
+        "onboard_time": 1773839962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93716,
+        "num": 93716,
+        "word": "推特崩了",
+        "onboard_time": 1773848543,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90126,
+        "num": 90126,
+        "word": "4月1日医保新规落地",
+        "onboard_time": 1773840622,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277743,
+        "num": 88081,
+        "word": "伊朗发射集束弹头导弹袭击以色列",
+        "onboard_time": 1773852139,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168364,
+        "num": 86031,
+        "word": "女子车祸住院429天371天是挂床",
+        "onboard_time": 1773846024,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80784,
+        "num": 80784,
+        "word": "4人距缅边境500米跳车逃生",
+        "onboard_time": 1773852918,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68738,
+        "num": 68738,
+        "word": "刘宇宁鞠躬退场直到升降台落下",
+        "onboard_time": 1773870854,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61987,
+        "num": 61987,
+        "word": "女子网红店等位3200多桌排到崩溃",
+        "onboard_time": 1773844343,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214260,
+        "num": 61607,
+        "word": "男子遭路虎1分钟恶意别停8次后追尾",
+        "onboard_time": 1773846923,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178456,
+        "num": 59969,
+        "word": "美联储",
+        "onboard_time": 1773841341,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153064,
+        "num": 59374,
+        "word": "刘冲和迪丽热巴聚餐",
+        "onboard_time": 1773846323,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83863,
+        "num": 58695,
+        "word": "徐若晗 挂脸",
+        "onboard_time": 1773833722,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80539,
+        "num": 56937,
+        "word": "赵丽颖被主持人骗到的反应",
+        "onboard_time": 1773846683,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65633,
+        "num": 56865,
+        "word": "代拍说王一博上下班公认最难拍",
+        "onboard_time": 1773845602,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55850,
+        "num": 55850,
+        "word": "杨威回应杨阳洋成绩不好去香港读书",
+        "onboard_time": 1773836601,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55421,
+        "num": 55421,
+        "word": "美国特教女老师1天5次性侵男童",
+        "onboard_time": 1773837442,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51933,
+        "num": 51933,
+        "word": "早期田曦薇 真人bjd",
+        "onboard_time": 1773834562,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48683,
+        "num": 48683,
+        "word": "你好1983",
+        "onboard_time": 1773847101,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147311,
+        "num": 47533,
+        "word": "金价",
+        "onboard_time": 1773838221,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110214,
+        "num": 47070,
+        "word": "黄金",
+        "onboard_time": 1773833842,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 52911,
+        "num": 47057,
+        "word": "库克说李宇春是改变世界的人",
+        "onboard_time": 1773854836,
+        "rank": 22,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 44868,
+        "num": 44868,
+        "word": "伊朗石油工业设施遭袭",
+        "onboard_time": 1773845244,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44413,
+        "num": 44413,
+        "word": "4S店回应拉黑吃饭超260次男子",
+        "onboard_time": 1773842362,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42075,
+        "num": 42075,
+        "word": "伊说中东三国石油设施成合法打击目标",
+        "onboard_time": 1773844881,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37896,
+        "num": 37896,
+        "word": "福建一鸭子活吞41只小鸡",
+        "onboard_time": 1773825861,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35467,
+        "num": 35467,
+        "word": "容易让人长胖的睡前习惯",
+        "onboard_time": 1773829461,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34397,
+        "num": 34397,
+        "word": "BTS演出强制韩国上班族用年假",
+        "onboard_time": 1773852019,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32686,
+        "num": 32686,
+        "word": "红糖姜汁",
+        "onboard_time": 1773843744,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32557,
+        "num": 32557,
+        "word": "日本自研AI被扒底层全是中国代码",
+        "onboard_time": 1773847163,
+        "rank": 30,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 29321,
+        "num": 32543,
+        "word": "网友抵制AI演员",
+        "onboard_time": 1773838343,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29183,
+        "num": 32528,
+        "word": "伊朗总统证实情报部长遇害",
+        "onboard_time": 1773844163,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27941,
+        "num": 32519,
+        "word": "檀健次 你们当没看到",
+        "onboard_time": 1773835821,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27238,
+        "num": 32502,
+        "word": "没见过掉马甲掉得帅成天神的人",
+        "onboard_time": 1773850459,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26991,
+        "num": 32492,
+        "word": "桃花坞6阵容",
+        "onboard_time": 1773847943,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26622,
+        "num": 32469,
+        "word": "放了八年的香蕉",
+        "onboard_time": 1773843802,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26029,
+        "num": 32451,
+        "word": "逐玉樊长玉原型",
+        "onboard_time": 1773853098,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25474,
+        "num": 32433,
+        "word": "客服笑了半个小时决定去仓库打人",
+        "onboard_time": 1773831561,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25909,
+        "num": 32415,
+        "word": "张凌赫说为了逐玉角色增重很多",
+        "onboard_time": 1773853218,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24892,
+        "num": 32407,
+        "word": "美团回应北大毕业送外卖",
+        "onboard_time": 1773848901,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23194,
+        "num": 32386,
+        "word": "伊朗将严厉报复对能源设施的袭击",
+        "onboard_time": 1773850880,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20392,
+        "num": 32370,
+        "word": "袋鼠妈妈被约谈",
+        "onboard_time": 1773851060,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22898,
+        "num": 32352,
+        "word": "伊朗发动第62波攻势",
+        "onboard_time": 1773850939,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19196,
+        "num": 32336,
+        "word": "灿如繁星",
+        "onboard_time": 1773857774,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18156,
+        "num": 32314,
+        "word": "金价跌破4900美元",
+        "onboard_time": 1773846384,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16931,
+        "num": 32298,
+        "word": "田曦薇打戏",
+        "onboard_time": 1773856756,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16801,
+        "num": 32296,
+        "word": "赵丽颖直播",
+        "onboard_time": 1773831680,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16049,
+        "num": 32277,
+        "word": "逐玉预告",
+        "onboard_time": 1773839603,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15438,
+        "num": 32249,
+        "word": "AG对战JDG",
+        "onboard_time": 1773848123,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见土库曼斯坦人民委员会主席#"
+    }
+  }
+}
