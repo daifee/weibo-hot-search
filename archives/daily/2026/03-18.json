@@ -1,10 +1,10 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773810281302,
+  "endTime": 1773810887402,
   "band_list": [
     {
-      "raw_hot": 2089397,
-      "num": 149227,
+      "raw_hot": 2276311,
+      "num": 163246,
       "word": "姚晨 侯雯元",
       "onboard_time": 1773804321,
       "rank": 35,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 995646,
-      "num": 158559,
+      "num": 160292,
       "word": "小S街头大哭",
       "onboard_time": 1773801381,
       "rank": 25,
@@ -44,11 +44,27 @@
     },
     {
       "raw_hot": 769088,
-      "num": 157402,
+      "num": 166176,
       "word": "不是私生 是公立医院出生",
       "onboard_time": 1773806662,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 746528,
+      "num": 161611,
+      "word": "钟楚曦 侯雯元",
+      "onboard_time": 1773807502,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 720738,
+      "num": 166428,
+      "word": "网传落生去世",
+      "onboard_time": 1773808162,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 674707,
@@ -59,19 +75,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 645756,
-      "num": 156495,
-      "word": "网传落生去世",
-      "onboard_time": 1773808162,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 622584,
-      "num": 155314,
+      "raw_hot": 660467,
+      "num": 165729,
       "word": "今天才知道TFBOYS全称",
       "onboard_time": 1773806962,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 574497,
+      "num": 162794,
+      "word": "曝胡歌给初恋的手写信",
+      "onboard_time": 1773808883,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -99,20 +115,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451222,
+      "num": 165668,
+      "word": "王祖贤医美",
+      "onboard_time": 1773809963,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441019,
       "num": 239498,
       "word": "伊朗总统誓言要为拉里贾尼复仇",
       "onboard_time": 1773796221,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 437507,
-      "num": 146977,
-      "word": "曝胡歌给初恋的手写信",
-      "onboard_time": 1773808883,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 421721,
@@ -139,12 +155,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 342108,
+      "raw_hot": 368395,
       "num": 865711,
       "word": "刘文祥麻辣烫店员徒手拌麻酱",
       "onboard_time": 1773808643,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334544,
+      "num": 164893,
+      "word": "何穗孕中期吃一顿饭胖三斤",
+      "onboard_time": 1773810023,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 329104,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 322726,
-      "num": 153461,
+      "num": 164570,
       "word": "英皇还债 惠英红唱跳画全面发展",
       "onboard_time": 1773806362,
       "rank": 14,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 274964,
-      "num": 154760,
+      "num": 165220,
       "word": "高市早苗回应不谴责美以言论被批",
       "onboard_time": 1773807984,
       "rank": 13,
@@ -240,6 +264,14 @@
       "word": "吕严说蒋诗萌就是用生酮瘦下来的",
       "onboard_time": 1773763042,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 240485,
+      "num": 159892,
+      "word": "惠英红 备战歌手战长沙",
+      "onboard_time": 1773808222,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -280,14 +312,6 @@
       "word": "瞿颖透露自己老公是机长",
       "onboard_time": 1773804140,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 224270,
-      "num": 146678,
-      "word": "惠英红 备战歌手战长沙",
-      "onboard_time": 1773808222,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 187509,
-      "num": 133804,
+      "num": 153119,
       "word": "赵丽颖请选择你的修仙搭子",
       "onboard_time": 1773809183,
       "rank": 31,
@@ -371,8 +395,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182013,
-      "num": 147768,
+      "raw_hot": 183133,
+      "num": 162501,
       "word": "改善胰岛素抵抗的关键",
       "onboard_time": 1773808461,
       "rank": 23,
@@ -403,6 +427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172630,
+      "num": 172630,
+      "word": "买到1箱有针眼水男子称已立案",
+      "onboard_time": 1773808703,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168722,
+      "num": 163447,
+      "word": "鹅鸭杀新角色超能力者",
+      "onboard_time": 1773810203,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166753,
       "num": 166753,
       "word": "桃晚安 低保",
@@ -411,19 +451,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 165313,
-      "num": 127927,
-      "word": "何穗孕中期吃一顿饭胖三斤",
-      "onboard_time": 1773810023,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 163056,
-      "num": 124645,
-      "word": "王祖贤医美",
-      "onboard_time": 1773809963,
-      "rank": 34,
+      "raw_hot": 159572,
+      "num": 159572,
+      "word": "邓凯不愧是语文130的大厨",
+      "onboard_time": 1773809842,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -433,14 +465,6 @@
       "onboard_time": 1773794002,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 158005,
-      "num": 158005,
-      "word": "鹅鸭杀新角色超能力者",
-      "onboard_time": 1773810203,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 155857,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 151053,
-      "num": 151053,
+      "num": 160972,
       "word": "美军称用多枚5000磅钻地弹打击伊朗",
       "onboard_time": 1773803480,
       "rank": 29,
@@ -505,6 +529,14 @@
       "onboard_time": 1773789139,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148930,
+      "num": 148930,
+      "word": "陈法拉 好莱坞",
+      "onboard_time": 1773810081,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 148692,
@@ -521,14 +553,6 @@
       "onboard_time": 1773732922,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145051,
-      "num": 145051,
-      "word": "买到1箱有针眼水男子称已立案",
-      "onboard_time": 1773808703,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144332,
@@ -564,11 +588,19 @@
     },
     {
       "raw_hot": 130425,
-      "num": 130425,
+      "num": 149014,
       "word": "流浪猫30天偷了1800只手套",
       "onboard_time": 1773808763,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130055,
+      "num": 159844,
+      "word": "男孩被塞后备箱生父拒绝道歉赔偿",
+      "onboard_time": 1773806543,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128001,
@@ -595,12 +627,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 120363,
-      "num": 120363,
-      "word": "男孩被塞后备箱生父拒绝道歉赔偿",
-      "onboard_time": 1773806543,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 121815,
+      "num": 121815,
+      "word": "杨幂 想把祖国各种地方都走一走",
+      "onboard_time": 1773810502,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 117499,
@@ -609,6 +641,14 @@
       "onboard_time": 1773753202,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 111977,
+      "num": 111131,
+      "word": "孔雪儿曾是邓凯的偶像",
+      "onboard_time": 1773810683,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 109925,
@@ -643,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106963,
+      "num": 160689,
+      "word": "油价或重回9元时代",
+      "onboard_time": 1773807682,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 106312,
       "num": 133832,
       "word": "小巷人家2 范丞丞卢昱晓",
@@ -651,28 +699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106062,
-      "num": 99559,
-      "word": "邓凯不愧是语文130的大厨",
-      "onboard_time": 1773809842,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102335,
       "num": 102335,
       "word": "金价暴涨的第一批受害者出现了",
       "onboard_time": 1773791540,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102268,
-      "num": 136149,
-      "word": "油价或重回9元时代",
-      "onboard_time": 1773807682,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 102244,
@@ -763,6 +795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91492,
+      "num": 91492,
+      "word": "一个在所有关系中通杀的秘诀",
+      "onboard_time": 1773810862,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91404,
       "num": 86444,
       "word": "拉里贾尼儿子和副手身亡",
@@ -777,6 +817,14 @@
       "onboard_time": 1773801081,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89896,
+      "num": 89896,
+      "word": "四川高一男孩斑马线上被撞身亡",
+      "onboard_time": 1773810802,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89494,
@@ -809,6 +857,14 @@
       "onboard_time": 1773800180,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86126,
+      "num": 89853,
+      "word": "林高远骑士精神",
+      "onboard_time": 1773810382,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 84835,
@@ -844,7 +900,7 @@
     },
     {
       "raw_hot": 81052,
-      "num": 145740,
+      "num": 161733,
       "word": "吉利发布舱驾融合关键成果",
       "onboard_time": 1773806602,
       "rank": 26,
@@ -1035,8 +1091,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50607,
+      "num": 134568,
+      "word": "做核磁共振被遗忘6小时会经历什么",
+      "onboard_time": 1773810382,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49750,
-      "num": 150633,
+      "num": 164065,
       "word": "倪妮的新松弛感",
       "onboard_time": 1773808402,
       "rank": 18,
@@ -1049,6 +1113,14 @@
       "onboard_time": 1773763641,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48309,
+      "num": 163868,
+      "word": "列车服务应满足卫生巾这一女性刚需",
+      "onboard_time": 1773810023,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47035,
@@ -1075,7 +1147,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 46249,
+      "raw_hot": 46706,
       "num": 115013,
       "word": "黄子韬让刘耀文别乱说话",
       "onboard_time": 1773807263,
@@ -1129,6 +1201,14 @@
       "onboard_time": 1773755182,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34148,
+      "num": 133763,
+      "word": "曾被封杀的李一舟又开始卖AI课了",
+      "onboard_time": 1773810023,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33776,
@@ -1187,28 +1267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28550,
-      "num": 109656,
-      "word": "曾被封杀的李一舟又开始卖AI课了",
-      "onboard_time": 1773810023,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26121,
       "num": 72076,
       "word": "TF家族翻牌",
       "onboard_time": 1773755843,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25124,
-      "num": 149902,
-      "word": "列车服务应满足卫生巾这一女性刚需",
-      "onboard_time": 1773810023,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25121,
