@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773835573808,
+  "endTime": 1773840521831,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -1355,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445168,
+      "num": 445168,
+      "word": "早期田曦薇 真人bjd",
+      "onboard_time": 1773834562,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442797,
       "num": 605605,
       "word": "有友食品声明",
@@ -1531,6 +1539,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 396632,
+      "num": 1063461,
+      "word": "宁娘 皇后",
+      "onboard_time": 1773834982,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394189,
       "num": 302448,
       "word": "长玉说和离 谢征吐血",
@@ -1681,6 +1697,14 @@
       "onboard_time": 1773561321,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 377403,
+      "num": 377403,
+      "word": "杨威回应杨阳洋成绩不好去香港读书",
+      "onboard_time": 1773836601,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 377214,
@@ -2116,7 +2140,7 @@
     },
     {
       "raw_hot": 318229,
-      "num": 318229,
+      "num": 469945,
       "word": "油价涨了冲锋衣可能更贵",
       "onboard_time": 1773817521,
       "rank": 36,
@@ -2675,6 +2699,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 265707,
+      "num": 288675,
+      "word": "精神病男子杀人4年后被认定0危险",
+      "onboard_time": 1773835222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264134,
       "num": 264134,
       "word": "315记者为拍证据曾勇闯杀人蜂区",
@@ -2777,6 +2809,14 @@
       "onboard_time": 1773586046,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 257951,
+      "num": 552854,
+      "word": "伊朗为拉里贾尼举行葬礼",
+      "onboard_time": 1773837502,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 257870,
@@ -2889,6 +2929,14 @@
       "onboard_time": 1773744082,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245741,
+      "num": 589698,
+      "word": "张凌赫田曦薇被cue经纪人梗的反应",
+      "onboard_time": 1773837082,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 245734,
@@ -3545,6 +3593,14 @@
       "onboard_time": 1773825861,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202526,
+      "num": 202526,
+      "word": "文科生的春天",
+      "onboard_time": 1773838402,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 202521,
@@ -4323,6 +4379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160897,
+      "num": 160897,
+      "word": "国内金饰克价连跌",
+      "onboard_time": 1773836002,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 160843,
       "num": 249154,
       "word": "2026考研复试新变化",
@@ -4587,6 +4651,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 150413,
+      "num": 573029,
+      "word": "周启豪获世乒赛参赛名额",
+      "onboard_time": 1773838102,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150163,
       "num": 150163,
       "word": "周杰伦新歌预告",
@@ -4601,6 +4673,14 @@
       "onboard_time": 1773622463,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149560,
+      "num": 508526,
+      "word": "698元海蓝之谜只有瓶子是真的",
+      "onboard_time": 1773837624,
+      "rank": 7,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 148930,
@@ -4625,6 +4705,14 @@
       "onboard_time": 1773801020,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148499,
+      "num": 148499,
+      "word": "网友抵制AI演员",
+      "onboard_time": 1773838343,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148334,
@@ -5075,6 +5163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 134177,
+      "num": 134177,
+      "word": "美国特教女老师1天5次性侵男童",
+      "onboard_time": 1773837442,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133939,
       "num": 133939,
       "word": "卢昱晓被家乡台贴脸开大",
@@ -5235,6 +5331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130220,
+      "num": 130220,
+      "word": "逐玉预告",
+      "onboard_time": 1773839603,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130055,
       "num": 159844,
       "word": "男孩被塞后备箱生父拒绝道歉赔偿",
@@ -5289,6 +5393,14 @@
       "onboard_time": 1773812122,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128272,
+      "num": 128272,
+      "word": "王一博春晚伴舞老师分享趣事",
+      "onboard_time": 1773840082,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 128159,
@@ -5739,6 +5851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116950,
+      "num": 116950,
+      "word": "白玉兰官宣6月26日颁奖",
+      "onboard_time": 1773839843,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116841,
       "num": 116841,
       "word": "余承恩妈妈感谢夏之光",
@@ -5923,6 +6043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111325,
+      "num": 111325,
+      "word": "邓凯 你第一",
+      "onboard_time": 1773835163,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111313,
       "num": 111313,
       "word": "养QQ宠物的那批人回来了",
@@ -5979,6 +6107,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 110015,
+      "num": 175849,
+      "word": "奇瑞要做真正的新能源车",
+      "onboard_time": 1773839182,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 109987,
       "num": 109987,
       "word": "马龙观赛F1",
@@ -6032,14 +6168,6 @@
       "word": "郭碧婷把向太给的钱都存给孩子了",
       "onboard_time": 1773646826,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 109067,
-      "num": 143839,
-      "word": "早期田曦薇 真人bjd",
-      "onboard_time": 1773834562,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -6185,6 +6313,14 @@
       "onboard_time": 1773756922,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106490,
+      "num": 106490,
+      "word": "时代少年团演唱会 南沙",
+      "onboard_time": 1773836722,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 106472,
@@ -6771,6 +6907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 98340,
+      "num": 98340,
+      "word": "赵丽颖短发齐刘海造型",
+      "onboard_time": 1773835581,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 98318,
       "num": 98318,
       "word": "司马光拔牙肿成蜜蜂小狗",
@@ -7227,6 +7371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92724,
+      "num": 92724,
+      "word": "檀健次 你们当没看到",
+      "onboard_time": 1773835821,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92669,
       "num": 92669,
       "word": "今日鲜奶铺卖的不全是鲜牛奶",
@@ -7241,6 +7393,14 @@
       "onboard_time": 1773652225,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92565,
+      "num": 92565,
+      "word": "大侦探唯一的证据被魏大勋拿下",
+      "onboard_time": 1773836842,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 92554,
@@ -7515,6 +7675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88635,
+      "num": 92629,
+      "word": "腾讯营收首超7000亿",
+      "onboard_time": 1773838761,
+      "rank": 38,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 88503,
       "num": 88503,
       "word": "王一栩虞书欣 三搭",
@@ -7601,6 +7769,14 @@
       "onboard_time": 1773662303,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87439,
+      "num": 87439,
+      "word": "vivo手机涨价",
+      "onboard_time": 1773840323,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 87426,
@@ -8147,14 +8323,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 81578,
-      "num": 81578,
-      "word": "邓凯 你第一",
-      "onboard_time": 1773835163,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 81377,
       "num": 81377,
       "word": "要不说乱室出佳人呢",
@@ -8569,6 +8737,14 @@
       "onboard_time": 1773731122,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76849,
+      "num": 76849,
+      "word": "低精力可能是因为缺维D",
+      "onboard_time": 1773840082,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 76743,
@@ -9099,6 +9275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70648,
+      "num": 76614,
+      "word": "A股全市场38股涨停",
+      "onboard_time": 1773839302,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 70642,
       "num": 244345,
       "word": "私域营销5倍暴利围猎老人",
@@ -9569,14 +9753,6 @@
       "onboard_time": 1773712820,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 61580,
-      "num": 152231,
-      "word": "宁娘 皇后",
-      "onboard_time": 1773834982,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 61466,
@@ -10395,6 +10571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36162,
+      "num": 92596,
+      "word": "车圈高管说表现不好下次换数字人",
+      "onboard_time": 1773837263,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35865,
       "num": 253914,
       "word": "3人产权住房1人将名下1平米拍卖",
@@ -10427,6 +10611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 35125,
+      "num": 594039,
+      "word": "北斗导航机器挖坑在沙漠5秒种1棵树",
+      "onboard_time": 1773839662,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34148,
       "num": 133763,
       "word": "曾被封杀的李一舟又开始卖AI课了",
@@ -10441,6 +10633,14 @@
       "onboard_time": 1773661820,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33863,
+      "num": 128365,
+      "word": "新一批重大外资项目要来了",
+      "onboard_time": 1773839962,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33838,
@@ -10625,14 +10825,6 @@
       "onboard_time": 1773651204,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 29657,
-      "num": 288675,
-      "word": "精神病男子杀人4年后被认定0危险",
-      "onboard_time": 1773835222,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29559,
@@ -11356,6 +11548,9 @@
     },
     {
       "word": "#奋进十五五#"
+    },
+    {
+      "word": "#习近平会见土库曼斯坦人民委员会主席#"
     }
   ]
 }

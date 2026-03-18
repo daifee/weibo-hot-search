@@ -1,6 +1,6 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773835573808,
+  "endTime": 1773840521831,
   "band_list": [
     {
       "raw_hot": 2276311,
@@ -251,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 445168,
+      "num": 445168,
+      "word": "早期田曦薇 真人bjd",
+      "onboard_time": 1773834562,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441019,
       "num": 239498,
       "word": "伊朗总统誓言要为拉里贾尼复仇",
@@ -315,6 +323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 396632,
+      "num": 1063461,
+      "word": "宁娘 皇后",
+      "onboard_time": 1773834982,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392153,
       "num": 392153,
       "word": "曝酷滕雷淞然闹掰原因",
@@ -329,6 +345,14 @@
       "onboard_time": 1773833661,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 377403,
+      "num": 377403,
+      "word": "杨威回应杨阳洋成绩不好去香港读书",
+      "onboard_time": 1773836601,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 368395,
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 318229,
-      "num": 318229,
+      "num": 469945,
       "word": "油价涨了冲锋衣可能更贵",
       "onboard_time": 1773817521,
       "rank": 36,
@@ -547,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265707,
+      "num": 288675,
+      "word": "精神病男子杀人4年后被认定0危险",
+      "onboard_time": 1773835222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261495,
       "num": 799730,
       "word": "鱼塘主坚持2年用辣椒喂鱼",
@@ -555,12 +587,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257951,
+      "num": 552854,
+      "word": "伊朗为拉里贾尼举行葬礼",
+      "onboard_time": 1773837502,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 251648,
       "num": 251648,
       "word": "薛之谦演唱会",
       "onboard_time": 1773827902,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 245741,
+      "num": 589698,
+      "word": "张凌赫田曦薇被cue经纪人梗的反应",
+      "onboard_time": 1773837082,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 245501,
@@ -787,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202526,
+      "num": 202526,
+      "word": "文科生的春天",
+      "onboard_time": 1773838402,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190746,
       "num": 190746,
       "word": "小米超强钢获得国家级科技一等奖",
@@ -963,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160897,
+      "num": 160897,
+      "word": "国内金饰克价连跌",
+      "onboard_time": 1773836002,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159572,
       "num": 159572,
       "word": "邓凯不愧是语文130的大厨",
@@ -1035,12 +1099,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 150413,
+      "num": 573029,
+      "word": "周启豪获世乒赛参赛名额",
+      "onboard_time": 1773838102,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150163,
       "num": 150163,
       "word": "周杰伦新歌预告",
       "onboard_time": 1773789139,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149560,
+      "num": 508526,
+      "word": "698元海蓝之谜只有瓶子是真的",
+      "onboard_time": 1773837624,
+      "rank": 7,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 148930,
@@ -1057,6 +1137,14 @@
       "onboard_time": 1773801020,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148499,
+      "num": 148499,
+      "word": "网友抵制AI演员",
+      "onboard_time": 1773838343,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145773,
@@ -1131,6 +1219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 134177,
+      "num": 134177,
+      "word": "美国特教女老师1天5次性侵男童",
+      "onboard_time": 1773837442,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 132219,
       "num": 103854,
       "word": "瞿颖胡兵回应为什么没在一起",
@@ -1147,6 +1243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130220,
+      "num": 130220,
+      "word": "逐玉预告",
+      "onboard_time": 1773839603,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130055,
       "num": 159844,
       "word": "男孩被塞后备箱生父拒绝道歉赔偿",
@@ -1161,6 +1265,14 @@
       "onboard_time": 1773812122,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128272,
+      "num": 128272,
+      "word": "王一博春晚伴舞老师分享趣事",
+      "onboard_time": 1773840082,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 128001,
@@ -1243,6 +1355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 116950,
+      "num": 116950,
+      "word": "白玉兰官宣6月26日颁奖",
+      "onboard_time": 1773839843,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115710,
       "num": 115710,
       "word": "何穗分享孕期不长胖的方法",
@@ -1257,6 +1377,14 @@
       "onboard_time": 1773829822,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111325,
+      "num": 111325,
+      "word": "邓凯 你第一",
+      "onboard_time": 1773835163,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 111193,
@@ -1291,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110015,
+      "num": 175849,
+      "word": "奇瑞要做真正的新能源车",
+      "onboard_time": 1773839182,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 109925,
       "num": 109925,
       "word": "电视剧冬去春来定档",
@@ -1312,14 +1448,6 @@
       "word": "代拍称肖战王楚然登陆少年销量前三",
       "onboard_time": 1773817880,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 109067,
-      "num": 143839,
-      "word": "早期田曦薇 真人bjd",
-      "onboard_time": 1773834562,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1353,6 +1481,14 @@
       "onboard_time": 1773807682,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 106490,
+      "num": 106490,
+      "word": "时代少年团演唱会 南沙",
+      "onboard_time": 1773836722,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 106312,
@@ -1483,6 +1619,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98467,
+      "num": 98467,
+      "word": "金价",
+      "onboard_time": 1773838221,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 98340,
+      "num": 98340,
+      "word": "赵丽颖短发齐刘海造型",
+      "onboard_time": 1773835581,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 98065,
       "num": 98065,
       "word": "以色列中部遭伊朗导弹袭击2人死",
@@ -1553,6 +1705,22 @@
       "onboard_time": 1773803962,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92724,
+      "num": 92724,
+      "word": "檀健次 你们当没看到",
+      "onboard_time": 1773835821,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92565,
+      "num": 92565,
+      "word": "大侦探唯一的证据被魏大勋拿下",
+      "onboard_time": 1773836842,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 92554,
@@ -1635,6 +1803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 88635,
+      "num": 92629,
+      "word": "腾讯营收首超7000亿",
+      "onboard_time": 1773838761,
+      "rank": 38,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 88127,
       "num": 88127,
       "word": "张凌赫演这段前跟导演聊到凌晨三点",
@@ -1657,6 +1833,14 @@
       "onboard_time": 1773820701,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87439,
+      "num": 87439,
+      "word": "vivo手机涨价",
+      "onboard_time": 1773840323,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 87426,
@@ -1787,14 +1971,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 81578,
-      "num": 81578,
-      "word": "邓凯 你第一",
-      "onboard_time": 1773835163,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 81052,
       "num": 161733,
       "word": "吉利发布舱驾融合关键成果",
@@ -1873,6 +2049,14 @@
       "onboard_time": 1773831801,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76849,
+      "num": 76849,
+      "word": "低精力可能是因为缺维D",
+      "onboard_time": 1773840082,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 76647,
@@ -2019,6 +2203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70648,
+      "num": 76614,
+      "word": "A股全市场38股涨停",
+      "onboard_time": 1773839302,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 69799,
       "num": 69799,
       "word": "旅行中的几种人belike",
@@ -2121,14 +2313,6 @@
       "onboard_time": 1773828920,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 61580,
-      "num": 152231,
-      "word": "宁娘 皇后",
-      "onboard_time": 1773834982,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 61276,
@@ -2339,12 +2523,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36162,
+      "num": 92596,
+      "word": "车圈高管说表现不好下次换数字人",
+      "onboard_time": 1773837263,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 35125,
+      "num": 594039,
+      "word": "北斗导航机器挖坑在沙漠5秒种1棵树",
+      "onboard_time": 1773839662,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34148,
       "num": 133763,
       "word": "曾被封杀的李一舟又开始卖AI课了",
       "onboard_time": 1773810023,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33863,
+      "num": 128365,
+      "word": "新一批重大外资项目要来了",
+      "onboard_time": 1773839962,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33838,
@@ -2425,14 +2633,6 @@
       "onboard_time": 1773769995,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29657,
-      "num": 288675,
-      "word": "精神病男子杀人4年后被认定0危险",
-      "onboard_time": 1773835222,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29318,
@@ -2636,6 +2836,9 @@
     },
     {
       "word": "#奋进十五五#"
+    },
+    {
+      "word": "#习近平会见土库曼斯坦人民委员会主席#"
     }
   ]
 }
