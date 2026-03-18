@@ -1,7 +1,15 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773804412776,
+  "endTime": 1773810281302,
   "band_list": [
+    {
+      "raw_hot": 2089397,
+      "num": 149227,
+      "word": "姚晨 侯雯元",
+      "onboard_time": 1773804321,
+      "rank": 35,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1584848,
       "num": 1584848,
@@ -35,6 +43,46 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 769088,
+      "num": 157402,
+      "word": "不是私生 是公立医院出生",
+      "onboard_time": 1773806662,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 674707,
+      "num": 145536,
+      "word": "凌潇肃侯雯元 莞莞类卿",
+      "onboard_time": 1773808222,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 645756,
+      "num": 156495,
+      "word": "网传落生去世",
+      "onboard_time": 1773808162,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 622584,
+      "num": 155314,
+      "word": "今天才知道TFBOYS全称",
+      "onboard_time": 1773806962,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 532857,
+      "num": 532857,
+      "word": "樊长玉谢征 好孕赘婿",
+      "onboard_time": 1773807321,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510763,
       "num": 217493,
       "word": "iPhone18将首次启用三星相机",
@@ -52,11 +100,19 @@
     },
     {
       "raw_hot": 441019,
-      "num": 228570,
+      "num": 239498,
       "word": "伊朗总统誓言要为拉里贾尼复仇",
       "onboard_time": 1773796221,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 437507,
+      "num": 146977,
+      "word": "曝胡歌给初恋的手写信",
+      "onboard_time": 1773808883,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 421721,
@@ -83,12 +139,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 342108,
+      "num": 865711,
+      "word": "刘文祥麻辣烫店员徒手拌麻酱",
+      "onboard_time": 1773808643,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329104,
       "num": 329104,
       "word": "毛宁向世界分享中国学生午睡神器",
       "onboard_time": 1773801441,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322726,
+      "num": 153461,
+      "word": "英皇还债 惠英红唱跳画全面发展",
+      "onboard_time": 1773806362,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 316202,
@@ -137,6 +209,22 @@
       "onboard_time": 1773797721,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274964,
+      "num": 154760,
+      "word": "高市早苗回应不谴责美以言论被批",
+      "onboard_time": 1773807984,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 274126,
+      "num": 274126,
+      "word": "女子投保两年半后确诊患癌遭拒赔",
+      "onboard_time": 1773803542,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267105,
@@ -192,6 +280,14 @@
       "word": "瞿颖透露自己老公是机长",
       "onboard_time": 1773804140,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224270,
+      "num": 146678,
+      "word": "惠英红 备战歌手战长沙",
+      "onboard_time": 1773808222,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -251,12 +347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190593,
-      "num": 190593,
+      "raw_hot": 190746,
+      "num": 190746,
       "word": "小米超强钢获得国家级科技一等奖",
       "onboard_time": 1773803361,
       "rank": 4,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 187509,
+      "num": 133804,
+      "word": "赵丽颖请选择你的修仙搭子",
+      "onboard_time": 1773809183,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185969,
@@ -265,6 +369,14 @@
       "onboard_time": 1773758724,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182013,
+      "num": 147768,
+      "word": "改善胰岛素抵抗的关键",
+      "onboard_time": 1773808461,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179772,
@@ -299,12 +411,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165313,
+      "num": 127927,
+      "word": "何穗孕中期吃一顿饭胖三斤",
+      "onboard_time": 1773810023,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163056,
+      "num": 124645,
+      "word": "王祖贤医美",
+      "onboard_time": 1773809963,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159254,
       "num": 159254,
       "word": "8种情况建议查查幽门螺杆菌",
       "onboard_time": 1773794002,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 158005,
+      "num": 158005,
+      "word": "鹅鸭杀新角色超能力者",
+      "onboard_time": 1773810203,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 155857,
@@ -331,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152887,
+      "num": 149256,
+      "word": "微信折叠发图",
+      "onboard_time": 1773808103,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 152241,
       "num": 133844,
       "word": "伊朗的新战法让美国很头疼",
@@ -345,6 +489,14 @@
       "onboard_time": 1773753142,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151053,
+      "num": 151053,
+      "word": "美军称用多枚5000磅钻地弹打击伊朗",
+      "onboard_time": 1773803480,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 150163,
@@ -371,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145051,
+      "num": 145051,
+      "word": "买到1箱有针眼水男子称已立案",
+      "onboard_time": 1773808703,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144332,
       "num": 209391,
       "word": "翟潇闻回复姜妍",
@@ -393,6 +553,22 @@
       "onboard_time": 1773759443,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132219,
+      "num": 103854,
+      "word": "瞿颖胡兵回应为什么没在一起",
+      "onboard_time": 1773805823,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130425,
+      "num": 130425,
+      "word": "流浪猫30天偷了1800只手套",
+      "onboard_time": 1773808763,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 128001,
@@ -419,11 +595,11 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 122946,
-      "num": 111417,
-      "word": "女子投保两年半后确诊患癌遭拒赔",
-      "onboard_time": 1773803542,
-      "rank": 30,
+      "raw_hot": 120363,
+      "num": 120363,
+      "word": "男孩被塞后备箱生父拒绝道歉赔偿",
+      "onboard_time": 1773806543,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -433,14 +609,6 @@
       "onboard_time": 1773753202,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 111907,
-      "num": 111907,
-      "word": "美军称用多枚5000磅钻地弹打击伊朗",
-      "onboard_time": 1773803480,
-      "rank": 29,
-      "category": "军事"
     },
     {
       "raw_hot": 109925,
@@ -467,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108149,
+      "num": 102044,
+      "word": "张凌赫回应谢征樊长玉圆房吻",
+      "onboard_time": 1773804260,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106312,
       "num": 133832,
       "word": "小巷人家2 范丞丞卢昱晓",
@@ -475,12 +651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106062,
+      "num": 99559,
+      "word": "邓凯不愧是语文130的大厨",
+      "onboard_time": 1773809842,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102335,
       "num": 102335,
       "word": "金价暴涨的第一批受害者出现了",
       "onboard_time": 1773791540,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102268,
+      "num": 136149,
+      "word": "油价或重回9元时代",
+      "onboard_time": 1773807682,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 102244,
@@ -499,20 +691,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 100780,
-      "num": 100780,
-      "word": "姚晨 侯雯元",
-      "onboard_time": 1773804321,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100701,
       "num": 100701,
       "word": "科大讯飞回应大幅裁员",
       "onboard_time": 1773802100,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99748,
+      "num": 99748,
+      "word": "把装满牛奶的杯子倒着放",
+      "onboard_time": 1773809363,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 99652,
@@ -537,6 +729,14 @@
       "onboard_time": 1773800901,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97331,
+      "num": 97331,
+      "word": "逐玉谢征今晚掉马",
+      "onboard_time": 1773809602,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 93909,
@@ -643,20 +843,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81052,
+      "num": 145740,
+      "word": "吉利发布舱驾融合关键成果",
+      "onboard_time": 1773806602,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 80825,
+      "num": 113325,
+      "word": "内蒙古一洗浴店涉卖淫嫖娼2人被抓",
+      "onboard_time": 1773809183,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80113,
       "num": 80113,
       "word": "葡萄牙体育惊天大逆转进欧冠8强",
       "onboard_time": 1773797721,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79035,
-      "num": 79035,
-      "word": "张凌赫回应谢征樊长玉圆房吻",
-      "onboard_time": 1773804260,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 76647,
@@ -827,12 +1035,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49750,
+      "num": 150633,
+      "word": "倪妮的新松弛感",
+      "onboard_time": 1773808402,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48807,
       "num": 155739,
       "word": "樊长玉这滴泪的重量",
       "onboard_time": 1773763641,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47035,
+      "num": 704923,
+      "word": "春暖花开各地文旅持续升温",
+      "onboard_time": 1773805401,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46873,
@@ -849,6 +1073,14 @@
       "onboard_time": 1773790759,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 46249,
+      "num": 115013,
+      "word": "黄子韬让刘耀文别乱说话",
+      "onboard_time": 1773807263,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 43113,
@@ -955,12 +1187,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28550,
+      "num": 109656,
+      "word": "曾被封杀的李一舟又开始卖AI课了",
+      "onboard_time": 1773810023,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26121,
       "num": 72076,
       "word": "TF家族翻牌",
       "onboard_time": 1773755843,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25124,
+      "num": 149902,
+      "word": "列车服务应满足卫生巾这一女性刚需",
+      "onboard_time": 1773810023,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25121,
@@ -1062,6 +1310,9 @@
   "hotgov_list": [
     {
       "word": "#为人民出政绩#"
+    },
+    {
+      "word": "#总书记妙语典明正确政绩观#"
     }
   ]
 }

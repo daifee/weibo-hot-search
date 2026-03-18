@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773804412776,
+  "endTime": 1773810281302,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -49,6 +49,14 @@
       "onboard_time": 1773556760,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2089397,
+      "num": 149227,
+      "word": "姚晨 侯雯元",
+      "onboard_time": 1773804321,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 2087503,
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 769088,
+      "num": 157402,
+      "word": "不是私生 是公立医院出生",
+      "onboard_time": 1773806662,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 726858,
       "num": 726858,
       "word": "中南大学和湖南卫健委成立联合调查组",
@@ -499,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 674707,
+      "num": 145536,
+      "word": "凌潇肃侯雯元 莞莞类卿",
+      "onboard_time": 1773808222,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 674618,
       "num": 803260,
       "word": "入职未满1年怀孕请假被拒获赔10万",
@@ -529,6 +553,14 @@
       "onboard_time": 1773586826,
       "rank": 4,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 645756,
+      "num": 156495,
+      "word": "网传落生去世",
+      "onboard_time": 1773808162,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 643751,
@@ -577,6 +609,14 @@
       "onboard_time": 1773745281,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 622584,
+      "num": 155314,
+      "word": "今天才知道TFBOYS全称",
+      "onboard_time": 1773806962,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 619836,
@@ -809,6 +849,14 @@
       "onboard_time": 1773670942,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 532857,
+      "num": 532857,
+      "word": "樊长玉谢征 好孕赘婿",
+      "onboard_time": 1773807321,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 532574,
@@ -1164,7 +1212,7 @@
     },
     {
       "raw_hot": 441019,
-      "num": 228570,
+      "num": 239498,
       "word": "伊朗总统誓言要为拉里贾尼复仇",
       "onboard_time": 1773796221,
       "rank": 5,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1773631401,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 437507,
+      "num": 146977,
+      "word": "曝胡歌给初恋的手写信",
+      "onboard_time": 1773808883,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 436110,
@@ -1627,6 +1683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 342108,
+      "num": 865711,
+      "word": "刘文祥麻辣烫店员徒手拌麻酱",
+      "onboard_time": 1773808643,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341723,
       "num": 257891,
       "word": "女子怀孕2个月后脑出血智力仅3岁",
@@ -1744,6 +1808,14 @@
       "word": "王一栩 虞书欣演过最好的都是我给的",
       "onboard_time": 1773655163,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 322726,
+      "num": 153461,
+      "word": "英皇还债 惠英红唱跳画全面发展",
+      "onboard_time": 1773806362,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -2179,12 +2251,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 274964,
+      "num": 154760,
+      "word": "高市早苗回应不谴责美以言论被批",
+      "onboard_time": 1773807984,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 274547,
       "num": 815617,
       "word": "满13周岁女孩免费接种HPV",
       "onboard_time": 1773733763,
       "rank": 47,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 274126,
+      "num": 274126,
+      "word": "女子投保两年半后确诊患癌遭拒赔",
+      "onboard_time": 1773803542,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274012,
@@ -2715,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224270,
+      "num": 146678,
+      "word": "惠英红 备战歌手战长沙",
+      "onboard_time": 1773808222,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224029,
       "num": 224029,
       "word": "逐玉 秦良玉",
@@ -3155,8 +3251,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 190593,
-      "num": 190593,
+      "raw_hot": 190746,
+      "num": 190746,
       "word": "小米超强钢获得国家级科技一等奖",
       "onboard_time": 1773803361,
       "rank": 4,
@@ -3217,6 +3313,14 @@
       "onboard_time": 1773588802,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 187509,
+      "num": 133804,
+      "word": "赵丽颖请选择你的修仙搭子",
+      "onboard_time": 1773809183,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187005,
@@ -3329,6 +3433,14 @@
       "onboard_time": 1773578247,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182013,
+      "num": 147768,
+      "word": "改善胰岛素抵抗的关键",
+      "onboard_time": 1773808461,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181759,
@@ -3563,6 +3675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165313,
+      "num": 127927,
+      "word": "何穗孕中期吃一顿饭胖三斤",
+      "onboard_time": 1773810023,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164873,
       "num": 164873,
       "word": "等风热吻你",
@@ -3625,6 +3745,14 @@
       "onboard_time": 1773718581,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 163056,
+      "num": 124645,
+      "word": "王祖贤医美",
+      "onboard_time": 1773809963,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 162727,
@@ -3721,6 +3849,14 @@
       "onboard_time": 1773498081,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158005,
+      "num": 158005,
+      "word": "鹅鸭杀新角色超能力者",
+      "onboard_time": 1773810203,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 157773,
@@ -3859,6 +3995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152887,
+      "num": 149256,
+      "word": "微信折叠发图",
+      "onboard_time": 1773808103,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 152405,
       "num": 152405,
       "word": "窦骁在何超莲vlog出镜",
@@ -3897,6 +4041,14 @@
       "onboard_time": 1773542000,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151053,
+      "num": 151053,
+      "word": "美军称用多枚5000磅钻地弹打击伊朗",
+      "onboard_time": 1773803480,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 150163,
@@ -4016,6 +4168,14 @@
       "word": "初中学历花7000考取药师资格证",
       "onboard_time": 1773733222,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145051,
+      "num": 145051,
+      "word": "买到1箱有针眼水男子称已立案",
+      "onboard_time": 1773808703,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -4411,6 +4571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132219,
+      "num": 103854,
+      "word": "瞿颖胡兵回应为什么没在一起",
+      "onboard_time": 1773805823,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132048,
       "num": 129648,
       "word": "长玉转身就把谢征师父抱起来了",
@@ -4481,6 +4649,14 @@
       "onboard_time": 1773736461,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130425,
+      "num": 130425,
+      "word": "流浪猫30天偷了1800只手套",
+      "onboard_time": 1773808763,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 129459,
@@ -4699,14 +4875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122946,
-      "num": 111417,
-      "word": "女子投保两年半后确诊患癌遭拒赔",
-      "onboard_time": 1773803542,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122945,
       "num": 120681,
       "word": "女子翻丈夫手机发现其出轨几十人",
@@ -4769,6 +4937,14 @@
       "onboard_time": 1773548119,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120363,
+      "num": 120363,
+      "word": "男孩被塞后备箱生父拒绝道歉赔偿",
+      "onboard_time": 1773806543,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120143,
@@ -5067,14 +5243,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 111907,
-      "num": 111907,
-      "word": "美军称用多枚5000磅钻地弹打击伊朗",
-      "onboard_time": 1773803480,
-      "rank": 29,
-      "category": "军事"
-    },
-    {
       "raw_hot": 111750,
       "num": 431817,
       "word": "漂白鸡爪企业买了超5000桶过氧化氢",
@@ -5208,6 +5376,14 @@
       "word": "征玉夫妇终于正式圆房",
       "onboard_time": 1773791422,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108149,
+      "num": 102044,
+      "word": "张凌赫回应谢征樊长玉圆房吻",
+      "onboard_time": 1773804260,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -5353,6 +5529,14 @@
       "onboard_time": 1773637284,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106062,
+      "num": 99559,
+      "word": "邓凯不愧是语文130的大厨",
+      "onboard_time": 1773809842,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 105998,
@@ -5571,6 +5755,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 102268,
+      "num": 136149,
+      "word": "油价或重回9元时代",
+      "onboard_time": 1773807682,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102244,
       "num": 102244,
       "word": "孔雪儿邓凯聊逐玉水下吻",
@@ -5667,14 +5859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100780,
-      "num": 100780,
-      "word": "姚晨 侯雯元",
-      "onboard_time": 1773804321,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100701,
       "num": 100701,
       "word": "科大讯飞回应大幅裁员",
@@ -5737,6 +5921,14 @@
       "onboard_time": 1773723863,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99748,
+      "num": 99748,
+      "word": "把装满牛奶的杯子倒着放",
+      "onboard_time": 1773809363,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 99721,
@@ -5865,6 +6057,14 @@
       "onboard_time": 1773730100,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97331,
+      "num": 97331,
+      "word": "逐玉谢征今晚掉马",
+      "onboard_time": 1773809602,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 97223,
@@ -7051,6 +7251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81052,
+      "num": 145740,
+      "word": "吉利发布舱驾融合关键成果",
+      "onboard_time": 1773806602,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81036,
       "num": 81036,
       "word": "洛克王国世界抢绝版uid",
@@ -7073,6 +7281,14 @@
       "onboard_time": 1773671724,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 80825,
+      "num": 113325,
+      "word": "内蒙古一洗浴店涉卖淫嫖娼2人被抓",
+      "onboard_time": 1773809183,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80803,
@@ -7209,14 +7425,6 @@
       "onboard_time": 1773658703,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79035,
-      "num": 79035,
-      "word": "张凌赫回应谢征樊长玉圆房吻",
-      "onboard_time": 1773804260,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 78929,
@@ -8547,6 +8755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49750,
+      "num": 150633,
+      "word": "倪妮的新松弛感",
+      "onboard_time": 1773808402,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49693,
       "num": 49693,
       "word": "电影得闲谨制",
@@ -8611,12 +8827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47035,
+      "num": 704923,
+      "word": "春暖花开各地文旅持续升温",
+      "onboard_time": 1773805401,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46768,
       "num": 133640,
       "word": "明日方舟",
       "onboard_time": 1773790759,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 46249,
+      "num": 115013,
+      "word": "黄子韬让刘耀文别乱说话",
+      "onboard_time": 1773807263,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 44919,
@@ -9187,6 +9419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28550,
+      "num": 109656,
+      "word": "曾被封杀的李一舟又开始卖AI课了",
+      "onboard_time": 1773810023,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28371,
       "num": 96469,
       "word": "谁在给F1加满能量",
@@ -9249,6 +9489,14 @@
       "onboard_time": 1773654203,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 25124,
+      "num": 149902,
+      "word": "列车服务应满足卫生巾这一女性刚需",
+      "onboard_time": 1773810023,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24809,
@@ -9790,6 +10038,9 @@
     },
     {
       "word": "#为人民出政绩#"
+    },
+    {
+      "word": "#总书记妙语典明正确政绩观#"
     }
   ]
 }

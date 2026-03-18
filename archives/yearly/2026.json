@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1773804412776,
+  "endTime": 1773810281302,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1483,6 +1483,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 2089397,
+      "num": 149227,
+      "word": "姚晨 侯雯元",
+      "onboard_time": 1773804321,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2087503,
       "num": 688455,
       "word": "紫薯精天塌了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1772015661,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1603433,
-      "num": 1603433,
-      "word": "考研出分时间",
-      "onboard_time": 1771888937,
-      "rank": 16,
-      "category": "教育"
     }
   ],
   "hotgov_list": [
