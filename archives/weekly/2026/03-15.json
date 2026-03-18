@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773821187329,
+  "endTime": 1773824428136,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -1195,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459744,
+      "num": 241211,
+      "word": "离职要走发现同事在窗口举牌",
+      "onboard_time": 1773816501,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 457038,
       "num": 254524,
       "word": "公安介入调查高中生过斑马线被撞亡",
@@ -1315,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433672,
+      "num": 1069387,
+      "word": "小米新SU7",
+      "onboard_time": 1773821182,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 432069,
       "num": 432069,
       "word": "张本美和冠军",
@@ -1347,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421529,
+      "num": 177036,
+      "word": "5岁孩子狂赚20亿短剧人设引争议",
+      "onboard_time": 1773822682,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421336,
       "num": 421336,
       "word": "眼镜镜片标价799元进价仅15元",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1773819501,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415085,
-      "num": 182805,
-      "word": "离职要走发现同事在窗口举牌",
-      "onboard_time": 1773816501,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 413553,
@@ -1652,7 +1668,7 @@
     },
     {
       "raw_hot": 365557,
-      "num": 365557,
+      "num": 758066,
       "word": "文身店免费给65岁以上老人文身",
       "onboard_time": 1773817641,
       "rank": 16,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1773563481,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316855,
+      "num": 169007,
+      "word": "拉里贾尼被斩首细节披露",
+      "onboard_time": 1773820522,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 316202,
@@ -2467,12 +2491,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 270376,
+      "num": 243866,
+      "word": "百花杀",
+      "onboard_time": 1773817941,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270143,
       "num": 270143,
       "word": "男子发现自己长期吃315曝光鸡爪",
       "onboard_time": 1773635903,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270136,
+      "num": 263455,
+      "word": "伊朗革命卫队报复行动升级",
+      "onboard_time": 1773819441,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 269834,
@@ -2545,14 +2585,6 @@
       "onboard_time": 1773755843,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263455,
-      "num": 263455,
-      "word": "伊朗革命卫队报复行动升级",
-      "onboard_time": 1773819441,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 261486,
@@ -2867,6 +2899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233368,
+      "num": 233368,
+      "word": "耀客一直在等孟子义",
+      "onboard_time": 1773823641,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232818,
       "num": 232818,
       "word": "健身房倒闭教练自费上完877节课",
@@ -3001,6 +3041,14 @@
       "onboard_time": 1773626002,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 223475,
+      "num": 160680,
+      "word": "奶奶减肥法",
+      "onboard_time": 1773818181,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 222955,
@@ -3531,14 +3579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187296,
-      "num": 187296,
-      "word": "百花杀",
-      "onboard_time": 1773817941,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187005,
       "num": 187005,
       "word": "甜茶的面相变了",
@@ -3729,6 +3769,14 @@
       "onboard_time": 1773543980,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178200,
+      "num": 178200,
+      "word": "李昀锐黄杨钿甜冰湖重生新预告",
+      "onboard_time": 1773821961,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 177442,
@@ -4259,14 +4307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151413,
-      "num": 151413,
-      "word": "奶奶减肥法",
-      "onboard_time": 1773818181,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151300,
       "num": 151300,
       "word": "美方澄清特朗普威胁推迟访华",
@@ -4467,14 +4507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142891,
-      "num": 117456,
-      "word": "拉里贾尼被斩首细节披露",
-      "onboard_time": 1773820522,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 142871,
       "num": 142871,
       "word": "痞幼自曝彩礼只要10万",
@@ -4571,6 +4603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139734,
+      "num": 139734,
+      "word": "全球机票将涨价",
+      "onboard_time": 1773822501,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139542,
       "num": 139542,
       "word": "安东内利夺F1中国站冠军",
@@ -4627,6 +4667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137273,
+      "num": 137273,
+      "word": "以色列刺杀伊朗情报部长",
+      "onboard_time": 1773824060,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136982,
       "num": 136982,
       "word": "王俊凯 演唱会",
@@ -4657,6 +4705,14 @@
       "onboard_time": 1773754942,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136608,
+      "num": 136608,
+      "word": "过量运动会导致男性精子质量下降",
+      "onboard_time": 1773824003,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136459,
@@ -4865,6 +4921,14 @@
       "onboard_time": 1773575543,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132001,
+      "num": 150711,
+      "word": "耀客签约AI演员",
+      "onboard_time": 1773823822,
+      "rank": 18,
+      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 131754,
@@ -5171,6 +5235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122306,
+      "num": 104006,
+      "word": "中国学生开始卷海外考公了",
+      "onboard_time": 1773822262,
+      "rank": 30,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 122089,
       "num": 122089,
       "word": "伊朗对一名间谍执行死刑",
@@ -5241,6 +5313,14 @@
       "onboard_time": 1773548119,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120319,
+      "num": 120319,
+      "word": "迪丽热巴代言甄稀冰淇淋",
+      "onboard_time": 1773823462,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 120143,
@@ -5321,6 +5401,14 @@
       "onboard_time": 1773632363,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118636,
+      "num": 118636,
+      "word": "鱼塘主坚持2年用辣椒喂鱼",
+      "onboard_time": 1773822682,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118562,
@@ -5609,6 +5697,14 @@
       "onboard_time": 1773816741,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 110648,
+      "num": 110648,
+      "word": "再邋遢一天明天可以理发了",
+      "onboard_time": 1773818781,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 110484,
@@ -5963,6 +6059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104929,
+      "num": 103811,
+      "word": "特朗普再称马克龙很快就下台了",
+      "onboard_time": 1773824182,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104687,
       "num": 104687,
       "word": "伊朗称目前发射导弹多为10年前生产",
@@ -6195,6 +6299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100790,
+      "num": 100790,
+      "word": "广东15岁少年颅内出血用砒霜救活",
+      "onboard_time": 1773822682,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100701,
       "num": 100701,
       "word": "科大讯飞回应大幅裁员",
@@ -6347,6 +6459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98914,
+      "num": 98914,
+      "word": "钮钴禄Jennie",
+      "onboard_time": 1773823282,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98879,
       "num": 98879,
       "word": "张凌赫壁纸",
@@ -6393,6 +6513,14 @@
       "onboard_time": 1773800901,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98024,
+      "num": 98024,
+      "word": "五十公里桃花坞6",
+      "onboard_time": 1773823582,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 97581,
@@ -6539,6 +6667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95556,
+      "num": 95556,
+      "word": "国台办回应是否趁中东局势对台行动",
+      "onboard_time": 1773821841,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95302,
       "num": 95302,
       "word": "低精力单休人无痛家务tips",
@@ -6577,6 +6713,14 @@
       "onboard_time": 1773554480,
       "rank": 40,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 94869,
+      "num": 94869,
+      "word": "以色列本土遭伊朗黎巴嫩夹击",
+      "onboard_time": 1773822200,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 94847,
@@ -6931,6 +7075,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90702,
+      "num": 90702,
+      "word": "李佳琦自曝想出国留学",
+      "onboard_time": 1773824182,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90527,
+      "num": 171089,
+      "word": "女子人脸被盗喂给AI做成短剧",
+      "onboard_time": 1773820821,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90234,
       "num": 89596,
       "word": "什么和离书分明是录取通知书",
@@ -6947,12 +7107,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89927,
-      "num": 89927,
-      "word": "再邋遢一天明天可以理发了",
-      "onboard_time": 1773818781,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 89864,
+      "num": 89864,
+      "word": "香港打车被提醒副驾不能玩手机",
+      "onboard_time": 1773821061,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89863,
@@ -7299,6 +7459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86261,
+      "num": 86261,
+      "word": "黑猫用脚夹住了橘猫的尾巴",
+      "onboard_time": 1773824060,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86251,
       "num": 86251,
       "word": "中国援助伊朗人道主义物资完成交接",
@@ -7337,6 +7505,14 @@
       "onboard_time": 1773626962,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85905,
+      "num": 85905,
+      "word": "耳聋小猫因为可爱被导演选中",
+      "onboard_time": 1773823702,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 85805,
@@ -7747,6 +7923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80599,
+      "num": 80599,
+      "word": "阿里云宣布涨价",
+      "onboard_time": 1773822021,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80576,
       "num": 80576,
       "word": "金融315",
@@ -7827,14 +8011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79851,
-      "num": 79851,
-      "word": "香港打车被提醒副驾不能玩手机",
-      "onboard_time": 1773821061,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79581,
       "num": 79581,
       "word": "多部门回应珠海长隆鲸鲨去世",
@@ -7896,14 +8072,6 @@
       "word": "鹿哈带货牛肚直接扔地上冷却",
       "onboard_time": 1773552502,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78416,
-      "num": 171089,
-      "word": "女子人脸被盗喂给AI做成短剧",
-      "onboard_time": 1773820821,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -8073,6 +8241,14 @@
       "onboard_time": 1773500663,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76313,
+      "num": 76313,
+      "word": "男子误给离世者转5万被银行划扣3万",
+      "onboard_time": 1773821781,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76252,
@@ -8603,6 +8779,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67843,
+      "num": 67843,
+      "word": "人怎么能和声音熟成这样",
+      "onboard_time": 1773824362,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67806,
+      "num": 67806,
+      "word": "烧饭阿姨把三文鱼煮了",
+      "onboard_time": 1773823941,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 67394,
       "num": 67394,
       "word": "第一次发觉磁力片这么好看",
@@ -9049,6 +9241,14 @@
       "onboard_time": 1773714800,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56198,
+      "num": 90604,
+      "word": "谢征圆谎",
+      "onboard_time": 1773819559,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 56182,

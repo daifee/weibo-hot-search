@@ -1,6 +1,6 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773821187329,
+  "endTime": 1773824428136,
   "band_list": [
     {
       "raw_hot": 2276311,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459744,
+      "num": 241211,
+      "word": "离职要走发现同事在窗口举牌",
+      "onboard_time": 1773816501,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 441019,
       "num": 239498,
       "word": "伊朗总统誓言要为拉里贾尼复仇",
@@ -187,12 +195,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 433672,
+      "num": 1069387,
+      "word": "小米新SU7",
+      "onboard_time": 1773821182,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 421721,
       "num": 213840,
       "word": "瞿颖回应已婚",
       "onboard_time": 1773794121,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421529,
+      "num": 177036,
+      "word": "5岁孩子狂赚20亿短剧人设引争议",
+      "onboard_time": 1773822682,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421006,
@@ -209,14 +233,6 @@
       "onboard_time": 1773819501,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415085,
-      "num": 182805,
-      "word": "离职要走发现同事在窗口举牌",
-      "onboard_time": 1773816501,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 411001,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 365557,
-      "num": 365557,
+      "num": 758066,
       "word": "文身店免费给65岁以上老人文身",
       "onboard_time": 1773817641,
       "rank": 16,
@@ -313,6 +329,14 @@
       "onboard_time": 1773817521,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 316855,
+      "num": 169007,
+      "word": "拉里贾尼被斩首细节披露",
+      "onboard_time": 1773820522,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 316202,
@@ -387,20 +411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270376,
+      "num": 243866,
+      "word": "百花杀",
+      "onboard_time": 1773817941,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 270136,
+      "num": 263455,
+      "word": "伊朗革命卫队报复行动升级",
+      "onboard_time": 1773819441,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 267105,
       "num": 211370,
       "word": "卫生巾该不该和热水一样成列车标配",
       "onboard_time": 1773797001,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263455,
-      "num": 263455,
-      "word": "伊朗革命卫队报复行动升级",
-      "onboard_time": 1773819441,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 245501,
@@ -443,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233368,
+      "num": 233368,
+      "word": "耀客一直在等孟子义",
+      "onboard_time": 1773823641,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232818,
       "num": 232818,
       "word": "健身房倒闭教练自费上完877节课",
@@ -473,6 +513,14 @@
       "onboard_time": 1773795623,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223475,
+      "num": 160680,
+      "word": "奶奶减肥法",
+      "onboard_time": 1773818181,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 222955,
@@ -571,14 +619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187296,
-      "num": 187296,
-      "word": "百花杀",
-      "onboard_time": 1773817941,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185969,
       "num": 147318,
       "word": "男子遭前同事背调杀月薪降5000",
@@ -601,6 +641,14 @@
       "onboard_time": 1773797240,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178200,
+      "num": 178200,
+      "word": "李昀锐黄杨钿甜冰湖重生新预告",
+      "onboard_time": 1773821961,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 176977,
@@ -723,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151413,
-      "num": 151413,
-      "word": "奶奶减肥法",
-      "onboard_time": 1773818181,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151053,
       "num": 160972,
       "word": "美军称用多枚5000磅钻地弹打击伊朗",
@@ -795,12 +835,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142891,
-      "num": 117456,
-      "word": "拉里贾尼被斩首细节披露",
-      "onboard_time": 1773820522,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 139734,
+      "num": 139734,
+      "word": "全球机票将涨价",
+      "onboard_time": 1773822501,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138176,
@@ -819,12 +859,36 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137273,
+      "num": 137273,
+      "word": "以色列刺杀伊朗情报部长",
+      "onboard_time": 1773824060,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 136608,
+      "num": 136608,
+      "word": "过量运动会导致男性精子质量下降",
+      "onboard_time": 1773824003,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132219,
       "num": 103854,
       "word": "瞿颖胡兵回应为什么没在一起",
       "onboard_time": 1773805823,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132001,
+      "num": 150711,
+      "word": "耀客签约AI演员",
+      "onboard_time": 1773823822,
+      "rank": 18,
+      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 130425,
@@ -883,6 +947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122306,
+      "num": 104006,
+      "word": "中国学生开始卷海外考公了",
+      "onboard_time": 1773822262,
+      "rank": 30,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 122089,
       "num": 122089,
       "word": "伊朗对一名间谍执行死刑",
@@ -897,6 +969,22 @@
       "onboard_time": 1773810502,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120319,
+      "num": 120319,
+      "word": "迪丽热巴代言甄稀冰淇淋",
+      "onboard_time": 1773823462,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118636,
+      "num": 118636,
+      "word": "鱼塘主坚持2年用辣椒喂鱼",
+      "onboard_time": 1773822682,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118539,
@@ -929,6 +1017,14 @@
       "onboard_time": 1773816741,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 110648,
+      "num": 110648,
+      "word": "再邋遢一天明天可以理发了",
+      "onboard_time": 1773818781,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 109925,
@@ -1003,6 +1099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104929,
+      "num": 103811,
+      "word": "特朗普再称马克龙很快就下台了",
+      "onboard_time": 1773824182,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102335,
       "num": 102335,
       "word": "金价暴涨的第一批受害者出现了",
@@ -1025,6 +1129,14 @@
       "onboard_time": 1773799400,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100790,
+      "num": 100790,
+      "word": "广东15岁少年颅内出血用砒霜救活",
+      "onboard_time": 1773822682,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100701,
@@ -1083,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98914,
+      "num": 98914,
+      "word": "钮钴禄Jennie",
+      "onboard_time": 1773823282,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98065,
       "num": 98065,
       "word": "以色列中部遭伊朗导弹袭击2人死",
@@ -1091,12 +1211,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 98024,
+      "num": 98024,
+      "word": "五十公里桃花坞6",
+      "onboard_time": 1773823582,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97331,
       "num": 97331,
       "word": "逐玉谢征今晚掉马",
       "onboard_time": 1773809602,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95556,
+      "num": 95556,
+      "word": "国台办回应是否趁中东局势对台行动",
+      "onboard_time": 1773821841,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 94869,
+      "num": 94869,
+      "word": "以色列本土遭伊朗黎巴嫩夹击",
+      "onboard_time": 1773822200,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 93909,
@@ -1147,12 +1291,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89927,
-      "num": 89927,
-      "word": "再邋遢一天明天可以理发了",
-      "onboard_time": 1773818781,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 90702,
+      "num": 90702,
+      "word": "李佳琦自曝想出国留学",
+      "onboard_time": 1773824182,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90527,
+      "num": 171089,
+      "word": "女子人脸被盗喂给AI做成短剧",
+      "onboard_time": 1773820821,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89864,
+      "num": 89864,
+      "word": "香港打车被提醒副驾不能玩手机",
+      "onboard_time": 1773821061,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89494,
@@ -1227,12 +1387,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86261,
+      "num": 86261,
+      "word": "黑猫用脚夹住了橘猫的尾巴",
+      "onboard_time": 1773824060,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86126,
       "num": 89853,
       "word": "林高远骑士精神",
       "onboard_time": 1773810382,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85905,
+      "num": 85905,
+      "word": "耳聋小猫因为可爱被导演选中",
+      "onboard_time": 1773823702,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 84835,
@@ -1283,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80599,
+      "num": 80599,
+      "word": "阿里云宣布涨价",
+      "onboard_time": 1773822021,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80480,
       "num": 80480,
       "word": "金玟庭一线男刊满贯",
@@ -1299,28 +1483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79851,
-      "num": 79851,
-      "word": "香港打车被提醒副驾不能玩手机",
-      "onboard_time": 1773821061,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78416,
-      "num": 171089,
-      "word": "女子人脸被盗喂给AI做成短剧",
-      "onboard_time": 1773820821,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76647,
       "num": 89096,
       "word": "刘昊然 周冬雨",
       "onboard_time": 1773730702,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76313,
+      "num": 76313,
+      "word": "男子误给离世者转5万被银行划扣3万",
+      "onboard_time": 1773821781,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76135,
@@ -1393,6 +1569,22 @@
       "onboard_time": 1773798082,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67843,
+      "num": 67843,
+      "word": "人怎么能和声音熟成这样",
+      "onboard_time": 1773824362,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67806,
+      "num": 67806,
+      "word": "烧饭阿姨把三文鱼煮了",
+      "onboard_time": 1773823941,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 65789,
@@ -1481,6 +1673,14 @@
       "onboard_time": 1773744621,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56198,
+      "num": 90604,
+      "word": "谢征圆谎",
+      "onboard_time": 1773819559,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 53842,

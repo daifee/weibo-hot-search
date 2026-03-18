@@ -1,0 +1,410 @@
+{
+  "runTime": 1773824428136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 433672,
+        "num": 1069387,
+        "word": "小米新SU7",
+        "onboard_time": 1773821182,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 273158,
+        "num": 758066,
+        "word": "文身店免费给65岁以上老人文身",
+        "onboard_time": 1773817641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30493,
+        "num": 634992,
+        "word": "春暖花开各地文旅持续升温",
+        "onboard_time": 1773805401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250793,
+        "num": 250793,
+        "word": "建议年轻人少去公园容易伤自尊",
+        "onboard_time": 1773815181,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270376,
+        "num": 243866,
+        "word": "百花杀",
+        "onboard_time": 1773817941,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459744,
+        "num": 241211,
+        "word": "离职要走发现同事在窗口举牌",
+        "onboard_time": 1773816501,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270136,
+        "num": 238010,
+        "word": "伊朗革命卫队报复行动升级",
+        "onboard_time": 1773819441,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233368,
+        "num": 233368,
+        "word": "耀客一直在等孟子义",
+        "onboard_time": 1773823641,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206888,
+        "num": 206888,
+        "word": "油价涨了冲锋衣可能更贵",
+        "onboard_time": 1773817521,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178200,
+        "num": 178200,
+        "word": "李昀锐黄杨钿甜冰湖重生新预告",
+        "onboard_time": 1773821961,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421529,
+        "num": 177036,
+        "word": "5岁孩子狂赚20亿短剧人设引争议",
+        "onboard_time": 1773822682,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342684,
+        "num": 172887,
+        "word": "果然人老了干什么都心酸",
+        "onboard_time": 1773816920,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316855,
+        "num": 169007,
+        "word": "拉里贾尼被斩首细节披露",
+        "onboard_time": 1773820522,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 305273,
+        "num": 167705,
+        "word": "樊长玉谢征 好孕赘婿",
+        "onboard_time": 1773807321,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270626,
+        "num": 162728,
+        "word": "网传落生去世",
+        "onboard_time": 1773808162,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 223475,
+        "num": 160680,
+        "word": "奶奶减肥法",
+        "onboard_time": 1773818181,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159538,
+        "num": 159538,
+        "word": "婴儿倒挂近1分钟爸爸全程玩手机",
+        "onboard_time": 1773810922,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156943,
+        "num": 156943,
+        "word": "男二以下 AI演员",
+        "onboard_time": 1773794961,
+        "rank": 17,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 132001,
+        "num": 150711,
+        "word": "耀客签约AI演员",
+        "onboard_time": 1773823822,
+        "rank": 18,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 122371,
+        "num": 147081,
+        "word": "不是私生 是公立医院出生",
+        "onboard_time": 1773806662,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146515,
+        "num": 146515,
+        "word": "以色列因总理身亡传言连发3天视频",
+        "onboard_time": 1773811583,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179547,
+        "num": 144579,
+        "word": "小S街头大哭",
+        "onboard_time": 1773801381,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139734,
+        "num": 139734,
+        "word": "全球机票将涨价",
+        "onboard_time": 1773822501,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138653,
+        "num": 138653,
+        "word": "高度近视吹瓶子",
+        "onboard_time": 1773810922,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137273,
+        "num": 137273,
+        "word": "以色列刺杀伊朗情报部长",
+        "onboard_time": 1773824060,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136608,
+        "num": 136608,
+        "word": "过量运动会导致男性精子质量下降",
+        "onboard_time": 1773824003,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120319,
+        "num": 120319,
+        "word": "迪丽热巴代言甄稀冰淇淋",
+        "onboard_time": 1773823462,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118636,
+        "num": 118636,
+        "word": "鱼塘主坚持2年用辣椒喂鱼",
+        "onboard_time": 1773822682,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110648,
+        "num": 110648,
+        "word": "再邋遢一天明天可以理发了",
+        "onboard_time": 1773818781,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104826,
+        "num": 104826,
+        "word": "周杰伦新专辑太阳之子",
+        "onboard_time": 1773812122,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122306,
+        "num": 104006,
+        "word": "中国学生开始卷海外考公了",
+        "onboard_time": 1773822262,
+        "rank": 30,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 104929,
+        "num": 103811,
+        "word": "特朗普再称马克龙很快就下台了",
+        "onboard_time": 1773824182,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101754,
+        "num": 101754,
+        "word": "50岁女职工被强制退休获赔94万",
+        "onboard_time": 1773812300,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100790,
+        "num": 100790,
+        "word": "广东15岁少年颅内出血用砒霜救活",
+        "onboard_time": 1773822682,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98914,
+        "num": 98914,
+        "word": "钮钴禄Jennie",
+        "onboard_time": 1773823282,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98024,
+        "num": 98024,
+        "word": "五十公里桃花坞6",
+        "onboard_time": 1773823582,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95556,
+        "num": 95556,
+        "word": "国台办回应是否趁中东局势对台行动",
+        "onboard_time": 1773821841,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94869,
+        "num": 94869,
+        "word": "以色列本土遭伊朗黎巴嫩夹击",
+        "onboard_time": 1773822200,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 90702,
+        "num": 90702,
+        "word": "李佳琦自曝想出国留学",
+        "onboard_time": 1773824182,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56198,
+        "num": 90604,
+        "word": "谢征圆谎",
+        "onboard_time": 1773819559,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90527,
+        "num": 90527,
+        "word": "女子人脸被盗喂给AI做成短剧",
+        "onboard_time": 1773820821,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89864,
+        "num": 89864,
+        "word": "香港打车被提醒副驾不能玩手机",
+        "onboard_time": 1773821061,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89458,
+        "num": 89458,
+        "word": "今天才知道TFBOYS全称",
+        "onboard_time": 1773806962,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86261,
+        "num": 86261,
+        "word": "黑猫用脚夹住了橘猫的尾巴",
+        "onboard_time": 1773824060,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85905,
+        "num": 85905,
+        "word": "耳聋小猫因为可爱被导演选中",
+        "onboard_time": 1773823702,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84848,
+        "num": 84848,
+        "word": "孔雪儿曾是邓凯的偶像",
+        "onboard_time": 1773810683,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80599,
+        "num": 80599,
+        "word": "阿里云宣布涨价",
+        "onboard_time": 1773822021,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76313,
+        "num": 76313,
+        "word": "男子误给离世者转5万被银行划扣3万",
+        "onboard_time": 1773821781,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67843,
+        "num": 67843,
+        "word": "人怎么能和声音熟成这样",
+        "onboard_time": 1773824362,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67806,
+        "num": 67806,
+        "word": "烧饭阿姨把三文鱼煮了",
+        "onboard_time": 1773823941,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记妙语典明正确政绩观#"
+    }
+  }
+}
