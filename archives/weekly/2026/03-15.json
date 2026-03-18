@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773855395281,
+  "endTime": 1773861172717,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -11107,19 +11107,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 32433,
+      "num": 60057,
+      "word": "4人距缅边境500米跳车逃生",
+      "onboard_time": 1773852918,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32255,
       "num": 87687,
       "word": "12岁男孩玩火烧山父母赔偿2年",
       "onboard_time": 1773824782,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32017,
-      "num": 60057,
-      "word": "4人距缅边境500米跳车逃生",
-      "onboard_time": 1773852918,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -11747,6 +11747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16733,
+      "num": 19386,
+      "word": "谢征待长玉之心从未有假",
+      "onboard_time": 1773858314,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16705,
       "num": 22404,
       "word": "朱志鑫牙牙乐打卡",
@@ -11771,12 +11779,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 16064,
+      "num": 19385,
+      "word": "灿如繁星",
+      "onboard_time": 1773857774,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15893,
       "num": 27373,
       "word": "中国队冬残奥会15金13银16铜",
       "onboard_time": 1773593539,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15853,
+      "num": 19385,
+      "word": "田曦薇打戏",
+      "onboard_time": 1773856756,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 15633,
@@ -11833,6 +11857,14 @@
       "onboard_time": 1773778034,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14646,
+      "num": 19384,
+      "word": "伊朗将严厉报复对能源设施的袭击",
+      "onboard_time": 1773850880,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14588,
