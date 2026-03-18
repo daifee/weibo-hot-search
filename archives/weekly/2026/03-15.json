@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773824428136,
+  "endTime": 1773825274832,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -1203,6 +1203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 457248,
+      "num": 1073159,
+      "word": "小米新SU7",
+      "onboard_time": 1773821182,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 457038,
       "num": 254524,
       "word": "公安介入调查高中生过斑马线被撞亡",
@@ -1323,14 +1331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 433672,
-      "num": 1069387,
-      "word": "小米新SU7",
-      "onboard_time": 1773821182,
-      "rank": 0,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 432069,
       "num": 432069,
       "word": "张本美和冠军",
@@ -1364,7 +1364,7 @@
     },
     {
       "raw_hot": 421529,
-      "num": 177036,
+      "num": 178090,
       "word": "5岁孩子狂赚20亿短剧人设引争议",
       "onboard_time": 1773822682,
       "rank": 10,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1773637103,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 419288,
+      "num": 243866,
+      "word": "百花杀",
+      "onboard_time": 1773817941,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 415991,
@@ -1668,7 +1676,7 @@
     },
     {
       "raw_hot": 365557,
-      "num": 758066,
+      "num": 792606,
       "word": "文身店免费给65岁以上老人文身",
       "onboard_time": 1773817641,
       "rank": 16,
@@ -1883,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335371,
+      "num": 175256,
+      "word": "耀客签约AI演员",
+      "onboard_time": 1773823822,
+      "rank": 18,
+      "category": "作品衍生,互联网"
+    },
+    {
       "raw_hot": 334597,
       "num": 165125,
       "word": "Ella评论瞿颖",
@@ -2028,7 +2044,7 @@
     },
     {
       "raw_hot": 316855,
-      "num": 169007,
+      "num": 172380,
       "word": "拉里贾尼被斩首细节披露",
       "onboard_time": 1773820522,
       "rank": 30,
@@ -2489,14 +2505,6 @@
       "onboard_time": 1773577225,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 270376,
-      "num": 243866,
-      "word": "百花杀",
-      "onboard_time": 1773817941,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 270143,
@@ -3819,6 +3827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175124,
+      "num": 137273,
+      "word": "以色列刺杀伊朗情报部长",
+      "onboard_time": 1773824060,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175044,
       "num": 350398,
       "word": "周杰伦说今晚0点准备",
@@ -4059,6 +4075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161575,
+      "num": 161575,
+      "word": "KPL",
+      "onboard_time": 1773824481,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160958,
       "num": 160958,
       "word": "天鹅出轨后新欢1年没下蛋原配提3娃",
@@ -4185,6 +4209,14 @@
       "onboard_time": 1773753142,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155263,
+      "num": 103931,
+      "word": "烧饭阿姨把三文鱼煮了",
+      "onboard_time": 1773823941,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 155144,
@@ -4667,14 +4699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137273,
-      "num": 137273,
-      "word": "以色列刺杀伊朗情报部长",
-      "onboard_time": 1773824060,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 136982,
       "num": 136982,
       "word": "王俊凯 演唱会",
@@ -4921,14 +4945,6 @@
       "onboard_time": 1773575543,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132001,
-      "num": 150711,
-      "word": "耀客签约AI演员",
-      "onboard_time": 1773823822,
-      "rank": 18,
-      "category": "作品衍生,互联网"
     },
     {
       "raw_hot": 131754,
@@ -5236,7 +5252,7 @@
     },
     {
       "raw_hot": 122306,
-      "num": 104006,
+      "num": 105641,
       "word": "中国学生开始卷海外考公了",
       "onboard_time": 1773822262,
       "rank": 30,
@@ -5257,6 +5273,14 @@
       "onboard_time": 1773720924,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121875,
+      "num": 121875,
+      "word": "迪丽热巴代言甄稀冰淇淋",
+      "onboard_time": 1773823462,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 121815,
@@ -5315,11 +5339,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120319,
-      "num": 120319,
-      "word": "迪丽热巴代言甄稀冰淇淋",
-      "onboard_time": 1773823462,
-      "rank": 26,
+      "raw_hot": 120765,
+      "num": 120765,
+      "word": "钮钴禄Jennie",
+      "onboard_time": 1773823282,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -6331,6 +6355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100280,
+      "num": 100280,
+      "word": "男子误给离世者转5万被银行划扣3万",
+      "onboard_time": 1773821781,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100116,
       "num": 100116,
       "word": "极氪8X售价",
@@ -6456,14 +6488,6 @@
       "word": "时代峰峻养的孩子从不缺教养",
       "onboard_time": 1773646706,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 98914,
-      "num": 98914,
-      "word": "钮钴禄Jennie",
-      "onboard_time": 1773823282,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -6689,6 +6713,14 @@
       "onboard_time": 1773635664,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95240,
+      "num": 95240,
+      "word": "香港打车被提醒副驾不能玩手机",
+      "onboard_time": 1773821061,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95201,
@@ -7105,14 +7137,6 @@
       "onboard_time": 1773727761,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 89864,
-      "num": 89864,
-      "word": "香港打车被提醒副驾不能玩手机",
-      "onboard_time": 1773821061,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89863,
@@ -7803,6 +7827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82023,
+      "num": 82023,
+      "word": "易中天集体上涨",
+      "onboard_time": 1773822082,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81656,
       "num": 81656,
       "word": "门店回应vivo涨价",
@@ -8241,14 +8273,6 @@
       "onboard_time": 1773500663,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 76313,
-      "num": 76313,
-      "word": "男子误给离世者转5万被银行划扣3万",
-      "onboard_time": 1773821781,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76252,
@@ -8784,14 +8808,6 @@
       "word": "人怎么能和声音熟成这样",
       "onboard_time": 1773824362,
       "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 67806,
-      "num": 67806,
-      "word": "烧饭阿姨把三文鱼煮了",
-      "onboard_time": 1773823941,
-      "rank": 49,
       "category": "幽默"
     },
     {
@@ -9955,6 +9971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 33236,
+      "num": 88265,
+      "word": "李白杜牧辛弃疾火到韩国地铁站了",
+      "onboard_time": 1773824543,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32868,
       "num": 28464,
       "word": "怀孕流浪猫腹部紧缠绳子胎猫被勒变形",
@@ -9969,6 +9993,22 @@
       "onboard_time": 1773762381,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 32334,
+      "num": 82886,
+      "word": "我家楼下有鹿晗",
+      "onboard_time": 1773825202,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32255,
+      "num": 87687,
+      "word": "12岁男孩玩火烧山父母赔偿2年",
+      "onboard_time": 1773824782,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31749,
@@ -10585,6 +10625,14 @@
       "onboard_time": 1773593539,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15633,
+      "num": 614893,
+      "word": "春日中国美得五彩缤纷",
+      "onboard_time": 1773824840,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15610,
