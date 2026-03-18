@@ -1,6 +1,6 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773832578952,
+  "endTime": 1773834770056,
   "band_list": [
     {
       "raw_hot": 2276311,
@@ -33,6 +33,14 @@
       "onboard_time": 1773789139,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1042013,
+      "num": 244428,
+      "word": "徐若晗 挂脸",
+      "onboard_time": 1773833722,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 995646,
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 600842,
-      "num": 162374,
+      "num": 235837,
       "word": "耀客AI演员 赵今麦翟子路",
       "onboard_time": 1773828381,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 577231,
+      "num": 261253,
+      "word": "客服笑了半个小时决定去仓库打人",
+      "onboard_time": 1773831561,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 574497,
@@ -124,11 +140,19 @@
     },
     {
       "raw_hot": 570846,
-      "num": 219693,
+      "num": 220594,
       "word": "烧饭阿姨把三文鱼煮了",
       "onboard_time": 1773823941,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 565436,
+      "num": 169476,
+      "word": "21岁女孩被亲妈饿到30公斤虐死",
+      "onboard_time": 1773829582,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 551783,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 421529,
-      "num": 195272,
+      "num": 254531,
       "word": "5岁孩子狂赚20亿短剧人设引争议",
       "onboard_time": 1773822682,
       "rank": 10,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 334795,
-      "num": 217317,
+      "num": 277990,
       "word": "以色列刺杀伊朗情报部长",
       "onboard_time": 1773824060,
       "rank": 24,
@@ -371,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320849,
+      "num": 416748,
+      "word": "泰国国王和王后驾驶飞机抵达老挝",
+      "onboard_time": 1773831622,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 318229,
       "num": 318229,
       "word": "油价涨了冲锋衣可能更贵",
@@ -380,7 +412,7 @@
     },
     {
       "raw_hot": 316855,
-      "num": 187208,
+      "num": 253200,
       "word": "拉里贾尼被斩首细节披露",
       "onboard_time": 1773820522,
       "rank": 30,
@@ -443,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279415,
+      "num": 279415,
+      "word": "正午阳光要扶持新人了",
+      "onboard_time": 1773833661,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 279279,
       "num": 552115,
       "word": "顾客带狗就餐店主砸碎600套餐具",
@@ -467,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270409,
+      "num": 225540,
+      "word": "丞磊郭宇欣扇巴掌路透",
+      "onboard_time": 1773831921,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270136,
       "num": 263455,
       "word": "伊朗革命卫队报复行动升级",
@@ -480,6 +528,14 @@
       "word": "卫生巾该不该和热水一样成列车标配",
       "onboard_time": 1773797001,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264351,
+      "num": 264351,
+      "word": "女子称在健身房裸身被男维修工看光",
+      "onboard_time": 1773832822,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -540,7 +596,7 @@
     },
     {
       "raw_hot": 235667,
-      "num": 159017,
+      "num": 169555,
       "word": "张维伊喊袁姗姗嫂子",
       "onboard_time": 1773831381,
       "rank": 23,
@@ -588,7 +644,7 @@
     },
     {
       "raw_hot": 226192,
-      "num": 313250,
+      "num": 790655,
       "word": "中国学生开始卷海外考公了",
       "onboard_time": 1773822262,
       "rank": 30,
@@ -627,28 +683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222029,
-      "num": 169476,
-      "word": "21岁女孩被亲妈饿到30公斤虐死",
-      "onboard_time": 1773829582,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 221637,
-      "num": 221637,
+      "num": 260089,
       "word": "陶太傅掉马",
       "onboard_time": 1773829940,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219075,
-      "num": 261253,
-      "word": "客服笑了半个小时决定去仓库打人",
-      "onboard_time": 1773831561,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 213986,
@@ -724,7 +764,7 @@
     },
     {
       "raw_hot": 202917,
-      "num": 185094,
+      "num": 220939,
       "word": "福建一鸭子活吞41只小鸡",
       "onboard_time": 1773825861,
       "rank": 22,
@@ -739,8 +779,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 189331,
+      "num": 189331,
+      "word": "赵丽颖直播",
+      "onboard_time": 1773831680,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188373,
-      "num": 156339,
+      "num": 179500,
       "word": "容易让人长胖的睡前习惯",
       "onboard_time": 1773829461,
       "rank": 26,
@@ -764,7 +812,7 @@
     },
     {
       "raw_hot": 183632,
-      "num": 154953,
+      "num": 170652,
       "word": "TF四代已实名",
       "onboard_time": 1773829822,
       "rank": 27,
@@ -811,14 +859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173589,
-      "num": 173589,
-      "word": "丞磊郭宇欣扇巴掌路透",
-      "onboard_time": 1773831921,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172630,
       "num": 172630,
       "word": "买到1箱有针眼水男子称已立案",
@@ -841,6 +881,14 @@
       "onboard_time": 1773823462,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171176,
+      "num": 257130,
+      "word": "3岁女童被虐死前零下20多度遭脱衣",
+      "onboard_time": 1773833062,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170616,
@@ -873,14 +921,6 @@
       "onboard_time": 1773796162,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 166221,
-      "num": 416748,
-      "word": "泰国国王和王后驾驶飞机抵达老挝",
-      "onboard_time": 1773831622,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 164895,
@@ -921,14 +961,6 @@
       "onboard_time": 1773749782,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153568,
-      "num": 153568,
-      "word": "赵丽颖直播",
-      "onboard_time": 1773831680,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 153528,
@@ -1003,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148165,
+      "num": 275898,
+      "word": "蜘蛛侠4预告",
+      "onboard_time": 1773833361,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145773,
       "num": 145773,
       "word": "小巷人家2官宣",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1773822501,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138933,
+      "num": 222684,
+      "word": "黄金怎么不涨反跌",
+      "onboard_time": 1773833121,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 138176,
@@ -1155,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118203,
+      "num": 118203,
+      "word": "AI演员 人山人海",
+      "onboard_time": 1773832941,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118116,
       "num": 118116,
       "word": "冰湖重生",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1773753202,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 117434,
+      "num": 325914,
+      "word": "周小闹回应带红刘文祥麻辣烫",
+      "onboard_time": 1773834382,
+      "rank": 4,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 115710,
@@ -1289,6 +1353,14 @@
       "onboard_time": 1773828201,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 102901,
+      "num": 164084,
+      "word": "爸爸买下校景房儿子上学仅需两分钟",
+      "onboard_time": 1773833842,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102335,
@@ -1419,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97033,
+      "num": 238447,
+      "word": "黄金",
+      "onboard_time": 1773833842,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96217,
       "num": 96217,
       "word": "以色列防长称伊朗情报部长已死",
@@ -1433,6 +1513,14 @@
       "onboard_time": 1773821841,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 95277,
+      "num": 273678,
+      "word": "狼队对战KSG",
+      "onboard_time": 1773829822,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 95240,
@@ -1715,8 +1803,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79984,
+      "num": 91682,
+      "word": "时代峰峻是不是觉得自己很聪明",
+      "onboard_time": 1773832342,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79729,
-      "num": 79729,
+      "num": 132817,
       "word": "原来你就是武安侯",
       "onboard_time": 1773826882,
       "rank": 44,
@@ -1867,6 +1963,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70994,
+      "num": 70994,
+      "word": "猫咪 我装的但我真慌了",
+      "onboard_time": 1773834441,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 69867,
+      "num": 247994,
+      "word": "小鹏P7这次太全面了",
+      "onboard_time": 1773832461,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 69799,
       "num": 69799,
       "word": "旅行中的几种人belike",
@@ -1881,6 +1993,14 @@
       "onboard_time": 1773824362,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66473,
+      "num": 72764,
+      "word": "专家称以后或不止冲锋衣涨价",
+      "onboard_time": 1773831082,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 65789,
@@ -1979,20 +2099,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59078,
+      "num": 230862,
+      "word": "陈妍希说谢谢你一直懂我",
+      "onboard_time": 1773833902,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58887,
       "num": 633977,
       "word": "中国人4900年前造出水坝群",
       "onboard_time": 1773825382,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58711,
-      "num": 72764,
-      "word": "专家称以后或不止冲锋衣涨价",
-      "onboard_time": 1773831082,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 58088,
@@ -2115,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41239,
+      "num": 245941,
+      "word": "宝诗龙上海旗舰店",
+      "onboard_time": 1773833121,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 40587,
       "num": 88846,
       "word": "1983剧情",
@@ -2131,6 +2259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 38372,
+      "num": 143839,
+      "word": "早期田曦薇 真人bjd",
+      "onboard_time": 1773834562,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37368,
       "num": 82466,
       "word": "AI换脸华妃还催蒋欣生儿子",
@@ -2145,6 +2281,14 @@
       "onboard_time": 1773756922,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37128,
+      "num": 150413,
+      "word": "邓凯原名叫邓尚",
+      "onboard_time": 1773832941,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 36183,
@@ -2184,6 +2328,14 @@
       "word": "李白杜牧辛弃疾火到韩国地铁站了",
       "onboard_time": 1773824543,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32911,
+      "num": 125489,
+      "word": "全球多个国家出现麻疹疫情反弹",
+      "onboard_time": 1773834022,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2227,14 +2379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 30602,
-      "num": 91682,
-      "word": "时代峰峻是不是觉得自己很聪明",
-      "onboard_time": 1773832342,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29840,
       "num": 133538,
       "word": "时装周瞩目艺人TOP10",
@@ -2249,14 +2393,6 @@
       "onboard_time": 1773767357,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28565,
-      "num": 92259,
-      "word": "小鹏P7这次太全面了",
-      "onboard_time": 1773832461,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 26121,
