@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773834770056,
+  "endTime": 1773835573808,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -171,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1329872,
+      "num": 550890,
+      "word": "徐若晗 挂脸",
+      "onboard_time": 1773833722,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1196615,
       "num": 165722,
       "word": "曝小S哭着去陈建州范玮琪家",
@@ -257,14 +265,6 @@
       "onboard_time": 1773714500,
       "rank": 10,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 1042013,
-      "num": 244428,
-      "word": "徐若晗 挂脸",
-      "onboard_time": 1773833722,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1028154,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 600842,
-      "num": 235837,
+      "num": 325776,
       "word": "耀客AI演员 赵今麦翟子路",
       "onboard_time": 1773828381,
       "rank": 20,
@@ -787,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 582593,
+      "num": 286189,
+      "word": "客服笑了半个小时决定去仓库打人",
+      "onboard_time": 1773831561,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 581957,
       "num": 256189,
       "word": "刘昊然 周冬雨",
@@ -801,14 +809,6 @@
       "onboard_time": 1773551240,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 577231,
-      "num": 261253,
-      "word": "客服笑了半个小时决定去仓库打人",
-      "onboard_time": 1773831561,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 574497,
@@ -928,6 +928,14 @@
       "word": "章子怡状态",
       "onboard_time": 1773553881,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 550147,
+      "num": 550147,
+      "word": "赵丽颖直播",
+      "onboard_time": 1773831680,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1595,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384059,
+      "num": 1061449,
+      "word": "正午阳光要扶持新人了",
+      "onboard_time": 1773833661,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 383242,
       "num": 209765,
       "word": "睡得晚和睡得少哪个更伤身体",
@@ -1948,7 +1964,7 @@
     },
     {
       "raw_hot": 334795,
-      "num": 277990,
+      "num": 573880,
       "word": "以色列刺杀伊朗情报部长",
       "onboard_time": 1773824060,
       "rank": 24,
@@ -2001,6 +2017,14 @@
       "onboard_time": 1773561861,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329114,
+      "num": 329114,
+      "word": "女子称在健身房裸身被男维修工看光",
+      "onboard_time": 1773832822,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329104,
@@ -2483,14 +2507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279415,
-      "num": 279415,
-      "word": "正午阳光要扶持新人了",
-      "onboard_time": 1773833661,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
       "raw_hot": 279279,
       "num": 552115,
       "word": "顾客带狗就餐店主砸碎600套餐具",
@@ -2657,14 +2673,6 @@
       "onboard_time": 1773541041,
       "rank": 16,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 264351,
-      "num": 264351,
-      "word": "女子称在健身房裸身被男维修工看光",
-      "onboard_time": 1773832822,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 264134,
@@ -3267,6 +3275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219368,
+      "num": 257130,
+      "word": "3岁女童被虐死前零下20多度遭脱衣",
+      "onboard_time": 1773833062,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217530,
       "num": 217530,
       "word": "黄天鹅严正声明",
@@ -3707,20 +3723,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189614,
+      "num": 588536,
+      "word": "蜘蛛侠4预告",
+      "onboard_time": 1773833361,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189532,
       "num": 1051075,
       "word": "以为是火腿肠其实是炸药",
       "onboard_time": 1773653244,
       "rank": 29,
       "category": "军事"
-    },
-    {
-      "raw_hot": 189331,
-      "num": 189331,
-      "word": "赵丽颖直播",
-      "onboard_time": 1773831680,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 189090,
@@ -4067,6 +4083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172484,
+      "num": 585545,
+      "word": "周小闹回应带红刘文祥麻辣烫",
+      "onboard_time": 1773834382,
+      "rank": 4,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 172201,
       "num": 172201,
       "word": "河南法院公布胖东来红内裤案办理详情",
@@ -4089,14 +4113,6 @@
       "onboard_time": 1773650906,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171176,
-      "num": 257130,
-      "word": "3岁女童被虐死前零下20多度遭脱衣",
-      "onboard_time": 1773833062,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170949,
@@ -4161,6 +4177,14 @@
       "onboard_time": 1773817462,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167005,
+      "num": 167005,
+      "word": "爸爸买下校景房儿子上学仅需两分钟",
+      "onboard_time": 1773833842,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166973,
@@ -4609,14 +4633,6 @@
       "onboard_time": 1773724462,
       "rank": 22,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 148165,
-      "num": 275898,
-      "word": "蜘蛛侠4预告",
-      "onboard_time": 1773833361,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 147224,
@@ -5427,6 +5443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124015,
+      "num": 124015,
+      "word": "AI演员 人山人海",
+      "onboard_time": 1773832941,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123960,
       "num": 123960,
       "word": "王楚钦2比4松岛辉空",
@@ -5651,14 +5675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118203,
-      "num": 118203,
-      "word": "AI演员 人山人海",
-      "onboard_time": 1773832941,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 118116,
       "num": 118116,
       "word": "冰湖重生",
@@ -5705,14 +5721,6 @@
       "onboard_time": 1773644241,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117434,
-      "num": 325914,
-      "word": "周小闹回应带红刘文祥麻辣烫",
-      "onboard_time": 1773834382,
-      "rank": 4,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 117312,
@@ -5907,6 +5915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111347,
+      "num": 563031,
+      "word": "狼队对战KSG",
+      "onboard_time": 1773829822,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111313,
       "num": 111313,
       "word": "养QQ宠物的那批人回来了",
@@ -6016,6 +6032,14 @@
       "word": "郭碧婷把向太给的钱都存给孩子了",
       "onboard_time": 1773646826,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109067,
+      "num": 143839,
+      "word": "早期田曦薇 真人bjd",
+      "onboard_time": 1773834562,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -6339,6 +6363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103598,
+      "num": 557183,
+      "word": "腾讯人均年薪成本112.8万",
+      "onboard_time": 1773830480,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 103536,
       "num": 158656,
       "word": "雷军点赞小米车主助人善举",
@@ -6377,14 +6409,6 @@
       "onboard_time": 1773545119,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 102901,
-      "num": 164084,
-      "word": "爸爸买下校景房儿子上学仅需两分钟",
-      "onboard_time": 1773833842,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102899,
@@ -6763,14 +6787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98152,
-      "num": 98152,
-      "word": "腾讯人均年薪成本112.8万",
-      "onboard_time": 1773830480,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 98065,
       "num": 98065,
       "word": "以色列中部遭伊朗导弹袭击2人死",
@@ -6953,14 +6969,6 @@
       "onboard_time": 1773543920,
       "rank": 38,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 95277,
-      "num": 273678,
-      "word": "狼队对战KSG",
-      "onboard_time": 1773829822,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 95258,
@@ -7233,6 +7241,14 @@
       "onboard_time": 1773652225,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92554,
+      "num": 110033,
+      "word": "偶遇朱志鑫古装拍摄",
+      "onboard_time": 1773830301,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 92461,
@@ -7995,6 +8011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83842,
+      "num": 291319,
+      "word": "小鹏P7这次太全面了",
+      "onboard_time": 1773832461,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83789,
       "num": 83789,
       "word": "敖瑞鹏 从考古的全世界路过",
@@ -8121,6 +8145,14 @@
       "onboard_time": 1773645741,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81578,
+      "num": 81578,
+      "word": "邓凯 你第一",
+      "onboard_time": 1773835163,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 81377,
@@ -8251,6 +8283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80485,
+      "num": 91682,
+      "word": "时代峰峻是不是觉得自己很聪明",
+      "onboard_time": 1773832342,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80480,
       "num": 80480,
       "word": "金玟庭一线男刊满贯",
@@ -8315,14 +8355,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 79984,
-      "num": 91682,
-      "word": "时代峰峻是不是觉得自己很聪明",
-      "onboard_time": 1773832342,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79926,
       "num": 92291,
       "word": "曼联vs阿斯顿维拉",
@@ -8372,7 +8404,7 @@
     },
     {
       "raw_hot": 78995,
-      "num": 78995,
+      "num": 124293,
       "word": "董璇怕小酒窝到青春期不理她",
       "onboard_time": 1773830601,
       "rank": 42,
@@ -8787,6 +8819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 74351,
+      "num": 230862,
+      "word": "陈妍希说谢谢你一直懂我",
+      "onboard_time": 1773833902,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74281,
       "num": 74281,
       "word": "老人8万贱卖劳力士充值理发店",
@@ -8995,6 +9035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71866,
+      "num": 80496,
+      "word": "女性承担无偿家务是男性的两到三倍",
+      "onboard_time": 1773831801,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71714,
       "num": 71714,
       "word": "A股调整背后原因",
@@ -9081,14 +9129,6 @@
       "onboard_time": 1773667104,
       "rank": 47,
       "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 69867,
-      "num": 247994,
-      "word": "小鹏P7这次太全面了",
-      "onboard_time": 1773832461,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 69799,
@@ -9244,7 +9284,7 @@
     },
     {
       "raw_hot": 66473,
-      "num": 72764,
+      "num": 124529,
       "word": "专家称以后或不止冲锋衣涨价",
       "onboard_time": 1773831082,
       "rank": 49,
@@ -9531,6 +9571,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 61580,
+      "num": 152231,
+      "word": "宁娘 皇后",
+      "onboard_time": 1773834982,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61466,
       "num": 105912,
       "word": "黄天鹅多平台遭退单",
@@ -9611,12 +9659,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 59078,
-      "num": 230862,
-      "word": "陈妍希说谢谢你一直懂我",
-      "onboard_time": 1773833902,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 59302,
+      "num": 111670,
+      "word": "走村串巷偷了8000个手机号",
+      "onboard_time": 1773834982,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58887,
@@ -9899,6 +9947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48780,
+      "num": 293949,
+      "word": "宝诗龙上海旗舰店",
+      "onboard_time": 1773833121,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 48669,
       "num": 105532,
       "word": "黄子弘凡演唱会",
@@ -10155,14 +10211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41239,
-      "num": 245941,
-      "word": "宝诗龙上海旗舰店",
-      "onboard_time": 1773833121,
-      "rank": 19,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 40587,
       "num": 88846,
       "word": "1983剧情",
@@ -10265,14 +10313,6 @@
       "onboard_time": 1773532219,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 38372,
-      "num": 143839,
-      "word": "早期田曦薇 真人bjd",
-      "onboard_time": 1773834562,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 38357,
@@ -10587,6 +10627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29657,
+      "num": 288675,
+      "word": "精神病男子杀人4年后被认定0危险",
+      "onboard_time": 1773835222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29559,
       "num": 24520,
       "word": "中美促进双边贸易投资合作工作机制",
@@ -10865,6 +10913,14 @@
       "onboard_time": 1773554599,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21440,
+      "num": 124093,
+      "word": "日本拟从美国增加进口原油",
+      "onboard_time": 1773835222,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21191,

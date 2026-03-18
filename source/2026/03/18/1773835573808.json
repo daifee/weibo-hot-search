@@ -1,0 +1,410 @@
+{
+  "runTime": 1773835573808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 384059,
+        "num": 1061449,
+        "word": "正午阳光要扶持新人了",
+        "onboard_time": 1773833661,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178252,
+        "num": 746256,
+        "word": "中国学生开始卷海外考公了",
+        "onboard_time": 1773822262,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 46809,
+        "num": 593481,
+        "word": "中国人4900年前造出水坝群",
+        "onboard_time": 1773825382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189614,
+        "num": 588536,
+        "word": "蜘蛛侠4预告",
+        "onboard_time": 1773833361,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172484,
+        "num": 585545,
+        "word": "周小闹回应带红刘文祥麻辣烫",
+        "onboard_time": 1773834382,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 349540,
+        "num": 580486,
+        "word": "小米新SU7",
+        "onboard_time": 1773821182,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160214,
+        "num": 573880,
+        "word": "以色列刺杀伊朗情报部长",
+        "onboard_time": 1773824060,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117445,
+        "num": 567514,
+        "word": "建议年轻人少去公园容易伤自尊",
+        "onboard_time": 1773815181,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111347,
+        "num": 563031,
+        "word": "狼队对战KSG",
+        "onboard_time": 1773829822,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103598,
+        "num": 557183,
+        "word": "腾讯人均年薪成本112.8万",
+        "onboard_time": 1773830480,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1329872,
+        "num": 550890,
+        "word": "徐若晗 挂脸",
+        "onboard_time": 1773833722,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 550147,
+        "num": 550147,
+        "word": "赵丽颖直播",
+        "onboard_time": 1773831680,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329114,
+        "num": 329114,
+        "word": "女子称在健身房裸身被男维修工看光",
+        "onboard_time": 1773832822,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383767,
+        "num": 325776,
+        "word": "耀客AI演员 赵今麦翟子路",
+        "onboard_time": 1773828381,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314053,
+        "num": 314053,
+        "word": "泰国国王和王后驾驶飞机抵达老挝",
+        "onboard_time": 1773831622,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 300322,
+        "num": 300322,
+        "word": "樊长玉谢征 好孕赘婿",
+        "onboard_time": 1773807321,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96518,
+        "num": 299035,
+        "word": "油价涨了冲锋衣可能更贵",
+        "onboard_time": 1773817521,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48780,
+        "num": 293949,
+        "word": "宝诗龙上海旗舰店",
+        "onboard_time": 1773833121,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 83842,
+        "num": 291319,
+        "word": "小鹏P7这次太全面了",
+        "onboard_time": 1773832461,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29657,
+        "num": 288675,
+        "word": "精神病男子杀人4年后被认定0危险",
+        "onboard_time": 1773835222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582593,
+        "num": 286189,
+        "word": "客服笑了半个小时决定去仓库打人",
+        "onboard_time": 1773831561,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284314,
+        "num": 284314,
+        "word": "张凌赫 我和他都没演过长风渡",
+        "onboard_time": 1773825982,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219368,
+        "num": 219368,
+        "word": "3岁女童被虐死前零下20多度遭脱衣",
+        "onboard_time": 1773833062,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212084,
+        "num": 212084,
+        "word": "丞磊郭宇欣扇巴掌路透",
+        "onboard_time": 1773831921,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206082,
+        "num": 206082,
+        "word": "果然人老了干什么都心酸",
+        "onboard_time": 1773816920,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178094,
+        "num": 178094,
+        "word": "鱼塘主坚持2年用辣椒喂鱼",
+        "onboard_time": 1773822682,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167005,
+        "num": 167005,
+        "word": "爸爸买下校景房儿子上学仅需两分钟",
+        "onboard_time": 1773833842,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74351,
+        "num": 164052,
+        "word": "陈妍希说谢谢你一直懂我",
+        "onboard_time": 1773833902,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123315,
+        "num": 161269,
+        "word": "福建一鸭子活吞41只小鸡",
+        "onboard_time": 1773825861,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117691,
+        "num": 156612,
+        "word": "黄金怎么不涨反跌",
+        "onboard_time": 1773833121,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61580,
+        "num": 152231,
+        "word": "宁娘 皇后",
+        "onboard_time": 1773834982,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147802,
+        "num": 147802,
+        "word": "烧饭阿姨把三文鱼煮了",
+        "onboard_time": 1773823941,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155428,
+        "num": 146858,
+        "word": "陶太傅掉马",
+        "onboard_time": 1773829940,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145389,
+        "num": 145389,
+        "word": "容易让人长胖的睡前习惯",
+        "onboard_time": 1773829461,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144540,
+        "num": 144540,
+        "word": "张维伊喊袁姗姗嫂子",
+        "onboard_time": 1773831381,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124988,
+        "num": 124988,
+        "word": "TF四代已实名",
+        "onboard_time": 1773829822,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100199,
+        "num": 124920,
+        "word": "5岁孩子狂赚20亿短剧人设引争议",
+        "onboard_time": 1773822682,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60913,
+        "num": 124529,
+        "word": "专家称以后或不止冲锋衣涨价",
+        "onboard_time": 1773831082,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45141,
+        "num": 124293,
+        "word": "董璇怕小酒窝到青春期不理她",
+        "onboard_time": 1773830601,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21440,
+        "num": 124093,
+        "word": "日本拟从美国增加进口原油",
+        "onboard_time": 1773835222,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124015,
+        "num": 124015,
+        "word": "AI演员 人山人海",
+        "onboard_time": 1773832941,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59302,
+        "num": 111670,
+        "word": "走村串巷偷了8000个手机号",
+        "onboard_time": 1773834982,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92554,
+        "num": 110033,
+        "word": "偶遇朱志鑫古装拍摄",
+        "onboard_time": 1773830301,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109067,
+        "num": 109067,
+        "word": "早期田曦薇 真人bjd",
+        "onboard_time": 1773834562,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95847,
+        "num": 95847,
+        "word": "拉里贾尼被斩首细节披露",
+        "onboard_time": 1773820522,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87801,
+        "num": 87801,
+        "word": "何穗分享孕期不长胖的方法",
+        "onboard_time": 1773830961,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81578,
+        "num": 81578,
+        "word": "邓凯 你第一",
+        "onboard_time": 1773835163,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71866,
+        "num": 80496,
+        "word": "女性承担无偿家务是男性的两到三倍",
+        "onboard_time": 1773831801,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80485,
+        "num": 80485,
+        "word": "时代峰峻是不是觉得自己很聪明",
+        "onboard_time": 1773832342,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79227,
+        "num": 79227,
+        "word": "耀客一直在等孟子义",
+        "onboard_time": 1773823641,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进十五五#"
+    }
+  }
+}
