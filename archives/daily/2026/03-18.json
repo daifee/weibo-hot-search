@@ -1,6 +1,6 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773842395666,
+  "endTime": 1773846732718,
   "band_list": [
     {
       "raw_hot": 2276311,
@@ -48,6 +48,22 @@
       "word": "小S街头大哭",
       "onboard_time": 1773801381,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 912252,
+      "num": 506773,
+      "word": "金价",
+      "onboard_time": 1773838221,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 885741,
+      "num": 216735,
+      "word": "刘冲和迪丽热巴聚餐",
+      "onboard_time": 1773846323,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -219,20 +235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 506773,
-      "num": 506773,
-      "word": "金价",
-      "onboard_time": 1773838221,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 497032,
       "num": 325011,
       "word": "果然人老了干什么都心酸",
       "onboard_time": 1773816920,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 490641,
+      "num": 326081,
+      "word": "美联储",
+      "onboard_time": 1773841341,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 489896,
@@ -275,6 +291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 445066,
+      "num": 217278,
+      "word": "伊朗总统证实情报部长遇害",
+      "onboard_time": 1773844163,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 441019,
       "num": 239498,
       "word": "伊朗总统誓言要为拉里贾尼复仇",
@@ -289,6 +313,14 @@
       "onboard_time": 1773765678,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 422846,
+      "num": 1067655,
+      "word": "4S店回应拉黑吃饭超260次男子",
+      "onboard_time": 1773842362,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421721,
@@ -329,6 +361,14 @@
       "onboard_time": 1773819501,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413223,
+      "num": 413223,
+      "word": "半个娱乐圈女艺人安利隐身的名字",
+      "onboard_time": 1773842722,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 411001,
@@ -443,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 331382,
+      "num": 217202,
+      "word": "放了八年的香蕉",
+      "onboard_time": 1773843802,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 329114,
       "num": 329114,
       "word": "女子称在健身房裸身被男维修工看光",
@@ -457,14 +505,6 @@
       "onboard_time": 1773801441,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 326081,
-      "num": 326081,
-      "word": "美联储",
-      "onboard_time": 1773841341,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 322726,
@@ -619,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263261,
+      "num": 693560,
+      "word": "齐本宫",
+      "onboard_time": 1773840923,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261495,
       "num": 799730,
       "word": "鱼塘主坚持2年用辣椒喂鱼",
@@ -731,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232981,
+      "num": 216303,
+      "word": "红糖姜汁",
+      "onboard_time": 1773843744,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232818,
       "num": 232818,
       "word": "健身房倒闭教练自费上完877节课",
@@ -819,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217353,
+      "num": 217353,
+      "word": "女子网红店等位3200多桌排到崩溃",
+      "onboard_time": 1773844343,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213986,
       "num": 120918,
       "word": "孔雪儿曾是邓凯的偶像",
@@ -872,6 +936,14 @@
       "word": "网传当年不肯嫁东风在接触杨紫",
       "onboard_time": 1773790939,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204425,
+      "num": 204425,
+      "word": "文淇周柯宇 一觉醒来十五年",
+      "onboard_time": 1773845664,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1075,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164868,
-      "num": 693560,
-      "word": "齐本宫",
-      "onboard_time": 1773840923,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161575,
       "num": 161575,
       "word": "KPL",
@@ -1187,6 +1251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149563,
+      "num": 149563,
+      "word": "伊说中东三国石油设施成合法打击目标",
+      "onboard_time": 1773844881,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148930,
       "num": 148930,
       "word": "陈法拉 好莱坞",
@@ -1276,7 +1348,7 @@
     },
     {
       "raw_hot": 134177,
-      "num": 134177,
+      "num": 216072,
       "word": "美国特教女老师1天5次性侵男童",
       "onboard_time": 1773837442,
       "rank": 24,
@@ -1288,6 +1360,14 @@
       "word": "瞿颖胡兵回应为什么没在一起",
       "onboard_time": 1773805823,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132088,
+      "num": 132088,
+      "word": "代拍说王一博上下班公认最难拍",
+      "onboard_time": 1773845602,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1305,6 +1385,14 @@
       "onboard_time": 1773806543,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129788,
+      "num": 115382,
+      "word": "伊朗石油工业设施遭袭",
+      "onboard_time": 1773845244,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128370,
@@ -1419,6 +1507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114056,
+      "num": 114056,
+      "word": "何穗称模特赛夺冠后4年基本没工作",
+      "onboard_time": 1773843984,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112356,
+      "num": 112356,
+      "word": "医生建议中午用晒太阳代替午休",
+      "onboard_time": 1773843923,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111347,
       "num": 563031,
       "word": "狼队对战KSG",
@@ -1515,6 +1619,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 108410,
+      "num": 108410,
+      "word": "方媛出发录制桃花坞6",
+      "onboard_time": 1773842842,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108359,
       "num": 108359,
       "word": "征玉夫妇终于正式圆房",
@@ -1563,6 +1675,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104041,
+      "num": 98282,
+      "word": "逐玉贺将军下线",
+      "onboard_time": 1773844644,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103773,
+      "num": 649919,
+      "word": "BLG对战G2",
+      "onboard_time": 1773841642,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103598,
       "num": 557183,
       "word": "腾讯人均年薪成本112.8万",
@@ -1577,14 +1705,6 @@
       "onboard_time": 1773828201,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 103270,
-      "num": 649919,
-      "word": "BLG对战G2",
-      "onboard_time": 1773841642,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 102335,
@@ -1683,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98449,
+      "num": 98449,
+      "word": "爷爷一手抱孙子肩膀上坐着小孙女",
+      "onboard_time": 1773842483,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98340,
       "num": 98340,
       "word": "赵丽颖短发齐刘海造型",
@@ -1705,6 +1833,14 @@
       "onboard_time": 1773823582,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97463,
+      "num": 97463,
+      "word": "赵丽颖被主持人骗到的反应",
+      "onboard_time": 1773846683,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 97331,
@@ -1987,6 +2123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 83954,
+      "num": 83954,
+      "word": "清融好C",
+      "onboard_time": 1773846562,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83842,
       "num": 291319,
       "word": "小鹏P7这次太全面了",
@@ -2067,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80362,
+      "num": 80362,
+      "word": "金价跌破4900美元",
+      "onboard_time": 1773846384,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 80113,
       "num": 80113,
       "word": "葡萄牙体育惊天大逆转进欧冠8强",
@@ -2107,6 +2259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77672,
+      "num": 77672,
+      "word": "一个女儿和爸爸辩论视频火了",
+      "onboard_time": 1773845244,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77453,
       "num": 77453,
       "word": "终究理解长辈送礼送米面油了",
@@ -2121,6 +2281,14 @@
       "onboard_time": 1773840082,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 76663,
+      "num": 76663,
+      "word": "胖东来小方糖又卖断货了",
+      "onboard_time": 1773841642,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76647,
@@ -2145,14 +2313,6 @@
       "onboard_time": 1773831561,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75670,
-      "num": 75670,
-      "word": "胖东来小方糖又卖断货了",
-      "onboard_time": 1773841642,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75605,
@@ -2475,6 +2635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50294,
+      "num": 215952,
+      "word": "女子车祸住院429天371天是挂床",
+      "onboard_time": 1773846024,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49750,
       "num": 164065,
       "word": "倪妮的新松弛感",
@@ -2643,6 +2811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 33438,
+      "num": 94563,
+      "word": "老挝加油站大面积停摆",
+      "onboard_time": 1773846503,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33236,
       "num": 88265,
       "word": "李白杜牧辛弃疾火到韩国地铁站了",
@@ -2723,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25675,
+      "num": 636130,
+      "word": "全国春捂地图上线",
+      "onboard_time": 1773839902,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25121,
       "num": 87442,
       "word": "聂玮辰内娱sakuya塑",
@@ -2737,14 +2921,6 @@
       "onboard_time": 1773765257,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24590,
-      "num": 74832,
-      "word": "4S店回应拉黑吃饭超260次男子",
-      "onboard_time": 1773842362,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24418,

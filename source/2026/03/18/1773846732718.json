@@ -1,0 +1,410 @@
+{
+  "runTime": 1773846732718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 422846,
+        "num": 1067655,
+        "word": "4S店回应拉黑吃饭超260次男子",
+        "onboard_time": 1773842362,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286667,
+        "num": 791245,
+        "word": "逐玉",
+        "onboard_time": 1773841163,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25675,
+        "num": 636130,
+        "word": "全国春捂地图上线",
+        "onboard_time": 1773839902,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413223,
+        "num": 413223,
+        "word": "半个娱乐圈女艺人安利隐身的名字",
+        "onboard_time": 1773842722,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217353,
+        "num": 217353,
+        "word": "女子网红店等位3200多桌排到崩溃",
+        "onboard_time": 1773844343,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445066,
+        "num": 217278,
+        "word": "伊朗总统证实情报部长遇害",
+        "onboard_time": 1773844163,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331382,
+        "num": 217202,
+        "word": "放了八年的香蕉",
+        "onboard_time": 1773843802,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263261,
+        "num": 217107,
+        "word": "齐本宫",
+        "onboard_time": 1773840923,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123163,
+        "num": 217065,
+        "word": "698元海蓝之谜只有瓶子是真的",
+        "onboard_time": 1773837624,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 103773,
+        "num": 216958,
+        "word": "BLG对战G2",
+        "onboard_time": 1773841642,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1211764,
+        "num": 216821,
+        "word": "徐若晗 挂脸",
+        "onboard_time": 1773833722,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 885741,
+        "num": 216735,
+        "word": "刘冲和迪丽热巴聚餐",
+        "onboard_time": 1773846323,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490641,
+        "num": 216613,
+        "word": "美联储",
+        "onboard_time": 1773841341,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 584642,
+        "num": 216520,
+        "word": "早期田曦薇 真人bjd",
+        "onboard_time": 1773834562,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306057,
+        "num": 216454,
+        "word": "文科生的春天",
+        "onboard_time": 1773838402,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244368,
+        "num": 216401,
+        "word": "赵丽颖直播",
+        "onboard_time": 1773831680,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232981,
+        "num": 216303,
+        "word": "红糖姜汁",
+        "onboard_time": 1773843744,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144635,
+        "num": 216121,
+        "word": "杨威回应杨阳洋成绩不好去香港读书",
+        "onboard_time": 1773836601,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110332,
+        "num": 216072,
+        "word": "美国特教女老师1天5次性侵男童",
+        "onboard_time": 1773837442,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50294,
+        "num": 215952,
+        "word": "女子车祸住院429天371天是挂床",
+        "onboard_time": 1773846024,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 912252,
+        "num": 215853,
+        "word": "金价",
+        "onboard_time": 1773838221,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226264,
+        "num": 215787,
+        "word": "4月1日医保新规落地",
+        "onboard_time": 1773840622,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215741,
+        "num": 215741,
+        "word": "耀客AI演员 赵今麦翟子路",
+        "onboard_time": 1773828381,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204425,
+        "num": 204425,
+        "word": "文淇周柯宇 一觉醒来十五年",
+        "onboard_time": 1773845664,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203767,
+        "num": 203767,
+        "word": "客服笑了半个小时决定去仓库打人",
+        "onboard_time": 1773831561,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158008,
+        "num": 158008,
+        "word": "网友抵制AI演员",
+        "onboard_time": 1773838343,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149563,
+        "num": 149563,
+        "word": "伊说中东三国石油设施成合法打击目标",
+        "onboard_time": 1773844881,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132088,
+        "num": 132088,
+        "word": "代拍说王一博上下班公认最难拍",
+        "onboard_time": 1773845602,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126490,
+        "num": 126490,
+        "word": "宁娘 皇后",
+        "onboard_time": 1773834982,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101128,
+        "num": 115647,
+        "word": "福建一鸭子活吞41只小鸡",
+        "onboard_time": 1773825861,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129788,
+        "num": 115382,
+        "word": "伊朗石油工业设施遭袭",
+        "onboard_time": 1773845244,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114056,
+        "num": 114056,
+        "word": "何穗称模特赛夺冠后4年基本没工作",
+        "onboard_time": 1773843984,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112356,
+        "num": 112356,
+        "word": "医生建议中午用晒太阳代替午休",
+        "onboard_time": 1773843923,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108948,
+        "num": 108948,
+        "word": "张凌赫 我和他都没演过长风渡",
+        "onboard_time": 1773825982,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108410,
+        "num": 108410,
+        "word": "方媛出发录制桃花坞6",
+        "onboard_time": 1773842842,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98449,
+        "num": 98449,
+        "word": "爷爷一手抱孙子肩膀上坐着小孙女",
+        "onboard_time": 1773842483,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104041,
+        "num": 98282,
+        "word": "逐玉贺将军下线",
+        "onboard_time": 1773844644,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97478,
+        "num": 97478,
+        "word": "黄金怎么不涨反跌",
+        "onboard_time": 1773833121,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97463,
+        "num": 97463,
+        "word": "赵丽颖被主持人骗到的反应",
+        "onboard_time": 1773846683,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33438,
+        "num": 94563,
+        "word": "老挝加油站大面积停摆",
+        "onboard_time": 1773846503,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93283,
+        "num": 93283,
+        "word": "张凌赫田曦薇被cue经纪人梗的反应",
+        "onboard_time": 1773837082,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91751,
+        "num": 91751,
+        "word": "容易让人长胖的睡前习惯",
+        "onboard_time": 1773829461,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87161,
+        "num": 87161,
+        "word": "伊朗为拉里贾尼举行葬礼",
+        "onboard_time": 1773837502,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83954,
+        "num": 83954,
+        "word": "清融好C",
+        "onboard_time": 1773846562,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80362,
+        "num": 80362,
+        "word": "金价跌破4900美元",
+        "onboard_time": 1773846384,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79251,
+        "num": 79251,
+        "word": "逐玉预告",
+        "onboard_time": 1773839603,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78935,
+        "num": 78935,
+        "word": "檀健次 你们当没看到",
+        "onboard_time": 1773835821,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77672,
+        "num": 77672,
+        "word": "一个女儿和爸爸辩论视频火了",
+        "onboard_time": 1773845244,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76663,
+        "num": 76663,
+        "word": "胖东来小方糖又卖断货了",
+        "onboard_time": 1773841642,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74880,
+        "num": 74880,
+        "word": "白玉兰官宣6月26日颁奖",
+        "onboard_time": 1773839843,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见土库曼斯坦人民委员会主席#"
+    }
+  }
+}
