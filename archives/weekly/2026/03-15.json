@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773877092625,
+  "endTime": 1773878012343,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -579,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 663980,
+      "num": 1040681,
+      "word": "假装上班公司有员工月入七八万",
+      "onboard_time": 1773848181,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 660467,
       "num": 239202,
       "word": "今天才知道TFBOYS全称",
@@ -601,14 +609,6 @@
       "onboard_time": 1773586826,
       "rank": 4,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 645748,
-      "num": 920837,
-      "word": "假装上班公司有员工月入七八万",
-      "onboard_time": 1773848181,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 643751,
@@ -785,6 +785,14 @@
       "onboard_time": 1773640342,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 593307,
+      "num": 264885,
+      "word": "曝迪丽热巴换了张小斐前经纪人",
+      "onboard_time": 1773875418,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 591426,
@@ -1115,14 +1123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 497681,
-      "num": 125527,
-      "word": "曝迪丽热巴换了张小斐前经纪人",
-      "onboard_time": 1773875418,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 497032,
       "num": 325011,
       "word": "果然人老了干什么都心酸",
@@ -1443,6 +1443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 437530,
+      "num": 261924,
+      "word": "男子遭路虎1分钟恶意别停8次后追尾",
+      "onboard_time": 1773846923,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436455,
       "num": 394475,
       "word": "伊朗发射集束弹头导弹袭击以色列",
@@ -1488,14 +1496,6 @@
       "word": "4S店回应拉黑吃饭超260次男子",
       "onboard_time": 1773842362,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 422797,
-      "num": 245606,
-      "word": "男子遭路虎1分钟恶意别停8次后追尾",
-      "onboard_time": 1773846923,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -2379,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303810,
+      "num": 742112,
+      "word": "4月1日医保新规落地",
+      "onboard_time": 1773840622,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302728,
       "num": 144258,
       "word": "男制作人用吉赛尔未公开照片当头像",
@@ -2544,6 +2552,14 @@
       "word": "20岁男子感染HIV后HPV反复发作",
       "onboard_time": 1773711379,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292977,
+      "num": 292977,
+      "word": "胖东来小方糖戒指重新上架3天售罄",
+      "onboard_time": 1773876739,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2947,12 +2963,12 @@
       "category": "舆论监督,互联网"
     },
     {
-      "raw_hot": 256036,
-      "num": 256036,
-      "word": "4月1日医保新规落地",
-      "onboard_time": 1773840622,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 256524,
+      "num": 256524,
+      "word": "袁姗姗回应被张维伊喊嫂子",
+      "onboard_time": 1773876859,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 255031,
@@ -3035,6 +3051,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 248520,
+      "num": 272873,
+      "word": "逐玉陈皮糖二次求婚",
+      "onboard_time": 1773875358,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247841,
       "num": 218934,
       "word": "都美竹被判向朱姐道歉",
@@ -3105,6 +3129,14 @@
       "onboard_time": 1773833121,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 241036,
+      "num": 103097,
+      "word": "当老公得知宝宝鞋子的价格",
+      "onboard_time": 1773876079,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 240795,
@@ -3539,14 +3571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214261,
-      "num": 214261,
-      "word": "逐玉陈皮糖二次求婚",
-      "onboard_time": 1773875358,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214072,
       "num": 210085,
       "word": "伊朗最高领袖驳回斡旋提案",
@@ -3793,14 +3817,6 @@
       "onboard_time": 1773584490,
       "rank": 31,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 201762,
-      "num": 80133,
-      "word": "当老公得知宝宝鞋子的价格",
-      "onboard_time": 1773876079,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 199771,
@@ -4283,6 +4299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174543,
+      "num": 271282,
+      "word": "胖东来回应每人限购12个馒头",
+      "onboard_time": 1773876021,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174320,
       "num": 488038,
       "word": "蒋超良被逮捕",
@@ -4353,6 +4377,14 @@
       "onboard_time": 1773650906,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171082,
+      "num": 152904,
+      "word": "孙乐言北京时装周走秀",
+      "onboard_time": 1773875659,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170949,
@@ -4675,6 +4707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157321,
+      "num": 103051,
+      "word": "卡塔尔谴责以色列袭击伊朗天然气设施",
+      "onboard_time": 1773876021,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157091,
       "num": 181189,
       "word": "司宫令正式官宣",
@@ -4987,6 +5027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145010,
+      "num": 145010,
+      "word": "周也王玉雯陈星旭又是你们仨",
+      "onboard_time": 1773875958,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144754,
       "num": 144754,
       "word": "长沙警方通报一起寻衅滋事案",
@@ -5033,6 +5081,14 @@
       "onboard_time": 1773638963,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143528,
+      "num": 143528,
+      "word": "男子输液头孢7年第一次过敏休克",
+      "onboard_time": 1773876079,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142942,
@@ -5819,6 +5875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123248,
+      "num": 116833,
+      "word": "张予曦毕雯珺 河清海晏",
+      "onboard_time": 1773875478,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123186,
       "num": 123186,
       "word": "田曦薇芭比脸金刚身",
@@ -6107,28 +6171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116622,
-      "num": 116622,
-      "word": "胖东来回应每人限购12个馒头",
-      "onboard_time": 1773876021,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116596,
       "num": 130339,
       "word": "自闭症女孩玩游戏半年充45万",
       "onboard_time": 1773565221,
       "rank": 32,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 116581,
-      "num": 116581,
-      "word": "孙乐言北京时装周走秀",
-      "onboard_time": 1773875659,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 116067,
@@ -6283,6 +6331,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 111600,
+      "num": 267658,
+      "word": "女子在假装上班公司上班月入七八万",
+      "onboard_time": 1773876079,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 111423,
       "num": 111423,
       "word": "肖战解读藏海传",
@@ -6296,14 +6352,6 @@
       "word": "男子泳池溺亡女儿称10分钟无人救",
       "onboard_time": 1773715102,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111371,
-      "num": 111371,
-      "word": "男子输液头孢7年第一次过敏休克",
-      "onboard_time": 1773876079,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -6875,20 +6923,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 102699,
-      "num": 78649,
-      "word": "卡塔尔谴责以色列袭击伊朗天然气设施",
-      "onboard_time": 1773876021,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 102638,
       "num": 102638,
       "word": "邱贻可逗笑孙颖莎",
       "onboard_time": 1773585567,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102595,
+      "num": 102595,
+      "word": "美联储宣布维持利率不变",
+      "onboard_time": 1773876918,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 102593,
@@ -7105,14 +7153,6 @@
       "onboard_time": 1773708380,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99846,
-      "num": 99846,
-      "word": "女子在假装上班公司上班月入七八万",
-      "onboard_time": 1773876079,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 99810,
@@ -7707,6 +7747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92896,
+      "num": 92896,
+      "word": "女子爱犬走失遭同小区居民宰杀",
+      "onboard_time": 1773876079,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92842,
       "num": 383894,
       "word": "315晚会曝光荐股分成骗局",
@@ -7889,6 +7937,14 @@
       "onboard_time": 1773651026,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90710,
+      "num": 90710,
+      "word": "英国夜店脑膜炎疫情扩散至法国",
+      "onboard_time": 1773876918,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 90527,
@@ -8273,14 +8329,6 @@
       "onboard_time": 1773673344,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86469,
-      "num": 86469,
-      "word": "张予曦毕雯珺 河清海晏",
-      "onboard_time": 1773875478,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 86363,
@@ -8883,14 +8931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80153,
-      "num": 80153,
-      "word": "女子爱犬走失遭同小区居民宰杀",
-      "onboard_time": 1773876079,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80128,
       "num": 80128,
       "word": "邓凯怎么这么窄",
@@ -8945,6 +8985,14 @@
       "onboard_time": 1773660443,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79539,
+      "num": 79539,
+      "word": "金价长期或触及6000美元",
+      "onboard_time": 1773877881,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 79515,
@@ -9353,6 +9401,14 @@
       "onboard_time": 1773669084,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75025,
+      "num": 75025,
+      "word": "小米深夜上线三大模型",
+      "onboard_time": 1773876978,
+      "rank": 42,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 74998,
@@ -9819,6 +9875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68905,
+      "num": 68905,
+      "word": "周杰伦这次不是说说而已了",
+      "onboard_time": 1773876558,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 68165,
       "num": 68165,
       "word": "买了东西先过咪检",
@@ -9857,6 +9921,14 @@
       "onboard_time": 1773824362,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67595,
+      "num": 67595,
+      "word": "巴萨7比2纽卡斯尔联",
+      "onboard_time": 1773876499,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 67394,
@@ -10019,14 +10091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 64555,
-      "num": 61930,
-      "word": "周也王玉雯陈星旭又是你们仨",
-      "onboard_time": 1773875958,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 64386,
       "num": 3435940,
       "word": "未来五年我国这样干",
@@ -10065,14 +10129,6 @@
       "onboard_time": 1773737482,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64090,
-      "num": 58197,
-      "word": "周杰伦这次不是说说而已了",
-      "onboard_time": 1773876558,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 63792,
@@ -10187,14 +10243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62403,
-      "num": 62403,
-      "word": "胖东来小方糖戒指重新上架3天售罄",
-      "onboard_time": 1773876739,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62068,
       "num": 62068,
       "word": "刘宇宁 玫瑰再生我考虑一下",
@@ -10267,6 +10315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60504,
+      "num": 60504,
+      "word": "穿汉服在长江御剑飞行女子发声",
+      "onboard_time": 1773876558,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60467,
       "num": 105763,
       "word": "柯淳人帅心善买了残疾人的水果",
@@ -10297,6 +10353,14 @@
       "onboard_time": 1773761301,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59793,
+      "num": 59793,
+      "word": "黄金跳水原油飙升",
+      "onboard_time": 1773877640,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 59575,
@@ -10347,6 +10411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58206,
+      "num": 58206,
+      "word": "成毅年后状态太好了",
+      "onboard_time": 1773875418,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58088,
       "num": 71307,
       "word": "伊朗总统发声明哀悼拉里贾尼",
@@ -10379,28 +10451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57782,
-      "num": 57782,
-      "word": "美联储宣布维持利率不变",
-      "onboard_time": 1773876918,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 57723,
       "num": 154927,
       "word": "多个品牌标签隐瞒一口价黄金克重",
       "onboard_time": 1773542240,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 57614,
-      "num": 57614,
-      "word": "小米深夜上线三大模型",
-      "onboard_time": 1773876978,
-      "rank": 42,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 57063,
@@ -10417,14 +10473,6 @@
       "onboard_time": 1773708561,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56890,
-      "num": 56890,
-      "word": "成毅年后状态太好了",
-      "onboard_time": 1773875418,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 56637,
@@ -10515,14 +10563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 53758,
-      "num": 53758,
-      "word": "袁姗姗回应被张维伊喊嫂子",
-      "onboard_time": 1773876859,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 53729,
       "num": 259140,
       "word": "逐玉樊长玉原型",
@@ -10555,8 +10595,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52921,
+      "num": 52921,
+      "word": "BLG战胜G2",
+      "onboard_time": 1773875659,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 52479,
-      "num": 547143,
+      "num": 608970,
       "word": "新一批重大外资项目要来了",
       "onboard_time": 1773839962,
       "rank": 27,
@@ -10609,14 +10657,6 @@
       "onboard_time": 1773616820,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 50412,
-      "num": 50412,
-      "word": "巴萨7比2纽卡斯尔联",
-      "onboard_time": 1773876499,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 50388,
@@ -10705,14 +10745,6 @@
       "onboard_time": 1773542540,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48329,
-      "num": 48329,
-      "word": "BLG战胜G2",
-      "onboard_time": 1773875659,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 48309,
@@ -11169,14 +11201,6 @@
       "onboard_time": 1773853218,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35869,
-      "num": 58266,
-      "word": "英国夜店脑膜炎疫情扩散至法国",
-      "onboard_time": 1773876918,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 35865,

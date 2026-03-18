@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773877092625,
+  "endTime": 1773878012343,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -2979,6 +2979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 663980,
+      "num": 1040681,
+      "word": "假装上班公司有员工月入七八万",
+      "onboard_time": 1773848181,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 662819,
       "num": 364554,
       "word": "成毅撤诉",
@@ -3185,14 +3193,6 @@
       "onboard_time": 1772765240,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 645748,
-      "num": 920837,
-      "word": "假装上班公司有员工月入七八万",
-      "onboard_time": 1773848181,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 644600,
@@ -3761,6 +3761,14 @@
       "onboard_time": 1773640342,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 593307,
+      "num": 264885,
+      "word": "曝迪丽热巴换了张小斐前经纪人",
+      "onboard_time": 1773875418,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 591426,
@@ -4929,14 +4937,6 @@
       "onboard_time": 1772519545,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 497681,
-      "num": 125527,
-      "word": "曝迪丽热巴换了张小斐前经纪人",
-      "onboard_time": 1773875418,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 497654,
@@ -6171,6 +6171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 437530,
+      "num": 261924,
+      "word": "男子遭路虎1分钟恶意别停8次后追尾",
+      "onboard_time": 1773846923,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436888,
       "num": 608782,
       "word": "杨紫王安宇合作",
@@ -6544,14 +6552,6 @@
       "word": "4S店回应拉黑吃饭超260次男子",
       "onboard_time": 1773842362,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 422797,
-      "num": 245606,
-      "word": "男子遭路虎1分钟恶意别停8次后追尾",
-      "onboard_time": 1773846923,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -10195,6 +10195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303810,
+      "num": 742112,
+      "word": "4月1日医保新规落地",
+      "onboard_time": 1773840622,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303685,
       "num": 610110,
       "word": "田曦薇新剧中杀的是金华两头乌",
@@ -10640,6 +10648,14 @@
       "word": "20岁男子感染HIV后HPV反复发作",
       "onboard_time": 1773711379,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292977,
+      "num": 292977,
+      "word": "胖东来小方糖戒指重新上架3天售罄",
+      "onboard_time": 1773876739,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -12195,19 +12211,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256524,
+      "num": 256524,
+      "word": "袁姗姗回应被张维伊喊嫂子",
+      "onboard_time": 1773876859,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256130,
       "num": 400059,
       "word": "妈妈离世女儿懵懂追问为何手凉",
       "onboard_time": 1772627606,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 256036,
-      "num": 256036,
-      "word": "4月1日医保新规落地",
-      "onboard_time": 1773840622,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -12595,6 +12611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 248520,
+      "num": 272873,
+      "word": "逐玉陈皮糖二次求婚",
+      "onboard_time": 1773875358,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248438,
       "num": 430233,
       "word": "韩国外交部发声明",
@@ -12919,6 +12943,14 @@
       "num": 241205,
       "word": "豹豹原来是汗脚",
       "onboard_time": 1773483860,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 241036,
+      "num": 103097,
+      "word": "当老公得知宝宝鞋子的价格",
+      "onboard_time": 1773876079,
       "rank": 30,
       "category": "幽默"
     },
@@ -14491,14 +14523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214261,
-      "num": 214261,
-      "word": "逐玉陈皮糖二次求婚",
-      "onboard_time": 1773875358,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214223,
       "num": 214223,
       "word": "河南省考图推",
@@ -15225,14 +15249,6 @@
       "onboard_time": 1773023480,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 201762,
-      "num": 80133,
-      "word": "当老公得知宝宝鞋子的价格",
-      "onboard_time": 1773876079,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 201690,
@@ -17123,6 +17139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174543,
+      "num": 271282,
+      "word": "胖东来回应每人限购12个馒头",
+      "onboard_time": 1773876021,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174496,
       "num": 608756,
       "word": "Uzi杯官宣",
@@ -17345,6 +17369,14 @@
       "onboard_time": 1772300658,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171082,
+      "num": 152904,
+      "word": "孙乐言北京时装周走秀",
+      "onboard_time": 1773875659,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170949,
@@ -18737,6 +18769,14 @@
       "onboard_time": 1772368884,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 157321,
+      "num": 103051,
+      "word": "卡塔尔谴责以色列袭击伊朗天然气设施",
+      "onboard_time": 1773876021,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157247,
@@ -20219,6 +20259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145010,
+      "num": 145010,
+      "word": "周也王玉雯陈星旭又是你们仨",
+      "onboard_time": 1773875958,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144898,
       "num": 155593,
       "word": "石油",
@@ -20385,6 +20433,14 @@
       "onboard_time": 1773638963,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143528,
+      "num": 143528,
+      "word": "男子输液头孢7年第一次过敏休克",
+      "onboard_time": 1773876079,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143451,
@@ -23211,6 +23267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123248,
+      "num": 116833,
+      "word": "张予曦毕雯珺 河清海晏",
+      "onboard_time": 1773875478,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123216,
       "num": 123216,
       "word": "男子被忘核磁共振机医院曾被罚5900万",
@@ -24427,14 +24491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 116622,
-      "num": 116622,
-      "word": "胖东来回应每人限购12个馒头",
-      "onboard_time": 1773876021,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116612,
       "num": 163567,
       "word": "男性感染HPV有哪些健康风险",
@@ -24457,14 +24513,6 @@
       "onboard_time": 1772878161,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 116581,
-      "num": 116581,
-      "word": "孙乐言北京时装周走秀",
-      "onboard_time": 1773875659,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 116534,
@@ -25427,6 +25475,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 111600,
+      "num": 267658,
+      "word": "女子在假装上班公司上班月入七八万",
+      "onboard_time": 1773876079,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 111539,
       "num": 111539,
       "word": "建议解决公积金看得到用不了难题",
@@ -25457,14 +25513,6 @@
       "onboard_time": 1772769862,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111371,
-      "num": 111371,
-      "word": "男子输液头孢7年第一次过敏休克",
-      "onboard_time": 1773876079,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111370,
@@ -27363,20 +27411,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 102699,
-      "num": 78649,
-      "word": "卡塔尔谴责以色列袭击伊朗天然气设施",
-      "onboard_time": 1773876021,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 102638,
       "num": 102638,
       "word": "邱贻可逗笑孙颖莎",
       "onboard_time": 1773585567,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102595,
+      "num": 102595,
+      "word": "美联储宣布维持利率不变",
+      "onboard_time": 1773876918,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 102593,
@@ -28217,14 +28265,6 @@
       "onboard_time": 1773287962,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 99846,
-      "num": 99846,
-      "word": "女子在假装上班公司上班月入七八万",
-      "onboard_time": 1773876079,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 99830,
@@ -30387,6 +30427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92896,
+      "num": 92896,
+      "word": "女子爱犬走失遭同小区居民宰杀",
+      "onboard_time": 1773876079,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92842,
       "num": 383894,
       "word": "315晚会曝光荐股分成骗局",
@@ -31129,6 +31177,14 @@
       "onboard_time": 1773045922,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90710,
+      "num": 90710,
+      "word": "英国夜店脑膜炎疫情扩散至法国",
+      "onboard_time": 1773876918,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 90618,
@@ -32457,14 +32513,6 @@
       "onboard_time": 1773673344,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86469,
-      "num": 86469,
-      "word": "张予曦毕雯珺 河清海晏",
-      "onboard_time": 1773875478,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 86466,
@@ -34587,14 +34635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80153,
-      "num": 80153,
-      "word": "女子爱犬走失遭同小区居民宰杀",
-      "onboard_time": 1773876079,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80128,
       "num": 80128,
       "word": "邓凯怎么这么窄",
@@ -34801,6 +34841,14 @@
       "onboard_time": 1773369261,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79539,
+      "num": 79539,
+      "word": "金价长期或触及6000美元",
+      "onboard_time": 1773877881,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 79515,
@@ -36401,6 +36449,14 @@
       "onboard_time": 1773210680,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75025,
+      "num": 75025,
+      "word": "小米深夜上线三大模型",
+      "onboard_time": 1773876978,
+      "rank": 42,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 75021,
@@ -38387,6 +38443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68905,
+      "num": 68905,
+      "word": "周杰伦这次不是说说而已了",
+      "onboard_time": 1773876558,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 68898,
       "num": 62878,
       "word": "设计师演我见到王一博",
@@ -38713,6 +38777,14 @@
       "onboard_time": 1773482121,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67595,
+      "num": 67595,
+      "word": "巴萨7比2纽卡斯尔联",
+      "onboard_time": 1773876499,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 67585,
@@ -39507,14 +39579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 64555,
-      "num": 61930,
-      "word": "周也王玉雯陈星旭又是你们仨",
-      "onboard_time": 1773875958,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 64522,
       "num": 64522,
       "word": "猫 我晨练碍着你了",
@@ -39697,14 +39761,6 @@
       "onboard_time": 1773152244,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 64090,
-      "num": 58197,
-      "word": "周杰伦这次不是说说而已了",
-      "onboard_time": 1773876558,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 64049,
@@ -40179,14 +40235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 62403,
-      "num": 62403,
-      "word": "胖东来小方糖戒指重新上架3天售罄",
-      "onboard_time": 1773876739,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62368,
       "num": 44275,
       "word": "美国土安全部长诺姆被解职",
@@ -40627,6 +40675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60504,
+      "num": 60504,
+      "word": "穿汉服在长江御剑飞行女子发声",
+      "onboard_time": 1773876558,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60390,
       "num": 69715,
       "word": "92岁姥爷见94岁姐姐",
@@ -40697,6 +40753,14 @@
       "onboard_time": 1773300081,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59793,
+      "num": 59793,
+      "word": "黄金跳水原油飙升",
+      "onboard_time": 1773877640,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 59688,
@@ -41035,6 +41099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58206,
+      "num": 58206,
+      "word": "成毅年后状态太好了",
+      "onboard_time": 1773875418,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58180,
       "num": 291540,
       "word": "苹果首款折叠定名iPhoneFold",
@@ -41147,14 +41219,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 57782,
-      "num": 57782,
-      "word": "美联储宣布维持利率不变",
-      "onboard_time": 1773876918,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 57723,
       "num": 154927,
       "word": "多个品牌标签隐瞒一口价黄金克重",
@@ -41177,14 +41241,6 @@
       "onboard_time": 1772883501,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57614,
-      "num": 57614,
-      "word": "小米深夜上线三大模型",
-      "onboard_time": 1773876978,
-      "rank": 42,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 57594,
@@ -41329,14 +41385,6 @@
       "onboard_time": 1773203661,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 56890,
-      "num": 56890,
-      "word": "成毅年后状态太好了",
-      "onboard_time": 1773875418,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 56878,
@@ -41835,14 +41883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53758,
-      "num": 53758,
-      "word": "袁姗姗回应被张维伊喊嫂子",
-      "onboard_time": 1773876859,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 53729,
       "num": 259140,
       "word": "逐玉樊长玉原型",
@@ -41995,6 +42035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52921,
+      "num": 52921,
+      "word": "BLG战胜G2",
+      "onboard_time": 1773875659,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 52903,
       "num": 810424,
       "word": "2026两会日程预告",
@@ -42060,7 +42108,7 @@
     },
     {
       "raw_hot": 52479,
-      "num": 547143,
+      "num": 608970,
       "word": "新一批重大外资项目要来了",
       "onboard_time": 1773839962,
       "rank": 27,
@@ -42321,14 +42369,6 @@
       "onboard_time": 1773616820,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 50412,
-      "num": 50412,
-      "word": "巴萨7比2纽卡斯尔联",
-      "onboard_time": 1773876499,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 50399,
@@ -42753,14 +42793,6 @@
       "onboard_time": 1773457222,
       "rank": 8,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 48329,
-      "num": 48329,
-      "word": "BLG战胜G2",
-      "onboard_time": 1773875659,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 48322,
@@ -44801,14 +44833,6 @@
       "onboard_time": 1772780601,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35869,
-      "num": 58266,
-      "word": "英国夜店脑膜炎疫情扩散至法国",
-      "onboard_time": 1773876918,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 35865,
