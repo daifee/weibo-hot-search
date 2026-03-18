@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773817942982,
+  "endTime": 1773821187329,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 674707,
-      "num": 145536,
+      "num": 154787,
       "word": "凌潇肃侯雯元 莞莞类卿",
       "onboard_time": 1773808222,
       "rank": 27,
@@ -665,6 +665,14 @@
       "onboard_time": 1773715522,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604782,
+      "num": 1096765,
+      "word": "中方回应特朗普确认推迟访华",
+      "onboard_time": 1773818901,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 603599,
@@ -875,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546730,
+      "num": 159460,
+      "word": "岳雨婷爸爸因破产头发全白",
+      "onboard_time": 1773816023,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540999,
       "num": 1086559,
       "word": "美宜佳被曝光后半小时无一人进店",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1773758664,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 497032,
+      "num": 325011,
+      "word": "果然人老了干什么都心酸",
+      "onboard_time": 1773816920,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 495606,
@@ -1347,6 +1371,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 415991,
+      "num": 185705,
+      "word": "胡兵家有瞿颖的专属卧室",
+      "onboard_time": 1773819501,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 415085,
+      "num": 182805,
+      "word": "离职要走发现同事在窗口举牌",
+      "onboard_time": 1773816501,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 413553,
       "num": 193933,
       "word": "瞿颖好大的雨啊",
@@ -1361,14 +1401,6 @@
       "onboard_time": 1773761662,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 408209,
-      "num": 141859,
-      "word": "岳雨婷爸爸因破产头发全白",
-      "onboard_time": 1773816023,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 405439,
@@ -1619,8 +1651,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365557,
+      "num": 365557,
+      "word": "文身店免费给65岁以上老人文身",
+      "onboard_time": 1773817641,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363655,
-      "num": 140827,
+      "num": 154818,
       "word": "高度近视吹瓶子",
       "onboard_time": 1773810922,
       "rank": 21,
@@ -1953,6 +1993,14 @@
       "onboard_time": 1773617119,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 318229,
+      "num": 318229,
+      "word": "油价涨了冲锋衣可能更贵",
+      "onboard_time": 1773817521,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 317786,
@@ -2497,6 +2545,14 @@
       "onboard_time": 1773755843,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263455,
+      "num": 263455,
+      "word": "伊朗革命卫队报复行动升级",
+      "onboard_time": 1773819441,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 261486,
@@ -3475,6 +3531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187296,
+      "num": 187296,
+      "word": "百花杀",
+      "onboard_time": 1773817941,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187005,
       "num": 187005,
       "word": "甜茶的面相变了",
@@ -3931,14 +3995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 162344,
-      "num": 117318,
-      "word": "果然人老了干什么都心酸",
-      "onboard_time": 1773816920,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162126,
       "num": 162126,
       "word": "李宇春吴青峰都哭了",
@@ -4203,12 +4259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151485,
-      "num": 151485,
-      "word": "文身店免费给65岁以上老人文身",
-      "onboard_time": 1773817641,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 151413,
+      "num": 151413,
+      "word": "奶奶减肥法",
+      "onboard_time": 1773818181,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 151300,
@@ -4371,6 +4427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144737,
+      "num": 144737,
+      "word": "谈莉娜孕晚期状态",
+      "onboard_time": 1773819982,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144332,
       "num": 209391,
       "word": "翟潇闻回复姜妍",
@@ -4401,6 +4465,14 @@
       "onboard_time": 1773586105,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142891,
+      "num": 117456,
+      "word": "拉里贾尼被斩首细节披露",
+      "onboard_time": 1773820522,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142871,
@@ -5283,6 +5355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118116,
+      "num": 118116,
+      "word": "冰湖重生",
+      "onboard_time": 1773819260,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118111,
       "num": 118111,
       "word": "夏以昼 新日卡",
@@ -5563,6 +5643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109682,
+      "num": 104956,
+      "word": "代拍称肖战王楚然登陆少年销量前三",
+      "onboard_time": 1773817880,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109372,
       "num": 134700,
       "word": "下次油价调整每升或涨1元以上",
@@ -5585,14 +5673,6 @@
       "onboard_time": 1773646826,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109079,
-      "num": 108031,
-      "word": "油价涨了冲锋衣可能更贵",
-      "onboard_time": 1773817521,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 109012,
@@ -5825,6 +5905,14 @@
       "onboard_time": 1773488781,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105593,
+      "num": 105593,
+      "word": "油价",
+      "onboard_time": 1773820582,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 105471,
@@ -6123,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100305,
+      "num": 100305,
+      "word": "曝岳雨婷巴黎看秀风波内幕",
+      "onboard_time": 1773819140,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100116,
       "num": 100116,
       "word": "极氪8X售价",
@@ -6217,6 +6313,14 @@
       "onboard_time": 1773801260,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98980,
+      "num": 98980,
+      "word": "桃花坞第六季重庆路透",
+      "onboard_time": 1773816981,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 98974,
@@ -6321,14 +6425,6 @@
       "onboard_time": 1773809602,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97321,
-      "num": 97321,
-      "word": "离职要走发现同事在窗口举牌",
-      "onboard_time": 1773816501,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 97223,
@@ -6851,6 +6947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89927,
+      "num": 89927,
+      "word": "再邋遢一天明天可以理发了",
+      "onboard_time": 1773818781,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89863,
       "num": 89863,
       "word": "BLG冲击先锋赛开门红",
@@ -7009,6 +7113,14 @@
       "onboard_time": 1773635543,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 87667,
+      "num": 87667,
+      "word": "五千的钢琴课狗学了三千",
+      "onboard_time": 1773820701,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 87566,
@@ -7411,14 +7523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83995,
-      "num": 83995,
-      "word": "代拍称肖战王楚然登陆少年销量前三",
-      "onboard_time": 1773817880,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83789,
       "num": 83789,
       "word": "敖瑞鹏 从考古的全世界路过",
@@ -7723,6 +7827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79851,
+      "num": 79851,
+      "word": "香港打车被提醒副驾不能玩手机",
+      "onboard_time": 1773821061,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79581,
       "num": 79581,
       "word": "多部门回应珠海长隆鲸鲨去世",
@@ -7784,6 +7896,14 @@
       "word": "鹿哈带货牛肚直接扔地上冷却",
       "onboard_time": 1773552502,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78416,
+      "num": 171089,
+      "word": "女子人脸被盗喂给AI做成短剧",
+      "onboard_time": 1773820821,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -9604,7 +9724,7 @@
     },
     {
       "raw_hot": 33838,
-      "num": 174460,
+      "num": 182222,
       "word": "一块get舒淇同款清香好茶",
       "onboard_time": 1773817401,
       "rank": 12,
@@ -9952,6 +10072,14 @@
       "word": "儿子昏迷973天父亲回应过法考维权",
       "onboard_time": 1773815840,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23217,
+      "num": 99394,
+      "word": "网购救命药患者注射后救治无效身亡",
+      "onboard_time": 1773820582,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -10329,6 +10457,14 @@
       "onboard_time": 1773651684,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13711,
+      "num": 165061,
+      "word": "药店藏5元平价药推销50元替代药",
+      "onboard_time": 1773820641,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13561,
