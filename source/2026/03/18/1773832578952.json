@@ -1,0 +1,410 @@
+{
+  "runTime": 1773832578952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 438555,
+        "num": 1070168,
+        "word": "小米新SU7",
+        "onboard_time": 1773821182,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 261495,
+        "num": 799730,
+        "word": "鱼塘主坚持2年用辣椒喂鱼",
+        "onboard_time": 1773822682,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45655,
+        "num": 600621,
+        "word": "中国人4900年前造出水坝群",
+        "onboard_time": 1773825382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166221,
+        "num": 416748,
+        "word": "泰国国王和王后驾驶飞机抵达老挝",
+        "onboard_time": 1773831622,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151356,
+        "num": 313250,
+        "word": "中国学生开始卷海外考公了",
+        "onboard_time": 1773822262,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 219075,
+        "num": 261253,
+        "word": "客服笑了半个小时决定去仓库打人",
+        "onboard_time": 1773831561,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251648,
+        "num": 251648,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1773827902,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221637,
+        "num": 221637,
+        "word": "陶太傅掉马",
+        "onboard_time": 1773829940,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195765,
+        "num": 195765,
+        "word": "以色列刺杀伊朗情报部长",
+        "onboard_time": 1773824060,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173589,
+        "num": 173589,
+        "word": "丞磊郭宇欣扇巴掌路透",
+        "onboard_time": 1773831921,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326059,
+        "num": 172916,
+        "word": "樊长玉谢征 好孕赘婿",
+        "onboard_time": 1773807321,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234379,
+        "num": 172026,
+        "word": "日本女孩发布新干线化妆视频被辱骂",
+        "onboard_time": 1773829041,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 297437,
+        "num": 170821,
+        "word": "果然人老了干什么都心酸",
+        "onboard_time": 1773816920,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222029,
+        "num": 169476,
+        "word": "21岁女孩被亲妈饿到30公斤虐死",
+        "onboard_time": 1773829582,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137047,
+        "num": 169090,
+        "word": "腾讯发布2025年财报",
+        "onboard_time": 1773826761,
+        "rank": 14,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 140181,
+        "num": 167806,
+        "word": "拉里贾尼被斩首细节披露",
+        "onboard_time": 1773820522,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128573,
+        "num": 166342,
+        "word": "5岁孩子狂赚20亿短剧人设引争议",
+        "onboard_time": 1773822682,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123648,
+        "num": 165325,
+        "word": "建议年轻人少去公园容易伤自尊",
+        "onboard_time": 1773815181,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112330,
+        "num": 164942,
+        "word": "油价涨了冲锋衣可能更贵",
+        "onboard_time": 1773817521,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101379,
+        "num": 163575,
+        "word": "离职要走发现同事在窗口举牌",
+        "onboard_time": 1773816501,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 600842,
+        "num": 162374,
+        "word": "耀客AI演员 赵今麦翟子路",
+        "onboard_time": 1773828381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493925,
+        "num": 161680,
+        "word": "张凌赫 我和他都没演过长风渡",
+        "onboard_time": 1773825982,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364178,
+        "num": 160343,
+        "word": "烧饭阿姨把三文鱼煮了",
+        "onboard_time": 1773823941,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235667,
+        "num": 159017,
+        "word": "张维伊喊袁姗姗嫂子",
+        "onboard_time": 1773831381,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64321,
+        "num": 158656,
+        "word": "雷军点赞小米车主助人善举",
+        "onboard_time": 1773828201,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89930,
+        "num": 156816,
+        "word": "游戏AI化驱动腾讯游戏业绩增长",
+        "onboard_time": 1773832101,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188373,
+        "num": 156339,
+        "word": "容易让人长胖的睡前习惯",
+        "onboard_time": 1773829461,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183632,
+        "num": 154953,
+        "word": "TF四代已实名",
+        "onboard_time": 1773829822,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151263,
+        "num": 154147,
+        "word": "福建一鸭子活吞41只小鸡",
+        "onboard_time": 1773825861,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153568,
+        "num": 153568,
+        "word": "赵丽颖直播",
+        "onboard_time": 1773831680,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115710,
+        "num": 115710,
+        "word": "何穗分享孕期不长胖的方法",
+        "onboard_time": 1773830961,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98152,
+        "num": 98152,
+        "word": "腾讯人均年薪成本112.8万",
+        "onboard_time": 1773830480,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96717,
+        "num": 96717,
+        "word": "半个娱乐圈的人都抱过林沐然",
+        "onboard_time": 1773825802,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96217,
+        "num": 96217,
+        "word": "以色列防长称伊朗情报部长已死",
+        "onboard_time": 1773831201,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92850,
+        "num": 92850,
+        "word": "网传落生去世",
+        "onboard_time": 1773808162,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66187,
+        "num": 92781,
+        "word": "国台办回应台湾面临断油断气危险",
+        "onboard_time": 1773826101,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28565,
+        "num": 92259,
+        "word": "小鹏P7这次太全面了",
+        "onboard_time": 1773832461,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 30602,
+        "num": 91682,
+        "word": "时代峰峻是不是觉得自己很聪明",
+        "onboard_time": 1773832342,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23414,
+        "num": 91471,
+        "word": "还以为李现在蹲马桶",
+        "onboard_time": 1773832342,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134471,
+        "num": 90757,
+        "word": "迪丽热巴代言甄稀冰淇淋",
+        "onboard_time": 1773823462,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90750,
+        "num": 90750,
+        "word": "文身店免费给65岁以上老人文身",
+        "onboard_time": 1773817641,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90080,
+        "num": 90080,
+        "word": "剑来",
+        "onboard_time": 1773829640,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 78995,
+        "num": 78995,
+        "word": "董璇怕小酒窝到青春期不理她",
+        "onboard_time": 1773830601,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78785,
+        "num": 78785,
+        "word": "百花杀",
+        "onboard_time": 1773817941,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77453,
+        "num": 77453,
+        "word": "终究理解长辈送礼送米面油了",
+        "onboard_time": 1773831801,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75692,
+        "num": 75692,
+        "word": "张凌赫被长玉扇巴掌震撼美味",
+        "onboard_time": 1773831561,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74020,
+        "num": 74020,
+        "word": "钮钴禄Jennie",
+        "onboard_time": 1773823282,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73304,
+        "num": 73304,
+        "word": "盐水猪肉",
+        "onboard_time": 1773830781,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63211,
+        "num": 72828,
+        "word": "林高远第一次吊威亚",
+        "onboard_time": 1773829281,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58711,
+        "num": 72764,
+        "word": "专家称以后或不止冲锋衣涨价",
+        "onboard_time": 1773831082,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进十五五#"
+    }
+  }
+}
