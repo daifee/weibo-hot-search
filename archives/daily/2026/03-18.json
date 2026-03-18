@@ -1,6 +1,6 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773802006551,
+  "endTime": 1773804412776,
   "band_list": [
     {
       "raw_hot": 1584848,
@@ -11,7 +11,7 @@
       "category": "互联网,作品衍生"
     },
     {
-      "raw_hot": 1110836,
+      "raw_hot": 1196615,
       "num": 165722,
       "word": "曝小S哭着去陈建州范玮琪家",
       "onboard_time": 1773800301,
@@ -25,6 +25,14 @@
       "onboard_time": 1773789139,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 995646,
+      "num": 158559,
+      "word": "小S街头大哭",
+      "onboard_time": 1773801381,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 510763,
@@ -75,6 +83,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 329104,
+      "num": 329104,
+      "word": "毛宁向世界分享中国学生午睡神器",
+      "onboard_time": 1773801441,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316202,
+      "num": 161678,
+      "word": "曝去年热播剧男女主恋情",
+      "onboard_time": 1773800180,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314518,
       "num": 134137,
       "word": "郑恺苗苗公开三胎小女儿",
@@ -83,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313399,
-      "num": 158559,
-      "word": "小S街头大哭",
-      "onboard_time": 1773801381,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 310075,
+      "num": 170169,
+      "word": "库克宣布苹果在华节水550亿升",
+      "onboard_time": 1773801561,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 301470,
@@ -123,14 +147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 249177,
-      "num": 161678,
-      "word": "曝去年热播剧男女主恋情",
-      "onboard_time": 1773800180,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245501,
       "num": 149004,
       "word": "吕严说蒋诗萌就是用生酮瘦下来的",
@@ -147,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 236150,
+      "num": 190119,
+      "word": "利他性表达",
+      "onboard_time": 1773802100,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232818,
       "num": 232818,
       "word": "健身房倒闭教练自费上完877节课",
@@ -160,6 +184,14 @@
       "word": "papi酱的热烈欢迎",
       "onboard_time": 1773797959,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 226296,
+      "num": 158563,
+      "word": "瞿颖透露自己老公是机长",
+      "onboard_time": 1773804140,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -219,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190593,
+      "num": 190593,
+      "word": "小米超强钢获得国家级科技一等奖",
+      "onboard_time": 1773803361,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 185969,
       "num": 147318,
       "word": "男子遭前同事背调杀月薪降5000",
@@ -273,6 +313,14 @@
       "onboard_time": 1773749782,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153528,
+      "num": 153528,
+      "word": "伊朗称敌方击中布什尔核电站厂区",
+      "onboard_time": 1773799880,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153353,
@@ -347,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134091,
-      "num": 218380,
-      "word": "毛宁向世界分享中国学生午睡神器",
-      "onboard_time": 1773801441,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128001,
       "num": 163079,
       "word": "有友鸡爪检验结果声明",
@@ -371,12 +411,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124582,
-      "num": 124582,
-      "word": "伊朗称敌方击中布什尔核电站厂区",
-      "onboard_time": 1773799880,
-      "rank": 28,
-      "category": "国际时政"
+      "raw_hot": 126385,
+      "num": 126385,
+      "word": "香蕉真的会灭绝吗",
+      "onboard_time": 1773802581,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 122946,
+      "num": 111417,
+      "word": "女子投保两年半后确诊患癌遭拒赔",
+      "onboard_time": 1773803542,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117499,
@@ -385,6 +433,30 @@
       "onboard_time": 1773753202,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 111907,
+      "num": 111907,
+      "word": "美军称用多枚5000磅钻地弹打击伊朗",
+      "onboard_time": 1773803480,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 109925,
+      "num": 109925,
+      "word": "电视剧冬去春来定档",
+      "onboard_time": 1773804321,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108871,
+      "num": 108871,
+      "word": "当犟种养了另一个犟种",
+      "onboard_time": 1773798021,
+      "rank": 32,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 108359,
@@ -411,12 +483,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102244,
+      "num": 102244,
+      "word": "孔雪儿邓凯聊逐玉水下吻",
+      "onboard_time": 1773803962,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101705,
       "num": 101705,
       "word": "美国一海滩人群被水瓶破裂声吓跑",
       "onboard_time": 1773799400,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100780,
+      "num": 100780,
+      "word": "姚晨 侯雯元",
+      "onboard_time": 1773804321,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100701,
+      "num": 100701,
+      "word": "科大讯飞回应大幅裁员",
+      "onboard_time": 1773802100,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 99652,
+      "num": 99652,
+      "word": "过日子从结婚第一天开始",
+      "onboard_time": 1773804140,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 99139,
+      "num": 145187,
+      "word": "杨瀚森G联赛比赛直播",
+      "onboard_time": 1773801260,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 98065,
@@ -427,12 +539,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 94616,
-      "num": 94616,
-      "word": "当犟种养了另一个犟种",
-      "onboard_time": 1773798021,
-      "rank": 32,
-      "category": "情感,休闲"
+      "raw_hot": 93909,
+      "num": 93909,
+      "word": "好一个重男亲女",
+      "onboard_time": 1773803962,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 92461,
@@ -443,6 +555,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 91596,
+      "num": 91596,
+      "word": "JDG最快BO5落败记录",
+      "onboard_time": 1773802821,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91404,
       "num": 86444,
       "word": "拉里贾尼儿子和副手身亡",
@@ -451,12 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 91010,
-      "num": 91010,
-      "word": "库克宣布苹果在华节水550亿升",
-      "onboard_time": 1773801561,
-      "rank": 33,
-      "category": "数码"
+      "raw_hot": 91145,
+      "num": 91145,
+      "word": "你好1983好争气",
+      "onboard_time": 1773801081,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 89494,
@@ -491,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85047,
-      "num": 85047,
-      "word": "你好1983好争气",
-      "onboard_time": 1773801081,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84835,
       "num": 84835,
       "word": "国安部发布黑飞至8000米高空案例",
@@ -515,6 +627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 83754,
+      "num": 83754,
+      "word": "A股",
+      "onboard_time": 1773803721,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82367,
       "num": 133805,
       "word": "3岁女童被虐死生父女友已执行死刑",
@@ -529,6 +649,14 @@
       "onboard_time": 1773797721,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79035,
+      "num": 79035,
+      "word": "张凌赫回应谢征樊长玉圆房吻",
+      "onboard_time": 1773804260,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 76647,
@@ -724,7 +852,7 @@
     },
     {
       "raw_hot": 43113,
-      "num": 695930,
+      "num": 726617,
       "word": "家电进化开倍速了吗",
       "onboard_time": 1773756562,
       "rank": 2,
@@ -897,6 +1025,14 @@
       "onboard_time": 1773745343,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16785,
+      "num": 95225,
+      "word": "阿根廷退出世卫组织生效",
+      "onboard_time": 1773804082,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15610,
