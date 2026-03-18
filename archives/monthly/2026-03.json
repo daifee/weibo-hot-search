@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773853886951,
+  "endTime": 1773855395281,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -22867,6 +22867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125110,
+      "num": 125110,
+      "word": "BTS演出强制韩国上班族用年假",
+      "onboard_time": 1773852019,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125052,
       "num": 591109,
       "word": "EDG",
@@ -22985,14 +22993,6 @@
       "onboard_time": 1772894123,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 124424,
-      "num": 124424,
-      "word": "BTS演出强制韩国上班族用年假",
-      "onboard_time": 1773852019,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 124389,
@@ -40596,7 +40596,7 @@
     },
     {
       "raw_hot": 59575,
-      "num": 49395,
+      "num": 60111,
       "word": "美团回应北大毕业送外卖",
       "onboard_time": 1773848901,
       "rank": 30,
@@ -41675,6 +41675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53729,
+      "num": 259140,
+      "word": "逐玉樊长玉原型",
+      "onboard_time": 1773853098,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53641,
       "num": 90868,
       "word": "追觅连发三款芯片",
@@ -42305,14 +42313,6 @@
       "onboard_time": 1773064283,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 49375,
-      "num": 49375,
-      "word": "逐玉樊长玉原型",
-      "onboard_time": 1773853098,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 49341,
@@ -43259,6 +43259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43859,
+      "num": 60137,
+      "word": "你好1983",
+      "onboard_time": 1773847101,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43837,
       "num": 43837,
       "word": "刘文祥麻辣烫在杂物间煎鸡蛋",
@@ -43620,7 +43628,7 @@
     },
     {
       "raw_hot": 41781,
-      "num": 41781,
+      "num": 60103,
       "word": "没见过掉马甲掉得帅成天神的人",
       "onboard_time": 1773850459,
       "rank": 37,
@@ -43961,14 +43969,6 @@
       "onboard_time": 1772953580,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39900,
-      "num": 39900,
-      "word": "你好1983",
-      "onboard_time": 1773847101,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 39897,
@@ -44460,7 +44460,7 @@
     },
     {
       "raw_hot": 36974,
-      "num": 40058,
+      "num": 60116,
       "word": "袋鼠妈妈被约谈",
       "onboard_time": 1773851060,
       "rank": 39,
@@ -45059,6 +45059,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 33596,
+      "num": 60089,
+      "word": "张凌赫说为了逐玉角色增重很多",
+      "onboard_time": 1773853218,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33574,
       "num": 90973,
       "word": "莫家蝶60米栏金牌",
@@ -45113,6 +45121,14 @@
       "onboard_time": 1772590945,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 33268,
+      "num": 60072,
+      "word": "库克说李宇春是改变世界的人",
+      "onboard_time": 1773854836,
+      "rank": 36,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 33236,
@@ -45348,7 +45364,7 @@
     },
     {
       "raw_hot": 32017,
-      "num": 39693,
+      "num": 60057,
       "word": "4人距缅边境500米跳车逃生",
       "onboard_time": 1773852918,
       "rank": 46,
@@ -45617,14 +45633,6 @@
       "onboard_time": 1772372243,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30050,
-      "num": 39690,
-      "word": "张凌赫说为了逐玉角色增重很多",
-      "onboard_time": 1773853218,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 30045,
@@ -46049,6 +46057,14 @@
       "onboard_time": 1773477500,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27232,
+      "num": 60015,
+      "word": "无双杨戬",
+      "onboard_time": 1773850939,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 27165,

@@ -1,6 +1,6 @@
 {
   "startTime": 1773853886951,
-  "endTime": 1773853886951,
+  "endTime": 1773855395281,
   "band_list": [
     {
       "raw_hot": 485932,
@@ -59,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183589,
+      "num": 397539,
+      "word": "逐玉",
+      "onboard_time": 1773841163,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143665,
       "num": 405509,
       "word": "桃花坞6阵容",
@@ -67,16 +75,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124987,
-      "num": 397539,
-      "word": "逐玉",
-      "onboard_time": 1773841163,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 124424,
-      "num": 124424,
+      "raw_hot": 125110,
+      "num": 125110,
       "word": "BTS演出强制韩国上班族用年假",
       "onboard_time": 1773852019,
       "rank": 14,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 97310,
-      "num": 60565,
+      "num": 62868,
       "word": "AG对战JDG",
       "onboard_time": 1773848123,
       "rank": 20,
@@ -121,6 +121,14 @@
       "onboard_time": 1773843744,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91234,
+      "num": 63526,
+      "word": "金价",
+      "onboard_time": 1773838221,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 90944,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 75873,
-      "num": 60242,
+      "num": 61322,
       "word": "网友抵制AI演员",
       "onboard_time": 1773838343,
       "rank": 21,
@@ -164,23 +172,15 @@
     },
     {
       "raw_hot": 60691,
-      "num": 60691,
+      "num": 66554,
       "word": "无畏的鲁班大师",
       "onboard_time": 1773846742,
       "rank": 19,
       "category": "电竞"
     },
     {
-      "raw_hot": 59639,
-      "num": 59639,
-      "word": "金价",
-      "onboard_time": 1773838221,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 59575,
-      "num": 49395,
+      "num": 60111,
       "word": "美团回应北大毕业送外卖",
       "onboard_time": 1773848901,
       "rank": 30,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 59210,
-      "num": 59210,
+      "num": 60143,
       "word": "4月1日医保新规落地",
       "onboard_time": 1773840622,
       "rank": 23,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 58328,
-      "num": 58328,
+      "num": 60124,
       "word": "赵丽颖直播",
       "onboard_time": 1773831680,
       "rank": 24,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 58055,
-      "num": 58055,
+      "num": 60128,
       "word": "客服笑了半个小时决定去仓库打人",
       "onboard_time": 1773831561,
       "rank": 25,
@@ -212,15 +212,23 @@
     },
     {
       "raw_hot": 56092,
-      "num": 56092,
+      "num": 60150,
       "word": "黄金",
       "onboard_time": 1773833842,
       "rank": 26,
       "category": "财经"
     },
     {
+      "raw_hot": 53729,
+      "num": 259140,
+      "word": "逐玉樊长玉原型",
+      "onboard_time": 1773853098,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51828,
-      "num": 51828,
+      "num": 60102,
       "word": "代拍说王一博上下班公认最难拍",
       "onboard_time": 1773845602,
       "rank": 27,
@@ -228,23 +236,15 @@
     },
     {
       "raw_hot": 49843,
-      "num": 49843,
+      "num": 60070,
       "word": "放了八年的香蕉",
       "onboard_time": 1773843802,
       "rank": 28,
       "category": "幽默"
     },
     {
-      "raw_hot": 49375,
-      "num": 49375,
-      "word": "逐玉樊长玉原型",
-      "onboard_time": 1773853098,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 46903,
-      "num": 46903,
+      "num": 60041,
       "word": "耀客AI演员 赵今麦翟子路",
       "onboard_time": 1773828381,
       "rank": 32,
@@ -252,15 +252,23 @@
     },
     {
       "raw_hot": 44826,
-      "num": 44826,
+      "num": 60065,
       "word": "美国特教女老师1天5次性侵男童",
       "onboard_time": 1773837442,
       "rank": 33,
       "category": "海外新闻"
     },
     {
+      "raw_hot": 43859,
+      "num": 60137,
+      "word": "你好1983",
+      "onboard_time": 1773847101,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42992,
-      "num": 42992,
+      "num": 60053,
       "word": "BLG对战G2",
       "onboard_time": 1773841642,
       "rank": 34,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 42117,
-      "num": 42117,
+      "num": 60004,
       "word": "逐玉预告",
       "onboard_time": 1773839603,
       "rank": 36,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 41781,
-      "num": 41781,
+      "num": 60103,
       "word": "没见过掉马甲掉得帅成天神的人",
       "onboard_time": 1773850459,
       "rank": 37,
@@ -292,23 +300,15 @@
     },
     {
       "raw_hot": 40615,
-      "num": 40615,
+      "num": 60034,
       "word": "日本自研AI被扒底层全是中国代码",
       "onboard_time": 1773847163,
       "rank": 38,
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 39900,
-      "num": 39900,
-      "word": "你好1983",
-      "onboard_time": 1773847101,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39699,
-      "num": 39699,
+      "num": 60081,
       "word": "伊说中东三国石油设施成合法打击目标",
       "onboard_time": 1773844881,
       "rank": 41,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 37503,
-      "num": 49409,
+      "num": 60023,
       "word": "福建一鸭子活吞41只小鸡",
       "onboard_time": 1773825861,
       "rank": 29,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 37310,
-      "num": 39699,
+      "num": 60037,
       "word": "杨威回应杨阳洋成绩不好去香港读书",
       "onboard_time": 1773836601,
       "rank": 42,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 36974,
-      "num": 40058,
+      "num": 60116,
       "word": "袋鼠妈妈被约谈",
       "onboard_time": 1773851060,
       "rank": 39,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 36088,
-      "num": 39697,
+      "num": 60092,
       "word": "文淇周柯宇 一觉醒来十五年",
       "onboard_time": 1773845664,
       "rank": 43,
@@ -355,6 +355,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33596,
+      "num": 60089,
+      "word": "张凌赫说为了逐玉角色增重很多",
+      "onboard_time": 1773853218,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33268,
+      "num": 60072,
+      "word": "库克说李宇春是改变世界的人",
+      "onboard_time": 1773854836,
+      "rank": 36,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 32086,
       "num": 39695,
       "word": "TF家族语音",
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 32017,
-      "num": 39693,
+      "num": 60057,
       "word": "4人距缅边境500米跳车逃生",
       "onboard_time": 1773852918,
       "rank": 46,
@@ -372,19 +388,11 @@
     },
     {
       "raw_hot": 30896,
-      "num": 39692,
+      "num": 60019,
       "word": "容易让人长胖的睡前习惯",
       "onboard_time": 1773829461,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 30050,
-      "num": 39690,
-      "word": "张凌赫说为了逐玉角色增重很多",
-      "onboard_time": 1773853218,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 27608,
@@ -395,11 +403,35 @@
       "category": "财经"
     },
     {
+      "raw_hot": 27232,
+      "num": 60015,
+      "word": "无双杨戬",
+      "onboard_time": 1773850939,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 25871,
       "num": 403653,
       "word": "新一批重大外资项目要来了",
       "onboard_time": 1773839962,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25822,
+      "num": 59998,
+      "word": "张翅直播",
+      "onboard_time": 1773848781,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19646,
+      "num": 59996,
+      "word": "平台获利3.68元被罚30万毫不冤枉",
+      "onboard_time": 1773848123,
+      "rank": 49,
       "category": "民生新闻"
     }
   ],
