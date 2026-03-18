@@ -1,0 +1,410 @@
+{
+  "runTime": 1773871142093,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 90745,
+        "num": 256255,
+        "word": "逐玉",
+        "onboard_time": 1773841163,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85084,
+        "num": 187425,
+        "word": "假装上班公司有员工月入七八万",
+        "onboard_time": 1773848181,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11512,
+        "num": 147229,
+        "word": "新一批重大外资项目要来了",
+        "onboard_time": 1773839962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47247,
+        "num": 47247,
+        "word": "推特崩了",
+        "onboard_time": 1773848543,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34178,
+        "num": 34178,
+        "word": "4人距缅边境500米跳车逃生",
+        "onboard_time": 1773852918,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111294,
+        "num": 33972,
+        "word": "伊朗发射集束弹头导弹袭击以色列",
+        "onboard_time": 1773852139,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65622,
+        "num": 33830,
+        "word": "女子车祸住院429天371天是挂床",
+        "onboard_time": 1773846024,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33348,
+        "num": 33348,
+        "word": "你好1983",
+        "onboard_time": 1773847101,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29139,
+        "num": 29139,
+        "word": "4S店回应拉黑吃饭超260次男子",
+        "onboard_time": 1773842362,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27517,
+        "num": 27517,
+        "word": "女子网红店等位3200多桌排到崩溃",
+        "onboard_time": 1773844343,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85046,
+        "num": 27497,
+        "word": "美联储",
+        "onboard_time": 1773841341,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76468,
+        "num": 27494,
+        "word": "男子遭路虎1分钟恶意别停8次后追尾",
+        "onboard_time": 1773846923,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56185,
+        "num": 27466,
+        "word": "刘冲和迪丽热巴聚餐",
+        "onboard_time": 1773846323,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38412,
+        "num": 27447,
+        "word": "徐若晗 挂脸",
+        "onboard_time": 1773833722,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31545,
+        "num": 27422,
+        "word": "赵丽颖被主持人骗到的反应",
+        "onboard_time": 1773846683,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29133,
+        "num": 27407,
+        "word": "代拍说王一博上下班公认最难拍",
+        "onboard_time": 1773845602,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27916,
+        "num": 27372,
+        "word": "早期田曦薇 真人bjd",
+        "onboard_time": 1773834562,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27368,
+        "num": 27368,
+        "word": "杨威回应杨阳洋成绩不好去香港读书",
+        "onboard_time": 1773836601,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26536,
+        "num": 26536,
+        "word": "美国特教女老师1天5次性侵男童",
+        "onboard_time": 1773837442,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25826,
+        "num": 25826,
+        "word": "伊朗总统证实情报部长遇害",
+        "onboard_time": 1773844163,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65248,
+        "num": 25651,
+        "word": "金价",
+        "onboard_time": 1773838221,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49090,
+        "num": 25432,
+        "word": "黄金",
+        "onboard_time": 1773833842,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38011,
+        "num": 25364,
+        "word": "4月1日医保新规落地",
+        "onboard_time": 1773840622,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25155,
+        "num": 25155,
+        "word": "檀健次 你们当没看到",
+        "onboard_time": 1773835821,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24893,
+        "num": 24893,
+        "word": "伊说中东三国石油设施成合法打击目标",
+        "onboard_time": 1773844881,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24380,
+        "num": 24380,
+        "word": "库克说李宇春是改变世界的人",
+        "onboard_time": 1773854836,
+        "rank": 25,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 23014,
+        "num": 23014,
+        "word": "伊朗石油工业设施遭袭",
+        "onboard_time": 1773845244,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21015,
+        "num": 23014,
+        "word": "网友抵制AI演员",
+        "onboard_time": 1773838343,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18362,
+        "num": 23014,
+        "word": "福建一鸭子活吞41只小鸡",
+        "onboard_time": 1773825861,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16652,
+        "num": 23014,
+        "word": "日本自研AI被扒底层全是中国代码",
+        "onboard_time": 1773847163,
+        "rank": 29,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 16145,
+        "num": 23013,
+        "word": "伊朗发动第62波攻势",
+        "onboard_time": 1773850939,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16094,
+        "num": 23013,
+        "word": "红糖姜汁",
+        "onboard_time": 1773843744,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15829,
+        "num": 23013,
+        "word": "袋鼠妈妈被约谈",
+        "onboard_time": 1773851060,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15718,
+        "num": 23012,
+        "word": "容易让人长胖的睡前习惯",
+        "onboard_time": 1773829461,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15162,
+        "num": 23012,
+        "word": "放了八年的香蕉",
+        "onboard_time": 1773843802,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14854,
+        "num": 23011,
+        "word": "桃花坞6阵容",
+        "onboard_time": 1773847943,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14795,
+        "num": 23011,
+        "word": "美团回应北大毕业送外卖",
+        "onboard_time": 1773848901,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14622,
+        "num": 23010,
+        "word": "没见过掉马甲掉得帅成天神的人",
+        "onboard_time": 1773850459,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13617,
+        "num": 23010,
+        "word": "BTS演出强制韩国上班族用年假",
+        "onboard_time": 1773852019,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13609,
+        "num": 23010,
+        "word": "百花杀耀客新剧发布会",
+        "onboard_time": 1773862693,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13578,
+        "num": 23010,
+        "word": "文科生的春天",
+        "onboard_time": 1773838402,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13468,
+        "num": 23009,
+        "word": "客服笑了半个小时决定去仓库打人",
+        "onboard_time": 1773831561,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12886,
+        "num": 23009,
+        "word": "张凌赫说为了逐玉角色增重很多",
+        "onboard_time": 1773853218,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12619,
+        "num": 23008,
+        "word": "伊朗将严厉报复对能源设施的袭击",
+        "onboard_time": 1773850880,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12153,
+        "num": 23008,
+        "word": "赵丽颖直播",
+        "onboard_time": 1773831680,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11935,
+        "num": 23007,
+        "word": "刘宇宁鞠躬退场直到升降台落下",
+        "onboard_time": 1773870854,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11921,
+        "num": 23007,
+        "word": "灿如繁星",
+        "onboard_time": 1773857774,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11350,
+        "num": 23007,
+        "word": "金价跌破4900美元",
+        "onboard_time": 1773846384,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10887,
+        "num": 23006,
+        "word": "逐玉樊长玉原型",
+        "onboard_time": 1773853098,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9960,
+        "num": 23006,
+        "word": "奇瑞要做真正的新能源车",
+        "onboard_time": 1773839182,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见土库曼斯坦人民委员会主席#"
+    }
+  }
+}
