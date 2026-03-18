@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773846732718,
+  "endTime": 1773848906065,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -121,6 +121,14 @@
       "onboard_time": 1773576866,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1461916,
+      "num": 216735,
+      "word": "刘冲和迪丽热巴聚餐",
+      "onboard_time": 1773846323,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1454600,
@@ -337,14 +345,6 @@
       "onboard_time": 1773628161,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 885741,
-      "num": 216735,
-      "word": "刘冲和迪丽热巴聚餐",
-      "onboard_time": 1773846323,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 873440,
@@ -737,6 +737,14 @@
       "onboard_time": 1773579448,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 596982,
+      "num": 1095517,
+      "word": "逐玉",
+      "onboard_time": 1773483202,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 596859,
@@ -1427,14 +1435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 433716,
-      "num": 1069394,
-      "word": "逐玉",
-      "onboard_time": 1773483202,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 432069,
       "num": 432069,
       "word": "张本美和冠军",
@@ -1968,6 +1968,14 @@
       "word": "仅收280元牙医回应女孩将复查3次",
       "onboard_time": 1773715882,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344457,
+      "num": 217649,
+      "word": "男子遭路虎1分钟恶意别停8次后追尾",
+      "onboard_time": 1773846923,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -2939,6 +2947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251048,
+      "num": 213507,
+      "word": "赵丽颖被主持人骗到的反应",
+      "onboard_time": 1773846683,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250583,
       "num": 136595,
       "word": "宝宝巴士被罚30万元",
@@ -3123,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236180,
+      "num": 216757,
+      "word": "女子车祸住院429天371天是挂床",
+      "onboard_time": 1773846024,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236150,
       "num": 190119,
       "word": "利他性表达",
@@ -3265,6 +3289,14 @@
       "onboard_time": 1773657744,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226375,
+      "num": 226375,
+      "word": "女子网红店等位3200多桌排到崩溃",
+      "onboard_time": 1773844343,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226296,
@@ -3441,14 +3473,6 @@
       "onboard_time": 1773737004,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217353,
-      "num": 217353,
-      "word": "女子网红店等位3200多桌排到崩溃",
-      "onboard_time": 1773844343,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216986,
@@ -4267,6 +4291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172150,
+      "num": 216311,
+      "word": "推特崩了",
+      "onboard_time": 1773848543,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 171975,
       "num": 171975,
       "word": "迪丽热巴代言甄稀冰淇淋",
@@ -4561,6 +4593,14 @@
       "onboard_time": 1773732201,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 158080,
+      "num": 158080,
+      "word": "无畏的鲁班大师",
+      "onboard_time": 1773846742,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 158064,
@@ -4929,6 +4969,14 @@
       "onboard_time": 1773797600,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144158,
+      "num": 144158,
+      "word": "桃花坞6阵容",
+      "onboard_time": 1773847943,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 144057,
@@ -5443,6 +5491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130347,
+      "num": 649919,
+      "word": "BLG对战G2",
+      "onboard_time": 1773841642,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130055,
       "num": 159844,
       "word": "男孩被塞后备箱生父拒绝道歉赔偿",
@@ -5452,7 +5508,7 @@
     },
     {
       "raw_hot": 129788,
-      "num": 115382,
+      "num": 117496,
       "word": "伊朗石油工业设施遭袭",
       "onboard_time": 1773845244,
       "rank": 30,
@@ -5627,6 +5683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125052,
+      "num": 125052,
+      "word": "AG对战JDG",
+      "onboard_time": 1773848123,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124889,
       "num": 124889,
       "word": "5款网红护肝片含量检测全虚标",
@@ -5713,6 +5777,14 @@
       "onboard_time": 1773494964,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122431,
+      "num": 122431,
+      "word": "日本自研AI被扒底层全是中国代码",
+      "onboard_time": 1773847163,
+      "rank": 29,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 122089,
@@ -6651,14 +6723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103773,
-      "num": 649919,
-      "word": "BLG对战G2",
-      "onboard_time": 1773841642,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 103598,
       "num": 557183,
       "word": "腾讯人均年薪成本112.8万",
@@ -7131,14 +7195,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 97463,
-      "num": 97463,
-      "word": "赵丽颖被主持人骗到的反应",
-      "onboard_time": 1773846683,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97457,
       "num": 97457,
       "word": "A股两大利好",
@@ -7531,6 +7587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93213,
+      "num": 215531,
+      "word": "假装上班公司有员工月入七八万",
+      "onboard_time": 1773848181,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93191,
       "num": 93191,
       "word": "papi开辟vintage艺人采访赛道",
@@ -7697,6 +7761,14 @@
       "onboard_time": 1773801081,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91102,
+      "num": 91102,
+      "word": "Helper道歉",
+      "onboard_time": 1773847402,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 91069,
@@ -8971,6 +9043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76708,
+      "num": 76708,
+      "word": "TF家族语音",
+      "onboard_time": 1773847341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76707,
       "num": 78315,
       "word": "马斯克5万美金小屋简陋似仓库",
@@ -9395,6 +9475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72252,
+      "num": 72252,
+      "word": "菠萝和凤梨是啥关系",
+      "onboard_time": 1773845244,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 72238,
       "num": 72238,
       "word": "里弗斯自杀式叫暂停",
@@ -9697,6 +9785,14 @@
       "onboard_time": 1773751702,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66583,
+      "num": 105712,
+      "word": "张翅直播",
+      "onboard_time": 1773505341,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 66473,
@@ -10083,6 +10179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58870,
+      "num": 65451,
+      "word": "9旬夫妻两天内相继去世共同出殡",
+      "onboard_time": 1773847043,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58088,
       "num": 71307,
       "word": "伊朗总统发声明哀悼拉里贾尼",
@@ -10203,14 +10307,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 54902,
-      "num": 105712,
-      "word": "张翅直播",
-      "onboard_time": 1773505341,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 54793,
       "num": 105681,
       "word": "黄子弘凡鸟巢上座率",
@@ -10305,14 +10401,6 @@
       "onboard_time": 1773647609,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 50294,
-      "num": 215952,
-      "word": "女子车祸住院429天371天是挂床",
-      "onboard_time": 1773846024,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50061,
@@ -10971,6 +11059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31076,
+      "num": 636130,
+      "word": "全国春捂地图上线",
+      "onboard_time": 1773839902,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31011,
       "num": 76494,
       "word": "王橹杰 男神蜕变之路",
@@ -11137,14 +11233,6 @@
       "onboard_time": 1773700998,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25675,
-      "num": 636130,
-      "word": "全国春捂地图上线",
-      "onboard_time": 1773839902,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25606,
@@ -11401,6 +11489,14 @@
       "onboard_time": 1773595998,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20173,
+      "num": 153254,
+      "word": "平台获利3.68元被罚30万毫不冤枉",
+      "onboard_time": 1773848123,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19885,
