@@ -1,6 +1,6 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773840521831,
+  "endTime": 1773842395666,
   "band_list": [
     {
       "raw_hot": 2276311,
@@ -19,8 +19,8 @@
       "category": "互联网,作品衍生"
     },
     {
-      "raw_hot": 1329872,
-      "num": 550890,
+      "raw_hot": 1454600,
+      "num": 630067,
       "word": "徐若晗 挂脸",
       "onboard_time": 1773833722,
       "rank": 20,
@@ -88,6 +88,14 @@
       "word": "今天才知道TFBOYS全称",
       "onboard_time": 1773806962,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 624730,
+      "num": 624730,
+      "word": "早期田曦薇 真人bjd",
+      "onboard_time": 1773834562,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 506773,
+      "num": 506773,
+      "word": "金价",
+      "onboard_time": 1773838221,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 497032,
       "num": 325011,
       "word": "果然人老了干什么都心酸",
@@ -243,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 460330,
+      "num": 460330,
+      "word": "文科生的春天",
+      "onboard_time": 1773838402,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 459744,
       "num": 241211,
       "word": "离职要走发现同事在窗口举牌",
@@ -251,20 +275,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 445168,
-      "num": 445168,
-      "word": "早期田曦薇 真人bjd",
-      "onboard_time": 1773834562,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 441019,
       "num": 239498,
       "word": "伊朗总统誓言要为拉里贾尼复仇",
       "onboard_time": 1773796221,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 433716,
+      "num": 1069394,
+      "word": "逐玉",
+      "onboard_time": 1773765678,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 421721,
@@ -435,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326081,
+      "num": 326081,
+      "word": "美联储",
+      "onboard_time": 1773841341,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 322726,
       "num": 164570,
       "word": "英皇还债 惠英红唱跳画全面发展",
@@ -505,6 +537,14 @@
       "onboard_time": 1773826761,
       "rank": 1,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 294293,
+      "num": 294293,
+      "word": "黄金",
+      "onboard_time": 1773833842,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 294107,
@@ -588,7 +628,7 @@
     },
     {
       "raw_hot": 257951,
-      "num": 552854,
+      "num": 706435,
       "word": "伊朗为拉里贾尼举行葬礼",
       "onboard_time": 1773837502,
       "rank": 5,
@@ -619,12 +659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241280,
+      "num": 735921,
+      "word": "黄金怎么不涨反跌",
+      "onboard_time": 1773833121,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 240485,
       "num": 159892,
       "word": "惠英红 备战歌手战长沙",
       "onboard_time": 1773808222,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238598,
+      "num": 238598,
+      "word": "4月1日医保新规落地",
+      "onboard_time": 1773840622,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237394,
@@ -747,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220742,
+      "num": 220742,
+      "word": "网友抵制AI演员",
+      "onboard_time": 1773838343,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219368,
       "num": 257130,
       "word": "3岁女童被虐死前零下20多度遭脱衣",
@@ -835,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202526,
-      "num": 202526,
-      "word": "文科生的春天",
-      "onboard_time": 1773838402,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 190746,
       "num": 190746,
       "word": "小米超强钢获得国家级科技一等奖",
@@ -905,6 +961,14 @@
       "onboard_time": 1773797240,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178869,
+      "num": 720595,
+      "word": "698元海蓝之谜只有瓶子是真的",
+      "onboard_time": 1773837624,
+      "rank": 7,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 178200,
@@ -1011,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164868,
+      "num": 693560,
+      "word": "齐本宫",
+      "onboard_time": 1773840923,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161575,
       "num": 161575,
       "word": "KPL",
@@ -1100,7 +1172,7 @@
     },
     {
       "raw_hot": 150413,
-      "num": 573029,
+      "num": 654688,
       "word": "周启豪获世乒赛参赛名额",
       "onboard_time": 1773838102,
       "rank": 4,
@@ -1113,14 +1185,6 @@
       "onboard_time": 1773789139,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149560,
-      "num": 508526,
-      "word": "698元海蓝之谜只有瓶子是真的",
-      "onboard_time": 1773837624,
-      "rank": 7,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 148930,
@@ -1137,14 +1201,6 @@
       "onboard_time": 1773801020,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148499,
-      "num": 148499,
-      "word": "网友抵制AI演员",
-      "onboard_time": 1773838343,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145773,
@@ -1179,20 +1235,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139836,
+      "num": 139836,
+      "word": "逐玉预告",
+      "onboard_time": 1773839603,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139734,
       "num": 139734,
       "word": "全球机票将涨价",
       "onboard_time": 1773822501,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138933,
-      "num": 222684,
-      "word": "黄金怎么不涨反跌",
-      "onboard_time": 1773833121,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 138176,
@@ -1241,14 +1297,6 @@
       "onboard_time": 1773808763,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130220,
-      "num": 130220,
-      "word": "逐玉预告",
-      "onboard_time": 1773839603,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 130055,
@@ -1355,8 +1403,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 116950,
-      "num": 116950,
+      "raw_hot": 117399,
+      "num": 681010,
       "word": "白玉兰官宣6月26日颁奖",
       "onboard_time": 1773839843,
       "rank": 30,
@@ -1419,8 +1467,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110477,
+      "num": 110477,
+      "word": "什么工作不会被AI替代",
+      "onboard_time": 1773841400,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110015,
-      "num": 175849,
+      "num": 326955,
       "word": "奇瑞要做真正的新能源车",
       "onboard_time": 1773839182,
       "rank": 18,
@@ -1523,6 +1579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103270,
+      "num": 649919,
+      "word": "BLG对战G2",
+      "onboard_time": 1773841642,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102335,
       "num": 102335,
       "word": "金价暴涨的第一批受害者出现了",
@@ -1619,14 +1683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98467,
-      "num": 98467,
-      "word": "金价",
-      "onboard_time": 1773838221,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 98340,
       "num": 98340,
       "word": "赵丽颖短发齐刘海造型",
@@ -1659,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97033,
-      "num": 238447,
-      "word": "黄金",
-      "onboard_time": 1773833842,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 96217,
       "num": 96217,
       "word": "以色列防长称伊朗情报部长已死",
@@ -1683,12 +1731,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95241,
+      "num": 95241,
+      "word": "檀健次 你们当没看到",
+      "onboard_time": 1773835821,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95240,
       "num": 95240,
       "word": "香港打车被提醒副驾不能玩手机",
       "onboard_time": 1773821061,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95102,
+      "num": 95102,
+      "word": "联合国回应拉里贾尼遇害",
+      "onboard_time": 1773839121,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94869,
@@ -1705,14 +1769,6 @@
       "onboard_time": 1773803962,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92724,
-      "num": 92724,
-      "word": "檀健次 你们当没看到",
-      "onboard_time": 1773835821,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 92565,
@@ -2043,6 +2099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77903,
+      "num": 77903,
+      "word": "金银油集体跳水",
+      "onboard_time": 1773840622,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77453,
       "num": 77453,
       "word": "终究理解长辈送礼送米面油了",
@@ -2081,6 +2145,14 @@
       "onboard_time": 1773831561,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75670,
+      "num": 75670,
+      "word": "胖东来小方糖又卖断货了",
+      "onboard_time": 1773841642,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75605,
@@ -2225,6 +2297,14 @@
       "onboard_time": 1773824362,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67032,
+      "num": 750323,
+      "word": "北斗导航机器挖坑在沙漠5秒种1棵树",
+      "onboard_time": 1773839662,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66473,
@@ -2531,14 +2611,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 35125,
-      "num": 594039,
-      "word": "北斗导航机器挖坑在沙漠5秒种1棵树",
-      "onboard_time": 1773839662,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34148,
       "num": 133763,
       "word": "曾被封杀的李一舟又开始卖AI课了",
@@ -2667,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24590,
+      "num": 74832,
+      "word": "4S店回应拉黑吃饭超260次男子",
+      "onboard_time": 1773842362,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24418,
       "num": 133362,
       "word": "小巷人家",
@@ -2681,14 +2761,6 @@
       "onboard_time": 1773815781,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23701,
-      "num": 133395,
-      "word": "逐玉",
-      "onboard_time": 1773765678,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 23414,

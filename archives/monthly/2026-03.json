@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773840521831,
+  "endTime": 1773842395666,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1454600,
+      "num": 630067,
+      "word": "徐若晗 挂脸",
+      "onboard_time": 1773833722,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1451688,
       "num": 615355,
       "word": "腾讯视频回应播放异常",
@@ -737,14 +745,6 @@
       "onboard_time": 1773652225,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1329872,
-      "num": 550890,
-      "word": "徐若晗 挂脸",
-      "onboard_time": 1773833722,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1328633,
@@ -1012,7 +1012,7 @@
     },
     {
       "raw_hot": 1135456,
-      "num": 288208,
+      "num": 506773,
       "word": "金价",
       "onboard_time": 1772262625,
       "rank": 20,
@@ -2076,7 +2076,7 @@
     },
     {
       "raw_hot": 799265,
-      "num": 918243,
+      "num": 1069394,
       "word": "逐玉",
       "onboard_time": 1772372846,
       "rank": 49,
@@ -3345,6 +3345,14 @@
       "onboard_time": 1773633682,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 624730,
+      "num": 624730,
+      "word": "早期田曦薇 真人bjd",
+      "onboard_time": 1773834562,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 624046,
@@ -5715,6 +5723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460330,
+      "num": 460330,
+      "word": "文科生的春天",
+      "onboard_time": 1773838402,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 460150,
       "num": 460150,
       "word": "王鹤棣新歌歌词",
@@ -5985,14 +6001,6 @@
       "onboard_time": 1773219141,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 445168,
-      "num": 445168,
-      "word": "早期田曦薇 真人bjd",
-      "onboard_time": 1773834562,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 445095,
@@ -9147,6 +9155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 326081,
+      "num": 326081,
+      "word": "美联储",
+      "onboard_time": 1773841341,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 326000,
       "num": 326000,
       "word": "伊朗称对林肯号航母发动袭击",
@@ -12012,7 +12028,7 @@
     },
     {
       "raw_hot": 257951,
-      "num": 552854,
+      "num": 706435,
       "word": "伊朗为拉里贾尼举行葬礼",
       "onboard_time": 1773837502,
       "rank": 5,
@@ -12787,6 +12803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 241280,
+      "num": 735921,
+      "word": "黄金怎么不涨反跌",
+      "onboard_time": 1773833121,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 241205,
       "num": 241205,
       "word": "豹豹原来是汗脚",
@@ -12905,6 +12929,14 @@
       "onboard_time": 1773098538,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238598,
+      "num": 238598,
+      "word": "4月1日医保新规落地",
+      "onboard_time": 1773840622,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238576,
@@ -13913,6 +13945,14 @@
       "onboard_time": 1773317661,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220742,
+      "num": 220742,
+      "word": "网友抵制AI演员",
+      "onboard_time": 1773838343,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 220660,
@@ -15001,14 +15041,6 @@
       "onboard_time": 1772610024,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 202526,
-      "num": 202526,
-      "word": "文科生的春天",
-      "onboard_time": 1773838402,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 202521,
@@ -16627,6 +16659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178869,
+      "num": 720595,
+      "word": "698元海蓝之谜只有瓶子是真的",
+      "onboard_time": 1773837624,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 178664,
       "num": 142151,
       "word": "三平台破万的六位演员",
@@ -17808,6 +17848,14 @@
       "word": "等风热吻你",
       "onboard_time": 1773616820,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164868,
+      "num": 693560,
+      "word": "齐本宫",
+      "onboard_time": 1773840923,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -19340,7 +19388,7 @@
     },
     {
       "raw_hot": 150413,
-      "num": 573029,
+      "num": 654688,
       "word": "周启豪获世乒赛参赛名额",
       "onboard_time": 1773838102,
       "rank": 4,
@@ -19417,14 +19465,6 @@
       "onboard_time": 1772376387,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149560,
-      "num": 508526,
-      "word": "698元海蓝之谜只有瓶子是真的",
-      "onboard_time": 1773837624,
-      "rank": 7,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 149555,
@@ -19537,14 +19577,6 @@
       "onboard_time": 1772952799,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 148499,
-      "num": 148499,
-      "word": "网友抵制AI演员",
-      "onboard_time": 1773838343,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 148430,
@@ -20761,14 +20793,6 @@
       "onboard_time": 1773152124,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 138933,
-      "num": 222684,
-      "word": "黄金怎么不涨反跌",
-      "onboard_time": 1773833121,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 138876,
@@ -24051,6 +24075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 117399,
+      "num": 681010,
+      "word": "白玉兰官宣6月26日颁奖",
+      "onboard_time": 1773839843,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117368,
       "num": 117368,
       "word": "法院拍卖布加迪跑车强调无法上牌",
@@ -24145,14 +24177,6 @@
       "onboard_time": 1772364383,
       "rank": 43,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 116950,
-      "num": 116950,
-      "word": "白玉兰官宣6月26日颁奖",
-      "onboard_time": 1773839843,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 116841,
@@ -25339,6 +25363,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 110477,
+      "num": 110477,
+      "word": "什么工作不会被AI替代",
+      "onboard_time": 1773841400,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110334,
       "num": 162162,
       "word": "国际劳动妇女节",
@@ -25404,7 +25436,7 @@
     },
     {
       "raw_hot": 110015,
-      "num": 175849,
+      "num": 326955,
       "word": "奇瑞要做真正的新能源车",
       "onboard_time": 1773839182,
       "rank": 18,
@@ -26945,6 +26977,14 @@
       "onboard_time": 1773742281,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103270,
+      "num": 649919,
+      "word": "BLG对战G2",
+      "onboard_time": 1773841642,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 103212,
@@ -29187,6 +29227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95241,
+      "num": 95241,
+      "word": "檀健次 你们当没看到",
+      "onboard_time": 1773835821,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95240,
       "num": 95240,
       "word": "香港打车被提醒副驾不能玩手机",
@@ -29233,6 +29281,14 @@
       "onboard_time": 1773285201,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95102,
+      "num": 95102,
+      "word": "联合国回应拉里贾尼遇害",
+      "onboard_time": 1773839121,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95077,
@@ -30097,14 +30153,6 @@
       "onboard_time": 1772527288,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92724,
-      "num": 92724,
-      "word": "檀健次 你们当没看到",
-      "onboard_time": 1773835821,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 92670,
@@ -34859,6 +34907,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 77903,
+      "num": 77903,
+      "word": "金银油集体跳水",
+      "onboard_time": 1773840622,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77901,
       "num": 194680,
       "word": "省长说抢不到苏超的票找副省长",
@@ -35721,6 +35777,14 @@
       "onboard_time": 1773831561,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75670,
+      "num": 75670,
+      "word": "胖东来小方糖又卖断货了",
+      "onboard_time": 1773841642,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75657,
@@ -38441,6 +38505,14 @@
       "onboard_time": 1773157103,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67032,
+      "num": 750323,
+      "word": "北斗导航机器挖坑在沙漠5秒种1棵树",
+      "onboard_time": 1773839662,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67011,
@@ -44355,14 +44427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35125,
-      "num": 594039,
-      "word": "北斗导航机器挖坑在沙漠5秒种1棵树",
-      "onboard_time": 1773839662,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 35119,
       "num": 85832,
       "word": "蒋敦豪 经常蹭饭的大馋小子",
@@ -46081,6 +46145,14 @@
       "onboard_time": 1773470302,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 24590,
+      "num": 74832,
+      "word": "4S店回应拉黑吃饭超260次男子",
+      "onboard_time": 1773842362,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24482,
