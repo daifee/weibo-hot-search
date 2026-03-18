@@ -1,0 +1,410 @@
+{
+  "runTime": 1773816055567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 646382,
+        "num": 1103421,
+        "word": "男二以下 AI演员",
+        "onboard_time": 1773794961,
+        "rank": 0,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 519447,
+        "num": 815567,
+        "word": "50岁女职工被强制退休获赔94万",
+        "onboard_time": 1773812300,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34037,
+        "num": 625223,
+        "word": "春暖花开各地文旅持续升温",
+        "onboard_time": 1773805401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357350,
+        "num": 619507,
+        "word": "樊长玉谢征 好孕赘婿",
+        "onboard_time": 1773807321,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302576,
+        "num": 608042,
+        "word": "婴儿倒挂近1分钟爸爸全程玩手机",
+        "onboard_time": 1773810922,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489896,
+        "num": 594204,
+        "word": "以色列因总理身亡传言连发3天视频",
+        "onboard_time": 1773811583,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 349796,
+        "num": 590955,
+        "word": "周杰伦新专辑太阳之子",
+        "onboard_time": 1773812122,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245586,
+        "num": 577303,
+        "word": "建议年轻人少去公园容易伤自尊",
+        "onboard_time": 1773815181,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227461,
+        "num": 565772,
+        "word": "刘文祥麻辣烫店员徒手拌麻酱",
+        "onboard_time": 1773808643,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198793,
+        "num": 552115,
+        "word": "顾客带狗就餐店主砸碎600套餐具",
+        "onboard_time": 1773814400,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551783,
+        "num": 551783,
+        "word": "王祖贤医美",
+        "onboard_time": 1773809963,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453522,
+        "num": 453522,
+        "word": "不是私生 是公立医院出生",
+        "onboard_time": 1773806662,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222955,
+        "num": 395716,
+        "word": "四川高一男孩斑马线上被撞身亡",
+        "onboard_time": 1773810802,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392153,
+        "num": 392153,
+        "word": "曝酷滕雷淞然闹掰原因",
+        "onboard_time": 1773813501,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389160,
+        "num": 389160,
+        "word": "网传落生去世",
+        "onboard_time": 1773808162,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204373,
+        "num": 365659,
+        "word": "美军拟大规模仿制伊朗自杀式无人机",
+        "onboard_time": 1773813803,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 350233,
+        "num": 350233,
+        "word": "何穗孕中期吃一顿饭胖三斤",
+        "onboard_time": 1773810023,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239202,
+        "num": 239202,
+        "word": "今天才知道TFBOYS全称",
+        "onboard_time": 1773806962,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138005,
+        "num": 138005,
+        "word": "雷军再回应新SU7涨价",
+        "onboard_time": 1773812602,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110279,
+        "num": 135573,
+        "word": "买到1箱有针眼水男子称已立案",
+        "onboard_time": 1773808703,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1091989,
+        "num": 133244,
+        "word": "姚晨 侯雯元",
+        "onboard_time": 1773804321,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363655,
+        "num": 131864,
+        "word": "高度近视吹瓶子",
+        "onboard_time": 1773810922,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266065,
+        "num": 127256,
+        "word": "曝小S哭着去陈建州范玮琪家",
+        "onboard_time": 1773800301,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237394,
+        "num": 124780,
+        "word": "姚晨方否认与侯雯元恋情",
+        "onboard_time": 1773815960,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123819,
+        "num": 123819,
+        "word": "拉里贾尼之死对伊朗局势有何影响",
+        "onboard_time": 1773813081,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 421006,
+        "num": 123593,
+        "word": "侯雯元方否认和姚晨恋情",
+        "onboard_time": 1773815001,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213986,
+        "num": 120918,
+        "word": "孔雪儿曾是邓凯的偶像",
+        "onboard_time": 1773810683,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115619,
+        "num": 115619,
+        "word": "改善胰岛素抵抗的关键",
+        "onboard_time": 1773808461,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160857,
+        "num": 114220,
+        "word": "小S街头大哭",
+        "onboard_time": 1773801381,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160124,
+        "num": 113407,
+        "word": "曝胡歌给初恋的手写信",
+        "onboard_time": 1773808883,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116529,
+        "num": 111461,
+        "word": "凤梨居然还能这么切",
+        "onboard_time": 1773815960,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128370,
+        "num": 110706,
+        "word": "王安宇听到粉丝喊不许抱",
+        "onboard_time": 1773812122,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109772,
+        "num": 109772,
+        "word": "樊长玉的身世",
+        "onboard_time": 1773815181,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108332,
+        "num": 108332,
+        "word": "女子投保两年半后确诊患癌遭拒赔",
+        "onboard_time": 1773803542,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102264,
+        "num": 102264,
+        "word": "陈法拉 好莱坞",
+        "onboard_time": 1773810081,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100278,
+        "num": 100278,
+        "word": "河南法院公布胖东来红内裤案办理详情",
+        "onboard_time": 1773813682,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92608,
+        "num": 92608,
+        "word": "伊朗对一名间谍执行死刑",
+        "onboard_time": 1773815720,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87167,
+        "num": 87167,
+        "word": "杨瀚森8分3板3助",
+        "onboard_time": 1773815661,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23277,
+        "num": 86569,
+        "word": "儿子昏迷973天父亲回应过法考维权",
+        "onboard_time": 1773815840,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24092,
+        "num": 86499,
+        "word": "广外免费给师生发3万根甘蔗",
+        "onboard_time": 1773815781,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86452,
+        "num": 86452,
+        "word": "杨幂 想把祖国各种地方都走一走",
+        "onboard_time": 1773810502,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81358,
+        "num": 81358,
+        "word": "流浪猫30天偷了1800只手套",
+        "onboard_time": 1773808763,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81289,
+        "num": 81289,
+        "word": "毛宁向世界分享中国学生午睡神器",
+        "onboard_time": 1773801441,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80480,
+        "num": 80480,
+        "word": "金玟庭一线男刊满贯",
+        "onboard_time": 1773813322,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76893,
+        "num": 76893,
+        "word": "岳雨婷爸爸因破产头发全白",
+        "onboard_time": 1773816023,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76233,
+        "num": 76233,
+        "word": "油价或重回9元时代",
+        "onboard_time": 1773807682,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75605,
+        "num": 75605,
+        "word": "曝萧淑慎老公被判刑四年10个月",
+        "onboard_time": 1773815482,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75251,
+        "num": 75251,
+        "word": "瞿颖回应已婚",
+        "onboard_time": 1773794121,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73690,
+        "num": 73690,
+        "word": "客服 一次用心教学换来终身尴尬",
+        "onboard_time": 1773815901,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74749,
+        "num": 73630,
+        "word": "惠英红 备战歌手战长沙",
+        "onboard_time": 1773808222,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记妙语典明正确政绩观#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1773767506751,
-  "endTime": 1773810887402,
+  "endTime": 1773816055567,
   "band_list": [
     {
       "raw_hot": 2276311,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 769088,
-      "num": 166176,
+      "num": 453522,
       "word": "不是私生 是公立医院出生",
       "onboard_time": 1773806662,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 720738,
-      "num": 166428,
+      "num": 389160,
       "word": "网传落生去世",
       "onboard_time": 1773808162,
       "rank": 11,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 660467,
-      "num": 165729,
+      "num": 239202,
       "word": "今天才知道TFBOYS全称",
       "onboard_time": 1773806962,
       "rank": 12,
@@ -91,12 +91,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551783,
+      "num": 551783,
+      "word": "王祖贤医美",
+      "onboard_time": 1773809963,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532857,
-      "num": 532857,
+      "num": 619507,
       "word": "樊长玉谢征 好孕赘婿",
       "onboard_time": 1773807321,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 519447,
+      "num": 815567,
+      "word": "50岁女职工被强制退休获赔94万",
+      "onboard_time": 1773812300,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 510763,
@@ -107,20 +123,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 489896,
+      "num": 594204,
+      "word": "以色列因总理身亡传言连发3天视频",
+      "onboard_time": 1773811583,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 461754,
       "num": 1028179,
       "word": "多地宣布生物地理不再计入中考总分",
       "onboard_time": 1773761002,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 451222,
-      "num": 165668,
-      "word": "王祖贤医美",
-      "onboard_time": 1773809963,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 441019,
@@ -136,6 +152,14 @@
       "word": "瞿颖回应已婚",
       "onboard_time": 1773794121,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 421006,
+      "num": 123593,
+      "word": "侯雯元方否认和姚晨恋情",
+      "onboard_time": 1773815001,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -155,6 +179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 392153,
+      "num": 392153,
+      "word": "曝酷滕雷淞然闹掰原因",
+      "onboard_time": 1773813501,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368395,
       "num": 865711,
       "word": "刘文祥麻辣烫店员徒手拌麻酱",
@@ -163,12 +195,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334544,
-      "num": 164893,
+      "raw_hot": 363655,
+      "num": 131864,
+      "word": "高度近视吹瓶子",
+      "onboard_time": 1773810922,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 350233,
+      "num": 350233,
       "word": "何穗孕中期吃一顿饭胖三斤",
       "onboard_time": 1773810023,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349796,
+      "num": 590955,
+      "word": "周杰伦新专辑太阳之子",
+      "onboard_time": 1773812122,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 329104,
@@ -209,6 +257,14 @@
       "onboard_time": 1773801561,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 302576,
+      "num": 608042,
+      "word": "婴儿倒挂近1分钟爸爸全程玩手机",
+      "onboard_time": 1773810922,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301470,
@@ -259,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245586,
+      "num": 577303,
+      "word": "建议年轻人少去公园容易伤自尊",
+      "onboard_time": 1773815181,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245501,
       "num": 149004,
       "word": "吕严说蒋诗萌就是用生酮瘦下来的",
@@ -272,6 +336,14 @@
       "word": "惠英红 备战歌手战长沙",
       "onboard_time": 1773808222,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237394,
+      "num": 124780,
+      "word": "姚晨方否认与侯雯元恋情",
+      "onboard_time": 1773815960,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -323,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222955,
+      "num": 395716,
+      "word": "四川高一男孩斑马线上被撞身亡",
+      "onboard_time": 1773810802,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222196,
       "num": 160119,
       "word": "女子怀孕2个月后脑出血智力仅3岁",
       "onboard_time": 1773756984,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213986,
+      "num": 120918,
+      "word": "孔雪儿曾是邓凯的偶像",
+      "onboard_time": 1773810683,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 211644,
@@ -368,6 +456,22 @@
       "word": "刘文祥3名员工后厨抽烟吐槽315",
       "onboard_time": 1773757225,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204373,
+      "num": 365659,
+      "word": "美军拟大规模仿制伊朗自杀式无人机",
+      "onboard_time": 1773813803,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 198793,
+      "num": 552115,
+      "word": "顾客带狗就餐店主砸碎600套餐具",
+      "onboard_time": 1773814400,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -579,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138005,
+      "num": 138005,
+      "word": "雷军再回应新SU7涨价",
+      "onboard_time": 1773812602,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132219,
       "num": 103854,
       "word": "瞿颖胡兵回应为什么没在一起",
@@ -601,6 +713,14 @@
       "onboard_time": 1773806543,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128370,
+      "num": 110706,
+      "word": "王安宇听到粉丝喊不许抱",
+      "onboard_time": 1773812122,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 128001,
@@ -627,6 +747,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 123819,
+      "num": 123819,
+      "word": "拉里贾尼之死对伊朗局势有何影响",
+      "onboard_time": 1773813081,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121815,
       "num": 121815,
       "word": "杨幂 想把祖国各种地方都走一走",
@@ -643,12 +771,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 111977,
-      "num": 111131,
-      "word": "孔雪儿曾是邓凯的偶像",
-      "onboard_time": 1773810683,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 116529,
+      "num": 111461,
+      "word": "凤梨居然还能这么切",
+      "onboard_time": 1773815960,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 109925,
@@ -656,6 +784,14 @@
       "word": "电视剧冬去春来定档",
       "onboard_time": 1773804321,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109772,
+      "num": 109772,
+      "word": "樊长玉的身世",
+      "onboard_time": 1773815181,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -731,6 +867,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 100278,
+      "num": 100278,
+      "word": "河南法院公布胖东来红内裤案办理详情",
+      "onboard_time": 1773813682,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99748,
       "num": 99748,
       "word": "把装满牛奶的杯子倒着放",
@@ -779,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92608,
+      "num": 92608,
+      "word": "伊朗对一名间谍执行死刑",
+      "onboard_time": 1773815720,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92461,
       "num": 108417,
       "word": "游客在壶口瀑布外拍视频被投诉侵权",
@@ -819,14 +971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89896,
-      "num": 89896,
-      "word": "四川高一男孩斑马线上被撞身亡",
-      "onboard_time": 1773810802,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89494,
       "num": 89494,
       "word": "月底加一箱油或多花超100元",
@@ -841,6 +985,14 @@
       "onboard_time": 1773791422,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87167,
+      "num": 87167,
+      "word": "杨瀚森8分3板3助",
+      "onboard_time": 1773815661,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 87030,
@@ -915,12 +1067,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80480,
+      "num": 80480,
+      "word": "金玟庭一线男刊满贯",
+      "onboard_time": 1773813322,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80113,
       "num": 80113,
       "word": "葡萄牙体育惊天大逆转进欧冠8强",
       "onboard_time": 1773797721,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76893,
+      "num": 76893,
+      "word": "岳雨婷爸爸因破产头发全白",
+      "onboard_time": 1773816023,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 76647,
@@ -939,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75605,
+      "num": 75605,
+      "word": "曝萧淑慎老公被判刑四年10个月",
+      "onboard_time": 1773815482,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75308,
       "num": 87216,
       "word": "欧冠",
@@ -952,6 +1128,14 @@
       "word": "最适合家长上的课出现了",
       "onboard_time": 1773798501,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73690,
+      "num": 73690,
+      "word": "客服 一次用心教学换来终身尴尬",
+      "onboard_time": 1773815901,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -1299,12 +1483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24092,
+      "num": 86499,
+      "word": "广外免费给师生发3万根甘蔗",
+      "onboard_time": 1773815781,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23701,
       "num": 133395,
       "word": "逐玉",
       "onboard_time": 1773765678,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23277,
+      "num": 86569,
+      "word": "儿子昏迷973天父亲回应过法考维权",
+      "onboard_time": 1773815840,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23087,
