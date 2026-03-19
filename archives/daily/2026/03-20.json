@@ -1,10 +1,10 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1773936159271,
+  "endTime": 1773936951940,
   "band_list": [
     {
       "raw_hot": 659112,
-      "num": 126998,
+      "num": 133606,
       "word": "胡先煦秒删博",
       "onboard_time": 1773913821,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 259762,
-      "num": 118642,
+      "num": 133353,
       "word": "肖战宝诗龙",
       "onboard_time": 1773932001,
       "rank": 12,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 225200,
-      "num": 117229,
+      "num": 132302,
       "word": "逐玉31集经纪人最爱的一集",
       "onboard_time": 1773930202,
       "rank": 13,
@@ -59,8 +59,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183635,
+      "num": 133043,
+      "word": "月经弄脏卧铺遭索赔女子称很愧疚",
+      "onboard_time": 1773933382,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178696,
-      "num": 108793,
+      "num": 131901,
       "word": "王格格 奔跑吧14",
       "onboard_time": 1773919342,
       "rank": 15,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 177864,
-      "num": 124673,
+      "num": 131751,
       "word": "主人回应7只被偷小狗结伴逃回家",
       "onboard_time": 1773927083,
       "rank": 11,
@@ -91,20 +99,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 160074,
-      "num": 114612,
-      "word": "月经弄脏卧铺遭索赔女子称很愧疚",
-      "onboard_time": 1773933382,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152342,
-      "num": 107112,
+      "num": 131376,
       "word": "逐玉",
       "onboard_time": 1773918802,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151011,
+      "num": 151011,
+      "word": "奔跑吧14",
+      "onboard_time": 1773934463,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 138170,
@@ -115,36 +123,28 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 132610,
-      "num": 132610,
-      "word": "胖东来馒头每人限购12个",
-      "onboard_time": 1773927562,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130732,
-      "num": 105099,
-      "word": "鞠婧祎爱吃白开水泡饭",
-      "onboard_time": 1773921081,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 129660,
-      "num": 129660,
+      "raw_hot": 134765,
+      "num": 134765,
       "word": "伊朗外长回应美2000亿美元战争拨款",
       "onboard_time": 1773920541,
       "rank": 8,
       "category": "国际时政"
     },
     {
-      "raw_hot": 128584,
-      "num": 128584,
-      "word": "奔跑吧14",
-      "onboard_time": 1773934463,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 132610,
+      "num": 133953,
+      "word": "胖东来馒头每人限购12个",
+      "onboard_time": 1773927562,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130956,
+      "num": 130956,
+      "word": "鞠婧祎爱吃白开水泡饭",
+      "onboard_time": 1773921081,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 124138,
@@ -155,7 +155,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112786,
+      "raw_hot": 114629,
       "num": 105048,
       "word": "网传奔跑吧14常驻嘉宾阵容",
       "onboard_time": 1773913223,
@@ -243,8 +243,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 74639,
-      "num": 74639,
+      "raw_hot": 75534,
+      "num": 75534,
       "word": "黄金瀑布式跳水",
       "onboard_time": 1773927323,
       "rank": 31,
@@ -283,6 +283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 66218,
+      "num": 66218,
+      "word": "金饰克价大幅回落了",
+      "onboard_time": 1773934762,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 63053,
       "num": 63053,
       "word": "张凌赫直播",
@@ -297,14 +305,6 @@
       "onboard_time": 1773933981,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60587,
-      "num": 62360,
-      "word": "金饰克价大幅回落了",
-      "onboard_time": 1773934762,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 60268,
@@ -339,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 52776,
+      "num": 62327,
+      "word": "刘耀文杭州",
+      "onboard_time": 1773933442,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52037,
       "num": 62332,
       "word": "坎宁安气胸",
@@ -352,14 +360,6 @@
       "word": "曾舜晞回应下部戏拍什么",
       "onboard_time": 1773931882,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 49923,
-      "num": 62327,
-      "word": "刘耀文杭州",
-      "onboard_time": 1773933442,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -387,8 +387,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25375,
-      "num": 62340,
+      "raw_hot": 42166,
+      "num": 61270,
+      "word": "金价跌到看不懂",
+      "onboard_time": 1773926004,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 32922,
+      "num": 103804,
       "word": "香港荃湾一地起火已疏散近百人",
       "onboard_time": 1773936080,
       "rank": 42,

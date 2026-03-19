@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773936159271,
+  "endTime": 1773936951940,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -4891,6 +4891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183635,
+      "num": 133043,
+      "word": "月经弄脏卧铺遭索赔女子称很愧疚",
+      "onboard_time": 1773933382,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183632,
       "num": 170652,
       "word": "TF四代已实名",
@@ -5555,14 +5563,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 160074,
-      "num": 114612,
-      "word": "月经弄脏卧铺遭索赔女子称很愧疚",
-      "onboard_time": 1773933382,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159662,
       "num": 159662,
       "word": "17岁的Angelababy",
@@ -5873,6 +5873,14 @@
       "onboard_time": 1773803480,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 151011,
+      "num": 151011,
+      "word": "奔跑吧14",
+      "onboard_time": 1773934463,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 150413,
@@ -6721,14 +6729,6 @@
       "onboard_time": 1773562463,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128584,
-      "num": 128584,
-      "word": "奔跑吧14",
-      "onboard_time": 1773934463,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 128565,
@@ -11987,6 +11987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66218,
+      "num": 66218,
+      "word": "金饰克价大幅回落了",
+      "onboard_time": 1773934762,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 66199,
       "num": 66199,
       "word": "AI时代文科生比理科生更吃香",
@@ -12385,14 +12393,6 @@
       "onboard_time": 1773615557,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60587,
-      "num": 62360,
-      "word": "金饰克价大幅回落了",
-      "onboard_time": 1773934762,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 60560,
@@ -12795,6 +12795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52776,
+      "num": 62327,
+      "word": "刘耀文杭州",
+      "onboard_time": 1773933442,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52706,
       "num": 60287,
       "word": "你的妻子您的女徒都是樊长玉",
@@ -12897,14 +12905,6 @@
       "onboard_time": 1773492742,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49923,
-      "num": 62327,
-      "word": "刘耀文杭州",
-      "onboard_time": 1773933442,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 49865,
@@ -13643,6 +13643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32922,
+      "num": 103804,
+      "word": "香港荃湾一地起火已疏散近百人",
+      "onboard_time": 1773936080,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32911,
       "num": 125489,
       "word": "全球多个国家出现麻疹疫情反弹",
@@ -13945,14 +13953,6 @@
       "onboard_time": 1773632481,
       "rank": 27,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 25375,
-      "num": 62340,
-      "word": "香港荃湾一地起火已疏散近百人",
-      "onboard_time": 1773936080,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25157,
