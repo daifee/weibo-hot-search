@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773902197157,
+  "endTime": 1773906849343,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1107723,
-      "num": 262380,
+      "num": 283339,
       "word": "岳雨婷直播美颜掉了",
       "onboard_time": 1773893480,
       "rank": 10,
@@ -1259,6 +1259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 489162,
+      "num": 181352,
+      "word": "迪丽热巴 郝阿三",
+      "onboard_time": 1773901401,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488215,
       "num": 197043,
       "word": "小S回应街头大哭",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1773563662,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 449852,
+      "num": 321921,
+      "word": "1分钟被路虎别停8次当事人发声",
+      "onboard_time": 1773901220,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 448662,
@@ -2211,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340313,
+      "num": 340313,
+      "word": "郭宇欣杀青哭了",
+      "onboard_time": 1773905781,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339857,
       "num": 764754,
       "word": "莫斯科遭大量无人机袭击",
@@ -2435,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317299,
+      "num": 317299,
+      "word": "在公司点奶茶差点被劝退了",
+      "onboard_time": 1773901641,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317042,
       "num": 317042,
       "word": "樊长玉没让谢征牵手",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1773753202,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 312690,
+      "num": 170877,
+      "word": "A股跌破4000点",
+      "onboard_time": 1773904463,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 312535,
@@ -2931,6 +2971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 275274,
+      "num": 275274,
+      "word": "AI观众 AI粉丝 AI打分",
+      "onboard_time": 1773903140,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275238,
       "num": 275397,
       "word": "沙县鸡腿饭中国宝宝的减脂餐",
@@ -3233,6 +3281,14 @@
       "onboard_time": 1773723502,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 254181,
+      "num": 169651,
+      "word": "金银跌疯了",
+      "onboard_time": 1773905901,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 253024,
@@ -3843,14 +3899,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 215571,
-      "num": 181352,
-      "word": "迪丽热巴 郝阿三",
-      "onboard_time": 1773901401,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215266,
       "num": 215266,
       "word": "张凌赫田曦薇逐玉最后一场戏",
@@ -4139,6 +4187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199016,
+      "num": 286191,
+      "word": "6岁娃被妈妈独自丢酒店每天求抱抱",
+      "onboard_time": 1773906381,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198866,
       "num": 198866,
       "word": "谭松韵别试探了有市场",
@@ -4321,6 +4377,14 @@
       "onboard_time": 1773829461,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 188285,
+      "num": 735472,
+      "word": "99岁独居老人突然说舍不得死了",
+      "onboard_time": 1773901520,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187722,
@@ -4617,6 +4681,14 @@
       "onboard_time": 1773627321,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175371,
+      "num": 323359,
+      "word": "银行开始劝退炒金客",
+      "onboard_time": 1773903440,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 175364,
@@ -6195,6 +6267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126394,
+      "num": 126394,
+      "word": "杨雪老公考中戏40分钟交卷",
+      "onboard_time": 1773904942,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126385,
       "num": 126385,
       "word": "香蕉真的会灭绝吗",
@@ -6723,6 +6803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113375,
+      "num": 308077,
+      "word": "贺峻霖的摩托山路十八弯",
+      "onboard_time": 1773902181,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113015,
       "num": 113015,
       "word": "夫妻结婚54年打呼噜也不分床睡",
@@ -7179,6 +7267,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 106453,
+      "num": 106453,
+      "word": "杜塞尔多夫经理透露樊振东薪资",
+      "onboard_time": 1773904762,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106382,
       "num": 106382,
       "word": "小米大涨逾5%",
@@ -7193,6 +7289,14 @@
       "onboard_time": 1773729681,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106278,
+      "num": 98819,
+      "word": "腾讯暴跌原因",
+      "onboard_time": 1773906623,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 106233,
@@ -7273,6 +7377,14 @@
       "onboard_time": 1773550821,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105273,
+      "num": 299180,
+      "word": "亲爱的客栈",
+      "onboard_time": 1773901341,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 105172,
@@ -7915,6 +8027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96772,
+      "num": 168801,
+      "word": "外交部回应伊朗拉里贾尼遇害",
+      "onboard_time": 1773906381,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96760,
       "num": 96760,
       "word": "5岁金毛长期寄养宠夕夕发病身亡",
@@ -7969,6 +8089,14 @@
       "onboard_time": 1773831201,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96208,
+      "num": 96208,
+      "word": "减肥人老了以后",
+      "onboard_time": 1773904822,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 95965,
@@ -8619,6 +8747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89658,
+      "num": 89658,
+      "word": "市场预期彻底变了",
+      "onboard_time": 1773903201,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89587,
       "num": 89587,
       "word": "21岁男生习惯整吞瓜子致肠穿孔",
@@ -9115,6 +9251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85141,
+      "num": 85141,
+      "word": "AI艺人 硬凹活人感",
+      "onboard_time": 1773905661,
+      "rank": 35,
+      "category": "互联网,作品衍生"
+    },
+    {
       "raw_hot": 85074,
       "num": 174799,
       "word": "成都通报漂白鸡爪",
@@ -9385,6 +9529,14 @@
       "onboard_time": 1773896781,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82506,
+      "num": 82506,
+      "word": "在清华捡到的古早小广告",
+      "onboard_time": 1773905061,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 82473,
@@ -9659,14 +9811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79859,
-      "num": 79859,
-      "word": "1分钟被路虎别停8次当事人发声",
-      "onboard_time": 1773901220,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79857,
       "num": 79857,
       "word": "马斯克点赞深圳小孩哥",
@@ -9747,22 +9891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78910,
-      "num": 93272,
-      "word": "99岁独居老人突然说舍不得死了",
-      "onboard_time": 1773901520,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78822,
-      "num": 117815,
-      "word": "亲爱的客栈",
-      "onboard_time": 1773901341,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 78483,
       "num": 78483,
       "word": "防止邻居太吵的方法找到了",
@@ -9809,6 +9937,14 @@
       "onboard_time": 1773559584,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78199,
+      "num": 78199,
+      "word": "霸王茶姬 张凌赫杯贴",
+      "onboard_time": 1773906199,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 77903,
@@ -9865,6 +10001,14 @@
       "onboard_time": 1773897202,
       "rank": 42,
       "category": "军事"
+    },
+    {
+      "raw_hot": 77441,
+      "num": 77441,
+      "word": "王楚钦孙颖莎双打世界杯海报",
+      "onboard_time": 1773906081,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 77425,
@@ -10025,14 +10169,6 @@
       "onboard_time": 1773500663,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 76296,
-      "num": 76296,
-      "word": "在公司点奶茶差点被劝退了",
-      "onboard_time": 1773901641,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 76252,
@@ -10563,6 +10699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70801,
+      "num": 70801,
+      "word": "A股守住4000点",
+      "onboard_time": 1773906020,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 70648,
       "num": 76614,
       "word": "A股全市场38股涨停",
@@ -10921,6 +11065,14 @@
       "onboard_time": 1773828801,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65019,
+      "num": 65019,
+      "word": "剑来这首歌唱的是别来无恙",
+      "onboard_time": 1773906321,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 64886,
@@ -12755,6 +12907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19402,
+      "num": 245022,
+      "word": "今天适合把春天装进工位",
+      "onboard_time": 1773904044,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19081,
       "num": 19532,
       "word": "肖战匠心赴长路",
@@ -12827,6 +12987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17753,
+      "num": 173316,
+      "word": "街头多次踢踹幼女老太为亲外婆",
+      "onboard_time": 1773906321,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17621,
       "num": 17621,
       "word": "刘宇宁一开口吃了一嘴的纸",
@@ -12841,6 +13009,14 @@
       "onboard_time": 1773656602,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17283,
+      "num": 611462,
+      "word": "数读2025海洋经济公报",
+      "onboard_time": 1773906081,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17199,
@@ -13049,6 +13225,14 @@
       "onboard_time": 1773770716,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11649,
+      "num": 79248,
+      "word": "业内称防晒衣等功能服装在涨价前夜",
+      "onboard_time": 1773905962,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11288,
