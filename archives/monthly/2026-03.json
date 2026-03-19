@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773888503697,
+  "endTime": 1773890836941,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -2099,6 +2099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 798160,
+      "num": 1127705,
+      "word": "歌手2026拟邀",
+      "onboard_time": 1773886279,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 797802,
       "num": 797802,
       "word": "315像是来审判我的",
@@ -3371,14 +3379,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 625338,
-      "num": 794926,
-      "word": "歌手2026拟邀",
-      "onboard_time": 1773886279,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 624730,
       "num": 624730,
       "word": "早期田曦薇 真人bjd",
@@ -4073,6 +4073,14 @@
       "onboard_time": 1773099622,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 567990,
+      "num": 201725,
+      "word": "张凌赫杂志",
+      "onboard_time": 1773889940,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 566413,
@@ -6401,6 +6409,14 @@
       "onboard_time": 1773215303,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431580,
+      "num": 431580,
+      "word": "周也演技",
+      "onboard_time": 1773885320,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 430591,
@@ -8939,6 +8955,14 @@
       "category": "作品衍生,互联网"
     },
     {
+      "raw_hot": 335298,
+      "num": 335298,
+      "word": "妻子肺癌晚期求丈夫送至安宁病房",
+      "onboard_time": 1773886820,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334895,
       "num": 293511,
       "word": "谢征没有言正帅 谁上班谁知道",
@@ -9649,6 +9673,14 @@
       "onboard_time": 1772849660,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317042,
+      "num": 317042,
+      "word": "樊长玉没让谢征牵手",
+      "onboard_time": 1773886880,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 316855,
@@ -10396,7 +10428,7 @@
     },
     {
       "raw_hot": 300151,
-      "num": 279872,
+      "num": 286641,
       "word": "美将只剩一艘航母用于对伊朗袭击",
       "onboard_time": 1773883580,
       "rank": 5,
@@ -10771,6 +10803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290578,
+      "num": 183615,
+      "word": "小米汽车 舒淇",
+      "onboard_time": 1773884120,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290404,
       "num": 290404,
       "word": "结婚后住上男女混寝了",
@@ -11049,14 +11089,6 @@
       "onboard_time": 1772323099,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283975,
-      "num": 283975,
-      "word": "周也演技",
-      "onboard_time": 1773885320,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 283889,
@@ -11633,14 +11665,6 @@
       "onboard_time": 1773577225,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 270793,
-      "num": 270793,
-      "word": "妻子肺癌晚期求丈夫送至安宁病房",
-      "onboard_time": 1773886820,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 270409,
@@ -13579,6 +13603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231572,
+      "num": 183531,
+      "word": "小酒窝不想看妈妈在剧里被打",
+      "onboard_time": 1773889279,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230952,
       "num": 230952,
       "word": "湘雅医院坠江学生曾多次求助",
@@ -13873,14 +13905,6 @@
       "onboard_time": 1772633486,
       "rank": 31,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 225643,
-      "num": 129082,
-      "word": "小米汽车 舒淇",
-      "onboard_time": 1773884120,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 225523,
@@ -14337,6 +14361,14 @@
       "onboard_time": 1772874082,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218756,
+      "num": 203267,
+      "word": "银行金条1克难求",
+      "onboard_time": 1773887841,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 218629,
@@ -16220,7 +16252,7 @@
     },
     {
       "raw_hot": 189577,
-      "num": 127336,
+      "num": 183758,
       "word": "伊朗发起报复行动",
       "onboard_time": 1773881362,
       "rank": 21,
@@ -16625,6 +16657,14 @@
       "onboard_time": 1773829822,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183489,
+      "num": 183489,
+      "word": "印度一家人将老人装进麻袋寄快递",
+      "onboard_time": 1773886701,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 183403,
@@ -17849,14 +17889,6 @@
       "onboard_time": 1772583505,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167581,
-      "num": 93421,
-      "word": "印度一家人将老人装进麻袋寄快递",
-      "onboard_time": 1773886701,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 167574,
@@ -20116,7 +20148,7 @@
     },
     {
       "raw_hot": 147268,
-      "num": 126784,
+      "num": 140595,
       "word": "如果一个人长期不工作",
       "onboard_time": 1773878781,
       "rank": 22,
@@ -21835,14 +21867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133932,
-      "num": 123781,
-      "word": "樊长玉没让谢征牵手",
-      "onboard_time": 1773886880,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133909,
       "num": 223322,
       "word": "美国驻沙特大使馆遭袭起火",
@@ -23521,14 +23545,6 @@
       "onboard_time": 1773071181,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 122826,
-      "num": 122826,
-      "word": "银行金条1克难求",
-      "onboard_time": 1773887841,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 122825,
@@ -26171,6 +26187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109208,
+      "num": 101705,
+      "word": "大冰10分钟解决性格软弱问题",
+      "onboard_time": 1773890241,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 109133,
       "num": 211406,
       "word": "人社部部长回应AI抢饭碗言论",
@@ -27329,6 +27353,14 @@
       "onboard_time": 1772549131,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103923,
+      "num": 103923,
+      "word": "逐玉26集封神",
+      "onboard_time": 1773890481,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 103871,
@@ -30275,6 +30307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 93820,
+      "num": 93820,
+      "word": "徐若晗明媚",
+      "onboard_time": 1773885921,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93772,
       "num": 93772,
       "word": "医生回应女子泡脚3个月皮肤变色",
@@ -30553,6 +30593,14 @@
       "onboard_time": 1772966300,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93255,
+      "num": 97722,
+      "word": "高市早苗开启任后首次访美",
+      "onboard_time": 1773889881,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93240,
@@ -31835,6 +31883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89147,
+      "num": 89147,
+      "word": "现货黄金白银翻红",
+      "onboard_time": 1773889821,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89077,
       "num": 89077,
       "word": "伊朗表示无意与美谈判",
@@ -32041,6 +32097,14 @@
       "onboard_time": 1773305961,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88465,
+      "num": 88465,
+      "word": "周也为什么给自己名字前加个土",
+      "onboard_time": 1773890540,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 88462,
@@ -32321,6 +32385,14 @@
       "onboard_time": 1772690843,
       "rank": 39,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 87597,
+      "num": 87597,
+      "word": "孙颖莎一回头何卓佳也在拍",
+      "onboard_time": 1773889940,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 87566,
@@ -32609,14 +32681,6 @@
       "onboard_time": 1772954120,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 86814,
-      "num": 86814,
-      "word": "徐若晗明媚",
-      "onboard_time": 1773885921,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 86756,
@@ -33345,6 +33409,14 @@
       "onboard_time": 1773467600,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84641,
+      "num": 84641,
+      "word": "多家银行金条断货",
+      "onboard_time": 1773890000,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 84478,
@@ -34987,6 +35059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79857,
+      "num": 79857,
+      "word": "马斯克点赞深圳小孩哥",
+      "onboard_time": 1773886100,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 79846,
       "num": 79846,
       "word": "世界最强超高强度碳纤维来了",
@@ -35145,14 +35225,6 @@
       "onboard_time": 1772936301,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 79145,
-      "num": 79145,
-      "word": "马斯克点赞深圳小孩哥",
-      "onboard_time": 1773886100,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 79135,
@@ -36891,6 +36963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74534,
+      "num": 74534,
+      "word": "罗福莉宣布小米新模型将开源",
+      "onboard_time": 1773890120,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 74531,
       "num": 308226,
       "word": "岳父婚礼现场返还彩礼后续",
@@ -37499,6 +37579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 72893,
+      "num": 72893,
+      "word": "国内油价或迎第五涨",
+      "onboard_time": 1773890120,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72887,
       "num": 72887,
       "word": "肖战再度现身高中试卷",
@@ -37633,6 +37721,14 @@
       "onboard_time": 1772558779,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72516,
+      "num": 72516,
+      "word": "詹姆斯半场8中8轰18分",
+      "onboard_time": 1773890720,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 72496,
@@ -37889,6 +37985,14 @@
       "onboard_time": 1772523929,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71755,
+      "num": 71755,
+      "word": "何穗有容貌焦虑",
+      "onboard_time": 1773890779,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 71731,
@@ -38763,6 +38867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68851,
+      "num": 68851,
+      "word": "王腾建议手机厂商不发新机",
+      "onboard_time": 1773889699,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 68839,
       "num": 68839,
       "word": "盈科律所高层回应创始人被传暴雷",
@@ -39505,6 +39617,14 @@
       "onboard_time": 1772432183,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65972,
+      "num": 172732,
+      "word": "爱心面馆获众人接力",
+      "onboard_time": 1773889401,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 65947,
@@ -42396,7 +42516,7 @@
     },
     {
       "raw_hot": 52479,
-      "num": 617066,
+      "num": 662575,
       "word": "新一批重大外资项目要来了",
       "onboard_time": 1773839962,
       "rank": 27,
@@ -43065,6 +43185,14 @@
       "onboard_time": 1772893823,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48523,
+      "num": 171297,
+      "word": "北大毕业送外卖男子称自己眼高手低",
+      "onboard_time": 1773890421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48385,
@@ -46107,6 +46235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30130,
+      "num": 67697,
+      "word": "跑腿师傅爬着进门怕弄脏地板",
+      "onboard_time": 1773889520,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 30121,
       "num": 714095,
       "word": "全国政协会议议程来了",
@@ -46264,6 +46400,14 @@
       "word": "哈尔滨19米高网红大雪人被拆除",
       "onboard_time": 1772639842,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29439,
+      "num": 183648,
+      "word": "春分拍到的治愈瞬间",
+      "onboard_time": 1773889339,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
