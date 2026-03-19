@@ -1,0 +1,410 @@
+{
+  "runTime": 1773900482587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 462490,
+        "num": 1073998,
+        "word": "演唱会恐怖游轮",
+        "onboard_time": 1773896063,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 446980,
+        "num": 758106,
+        "word": "曝世卫组织正在为核灾难做准备",
+        "onboard_time": 1773894142,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58315,
+        "num": 639845,
+        "word": "中国人种树太硬核",
+        "onboard_time": 1773893301,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345698,
+        "num": 345698,
+        "word": "蓝莓价格大跳水了",
+        "onboard_time": 1773898160,
+        "rank": 3,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 338961,
+        "num": 338961,
+        "word": "委内瑞拉击败美国夺冠 全国放假一天",
+        "onboard_time": 1773893901,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288938,
+        "num": 288938,
+        "word": "我把协和大夫的笔顺走了",
+        "onboard_time": 1773894623,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283732,
+        "num": 283732,
+        "word": "李卿 上桌",
+        "onboard_time": 1773896422,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149546,
+        "num": 278785,
+        "word": "美将只剩一艘航母用于对伊朗袭击",
+        "onboard_time": 1773883580,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 153170,
+        "num": 275720,
+        "word": "逐玉26集封神",
+        "onboard_time": 1773890481,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146670,
+        "num": 266230,
+        "word": "4S店称吃饭超260次客户已报警",
+        "onboard_time": 1773881242,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 918477,
+        "num": 262026,
+        "word": "岳雨婷直播美颜掉了",
+        "onboard_time": 1773893480,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447982,
+        "num": 252736,
+        "word": "张凌赫杂志",
+        "onboard_time": 1773889940,
+        "rank": 11,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 251531,
+        "num": 251531,
+        "word": "北大毕业送外卖男子称自己眼高手低",
+        "onboard_time": 1773890421,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435236,
+        "num": 251330,
+        "word": "周杰伦新专 圣诞星",
+        "onboard_time": 1773895881,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281786,
+        "num": 250664,
+        "word": "任敏10年前考上全球前十表演学校",
+        "onboard_time": 1773896242,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249919,
+        "num": 249919,
+        "word": "油价",
+        "onboard_time": 1773893301,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 246844,
+        "num": 246844,
+        "word": "赵丽颖喜欢自己的新发型",
+        "onboard_time": 1773896002,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154813,
+        "num": 193931,
+        "word": "妻子肺癌晚期求丈夫送至安宁病房",
+        "onboard_time": 1773886820,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131786,
+        "num": 190207,
+        "word": "金价下跌也买不到",
+        "onboard_time": 1773897979,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128208,
+        "num": 189837,
+        "word": "伊朗发起报复行动",
+        "onboard_time": 1773881362,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189642,
+        "num": 189642,
+        "word": "原来命运真的有伏笔",
+        "onboard_time": 1773895344,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20072,
+        "num": 188974,
+        "word": "春分许愿到底灵不灵",
+        "onboard_time": 1773900141,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188761,
+        "num": 188761,
+        "word": "AI演员 粉丝",
+        "onboard_time": 1773898701,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178214,
+        "num": 178214,
+        "word": "作曲家称遭YG强迫堕胎",
+        "onboard_time": 1773891441,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126371,
+        "num": 168137,
+        "word": "A股",
+        "onboard_time": 1773887360,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167299,
+        "num": 167299,
+        "word": "歌手2026拟邀",
+        "onboard_time": 1773886279,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145957,
+        "num": 145957,
+        "word": "瞿颖胡兵曾相约都单身就生个孩子",
+        "onboard_time": 1773894263,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116957,
+        "num": 116957,
+        "word": "生父回应将9岁儿子塞进后备箱",
+        "onboard_time": 1773898701,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131107,
+        "num": 116403,
+        "word": "何穗产后掉眉毛睫毛",
+        "onboard_time": 1773897022,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112608,
+        "num": 112608,
+        "word": "一个非常降低好感的小细节",
+        "onboard_time": 1773895881,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168471,
+        "num": 110881,
+        "word": "男生热水烫开奶茶袋藏天南地图",
+        "onboard_time": 1773899540,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132855,
+        "num": 109937,
+        "word": "乌克兰暴力征兵画面曝光",
+        "onboard_time": 1773899720,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121893,
+        "num": 109799,
+        "word": "恋与深空新周边",
+        "onboard_time": 1773898999,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108851,
+        "num": 108851,
+        "word": "贾国龙创办新品牌承接部分西贝员工",
+        "onboard_time": 1773899121,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108281,
+        "num": 108281,
+        "word": "小米汽车 舒淇",
+        "onboard_time": 1773884120,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101473,
+        "num": 101473,
+        "word": "KPOP解约大年",
+        "onboard_time": 1773897621,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83247,
+        "num": 83247,
+        "word": "俄罗斯考虑提前对欧断供天然气",
+        "onboard_time": 1773894863,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90138,
+        "num": 83013,
+        "word": "瞿颖与老公未领证未举办婚礼",
+        "onboard_time": 1773894263,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89515,
+        "num": 82692,
+        "word": "AI演员 假人感",
+        "onboard_time": 1773884061,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82225,
+        "num": 82225,
+        "word": "胖东来小方糖戒指被炒到249元",
+        "onboard_time": 1773898824,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80078,
+        "num": 80078,
+        "word": "张凌赫的杂志销量",
+        "onboard_time": 1773895522,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79404,
+        "num": 79404,
+        "word": "男孩讲述被生父继母塞后备箱细节",
+        "onboard_time": 1773900081,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77445,
+        "num": 77445,
+        "word": "东部战区展示越海杀器",
+        "onboard_time": 1773897202,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 75542,
+        "num": 75542,
+        "word": "沙县鸡腿饭中国宝宝的减脂餐",
+        "onboard_time": 1773883100,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 74138,
+        "num": 74138,
+        "word": "乒乓球双打也要有大满贯了",
+        "onboard_time": 1773897742,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70981,
+        "num": 70981,
+        "word": "张小斐前经纪人关注迪丽热巴",
+        "onboard_time": 1773880582,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68212,
+        "num": 68212,
+        "word": "不运动也能减重的7个方法",
+        "onboard_time": 1773900381,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 67164,
+        "num": 67164,
+        "word": "小狗突然关机",
+        "onboard_time": 1773899360,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66503,
+        "num": 66503,
+        "word": "印度一家人将老人装进麻袋寄快递",
+        "onboard_time": 1773886701,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64886,
+        "num": 64886,
+        "word": "国际乒联盛赞王楚钦孙颖莎组合",
+        "onboard_time": 1773897742,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#上个马年他赠予习近平一匹汗血马#"
+    }
+  }
+}
