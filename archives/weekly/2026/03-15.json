@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773878012343,
+  "endTime": 1773888503697,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -515,6 +515,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 709136,
+      "num": 1113461,
+      "word": "男子因虚荣心冒充消防员多店检查",
+      "onboard_time": 1773885081,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 700892,
       "num": 539818,
       "word": "以军认为成功暗杀拉里贾尼",
@@ -649,6 +657,14 @@
       "onboard_time": 1773633682,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 625338,
+      "num": 794926,
+      "word": "歌手2026拟邀",
+      "onboard_time": 1773886279,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 624730,
@@ -891,6 +907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 569703,
+      "num": 247454,
+      "word": "金价银价又崩了",
+      "onboard_time": 1773884359,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 565436,
       "num": 169476,
       "word": "21岁女孩被亲妈饿到30公斤虐死",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1773812300,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517773,
+      "num": 245550,
+      "word": "THEBOYZ解约",
+      "onboard_time": 1773887661,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 517160,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1773559462,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432264,
+      "num": 245056,
+      "word": "AI演员 假人感",
+      "onboard_time": 1773884061,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 432069,
@@ -1873,6 +1913,14 @@
       "onboard_time": 1773743182,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 359292,
+      "num": 359292,
+      "word": "4S店称吃饭超260次客户已报警",
+      "onboard_time": 1773881242,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358653,
@@ -2459,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300151,
+      "num": 279872,
+      "word": "美将只剩一艘航母用于对伊朗袭击",
+      "onboard_time": 1773883580,
+      "rank": 5,
+      "category": "军事"
+    },
+    {
       "raw_hot": 299265,
       "num": 788996,
       "word": "腾讯发布2025年财报",
@@ -2524,7 +2580,7 @@
     },
     {
       "raw_hot": 295218,
-      "num": 177817,
+      "num": 242205,
       "word": "A股",
       "onboard_time": 1773627621,
       "rank": 12,
@@ -2587,11 +2643,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 285529,
+      "num": 68368,
+      "word": "何晟铭看于正动态红了眼",
+      "onboard_time": 1773879860,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285101,
       "num": 285101,
       "word": "谢征吻完眼里不是欲望是恐慌",
       "onboard_time": 1773797721,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 283975,
+      "num": 283975,
+      "word": "周也演技",
+      "onboard_time": 1773885320,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -2691,6 +2763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 275238,
+      "num": 275238,
+      "word": "沙县鸡腿饭中国宝宝的减脂餐",
+      "onboard_time": 1773883100,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 274964,
       "num": 165220,
       "word": "高市早苗回应不谴责美以言论被批",
@@ -2745,6 +2825,14 @@
       "onboard_time": 1773577225,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 270793,
+      "num": 270793,
+      "word": "妻子肺癌晚期求丈夫送至安宁病房",
+      "onboard_time": 1773886820,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270409,
@@ -3132,7 +3220,7 @@
     },
     {
       "raw_hot": 241036,
-      "num": 103097,
+      "num": 116613,
       "word": "当老公得知宝宝鞋子的价格",
       "onboard_time": 1773876079,
       "rank": 30,
@@ -3145,6 +3233,14 @@
       "onboard_time": 1773568821,
       "rank": 12,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 240500,
+      "num": 240500,
+      "word": "霍尔木兹海峡原来是石油盆地的唯一豁口",
+      "onboard_time": 1773881541,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 240485,
@@ -3385,6 +3481,14 @@
       "onboard_time": 1773822262,
       "rank": 30,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 225643,
+      "num": 129082,
+      "word": "小米汽车 舒淇",
+      "onboard_time": 1773884120,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 224715,
@@ -3979,6 +4083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189577,
+      "num": 127336,
+      "word": "伊朗发起报复行动",
+      "onboard_time": 1773881362,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189532,
       "num": 1051075,
       "word": "以为是火腿肠其实是炸药",
@@ -4176,6 +4288,14 @@
       "word": "刘在石经常使用的破冰问题",
       "onboard_time": 1773720443,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180092,
+      "num": 180092,
+      "word": "曝带货女明星学佛人设是炒作",
+      "onboard_time": 1773879622,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -4435,6 +4555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167581,
+      "num": 93421,
+      "word": "印度一家人将老人装进麻袋寄快递",
+      "onboard_time": 1773886701,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 167521,
       "num": 167521,
       "word": "家有七郎开机",
@@ -4473,6 +4601,14 @@
       "onboard_time": 1773796162,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166434,
+      "num": 250392,
+      "word": "谢征的毕业论文",
+      "onboard_time": 1773881662,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 166214,
@@ -4619,6 +4755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160306,
+      "num": 160306,
+      "word": "71岁老人花200万买基金亏了85万",
+      "onboard_time": 1773880582,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160219,
       "num": 160219,
       "word": "伊朗官员称乌克兰已成打击目标",
@@ -4705,6 +4849,14 @@
       "onboard_time": 1773754762,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 157500,
+      "num": 124277,
+      "word": "美国以色列有分歧了",
+      "onboard_time": 1773883701,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 157321,
@@ -4947,6 +5099,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 147268,
+      "num": 126784,
+      "word": "如果一个人长期不工作",
+      "onboard_time": 1773878781,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147224,
       "num": 147224,
       "word": "章昊大学考卷",
@@ -5073,6 +5233,14 @@
       "onboard_time": 1773757344,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143875,
+      "num": 143875,
+      "word": "戴军曝潜水时曾被拔呼吸器威胁",
+      "onboard_time": 1773880643,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 143687,
@@ -5424,6 +5592,14 @@
       "word": "卢昱晓被家乡台贴脸开大",
       "onboard_time": 1773635183,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133932,
+      "num": 123781,
+      "word": "樊长玉没让谢征牵手",
+      "onboard_time": 1773886880,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -5897,6 +6073,14 @@
       "onboard_time": 1773494964,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122826,
+      "num": 122826,
+      "word": "银行金条1克难求",
+      "onboard_time": 1773887841,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 122431,
@@ -6761,6 +6945,14 @@
       "onboard_time": 1773820582,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105532,
+      "num": 105532,
+      "word": "小米大模型",
+      "onboard_time": 1773882500,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 105471,
@@ -7683,6 +7875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93665,
+      "num": 93665,
+      "word": "云旗 滋源",
+      "onboard_time": 1773886341,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93634,
       "num": 93634,
       "word": "网红锅巴公司已停产停售",
@@ -7809,6 +8009,14 @@
       "onboard_time": 1773798980,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 92231,
+      "num": 92231,
+      "word": "女子体检医院出具三份不同CT报告",
+      "onboard_time": 1773887061,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92228,
@@ -8219,6 +8427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87255,
+      "num": 87255,
+      "word": "湖人vs火箭",
+      "onboard_time": 1773886461,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87240,
       "num": 123263,
       "word": "两人敲晕老年犬丢垃圾桶致死被罚款",
@@ -8307,12 +8523,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86814,
+      "num": 86814,
+      "word": "徐若晗明媚",
+      "onboard_time": 1773885921,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86679,
       "num": 210636,
       "word": "樊振东表示一切尚新未来会更好",
       "onboard_time": 1773532519,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86551,
+      "num": 86551,
+      "word": "专家说一夜无梦才是好睡眠系误解",
+      "onboard_time": 1773882141,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 86496,
@@ -8635,6 +8867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83581,
+      "num": 83581,
+      "word": "深圳17岁高三生成Kimi论文第一作者",
+      "onboard_time": 1773884301,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 83281,
       "num": 83281,
       "word": "不挑食 感观度低",
@@ -8931,6 +9171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80223,
+      "num": 80223,
+      "word": "AI演员开通账号",
+      "onboard_time": 1773884840,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80128,
       "num": 80128,
       "word": "邓凯怎么这么窄",
@@ -9009,6 +9257,14 @@
       "onboard_time": 1773658703,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79145,
+      "num": 79145,
+      "word": "马斯克点赞深圳小孩哥",
+      "onboard_time": 1773886100,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 78995,
@@ -9811,6 +10067,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 70012,
+      "num": 70012,
+      "word": "男童被塞后备箱生母称绝不妥协",
+      "onboard_time": 1773878601,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69799,
       "num": 69799,
       "word": "旅行中的几种人belike",
@@ -9883,6 +10147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 68714,
+      "num": 68714,
+      "word": "美国防部因打伊朗要求加2000亿预算",
+      "onboard_time": 1773883220,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68165,
       "num": 68165,
       "word": "买了东西先过咪检",
@@ -9913,6 +10185,14 @@
       "onboard_time": 1773725902,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67919,
+      "num": 67919,
+      "word": "油价上涨对哪种材质衣服影响最大",
+      "onboard_time": 1773885441,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 67843,
@@ -9953,6 +10233,14 @@
       "onboard_time": 1773498923,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67061,
+      "num": 67061,
+      "word": "梅西创足坛进球数最快最年轻纪录",
+      "onboard_time": 1773885021,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 67056,
@@ -10604,7 +10892,7 @@
     },
     {
       "raw_hot": 52479,
-      "num": 608970,
+      "num": 617066,
       "word": "新一批重大外资项目要来了",
       "onboard_time": 1773839962,
       "rank": 27,
