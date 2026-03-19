@@ -1,0 +1,410 @@
+{
+  "runTime": 1773897119631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 485301,
+        "num": 1077648,
+        "word": "委内瑞拉击败美国夺冠 全国放假一天",
+        "onboard_time": 1773893901,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263992,
+        "num": 777647,
+        "word": "4S店称吃饭超260次客户已报警",
+        "onboard_time": 1773881242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59170,
+        "num": 605005,
+        "word": "中国人种树太硬核",
+        "onboard_time": 1773893301,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248036,
+        "num": 248036,
+        "word": "曝世卫组织正在为核灾难做准备",
+        "onboard_time": 1773894142,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168639,
+        "num": 246500,
+        "word": "沙县鸡腿饭中国宝宝的减脂餐",
+        "onboard_time": 1773883100,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 442163,
+        "num": 246495,
+        "word": "北大毕业送外卖男子称自己眼高手低",
+        "onboard_time": 1773890421,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432033,
+        "num": 246492,
+        "word": "我把协和大夫的笔顺走了",
+        "onboard_time": 1773894623,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246455,
+        "num": 246455,
+        "word": "逐玉26集封神",
+        "onboard_time": 1773890481,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174915,
+        "num": 244967,
+        "word": "美将只剩一艘航母用于对伊朗袭击",
+        "onboard_time": 1773883580,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 151971,
+        "num": 232175,
+        "word": "央视调查油菜花田蜜蜂死亡真相",
+        "onboard_time": 1773890840,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1107723,
+        "num": 225714,
+        "word": "岳雨婷直播美颜掉了",
+        "onboard_time": 1773893480,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563470,
+        "num": 220097,
+        "word": "张凌赫杂志",
+        "onboard_time": 1773889940,
+        "rank": 11,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 322996,
+        "num": 215790,
+        "word": "妻子肺癌晚期求丈夫送至安宁病房",
+        "onboard_time": 1773886820,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350127,
+        "num": 209594,
+        "word": "歌手2026拟邀",
+        "onboard_time": 1773886279,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296222,
+        "num": 202188,
+        "word": "油价",
+        "onboard_time": 1773893301,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195642,
+        "num": 195642,
+        "word": "小米汽车 舒淇",
+        "onboard_time": 1773884120,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181427,
+        "num": 181427,
+        "word": "瞿颖胡兵曾相约都单身就生个孩子",
+        "onboard_time": 1773894263,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149470,
+        "num": 170059,
+        "word": "伊朗发起报复行动",
+        "onboard_time": 1773881362,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163887,
+        "num": 163887,
+        "word": "赵丽颖喜欢自己的新发型",
+        "onboard_time": 1773896002,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159069,
+        "num": 159069,
+        "word": "小酒窝不想看妈妈在剧里被打",
+        "onboard_time": 1773889279,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 786508,
+        "num": 158752,
+        "word": "黄金进入猴市",
+        "onboard_time": 1773892340,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 532919,
+        "num": 156593,
+        "word": "原来命运真的有伏笔",
+        "onboard_time": 1773895344,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 395542,
+        "num": 156283,
+        "word": "作曲家称遭YG强迫堕胎",
+        "onboard_time": 1773891441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209917,
+        "num": 154242,
+        "word": "一个非常降低好感的小细节",
+        "onboard_time": 1773895881,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153659,
+        "num": 153659,
+        "word": "瞿颖与老公未领证未举办婚礼",
+        "onboard_time": 1773894263,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152296,
+        "num": 152296,
+        "word": "周杰伦新专 圣诞星",
+        "onboard_time": 1773895881,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141198,
+        "num": 150868,
+        "word": "湖人双杀火箭",
+        "onboard_time": 1773894321,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150326,
+        "num": 150326,
+        "word": "大冰10分钟解决性格软弱问题",
+        "onboard_time": 1773890241,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144484,
+        "num": 144484,
+        "word": "李卿 上桌",
+        "onboard_time": 1773896422,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100271,
+        "num": 129441,
+        "word": "男子因虚荣心冒充消防员多店检查",
+        "onboard_time": 1773885081,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128277,
+        "num": 128277,
+        "word": "AI演员 假人感",
+        "onboard_time": 1773884061,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127744,
+        "num": 127744,
+        "word": "看得出她是公主陈妍希",
+        "onboard_time": 1773895821,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92013,
+        "num": 125444,
+        "word": "俄罗斯考虑提前对欧断供天然气",
+        "onboard_time": 1773894863,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123336,
+        "num": 123336,
+        "word": "演唱会恐怖游轮",
+        "onboard_time": 1773896063,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112957,
+        "num": 112957,
+        "word": "THEBOYZ解约",
+        "onboard_time": 1773887661,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91105,
+        "num": 110907,
+        "word": "原来这就叫见字如面",
+        "onboard_time": 1773895461,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110019,
+        "num": 110019,
+        "word": "张凌赫的杂志销量",
+        "onboard_time": 1773895522,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104035,
+        "num": 104035,
+        "word": "樊长玉没让谢征牵手",
+        "onboard_time": 1773886880,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26483,
+        "num": 102635,
+        "word": "何穗产后掉眉毛睫毛",
+        "onboard_time": 1773897022,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31396,
+        "num": 102352,
+        "word": "广西通报山林露天堆放垃圾160多吨",
+        "onboard_time": 1773896422,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 91049,
+        "num": 102282,
+        "word": "台当局反制韩国遭群嘲",
+        "onboard_time": 1773893901,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102249,
+        "num": 102249,
+        "word": "主持人回应赵丽颖被吓到",
+        "onboard_time": 1773893002,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97999,
+        "num": 97999,
+        "word": "周也演技",
+        "onboard_time": 1773885320,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88856,
+        "num": 88856,
+        "word": "印度一家人将老人装进麻袋寄快递",
+        "onboard_time": 1773886701,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91111,
+        "num": 88478,
+        "word": "陈伟霆向涵之我一秒嗑上",
+        "onboard_time": 1773893182,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87922,
+        "num": 87922,
+        "word": "如果一个人长期不工作",
+        "onboard_time": 1773878781,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85330,
+        "num": 85330,
+        "word": "任敏10年前考上全球前十表演学校",
+        "onboard_time": 1773896242,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82619,
+        "num": 82619,
+        "word": "唐钱婷50蛙刷新亚洲纪录",
+        "onboard_time": 1773896781,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81426,
+        "num": 81426,
+        "word": "金店银行迎买金热潮",
+        "onboard_time": 1773896900,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78065,
+        "num": 78065,
+        "word": "何穗有容貌焦虑",
+        "onboard_time": 1773890779,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#上个马年他赠予习近平一匹汗血马#"
+    }
+  }
+}

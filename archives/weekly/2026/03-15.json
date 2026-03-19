@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773896528153,
+  "endTime": 1773897119631,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1107723,
+      "num": 262380,
+      "word": "岳雨婷直播美颜掉了",
+      "onboard_time": 1773893480,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1083987,
       "num": 1880556,
       "word": "椰子水 兑水加糖",
@@ -256,14 +264,6 @@
       "word": "梁婷 成毅报户口的时候报大一岁",
       "onboard_time": 1773542900,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1066125,
-      "num": 262380,
-      "word": "岳雨婷直播美颜掉了",
-      "onboard_time": 1773893480,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 843000,
-      "num": 155248,
+      "num": 158752,
       "word": "黄金进入猴市",
       "onboard_time": 1773892340,
       "rank": 20,
@@ -1051,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 532919,
+      "num": 242850,
+      "word": "原来命运真的有伏笔",
+      "onboard_time": 1773895344,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 532857,
       "num": 619507,
       "word": "樊长玉谢征 好孕赘婿",
@@ -1259,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 485301,
+      "num": 1077648,
+      "word": "委内瑞拉击败美国夺冠 全国放假一天",
+      "onboard_time": 1773893901,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 484719,
       "num": 230533,
       "word": "湘雅",
@@ -1385,14 +1401,6 @@
       "onboard_time": 1773816501,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 459029,
-      "num": 242850,
-      "word": "原来命运真的有伏笔",
-      "onboard_time": 1773895344,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 457038,
@@ -1555,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432033,
+      "num": 326682,
+      "word": "我把协和大夫的笔顺走了",
+      "onboard_time": 1773894623,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 431580,
       "num": 431580,
       "word": "周也演技",
@@ -1676,7 +1692,7 @@
     },
     {
       "raw_hot": 402117,
-      "num": 154974,
+      "num": 156283,
       "word": "作曲家称遭YG强迫堕胎",
       "onboard_time": 1773891441,
       "rank": 22,
@@ -1705,14 +1721,6 @@
       "onboard_time": 1773739042,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 398621,
-      "num": 1063779,
-      "word": "委内瑞拉击败美国夺冠 全国放假一天",
-      "onboard_time": 1773893901,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 398483,
@@ -2289,14 +2297,6 @@
       "onboard_time": 1773655104,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326682,
-      "num": 326682,
-      "word": "我把协和大夫的笔顺走了",
-      "onboard_time": 1773894623,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 325159,
@@ -3249,6 +3249,14 @@
       "onboard_time": 1773875358,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248036,
+      "num": 503403,
+      "word": "曝世卫组织正在为核灾难做准备",
+      "onboard_time": 1773894142,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 247841,
@@ -4235,14 +4243,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 188352,
-      "num": 503403,
-      "word": "曝世卫组织正在为核灾难做准备",
-      "onboard_time": 1773894142,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 187722,
       "num": 187722,
       "word": "掘金vs湖人",
@@ -4409,6 +4409,14 @@
       "onboard_time": 1773740661,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181427,
+      "num": 181427,
+      "word": "瞿颖胡兵曾相约都单身就生个孩子",
+      "onboard_time": 1773894263,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 181189,
@@ -4787,6 +4795,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 163887,
+      "num": 163887,
+      "word": "赵丽颖喜欢自己的新发型",
+      "onboard_time": 1773896002,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163787,
       "num": 163787,
       "word": "私域营销",
@@ -4953,14 +4969,6 @@
       "onboard_time": 1773732201,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 158450,
-      "num": 132905,
-      "word": "瞿颖胡兵曾相约都单身就生个孩子",
-      "onboard_time": 1773894263,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 158080,
@@ -5153,6 +5161,14 @@
       "onboard_time": 1773559341,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152296,
+      "num": 152296,
+      "word": "周杰伦新专 圣诞星",
+      "onboard_time": 1773895881,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 152229,
@@ -5369,6 +5385,14 @@
       "onboard_time": 1773819982,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144484,
+      "num": 144484,
+      "word": "李卿 上桌",
+      "onboard_time": 1773896422,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 144332,
@@ -5963,14 +5987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128897,
-      "num": 128897,
-      "word": "周杰伦新专 圣诞星",
-      "onboard_time": 1773895881,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 128565,
       "num": 134769,
       "word": "以前扮丑是真的扮丑",
@@ -6025,6 +6041,14 @@
       "onboard_time": 1773792382,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127744,
+      "num": 127744,
+      "word": "看得出她是公主陈妍希",
+      "onboard_time": 1773895821,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 127716,
@@ -6219,6 +6243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123336,
+      "num": 123336,
+      "word": "演唱会恐怖游轮",
+      "onboard_time": 1773896063,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123248,
       "num": 116833,
       "word": "张予曦毕雯珺 河清海晏",
@@ -6265,14 +6297,6 @@
       "onboard_time": 1773720924,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121822,
-      "num": 121822,
-      "word": "看得出她是公主陈妍希",
-      "onboard_time": 1773895821,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 121815,
@@ -6665,14 +6689,6 @@
       "onboard_time": 1773843923,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 112190,
-      "num": 112190,
-      "word": "演唱会恐怖游轮",
-      "onboard_time": 1773896063,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 112170,
@@ -7145,14 +7161,6 @@
       "onboard_time": 1773723263,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 105467,
-      "num": 91754,
-      "word": "赵丽颖喜欢自己的新发型",
-      "onboard_time": 1773896002,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 105393,
@@ -7715,14 +7723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97622,
-      "num": 91548,
-      "word": "李卿 上桌",
-      "onboard_time": 1773896422,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97581,
       "num": 97581,
       "word": "不喜欢可能认识的人",
@@ -8259,6 +8259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92013,
+      "num": 125444,
+      "word": "俄罗斯考虑提前对欧断供天然气",
+      "onboard_time": 1773894863,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91965,
       "num": 91965,
       "word": "朱雀二号",
@@ -8355,6 +8363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91105,
+      "num": 110907,
+      "word": "原来这就叫见字如面",
+      "onboard_time": 1773895461,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91102,
       "num": 91102,
       "word": "Helper道歉",
@@ -8393,14 +8409,6 @@
       "onboard_time": 1773876918,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 90685,
-      "num": 90685,
-      "word": "俄罗斯考虑提前对欧断供天然气",
-      "onboard_time": 1773894863,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 90527,
@@ -8955,6 +8963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85330,
+      "num": 117036,
+      "word": "任敏10年前考上全球前十表演学校",
+      "onboard_time": 1773896242,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85265,
       "num": 85265,
       "word": "王鹤棣把白鹿宋茜沈月都回答了一遍",
@@ -9235,6 +9251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82619,
+      "num": 82619,
+      "word": "唐钱婷50蛙刷新亚洲纪录",
+      "onboard_time": 1773896781,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82473,
       "num": 82473,
       "word": "国乒全队在成都开启40余天的封闭集训",
@@ -9265,6 +9289,14 @@
       "onboard_time": 1773645741,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81426,
+      "num": 81426,
+      "word": "金店银行迎买金热潮",
+      "onboard_time": 1773896900,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 81377,
@@ -11003,6 +11035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59170,
+      "num": 605005,
+      "word": "中国人种树太硬核",
+      "onboard_time": 1773893301,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58887,
       "num": 633977,
       "word": "中国人4900年前造出水坝群",
@@ -11209,14 +11249,6 @@
       "onboard_time": 1773875659,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 52579,
-      "num": 593112,
-      "word": "中国人种树太硬核",
-      "onboard_time": 1773893301,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52479,
@@ -12035,14 +12067,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 30018,
-      "num": 117036,
-      "word": "任敏10年前考上全球前十表演学校",
-      "onboard_time": 1773896242,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29996,
       "num": 29996,
       "word": "孔雪儿邓凯还原下跪求婚名场面",
@@ -12169,6 +12193,14 @@
       "onboard_time": 1773850939,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26483,
+      "num": 102635,
+      "word": "何穗产后掉眉毛睫毛",
+      "onboard_time": 1773897022,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 26176,
