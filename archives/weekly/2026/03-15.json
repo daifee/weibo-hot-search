@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773914897988,
+  "endTime": 1773917568546,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -88,6 +88,14 @@
       "word": "成毅 年龄",
       "onboard_time": 1773537920,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1955137,
+      "num": 147681,
+      "word": "胡先煦秒删博",
+      "onboard_time": 1773913821,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -321,14 +329,6 @@
       "onboard_time": 1773713360,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 944980,
-      "num": 147681,
-      "word": "胡先煦秒删博",
-      "onboard_time": 1773913821,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 938576,
@@ -585,6 +585,14 @@
       "onboard_time": 1773641481,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 689274,
+      "num": 1110283,
+      "word": "中方对以方说法感到震惊",
+      "onboard_time": 1773913580,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 687503,
@@ -3515,6 +3523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245356,
+      "num": 245356,
+      "word": "路虎别停奔驰致追尾涉刑事案件",
+      "onboard_time": 1773914781,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244977,
       "num": 173875,
       "word": "张檬想给孩子喂母乳到2岁",
@@ -3683,11 +3699,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232917,
+      "num": 146734,
+      "word": "睡觉前才刷牙是错误的",
+      "onboard_time": 1773912742,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 232818,
       "num": 232818,
       "word": "健身房倒闭教练自费上完877节课",
       "onboard_time": 1773792082,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232265,
+      "num": 232265,
+      "word": "女子控诉90万全款买房隔夜飙涨10万",
+      "onboard_time": 1773912321,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -3737,6 +3769,14 @@
       "onboard_time": 1773547938,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229464,
+      "num": 229464,
+      "word": "白日提灯",
+      "onboard_time": 1773914662,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 229022,
@@ -3883,14 +3923,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 222086,
-      "num": 146734,
-      "word": "睡觉前才刷牙是错误的",
-      "onboard_time": 1773912742,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 221901,
       "num": 221901,
       "word": "315晚会曝光7件事",
@@ -4025,14 +4057,6 @@
       "onboard_time": 1773648147,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 214235,
-      "num": 214235,
-      "word": "女子控诉90万全款买房隔夜飙涨10万",
-      "onboard_time": 1773912321,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214072,
@@ -4289,6 +4313,14 @@
       "onboard_time": 1773584490,
       "rank": 31,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 201989,
+      "num": 201989,
+      "word": "老板称5元水饺店每天能赚1千元",
+      "onboard_time": 1773915622,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199771,
@@ -4859,14 +4891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174764,
-      "num": 152902,
-      "word": "中方对以方说法感到震惊",
-      "onboard_time": 1773913580,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 174543,
       "num": 271282,
       "word": "胖东来回应每人限购12个馒头",
@@ -5401,6 +5425,14 @@
       "onboard_time": 1773731600,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153974,
+      "num": 127189,
+      "word": "哄自己去面试的理由又多了",
+      "onboard_time": 1773915442,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 153929,
@@ -6971,6 +7003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115689,
+      "num": 115689,
+      "word": "年薪60万男子找下级借200万被辞",
+      "onboard_time": 1773915622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115564,
       "num": 115564,
       "word": "GEO",
@@ -7201,6 +7241,14 @@
       "onboard_time": 1773818781,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110514,
+      "num": 79285,
+      "word": "买30克金手镯比1月便宜6000元",
+      "onboard_time": 1773916581,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110484,
@@ -7969,6 +8017,14 @@
       "onboard_time": 1773730822,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100542,
+      "num": 100542,
+      "word": "7只狗狗被偷后逃亡17公里找回家",
+      "onboard_time": 1773915262,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100305,
@@ -8921,6 +8977,14 @@
       "onboard_time": 1773829640,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 90015,
+      "num": 90015,
+      "word": "被路虎别停8次男子个人信息疑泄露",
+      "onboard_time": 1773916462,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89930,
@@ -9899,6 +9963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 80976,
+      "num": 80976,
+      "word": "腾讯市值暴跌至4.7万亿港元",
+      "onboard_time": 1773915800,
+      "rank": 29,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 80948,
       "num": 127939,
       "word": "国产存储到了必须突围的时候",
@@ -10491,14 +10563,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 75742,
-      "num": 75742,
-      "word": "白日提灯",
-      "onboard_time": 1773914662,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75692,
       "num": 75692,
       "word": "张凌赫被长玉扇巴掌震撼美味",
@@ -10835,6 +10899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72561,
+      "num": 64742,
+      "word": "网传张凌赫张雅钦主演刺棠",
+      "onboard_time": 1773917122,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72516,
       "num": 72516,
       "word": "詹姆斯半场8中8轰18分",
@@ -10945,6 +11017,14 @@
       "onboard_time": 1773728181,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 71339,
+      "num": 71339,
+      "word": "1岁半宝宝移植术后O型血变为A型",
+      "onboard_time": 1773915861,
+      "rank": 34,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 71303,
@@ -11819,6 +11899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58656,
+      "num": 58656,
+      "word": "沉没成本不参与重大决策",
+      "onboard_time": 1773917241,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58621,
       "num": 63048,
       "word": "一种很新的星座鉴定",
@@ -11897,6 +11985,14 @@
       "onboard_time": 1773714800,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56577,
+      "num": 56577,
+      "word": "上班时突然收到前老板消息",
+      "onboard_time": 1773916642,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 56541,
@@ -12019,6 +12115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 53470,
+      "num": 53470,
+      "word": "网红博主一年读704本书被打假",
+      "onboard_time": 1773916880,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53387,
       "num": 754051,
       "word": "守护黄河用上了智能石头",
@@ -12040,6 +12144,14 @@
       "word": "BLG战胜G2",
       "onboard_time": 1773875659,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 52881,
+      "num": 52881,
+      "word": "WE战胜情久",
+      "onboard_time": 1773917540,
+      "rank": 46,
       "category": "电竞"
     },
     {
@@ -12065,6 +12177,14 @@
       "onboard_time": 1773908181,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51629,
+      "num": 51629,
+      "word": "乒乓球要有双打世界杯了",
+      "onboard_time": 1773915383,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 51519,
@@ -13049,14 +13169,6 @@
       "onboard_time": 1773850939,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 26656,
-      "num": 69264,
-      "word": "路虎别停奔驰致追尾涉刑事案件",
-      "onboard_time": 1773914781,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26176,

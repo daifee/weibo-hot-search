@@ -1,21 +1,21 @@
 {
   "startTime": 1773853886951,
-  "endTime": 1773914897988,
+  "endTime": 1773917568546,
   "band_list": [
+    {
+      "raw_hot": 1955137,
+      "num": 147681,
+      "word": "胡先煦秒删博",
+      "onboard_time": 1773913821,
+      "rank": 25,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1107723,
       "num": 283339,
       "word": "岳雨婷直播美颜掉了",
       "onboard_time": 1773893480,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 944980,
-      "num": 147681,
-      "word": "胡先煦秒删博",
-      "onboard_time": 1773913821,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -49,6 +49,14 @@
       "onboard_time": 1773885081,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 689274,
+      "num": 1110283,
+      "word": "中方对以方说法感到震惊",
+      "onboard_time": 1773913580,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 663980,
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245356,
+      "num": 245356,
+      "word": "路虎别停奔驰致追尾涉刑事案件",
+      "onboard_time": 1773914781,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241036,
       "num": 116613,
       "word": "当老公得知宝宝鞋子的价格",
@@ -553,6 +569,22 @@
       "onboard_time": 1773881541,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 232917,
+      "num": 146734,
+      "word": "睡觉前才刷牙是错误的",
+      "onboard_time": 1773912742,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232265,
+      "num": 232265,
+      "word": "女子控诉90万全款买房隔夜飙涨10万",
+      "onboard_time": 1773912321,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231572,
@@ -571,20 +603,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 229464,
+      "num": 229464,
+      "word": "白日提灯",
+      "onboard_time": 1773914662,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226601,
       "num": 273945,
       "word": "外交部回应伊朗拉里贾尼遇害",
       "onboard_time": 1773906381,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 222086,
-      "num": 146734,
-      "word": "睡觉前才刷牙是错误的",
-      "onboard_time": 1773912742,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 218756,
@@ -611,20 +643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214235,
-      "num": 214235,
-      "word": "女子控诉90万全款买房隔夜飙涨10万",
-      "onboard_time": 1773912321,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 212827,
       "num": 199477,
       "word": "男生热水烫开奶茶袋藏天南地图",
       "onboard_time": 1773899540,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201989,
+      "num": 201989,
+      "word": "老板称5元水饺店每天能赚1千元",
+      "onboard_time": 1773915622,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189577,
@@ -713,14 +745,6 @@
       "onboard_time": 1773903440,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 174764,
-      "num": 152902,
-      "word": "中方对以方说法感到震惊",
-      "onboard_time": 1773913580,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 174543,
@@ -817,6 +841,14 @@
       "onboard_time": 1773836601,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153974,
+      "num": 127189,
+      "word": "哄自己去面试的理由又多了",
+      "onboard_time": 1773915442,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 153575,
@@ -1019,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115689,
+      "num": 115689,
+      "word": "年薪60万男子找下级借200万被辞",
+      "onboard_time": 1773915622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113699,
       "num": 113699,
       "word": "日本夫妻遗忘30多年的股票翻85倍",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1773876079,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 110514,
+      "num": 79285,
+      "word": "买30克金手镯比1月便宜6000元",
+      "onboard_time": 1773916581,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108851,
@@ -1161,6 +1209,14 @@
       "onboard_time": 1773897621,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100542,
+      "num": 100542,
+      "word": "7只狗狗被偷后逃亡17公里找回家",
+      "onboard_time": 1773915262,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97310,
@@ -1281,6 +1337,14 @@
       "onboard_time": 1773876918,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90015,
+      "num": 90015,
+      "word": "被路虎别停8次男子个人信息疑泄露",
+      "onboard_time": 1773916462,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89658,
@@ -1451,6 +1515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80976,
+      "num": 80976,
+      "word": "腾讯市值暴跌至4.7万亿港元",
+      "onboard_time": 1773915800,
+      "rank": 29,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 80223,
       "num": 80223,
       "word": "AI演员开通账号",
@@ -1531,14 +1603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 75742,
-      "num": 75742,
-      "word": "白日提灯",
-      "onboard_time": 1773914662,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75025,
       "num": 75025,
       "word": "小米深夜上线三大模型",
@@ -1587,12 +1651,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 72561,
+      "num": 64742,
+      "word": "网传张凌赫张雅钦主演刺棠",
+      "onboard_time": 1773917122,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72516,
       "num": 72516,
       "word": "詹姆斯半场8中8轰18分",
       "onboard_time": 1773890720,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71339,
+      "num": 71339,
+      "word": "1岁半宝宝移植术后O型血变为A型",
+      "onboard_time": 1773915861,
+      "rank": 34,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 70981,
@@ -1867,6 +1947,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 58656,
+      "num": 58656,
+      "word": "沉没成本不参与重大决策",
+      "onboard_time": 1773917241,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58621,
       "num": 63048,
       "word": "一种很新的星座鉴定",
@@ -1897,6 +1985,14 @@
       "onboard_time": 1773831561,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56577,
+      "num": 56577,
+      "word": "上班时突然收到前老板消息",
+      "onboard_time": 1773916642,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 56541,
@@ -1947,11 +2043,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 53470,
+      "num": 53470,
+      "word": "网红博主一年读704本书被打假",
+      "onboard_time": 1773916880,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52921,
       "num": 52921,
       "word": "BLG战胜G2",
       "onboard_time": 1773875659,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 52881,
+      "num": 52881,
+      "word": "WE战胜情久",
+      "onboard_time": 1773917540,
+      "rank": 46,
       "category": "电竞"
     },
     {
@@ -1977,6 +2089,14 @@
       "onboard_time": 1773908181,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51629,
+      "num": 51629,
+      "word": "乒乓球要有双打世界杯了",
+      "onboard_time": 1773915383,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 49843,
@@ -2193,14 +2313,6 @@
       "onboard_time": 1773850939,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 26656,
-      "num": 69264,
-      "word": "路虎别停奔驰致追尾涉刑事案件",
-      "onboard_time": 1773914781,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25864,

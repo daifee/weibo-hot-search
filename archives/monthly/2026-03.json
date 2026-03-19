@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773914897988,
+  "endTime": 1773917568546,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -304,6 +304,14 @@
       "word": "成毅 年龄",
       "onboard_time": 1773537920,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1955137,
+      "num": 147681,
+      "word": "胡先煦秒删博",
+      "onboard_time": 1773913821,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1512,14 +1520,6 @@
       "word": "秦岚嗓子哑了三年",
       "onboard_time": 1772343683,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 944980,
-      "num": 147681,
-      "word": "胡先煦秒删博",
-      "onboard_time": 1773913821,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -2833,6 +2833,14 @@
       "onboard_time": 1772379324,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 689274,
+      "num": 1110283,
+      "word": "中方对以方说法感到震惊",
+      "onboard_time": 1773913580,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 687619,
@@ -13155,6 +13163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245356,
+      "num": 245356,
+      "word": "路虎别停奔驰致追尾涉刑事案件",
+      "onboard_time": 1773914781,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245347,
       "num": 839810,
       "word": "十五五规划纲要全文",
@@ -13819,6 +13835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232917,
+      "num": 146734,
+      "word": "睡觉前才刷牙是错误的",
+      "onboard_time": 1773912742,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 232852,
       "num": 399670,
       "word": "十日终焉没女主",
@@ -13865,6 +13889,14 @@
       "onboard_time": 1772933179,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232265,
+      "num": 232265,
+      "word": "女子控诉90万全款买房隔夜飙涨10万",
+      "onboard_time": 1773912321,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231774,
@@ -14427,14 +14459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222086,
-      "num": 146734,
-      "word": "睡觉前才刷牙是错误的",
-      "onboard_time": 1773912742,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 222064,
       "num": 674487,
       "word": "电视剧品质盛典",
@@ -14969,14 +14993,6 @@
       "onboard_time": 1773040761,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214235,
-      "num": 214235,
-      "word": "女子控诉90万全款买房隔夜飙涨10万",
-      "onboard_time": 1773912321,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214223,
@@ -15697,6 +15713,14 @@
       "onboard_time": 1773584490,
       "rank": 31,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 201989,
+      "num": 201989,
+      "word": "老板称5元水饺店每天能赚1千元",
+      "onboard_time": 1773915622,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201915,
@@ -17681,14 +17705,6 @@
       "onboard_time": 1772526929,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174764,
-      "num": 152902,
-      "word": "中方对以方说法感到震惊",
-      "onboard_time": 1773913580,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 174557,
@@ -19721,6 +19737,14 @@
       "onboard_time": 1773399861,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153974,
+      "num": 127189,
+      "word": "哄自己去面试的理由又多了",
+      "onboard_time": 1773915442,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 153929,
@@ -25403,6 +25427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115689,
+      "num": 115689,
+      "word": "年薪60万男子找下级借200万被辞",
+      "onboard_time": 1773915622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115628,
       "num": 212197,
       "word": "十日终焉角色设定",
@@ -26417,6 +26449,14 @@
       "onboard_time": 1773818781,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110514,
+      "num": 79285,
+      "word": "买30克金手镯比1月便宜6000元",
+      "onboard_time": 1773916581,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110504,
@@ -28921,6 +28961,14 @@
       "onboard_time": 1772686523,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100542,
+      "num": 100542,
+      "word": "7只狗狗被偷后逃亡17公里找回家",
+      "onboard_time": 1773915262,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100531,
@@ -32299,6 +32347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90015,
+      "num": 90015,
+      "word": "被路虎别停8次男子个人信息疑泄露",
+      "onboard_time": 1773916462,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90003,
       "num": 144403,
       "word": "周五晚高疯直播",
@@ -35361,6 +35417,14 @@
       "onboard_time": 1773051081,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80976,
+      "num": 80976,
+      "word": "腾讯市值暴跌至4.7万亿港元",
+      "onboard_time": 1773915800,
+      "rank": 29,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 80948,
@@ -38563,6 +38627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72561,
+      "num": 64742,
+      "word": "网传张凌赫张雅钦主演刺棠",
+      "onboard_time": 1773917122,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72556,
       "num": 582958,
       "word": "赵今麦吃了好多汤圆",
@@ -38913,6 +38985,14 @@
       "onboard_time": 1773728181,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 71339,
+      "num": 71339,
+      "word": "1岁半宝宝移植术后O型血变为A型",
+      "onboard_time": 1773915861,
+      "rank": 34,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 71298,
@@ -42419,6 +42499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58656,
+      "num": 58656,
+      "word": "沉没成本不参与重大决策",
+      "onboard_time": 1773917241,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58626,
       "num": 58626,
       "word": "维护女职工合法权益",
@@ -42849,6 +42937,14 @@
       "onboard_time": 1772373806,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 56577,
+      "num": 56577,
+      "word": "上班时突然收到前老板消息",
+      "onboard_time": 1773916642,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 56541,
@@ -43387,6 +43483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 53470,
+      "num": 53470,
+      "word": "网红博主一年读704本书被打假",
+      "onboard_time": 1773916880,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53387,
       "num": 754051,
       "word": "守护黄河用上了智能石头",
@@ -43489,6 +43593,14 @@
       "onboard_time": 1772686585,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 52881,
+      "num": 52881,
+      "word": "WE战胜情久",
+      "onboard_time": 1773917540,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 52807,
@@ -43665,6 +43777,14 @@
       "onboard_time": 1772514984,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51629,
+      "num": 51629,
+      "word": "乒乓球要有双打世界杯了",
+      "onboard_time": 1773915383,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 51519,
@@ -47865,14 +47985,6 @@
       "onboard_time": 1773406822,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 26656,
-      "num": 69264,
-      "word": "路虎别停奔驰致追尾涉刑事案件",
-      "onboard_time": 1773914781,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26482,
