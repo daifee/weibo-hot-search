@@ -1,6 +1,6 @@
 {
   "startTime": 1773853886951,
-  "endTime": 1773906849343,
+  "endTime": 1773907458905,
   "band_list": [
     {
       "raw_hot": 1107723,
@@ -139,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 464472,
+      "num": 169651,
+      "word": "金银跌疯了",
+      "onboard_time": 1773905901,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 449852,
       "num": 321921,
       "word": "1分钟被路虎别停8次当事人发声",
@@ -227,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 376514,
+      "num": 376514,
+      "word": "郭宇欣杀青哭了",
+      "onboard_time": 1773905781,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363178,
       "num": 200172,
       "word": "AI演员 粉丝",
@@ -243,20 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348365,
+      "num": 275274,
+      "word": "AI观众 AI粉丝 AI打分",
+      "onboard_time": 1773903140,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344757,
       "num": 249919,
       "word": "油价",
       "onboard_time": 1773893301,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 340313,
-      "num": 340313,
-      "word": "郭宇欣杀青哭了",
-      "onboard_time": 1773905781,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 335298,
@@ -379,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275274,
-      "num": 275274,
-      "word": "AI观众 AI粉丝 AI打分",
-      "onboard_time": 1773903140,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 275238,
       "num": 275397,
       "word": "沙县鸡腿饭中国宝宝的减脂餐",
@@ -419,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 254181,
-      "num": 169651,
-      "word": "金银跌疯了",
-      "onboard_time": 1773905901,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 253783,
       "num": 242205,
       "word": "A股",
@@ -449,6 +449,14 @@
       "onboard_time": 1773896002,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241617,
+      "num": 286191,
+      "word": "6岁娃被妈妈独自丢酒店每天求抱抱",
+      "onboard_time": 1773906381,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241036,
@@ -499,20 +507,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 217195,
+      "num": 735472,
+      "word": "99岁独居老人突然说舍不得死了",
+      "onboard_time": 1773901520,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212827,
       "num": 199477,
       "word": "男生热水烫开奶茶袋藏天南地图",
       "onboard_time": 1773899540,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 199016,
-      "num": 286191,
-      "word": "6岁娃被妈妈独自丢酒店每天求抱抱",
-      "onboard_time": 1773906381,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189577,
@@ -528,14 +536,6 @@
       "word": "央视调查油菜花田蜜蜂死亡真相",
       "onboard_time": 1773890840,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188285,
-      "num": 735472,
-      "word": "99岁独居老人突然说舍不得死了",
-      "onboard_time": 1773901520,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -585,6 +585,14 @@
       "onboard_time": 1773875659,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168557,
+      "num": 273945,
+      "word": "外交部回应伊朗拉里贾尼遇害",
+      "onboard_time": 1773906381,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166434,
@@ -859,6 +867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106512,
+      "num": 299180,
+      "word": "亲爱的客栈",
+      "onboard_time": 1773901341,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106453,
       "num": 106453,
       "word": "杜塞尔多夫经理透露樊振东薪资",
@@ -881,14 +897,6 @@
       "onboard_time": 1773882500,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 105273,
-      "num": 299180,
-      "word": "亲爱的客栈",
-      "onboard_time": 1773901341,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 104980,
@@ -947,14 +955,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 96772,
-      "num": 168801,
-      "word": "外交部回应伊朗拉里贾尼遇害",
-      "onboard_time": 1773906381,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 96374,
       "num": 90258,
       "word": "陈伟霆向涵之我一秒嗑上",
@@ -1001,6 +1001,14 @@
       "onboard_time": 1773876079,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92337,
+      "num": 92337,
+      "word": "霸王茶姬 张凌赫杯贴",
+      "onboard_time": 1773906199,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 92231,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1773876918,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90451,
+      "num": 90451,
+      "word": "王楚钦孙颖莎双打世界杯海报",
+      "onboard_time": 1773906081,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 89658,
@@ -1187,6 +1203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 81560,
+      "num": 173316,
+      "word": "街头多次踢踹幼女老太为亲外婆",
+      "onboard_time": 1773906321,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81426,
       "num": 81426,
       "word": "金店银行迎买金热潮",
@@ -1219,12 +1243,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 78199,
-      "num": 78199,
-      "word": "霸王茶姬 张凌赫杯贴",
-      "onboard_time": 1773906199,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 79411,
+      "num": 79411,
+      "word": "LV新款喷壶手袋售36000元",
+      "onboard_time": 1773907102,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 77445,
@@ -1233,14 +1257,6 @@
       "onboard_time": 1773897202,
       "rank": 42,
       "category": "军事"
-    },
-    {
-      "raw_hot": 77441,
-      "num": 77441,
-      "word": "王楚钦孙颖莎双打世界杯海报",
-      "onboard_time": 1773906081,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 77364,
@@ -1371,6 +1387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67601,
+      "num": 61057,
+      "word": "汽水音乐节阵容",
+      "onboard_time": 1773905481,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 67595,
       "num": 67595,
       "word": "巴萨7比2纽卡斯尔联",
@@ -1489,6 +1513,22 @@
       "onboard_time": 1773831561,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56960,
+      "num": 56960,
+      "word": "肥娟夫妇开健身房",
+      "onboard_time": 1773906923,
+      "rank": 47,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 56541,
+      "num": 56541,
+      "word": "电脑端微信3大新功能",
+      "onboard_time": 1773907401,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 55054,
@@ -1643,6 +1683,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 33732,
+      "num": 138269,
+      "word": "女子被母亲介绍的相亲对象骗85万",
+      "onboard_time": 1773906981,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33719,
       "num": 39695,
       "word": "檀健次 你们当没看到",
@@ -1739,6 +1787,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21323,
+      "num": 245022,
+      "word": "今天适合把春天装进工位",
+      "onboard_time": 1773904044,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20651,
+      "num": 611462,
+      "word": "数读2025海洋经济公报",
+      "onboard_time": 1773906081,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19646,
       "num": 59996,
       "word": "平台获利3.68元被罚30万毫不冤枉",
@@ -1753,30 +1817,6 @@
       "onboard_time": 1773856756,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19402,
-      "num": 245022,
-      "word": "今天适合把春天装进工位",
-      "onboard_time": 1773904044,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17753,
-      "num": 173316,
-      "word": "街头多次踢踹幼女老太为亲外婆",
-      "onboard_time": 1773906321,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17283,
-      "num": 611462,
-      "word": "数读2025海洋经济公报",
-      "onboard_time": 1773906081,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16733,
