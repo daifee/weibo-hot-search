@@ -1,6 +1,6 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1773959868861,
+  "endTime": 1773960994672,
   "band_list": [
     {
       "raw_hot": 659112,
@@ -11,6 +11,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595984,
+      "num": 72993,
+      "word": "伊朗导弹击中以色列海法炼油厂",
+      "onboard_time": 1773940818,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 559177,
       "num": 1081152,
       "word": "7年前买的泡泡玛特盲盒才发货",
@@ -19,12 +27,12 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 428444,
-      "num": 55328,
-      "word": "伊朗导弹击中以色列海法炼油厂",
-      "onboard_time": 1773940818,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 445902,
+      "num": 78931,
+      "word": "一觉醒来黄金挂坠亏了2000元",
+      "onboard_time": 1773935002,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 376505,
@@ -41,14 +49,6 @@
       "onboard_time": 1773928582,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 284392,
-      "num": 78931,
-      "word": "一觉醒来黄金挂坠亏了2000元",
-      "onboard_time": 1773935002,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 272431,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 151011,
-      "num": 319471,
+      "num": 401516,
       "word": "奔跑吧14",
       "onboard_time": 1773934463,
       "rank": 9,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127433,
+      "num": 57348,
+      "word": "瞿颖香奈儿老了还是香奈儿",
+      "onboard_time": 1773924502,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125406,
       "num": 402281,
       "word": "南方医院承认医生未复核私自改报告",
@@ -184,6 +192,14 @@
       "word": "台湾发生双尸案",
       "onboard_time": 1773924922,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122762,
+      "num": 81994,
+      "word": "被路虎别停8次男子个人信息疑泄露",
+      "onboard_time": 1773916462,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -211,12 +227,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 95466,
-      "num": 81994,
-      "word": "被路虎别停8次男子个人信息疑泄露",
-      "onboard_time": 1773916462,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 89214,
+      "num": 89214,
+      "word": "日本劫掠中国文物数量惊人",
+      "onboard_time": 1773931583,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86703,
@@ -235,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82839,
-      "num": 37624,
-      "word": "瞿颖香奈儿老了还是香奈儿",
-      "onboard_time": 1773924502,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 80959,
       "num": 80959,
       "word": "张凌赫谈逐玉",
@@ -257,14 +265,6 @@
       "onboard_time": 1773929123,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77417,
-      "num": 77417,
-      "word": "日本劫掠中国文物数量惊人",
-      "onboard_time": 1773931583,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 75540,
@@ -443,6 +443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31658,
+      "num": 31658,
+      "word": "樊长玉被众人排斥",
+      "onboard_time": 1773951134,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28875,
+      "num": 28875,
+      "word": "路虎别停奔驰致追尾涉刑事案件",
+      "onboard_time": 1773914781,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25573,
       "num": 29493,
       "word": "好好的时光",
@@ -467,22 +483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22867,
-      "num": 26047,
-      "word": "路虎别停奔驰致追尾涉刑事案件",
-      "onboard_time": 1773914781,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21436,
-      "num": 26046,
-      "word": "樊长玉被众人排斥",
-      "onboard_time": 1773951134,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 21182,
       "num": 26887,
       "word": "舒淇苏炳添现身小米发布会",
@@ -499,16 +499,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17878,
-      "num": 26044,
+      "raw_hot": 18657,
+      "num": 27044,
       "word": "伊朗逮捕41名间谍",
       "onboard_time": 1773937578,
       "rank": 48,
       "category": "国际时政"
     },
     {
-      "raw_hot": 15705,
-      "num": 26043,
+      "raw_hot": 17721,
+      "num": 27041,
       "word": "檀健次新歌宠",
       "onboard_time": 1773948253,
       "rank": 45,
@@ -523,8 +523,8 @@
       "category": "汽车,艺人"
     },
     {
-      "raw_hot": 9951,
-      "num": 268946,
+      "raw_hot": 12409,
+      "num": 316166,
       "word": "十五五规划纲要撰写的幕后",
       "onboard_time": 1773925402,
       "rank": 2,
