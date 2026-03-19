@@ -1,6 +1,6 @@
 {
   "startTime": 1773853886951,
-  "endTime": 1773914163461,
+  "endTime": 1773914897988,
   "band_list": [
     {
       "raw_hot": 1107723,
@@ -8,6 +8,14 @@
       "word": "岳雨婷直播美颜掉了",
       "onboard_time": 1773893480,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 944980,
+      "num": 147681,
+      "word": "胡先煦秒删博",
+      "onboard_time": 1773913821,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -107,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 532559,
+      "num": 1085209,
+      "word": "奔跑吧14常驻嘉宾阵容",
+      "onboard_time": 1773913223,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517773,
       "num": 245550,
       "word": "THEBOYZ解约",
@@ -161,14 +177,6 @@
       "onboard_time": 1773905901,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 453504,
-      "num": 1072560,
-      "word": "奔跑吧14常驻嘉宾阵容",
-      "onboard_time": 1773913223,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 449852,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 389893,
-      "num": 132673,
+      "num": 147256,
       "word": "疑似胡歌初恋女友发文",
       "onboard_time": 1773911360,
       "rank": 41,
@@ -315,8 +323,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 336311,
-      "num": 143457,
+      "raw_hot": 337062,
+      "num": 154418,
       "word": "黄金跌个没完",
       "onboard_time": 1773911360,
       "rank": 43,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 299891,
-      "num": 133908,
+      "num": 145785,
       "word": "吃甜品的漂亮姐姐迪丽热巴",
       "onboard_time": 1773909022,
       "rank": 10,
@@ -457,6 +465,14 @@
       "onboard_time": 1773883100,
       "rank": 6,
       "category": "美食"
+    },
+    {
+      "raw_hot": 265248,
+      "num": 265248,
+      "word": "女子将20万黄金藏豆瓣酱里寄骗子",
+      "onboard_time": 1773911121,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257139,
@@ -563,12 +579,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 225058,
-      "num": 225058,
-      "word": "女子将20万黄金藏豆瓣酱里寄骗子",
-      "onboard_time": 1773911121,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 222086,
+      "num": 146734,
+      "word": "睡觉前才刷牙是错误的",
+      "onboard_time": 1773912742,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 218756,
@@ -592,6 +608,14 @@
       "word": "99岁独居老人突然说舍不得死了",
       "onboard_time": 1773901520,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214235,
+      "num": 214235,
+      "word": "女子控诉90万全款买房隔夜飙涨10万",
+      "onboard_time": 1773912321,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -627,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187667,
+      "num": 187667,
+      "word": "中方回应美报告所谓2027攻台计划",
+      "onboard_time": 1773911241,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 183489,
       "num": 183489,
       "word": "印度一家人将老人装进麻袋寄快递",
@@ -635,20 +667,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 183481,
+      "num": 183481,
+      "word": "伊朗发动第63波攻势",
+      "onboard_time": 1773911181,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 182357,
+      "num": 182357,
+      "word": "宝妈每天用84消毒患上罕见病",
+      "onboard_time": 1773910762,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181427,
       "num": 181427,
       "word": "瞿颖胡兵曾相约都单身就生个孩子",
       "onboard_time": 1773894263,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180343,
-      "num": 180343,
-      "word": "中方回应美报告所谓2027攻台计划",
-      "onboard_time": 1773911241,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 180092,
@@ -675,6 +715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 174764,
+      "num": 152902,
+      "word": "中方对以方说法感到震惊",
+      "onboard_time": 1773913580,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174543,
       "num": 271282,
       "word": "胖东来回应每人限购12个馒头",
@@ -689,14 +737,6 @@
       "onboard_time": 1773875659,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 168079,
-      "num": 168079,
-      "word": "女子控诉90万全款买房隔夜飙涨10万",
-      "onboard_time": 1773912321,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167743,
@@ -763,30 +803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 156949,
-      "num": 131615,
-      "word": "睡觉前才刷牙是错误的",
-      "onboard_time": 1773912742,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 156743,
-      "num": 156743,
-      "word": "伊朗发动第63波攻势",
-      "onboard_time": 1773911181,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 155824,
-      "num": 127839,
-      "word": "胡先煦秒删博",
-      "onboard_time": 1773913821,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155396,
       "num": 155396,
       "word": "湖人双杀火箭",
@@ -811,12 +827,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150803,
+      "num": 150803,
+      "word": "AI盛行 周杰伦坚持手搓",
+      "onboard_time": 1773913522,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147268,
       "num": 140595,
       "word": "如果一个人长期不工作",
       "onboard_time": 1773878781,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145308,
+      "num": 145308,
+      "word": "乐华娱乐报警了",
+      "onboard_time": 1773912561,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 145010,
@@ -851,14 +883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140439,
-      "num": 140439,
-      "word": "宝妈每天用84消毒患上罕见病",
-      "onboard_time": 1773910762,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140258,
       "num": 125994,
       "word": "赵丽颖被主持人骗到的反应",
@@ -868,7 +892,7 @@
     },
     {
       "raw_hot": 139837,
-      "num": 139837,
+      "num": 149622,
       "word": "男子从年轻买到退休终于中1046万",
       "onboard_time": 1773907819,
       "rank": 9,
@@ -920,14 +944,6 @@
       "word": "看得出她是公主陈妍希",
       "onboard_time": 1773895821,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 127054,
-      "num": 127054,
-      "word": "乐华娱乐报警了",
-      "onboard_time": 1773912561,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1147,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97735,
-      "num": 133898,
-      "word": "AI盛行 周杰伦坚持手搓",
-      "onboard_time": 1773913522,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 97310,
       "num": 62868,
       "word": "AG对战JDG",
@@ -1340,7 +1348,7 @@
     },
     {
       "raw_hot": 86582,
-      "num": 126020,
+      "num": 145347,
       "word": "日本将向美国赠送250棵樱花树",
       "onboard_time": 1773911061,
       "rank": 38,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1773838402,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84858,
+      "num": 84858,
+      "word": "女生跳舞时被男生撞后下一秒转场",
+      "onboard_time": 1773912140,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 84641,
@@ -1475,14 +1491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77691,
-      "num": 77691,
-      "word": "女生跳舞时被男生撞后下一秒转场",
-      "onboard_time": 1773912140,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 77445,
       "num": 77445,
       "word": "东部战区展示越海杀器",
@@ -1521,6 +1529,14 @@
       "onboard_time": 1773838343,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 75742,
+      "num": 75742,
+      "word": "白日提灯",
+      "onboard_time": 1773914662,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 75025,
@@ -1668,7 +1684,7 @@
     },
     {
       "raw_hot": 67239,
-      "num": 137599,
+      "num": 148752,
       "word": "闲鱼有点东西",
       "onboard_time": 1773911722,
       "rank": 15,
@@ -1779,12 +1795,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 60560,
+      "num": 61806,
+      "word": "当朋友都过上了截然相反的生活",
+      "onboard_time": 1773913762,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 60504,
       "num": 60504,
       "word": "穿汉服在长江御剑飞行女子发声",
       "onboard_time": 1773876558,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60136,
+      "num": 61792,
+      "word": "杜塞尔多夫市长和总领事欢迎樊振东",
+      "onboard_time": 1773911901,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 59793,
@@ -2035,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38441,
+      "num": 75796,
+      "word": "医保新规扩大了慢性病和特殊病病种",
+      "onboard_time": 1773913642,
+      "rank": 37,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 38381,
       "num": 130184,
       "word": "全世界都在一块喝好茶",
@@ -2043,28 +2083,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 37587,
-      "num": 75796,
-      "word": "医保新规扩大了慢性病和特殊病病种",
-      "onboard_time": 1773913642,
-      "rank": 37,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 36974,
       "num": 60116,
       "word": "袋鼠妈妈被约谈",
       "onboard_time": 1773851060,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36340,
-      "num": 147353,
-      "word": "中方对以方说法感到震惊",
-      "onboard_time": 1773913580,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36147,
@@ -2081,6 +2105,14 @@
       "onboard_time": 1773845664,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36008,
+      "num": 70277,
+      "word": "生父将儿子塞后备箱称是普遍现象",
+      "onboard_time": 1773914422,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33766,
@@ -2163,6 +2195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 26656,
+      "num": 69264,
+      "word": "路虎别停奔驰致追尾涉刑事案件",
+      "onboard_time": 1773914781,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25864,
       "num": 89499,
       "word": "不扫兴的父母是什么样子的",
@@ -2193,6 +2233,14 @@
       "onboard_time": 1773900141,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22420,
+      "num": 148394,
+      "word": "医院回应女子体检三份报告不同",
+      "onboard_time": 1773914539,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 21323,
@@ -2227,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19025,
+      "num": 73160,
+      "word": "36万卖手表当天被冻结账户",
+      "onboard_time": 1773914422,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16733,
       "num": 21958,
       "word": "谢征待长玉之心从未有假",
@@ -2256,6 +2312,14 @@
       "word": "业内称防晒衣等功能服装在涨价前夜",
       "onboard_time": 1773905962,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10784,
+      "num": 74305,
+      "word": "消防员火场救出男子被困妻儿后倒地",
+      "onboard_time": 1773914841,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
