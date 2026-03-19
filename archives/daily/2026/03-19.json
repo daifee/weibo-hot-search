@@ -1,6 +1,6 @@
 {
   "startTime": 1773853886951,
-  "endTime": 1773932215942,
+  "endTime": 1773933191150,
   "band_list": [
     {
       "raw_hot": 1955137,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 493638,
-      "num": 196035,
+      "num": 235341,
       "word": "主人回应7只被偷小狗结伴逃回家",
       "onboard_time": 1773927083,
       "rank": 33,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382424,
+      "num": 814698,
+      "word": "7年前买的泡泡玛特盲盒才发货",
+      "onboard_time": 1773930982,
+      "rank": 21,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 377260,
       "num": 377260,
       "word": "徐若晗 挂脸",
@@ -393,6 +401,14 @@
       "onboard_time": 1773903140,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 347553,
+      "num": 347553,
+      "word": "新一代SU734分钟锁单1.5万台",
+      "onboard_time": 1773931583,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 344757,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 303298,
-      "num": 194267,
+      "num": 234253,
       "word": "父亲回应儿子北大毕业送外卖",
       "onboard_time": 1773926902,
       "rank": 34,
@@ -489,14 +505,6 @@
       "onboard_time": 1773909022,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296275,
-      "num": 296275,
-      "word": "新一代SU734分钟锁单1.5万台",
-      "onboard_time": 1773931583,
-      "rank": 3,
-      "category": "汽车"
     },
     {
       "raw_hot": 293803,
@@ -529,6 +537,14 @@
       "onboard_time": 1773884120,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286943,
+      "num": 286943,
+      "word": "逐玉31集经纪人最爱的一集",
+      "onboard_time": 1773930202,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 286888,
@@ -731,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235255,
+      "num": 235255,
+      "word": "肖战宝诗龙",
+      "onboard_time": 1773932001,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234333,
       "num": 174078,
       "word": "张凌赫直播",
@@ -835,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211078,
+      "num": 211077,
+      "word": "金价暴跌抄底7天越买越套",
+      "onboard_time": 1773930922,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207180,
       "num": 591571,
       "word": "新一代SU7",
@@ -892,7 +924,7 @@
     },
     {
       "raw_hot": 185580,
-      "num": 154730,
+      "num": 156025,
       "word": "黄金瀑布式跳水",
       "onboard_time": 1773927323,
       "rank": 37,
@@ -1075,14 +1107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157713,
-      "num": 157713,
-      "word": "逐玉31集经纪人最爱的一集",
-      "onboard_time": 1773930202,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157500,
       "num": 124277,
       "word": "美国以色列有分歧了",
@@ -1147,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148812,
+      "num": 148812,
+      "word": "神秘人花7500元预存500碗面",
+      "onboard_time": 1773929123,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147268,
       "num": 140595,
       "word": "如果一个人长期不工作",
@@ -1200,14 +1232,6 @@
       "word": "男子输液头孢7年第一次过敏休克",
       "onboard_time": 1773876079,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143061,
-      "num": 143061,
-      "word": "神秘人花7500元预存500碗面",
-      "onboard_time": 1773929123,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1395,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119026,
+      "num": 198443,
+      "word": "日本劫掠中国文物数量惊人",
+      "onboard_time": 1773931583,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118128,
       "num": 118128,
       "word": "伊朗要求阿联酋作出赔偿",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1773921142,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116781,
-      "num": 116781,
-      "word": "金价暴跌抄底7天越买越套",
-      "onboard_time": 1773930922,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 116777,
@@ -1595,14 +1619,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 102327,
-      "num": 102327,
-      "word": "肖战宝诗龙",
-      "onboard_time": 1773932001,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101473,
       "num": 101473,
       "word": "KPOP解约大年",
@@ -1665,14 +1681,6 @@
       "onboard_time": 1773918740,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94313,
-      "num": 155271,
-      "word": "7年前买的泡泡玛特盲盒才发货",
-      "onboard_time": 1773930982,
-      "rank": 21,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 93820,
@@ -1875,6 +1883,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 86255,
+      "num": 86255,
+      "word": "意识到4年后30后就出生了",
+      "onboard_time": 1773930502,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86051,
       "num": 86051,
       "word": "文科生的春天",
@@ -2011,6 +2027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80000,
+      "num": 80000,
+      "word": "坎宁安气胸",
+      "onboard_time": 1773932902,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79857,
       "num": 79857,
       "word": "马斯克点赞深圳小孩哥",
@@ -2033,6 +2057,14 @@
       "onboard_time": 1773907102,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 78716,
+      "num": 78716,
+      "word": "山姆回应三文鱼标注加热却被生食",
+      "onboard_time": 1773932242,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78311,
@@ -2131,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73237,
+      "num": 78002,
+      "word": "金价跌破4600美元",
+      "onboard_time": 1773929843,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72893,
       "num": 72893,
       "word": "国内油价或迎第五涨",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1773825861,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70218,
+      "num": 77799,
+      "word": "油一涨黄金就跌",
+      "onboard_time": 1773930202,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 70012,
@@ -2684,7 +2732,7 @@
     },
     {
       "raw_hot": 44597,
-      "num": 157496,
+      "num": 211078,
       "word": "苏炳添赞新SU7为中国科技骄傲",
       "onboard_time": 1773929123,
       "rank": 18,
@@ -2729,6 +2777,22 @@
       "onboard_time": 1773925222,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41016,
+      "num": 211078,
+      "word": "可举行婚礼的杭州绿化带被踩踏",
+      "onboard_time": 1773932183,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40988,
+      "num": 211078,
+      "word": "舒淇对新SU7卡布里蓝印象最深",
+      "onboard_time": 1773931042,
+      "rank": 19,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 40615,
@@ -2804,7 +2868,7 @@
     },
     {
       "raw_hot": 34810,
-      "num": 623643,
+      "num": 638528,
       "word": "长江上又一座大桥建设新进展",
       "onboard_time": 1773926481,
       "rank": 2,
@@ -2827,28 +2891,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32154,
+      "num": 235477,
+      "word": "这项指标中国上升9位美国下降11位",
+      "onboard_time": 1773932781,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32086,
       "num": 39695,
       "word": "TF家族语音",
       "onboard_time": 1773847341,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30810,
-      "num": 198443,
-      "word": "日本劫掠中国文物数量惊人",
-      "onboard_time": 1773931583,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 30646,
-      "num": 156451,
-      "word": "舒淇对新SU7卡布里蓝印象最深",
-      "onboard_time": 1773931042,
-      "rank": 19,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 30619,
@@ -2937,14 +2993,6 @@
       "onboard_time": 1773857774,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23078,
-      "num": 94666,
-      "word": "可举行婚礼的杭州绿化带被踩踏",
-      "onboard_time": 1773932183,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22761,
@@ -3065,6 +3113,14 @@
       "onboard_time": 1773839182,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 8050,
+      "num": 86525,
+      "word": "英国脑膜炎疫情留学生称很难约上疫苗",
+      "onboard_time": 1773933081,
+      "rank": 40,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
