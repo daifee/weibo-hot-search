@@ -1,6 +1,6 @@
 {
   "startTime": 1773853886951,
-  "endTime": 1773910505483,
+  "endTime": 1773911397152,
   "band_list": [
     {
       "raw_hot": 1107723,
@@ -24,6 +24,14 @@
       "word": "歌手2026拟邀",
       "onboard_time": 1773886279,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 720992,
+      "num": 589593,
+      "word": "沈月拍出了徐志胜人生照片",
+      "onboard_time": 1773909381,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -59,20 +67,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 645783,
+      "num": 1103325,
+      "word": "涉密人员婚假擅自出境被通报批评",
+      "onboard_time": 1773907521,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 593307,
       "num": 264885,
       "word": "曝迪丽热巴换了张小斐前经纪人",
       "onboard_time": 1773875418,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 589593,
-      "num": 589593,
-      "word": "沈月拍出了徐志胜人生照片",
-      "onboard_time": 1773909381,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 569703,
@@ -97,14 +105,6 @@
       "onboard_time": 1773895344,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 529972,
-      "num": 1084795,
-      "word": "涉密人员婚假擅自出境被通报批评",
-      "onboard_time": 1773907521,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 517773,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 250438,
-      "num": 78858,
+      "num": 84079,
       "word": "刘强东章泽天现身巴黎街头",
       "onboard_time": 1773907641,
       "rank": 30,
@@ -635,6 +635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167743,
+      "num": 129539,
+      "word": "金价下跌能抄底吗",
+      "onboard_time": 1773909680,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166434,
       "num": 250392,
       "word": "谢征的毕业论文",
@@ -649,6 +657,14 @@
       "onboard_time": 1773894263,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163854,
+      "num": 163854,
+      "word": "央行坚定维护股票等市场平稳运行",
+      "onboard_time": 1773909680,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 160734,
@@ -763,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139837,
+      "num": 139837,
+      "word": "男子从年轻买到退休终于中1046万",
+      "onboard_time": 1773907819,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134830,
       "num": 138269,
       "word": "女子被母亲介绍的相亲对象骗85万",
@@ -803,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129539,
-      "num": 129539,
-      "word": "金价下跌能抄底吗",
-      "onboard_time": 1773909680,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 127744,
       "num": 127744,
       "word": "看得出她是公主陈妍希",
@@ -841,6 +857,14 @@
       "onboard_time": 1773852019,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124578,
+      "num": 129795,
+      "word": "北大毕业男子仅送外卖一天",
+      "onboard_time": 1773909921,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123248,
@@ -947,14 +971,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 105980,
-      "num": 134386,
-      "word": "男子从年轻买到退休终于中1046万",
-      "onboard_time": 1773907819,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105532,
       "num": 105532,
       "word": "小米大模型",
@@ -987,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103858,
+      "num": 103858,
+      "word": "何晟铭于正你俩没有微信吗",
+      "onboard_time": 1773908901,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102595,
       "num": 102595,
       "word": "美联储宣布维持利率不变",
@@ -1008,6 +1032,14 @@
       "word": "KPOP解约大年",
       "onboard_time": 1773897621,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98526,
+      "num": 96311,
+      "word": "陈星旭看上去好久没吃碳水了",
+      "onboard_time": 1773909442,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1033,6 +1065,14 @@
       "onboard_time": 1773904822,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96012,
+      "num": 96012,
+      "word": "中方回应美报告所谓2027攻台计划",
+      "onboard_time": 1773911241,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93820,
@@ -1131,14 +1171,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 89874,
-      "num": 89874,
-      "word": "何晟铭于正你俩没有微信吗",
-      "onboard_time": 1773908901,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89658,
       "num": 89658,
       "word": "市场预期彻底变了",
@@ -1187,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86681,
+      "num": 86681,
+      "word": "AI艺人 硬凹活人感",
+      "onboard_time": 1773905661,
+      "rank": 35,
+      "category": "互联网,作品衍生"
+    },
+    {
       "raw_hot": 86551,
       "num": 86551,
       "word": "专家说一夜无梦才是好睡眠系误解",
@@ -1201,22 +1241,6 @@
       "onboard_time": 1773838402,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 85462,
-      "num": 131146,
-      "word": "央行坚定维护股票等市场平稳运行",
-      "onboard_time": 1773909680,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 85141,
-      "num": 85141,
-      "word": "AI艺人 硬凹活人感",
-      "onboard_time": 1773905661,
-      "rank": 35,
-      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 84641,
@@ -1323,14 +1347,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 78482,
-      "num": 78482,
-      "word": "陈星旭看上去好久没吃碳水了",
-      "onboard_time": 1773909442,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78030,
       "num": 78030,
       "word": "爱犬走失遭剥皮宰杀警方已立案",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1773899360,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77357,
+      "num": 77357,
+      "word": "巴乙联赛惊现0触球进球",
+      "onboard_time": 1773911061,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 76475,
@@ -1403,12 +1427,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 72825,
+      "num": 72825,
+      "word": "金泰妍全家福共用一张脸",
+      "onboard_time": 1773911301,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72516,
       "num": 72516,
       "word": "詹姆斯半场8中8轰18分",
       "onboard_time": 1773890720,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71192,
+      "num": 71192,
+      "word": "伊朗发动第63波攻势",
+      "onboard_time": 1773911181,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70981,
@@ -1441,6 +1481,14 @@
       "onboard_time": 1773878601,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69951,
+      "num": 69951,
+      "word": "油价飙升澳民众加完油就跑",
+      "onboard_time": 1773910821,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68905,
@@ -1523,6 +1571,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 65160,
+      "num": 65160,
+      "word": "疑似胡歌初恋女友发文",
+      "onboard_time": 1773911360,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65124,
+      "num": 65124,
+      "word": "宝妈每天用84消毒患上罕见病",
+      "onboard_time": 1773910762,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65019,
       "num": 65019,
       "word": "剑来这首歌唱的是别来无恙",
@@ -1539,12 +1603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64674,
+      "num": 64674,
+      "word": "黄金跌个没完",
+      "onboard_time": 1773911360,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64650,
       "num": 64650,
       "word": "雷军回应大模型火了",
       "onboard_time": 1773909621,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 63465,
+      "num": 63465,
+      "word": "听歌可以产生多巴胺",
+      "onboard_time": 1773911241,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 62871,
@@ -1561,6 +1641,14 @@
       "onboard_time": 1773906923,
       "rank": 47,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 61557,
+      "num": 69954,
+      "word": "日本将向美国赠送250棵樱花树",
+      "onboard_time": 1773911061,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60691,
@@ -1609,6 +1697,14 @@
       "onboard_time": 1773893301,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58621,
+      "num": 63048,
+      "word": "一种很新的星座鉴定",
+      "onboard_time": 1773911000,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 58328,
@@ -1795,6 +1891,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 39251,
+      "num": 69957,
+      "word": "椰树集团要买50台机器人剥椰子",
+      "onboard_time": 1773910941,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38381,
       "num": 130184,
       "word": "全世界都在一块喝好茶",
@@ -1841,6 +1945,14 @@
       "onboard_time": 1773835821,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33058,
+      "num": 104280,
+      "word": "女子将20万黄金藏豆瓣酱里寄骗子",
+      "onboard_time": 1773911121,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32086,
@@ -1921,14 +2033,6 @@
       "onboard_time": 1773857774,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23092,
-      "num": 129795,
-      "word": "北大毕业男子仅送外卖一天",
-      "onboard_time": 1773909921,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22761,

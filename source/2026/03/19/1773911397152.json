@@ -1,0 +1,410 @@
+{
+  "runTime": 1773911397152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 645783,
+        "num": 1103325,
+        "word": "涉密人员婚假擅自出境被通报批评",
+        "onboard_time": 1773907521,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177465,
+        "num": 776001,
+        "word": "蓝莓价格大跳水了",
+        "onboard_time": 1773898160,
+        "rank": 1,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 15784,
+        "num": 611154,
+        "word": "数读2025海洋经济公报",
+        "onboard_time": 1773906081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 720992,
+        "num": 400755,
+        "word": "沈月拍出了徐志胜人生照片",
+        "onboard_time": 1773909381,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169302,
+        "num": 169302,
+        "word": "王楚钦孙颖莎双打世界杯海报",
+        "onboard_time": 1773906081,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207255,
+        "num": 168848,
+        "word": "外交部回应伊朗拉里贾尼遇害",
+        "onboard_time": 1773906381,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163854,
+        "num": 163854,
+        "word": "央行坚定维护股票等市场平稳运行",
+        "onboard_time": 1773909680,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152368,
+        "num": 152368,
+        "word": "在公司点奶茶差点被劝退了",
+        "onboard_time": 1773901641,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139837,
+        "num": 139837,
+        "word": "男子从年轻买到退休终于中1046万",
+        "onboard_time": 1773907819,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126471,
+        "num": 126471,
+        "word": "女子被母亲介绍的相亲对象骗85万",
+        "onboard_time": 1773906981,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252698,
+        "num": 126164,
+        "word": "吃甜品的漂亮姐姐迪丽热巴",
+        "onboard_time": 1773909022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246233,
+        "num": 125919,
+        "word": "6岁娃被妈妈独自丢酒店每天求抱抱",
+        "onboard_time": 1773906381,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238743,
+        "num": 125804,
+        "word": "AI观众 AI粉丝 AI打分",
+        "onboard_time": 1773903140,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201232,
+        "num": 125271,
+        "word": "油价",
+        "onboard_time": 1773893301,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183811,
+        "num": 125172,
+        "word": "岳雨婷直播美颜掉了",
+        "onboard_time": 1773893480,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151123,
+        "num": 124719,
+        "word": "郭宇欣杀青哭了",
+        "onboard_time": 1773905781,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124578,
+        "num": 124578,
+        "word": "北大毕业男子仅送外卖一天",
+        "onboard_time": 1773909921,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148501,
+        "num": 117151,
+        "word": "张凌赫杂志",
+        "onboard_time": 1773889940,
+        "rank": 17,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 27074,
+        "num": 110037,
+        "word": "全世界都在一块喝好茶",
+        "onboard_time": 1773908722,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107194,
+        "num": 107194,
+        "word": "委内瑞拉击败美国夺冠 全国放假一天",
+        "onboard_time": 1773893901,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33058,
+        "num": 104280,
+        "word": "女子将20万黄金藏豆瓣酱里寄骗子",
+        "onboard_time": 1773911121,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167743,
+        "num": 104077,
+        "word": "金价下跌能抄底吗",
+        "onboard_time": 1773909680,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103858,
+        "num": 103858,
+        "word": "何晟铭于正你俩没有微信吗",
+        "onboard_time": 1773908901,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101363,
+        "num": 101363,
+        "word": "任敏10年前考上全球前十表演学校",
+        "onboard_time": 1773896242,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96599,
+        "num": 96599,
+        "word": "原来命运真的有伏笔",
+        "onboard_time": 1773895344,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98526,
+        "num": 96311,
+        "word": "陈星旭看上去好久没吃碳水了",
+        "onboard_time": 1773909442,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96012,
+        "num": 96012,
+        "word": "中方回应美报告所谓2027攻台计划",
+        "onboard_time": 1773911241,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94666,
+        "num": 94666,
+        "word": "A股跌破4000点",
+        "onboard_time": 1773904463,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92365,
+        "num": 92365,
+        "word": "周杰伦新专 圣诞星",
+        "onboard_time": 1773895881,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86681,
+        "num": 86681,
+        "word": "AI艺人 硬凹活人感",
+        "onboard_time": 1773905661,
+        "rank": 29,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 229659,
+        "num": 84079,
+        "word": "刘强东章泽天现身巴黎街头",
+        "onboard_time": 1773907641,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77357,
+        "num": 77357,
+        "word": "巴乙联赛惊现0触球进球",
+        "onboard_time": 1773911061,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73291,
+        "num": 73291,
+        "word": "爱犬走失遭剥皮宰杀警方已立案",
+        "onboard_time": 1773908420,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72825,
+        "num": 72825,
+        "word": "金泰妍全家福共用一张脸",
+        "onboard_time": 1773911301,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71192,
+        "num": 71192,
+        "word": "伊朗发动第63波攻势",
+        "onboard_time": 1773911181,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70193,
+        "num": 70193,
+        "word": "腾讯暴跌原因",
+        "onboard_time": 1773906623,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 66985,
+        "num": 69990,
+        "word": "贺峻霖的摩托山路十八弯",
+        "onboard_time": 1773902181,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39251,
+        "num": 69957,
+        "word": "椰树集团要买50台机器人剥椰子",
+        "onboard_time": 1773910941,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61557,
+        "num": 69954,
+        "word": "日本将向美国赠送250棵樱花树",
+        "onboard_time": 1773911061,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69951,
+        "num": 69951,
+        "word": "油价飙升澳民众加完油就跑",
+        "onboard_time": 1773910821,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 67761,
+        "num": 67761,
+        "word": "LV新款喷壶手袋售36000元",
+        "onboard_time": 1773907102,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 65160,
+        "num": 65160,
+        "word": "疑似胡歌初恋女友发文",
+        "onboard_time": 1773911360,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65124,
+        "num": 65124,
+        "word": "宝妈每天用84消毒患上罕见病",
+        "onboard_time": 1773910762,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64674,
+        "num": 64674,
+        "word": "黄金跌个没完",
+        "onboard_time": 1773911360,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64160,
+        "num": 64160,
+        "word": "减肥人老了以后",
+        "onboard_time": 1773904822,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63689,
+        "num": 63689,
+        "word": "银行开始劝退炒金客",
+        "onboard_time": 1773903440,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63465,
+        "num": 63465,
+        "word": "听歌可以产生多巴胺",
+        "onboard_time": 1773911241,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58621,
+        "num": 63048,
+        "word": "一种很新的星座鉴定",
+        "onboard_time": 1773911000,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63027,
+        "num": 63027,
+        "word": "不运动也能减重的7个方法",
+        "onboard_time": 1773900381,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 62489,
+        "num": 62489,
+        "word": "丁禹兮 沪上潮男",
+        "onboard_time": 1773908962,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}
