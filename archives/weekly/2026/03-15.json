@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773963514969,
+  "endTime": 1773964453691,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -193,6 +193,14 @@
       "onboard_time": 1773652225,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1222264,
+      "num": 114165,
+      "word": "特朗普见高市早苗提偷袭珍珠港",
+      "onboard_time": 1773962598,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1196615,
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 693764,
-      "num": 100562,
+      "num": 116239,
       "word": "一觉醒来黄金挂坠亏了2000元",
       "onboard_time": 1773935002,
       "rank": 32,
@@ -1147,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546336,
+      "num": 113987,
+      "word": "女高管疑因在办公室偷吃被开除",
+      "onboard_time": 1773963559,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540999,
       "num": 1086559,
       "word": "美宜佳被曝光后半小时无一人进店",
@@ -1601,14 +1617,6 @@
       "onboard_time": 1773652104,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 452573,
-      "num": 100437,
-      "word": "特朗普见高市早苗提偷袭珍珠港",
-      "onboard_time": 1773962598,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 451739,
@@ -3300,7 +3308,7 @@
     },
     {
       "raw_hot": 272431,
-      "num": 100735,
+      "num": 103492,
       "word": "伊朗称打击命中美第五舰队",
       "onboard_time": 1773937099,
       "rank": 5,
@@ -3705,6 +3713,14 @@
       "onboard_time": 1773896002,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245966,
+      "num": 103681,
+      "word": "以方暂停空袭伊朗能源设施",
+      "onboard_time": 1773962358,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 245741,
@@ -4235,6 +4251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 218423,
+      "num": 110085,
+      "word": "瞿颖香奈儿老了还是香奈儿",
+      "onboard_time": 1773924502,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217621,
       "num": 646906,
       "word": "雷军感谢王兴兴给了投资宇树的机会",
@@ -4289,6 +4313,14 @@
       "onboard_time": 1773540379,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214528,
+      "num": 211077,
+      "word": "金价暴跌抄底7天越买越套",
+      "onboard_time": 1773930922,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 214446,
@@ -4379,14 +4411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 211078,
-      "num": 211077,
-      "word": "金价暴跌抄底7天越买越套",
-      "onboard_time": 1773930922,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 211006,
       "num": 185038,
       "word": "钮钴禄Jennie",
@@ -4425,6 +4449,14 @@
       "onboard_time": 1773755182,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208149,
+      "num": 107189,
+      "word": "小S复工后首期节目惊现惊喜嘉宾",
+      "onboard_time": 1773961518,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 208013,
@@ -4579,14 +4611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202277,
-      "num": 99255,
-      "word": "瞿颖香奈儿老了还是香奈儿",
-      "onboard_time": 1773924502,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 202099,
       "num": 194374,
       "word": "民警抓捕逃犯时牺牲2嫌犯畏罪自杀",
@@ -4633,6 +4657,14 @@
       "onboard_time": 1773916581,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197102,
+      "num": 129593,
+      "word": "原著谢征和长玉提了分手",
+      "onboard_time": 1773963799,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 197036,
@@ -5027,6 +5059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181481,
+      "num": 97042,
+      "word": "巴西女子嫁给布娃娃还连生4子",
+      "onboard_time": 1773964399,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 181427,
       "num": 181427,
       "word": "瞿颖胡兵曾相约都单身就生个孩子",
@@ -5163,16 +5203,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 176900,
-      "num": 98913,
-      "word": "小S复工后首期节目惊现惊喜嘉宾",
-      "onboard_time": 1773961518,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176701,
-      "num": 98557,
+      "num": 103718,
       "word": "美国女教师用蛋糕引诱性侵学生",
       "onboard_time": 1773962057,
       "rank": 20,
@@ -5817,6 +5849,14 @@
       "onboard_time": 1773915442,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153945,
+      "num": 740199,
+      "word": "春分",
+      "onboard_time": 1773961938,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153929,
@@ -6675,6 +6715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131822,
+      "num": 198443,
+      "word": "日本劫掠中国文物数量惊人",
+      "onboard_time": 1773931583,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131786,
       "num": 190207,
       "word": "金价下跌也买不到",
@@ -6819,6 +6867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128287,
+      "num": 103625,
+      "word": "金银暴跌原因找到了",
+      "onboard_time": 1773961817,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128272,
       "num": 128272,
       "word": "王一博春晚伴舞老师分享趣事",
@@ -6857,14 +6913,6 @@
       "onboard_time": 1773566062,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 127527,
-      "num": 127527,
-      "word": "春分",
-      "onboard_time": 1773961938,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127520,
@@ -7179,28 +7227,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 121416,
-      "num": 87622,
-      "word": "以方暂停空袭伊朗能源设施",
-      "onboard_time": 1773962358,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 121316,
       "num": 135933,
       "word": "七万元买QQ到底贵不贵",
       "onboard_time": 1773736522,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 121065,
-      "num": 198443,
-      "word": "日本劫掠中国文物数量惊人",
-      "onboard_time": 1773931583,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121051,
@@ -7443,6 +7475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116954,
+      "num": 116954,
+      "word": "伊朗称击中美军F35战机",
+      "onboard_time": 1773963500,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116841,
       "num": 116841,
       "word": "余承恩妈妈感谢夏之光",
@@ -7529,14 +7569,6 @@
       "onboard_time": 1773631881,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115341,
-      "num": 98204,
-      "word": "金银暴跌原因找到了",
-      "onboard_time": 1773961817,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 114654,
@@ -8153,6 +8185,14 @@
       "onboard_time": 1773921321,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105637,
+      "num": 103375,
+      "word": "女子玩笑称买5000克黄金当存钱",
+      "onboard_time": 1773963020,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105532,
@@ -8987,6 +9027,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 95291,
+      "num": 95291,
+      "word": "GEN的对手是BLG",
+      "onboard_time": 1773961817,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95258,
       "num": 95258,
       "word": "没见过逐玉这么伟大的剧宣",
@@ -9793,14 +9841,6 @@
       "onboard_time": 1773889940,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87595,
-      "num": 87595,
-      "word": "女子玩笑称买5000克黄金当存钱",
-      "onboard_time": 1773963020,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87572,
@@ -11123,6 +11163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76525,
+      "num": 76525,
+      "word": "二月二",
+      "onboard_time": 1773963919,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76475,
       "num": 75906,
       "word": "库克说李宇春是改变世界的人",
@@ -11721,14 +11769,6 @@
       "onboard_time": 1773798082,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71120,
-      "num": 71120,
-      "word": "GEN的对手是BLG",
-      "onboard_time": 1773961817,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 70994,
@@ -12408,6 +12448,14 @@
       "word": "铁扇公主vs巴掌男团",
       "onboard_time": 1773714680,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62489,
+      "num": 62489,
+      "word": "樊长玉被众人排斥",
+      "onboard_time": 1773951134,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -13107,14 +13155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 48421,
-      "num": 47617,
-      "word": "樊长玉被众人排斥",
-      "onboard_time": 1773951134,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 48385,
       "num": 209946,
       "word": "盗号清洗卖号全流程曝光",
@@ -13129,6 +13169,14 @@
       "onboard_time": 1773810023,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48263,
+      "num": 48263,
+      "word": "伊朗首次使用升级版导弹",
+      "onboard_time": 1773964280,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47838,
@@ -14459,6 +14507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19165,
+      "num": 561334,
+      "word": "十五五规划纲要撰写的幕后",
+      "onboard_time": 1773925402,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19081,
       "num": 19532,
       "word": "肖战匠心赴长路",
@@ -14553,14 +14609,6 @@
       "onboard_time": 1773948253,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17642,
-      "num": 528521,
-      "word": "十五五规划纲要撰写的幕后",
-      "onboard_time": 1773925402,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17621,
@@ -14849,14 +14897,6 @@
       "onboard_time": 1773474860,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8540,
-      "num": 100939,
-      "word": "伊朗称击中美军F35战机",
-      "onboard_time": 1773963500,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 8050,
