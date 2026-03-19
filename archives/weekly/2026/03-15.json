@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773941559172,
+  "endTime": 1773943908616,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -4841,6 +4841,14 @@
       "onboard_time": 1773673643,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186241,
+      "num": 48866,
+      "word": "伊朗导弹击中以色列海法炼油厂",
+      "onboard_time": 1773940818,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 185969,
@@ -12803,14 +12811,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52806,
-      "num": 34408,
-      "word": "伊朗导弹击中以色列海法炼油厂",
-      "onboard_time": 1773940818,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 52776,
       "num": 62327,
       "word": "刘耀文杭州",
@@ -12947,6 +12947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48936,
+      "num": 103804,
+      "word": "香港荃湾一地起火已疏散近百人",
+      "onboard_time": 1773936080,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48807,
       "num": 155739,
       "word": "樊长玉这滴泪的重量",
@@ -13081,14 +13089,6 @@
       "onboard_time": 1773919281,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 45922,
-      "num": 103804,
-      "word": "香港荃湾一地起火已疏散近百人",
-      "onboard_time": 1773936080,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44919,
@@ -14067,6 +14067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24214,
+      "num": 24214,
+      "word": "ITZY召回打歌",
+      "onboard_time": 1773942795,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 24152,
       "num": 38924,
       "word": "肖战品质盛典造型大片",
@@ -14417,6 +14425,14 @@
       "onboard_time": 1773653543,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 17878,
+      "num": 20381,
+      "word": "伊朗逮捕41名间谍",
+      "onboard_time": 1773937578,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17760,
