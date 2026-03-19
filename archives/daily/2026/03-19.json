@@ -1,6 +1,6 @@
 {
   "startTime": 1773853886951,
-  "endTime": 1773926502768,
+  "endTime": 1773928111147,
   "band_list": [
     {
       "raw_hot": 1955137,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 619252,
+      "num": 1099080,
+      "word": "小米笔记本",
+      "onboard_time": 1773925042,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 593307,
       "num": 264885,
       "word": "曝迪丽热巴换了张小斐前经纪人",
@@ -147,20 +155,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 522943,
-      "num": 1083671,
-      "word": "小米笔记本",
-      "onboard_time": 1773925042,
-      "rank": 0,
-      "category": "数码"
-    },
-    {
       "raw_hot": 517773,
       "num": 245550,
       "word": "THEBOYZ解约",
       "onboard_time": 1773887661,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 509093,
+      "num": 613823,
+      "word": "小米新SU7起售价21.99万元",
+      "onboard_time": 1773924742,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 498831,
@@ -281,14 +289,6 @@
       "onboard_time": 1773885320,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 427309,
-      "num": 613823,
-      "word": "小米新SU7起售价21.99万元",
-      "onboard_time": 1773924742,
-      "rank": 3,
-      "category": "汽车"
     },
     {
       "raw_hot": 417771,
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281634,
+      "num": 199960,
+      "word": "台湾发生双尸案",
+      "onboard_time": 1773924922,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281228,
       "num": 389980,
       "word": "女子车祸住院429天371天是挂床",
@@ -635,20 +643,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247718,
-      "num": 199960,
-      "word": "台湾发生双尸案",
-      "onboard_time": 1773924922,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246844,
       "num": 246844,
       "word": "赵丽颖喜欢自己的新发型",
       "onboard_time": 1773896002,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245566,
+      "num": 356081,
+      "word": "谁敢看逐玉接下来的预告",
+      "onboard_time": 1773923963,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 243694,
@@ -681,6 +689,14 @@
       "onboard_time": 1773915622,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234333,
+      "num": 174078,
+      "word": "张凌赫直播",
+      "onboard_time": 1773925341,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 232917,
@@ -731,6 +747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 217621,
+      "num": 166091,
+      "word": "雷军感谢王兴兴给了投资宇树的机会",
+      "onboard_time": 1773927502,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 217233,
       "num": 144300,
       "word": "黄金",
@@ -771,7 +795,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 199453,
+      "raw_hot": 206963,
       "num": 199453,
       "word": "鞠婧祎爱吃白开水泡饭",
       "onboard_time": 1773921081,
@@ -891,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176232,
+      "num": 192802,
+      "word": "雷军称新SU7门把手完全符合新国标",
+      "onboard_time": 1773926063,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 175371,
       "num": 323359,
       "word": "银行开始劝退炒金客",
@@ -907,20 +939,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174078,
-      "num": 174078,
-      "word": "张凌赫直播",
-      "onboard_time": 1773925341,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171082,
       "num": 152904,
       "word": "孙乐言北京时装周走秀",
       "onboard_time": 1773875659,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170927,
+      "num": 170927,
+      "word": "陶晶莹说被张凌赫古装帅得吓到",
+      "onboard_time": 1773925702,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 167743,
@@ -939,20 +971,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165615,
+      "num": 165615,
+      "word": "3岁男童独自进电梯后坠楼身亡",
+      "onboard_time": 1773924802,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164180,
       "num": 154847,
       "word": "瞿颖与老公未领证未举办婚礼",
       "onboard_time": 1773894263,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161951,
-      "num": 356081,
-      "word": "谁敢看逐玉接下来的预告",
-      "onboard_time": 1773923963,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 161190,
@@ -1051,22 +1083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 151157,
-      "num": 151157,
-      "word": "陶晶莹说被张凌赫古装帅得吓到",
-      "onboard_time": 1773925702,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 150659,
-      "num": 192802,
-      "word": "雷军称新SU7门把手完全符合新国标",
-      "onboard_time": 1773926063,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 147268,
       "num": 140595,
       "word": "如果一个人长期不工作",
@@ -1115,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143440,
-      "num": 143440,
-      "word": "3岁男童独自进电梯后坠楼身亡",
-      "onboard_time": 1773924802,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140258,
       "num": 125994,
       "word": "赵丽颖被主持人骗到的反应",
@@ -1160,6 +1168,14 @@
       "word": "女子被母亲介绍的相亲对象骗85万",
       "onboard_time": 1773906981,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134307,
+      "num": 134307,
+      "word": "男子1188抄底100克黄金后傻眼",
+      "onboard_time": 1773927562,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1267,6 +1283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121975,
+      "num": 170575,
+      "word": "雷军现身发布会",
+      "onboard_time": 1773918560,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121893,
       "num": 202146,
       "word": "恋与深空新周边",
@@ -1363,14 +1387,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 108450,
-      "num": 108450,
-      "word": "雷军现身发布会",
-      "onboard_time": 1773918560,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 107907,
       "num": 107907,
       "word": "奶奶减肥法或致肌肉流失代谢下降",
@@ -1433,6 +1449,22 @@
       "onboard_time": 1773882500,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 105444,
+      "num": 105444,
+      "word": "主人回应7只被偷小狗结伴逃回家",
+      "onboard_time": 1773927083,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105439,
+      "num": 105439,
+      "word": "父亲回应儿子北大毕业送外卖",
+      "onboard_time": 1773926902,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104980,
@@ -1619,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91537,
+      "num": 91537,
+      "word": "黄金瀑布式跳水",
+      "onboard_time": 1773927323,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91431,
       "num": 387507,
       "word": "红糖姜汁",
@@ -1691,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87513,
+      "num": 123573,
+      "word": "胖东来馒头每人限购12个",
+      "onboard_time": 1773927562,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87255,
       "num": 87255,
       "word": "湖人vs火箭",
@@ -1739,6 +1787,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85780,
+      "num": 85780,
+      "word": "这个窝很符合猫体工程学",
+      "onboard_time": 1773927743,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85578,
+      "num": 154457,
+      "word": "女婴半岁确诊脊柱裂大排畸报告正常",
+      "onboard_time": 1773926423,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84858,
       "num": 84858,
       "word": "女生跳舞时被男生撞后下一秒转场",
@@ -1752,6 +1816,14 @@
       "word": "多家银行金条断货",
       "onboard_time": 1773890000,
       "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 84282,
+      "num": 84282,
+      "word": "油价暴涨后跳水",
+      "onboard_time": 1773925882,
+      "rank": 45,
       "category": "财经"
     },
     {
@@ -1993,6 +2065,14 @@
       "onboard_time": 1773908962,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71100,
+      "num": 200209,
+      "word": "宝诗龙上海全明星阵容",
+      "onboard_time": 1773925402,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 70981,
@@ -2619,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34810,
+      "num": 621620,
+      "word": "长江上又一座大桥建设新进展",
+      "onboard_time": 1773926481,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33766,
       "num": 117005,
       "word": "广西通报山林露天堆放垃圾160多吨",
@@ -2633,14 +2721,6 @@
       "onboard_time": 1773835821,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32593,
-      "num": 200209,
-      "word": "宝诗龙上海全明星阵容",
-      "onboard_time": 1773925402,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 32086,
@@ -2659,20 +2739,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30337,
+      "num": 356318,
+      "word": "青岛爱心面馆让温暖具象化了",
+      "onboard_time": 1773925402,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30130,
       "num": 67697,
       "word": "跑腿师傅爬着进门怕弄脏地板",
       "onboard_time": 1773889520,
       "rank": 49,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 30048,
-      "num": 356318,
-      "word": "青岛爱心面馆让温暖具象化了",
-      "onboard_time": 1773925402,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29439,
@@ -2713,14 +2793,6 @@
       "onboard_time": 1773850939,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 27075,
-      "num": 154457,
-      "word": "女婴半岁确诊脊柱裂大排畸报告正常",
-      "onboard_time": 1773926423,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25864,
@@ -2865,14 +2937,6 @@
       "onboard_time": 1773839182,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 7064,
-      "num": 614429,
-      "word": "长江上又一座大桥建设新进展",
-      "onboard_time": 1773926481,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

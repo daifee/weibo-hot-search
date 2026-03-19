@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773926502768,
+  "endTime": 1773928111147,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -3515,6 +3515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 619252,
+      "num": 1099080,
+      "word": "小米笔记本",
+      "onboard_time": 1773925042,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 618117,
       "num": 739994,
       "word": "肖战十日终焉灰瞳",
@@ -4675,14 +4683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 522943,
-      "num": 1083671,
-      "word": "小米笔记本",
-      "onboard_time": 1773925042,
-      "rank": 0,
-      "category": "数码"
-    },
-    {
       "raw_hot": 522023,
       "num": 756777,
       "word": "推进祖国统一",
@@ -4937,6 +4937,14 @@
       "onboard_time": 1772406439,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 509093,
+      "num": 613823,
+      "word": "小米新SU7起售价21.99万元",
+      "onboard_time": 1773924742,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 507910,
@@ -6689,14 +6697,6 @@
       "onboard_time": 1772511928,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 427309,
-      "num": 613823,
-      "word": "小米新SU7起售价21.99万元",
-      "onboard_time": 1773924742,
-      "rank": 3,
-      "category": "汽车"
     },
     {
       "raw_hot": 427039,
@@ -11547,6 +11547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281634,
+      "num": 199960,
+      "word": "台湾发生双尸案",
+      "onboard_time": 1773924922,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281482,
       "num": 281482,
       "word": "金饰克价涨到1642元",
@@ -13147,14 +13155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247718,
-      "num": 199960,
-      "word": "台湾发生双尸案",
-      "onboard_time": 1773924922,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247600,
       "num": 286243,
       "word": "日本正紧张研判是否支援美军",
@@ -13241,6 +13241,14 @@
       "onboard_time": 1773747382,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 245566,
+      "num": 356081,
+      "word": "谁敢看逐玉接下来的预告",
+      "onboard_time": 1773923963,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 245508,
@@ -13857,6 +13865,14 @@
       "onboard_time": 1773829041,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 234333,
+      "num": 174078,
+      "word": "张凌赫直播",
+      "onboard_time": 1773925341,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 234188,
@@ -14883,6 +14899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217621,
+      "num": 166091,
+      "word": "雷军感谢王兴兴给了投资宇树的机会",
+      "onboard_time": 1773927502,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 217585,
       "num": 516335,
       "word": "儿媳一怀孕婆婆立马报班学月嫂",
@@ -15491,6 +15515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 206963,
+      "num": 199453,
+      "word": "鞠婧祎爱吃白开水泡饭",
+      "onboard_time": 1773921081,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206608,
       "num": 294141,
       "word": "张凌赫回应逐玉双平台破万",
@@ -15985,14 +16017,6 @@
       "onboard_time": 1773288322,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 199453,
-      "num": 199453,
-      "word": "鞠婧祎爱吃白开水泡饭",
-      "onboard_time": 1773921081,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 198944,
@@ -17683,6 +17707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176232,
+      "num": 192802,
+      "word": "雷军称新SU7门把手完全符合新国标",
+      "onboard_time": 1773926063,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 176046,
       "num": 176046,
       "word": "文咏珊 港女保养这一块",
@@ -17907,14 +17939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174078,
-      "num": 174078,
-      "word": "张凌赫直播",
-      "onboard_time": 1773925341,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173814,
       "num": 593624,
       "word": "西班牙人来中国一周后",
@@ -18113,6 +18137,14 @@
       "onboard_time": 1773530596,
       "rank": 6,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 170927,
+      "num": 170927,
+      "word": "陶晶莹说被张凌赫古装帅得吓到",
+      "onboard_time": 1773925702,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 170875,
@@ -18715,6 +18747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165615,
+      "num": 165615,
+      "word": "3岁男童独自进电梯后坠楼身亡",
+      "onboard_time": 1773924802,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165522,
       "num": 400604,
       "word": "ENHYPEN将以六人组活动",
@@ -19009,14 +19049,6 @@
       "onboard_time": 1772507305,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161951,
-      "num": 356081,
-      "word": "谁敢看逐玉接下来的预告",
-      "onboard_time": 1773923963,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 161913,
@@ -20323,14 +20355,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 151157,
-      "num": 151157,
-      "word": "陶晶莹说被张凌赫古装帅得吓到",
-      "onboard_time": 1773925702,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151094,
       "num": 151094,
       "word": "这课上的心脏挖出来还能跳三天",
@@ -20393,14 +20417,6 @@
       "onboard_time": 1772322080,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150659,
-      "num": 192802,
-      "word": "雷军称新SU7门把手完全符合新国标",
-      "onboard_time": 1773926063,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 150629,
@@ -21321,14 +21337,6 @@
       "onboard_time": 1772798721,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 143440,
-      "num": 143440,
-      "word": "3岁男童独自进电梯后坠楼身亡",
-      "onboard_time": 1773924802,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143404,
@@ -22521,6 +22529,14 @@
       "onboard_time": 1773755122,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 134307,
+      "num": 134307,
+      "word": "男子1188抄底100克黄金后傻眼",
+      "onboard_time": 1773927562,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134177,
@@ -24417,6 +24433,14 @@
       "onboard_time": 1773720924,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121975,
+      "num": 170575,
+      "word": "雷军现身发布会",
+      "onboard_time": 1773918560,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 121905,
@@ -27211,14 +27235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108450,
-      "num": 108450,
-      "word": "雷军现身发布会",
-      "onboard_time": 1773918560,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 108410,
       "num": 108410,
       "word": "方媛出发录制桃花坞6",
@@ -27865,6 +27881,22 @@
       "onboard_time": 1773723263,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 105444,
+      "num": 105444,
+      "word": "主人回应7只被偷小狗结伴逃回家",
+      "onboard_time": 1773927083,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105439,
+      "num": 105439,
+      "word": "父亲回应儿子北大毕业送外卖",
+      "onboard_time": 1773926902,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105403,
@@ -32123,6 +32155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91537,
+      "num": 91537,
+      "word": "黄金瀑布式跳水",
+      "onboard_time": 1773927323,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91532,
       "num": 202102,
       "word": "荣耀MagicV6带飞李杰灵",
@@ -33491,6 +33531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87513,
+      "num": 123573,
+      "word": "胖东来馒头每人限购12个",
+      "onboard_time": 1773927562,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87439,
       "num": 87439,
       "word": "vivo手机涨价",
@@ -34203,6 +34251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85780,
+      "num": 85780,
+      "word": "这个窝很符合猫体工程学",
+      "onboard_time": 1773927743,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85761,
       "num": 928077,
       "word": "女子看日本人商场扮熊猫称很搞笑",
@@ -34249,6 +34305,14 @@
       "onboard_time": 1772839879,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85578,
+      "num": 154457,
+      "word": "女婴半岁确诊脊柱裂大排畸报告正常",
+      "onboard_time": 1773926423,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85565,
@@ -34657,6 +34721,14 @@
       "onboard_time": 1772807963,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84282,
+      "num": 84282,
+      "word": "油价暴涨后跳水",
+      "onboard_time": 1773925882,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 84226,
@@ -39377,6 +39449,14 @@
       "onboard_time": 1773047362,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71100,
+      "num": 200209,
+      "word": "宝诗龙上海全明星阵容",
+      "onboard_time": 1773925402,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 71055,
@@ -47027,6 +47107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34810,
+      "num": 621620,
+      "word": "长江上又一座大桥建设新进展",
+      "onboard_time": 1773926481,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34797,
       "num": 590190,
       "word": "方寸之间看见中国",
@@ -47515,14 +47603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32593,
-      "num": 200209,
-      "word": "宝诗龙上海全明星阵容",
-      "onboard_time": 1773925402,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 32498,
       "num": 154418,
       "word": "电子烟加兽用麻醉药",
@@ -47819,6 +47899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30337,
+      "num": 356318,
+      "word": "青岛爱心面馆让温暖具象化了",
+      "onboard_time": 1773925402,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30156,
       "num": 96716,
       "word": "宋兆普说两年内高额彩礼有望取消",
@@ -47857,14 +47945,6 @@
       "onboard_time": 1772372243,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30048,
-      "num": 356318,
-      "word": "青岛爱心面馆让温暖具象化了",
-      "onboard_time": 1773925402,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30045,
@@ -48345,14 +48425,6 @@
       "onboard_time": 1773208821,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27075,
-      "num": 154457,
-      "word": "女婴半岁确诊脊柱裂大排畸报告正常",
-      "onboard_time": 1773926423,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26965,
@@ -51023,14 +51095,6 @@
       "num": 634920,
       "word": "报告里的民生温度热气腾腾",
       "onboard_time": 1773063863,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 7064,
-      "num": 614429,
-      "word": "长江上又一座大桥建设新进展",
-      "onboard_time": 1773926481,
       "rank": 2,
       "category": "国内时政"
     },

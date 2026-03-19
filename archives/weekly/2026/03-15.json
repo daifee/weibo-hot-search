@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773926502768,
+  "endTime": 1773928111147,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -763,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 619252,
+      "num": 1099080,
+      "word": "小米笔记本",
+      "onboard_time": 1773925042,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 616604,
       "num": 616604,
       "word": "医美骗局",
@@ -1179,14 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 522943,
-      "num": 1083671,
-      "word": "小米笔记本",
-      "onboard_time": 1773925042,
-      "rank": 0,
-      "category": "数码"
-    },
-    {
       "raw_hot": 519575,
       "num": 814875,
       "word": "胖东来169元1克拉方糖戒指再上架",
@@ -1249,6 +1249,14 @@
       "onboard_time": 1773825982,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 509093,
+      "num": 613823,
+      "word": "小米新SU7起售价21.99万元",
+      "onboard_time": 1773924742,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 503908,
@@ -1713,14 +1721,6 @@
       "onboard_time": 1773885320,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 427309,
-      "num": 613823,
-      "word": "小米新SU7起售价21.99万元",
-      "onboard_time": 1773924742,
-      "rank": 3,
-      "category": "汽车"
     },
     {
       "raw_hot": 426366,
@@ -3059,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281634,
+      "num": 199960,
+      "word": "台湾发生双尸案",
+      "onboard_time": 1773924922,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281228,
       "num": 389980,
       "word": "女子车祸住院429天371天是挂床",
@@ -3571,14 +3579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247718,
-      "num": 199960,
-      "word": "台湾发生双尸案",
-      "onboard_time": 1773924922,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247585,
       "num": 247585,
       "word": "买一套房补贴10万杭州多地已安排",
@@ -3617,6 +3617,14 @@
       "onboard_time": 1773747382,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 245566,
+      "num": 356081,
+      "word": "谁敢看逐玉接下来的预告",
+      "onboard_time": 1773923963,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 245501,
@@ -3777,6 +3785,14 @@
       "onboard_time": 1773829041,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 234333,
+      "num": 174078,
+      "word": "张凌赫直播",
+      "onboard_time": 1773925341,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 234008,
@@ -4107,6 +4123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 217621,
+      "num": 166091,
+      "word": "雷军感谢王兴兴给了投资宇树的机会",
+      "onboard_time": 1773927502,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 217530,
       "num": 217530,
       "word": "黄天鹅严正声明",
@@ -4315,6 +4339,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 206963,
+      "num": 199453,
+      "word": "鞠婧祎爱吃白开水泡饭",
+      "onboard_time": 1773921081,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206514,
       "num": 468917,
       "word": "谢征试探长玉",
@@ -4449,14 +4481,6 @@
       "onboard_time": 1773673763,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 199453,
-      "num": 199453,
-      "word": "鞠婧祎爱吃白开水泡饭",
-      "onboard_time": 1773921081,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 198866,
@@ -5003,6 +5027,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 176232,
+      "num": 192802,
+      "word": "雷军称新SU7门把手完全符合新国标",
+      "onboard_time": 1773926063,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 175765,
       "num": 175765,
       "word": "司宫令开机",
@@ -5065,14 +5097,6 @@
       "onboard_time": 1773791840,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174078,
-      "num": 174078,
-      "word": "张凌赫直播",
-      "onboard_time": 1773925341,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 173669,
@@ -5145,6 +5169,14 @@
       "onboard_time": 1773530596,
       "rank": 6,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 170927,
+      "num": 170927,
+      "word": "陶晶莹说被张凌赫古装帅得吓到",
+      "onboard_time": 1773925702,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 170616,
@@ -5251,6 +5283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165615,
+      "num": 165615,
+      "word": "3岁男童独自进电梯后坠楼身亡",
+      "onboard_time": 1773924802,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164895,
       "num": 164895,
       "word": "半个娱乐圈的人都抱过林沐然",
@@ -5345,14 +5385,6 @@
       "onboard_time": 1773585926,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 161951,
-      "num": 356081,
-      "word": "谁敢看逐玉接下来的预告",
-      "onboard_time": 1773923963,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 161913,
@@ -5723,14 +5755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 151157,
-      "num": 151157,
-      "word": "陶晶莹说被张凌赫古装帅得吓到",
-      "onboard_time": 1773925702,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151073,
       "num": 151073,
       "word": "章子怡为角色增重20斤",
@@ -5745,14 +5769,6 @@
       "onboard_time": 1773803480,
       "rank": 29,
       "category": "军事"
-    },
-    {
-      "raw_hot": 150659,
-      "num": 192802,
-      "word": "雷军称新SU7门把手完全符合新国标",
-      "onboard_time": 1773926063,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 150413,
@@ -5984,14 +6000,6 @@
       "word": "男子输液头孢7年第一次过敏休克",
       "onboard_time": 1773876079,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143440,
-      "num": 143440,
-      "word": "3岁男童独自进电梯后坠楼身亡",
-      "onboard_time": 1773924802,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -6345,6 +6353,14 @@
       "onboard_time": 1773755122,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 134307,
+      "num": 134307,
+      "word": "男子1188抄底100克黄金后傻眼",
+      "onboard_time": 1773927562,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134177,
@@ -6921,6 +6937,14 @@
       "onboard_time": 1773720924,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121975,
+      "num": 170575,
+      "word": "雷军现身发布会",
+      "onboard_time": 1773918560,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 121893,
@@ -7619,14 +7643,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 108450,
-      "num": 108450,
-      "word": "雷军现身发布会",
-      "onboard_time": 1773918560,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 108410,
       "num": 108410,
       "word": "方媛出发录制桃花坞6",
@@ -7921,6 +7937,22 @@
       "onboard_time": 1773723263,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 105444,
+      "num": 105444,
+      "word": "主人回应7只被偷小狗结伴逃回家",
+      "onboard_time": 1773927083,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105439,
+      "num": 105439,
+      "word": "父亲回应儿子北大毕业送外卖",
+      "onboard_time": 1773926902,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105393,
@@ -9155,6 +9187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91537,
+      "num": 91537,
+      "word": "黄金瀑布式跳水",
+      "onboard_time": 1773927323,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91513,
       "num": 91513,
       "word": "孔雪儿浅浅训犬",
@@ -9539,6 +9579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87513,
+      "num": 123573,
+      "word": "胖东来馒头每人限购12个",
+      "onboard_time": 1773927562,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87439,
       "num": 87439,
       "word": "vivo手机涨价",
@@ -9811,6 +9859,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85780,
+      "num": 85780,
+      "word": "这个窝很符合猫体工程学",
+      "onboard_time": 1773927743,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85578,
+      "num": 154457,
+      "word": "女婴半岁确诊脊柱裂大排畸报告正常",
+      "onboard_time": 1773926423,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85565,
       "num": 85565,
       "word": "34岁女子脸部美容9日后身亡",
@@ -9969,6 +10033,14 @@
       "onboard_time": 1773646467,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84282,
+      "num": 84282,
+      "word": "油价暴涨后跳水",
+      "onboard_time": 1773925882,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 84226,
@@ -11369,6 +11441,14 @@
       "onboard_time": 1773798082,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71100,
+      "num": 200209,
+      "word": "宝诗龙上海全明星阵容",
+      "onboard_time": 1773925402,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 70994,
@@ -13235,6 +13315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34810,
+      "num": 621620,
+      "word": "长江上又一座大桥建设新进展",
+      "onboard_time": 1773926481,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34148,
       "num": 133763,
       "word": "曾被封杀的李一舟又开始卖AI课了",
@@ -13331,14 +13419,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 32593,
-      "num": 200209,
-      "word": "宝诗龙上海全明星阵容",
-      "onboard_time": 1773925402,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 32255,
       "num": 87687,
       "word": "12岁男孩玩火烧山父母赔偿2年",
@@ -13427,20 +13507,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30337,
+      "num": 356318,
+      "word": "青岛爱心面馆让温暖具象化了",
+      "onboard_time": 1773925402,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30130,
       "num": 67697,
       "word": "跑腿师傅爬着进门怕弄脏地板",
       "onboard_time": 1773889520,
       "rank": 49,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 30048,
-      "num": 356318,
-      "word": "青岛爱心面馆让温暖具象化了",
-      "onboard_time": 1773925402,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29996,
@@ -13569,14 +13649,6 @@
       "onboard_time": 1773850939,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 27075,
-      "num": 154457,
-      "word": "女婴半岁确诊脊柱裂大排畸报告正常",
-      "onboard_time": 1773926423,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26176,
@@ -14329,14 +14401,6 @@
       "onboard_time": 1773561622,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7064,
-      "num": 614429,
-      "word": "长江上又一座大桥建设新进展",
-      "onboard_time": 1773926481,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 5898,
