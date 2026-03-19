@@ -1,6 +1,6 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1773940310170,
+  "endTime": 1773941559172,
   "band_list": [
     {
       "raw_hot": 659112,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 151011,
-      "num": 151011,
+      "num": 300243,
       "word": "奔跑吧14",
       "onboard_time": 1773934463,
       "rank": 9,
@@ -347,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 52806,
+      "num": 34408,
+      "word": "伊朗导弹击中以色列海法炼油厂",
+      "onboard_time": 1773940818,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52776,
       "num": 62327,
       "word": "刘耀文杭州",
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27001,
+      "num": 29492,
+      "word": "瞿颖香奈儿老了还是香奈儿",
+      "onboard_time": 1773924502,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25573,
       "num": 29493,
       "word": "好好的时光",
@@ -435,20 +451,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25471,
-      "num": 29492,
-      "word": "瞿颖香奈儿老了还是香奈儿",
-      "onboard_time": 1773924502,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 24332,
       "num": 29490,
       "word": "唐钱婷一天两次刷新亚洲纪录",
       "onboard_time": 1773940278,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21182,
+      "num": 26887,
+      "word": "舒淇苏炳添现身小米发布会",
+      "onboard_time": 1773941417,
+      "rank": 49,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 20074,
