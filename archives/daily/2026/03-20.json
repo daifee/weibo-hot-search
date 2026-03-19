@@ -1,6 +1,6 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1773936951940,
+  "endTime": 1773940310170,
   "band_list": [
     {
       "raw_hot": 659112,
@@ -19,12 +19,28 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 376505,
+      "num": 133043,
+      "word": "月经弄脏卧铺遭索赔女子称很愧疚",
+      "onboard_time": 1773933382,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314061,
       "num": 765926,
       "word": "小米汽车",
       "onboard_time": 1773928582,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 272431,
+      "num": 100735,
+      "word": "伊朗称打击命中美第五舰队",
+      "onboard_time": 1773937099,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 259762,
@@ -57,14 +73,6 @@
       "onboard_time": 1773913580,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 183635,
-      "num": 133043,
-      "word": "月经弄脏卧铺遭索赔女子称很愧疚",
-      "onboard_time": 1773933382,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178696,
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125406,
+      "num": 402281,
+      "word": "南方医院承认医生未复核私自改报告",
+      "onboard_time": 1773934581,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124138,
       "num": 104833,
       "word": "台湾发生双尸案",
@@ -171,12 +187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104784,
-      "num": 104784,
-      "word": "南方医院承认医生未复核私自改报告",
-      "onboard_time": 1773934581,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 100427,
+      "num": 78931,
+      "word": "一觉醒来黄金挂坠亏了2000元",
+      "onboard_time": 1773935002,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 97065,
@@ -248,14 +264,6 @@
       "word": "黄金瀑布式跳水",
       "onboard_time": 1773927323,
       "rank": 31,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 74114,
-      "num": 74114,
-      "word": "一觉醒来黄金挂坠亏了2000元",
-      "onboard_time": 1773935002,
-      "rank": 32,
       "category": "财经"
     },
     {
@@ -387,7 +395,15 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 42166,
+      "raw_hot": 45922,
+      "num": 103804,
+      "word": "香港荃湾一地起火已疏散近百人",
+      "onboard_time": 1773936080,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45751,
       "num": 61270,
       "word": "金价跌到看不懂",
       "onboard_time": 1773926004,
@@ -395,12 +411,44 @@
       "category": "财经"
     },
     {
-      "raw_hot": 32922,
-      "num": 103804,
-      "word": "香港荃湾一地起火已疏散近百人",
-      "onboard_time": 1773936080,
-      "rank": 42,
+      "raw_hot": 39867,
+      "num": 39867,
+      "word": "邓凯手势舞",
+      "onboard_time": 1773937998,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 36599,
+      "num": 36599,
+      "word": "一校内面馆错把白酒当醋给学生用",
+      "onboard_time": 1773937158,
+      "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25573,
+      "num": 29493,
+      "word": "好好的时光",
+      "onboard_time": 1773939137,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25471,
+      "num": 29492,
+      "word": "瞿颖香奈儿老了还是香奈儿",
+      "onboard_time": 1773924502,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24332,
+      "num": 29490,
+      "word": "唐钱婷一天两次刷新亚洲纪录",
+      "onboard_time": 1773940278,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 20074,

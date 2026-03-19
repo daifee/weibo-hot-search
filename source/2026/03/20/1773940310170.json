@@ -1,0 +1,410 @@
+{
+  "runTime": 1773940310170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 268626,
+        "num": 538830,
+        "word": "7年前买的泡泡玛特盲盒才发货",
+        "onboard_time": 1773930982,
+        "rank": 0,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 125406,
+        "num": 402281,
+        "word": "南方医院承认医生未复核私自改报告",
+        "onboard_time": 1773934581,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12128,
+        "num": 297356,
+        "word": "十五五的两个超常规",
+        "onboard_time": 1773926063,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119840,
+        "num": 119840,
+        "word": "小米汽车",
+        "onboard_time": 1773928582,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108724,
+        "num": 108724,
+        "word": "奔跑吧14",
+        "onboard_time": 1773934463,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272431,
+        "num": 100735,
+        "word": "伊朗称打击命中美第五舰队",
+        "onboard_time": 1773937099,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89001,
+        "num": 89001,
+        "word": "山姆回应三文鱼标注加热却被生食",
+        "onboard_time": 1773932242,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84408,
+        "num": 84408,
+        "word": "中方对以方说法感到震惊",
+        "onboard_time": 1773913580,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61681,
+        "num": 84243,
+        "word": "新一代SU734分钟锁单1.5万台",
+        "onboard_time": 1773931583,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50838,
+        "num": 82725,
+        "word": "胖东来馒头每人限购12个",
+        "onboard_time": 1773927562,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376505,
+        "num": 82382,
+        "word": "月经弄脏卧铺遭索赔女子称很愧疚",
+        "onboard_time": 1773933382,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281243,
+        "num": 81323,
+        "word": "胡先煦秒删博",
+        "onboard_time": 1773913821,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114011,
+        "num": 80184,
+        "word": "逐玉",
+        "onboard_time": 1773918802,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100427,
+        "num": 78931,
+        "word": "一觉醒来黄金挂坠亏了2000元",
+        "onboard_time": 1773935002,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86417,
+        "num": 77837,
+        "word": "逐玉31集经纪人最爱的一集",
+        "onboard_time": 1773930202,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77631,
+        "num": 77631,
+        "word": "肖战宝诗龙",
+        "onboard_time": 1773932001,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71277,
+        "num": 71277,
+        "word": "鞠婧祎爱吃白开水泡饭",
+        "onboard_time": 1773921081,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71250,
+        "num": 71250,
+        "word": "主人回应7只被偷小狗结伴逃回家",
+        "onboard_time": 1773927083,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65988,
+        "num": 65988,
+        "word": "伊朗外长回应美2000亿美元战争拨款",
+        "onboard_time": 1773920541,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65224,
+        "num": 65224,
+        "word": "王格格 奔跑吧14",
+        "onboard_time": 1773919342,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77851,
+        "num": 64520,
+        "word": "金价暴跌抄底7天越买越套",
+        "onboard_time": 1773930922,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69684,
+        "num": 63537,
+        "word": "台湾发生双尸案",
+        "onboard_time": 1773924922,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58840,
+        "num": 58840,
+        "word": "网传奔跑吧14常驻嘉宾阵容",
+        "onboard_time": 1773913223,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57376,
+        "num": 57376,
+        "word": "张凌赫谈逐玉",
+        "onboard_time": 1773934940,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57039,
+        "num": 57039,
+        "word": "小米新SU7起售价21.99万元",
+        "onboard_time": 1773924742,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 47837,
+        "num": 47837,
+        "word": "黄金瀑布式跳水",
+        "onboard_time": 1773927323,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46342,
+        "num": 46342,
+        "word": "小米笔记本",
+        "onboard_time": 1773925042,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45922,
+        "num": 45922,
+        "word": "香港荃湾一地起火已疏散近百人",
+        "onboard_time": 1773936080,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45751,
+        "num": 45751,
+        "word": "金价跌到看不懂",
+        "onboard_time": 1773926004,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45601,
+        "num": 45601,
+        "word": "被路虎别停8次男子个人信息疑泄露",
+        "onboard_time": 1773916462,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45471,
+        "num": 45471,
+        "word": "17岁的Angelababy",
+        "onboard_time": 1773919460,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43621,
+        "num": 43621,
+        "word": "刘耀文杭州",
+        "onboard_time": 1773933442,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39867,
+        "num": 39867,
+        "word": "邓凯手势舞",
+        "onboard_time": 1773937998,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39207,
+        "num": 39207,
+        "word": "舒淇代言SU7",
+        "onboard_time": 1773922821,
+        "rank": 33,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 38738,
+        "num": 38738,
+        "word": "雷军感谢王兴兴给了投资宇树的机会",
+        "onboard_time": 1773927502,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38007,
+        "num": 38007,
+        "word": "日本劫掠中国文物数量惊人",
+        "onboard_time": 1773931583,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36599,
+        "num": 36599,
+        "word": "一校内面馆错把白酒当醋给学生用",
+        "onboard_time": 1773937158,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36226,
+        "num": 36226,
+        "word": "宝诗龙上海全明星阵容",
+        "onboard_time": 1773925402,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34279,
+        "num": 34279,
+        "word": "小米发布会",
+        "onboard_time": 1773918501,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33949,
+        "num": 33949,
+        "word": "樊长玉一句侯爷把谢征叫破防了",
+        "onboard_time": 1773921142,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32150,
+        "num": 32150,
+        "word": "神秘人花7500元预存500碗面",
+        "onboard_time": 1773929123,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31378,
+        "num": 31378,
+        "word": "伊朗要求阿联酋作出赔偿",
+        "onboard_time": 1773922881,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30841,
+        "num": 30841,
+        "word": "白日提灯",
+        "onboard_time": 1773914662,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30009,
+        "num": 30009,
+        "word": "刘宪华看见什么了",
+        "onboard_time": 1773933981,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29498,
+        "num": 29498,
+        "word": "父亲回应儿子北大毕业送外卖",
+        "onboard_time": 1773926902,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28128,
+        "num": 29497,
+        "word": "张凌赫直播",
+        "onboard_time": 1773925341,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26194,
+        "num": 29494,
+        "word": "金饰克价大幅回落了",
+        "onboard_time": 1773934762,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25573,
+        "num": 29493,
+        "word": "好好的时光",
+        "onboard_time": 1773939137,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25471,
+        "num": 29492,
+        "word": "瞿颖香奈儿老了还是香奈儿",
+        "onboard_time": 1773924502,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24332,
+        "num": 29490,
+        "word": "唐钱婷一天两次刷新亚洲纪录",
+        "onboard_time": 1773940278,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#金杯银杯不如老百姓口碑#"
+    }
+  }
+}
