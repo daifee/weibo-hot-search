@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773920588076,
+  "endTime": 1773921519058,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -3451,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 624487,
+      "num": 220157,
+      "word": "王格格 奔跑吧14",
+      "onboard_time": 1773919342,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624046,
       "num": 659257,
       "word": "微信3大新功能",
@@ -6763,14 +6771,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 422976,
-      "num": 220157,
-      "word": "王格格 奔跑吧14",
-      "onboard_time": 1773919342,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 422846,
       "num": 1067655,
       "word": "4S店回应拉黑吃饭超260次男子",
@@ -9763,6 +9763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 320727,
+      "num": 759652,
+      "word": "小米新SU7发布会请来半个车圈",
+      "onboard_time": 1773919101,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 320428,
       "num": 320428,
       "word": "孙颖莎vs蒯曼",
@@ -11059,6 +11067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290678,
+      "num": 185915,
+      "word": "逐玉开虐了",
+      "onboard_time": 1773919460,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290578,
       "num": 215584,
       "word": "小米汽车 舒淇",
@@ -11651,6 +11667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 278168,
+      "num": 105775,
+      "word": "杨天真坐轮椅出席年会",
+      "onboard_time": 1773918321,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278154,
       "num": 278154,
       "word": "薛之谦万兽之王巡回演唱会",
@@ -11836,7 +11860,7 @@
     },
     {
       "raw_hot": 273600,
-      "num": 154202,
+      "num": 159842,
       "word": "被路虎别停8次男子个人信息疑泄露",
       "onboard_time": 1773916462,
       "rank": 27,
@@ -12121,14 +12145,6 @@
       "onboard_time": 1772957720,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266032,
-      "num": 755597,
-      "word": "小米新SU7发布会请来半个车圈",
-      "onboard_time": 1773919101,
-      "rank": 1,
-      "category": "汽车"
     },
     {
       "raw_hot": 265995,
@@ -13083,6 +13099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248150,
+      "num": 248150,
+      "word": "年薪60万男子找下级借200万被辞",
+      "onboard_time": 1773915622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247841,
       "num": 218934,
       "word": "都美竹被判向朱姐道歉",
@@ -13715,14 +13739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 235415,
-      "num": 235415,
-      "word": "年薪60万男子找下级借200万被辞",
-      "onboard_time": 1773915622,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235232,
       "num": 235232,
       "word": "吴京 公了别人嬷了自己",
@@ -14065,14 +14081,6 @@
       "onboard_time": 1772709742,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229256,
-      "num": 102307,
-      "word": "杨天真坐轮椅出席年会",
-      "onboard_time": 1773918321,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 229136,
@@ -15803,6 +15811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201545,
+      "num": 98776,
+      "word": "中国小女孩打车视频在推特爆火",
+      "onboard_time": 1773920121,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201104,
       "num": 194171,
       "word": "林书豪张嘴闭嘴都是钱",
@@ -15969,6 +15985,14 @@
       "onboard_time": 1773570380,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 198177,
+      "num": 157812,
+      "word": "买30克金手镯比1月便宜6000元",
+      "onboard_time": 1773916581,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198010,
@@ -16947,14 +16971,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 185915,
-      "num": 185915,
-      "word": "逐玉开虐了",
-      "onboard_time": 1773919460,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185861,
       "num": 138579,
       "word": "蓝盈莹一出手就是浪姐水准",
@@ -16992,6 +17008,14 @@
       "word": "夏之光出道两年每月只有三千元",
       "onboard_time": 1773501262,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185344,
+      "num": 167494,
+      "word": "网传奔跑吧14常驻嘉宾阵容",
+      "onboard_time": 1773913223,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -17441,14 +17465,6 @@
       "onboard_time": 1773837624,
       "rank": 7,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 178732,
-      "num": 141233,
-      "word": "买30克金手镯比1月便宜6000元",
-      "onboard_time": 1773916581,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178664,
@@ -19563,14 +19579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156181,
-      "num": 156181,
-      "word": "网传奔跑吧14常驻嘉宾阵容",
-      "onboard_time": 1773913223,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156172,
       "num": 193985,
       "word": "小米SU7靛石绿",
@@ -20409,14 +20417,6 @@
       "onboard_time": 1772494038,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 149070,
-      "num": 93792,
-      "word": "中国小女孩打车视频在推特爆火",
-      "onboard_time": 1773920121,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149014,
@@ -21835,6 +21835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138276,
+      "num": 103355,
+      "word": "王橹杰和187的艾伦几乎一样高了",
+      "onboard_time": 1773920780,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138156,
       "num": 194370,
       "word": "白鹿回应和跑男团关系",
@@ -22161,6 +22169,14 @@
       "onboard_time": 1773631881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135509,
+      "num": 102478,
+      "word": "17岁的Angelababy",
+      "onboard_time": 1773919460,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 135435,
@@ -26555,6 +26571,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 110403,
+      "num": 110403,
+      "word": "黄金为啥一直跌",
+      "onboard_time": 1773919759,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110334,
       "num": 162162,
       "word": "国际劳动妇女节",
@@ -27403,6 +27427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106884,
+      "num": 106884,
+      "word": "伊朗外长回应美2000亿美元战争拨款",
+      "onboard_time": 1773920541,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106679,
       "num": 283232,
       "word": "给白发母亲塞200元当事医生发声",
@@ -27625,6 +27657,14 @@
       "onboard_time": 1773655821,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105749,
+      "num": 98631,
+      "word": "油价要破9元了",
+      "onboard_time": 1773921321,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 105664,
@@ -29563,14 +29603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99004,
-      "num": 92991,
-      "word": "黄金为啥一直跌",
-      "onboard_time": 1773919759,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 98980,
       "num": 98980,
       "word": "桃花坞第六季重庆路透",
@@ -30187,6 +30219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96726,
+      "num": 96726,
+      "word": "鞠婧祎爱吃白开水泡饭",
+      "onboard_time": 1773921081,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96725,
       "num": 96725,
       "word": "博主称阿德巴约83分是对科比的羞辱",
@@ -30305,6 +30345,14 @@
       "onboard_time": 1773893182,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96345,
+      "num": 96345,
+      "word": "小米发布会 小米汽车",
+      "onboard_time": 1773919822,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 96340,
@@ -30553,6 +30601,14 @@
       "onboard_time": 1772762720,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 95464,
+      "num": 95464,
+      "word": "瞿颖王俊凯早期走秀",
+      "onboard_time": 1773918740,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 95302,
@@ -31073,14 +31129,6 @@
       "onboard_time": 1773320420,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 93888,
-      "num": 93888,
-      "word": "17岁的Angelababy",
-      "onboard_time": 1773919460,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 93856,
@@ -32041,14 +32089,6 @@
       "onboard_time": 1773030741,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91245,
-      "num": 91245,
-      "word": "瞿颖王俊凯早期走秀",
-      "onboard_time": 1773918740,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 91236,
@@ -34219,6 +34259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84923,
+      "num": 84923,
+      "word": "樊长玉一句侯爷把谢征叫破防了",
+      "onboard_time": 1773921142,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84884,
       "num": 191056,
       "word": "中国硅碳电池获GLOMO大奖",
@@ -34657,6 +34705,14 @@
       "onboard_time": 1773411923,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83666,
+      "num": 83666,
+      "word": "李昀锐宋雨琦 我和我的e人朋友",
+      "onboard_time": 1773919580,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 83652,
@@ -36129,14 +36185,6 @@
       "onboard_time": 1773729260,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79504,
-      "num": 78540,
-      "word": "小米发布会 小米汽车",
-      "onboard_time": 1773919822,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 79413,
@@ -39107,6 +39155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71368,
+      "num": 83722,
+      "word": "丁禹兮 沪上潮男",
+      "onboard_time": 1773908962,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71298,
       "num": 71298,
       "word": "邓凯晋江式演技上新了",
@@ -40035,14 +40091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68415,
-      "num": 68415,
-      "word": "伊朗外长回应美2000亿美元战争拨款",
-      "onboard_time": 1773920541,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 68340,
       "num": 233905,
       "word": "NBA现场放汪苏泷像晴天像雨天",
@@ -40259,6 +40307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67588,
+      "num": 67588,
+      "word": "你这个作息怎么感觉不太对劲",
+      "onboard_time": 1773919042,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67585,
       "num": 67585,
       "word": "林沐然替随元青道歉",
@@ -40449,14 +40505,6 @@
       "onboard_time": 1773739161,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 67056,
-      "num": 74299,
-      "word": "丁禹兮 沪上潮男",
-      "onboard_time": 1773908962,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 67052,
@@ -40921,6 +40969,14 @@
       "onboard_time": 1773651266,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65208,
+      "num": 68330,
+      "word": "陈都灵 黑天鹅",
+      "onboard_time": 1773921321,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 65193,
@@ -44956,7 +45012,7 @@
     },
     {
       "raw_hot": 46197,
-      "num": 105802,
+      "num": 107860,
       "word": "邵明峰称泰山X8拔高了大五座标杆",
       "onboard_time": 1773919281,
       "rank": 19,
@@ -46801,6 +46857,14 @@
       "onboard_time": 1773140482,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34866,
+      "num": 83672,
+      "word": "沈月给王鹤棣拍的照片被他本人夸了",
+      "onboard_time": 1773915622,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 34865,
