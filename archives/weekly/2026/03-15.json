@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773956655127,
+  "endTime": 1773957347704,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -8307,6 +8307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102573,
+      "num": 78931,
+      "word": "一觉醒来黄金挂坠亏了2000元",
+      "onboard_time": 1773935002,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102504,
       "num": 100090,
       "word": "不运动也能减重的7个方法",
@@ -8497,14 +8505,6 @@
       "onboard_time": 1773915262,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100427,
-      "num": 78931,
-      "word": "一觉醒来黄金挂坠亏了2000元",
-      "onboard_time": 1773935002,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 100305,
@@ -13939,20 +13939,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27952,
+      "num": 29492,
+      "word": "瞿颖香奈儿老了还是香奈儿",
+      "onboard_time": 1773924502,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27232,
       "num": 60015,
       "word": "无双杨戬",
       "onboard_time": 1773850939,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 27127,
-      "num": 29492,
-      "word": "瞿颖香奈儿老了还是香奈儿",
-      "onboard_time": 1773924502,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 26176,
@@ -14411,6 +14411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18174,
+      "num": 15754,
+      "word": "樊长玉被众人排斥",
+      "onboard_time": 1773951134,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18132,
       "num": 19727,
       "word": "贺峻霖 今天我盯片",
@@ -14441,14 +14449,6 @@
       "onboard_time": 1773722784,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17714,
-      "num": 14983,
-      "word": "樊长玉被众人排斥",
-      "onboard_time": 1773951134,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 17621,
@@ -14500,7 +14500,7 @@
     },
     {
       "raw_hot": 16830,
-      "num": 110314,
+      "num": 138035,
       "word": "十五五规划纲要撰写的幕后",
       "onboard_time": 1773925402,
       "rank": 45,

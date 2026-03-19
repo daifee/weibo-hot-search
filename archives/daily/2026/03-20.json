@@ -1,6 +1,6 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1773956655127,
+  "endTime": 1773957347704,
   "band_list": [
     {
       "raw_hot": 659112,
@@ -195,7 +195,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100427,
+      "raw_hot": 102573,
       "num": 78931,
       "word": "一觉醒来黄金挂坠亏了2000元",
       "onboard_time": 1773935002,
@@ -435,7 +435,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27127,
+      "raw_hot": 27952,
       "num": 29492,
       "word": "瞿颖香奈儿老了还是香奈儿",
       "onboard_time": 1773924502,
@@ -483,20 +483,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18174,
+      "num": 15754,
+      "word": "樊长玉被众人排斥",
+      "onboard_time": 1773951134,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17878,
       "num": 20381,
       "word": "伊朗逮捕41名间谍",
       "onboard_time": 1773937578,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17714,
-      "num": 14983,
-      "word": "樊长玉被众人排斥",
-      "onboard_time": 1773951134,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 12760,
@@ -507,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 12665,
+      "num": 14631,
+      "word": "路虎别停奔驰致追尾涉刑事案件",
+      "onboard_time": 1773914781,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12565,
       "num": 14876,
       "word": "苏炳添代言小米汽车",
@@ -515,16 +523,8 @@
       "category": "汽车,艺人"
     },
     {
-      "raw_hot": 11068,
-      "num": 13824,
-      "word": "路虎别停奔驰致追尾涉刑事案件",
-      "onboard_time": 1773914781,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 8035,
-      "num": 110314,
+      "num": 138035,
       "word": "十五五规划纲要撰写的幕后",
       "onboard_time": 1773925402,
       "rank": 2,
