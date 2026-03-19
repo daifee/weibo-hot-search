@@ -1,6 +1,6 @@
 {
   "startTime": 1773853886951,
-  "endTime": 1773900482587,
+  "endTime": 1773902197157,
   "band_list": [
     {
       "raw_hot": 1107723,
@@ -41,6 +41,22 @@
       "onboard_time": 1773848181,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 660868,
+      "num": 250664,
+      "word": "任敏10年前考上全球前十表演学校",
+      "onboard_time": 1773896242,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 651115,
+      "num": 1073998,
+      "word": "演唱会恐怖游轮",
+      "onboard_time": 1773896063,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 593307,
@@ -107,12 +123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 462490,
-      "num": 1073998,
-      "word": "演唱会恐怖游轮",
-      "onboard_time": 1773896063,
-      "rank": 41,
-      "category": "演出"
+      "raw_hot": 465799,
+      "num": 465799,
+      "word": "乌克兰暴力征兵画面曝光",
+      "onboard_time": 1773899720,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 446980,
@@ -171,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417771,
+      "num": 1066843,
+      "word": "蓝莓价格大跳水了",
+      "onboard_time": 1773898160,
+      "rank": 3,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 402117,
       "num": 178214,
       "word": "作曲家称遭YG强迫堕胎",
@@ -187,20 +211,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 363178,
+      "num": 200172,
+      "word": "AI演员 粉丝",
+      "onboard_time": 1773898701,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 359292,
       "num": 779615,
       "word": "4S店称吃饭超260次客户已报警",
       "onboard_time": 1773881242,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 345698,
-      "num": 345698,
-      "word": "蓝莓价格大跳水了",
-      "onboard_time": 1773898160,
-      "rank": 3,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 344757,
@@ -297,14 +321,6 @@
       "onboard_time": 1773896422,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281786,
-      "num": 250664,
-      "word": "任敏10年前考上全球前十表演学校",
-      "onboard_time": 1773896242,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 281228,
@@ -427,20 +443,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 215571,
+      "num": 181352,
+      "word": "迪丽热巴 郝阿三",
+      "onboard_time": 1773901401,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212827,
+      "num": 199477,
+      "word": "男生热水烫开奶茶袋藏天南地图",
+      "onboard_time": 1773899540,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189577,
       "num": 189837,
       "word": "伊朗发起报复行动",
       "onboard_time": 1773881362,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 188761,
-      "num": 188761,
-      "word": "AI演员 粉丝",
-      "onboard_time": 1773898701,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 188719,
@@ -489,14 +513,6 @@
       "onboard_time": 1773875659,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 168471,
-      "num": 110881,
-      "word": "男生热水烫开奶茶袋藏天南地图",
-      "onboard_time": 1773899540,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 166434,
@@ -571,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153575,
+      "num": 153575,
+      "word": "穿搭变了面相也变了",
+      "onboard_time": 1773901520,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147268,
       "num": 140595,
       "word": "如果一个人长期不工作",
@@ -627,14 +651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 132855,
-      "num": 109937,
-      "word": "乌克兰暴力征兵画面曝光",
-      "onboard_time": 1773899720,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 131786,
       "num": 190207,
       "word": "金价下跌也买不到",
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 131107,
-      "num": 116403,
+      "num": 117915,
       "word": "何穗产后掉眉毛睫毛",
       "onboard_time": 1773897022,
       "rank": 38,
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 121893,
-      "num": 109799,
+      "num": 202146,
       "word": "恋与深空新周边",
       "onboard_time": 1773898999,
       "rank": 32,
@@ -747,6 +763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 107907,
+      "num": 107907,
+      "word": "奶奶减肥法或致肌肉流失代谢下降",
+      "onboard_time": 1773901041,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105532,
       "num": 105532,
       "word": "小米大模型",
@@ -763,6 +787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104692,
+      "num": 104692,
+      "word": "男孩讲述被生父继母塞后备箱细节",
+      "onboard_time": 1773900081,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103958,
       "num": 126532,
       "word": "台当局反制韩国遭群嘲",
@@ -777,6 +809,14 @@
       "onboard_time": 1773876918,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102504,
+      "num": 100090,
+      "word": "不运动也能减重的7个方法",
+      "onboard_time": 1773900381,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 101473,
@@ -857,6 +897,14 @@
       "onboard_time": 1773893601,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 91965,
+      "num": 91965,
+      "word": "迪丽热巴新经纪人曾发文怼孙茜",
+      "onboard_time": 1773895583,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 91431,
@@ -1003,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79859,
+      "num": 79859,
+      "word": "1分钟被路虎别停8次当事人发声",
+      "onboard_time": 1773901220,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79857,
       "num": 79857,
       "word": "马斯克点赞深圳小孩哥",
@@ -1019,12 +1075,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 79404,
-      "num": 79404,
-      "word": "男孩讲述被生父继母塞后备箱细节",
-      "onboard_time": 1773900081,
-      "rank": 41,
+      "raw_hot": 78910,
+      "num": 93272,
+      "word": "99岁独居老人突然说舍不得死了",
+      "onboard_time": 1773901520,
+      "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78822,
+      "num": 117815,
+      "word": "亲爱的客栈",
+      "onboard_time": 1773901341,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 77445,
@@ -1035,12 +1099,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 77364,
+      "num": 77364,
+      "word": "小狗突然关机",
+      "onboard_time": 1773899360,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76475,
       "num": 75906,
       "word": "库克说李宇春是改变世界的人",
       "onboard_time": 1773854836,
       "rank": 36,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 76296,
+      "num": 76296,
+      "word": "在公司点奶茶差点被劝退了",
+      "onboard_time": 1773901641,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 75873,
@@ -1139,14 +1219,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 68212,
-      "num": 68212,
-      "word": "不运动也能减重的7个方法",
-      "onboard_time": 1773900381,
-      "rank": 46,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 67919,
       "num": 67919,
       "word": "油价上涨对哪种材质衣服影响最大",
@@ -1161,14 +1233,6 @@
       "onboard_time": 1773876499,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67164,
-      "num": 67164,
-      "word": "小狗突然关机",
-      "onboard_time": 1773899360,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 67061,
@@ -1321,6 +1385,14 @@
       "onboard_time": 1773843802,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 48806,
+      "num": 117841,
+      "word": "内蒙古阿拉善一公司厂房发生爆炸",
+      "onboard_time": 1773901999,
+      "rank": 28,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 48683,
@@ -1507,8 +1579,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20072,
-      "num": 188974,
+      "raw_hot": 22761,
+      "num": 200396,
       "word": "春分许愿到底灵不灵",
       "onboard_time": 1773900141,
       "rank": 21,
