@@ -1,0 +1,410 @@
+{
+  "runTime": 1773920588076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 455267,
+        "num": 1072842,
+        "word": "小米发布会",
+        "onboard_time": 1773918501,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 266032,
+        "num": 755597,
+        "word": "小米新SU7发布会请来半个车圈",
+        "onboard_time": 1773919101,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 13844,
+        "num": 606365,
+        "word": "数读2025海洋经济公报",
+        "onboard_time": 1773906081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237125,
+        "num": 237125,
+        "word": "老板称5元水饺店每天能赚1千元",
+        "onboard_time": 1773915622,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235415,
+        "num": 235415,
+        "word": "年薪60万男子找下级借200万被辞",
+        "onboard_time": 1773915622,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525448,
+        "num": 225774,
+        "word": "中方对以方说法感到震惊",
+        "onboard_time": 1773913580,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422976,
+        "num": 220157,
+        "word": "王格格 奔跑吧14",
+        "onboard_time": 1773919342,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211702,
+        "num": 211702,
+        "word": "路虎别停奔驰致追尾涉刑事案件",
+        "onboard_time": 1773914781,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185915,
+        "num": 185915,
+        "word": "逐玉开虐了",
+        "onboard_time": 1773919460,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156181,
+        "num": 156181,
+        "word": "网传奔跑吧14常驻嘉宾阵容",
+        "onboard_time": 1773913223,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273600,
+        "num": 154202,
+        "word": "被路虎别停8次男子个人信息疑泄露",
+        "onboard_time": 1773916462,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298013,
+        "num": 150135,
+        "word": "逐玉",
+        "onboard_time": 1773918802,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243694,
+        "num": 148376,
+        "word": "白日提灯",
+        "onboard_time": 1773914662,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178732,
+        "num": 141233,
+        "word": "买30克金手镯比1月便宜6000元",
+        "onboard_time": 1773916581,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173476,
+        "num": 138235,
+        "word": "沈月拍出了徐志胜人生照片",
+        "onboard_time": 1773909381,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156249,
+        "num": 135188,
+        "word": "黄金跌个没完",
+        "onboard_time": 1773911360,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133037,
+        "num": 133037,
+        "word": "女子控诉90万全款买房隔夜飙涨10万",
+        "onboard_time": 1773912321,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125472,
+        "num": 125472,
+        "word": "宝妈每天用84消毒患上罕见病",
+        "onboard_time": 1773910762,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106288,
+        "num": 106288,
+        "word": "油价",
+        "onboard_time": 1773893301,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46197,
+        "num": 105802,
+        "word": "邵明峰称泰山X8拔高了大五座标杆",
+        "onboard_time": 1773919281,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1569025,
+        "num": 104509,
+        "word": "胡先煦秒删博",
+        "onboard_time": 1773913821,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229256,
+        "num": 102307,
+        "word": "杨天真坐轮椅出席年会",
+        "onboard_time": 1773918321,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166949,
+        "num": 100987,
+        "word": "睡觉前才刷牙是错误的",
+        "onboard_time": 1773912742,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137942,
+        "num": 99354,
+        "word": "网传张凌赫张雅钦主演刺棠",
+        "onboard_time": 1773917122,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127703,
+        "num": 98485,
+        "word": "疑似胡歌初恋女友发文",
+        "onboard_time": 1773911360,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97149,
+        "num": 97149,
+        "word": "伊朗发动第63波攻势",
+        "onboard_time": 1773911181,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116936,
+        "num": 96763,
+        "word": "吃甜品的漂亮姐姐迪丽热巴",
+        "onboard_time": 1773909022,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95656,
+        "num": 95656,
+        "word": "乐华娱乐报警了",
+        "onboard_time": 1773912561,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89000,
+        "num": 94273,
+        "word": "北大毕业男子仅送外卖一天",
+        "onboard_time": 1773909921,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93888,
+        "num": 93888,
+        "word": "17岁的Angelababy",
+        "onboard_time": 1773919460,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149070,
+        "num": 93792,
+        "word": "中国小女孩打车视频在推特爆火",
+        "onboard_time": 1773920121,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99004,
+        "num": 92991,
+        "word": "黄金为啥一直跌",
+        "onboard_time": 1773919759,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91245,
+        "num": 91245,
+        "word": "瞿颖王俊凯早期走秀",
+        "onboard_time": 1773918740,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84940,
+        "num": 84940,
+        "word": "涉密人员婚假擅自出境被通报批评",
+        "onboard_time": 1773907521,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83394,
+        "num": 83394,
+        "word": "1岁半宝宝移植术后O型血变为A型",
+        "onboard_time": 1773915861,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 81138,
+        "num": 81138,
+        "word": "宇树王兴兴现身小米发布会",
+        "onboard_time": 1773917960,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78882,
+        "num": 78882,
+        "word": "雷军现身发布会",
+        "onboard_time": 1773918560,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 79504,
+        "num": 78540,
+        "word": "小米发布会 小米汽车",
+        "onboard_time": 1773919822,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 77804,
+        "num": 77804,
+        "word": "女子将20万黄金藏豆瓣酱里寄骗子",
+        "onboard_time": 1773911121,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58400,
+        "num": 74299,
+        "word": "丁禹兮 沪上潮男",
+        "onboard_time": 1773908962,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72701,
+        "num": 72701,
+        "word": "外交部回应伊朗拉里贾尼遇害",
+        "onboard_time": 1773906381,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71704,
+        "num": 71704,
+        "word": "雪豹吃不了那么多羊为何还要杀",
+        "onboard_time": 1773920241,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 69430,
+        "num": 69430,
+        "word": "谢征怕樊长玉打",
+        "onboard_time": 1773919759,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67364,
+        "num": 68894,
+        "word": "阿里巴巴第三财季营收2848.4亿元",
+        "onboard_time": 1773919460,
+        "rank": 43,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 68415,
+        "num": 68415,
+        "word": "伊朗外长回应美2000亿美元战争拨款",
+        "onboard_time": 1773920541,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67971,
+        "num": 67971,
+        "word": "腾讯市值暴跌至4.7万亿港元",
+        "onboard_time": 1773915800,
+        "rank": 45,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 66949,
+        "num": 66949,
+        "word": "日本夫妻遗忘30多年的股票翻85倍",
+        "onboard_time": 1773912081,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65595,
+        "num": 65595,
+        "word": "AI观众 AI粉丝 AI打分",
+        "onboard_time": 1773903140,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62532,
+        "num": 62532,
+        "word": "曾舜晞直播",
+        "onboard_time": 1773920121,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63056,
+        "num": 62401,
+        "word": "网红博主一年读704本书被打假",
+        "onboard_time": 1773916880,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}
