@@ -1,6 +1,6 @@
 {
   "startTime": 1773853886951,
-  "endTime": 1773928111147,
+  "endTime": 1773932215942,
   "band_list": [
     {
       "raw_hot": 1955137,
@@ -33,6 +33,14 @@
       "onboard_time": 1773886279,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 776651,
+      "num": 1124264,
+      "word": "小米汽车",
+      "onboard_time": 1773928582,
+      "rank": 0,
+      "category": "汽车"
     },
     {
       "raw_hot": 720992,
@@ -176,6 +184,14 @@
       "word": "北大毕业送外卖男子称自己眼高手低",
       "onboard_time": 1773890421,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 493638,
+      "num": 196035,
+      "word": "主人回应7只被偷小狗结伴逃回家",
+      "onboard_time": 1773927083,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -451,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303298,
+      "num": 194267,
+      "word": "父亲回应儿子北大毕业送外卖",
+      "onboard_time": 1773926902,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300151,
       "num": 286641,
       "word": "美将只剩一艘航母用于对伊朗袭击",
@@ -465,6 +489,22 @@
       "onboard_time": 1773909022,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296275,
+      "num": 296275,
+      "word": "新一代SU734分钟锁单1.5万台",
+      "onboard_time": 1773931583,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 293803,
+      "num": 809154,
+      "word": "胖东来馒头每人限购12个",
+      "onboard_time": 1773927562,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292977,
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 273600,
-      "num": 180434,
+      "num": 189286,
       "word": "被路虎别停8次男子个人信息疑泄露",
       "onboard_time": 1773916462,
       "rank": 27,
@@ -787,20 +827,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212469,
+      "num": 199453,
+      "word": "鞠婧祎爱吃白开水泡饭",
+      "onboard_time": 1773921081,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207180,
       "num": 591571,
       "word": "新一代SU7",
       "onboard_time": 1773922042,
       "rank": 8,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 206963,
-      "num": 199453,
-      "word": "鞠婧祎爱吃白开水泡饭",
-      "onboard_time": 1773921081,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 198177,
@@ -849,6 +889,14 @@
       "onboard_time": 1773911241,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185580,
+      "num": 154730,
+      "word": "黄金瀑布式跳水",
+      "onboard_time": 1773927323,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 185344,
@@ -1027,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157713,
+      "num": 157713,
+      "word": "逐玉31集经纪人最爱的一集",
+      "onboard_time": 1773930202,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157500,
       "num": 124277,
       "word": "美国以色列有分歧了",
@@ -1067,6 +1123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154375,
+      "num": 154375,
+      "word": "曾舜晞回应下部戏拍什么",
+      "onboard_time": 1773931882,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153974,
       "num": 127189,
       "word": "哄自己去面试的理由又多了",
@@ -1089,6 +1153,14 @@
       "onboard_time": 1773878781,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145826,
+      "num": 94388,
+      "word": "青岛爱心面馆重启见证温度",
+      "onboard_time": 1773928942,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145308,
@@ -1128,6 +1200,14 @@
       "word": "男子输液头孢7年第一次过敏休克",
       "onboard_time": 1773876079,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143061,
+      "num": 143061,
+      "word": "神秘人花7500元预存500碗面",
+      "onboard_time": 1773929123,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1339,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116781,
+      "num": 116781,
+      "word": "金价暴跌抄底7天越买越套",
+      "onboard_time": 1773930922,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 116777,
       "num": 116777,
       "word": "蔡康永陪小S复工",
@@ -1377,6 +1465,14 @@
       "onboard_time": 1773876079,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 111299,
+      "num": 111299,
+      "word": "阿里跌逾8%",
+      "onboard_time": 1773931882,
+      "rank": 34,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 108851,
@@ -1451,22 +1547,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 105444,
-      "num": 105444,
-      "word": "主人回应7只被偷小狗结伴逃回家",
-      "onboard_time": 1773927083,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105439,
-      "num": 105439,
-      "word": "父亲回应儿子北大毕业送外卖",
-      "onboard_time": 1773926902,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104980,
       "num": 104980,
       "word": "JDG让二追三AG",
@@ -1513,6 +1593,14 @@
       "onboard_time": 1773900381,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 102327,
+      "num": 102327,
+      "word": "肖战宝诗龙",
+      "onboard_time": 1773932001,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 101473,
@@ -1577,6 +1665,14 @@
       "onboard_time": 1773918740,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94313,
+      "num": 155271,
+      "word": "7年前买的泡泡玛特盲盒才发货",
+      "onboard_time": 1773930982,
+      "rank": 21,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 93820,
@@ -1651,14 +1747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91537,
-      "num": 91537,
-      "word": "黄金瀑布式跳水",
-      "onboard_time": 1773927323,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 91431,
       "num": 387507,
       "word": "红糖姜汁",
@@ -1691,6 +1779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89351,
+      "num": 89351,
+      "word": "南方医院情况通报",
+      "onboard_time": 1773929001,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 89147,
       "num": 89147,
       "word": "现货黄金白银翻红",
@@ -1705,6 +1801,14 @@
       "onboard_time": 1773890779,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88568,
+      "num": 200209,
+      "word": "宝诗龙上海全明星阵容",
+      "onboard_time": 1773925402,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 88465,
@@ -1729,14 +1833,6 @@
       "onboard_time": 1773912382,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87513,
-      "num": 123573,
-      "word": "胖东来馒头每人限购12个",
-      "onboard_time": 1773927562,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87255,
@@ -2067,14 +2163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71100,
-      "num": 200209,
-      "word": "宝诗龙上海全明星阵容",
-      "onboard_time": 1773925402,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 70981,
       "num": 70981,
       "word": "张小斐前经纪人关注迪丽热巴",
@@ -2177,6 +2265,14 @@
       "onboard_time": 1773919042,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67495,
+      "num": 88973,
+      "word": "DYG确认锁定季后赛败者组",
+      "onboard_time": 1773930982,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 67364,
@@ -2587,6 +2683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44597,
+      "num": 157496,
+      "word": "苏炳添赞新SU7为中国科技骄傲",
+      "onboard_time": 1773929123,
+      "rank": 18,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 42992,
       "num": 60053,
       "word": "BLG对战G2",
@@ -2700,7 +2804,7 @@
     },
     {
       "raw_hot": 34810,
-      "num": 621620,
+      "num": 623643,
       "word": "长江上又一座大桥建设新进展",
       "onboard_time": 1773926481,
       "rank": 2,
@@ -2729,6 +2833,22 @@
       "onboard_time": 1773847341,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30810,
+      "num": 198443,
+      "word": "日本劫掠中国文物数量惊人",
+      "onboard_time": 1773931583,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 30646,
+      "num": 156451,
+      "word": "舒淇对新SU7卡布里蓝印象最深",
+      "onboard_time": 1773931042,
+      "rank": 19,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 30619,
@@ -2817,6 +2937,14 @@
       "onboard_time": 1773857774,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23078,
+      "num": 94666,
+      "word": "可举行婚礼的杭州绿化带被踩踏",
+      "onboard_time": 1773932183,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22761,

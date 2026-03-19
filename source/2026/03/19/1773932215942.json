@@ -1,0 +1,410 @@
+{
+  "runTime": 1773932215942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 776651,
+        "num": 1124264,
+        "word": "小米汽车",
+        "onboard_time": 1773928582,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 293803,
+        "num": 809154,
+        "word": "胖东来馒头每人限购12个",
+        "onboard_time": 1773927562,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30797,
+        "num": 623643,
+        "word": "长江上又一座大桥建设新进展",
+        "onboard_time": 1773926481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296275,
+        "num": 296275,
+        "word": "新一代SU734分钟锁单1.5万台",
+        "onboard_time": 1773931583,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175069,
+        "num": 273419,
+        "word": "小米发布会",
+        "onboard_time": 1773918501,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 263495,
+        "num": 263495,
+        "word": "中方对以方说法感到震惊",
+        "onboard_time": 1773913580,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212009,
+        "num": 212009,
+        "word": "小米新SU7起售价21.99万元",
+        "onboard_time": 1773924742,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201373,
+        "num": 201373,
+        "word": "伊朗外长回应美2000亿美元战争拨款",
+        "onboard_time": 1773920541,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202548,
+        "num": 200956,
+        "word": "小米笔记本",
+        "onboard_time": 1773925042,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30810,
+        "num": 198443,
+        "word": "日本劫掠中国文物数量惊人",
+        "onboard_time": 1773931583,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 936560,
+        "num": 196345,
+        "word": "胡先煦秒删博",
+        "onboard_time": 1773913821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493638,
+        "num": 196035,
+        "word": "主人回应7只被偷小狗结伴逃回家",
+        "onboard_time": 1773927083,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303298,
+        "num": 194267,
+        "word": "父亲回应儿子北大毕业送外卖",
+        "onboard_time": 1773926902,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231072,
+        "num": 191414,
+        "word": "王格格 奔跑吧14",
+        "onboard_time": 1773919342,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215680,
+        "num": 190390,
+        "word": "谁敢看逐玉接下来的预告",
+        "onboard_time": 1773923963,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189286,
+        "num": 189286,
+        "word": "被路虎别停8次男子个人信息疑泄露",
+        "onboard_time": 1773916462,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212469,
+        "num": 187367,
+        "word": "鞠婧祎爱吃白开水泡饭",
+        "onboard_time": 1773921081,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157713,
+        "num": 157713,
+        "word": "逐玉31集经纪人最爱的一集",
+        "onboard_time": 1773930202,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44597,
+        "num": 157496,
+        "word": "苏炳添赞新SU7为中国科技骄傲",
+        "onboard_time": 1773929123,
+        "rank": 18,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 30646,
+        "num": 156451,
+        "word": "舒淇对新SU7卡布里蓝印象最深",
+        "onboard_time": 1773931042,
+        "rank": 19,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 252341,
+        "num": 156069,
+        "word": "台湾发生双尸案",
+        "onboard_time": 1773924922,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94313,
+        "num": 155271,
+        "word": "7年前买的泡泡玛特盲盒才发货",
+        "onboard_time": 1773930982,
+        "rank": 21,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 185580,
+        "num": 154730,
+        "word": "黄金瀑布式跳水",
+        "onboard_time": 1773927323,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154375,
+        "num": 154375,
+        "word": "曾舜晞回应下部戏拍什么",
+        "onboard_time": 1773931882,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151301,
+        "num": 151301,
+        "word": "逐玉",
+        "onboard_time": 1773918802,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143061,
+        "num": 143061,
+        "word": "神秘人花7500元预存500碗面",
+        "onboard_time": 1773929123,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148854,
+        "num": 134561,
+        "word": "陶晶莹说被张凌赫古装帅得吓到",
+        "onboard_time": 1773925702,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88568,
+        "num": 125849,
+        "word": "宝诗龙上海全明星阵容",
+        "onboard_time": 1773925402,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125304,
+        "num": 125304,
+        "word": "雷军感谢王兴兴给了投资宇树的机会",
+        "onboard_time": 1773927502,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126659,
+        "num": 124629,
+        "word": "网传奔跑吧14常驻嘉宾阵容",
+        "onboard_time": 1773913223,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120158,
+        "num": 120158,
+        "word": "17岁的Angelababy",
+        "onboard_time": 1773919460,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117848,
+        "num": 117848,
+        "word": "金价跌到看不懂",
+        "onboard_time": 1773926004,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143877,
+        "num": 117572,
+        "word": "张凌赫直播",
+        "onboard_time": 1773925341,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116781,
+        "num": 116781,
+        "word": "金价暴跌抄底7天越买越套",
+        "onboard_time": 1773930922,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111299,
+        "num": 111299,
+        "word": "阿里跌逾8%",
+        "onboard_time": 1773931882,
+        "rank": 34,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 108090,
+        "num": 108090,
+        "word": "买30克金手镯比1月便宜6000元",
+        "onboard_time": 1773916581,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102327,
+        "num": 102327,
+        "word": "肖战宝诗龙",
+        "onboard_time": 1773932001,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99203,
+        "num": 99203,
+        "word": "舒淇代言SU7",
+        "onboard_time": 1773922821,
+        "rank": 37,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 23078,
+        "num": 94666,
+        "word": "可举行婚礼的杭州绿化带被踩踏",
+        "onboard_time": 1773932183,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145826,
+        "num": 94388,
+        "word": "青岛爱心面馆重启见证温度",
+        "onboard_time": 1773928942,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92866,
+        "num": 92866,
+        "word": "白日提灯",
+        "onboard_time": 1773914662,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90082,
+        "num": 90082,
+        "word": "雷军现身发布会",
+        "onboard_time": 1773918560,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89351,
+        "num": 89351,
+        "word": "南方医院情况通报",
+        "onboard_time": 1773929001,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 71161,
+        "num": 89350,
+        "word": "陈都灵 黑天鹅",
+        "onboard_time": 1773921321,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75596,
+        "num": 89253,
+        "word": "疑似胡歌初恋女友发文",
+        "onboard_time": 1773911360,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73829,
+        "num": 89230,
+        "word": "金价有望震荡回升",
+        "onboard_time": 1773925702,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72209,
+        "num": 89153,
+        "word": "逐玉开虐了",
+        "onboard_time": 1773919460,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70659,
+        "num": 89063,
+        "word": "杨天真坐轮椅出席年会",
+        "onboard_time": 1773918321,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68704,
+        "num": 89034,
+        "word": "伊朗要求阿联酋作出赔偿",
+        "onboard_time": 1773922881,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67495,
+        "num": 88973,
+        "word": "DYG确认锁定季后赛败者组",
+        "onboard_time": 1773930982,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#金杯银杯不如老百姓口碑#"
+    }
+  }
+}
