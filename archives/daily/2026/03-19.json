@@ -1,6 +1,6 @@
 {
   "startTime": 1773853886951,
-  "endTime": 1773911397152,
+  "endTime": 1773914163461,
   "band_list": [
     {
       "raw_hot": 1107723,
@@ -163,6 +163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 453504,
+      "num": 1072560,
+      "word": "奔跑吧14常驻嘉宾阵容",
+      "onboard_time": 1773913223,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449852,
       "num": 321921,
       "word": "1分钟被路虎别停8次当事人发声",
@@ -243,6 +251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394529,
+      "num": 186318,
+      "word": "北大毕业男子仅送外卖一天",
+      "onboard_time": 1773909921,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389893,
+      "num": 132673,
+      "word": "疑似胡歌初恋女友发文",
+      "onboard_time": 1773911360,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377260,
       "num": 377260,
       "word": "徐若晗 挂脸",
@@ -288,6 +312,14 @@
       "word": "油价",
       "onboard_time": 1773893301,
       "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 336311,
+      "num": 143457,
+      "word": "黄金跌个没完",
+      "onboard_time": 1773911360,
+      "rank": 43,
       "category": "财经"
     },
     {
@@ -531,6 +563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 225058,
+      "num": 225058,
+      "word": "女子将20万黄金藏豆瓣酱里寄骗子",
+      "onboard_time": 1773911121,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218756,
       "num": 203267,
       "word": "银行金条1克难求",
@@ -571,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189512,
+      "num": 189512,
+      "word": "央行坚定维护股票等市场平稳运行",
+      "onboard_time": 1773909680,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 188719,
       "num": 518104,
       "word": "央视调查油菜花田蜜蜂死亡真相",
@@ -593,6 +641,14 @@
       "onboard_time": 1773894263,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180343,
+      "num": 180343,
+      "word": "中方回应美报告所谓2027攻台计划",
+      "onboard_time": 1773911241,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 180092,
@@ -635,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168079,
+      "num": 168079,
+      "word": "女子控诉90万全款买房隔夜飙涨10万",
+      "onboard_time": 1773912321,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167743,
       "num": 129539,
       "word": "金价下跌能抄底吗",
@@ -657,14 +721,6 @@
       "onboard_time": 1773894263,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163854,
-      "num": 163854,
-      "word": "央行坚定维护股票等市场平稳运行",
-      "onboard_time": 1773909680,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 160734,
@@ -705,6 +761,30 @@
       "onboard_time": 1773876021,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156949,
+      "num": 131615,
+      "word": "睡觉前才刷牙是错误的",
+      "onboard_time": 1773912742,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 156743,
+      "num": 156743,
+      "word": "伊朗发动第63波攻势",
+      "onboard_time": 1773911181,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 155824,
+      "num": 127839,
+      "word": "胡先煦秒删博",
+      "onboard_time": 1773913821,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 155396,
@@ -768,6 +848,14 @@
       "word": "男子输液头孢7年第一次过敏休克",
       "onboard_time": 1773876079,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140439,
+      "num": 140439,
+      "word": "宝妈每天用84消毒患上罕见病",
+      "onboard_time": 1773910762,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -835,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127054,
+      "num": 127054,
+      "word": "乐华娱乐报警了",
+      "onboard_time": 1773912561,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126394,
       "num": 126394,
       "word": "杨雪老公考中戏40分钟交卷",
@@ -857,14 +953,6 @@
       "onboard_time": 1773852019,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124578,
-      "num": 129795,
-      "word": "北大毕业男子仅送外卖一天",
-      "onboard_time": 1773909921,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123248,
@@ -907,6 +995,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116777,
+      "num": 116777,
+      "word": "蔡康永陪小S复工",
+      "onboard_time": 1773912262,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113699,
+      "num": 113699,
+      "word": "日本夫妻遗忘30多年的股票翻85倍",
+      "onboard_time": 1773912081,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 113375,
       "num": 308077,
       "word": "贺峻霖的摩托山路十八弯",
@@ -945,6 +1049,14 @@
       "onboard_time": 1773901041,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107645,
+      "num": 107645,
+      "word": "陈星旭看上去好久没吃碳水了",
+      "onboard_time": 1773909442,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 106512,
@@ -1035,12 +1147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98526,
-      "num": 96311,
-      "word": "陈星旭看上去好久没吃碳水了",
-      "onboard_time": 1773909442,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 97735,
+      "num": 133898,
+      "word": "AI盛行 周杰伦坚持手搓",
+      "onboard_time": 1773913522,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 97310,
@@ -1065,14 +1177,6 @@
       "onboard_time": 1773904822,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96012,
-      "num": 96012,
-      "word": "中方回应美报告所谓2027攻台计划",
-      "onboard_time": 1773911241,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 93820,
@@ -1211,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87572,
+      "num": 87572,
+      "word": "以后穿勃肯鞋去猫咖",
+      "onboard_time": 1773912382,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87255,
       "num": 87255,
       "word": "湖人vs火箭",
@@ -1225,6 +1337,14 @@
       "onboard_time": 1773905661,
       "rank": 35,
       "category": "互联网,作品衍生"
+    },
+    {
+      "raw_hot": 86582,
+      "num": 126020,
+      "word": "日本将向美国赠送250棵樱花树",
+      "onboard_time": 1773911061,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86551,
@@ -1355,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77691,
+      "num": 77691,
+      "word": "女生跳舞时被男生撞后下一秒转场",
+      "onboard_time": 1773912140,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77445,
       "num": 77445,
       "word": "东部战区展示越海杀器",
@@ -1411,12 +1539,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 74301,
+      "num": 74301,
+      "word": "A股超5000只股下跌",
+      "onboard_time": 1773913101,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74138,
       "num": 74138,
       "word": "乒乓球双打也要有大满贯了",
       "onboard_time": 1773897742,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74018,
+      "num": 74018,
+      "word": "金泰妍全家福共用一张脸",
+      "onboard_time": 1773911301,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 72893,
@@ -1427,28 +1571,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 72825,
-      "num": 72825,
-      "word": "金泰妍全家福共用一张脸",
-      "onboard_time": 1773911301,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72516,
       "num": 72516,
       "word": "詹姆斯半场8中8轰18分",
       "onboard_time": 1773890720,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71192,
-      "num": 71192,
-      "word": "伊朗发动第63波攻势",
-      "onboard_time": 1773911181,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 70981,
@@ -1484,7 +1612,7 @@
     },
     {
       "raw_hot": 69951,
-      "num": 69951,
+      "num": 73725,
       "word": "油价飙升澳民众加完油就跑",
       "onboard_time": 1773910821,
       "rank": 39,
@@ -1539,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67239,
+      "num": 137599,
+      "word": "闲鱼有点东西",
+      "onboard_time": 1773911722,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 67094,
       "num": 67094,
       "word": "王一博方曾多次辟谣私生爆料",
@@ -1571,22 +1707,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 65160,
-      "num": 65160,
-      "word": "疑似胡歌初恋女友发文",
-      "onboard_time": 1773911360,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 65124,
-      "num": 65124,
-      "word": "宝妈每天用84消毒患上罕见病",
-      "onboard_time": 1773910762,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65019,
       "num": 65019,
       "word": "剑来这首歌唱的是别来无恙",
@@ -1601,14 +1721,6 @@
       "onboard_time": 1773897742,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64674,
-      "num": 64674,
-      "word": "黄金跌个没完",
-      "onboard_time": 1773911360,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 64650,
@@ -1635,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62689,
+      "num": 75010,
+      "word": "陈妍希想用湿发打破甜姐标签",
+      "onboard_time": 1773913101,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 61868,
       "num": 61868,
       "word": "肥娟夫妇开健身房",
@@ -1643,12 +1763,12 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 61557,
-      "num": 69954,
-      "word": "日本将向美国赠送250棵樱花树",
-      "onboard_time": 1773911061,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 61400,
+      "num": 73955,
+      "word": "李卿和刘梦芮是同班同学",
+      "onboard_time": 1773913580,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 60691,
@@ -1691,12 +1811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59550,
+      "num": 73680,
+      "word": "A股4000点失而复得",
+      "onboard_time": 1773910880,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 59170,
       "num": 639845,
       "word": "中国人种树太硬核",
       "onboard_time": 1773893301,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59038,
+      "num": 73624,
+      "word": "家长什么时候才能接受孩子平庸",
+      "onboard_time": 1773912920,
+      "rank": 49,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 58621,
@@ -1907,12 +2043,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 37587,
+      "num": 75796,
+      "word": "医保新规扩大了慢性病和特殊病病种",
+      "onboard_time": 1773913642,
+      "rank": 37,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 36974,
       "num": 60116,
       "word": "袋鼠妈妈被约谈",
       "onboard_time": 1773851060,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36340,
+      "num": 147353,
+      "word": "中方对以方说法感到震惊",
+      "onboard_time": 1773913580,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36147,
@@ -1947,20 +2099,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33058,
-      "num": 104280,
-      "word": "女子将20万黄金藏豆瓣酱里寄骗子",
-      "onboard_time": 1773911121,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32086,
       "num": 39695,
       "word": "TF家族语音",
       "onboard_time": 1773847341,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30619,
+      "num": 75708,
+      "word": "9岁男孩被塞后备厢爷爷奶奶在场",
+      "onboard_time": 1773913941,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30130,
@@ -2081,6 +2233,14 @@
       "onboard_time": 1773858314,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16400,
+      "num": 75353,
+      "word": "北大外卖哥是眼高手低还是博流量",
+      "onboard_time": 1773913223,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14250,

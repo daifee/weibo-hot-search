@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773911397152,
+  "endTime": 1773914163461,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -1491,6 +1491,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 453504,
+      "num": 1072560,
+      "word": "奔跑吧14常驻嘉宾阵容",
+      "onboard_time": 1773913223,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452783,
       "num": 286214,
       "word": "F1海外账号发合影把吴艳妮裁掉",
@@ -1835,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394529,
+      "num": 186318,
+      "word": "北大毕业男子仅送外卖一天",
+      "onboard_time": 1773909921,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 394189,
       "num": 302448,
       "word": "长玉说和离 谢征吐血",
@@ -1881,6 +1897,14 @@
       "onboard_time": 1773703519,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389893,
+      "num": 132673,
+      "word": "疑似胡歌初恋女友发文",
+      "onboard_time": 1773911360,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 389079,
@@ -2289,6 +2313,14 @@
       "onboard_time": 1773541879,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 336311,
+      "num": 143457,
+      "word": "黄金跌个没完",
+      "onboard_time": 1773911360,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 335656,
@@ -3771,6 +3803,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 225058,
+      "num": 225058,
+      "word": "女子将20万黄金藏豆瓣酱里寄骗子",
+      "onboard_time": 1773911121,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224715,
       "num": 487264,
       "word": "鹿晗专辑发售",
@@ -4403,6 +4443,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 189512,
+      "num": 189512,
+      "word": "央行坚定维护股票等市场平稳运行",
+      "onboard_time": 1773909680,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189090,
       "num": 112146,
       "word": "逐玉热度超过宁安如梦",
@@ -4609,6 +4657,14 @@
       "onboard_time": 1773580826,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180343,
+      "num": 180343,
+      "word": "中方回应美报告所谓2027攻台计划",
+      "onboard_time": 1773911241,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 180244,
@@ -4899,6 +4955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168079,
+      "num": 168079,
+      "word": "女子控诉90万全款买房隔夜飙涨10万",
+      "onboard_time": 1773912321,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167743,
       "num": 129539,
       "word": "金价下跌能抄底吗",
@@ -5001,14 +5065,6 @@
       "onboard_time": 1773624562,
       "rank": 9,
       "category": "汽车,民生新闻"
-    },
-    {
-      "raw_hot": 163854,
-      "num": 163854,
-      "word": "央行坚定维护股票等市场平稳运行",
-      "onboard_time": 1773909680,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 163787,
@@ -5243,12 +5299,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156949,
+      "num": 131615,
+      "word": "睡觉前才刷牙是错误的",
+      "onboard_time": 1773912742,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 156743,
+      "num": 156743,
+      "word": "伊朗发动第63波攻势",
+      "onboard_time": 1773911181,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156393,
       "num": 156393,
       "word": "马斯克对所有人工智能公司放狠话",
       "onboard_time": 1773747022,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 155824,
+      "num": 127839,
+      "word": "胡先煦秒删博",
+      "onboard_time": 1773913821,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 155533,
@@ -5745,6 +5825,14 @@
       "onboard_time": 1773740600,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140439,
+      "num": 140439,
+      "word": "宝妈每天用84消毒患上罕见病",
+      "onboard_time": 1773910762,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139837,
@@ -6331,6 +6419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127054,
+      "num": 127054,
+      "word": "乐华娱乐报警了",
+      "onboard_time": 1773912561,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127043,
       "num": 127043,
       "word": "小猫生了个自己",
@@ -6433,14 +6529,6 @@
       "onboard_time": 1773561921,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124578,
-      "num": 129795,
-      "word": "北大毕业男子仅送外卖一天",
-      "onboard_time": 1773909921,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124539,
@@ -6811,6 +6899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116777,
+      "num": 116777,
+      "word": "蔡康永陪小S复工",
+      "onboard_time": 1773912262,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116596,
       "num": 130339,
       "word": "自闭症女孩玩游戏半年充45万",
@@ -6889,6 +6985,14 @@
       "onboard_time": 1773843984,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113699,
+      "num": 113699,
+      "word": "日本夫妻遗忘30多年的股票翻85倍",
+      "onboard_time": 1773912081,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113375,
@@ -7257,6 +7361,14 @@
       "onboard_time": 1773759443,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107645,
+      "num": 107645,
+      "word": "陈星旭看上去好久没吃碳水了",
+      "onboard_time": 1773909442,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 107535,
@@ -8003,14 +8115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98526,
-      "num": 96311,
-      "word": "陈星旭看上去好久没吃碳水了",
-      "onboard_time": 1773909442,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 98449,
       "num": 98449,
       "word": "爷爷一手抱孙子肩膀上坐着小孙女",
@@ -8065,6 +8169,14 @@
       "onboard_time": 1773823582,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97735,
+      "num": 133898,
+      "word": "AI盛行 周杰伦坚持手搓",
+      "onboard_time": 1773913522,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 97581,
@@ -8193,14 +8305,6 @@
       "onboard_time": 1773904822,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96012,
-      "num": 96012,
-      "word": "中方回应美报告所谓2027攻台计划",
-      "onboard_time": 1773911241,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 95965,
@@ -9043,6 +9147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87572,
+      "num": 87572,
+      "word": "以后穿勃肯鞋去猫咖",
+      "onboard_time": 1773912382,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87566,
       "num": 87566,
       "word": "315晚会总导演剧透来了",
@@ -9209,6 +9321,14 @@
       "onboard_time": 1773532519,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86582,
+      "num": 126020,
+      "word": "日本将向美国赠送250棵樱花树",
+      "onboard_time": 1773911061,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86551,
@@ -10091,6 +10211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77691,
+      "num": 77691,
+      "word": "女生跳舞时被男生撞后下一秒转场",
+      "onboard_time": 1773912140,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77672,
       "num": 77672,
       "word": "一个女儿和爸爸辩论视频火了",
@@ -10515,6 +10643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74301,
+      "num": 74301,
+      "word": "A股超5000只股下跌",
+      "onboard_time": 1773913101,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74281,
       "num": 74281,
       "word": "老人8万贱卖劳力士充值理发店",
@@ -10545,6 +10681,14 @@
       "onboard_time": 1773638663,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74018,
+      "num": 74018,
+      "word": "金泰妍全家福共用一张脸",
+      "onboard_time": 1773911301,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 73835,
@@ -10656,14 +10800,6 @@
       "word": "肖战再度现身高中试卷",
       "onboard_time": 1773530957,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 72825,
-      "num": 72825,
-      "word": "金泰妍全家福共用一张脸",
-      "onboard_time": 1773911301,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -10819,14 +10955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71192,
-      "num": 71192,
-      "word": "伊朗发动第63波攻势",
-      "onboard_time": 1773911181,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70994,
       "num": 70994,
       "word": "猫咪 我装的但我真慌了",
@@ -10900,7 +11028,7 @@
     },
     {
       "raw_hot": 69951,
-      "num": 69951,
+      "num": 73725,
       "word": "油价飙升澳民众加完油就跑",
       "onboard_time": 1773910821,
       "rank": 39,
@@ -11075,6 +11203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67239,
+      "num": 137599,
+      "word": "闲鱼有点东西",
+      "onboard_time": 1773911722,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 67118,
       "num": 121399,
       "word": "内娱明星在Tiffany晚宴团建",
@@ -11235,22 +11371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65160,
-      "num": 65160,
-      "word": "疑似胡歌初恋女友发文",
-      "onboard_time": 1773911360,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 65124,
-      "num": 65124,
-      "word": "宝妈每天用84消毒患上罕见病",
-      "onboard_time": 1773910762,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65032,
       "num": 65032,
       "word": "唐嫣方发告黑公示",
@@ -11281,14 +11401,6 @@
       "onboard_time": 1773653962,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 64674,
-      "num": 64674,
-      "word": "黄金跌个没完",
-      "onboard_time": 1773911360,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 64650,
@@ -11443,6 +11555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62689,
+      "num": 75010,
+      "word": "陈妍希想用湿发打破甜姐标签",
+      "onboard_time": 1773913101,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 62671,
       "num": 62671,
       "word": "李羲承上海签售退款",
@@ -11507,20 +11627,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 61557,
-      "num": 69954,
-      "word": "日本将向美国赠送250棵樱花树",
-      "onboard_time": 1773911061,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 61466,
       "num": 105912,
       "word": "黄天鹅多平台遭退单",
       "onboard_time": 1773661820,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61400,
+      "num": 73955,
+      "word": "李卿和刘梦芮是同班同学",
+      "onboard_time": 1773913580,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 60789,
@@ -11611,6 +11731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59550,
+      "num": 73680,
+      "word": "A股4000点失而复得",
+      "onboard_time": 1773910880,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 59329,
       "num": 145761,
       "word": "数学好的人果然都是爱钻研的",
@@ -11633,6 +11761,14 @@
       "onboard_time": 1773893301,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59038,
+      "num": 73624,
+      "word": "家长什么时候才能接受孩子平庸",
+      "onboard_time": 1773912920,
+      "rank": 49,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 58887,
@@ -12435,6 +12571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37587,
+      "num": 75796,
+      "word": "医保新规扩大了慢性病和特殊病病种",
+      "onboard_time": 1773913642,
+      "rank": 37,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 37563,
       "num": 37563,
       "word": "林依晨称因熬夜和压力患脑部囊肿",
@@ -12497,6 +12641,14 @@
       "onboard_time": 1773552380,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36340,
+      "num": 147353,
+      "word": "中方对以方说法感到震惊",
+      "onboard_time": 1773913580,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36162,
@@ -12619,14 +12771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33058,
-      "num": 104280,
-      "word": "女子将20万黄金藏豆瓣酱里寄骗子",
-      "onboard_time": 1773911121,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32911,
       "num": 125489,
       "word": "全球多个国家出现麻疹疫情反弹",
@@ -12705,6 +12849,14 @@
       "onboard_time": 1773702558,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 30619,
+      "num": 75708,
+      "word": "9岁男孩被塞后备厢爷爷奶奶在场",
+      "onboard_time": 1773913941,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30563,
@@ -13385,6 +13537,14 @@
       "onboard_time": 1773523514,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16400,
+      "num": 75353,
+      "word": "北大外卖哥是眼高手低还是博流量",
+      "onboard_time": 1773913223,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16131,
