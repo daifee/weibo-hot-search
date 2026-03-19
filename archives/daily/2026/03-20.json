@@ -1,7 +1,23 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1773960994672,
+  "endTime": 1773963514969,
   "band_list": [
+    {
+      "raw_hot": 781896,
+      "num": 129655,
+      "word": "伊朗导弹击中以色列海法炼油厂",
+      "onboard_time": 1773940818,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 693764,
+      "num": 100562,
+      "word": "一觉醒来黄金挂坠亏了2000元",
+      "onboard_time": 1773935002,
+      "rank": 32,
+      "category": "财经"
+    },
     {
       "raw_hot": 659112,
       "num": 133606,
@@ -9,14 +25,6 @@
       "onboard_time": 1773913821,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 595984,
-      "num": 72993,
-      "word": "伊朗导弹击中以色列海法炼油厂",
-      "onboard_time": 1773940818,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 559177,
@@ -27,12 +35,12 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 445902,
-      "num": 78931,
-      "word": "一觉醒来黄金挂坠亏了2000元",
-      "onboard_time": 1773935002,
-      "rank": 32,
-      "category": "财经"
+      "raw_hot": 452573,
+      "num": 100437,
+      "word": "特朗普见高市早苗提偷袭珍珠港",
+      "onboard_time": 1773962598,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 376505,
@@ -83,12 +91,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208175,
+      "num": 104975,
+      "word": "金价暴跌抄底7天越买越套",
+      "onboard_time": 1773930922,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 202277,
+      "num": 99255,
+      "word": "瞿颖香奈儿老了还是香奈儿",
+      "onboard_time": 1773924502,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197851,
       "num": 157372,
       "word": "中方对以方说法感到震惊",
       "onboard_time": 1773913580,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 187213,
+      "num": 99179,
+      "word": "被路虎别停8次男子个人信息疑泄露",
+      "onboard_time": 1773916462,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178696,
@@ -107,6 +139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176900,
+      "num": 98913,
+      "word": "小S复工后首期节目惊现惊喜嘉宾",
+      "onboard_time": 1773961518,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176701,
+      "num": 98557,
+      "word": "美国女教师用蛋糕引诱性侵学生",
+      "onboard_time": 1773962057,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 170595,
       "num": 170595,
       "word": "新一代SU734分钟锁单1.5万台",
@@ -115,12 +163,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 168719,
-      "num": 104975,
-      "word": "金价暴跌抄底7天越买越套",
-      "onboard_time": 1773930922,
-      "rank": 20,
-      "category": "财经"
+      "raw_hot": 168737,
+      "num": 646906,
+      "word": "雷军感谢王兴兴给了投资宇树的机会",
+      "onboard_time": 1773927502,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 152342,
@@ -171,12 +219,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127433,
-      "num": 57348,
-      "word": "瞿颖香奈儿老了还是香奈儿",
-      "onboard_time": 1773924502,
-      "rank": 48,
-      "category": "作品衍生"
+      "raw_hot": 130922,
+      "num": 130922,
+      "word": "神秘人花7500元预存500碗面",
+      "onboard_time": 1773929123,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127527,
+      "num": 127527,
+      "word": "春分",
+      "onboard_time": 1773961938,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125406,
@@ -195,12 +251,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122762,
-      "num": 81994,
-      "word": "被路虎别停8次男子个人信息疑泄露",
-      "onboard_time": 1773916462,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 121416,
+      "num": 87622,
+      "word": "以方暂停空袭伊朗能源设施",
+      "onboard_time": 1773962358,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 121065,
+      "num": 121065,
+      "word": "日本劫掠中国文物数量惊人",
+      "onboard_time": 1773931583,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 115341,
+      "num": 98204,
+      "word": "金银暴跌原因找到了",
+      "onboard_time": 1773961817,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 114629,
@@ -219,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99354,
+      "num": 99354,
+      "word": "春分遇到龙抬头",
+      "onboard_time": 1773962297,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97065,
       "num": 97065,
       "word": "小米笔记本",
@@ -227,12 +307,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 89214,
-      "num": 89214,
-      "word": "日本劫掠中国文物数量惊人",
-      "onboard_time": 1773931583,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 87689,
+      "num": 87689,
+      "word": "龙抬头",
+      "onboard_time": 1773961938,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87595,
+      "num": 87595,
+      "word": "女子玩笑称买5000克黄金当存钱",
+      "onboard_time": 1773963020,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86703,
@@ -241,6 +329,14 @@
       "onboard_time": 1773923963,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85992,
+      "num": 85992,
+      "word": "雷军五年前押宝的机器人公司火了",
+      "onboard_time": 1773961878,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 84722,
@@ -259,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78582,
-      "num": 78582,
-      "word": "神秘人花7500元预存500碗面",
-      "onboard_time": 1773929123,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75540,
       "num": 75540,
       "word": "小米发布会",
@@ -276,11 +364,19 @@
     },
     {
       "raw_hot": 75534,
-      "num": 75534,
+      "num": 87627,
       "word": "黄金瀑布式跳水",
       "onboard_time": 1773927323,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 71120,
+      "num": 71120,
+      "word": "GEN的对手是BLG",
+      "onboard_time": 1773961817,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 67858,
@@ -297,14 +393,6 @@
       "onboard_time": 1773922821,
       "rank": 34,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 67467,
-      "num": 67467,
-      "word": "雷军感谢王兴兴给了投资宇树的机会",
-      "onboard_time": 1773927502,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 66218,
@@ -339,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59897,
+      "num": 62344,
+      "word": "樊长玉一句侯爷把谢征叫破防了",
+      "onboard_time": 1773921142,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55880,
       "num": 62351,
       "word": "GEN战胜LYON",
@@ -347,20 +443,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 55396,
-      "num": 62344,
-      "word": "樊长玉一句侯爷把谢征叫破防了",
-      "onboard_time": 1773921142,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 53606,
+      "raw_hot": 54518,
       "num": 62337,
       "word": "宝诗龙上海全明星阵容",
       "onboard_time": 1773925402,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 53525,
+      "num": 53525,
+      "word": "JDG战胜LOUD",
+      "onboard_time": 1773962057,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 52776,
@@ -395,6 +491,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48421,
+      "num": 47617,
+      "word": "樊长玉被众人排斥",
+      "onboard_time": 1773951134,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48041,
+      "num": 61270,
+      "word": "金价跌到看不懂",
+      "onboard_time": 1773926004,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 47838,
       "num": 62315,
       "word": "翟潇闻这首歌迎来了他的女主",
@@ -419,14 +531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 45751,
-      "num": 61270,
-      "word": "金价跌到看不懂",
-      "onboard_time": 1773926004,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 39867,
       "num": 39867,
       "word": "邓凯手势舞",
@@ -441,14 +545,6 @@
       "onboard_time": 1773937158,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31658,
-      "num": 31658,
-      "word": "樊长玉被众人排斥",
-      "onboard_time": 1773951134,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 28875,
@@ -515,6 +611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 17642,
+      "num": 528521,
+      "word": "十五五规划纲要撰写的幕后",
+      "onboard_time": 1773925402,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12565,
       "num": 14876,
       "word": "苏炳添代言小米汽车",
@@ -523,12 +627,12 @@
       "category": "汽车,艺人"
     },
     {
-      "raw_hot": 12409,
-      "num": 316166,
-      "word": "十五五规划纲要撰写的幕后",
-      "onboard_time": 1773925402,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 8540,
+      "num": 100939,
+      "word": "伊朗称击中美军F35战机",
+      "onboard_time": 1773963500,
+      "rank": 9,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

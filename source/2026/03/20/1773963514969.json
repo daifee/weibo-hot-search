@@ -1,0 +1,410 @@
+{
+  "runTime": 1773963514969,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 361744,
+        "num": 882948,
+        "word": "7年前买的泡泡玛特盲盒才发货",
+        "onboard_time": 1773930982,
+        "rank": 0,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 168737,
+        "num": 646906,
+        "word": "雷军感谢王兴兴给了投资宇树的机会",
+        "onboard_time": 1773927502,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 17642,
+        "num": 528521,
+        "word": "十五五规划纲要撰写的幕后",
+        "onboard_time": 1773925402,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150127,
+        "num": 150127,
+        "word": "奔跑吧14",
+        "onboard_time": 1773934463,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130922,
+        "num": 130922,
+        "word": "神秘人花7500元预存500碗面",
+        "onboard_time": 1773929123,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 781896,
+        "num": 129655,
+        "word": "伊朗导弹击中以色列海法炼油厂",
+        "onboard_time": 1773940818,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127527,
+        "num": 127527,
+        "word": "春分",
+        "onboard_time": 1773961938,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121065,
+        "num": 121065,
+        "word": "日本劫掠中国文物数量惊人",
+        "onboard_time": 1773931583,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101177,
+        "num": 101177,
+        "word": "山姆回应三文鱼标注加热却被生食",
+        "onboard_time": 1773932242,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8540,
+        "num": 100939,
+        "word": "伊朗称击中美军F35战机",
+        "onboard_time": 1773963500,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 693764,
+        "num": 100562,
+        "word": "一觉醒来黄金挂坠亏了2000元",
+        "onboard_time": 1773935002,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 452573,
+        "num": 100437,
+        "word": "特朗普见高市早苗提偷袭珍珠港",
+        "onboard_time": 1773962598,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298777,
+        "num": 99974,
+        "word": "月经弄脏卧铺遭索赔女子称很愧疚",
+        "onboard_time": 1773933382,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208175,
+        "num": 99394,
+        "word": "金价暴跌抄底7天越买越套",
+        "onboard_time": 1773930922,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99354,
+        "num": 99354,
+        "word": "春分遇到龙抬头",
+        "onboard_time": 1773962297,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202277,
+        "num": 99255,
+        "word": "瞿颖香奈儿老了还是香奈儿",
+        "onboard_time": 1773924502,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187213,
+        "num": 99179,
+        "word": "被路虎别停8次男子个人信息疑泄露",
+        "onboard_time": 1773916462,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98971,
+        "num": 98971,
+        "word": "中方对以方说法感到震惊",
+        "onboard_time": 1773913580,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176900,
+        "num": 98913,
+        "word": "小S复工后首期节目惊现惊喜嘉宾",
+        "onboard_time": 1773961518,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134051,
+        "num": 98736,
+        "word": "主人回应7只被偷小狗结伴逃回家",
+        "onboard_time": 1773927083,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176701,
+        "num": 98557,
+        "word": "美国女教师用蛋糕引诱性侵学生",
+        "onboard_time": 1773962057,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144281,
+        "num": 98462,
+        "word": "伊朗称打击命中美第五舰队",
+        "onboard_time": 1773937099,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115341,
+        "num": 98204,
+        "word": "金银暴跌原因找到了",
+        "onboard_time": 1773961817,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113020,
+        "num": 98097,
+        "word": "台湾发生双尸案",
+        "onboard_time": 1773924922,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106124,
+        "num": 97983,
+        "word": "肖战宝诗龙",
+        "onboard_time": 1773932001,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97834,
+        "num": 97834,
+        "word": "逐玉31集经纪人最爱的一集",
+        "onboard_time": 1773930202,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96069,
+        "num": 96069,
+        "word": "小米汽车",
+        "onboard_time": 1773928582,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 97325,
+        "num": 92163,
+        "word": "胡先煦秒删博",
+        "onboard_time": 1773913821,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87689,
+        "num": 87689,
+        "word": "龙抬头",
+        "onboard_time": 1773961938,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73693,
+        "num": 87627,
+        "word": "黄金瀑布式跳水",
+        "onboard_time": 1773927323,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121416,
+        "num": 87622,
+        "word": "以方暂停空袭伊朗能源设施",
+        "onboard_time": 1773962358,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87595,
+        "num": 87595,
+        "word": "女子玩笑称买5000克黄金当存钱",
+        "onboard_time": 1773963020,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85992,
+        "num": 85992,
+        "word": "雷军五年前押宝的机器人公司火了",
+        "onboard_time": 1773961878,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 71120,
+        "num": 71120,
+        "word": "GEN的对手是BLG",
+        "onboard_time": 1773961817,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70241,
+        "num": 70241,
+        "word": "王格格 奔跑吧14",
+        "onboard_time": 1773919342,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63788,
+        "num": 63788,
+        "word": "南方医院承认医生未复核私自改报告",
+        "onboard_time": 1773934581,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60602,
+        "num": 60602,
+        "word": "父亲回应儿子北大毕业送外卖",
+        "onboard_time": 1773926902,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59897,
+        "num": 59897,
+        "word": "樊长玉一句侯爷把谢征叫破防了",
+        "onboard_time": 1773921142,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59719,
+        "num": 59719,
+        "word": "小米新SU7起售价21.99万元",
+        "onboard_time": 1773924742,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 55171,
+        "num": 55171,
+        "word": "网传奔跑吧14常驻嘉宾阵容",
+        "onboard_time": 1773913223,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54518,
+        "num": 54518,
+        "word": "宝诗龙上海全明星阵容",
+        "onboard_time": 1773925402,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53525,
+        "num": 53525,
+        "word": "JDG战胜LOUD",
+        "onboard_time": 1773962057,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52258,
+        "num": 52258,
+        "word": "小米笔记本",
+        "onboard_time": 1773925042,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 49887,
+        "num": 49887,
+        "word": "逐玉",
+        "onboard_time": 1773918802,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48064,
+        "num": 48064,
+        "word": "鞠婧祎爱吃白开水泡饭",
+        "onboard_time": 1773921081,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48041,
+        "num": 48041,
+        "word": "金价跌到看不懂",
+        "onboard_time": 1773926004,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48421,
+        "num": 47617,
+        "word": "樊长玉被众人排斥",
+        "onboard_time": 1773951134,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47139,
+        "num": 47139,
+        "word": "香港荃湾一地起火已疏散近百人",
+        "onboard_time": 1773936080,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43690,
+        "num": 47125,
+        "word": "伊朗外长回应美2000亿美元战争拨款",
+        "onboard_time": 1773920541,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36693,
+        "num": 47105,
+        "word": "17岁的Angelababy",
+        "onboard_time": 1773919460,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#金杯银杯不如老百姓口碑#"
+    }
+  }
+}

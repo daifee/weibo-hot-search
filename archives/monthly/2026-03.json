@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773960994672,
+  "endTime": 1773963514969,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -2243,6 +2243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 781896,
+      "num": 129655,
+      "word": "伊朗导弹击中以色列海法炼油厂",
+      "onboard_time": 1773940818,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 781314,
       "num": 1125010,
       "word": "建议居民身份证去地址化",
@@ -2801,6 +2809,14 @@
       "onboard_time": 1773547938,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 693764,
+      "num": 100562,
+      "word": "一觉醒来黄金挂坠亏了2000元",
+      "onboard_time": 1773935002,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 693274,
@@ -3841,14 +3857,6 @@
       "onboard_time": 1773586345,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 595984,
-      "num": 72993,
-      "word": "伊朗导弹击中以色列海法炼油厂",
-      "onboard_time": 1773940818,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 594866,
@@ -6091,6 +6099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452573,
+      "num": 100437,
+      "word": "特朗普见高市早苗提偷袭珍珠港",
+      "onboard_time": 1773962598,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 452242,
       "num": 325465,
       "word": "建议艾滋感染者1个月内告知配偶",
@@ -6265,14 +6281,6 @@
       "onboard_time": 1772417722,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 445902,
-      "num": 78931,
-      "word": "一觉醒来黄金挂坠亏了2000元",
-      "onboard_time": 1773935002,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 445819,
@@ -15004,7 +15012,7 @@
     },
     {
       "raw_hot": 217621,
-      "num": 166091,
+      "num": 646906,
       "word": "雷军感谢王兴兴给了投资宇树的机会",
       "onboard_time": 1773927502,
       "rank": 21,
@@ -15969,6 +15977,14 @@
       "onboard_time": 1772703023,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 202277,
+      "num": 99255,
+      "word": "瞿颖香奈儿老了还是香奈儿",
+      "onboard_time": 1773924502,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202099,
@@ -17792,6 +17808,22 @@
       "word": "美国夫妻藏匿190具遗体致腐烂获刑",
       "onboard_time": 1773756864,
       "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 176900,
+      "num": 98913,
+      "word": "小S复工后首期节目惊现惊喜嘉宾",
+      "onboard_time": 1773961518,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176701,
+      "num": 98557,
+      "word": "美国女教师用蛋糕引诱性侵学生",
+      "onboard_time": 1773962057,
+      "rank": 20,
       "category": "海外新闻"
     },
     {
@@ -23683,6 +23715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127527,
+      "num": 127527,
+      "word": "春分",
+      "onboard_time": 1773961938,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127520,
       "num": 127520,
       "word": "金价有望震荡回升",
@@ -23713,14 +23753,6 @@
       "onboard_time": 1773764718,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 127433,
-      "num": 57348,
-      "word": "瞿颖香奈儿老了还是香奈儿",
-      "onboard_time": 1773924502,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 127403,
@@ -24723,6 +24755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121416,
+      "num": 87622,
+      "word": "以方暂停空袭伊朗能源设施",
+      "onboard_time": 1773962358,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121390,
       "num": 289260,
       "word": "华为MateBookNeo曝光",
@@ -24817,6 +24857,14 @@
       "onboard_time": 1772520808,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 121065,
+      "num": 198443,
+      "word": "日本劫掠中国文物数量惊人",
+      "onboard_time": 1773931583,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121051,
@@ -25257,14 +25305,6 @@
       "onboard_time": 1773412942,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119026,
-      "num": 198443,
-      "word": "日本劫掠中国文物数量惊人",
-      "onboard_time": 1773931583,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119023,
@@ -25953,6 +25993,14 @@
       "onboard_time": 1773279801,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115341,
+      "num": 98204,
+      "word": "金银暴跌原因找到了",
+      "onboard_time": 1773961817,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 115257,
@@ -29851,6 +29899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 99354,
+      "num": 99354,
+      "word": "春分遇到龙抬头",
+      "onboard_time": 1773962297,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99346,
       "num": 99346,
       "word": "FI现场火爆首日吃掉上万鸡腿",
@@ -33635,6 +33691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87689,
+      "num": 87689,
+      "word": "龙抬头",
+      "onboard_time": 1773961938,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87677,
       "num": 87677,
       "word": "DYG 自求多福",
@@ -33665,6 +33729,14 @@
       "onboard_time": 1773889940,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87595,
+      "num": 87595,
+      "word": "女子玩笑称买5000克黄金当存钱",
+      "onboard_time": 1773963020,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87572,
@@ -34337,6 +34409,14 @@
       "onboard_time": 1772969481,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 85992,
+      "num": 85992,
+      "word": "雷军五年前押宝的机器人公司火了",
+      "onboard_time": 1773961878,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 85970,
@@ -39643,6 +39723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71120,
+      "num": 71120,
+      "word": "GEN的对手是BLG",
+      "onboard_time": 1773961817,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71111,
       "num": 495722,
       "word": "小米很快会推出L3L4驾驶",
@@ -44139,6 +44227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 53525,
+      "num": 53525,
+      "word": "JDG战胜LOUD",
+      "onboard_time": 1773962057,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53521,
       "num": 992026,
       "word": "126个走出大山的孩子老师全都记得",
@@ -45033,6 +45129,14 @@
       "onboard_time": 1772893823,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48421,
+      "num": 47617,
+      "word": "樊长玉被众人排斥",
+      "onboard_time": 1773951134,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 48385,
@@ -48011,14 +48115,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31658,
-      "num": 31658,
-      "word": "樊长玉被众人排斥",
-      "onboard_time": 1773951134,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 31454,
       "num": 908320,
       "word": "国宝级兵王亮相",
@@ -50411,6 +50507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17642,
+      "num": 528521,
+      "word": "十五五规划纲要撰写的幕后",
+      "onboard_time": 1773925402,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17629,
       "num": 215424,
       "word": "用智搜读懂女性的每一种精彩",
@@ -50569,14 +50673,6 @@
       "onboard_time": 1772653994,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16830,
-      "num": 316166,
-      "word": "十五五规划纲要撰写的幕后",
-      "onboard_time": 1773925402,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16785,
@@ -51393,6 +51489,14 @@
       "onboard_time": 1772865561,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8540,
+      "num": 100939,
+      "word": "伊朗称击中美军F35战机",
+      "onboard_time": 1773963500,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8050,

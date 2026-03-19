@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773960994672,
+  "endTime": 1773963514969,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -451,6 +451,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 781896,
+      "num": 129655,
+      "word": "伊朗导弹击中以色列海法炼油厂",
+      "onboard_time": 1773940818,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 780227,
       "num": 170107,
       "word": "章子怡的买股运",
@@ -585,6 +593,14 @@
       "onboard_time": 1773547938,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 693764,
+      "num": 100562,
+      "word": "一觉醒来黄金挂坠亏了2000元",
+      "onboard_time": 1773935002,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 692957,
@@ -865,14 +881,6 @@
       "onboard_time": 1773586345,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 595984,
-      "num": 72993,
-      "word": "伊朗导弹击中以色列海法炼油厂",
-      "onboard_time": 1773940818,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 594866,
@@ -1595,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452573,
+      "num": 100437,
+      "word": "特朗普见高市早苗提偷袭珍珠港",
+      "onboard_time": 1773962598,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 451739,
       "num": 314738,
       "word": "奥斯卡",
@@ -1657,14 +1673,6 @@
       "onboard_time": 1773894142,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 445902,
-      "num": 78931,
-      "word": "一觉醒来黄金挂坠亏了2000元",
-      "onboard_time": 1773935002,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 445066,
@@ -4228,7 +4236,7 @@
     },
     {
       "raw_hot": 217621,
-      "num": 166091,
+      "num": 646906,
       "word": "雷军感谢王兴兴给了投资宇树的机会",
       "onboard_time": 1773927502,
       "rank": 21,
@@ -4569,6 +4577,14 @@
       "onboard_time": 1773719781,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202277,
+      "num": 99255,
+      "word": "瞿颖香奈儿老了还是香奈儿",
+      "onboard_time": 1773924502,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202099,
@@ -5144,6 +5160,22 @@
       "word": "美国夫妻藏匿190具遗体致腐烂获刑",
       "onboard_time": 1773756864,
       "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 176900,
+      "num": 98913,
+      "word": "小S复工后首期节目惊现惊喜嘉宾",
+      "onboard_time": 1773961518,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176701,
+      "num": 98557,
+      "word": "美国女教师用蛋糕引诱性侵学生",
+      "onboard_time": 1773962057,
+      "rank": 20,
       "category": "海外新闻"
     },
     {
@@ -6827,6 +6859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127527,
+      "num": 127527,
+      "word": "春分",
+      "onboard_time": 1773961938,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127520,
       "num": 127520,
       "word": "金价有望震荡回升",
@@ -6841,14 +6881,6 @@
       "onboard_time": 1773764718,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 127433,
-      "num": 57348,
-      "word": "瞿颖香奈儿老了还是香奈儿",
-      "onboard_time": 1773924502,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 127369,
@@ -7147,12 +7179,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 121416,
+      "num": 87622,
+      "word": "以方暂停空袭伊朗能源设施",
+      "onboard_time": 1773962358,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121316,
       "num": 135933,
       "word": "七万元买QQ到底贵不贵",
       "onboard_time": 1773736522,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 121065,
+      "num": 198443,
+      "word": "日本劫掠中国文物数量惊人",
+      "onboard_time": 1773931583,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121051,
@@ -7273,14 +7321,6 @@
       "onboard_time": 1773893002,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119026,
-      "num": 198443,
-      "word": "日本劫掠中国文物数量惊人",
-      "onboard_time": 1773931583,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118562,
@@ -7489,6 +7529,14 @@
       "onboard_time": 1773631881,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115341,
+      "num": 98204,
+      "word": "金银暴跌原因找到了",
+      "onboard_time": 1773961817,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 114654,
@@ -8619,6 +8667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99354,
+      "num": 99354,
+      "word": "春分遇到龙抬头",
+      "onboard_time": 1773962297,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99139,
       "num": 145187,
       "word": "杨瀚森G联赛比赛直播",
@@ -9715,6 +9771,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 87689,
+      "num": 87689,
+      "word": "龙抬头",
+      "onboard_time": 1773961938,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87667,
       "num": 87667,
       "word": "五千的钢琴课狗学了三千",
@@ -9729,6 +9793,14 @@
       "onboard_time": 1773889940,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87595,
+      "num": 87595,
+      "word": "女子玩笑称买5000克黄金当存钱",
+      "onboard_time": 1773963020,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87572,
@@ -10001,6 +10073,14 @@
       "onboard_time": 1773810382,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85992,
+      "num": 85992,
+      "word": "雷军五年前押宝的机器人公司火了",
+      "onboard_time": 1773961878,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 85970,
@@ -11643,6 +11723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71120,
+      "num": 71120,
+      "word": "GEN的对手是BLG",
+      "onboard_time": 1773961817,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 70994,
       "num": 70994,
       "word": "猫咪 我装的但我真慌了",
@@ -12795,6 +12883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 53525,
+      "num": 53525,
+      "word": "JDG战胜LOUD",
+      "onboard_time": 1773962057,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53387,
       "num": 754051,
       "word": "守护黄河用上了智能石头",
@@ -13009,6 +13105,14 @@
       "onboard_time": 1773505999,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48421,
+      "num": 47617,
+      "word": "樊长玉被众人排斥",
+      "onboard_time": 1773951134,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 48385,
@@ -13739,14 +13843,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31658,
-      "num": 31658,
-      "word": "樊长玉被众人排斥",
-      "onboard_time": 1773951134,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 31301,
       "num": 918124,
       "word": "十五五规划里的新提法",
@@ -14459,6 +14555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 17642,
+      "num": 528521,
+      "word": "十五五规划纲要撰写的幕后",
+      "onboard_time": 1773925402,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17621,
       "num": 17621,
       "word": "刘宇宁一开口吃了一嘴的纸",
@@ -14505,14 +14609,6 @@
       "onboard_time": 1773601395,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16830,
-      "num": 316166,
-      "word": "十五五规划纲要撰写的幕后",
-      "onboard_time": 1773925402,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16785,
@@ -14753,6 +14849,14 @@
       "onboard_time": 1773474860,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8540,
+      "num": 100939,
+      "word": "伊朗称击中美军F35战机",
+      "onboard_time": 1773963500,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8050,
