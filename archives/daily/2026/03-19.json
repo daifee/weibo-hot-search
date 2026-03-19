@@ -1,6 +1,6 @@
 {
   "startTime": 1773853886951,
-  "endTime": 1773907458905,
+  "endTime": 1773910505483,
   "band_list": [
     {
       "raw_hot": 1107723,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 589593,
+      "num": 589593,
+      "word": "沈月拍出了徐志胜人生照片",
+      "onboard_time": 1773909381,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 569703,
       "num": 247454,
       "word": "金价银价又崩了",
@@ -89,6 +97,14 @@
       "onboard_time": 1773895344,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 529972,
+      "num": 1084795,
+      "word": "涉密人员婚假擅自出境被通报批评",
+      "onboard_time": 1773907521,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 517773,
@@ -339,6 +355,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 299891,
+      "num": 133908,
+      "word": "吃甜品的漂亮姐姐迪丽热巴",
+      "onboard_time": 1773909022,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292977,
       "num": 292977,
       "word": "胖东来小方糖戒指重新上架3天售罄",
@@ -435,6 +459,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 251814,
+      "num": 286191,
+      "word": "6岁娃被妈妈独自丢酒店每天求抱抱",
+      "onboard_time": 1773906381,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250438,
+      "num": 78858,
+      "word": "刘强东章泽天现身巴黎街头",
+      "onboard_time": 1773907641,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 248520,
       "num": 272873,
       "word": "逐玉陈皮糖二次求婚",
@@ -449,14 +489,6 @@
       "onboard_time": 1773896002,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241617,
-      "num": 286191,
-      "word": "6岁娃被妈妈独自丢酒店每天求抱抱",
-      "onboard_time": 1773906381,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241036,
@@ -489,6 +521,14 @@
       "onboard_time": 1773848543,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 226601,
+      "num": 273945,
+      "word": "外交部回应伊朗拉里贾尼遇害",
+      "onboard_time": 1773906381,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 218756,
@@ -563,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179161,
+      "num": 179161,
+      "word": "王楚钦孙颖莎双打世界杯海报",
+      "onboard_time": 1773906081,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175371,
       "num": 323359,
       "word": "银行开始劝退炒金客",
@@ -585,14 +633,6 @@
       "onboard_time": 1773875659,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 168557,
-      "num": 273945,
-      "word": "外交部回应伊朗拉里贾尼遇害",
-      "onboard_time": 1773906381,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 166434,
@@ -723,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134830,
+      "num": 138269,
+      "word": "女子被母亲介绍的相亲对象骗85万",
+      "onboard_time": 1773906981,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132954,
       "num": 132954,
       "word": "张凌赫的杂志销量",
@@ -753,6 +801,14 @@
       "onboard_time": 1773845602,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129539,
+      "num": 129539,
+      "word": "金价下跌能抄底吗",
+      "onboard_time": 1773909680,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 127744,
@@ -889,6 +945,14 @@
       "onboard_time": 1773906623,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 105980,
+      "num": 134386,
+      "word": "男子从年轻买到退休终于中1046万",
+      "onboard_time": 1773907819,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105532,
@@ -1067,12 +1131,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 90451,
-      "num": 90451,
-      "word": "王楚钦孙颖莎双打世界杯海报",
-      "onboard_time": 1773906081,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 89874,
+      "num": 89874,
+      "word": "何晟铭于正你俩没有微信吗",
+      "onboard_time": 1773908901,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 89658,
@@ -1137,6 +1201,14 @@
       "onboard_time": 1773838402,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85462,
+      "num": 131146,
+      "word": "央行坚定维护股票等市场平稳运行",
+      "onboard_time": 1773909680,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 85141,
@@ -1249,6 +1321,22 @@
       "onboard_time": 1773907102,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 78482,
+      "num": 78482,
+      "word": "陈星旭看上去好久没吃碳水了",
+      "onboard_time": 1773909442,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78030,
+      "num": 78030,
+      "word": "爱犬走失遭剥皮宰杀警方已立案",
+      "onboard_time": 1773908420,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77445,
@@ -1403,12 +1491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67094,
+      "num": 67094,
+      "word": "王一博方曾多次辟谣私生爆料",
+      "onboard_time": 1773909081,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67061,
       "num": 67061,
       "word": "梅西创足坛进球数最快最年轻纪录",
       "onboard_time": 1773885021,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67056,
+      "num": 67056,
+      "word": "丁禹兮 沪上潮男",
+      "onboard_time": 1773908962,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 65972,
@@ -1435,12 +1539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64650,
+      "num": 64650,
+      "word": "雷军回应大模型火了",
+      "onboard_time": 1773909621,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 62871,
       "num": 380406,
       "word": "4S店回应拉黑吃饭超260次男子",
       "onboard_time": 1773842362,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61868,
+      "num": 61868,
+      "word": "肥娟夫妇开健身房",
+      "onboard_time": 1773906923,
+      "rank": 47,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 60691,
@@ -1515,14 +1635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 56960,
-      "num": 56960,
-      "word": "肥娟夫妇开健身房",
-      "onboard_time": 1773906923,
-      "rank": 47,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 56541,
       "num": 56541,
       "word": "电脑端微信3大新功能",
@@ -1531,12 +1643,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 56148,
+      "num": 60329,
+      "word": "贺峻霖徐志胜拍了重庆机车大片",
+      "onboard_time": 1773910461,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55054,
       "num": 60019,
       "word": "容易让人长胖的睡前习惯",
       "onboard_time": 1773829461,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 54971,
+      "num": 60302,
+      "word": "易烊千玺在录歌了",
+      "onboard_time": 1773907882,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 53729,
@@ -1563,12 +1691,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52706,
+      "num": 60287,
+      "word": "你的妻子您的女徒都是樊长玉",
+      "onboard_time": 1773910281,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52479,
       "num": 662575,
       "word": "新一批重大外资项目要来了",
       "onboard_time": 1773839962,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52376,
+      "num": 60319,
+      "word": "美国在中东核心基地被炸了个遍",
+      "onboard_time": 1773908181,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49843,
@@ -1651,6 +1795,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 38381,
+      "num": 130184,
+      "word": "全世界都在一块喝好茶",
+      "onboard_time": 1773908722,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 36974,
       "num": 60116,
       "word": "袋鼠妈妈被约谈",
@@ -1681,14 +1833,6 @@
       "onboard_time": 1773896422,
       "rank": 39,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 33732,
-      "num": 138269,
-      "word": "女子被母亲介绍的相亲对象骗85万",
-      "onboard_time": 1773906981,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33719,
@@ -1779,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23092,
+      "num": 129795,
+      "word": "北大毕业男子仅送外卖一天",
+      "onboard_time": 1773909921,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22761,
       "num": 200396,
       "word": "春分许愿到底灵不灵",
@@ -1796,7 +1948,7 @@
     },
     {
       "raw_hot": 20651,
-      "num": 611462,
+      "num": 649745,
       "word": "数读2025海洋经济公报",
       "onboard_time": 1773906081,
       "rank": 2,
