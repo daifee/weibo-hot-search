@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773921519058,
+  "endTime": 1773926502768,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1955137,
-      "num": 147681,
+      "num": 584480,
       "word": "胡先煦秒删博",
       "onboard_time": 1773913821,
       "rank": 25,
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 624487,
-      "num": 220157,
+      "num": 439469,
       "word": "王格格 奔跑吧14",
       "onboard_time": 1773919342,
       "rank": 6,
@@ -937,6 +937,14 @@
       "onboard_time": 1773730702,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 581664,
+      "num": 581664,
+      "word": "女子称月经弄脏卧铺被事件班组被罚",
+      "onboard_time": 1773922881,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 581506,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1773625342,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 522943,
+      "num": 1083671,
+      "word": "小米笔记本",
+      "onboard_time": 1773925042,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 519575,
@@ -1699,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 427309,
+      "num": 613823,
+      "word": "小米新SU7起售价21.99万元",
+      "onboard_time": 1773924742,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 426366,
       "num": 191675,
       "word": "26岁患癌女子冒生命危险坚持备孕",
@@ -2171,6 +2195,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 358230,
+      "num": 358230,
+      "word": "黄金跌个没完",
+      "onboard_time": 1773911360,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 357226,
       "num": 357226,
       "word": "逐玉云合破50%",
@@ -2201,6 +2233,14 @@
       "onboard_time": 1773548060,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356071,
+      "num": 356071,
+      "word": "中国小女孩打车视频在推特爆火",
+      "onboard_time": 1773920121,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354779,
@@ -2337,14 +2377,6 @@
       "onboard_time": 1773810922,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337062,
-      "num": 154418,
-      "word": "黄金跌个没完",
-      "onboard_time": 1773911360,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 336370,
@@ -2924,7 +2956,7 @@
     },
     {
       "raw_hot": 290678,
-      "num": 185915,
+      "num": 234530,
       "word": "逐玉开虐了",
       "onboard_time": 1773919460,
       "rank": 8,
@@ -3156,7 +3188,7 @@
     },
     {
       "raw_hot": 273600,
-      "num": 159842,
+      "num": 180434,
       "word": "被路虎别停8次男子个人信息疑泄露",
       "onboard_time": 1773916462,
       "rank": 27,
@@ -3537,6 +3569,14 @@
       "onboard_time": 1773641782,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247718,
+      "num": 199960,
+      "word": "台湾发生双尸案",
+      "onboard_time": 1773924922,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247585,
@@ -4139,6 +4179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213632,
+      "num": 598554,
+      "word": "伊朗外长回应美2000亿美元战争拨款",
+      "onboard_time": 1773920541,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 213263,
       "num": 213263,
       "word": "F1取消四月全部赛事",
@@ -4257,6 +4305,14 @@
       "onboard_time": 1773660143,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207180,
+      "num": 591571,
+      "word": "新一代SU7",
+      "onboard_time": 1773922042,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 206514,
@@ -4379,14 +4435,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 201545,
-      "num": 98776,
-      "word": "中国小女孩打车视频在推特爆火",
-      "onboard_time": 1773920121,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199771,
       "num": 199771,
       "word": "时代少年团 外务",
@@ -4401,6 +4449,14 @@
       "onboard_time": 1773673763,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199453,
+      "num": 199453,
+      "word": "鞠婧祎爱吃白开水泡饭",
+      "onboard_time": 1773921081,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 198866,
@@ -4497,6 +4553,14 @@
       "onboard_time": 1773574342,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192117,
+      "num": 192117,
+      "word": "舒淇代言SU7",
+      "onboard_time": 1773922821,
+      "rank": 23,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 191695,
@@ -4692,7 +4756,7 @@
     },
     {
       "raw_hot": 185344,
-      "num": 167494,
+      "num": 608480,
       "word": "网传奔跑吧14常驻嘉宾阵容",
       "onboard_time": 1773913223,
       "rank": 9,
@@ -4817,6 +4881,14 @@
       "onboard_time": 1773580826,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180557,
+      "num": 180557,
+      "word": "黄金为啥一直跌",
+      "onboard_time": 1773919759,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 180244,
@@ -4993,6 +5065,14 @@
       "onboard_time": 1773791840,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174078,
+      "num": 174078,
+      "word": "张凌赫直播",
+      "onboard_time": 1773925341,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 173669,
@@ -5267,6 +5347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161951,
+      "num": 356081,
+      "word": "谁敢看逐玉接下来的预告",
+      "onboard_time": 1773923963,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161913,
       "num": 211460,
       "word": "美宜佳被约谈",
@@ -5281,6 +5369,14 @@
       "onboard_time": 1773824481,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161190,
+      "num": 588460,
+      "word": "张展硕金牌",
+      "onboard_time": 1773921560,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 160958,
@@ -5337,6 +5433,14 @@
       "onboard_time": 1773543741,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159662,
+      "num": 159662,
+      "word": "17岁的Angelababy",
+      "onboard_time": 1773919460,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 159572,
@@ -5619,6 +5723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 151157,
+      "num": 151157,
+      "word": "陶晶莹说被张凌赫古装帅得吓到",
+      "onboard_time": 1773925702,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151073,
       "num": 151073,
       "word": "章子怡为角色增重20斤",
@@ -5633,6 +5745,14 @@
       "onboard_time": 1773803480,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 150659,
+      "num": 192802,
+      "word": "雷军称新SU7门把手完全符合新国标",
+      "onboard_time": 1773926063,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 150413,
@@ -5864,6 +5984,14 @@
       "word": "男子输液头孢7年第一次过敏休克",
       "onboard_time": 1773876079,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143440,
+      "num": 143440,
+      "word": "3岁男童独自进电梯后坠楼身亡",
+      "onboard_time": 1773924802,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -6153,14 +6281,6 @@
       "onboard_time": 1773631881,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135509,
-      "num": 102478,
-      "word": "17岁的Angelababy",
-      "onboard_time": 1773919460,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 135435,
@@ -6539,6 +6659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127520,
+      "num": 127520,
+      "word": "金价有望震荡回升",
+      "onboard_time": 1773925702,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127434,
       "num": 133808,
       "word": "美反恐中心主任称无法昧良心支持对伊战争",
@@ -6641,6 +6769,14 @@
       "onboard_time": 1773560601,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125200,
+      "num": 125200,
+      "word": "银行积存金或将限购",
+      "onboard_time": 1773924261,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 125110,
@@ -6923,6 +7059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119309,
+      "num": 119309,
+      "word": "金价跌到看不懂",
+      "onboard_time": 1773926004,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119203,
       "num": 119203,
       "word": "最小概率的事就这么发生了",
@@ -6969,6 +7113,14 @@
       "onboard_time": 1773556461,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118128,
+      "num": 118128,
+      "word": "伊朗要求阿联酋作出赔偿",
+      "onboard_time": 1773922881,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118116,
@@ -7057,6 +7209,14 @@
       "onboard_time": 1773565881,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116826,
+      "num": 116826,
+      "word": "樊长玉一句侯爷把谢征叫破防了",
+      "onboard_time": 1773921142,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 116777,
@@ -7363,14 +7523,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 110403,
-      "num": 110403,
-      "word": "黄金为啥一直跌",
-      "onboard_time": 1773919759,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 110015,
       "num": 326955,
       "word": "奇瑞要做真正的新能源车",
@@ -7467,6 +7619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 108450,
+      "num": 108450,
+      "word": "雷军现身发布会",
+      "onboard_time": 1773918560,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 108410,
       "num": 108410,
       "word": "方媛出发录制桃花坞6",
@@ -7521,6 +7681,14 @@
       "onboard_time": 1773901041,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107870,
+      "num": 107870,
+      "word": "彭高 视频号推荐算法工程师",
+      "onboard_time": 1773921920,
+      "rank": 43,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 107672,
@@ -7601,14 +7769,6 @@
       "onboard_time": 1773585386,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106884,
-      "num": 106884,
-      "word": "伊朗外长回应美2000亿美元战争拨款",
-      "onboard_time": 1773920541,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106598,
@@ -7740,7 +7900,7 @@
     },
     {
       "raw_hot": 105749,
-      "num": 98631,
+      "num": 104283,
       "word": "油价要破9元了",
       "onboard_time": 1773921321,
       "rank": 31,
@@ -8081,6 +8241,14 @@
       "onboard_time": 1773760882,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101270,
+      "num": 101270,
+      "word": "陈都灵 黑天鹅",
+      "onboard_time": 1773921321,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 101255,
@@ -8433,14 +8601,6 @@
       "onboard_time": 1773554841,
       "rank": 36,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 96726,
-      "num": 96726,
-      "word": "鞠婧祎爱吃白开水泡饭",
-      "onboard_time": 1773921081,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 96507,
@@ -9739,14 +9899,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 84923,
-      "num": 84923,
-      "word": "樊长玉一句侯爷把谢征叫破防了",
-      "onboard_time": 1773921142,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84858,
       "num": 84858,
       "word": "女生跳舞时被男生撞后下一秒转场",
@@ -9892,7 +10044,7 @@
     },
     {
       "raw_hot": 83666,
-      "num": 83666,
+      "num": 105421,
       "word": "李昀锐宋雨琦 我和我的e人朋友",
       "onboard_time": 1773919580,
       "rank": 40,
@@ -10385,14 +10537,6 @@
       "onboard_time": 1773656002,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78882,
-      "num": 78882,
-      "word": "雷军现身发布会",
-      "onboard_time": 1773918560,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 78483,
@@ -11651,14 +11795,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 65208,
-      "num": 68330,
-      "word": "陈都灵 黑天鹅",
-      "onboard_time": 1773921321,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65165,
       "num": 65165,
       "word": "不想看伪人",
@@ -11753,6 +11889,14 @@
       "onboard_time": 1773744382,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63764,
+      "num": 118141,
+      "word": "唐钱婷50蛙摘金",
+      "onboard_time": 1773925582,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 63755,
@@ -12779,6 +12923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 41729,
+      "num": 164846,
+      "word": "宏福苑起火原因初步锁定为烟头",
+      "onboard_time": 1773925222,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41440,
       "num": 49800,
       "word": "2026F1中国大奖赛",
@@ -13179,6 +13331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 32593,
+      "num": 200209,
+      "word": "宝诗龙上海全明星阵容",
+      "onboard_time": 1773925402,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32255,
       "num": 87687,
       "word": "12岁男孩玩火烧山父母赔偿2年",
@@ -13273,6 +13433,14 @@
       "onboard_time": 1773889520,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 30048,
+      "num": 356318,
+      "word": "青岛爱心面馆让温暖具象化了",
+      "onboard_time": 1773925402,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29996,
@@ -13401,6 +13569,14 @@
       "onboard_time": 1773850939,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27075,
+      "num": 154457,
+      "word": "女婴半岁确诊脊柱裂大排畸报告正常",
+      "onboard_time": 1773926423,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26176,
@@ -13899,6 +14075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16830,
+      "num": 104814,
+      "word": "十五五规划纲要撰写的幕后",
+      "onboard_time": 1773925402,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16785,
       "num": 95225,
       "word": "阿根廷退出世卫组织生效",
@@ -14099,6 +14283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11284,
+      "num": 596503,
+      "word": "十五五的两个超常规",
+      "onboard_time": 1773926063,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10852,
       "num": 105589,
       "word": "田亮叶一茜一家与郭富城合照",
@@ -14137,6 +14329,14 @@
       "onboard_time": 1773561622,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7064,
+      "num": 614429,
+      "word": "长江上又一座大桥建设新进展",
+      "onboard_time": 1773926481,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 5898,
@@ -14194,6 +14394,9 @@
     },
     {
       "word": "#上个马年他赠予习近平一匹汗血马#"
+    },
+    {
+      "word": "#金杯银杯不如老百姓口碑#"
     }
   ]
 }
