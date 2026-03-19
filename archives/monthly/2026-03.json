@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773947356877,
+  "endTime": 1773948546916,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -51201,6 +51201,14 @@
       "onboard_time": 1773455239,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11831,
+      "num": 14499,
+      "word": "檀健次新歌宠",
+      "onboard_time": 1773948253,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 11788,

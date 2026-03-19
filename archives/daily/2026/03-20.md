@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/20 00:02:39 ~ 2026/03/20 03:09:16
+本榜单时间：2026/03/20 00:02:39 ~ 2026/03/20 03:29:06
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ ITZY召回打歌（热度：24214）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%AE%E6%8D%9541%E5%90%8D%E9%97%B4%E8%B0%8D%23" target="weibo">
 伊朗逮捕41名间谍（热度：17878）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B0%E6%AD%8C%E5%AE%A0%23" target="weibo">
+檀健次新歌宠（热度：11831）
 </a>
 </li>
 
