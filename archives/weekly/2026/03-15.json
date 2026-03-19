@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773917568546,
+  "endTime": 1773918560943,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -2923,6 +2923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 286888,
+      "num": 819992,
+      "word": "路虎别停奔驰致追尾涉刑事案件",
+      "onboard_time": 1773914781,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286494,
       "num": 234113,
       "word": "中方回应特朗普呼吁多国派军舰护航",
@@ -3521,14 +3529,6 @@
       "onboard_time": 1773763042,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245356,
-      "num": 245356,
-      "word": "路虎别停奔驰致追尾涉刑事案件",
-      "onboard_time": 1773914781,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 244977,
@@ -4163,6 +4163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208091,
+      "num": 208091,
+      "word": "老板称5元水饺店每天能赚1千元",
+      "onboard_time": 1773915622,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208013,
       "num": 208013,
       "word": "凤梨居然还能这么切",
@@ -4313,14 +4321,6 @@
       "onboard_time": 1773584490,
       "rank": 31,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 201989,
-      "num": 201989,
-      "word": "老板称5元水饺店每天能赚1千元",
-      "onboard_time": 1773915622,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199771,
@@ -5419,6 +5419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154438,
+      "num": 150803,
+      "word": "AI盛行 周杰伦坚持手搓",
+      "onboard_time": 1773913522,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154207,
       "num": 147668,
       "word": "曝刘晓庆别墅因违法建设被人投诉",
@@ -5499,6 +5507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152565,
+      "num": 125215,
+      "word": "买30克金手镯比1月便宜6000元",
+      "onboard_time": 1773916581,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152405,
       "num": 152405,
       "word": "窦骁在何超莲vlog出镜",
@@ -5545,14 +5561,6 @@
       "onboard_time": 1773803480,
       "rank": 29,
       "category": "军事"
-    },
-    {
-      "raw_hot": 150803,
-      "num": 150803,
-      "word": "AI盛行 周杰伦坚持手搓",
-      "onboard_time": 1773913522,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 150413,
@@ -6507,6 +6515,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 126174,
+      "num": 126174,
+      "word": "年薪60万男子找下级借200万被辞",
+      "onboard_time": 1773915622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126123,
       "num": 126123,
       "word": "4人距缅边境500米跳车逃生",
@@ -6617,6 +6633,14 @@
       "onboard_time": 1773813081,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123732,
+      "num": 123732,
+      "word": "宇树王兴兴现身小米发布会",
+      "onboard_time": 1773917960,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 123504,
@@ -6963,6 +6987,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 116261,
+      "num": 116261,
+      "word": "网传张凌赫张雅钦主演刺棠",
+      "onboard_time": 1773917122,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116067,
       "num": 116067,
       "word": "年销20万根的冬虫夏草是胶水拼的",
@@ -7001,14 +7033,6 @@
       "onboard_time": 1773830961,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115689,
-      "num": 115689,
-      "word": "年薪60万男子找下级借200万被辞",
-      "onboard_time": 1773915622,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115564,
@@ -7243,14 +7267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110514,
-      "num": 79285,
-      "word": "买30克金手镯比1月便宜6000元",
-      "onboard_time": 1773916581,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110484,
       "num": 110484,
       "word": "鹿哈毛肚事件获商家退款消费者发声",
@@ -7329,6 +7345,14 @@
       "onboard_time": 1773646826,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109138,
+      "num": 124738,
+      "word": "被路虎别停8次男子个人信息疑泄露",
+      "onboard_time": 1773916462,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109012,
@@ -8979,14 +9003,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 90015,
-      "num": 90015,
-      "word": "被路虎别停8次男子个人信息疑泄露",
-      "onboard_time": 1773916462,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89930,
       "num": 89930,
       "word": "工位按职级排",
@@ -9145,6 +9161,14 @@
       "onboard_time": 1773890540,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88405,
+      "num": 88405,
+      "word": "小米发布会",
+      "onboard_time": 1773918501,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 88350,
@@ -9425,6 +9449,14 @@
       "onboard_time": 1773673344,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86369,
+      "num": 86369,
+      "word": "1岁半宝宝移植术后O型血变为A型",
+      "onboard_time": 1773915861,
+      "rank": 34,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 86363,
@@ -10251,6 +10283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78311,
+      "num": 78311,
+      "word": "网红博主一年读704本书被打假",
+      "onboard_time": 1773916880,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78289,
       "num": 80084,
       "word": "韩国股市涨5%启动熔断机制",
@@ -10899,14 +10939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 72561,
-      "num": 64742,
-      "word": "网传张凌赫张雅钦主演刺棠",
-      "onboard_time": 1773917122,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72516,
       "num": 72516,
       "word": "詹姆斯半场8中8轰18分",
@@ -11017,14 +11049,6 @@
       "onboard_time": 1773728181,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 71339,
-      "num": 71339,
-      "word": "1岁半宝宝移植术后O型血变为A型",
-      "onboard_time": 1773915861,
-      "rank": 34,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 71303,
@@ -11699,6 +11723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61873,
+      "num": 61873,
+      "word": "杨天真坐轮椅出席年会",
+      "onboard_time": 1773918321,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61868,
       "num": 61868,
       "word": "肥娟夫妇开健身房",
@@ -11737,6 +11769,14 @@
       "onboard_time": 1773913580,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61092,
+      "num": 61092,
+      "word": "白日提灯或将明日定档",
+      "onboard_time": 1773916880,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 60789,
@@ -11897,6 +11937,14 @@
       "onboard_time": 1773847043,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58753,
+      "num": 58753,
+      "word": "WE战胜情久",
+      "onboard_time": 1773917540,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 58656,
@@ -12115,14 +12163,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 53470,
-      "num": 53470,
-      "word": "网红博主一年读704本书被打假",
-      "onboard_time": 1773916880,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53387,
       "num": 754051,
       "word": "守护黄河用上了智能石头",
@@ -12144,14 +12184,6 @@
       "word": "BLG战胜G2",
       "onboard_time": 1773875659,
       "rank": 49,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 52881,
-      "num": 52881,
-      "word": "WE战胜情久",
-      "onboard_time": 1773917540,
-      "rank": 46,
       "category": "电竞"
     },
     {
@@ -12305,6 +12337,14 @@
       "onboard_time": 1773833121,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 48740,
+      "num": 48740,
+      "word": "短剧公司称AI和真人没法在同图层",
+      "onboard_time": 1773918501,
+      "rank": 49,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 48683,
