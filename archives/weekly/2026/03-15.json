@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773933191150,
+  "endTime": 1773936159271,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -1051,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 559177,
+      "num": 1081152,
+      "word": "7年前买的泡泡玛特盲盒才发货",
+      "onboard_time": 1773930982,
+      "rank": 21,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 558296,
       "num": 257013,
       "word": "单位应考虑终止录用P分诈胡考生",
@@ -2025,14 +2033,6 @@
       "onboard_time": 1773587724,
       "rank": 12,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 382424,
-      "num": 814698,
-      "word": "7年前买的泡泡玛特盲盒才发货",
-      "onboard_time": 1773930982,
-      "rank": 21,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 381838,
@@ -3435,6 +3435,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259762,
+      "num": 235255,
+      "word": "肖战宝诗龙",
+      "onboard_time": 1773932001,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 259299,
+      "num": 259299,
+      "word": "山姆回应三文鱼标注加热却被生食",
+      "onboard_time": 1773932242,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259079,
       "num": 175242,
       "word": "刘文祥这泼天的富贵你都没接住",
@@ -3833,14 +3849,6 @@
       "onboard_time": 1773831381,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235255,
-      "num": 235255,
-      "word": "肖战宝诗龙",
-      "onboard_time": 1773932001,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 234379,
@@ -5547,6 +5555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 160074,
+      "num": 114612,
+      "word": "月经弄脏卧铺遭索赔女子称很愧疚",
+      "onboard_time": 1773933382,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159662,
       "num": 159662,
       "word": "17岁的Angelababy",
@@ -6705,6 +6721,14 @@
       "onboard_time": 1773562463,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128584,
+      "num": 128584,
+      "word": "奔跑吧14",
+      "onboard_time": 1773934463,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 128565,
@@ -8105,6 +8129,14 @@
       "onboard_time": 1773875418,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104784,
+      "num": 104784,
+      "word": "南方医院承认医生未复核私自改报告",
+      "onboard_time": 1773934581,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104692,
@@ -10467,6 +10499,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 80959,
+      "num": 80959,
+      "word": "张凌赫谈逐玉",
+      "onboard_time": 1773934940,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80948,
       "num": 127939,
       "word": "国产存储到了必须突围的时候",
@@ -10729,14 +10769,6 @@
       "onboard_time": 1773656002,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78716,
-      "num": 78716,
-      "word": "山姆回应三文鱼标注加热却被生食",
-      "onboard_time": 1773932242,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78483,
@@ -11265,6 +11297,14 @@
       "onboard_time": 1773897742,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74114,
+      "num": 74114,
+      "word": "一觉醒来黄金挂坠亏了2000元",
+      "onboard_time": 1773935002,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 74111,
@@ -12251,6 +12291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62362,
+      "num": 62362,
+      "word": "刘宪华看见什么了",
+      "onboard_time": 1773933981,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62068,
       "num": 62068,
       "word": "刘宇宁 玫瑰再生我考虑一下",
@@ -12337,6 +12385,14 @@
       "onboard_time": 1773615557,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60587,
+      "num": 62360,
+      "word": "金饰克价大幅回落了",
+      "onboard_time": 1773934762,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 60560,
@@ -12627,6 +12683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55880,
+      "num": 62351,
+      "word": "GEN战胜LYON",
+      "onboard_time": 1773934940,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55813,
       "num": 105747,
       "word": "TOP直播",
@@ -12835,6 +12899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49923,
+      "num": 62327,
+      "word": "刘耀文杭州",
+      "onboard_time": 1773933442,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49865,
       "num": 105590,
       "word": "王安宇提名年度新人演员",
@@ -12921,6 +12993,14 @@
       "onboard_time": 1773810023,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47838,
+      "num": 62315,
+      "word": "翟潇闻这首歌迎来了他的女主",
+      "onboard_time": 1773934700,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 47586,
@@ -13867,6 +13947,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 25375,
+      "num": 62340,
+      "word": "香港荃湾一地起火已疏散近百人",
+      "onboard_time": 1773936080,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25157,
       "num": 445277,
       "word": "王建华主业让人笑副业让人哇",
@@ -14161,6 +14249,14 @@
       "onboard_time": 1773848123,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20074,
+      "num": 640740,
+      "word": "十五五的两个超常规",
+      "onboard_time": 1773926063,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19885,
@@ -14528,14 +14624,6 @@
       "word": "中国光钟刷新人类计时极限",
       "onboard_time": 1773733520,
       "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11284,
-      "num": 596503,
-      "word": "十五五的两个超常规",
-      "onboard_time": 1773926063,
-      "rank": 7,
       "category": "国内时政"
     },
     {
