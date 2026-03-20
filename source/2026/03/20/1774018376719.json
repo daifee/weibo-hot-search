@@ -1,0 +1,410 @@
+{
+  "runTime": 1774018376719,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 404189,
+        "num": 1064670,
+        "word": "好想来上架山姆零食",
+        "onboard_time": 1774010182,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263813,
+        "num": 790025,
+        "word": "日本网友评价高市早苗访美视频",
+        "onboard_time": 1774014622,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26775,
+        "num": 592498,
+        "word": "沙某编造传播涉科大讯飞网络谣言被拘",
+        "onboard_time": 1774009161,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1179232,
+        "num": 510216,
+        "word": "章子怡脸咋了",
+        "onboard_time": 1774010182,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358191,
+        "num": 358191,
+        "word": "母亲带女儿买鞋在店门口犹豫半小时",
+        "onboard_time": 1774014563,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246642,
+        "num": 246642,
+        "word": "刘昊然易烊千玺CMG双黄蛋",
+        "onboard_time": 1774014863,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189553,
+        "num": 189553,
+        "word": "武汉一别墅暗藏非法代孕实验室",
+        "onboard_time": 1774012163,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 143855,
+        "num": 189124,
+        "word": "伊朗发动第67波攻势",
+        "onboard_time": 1774011082,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103496,
+        "num": 188437,
+        "word": "Uzi杯海选赛冠军",
+        "onboard_time": 1774017083,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98808,
+        "num": 187769,
+        "word": "谢征拒绝赐婚",
+        "onboard_time": 1774008561,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 587624,
+        "num": 186353,
+        "word": "papi酱又给内娱指了条明路",
+        "onboard_time": 1774009823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279634,
+        "num": 185661,
+        "word": "外网也意识到韩国偷文化了",
+        "onboard_time": 1774004961,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 454333,
+        "num": 184741,
+        "word": "范丞丞四天减脂餐对比",
+        "onboard_time": 1774013242,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93990,
+        "num": 183751,
+        "word": "cmg中国电影荣誉名单",
+        "onboard_time": 1774016543,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260619,
+        "num": 183285,
+        "word": "七旬老人呼吸困难自行拿剪刀捅胸",
+        "onboard_time": 1774011742,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25454,
+        "num": 182437,
+        "word": "东风日产大大大牌这回玩大了",
+        "onboard_time": 1774013903,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 439836,
+        "num": 181520,
+        "word": "迪丽热巴迪奥活动直拍",
+        "onboard_time": 1774006161,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210358,
+        "num": 181034,
+        "word": "张凌赫工作室 拍出了张凌赫的死角",
+        "onboard_time": 1773994521,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98421,
+        "num": 179473,
+        "word": "丁彦雨航退役",
+        "onboard_time": 1774017682,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44882,
+        "num": 179135,
+        "word": "香港15所小学零新生",
+        "onboard_time": 1774017803,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464657,
+        "num": 178465,
+        "word": "孟佳开撕品牌方",
+        "onboard_time": 1773999800,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313672,
+        "num": 177092,
+        "word": "迪丽热巴 女王回归",
+        "onboard_time": 1774007303,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176839,
+        "num": 176839,
+        "word": "大人饭量和小孩饭量真的不一样",
+        "onboard_time": 1774013782,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210035,
+        "num": 170339,
+        "word": "薛之谦广州演唱会",
+        "onboard_time": 1774003040,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158915,
+        "num": 158915,
+        "word": "周冬雨穿自己淘的裙子走红毯",
+        "onboard_time": 1774009823,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152864,
+        "num": 152864,
+        "word": "对一块钱的概念越来越模糊",
+        "onboard_time": 1774002561,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151302,
+        "num": 151302,
+        "word": "DIOR活动",
+        "onboard_time": 1774010961,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150604,
+        "num": 150604,
+        "word": "THE9出道组现状",
+        "onboard_time": 1774010303,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148642,
+        "num": 148642,
+        "word": "前员工爆料海底捞高层点炮制度",
+        "onboard_time": 1774003160,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77362,
+        "num": 144525,
+        "word": "江苏男篮绝杀广东男篮",
+        "onboard_time": 1774017682,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144074,
+        "num": 144074,
+        "word": "铁路通报女子月经弄脏卧铺事件",
+        "onboard_time": 1773989901,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 142373,
+        "num": 142373,
+        "word": "杨幂清唱讲真的",
+        "onboard_time": 1774014502,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141417,
+        "num": 141417,
+        "word": "逐玉",
+        "onboard_time": 1774001180,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121569,
+        "num": 136916,
+        "word": "爷爷酒后多次用力掌掴幼儿",
+        "onboard_time": 1774012522,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135346,
+        "num": 135346,
+        "word": "肖战深V黑西装live",
+        "onboard_time": 1774016242,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134773,
+        "num": 134773,
+        "word": "王橹杰爱柠檬",
+        "onboard_time": 1774013362,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109829,
+        "num": 109829,
+        "word": "31岁女子确诊重度牙周病不敢随便笑",
+        "onboard_time": 1774017742,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108967,
+        "num": 108967,
+        "word": "伊朗问美国为何不敢让航母靠近",
+        "onboard_time": 1774015523,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67548,
+        "num": 108326,
+        "word": "高血压男子抿了一口啤酒后死亡",
+        "onboard_time": 1774016062,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69391,
+        "num": 108136,
+        "word": "三傻重聚给王鹤棣哄成胚胎了",
+        "onboard_time": 1774013601,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65676,
+        "num": 108013,
+        "word": "江苏男篮vs广东男篮",
+        "onboard_time": 1774014922,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107964,
+        "num": 107964,
+        "word": "双休但不是休周末的工作",
+        "onboard_time": 1773999261,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99037,
+        "num": 99037,
+        "word": "金泰亨田柾国合体综艺",
+        "onboard_time": 1774016182,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95666,
+        "num": 95666,
+        "word": "班上一个唐氏综合症的孩子写的",
+        "onboard_time": 1774004842,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95107,
+        "num": 95107,
+        "word": "小米汽车回应为何不公布大定数字",
+        "onboard_time": 1774017803,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 86844,
+        "num": 86844,
+        "word": "章子怡穿的比红毯还红",
+        "onboard_time": 1774005441,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86004,
+        "num": 86004,
+        "word": "谢征樊长玉窗前吻",
+        "onboard_time": 1774015581,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77859,
+        "num": 77859,
+        "word": "921万新房遭粪水倒灌物业拒赔",
+        "onboard_time": 1774014563,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67120,
+        "num": 75984,
+        "word": "中超联赛",
+        "onboard_time": 1774017263,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75718,
+        "num": 75718,
+        "word": "最强大脑",
+        "onboard_time": 1774015942,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#为民出政绩实干出政绩#"
+    }
+  }
+}

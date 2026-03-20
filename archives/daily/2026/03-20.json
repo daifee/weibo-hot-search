@@ -1,6 +1,6 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1774014036986,
+  "endTime": 1774018376719,
   "band_list": [
     {
       "raw_hot": 1698671,
@@ -163,6 +163,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 587624,
+      "num": 486585,
+      "word": "papi酱又给内娱指了条明路",
+      "onboard_time": 1774009823,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 586197,
       "num": 988994,
       "word": "手胖的人解释不清了",
@@ -243,14 +251,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 486585,
-      "num": 486585,
-      "word": "papi酱又给内娱指了条明路",
-      "onboard_time": 1774009823,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 483349,
       "num": 221263,
       "word": "迪丽热巴红衣女鬼塑",
@@ -273,6 +273,14 @@
       "onboard_time": 1773998241,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454333,
+      "num": 184741,
+      "word": "范丞丞四天减脂餐对比",
+      "onboard_time": 1774013242,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 443855,
@@ -385,6 +393,14 @@
       "onboard_time": 1773998121,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 358191,
+      "num": 358191,
+      "word": "母亲带女儿买鞋在店门口犹豫半小时",
+      "onboard_time": 1774014563,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357548,
@@ -555,12 +571,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263813,
+      "num": 790025,
+      "word": "日本网友评价高市早苗访美视频",
+      "onboard_time": 1774014622,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 262110,
       "num": 944654,
       "word": "薛之谦广州演唱会",
       "onboard_time": 1774003040,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 260619,
+      "num": 227168,
+      "word": "七旬老人呼吸困难自行拿剪刀捅胸",
+      "onboard_time": 1774011742,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259762,
@@ -609,6 +641,14 @@
       "onboard_time": 1774004842,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246642,
+      "num": 246642,
+      "word": "刘昊然易烊千玺CMG双黄蛋",
+      "onboard_time": 1774014863,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 245966,
@@ -681,14 +721,6 @@
       "onboard_time": 1773996200,
       "rank": 8,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 227168,
-      "num": 227168,
-      "word": "七旬老人呼吸困难自行拿剪刀捅胸",
-      "onboard_time": 1774011742,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225200,
@@ -835,6 +867,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 189553,
+      "num": 671758,
+      "word": "武汉一别墅暗藏非法代孕实验室",
+      "onboard_time": 1774012163,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 187213,
       "num": 105867,
       "word": "被路虎别停8次男子个人信息疑泄露",
@@ -905,6 +945,14 @@
       "onboard_time": 1773927083,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176839,
+      "num": 176839,
+      "word": "大人饭量和小孩饭量真的不一样",
+      "onboard_time": 1774013782,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 176701,
@@ -1059,6 +1107,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143855,
+      "num": 189124,
+      "word": "伊朗发动第67波攻势",
+      "onboard_time": 1774011082,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 142373,
+      "num": 142373,
+      "word": "杨幂清唱讲真的",
+      "onboard_time": 1774014502,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141844,
       "num": 141844,
       "word": "四川绵竹3.4级地震",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1773981982,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135346,
+      "num": 135346,
+      "word": "肖战深V黑西装live",
+      "onboard_time": 1774016242,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 135298,
@@ -1251,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121569,
+      "num": 136916,
+      "word": "爷爷酒后多次用力掌掴幼儿",
+      "onboard_time": 1774012522,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121550,
       "num": 124403,
       "word": "鼻炎其实就是鼻子成精了",
@@ -1355,6 +1435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109829,
+      "num": 109829,
+      "word": "31岁女子确诊重度牙周病不敢随便笑",
+      "onboard_time": 1774017742,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108967,
+      "num": 108967,
+      "word": "伊朗问美国为何不敢让航母靠近",
+      "onboard_time": 1774015523,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108717,
       "num": 100609,
       "word": "伊朗称渴望实战中给美军舰沉重一击",
@@ -1377,22 +1473,6 @@
       "onboard_time": 1773993323,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107365,
-      "num": 107365,
-      "word": "范丞丞四天减脂餐对比",
-      "onboard_time": 1774013242,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 107158,
-      "num": 671758,
-      "word": "武汉一别墅暗藏非法代孕实验室",
-      "onboard_time": 1774012163,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 106904,
@@ -1425,6 +1505,14 @@
       "onboard_time": 1773926902,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103496,
+      "num": 188437,
+      "word": "Uzi杯海选赛冠军",
+      "onboard_time": 1774017083,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 102934,
@@ -1499,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99037,
+      "num": 99037,
+      "word": "金泰亨田柾国合体综艺",
+      "onboard_time": 1774016182,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98889,
       "num": 84166,
       "word": "田曦薇经纪人给张凌赫拍的吗",
@@ -1512,6 +1608,14 @@
       "word": "汉密尔顿离开中国的戒断反应",
       "onboard_time": 1773982342,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98421,
+      "num": 179473,
+      "word": "丁彦雨航退役",
+      "onboard_time": 1774017682,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1603,12 +1707,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95107,
+      "num": 95107,
+      "word": "小米汽车回应为何不公布大定数字",
+      "onboard_time": 1774017803,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 94699,
       "num": 94699,
       "word": "方圆自曝舍不得花钱",
       "onboard_time": 1773979101,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93990,
+      "num": 183751,
+      "word": "cmg中国电影荣誉名单",
+      "onboard_time": 1774016543,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 91890,
@@ -1715,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86004,
+      "num": 86004,
+      "word": "谢征樊长玉窗前吻",
+      "onboard_time": 1774015581,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85992,
       "num": 85992,
       "word": "雷军五年前押宝的机器人公司火了",
@@ -1771,14 +1899,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 82260,
-      "num": 92046,
-      "word": "爷爷酒后多次用力掌掴幼儿",
-      "onboard_time": 1774012522,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82101,
       "num": 143682,
       "word": "暗访调查考公协议班",
@@ -1801,14 +1921,6 @@
       "onboard_time": 1773993141,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81327,
-      "num": 81327,
-      "word": "伊朗发动第67波攻势",
-      "onboard_time": 1774011082,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 80959,
@@ -1883,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77859,
+      "num": 77859,
+      "word": "921万新房遭粪水倒灌物业拒赔",
+      "onboard_time": 1774014563,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77815,
       "num": 77815,
       "word": "非油炸不是没有油",
@@ -1915,6 +2035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77362,
+      "num": 144525,
+      "word": "江苏男篮绝杀广东男篮",
+      "onboard_time": 1774017682,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76525,
       "num": 76525,
       "word": "二月二",
@@ -1945,6 +2073,14 @@
       "onboard_time": 1773982460,
       "rank": 42,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 75718,
+      "num": 75718,
+      "word": "最强大脑",
+      "onboard_time": 1774015942,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 75540,
@@ -2009,14 +2145,6 @@
       "onboard_time": 1774003702,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74591,
-      "num": 74591,
-      "word": "大人饭量和小孩饭量真的不一样",
-      "onboard_time": 1774013782,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 74498,
@@ -2171,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69391,
+      "num": 108136,
+      "word": "三傻重聚给王鹤棣哄成胚胎了",
+      "onboard_time": 1774013601,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69091,
       "num": 69091,
       "word": "国企房东开始降价了",
@@ -2243,10 +2379,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67548,
+      "num": 108326,
+      "word": "高血压男子抿了一口啤酒后死亡",
+      "onboard_time": 1774016062,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67211,
       "num": 67211,
       "word": "苏超吉祥物苏嘟嘟出道",
       "onboard_time": 1773993622,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67120,
+      "num": 75984,
+      "word": "中超联赛",
+      "onboard_time": 1774017263,
       "rank": 48,
       "category": "体育"
     },
@@ -2313,6 +2465,14 @@
       "onboard_time": 1773992781,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65676,
+      "num": 108013,
+      "word": "江苏男篮vs广东男篮",
+      "onboard_time": 1774014922,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 64674,
@@ -2659,6 +2819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44882,
+      "num": 179135,
+      "word": "香港15所小学零新生",
+      "onboard_time": 1774017803,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44220,
       "num": 1037279,
       "word": "中国科学家培育出长寿水稻",
@@ -2783,6 +2951,14 @@
       "num": 760107,
       "word": "非遗传承和文旅消费CP感拉满",
       "onboard_time": 1774012582,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26775,
+      "num": 592498,
+      "word": "沙某编造传播涉科大讯飞网络谣言被拘",
+      "onboard_time": 1774009161,
       "rank": 2,
       "category": "民生新闻"
     },
