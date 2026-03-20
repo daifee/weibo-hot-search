@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774036584456,
+  "endTime": 1774039333968,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -52881,6 +52881,14 @@
       "onboard_time": 1772905398,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 19486,
+      "num": 19486,
+      "word": "刘宇宁出席上海迪士尼生日庆典",
+      "onboard_time": 1774038133,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 19444,
