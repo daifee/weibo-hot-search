@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774043672302,
+  "endTime": 1774046283223,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -3363,6 +3363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 297143,
+      "num": 85646,
+      "word": "官方通报月经弄脏卧铺事件详情",
+      "onboard_time": 1774018763,
+      "rank": 40,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 297071,
       "num": 653925,
       "word": "樊振东回应转会",
@@ -5081,14 +5089,6 @@
       "onboard_time": 1773579509,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 211028,
-      "num": 85646,
-      "word": "官方通报月经弄脏卧铺事件详情",
-      "onboard_time": 1774018763,
-      "rank": 40,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 211006,
@@ -8868,7 +8868,7 @@
     },
     {
       "raw_hot": 111778,
-      "num": 160619,
+      "num": 331663,
       "word": "为什么生物地理会被踢出中考计分",
       "onboard_time": 1774020442,
       "rank": 33,
@@ -11529,6 +11529,14 @@
       "onboard_time": 1773645322,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86871,
+      "num": 57823,
+      "word": "伊朗攻击美国多个军事基地",
+      "onboard_time": 1774029196,
+      "rank": 41,
+      "category": "军事"
     },
     {
       "raw_hot": 86851,
@@ -15011,14 +15019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58100,
-      "num": 43036,
-      "word": "伊朗攻击美国多个军事基地",
-      "onboard_time": 1774029196,
-      "rank": 41,
-      "category": "军事"
-    },
-    {
       "raw_hot": 58088,
       "num": 71307,
       "word": "伊朗总统发声明哀悼拉里贾尼",
@@ -16259,7 +16259,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34844,
+      "raw_hot": 34859,
       "num": 43043,
       "word": "谢征给樊长玉脖子亲出吻痕",
       "onboard_time": 1774028057,
@@ -16635,12 +16635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28564,
+      "num": 28564,
+      "word": "月经弄脏卧铺涉事铁路段上架卫生巾",
+      "onboard_time": 1774034773,
+      "rank": 21,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 28371,
       "num": 96469,
       "word": "谁在给F1加满能量",
       "onboard_time": 1773551300,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28298,
+      "num": 26929,
+      "word": "黄金白银瀑布式下跌",
+      "onboard_time": 1774033753,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 28227,
@@ -16827,14 +16843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23925,
-      "num": 26929,
-      "word": "黄金白银瀑布式下跌",
-      "onboard_time": 1774033753,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 23924,
       "num": 38910,
       "word": "公司称李羲承不会回归ENHYPEN",
@@ -16883,14 +16891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23112,
-      "num": 22576,
-      "word": "月经弄脏卧铺涉事铁路段上架卫生巾",
-      "onboard_time": 1774034773,
-      "rank": 21,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 23093,
       "num": 43030,
       "word": "挽救计划",
@@ -16929,6 +16929,14 @@
       "onboard_time": 1773629181,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22217,
+      "num": 22217,
+      "word": "刘宇宁出席上海迪士尼生日庆典",
+      "onboard_time": 1774038133,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 22126,
@@ -17052,7 +17060,7 @@
     },
     {
       "raw_hot": 20555,
-      "num": 20555,
+      "num": 21419,
       "word": "上海迪士尼10岁生日庆典主题曲",
       "onboard_time": 1774035074,
       "rank": 25,
@@ -17121,14 +17129,6 @@
       "onboard_time": 1773603794,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19486,
-      "num": 19486,
-      "word": "刘宇宁出席上海迪士尼生日庆典",
-      "onboard_time": 1774038133,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 19440,
@@ -17403,6 +17403,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 15413,
+      "num": 21414,
+      "word": "濮院高定时尚周",
+      "onboard_time": 1774006281,
+      "rank": 46,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 15009,
+      "num": 21412,
+      "word": "易烊千玺CMG年度剧情电影男演员",
+      "onboard_time": 1774023200,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 14946,
       "num": 68059,
       "word": "孑然尔李门槛齐本宫你们坐一桌吧",
@@ -17441,14 +17457,6 @@
       "onboard_time": 1773645141,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 14444,
-      "num": 18374,
-      "word": "易烊千玺CMG年度剧情电影男演员",
-      "onboard_time": 1774023200,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 14250,
@@ -17521,14 +17529,6 @@
       "onboard_time": 1773948733,
       "rank": 34,
       "category": "汽车,艺人"
-    },
-    {
-      "raw_hot": 12337,
-      "num": 16058,
-      "word": "濮院高定时尚周",
-      "onboard_time": 1774006281,
-      "rank": 46,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 11649,

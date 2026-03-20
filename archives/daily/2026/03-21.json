@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774043672302,
+  "endTime": 1774046283223,
   "band_list": [
     {
       "raw_hot": 729859,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297143,
+      "num": 43369,
+      "word": "官方通报月经弄脏卧铺事件详情",
+      "onboard_time": 1774018763,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 288653,
       "num": 716913,
       "word": "好想来上架山姆零食",
@@ -65,14 +73,6 @@
       "onboard_time": 1774004961,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 211028,
-      "num": 43033,
-      "word": "官方通报月经弄脏卧铺事件详情",
-      "onboard_time": 1774018763,
-      "rank": 45,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 208940,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 111778,
-      "num": 160619,
+      "num": 331663,
       "word": "为什么生物地理会被踢出中考计分",
       "onboard_time": 1774020442,
       "rank": 35,
@@ -241,6 +241,14 @@
       "onboard_time": 1774020081,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101822,
+      "num": 182152,
+      "word": "伊朗问美国为何不敢让航母靠近",
+      "onboard_time": 1774015523,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98326,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86871,
+      "num": 57823,
+      "word": "伊朗攻击美国多个军事基地",
+      "onboard_time": 1774029196,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 86698,
       "num": 86698,
       "word": "31岁女子确诊重度牙周病不敢随便笑",
@@ -321,14 +337,6 @@
       "onboard_time": 1774016242,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82084,
-      "num": 182152,
-      "word": "伊朗问美国为何不敢让航母靠近",
-      "onboard_time": 1774015523,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 78920,
@@ -443,14 +451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 58100,
-      "num": 43036,
-      "word": "伊朗攻击美国多个军事基地",
-      "onboard_time": 1774029196,
-      "rank": 41,
-      "category": "军事"
-    },
-    {
       "raw_hot": 51356,
       "num": 52699,
       "word": "你好星期六",
@@ -483,7 +483,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34844,
+      "raw_hot": 34859,
       "num": 43043,
       "word": "谢征给樊长玉脖子亲出吻痕",
       "onboard_time": 1774028057,
@@ -497,6 +497,22 @@
       "onboard_time": 1774027337,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28564,
+      "num": 28564,
+      "word": "月经弄脏卧铺涉事铁路段上架卫生巾",
+      "onboard_time": 1774034773,
+      "rank": 21,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 28298,
+      "num": 26929,
+      "word": "黄金白银瀑布式下跌",
+      "onboard_time": 1774033753,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 27603,
@@ -515,22 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23925,
-      "num": 26929,
-      "word": "黄金白银瀑布式下跌",
-      "onboard_time": 1774033753,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 23112,
-      "num": 22576,
-      "word": "月经弄脏卧铺涉事铁路段上架卫生巾",
-      "onboard_time": 1774034773,
-      "rank": 21,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 23093,
       "num": 43030,
       "word": "挽救计划",
@@ -539,20 +539,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 20555,
-      "num": 20555,
-      "word": "上海迪士尼10岁生日庆典主题曲",
-      "onboard_time": 1774035074,
-      "rank": 25,
-      "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 19486,
-      "num": 19486,
+      "raw_hot": 22217,
+      "num": 22217,
       "word": "刘宇宁出席上海迪士尼生日庆典",
       "onboard_time": 1774038133,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20555,
+      "num": 21419,
+      "word": "上海迪士尼10岁生日庆典主题曲",
+      "onboard_time": 1774035074,
+      "rank": 25,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 15530,
@@ -563,20 +563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14444,
-      "num": 18374,
-      "word": "易烊千玺CMG年度剧情电影男演员",
-      "onboard_time": 1774023200,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 12337,
-      "num": 16058,
+      "raw_hot": 15413,
+      "num": 21414,
       "word": "濮院高定时尚周",
       "onboard_time": 1774006281,
       "rank": 46,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 15009,
+      "num": 21412,
+      "word": "易烊千玺CMG年度剧情电影男演员",
+      "onboard_time": 1774023200,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 11251,
