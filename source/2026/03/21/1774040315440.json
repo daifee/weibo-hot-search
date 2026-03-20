@@ -1,0 +1,410 @@
+{
+  "runTime": 1774040315440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 69673,
+        "num": 69673,
+        "word": "直播间禁售13类食品新规今起实施",
+        "onboard_time": 1774020502,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28775,
+        "num": 50522,
+        "word": "72岁蔡正元入狱前最后直播",
+        "onboard_time": 1774019902,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8316,
+        "num": 39424,
+        "word": "沙某编造传播涉科大讯飞网络谣言被拘",
+        "onboard_time": 1774009161,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81536,
+        "num": 36090,
+        "word": "章子怡脸咋了",
+        "onboard_time": 1774010182,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26477,
+        "num": 26477,
+        "word": "小狗不会握前手只会握后手",
+        "onboard_time": 1774024399,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42482,
+        "num": 24467,
+        "word": "伊朗问美国为何不敢让航母靠近",
+        "onboard_time": 1774015523,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38243,
+        "num": 23425,
+        "word": "伊朗攻击美国多个军事基地",
+        "onboard_time": 1774029196,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 21064,
+        "num": 21064,
+        "word": "为什么生物地理会被踢出中考计分",
+        "onboard_time": 1774020442,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36755,
+        "num": 21061,
+        "word": "章子怡高叶影后双黄蛋",
+        "onboard_time": 1774020442,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18267,
+        "num": 21043,
+        "word": "好想来上架山姆零食",
+        "onboard_time": 1774010182,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156119,
+        "num": 21038,
+        "word": "官方通报月经弄脏卧铺事件详情",
+        "onboard_time": 1774018763,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 43400,
+        "num": 21020,
+        "word": "papi酱又给内娱指了条明路",
+        "onboard_time": 1774009823,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37673,
+        "num": 21010,
+        "word": "外网也意识到韩国偷文化了",
+        "onboard_time": 1774004961,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28892,
+        "num": 20994,
+        "word": "逐玉",
+        "onboard_time": 1774001180,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27335,
+        "num": 20990,
+        "word": "深圳一公司公告称副总在办公室偷吃",
+        "onboard_time": 1774022061,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17985,
+        "num": 20967,
+        "word": "LYON对战JDG",
+        "onboard_time": 1774022421,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20966,
+        "num": 20966,
+        "word": "七旬老人呼吸困难自行拿剪刀捅胸",
+        "onboard_time": 1774011742,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19714,
+        "num": 19714,
+        "word": "谢征给樊长玉脖子亲出吻痕",
+        "onboard_time": 1774028057,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19123,
+        "num": 19123,
+        "word": "迪丽热巴迪奥活动直拍",
+        "onboard_time": 1774006161,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18850,
+        "num": 18850,
+        "word": "伊朗发动第67波攻势",
+        "onboard_time": 1774011082,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44449,
+        "num": 18821,
+        "word": "金饰价格再次大幅下跌",
+        "onboard_time": 1774025480,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18730,
+        "num": 18730,
+        "word": "爷爷酒后多次用力掌掴幼儿",
+        "onboard_time": 1774012522,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18357,
+        "num": 18357,
+        "word": "伊朗动员穷人组织情报部门负责人身亡",
+        "onboard_time": 1774019242,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18147,
+        "num": 18147,
+        "word": "周冬雨穿自己淘的裙子走红毯",
+        "onboard_time": 1774009823,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17931,
+        "num": 17931,
+        "word": "月经弄脏卧铺涉事铁路段上架卫生巾",
+        "onboard_time": 1774034773,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 17598,
+        "num": 17598,
+        "word": "嫁金钗预约破50w",
+        "onboard_time": 1774023920,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17287,
+        "num": 17287,
+        "word": "刘宇宁出席上海迪士尼生日庆典",
+        "onboard_time": 1774038133,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17104,
+        "num": 17104,
+        "word": "被宝妈劝阻吸烟情绪失控游客已道歉",
+        "onboard_time": 1774027337,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15574,
+        "num": 17103,
+        "word": "孟佳开撕品牌方",
+        "onboard_time": 1773999800,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15026,
+        "num": 17103,
+        "word": "母亲带女儿买鞋在店门口犹豫半小时",
+        "onboard_time": 1774014563,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29155,
+        "num": 17102,
+        "word": "菲方飞机非法闯入中国空域",
+        "onboard_time": 1774027757,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 15752,
+        "num": 17100,
+        "word": "黄金白银瀑布式下跌",
+        "onboard_time": 1774033753,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14716,
+        "num": 17099,
+        "word": "上海迪士尼10岁生日庆典主题曲",
+        "onboard_time": 1774035074,
+        "rank": 32,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 14687,
+        "num": 17097,
+        "word": "薛之谦广州演唱会",
+        "onboard_time": 1774003040,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14160,
+        "num": 17096,
+        "word": "易烊千玺CMG年度剧情电影男演员",
+        "onboard_time": 1774023200,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13741,
+        "num": 17094,
+        "word": "前员工爆料海底捞高层点炮制度",
+        "onboard_time": 1774003160,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13229,
+        "num": 17094,
+        "word": "丁彦雨航退役",
+        "onboard_time": 1774017682,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13044,
+        "num": 17091,
+        "word": "王橹杰爱柠檬",
+        "onboard_time": 1774013362,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12870,
+        "num": 17091,
+        "word": "铁路通报女子月经弄脏卧铺事件",
+        "onboard_time": 1773989901,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 12809,
+        "num": 17090,
+        "word": "肖战深V黑西装live",
+        "onboard_time": 1774016242,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12688,
+        "num": 17089,
+        "word": "时代峰峻后期你睡得着吗",
+        "onboard_time": 1774022662,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12576,
+        "num": 17087,
+        "word": "THE9出道组现状",
+        "onboard_time": 1774010303,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12376,
+        "num": 17086,
+        "word": "挽救计划",
+        "onboard_time": 1774021162,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12200,
+        "num": 17084,
+        "word": "迪丽热巴 女王回归",
+        "onboard_time": 1774007303,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12171,
+        "num": 17082,
+        "word": "阿维塔12",
+        "onboard_time": 1774025480,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 12137,
+        "num": 17082,
+        "word": "英雄联盟全球先锋赛",
+        "onboard_time": 1774020862,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12106,
+        "num": 17081,
+        "word": "Steam春促",
+        "onboard_time": 1774020081,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11636,
+        "num": 17078,
+        "word": "苏新皓散落的华服舞台",
+        "onboard_time": 1774013663,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11535,
+        "num": 17077,
+        "word": "你好星期六",
+        "onboard_time": 1774024699,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11308,
+        "num": 17076,
+        "word": "孟佳品牌方 盖娅传说",
+        "onboard_time": 1774003521,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#为民出政绩实干出政绩#"
+    }
+  }
+}
