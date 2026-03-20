@@ -1,6 +1,6 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1774012501989,
+  "endTime": 1774014036986,
   "band_list": [
     {
       "raw_hot": 1698671,
@@ -11,19 +11,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1589548,
+      "num": 802629,
+      "word": "章子怡脸咋了",
+      "onboard_time": 1774010182,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1502468,
       "num": 796825,
       "word": "迪丽热巴迪奥活动直拍",
       "onboard_time": 1774006161,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1478783,
-      "num": 802629,
-      "word": "章子怡脸咋了",
-      "onboard_time": 1774010182,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -243,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 486585,
+      "num": 486585,
+      "word": "papi酱又给内娱指了条明路",
+      "onboard_time": 1774009823,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483349,
       "num": 221263,
       "word": "迪丽热巴红衣女鬼塑",
@@ -273,6 +281,14 @@
       "onboard_time": 1773983181,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436390,
+      "num": 1069822,
+      "word": "好想来上架山姆零食",
+      "onboard_time": 1774010182,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 429330,
@@ -331,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 384659,
-      "num": 364056,
-      "word": "papi酱又给内娱指了条明路",
-      "onboard_time": 1774009823,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 376505,
       "num": 133043,
       "word": "月经弄脏卧铺遭索赔女子称很愧疚",
@@ -353,6 +361,22 @@
       "onboard_time": 1774009823,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 370250,
+      "num": 209250,
+      "word": "王橹杰爱柠檬",
+      "onboard_time": 1774013362,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 366389,
+      "num": 297727,
+      "word": "DIOR活动",
+      "onboard_time": 1774010961,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 362427,
@@ -425,14 +449,6 @@
       "onboard_time": 1773971359,
       "rank": 13,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 294954,
-      "num": 1047192,
-      "word": "好想来上架山姆零食",
-      "onboard_time": 1774010182,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 291995,
@@ -667,6 +683,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 227168,
+      "num": 227168,
+      "word": "七旬老人呼吸困难自行拿剪刀捅胸",
+      "onboard_time": 1774011742,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225200,
       "num": 132302,
       "word": "逐玉31集经纪人最爱的一集",
@@ -769,14 +793,6 @@
       "onboard_time": 1773977119,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203616,
-      "num": 203616,
-      "word": "DIOR活动",
-      "onboard_time": 1774010961,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199945,
@@ -1019,6 +1035,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148464,
+      "num": 881100,
+      "word": "胡塞为支持伊朗或封锁曼德海峡",
+      "onboard_time": 1774008381,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147178,
       "num": 147178,
       "word": "痞幼回应为什么不跟梅尼耶在一起",
@@ -1179,6 +1203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127833,
+      "num": 220357,
+      "word": "东风日产大大大牌这回玩大了",
+      "onboard_time": 1774013903,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 125683,
       "num": 125683,
       "word": "文班亚马绝杀太阳",
@@ -1217,14 +1249,6 @@
       "onboard_time": 1773973159,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122297,
-      "num": 881100,
-      "word": "胡塞为支持伊朗或封锁曼德海峡",
-      "onboard_time": 1774008381,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121550,
@@ -1355,12 +1379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107530,
-      "num": 107530,
-      "word": "七旬老人呼吸困难自行拿剪刀捅胸",
-      "onboard_time": 1774011742,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 107365,
+      "num": 107365,
+      "word": "范丞丞四天减脂餐对比",
+      "onboard_time": 1774013242,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107158,
+      "num": 671758,
+      "word": "武汉一别墅暗藏非法代孕实验室",
+      "onboard_time": 1774012163,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 106904,
@@ -1521,6 +1553,14 @@
       "onboard_time": 1773981501,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97029,
+      "num": 97029,
+      "word": "苏新皓散落的华服舞台",
+      "onboard_time": 1774013663,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 96971,
@@ -1699,20 +1739,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83781,
+      "num": 82860,
+      "word": "穆祉丞评论",
+      "onboard_time": 1774010001,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83539,
       "num": 83539,
       "word": "北大社会学系回应北大毕业送外卖",
       "onboard_time": 1773975560,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82860,
-      "num": 82860,
-      "word": "穆祉丞评论",
-      "onboard_time": 1774010001,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 82438,
@@ -1729,6 +1769,14 @@
       "onboard_time": 1773976101,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 82260,
+      "num": 92046,
+      "word": "爷爷酒后多次用力掌掴幼儿",
+      "onboard_time": 1774012522,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82101,
@@ -1753,6 +1801,14 @@
       "onboard_time": 1773993141,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81327,
+      "num": 81327,
+      "word": "伊朗发动第67波攻势",
+      "onboard_time": 1774011082,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80959,
@@ -1809,14 +1865,6 @@
       "onboard_time": 1773994521,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79003,
-      "num": 79003,
-      "word": "伊朗发动第67波攻势",
-      "onboard_time": 1774011082,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 78910,
@@ -1963,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74591,
+      "num": 74591,
+      "word": "大人饭量和小孩饭量真的不一样",
+      "onboard_time": 1774013782,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74498,
       "num": 74498,
       "word": "金饰克价跌到1445元",
@@ -2097,6 +2153,14 @@
       "onboard_time": 1773993381,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69690,
+      "num": 69690,
+      "word": "金价创6年来最大单周跌幅",
+      "onboard_time": 1774012582,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 69393,
@@ -2275,6 +2339,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 63951,
+      "num": 216968,
+      "word": "歼20歼16歼10C三龙聚首龙抬头",
+      "onboard_time": 1774012822,
+      "rank": 18,
+      "category": "军事"
+    },
+    {
       "raw_hot": 63853,
       "num": 63853,
       "word": "面试官像杰尼龟",
@@ -2451,14 +2523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51817,
-      "num": 247374,
-      "word": "武汉一别墅暗藏非法代孕实验室",
-      "onboard_time": 1774012163,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 51718,
       "num": 120052,
       "word": "今年已有4名正部级官员落马",
@@ -2627,6 +2691,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 40921,
+      "num": 216200,
+      "word": "12306称将逐步供应卫生巾",
+      "onboard_time": 1774013362,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40193,
       "num": 68406,
       "word": "纪监介入女子举报干部母亲巨额财产",
@@ -2683,6 +2755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30348,
+      "num": 82190,
+      "word": "想知道周冬雨裙子在哪里淘的",
+      "onboard_time": 1774013844,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30274,
       "num": 113806,
       "word": "男子偷完朋友车又偷朋友家",
@@ -2696,6 +2776,14 @@
       "word": "路虎别停奔驰致追尾涉刑事案件",
       "onboard_time": 1773914781,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28765,
+      "num": 760107,
+      "word": "非遗传承和文旅消费CP感拉满",
+      "onboard_time": 1774012582,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774012501989,
+  "endTime": 1774014036986,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1589548,
+      "num": 802629,
+      "word": "章子怡脸咋了",
+      "onboard_time": 1774010182,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1584848,
       "num": 1584848,
       "word": "男二以下 AI演员",
@@ -144,14 +152,6 @@
       "word": "迪丽热巴迪奥活动直拍",
       "onboard_time": 1774006161,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1478783,
-      "num": 802629,
-      "word": "章子怡脸咋了",
-      "onboard_time": 1774010182,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1595,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 486585,
+      "num": 486585,
+      "word": "papi酱又给内娱指了条明路",
+      "onboard_time": 1774009823,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485301,
       "num": 303798,
       "word": "315塌房全总结",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1773852139,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 436390,
+      "num": 1069822,
+      "word": "好想来上架山姆零食",
+      "onboard_time": 1774010182,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 436110,
@@ -2307,14 +2323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384659,
-      "num": 364056,
-      "word": "papi酱又给内娱指了条明路",
-      "onboard_time": 1774009823,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 384059,
       "num": 1061449,
       "word": "正午阳光要扶持新人了",
@@ -2467,6 +2475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 370250,
+      "num": 209250,
+      "word": "王橹杰爱柠檬",
+      "onboard_time": 1774013362,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368395,
       "num": 865711,
       "word": "刘文祥麻辣烫店员徒手拌麻酱",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1773661885,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366389,
+      "num": 297727,
+      "word": "DIOR活动",
+      "onboard_time": 1774010961,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 365557,
@@ -3337,14 +3361,6 @@
       "onboard_time": 1773567321,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 294954,
-      "num": 1047192,
-      "word": "好想来上架山姆零食",
-      "onboard_time": 1774010182,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294293,
@@ -4611,6 +4627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227168,
+      "num": 227168,
+      "word": "七旬老人呼吸困难自行拿剪刀捅胸",
+      "onboard_time": 1774011742,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226601,
       "num": 273945,
       "word": "外交部回应伊朗拉里贾尼遇害",
@@ -5201,14 +5225,6 @@
       "onboard_time": 1773572302,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203616,
-      "num": 203616,
-      "word": "DIOR活动",
-      "onboard_time": 1774010961,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202917,
@@ -6811,6 +6827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148464,
+      "num": 881100,
+      "word": "胡塞为支持伊朗或封锁曼德海峡",
+      "onboard_time": 1774008381,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148334,
       "num": 148334,
       "word": "周迅金色长发",
@@ -7771,6 +7795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127833,
+      "num": 220357,
+      "word": "东风日产大大大牌这回玩大了",
+      "onboard_time": 1774013903,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 127744,
       "num": 127744,
       "word": "看得出她是公主陈妍希",
@@ -8065,14 +8097,6 @@
       "onboard_time": 1773847163,
       "rank": 29,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 122297,
-      "num": 881100,
-      "word": "胡塞为支持伊朗或封锁曼德海峡",
-      "onboard_time": 1774008381,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 122089,
@@ -9011,20 +9035,20 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 107530,
-      "num": 107530,
-      "word": "七旬老人呼吸困难自行拿剪刀捅胸",
-      "onboard_time": 1774011742,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107445,
       "num": 107445,
       "word": "金条在唐朝花不出去",
       "onboard_time": 1773717441,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 107365,
+      "num": 107365,
+      "word": "范丞丞四天减脂餐对比",
+      "onboard_time": 1774013242,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 107323,
@@ -9049,6 +9073,14 @@
       "onboard_time": 1773634883,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107158,
+      "num": 671758,
+      "word": "武汉一别墅暗藏非法代孕实验室",
+      "onboard_time": 1774012163,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 107097,
@@ -10025,6 +10057,14 @@
       "onboard_time": 1773981501,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97029,
+      "num": 97029,
+      "word": "苏新皓散落的华服舞台",
+      "onboard_time": 1774013663,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 96971,
@@ -11691,6 +11731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83781,
+      "num": 82860,
+      "word": "穆祉丞评论",
+      "onboard_time": 1774010001,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83758,
       "num": 83758,
       "word": "女生从上铺跳下导致黄体破裂",
@@ -11795,14 +11843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82860,
-      "num": 82860,
-      "word": "穆祉丞评论",
-      "onboard_time": 1774010001,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82737,
       "num": 82737,
       "word": "刘宇宁鞠躬退场直到升降台落下",
@@ -11864,6 +11904,14 @@
       "word": "男孩独自照顾婴儿妹妹崩溃大哭",
       "onboard_time": 1773716060,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82260,
+      "num": 92046,
+      "word": "爷爷酒后多次用力掌掴幼儿",
+      "onboard_time": 1774012522,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -11945,6 +11993,14 @@
       "onboard_time": 1773542961,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81327,
+      "num": 81327,
+      "word": "伊朗发动第67波攻势",
+      "onboard_time": 1774011082,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81287,
@@ -12289,14 +12345,6 @@
       "onboard_time": 1773994521,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79003,
-      "num": 79003,
-      "word": "伊朗发动第67波攻势",
-      "onboard_time": 1774011082,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 78995,
@@ -12904,6 +12952,14 @@
       "word": "最适合家长上的课出现了",
       "onboard_time": 1773798501,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74591,
+      "num": 74591,
+      "word": "大人饭量和小孩饭量真的不一样",
+      "onboard_time": 1774013782,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -13531,6 +13587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69690,
+      "num": 69690,
+      "word": "金价创6年来最大单周跌幅",
+      "onboard_time": 1774012582,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 69430,
       "num": 69430,
       "word": "谢征怕樊长玉打",
@@ -14113,6 +14177,14 @@
       "onboard_time": 1774006341,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 63951,
+      "num": 216968,
+      "word": "歼20歼16歼10C三龙聚首龙抬头",
+      "onboard_time": 1774012822,
+      "rank": 18,
+      "category": "军事"
     },
     {
       "raw_hot": 63853,
@@ -14899,14 +14971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 51817,
-      "num": 247374,
-      "word": "武汉一别墅暗藏非法代孕实验室",
-      "onboard_time": 1774012163,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 51718,
       "num": 120052,
       "word": "今年已有4名正部级官员落马",
@@ -15483,6 +15547,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 40921,
+      "num": 216200,
+      "word": "12306称将逐步供应卫生巾",
+      "onboard_time": 1774013362,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40587,
       "num": 88846,
       "word": "1983剧情",
@@ -16019,6 +16091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30348,
+      "num": 82190,
+      "word": "想知道周冬雨裙子在哪里淘的",
+      "onboard_time": 1774013844,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30337,
       "num": 356318,
       "word": "青岛爱心面馆让温暖具象化了",
@@ -16129,6 +16209,14 @@
       "onboard_time": 1773550881,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 28765,
+      "num": 760107,
+      "word": "非遗传承和文旅消费CP感拉满",
+      "onboard_time": 1774012582,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28745,
