@@ -1,0 +1,410 @@
+{
+  "runTime": 1773986367891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 429330,
+        "num": 1068692,
+        "word": "金正恩女儿试驾朝鲜新型主战坦克",
+        "onboard_time": 1773984561,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129787,
+        "num": 775938,
+        "word": "曝马斯克拟采购200亿中国光伏设备",
+        "onboard_time": 1773980781,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35333,
+        "num": 606201,
+        "word": "中国科学家培育出长寿水稻",
+        "onboard_time": 1773977361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415482,
+        "num": 478744,
+        "word": "李维嘉崩溃大哭到无法主持",
+        "onboard_time": 1773984561,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127355,
+        "num": 445789,
+        "word": "南昌舰以一敌二逼退外舰细节公布",
+        "onboard_time": 1773972681,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 415992,
+        "num": 415992,
+        "word": "手胖的人解释不清了",
+        "onboard_time": 1773979641,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247368,
+        "num": 247368,
+        "word": "BTS回归",
+        "onboard_time": 1773980121,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118334,
+        "num": 228762,
+        "word": "世界最长跨海大桥要来了",
+        "onboard_time": 1773982941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101218,
+        "num": 224661,
+        "word": "32G内存涨了约3000元",
+        "onboard_time": 1773969740,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 221503,
+        "num": 221503,
+        "word": "你是迟来的欢喜定档",
+        "onboard_time": 1773976398,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628390,
+        "num": 221456,
+        "word": "葛夕被留几手气哭了",
+        "onboard_time": 1773979821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245980,
+        "num": 221417,
+        "word": "女子举报退休领导母亲名下巨额财产",
+        "onboard_time": 1773976760,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 483349,
+        "num": 221263,
+        "word": "迪丽热巴红衣女鬼塑",
+        "onboard_time": 1773985223,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443855,
+        "num": 221204,
+        "word": "三亚回应戴军潜水时被拔呼吸器威胁",
+        "onboard_time": 1773983181,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96504,
+        "num": 221081,
+        "word": "喜欢吃蓝莓和炒饭的都沉默了",
+        "onboard_time": 1773977300,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290381,
+        "num": 220992,
+        "word": "张凌赫工作室连续删两条视频",
+        "onboard_time": 1773984022,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72906,
+        "num": 220978,
+        "word": "巴西女子嫁给布娃娃还连生4子",
+        "onboard_time": 1773964399,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88382,
+        "num": 220857,
+        "word": "高市见特朗普时逞强说英语",
+        "onboard_time": 1773984381,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33560,
+        "num": 220774,
+        "word": "吴磊舒服磊",
+        "onboard_time": 1773985160,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61455,
+        "num": 220664,
+        "word": "男子花350万元抄底7套天津老破小",
+        "onboard_time": 1773985160,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320372,
+        "num": 220575,
+        "word": "迪丽热巴新经纪人郝阿三上岗了",
+        "onboard_time": 1773977060,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249374,
+        "num": 220537,
+        "word": "金价",
+        "onboard_time": 1773969081,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220477,
+        "num": 220477,
+        "word": "42岁婆婆刚给儿子娶完媳妇就怀孕了",
+        "onboard_time": 1773984501,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205150,
+        "num": 205150,
+        "word": "单依纯 维密",
+        "onboard_time": 1773979041,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189352,
+        "num": 189352,
+        "word": "山城小栗旬陈大榕结婚",
+        "onboard_time": 1773981022,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126661,
+        "num": 168701,
+        "word": "女子每月痛经超20天求医生切子宫",
+        "onboard_time": 1773977119,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163601,
+        "num": 163601,
+        "word": "言承旭提词器",
+        "onboard_time": 1773977660,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159612,
+        "num": 159612,
+        "word": "王一博有115部作品",
+        "onboard_time": 1773984742,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120339,
+        "num": 120339,
+        "word": "1岁幼儿睡前发现蜱虫钻进头皮在吸血",
+        "onboard_time": 1773980844,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71654,
+        "num": 117268,
+        "word": "男子缆车吸烟被劝阻后情绪失控",
+        "onboard_time": 1773984381,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123489,
+        "num": 116599,
+        "word": "痞幼回应为什么不跟梅尼耶在一起",
+        "onboard_time": 1773981382,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115749,
+        "num": 115749,
+        "word": "白日提灯定档",
+        "onboard_time": 1773972740,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83213,
+        "num": 83213,
+        "word": "女子罕见双子宫双阴道10年3次剖宫产",
+        "onboard_time": 1773966140,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91269,
+        "num": 82921,
+        "word": "大张伟拒绝付航微信申请",
+        "onboard_time": 1773985942,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82531,
+        "num": 82531,
+        "word": "金泰亨镜头",
+        "onboard_time": 1773981982,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73149,
+        "num": 78400,
+        "word": "A股",
+        "onboard_time": 1773974301,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78360,
+        "num": 78360,
+        "word": "原著谢征和长玉提了分手",
+        "onboard_time": 1773963799,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78180,
+        "num": 78180,
+        "word": "孟羽童再上初入职场和董明珠说了",
+        "onboard_time": 1773969621,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69964,
+        "num": 69964,
+        "word": "16岁狗狗患老年痴呆被猫猫照顾",
+        "onboard_time": 1773985044,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69745,
+        "num": 69745,
+        "word": "A股第8只千元股",
+        "onboard_time": 1773976461,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76274,
+        "num": 69346,
+        "word": "BTS新歌Body to Body",
+        "onboard_time": 1773985281,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 68568,
+        "num": 68568,
+        "word": "这辈子就对得起这张嘴了",
+        "onboard_time": 1773986062,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69024,
+        "num": 68420,
+        "word": "泡过胖东来馒头的水清澈见底",
+        "onboard_time": 1773972559,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67672,
+        "num": 67672,
+        "word": "马龙霍启刚对谈",
+        "onboard_time": 1773984322,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66676,
+        "num": 66676,
+        "word": "25岁女子牙疼口腔感染拖进ICU",
+        "onboard_time": 1773982822,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62513,
+        "num": 62513,
+        "word": "张若昀谈AI替代演员",
+        "onboard_time": 1773983303,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60814,
+        "num": 60814,
+        "word": "沧元图孟川打疯了观众看爽了",
+        "onboard_time": 1773985223,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 59826,
+        "num": 59826,
+        "word": "原来流浪小狗也会觉得自己苦",
+        "onboard_time": 1773982883,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59238,
+        "num": 59238,
+        "word": "方圆自曝舍不得花钱",
+        "onboard_time": 1773979101,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57417,
+        "num": 57417,
+        "word": "檀健次 HooHoo的火热日常",
+        "onboard_time": 1773980303,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一座古厝一份责任#"
+    }
+  }
+}
