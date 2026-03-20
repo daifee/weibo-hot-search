@@ -1,0 +1,410 @@
+{
+  "runTime": 1773993820241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 434086,
+        "num": 1069453,
+        "word": "重庆市长胡衡华被查",
+        "onboard_time": 1773986842,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210368,
+        "num": 782282,
+        "word": "男子花350万元抄底7套天津老破小",
+        "onboard_time": 1773985160,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59280,
+        "num": 609132,
+        "word": "二月二最硬核龙抬头",
+        "onboard_time": 1773992781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199945,
+        "num": 199945,
+        "word": "瞿颖胡兵李静戴军孙浩团综",
+        "onboard_time": 1773990740,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199296,
+        "num": 199296,
+        "word": "山姆被曝冷鲜猪肉是数月前屠宰的",
+        "onboard_time": 1773990321,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186378,
+        "num": 186378,
+        "word": "退圈10年的顶流歌手满江杀回来了",
+        "onboard_time": 1773989181,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185251,
+        "num": 185251,
+        "word": "马龙车轮战霍启刚郭晶晶",
+        "onboard_time": 1773991401,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171175,
+        "num": 171175,
+        "word": "BTS回归",
+        "onboard_time": 1773980121,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105513,
+        "num": 170393,
+        "word": "伊朗伊斯兰革命卫队发言人身亡",
+        "onboard_time": 1773993501,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210035,
+        "num": 167787,
+        "word": "手胖的人解释不清了",
+        "onboard_time": 1773979641,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 565859,
+        "num": 164945,
+        "word": "铁路通报女子月经弄脏卧铺事件",
+        "onboard_time": 1773989901,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 273279,
+        "num": 163887,
+        "word": "曝王一博乐华续约",
+        "onboard_time": 1773987562,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211468,
+        "num": 162059,
+        "word": "曝AI短剧使用杨紫的脸",
+        "onboard_time": 1773992242,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102921,
+        "num": 159030,
+        "word": "男子缆车吸烟被劝阻后情绪失控",
+        "onboard_time": 1773984381,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201455,
+        "num": 155633,
+        "word": "迪丽热巴红衣女鬼塑",
+        "onboard_time": 1773985223,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50449,
+        "num": 155494,
+        "word": "青岛如何用一碗面撼动人心",
+        "onboard_time": 1773990441,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 174943,
+        "num": 151233,
+        "word": "大冰分享自己4个月减50斤的经验",
+        "onboard_time": 1773989181,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 151150,
+        "num": 151150,
+        "word": "女子举报退休领导母亲名下巨额财产",
+        "onboard_time": 1773976760,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 49691,
+        "num": 146619,
+        "word": "智界V9诺贝尔奖材料MOFs上车",
+        "onboard_time": 1773990441,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146618,
+        "num": 146618,
+        "word": "迪丽热巴新经纪人郝阿三上岗了",
+        "onboard_time": 1773977060,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458367,
+        "num": 146213,
+        "word": "李维嘉崩溃大哭到无法主持",
+        "onboard_time": 1773984561,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145731,
+        "num": 145731,
+        "word": "女子买8套老破小月收租2.1万",
+        "onboard_time": 1773991703,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108497,
+        "num": 142785,
+        "word": "女童术后喷血死亡医院曾被罚20万",
+        "onboard_time": 1773993323,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152696,
+        "num": 142647,
+        "word": "单依纯 维密",
+        "onboard_time": 1773979041,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141725,
+        "num": 141725,
+        "word": "42岁婆婆刚给儿子娶完媳妇就怀孕了",
+        "onboard_time": 1773984501,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10892,
+        "num": 140839,
+        "word": "5岁女童扁桃体手术后死亡母亲发声",
+        "onboard_time": 1773993622,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140148,
+        "num": 140148,
+        "word": "A股",
+        "onboard_time": 1773974301,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127246,
+        "num": 127246,
+        "word": "经期3个表现警惕子宫腺肌症",
+        "onboard_time": 1773992903,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119994,
+        "num": 119994,
+        "word": "夏弃疾拍的热巴陈飞宇",
+        "onboard_time": 1773987382,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108935,
+        "num": 108935,
+        "word": "三亚回应戴军潜水时被拔呼吸器威胁",
+        "onboard_time": 1773983181,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43279,
+        "num": 99774,
+        "word": "中国女游客在泰国被流弹击中面部",
+        "onboard_time": 1773993622,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645831,
+        "num": 98895,
+        "word": "网易严选 玩梗",
+        "onboard_time": 1773992121,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214250,
+        "num": 98701,
+        "word": "33岁抗癌博主阿润离世",
+        "onboard_time": 1773991823,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91800,
+        "num": 91800,
+        "word": "1岁幼儿睡前发现蜱虫钻进头皮在吸血",
+        "onboard_time": 1773980844,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88526,
+        "num": 88526,
+        "word": "高叶爆料徐志胜不回微信",
+        "onboard_time": 1773990141,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86999,
+        "num": 86999,
+        "word": "白日提灯男二骂男主这段",
+        "onboard_time": 1773992903,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84150,
+        "num": 84150,
+        "word": "女子每月痛经超20天求医生切子宫",
+        "onboard_time": 1773977119,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80925,
+        "num": 80925,
+        "word": "穆祉丞站着干饭",
+        "onboard_time": 1773993501,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82509,
+        "num": 79624,
+        "word": "山城小栗旬陈大榕结婚",
+        "onboard_time": 1773981022,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 78029,
+        "num": 78029,
+        "word": "黄金大跌买积存金亏了一辆车",
+        "onboard_time": 1773989541,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76986,
+        "num": 76986,
+        "word": "张凌赫工作室连续删两条视频",
+        "onboard_time": 1773984022,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76241,
+        "num": 76241,
+        "word": "上海迪士尼十周年",
+        "onboard_time": 1773991401,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 74817,
+        "num": 74817,
+        "word": "伊朗说能继续生产导弹",
+        "onboard_time": 1773992721,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74118,
+        "num": 74118,
+        "word": "37岁牺牲民警抓捕视频公开",
+        "onboard_time": 1773990560,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72786,
+        "num": 72786,
+        "word": "超7成人午睡超过半小时",
+        "onboard_time": 1773993260,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71001,
+        "num": 71001,
+        "word": "A股半日放量1392亿",
+        "onboard_time": 1773988400,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70322,
+        "num": 70322,
+        "word": "张杰鸟巢站加场",
+        "onboard_time": 1773991162,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70252,
+        "num": 70252,
+        "word": "胡先煦上城士非遗巡游展",
+        "onboard_time": 1773993381,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67211,
+        "num": 67211,
+        "word": "苏超吉祥物苏嘟嘟出道",
+        "onboard_time": 1773993622,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66616,
+        "num": 66616,
+        "word": "沪指再度失守4000点",
+        "onboard_time": 1773991221,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记推动海洋经济发展的大思路#"
+    }
+  }
+}
