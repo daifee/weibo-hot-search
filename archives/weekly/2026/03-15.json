@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774021985408,
+  "endTime": 1774022743723,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -2795,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338304,
+      "num": 1021073,
+      "word": "直播间禁售13类食品新规今起实施",
+      "onboard_time": 1774020502,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336370,
       "num": 257308,
       "word": "花少 花儿与中老年",
@@ -4355,6 +4363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241389,
+      "num": 86711,
+      "word": "G2",
+      "onboard_time": 1774022002,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 241280,
       "num": 735921,
       "word": "黄金怎么不涨反跌",
@@ -5184,14 +5200,6 @@
       "word": "女子每月痛经超20天求医生切子宫",
       "onboard_time": 1773977119,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206010,
-      "num": 762219,
-      "word": "直播间禁售13类食品新规今起实施",
-      "onboard_time": 1774020502,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -7435,6 +7443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136246,
+      "num": 136246,
+      "word": "章子怡高叶影后双黄蛋",
+      "onboard_time": 1774020442,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136060,
       "num": 136060,
       "word": "雷军说不想背刺老用户",
@@ -8449,14 +8465,6 @@
       "onboard_time": 1773755423,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118341,
-      "num": 118341,
-      "word": "章子怡高叶影后双黄蛋",
-      "onboard_time": 1774020442,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 118266,
@@ -10371,6 +10379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95584,
+      "num": 96619,
+      "word": "伊朗动员穷人组织情报部门负责人身亡",
+      "onboard_time": 1774019242,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95556,
       "num": 95556,
       "word": "国台办回应是否趁中东局势对台行动",
@@ -10953,14 +10969,6 @@
       "onboard_time": 1773570861,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 90815,
-      "num": 96619,
-      "word": "伊朗动员穷人组织情报部门负责人身亡",
-      "onboard_time": 1774019242,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 90756,
@@ -11907,6 +11915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84095,
+      "num": 84095,
+      "word": "入坑李卿",
+      "onboard_time": 1774018823,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84081,
       "num": 84081,
       "word": "广东00后女生公司估值达110亿",
@@ -12467,14 +12483,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 79746,
-      "num": 79746,
-      "word": "入坑李卿",
-      "onboard_time": 1774018823,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79729,
       "num": 132817,
       "word": "原来你就是武安侯",
@@ -12587,6 +12595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78892,
+      "num": 79744,
+      "word": "Steam春促",
+      "onboard_time": 1774020081,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 78483,
       "num": 78483,
       "word": "防止邻居太吵的方法找到了",
@@ -12649,14 +12665,6 @@
       "onboard_time": 1773981442,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78188,
-      "num": 79744,
-      "word": "Steam春促",
-      "onboard_time": 1774020081,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 78030,
@@ -14979,6 +14987,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 57487,
+      "num": 78481,
+      "word": "深圳一公司公告称副总在办公室偷吃",
+      "onboard_time": 1774022061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57063,
       "num": 79459,
       "word": "当研究生和上班是一样的",
@@ -16947,6 +16963,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 19745,
+      "num": 145720,
+      "word": "美宜佳重拳整治假烟",
+      "onboard_time": 1774022002,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19582,
       "num": 35244,
       "word": "田曦薇打戏",
@@ -17361,6 +17385,22 @@
       "onboard_time": 1773905962,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11601,
+      "num": 78581,
+      "word": "时代峰峻后期你睡得着吗",
+      "onboard_time": 1774022662,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11496,
+      "num": 86712,
+      "word": "LYON对战JDG",
+      "onboard_time": 1774022421,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 11288,

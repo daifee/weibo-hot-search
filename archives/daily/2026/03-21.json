@@ -1,0 +1,411 @@
+{
+  "startTime": 1774022743723,
+  "endTime": 1774022743723,
+  "band_list": [
+    {
+      "raw_hot": 729859,
+      "num": 486997,
+      "word": "章子怡脸咋了",
+      "onboard_time": 1774010182,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 541508,
+      "num": 144936,
+      "word": "papi酱又给内娱指了条明路",
+      "onboard_time": 1774009823,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 379040,
+      "num": 143276,
+      "word": "迪丽热巴迪奥活动直拍",
+      "onboard_time": 1774006161,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 351025,
+      "num": 116768,
+      "word": "孟佳开撕品牌方",
+      "onboard_time": 1773999800,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 338304,
+      "num": 1021073,
+      "word": "直播间禁售13类食品新规今起实施",
+      "onboard_time": 1774020502,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288653,
+      "num": 716913,
+      "word": "好想来上架山姆零食",
+      "onboard_time": 1774010182,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241389,
+      "num": 86711,
+      "word": "G2",
+      "onboard_time": 1774022002,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 214985,
+      "num": 142726,
+      "word": "外网也意识到韩国偷文化了",
+      "onboard_time": 1774004961,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 201564,
+      "num": 201564,
+      "word": "母亲带女儿买鞋在店门口犹豫半小时",
+      "onboard_time": 1774014563,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181149,
+      "num": 131669,
+      "word": "迪丽热巴 女王回归",
+      "onboard_time": 1774007303,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172635,
+      "num": 92359,
+      "word": "日本网友评价高市早苗访美视频",
+      "onboard_time": 1774014622,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 168941,
+      "num": 141324,
+      "word": "铁路通报女子月经弄脏卧铺事件",
+      "onboard_time": 1773989901,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 168861,
+      "num": 168861,
+      "word": "丁彦雨航退役",
+      "onboard_time": 1774017682,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160060,
+      "num": 160060,
+      "word": "高血压男子抿了一口啤酒后死亡",
+      "onboard_time": 1774016062,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147225,
+      "num": 147225,
+      "word": "薛之谦广州演唱会",
+      "onboard_time": 1774003040,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 140743,
+      "num": 140743,
+      "word": "范丞丞四天减脂餐对比",
+      "onboard_time": 1774013242,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136246,
+      "num": 136246,
+      "word": "章子怡高叶影后双黄蛋",
+      "onboard_time": 1774020442,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 136064,
+      "num": 136064,
+      "word": "七旬老人呼吸困难自行拿剪刀捅胸",
+      "onboard_time": 1774011742,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128923,
+      "num": 146847,
+      "word": "小米汽车回应为何不公布大定数字",
+      "onboard_time": 1774017803,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 125677,
+      "num": 116657,
+      "word": "王橹杰爱柠檬",
+      "onboard_time": 1774013362,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118702,
+      "num": 118702,
+      "word": "对一块钱的概念越来越模糊",
+      "onboard_time": 1774002561,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 116839,
+      "num": 116839,
+      "word": "伊朗发动第67波攻势",
+      "onboard_time": 1774011082,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 116278,
+      "num": 116278,
+      "word": "逐玉",
+      "onboard_time": 1774001180,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98326,
+      "num": 94525,
+      "word": "杨幂清唱讲真的",
+      "onboard_time": 1774014502,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95584,
+      "num": 95584,
+      "word": "伊朗动员穷人组织情报部门负责人身亡",
+      "onboard_time": 1774019242,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 93266,
+      "num": 93266,
+      "word": "张凌赫工作室 拍出了张凌赫的死角",
+      "onboard_time": 1773994521,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90836,
+      "num": 90836,
+      "word": "刘昊然易烊千玺CMG双黄蛋",
+      "onboard_time": 1774014863,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 87269,
+      "num": 87269,
+      "word": "THE9出道组现状",
+      "onboard_time": 1774010303,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86698,
+      "num": 86698,
+      "word": "31岁女子确诊重度牙周病不敢随便笑",
+      "onboard_time": 1774017742,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86626,
+      "num": 86626,
+      "word": "72岁蔡正元入狱前最后直播",
+      "onboard_time": 1774019902,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 86161,
+      "num": 86161,
+      "word": "马丽感谢沈腾",
+      "onboard_time": 1774020323,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 84095,
+      "num": 84095,
+      "word": "入坑李卿",
+      "onboard_time": 1774018823,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82737,
+      "num": 82737,
+      "word": "为什么生物地理会被踢出中考计分",
+      "onboard_time": 1774020442,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 82458,
+      "num": 82458,
+      "word": "肖战深V黑西装live",
+      "onboard_time": 1774016242,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78892,
+      "num": 78892,
+      "word": "Steam春促",
+      "onboard_time": 1774020081,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 78390,
+      "num": 78390,
+      "word": "DIOR活动",
+      "onboard_time": 1774010961,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 73369,
+      "num": 73369,
+      "word": "前员工爆料海底捞高层点炮制度",
+      "onboard_time": 1774003160,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72261,
+      "num": 72261,
+      "word": "周冬雨穿自己淘的裙子走红毯",
+      "onboard_time": 1774009823,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 69594,
+      "num": 69594,
+      "word": "伊朗问美国为何不敢让航母靠近",
+      "onboard_time": 1774015523,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 69407,
+      "num": 69407,
+      "word": "cmg中国电影荣誉名单",
+      "onboard_time": 1774016543,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 65315,
+      "num": 69407,
+      "word": "大人饭量和小孩饭量真的不一样",
+      "onboard_time": 1774013782,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 65070,
+      "num": 69407,
+      "word": "俄罗斯向以色列提抗议",
+      "onboard_time": 1774018523,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 64994,
+      "num": 69407,
+      "word": "英雄联盟全球先锋赛",
+      "onboard_time": 1774020862,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 62660,
+      "num": 69407,
+      "word": "孟佳品牌方 盖娅传说",
+      "onboard_time": 1774003521,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59180,
+      "num": 69407,
+      "word": "G2对战BFX",
+      "onboard_time": 1774014383,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 57487,
+      "num": 78481,
+      "word": "深圳一公司公告称副总在办公室偷吃",
+      "onboard_time": 1774022061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26053,
+      "num": 578795,
+      "word": "沙某编造传播涉科大讯飞网络谣言被拘",
+      "onboard_time": 1774009161,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19745,
+      "num": 145720,
+      "word": "美宜佳重拳整治假烟",
+      "onboard_time": 1774022002,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11601,
+      "num": 78581,
+      "word": "时代峰峻后期你睡得着吗",
+      "onboard_time": 1774022662,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11496,
+      "num": 86712,
+      "word": "LYON对战JDG",
+      "onboard_time": 1774022421,
+      "rank": 29,
+      "category": "电竞"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#为民出政绩实干出政绩#"
+    }
+  ]
+}
