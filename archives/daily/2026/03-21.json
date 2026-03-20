@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774022743723,
+  "endTime": 1774025735650,
   "band_list": [
     {
       "raw_hot": 729859,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441150,
+      "num": 1021073,
+      "word": "直播间禁售13类食品新规今起实施",
+      "onboard_time": 1774020502,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379040,
       "num": 143276,
       "word": "迪丽热巴迪奥活动直拍",
@@ -33,14 +41,6 @@
       "onboard_time": 1773999800,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 338304,
-      "num": 1021073,
-      "word": "直播间禁售13类食品新规今起实施",
-      "onboard_time": 1774020502,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288653,
@@ -73,6 +73,14 @@
       "onboard_time": 1774014563,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198924,
+      "num": 136246,
+      "word": "章子怡高叶影后双黄蛋",
+      "onboard_time": 1774020442,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 181149,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156302,
+      "num": 99453,
+      "word": "深圳一公司公告称副总在办公室偷吃",
+      "onboard_time": 1774022061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147225,
       "num": 147225,
       "word": "薛之谦广州演唱会",
@@ -131,20 +147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136246,
-      "num": 136246,
-      "word": "章子怡高叶影后双黄蛋",
-      "onboard_time": 1774020442,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 136064,
       "num": 136064,
       "word": "七旬老人呼吸困难自行拿剪刀捅胸",
       "onboard_time": 1774011742,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131574,
+      "num": 131574,
+      "word": "72岁蔡正元入狱前最后直播",
+      "onboard_time": 1774019902,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128923,
@@ -161,6 +177,14 @@
       "onboard_time": 1774013362,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125220,
+      "num": 62710,
+      "word": "金饰价格再次大幅下跌",
+      "onboard_time": 1774025480,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 118702,
@@ -185,6 +209,22 @@
       "onboard_time": 1774001180,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107231,
+      "num": 107231,
+      "word": "Steam春促",
+      "onboard_time": 1774020081,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 100939,
+      "num": 100939,
+      "word": "为什么生物地理会被踢出中考计分",
+      "onboard_time": 1774020442,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 98326,
@@ -235,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86626,
-      "num": 86626,
-      "word": "72岁蔡正元入狱前最后直播",
-      "onboard_time": 1774019902,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 86161,
       "num": 86161,
       "word": "马丽感谢沈腾",
@@ -259,28 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82737,
-      "num": 82737,
-      "word": "为什么生物地理会被踢出中考计分",
-      "onboard_time": 1774020442,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 82458,
       "num": 82458,
       "word": "肖战深V黑西装live",
       "onboard_time": 1774016242,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78892,
-      "num": 78892,
-      "word": "Steam春促",
-      "onboard_time": 1774020081,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 78390,
@@ -307,6 +323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70669,
+      "num": 78581,
+      "word": "时代峰峻后期你睡得着吗",
+      "onboard_time": 1774022662,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69594,
       "num": 69594,
       "word": "伊朗问美国为何不敢让航母靠近",
@@ -321,6 +345,14 @@
       "onboard_time": 1774016543,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 65989,
+      "num": 78905,
+      "word": "阿维塔12",
+      "onboard_time": 1774025480,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 65315,
@@ -347,12 +379,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64153,
+      "num": 64153,
+      "word": "嫁金钗预约破50w",
+      "onboard_time": 1774023920,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62660,
       "num": 69407,
       "word": "孟佳品牌方 盖娅传说",
       "onboard_time": 1774003521,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61597,
+      "num": 61597,
+      "word": "易烊千玺透露自己的目标",
+      "onboard_time": 1774025299,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 60252,
+      "num": 60252,
+      "word": "小狗不会握前手只会握后手",
+      "onboard_time": 1774024399,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 59180,
@@ -363,11 +419,43 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 57487,
-      "num": 78481,
-      "word": "深圳一公司公告称副总在办公室偷吃",
-      "onboard_time": 1774022061,
-      "rank": 39,
+      "raw_hot": 58081,
+      "num": 58081,
+      "word": "桃黑黑直播",
+      "onboard_time": 1774024879,
+      "rank": 35,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 51356,
+      "num": 52699,
+      "word": "你好星期六",
+      "onboard_time": 1774024699,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 45713,
+      "num": 52696,
+      "word": "最强大脑",
+      "onboard_time": 1774015942,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 44344,
+      "num": 52694,
+      "word": "爷爷酒后多次用力掌掴幼儿",
+      "onboard_time": 1774012522,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36081,
+      "num": 145720,
+      "word": "美宜佳重拳整治假烟",
+      "onboard_time": 1774022002,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -377,22 +465,6 @@
       "onboard_time": 1774009161,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19745,
-      "num": 145720,
-      "word": "美宜佳重拳整治假烟",
-      "onboard_time": 1774022002,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11601,
-      "num": 78581,
-      "word": "时代峰峻后期你睡得着吗",
-      "onboard_time": 1774022662,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 11496,

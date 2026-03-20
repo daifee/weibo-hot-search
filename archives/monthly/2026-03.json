@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774022743723,
+  "endTime": 1774025735650,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -6635,6 +6635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 441150,
+      "num": 1021073,
+      "word": "直播间禁售13类食品新规今起实施",
+      "onboard_time": 1774020502,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441019,
       "num": 239498,
       "word": "伊朗总统誓言要为拉里贾尼复仇",
@@ -9561,14 +9569,6 @@
       "onboard_time": 1773382280,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 338304,
-      "num": 1021073,
-      "word": "直播间禁售13类食品新规今起实施",
-      "onboard_time": 1774020502,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 338055,
@@ -16899,6 +16899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 198924,
+      "num": 136246,
+      "word": "章子怡高叶影后双黄蛋",
+      "onboard_time": 1774020442,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198866,
       "num": 198866,
       "word": "谭松韵别试探了有市场",
@@ -20723,6 +20731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156302,
+      "num": 99453,
+      "word": "深圳一公司公告称副总在办公室偷吃",
+      "onboard_time": 1774022061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156256,
       "num": 211549,
       "word": "黄金石油美联储降息大变局",
@@ -23395,14 +23411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 136246,
-      "num": 136246,
-      "word": "章子怡高叶影后双黄蛋",
-      "onboard_time": 1774020442,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 136222,
       "num": 296977,
       "word": "硬糖少女偷偶像练习生的鱼",
@@ -24208,6 +24216,14 @@
       "word": "专家建议工作日缩至4天",
       "onboard_time": 1773541460,
       "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 131574,
+      "num": 131574,
+      "word": "72岁蔡正元入狱前最后直播",
+      "onboard_time": 1774019902,
+      "rank": 21,
       "category": "国内时政"
     },
     {
@@ -25209,6 +25225,14 @@
       "onboard_time": 1773560601,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125220,
+      "num": 62710,
+      "word": "金饰价格再次大幅下跌",
+      "onboard_time": 1774025480,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 125200,
@@ -28979,6 +29003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 107231,
+      "num": 107231,
+      "word": "Steam春促",
+      "onboard_time": 1774020081,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107215,
       "num": 107215,
       "word": "逐玉 帅哥",
@@ -30681,6 +30713,14 @@
       "onboard_time": 1772446946,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100939,
+      "num": 100939,
+      "word": "为什么生物地理会被踢出中考计分",
+      "onboard_time": 1774020442,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 100878,
@@ -33155,14 +33195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93471,
-      "num": 129115,
-      "word": "72岁蔡正元入狱前最后直播",
-      "onboard_time": 1774019902,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 93464,
       "num": 93464,
       "word": "谢谢AI成功让我笑了出来",
@@ -35361,14 +35393,6 @@
       "onboard_time": 1773886461,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87251,
-      "num": 87251,
-      "word": "为什么生物地理会被踢出中考计分",
-      "onboard_time": 1774020442,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 87239,
@@ -38489,14 +38513,6 @@
       "onboard_time": 1773991221,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 78892,
-      "num": 79744,
-      "word": "Steam春促",
-      "onboard_time": 1774020081,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 78860,
@@ -41827,6 +41843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70669,
+      "num": 78581,
+      "word": "时代峰峻后期你睡得着吗",
+      "onboard_time": 1774022662,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70648,
       "num": 76614,
       "word": "A股全市场38股涨停",
@@ -43435,6 +43459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65989,
+      "num": 78905,
+      "word": "阿维塔12",
+      "onboard_time": 1774025480,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 65972,
       "num": 172732,
       "word": "爱心面馆获众人接力",
@@ -44025,6 +44057,14 @@
       "onboard_time": 1773737482,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64153,
+      "num": 64153,
+      "word": "嫁金钗预约破50w",
+      "onboard_time": 1774023920,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 64149,
@@ -44803,6 +44843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61597,
+      "num": 61597,
+      "word": "易烊千玺透露自己的目标",
+      "onboard_time": 1774025299,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 61583,
       "num": 162873,
       "word": "这不是周大福的但可能是周大娘的",
@@ -45121,6 +45169,14 @@
       "onboard_time": 1773747141,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 60252,
+      "num": 60252,
+      "word": "小狗不会握前手只会握后手",
+      "onboard_time": 1774024399,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 60235,
@@ -45777,14 +45833,6 @@
       "onboard_time": 1772621906,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 57487,
-      "num": 78481,
-      "word": "深圳一公司公告称副总在办公室偷吃",
-      "onboard_time": 1774022061,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57474,
@@ -49683,6 +49731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36081,
+      "num": 145720,
+      "word": "美宜佳重拳整治假烟",
+      "onboard_time": 1774022002,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36053,
       "num": 98156,
       "word": "上海网约公交车票价仅1元",
@@ -52715,14 +52771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19745,
-      "num": 145720,
-      "word": "美宜佳重拳整治假烟",
-      "onboard_time": 1774022002,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19684,
       "num": 122530,
       "word": "建议购房送消费券存量房贷贴息",
@@ -53913,14 +53961,6 @@
       "onboard_time": 1772451984,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11601,
-      "num": 78581,
-      "word": "时代峰峻后期你睡得着吗",
-      "onboard_time": 1774022662,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 11513,
