@@ -1,6 +1,6 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1774018376719,
+  "endTime": 1774019650323,
   "band_list": [
     {
       "raw_hot": 1698671,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 454333,
-      "num": 184741,
+      "num": 192466,
       "word": "范丞丞四天减脂餐对比",
       "onboard_time": 1774013242,
       "rank": 33,
@@ -395,8 +395,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 358191,
-      "num": 358191,
+      "raw_hot": 361871,
+      "num": 361871,
       "word": "母亲带女儿买鞋在店门口犹豫半小时",
       "onboard_time": 1774014563,
       "rank": 4,
@@ -457,6 +457,14 @@
       "onboard_time": 1773928582,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 310935,
+      "num": 790025,
+      "word": "日本网友评价高市早苗访美视频",
+      "onboard_time": 1774014622,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 305164,
@@ -571,14 +579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 263813,
-      "num": 790025,
-      "word": "日本网友评价高市早苗访美视频",
-      "onboard_time": 1774014622,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 262110,
       "num": 944654,
       "word": "薛之谦广州演唱会",
@@ -593,6 +593,14 @@
       "onboard_time": 1774011742,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259874,
+      "num": 259874,
+      "word": "丁彦雨航退役",
+      "onboard_time": 1774017682,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 259762,
@@ -1035,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155949,
+      "num": 151609,
+      "word": "杨幂清唱讲真的",
+      "onboard_time": 1774014502,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155417,
       "num": 155417,
       "word": "一种很新的减肥方法",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1773961938,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152782,
+      "num": 205367,
+      "word": "伊朗发动第67波攻势",
+      "onboard_time": 1774011082,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151011,
@@ -1107,28 +1131,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 143855,
-      "num": 189124,
-      "word": "伊朗发动第67波攻势",
-      "onboard_time": 1774011082,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 142373,
-      "num": 142373,
-      "word": "杨幂清唱讲真的",
-      "onboard_time": 1774014502,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141844,
       "num": 141844,
       "word": "四川绵竹3.4级地震",
       "onboard_time": 1773998903,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 141517,
+      "num": 203723,
+      "word": "小米汽车回应为何不公布大定数字",
+      "onboard_time": 1774017803,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 139885,
@@ -1395,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113919,
+      "num": 113919,
+      "word": "国际金银又跌了",
+      "onboard_time": 1774019423,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112609,
       "num": 112609,
       "word": "檀健次 HooHoo的火热日常",
@@ -1611,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98421,
-      "num": 179473,
-      "word": "丁彦雨航退役",
-      "onboard_time": 1774017682,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97665,
       "num": 97665,
       "word": "第一次见这么标准的不合适",
@@ -1707,14 +1723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 95107,
-      "num": 95107,
-      "word": "小米汽车回应为何不公布大定数字",
-      "onboard_time": 1774017803,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 94699,
       "num": 94699,
       "word": "方圆自曝舍不得花钱",
@@ -1745,6 +1753,14 @@
       "onboard_time": 1774007421,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89590,
+      "num": 201064,
+      "word": "高血压男子抿了一口啤酒后死亡",
+      "onboard_time": 1774016062,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89474,
@@ -1851,6 +1867,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 85646,
+      "num": 85646,
+      "word": "官方通报月经弄脏卧铺事件详情",
+      "onboard_time": 1774018763,
+      "rank": 40,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 84722,
       "num": 84722,
       "word": "白日提灯",
@@ -1955,12 +1979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79899,
+      "num": 108136,
+      "word": "三傻重聚给王鹤棣哄成胚胎了",
+      "onboard_time": 1774013601,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79616,
       "num": 79616,
       "word": "谢征 你为什么要说杀猪养我",
       "onboard_time": 1773973221,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79575,
+      "num": 79575,
+      "word": "伊朗动员穷人组织情报部门负责人身亡",
+      "onboard_time": 1774019242,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79069,
@@ -2131,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75044,
+      "num": 75044,
+      "word": "俄罗斯向以色列提抗议",
+      "onboard_time": 1774018523,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74817,
       "num": 74817,
       "word": "伊朗说能继续生产导弹",
@@ -2299,14 +2347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 69391,
-      "num": 108136,
-      "word": "三傻重聚给王鹤棣哄成胚胎了",
-      "onboard_time": 1774013601,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 69091,
       "num": 69091,
       "word": "国企房东开始降价了",
@@ -2377,14 +2417,6 @@
       "onboard_time": 1773984322,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67548,
-      "num": 108326,
-      "word": "高血压男子抿了一口啤酒后死亡",
-      "onboard_time": 1774016062,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67211,
@@ -2659,6 +2691,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 53670,
+      "num": 132481,
+      "word": "CBA常规赛",
+      "onboard_time": 1774018941,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53525,
       "num": 53525,
       "word": "JDG战胜LOUD",
@@ -2819,6 +2859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44907,
+      "num": 74813,
+      "word": "吴存荣受贿1.27亿余元",
+      "onboard_time": 1774019123,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44882,
       "num": 179135,
       "word": "香港15所小学零新生",
@@ -2956,7 +3004,7 @@
     },
     {
       "raw_hot": 26775,
-      "num": 592498,
+      "num": 628540,
       "word": "沙某编造传播涉科大讯飞网络谣言被拘",
       "onboard_time": 1774009161,
       "rank": 2,
@@ -2985,6 +3033,14 @@
       "onboard_time": 1773942795,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21286,
+      "num": 158250,
+      "word": "南方甘蔗1元一根北方甘蔗18元半根",
+      "onboard_time": 1774019303,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21182,
