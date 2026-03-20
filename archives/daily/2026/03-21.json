@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774028509108,
+  "endTime": 1774029676976,
   "band_list": [
     {
       "raw_hot": 729859,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 541508,
-      "num": 144936,
+      "num": 158437,
       "word": "papi酱又给内娱指了条明路",
       "onboard_time": 1774009823,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 198924,
-      "num": 136246,
+      "num": 167148,
       "word": "章子怡高叶影后双黄蛋",
       "onboard_time": 1774020442,
       "rank": 15,
@@ -163,20 +163,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134689,
+      "num": 73200,
+      "word": "金饰价格再次大幅下跌",
+      "onboard_time": 1774025480,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131574,
       "num": 131574,
       "word": "72岁蔡正元入狱前最后直播",
       "onboard_time": 1774019902,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 131532,
-      "num": 73200,
-      "word": "金饰价格再次大幅下跌",
-      "onboard_time": 1774025480,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 128923,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 111778,
-      "num": 111778,
+      "num": 160619,
       "word": "为什么生物地理会被踢出中考计分",
       "onboard_time": 1774020442,
       "rank": 35,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86518,
+      "num": 190121,
+      "word": "小狗不会握前手只会握后手",
+      "onboard_time": 1774024399,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86161,
       "num": 86161,
       "word": "马丽感谢沈腾",
@@ -307,8 +315,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82084,
+      "num": 182152,
+      "word": "伊朗问美国为何不敢让航母靠近",
+      "onboard_time": 1774015523,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78920,
-      "num": 41051,
+      "num": 43045,
       "word": "菲方飞机非法闯入中国空域",
       "onboard_time": 1774027757,
       "rank": 30,
@@ -329,14 +345,6 @@
       "onboard_time": 1774003160,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72879,
-      "num": 72879,
-      "word": "伊朗问美国为何不敢让航母靠近",
-      "onboard_time": 1774015523,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 72261,
@@ -361,14 +369,6 @@
       "onboard_time": 1774016543,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 68222,
-      "num": 68222,
-      "word": "小狗不会握前手只会握后手",
-      "onboard_time": 1774024399,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 65989,
@@ -467,20 +467,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31286,
-      "num": 34531,
+      "raw_hot": 32941,
+      "num": 43043,
       "word": "谢征给樊长玉脖子亲出吻痕",
       "onboard_time": 1774028057,
       "rank": 41,
       "category": "剧集"
     },
     {
-      "raw_hot": 26984,
-      "num": 34530,
+      "raw_hot": 28696,
+      "num": 43035,
       "word": "被宝妈劝阻吸烟情绪失控游客已道歉",
       "onboard_time": 1774027337,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26530,
+      "num": 43033,
+      "word": "官方通报月经弄脏卧铺事件详情",
+      "onboard_time": 1774018763,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 26414,
+      "num": 43036,
+      "word": "伊朗攻击美国多个军事基地",
+      "onboard_time": 1774029196,
+      "rank": 41,
+      "category": "军事"
     },
     {
       "raw_hot": 26053,
@@ -489,6 +505,14 @@
       "onboard_time": 1774009161,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23093,
+      "num": 43030,
+      "word": "挽救计划",
+      "onboard_time": 1774021162,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 11496,
