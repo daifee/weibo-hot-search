@@ -1,0 +1,410 @@
+{
+  "runTime": 1773974343358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1031394,
+        "num": 1165023,
+        "word": "白日提灯定档",
+        "onboard_time": 1773972740,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269726,
+        "num": 829538,
+        "word": "32G内存涨了约3000元",
+        "onboard_time": 1773969740,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13017,
+        "num": 663559,
+        "word": "十五五规划纲要撰写的幕后",
+        "onboard_time": 1773925402,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376163,
+        "num": 376163,
+        "word": "小猴子石山玩耍不慎坠落身亡",
+        "onboard_time": 1773972140,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191640,
+        "num": 191640,
+        "word": "华为Mate80官宣新版本",
+        "onboard_time": 1773971720,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212058,
+        "num": 191251,
+        "word": "6国声明拟保障霍尔木兹海峡安全",
+        "onboard_time": 1773968481,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 291995,
+        "num": 189261,
+        "word": "1分钟恶意别车8次是公然行凶",
+        "onboard_time": 1773970940,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184824,
+        "num": 184824,
+        "word": "二月二龙抬头有啥习俗",
+        "onboard_time": 1773969679,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178611,
+        "num": 178611,
+        "word": "7年前买的泡泡玛特盲盒才发货",
+        "onboard_time": 1773930982,
+        "rank": 8,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 173119,
+        "num": 173119,
+        "word": "南昌舰以一敌二逼退外舰细节公布",
+        "onboard_time": 1773972681,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 623121,
+        "num": 173088,
+        "word": "金价",
+        "onboard_time": 1773969081,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 597732,
+        "num": 172782,
+        "word": "孟羽童再上初入职场和董明珠说了",
+        "onboard_time": 1773969621,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288350,
+        "num": 172320,
+        "word": "原著谢征和长玉提了分手",
+        "onboard_time": 1773963799,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248933,
+        "num": 172132,
+        "word": "武大靖自曝退役后现状",
+        "onboard_time": 1773971359,
+        "rank": 13,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 276094,
+        "num": 171809,
+        "word": "热巴好汹涌的爱意",
+        "onboard_time": 1773967761,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191611,
+        "num": 171421,
+        "word": "巴西女子嫁给布娃娃还连生4子",
+        "onboard_time": 1773964399,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184128,
+        "num": 171321,
+        "word": "伊朗导弹击中以色列海法炼油厂",
+        "onboard_time": 1773940818,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171070,
+        "num": 171070,
+        "word": "李卿饭撒 没轻没重",
+        "onboard_time": 1773971839,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161409,
+        "num": 161409,
+        "word": "肖战打招呼很像oi猫",
+        "onboard_time": 1773965721,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112137,
+        "num": 159997,
+        "word": "去世演员通过AI重返银幕",
+        "onboard_time": 1773967821,
+        "rank": 19,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 200192,
+        "num": 159962,
+        "word": "女子罕见双子宫双阴道10年3次剖宫产",
+        "onboard_time": 1773966140,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162488,
+        "num": 159933,
+        "word": "金价暴跌真凶",
+        "onboard_time": 1773970819,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159853,
+        "num": 159853,
+        "word": "泡过胖东来馒头的水清澈见底",
+        "onboard_time": 1773972559,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108048,
+        "num": 154864,
+        "word": "神秘人花7500元预存500碗面",
+        "onboard_time": 1773929123,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154630,
+        "num": 154630,
+        "word": "黄金",
+        "onboard_time": 1773965060,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113612,
+        "num": 113612,
+        "word": "A股",
+        "onboard_time": 1773974301,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112171,
+        "num": 112171,
+        "word": "女生监控里看到外公家暴外婆",
+        "onboard_time": 1773965480,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110102,
+        "num": 110102,
+        "word": "女孩玩拼豆突然起火秒拔电源插头",
+        "onboard_time": 1773970461,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109560,
+        "num": 109560,
+        "word": "一觉醒来黄金挂坠亏了2000元",
+        "onboard_time": 1773935002,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110087,
+        "num": 108912,
+        "word": "山姆回应三文鱼标注加热却被生食",
+        "onboard_time": 1773932242,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281649,
+        "num": 108907,
+        "word": "5岁女童扁桃体手术出院后死亡",
+        "onboard_time": 1773968300,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105927,
+        "num": 105927,
+        "word": "泡泡玛特回应7年前买的盲盒才发货",
+        "onboard_time": 1773973159,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101393,
+        "num": 101393,
+        "word": "檀健次晒蛋糕",
+        "onboard_time": 1773964820,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95802,
+        "num": 101098,
+        "word": "二月二龙抬头应该吃点啥",
+        "onboard_time": 1773973941,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101037,
+        "num": 101037,
+        "word": "张译张小斐担任天坛奖评委",
+        "onboard_time": 1773973820,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91890,
+        "num": 91890,
+        "word": "美向中东三国提供165亿美元军售",
+        "onboard_time": 1773972860,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91541,
+        "num": 91541,
+        "word": "小米汽车",
+        "onboard_time": 1773928582,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 86595,
+        "num": 86595,
+        "word": "瞿颖仁科凭真实赢麻了",
+        "onboard_time": 1773966319,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80299,
+        "num": 80299,
+        "word": "春分",
+        "onboard_time": 1773961938,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150945,
+        "num": 80186,
+        "word": "青岛这碗面够人回味一辈子",
+        "onboard_time": 1773972079,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79616,
+        "num": 79616,
+        "word": "谢征 你为什么要说杀猪养我",
+        "onboard_time": 1773973221,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79224,
+        "num": 79224,
+        "word": "美国女教师用蛋糕引诱性侵学生",
+        "onboard_time": 1773962057,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74670,
+        "num": 74670,
+        "word": "湖人vs热火",
+        "onboard_time": 1773966140,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71391,
+        "num": 71391,
+        "word": "特朗普将袭击伊朗比作偷袭珍珠港",
+        "onboard_time": 1773974121,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71384,
+        "num": 71384,
+        "word": "金价暴跌抄底7天越买越套",
+        "onboard_time": 1773930922,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71229,
+        "num": 71229,
+        "word": "武汉樱花",
+        "onboard_time": 1773971781,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 69347,
+        "num": 69347,
+        "word": "伊朗称击中美军F35战机",
+        "onboard_time": 1773963500,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 69126,
+        "num": 69126,
+        "word": "申裕斌甜蜜暴击",
+        "onboard_time": 1773974239,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67718,
+        "num": 67718,
+        "word": "坐等BTS回归",
+        "onboard_time": 1773968541,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 66216,
+        "num": 66216,
+        "word": "黄金仍有很大下跌空间",
+        "onboard_time": 1773969381,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#金杯银杯不如老百姓口碑#"
+    }
+  }
+}
