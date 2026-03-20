@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774040315440,
+  "endTime": 1774042754149,
   "band_list": [
     {
       "raw_hot": 729859,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 131574,
-      "num": 131574,
+      "num": 133161,
       "word": "72岁蔡正元入狱前最后直播",
       "onboard_time": 1774019902,
       "rank": 32,
@@ -564,11 +564,19 @@
     },
     {
       "raw_hot": 14444,
-      "num": 17096,
+      "num": 18374,
       "word": "易烊千玺CMG年度剧情电影男演员",
       "onboard_time": 1774023200,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 11251,
+      "num": 18316,
+      "word": "全网迪士尼朋友都在跳",
+      "onboard_time": 1774001242,
+      "rank": 49,
+      "category": "旅游"
     }
   ],
   "hotgov_list": [
