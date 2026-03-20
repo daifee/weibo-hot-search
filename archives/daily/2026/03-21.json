@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774046283223,
+  "endTime": 1774047401633,
   "band_list": [
     {
       "raw_hot": 729859,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 425292,
+      "num": 61431,
+      "word": "官方通报月经弄脏卧铺事件详情",
+      "onboard_time": 1774018763,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 379040,
       "num": 143276,
       "word": "迪丽热巴迪奥活动直拍",
@@ -41,14 +49,6 @@
       "onboard_time": 1773999800,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297143,
-      "num": 43369,
-      "word": "官方通报月经弄脏卧铺事件详情",
-      "onboard_time": 1774018763,
-      "rank": 45,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 288653,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136969,
+      "num": 73200,
+      "word": "金饰价格再次大幅下跌",
+      "onboard_time": 1774025480,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136064,
       "num": 136064,
       "word": "七旬老人呼吸困难自行拿剪刀捅胸",
@@ -171,20 +179,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134689,
-      "num": 73200,
-      "word": "金饰价格再次大幅下跌",
-      "onboard_time": 1774025480,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 131574,
       "num": 173026,
       "word": "72岁蔡正元入狱前最后直播",
       "onboard_time": 1774019902,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131476,
+      "num": 182152,
+      "word": "伊朗问美国为何不敢让航母靠近",
+      "onboard_time": 1774015523,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128923,
@@ -227,8 +235,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115347,
+      "num": 69354,
+      "word": "伊朗攻击美国多个军事基地",
+      "onboard_time": 1774029196,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 111778,
-      "num": 331663,
+      "num": 430540,
       "word": "为什么生物地理会被踢出中考计分",
       "onboard_time": 1774020442,
       "rank": 35,
@@ -241,14 +257,6 @@
       "onboard_time": 1774020081,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 101822,
-      "num": 182152,
-      "word": "伊朗问美国为何不敢让航母靠近",
-      "onboard_time": 1774015523,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 98326,
@@ -291,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86871,
-      "num": 57823,
-      "word": "伊朗攻击美国多个军事基地",
-      "onboard_time": 1774029196,
-      "rank": 41,
-      "category": "军事"
-    },
-    {
       "raw_hot": 86698,
       "num": 86698,
       "word": "31岁女子确诊重度牙周病不敢随便笑",
@@ -323,6 +323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85762,
+      "num": 43045,
+      "word": "菲方飞机非法闯入中国空域",
+      "onboard_time": 1774027757,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 84095,
       "num": 84095,
       "word": "入坑李卿",
@@ -339,12 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78920,
-      "num": 43045,
-      "word": "菲方飞机非法闯入中国空域",
-      "onboard_time": 1774027757,
-      "rank": 30,
-      "category": "军事"
+      "raw_hot": 81913,
+      "num": 72261,
+      "word": "周冬雨穿自己淘的裙子走红毯",
+      "onboard_time": 1774009823,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 78390,
@@ -361,14 +369,6 @@
       "onboard_time": 1774003160,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72261,
-      "num": 72261,
-      "word": "周冬雨穿自己淘的裙子走红毯",
-      "onboard_time": 1774009823,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 70669,
@@ -451,6 +451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51507,
+      "num": 52694,
+      "word": "爷爷酒后多次用力掌掴幼儿",
+      "onboard_time": 1774012522,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51356,
       "num": 52699,
       "word": "你好星期六",
@@ -467,12 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44344,
-      "num": 52694,
-      "word": "爷爷酒后多次用力掌掴幼儿",
-      "onboard_time": 1774012522,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 43676,
+      "num": 43676,
+      "word": "谢征给樊长玉脖子亲出吻痕",
+      "onboard_time": 1774028057,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36129,
+      "num": 27563,
+      "word": "黄金白银瀑布式下跌",
+      "onboard_time": 1774033753,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 36081,
@@ -483,15 +499,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34859,
-      "num": 43043,
-      "word": "谢征给樊长玉脖子亲出吻痕",
-      "onboard_time": 1774028057,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 28696,
+      "raw_hot": 30679,
       "num": 43035,
       "word": "被宝妈劝阻吸烟情绪失控游客已道歉",
       "onboard_time": 1774027337,
@@ -507,20 +515,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 28298,
-      "num": 26929,
-      "word": "黄金白银瀑布式下跌",
-      "onboard_time": 1774033753,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 27603,
       "num": 86712,
       "word": "LYON对战JDG",
       "onboard_time": 1774022421,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26605,
+      "num": 26605,
+      "word": "刘宇宁出席上海迪士尼生日庆典",
+      "onboard_time": 1774038133,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 26053,
@@ -539,40 +547,32 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22217,
-      "num": 22217,
-      "word": "刘宇宁出席上海迪士尼生日庆典",
-      "onboard_time": 1774038133,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20555,
-      "num": 21419,
+      "num": 26601,
       "word": "上海迪士尼10岁生日庆典主题曲",
       "onboard_time": 1774035074,
       "rank": 25,
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 15530,
-      "num": 25450,
-      "word": "苏新皓散落的华服舞台",
-      "onboard_time": 1774013663,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15413,
-      "num": 21414,
+      "raw_hot": 19855,
+      "num": 26602,
       "word": "濮院高定时尚周",
       "onboard_time": 1774006281,
       "rank": 46,
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 15009,
-      "num": 21412,
+      "raw_hot": 15530,
+      "num": 26597,
+      "word": "苏新皓散落的华服舞台",
+      "onboard_time": 1774013663,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15011,
+      "num": 26598,
       "word": "易烊千玺CMG年度剧情电影男演员",
       "onboard_time": 1774023200,
       "rank": 47,
