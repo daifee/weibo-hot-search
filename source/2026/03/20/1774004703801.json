@@ -1,0 +1,410 @@
+{
+  "runTime": 1774004703801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 352595,
+        "num": 1056415,
+        "word": "前员工爆料海底捞高层点炮制度",
+        "onboard_time": 1774003160,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285409,
+        "num": 787221,
+        "word": "释永信涉嫌4项罪名",
+        "onboard_time": 1773998241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55549,
+        "num": 616228,
+        "word": "二月二最硬核龙抬头",
+        "onboard_time": 1773992781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243357,
+        "num": 243357,
+        "word": "奥恰洛夫说樊振东不参加世乒赛",
+        "onboard_time": 1774000460,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210289,
+        "num": 210289,
+        "word": "女子买8套老破小月收租2.1万",
+        "onboard_time": 1773991703,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362649,
+        "num": 205896,
+        "word": "刘轩丞新剧镜头被删",
+        "onboard_time": 1774000102,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277308,
+        "num": 201496,
+        "word": "逐玉",
+        "onboard_time": 1774001180,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169913,
+        "num": 169913,
+        "word": "伊朗伊斯兰革命卫队发言人身亡",
+        "onboard_time": 1773993501,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248794,
+        "num": 168079,
+        "word": "张子枫 希腊神女",
+        "onboard_time": 1774000041,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165121,
+        "num": 165121,
+        "word": "新任印度驻华大使取了个中国名字",
+        "onboard_time": 1773999682,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343236,
+        "num": 164561,
+        "word": "双休但不是休周末的工作",
+        "onboard_time": 1773999261,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233553,
+        "num": 161288,
+        "word": "对一块钱的概念越来越模糊",
+        "onboard_time": 1774002561,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224400,
+        "num": 160572,
+        "word": "高市早苗嘲笑拜登照片",
+        "onboard_time": 1773995902,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215102,
+        "num": 157609,
+        "word": "樊长玉草莓印",
+        "onboard_time": 1774003822,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197941,
+        "num": 155964,
+        "word": "铁路通报女子月经弄脏卧铺事件",
+        "onboard_time": 1773989901,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 155417,
+        "num": 155417,
+        "word": "一种很新的减肥方法",
+        "onboard_time": 1774002624,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42066,
+        "num": 154011,
+        "word": "全网迪士尼朋友都在跳",
+        "onboard_time": 1774001242,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 153570,
+        "num": 153570,
+        "word": "怪不得爸妈要各一间卧室",
+        "onboard_time": 1773998121,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133574,
+        "num": 133574,
+        "word": "发型易容术",
+        "onboard_time": 1773996200,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 32283,
+        "num": 133382,
+        "word": "全球航运又一大动脉拉响警报",
+        "onboard_time": 1774004361,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1591748,
+        "num": 132496,
+        "word": "孟佳开撕品牌方",
+        "onboard_time": 1773999800,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443096,
+        "num": 131348,
+        "word": "张凌赫工作室 拍出了张凌赫的死角",
+        "onboard_time": 1773994521,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122329,
+        "num": 130900,
+        "word": "妈妈瞒着病重女儿偷偷看最后一眼",
+        "onboard_time": 1773998662,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195630,
+        "num": 129937,
+        "word": "胡先煦这么瘦了",
+        "onboard_time": 1773998601,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129147,
+        "num": 129147,
+        "word": "薛之谦广州演唱会",
+        "onboard_time": 1774003040,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121639,
+        "num": 127026,
+        "word": "金价还要跌多久",
+        "onboard_time": 1774003401,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239310,
+        "num": 126999,
+        "word": "孟佳品牌方 盖娅传说",
+        "onboard_time": 1774003521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125626,
+        "num": 125626,
+        "word": "曝王一博乐华续约",
+        "onboard_time": 1773987562,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110431,
+        "num": 124770,
+        "word": "重庆市长胡衡华被查",
+        "onboard_time": 1773986842,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124065,
+        "num": 124065,
+        "word": "迪丽热巴红衣女鬼塑",
+        "onboard_time": 1773985223,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121540,
+        "num": 121540,
+        "word": "吾恩 肠梗阻",
+        "onboard_time": 1774003459,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101150,
+        "num": 101150,
+        "word": "特朗普全程高能高市被晾一边",
+        "onboard_time": 1774001962,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101939,
+        "num": 101101,
+        "word": "曝AI短剧使用杨紫的脸",
+        "onboard_time": 1773992242,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100176,
+        "num": 100176,
+        "word": "李维嘉崩溃大哭到无法主持",
+        "onboard_time": 1773984561,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94992,
+        "num": 99744,
+        "word": "伊朗称渴望实战中给美军舰沉重一击",
+        "onboard_time": 1774002140,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99318,
+        "num": 99318,
+        "word": "张桂源上网才知道自己成田赫之子了",
+        "onboard_time": 1774003401,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98897,
+        "num": 98897,
+        "word": "网易严选 玩梗",
+        "onboard_time": 1773992121,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74429,
+        "num": 88468,
+        "word": "33岁抗癌博主阿润离世",
+        "onboard_time": 1773991823,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82352,
+        "num": 82352,
+        "word": "马頔说有李纯后不单纯了",
+        "onboard_time": 1773998662,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19014,
+        "num": 81904,
+        "word": "网友呼吁共享单车换回机械锁",
+        "onboard_time": 1774004422,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81589,
+        "num": 81589,
+        "word": "迪丽热巴起诉AI换脸短剧胜诉",
+        "onboard_time": 1774001541,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76446,
+        "num": 76446,
+        "word": "BTS回归",
+        "onboard_time": 1773980121,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73899,
+        "num": 73899,
+        "word": "金价大跌金店迎新人五金抄底小高峰",
+        "onboard_time": 1774001781,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74679,
+        "num": 73603,
+        "word": "魏大勋回应被骂综艺咖",
+        "onboard_time": 1774003702,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72630,
+        "num": 72630,
+        "word": "留几手听到葛夕官宣恋情后的反应",
+        "onboard_time": 1773994281,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67940,
+        "num": 67940,
+        "word": "江浙沪与珠三角的生活态度差异",
+        "onboard_time": 1774001721,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71578,
+        "num": 67877,
+        "word": "单依纯 维密",
+        "onboard_time": 1773979041,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66284,
+        "num": 66284,
+        "word": "GEN刷新最快BO5记录",
+        "onboard_time": 1774004302,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64866,
+        "num": 64866,
+        "word": "腾讯包场白日提灯",
+        "onboard_time": 1773994402,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62785,
+        "num": 62785,
+        "word": "田曦薇经纪人给张凌赫拍的吗",
+        "onboard_time": 1773998300,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记推动海洋经济发展的大思路#"
+    }
+  }
+}

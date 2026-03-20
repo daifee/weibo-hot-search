@@ -1,10 +1,10 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1774003699068,
+  "endTime": 1774004703801,
   "band_list": [
     {
       "raw_hot": 1698671,
-      "num": 104077,
+      "num": 132496,
       "word": "孟佳开撕品牌方",
       "onboard_time": 1773999800,
       "rank": 26,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 532849,
-      "num": 144726,
+      "num": 164561,
       "word": "双休但不是休周末的工作",
       "onboard_time": 1773999261,
       "rank": 12,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 491876,
-      "num": 155744,
+      "num": 160572,
       "word": "高市早苗嘲笑拜登照片",
       "onboard_time": 1773995902,
       "rank": 15,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 362427,
-      "num": 131501,
+      "num": 153570,
       "word": "怪不得爸妈要各一间卧室",
       "onboard_time": 1773998121,
       "rank": 11,
@@ -305,6 +305,14 @@
       "onboard_time": 1773987562,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352595,
+      "num": 1056415,
+      "word": "前员工爆料海底捞高层点炮制度",
+      "onboard_time": 1774003160,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334096,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 284531,
-      "num": 102237,
+      "num": 129937,
       "word": "胡先煦这么瘦了",
       "onboard_time": 1773998601,
       "rank": 24,
@@ -523,6 +531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239310,
+      "num": 126999,
+      "word": "孟佳品牌方 盖娅传说",
+      "onboard_time": 1774003521,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238856,
       "num": 193807,
       "word": "大冰分享自己4个月减50斤的经验",
@@ -545,6 +561,14 @@
       "onboard_time": 1773996200,
       "rank": 8,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 233553,
+      "num": 161288,
+      "word": "对一块钱的概念越来越模糊",
+      "onboard_time": 1774002561,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 225200,
@@ -585,6 +609,14 @@
       "onboard_time": 1773999682,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 215102,
+      "num": 157609,
+      "word": "樊长玉草莓印",
+      "onboard_time": 1774003822,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 214528,
@@ -681,14 +713,6 @@
       "onboard_time": 1773971720,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 189593,
-      "num": 100170,
-      "word": "孟佳品牌方 盖娅传说",
-      "onboard_time": 1774003521,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 187213,
@@ -827,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155417,
+      "num": 155417,
+      "word": "一种很新的减肥方法",
+      "onboard_time": 1774002624,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154630,
       "num": 154630,
       "word": "黄金",
@@ -892,7 +924,7 @@
     },
     {
       "raw_hot": 139885,
-      "num": 96027,
+      "num": 127026,
       "word": "金价还要跌多久",
       "onboard_time": 1774003401,
       "rank": 30,
@@ -916,7 +948,7 @@
     },
     {
       "raw_hot": 135298,
-      "num": 103204,
+      "num": 130900,
       "word": "妈妈瞒着病重女儿偷偷看最后一眼",
       "onboard_time": 1773998662,
       "rank": 22,
@@ -995,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129147,
+      "num": 129147,
+      "word": "薛之谦广州演唱会",
+      "onboard_time": 1774003040,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129024,
       "num": 156588,
       "word": "你好1983 市长爱上离婚带娃的她",
@@ -1027,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124459,
-      "num": 124459,
-      "word": "一种很新的减肥方法",
-      "onboard_time": 1774002624,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 124138,
       "num": 104833,
       "word": "台湾发生双尸案",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1773986720,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121540,
+      "num": 121540,
+      "word": "吾恩 肠梗阻",
+      "onboard_time": 1774003459,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 120726,
@@ -1163,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105910,
-      "num": 105910,
-      "word": "对一块钱的概念越来越模糊",
-      "onboard_time": 1774002561,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105637,
       "num": 103375,
       "word": "女子玩笑称买5000克黄金当存钱",
@@ -1219,20 +1251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101150,
+      "num": 101150,
+      "word": "特朗普全程高能高市被晾一边",
+      "onboard_time": 1774001962,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101037,
       "num": 101037,
       "word": "张译张小斐担任天坛奖评委",
       "onboard_time": 1773973820,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 99879,
-      "num": 99879,
-      "word": "薛之谦广州演唱会",
-      "onboard_time": 1774003040,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 99529,
@@ -1251,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99318,
+      "num": 99318,
+      "word": "张桂源上网才知道自己成田赫之子了",
+      "onboard_time": 1774003401,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98889,
       "num": 84166,
       "word": "田曦薇经纪人给张凌赫拍的吗",
@@ -1265,14 +1305,6 @@
       "onboard_time": 1773982342,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98325,
-      "num": 98325,
-      "word": "特朗普全程高能高市被晾一边",
-      "onboard_time": 1774001962,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97665,
@@ -1483,6 +1515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 81589,
+      "num": 81589,
+      "word": "迪丽热巴起诉AI换脸短剧胜诉",
+      "onboard_time": 1774001541,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81467,
       "num": 81466,
       "word": "种地吧",
@@ -1521,14 +1561,6 @@
       "onboard_time": 1773973221,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79282,
-      "num": 79282,
-      "word": "迪丽热巴起诉AI换脸短剧胜诉",
-      "onboard_time": 1774001541,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 79069,
@@ -1619,14 +1651,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 75756,
-      "num": 74356,
-      "word": "吾恩 肠梗阻",
-      "onboard_time": 1774003459,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 75540,
       "num": 75540,
       "word": "小米发布会",
@@ -1681,6 +1705,14 @@
       "onboard_time": 1773992721,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74679,
+      "num": 73603,
+      "word": "魏大勋回应被骂综艺咖",
+      "onboard_time": 1774003702,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 74498,
@@ -1843,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67940,
+      "num": 67940,
+      "word": "江浙沪与珠三角的生活态度差异",
+      "onboard_time": 1774001721,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67858,
       "num": 67858,
       "word": "17岁的Angelababy",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1773982822,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66284,
+      "num": 66284,
+      "word": "GEN刷新最快BO5记录",
+      "onboard_time": 1774004302,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 66218,
@@ -2259,8 +2307,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41762,
-      "num": 105682,
+      "raw_hot": 42066,
+      "num": 154011,
       "word": "全网迪士尼朋友都在跳",
       "onboard_time": 1774001242,
       "rank": 18,
@@ -2299,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32283,
+      "num": 133382,
+      "word": "全球航运又一大动脉拉响警报",
+      "onboard_time": 1774004361,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30580,
       "num": 85426,
       "word": "王勉第一次见马頔就被骂了",
@@ -2320,14 +2376,6 @@
       "word": "路虎别停奔驰致追尾涉刑事案件",
       "onboard_time": 1773914781,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27994,
-      "num": 104585,
-      "word": "前员工爆料海底捞高层点炮制度",
-      "onboard_time": 1774003160,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2377,6 +2425,14 @@
       "onboard_time": 1773925402,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19014,
+      "num": 81904,
+      "word": "网友呼吁共享单车换回机械锁",
+      "onboard_time": 1774004422,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18657,
