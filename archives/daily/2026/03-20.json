@@ -1,6 +1,6 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1773986367891,
+  "endTime": 1773987194107,
   "band_list": [
     {
       "raw_hot": 1222264,
@@ -49,6 +49,14 @@
       "onboard_time": 1773935002,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 674073,
+      "num": 542450,
+      "word": "李维嘉崩溃大哭到无法主持",
+      "onboard_time": 1773984561,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 659112,
@@ -163,14 +171,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 415482,
-      "num": 478744,
-      "word": "李维嘉崩溃大哭到无法主持",
-      "onboard_time": 1773984561,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408364,
       "num": 408364,
       "word": "言承旭提词器",
@@ -185,6 +185,14 @@
       "onboard_time": 1773933382,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331435,
+      "num": 770757,
+      "word": "重庆市长胡衡华被查",
+      "onboard_time": 1773986842,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 314061,
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249212,
+      "num": 220477,
+      "word": "42岁婆婆刚给儿子娶完媳妇就怀孕了",
+      "onboard_time": 1773984501,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245966,
       "num": 103681,
       "word": "以方暂停空袭伊朗能源设施",
@@ -355,20 +371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 220477,
-      "num": 220477,
-      "word": "42岁婆婆刚给儿子娶完媳妇就怀孕了",
-      "onboard_time": 1773984501,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 218423,
       "num": 110085,
       "word": "瞿颖香奈儿老了还是香奈儿",
       "onboard_time": 1773924502,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215293,
+      "num": 220664,
+      "word": "男子花350万元抄底7套天津老破小",
+      "onboard_time": 1773985160,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214528,
@@ -481,6 +497,14 @@
       "onboard_time": 1773962057,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 172876,
+      "num": 228762,
+      "word": "世界最长跨海大桥要来了",
+      "onboard_time": 1773982941,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170595,
@@ -667,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129461,
+      "num": 220857,
+      "word": "高市见特朗普时逞强说英语",
+      "onboard_time": 1773984381,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128287,
       "num": 103625,
       "word": "金银暴跌原因找到了",
@@ -704,14 +736,6 @@
       "word": "泡泡玛特回应7年前买的盲盒才发货",
       "onboard_time": 1773973159,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118334,
-      "num": 228762,
-      "word": "世界最长跨海大桥要来了",
-      "onboard_time": 1773982941,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -761,6 +785,14 @@
       "onboard_time": 1773970461,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108700,
+      "num": 108700,
+      "word": "BTS正规五辑销量",
+      "onboard_time": 1773987081,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 106904,
@@ -843,12 +875,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96785,
+      "num": 96785,
+      "word": "大张伟拒绝付航微信申请",
+      "onboard_time": 1773985942,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95895,
       "num": 95895,
       "word": "湖人vs热火",
       "onboard_time": 1773966140,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95877,
+      "num": 124403,
+      "word": "鼻炎其实就是鼻子成精了",
+      "onboard_time": 1773986720,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 95291,
@@ -867,20 +915,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93823,
+      "num": 117268,
+      "word": "男子缆车吸烟被劝阻后情绪失控",
+      "onboard_time": 1773984381,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91890,
       "num": 91890,
       "word": "美向中东三国提供165亿美元军售",
       "onboard_time": 1773972860,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 91269,
-      "num": 82921,
-      "word": "大张伟拒绝付航微信申请",
-      "onboard_time": 1773985942,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 89474,
@@ -897,14 +945,6 @@
       "onboard_time": 1773981741,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 88382,
-      "num": 220857,
-      "word": "高市见特朗普时逞强说英语",
-      "onboard_time": 1773984381,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87689,
@@ -1067,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 72835,
+      "num": 96322,
+      "word": "A股正泰电源涨停",
+      "onboard_time": 1773986902,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72616,
       "num": 72616,
       "word": "菠萝族长在售卖他的族人",
@@ -1099,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71654,
-      "num": 117268,
-      "word": "男子缆车吸烟被劝阻后情绪失控",
-      "onboard_time": 1773984381,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71391,
       "num": 71391,
       "word": "特朗普将袭击伊朗比作偷袭珍珠港",
@@ -1132,7 +1172,7 @@
     },
     {
       "raw_hot": 69964,
-      "num": 69964,
+      "num": 95095,
       "word": "16岁狗狗患老年痴呆被猫猫照顾",
       "onboard_time": 1773985044,
       "rank": 38,
@@ -1148,7 +1188,7 @@
     },
     {
       "raw_hot": 68568,
-      "num": 68568,
+      "num": 89936,
       "word": "这辈子就对得起这张嘴了",
       "onboard_time": 1773986062,
       "rank": 41,
@@ -1180,7 +1220,7 @@
     },
     {
       "raw_hot": 67672,
-      "num": 67672,
+      "num": 90381,
       "word": "马龙霍启刚对谈",
       "onboard_time": 1773984322,
       "rank": 43,
@@ -1219,19 +1259,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63544,
+      "num": 90848,
+      "word": "张若昀谈AI替代演员",
+      "onboard_time": 1773983303,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63053,
       "num": 63053,
       "word": "张凌赫直播",
       "onboard_time": 1773925341,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 62513,
-      "num": 62513,
-      "word": "张若昀谈AI替代演员",
-      "onboard_time": 1773983303,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1249,14 +1289,6 @@
       "onboard_time": 1773933981,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61455,
-      "num": 220664,
-      "word": "男子花350万元抄底7套天津老破小",
-      "onboard_time": 1773985160,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60814,
@@ -1280,6 +1312,22 @@
       "word": "樊长玉一句侯爷把谢征叫破防了",
       "onboard_time": 1773921142,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 57992,
+      "num": 88889,
+      "word": "手机涨价销售发声",
+      "onboard_time": 1773986720,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 57341,
+      "num": 89056,
+      "word": "你好1983口碑发酵",
+      "onboard_time": 1773981442,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1419,19 +1467,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35280,
+      "num": 220774,
+      "word": "吴磊舒服磊",
+      "onboard_time": 1773985160,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34152,
       "num": 112523,
       "word": "舒淇说放松也是一种能力",
       "onboard_time": 1773976281,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 33560,
-      "num": 220774,
-      "word": "吴磊舒服磊",
-      "onboard_time": 1773985160,
-      "rank": 18,
       "category": "艺人"
     },
     {
