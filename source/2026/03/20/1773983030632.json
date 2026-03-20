@@ -1,0 +1,410 @@
+{
+  "runTime": 1773983030632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 368246,
+        "num": 1058919,
+        "word": "你是迟来的欢喜定档",
+        "onboard_time": 1773976398,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206940,
+        "num": 762413,
+        "word": "南昌舰以一敌二逼退外舰细节公布",
+        "onboard_time": 1773972681,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 44220,
+        "num": 593016,
+        "word": "中国科学家培育出长寿水稻",
+        "onboard_time": 1773977361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287461,
+        "num": 588978,
+        "word": "让迪丽热巴演女鬼的简直是天才",
+        "onboard_time": 1773981621,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163629,
+        "num": 586583,
+        "word": "曝马斯克拟采购200亿中国光伏设备",
+        "onboard_time": 1773980781,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 586197,
+        "num": 586197,
+        "word": "手胖的人解释不清了",
+        "onboard_time": 1773979641,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207936,
+        "num": 581024,
+        "word": "白日提灯定档",
+        "onboard_time": 1773972740,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143384,
+        "num": 575573,
+        "word": "伊朗导弹击中以色列海法炼油厂",
+        "onboard_time": 1773940818,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127459,
+        "num": 572453,
+        "word": "A股第8只千元股",
+        "onboard_time": 1773976461,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127454,
+        "num": 561859,
+        "word": "32G内存涨了约3000元",
+        "onboard_time": 1773969740,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 884093,
+        "num": 556276,
+        "word": "葛夕被留几手气哭了",
+        "onboard_time": 1773979821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826085,
+        "num": 549095,
+        "word": "女子举报退休领导母亲名下巨额财产",
+        "onboard_time": 1773976760,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 547893,
+        "num": 547893,
+        "word": "迪丽热巴新经纪人郝阿三上岗了",
+        "onboard_time": 1773977060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436794,
+        "num": 436794,
+        "word": "BTS回归",
+        "onboard_time": 1773980121,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216471,
+        "num": 376218,
+        "word": "美军或夺岛迫伊朗开放霍尔木兹海峡",
+        "onboard_time": 1773978321,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 371618,
+        "num": 371618,
+        "word": "言承旭提词器",
+        "onboard_time": 1773977660,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210150,
+        "num": 368022,
+        "word": "喜欢吃蓝莓和炒饭的都沉默了",
+        "onboard_time": 1773977300,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186040,
+        "num": 364845,
+        "word": "孟羽童再上初入职场和董明珠说了",
+        "onboard_time": 1773969621,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138888,
+        "num": 360636,
+        "word": "小猴子石山玩耍不慎坠落身亡",
+        "onboard_time": 1773972140,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107121,
+        "num": 359993,
+        "word": "巴西女子嫁给布娃娃还连生4子",
+        "onboard_time": 1773964399,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 356536,
+        "num": 356536,
+        "word": "金价",
+        "onboard_time": 1773969081,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 289162,
+        "num": 289162,
+        "word": "单依纯 维密",
+        "onboard_time": 1773979041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223299,
+        "num": 223299,
+        "word": "山城小栗旬陈大榕结婚",
+        "onboard_time": 1773981022,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 200583,
+        "num": 200583,
+        "word": "女子每月痛经超20天求医生切子宫",
+        "onboard_time": 1773977119,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86037,
+        "num": 188427,
+        "word": "汉密尔顿离开中国的戒断反应",
+        "onboard_time": 1773982342,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177923,
+        "num": 177923,
+        "word": "原著谢征和长玉提了分手",
+        "onboard_time": 1773963799,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154353,
+        "num": 154353,
+        "word": "1岁幼儿睡前发现蜱虫钻进头皮在吸血",
+        "onboard_time": 1773980844,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147178,
+        "num": 147178,
+        "word": "痞幼回应为什么不跟梅尼耶在一起",
+        "onboard_time": 1773981382,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136801,
+        "num": 136801,
+        "word": "金泰亨镜头",
+        "onboard_time": 1773981982,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93358,
+        "num": 128017,
+        "word": "泡过胖东来馒头的水清澈见底",
+        "onboard_time": 1773972559,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122851,
+        "num": 122851,
+        "word": "女子罕见双子宫双阴道10年3次剖宫产",
+        "onboard_time": 1773966140,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32200,
+        "num": 107533,
+        "word": "青岛让善意成为流动的光",
+        "onboard_time": 1773979161,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 106020,
+        "num": 106020,
+        "word": "魏哲鸣今日定档两部剧",
+        "onboard_time": 1773979101,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89474,
+        "num": 89474,
+        "word": "田柾国好听",
+        "onboard_time": 1773982762,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86169,
+        "num": 89250,
+        "word": "人类幼崽电量耗尽",
+        "onboard_time": 1773981741,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89119,
+        "num": 89119,
+        "word": "檀健次 HooHoo的火热日常",
+        "onboard_time": 1773980303,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87941,
+        "num": 87941,
+        "word": "方圆自曝舍不得花钱",
+        "onboard_time": 1773979101,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81171,
+        "num": 87383,
+        "word": "阴阳师",
+        "onboard_time": 1773981501,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87062,
+        "num": 87062,
+        "word": "魏哲鸣体制内白月光杀回来了",
+        "onboard_time": 1773982042,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32452,
+        "num": 86136,
+        "word": "25岁女子牙疼口腔感染拖进ICU",
+        "onboard_time": 1773982822,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85670,
+        "num": 85670,
+        "word": "三亚辟谣戴军在当地潜水被摘面罩",
+        "onboard_time": 1773981082,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78348,
+        "num": 78348,
+        "word": "6国声明拟保障霍尔木兹海峡安全",
+        "onboard_time": 1773968481,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77882,
+        "num": 77882,
+        "word": "东契奇60分",
+        "onboard_time": 1773974902,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77628,
+        "num": 77628,
+        "word": "我谢征到底哪里做得不好",
+        "onboard_time": 1773981683,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72532,
+        "num": 72532,
+        "word": "原来流浪小狗也会觉得自己苦",
+        "onboard_time": 1773982883,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72162,
+        "num": 72162,
+        "word": "张小斐从影后到评委",
+        "onboard_time": 1773982581,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69306,
+        "num": 69306,
+        "word": "菠萝族长在售卖他的族人",
+        "onboard_time": 1773982282,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65381,
+        "num": 65381,
+        "word": "世界最长跨海大桥要来了",
+        "onboard_time": 1773982941,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65041,
+        "num": 65041,
+        "word": "一些含金量很高且后劲十足的书",
+        "onboard_time": 1773982460,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 64212,
+        "num": 64212,
+        "word": "在网吧看结构力学",
+        "onboard_time": 1773979821,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#一座古厝一份责任#"
+    }
+  }
+}

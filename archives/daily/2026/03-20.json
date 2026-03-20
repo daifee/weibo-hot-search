@@ -1,6 +1,6 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1773982477016,
+  "endTime": 1773983030632,
   "band_list": [
     {
       "raw_hot": 1222264,
@@ -27,7 +27,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 867701,
+      "raw_hot": 884093,
       "num": 867701,
       "word": "葛夕被留几手气哭了",
       "onboard_time": 1773979821,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 623121,
-      "num": 210061,
+      "num": 356536,
       "word": "金价",
       "onboard_time": 1773969081,
       "rank": 10,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 597732,
-      "num": 215572,
+      "num": 364845,
       "word": "孟羽童再上初入职场和董明珠说了",
       "onboard_time": 1773969621,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 586197,
+      "num": 988994,
+      "word": "手胖的人解释不清了",
+      "onboard_time": 1773979641,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 559177,
@@ -139,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408213,
-      "num": 988994,
-      "word": "手胖的人解释不清了",
-      "onboard_time": 1773979641,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 376505,
       "num": 133043,
       "word": "月经弄脏卧铺遭索赔女子称很愧疚",
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 290414,
-      "num": 209685,
+      "num": 289162,
       "word": "单依纯 维密",
       "onboard_time": 1773979041,
       "rank": 21,
@@ -192,6 +192,14 @@
       "word": "原著谢征和长玉提了分手",
       "onboard_time": 1773963799,
       "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 287461,
+      "num": 1022160,
+      "word": "让迪丽热巴演女鬼的简直是天才",
+      "onboard_time": 1773981621,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -276,19 +284,11 @@
     },
     {
       "raw_hot": 244104,
-      "num": 244104,
+      "num": 376218,
       "word": "美军或夺岛迫伊朗开放霍尔木兹海峡",
       "onboard_time": 1773978321,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 235843,
-      "num": 1022160,
-      "word": "让迪丽热巴演女鬼的简直是天才",
-      "onboard_time": 1773981621,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 225200,
@@ -297,6 +297,14 @@
       "onboard_time": 1773930202,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223299,
+      "num": 223299,
+      "word": "山城小栗旬陈大榕结婚",
+      "onboard_time": 1773981022,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 223115,
@@ -332,19 +340,11 @@
     },
     {
       "raw_hot": 210082,
-      "num": 217500,
+      "num": 359993,
       "word": "巴西女子嫁给布娃娃还连生4子",
       "onboard_time": 1773964399,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 209220,
-      "num": 209220,
-      "word": "山城小栗旬陈大榕结婚",
-      "onboard_time": 1773981022,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 208274,
@@ -451,6 +451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 163629,
+      "num": 947150,
+      "word": "曝马斯克拟采购200亿中国光伏设备",
+      "onboard_time": 1773980781,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161749,
       "num": 161749,
       "word": "泡过胖东来馒头的水清澈见底",
@@ -523,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147178,
+      "num": 147178,
+      "word": "痞幼回应为什么不跟梅尼耶在一起",
+      "onboard_time": 1773981382,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 144702,
       "num": 1014307,
       "word": "A股第8只千元股",
@@ -539,12 +555,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 135117,
-      "num": 947150,
-      "word": "曝马斯克拟采购200亿中国光伏设备",
-      "onboard_time": 1773980781,
-      "rank": 8,
-      "category": "互联网"
+      "raw_hot": 136801,
+      "num": 136801,
+      "word": "金泰亨镜头",
+      "onboard_time": 1773981982,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 134765,
@@ -619,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125028,
-      "num": 125028,
-      "word": "痞幼回应为什么不跟梅尼耶在一起",
-      "onboard_time": 1773981382,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 124138,
       "num": 104833,
       "word": "台湾发生双尸案",
@@ -641,14 +649,6 @@
       "onboard_time": 1773973159,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119693,
-      "num": 119693,
-      "word": "金泰亨镜头",
-      "onboard_time": 1773981982,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 116954,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 98768,
-      "num": 118649,
+      "num": 188427,
       "word": "汉密尔顿离开中国的戒断反应",
       "onboard_time": 1773982342,
       "rank": 29,
@@ -811,8 +811,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89474,
+      "num": 89474,
+      "word": "田柾国好听",
+      "onboard_time": 1773982762,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 89161,
-      "num": 89161,
+      "num": 89250,
       "word": "人类幼崽电量耗尽",
       "onboard_time": 1773981741,
       "rank": 39,
@@ -825,6 +833,14 @@
       "onboard_time": 1773961938,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87062,
+      "num": 87062,
+      "word": "魏哲鸣体制内白月光杀回来了",
+      "onboard_time": 1773982042,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 86703,
@@ -899,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77628,
+      "num": 77628,
+      "word": "我谢征到底哪里做得不好",
+      "onboard_time": 1773981683,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77614,
       "num": 77614,
       "word": "湖人8连胜",
@@ -963,12 +987,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72532,
+      "num": 72532,
+      "word": "原来流浪小狗也会觉得自己苦",
+      "onboard_time": 1773982883,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72417,
       "num": 72417,
       "word": "申裕斌甜蜜暴击",
       "onboard_time": 1773974239,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72162,
+      "num": 72162,
+      "word": "张小斐从影后到评委",
+      "onboard_time": 1773982581,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 71391,
@@ -993,22 +1033,6 @@
       "onboard_time": 1773971781,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 70799,
-      "num": 70799,
-      "word": "我谢征到底哪里做得不好",
-      "onboard_time": 1773981683,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 69263,
-      "num": 69263,
-      "word": "魏哲鸣体制内白月光杀回来了",
-      "onboard_time": 1773982042,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 69091,
@@ -1057,6 +1081,22 @@
       "onboard_time": 1773969381,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 65381,
+      "num": 65381,
+      "word": "世界最长跨海大桥要来了",
+      "onboard_time": 1773982941,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64212,
+      "num": 64212,
+      "word": "在网吧看结构力学",
+      "onboard_time": 1773979821,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 63053,
@@ -1211,7 +1251,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43713,
+      "raw_hot": 44220,
       "num": 1037279,
       "word": "中国科学家培育出长寿水稻",
       "onboard_time": 1773977361,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1773976281,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32452,
+      "num": 86136,
+      "word": "25岁女子牙疼口腔感染拖进ICU",
+      "onboard_time": 1773982822,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30274,
