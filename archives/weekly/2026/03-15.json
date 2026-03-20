@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774035822773,
+  "endTime": 1774036584456,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -5083,6 +5083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211028,
+      "num": 85646,
+      "word": "官方通报月经弄脏卧铺事件详情",
+      "onboard_time": 1774018763,
+      "rank": 40,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 211006,
       "num": 185038,
       "word": "钮钴禄Jennie",
@@ -5457,14 +5465,6 @@
       "onboard_time": 1773476361,
       "rank": 8,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 192185,
-      "num": 85646,
-      "word": "官方通报月经弄脏卧铺事件详情",
-      "onboard_time": 1774018763,
-      "rank": 40,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 192162,
@@ -16667,19 +16667,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27603,
+      "num": 86712,
+      "word": "LYON对战JDG",
+      "onboard_time": 1774022421,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 27232,
       "num": 60015,
       "word": "无双杨戬",
       "onboard_time": 1773850939,
       "rank": 46,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 26641,
-      "num": 86712,
-      "word": "LYON对战JDG",
-      "onboard_time": 1774022421,
-      "rank": 29,
       "category": "电竞"
     },
     {
