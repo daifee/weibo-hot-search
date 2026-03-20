@@ -1,6 +1,6 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1774019650323,
+  "endTime": 1774021985408,
   "band_list": [
     {
       "raw_hot": 1698671,
@@ -835,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206010,
+      "num": 762219,
+      "word": "直播间禁售13类食品新规今起实施",
+      "onboard_time": 1774020502,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199945,
       "num": 199945,
       "word": "瞿颖胡兵李静戴军孙浩团综",
@@ -969,6 +977,14 @@
       "onboard_time": 1773962057,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 174648,
+      "num": 201064,
+      "word": "高血压男子抿了一口啤酒后死亡",
+      "onboard_time": 1774016062,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172876,
@@ -1131,20 +1147,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143149,
+      "num": 203723,
+      "word": "小米汽车回应为何不公布大定数字",
+      "onboard_time": 1774017803,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 141844,
       "num": 141844,
       "word": "四川绵竹3.4级地震",
       "onboard_time": 1773998903,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 141517,
-      "num": 203723,
-      "word": "小米汽车回应为何不公布大定数字",
-      "onboard_time": 1774017803,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 139885,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1774005801,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118341,
+      "num": 118341,
+      "word": "章子怡高叶影后双黄蛋",
+      "onboard_time": 1774020442,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 116954,
@@ -1739,11 +1763,35 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93471,
+      "num": 129115,
+      "word": "72岁蔡正元入狱前最后直播",
+      "onboard_time": 1774019902,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 92353,
+      "num": 105717,
+      "word": "英雄联盟全球先锋赛",
+      "onboard_time": 1774020862,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91890,
       "num": 91890,
       "word": "美向中东三国提供165亿美元军售",
       "onboard_time": 1773972860,
       "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 90815,
+      "num": 96619,
+      "word": "伊朗动员穷人组织情报部门负责人身亡",
+      "onboard_time": 1774019242,
+      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -1753,14 +1801,6 @@
       "onboard_time": 1774007421,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 89590,
-      "num": 201064,
-      "word": "高血压男子抿了一口啤酒后死亡",
-      "onboard_time": 1774016062,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89474,
@@ -1787,6 +1827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88908,
+      "num": 88064,
+      "word": "马丽感谢沈腾",
+      "onboard_time": 1774020323,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 87689,
       "num": 87689,
       "word": "龙抬头",
@@ -1801,6 +1849,14 @@
       "onboard_time": 1773995902,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 87251,
+      "num": 87251,
+      "word": "为什么生物地理会被踢出中考计分",
+      "onboard_time": 1774020442,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 87062,
@@ -1987,20 +2043,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79746,
+      "num": 79746,
+      "word": "入坑李卿",
+      "onboard_time": 1774018823,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79616,
       "num": 79616,
       "word": "谢征 你为什么要说杀猪养我",
       "onboard_time": 1773973221,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79575,
-      "num": 79575,
-      "word": "伊朗动员穷人组织情报部门负责人身亡",
-      "onboard_time": 1774019242,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79069,
@@ -2033,6 +2089,14 @@
       "onboard_time": 1773981442,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78188,
+      "num": 79744,
+      "word": "Steam春促",
+      "onboard_time": 1774020081,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 77859,
@@ -2116,7 +2180,7 @@
     },
     {
       "raw_hot": 75718,
-      "num": 75718,
+      "num": 79720,
       "word": "最强大脑",
       "onboard_time": 1774015942,
       "rank": 49,
@@ -2172,7 +2236,7 @@
     },
     {
       "raw_hot": 75044,
-      "num": 75044,
+      "num": 79709,
       "word": "俄罗斯向以色列提抗议",
       "onboard_time": 1774018523,
       "rank": 47,
@@ -2513,6 +2577,14 @@
       "onboard_time": 1773987501,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 64287,
+      "num": 79690,
+      "word": "G2对战BFX",
+      "onboard_time": 1774014383,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 64212,
@@ -3003,7 +3075,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26775,
+      "raw_hot": 28107,
       "num": 628540,
       "word": "沙某编造传播涉科大讯飞网络谣言被拘",
       "onboard_time": 1774009161,

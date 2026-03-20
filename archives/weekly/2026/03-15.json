@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774019650323,
+  "endTime": 1774021985408,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -5187,6 +5187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206010,
+      "num": 762219,
+      "word": "直播间禁售13类食品新规今起实施",
+      "onboard_time": 1774020502,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205434,
       "num": 205434,
       "word": "村民挖出长指甲盖的手掌山药",
@@ -6017,6 +6025,14 @@
       "onboard_time": 1773499043,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174648,
+      "num": 201064,
+      "word": "高血压男子抿了一口啤酒后死亡",
+      "onboard_time": 1774016062,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174543,
@@ -7107,6 +7123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143149,
+      "num": 203723,
+      "word": "小米汽车回应为何不公布大定数字",
+      "onboard_time": 1774017803,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142942,
       "num": 142942,
       "word": "陈梦看F1晒照",
@@ -7177,14 +7201,6 @@
       "onboard_time": 1773998903,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 141517,
-      "num": 203723,
-      "word": "小米汽车回应为何不公布大定数字",
-      "onboard_time": 1774017803,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 141291,
@@ -8433,6 +8449,14 @@
       "onboard_time": 1773755423,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118341,
+      "num": 118341,
+      "word": "章子怡高叶影后双黄蛋",
+      "onboard_time": 1774020442,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 118266,
@@ -10619,6 +10643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93471,
+      "num": 129115,
+      "word": "72岁蔡正元入狱前最后直播",
+      "onboard_time": 1774019902,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93464,
       "num": 93464,
       "word": "谢谢AI成功让我笑了出来",
@@ -10737,6 +10769,14 @@
       "onboard_time": 1773798980,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 92353,
+      "num": 105717,
+      "word": "英雄联盟全球先锋赛",
+      "onboard_time": 1773674243,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 92337,
@@ -10915,6 +10955,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 90815,
+      "num": 96619,
+      "word": "伊朗动员穷人组织情报部门负责人身亡",
+      "onboard_time": 1774019242,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90756,
       "num": 100294,
       "word": "金价陷入调整期",
@@ -11019,14 +11067,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 89590,
-      "num": 201064,
-      "word": "高血压男子抿了一口啤酒后死亡",
-      "onboard_time": 1774016062,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89587,
       "num": 89587,
       "word": "21岁男生习惯整吞瓜子致肠穿孔",
@@ -11113,6 +11153,14 @@
       "onboard_time": 1773889821,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88908,
+      "num": 88064,
+      "word": "马丽感谢沈腾",
+      "onboard_time": 1774020323,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 88905,
@@ -11329,6 +11377,14 @@
       "onboard_time": 1773886461,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87251,
+      "num": 87251,
+      "word": "为什么生物地理会被踢出中考计分",
+      "onboard_time": 1774020442,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 87240,
@@ -12411,6 +12467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 79746,
+      "num": 79746,
+      "word": "入坑李卿",
+      "onboard_time": 1774018823,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79729,
       "num": 132817,
       "word": "原来你就是武安侯",
@@ -12433,14 +12497,6 @@
       "onboard_time": 1773745221,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79575,
-      "num": 79575,
-      "word": "伊朗动员穷人组织情报部门负责人身亡",
-      "onboard_time": 1774019242,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79549,
@@ -12593,6 +12649,14 @@
       "onboard_time": 1773981442,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78188,
+      "num": 79744,
+      "word": "Steam春促",
+      "onboard_time": 1774020081,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 78030,
@@ -12964,7 +13028,7 @@
     },
     {
       "raw_hot": 75718,
-      "num": 75718,
+      "num": 79720,
       "word": "最强大脑",
       "onboard_time": 1774015942,
       "rank": 49,
@@ -13068,7 +13132,7 @@
     },
     {
       "raw_hot": 75044,
-      "num": 75044,
+      "num": 79709,
       "word": "俄罗斯向以色列提抗议",
       "onboard_time": 1774018523,
       "rank": 47,
@@ -14345,6 +14409,14 @@
       "onboard_time": 1773741681,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 64287,
+      "num": 79690,
+      "word": "G2对战BFX",
+      "onboard_time": 1774014383,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 64212,
@@ -16467,20 +16539,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28107,
+      "num": 628540,
+      "word": "沙某编造传播涉科大讯飞网络谣言被拘",
+      "onboard_time": 1774009161,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27232,
       "num": 60015,
       "word": "无双杨戬",
       "onboard_time": 1773850939,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 26775,
-      "num": 628540,
-      "word": "沙某编造传播涉科大讯飞网络谣言被拘",
-      "onboard_time": 1774009161,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26176,
@@ -17121,14 +17193,6 @@
       "onboard_time": 1773913223,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16131,
-      "num": 21244,
-      "word": "英雄联盟全球先锋赛",
-      "onboard_time": 1773674243,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 15893,

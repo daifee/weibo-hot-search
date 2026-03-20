@@ -1,0 +1,410 @@
+{
+  "runTime": 1774021985408,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 316136,
+        "num": 1050581,
+        "word": "好想来上架山姆零食",
+        "onboard_time": 1774010182,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206010,
+        "num": 762219,
+        "word": "直播间禁售13类食品新规今起实施",
+        "onboard_time": 1774020502,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28107,
+        "num": 626471,
+        "word": "沙某编造传播涉科大讯飞网络谣言被拘",
+        "onboard_time": 1774009161,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 818572,
+        "num": 525731,
+        "word": "章子怡脸咋了",
+        "onboard_time": 1774010182,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231744,
+        "num": 231744,
+        "word": "母亲带女儿买鞋在店门口犹豫半小时",
+        "onboard_time": 1774014563,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195408,
+        "num": 195408,
+        "word": "丁彦雨航退役",
+        "onboard_time": 1774017682,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174648,
+        "num": 174648,
+        "word": "高血压男子抿了一口啤酒后死亡",
+        "onboard_time": 1774016062,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165370,
+        "num": 165370,
+        "word": "薛之谦广州演唱会",
+        "onboard_time": 1774003040,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143149,
+        "num": 164601,
+        "word": "小米汽车回应为何不公布大定数字",
+        "onboard_time": 1774017803,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124869,
+        "num": 163730,
+        "word": "伊朗发动第67波攻势",
+        "onboard_time": 1774011082,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 551975,
+        "num": 163269,
+        "word": "papi酱又给内娱指了条明路",
+        "onboard_time": 1774009823,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462614,
+        "num": 161419,
+        "word": "迪丽热巴迪奥活动直拍",
+        "onboard_time": 1774006161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235345,
+        "num": 160802,
+        "word": "外网也意识到韩国偷文化了",
+        "onboard_time": 1774004961,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205634,
+        "num": 160118,
+        "word": "铁路通报女子月经弄脏卧铺事件",
+        "onboard_time": 1773989901,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 204588,
+        "num": 158121,
+        "word": "日本网友评价高市早苗访美视频",
+        "onboard_time": 1774014622,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158032,
+        "num": 158032,
+        "word": "对一块钱的概念越来越模糊",
+        "onboard_time": 1774002561,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195551,
+        "num": 157362,
+        "word": "迪丽热巴 女王回归",
+        "onboard_time": 1774007303,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154766,
+        "num": 154766,
+        "word": "范丞丞四天减脂餐对比",
+        "onboard_time": 1774013242,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150577,
+        "num": 150577,
+        "word": "七旬老人呼吸困难自行拿剪刀捅胸",
+        "onboard_time": 1774011742,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139526,
+        "num": 139526,
+        "word": "逐玉",
+        "onboard_time": 1774001180,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385557,
+        "num": 138093,
+        "word": "孟佳开撕品牌方",
+        "onboard_time": 1773999800,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93471,
+        "num": 129115,
+        "word": "72岁蔡正元入狱前最后直播",
+        "onboard_time": 1774019902,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128940,
+        "num": 128940,
+        "word": "王橹杰爱柠檬",
+        "onboard_time": 1774013362,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118341,
+        "num": 118341,
+        "word": "章子怡高叶影后双黄蛋",
+        "onboard_time": 1774020442,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92353,
+        "num": 105717,
+        "word": "英雄联盟全球先锋赛",
+        "onboard_time": 1774020862,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105104,
+        "num": 105104,
+        "word": "杨幂清唱讲真的",
+        "onboard_time": 1774014502,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104761,
+        "num": 104761,
+        "word": "张凌赫工作室 拍出了张凌赫的死角",
+        "onboard_time": 1773994521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90815,
+        "num": 96619,
+        "word": "伊朗动员穷人组织情报部门负责人身亡",
+        "onboard_time": 1774019242,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93622,
+        "num": 93622,
+        "word": "刘昊然易烊千玺CMG双黄蛋",
+        "onboard_time": 1774014863,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91295,
+        "num": 91295,
+        "word": "THE9出道组现状",
+        "onboard_time": 1774010303,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88100,
+        "num": 88100,
+        "word": "31岁女子确诊重度牙周病不敢随便笑",
+        "onboard_time": 1774017742,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88908,
+        "num": 88064,
+        "word": "马丽感谢沈腾",
+        "onboard_time": 1774020323,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87338,
+        "num": 87338,
+        "word": "肖战深V黑西装live",
+        "onboard_time": 1774016242,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87251,
+        "num": 87251,
+        "word": "为什么生物地理会被踢出中考计分",
+        "onboard_time": 1774020442,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83190,
+        "num": 83190,
+        "word": "大人饭量和小孩饭量真的不一样",
+        "onboard_time": 1774013782,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83186,
+        "num": 83186,
+        "word": "周冬雨穿自己淘的裙子走红毯",
+        "onboard_time": 1774009823,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82480,
+        "num": 82480,
+        "word": "DIOR活动",
+        "onboard_time": 1774010961,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 79863,
+        "num": 79863,
+        "word": "前员工爆料海底捞高层点炮制度",
+        "onboard_time": 1774003160,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79746,
+        "num": 79746,
+        "word": "入坑李卿",
+        "onboard_time": 1774018823,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78188,
+        "num": 79744,
+        "word": "Steam春促",
+        "onboard_time": 1774020081,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67649,
+        "num": 79737,
+        "word": "伊朗问美国为何不敢让航母靠近",
+        "onboard_time": 1774015523,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66419,
+        "num": 79720,
+        "word": "最强大脑",
+        "onboard_time": 1774015942,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67310,
+        "num": 79709,
+        "word": "俄罗斯向以色列提抗议",
+        "onboard_time": 1774018523,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65908,
+        "num": 79702,
+        "word": "爷爷酒后多次用力掌掴幼儿",
+        "onboard_time": 1774012522,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64287,
+        "num": 79690,
+        "word": "G2对战BFX",
+        "onboard_time": 1774014383,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63903,
+        "num": 79689,
+        "word": "cmg中国电影荣誉名单",
+        "onboard_time": 1774016543,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61742,
+        "num": 79679,
+        "word": "金泰亨田柾国合体综艺",
+        "onboard_time": 1774016182,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61509,
+        "num": 79665,
+        "word": "国际金银又跌了",
+        "onboard_time": 1774019423,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58927,
+        "num": 79659,
+        "word": "谢征拒绝赐婚",
+        "onboard_time": 1774008561,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39277,
+        "num": 79649,
+        "word": "江苏男篮绝杀广东男篮",
+        "onboard_time": 1774017682,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为民出政绩实干出政绩#"
+    }
+  }
+}
