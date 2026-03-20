@@ -1,6 +1,6 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1773987194107,
+  "endTime": 1773990508828,
   "band_list": [
     {
       "raw_hot": 1222264,
@@ -17,6 +17,14 @@
       "onboard_time": 1773972740,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 937474,
+      "num": 1149995,
+      "word": "重庆市长胡衡华被查",
+      "onboard_time": 1773986842,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 915778,
@@ -51,7 +59,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 674073,
+      "raw_hot": 683558,
       "num": 542450,
       "word": "李维嘉崩溃大哭到无法主持",
       "onboard_time": 1773984561,
@@ -187,12 +195,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 331435,
-      "num": 770757,
-      "word": "重庆市长胡衡华被查",
-      "onboard_time": 1773986842,
-      "rank": 1,
-      "category": "国内时政"
+      "raw_hot": 357548,
+      "num": 201674,
+      "word": "曝王一博乐华续约",
+      "onboard_time": 1773987562,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 334096,
+      "num": 854775,
+      "word": "男子花350万元抄底7套天津老破小",
+      "onboard_time": 1773985160,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330270,
+      "num": 158140,
+      "word": "A股",
+      "onboard_time": 1773974301,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 314061,
@@ -323,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257289,
+      "num": 257289,
+      "word": "男子缆车吸烟被劝阻后情绪失控",
+      "onboard_time": 1773984381,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249212,
       "num": 220477,
       "word": "42岁婆婆刚给儿子娶完媳妇就怀孕了",
@@ -345,6 +377,22 @@
       "onboard_time": 1773978321,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 238856,
+      "num": 97029,
+      "word": "大冰分享自己4个月减50斤的经验",
+      "onboard_time": 1773989181,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 238271,
+      "num": 121234,
+      "word": "夏弃疾拍的热巴陈飞宇",
+      "onboard_time": 1773987382,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 225200,
@@ -377,14 +425,6 @@
       "onboard_time": 1773924502,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 215293,
-      "num": 220664,
-      "word": "男子花350万元抄底7套天津老破小",
-      "onboard_time": 1773985160,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214528,
@@ -500,7 +540,7 @@
     },
     {
       "raw_hot": 172876,
-      "num": 228762,
+      "num": 263981,
       "word": "世界最长跨海大桥要来了",
       "onboard_time": 1773982941,
       "rank": 47,
@@ -553,14 +593,6 @@
       "onboard_time": 1773984742,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158140,
-      "num": 158140,
-      "word": "A股",
-      "onboard_time": 1773974301,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 157463,
@@ -739,6 +771,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121550,
+      "num": 124403,
+      "word": "鼻炎其实就是鼻子成精了",
+      "onboard_time": 1773986720,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120726,
+      "num": 120726,
+      "word": "A股半日放量1392亿",
+      "onboard_time": 1773988400,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 116954,
       "num": 116954,
       "word": "伊朗称击中美军F35战机",
@@ -859,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97275,
+      "num": 97275,
+      "word": "黄金大跌买积存金亏了一辆车",
+      "onboard_time": 1773989541,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97065,
       "num": 97065,
       "word": "小米笔记本",
@@ -891,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95877,
-      "num": 124403,
-      "word": "鼻炎其实就是鼻子成精了",
-      "onboard_time": 1773986720,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95291,
       "num": 95291,
       "word": "GEN的对手是BLG",
@@ -915,20 +963,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93823,
-      "num": 117268,
-      "word": "男子缆车吸烟被劝阻后情绪失控",
-      "onboard_time": 1773984381,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91890,
       "num": 91890,
       "word": "美向中东三国提供165亿美元军售",
       "onboard_time": 1773972860,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90540,
+      "num": 116596,
+      "word": "铁路通报女子月经弄脏卧铺事件",
+      "onboard_time": 1773989901,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 89474,
@@ -1115,6 +1163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 72701,
+      "num": 95095,
+      "word": "16岁狗狗患老年痴呆被猫猫照顾",
+      "onboard_time": 1773985044,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72616,
       "num": 72616,
       "word": "菠萝族长在售卖他的族人",
@@ -1171,12 +1227,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 69964,
-      "num": 95095,
-      "word": "16岁狗狗患老年痴呆被猫猫照顾",
-      "onboard_time": 1773985044,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 70897,
+      "num": 212063,
+      "word": "退圈10年的顶流歌手满江杀回来了",
+      "onboard_time": 1773989181,
+      "rank": 8,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 69091,
@@ -1193,6 +1249,14 @@
       "onboard_time": 1773986062,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 68433,
+      "num": 68433,
+      "word": "黄景瑜银灰发",
+      "onboard_time": 1773989482,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 68382,
@@ -1248,6 +1312,14 @@
       "word": "黄金仍有很大下跌空间",
       "onboard_time": 1773969381,
       "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 64674,
+      "num": 64674,
+      "word": "4亿桶石油储备开始入市",
+      "onboard_time": 1773987501,
+      "rank": 38,
       "category": "财经"
     },
     {
@@ -1331,12 +1403,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56765,
+      "num": 56765,
+      "word": "周小闹称有1天流量就挣1天钱",
+      "onboard_time": 1773987382,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 56657,
+      "num": 56657,
+      "word": "金饰两日跌超百元",
+      "onboard_time": 1773990200,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 55880,
       "num": 62351,
       "word": "GEN战胜LYON",
       "onboard_time": 1773934940,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55635,
+      "num": 56646,
+      "word": "黄金白银又开涨了",
+      "onboard_time": 1773987861,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 55471,
@@ -1385,6 +1481,22 @@
       "onboard_time": 1773931882,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50893,
+      "num": 56516,
+      "word": "高市早苗访美更多细节曝光",
+      "onboard_time": 1773990022,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 50744,
+      "num": 119910,
+      "word": "伊战23年后时代变了人心散了",
+      "onboard_time": 1773989602,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48936,
@@ -1451,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42864,
+      "num": 64188,
+      "word": "你是迟来的欢喜对打白日提灯",
+      "onboard_time": 1773986902,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39867,
       "num": 39867,
       "word": "邓凯手势舞",
@@ -1499,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26552,
+      "num": 56477,
+      "word": "智界V9诺贝尔奖材料MOFs上车",
+      "onboard_time": 1773990441,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25573,
       "num": 29493,
       "word": "好好的时光",
@@ -1521,6 +1649,14 @@
       "onboard_time": 1773942795,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23217,
+      "num": 61306,
+      "word": "青岛如何用一碗面撼动人心",
+      "onboard_time": 1773990441,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 21182,
@@ -1569,6 +1705,14 @@
       "onboard_time": 1773948733,
       "rank": 34,
       "category": "汽车,艺人"
+    },
+    {
+      "raw_hot": 9253,
+      "num": 98572,
+      "word": "山姆被曝冷鲜猪肉是数月前屠宰的",
+      "onboard_time": 1773990321,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9119,

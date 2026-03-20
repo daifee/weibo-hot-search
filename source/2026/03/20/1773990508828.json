@@ -1,0 +1,410 @@
+{
+  "runTime": 1773990508828,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 937474,
+        "num": 1149995,
+        "word": "重庆市长胡衡华被查",
+        "onboard_time": 1773986842,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 334096,
+        "num": 854775,
+        "word": "男子花350万元抄底7套天津老破小",
+        "onboard_time": 1773985160,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26084,
+        "num": 653243,
+        "word": "中国科学家培育出长寿水稻",
+        "onboard_time": 1773977361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216060,
+        "num": 285602,
+        "word": "BTS回归",
+        "onboard_time": 1773980121,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98945,
+        "num": 263981,
+        "word": "世界最长跨海大桥要来了",
+        "onboard_time": 1773982941,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257289,
+        "num": 257289,
+        "word": "男子缆车吸烟被劝阻后情绪失控",
+        "onboard_time": 1773984381,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229750,
+        "num": 229750,
+        "word": "手胖的人解释不清了",
+        "onboard_time": 1773979641,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112021,
+        "num": 222747,
+        "word": "言承旭提词器",
+        "onboard_time": 1773977660,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70897,
+        "num": 212063,
+        "word": "退圈10年的顶流歌手满江杀回来了",
+        "onboard_time": 1773989181,
+        "rank": 8,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 67996,
+        "num": 209832,
+        "word": "曝马斯克拟采购200亿中国光伏设备",
+        "onboard_time": 1773980781,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 357548,
+        "num": 201674,
+        "word": "曝王一博乐华续约",
+        "onboard_time": 1773987562,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264667,
+        "num": 186410,
+        "word": "迪丽热巴红衣女鬼塑",
+        "onboard_time": 1773985223,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183091,
+        "num": 183091,
+        "word": "女子举报退休领导母亲名下巨额财产",
+        "onboard_time": 1773976760,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 166150,
+        "num": 166150,
+        "word": "三亚回应戴军潜水时被拔呼吸器威胁",
+        "onboard_time": 1773983181,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121550,
+        "num": 121550,
+        "word": "鼻炎其实就是鼻子成精了",
+        "onboard_time": 1773986720,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121373,
+        "num": 121373,
+        "word": "张凌赫工作室连续删两条视频",
+        "onboard_time": 1773984022,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238271,
+        "num": 121234,
+        "word": "夏弃疾拍的热巴陈飞宇",
+        "onboard_time": 1773987382,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120726,
+        "num": 120726,
+        "word": "A股半日放量1392亿",
+        "onboard_time": 1773988400,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 50744,
+        "num": 119910,
+        "word": "伊战23年后时代变了人心散了",
+        "onboard_time": 1773989602,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90540,
+        "num": 116596,
+        "word": "铁路通报女子月经弄脏卧铺事件",
+        "onboard_time": 1773989901,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 683558,
+        "num": 114378,
+        "word": "李维嘉崩溃大哭到无法主持",
+        "onboard_time": 1773984561,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330270,
+        "num": 112197,
+        "word": "A股",
+        "onboard_time": 1773974301,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220544,
+        "num": 110064,
+        "word": "迪丽热巴新经纪人郝阿三上岗了",
+        "onboard_time": 1773977060,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169158,
+        "num": 107224,
+        "word": "42岁婆婆刚给儿子娶完媳妇就怀孕了",
+        "onboard_time": 1773984501,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165409,
+        "num": 105759,
+        "word": "单依纯 维密",
+        "onboard_time": 1773979041,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136136,
+        "num": 103281,
+        "word": "金价",
+        "onboard_time": 1773969081,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102371,
+        "num": 102371,
+        "word": "你是迟来的欢喜定档",
+        "onboard_time": 1773976398,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9253,
+        "num": 98572,
+        "word": "山姆被曝冷鲜猪肉是数月前屠宰的",
+        "onboard_time": 1773990321,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87897,
+        "num": 97520,
+        "word": "1岁幼儿睡前发现蜱虫钻进头皮在吸血",
+        "onboard_time": 1773980844,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97275,
+        "num": 97275,
+        "word": "黄金大跌买积存金亏了一辆车",
+        "onboard_time": 1773989541,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238856,
+        "num": 97029,
+        "word": "大冰分享自己4个月减50斤的经验",
+        "onboard_time": 1773989181,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 96767,
+        "num": 96767,
+        "word": "山城小栗旬陈大榕结婚",
+        "onboard_time": 1773981022,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91190,
+        "num": 91190,
+        "word": "女子每月痛经超20天求医生切子宫",
+        "onboard_time": 1773977119,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69558,
+        "num": 83340,
+        "word": "南昌舰以一敌二逼退外舰细节公布",
+        "onboard_time": 1773972681,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 82709,
+        "num": 82709,
+        "word": "王一博有115部作品",
+        "onboard_time": 1773984742,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72701,
+        "num": 72701,
+        "word": "16岁狗狗患老年痴呆被猫猫照顾",
+        "onboard_time": 1773985044,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68433,
+        "num": 68433,
+        "word": "黄景瑜银灰发",
+        "onboard_time": 1773989482,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68027,
+        "num": 68027,
+        "word": "喜欢吃蓝莓和炒饭的都沉默了",
+        "onboard_time": 1773977300,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64674,
+        "num": 64674,
+        "word": "4亿桶石油储备开始入市",
+        "onboard_time": 1773987501,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 42864,
+        "num": 64188,
+        "word": "你是迟来的欢喜对打白日提灯",
+        "onboard_time": 1773986902,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63756,
+        "num": 63756,
+        "word": "A股正泰电源涨停",
+        "onboard_time": 1773986902,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23217,
+        "num": 61306,
+        "word": "青岛如何用一碗面撼动人心",
+        "onboard_time": 1773990441,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 60866,
+        "num": 60866,
+        "word": "白日提灯定档",
+        "onboard_time": 1773972740,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56765,
+        "num": 56765,
+        "word": "周小闹称有1天流量就挣1天钱",
+        "onboard_time": 1773987382,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 56657,
+        "num": 56657,
+        "word": "金饰两日跌超百元",
+        "onboard_time": 1773990200,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55635,
+        "num": 56646,
+        "word": "黄金白银又开涨了",
+        "onboard_time": 1773987861,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 54173,
+        "num": 56595,
+        "word": "手机涨价销售发声",
+        "onboard_time": 1773986720,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 54342,
+        "num": 56578,
+        "word": "檀健次 HooHoo的火热日常",
+        "onboard_time": 1773980303,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50893,
+        "num": 56516,
+        "word": "高市早苗访美更多细节曝光",
+        "onboard_time": 1773990022,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26552,
+        "num": 56477,
+        "word": "智界V9诺贝尔奖材料MOFs上车",
+        "onboard_time": 1773990441,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#一座古厝一份责任#"
+    }
+  }
+}
