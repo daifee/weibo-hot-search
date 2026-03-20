@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774026598394,
+  "endTime": 1774028509108,
   "band_list": [
     {
       "raw_hot": 729859,
@@ -171,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131532,
+      "num": 73200,
+      "word": "金饰价格再次大幅下跌",
+      "onboard_time": 1774025480,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128923,
       "num": 146847,
       "word": "小米汽车回应为何不公布大定数字",
@@ -185,14 +193,6 @@
       "onboard_time": 1774013362,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125220,
-      "num": 73200,
-      "word": "金饰价格再次大幅下跌",
-      "onboard_time": 1774025480,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 118702,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78920,
+      "num": 41051,
+      "word": "菲方飞机非法闯入中国空域",
+      "onboard_time": 1774027757,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 78390,
       "num": 78390,
       "word": "DIOR活动",
@@ -321,6 +329,14 @@
       "onboard_time": 1774003160,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72879,
+      "num": 72879,
+      "word": "伊朗问美国为何不敢让航母靠近",
+      "onboard_time": 1774015523,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72261,
@@ -339,20 +355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69594,
-      "num": 69594,
-      "word": "伊朗问美国为何不敢让航母靠近",
-      "onboard_time": 1774015523,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 69407,
       "num": 69407,
       "word": "cmg中国电影荣誉名单",
       "onboard_time": 1774016543,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 68222,
+      "num": 68222,
+      "word": "小狗不会握前手只会握后手",
+      "onboard_time": 1774024399,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 65989,
@@ -411,14 +427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 60252,
-      "num": 60252,
-      "word": "小狗不会握前手只会握后手",
-      "onboard_time": 1774024399,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 59180,
       "num": 69407,
       "word": "G2对战BFX",
@@ -456,6 +464,22 @@
       "word": "美宜佳重拳整治假烟",
       "onboard_time": 1774022002,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31286,
+      "num": 34531,
+      "word": "谢征给樊长玉脖子亲出吻痕",
+      "onboard_time": 1774028057,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26984,
+      "num": 34530,
+      "word": "被宝妈劝阻吸烟情绪失控游客已道歉",
+      "onboard_time": 1774027337,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
