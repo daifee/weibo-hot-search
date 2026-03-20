@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774033263799,
+  "endTime": 1774033987093,
   "band_list": [
     {
       "raw_hot": 729859,
@@ -475,12 +475,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33144,
+      "raw_hot": 34844,
       "num": 43043,
       "word": "谢征给樊长玉脖子亲出吻痕",
       "onboard_time": 1774028057,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30933,
+      "num": 43033,
+      "word": "官方通报月经弄脏卧铺事件详情",
+      "onboard_time": 1774018763,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 28696,
@@ -491,20 +499,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26993,
-      "num": 43033,
-      "word": "官方通报月经弄脏卧铺事件详情",
-      "onboard_time": 1774018763,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 26053,
       "num": 578795,
       "word": "沙某编造传播涉科大讯飞网络谣言被拘",
       "onboard_time": 1774009161,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23682,
+      "num": 26929,
+      "word": "黄金白银瀑布式下跌",
+      "onboard_time": 1774033753,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 23093,
@@ -515,7 +523,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19923,
+      "raw_hot": 20176,
       "num": 86712,
       "word": "LYON对战JDG",
       "onboard_time": 1774022421,

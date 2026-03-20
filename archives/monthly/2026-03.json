@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774033263799,
+  "endTime": 1774033987093,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -50011,6 +50011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34844,
+      "num": 43043,
+      "word": "谢征给樊长玉脖子亲出吻痕",
+      "onboard_time": 1774028057,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34810,
       "num": 638528,
       "word": "长江上又一座大桥建设新进展",
@@ -50353,14 +50361,6 @@
       "onboard_time": 1773247039,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33144,
-      "num": 43043,
-      "word": "谢征给樊长玉脖子亲出吻痕",
-      "onboard_time": 1774028057,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 33135,
@@ -52019,6 +52019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23682,
+      "num": 26929,
+      "word": "黄金白银瀑布式下跌",
+      "onboard_time": 1774033753,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 23674,
       "num": 695611,
       "word": "政协会议圆满完成各项议程",
@@ -52723,6 +52731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20176,
+      "num": 86712,
+      "word": "LYON对战JDG",
+      "onboard_time": 1774022421,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 20173,
       "num": 153254,
       "word": "平台获利3.68元被罚30万毫不冤枉",
@@ -52777,14 +52793,6 @@
       "onboard_time": 1773248357,
       "rank": 48,
       "category": "民生新闻,美妆"
-    },
-    {
-      "raw_hot": 19923,
-      "num": 86712,
-      "word": "LYON对战JDG",
-      "onboard_time": 1774022421,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 19921,
