@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774033987093,
+  "endTime": 1774035822773,
   "band_list": [
     {
       "raw_hot": 729859,
@@ -89,6 +89,14 @@
       "onboard_time": 1774020442,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192185,
+      "num": 43033,
+      "word": "官方通报月经弄脏卧铺事件详情",
+      "onboard_time": 1774018763,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 181149,
@@ -483,20 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30933,
-      "num": 43033,
-      "word": "官方通报月经弄脏卧铺事件详情",
-      "onboard_time": 1774018763,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 28696,
       "num": 43035,
       "word": "被宝妈劝阻吸烟情绪失控游客已道歉",
       "onboard_time": 1774027337,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26641,
+      "num": 86712,
+      "word": "LYON对战JDG",
+      "onboard_time": 1774022421,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 26053,
@@ -507,12 +515,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23682,
+      "raw_hot": 23925,
       "num": 26929,
       "word": "黄金白银瀑布式下跌",
       "onboard_time": 1774033753,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 23112,
+      "num": 22576,
+      "word": "月经弄脏卧铺涉事铁路段上架卫生巾",
+      "onboard_time": 1774034773,
+      "rank": 21,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 23093,
@@ -523,12 +539,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 20176,
-      "num": 86712,
-      "word": "LYON对战JDG",
-      "onboard_time": 1774022421,
-      "rank": 29,
-      "category": "电竞"
+      "raw_hot": 20555,
+      "num": 20555,
+      "word": "上海迪士尼10岁生日庆典主题曲",
+      "onboard_time": 1774035074,
+      "rank": 25,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 15530,
@@ -537,6 +553,14 @@
       "onboard_time": 1774013663,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14444,
+      "num": 16823,
+      "word": "易烊千玺CMG年度剧情电影男演员",
+      "onboard_time": 1774023200,
+      "rank": 47,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
