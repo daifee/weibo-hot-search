@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1773997602602,
+  "endTime": 1774000436694,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -1588,7 +1588,7 @@
     },
     {
       "raw_hot": 478209,
-      "num": 200487,
+      "num": 240099,
       "word": "伊朗伊斯兰革命卫队发言人身亡",
       "onboard_time": 1773993501,
       "rank": 8,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1773746660,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473579,
+      "num": 1075772,
+      "word": "释永信涉嫌4项罪名",
+      "onboard_time": 1773998241,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 472381,
@@ -2419,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362427,
+      "num": 122035,
+      "word": "怪不得爸妈要各一间卧室",
+      "onboard_time": 1773998121,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 361396,
       "num": 278604,
       "word": "拉里贾尼发表手写悼词",
@@ -3233,6 +3249,14 @@
       "onboard_time": 1773625942,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 294036,
+      "num": 117522,
+      "word": "双休但不是休周末的工作",
+      "onboard_time": 1773999261,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 293803,
@@ -4259,6 +4283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235341,
+      "num": 235341,
+      "word": "发型易容术",
+      "onboard_time": 1773996200,
+      "rank": 8,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 234379,
       "num": 172026,
       "word": "日本女孩发布新干线化妆视频被辱骂",
@@ -4595,6 +4627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220216,
+      "num": 96855,
+      "word": "胡先煦这么瘦了",
+      "onboard_time": 1773998601,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219942,
       "num": 112871,
       "word": "王冕官宣生子",
@@ -4625,6 +4665,14 @@
       "onboard_time": 1773924502,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217918,
+      "num": 96068,
+      "word": "孟佳开撕品牌方",
+      "onboard_time": 1773999800,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 217621,
@@ -5427,6 +5475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 184291,
+      "num": 88506,
+      "word": "张子枫 希腊神女",
+      "onboard_time": 1774000041,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183869,
       "num": 167934,
       "word": "性格内向的人看起来更显小",
@@ -5833,6 +5889,14 @@
       "onboard_time": 1773824182,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169963,
+      "num": 304911,
+      "word": "马頔说有李纯后不单纯了",
+      "onboard_time": 1773998662,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 169228,
@@ -6265,14 +6329,6 @@
       "onboard_time": 1773648087,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157070,
-      "num": 157070,
-      "word": "发型易容术",
-      "onboard_time": 1773996200,
-      "rank": 8,
-      "category": "美妆"
     },
     {
       "raw_hot": 156393,
@@ -6833,6 +6889,14 @@
       "onboard_time": 1773661944,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141844,
+      "num": 141844,
+      "word": "四川绵竹3.4级地震",
+      "onboard_time": 1773998903,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 141291,
@@ -9035,6 +9099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103502,
+      "num": 97202,
+      "word": "妈妈瞒着病重女儿偷偷看最后一眼",
+      "onboard_time": 1773998662,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103295,
       "num": 103295,
       "word": "雷军回应回到5年前还造车吗",
@@ -9177,6 +9249,14 @@
       "onboard_time": 1773586944,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102063,
+      "num": 102063,
+      "word": "雷军希望新SU7订单交付持平",
+      "onboard_time": 1773997882,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 101735,
@@ -9491,6 +9571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98889,
+      "num": 84166,
+      "word": "田曦薇经纪人给张凌赫拍的吗",
+      "onboard_time": 1773998300,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98879,
       "num": 98879,
       "word": "张凌赫壁纸",
@@ -9571,6 +9659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97665,
+      "num": 97665,
+      "word": "第一次见这么标准的不合适",
+      "onboard_time": 1773997941,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97581,
       "num": 97581,
       "word": "不喜欢可能认识的人",
@@ -9641,6 +9737,14 @@
       "onboard_time": 1773981501,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96971,
+      "num": 83582,
+      "word": "热巴陈飞宇这段不建议外放",
+      "onboard_time": 1773999261,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 96925,
@@ -10473,6 +10577,14 @@
       "onboard_time": 1773982762,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89474,
+      "num": 81841,
+      "word": "刘轩丞新剧镜头被删",
+      "onboard_time": 1774000102,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 89448,
@@ -12147,6 +12259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76485,
+      "num": 76485,
+      "word": "字节超60亿美元出售沐瞳科技",
+      "onboard_time": 1773998662,
+      "rank": 44,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 76475,
       "num": 75906,
       "word": "库克说李宇春是改变世界的人",
@@ -12579,6 +12699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73519,
+      "num": 73519,
+      "word": "曾舜晞直播谈演员AI焦虑",
+      "onboard_time": 1774000342,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73516,
       "num": 80974,
       "word": "邱党欢迎樊振东加盟",
@@ -12801,6 +12929,14 @@
       "onboard_time": 1773831801,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71781,
+      "num": 71781,
+      "word": "A股尾盘又跳水了",
+      "onboard_time": 1773998962,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 71714,
@@ -13916,7 +14052,7 @@
     },
     {
       "raw_hot": 59183,
-      "num": 73406,
+      "num": 84818,
       "word": "周杰伦弟子上音综被待定",
       "onboard_time": 1773997041,
       "rank": 43,
@@ -14201,6 +14337,14 @@
       "onboard_time": 1773531738,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 54385,
+      "num": 97567,
+      "word": "新任印度驻华大使取了个中国名字",
+      "onboard_time": 1773999682,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54360,
@@ -14843,6 +14987,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 40973,
+      "num": 84628,
+      "word": "校车司机聚餐后失联已超300天",
+      "onboard_time": 1774000221,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40587,
       "num": 88846,
       "word": "1983剧情",
@@ -15329,6 +15481,14 @@
       "onboard_time": 1773913941,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30580,
+      "num": 85426,
+      "word": "王勉第一次见马頔就被骂了",
+      "onboard_time": 1773993924,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 30563,
@@ -16104,6 +16264,14 @@
       "word": "北大外卖哥是眼高手低还是博流量",
       "onboard_time": 1773913223,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16258,
+      "num": 89144,
+      "word": "青岛真的只为你倾倒",
+      "onboard_time": 1773998543,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
