@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774001129142,
+  "endTime": 1774003699068,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2187,6 +2187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1698671,
+      "num": 104077,
+      "word": "孟佳开撕品牌方",
+      "onboard_time": 1773999800,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1695558,
       "num": 1437053,
       "word": "特朗普称哈梅内伊已死",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1771249177,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1607103,
-      "num": 1607103,
-      "word": "彭十六偷税案",
-      "onboard_time": 1768378881,
-      "rank": 10,
-      "category": "网红,民生新闻"
     }
   ],
   "hotgov_list": [

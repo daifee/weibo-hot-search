@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774001129142,
+  "endTime": 1774003699068,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -113,6 +113,14 @@
       "onboard_time": 1773625342,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1698671,
+      "num": 104077,
+      "word": "孟佳开撕品牌方",
+      "onboard_time": 1773999800,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 1584848,
@@ -907,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 607828,
-      "num": 96068,
-      "word": "孟佳开撕品牌方",
-      "onboard_time": 1773999800,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 604782,
       "num": 1096765,
       "word": "中方回应特朗普确认推迟访华",
@@ -1308,7 +1308,7 @@
     },
     {
       "raw_hot": 532849,
-      "num": 141363,
+      "num": 144726,
       "word": "双休但不是休周末的工作",
       "onboard_time": 1773999261,
       "rank": 12,
@@ -2035,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420122,
+      "num": 420122,
+      "word": "刘轩丞新剧镜头被删",
+      "onboard_time": 1774000102,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419365,
       "num": 783491,
       "word": "vivo宣布涨价",
@@ -2444,7 +2452,7 @@
     },
     {
       "raw_hot": 362427,
-      "num": 126487,
+      "num": 131501,
       "word": "怪不得爸妈要各一间卧室",
       "onboard_time": 1773998121,
       "rank": 11,
@@ -2881,6 +2889,14 @@
       "onboard_time": 1773567321,
       "rank": 47,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 319728,
+      "num": 227641,
+      "word": "张子枫 希腊神女",
+      "onboard_time": 1774000041,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 319545,
@@ -3428,7 +3444,7 @@
     },
     {
       "raw_hot": 284531,
-      "num": 96855,
+      "num": 102237,
       "word": "胡先煦这么瘦了",
       "onboard_time": 1773998601,
       "rank": 24,
@@ -4139,6 +4155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244255,
+      "num": 244255,
+      "word": "奥恰洛夫说樊振东不参加世乒赛",
+      "onboard_time": 1774000460,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244104,
       "num": 376218,
       "word": "美军或夺岛迫伊朗开放霍尔木兹海峡",
@@ -4723,6 +4747,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 215740,
+      "num": 215740,
+      "word": "新任印度驻华大使取了个中国名字",
+      "onboard_time": 1773999682,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 215266,
       "num": 215266,
       "word": "张凌赫田曦薇逐玉最后一场戏",
@@ -4761,14 +4793,6 @@
       "onboard_time": 1773747320,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 214014,
-      "num": 88506,
-      "word": "张子枫 希腊神女",
-      "onboard_time": 1774000041,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 213986,
@@ -5289,6 +5313,14 @@
       "onboard_time": 1773833361,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189593,
+      "num": 100170,
+      "word": "孟佳品牌方 盖娅传说",
+      "onboard_time": 1774003521,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 189577,
@@ -6523,14 +6555,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 151119,
-      "num": 151119,
-      "word": "刘轩丞新剧镜头被删",
-      "onboard_time": 1774000102,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151073,
       "num": 151073,
       "word": "章子怡为角色增重20斤",
@@ -6585,14 +6609,6 @@
       "onboard_time": 1773622463,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149661,
-      "num": 149661,
-      "word": "新任印度驻华大使取了个中国名字",
-      "onboard_time": 1773999682,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 149563,
@@ -6955,6 +6971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139885,
+      "num": 96027,
+      "word": "金价还要跌多久",
+      "onboard_time": 1774003401,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139837,
       "num": 149622,
       "word": "男子从年轻买到退休终于中1046万",
@@ -7161,6 +7185,14 @@
       "onboard_time": 1773570022,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135298,
+      "num": 103204,
+      "word": "妈妈瞒着病重女儿偷偷看最后一眼",
+      "onboard_time": 1773998662,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134888,
@@ -7771,6 +7803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124459,
+      "num": 124459,
+      "word": "一种很新的减肥方法",
+      "onboard_time": 1774002624,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124174,
       "num": 124174,
       "word": "你好1983今日开播",
@@ -8065,14 +8105,6 @@
       "onboard_time": 1773893002,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118908,
-      "num": 97202,
-      "word": "妈妈瞒着病重女儿偷偷看最后一眼",
-      "onboard_time": 1773998662,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118562,
@@ -8667,6 +8699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 108717,
+      "num": 100592,
+      "word": "伊朗称渴望实战中给美军舰沉重一击",
+      "onboard_time": 1774002140,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108700,
       "num": 108700,
       "word": "BTS正规五辑销量",
@@ -8953,6 +8993,14 @@
       "onboard_time": 1773655821,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105910,
+      "num": 105910,
+      "word": "对一块钱的概念越来越模糊",
+      "onboard_time": 1774002561,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 105907,
@@ -9475,6 +9523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99879,
+      "num": 99879,
+      "word": "薛之谦广州演唱会",
+      "onboard_time": 1774003040,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99810,
       "num": 107887,
       "word": "F勒布伦4比3松岛辉空",
@@ -9641,6 +9697,14 @@
       "onboard_time": 1773835581,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98325,
+      "num": 98325,
+      "word": "特朗普全程高能高市被晾一边",
+      "onboard_time": 1774001962,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98318,
@@ -9881,14 +9945,6 @@
       "onboard_time": 1773569721,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 95814,
-      "num": 76939,
-      "word": "奥恰洛夫说樊振东不参加世乒赛",
-      "onboard_time": 1774000460,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 95727,
@@ -11947,6 +12003,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 79282,
+      "num": 79282,
+      "word": "迪丽热巴起诉AI换脸短剧胜诉",
+      "onboard_time": 1774001541,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79069,
       "num": 79069,
       "word": "不会做饭只是一味撒调料",
@@ -12403,6 +12467,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 75756,
+      "num": 74356,
+      "word": "吾恩 肠梗阻",
+      "onboard_time": 1774003459,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75692,
       "num": 75692,
       "word": "张凌赫被长玉扇巴掌震撼美味",
@@ -12433,6 +12505,14 @@
       "onboard_time": 1773974721,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 75419,
+      "num": 89293,
+      "word": "金价大跌金店迎新人五金抄底小高峰",
+      "onboard_time": 1774001781,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 75386,
@@ -13523,8 +13603,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 66193,
+      "num": 61299,
+      "word": "杨紫工作室回应AI换脸杨紫",
+      "onboard_time": 1774002502,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66067,
-      "num": 624895,
+      "num": 630028,
       "word": "二月二最硬核龙抬头",
       "onboard_time": 1773992781,
       "rank": 2,
@@ -13891,6 +13979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 61978,
+      "num": 84628,
+      "word": "校车司机聚餐后失联已超300天",
+      "onboard_time": 1774000221,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61917,
       "num": 64393,
       "word": "第一次当服务员脑子乱码",
@@ -14025,6 +14121,14 @@
       "onboard_time": 1773761301,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60155,
+      "num": 60155,
+      "word": "周深首秀演技",
+      "onboard_time": 1774003642,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 60136,
@@ -14361,14 +14465,6 @@
       "onboard_time": 1773616639,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54548,
-      "num": 84628,
-      "word": "校车司机聚餐后失联已超300天",
-      "onboard_time": 1774000221,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54414,
@@ -14961,6 +15057,14 @@
       "onboard_time": 1773497243,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41762,
+      "num": 105682,
+      "word": "全网迪士尼朋友都在跳",
+      "onboard_time": 1774001242,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 41737,
@@ -15683,6 +15787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27994,
+      "num": 104585,
+      "word": "前员工爆料海底捞高层点炮制度",
+      "onboard_time": 1774003160,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27232,
       "num": 60015,
       "word": "无双杨戬",
@@ -16209,6 +16321,14 @@
       "onboard_time": 1773656602,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17322,
+      "num": 83931,
+      "word": "宜宾一摩托车撞行人致1死6伤",
+      "onboard_time": 1774003222,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17199,
