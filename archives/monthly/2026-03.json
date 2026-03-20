@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1773996831518,
+  "endTime": 1773997602602,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -1451,6 +1451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 967463,
+      "num": 156315,
+      "word": "孟佳 品牌邀请看秀不让进场",
+      "onboard_time": 1773994760,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 965437,
       "num": 829712,
       "word": "肖战李宛妲 十日终焉",
@@ -1699,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 919854,
-      "num": 150394,
-      "word": "孟佳 品牌邀请看秀不让进场",
-      "onboard_time": 1773994760,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 919300,
       "num": 551094,
       "word": "小巷人家2 范丞丞卢昱晓",
@@ -1923,6 +1923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 846868,
+      "num": 155945,
+      "word": "张凌赫工作室 拍出了张凌赫的死角",
+      "onboard_time": 1773994521,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 846486,
       "num": 411459,
       "word": "陈思罕 我是一个专业的摄影师",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1772328563,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 807782,
-      "num": 150098,
-      "word": "张凌赫工作室 拍出了张凌赫的死角",
-      "onboard_time": 1773994521,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 803369,
@@ -4427,6 +4427,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 557170,
+      "num": 141046,
+      "word": "留几手听到葛夕官宣恋情后的反应",
+      "onboard_time": 1773994281,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556921,
       "num": 387048,
       "word": "伊朗的导弹能用多久",
@@ -4585,14 +4593,6 @@
       "onboard_time": 1772881701,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 542697,
-      "num": 141046,
-      "word": "留几手听到葛夕官宣恋情后的反应",
-      "onboard_time": 1773994281,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 540999,
@@ -5401,6 +5401,14 @@
       "onboard_time": 1773234983,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 491876,
+      "num": 155744,
+      "word": "高市早苗嘲笑拜登照片",
+      "onboard_time": 1773995902,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 490959,
@@ -10067,6 +10075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 320801,
+      "num": 1051328,
+      "word": "女子买8套老破小月收租2.1万",
+      "onboard_time": 1773991703,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320727,
       "num": 759652,
       "word": "小米新SU7发布会请来半个车圈",
@@ -11760,14 +11776,6 @@
       "word": "婴儿肚皮开裂多器官裸露环绕在外",
       "onboard_time": 1772323099,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283928,
-      "num": 788883,
-      "word": "女子买8套老破小月收租2.1万",
-      "onboard_time": 1773991703,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -14705,14 +14713,6 @@
       "onboard_time": 1773722602,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227952,
-      "num": 149370,
-      "word": "高市早苗嘲笑拜登照片",
-      "onboard_time": 1773995902,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 227808,
@@ -20323,6 +20323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157070,
+      "num": 157070,
+      "word": "发型易容术",
+      "onboard_time": 1773996200,
+      "rank": 8,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 156962,
       "num": 695825,
       "word": "皇马3比0曼城",
@@ -24121,6 +24129,14 @@
       "onboard_time": 1773370762,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129024,
+      "num": 156588,
+      "word": "你好1983 市长爱上离婚带娃的她",
+      "onboard_time": 1773996683,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 129021,
@@ -29001,14 +29017,6 @@
       "onboard_time": 1773875418,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104937,
-      "num": 150940,
-      "word": "发型易容术",
-      "onboard_time": 1773996200,
-      "rank": 8,
-      "category": "美妆"
     },
     {
       "raw_hot": 104917,
@@ -35139,6 +35147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86320,
+      "num": 86320,
+      "word": "刘浩存CMG盛典造型",
+      "onboard_time": 1773996982,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 86292,
       "num": 144834,
       "word": "6天长假成都飞三亚机票量激增",
@@ -35705,6 +35721,14 @@
       "onboard_time": 1773467600,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84654,
+      "num": 84654,
+      "word": "柠檬鸡爪你害惨我了",
+      "onboard_time": 1773995962,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 84641,
@@ -36795,14 +36819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81494,
-      "num": 81494,
-      "word": "你好1983 市长爱上离婚带娃的她",
-      "onboard_time": 1773996683,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 81426,
       "num": 81426,
       "word": "金店银行迎买金热潮",
@@ -37689,6 +37705,14 @@
       "onboard_time": 1773392661,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 79069,
+      "num": 79069,
+      "word": "不会做饭只是一味撒调料",
+      "onboard_time": 1773997582,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 79061,
@@ -39235,6 +39259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75330,
+      "num": 75330,
+      "word": "时代峰峻回应刘耀文杭州行程",
+      "onboard_time": 1773994342,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75306,
       "num": 75306,
       "word": "公孙鄞撕碎祖训",
@@ -40569,14 +40601,6 @@
       "onboard_time": 1773390682,
       "rank": 48,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 71989,
-      "num": 71989,
-      "word": "柠檬鸡爪你害惨我了",
-      "onboard_time": 1773995962,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 71975,
@@ -42233,6 +42257,14 @@
       "onboard_time": 1773839662,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 67013,
+      "num": 67013,
+      "word": "我对闺蜜的期许",
+      "onboard_time": 1773997222,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 67011,
@@ -44363,6 +44395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 59183,
+      "num": 73406,
+      "word": "周杰伦弟子上音综被待定",
+      "onboard_time": 1773997041,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59170,
       "num": 639845,
       "word": "中国人种树太硬核",
@@ -45825,6 +45865,14 @@
       "onboard_time": 1772602945,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51718,
+      "num": 120052,
+      "word": "今年已有4名正部级官员落马",
+      "onboard_time": 1773996862,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51654,
