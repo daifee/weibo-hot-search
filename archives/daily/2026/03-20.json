@@ -1,6 +1,6 @@
 {
   "startTime": 1773936159271,
-  "endTime": 1774004703801,
+  "endTime": 1774006761328,
   "band_list": [
     {
       "raw_hot": 1698671,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 852975,
+      "num": 111792,
+      "word": "迪丽热巴迪奥活动直拍",
+      "onboard_time": 1774006161,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 846868,
       "num": 155945,
       "word": "张凌赫工作室 拍出了张凌赫的死角",
@@ -73,6 +81,14 @@
       "onboard_time": 1773940818,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 773028,
+      "num": 1123684,
+      "word": "前员工爆料海底捞高层点炮制度",
+      "onboard_time": 1774003160,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 693764,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 532849,
-      "num": 164561,
+      "num": 211242,
       "word": "双休但不是休周末的工作",
       "onboard_time": 1773999261,
       "rank": 12,
@@ -193,6 +209,14 @@
       "onboard_time": 1773980121,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 519152,
+      "num": 227579,
+      "word": "外网也意识到韩国偷文化了",
+      "onboard_time": 1774004961,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 491876,
@@ -283,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387336,
+      "num": 221482,
+      "word": "樊长玉草莓印",
+      "onboard_time": 1774003822,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376505,
       "num": 133043,
       "word": "月经弄脏卧铺遭索赔女子称很愧疚",
@@ -305,14 +337,6 @@
       "onboard_time": 1773987562,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352595,
-      "num": 1056415,
-      "word": "前员工爆料海底捞高层点炮制度",
-      "onboard_time": 1774003160,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 334096,
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 319778,
-      "num": 232645,
+      "num": 235466,
       "word": "逐玉",
       "onboard_time": 1773918802,
       "rank": 16,
@@ -499,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251978,
+      "num": 251978,
+      "word": "薛之谦广州演唱会",
+      "onboard_time": 1774003040,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 249212,
       "num": 220477,
       "word": "42岁婆婆刚给儿子娶完媳妇就怀孕了",
@@ -516,7 +548,7 @@
     },
     {
       "raw_hot": 244255,
-      "num": 244255,
+      "num": 270681,
       "word": "奥恰洛夫说樊振东不参加世乒赛",
       "onboard_time": 1774000460,
       "rank": 32,
@@ -529,6 +561,22 @@
       "onboard_time": 1773978321,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 242593,
+      "num": 242593,
+      "word": "章子怡穿的比红毯还红",
+      "onboard_time": 1774005441,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 240238,
+      "num": 212829,
+      "word": "对一块钱的概念越来越模糊",
+      "onboard_time": 1774002561,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 239310,
@@ -561,14 +609,6 @@
       "onboard_time": 1773996200,
       "rank": 8,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 233553,
-      "num": 161288,
-      "word": "对一块钱的概念越来越模糊",
-      "onboard_time": 1774002561,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 225200,
@@ -609,14 +649,6 @@
       "onboard_time": 1773999682,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 215102,
-      "num": 157609,
-      "word": "樊长玉草莓印",
-      "onboard_time": 1774003822,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 214528,
@@ -939,6 +971,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137448,
+      "num": 121540,
+      "word": "吾恩 肠梗阻",
+      "onboard_time": 1774003459,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136801,
       "num": 136801,
       "word": "金泰亨镜头",
@@ -961,6 +1001,14 @@
       "onboard_time": 1773920541,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133644,
+      "num": 100104,
+      "word": "班上一个唐氏综合症的孩子写的",
+      "onboard_time": 1774004842,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 132610,
@@ -1027,14 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129147,
-      "num": 129147,
-      "word": "薛之谦广州演唱会",
-      "onboard_time": 1774003040,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 129024,
       "num": 156588,
       "word": "你好1983 市长爱上离婚带娃的她",
@@ -1099,12 +1139,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121540,
-      "num": 121540,
-      "word": "吾恩 肠梗阻",
-      "onboard_time": 1774003459,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 121232,
+      "num": 121232,
+      "word": "张凌赫田曦薇hi6拍立得",
+      "onboard_time": 1774005621,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 120726,
@@ -1147,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112574,
+      "num": 232270,
+      "word": "Able战队夺冠",
+      "onboard_time": 1774005081,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112171,
       "num": 112171,
       "word": "女生监控里看到外公家暴外婆",
@@ -1163,6 +1211,14 @@
       "category": "互联网,艺人"
     },
     {
+      "raw_hot": 110501,
+      "num": 99986,
+      "word": "女子办离婚被问你要离哪一段",
+      "onboard_time": 1774006341,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110102,
       "num": 110102,
       "word": "女孩玩拼豆突然起火秒拔电源插头",
@@ -1171,8 +1227,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108886,
+      "num": 108886,
+      "word": "打工人姿势病",
+      "onboard_time": 1774005801,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108717,
-      "num": 100592,
+      "num": 100609,
       "word": "伊朗称渴望实战中给美军舰沉重一击",
       "onboard_time": 1774002140,
       "rank": 25,
@@ -1193,6 +1257,14 @@
       "onboard_time": 1773993323,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106959,
+      "num": 101051,
+      "word": "张桂源上网才知道自己成田赫之子了",
+      "onboard_time": 1774003401,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 106904,
@@ -1281,14 +1353,6 @@
       "onboard_time": 1773962297,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99318,
-      "num": 99318,
-      "word": "张桂源上网才知道自己成田赫之子了",
-      "onboard_time": 1774003401,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 98889,
@@ -1401,6 +1465,14 @@
       "onboard_time": 1773982762,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89425,
+      "num": 133382,
+      "word": "全球航运又一大动脉拉响警报",
+      "onboard_time": 1774004361,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89161,
@@ -1563,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79115,
+      "num": 79115,
+      "word": "世界之外云岭祀梦",
+      "onboard_time": 1774006702,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79069,
       "num": 79069,
       "word": "不会做饭只是一味撒调料",
@@ -1723,6 +1803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74208,
+      "num": 114253,
+      "word": "暗访调查考公协议班",
+      "onboard_time": 1774005561,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74118,
       "num": 94821,
       "word": "37岁牺牲民警抓捕视频公开",
@@ -1851,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68729,
+      "num": 68729,
+      "word": "CMG中国电影盛典",
+      "onboard_time": 1773992361,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 68568,
       "num": 89936,
       "word": "这辈子就对得起这张嘴了",
@@ -1971,8 +2067,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66143,
+      "num": 64012,
+      "word": "日媒评高市早苗访美",
+      "onboard_time": 1774006522,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66067,
-      "num": 630028,
+      "num": 656734,
       "word": "二月二最硬核龙抬头",
       "onboard_time": 1773992781,
       "rank": 2,
@@ -1993,6 +2097,14 @@
       "onboard_time": 1773979821,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64061,
+      "num": 64061,
+      "word": "余承东称问界M7刷新CNCAP最好成绩",
+      "onboard_time": 1774006341,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 63853,
@@ -2187,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51142,
+      "num": 77571,
+      "word": "于适不敢站C位",
+      "onboard_time": 1774006702,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50893,
       "num": 56516,
       "word": "高市早苗访美更多细节曝光",
@@ -2347,12 +2467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32283,
-      "num": 133382,
-      "word": "全球航运又一大动脉拉响警报",
-      "onboard_time": 1774004361,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 32296,
+      "num": 77442,
+      "word": "蛋糕刺客年轻人抢疯了",
+      "onboard_time": 1774005621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30580,
