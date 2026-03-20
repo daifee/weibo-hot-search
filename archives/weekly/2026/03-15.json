@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774000436694,
+  "endTime": 1774001129142,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -907,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 607828,
+      "num": 96068,
+      "word": "孟佳开撕品牌方",
+      "onboard_time": 1773999800,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604782,
       "num": 1096765,
       "word": "中方回应特朗普确认推迟访华",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1773807321,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 532849,
+      "num": 141363,
+      "word": "双休但不是休周末的工作",
+      "onboard_time": 1773999261,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 532574,
@@ -2428,7 +2444,7 @@
     },
     {
       "raw_hot": 362427,
-      "num": 122035,
+      "num": 126487,
       "word": "怪不得爸妈要各一间卧室",
       "onboard_time": 1773998121,
       "rank": 11,
@@ -3251,14 +3267,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 294036,
-      "num": 117522,
-      "word": "双休但不是休周末的工作",
-      "onboard_time": 1773999261,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 293803,
       "num": 809154,
       "word": "胖东来馒头每人限购12个",
@@ -3417,6 +3425,14 @@
       "onboard_time": 1773973941,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 284531,
+      "num": 96855,
+      "word": "胡先煦这么瘦了",
+      "onboard_time": 1773998601,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 283872,
@@ -4627,14 +4643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220216,
-      "num": 96855,
-      "word": "胡先煦这么瘦了",
-      "onboard_time": 1773998601,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 219942,
       "num": 112871,
       "word": "王冕官宣生子",
@@ -4665,14 +4673,6 @@
       "onboard_time": 1773924502,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 217918,
-      "num": 96068,
-      "word": "孟佳开撕品牌方",
-      "onboard_time": 1773999800,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 217621,
@@ -4761,6 +4761,14 @@
       "onboard_time": 1773747320,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 214014,
+      "num": 88506,
+      "word": "张子枫 希腊神女",
+      "onboard_time": 1774000041,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 213986,
@@ -5473,14 +5481,6 @@
       "onboard_time": 1773970819,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 184291,
-      "num": 88506,
-      "word": "张子枫 希腊神女",
-      "onboard_time": 1774000041,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 183869,
@@ -6523,6 +6523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 151119,
+      "num": 151119,
+      "word": "刘轩丞新剧镜头被删",
+      "onboard_time": 1774000102,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151073,
       "num": 151073,
       "word": "章子怡为角色增重20斤",
@@ -6577,6 +6585,14 @@
       "onboard_time": 1773622463,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149661,
+      "num": 149661,
+      "word": "新任印度驻华大使取了个中国名字",
+      "onboard_time": 1773999682,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149563,
@@ -8051,6 +8067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118908,
+      "num": 97202,
+      "word": "妈妈瞒着病重女儿偷偷看最后一眼",
+      "onboard_time": 1773998662,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118562,
       "num": 118562,
       "word": "洛克王国世界抢学号崩了",
@@ -9099,14 +9123,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 103502,
-      "num": 97202,
-      "word": "妈妈瞒着病重女儿偷偷看最后一眼",
-      "onboard_time": 1773998662,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103295,
       "num": 103295,
       "word": "雷军回应回到5年前还造车吗",
@@ -9867,6 +9883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95814,
+      "num": 76939,
+      "word": "奥恰洛夫说樊振东不参加世乒赛",
+      "onboard_time": 1774000460,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95727,
       "num": 112643,
       "word": "涉事机器人高举双手被警方押走",
@@ -10577,14 +10601,6 @@
       "onboard_time": 1773982762,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 89474,
-      "num": 81841,
-      "word": "刘轩丞新剧镜头被删",
-      "onboard_time": 1774000102,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 89448,
@@ -13451,6 +13467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66733,
+      "num": 66733,
+      "word": "雷军回应易车实测小米新SU7",
+      "onboard_time": 1774000941,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66676,
       "num": 86136,
       "word": "25岁女子牙疼口腔感染拖进ICU",
@@ -13672,6 +13696,14 @@
       "word": "这才是我梦想中的厨房水池",
       "onboard_time": 1773737482,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 63853,
+      "num": 63853,
+      "word": "面试官像杰尼龟",
+      "onboard_time": 1774000581,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -14331,20 +14363,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54548,
+      "num": 84628,
+      "word": "校车司机聚餐后失联已超300天",
+      "onboard_time": 1774000221,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54414,
       "num": 50578,
       "word": "鞠婧祎杂志刷新最高纪录",
       "onboard_time": 1773531738,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 54385,
-      "num": 97567,
-      "word": "新任印度驻华大使取了个中国名字",
-      "onboard_time": 1773999682,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 54360,
@@ -14985,14 +15017,6 @@
       "onboard_time": 1773931042,
       "rank": 19,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 40973,
-      "num": 84628,
-      "word": "校车司机聚餐后失联已超300天",
-      "onboard_time": 1774000221,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40587,
@@ -16219,6 +16243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16896,
+      "num": 89144,
+      "word": "青岛真的只为你倾倒",
+      "onboard_time": 1773998543,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16785,
       "num": 95225,
       "word": "阿根廷退出世卫组织生效",
@@ -16264,14 +16296,6 @@
       "word": "北大外卖哥是眼高手低还是博流量",
       "onboard_time": 1773913223,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16258,
-      "num": 89144,
-      "word": "青岛真的只为你倾倒",
-      "onboard_time": 1773998543,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
