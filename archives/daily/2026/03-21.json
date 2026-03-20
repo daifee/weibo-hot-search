@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774049859041,
+  "endTime": 1774050776373,
   "band_list": [
     {
       "raw_hot": 729859,
@@ -19,7 +19,7 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 602073,
+      "raw_hot": 712786,
       "num": 259650,
       "word": "女子听信科学坐月子落下月子病",
       "onboard_time": 1774048937,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346260,
+      "num": 346260,
+      "word": "伊朗最高领袖就伊朗新年发表贺词",
+      "onboard_time": 1774049297,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 288653,
       "num": 716913,
       "word": "好想来上架山姆零食",
@@ -75,12 +83,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 217975,
-      "num": 395911,
+      "raw_hot": 240230,
+      "num": 972881,
       "word": "菲方飞机非法闯入中国空域",
       "onboard_time": 1774027757,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 237773,
+      "num": 210554,
+      "word": "肖战热成啥样了",
+      "onboard_time": 1774048097,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 214985,
@@ -91,20 +107,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 210554,
-      "num": 210554,
-      "word": "肖战热成啥样了",
-      "onboard_time": 1774048097,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208940,
       "num": 208940,
       "word": "桃黑黑直播",
       "onboard_time": 1774024879,
       "rank": 35,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 204024,
+      "num": 366251,
+      "word": "沈腾说有点不配站在马丽旁边",
+      "onboard_time": 1774048157,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 201564,
@@ -131,12 +147,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 191967,
-      "num": 366251,
-      "word": "沈腾说有点不配站在马丽旁边",
-      "onboard_time": 1774048157,
-      "rank": 6,
-      "category": "电影"
+      "raw_hot": 188529,
+      "num": 171476,
+      "word": "黄金白银狂泻",
+      "onboard_time": 1774048097,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 184915,
+      "num": 842108,
+      "word": "为什么生物地理会被踢出中考计分",
+      "onboard_time": 1774020442,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 181149,
@@ -147,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179940,
+      "num": 351828,
+      "word": "在泰射击场中弹中国游客女儿发声",
+      "onboard_time": 1774048997,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172635,
       "num": 92359,
       "word": "日本网友评价高市早苗访美视频",
@@ -155,11 +187,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 171476,
-      "num": 171476,
-      "word": "黄金白银狂泻",
-      "onboard_time": 1774048097,
-      "rank": 14,
+      "raw_hot": 169051,
+      "num": 109632,
+      "word": "金饰价格再次大幅下跌",
+      "onboard_time": 1774025480,
+      "rank": 30,
       "category": "财经"
     },
     {
@@ -179,20 +211,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161617,
+      "num": 150015,
+      "word": "周冬雨穿自己淘的裙子走红毯",
+      "onboard_time": 1774009823,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160060,
       "num": 160060,
       "word": "高血压男子抿了一口啤酒后死亡",
       "onboard_time": 1774016062,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156913,
-      "num": 99368,
-      "word": "金饰价格再次大幅下跌",
-      "onboard_time": 1774025480,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 156302,
@@ -203,20 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153692,
-      "num": 842108,
-      "word": "为什么生物地理会被踢出中考计分",
-      "onboard_time": 1774020442,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 150015,
-      "num": 150015,
-      "word": "周冬雨穿自己淘的裙子走红毯",
-      "onboard_time": 1774009823,
-      "rank": 42,
-      "category": "电影"
+      "raw_hot": 147410,
+      "num": 304702,
+      "word": "山姆回应所售鲜猪肉是数月前屠宰",
+      "onboard_time": 1774048817,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147225,
@@ -227,20 +251,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146637,
+      "num": 146637,
+      "word": "谷爱凌雪盟总决赛夺冠",
+      "onboard_time": 1774048577,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140743,
       "num": 140743,
       "word": "范丞丞四天减脂餐对比",
       "onboard_time": 1774013242,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138615,
-      "num": 138615,
-      "word": "伊朗最高领袖就伊朗新年发表贺词",
-      "onboard_time": 1774049297,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136064,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 127620,
-      "num": 83592,
+      "num": 109563,
       "word": "伊朗攻击美国多个军事基地",
       "onboard_time": 1774029196,
       "rank": 41,
@@ -281,6 +305,14 @@
       "onboard_time": 1774013362,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121981,
+      "num": 121981,
+      "word": "最快女护士张水华辞职后最新近况",
+      "onboard_time": 1774049477,
+      "rank": 25,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 118702,
@@ -308,10 +340,18 @@
     },
     {
       "raw_hot": 110138,
-      "num": 84351,
+      "num": 109072,
       "word": "迪丽热巴的项链是护身符",
       "onboard_time": 1774048337,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109904,
+      "num": 109904,
+      "word": "王晶说有人愿花100万请舒淇吃饭",
+      "onboard_time": 1774050080,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -323,14 +363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 100213,
-      "num": 322739,
-      "word": "在泰射击场中弹中国游客女儿发声",
-      "onboard_time": 1774048997,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98326,
       "num": 94525,
       "word": "杨幂清唱讲真的",
@@ -339,20 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96601,
-      "num": 304702,
-      "word": "山姆回应所售鲜猪肉是数月前屠宰",
-      "onboard_time": 1774048817,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95584,
       "num": 95584,
       "word": "伊朗动员穷人组织情报部门负责人身亡",
       "onboard_time": 1774019242,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93556,
+      "num": 146322,
+      "word": "宁娘的富贵命格藏不住了",
+      "onboard_time": 1774048216,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 93266,
@@ -379,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87045,
+      "num": 87045,
+      "word": "掌掴幼儿事件孩子妈妈发声",
+      "onboard_time": 1774049718,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86698,
       "num": 86698,
       "word": "31岁女子确诊重度牙周病不敢随便笑",
@@ -403,12 +443,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 84399,
-      "num": 84399,
-      "word": "谷爱凌雪盟总决赛夺冠",
-      "onboard_time": 1774048577,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 85894,
+      "num": 85894,
+      "word": "谢征给樊长玉脖子亲出吻痕",
+      "onboard_time": 1774028057,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 84095,
@@ -419,20 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83847,
-      "num": 83847,
-      "word": "宁娘的富贵命格藏不住了",
-      "onboard_time": 1774048216,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 82768,
-      "num": 82768,
-      "word": "最快女护士张水华辞职后最新近况",
-      "onboard_time": 1774049477,
-      "rank": 25,
-      "category": "民生新闻,体育"
+      "raw_hot": 83225,
+      "num": 83225,
+      "word": "月经弄脏卧铺涉事铁路段上架卫生巾",
+      "onboard_time": 1774034773,
+      "rank": 21,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 82458,
@@ -441,6 +473,22 @@
       "onboard_time": 1774016242,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80784,
+      "num": 80784,
+      "word": "迪丽热巴嫡长女待遇",
+      "onboard_time": 1774050139,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 79977,
+      "num": 79977,
+      "word": "油价或全面涨至9元时代",
+      "onboard_time": 1774049718,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 78390,
@@ -467,12 +515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69724,
-      "num": 69724,
-      "word": "谢征给樊长玉脖子亲出吻痕",
-      "onboard_time": 1774028057,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 69896,
+      "num": 69896,
+      "word": "女子办离婚被问你要离哪一段",
+      "onboard_time": 1774006341,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69407,
@@ -531,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63727,
-      "num": 63727,
-      "word": "女子办离婚被问你要离哪一段",
-      "onboard_time": 1774006341,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 63303,
+      "num": 63303,
+      "word": "东北人领证了都大大方方的",
+      "onboard_time": 1774050317,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 62660,
@@ -555,6 +603,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 61324,
+      "num": 61324,
+      "word": "Gala对线遭对手调侃",
+      "onboard_time": 1774049178,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 60985,
+      "num": 60985,
+      "word": "不痛不痒29岁男子满口牙齿全掉光",
+      "onboard_time": 1774048878,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 59180,
       "num": 69407,
       "word": "G2对战BFX",
@@ -563,36 +627,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 58908,
-      "num": 58908,
-      "word": "月经弄脏卧铺涉事铁路段上架卫生巾",
-      "onboard_time": 1774034773,
-      "rank": 21,
-      "category": "辟谣/通报"
+      "raw_hot": 57365,
+      "num": 57365,
+      "word": "易烊千玺白T获奖感言",
+      "onboard_time": 1774048278,
+      "rank": 37,
+      "category": "电影"
     },
     {
-      "raw_hot": 58624,
-      "num": 58624,
-      "word": "不痛不痒29岁男子满口牙齿全掉光",
-      "onboard_time": 1774048878,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 52058,
-      "num": 52058,
+      "raw_hot": 56956,
+      "num": 56956,
       "word": "长玉妈咪",
       "onboard_time": 1774048817,
       "rank": 33,
       "category": "剧集"
     },
     {
-      "raw_hot": 51858,
-      "num": 51858,
-      "word": "掌掴幼儿事件孩子妈妈发声",
-      "onboard_time": 1774049718,
-      "rank": 34,
+      "raw_hot": 56627,
+      "num": 56627,
+      "word": "16岁迟迟不来月经才知是男儿身",
+      "onboard_time": 1774050139,
+      "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54846,
+      "num": 54846,
+      "word": "JDG与BLG会师半决赛",
+      "onboard_time": 1774050439,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 51356,
@@ -611,12 +675,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48477,
-      "num": 48477,
-      "word": "易烊千玺白T获奖感言",
-      "onboard_time": 1774048278,
-      "rank": 37,
-      "category": "电影"
+      "raw_hot": 49332,
+      "num": 49332,
+      "word": "二月二龙抬头广东妹仔头火了",
+      "onboard_time": 1774050740,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48543,
+      "num": 48543,
+      "word": "多地日本民众疯抢卫生纸",
+      "onboard_time": 1774049596,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47342,
@@ -643,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41023,
-      "num": 41023,
-      "word": "多地日本民众疯抢卫生纸",
-      "onboard_time": 1774049596,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40275,
       "num": 40275,
       "word": "郑钦文迈阿密赛首战推迟",
@@ -659,28 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39494,
-      "num": 39494,
-      "word": "Gala对线遭对手调侃",
-      "onboard_time": 1774049178,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 39186,
       "num": 39186,
       "word": "伯恩茅斯2比2曼联",
       "onboard_time": 1774048878,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38645,
-      "num": 38645,
-      "word": "油价或全面涨至9元时代",
-      "onboard_time": 1774049718,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 36689,

@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774049859041,
+  "endTime": 1774050776373,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -2779,6 +2779,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 712786,
+      "num": 259650,
+      "word": "女子听信科学坐月子落下月子病",
+      "onboard_time": 1774048937,
+      "rank": 11,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 711067,
       "num": 576550,
       "word": "逐玉 赋魅",
@@ -3889,14 +3897,6 @@
       "onboard_time": 1772843781,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 602073,
-      "num": 259650,
-      "word": "女子听信科学坐月子落下月子病",
-      "onboard_time": 1774048937,
-      "rank": 11,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 601630,
@@ -9379,6 +9379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346260,
+      "num": 346260,
+      "word": "伊朗最高领袖就伊朗新年发表贺词",
+      "onboard_time": 1774049297,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 346257,
       "num": 346257,
       "word": "孩子大了后要帮孩子完成社会化",
@@ -14259,6 +14267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240230,
+      "num": 972881,
+      "word": "菲方飞机非法闯入中国空域",
+      "onboard_time": 1774027757,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 239923,
       "num": 223615,
       "word": "逐玉云合第三",
@@ -14393,6 +14409,14 @@
       "onboard_time": 1772617583,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237773,
+      "num": 210554,
+      "word": "肖战热成啥样了",
+      "onboard_time": 1774048097,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 237394,
@@ -15643,14 +15667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217975,
-      "num": 395911,
-      "word": "菲方飞机非法闯入中国空域",
-      "onboard_time": 1774027757,
-      "rank": 30,
-      "category": "军事"
-    },
-    {
       "raw_hot": 217911,
       "num": 217911,
       "word": "易烊千玺网站续费到2035年",
@@ -16227,14 +16243,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 210554,
-      "num": 210554,
-      "word": "肖战热成啥样了",
-      "onboard_time": 1774048097,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210330,
       "num": 210330,
       "word": "申论考100分就能上岸了",
@@ -16641,6 +16649,14 @@
       "onboard_time": 1773641001,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204024,
+      "num": 366251,
+      "word": "沈腾说有点不配站在马丽旁边",
+      "onboard_time": 1774048157,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 203968,
@@ -17515,14 +17531,6 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 191967,
-      "num": 366251,
-      "word": "沈腾说有点不配站在马丽旁边",
-      "onboard_time": 1774048157,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 191779,
       "num": 692801,
       "word": "把果蝇的大脑复制到电脑",
@@ -17785,6 +17793,14 @@
       "onboard_time": 1773288322,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 188529,
+      "num": 171476,
+      "word": "黄金白银狂泻",
+      "onboard_time": 1774048097,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 188436,
@@ -18097,6 +18113,14 @@
       "onboard_time": 1772639123,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184915,
+      "num": 842108,
+      "word": "为什么生物地理会被踢出中考计分",
+      "onboard_time": 1774020442,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 184824,
@@ -18457,6 +18481,14 @@
       "onboard_time": 1773713420,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 179940,
+      "num": 351828,
+      "word": "在泰射击场中弹中国游客女儿发声",
+      "onboard_time": 1774048997,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179890,
@@ -19131,14 +19163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171476,
-      "num": 171476,
-      "word": "黄金白银狂泻",
-      "onboard_time": 1774048097,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 171466,
       "num": 318728,
       "word": "康婆子下线看哭了",
@@ -19377,6 +19401,14 @@
       "onboard_time": 1772692043,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169051,
+      "num": 109632,
+      "word": "金饰价格再次大幅下跌",
+      "onboard_time": 1774025480,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 168875,
@@ -20747,14 +20779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 156913,
-      "num": 99368,
-      "word": "金饰价格再次大幅下跌",
-      "onboard_time": 1774025480,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 156829,
       "num": 575446,
       "word": "80元Lululemon发圈火爆是因为天热",
@@ -21137,14 +21161,6 @@
       "onboard_time": 1773567502,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153692,
-      "num": 842108,
-      "word": "为什么生物地理会被踢出中考计分",
-      "onboard_time": 1774020442,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 153681,
@@ -21995,6 +22011,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 147410,
+      "num": 304702,
+      "word": "山姆回应所售鲜猪肉是数月前屠宰",
+      "onboard_time": 1774048817,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147359,
       "num": 147359,
       "word": "温瑞博4比2战胜邱党",
@@ -22129,6 +22153,14 @@
       "onboard_time": 1773132863,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 146637,
+      "num": 146637,
+      "word": "谷爱凌雪盟总决赛夺冠",
+      "onboard_time": 1774048577,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 146599,
@@ -23185,14 +23217,6 @@
       "onboard_time": 1772609963,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138615,
-      "num": 138615,
-      "word": "伊朗最高领袖就伊朗新年发表贺词",
-      "onboard_time": 1774049297,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 138541,
@@ -24900,7 +24924,7 @@
     },
     {
       "raw_hot": 127620,
-      "num": 83592,
+      "num": 109563,
       "word": "伊朗攻击美国多个军事基地",
       "onboard_time": 1774029196,
       "rank": 41,
@@ -25841,6 +25865,14 @@
       "onboard_time": 1773720924,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121981,
+      "num": 121981,
+      "word": "最快女护士张水华辞职后最新近况",
+      "onboard_time": 1774049477,
+      "rank": 25,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 121975,
@@ -28308,7 +28340,7 @@
     },
     {
       "raw_hot": 110138,
-      "num": 84351,
+      "num": 109072,
       "word": "迪丽热巴的项链是护身符",
       "onboard_time": 1774048337,
       "rank": 22,
@@ -28385,6 +28417,14 @@
       "onboard_time": 1773804321,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109904,
+      "num": 109904,
+      "word": "王晶说有人愿花100万请舒淇吃饭",
+      "onboard_time": 1774050080,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 109893,
@@ -31003,14 +31043,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 100213,
-      "num": 322739,
-      "word": "在泰射击场中弹中国游客女儿发声",
-      "onboard_time": 1774048997,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100182,
       "num": 280974,
       "word": "没有人觉得时代发展很快吗",
@@ -32219,14 +32251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 96601,
-      "num": 304702,
-      "word": "山姆回应所售鲜猪肉是数月前屠宰",
-      "onboard_time": 1774048817,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96582,
       "num": 96582,
       "word": "叠纸心意祁煜香水",
@@ -33225,6 +33249,14 @@
       "onboard_time": 1772673383,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93556,
+      "num": 146322,
+      "word": "宁娘的富贵命格藏不住了",
+      "onboard_time": 1774048216,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 93554,
@@ -35555,6 +35587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87045,
+      "num": 87045,
+      "word": "掌掴幼儿事件孩子妈妈发声",
+      "onboard_time": 1774049718,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87044,
       "num": 87044,
       "word": "穆祉丞说成年前没节目",
@@ -36147,6 +36187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85894,
+      "num": 85894,
+      "word": "谢征给樊长玉脖子亲出吻痕",
+      "onboard_time": 1774028057,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85874,
       "num": 85874,
       "word": "二战考上研究生却确诊癌症晚期",
@@ -36595,14 +36643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 84399,
-      "num": 84399,
-      "word": "谷爱凌雪盟总决赛夺冠",
-      "onboard_time": 1774048577,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 84397,
       "num": 84397,
       "word": "伊朗总统说新任最高领袖开启新时代",
@@ -36808,14 +36848,6 @@
       "word": "马思纯一演戏面相都变了",
       "onboard_time": 1773386901,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 83847,
-      "num": 83847,
-      "word": "宁娘的富贵命格藏不住了",
-      "onboard_time": 1774048216,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -37059,6 +37091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83225,
+      "num": 83225,
+      "word": "月经弄脏卧铺涉事铁路段上架卫生巾",
+      "onboard_time": 1774034773,
+      "rank": 21,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 83224,
       "num": 290254,
       "word": "上门卸载OpenClaw单次299元",
@@ -37225,14 +37265,6 @@
       "onboard_time": 1772952319,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82768,
-      "num": 82768,
-      "word": "最快女护士张水华辞职后最新近况",
-      "onboard_time": 1774049477,
-      "rank": 25,
-      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 82737,
@@ -37955,6 +37987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80784,
+      "num": 80784,
+      "word": "迪丽热巴嫡长女待遇",
+      "onboard_time": 1774050139,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80765,
       "num": 46456,
       "word": "伊朗打击美军阿联酋基地弹药库",
@@ -38313,6 +38353,14 @@
       "onboard_time": 1773039261,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79977,
+      "num": 79977,
+      "word": "油价或全面涨至9元时代",
+      "onboard_time": 1774049718,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 79934,
@@ -42267,14 +42315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69724,
-      "num": 69724,
-      "word": "谢征给樊长玉脖子亲出吻痕",
-      "onboard_time": 1774028057,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 69707,
       "num": 248840,
       "word": "记者卧底桂林游低价团目睹老人遭威胁",
@@ -44427,6 +44467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63303,
+      "num": 63303,
+      "word": "东北人领证了都大大方方的",
+      "onboard_time": 1774050317,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63299,
       "num": 63299,
       "word": "AG憾负PRX",
@@ -45043,6 +45091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61324,
+      "num": 61324,
+      "word": "Gala对线遭对手调侃",
+      "onboard_time": 1774049178,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61313,
       "num": 643693,
       "word": "山东泰山3比0辽宁铁人",
@@ -45145,6 +45201,14 @@
       "onboard_time": 1773474860,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 60985,
+      "num": 60985,
+      "word": "不痛不痒29岁男子满口牙齿全掉光",
+      "onboard_time": 1774048878,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 60975,
@@ -45555,14 +45619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 58908,
-      "num": 58908,
-      "word": "月经弄脏卧铺涉事铁路段上架卫生巾",
-      "onboard_time": 1774034773,
-      "rank": 21,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 58896,
       "num": 368648,
       "word": "Jonathan的Dior新Vibe",
@@ -45681,14 +45737,6 @@
       "onboard_time": 1773026362,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 58624,
-      "num": 58624,
-      "word": "不痛不痒29岁男子满口牙齿全掉光",
-      "onboard_time": 1774048878,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 58623,
@@ -45987,6 +46035,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 57365,
+      "num": 57365,
+      "word": "易烊千玺白T获奖感言",
+      "onboard_time": 1774048278,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57334,
       "num": 1227595,
       "word": "全国政协十四届四次会议新闻发布会",
@@ -46049,6 +46105,14 @@
       "onboard_time": 1773708561,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56956,
+      "num": 56956,
+      "word": "长玉妈咪",
+      "onboard_time": 1774048817,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 56917,
@@ -46121,6 +46185,14 @@
       "onboard_time": 1773714800,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56627,
+      "num": 56627,
+      "word": "16岁迟迟不来月经才知是男儿身",
+      "onboard_time": 1774050139,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56619,
@@ -46473,6 +46545,14 @@
       "onboard_time": 1773012560,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 54846,
+      "num": 54846,
+      "word": "JDG与BLG会师半决赛",
+      "onboard_time": 1774050439,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 54783,
@@ -46963,14 +47043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52058,
-      "num": 52058,
-      "word": "长玉妈咪",
-      "onboard_time": 1774048817,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 52003,
       "num": 391021,
       "word": "三大平台的养老剧",
@@ -46985,14 +47057,6 @@
       "onboard_time": 1773244340,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 51858,
-      "num": 51858,
-      "word": "掌掴幼儿事件孩子妈妈发声",
-      "onboard_time": 1774049718,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51844,
@@ -47403,6 +47467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49332,
+      "num": 49332,
+      "word": "二月二龙抬头广东妹仔头火了",
+      "onboard_time": 1774050740,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49328,
       "num": 150943,
       "word": "拉塞尔夺F1澳大利亚站杆位",
@@ -47651,20 +47723,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48543,
+      "num": 48543,
+      "word": "多地日本民众疯抢卫生纸",
+      "onboard_time": 1774049596,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48524,
       "num": 740588,
       "word": "两会学习笔记",
       "onboard_time": 1772893823,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 48477,
-      "num": 48477,
-      "word": "易烊千玺白T获奖感言",
-      "onboard_time": 1774048278,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 48385,
@@ -49019,14 +49091,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 41023,
-      "num": 41023,
-      "word": "多地日本民众疯抢卫生纸",
-      "onboard_time": 1774049596,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 41016,
       "num": 211078,
       "word": "可举行婚礼的杭州绿化带被踩踏",
@@ -49363,14 +49427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 39494,
-      "num": 39494,
-      "word": "Gala对线遭对手调侃",
-      "onboard_time": 1774049178,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 39372,
       "num": 53428,
       "word": "LPL第一赛段",
@@ -49553,14 +49609,6 @@
       "onboard_time": 1772598206,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38645,
-      "num": 38645,
-      "word": "油价或全面涨至9元时代",
-      "onboard_time": 1774049718,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 38550,
