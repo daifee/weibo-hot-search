@@ -1,0 +1,410 @@
+{
+  "runTime": 1774007639454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 201968,
+        "num": 1032314,
+        "word": "释永信涉嫌4项罪名",
+        "onboard_time": 1773998241,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141950,
+        "num": 726406,
+        "word": "奥恰洛夫说樊振东不参加世乒赛",
+        "onboard_time": 1774000460,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44212,
+        "num": 580557,
+        "word": "二月二最硬核龙抬头",
+        "onboard_time": 1773992781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135426,
+        "num": 396706,
+        "word": "女子买8套老破小月收租2.1万",
+        "onboard_time": 1773991703,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106867,
+        "num": 321128,
+        "word": "宇树2025年净利润6亿",
+        "onboard_time": 1774007421,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 262110,
+        "num": 262110,
+        "word": "薛之谦广州演唱会",
+        "onboard_time": 1774003040,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206016,
+        "num": 206016,
+        "word": "章子怡穿的比红毯还红",
+        "onboard_time": 1774005441,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146248,
+        "num": 203808,
+        "word": "伊朗伊斯兰革命卫队发言人身亡",
+        "onboard_time": 1773993501,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120046,
+        "num": 202997,
+        "word": "打工人姿势病",
+        "onboard_time": 1774005801,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102261,
+        "num": 199724,
+        "word": "Able战队夺冠",
+        "onboard_time": 1774005081,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 775510,
+        "num": 198203,
+        "word": "前员工爆料海底捞高层点炮制度",
+        "onboard_time": 1774003160,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530425,
+        "num": 195282,
+        "word": "外网也意识到韩国偷文化了",
+        "onboard_time": 1774004961,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 361382,
+        "num": 193772,
+        "word": "樊长玉草莓印",
+        "onboard_time": 1774003822,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263028,
+        "num": 190182,
+        "word": "刘轩丞新剧镜头被删",
+        "onboard_time": 1774000102,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247497,
+        "num": 188537,
+        "word": "班上一个唐氏综合症的孩子写的",
+        "onboard_time": 1774004842,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234192,
+        "num": 185193,
+        "word": "逐玉",
+        "onboard_time": 1774001180,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184487,
+        "num": 184487,
+        "word": "对一块钱的概念越来越模糊",
+        "onboard_time": 1774002561,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180735,
+        "num": 180735,
+        "word": "双休但不是休周末的工作",
+        "onboard_time": 1773999261,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171984,
+        "num": 171984,
+        "word": "张子枫 希腊神女",
+        "onboard_time": 1774000041,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64971,
+        "num": 157321,
+        "word": "医院招聘法务硕士编外博士编内",
+        "onboard_time": 1774006760,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1502468,
+        "num": 155729,
+        "word": "迪丽热巴迪奥活动直拍",
+        "onboard_time": 1774006161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 994701,
+        "num": 155097,
+        "word": "孟佳开撕品牌方",
+        "onboard_time": 1773999800,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153962,
+        "num": 153962,
+        "word": "一种很新的减肥方法",
+        "onboard_time": 1774002624,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320074,
+        "num": 153105,
+        "word": "张凌赫工作室 拍出了张凌赫的死角",
+        "onboard_time": 1773994521,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152222,
+        "num": 152222,
+        "word": "铁路通报女子月经弄脏卧铺事件",
+        "onboard_time": 1773989901,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 225347,
+        "num": 150818,
+        "word": "迪丽热巴 女王回归",
+        "onboard_time": 1774007303,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160930,
+        "num": 149453,
+        "word": "孟佳品牌方 盖娅传说",
+        "onboard_time": 1774003521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102142,
+        "num": 146070,
+        "word": "世界之外云岭祀梦",
+        "onboard_time": 1774006702,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82101,
+        "num": 143682,
+        "word": "暗访调查考公协议班",
+        "onboard_time": 1774005561,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71476,
+        "num": 140113,
+        "word": "新任印度驻华大使取了个中国名字",
+        "onboard_time": 1773999682,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139853,
+        "num": 139853,
+        "word": "吾恩 肠梗阻",
+        "onboard_time": 1774003459,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138930,
+        "num": 138930,
+        "word": "女子办离婚被问你要离哪一段",
+        "onboard_time": 1774006341,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114239,
+        "num": 114239,
+        "word": "张桂源上网才知道自己成田赫之子了",
+        "onboard_time": 1774003401,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96768,
+        "num": 96768,
+        "word": "曝王一博乐华续约",
+        "onboard_time": 1773987562,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95377,
+        "num": 95377,
+        "word": "伊朗称渴望实战中给美军舰沉重一击",
+        "onboard_time": 1774002140,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93959,
+        "num": 93959,
+        "word": "张凌赫田曦薇hi6拍立得",
+        "onboard_time": 1774005621,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93091,
+        "num": 93091,
+        "word": "妈妈瞒着病重女儿偷偷看最后一眼",
+        "onboard_time": 1773998662,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89932,
+        "num": 89932,
+        "word": "腾讯元宝更换logo",
+        "onboard_time": 1774007421,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 47760,
+        "num": 85989,
+        "word": "周深胸前是什么",
+        "onboard_time": 1774005621,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20477,
+        "num": 83595,
+        "word": "商户送的锦旗被扔在政务中心门口",
+        "onboard_time": 1774006822,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83145,
+        "num": 83145,
+        "word": "金价还要跌多久",
+        "onboard_time": 1774003401,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82672,
+        "num": 82672,
+        "word": "全球航运又一大动脉拉响警报",
+        "onboard_time": 1774004361,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77490,
+        "num": 77490,
+        "word": "日媒评高市早苗访美",
+        "onboard_time": 1774006522,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77255,
+        "num": 77255,
+        "word": "曝AI短剧使用杨紫的脸",
+        "onboard_time": 1773992242,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74387,
+        "num": 74387,
+        "word": "李维嘉崩溃大哭到无法主持",
+        "onboard_time": 1773984561,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72508,
+        "num": 72508,
+        "word": "怪不得爸妈要各一间卧室",
+        "onboard_time": 1773998121,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71398,
+        "num": 71398,
+        "word": "重庆市长胡衡华被查",
+        "onboard_time": 1773986842,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69393,
+        "num": 69393,
+        "word": "Hero战胜TTG",
+        "onboard_time": 1774007121,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69094,
+        "num": 69094,
+        "word": "CMG中国电影盛典",
+        "onboard_time": 1773992361,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68045,
+        "num": 68045,
+        "word": "于适不敢站C位",
+        "onboard_time": 1774006702,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记推动海洋经济发展的大思路#"
+    }
+  }
+}
