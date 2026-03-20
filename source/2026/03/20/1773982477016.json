@@ -1,0 +1,410 @@
+{
+  "runTime": 1773982477016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 422352,
+        "num": 1067576,
+        "word": "你是迟来的欢喜定档",
+        "onboard_time": 1773976398,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216170,
+        "num": 1055027,
+        "word": "南昌舰以一敌二逼退外舰细节公布",
+        "onboard_time": 1773972681,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 43713,
+        "num": 1037279,
+        "word": "中国科学家培育出长寿水稻",
+        "onboard_time": 1773977361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235843,
+        "num": 1022160,
+        "word": "让迪丽热巴演女鬼的简直是天才",
+        "onboard_time": 1773981621,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144702,
+        "num": 1014307,
+        "word": "A股第8只千元股",
+        "onboard_time": 1773976461,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 408213,
+        "num": 988994,
+        "word": "手胖的人解释不清了",
+        "onboard_time": 1773979641,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226956,
+        "num": 968468,
+        "word": "白日提灯定档",
+        "onboard_time": 1773972740,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153004,
+        "num": 965779,
+        "word": "伊朗导弹击中以色列海法炼油厂",
+        "onboard_time": 1773940818,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135117,
+        "num": 947150,
+        "word": "曝马斯克拟采购200亿中国光伏设备",
+        "onboard_time": 1773980781,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131123,
+        "num": 930306,
+        "word": "32G内存涨了约3000元",
+        "onboard_time": 1773969740,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 915778,
+        "num": 915778,
+        "word": "女子举报退休领导母亲名下巨额财产",
+        "onboard_time": 1773976760,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 867701,
+        "num": 867701,
+        "word": "葛夕被留几手气哭了",
+        "onboard_time": 1773979821,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620486,
+        "num": 620486,
+        "word": "迪丽热巴新经纪人郝阿三上岗了",
+        "onboard_time": 1773977060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264045,
+        "num": 557237,
+        "word": "喜欢吃蓝莓和炒饭的都沉默了",
+        "onboard_time": 1773977300,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 528359,
+        "num": 528359,
+        "word": "BTS回归",
+        "onboard_time": 1773980121,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408364,
+        "num": 408364,
+        "word": "言承旭提词器",
+        "onboard_time": 1773977660,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244104,
+        "num": 244104,
+        "word": "美军或夺岛迫伊朗开放霍尔木兹海峡",
+        "onboard_time": 1773978321,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103698,
+        "num": 217500,
+        "word": "巴西女子嫁给布娃娃还连生4子",
+        "onboard_time": 1773964399,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 215572,
+        "num": 215572,
+        "word": "孟羽童再上初入职场和董明珠说了",
+        "onboard_time": 1773969621,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47804,
+        "num": 210491,
+        "word": "青岛让善意成为流动的光",
+        "onboard_time": 1773979161,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 393461,
+        "num": 210061,
+        "word": "金价",
+        "onboard_time": 1773969081,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 290414,
+        "num": 209685,
+        "word": "单依纯 维密",
+        "onboard_time": 1773979041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209220,
+        "num": 209220,
+        "word": "山城小栗旬陈大榕结婚",
+        "onboard_time": 1773981022,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206056,
+        "num": 206056,
+        "word": "女子每月痛经超20天求医生切子宫",
+        "onboard_time": 1773977119,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175079,
+        "num": 175079,
+        "word": "原著谢征和长玉提了分手",
+        "onboard_time": 1773963799,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164274,
+        "num": 164274,
+        "word": "小猴子石山玩耍不慎坠落身亡",
+        "onboard_time": 1773972140,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157463,
+        "num": 157463,
+        "word": "1岁幼儿睡前发现蜱虫钻进头皮在吸血",
+        "onboard_time": 1773980844,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125028,
+        "num": 125028,
+        "word": "痞幼回应为什么不跟梅尼耶在一起",
+        "onboard_time": 1773981382,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119693,
+        "num": 119693,
+        "word": "金泰亨镜头",
+        "onboard_time": 1773981982,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98768,
+        "num": 118649,
+        "word": "汉密尔顿离开中国的戒断反应",
+        "onboard_time": 1773982342,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118638,
+        "num": 118638,
+        "word": "女子罕见双子宫双阴道10年3次剖宫产",
+        "onboard_time": 1773966140,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30274,
+        "num": 113806,
+        "word": "男子偷完朋友车又偷朋友家",
+        "onboard_time": 1773981201,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112609,
+        "num": 112609,
+        "word": "檀健次 HooHoo的火热日常",
+        "onboard_time": 1773980303,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71362,
+        "num": 109402,
+        "word": "吉利全地形硬核SUV命名官宣",
+        "onboard_time": 1773977720,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106904,
+        "num": 106904,
+        "word": "魏哲鸣今日定档两部剧",
+        "onboard_time": 1773979101,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99529,
+        "num": 99529,
+        "word": "三亚辟谣戴军在当地潜水被摘面罩",
+        "onboard_time": 1773981082,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97064,
+        "num": 97064,
+        "word": "阴阳师",
+        "onboard_time": 1773981501,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94699,
+        "num": 94699,
+        "word": "方圆自曝舍不得花钱",
+        "onboard_time": 1773979101,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93062,
+        "num": 93062,
+        "word": "东契奇60分",
+        "onboard_time": 1773974902,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89161,
+        "num": 89161,
+        "word": "人类幼崽电量耗尽",
+        "onboard_time": 1773981741,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86053,
+        "num": 86053,
+        "word": "泡过胖东来馒头的水清澈见底",
+        "onboard_time": 1773972559,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81850,
+        "num": 81850,
+        "word": "6国声明拟保障霍尔木兹海峡安全",
+        "onboard_time": 1773968481,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76118,
+        "num": 76118,
+        "word": "一些含金量很高且后劲十足的书",
+        "onboard_time": 1773982460,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 73223,
+        "num": 73223,
+        "word": "武大靖自曝退役后现状",
+        "onboard_time": 1773971359,
+        "rank": 43,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 72616,
+        "num": 72616,
+        "word": "菠萝族长在售卖他的族人",
+        "onboard_time": 1773982282,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70799,
+        "num": 70799,
+        "word": "我谢征到底哪里做得不好",
+        "onboard_time": 1773981683,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69263,
+        "num": 69263,
+        "word": "魏哲鸣体制内白月光杀回来了",
+        "onboard_time": 1773982042,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69091,
+        "num": 69091,
+        "word": "国企房东开始降价了",
+        "onboard_time": 1773982342,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68382,
+        "num": 68382,
+        "word": "玩家式心态探索世界",
+        "onboard_time": 1773982460,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67046,
+        "num": 67046,
+        "word": "金价暴跌真凶",
+        "onboard_time": 1773970819,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#一座古厝一份责任#"
+    }
+  }
+}
