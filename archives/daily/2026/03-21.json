@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774103757500,
+  "endTime": 1774104843409,
   "band_list": [
     {
       "raw_hot": 13365300,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2269087,
+      "num": 2269087,
+      "word": "重庆大学实验室爆炸1死3伤",
+      "onboard_time": 1774102164,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2232360,
       "num": 304268,
       "word": "逐玉大结局",
@@ -56,14 +64,6 @@
       "word": "梅姨男友称与其同居3年没拍照片",
       "onboard_time": 1774075461,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1611940,
-      "num": 1611940,
-      "word": "重庆大学实验室爆炸1死3伤",
-      "onboard_time": 1774102164,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -131,12 +131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 815758,
+      "num": 497587,
+      "word": "泄露逐玉可判刑10年",
+      "onboard_time": 1774104146,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 794125,
       "num": 345548,
       "word": "网友通过倪妮悄悄话分析出汤唯怀孕了",
       "onboard_time": 1774065682,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 731568,
+      "num": 731568,
+      "word": "GEN对战G2",
+      "onboard_time": 1774100424,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 729859,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 698134,
-      "num": 245648,
+      "num": 258325,
       "word": "网传B站裁员60%研发集体罢工",
       "onboard_time": 1774100124,
       "rank": 11,
@@ -233,6 +249,14 @@
       "onboard_time": 1774025480,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 519265,
+      "num": 519265,
+      "word": "管泽元 G2太猛了",
+      "onboard_time": 1774104625,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 506763,
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 300169,
-      "num": 196444,
+      "num": 205854,
       "word": "云旗走秀造型",
       "onboard_time": 1774089921,
       "rank": 39,
@@ -536,6 +560,14 @@
       "word": "11岁男孩脸肿竟是肿瘤骨头断了",
       "onboard_time": 1774096761,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266578,
+      "num": 266578,
+      "word": "重庆一高校实验室爆炸现场画面",
+      "onboard_time": 1774101923,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -643,16 +675,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 226466,
-      "num": 226466,
-      "word": "重庆一高校实验室爆炸现场画面",
-      "onboard_time": 1774101923,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 226467,
+      "num": 226467,
+      "word": "上次泄露还是亲爱的热爱的",
+      "onboard_time": 1774103964,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 224354,
-      "num": 158546,
+      "num": 194860,
       "word": "迪丽热巴新经纪人疑似回应入职嘉行",
       "onboard_time": 1774099461,
       "rank": 29,
@@ -739,6 +771,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 207652,
+      "num": 207652,
+      "word": "小区旁400万吨垃圾被挖出来了",
+      "onboard_time": 1774103062,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204860,
+      "num": 110371,
+      "word": "女子制售自拍淫秽视频获刑3年",
+      "onboard_time": 1774104744,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 204024,
       "num": 366251,
       "word": "沈腾说有点不配站在马丽旁边",
@@ -779,14 +827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198354,
-      "num": 198354,
-      "word": "GEN对战G2",
-      "onboard_time": 1774100424,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 196240,
       "num": 382307,
       "word": "伊朗问美国为何不敢让航母靠近",
@@ -825,6 +865,14 @@
       "onboard_time": 1774053559,
       "rank": 3,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 191492,
+      "num": 191492,
+      "word": "G2虐泉GEN",
+      "onboard_time": 1774104025,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 191276,
@@ -1139,14 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140924,
-      "num": 140924,
-      "word": "小区旁400万吨垃圾被挖出来了",
-      "onboard_time": 1774103062,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140743,
       "num": 140743,
       "word": "范丞丞四天减脂餐对比",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1774051340,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133355,
+      "num": 155454,
+      "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
+      "onboard_time": 1774103783,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 131611,
@@ -1475,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107239,
+      "num": 107239,
+      "word": "董洁说90斤不敢上称",
+      "onboard_time": 1774099104,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107231,
       "num": 107231,
       "word": "Steam春促",
@@ -1505,6 +1561,14 @@
       "onboard_time": 1774095740,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106316,
+      "num": 106316,
+      "word": "梅姨自称有两个女儿",
+      "onboard_time": 1774103484,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105552,
@@ -1691,14 +1755,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 94254,
-      "num": 94254,
-      "word": "董洁说90斤不敢上称",
-      "onboard_time": 1774099104,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93627,
       "num": 259402,
       "word": "专八",
@@ -1747,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90931,
+      "num": 90931,
+      "word": "20年婚姻律师看过干婚最残忍的结局",
+      "onboard_time": 1774104805,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90836,
       "num": 90836,
       "word": "刘昊然易烊千玺CMG双黄蛋",
@@ -1776,14 +1840,6 @@
       "word": "小学生校门口买小火龙后中毒",
       "onboard_time": 1774087461,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89751,
-      "num": 89751,
-      "word": "梅姨自称有两个女儿",
-      "onboard_time": 1774103484,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1825,6 +1881,14 @@
       "onboard_time": 1774057880,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88644,
+      "num": 88644,
+      "word": "梅姨与男友同居总是住两天就走",
+      "onboard_time": 1774104744,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88574,
@@ -1937,6 +2001,14 @@
       "onboard_time": 1774063699,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85505,
+      "num": 146360,
+      "word": "梅姨真实照片或在判决后公布",
+      "onboard_time": 1774102583,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84095,
@@ -2091,6 +2163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81307,
+      "num": 81307,
+      "word": "男子接连抄底黄金已亏1万多",
+      "onboard_time": 1774104744,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 80930,
       "num": 80930,
       "word": "AG锁定季后赛胜者组",
@@ -2105,6 +2185,14 @@
       "onboard_time": 1774080861,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80205,
+      "num": 80205,
+      "word": "王者以后可以语音买装备了",
+      "onboard_time": 1774104146,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 80054,
@@ -2329,14 +2417,6 @@
       "onboard_time": 1774083382,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72638,
-      "num": 146360,
-      "word": "梅姨真实照片或在判决后公布",
-      "onboard_time": 1774102583,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72594,
@@ -3227,6 +3307,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 32938,
+      "num": 263361,
+      "word": "重庆大学通报实验室爆炸",
+      "onboard_time": 1774104385,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32563,
       "num": 131523,
       "word": "男明星最权威现场",
@@ -3308,7 +3396,7 @@
     },
     {
       "raw_hot": 21013,
-      "num": 718042,
+      "num": 790117,
       "word": "2026全国寻春地图",
       "onboard_time": 1774101204,
       "rank": 2,

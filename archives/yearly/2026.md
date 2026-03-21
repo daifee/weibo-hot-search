@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/03/21 22:35:57
+本榜单时间：2026/01/01 00:35:36 ~ 2026/03/21 22:54:03
 </p>
 </blockquote>
 <p>
@@ -1023,6 +1023,12 @@ B站春晚 夯（热度：2280239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B81%E6%AD%BB3%E4%BC%A4%23" target="weibo">
+重庆大学实验室爆炸1死3伤（热度：2269087）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%90%A6%E8%AE%A4%E7%BD%91%E4%BC%A0%E9%87%91%E6%99%A8%E9%A9%BE%E8%BD%A6%E7%9B%91%E6%8E%A7%E4%BF%A1%E6%81%AF%23" target="weibo">
 交警否认网传金晨驾车监控信息（热度：2232636）
 </a>
@@ -1805,12 +1811,6 @@ ZB1解散（热度：1695263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B1%BC%E6%B5%B7%E6%A3%A0%E7%BE%8E%E9%A2%9C%E6%8E%89%E4%BA%86%23" target="weibo">
 小鱼海棠美颜掉了（热度：1635371）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%89%E5%A0%A1%E7%8E%8B%E5%B4%A9%E4%BA%86%23" target="weibo">
-汉堡王崩了（热度：1631134）
 </a>
 </li>
 
