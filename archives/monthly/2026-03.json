@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774121590873,
+  "endTime": 1774122404121,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -56307,6 +56307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17592,
+      "num": 45512,
+      "word": "热巴陈飞宇跳舞",
+      "onboard_time": 1774119915,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17526,
       "num": 174920,
       "word": "春天的第一场雨是红包雨",
@@ -56881,14 +56889,6 @@
       "onboard_time": 1773645141,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 14483,
-      "num": 45512,
-      "word": "热巴陈飞宇跳舞",
-      "onboard_time": 1774119915,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 14481,
