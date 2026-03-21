@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774090404548,
+  "endTime": 1774092703669,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -2843,6 +2843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 714289,
+      "num": 149175,
+      "word": "黄霄雲 莫挨老子",
+      "onboard_time": 1774089801,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 712786,
       "num": 259650,
       "word": "女子听信科学坐月子落下月子病",
@@ -3529,6 +3537,14 @@
       "onboard_time": 1773194961,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 639616,
+      "num": 149160,
+      "word": "季冠霖发文抵制AI",
+      "onboard_time": 1774090342,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 638348,
@@ -7692,7 +7708,7 @@
     },
     {
       "raw_hot": 407718,
-      "num": 124413,
+      "num": 128317,
       "word": "痞幼因网红身份被邻居排挤",
       "onboard_time": 1774080382,
       "rank": 21,
@@ -10427,6 +10443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323031,
+      "num": 323031,
+      "word": "樊长玉斩杀长信王",
+      "onboard_time": 1774090521,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322852,
       "num": 227290,
       "word": "短剧四小花旦同框",
@@ -11129,6 +11153,14 @@
       "onboard_time": 1773020903,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 307467,
+      "num": 148501,
+      "word": "迪丽热巴好闪好辣",
+      "onboard_time": 1774090342,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 307437,
@@ -12737,14 +12769,6 @@
       "onboard_time": 1773499942,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274148,
-      "num": 86564,
-      "word": "迪丽热巴好闪好辣",
-      "onboard_time": 1774090342,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 274126,
@@ -14731,6 +14755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 238059,
+      "num": 224208,
+      "word": "梅姨拐卖的儿童认亲后将母亲拉黑",
+      "onboard_time": 1774086740,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237838,
       "num": 220054,
       "word": "弟弟 不管你是谁从我姐身上下来",
@@ -14857,6 +14889,14 @@
       "onboard_time": 1772988560,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 235977,
+      "num": 235977,
+      "word": "十年前妈妈自己设计装修的家",
+      "onboard_time": 1774089740,
+      "rank": 31,
+      "category": "休闲"
     },
     {
       "raw_hot": 235942,
@@ -15585,14 +15625,6 @@
       "onboard_time": 1773562282,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224208,
-      "num": 224208,
-      "word": "梅姨拐卖的儿童认亲后将母亲拉黑",
-      "onboard_time": 1774086740,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 224162,
@@ -17259,6 +17291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 199976,
+      "num": 343936,
+      "word": "霍尔木兹海峡关闭或长达6个月",
+      "onboard_time": 1774087341,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199945,
       "num": 199945,
       "word": "瞿颖胡兵李静戴军孙浩团综",
@@ -17611,6 +17651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 196226,
+      "num": 165757,
+      "word": "金饰价格已下跌超300元",
+      "onboard_time": 1774083622,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 196220,
       "num": 152811,
       "word": "逐玉直播",
@@ -17721,14 +17769,6 @@
       "onboard_time": 1772803943,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194821,
-      "num": 343936,
-      "word": "霍尔木兹海峡关闭或长达6个月",
-      "onboard_time": 1774087341,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 194806,
@@ -17913,6 +17953,14 @@
       "onboard_time": 1773385520,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192428,
+      "num": 324018,
+      "word": "JDG全胜通关S组",
+      "onboard_time": 1774092562,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 192408,
@@ -18707,6 +18755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183199,
+      "num": 183199,
+      "word": "JDG对战DYG",
+      "onboard_time": 1774089560,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183172,
       "num": 183172,
       "word": "24岁女研究生陪母抗癌后确诊肠癌",
@@ -18889,14 +18945,6 @@
       "onboard_time": 1772694322,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 180856,
-      "num": 165757,
-      "word": "金饰价格已下跌超300元",
-      "onboard_time": 1774083622,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 180713,
@@ -19201,6 +19249,14 @@
       "onboard_time": 1773756864,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 176938,
+      "num": 161679,
+      "word": "得知梅姨被捕家长激动到呕吐",
+      "onboard_time": 1774091180,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176839,
@@ -20035,6 +20091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 167889,
+      "num": 651792,
+      "word": "斗破苍穹",
+      "onboard_time": 1772890222,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 167852,
       "num": 584819,
       "word": "龙洋眼妆",
@@ -20737,6 +20801,14 @@
       "onboard_time": 1773371120,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161256,
+      "num": 161256,
+      "word": "伊朗手中握有真正的筹码",
+      "onboard_time": 1774090161,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161190,
@@ -22153,6 +22225,14 @@
       "onboard_time": 1773469341,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150626,
+      "num": 119159,
+      "word": "小黄豆去看蔡徐坤",
+      "onboard_time": 1774088722,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 150580,
@@ -26411,6 +26491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122928,
+      "num": 122928,
+      "word": "这就是家家那本难念的经",
+      "onboard_time": 1774092201,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122913,
       "num": 122913,
       "word": "泡泡玛特回应7年前买的盲盒才发货",
@@ -27051,14 +27139,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120007,
-      "num": 80366,
-      "word": "小黄豆去看蔡徐坤",
-      "onboard_time": 1774088722,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 119970,
       "num": 119970,
       "word": "金秀贤不愿赔广告主钱",
@@ -27273,6 +27353,14 @@
       "onboard_time": 1773391161,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118927,
+      "num": 118927,
+      "word": "BTS直播",
+      "onboard_time": 1774091900,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 118893,
@@ -29331,14 +29419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109335,
-      "num": 80017,
-      "word": "黄霄雲 莫挨老子",
-      "onboard_time": 1774089801,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109332,
       "num": 575553,
       "word": "王一博谷爱凌张钧甯合影",
@@ -30235,6 +30315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105840,
+      "num": 99833,
+      "word": "谢征 长玉吻我",
+      "onboard_time": 1774091842,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105749,
       "num": 104283,
       "word": "油价要破9元了",
@@ -30641,14 +30729,6 @@
       "onboard_time": 1772602883,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 104334,
-      "num": 80857,
-      "word": "十年前妈妈自己设计装修的家",
-      "onboard_time": 1774089740,
-      "rank": 31,
-      "category": "休闲"
     },
     {
       "raw_hot": 104328,
@@ -31955,6 +32035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99924,
+      "num": 99924,
+      "word": "伊朗军方放话全球追猎",
+      "onboard_time": 1774090221,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99922,
       "num": 99922,
       "word": "6800元一针细胞回春到底什么来头",
@@ -32291,6 +32379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99161,
+      "num": 99161,
+      "word": "警方曾释放梅姨不存在的信号",
+      "onboard_time": 1774092021,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99156,
       "num": 356915,
       "word": "品质盛典后台直播",
@@ -32512,6 +32608,14 @@
       "word": "考古的风终于轮到田曦薇了",
       "onboard_time": 1773716240,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98513,
+      "num": 98513,
+      "word": "云旗走秀造型",
+      "onboard_time": 1774089921,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -33673,14 +33777,6 @@
       "onboard_time": 1773243620,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 94963,
-      "num": 651792,
-      "word": "斗破苍穹",
-      "onboard_time": 1772890222,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 94920,
@@ -36403,6 +36499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87535,
+      "num": 87535,
+      "word": "狗 没用的人老是影响有用的人",
+      "onboard_time": 1774092440,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87525,
       "num": 801540,
       "word": "种地吧4种地日记",
@@ -36617,6 +36721,14 @@
       "onboard_time": 1773669802,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 86974,
+      "num": 86974,
+      "word": "男子入手160克黄金后傻眼",
+      "onboard_time": 1774092622,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 86960,
@@ -37795,6 +37907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83976,
+      "num": 83976,
+      "word": "南航一航班遭鸟击乘客感谢机长",
+      "onboard_time": 1774091061,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83963,
       "num": 83963,
       "word": "伊朗威胁将毁灭性打击美以邪恶官员",
@@ -38065,6 +38185,14 @@
       "onboard_time": 1773676641,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83266,
+      "num": 83266,
+      "word": "ZOO对战DOU5",
+      "onboard_time": 1774091783,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 83248,
@@ -38753,6 +38881,14 @@
       "onboard_time": 1773906321,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81533,
+      "num": 81533,
+      "word": "防弹少年团新专",
+      "onboard_time": 1774088961,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 81508,
@@ -40907,14 +41043,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 76441,
-      "num": 76441,
-      "word": "伊朗军方放话全球追猎",
-      "onboard_time": 1774090221,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 76423,
       "num": 199314,
       "word": "瑞幸的钱被外卖偷了",
@@ -41899,14 +42027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74263,
-      "num": 74263,
-      "word": "伊朗手中握有真正的筹码",
-      "onboard_time": 1774090161,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74260,
       "num": 157453,
       "word": "三桶油历史首次收盘集体涨停",
@@ -42241,6 +42361,14 @@
       "onboard_time": 1773607034,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73324,
+      "num": 149504,
+      "word": "周末偶遇徐梦桃",
+      "onboard_time": 1774091661,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 73321,
@@ -42809,14 +42937,6 @@
       "onboard_time": 1773982581,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72149,
-      "num": 71077,
-      "word": "JDG对战DYG",
-      "onboard_time": 1774089560,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 72127,
@@ -47035,6 +47155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59818,
+      "num": 81256,
+      "word": "濮院高定时尚周",
+      "onboard_time": 1774006281,
+      "rank": 46,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 59793,
       "num": 59793,
       "word": "黄金跳水原油飙升",
@@ -48833,14 +48961,6 @@
       "onboard_time": 1772602945,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51809,
-      "num": 58429,
-      "word": "防弹少年团新专",
-      "onboard_time": 1774088961,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 51718,
@@ -52051,14 +52171,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 34959,
-      "num": 75086,
-      "word": "季冠霖发文抵制AI",
-      "onboard_time": 1774090342,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34936,
       "num": 137993,
       "word": "建议职称评定对生育期女性放宽要求",
@@ -54945,14 +55057,6 @@
       "onboard_time": 1773163996,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 19855,
-      "num": 26602,
-      "word": "濮院高定时尚周",
-      "onboard_time": 1774006281,
-      "rank": 46,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 19767,
