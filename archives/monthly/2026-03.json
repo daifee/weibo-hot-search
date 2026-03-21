@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774119716232,
+  "endTime": 1774121590873,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -56883,6 +56883,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 14483,
+      "num": 45512,
+      "word": "热巴陈飞宇跳舞",
+      "onboard_time": 1774119915,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14481,
       "num": 99371,
       "word": "起底借ETC推广乱收费现象",
@@ -56929,6 +56937,14 @@
       "onboard_time": 1773862693,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14064,
+      "num": 45567,
+      "word": "读大学就是一场巨大的追星现场",
+      "onboard_time": 1774119975,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 13985,

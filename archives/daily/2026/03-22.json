@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774119716232,
+  "endTime": 1774121590873,
   "band_list": [
     {
       "raw_hot": 1144240,
@@ -499,20 +499,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 14483,
+      "num": 45512,
+      "word": "热巴陈飞宇跳舞",
+      "onboard_time": 1774119915,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14064,
+      "num": 45567,
+      "word": "读大学就是一场巨大的追星现场",
+      "onboard_time": 1774119975,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 13762,
+      "num": 76350,
+      "word": "濮院高定时尚周",
+      "onboard_time": 1774091900,
+      "rank": 49,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 13450,
       "num": 55371,
       "word": "中国游泳公开赛",
       "onboard_time": 1774100904,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12611,
-      "num": 76350,
-      "word": "濮院高定时尚周",
-      "onboard_time": 1774091900,
-      "rank": 49,
-      "category": "时尚,作品衍生"
     }
   ],
   "hotgov_list": [
