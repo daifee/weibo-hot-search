@@ -1,0 +1,410 @@
+{
+  "runTime": 1774090404548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1359442,
+        "num": 1359442,
+        "word": "梅姨被逮捕",
+        "onboard_time": 1774064541,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 861178,
+        "num": 890955,
+        "word": "梅姨同居男友都看不到她的身份证",
+        "onboard_time": 1774081225,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 32564,
+        "num": 675645,
+        "word": "总会被一棵树的张力震撼到",
+        "onboard_time": 1774079121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348637,
+        "num": 348637,
+        "word": "梅姨同居男友说她不戴首饰",
+        "onboard_time": 1774081582,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165017,
+        "num": 346693,
+        "word": "女子熬夜3个月突然开始对墙讲课",
+        "onboard_time": 1774077139,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194821,
+        "num": 343936,
+        "word": "霍尔木兹海峡关闭或长达6个月",
+        "onboard_time": 1774087341,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151163,
+        "num": 338673,
+        "word": "软软的水 脆脆的水",
+        "onboard_time": 1774083264,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133009,
+        "num": 332404,
+        "word": "美军核坟墓辐射量已超切尔诺贝利",
+        "onboard_time": 1774077381,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129373,
+        "num": 328237,
+        "word": "90后男子为降血糖自制汤药身亡",
+        "onboard_time": 1774081522,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82942,
+        "num": 326130,
+        "word": "GW对战Xteam",
+        "onboard_time": 1774086561,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 820999,
+        "num": 322475,
+        "word": "月经弄脏卧铺当事人详述事件经过",
+        "onboard_time": 1774084702,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465558,
+        "num": 317755,
+        "word": "逐玉",
+        "onboard_time": 1774087641,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314744,
+        "num": 314744,
+        "word": "老师为什么能发现家长签名是假的",
+        "onboard_time": 1774085363,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263672,
+        "num": 263672,
+        "word": "梅姨曾与60多岁老人同居2年",
+        "onboard_time": 1774085363,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224208,
+        "num": 224208,
+        "word": "梅姨拐卖的儿童认亲后将母亲拉黑",
+        "onboard_time": 1774086740,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221720,
+        "num": 221720,
+        "word": "杨家鑫被梅姨拐走爸爸跳火车身亡",
+        "onboard_time": 1774084101,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184375,
+        "num": 184375,
+        "word": "梅姨长相与公布画像相似度不高",
+        "onboard_time": 1774077861,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165757,
+        "num": 165757,
+        "word": "金饰价格已下跌超300元",
+        "onboard_time": 1774083622,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142239,
+        "num": 142239,
+        "word": "伊朗有意日本船只通行霍尔木兹海峡",
+        "onboard_time": 1774070361,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97278,
+        "num": 97278,
+        "word": "梅姨落网是申聪的新婚贺礼",
+        "onboard_time": 1774087221,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1815551,
+        "num": 97052,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1774078881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388142,
+        "num": 96742,
+        "word": "曝迪丽热巴新经纪人入职嘉行",
+        "onboard_time": 1774083081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301512,
+        "num": 96204,
+        "word": "白象 土豆泥火鸡面",
+        "onboard_time": 1774069942,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 328701,
+        "num": 95671,
+        "word": "痞幼因网红身份被邻居排挤",
+        "onboard_time": 1774080382,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95662,
+        "num": 95662,
+        "word": "逐玉男配剧播后平均涨粉百万",
+        "onboard_time": 1774086922,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87930,
+        "num": 87930,
+        "word": "做饭2小时吃饭10分钟",
+        "onboard_time": 1774084341,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274148,
+        "num": 86564,
+        "word": "迪丽热巴好闪好辣",
+        "onboard_time": 1774090342,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247663,
+        "num": 86508,
+        "word": "曝梁小龙去世两个月没下葬将停棺10年",
+        "onboard_time": 1774076361,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82134,
+        "num": 82134,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1774083862,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 227200,
+        "num": 81859,
+        "word": "张凌赫田曦薇 所有人都在觊觎我妻子",
+        "onboard_time": 1774077623,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182574,
+        "num": 81529,
+        "word": "张凌赫男大自拍",
+        "onboard_time": 1774082001,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104334,
+        "num": 80857,
+        "word": "十年前妈妈自己设计装修的家",
+        "onboard_time": 1774089740,
+        "rank": 31,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 120007,
+        "num": 80366,
+        "word": "小黄豆去看蔡徐坤",
+        "onboard_time": 1774088722,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109335,
+        "num": 80017,
+        "word": "黄霄雲 莫挨老子",
+        "onboard_time": 1774089801,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79650,
+        "num": 79650,
+        "word": "小学生校门口买小火龙后中毒",
+        "onboard_time": 1774087461,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100219,
+        "num": 78648,
+        "word": "刘宇宁直播",
+        "onboard_time": 1774088361,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81840,
+        "num": 78541,
+        "word": "马嘉祺无框眼镜贵公子",
+        "onboard_time": 1774084761,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77554,
+        "num": 77554,
+        "word": "3D还原台湾双尸案",
+        "onboard_time": 1774090041,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76441,
+        "num": 76441,
+        "word": "伊朗军方放话全球追猎",
+        "onboard_time": 1774090221,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34959,
+        "num": 75086,
+        "word": "季冠霖发文抵制AI",
+        "onboard_time": 1774090342,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74263,
+        "num": 74263,
+        "word": "伊朗手中握有真正的筹码",
+        "onboard_time": 1774090161,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72409,
+        "num": 72409,
+        "word": "梅姨贩卖孩子能力有多强",
+        "onboard_time": 1774087702,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71644,
+        "num": 71644,
+        "word": "斗破苍穹",
+        "onboard_time": 1774089921,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 72149,
+        "num": 71077,
+        "word": "JDG对战DYG",
+        "onboard_time": 1774089560,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69791,
+        "num": 69791,
+        "word": "杜小华曾跪求梅姨同居者提供线索",
+        "onboard_time": 1774089261,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67507,
+        "num": 67507,
+        "word": "下次给小朋友就这么切橙子",
+        "onboard_time": 1774084461,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 66378,
+        "num": 66378,
+        "word": "伊朗凌晨打击以色列军事设施",
+        "onboard_time": 1774090041,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66187,
+        "num": 66187,
+        "word": "梅姨与画像相似度不到30%",
+        "onboard_time": 1774080082,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63275,
+        "num": 63275,
+        "word": "谢某某就是梅姨",
+        "onboard_time": 1774065984,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61192,
+        "num": 61192,
+        "word": "到爱吃老式饼干的年纪了",
+        "onboard_time": 1774089500,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#以正确政绩观推动高质量发展#"
+    }
+  }
+}
