@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774101578546,
+  "endTime": 1774103757500,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -169,6 +169,14 @@
       "onboard_time": 1773999800,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1611940,
+      "num": 1611940,
+      "word": "重庆大学实验室爆炸1死3伤",
+      "onboard_time": 1774102164,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1589548,
@@ -809,6 +817,14 @@
       "onboard_time": 1773737960,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 698134,
+      "num": 245648,
+      "word": "网传B站裁员60%研发集体罢工",
+      "onboard_time": 1774100124,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 694239,
@@ -2315,14 +2331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 423756,
-      "num": 245648,
-      "word": "网传B站裁员60%研发集体罢工",
-      "onboard_time": 1774100124,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 423146,
       "num": 316086,
       "word": "怪不得印度工业发达原来都是0成本",
@@ -3747,6 +3755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300169,
+      "num": 196444,
+      "word": "云旗走秀造型",
+      "onboard_time": 1774089921,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300151,
       "num": 286641,
       "word": "美将只剩一艘航母用于对伊朗袭击",
@@ -4001,14 +4017,6 @@
       "onboard_time": 1773797721,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 284786,
-      "num": 196444,
-      "word": "云旗走秀造型",
-      "onboard_time": 1774089921,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 284597,
@@ -5259,6 +5267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 226466,
+      "num": 226466,
+      "word": "重庆一高校实验室爆炸现场画面",
+      "onboard_time": 1774101923,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226375,
       "num": 386226,
       "word": "女子网红店等位3200多桌排到崩溃",
@@ -6025,6 +6041,14 @@
       "onboard_time": 1773557421,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198354,
+      "num": 198354,
+      "word": "GEN对战G2",
+      "onboard_time": 1774100424,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 198250,
@@ -7499,14 +7523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155625,
-      "num": 155625,
-      "word": "GEN对战G2",
-      "onboard_time": 1774100424,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 155533,
       "num": 572915,
       "word": "一人公司爆火银行坐不住了",
@@ -8217,6 +8233,14 @@
       "onboard_time": 1773652225,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140924,
+      "num": 140924,
+      "word": "小区旁400万吨垃圾被挖出来了",
+      "onboard_time": 1774103062,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140833,
@@ -10675,6 +10699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105552,
+      "num": 146947,
+      "word": "美国内部吵成一锅粥",
+      "onboard_time": 1774101323,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105532,
       "num": 105532,
       "word": "小米大模型",
@@ -11979,6 +12011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94254,
+      "num": 94254,
+      "word": "董洁说90斤不敢上称",
+      "onboard_time": 1774099104,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94251,
       "num": 128882,
       "word": "水沟玩耍无人管姐弟系母亲去世",
@@ -12113,14 +12153,6 @@
       "onboard_time": 1773549921,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93426,
-      "num": 93426,
-      "word": "董洁说90斤不敢上称",
-      "onboard_time": 1774099104,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 93389,
@@ -12547,6 +12579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89751,
+      "num": 89751,
+      "word": "梅姨自称有两个女儿",
+      "onboard_time": 1774103484,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89739,
       "num": 89739,
       "word": "便秘时一定要试试6种食物",
@@ -12569,6 +12609,14 @@
       "onboard_time": 1773903201,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89619,
+      "num": 89619,
+      "word": "孙俪能穿得下童装",
+      "onboard_time": 1774101982,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 89587,
@@ -12729,6 +12777,14 @@
       "onboard_time": 1773838761,
       "rank": 38,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 88574,
+      "num": 88574,
+      "word": "重庆警方回应一高校实验室爆炸",
+      "onboard_time": 1774100544,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88568,
@@ -14371,6 +14427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78980,
+      "num": 78980,
+      "word": "云南玉昆4比0山东泰山",
+      "onboard_time": 1774102946,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78929,
       "num": 78929,
       "word": "英伟达新一代Rubin芯片阵容亮相",
@@ -14521,6 +14585,14 @@
       "onboard_time": 1773845244,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77643,
+      "num": 81627,
+      "word": "你好星期六下期有刘宇宁",
+      "onboard_time": 1774102046,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 77628,
@@ -15393,6 +15465,14 @@
       "onboard_time": 1774083382,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72638,
+      "num": 146360,
+      "word": "梅姨真实照片或在判决后公布",
+      "onboard_time": 1774102583,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72616,
@@ -19675,6 +19755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21013,
+      "num": 718042,
+      "word": "2026全国寻春地图",
+      "onboard_time": 1774101204,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20912,
       "num": 80511,
       "word": "刘宇宁一如既往感谢观众",
@@ -20240,14 +20328,6 @@
       "word": "5岁女童扁桃体手术后死亡母亲发声",
       "onboard_time": 1773993622,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10885,
-      "num": 647278,
-      "word": "2026全国寻春地图",
-      "onboard_time": 1774101204,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

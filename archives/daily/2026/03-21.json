@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774101578546,
+  "endTime": 1774103757500,
   "band_list": [
     {
       "raw_hot": 13365300,
@@ -56,6 +56,14 @@
       "word": "梅姨男友称与其同居3年没拍照片",
       "onboard_time": 1774075461,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1611940,
+      "num": 1611940,
+      "word": "重庆大学实验室爆炸1死3伤",
+      "onboard_time": 1774102164,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -153,6 +161,14 @@
       "onboard_time": 1774048937,
       "rank": 11,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 698134,
+      "num": 245648,
+      "word": "网传B站裁员60%研发集体罢工",
+      "onboard_time": 1774100124,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 683858,
@@ -305,14 +321,6 @@
       "onboard_time": 1774092021,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 423756,
-      "num": 245648,
-      "word": "网传B站裁员60%研发集体罢工",
-      "onboard_time": 1774100124,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 413743,
@@ -491,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300169,
+      "num": 196444,
+      "word": "云旗走秀造型",
+      "onboard_time": 1774089921,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300032,
       "num": 263672,
       "word": "梅姨曾与60多岁老人同居2年",
@@ -513,14 +529,6 @@
       "onboard_time": 1774010182,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284786,
-      "num": 196444,
-      "word": "云旗走秀造型",
-      "onboard_time": 1774089921,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 281230,
@@ -632,6 +640,14 @@
       "word": "梅姨案被拐孩子发声",
       "onboard_time": 1774068382,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226466,
+      "num": 226466,
+      "word": "重庆一高校实验室爆炸现场画面",
+      "onboard_time": 1774101923,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -761,6 +777,14 @@
       "onboard_time": 1774020442,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198354,
+      "num": 198354,
+      "word": "GEN对战G2",
+      "onboard_time": 1774100424,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 196240,
@@ -1019,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155625,
-      "num": 155625,
-      "word": "GEN对战G2",
-      "onboard_time": 1774100424,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 153598,
       "num": 383312,
       "word": "以色列全国多地遭导弹袭击",
@@ -1120,6 +1136,14 @@
       "word": "梅姨案有家庭认亲成功也未能团圆",
       "onboard_time": 1774084824,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140924,
+      "num": 140924,
+      "word": "小区旁400万吨垃圾被挖出来了",
+      "onboard_time": 1774103062,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1483,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105552,
+      "num": 146947,
+      "word": "美国内部吵成一锅粥",
+      "onboard_time": 1774101323,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105245,
       "num": 105245,
       "word": "长生状态",
@@ -1659,6 +1691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 94254,
+      "num": 94254,
+      "word": "董洁说90斤不敢上称",
+      "onboard_time": 1774099104,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93627,
       "num": 259402,
       "word": "专八",
@@ -1673,14 +1713,6 @@
       "onboard_time": 1774048216,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93426,
-      "num": 93426,
-      "word": "董洁说90斤不敢上称",
-      "onboard_time": 1774099104,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 93266,
@@ -1747,6 +1779,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89751,
+      "num": 89751,
+      "word": "梅姨自称有两个女儿",
+      "onboard_time": 1774103484,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89619,
+      "num": 89619,
+      "word": "孙俪能穿得下童装",
+      "onboard_time": 1774101982,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 89138,
       "num": 82065,
       "word": "梅姨画像作者称尚未收到梅姨真实照",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1774057880,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88574,
+      "num": 88574,
+      "word": "重庆警方回应一高校实验室爆炸",
+      "onboard_time": 1774100544,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87860,
@@ -2115,6 +2171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78980,
+      "num": 78980,
+      "word": "云南玉昆4比0山东泰山",
+      "onboard_time": 1774102946,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78887,
       "num": 78887,
       "word": "现在才懂刘亦菲白秀珠的含金量",
@@ -2137,6 +2201,14 @@
       "onboard_time": 1774010961,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 77643,
+      "num": 81627,
+      "word": "你好星期六下期有刘宇宁",
+      "onboard_time": 1774102046,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 77554,
@@ -2257,6 +2329,14 @@
       "onboard_time": 1774083382,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72638,
+      "num": 146360,
+      "word": "梅姨真实照片或在判决后公布",
+      "onboard_time": 1774102583,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72594,
@@ -3227,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21013,
+      "num": 718042,
+      "word": "2026全国寻春地图",
+      "onboard_time": 1774101204,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20555,
       "num": 26601,
       "word": "上海迪士尼10岁生日庆典主题曲",
@@ -3321,14 +3409,6 @@
       "onboard_time": 1774001242,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 10885,
-      "num": 647278,
-      "word": "2026全国寻春地图",
-      "onboard_time": 1774101204,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3894,
