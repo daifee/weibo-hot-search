@@ -1,0 +1,410 @@
+{
+  "runTime": 1774072172173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8120797,
+        "num": 8120797,
+        "word": "梅姨被逮捕",
+        "onboard_time": 1774064541,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2263885,
+        "num": 2263885,
+        "word": "谢某某就是梅姨",
+        "onboard_time": 1774065984,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23887,
+        "num": 1376290,
+        "word": "清明小长假火车购票日历",
+        "onboard_time": 1774061118,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 795878,
+        "num": 795878,
+        "word": "白象 土豆泥火鸡面",
+        "onboard_time": 1774069942,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 365370,
+        "num": 365370,
+        "word": "梅姨被逮杨妞花发声",
+        "onboard_time": 1774070783,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256373,
+        "num": 256373,
+        "word": "终于有人吐槽手语舞了",
+        "onboard_time": 1774066223,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228893,
+        "num": 228893,
+        "word": "董事长病逝未成年女儿继承9亿股票",
+        "onboard_time": 1774071141,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170079,
+        "num": 170079,
+        "word": "章子怡采访刘烨憋笑",
+        "onboard_time": 1774067304,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149129,
+        "num": 149129,
+        "word": "95号油价或破10元",
+        "onboard_time": 1774068921,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149025,
+        "num": 149025,
+        "word": "虞书欣专辑签售会",
+        "onboard_time": 1774068503,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 549060,
+        "num": 148759,
+        "word": "网友通过倪妮悄悄话分析出汤唯怀孕了",
+        "onboard_time": 1774065682,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464115,
+        "num": 148423,
+        "word": "15岁女生派出所办公室内遭猥亵",
+        "onboard_time": 1774065502,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324111,
+        "num": 148008,
+        "word": "伊朗有意日本船只通行霍尔木兹海峡",
+        "onboard_time": 1774070361,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285227,
+        "num": 147530,
+        "word": "徐志胜自曝创业月亏12万",
+        "onboard_time": 1774069822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233477,
+        "num": 146960,
+        "word": "梅姨案被拐孩子发声",
+        "onboard_time": 1774068382,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184346,
+        "num": 146317,
+        "word": "感觉迪丽热巴工作室换人了",
+        "onboard_time": 1774053141,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172958,
+        "num": 146163,
+        "word": "官方通报月经弄脏卧铺事件详情",
+        "onboard_time": 1774018763,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 145793,
+        "num": 145793,
+        "word": "郝阿三资源",
+        "onboard_time": 1774070062,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125534,
+        "num": 125534,
+        "word": "以色列全国多地遭导弹袭击",
+        "onboard_time": 1774064000,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120455,
+        "num": 120455,
+        "word": "邓为孔雪儿 百妖谱",
+        "onboard_time": 1774055779,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221581,
+        "num": 119251,
+        "word": "金价大跌情侣火速买五金",
+        "onboard_time": 1774066403,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124914,
+        "num": 118197,
+        "word": "迪丽热巴陈飞宇 cp感",
+        "onboard_time": 1774070001,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116746,
+        "num": 116746,
+        "word": "3月婴儿独自在家被子盖脸近2分钟",
+        "onboard_time": 1774069881,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 109341,
+        "num": 109341,
+        "word": "梅姨案时间线",
+        "onboard_time": 1774066822,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104956,
+        "num": 104956,
+        "word": "逐玉全上桌",
+        "onboard_time": 1774070302,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103668,
+        "num": 103668,
+        "word": "梅姨同伙2人已被执行死刑",
+        "onboard_time": 1774067243,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93905,
+        "num": 93905,
+        "word": "余华英",
+        "onboard_time": 1774070121,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92423,
+        "num": 92423,
+        "word": "摸鱼摸到忘记自己在上班",
+        "onboard_time": 1774065382,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85698,
+        "num": 85698,
+        "word": "美女卖糍粑把大哥哄成胎盘了",
+        "onboard_time": 1774068323,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85290,
+        "num": 85290,
+        "word": "盖娅传说 冷处理",
+        "onboard_time": 1774060339,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85269,
+        "num": 85269,
+        "word": "曝汤唯疑怀二胎",
+        "onboard_time": 1774062380,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81233,
+        "num": 81233,
+        "word": "梅姨 童年阴影",
+        "onboard_time": 1774065382,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83134,
+        "num": 80930,
+        "word": "白日提灯顶级待遇",
+        "onboard_time": 1774068382,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80294,
+        "num": 80294,
+        "word": "路虎8次别停事件立案为何迟到3月",
+        "onboard_time": 1774068562,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 79617,
+        "num": 79617,
+        "word": "伊朗威胁将毁灭性打击美以邪恶官员",
+        "onboard_time": 1774069104,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76248,
+        "num": 76248,
+        "word": "永远被灵器认主的设定爽到",
+        "onboard_time": 1774070901,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74613,
+        "num": 74613,
+        "word": "风雨廊亭梦已醒 上完厕所丢行李",
+        "onboard_time": 1774071861,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66696,
+        "num": 73371,
+        "word": "为救女儿直播跳舞男子被指好吃懒做",
+        "onboard_time": 1774062739,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73081,
+        "num": 73081,
+        "word": "逐玉 反向入侵短剧",
+        "onboard_time": 1774054702,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72337,
+        "num": 72337,
+        "word": "魏哲鸣半夜撤回一个剧宣",
+        "onboard_time": 1774066942,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65378,
+        "num": 65378,
+        "word": "杨瀚森17分11板2帽",
+        "onboard_time": 1774071920,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59222,
+        "num": 64157,
+        "word": "律师回应梅姨是否会判死刑",
+        "onboard_time": 1774070720,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70504,
+        "num": 63927,
+        "word": "张凌赫的微指",
+        "onboard_time": 1774067843,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63570,
+        "num": 63570,
+        "word": "金饰价跌到1389元",
+        "onboard_time": 1774069881,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63195,
+        "num": 63195,
+        "word": "张峻豪把车灯当闪光灯用",
+        "onboard_time": 1774071141,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 55960,
+        "num": 55960,
+        "word": "小猫能有多犟种",
+        "onboard_time": 1774069041,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55026,
+        "num": 55026,
+        "word": "DESIRE4也太明显了",
+        "onboard_time": 1774071740,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54992,
+        "num": 54992,
+        "word": "预判了爱狗人士的每一步",
+        "onboard_time": 1774071561,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53934,
+        "num": 53934,
+        "word": "懂车帝实测小米新SU7Pro",
+        "onboard_time": 1774070361,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 53561,
+        "num": 53561,
+        "word": "小米汽车回应对撞测试标准",
+        "onboard_time": 1774071801,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在地方工作的两个故事#"
+    }
+  }
+}
