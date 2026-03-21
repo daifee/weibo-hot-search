@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774111204736,
+  "endTime": 1774112135028,
   "band_list": [
     {
       "raw_hot": 1144240,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433166,
+      "num": 489534,
+      "word": "重庆大学实验室爆炸现场血迹明显",
+      "onboard_time": 1774109901,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416788,
       "num": 416788,
       "word": "GEN对战G2",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 326358,
-      "num": 228050,
+      "num": 235901,
       "word": "当年亲爱的热爱的被泄漏反创新高",
       "onboard_time": 1774106304,
       "rank": 5,
@@ -73,6 +81,14 @@
       "onboard_time": 1774104744,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 235676,
+      "num": 235676,
+      "word": "季冠霖发文抵制AI",
+      "onboard_time": 1774090342,
+      "rank": 6,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 231839,
@@ -97,22 +113,6 @@
       "onboard_time": 1774081225,
       "rank": 21,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 222355,
-      "num": 222355,
-      "word": "季冠霖发文抵制AI",
-      "onboard_time": 1774090342,
-      "rank": 6,
-      "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 202953,
-      "num": 202953,
-      "word": "重庆大学实验室爆炸现场血迹明显",
-      "onboard_time": 1774109901,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197534,
@@ -147,7 +147,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163119,
+      "raw_hot": 178257,
       "num": 182413,
       "word": "高市访问埋葬广岛原子弹投弹手公墓",
       "onboard_time": 1774108404,
@@ -187,12 +187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130913,
+      "num": 182696,
+      "word": "遭派出所民警猥亵女生父亲申请抗诉",
+      "onboard_time": 1774108705,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126738,
       "num": 183507,
       "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
       "onboard_time": 1774103783,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102927,
+      "num": 182408,
+      "word": "梅姨平时说媒背地贩卖小孩",
+      "onboard_time": 1774108522,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99640,
@@ -203,7 +219,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 91372,
+      "raw_hot": 96011,
       "num": 183366,
       "word": "阿娇的邪修减肥法是刷牙",
       "onboard_time": 1774095621,
@@ -211,11 +227,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81623,
-      "num": 182408,
-      "word": "梅姨平时说媒背地贩卖小孩",
-      "onboard_time": 1774108522,
-      "rank": 31,
+      "raw_hot": 75298,
+      "num": 182243,
+      "word": "梅姨为何能潜逃藏匿十余年",
+      "onboard_time": 1774110441,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -243,15 +259,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 67661,
-      "num": 182696,
-      "word": "遭派出所民警猥亵女生父亲申请抗诉",
-      "onboard_time": 1774108705,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65478,
+      "raw_hot": 67735,
       "num": 182298,
       "word": "邓凯又在孔雀凯屏",
       "onboard_time": 1774108103,
@@ -259,12 +267,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64954,
-      "num": 182243,
-      "word": "梅姨为何能潜逃藏匿十余年",
-      "onboard_time": 1774110441,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 65088,
+      "num": 182076,
+      "word": "曝梁小龙去世两个月没下葬将停棺10年",
+      "onboard_time": 1774076361,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61506,
+      "num": 181028,
+      "word": "倪妮生理性演技",
+      "onboard_time": 1774111161,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 61001,
@@ -273,14 +289,6 @@
       "onboard_time": 1774092743,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 60161,
-      "num": 182076,
-      "word": "曝梁小龙去世两个月没下葬将停棺10年",
-      "onboard_time": 1774076361,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 59790,
@@ -371,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46563,
-      "num": 181028,
-      "word": "倪妮生理性演技",
-      "onboard_time": 1774111161,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 46276,
       "num": 180945,
       "word": "香港高薪抢医生",
@@ -387,11 +387,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40706,
+      "num": 127625,
+      "word": "内塔尼亚胡鼓动地面进攻伊朗",
+      "onboard_time": 1774111518,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35021,
       "num": 180863,
       "word": "张展硕400自金牌",
       "onboard_time": 1774104984,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27902,
+      "num": 127541,
+      "word": "AG 轮换",
+      "onboard_time": 1774100603,
+      "rank": 48,
       "category": "体育"
     },
     {
