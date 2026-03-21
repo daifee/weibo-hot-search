@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774114418860,
+  "endTime": 1774115457987,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -29387,6 +29387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111330,
+      "num": 182243,
+      "word": "梅姨为何能潜逃藏匿十余年",
+      "onboard_time": 1774110441,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111325,
       "num": 111325,
       "word": "邓凯 你第一",
@@ -40579,14 +40587,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 78810,
-      "num": 182243,
-      "word": "梅姨为何能潜逃藏匿十余年",
-      "onboard_time": 1774110441,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78793,
       "num": 78793,
       "word": "JackeyLove职业生涯最夯的一次闪现",
@@ -50425,6 +50425,14 @@
       "onboard_time": 1774110860,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48402,
+      "num": 101548,
+      "word": "9省份11所高校由学院升格为大学",
+      "onboard_time": 1774114457,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 48385,
