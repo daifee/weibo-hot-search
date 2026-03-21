@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774115457987,
+  "endTime": 1774118839596,
   "band_list": [
     {
       "raw_hot": 1144240,
@@ -323,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53414,
+      "num": 101548,
+      "word": "9省份11所高校由学院升格为大学",
+      "onboard_time": 1774114457,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 53299,
       "num": 181667,
       "word": "何与看烟花",
@@ -369,14 +377,6 @@
       "onboard_time": 1774110860,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48402,
-      "num": 101548,
-      "word": "9省份11所高校由学院升格为大学",
-      "onboard_time": 1774114457,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 47849,
@@ -459,12 +459,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20440,
+      "num": 55372,
+      "word": "云旗高定",
+      "onboard_time": 1774115836,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19570,
       "num": 455180,
       "word": "2026全国寻春地图",
       "onboard_time": 1774101204,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18953,
+      "num": 55372,
+      "word": "梅姨被抓钟彬爸爸激动到说话颤抖",
+      "onboard_time": 1774114876,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13450,
+      "num": 55371,
+      "word": "中国游泳公开赛",
+      "onboard_time": 1774100904,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
