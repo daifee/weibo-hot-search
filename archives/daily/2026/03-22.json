@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774136042584,
+  "endTime": 1774136906502,
   "band_list": [
     {
       "raw_hot": 1144240,
@@ -51,8 +51,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 379932,
-      "num": 631032,
+      "raw_hot": 406198,
+      "num": 959592,
       "word": "梅姨到哪也不出示身份证",
       "onboard_time": 1774105945,
       "rank": 1,
@@ -68,11 +68,27 @@
     },
     {
       "raw_hot": 326358,
-      "num": 235901,
+      "num": 269971,
       "word": "当年亲爱的热爱的被泄漏反创新高",
       "onboard_time": 1774106304,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303796,
+      "num": 284091,
+      "word": "逐玉全集泄露",
+      "onboard_time": 1774134976,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 296770,
+      "num": 296770,
+      "word": "男子反对加装电梯后反悔遭全楼反对",
+      "onboard_time": 1774135698,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260334,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 259217,
-      "num": 184751,
+      "num": 210379,
       "word": "女子制售自拍淫秽视频获刑3年",
       "onboard_time": 1774104744,
       "rank": 10,
@@ -107,6 +123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 231169,
+      "num": 78801,
+      "word": "男子醉酒摸女孩胸部被高中生制服",
+      "onboard_time": 1774134676,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225110,
       "num": 182791,
       "word": "逐玉 青天大老爷",
@@ -121,14 +145,6 @@
       "onboard_time": 1774081225,
       "rank": 21,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 213822,
-      "num": 61610,
-      "word": "男子醉酒摸女孩胸部被高中生制服",
-      "onboard_time": 1774134676,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201134,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 172880,
-      "num": 81842,
+      "num": 154081,
       "word": "伊朗称正在霍尔木兹采取重大行动",
       "onboard_time": 1774129815,
       "rank": 30,
@@ -212,35 +228,19 @@
     },
     {
       "raw_hot": 134683,
-      "num": 183594,
+      "num": 289223,
       "word": "出车祸私了后发现9级伤残",
       "onboard_time": 1774104984,
       "rank": 16,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130494,
-      "num": 48460,
-      "word": "男子反对加装电梯后反悔遭全楼反对",
-      "onboard_time": 1774135698,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126738,
-      "num": 183507,
+      "num": 710881,
       "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
       "onboard_time": 1774103783,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 125858,
-      "num": 104420,
-      "word": "逐玉全集泄露",
-      "onboard_time": 1774134976,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 111330,
@@ -251,6 +251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111278,
+      "num": 248441,
+      "word": "机车网红黄油腻被曝发生事故去世",
+      "onboard_time": 1774136178,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102145,
+      "num": 183366,
+      "word": "阿娇的邪修减肥法是刷牙",
+      "onboard_time": 1774095621,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99640,
       "num": 183432,
       "word": "管泽元 G2太猛了",
@@ -259,15 +275,23 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 96011,
-      "num": 183366,
-      "word": "阿娇的邪修减肥法是刷牙",
-      "onboard_time": 1774095621,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 98235,
+      "num": 244691,
+      "word": "樊长玉和谢征归隐小镇",
+      "onboard_time": 1774136118,
+      "rank": 8,
+      "category": "剧集"
     },
     {
-      "raw_hot": 82828,
+      "raw_hot": 96785,
+      "num": 231799,
+      "word": "郑钦文战胜前美网冠军",
+      "onboard_time": 1774135338,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88231,
       "num": 127625,
       "word": "内塔尼亚胡鼓动地面进攻伊朗",
       "onboard_time": 1774111518,
@@ -275,12 +299,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 76497,
-      "num": 82346,
-      "word": "郑钦文战胜前美网冠军",
-      "onboard_time": 1774135338,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 77904,
+      "num": 77904,
+      "word": "白敬亭包场章若楠冬去春来",
+      "onboard_time": 1774135819,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 76356,
+      "num": 182076,
+      "word": "曝梁小龙去世两个月没下葬将停棺10年",
+      "onboard_time": 1774076361,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 74667,
@@ -288,14 +320,6 @@
       "word": "曝迪丽热巴新经纪人入职嘉行",
       "onboard_time": 1774083081,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 72527,
-      "num": 182076,
-      "word": "曝梁小龙去世两个月没下葬将停棺10年",
-      "onboard_time": 1774076361,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -323,6 +347,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64106,
+      "num": 101548,
+      "word": "9省份11所高校由学院升格为大学",
+      "onboard_time": 1774114457,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 64023,
+      "num": 55961,
+      "word": "战争买黄金失灵了",
+      "onboard_time": 1774134797,
+      "rank": 32,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 61506,
       "num": 181028,
       "word": "倪妮生理性演技",
@@ -331,28 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61431,
-      "num": 101548,
-      "word": "9省份11所高校由学院升格为大学",
-      "onboard_time": 1774114457,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 61001,
       "num": 182140,
       "word": "JDG战胜DYG",
       "onboard_time": 1774092743,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 60801,
-      "num": 48202,
-      "word": "战争买黄金失灵了",
-      "onboard_time": 1774134797,
-      "rank": 32,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 59790,
@@ -387,19 +411,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52549,
-      "num": 52549,
-      "word": "白敬亭包场章若楠冬去春来",
-      "onboard_time": 1774135819,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 52520,
       "num": 52520,
       "word": "梅姨2年内拐卖9名儿童",
       "onboard_time": 1774123334,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51885,
+      "num": 181529,
+      "word": "梅姨曾与60多岁老人同居2年",
+      "onboard_time": 1774085363,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -409,14 +433,6 @@
       "onboard_time": 1774109483,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50727,
-      "num": 181529,
-      "word": "梅姨曾与60多岁老人同居2年",
-      "onboard_time": 1774085363,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50260,
@@ -491,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43706,
+      "num": 43706,
+      "word": "孔雪儿逐玉戏份",
+      "onboard_time": 1774136658,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42883,
       "num": 123775,
       "word": "隐身的名字",
       "onboard_time": 1774109721,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39220,
+      "num": 43702,
+      "word": "高铁商城 有泡泡玛特没有卫生巾",
+      "onboard_time": 1774136359,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37128,
@@ -507,12 +539,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36262,
+      "num": 43688,
+      "word": "王源把音乐节开成演唱会",
+      "onboard_time": 1774136118,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 35741,
+      "num": 43682,
+      "word": "逐玉泄露时间",
+      "onboard_time": 1774136598,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35021,
       "num": 180863,
       "word": "张展硕400自金牌",
       "onboard_time": 1774104984,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29872,
+      "num": 43665,
+      "word": "陈泽",
+      "onboard_time": 1774135517,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 29123,
@@ -523,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28660,
+      "num": 76840,
+      "word": "云旗高定",
+      "onboard_time": 1774115836,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 28520,
       "num": 41017,
       "word": "怕揭伤疤不想告诉儿子梅姨落网",
@@ -531,12 +595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28277,
-      "num": 76840,
-      "word": "云旗高定",
-      "onboard_time": 1774115836,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 28096,
+      "num": 43657,
+      "word": "德黑兰传出爆炸防空系统不断启动",
+      "onboard_time": 1774136718,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27902,
@@ -545,14 +609,6 @@
       "onboard_time": 1774100603,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24473,
-      "num": 40017,
-      "word": "陈泽",
-      "onboard_time": 1774135517,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 22840,
@@ -564,7 +620,7 @@
     },
     {
       "raw_hot": 19570,
-      "num": 496016,
+      "num": 550047,
       "word": "2026全国寻春地图",
       "onboard_time": 1774101204,
       "rank": 2,
@@ -619,20 +675,20 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 14479,
+      "num": 55371,
+      "word": "中国游泳公开赛",
+      "onboard_time": 1774100904,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14064,
       "num": 45567,
       "word": "读大学就是一场巨大的追星现场",
       "onboard_time": 1774119975,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13450,
-      "num": 55371,
-      "word": "中国游泳公开赛",
-      "onboard_time": 1774100904,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 12208,
