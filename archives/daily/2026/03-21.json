@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774082610167,
+  "endTime": 1774083494019,
   "band_list": [
     {
       "raw_hot": 13365300,
@@ -43,20 +43,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1241369,
+      "num": 717357,
+      "word": "梅姨同居男友都看不到她的身份证",
+      "onboard_time": 1774081225,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1093752,
       "num": 1093752,
       "word": "白象 土豆泥火鸡面",
       "onboard_time": 1774069942,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 915097,
-      "num": 717357,
-      "word": "梅姨同居男友都看不到她的身份证",
-      "onboard_time": 1774081225,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 903161,
@@ -203,20 +203,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407718,
+      "num": 121579,
+      "word": "痞幼因网红身份被邻居排挤",
+      "onboard_time": 1774080382,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 394326,
       "num": 1063092,
       "word": "离职当天遇车祸获赔16万误工费",
       "onboard_time": 1774058781,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 392578,
-      "num": 121579,
-      "word": "痞幼因网红身份被邻居排挤",
-      "onboard_time": 1774080382,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 380883,
@@ -291,12 +291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327861,
+      "num": 136586,
+      "word": "梅姨同居男友说她不戴首饰",
+      "onboard_time": 1774081582,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326185,
       "num": 326185,
       "word": "梅姨落网被拐儿童钟彬激动得吐了",
       "onboard_time": 1774072641,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310851,
+      "num": 133592,
+      "word": "张凌赫男大自拍",
+      "onboard_time": 1774082001,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 303267,
@@ -345,6 +361,14 @@
       "onboard_time": 1774070121,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245363,
+      "num": 105068,
+      "word": "曝迪丽热巴新经纪人入职嘉行",
+      "onboard_time": 1774083081,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 241389,
@@ -451,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201198,
+      "num": 201198,
+      "word": "别来工作的地方找我",
+      "onboard_time": 1774079721,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198924,
       "num": 167148,
       "word": "章子怡高叶影后双黄蛋",
@@ -507,14 +539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 186601,
-      "num": 186601,
-      "word": "别来工作的地方找我",
-      "onboard_time": 1774079721,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 185471,
       "num": 129381,
       "word": "还原梅姨画像神笔警探发声",
@@ -547,26 +571,10 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 181918,
-      "num": 135714,
-      "word": "梅姨同居男友说她不戴首饰",
-      "onboard_time": 1774081582,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181149,
       "num": 131669,
       "word": "迪丽热巴 女王回归",
       "onboard_time": 1774007303,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 180466,
-      "num": 133592,
-      "word": "张凌赫男大自拍",
-      "onboard_time": 1774082001,
       "rank": 17,
       "category": "艺人"
     },
@@ -979,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109929,
+      "num": 109929,
+      "word": "梅姨与画像相似度不到30%",
+      "onboard_time": 1774080082,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107231,
       "num": 107231,
       "word": "Steam春促",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1774014502,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98305,
+      "num": 98305,
+      "word": "90后男子为降血糖自制汤药身亡",
+      "onboard_time": 1774081522,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96790,
@@ -1307,12 +1331,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81728,
+      "num": 81728,
+      "word": "每天靠墙站10分钟会发生什么",
+      "onboard_time": 1774083382,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 81694,
       "num": 81694,
       "word": "四川发现储量世界第二大轻稀土矿",
       "onboard_time": 1774060100,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80930,
+      "num": 80930,
+      "word": "AG锁定季后赛胜者组",
+      "onboard_time": 1774083081,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 80054,
@@ -1329,6 +1369,14 @@
       "onboard_time": 1774049718,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 79788,
+      "num": 79788,
+      "word": "销售帮客户摇出顶级豹子车牌号",
+      "onboard_time": 1774079303,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79489,
@@ -1387,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76344,
+      "num": 76344,
+      "word": "软软的水 脆脆的水",
+      "onboard_time": 1774083264,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76245,
       "num": 81843,
       "word": "美国男子回应撞脸爱泼斯坦",
@@ -1427,6 +1483,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73998,
+      "num": 73998,
+      "word": "猫咪意识到抚摸它的不是妈妈",
+      "onboard_time": 1774082302,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73728,
+      "num": 73728,
+      "word": "业内曝男演员比女演员修图难",
+      "onboard_time": 1774082363,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73369,
       "num": 73369,
       "word": "前员工爆料海底捞高层点炮制度",
@@ -1451,6 +1523,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 72370,
+      "num": 72370,
+      "word": "粉丝误把五月天门票送给韩雨彤",
+      "onboard_time": 1774080861,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72255,
+      "num": 66732,
+      "word": "王天辰呲个大牙看郭晓婷笑",
+      "onboard_time": 1774082181,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72241,
       "num": 72241,
       "word": "30岁之后很多事才会陆续发生",
@@ -1464,14 +1552,6 @@
       "word": "梅姨2017年浮出水面",
       "onboard_time": 1774078461,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71993,
-      "num": 71993,
-      "word": "销售帮客户摇出顶级豹子车牌号",
-      "onboard_time": 1774079303,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1507,14 +1587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69780,
-      "num": 69780,
-      "word": "粉丝误把五月天门票送给韩雨彤",
-      "onboard_time": 1774080861,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69407,
       "num": 69407,
       "word": "cmg中国电影荣誉名单",
@@ -1539,14 +1611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68579,
-      "num": 68579,
-      "word": "业内曝男演员比女演员修图难",
-      "onboard_time": 1774082363,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67785,
       "num": 67785,
       "word": "隔着屏幕我都闻到酸味了",
@@ -1563,12 +1627,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66793,
+      "num": 75423,
+      "word": "以色列刚放完狠话防空警报就响了",
+      "onboard_time": 1774080382,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66502,
       "num": 66502,
       "word": "女子屋内大量养猫22户邻居集体诉讼",
       "onboard_time": 1774072461,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66278,
+      "num": 66278,
+      "word": "WB确认锁定季后赛",
+      "onboard_time": 1774082902,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 65989,
@@ -1607,6 +1687,14 @@
       "num": 65250,
       "word": "片寄凉太幸福肥",
       "onboard_time": 1774076961,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65223,
+      "num": 65223,
+      "word": "宋雨琦在工作场合遇到同担",
+      "onboard_time": 1774082363,
       "rank": 40,
       "category": "艺人"
     },
@@ -1657,14 +1745,6 @@
       "onboard_time": 1774073240,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 63591,
-      "num": 63591,
-      "word": "猫咪意识到抚摸它的不是妈妈",
-      "onboard_time": 1774082302,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 63570,
@@ -1787,12 +1867,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 61051,
-      "num": 61051,
-      "word": "梅姨与画像相似度不到30%",
-      "onboard_time": 1774080082,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 61127,
+      "num": 61127,
+      "word": "付思超否认与黄霄云恋情",
+      "onboard_time": 1774083382,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 60985,
@@ -1819,14 +1899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60611,
-      "num": 60611,
-      "word": "王天辰呲个大牙看郭晓婷笑",
-      "onboard_time": 1774082181,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 60583,
       "num": 60583,
       "word": "猫猫被自己美了一大跳",
@@ -1841,14 +1913,6 @@
       "onboard_time": 1774079002,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 60318,
-      "num": 75423,
-      "word": "以色列刚放完狠话防空警报就响了",
-      "onboard_time": 1774080382,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 60157,
@@ -1963,6 +2027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 55404,
+      "num": 55404,
+      "word": "为什么猫咪塌鼻梁还那么可爱",
+      "onboard_time": 1774083023,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55110,
       "num": 55110,
       "word": "NBA状元热门首轮爆冷",
@@ -2001,14 +2073,6 @@
       "onboard_time": 1774072881,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54175,
-      "num": 62639,
-      "word": "90后男子为降血糖自制汤药身亡",
-      "onboard_time": 1774081522,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54138,
@@ -2083,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46295,
+      "num": 55188,
+      "word": "多地中小银行集中清理沉睡账户",
+      "onboard_time": 1774082661,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 45717,
       "num": 45717,
       "word": "女子托人看娃如厕后儿子失踪",
@@ -2121,6 +2193,14 @@
       "onboard_time": 1774048878,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36969,
+      "num": 60138,
+      "word": "王鹤棣丁程鑫配合度给到一个夯",
+      "onboard_time": 1774083264,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 36689,
