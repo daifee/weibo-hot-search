@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774099562028,
+  "endTime": 1774101578546,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -27,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11249504,
-      "num": 11249504,
+      "raw_hot": 12333152,
+      "num": 12333152,
       "word": "逐玉 泄露",
       "onboard_time": 1774096521,
       "rank": 12,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2232360,
+      "num": 304268,
+      "word": "逐玉大结局",
+      "onboard_time": 1774097962,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2210943,
       "num": 2210943,
       "word": "鹿哈或需赔偿消费者26.9亿元",
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1807451,
+      "num": 265373,
+      "word": "逐玉 爱奇艺",
+      "onboard_time": 1774098864,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1769557,
       "num": 1769557,
       "word": "给AI投毒",
@@ -153,14 +169,6 @@
       "onboard_time": 1773999800,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1697833,
-      "num": 210275,
-      "word": "逐玉大结局",
-      "onboard_time": 1774097962,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 1589548,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 918436,
-      "num": 189916,
+      "num": 322839,
       "word": "季冠霖发文抵制AI",
       "onboard_time": 1774090342,
       "rank": 39,
@@ -521,6 +529,14 @@
       "onboard_time": 1774077861,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 901512,
+      "num": 189100,
+      "word": "逐玉 一天一集果然会出事",
+      "onboard_time": 1774098984,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 884093,
@@ -553,14 +569,6 @@
       "onboard_time": 1773575843,
       "rank": 12,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 847926,
-      "num": 176498,
-      "word": "逐玉 爱奇艺",
-      "onboard_time": 1774098864,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 846868,
@@ -883,14 +891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 674392,
-      "num": 168701,
-      "word": "逐玉 一天一集果然会出事",
-      "onboard_time": 1774098984,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 674004,
       "num": 183912,
       "word": "2026奥斯卡获奖名单",
@@ -1105,6 +1105,14 @@
       "onboard_time": 1773593298,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 601791,
+      "num": 347894,
+      "word": "逐玉 删戏份",
+      "onboard_time": 1774098625,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 600842,
@@ -2139,6 +2147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 444631,
+      "num": 444631,
+      "word": "狼队对战AG",
+      "onboard_time": 1774097242,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 443855,
       "num": 221204,
       "word": "三亚回应戴军潜水时被拔呼吸器威胁",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1773649227,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423756,
+      "num": 245648,
+      "word": "网传B站裁员60%研发集体罢工",
+      "onboard_time": 1774100124,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 423146,
@@ -2516,7 +2540,7 @@
     },
     {
       "raw_hot": 396636,
-      "num": 188679,
+      "num": 194138,
       "word": "这段话杀死了我的精神内耗",
       "onboard_time": 1774093400,
       "rank": 40,
@@ -2528,14 +2552,6 @@
       "word": "宁娘 皇后",
       "onboard_time": 1773834982,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 396602,
-      "num": 184092,
-      "word": "逐玉 删戏份",
-      "onboard_time": 1774098625,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -2811,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369001,
+      "num": 369001,
+      "word": "狼队战胜AG",
+      "onboard_time": 1774100963,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 368395,
       "num": 865711,
       "word": "刘文祥麻辣烫店员徒手拌麻酱",
@@ -3041,14 +3065,6 @@
       "onboard_time": 1773722184,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 351121,
-      "num": 351121,
-      "word": "狼队对战AG",
-      "onboard_time": 1774097242,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 350233,
@@ -3987,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284786,
+      "num": 196444,
+      "word": "云旗走秀造型",
+      "onboard_time": 1774089921,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284597,
       "num": 284597,
       "word": "二月二龙抬头应该吃点啥",
@@ -4056,6 +4080,14 @@
       "word": "台湾发生双尸案",
       "onboard_time": 1773924922,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281230,
+      "num": 806740,
+      "word": "11岁男孩脸肿竟是肿瘤骨头断了",
+      "onboard_time": 1774096761,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -4467,6 +4499,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 258549,
+      "num": 256109,
+      "word": "你好星期六预告",
+      "onboard_time": 1774097542,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258384,
       "num": 190477,
       "word": "邓凯跑了8年龙套",
@@ -4529,14 +4569,6 @@
       "onboard_time": 1773876859,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256109,
-      "num": 256109,
-      "word": "你好星期六预告",
-      "onboard_time": 1774097542,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 256004,
@@ -5275,6 +5307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224354,
+      "num": 158546,
+      "word": "迪丽热巴新经纪人疑似回应入职嘉行",
+      "onboard_time": 1774099461,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224293,
       "num": 159562,
       "word": "郝熠然 今晚见一面吧",
@@ -5371,6 +5411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220977,
+      "num": 153676,
+      "word": "云旗直播",
+      "onboard_time": 1774100484,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220742,
       "num": 220742,
       "word": "网友抵制AI演员",
@@ -5449,14 +5497,6 @@
       "onboard_time": 1774091180,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218189,
-      "num": 185364,
-      "word": "云旗走秀造型",
-      "onboard_time": 1774089921,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 217621,
@@ -5947,14 +5987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199782,
-      "num": 158546,
-      "word": "迪丽热巴新经纪人疑似回应入职嘉行",
-      "onboard_time": 1774099461,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199771,
       "num": 199771,
       "word": "时代少年团 外务",
@@ -6185,14 +6217,6 @@
       "onboard_time": 1773637163,
       "rank": 30,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 189991,
-      "num": 189991,
-      "word": "11岁男孩脸肿竟是肿瘤骨头断了",
-      "onboard_time": 1774096761,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189860,
@@ -7459,12 +7483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156101,
+      "num": 156101,
+      "word": "AG 轮换",
+      "onboard_time": 1774100603,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155949,
       "num": 151609,
       "word": "杨幂清唱讲真的",
       "onboard_time": 1774014502,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155625,
+      "num": 155625,
+      "word": "GEN对战G2",
+      "onboard_time": 1774100424,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 155533,
@@ -7641,6 +7681,14 @@
       "onboard_time": 1774011082,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152611,
+      "num": 152611,
+      "word": "雷神加速器崩了",
+      "onboard_time": 1774100004,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 152405,
@@ -9355,6 +9403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121111,
+      "num": 121111,
+      "word": "张凌赫包场冬去春来",
+      "onboard_time": 1774101323,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121051,
       "num": 121051,
       "word": "T1怎么输的",
@@ -10467,6 +10523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 106828,
+      "num": 149824,
+      "word": "重庆铜梁龙vs成都蓉城",
+      "onboard_time": 1774095740,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106598,
       "num": 251727,
       "word": "伊朗对美以发动58波打击",
@@ -10633,6 +10697,14 @@
       "onboard_time": 1773550821,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105245,
+      "num": 105245,
+      "word": "长生状态",
+      "onboard_time": 1774100603,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 105233,
@@ -10921,6 +10993,14 @@
       "onboard_time": 1773803962,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102190,
+      "num": 102190,
+      "word": "AG沙漠图稳稳吃鸡",
+      "onboard_time": 1774101503,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 102142,
@@ -11667,6 +11747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95949,
+      "num": 115538,
+      "word": "重庆铜梁龙3比3成都蓉城",
+      "onboard_time": 1774101385,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95895,
       "num": 95895,
       "word": "湖人vs热火",
@@ -11801,6 +11889,14 @@
       "onboard_time": 1773839121,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95067,
+      "num": 95067,
+      "word": "马斯克为Kimi撑腰",
+      "onboard_time": 1774100484,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 94902,
@@ -12579,6 +12675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88972,
+      "num": 88972,
+      "word": "梅姨平时说媒背地里贩卖小孩",
+      "onboard_time": 1774099883,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 88908,
       "num": 88064,
       "word": "马丽感谢沈腾",
@@ -12681,6 +12785,22 @@
       "onboard_time": 1773565823,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87860,
+      "num": 87860,
+      "word": "中国游泳公开赛",
+      "onboard_time": 1774100904,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87854,
+      "num": 87854,
+      "word": "华晨宇斑马音乐节舞台",
+      "onboard_time": 1774100904,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 87824,
@@ -12857,6 +12977,14 @@
       "onboard_time": 1773982042,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87047,
+      "num": 87047,
+      "word": "和喜欢的人散步是多么幸福",
+      "onboard_time": 1774099643,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 87030,
@@ -17307,14 +17435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57747,
-      "num": 69435,
-      "word": "重庆铜梁龙vs成都蓉城",
-      "onboard_time": 1774095740,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57723,
       "num": 154927,
       "word": "多个品牌标签隐瞒一口价黄金克重",
@@ -19723,6 +19843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18719,
+      "num": 121281,
+      "word": "本周这些数据最值得关注",
+      "onboard_time": 1774101024,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18657,
       "num": 27044,
       "word": "伊朗逮捕41名间谍",
@@ -20115,6 +20243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10885,
+      "num": 647278,
+      "word": "2026全国寻春地图",
+      "onboard_time": 1774101204,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10852,
       "num": 105589,
       "word": "田亮叶一茜一家与郭富城合照",
@@ -20268,6 +20404,9 @@
     },
     {
       "word": "#以正确政绩观推动高质量发展#"
+    },
+    {
+      "word": "#习近平劝年轻人不要老熬夜#"
     }
   ]
 }

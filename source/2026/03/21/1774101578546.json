@@ -1,0 +1,410 @@
+{
+  "runTime": 1774101578546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 510543,
+        "num": 1081687,
+        "word": "梅姨被逮捕",
+        "onboard_time": 1774064541,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281230,
+        "num": 806740,
+        "word": "11岁男孩脸肿竟是肿瘤骨头断了",
+        "onboard_time": 1774096761,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10885,
+        "num": 647278,
+        "word": "2026全国寻春地图",
+        "onboard_time": 1774101204,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444631,
+        "num": 444631,
+        "word": "狼队对战AG",
+        "onboard_time": 1774097242,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 369001,
+        "num": 369001,
+        "word": "狼队战胜AG",
+        "onboard_time": 1774100963,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12333152,
+        "num": 12333152,
+        "word": "逐玉 泄露",
+        "onboard_time": 1774096521,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 601791,
+        "num": 347894,
+        "word": "逐玉 删戏份",
+        "onboard_time": 1774098625,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322839,
+        "num": 322839,
+        "word": "季冠霖发文抵制AI",
+        "onboard_time": 1774090342,
+        "rank": 7,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 2232360,
+        "num": 304268,
+        "word": "逐玉大结局",
+        "onboard_time": 1774097962,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277038,
+        "num": 277038,
+        "word": "警方曾释放梅姨不存在的信号",
+        "onboard_time": 1774092021,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1807451,
+        "num": 265373,
+        "word": "逐玉 爱奇艺",
+        "onboard_time": 1774098864,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423756,
+        "num": 245648,
+        "word": "网传B站裁员60%研发集体罢工",
+        "onboard_time": 1774100124,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 908274,
+        "num": 222361,
+        "word": "逐玉",
+        "onboard_time": 1774087641,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284786,
+        "num": 196444,
+        "word": "云旗走秀造型",
+        "onboard_time": 1774089921,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194138,
+        "num": 194138,
+        "word": "这段话杀死了我的精神内耗",
+        "onboard_time": 1774093400,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 901512,
+        "num": 189100,
+        "word": "逐玉 一天一集果然会出事",
+        "onboard_time": 1774098984,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258549,
+        "num": 180182,
+        "word": "你好星期六预告",
+        "onboard_time": 1774097542,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170425,
+        "num": 170425,
+        "word": "伊朗手中握有真正的筹码",
+        "onboard_time": 1774090161,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156101,
+        "num": 156101,
+        "word": "AG 轮换",
+        "onboard_time": 1774100603,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155625,
+        "num": 155625,
+        "word": "GEN对战G2",
+        "onboard_time": 1774100424,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 940285,
+        "num": 155212,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1774078881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532674,
+        "num": 154811,
+        "word": "梅姨同居男友都看不到她的身份证",
+        "onboard_time": 1774081225,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 224354,
+        "num": 154484,
+        "word": "迪丽热巴新经纪人疑似回应入职嘉行",
+        "onboard_time": 1774099461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220977,
+        "num": 153676,
+        "word": "云旗直播",
+        "onboard_time": 1774100484,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171238,
+        "num": 153195,
+        "word": "金饰价格已下跌超300元",
+        "onboard_time": 1774083622,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186754,
+        "num": 152970,
+        "word": "张凌赫田曦薇 所有人都在觊觎我妻子",
+        "onboard_time": 1774077623,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152611,
+        "num": 152611,
+        "word": "雷神加速器崩了",
+        "onboard_time": 1774100004,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195275,
+        "num": 151800,
+        "word": "曝迪丽热巴新经纪人入职嘉行",
+        "onboard_time": 1774083081,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118057,
+        "num": 150415,
+        "word": "梅姨曾与60多岁老人同居2年",
+        "onboard_time": 1774085363,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106828,
+        "num": 149824,
+        "word": "重庆铜梁龙vs成都蓉城",
+        "onboard_time": 1774095740,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149423,
+        "num": 149423,
+        "word": "JDG战胜DYG",
+        "onboard_time": 1774092743,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145904,
+        "num": 145904,
+        "word": "梅姨同居男友说她不戴首饰",
+        "onboard_time": 1774081582,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132692,
+        "num": 132692,
+        "word": "曝梁小龙去世两个月没下葬将停棺10年",
+        "onboard_time": 1774076361,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127173,
+        "num": 127173,
+        "word": "黄霄雲 莫挨老子",
+        "onboard_time": 1774089801,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115763,
+        "num": 123250,
+        "word": "梅姨拐卖的儿童认亲后将母亲拉黑",
+        "onboard_time": 1774086740,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122414,
+        "num": 122414,
+        "word": "阿娇的邪修减肥法是刷牙",
+        "onboard_time": 1774095621,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18719,
+        "num": 121281,
+        "word": "本周这些数据最值得关注",
+        "onboard_time": 1774101024,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121111,
+        "num": 121111,
+        "word": "张凌赫包场冬去春来",
+        "onboard_time": 1774101323,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117032,
+        "num": 117032,
+        "word": "张凌赫男大自拍",
+        "onboard_time": 1774082001,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95949,
+        "num": 115538,
+        "word": "重庆铜梁龙3比3成都蓉城",
+        "onboard_time": 1774101385,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114600,
+        "num": 114600,
+        "word": "老师为什么能发现家长签名是假的",
+        "onboard_time": 1774085363,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105245,
+        "num": 105245,
+        "word": "长生状态",
+        "onboard_time": 1774100603,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102190,
+        "num": 102190,
+        "word": "AG沙漠图稳稳吃鸡",
+        "onboard_time": 1774101503,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95067,
+        "num": 95067,
+        "word": "马斯克为Kimi撑腰",
+        "onboard_time": 1774100484,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92916,
+        "num": 92916,
+        "word": "董洁说90斤不敢上称",
+        "onboard_time": 1774099104,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88972,
+        "num": 88972,
+        "word": "梅姨平时说媒背地里贩卖小孩",
+        "onboard_time": 1774099883,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 91624,
+        "num": 88541,
+        "word": "痞幼因网红身份被邻居排挤",
+        "onboard_time": 1774080382,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 87860,
+        "num": 87860,
+        "word": "中国游泳公开赛",
+        "onboard_time": 1774100904,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87854,
+        "num": 87854,
+        "word": "华晨宇斑马音乐节舞台",
+        "onboard_time": 1774100904,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87047,
+        "num": 87047,
+        "word": "和喜欢的人散步是多么幸福",
+        "onboard_time": 1774099643,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平劝年轻人不要老熬夜#"
+    }
+  }
+}
