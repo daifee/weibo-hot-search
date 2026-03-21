@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774132462358,
+  "endTime": 1774133481024,
   "band_list": [
     {
       "raw_hot": 1144240,
@@ -171,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171601,
+      "num": 41027,
+      "word": "伊朗称正在霍尔木兹采取重大行动",
+      "onboard_time": 1774129815,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151285,
       "num": 183831,
       "word": "重庆大学通报实验室爆炸",
@@ -209,14 +217,6 @@
       "onboard_time": 1774103783,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 121152,
-      "num": 23902,
-      "word": "伊朗称正在霍尔木兹采取重大行动",
-      "onboard_time": 1774129815,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 111330,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65298,
+      "num": 127625,
+      "word": "内塔尼亚胡鼓动地面进攻伊朗",
+      "onboard_time": 1774111518,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65088,
       "num": 182076,
       "word": "曝梁小龙去世两个月没下葬将停棺10年",
@@ -312,14 +320,6 @@
       "word": "美国内部吵成一锅粥",
       "onboard_time": 1774101323,
       "rank": 37,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 58648,
-      "num": 127625,
-      "word": "内塔尼亚胡鼓动地面进攻伊朗",
-      "onboard_time": 1774111518,
-      "rank": 46,
       "category": "国际时政"
     },
     {
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23008,
+      "num": 41017,
+      "word": "怕揭伤疤不想告诉儿子梅姨落网",
+      "onboard_time": 1774129035,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22840,
       "num": 101201,
       "word": "梅姨同居男友说她不戴首饰",
@@ -475,7 +483,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20449,
+      "raw_hot": 22292,
       "num": 76840,
       "word": "云旗高定",
       "onboard_time": 1774115836,
@@ -488,14 +496,6 @@
       "word": "2026全国寻春地图",
       "onboard_time": 1774101204,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19381,
-      "num": 23868,
-      "word": "怕揭伤疤不想告诉儿子梅姨落网",
-      "onboard_time": 1774129035,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 18291,
-      "num": 23863,
+      "num": 41002,
       "word": "发现父母老去只是一瞬间的事",
       "onboard_time": 1774126814,
       "rank": 43,
@@ -539,15 +539,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17287,
-      "num": 23860,
+      "raw_hot": 17444,
+      "num": 41007,
       "word": "梅姨案受害者说恨久需见其人",
       "onboard_time": 1774126214,
       "rank": 49,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15150,
+      "raw_hot": 15900,
       "num": 76350,
       "word": "濮院高定时尚周",
       "onboard_time": 1774091900,
@@ -571,20 +571,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12208,
+      "num": 40987,
+      "word": "广东土豆泥拌火鸡面黏糊糊的巨香",
+      "onboard_time": 1774094843,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 11955,
       "num": 22687,
       "word": "第五人格COA9预选赛",
       "onboard_time": 1774088902,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 10343,
-      "num": 23813,
-      "word": "广东土豆泥拌火鸡面黏糊糊的巨香",
-      "onboard_time": 1774094843,
-      "rank": 49,
-      "category": "美食"
     }
   ],
   "hotgov_list": [
