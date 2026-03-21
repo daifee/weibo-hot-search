@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774133481024,
+  "endTime": 1774136042584,
   "band_list": [
     {
       "raw_hot": 1144240,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 584297,
-      "num": 584297,
+      "num": 868816,
       "word": "重庆大学实验室爆炸现场血迹明显",
       "onboard_time": 1774109901,
       "rank": 7,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 379932,
-      "num": 579803,
+      "num": 631032,
       "word": "梅姨到哪也不出示身份证",
       "onboard_time": 1774105945,
       "rank": 1,
@@ -123,6 +123,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 213822,
+      "num": 61610,
+      "word": "男子醉酒摸女孩胸部被高中生制服",
+      "onboard_time": 1774134676,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201134,
       "num": 201134,
       "word": "梅姨平时说媒背地贩卖小孩",
@@ -171,8 +179,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 171601,
-      "num": 41027,
+      "raw_hot": 172880,
+      "num": 81842,
       "word": "伊朗称正在霍尔木兹采取重大行动",
       "onboard_time": 1774129815,
       "rank": 30,
@@ -211,12 +219,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130494,
+      "num": 48460,
+      "word": "男子反对加装电梯后反悔遭全楼反对",
+      "onboard_time": 1774135698,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126738,
       "num": 183507,
       "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
       "onboard_time": 1774103783,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125858,
+      "num": 104420,
+      "word": "逐玉全集泄露",
+      "onboard_time": 1774134976,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 111330,
@@ -243,11 +267,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82828,
+      "num": 127625,
+      "word": "内塔尼亚胡鼓动地面进攻伊朗",
+      "onboard_time": 1774111518,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 76497,
+      "num": 82346,
+      "word": "郑钦文战胜前美网冠军",
+      "onboard_time": 1774135338,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74667,
       "num": 182634,
       "word": "曝迪丽热巴新经纪人入职嘉行",
       "onboard_time": 1774083081,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72527,
+      "num": 182076,
+      "word": "曝梁小龙去世两个月没下葬将停棺10年",
+      "onboard_time": 1774076361,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -275,22 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65298,
-      "num": 127625,
-      "word": "内塔尼亚胡鼓动地面进攻伊朗",
-      "onboard_time": 1774111518,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 65088,
-      "num": 182076,
-      "word": "曝梁小龙去世两个月没下葬将停棺10年",
-      "onboard_time": 1774076361,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61506,
       "num": 181028,
       "word": "倪妮生理性演技",
@@ -299,12 +331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61431,
+      "num": 101548,
+      "word": "9省份11所高校由学院升格为大学",
+      "onboard_time": 1774114457,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 61001,
       "num": 182140,
       "word": "JDG战胜DYG",
       "onboard_time": 1774092743,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 60801,
+      "num": 48202,
+      "word": "战争买黄金失灵了",
+      "onboard_time": 1774134797,
+      "rank": 32,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 59790,
@@ -331,20 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53414,
-      "num": 101548,
-      "word": "9省份11所高校由学院升格为大学",
-      "onboard_time": 1774114457,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 53299,
       "num": 181667,
       "word": "何与看烟花",
       "onboard_time": 1774107863,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52549,
+      "num": 52549,
+      "word": "白敬亭包场章若楠冬去春来",
+      "onboard_time": 1774135819,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 52520,
@@ -393,6 +441,14 @@
       "onboard_time": 1774110860,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47935,
+      "num": 47935,
+      "word": "房东不让砸的承重柱被盘活了",
+      "onboard_time": 1774134617,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47849,
@@ -459,6 +515,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29123,
+      "num": 76503,
+      "word": "梅姨被抓钟彬爸爸激动到说话颤抖",
+      "onboard_time": 1774114876,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28520,
+      "num": 41017,
+      "word": "怕揭伤疤不想告诉儿子梅姨落网",
+      "onboard_time": 1774129035,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28277,
+      "num": 76840,
+      "word": "云旗高定",
+      "onboard_time": 1774115836,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27902,
       "num": 127541,
       "word": "AG 轮换",
@@ -467,12 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23008,
-      "num": 41017,
-      "word": "怕揭伤疤不想告诉儿子梅姨落网",
-      "onboard_time": 1774129035,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 24473,
+      "num": 40017,
+      "word": "陈泽",
+      "onboard_time": 1774135517,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 22840,
@@ -483,16 +563,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22292,
-      "num": 76840,
-      "word": "云旗高定",
-      "onboard_time": 1774115836,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 19570,
-      "num": 455180,
+      "num": 496016,
       "word": "2026全国寻春地图",
       "onboard_time": 1774101204,
       "rank": 2,
@@ -505,14 +577,6 @@
       "onboard_time": 1774118896,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18953,
-      "num": 76503,
-      "word": "梅姨被抓钟彬爸爸激动到说话颤抖",
-      "onboard_time": 1774114876,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18317,

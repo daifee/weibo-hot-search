@@ -1,0 +1,410 @@
+{
+  "runTime": 1774136042584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 507249,
+        "num": 868816,
+        "word": "重庆大学实验室爆炸现场血迹明显",
+        "onboard_time": 1774109901,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352105,
+        "num": 631032,
+        "word": "梅姨到哪也不出示身份证",
+        "onboard_time": 1774105945,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17589,
+        "num": 496016,
+        "word": "2026全国寻春地图",
+        "onboard_time": 1774101204,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114401,
+        "num": 114401,
+        "word": "高市访问埋葬广岛原子弹投弹手公墓",
+        "onboard_time": 1774108404,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108726,
+        "num": 108726,
+        "word": "出车祸私了后发现9级伤残",
+        "onboard_time": 1774104984,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137808,
+        "num": 104593,
+        "word": "当年亲爱的热爱的被泄漏反创新高",
+        "onboard_time": 1774106304,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125858,
+        "num": 104420,
+        "word": "逐玉全集泄露",
+        "onboard_time": 1774134976,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95763,
+        "num": 95763,
+        "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
+        "onboard_time": 1774103783,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82550,
+        "num": 82550,
+        "word": "梅姨平时说媒背地贩卖小孩",
+        "onboard_time": 1774108522,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76497,
+        "num": 82346,
+        "word": "郑钦文战胜前美网冠军",
+        "onboard_time": 1774135338,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172880,
+        "num": 81842,
+        "word": "伊朗称正在霍尔木兹采取重大行动",
+        "onboard_time": 1774129815,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166111,
+        "num": 81686,
+        "word": "女子制售自拍淫秽视频获刑3年",
+        "onboard_time": 1774104744,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 137688,
+        "num": 80995,
+        "word": "遭派出所民警猥亵女生父亲申请抗诉",
+        "onboard_time": 1774108705,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82828,
+        "num": 80938,
+        "word": "内塔尼亚胡鼓动地面进攻伊朗",
+        "onboard_time": 1774111518,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80604,
+        "num": 80604,
+        "word": "阿娇的邪修减肥法是刷牙",
+        "onboard_time": 1774095621,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80202,
+        "num": 80202,
+        "word": "梅姨为何能潜逃藏匿十余年",
+        "onboard_time": 1774110441,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77821,
+        "num": 77821,
+        "word": "小区旁400万吨垃圾被挖出来了",
+        "onboard_time": 1774103062,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72527,
+        "num": 72527,
+        "word": "曝梁小龙去世两个月没下葬将停棺10年",
+        "onboard_time": 1774076361,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69779,
+        "num": 69779,
+        "word": "这段话杀死了我的精神内耗",
+        "onboard_time": 1774093400,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66217,
+        "num": 66217,
+        "word": "季冠霖发文抵制AI",
+        "onboard_time": 1774090342,
+        "rank": 19,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 295982,
+        "num": 65559,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1774078881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267531,
+        "num": 63830,
+        "word": "逐玉 删戏份",
+        "onboard_time": 1774098625,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213822,
+        "num": 61610,
+        "word": "男子醉酒摸女孩胸部被高中生制服",
+        "onboard_time": 1774134676,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162042,
+        "num": 59027,
+        "word": "泄露逐玉可判刑10年",
+        "onboard_time": 1774104146,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147943,
+        "num": 58680,
+        "word": "葛夕公布体检报告",
+        "onboard_time": 1774106245,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57054,
+        "num": 57054,
+        "word": "梅姨同居男友都看不到她的身份证",
+        "onboard_time": 1774081225,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 54259,
+        "num": 54259,
+        "word": "迪丽热巴新经纪人疑似回应入职嘉行",
+        "onboard_time": 1774099461,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53367,
+        "num": 53367,
+        "word": "美国内部吵成一锅粥",
+        "onboard_time": 1774101323,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52549,
+        "num": 52549,
+        "word": "白敬亭包场章若楠冬去春来",
+        "onboard_time": 1774135819,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48912,
+        "num": 48912,
+        "word": "梅姨曾与60多岁老人同居2年",
+        "onboard_time": 1774085363,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130494,
+        "num": 48460,
+        "word": "男子反对加装电梯后反悔遭全楼反对",
+        "onboard_time": 1774135698,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61431,
+        "num": 48343,
+        "word": "9省份11所高校由学院升格为大学",
+        "onboard_time": 1774114457,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 60801,
+        "num": 48202,
+        "word": "战争买黄金失灵了",
+        "onboard_time": 1774134797,
+        "rank": 32,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 47935,
+        "num": 47935,
+        "word": "房东不让砸的承重柱被盘活了",
+        "onboard_time": 1774134617,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46148,
+        "num": 46148,
+        "word": "G2虐泉GEN",
+        "onboard_time": 1774104025,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43264,
+        "num": 43264,
+        "word": "伊朗手中握有真正的筹码",
+        "onboard_time": 1774090161,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40099,
+        "num": 40099,
+        "word": "重大实验室爆炸疑因操作不当引发",
+        "onboard_time": 1774106782,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36199,
+        "num": 40098,
+        "word": "香港高薪抢医生",
+        "onboard_time": 1774108223,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34059,
+        "num": 40090,
+        "word": "警方曾释放梅姨不存在的信号",
+        "onboard_time": 1774092021,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29123,
+        "num": 40077,
+        "word": "梅姨被抓钟彬爸爸激动到说话颤抖",
+        "onboard_time": 1774114876,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28520,
+        "num": 40071,
+        "word": "怕揭伤疤不想告诉儿子梅姨落网",
+        "onboard_time": 1774129035,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28277,
+        "num": 40058,
+        "word": "云旗高定",
+        "onboard_time": 1774115836,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28199,
+        "num": 40051,
+        "word": "逐玉 青天大老爷",
+        "onboard_time": 1774105225,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26141,
+        "num": 40047,
+        "word": "梅姨2年内拐卖9名儿童",
+        "onboard_time": 1774123334,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26852,
+        "num": 40039,
+        "word": "隐身的名字",
+        "onboard_time": 1774109721,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25082,
+        "num": 40026,
+        "word": "冬去春来",
+        "onboard_time": 1774109483,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24473,
+        "num": 40017,
+        "word": "陈泽",
+        "onboard_time": 1774135517,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25949,
+        "num": 40009,
+        "word": "倪妮生理性演技",
+        "onboard_time": 1774111161,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23178,
+        "num": 40000,
+        "word": "梅姨被逮捕",
+        "onboard_time": 1774064541,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23095,
+        "num": 39992,
+        "word": "檀健次粉丝后吃",
+        "onboard_time": 1774113857,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平劝年轻人不要老熬夜#"
+    }
+  }
+}
