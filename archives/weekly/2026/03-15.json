@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774072172173,
+  "endTime": 1774072961180,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1093752,
+      "num": 1093752,
+      "word": "白象 土豆泥火鸡面",
+      "onboard_time": 1774069942,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1083987,
       "num": 1880556,
       "word": "椰子水 兑水加糖",
@@ -545,14 +553,6 @@
       "onboard_time": 1773574463,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 795878,
-      "num": 795878,
-      "word": "白象 土豆泥火鸡面",
-      "onboard_time": 1774069942,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 794125,
@@ -2147,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427424,
+      "num": 427424,
+      "word": "董事长病逝未成年女儿继承9亿股票",
+      "onboard_time": 1774071141,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426366,
       "num": 191675,
       "word": "26岁患癌女子冒生命危险坚持备孕",
@@ -2651,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366907,
+      "num": 366907,
+      "word": "梅姨被逮杨妞花发声",
+      "onboard_time": 1774070783,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366389,
       "num": 297727,
       "word": "DIOR活动",
@@ -2664,14 +2680,6 @@
       "word": "文身店免费给65岁以上老人文身",
       "onboard_time": 1773817641,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 365370,
-      "num": 365370,
-      "word": "梅姨被逮杨妞花发声",
-      "onboard_time": 1774070783,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -2809,6 +2817,14 @@
       "onboard_time": 1773647308,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 354543,
+      "num": 156544,
+      "word": "伊朗有意日本船只通行霍尔木兹海峡",
+      "onboard_time": 1774070361,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 353636,
@@ -3113,14 +3129,6 @@
       "onboard_time": 1773567142,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324111,
-      "num": 148008,
-      "word": "伊朗有意日本船只通行霍尔木兹海峡",
-      "onboard_time": 1774070361,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 323988,
@@ -3555,6 +3563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 296821,
+      "num": 296821,
+      "word": "徐志胜自曝创业月亏12万",
+      "onboard_time": 1774069822,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296740,
       "num": 296740,
       "word": "迈凯轮双车退赛",
@@ -3720,14 +3736,6 @@
       "word": "何晟铭看于正动态红了眼",
       "onboard_time": 1773879860,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 285227,
-      "num": 147530,
-      "word": "徐志胜自曝创业月亏12万",
-      "onboard_time": 1774069822,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -4872,14 +4880,6 @@
       "word": "黄天鹅",
       "onboard_time": 1773573682,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228893,
-      "num": 228893,
-      "word": "董事长病逝未成年女儿继承9亿股票",
-      "onboard_time": 1774071141,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -6323,6 +6323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 176533,
+      "num": 176533,
+      "word": "章子怡采访刘烨憋笑",
+      "onboard_time": 1774067304,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176232,
       "num": 192802,
       "word": "雷军称新SU7门把手完全符合新国标",
@@ -6496,14 +6504,6 @@
       "word": "李佳琦自曝想出国留学",
       "onboard_time": 1773824182,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 170079,
-      "num": 170079,
-      "word": "章子怡采访刘烨憋笑",
-      "onboard_time": 1774067304,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -6939,6 +6939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157327,
+      "num": 157327,
+      "word": "95号油价或破10元",
+      "onboard_time": 1774068921,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 157321,
       "num": 103051,
       "word": "卡塔尔谴责以色列袭击伊朗天然气设施",
@@ -6969,6 +6977,14 @@
       "onboard_time": 1774022061,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155952,
+      "num": 155952,
+      "word": "风雨廊亭梦已醒 上完厕所丢行李",
+      "onboard_time": 1774071861,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155949,
@@ -7257,14 +7273,6 @@
       "onboard_time": 1773844881,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 149129,
-      "num": 149129,
-      "word": "95号油价或破10元",
-      "onboard_time": 1774068921,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 148930,
@@ -8299,6 +8307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129284,
+      "num": 129284,
+      "word": "迪丽热巴陈飞宇 cp感",
+      "onboard_time": 1774070001,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129024,
       "num": 156588,
       "word": "你好1983 市长爱上离婚带娃的她",
@@ -8561,14 +8577,6 @@
       "onboard_time": 1773848123,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124914,
-      "num": 118197,
-      "word": "迪丽热巴陈飞宇 cp感",
-      "onboard_time": 1774070001,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 124889,
@@ -9035,6 +9043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117685,
+      "num": 117685,
+      "word": "3月婴儿独自在家被子盖脸近2分钟",
+      "onboard_time": 1774069881,
+      "rank": 22,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 117570,
       "num": 117570,
       "word": "LGDNBW对战TTG",
@@ -9113,14 +9129,6 @@
       "onboard_time": 1773912262,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116746,
-      "num": 116746,
-      "word": "3月婴儿独自在家被子盖脸近2分钟",
-      "onboard_time": 1774069881,
-      "rank": 22,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 116684,
@@ -10123,6 +10131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103648,
+      "num": 83943,
+      "word": "梅姨落网被拐儿童钟彬激动得吐了",
+      "onboard_time": 1774072641,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103598,
       "num": 557183,
       "word": "腾讯人均年薪成本112.8万",
@@ -10193,6 +10209,14 @@
       "onboard_time": 1773625403,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102739,
+      "num": 102739,
+      "word": "路虎8次别停事件立案为何迟到3月",
+      "onboard_time": 1774068562,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 102719,
@@ -10273,6 +10297,14 @@
       "onboard_time": 1773581067,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 102245,
+      "num": 102245,
+      "word": "梅姨画像",
+      "onboard_time": 1774072221,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102244,
@@ -11643,6 +11675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90483,
+      "num": 83893,
+      "word": "金价为何反常态大跌",
+      "onboard_time": 1774072341,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90234,
       "num": 89596,
       "word": "什么和离书分明是录取通知书",
@@ -12611,6 +12651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83963,
+      "num": 83963,
+      "word": "伊朗威胁将毁灭性打击美以邪恶官员",
+      "onboard_time": 1774069104,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83954,
       "num": 83954,
       "word": "清融好C",
@@ -13139,14 +13187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80294,
-      "num": 80294,
-      "word": "路虎8次别停事件立案为何迟到3月",
-      "onboard_time": 1774068562,
-      "rank": 46,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 80223,
       "num": 80223,
       "word": "AI演员开通账号",
@@ -13227,14 +13267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79617,
-      "num": 79617,
-      "word": "伊朗威胁将毁灭性打击美以邪恶官员",
-      "onboard_time": 1774069104,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 79616,
       "num": 79616,
       "word": "谢征 你为什么要说杀猪养我",
@@ -13297,6 +13329,14 @@
       "onboard_time": 1773907102,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 79333,
+      "num": 79333,
+      "word": "永远被灵器认主的设定爽到",
+      "onboard_time": 1774070901,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 79101,
@@ -13763,14 +13803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76248,
-      "num": 76248,
-      "word": "永远被灵器认主的设定爽到",
-      "onboard_time": 1774070901,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 76245,
       "num": 81843,
       "word": "美国男子回应撞脸爱泼斯坦",
@@ -14009,14 +14041,6 @@
       "onboard_time": 1773798501,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74613,
-      "num": 74613,
-      "word": "风雨廊亭梦已醒 上完厕所丢行李",
-      "onboard_time": 1774071861,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 74534,
@@ -15075,6 +15099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66502,
+      "num": 66502,
+      "word": "女子屋内大量养猫22户邻居集体诉讼",
+      "onboard_time": 1774072461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66473,
       "num": 124529,
       "word": "专家称以后或不止冲锋衣涨价",
@@ -15241,6 +15273,14 @@
       "onboard_time": 1773906321,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 64948,
+      "num": 64948,
+      "word": "申军良曾说梅姨特别狡猾",
+      "onboard_time": 1774072341,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64886,
@@ -15657,6 +15697,14 @@
       "onboard_time": 1774068263,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 61168,
+      "num": 61168,
+      "word": "强大的肠胃简直是一种资产",
+      "onboard_time": 1774072400,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 61092,
@@ -16107,6 +16155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 55560,
+      "num": 55560,
+      "word": "熬成公司骨干全靠同事离职",
+      "onboard_time": 1774070543,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55488,
       "num": 109800,
       "word": "AG对战KSG",
@@ -16185,6 +16241,14 @@
       "onboard_time": 1773616639,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54469,
+      "num": 55001,
+      "word": "白日提灯区区一句台词",
+      "onboard_time": 1774072881,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 54414,

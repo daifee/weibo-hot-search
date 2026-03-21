@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774072172173,
+  "endTime": 1774072961180,
   "band_list": [
     {
       "raw_hot": 13365300,
@@ -27,8 +27,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 795878,
-      "num": 795878,
+      "raw_hot": 1093752,
+      "num": 1093752,
       "word": "白象 土豆泥火鸡面",
       "onboard_time": 1774069942,
       "rank": 3,
@@ -131,6 +131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 427424,
+      "num": 427424,
+      "word": "董事长病逝未成年女儿继承9亿股票",
+      "onboard_time": 1774071141,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 413743,
       "num": 775589,
       "word": "中东土豪5分钟打赏团播100万",
@@ -171,12 +179,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365370,
-      "num": 365370,
+      "raw_hot": 366907,
+      "num": 366907,
       "word": "梅姨被逮杨妞花发声",
       "onboard_time": 1774070783,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354543,
+      "num": 156544,
+      "word": "伊朗有意日本船只通行霍尔木兹海峡",
+      "onboard_time": 1774070361,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 351025,
@@ -203,14 +219,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 324111,
-      "num": 148008,
-      "word": "伊朗有意日本船只通行霍尔木兹海峡",
-      "onboard_time": 1774070361,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 303267,
       "num": 303267,
       "word": "梅姨同伙2人已被执行死刑",
@@ -219,20 +227,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296821,
+      "num": 296821,
+      "word": "徐志胜自曝创业月亏12万",
+      "onboard_time": 1774069822,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288653,
       "num": 716913,
       "word": "好想来上架山姆零食",
       "onboard_time": 1774010182,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 285227,
-      "num": 147530,
-      "word": "徐志胜自曝创业月亏12万",
-      "onboard_time": 1774069822,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 258944,
@@ -272,14 +280,6 @@
       "word": "梅姨案被拐孩子发声",
       "onboard_time": 1774068382,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228893,
-      "num": 228893,
-      "word": "董事长病逝未成年女儿继承9亿股票",
-      "onboard_time": 1774071141,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -419,20 +419,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176533,
+      "num": 176533,
+      "word": "章子怡采访刘烨憋笑",
+      "onboard_time": 1774067304,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172635,
       "num": 92359,
       "word": "日本网友评价高市早苗访美视频",
       "onboard_time": 1774014622,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 170079,
-      "num": 170079,
-      "word": "章子怡采访刘烨憋笑",
-      "onboard_time": 1774067304,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 168941,
@@ -475,12 +475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157327,
+      "num": 157327,
+      "word": "95号油价或破10元",
+      "onboard_time": 1774068921,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156302,
       "num": 99453,
       "word": "深圳一公司公告称副总在办公室偷吃",
       "onboard_time": 1774022061,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155952,
+      "num": 155952,
+      "word": "风雨廊亭梦已醒 上完厕所丢行李",
+      "onboard_time": 1774071861,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153598,
@@ -497,14 +513,6 @@
       "onboard_time": 1774057279,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 149129,
-      "num": 149129,
-      "word": "95号油价或破10元",
-      "onboard_time": 1774068921,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 147410,
@@ -611,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129284,
+      "num": 129284,
+      "word": "迪丽热巴陈飞宇 cp感",
+      "onboard_time": 1774070001,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128923,
       "num": 146847,
       "word": "小米汽车回应为何不公布大定数字",
@@ -641,14 +657,6 @@
       "onboard_time": 1774013362,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124914,
-      "num": 118197,
-      "word": "迪丽热巴陈飞宇 cp感",
-      "onboard_time": 1774070001,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 122789,
@@ -699,20 +707,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117685,
+      "num": 117685,
+      "word": "3月婴儿独自在家被子盖脸近2分钟",
+      "onboard_time": 1774069881,
+      "rank": 22,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 116839,
       "num": 116839,
       "word": "伊朗发动第67波攻势",
       "onboard_time": 1774011082,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 116746,
-      "num": 116746,
-      "word": "3月婴儿独自在家被子盖脸近2分钟",
-      "onboard_time": 1774069881,
-      "rank": 22,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 116684,
@@ -793,6 +801,30 @@
       "onboard_time": 1774070302,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103648,
+      "num": 83943,
+      "word": "梅姨落网被拐儿童钟彬激动得吐了",
+      "onboard_time": 1774072641,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102739,
+      "num": 102739,
+      "word": "路虎8次别停事件立案为何迟到3月",
+      "onboard_time": 1774068562,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 102245,
+      "num": 102245,
+      "word": "梅姨画像",
+      "onboard_time": 1774072221,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101762,
@@ -891,6 +923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90483,
+      "num": 83893,
+      "word": "金价为何反常态大跌",
+      "onboard_time": 1774072341,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88733,
       "num": 88733,
       "word": "伊朗回应英方表态",
@@ -971,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83963,
+      "num": 83963,
+      "word": "伊朗威胁将毁灭性打击美以邪恶官员",
+      "onboard_time": 1774069104,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83492,
       "num": 83492,
       "word": "登陆少年演唱会官宣澳门",
@@ -1019,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80294,
-      "num": 80294,
-      "word": "路虎8次别停事件立案为何迟到3月",
-      "onboard_time": 1774068562,
-      "rank": 46,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 79977,
       "num": 79977,
       "word": "油价或全面涨至9元时代",
@@ -1035,20 +1075,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 79617,
-      "num": 79617,
-      "word": "伊朗威胁将毁灭性打击美以邪恶官员",
-      "onboard_time": 1774069104,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 79489,
       "num": 195544,
       "word": "王一博植物氛围大片",
       "onboard_time": 1774065803,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79333,
+      "num": 79333,
+      "word": "永远被灵器认主的设定爽到",
+      "onboard_time": 1774070901,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 79101,
@@ -1091,14 +1131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76248,
-      "num": 76248,
-      "word": "永远被灵器认主的设定爽到",
-      "onboard_time": 1774070901,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 76245,
       "num": 81843,
       "word": "美国男子回应撞脸爱泼斯坦",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1774063399,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 74613,
-      "num": 74613,
-      "word": "风雨廊亭梦已醒 上完厕所丢行李",
-      "onboard_time": 1774071861,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 74173,
@@ -1227,6 +1251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66502,
+      "num": 66502,
+      "word": "女子屋内大量养猫22户邻居集体诉讼",
+      "onboard_time": 1774072461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65989,
       "num": 78905,
       "word": "阿维塔12",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1774020862,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 64948,
+      "num": 64948,
+      "word": "申军良曾说梅姨特别狡猾",
+      "onboard_time": 1774072341,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64153,
@@ -1339,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61168,
+      "num": 61168,
+      "word": "强大的肠胃简直是一种资产",
+      "onboard_time": 1774072400,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 60985,
       "num": 60985,
       "word": "不痛不痒29岁男子满口牙齿全掉光",
@@ -1403,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 55560,
+      "num": 55560,
+      "word": "熬成公司骨干全靠同事离职",
+      "onboard_time": 1774070543,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55110,
       "num": 55110,
       "word": "NBA状元热门首轮爆冷",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1774050439,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54469,
+      "num": 55001,
+      "word": "白日提灯区区一句台词",
+      "onboard_time": 1774072881,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 54138,
