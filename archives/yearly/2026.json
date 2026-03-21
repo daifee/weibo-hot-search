@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774079585580,
+  "endTime": 1774082610167,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -979,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2857817,
+      "num": 232359,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1773621382,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2807648,
       "num": 962247,
       "word": "香蕉有可能会灭绝",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1773565461,
       "rank": 3,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 2082344,
-      "num": 232359,
-      "word": "鹿晗 关晓彤",
-      "onboard_time": 1773621382,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 2080280,

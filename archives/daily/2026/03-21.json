@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774079585580,
+  "endTime": 1774082610167,
   "band_list": [
     {
       "raw_hot": 13365300,
@@ -17,6 +17,14 @@
       "onboard_time": 1774065984,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2857817,
+      "num": 124991,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1774078881,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1717371,
@@ -43,16 +51,16 @@
       "category": "美食"
     },
     {
-      "raw_hot": 980332,
-      "num": 124991,
-      "word": "鹿晗 关晓彤",
-      "onboard_time": 1774078881,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 915097,
+      "num": 717357,
+      "word": "梅姨同居男友都看不到她的身份证",
+      "onboard_time": 1774081225,
+      "rank": 3,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 903161,
-      "num": 903161,
+      "num": 1005404,
       "word": "梅姨长相与公布画像相似度不高",
       "onboard_time": 1774077861,
       "rank": 17,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 683858,
-      "num": 138414,
+      "num": 152181,
       "word": "曝梁小龙去世两个月没下葬将停棺10年",
       "onboard_time": 1774076361,
       "rank": 15,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 582981,
-      "num": 137297,
+      "num": 160291,
       "word": "迪丽热巴再被叫胖迪很惊讶",
       "onboard_time": 1774077561,
       "rank": 11,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 487465,
-      "num": 134880,
+      "num": 147250,
       "word": "张凌赫田曦薇 所有人都在觊觎我妻子",
       "onboard_time": 1774077623,
       "rank": 13,
@@ -201,6 +209,14 @@
       "onboard_time": 1774058781,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392578,
+      "num": 121579,
+      "word": "痞幼因网红身份被邻居排挤",
+      "onboard_time": 1774080382,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 380883,
@@ -337,6 +353,14 @@
       "onboard_time": 1774022002,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 240645,
+      "num": 240645,
+      "word": "女子熬夜3个月突然开始对墙讲课",
+      "onboard_time": 1774077139,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240230,
@@ -483,6 +507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 186601,
+      "num": 186601,
+      "word": "别来工作的地方找我",
+      "onboard_time": 1774079721,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185471,
       "num": 129381,
       "word": "还原梅姨画像神笔警探发声",
@@ -515,10 +547,26 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 181918,
+      "num": 135714,
+      "word": "梅姨同居男友说她不戴首饰",
+      "onboard_time": 1774081582,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181149,
       "num": 131669,
       "word": "迪丽热巴 女王回归",
       "onboard_time": 1774007303,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180466,
+      "num": 133592,
+      "word": "张凌赫男大自拍",
+      "onboard_time": 1774082001,
       "rank": 17,
       "category": "艺人"
     },
@@ -585,6 +633,14 @@
       "onboard_time": 1774009823,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161104,
+      "num": 161104,
+      "word": "谢征俞宝儿是连襟",
+      "onboard_time": 1774080321,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 160060,
@@ -736,14 +792,6 @@
       "word": "掌掴幼儿事件孩子妈妈发声",
       "onboard_time": 1774049718,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129292,
-      "num": 129292,
-      "word": "女子熬夜3个月突然开始对墙讲课",
-      "onboard_time": 1774077139,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1075,6 +1123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90755,
+      "num": 90755,
+      "word": "原来奚望是故人之女",
+      "onboard_time": 1774079422,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90483,
       "num": 83893,
       "word": "金价为何反常态大跌",
@@ -1097,14 +1153,6 @@
       "onboard_time": 1774057880,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 87539,
-      "num": 87539,
-      "word": "原来奚望是故人之女",
-      "onboard_time": 1774079422,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 87269,
@@ -1219,6 +1267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82736,
+      "num": 125516,
+      "word": "女生派出所遭猥亵案家属发声",
+      "onboard_time": 1774079062,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82481,
       "num": 82481,
       "word": "行政果切被老板说不够高档",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1774060100,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80054,
+      "num": 80054,
+      "word": "KPL",
+      "onboard_time": 1774077381,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 79977,
@@ -1355,6 +1419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74062,
+      "num": 74062,
+      "word": "KSG锁定季后赛胜者组",
+      "onboard_time": 1774081941,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73369,
       "num": 73369,
       "word": "前员工爆料海底捞高层点炮制度",
@@ -1395,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71993,
+      "num": 71993,
+      "word": "销售帮客户摇出顶级豹子车牌号",
+      "onboard_time": 1774079303,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71646,
       "num": 71646,
       "word": "和高中朋友只见了二十分钟的面",
@@ -1427,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69780,
+      "num": 69780,
+      "word": "粉丝误把五月天门票送给韩雨彤",
+      "onboard_time": 1774080861,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69407,
       "num": 69407,
       "word": "cmg中国电影荣誉名单",
@@ -1449,6 +1537,14 @@
       "onboard_time": 1774068743,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 68579,
+      "num": 68579,
+      "word": "业内曝男演员比女演员修图难",
+      "onboard_time": 1774082363,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 67785,
@@ -1481,14 +1577,6 @@
       "onboard_time": 1774025480,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 65695,
-      "num": 65695,
-      "word": "销售帮客户摇出顶级豹子车牌号",
-      "onboard_time": 1774079303,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65378,
@@ -1571,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63591,
+      "num": 63591,
+      "word": "猫咪意识到抚摸它的不是妈妈",
+      "onboard_time": 1774082302,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63570,
       "num": 63570,
       "word": "金饰价跌到1389元",
@@ -1609,6 +1705,22 @@
       "onboard_time": 1774003521,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62620,
+      "num": 62620,
+      "word": "金价大跌后金店生意火爆",
+      "onboard_time": 1774080082,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62344,
+      "num": 62344,
+      "word": "我们可能高估了老年后的身体状态",
+      "onboard_time": 1774081702,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 62306,
@@ -1675,6 +1787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 61051,
+      "num": 61051,
+      "word": "梅姨与画像相似度不到30%",
+      "onboard_time": 1774080082,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60985,
       "num": 60985,
       "word": "不痛不痒29岁男子满口牙齿全掉光",
@@ -1699,12 +1819,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60611,
+      "num": 60611,
+      "word": "王天辰呲个大牙看郭晓婷笑",
+      "onboard_time": 1774082181,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 60583,
+      "num": 60583,
+      "word": "猫猫被自己美了一大跳",
+      "onboard_time": 1774081822,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60519,
       "num": 60519,
       "word": "人在不同年纪擅长不同事",
       "onboard_time": 1774079002,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 60318,
+      "num": 75423,
+      "word": "以色列刚放完狠话防空警报就响了",
+      "onboard_time": 1774080382,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60157,
@@ -1755,20 +1899,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58707,
-      "num": 58707,
-      "word": "KPL",
-      "onboard_time": 1774077381,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 58323,
       "num": 61783,
       "word": "自制黄瓜薯片",
       "onboard_time": 1774075999,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 57782,
+      "num": 57782,
+      "word": "归鸾导演在代拍旁边架机位",
+      "onboard_time": 1774079841,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 57365,
@@ -1859,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54175,
+      "num": 62639,
+      "word": "90后男子为降血糖自制汤药身亡",
+      "onboard_time": 1774081522,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54138,
       "num": 54138,
       "word": "妈妈辈的甜妹",
@@ -1923,14 +2075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 48353,
-      "num": 125516,
-      "word": "女生派出所遭猥亵案家属发声",
-      "onboard_time": 1774079062,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47342,
       "num": 47342,
       "word": "被宝妈劝阻吸烟情绪失控游客已道歉",
@@ -1955,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45176,
+      "num": 55357,
+      "word": "什么样的觉才算是好觉",
+      "onboard_time": 1774082001,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 40275,
       "num": 40275,
       "word": "郑钦文迈阿密赛首战推迟",
@@ -1977,6 +2129,14 @@
       "onboard_time": 1774048878,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 36673,
+      "num": 1161310,
+      "word": "总会被一棵树的张力震撼到",
+      "onboard_time": 1774079121,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36227,
@@ -2067,14 +2227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22341,
-      "num": 1161310,
-      "word": "总会被一棵树的张力震撼到",
-      "onboard_time": 1774079121,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21147,
       "num": 105634,
       "word": "入职签空白合同实际薪资缩水一半",
@@ -2153,6 +2305,14 @@
       "onboard_time": 1774001242,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 3894,
+      "num": 62709,
+      "word": "胡海泉说者来女唱歌不好听",
+      "onboard_time": 1774080443,
+      "rank": 38,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
