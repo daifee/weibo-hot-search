@@ -1,0 +1,410 @@
+{
+  "runTime": 1774108176832,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 367714,
+        "num": 1058834,
+        "word": "梅姨被逮捕",
+        "onboard_time": 1774064541,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331104,
+        "num": 773920,
+        "word": "小区旁400万吨垃圾被挖出来了",
+        "onboard_time": 1774103062,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18047,
+        "num": 610933,
+        "word": "2026全国寻春地图",
+        "onboard_time": 1774101204,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1554744,
+        "num": 560508,
+        "word": "GEN对战G2",
+        "onboard_time": 1774100424,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 443827,
+        "num": 443827,
+        "word": "G2虐泉GEN",
+        "onboard_time": 1774104025,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 349329,
+        "num": 349329,
+        "word": "管泽元 G2太猛了",
+        "onboard_time": 1774104625,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 329709,
+        "num": 329709,
+        "word": "以色列称伊朗发射弹道导弹",
+        "onboard_time": 1774104863,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243715,
+        "num": 243715,
+        "word": "出车祸私了后发现9级伤残",
+        "onboard_time": 1774104984,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242596,
+        "num": 242596,
+        "word": "梅姨到哪也不出示身份证",
+        "onboard_time": 1774105945,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214116,
+        "num": 214116,
+        "word": "当年亲爱的热爱的被泄漏反创新高",
+        "onboard_time": 1774106304,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398037,
+        "num": 213099,
+        "word": "网传B站裁员60%研发集体罢工",
+        "onboard_time": 1774100124,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 388997,
+        "num": 212951,
+        "word": "女子制售自拍淫秽视频获刑3年",
+        "onboard_time": 1774104744,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 287327,
+        "num": 212937,
+        "word": "这段话杀死了我的精神内耗",
+        "onboard_time": 1774093400,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212064,
+        "num": 212064,
+        "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
+        "onboard_time": 1774103783,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200573,
+        "num": 200573,
+        "word": "重庆大学通报实验室爆炸",
+        "onboard_time": 1774104385,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175499,
+        "num": 175499,
+        "word": "迪丽热巴新经纪人疑似回应入职嘉行",
+        "onboard_time": 1774099461,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128854,
+        "num": 128854,
+        "word": "季冠霖发文抵制AI",
+        "onboard_time": 1774090342,
+        "rank": 16,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 121750,
+        "num": 121750,
+        "word": "重大实验室爆炸疑因操作不当引发",
+        "onboard_time": 1774106782,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121106,
+        "num": 121106,
+        "word": "狼队战胜AG",
+        "onboard_time": 1774100963,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20427,
+        "num": 118663,
+        "word": "1元购车商家拒发货买家起诉被驳回",
+        "onboard_time": 1774107386,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1959257,
+        "num": 115606,
+        "word": "泄露逐玉可判刑10年",
+        "onboard_time": 1774104146,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 998202,
+        "num": 112936,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1774078881,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460870,
+        "num": 112101,
+        "word": "梅姨同居男友都看不到她的身份证",
+        "onboard_time": 1774081225,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 747946,
+        "num": 108817,
+        "word": "逐玉 删戏份",
+        "onboard_time": 1774098625,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193096,
+        "num": 106319,
+        "word": "葛夕公布体检报告",
+        "onboard_time": 1774106245,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104085,
+        "num": 104085,
+        "word": "警方曾释放梅姨不存在的信号",
+        "onboard_time": 1774092021,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260014,
+        "num": 103948,
+        "word": "逐玉 青天大老爷",
+        "onboard_time": 1774105225,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 652707,
+        "num": 100599,
+        "word": "王鸥直播说自己单身",
+        "onboard_time": 1774105044,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92370,
+        "num": 92370,
+        "word": "11岁男孩脸肿竟是肿瘤骨头断了",
+        "onboard_time": 1774096761,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170593,
+        "num": 90557,
+        "word": "上次泄露还是亲爱的热爱的",
+        "onboard_time": 1774103964,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107218,
+        "num": 90386,
+        "word": "曝迪丽热巴新经纪人入职嘉行",
+        "onboard_time": 1774083081,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86612,
+        "num": 86612,
+        "word": "G2打GEN拿到赛点",
+        "onboard_time": 1774106664,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106880,
+        "num": 85936,
+        "word": "李怀安樊长玉决裂",
+        "onboard_time": 1774095621,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102232,
+        "num": 85720,
+        "word": "阿娇的邪修减肥法是刷牙",
+        "onboard_time": 1774095621,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84948,
+        "num": 84948,
+        "word": "梅姨曾与60多岁老人同居2年",
+        "onboard_time": 1774085363,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104984,
+        "num": 84351,
+        "word": "李怀安向樊长玉负荆请罪",
+        "onboard_time": 1774106304,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90317,
+        "num": 84338,
+        "word": "曝梁小龙去世两个月没下葬将停棺10年",
+        "onboard_time": 1774076361,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83214,
+        "num": 83214,
+        "word": "姐姐靠一张照片找回失散33年弟弟",
+        "onboard_time": 1774106184,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82287,
+        "num": 82287,
+        "word": "伊朗手中握有真正的筹码",
+        "onboard_time": 1774090161,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81235,
+        "num": 81235,
+        "word": "梅姨同居男友说她不戴首饰",
+        "onboard_time": 1774081582,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81662,
+        "num": 81080,
+        "word": "美国内部吵成一锅粥",
+        "onboard_time": 1774101323,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79268,
+        "num": 79268,
+        "word": "JDG战胜DYG",
+        "onboard_time": 1774092743,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77920,
+        "num": 77920,
+        "word": "男子接连抄底黄金已亏1万多",
+        "onboard_time": 1774104744,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77224,
+        "num": 77224,
+        "word": "何与看烟花",
+        "onboard_time": 1774107863,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75261,
+        "num": 75261,
+        "word": "狼队对战AG",
+        "onboard_time": 1774097242,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74927,
+        "num": 74927,
+        "word": "20年婚姻律师看过干婚最残忍的结局",
+        "onboard_time": 1774104805,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74398,
+        "num": 74398,
+        "word": "魏大勋给撒贝宁问不会了",
+        "onboard_time": 1774107386,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69631,
+        "num": 69631,
+        "word": "邓凯又在孔雀凯屏",
+        "onboard_time": 1774108103,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63293,
+        "num": 69507,
+        "word": "接下来的新疆伊犁是这样的",
+        "onboard_time": 1774107683,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 61388,
+        "num": 69493,
+        "word": "10块钱吃遍9种面",
+        "onboard_time": 1774106063,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平劝年轻人不要老熬夜#"
+    }
+  }
+}

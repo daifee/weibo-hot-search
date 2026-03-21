@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774107305214,
+  "endTime": 1774108176832,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -201,6 +201,14 @@
       "onboard_time": 1773794961,
       "rank": 0,
       "category": "互联网,作品衍生"
+    },
+    {
+      "raw_hot": 1554744,
+      "num": 785006,
+      "word": "GEN对战G2",
+      "onboard_time": 1774100424,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 1538614,
@@ -673,14 +681,6 @@
       "onboard_time": 1773751162,
       "rank": 3,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 785006,
-      "num": 785006,
-      "word": "GEN对战G2",
-      "onboard_time": 1774100424,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 781896,
@@ -2211,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443827,
+      "num": 443827,
+      "word": "G2虐泉GEN",
+      "onboard_time": 1774104025,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 442797,
       "num": 605605,
       "word": "有友食品声明",
@@ -2580,7 +2588,7 @@
     },
     {
       "raw_hot": 396636,
-      "num": 194138,
+      "num": 212937,
       "word": "这段话杀死了我的精神内耗",
       "onboard_time": 1774093400,
       "rank": 40,
@@ -2675,6 +2683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 388997,
+      "num": 212951,
+      "word": "女子制售自拍淫秽视频获刑3年",
+      "onboard_time": 1774104744,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 387336,
       "num": 221482,
       "word": "樊长玉草莓印",
@@ -2689,14 +2705,6 @@
       "onboard_time": 1773744621,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 385692,
-      "num": 193220,
-      "word": "女子制售自拍淫秽视频获刑3年",
-      "onboard_time": 1774104744,
-      "rank": 30,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 384059,
@@ -3339,6 +3347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331104,
+      "num": 787782,
+      "word": "小区旁400万吨垃圾被挖出来了",
+      "onboard_time": 1774103062,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330270,
       "num": 242205,
       "word": "A股",
@@ -3353,6 +3369,14 @@
       "onboard_time": 1773561861,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329709,
+      "num": 329709,
+      "word": "以色列称伊朗发射弹道导弹",
+      "onboard_time": 1774104863,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 329114,
@@ -3577,14 +3601,6 @@
       "onboard_time": 1773753202,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 313971,
-      "num": 787782,
-      "word": "小区旁400万吨垃圾被挖出来了",
-      "onboard_time": 1774103062,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312690,
@@ -4523,6 +4539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260014,
+      "num": 137244,
+      "word": "逐玉 青天大老爷",
+      "onboard_time": 1774105225,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259874,
       "num": 259874,
       "word": "丁彦雨航退役",
@@ -4731,14 +4755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250889,
-      "num": 250889,
-      "word": "以色列称伊朗发射弹道导弹",
-      "onboard_time": 1774104863,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 250583,
       "num": 136595,
       "word": "宝宝巴士被罚30万元",
@@ -4936,6 +4952,14 @@
       "word": "女子借5万还不上履约做对方女友",
       "onboard_time": 1773658523,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242596,
+      "num": 242596,
+      "word": "梅姨到哪也不出示身份证",
+      "onboard_time": 1774105945,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -5379,14 +5403,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 224864,
-      "num": 137244,
-      "word": "逐玉 青天大老爷",
-      "onboard_time": 1774105225,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224715,
       "num": 487264,
       "word": "鹿晗专辑发售",
@@ -5699,6 +5715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214116,
+      "num": 214116,
+      "word": "当年亲爱的热爱的被泄漏反创新高",
+      "onboard_time": 1774106304,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214072,
       "num": 210085,
       "word": "伊朗最高领袖驳回斡旋提案",
@@ -5769,6 +5793,14 @@
       "onboard_time": 1773921081,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212064,
+      "num": 212064,
+      "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
+      "onboard_time": 1774103783,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 212058,
@@ -6027,14 +6059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203061,
-      "num": 203061,
-      "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
-      "onboard_time": 1774103783,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 202917,
       "num": 220939,
       "word": "福建一鸭子活吞41只小鸡",
@@ -6073,6 +6097,14 @@
       "onboard_time": 1774079721,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200573,
+      "num": 263361,
+      "word": "重庆大学通报实验室爆炸",
+      "onboard_time": 1774104385,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199976,
@@ -6227,14 +6259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194117,
-      "num": 194117,
-      "word": "当年亲爱的热爱的被泄漏反创新高",
-      "onboard_time": 1774106304,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192866,
       "num": 192866,
       "word": "腾讯视频 逐玉",
@@ -6313,14 +6337,6 @@
       "onboard_time": 1774053559,
       "rank": 3,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 191492,
-      "num": 191492,
-      "word": "G2虐泉GEN",
-      "onboard_time": 1774104025,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 191276,
@@ -7057,14 +7073,6 @@
       "onboard_time": 1773834382,
       "rank": 4,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 172371,
-      "num": 172371,
-      "word": "梅姨到哪也不出示身份证",
-      "onboard_time": 1774105945,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172201,
@@ -8435,14 +8443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138619,
-      "num": 263361,
-      "word": "重庆大学通报实验室爆炸",
-      "onboard_time": 1774104385,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138408,
       "num": 138408,
       "word": "90岁老人与妻子告别后几秒钟去世",
@@ -9497,6 +9497,14 @@
       "onboard_time": 1773810502,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121750,
+      "num": 121750,
+      "word": "重大实验室爆炸疑因操作不当引发",
+      "onboard_time": 1774106782,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121612,
@@ -10913,6 +10921,14 @@
       "onboard_time": 1773720081,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104984,
+      "num": 84351,
+      "word": "李怀安向樊长玉负荆请罪",
+      "onboard_time": 1774106304,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 104980,
@@ -12507,14 +12523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91700,
-      "num": 91700,
-      "word": "重大实验室爆炸疑因操作不当引发",
-      "onboard_time": 1774106782,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91596,
       "num": 91596,
       "word": "JDG最快BO5落败记录",
@@ -13891,6 +13899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83214,
+      "num": 156697,
+      "word": "姐姐靠一张照片找回失散33年弟弟",
+      "onboard_time": 1774106184,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83108,
       "num": 83108,
       "word": "肖战携藏海传参加盛典",
@@ -14923,6 +14939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77224,
+      "num": 77224,
+      "word": "何与看烟花",
+      "onboard_time": 1774107863,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77120,
       "num": 100474,
       "word": "谢霆锋新歌推倒重来",
@@ -15377,6 +15401,14 @@
       "onboard_time": 1773826101,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 74398,
+      "num": 74398,
+      "word": "魏大勋给撒贝宁问不会了",
+      "onboard_time": 1774107386,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 74351,
@@ -16121,6 +16153,14 @@
       "onboard_time": 1774012582,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 69631,
+      "num": 69631,
+      "word": "邓凯又在孔雀凯屏",
+      "onboard_time": 1774108103,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 69430,
@@ -17027,6 +17067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63293,
+      "num": 69507,
+      "word": "接下来的新疆伊犁是这样的",
+      "onboard_time": 1774107683,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 63211,
       "num": 72828,
       "word": "林高远第一次吊威亚",
@@ -17243,6 +17291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61388,
+      "num": 72494,
+      "word": "10块钱吃遍9种面",
+      "onboard_time": 1774106063,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 61324,
       "num": 61324,
       "word": "Gala对线遭对手调侃",
@@ -17297,14 +17353,6 @@
       "onboard_time": 1773916880,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61014,
-      "num": 72494,
-      "word": "10块钱吃遍9种面",
-      "onboard_time": 1774106063,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 60985,
@@ -18001,14 +18049,6 @@
       "onboard_time": 1774070361,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 53926,
-      "num": 156697,
-      "word": "姐姐靠一张照片找回失散33年弟弟",
-      "onboard_time": 1774106184,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53729,
@@ -20008,6 +20048,14 @@
       "word": "央视315",
       "onboard_time": 1773606194,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20427,
+      "num": 118663,
+      "word": "1元购车商家拒发货买家起诉被驳回",
+      "onboard_time": 1774107386,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
