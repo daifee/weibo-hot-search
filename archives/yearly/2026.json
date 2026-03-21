@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774062524156,
+  "endTime": 1774068283918,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -89,6 +89,14 @@
       "onboard_time": 1772501906,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13365300,
+      "num": 13365300,
+      "word": "梅姨被逮捕",
+      "onboard_time": 1774064541,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13350510,
@@ -761,6 +769,14 @@
       "onboard_time": 1771253437,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3546158,
+      "num": 3546158,
+      "word": "谢某某就是梅姨",
+      "onboard_time": 1774065984,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3534737,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1770552801,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1609922,
-      "num": 1609922,
-      "word": "迎财神",
-      "onboard_time": 1771600401,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1607463,
-      "num": 928793,
-      "word": "迪丽热巴 朵莉亚新皮肤",
-      "onboard_time": 1771249177,
-      "rank": 22,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

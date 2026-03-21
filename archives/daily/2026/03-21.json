@@ -1,14 +1,38 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774062524156,
+  "endTime": 1774068283918,
   "band_list": [
     {
+      "raw_hot": 13365300,
+      "num": 13365300,
+      "word": "梅姨被逮捕",
+      "onboard_time": 1774064541,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3546158,
+      "num": 3546158,
+      "word": "谢某某就是梅姨",
+      "onboard_time": 1774065984,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1339916,
-      "num": 265737,
+      "num": 321342,
       "word": "官方通报月经弄脏卧铺事件详情",
       "onboard_time": 1774018763,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 794125,
+      "num": 345548,
+      "word": "网友通过倪妮悄悄话分析出汤唯怀孕了",
+      "onboard_time": 1774065682,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 729859,
@@ -27,8 +51,16 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 643562,
+      "num": 339404,
+      "word": "15岁女生派出所办公室内遭猥亵",
+      "onboard_time": 1774065502,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551544,
-      "num": 132257,
+      "num": 329909,
       "word": "感觉迪丽热巴工作室换人了",
       "onboard_time": 1774053141,
       "rank": 12,
@@ -52,7 +84,7 @@
     },
     {
       "raw_hot": 482763,
-      "num": 131532,
+      "num": 198043,
       "word": "邓为孔雪儿 百妖谱",
       "onboard_time": 1774055779,
       "rank": 13,
@@ -67,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468689,
+      "num": 468689,
+      "word": "梅姨 童年阴影",
+      "onboard_time": 1774065382,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441150,
       "num": 1021073,
       "word": "直播间禁售13类食品新规今起实施",
       "onboard_time": 1774020502,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419106,
+      "num": 419106,
+      "word": "雷军60加60等于120言论引争议",
+      "onboard_time": 1774065741,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 413743,
@@ -108,7 +156,7 @@
     },
     {
       "raw_hot": 371075,
-      "num": 120899,
+      "num": 195468,
       "word": "盖娅传说 冷处理",
       "onboard_time": 1774060339,
       "rank": 46,
@@ -123,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346406,
+      "num": 195490,
+      "word": "金价大跌情侣火速买五金",
+      "onboard_time": 1774066403,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346260,
       "num": 346260,
       "word": "伊朗最高领袖就伊朗新年发表贺词",
       "onboard_time": 1774049297,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 303267,
+      "num": 303267,
+      "word": "梅姨同伙2人已被执行死刑",
+      "onboard_time": 1774067243,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288653,
@@ -163,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217467,
+      "num": 217467,
+      "word": "梅姨对贩卖儿童事实供认不讳",
+      "onboard_time": 1774064841,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214985,
       "num": 142726,
       "word": "外网也意识到韩国偷文化了",
@@ -193,6 +265,14 @@
       "onboard_time": 1774014563,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201504,
+      "num": 415314,
+      "word": "终于有人吐槽手语舞了",
+      "onboard_time": 1774066223,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 198924,
@@ -299,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165816,
+      "num": 397667,
+      "word": "为救女儿直播跳舞男子被指好吃懒做",
+      "onboard_time": 1774062739,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161617,
       "num": 150015,
       "word": "周冬雨穿自己淘的裙子走红毯",
@@ -320,6 +408,22 @@
       "word": "深圳一公司公告称副总在办公室偷吃",
       "onboard_time": 1774022061,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153598,
+      "num": 383312,
+      "word": "以色列全国多地遭导弹袭击",
+      "onboard_time": 1774064000,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 151762,
+      "num": 151762,
+      "word": "梅姨案时间线",
+      "onboard_time": 1774066822,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -355,11 +459,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146329,
+      "num": 146329,
+      "word": "曝汤唯疑怀二胎",
+      "onboard_time": 1774062380,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142803,
       "num": 142803,
       "word": "教培干久了连自己妈妈都找不到",
       "onboard_time": 1774052060,
       "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142321,
+      "num": 142321,
+      "word": "摸鱼摸到忘记自己在上班",
+      "onboard_time": 1774065382,
+      "rank": 24,
       "category": "幽默"
     },
     {
@@ -419,6 +539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 128607,
+      "num": 128607,
+      "word": "魏哲鸣半夜撤回一个剧宣",
+      "onboard_time": 1774066942,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127620,
       "num": 109563,
       "word": "伊朗攻击美国多个军事基地",
@@ -432,6 +560,14 @@
       "word": "王橹杰爱柠檬",
       "onboard_time": 1774013362,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122789,
+      "num": 122789,
+      "word": "阿信回应言承旭提词器争议",
+      "onboard_time": 1774062739,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -491,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110455,
+      "num": 369099,
+      "word": "卢昱晓 明月曾照小重山",
+      "onboard_time": 1774061600,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110138,
       "num": 109072,
       "word": "迪丽热巴的项链是护身符",
@@ -521,14 +665,6 @@
       "onboard_time": 1774056979,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104837,
-      "num": 104837,
-      "word": "曝汤唯疑怀二胎",
-      "onboard_time": 1774062380,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 101762,
@@ -579,6 +715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93627,
+      "num": 259402,
+      "word": "专八",
+      "onboard_time": 1774062980,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 93556,
       "num": 146322,
       "word": "宁娘的富贵命格藏不住了",
@@ -587,11 +731,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93298,
+      "num": 76651,
+      "word": "章子怡采访刘烨憋笑",
+      "onboard_time": 1774067304,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93266,
       "num": 93266,
       "word": "张凌赫工作室 拍出了张凌赫的死角",
       "onboard_time": 1773994521,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92986,
+      "num": 79413,
+      "word": "AI演员林汐颜秦凌岳为何引众怒",
+      "onboard_time": 1774062199,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -707,12 +867,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81158,
+      "num": 81158,
+      "word": "司美格鲁肽化合物专利到期",
+      "onboard_time": 1774063699,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 79977,
       "num": 79977,
       "word": "油价或全面涨至9元时代",
       "onboard_time": 1774049718,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 79489,
+      "num": 195544,
+      "word": "王一博植物氛围大片",
+      "onboard_time": 1774065803,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 79101,
@@ -747,14 +923,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 77903,
-      "num": 77903,
-      "word": "AI演员林汐颜秦凌岳为何引众怒",
-      "onboard_time": 1774062199,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77346,
       "num": 70693,
       "word": "盒马菠菜spinach",
@@ -779,6 +947,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75440,
+      "num": 75440,
+      "word": "恋与深空",
+      "onboard_time": 1774063399,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 74173,
+      "num": 74173,
+      "word": "加满一箱油或花费近500元",
+      "onboard_time": 1774066702,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73369,
       "num": 73369,
       "word": "前员工爆料海底捞高层点炮制度",
@@ -793,6 +977,38 @@
       "onboard_time": 1774061659,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 71971,
+      "num": 71971,
+      "word": "学校校医到底什么水平",
+      "onboard_time": 1774067962,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 71655,
+      "num": 71655,
+      "word": "张凌赫的微指",
+      "onboard_time": 1774067843,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 71646,
+      "num": 71646,
+      "word": "和高中朋友只见了二十分钟的面",
+      "onboard_time": 1774067905,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 70888,
+      "num": 70888,
+      "word": "择偶标准是爸爸的含金量",
+      "onboard_time": 1774064121,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 70669,
@@ -827,20 +1043,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67381,
+      "num": 67381,
+      "word": "丹麦被爆拟炸机场防美入侵格陵兰岛",
+      "onboard_time": 1774065624,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65989,
       "num": 78905,
       "word": "阿维塔12",
       "onboard_time": 1774025480,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 65949,
-      "num": 63540,
-      "word": "卢昱晓 明月曾照小重山",
-      "onboard_time": 1774061600,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 65315,
@@ -867,6 +1083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64258,
+      "num": 64258,
+      "word": "金饰价跌回1413元",
+      "onboard_time": 1774066223,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64153,
       "num": 64153,
       "word": "嫁金钗预约破50w",
@@ -891,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62306,
+      "num": 62306,
+      "word": "在猫脸上看到这么明显的皱眉",
+      "onboard_time": 1774067843,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61597,
       "num": 61597,
       "word": "易烊千玺透露自己的目标",
@@ -905,6 +1137,14 @@
       "onboard_time": 1774049178,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 61189,
+      "num": 61189,
+      "word": "第一次在公司过夜睡觉",
+      "onboard_time": 1774068263,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 60985,
@@ -1083,20 +1323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29103,
+      "num": 64384,
+      "word": "杭州一高端小区将实施先服务后缴费",
+      "onboard_time": 1774066822,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28224,
+      "num": 2054295,
+      "word": "清明小长假火车购票日历",
+      "onboard_time": 1774061118,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27603,
       "num": 86712,
       "word": "LYON对战JDG",
       "onboard_time": 1774022421,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 27369,
-      "num": 622287,
-      "word": "清明小长假火车购票日历",
-      "onboard_time": 1774061118,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26605,
@@ -1177,6 +1425,14 @@
       "onboard_time": 1774001242,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 10106,
+      "num": 195495,
+      "word": "为弟追凶20余年案4月8日二审开庭",
+      "onboard_time": 1774068024,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
