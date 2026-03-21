@@ -1,0 +1,410 @@
+{
+  "runTime": 1774098280072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 628927,
+        "num": 1100628,
+        "word": "梅姨被逮捕",
+        "onboard_time": 1774064541,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426777,
+        "num": 819204,
+        "word": "警方曾释放梅姨不存在的信号",
+        "onboard_time": 1774092021,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24805,
+        "num": 623837,
+        "word": "总会被一棵树的张力震撼到",
+        "onboard_time": 1774079121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351121,
+        "num": 351121,
+        "word": "狼队对战AG",
+        "onboard_time": 1774097242,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 330213,
+        "num": 330213,
+        "word": "JDG战胜DYG",
+        "onboard_time": 1774092743,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1083422,
+        "num": 318099,
+        "word": "逐玉",
+        "onboard_time": 1774087641,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216499,
+        "num": 216499,
+        "word": "370万买5套老破小90后宝妈发声",
+        "onboard_time": 1774094722,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431324,
+        "num": 210275,
+        "word": "逐玉大结局",
+        "onboard_time": 1774097962,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191404,
+        "num": 191404,
+        "word": "伊朗手中握有真正的筹码",
+        "onboard_time": 1774090161,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 358767,
+        "num": 190562,
+        "word": "李怀安樊长玉决裂",
+        "onboard_time": 1774095621,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561604,
+        "num": 189916,
+        "word": "季冠霖发文抵制AI",
+        "onboard_time": 1774090342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396636,
+        "num": 188679,
+        "word": "这段话杀死了我的精神内耗",
+        "onboard_time": 1774093400,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7495952,
+        "num": 7495952,
+        "word": "逐玉 泄露",
+        "onboard_time": 1774096521,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305494,
+        "num": 186821,
+        "word": "月经弄脏卧铺当事人详述事件经过",
+        "onboard_time": 1774084702,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218189,
+        "num": 185364,
+        "word": "云旗走秀造型",
+        "onboard_time": 1774089921,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185015,
+        "num": 185015,
+        "word": "张凌赫田曦薇 所有人都在觊觎我妻子",
+        "onboard_time": 1774077623,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158351,
+        "num": 158351,
+        "word": "得知梅姨被捕家长激动到呕吐",
+        "onboard_time": 1774091180,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167640,
+        "num": 158000,
+        "word": "樊长玉斩杀长信王",
+        "onboard_time": 1774090521,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156751,
+        "num": 156751,
+        "word": "金饰价格已下跌超300元",
+        "onboard_time": 1774083622,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41063,
+        "num": 155694,
+        "word": "女子久坐头晕牵出电商报告造假黑幕",
+        "onboard_time": 1774098023,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1224405,
+        "num": 154572,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1774078881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732924,
+        "num": 153526,
+        "word": "梅姨同居男友都看不到她的身份证",
+        "onboard_time": 1774081225,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 330452,
+        "num": 152402,
+        "word": "梅姨同居男友说她不戴首饰",
+        "onboard_time": 1774081582,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151897,
+        "num": 151897,
+        "word": "11岁男孩脸肿竟是肿瘤骨头断了",
+        "onboard_time": 1774096761,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276766,
+        "num": 151640,
+        "word": "黄霄雲 莫挨老子",
+        "onboard_time": 1774089801,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192899,
+        "num": 151182,
+        "word": "曝迪丽热巴新经纪人入职嘉行",
+        "onboard_time": 1774083081,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139543,
+        "num": 151030,
+        "word": "老师为什么能发现家长签名是假的",
+        "onboard_time": 1774085363,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158045,
+        "num": 150490,
+        "word": "迪丽热巴好闪好辣",
+        "onboard_time": 1774090342,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150231,
+        "num": 150231,
+        "word": "阿娇的邪修减肥法是刷牙",
+        "onboard_time": 1774095621,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118956,
+        "num": 147637,
+        "word": "伊朗对以色列发动饱和攻击",
+        "onboard_time": 1774092381,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147403,
+        "num": 147403,
+        "word": "曝梁小龙去世两个月没下葬将停棺10年",
+        "onboard_time": 1774076361,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131781,
+        "num": 131781,
+        "word": "张凌赫男大自拍",
+        "onboard_time": 1774082001,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115915,
+        "num": 127507,
+        "word": "三名初中生凑钱吃面老板免费续面",
+        "onboard_time": 1774095022,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 126312,
+        "num": 126312,
+        "word": "离Angelababy的脸只有两厘米",
+        "onboard_time": 1774093702,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121878,
+        "num": 121878,
+        "word": "你好星期六预告",
+        "onboard_time": 1774097542,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107179,
+        "num": 121469,
+        "word": "梅姨曾与60多岁老人同居2年",
+        "onboard_time": 1774085363,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121459,
+        "num": 121459,
+        "word": "痞幼因网红身份被邻居排挤",
+        "onboard_time": 1774080382,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114747,
+        "num": 114747,
+        "word": "田柾国开场",
+        "onboard_time": 1774096162,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97718,
+        "num": 97718,
+        "word": "十年前妈妈自己设计装修的家",
+        "onboard_time": 1774089740,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 96199,
+        "num": 96199,
+        "word": "丈夫凌晨3点打鼾被妻子肘击打醒",
+        "onboard_time": 1774097363,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93744,
+        "num": 93744,
+        "word": "JDG全胜通关S组",
+        "onboard_time": 1774092562,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85378,
+        "num": 85378,
+        "word": "刘宇宁直播",
+        "onboard_time": 1774088361,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84079,
+        "num": 84079,
+        "word": "邓凯 比巴掌先来的是俞浅浅的香味",
+        "onboard_time": 1774095981,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50066,
+        "num": 83461,
+        "word": "几十元的老母鸡可能是淘汰蛋鸡",
+        "onboard_time": 1774096761,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83150,
+        "num": 83150,
+        "word": "BTS直播",
+        "onboard_time": 1774091900,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72437,
+        "num": 82132,
+        "word": "朴智旻长发",
+        "onboard_time": 1774097842,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81485,
+        "num": 81485,
+        "word": "帮助梅姨案家属的记者去世了",
+        "onboard_time": 1774097601,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72594,
+        "num": 81467,
+        "word": "潘展乐100自摘铜",
+        "onboard_time": 1774095740,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65062,
+        "num": 81317,
+        "word": "云南玉昆vs山东泰山",
+        "onboard_time": 1774098204,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64902,
+        "num": 81286,
+        "word": "中超",
+        "onboard_time": 1774096761,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以正确政绩观推动高质量发展#"
+    }
+  }
+}
