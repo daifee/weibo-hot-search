@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774076213287,
+  "endTime": 1774076965518,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -457,6 +457,14 @@
       "onboard_time": 1773628161,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 884154,
+      "num": 884154,
+      "word": "梅姨男友称与其同居3年没拍照片",
+      "onboard_time": 1774075461,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 884093,
@@ -3075,6 +3083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331207,
+      "num": 138952,
+      "word": "迪丽热巴工作室审美",
+      "onboard_time": 1774074679,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330270,
       "num": 242205,
       "word": "A股",
@@ -3321,14 +3337,6 @@
       "onboard_time": 1773590183,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311223,
-      "num": 138952,
-      "word": "迪丽热巴工作室审美",
-      "onboard_time": 1774074679,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 310935,
@@ -3632,14 +3640,6 @@
       "word": "20岁男子感染HIV后HPV反复发作",
       "onboard_time": 1773711379,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 293104,
-      "num": 82782,
-      "word": "梅姨男友称与其同居3年没拍照片",
-      "onboard_time": 1774075461,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -4593,6 +4593,14 @@
       "onboard_time": 1773658523,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242653,
+      "num": 107669,
+      "word": "曝梁小龙去世两个月没下葬将停棺10年",
+      "onboard_time": 1774076361,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 242593,
@@ -7971,6 +7979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135372,
+      "num": 121147,
+      "word": "我妈把元祖机养到了40岁",
+      "onboard_time": 1774075042,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135346,
       "num": 135346,
       "word": "肖战深V黑西装live",
@@ -8851,14 +8867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121147,
-      "num": 121147,
-      "word": "我妈把元祖机养到了40岁",
-      "onboard_time": 1774075042,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121051,
       "num": 121051,
       "word": "T1怎么输的",
@@ -9259,6 +9267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115333,
+      "num": 124895,
+      "word": "WB对战KSG",
+      "onboard_time": 1774074441,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114654,
       "num": 642240,
       "word": "中国机器人开始打网球了",
@@ -9497,6 +9513,14 @@
       "onboard_time": 1773931882,
       "rank": 34,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 111263,
+      "num": 150642,
+      "word": "孙海洋谈梅姨被抓",
+      "onboard_time": 1774073960,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111193,
@@ -10379,6 +10403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101928,
+      "num": 101928,
+      "word": "还原梅姨画像神笔警探发声",
+      "onboard_time": 1774075999,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101762,
       "num": 133673,
       "word": "Cursor副总裁向kimi道歉",
@@ -10817,14 +10849,6 @@
       "onboard_time": 1773997941,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97597,
-      "num": 150642,
-      "word": "孙海洋谈梅姨被抓",
-      "onboard_time": 1774073960,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97581,
@@ -12899,6 +12923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82481,
+      "num": 82481,
+      "word": "行政果切被老板说不够高档",
+      "onboard_time": 1774075580,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82473,
       "num": 82473,
       "word": "国乒全队在成都开启40余天的封闭集训",
@@ -12945,14 +12977,6 @@
       "onboard_time": 1773898824,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82174,
-      "num": 124895,
-      "word": "WB对战KSG",
-      "onboard_time": 1774074441,
-      "rank": 20,
-      "category": "电竞"
     },
     {
       "raw_hot": 82101,
@@ -14307,14 +14331,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 73424,
-      "num": 73424,
-      "word": "还原梅姨画像神笔警探发声",
-      "onboard_time": 1774075999,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73420,
       "num": 73420,
       "word": "坐等BTS回归",
@@ -14553,6 +14569,14 @@
       "onboard_time": 1773998962,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 71737,
+      "num": 71737,
+      "word": "倪妮这铁真没白撸",
+      "onboard_time": 1774076540,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 71714,
@@ -15419,14 +15443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 64354,
-      "num": 64354,
-      "word": "行政果切被老板说不够高档",
-      "onboard_time": 1774075580,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 64339,
       "num": 148092,
       "word": "东北大爷用千问把孙子教明白了",
@@ -15473,6 +15489,14 @@
       "onboard_time": 1774023920,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64065,
+      "num": 62076,
+      "word": "孔雪儿邓凯将录制hi6",
+      "onboard_time": 1774073240,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 64061,
@@ -15705,14 +15729,6 @@
       "onboard_time": 1774067843,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62076,
-      "num": 62076,
-      "word": "孔雪儿邓凯将录制hi6",
-      "onboard_time": 1774073240,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 62068,
@@ -15987,6 +16003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 59766,
+      "num": 64948,
+      "word": "梅姨案9名被拐儿童全部找回",
+      "onboard_time": 1774076361,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59575,
       "num": 60111,
       "word": "美团回应北大毕业送外卖",
@@ -16108,7 +16132,7 @@
     },
     {
       "raw_hot": 58323,
-      "num": 58323,
+      "num": 61783,
       "word": "自制黄瓜薯片",
       "onboard_time": 1774075999,
       "rank": 49,
@@ -16209,6 +16233,14 @@
       "onboard_time": 1773987382,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 56719,
+      "num": 56719,
+      "word": "京东外卖为全体全职骑手免费换新装",
+      "onboard_time": 1774076601,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56657,
@@ -16377,6 +16409,14 @@
       "onboard_time": 1774050439,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54832,
+      "num": 126630,
+      "word": "孙海洋说梅姨像鬼一样存在着",
+      "onboard_time": 1774075461,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54793,
@@ -17419,14 +17459,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 36453,
-      "num": 126630,
-      "word": "孙海洋说梅姨像鬼一样存在着",
-      "onboard_time": 1774075461,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36437,
       "num": 46353,
       "word": "樊振东说准备好迈出新的步伐",
@@ -17651,6 +17683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 32563,
+      "num": 130071,
+      "word": "男明星最权威现场",
+      "onboard_time": 1774075042,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32296,
       "num": 77442,
       "word": "蛋糕刺客年轻人抢疯了",
@@ -17665,14 +17705,6 @@
       "onboard_time": 1773824782,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32184,
-      "num": 130071,
-      "word": "男明星最权威现场",
-      "onboard_time": 1774075042,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 32154,
@@ -18313,6 +18345,14 @@
       "onboard_time": 1773941417,
       "rank": 49,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 21147,
+      "num": 105634,
+      "word": "入职签空白合同实际薪资缩水一半",
+      "onboard_time": 1774076660,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21088,
