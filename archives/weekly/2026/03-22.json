@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774128836498,
+  "endTime": 1774129690486,
   "band_list": [
     {
       "raw_hot": 1144240,
@@ -515,11 +515,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15787,
-      "num": 22844,
+      "raw_hot": 16001,
+      "num": 23617,
       "word": "梅姨案受害者说恨久需见其人",
       "onboard_time": 1774126214,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14823,
+      "num": 23532,
+      "word": "怕揭伤疤不想告诉儿子梅姨落网",
+      "onboard_time": 1774129035,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -555,8 +563,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 10656,
-      "num": 22717,
+      "raw_hot": 11749,
+      "num": 23423,
       "word": "发现父母老去只是一瞬间的事",
       "onboard_time": 1774126814,
       "rank": 43,
