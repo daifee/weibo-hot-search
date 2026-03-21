@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774112135028,
+  "endTime": 1774114418860,
   "band_list": [
     {
       "raw_hot": 1144240,
@@ -27,19 +27,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 584297,
+      "num": 584297,
+      "word": "重庆大学实验室爆炸现场血迹明显",
+      "onboard_time": 1774109901,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 501310,
       "num": 781615,
       "word": "重大实验室爆炸疑因操作不当引发",
       "onboard_time": 1774106782,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 433166,
-      "num": 489534,
-      "word": "重庆大学实验室爆炸现场血迹明显",
-      "onboard_time": 1774109901,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -73,6 +73,14 @@
       "onboard_time": 1774106304,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260334,
+      "num": 182696,
+      "word": "遭派出所民警猥亵女生父亲申请抗诉",
+      "onboard_time": 1774108705,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259217,
@@ -113,6 +121,14 @@
       "onboard_time": 1774081225,
       "rank": 21,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 201134,
+      "num": 201134,
+      "word": "梅姨平时说媒背地贩卖小孩",
+      "onboard_time": 1774108522,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197534,
@@ -187,28 +203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130913,
-      "num": 182696,
-      "word": "遭派出所民警猥亵女生父亲申请抗诉",
-      "onboard_time": 1774108705,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126738,
       "num": 183507,
       "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
       "onboard_time": 1774103783,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 102927,
-      "num": 182408,
-      "word": "梅姨平时说媒背地贩卖小孩",
-      "onboard_time": 1774108522,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99640,
@@ -227,7 +227,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75298,
+      "raw_hot": 78810,
       "num": 182243,
       "word": "梅姨为何能潜逃藏匿十余年",
       "onboard_time": 1774110441,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54426,
+      "num": 127625,
+      "word": "内塔尼亚胡鼓动地面进攻伊朗",
+      "onboard_time": 1774111518,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53299,
       "num": 181667,
       "word": "何与看烟花",
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46663,
+      "num": 123859,
+      "word": "Tank广州演唱会",
+      "onboard_time": 1774113319,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 46276,
       "num": 180945,
       "word": "香港高薪抢医生",
@@ -387,12 +403,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40706,
-      "num": 127625,
-      "word": "内塔尼亚胡鼓动地面进攻伊朗",
-      "onboard_time": 1774111518,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 44031,
+      "num": 123816,
+      "word": "檀健次粉丝后吃",
+      "onboard_time": 1774113857,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42883,
+      "num": 123775,
+      "word": "隐身的名字",
+      "onboard_time": 1774109721,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37128,
+      "num": 123695,
+      "word": "张元英GENIE完整版正面直拍",
+      "onboard_time": 1774110021,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 35021,
