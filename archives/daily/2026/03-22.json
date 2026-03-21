@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774126273501,
+  "endTime": 1774128836498,
   "band_list": [
     {
       "raw_hot": 1144240,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52520,
+      "num": 52520,
+      "word": "梅姨2年内拐卖9名儿童",
+      "onboard_time": 1774123334,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51336,
       "num": 181582,
       "word": "冬去春来",
@@ -459,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22278,
-      "num": 22278,
-      "word": "梅姨2年内拐卖9名儿童",
-      "onboard_time": 1774123334,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20449,
       "num": 76840,
       "word": "云旗高定",
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15787,
+      "num": 22844,
+      "word": "梅姨案受害者说恨久需见其人",
+      "onboard_time": 1774126214,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14064,
       "num": 45567,
       "word": "读大学就是一场巨大的追星现场",
@@ -540,19 +548,19 @@
     },
     {
       "raw_hot": 11955,
-      "num": 21363,
+      "num": 22687,
       "word": "第五人格COA9预选赛",
       "onboard_time": 1774088902,
       "rank": 45,
       "category": "电竞"
     },
     {
-      "raw_hot": 10254,
-      "num": 21357,
-      "word": "梅姨案受害者说恨久需见其人",
-      "onboard_time": 1774126214,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 10656,
+      "num": 22717,
+      "word": "发现父母老去只是一瞬间的事",
+      "onboard_time": 1774126814,
+      "rank": 43,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
