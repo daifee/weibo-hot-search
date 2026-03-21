@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774118839596,
+  "endTime": 1774119716232,
   "band_list": [
     {
       "raw_hot": 1144240,
@@ -459,8 +459,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20440,
-      "num": 55372,
+      "raw_hot": 20449,
+      "num": 76840,
       "word": "云旗高定",
       "onboard_time": 1774115836,
       "rank": 42,
@@ -475,12 +475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19116,
+      "num": 76670,
+      "word": "斑马音乐节",
+      "onboard_time": 1774118896,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 18953,
-      "num": 55372,
+      "num": 76503,
       "word": "梅姨被抓钟彬爸爸激动到说话颤抖",
       "onboard_time": 1774114876,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18317,
+      "num": 76604,
+      "word": "他会一辈子都记得这个教练的",
+      "onboard_time": 1774119136,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 13450,
@@ -489,6 +505,14 @@
       "onboard_time": 1774100904,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12611,
+      "num": 76350,
+      "word": "濮院高定时尚周",
+      "onboard_time": 1774091900,
+      "rank": 49,
+      "category": "时尚,作品衍生"
     }
   ],
   "hotgov_list": [
