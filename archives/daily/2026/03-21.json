@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774086926112,
+  "endTime": 1774089405372,
   "band_list": [
     {
       "raw_hot": 13365300,
@@ -153,6 +153,14 @@
       "onboard_time": 1774083081,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497726,
+      "num": 127970,
+      "word": "逐玉",
+      "onboard_time": 1774001180,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 487465,
@@ -339,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300032,
+      "num": 162105,
+      "word": "梅姨曾与60多岁老人同居2年",
+      "onboard_time": 1774085363,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296821,
       "num": 296821,
       "word": "徐志胜自曝创业月亏12万",
@@ -353,6 +369,14 @@
       "onboard_time": 1774010182,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277382,
+      "num": 122237,
+      "word": "老师为什么能发现家长签名是假的",
+      "onboard_time": 1774085363,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 258944,
@@ -473,6 +497,14 @@
       "onboard_time": 1774024879,
       "rank": 35,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 205971,
+      "num": 144430,
+      "word": "杨家鑫被梅姨拐走爸爸跳火车身亡",
+      "onboard_time": 1774084101,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204024,
@@ -611,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180856,
+      "num": 144451,
+      "word": "金饰价格已下跌超300元",
+      "onboard_time": 1774083622,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179940,
       "num": 351828,
       "word": "在泰射击场中弹中国游客女儿发声",
@@ -624,6 +664,14 @@
       "word": "章子怡采访刘烨憋笑",
       "onboard_time": 1774067304,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174048,
+      "num": 99667,
+      "word": "刘宇宁直播",
+      "onboard_time": 1774088361,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -667,14 +715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 162105,
-      "num": 162105,
-      "word": "梅姨曾与60多岁老人同居2年",
-      "onboard_time": 1774085363,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161617,
       "num": 150015,
       "word": "周冬雨穿自己淘的裙子走红毯",
@@ -699,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156532,
+      "num": 156532,
+      "word": "霍尔木兹海峡关闭或长达6个月",
+      "onboard_time": 1774087341,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156302,
       "num": 99453,
       "word": "深圳一公司公告称副总在办公室偷吃",
@@ -713,6 +761,14 @@
       "onboard_time": 1774064000,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 151372,
+      "num": 108326,
+      "word": "梅姨拐卖的儿童认亲后将母亲拉黑",
+      "onboard_time": 1774086740,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150906,
@@ -761,22 +817,6 @@
       "onboard_time": 1774070062,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144451,
-      "num": 144451,
-      "word": "金饰价格已下跌超300元",
-      "onboard_time": 1774083622,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 144430,
-      "num": 144430,
-      "word": "杨家鑫被梅姨拐走爸爸跳火车身亡",
-      "onboard_time": 1774084101,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142803,
@@ -987,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118296,
+      "num": 98759,
+      "word": "梅姨落网是申聪的新婚贺礼",
+      "onboard_time": 1774087221,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117685,
       "num": 117685,
       "word": "3月婴儿独自在家被子盖脸近2分钟",
@@ -1009,14 +1057,6 @@
       "onboard_time": 1774050139,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116278,
-      "num": 116278,
-      "word": "逐玉",
-      "onboard_time": 1774001180,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 112866,
@@ -1107,14 +1147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103649,
-      "num": 103649,
-      "word": "老师为什么能发现家长签名是假的",
-      "onboard_time": 1774085363,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 102739,
       "num": 102739,
       "word": "路虎8次别停事件立案为何迟到3月",
@@ -1163,12 +1195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98159,
+      "num": 98159,
+      "word": "梅姨贩卖孩子能力有多强",
+      "onboard_time": 1774087702,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97792,
       "num": 88885,
       "word": "下次给小朋友就这么切橙子",
       "onboard_time": 1774084461,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97641,
+      "num": 97641,
+      "word": "逐玉男配剧播后平均涨粉百万",
+      "onboard_time": 1774086922,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 97120,
@@ -1273,6 +1321,14 @@
       "onboard_time": 1774072341,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90475,
+      "num": 103471,
+      "word": "小学生校门口买小火龙后中毒",
+      "onboard_time": 1774087461,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89138,
@@ -1507,14 +1563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79584,
-      "num": 79584,
-      "word": "梅姨拐卖的儿童认亲后将母亲拉黑",
-      "onboard_time": 1774086740,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79489,
       "num": 195544,
       "word": "王一博植物氛围大片",
@@ -1659,6 +1707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 72692,
+      "num": 72692,
+      "word": "付思超否认与黄霄雲恋情",
+      "onboard_time": 1774083382,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72564,
       "num": 72564,
       "word": "择偶标准是爸爸的含金量",
@@ -1747,6 +1803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 68896,
+      "num": 68896,
+      "word": "杜小华曾跪求梅姨同居者提供线索",
+      "onboard_time": 1774089261,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68869,
       "num": 68869,
       "word": "睡眠不足带来的恶性影响",
@@ -1771,20 +1835,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 67044,
-      "num": 67044,
-      "word": "付思超否认与黄霄雲恋情",
-      "onboard_time": 1774083382,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66793,
       "num": 75423,
       "word": "以色列刚放完狠话防空警报就响了",
       "onboard_time": 1774080382,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66781,
+      "num": 66781,
+      "word": "第五人格COA9预选赛",
+      "onboard_time": 1774088902,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 66502,
@@ -1817,6 +1881,14 @@
       "onboard_time": 1774083023,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65388,
+      "num": 65388,
+      "word": "小黄豆去看蔡徐坤",
+      "onboard_time": 1774088722,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 65378,
@@ -1889,6 +1961,14 @@
       "onboard_time": 1774072341,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64772,
+      "num": 64772,
+      "word": "辽宁铁人3比0天津津门虎",
+      "onboard_time": 1774089141,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 64322,
@@ -2051,6 +2131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 60962,
+      "num": 60962,
+      "word": "共情能力强的人老了就这样",
+      "onboard_time": 1774089141,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60865,
       "num": 60865,
       "word": "桃黑黑 桃米洗菜小作文",
@@ -2099,6 +2187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59941,
+      "num": 59941,
+      "word": "肖战自带开水壶乐队音效",
+      "onboard_time": 1774088061,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59766,
       "num": 64948,
       "word": "梅姨案9名被拐儿童全部找回",
@@ -2145,6 +2241,14 @@
       "onboard_time": 1774075999,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 58191,
+      "num": 58191,
+      "word": "DYG强势先拿一分",
+      "onboard_time": 1774088302,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 57782,
@@ -2273,6 +2377,14 @@
       "onboard_time": 1774078700,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 51809,
+      "num": 58429,
+      "word": "防弹少年团新专",
+      "onboard_time": 1774088961,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 51356,
