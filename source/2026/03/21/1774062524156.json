@@ -1,0 +1,410 @@
+{
+  "runTime": 1774062524156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 363193,
+        "num": 1058111,
+        "word": "离职当天遇车祸获赔16万误工费",
+        "onboard_time": 1774058781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165222,
+        "num": 781252,
+        "word": "直播间买10盒蓝莓到手每盒不足5颗",
+        "onboard_time": 1774053559,
+        "rank": 1,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 27369,
+        "num": 622287,
+        "word": "清明小长假火车购票日历",
+        "onboard_time": 1774061118,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373488,
+        "num": 373488,
+        "word": "曝章子怡为新戏增肥20斤",
+        "onboard_time": 1774057222,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109666,
+        "num": 155305,
+        "word": "白玉兰 老带新",
+        "onboard_time": 1774051340,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124272,
+        "num": 124272,
+        "word": "教培干久了连自己妈妈都找不到",
+        "onboard_time": 1774052060,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110926,
+        "num": 124158,
+        "word": "张凌赫回应田曦薇在逐玉中的武力值",
+        "onboard_time": 1774059259,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106966,
+        "num": 123772,
+        "word": "山姆回应所售鲜猪肉是数月前屠宰",
+        "onboard_time": 1774048817,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91409,
+        "num": 123209,
+        "word": "在泰射击场中弹中国游客女儿发声",
+        "onboard_time": 1774048997,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48368,
+        "num": 122984,
+        "word": "Cursor副总裁向kimi道歉",
+        "onboard_time": 1774059681,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1339916,
+        "num": 122299,
+        "word": "官方通报月经弄脏卧铺事件详情",
+        "onboard_time": 1774018763,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 551544,
+        "num": 121876,
+        "word": "感觉迪丽热巴工作室换人了",
+        "onboard_time": 1774053141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403396,
+        "num": 121564,
+        "word": "邓为孔雪儿 百妖谱",
+        "onboard_time": 1774055779,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322579,
+        "num": 121138,
+        "word": "中东土豪5分钟打赏团播100万",
+        "onboard_time": 1774056259,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371075,
+        "num": 120899,
+        "word": "盖娅传说 冷处理",
+        "onboard_time": 1774060339,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258616,
+        "num": 120310,
+        "word": "逐玉 反向入侵短剧",
+        "onboard_time": 1774054702,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189860,
+        "num": 120042,
+        "word": "金饰价一夜暴跌32元",
+        "onboard_time": 1774058480,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22399,
+        "num": 119633,
+        "word": "睡觉被扣钱不服与领导冲突被辞",
+        "onboard_time": 1774062140,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499862,
+        "num": 119388,
+        "word": "金饰价格再次大幅下跌",
+        "onboard_time": 1774025480,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 11503,
+        "num": 119022,
+        "word": "男子多次殴打妻子致骨折获刑8个月",
+        "onboard_time": 1774062140,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191276,
+        "num": 118510,
+        "word": "徐冬冬婚戒丢了",
+        "onboard_time": 1774059979,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183417,
+        "num": 118252,
+        "word": "尚界Z7十款车色全部亮相",
+        "onboard_time": 1774061118,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181795,
+        "num": 117575,
+        "word": "章子怡脸咋了",
+        "onboard_time": 1774010182,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131107,
+        "num": 117219,
+        "word": "马斯克说这就是kimi",
+        "onboard_time": 1774057279,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175604,
+        "num": 116728,
+        "word": "女子听信科学坐月子落下月子病",
+        "onboard_time": 1774048937,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 116684,
+        "num": 116684,
+        "word": "迪丽热巴嫡长女待遇",
+        "onboard_time": 1774050139,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108896,
+        "num": 108896,
+        "word": "王晶说有人愿花100万请舒淇吃饭",
+        "onboard_time": 1774050080,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96790,
+        "num": 106294,
+        "word": "美媒称伊朗导弹袭击美英印度洋基地",
+        "onboard_time": 1774061180,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105233,
+        "num": 105233,
+        "word": "整容后的夏子玉",
+        "onboard_time": 1774056979,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104837,
+        "num": 104837,
+        "word": "曝汤唯疑怀二胎",
+        "onboard_time": 1774062380,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94739,
+        "num": 94739,
+        "word": "22点和23点睡觉差距到底多大",
+        "onboard_time": 1774054220,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95685,
+        "num": 92291,
+        "word": "郝阿三想帮忙然后又手足无措",
+        "onboard_time": 1774059740,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89818,
+        "num": 89818,
+        "word": "16岁迟迟不来月经才知是男儿身",
+        "onboard_time": 1774050139,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85892,
+        "num": 85892,
+        "word": "高叶吐槽刘昊然文案",
+        "onboard_time": 1774059799,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84616,
+        "num": 84616,
+        "word": "papi酱又给内娱指了条明路",
+        "onboard_time": 1774009823,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82301,
+        "num": 82301,
+        "word": "女子极端减肥体重不足40千克心脏骤停",
+        "onboard_time": 1774058901,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81694,
+        "num": 81694,
+        "word": "四川发现储量世界第二大轻稀土矿",
+        "onboard_time": 1774060100,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79101,
+        "num": 79101,
+        "word": "他会一辈子都记得这个老师的",
+        "onboard_time": 1774062080,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78939,
+        "num": 78939,
+        "word": "沦为AI素材杨紫尊严何在",
+        "onboard_time": 1774054220,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77903,
+        "num": 77903,
+        "word": "AI演员林汐颜秦凌岳为何引众怒",
+        "onboard_time": 1774062199,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76603,
+        "num": 76603,
+        "word": "掌掴幼儿事件孩子妈妈发声",
+        "onboard_time": 1774049718,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73321,
+        "num": 73321,
+        "word": "黄金创43年最大单周跌幅",
+        "onboard_time": 1774061659,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71752,
+        "num": 71752,
+        "word": "伊朗回应英方表态",
+        "onboard_time": 1774057880,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67200,
+        "num": 67200,
+        "word": "肖战热成啥样了",
+        "onboard_time": 1774048097,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66259,
+        "num": 66259,
+        "word": "登陆少年演唱会官宣澳门",
+        "onboard_time": 1774054819,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63565,
+        "num": 63565,
+        "word": "美国男子回应撞脸爱泼斯坦",
+        "onboard_time": 1774058901,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65949,
+        "num": 63540,
+        "word": "卢昱晓 明月曾照小重山",
+        "onboard_time": 1774061600,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63135,
+        "num": 63135,
+        "word": "伊朗最高领袖就伊朗新年发表贺词",
+        "onboard_time": 1774049297,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57503,
+        "num": 63100,
+        "word": "女子暴力剔牙十年陷入恶性循环",
+        "onboard_time": 1774051280,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56739,
+        "num": 63011,
+        "word": "高市早苗支持者甩锅日本记者",
+        "onboard_time": 1774056321,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在地方工作的两个故事#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1773506500059,
-  "endTime": 1774060398195,
+  "endTime": 1774062524156,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -209,6 +209,14 @@
       "onboard_time": 1773543500,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1339916,
+      "num": 265737,
+      "word": "官方通报月经弄脏卧铺事件详情",
+      "onboard_time": 1774018763,
+      "rank": 40,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1339144,
@@ -481,14 +489,6 @@
       "onboard_time": 1773892340,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 816024,
-      "num": 265737,
-      "word": "官方通报月经弄脏卧铺事件详情",
-      "onboard_time": 1774018763,
-      "rank": 40,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 803369,
@@ -1283,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551544,
+      "num": 132257,
+      "word": "感觉迪丽热巴工作室换人了",
+      "onboard_time": 1774053141,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551247,
       "num": 551247,
       "word": "F1",
@@ -1523,14 +1531,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 502489,
-      "num": 132257,
-      "word": "感觉迪丽热巴工作室换人了",
-      "onboard_time": 1774053141,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 500709,
       "num": 595175,
       "word": "内塔尼亚胡说拉里贾尼已身亡",
@@ -1724,7 +1724,7 @@
     },
     {
       "raw_hot": 471869,
-      "num": 130634,
+      "num": 373488,
       "word": "曝章子怡为新戏增肥20斤",
       "onboard_time": 1774057222,
       "rank": 15,
@@ -2561,6 +2561,14 @@
       "onboard_time": 1774009823,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 371075,
+      "num": 120899,
+      "word": "盖娅传说 冷处理",
+      "onboard_time": 1774060339,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 370250,
@@ -5604,11 +5612,19 @@
     },
     {
       "raw_hot": 191603,
-      "num": 191603,
+      "num": 781252,
       "word": "直播间买10盒蓝莓到手每盒不足5颗",
       "onboard_time": 1774053559,
       "rank": 3,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 191276,
+      "num": 118671,
+      "word": "徐冬冬婚戒丢了",
+      "onboard_time": 1774059979,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 191132,
@@ -5633,6 +5649,14 @@
       "onboard_time": 1773637163,
       "rank": 30,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 189860,
+      "num": 120042,
+      "word": "金饰价一夜暴跌32元",
+      "onboard_time": 1774058480,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 189799,
@@ -5905,6 +5929,14 @@
       "onboard_time": 1773911181,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183417,
+      "num": 118252,
+      "word": "尚界Z7十款车色全部亮相",
+      "onboard_time": 1774061118,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 183403,
@@ -7740,7 +7772,7 @@
     },
     {
       "raw_hot": 134496,
-      "num": 134496,
+      "num": 155305,
       "word": "白玉兰 老带新",
       "onboard_time": 1774051340,
       "rank": 7,
@@ -8691,14 +8723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118671,
-      "num": 118671,
-      "word": "徐冬冬婚戒丢了",
-      "onboard_time": 1774059979,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118562,
       "num": 118562,
       "word": "洛克王国世界抢学号崩了",
@@ -8851,8 +8875,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116625,
-      "num": 116625,
+      "raw_hot": 116684,
+      "num": 116684,
       "word": "迪丽热巴嫡长女待遇",
       "onboard_time": 1774050139,
       "rank": 28,
@@ -9169,6 +9193,14 @@
       "onboard_time": 1773825202,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110926,
+      "num": 124158,
+      "word": "张凌赫回应田曦薇在逐玉中的武力值",
+      "onboard_time": 1774059259,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 110861,
@@ -9707,6 +9739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105233,
+      "num": 105233,
+      "word": "整容后的夏子玉",
+      "onboard_time": 1774056979,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105172,
       "num": 105172,
       "word": "银行金条越来越难买了",
@@ -9745,6 +9785,14 @@
       "onboard_time": 1773875418,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104837,
+      "num": 104837,
+      "word": "曝汤唯疑怀二胎",
+      "onboard_time": 1774062380,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 104692,
@@ -9793,14 +9841,6 @@
       "onboard_time": 1773844644,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103986,
-      "num": 116806,
-      "word": "金饰价一夜暴跌32元",
-      "onboard_time": 1774058480,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 103958,
@@ -10547,6 +10587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96790,
+      "num": 106294,
+      "word": "美媒称伊朗导弹袭击美英印度洋基地",
+      "onboard_time": 1774061180,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96785,
       "num": 96785,
       "word": "大张伟拒绝付航微信申请",
@@ -10673,6 +10721,14 @@
       "onboard_time": 1773726502,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 95685,
+      "num": 92291,
+      "word": "郝阿三想帮忙然后又手足无措",
+      "onboard_time": 1774059740,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 95635,
@@ -11995,6 +12051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85892,
+      "num": 85892,
+      "word": "高叶吐槽刘昊然文案",
+      "onboard_time": 1774059799,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85805,
       "num": 85805,
       "word": "伊朗发起第53波攻势",
@@ -12073,14 +12137,6 @@
       "onboard_time": 1773663201,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85105,
-      "num": 85105,
-      "word": "张凌赫回应田曦薇在逐玉中的武力值",
-      "onboard_time": 1774059259,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 85074,
@@ -12467,6 +12523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82301,
+      "num": 82301,
+      "word": "女子极端减肥体重不足40千克心脏骤停",
+      "onboard_time": 1774058901,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82225,
       "num": 82225,
       "word": "胖东来小方糖戒指被炒到249元",
@@ -12491,6 +12555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 81694,
+      "num": 81694,
+      "word": "四川发现储量世界第二大轻稀土矿",
+      "onboard_time": 1774060100,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81656,
       "num": 81656,
       "word": "门店回应vivo涨价",
@@ -12513,14 +12585,6 @@
       "onboard_time": 1773906321,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81513,
-      "num": 81513,
-      "word": "郝阿三想帮忙然后又手足无措",
-      "onboard_time": 1774059740,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 81467,
@@ -12803,14 +12867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79987,
-      "num": 79987,
-      "word": "整容后的夏子玉",
-      "onboard_time": 1774056979,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 79977,
       "num": 79977,
       "word": "油价或全面涨至9元时代",
@@ -12905,6 +12961,14 @@
       "onboard_time": 1773907102,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 79101,
+      "num": 79101,
+      "word": "他会一辈子都记得这个老师的",
+      "onboard_time": 1774062080,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 79069,
@@ -13049,6 +13113,14 @@
       "onboard_time": 1773840622,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 77903,
+      "num": 77903,
+      "word": "AI演员林汐颜秦凌岳为何引众怒",
+      "onboard_time": 1774062199,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 77859,
@@ -13401,14 +13473,6 @@
       "onboard_time": 1773746602,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76061,
-      "num": 70638,
-      "word": "高叶吐槽刘昊然文案",
-      "onboard_time": 1774059799,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 75952,
@@ -13819,6 +13883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73321,
+      "num": 73321,
+      "word": "黄金创43年最大单周跌幅",
+      "onboard_time": 1774061659,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73304,
       "num": 73304,
       "word": "盐水猪肉",
@@ -14139,14 +14211,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 70813,
-      "num": 70813,
-      "word": "四川发现储量世界第二大轻稀土矿",
-      "onboard_time": 1774060100,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70801,
       "num": 70801,
       "word": "A股守住4000点",
@@ -14177,14 +14241,6 @@
       "onboard_time": 1773584246,
       "rank": 20,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 70398,
-      "num": 70398,
-      "word": "女子极端减肥体重不足40千克心脏骤停",
-      "onboard_time": 1774058901,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70389,
@@ -14697,6 +14753,14 @@
       "onboard_time": 1773889401,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 65949,
+      "num": 63540,
+      "word": "卢昱晓 明月曾照小重山",
+      "onboard_time": 1774061600,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 65947,
@@ -15364,7 +15428,7 @@
     },
     {
       "raw_hot": 59161,
-      "num": 59161,
+      "num": 63100,
       "word": "女子暴力剔牙十年陷入恶性循环",
       "onboard_time": 1774051280,
       "rank": 45,
@@ -15545,14 +15609,6 @@
       "onboard_time": 1773907401,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 56327,
-      "num": 56327,
-      "word": "盖娅传说 冷处理",
-      "onboard_time": 1774060339,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 56198,
@@ -17187,6 +17243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 27369,
+      "num": 622287,
+      "word": "清明小长假火车购票日历",
+      "onboard_time": 1774061118,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27232,
       "num": 60015,
       "word": "无双杨戬",
@@ -17425,6 +17489,14 @@
       "onboard_time": 1773914539,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 22399,
+      "num": 119633,
+      "word": "睡觉被扣钱不服与领导冲突被辞",
+      "onboard_time": 1774062140,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22269,
@@ -18032,6 +18104,14 @@
       "word": "业内称防晒衣等功能服装在涨价前夜",
       "onboard_time": 1773905962,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11503,
+      "num": 119022,
+      "word": "男子多次殴打妻子致骨折获刑8个月",
+      "onboard_time": 1774062140,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
