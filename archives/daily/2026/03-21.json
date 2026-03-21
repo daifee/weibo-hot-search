@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774098280072,
+  "endTime": 1774099562028,
   "band_list": [
     {
       "raw_hot": 13365300,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 7495952,
-      "num": 7495952,
+      "raw_hot": 11249504,
+      "num": 11249504,
       "word": "逐玉 泄露",
       "onboard_time": 1774096521,
       "rank": 12,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2857817,
-      "num": 154572,
+      "num": 163682,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1774078881,
       "rank": 20,
@@ -41,6 +41,14 @@
       "onboard_time": 1774075461,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1697833,
+      "num": 210275,
+      "word": "逐玉大结局",
+      "onboard_time": 1774097962,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1339916,
@@ -59,20 +67,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1165894,
+      "num": 318099,
+      "word": "逐玉",
+      "onboard_time": 1774001180,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1093752,
       "num": 1093752,
       "word": "白象 土豆泥火鸡面",
       "onboard_time": 1774069942,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1083422,
-      "num": 318099,
-      "word": "逐玉",
-      "onboard_time": 1774001180,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 955497,
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 847926,
+      "num": 176498,
+      "word": "逐玉 爱奇艺",
+      "onboard_time": 1774098864,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 794125,
       "num": 345548,
       "word": "网友通过倪妮悄悄话分析出汤唯怀孕了",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 714289,
-      "num": 151640,
+      "num": 159204,
       "word": "黄霄雲 莫挨老子",
       "onboard_time": 1774089801,
       "rank": 33,
@@ -137,6 +153,14 @@
       "onboard_time": 1774076361,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 674392,
+      "num": 168701,
+      "word": "逐玉 一天一集果然会出事",
+      "onboard_time": 1774098984,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 643562,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 504954,
-      "num": 151182,
+      "num": 159848,
       "word": "曝迪丽热巴新经纪人入职嘉行",
       "onboard_time": 1774083081,
       "rank": 23,
@@ -251,14 +275,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 431324,
-      "num": 210275,
-      "word": "逐玉大结局",
-      "onboard_time": 1774097962,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 427424,
       "num": 427424,
       "word": "董事长病逝未成年女儿继承9亿股票",
@@ -305,6 +321,14 @@
       "onboard_time": 1774093400,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 396602,
+      "num": 184092,
+      "word": "逐玉 删戏份",
+      "onboard_time": 1774098625,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 394326,
@@ -481,6 +505,14 @@
       "onboard_time": 1774066223,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256109,
+      "num": 256109,
+      "word": "你好星期六预告",
+      "onboard_time": 1774097542,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 254892,
@@ -683,6 +715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199782,
+      "num": 158546,
+      "word": "迪丽热巴新经纪人疑似回应入职嘉行",
+      "onboard_time": 1774099461,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198924,
       "num": 167148,
       "word": "章子怡高叶影后双黄蛋",
@@ -737,6 +777,14 @@
       "onboard_time": 1774059979,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189991,
+      "num": 189991,
+      "word": "11岁男孩脸肿竟是肿瘤骨头断了",
+      "onboard_time": 1774096761,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189860,
@@ -923,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158491,
+      "num": 158491,
+      "word": "阿娇的邪修减肥法是刷牙",
+      "onboard_time": 1774095621,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156302,
       "num": 99453,
       "word": "深圳一公司公告称副总在办公室偷吃",
@@ -939,14 +995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 151897,
-      "num": 151897,
-      "word": "11岁男孩脸肿竟是肿瘤骨头断了",
-      "onboard_time": 1774096761,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150906,
       "num": 150906,
       "word": "马斯克说这就是kimi",
@@ -961,14 +1009,6 @@
       "onboard_time": 1774088722,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 150231,
-      "num": 150231,
-      "word": "阿娇的邪修减肥法是刷牙",
-      "onboard_time": 1774095621,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 147410,
@@ -1195,14 +1235,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 121878,
-      "num": 121878,
-      "word": "你好星期六预告",
-      "onboard_time": 1774097542,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120885,
       "num": 204377,
       "word": "雷军说确实说错了",
@@ -1347,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110162,
+      "num": 110162,
+      "word": "陈飞宇被热巴扑倒幕后花絮",
+      "onboard_time": 1774098263,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110138,
       "num": 109072,
       "word": "迪丽热巴的项链是护身符",
@@ -1483,6 +1523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97120,
+      "num": 143021,
+      "word": "PUBG",
+      "onboard_time": 1774098383,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96790,
       "num": 106294,
       "word": "美媒称伊朗导弹袭击美英印度洋基地",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1774048216,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93426,
+      "num": 93426,
+      "word": "董洁说90斤不敢上称",
+      "onboard_time": 1774099104,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 93266,
@@ -1803,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82266,
+      "num": 94154,
+      "word": "帮助梅姨案家属的记者去世了",
+      "onboard_time": 1774097601,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81812,
       "num": 81812,
       "word": "北京WBG获胜",
@@ -1843,14 +1907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81485,
-      "num": 81485,
-      "word": "帮助梅姨案家属的记者去世了",
-      "onboard_time": 1774097601,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80930,
       "num": 80930,
       "word": "AG锁定季后赛胜者组",
@@ -1888,6 +1944,14 @@
       "word": "销售帮客户摇出顶级豹子车牌号",
       "onboard_time": 1774079303,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79725,
+      "num": 155694,
+      "word": "女子久坐头晕牵出电商报告造假黑幕",
+      "onboard_time": 1774098023,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2147,12 +2211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70362,
+      "num": 70362,
+      "word": "日本女足1比0澳大利亚女足",
+      "onboard_time": 1774099461,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69896,
       "num": 69896,
       "word": "女子办离婚被问你要离哪一段",
       "onboard_time": 1774006341,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69793,
+      "num": 69793,
+      "word": "日本女足夺得亚洲杯冠军",
+      "onboard_time": 1774099344,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 69791,
@@ -2659,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57747,
+      "num": 69435,
+      "word": "重庆铜梁龙vs成都蓉城",
+      "onboard_time": 1774095740,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57365,
       "num": 57365,
       "word": "易烊千玺白T获奖感言",
@@ -2867,14 +2955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41063,
-      "num": 155694,
-      "word": "女子久坐头晕牵出电商报告造假黑幕",
-      "onboard_time": 1774098023,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40275,
       "num": 40275,
       "word": "郑钦文迈阿密赛首战推迟",
@@ -3065,6 +3145,14 @@
       "onboard_time": 1774085660,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16048,
+      "num": 93162,
+      "word": "谢霆锋朋友圈步数第一",
+      "onboard_time": 1774093223,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 15530,
