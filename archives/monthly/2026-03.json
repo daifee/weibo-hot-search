@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774068283918,
+  "endTime": 1774068834037,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -6787,6 +6787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436864,
+      "num": 436864,
+      "word": "雷军60加60等于120言论引争议",
+      "onboard_time": 1774065741,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 436764,
       "num": 326377,
       "word": "中方回应是否会对伊朗提供军事支持",
@@ -7313,14 +7321,6 @@
       "onboard_time": 1773817941,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 419106,
-      "num": 419106,
-      "word": "雷军60加60等于120言论引争议",
-      "onboard_time": 1774065741,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 418469,
@@ -8380,7 +8380,7 @@
     },
     {
       "raw_hot": 380883,
-      "num": 130097,
+      "num": 138880,
       "word": "逐玉 反向入侵短剧",
       "onboard_time": 1774054702,
       "rank": 16,
@@ -13307,6 +13307,14 @@
       "category": "作品衍生,互联网"
     },
     {
+      "raw_hot": 258944,
+      "num": 415314,
+      "word": "终于有人吐槽手语舞了",
+      "onboard_time": 1774066223,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258705,
       "num": 90453,
       "word": "女子寺庙求姻缘遇心动男生",
@@ -16179,6 +16187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 213620,
+      "num": 213620,
+      "word": "虞书欣专辑签售会",
+      "onboard_time": 1774068503,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213375,
       "num": 289679,
       "word": "肾病恶化身体会发3次信号",
@@ -16937,14 +16953,6 @@
       "onboard_time": 1773053421,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201504,
-      "num": 415314,
-      "word": "终于有人吐槽手语舞了",
-      "onboard_time": 1774066223,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 201104,
@@ -18369,6 +18377,14 @@
       "onboard_time": 1773646945,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183828,
+      "num": 183828,
+      "word": "梅姨案时间线",
+      "onboard_time": 1774066822,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183632,
@@ -21657,14 +21673,6 @@
       "onboard_time": 1772678722,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 151762,
-      "num": 151762,
-      "word": "梅姨案时间线",
-      "onboard_time": 1774066822,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151697,
@@ -26019,6 +26027,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122916,
+      "num": 84635,
+      "word": "梅姨案被拐孩子发声",
+      "onboard_time": 1774068382,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122913,
       "num": 122913,
       "word": "泡泡玛特回应7年前买的盲盒才发货",
@@ -26433,6 +26449,14 @@
       "onboard_time": 1772867000,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120885,
+      "num": 204377,
+      "word": "雷军说确实说错了",
+      "onboard_time": 1774068442,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 120874,
@@ -26905,6 +26929,14 @@
       "onboard_time": 1773816441,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118432,
+      "num": 148818,
+      "word": "白日提灯顶级待遇",
+      "onboard_time": 1774068382,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 118431,
@@ -29475,6 +29507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106996,
+      "num": 84094,
+      "word": "美女卖糍粑把大哥哄成胎盘了",
+      "onboard_time": 1774068323,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106975,
       "num": 201042,
       "word": "未来10多年中国中等收入群体可能超8亿",
@@ -31225,6 +31265,14 @@
       "onboard_time": 1773380662,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100712,
+      "num": 83619,
+      "word": "章子怡采访刘烨憋笑",
+      "onboard_time": 1774067304,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 100701,
@@ -33787,14 +33835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93298,
-      "num": 76651,
-      "word": "章子怡采访刘烨憋笑",
-      "onboard_time": 1774067304,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93297,
       "num": 147436,
       "word": "多品牌回应椰子水疑加水加糖",
@@ -33884,7 +33924,7 @@
     },
     {
       "raw_hot": 92986,
-      "num": 79413,
+      "num": 82379,
       "word": "AI演员林汐颜秦凌岳为何引众怒",
       "onboard_time": 1774062199,
       "rank": 39,
@@ -36651,6 +36691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85600,
+      "num": 83329,
+      "word": "张凌赫的微指",
+      "onboard_time": 1774067843,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85596,
       "num": 201672,
       "word": "王楚钦更新训练vlog",
@@ -36705,6 +36753,14 @@
       "onboard_time": 1773546201,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85510,
+      "num": 85510,
+      "word": "司美格鲁肽化合物专利到期",
+      "onboard_time": 1774063699,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 85478,
@@ -37499,6 +37555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83219,
+      "num": 83219,
+      "word": "学校校医到底什么水平",
+      "onboard_time": 1774067962,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83197,
       "num": 657524,
       "word": "温瑞博3比1莫雷加德",
@@ -38193,14 +38257,6 @@
       "onboard_time": 1772686345,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 81158,
-      "num": 81158,
-      "word": "司美格鲁肽化合物专利到期",
-      "onboard_time": 1774063699,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 81106,
@@ -41843,6 +41899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72564,
+      "num": 72564,
+      "word": "择偶标准是爸爸的含金量",
+      "onboard_time": 1774064121,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 72562,
       "num": 72562,
       "word": "甜茶据称无缘奥斯卡影帝后彻底崩溃",
@@ -42067,14 +42131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71971,
-      "num": 71971,
-      "word": "学校校医到底什么水平",
-      "onboard_time": 1774067962,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 71955,
       "num": 71955,
       "word": "30年前买的削笔器",
@@ -42203,14 +42259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 71655,
-      "num": 71655,
-      "word": "张凌赫的微指",
-      "onboard_time": 1774067843,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71652,
       "num": 103552,
       "word": "政协委员说要让青年愿意进工厂",
@@ -42225,6 +42273,14 @@
       "onboard_time": 1774067905,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71617,
+      "num": 71617,
+      "word": "金饰价跌回1413元",
+      "onboard_time": 1774066223,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 71612,
@@ -42433,14 +42489,6 @@
       "onboard_time": 1773996742,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 70888,
-      "num": 70888,
-      "word": "择偶标准是爸爸的含金量",
-      "onboard_time": 1774064121,
-      "rank": 41,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 70873,
@@ -43105,6 +43153,14 @@
       "onboard_time": 1772500466,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 68966,
+      "num": 68966,
+      "word": "无限暖暖 小红帽",
+      "onboard_time": 1774068743,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 68961,
@@ -43825,6 +43881,14 @@
       "onboard_time": 1773477440,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66962,
+      "num": 66962,
+      "word": "路虎8次别停事件立案为何迟到3月",
+      "onboard_time": 1774068562,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 66918,
@@ -44665,14 +44729,6 @@
       "onboard_time": 1774014383,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 64258,
-      "num": 64258,
-      "word": "金饰价跌回1413元",
-      "onboard_time": 1774066223,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 64253,
@@ -54883,6 +54939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11459,
+      "num": 195495,
+      "word": "为弟追凶20余年案4月8日二审开庭",
+      "onboard_time": 1774068024,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11391,
       "num": 201438,
       "word": "孙颖莎实力真香",
@@ -55001,14 +55065,6 @@
       "onboard_time": 1772581463,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10106,
-      "num": 195495,
-      "word": "为弟追凶20余年案4月8日二审开庭",
-      "onboard_time": 1774068024,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9119,

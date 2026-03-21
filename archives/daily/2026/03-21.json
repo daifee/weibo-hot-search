@@ -1,6 +1,6 @@
 {
   "startTime": 1774022743723,
-  "endTime": 1774068283918,
+  "endTime": 1774068834037,
   "band_list": [
     {
       "raw_hot": 13365300,
@@ -115,8 +115,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419106,
-      "num": 419106,
+      "raw_hot": 436864,
+      "num": 436864,
       "word": "雷军60加60等于120言论引争议",
       "onboard_time": 1774065741,
       "rank": 4,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 380883,
-      "num": 130097,
+      "num": 138880,
       "word": "逐玉 反向入侵短剧",
       "onboard_time": 1774054702,
       "rank": 16,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258944,
+      "num": 415314,
+      "word": "终于有人吐槽手语舞了",
+      "onboard_time": 1774066223,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241389,
       "num": 86711,
       "word": "G2",
@@ -243,6 +251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 213620,
+      "num": 213620,
+      "word": "虞书欣专辑签售会",
+      "onboard_time": 1774068503,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208940,
       "num": 208940,
       "word": "桃黑黑直播",
@@ -265,14 +281,6 @@
       "onboard_time": 1774014563,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201504,
-      "num": 415314,
-      "word": "终于有人吐槽手语舞了",
-      "onboard_time": 1774066223,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 198924,
@@ -329,6 +337,14 @@
       "onboard_time": 1774020442,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 183828,
+      "num": 183828,
+      "word": "梅姨案时间线",
+      "onboard_time": 1774066822,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183417,
@@ -417,14 +433,6 @@
       "onboard_time": 1774064000,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 151762,
-      "num": 151762,
-      "word": "梅姨案时间线",
-      "onboard_time": 1774066822,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150906,
@@ -563,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122916,
+      "num": 84635,
+      "word": "梅姨案被拐孩子发声",
+      "onboard_time": 1774068382,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122789,
       "num": 122789,
       "word": "阿信回应言承旭提词器争议",
@@ -579,6 +595,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 120885,
+      "num": 204377,
+      "word": "雷军说确实说错了",
+      "onboard_time": 1774068442,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120130,
       "num": 120130,
       "word": "22点和23点睡觉差距到底多大",
@@ -593,6 +617,14 @@
       "onboard_time": 1774002561,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118432,
+      "num": 148818,
+      "word": "白日提灯顶级待遇",
+      "onboard_time": 1774068382,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 116839,
@@ -651,6 +683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106996,
+      "num": 84094,
+      "word": "美女卖糍粑把大哥哄成胎盘了",
+      "onboard_time": 1774068323,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106947,
       "num": 106947,
       "word": "沦为AI素材杨紫尊严何在",
@@ -673,6 +713,14 @@
       "onboard_time": 1774059681,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100712,
+      "num": 83619,
+      "word": "章子怡采访刘烨憋笑",
+      "onboard_time": 1774067304,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 99621,
@@ -731,14 +779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93298,
-      "num": 76651,
-      "word": "章子怡采访刘烨憋笑",
-      "onboard_time": 1774067304,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93266,
       "num": 93266,
       "word": "张凌赫工作室 拍出了张凌赫的死角",
@@ -748,7 +788,7 @@
     },
     {
       "raw_hot": 92986,
-      "num": 79413,
+      "num": 82379,
       "word": "AI演员林汐颜秦凌岳为何引众怒",
       "onboard_time": 1774062199,
       "rank": 39,
@@ -819,6 +859,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85600,
+      "num": 83329,
+      "word": "张凌赫的微指",
+      "onboard_time": 1774067843,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85510,
+      "num": 85510,
+      "word": "司美格鲁肽化合物专利到期",
+      "onboard_time": 1774063699,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 84095,
       "num": 84095,
       "word": "入坑李卿",
@@ -843,6 +899,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 83219,
+      "num": 83219,
+      "word": "学校校医到底什么水平",
+      "onboard_time": 1774067962,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82458,
       "num": 82458,
       "word": "肖战深V黑西装live",
@@ -865,14 +929,6 @@
       "onboard_time": 1774060100,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81158,
-      "num": 81158,
-      "word": "司美格鲁肽化合物专利到期",
-      "onboard_time": 1774063699,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 79977,
@@ -979,20 +1035,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 71971,
-      "num": 71971,
-      "word": "学校校医到底什么水平",
-      "onboard_time": 1774067962,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 71655,
-      "num": 71655,
-      "word": "张凌赫的微指",
-      "onboard_time": 1774067843,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 72564,
+      "num": 72564,
+      "word": "择偶标准是爸爸的含金量",
+      "onboard_time": 1774064121,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 71646,
@@ -1003,12 +1051,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70888,
-      "num": 70888,
-      "word": "择偶标准是爸爸的含金量",
-      "onboard_time": 1774064121,
-      "rank": 41,
-      "category": "情感,幽默"
+      "raw_hot": 71617,
+      "num": 71617,
+      "word": "金饰价跌回1413元",
+      "onboard_time": 1774066223,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 70669,
@@ -1043,12 +1091,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68966,
+      "num": 68966,
+      "word": "无限暖暖 小红帽",
+      "onboard_time": 1774068743,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 67381,
       "num": 67381,
       "word": "丹麦被爆拟炸机场防美入侵格陵兰岛",
       "onboard_time": 1774065624,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66962,
+      "num": 66962,
+      "word": "路虎8次别停事件立案为何迟到3月",
+      "onboard_time": 1774068562,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 65989,
@@ -1081,14 +1145,6 @@
       "onboard_time": 1774020862,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 64258,
-      "num": 64258,
-      "word": "金饰价跌回1413元",
-      "onboard_time": 1774066223,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 64153,
@@ -1419,20 +1475,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11459,
+      "num": 195495,
+      "word": "为弟追凶20余年案4月8日二审开庭",
+      "onboard_time": 1774068024,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11251,
       "num": 18316,
       "word": "全网迪士尼朋友都在跳",
       "onboard_time": 1774001242,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 10106,
-      "num": 195495,
-      "word": "为弟追凶20余年案4月8日二审开庭",
-      "onboard_time": 1774068024,
-      "rank": 19,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
