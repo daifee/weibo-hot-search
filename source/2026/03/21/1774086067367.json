@@ -1,0 +1,410 @@
+{
+  "runTime": 1774086067367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1750759,
+        "num": 1750759,
+        "word": "梅姨被逮捕",
+        "onboard_time": 1774064541,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1264910,
+        "num": 1264910,
+        "word": "梅姨同居男友都看不到她的身份证",
+        "onboard_time": 1774081225,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 33552,
+        "num": 741611,
+        "word": "总会被一棵树的张力震撼到",
+        "onboard_time": 1774079121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390471,
+        "num": 390471,
+        "word": "梅姨同居男友说她不戴首饰",
+        "onboard_time": 1774081582,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206704,
+        "num": 377428,
+        "word": "女子熬夜3个月突然开始对墙讲课",
+        "onboard_time": 1774077139,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218567,
+        "num": 362150,
+        "word": "软软的水 脆脆的水",
+        "onboard_time": 1774083264,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183181,
+        "num": 353341,
+        "word": "90后男子为降血糖自制汤药身亡",
+        "onboard_time": 1774081522,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126309,
+        "num": 333165,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1774083862,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123466,
+        "num": 324571,
+        "word": "美军核坟墓辐射量已超切尔诺贝利",
+        "onboard_time": 1774077381,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91582,
+        "num": 305177,
+        "word": "谢征白吃醋了",
+        "onboard_time": 1774083622,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298973,
+        "num": 298973,
+        "word": "梅姨长相与公布画像相似度不高",
+        "onboard_time": 1774077861,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249507,
+        "num": 249507,
+        "word": "月经弄脏卧铺当事人详述事件经过",
+        "onboard_time": 1774084702,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183949,
+        "num": 183949,
+        "word": "伊朗有意日本船只通行霍尔木兹海峡",
+        "onboard_time": 1774070361,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144430,
+        "num": 144430,
+        "word": "杨家鑫被梅姨拐走爸爸跳火车身亡",
+        "onboard_time": 1774084101,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140408,
+        "num": 140408,
+        "word": "别来工作的地方找我",
+        "onboard_time": 1774079721,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139203,
+        "num": 139203,
+        "word": "梅姨案有家庭认亲成功也未能团圆",
+        "onboard_time": 1774084824,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137334,
+        "num": 137334,
+        "word": "金饰价格已下跌超300元",
+        "onboard_time": 1774083622,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134765,
+        "num": 134765,
+        "word": "谢某某就是梅姨",
+        "onboard_time": 1774065984,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116485,
+        "num": 116485,
+        "word": "谢征俞宝儿是连襟",
+        "onboard_time": 1774080321,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20378,
+        "num": 115949,
+        "word": "当女性大声说出我想要",
+        "onboard_time": 1774085300,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2173630,
+        "num": 115115,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1774078881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516503,
+        "num": 114557,
+        "word": "白象 土豆泥火鸡面",
+        "onboard_time": 1774069942,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 504954,
+        "num": 114100,
+        "word": "曝迪丽热巴新经纪人入职嘉行",
+        "onboard_time": 1774083081,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370492,
+        "num": 113012,
+        "word": "痞幼因网红身份被邻居排挤",
+        "onboard_time": 1774080382,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112866,
+        "num": 112866,
+        "word": "梅姨与画像相似度不到30%",
+        "onboard_time": 1774080082,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308975,
+        "num": 110889,
+        "word": "张凌赫男大自拍",
+        "onboard_time": 1774082001,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284365,
+        "num": 104324,
+        "word": "曝梁小龙去世两个月没下葬将停棺10年",
+        "onboard_time": 1774076361,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89022,
+        "num": 89022,
+        "word": "做饭2小时吃饭10分钟",
+        "onboard_time": 1774084341,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268270,
+        "num": 89019,
+        "word": "迪丽热巴再被叫胖迪很惊讶",
+        "onboard_time": 1774077561,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261705,
+        "num": 88929,
+        "word": "张凌赫田曦薇 所有人都在觊觎我妻子",
+        "onboard_time": 1774077623,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97792,
+        "num": 88885,
+        "word": "下次给小朋友就这么切橙子",
+        "onboard_time": 1774084461,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117484,
+        "num": 88807,
+        "word": "网友通过倪妮悄悄话分析出汤唯怀孕了",
+        "onboard_time": 1774065682,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99612,
+        "num": 88772,
+        "word": "马嘉祺无框眼镜贵公子",
+        "onboard_time": 1774084761,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88749,
+        "num": 88749,
+        "word": "梅姨曾与60多岁老人同居2年",
+        "onboard_time": 1774085363,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97120,
+        "num": 87215,
+        "word": "花10块都要经过深思熟虑",
+        "onboard_time": 1774085363,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85226,
+        "num": 85226,
+        "word": "业内曝男演员比女演员修图难",
+        "onboard_time": 1774082363,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80447,
+        "num": 80447,
+        "word": "粉丝误把五月天门票送给韩雨彤",
+        "onboard_time": 1774080861,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75746,
+        "num": 75746,
+        "word": "老师为什么能发现家长签名是假的",
+        "onboard_time": 1774085363,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9213,
+        "num": 75744,
+        "word": "男子借口卖烟去亲戚家踩点后抢劫",
+        "onboard_time": 1774085660,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32710,
+        "num": 75736,
+        "word": "濮院重新定义古镇非标模式",
+        "onboard_time": 1774083742,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 77525,
+        "num": 75727,
+        "word": "周杰伦拍了华语乐坛最贵mv",
+        "onboard_time": 1774083561,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34367,
+        "num": 75713,
+        "word": "梅姨同居男友曾称警方画像不像",
+        "onboard_time": 1774085961,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75710,
+        "num": 75710,
+        "word": "猫咪意识到抚摸它的不是妈妈",
+        "onboard_time": 1774082302,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34568,
+        "num": 74339,
+        "word": "每天靠墙站10分钟会发生什么",
+        "onboard_time": 1774083382,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 74318,
+        "num": 74318,
+        "word": "梅姨画像耗时约4小时修改了四五次",
+        "onboard_time": 1774080922,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68869,
+        "num": 68869,
+        "word": "睡眠不足带来的恶性影响",
+        "onboard_time": 1774085840,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65543,
+        "num": 65543,
+        "word": "为什么猫咪塌鼻梁还那么可爱",
+        "onboard_time": 1774083023,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61634,
+        "num": 61634,
+        "word": "AG锁定季后赛胜者组",
+        "onboard_time": 1774083081,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39954,
+        "num": 59863,
+        "word": "以色列刚放完狠话防空警报就响了",
+        "onboard_time": 1774080382,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59742,
+        "num": 59742,
+        "word": "贺峻霖曼谷vlog",
+        "onboard_time": 1774086021,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以正确政绩观推动高质量发展#"
+    }
+  }
+}
