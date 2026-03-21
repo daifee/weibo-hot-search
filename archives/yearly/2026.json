@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774076965518,
+  "endTime": 1774078791835,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2147,6 +2147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1717371,
+      "num": 1717371,
+      "word": "梅姨男友称与其同居3年没拍照片",
+      "onboard_time": 1774075461,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1716405,
       "num": 780960,
       "word": "时代少年团红包",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1771340001,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1611555,
-      "num": 1140266,
-      "word": "蔡徐坤直播",
-      "onboard_time": 1770552801,
-      "rank": 3,
-      "category": "音乐"
     }
   ],
   "hotgov_list": [

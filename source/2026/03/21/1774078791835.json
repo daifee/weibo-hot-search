@@ -1,0 +1,410 @@
+{
+  "runTime": 1774078791835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4276734,
+        "num": 4276734,
+        "word": "梅姨被逮捕",
+        "onboard_time": 1774064541,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1717371,
+        "num": 1717371,
+        "word": "梅姨男友称与其同居3年没拍照片",
+        "onboard_time": 1774075461,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6688,
+        "num": 927679,
+        "word": "我国森林面积连续40年增长",
+        "onboard_time": 1774078761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620255,
+        "num": 620255,
+        "word": "白象 土豆泥火鸡面",
+        "onboard_time": 1774069942,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 533779,
+        "num": 533779,
+        "word": "谢某某就是梅姨",
+        "onboard_time": 1774065984,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231295,
+        "num": 231295,
+        "word": "董事长病逝未成年女儿继承9亿股票",
+        "onboard_time": 1774071141,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168469,
+        "num": 168469,
+        "word": "美军核坟墓辐射量已超切尔诺贝利",
+        "onboard_time": 1774077381,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155382,
+        "num": 155382,
+        "word": "风雨廊亭梦已醒 上完厕所丢行李",
+        "onboard_time": 1774071861,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17524,
+        "num": 141411,
+        "word": "今天买清明假期第一天火车票",
+        "onboard_time": 1774078461,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138647,
+        "num": 138647,
+        "word": "终于有人吐槽手语舞了",
+        "onboard_time": 1774066223,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 683858,
+        "num": 138414,
+        "word": "曝梁小龙去世两个月没下葬将停棺10年",
+        "onboard_time": 1774076361,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582981,
+        "num": 137297,
+        "word": "迪丽热巴再被叫胖迪很惊讶",
+        "onboard_time": 1774077561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304726,
+        "num": 135929,
+        "word": "15岁女生派出所办公室内遭猥亵",
+        "onboard_time": 1774065502,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409598,
+        "num": 134880,
+        "word": "张凌赫田曦薇 所有人都在觊觎我妻子",
+        "onboard_time": 1774077623,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269770,
+        "num": 132735,
+        "word": "网友通过倪妮悄悄话分析出汤唯怀孕了",
+        "onboard_time": 1774065682,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25218,
+        "num": 131523,
+        "word": "男明星最权威现场",
+        "onboard_time": 1774075042,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131501,
+        "num": 131501,
+        "word": "徐志胜自曝创业月亏12万",
+        "onboard_time": 1774069822,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266057,
+        "num": 131203,
+        "word": "梅姨长相与公布画像相似度不高",
+        "onboard_time": 1774077861,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275029,
+        "num": 130733,
+        "word": "迪丽热巴工作室审美",
+        "onboard_time": 1774074679,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212964,
+        "num": 130291,
+        "word": "伊朗有意日本船只通行霍尔木兹海峡",
+        "onboard_time": 1774070361,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 209511,
+        "num": 129615,
+        "word": "梅姨2张模拟画像均被指不符",
+        "onboard_time": 1774077321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185471,
+        "num": 129381,
+        "word": "还原梅姨画像神笔警探发声",
+        "onboard_time": 1774075999,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131611,
+        "num": 128891,
+        "word": "倪妮这铁真没白撸",
+        "onboard_time": 1774076540,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128530,
+        "num": 128530,
+        "word": "WB对战KSG",
+        "onboard_time": 1774074441,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124929,
+        "num": 124929,
+        "word": "梅姨落网被拐儿童钟彬激动得吐了",
+        "onboard_time": 1774072641,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120005,
+        "num": 120005,
+        "word": "男子重病后发现老伴打赏男主播370万",
+        "onboard_time": 1774077260,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110893,
+        "num": 110893,
+        "word": "孙海洋说梅姨像鬼一样存在着",
+        "onboard_time": 1774075461,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103143,
+        "num": 103143,
+        "word": "女子熬夜3个月突然开始对墙讲课",
+        "onboard_time": 1774077139,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87651,
+        "num": 87651,
+        "word": "余华英",
+        "onboard_time": 1774070121,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62448,
+        "num": 87062,
+        "word": "以色列全国多地遭导弹袭击",
+        "onboard_time": 1774064000,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86870,
+        "num": 86870,
+        "word": "梅姨画像",
+        "onboard_time": 1774072221,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84750,
+        "num": 84750,
+        "word": "官方通报月经弄脏卧铺事件详情",
+        "onboard_time": 1774018763,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 17896,
+        "num": 81831,
+        "word": "清明小长假火车购票日历",
+        "onboard_time": 1774061118,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80809,
+        "num": 80809,
+        "word": "我妈把元祖机养到了40岁",
+        "onboard_time": 1774075042,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78486,
+        "num": 78486,
+        "word": "中国人搞纯爱两个人一起考上清华",
+        "onboard_time": 1774074380,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73883,
+        "num": 73883,
+        "word": "梅姨被逮杨妞花发声",
+        "onboard_time": 1774070783,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70869,
+        "num": 70869,
+        "word": "3月婴儿独自在家被子盖脸近2分钟",
+        "onboard_time": 1774069881,
+        "rank": 36,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 65632,
+        "num": 65632,
+        "word": "郝阿三资源",
+        "onboard_time": 1774070062,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65369,
+        "num": 65369,
+        "word": "薛之谦抢票",
+        "onboard_time": 1774077679,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62143,
+        "num": 62143,
+        "word": "高铁卖卫生巾背后看不见的女性需求",
+        "onboard_time": 1774078461,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63593,
+        "num": 62133,
+        "word": "片寄凉太幸福肥",
+        "onboard_time": 1774076961,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62073,
+        "num": 62073,
+        "word": "行政果切被老板说不够高档",
+        "onboard_time": 1774075580,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61958,
+        "num": 61958,
+        "word": "梅姨2017年浮出水面",
+        "onboard_time": 1774078461,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61929,
+        "num": 61929,
+        "word": "虞书欣专辑签售会",
+        "onboard_time": 1774068503,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61923,
+        "num": 61923,
+        "word": "田曦薇说她和长玉相似度80%",
+        "onboard_time": 1774073661,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58619,
+        "num": 61031,
+        "word": "梅姨画像作者称尚未收到梅姨真实照",
+        "onboard_time": 1774077021,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60403,
+        "num": 60403,
+        "word": "WIEA阵容",
+        "onboard_time": 1774074199,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59463,
+        "num": 59463,
+        "word": "邓为孔雪儿 百妖谱",
+        "onboard_time": 1774055779,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53739,
+        "num": 53739,
+        "word": "长期睡不好的危害有多大",
+        "onboard_time": 1774076660,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52975,
+        "num": 52975,
+        "word": "油价调整日历",
+        "onboard_time": 1774078700,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#以正确政绩观推动高质量发展#"
+    }
+  }
+}
