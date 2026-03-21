@@ -1,0 +1,410 @@
+{
+  "runTime": 1774093582557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1056953,
+        "num": 1169112,
+        "word": "梅姨被逮捕",
+        "onboard_time": 1774064541,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 709302,
+        "num": 876238,
+        "word": "梅姨同居男友都看不到她的身份证",
+        "onboard_time": 1774081225,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 33494,
+        "num": 682761,
+        "word": "总会被一棵树的张力震撼到",
+        "onboard_time": 1774079121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593575,
+        "num": 593575,
+        "word": "JDG战胜DYG",
+        "onboard_time": 1774092743,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 506763,
+        "num": 506763,
+        "word": "京东外卖",
+        "onboard_time": 1774092743,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 360230,
+        "num": 360230,
+        "word": "樊长玉斩杀长信王",
+        "onboard_time": 1774090521,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351588,
+        "num": 351588,
+        "word": "梅姨同居男友说她不戴首饰",
+        "onboard_time": 1774081582,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252585,
+        "num": 252585,
+        "word": "伊朗手中握有真正的筹码",
+        "onboard_time": 1774090161,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233938,
+        "num": 233938,
+        "word": "十年前妈妈自己设计装修的家",
+        "onboard_time": 1774089740,
+        "rank": 8,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 231220,
+        "num": 231220,
+        "word": "逐玉",
+        "onboard_time": 1774087641,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 919054,
+        "num": 229453,
+        "word": "月经弄脏卧铺当事人详述事件经过",
+        "onboard_time": 1774084702,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218384,
+        "num": 218384,
+        "word": "得知梅姨被捕家长激动到呕吐",
+        "onboard_time": 1774091180,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192261,
+        "num": 192261,
+        "word": "梅姨拐卖的儿童认亲后将母亲拉黑",
+        "onboard_time": 1774086740,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191744,
+        "num": 191744,
+        "word": "老师为什么能发现家长签名是假的",
+        "onboard_time": 1774085363,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170271,
+        "num": 170271,
+        "word": "霍尔木兹海峡关闭或长达6个月",
+        "onboard_time": 1774087341,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169798,
+        "num": 169798,
+        "word": "金饰价格已下跌超300元",
+        "onboard_time": 1774083622,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161050,
+        "num": 161050,
+        "word": "女子熬夜3个月突然开始对墙讲课",
+        "onboard_time": 1774077139,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152451,
+        "num": 152451,
+        "word": "斗破苍穹",
+        "onboard_time": 1774089921,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 55834,
+        "num": 138205,
+        "word": "周末偶遇徐梦桃",
+        "onboard_time": 1774091661,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137377,
+        "num": 137377,
+        "word": "梅姨曾与60多岁老人同居2年",
+        "onboard_time": 1774085363,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1656609,
+        "num": 137309,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1774078881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 918436,
+        "num": 137201,
+        "word": "季冠霖发文抵制AI",
+        "onboard_time": 1774090342,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136859,
+        "num": 136859,
+        "word": "JDG对战DYG",
+        "onboard_time": 1774089560,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 670495,
+        "num": 136613,
+        "word": "黄霄雲 莫挨老子",
+        "onboard_time": 1774089801,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293007,
+        "num": 134908,
+        "word": "迪丽热巴好闪好辣",
+        "onboard_time": 1774090342,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132518,
+        "num": 132518,
+        "word": "警方曾释放梅姨不存在的信号",
+        "onboard_time": 1774092021,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219798,
+        "num": 129673,
+        "word": "张凌赫田曦薇 所有人都在觊觎我妻子",
+        "onboard_time": 1774077623,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210457,
+        "num": 128745,
+        "word": "曝梁小龙去世两个月没下葬将停棺10年",
+        "onboard_time": 1774076361,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125818,
+        "num": 125818,
+        "word": "JDG全胜通关S组",
+        "onboard_time": 1774092562,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 259242,
+        "num": 123031,
+        "word": "曝迪丽热巴新经纪人入职嘉行",
+        "onboard_time": 1774083081,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195469,
+        "num": 122870,
+        "word": "痞幼因网红身份被邻居排挤",
+        "onboard_time": 1774080382,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119338,
+        "num": 119338,
+        "word": "梅姨长相与公布画像相似度不高",
+        "onboard_time": 1774077861,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161227,
+        "num": 118479,
+        "word": "张凌赫男大自拍",
+        "onboard_time": 1774082001,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159475,
+        "num": 112062,
+        "word": "BTS直播",
+        "onboard_time": 1774091900,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101131,
+        "num": 101131,
+        "word": "伊朗有意日本船只通行霍尔木兹海峡",
+        "onboard_time": 1774070361,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146308,
+        "num": 101073,
+        "word": "小黄豆去看蔡徐坤",
+        "onboard_time": 1774088722,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130699,
+        "num": 100918,
+        "word": "云旗走秀造型",
+        "onboard_time": 1774089921,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100193,
+        "num": 100193,
+        "word": "伊朗对以色列发动饱和攻击",
+        "onboard_time": 1774092381,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112419,
+        "num": 96481,
+        "word": "谢征 长玉吻我",
+        "onboard_time": 1774091842,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92249,
+        "num": 92249,
+        "word": "这就是家家那本难念的经",
+        "onboard_time": 1774092201,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82479,
+        "num": 82479,
+        "word": "这段话杀死了我的精神内耗",
+        "onboard_time": 1774093400,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81519,
+        "num": 81519,
+        "word": "清融不知火融一踢四",
+        "onboard_time": 1774092201,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80341,
+        "num": 80341,
+        "word": "男子入手160克黄金后傻眼",
+        "onboard_time": 1774092622,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79278,
+        "num": 79278,
+        "word": "伊朗军方放话全球追猎",
+        "onboard_time": 1774090221,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78415,
+        "num": 78415,
+        "word": "美军核坟墓辐射量已超切尔诺贝利",
+        "onboard_time": 1774077381,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76771,
+        "num": 76771,
+        "word": "软软的水 脆脆的水",
+        "onboard_time": 1774083264,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75204,
+        "num": 75204,
+        "word": "伊朗凌晨打击以色列军事设施",
+        "onboard_time": 1774090041,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73600,
+        "num": 73600,
+        "word": "防弹少年团新专",
+        "onboard_time": 1774088961,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73380,
+        "num": 73380,
+        "word": "狗 没用的人老是影响有用的人",
+        "onboard_time": 1774092440,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71330,
+        "num": 71330,
+        "word": "氦气价格暴涨40%",
+        "onboard_time": 1774093520,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#以正确政绩观推动高质量发展#"
+    }
+  }
+}
