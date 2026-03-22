@@ -1,0 +1,410 @@
+{
+  "runTime": 1774180027782,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 409483,
+        "num": 1065517,
+        "word": "爱吃荔枝的人今年天塌了",
+        "onboard_time": 1774171282,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337803,
+        "num": 777147,
+        "word": "香港发生亿元黄金劫案",
+        "onboard_time": 1774178119,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4132,
+        "num": 603078,
+        "word": "网警破获网络开盒案守护网络空间安全",
+        "onboard_time": 1774144820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170580,
+        "num": 449002,
+        "word": "迪士尼平替把多少县城父母骗惨了",
+        "onboard_time": 1774178060,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168987,
+        "num": 444769,
+        "word": "专家称梅姨可能觉得自己在做善事",
+        "onboard_time": 1774170741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444484,
+        "num": 444484,
+        "word": "逐玉反盗版声明",
+        "onboard_time": 1774148660,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 767462,
+        "num": 442516,
+        "word": "中国情侣开车视频在国外爆火",
+        "onboard_time": 1774176681,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328570,
+        "num": 328570,
+        "word": "耙耙柑你牛",
+        "onboard_time": 1774172901,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 231854,
+        "num": 231854,
+        "word": "伊朗导弹在以本土砸出直径10米深坑",
+        "onboard_time": 1774173741,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201204,
+        "num": 201204,
+        "word": "逐玉学一下想见你是怎么挽救的",
+        "onboard_time": 1774177580,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273123,
+        "num": 197349,
+        "word": "减内脏脂肪最有效的方法",
+        "onboard_time": 1774177821,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 240468,
+        "num": 186125,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774166181,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160931,
+        "num": 160931,
+        "word": "金价八连跌消费者还是不敢买",
+        "onboard_time": 1774171700,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160060,
+        "num": 160060,
+        "word": "爬山就得穿鲜艳的衣服",
+        "onboard_time": 1774170020,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132164,
+        "num": 132164,
+        "word": "女生遭民警猥亵父亲刚开始以为是胡说",
+        "onboard_time": 1774172842,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130791,
+        "num": 130791,
+        "word": "女子久坐便血半年后确诊癌症晚期",
+        "onboard_time": 1774168100,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122477,
+        "num": 122477,
+        "word": "仙逆",
+        "onboard_time": 1774176621,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115253,
+        "num": 115253,
+        "word": "虞书欣杀青",
+        "onboard_time": 1774173320,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111331,
+        "num": 111331,
+        "word": "徐若晗道歉了但下次还敢",
+        "onboard_time": 1774179020,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102670,
+        "num": 102670,
+        "word": "78岁女子撞死苹果高管一家被判缓刑",
+        "onboard_time": 1774177940,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 549887,
+        "num": 102410,
+        "word": "辛芷蕾 多邻国",
+        "onboard_time": 1774167319,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494794,
+        "num": 101947,
+        "word": "王鸥 何九华",
+        "onboard_time": 1774166481,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179864,
+        "num": 101658,
+        "word": "23岁女子刚结婚一年就闭经",
+        "onboard_time": 1774176441,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400833,
+        "num": 101362,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1774179143,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289814,
+        "num": 100892,
+        "word": "高以翔前女友BeIIa官宣怀孕",
+        "onboard_time": 1774159400,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100725,
+        "num": 100725,
+        "word": "刚洗完澡别在浴室吹头发",
+        "onboard_time": 1774166660,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250887,
+        "num": 100515,
+        "word": "张凌赫的撕拉片又被热议了",
+        "onboard_time": 1774179862,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209634,
+        "num": 100409,
+        "word": "多邻国喊辛芷蕾妈妈",
+        "onboard_time": 1774175840,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99988,
+        "num": 99988,
+        "word": "小猫嫌弃自己脚臭",
+        "onboard_time": 1774163960,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88298,
+        "num": 88298,
+        "word": "凌晨男子在医院走廊反复跪拜祈祷",
+        "onboard_time": 1774176982,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356001,
+        "num": 87996,
+        "word": "乘客去世英航班带着遗体飞完全程",
+        "onboard_time": 1774170080,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189684,
+        "num": 85798,
+        "word": "17岁女孩一睡10天被叫醒就打人",
+        "onboard_time": 1774170320,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78832,
+        "num": 84629,
+        "word": "AI精神病正在美国悄然蔓延",
+        "onboard_time": 1774178720,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197454,
+        "num": 83751,
+        "word": "张靓颖回应do脸翻车",
+        "onboard_time": 1774179441,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107978,
+        "num": 82192,
+        "word": "谢征随元青 正版和盗版的区别",
+        "onboard_time": 1774179201,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81702,
+        "num": 81702,
+        "word": "伊朗称将彻底打乱敌人部署",
+        "onboard_time": 1774178782,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101220,
+        "num": 80753,
+        "word": "胡楚靓前男友新恋情",
+        "onboard_time": 1774175660,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92926,
+        "num": 80548,
+        "word": "范世锜直播",
+        "onboard_time": 1774179080,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79490,
+        "num": 79490,
+        "word": "多校试点班主任退群",
+        "onboard_time": 1774164141,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27200,
+        "num": 79352,
+        "word": "香港母亲疑用藤条打12岁儿子被捕",
+        "onboard_time": 1774179441,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89939,
+        "num": 79345,
+        "word": "贾斯汀比伯Usher派对打架",
+        "onboard_time": 1774168581,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84463,
+        "num": 79337,
+        "word": "云初令",
+        "onboard_time": 1774175779,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79309,
+        "num": 79309,
+        "word": "身体状态决定人生走向",
+        "onboard_time": 1774178423,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75996,
+        "num": 75996,
+        "word": "排队加油",
+        "onboard_time": 1774177280,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75411,
+        "num": 75411,
+        "word": "白日提灯月鳞绮纪或对打",
+        "onboard_time": 1774173921,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72123,
+        "num": 72123,
+        "word": "李羲承签售",
+        "onboard_time": 1774175840,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70164,
+        "num": 70164,
+        "word": "花9块9抢珠宝的人看完天都塌了",
+        "onboard_time": 1774176022,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 71992,
+        "num": 68792,
+        "word": "陈慧敏怀孕了",
+        "onboard_time": 1774157120,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 65799,
+        "num": 65799,
+        "word": "烤肠界的四大顶流",
+        "onboard_time": 1774179502,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63721,
+        "num": 63721,
+        "word": "COA9小组赛",
+        "onboard_time": 1774179799,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记话正确政绩观#"
+    }
+  }
+}
