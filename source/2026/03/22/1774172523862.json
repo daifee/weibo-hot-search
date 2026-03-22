@@ -1,0 +1,410 @@
+{
+  "runTime": 1774172523862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 413015,
+        "num": 1066082,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774166181,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323109,
+        "num": 757917,
+        "word": "多校试点班主任退群",
+        "onboard_time": 1774164141,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53585,
+        "num": 624539,
+        "word": "中国变压器在国外一器难求",
+        "onboard_time": 1774164920,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300481,
+        "num": 300481,
+        "word": "17岁女孩一睡10天被叫醒就打人",
+        "onboard_time": 1774170320,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225492,
+        "num": 225492,
+        "word": "乘客去世英航班带着遗体飞完全程",
+        "onboard_time": 1774170080,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 588966,
+        "num": 223981,
+        "word": "逐玉反盗版声明",
+        "onboard_time": 1774148660,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385931,
+        "num": 220806,
+        "word": "爬山就得穿鲜艳的衣服",
+        "onboard_time": 1774170020,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200183,
+        "num": 200183,
+        "word": "爱吃荔枝的人今年天塌了",
+        "onboard_time": 1774171282,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136779,
+        "num": 136779,
+        "word": "以色列拦截伊朗导弹失败瞬间",
+        "onboard_time": 1774159999,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130310,
+        "num": 130310,
+        "word": "油价飙升加油站变大型停车场",
+        "onboard_time": 1774170500,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 716974,
+        "num": 127658,
+        "word": "油价",
+        "onboard_time": 1774170861,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273634,
+        "num": 127146,
+        "word": "女子久坐便血半年后确诊癌症晚期",
+        "onboard_time": 1774168100,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249535,
+        "num": 124146,
+        "word": "小猫嫌弃自己脚臭",
+        "onboard_time": 1774163960,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120909,
+        "num": 120909,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1774170441,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154997,
+        "num": 120786,
+        "word": "警方通报男子窜至某小区抢劫致1死",
+        "onboard_time": 1774162280,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 117991,
+        "num": 117991,
+        "word": "你好星期六下周嘉宾阵容预告",
+        "onboard_time": 1774171100,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117698,
+        "num": 117698,
+        "word": "猥亵15岁少女民警曾对自己行为极力否认",
+        "onboard_time": 1774168523,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114020,
+        "num": 114020,
+        "word": "徐若晗桃花坞第一大漏勺",
+        "onboard_time": 1774165040,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111770,
+        "num": 111770,
+        "word": "鸡鸣寺樱花",
+        "onboard_time": 1774164200,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 17378,
+        "num": 111284,
+        "word": "接警员靠按键定位解救传销6人",
+        "onboard_time": 1774171700,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1200080,
+        "num": 111027,
+        "word": "辛芷蕾 多邻国",
+        "onboard_time": 1774167319,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568634,
+        "num": 110374,
+        "word": "王鸥 何九华",
+        "onboard_time": 1774166481,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141692,
+        "num": 109394,
+        "word": "刚洗完澡别在浴室吹头发",
+        "onboard_time": 1774166660,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 411805,
+        "num": 109092,
+        "word": "高以翔前女友BeIIa官宣怀孕",
+        "onboard_time": 1774159400,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379556,
+        "num": 108250,
+        "word": "贾斯汀比伯Usher派对打架",
+        "onboard_time": 1774168581,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108052,
+        "num": 108052,
+        "word": "孙颖莎不信邪喊再来一次",
+        "onboard_time": 1774171282,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191930,
+        "num": 106924,
+        "word": "陈慧敏怀孕了",
+        "onboard_time": 1774157120,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130549,
+        "num": 106529,
+        "word": "陈赫张子萱带女儿做客王祖蓝家",
+        "onboard_time": 1774165879,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104758,
+        "num": 104758,
+        "word": "梅姨在广州三元里落网为不实消息",
+        "onboard_time": 1774155020,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 126035,
+        "num": 104608,
+        "word": "壁上观",
+        "onboard_time": 1774165879,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104203,
+        "num": 104203,
+        "word": "F35被击中关键原因是异常低空飞行",
+        "onboard_time": 1774170500,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94416,
+        "num": 94416,
+        "word": "专家称梅姨可能觉得自己在做善事",
+        "onboard_time": 1774170741,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90671,
+        "num": 90671,
+        "word": "沙特谴责伊朗",
+        "onboard_time": 1774163840,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87147,
+        "num": 87147,
+        "word": "机场怎么不开个洗头发的店",
+        "onboard_time": 1774171458,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77193,
+        "num": 77193,
+        "word": "英国男星死在普吉岛排水沟",
+        "onboard_time": 1774161800,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76725,
+        "num": 76725,
+        "word": "Ruler向队友道歉",
+        "onboard_time": 1774170020,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75674,
+        "num": 75674,
+        "word": "金饰销售火爆",
+        "onboard_time": 1774172421,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70685,
+        "num": 70685,
+        "word": "孔雪儿进行曲cha",
+        "onboard_time": 1774170920,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68192,
+        "num": 68192,
+        "word": "杨蓉把何炅整脸红了",
+        "onboard_time": 1774171642,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23454,
+        "num": 67902,
+        "word": "金价八连跌消费者还是不敢买",
+        "onboard_time": 1774171700,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67649,
+        "num": 67649,
+        "word": "一共有5个人在摸鱼",
+        "onboard_time": 1774172239,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64211,
+        "num": 64211,
+        "word": "含娃量最高的小长假要来了",
+        "onboard_time": 1774164679,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63300,
+        "num": 63300,
+        "word": "羽毛球降价原因找到了",
+        "onboard_time": 1774171820,
+        "rank": 42,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 62666,
+        "num": 62666,
+        "word": "网友给逐玉的建议",
+        "onboard_time": 1774161501,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60822,
+        "num": 60822,
+        "word": "虞书欣杀青给粉丝鞠躬",
+        "onboard_time": 1774168280,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59916,
+        "num": 59916,
+        "word": "半小时取鱼刺7小时修路震惊老外",
+        "onboard_time": 1774154541,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62003,
+        "num": 59892,
+        "word": "张凌赫演技 颜值外的破局",
+        "onboard_time": 1774170140,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60466,
+        "num": 59781,
+        "word": "AI演员签约官宣",
+        "onboard_time": 1774150401,
+        "rank": 47,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 59163,
+        "num": 59163,
+        "word": "江苏省城市足球联赛",
+        "onboard_time": 1774171580,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58664,
+        "num": 58664,
+        "word": "瞿颖西班牙 王俊凯新加坡",
+        "onboard_time": 1774160421,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记话正确政绩观#"
+    }
+  }
+}

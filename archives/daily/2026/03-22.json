@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774169986657,
+  "endTime": 1774172523862,
   "band_list": [
     {
       "raw_hot": 2295364,
@@ -89,6 +89,14 @@
       "onboard_time": 1774157120,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 716974,
+      "num": 127658,
+      "word": "油价",
+      "onboard_time": 1774170861,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 697896,
@@ -219,6 +227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 413015,
+      "num": 1066082,
+      "word": "月鳞绮纪",
+      "onboard_time": 1774166181,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408037,
       "num": 1065286,
       "word": "重庆大学通报实验室爆炸致伤亡",
@@ -243,12 +259,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 385931,
+      "num": 220806,
+      "word": "爬山就得穿鲜艳的衣服",
+      "onboard_time": 1774170020,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 384708,
       "num": 1061553,
       "word": "1200多家饭店拍黄瓜被举报",
       "onboard_time": 1774149861,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379556,
+      "num": 217702,
+      "word": "贾斯汀比伯Usher派对打架",
+      "onboard_time": 1774168581,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 371025,
@@ -273,14 +305,6 @@
       "onboard_time": 1774151481,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 353440,
-      "num": 785452,
-      "word": "月鳞绮纪",
-      "onboard_time": 1774166181,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 338123,
@@ -337,6 +361,14 @@
       "onboard_time": 1774134976,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300481,
+      "num": 300481,
+      "word": "17岁女孩一睡10天被叫醒就打人",
+      "onboard_time": 1774170320,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296770,
@@ -515,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225492,
+      "num": 225492,
+      "word": "乘客去世英航班带着遗体飞完全程",
+      "onboard_time": 1774170080,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 225110,
       "num": 182791,
       "word": "逐玉 青天大老爷",
@@ -537,14 +577,6 @@
       "onboard_time": 1774081225,
       "rank": 21,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 217702,
-      "num": 217702,
-      "word": "贾斯汀比伯Usher派对打架",
-      "onboard_time": 1774168581,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 216810,
@@ -592,6 +624,14 @@
       "word": "梅姨平时说媒背地贩卖小孩",
       "onboard_time": 1774108522,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200183,
+      "num": 200183,
+      "word": "爱吃荔枝的人今年天塌了",
+      "onboard_time": 1774171282,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -835,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130310,
+      "num": 130310,
+      "word": "油价飙升加油站变大型停车场",
+      "onboard_time": 1774170500,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126738,
       "num": 710881,
       "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
@@ -859,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120909,
+      "num": 120909,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1774170441,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120451,
       "num": 120451,
       "word": "伊朗16艘货船遭美以袭击",
@@ -881,6 +937,14 @@
       "onboard_time": 1774151301,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117991,
+      "num": 117991,
+      "word": "你好星期六下周嘉宾阵容预告",
+      "onboard_time": 1774171100,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 113666,
@@ -923,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108052,
+      "num": 108052,
+      "word": "孙颖莎不信邪喊再来一次",
+      "onboard_time": 1774171282,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107697,
       "num": 107697,
       "word": "桃花坞",
@@ -945,6 +1017,14 @@
       "onboard_time": 1774167501,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104203,
+      "num": 104203,
+      "word": "F35被击中关键原因是异常低空飞行",
+      "onboard_time": 1774170500,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102145,
@@ -1019,6 +1099,14 @@
       "category": "演出,民生新闻"
     },
     {
+      "raw_hot": 94416,
+      "num": 94416,
+      "word": "专家称梅姨可能觉得自己在做善事",
+      "onboard_time": 1774170741,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93751,
       "num": 92270,
       "word": "齐旻单膝下跪求婚",
@@ -1049,6 +1137,14 @@
       "onboard_time": 1774111518,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87147,
+      "num": 87147,
+      "word": "机场怎么不开个洗头发的店",
+      "onboard_time": 1774171458,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 84562,
@@ -1163,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76725,
+      "num": 76725,
+      "word": "Ruler向队友道歉",
+      "onboard_time": 1774170020,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 76713,
       "num": 76713,
       "word": "84消毒液用错可能致罕见病",
@@ -1209,6 +1313,14 @@
       "onboard_time": 1774149440,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75674,
+      "num": 75674,
+      "word": "金饰销售火爆",
+      "onboard_time": 1774172421,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 75350,
@@ -1281,6 +1393,14 @@
       "onboard_time": 1774149440,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70685,
+      "num": 70685,
+      "word": "孔雪儿进行曲cha",
+      "onboard_time": 1774170920,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 70667,
@@ -1363,6 +1483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68192,
+      "num": 68192,
+      "word": "杨蓉把何炅整脸红了",
+      "onboard_time": 1774171642,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67951,
       "num": 67951,
       "word": "热火vs火箭",
@@ -1377,6 +1505,14 @@
       "onboard_time": 1774108103,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67649,
+      "num": 67649,
+      "word": "一共有5个人在摸鱼",
+      "onboard_time": 1774172239,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 67185,
@@ -1523,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63300,
+      "num": 63300,
+      "word": "羽毛球降价原因找到了",
+      "onboard_time": 1774171820,
+      "rank": 42,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 62754,
       "num": 62754,
       "word": "不会跳绳的学生遇到了最耐心的老师",
@@ -1563,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62003,
+      "num": 59892,
+      "word": "张凌赫演技 颜值外的破局",
+      "onboard_time": 1774170140,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61506,
       "num": 181028,
       "word": "倪妮生理性演技",
@@ -1596,7 +1748,7 @@
     },
     {
       "raw_hot": 60138,
-      "num": 617031,
+      "num": 624539,
       "word": "中国变压器在国外一器难求",
       "onboard_time": 1774164920,
       "rank": 2,
@@ -1625,6 +1777,14 @@
       "onboard_time": 1774101323,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 59163,
+      "num": 59163,
+      "word": "江苏省城市足球联赛",
+      "onboard_time": 1774171580,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 58275,
@@ -2035,6 +2195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23454,
+      "num": 67902,
+      "word": "金价八连跌消费者还是不敢买",
+      "onboard_time": 1774171700,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 22840,
       "num": 101201,
       "word": "梅姨同居男友说她不戴首饰",
@@ -2104,6 +2272,14 @@
       "word": "梅姨案受害者说恨久需见其人",
       "onboard_time": 1774126214,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17378,
+      "num": 111284,
+      "word": "接警员靠按键定位解救传销6人",
+      "onboard_time": 1774171700,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
