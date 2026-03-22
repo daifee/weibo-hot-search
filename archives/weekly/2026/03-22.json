@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774216209787,
+  "endTime": 1774218906030,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -603,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289358,
+      "num": 458033,
+      "word": "央视曝活鱼被人为麻醉乱象",
+      "onboard_time": 1774198038,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284606,
       "num": 150460,
       "word": "宋砚被长玉谢征吓到晕厥",
@@ -1139,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169409,
-      "num": 169409,
-      "word": "央视曝活鱼被人为麻醉乱象",
-      "onboard_time": 1774198038,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168909,
       "num": 158224,
       "word": "范世錡直播",
@@ -1424,6 +1424,14 @@
       "word": "齐旻 烂人真心",
       "onboard_time": 1774160062,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123015,
+      "num": 123015,
+      "word": "你好1983",
+      "onboard_time": 1774199478,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -3179,14 +3187,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 45265,
-      "num": 45265,
-      "word": "你好1983",
-      "onboard_time": 1774199478,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44031,
       "num": 123816,
       "word": "檀健次粉丝后吃",
@@ -3259,12 +3259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33335,
+      "num": 30705,
+      "word": "G2",
+      "onboard_time": 1774214113,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 31663,
       "num": 31663,
       "word": "谢霆锋演唱会",
       "onboard_time": 1774201276,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30681,
+      "num": 30681,
+      "word": "BLG队史首个国际赛冠军",
+      "onboard_time": 1774214113,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 30138,
@@ -3363,14 +3379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24791,
-      "num": 17206,
-      "word": "G2",
-      "onboard_time": 1774214113,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 22840,
       "num": 101201,
       "word": "梅姨同居男友说她不戴首饰",
@@ -3427,6 +3435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 18306,
+      "num": 22057,
+      "word": "成毅富贵少爷片场花絮",
+      "onboard_time": 1774207334,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18291,
       "num": 41002,
       "word": "发现父母老去只是一瞬间的事",
@@ -3475,28 +3491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17062,
-      "num": 17199,
-      "word": "BLG队史首个国际赛冠军",
-      "onboard_time": 1774214113,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 15900,
       "num": 76350,
       "word": "濮院高定时尚周",
       "onboard_time": 1774091900,
       "rank": 49,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 15890,
-      "num": 19128,
-      "word": "成毅富贵少爷片场花絮",
-      "onboard_time": 1774207334,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 14479,

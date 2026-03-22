@@ -1,6 +1,6 @@
 {
   "startTime": 1774197653930,
-  "endTime": 1774216209787,
+  "endTime": 1774218906030,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289358,
+      "num": 458033,
+      "word": "央视曝活鱼被人为麻醉乱象",
+      "onboard_time": 1774198038,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245848,
       "num": 104222,
       "word": "王鸥 何九华",
@@ -99,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169409,
-      "num": 169409,
-      "word": "央视曝活鱼被人为麻醉乱象",
-      "onboard_time": 1774198038,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147945,
       "num": 479863,
       "word": "逐玉直播",
@@ -121,6 +121,14 @@
       "onboard_time": 1774200378,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123015,
+      "num": 123015,
+      "word": "你好1983",
+      "onboard_time": 1774199478,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 120323,
@@ -435,12 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45265,
-      "num": 45265,
-      "word": "你好1983",
-      "onboard_time": 1774199478,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 33335,
+      "num": 30705,
+      "word": "G2",
+      "onboard_time": 1774214113,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 31663,
@@ -449,6 +457,14 @@
       "onboard_time": 1774201276,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30681,
+      "num": 30681,
+      "word": "BLG队史首个国际赛冠军",
+      "onboard_time": 1774214113,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 28982,
@@ -467,19 +483,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24791,
-      "num": 17206,
-      "word": "G2",
-      "onboard_time": 1774214113,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 19115,
-      "num": 20824,
+      "raw_hot": 19457,
+      "num": 22063,
       "word": "冬去春来",
       "onboard_time": 1774181843,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18306,
+      "num": 22057,
+      "word": "成毅富贵少爷片场花絮",
+      "onboard_time": 1774207334,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -489,22 +505,6 @@
       "onboard_time": 1774204336,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17062,
-      "num": 17199,
-      "word": "BLG队史首个国际赛冠军",
-      "onboard_time": 1774214113,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 15890,
-      "num": 19128,
-      "word": "成毅富贵少爷片场花絮",
-      "onboard_time": 1774207334,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 12884,

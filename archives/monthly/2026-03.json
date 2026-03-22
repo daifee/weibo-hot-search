@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774216209787,
+  "endTime": 1774218906030,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -12731,6 +12731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 289358,
+      "num": 458033,
+      "word": "央视曝活鱼被人为麻醉乱象",
+      "onboard_time": 1774198038,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289133,
       "num": 203201,
       "word": "太爷爷摔倒1岁宝宝连滚带爬去扶",
@@ -21225,14 +21233,6 @@
       "onboard_time": 1772369063,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169409,
-      "num": 169409,
-      "word": "央视曝活鱼被人为麻醉乱象",
-      "onboard_time": 1774198038,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169350,
@@ -56555,6 +56555,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 30681,
+      "num": 30681,
+      "word": "BLG队史首个国际赛冠军",
+      "onboard_time": 1774214113,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 30674,
       "num": 25525,
       "word": "Bin国际赛100胜场",
@@ -59003,6 +59011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 18306,
+      "num": 22057,
+      "word": "成毅富贵少爷片场花絮",
+      "onboard_time": 1774207334,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18291,
       "num": 41002,
       "word": "发现父母老去只是一瞬间的事",
@@ -59275,14 +59291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17062,
-      "num": 17199,
-      "word": "BLG队史首个国际赛冠军",
-      "onboard_time": 1774214113,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 17044,
       "num": 130662,
       "word": "请姐姐姐夫三搭",
@@ -59553,14 +59561,6 @@
       "onboard_time": 1773593539,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15890,
-      "num": 19128,
-      "word": "成毅富贵少爷片场花絮",
-      "onboard_time": 1774207334,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 15748,
