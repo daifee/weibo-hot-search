@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774172523862,
+  "endTime": 1774173383368,
   "band_list": [
     {
       "raw_hot": 2295364,
@@ -75,6 +75,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 780597,
+      "num": 137075,
+      "word": "油价",
+      "onboard_time": 1774170861,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 752016,
       "num": 183109,
       "word": "鹿晗 关晓彤",
@@ -89,14 +97,6 @@
       "onboard_time": 1774157120,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 716974,
-      "num": 127658,
-      "word": "油价",
-      "onboard_time": 1774170861,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 697896,
@@ -155,6 +155,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 574452,
+      "num": 1091912,
+      "word": "月鳞绮纪",
+      "onboard_time": 1774166181,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 566018,
       "num": 1090562,
       "word": "多校试点班主任退群",
@@ -184,6 +192,14 @@
       "word": "重大实验室爆炸疑因操作不当引发",
       "onboard_time": 1774106782,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485648,
+      "num": 775888,
+      "word": "爱吃荔枝的人今年天塌了",
+      "onboard_time": 1774171282,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -227,12 +243,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 413015,
-      "num": 1066082,
-      "word": "月鳞绮纪",
-      "onboard_time": 1774166181,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 409099,
+      "num": 290699,
+      "word": "爬山就得穿鲜艳的衣服",
+      "onboard_time": 1774170020,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 408037,
@@ -257,14 +273,6 @@
       "onboard_time": 1774167140,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 385931,
-      "num": 220806,
-      "word": "爬山就得穿鲜艳的衣服",
-      "onboard_time": 1774170020,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 384708,
@@ -307,12 +315,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 350413,
+      "num": 350413,
+      "word": "乘客去世英航班带着遗体飞完全程",
+      "onboard_time": 1774170080,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 338123,
       "num": 182881,
       "word": "葛夕公布体检报告",
       "onboard_time": 1774106245,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331227,
+      "num": 331227,
+      "word": "17岁女孩一睡10天被叫醒就打人",
+      "onboard_time": 1774170320,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329486,
@@ -361,14 +385,6 @@
       "onboard_time": 1774134976,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 300481,
-      "num": 300481,
-      "word": "17岁女孩一睡10天被叫醒就打人",
-      "onboard_time": 1774170320,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 296770,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 231203,
-      "num": 109755,
+      "num": 109860,
       "word": "刚洗完澡别在浴室吹头发",
       "onboard_time": 1774166660,
       "rank": 22,
@@ -545,14 +561,6 @@
       "onboard_time": 1774137498,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225492,
-      "num": 225492,
-      "word": "乘客去世英航班带着遗体飞完全程",
-      "onboard_time": 1774170080,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 225110,
@@ -624,14 +632,6 @@
       "word": "梅姨平时说媒背地贩卖小孩",
       "onboard_time": 1774108522,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200183,
-      "num": 200183,
-      "word": "爱吃荔枝的人今年天塌了",
-      "onboard_time": 1774171282,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -771,6 +771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153975,
+      "num": 153975,
+      "word": "你好星期六下周嘉宾阵容预告",
+      "onboard_time": 1774171100,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153666,
+      "num": 129720,
+      "word": "女生遭民警猥亵父亲刚开始以为是胡说",
+      "onboard_time": 1774172842,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151285,
       "num": 183831,
       "word": "重庆大学通报实验室爆炸",
@@ -843,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138024,
+      "num": 138024,
+      "word": "油价飙升加油站变大型停车场",
+      "onboard_time": 1774170500,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136909,
       "num": 136909,
       "word": "警方介入女子追打2岁宝宝",
@@ -873,14 +897,6 @@
       "onboard_time": 1774140140,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130310,
-      "num": 130310,
-      "word": "油价飙升加油站变大型停车场",
-      "onboard_time": 1774170500,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 126738,
@@ -939,12 +955,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117991,
-      "num": 117991,
-      "word": "你好星期六下周嘉宾阵容预告",
-      "onboard_time": 1774171100,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 115418,
+      "num": 115418,
+      "word": "F35被击中关键原因是异常低空飞行",
+      "onboard_time": 1774170500,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113666,
@@ -1003,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107119,
+      "num": 113115,
+      "word": "专家称梅姨可能觉得自己在做善事",
+      "onboard_time": 1774170741,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106105,
       "num": 106105,
       "word": "深圳垃圾量46年暴涨超3000倍",
@@ -1017,14 +1041,6 @@
       "onboard_time": 1774167501,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104203,
-      "num": 104203,
-      "word": "F35被击中关键原因是异常低空飞行",
-      "onboard_time": 1774170500,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102145,
@@ -1067,6 +1083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 98999,
+      "num": 94826,
+      "word": "张凌赫演技 颜值外的破局",
+      "onboard_time": 1774170140,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98235,
       "num": 244691,
       "word": "樊长玉和谢征归隐小镇",
@@ -1091,20 +1115,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94729,
+      "num": 94729,
+      "word": "本轮金价暴跌原因",
+      "onboard_time": 1774173140,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94608,
       "num": 94608,
       "word": "歌手演唱时被辱骂用话筒打人",
       "onboard_time": 1774145541,
       "rank": 32,
       "category": "演出,民生新闻"
-    },
-    {
-      "raw_hot": 94416,
-      "num": 94416,
-      "word": "专家称梅姨可能觉得自己在做善事",
-      "onboard_time": 1774170741,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93751,
@@ -1131,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88490,
+      "num": 88490,
+      "word": "机场怎么不开个洗头发的店",
+      "onboard_time": 1774171458,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88231,
       "num": 127625,
       "word": "内塔尼亚胡鼓动地面进攻伊朗",
@@ -1139,12 +1171,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87147,
-      "num": 87147,
-      "word": "机场怎么不开个洗头发的店",
-      "onboard_time": 1774171458,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 88105,
+      "num": 88105,
+      "word": "羽毛球降价原因找到了",
+      "onboard_time": 1774171820,
+      "rank": 42,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 84562,
@@ -1153,6 +1185,22 @@
       "onboard_time": 1774156822,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83485,
+      "num": 83485,
+      "word": "金饰销售火爆",
+      "onboard_time": 1774172421,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 83366,
+      "num": 83366,
+      "word": "耙耙柑你牛",
+      "onboard_time": 1774172901,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 83097,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1774142900,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81897,
+      "num": 81897,
+      "word": "孔雪儿进行曲cha",
+      "onboard_time": 1774170920,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 81799,
@@ -1235,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77736,
+      "num": 77736,
+      "word": "Ruler向队友道歉",
+      "onboard_time": 1774170020,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77708,
       "num": 79485,
       "word": "伊朗说允许非敌方船只通过霍尔木兹",
@@ -1257,14 +1321,6 @@
       "onboard_time": 1774155139,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76725,
-      "num": 76725,
-      "word": "Ruler向队友道歉",
-      "onboard_time": 1774170020,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 76713,
@@ -1313,14 +1369,6 @@
       "onboard_time": 1774149440,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75674,
-      "num": 75674,
-      "word": "金饰销售火爆",
-      "onboard_time": 1774172421,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 75350,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1774149440,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70685,
-      "num": 70685,
-      "word": "孔雪儿进行曲cha",
-      "onboard_time": 1774170920,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 70667,
@@ -1523,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67131,
+      "num": 67131,
+      "word": "苏州文旅电竞联动给到夯",
+      "onboard_time": 1774172781,
+      "rank": 44,
+      "category": "旅游,电竞"
+    },
+    {
       "raw_hot": 66870,
       "num": 66870,
       "word": "伊朗核设施遭袭现场画面",
@@ -1547,6 +1595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65818,
+      "num": 65818,
+      "word": "虞书欣杀青",
+      "onboard_time": 1774173320,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65726,
       "num": 65726,
       "word": "多地房地产市场交易火爆",
@@ -1569,6 +1625,14 @@
       "onboard_time": 1774153640,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65143,
+      "num": 67902,
+      "word": "金价八连跌消费者还是不敢买",
+      "onboard_time": 1774171700,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 64896,
@@ -1659,14 +1723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63300,
-      "num": 63300,
-      "word": "羽毛球降价原因找到了",
-      "onboard_time": 1774171820,
-      "rank": 42,
-      "category": "民生新闻,体育"
-    },
-    {
       "raw_hot": 62754,
       "num": 62754,
       "word": "不会跳绳的学生遇到了最耐心的老师",
@@ -1684,7 +1740,7 @@
     },
     {
       "raw_hot": 62471,
-      "num": 68624,
+      "num": 78558,
       "word": "一诺职业病",
       "onboard_time": 1774165580,
       "rank": 38,
@@ -1707,12 +1763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62003,
-      "num": 59892,
-      "word": "张凌赫演技 颜值外的破局",
-      "onboard_time": 1774170140,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 61777,
+      "num": 61777,
+      "word": "江波龙实控人姐弟身家暴涨超400亿",
+      "onboard_time": 1774173260,
+      "rank": 48,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 61506,
@@ -1745,6 +1801,14 @@
       "onboard_time": 1774165040,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60181,
+      "num": 60181,
+      "word": "樊长玉 贺将军",
+      "onboard_time": 1774170140,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 60138,
@@ -2193,14 +2257,6 @@
       "onboard_time": 1774159522,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23454,
-      "num": 67902,
-      "word": "金价八连跌消费者还是不敢买",
-      "onboard_time": 1774171700,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 22840,
