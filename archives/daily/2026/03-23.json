@@ -1,6 +1,6 @@
 {
   "startTime": 1774197653930,
-  "endTime": 1774206195711,
+  "endTime": 1774208092630,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -483,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15890,
+      "num": 17188,
+      "word": "成毅富贵少爷片场花絮",
+      "onboard_time": 1774207334,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12884,
       "num": 553185,
       "word": "9组数据见证大国治水生动画卷",
       "onboard_time": 1774184242,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11914,
+      "num": 17186,
+      "word": "PEL春季赛",
+      "onboard_time": 1774179382,
+      "rank": 48,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

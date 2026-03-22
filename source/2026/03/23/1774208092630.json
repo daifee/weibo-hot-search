@@ -1,0 +1,410 @@
+{
+  "runTime": 1774208092630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 174917,
+        "num": 174917,
+        "word": "Bin是世一上",
+        "onboard_time": 1774198160,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117435,
+        "num": 117435,
+        "word": "BLG夺冠",
+        "onboard_time": 1774197920,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 6848,
+        "num": 103748,
+        "word": "9组数据见证大国治水生动画卷",
+        "onboard_time": 1774184242,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90205,
+        "num": 90205,
+        "word": "5种炎症可能变成癌症",
+        "onboard_time": 1774197198,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81359,
+        "num": 81359,
+        "word": "苍兰诀",
+        "onboard_time": 1774185562,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77154,
+        "num": 77154,
+        "word": "央视曝活鱼被人为麻醉乱象",
+        "onboard_time": 1774198038,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37242,
+        "num": 37242,
+        "word": "Bin FMVP",
+        "onboard_time": 1774199897,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30900,
+        "num": 30900,
+        "word": "伊朗导弹绕过以色列拦截弹",
+        "onboard_time": 1774191683,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28541,
+        "num": 28541,
+        "word": "G2对战BLG",
+        "onboard_time": 1774183520,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27970,
+        "num": 27970,
+        "word": "Viper两连冠",
+        "onboard_time": 1774200378,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46119,
+        "num": 27701,
+        "word": "张凌赫的撕拉片又被热议了",
+        "onboard_time": 1774179862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40140,
+        "num": 27507,
+        "word": "张靓颖回应do脸翻车",
+        "onboard_time": 1774179441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27242,
+        "num": 27242,
+        "word": "周也 毛利兰",
+        "onboard_time": 1774183942,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26057,
+        "num": 26057,
+        "word": "伊朗发起第74波打击",
+        "onboard_time": 1774187124,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24779,
+        "num": 24779,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1774186343,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24708,
+        "num": 24708,
+        "word": "逐玉直播",
+        "onboard_time": 1774181781,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23650,
+        "num": 23650,
+        "word": "Jennie音乐节",
+        "onboard_time": 1774189704,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19782,
+        "num": 23529,
+        "word": "爱吃荔枝的人今年天塌了",
+        "onboard_time": 1774171282,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19319,
+        "num": 23397,
+        "word": "外籍男子上车插队被拽下车",
+        "onboard_time": 1774191263,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17965,
+        "num": 23234,
+        "word": "迪士尼平替把多少县城父母骗惨了",
+        "onboard_time": 1774178060,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65420,
+        "num": 22980,
+        "word": "田曦薇撅嘴要张凌赫道歉",
+        "onboard_time": 1774190241,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36649,
+        "num": 22911,
+        "word": "王鸥 何九华",
+        "onboard_time": 1774166481,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22765,
+        "num": 22765,
+        "word": "长期运动可以解决生活中很多问题",
+        "onboard_time": 1774188023,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 20740,
+        "num": 20740,
+        "word": "你好1983",
+        "onboard_time": 1774199478,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20577,
+        "num": 20577,
+        "word": "迪丽热巴化妆王崇",
+        "onboard_time": 1774193663,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19552,
+        "num": 19552,
+        "word": "美媒称伊朗军力影响远超中东地区",
+        "onboard_time": 1774194142,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19135,
+        "num": 19135,
+        "word": "减内脏脂肪最有效的方法",
+        "onboard_time": 1774177821,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 17773,
+        "num": 17773,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1774186581,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14899,
+        "num": 17709,
+        "word": "2岁儿童就诊才知已有7颗蛀牙",
+        "onboard_time": 1774194742,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12520,
+        "num": 17667,
+        "word": "i人梦中情岗已有48人报名缴费",
+        "onboard_time": 1774192761,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17660,
+        "num": 17660,
+        "word": "茂茂你终于结婚生子了",
+        "onboard_time": 1774183042,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17616,
+        "num": 17616,
+        "word": "范世錡直播",
+        "onboard_time": 1774179080,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17271,
+        "num": 17271,
+        "word": "李帝努 电子烟",
+        "onboard_time": 1774186763,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17189,
+        "num": 17189,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1774179143,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16802,
+        "num": 17189,
+        "word": "伊朗导弹在以本土砸出直径10米深坑",
+        "onboard_time": 1774173741,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16791,
+        "num": 17189,
+        "word": "冬去春来",
+        "onboard_time": 1774181843,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16131,
+        "num": 17189,
+        "word": "LCK解说把BLG当韩国队",
+        "onboard_time": 1774188143,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15995,
+        "num": 17188,
+        "word": "内娱男流量五官大赏",
+        "onboard_time": 1774184242,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15890,
+        "num": 17188,
+        "word": "成毅富贵少爷片场花絮",
+        "onboard_time": 1774207334,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13504,
+        "num": 17188,
+        "word": "高铁卫生间遇到这种情况别冲水",
+        "onboard_time": 1774193663,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15520,
+        "num": 17188,
+        "word": "张翅回应请粉丝在家里吃饭",
+        "onboard_time": 1774189043,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15430,
+        "num": 17187,
+        "word": "女性对抗衰老就是力量训练",
+        "onboard_time": 1774191441,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 14932,
+        "num": 17187,
+        "word": "齐旻从未想过杀掉母妃",
+        "onboard_time": 1774184303,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14778,
+        "num": 17187,
+        "word": "不齐而俞 番外",
+        "onboard_time": 1774192522,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14362,
+        "num": 17186,
+        "word": "眼睛出现这两类情况要立刻就医",
+        "onboard_time": 1774191623,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13981,
+        "num": 17186,
+        "word": "十年前的韩剧还在我的虐剧TOP1里",
+        "onboard_time": 1774193961,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12434,
+        "num": 17186,
+        "word": "Desire4出道半周年",
+        "onboard_time": 1774204336,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12337,
+        "num": 17186,
+        "word": "律师解读梅姨照片为何暂不公开",
+        "onboard_time": 1774188564,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11914,
+        "num": 17186,
+        "word": "PEL春季赛",
+        "onboard_time": 1774179382,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11425,
+        "num": 17185,
+        "word": "央视曝光活鱼麻醉剂滥用乱象",
+        "onboard_time": 1774187363,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保一江清水绵延后世惠泽人民#"
+    }
+  }
+}
