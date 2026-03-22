@@ -1,0 +1,410 @@
+{
+  "runTime": 1774223534385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 558673,
+        "num": 1015794,
+        "word": "梅姨每交易1名儿童拿1000元介绍费",
+        "onboard_time": 1774221138,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461483,
+        "num": 726830,
+        "word": "你好1983",
+        "onboard_time": 1774199478,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9572,
+        "num": 567727,
+        "word": "9组数据见证大国治水生动画卷",
+        "onboard_time": 1774184242,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458697,
+        "num": 458697,
+        "word": "央视曝活鱼被人为麻醉乱象",
+        "onboard_time": 1774198038,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456746,
+        "num": 456746,
+        "word": "BLG夺冠",
+        "onboard_time": 1774197920,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 275862,
+        "num": 275862,
+        "word": "黄金白银开涨了",
+        "onboard_time": 1774222221,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233695,
+        "num": 233695,
+        "word": "Bin是世一上",
+        "onboard_time": 1774198160,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214345,
+        "num": 214345,
+        "word": "原来贾玲旁边的是瞿颖啊",
+        "onboard_time": 1774221437,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184493,
+        "num": 184493,
+        "word": "伊朗导弹绕过以色列拦截弹",
+        "onboard_time": 1774191683,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182787,
+        "num": 182787,
+        "word": "苍兰诀",
+        "onboard_time": 1774185562,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503962,
+        "num": 181725,
+        "word": "5种炎症可能变成癌症",
+        "onboard_time": 1774197198,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207910,
+        "num": 181719,
+        "word": "张凌赫的撕拉片又被热议了",
+        "onboard_time": 1774179862,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170815,
+        "num": 170815,
+        "word": "逐玉",
+        "onboard_time": 1774221138,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131387,
+        "num": 131387,
+        "word": "女护士被男友杀害男方家属发文道歉",
+        "onboard_time": 1774221619,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164588,
+        "num": 127700,
+        "word": "齐旻死在了俞浅浅爱上他的那一刻",
+        "onboard_time": 1774222939,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119914,
+        "num": 119914,
+        "word": "迪士尼平替把多少县城父母骗惨了",
+        "onboard_time": 1774178060,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111848,
+        "num": 111848,
+        "word": "迪丽热巴化妆王崇",
+        "onboard_time": 1774193663,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105110,
+        "num": 105110,
+        "word": "曼城是冠军",
+        "onboard_time": 1774221379,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104066,
+        "num": 104066,
+        "word": "Elk BLG",
+        "onboard_time": 1774222581,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104008,
+        "num": 104008,
+        "word": "减内脏脂肪最有效的方法",
+        "onboard_time": 1774177821,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 336386,
+        "num": 103963,
+        "word": "王鸥 何九华",
+        "onboard_time": 1774166481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258705,
+        "num": 101969,
+        "word": "夫妻结婚22年水电费分摊有零有整",
+        "onboard_time": 1774222399,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247696,
+        "num": 100830,
+        "word": "田曦薇撅嘴要张凌赫道歉",
+        "onboard_time": 1774190241,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164811,
+        "num": 100104,
+        "word": "长期运动可以解决生活中很多问题",
+        "onboard_time": 1774188023,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 99717,
+        "num": 99717,
+        "word": "美媒称伊朗军力影响远超中东地区",
+        "onboard_time": 1774194142,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94329,
+        "num": 94329,
+        "word": "注意用脑卫生",
+        "onboard_time": 1774221679,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 78752,
+        "num": 78752,
+        "word": "女性对抗衰老就是力量训练",
+        "onboard_time": 1774191441,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 78088,
+        "num": 78088,
+        "word": "BLG队史首个国际赛冠军",
+        "onboard_time": 1774214113,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77014,
+        "num": 77014,
+        "word": "张靓颖回应do脸翻车",
+        "onboard_time": 1774179441,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76585,
+        "num": 76585,
+        "word": "东北虎吃完保险公司买单",
+        "onboard_time": 1774223299,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214119,
+        "num": 76209,
+        "word": "郑钦文1比1凯斯",
+        "onboard_time": 1774221619,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141242,
+        "num": 76151,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1774223479,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75823,
+        "num": 75823,
+        "word": "Bin FMVP",
+        "onboard_time": 1774199897,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72443,
+        "num": 72443,
+        "word": "患者用笔做成花束医生们一拥而上",
+        "onboard_time": 1774222037,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71650,
+        "num": 71650,
+        "word": "苍兰诀当年的出圈程度",
+        "onboard_time": 1774222939,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67708,
+        "num": 67708,
+        "word": "茂茂你终于结婚生子了",
+        "onboard_time": 1774183042,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66958,
+        "num": 66958,
+        "word": "伊朗回应特朗普威胁言论",
+        "onboard_time": 1774222037,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60473,
+        "num": 60473,
+        "word": "内娱男流量五官大赏",
+        "onboard_time": 1774184242,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60457,
+        "num": 60457,
+        "word": "伊朗发起第74波打击",
+        "onboard_time": 1774187124,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58329,
+        "num": 58329,
+        "word": "钎城 带我节奏有完没完了",
+        "onboard_time": 1774223422,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57903,
+        "num": 57903,
+        "word": "十年前的韩剧还在我的虐剧TOP1里",
+        "onboard_time": 1774193961,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57597,
+        "num": 57597,
+        "word": "爱吃荔枝的人今年天塌了",
+        "onboard_time": 1774171282,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54383,
+        "num": 54383,
+        "word": "i人梦中情岗已有48人报名缴费",
+        "onboard_time": 1774192761,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54284,
+        "num": 54284,
+        "word": "齐旻从未想过杀掉母妃",
+        "onboard_time": 1774184303,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52075,
+        "num": 54177,
+        "word": "阿森纳0比2曼城",
+        "onboard_time": 1774221559,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54075,
+        "num": 54075,
+        "word": "眼睛出现这两类情况要立刻就医",
+        "onboard_time": 1774191623,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53543,
+        "num": 53543,
+        "word": "59岁工地大叔随性起舞走红",
+        "onboard_time": 1774221980,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51213,
+        "num": 51213,
+        "word": "皇马3比2马竞",
+        "onboard_time": 1774221619,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50596,
+        "num": 50596,
+        "word": "微厘空间02组卫星成功发射",
+        "onboard_time": 1774223479,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 47659,
+        "num": 47659,
+        "word": "律师解读梅姨照片为何暂不公开",
+        "onboard_time": 1774188564,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保一江清水绵延后世惠泽人民#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774222620963,
+  "endTime": 1774223534385,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -4436,7 +4436,7 @@
     },
     {
       "raw_hot": 589982,
-      "num": 904397,
+      "num": 1015794,
       "word": "梅姨每交易1名儿童拿1000元介绍费",
       "onboard_time": 1774221138,
       "rank": 0,
@@ -6801,6 +6801,14 @@
       "onboard_time": 1773761002,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 461483,
+      "num": 726830,
+      "word": "你好1983",
+      "onboard_time": 1773847101,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 461102,
@@ -9675,14 +9683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 362299,
-      "num": 362299,
-      "word": "你好1983",
-      "onboard_time": 1773847101,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 361871,
       "num": 361871,
       "word": "母亲带女儿买鞋在店门口犹豫半小时",
@@ -10676,7 +10676,7 @@
     },
     {
       "raw_hot": 333401,
-      "num": 83345,
+      "num": 101969,
       "word": "夫妻结婚22年水电费分摊有零有整",
       "onboard_time": 1774222399,
       "rank": 21,
@@ -13505,6 +13505,14 @@
       "onboard_time": 1773630441,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275862,
+      "num": 275862,
+      "word": "黄金白银开涨了",
+      "onboard_time": 1774222221,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 275622,
@@ -17491,6 +17499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214345,
+      "num": 214345,
+      "word": "原来贾玲旁边的是瞿颖啊",
+      "onboard_time": 1774221437,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214250,
       "num": 205069,
       "word": "33岁抗癌博主阿润离世",
@@ -17529,6 +17545,14 @@
       "onboard_time": 1773377663,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214119,
+      "num": 76209,
+      "word": "郑钦文1比1凯斯",
+      "onboard_time": 1774221619,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 214072,
@@ -19883,6 +19907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184493,
+      "num": 757621,
+      "word": "伊朗导弹绕过以色列拦截弹",
+      "onboard_time": 1774191683,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184294,
       "num": 184294,
       "word": "金价暴跌真凶",
@@ -21825,6 +21857,14 @@
       "onboard_time": 1772461888,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164588,
+      "num": 127700,
+      "word": "齐旻死在了俞浅浅爱上他的那一刻",
+      "onboard_time": 1774222939,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 164367,
@@ -24171,14 +24211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 146736,
-      "num": 757621,
-      "word": "伊朗导弹绕过以色列拦截弹",
-      "onboard_time": 1774191683,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 146681,
       "num": 146681,
       "word": "曝周翊然竞争十日终焉被pass",
@@ -25507,14 +25539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 137885,
-      "num": 137885,
-      "word": "原来贾玲旁边的是瞿颖啊",
-      "onboard_time": 1774221437,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137677,
       "num": 852166,
       "word": "易梦玲工作室回应被质疑压花",
@@ -25937,14 +25961,6 @@
       "onboard_time": 1772784622,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 134860,
-      "num": 61263,
-      "word": "郑钦文1比1凯斯",
-      "onboard_time": 1774221619,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 134850,
@@ -26593,6 +26609,14 @@
       "onboard_time": 1774019902,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131387,
+      "num": 131387,
+      "word": "女护士被男友杀害男方家属发文道歉",
+      "onboard_time": 1774221619,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131365,
@@ -28185,14 +28209,6 @@
       "onboard_time": 1772855660,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122272,
-      "num": 122272,
-      "word": "黄金白银开涨了",
-      "onboard_time": 1774222221,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 122213,
@@ -32355,6 +32371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105110,
+      "num": 105110,
+      "word": "曼城是冠军",
+      "onboard_time": 1774221379,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105088,
       "num": 100633,
       "word": "王橹杰祝福李煜东",
@@ -32643,6 +32667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104066,
+      "num": 104066,
+      "word": "Elk BLG",
+      "onboard_time": 1774222581,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104041,
       "num": 98282,
       "word": "逐玉贺将军下线",
@@ -32657,14 +32689,6 @@
       "onboard_time": 1773466822,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103974,
-      "num": 103974,
-      "word": "曼城是冠军",
-      "onboard_time": 1774221379,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 103958,
@@ -34073,6 +34097,14 @@
       "onboard_time": 1773621742,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99717,
+      "num": 99717,
+      "word": "美媒称伊朗军力影响远超中东地区",
+      "onboard_time": 1774194142,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99710,
@@ -36017,6 +36049,14 @@
       "onboard_time": 1773639382,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94329,
+      "num": 94329,
+      "word": "注意用脑卫生",
+      "onboard_time": 1774221679,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 94251,
@@ -39923,14 +39963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84784,
-      "num": 84784,
-      "word": "美媒称伊朗军力影响远超中东地区",
-      "onboard_time": 1774194142,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 84776,
       "num": 84776,
       "word": "这群大雁是不是刚下高速",
@@ -43555,6 +43587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76585,
+      "num": 76585,
+      "word": "东北虎吃完保险公司买单",
+      "onboard_time": 1774223299,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76584,
       "num": 149661,
       "word": "王鹤棣牵白鹿手",
@@ -45611,6 +45651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 72443,
+      "num": 72443,
+      "word": "患者用笔做成花束医生们一拥而上",
+      "onboard_time": 1774222037,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72437,
       "num": 82132,
       "word": "朴智旻长发",
@@ -45953,6 +46001,14 @@
       "onboard_time": 1772771003,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71650,
+      "num": 71650,
+      "word": "苍兰诀当年的出圈程度",
+      "onboard_time": 1774222939,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 71646,
@@ -47763,6 +47819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66958,
+      "num": 66958,
+      "word": "伊朗回应特朗普威胁言论",
+      "onboard_time": 1774222037,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66918,
       "num": 66918,
       "word": "医护发患者手术视频臀部暴露",
@@ -49235,14 +49299,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 63256,
-      "num": 63256,
-      "word": "女护士被男友杀害男方家属发文道歉",
-      "onboard_time": 1774221619,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63255,
       "num": 67006,
       "word": "泄露3000余条居民信息社区主任被判刑",
@@ -50675,14 +50731,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 58937,
-      "num": 58937,
-      "word": "注意用脑卫生",
-      "onboard_time": 1774221679,
-      "rank": 33,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 58935,
       "num": 79394,
       "word": "咪的世界一直在下坠",
@@ -50889,6 +50937,14 @@
       "onboard_time": 1772442445,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58329,
+      "num": 58329,
+      "word": "钎城 带我节奏有完没完了",
+      "onboard_time": 1774223422,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 58323,
@@ -52083,6 +52139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 53543,
+      "num": 53543,
+      "word": "59岁工地大叔随性起舞走红",
+      "onboard_time": 1774221980,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53525,
       "num": 53525,
       "word": "JDG战胜LOUD",
@@ -52411,12 +52475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52156,
-      "num": 52156,
-      "word": "伊朗回应特朗普威胁言论",
-      "onboard_time": 1774222037,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 52075,
+      "num": 54177,
+      "word": "阿森纳0比2曼城",
+      "onboard_time": 1774221559,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 52003,
@@ -52617,6 +52681,14 @@
       "onboard_time": 1773810382,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50596,
+      "num": 50596,
+      "word": "微厘空间02组卫星成功发射",
+      "onboard_time": 1774223479,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 50588,
@@ -52923,14 +52995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49110,
-      "num": 49110,
-      "word": "患者用笔做成花束医生们一拥而上",
-      "onboard_time": 1774222037,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49095,
       "num": 463366,
       "word": "杨瀚森方回应得分G联盟新高",
@@ -53089,14 +53153,6 @@
       "onboard_time": 1773505999,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 48664,
-      "num": 48664,
-      "word": "阿森纳0比2曼城",
-      "onboard_time": 1774221559,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 48654,
@@ -54915,14 +54971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39825,
-      "num": 39825,
-      "word": "59岁工地大叔随性起舞走红",
-      "onboard_time": 1774221980,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39815,
       "num": 44998,
       "word": "百岁老人每日黄酒猪蹄50年不去医院",
@@ -55321,14 +55369,6 @@
       "onboard_time": 1772565134,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 37877,
-      "num": 37877,
-      "word": "Elk BLG",
-      "onboard_time": 1774222581,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 37717,
