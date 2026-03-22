@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/01 00:36:45 ~ 2026/03/22 11:27:08
+本榜单时间：2026/03/01 00:36:45 ~ 2026/03/22 13:00:22
 </p>
 </blockquote>
 <p>
@@ -977,6 +977,12 @@ Bin 外战看BLG（热度：1082922）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%AF%E7%9C%9F%E5%B9%B4%E4%BB%A3%20%E7%9C%9F%E6%9B%BF%E8%BA%AB%23" target="weibo">
 纯真年代 真替身（热度：1078004）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E7%AD%BE%E7%BA%A6%E5%AE%98%E5%AE%A3%23" target="weibo">
+AI演员签约官宣（热度：1073192）
 </a>
 </li>
 
@@ -3717,6 +3723,12 @@ TES教练 Naiyou说季后赛输的都是假赛（热度：543213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E4%BC%AF%E5%85%8B%E5%88%A9%E4%B8%83%E5%B9%B4%E6%B2%A1%E6%AF%95%E4%B8%9A%23" target="weibo">
+希林娜依高伯克利七年没毕业（热度：538061）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%99%BD%E9%B9%BF%E7%99%BD%E6%95%AC%E4%BA%AD%20%E8%B0%81%E8%AF%B4%E5%86%85%E5%A8%B1%E6%B2%A1%E6%9C%89%E9%BD%90%E8%88%9E%23" target="weibo">
 肖战白鹿白敬亭 谁说内娱没有齐舞（热度：536784）
 </a>
@@ -5999,18 +6011,6 @@ LOL（热度：406832）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E5%BD%95%E9%9F%B3%E7%9A%84%E6%84%8F%E4%B9%89%23" target="weibo">
 原来这就是录音的意义（热度：404931）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B2%B3%E9%9B%A8%E5%A9%B7%E7%BC%BA%E5%B8%ADbalmain%E7%9C%8B%E7%A7%80%23" target="weibo">
-岳雨婷缺席balmain看秀（热度：404914）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Gemini%E4%BA%94%E8%BF%9E%E7%BB%9D%E4%B8%96%23" target="weibo">
-Gemini五连绝世（热度：404182）
 </a>
 </li>
 
