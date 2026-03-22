@@ -1,6 +1,6 @@
 {
   "startTime": 1774197653930,
-  "endTime": 1774218906030,
+  "endTime": 1774219970557,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -43,7 +43,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436929,
+      "raw_hot": 438994,
       "num": 328874,
       "word": "5种炎症可能变成癌症",
       "onboard_time": 1774197198,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289358,
-      "num": 458033,
+      "raw_hot": 376356,
+      "num": 573828,
       "word": "央视曝活鱼被人为麻醉乱象",
       "onboard_time": 1774198038,
       "rank": 48,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172221,
+      "num": 172221,
+      "word": "你好1983",
+      "onboard_time": 1774199478,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170866,
       "num": 170866,
       "word": "张靓颖回应do脸翻车",
@@ -115,20 +123,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142918,
+      "num": 471339,
+      "word": "伊朗导弹绕过以色列拦截弹",
+      "onboard_time": 1774191683,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141023,
       "num": 141023,
       "word": "Viper两连冠",
       "onboard_time": 1774200378,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 123015,
-      "num": 123015,
-      "word": "你好1983",
-      "onboard_time": 1774199478,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 120323,
@@ -211,14 +219,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99984,
-      "num": 471339,
-      "word": "伊朗导弹绕过以色列拦截弹",
-      "onboard_time": 1774191683,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 99019,
       "num": 437678,
       "word": "律师解读梅姨照片为何暂不公开",
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73306,
+      "num": 78046,
+      "word": "迪士尼平替把多少县城父母骗惨了",
+      "onboard_time": 1774178060,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68276,
       "num": 78132,
       "word": "眼睛出现这两类情况要立刻就医",
@@ -355,6 +363,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57040,
+      "num": 57040,
+      "word": "BLG队史首个国际赛冠军",
+      "onboard_time": 1774214113,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 55914,
+      "num": 77920,
+      "word": "女性对抗衰老就是力量训练",
+      "onboard_time": 1774191441,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 55088,
+      "num": 77891,
+      "word": "内娱男流量五官大赏",
+      "onboard_time": 1774184242,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54249,
       "num": 77933,
       "word": "汪苏泷说到底是谁传的周杰伦来了",
@@ -371,36 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50864,
-      "num": 77920,
-      "word": "女性对抗衰老就是力量训练",
-      "onboard_time": 1774191441,
-      "rank": 42,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 50838,
       "num": 77912,
       "word": "蜂蜜的针 超前",
       "onboard_time": 1774190663,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 49052,
-      "num": 78046,
-      "word": "迪士尼平替把多少县城父母骗惨了",
-      "onboard_time": 1774178060,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48941,
-      "num": 77891,
-      "word": "内娱男流量五官大赏",
-      "onboard_time": 1774184242,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 47720,
@@ -443,8 +451,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33335,
-      "num": 30705,
+      "raw_hot": 39972,
+      "num": 39972,
       "word": "G2",
       "onboard_time": 1774214113,
       "rank": 23,
@@ -457,14 +465,6 @@
       "onboard_time": 1774201276,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 30681,
-      "num": 30681,
-      "word": "BLG队史首个国际赛冠军",
-      "onboard_time": 1774214113,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 28982,
@@ -483,16 +483,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 19457,
-      "num": 22063,
+      "raw_hot": 21617,
+      "num": 29373,
       "word": "冬去春来",
       "onboard_time": 1774181843,
       "rank": 41,
       "category": "剧集"
     },
     {
-      "raw_hot": 18306,
-      "num": 22057,
+      "raw_hot": 19368,
+      "num": 29367,
       "word": "成毅富贵少爷片场花絮",
       "onboard_time": 1774207334,
       "rank": 38,
@@ -505,6 +505,14 @@
       "onboard_time": 1774204336,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17117,
+      "num": 29362,
+      "word": "11件让人幸福的春日小事",
+      "onboard_time": 1774219936,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 12884,
