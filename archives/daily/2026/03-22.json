@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774180027782,
+  "endTime": 1774184825185,
   "band_list": [
     {
       "raw_hot": 2295364,
@@ -11,8 +11,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1303128,
+      "num": 238112,
+      "word": "张凌赫的撕拉片又被热议了",
+      "onboard_time": 1774179862,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1249144,
-      "num": 221809,
+      "num": 236550,
       "word": "辛芷蕾 多邻国",
       "onboard_time": 1774167319,
       "rank": 10,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 995415,
-      "num": 111538,
+      "num": 141243,
       "word": "高以翔前女友BeIIa官宣怀孕",
       "onboard_time": 1774159400,
       "rank": 23,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 884079,
-      "num": 112947,
+      "num": 189865,
       "word": "王鸥 何九华",
       "onboard_time": 1774166481,
       "rank": 20,
@@ -89,6 +97,14 @@
       "onboard_time": 1774141340,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 770222,
+      "num": 240059,
+      "word": "逐玉直播",
+      "onboard_time": 1774181781,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 752016,
@@ -155,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 609391,
+      "num": 237885,
+      "word": "张靓颖回应do脸翻车",
+      "onboard_time": 1774179441,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 584297,
       "num": 868816,
       "word": "重庆大学实验室爆炸现场血迹明显",
@@ -185,6 +209,14 @@
       "onboard_time": 1774164141,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557807,
+      "num": 192897,
+      "word": "茂茂你终于结婚生子了",
+      "onboard_time": 1774183042,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 538061,
@@ -283,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407182,
+      "num": 777147,
+      "word": "香港发生亿元黄金劫案",
+      "onboard_time": 1774178119,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406198,
       "num": 959592,
       "word": "梅姨到哪也不出示身份证",
@@ -292,7 +332,7 @@
     },
     {
       "raw_hot": 400833,
-      "num": 101362,
+      "num": 236885,
       "word": "迪丽热巴直播",
       "onboard_time": 1774179143,
       "rank": 23,
@@ -353,14 +393,6 @@
       "onboard_time": 1774106245,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337803,
-      "num": 777147,
-      "word": "香港发生亿元黄金劫案",
-      "onboard_time": 1774178119,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 335298,
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 273123,
-      "num": 197349,
+      "num": 237481,
       "word": "减内脏脂肪最有效的方法",
       "onboard_time": 1774177821,
       "rank": 30,
@@ -491,20 +523,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 257449,
+      "num": 238764,
+      "word": "伊朗媒体称伊官员提出停战六项条件",
+      "onboard_time": 1774183460,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 254455,
       "num": 169470,
       "word": "逐玉 盗版没弹幕快乐少一半",
       "onboard_time": 1774143261,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250887,
-      "num": 100515,
-      "word": "张凌赫的撕拉片又被热议了",
-      "onboard_time": 1774179862,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 248035,
@@ -539,6 +571,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 240546,
+      "num": 240546,
+      "word": "烤肠界的四大顶流",
+      "onboard_time": 1774179502,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 239530,
       "num": 239530,
       "word": "小猫不敢再随便熬夜了",
@@ -553,6 +593,14 @@
       "onboard_time": 1774155921,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 236515,
+      "num": 236515,
+      "word": "金价上演断崖式下跌",
+      "onboard_time": 1774180041,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 236112,
@@ -585,6 +633,14 @@
       "onboard_time": 1774156220,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234679,
+      "num": 234679,
+      "word": "皇帝想娶樊长玉",
+      "onboard_time": 1774182862,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 233061,
@@ -707,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211903,
+      "num": 759261,
+      "word": "迪士尼平替把多少县城父母骗惨了",
+      "onboard_time": 1774178060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210887,
       "num": 173200,
       "word": "猥亵女孩民警曾被吸毒者刺伤耽误婚期",
@@ -747,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198134,
+      "num": 240393,
+      "word": "周也 毛利兰",
+      "onboard_time": 1774183942,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198045,
       "num": 785426,
       "word": "专家称梅姨可能觉得自己在做善事",
@@ -763,14 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197454,
-      "num": 83751,
-      "word": "张靓颖回应do脸翻车",
-      "onboard_time": 1774179441,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197037,
       "num": 184495,
       "word": "这段话杀死了我的精神内耗",
@@ -780,7 +844,7 @@
     },
     {
       "raw_hot": 194396,
-      "num": 111614,
+      "num": 135961,
       "word": "23岁女子刚结婚一年就闭经",
       "onboard_time": 1774176441,
       "rank": 27,
@@ -915,14 +979,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 170580,
-      "num": 449002,
-      "word": "迪士尼平替把多少县城父母骗惨了",
-      "onboard_time": 1774178060,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170471,
       "num": 170471,
       "word": "一诺加盟我家那小子",
@@ -937,6 +993,14 @@
       "onboard_time": 1774171100,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153163,
+      "num": 238399,
+      "word": "双汇王中王火腿肠被曝吃出两根钢钉",
+      "onboard_time": 1774182441,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152313,
@@ -1027,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139071,
+      "num": 139071,
+      "word": "范世錡直播",
+      "onboard_time": 1774179080,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136909,
       "num": 136909,
       "word": "警方介入女子追打2岁宝宝",
@@ -1049,6 +1121,14 @@
       "onboard_time": 1774104984,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134471,
+      "num": 134471,
+      "word": "内娱男流量五官大赏",
+      "onboard_time": 1774184242,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 133886,
@@ -1083,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124273,
+      "num": 124273,
+      "word": "逐玉爱奇艺直播要会员",
+      "onboard_time": 1774184181,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122635,
       "num": 105278,
       "word": "葛夕回怼复合要求",
@@ -1097,6 +1185,14 @@
       "onboard_time": 1774170441,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 120745,
+      "num": 228279,
+      "word": "汪顺亚军",
+      "onboard_time": 1774183101,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 120451,
@@ -1163,6 +1259,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110554,
+      "num": 110554,
+      "word": "齐旻从未想过杀掉母妃",
+      "onboard_time": 1774184303,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109388,
+      "num": 100126,
+      "word": "谢征随元青 正版和盗版的区别",
+      "onboard_time": 1774179201,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108480,
       "num": 150826,
       "word": "中国变压器全球爆火",
@@ -1177,14 +1289,6 @@
       "onboard_time": 1774171282,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107978,
-      "num": 82192,
-      "word": "谢征随元青 正版和盗版的区别",
-      "onboard_time": 1774179201,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 107697,
@@ -1211,6 +1315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104924,
+      "num": 99857,
+      "word": "方可能不能不遮热巴的太阳穴",
+      "onboard_time": 1774184303,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102670,
       "num": 102670,
       "word": "78岁女子撞死苹果高管一家被判缓刑",
@@ -1224,6 +1336,22 @@
       "word": "阿娇的邪修减肥法是刷牙",
       "onboard_time": 1774095621,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101986,
+      "num": 112554,
+      "word": "武汉女孩8天胖8斤喊话顺德道歉",
+      "onboard_time": 1774182741,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100851,
+      "num": 98528,
+      "word": "章若楠 无以言表好好演戏",
+      "onboard_time": 1774183582,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1241,6 +1369,14 @@
       "onboard_time": 1774162339,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100260,
+      "num": 100260,
+      "word": "G2对战BLG",
+      "onboard_time": 1774183520,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 99640,
@@ -1299,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94809,
+      "num": 94809,
+      "word": "郑钦文三连胜",
+      "onboard_time": 1774184420,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94729,
       "num": 94729,
       "word": "本轮金价暴跌原因",
@@ -1339,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93295,
+      "num": 93295,
+      "word": "太古里认领唐嫣",
+      "onboard_time": 1774182981,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93131,
       "num": 93131,
       "word": "李嘉格没有不爱帅哥的义务",
@@ -1355,12 +1507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92232,
+      "num": 181582,
+      "word": "冬去春来",
+      "onboard_time": 1774109483,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91636,
       "num": 91636,
       "word": "伊朗武装部队称已从防御转为进攻",
       "onboard_time": 1774173140,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91322,
+      "num": 91322,
+      "word": "BLG请神",
+      "onboard_time": 1774180402,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 88490,
@@ -1393,6 +1561,14 @@
       "onboard_time": 1774174761,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86181,
+      "num": 86181,
+      "word": "95后三胎妈妈孕晚期参赛健身跑",
+      "onboard_time": 1774184122,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 84562,
@@ -1475,6 +1651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81505,
+      "num": 81505,
+      "word": "蒯曼锁定伦敦世乒赛参赛资格",
+      "onboard_time": 1774181781,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81279,
       "num": 81279,
       "word": "虞书欣杀青给粉丝鞠躬",
@@ -1521,6 +1705,14 @@
       "onboard_time": 1774175840,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78061,
+      "num": 78061,
+      "word": "中国股市债市规模均位居全球第二",
+      "onboard_time": 1774181541,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 77990,
@@ -1691,12 +1883,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 72986,
+      "num": 72986,
+      "word": "四门全开那一下真没忍住笑",
+      "onboard_time": 1774182981,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72980,
       "num": 72980,
       "word": "梅姨跟60多岁老人同居当拐卖落脚点",
       "onboard_time": 1774147161,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72671,
+      "num": 72671,
+      "word": "专家称黄金被套的投资者确实很多",
+      "onboard_time": 1774182682,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 72551,
@@ -1907,14 +2115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 65799,
-      "num": 65799,
-      "word": "烤肠界的四大顶流",
-      "onboard_time": 1774179502,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 65726,
       "num": 65726,
       "word": "多地房地产市场交易火爆",
@@ -2089,6 +2289,14 @@
       "onboard_time": 1774162939,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62010,
+      "num": 158624,
+      "word": "珲春一国道现巨鸟过马路",
+      "onboard_time": 1774183582,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61777,
@@ -2329,14 +2537,6 @@
       "onboard_time": 1774085363,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51336,
-      "num": 181582,
-      "word": "冬去春来",
-      "onboard_time": 1774109483,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 51099,
@@ -2715,6 +2915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 11669,
+      "num": 617363,
+      "word": "9组数据见证大国治水生动画卷",
+      "onboard_time": 1774184242,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10869,
       "num": 69595,
       "word": "想要一份工作的年轻癌症患者",
@@ -2740,6 +2948,9 @@
     },
     {
       "word": "#总书记话正确政绩观#"
+    },
+    {
+      "word": "#确保一江清水绵延后世惠泽人民#"
     }
   ]
 }
