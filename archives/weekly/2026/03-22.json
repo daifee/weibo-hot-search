@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774186075234,
+  "endTime": 1774188070207,
   "band_list": [
     {
       "raw_hot": 2295364,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 995415,
-      "num": 141243,
+      "num": 169583,
       "word": "高以翔前女友BeIIa官宣怀孕",
       "onboard_time": 1774159400,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 978648,
+      "num": 1156583,
+      "word": "中国石化提示提前错峰加油",
+      "onboard_time": 1774185203,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 905642,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 770222,
-      "num": 240059,
+      "num": 335570,
       "word": "逐玉直播",
       "onboard_time": 1774181781,
       "rank": 5,
@@ -203,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 573299,
+      "num": 573299,
+      "word": "周也 毛利兰",
+      "onboard_time": 1774183942,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 566018,
       "num": 1090562,
       "word": "多校试点班主任退群",
@@ -217,6 +233,14 @@
       "onboard_time": 1774183042,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546070,
+      "num": 335492,
+      "word": "苍兰诀",
+      "onboard_time": 1774185562,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 538061,
@@ -241,14 +265,6 @@
       "onboard_time": 1774106782,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 483869,
-      "num": 483869,
-      "word": "周也 毛利兰",
-      "onboard_time": 1774183942,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 479132,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 372536,
-      "num": 238764,
+      "num": 313395,
       "word": "伊朗媒体称伊官员提出停战六项条件",
       "onboard_time": 1774183460,
       "rank": 8,
@@ -417,6 +433,14 @@
       "onboard_time": 1774106245,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337635,
+      "num": 337635,
+      "word": "G2对战BLG",
+      "onboard_time": 1774183520,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 335298,
@@ -499,12 +523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286081,
+      "num": 205837,
+      "word": "李帝努 电子烟",
+      "onboard_time": 1774186763,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284606,
       "num": 150460,
       "word": "宋砚被长玉谢征吓到晕厥",
       "onboard_time": 1774143679,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279942,
+      "num": 200664,
+      "word": "内娱男流量五官大赏",
+      "onboard_time": 1774184242,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 278459,
@@ -851,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195928,
+      "num": 172820,
+      "word": "长期运动可以解决生活中很多问题",
+      "onboard_time": 1774188023,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 194396,
       "num": 135961,
       "word": "23岁女子刚结婚一年就闭经",
@@ -913,14 +961,6 @@
       "onboard_time": 1774161442,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181523,
-      "num": 181523,
-      "word": "中国石化提示提前错峰加油",
-      "onboard_time": 1774185203,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179936,
@@ -1003,20 +1043,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168909,
+      "num": 149114,
+      "word": "范世錡直播",
+      "onboard_time": 1774179080,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161924,
+      "num": 141991,
+      "word": "齐旻从未想过杀掉母妃",
+      "onboard_time": 1774184303,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153975,
       "num": 153975,
       "word": "你好星期六下周嘉宾阵容预告",
       "onboard_time": 1774171100,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152995,
-      "num": 152995,
-      "word": "内娱男流量五官大赏",
-      "onboard_time": 1774184242,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 152313,
@@ -1059,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146729,
-      "num": 126725,
-      "word": "苍兰诀",
-      "onboard_time": 1774185562,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146581,
       "num": 146581,
       "word": "挟猫妈以令诸咪",
@@ -1091,27 +1131,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143800,
-      "num": 110554,
-      "word": "齐旻从未想过杀掉母妃",
-      "onboard_time": 1774184303,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142628,
       "num": 126351,
       "word": "方可能不能不遮热巴的太阳穴",
       "onboard_time": 1774184303,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 141990,
-      "num": 139071,
-      "word": "范世錡直播",
-      "onboard_time": 1774179080,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1195,6 +1219,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128295,
+      "num": 128295,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1774186343,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 127984,
+      "num": 127984,
+      "word": "逐玉热度超过苍兰诀",
+      "onboard_time": 1774186942,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127410,
+      "num": 127410,
+      "word": "白宇演技",
+      "onboard_time": 1774186462,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126738,
       "num": 710881,
       "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
@@ -1209,14 +1257,6 @@
       "onboard_time": 1774160062,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125041,
-      "num": 125041,
-      "word": "G2对战BLG",
-      "onboard_time": 1774183520,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 122635,
@@ -1275,6 +1315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115186,
+      "num": 115186,
+      "word": "张真源 青岛",
+      "onboard_time": 1774187542,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113666,
       "num": 113666,
       "word": "齐旻卑微跪求俞浅浅当他皇后",
@@ -1323,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108960,
+      "num": 108960,
+      "word": "穆祉丞 太湖湾音乐节",
+      "onboard_time": 1774187482,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108480,
       "num": 150826,
       "word": "中国变压器全球爆火",
@@ -1363,6 +1419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105085,
+      "num": 105085,
+      "word": "伊朗发起第74波打击",
+      "onboard_time": 1774187124,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102670,
       "num": 102670,
       "word": "78岁女子撞死苹果高管一家被判缓刑",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1774095621,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101979,
+      "num": 119327,
+      "word": "二十多岁她们确诊卵巢早衰之后",
+      "onboard_time": 1774186401,
+      "rank": 37,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 100851,
@@ -1443,12 +1515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97289,
+      "num": 97289,
+      "word": "中国石化2025净利润下降36.8%",
+      "onboard_time": 1774187002,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96785,
       "num": 231799,
       "word": "郑钦文战胜前美网冠军",
       "onboard_time": 1774135338,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95869,
+      "num": 95869,
+      "word": "新郎新娘办结婚证遇惊喜尾号",
+      "onboard_time": 1774186401,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94929,
@@ -1537,6 +1625,14 @@
       "onboard_time": 1774173140,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91600,
+      "num": 91600,
+      "word": "双胞胎宝宝连睡觉都要贴贴",
+      "onboard_time": 1774187782,
+      "rank": 49,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 91322,
@@ -1689,6 +1785,14 @@
       "onboard_time": 1774157001,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81766,
+      "num": 114581,
+      "word": "曝伊朗导弹射程可覆盖欧洲多国首都",
+      "onboard_time": 1774187723,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81702,
@@ -2699,6 +2803,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 44770,
+      "num": 191992,
+      "word": "王鹤棣影视飓风雅迪",
+      "onboard_time": 1774186581,
+      "rank": 16,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 44031,
       "num": 123816,
       "word": "檀健次粉丝后吃",
@@ -2761,6 +2873,14 @@
       "onboard_time": 1774136598,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35535,
+      "num": 226277,
+      "word": "央视曝光活鱼麻醉剂滥用乱象",
+      "onboard_time": 1774187363,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 35021,
@@ -2833,6 +2953,14 @@
       "onboard_time": 1774100603,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27652,
+      "num": 181892,
+      "word": "工业酒精麻醉鱼流入市场",
+      "onboard_time": 1774187363,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27200,
@@ -2932,7 +3060,7 @@
     },
     {
       "raw_hot": 17267,
-      "num": 617363,
+      "num": 674565,
       "word": "9组数据见证大国治水生动画卷",
       "onboard_time": 1774184242,
       "rank": 2,
