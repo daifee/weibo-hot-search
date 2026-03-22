@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774191275829,
+  "endTime": 1774193708996,
   "band_list": [
     {
       "raw_hot": 2295364,
@@ -59,20 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1062100,
+      "num": 1041871,
+      "word": "苍兰诀",
+      "onboard_time": 1774185562,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1039903,
+      "num": 748168,
+      "word": "观音桥车祸",
+      "onboard_time": 1774191982,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 995415,
       "num": 253517,
       "word": "高以翔前女友BeIIa官宣怀孕",
       "onboard_time": 1774159400,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 923421,
-      "num": 1041871,
-      "word": "苍兰诀",
-      "onboard_time": 1774185562,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 905642,
@@ -193,6 +201,14 @@
       "onboard_time": 1774179441,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 598919,
+      "num": 1023316,
+      "word": "田曦薇撅嘴要张凌赫道歉",
+      "onboard_time": 1774190241,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 586607,
@@ -393,14 +409,6 @@
       "onboard_time": 1774149861,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 382104,
-      "num": 1023316,
-      "word": "田曦薇撅嘴要张凌赫道歉",
-      "onboard_time": 1774190241,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 379556,
@@ -659,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245903,
+      "num": 761494,
+      "word": "高市早苗称访美照夸张系因太感动",
+      "onboard_time": 1774189763,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 243419,
       "num": 218725,
       "word": "女生遭民警猥亵父亲刚开始以为是胡说",
@@ -745,6 +761,14 @@
       "onboard_time": 1774163840,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 232002,
+      "num": 997861,
+      "word": "律师解读梅姨照片为何暂不公开",
+      "onboard_time": 1774188564,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231839,
@@ -1099,12 +1123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154060,
-      "num": 997861,
-      "word": "律师解读梅姨照片为何暂不公开",
-      "onboard_time": 1774188564,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 159271,
+      "num": 159271,
+      "word": "迪丽热巴化妆王崇",
+      "onboard_time": 1774193663,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 153975,
@@ -1171,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146118,
+      "num": 146118,
+      "word": "不齐而俞 番外",
+      "onboard_time": 1774192522,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145931,
       "num": 145931,
       "word": "山东事业编",
@@ -1211,12 +1243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140091,
-      "num": 166756,
-      "word": "高市早苗称访美照夸张系因太感动",
-      "onboard_time": 1774189763,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 140182,
+      "num": 226528,
+      "word": "外籍男子上车插队被拽下车",
+      "onboard_time": 1774191263,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140031,
@@ -1241,6 +1273,14 @@
       "onboard_time": 1774188564,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137370,
+      "num": 757621,
+      "word": "伊朗导弹绕过以色列拦截弹",
+      "onboard_time": 1774191683,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136909,
@@ -1403,6 +1443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114314,
+      "num": 162963,
+      "word": "眼睛出现这两类情况要立刻就医",
+      "onboard_time": 1774191623,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113666,
       "num": 113666,
       "word": "齐旻卑微跪求俞浅浅当他皇后",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1774151061,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105557,
+      "num": 105557,
+      "word": "蜂蜜的针 超前",
+      "onboard_time": 1774190663,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 105223,
@@ -1617,6 +1673,14 @@
       "onboard_time": 1774187002,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97181,
+      "num": 151569,
+      "word": "女性对抗衰老就是力量训练",
+      "onboard_time": 1774191441,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 96785,
@@ -1771,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89943,
+      "num": 126043,
+      "word": "高铁卫生间遇到这种情况别冲水",
+      "onboard_time": 1774193663,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88490,
       "num": 88490,
       "word": "机场怎么不开个洗头发的店",
@@ -1811,6 +1883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86738,
+      "num": 151493,
+      "word": "i人梦中情岗已有48人报名缴费",
+      "onboard_time": 1774192761,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86542,
       "num": 86542,
       "word": "AG五周四冠",
@@ -1825,14 +1905,6 @@
       "onboard_time": 1774184122,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85879,
-      "num": 85879,
-      "word": "蜂蜜的针 超前",
-      "onboard_time": 1774190663,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 85704,
@@ -2161,6 +2233,14 @@
       "onboard_time": 1774178900,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74387,
+      "num": 74387,
+      "word": "赵樱子无美颜素颜直播",
+      "onboard_time": 1774193422,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 74377,
@@ -2603,6 +2683,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 61678,
+      "num": 74379,
+      "word": "塔猜亚战胜奥沙利文夺冠",
+      "onboard_time": 1774193663,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61506,
       "num": 181028,
       "word": "倪妮生理性演技",
@@ -2993,6 +3081,14 @@
       "onboard_time": 1774109721,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40364,
+      "num": 751898,
+      "word": "BLG打G2扳平比分",
+      "onboard_time": 1774192522,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 39220,
