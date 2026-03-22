@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774173383368,
+  "endTime": 1774175823778,
   "band_list": [
     {
       "raw_hot": 2295364,
@@ -67,19 +67,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 877237,
+      "num": 137075,
+      "word": "油价",
+      "onboard_time": 1774170861,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 787118,
       "num": 151962,
       "word": "金价",
       "onboard_time": 1774141340,
       "rank": 21,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 780597,
-      "num": 137075,
-      "word": "油价",
-      "onboard_time": 1774170861,
-      "rank": 10,
       "category": "财经"
     },
     {
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614985,
+      "num": 1098397,
+      "word": "爱吃荔枝的人今年天塌了",
+      "onboard_time": 1774171282,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 584297,
       "num": 868816,
       "word": "重庆大学实验室爆炸现场血迹明显",
@@ -195,14 +203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 485648,
-      "num": 775888,
-      "word": "爱吃荔枝的人今年天塌了",
-      "onboard_time": 1774171282,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 479132,
       "num": 164835,
       "word": "新疆一处沙漠惊现沙尘豹",
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446094,
+      "num": 785904,
+      "word": "乘客去世英航班带着遗体飞完全程",
+      "onboard_time": 1774170080,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 445638,
       "num": 1071302,
       "word": "梅姨在广州三元里落网为不实消息",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 409099,
-      "num": 290699,
+      "num": 330282,
       "word": "爬山就得穿鲜艳的衣服",
       "onboard_time": 1774170020,
       "rank": 6,
@@ -315,14 +323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 350413,
-      "num": 350413,
-      "word": "乘客去世英航班带着遗体飞完全程",
-      "onboard_time": 1774170080,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 338123,
       "num": 182881,
       "word": "葛夕公布体检报告",
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 331227,
-      "num": 331227,
+      "num": 411866,
       "word": "17岁女孩一睡10天被叫醒就打人",
       "onboard_time": 1774170320,
       "rank": 3,
@@ -375,6 +375,14 @@
       "num": 180905,
       "word": "伊朗回应特朗普袭击电厂威胁",
       "onboard_time": 1774143860,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 306190,
+      "num": 306190,
+      "word": "伊朗导弹在以本土砸出直径10米深坑",
+      "onboard_time": 1774173741,
       "rank": 7,
       "category": "国际时政"
     },
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272273,
+      "num": 272273,
+      "word": "耙耙柑你牛",
+      "onboard_time": 1774172901,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 260334,
       "num": 182696,
       "word": "遭派出所民警猥亵女生父亲申请抗诉",
@@ -465,6 +481,14 @@
       "onboard_time": 1774159999,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243419,
+      "num": 218725,
+      "word": "女生遭民警猥亵父亲刚开始以为是胡说",
+      "onboard_time": 1774172842,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240817,
@@ -563,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227829,
+      "num": 227829,
+      "word": "油价飙升加油站变大型停车场",
+      "onboard_time": 1774170500,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 225110,
       "num": 182791,
       "word": "逐玉 青天大老爷",
@@ -627,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209089,
+      "num": 209089,
+      "word": "虞书欣杀青",
+      "onboard_time": 1774173320,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201134,
       "num": 201134,
       "word": "梅姨平时说媒背地贩卖小孩",
@@ -683,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185811,
+      "num": 185811,
+      "word": "白日提灯月鳞绮纪或对打",
+      "onboard_time": 1774173921,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184960,
       "num": 184960,
       "word": "以色列称伊朗发射弹道导弹",
@@ -721,6 +769,14 @@
       "onboard_time": 1774108404,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177380,
+      "num": 177380,
+      "word": "专家称梅姨可能觉得自己在做善事",
+      "onboard_time": 1774170741,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177379,
@@ -779,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153666,
-      "num": 129720,
-      "word": "女生遭民警猥亵父亲刚开始以为是胡说",
-      "onboard_time": 1774172842,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151285,
       "num": 183831,
       "word": "重庆大学通报实验室爆炸",
@@ -809,6 +857,14 @@
       "onboard_time": 1774145660,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149529,
+      "num": 90749,
+      "word": "李羲承状态",
+      "onboard_time": 1774173981,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 146581,
@@ -857,14 +913,6 @@
       "onboard_time": 1774099461,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138024,
-      "num": 138024,
-      "word": "油价飙升加油站变大型停车场",
-      "onboard_time": 1774170500,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 136909,
@@ -1019,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107119,
-      "num": 113115,
-      "word": "专家称梅姨可能觉得自己在做善事",
-      "onboard_time": 1774170741,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106105,
       "num": 106105,
       "word": "深圳垃圾量46年暴涨超3000倍",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1774136118,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96859,
+      "num": 96859,
+      "word": "金价八连跌消费者还是不敢买",
+      "onboard_time": 1774171700,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 96785,
@@ -1179,6 +1227,22 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 87884,
+      "num": 87884,
+      "word": "伊朗武装部队称已从防御转为进攻",
+      "onboard_time": 1774173140,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 87069,
+      "num": 87069,
+      "word": "糖尿病男子怕吃药疯狂节食致中毒",
+      "onboard_time": 1774174761,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84562,
       "num": 84562,
       "word": "我家那小子",
@@ -1193,14 +1257,6 @@
       "onboard_time": 1774172421,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 83366,
-      "num": 83366,
-      "word": "耙耙柑你牛",
-      "onboard_time": 1774172901,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 83097,
@@ -1273,6 +1329,14 @@
       "onboard_time": 1774149021,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78128,
+      "num": 78128,
+      "word": "梅姨曾称有2女儿家在广州",
+      "onboard_time": 1774174520,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77990,
@@ -1401,6 +1465,30 @@
       "onboard_time": 1774083081,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74377,
+      "num": 74377,
+      "word": "7只小狗结伴 励志片变爱情片",
+      "onboard_time": 1774173501,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74320,
+      "num": 74320,
+      "word": "库克感慨中国变化快",
+      "onboard_time": 1774175779,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 74080,
+      "num": 74080,
+      "word": "胡楚靓前男友新恋情",
+      "onboard_time": 1774175660,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 73284,
@@ -1595,14 +1683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 65818,
-      "num": 65818,
-      "word": "虞书欣杀青",
-      "onboard_time": 1774173320,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 65726,
       "num": 65726,
       "word": "多地房地产市场交易火爆",
@@ -1625,14 +1705,6 @@
       "onboard_time": 1774153640,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65143,
-      "num": 67902,
-      "word": "金价八连跌消费者还是不敢买",
-      "onboard_time": 1774171700,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 64896,
@@ -1731,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62713,
+      "num": 62713,
+      "word": "面试时可以把HR想成房东",
+      "onboard_time": 1774175241,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 62471,
       "num": 62471,
       "word": "苦练书法多年终于有回报了",
@@ -1771,6 +1851,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 61523,
+      "num": 61523,
+      "word": "于东来回应40亿分配争议",
+      "onboard_time": 1774172660,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61506,
       "num": 181028,
       "word": "倪妮生理性演技",
@@ -1803,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60347,
+      "num": 60347,
+      "word": "云初令",
+      "onboard_time": 1774175779,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60181,
       "num": 60181,
       "word": "樊长玉 贺将军",
@@ -1812,7 +1908,7 @@
     },
     {
       "raw_hot": 60138,
-      "num": 624539,
+      "num": 628530,
       "word": "中国变压器在国外一器难求",
       "onboard_time": 1774164920,
       "rank": 2,
@@ -1833,6 +1929,22 @@
       "onboard_time": 1774097242,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59642,
+      "num": 59642,
+      "word": "日本网民批高市早苗仪态失度",
+      "onboard_time": 1774175722,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 59629,
+      "num": 59629,
+      "word": "男子节食以蔬菜充饥1年致中毒送医",
+      "onboard_time": 1774173860,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59576,
