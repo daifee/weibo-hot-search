@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774194595103,
+  "endTime": 1774197653930,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -2809,6 +2809,14 @@
       "onboard_time": 1773221183,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 750716,
+      "num": 1029950,
+      "word": "G2对战BLG",
+      "onboard_time": 1774183520,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 750125,
@@ -10435,14 +10443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 337635,
-      "num": 1029950,
-      "word": "G2对战BLG",
-      "onboard_time": 1774183520,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 337466,
       "num": 860981,
       "word": "第一次见反向装修的",
@@ -10873,6 +10873,14 @@
       "onboard_time": 1773801441,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328874,
+      "num": 328874,
+      "word": "5种炎症可能变成癌症",
+      "onboard_time": 1774197198,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 328862,
@@ -14660,7 +14668,7 @@
     },
     {
       "raw_hot": 252885,
-      "num": 252885,
+      "num": 454251,
       "word": "Jennie音乐节",
       "onboard_time": 1774189704,
       "rank": 35,
@@ -15817,6 +15825,14 @@
       "onboard_time": 1773831381,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235637,
+      "num": 235637,
+      "word": "迪丽热巴化妆王崇",
+      "onboard_time": 1774193663,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 235569,
@@ -18841,14 +18857,6 @@
       "onboard_time": 1773109700,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195374,
-      "num": 159271,
-      "word": "迪丽热巴化妆王崇",
-      "onboard_time": 1774193663,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 195336,
@@ -29219,6 +29227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117465,
+      "num": 532915,
+      "word": "i人梦中情岗已有48人报名缴费",
+      "onboard_time": 1774192761,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117450,
       "num": 108468,
       "word": "肖战一个emoji代表一个角色",
@@ -31297,14 +31313,6 @@
       "onboard_time": 1773987081,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 108685,
-      "num": 162732,
-      "word": "i人梦中情岗已有48人报名缴费",
-      "onboard_time": 1774192761,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108634,
@@ -35972,7 +35980,7 @@
     },
     {
       "raw_hot": 94089,
-      "num": 94089,
+      "num": 423612,
       "word": "BLG状态",
       "onboard_time": 1774189463,
       "rank": 45,
@@ -42595,6 +42603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78244,
+      "num": 78244,
+      "word": "美媒称伊朗军力影响远超中东地区",
+      "onboard_time": 1774194142,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78236,
       "num": 89056,
       "word": "你好1983口碑发酵",
@@ -43963,14 +43979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75504,
-      "num": 75504,
-      "word": "美媒称伊朗军力影响远超中东地区",
-      "onboard_time": 1774194142,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 75475,
       "num": 75475,
       "word": "周杰伦第三支预告上线",
@@ -44627,6 +44635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74324,
+      "num": 104235,
+      "word": "2岁儿童就诊才知已有7颗蛀牙",
+      "onboard_time": 1774194742,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74320,
       "num": 74320,
       "word": "库克感慨中国变化快",
@@ -44897,6 +44913,14 @@
       "onboard_time": 1773653364,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73620,
+      "num": 78105,
+      "word": "浅浅是在教齐旻现代的求婚方式",
+      "onboard_time": 1774196540,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 73587,
@@ -45652,7 +45676,7 @@
     },
     {
       "raw_hot": 72095,
-      "num": 75311,
+      "num": 78020,
       "word": "十年前的韩剧还在我的虐剧TOP1里",
       "onboard_time": 1774193961,
       "rank": 41,
@@ -51763,6 +51787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54249,
+      "num": 77933,
+      "word": "汪苏泷说到底是谁传的周杰伦来了",
+      "onboard_time": 1774195280,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 54208,
       "num": 513601,
       "word": "漳州市市监局介入核实问题冻干草莓",
@@ -51801,6 +51833,14 @@
       "onboard_time": 1773106820,
       "rank": 48,
       "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 54107,
+      "num": 77867,
+      "word": "周杰伦太阳之子最终预告",
+      "onboard_time": 1774197439,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 54062,
@@ -53395,6 +53435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46705,
+      "num": 77851,
+      "word": "蔡依林酱板鸭小品",
+      "onboard_time": 1774194742,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 46678,
       "num": 188214,
       "word": "微信灰测双击标签显示所有未读",
@@ -53433,6 +53481,14 @@
       "onboard_time": 1772360483,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46568,
+      "num": 77837,
+      "word": "建议成年人每周力量锻炼2至3次",
+      "onboard_time": 1774196719,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 46525,

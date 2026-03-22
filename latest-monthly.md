@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/01 00:36:45 ~ 2026/03/22 23:49:55
+本榜单时间：2026/03/01 00:36:45 ~ 2026/03/23 00:40:53
 </p>
 </blockquote>
 <p>
@@ -2117,6 +2117,12 @@ MiuMiu（热度：931560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%81%E8%AE%B860%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%86%9C%E6%B0%91%E5%B7%A5%E7%BB%A7%E7%BB%AD%E5%8A%A1%E5%B7%A5%23" target="weibo">
 建议允许60岁以上农民工继续务工（热度：751728）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23G2%E5%AF%B9%E6%88%98BLG%23" target="weibo">
+G2对战BLG（热度：750716）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ AG对战KSG（热度：413997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%B8%9C%E5%9C%9F%E8%B1%AA5%E5%88%86%E9%92%9F%E6%89%93%E8%B5%8F%E5%9B%A2%E6%92%AD100%E4%B8%87%23" target="weibo">
 中东土豪5分钟打赏团播100万（热度：413743）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B8%8D%E6%9F%93%E5%8F%91%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%96%9C%E6%AC%A2%E9%BB%91%E8%89%B2%23" target="weibo">
-杨紫不染发是因为大家喜欢黑色（热度：413600）
 </a>
 </li>
 
