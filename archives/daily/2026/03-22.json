@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774184825185,
+  "endTime": 1774186075234,
   "band_list": [
     {
       "raw_hot": 2295364,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 483869,
+      "num": 483869,
+      "word": "周也 毛利兰",
+      "onboard_time": 1774183942,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 479132,
       "num": 164835,
       "word": "新疆一处沙漠惊现沙尘豹",
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372536,
+      "num": 238764,
+      "word": "伊朗媒体称伊官员提出停战六项条件",
+      "onboard_time": 1774183460,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 371025,
       "num": 229562,
       "word": "小猫嫌弃自己脚臭",
@@ -377,6 +393,14 @@
       "onboard_time": 1774144881,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359188,
+      "num": 236515,
+      "word": "金价上演断崖式下跌",
+      "onboard_time": 1774180041,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 357881,
@@ -523,20 +547,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 257449,
-      "num": 238764,
-      "word": "伊朗媒体称伊官员提出停战六项条件",
-      "onboard_time": 1774183460,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 254455,
       "num": 169470,
       "word": "逐玉 盗版没弹幕快乐少一半",
       "onboard_time": 1774143261,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249934,
+      "num": 796641,
+      "word": "双汇王中王火腿肠被曝吃出两根钢钉",
+      "onboard_time": 1774182441,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248035,
@@ -593,14 +617,6 @@
       "onboard_time": 1774155921,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 236515,
-      "num": 236515,
-      "word": "金价上演断崖式下跌",
-      "onboard_time": 1774180041,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 236112,
@@ -715,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224515,
+      "num": 759261,
+      "word": "迪士尼平替把多少县城父母骗惨了",
+      "onboard_time": 1774178060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224180,
       "num": 213681,
       "word": "英国男星死在普吉岛排水沟",
@@ -763,14 +787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211903,
-      "num": 759261,
-      "word": "迪士尼平替把多少县城父母骗惨了",
-      "onboard_time": 1774178060,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210887,
       "num": 173200,
       "word": "猥亵女孩民警曾被吸毒者刺伤耽误婚期",
@@ -809,14 +825,6 @@
       "onboard_time": 1774160421,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198134,
-      "num": 240393,
-      "word": "周也 毛利兰",
-      "onboard_time": 1774183942,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 198045,
@@ -907,6 +915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181523,
+      "num": 181523,
+      "word": "中国石化提示提前错峰加油",
+      "onboard_time": 1774185203,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179936,
       "num": 214858,
       "word": "牛马面包",
@@ -995,12 +1011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153163,
-      "num": 238399,
-      "word": "双汇王中王火腿肠被曝吃出两根钢钉",
-      "onboard_time": 1774182441,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 152995,
+      "num": 152995,
+      "word": "内娱男流量五官大赏",
+      "onboard_time": 1774184242,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 152313,
@@ -1043,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146729,
+      "num": 126725,
+      "word": "苍兰诀",
+      "onboard_time": 1774185562,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146581,
       "num": 146581,
       "word": "挟猫妈以令诸咪",
@@ -1057,6 +1081,38 @@
       "onboard_time": 1774153880,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144873,
+      "num": 228279,
+      "word": "汪顺亚军",
+      "onboard_time": 1774183101,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143800,
+      "num": 110554,
+      "word": "齐旻从未想过杀掉母妃",
+      "onboard_time": 1774184303,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142628,
+      "num": 126351,
+      "word": "方可能不能不遮热巴的太阳穴",
+      "onboard_time": 1774184303,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141990,
+      "num": 139071,
+      "word": "范世錡直播",
+      "onboard_time": 1774179080,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 140287,
@@ -1091,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139071,
-      "num": 139071,
-      "word": "范世錡直播",
-      "onboard_time": 1774179080,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136909,
       "num": 136909,
       "word": "警方介入女子追打2岁宝宝",
@@ -1123,20 +1171,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134471,
-      "num": 134471,
-      "word": "内娱男流量五官大赏",
-      "onboard_time": 1774184242,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133886,
       "num": 133886,
       "word": "梅姨难抓或是因为长相太普通",
       "onboard_time": 1774156280,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132873,
+      "num": 124273,
+      "word": "逐玉爱奇艺直播要会员",
+      "onboard_time": 1774184181,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 131980,
@@ -1163,12 +1211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124273,
-      "num": 124273,
-      "word": "逐玉爱奇艺直播要会员",
-      "onboard_time": 1774184181,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 125041,
+      "num": 125041,
+      "word": "G2对战BLG",
+      "onboard_time": 1774183520,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 122635,
@@ -1185,14 +1233,6 @@
       "onboard_time": 1774170441,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120745,
-      "num": 228279,
-      "word": "汪顺亚军",
-      "onboard_time": 1774183101,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 120451,
@@ -1216,6 +1256,14 @@
       "word": "虞书欣云初令杀青上班路透",
       "onboard_time": 1774151301,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117793,
+      "num": 181582,
+      "word": "冬去春来",
+      "onboard_time": 1774109483,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1259,12 +1307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110554,
-      "num": 110554,
-      "word": "齐旻从未想过杀掉母妃",
-      "onboard_time": 1774184303,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 111171,
+      "num": 112554,
+      "word": "武汉女孩8天胖8斤喊话顺德道歉",
+      "onboard_time": 1774182741,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109388,
@@ -1315,14 +1363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 104924,
-      "num": 99857,
-      "word": "方可能不能不遮热巴的太阳穴",
-      "onboard_time": 1774184303,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102670,
       "num": 102670,
       "word": "78岁女子撞死苹果高管一家被判缓刑",
@@ -1337,14 +1377,6 @@
       "onboard_time": 1774095621,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101986,
-      "num": 112554,
-      "word": "武汉女孩8天胖8斤喊话顺德道歉",
-      "onboard_time": 1774182741,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100851,
@@ -1369,14 +1401,6 @@
       "onboard_time": 1774162339,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100260,
-      "num": 100260,
-      "word": "G2对战BLG",
-      "onboard_time": 1774183520,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 99640,
@@ -1507,14 +1531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92232,
-      "num": 181582,
-      "word": "冬去春来",
-      "onboard_time": 1774109483,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91636,
       "num": 91636,
       "word": "伊朗武装部队称已从防御转为进攻",
@@ -1529,6 +1545,22 @@
       "onboard_time": 1774180402,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90728,
+      "num": 90728,
+      "word": "AG花花独狼吃鸡",
+      "onboard_time": 1774185862,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 90163,
+      "num": 90163,
+      "word": "逐玉像两波编剧在打架",
+      "onboard_time": 1774185682,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 88490,
@@ -1571,12 +1603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85704,
+      "num": 85704,
+      "word": "专家称黄金被套的投资者确实很多",
+      "onboard_time": 1774182682,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84562,
       "num": 84562,
       "word": "我家那小子",
       "onboard_time": 1774156822,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83537,
+      "num": 83537,
+      "word": "冬去春来半小时破三",
+      "onboard_time": 1774185442,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 83485,
@@ -1707,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78136,
+      "num": 78136,
+      "word": "2026全球先锋赛",
+      "onboard_time": 1774185803,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78061,
       "num": 78061,
       "word": "中国股市债市规模均位居全球第二",
@@ -1819,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75880,
+      "num": 158624,
+      "word": "珲春一国道现巨鸟过马路",
+      "onboard_time": 1774183582,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75350,
       "num": 75350,
       "word": "重庆大学电镜中心耗资1.2亿元建成",
@@ -1897,14 +1961,6 @@
       "onboard_time": 1774147161,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72671,
-      "num": 72671,
-      "word": "专家称黄金被套的投资者确实很多",
-      "onboard_time": 1774182682,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 72551,
@@ -2291,14 +2347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62010,
-      "num": 158624,
-      "word": "珲春一国道现巨鸟过马路",
-      "onboard_time": 1774183582,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61777,
       "num": 61777,
       "word": "江波龙实控人姐弟身家暴涨超400亿",
@@ -2529,6 +2577,14 @@
       "onboard_time": 1774123334,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52376,
+      "num": 83732,
+      "word": "展轩8年前说从头开始",
+      "onboard_time": 1774180882,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 51885,
@@ -2875,6 +2931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17267,
+      "num": 617363,
+      "word": "9组数据见证大国治水生动画卷",
+      "onboard_time": 1774184242,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15900,
       "num": 76350,
       "word": "濮院高定时尚周",
@@ -2913,14 +2977,6 @@
       "onboard_time": 1774088902,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 11669,
-      "num": 617363,
-      "word": "9组数据见证大国治水生动画卷",
-      "onboard_time": 1774184242,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10869,

@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774184825185,
+  "endTime": 1774186075234,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -6115,6 +6115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 483869,
+      "num": 483869,
+      "word": "周也 毛利兰",
+      "onboard_time": 1774183942,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 483579,
       "num": 1077372,
       "word": "去机场不该比坐飞机时间还长",
@@ -9227,6 +9235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372536,
+      "num": 238764,
+      "word": "伊朗媒体称伊官员提出停战六项条件",
+      "onboard_time": 1774183460,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 372518,
       "num": 335821,
       "word": "钎九不清冰合照",
@@ -9657,6 +9673,14 @@
       "onboard_time": 1773881242,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359188,
+      "num": 236515,
+      "word": "金价上演断崖式下跌",
+      "onboard_time": 1774180041,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 359088,
@@ -14299,14 +14323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257449,
-      "num": 238764,
-      "word": "伊朗媒体称伊官员提出停战六项条件",
-      "onboard_time": 1774183460,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 257390,
       "num": 257390,
       "word": "315晚会曝光AI大模型被投毒",
@@ -14752,6 +14768,14 @@
       "word": "男子维权被12315工作人员嘲讽",
       "onboard_time": 1773411503,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249934,
+      "num": 796641,
+      "word": "双汇王中王火腿肠被曝吃出两根钢钉",
+      "onboard_time": 1774182441,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -15619,14 +15643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236515,
-      "num": 236515,
-      "word": "金价上演断崖式下跌",
-      "onboard_time": 1774180041,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 236348,
       "num": 851472,
       "word": "元宵晚会节目单",
@@ -16465,6 +16481,14 @@
       "onboard_time": 1773538220,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224515,
+      "num": 759261,
+      "word": "迪士尼平替把多少县城父母骗惨了",
+      "onboard_time": 1774178060,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224424,
@@ -17515,14 +17539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211903,
-      "num": 759261,
-      "word": "迪士尼平替把多少县城父母骗惨了",
-      "onboard_time": 1774178060,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211886,
       "num": 140093,
       "word": "牛耕田",
@@ -18449,14 +18465,6 @@
       "onboard_time": 1773916581,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198134,
-      "num": 240393,
-      "word": "周也 毛利兰",
-      "onboard_time": 1774183942,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 198045,
@@ -19969,6 +19977,14 @@
       "onboard_time": 1772874142,
       "rank": 23,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 181523,
+      "num": 181523,
+      "word": "中国石化提示提前错峰加油",
+      "onboard_time": 1774185203,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181522,
@@ -23043,14 +23059,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153163,
-      "num": 238399,
-      "word": "双汇王中王火腿肠被曝吃出两根钢钉",
-      "onboard_time": 1774182441,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153110,
       "num": 153110,
       "word": "ILLIT新专logo被质疑抄袭BLACKPINK",
@@ -23065,6 +23073,14 @@
       "onboard_time": 1772537970,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 152995,
+      "num": 152995,
+      "word": "内娱男流量五官大赏",
+      "onboard_time": 1774184242,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 152969,
@@ -23971,6 +23987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146729,
+      "num": 126725,
+      "word": "苍兰诀",
+      "onboard_time": 1774185562,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146681,
       "num": 146681,
       "word": "曝周翊然竞争十日终焉被pass",
@@ -24267,6 +24291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 144873,
+      "num": 228279,
+      "word": "汪顺亚军",
+      "onboard_time": 1774183101,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144867,
       "num": 372211,
       "word": "TFING脚滑了",
@@ -24401,6 +24433,14 @@
       "onboard_time": 1773880643,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143800,
+      "num": 110554,
+      "word": "齐旻从未想过杀掉母妃",
+      "onboard_time": 1774184303,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 143744,
@@ -24603,6 +24643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142628,
+      "num": 126351,
+      "word": "方可能不能不遮热巴的太阳穴",
+      "onboard_time": 1774184303,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142568,
       "num": 417821,
       "word": "刘文祥 每家店味道不一样",
@@ -24761,6 +24809,14 @@
       "onboard_time": 1773476901,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141990,
+      "num": 139071,
+      "word": "范世錡直播",
+      "onboard_time": 1774179080,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 141844,
@@ -25097,14 +25153,6 @@
       "onboard_time": 1773721102,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139071,
-      "num": 139071,
-      "word": "范世錡直播",
-      "onboard_time": 1774179080,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 139025,
@@ -25787,14 +25835,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 134471,
-      "num": 134471,
-      "word": "内娱男流量五官大赏",
-      "onboard_time": 1774184242,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134371,
       "num": 131412,
       "word": "谢征什么叫我们没在一起过",
@@ -26041,6 +26081,14 @@
       "onboard_time": 1773895522,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132873,
+      "num": 124273,
+      "word": "逐玉爱奇艺直播要会员",
+      "onboard_time": 1774184181,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 132782,
@@ -27411,6 +27459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125041,
+      "num": 125041,
+      "word": "G2对战BLG",
+      "onboard_time": 1774183520,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124980,
       "num": 417498,
       "word": "建议提升教师待遇保障水平",
@@ -27536,14 +27592,6 @@
       "word": "代露娃唐诗逸开机路透",
       "onboard_time": 1773368542,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 124273,
-      "num": 124273,
-      "word": "逐玉爱奇艺直播要会员",
-      "onboard_time": 1774184181,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -28283,14 +28331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120745,
-      "num": 228279,
-      "word": "汪顺亚军",
-      "onboard_time": 1774183101,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120726,
       "num": 120726,
       "word": "A股半日放量1392亿",
@@ -28953,6 +28993,14 @@
       "onboard_time": 1772875281,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117793,
+      "num": 181582,
+      "word": "冬去春来",
+      "onboard_time": 1774109483,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 117742,
@@ -30443,6 +30491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111171,
+      "num": 112554,
+      "word": "武汉女孩8天胖8斤喊话顺德道歉",
+      "onboard_time": 1774182741,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111139,
       "num": 293335,
       "word": "穆祉丞官宣加入周五晚高疯",
@@ -30545,14 +30601,6 @@
       "onboard_time": 1773818781,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110554,
-      "num": 110554,
-      "word": "齐旻从未想过杀掉母妃",
-      "onboard_time": 1774184303,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 110504,
@@ -32083,14 +32131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104924,
-      "num": 99857,
-      "word": "方可能不能不遮热巴的太阳穴",
-      "onboard_time": 1774184303,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104917,
       "num": 141781,
       "word": "外卖到了白鹿就这样跑步迎接",
@@ -32843,14 +32883,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 101986,
-      "num": 112554,
-      "word": "武汉女孩8天胖8斤喊话顺德道歉",
-      "onboard_time": 1774182741,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101985,
       "num": 101985,
       "word": "县城美甲 千禧年遗址",
@@ -33489,14 +33521,6 @@
       "onboard_time": 1773821781,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100260,
-      "num": 100260,
-      "word": "G2对战BLG",
-      "onboard_time": 1774183520,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 100226,
@@ -36499,14 +36523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92232,
-      "num": 181582,
-      "word": "冬去春来",
-      "onboard_time": 1774109483,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92231,
       "num": 92231,
       "word": "女子体检医院出具三份不同CT报告",
@@ -37115,6 +37131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90728,
+      "num": 90728,
+      "word": "AG花花独狼吃鸡",
+      "onboard_time": 1774185862,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90721,
       "num": 155794,
       "word": "谭松韵新剧开局就扇巴掌",
@@ -37280,6 +37304,14 @@
       "word": "任豪李怀安看到和离书的眼神亮了",
       "onboard_time": 1773495861,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90163,
+      "num": 90163,
+      "word": "逐玉像两波编剧在打架",
+      "onboard_time": 1774185682,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -39203,6 +39235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85704,
+      "num": 85704,
+      "word": "专家称黄金被套的投资者确实很多",
+      "onboard_time": 1774182682,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85681,
       "num": 238162,
       "word": "建议促消费先要加工资",
@@ -39969,6 +40009,14 @@
       "onboard_time": 1773975560,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83537,
+      "num": 83537,
+      "word": "冬去春来半小时破三",
+      "onboard_time": 1774185442,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 83516,
@@ -42267,6 +42315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78136,
+      "num": 78136,
+      "word": "2026全球先锋赛",
+      "onboard_time": 1772494220,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78130,
       "num": 78130,
       "word": "朱桢悼念嫩娘",
@@ -43449,6 +43505,14 @@
       "onboard_time": 1774056321,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75880,
+      "num": 158624,
+      "word": "珲春一国道现巨鸟过马路",
+      "onboard_time": 1774183582,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75878,
@@ -44985,14 +45049,6 @@
       "onboard_time": 1774083382,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72671,
-      "num": 72671,
-      "word": "专家称黄金被套的投资者确实很多",
-      "onboard_time": 1774182682,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 72667,
@@ -49259,14 +49315,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 62010,
-      "num": 158624,
-      "word": "珲春一国道现巨鸟过马路",
-      "onboard_time": 1774183582,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61978,
       "num": 84628,
       "word": "校车司机聚餐后失联已超300天",
@@ -51793,6 +51841,14 @@
       "onboard_time": 1773908181,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52376,
+      "num": 83732,
+      "word": "展轩8年前说从头开始",
+      "onboard_time": 1774180882,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 52339,
@@ -57643,14 +57699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22140,
-      "num": 74577,
-      "word": "2026全球先锋赛",
-      "onboard_time": 1772494220,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 22126,
       "num": 106293,
       "word": "宋一国说大韩身高超过185cm",
@@ -58691,6 +58739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17267,
+      "num": 617363,
+      "word": "9组数据见证大国治水生动画卷",
+      "onboard_time": 1774184242,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17199,
       "num": 140358,
       "word": "猪肉价创7年新低",
@@ -59497,14 +59553,6 @@
       "onboard_time": 1773080055,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 11669,
-      "num": 617363,
-      "word": "9组数据见证大国治水生动画卷",
-      "onboard_time": 1774184242,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11649,
