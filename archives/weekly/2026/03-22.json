@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774212765479,
+  "endTime": 1774215334517,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -3355,12 +3355,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25219,
+      "raw_hot": 26230,
       "num": 30140,
       "word": "你好1983",
       "onboard_time": 1774199478,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24791,
+      "num": 17102,
+      "word": "G2",
+      "onboard_time": 1774214113,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 22840,
@@ -3481,6 +3489,14 @@
       "onboard_time": 1774207334,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15615,
+      "num": 17199,
+      "word": "BLG队史首个国际赛冠军",
+      "onboard_time": 1774214113,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 14479,
