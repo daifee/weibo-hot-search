@@ -1,0 +1,410 @@
+{
+  "runTime": 1774169986657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 460635,
+        "num": 1073701,
+        "word": "多校试点班主任退群",
+        "onboard_time": 1774164141,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353440,
+        "num": 779085,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774166181,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60138,
+        "num": 609926,
+        "word": "中国变压器在国外一器难求",
+        "onboard_time": 1774164920,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238176,
+        "num": 238176,
+        "word": "警方通报男子窜至某小区抢劫致1死",
+        "onboard_time": 1774162280,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 233793,
+        "num": 233793,
+        "word": "鸡鸣寺樱花",
+        "onboard_time": 1774164200,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 721070,
+        "num": 232357,
+        "word": "逐玉反盗版声明",
+        "onboard_time": 1774148660,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322525,
+        "num": 229562,
+        "word": "小猫嫌弃自己脚臭",
+        "onboard_time": 1774163960,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165518,
+        "num": 228197,
+        "word": "以色列拦截伊朗导弹失败瞬间",
+        "onboard_time": 1774159999,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131293,
+        "num": 225682,
+        "word": "梅姨在广州三元里落网为不实消息",
+        "onboard_time": 1774155020,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 112026,
+        "num": 222630,
+        "word": "徐若晗桃花坞第一大漏勺",
+        "onboard_time": 1774165040,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1249144,
+        "num": 221809,
+        "word": "辛芷蕾 多邻国",
+        "onboard_time": 1774167319,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296633,
+        "num": 218818,
+        "word": "女子久坐便血半年后确诊癌症晚期",
+        "onboard_time": 1774168100,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217702,
+        "num": 217702,
+        "word": "贾斯汀比伯Usher派对打架",
+        "onboard_time": 1774168581,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191942,
+        "num": 191942,
+        "word": "陈赫张子萱带女儿做客王祖蓝家",
+        "onboard_time": 1774165879,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189513,
+        "num": 189513,
+        "word": "沙特谴责伊朗",
+        "onboard_time": 1774163840,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185191,
+        "num": 185191,
+        "word": "壁上观",
+        "onboard_time": 1774165879,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176544,
+        "num": 176544,
+        "word": "猥亵15岁少女民警曾对自己行为极力否认",
+        "onboard_time": 1774168523,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125702,
+        "num": 125702,
+        "word": "英国男星死在普吉岛排水沟",
+        "onboard_time": 1774161800,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104154,
+        "num": 104154,
+        "word": "含娃量最高的小长假要来了",
+        "onboard_time": 1774164679,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82719,
+        "num": 82719,
+        "word": "半小时取鱼刺7小时修路震惊老外",
+        "onboard_time": 1774154541,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 781137,
+        "num": 82583,
+        "word": "王鸥 何九华",
+        "onboard_time": 1774166481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487243,
+        "num": 82531,
+        "word": "高以翔前女友BeIIa官宣怀孕",
+        "onboard_time": 1774159400,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365774,
+        "num": 82305,
+        "word": "国内油价将迎5连涨",
+        "onboard_time": 1774167140,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 232100,
+        "num": 82129,
+        "word": "陈慧敏怀孕了",
+        "onboard_time": 1774157120,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 185431,
+        "num": 82033,
+        "word": "刚洗完澡别在浴室吹头发",
+        "onboard_time": 1774166660,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105310,
+        "num": 81914,
+        "word": "网友给逐玉的建议",
+        "onboard_time": 1774161501,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104373,
+        "num": 81705,
+        "word": "葛夕回怼复合要求",
+        "onboard_time": 1774165580,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81633,
+        "num": 81633,
+        "word": "上班自备厕纸",
+        "onboard_time": 1774161442,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89782,
+        "num": 81510,
+        "word": "李嘉格没有不爱帅哥的义务",
+        "onboard_time": 1774167980,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68490,
+        "num": 81345,
+        "word": "广东横琴发布警情通报",
+        "onboard_time": 1774162280,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 81265,
+        "num": 81265,
+        "word": "Xteam晋级深渊九全球总决赛",
+        "onboard_time": 1774169422,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81181,
+        "num": 81181,
+        "word": "AI演员签约官宣",
+        "onboard_time": 1774150401,
+        "rank": 31,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 71091,
+        "num": 71091,
+        "word": "瞿颖西班牙 王俊凯新加坡",
+        "onboard_time": 1774160421,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68902,
+        "num": 68902,
+        "word": "伊朗称只对敌人关闭霍尔木兹海峡",
+        "onboard_time": 1774167441,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65843,
+        "num": 65843,
+        "word": "虞书欣杀青给粉丝鞠躬",
+        "onboard_time": 1774168280,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64747,
+        "num": 64747,
+        "word": "吐槽用水测评卫生巾",
+        "onboard_time": 1774167861,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64194,
+        "num": 64194,
+        "word": "新SU7北京开到上海仅充1次电",
+        "onboard_time": 1774168100,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 63925,
+        "num": 63925,
+        "word": "逐玉的兵 不贪盗版",
+        "onboard_time": 1774143020,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62213,
+        "num": 62213,
+        "word": "雷军回应新su7销量",
+        "onboard_time": 1774167800,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 59901,
+        "num": 59901,
+        "word": "这么多年误会执子之手了",
+        "onboard_time": 1774168819,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61592,
+        "num": 59695,
+        "word": "一诺职业病",
+        "onboard_time": 1774165580,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54924,
+        "num": 54924,
+        "word": "肉干你已经被小狗包围了",
+        "onboard_time": 1774169661,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54174,
+        "num": 54174,
+        "word": "你好1983 女频爽剧",
+        "onboard_time": 1774168762,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52672,
+        "num": 52672,
+        "word": "报喜不报忧的本质",
+        "onboard_time": 1774169120,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52600,
+        "num": 52600,
+        "word": "鞠婧祎月鳞绮纪预约近200万",
+        "onboard_time": 1774162339,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52387,
+        "num": 52387,
+        "word": "雨梦好牛",
+        "onboard_time": 1774167501,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51099,
+        "num": 51099,
+        "word": "穆祉丞的骑士精神",
+        "onboard_time": 1774169961,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50563,
+        "num": 50563,
+        "word": "希林娜依高伯克利七年没毕业",
+        "onboard_time": 1774150580,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49569,
+        "num": 49569,
+        "word": "华中师大放话想把冠军留在武汉",
+        "onboard_time": 1774169242,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48268,
+        "num": 48268,
+        "word": "詹姆斯超20项纪录历史第一",
+        "onboard_time": 1774166361,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记话正确政绩观#"
+    }
+  }
+}

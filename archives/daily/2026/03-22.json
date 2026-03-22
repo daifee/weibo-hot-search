@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774169078954,
+  "endTime": 1774169986657,
   "band_list": [
     {
       "raw_hot": 2295364,
@@ -9,6 +9,14 @@
       "onboard_time": 1774148660,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1249144,
+      "num": 221809,
+      "word": "辛芷蕾 多邻国",
+      "onboard_time": 1774167319,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1144240,
@@ -40,14 +48,6 @@
       "word": "高以翔前女友BeIIa官宣怀孕",
       "onboard_time": 1774159400,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 951188,
-      "num": 148803,
-      "word": "辛芷蕾 多邻国",
-      "onboard_time": 1774167319,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 371025,
-      "num": 197210,
+      "num": 229562,
       "word": "小猫嫌弃自己脚臭",
       "onboard_time": 1774163960,
       "rank": 6,
@@ -275,7 +275,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 349859,
+      "raw_hot": 353440,
       "num": 785452,
       "word": "月鳞绮纪",
       "onboard_time": 1774166181,
@@ -344,6 +344,14 @@
       "word": "男子反对加装电梯后反悔遭全楼反对",
       "onboard_time": 1774135698,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296633,
+      "num": 218818,
+      "word": "女子久坐便血半年后确诊癌症晚期",
+      "onboard_time": 1774168100,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 233061,
-      "num": 148786,
+      "num": 189513,
       "word": "沙特谴责伊朗",
       "onboard_time": 1774163840,
       "rank": 24,
@@ -531,8 +539,16 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 217702,
+      "num": 217702,
+      "word": "贾斯汀比伯Usher派对打架",
+      "onboard_time": 1774168581,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216810,
-      "num": 148770,
+      "num": 191942,
       "word": "陈赫张子萱带女儿做客王祖蓝家",
       "onboard_time": 1774165879,
       "rank": 31,
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 193046,
-      "num": 193046,
+      "num": 222630,
       "word": "徐若晗桃花坞第一大漏勺",
       "onboard_time": 1774165040,
       "rank": 4,
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 186423,
-      "num": 148749,
+      "num": 185191,
       "word": "壁上观",
       "onboard_time": 1774165879,
       "rank": 34,
@@ -640,14 +656,6 @@
       "word": "梅姨被逮捕",
       "onboard_time": 1774064541,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183654,
-      "num": 148739,
-      "word": "女子久坐便血半年后确诊癌症晚期",
-      "onboard_time": 1774168100,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -683,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176544,
+      "num": 176544,
+      "word": "猥亵15岁少女民警曾对自己行为极力否认",
+      "onboard_time": 1774168523,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173636,
       "num": 185372,
       "word": "最快女护士张水华丽水马拉松夺冠",
@@ -713,14 +729,6 @@
       "onboard_time": 1774156521,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151777,
-      "num": 148718,
-      "word": "猥亵15岁少女民警曾对自己行为极力否认",
-      "onboard_time": 1774168523,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151285,
@@ -1099,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81265,
+      "num": 81265,
+      "word": "Xteam晋级深渊九全球总决赛",
+      "onboard_time": 1774169422,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78576,
       "num": 78576,
       "word": "武汉马拉松下起樱花雨",
@@ -1315,20 +1331,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68902,
+      "num": 68902,
+      "word": "伊朗称只对敌人关闭霍尔木兹海峡",
+      "onboard_time": 1774167441,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68581,
       "num": 68581,
       "word": "财经大V误导投资者获利超4000万",
       "onboard_time": 1774163179,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 68548,
-      "num": 68548,
-      "word": "贾斯汀比伯Usher派对打架",
-      "onboard_time": 1774168581,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 68307,
@@ -1425,6 +1441,14 @@
       "onboard_time": 1774153941,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64747,
+      "num": 64747,
+      "word": "吐槽用水测评卫生巾",
+      "onboard_time": 1774167861,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64730,
@@ -1563,14 +1587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 60977,
-      "num": 60977,
-      "word": "伊朗称只对敌人关闭霍尔木兹海峡",
-      "onboard_time": 1774167441,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 60349,
       "num": 60349,
       "word": "我在姥姥家的地位",
@@ -1579,11 +1595,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60082,
-      "num": 60082,
-      "word": "吐槽用水测评卫生巾",
-      "onboard_time": 1774167861,
-      "rank": 44,
+      "raw_hot": 60138,
+      "num": 617031,
+      "word": "中国变压器在国外一器难求",
+      "onboard_time": 1774164920,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1625,14 +1641,6 @@
       "onboard_time": 1774159820,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57970,
-      "num": 617031,
-      "word": "中国变压器在国外一器难求",
-      "onboard_time": 1774164920,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57688,
@@ -1683,6 +1691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 54924,
+      "num": 54924,
+      "word": "肉干你已经被小狗包围了",
+      "onboard_time": 1774169661,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 54888,
       "num": 54888,
       "word": "梅姨为何难抓",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1774160181,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 54174,
+      "num": 54174,
+      "word": "你好1983 女频爽剧",
+      "onboard_time": 1774168762,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 53852,
@@ -1731,6 +1755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52672,
+      "num": 52672,
+      "word": "报喜不报忧的本质",
+      "onboard_time": 1774169120,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 52520,
       "num": 52520,
       "word": "梅姨2年内拐卖9名儿童",
@@ -1755,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51099,
+      "num": 51099,
+      "word": "穆祉丞的骑士精神",
+      "onboard_time": 1774169961,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50260,
       "num": 181436,
       "word": "上次泄露还是亲爱的热爱的",
@@ -1771,12 +1811,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49569,
+      "num": 49569,
+      "word": "华中师大放话想把冠军留在武汉",
+      "onboard_time": 1774169242,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48467,
       "num": 181267,
       "word": "张真源 天气心情晚饭",
       "onboard_time": 1774110860,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48268,
+      "num": 48268,
+      "word": "詹姆斯超20项纪录历史第一",
+      "onboard_time": 1774166361,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 48062,
