@@ -1,0 +1,410 @@
+{
+  "runTime": 1774166249854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 579961,
+        "num": 1092793,
+        "word": "警方通报男子窜至某小区抢劫致1死",
+        "onboard_time": 1774162280,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 456360,
+        "num": 772283,
+        "word": "多校试点班主任退群",
+        "onboard_time": 1774164141,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48628,
+        "num": 612321,
+        "word": "中国变压器在国外一器难求",
+        "onboard_time": 1774164920,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210255,
+        "num": 210255,
+        "word": "梅姨在广州三元里落网为不实消息",
+        "onboard_time": 1774155020,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 193046,
+        "num": 193046,
+        "word": "徐若晗桃花坞第一大漏勺",
+        "onboard_time": 1774165040,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 940621,
+        "num": 190804,
+        "word": "逐玉反盗版声明",
+        "onboard_time": 1774148660,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371025,
+        "num": 186739,
+        "word": "小猫嫌弃自己脚臭",
+        "onboard_time": 1774163960,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232366,
+        "num": 185705,
+        "word": "以色列拦截伊朗导弹失败瞬间",
+        "onboard_time": 1774159999,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182314,
+        "num": 182314,
+        "word": "鸡鸣寺樱花",
+        "onboard_time": 1774164200,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131297,
+        "num": 131297,
+        "word": "周冬雨素颜录节目",
+        "onboard_time": 1774159999,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245331,
+        "num": 131195,
+        "word": "网友给逐玉的建议",
+        "onboard_time": 1774161501,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183769,
+        "num": 131047,
+        "word": "广东横琴发布警情通报",
+        "onboard_time": 1774162280,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 224180,
+        "num": 130585,
+        "word": "英国男星死在普吉岛排水沟",
+        "onboard_time": 1774161800,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160482,
+        "num": 130319,
+        "word": "瞿颖西班牙 王俊凯新加坡",
+        "onboard_time": 1774160421,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132533,
+        "num": 130166,
+        "word": "上班自备厕纸",
+        "onboard_time": 1774161442,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130065,
+        "num": 130065,
+        "word": "AI演员签约官宣",
+        "onboard_time": 1774150401,
+        "rank": 15,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 105834,
+        "num": 105834,
+        "word": "小猫不敢再随便熬夜了",
+        "onboard_time": 1774161200,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105607,
+        "num": 105607,
+        "word": "希林娜依高伯克利七年没毕业",
+        "onboard_time": 1774150580,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43828,
+        "num": 105205,
+        "word": "女子称被诱导买基金3年亏500万",
+        "onboard_time": 1774165580,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44873,
+        "num": 104940,
+        "word": "实验室爆炸致1死3伤谁该担责",
+        "onboard_time": 1774165340,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659796,
+        "num": 104497,
+        "word": "高以翔前女友BeIIa官宣怀孕",
+        "onboard_time": 1774159400,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280517,
+        "num": 103954,
+        "word": "陈慧敏怀孕了",
+        "onboard_time": 1774157120,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208300,
+        "num": 103262,
+        "word": "金价",
+        "onboard_time": 1774141340,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102881,
+        "num": 102881,
+        "word": "含娃量最高的小长假要来了",
+        "onboard_time": 1774164679,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101720,
+        "num": 101720,
+        "word": "沙特谴责伊朗",
+        "onboard_time": 1774163840,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100658,
+        "num": 100658,
+        "word": "半小时取鱼刺7小时修路震惊老外",
+        "onboard_time": 1774154541,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94878,
+        "num": 94878,
+        "word": "逐玉的兵 不贪盗版",
+        "onboard_time": 1774143020,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179936,
+        "num": 93051,
+        "word": "牛马面包",
+        "onboard_time": 1774160421,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88366,
+        "num": 88366,
+        "word": "葛夕回怼复合要求",
+        "onboard_time": 1774165580,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83586,
+        "num": 83586,
+        "word": "齐旻 烂人真心",
+        "onboard_time": 1774160062,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73433,
+        "num": 79485,
+        "word": "伊朗说允许非敌方船只通过霍尔木兹",
+        "onboard_time": 1774161200,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78573,
+        "num": 78573,
+        "word": "陈赫张子萱带女儿做客王祖蓝家",
+        "onboard_time": 1774165879,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77461,
+        "num": 77461,
+        "word": "鞠婧祎月鳞绮纪预约近200万",
+        "onboard_time": 1774162339,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70652,
+        "num": 77333,
+        "word": "校长回应江浙沪没有夜生活",
+        "onboard_time": 1774156220,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77251,
+        "num": 77251,
+        "word": "壁上观",
+        "onboard_time": 1774165879,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74853,
+        "num": 74853,
+        "word": "碧血蝉全阵容官宣",
+        "onboard_time": 1774160660,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70755,
+        "num": 70755,
+        "word": "张佳宁说单眼皮因拍戏变不回来了",
+        "onboard_time": 1774147701,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68967,
+        "num": 68967,
+        "word": "Hero确认进入季后赛",
+        "onboard_time": 1774165640,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37235,
+        "num": 68624,
+        "word": "一诺职业病",
+        "onboard_time": 1774165580,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29485,
+        "num": 68587,
+        "word": "英海军核潜艇水兵曝出吸毒丑闻",
+        "onboard_time": 1774165040,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68581,
+        "num": 68581,
+        "word": "财经大V误导投资者获利超4000万",
+        "onboard_time": 1774163179,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 68392,
+        "num": 68392,
+        "word": "逐玉男配林沐然涨粉101万",
+        "onboard_time": 1774154060,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64457,
+        "num": 64457,
+        "word": "大熊猫摔到地上有多Q弹",
+        "onboard_time": 1774162821,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62106,
+        "num": 62106,
+        "word": "陈飞宇迪丽热巴5年前拍的杂志",
+        "onboard_time": 1774154360,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60743,
+        "num": 60743,
+        "word": "一诺加盟我家那小子",
+        "onboard_time": 1774156521,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60598,
+        "num": 60598,
+        "word": "靳磊任深圳市委书记",
+        "onboard_time": 1774155921,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60349,
+        "num": 60349,
+        "word": "我在姥姥家的地位",
+        "onboard_time": 1774165040,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55754,
+        "num": 55754,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774166181,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55049,
+        "num": 55049,
+        "word": "丈夫家暴后第一时间改银行卡密码",
+        "onboard_time": 1774162100,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48062,
+        "num": 53577,
+        "word": "马斯克拟建全球最大芯片厂",
+        "onboard_time": 1774164200,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记话正确政绩观#"
+    }
+  }
+}
