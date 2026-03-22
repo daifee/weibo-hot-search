@@ -1,21 +1,21 @@
 {
   "startTime": 1774197653930,
-  "endTime": 1774198563666,
+  "endTime": 1774200801699,
   "band_list": [
     {
-      "raw_hot": 1541346,
-      "num": 341880,
-      "word": "BLG夺冠",
-      "onboard_time": 1774197920,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 1481824,
-      "num": 254819,
+      "raw_hot": 2927069,
+      "num": 2927069,
       "word": "Bin是世一上",
       "onboard_time": 1774198160,
       "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1541346,
+      "num": 1360669,
+      "word": "BLG夺冠",
+      "onboard_time": 1774197920,
+      "rank": 3,
       "category": "电竞"
     },
     {
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135853,
+      "num": 135853,
+      "word": "Viper两连冠",
+      "onboard_time": 1774200378,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120323,
       "num": 120323,
       "word": "张翅回应请粉丝在家里吃饭",
@@ -179,6 +187,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 103389,
+      "num": 103389,
+      "word": "Bin FMVP",
+      "onboard_time": 1774199897,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99984,
       "num": 471339,
       "word": "伊朗导弹绕过以色列拦截弹",
@@ -192,6 +208,14 @@
       "word": "律师解读梅姨照片为何暂不公开",
       "onboard_time": 1774188564,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98706,
+      "num": 98706,
+      "word": "央视曝活鱼被人为麻醉乱象",
+      "onboard_time": 1774198038,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -411,16 +435,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39043,
-      "num": 62967,
-      "word": "央视曝活鱼被人为麻醉乱象",
-      "onboard_time": 1774198038,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 28982,
+      "num": 52289,
+      "word": "Knight的决赛宣言",
+      "onboard_time": 1774199238,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 26755,
+      "num": 52278,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1774186581,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 12884,
-      "num": 530703,
+      "num": 553185,
       "word": "9组数据见证大国治水生动画卷",
       "onboard_time": 1774184242,
       "rank": 2,

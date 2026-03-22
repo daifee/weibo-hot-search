@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774198563666,
+  "endTime": 1774200801699,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -169,6 +169,14 @@
       "onboard_time": 1773129145,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2927069,
+      "num": 2927069,
+      "word": "Bin是世一上",
+      "onboard_time": 1774198160,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 2857817,
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 1541346,
-      "num": 341880,
+      "num": 1360669,
       "word": "BLG夺冠",
       "onboard_time": 1774197920,
       "rank": 3,
@@ -665,14 +673,6 @@
       "onboard_time": 1774006161,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1481824,
-      "num": 254819,
-      "word": "Bin是世一上",
-      "onboard_time": 1774198160,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 1480004,
@@ -25707,6 +25707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135853,
+      "num": 135853,
+      "word": "Viper两连冠",
+      "onboard_time": 1774200378,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135791,
       "num": 135791,
       "word": "5岁男童总腿疼以为长个子确诊白血病",
@@ -32763,6 +32771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 103389,
+      "num": 103389,
+      "word": "Bin FMVP",
+      "onboard_time": 1774199897,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103347,
       "num": 103347,
       "word": "naiyou蝎子出装",
@@ -34449,6 +34465,14 @@
       "onboard_time": 1772624603,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98706,
+      "num": 98706,
+      "word": "央视曝活鱼被人为麻醉乱象",
+      "onboard_time": 1774198038,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98705,
@@ -54955,14 +54979,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 39043,
-      "num": 62967,
-      "word": "央视曝活鱼被人为麻醉乱象",
-      "onboard_time": 1774198038,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39039,
       "num": 72864,
       "word": "平台订房付1471元酒店仅收到618元",
@@ -56937,6 +56953,14 @@
       "onboard_time": 1772681004,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28982,
+      "num": 52289,
+      "word": "Knight的决赛宣言",
+      "onboard_time": 1774199238,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 28850,

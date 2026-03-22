@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774198563666,
+  "endTime": 1774200801699,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -969,6 +969,14 @@
       "onboard_time": 1767177980,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2927069,
+      "num": 2927069,
+      "word": "Bin是世一上",
+      "onboard_time": 1774198160,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 2901090,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1770881719,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1645072,
-      "num": 1645072,
-      "word": "伊朗反击",
-      "onboard_time": 1772267605,
-      "rank": 4,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
