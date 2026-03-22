@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774193708996,
+  "endTime": 1774194595103,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -747,6 +747,14 @@
       "category": "舆论监督,网红"
     },
     {
+      "raw_hot": 1436663,
+      "num": 748168,
+      "word": "观音桥车祸",
+      "onboard_time": 1774191982,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1432959,
       "num": 1179311,
       "word": "小巷人家2官宣",
@@ -1433,14 +1441,6 @@
       "onboard_time": 1772779462,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1039903,
-      "num": 748168,
-      "word": "观音桥车祸",
-      "onboard_time": 1774191982,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1035808,
@@ -15100,7 +15100,7 @@
     },
     {
       "raw_hot": 245903,
-      "num": 761494,
+      "num": 771936,
       "word": "高市早苗称访美照夸张系因太感动",
       "onboard_time": 1774189763,
       "rank": 36,
@@ -18843,6 +18843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195374,
+      "num": 159271,
+      "word": "迪丽热巴化妆王崇",
+      "onboard_time": 1774193663,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195336,
       "num": 195336,
       "word": "狗头萝莉素颜",
@@ -22353,14 +22361,6 @@
       "onboard_time": 1772537550,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 159271,
-      "num": 159271,
-      "word": "迪丽热巴化妆王崇",
-      "onboard_time": 1774193663,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 159264,
@@ -31299,6 +31299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108685,
+      "num": 162732,
+      "word": "i人梦中情岗已有48人报名缴费",
+      "onboard_time": 1774192761,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108634,
       "num": 739206,
       "word": "上海一爆火小吃店煎包5毛胡辣汤3元",
@@ -38987,14 +38995,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 86738,
-      "num": 151493,
-      "word": "i人梦中情岗已有48人报名缴费",
-      "onboard_time": 1774192761,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86681,
       "num": 86681,
       "word": "老一辈助眠就是没轻没重",
@@ -43523,6 +43523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76495,
+      "num": 75345,
+      "word": "赵樱子无美颜素颜直播",
+      "onboard_time": 1774193422,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76485,
       "num": 76485,
       "word": "字节超60亿美元出售沐瞳科技",
@@ -43953,6 +43961,14 @@
       "onboard_time": 1773308541,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75504,
+      "num": 75504,
+      "word": "美媒称伊朗军力影响远超中东地区",
+      "onboard_time": 1774194142,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75475,
@@ -44585,14 +44601,6 @@
       "onboard_time": 1772781981,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 74387,
-      "num": 74387,
-      "word": "赵樱子无美颜素颜直播",
-      "onboard_time": 1774193422,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 74377,
@@ -45641,6 +45649,14 @@
       "onboard_time": 1773040100,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 72095,
+      "num": 75311,
+      "word": "十年前的韩剧还在我的虐剧TOP1里",
+      "onboard_time": 1774193961,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 72056,
@@ -51235,6 +51251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56487,
+      "num": 751898,
+      "word": "BLG打G2扳平比分",
+      "onboard_time": 1774192522,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56463,
       "num": 204848,
       "word": "全国政协十四届四次会议会期7天",
@@ -52425,6 +52449,14 @@
       "onboard_time": 1773810382,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50588,
+      "num": 74615,
+      "word": "汪顺说下一站冠军赛",
+      "onboard_time": 1774193482,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 50537,
@@ -54561,14 +54593,6 @@
       "onboard_time": 1773477742,
       "rank": 28,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 40364,
-      "num": 751898,
-      "word": "BLG打G2扳平比分",
-      "onboard_time": 1774192522,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 40359,
