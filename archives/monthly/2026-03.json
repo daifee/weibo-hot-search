@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774200801699,
+  "endTime": 1774201920074,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -21227,6 +21227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169409,
+      "num": 169409,
+      "word": "央视曝活鱼被人为麻醉乱象",
+      "onboard_time": 1774198038,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169350,
       "num": 373702,
       "word": "伊朗反击进入新阶段",
@@ -25075,6 +25083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141023,
+      "num": 141023,
+      "word": "Viper两连冠",
+      "onboard_time": 1774200378,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141001,
       "num": 141001,
       "word": "胡兵要去papi节目了",
@@ -25705,14 +25721,6 @@
       "onboard_time": 1773497844,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135853,
-      "num": 135853,
-      "word": "Viper两连冠",
-      "onboard_time": 1774200378,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 135791,
@@ -34465,14 +34473,6 @@
       "onboard_time": 1772624603,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98706,
-      "num": 98706,
-      "word": "央视曝活鱼被人为麻醉乱象",
-      "onboard_time": 1774198038,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98705,
@@ -56417,6 +56417,14 @@
       "onboard_time": 1773670644,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31663,
+      "num": 31663,
+      "word": "谢霆锋演唱会",
+      "onboard_time": 1774201276,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 31454,

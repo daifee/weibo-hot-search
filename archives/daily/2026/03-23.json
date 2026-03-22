@@ -1,6 +1,6 @@
 {
   "startTime": 1774197653930,
-  "endTime": 1774200801699,
+  "endTime": 1774201920074,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169409,
+      "num": 169409,
+      "word": "央视曝活鱼被人为麻醉乱象",
+      "onboard_time": 1774198038,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147945,
       "num": 479863,
       "word": "逐玉直播",
@@ -107,8 +115,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135853,
-      "num": 135853,
+      "raw_hot": 141023,
+      "num": 141023,
       "word": "Viper两连冠",
       "onboard_time": 1774200378,
       "rank": 6,
@@ -208,14 +216,6 @@
       "word": "律师解读梅姨照片为何暂不公开",
       "onboard_time": 1774188564,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98706,
-      "num": 98706,
-      "word": "央视曝活鱼被人为麻醉乱象",
-      "onboard_time": 1774198038,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31663,
+      "num": 31663,
+      "word": "谢霆锋演唱会",
+      "onboard_time": 1774201276,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 28982,
       "num": 52289,
       "word": "Knight的决赛宣言",
@@ -449,6 +457,14 @@
       "onboard_time": 1774186581,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25219,
+      "num": 30140,
+      "word": "你好1983",
+      "onboard_time": 1774199478,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 12884,
