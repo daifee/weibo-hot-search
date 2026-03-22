@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774188070207,
+  "endTime": 1774190216397,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -608,6 +608,14 @@
       "word": "爱吃毛肚的人天塌了",
       "onboard_time": 1773576866,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1531689,
+      "num": 1156583,
+      "word": "中国石化提示提前错峰加油",
+      "onboard_time": 1774185203,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1540,7 +1548,7 @@
     },
     {
       "raw_hot": 995415,
-      "num": 169583,
+      "num": 217369,
       "word": "高以翔前女友BeIIa官宣怀孕",
       "onboard_time": 1774159400,
       "rank": 23,
@@ -1609,14 +1617,6 @@
       "onboard_time": 1772495781,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 978648,
-      "num": 1156583,
-      "word": "中国石化提示提前错峰加油",
-      "onboard_time": 1774185203,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 976720,
@@ -1883,6 +1883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 923421,
+      "num": 470266,
+      "word": "苍兰诀",
+      "onboard_time": 1774185562,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 922479,
       "num": 440459,
       "word": "李羲承 ENHYPEN",
@@ -2012,7 +2020,7 @@
     },
     {
       "raw_hot": 884079,
-      "num": 189865,
+      "num": 218019,
       "word": "王鸥 何九华",
       "onboard_time": 1774166481,
       "rank": 20,
@@ -4868,7 +4876,7 @@
     },
     {
       "raw_hot": 557807,
-      "num": 192897,
+      "num": 217508,
       "word": "茂茂你终于结婚生子了",
       "onboard_time": 1774183042,
       "rank": 20,
@@ -5017,14 +5025,6 @@
       "onboard_time": 1773963559,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 546070,
-      "num": 335492,
-      "word": "苍兰诀",
-      "onboard_time": 1774185562,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 546014,
@@ -6193,6 +6193,14 @@
       "onboard_time": 1773070701,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 480866,
+      "num": 1076938,
+      "word": "央视曝光活鱼麻醉剂滥用乱象",
+      "onboard_time": 1774187363,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 480818,
@@ -8049,6 +8057,14 @@
       "onboard_time": 1772361681,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 411543,
+      "num": 218893,
+      "word": "李帝努 电子烟",
+      "onboard_time": 1774186763,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 411435,
@@ -11595,6 +11611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311430,
+      "num": 218485,
+      "word": "内娱男流量五官大赏",
+      "onboard_time": 1774184242,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311171,
       "num": 916937,
       "word": "白日提灯",
@@ -12507,6 +12531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 293382,
+      "num": 217716,
+      "word": "长期运动可以解决生活中很多问题",
+      "onboard_time": 1774188023,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 293148,
       "num": 194210,
       "word": "20岁男子感染HIV后HPV反复发作",
@@ -12833,14 +12865,6 @@
       "onboard_time": 1773974902,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286081,
-      "num": 205837,
-      "word": "李帝努 电子烟",
-      "onboard_time": 1774186763,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 286044,
@@ -13217,14 +13241,6 @@
       "onboard_time": 1774101923,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279942,
-      "num": 200664,
-      "word": "内娱男流量五官大赏",
-      "onboard_time": 1774184242,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 279755,
@@ -17299,6 +17315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215661,
+      "num": 215661,
+      "word": "张翅回应请粉丝在家里吃饭",
+      "onboard_time": 1774189043,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215370,
       "num": 215370,
       "word": "TESnaiyou 假赛",
@@ -18737,14 +18761,6 @@
       "onboard_time": 1772289924,
       "rank": 6,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 195928,
-      "num": 172820,
-      "word": "长期运动可以解决生活中很多问题",
-      "onboard_time": 1774188023,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 195921,
@@ -20747,6 +20763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173474,
+      "num": 173474,
+      "word": "谢征受了108鞭",
+      "onboard_time": 1774190122,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173056,
       "num": 960647,
       "word": "原来忌口辛辣是忌这些",
@@ -21164,7 +21188,7 @@
     },
     {
       "raw_hot": 168909,
-      "num": 149114,
+      "num": 158224,
       "word": "范世錡直播",
       "onboard_time": 1774179080,
       "rank": 25,
@@ -21932,7 +21956,7 @@
     },
     {
       "raw_hot": 161924,
-      "num": 141991,
+      "num": 153228,
       "word": "齐旻从未想过杀掉母妃",
       "onboard_time": 1774184303,
       "rank": 31,
@@ -23259,6 +23283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152259,
+      "num": 220510,
+      "word": "律师解读梅姨照片为何暂不公开",
+      "onboard_time": 1774188564,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152229,
       "num": 152229,
       "word": "崔永熙首秀",
@@ -23649,6 +23681,14 @@
       "onboard_time": 1772589326,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148976,
+      "num": 148976,
+      "word": "张真源 青岛",
+      "onboard_time": 1774187542,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 148930,
@@ -24931,6 +24971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141139,
+      "num": 141139,
+      "word": "Jennie音乐节",
+      "onboard_time": 1774189704,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141134,
       "num": 141134,
       "word": "梅姨案有家庭认亲成功也未能团圆",
@@ -25169,6 +25217,14 @@
       "onboard_time": 1772719104,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139188,
+      "num": 220342,
+      "word": "G2团灭BLG",
+      "onboard_time": 1774188564,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 139136,
@@ -26377,6 +26433,14 @@
       "onboard_time": 1774076540,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131607,
+      "num": 150140,
+      "word": "曝伊朗导弹射程可覆盖欧洲多国首都",
+      "onboard_time": 1774187723,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131584,
@@ -29059,6 +29123,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 117614,
+      "num": 117614,
+      "word": "高市早苗称访美照夸张系因太感动",
+      "onboard_time": 1774189763,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117596,
       "num": 286081,
       "word": "张凌赫用了谢征进行曲",
@@ -29537,14 +29609,6 @@
       "onboard_time": 1773363621,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115186,
-      "num": 115186,
-      "word": "张真源 青岛",
-      "onboard_time": 1774187542,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 115159,
@@ -32124,7 +32188,7 @@
     },
     {
       "raw_hot": 105085,
-      "num": 105085,
+      "num": 111457,
       "word": "伊朗发起第74波打击",
       "onboard_time": 1774187124,
       "rank": 42,
@@ -33721,6 +33785,14 @@
       "onboard_time": 1773381861,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 99893,
+      "num": 117072,
+      "word": "张展硕冠军",
+      "onboard_time": 1774188502,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 99891,
@@ -35803,6 +35875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94089,
+      "num": 94089,
+      "word": "BLG状态",
+      "onboard_time": 1774189463,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94074,
       "num": 94074,
       "word": "吴艳妮为拉塞尔颁奖",
@@ -36361,6 +36441,14 @@
       "onboard_time": 1774073661,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92942,
+      "num": 219839,
+      "word": "G2打BLG先下一城",
+      "onboard_time": 1774189763,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 92926,
@@ -38531,6 +38619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87273,
+      "num": 87273,
+      "word": "LCK解说把BLG当韩国队",
+      "onboard_time": 1774188143,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87259,
       "num": 87259,
       "word": "在外婆家里翻出过期了26年的东西",
@@ -38881,6 +38977,14 @@
       "onboard_time": 1772873121,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86542,
+      "num": 86542,
+      "word": "AG五周四冠",
+      "onboard_time": 1774189401,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 86534,
@@ -40905,14 +41009,6 @@
       "onboard_time": 1772896103,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 81766,
-      "num": 114581,
-      "word": "曝伊朗导弹射程可覆盖欧洲多国首都",
-      "onboard_time": 1774187723,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81728,
@@ -47747,6 +47843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66040,
+      "num": 117057,
+      "word": "被告人因工资纠纷捅死9岁男孩",
+      "onboard_time": 1774189463,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66005,
       "num": 184181,
       "word": "有序扩大研究生培养规模",
@@ -53315,6 +53419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45689,
+      "num": 219277,
+      "word": "王鹤棣影视飓风雅迪",
+      "onboard_time": 1774186581,
+      "rank": 16,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 45609,
       "num": 90732,
       "word": "建议提高35岁以下群体个税起征点",
@@ -53457,14 +53569,6 @@
       "onboard_time": 1773411082,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44770,
-      "num": 191992,
-      "word": "王鹤棣影视飓风雅迪",
-      "onboard_time": 1774186581,
-      "rank": 16,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 44757,
@@ -55273,14 +55377,6 @@
       "onboard_time": 1773299722,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35535,
-      "num": 226277,
-      "word": "央视曝光活鱼麻醉剂滥用乱象",
-      "onboard_time": 1774187363,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 35523,
@@ -57953,6 +58049,14 @@
       "onboard_time": 1773835222,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21377,
+      "num": 218312,
+      "word": "火腿商贩在库房喷敌敌畏防虫",
+      "onboard_time": 1774189763,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 21323,
