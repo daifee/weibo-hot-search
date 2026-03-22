@@ -1,10 +1,10 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774156178920,
+  "endTime": 1774159327944,
   "band_list": [
     {
       "raw_hot": 2295364,
-      "num": 334871,
+      "num": 448323,
       "word": "逐玉反盗版声明",
       "onboard_time": 1774148660,
       "rank": 5,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1073192,
-      "num": 150323,
+      "num": 236020,
       "word": "AI演员签约官宣",
       "onboard_time": 1774150401,
       "rank": 10,
@@ -51,6 +51,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 725543,
+      "num": 133286,
+      "word": "陈慧敏怀孕了",
+      "onboard_time": 1774157120,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 697896,
+      "num": 697896,
+      "word": "魏家凉皮汉堡",
+      "onboard_time": 1774154721,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 669363,
       "num": 191673,
       "word": "逐玉的兵 不贪盗版",
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 617869,
-      "num": 176473,
+      "num": 185838,
       "word": "张佳宁说单眼皮因拍戏变不回来了",
       "onboard_time": 1774147701,
       "rank": 41,
@@ -115,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476577,
+      "num": 476577,
+      "word": "顾客吃牛蛙天花板上掉出一条人腿",
+      "onboard_time": 1774157362,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467563,
       "num": 185501,
       "word": "逐玉 超点",
@@ -131,6 +155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 410725,
+      "num": 1065716,
+      "word": "梅姨在广州三元里落网为不实消息",
+      "onboard_time": 1774155020,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 408037,
       "num": 1065286,
       "word": "重庆大学通报实验室爆炸致伤亡",
@@ -144,6 +176,14 @@
       "word": "梅姨到哪也不出示身份证",
       "onboard_time": 1774105945,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403924,
+      "num": 340790,
+      "word": "梅姨",
+      "onboard_time": 1774154601,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -169,14 +209,6 @@
       "onboard_time": 1774151481,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 340790,
-      "num": 340790,
-      "word": "梅姨",
-      "onboard_time": 1774154601,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 338123,
@@ -227,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297783,
-      "num": 297783,
-      "word": "魏家凉皮汉堡",
-      "onboard_time": 1774154721,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 296770,
       "num": 296770,
       "word": "男子反对加装电梯后反悔遭全楼反对",
@@ -249,6 +273,14 @@
       "onboard_time": 1774143679,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278459,
+      "num": 777840,
+      "word": "半小时取鱼刺7小时修路震惊老外",
+      "onboard_time": 1774154541,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260334,
@@ -283,12 +315,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240817,
+      "num": 240817,
+      "word": "千问崩了",
+      "onboard_time": 1774154060,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 239452,
+      "num": 239452,
+      "word": "靳磊任深圳市委书记",
+      "onboard_time": 1774155921,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 235676,
       "num": 235676,
       "word": "季冠霖发文抵制AI",
       "onboard_time": 1774090342,
       "rank": 6,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 235418,
+      "num": 235418,
+      "word": "陈飞宇迪丽热巴5年前拍的杂志",
+      "onboard_time": 1774154360,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 231839,
@@ -347,20 +403,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212913,
+      "num": 236039,
+      "word": "逐玉男配林沐然涨粉101万",
+      "onboard_time": 1774154060,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210887,
       "num": 173200,
       "word": "猥亵女孩民警曾被吸毒者刺伤耽误婚期",
       "onboard_time": 1774149501,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210647,
-      "num": 140150,
-      "word": "陈飞宇迪丽热巴5年前拍的杂志",
-      "onboard_time": 1774154360,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 201134,
@@ -403,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183343,
+      "num": 183343,
+      "word": "校长回应江浙沪没有夜生活",
+      "onboard_time": 1774156220,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178257,
       "num": 182413,
       "word": "高市访问埋葬广岛原子弹投弹手公墓",
@@ -417,6 +481,14 @@
       "onboard_time": 1774147880,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173636,
+      "num": 173636,
+      "word": "最快女护士张水华丽水马拉松夺冠",
+      "onboard_time": 1774154721,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172880,
@@ -435,20 +507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170775,
-      "num": 170775,
-      "word": "半小时取鱼刺7小时修路震惊老外",
-      "onboard_time": 1774154541,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161530,
-      "num": 161530,
-      "word": "逐玉男配林沐然涨粉101万",
-      "onboard_time": 1774154060,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 170471,
+      "num": 170471,
+      "word": "一诺加盟我家那小子",
+      "onboard_time": 1774156521,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 151285,
@@ -531,27 +595,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136347,
-      "num": 136347,
-      "word": "靳磊任深圳市委书记",
-      "onboard_time": 1774155921,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 136256,
-      "num": 136256,
-      "word": "最快女护士张水华丽水马拉松夺冠",
-      "onboard_time": 1774154721,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134683,
       "num": 289223,
       "word": "出车祸私了后发现9级伤残",
       "onboard_time": 1774104984,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133886,
+      "num": 133886,
+      "word": "梅姨难抓或是因为长相太普通",
+      "onboard_time": 1774156280,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -587,14 +643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 118640,
-      "num": 150586,
-      "word": "梅姨在广州三元里落网为不实消息",
-      "onboard_time": 1774155020,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 118203,
       "num": 118203,
       "word": "虞书欣云初令杀青上班路透",
@@ -627,20 +675,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109439,
-      "num": 109439,
-      "word": "千问崩了",
-      "onboard_time": 1774154060,
-      "rank": 29,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 108480,
       "num": 150826,
       "word": "中国变压器全球爆火",
       "onboard_time": 1774146921,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107697,
+      "num": 107697,
+      "word": "桃花坞",
+      "onboard_time": 1774156521,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 106105,
@@ -739,6 +787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84562,
+      "num": 84562,
+      "word": "我家那小子",
+      "onboard_time": 1774156822,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83097,
       "num": 83097,
       "word": "羽毛球大降价",
@@ -761,6 +817,14 @@
       "onboard_time": 1774142900,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79902,
+      "num": 79902,
+      "word": "男子连续工作16小时后宿舍猝死",
+      "onboard_time": 1774157001,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78576,
@@ -795,12 +859,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76713,
+      "num": 76713,
+      "word": "84消毒液用错可能致罕见病",
+      "onboard_time": 1774158380,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 76356,
       "num": 182076,
       "word": "曝梁小龙去世两个月没下葬将停棺10年",
       "onboard_time": 1774076361,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76344,
+      "num": 76344,
+      "word": "雷霆奇才爆发大规模群殴",
+      "onboard_time": 1774157180,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 76292,
@@ -987,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64299,
+      "num": 64299,
+      "word": "伊朗再发警告",
+      "onboard_time": 1774156220,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64227,
       "num": 64227,
       "word": "全国多地加油站排长队",
@@ -1017,6 +1105,14 @@
       "onboard_time": 1774155500,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63672,
+      "num": 63672,
+      "word": "周深唱白日提灯ost",
+      "onboard_time": 1774158201,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 62754,
@@ -1091,12 +1187,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55469,
+      "num": 55469,
+      "word": "猫咪今天跟了个可怜的钓鱼佬",
+      "onboard_time": 1774157840,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 53299,
       "num": 181667,
       "word": "何与看烟花",
       "onboard_time": 1774107863,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53246,
+      "num": 136338,
+      "word": "香港大劫案5人落网73公斤黄金找回",
+      "onboard_time": 1774155741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53234,
+      "num": 53234,
+      "word": "背书背的是孔子的聊天记录",
+      "onboard_time": 1774159042,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 52520,
@@ -1251,14 +1371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33530,
-      "num": 136338,
-      "word": "香港大劫案5人落网73公斤黄金找回",
-      "onboard_time": 1774155741,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30138,
       "num": 627100,
       "word": "今天世界水日",
@@ -1324,7 +1436,7 @@
     },
     {
       "raw_hot": 22619,
-      "num": 604330,
+      "num": 709450,
       "word": "网警破获网络开盒案守护网络空间安全",
       "onboard_time": 1774144820,
       "rank": 2,

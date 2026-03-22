@@ -1,0 +1,410 @@
+{
+  "runTime": 1774159327944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 410725,
+        "num": 1065716,
+        "word": "梅姨在广州三元里落网为不实消息",
+        "onboard_time": 1774155020,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 278459,
+        "num": 777840,
+        "word": "半小时取鱼刺7小时修路震惊老外",
+        "onboard_time": 1774154541,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21740,
+        "num": 709450,
+        "word": "网警破获网络开盒案守护网络空间安全",
+        "onboard_time": 1774144820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697896,
+        "num": 697896,
+        "word": "魏家凉皮汉堡",
+        "onboard_time": 1774154721,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 476577,
+        "num": 476577,
+        "word": "顾客吃牛蛙天花板上掉出一条人腿",
+        "onboard_time": 1774157362,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1592952,
+        "num": 448323,
+        "word": "逐玉反盗版声明",
+        "onboard_time": 1774148660,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274184,
+        "num": 274184,
+        "word": "希林娜依高伯克利七年没毕业",
+        "onboard_time": 1774150580,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240817,
+        "num": 240817,
+        "word": "千问崩了",
+        "onboard_time": 1774154060,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 239452,
+        "num": 239452,
+        "word": "靳磊任深圳市委书记",
+        "onboard_time": 1774155921,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212913,
+        "num": 236039,
+        "word": "逐玉男配林沐然涨粉101万",
+        "onboard_time": 1774154060,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500804,
+        "num": 236020,
+        "word": "AI演员签约官宣",
+        "onboard_time": 1774150401,
+        "rank": 10,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 403924,
+        "num": 235960,
+        "word": "梅姨",
+        "onboard_time": 1774154601,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235418,
+        "num": 235418,
+        "word": "陈飞宇迪丽热巴5年前拍的杂志",
+        "onboard_time": 1774154360,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185838,
+        "num": 185838,
+        "word": "张佳宁说单眼皮因拍戏变不回来了",
+        "onboard_time": 1774147701,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183343,
+        "num": 183343,
+        "word": "校长回应江浙沪没有夜生活",
+        "onboard_time": 1774156220,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178430,
+        "num": 178430,
+        "word": "1200多家饭店拍黄瓜被举报",
+        "onboard_time": 1774149861,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174528,
+        "num": 174528,
+        "word": "逐玉的兵 不贪盗版",
+        "onboard_time": 1774143020,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173636,
+        "num": 173636,
+        "word": "最快女护士张水华丽水马拉松夺冠",
+        "onboard_time": 1774154721,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170471,
+        "num": 170471,
+        "word": "一诺加盟我家那小子",
+        "onboard_time": 1774156521,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133886,
+        "num": 133886,
+        "word": "梅姨难抓或是因为长相太普通",
+        "onboard_time": 1774156280,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725543,
+        "num": 133286,
+        "word": "陈慧敏怀孕了",
+        "onboard_time": 1774157120,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 625006,
+        "num": 132103,
+        "word": "金价",
+        "onboard_time": 1774141340,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130921,
+        "num": 130921,
+        "word": "梅姨假装答应同居老人领证后失联",
+        "onboard_time": 1774141880,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107972,
+        "num": 107972,
+        "word": "逐玉 盗版没弹幕快乐少一半",
+        "onboard_time": 1774143261,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107697,
+        "num": 107697,
+        "word": "桃花坞",
+        "onboard_time": 1774156521,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86921,
+        "num": 86921,
+        "word": "伊朗回应特朗普袭击电厂威胁",
+        "onboard_time": 1774143860,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102226,
+        "num": 86911,
+        "word": "逐玉亲到腿软的路透要播了",
+        "onboard_time": 1774150161,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85900,
+        "num": 85900,
+        "word": "虞书欣云初令杀青上班路透",
+        "onboard_time": 1774151301,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85343,
+        "num": 85343,
+        "word": "山东事业编",
+        "onboard_time": 1774153880,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94068,
+        "num": 85106,
+        "word": "逐玉 超点",
+        "onboard_time": 1774142300,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84562,
+        "num": 84562,
+        "word": "我家那小子",
+        "onboard_time": 1774156822,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80575,
+        "num": 80575,
+        "word": "警方介入女子追打2岁宝宝",
+        "onboard_time": 1774149861,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79902,
+        "num": 79902,
+        "word": "男子连续工作16小时后宿舍猝死",
+        "onboard_time": 1774157001,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78588,
+        "num": 78588,
+        "word": "新疆一处沙漠惊现沙尘豹",
+        "onboard_time": 1774143081,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76713,
+        "num": 76713,
+        "word": "84消毒液用错可能致罕见病",
+        "onboard_time": 1774158380,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76344,
+        "num": 76344,
+        "word": "雷霆奇才爆发大规模群殴",
+        "onboard_time": 1774157180,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73472,
+        "num": 73472,
+        "word": "伊朗官宣导弹工业将获满分",
+        "onboard_time": 1774151601,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 71016,
+        "num": 71016,
+        "word": "重庆大学电镜中心耗资1.2亿元建成",
+        "onboard_time": 1774155320,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65068,
+        "num": 65068,
+        "word": "刘宇宁直播麻药劲还没过",
+        "onboard_time": 1774144881,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64299,
+        "num": 64299,
+        "word": "伊朗再发警告",
+        "onboard_time": 1774156220,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63672,
+        "num": 63672,
+        "word": "周深唱白日提灯ost",
+        "onboard_time": 1774158201,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63626,
+        "num": 63626,
+        "word": "曝迪丽热巴团队重整",
+        "onboard_time": 1774151000,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63377,
+        "num": 63377,
+        "word": "梅姨到哪也不出示身份证",
+        "onboard_time": 1774105945,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60075,
+        "num": 60075,
+        "word": "美学者称伊朗战事对中国经济影响有限",
+        "onboard_time": 1774154961,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57676,
+        "num": 57676,
+        "word": "男子醉酒摸女孩胸部被高中生制服",
+        "onboard_time": 1774134676,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57406,
+        "num": 57406,
+        "word": "小米SU7Pro一充跑通京沪",
+        "onboard_time": 1774151240,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 55469,
+        "num": 55469,
+        "word": "猫咪今天跟了个可怜的钓鱼佬",
+        "onboard_time": 1774157840,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54250,
+        "num": 54250,
+        "word": "水原希子鞋子广告",
+        "onboard_time": 1774141761,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53246,
+        "num": 53246,
+        "word": "香港大劫案5人落网73公斤黄金找回",
+        "onboard_time": 1774155741,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53234,
+        "num": 53234,
+        "word": "背书背的是孔子的聊天记录",
+        "onboard_time": 1774159042,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系治水事业#"
+    }
+  }
+}
