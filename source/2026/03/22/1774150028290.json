@@ -1,0 +1,410 @@
+{
+  "runTime": 1774150028290,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 408037,
+        "num": 1065286,
+        "word": "重庆大学通报实验室爆炸致伤亡",
+        "onboard_time": 1774146621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269290,
+        "num": 791131,
+        "word": "梅姨到哪也不出示身份证",
+        "onboard_time": 1774105945,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14751,
+        "num": 622014,
+        "word": "今天世界水日",
+        "onboard_time": 1774146500,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329486,
+        "num": 329486,
+        "word": "希林娜依高回应伯克利没毕业",
+        "onboard_time": 1774147041,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192600,
+        "num": 192600,
+        "word": "男子因睡眠呼吸暂停1年撞坏3辆车",
+        "onboard_time": 1774137498,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2295364,
+        "num": 190370,
+        "word": "逐玉反盗版声明",
+        "onboard_time": 1774148660,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214693,
+        "num": 188346,
+        "word": "吃到了上学时独来独往的红利",
+        "onboard_time": 1774145120,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 389201,
+        "num": 182496,
+        "word": "逐玉 超点",
+        "onboard_time": 1774142300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202414,
+        "num": 180905,
+        "word": "伊朗回应特朗普袭击电厂威胁",
+        "onboard_time": 1774143860,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177379,
+        "num": 177379,
+        "word": "杜兰特超越乔丹位列历史得分榜第五",
+        "onboard_time": 1774147880,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 617869,
+        "num": 176473,
+        "word": "张佳宁说单眼皮因拍戏变不回来了",
+        "onboard_time": 1774147701,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458099,
+        "num": 174257,
+        "word": "逐玉的兵 不贪盗版",
+        "onboard_time": 1774143020,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210887,
+        "num": 173200,
+        "word": "猥亵女孩民警曾被吸毒者刺伤耽误婚期",
+        "onboard_time": 1774149501,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341438,
+        "num": 170406,
+        "word": "刘宇宁直播麻药劲还没过",
+        "onboard_time": 1774144881,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254455,
+        "num": 169470,
+        "word": "逐玉 盗版没弹幕快乐少一半",
+        "onboard_time": 1774143261,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 634351,
+        "num": 166006,
+        "word": "高市早苗访美照片遭日本网友怒喷",
+        "onboard_time": 1774145600,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207727,
+        "num": 164835,
+        "word": "新疆一处沙漠惊现沙尘豹",
+        "onboard_time": 1774143081,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185011,
+        "num": 163704,
+        "word": "水原希子鞋子广告",
+        "onboard_time": 1774141761,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161990,
+        "num": 161990,
+        "word": "男子反对加装电梯后反悔遭全楼反对",
+        "onboard_time": 1774135698,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155339,
+        "num": 155339,
+        "word": "在家吃饭可以懒到什么程度",
+        "onboard_time": 1774145000,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 723932,
+        "num": 154322,
+        "word": "梅姨假装答应同居老人领证后失联",
+        "onboard_time": 1774141880,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603125,
+        "num": 151962,
+        "word": "金价",
+        "onboard_time": 1774141340,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 282101,
+        "num": 151070,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1774078881,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182802,
+        "num": 149144,
+        "word": "腾讯视频收集逐玉盗版线索",
+        "onboard_time": 1774145120,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162917,
+        "num": 147123,
+        "word": "男子醉酒摸女孩胸部被高中生制服",
+        "onboard_time": 1774134676,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146581,
+        "num": 146581,
+        "word": "挟猫妈以令诸咪",
+        "onboard_time": 1774145720,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121519,
+        "num": 121519,
+        "word": "女子制售自拍淫秽视频获刑3年",
+        "onboard_time": 1774104744,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 108480,
+        "num": 108480,
+        "word": "中国变压器全球爆火",
+        "onboard_time": 1774146921,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105727,
+        "num": 105727,
+        "word": "伊朗16艘货船遭美以袭击",
+        "onboard_time": 1774140259,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100542,
+        "num": 100542,
+        "word": "苏州95后董事长高能量的一天",
+        "onboard_time": 1774148180,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100196,
+        "num": 100196,
+        "word": "肯纳德三分绝杀",
+        "onboard_time": 1774144519,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97033,
+        "num": 97033,
+        "word": "张元英水手服",
+        "onboard_time": 1774140140,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94444,
+        "num": 94444,
+        "word": "歌手演唱时被辱骂用话筒打人",
+        "onboard_time": 1774145541,
+        "rank": 32,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 89603,
+        "num": 89603,
+        "word": "伊朗超预期反击",
+        "onboard_time": 1774139299,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11176,
+        "num": 86500,
+        "word": "1200多家饭店拍黄瓜被举报",
+        "onboard_time": 1774149861,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83611,
+        "num": 83611,
+        "word": "薛之谦机器人",
+        "onboard_time": 1774142721,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80468,
+        "num": 80468,
+        "word": "被拐男孩称梅姨眼神是童年噩梦",
+        "onboard_time": 1774145660,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78576,
+        "num": 78576,
+        "word": "武汉马拉松下起樱花雨",
+        "onboard_time": 1774149021,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75969,
+        "num": 75969,
+        "word": "阿门绝杀热火",
+        "onboard_time": 1774149440,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27806,
+        "num": 74283,
+        "word": "警方介入女子追打2岁宝宝",
+        "onboard_time": 1774149861,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73790,
+        "num": 73790,
+        "word": "齐旻卑微跪求俞浅浅当他皇后",
+        "onboard_time": 1774137019,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73154,
+        "num": 73154,
+        "word": "当年亲爱的热爱的被泄漏反创新高",
+        "onboard_time": 1774106304,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70745,
+        "num": 70745,
+        "word": "机票价格兜底来了",
+        "onboard_time": 1774149440,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69630,
+        "num": 69630,
+        "word": "油价或重回9元时代",
+        "onboard_time": 1774148001,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 68307,
+        "num": 68307,
+        "word": "林孝埈将坐镇ELLEMEN四月刊封面",
+        "onboard_time": 1774149561,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68236,
+        "num": 68236,
+        "word": "贺峻霖半夜还在找桃花币",
+        "onboard_time": 1774139541,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67657,
+        "num": 67657,
+        "word": "羽毛球大降价",
+        "onboard_time": 1774147340,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59125,
+        "num": 59125,
+        "word": "消防员医护结婚领证尾号119遇120",
+        "onboard_time": 1774144101,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58375,
+        "num": 58375,
+        "word": "伊朗导弹袭击以核设施附近城市",
+        "onboard_time": 1774145720,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 57688,
+        "num": 57688,
+        "word": "官方回应新疆沙漠惊现雪豹",
+        "onboard_time": 1774149981,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系治水事业#"
+    }
+  }
+}

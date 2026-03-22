@@ -1,7 +1,15 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774147748467,
+  "endTime": 1774150028290,
   "band_list": [
+    {
+      "raw_hot": 2295364,
+      "num": 190370,
+      "word": "逐玉反盗版声明",
+      "onboard_time": 1774148660,
+      "rank": 5,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1144240,
       "num": 183252,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1064968,
-      "num": 150063,
+      "num": 154322,
       "word": "梅姨假装答应同居老人领证后失联",
       "onboard_time": 1774141880,
       "rank": 20,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 719981,
-      "num": 149984,
+      "num": 151962,
       "word": "金价",
       "onboard_time": 1774141340,
       "rank": 21,
@@ -43,12 +51,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 634351,
+      "num": 1071779,
+      "word": "高市早苗访美照片遭日本网友怒喷",
+      "onboard_time": 1774145600,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 628206,
       "num": 183025,
       "word": "逐玉 删戏份",
       "onboard_time": 1774098625,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 617869,
+      "num": 176473,
+      "word": "张佳宁说单眼皮因拍戏变不回来了",
+      "onboard_time": 1774147701,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 584297,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 479132,
-      "num": 150779,
+      "num": 164835,
       "word": "新疆一处沙漠惊现沙尘豹",
       "onboard_time": 1774143081,
       "rank": 10,
@@ -83,20 +107,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 448621,
-      "num": 1071779,
-      "word": "高市早苗访美照片遭日本网友怒喷",
-      "onboard_time": 1774145600,
-      "rank": 0,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 416788,
       "num": 416788,
       "word": "GEN对战G2",
       "onboard_time": 1774100424,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 408037,
+      "num": 1065286,
+      "word": "重庆大学通报实验室爆炸致伤亡",
+      "onboard_time": 1774146621,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406198,
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 367269,
-      "num": 150726,
+      "num": 170406,
       "word": "刘宇宁直播麻药劲还没过",
       "onboard_time": 1774144881,
       "rank": 11,
@@ -123,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329486,
+      "num": 329486,
+      "word": "希林娜依高回应伯克利没毕业",
+      "onboard_time": 1774147041,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326358,
       "num": 269971,
       "word": "当年亲爱的热爱的被泄漏反创新高",
@@ -132,7 +164,7 @@
     },
     {
       "raw_hot": 324792,
-      "num": 150627,
+      "num": 163704,
       "word": "水原希子鞋子广告",
       "onboard_time": 1774141761,
       "rank": 12,
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 320030,
-      "num": 178413,
+      "num": 180905,
       "word": "伊朗回应特朗普袭击电厂威胁",
       "onboard_time": 1774143860,
       "rank": 7,
@@ -187,6 +219,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 254455,
+      "num": 169470,
+      "word": "逐玉 盗版没弹幕快乐少一半",
+      "onboard_time": 1774143261,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248035,
       "num": 150269,
       "word": "腾讯视频收集逐玉盗版线索",
@@ -219,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228821,
-      "num": 150404,
-      "word": "逐玉 盗版没弹幕快乐少一半",
-      "onboard_time": 1774143261,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228025,
       "num": 228025,
       "word": "男子因睡眠呼吸暂停1年撞坏3辆车",
@@ -251,12 +283,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 203554,
-      "num": 150587,
+      "raw_hot": 214693,
+      "num": 188346,
       "word": "吃到了上学时独来独往的红利",
       "onboard_time": 1774145120,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 210887,
+      "num": 173200,
+      "word": "猥亵女孩民警曾被吸毒者刺伤耽误婚期",
+      "onboard_time": 1774149501,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201134,
@@ -307,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177379,
+      "num": 177379,
+      "word": "杜兰特超越乔丹位列历史得分榜第五",
+      "onboard_time": 1774147880,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172880,
       "num": 154081,
       "word": "伊朗称正在霍尔木兹采取重大行动",
@@ -316,19 +364,11 @@
     },
     {
       "raw_hot": 172232,
-      "num": 150180,
+      "num": 155339,
       "word": "在家吃饭可以懒到什么程度",
       "onboard_time": 1774145000,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169095,
-      "num": 150103,
-      "word": "重庆大学通报实验室爆炸致伤亡",
-      "onboard_time": 1774146621,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151285,
@@ -355,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148980,
-      "num": 148980,
-      "word": "希林娜依高回应伯克利没毕业",
-      "onboard_time": 1774147041,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 146581,
+      "num": 146581,
+      "word": "挟猫妈以令诸咪",
+      "onboard_time": 1774145720,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 140238,
@@ -443,12 +483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108480,
+      "num": 150826,
+      "word": "中国变压器全球爆火",
+      "onboard_time": 1774146921,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102145,
       "num": 183366,
       "word": "阿娇的邪修减肥法是刷牙",
       "onboard_time": 1774095621,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100542,
+      "num": 100542,
+      "word": "苏州95后董事长高能量的一天",
+      "onboard_time": 1774148180,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99640,
@@ -515,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90550,
-      "num": 90550,
-      "word": "挟猫妈以令诸咪",
-      "onboard_time": 1774145720,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 88231,
       "num": 127625,
       "word": "内塔尼亚胡鼓动地面进攻伊朗",
@@ -555,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78576,
+      "num": 78576,
+      "word": "武汉马拉松下起樱花雨",
+      "onboard_time": 1774149021,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77904,
       "num": 77904,
       "word": "白敬亭包场章若楠冬去春来",
@@ -571,20 +627,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 76717,
-      "num": 76717,
-      "word": "张佳宁说单眼皮因拍戏变不回来了",
-      "onboard_time": 1774147701,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76356,
       "num": 182076,
       "word": "曝梁小龙去世两个月没下葬将停棺10年",
       "onboard_time": 1774076361,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75969,
+      "num": 75969,
+      "word": "阿门绝杀热火",
+      "onboard_time": 1774149440,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 74888,
@@ -611,11 +667,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72682,
-      "num": 150826,
-      "word": "中国变压器全球爆火",
-      "onboard_time": 1774146921,
-      "rank": 9,
+      "raw_hot": 70745,
+      "num": 70745,
+      "word": "机票价格兜底来了",
+      "onboard_time": 1774149440,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -633,6 +689,22 @@
       "onboard_time": 1774100963,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69630,
+      "num": 69630,
+      "word": "油价或重回9元时代",
+      "onboard_time": 1774148001,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 68307,
+      "num": 68307,
+      "word": "林孝埈将坐镇ELLEMEN四月刊封面",
+      "onboard_time": 1774149561,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 68257,
@@ -729,6 +801,14 @@
       "onboard_time": 1774101323,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57688,
+      "num": 57688,
+      "word": "官方回应新疆沙漠惊现雪豹",
+      "onboard_time": 1774149981,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55693,
@@ -955,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27806,
+      "num": 74283,
+      "word": "警方介入女子追打2岁宝宝",
+      "onboard_time": 1774149861,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22840,
       "num": 101201,
       "word": "梅姨同居男友说她不戴首饰",
@@ -1049,6 +1137,14 @@
       "onboard_time": 1774088902,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 11176,
+      "num": 86500,
+      "word": "1200多家饭店拍黄瓜被举报",
+      "onboard_time": 1774149861,
+      "rank": 34,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
