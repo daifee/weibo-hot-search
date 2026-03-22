@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774215334517,
+  "endTime": 1774216209787,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -59275,6 +59275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17062,
+      "num": 17199,
+      "word": "BLG队史首个国际赛冠军",
+      "onboard_time": 1774214113,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 17044,
       "num": 130662,
       "word": "请姐姐姐夫三搭",
@@ -59569,14 +59577,6 @@
       "onboard_time": 1773824840,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15615,
-      "num": 17199,
-      "word": "BLG队史首个国际赛冠军",
-      "onboard_time": 1774214113,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 15610,

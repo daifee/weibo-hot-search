@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774215334517,
+  "endTime": 1774216209787,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -3179,6 +3179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 45265,
+      "num": 45265,
+      "word": "你好1983",
+      "onboard_time": 1774199478,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44031,
       "num": 123816,
       "word": "檀健次粉丝后吃",
@@ -3355,16 +3363,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26230,
-      "num": 30140,
-      "word": "你好1983",
-      "onboard_time": 1774199478,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 24791,
-      "num": 17102,
+      "num": 17206,
       "word": "G2",
       "onboard_time": 1774214113,
       "rank": 23,
@@ -3475,6 +3475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17062,
+      "num": 17199,
+      "word": "BLG队史首个国际赛冠军",
+      "onboard_time": 1774214113,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 15900,
       "num": 76350,
       "word": "濮院高定时尚周",
@@ -3489,14 +3497,6 @@
       "onboard_time": 1774207334,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15615,
-      "num": 17199,
-      "word": "BLG队史首个国际赛冠军",
-      "onboard_time": 1774214113,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 14479,
