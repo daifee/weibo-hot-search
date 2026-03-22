@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774159983925,
+  "endTime": 1774163133714,
   "band_list": [
     {
       "raw_hot": 2295364,
@@ -33,6 +33,22 @@
       "onboard_time": 1774141880,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 995415,
+      "num": 107256,
+      "word": "高以翔前女友BeIIa官宣怀孕",
+      "onboard_time": 1774159400,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 905642,
+      "num": 109559,
+      "word": "钟丽缇女儿考拉争议",
+      "onboard_time": 1774159579,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 787118,
@@ -203,20 +219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365868,
+      "num": 1058538,
+      "word": "警方通报男子窜至某小区抢劫致1死",
+      "onboard_time": 1774162280,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 357881,
       "num": 148203,
       "word": "沙特要求伊朗武官24小时内离境",
       "onboard_time": 1774151481,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 345991,
-      "num": 109559,
-      "word": "钟丽缇女儿考拉争议",
-      "onboard_time": 1774159579,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 338123,
@@ -251,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321521,
+      "num": 244588,
+      "word": "以色列拦截伊朗导弹失败瞬间",
+      "onboard_time": 1774159999,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 320030,
       "num": 180905,
       "word": "伊朗回应特朗普袭击电厂威胁",
@@ -265,14 +289,6 @@
       "onboard_time": 1774134976,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 298396,
-      "num": 107256,
-      "word": "高以翔前女友BeIIa官宣怀孕",
-      "onboard_time": 1774159400,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 296770,
@@ -323,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248346,
+      "num": 212305,
+      "word": "网友给逐玉的建议",
+      "onboard_time": 1774161501,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248035,
       "num": 150269,
       "word": "腾讯视频收集逐玉盗版线索",
@@ -331,12 +355,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247449,
+      "num": 247449,
+      "word": "周冬雨素颜录节目",
+      "onboard_time": 1774159999,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240817,
       "num": 240817,
       "word": "千问崩了",
       "onboard_time": 1774154060,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 239530,
+      "num": 239530,
+      "word": "小猫不敢再随便熬夜了",
+      "onboard_time": 1774161200,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 239452,
@@ -451,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199480,
+      "num": 177042,
+      "word": "瞿颖西班牙 王俊凯新加坡",
+      "onboard_time": 1774160421,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197534,
       "num": 197534,
       "word": "小区旁400万吨垃圾被挖出来了",
@@ -531,6 +579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166797,
+      "num": 86970,
+      "word": "广东横琴发布警情通报",
+      "onboard_time": 1774162280,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 161626,
+      "num": 146224,
+      "word": "英国男星死在普吉岛排水沟",
+      "onboard_time": 1774161800,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151285,
       "num": 183831,
       "word": "重庆大学通报实验室爆炸",
@@ -553,6 +617,14 @@
       "onboard_time": 1774145660,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147530,
+      "num": 147530,
+      "word": "上班自备厕纸",
+      "onboard_time": 1774161442,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 146581,
@@ -643,6 +715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 126442,
+      "num": 106842,
+      "word": "齐旻 烂人真心",
+      "onboard_time": 1774160062,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120451,
       "num": 120451,
       "word": "伊朗16艘货船遭美以袭击",
@@ -729,6 +809,14 @@
       "onboard_time": 1774148180,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100478,
+      "num": 100478,
+      "word": "鞠婧祎月鳞绮纪预约近200万",
+      "onboard_time": 1774162339,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 99640,
@@ -843,12 +931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80552,
+      "num": 106806,
+      "word": "牛马面包",
+      "onboard_time": 1774160421,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 78576,
       "num": 78576,
       "word": "武汉马拉松下起樱花雨",
       "onboard_time": 1774149021,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77990,
+      "num": 77990,
+      "word": "去春游的人已经出片了",
+      "onboard_time": 1774161920,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 77904,
@@ -995,6 +1099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69589,
+      "num": 69589,
+      "word": "碧血蝉全阵容官宣",
+      "onboard_time": 1774160660,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68307,
       "num": 68307,
       "word": "林孝埈将坐镇ELLEMEN四月刊封面",
@@ -1033,6 +1145,14 @@
       "onboard_time": 1774153222,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67167,
+      "num": 72267,
+      "word": "伊朗说允许非敌方船只通过霍尔木兹",
+      "onboard_time": 1774161200,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66870,
@@ -1155,6 +1275,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62471,
+      "num": 62471,
+      "word": "苦练书法多年终于有回报了",
+      "onboard_time": 1774162100,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 62440,
+      "num": 62440,
+      "word": "大熊猫摔到地上有多Q弹",
+      "onboard_time": 1774162821,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62285,
+      "num": 62285,
+      "word": "孟凡利",
+      "onboard_time": 1774160481,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61506,
       "num": 181028,
       "word": "倪妮生理性演技",
@@ -1203,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58229,
+      "num": 58229,
+      "word": "丈夫家暴后第一时间改银行卡密码",
+      "onboard_time": 1774162100,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58156,
       "num": 58156,
       "word": "杜兰特回应超越乔丹",
@@ -1233,6 +1385,30 @@
       "onboard_time": 1774157840,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55175,
+      "num": 55175,
+      "word": "名侦探学院",
+      "onboard_time": 1774162939,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 55004,
+      "num": 55004,
+      "word": "没有勾心斗角的工作",
+      "onboard_time": 1774162040,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 54888,
+      "num": 54888,
+      "word": "梅姨为何难抓",
+      "onboard_time": 1774159220,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53299,
@@ -1467,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27080,
+      "num": 87050,
+      "word": "袁娅维威神V给内娱舞台上强度了",
+      "onboard_time": 1774159522,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22840,
       "num": 101201,
       "word": "梅姨同居男友说她不戴首饰",
@@ -1531,14 +1715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17481,
-      "num": 85808,
-      "word": "袁娅维威神V给内娱舞台上强度了",
-      "onboard_time": 1774159522,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 17444,
       "num": 41007,
       "word": "梅姨案受害者说恨久需见其人",
@@ -1585,6 +1761,14 @@
       "onboard_time": 1774088902,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 10869,
+      "num": 69595,
+      "word": "想要一份工作的年轻癌症患者",
+      "onboard_time": 1774158561,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9674,

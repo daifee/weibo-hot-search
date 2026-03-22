@@ -1,0 +1,410 @@
+{
+  "runTime": 1774163133714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 365868,
+        "num": 1058538,
+        "word": "警方通报男子窜至某小区抢劫致1死",
+        "onboard_time": 1774162280,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 348116,
+        "num": 756645,
+        "word": "梅姨在广州三元里落网为不实消息",
+        "onboard_time": 1774155020,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 18114,
+        "num": 617890,
+        "word": "网警破获网络开盒案守护网络空间安全",
+        "onboard_time": 1774144820,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379421,
+        "num": 379421,
+        "word": "顾客吃牛蛙天花板上掉出一条人腿",
+        "onboard_time": 1774157362,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247449,
+        "num": 247449,
+        "word": "周冬雨素颜录节目",
+        "onboard_time": 1774159999,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1239655,
+        "num": 245919,
+        "word": "逐玉反盗版声明",
+        "onboard_time": 1774148660,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321521,
+        "num": 244588,
+        "word": "以色列拦截伊朗导弹失败瞬间",
+        "onboard_time": 1774159999,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239530,
+        "num": 239530,
+        "word": "小猫不敢再随便熬夜了",
+        "onboard_time": 1774161200,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180607,
+        "num": 233963,
+        "word": "校长回应江浙沪没有夜生活",
+        "onboard_time": 1774156220,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93076,
+        "num": 226853,
+        "word": "千问崩了",
+        "onboard_time": 1774154060,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 555738,
+        "num": 218229,
+        "word": "魏家凉皮汉堡",
+        "onboard_time": 1774154721,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 248346,
+        "num": 212305,
+        "word": "网友给逐玉的建议",
+        "onboard_time": 1774161501,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210916,
+        "num": 210916,
+        "word": "AI演员签约官宣",
+        "onboard_time": 1774150401,
+        "rank": 12,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 177746,
+        "num": 177746,
+        "word": "半小时取鱼刺7小时修路震惊老外",
+        "onboard_time": 1774154541,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199480,
+        "num": 177042,
+        "word": "瞿颖西班牙 王俊凯新加坡",
+        "onboard_time": 1774160421,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172006,
+        "num": 172006,
+        "word": "希林娜依高伯克利七年没毕业",
+        "onboard_time": 1774150580,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147530,
+        "num": 147530,
+        "word": "上班自备厕纸",
+        "onboard_time": 1774161442,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161626,
+        "num": 146224,
+        "word": "英国男星死在普吉岛排水沟",
+        "onboard_time": 1774161800,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127418,
+        "num": 127418,
+        "word": "逐玉的兵 不贪盗版",
+        "onboard_time": 1774143020,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106980,
+        "num": 106980,
+        "word": "靳磊任深圳市委书记",
+        "onboard_time": 1774155921,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 995415,
+        "num": 106952,
+        "word": "高以翔前女友BeIIa官宣怀孕",
+        "onboard_time": 1774159400,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905642,
+        "num": 106938,
+        "word": "钟丽缇女儿考拉争议",
+        "onboard_time": 1774159579,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402987,
+        "num": 106916,
+        "word": "金价",
+        "onboard_time": 1774141340,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 366906,
+        "num": 106884,
+        "word": "陈慧敏怀孕了",
+        "onboard_time": 1774157120,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126442,
+        "num": 106842,
+        "word": "齐旻 烂人真心",
+        "onboard_time": 1774160062,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80552,
+        "num": 106806,
+        "word": "牛马面包",
+        "onboard_time": 1774160421,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106804,
+        "num": 106804,
+        "word": "张佳宁说单眼皮因拍戏变不回来了",
+        "onboard_time": 1774147701,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100478,
+        "num": 100478,
+        "word": "鞠婧祎月鳞绮纪预约近200万",
+        "onboard_time": 1774162339,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75131,
+        "num": 88168,
+        "word": "1200多家饭店拍黄瓜被举报",
+        "onboard_time": 1774149861,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27080,
+        "num": 87050,
+        "word": "袁娅维威神V给内娱舞台上强度了",
+        "onboard_time": 1774159522,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166797,
+        "num": 86970,
+        "word": "广东横琴发布警情通报",
+        "onboard_time": 1774162280,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 86665,
+        "num": 86665,
+        "word": "逐玉男配林沐然涨粉101万",
+        "onboard_time": 1774154060,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83607,
+        "num": 83607,
+        "word": "陈飞宇迪丽热巴5年前拍的杂志",
+        "onboard_time": 1774154360,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77990,
+        "num": 77990,
+        "word": "去春游的人已经出片了",
+        "onboard_time": 1774161920,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 74124,
+        "num": 74124,
+        "word": "一诺加盟我家那小子",
+        "onboard_time": 1774156521,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72411,
+        "num": 72411,
+        "word": "逐玉 盗版没弹幕快乐少一半",
+        "onboard_time": 1774143261,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67167,
+        "num": 72267,
+        "word": "伊朗说允许非敌方船只通过霍尔木兹",
+        "onboard_time": 1774161200,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72163,
+        "num": 72163,
+        "word": "逐玉亲到腿软的路透要播了",
+        "onboard_time": 1774150161,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64330,
+        "num": 69609,
+        "word": "警方介入女子追打2岁宝宝",
+        "onboard_time": 1774149861,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10869,
+        "num": 69595,
+        "word": "想要一份工作的年轻癌症患者",
+        "onboard_time": 1774158561,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69589,
+        "num": 69589,
+        "word": "碧血蝉全阵容官宣",
+        "onboard_time": 1774160660,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67012,
+        "num": 67012,
+        "word": "虞书欣云初令杀青上班路透",
+        "onboard_time": 1774151301,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63394,
+        "num": 63394,
+        "word": "梅姨假装答应同居老人领证后失联",
+        "onboard_time": 1774141880,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62471,
+        "num": 62471,
+        "word": "苦练书法多年终于有回报了",
+        "onboard_time": 1774162100,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62440,
+        "num": 62440,
+        "word": "大熊猫摔到地上有多Q弹",
+        "onboard_time": 1774162821,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62285,
+        "num": 62285,
+        "word": "孟凡利",
+        "onboard_time": 1774160481,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58229,
+        "num": 58229,
+        "word": "丈夫家暴后第一时间改银行卡密码",
+        "onboard_time": 1774162100,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55175,
+        "num": 55175,
+        "word": "名侦探学院",
+        "onboard_time": 1774162939,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55004,
+        "num": 55004,
+        "word": "没有勾心斗角的工作",
+        "onboard_time": 1774162040,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54888,
+        "num": 54888,
+        "word": "梅姨为何难抓",
+        "onboard_time": 1774159220,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系治水事业#"
+    }
+  }
+}
