@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/22 00:40:04 ~ 2026/03/23 03:47:13
+本榜单时间：2026/03/22 00:40:04 ~ 2026/03/23 04:38:00
 </p>
 </blockquote>
 <p>
@@ -2657,6 +2657,12 @@ PEL春季赛（热度：11914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E8%A6%81%E4%B8%80%E4%BB%BD%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%B9%B4%E8%BD%BB%E7%99%8C%E7%97%87%E6%82%A3%E8%80%85%23" target="weibo">
 想要一份工作的年轻癌症患者（热度：10869）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23PCL2026%23" target="weibo">
+PCL2026（热度：9941）
 </a>
 </li>
 

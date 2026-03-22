@@ -1,6 +1,6 @@
 {
   "startTime": 1774197653930,
-  "endTime": 1774208833872,
+  "endTime": 1774211880454,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -499,11 +499,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12253,
+      "num": 15246,
+      "word": "云初令",
+      "onboard_time": 1774175779,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 11914,
       "num": 19122,
       "word": "PEL春季赛",
       "onboard_time": 1774179382,
       "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 9941,
+      "num": 15242,
+      "word": "PCL2026",
+      "onboard_time": 1774196241,
+      "rank": 47,
       "category": "电竞"
     }
   ],

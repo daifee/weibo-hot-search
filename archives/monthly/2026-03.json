@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774208833872,
+  "endTime": 1774211880454,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -60249,6 +60249,14 @@
       "onboard_time": 1772581463,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9941,
+      "num": 15242,
+      "word": "PCL2026",
+      "onboard_time": 1774196241,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 9674,
