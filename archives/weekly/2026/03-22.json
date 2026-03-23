@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774299795080,
+  "endTime": 1774302327738,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -3459,6 +3459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89035,
+      "num": 89035,
+      "word": "美国纽约机场接连发生事故",
+      "onboard_time": 1774283539,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88846,
       "num": 88846,
       "word": "公积金改革四大方向浮出水面",
@@ -3897,14 +3905,6 @@
       "onboard_time": 1774229960,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80076,
-      "num": 70517,
-      "word": "美国纽约机场接连发生事故",
-      "onboard_time": 1774283539,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 79841,
@@ -5851,6 +5851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 32213,
+      "num": 32213,
+      "word": "特朗普称推迟对伊朗能源设施打击",
+      "onboard_time": 1774300513,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31663,
       "num": 31663,
       "word": "谢霆锋演唱会",
@@ -6043,6 +6051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25961,
+      "num": 30507,
+      "word": "WTA1000迈阿密站",
+      "onboard_time": 1774281619,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25311,
       "num": 125323,
       "word": "寿司郎称未检出寄生虫",
@@ -6113,14 +6129,6 @@
       "onboard_time": 1774207334,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19301,
-      "num": 30507,
-      "word": "WTA1000迈阿密站",
-      "onboard_time": 1774281619,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 19116,

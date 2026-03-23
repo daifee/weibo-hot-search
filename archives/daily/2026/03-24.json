@@ -1,6 +1,6 @@
 {
   "startTime": 1774285387754,
-  "endTime": 1774299795080,
+  "endTime": 1774302327738,
   "band_list": [
     {
       "raw_hot": 304951,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89035,
+      "num": 89035,
+      "word": "美国纽约机场接连发生事故",
+      "onboard_time": 1774283539,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88152,
       "num": 88152,
       "word": "美股",
@@ -145,14 +153,6 @@
       "onboard_time": 1774271122,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80076,
-      "num": 70517,
-      "word": "美国纽约机场接连发生事故",
-      "onboard_time": 1774283539,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 73492,
@@ -339,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32213,
+      "num": 32213,
+      "word": "特朗普称推迟对伊朗能源设施打击",
+      "onboard_time": 1774300513,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31866,
       "num": 70133,
       "word": "我洗头后三天的头发蓬松程度",
@@ -403,20 +411,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25961,
+      "num": 30507,
+      "word": "WTA1000迈阿密站",
+      "onboard_time": 1774281619,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25344,
       "num": 69944,
       "word": "齐俞 齐煜",
       "onboard_time": 1774272801,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19301,
-      "num": 30507,
-      "word": "WTA1000迈阿密站",
-      "onboard_time": 1774281619,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 15743,
@@ -435,20 +443,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13540,
+      "num": 26254,
+      "word": "金与正说不想看到日本首相来平壤",
+      "onboard_time": 1774276402,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12974,
       "num": 30527,
       "word": "侯明昊加入太湖湾音乐节",
       "onboard_time": 1774291454,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11648,
-      "num": 26254,
-      "word": "金与正说不想看到日本首相来平壤",
-      "onboard_time": 1774276402,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 9609,
@@ -459,20 +467,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 9069,
+      "num": 335755,
+      "word": "梦想的接力最燃",
+      "onboard_time": 1774271362,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8480,
       "num": 17626,
       "word": "CBA常规赛",
       "onboard_time": 1774277662,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8477,
-      "num": 335755,
-      "word": "梦想的接力最燃",
-      "onboard_time": 1774271362,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
