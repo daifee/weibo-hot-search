@@ -1,6 +1,6 @@
 {
   "startTime": 1774197653930,
-  "endTime": 1774274165624,
+  "endTime": 1774278265524,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1080298,
-      "num": 166987,
+      "num": 170498,
       "word": "阚清子晒近照",
       "onboard_time": 1774268541,
       "rank": 10,
@@ -193,6 +193,14 @@
       "onboard_time": 1774197198,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 560456,
+      "num": 169883,
+      "word": "美股",
+      "onboard_time": 1774274962,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 550990,
@@ -323,6 +331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 436917,
+      "num": 209114,
+      "word": "张凌赫田曦薇 我爱上了弟弟的妻子",
+      "onboard_time": 1774276224,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426575,
       "num": 250667,
       "word": "衣服穿人vs人穿衣服",
@@ -395,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383703,
+      "num": 769331,
+      "word": "开始推理吧4",
+      "onboard_time": 1774268121,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372669,
       "num": 249212,
       "word": "中东战事来到危险临界点",
@@ -416,6 +440,14 @@
       "word": "王楚然 全女团队",
       "onboard_time": 1774256781,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 369326,
+      "num": 168707,
+      "word": "宫脇咲良取关张元英",
+      "onboard_time": 1774272022,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -452,7 +484,7 @@
     },
     {
       "raw_hot": 349989,
-      "num": 161912,
+      "num": 201263,
       "word": "伊朗称特朗普推迟袭击表态为心理战",
       "onboard_time": 1774271061,
       "rank": 20,
@@ -571,6 +603,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 292073,
+      "num": 168012,
+      "word": "大学是离异性最远的阶段",
+      "onboard_time": 1774270582,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 280684,
+      "num": 167465,
+      "word": "陈锦鸿把自闭症儿子养成青年钢琴家",
+      "onboard_time": 1774273402,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275862,
       "num": 275862,
       "word": "黄金白银开涨了",
@@ -616,6 +664,14 @@
       "word": "美国一次次撒谎全世界买单",
       "onboard_time": 1774225521,
       "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 252092,
+      "num": 252092,
+      "word": "朝鲜称与日本没什么可谈的",
+      "onboard_time": 1774275142,
+      "rank": 3,
       "category": "国际时政"
     },
     {
@@ -667,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221899,
-      "num": 157640,
-      "word": "宫脇咲良取关张元英",
-      "onboard_time": 1774272022,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218505,
       "num": 172854,
       "word": "河南男孩遭老师要求互打后坠亡后续",
@@ -700,7 +748,7 @@
     },
     {
       "raw_hot": 211797,
-      "num": 154445,
+      "num": 163389,
       "word": "上过跑男的团体都解散了",
       "onboard_time": 1774271603,
       "rank": 18,
@@ -769,6 +817,14 @@
       "onboard_time": 1774270222,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193554,
+      "num": 165853,
+      "word": "百词斩崩了",
+      "onboard_time": 1774277002,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 187484,
@@ -849,6 +905,22 @@
       "onboard_time": 1774179441,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170777,
+      "num": 155673,
+      "word": "美伊就中东敌对行动解决方案进行对话",
+      "onboard_time": 1774275563,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 170589,
+      "num": 170589,
+      "word": "齐俞 齐煜",
+      "onboard_time": 1774272801,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 169962,
@@ -947,14 +1019,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153234,
-      "num": 153234,
-      "word": "大学是离异性最远的阶段",
-      "onboard_time": 1774270582,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 151954,
       "num": 136358,
       "word": "20岁女生长期开灯睡觉胖到200斤",
@@ -1051,20 +1115,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 136184,
-      "num": 136184,
-      "word": "陈锦鸿把自闭症儿子养成青年钢琴家",
-      "onboard_time": 1774273402,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135487,
       "num": 135487,
       "word": "上证指数跌破3800点",
       "onboard_time": 1774249521,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132071,
+      "num": 132071,
+      "word": "周杰伦新专辑太阳之子",
+      "onboard_time": 1774273882,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 132002,
@@ -1097,6 +1161,14 @@
       "onboard_time": 1774244780,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128950,
+      "num": 164696,
+      "word": "14位美企高管来访商务部排排坐",
+      "onboard_time": 1774276462,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127525,
@@ -1235,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115086,
+      "num": 115086,
+      "word": "金与正说不想看到日本首相来平壤",
+      "onboard_time": 1774276402,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115045,
       "num": 454251,
       "word": "Jennie音乐节",
@@ -1273,14 +1353,6 @@
       "onboard_time": 1774262602,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112785,
-      "num": 168428,
-      "word": "开始推理吧4",
-      "onboard_time": 1774268121,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 111269,
@@ -1507,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96226,
+      "num": 96226,
+      "word": "杨博文晒狗",
+      "onboard_time": 1774277601,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94588,
       "num": 94588,
       "word": "王俊凯小时候太诡异了",
@@ -1539,12 +1619,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93194,
-      "num": 93194,
-      "word": "周杰伦新专辑太阳之子",
-      "onboard_time": 1774273882,
-      "rank": 32,
-      "category": "音乐"
+      "raw_hot": 93169,
+      "num": 93169,
+      "word": "萧蔷曾多次婉拒浪姐邀约",
+      "onboard_time": 1774275623,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 93010,
@@ -1745,14 +1825,6 @@
       "onboard_time": 1774262781,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 84941,
-      "num": 84941,
-      "word": "齐俞 齐煜",
-      "onboard_time": 1774272801,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 84576,
@@ -2036,7 +2108,7 @@
     },
     {
       "raw_hot": 76029,
-      "num": 76029,
+      "num": 79665,
       "word": "AI写歌走红程序员9个月赚20万",
       "onboard_time": 1774272141,
       "rank": 49,
@@ -2121,6 +2193,14 @@
       "onboard_time": 1774239861,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 72865,
+      "num": 72865,
+      "word": "美军福特号航母撤至希腊",
+      "onboard_time": 1774274723,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72792,
@@ -2243,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70235,
+      "num": 70235,
+      "word": "逐玉浴池戏",
+      "onboard_time": 1774278021,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69893,
       "num": 69893,
       "word": "十个勤天",
@@ -2291,6 +2379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 67456,
+      "num": 67456,
+      "word": "瞿颖吃火锅挺废人的",
+      "onboard_time": 1774278141,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67187,
       "num": 79308,
       "word": "美国游泳选手把银牌送给观众",
@@ -2337,6 +2433,14 @@
       "onboard_time": 1774269381,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 66415,
+      "num": 68873,
+      "word": "黄金跌近400美元",
+      "onboard_time": 1774275682,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 66106,
@@ -2419,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63900,
+      "num": 63900,
+      "word": "这个田曦薇如此美萌",
+      "onboard_time": 1774278141,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63453,
       "num": 63453,
       "word": "当萨摩耶第一次吃蓝莓",
@@ -2475,6 +2587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61910,
+      "num": 112110,
+      "word": "普京访华日期将很快公布",
+      "onboard_time": 1774278080,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61181,
       "num": 78020,
       "word": "十年前的韩剧还在我的虐剧TOP1里",
@@ -2489,6 +2609,14 @@
       "onboard_time": 1774269861,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 60724,
+      "num": 64826,
+      "word": "这下谁能分得清蹦极和坐秋千",
+      "onboard_time": 1774277061,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 60507,

@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774274165624,
+  "endTime": 1774278265524,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1080298,
-      "num": 166987,
+      "num": 170498,
       "word": "阚清子晒近照",
       "onboard_time": 1774268541,
       "rank": 10,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 560456,
+      "num": 169883,
+      "word": "美股",
+      "onboard_time": 1774274962,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 557807,
       "num": 244774,
       "word": "茂茂你终于结婚生子了",
@@ -643,6 +651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 436917,
+      "num": 209114,
+      "word": "张凌赫田曦薇 我爱上了弟弟的妻子",
+      "onboard_time": 1774276224,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426575,
       "num": 250667,
       "word": "衣服穿人vs人穿衣服",
@@ -771,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383703,
+      "num": 769331,
+      "word": "开始推理吧4",
+      "onboard_time": 1774268121,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379556,
       "num": 217702,
       "word": "贾斯汀比伯Usher派对打架",
@@ -817,6 +841,14 @@
       "onboard_time": 1774163960,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 369326,
+      "num": 168707,
+      "word": "宫脇咲良取关张元英",
+      "onboard_time": 1774272022,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 367269,
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 349989,
-      "num": 161912,
+      "num": 201263,
       "word": "伊朗称特朗普推迟袭击表态为心理战",
       "onboard_time": 1774271061,
       "rank": 20,
@@ -1099,12 +1131,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 292073,
+      "num": 168012,
+      "word": "大学是离异性最远的阶段",
+      "onboard_time": 1774270582,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284606,
       "num": 150460,
       "word": "宋砚被长玉谢征吓到晕厥",
       "onboard_time": 1774143679,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280684,
+      "num": 167465,
+      "word": "陈锦鸿把自闭症儿子养成青年钢琴家",
+      "onboard_time": 1774273402,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 278459,
@@ -1209,6 +1257,14 @@
       "onboard_time": 1774189704,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 252092,
+      "num": 252092,
+      "word": "朝鲜称与日本没什么可谈的",
+      "onboard_time": 1774275142,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 249934,
@@ -1475,14 +1531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221899,
-      "num": 157640,
-      "word": "宫脇咲良取关张元英",
-      "onboard_time": 1774272022,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218505,
       "num": 172854,
       "word": "河南男孩遭老师要求互打后坠亡后续",
@@ -1540,7 +1588,7 @@
     },
     {
       "raw_hot": 211797,
-      "num": 154445,
+      "num": 163389,
       "word": "上过跑男的团体都解散了",
       "onboard_time": 1774271603,
       "rank": 18,
@@ -1681,6 +1729,14 @@
       "onboard_time": 1774270222,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193554,
+      "num": 165853,
+      "word": "百词斩崩了",
+      "onboard_time": 1774277002,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 193046,
@@ -1883,6 +1939,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 170777,
+      "num": 155673,
+      "word": "美伊就中东敌对行动解决方案进行对话",
+      "onboard_time": 1774275563,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 170589,
+      "num": 170589,
+      "word": "齐俞 齐煜",
+      "onboard_time": 1774272801,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170471,
       "num": 170471,
       "word": "一诺加盟我家那小子",
@@ -2001,14 +2073,6 @@
       "onboard_time": 1774171100,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153234,
-      "num": 153234,
-      "word": "大学是离异性最远的阶段",
-      "onboard_time": 1774270582,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 152313,
@@ -2243,14 +2307,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 136184,
-      "num": 136184,
-      "word": "陈锦鸿把自闭症儿子养成青年钢琴家",
-      "onboard_time": 1774273402,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135623,
       "num": 164252,
       "word": "仙逆",
@@ -2291,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132071,
+      "num": 132071,
+      "word": "周杰伦新专辑太阳之子",
+      "onboard_time": 1774273882,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131980,
       "num": 131980,
       "word": "张元英水手服",
@@ -2329,6 +2393,14 @@
       "onboard_time": 1774244780,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128950,
+      "num": 164696,
+      "word": "14位美企高管来访商务部排排坐",
+      "onboard_time": 1774276462,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128295,
@@ -2563,6 +2635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115086,
+      "num": 115086,
+      "word": "金与正说不想看到日本首相来平壤",
+      "onboard_time": 1774276402,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114776,
       "num": 110299,
       "word": "2000克黄金一周亏损40万",
@@ -2617,14 +2697,6 @@
       "onboard_time": 1774262602,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112785,
-      "num": 168428,
-      "word": "开始推理吧4",
-      "onboard_time": 1774268121,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 111330,
@@ -3043,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96226,
+      "num": 96226,
+      "word": "杨博文晒狗",
+      "onboard_time": 1774277601,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95869,
       "num": 95869,
       "word": "新郎新娘办结婚证遇惊喜尾号",
@@ -3147,20 +3227,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93194,
-      "num": 93194,
-      "word": "周杰伦新专辑太阳之子",
-      "onboard_time": 1774273882,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 93177,
       "num": 93177,
       "word": "双胞胎宝宝连睡觉都要贴贴",
       "onboard_time": 1774187782,
       "rank": 49,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 93169,
+      "num": 93169,
+      "word": "萧蔷曾多次婉拒浪姐邀约",
+      "onboard_time": 1774275623,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 93131,
@@ -3473,14 +3553,6 @@
       "onboard_time": 1774182682,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 84941,
-      "num": 84941,
-      "word": "齐俞 齐煜",
-      "onboard_time": 1774272801,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 84576,
@@ -3996,7 +4068,7 @@
     },
     {
       "raw_hot": 76029,
-      "num": 76029,
+      "num": 79665,
       "word": "AI写歌走红程序员9个月赚20万",
       "onboard_time": 1774272141,
       "rank": 49,
@@ -4179,6 +4251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72865,
+      "num": 72865,
+      "word": "美军福特号航母撤至希腊",
+      "onboard_time": 1774274723,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72792,
       "num": 72792,
       "word": "人与人之间的羁绊有一个瞬间就够了",
@@ -4355,6 +4435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70235,
+      "num": 70235,
+      "word": "逐玉浴池戏",
+      "onboard_time": 1774278021,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70164,
       "num": 70164,
       "word": "花9块9抢珠宝的人看完天都塌了",
@@ -4499,6 +4587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67456,
+      "num": 67456,
+      "word": "瞿颖吃火锅挺废人的",
+      "onboard_time": 1774278141,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67187,
       "num": 79308,
       "word": "美国游泳选手把银牌送给观众",
@@ -4577,6 +4673,14 @@
       "onboard_time": 1774269381,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 66415,
+      "num": 68873,
+      "word": "黄金跌近400美元",
+      "onboard_time": 1774275682,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 66358,
@@ -4771,6 +4875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63900,
+      "num": 63900,
+      "word": "这个田曦薇如此美萌",
+      "onboard_time": 1774278141,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63897,
       "num": 63897,
       "word": "重庆豌杂板凳面黏黏糊糊太好吃了",
@@ -4891,6 +5003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61910,
+      "num": 112110,
+      "word": "普京访华日期将很快公布",
+      "onboard_time": 1774278080,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61777,
       "num": 61777,
       "word": "江波龙实控人姐弟身家暴涨超400亿",
@@ -4945,6 +5065,14 @@
       "onboard_time": 1774269861,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 60724,
+      "num": 64826,
+      "word": "这下谁能分得清蹦极和坐秋千",
+      "onboard_time": 1774277061,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 60507,
