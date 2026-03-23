@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774248499327,
+  "endTime": 1774250546796,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -75,12 +75,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1133393,
+      "num": 1181343,
+      "word": "对国内成品油价格采取临时调控",
+      "onboard_time": 1774250001,
+      "rank": 0,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 1073192,
       "num": 236020,
       "word": "AI演员签约官宣",
       "onboard_time": 1774150401,
       "rank": 10,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 1066809,
+      "num": 209970,
+      "word": "股灾",
+      "onboard_time": 1774249041,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1064968,
@@ -171,6 +187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 782793,
+      "num": 661918,
+      "word": "黄金猴市来了",
+      "onboard_time": 1774242920,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 770222,
       "num": 1011533,
       "word": "逐玉直播",
@@ -185,14 +209,6 @@
       "onboard_time": 1774078881,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 751828,
-      "num": 661918,
-      "word": "黄金猴市来了",
-      "onboard_time": 1774242920,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 740715,
@@ -691,6 +707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 353552,
+      "num": 353552,
+      "word": "华为发布会",
+      "onboard_time": 1774247240,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 338962,
       "num": 338962,
       "word": "郑合惠子将门毒后妆造",
@@ -883,6 +907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 274263,
+      "num": 139964,
+      "word": "金价年内涨幅已清零",
+      "onboard_time": 1774249220,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 273123,
       "num": 309528,
       "word": "减内脏脂肪最有效的方法",
@@ -985,6 +1017,14 @@
       "onboard_time": 1774189763,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 243638,
+      "num": 204911,
+      "word": "逐玉里康婆子的大孙子现实长这样",
+      "onboard_time": 1774248740,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 243419,
@@ -1251,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210468,
+      "num": 191105,
+      "word": "金价八连跌抄底大军越买越跌",
+      "onboard_time": 1774247180,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209914,
       "num": 209914,
       "word": "本周做什么都顺的星座",
@@ -1273,14 +1321,6 @@
       "onboard_time": 1774244480,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207832,
-      "num": 207832,
-      "word": "华为发布会",
-      "onboard_time": 1774247240,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 202821,
@@ -1387,14 +1427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186318,
-      "num": 186318,
-      "word": "金价八连跌抄底大军越买越跌",
-      "onboard_time": 1774247180,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 185811,
       "num": 185811,
       "word": "白日提灯月鳞绮纪或对打",
@@ -1433,6 +1465,14 @@
       "onboard_time": 1774161442,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182878,
+      "num": 182878,
+      "word": "万茜徒手拎起190斤观众",
+      "onboard_time": 1774247001,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 182175,
@@ -1555,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168669,
+      "num": 168669,
+      "word": "将门毒后",
+      "onboard_time": 1774245681,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164716,
       "num": 164716,
       "word": "小酒窝被周也宠成小公主",
@@ -1651,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149261,
+      "num": 221170,
+      "word": "国务院挂牌督办贵州赫章交通事故",
+      "onboard_time": 1774248080,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148976,
       "num": 148976,
       "word": "张真源 青岛",
@@ -1689,6 +1745,14 @@
       "onboard_time": 1774246880,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144976,
+      "num": 144976,
+      "word": "华为Mate80风驰版正式发布",
+      "onboard_time": 1774250242,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 144873,
@@ -1801,6 +1865,22 @@
       "onboard_time": 1774176621,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 135487,
+      "num": 135487,
+      "word": "上证指数跌破3800点",
+      "onboard_time": 1774249521,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 135345,
+      "num": 135345,
+      "word": "去年没换手机的人后悔了吗",
+      "onboard_time": 1774248140,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 134683,
@@ -1947,14 +2027,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 120657,
-      "num": 120657,
-      "word": "将门毒后",
-      "onboard_time": 1774245681,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120451,
       "num": 120451,
       "word": "伊朗16艘货船遭美以袭击",
@@ -2003,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118085,
+      "num": 118085,
+      "word": "金饰价从最高点大跌约340元",
+      "onboard_time": 1774249881,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 117793,
       "num": 181582,
       "word": "冬去春来",
@@ -2035,28 +2115,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 115993,
-      "num": 115993,
-      "word": "万茜徒手拎起190斤观众",
-      "onboard_time": 1774247001,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115418,
       "num": 115418,
       "word": "F35被击中关键原因是异常低空飞行",
       "onboard_time": 1774170500,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115094,
-      "num": 115094,
-      "word": "去年没换手机的人后悔了吗",
-      "onboard_time": 1774248140,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 114314,
@@ -2539,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93232,
+      "num": 93232,
+      "word": "伊朗用升级后的作战系统打击美以",
+      "onboard_time": 1774245382,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93177,
       "num": 93177,
       "word": "双胞胎宝宝连睡觉都要贴贴",
@@ -2553,6 +2625,14 @@
       "onboard_time": 1774167980,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93010,
+      "num": 93010,
+      "word": "孙海洋说10年前去过梅姨居住的村庄",
+      "onboard_time": 1774249401,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92942,
@@ -2577,14 +2657,6 @@
       "onboard_time": 1774235540,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92340,
-      "num": 92340,
-      "word": "伊朗用升级后的作战系统打击美以",
-      "onboard_time": 1774245382,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 91636,
@@ -3243,6 +3315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 73928,
+      "num": 211332,
+      "word": "梅姨或判重刑甚至死刑",
+      "onboard_time": 1774249581,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73666,
       "num": 108350,
       "word": "学术期刊发表儿童如厕研究引争议",
@@ -3289,6 +3369,14 @@
       "onboard_time": 1774147161,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72792,
+      "num": 72792,
+      "word": "人与人之间的羁绊有一个瞬间就够了",
+      "onboard_time": 1774250480,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 72551,
@@ -3883,14 +3971,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 60829,
-      "num": 221170,
-      "word": "国务院挂牌督办贵州赫章交通事故",
-      "onboard_time": 1774248080,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60349,
       "num": 60349,
       "word": "我在姥姥家的地位",
@@ -4419,6 +4499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33485,
+      "num": 706763,
+      "word": "微厘空间02组卫星发射圆满成功",
+      "onboard_time": 1774249822,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31663,
       "num": 31663,
       "word": "谢霆锋演唱会",
@@ -4499,6 +4587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28042,
+      "num": 191234,
+      "word": "学生2死11伤事故肇事司机已被控制",
+      "onboard_time": 1774250119,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27902,
       "num": 127541,
       "word": "AG 轮换",
@@ -4561,6 +4657,14 @@
       "onboard_time": 1774101204,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19524,
+      "num": 191356,
+      "word": "胡歌耿超解码中国人自己的高端拉格",
+      "onboard_time": 1774249581,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 19368,
@@ -4707,6 +4811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10075,
+      "num": 110206,
+      "word": "起底AI骚扰电话灰产后续",
+      "onboard_time": 1774250001,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9941,
       "num": 15242,
       "word": "PCL2026",
@@ -4738,6 +4850,9 @@
     },
     {
       "word": "#万千清流润民心#"
+    },
+    {
+      "word": "#足迹里的政绩观#"
     }
   ]
 }
