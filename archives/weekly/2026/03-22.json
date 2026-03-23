@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774236616366,
+  "endTime": 1774242676084,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -41,6 +41,14 @@
       "onboard_time": 1774191982,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1322257,
+      "num": 256128,
+      "word": "伊朗导弹上写着感谢西班牙首相",
+      "onboard_time": 1774240101,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1303128,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 601964,
-      "num": 177798,
+      "num": 234722,
       "word": "张凌赫喜欢浴池吻 好糟糕的原因",
       "onboard_time": 1774232302,
       "rank": 11,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 599050,
-      "num": 176268,
+      "num": 221255,
       "word": "郑合惠子在拍戏放弃去hi6女主剧宣",
       "onboard_time": 1774226722,
       "rank": 10,
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 527296,
+      "num": 242432,
+      "word": "民警猥亵女生后曾上门吵闹",
+      "onboard_time": 1774238241,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519760,
       "num": 340790,
       "word": "梅姨",
@@ -352,6 +368,14 @@
       "word": "央视曝活鱼被人为麻醉乱象",
       "onboard_time": 1774198038,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502050,
+      "num": 763416,
+      "word": "贵州赫章交通事故致学生2死11伤",
+      "onboard_time": 1774238660,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -377,6 +401,14 @@
       "onboard_time": 1774157362,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470380,
+      "num": 253465,
+      "word": "逐玉豆瓣6.8",
+      "onboard_time": 1774236799,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 467563,
@@ -412,7 +444,7 @@
     },
     {
       "raw_hot": 447543,
-      "num": 143452,
+      "num": 183498,
       "word": "32岁孕妈怀孕后容貌变化明显",
       "onboard_time": 1774231279,
       "rank": 20,
@@ -425,6 +457,14 @@
       "onboard_time": 1774170080,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 445911,
+      "num": 241628,
+      "word": "长期喝桶装水的人天塌了",
+      "onboard_time": 1774240521,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 445638,
@@ -444,7 +484,7 @@
     },
     {
       "raw_hot": 426575,
-      "num": 242676,
+      "num": 250667,
       "word": "衣服穿人vs人穿衣服",
       "onboard_time": 1774234580,
       "rank": 6,
@@ -513,6 +553,14 @@
       "onboard_time": 1774167140,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 386537,
+      "num": 127314,
+      "word": "日本教授中国旅游后感叹日本变态",
+      "onboard_time": 1774241901,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 384708,
@@ -659,6 +707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 317828,
+      "num": 317828,
+      "word": "何润东演的项羽",
+      "onboard_time": 1774238961,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311676,
       "num": 309519,
       "word": "俄称暗杀伊朗领导人后果极其严重",
@@ -780,7 +836,7 @@
     },
     {
       "raw_hot": 267291,
-      "num": 175113,
+      "num": 233062,
       "word": "A股行情",
       "onboard_time": 1774235241,
       "rank": 13,
@@ -889,6 +945,14 @@
       "onboard_time": 1774179502,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 240248,
+      "num": 257042,
+      "word": "MBC告B站侵权胜诉",
+      "onboard_time": 1774234159,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 239530,
@@ -1003,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228905,
+      "num": 126693,
+      "word": "老中医离世后儿子上交460g罂粟壳",
+      "onboard_time": 1774241842,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 228025,
       "num": 228025,
       "word": "男子因睡眠呼吸暂停1年撞坏3辆车",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1774081225,
       "rank": 21,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 223520,
+      "num": 182154,
+      "word": "女子脖子疼一周确诊胃癌已全身转移",
+      "onboard_time": 1774236201,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216810,
@@ -1131,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202481,
+      "num": 247981,
+      "word": "桃花坞上新人了",
+      "onboard_time": 1774237941,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201976,
       "num": 201976,
       "word": "注意用脑卫生",
@@ -1195,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193099,
+      "num": 193099,
+      "word": "金价波动",
+      "onboard_time": 1774241602,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193046,
       "num": 222630,
       "word": "徐若晗桃花坞第一大漏勺",
@@ -1209,6 +1305,14 @@
       "onboard_time": 1774162280,
       "rank": 30,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 187167,
+      "num": 187167,
+      "word": "熟人羞耻症",
+      "onboard_time": 1774238302,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 186423,
@@ -1267,20 +1371,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181409,
+      "num": 181409,
+      "word": "张峻豪致敬TFBOYS",
+      "onboard_time": 1774239201,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179936,
       "num": 214858,
       "word": "牛马面包",
       "onboard_time": 1774160421,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 178469,
-      "num": 178469,
-      "word": "MBC告B站侵权胜诉",
-      "onboard_time": 1774234159,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 178257,
@@ -1403,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159938,
+      "num": 138730,
+      "word": "田曦薇问张凌赫张哥你这什么妆造",
+      "onboard_time": 1774237160,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153975,
       "num": 153975,
       "word": "你好星期六下周嘉宾阵容预告",
@@ -1417,6 +1529,14 @@
       "onboard_time": 1774179020,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151478,
+      "num": 247094,
+      "word": "被喀麦隆标中国一省台当局破大防",
+      "onboard_time": 1774236860,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151285,
@@ -1563,6 +1683,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138814,
+      "num": 138814,
+      "word": "国内金价跌破1000元",
+      "onboard_time": 1774236799,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 138598,
+      "num": 138598,
+      "word": "黄金几乎抹去今年全部涨幅",
+      "onboard_time": 1774237341,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136909,
       "num": 136909,
       "word": "警方介入女子追打2岁宝宝",
@@ -1649,6 +1785,14 @@
       "onboard_time": 1774186942,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127525,
+      "num": 127525,
+      "word": "梅姨样貌是两张画像结合体",
+      "onboard_time": 1774239259,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127410,
@@ -1843,12 +1987,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 110808,
-      "num": 110808,
-      "word": "女子脖子疼一周确诊胃癌已全身转移",
-      "onboard_time": 1774236201,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 109860,
+      "num": 109860,
+      "word": "大侦探",
+      "onboard_time": 1774240701,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109503,
+      "num": 184748,
+      "word": "赵丽颖说不着急",
+      "onboard_time": 1774238302,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 109388,
@@ -1875,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108376,
+      "num": 108376,
+      "word": "两只狗吃了一整板布洛芬",
+      "onboard_time": 1774242382,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108052,
       "num": 108052,
       "word": "孙颖莎不信邪喊再来一次",
@@ -1899,12 +2059,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106634,
+      "num": 106634,
+      "word": "逐玉男模团",
+      "onboard_time": 1774239801,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106105,
       "num": 106105,
       "word": "深圳垃圾量46年暴涨超3000倍",
       "onboard_time": 1774151061,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105919,
+      "num": 105919,
+      "word": "雷军回应给苏炳添当司机",
+      "onboard_time": 1774240881,
+      "rank": 37,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 105557,
@@ -1947,12 +2123,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104489,
+      "num": 104489,
+      "word": "一定要留电动车钥匙的遗照",
+      "onboard_time": 1774240160,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 103406,
+      "num": 103406,
+      "word": "王安宇杂志开售",
+      "onboard_time": 1774241361,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103389,
       "num": 103389,
       "word": "Bin FMVP",
       "onboard_time": 1774199897,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102862,
+      "num": 103697,
+      "word": "孩子到梅姨手上当天就能卖出去",
+      "onboard_time": 1774240462,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102670,
@@ -2105,6 +2305,14 @@
       "onboard_time": 1774135338,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96561,
+      "num": 96561,
+      "word": "KPL巅峰对决提速了",
+      "onboard_time": 1774242322,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 96299,
@@ -2291,12 +2499,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89242,
+      "num": 89242,
+      "word": "曝美通过第三方给伊朗传话",
+      "onboard_time": 1774242262,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88490,
       "num": 88490,
       "word": "机场怎么不开个洗头发的店",
       "onboard_time": 1774171458,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88251,
+      "num": 88251,
+      "word": "黄金距离底部还有多远",
+      "onboard_time": 1774237100,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 88231,
@@ -2347,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85846,
+      "num": 85846,
+      "word": "紫金矿业回应并购赤峰黄金",
+      "onboard_time": 1774242560,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85704,
       "num": 85704,
       "word": "专家称黄金被套的投资者确实很多",
@@ -2393,6 +2625,14 @@
       "onboard_time": 1774172421,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83297,
+      "num": 104681,
+      "word": "龚俊新剧体制内女婿",
+      "onboard_time": 1774239801,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 83116,
@@ -2481,6 +2721,14 @@
       "onboard_time": 1774178782,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81523,
+      "num": 81523,
+      "word": "休一天根本就不够生活",
+      "onboard_time": 1774240222,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 81505,
@@ -3619,6 +3867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 53058,
+      "num": 104523,
+      "word": "老太闯入大货车盲区被碾压身亡",
+      "onboard_time": 1774241782,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52672,
       "num": 52672,
       "word": "报喜不报忧的本质",
@@ -3883,6 +4139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35894,
+      "num": 186260,
+      "word": "梅姨落网宝贝回家创始人发声",
+      "onboard_time": 1774241661,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35741,
       "num": 43682,
       "word": "逐玉泄露时间",
@@ -3905,6 +4169,14 @@
       "onboard_time": 1774201276,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31269,
+      "num": 194479,
+      "word": "18城偶遇王一博",
+      "onboard_time": 1774238779,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 30138,
