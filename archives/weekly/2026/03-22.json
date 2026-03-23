@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774234172033,
+  "endTime": 1774236616366,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -131,6 +131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 848321,
+      "num": 242798,
+      "word": "霍尔木兹海峡的最后通牒",
+      "onboard_time": 1774232781,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 826749,
       "num": 515229,
       "word": "中国情侣开车视频在国外爆火",
@@ -227,8 +235,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 601964,
+      "num": 177798,
+      "word": "张凌赫喜欢浴池吻 好糟糕的原因",
+      "onboard_time": 1774232302,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 599050,
-      "num": 138128,
+      "num": 176268,
       "word": "郑合惠子在拍戏放弃去hi6女主剧宣",
       "onboard_time": 1774226722,
       "rank": 10,
@@ -297,14 +313,6 @@
       "onboard_time": 1774183942,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 566689,
-      "num": 137990,
-      "word": "张凌赫喜欢浴池吻 好糟糕的原因",
-      "onboard_time": 1774232302,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 566018,
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 464812,
+      "num": 464812,
+      "word": "时代少年团 跑男",
+      "onboard_time": 1774231821,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463967,
       "num": 463967,
       "word": "耙耙柑你牛",
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 447543,
-      "num": 137098,
+      "num": 143452,
       "word": "32岁孕妈怀孕后容貌变化明显",
       "onboard_time": 1774231279,
       "rank": 20,
@@ -417,6 +433,22 @@
       "onboard_time": 1774155020,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 444739,
+      "num": 1071158,
+      "word": "玉簟秋官宣杀青",
+      "onboard_time": 1774232360,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 426575,
+      "num": 242676,
+      "word": "衣服穿人vs人穿衣服",
+      "onboard_time": 1774234580,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 416788,
@@ -531,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360266,
-      "num": 360266,
-      "word": "玉簟秋官宣杀青",
-      "onboard_time": 1774232360,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 359188,
       "num": 398859,
       "word": "金价上演断崖式下跌",
@@ -651,28 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310058,
-      "num": 310058,
-      "word": "时代少年团 跑男",
-      "onboard_time": 1774231821,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 309479,
       "num": 309479,
       "word": "张翅回应请粉丝在家里吃饭",
       "onboard_time": 1774189043,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304683,
-      "num": 137806,
-      "word": "霍尔木兹海峡的最后通牒",
-      "onboard_time": 1774232781,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 303796,
@@ -708,7 +716,7 @@
     },
     {
       "raw_hot": 294373,
-      "num": 137675,
+      "num": 173799,
       "word": "宁静建议年轻人勇敢恋爱慎重生娃",
       "onboard_time": 1774230859,
       "rank": 14,
@@ -755,6 +763,30 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 272974,
+      "num": 242604,
+      "word": "郑合惠子称剧宣不是放弃是遗憾",
+      "onboard_time": 1774236321,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268842,
+      "num": 177472,
+      "word": "股市",
+      "onboard_time": 1774230680,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 267291,
+      "num": 175113,
+      "word": "A股行情",
+      "onboard_time": 1774235241,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 260334,
       "num": 182696,
       "word": "遭派出所民警猥亵女生父亲申请抗诉",
@@ -771,6 +803,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 254603,
+      "num": 139044,
+      "word": "高市早苗向击败占领日本美军士兵献花",
+      "onboard_time": 1774234280,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 254455,
       "num": 169470,
       "word": "逐玉 盗版没弹幕快乐少一半",
@@ -780,7 +820,7 @@
     },
     {
       "raw_hot": 253219,
-      "num": 136978,
+      "num": 173233,
       "word": "美国一次次撒谎全世界买单",
       "onboard_time": 1774225521,
       "rank": 21,
@@ -1067,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211730,
-      "num": 137509,
-      "word": "股市",
-      "onboard_time": 1774230680,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 210887,
       "num": 173200,
       "word": "猥亵女孩民警曾被吸毒者刺伤耽误婚期",
@@ -1243,6 +1275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 178469,
+      "num": 178469,
+      "word": "MBC告B站侵权胜诉",
+      "onboard_time": 1774234159,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 178257,
       "num": 182413,
       "word": "高市访问埋葬广岛原子弹投弹手公墓",
@@ -1331,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169227,
+      "num": 169227,
+      "word": "小孩看机器人跳舞挨了一巴掌",
+      "onboard_time": 1774231821,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168909,
       "num": 158224,
       "word": "范世錡直播",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1774173981,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149267,
+      "num": 149267,
+      "word": "申军良曾给梅姨同居男友下跪",
+      "onboard_time": 1774233800,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148976,
@@ -1627,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125751,
+      "num": 125751,
+      "word": "穿普拉达的女王2内地定档",
+      "onboard_time": 1774234460,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122635,
       "num": 105278,
       "word": "葛夕回怼复合要求",
@@ -1739,14 +1803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112307,
-      "num": 137328,
-      "word": "小孩看机器人跳舞挨了一巴掌",
-      "onboard_time": 1774231821,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111330,
       "num": 182243,
       "word": "梅姨为何能潜逃藏匿十余年",
@@ -1771,12 +1827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111150,
+      "num": 111150,
+      "word": "以军打击伊朗首都基础设施",
+      "onboard_time": 1774235660,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111106,
       "num": 111106,
       "word": "以色列总理声称以美为世界而战",
       "onboard_time": 1774224801,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110808,
+      "num": 110808,
+      "word": "女子脖子疼一周确诊胃癌已全身转移",
+      "onboard_time": 1774236201,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109388,
@@ -1923,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100709,
+      "num": 100709,
+      "word": "已确诊为潮人",
+      "onboard_time": 1774235901,
+      "rank": 32,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 100542,
       "num": 100542,
       "word": "苏州95后董事长高能量的一天",
@@ -1985,6 +2065,14 @@
       "onboard_time": 1774175779,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98646,
+      "num": 98646,
+      "word": "Daeny谈BLG夺冠",
+      "onboard_time": 1774235180,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 98235,
@@ -2131,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92790,
+      "num": 92790,
+      "word": "世界是个巨大的卡颜局",
+      "onboard_time": 1774235540,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91636,
       "num": 91636,
       "word": "伊朗武装部队称已从防御转为进攻",
@@ -2163,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90335,
+      "num": 90335,
+      "word": "小米新品发布会",
+      "onboard_time": 1774235600,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90163,
       "num": 90163,
       "word": "逐玉像两波编剧在打架",
@@ -2177,6 +2281,14 @@
       "onboard_time": 1774193663,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89600,
+      "num": 89600,
+      "word": "姿态说Bin世一上实至名归",
+      "onboard_time": 1774234761,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 88490,
@@ -2201,6 +2313,14 @@
       "onboard_time": 1774171820,
       "rank": 42,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 87875,
+      "num": 87875,
+      "word": "小米与三大顶级赛事签约",
+      "onboard_time": 1774234101,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 87311,
@@ -2331,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81894,
+      "num": 81894,
+      "word": "侮辱虞书欣黑粉致歉",
+      "onboard_time": 1774236201,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81804,
       "num": 81804,
       "word": "我们的爸爸",
@@ -2425,6 +2553,22 @@
       "onboard_time": 1774149021,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78516,
+      "num": 101870,
+      "word": "吉林村民烧荒致11趟列车停运被行拘",
+      "onboard_time": 1774235180,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78502,
+      "num": 78502,
+      "word": "宋亚轩马尔代夫",
+      "onboard_time": 1774229660,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 78434,
@@ -2579,12 +2723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75307,
-      "num": 75307,
-      "word": "宋亚轩马尔代夫",
-      "onboard_time": 1774229660,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 75255,
+      "num": 75255,
+      "word": "杀糕局",
+      "onboard_time": 1774233201,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 74888,
@@ -2601,6 +2745,14 @@
       "onboard_time": 1774160660,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74672,
+      "num": 85237,
+      "word": "32岁辅警救轻生女子坠河牺牲",
+      "onboard_time": 1774236380,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74667,
@@ -2963,12 +3115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65863,
-      "num": 65863,
-      "word": "小米与三大顶级赛事签约",
-      "onboard_time": 1774234101,
-      "rank": 43,
-      "category": "汽车"
+      "raw_hot": 65841,
+      "num": 75151,
+      "word": "林宇辉称梅姨还存在第三张画像",
+      "onboard_time": 1774233861,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65726,
@@ -3043,6 +3195,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64378,
+      "num": 634928,
+      "word": "歼10总师不想让国家挨打",
+      "onboard_time": 1774227561,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64344,
       "num": 64344,
       "word": "山东事业编答案",
@@ -3083,14 +3243,6 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 63989,
-      "num": 63989,
-      "word": "MBC告B站侵权胜诉",
-      "onboard_time": 1774234159,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 63988,
       "num": 63988,
       "word": "非油炸 文字游戏",
@@ -3121,6 +3273,14 @@
       "onboard_time": 1774158201,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63413,
+      "num": 74875,
+      "word": "上金所提示做好风险防范",
+      "onboard_time": 1774235180,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 63008,
@@ -3337,14 +3497,6 @@
       "onboard_time": 1774163541,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57069,
-      "num": 634928,
-      "word": "歼10总师不想让国家挨打",
-      "onboard_time": 1774227561,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56487,
