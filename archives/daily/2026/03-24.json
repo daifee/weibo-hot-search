@@ -1,6 +1,6 @@
 {
   "startTime": 1774285387754,
-  "endTime": 1774286171358,
+  "endTime": 1774288864199,
   "band_list": [
     {
       "raw_hot": 304951,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34358,
+      "num": 37676,
+      "word": "四川天府机场多名老人扶梯上逆行",
+      "onboard_time": 1774286716,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34118,
       "num": 70087,
       "word": "为什么我们要多吃水果",
@@ -403,7 +411,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 8331,
+      "raw_hot": 15743,
+      "num": 37574,
+      "word": "檀健次特别单曲录音花絮",
+      "onboard_time": 1774288095,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8371,
       "num": 335755,
       "word": "梦想的接力最燃",
       "onboard_time": 1774271362,
