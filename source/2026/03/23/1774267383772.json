@@ -1,0 +1,410 @@
+{
+  "runTime": 1774267383772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 676617,
+        "num": 1108258,
+        "word": "流量退去后的鸡排哥与网红街",
+        "onboard_time": 1774263922,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492845,
+        "num": 796701,
+        "word": "对国内成品油价格采取临时调控",
+        "onboard_time": 1774250001,
+        "rank": 1,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 17939,
+        "num": 629313,
+        "word": "微厘空间02组卫星发射圆满成功",
+        "onboard_time": 1774249822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598181,
+        "num": 598181,
+        "word": "男大学生患桃花癫一周挥霍5万",
+        "onboard_time": 1774265900,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256212,
+        "num": 256212,
+        "word": "教授地铁审博士论文视频海外爆火",
+        "onboard_time": 1774262061,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1751655,
+        "num": 255016,
+        "word": "特朗普称推迟5天打击伊朗发电站",
+        "onboard_time": 1774265361,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252202,
+        "num": 252202,
+        "word": "AI短剧付费后竟然变成PPT",
+        "onboard_time": 1774260141,
+        "rank": 6,
+        "category": "舆论监督,剧集"
+      },
+      {
+        "raw_hot": 175619,
+        "num": 175619,
+        "word": "去年没换手机的人后悔了吗",
+        "onboard_time": 1774248140,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168196,
+        "num": 168196,
+        "word": "周大生回应戒指印着周大金",
+        "onboard_time": 1774255583,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142129,
+        "num": 168083,
+        "word": "长期不换社交头像的人",
+        "onboard_time": 1774252400,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1190750,
+        "num": 167385,
+        "word": "特朗普称美伊已对话",
+        "onboard_time": 1774266080,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341058,
+        "num": 166803,
+        "word": "逐玉第二",
+        "onboard_time": 1774257562,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321313,
+        "num": 166344,
+        "word": "种地吧",
+        "onboard_time": 1774263081,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141983,
+        "num": 166026,
+        "word": "你这个量叫谷饲不叫减脂",
+        "onboard_time": 1774259901,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289894,
+        "num": 165447,
+        "word": "开始推理吧",
+        "onboard_time": 1774260020,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242054,
+        "num": 165083,
+        "word": "金价创下1983年3月以来最大单周跌幅",
+        "onboard_time": 1774257562,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233522,
+        "num": 164273,
+        "word": "李卿 内娱金宣虎",
+        "onboard_time": 1774261823,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198534,
+        "num": 164012,
+        "word": "长期喝桶装水的人天塌了",
+        "onboard_time": 1774240521,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196454,
+        "num": 163535,
+        "word": "教师称退群后家长转为点对点私聊",
+        "onboard_time": 1774258281,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182486,
+        "num": 163226,
+        "word": "豆瓣评分",
+        "onboard_time": 1774261460,
+        "rank": 19,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 183439,
+        "num": 162589,
+        "word": "关晓彤 至今不知道腿长的坏处",
+        "onboard_time": 1774254260,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174010,
+        "num": 162252,
+        "word": "黄金大跌金店老板慌了",
+        "onboard_time": 1774261702,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161817,
+        "num": 161817,
+        "word": "毛晓彤28岁时因为年龄焦虑大哭",
+        "onboard_time": 1774264340,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157457,
+        "num": 157457,
+        "word": "SM运营误发照片",
+        "onboard_time": 1774257680,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150108,
+        "num": 150108,
+        "word": "伊朗地下设施堆放一排排导弹",
+        "onboard_time": 1774265241,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 125735,
+        "num": 125735,
+        "word": "为什么我们要多吃水果",
+        "onboard_time": 1774265722,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111134,
+        "num": 111134,
+        "word": "我洗头后三天的头发蓬松程度",
+        "onboard_time": 1774265422,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102512,
+        "num": 102512,
+        "word": "TF五代 拿电话手表聊国际新闻",
+        "onboard_time": 1774262602,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100399,
+        "num": 100399,
+        "word": "中东战事来到危险临界点",
+        "onboard_time": 1774251741,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30916,
+        "num": 99493,
+        "word": "猥亵女孩民警等判决生效后开除",
+        "onboard_time": 1774267221,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98707,
+        "num": 98707,
+        "word": "男子囤33吨石脑油堪比2790斤TNT",
+        "onboard_time": 1774263680,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93694,
+        "num": 93694,
+        "word": "张凌赫壁纸",
+        "onboard_time": 1774255702,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83344,
+        "num": 83344,
+        "word": "王楚然 全女团队",
+        "onboard_time": 1774256781,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76465,
+        "num": 76465,
+        "word": "河南男孩遭老师要求互打后坠亡后续",
+        "onboard_time": 1774259121,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78290,
+        "num": 76030,
+        "word": "陈浚铭再帅十年也才23岁",
+        "onboard_time": 1774261702,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75519,
+        "num": 75519,
+        "word": "寿司店后厨老鼠趴在米饭边张望",
+        "onboard_time": 1774264702,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72402,
+        "num": 72402,
+        "word": "BLG登顶LOL战力榜",
+        "onboard_time": 1774265422,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68917,
+        "num": 68917,
+        "word": "随元青下线",
+        "onboard_time": 1774266861,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33712,
+        "num": 64249,
+        "word": "在刘耀文贺峻霖面前宋亚轩都变成熟了",
+        "onboard_time": 1774264881,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30720,
+        "num": 62291,
+        "word": "台湾女子请产假被刁难放火烧公司",
+        "onboard_time": 1774267221,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61933,
+        "num": 61933,
+        "word": "当萨摩耶第一次吃蓝莓",
+        "onboard_time": 1774265842,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61200,
+        "num": 61200,
+        "word": "猫猫笔架",
+        "onboard_time": 1774266080,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59450,
+        "num": 59450,
+        "word": "上课电量不足下课生龙活虎",
+        "onboard_time": 1774267161,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59391,
+        "num": 59391,
+        "word": "日本街头开韩式麻辣烫",
+        "onboard_time": 1774266802,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59278,
+        "num": 59278,
+        "word": "中国无人机运水果视频国外火了",
+        "onboard_time": 1774262961,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55654,
+        "num": 59102,
+        "word": "张奕然高会评论区全是中考知识点",
+        "onboard_time": 1774266741,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56347,
+        "num": 59089,
+        "word": "明日方舟",
+        "onboard_time": 1774265301,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59089,
+        "num": 59088,
+        "word": "十个勤天",
+        "onboard_time": 1774266261,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57476,
+        "num": 57476,
+        "word": "人类对健身房器械开发不足百分之一",
+        "onboard_time": 1774266980,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57388,
+        "num": 57388,
+        "word": "黄金要跌到什么时候",
+        "onboard_time": 1774262781,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在雄安新区考察#"
+    }
+  }
+}
