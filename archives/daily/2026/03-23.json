@@ -1,6 +1,6 @@
 {
   "startTime": 1774197653930,
-  "endTime": 1774256861101,
+  "endTime": 1774258674665,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 442428,
-      "num": 838436,
+      "num": 861279,
       "word": "问界M6",
       "onboard_time": 1774254320,
       "rank": 1,
@@ -315,12 +315,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372669,
+      "num": 249212,
+      "word": "中东战事来到危险临界点",
+      "onboard_time": 1774251741,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 371222,
       "num": 787396,
       "word": "大疆起诉影石创新",
       "onboard_time": 1774230859,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371097,
+      "num": 122207,
+      "word": "王楚然 全女团队",
+      "onboard_time": 1774256781,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 368305,
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337255,
+      "num": 249154,
+      "word": "逐玉第二",
+      "onboard_time": 1774257562,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 336134,
       "num": 212868,
       "word": "A股",
@@ -371,12 +395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326262,
+      "num": 191717,
+      "word": "遭民警猥亵女孩手臂全是口子",
+      "onboard_time": 1774257801,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317828,
       "num": 367720,
       "word": "何润东演的项羽",
       "onboard_time": 1774238961,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314130,
+      "num": 121044,
+      "word": "SM运营误发照片",
+      "onboard_time": 1774257680,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 311676,
@@ -523,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203860,
-      "num": 124342,
-      "word": "中东战事来到危险临界点",
-      "onboard_time": 1774251741,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 202821,
       "num": 202821,
       "word": "张峻豪致敬TFBOYS",
@@ -617,6 +649,14 @@
       "onboard_time": 1774179441,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169962,
+      "num": 122701,
+      "word": "华为跑表业界首发马拉松模式",
+      "onboard_time": 1774255462,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 169227,
@@ -883,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117136,
+      "num": 117136,
+      "word": "张凌赫壁纸",
+      "onboard_time": 1774255702,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 116785,
       "num": 116785,
       "word": "刘晓庆说这个时代基本没有赶上我",
@@ -899,6 +947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115844,
+      "num": 115844,
+      "word": "中方强烈呼吁立即停止军事行动",
+      "onboard_time": 1774256781,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115045,
       "num": 454251,
       "word": "Jennie音乐节",
@@ -913,6 +969,14 @@
       "onboard_time": 1774255521,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113542,
+      "num": 113542,
+      "word": "钟楚曦马尔代夫度假",
+      "onboard_time": 1774256841,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 111269,
@@ -1003,6 +1067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105240,
+      "num": 105240,
+      "word": "娜扎直播卸妆",
+      "onboard_time": 1774257439,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105110,
       "num": 105110,
       "word": "曼城是冠军",
@@ -1051,14 +1123,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103334,
-      "num": 103334,
-      "word": "张凌赫壁纸",
-      "onboard_time": 1774255702,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 102862,
       "num": 103697,
       "word": "孩子到梅姨手上当天就能卖出去",
@@ -1081,6 +1145,14 @@
       "onboard_time": 1774194142,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99672,
+      "num": 99672,
+      "word": "金价创下1983年3月以来最大单周跌幅",
+      "onboard_time": 1774257562,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 99019,
@@ -1115,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94421,
+      "num": 94421,
+      "word": "外交部回应美国威胁伊朗",
+      "onboard_time": 1774257201,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93304,
       "num": 91473,
       "word": "张子萱额头被卷发棒烫伤",
@@ -1145,22 +1225,6 @@
       "onboard_time": 1774235540,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92751,
-      "num": 97551,
-      "word": "中方强烈呼吁立即停止军事行动",
-      "onboard_time": 1774256781,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 92300,
-      "num": 87317,
-      "word": "王楚然 全女团队",
-      "onboard_time": 1774256781,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 92177,
@@ -1307,20 +1371,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 83391,
-      "num": 114535,
-      "word": "华为跑表业界首发马拉松模式",
-      "onboard_time": 1774255462,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 83297,
       "num": 104681,
       "word": "龚俊新剧体制内女婿",
       "onboard_time": 1774239801,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82112,
+      "num": 82112,
+      "word": "申有娜solo出道",
+      "onboard_time": 1774258462,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 81981,
@@ -1379,6 +1443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81239,
+      "num": 84117,
+      "word": "2000克黄金一周亏损40万",
+      "onboard_time": 1774258401,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81134,
       "num": 81134,
       "word": "BLG队史首个国际赛冠军",
@@ -1425,14 +1497,6 @@
       "onboard_time": 1774253000,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79222,
-      "num": 79222,
-      "word": "钟楚曦马尔代夫度假",
-      "onboard_time": 1774256841,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 79121,
@@ -1507,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75437,
+      "num": 75437,
+      "word": "美国男子枪杀韩裔孕妇被判无罪",
+      "onboard_time": 1774257801,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 75255,
       "num": 75255,
       "word": "杀糕局",
@@ -1528,6 +1600,14 @@
       "word": "2岁儿童就诊才知已有7颗蛀牙",
       "onboard_time": 1774194742,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74310,
+      "num": 126392,
+      "word": "儿童如厕研究可能违法",
+      "onboard_time": 1774257680,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1612,7 +1692,7 @@
     },
     {
       "raw_hot": 72040,
-      "num": 112820,
+      "num": 114636,
       "word": "华为畅享90系列价格真香",
       "onboard_time": 1774254861,
       "rank": 28,
@@ -1868,7 +1948,7 @@
     },
     {
       "raw_hot": 56728,
-      "num": 88525,
+      "num": 93612,
       "word": "尚界Z7实测896线激光雷达跑山",
       "onboard_time": 1774256781,
       "rank": 39,
@@ -2003,6 +2083,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39642,
+      "num": 125978,
+      "word": "教师称退群后家长转为点对点私聊",
+      "onboard_time": 1774258281,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38578,
+      "num": 93591,
+      "word": "印度女子被婆家欺压毒杀3孩后自尽",
+      "onboard_time": 1774258462,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34598,
       "num": 90586,
       "word": "徐若晗去桃花坞养猪了",
@@ -2035,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30130,
+      "num": 127294,
+      "word": "华为表王高尔夫功能有多强大",
+      "onboard_time": 1774257921,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 28982,
       "num": 52289,
       "word": "Knight的决赛宣言",
@@ -2049,6 +2153,14 @@
       "onboard_time": 1774186581,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25311,
+      "num": 125323,
+      "word": "寿司郎称未检出寄生虫",
+      "onboard_time": 1774257921,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22399,
@@ -2172,6 +2284,9 @@
     },
     {
       "word": "#足迹里的政绩观#"
+    },
+    {
+      "word": "#习近平在雄安新区考察#"
     }
   ]
 }
