@@ -1,6 +1,6 @@
 {
   "startTime": 1774197653930,
-  "endTime": 1774272219638,
+  "endTime": 1774274165624,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1080298,
-      "num": 128490,
+      "num": 166987,
       "word": "阚清子晒近照",
       "onboard_time": 1774268541,
       "rank": 10,
@@ -87,6 +87,14 @@
       "num": 1169129,
       "word": "弟弟偷抵32万新车哥哥气炸",
       "onboard_time": 1774245080,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1042361,
+      "num": 1166777,
+      "word": "一家四口感染HIV妻子小儿子去世",
+      "onboard_time": 1774268541,
       "rank": 0,
       "category": "民生新闻"
     },
@@ -185,14 +193,6 @@
       "onboard_time": 1774197198,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 573058,
-      "num": 1091689,
-      "word": "一家四口感染HIV妻子小儿子去世",
-      "onboard_time": 1774268541,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 550990,
@@ -451,12 +451,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 349989,
+      "num": 161912,
+      "word": "伊朗称特朗普推迟袭击表态为心理战",
+      "onboard_time": 1774271061,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 349639,
       "num": 349639,
       "word": "教授地铁审博士论文视频海外爆火",
       "onboard_time": 1774262061,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 347394,
+      "num": 863237,
+      "word": "国乒公布伦敦世乒赛初步参赛名单",
+      "onboard_time": 1774269562,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 342463,
@@ -563,14 +579,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 275491,
-      "num": 275491,
-      "word": "国乒公布伦敦世乒赛初步参赛名单",
-      "onboard_time": 1774269562,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 272974,
       "num": 242604,
       "word": "郑合惠子称剧宣不是放弃是遗憾",
@@ -609,6 +617,14 @@
       "onboard_time": 1774225521,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 246806,
+      "num": 246806,
+      "word": "以前看小说vs现在看小说",
+      "onboard_time": 1774271001,
+      "rank": 9,
+      "category": "读书作家"
     },
     {
       "raw_hot": 243638,
@@ -651,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221899,
+      "num": 157640,
+      "word": "宫脇咲良取关张元英",
+      "onboard_time": 1774272022,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218505,
       "num": 172854,
       "word": "河南男孩遭老师要求互打后坠亡后续",
@@ -673,6 +697,14 @@
       "onboard_time": 1774221619,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211797,
+      "num": 154445,
+      "word": "上过跑男的团体都解散了",
+      "onboard_time": 1774271603,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210468,
@@ -732,7 +764,7 @@
     },
     {
       "raw_hot": 194389,
-      "num": 194389,
+      "num": 286420,
       "word": "张凌赫出发录开始推理吧",
       "onboard_time": 1774270222,
       "rank": 6,
@@ -804,7 +836,7 @@
     },
     {
       "raw_hot": 171098,
-      "num": 126823,
+      "num": 140962,
       "word": "美股三大股指期货突然拉升",
       "onboard_time": 1774268722,
       "rank": 16,
@@ -817,14 +849,6 @@
       "onboard_time": 1774179441,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170684,
-      "num": 126234,
-      "word": "伊朗称特朗普推迟袭击表态为心理战",
-      "onboard_time": 1774271061,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 169962,
@@ -852,7 +876,7 @@
     },
     {
       "raw_hot": 166248,
-      "num": 125735,
+      "num": 136279,
       "word": "为什么我们要多吃水果",
       "onboard_time": 1774265722,
       "rank": 30,
@@ -865,14 +889,6 @@
       "onboard_time": 1774265241,
       "rank": 24,
       "category": "军事"
-    },
-    {
-      "raw_hot": 164929,
-      "num": 126688,
-      "word": "宫脇咲良取关张元英",
-      "onboard_time": 1774272022,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 164811,
@@ -929,6 +945,22 @@
       "onboard_time": 1774251199,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153234,
+      "num": 153234,
+      "word": "大学是离异性最远的阶段",
+      "onboard_time": 1774270582,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 151954,
+      "num": 136358,
+      "word": "20岁女生长期开灯睡觉胖到200斤",
+      "onboard_time": 1774271122,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151478,
@@ -1011,20 +1043,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 138367,
-      "num": 126303,
-      "word": "上过跑男的团体都解散了",
-      "onboard_time": 1774271603,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 136813,
       "num": 136813,
       "word": "小米新SU7首批车主交付仪式",
       "onboard_time": 1774232840,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 136184,
+      "num": 136184,
+      "word": "陈锦鸿把自闭症儿子养成青年钢琴家",
+      "onboard_time": 1774273402,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 135487,
@@ -1065,14 +1097,6 @@
       "onboard_time": 1774244780,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 128547,
-      "num": 128547,
-      "word": "以前看小说vs现在看小说",
-      "onboard_time": 1774271001,
-      "rank": 9,
-      "category": "读书作家"
     },
     {
       "raw_hot": 127525,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1774246640,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119630,
+      "num": 119630,
+      "word": "邓凯新剧又是强制爱",
+      "onboard_time": 1774272202,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 119085,
@@ -1243,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112785,
+      "num": 168428,
+      "word": "开始推理吧4",
+      "onboard_time": 1774268121,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111269,
       "num": 111269,
       "word": "不齐而俞 番外",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1774242382,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108006,
-      "num": 125980,
-      "word": "开始推理吧4",
-      "onboard_time": 1774268121,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 107753,
@@ -1384,14 +1416,6 @@
       "word": "外籍男子上车插队被拽下车",
       "onboard_time": 1774191263,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104528,
-      "num": 104528,
-      "word": "20岁女生长期开灯睡觉胖到200斤",
-      "onboard_time": 1774271122,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1515,6 +1539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93194,
+      "num": 93194,
+      "word": "周杰伦新专辑太阳之子",
+      "onboard_time": 1774273882,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 93010,
       "num": 93010,
       "word": "孙海洋说10年前去过梅姨居住的村庄",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1774235540,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92215,
+      "num": 92215,
+      "word": "夏晓兰 春梦",
+      "onboard_time": 1774272622,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 92177,
@@ -1627,6 +1667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 88241,
+      "num": 88241,
+      "word": "上海男篮vs广东男篮",
+      "onboard_time": 1774272261,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88189,
       "num": 88189,
       "word": "情侣喝了奶茶却投诉未收到餐",
@@ -1697,6 +1745,14 @@
       "onboard_time": 1774262781,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 84941,
+      "num": 84941,
+      "word": "齐俞 齐煜",
+      "onboard_time": 1774272801,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 84576,
@@ -1947,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77510,
+      "num": 77510,
+      "word": "老铺黄金股价接近腰斩",
+      "onboard_time": 1774272383,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77248,
       "num": 202915,
       "word": "教育局回应毕节学生2死11伤",
@@ -1969,6 +2033,14 @@
       "onboard_time": 1774260441,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76029,
+      "num": 76029,
+      "word": "AI写歌走红程序员9个月赚20万",
+      "onboard_time": 1774272141,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75255,
@@ -2211,14 +2283,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 67878,
-      "num": 67878,
-      "word": "大学是离异性最远的阶段",
-      "onboard_time": 1774270582,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 67672,
       "num": 67672,
       "word": "中国无人机运水果视频国外火了",
@@ -2379,6 +2443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 62354,
+      "num": 65599,
+      "word": "背着小猫环游世界",
+      "onboard_time": 1774273825,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 62343,
       "num": 62343,
       "word": "重庆一车辆失控撞向路边行人致3伤",
@@ -2419,12 +2491,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 60621,
-      "num": 60621,
-      "word": "AI写歌走红程序员9个月赚20万",
-      "onboard_time": 1774272141,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 60507,
+      "num": 65434,
+      "word": "边牧染上猫瘾",
+      "onboard_time": 1774270461,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 60457,
@@ -2465,6 +2537,14 @@
       "onboard_time": 1774266802,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 59378,
+      "num": 65359,
+      "word": "白切鸡咖啡",
+      "onboard_time": 1774273763,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 58329,
@@ -2536,6 +2616,14 @@
       "word": "老太闯入大货车盲区被碾压身亡",
       "onboard_time": 1774241782,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52864,
+      "num": 65087,
+      "word": "四川发现966万吨稀土氧化物",
+      "onboard_time": 1774273103,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2820,7 +2908,7 @@
     },
     {
       "raw_hot": 18034,
-      "num": 641825,
+      "num": 680478,
       "word": "梦想的接力最燃",
       "onboard_time": 1774271362,
       "rank": 2,

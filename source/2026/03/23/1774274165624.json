@@ -1,0 +1,410 @@
+{
+  "runTime": 1774274165624,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1042361,
+        "num": 1166777,
+        "word": "一家四口感染HIV妻子小儿子去世",
+        "onboard_time": 1774268541,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347394,
+        "num": 863237,
+        "word": "国乒公布伦敦世乒赛初步参赛名单",
+        "onboard_time": 1774269562,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17542,
+        "num": 680478,
+        "word": "梦想的接力最燃",
+        "onboard_time": 1774271362,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 344002,
+        "num": 344002,
+        "word": "对国内成品油价格采取临时调控",
+        "onboard_time": 1774250001,
+        "rank": 3,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 163859,
+        "num": 286420,
+        "word": "张凌赫出发录开始推理吧",
+        "onboard_time": 1774270222,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396285,
+        "num": 267051,
+        "word": "伊朗否认与美国沟通",
+        "onboard_time": 1774268481,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246806,
+        "num": 246806,
+        "word": "以前看小说vs现在看小说",
+        "onboard_time": 1774271001,
+        "rank": 6,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 172022,
+        "num": 172022,
+        "word": "长期不换社交头像的人",
+        "onboard_time": 1774252400,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120533,
+        "num": 170887,
+        "word": "去年没换手机的人后悔了吗",
+        "onboard_time": 1774248140,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112785,
+        "num": 168428,
+        "word": "开始推理吧4",
+        "onboard_time": 1774268121,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 871404,
+        "num": 166987,
+        "word": "阚清子晒近照",
+        "onboard_time": 1774268541,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599894,
+        "num": 164901,
+        "word": "男大学生患桃花癫一周挥霍5万",
+        "onboard_time": 1774265900,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349989,
+        "num": 161912,
+        "word": "伊朗称特朗普推迟袭击表态为心理战",
+        "onboard_time": 1774271061,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224367,
+        "num": 159175,
+        "word": "金价创下1983年3月以来最大单周跌幅",
+        "onboard_time": 1774257562,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221899,
+        "num": 157640,
+        "word": "宫脇咲良取关张元英",
+        "onboard_time": 1774272022,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211797,
+        "num": 154445,
+        "word": "上过跑男的团体都解散了",
+        "onboard_time": 1774271603,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153234,
+        "num": 153234,
+        "word": "大学是离异性最远的阶段",
+        "onboard_time": 1774270582,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210041,
+        "num": 150540,
+        "word": "逐玉第二",
+        "onboard_time": 1774257562,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140962,
+        "num": 140962,
+        "word": "美股三大股指期货突然拉升",
+        "onboard_time": 1774268722,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112110,
+        "num": 136401,
+        "word": "教授地铁审博士论文视频海外爆火",
+        "onboard_time": 1774262061,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207745,
+        "num": 136361,
+        "word": "特朗普称美伊已对话",
+        "onboard_time": 1774266080,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151954,
+        "num": 136358,
+        "word": "20岁女生长期开灯睡觉胖到200斤",
+        "onboard_time": 1774271122,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136279,
+        "num": 136279,
+        "word": "为什么我们要多吃水果",
+        "onboard_time": 1774265722,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136184,
+        "num": 136184,
+        "word": "陈锦鸿把自闭症儿子养成青年钢琴家",
+        "onboard_time": 1774273402,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129239,
+        "num": 129239,
+        "word": "开始推理吧",
+        "onboard_time": 1774260020,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120179,
+        "num": 120179,
+        "word": "黄金大跌金店老板慌了",
+        "onboard_time": 1774261702,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119630,
+        "num": 119630,
+        "word": "邓凯新剧又是强制爱",
+        "onboard_time": 1774272202,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114098,
+        "num": 114098,
+        "word": "关晓彤 至今不知道腿长的坏处",
+        "onboard_time": 1774254260,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110244,
+        "num": 110244,
+        "word": "长期喝桶装水的人天塌了",
+        "onboard_time": 1774240521,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102206,
+        "num": 102206,
+        "word": "伊朗地下设施堆放一排排导弹",
+        "onboard_time": 1774265241,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 110065,
+        "num": 102077,
+        "word": "伊朗革命卫队称美国尚未真正认清其实力",
+        "onboard_time": 1774268661,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100122,
+        "num": 100122,
+        "word": "AI短剧付费后竟然变成PPT",
+        "onboard_time": 1774260141,
+        "rank": 31,
+        "category": "舆论监督,剧集"
+      },
+      {
+        "raw_hot": 93194,
+        "num": 93194,
+        "word": "周杰伦新专辑太阳之子",
+        "onboard_time": 1774273882,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92215,
+        "num": 92215,
+        "word": "夏晓兰 春梦",
+        "onboard_time": 1774272622,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88241,
+        "num": 88241,
+        "word": "上海男篮vs广东男篮",
+        "onboard_time": 1774272261,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86807,
+        "num": 86807,
+        "word": "李卿 内娱金宣虎",
+        "onboard_time": 1774261823,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84941,
+        "num": 84941,
+        "word": "齐俞 齐煜",
+        "onboard_time": 1774272801,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83621,
+        "num": 83621,
+        "word": "我洗头后三天的头发蓬松程度",
+        "onboard_time": 1774265422,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79220,
+        "num": 79220,
+        "word": "毛晓彤28岁时因为年龄焦虑大哭",
+        "onboard_time": 1774264340,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68103,
+        "num": 78318,
+        "word": "陈浚铭再帅十年也才23岁",
+        "onboard_time": 1774261702,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77510,
+        "num": 77510,
+        "word": "老铺黄金股价接近腰斩",
+        "onboard_time": 1774272383,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76029,
+        "num": 76029,
+        "word": "AI写歌走红程序员9个月赚20万",
+        "onboard_time": 1774272141,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69026,
+        "num": 69026,
+        "word": "TF五代 拿电话手表聊国际新闻",
+        "onboard_time": 1774262602,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67268,
+        "num": 67268,
+        "word": "教师称退群后家长转为点对点私聊",
+        "onboard_time": 1774258281,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65660,
+        "num": 65660,
+        "word": "种地吧",
+        "onboard_time": 1774263081,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62354,
+        "num": 65599,
+        "word": "背着小猫环游世界",
+        "onboard_time": 1774273825,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60507,
+        "num": 65434,
+        "word": "边牧染上猫瘾",
+        "onboard_time": 1774270461,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59378,
+        "num": 65359,
+        "word": "白切鸡咖啡",
+        "onboard_time": 1774273763,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 59349,
+        "num": 65110,
+        "word": "邓凯考古孔雪儿",
+        "onboard_time": 1774270160,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52864,
+        "num": 65087,
+        "word": "四川发现966万吨稀土氧化物",
+        "onboard_time": 1774273103,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记来到河北雄安新区#"
+    }
+  }
+}
