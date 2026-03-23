@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774303066606,
+  "endTime": 1774305686565,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -1291,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248172,
+      "num": 248172,
+      "word": "美国纽约机场接连发生事故",
+      "onboard_time": 1774283539,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 248035,
       "num": 150269,
       "word": "腾讯视频收集逐玉盗版线索",
@@ -2132,7 +2140,7 @@
     },
     {
       "raw_hot": 151954,
-      "num": 355780,
+      "num": 460195,
       "word": "20岁女生长期开灯睡觉胖到200斤",
       "onboard_time": 1774271122,
       "rank": 30,
@@ -2499,6 +2507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126056,
+      "num": 94589,
+      "word": "误会孙女被打爷爷重伤其同学获刑",
+      "onboard_time": 1774280001,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125751,
       "num": 125751,
       "word": "穿普拉达的女王2内地定档",
@@ -2857,14 +2873,6 @@
       "onboard_time": 1774156521,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107512,
-      "num": 107512,
-      "word": "美国纽约机场接连发生事故",
-      "onboard_time": 1774283539,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 107045,
@@ -3619,14 +3627,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 85218,
-      "num": 94589,
-      "word": "误会孙女被打爷爷重伤其同学获刑",
-      "onboard_time": 1774280001,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84576,
       "num": 84576,
       "word": "黄金失灵根本原因",
@@ -3737,6 +3737,14 @@
       "onboard_time": 1774167800,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 82576,
+      "num": 82576,
+      "word": "四川天府机场多名老人扶梯上逆行",
+      "onboard_time": 1774286716,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82553,
@@ -4305,6 +4313,14 @@
       "onboard_time": 1774249581,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73687,
+      "num": 70735,
+      "word": "以官员称美伊本周将在巴基斯坦会谈",
+      "onboard_time": 1774280720,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73666,
@@ -5291,14 +5307,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 58173,
-      "num": 70735,
-      "word": "以官员称美伊本周将在巴基斯坦会谈",
-      "onboard_time": 1774280720,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 58156,
       "num": 58156,
       "word": "杜兰特回应超越乔丹",
@@ -5555,14 +5563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50793,
-      "num": 37676,
-      "word": "四川天府机场多名老人扶梯上逆行",
-      "onboard_time": 1774286716,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50596,
       "num": 50596,
       "word": "微厘空间02组卫星成功发射",
@@ -5585,6 +5585,14 @@
       "onboard_time": 1774103964,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50233,
+      "num": 70080,
+      "word": "老挝1千余辆电动车15天售罄",
+      "onboard_time": 1774280358,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49722,
@@ -5691,6 +5699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45985,
+      "num": 45985,
+      "word": "特朗普称推迟对伊朗能源设施打击",
+      "onboard_time": 1774300513,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45689,
       "num": 252888,
       "word": "王鹤棣影视飓风雅迪",
@@ -5737,6 +5753,14 @@
       "onboard_time": 1774109721,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42782,
+      "num": 42782,
+      "word": "WTA1000迈阿密站",
+      "onboard_time": 1774281619,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 41458,
@@ -5851,14 +5875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 32213,
-      "num": 32213,
-      "word": "特朗普称推迟对伊朗能源设施打击",
-      "onboard_time": 1774300513,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 31663,
       "num": 31663,
       "word": "谢霆锋演唱会",
@@ -5897,14 +5913,6 @@
       "onboard_time": 1774267221,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30478,
-      "num": 70080,
-      "word": "老挝1千余辆电动车15天售罄",
-      "onboard_time": 1774280358,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 30343,
@@ -6049,14 +6057,6 @@
       "onboard_time": 1774159522,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25963,
-      "num": 30507,
-      "word": "WTA1000迈阿密站",
-      "onboard_time": 1774281619,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 25311,
@@ -6227,6 +6227,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 17100,
+      "num": 25012,
+      "word": "尚界Z7全系标配13大真香科技配置",
+      "onboard_time": 1774304115,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 16742,
+      "num": 30646,
+      "word": "陈楚生太湖湾音乐节官宣",
+      "onboard_time": 1774290553,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 16012,
       "num": 144264,
       "word": "诊所帮助摔倒残疾人反遭纠缠威胁",
@@ -6251,11 +6267,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15273,
-      "num": 30646,
-      "word": "陈楚生太湖湾音乐节官宣",
-      "onboard_time": 1774290553,
-      "rank": 35,
+      "raw_hot": 15051,
+      "num": 30527,
+      "word": "侯明昊加入太湖湾音乐节",
+      "onboard_time": 1774291454,
+      "rank": 41,
       "category": "演出"
     },
     {
@@ -6289,14 +6305,6 @@
       "onboard_time": 1774253540,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12974,
-      "num": 30527,
-      "word": "侯明昊加入太湖湾音乐节",
-      "onboard_time": 1774291454,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 12208,
