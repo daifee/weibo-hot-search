@@ -1,6 +1,6 @@
 {
   "startTime": 1774285387754,
-  "endTime": 1774296253418,
+  "endTime": 1774298739308,
   "band_list": [
     {
       "raw_hot": 304951,
@@ -443,7 +443,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11057,
+      "raw_hot": 11199,
       "num": 26254,
       "word": "金与正说不想看到日本首相来平壤",
       "onboard_time": 1774276402,
@@ -457,6 +457,14 @@
       "onboard_time": 1774255825,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 8480,
+      "num": 17626,
+      "word": "CBA常规赛",
+      "onboard_time": 1774277662,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 8477,

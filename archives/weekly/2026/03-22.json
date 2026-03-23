@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774296253418,
+  "endTime": 1774298739308,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -6345,6 +6345,14 @@
       "onboard_time": 1774159460,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8480,
+      "num": 17626,
+      "word": "CBA常规赛",
+      "onboard_time": 1774277662,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
