@@ -1,0 +1,410 @@
+{
+  "runTime": 1774280161873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 316807,
+        "num": 1050689,
+        "word": "对国内成品油价格采取临时调控",
+        "onboard_time": 1774250001,
+        "rank": 0,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 203813,
+        "num": 766315,
+        "word": "开始推理吧4",
+        "onboard_time": 1774268121,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12160,
+        "num": 593003,
+        "word": "梦想的接力最燃",
+        "onboard_time": 1774271362,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206800,
+        "num": 206800,
+        "word": "朝鲜称与日本没什么可谈的",
+        "onboard_time": 1774275142,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187266,
+        "num": 187266,
+        "word": "14位美企高管来访商务部排排坐",
+        "onboard_time": 1774276462,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243338,
+        "num": 185038,
+        "word": "伊朗否认与美国沟通",
+        "onboard_time": 1774268481,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182205,
+        "num": 182205,
+        "word": "长期不换社交头像的人",
+        "onboard_time": 1774252400,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174304,
+        "num": 174304,
+        "word": "周杰伦新专辑太阳之子",
+        "onboard_time": 1774273882,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162077,
+        "num": 162077,
+        "word": "国乒公布伦敦世乒赛初步参赛名单",
+        "onboard_time": 1774269562,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115047,
+        "num": 161942,
+        "word": "以前看小说vs现在看小说",
+        "onboard_time": 1774271001,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 482199,
+        "num": 161680,
+        "word": "阚清子晒近照",
+        "onboard_time": 1774268541,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440220,
+        "num": 161218,
+        "word": "美股",
+        "onboard_time": 1774274962,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 318806,
+        "num": 160979,
+        "word": "大学是离异性最远的阶段",
+        "onboard_time": 1774270582,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254214,
+        "num": 160607,
+        "word": "金价急跌原因",
+        "onboard_time": 1774278381,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235877,
+        "num": 160276,
+        "word": "男大学生患桃花癫一周挥霍5万",
+        "onboard_time": 1774265900,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235291,
+        "num": 159990,
+        "word": "宫脇咲良取关张元英",
+        "onboard_time": 1774272022,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231989,
+        "num": 159857,
+        "word": "美伊就中东敌对行动解决方案进行对话",
+        "onboard_time": 1774275563,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190615,
+        "num": 159472,
+        "word": "陈锦鸿把自闭症儿子养成青年钢琴家",
+        "onboard_time": 1774273402,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182807,
+        "num": 159119,
+        "word": "范丞丞直播啃玉米",
+        "onboard_time": 1774278801,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13949,
+        "num": 159013,
+        "word": "为爱犬追凶3年案当事人最新发声",
+        "onboard_time": 1774279222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364290,
+        "num": 158576,
+        "word": "情侣住酒店正亲密时被员工开窗",
+        "onboard_time": 1774278261,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158461,
+        "num": 158461,
+        "word": "伊朗称特朗普推迟袭击表态为心理战",
+        "onboard_time": 1774271061,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149543,
+        "num": 149543,
+        "word": "百词斩崩了",
+        "onboard_time": 1774277002,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129125,
+        "num": 129125,
+        "word": "特朗普称美伊已对话",
+        "onboard_time": 1774266080,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120019,
+        "num": 120019,
+        "word": "上过跑男的团体都解散了",
+        "onboard_time": 1774271603,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116461,
+        "num": 116461,
+        "word": "鞠婧祎彩排",
+        "onboard_time": 1774279581,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106470,
+        "num": 106470,
+        "word": "20岁女生长期开灯睡觉胖到200斤",
+        "onboard_time": 1774271122,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103287,
+        "num": 103287,
+        "word": "齐俞 齐煜",
+        "onboard_time": 1774272801,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103123,
+        "num": 103123,
+        "word": "逐玉第二",
+        "onboard_time": 1774257562,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76854,
+        "num": 102542,
+        "word": "普京访华日期将很快公布",
+        "onboard_time": 1774278080,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102454,
+        "num": 102454,
+        "word": "逐玉浴池戏",
+        "onboard_time": 1774278021,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422666,
+        "num": 102317,
+        "word": "张凌赫田曦薇 我爱上了弟弟的妻子",
+        "onboard_time": 1774276224,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97728,
+        "num": 97728,
+        "word": "为什么我们要多吃水果",
+        "onboard_time": 1774265722,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95329,
+        "num": 95329,
+        "word": "瞿颖吃火锅挺废人的",
+        "onboard_time": 1774278141,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95096,
+        "num": 95096,
+        "word": "杨博文晒狗",
+        "onboard_time": 1774277601,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80756,
+        "num": 95035,
+        "word": "长期喝桶装水的人天塌了",
+        "onboard_time": 1774240521,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75449,
+        "num": 95017,
+        "word": "萧蔷曾多次婉拒浪姐邀约",
+        "onboard_time": 1774275623,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74887,
+        "num": 94918,
+        "word": "左奇函两只小狗",
+        "onboard_time": 1774279462,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68867,
+        "num": 94845,
+        "word": "张家齐说直播带货不是天才的陨落",
+        "onboard_time": 1774279700,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29295,
+        "num": 94765,
+        "word": "她的盛焰反派演都不演了",
+        "onboard_time": 1774278801,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74426,
+        "num": 94707,
+        "word": "杨洋手部又受伤了",
+        "onboard_time": 1774277722,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67774,
+        "num": 94589,
+        "word": "误会孙女被打爷爷重伤其同学获刑",
+        "onboard_time": 1774280001,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66306,
+        "num": 94555,
+        "word": "伊朗地下设施堆放一排排导弹",
+        "onboard_time": 1774265241,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 66119,
+        "num": 94456,
+        "word": "邓凯新剧又是强制爱",
+        "onboard_time": 1774272202,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65960,
+        "num": 94390,
+        "word": "张凌赫出发录开始推理吧",
+        "onboard_time": 1774270222,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65037,
+        "num": 94270,
+        "word": "我洗头后三天的头发蓬松程度",
+        "onboard_time": 1774265422,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65376,
+        "num": 94248,
+        "word": "李卿 内娱金宣虎",
+        "onboard_time": 1774261823,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64781,
+        "num": 94112,
+        "word": "开始推理吧",
+        "onboard_time": 1774260020,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61327,
+        "num": 94073,
+        "word": "金价创下1983年3月以来最大单周跌幅",
+        "onboard_time": 1774257562,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58454,
+        "num": 93990,
+        "word": "豆瓣评分",
+        "onboard_time": 1774261460,
+        "rank": 49,
+        "category": "剧集,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在雄安新区考察#"
+    }
+  }
+}
