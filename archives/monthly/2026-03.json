@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774264545762,
+  "endTime": 1774266784257,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -457,6 +457,14 @@
       "onboard_time": 1772786962,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1761175,
+      "num": 271738,
+      "word": "特朗普称推迟5天打击伊朗发电站",
+      "onboard_time": 1774265361,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1754499,
@@ -1497,6 +1505,14 @@
       "onboard_time": 1772779462,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1044350,
+      "num": 159032,
+      "word": "特朗普称美伊已对话",
+      "onboard_time": 1774266080,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1035808,
@@ -3500,7 +3516,7 @@
     },
     {
       "raw_hot": 671338,
-      "num": 126122,
+      "num": 142110,
       "word": "关晓彤 至今不知道腿长的坏处",
       "onboard_time": 1774254260,
       "rank": 20,
@@ -4785,6 +4801,14 @@
       "onboard_time": 1772601084,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 575116,
+      "num": 788696,
+      "word": "流量退去后的鸡排哥与网红街",
+      "onboard_time": 1774263922,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 574637,
@@ -11396,7 +11420,7 @@
     },
     {
       "raw_hot": 324675,
-      "num": 121044,
+      "num": 140371,
       "word": "SM运营误发照片",
       "onboard_time": 1774257680,
       "rank": 24,
@@ -17011,6 +17035,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 225728,
+      "num": 142803,
+      "word": "李卿 内娱金宣虎",
+      "onboard_time": 1774261823,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225523,
       "num": 562066,
       "word": "中方支持伊朗人民渡过难关",
@@ -18011,14 +18043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213852,
-      "num": 110498,
-      "word": "李卿 内娱金宣虎",
-      "onboard_time": 1774261823,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213740,
       "num": 213740,
       "word": "省考答案",
@@ -18585,6 +18609,14 @@
       "onboard_time": 1772533706,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 205722,
+      "num": 205722,
+      "word": "男大学生患桃花癫一周挥霍5万",
+      "onboard_time": 1774265900,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205537,
@@ -21971,6 +22003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168072,
+      "num": 140804,
+      "word": "黄金大跌金店老板慌了",
+      "onboard_time": 1774261702,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 168063,
       "num": 168063,
       "word": "姐姐姐夫共创",
@@ -22305,6 +22345,14 @@
       "onboard_time": 1773924802,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165583,
+      "num": 138890,
+      "word": "伊朗地下设施堆放一排排导弹",
+      "onboard_time": 1774265241,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 165522,
@@ -22939,14 +22987,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 159859,
-      "num": 110581,
-      "word": "黄金大跌金店老板慌了",
-      "onboard_time": 1774261702,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 159698,
       "num": 194535,
       "word": "工作脑vs事业脑",
@@ -22969,6 +23009,14 @@
       "onboard_time": 1773919460,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159642,
+      "num": 159642,
+      "word": "你这个量叫谷饲不叫减脂",
+      "onboard_time": 1774259901,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 159612,
@@ -23632,6 +23680,14 @@
       "word": "曾舜晞回应下部戏拍什么",
       "onboard_time": 1773931882,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154365,
+      "num": 138237,
+      "word": "毛晓彤28岁时因为年龄焦虑大哭",
+      "onboard_time": 1774264340,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -28891,14 +28947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122112,
-      "num": 122112,
-      "word": "你这个量叫谷饲不叫减脂",
-      "onboard_time": 1774259901,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122101,
       "num": 122101,
       "word": "王腾官宣品牌名",
@@ -30515,6 +30563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115349,
+      "num": 100160,
+      "word": "为什么我们要多吃水果",
+      "onboard_time": 1774265722,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115257,
       "num": 101225,
       "word": "伊朗公布袭击美军基地卫星图像",
@@ -30529,6 +30585,14 @@
       "onboard_time": 1772772803,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115145,
+      "num": 115145,
+      "word": "我洗头后三天的头发蓬松程度",
+      "onboard_time": 1774265422,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 115099,
@@ -31049,6 +31113,14 @@
       "onboard_time": 1773627683,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113013,
+      "num": 113013,
+      "word": "TF五代 拿电话手表聊国际新闻",
+      "onboard_time": 1774262602,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 113006,
@@ -31737,14 +31809,6 @@
       "onboard_time": 1772341103,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110207,
-      "num": 110207,
-      "word": "TF五代 拿电话手表聊国际新闻",
-      "onboard_time": 1774262602,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 110162,
@@ -33017,6 +33081,14 @@
       "onboard_time": 1773921321,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105692,
+      "num": 105692,
+      "word": "男子囤33吨石脑油堪比2790斤TNT",
+      "onboard_time": 1774263680,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105664,
@@ -36163,14 +36235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96540,
-      "num": 81239,
-      "word": "流量退去后的鸡排哥与网红街",
-      "onboard_time": 1774263922,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96507,
       "num": 96507,
       "word": "老辈子的精神资产没轻没重的",
@@ -38619,6 +38683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90440,
+      "num": 90440,
+      "word": "BLG登顶LOL战力榜",
+      "onboard_time": 1774265422,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90429,
       "num": 424103,
       "word": "黄金品牌涨价50克金手镯贵了5万元",
@@ -39977,6 +40049,14 @@
       "onboard_time": 1773064944,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87082,
+      "num": 87082,
+      "word": "寿司店后厨老鼠趴在米饭边张望",
+      "onboard_time": 1774264702,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87075,
@@ -43545,14 +43625,6 @@
       "onboard_time": 1773025401,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79231,
-      "num": 79231,
-      "word": "毛晓彤28岁时因为年龄焦虑大哭",
-      "onboard_time": 1774264340,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 79177,
@@ -47579,6 +47651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 71079,
+      "num": 71079,
+      "word": "猫猫笔架",
+      "onboard_time": 1774266080,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71055,
       "num": 856524,
       "word": "年轻人的三座大山房价职场婚恋",
@@ -48065,6 +48145,14 @@
       "onboard_time": 1773358458,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69893,
+      "num": 69893,
+      "word": "十个勤天",
+      "onboard_time": 1774266261,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 69891,
@@ -50763,6 +50851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63453,
+      "num": 63453,
+      "word": "当萨摩耶第一次吃蓝莓",
+      "onboard_time": 1774265842,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63434,
       "num": 98100,
       "word": "智力已达人类低谷",
@@ -51203,14 +51299,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 62403,
-      "num": 78697,
-      "word": "男子囤33吨石脑油堪比2790斤TNT",
-      "onboard_time": 1774263680,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62368,
       "num": 44275,
       "word": "美国土安全部长诺姆被解职",
@@ -51353,6 +51441,14 @@
       "onboard_time": 1774078461,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62105,
+      "num": 62105,
+      "word": "面试最该问的事",
+      "onboard_time": 1774265722,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 62069,
@@ -51985,6 +52081,14 @@
       "onboard_time": 1773216382,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60177,
+      "num": 60177,
+      "word": "张奕然高会评论区全是中考知识点",
+      "onboard_time": 1774266741,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 60157,
@@ -58267,6 +58371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31333,
+      "num": 71214,
+      "word": "在刘耀文贺峻霖面前宋亚轩都变成熟了",
+      "onboard_time": 1774264881,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31323,
       "num": 208985,
       "word": "P图许愿网友被周云杰请到了现场",
@@ -61409,6 +61521,14 @@
       "onboard_time": 1774093223,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16012,
+      "num": 144264,
+      "word": "诊所帮助摔倒残疾人反遭纠缠威胁",
+      "onboard_time": 1774265780,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15996,
