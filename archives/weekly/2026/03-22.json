@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774289433865,
+  "endTime": 1774293004761,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -5555,6 +5555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50793,
+      "num": 37676,
+      "word": "四川天府机场多名老人扶梯上逆行",
+      "onboard_time": 1774286716,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50596,
       "num": 50596,
       "word": "微厘空间02组卫星成功发射",
@@ -5809,14 +5817,6 @@
       "onboard_time": 1774245501,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34358,
-      "num": 37676,
-      "word": "四川天府机场多名老人扶梯上逆行",
-      "onboard_time": 1774286716,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33712,
@@ -6235,6 +6235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15273,
+      "num": 30646,
+      "word": "陈楚生太湖湾音乐节官宣",
+      "onboard_time": 1774290553,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 14479,
       "num": 55371,
       "word": "中国游泳公开赛",
@@ -6265,6 +6273,22 @@
       "onboard_time": 1774253540,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12974,
+      "num": 30527,
+      "word": "侯明昊加入太湖湾音乐节",
+      "onboard_time": 1774291454,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 12657,
+      "num": 30507,
+      "word": "WTA1000迈阿密站",
+      "onboard_time": 1774281619,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 12208,
