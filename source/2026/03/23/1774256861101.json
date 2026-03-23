@@ -1,0 +1,410 @@
+{
+  "runTime": 1774256861101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1219911,
+        "num": 1219911,
+        "word": "对国内成品油价格采取临时调控",
+        "onboard_time": 1774250001,
+        "rank": 0,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 442428,
+        "num": 838436,
+        "word": "问界M6",
+        "onboard_time": 1774254320,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 20518,
+        "num": 706824,
+        "word": "微厘空间02组卫星发射圆满成功",
+        "onboard_time": 1774249822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296059,
+        "num": 296059,
+        "word": "周大生回应戒指印着周大金",
+        "onboard_time": 1774255583,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296056,
+        "num": 296056,
+        "word": "梅姨同居老汉说她曾带3名女孩回家",
+        "onboard_time": 1774252221,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419150,
+        "num": 283173,
+        "word": "长期不换社交头像的人",
+        "onboard_time": 1774252400,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263030,
+        "num": 263030,
+        "word": "去年没换手机的人后悔了吗",
+        "onboard_time": 1774248140,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249775,
+        "num": 249775,
+        "word": "黄金猴市来了",
+        "onboard_time": 1774242920,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 247064,
+        "num": 247064,
+        "word": "华为发布会",
+        "onboard_time": 1774247240,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214648,
+        "num": 214648,
+        "word": "弟弟偷抵32万新车哥哥气炸",
+        "onboard_time": 1774245080,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1523894,
+        "num": 205840,
+        "word": "林心如怎么受得了霍建华这条牛仔裤",
+        "onboard_time": 1774253840,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187227,
+        "num": 187227,
+        "word": "学生2死11伤事故肇事司机已被控制",
+        "onboard_time": 1774250119,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177732,
+        "num": 177732,
+        "word": "长期喝桶装水的人天塌了",
+        "onboard_time": 1774240521,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166831,
+        "num": 166831,
+        "word": "老中医离世后儿子上交460g罂粟壳",
+        "onboard_time": 1774241842,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 162030,
+        "num": 162030,
+        "word": "日本教授中国旅游后感叹日本变态",
+        "onboard_time": 1774241901,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145581,
+        "num": 145581,
+        "word": "等太湖湾音乐节官宣",
+        "onboard_time": 1774253120,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135098,
+        "num": 135098,
+        "word": "眉姐姐来卖丑衣服了",
+        "onboard_time": 1774245259,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129091,
+        "num": 129091,
+        "word": "伊媒称一架美国战斗机被击落",
+        "onboard_time": 1774251199,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36831,
+        "num": 127262,
+        "word": "Mate80风驰版首创仿生羽翼涡扇",
+        "onboard_time": 1774253061,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126864,
+        "num": 126864,
+        "word": "逐玉里康婆子的大孙子现实长这样",
+        "onboard_time": 1774248740,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 671338,
+        "num": 126122,
+        "word": "关晓彤 至今不知道腿长的坏处",
+        "onboard_time": 1774254260,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124453,
+        "num": 124453,
+        "word": "金价八连跌抄底大军越买越跌",
+        "onboard_time": 1774247180,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203860,
+        "num": 124342,
+        "word": "中东战事来到危险临界点",
+        "onboard_time": 1774251741,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124105,
+        "num": 124105,
+        "word": "尚界Z7",
+        "onboard_time": 1774255825,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122334,
+        "num": 122334,
+        "word": "梅姨去年年底就已落网",
+        "onboard_time": 1774250119,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114703,
+        "num": 114703,
+        "word": "阴阳师",
+        "onboard_time": 1774255521,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83391,
+        "num": 114535,
+        "word": "华为跑表业界首发马拉松模式",
+        "onboard_time": 1774255462,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21478,
+        "num": 113950,
+        "word": "为什么拐卖儿童不能买卖同罪",
+        "onboard_time": 1774256721,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72040,
+        "num": 112820,
+        "word": "华为畅享90系列价格真香",
+        "onboard_time": 1774254861,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39243,
+        "num": 112410,
+        "word": "鸿蒙5和鸿蒙6终端设备数超5000万",
+        "onboard_time": 1774253120,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112094,
+        "num": 112094,
+        "word": "女子脖子疼一周确诊胃癌已全身转移",
+        "onboard_time": 1774236201,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110285,
+        "num": 110285,
+        "word": "A股行情",
+        "onboard_time": 1774235241,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106740,
+        "num": 106740,
+        "word": "万茜徒手拎起190斤观众",
+        "onboard_time": 1774247001,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103334,
+        "num": 103334,
+        "word": "张凌赫壁纸",
+        "onboard_time": 1774255702,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92751,
+        "num": 97551,
+        "word": "中方强烈呼吁立即停止军事行动",
+        "onboard_time": 1774256781,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78657,
+        "num": 96895,
+        "word": "妇联回应女孩遭民警猥亵",
+        "onboard_time": 1774255521,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96883,
+        "num": 96883,
+        "word": "逐玉豆瓣6.8",
+        "onboard_time": 1774236799,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94588,
+        "num": 94588,
+        "word": "王俊凯小时候太诡异了",
+        "onboard_time": 1774254382,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92177,
+        "num": 92177,
+        "word": "尚界Z7实车亮相",
+        "onboard_time": 1774256001,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 56728,
+        "num": 88525,
+        "word": "尚界Z7实测896线激光雷达跑山",
+        "onboard_time": 1774256781,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94285,
+        "num": 88179,
+        "word": "将门毒后",
+        "onboard_time": 1774245681,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92300,
+        "num": 87317,
+        "word": "王楚然 全女团队",
+        "onboard_time": 1774256781,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86244,
+        "num": 86244,
+        "word": "A股三大指数尾盘均跌超4%",
+        "onboard_time": 1774255882,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84487,
+        "num": 84487,
+        "word": "3月23日24时油价上调",
+        "onboard_time": 1774254260,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81981,
+        "num": 81981,
+        "word": "大侦探首次双女侦探",
+        "onboard_time": 1774255102,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81037,
+        "num": 81037,
+        "word": "为什么现在白加黑很少见了",
+        "onboard_time": 1774255462,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80216,
+        "num": 80216,
+        "word": "股市",
+        "onboard_time": 1774230680,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79725,
+        "num": 79725,
+        "word": "迪丽热巴像一幅被春天翻开的画",
+        "onboard_time": 1774256781,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67187,
+        "num": 79308,
+        "word": "美国游泳选手把银牌送给观众",
+        "onboard_time": 1774255583,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79222,
+        "num": 79222,
+        "word": "钟楚曦马尔代夫度假",
+        "onboard_time": 1774256841,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}
