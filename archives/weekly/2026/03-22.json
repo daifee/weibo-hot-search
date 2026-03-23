@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774306840296,
+  "endTime": 1774309289746,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -379,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 590092,
+      "num": 304951,
+      "word": "金价急跌原因",
+      "onboard_time": 1774278381,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 589982,
       "num": 1073276,
       "word": "梅姨每交易1名儿童拿1000元介绍费",
@@ -545,6 +553,14 @@
       "onboard_time": 1774157362,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471045,
+      "num": 915644,
+      "word": "美国纽约机场接连发生事故",
+      "onboard_time": 1774283539,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 470380,
@@ -787,14 +803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384015,
-      "num": 304951,
-      "word": "金价急跌原因",
-      "onboard_time": 1774278381,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 383703,
       "num": 769331,
       "word": "开始推理吧4",
@@ -945,14 +953,6 @@
       "onboard_time": 1774257562,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 340011,
-      "num": 284293,
-      "word": "美国纽约机场接连发生事故",
-      "onboard_time": 1774283539,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 338962,
@@ -1227,6 +1227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 267463,
+      "num": 138457,
+      "word": "以色列总理称将继续袭击伊朗黎巴嫩",
+      "onboard_time": 1774308078,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 260334,
       "num": 182696,
       "word": "遭派出所民警猥亵女生父亲申请抗诉",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1774104744,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 256748,
+      "num": 115712,
+      "word": "误会孙女被打爷爷重伤其同学获刑",
+      "onboard_time": 1774280001,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254603,
@@ -1344,6 +1360,14 @@
       "word": "女生遭民警猥亵父亲刚开始以为是胡说",
       "onboard_time": 1774172842,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240946,
+      "num": 240946,
+      "word": "海马体为出片要求穿长裙致孕妇摔倒",
+      "onboard_time": 1774308379,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -1563,6 +1587,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221191,
+      "num": 112804,
+      "word": "张凌赫为什么被称为粉底液将军",
+      "onboard_time": 1774308499,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219507,
+      "num": 585332,
+      "word": "20岁女生长期开灯睡觉胖到200斤",
+      "onboard_time": 1774271122,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218505,
       "num": 172854,
       "word": "河南男孩遭老师要求互打后坠亡后续",
@@ -1707,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200234,
+      "num": 644559,
+      "word": "四川天府机场多名老人扶梯上逆行",
+      "onboard_time": 1774286716,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199480,
       "num": 193821,
       "word": "瞿颖西班牙 王俊凯新加坡",
@@ -1761,14 +1809,6 @@
       "onboard_time": 1774270222,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194074,
-      "num": 94589,
-      "word": "误会孙女被打爷爷重伤其同学获刑",
-      "onboard_time": 1774280001,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193554,
@@ -2147,14 +2187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151954,
-      "num": 585332,
-      "word": "20岁女生长期开灯睡觉胖到200斤",
-      "onboard_time": 1774271122,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151478,
       "num": 247094,
       "word": "被喀麦隆标中国一省台当局破大防",
@@ -2281,6 +2313,22 @@
       "onboard_time": 1774184303,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142453,
+      "num": 102349,
+      "word": "开推4迪丽热巴退出丁程鑫加入",
+      "onboard_time": 1774308199,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141282,
+      "num": 141282,
+      "word": "周琦8罚0中",
+      "onboard_time": 1774307718,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 141023,
@@ -2563,6 +2611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119892,
+      "num": 119892,
+      "word": "郑钦文无缘迈阿密赛八强",
+      "onboard_time": 1774307299,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119708,
       "num": 119708,
       "word": "东航回应MU5128航班起火",
@@ -2753,14 +2809,6 @@
       "onboard_time": 1774262602,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112797,
-      "num": 112797,
-      "word": "四川天府机场多名老人扶梯上逆行",
-      "onboard_time": 1774286716,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111330,
@@ -3059,6 +3107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100892,
+      "num": 100892,
+      "word": "老挝1千余辆电动车15天售罄",
+      "onboard_time": 1774280358,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100851,
       "num": 98528,
       "word": "章若楠 无以言表好好演戏",
@@ -3161,6 +3217,14 @@
       "onboard_time": 1774187002,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97182,
+      "num": 97182,
+      "word": "以官员称美伊本周将在巴基斯坦会谈",
+      "onboard_time": 1774280720,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97181,
@@ -3395,6 +3459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91527,
+      "num": 91527,
+      "word": "女孩地铁吐血用外套擦地让人心疼",
+      "onboard_time": 1774308679,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91322,
       "num": 91322,
       "word": "BLG请神",
@@ -3553,14 +3625,6 @@
       "onboard_time": 1774252161,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 87893,
-      "num": 70735,
-      "word": "以官员称美伊本周将在巴基斯坦会谈",
-      "onboard_time": 1774280720,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87875,
@@ -3777,6 +3841,14 @@
       "onboard_time": 1774258462,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 82105,
+      "num": 82105,
+      "word": "伊朗称美为操纵市场散布假新闻",
+      "onboard_time": 1774308438,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81981,
@@ -4435,6 +4507,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 72048,
+      "num": 72048,
+      "word": "郑钦文迈阿密0比2萨巴伦卡",
+      "onboard_time": 1774307299,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72040,
       "num": 114636,
       "word": "华为畅享90系列价格真香",
@@ -4529,14 +4609,6 @@
       "onboard_time": 1774107386,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70452,
-      "num": 70452,
-      "word": "老挝1千余辆电动车15天售罄",
-      "onboard_time": 1774280358,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 70398,
@@ -4723,6 +4795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67374,
+      "num": 67374,
+      "word": "曝Rookie回归",
+      "onboard_time": 1774309099,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67187,
       "num": 79308,
       "word": "美国游泳选手把银牌送给观众",
@@ -4769,6 +4849,14 @@
       "onboard_time": 1774142480,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 66806,
+      "num": 66806,
+      "word": "王俊凯晒录音照",
+      "onboard_time": 1774307418,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 66798,
@@ -4904,6 +4992,14 @@
       "word": "火箭绝杀热火",
       "onboard_time": 1774153941,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64836,
+      "num": 70698,
+      "word": "樊振东获伦敦世乒赛直通资格",
+      "onboard_time": 1774282340,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -5195,14 +5291,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 60791,
-      "num": 70698,
-      "word": "樊振东获伦敦世乒赛直通资格",
-      "onboard_time": 1774282340,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 60724,
       "num": 64826,
       "word": "这下谁能分得清蹦极和坐秋千",
@@ -5353,6 +5441,14 @@
       "onboard_time": 1774149981,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57684,
+      "num": 57684,
+      "word": "手机涨价潮到来",
+      "onboard_time": 1774308799,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 57624,
@@ -5563,6 +5659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52281,
+      "num": 52281,
+      "word": "萨巴伦卡赛季第20胜",
+      "onboard_time": 1774309099,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52075,
       "num": 54177,
       "word": "阿森纳0比2曼城",
@@ -5576,6 +5680,22 @@
       "word": "梅姨曾与60多岁老人同居2年",
       "onboard_time": 1774085363,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51718,
+      "num": 51718,
+      "word": "真正的麻辣香锅已经非常罕见了",
+      "onboard_time": 1774309219,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 51267,
+      "num": 51267,
+      "word": "家人否认喂猫被捅死男子拿刀下楼",
+      "onboard_time": 1774309040,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -5681,6 +5801,14 @@
       "onboard_time": 1774095621,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46740,
+      "num": 46740,
+      "word": "男孩被要求互打后坠亡老师仍在上课",
+      "onboard_time": 1774309099,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46705,

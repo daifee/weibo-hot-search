@@ -1,9 +1,9 @@
 {
   "startTime": 1774285387754,
-  "endTime": 1774306840296,
+  "endTime": 1774309289746,
   "band_list": [
     {
-      "raw_hot": 384015,
+      "raw_hot": 590092,
       "num": 304951,
       "word": "金价急跌原因",
       "onboard_time": 1774278381,
@@ -11,20 +11,92 @@
       "category": "财经"
     },
     {
-      "raw_hot": 340011,
-      "num": 284293,
+      "raw_hot": 471045,
+      "num": 915644,
       "word": "美国纽约机场接连发生事故",
       "onboard_time": 1774283539,
       "rank": 30,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 194074,
-      "num": 85218,
+      "raw_hot": 267463,
+      "num": 138457,
+      "word": "以色列总理称将继续袭击伊朗黎巴嫩",
+      "onboard_time": 1774308078,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 256748,
+      "num": 115712,
       "word": "误会孙女被打爷爷重伤其同学获刑",
       "onboard_time": 1774280001,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255091,
+      "num": 102831,
+      "word": "情侣住酒店正亲密时被员工开窗",
+      "onboard_time": 1774278261,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251097,
+      "num": 113714,
+      "word": "男大学生患桃花癫一周挥霍5万",
+      "onboard_time": 1774265900,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240946,
+      "num": 240946,
+      "word": "海马体为出片要求穿长裙致孕妇摔倒",
+      "onboard_time": 1774308379,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221191,
+      "num": 112804,
+      "word": "张凌赫为什么被称为粉底液将军",
+      "onboard_time": 1774308499,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219507,
+      "num": 585332,
+      "word": "20岁女生长期开灯睡觉胖到200斤",
+      "onboard_time": 1774271122,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203211,
+      "num": 326087,
+      "word": "美伊就中东敌对行动解决方案进行对话",
+      "onboard_time": 1774275563,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 200234,
+      "num": 644559,
+      "word": "四川天府机场多名老人扶梯上逆行",
+      "onboard_time": 1774286716,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199962,
+      "num": 175412,
+      "word": "阚清子晒近照",
+      "onboard_time": 1774268541,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 178437,
@@ -35,44 +107,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 175412,
-      "num": 175412,
-      "word": "阚清子晒近照",
-      "onboard_time": 1774268541,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 156064,
-      "num": 88446,
-      "word": "情侣住酒店正亲密时被员工开窗",
-      "onboard_time": 1774278261,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154655,
-      "num": 70312,
+      "raw_hot": 171985,
+      "num": 106435,
       "word": "陈锦鸿把自闭症儿子养成青年钢琴家",
       "onboard_time": 1774273402,
       "rank": 33,
       "category": "艺人"
     },
     {
-      "raw_hot": 146762,
-      "num": 326087,
-      "word": "美伊就中东敌对行动解决方案进行对话",
-      "onboard_time": 1774275563,
-      "rank": 5,
-      "category": "国际时政"
+      "raw_hot": 142453,
+      "num": 102349,
+      "word": "开推4迪丽热巴退出丁程鑫加入",
+      "onboard_time": 1774308199,
+      "rank": 21,
+      "category": "综艺"
     },
     {
-      "raw_hot": 142702,
-      "num": 585332,
-      "word": "20岁女生长期开灯睡觉胖到200斤",
-      "onboard_time": 1774271122,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 141282,
+      "num": 141282,
+      "word": "周琦8罚0中",
+      "onboard_time": 1774307718,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 135965,
@@ -83,20 +139,36 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 113767,
-      "num": 97094,
-      "word": "男大学生患桃花癫一周挥霍5万",
-      "onboard_time": 1774265900,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 128124,
+      "num": 427722,
+      "word": "朝鲜称与日本没什么可谈的",
+      "onboard_time": 1774275142,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 112797,
-      "num": 112797,
-      "word": "四川天府机场多名老人扶梯上逆行",
-      "onboard_time": 1774286716,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 120911,
+      "num": 103579,
+      "word": "大学是离异性最远的阶段",
+      "onboard_time": 1774270582,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 119892,
+      "num": 119892,
+      "word": "郑钦文无缘迈阿密赛八强",
+      "onboard_time": 1774307299,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103153,
+      "num": 103153,
+      "word": "周杰伦新专辑太阳之子",
+      "onboard_time": 1774273882,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 101312,
@@ -105,6 +177,14 @@
       "onboard_time": 1774274962,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100892,
+      "num": 100892,
+      "word": "老挝1千余辆电动车15天售罄",
+      "onboard_time": 1774280358,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99888,
@@ -123,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97182,
+      "num": 97182,
+      "word": "以官员称美伊本周将在巴基斯坦会谈",
+      "onboard_time": 1774280720,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93958,
       "num": 93958,
       "word": "范丞丞直播啃玉米",
@@ -131,20 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93612,
-      "num": 93612,
-      "word": "周杰伦新专辑太阳之子",
-      "onboard_time": 1774273882,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 92028,
-      "num": 427722,
-      "word": "朝鲜称与日本没什么可谈的",
-      "onboard_time": 1774275142,
-      "rank": 1,
-      "category": "国际时政"
+      "raw_hot": 91527,
+      "num": 91527,
+      "word": "女孩地铁吐血用外套擦地让人心疼",
+      "onboard_time": 1774308679,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90130,
@@ -155,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87893,
-      "num": 70735,
-      "word": "以官员称美伊本周将在巴基斯坦会谈",
-      "onboard_time": 1774280720,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 83516,
       "num": 312010,
       "word": "迪士尼十周年受害者",
@@ -171,12 +243,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83354,
-      "num": 83354,
-      "word": "大学是离异性最远的阶段",
-      "onboard_time": 1774270582,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 82105,
+      "num": 82105,
+      "word": "伊朗称美为操纵市场散布假新闻",
+      "onboard_time": 1774308438,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73492,
@@ -187,12 +259,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70452,
-      "num": 70452,
-      "word": "老挝1千余辆电动车15天售罄",
-      "onboard_time": 1774280358,
-      "rank": 45,
-      "category": "海外新闻"
+      "raw_hot": 72048,
+      "num": 72048,
+      "word": "郑钦文迈阿密0比2萨巴伦卡",
+      "onboard_time": 1774307299,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68913,
+      "num": 70087,
+      "word": "为什么我们要多吃水果",
+      "onboard_time": 1774265722,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67781,
@@ -211,12 +291,52 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67374,
+      "num": 67374,
+      "word": "曝Rookie回归",
+      "onboard_time": 1774309099,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 66934,
+      "num": 70557,
+      "word": "伊朗地下设施堆放一排排导弹",
+      "onboard_time": 1774265241,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 66806,
+      "num": 66806,
+      "word": "王俊凯晒录音照",
+      "onboard_time": 1774307418,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66626,
       "num": 330650,
       "word": "长期不换社交头像的人",
       "onboard_time": 1774252400,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64891,
+      "num": 70457,
+      "word": "伊朗称特朗普推迟袭击表态为心理战",
+      "onboard_time": 1774271061,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 64836,
+      "num": 70698,
+      "word": "樊振东获伦敦世乒赛直通资格",
+      "onboard_time": 1774282340,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 64615,
@@ -235,20 +355,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60791,
-      "num": 70698,
-      "word": "樊振东获伦敦世乒赛直通资格",
-      "onboard_time": 1774282340,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 59250,
       "num": 305321,
       "word": "以前看小说vs现在看小说",
       "onboard_time": 1774271001,
       "rank": 9,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 57684,
+      "num": 57684,
+      "word": "手机涨价潮到来",
+      "onboard_time": 1774308799,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 56064,
@@ -259,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53199,
-      "num": 70087,
-      "word": "为什么我们要多吃水果",
-      "onboard_time": 1774265722,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 52679,
       "num": 70484,
       "word": "上过跑男的团体都解散了",
@@ -275,12 +387,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 52168,
-      "num": 70457,
-      "word": "伊朗称特朗普推迟袭击表态为心理战",
-      "onboard_time": 1774271061,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 52281,
+      "num": 52281,
+      "word": "萨巴伦卡赛季第20胜",
+      "onboard_time": 1774309099,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51779,
+      "num": 70250,
+      "word": "张家齐说直播带货不是天才的陨落",
+      "onboard_time": 1774279700,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51718,
+      "num": 51718,
+      "word": "真正的麻辣香锅已经非常罕见了",
+      "onboard_time": 1774309219,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 51588,
@@ -291,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51267,
+      "num": 51267,
+      "word": "家人否认喂猫被捅死男子拿刀下楼",
+      "onboard_time": 1774309040,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50664,
       "num": 70347,
       "word": "张凌赫出发录开始推理吧",
@@ -299,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45451,
-      "num": 70557,
-      "word": "伊朗地下设施堆放一排排导弹",
-      "onboard_time": 1774265241,
-      "rank": 36,
-      "category": "军事"
+      "raw_hot": 46740,
+      "num": 46740,
+      "word": "男孩被要求互打后坠亡老师仍在上课",
+      "onboard_time": 1774309099,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45049,
@@ -315,12 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44568,
-      "num": 70250,
-      "word": "张家齐说直播带货不是天才的陨落",
-      "onboard_time": 1774279700,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 44883,
+      "num": 70407,
+      "word": "杨洋手部又受伤了",
+      "onboard_time": 1774277722,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43199,
+      "num": 70133,
+      "word": "我洗头后三天的头发蓬松程度",
+      "onboard_time": 1774265422,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 41828,
@@ -329,22 +473,6 @@
       "onboard_time": 1774260020,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40598,
-      "num": 70407,
-      "word": "杨洋手部又受伤了",
-      "onboard_time": 1774277722,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 39361,
-      "num": 70133,
-      "word": "我洗头后三天的头发蓬松程度",
-      "onboard_time": 1774265422,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 37615,
@@ -467,20 +595,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13973,
+      "num": 541695,
+      "word": "梦想的接力最燃",
+      "onboard_time": 1774271362,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13900,
       "num": 37158,
       "word": "CBA常规赛",
       "onboard_time": 1774277662,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10290,
-      "num": 335755,
-      "word": "梦想的接力最燃",
-      "onboard_time": 1774271362,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9609,
