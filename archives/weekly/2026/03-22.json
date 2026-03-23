@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774305686565,
+  "endTime": 1774306840296,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -787,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384015,
+      "num": 304951,
+      "word": "金价急跌原因",
+      "onboard_time": 1774278381,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 383703,
       "num": 769331,
       "word": "开始推理吧4",
@@ -939,6 +947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 340011,
+      "num": 284293,
+      "word": "美国纽约机场接连发生事故",
+      "onboard_time": 1774283539,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 338962,
       "num": 338962,
       "word": "郑合惠子将门毒后妆造",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1774189043,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304951,
-      "num": 304951,
-      "word": "金价急跌原因",
-      "onboard_time": 1774278381,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 303796,
@@ -1289,14 +1297,6 @@
       "onboard_time": 1774182441,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248172,
-      "num": 248172,
-      "word": "美国纽约机场接连发生事故",
-      "onboard_time": 1774283539,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 248035,
@@ -1763,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194074,
+      "num": 94589,
+      "word": "误会孙女被打爷爷重伤其同学获刑",
+      "onboard_time": 1774280001,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193554,
       "num": 165853,
       "word": "百词斩崩了",
@@ -2140,7 +2148,7 @@
     },
     {
       "raw_hot": 151954,
-      "num": 460195,
+      "num": 585332,
       "word": "20岁女生长期开灯睡觉胖到200斤",
       "onboard_time": 1774271122,
       "rank": 30,
@@ -2507,14 +2515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126056,
-      "num": 94589,
-      "word": "误会孙女被打爷爷重伤其同学获刑",
-      "onboard_time": 1774280001,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125751,
       "num": 125751,
       "word": "穿普拉达的女王2内地定档",
@@ -2753,6 +2753,14 @@
       "onboard_time": 1774262602,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112797,
+      "num": 112797,
+      "word": "四川天府机场多名老人扶梯上逆行",
+      "onboard_time": 1774286716,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111330,
@@ -3547,6 +3555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87893,
+      "num": 70735,
+      "word": "以官员称美伊本周将在巴基斯坦会谈",
+      "onboard_time": 1774280720,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87875,
       "num": 87875,
       "word": "小米与三大顶级赛事签约",
@@ -3737,14 +3753,6 @@
       "onboard_time": 1774167800,
       "rank": 31,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 82576,
-      "num": 82576,
-      "word": "四川天府机场多名老人扶梯上逆行",
-      "onboard_time": 1774286716,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82553,
@@ -4315,14 +4323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73687,
-      "num": 70735,
-      "word": "以官员称美伊本周将在巴基斯坦会谈",
-      "onboard_time": 1774280720,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 73666,
       "num": 108350,
       "word": "学术期刊发表儿童如厕研究引争议",
@@ -4531,6 +4531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70452,
+      "num": 70452,
+      "word": "老挝1千余辆电动车15天售罄",
+      "onboard_time": 1774280358,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70398,
       "num": 70398,
       "word": "于东来回应40亿分配争议",
@@ -4681,6 +4689,14 @@
       "onboard_time": 1774146859,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67781,
+      "num": 67781,
+      "word": "特朗普称推迟对伊朗能源设施打击",
+      "onboard_time": 1774300513,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67735,
@@ -4921,6 +4937,14 @@
       "onboard_time": 1774159700,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 64615,
+      "num": 64615,
+      "word": "WTA1000迈阿密站",
+      "onboard_time": 1774281619,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 64378,
@@ -5587,14 +5611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50233,
-      "num": 70080,
-      "word": "老挝1千余辆电动车15天售罄",
-      "onboard_time": 1774280358,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 49722,
       "num": 181334,
       "word": "伊朗手中握有真正的筹码",
@@ -5699,14 +5715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45985,
-      "num": 45985,
-      "word": "特朗普称推迟对伊朗能源设施打击",
-      "onboard_time": 1774300513,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45689,
       "num": 252888,
       "word": "王鹤棣影视飓风雅迪",
@@ -5753,14 +5761,6 @@
       "onboard_time": 1774109721,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42782,
-      "num": 42782,
-      "word": "WTA1000迈阿密站",
-      "onboard_time": 1774281619,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 41458,
@@ -6035,6 +6035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27442,
+      "num": 37442,
+      "word": "尚界Z7全系标配13大真香科技配置",
+      "onboard_time": 1774304115,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 27351,
       "num": 40500,
       "word": "迪丽热巴首谈卫蓝",
@@ -6105,6 +6113,14 @@
       "onboard_time": 1774256721,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20931,
+      "num": 37277,
+      "word": "陈楚生太湖湾音乐节官宣",
+      "onboard_time": 1774290553,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 19570,
@@ -6227,22 +6243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 17100,
-      "num": 25012,
-      "word": "尚界Z7全系标配13大真香科技配置",
-      "onboard_time": 1774304115,
-      "rank": 45,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 16742,
-      "num": 30646,
-      "word": "陈楚生太湖湾音乐节官宣",
-      "onboard_time": 1774290553,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 16012,
       "num": 144264,
       "word": "诊所帮助摔倒残疾人反遭纠缠威胁",
@@ -6297,6 +6297,14 @@
       "onboard_time": 1774279222,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13900,
+      "num": 37158,
+      "word": "CBA常规赛",
+      "onboard_time": 1774277662,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 13321,
@@ -6361,14 +6369,6 @@
       "onboard_time": 1774159460,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8480,
-      "num": 17626,
-      "word": "CBA常规赛",
-      "onboard_time": 1774277662,
-      "rank": 48,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
