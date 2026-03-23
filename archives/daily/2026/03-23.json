@@ -1,6 +1,6 @@
 {
   "startTime": 1774197653930,
-  "endTime": 1774250546796,
+  "endTime": 1774253635946,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -9,6 +9,14 @@
       "onboard_time": 1774198160,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2275249,
+      "num": 2275249,
+      "word": "对国内成品油价格采取临时调控",
+      "onboard_time": 1774250001,
+      "rank": 0,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 1541346,
@@ -35,14 +43,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1133393,
-      "num": 1181343,
-      "word": "对国内成品油价格采取临时调控",
-      "onboard_time": 1774250001,
-      "rank": 0,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 1066809,
       "num": 209970,
       "word": "股灾",
@@ -57,6 +57,14 @@
       "onboard_time": 1774245080,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1008098,
+      "num": 139964,
+      "word": "金价年内涨幅已清零",
+      "onboard_time": 1774249220,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 895271,
@@ -267,6 +275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 389332,
+      "num": 1009240,
+      "word": "梅姨同居老汉说她曾带3名女孩回家",
+      "onboard_time": 1774252221,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371222,
       "num": 787396,
       "word": "大疆起诉影石创新",
@@ -347,19 +363,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292492,
+      "num": 292492,
+      "word": "去年没换手机的人后悔了吗",
+      "onboard_time": 1774248140,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 275862,
       "num": 275862,
       "word": "黄金白银开涨了",
       "onboard_time": 1774222221,
       "rank": 12,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 274263,
-      "num": 139964,
-      "word": "金价年内涨幅已清零",
-      "onboard_time": 1774249220,
-      "rank": 30,
       "category": "财经"
     },
     {
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 243638,
-      "num": 204911,
+      "num": 215619,
       "word": "逐玉里康婆子的大孙子现实长这样",
       "onboard_time": 1774248740,
       "rank": 13,
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 210468,
-      "num": 191105,
+      "num": 193436,
       "word": "金价八连跌抄底大军越买越跌",
       "onboard_time": 1774247180,
       "rank": 20,
@@ -491,20 +507,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 194665,
+      "num": 194665,
+      "word": "万茜徒手拎起190斤观众",
+      "onboard_time": 1774247001,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187484,
+      "num": 187484,
+      "word": "梅姨去年年底就已落网",
+      "onboard_time": 1774250119,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184493,
       "num": 471339,
       "word": "伊朗导弹绕过以色列拦截弹",
       "onboard_time": 1774191683,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 182878,
-      "num": 182878,
-      "word": "万茜徒手拎起190斤观众",
-      "onboard_time": 1774247001,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 182175,
@@ -528,6 +552,14 @@
       "word": "爱吃荔枝的人今年天塌了",
       "onboard_time": 1774171282,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172073,
+      "num": 191234,
+      "word": "学生2死11伤事故肇事司机已被控制",
+      "onboard_time": 1774250119,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -585,6 +617,14 @@
       "onboard_time": 1774237160,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158495,
+      "num": 158495,
+      "word": "伊媒称一架美国战斗机被击落",
+      "onboard_time": 1774251199,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151478,
@@ -675,14 +715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 135345,
-      "num": 135345,
-      "word": "去年没换手机的人后悔了吗",
-      "onboard_time": 1774248140,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 132002,
       "num": 132002,
       "word": "迪士尼平替把多少县城父母骗惨了",
@@ -731,6 +763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120506,
+      "num": 120506,
+      "word": "中东战事来到危险临界点",
+      "onboard_time": 1774251741,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120323,
       "num": 120323,
       "word": "张翅回应请粉丝在家里吃饭",
@@ -769,6 +809,14 @@
       "onboard_time": 1774249881,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117990,
+      "num": 117990,
+      "word": "鸿蒙5和鸿蒙6终端设备数超5000万",
+      "onboard_time": 1774253120,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 117465,
@@ -827,6 +875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110284,
+      "num": 110284,
+      "word": "等太湖湾音乐节官宣",
+      "onboard_time": 1774253120,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109860,
       "num": 109860,
       "word": "大侦探",
@@ -881,6 +937,14 @@
       "onboard_time": 1774240881,
       "rank": 37,
       "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 105794,
+      "num": 105794,
+      "word": "长期不换社交头像的人",
+      "onboard_time": 1774252400,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 105374,
@@ -1019,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91951,
+      "num": 91951,
+      "word": "郑合惠子将门独后妆造",
+      "onboard_time": 1774243280,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90826,
       "num": 90826,
       "word": "李帝努 电子烟",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1774223299,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90440,
+      "num": 87329,
+      "word": "张凌赫现身浙江仙居拍摄归鸾",
+      "onboard_time": 1774253480,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 90335,
@@ -1081,6 +1161,14 @@
       "onboard_time": 1774242740,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 88065,
+      "num": 88065,
+      "word": "现货黄金失守4200",
+      "onboard_time": 1774252161,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 87875,
@@ -1147,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81768,
+      "num": 81768,
+      "word": "龚俊拍1集需2袋瓜子",
+      "onboard_time": 1774252582,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81536,
       "num": 81536,
       "word": "A股半日成交1.46万亿放量155亿",
@@ -1171,12 +1267,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80993,
+      "num": 80993,
+      "word": "伊朗称整体战局正在扭转",
+      "onboard_time": 1774251501,
+      "rank": 42,
+      "category": "军事"
+    },
+    {
       "raw_hot": 80135,
       "num": 80135,
       "word": "安宥真崴脚",
       "onboard_time": 1774229960,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79416,
+      "num": 79416,
+      "word": "房产中介为吃26万差价分饰两角",
+      "onboard_time": 1774253000,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79121,
@@ -1443,12 +1555,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65576,
+      "num": 65576,
+      "word": "80天宝宝对妈妈说了句可爱",
+      "onboard_time": 1774252101,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65472,
       "num": 65472,
       "word": "LOL季中杯全球总决赛官宣",
       "onboard_time": 1774231041,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65255,
+      "num": 65255,
+      "word": "纽约机场一客机撞上地面车辆",
+      "onboard_time": 1774252941,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65234,
+      "num": 65234,
+      "word": "建议下班回家后立刻洗漱",
+      "onboard_time": 1774249521,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 64870,
@@ -1473,6 +1609,14 @@
       "onboard_time": 1774227561,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 64069,
+      "num": 73413,
+      "word": "申聪为抓获梅姨提供关键物证",
+      "onboard_time": 1774252400,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63413,
@@ -1537,6 +1681,14 @@
       "onboard_time": 1774223422,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 58120,
+      "num": 128921,
+      "word": "Mate80风驰版首创仿生羽翼涡扇",
+      "onboard_time": 1774253061,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 57893,
@@ -1684,7 +1836,7 @@
     },
     {
       "raw_hot": 33485,
-      "num": 706763,
+      "num": 779876,
       "word": "微厘空间02组卫星发射圆满成功",
       "onboard_time": 1774249822,
       "rank": 2,
@@ -1715,20 +1867,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 28042,
-      "num": 191234,
-      "word": "学生2死11伤事故肇事司机已被控制",
-      "onboard_time": 1774250119,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26755,
       "num": 52278,
       "word": "太湖湾音乐节",
       "onboard_time": 1774186581,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 22399,
+      "num": 108836,
+      "word": "梅姨案未过20年追诉时效",
+      "onboard_time": 1774253420,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21617,
@@ -1763,12 +1915,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17703,
+      "num": 82147,
+      "word": "情侣酒局后女子坠亡家属向男友索赔",
+      "onboard_time": 1774253180,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17117,
       "num": 29362,
       "word": "11件让人幸福的春日小事",
       "onboard_time": 1774219936,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13321,
+      "num": 82182,
+      "word": "倪妮睡觉也要开着武林外传",
+      "onboard_time": 1774253540,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 12884,
