@@ -1,0 +1,410 @@
+{
+  "runTime": 1774243343682,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 217135,
+        "num": 1034741,
+        "word": "梅姨每交易1名儿童拿1000元介绍费",
+        "onboard_time": 1774221138,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179720,
+        "num": 772940,
+        "word": "桃花坞上新人了",
+        "onboard_time": 1774237941,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54041,
+        "num": 573854,
+        "word": "歼10总师不想让国家挨打",
+        "onboard_time": 1774227561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376137,
+        "num": 376137,
+        "word": "贵州赫章交通事故致学生2死11伤",
+        "onboard_time": 1774238660,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308616,
+        "num": 367720,
+        "word": "何润东演的项羽",
+        "onboard_time": 1774238961,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1135162,
+        "num": 366290,
+        "word": "伊朗导弹上写着感谢西班牙首相",
+        "onboard_time": 1774240101,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 401104,
+        "num": 366129,
+        "word": "逐玉豆瓣6.8",
+        "onboard_time": 1774236799,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364346,
+        "num": 364346,
+        "word": "熟人羞耻症",
+        "onboard_time": 1774238302,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200483,
+        "num": 363149,
+        "word": "MBC告B站侵权胜诉",
+        "onboard_time": 1774234159,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131259,
+        "num": 351086,
+        "word": "梅姨落网宝贝回家创始人发声",
+        "onboard_time": 1774241661,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428617,
+        "num": 347544,
+        "word": "民警猥亵女生后曾上门吵闹",
+        "onboard_time": 1774238241,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394675,
+        "num": 339025,
+        "word": "长期喝桶装水的人天塌了",
+        "onboard_time": 1774240521,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 337408,
+        "num": 337408,
+        "word": "时代少年团 跑男",
+        "onboard_time": 1774231821,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300945,
+        "num": 300945,
+        "word": "张凌赫喜欢浴池吻 好糟糕的原因",
+        "onboard_time": 1774232302,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291865,
+        "num": 291865,
+        "word": "金价波动",
+        "onboard_time": 1774241602,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216437,
+        "num": 216437,
+        "word": "A股行情",
+        "onboard_time": 1774235241,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25295,
+        "num": 211408,
+        "word": "18城偶遇王一博",
+        "onboard_time": 1774238779,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210546,
+        "num": 210546,
+        "word": "郑合惠子将门毒后妆造",
+        "onboard_time": 1774243280,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206352,
+        "num": 206352,
+        "word": "衣服穿人vs人穿衣服",
+        "onboard_time": 1774234580,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77248,
+        "num": 202915,
+        "word": "教育局回应毕节学生2死11伤",
+        "onboard_time": 1774242861,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247476,
+        "num": 202896,
+        "word": "32岁孕妈怀孕后容貌变化明显",
+        "onboard_time": 1774231279,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 207489,
+        "num": 202895,
+        "word": "女子脖子疼一周确诊胃癌已全身转移",
+        "onboard_time": 1774236201,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202821,
+        "num": 202821,
+        "word": "张峻豪致敬TFBOYS",
+        "onboard_time": 1774239201,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111292,
+        "num": 193516,
+        "word": "被喀麦隆标中国一省台当局破大防",
+        "onboard_time": 1774236860,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189599,
+        "num": 189599,
+        "word": "郑合惠子在拍戏放弃去hi6女主剧宣",
+        "onboard_time": 1774226722,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179266,
+        "num": 179266,
+        "word": "逐玉",
+        "onboard_time": 1774221138,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123905,
+        "num": 123905,
+        "word": "国内金价跌破1000元",
+        "onboard_time": 1774236799,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138847,
+        "num": 123532,
+        "word": "田曦薇问张凌赫张哥你这什么妆造",
+        "onboard_time": 1774237160,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118271,
+        "num": 118271,
+        "word": "黄金几乎抹去今年全部涨幅",
+        "onboard_time": 1774237341,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111969,
+        "num": 111969,
+        "word": "央视公布梅姨案细节",
+        "onboard_time": 1774242740,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 485491,
+        "num": 111897,
+        "word": "日本教授中国旅游后感叹日本变态",
+        "onboard_time": 1774241901,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 375444,
+        "num": 111759,
+        "word": "老中医离世后儿子上交460g罂粟壳",
+        "onboard_time": 1774241842,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 111515,
+        "num": 111515,
+        "word": "A股",
+        "onboard_time": 1774230080,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111264,
+        "num": 111264,
+        "word": "梅姨样貌是两张画像结合体",
+        "onboard_time": 1774239259,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109983,
+        "num": 109983,
+        "word": "Bin是世一上",
+        "onboard_time": 1774198160,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108280,
+        "num": 108280,
+        "word": "黄金猴市来了",
+        "onboard_time": 1774242920,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107045,
+        "num": 107045,
+        "word": "KPL巅峰对决提速了",
+        "onboard_time": 1774242322,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104411,
+        "num": 104411,
+        "word": "赵丽颖说不着急",
+        "onboard_time": 1774238302,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100950,
+        "num": 100950,
+        "word": "逐玉男模团",
+        "onboard_time": 1774239801,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92970,
+        "num": 92970,
+        "word": "一定要留电动车钥匙的遗照",
+        "onboard_time": 1774240160,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92613,
+        "num": 92613,
+        "word": "美国一次次撒谎全世界买单",
+        "onboard_time": 1774225521,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91241,
+        "num": 91241,
+        "word": "玉簟秋官宣杀青",
+        "onboard_time": 1774232360,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88131,
+        "num": 88131,
+        "word": "想减肥直接上链接",
+        "onboard_time": 1774242740,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 87738,
+        "num": 87738,
+        "word": "王安宇杂志开售",
+        "onboard_time": 1774241361,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84174,
+        "num": 84174,
+        "word": "老太闯入货车盲区被碾压身亡",
+        "onboard_time": 1774241782,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81536,
+        "num": 81536,
+        "word": "A股半日成交1.46万亿放量155亿",
+        "onboard_time": 1774241181,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79734,
+        "num": 79734,
+        "word": "大侦探",
+        "onboard_time": 1774240701,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76851,
+        "num": 76851,
+        "word": "休一天根本就不够生活",
+        "onboard_time": 1774240222,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76019,
+        "num": 76019,
+        "word": "雷军回应给苏炳添当司机",
+        "onboard_time": 1774240881,
+        "rank": 48,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 73449,
+        "num": 73449,
+        "word": "小米汽车三项外观专利被提起无效",
+        "onboard_time": 1774239861,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#万千清流润民心#"
+    }
+  }
+}
