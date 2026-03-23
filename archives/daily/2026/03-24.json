@@ -1,6 +1,6 @@
 {
   "startTime": 1774285387754,
-  "endTime": 1774294107941,
+  "endTime": 1774296253418,
   "band_list": [
     {
       "raw_hot": 304951,
@@ -443,12 +443,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 9745,
+      "raw_hot": 11057,
       "num": 26254,
       "word": "金与正说不想看到日本首相来平壤",
       "onboard_time": 1774276402,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9609,
+      "num": 20683,
+      "word": "尚界Z7",
+      "onboard_time": 1774255825,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 8477,
