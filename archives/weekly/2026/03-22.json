@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774267383772,
+  "endTime": 1774272219638,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -105,6 +105,14 @@
       "onboard_time": 1774104146,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1080298,
+      "num": 128490,
+      "word": "阚清子晒近照",
+      "onboard_time": 1774268541,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1073192,
@@ -235,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 765074,
+      "num": 598181,
+      "word": "男大学生患桃花癫一周挥霍5万",
+      "onboard_time": 1774265900,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 752016,
       "num": 183109,
       "word": "鹿晗 关晓彤",
@@ -347,12 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 598181,
-      "num": 598181,
-      "word": "男大学生患桃花癫一周挥霍5万",
-      "onboard_time": 1774265900,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 593829,
+      "num": 275125,
+      "word": "伊朗否认与美国沟通",
+      "onboard_time": 1774268481,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 589982,
@@ -409,6 +425,14 @@
       "onboard_time": 1774183942,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 573058,
+      "num": 1091689,
+      "word": "一家四口感染HIV妻子小儿子去世",
+      "onboard_time": 1774268541,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 566018,
@@ -1091,6 +1115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 275491,
+      "num": 275491,
+      "word": "国乒公布伦敦世乒赛初步参赛名单",
+      "onboard_time": 1774269562,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273123,
       "num": 309528,
       "word": "减内脏脂肪最有效的方法",
@@ -1611,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194389,
+      "num": 194389,
+      "word": "张凌赫出发录开始推理吧",
+      "onboard_time": 1774270222,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193046,
       "num": 222630,
       "word": "徐若晗桃花坞第一大漏勺",
@@ -1787,12 +1827,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171834,
+      "num": 127053,
+      "word": "伊朗革命卫队称美国尚未真正认清其实力",
+      "onboard_time": 1774268661,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171504,
       "num": 110713,
       "word": "胡楚靓前男友新恋情",
       "onboard_time": 1774175660,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 171098,
+      "num": 126823,
+      "word": "美股三大股指期货突然拉升",
+      "onboard_time": 1774268722,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 170684,
+      "num": 126234,
+      "word": "伊朗称特朗普推迟袭击表态为心理战",
+      "onboard_time": 1774271061,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170471,
@@ -1835,12 +1899,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166248,
+      "num": 125735,
+      "word": "为什么我们要多吃水果",
+      "onboard_time": 1774265722,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165583,
       "num": 150108,
       "word": "伊朗地下设施堆放一排排导弹",
       "onboard_time": 1774265241,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 164929,
+      "num": 126688,
+      "word": "宫脇咲良取关张元英",
+      "onboard_time": 1774272022,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 164716,
@@ -2115,6 +2195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138367,
+      "num": 126303,
+      "word": "上过跑男的团体都解散了",
+      "onboard_time": 1774271603,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136909,
       "num": 136909,
       "word": "警方介入女子追打2岁宝宝",
@@ -2211,6 +2299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128547,
+      "num": 128547,
+      "word": "以前看小说vs现在看小说",
+      "onboard_time": 1774271001,
+      "rank": 9,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 128295,
       "num": 128295,
       "word": "薛之谦演唱会",
@@ -2251,6 +2347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126998,
+      "num": 125447,
+      "word": "我被窝里真藏了个张凌赫",
+      "onboard_time": 1774271300,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126738,
       "num": 710881,
       "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
@@ -2273,14 +2377,6 @@
       "onboard_time": 1774234460,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125735,
-      "num": 125735,
-      "word": "为什么我们要多吃水果",
-      "onboard_time": 1774265722,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 124105,
@@ -2595,6 +2691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108006,
+      "num": 125980,
+      "word": "开始推理吧4",
+      "onboard_time": 1774268121,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107753,
       "num": 107753,
       "word": "特朗普转发视频嘲讽英国首相",
@@ -2705,6 +2809,14 @@
       "onboard_time": 1774187124,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104528,
+      "num": 104528,
+      "word": "20岁女生长期开灯睡觉胖到200斤",
+      "onboard_time": 1774271122,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104489,
@@ -3243,6 +3355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 87626,
+      "num": 87626,
+      "word": "金价连跌大家纷纷赶去水贝淘金",
+      "onboard_time": 1774271422,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87311,
       "num": 87311,
       "word": "糖尿病男子怕吃药疯狂节食致中毒",
@@ -3304,6 +3424,14 @@
       "word": "专家称黄金被套的投资者确实很多",
       "onboard_time": 1774182682,
       "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 84576,
+      "num": 84576,
+      "word": "黄金失灵根本原因",
+      "onboard_time": 1774268601,
+      "rank": 37,
       "category": "财经"
     },
     {
@@ -3513,6 +3641,14 @@
       "onboard_time": 1774181781,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81418,
+      "num": 81418,
+      "word": "邓凯考古孔雪儿",
+      "onboard_time": 1774270160,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 81279,
@@ -4267,6 +4403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67878,
+      "num": 67878,
+      "word": "大学是离异性最远的阶段",
+      "onboard_time": 1774270582,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67735,
       "num": 182298,
       "word": "邓凯又在孔雀凯屏",
@@ -4353,6 +4497,22 @@
       "onboard_time": 1774168100,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 66565,
+      "num": 66565,
+      "word": "杨紫小piu合照",
+      "onboard_time": 1774271961,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 66542,
+      "num": 66542,
+      "word": "Viper说自己和ON是世一下",
+      "onboard_time": 1774269381,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 66358,
@@ -4705,6 +4865,22 @@
       "onboard_time": 1774189763,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 60813,
+      "num": 60813,
+      "word": "75岁王石参加高虐比赛状态像小伙",
+      "onboard_time": 1774269861,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 60621,
+      "num": 60621,
+      "word": "AI写歌走红程序员9个月赚20万",
+      "onboard_time": 1774272141,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60349,
@@ -5451,6 +5627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27813,
+      "num": 102818,
+      "word": "人贩子梅姨曾乔装为乡间红娘",
+      "onboard_time": 1774270822,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27652,
       "num": 181892,
       "word": "工业酒精麻醉鱼流入市场",
@@ -5585,6 +5769,14 @@
       "onboard_time": 1774204336,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18034,
+      "num": 641825,
+      "word": "梦想的接力最燃",
+      "onboard_time": 1774271362,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17703,
@@ -5752,6 +5944,9 @@
     },
     {
       "word": "#习近平在雄安新区考察#"
+    },
+    {
+      "word": "#习近平总书记来到河北雄安新区#"
     }
   ]
 }

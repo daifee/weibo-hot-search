@@ -1,0 +1,410 @@
+{
+  "runTime": 1774272219638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 573058,
+        "num": 1091689,
+        "word": "一家四口感染HIV妻子小儿子去世",
+        "onboard_time": 1774268541,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368701,
+        "num": 812929,
+        "word": "对国内成品油价格采取临时调控",
+        "onboard_time": 1774250001,
+        "rank": 1,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 18034,
+        "num": 641825,
+        "word": "梦想的接力最燃",
+        "onboard_time": 1774271362,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462192,
+        "num": 462192,
+        "word": "流量退去后的鸡排哥与网红街",
+        "onboard_time": 1774263922,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275491,
+        "num": 275491,
+        "word": "国乒公布伦敦世乒赛初步参赛名单",
+        "onboard_time": 1774269562,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 593829,
+        "num": 275125,
+        "word": "伊朗否认与美国沟通",
+        "onboard_time": 1774268481,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194389,
+        "num": 194389,
+        "word": "张凌赫出发录开始推理吧",
+        "onboard_time": 1774270222,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150389,
+        "num": 150389,
+        "word": "长期不换社交头像的人",
+        "onboard_time": 1774252400,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145493,
+        "num": 145493,
+        "word": "去年没换手机的人后悔了吗",
+        "onboard_time": 1774248140,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128547,
+        "num": 128547,
+        "word": "以前看小说vs现在看小说",
+        "onboard_time": 1774271001,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1080298,
+        "num": 128490,
+        "word": "阚清子晒近照",
+        "onboard_time": 1774268541,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765074,
+        "num": 128218,
+        "word": "男大学生患桃花癫一周挥霍5万",
+        "onboard_time": 1774265900,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227887,
+        "num": 128032,
+        "word": "特朗普称美伊已对话",
+        "onboard_time": 1774266080,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212600,
+        "num": 127654,
+        "word": "金价创下1983年3月以来最大单周跌幅",
+        "onboard_time": 1774257562,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200137,
+        "num": 127447,
+        "word": "逐玉第二",
+        "onboard_time": 1774257562,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171834,
+        "num": 127053,
+        "word": "伊朗革命卫队称美国尚未真正认清其实力",
+        "onboard_time": 1774268661,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171098,
+        "num": 126823,
+        "word": "美股三大股指期货突然拉升",
+        "onboard_time": 1774268722,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164929,
+        "num": 126688,
+        "word": "宫脇咲良取关张元英",
+        "onboard_time": 1774272022,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138367,
+        "num": 126303,
+        "word": "上过跑男的团体都解散了",
+        "onboard_time": 1774271603,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126239,
+        "num": 126239,
+        "word": "教授地铁审博士论文视频海外爆火",
+        "onboard_time": 1774262061,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170684,
+        "num": 126234,
+        "word": "伊朗称特朗普推迟袭击表态为心理战",
+        "onboard_time": 1774271061,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108006,
+        "num": 125980,
+        "word": "开始推理吧4",
+        "onboard_time": 1774268121,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168265,
+        "num": 125821,
+        "word": "AI短剧付费后竟然变成PPT",
+        "onboard_time": 1774260141,
+        "rank": 22,
+        "category": "舆论监督,剧集"
+      },
+      {
+        "raw_hot": 166248,
+        "num": 125651,
+        "word": "为什么我们要多吃水果",
+        "onboard_time": 1774265722,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156798,
+        "num": 125617,
+        "word": "伊朗地下设施堆放一排排导弹",
+        "onboard_time": 1774265241,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 126998,
+        "num": 125447,
+        "word": "我被窝里真藏了个张凌赫",
+        "onboard_time": 1774271300,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125331,
+        "num": 125331,
+        "word": "关晓彤 至今不知道腿长的坏处",
+        "onboard_time": 1774254260,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113110,
+        "num": 123034,
+        "word": "黄金大跌金店老板慌了",
+        "onboard_time": 1774261702,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122667,
+        "num": 122667,
+        "word": "开始推理吧",
+        "onboard_time": 1774260020,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122432,
+        "num": 122432,
+        "word": "李卿 内娱金宣虎",
+        "onboard_time": 1774261823,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104528,
+        "num": 104528,
+        "word": "20岁女生长期开灯睡觉胖到200斤",
+        "onboard_time": 1774271122,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27813,
+        "num": 102818,
+        "word": "人贩子梅姨曾乔装为乡间红娘",
+        "onboard_time": 1774270822,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102415,
+        "num": 102415,
+        "word": "种地吧",
+        "onboard_time": 1774263081,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95941,
+        "num": 95941,
+        "word": "毛晓彤28岁时因为年龄焦虑大哭",
+        "onboard_time": 1774264340,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95132,
+        "num": 95132,
+        "word": "我洗头后三天的头发蓬松程度",
+        "onboard_time": 1774265422,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91761,
+        "num": 91761,
+        "word": "长期喝桶装水的人天塌了",
+        "onboard_time": 1774240521,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87626,
+        "num": 87626,
+        "word": "金价连跌大家纷纷赶去水贝淘金",
+        "onboard_time": 1774271422,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84576,
+        "num": 84576,
+        "word": "黄金失灵根本原因",
+        "onboard_time": 1774268601,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82257,
+        "num": 82257,
+        "word": "教师称退群后家长转为点对点私聊",
+        "onboard_time": 1774258281,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81418,
+        "num": 81418,
+        "word": "邓凯考古孔雪儿",
+        "onboard_time": 1774270160,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74303,
+        "num": 74303,
+        "word": "周大生回应戒指印着周大金",
+        "onboard_time": 1774255583,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73255,
+        "num": 73255,
+        "word": "TF五代 拿电话手表聊国际新闻",
+        "onboard_time": 1774262602,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68726,
+        "num": 68726,
+        "word": "王楚然 全女团队",
+        "onboard_time": 1774256781,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67878,
+        "num": 67878,
+        "word": "大学是离异性最远的阶段",
+        "onboard_time": 1774270582,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66565,
+        "num": 66565,
+        "word": "杨紫小piu合照",
+        "onboard_time": 1774271961,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66556,
+        "num": 66556,
+        "word": "陈浚铭再帅十年也才23岁",
+        "onboard_time": 1774261702,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66542,
+        "num": 66542,
+        "word": "Viper说自己和ON是世一下",
+        "onboard_time": 1774269381,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61704,
+        "num": 61704,
+        "word": "豆瓣评分",
+        "onboard_time": 1774261460,
+        "rank": 47,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 60813,
+        "num": 60813,
+        "word": "75岁王石参加高虐比赛状态像小伙",
+        "onboard_time": 1774269861,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 60621,
+        "num": 60621,
+        "word": "AI写歌走红程序员9个月赚20万",
+        "onboard_time": 1774272141,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记来到河北雄安新区#"
+    }
+  }
+}
