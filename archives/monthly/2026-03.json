@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774302327738,
+  "endTime": 1774303066606,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -32843,6 +32843,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 107512,
+      "num": 107512,
+      "word": "美国纽约机场接连发生事故",
+      "onboard_time": 1774283539,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107507,
       "num": 656605,
       "word": "追觅汽车价格",
@@ -39497,14 +39505,6 @@
       "onboard_time": 1773290601,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 89035,
-      "num": 89035,
-      "word": "美国纽约机场接连发生事故",
-      "onboard_time": 1774283539,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 89032,
@@ -60043,7 +60043,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25961,
+      "raw_hot": 25963,
       "num": 30507,
       "word": "WTA1000迈阿密站",
       "onboard_time": 1774281619,

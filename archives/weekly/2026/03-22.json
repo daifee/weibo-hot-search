@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774302327738,
+  "endTime": 1774303066606,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -2859,6 +2859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107512,
+      "num": 107512,
+      "word": "美国纽约机场接连发生事故",
+      "onboard_time": 1774283539,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107045,
       "num": 107045,
       "word": "KPL巅峰对决提速了",
@@ -3457,14 +3465,6 @@
       "onboard_time": 1774242262,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 89035,
-      "num": 89035,
-      "word": "美国纽约机场接连发生事故",
-      "onboard_time": 1774283539,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 88846,
@@ -6051,7 +6051,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25961,
+      "raw_hot": 25963,
       "num": 30507,
       "word": "WTA1000迈阿密站",
       "onboard_time": 1774281619,
