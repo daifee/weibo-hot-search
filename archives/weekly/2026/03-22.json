@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774339746144,
+  "endTime": 1774343115102,
   "band_list": [
     {
       "raw_hot": 2927069,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1792417,
-      "num": 272033,
+      "num": 360804,
       "word": "以色列被打穿了",
       "onboard_time": 1774329321,
       "rank": 5,
@@ -81,6 +81,14 @@
       "onboard_time": 1774240101,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1318120,
+      "num": 205460,
+      "word": "日本",
+      "onboard_time": 1774340722,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1303128,
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1038777,
+      "num": 181361,
+      "word": "恭喜你发明了劳务派遣",
+      "onboard_time": 1774339401,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1008098,
       "num": 139964,
       "word": "金价年内涨幅已清零",
@@ -209,6 +225,14 @@
       "onboard_time": 1774328722,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 959924,
+      "num": 519053,
+      "word": "一日本人威胁要杀中国外交人员",
+      "onboard_time": 1774340182,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 905642,
@@ -772,7 +796,7 @@
     },
     {
       "raw_hot": 457474,
-      "num": 151754,
+      "num": 179781,
       "word": "第一批丁克家庭现状曝光",
       "onboard_time": 1774329680,
       "rank": 20,
@@ -785,6 +809,14 @@
       "onboard_time": 1774317199,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 452579,
+      "num": 205178,
+      "word": "婚礼迎来了最严厉的新娘",
+      "onboard_time": 1774339702,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 447543,
@@ -979,6 +1011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 390988,
+      "num": 390988,
+      "word": "4岁女童就诊177次患者是母亲",
+      "onboard_time": 1774342522,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389332,
       "num": 1009240,
       "word": "梅姨同居老汉说她曾带3名女孩回家",
@@ -987,8 +1027,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 385252,
-      "num": 178959,
+      "raw_hot": 387035,
+      "num": 204705,
       "word": "郭敬明改笔名",
       "onboard_time": 1774337541,
       "rank": 10,
@@ -1139,6 +1179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 357852,
+      "num": 204129,
+      "word": "王俊凯 有人在吗WJK在",
+      "onboard_time": 1774340001,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353552,
       "num": 353552,
       "word": "华为发布会",
@@ -1240,6 +1288,14 @@
       "word": "希林娜依高回应伯克利没毕业",
       "onboard_time": 1774147041,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 328098,
+      "num": 328098,
+      "word": "专家建议26岁高卿尘立遗嘱",
+      "onboard_time": 1774339160,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1411,6 +1467,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 290448,
+      "num": 203293,
+      "word": "难听",
+      "onboard_time": 1774333761,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 287543,
+      "num": 138792,
+      "word": "美国5名顶尖科学家接连失踪死亡",
+      "onboard_time": 1774341442,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 285042,
       "num": 170980,
       "word": "金正恩正式将韩国定义为头号敌国",
@@ -1491,14 +1563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270277,
-      "num": 109002,
-      "word": "恭喜你发明了劳务派遣",
-      "onboard_time": 1774339401,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 269329,
       "num": 177808,
       "word": "女子乘高铁投诉男子吸烟却被发口罩",
@@ -1521,6 +1585,14 @@
       "onboard_time": 1774330101,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266667,
+      "num": 266667,
+      "word": "王鹤棣将门独后骑马路透",
+      "onboard_time": 1774339042,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 260334,
@@ -1721,6 +1793,14 @@
       "onboard_time": 1774155921,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 238473,
+      "num": 749722,
+      "word": "武大靖聊张家齐直播带货",
+      "onboard_time": 1774341260,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 236112,
@@ -2067,6 +2147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 204124,
+      "num": 204124,
+      "word": "面筋哥女儿自曝遭继父持续4年性骚扰",
+      "onboard_time": 1774341983,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202821,
       "num": 202821,
       "word": "张峻豪致敬TFBOYS",
@@ -2115,14 +2203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200889,
-      "num": 169669,
-      "word": "王鹤棣将门独后骑马路透",
-      "onboard_time": 1774339042,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199480,
       "num": 193821,
       "word": "瞿颖西班牙 王俊凯新加坡",
@@ -2153,6 +2233,14 @@
       "onboard_time": 1774093400,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195024,
+      "num": 195024,
+      "word": "田曦薇簪花将军转场",
+      "onboard_time": 1774341141,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 194665,
@@ -2353,6 +2441,14 @@
       "onboard_time": 1774147880,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176903,
+      "num": 176903,
+      "word": "刘亦菲安妮海瑟薇世纪神图",
+      "onboard_time": 1774338441,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 176544,
@@ -2587,14 +2683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160770,
-      "num": 160770,
-      "word": "专家建议26岁高卿尘立遗嘱",
-      "onboard_time": 1774339160,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160436,
       "num": 149859,
       "word": "千匹马力的领克10+来了",
@@ -2619,19 +2707,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158884,
-      "num": 158884,
-      "word": "难听",
-      "onboard_time": 1774333761,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158495,
       "num": 158495,
       "word": "伊媒称一架美国战斗机被击落",
       "onboard_time": 1774251199,
       "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 158428,
+      "num": 158428,
+      "word": "伊朗最高领袖顾问重申结束战争条件",
+      "onboard_time": 1774340662,
+      "rank": 25,
       "category": "国际时政"
     },
     {
@@ -2657,6 +2745,14 @@
       "onboard_time": 1774171100,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152957,
+      "num": 152957,
+      "word": "汽车之家",
+      "onboard_time": 1774340420,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 152313,
@@ -2843,6 +2939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140506,
+      "num": 140506,
+      "word": "亚朵回应楼层中文标识看不懂",
+      "onboard_time": 1774341502,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140287,
       "num": 140287,
       "word": "小米SU7Pro一充跑通京沪",
@@ -2969,6 +3073,14 @@
       "onboard_time": 1774156280,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133301,
+      "num": 133301,
+      "word": "王一博抛媚眼",
+      "onboard_time": 1774341561,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 132873,
@@ -3161,6 +3273,14 @@
       "onboard_time": 1774327042,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121338,
+      "num": 121338,
+      "word": "蜜雪集团去年赚了58.8亿",
+      "onboard_time": 1774342582,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 120909,
@@ -3443,6 +3563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112584,
+      "num": 112584,
+      "word": "以色列再遭打击",
+      "onboard_time": 1774340362,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112415,
       "num": 112415,
       "word": "孕期接触杀菌剂影响持续20代",
@@ -3529,6 +3657,14 @@
       "onboard_time": 1774179201,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108990,
+      "num": 108990,
+      "word": "刘烨秦海璐 老辈子的微博就是野",
+      "onboard_time": 1774339100,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 108960,
@@ -3675,6 +3811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105209,
+      "num": 105209,
+      "word": "旧手机回收一天一个价",
+      "onboard_time": 1774342461,
+      "rank": 37,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 105110,
       "num": 105110,
       "word": "曼城是冠军",
@@ -3697,14 +3841,6 @@
       "onboard_time": 1774240160,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104394,
-      "num": 104394,
-      "word": "刘亦菲安妮海瑟薇世纪神图",
-      "onboard_time": 1774338441,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 103976,
@@ -3923,6 +4059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97624,
+      "num": 97624,
+      "word": "少年因恐吓致失禁离世时仍穿尿不湿",
+      "onboard_time": 1774343002,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97289,
       "num": 97289,
       "word": "中国石化2025净利润下降36.8%",
@@ -4003,6 +4147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95060,
+      "num": 95060,
+      "word": "A股反弹明天能继续吗",
+      "onboard_time": 1774342643,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94929,
       "num": 94929,
       "word": "孔雪儿深夜发长文谈俞浅浅",
@@ -4065,6 +4217,14 @@
       "onboard_time": 1774257201,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 94076,
+      "num": 94076,
+      "word": "四个人买了四种盗版教材",
+      "onboard_time": 1774341681,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 93943,
@@ -4259,6 +4419,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91243,
+      "num": 91243,
+      "word": "美军第82空降师可18小时内部署中东",
+      "onboard_time": 1774339401,
+      "rank": 35,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 91243,
+      "num": 91243,
+      "word": "邓凯hi6上班路透",
+      "onboard_time": 1774333043,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90728,
       "num": 90728,
       "word": "AG花花独狼吃鸡",
@@ -4347,14 +4523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89437,
-      "num": 89437,
-      "word": "美军第82空降师可18小时内部署中东",
-      "onboard_time": 1774339401,
-      "rank": 35,
-      "category": "军事"
-    },
-    {
       "raw_hot": 89242,
       "num": 89242,
       "word": "曝美通过第三方给伊朗传话",
@@ -4385,6 +4553,14 @@
       "onboard_time": 1774326682,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88601,
+      "num": 88601,
+      "word": "张凌赫田曦薇在喵娲娲评论区团建",
+      "onboard_time": 1774342163,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 88490,
@@ -4473,14 +4649,6 @@
       "onboard_time": 1774324460,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 87642,
-      "num": 87642,
-      "word": "刘烨秦海璐 老辈子的微博就是野",
-      "onboard_time": 1774339100,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 87626,
@@ -4659,6 +4827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83728,
+      "num": 157227,
+      "word": "女子将850克黄金藏电饭煲寄骗子",
+      "onboard_time": 1774338741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83537,
       "num": 83537,
       "word": "冬去春来半小时破三",
@@ -4745,6 +4921,14 @@
       "onboard_time": 1774167800,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 82633,
+      "num": 82633,
+      "word": "宋威龙回应被叫木头帅哥",
+      "onboard_time": 1774334179,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 82631,
@@ -5539,14 +5723,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 73077,
-      "num": 73077,
-      "word": "婚礼迎来了最严厉的新娘",
-      "onboard_time": 1774339702,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 72986,
       "num": 72986,
       "word": "四门全开那一下真没忍住笑",
@@ -5921,14 +6097,6 @@
       "onboard_time": 1774163179,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 68535,
-      "num": 68535,
-      "word": "宋威龙回应被叫木头帅哥",
-      "onboard_time": 1774334179,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 68307,
@@ -7179,14 +7347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38828,
-      "num": 157227,
-      "word": "女子将850克黄金藏电饭煲寄骗子",
-      "onboard_time": 1774338741,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38579,
       "num": 78618,
       "word": "女童扁桃体手术后死亡妈妈再发声",
@@ -7868,6 +8028,9 @@
     },
     {
       "word": "#习近平指引雄安发展#"
+    },
+    {
+      "word": "#一眼见雄安#"
     }
   ]
 }

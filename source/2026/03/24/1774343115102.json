@@ -1,0 +1,410 @@
+{
+  "runTime": 1774343115102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 259239,
+        "num": 1041478,
+        "word": "迪士尼 物价",
+        "onboard_time": 1774330400,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238473,
+        "num": 749722,
+        "word": "武大靖聊张家齐直播带货",
+        "onboard_time": 1774341260,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25220,
+        "num": 578068,
+        "word": "打卡春天里的大美中国",
+        "onboard_time": 1774336582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 959924,
+        "num": 519053,
+        "word": "一日本人威胁要杀中国外交人员",
+        "onboard_time": 1774340182,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 390988,
+        "num": 390988,
+        "word": "4岁女童就诊177次患者是母亲",
+        "onboard_time": 1774342522,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584538,
+        "num": 360804,
+        "word": "以色列被打穿了",
+        "onboard_time": 1774329321,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328098,
+        "num": 328098,
+        "word": "专家建议26岁高卿尘立遗嘱",
+        "onboard_time": 1774339160,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266667,
+        "num": 266667,
+        "word": "王鹤棣将门独后骑马路透",
+        "onboard_time": 1774339042,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206118,
+        "num": 206118,
+        "word": "第一次看懂中文是因为看懂了英文",
+        "onboard_time": 1774325062,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173262,
+        "num": 205784,
+        "word": "金融监管总局副局长周亮被查",
+        "onboard_time": 1774339042,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1318120,
+        "num": 205460,
+        "word": "日本",
+        "onboard_time": 1774340722,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 452579,
+        "num": 205178,
+        "word": "婚礼迎来了最严厉的新娘",
+        "onboard_time": 1774339702,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387035,
+        "num": 204705,
+        "word": "郭敬明改笔名",
+        "onboard_time": 1774337541,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357852,
+        "num": 204129,
+        "word": "王俊凯 有人在吗WJK在",
+        "onboard_time": 1774340001,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204124,
+        "num": 204124,
+        "word": "面筋哥女儿自曝遭继父持续4年性骚扰",
+        "onboard_time": 1774341983,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290448,
+        "num": 203293,
+        "word": "难听",
+        "onboard_time": 1774333761,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201147,
+        "num": 201147,
+        "word": "男友离世前转地铁吐血女孩5万治病",
+        "onboard_time": 1774329321,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195024,
+        "num": 195024,
+        "word": "田曦薇簪花将军转场",
+        "onboard_time": 1774341141,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182166,
+        "num": 182166,
+        "word": "周杰伦新歌",
+        "onboard_time": 1774329621,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167893,
+        "num": 181369,
+        "word": "美国被曝正向多国索要保护费",
+        "onboard_time": 1774336099,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1038777,
+        "num": 181361,
+        "word": "恭喜你发明了劳务派遣",
+        "onboard_time": 1774339401,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 405787,
+        "num": 181351,
+        "word": "张凌赫知道热巴白宇退出开推的反应",
+        "onboard_time": 1774326382,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181342,
+        "num": 181342,
+        "word": "周杰伦太阳之子MV",
+        "onboard_time": 1774328722,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193213,
+        "num": 179781,
+        "word": "第一批丁克家庭现状曝光",
+        "onboard_time": 1774329680,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176903,
+        "num": 176903,
+        "word": "刘亦菲安妮海瑟薇世纪神图",
+        "onboard_time": 1774338441,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158428,
+        "num": 158428,
+        "word": "伊朗最高领袖顾问重申结束战争条件",
+        "onboard_time": 1774340662,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152957,
+        "num": 152957,
+        "word": "汽车之家",
+        "onboard_time": 1774340420,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107981,
+        "num": 148430,
+        "word": "千匹马力的领克10+来了",
+        "onboard_time": 1774337660,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144312,
+        "num": 144312,
+        "word": "女子乘高铁投诉男子吸烟却被发口罩",
+        "onboard_time": 1774332741,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140506,
+        "num": 140506,
+        "word": "亚朵回应楼层中文标识看不懂",
+        "onboard_time": 1774341502,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287543,
+        "num": 138792,
+        "word": "美国5名顶尖科学家接连失踪死亡",
+        "onboard_time": 1774341442,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133301,
+        "num": 133301,
+        "word": "王一博抛媚眼",
+        "onboard_time": 1774341561,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123562,
+        "num": 123562,
+        "word": "贵州溶洞发现地下反向森林",
+        "onboard_time": 1774328181,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121338,
+        "num": 121338,
+        "word": "蜜雪集团去年赚了58.8亿",
+        "onboard_time": 1774342582,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112584,
+        "num": 112584,
+        "word": "以色列再遭打击",
+        "onboard_time": 1774340362,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112118,
+        "num": 112118,
+        "word": "骑车玩手机摔成植物人索赔300多万",
+        "onboard_time": 1774337301,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108990,
+        "num": 108990,
+        "word": "刘烨秦海璐 老辈子的微博就是野",
+        "onboard_time": 1774339100,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105209,
+        "num": 105209,
+        "word": "旧手机回收一天一个价",
+        "onboard_time": 1774342461,
+        "rank": 37,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 98909,
+        "num": 98909,
+        "word": "王鸥自曝拍戏补贴自创品牌一直亏损",
+        "onboard_time": 1774333160,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97624,
+        "num": 97624,
+        "word": "少年因恐吓致失禁离世时仍穿尿不湿",
+        "onboard_time": 1774343002,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96354,
+        "num": 96354,
+        "word": "淘金小镇",
+        "onboard_time": 1774336940,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95060,
+        "num": 95060,
+        "word": "A股反弹明天能继续吗",
+        "onboard_time": 1774342643,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95041,
+        "num": 95041,
+        "word": "刘亦菲金智媛生图",
+        "onboard_time": 1774325301,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94076,
+        "num": 94076,
+        "word": "四个人买了四种盗版教材",
+        "onboard_time": 1774341681,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91243,
+        "num": 91243,
+        "word": "邓凯hi6上班路透",
+        "onboard_time": 1774333043,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91243,
+        "num": 91243,
+        "word": "美军第82空降师可18小时内部署中东",
+        "onboard_time": 1774339401,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 88601,
+        "num": 88601,
+        "word": "张凌赫田曦薇在喵娲娲评论区团建",
+        "onboard_time": 1774342163,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88744,
+        "num": 86592,
+        "word": "五角大楼拟调3000空降兵夺哈尔克岛",
+        "onboard_time": 1774338261,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83728,
+        "num": 83728,
+        "word": "女子将850克黄金藏电饭煲寄骗子",
+        "onboard_time": 1774338741,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82633,
+        "num": 82633,
+        "word": "宋威龙回应被叫木头帅哥",
+        "onboard_time": 1774334179,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一眼见雄安#"
+    }
+  }
+}
