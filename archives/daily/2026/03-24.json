@@ -1,14 +1,30 @@
 {
   "startTime": 1774285387754,
-  "endTime": 1774310199415,
+  "endTime": 1774320050793,
   "band_list": [
     {
+      "raw_hot": 1088273,
+      "num": 1174123,
+      "word": "开始推理吧直播",
+      "onboard_time": 1774318461,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 903720,
-      "num": 112804,
+      "num": 121002,
       "word": "张凌赫为什么被称为粉底液将军",
       "onboard_time": 1774308499,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 745396,
+      "num": 175682,
+      "word": "地铁吐血女孩因重病拒绝男友求婚",
+      "onboard_time": 1774313601,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 590092,
@@ -17,6 +33,38 @@
       "onboard_time": 1774278381,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 563927,
+      "num": 268167,
+      "word": "浅浅为俞宝儿改名齐煜",
+      "onboard_time": 1774316241,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 551254,
+      "num": 175029,
+      "word": "金价大跌没人扫货了",
+      "onboard_time": 1774309459,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 491153,
+      "num": 261523,
+      "word": "单休一天出了一趟国",
+      "onboard_time": 1774313482,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 482844,
+      "num": 97581,
+      "word": "美团删照片",
+      "onboard_time": 1774310060,
+      "rank": 44,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 471045,
@@ -43,12 +91,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 367048,
-      "num": 97003,
-      "word": "金价大跌没人扫货了",
-      "onboard_time": 1774309459,
+      "raw_hot": 414252,
+      "num": 860411,
+      "word": "美国得州炼油厂发生爆炸",
+      "onboard_time": 1774317199,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 383449,
+      "num": 383449,
+      "word": "开推4迪丽热巴退出丁程鑫加入",
+      "onboard_time": 1774308199,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 377308,
+      "num": 174492,
+      "word": "刘亦菲安妮海瑟薇互相搂腰",
+      "onboard_time": 1774318581,
       "rank": 12,
-      "category": "财经"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 276754,
+      "num": 276754,
+      "word": "真正的麻辣香锅已经非常罕见了",
+      "onboard_time": 1774309219,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 261687,
@@ -68,7 +140,7 @@
     },
     {
       "raw_hot": 255091,
-      "num": 102831,
+      "num": 115263,
       "word": "情侣住酒店正亲密时被员工开窗",
       "onboard_time": 1774278261,
       "rank": 20,
@@ -91,8 +163,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211466,
+      "num": 174060,
+      "word": "A股集体高开",
+      "onboard_time": 1774317620,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 205558,
-      "num": 96935,
+      "num": 121770,
       "word": "伊朗称美为操纵市场散布假新闻",
       "onboard_time": 1774308438,
       "rank": 27,
@@ -107,20 +187,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200957,
+      "num": 120227,
+      "word": "上海迪士尼70元1个包子网友怒了",
+      "onboard_time": 1774318819,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199962,
       "num": 175412,
       "word": "阚清子晒近照",
       "onboard_time": 1774268541,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182864,
-      "num": 102349,
-      "word": "开推4迪丽热巴退出丁程鑫加入",
-      "onboard_time": 1774308199,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 179294,
@@ -131,6 +211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 173831,
+      "num": 173831,
+      "word": "伊朗公布袭击美军基地前后对比照",
+      "onboard_time": 1774312222,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
       "raw_hot": 171985,
       "num": 106435,
       "word": "陈锦鸿把自闭症儿子养成青年钢琴家",
@@ -139,11 +227,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169752,
+      "num": 118647,
+      "word": "一个预防胃癌最简单的方法",
+      "onboard_time": 1774313301,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 166828,
+      "num": 166828,
+      "word": "A股",
+      "onboard_time": 1774317681,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166433,
       "num": 166433,
       "word": "女孩地铁吐血用外套擦地让人心疼",
       "onboard_time": 1774308679,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160261,
+      "num": 117448,
+      "word": "女教师称要是班主任把你们折磨到死",
+      "onboard_time": 1774314381,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -163,12 +275,44 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 131674,
+      "num": 131674,
+      "word": "台积电CEO点评中国机器人",
+      "onboard_time": 1774317800,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 131662,
+      "num": 131662,
+      "word": "当代年轻人的潮流三件套",
+      "onboard_time": 1774313721,
+      "rank": 17,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 129079,
+      "num": 93938,
+      "word": "金店店员称金价降幅有限",
+      "onboard_time": 1774319300,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128124,
       "num": 427722,
       "word": "朝鲜称与日本没什么可谈的",
       "onboard_time": 1774275142,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122288,
+      "num": 122288,
+      "word": "虞书欣名誉权案被告登报致歉",
+      "onboard_time": 1774316480,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 121090,
@@ -187,6 +331,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115180,
+      "num": 115180,
+      "word": "陈梦回应是否继续参赛",
+      "onboard_time": 1774318461,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113117,
+      "num": 113117,
+      "word": "范丞丞被安利看逐玉",
+      "onboard_time": 1774313180,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112054,
       "num": 84044,
       "word": "中园石化加油站称名字经过审批",
@@ -195,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110094,
+      "num": 110094,
+      "word": "白日提灯",
+      "onboard_time": 1774319600,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108040,
       "num": 103153,
       "word": "周杰伦新专辑太阳之子",
       "onboard_time": 1774273882,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103976,
+      "num": 103976,
+      "word": "日本考虑派兵去霍尔木兹海峡扫雷",
+      "onboard_time": 1774316180,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101312,
@@ -291,6 +467,38 @@
       "category": "财经"
     },
     {
+      "raw_hot": 88241,
+      "num": 88241,
+      "word": "金银继续下跌",
+      "onboard_time": 1774319780,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 87592,
+      "num": 87592,
+      "word": "美第31海军陆战队远征队27日抵中东",
+      "onboard_time": 1774314201,
+      "rank": 33,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 87067,
+      "num": 87067,
+      "word": "邓凯睡不着但得睡",
+      "onboard_time": 1774309702,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85606,
+      "num": 85606,
+      "word": "女子拖行李箱出门卖黄金",
+      "onboard_time": 1774317681,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84128,
       "num": 84128,
       "word": "手机涨价潮到来",
@@ -307,11 +515,75 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81510,
+      "num": 81510,
+      "word": "哥伦比亚军机坠毁已致66死",
+      "onboard_time": 1774319181,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 80719,
+      "num": 80719,
+      "word": "第一次见这么标准的课题分离",
+      "onboard_time": 1774318940,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78690,
       "num": 78690,
       "word": "男孩被要求互打后坠亡老师仍在上课",
       "onboard_time": 1774309099,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77253,
+      "num": 77253,
+      "word": "柯佳嬿方回应参加浪姐",
+      "onboard_time": 1774316962,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76795,
+      "num": 76795,
+      "word": "Viper四次创造队史",
+      "onboard_time": 1774318698,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 76167,
+      "num": 76167,
+      "word": "林沐然开一个多小时车给粉丝买礼物",
+      "onboard_time": 1774312702,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76019,
+      "num": 76019,
+      "word": "湖人9连胜被终结",
+      "onboard_time": 1774319480,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75218,
+      "num": 75218,
+      "word": "梅姨卖完孩子后不住宾馆",
+      "onboard_time": 1774310481,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74249,
+      "num": 74249,
+      "word": "山东泰安入室抢婴案二审宣判",
+      "onboard_time": 1774315940,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -339,12 +611,36 @@
       "category": "财经"
     },
     {
-      "raw_hot": 70265,
-      "num": 70265,
+      "raw_hot": 71090,
+      "num": 71090,
+      "word": "火箭vs公牛",
+      "onboard_time": 1774319780,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70811,
+      "num": 70811,
       "word": "90后清华博士宋云天已任副市长",
       "onboard_time": 1774310181,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 69858,
+      "num": 69858,
+      "word": "伊媒称伊2处能源设施遭袭",
+      "onboard_time": 1774318581,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 68915,
+      "num": 68915,
+      "word": "梅姨",
+      "onboard_time": 1774314861,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68913,
@@ -395,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65643,
+      "num": 65643,
+      "word": "张杰每天消耗几千卡路里",
+      "onboard_time": 1774311682,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65104,
       "num": 70698,
       "word": "樊振东获伦敦世乒赛直通资格",
@@ -409,6 +713,14 @@
       "onboard_time": 1774271061,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64666,
+      "num": 64666,
+      "word": "现在适合抄底黄金吗",
+      "onboard_time": 1774316360,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 64615,
@@ -443,14 +755,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 58843,
-      "num": 58843,
-      "word": "美团删照片",
-      "onboard_time": 1774310060,
-      "rank": 44,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 56064,
       "num": 70618,
       "word": "aespa全员老吃家",
@@ -459,28 +763,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53252,
-      "num": 53252,
-      "word": "真正的麻辣香锅已经非常罕见了",
-      "onboard_time": 1774309219,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 52679,
       "num": 70484,
       "word": "上过跑男的团体都解散了",
       "onboard_time": 1774271603,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 52438,
-      "num": 52438,
-      "word": "邓凯睡不着但得睡",
-      "onboard_time": 1774309702,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 52281,
@@ -667,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15651,
+      "num": 648207,
+      "word": "稳定发展是中国人民的坚实底气",
+      "onboard_time": 1774319421,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15051,
       "num": 30527,
       "word": "侯明昊加入太湖湾音乐节",
@@ -697,6 +993,9 @@
     },
     {
       "word": "#习近平在雄安新区考察#"
+    },
+    {
+      "word": "#跟随总书记的足迹看雄安巨变#"
     }
   ]
 }
