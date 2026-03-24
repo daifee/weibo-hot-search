@@ -1,6 +1,6 @@
 {
   "startTime": 1774285387754,
-  "endTime": 1774334400447,
+  "endTime": 1774339214431,
   "band_list": [
     {
       "raw_hot": 1792417,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 657982,
-      "num": 238620,
+      "num": 440743,
       "word": "周杰伦新歌",
       "onboard_time": 1774329621,
       "rank": 8,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 457474,
-      "num": 150565,
+      "num": 151754,
       "word": "第一批丁克家庭现状曝光",
       "onboard_time": 1774329680,
       "rank": 20,
@@ -177,6 +177,14 @@
       "onboard_time": 1774317199,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 449697,
+      "num": 190998,
+      "word": "美国被曝正向多国索要保护费",
+      "onboard_time": 1774336099,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 443491,
@@ -224,6 +232,14 @@
       "word": "刘亦菲安妮海瑟薇互相搂腰",
       "onboard_time": 1774318581,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 343606,
+      "num": 178959,
+      "word": "郭敬明改笔名",
+      "onboard_time": 1774337541,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -275,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269329,
+      "num": 177808,
+      "word": "女子乘高铁投诉男子吸烟却被发口罩",
+      "onboard_time": 1774332741,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268640,
       "num": 207914,
       "word": "孟羽童自曝失恋一周无法工作",
@@ -323,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234222,
+      "num": 764269,
+      "word": "梅姨落网全过程揭秘",
+      "onboard_time": 1774333579,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225355,
       "num": 143495,
       "word": "第一批金价下跌受害者发声",
@@ -347,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219046,
+      "num": 174833,
+      "word": "五角大楼拟调3000空降兵夺哈尔克岛",
+      "onboard_time": 1774338261,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 215212,
       "num": 215212,
       "word": "穆迪膝盖变形",
@@ -361,6 +401,22 @@
       "onboard_time": 1774317620,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 210077,
+      "num": 183202,
+      "word": "王鸥自曝拍戏补贴自创品牌一直亏损",
+      "onboard_time": 1774333160,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208628,
+      "num": 208628,
+      "word": "金融监管总局副局长周亮被查",
+      "onboard_time": 1774339042,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 205558,
@@ -411,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183202,
-      "num": 183202,
-      "word": "王鸥自曝拍戏补贴自创品牌一直亏损",
-      "onboard_time": 1774333160,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 182048,
+      "num": 182048,
+      "word": "淘金小镇",
+      "onboard_time": 1774336940,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 179294,
@@ -467,6 +523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169669,
+      "num": 169669,
+      "word": "王鹤棣将门独后骑马路透",
+      "onboard_time": 1774339042,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166828,
       "num": 166828,
       "word": "A股",
@@ -491,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160436,
+      "num": 149859,
+      "word": "千匹马力的领克10+来了",
+      "onboard_time": 1774337660,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 158884,
       "num": 158884,
       "word": "难听",
@@ -507,12 +579,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150789,
+      "raw_hot": 154663,
       "num": 150789,
       "word": "迪丽热巴好会演疯批",
       "onboard_time": 1774333043,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149075,
+      "num": 149075,
+      "word": "专家建议26岁高卿尘立遗嘱",
+      "onboard_time": 1774339160,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 145234,
@@ -603,20 +683,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 128734,
-      "num": 128734,
-      "word": "女子乘高铁投诉男子吸烟却被发口罩",
-      "onboard_time": 1774332741,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128124,
       "num": 427722,
       "word": "朝鲜称与日本没什么可谈的",
       "onboard_time": 1774275142,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127991,
+      "num": 109324,
+      "word": "张凌赫拍刘宇宁金靖",
+      "onboard_time": 1774335921,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 125129,
@@ -699,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115153,
+      "num": 115153,
+      "word": "骑车玩手机摔成植物人索赔300多万",
+      "onboard_time": 1774337301,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113117,
       "num": 113117,
       "word": "范丞丞被安利看逐玉",
@@ -739,6 +827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106870,
+      "num": 106870,
+      "word": "邓凯火了但还没适应",
+      "onboard_time": 1774337420,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103976,
       "num": 103976,
       "word": "日本考虑派兵去霍尔木兹海峡扫雷",
@@ -755,6 +851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102027,
+      "num": 109338,
+      "word": "看到车上有这种装置请立即报警",
+      "onboard_time": 1774333460,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101312,
       "num": 88152,
       "word": "美股",
@@ -769,6 +873,14 @@
       "onboard_time": 1774280358,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99948,
+      "num": 99948,
+      "word": "脂肪都得排队喊大哥",
+      "onboard_time": 1774331180,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 99888,
@@ -819,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95120,
-      "num": 95120,
-      "word": "梅姨落网全过程揭秘",
-      "onboard_time": 1774333579,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94771,
       "num": 94771,
       "word": "谢征樊长玉圆房吻来了",
@@ -857,6 +961,14 @@
       "onboard_time": 1774307299,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93547,
+      "num": 93547,
+      "word": "发型越乱水平越高",
+      "onboard_time": 1774337482,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 92243,
@@ -923,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88444,
+      "num": 88444,
+      "word": "刘亦菲安妮海瑟薇世纪神图",
+      "onboard_time": 1774338441,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87734,
       "num": 105623,
       "word": "官方通报秦岭乱扔垃圾起冲突事件",
@@ -963,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86621,
+      "num": 86621,
+      "word": "胡歌高中长这样 不多人追才怪",
+      "onboard_time": 1774337121,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86054,
       "num": 86054,
       "word": "曝詹姆斯下赛季愿降薪留队",
@@ -977,6 +1105,14 @@
       "onboard_time": 1774317681,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85201,
+      "num": 122596,
+      "word": "何小鹏参考欧阳娜娜建议改款新MONA",
+      "onboard_time": 1774337660,
+      "rank": 27,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 84457,
@@ -1011,20 +1147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82631,
+      "num": 82631,
+      "word": "吃剩的橘子皮可以做洗洁精",
+      "onboard_time": 1774337601,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 82493,
       "num": 100117,
       "word": "杨瀚森4分3板",
       "onboard_time": 1774331000,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81927,
-      "num": 81927,
-      "word": "看到车上有这种装置请立即报警",
-      "onboard_time": 1774333460,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81869,
@@ -1057,14 +1193,6 @@
       "onboard_time": 1774330940,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80830,
-      "num": 80830,
-      "word": "脂肪都得排队喊大哥",
-      "onboard_time": 1774331180,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 80719,
@@ -1131,6 +1259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76312,
+      "num": 94757,
+      "word": "汤加7.6级地震",
+      "onboard_time": 1774335741,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 76275,
       "num": 76275,
       "word": "尚界Z7三小时小订突破18000台",
@@ -1161,6 +1297,14 @@
       "onboard_time": 1774310481,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75043,
+      "num": 75043,
+      "word": "金靖宣传迪丽热巴白宇新剧",
+      "onboard_time": 1774338922,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 75021,
@@ -1323,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68389,
+      "num": 68389,
+      "word": "刘烨秦海璐 老辈子的微博就是野",
+      "onboard_time": 1774339100,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67852,
       "num": 67852,
       "word": "医药生物板块爆发",
@@ -1403,6 +1555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64816,
+      "num": 68388,
+      "word": "每天上班必带的东西",
+      "onboard_time": 1774336940,
+      "rank": 48,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 64666,
       "num": 64666,
       "word": "现在适合抄底黄金吗",
@@ -1449,6 +1609,14 @@
       "onboard_time": 1774271001,
       "rank": 9,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 58413,
+      "num": 68359,
+      "word": "新郎回应7000元办极简婚礼",
+      "onboard_time": 1774338682,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56064,
@@ -1619,6 +1787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 28193,
+      "num": 619518,
+      "word": "打卡春天里的大美中国",
+      "onboard_time": 1774336582,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27442,
       "num": 37442,
       "word": "尚界Z7全系标配13大真香科技配置",
@@ -1641,6 +1817,14 @@
       "onboard_time": 1774284677,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25375,
+      "num": 157227,
+      "word": "女子将850克黄金藏电饭煲寄骗子",
+      "onboard_time": 1774338741,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25344,
@@ -1759,6 +1943,9 @@
     },
     {
       "word": "#雄安建设新时代创新高地#"
+    },
+    {
+      "word": "#习近平指引雄安发展#"
     }
   ]
 }

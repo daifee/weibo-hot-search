@@ -1,0 +1,410 @@
+{
+  "runTime": 1774339214431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 348253,
+        "num": 1055720,
+        "word": "迪士尼 物价",
+        "onboard_time": 1774330400,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234222,
+        "num": 764269,
+        "word": "梅姨落网全过程揭秘",
+        "onboard_time": 1774333579,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28193,
+        "num": 619518,
+        "word": "打卡春天里的大美中国",
+        "onboard_time": 1774336582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 440743,
+        "num": 440743,
+        "word": "周杰伦新歌",
+        "onboard_time": 1774329621,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208628,
+        "num": 208628,
+        "word": "金融监管总局副局长周亮被查",
+        "onboard_time": 1774339042,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 958868,
+        "num": 196145,
+        "word": "以色列被打穿了",
+        "onboard_time": 1774329321,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 449697,
+        "num": 190998,
+        "word": "美国被曝正向多国索要保护费",
+        "onboard_time": 1774336099,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266159,
+        "num": 190562,
+        "word": "第一次看懂中文是因为看懂了英文",
+        "onboard_time": 1774325062,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182048,
+        "num": 182048,
+        "word": "淘金小镇",
+        "onboard_time": 1774336940,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179968,
+        "num": 179968,
+        "word": "贵州溶洞发现地下反向森林",
+        "onboard_time": 1774328181,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 343606,
+        "num": 178959,
+        "word": "郭敬明改笔名",
+        "onboard_time": 1774337541,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269329,
+        "num": 177808,
+        "word": "女子乘高铁投诉男子吸烟却被发口罩",
+        "onboard_time": 1774332741,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219046,
+        "num": 174833,
+        "word": "五角大楼拟调3000空降兵夺哈尔克岛",
+        "onboard_time": 1774338261,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210077,
+        "num": 173300,
+        "word": "王鸥自曝拍戏补贴自创品牌一直亏损",
+        "onboard_time": 1774333160,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205009,
+        "num": 172762,
+        "word": "男友离世前转地铁吐血女孩5万治病",
+        "onboard_time": 1774329321,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204563,
+        "num": 171137,
+        "word": "周杰伦太阳之子MV",
+        "onboard_time": 1774328722,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169669,
+        "num": 169669,
+        "word": "王鹤棣将门独后骑马路透",
+        "onboard_time": 1774339042,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139909,
+        "num": 159845,
+        "word": "14岁少年遭虐待离世伤痕遍布全身",
+        "onboard_time": 1774325781,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157974,
+        "num": 157974,
+        "word": "难听",
+        "onboard_time": 1774333761,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25375,
+        "num": 157227,
+        "word": "女子将850克黄金藏电饭煲寄骗子",
+        "onboard_time": 1774338741,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517363,
+        "num": 155431,
+        "word": "张凌赫知道热巴白宇退出开推的反应",
+        "onboard_time": 1774326382,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335793,
+        "num": 151754,
+        "word": "第一批丁克家庭现状曝光",
+        "onboard_time": 1774329680,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160436,
+        "num": 149859,
+        "word": "千匹马力的领克10+来了",
+        "onboard_time": 1774337660,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149075,
+        "num": 149075,
+        "word": "专家建议26岁高卿尘立遗嘱",
+        "onboard_time": 1774339160,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135716,
+        "num": 135716,
+        "word": "韩3名高空被烧死人员均为外包工",
+        "onboard_time": 1774325781,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154663,
+        "num": 135653,
+        "word": "迪丽热巴好会演疯批",
+        "onboard_time": 1774333043,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134946,
+        "num": 134946,
+        "word": "刘亦菲金智媛生图",
+        "onboard_time": 1774325301,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85201,
+        "num": 122596,
+        "word": "何小鹏参考欧阳娜娜建议改款新MONA",
+        "onboard_time": 1774337660,
+        "rank": 27,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 115153,
+        "num": 115153,
+        "word": "骑车玩手机摔成植物人索赔300多万",
+        "onboard_time": 1774337301,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102027,
+        "num": 109338,
+        "word": "看到车上有这种装置请立即报警",
+        "onboard_time": 1774333460,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127991,
+        "num": 109324,
+        "word": "张凌赫拍刘宇宁金靖",
+        "onboard_time": 1774335921,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106870,
+        "num": 106870,
+        "word": "邓凯火了但还没适应",
+        "onboard_time": 1774337420,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104052,
+        "num": 104052,
+        "word": "入室抢婴主犯听到死缓当庭开骂",
+        "onboard_time": 1774326321,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102124,
+        "num": 102124,
+        "word": "美团删照片",
+        "onboard_time": 1774310060,
+        "rank": 33,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 101266,
+        "num": 101266,
+        "word": "金正恩正式将韩国定义为头号敌国",
+        "onboard_time": 1774324281,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99948,
+        "num": 99948,
+        "word": "脂肪都得排队喊大哥",
+        "onboard_time": 1774331180,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76312,
+        "num": 94757,
+        "word": "汤加7.6级地震",
+        "onboard_time": 1774335741,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93547,
+        "num": 93547,
+        "word": "发型越乱水平越高",
+        "onboard_time": 1774337482,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88444,
+        "num": 88444,
+        "word": "刘亦菲安妮海瑟薇世纪神图",
+        "onboard_time": 1774338441,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86621,
+        "num": 86621,
+        "word": "胡歌高中长这样 不多人追才怪",
+        "onboard_time": 1774337121,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82631,
+        "num": 82631,
+        "word": "吃剩的橘子皮可以做洗洁精",
+        "onboard_time": 1774337601,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 78962,
+        "num": 78962,
+        "word": "被吸管杯背刺了",
+        "onboard_time": 1774327042,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78263,
+        "num": 78263,
+        "word": "地铁吐血女孩前男友去年因病离世",
+        "onboard_time": 1774323919,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75043,
+        "num": 75043,
+        "word": "金靖宣传迪丽热巴白宇新剧",
+        "onboard_time": 1774338922,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72503,
+        "num": 72503,
+        "word": "少年被虐致死家族群里都是伤痕照片",
+        "onboard_time": 1774328540,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69717,
+        "num": 69717,
+        "word": "美国打不赢还走不了",
+        "onboard_time": 1774329861,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69022,
+        "num": 69022,
+        "word": "孟羽童自曝失恋一周无法工作",
+        "onboard_time": 1774330101,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68389,
+        "num": 68389,
+        "word": "刘烨秦海璐 老辈子的微博就是野",
+        "onboard_time": 1774339100,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64816,
+        "num": 68388,
+        "word": "每天上班必带的东西",
+        "onboard_time": 1774336940,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 58413,
+        "num": 68359,
+        "word": "新郎回应7000元办极简婚礼",
+        "onboard_time": 1774338682,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平指引雄安发展#"
+    }
+  }
+}
