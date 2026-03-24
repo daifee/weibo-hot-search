@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774349971397,
+  "endTime": 1774350939902,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -33,6 +33,22 @@
       "onboard_time": 1768651641,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17733875,
+      "num": 17733875,
+      "word": "张雪峰",
+      "onboard_time": 1774346663,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 16990913,
+      "num": 16990913,
+      "word": "助理回应张雪峰心脏骤停抢救传闻",
+      "onboard_time": 1774346242,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16741456,
@@ -113,22 +129,6 @@
       "onboard_time": 1771207399,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12554560,
-      "num": 12554560,
-      "word": "张雪峰",
-      "onboard_time": 1774346663,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 12532865,
-      "num": 12532865,
-      "word": "助理回应张雪峰心脏骤停抢救传闻",
-      "onboard_time": 1774346242,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12387662,
@@ -1723,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1998332,
+      "num": 201849,
+      "word": "合伙人回应张雪峰心脏骤停抢救传闻",
+      "onboard_time": 1774347323,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1989878,
       "num": 291735,
       "word": "成毅 年龄",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1772246843,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1665219,
-      "num": 1665219,
-      "word": "哈梅内伊妻子伤重不治去世",
-      "onboard_time": 1772459065,
-      "rank": 0,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
