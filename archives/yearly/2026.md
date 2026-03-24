@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/03/24 21:27:35
+本榜单时间：2026/01/01 00:35:36 ~ 2026/03/24 21:57:06
 </p>
 </blockquote>
 <p>
@@ -16,13 +16,31 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%23" target="weibo">
-张雪峰（热度：35401735）
+张雪峰（热度：46860992）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%B4%A6%E5%8F%B7%E5%A4%B4%E5%83%8F%E5%8F%98%E6%88%90%E9%BB%91%E7%99%BD%23" target="weibo">
+张雪峰账号头像变成黑白（热度：45829389）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A9%E7%90%86%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E6%8A%A2%E6%95%91%E4%BC%A0%E9%97%BB%23" target="weibo">
 助理回应张雪峰心脏骤停抢救传闻（热度：32786833）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
+张雪峰去世（热度：31873748）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23" target="weibo">
+张雪峰公司发布讣告（热度：31481661）
 </a>
 </li>
 
@@ -89,12 +107,6 @@ U23国足vs日本（热度：16741456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%96%8A%E8%AF%9D%E8%96%9B%E4%B9%8B%E8%B0%A6%23" target="weibo">
 谢娜喊话薛之谦（热度：14299027）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%B4%A6%E5%8F%B7%E5%A4%B4%E5%83%8F%E5%8F%98%E6%88%90%E9%BB%91%E7%99%BD%23" target="weibo">
-张雪峰账号头像变成黑白（热度：13572564）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ ZB1解散（热度：1695263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%B4%81%E7%BA%A2%E5%8C%85%23" target="weibo">
 梁洁红包（热度：1694346）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%23" target="weibo">
-荣耀之战（热度：1683061）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E6%88%98%E6%9E%9C%23" target="weibo">
-伊朗宣布战果（热度：1681761）
 </a>
 </li>
 

@@ -1,14 +1,22 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774358855709,
+  "endTime": 1774360626136,
   "band_list": [
     {
-      "raw_hot": 35401735,
-      "num": 35401735,
+      "raw_hot": 46860992,
+      "num": 46860992,
       "word": "张雪峰",
       "onboard_time": 1774346663,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 45829389,
+      "num": 45829389,
+      "word": "张雪峰账号头像变成黑白",
+      "onboard_time": 1774357775,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32786833,
@@ -16,6 +24,22 @@
       "word": "助理回应张雪峰心脏骤停抢救传闻",
       "onboard_time": 1774346242,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31873748,
+      "num": 31873748,
+      "word": "张雪峰去世",
+      "onboard_time": 1774360134,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31481661,
+      "num": 31481661,
+      "word": "张雪峰公司发布讣告",
+      "onboard_time": 1774360134,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -105,14 +129,6 @@
       "onboard_time": 1772501906,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13572564,
-      "num": 13572564,
-      "word": "张雪峰账号头像变成黑白",
-      "onboard_time": 1774357775,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13365300,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1771224264,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1683061,
-      "num": 1683061,
-      "word": "荣耀之战",
-      "onboard_time": 1767514642,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1681761,
-      "num": 932657,
-      "word": "伊朗宣布战果",
-      "onboard_time": 1772288423,
-      "rank": 21,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
