@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774353171076,
+  "endTime": 1774353857107,
   "band_list": [
     {
       "raw_hot": 17733875,
@@ -16,6 +16,14 @@
       "word": "助理回应张雪峰心脏骤停抢救传闻",
       "onboard_time": 1774346242,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3119969,
+      "num": 289127,
+      "word": "张雪峰相关账号停止直播",
+      "onboard_time": 1774352850,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -67,14 +75,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1684128,
-      "num": 289127,
-      "word": "张雪峰相关账号停止直播",
-      "onboard_time": 1774352850,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1541346,
       "num": 1360669,
       "word": "BLG夺冠",
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1318120,
-      "num": 205460,
+      "num": 226030,
       "word": "日本",
       "onboard_time": 1774340722,
       "rank": 10,
@@ -153,6 +153,14 @@
       "onboard_time": 1774326382,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1157531,
+      "num": 284653,
+      "word": "张雪峰年龄",
+      "onboard_time": 1774351049,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1144240,
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1042703,
+      "num": 275745,
+      "word": "张雪峰社媒仍在更新",
+      "onboard_time": 1774350810,
+      "rank": 18,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 1042361,
       "num": 1166777,
       "word": "一家四口感染HIV妻子小儿子去世",
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 1038777,
-      "num": 181361,
+      "num": 187998,
       "word": "恭喜你发明了劳务派遣",
       "onboard_time": 1774339401,
       "rank": 30,
@@ -267,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 965697,
-      "num": 284653,
-      "word": "张雪峰年龄",
-      "onboard_time": 1774351049,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 959924,
       "num": 569980,
       "word": "一日本人威胁要杀中国外交人员",
@@ -283,12 +291,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 934262,
-      "num": 275745,
-      "word": "张雪峰社媒仍在更新",
-      "onboard_time": 1774350810,
-      "rank": 18,
-      "category": "民生新闻,教育"
+      "raw_hot": 917869,
+      "num": 409893,
+      "word": "法医刘良交出尸检真相后录临终视频",
+      "onboard_time": 1774351169,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 905642,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 742274,
+      "num": 252313,
+      "word": "管泽元升级当爸",
+      "onboard_time": 1774352550,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 740715,
       "num": 133286,
       "word": "陈慧敏怀孕了",
@@ -443,14 +459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 682547,
-      "num": 409893,
-      "word": "法医刘良交出尸检真相后录临终视频",
-      "onboard_time": 1774351169,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 676617,
       "num": 1108258,
       "word": "流量退去后的鸡排哥与网红街",
@@ -473,6 +481,14 @@
       "onboard_time": 1774143020,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 664797,
+      "num": 267674,
+      "word": "公司称不方便告知张雪峰是否在公司",
+      "onboard_time": 1774352008,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 657982,
@@ -723,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 525686,
-      "num": 267674,
-      "word": "公司称不方便告知张雪峰是否在公司",
-      "onboard_time": 1774352008,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 519760,
       "num": 340790,
       "word": "梅姨",
@@ -769,6 +777,14 @@
       "onboard_time": 1774238660,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501531,
+      "num": 501531,
+      "word": "文淇 年轻女演员演主角等于没票房",
+      "onboard_time": 1774350328,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 501310,
@@ -1060,7 +1076,7 @@
     },
     {
       "raw_hot": 410935,
-      "num": 200733,
+      "num": 235587,
       "word": "邓凯 鲁迅美院",
       "onboard_time": 1774343661,
       "rank": 40,
@@ -1089,14 +1105,6 @@
       "onboard_time": 1774178119,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 406515,
-      "num": 406515,
-      "word": "文淇 年轻女演员演主角等于没票房",
-      "onboard_time": 1774350328,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 406198,
@@ -2347,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206714,
+      "num": 1033074,
+      "word": "齐旻的死是被人下了十年的慢性毒",
+      "onboard_time": 1774353570,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205558,
       "num": 129581,
       "word": "伊朗称美为操纵市场散布假新闻",
@@ -2563,6 +2579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184634,
+      "num": 184634,
+      "word": "崇礼偶遇王一博滑雪",
+      "onboard_time": 1774352550,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184493,
       "num": 757621,
       "word": "伊朗导弹绕过以色列拦截弹",
@@ -2609,6 +2633,14 @@
       "onboard_time": 1774336940,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180186,
+      "num": 180186,
+      "word": "睡觉是延长心脏寿命最好的方式",
+      "onboard_time": 1774352969,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179936,
@@ -2883,12 +2915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163508,
-      "num": 163508,
-      "word": "睡觉是延长心脏寿命最好的方式",
-      "onboard_time": 1774352969,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 162156,
+      "num": 162156,
+      "word": "亚朵酒店中文标识让人看不懂了",
+      "onboard_time": 1774349968,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161924,
@@ -2961,14 +2993,6 @@
       "onboard_time": 1774333043,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154152,
-      "num": 154152,
-      "word": "亚朵酒店中文标识让人看不懂了",
-      "onboard_time": 1774349968,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153975,
@@ -3056,6 +3080,14 @@
       "word": "张真源 青岛",
       "onboard_time": 1774187542,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148309,
+      "num": 148309,
+      "word": "阮经天和女友十指紧扣逛街",
+      "onboard_time": 1774353390,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -3211,20 +3243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139550,
-      "num": 139550,
-      "word": "崇礼偶遇王一博滑雪",
-      "onboard_time": 1774352550,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139416,
       "num": 183672,
       "word": "迪丽热巴新经纪人疑似回应入职嘉行",
       "onboard_time": 1774099461,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139247,
+      "num": 139247,
+      "word": "性格决定命运这句话永远都成立",
+      "onboard_time": 1774349489,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 139188,
@@ -3283,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136850,
+      "num": 136850,
+      "word": "徐老师采访肖战",
+      "onboard_time": 1774353509,
+      "rank": 36,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 136813,
       "num": 136813,
       "word": "小米新SU7首批车主交付仪式",
@@ -3323,6 +3363,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135357,
+      "num": 135357,
+      "word": "第一次在车身上看到了性感",
+      "onboard_time": 1774353570,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 135128,
+      "num": 135128,
+      "word": "宋雨琦线下活动疑似不舒服",
+      "onboard_time": 1774352489,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134683,
       "num": 289223,
       "word": "出车祸私了后发现9级伤残",
@@ -3352,6 +3408,14 @@
       "word": "王一博抛媚眼",
       "onboard_time": 1774341561,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133170,
+      "num": 133170,
+      "word": "宋威龙说男人最好的医美是医美",
+      "onboard_time": 1774352489,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -3515,20 +3579,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126194,
-      "num": 126194,
-      "word": "宋雨琦线下活动疑似不舒服",
-      "onboard_time": 1774352489,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125751,
       "num": 125751,
       "word": "穿普拉达的女王2内地定档",
       "onboard_time": 1774234460,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125259,
+      "num": 116547,
+      "word": "周杰伦新歌口碑",
+      "onboard_time": 1774351829,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 125256,
@@ -3553,14 +3617,6 @@
       "onboard_time": 1774349309,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124762,
-      "num": 136426,
-      "word": "性格决定命运这句话永远都成立",
-      "onboard_time": 1774349489,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 124105,
@@ -3633,14 +3689,6 @@
       "onboard_time": 1774337301,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120727,
-      "num": 120727,
-      "word": "宋威龙说男人最好的医美是医美",
-      "onboard_time": 1774352489,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 120493,
@@ -3793,14 +3841,6 @@
       "onboard_time": 1774321400,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 116547,
-      "num": 116547,
-      "word": "周杰伦新歌口碑",
-      "onboard_time": 1774351829,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 116461,
@@ -4129,6 +4169,14 @@
       "onboard_time": 1774156521,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107621,
+      "num": 94667,
+      "word": "周杰伦新专辑定价",
+      "onboard_time": 1774353509,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 107045,
@@ -4489,6 +4537,14 @@
       "onboard_time": 1774235180,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98518,
+      "num": 98518,
+      "word": "小时候不理解的事长大真香了",
+      "onboard_time": 1774353811,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 98277,
@@ -7355,6 +7411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58820,
+      "num": 133953,
+      "word": "热巴白日提灯眼技",
+      "onboard_time": 1774351769,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58413,
       "num": 68359,
       "word": "新郎回应7000元办极简婚礼",
@@ -7819,6 +7883,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 44875,
+      "num": 135177,
+      "word": "曼谷偶遇戚薇李承铉",
+      "onboard_time": 1774352910,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44031,
       "num": 123816,
       "word": "檀健次粉丝后吃",
@@ -7923,6 +7995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35350,
+      "num": 135142,
+      "word": "穿长裙摔倒孕妇提出8000元赔偿被拒",
+      "onboard_time": 1774353630,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35021,
       "num": 180863,
       "word": "张展硕400自金牌",
@@ -7969,14 +8049,6 @@
       "onboard_time": 1774263981,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33305,
-      "num": 111427,
-      "word": "曼谷偶遇戚薇李承铉",
-      "onboard_time": 1774352910,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 32772,
@@ -8148,7 +8220,7 @@
     },
     {
       "raw_hot": 27850,
-      "num": 587822,
+      "num": 616430,
       "word": "七彩云南万千气象",
       "onboard_time": 1774351169,
       "rank": 2,
@@ -8217,6 +8289,14 @@
       "onboard_time": 1774319421,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23661,
+      "num": 162260,
+      "word": "家暴离婚可申请民事支持起诉",
+      "onboard_time": 1774353630,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22840,
