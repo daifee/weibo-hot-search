@@ -1,6 +1,6 @@
 {
   "startTime": 1774372134651,
-  "endTime": 1774389694081,
+  "endTime": 1774392044608,
   "band_list": [
     {
       "raw_hot": 1589478,
@@ -11,11 +11,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1297841,
+      "raw_hot": 1527551,
       "num": 108371,
       "word": "张雪峰女儿还那么小",
       "onboard_time": 1774363958,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1096417,
+      "num": 298255,
+      "word": "猝死前1小时身体的预警",
+      "onboard_time": 1774378034,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 676016,
+      "num": 676016,
+      "word": "峰学蔚来总经理称学员员工权益均有保障",
+      "onboard_time": 1774367365,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -27,11 +43,11 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 625460,
-      "num": 625460,
-      "word": "峰学蔚来总经理称学员员工权益均有保障",
-      "onboard_time": 1774367365,
-      "rank": 1,
+      "raw_hot": 612252,
+      "num": 161811,
+      "word": "人生真好玩 下辈子还来",
+      "onboard_time": 1774372278,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -43,12 +59,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 480078,
-      "num": 154778,
-      "word": "猝死前1小时身体的预警",
-      "onboard_time": 1774378034,
-      "rank": 3,
-      "category": "健康医疗"
+      "raw_hot": 516696,
+      "num": 108310,
+      "word": "张雪峰曾回应心脏不好质疑",
+      "onboard_time": 1774366290,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 469383,
@@ -65,14 +81,6 @@
       "onboard_time": 1774360944,
       "rank": 10,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 456898,
-      "num": 161811,
-      "word": "人生真好玩 下辈子还来",
-      "onboard_time": 1774372278,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 432625,
@@ -99,20 +107,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218893,
-      "num": 108310,
-      "word": "张雪峰曾回应心脏不好质疑",
-      "onboard_time": 1774366290,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199312,
       "num": 199312,
       "word": "周杰伦新专辑",
       "onboard_time": 1774369341,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194293,
+      "num": 194293,
+      "word": "警惕嘴唇发紫可能是心肺重症信号",
+      "onboard_time": 1774377795,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 186327,
+      "num": 88791,
+      "word": "张雪峰8年前曾谈猝死",
+      "onboard_time": 1774376356,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153213,
@@ -139,7 +155,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124515,
+      "raw_hot": 138031,
       "num": 124515,
       "word": "火了还没适应的明星最好玩了",
       "onboard_time": 1774366468,
@@ -163,12 +179,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 101694,
-      "num": 101694,
-      "word": "警惕嘴唇发紫可能是心肺重症信号",
+      "raw_hot": 103174,
+      "num": 108266,
+      "word": "睡觉是延长心脏寿命最好的方式",
+      "onboard_time": 1774352969,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96062,
+      "num": 47189,
+      "word": "6类人高强度运动猝死风险高",
       "onboard_time": 1774377795,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
+      "rank": 30,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 95259,
+      "num": 107603,
+      "word": "伊朗喊美国做个了断",
+      "onboard_time": 1774357111,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91206,
@@ -179,12 +211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89481,
-      "num": 108266,
-      "word": "睡觉是延长心脏寿命最好的方式",
-      "onboard_time": 1774352969,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 88885,
+      "num": 88885,
+      "word": "以色列战损窟窿越来越大",
+      "onboard_time": 1774381514,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88196,
@@ -196,19 +228,19 @@
     },
     {
       "raw_hot": 87445,
-      "num": 40833,
+      "num": 47168,
       "word": "张雪峰 为学生打破信息差",
       "onboard_time": 1774382954,
       "rank": 12,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79213,
-      "num": 52757,
-      "word": "张雪峰8年前曾谈猝死",
-      "onboard_time": 1774376356,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 79680,
+      "num": 108567,
+      "word": "4岁女童就诊177次患者是母亲",
+      "onboard_time": 1774342522,
+      "rank": 17,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 74731,
@@ -217,14 +249,6 @@
       "onboard_time": 1774371859,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74104,
-      "num": 108567,
-      "word": "4岁女童就诊177次患者是母亲",
-      "onboard_time": 1774342522,
-      "rank": 17,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 74090,
@@ -283,20 +307,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52927,
-      "num": 26028,
-      "word": "6类人高强度运动猝死风险高",
-      "onboard_time": 1774377795,
-      "rank": 30,
-      "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 51427,
-      "num": 107603,
-      "word": "伊朗喊美国做个了断",
-      "onboard_time": 1774357111,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 54916,
+      "num": 54916,
+      "word": "刘宇宁开推4首案录制路透",
+      "onboard_time": 1774386015,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 51093,
@@ -323,12 +339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45620,
-      "num": 45620,
-      "word": "以色列战损窟窿越来越大",
-      "onboard_time": 1774381514,
-      "rank": 11,
-      "category": "国际时政"
+      "raw_hot": 44966,
+      "num": 47187,
+      "word": "38岁男子打10分钟羽毛球后心梗",
+      "onboard_time": 1774379655,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44507,
@@ -369,6 +385,14 @@
       "onboard_time": 1774368145,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40795,
+      "num": 47201,
+      "word": "老天爷追着喂饭 瞿颖全婉拒了",
+      "onboard_time": 1774377616,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 40604,
@@ -419,6 +443,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31158,
+      "num": 58381,
+      "word": "你好1983",
+      "onboard_time": 1774373956,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30693,
+      "num": 47133,
+      "word": "谍报上不封顶",
+      "onboard_time": 1774381274,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29017,
       "num": 106557,
       "word": "柳智敏翻唱中文歌",
@@ -443,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28362,
+      "num": 57803,
+      "word": "王一博上海耐力赛纪录片",
+      "onboard_time": 1774364675,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28154,
       "num": 106298,
       "word": "小猫怎么也搞形式主义",
@@ -451,28 +499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 27909,
-      "num": 58381,
-      "word": "你好1983",
-      "onboard_time": 1774373956,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 27492,
-      "num": 27492,
-      "word": "老天爷追着喂饭 瞿颖全婉拒了",
-      "onboard_time": 1774377616,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 26249,
-      "num": 26020,
-      "word": "38岁男子打10分钟羽毛球后心梗",
-      "onboard_time": 1774379655,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 25033,
+      "num": 47111,
+      "word": "出现猝死征兆如何自救",
+      "onboard_time": 1774378334,
+      "rank": 28,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 23269,
@@ -483,22 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23043,
-      "num": 25981,
-      "word": "出现猝死征兆如何自救",
-      "onboard_time": 1774378334,
-      "rank": 28,
-      "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 22918,
-      "num": 26003,
-      "word": "刘宇宁开推4首案录制路透",
-      "onboard_time": 1774386015,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 21937,
       "num": 74581,
       "word": "大学生口中吃顿好的",
@@ -507,28 +523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 21855,
-      "num": 25994,
-      "word": "谍报上不封顶",
-      "onboard_time": 1774381274,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 21531,
       "num": 58192,
       "word": "王鹤棣单手提枪",
       "onboard_time": 1774375755,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19056,
-      "num": 57803,
-      "word": "王一博上海耐力赛纪录片",
-      "onboard_time": 1774364675,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 18967,
