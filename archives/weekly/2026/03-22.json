@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774366957376,
+  "endTime": 1774372134651,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -667,6 +667,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 625867,
+      "num": 678408,
+      "word": "高强度工作 不要运动",
+      "onboard_time": 1774366769,
+      "rank": 14,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 625460,
+      "num": 625460,
+      "word": "峰学蔚来总经理称学员员工权益均有保障",
+      "onboard_time": 1774367365,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 617869,
       "num": 185838,
       "word": "张佳宁说单眼皮因拍戏变不回来了",
@@ -995,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469383,
+      "num": 258629,
+      "word": "峰学蔚来",
+      "onboard_time": 1774368145,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467563,
       "num": 185501,
       "word": "逐玉 超点",
@@ -1147,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432625,
+      "num": 977442,
+      "word": "周杰伦新歌口碑",
+      "onboard_time": 1774351829,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 430584,
       "num": 168927,
       "word": "丁程鑫比周柯宇大",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1774178119,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406600,
+      "num": 406600,
+      "word": "早睡",
+      "onboard_time": 1774369941,
+      "rank": 4,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 406198,
@@ -1681,6 +1721,14 @@
       "onboard_time": 1774238961,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312997,
+      "num": 1536513,
+      "word": "容易触发猝死的6个因素",
+      "onboard_time": 1774365931,
+      "rank": 1,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 311676,
@@ -2121,14 +2169,6 @@
       "onboard_time": 1774172842,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242590,
-      "num": 977442,
-      "word": "周杰伦新歌口碑",
-      "onboard_time": 1774351829,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 240849,
@@ -2579,14 +2619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 202706,
-      "num": 1536513,
-      "word": "容易触发猝死的6个因素",
-      "onboard_time": 1774365931,
-      "rank": 1,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 202481,
       "num": 772940,
       "word": "桃花坞上新人了",
@@ -2635,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199312,
+      "num": 199312,
+      "word": "周杰伦新专辑",
+      "onboard_time": 1774369341,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198045,
       "num": 785426,
       "word": "专家称梅姨可能觉得自己在做善事",
@@ -2657,6 +2697,14 @@
       "onboard_time": 1774093400,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195583,
+      "num": 108310,
+      "word": "张雪峰曾回应心脏不好质疑",
+      "onboard_time": 1774366290,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194665,
@@ -2857,14 +2905,6 @@
       "onboard_time": 1774358441,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 182013,
-      "num": 678408,
-      "word": "高强度工作 不要运动",
-      "onboard_time": 1774366769,
-      "rank": 14,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 179936,
@@ -3257,6 +3297,14 @@
       "onboard_time": 1774171100,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153213,
+      "num": 153213,
+      "word": "迪丽热巴眼技",
+      "onboard_time": 1774367068,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 152957,
@@ -4184,6 +4232,14 @@
       "word": "宋雨琦回应头部受伤",
       "onboard_time": 1774365094,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115992,
+      "num": 115992,
+      "word": "宁艺卓ins点赞刘美贤",
+      "onboard_time": 1774369701,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -6603,6 +6659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74731,
+      "num": 107657,
+      "word": "唐尚珺悼念张雪峰",
+      "onboard_time": 1774371859,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74672,
       "num": 85237,
       "word": "32岁辅警救轻生女子坠河牺牲",
@@ -7251,6 +7315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66875,
+      "num": 108451,
+      "word": "邓凯孔雪儿借位吻",
+      "onboard_time": 1774370002,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66870,
       "num": 66870,
       "word": "伊朗核设施遭袭现场画面",
@@ -7761,6 +7833,14 @@
       "onboard_time": 1774277061,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 60555,
+      "num": 107963,
+      "word": "胡锡进为张雪峰唏嘘难过",
+      "onboard_time": 1774371859,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60507,
@@ -8403,6 +8483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 41001,
+      "num": 106481,
+      "word": "张雪峰 寒门学子",
+      "onboard_time": 1774368145,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39972,
       "num": 39972,
       "word": "G2",
@@ -8635,6 +8723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29010,
+      "num": 106394,
+      "word": "我许可",
+      "onboard_time": 1774372038,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28982,
       "num": 52289,
       "word": "Knight的决赛宣言",
@@ -8659,6 +8755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28462,
+      "num": 106363,
+      "word": "这装修有种把钱花到刀鞘上的感觉",
+      "onboard_time": 1774369462,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28392,
       "num": 69911,
       "word": "周杰伦新歌全版本预测",
@@ -8673,6 +8777,14 @@
       "onboard_time": 1774336582,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28154,
+      "num": 106298,
+      "word": "小猫怎么也搞形式主义",
+      "onboard_time": 1774368085,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 28096,

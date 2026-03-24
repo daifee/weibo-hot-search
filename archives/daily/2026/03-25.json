@@ -1,0 +1,411 @@
+{
+  "startTime": 1774372134651,
+  "endTime": 1774372134651,
+  "band_list": [
+    {
+      "raw_hot": 1589478,
+      "num": 387753,
+      "word": "张雪峰公司发布讣告",
+      "onboard_time": 1774360134,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1297841,
+      "num": 108371,
+      "word": "张雪峰女儿还那么小",
+      "onboard_time": 1774363958,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 625867,
+      "num": 625867,
+      "word": "高强度工作 不要运动",
+      "onboard_time": 1774366769,
+      "rank": 0,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 625460,
+      "num": 625460,
+      "word": "峰学蔚来总经理称学员员工权益均有保障",
+      "onboard_time": 1774367365,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469383,
+      "num": 258629,
+      "word": "峰学蔚来",
+      "onboard_time": 1774368145,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463056,
+      "num": 150428,
+      "word": "心源性猝死",
+      "onboard_time": 1774360944,
+      "rank": 10,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 432625,
+      "num": 432625,
+      "word": "周杰伦新歌口碑",
+      "onboard_time": 1774351829,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 406600,
+      "num": 406600,
+      "word": "早睡",
+      "onboard_time": 1774369941,
+      "rank": 4,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 312997,
+      "num": 312997,
+      "word": "容易触发猝死的6个因素",
+      "onboard_time": 1774365931,
+      "rank": 6,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 259438,
+      "num": 148822,
+      "word": "张雪峰生前谈墓碑上要写什么",
+      "onboard_time": 1774365452,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199312,
+      "num": 199312,
+      "word": "周杰伦新专辑",
+      "onboard_time": 1774369341,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195583,
+      "num": 108310,
+      "word": "张雪峰曾回应心脏不好质疑",
+      "onboard_time": 1774366290,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153213,
+      "num": 153213,
+      "word": "迪丽热巴眼技",
+      "onboard_time": 1774367068,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143072,
+      "num": 143072,
+      "word": "睡够8小时",
+      "onboard_time": 1774364854,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124515,
+      "num": 124515,
+      "word": "火了还没适应的明星最好玩了",
+      "onboard_time": 1774366468,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115992,
+      "num": 115992,
+      "word": "宁艺卓ins点赞刘美贤",
+      "onboard_time": 1774369701,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108706,
+      "num": 108706,
+      "word": "考研人",
+      "onboard_time": 1774366050,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 89320,
+      "num": 108266,
+      "word": "睡觉是延长心脏寿命最好的方式",
+      "onboard_time": 1774352969,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88196,
+      "num": 108699,
+      "word": "中方要求日方立即彻查严惩",
+      "onboard_time": 1774340182,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 74731,
+      "num": 107657,
+      "word": "唐尚珺悼念张雪峰",
+      "onboard_time": 1774371859,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74104,
+      "num": 108567,
+      "word": "4岁女童就诊177次患者是母亲",
+      "onboard_time": 1774342522,
+      "rank": 17,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 74090,
+      "num": 108495,
+      "word": "张凌赫蓝色花蝴蝶造型",
+      "onboard_time": 1774359224,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 66875,
+      "num": 108451,
+      "word": "邓凯孔雪儿借位吻",
+      "onboard_time": 1774370002,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65815,
+      "num": 108195,
+      "word": "逐玉",
+      "onboard_time": 1774351587,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62229,
+      "num": 108062,
+      "word": "泽尻英龙华40岁状态",
+      "onboard_time": 1774354710,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61105,
+      "num": 108051,
+      "word": "殡葬行业大哥缓解孤独终老焦虑",
+      "onboard_time": 1774364615,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 60555,
+      "num": 107963,
+      "word": "胡锡进为张雪峰唏嘘难过",
+      "onboard_time": 1774371859,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60481,
+      "num": 107847,
+      "word": "以色列被打穿了",
+      "onboard_time": 1774329321,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 59952,
+      "num": 107802,
+      "word": "文淇 年轻女演员演主角等于没票房",
+      "onboard_time": 1774350328,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 56576,
+      "num": 107759,
+      "word": "日本",
+      "onboard_time": 1774340722,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 51427,
+      "num": 107603,
+      "word": "伊朗喊美国做个了断",
+      "onboard_time": 1774357111,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 51093,
+      "num": 107520,
+      "word": "宋雨琦回应头部受伤",
+      "onboard_time": 1774365094,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50983,
+      "num": 107463,
+      "word": "刘亦菲或客串穿普拉达的女王2",
+      "onboard_time": 1774364436,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 46613,
+      "num": 107337,
+      "word": "张凌赫陈哲远将军造型对比",
+      "onboard_time": 1774344021,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 44507,
+      "num": 107316,
+      "word": "过度运动",
+      "onboard_time": 1774363898,
+      "rank": 35,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 44379,
+      "num": 107251,
+      "word": "地铁吐血女孩已离开华西医院",
+      "onboard_time": 1774355549,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43520,
+      "num": 107122,
+      "word": "管泽元升级当爸",
+      "onboard_time": 1774352550,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 42959,
+      "num": 107102,
+      "word": "曾经只值10元的二手机现在回收价500",
+      "onboard_time": 1774360292,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41001,
+      "num": 106481,
+      "word": "张雪峰 寒门学子",
+      "onboard_time": 1774368145,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40604,
+      "num": 107033,
+      "word": "齐旻的死是被人下了十年的慢性毒",
+      "onboard_time": 1774353570,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 39142,
+      "num": 106939,
+      "word": "宋威龙说男人最好的医美是医美",
+      "onboard_time": 1774352489,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38760,
+      "num": 106892,
+      "word": "地铁吐血女孩去年已安排好后事",
+      "onboard_time": 1774355908,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34669,
+      "num": 106785,
+      "word": "李艺彤 短剧",
+      "onboard_time": 1774358260,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34317,
+      "num": 106752,
+      "word": "草莓下火锅",
+      "onboard_time": 1774349427,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 32689,
+      "num": 106658,
+      "word": "外交部回应日方拟将中日关系降级",
+      "onboard_time": 1774346781,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 29017,
+      "num": 106557,
+      "word": "柳智敏翻唱中文歌",
+      "onboard_time": 1774356570,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 29010,
+      "num": 106394,
+      "word": "我许可",
+      "onboard_time": 1774372038,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 28462,
+      "num": 106363,
+      "word": "这装修有种把钱花到刀鞘上的感觉",
+      "onboard_time": 1774369462,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 28154,
+      "num": 106298,
+      "word": "小猫怎么也搞形式主义",
+      "onboard_time": 1774368085,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 18967,
+      "num": 451035,
+      "word": "太空加油站新进展",
+      "onboard_time": 1774360582,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#与雄安新区一起成长#"
+    }
+  ]
+}
