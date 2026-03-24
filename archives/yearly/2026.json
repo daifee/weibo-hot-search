@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774364854104,
+  "endTime": 1774366957376,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -740,10 +740,18 @@
     },
     {
       "raw_hot": 3960942,
-      "num": 313430,
+      "num": 532247,
       "word": "张雪峰曾回应如何面对死亡",
       "onboard_time": 1774363423,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3881745,
+      "num": 557708,
+      "word": "张雪峰女儿还那么小",
+      "onboard_time": 1774363958,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -929,14 +937,6 @@
       "onboard_time": 1769996779,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 3324910,
-      "num": 290039,
-      "word": "张雪峰女儿还那么小",
-      "onboard_time": 1774363958,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3306102,
@@ -1811,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1967606,
+      "num": 811686,
+      "word": "张雪峰微博高频词 凌晨和累",
+      "onboard_time": 1774365034,
+      "rank": 9,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 1963546,
       "num": 1963546,
       "word": "国家线 砍一刀",
@@ -2148,7 +2156,7 @@
     },
     {
       "raw_hot": 1792417,
-      "num": 474056,
+      "num": 597018,
       "word": "以色列被打穿了",
       "onboard_time": 1774329321,
       "rank": 5,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1772320096,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1695438,
-      "num": 319915,
-      "word": "肖战出图",
-      "onboard_time": 1770278727,
-      "rank": 6,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
