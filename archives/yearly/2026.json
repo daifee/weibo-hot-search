@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774343755975,
+  "endTime": 1774347316021,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -985,6 +985,14 @@
       "onboard_time": 1768654162,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2896766,
+      "num": 2896766,
+      "word": "助理回应张雪峰心脏骤停抢救传闻",
+      "onboard_time": 1774346242,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2894820,
@@ -2259,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1707499,
+      "num": 393318,
+      "word": "张雪峰",
+      "onboard_time": 1774346663,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1706962,
       "num": 593340,
       "word": "高市早苗再当选日本首相",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1772459065,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1664887,
-      "num": 1664887,
-      "word": "范丞丞王安宇同台",
-      "onboard_time": 1771257750,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1664569,
-      "num": 1128012,
-      "word": "国考",
-      "onboard_time": 1768288881,
-      "rank": 23,
-      "category": "教育"
     }
   ],
   "hotgov_list": [

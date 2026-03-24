@@ -1,0 +1,410 @@
+{
+  "runTime": 1774347316021,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2896766,
+        "num": 2896766,
+        "word": "助理回应张雪峰心脏骤停抢救传闻",
+        "onboard_time": 1774346242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311827,
+        "num": 1047554,
+        "word": "53岁独身女子去世留下600万遗产",
+        "onboard_time": 1774344502,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21922,
+        "num": 825314,
+        "word": "打卡春天里的大美中国",
+        "onboard_time": 1774336582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 966975,
+        "num": 641434,
+        "word": "4岁女童就诊177次患者是母亲",
+        "onboard_time": 1774342522,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394563,
+        "num": 394563,
+        "word": "一日本人威胁要杀中国外交人员",
+        "onboard_time": 1774340182,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1707499,
+        "num": 393318,
+        "word": "张雪峰",
+        "onboard_time": 1774346663,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 338786,
+        "num": 338786,
+        "word": "以色列被打穿了",
+        "onboard_time": 1774329321,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218275,
+        "num": 218275,
+        "word": "A股大反攻原因找到了",
+        "onboard_time": 1774345822,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190706,
+        "num": 190706,
+        "word": "田曦薇簪花将军转场",
+        "onboard_time": 1774341141,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150386,
+        "num": 150386,
+        "word": "迪士尼 物价",
+        "onboard_time": 1774330400,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 734412,
+        "num": 148890,
+        "word": "日本",
+        "onboard_time": 1774340722,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 651987,
+        "num": 147881,
+        "word": "少年因恐吓致失禁离世时仍穿尿不湿",
+        "onboard_time": 1774343002,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607982,
+        "num": 147077,
+        "word": "张凌赫陈哲远将军造型对比",
+        "onboard_time": 1774344021,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268817,
+        "num": 144696,
+        "word": "地铁吐血女孩一天打三份工赚三四百",
+        "onboard_time": 1774345641,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228581,
+        "num": 143535,
+        "word": "面筋哥女儿自曝遭继父持续4年性骚扰",
+        "onboard_time": 1774341983,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190896,
+        "num": 141426,
+        "word": "伊朗最高领袖顾问重申结束战争条件",
+        "onboard_time": 1774340662,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189256,
+        "num": 140522,
+        "word": "美国5名顶尖科学家接连失踪死亡",
+        "onboard_time": 1774341442,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166172,
+        "num": 138733,
+        "word": "婚礼迎来了最严厉的新娘",
+        "onboard_time": 1774339702,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138200,
+        "num": 138200,
+        "word": "95后回村用拼多多爆改40年老房",
+        "onboard_time": 1774346663,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137045,
+        "num": 137045,
+        "word": "王者S43新赛季即将开启",
+        "onboard_time": 1774346600,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 459023,
+        "num": 136932,
+        "word": "恭喜你发明了劳务派遣",
+        "onboard_time": 1774339401,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 349364,
+        "num": 136874,
+        "word": "邓凯 鲁迅美院",
+        "onboard_time": 1774343661,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266960,
+        "num": 136857,
+        "word": "张凌赫知道热巴白宇退出开推的反应",
+        "onboard_time": 1774326382,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136603,
+        "num": 136603,
+        "word": "外交部回应日方拟将中日关系降级",
+        "onboard_time": 1774346781,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215241,
+        "num": 136101,
+        "word": "难听",
+        "onboard_time": 1774333761,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79682,
+        "num": 134288,
+        "word": "新婚夫妻花不到7000元办极简婚礼",
+        "onboard_time": 1774346061,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148268,
+        "num": 133892,
+        "word": "郭敬明改笔名",
+        "onboard_time": 1774337541,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63179,
+        "num": 131893,
+        "word": "启境汽车公司正式更名",
+        "onboard_time": 1774345041,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143068,
+        "num": 130809,
+        "word": "王俊凯 有人在吗WJK在",
+        "onboard_time": 1774340001,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136880,
+        "num": 130094,
+        "word": "周杰伦太阳之子MV",
+        "onboard_time": 1774328722,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129518,
+        "num": 129518,
+        "word": "各地文旅给千问上了波强度",
+        "onboard_time": 1774344201,
+        "rank": 30,
+        "category": "互联网,旅游"
+      },
+      {
+        "raw_hot": 132519,
+        "num": 128741,
+        "word": "专家建议26岁高卿尘立遗嘱",
+        "onboard_time": 1774339160,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127782,
+        "num": 127782,
+        "word": "王玉雯开推造型",
+        "onboard_time": 1774345041,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125084,
+        "num": 125084,
+        "word": "第一次看懂中文是因为看懂了英文",
+        "onboard_time": 1774325062,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123555,
+        "num": 123555,
+        "word": "周杰伦斥资一亿手搓vsAI续作",
+        "onboard_time": 1774344442,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116737,
+        "num": 116737,
+        "word": "武大靖聊张家齐直播带货",
+        "onboard_time": 1774341260,
+        "rank": 35,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 114176,
+        "num": 114176,
+        "word": "汽车之家",
+        "onboard_time": 1774340420,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 113164,
+        "num": 113164,
+        "word": "宝格丽高级珠宝发布会",
+        "onboard_time": 1774345582,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 40349,
+        "num": 111371,
+        "word": "王鸥自曝拍戏补贴自创品牌一直亏损",
+        "onboard_time": 1774333160,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41869,
+        "num": 111272,
+        "word": "主人让拉布拉多拉人赚钱狗累瘫",
+        "onboard_time": 1774346422,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111208,
+        "num": 111208,
+        "word": "第一批丁克家庭现状曝光",
+        "onboard_time": 1774329680,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108553,
+        "num": 108553,
+        "word": "李圣经来北京了",
+        "onboard_time": 1774345641,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107912,
+        "num": 107912,
+        "word": "A股关键时刻猛加仓",
+        "onboard_time": 1774346000,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45527,
+        "num": 102520,
+        "word": "产妇街头发作扒开服装店门求助",
+        "onboard_time": 1774347262,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101151,
+        "num": 101151,
+        "word": "亚朵回应楼层中文标识看不懂",
+        "onboard_time": 1774341502,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100842,
+        "num": 100842,
+        "word": "邓凯孔雪儿你好星期六拍立得",
+        "onboard_time": 1774346301,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92527,
+        "num": 92527,
+        "word": "王鹤棣将门独后骑马路透",
+        "onboard_time": 1774339042,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87877,
+        "num": 87877,
+        "word": "金价下跌打乱金饰涨价计划",
+        "onboard_time": 1774345941,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91373,
+        "num": 87643,
+        "word": "刘亦菲安妮海瑟薇世纪神图",
+        "onboard_time": 1774338441,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81770,
+        "num": 81770,
+        "word": "人没有办法靠心理暗示真正自信起来",
+        "onboard_time": 1774347142,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#一眼见雄安#"
+    }
+  }
+}
