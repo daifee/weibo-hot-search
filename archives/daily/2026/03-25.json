@@ -1,6 +1,6 @@
 {
   "startTime": 1774372134651,
-  "endTime": 1774386266953,
+  "endTime": 1774388750924,
   "band_list": [
     {
       "raw_hot": 1589478,
@@ -75,8 +75,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 355335,
-      "num": 91551,
+      "raw_hot": 375197,
+      "num": 119831,
       "word": "猝死前1小时身体的预警",
       "onboard_time": 1774378034,
       "rank": 3,
@@ -187,12 +187,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 80284,
-      "num": 38339,
+      "raw_hot": 83071,
+      "num": 40833,
       "word": "张雪峰 为学生打破信息差",
       "onboard_time": 1774382954,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75785,
+      "num": 75785,
+      "word": "警惕嘴唇发紫可能是心肺重症信号",
+      "onboard_time": 1774377795,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 74731,
@@ -227,7 +235,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63406,
+      "raw_hot": 64668,
       "num": 52757,
       "word": "张雪峰8年前曾谈猝死",
       "onboard_time": 1774376356,
@@ -241,14 +249,6 @@
       "onboard_time": 1774354710,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 62113,
-      "num": 62113,
-      "word": "警惕嘴唇发紫可能是心肺重症信号",
-      "onboard_time": 1774377795,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 61105,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43707,
+      "num": 24435,
+      "word": "6类人高强度运动猝死风险高",
+      "onboard_time": 1774377795,
+      "rank": 30,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 43520,
       "num": 107122,
       "word": "管泽元升级当爸",
@@ -339,12 +347,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 43318,
-      "num": 24435,
-      "word": "6类人高强度运动猝死风险高",
-      "onboard_time": 1774377795,
-      "rank": 30,
-      "category": "健康医疗,民生新闻"
+      "raw_hot": 43515,
+      "num": 43515,
+      "word": "以色列战损窟窿越来越大",
+      "onboard_time": 1774381514,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42959,
@@ -385,14 +393,6 @@
       "onboard_time": 1774355908,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38417,
-      "num": 38417,
-      "word": "以色列战损窟窿越来越大",
-      "onboard_time": 1774381514,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34669,
@@ -515,12 +515,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17253,
+      "raw_hot": 18205,
       "num": 24399,
       "word": "谍报上不封顶",
       "onboard_time": 1774381274,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17860,
+      "num": 24293,
+      "word": "刘宇宁开推4首案录制路透",
+      "onboard_time": 1774386015,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 15641,
@@ -545,14 +553,6 @@
       "onboard_time": 1774377376,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 12024,
-      "num": 24293,
-      "word": "刘宇宁开推4首案录制路透",
-      "onboard_time": 1774386015,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 10623,
