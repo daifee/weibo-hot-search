@@ -1,0 +1,410 @@
+{
+  "runTime": 1774353171076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 420692,
+        "num": 1067310,
+        "word": "53岁独身女子去世留下600万遗产",
+        "onboard_time": 1774344502,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299025,
+        "num": 758462,
+        "word": "林诗栋澳门世界杯退赛",
+        "onboard_time": 1774351949,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27850,
+        "num": 587822,
+        "word": "七彩云南万千气象",
+        "onboard_time": 1774351169,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367617,
+        "num": 585479,
+        "word": "4岁女童就诊177次患者是母亲",
+        "onboard_time": 1774342522,
+        "rank": 3,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 352202,
+        "num": 529666,
+        "word": "中方要求日方立即彻查严惩",
+        "onboard_time": 1774340182,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16707060,
+        "num": 16707060,
+        "word": "张雪峰",
+        "onboard_time": 1774346663,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682547,
+        "num": 409893,
+        "word": "法医刘良交出尸检真相后录临终视频",
+        "onboard_time": 1774351169,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406515,
+        "num": 406515,
+        "word": "文淇 年轻女演员演主角等于没票房",
+        "onboard_time": 1774350328,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 357708,
+        "num": 357708,
+        "word": "以色列被打穿了",
+        "onboard_time": 1774329321,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296989,
+        "num": 296989,
+        "word": "草莓下火锅",
+        "onboard_time": 1774349427,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 5007005,
+        "num": 296555,
+        "word": "助理回应张雪峰心脏骤停抢救传闻",
+        "onboard_time": 1774346242,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1684128,
+        "num": 289127,
+        "word": "张雪峰相关账号停止直播",
+        "onboard_time": 1774352850,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 965697,
+        "num": 284653,
+        "word": "张雪峰年龄",
+        "onboard_time": 1774351049,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 934262,
+        "num": 275745,
+        "word": "张雪峰社媒仍在更新",
+        "onboard_time": 1774350810,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 677718,
+        "num": 271648,
+        "word": "张凌赫陈哲远将军造型对比",
+        "onboard_time": 1774344021,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525686,
+        "num": 267674,
+        "word": "公司称不方便告知张雪峰是否在公司",
+        "onboard_time": 1774352008,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395637,
+        "num": 262308,
+        "word": "管泽元余霜官宣怀孕",
+        "onboard_time": 1774352550,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 355820,
+        "num": 256735,
+        "word": "张雪峰近日在朋友圈打卡跑步7公里",
+        "onboard_time": 1774350088,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254063,
+        "num": 254063,
+        "word": "孔雪儿逐玉红利",
+        "onboard_time": 1774348707,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222619,
+        "num": 222619,
+        "word": "TOP或参加跑男",
+        "onboard_time": 1774352130,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204631,
+        "num": 204631,
+        "word": "日本",
+        "onboard_time": 1774340722,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249773,
+        "num": 200733,
+        "word": "邓凯 鲁迅美院",
+        "onboard_time": 1774343661,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241624,
+        "num": 200561,
+        "word": "张凌赫知道热巴白宇退出开推的反应",
+        "onboard_time": 1774326382,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193573,
+        "num": 193573,
+        "word": "外交部回应日方拟将中日关系降级",
+        "onboard_time": 1774346781,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181290,
+        "num": 181290,
+        "word": "恭喜你发明了劳务派遣",
+        "onboard_time": 1774339401,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175247,
+        "num": 175247,
+        "word": "地铁吐血女孩一天打三份工赚三四百",
+        "onboard_time": 1774345641,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163508,
+        "num": 163508,
+        "word": "睡觉是延长心脏寿命最好的方式",
+        "onboard_time": 1774352969,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160331,
+        "num": 160331,
+        "word": "关晓彤剧组生菜减脂餐",
+        "onboard_time": 1774348404,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154152,
+        "num": 154152,
+        "word": "亚朵酒店中文标识让人看不懂了",
+        "onboard_time": 1774349968,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145864,
+        "num": 145864,
+        "word": "蜜雪35岁新CEO",
+        "onboard_time": 1774348466,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 823264,
+        "num": 145679,
+        "word": "法医刘良近20年不做婴儿和小孩尸检",
+        "onboard_time": 1774348586,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145102,
+        "num": 145102,
+        "word": "难听",
+        "onboard_time": 1774333761,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139550,
+        "num": 139550,
+        "word": "崇礼偶遇王一博滑雪",
+        "onboard_time": 1774352550,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124762,
+        "num": 136426,
+        "word": "性格决定命运这句话永远都成立",
+        "onboard_time": 1774349489,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136061,
+        "num": 136061,
+        "word": "逐玉",
+        "onboard_time": 1774351587,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126194,
+        "num": 126194,
+        "word": "宋雨琦线下活动疑似不舒服",
+        "onboard_time": 1774352489,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114507,
+        "num": 123031,
+        "word": "叠纸心意",
+        "onboard_time": 1774351889,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120727,
+        "num": 120727,
+        "word": "宋威龙说男人最好的医美是医美",
+        "onboard_time": 1774352489,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116547,
+        "num": 116547,
+        "word": "周杰伦新歌口碑",
+        "onboard_time": 1774351829,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33305,
+        "num": 111427,
+        "word": "曼谷偶遇戚薇李承铉",
+        "onboard_time": 1774352910,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107405,
+        "num": 107405,
+        "word": "美国5名顶尖科学家接连失踪死亡",
+        "onboard_time": 1774341442,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118137,
+        "num": 107124,
+        "word": "小米营收创上市以来新高",
+        "onboard_time": 1774353090,
+        "rank": 41,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 106776,
+        "num": 106776,
+        "word": "伊朗强势反击",
+        "onboard_time": 1774351348,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110290,
+        "num": 106750,
+        "word": "周杰伦太阳之子MV",
+        "onboard_time": 1774328722,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106447,
+        "num": 106447,
+        "word": "田曦薇簪花将军转场",
+        "onboard_time": 1774341141,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17049,
+        "num": 105829,
+        "word": "王鹤棣你爸爸知道你的赌注吗",
+        "onboard_time": 1774344081,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105295,
+        "num": 105295,
+        "word": "Ning队遭陪玩队零封",
+        "onboard_time": 1774351949,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103469,
+        "num": 103469,
+        "word": "王俊凯 有人在吗WJK在",
+        "onboard_time": 1774340001,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102290,
+        "num": 102290,
+        "word": "雷军回应小米2025年净利润391.7亿",
+        "onboard_time": 1774347922,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102142,
+        "num": 102142,
+        "word": "郭敬明改笔名",
+        "onboard_time": 1774337541,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平指引雄安发展#"
+    }
+  }
+}

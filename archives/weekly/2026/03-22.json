@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774350939902,
+  "endTime": 1774353171076,
   "band_list": [
     {
       "raw_hot": 17733875,
@@ -65,6 +65,14 @@
       "onboard_time": 1774265361,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1684128,
+      "num": 289127,
+      "word": "张雪峰相关账号停止直播",
+      "onboard_time": 1774352850,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1541346,
@@ -259,12 +267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 965697,
+      "num": 284653,
+      "word": "张雪峰年龄",
+      "onboard_time": 1774351049,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 959924,
       "num": 569980,
       "word": "一日本人威胁要杀中国外交人员",
       "onboard_time": 1774340182,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 934262,
+      "num": 275745,
+      "word": "张雪峰社媒仍在更新",
+      "onboard_time": 1774350810,
+      "rank": 18,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 905642,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 866212,
-      "num": 189871,
+      "num": 271648,
       "word": "张凌赫陈哲远将军造型对比",
       "onboard_time": 1774344021,
       "rank": 12,
@@ -329,6 +353,14 @@
       "onboard_time": 1774176681,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 823264,
+      "num": 580652,
+      "word": "法医刘良近20年不做婴儿和小孩尸检",
+      "onboard_time": 1774348586,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 813082,
@@ -403,20 +435,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 710634,
-      "num": 580652,
-      "word": "法医刘良近20年不做婴儿和小孩尸检",
-      "onboard_time": 1774348586,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 697896,
       "num": 697896,
       "word": "魏家凉皮汉堡",
       "onboard_time": 1774154721,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 682547,
+      "num": 409893,
+      "word": "法医刘良交出尸检真相后录临终视频",
+      "onboard_time": 1774351169,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 676617,
@@ -691,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 525686,
+      "num": 267674,
+      "word": "公司称不方便告知张雪峰是否在公司",
+      "onboard_time": 1774352008,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519760,
       "num": 340790,
       "word": "梅姨",
@@ -780,7 +820,7 @@
     },
     {
       "raw_hot": 475022,
-      "num": 475022,
+      "num": 529666,
       "word": "中方要求日方立即彻查严惩",
       "onboard_time": 1774340182,
       "rank": 6,
@@ -979,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 420692,
+      "num": 2754719,
+      "word": "53岁独身女子去世留下600万遗产",
+      "onboard_time": 1774344502,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 419934,
       "num": 585918,
       "word": "海马体为出片要求穿长裙致孕妇摔倒",
@@ -1003,14 +1051,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 414667,
-      "num": 2754719,
-      "word": "53岁独身女子去世留下600万遗产",
-      "onboard_time": 1774344502,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 411543,
       "num": 365721,
       "word": "李帝努 电子烟",
@@ -1020,7 +1060,7 @@
     },
     {
       "raw_hot": 410935,
-      "num": 166867,
+      "num": 200733,
       "word": "邓凯 鲁迅美院",
       "onboard_time": 1774343661,
       "rank": 40,
@@ -1049,6 +1089,14 @@
       "onboard_time": 1774178119,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406515,
+      "num": 406515,
+      "word": "文淇 年轻女演员演主角等于没票房",
+      "onboard_time": 1774350328,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 406198,
@@ -1081,6 +1129,14 @@
       "onboard_time": 1774235241,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 395637,
+      "num": 262308,
+      "word": "管泽元余霜官宣怀孕",
+      "onboard_time": 1774352550,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 395494,
@@ -1276,7 +1332,7 @@
     },
     {
       "raw_hot": 351787,
-      "num": 187267,
+      "num": 254063,
       "word": "孔雪儿逐玉红利",
       "onboard_time": 1774348707,
       "rank": 14,
@@ -1499,12 +1555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299025,
+      "num": 758462,
+      "word": "林诗栋澳门世界杯退赛",
+      "onboard_time": 1774351949,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298298,
       "num": 298298,
       "word": "长期运动可以解决生活中很多问题",
       "onboard_time": 1774188023,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 296989,
+      "num": 296989,
+      "word": "草莓下火锅",
+      "onboard_time": 1774349427,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 296770,
@@ -2123,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222619,
+      "num": 222619,
+      "word": "TOP或参加跑男",
+      "onboard_time": 1774352130,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219507,
       "num": 585332,
       "word": "20岁女生长期开灯睡觉胖到200斤",
@@ -2249,14 +2329,6 @@
       "onboard_time": 1774223479,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209675,
-      "num": 209675,
-      "word": "草莓下火锅",
-      "onboard_time": 1774349427,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 209089,
@@ -2763,14 +2835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167588,
-      "num": 167588,
-      "word": "张雪峰社媒仍在更新",
-      "onboard_time": 1774350810,
-      "rank": 18,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 166433,
       "num": 166433,
       "word": "女孩地铁吐血用外套擦地让人心疼",
@@ -2817,6 +2881,14 @@
       "onboard_time": 1774225642,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163508,
+      "num": 163508,
+      "word": "睡觉是延长心脏寿命最好的方式",
+      "onboard_time": 1774352969,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 161924,
@@ -2889,6 +2961,14 @@
       "onboard_time": 1774333043,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154152,
+      "num": 154152,
+      "word": "亚朵酒店中文标识让人看不懂了",
+      "onboard_time": 1774349968,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153975,
@@ -3131,6 +3211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139550,
+      "num": 139550,
+      "word": "崇礼偶遇王一博滑雪",
+      "onboard_time": 1774352550,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139416,
       "num": 183672,
       "word": "迪丽热巴新经纪人疑似回应入职嘉行",
@@ -3209,14 +3297,6 @@
       "onboard_time": 1774348285,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 135717,
-      "num": 135717,
-      "word": "文淇 年轻女演员演主角等于没票房",
-      "onboard_time": 1774350328,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 135623,
@@ -3435,6 +3515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126194,
+      "num": 126194,
+      "word": "宋雨琦线下活动疑似不舒服",
+      "onboard_time": 1774352489,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125751,
       "num": 125751,
       "word": "穿普拉达的女王2内地定档",
@@ -3465,6 +3553,14 @@
       "onboard_time": 1774349309,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124762,
+      "num": 136426,
+      "word": "性格决定命运这句话永远都成立",
+      "onboard_time": 1774349489,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 124105,
@@ -3537,6 +3633,14 @@
       "onboard_time": 1774337301,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120727,
+      "num": 120727,
+      "word": "宋威龙说男人最好的医美是医美",
+      "onboard_time": 1774352489,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 120493,
@@ -3619,6 +3723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118137,
+      "num": 107124,
+      "word": "小米营收创上市以来新高",
+      "onboard_time": 1774353090,
+      "rank": 41,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 118085,
       "num": 118085,
       "word": "金饰价从最高点大跌约340元",
@@ -3683,6 +3795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116547,
+      "num": 116547,
+      "word": "周杰伦新歌口碑",
+      "onboard_time": 1774351829,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116461,
       "num": 116461,
       "word": "鞠婧祎彩排",
@@ -3697,14 +3817,6 @@
       "onboard_time": 1774349367,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115993,
-      "num": 115993,
-      "word": "亚朵酒店中文标识让人看不懂了",
-      "onboard_time": 1774349968,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115880,
@@ -3776,6 +3888,14 @@
       "word": "阴阳师",
       "onboard_time": 1774255521,
       "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 114507,
+      "num": 123031,
+      "word": "叠纸心意",
+      "onboard_time": 1774351889,
+      "rank": 36,
       "category": "游戏"
     },
     {
@@ -4035,20 +4155,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106776,
+      "num": 106776,
+      "word": "伊朗强势反击",
+      "onboard_time": 1774351348,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106634,
       "num": 106634,
       "word": "逐玉男模团",
       "onboard_time": 1774239801,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106190,
-      "num": 106190,
-      "word": "性格决定命运这句话永远都成立",
-      "onboard_time": 1774349489,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 106105,
@@ -4096,6 +4216,14 @@
       "word": "BLG状态",
       "onboard_time": 1774189463,
       "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 105295,
+      "num": 105295,
+      "word": "Ning队遭陪玩队零封",
+      "onboard_time": 1774351949,
+      "rank": 46,
       "category": "电竞"
     },
     {
@@ -7843,6 +7971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33305,
+      "num": 111427,
+      "word": "曼谷偶遇戚薇李承铉",
+      "onboard_time": 1774352910,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32772,
       "num": 70239,
       "word": "猫咪带娃也崩溃",
@@ -8009,6 +8145,14 @@
       "onboard_time": 1774100603,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27850,
+      "num": 587822,
+      "word": "七彩云南万千气象",
+      "onboard_time": 1774351169,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27813,
@@ -8257,6 +8401,14 @@
       "onboard_time": 1774219936,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17049,
+      "num": 105829,
+      "word": "王鹤棣你爸爸知道你的赌注吗",
+      "onboard_time": 1774344081,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 16883,
