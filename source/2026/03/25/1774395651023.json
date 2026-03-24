@@ -1,0 +1,410 @@
+{
+  "runTime": 1774395651023,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1046535,
+        "num": 1046535,
+        "word": "高强度工作 不要运动",
+        "onboard_time": 1774366769,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 796044,
+        "num": 796044,
+        "word": "运动性心源性猝死的典型画像",
+        "onboard_time": 1774393761,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 32017,
+        "num": 598690,
+        "word": "太空加油站新进展",
+        "onboard_time": 1774360582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1328955,
+        "num": 533165,
+        "word": "峰学蔚来总经理称学员员工权益均有保障",
+        "onboard_time": 1774367365,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443076,
+        "num": 443076,
+        "word": "警惕嘴唇发紫可能是心肺重症信号",
+        "onboard_time": 1774377795,
+        "rank": 4,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 853000,
+        "num": 434651,
+        "word": "人生真好玩 下辈子还来",
+        "onboard_time": 1774372278,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296993,
+        "num": 418766,
+        "word": "周杰伦新歌口碑",
+        "onboard_time": 1774351829,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 771729,
+        "num": 396422,
+        "word": "张雪峰公司发布讣告",
+        "onboard_time": 1774360134,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222709,
+        "num": 379033,
+        "word": "女子称专柜买4个LV包鉴定为假货",
+        "onboard_time": 1774394303,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53798,
+        "num": 360387,
+        "word": "王一博上海耐力赛纪录片",
+        "onboard_time": 1774364675,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1600645,
+        "num": 353311,
+        "word": "猝死前1小时身体的预警",
+        "onboard_time": 1774378034,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 335605,
+        "num": 335605,
+        "word": "火了还没适应的明星最好玩了",
+        "onboard_time": 1774366468,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301728,
+        "num": 301728,
+        "word": "张雪峰员工 上四休三",
+        "onboard_time": 1774395503,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212746,
+        "num": 212746,
+        "word": "现货黄金",
+        "onboard_time": 1774394303,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296292,
+        "num": 206335,
+        "word": "峰学蔚来",
+        "onboard_time": 1774368145,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190434,
+        "num": 190434,
+        "word": "金价大跌金饰店不再人山人海",
+        "onboard_time": 1774394303,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169720,
+        "num": 169720,
+        "word": "日本被曝多年搞反华教育",
+        "onboard_time": 1774394483,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162306,
+        "num": 162306,
+        "word": "伊朗喊美国做个了断",
+        "onboard_time": 1774357111,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140941,
+        "num": 140941,
+        "word": "早睡",
+        "onboard_time": 1774369941,
+        "rank": 18,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 130525,
+        "num": 130525,
+        "word": "金价",
+        "onboard_time": 1774395503,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171287,
+        "num": 130165,
+        "word": "睡觉是延长心脏寿命最好的方式",
+        "onboard_time": 1774352969,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133464,
+        "num": 130120,
+        "word": "金饰克价回落了",
+        "onboard_time": 1774394242,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128474,
+        "num": 128474,
+        "word": "6类人高强度运动猝死风险高",
+        "onboard_time": 1774377795,
+        "rank": 22,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 127983,
+        "num": 127983,
+        "word": "以色列战损窟窿越来越大",
+        "onboard_time": 1774381514,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127392,
+        "num": 127392,
+        "word": "刘宇宁秒接张凌赫梗",
+        "onboard_time": 1774392980,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123381,
+        "num": 123381,
+        "word": "家里吃灰的旧手机突然成了香饽饽",
+        "onboard_time": 1774395083,
+        "rank": 25,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 113823,
+        "num": 113823,
+        "word": "宁艺卓ins点赞刘美贤",
+        "onboard_time": 1774369701,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105854,
+        "num": 105854,
+        "word": "吴德馨院士逝世",
+        "onboard_time": 1774394422,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103101,
+        "num": 103101,
+        "word": "邓凯回复任豪",
+        "onboard_time": 1774393581,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99581,
+        "num": 99581,
+        "word": "心源性猝死",
+        "onboard_time": 1774360944,
+        "rank": 29,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 293976,
+        "num": 99443,
+        "word": "Uzi怒喷Mark",
+        "onboard_time": 1774393761,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171318,
+        "num": 99216,
+        "word": "短剧撞脸迪丽热巴别甩锅AI",
+        "onboard_time": 1774394842,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98957,
+        "num": 98957,
+        "word": "4岁女童就诊177次患者是母亲",
+        "onboard_time": 1774342522,
+        "rank": 32,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 89451,
+        "num": 89451,
+        "word": "睡够8小时",
+        "onboard_time": 1774364854,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88894,
+        "num": 88894,
+        "word": "周杰伦新专辑",
+        "onboard_time": 1774369341,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 80339,
+        "num": 80339,
+        "word": "泽尻英龙华40岁状态",
+        "onboard_time": 1774354710,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75379,
+        "num": 75379,
+        "word": "38岁男子打10分钟羽毛球后心梗",
+        "onboard_time": 1774379655,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77967,
+        "num": 73363,
+        "word": "逐玉",
+        "onboard_time": 1774351587,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64278,
+        "num": 64278,
+        "word": "迪丽热巴眼技",
+        "onboard_time": 1774367068,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61185,
+        "num": 61185,
+        "word": "殡葬行业大哥缓解孤独终老焦虑",
+        "onboard_time": 1774364615,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61139,
+        "num": 61139,
+        "word": "容易触发猝死的6个因素",
+        "onboard_time": 1774365931,
+        "rank": 40,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 55229,
+        "num": 55229,
+        "word": "曾经只值10元的二手机现在回收价500",
+        "onboard_time": 1774360292,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53849,
+        "num": 53849,
+        "word": "中方要求日方立即彻查严惩",
+        "onboard_time": 1774340182,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53547,
+        "num": 53547,
+        "word": "徐老师采访肖战",
+        "onboard_time": 1774353509,
+        "rank": 43,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 52205,
+        "num": 52205,
+        "word": "强闯中国驻日使馆男子被捕",
+        "onboard_time": 1774395444,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50500,
+        "num": 50500,
+        "word": "以色列被打穿了",
+        "onboard_time": 1774329321,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48345,
+        "num": 48345,
+        "word": "张凌赫蓝色花蝴蝶造型",
+        "onboard_time": 1774359224,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46913,
+        "num": 46913,
+        "word": "地铁吐血女孩已离开华西医院",
+        "onboard_time": 1774355549,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46307,
+        "num": 46307,
+        "word": "齐旻的死是被人下了十年的慢性毒",
+        "onboard_time": 1774353570,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44312,
+        "num": 44312,
+        "word": "老天爷追着喂饭 瞿颖全婉拒了",
+        "onboard_time": 1774377616,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#与雄安新区一起成长#"
+    }
+  }
+}

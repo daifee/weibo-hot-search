@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774393158350,
+  "endTime": 1774395651023,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -139,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1600645,
+      "num": 382329,
+      "word": "猝死前1小时身体的预警",
+      "onboard_time": 1774378034,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1541346,
       "num": 1360669,
       "word": "BLG夺冠",
@@ -179,12 +187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1400281,
-      "num": 382329,
-      "word": "猝死前1小时身体的预警",
-      "onboard_time": 1774378034,
-      "rank": 3,
-      "category": "健康医疗"
+      "raw_hot": 1328955,
+      "num": 947406,
+      "word": "峰学蔚来总经理称学员员工权益均有保障",
+      "onboard_time": 1774367365,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1322257,
@@ -347,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1046535,
+      "num": 1046535,
+      "word": "高强度工作 不要运动",
+      "onboard_time": 1774366769,
+      "rank": 14,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 1042361,
       "num": 1166777,
       "word": "一家四口感染HIV妻子小儿子去世",
@@ -401,14 +417,6 @@
       "onboard_time": 1774340182,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 947406,
-      "num": 947406,
-      "word": "峰学蔚来总经理称学员员工权益均有保障",
-      "onboard_time": 1774367365,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 923472,
@@ -475,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 853000,
+      "num": 434651,
+      "word": "人生真好玩 下辈子还来",
+      "onboard_time": 1774372278,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 848321,
       "num": 242798,
       "word": "霍尔木兹海峡的最后通牒",
@@ -505,6 +521,14 @@
       "onboard_time": 1774325062,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 796044,
+      "num": 796044,
+      "word": "运动性心源性猝死的典型画像",
+      "onboard_time": 1774393761,
+      "rank": 1,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 787118,
@@ -553,14 +577,6 @@
       "onboard_time": 1774078881,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 749284,
-      "num": 286127,
-      "word": "人生真好玩 下辈子还来",
-      "onboard_time": 1774372278,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 745396,
@@ -697,14 +713,6 @@
       "onboard_time": 1774098625,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 625867,
-      "num": 678408,
-      "word": "高强度工作 不要运动",
-      "onboard_time": 1774366769,
-      "rank": 14,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 617869,
@@ -1187,6 +1195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 443076,
+      "num": 443076,
+      "word": "警惕嘴唇发紫可能是心肺重症信号",
+      "onboard_time": 1774377795,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 442428,
       "num": 861279,
       "word": "问界M6",
@@ -1443,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376735,
-      "num": 376735,
-      "word": "警惕嘴唇发紫可能是心肺重症信号",
-      "onboard_time": 1774377795,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 372669,
       "num": 249212,
       "word": "中东战事来到危险临界点",
@@ -1643,6 +1651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 335605,
+      "num": 669385,
+      "word": "火了还没适应的明星最好玩了",
+      "onboard_time": 1774366468,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335298,
       "num": 306190,
       "word": "伊朗导弹在以本土砸出直径10米深坑",
@@ -1811,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301728,
+      "num": 301728,
+      "word": "张雪峰员工 上四休三",
+      "onboard_time": 1774395503,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299025,
       "num": 758462,
       "word": "林诗栋澳门世界杯退赛",
@@ -1873,6 +1897,14 @@
       "onboard_time": 1774230859,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293976,
+      "num": 99443,
+      "word": "Uzi怒喷Mark",
+      "onboard_time": 1774393761,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 292492,
@@ -2475,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222709,
+      "num": 379033,
+      "word": "女子称专柜买4个LV包鉴定为假货",
+      "onboard_time": 1774394303,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222619,
       "num": 222619,
       "word": "TOP或参加跑男",
@@ -2571,6 +2611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212746,
+      "num": 212746,
+      "word": "现货黄金",
+      "onboard_time": 1774394303,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 211797,
       "num": 163389,
       "word": "上过跑男的团体都解散了",
@@ -2641,14 +2689,6 @@
       "onboard_time": 1774244480,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207335,
-      "num": 669385,
-      "word": "火了还没适应的明星最好玩了",
-      "onboard_time": 1774366468,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 205558,
@@ -2825,6 +2865,14 @@
       "onboard_time": 1774340662,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190434,
+      "num": 190434,
+      "word": "金价大跌金饰店不再人山人海",
+      "onboard_time": 1774394303,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 189373,
@@ -3099,6 +3147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 171318,
+      "num": 99216,
+      "word": "短剧撞脸迪丽热巴别甩锅AI",
+      "onboard_time": 1774394842,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171098,
       "num": 140962,
       "word": "美股三大股指期货突然拉升",
@@ -3145,6 +3201,14 @@
       "onboard_time": 1774313301,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169720,
+      "num": 169720,
+      "word": "日本被曝多年搞反华教育",
+      "onboard_time": 1774394483,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169227,
@@ -3763,6 +3827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133464,
+      "num": 130120,
+      "word": "金饰克价回落了",
+      "onboard_time": 1774394242,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 133301,
       "num": 133301,
       "word": "王一博抛媚眼",
@@ -3915,6 +3987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127983,
+      "num": 161621,
+      "word": "以色列战损窟窿越来越大",
+      "onboard_time": 1774381514,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127782,
       "num": 127782,
       "word": "王玉雯开推造型",
@@ -3945,6 +4025,14 @@
       "onboard_time": 1774191023,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127392,
+      "num": 127392,
+      "word": "刘宇宁秒接张凌赫梗",
+      "onboard_time": 1774392980,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 126998,
@@ -4049,6 +4137,14 @@
       "onboard_time": 1774344442,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123381,
+      "num": 123381,
+      "word": "家里吃灰的旧手机突然成了香饽饽",
+      "onboard_time": 1774395083,
+      "rank": 25,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 122635,
@@ -4451,14 +4547,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 112182,
-      "num": 161621,
-      "word": "以色列战损窟窿越来越大",
-      "onboard_time": 1774381514,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112054,
       "num": 84044,
       "word": "中园石化加油站称名字经过审批",
@@ -4707,6 +4795,14 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 105854,
+      "num": 105854,
+      "word": "吴德馨院士逝世",
+      "onboard_time": 1774394422,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105692,
       "num": 105692,
       "word": "男子囤33吨石脑油堪比2790斤TNT",
@@ -4817,6 +4913,14 @@
       "onboard_time": 1774330162,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103101,
+      "num": 103101,
+      "word": "邓凯回复任豪",
+      "onboard_time": 1774393581,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 102862,
@@ -6484,7 +6588,7 @@
     },
     {
       "raw_hot": 77609,
-      "num": 294123,
+      "num": 360387,
       "word": "王一博上海耐力赛纪录片",
       "onboard_time": 1774364675,
       "rank": 45,
@@ -6680,6 +6784,14 @@
       "word": "珲春一国道现巨鸟过马路",
       "onboard_time": 1774183582,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75379,
+      "num": 128749,
+      "word": "38岁男子打10分钟羽毛球后心梗",
+      "onboard_time": 1774379655,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -8091,14 +8203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56999,
-      "num": 128749,
-      "word": "38岁男子打10分钟羽毛球后心梗",
-      "onboard_time": 1774379655,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56728,
       "num": 93612,
       "word": "尚界Z7实测896线激光雷达跑山",
@@ -8305,6 +8409,14 @@
       "onboard_time": 1774309099,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52205,
+      "num": 52205,
+      "word": "强闯中国驻日使馆男子被捕",
+      "onboard_time": 1774395444,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52075,
@@ -8515,6 +8627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44312,
+      "num": 128033,
+      "word": "老天爷追着喂饭 瞿颖全婉拒了",
+      "onboard_time": 1774377616,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44031,
       "num": 123816,
       "word": "檀健次粉丝后吃",
@@ -8545,14 +8665,6 @@
       "onboard_time": 1774109721,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42835,
-      "num": 128033,
-      "word": "老天爷追着喂饭 瞿颖全婉拒了",
-      "onboard_time": 1774377616,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 41869,
@@ -8665,14 +8777,6 @@
       "onboard_time": 1774104984,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34775,
-      "num": 126851,
-      "word": "刘宇宁秒接张凌赫梗",
-      "onboard_time": 1774392980,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 34598,
