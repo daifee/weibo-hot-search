@@ -1,6 +1,6 @@
 {
   "startTime": 1774285387754,
-  "endTime": 1774322452963,
+  "endTime": 1774328503738,
   "band_list": [
     {
       "raw_hot": 1088273,
@@ -11,18 +11,42 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1076183,
+      "num": 442348,
+      "word": "张凌赫知道热巴白宇退出开推的反应",
+      "onboard_time": 1774326382,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 903720,
-      "num": 141549,
+      "num": 165241,
       "word": "张凌赫为什么被称为粉底液将军",
       "onboard_time": 1774308499,
       "rank": 13,
       "category": "艺人"
     },
     {
+      "raw_hot": 795736,
+      "num": 181021,
+      "word": "第一次看懂中文是因为看懂了英文",
+      "onboard_time": 1774325062,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 745396,
       "num": 197573,
       "word": "地铁吐血女孩因重病拒绝男友求婚",
       "onboard_time": 1774313601,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 727869,
+      "num": 171022,
+      "word": "地铁吐血女孩前男友去年因病离世",
+      "onboard_time": 1774323919,
       "rank": 10,
       "category": "民生新闻"
     },
@@ -75,12 +99,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 500774,
+      "num": 170702,
+      "word": "刘亦菲金智媛生图",
+      "onboard_time": 1774325301,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 491153,
       "num": 287554,
       "word": "单休一天出了一趟国",
       "onboard_time": 1774313482,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 477750,
+      "num": 170205,
+      "word": "入室抢婴主犯听到死缓当庭开骂",
+      "onboard_time": 1774326321,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471045,
@@ -92,7 +132,7 @@
     },
     {
       "raw_hot": 456935,
-      "num": 860411,
+      "num": 1052008,
       "word": "美国得州炼油厂发生爆炸",
       "onboard_time": 1774317199,
       "rank": 1,
@@ -105,6 +145,14 @@
       "onboard_time": 1774308078,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 430584,
+      "num": 168927,
+      "word": "丁程鑫比周柯宇大",
+      "onboard_time": 1774325181,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 419934,
@@ -137,6 +185,14 @@
       "onboard_time": 1774309219,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 285042,
+      "num": 165845,
+      "word": "金正恩正式将韩国定义为头号敌国",
+      "onboard_time": 1774324281,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 261687,
@@ -187,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212942,
+      "num": 168016,
+      "word": "穆迪膝盖变形",
+      "onboard_time": 1774327042,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211466,
       "num": 174060,
       "word": "A股集体高开",
@@ -235,12 +299,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189373,
+      "num": 167055,
+      "word": "热巴给开推团准备了新疆特产",
+      "onboard_time": 1774322781,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179294,
       "num": 178437,
       "word": "13年来首次油价调控意味着什么",
       "onboard_time": 1774280180,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178099,
+      "num": 164869,
+      "word": "14岁少年遭虐待离世伤痕遍布全身",
+      "onboard_time": 1774325781,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176500,
+      "num": 176500,
+      "word": "韩3名高空被烧死人员均为外包工",
+      "onboard_time": 1774325781,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 174950,
+      "num": 164315,
+      "word": "王俊凯要唱新歌无人乐园",
+      "onboard_time": 1774323200,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 173831,
@@ -283,6 +379,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163922,
+      "num": 163922,
+      "word": "一吃自助就忍不住拿便宜货",
+      "onboard_time": 1774324580,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161009,
+      "num": 161009,
+      "word": "惠英红 66岁正是晚上最热闹的时候",
+      "onboard_time": 1774324281,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155642,
       "num": 155642,
       "word": "开推4女生只剩金靖了",
@@ -297,6 +409,14 @@
       "onboard_time": 1774321820,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142577,
+      "num": 142577,
+      "word": "邓超碰上了最懂自己的节目组",
+      "onboard_time": 1774327762,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 141282,
@@ -315,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136620,
+      "num": 136620,
+      "word": "100克金条吃顿饭工夫便宜3000元",
+      "onboard_time": 1774325481,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135965,
       "num": 571823,
       "word": "对国内成品油价格采取临时调控",
@@ -329,6 +457,14 @@
       "onboard_time": 1774319780,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 134922,
+      "num": 134922,
+      "word": "贵州溶洞发现地下反向森林",
+      "onboard_time": 1774328181,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 131674,
@@ -379,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119903,
+      "num": 119903,
+      "word": "烘焙店一次性手套包装被指像避孕套",
+      "onboard_time": 1774326081,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119892,
       "num": 119892,
       "word": "郑钦文无缘迈阿密赛八强",
@@ -395,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115880,
+      "num": 115880,
+      "word": "赖清德宣布将重启核电厂",
+      "onboard_time": 1774323200,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115180,
       "num": 115180,
       "word": "陈梦回应是否继续参赛",
@@ -403,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114782,
+      "num": 114782,
+      "word": "被吸管杯背刺了",
+      "onboard_time": 1774327042,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113117,
       "num": 113117,
       "word": "范丞丞被安利看逐玉",
       "onboard_time": 1774313180,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112415,
+      "num": 112415,
+      "word": "孕期接触杀菌剂影响持续20代",
+      "onboard_time": 1774327162,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112054,
@@ -483,12 +651,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97082,
+      "num": 97082,
+      "word": "金正恩称朝鲜将继续巩固拥核国家地位",
+      "onboard_time": 1774323681,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96777,
       "num": 96777,
       "word": "家人否认喂猫被捅死男子拿刀下楼",
       "onboard_time": 1774309040,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94594,
+      "num": 94594,
+      "word": "买黄金赚的钱全吐出来了",
+      "onboard_time": 1774325301,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 93958,
@@ -507,12 +691,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92243,
+      "num": 92243,
+      "word": "邓超陈赫首次演综合体",
+      "onboard_time": 1774325541,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92167,
+      "num": 92167,
+      "word": "咪想要 咪得到",
+      "onboard_time": 1774328062,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92125,
       "num": 92125,
       "word": "王俊凯晒录音照",
       "onboard_time": 1774307418,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91198,
+      "num": 91198,
+      "word": "谢征樊长玉圆房吻来了",
+      "onboard_time": 1774322000,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 90130,
@@ -539,12 +747,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 88452,
+      "num": 88452,
+      "word": "QQ音乐超级巅峰之夜曲目",
+      "onboard_time": 1774323381,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 87734,
-      "num": 87734,
+      "num": 105623,
       "word": "官方通报秦岭乱扔垃圾起冲突事件",
       "onboard_time": 1774322000,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87690,
+      "num": 87690,
+      "word": "恋与深空 夏以昼",
+      "onboard_time": 1774324460,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 87592,
@@ -697,6 +921,14 @@
       "onboard_time": 1774278021,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72420,
+      "num": 92900,
+      "word": "境外间谍能使用激光设备隔空窃听",
+      "onboard_time": 1774323140,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71749,
@@ -915,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51330,
+      "num": 92338,
+      "word": "2026年与1936年的像与不像",
+      "onboard_time": 1774327042,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50664,
       "num": 70347,
       "word": "张凌赫出发录开始推理吧",
@@ -1073,6 +1313,14 @@
       "onboard_time": 1774321881,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16883,
+      "num": 166310,
+      "word": "官方回应驾校代刷科二科三学时",
+      "onboard_time": 1774327521,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15938,

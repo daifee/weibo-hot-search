@@ -1,0 +1,410 @@
+{
+  "runTime": 1774328503738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 325050,
+        "num": 1052008,
+        "word": "美国得州炼油厂发生爆炸",
+        "onboard_time": 1774317199,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 243144,
+        "num": 752353,
+        "word": "开始推理吧直播",
+        "onboard_time": 1774318461,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22288,
+        "num": 580156,
+        "word": "稳定发展是中国人民的坚实底气",
+        "onboard_time": 1774319421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1076183,
+        "num": 442348,
+        "word": "张凌赫知道热巴白宇退出开推的反应",
+        "onboard_time": 1774326382,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183437,
+        "num": 183437,
+        "word": "真正的麻辣香锅已经非常罕见了",
+        "onboard_time": 1774309219,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 795736,
+        "num": 181021,
+        "word": "第一次看懂中文是因为看懂了英文",
+        "onboard_time": 1774325062,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211591,
+        "num": 180860,
+        "word": "浅浅为俞宝儿改名齐煜",
+        "onboard_time": 1774316241,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176500,
+        "num": 176500,
+        "word": "韩3名高空被烧死人员均为外包工",
+        "onboard_time": 1774325781,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171785,
+        "num": 171785,
+        "word": "伊朗公布袭击美军基地前后对比照",
+        "onboard_time": 1774312222,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 114986,
+        "num": 171689,
+        "word": "海马体为出片要求穿长裙致孕妇摔倒",
+        "onboard_time": 1774308379,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727869,
+        "num": 171022,
+        "word": "地铁吐血女孩前男友去年因病离世",
+        "onboard_time": 1774323919,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500774,
+        "num": 170702,
+        "word": "刘亦菲金智媛生图",
+        "onboard_time": 1774325301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477750,
+        "num": 170205,
+        "word": "入室抢婴主犯听到死缓当庭开骂",
+        "onboard_time": 1774326321,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439559,
+        "num": 169374,
+        "word": "美团删照片",
+        "onboard_time": 1774310060,
+        "rank": 13,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 430584,
+        "num": 168927,
+        "word": "丁程鑫比周柯宇大",
+        "onboard_time": 1774325181,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281384,
+        "num": 168609,
+        "word": "iPhone史上最大规模产品革新来了",
+        "onboard_time": 1774320681,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212942,
+        "num": 168016,
+        "word": "穆迪膝盖变形",
+        "onboard_time": 1774327042,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190707,
+        "num": 167107,
+        "word": "单休一天出了一趟国",
+        "onboard_time": 1774313482,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189373,
+        "num": 167055,
+        "word": "热巴给开推团准备了新疆特产",
+        "onboard_time": 1774322781,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16883,
+        "num": 166310,
+        "word": "官方回应驾校代刷科二科三学时",
+        "onboard_time": 1774327521,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285042,
+        "num": 165845,
+        "word": "金正恩正式将韩国定义为头号敌国",
+        "onboard_time": 1774324281,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189052,
+        "num": 165241,
+        "word": "张凌赫为什么被称为粉底液将军",
+        "onboard_time": 1774308499,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178099,
+        "num": 164869,
+        "word": "14岁少年遭虐待离世伤痕遍布全身",
+        "onboard_time": 1774325781,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174950,
+        "num": 164315,
+        "word": "王俊凯要唱新歌无人乐园",
+        "onboard_time": 1774323200,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163922,
+        "num": 163922,
+        "word": "一吃自助就忍不住拿便宜货",
+        "onboard_time": 1774324580,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161009,
+        "num": 161009,
+        "word": "惠英红 66岁正是晚上最热闹的时候",
+        "onboard_time": 1774324281,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142577,
+        "num": 142577,
+        "word": "邓超碰上了最懂自己的节目组",
+        "onboard_time": 1774327762,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136620,
+        "num": 136620,
+        "word": "100克金条吃顿饭工夫便宜3000元",
+        "onboard_time": 1774325481,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134922,
+        "num": 134922,
+        "word": "贵州溶洞发现地下反向森林",
+        "onboard_time": 1774328181,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121011,
+        "num": 121011,
+        "word": "刘亦菲安妮海瑟薇互相搂腰",
+        "onboard_time": 1774318581,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119903,
+        "num": 119903,
+        "word": "烘焙店一次性手套包装被指像避孕套",
+        "onboard_time": 1774326081,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115880,
+        "num": 115880,
+        "word": "赖清德宣布将重启核电厂",
+        "onboard_time": 1774323200,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114782,
+        "num": 114782,
+        "word": "被吸管杯背刺了",
+        "onboard_time": 1774327042,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114348,
+        "num": 114348,
+        "word": "张楚寒邓凯吻戏",
+        "onboard_time": 1774321820,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112415,
+        "num": 112415,
+        "word": "孕期接触杀菌剂影响持续20代",
+        "onboard_time": 1774327162,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70793,
+        "num": 105623,
+        "word": "官方通报秦岭乱扔垃圾起冲突事件",
+        "onboard_time": 1774322000,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99953,
+        "num": 99953,
+        "word": "中东已经够乱了",
+        "onboard_time": 1774321400,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97082,
+        "num": 97082,
+        "word": "金正恩称朝鲜将继续巩固拥核国家地位",
+        "onboard_time": 1774323681,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94594,
+        "num": 94594,
+        "word": "买黄金赚的钱全吐出来了",
+        "onboard_time": 1774325301,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72420,
+        "num": 92900,
+        "word": "境外间谍能使用激光设备隔空窃听",
+        "onboard_time": 1774323140,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51330,
+        "num": 92338,
+        "word": "2026年与1936年的像与不像",
+        "onboard_time": 1774327042,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92243,
+        "num": 92243,
+        "word": "邓超陈赫首次演综合体",
+        "onboard_time": 1774325541,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92191,
+        "num": 92191,
+        "word": "地铁吐血女孩因重病拒绝男友求婚",
+        "onboard_time": 1774313601,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92167,
+        "num": 92167,
+        "word": "咪想要 咪得到",
+        "onboard_time": 1774328062,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91198,
+        "num": 91198,
+        "word": "谢征樊长玉圆房吻来了",
+        "onboard_time": 1774322000,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90782,
+        "num": 90782,
+        "word": "一个预防胃癌最简单的方法",
+        "onboard_time": 1774313301,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88452,
+        "num": 88452,
+        "word": "QQ音乐超级巅峰之夜曲目",
+        "onboard_time": 1774323381,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87690,
+        "num": 87690,
+        "word": "恋与深空 夏以昼",
+        "onboard_time": 1774324460,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86294,
+        "num": 86294,
+        "word": "白日提灯",
+        "onboard_time": 1774319600,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83125,
+        "num": 83125,
+        "word": "生命树集均1381万",
+        "onboard_time": 1774322361,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记的足迹看雄安巨变#"
+    }
+  }
+}
