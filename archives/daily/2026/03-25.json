@@ -1,6 +1,6 @@
 {
   "startTime": 1774372134651,
-  "endTime": 1774373537041,
+  "endTime": 1774376155936,
   "band_list": [
     {
       "raw_hot": 1589478,
@@ -59,6 +59,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 456898,
+      "num": 161811,
+      "word": "人生真好玩 下辈子还来",
+      "onboard_time": 1774372278,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432625,
       "num": 432625,
       "word": "周杰伦新歌口碑",
@@ -75,19 +83,19 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 310120,
-      "num": 161811,
-      "word": "人生真好玩 下辈子还来",
-      "onboard_time": 1774372278,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 259438,
       "num": 148822,
       "word": "张雪峰生前谈墓碑上要写什么",
       "onboard_time": 1774365452,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218893,
+      "num": 108310,
+      "word": "张雪峰曾回应心脏不好质疑",
+      "onboard_time": 1774366290,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -97,14 +105,6 @@
       "onboard_time": 1774369341,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195583,
-      "num": 108310,
-      "word": "张雪峰曾回应心脏不好质疑",
-      "onboard_time": 1774366290,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153213,
@@ -137,6 +137,14 @@
       "onboard_time": 1774366468,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117113,
+      "num": 107963,
+      "word": "胡锡进为张雪峰唏嘘难过",
+      "onboard_time": 1774371859,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108706,
@@ -217,14 +225,6 @@
       "onboard_time": 1774364615,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 60633,
-      "num": 107963,
-      "word": "胡锡进为张雪峰唏嘘难过",
-      "onboard_time": 1774371859,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60481,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 27909,
+      "num": 58381,
+      "word": "你好1983",
+      "onboard_time": 1774373956,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23269,
       "num": 74605,
       "word": "隐身的名字",
@@ -419,12 +427,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21531,
+      "num": 58192,
+      "word": "王鹤棣单手提枪",
+      "onboard_time": 1774375755,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18967,
       "num": 451035,
       "word": "太空加油站新进展",
       "onboard_time": 1774360582,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15641,
+      "num": 57803,
+      "word": "王一博上海耐力赛纪录片",
+      "onboard_time": 1774364675,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774373537041,
+  "endTime": 1774376155936,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1099,6 +1099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 456898,
+      "num": 161811,
+      "word": "人生真好玩 下辈子还来",
+      "onboard_time": 1774372278,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 452579,
       "num": 205178,
       "word": "婚礼迎来了最严厉的新娘",
@@ -1745,14 +1753,6 @@
       "onboard_time": 1774184242,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310120,
-      "num": 161811,
-      "word": "人生真好玩 下辈子还来",
-      "onboard_time": 1774372278,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 309479,
@@ -2459,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218893,
+      "num": 108310,
+      "word": "张雪峰曾回应心脏不好质疑",
+      "onboard_time": 1774366290,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218505,
       "num": 172854,
       "word": "河南男孩遭老师要求互打后坠亡后续",
@@ -2705,14 +2713,6 @@
       "onboard_time": 1774093400,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195583,
-      "num": 108310,
-      "word": "张雪峰曾回应心脏不好质疑",
-      "onboard_time": 1774366290,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194665,
@@ -4201,6 +4201,14 @@
       "onboard_time": 1774255702,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117113,
+      "num": 107963,
+      "word": "胡锡进为张雪峰唏嘘难过",
+      "onboard_time": 1774371859,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116785,
@@ -7843,14 +7851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 60633,
-      "num": 107963,
-      "word": "胡锡进为张雪峰唏嘘难过",
-      "onboard_time": 1774371859,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60507,
       "num": 65434,
       "word": "边牧染上猫瘾",
@@ -8929,6 +8929,14 @@
       "onboard_time": 1774155982,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21531,
+      "num": 58192,
+      "word": "王鹤棣单手提枪",
+      "onboard_time": 1774375755,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 21478,
