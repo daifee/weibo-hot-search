@@ -1,10 +1,10 @@
 {
   "startTime": 1774285387754,
-  "endTime": 1774332587257,
+  "endTime": 1774334400447,
   "band_list": [
     {
       "raw_hot": 1792417,
-      "num": 179365,
+      "num": 248276,
       "word": "以色列被打穿了",
       "onboard_time": 1774329321,
       "rank": 5,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 657982,
-      "num": 169429,
+      "num": 238620,
       "word": "周杰伦新歌",
       "onboard_time": 1774329621,
       "rank": 8,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 602019,
-      "num": 141975,
+      "num": 233114,
       "word": "男友离世前转地铁吐血女孩5万治病",
       "onboard_time": 1774329321,
       "rank": 10,
@@ -163,6 +163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 457474,
+      "num": 150565,
+      "word": "第一批丁克家庭现状曝光",
+      "onboard_time": 1774329680,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456935,
       "num": 1052008,
       "word": "美国得州炼油厂发生爆炸",
@@ -177,14 +185,6 @@
       "onboard_time": 1774308078,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 441593,
-      "num": 120680,
-      "word": "第一批丁克家庭现状曝光",
-      "onboard_time": 1774329680,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 430584,
@@ -211,12 +211,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378523,
+      "num": 1060563,
+      "word": "迪士尼 物价",
+      "onboard_time": 1774330400,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377308,
       "num": 194488,
       "word": "刘亦菲安妮海瑟薇互相搂腰",
       "onboard_time": 1774318581,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306248,
+      "num": 231336,
+      "word": "金店店员称按九百多的价格宁愿不卖",
+      "onboard_time": 1774334120,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305536,
+      "num": 763062,
+      "word": "中园石化碰瓷中国石化",
+      "onboard_time": 1774328781,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292122,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 270448,
-      "num": 203622,
+      "num": 213329,
       "word": "14岁少年遭虐待离世伤痕遍布全身",
       "onboard_time": 1774325781,
       "rank": 22,
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 268640,
-      "num": 140574,
+      "num": 207914,
       "word": "孟羽童自曝失恋一周无法工作",
       "onboard_time": 1774330101,
       "rank": 13,
@@ -283,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248398,
+      "num": 248398,
+      "word": "贵州溶洞发现地下反向森林",
+      "onboard_time": 1774328181,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 244499,
       "num": 761065,
       "word": "四川天府机场多名老人扶梯上逆行",
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 223666,
-      "num": 139670,
+      "num": 183493,
       "word": "少年被虐致死家族群里都是伤痕照片",
       "onboard_time": 1774328540,
       "rank": 35,
@@ -329,14 +361,6 @@
       "onboard_time": 1774317620,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 207109,
-      "num": 760097,
-      "word": "中园石化碰瓷中国石化",
-      "onboard_time": 1774328781,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205558,
@@ -387,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183202,
+      "num": 183202,
+      "word": "王鸥自曝拍戏补贴自创品牌一直亏损",
+      "onboard_time": 1774333160,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179294,
       "num": 178437,
       "word": "13年来首次油价调控意味着什么",
@@ -417,14 +449,6 @@
       "onboard_time": 1774324580,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172007,
-      "num": 172007,
-      "word": "迪士尼 物价",
-      "onboard_time": 1774330400,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171985,
@@ -467,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158884,
+      "num": 158884,
+      "word": "难听",
+      "onboard_time": 1774333761,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155642,
       "num": 155642,
       "word": "开推4女生只剩金靖了",
@@ -475,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154685,
-      "num": 154685,
-      "word": "贵州溶洞发现地下反向森林",
-      "onboard_time": 1774328181,
-      "rank": 28,
-      "category": "旅游"
+      "raw_hot": 150789,
+      "num": 150789,
+      "word": "迪丽热巴好会演疯批",
+      "onboard_time": 1774333043,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 145234,
@@ -497,6 +529,14 @@
       "onboard_time": 1774325481,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142801,
+      "num": 142801,
+      "word": "14岁少年被虐致死小区业主物业发声",
+      "onboard_time": 1774329740,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142577,
@@ -521,14 +561,6 @@
       "onboard_time": 1774322361,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138583,
-      "num": 138583,
-      "word": "14岁少年被虐致死小区业主物业发声",
-      "onboard_time": 1774329740,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135965,
@@ -571,12 +603,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128734,
+      "num": 128734,
+      "word": "女子乘高铁投诉男子吸烟却被发口罩",
+      "onboard_time": 1774332741,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128124,
       "num": 427722,
       "word": "朝鲜称与日本没什么可谈的",
       "onboard_time": 1774275142,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125129,
+      "num": 121090,
+      "word": "张凌赫在座的各位不要当我爸爸了",
+      "onboard_time": 1774332499,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 123757,
@@ -601,14 +649,6 @@
       "onboard_time": 1774270582,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121090,
-      "num": 121090,
-      "word": "张凌赫在座的各位不要当我爸爸了",
-      "onboard_time": 1774332499,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 119903,
@@ -643,20 +683,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115345,
+      "num": 115345,
+      "word": "美国打不赢还走不了",
+      "onboard_time": 1774329861,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115180,
       "num": 115180,
       "word": "陈梦回应是否继续参赛",
       "onboard_time": 1774318461,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114545,
-      "num": 114545,
-      "word": "美国打不赢还走不了",
-      "onboard_time": 1774329861,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113117,
@@ -779,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95120,
+      "num": 95120,
+      "word": "梅姨落网全过程揭秘",
+      "onboard_time": 1774333579,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94771,
       "num": 94771,
       "word": "谢征樊长玉圆房吻来了",
@@ -833,6 +881,14 @@
       "onboard_time": 1774307418,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90520,
+      "num": 90520,
+      "word": "汽车之家多平台账号被禁止关注",
+      "onboard_time": 1774332620,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 90130,
@@ -963,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81927,
+      "num": 81927,
+      "word": "看到车上有这种装置请立即报警",
+      "onboard_time": 1774333460,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81869,
       "num": 81869,
       "word": "赚1700用了半个月亏5770用了一天",
@@ -995,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80830,
+      "num": 80830,
+      "word": "脂肪都得排队喊大哥",
+      "onboard_time": 1774331180,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 80719,
       "num": 80719,
       "word": "第一次见这么标准的课题分离",
@@ -1019,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78998,
+      "num": 78998,
+      "word": "现在的狗咖都发展成这样了",
+      "onboard_time": 1774331841,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78690,
       "num": 78690,
       "word": "男孩被要求互打后坠亡老师仍在上课",
@@ -1035,22 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78124,
-      "num": 78124,
-      "word": "脂肪都得排队喊大哥",
-      "onboard_time": 1774331180,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 77740,
-      "num": 77740,
-      "word": "现在的狗咖都发展成这样了",
-      "onboard_time": 1774331841,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 77019,
       "num": 77019,
       "word": "老人感染HIV后还需靠年迈父母照料",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1774318698,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76275,
+      "num": 76275,
+      "word": "尚界Z7三小时小订突破18000台",
+      "onboard_time": 1774334060,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 76167,
@@ -1163,6 +1235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 71579,
+      "num": 71579,
+      "word": "金价遇黑色星期一",
+      "onboard_time": 1774333521,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 71429,
       "num": 71429,
       "word": "王者万象棋终测开启",
@@ -1203,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70793,
+      "num": 141220,
+      "word": "央视揭赌石直播骗局",
+      "onboard_time": 1774334179,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69858,
       "num": 69858,
       "word": "伊媒称伊2处能源设施遭袭",
@@ -1225,6 +1313,14 @@
       "onboard_time": 1774265722,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 68535,
+      "num": 68535,
+      "word": "宋威龙回应被叫木头帅哥",
+      "onboard_time": 1774334179,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 67852,
@@ -1411,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48456,
+      "num": 66565,
+      "word": "杜兰特镰刀挥了白挥",
+      "onboard_time": 1774333402,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45049,
       "num": 70601,
       "word": "宫脇咲良取关张元英",
@@ -1472,6 +1576,14 @@
       "word": "逐玉第二",
       "onboard_time": 1774257562,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32465,
+      "num": 79615,
+      "word": "开推团包场白日提灯",
+      "onboard_time": 1774333819,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1593,6 +1705,14 @@
       "onboard_time": 1774288095,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15424,
+      "num": 597713,
+      "word": "奔向梦想的新一程",
+      "onboard_time": 1774318940,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15051,
