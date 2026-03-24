@@ -1,0 +1,410 @@
+{
+  "runTime": 1774329158614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 290989,
+        "num": 1046558,
+        "word": "美国得州炼油厂发生爆炸",
+        "onboard_time": 1774317199,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271400,
+        "num": 743209,
+        "word": "韩3名高空被烧死人员均为外包工",
+        "onboard_time": 1774325781,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22308,
+        "num": 602812,
+        "word": "稳定发展是中国人民的坚实底气",
+        "onboard_time": 1774319421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1175793,
+        "num": 599659,
+        "word": "张凌赫知道热巴白宇退出开推的反应",
+        "onboard_time": 1774326382,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156132,
+        "num": 596048,
+        "word": "真正的麻辣香锅已经非常罕见了",
+        "onboard_time": 1774309219,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 813082,
+        "num": 595521,
+        "word": "第一次看懂中文是因为看懂了英文",
+        "onboard_time": 1774325062,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 594893,
+        "num": 594893,
+        "word": "周杰伦太阳之子MV",
+        "onboard_time": 1774328722,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206344,
+        "num": 587838,
+        "word": "开始推理吧直播",
+        "onboard_time": 1774318461,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143000,
+        "num": 586227,
+        "word": "伊朗公布袭击美军基地前后对比照",
+        "onboard_time": 1774312222,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 105092,
+        "num": 585918,
+        "word": "海马体为出片要求穿长裙致孕妇摔倒",
+        "onboard_time": 1774308379,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585888,
+        "num": 585888,
+        "word": "地铁吐血女孩前男友去年因病离世",
+        "onboard_time": 1774323919,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548189,
+        "num": 548189,
+        "word": "刘亦菲金智媛生图",
+        "onboard_time": 1774325301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443823,
+        "num": 443823,
+        "word": "美团删照片",
+        "onboard_time": 1774310060,
+        "rank": 12,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 431038,
+        "num": 431038,
+        "word": "入室抢婴主犯听到死缓当庭开骂",
+        "onboard_time": 1774326321,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243767,
+        "num": 243767,
+        "word": "iPhone史上最大规模产品革新来了",
+        "onboard_time": 1774320681,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 215212,
+        "num": 215212,
+        "word": "穆迪膝盖变形",
+        "onboard_time": 1774327042,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203622,
+        "num": 203622,
+        "word": "14岁少年遭虐待离世伤痕遍布全身",
+        "onboard_time": 1774325781,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188814,
+        "num": 188814,
+        "word": "浅浅为俞宝儿改名齐煜",
+        "onboard_time": 1774316241,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173262,
+        "num": 173262,
+        "word": "一吃自助就忍不住拿便宜货",
+        "onboard_time": 1774324580,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20493,
+        "num": 171163,
+        "word": "70元米妮蒸包系三个无馅白面馒头",
+        "onboard_time": 1774328722,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269699,
+        "num": 170980,
+        "word": "金正恩正式将韩国定义为头号敌国",
+        "onboard_time": 1774324281,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174119,
+        "num": 170931,
+        "word": "张凌赫为什么被称为粉底液将军",
+        "onboard_time": 1774308499,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170268,
+        "num": 170268,
+        "word": "单休一天出了一趟国",
+        "onboard_time": 1774313482,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344596,
+        "num": 167959,
+        "word": "丁程鑫比周柯宇大",
+        "onboard_time": 1774325181,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154685,
+        "num": 154685,
+        "word": "贵州溶洞发现地下反向森林",
+        "onboard_time": 1774328181,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 149821,
+        "num": 149821,
+        "word": "王俊凯要唱新歌无人乐园",
+        "onboard_time": 1774323200,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149722,
+        "num": 149722,
+        "word": "热巴给开推团准备了新疆特产",
+        "onboard_time": 1774322781,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144109,
+        "num": 144109,
+        "word": "100克金条吃顿饭工夫便宜3000元",
+        "onboard_time": 1774325481,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139684,
+        "num": 139684,
+        "word": "惠英红 66岁正是晚上最热闹的时候",
+        "onboard_time": 1774324281,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86990,
+        "num": 138796,
+        "word": "中园石化碰瓷中国石化",
+        "onboard_time": 1774328781,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138485,
+        "num": 138485,
+        "word": "邓超碰上了最懂自己的节目组",
+        "onboard_time": 1774327762,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121568,
+        "num": 121568,
+        "word": "被吸管杯背刺了",
+        "onboard_time": 1774327042,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113339,
+        "num": 113339,
+        "word": "烘焙店一次性手套包装被指像避孕套",
+        "onboard_time": 1774326081,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111630,
+        "num": 111630,
+        "word": "刘亦菲安妮海瑟薇互相搂腰",
+        "onboard_time": 1774318581,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108106,
+        "num": 108106,
+        "word": "QQ音乐超级巅峰之夜曲目",
+        "onboard_time": 1774323381,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102328,
+        "num": 102328,
+        "word": "少年被虐致死家族群里都是伤痕照片",
+        "onboard_time": 1774328540,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99002,
+        "num": 99002,
+        "word": "张楚寒邓凯吻戏",
+        "onboard_time": 1774321820,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97543,
+        "num": 97543,
+        "word": "孕期接触杀菌剂影响持续20代",
+        "onboard_time": 1774327162,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94771,
+        "num": 94771,
+        "word": "谢征樊长玉圆房吻来了",
+        "onboard_time": 1774322000,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93388,
+        "num": 93388,
+        "word": "赖清德宣布将重启核电厂",
+        "onboard_time": 1774323200,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90690,
+        "num": 90690,
+        "word": "咪想要 咪得到",
+        "onboard_time": 1774328062,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88813,
+        "num": 88813,
+        "word": "其实你根本不喜欢玩手机",
+        "onboard_time": 1774326682,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86827,
+        "num": 86827,
+        "word": "买黄金赚的钱全吐出来了",
+        "onboard_time": 1774325301,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86054,
+        "num": 86054,
+        "word": "曝詹姆斯下赛季愿降薪留队",
+        "onboard_time": 1774328722,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81629,
+        "num": 81629,
+        "word": "金正恩称朝鲜将继续巩固拥核国家地位",
+        "onboard_time": 1774323681,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81550,
+        "num": 81550,
+        "word": "一个预防胃癌最简单的方法",
+        "onboard_time": 1774313301,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81486,
+        "num": 81486,
+        "word": "中东已经够乱了",
+        "onboard_time": 1774321400,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79313,
+        "num": 79313,
+        "word": "老板回应一千多万预算请员工父母旅游",
+        "onboard_time": 1774329081,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78264,
+        "num": 78264,
+        "word": "等鲁豫姜思达",
+        "onboard_time": 1774329081,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77509,
+        "num": 77509,
+        "word": "邓超陈赫首次演综合体",
+        "onboard_time": 1774325541,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#雄安建设新时代创新高地#"
+    }
+  }
+}
