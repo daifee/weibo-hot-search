@@ -1,6 +1,6 @@
 {
   "startTime": 1774372134651,
-  "endTime": 1774395651023,
+  "endTime": 1774396569561,
   "band_list": [
     {
       "raw_hot": 2011418,
@@ -8,6 +8,14 @@
       "word": "张雪峰女儿还那么小",
       "onboard_time": 1774363958,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1755676,
+      "num": 477263,
+      "word": "张雪峰员工 上四休三",
+      "onboard_time": 1774395503,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -100,19 +108,27 @@
     },
     {
       "raw_hot": 432625,
-      "num": 432625,
+      "num": 512711,
       "word": "周杰伦新歌口碑",
       "onboard_time": 1774351829,
       "rank": 3,
       "category": "音乐"
     },
     {
-      "raw_hot": 335605,
-      "num": 335605,
+      "raw_hot": 336485,
+      "num": 336485,
       "word": "火了还没适应的明星最好玩了",
       "onboard_time": 1774366468,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329831,
+      "num": 63894,
+      "word": "避谶",
+      "onboard_time": 1774396104,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326934,
@@ -123,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326313,
+      "num": 326313,
+      "word": "短剧撞脸迪丽热巴别甩锅AI",
+      "onboard_time": 1774394842,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 312997,
       "num": 312997,
       "word": "容易触发猝死的6个因素",
@@ -131,20 +155,36 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 301728,
-      "num": 301728,
-      "word": "张雪峰员工 上四休三",
-      "onboard_time": 1774395503,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 293976,
-      "num": 99443,
+      "raw_hot": 306443,
+      "num": 108587,
       "word": "Uzi怒喷Mark",
       "onboard_time": 1774393761,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 303296,
+      "num": 532628,
+      "word": "女子称专柜买4个LV包鉴定为假货",
+      "onboard_time": 1774394303,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263819,
+      "num": 190607,
+      "word": "金价",
+      "onboard_time": 1774395503,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 255023,
+      "num": 455473,
+      "word": "日本被曝多年搞反华教育",
+      "onboard_time": 1774394483,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 228070,
@@ -152,14 +192,6 @@
       "word": "张雪峰8年前曾谈猝死",
       "onboard_time": 1774376356,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222709,
-      "num": 379033,
-      "word": "女子称专柜买4个LV包鉴定为假货",
-      "onboard_time": 1774394303,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -179,6 +211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191880,
+      "num": 191880,
+      "word": "伊朗喊美国做个了断",
+      "onboard_time": 1774357111,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 190434,
       "num": 190434,
       "word": "金价大跌金饰店不再人山人海",
@@ -187,36 +227,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 171318,
-      "num": 99216,
-      "word": "短剧撞脸迪丽热巴别甩锅AI",
-      "onboard_time": 1774394842,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 175028,
+      "num": 175028,
+      "word": "吴德馨院士逝世",
+      "onboard_time": 1774394422,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171287,
-      "num": 133803,
+      "num": 149986,
       "word": "睡觉是延长心脏寿命最好的方式",
       "onboard_time": 1774352969,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 169720,
-      "num": 169720,
-      "word": "日本被曝多年搞反华教育",
-      "onboard_time": 1774394483,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 162306,
-      "num": 162709,
-      "word": "伊朗喊美国做个了断",
-      "onboard_time": 1774357111,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 153213,
@@ -225,6 +249,14 @@
       "onboard_time": 1774367068,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151471,
+      "num": 151471,
+      "word": "家里吃灰的旧手机突然成了香饽饽",
+      "onboard_time": 1774395083,
+      "rank": 25,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 143072,
@@ -248,14 +280,6 @@
       "word": "金饰克价回落了",
       "onboard_time": 1774394242,
       "rank": 21,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 130525,
-      "num": 130525,
-      "word": "金价",
-      "onboard_time": 1774395503,
-      "rank": 19,
       "category": "财经"
     },
     {
@@ -283,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123381,
-      "num": 123381,
-      "word": "家里吃灰的旧手机突然成了香饽饽",
-      "onboard_time": 1774395083,
-      "rank": 25,
-      "category": "民生新闻,数码"
+      "raw_hot": 117674,
+      "num": 117674,
+      "word": "邓凯回复任豪",
+      "onboard_time": 1774393581,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 117113,
@@ -315,20 +339,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 105854,
-      "num": 105854,
-      "word": "吴德馨院士逝世",
-      "onboard_time": 1774394422,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103101,
-      "num": 103101,
-      "word": "邓凯回复任豪",
-      "onboard_time": 1774393581,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 107271,
+      "num": 107271,
+      "word": "强闯中国驻日使馆男子被捕",
+      "onboard_time": 1774395444,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97579,
@@ -339,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91354,
+      "num": 91354,
+      "word": "周杰伦那天下雨了",
+      "onboard_time": 1774396404,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 91206,
       "num": 126071,
       "word": "邓凯孔雪儿借位吻",
       "onboard_time": 1774370002,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90969,
+      "num": 973322,
+      "word": "曾经只值10元的二手机现在回收价500",
+      "onboard_time": 1774360292,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88196,
@@ -363,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81686,
+      "num": 81686,
+      "word": "麻辣咖啡",
+      "onboard_time": 1774395983,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 80339,
       "num": 131287,
       "word": "泽尻英龙华40岁状态",
@@ -371,20 +411,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78229,
+      "num": 128749,
+      "word": "38岁男子打10分钟羽毛球后心梗",
+      "onboard_time": 1774379655,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77967,
       "num": 141661,
       "word": "逐玉",
       "onboard_time": 1774351587,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75379,
-      "num": 128749,
-      "word": "38岁男子打10分钟羽毛球后心梗",
-      "onboard_time": 1774379655,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74731,
@@ -401,6 +441,30 @@
       "onboard_time": 1774359224,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69663,
+      "num": 69663,
+      "word": "俞浅浅再也不可能真正自由了",
+      "onboard_time": 1774396286,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65301,
+      "num": 683588,
+      "word": "外交部回应日方拟将中日关系降级",
+      "onboard_time": 1774346781,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 61961,
+      "num": 385166,
+      "word": "王一博上海耐力赛纪录片",
+      "onboard_time": 1774364675,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 61185,
@@ -451,36 +515,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 55229,
-      "num": 127910,
-      "word": "曾经只值10元的二手机现在回收价500",
-      "onboard_time": 1774360292,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53798,
-      "num": 360387,
-      "word": "王一博上海耐力赛纪录片",
-      "onboard_time": 1774364675,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 53547,
-      "num": 53547,
+      "num": 63750,
       "word": "徐老师采访肖战",
       "onboard_time": 1774353509,
       "rank": 43,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 52205,
-      "num": 52205,
-      "word": "强闯中国驻日使馆男子被捕",
-      "onboard_time": 1774395444,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 51093,
@@ -571,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36568,
-      "num": 127385,
-      "word": "外交部回应日方拟将中日关系降级",
-      "onboard_time": 1774346781,
-      "rank": 44,
-      "category": "国内时政"
+      "raw_hot": 36829,
+      "num": 598690,
+      "word": "太空加油站新进展",
+      "onboard_time": 1774360582,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34669,
@@ -601,14 +641,6 @@
       "onboard_time": 1774392320,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32017,
-      "num": 598690,
-      "word": "太空加油站新进展",
-      "onboard_time": 1774360582,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31876,
@@ -705,6 +737,14 @@
       "onboard_time": 1774381754,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 9591,
+      "num": 545296,
+      "word": "七彩云南万千气象",
+      "onboard_time": 1774351169,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774395651023,
+  "endTime": 1774396569561,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -137,6 +137,14 @@
       "onboard_time": 1774265361,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1755676,
+      "num": 477263,
+      "word": "张雪峰员工 上四休三",
+      "onboard_time": 1774395503,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1600645,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 787118,
-      "num": 151962,
+      "num": 190607,
       "word": "金价",
       "onboard_time": 1774141340,
       "rank": 21,
@@ -1643,20 +1651,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336485,
+      "num": 669385,
+      "word": "火了还没适应的明星最好玩了",
+      "onboard_time": 1774366468,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336134,
       "num": 212868,
       "word": "A股",
       "onboard_time": 1774230080,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 335605,
-      "num": 669385,
-      "word": "火了还没适应的明星最好玩了",
-      "onboard_time": 1774366468,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 335298,
@@ -1691,6 +1699,14 @@
       "category": "舆论监督,剧集"
     },
     {
+      "raw_hot": 329831,
+      "num": 63894,
+      "word": "避谶",
+      "onboard_time": 1774396104,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329486,
       "num": 329486,
       "word": "希林娜依高回应伯克利没毕业",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1774106304,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326313,
+      "num": 326313,
+      "word": "短剧撞脸迪丽热巴别甩锅AI",
+      "onboard_time": 1774394842,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 326262,
@@ -1803,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306443,
+      "num": 108587,
+      "word": "Uzi怒喷Mark",
+      "onboard_time": 1774393761,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 306248,
       "num": 231336,
       "word": "金店店员称按九百多的价格宁愿不卖",
@@ -1827,11 +1859,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301728,
-      "num": 301728,
-      "word": "张雪峰员工 上四休三",
-      "onboard_time": 1774395503,
-      "rank": 12,
+      "raw_hot": 303296,
+      "num": 532628,
+      "word": "女子称专柜买4个LV包鉴定为假货",
+      "onboard_time": 1774394303,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1897,14 +1929,6 @@
       "onboard_time": 1774230859,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293976,
-      "num": 99443,
-      "word": "Uzi怒喷Mark",
-      "onboard_time": 1774393761,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 292492,
@@ -2113,6 +2137,14 @@
       "onboard_time": 1774341260,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255023,
+      "num": 455473,
+      "word": "日本被曝多年搞反华教育",
+      "onboard_time": 1774394483,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 254603,
@@ -2504,14 +2536,6 @@
       "word": "女子脖子疼一周确诊胃癌已全身转移",
       "onboard_time": 1774236201,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222709,
-      "num": 379033,
-      "word": "女子称专柜买4个LV包鉴定为假货",
-      "onboard_time": 1774394303,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -3043,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175028,
+      "num": 175028,
+      "word": "吴德馨院士逝世",
+      "onboard_time": 1774394422,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174950,
       "num": 164315,
       "word": "王俊凯要唱新歌无人乐园",
@@ -3147,14 +3179,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 171318,
-      "num": 99216,
-      "word": "短剧撞脸迪丽热巴别甩锅AI",
-      "onboard_time": 1774394842,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 171098,
       "num": 140962,
       "word": "美股三大股指期货突然拉升",
@@ -3201,14 +3225,6 @@
       "onboard_time": 1774313301,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 169720,
-      "num": 169720,
-      "word": "日本被曝多年搞反华教育",
-      "onboard_time": 1774394483,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 169227,
@@ -3427,6 +3443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 151471,
+      "num": 151471,
+      "word": "家里吃灰的旧手机突然成了香饽饽",
+      "onboard_time": 1774395083,
+      "rank": 25,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 151285,
       "num": 183831,
       "word": "重庆大学通报实验室爆炸",
@@ -3612,7 +3636,7 @@
     },
     {
       "raw_hot": 141125,
-      "num": 295262,
+      "num": 973322,
       "word": "曾经只值10元的二手机现在回收价500",
       "onboard_time": 1774360292,
       "rank": 33,
@@ -4139,14 +4163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 123381,
-      "num": 123381,
-      "word": "家里吃灰的旧手机突然成了香饽饽",
-      "onboard_time": 1774395083,
-      "rank": 25,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 122635,
       "num": 105278,
       "word": "葛夕回怼复合要求",
@@ -4313,6 +4329,14 @@
       "onboard_time": 1774109483,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117674,
+      "num": 117674,
+      "word": "邓凯回复任豪",
+      "onboard_time": 1774393581,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 117465,
@@ -4723,6 +4747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107271,
+      "num": 107271,
+      "word": "强闯中国驻日使馆男子被捕",
+      "onboard_time": 1774395444,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107045,
       "num": 107045,
       "word": "KPL巅峰对决提速了",
@@ -4793,14 +4825,6 @@
       "onboard_time": 1774240881,
       "rank": 37,
       "category": "互联网,体育"
-    },
-    {
-      "raw_hot": 105854,
-      "num": 105854,
-      "word": "吴德馨院士逝世",
-      "onboard_time": 1774394422,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105692,
@@ -4913,14 +4937,6 @@
       "onboard_time": 1774330162,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 103101,
-      "num": 103101,
-      "word": "邓凯回复任豪",
-      "onboard_time": 1774393581,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 102862,
@@ -5505,6 +5521,14 @@
       "onboard_time": 1774173140,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91354,
+      "num": 91354,
+      "word": "周杰伦那天下雨了",
+      "onboard_time": 1774396404,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 91322,
@@ -6243,6 +6267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81686,
+      "num": 81686,
+      "word": "麻辣咖啡",
+      "onboard_time": 1774395983,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 81536,
       "num": 81536,
       "word": "A股半日成交1.46万亿放量155亿",
@@ -6539,6 +6571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78229,
+      "num": 128749,
+      "word": "38岁男子打10分钟羽毛球后心梗",
+      "onboard_time": 1774379655,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78136,
       "num": 78136,
       "word": "2026全球先锋赛",
@@ -6588,7 +6628,7 @@
     },
     {
       "raw_hot": 77609,
-      "num": 360387,
+      "num": 385166,
       "word": "王一博上海耐力赛纪录片",
       "onboard_time": 1774364675,
       "rank": 45,
@@ -6784,14 +6824,6 @@
       "word": "珲春一国道现巨鸟过马路",
       "onboard_time": 1774183582,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75379,
-      "num": 128749,
-      "word": "38岁男子打10分钟羽毛球后心梗",
-      "onboard_time": 1774379655,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -7321,6 +7353,14 @@
       "onboard_time": 1774355070,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69663,
+      "num": 69663,
+      "word": "俞浅浅再也不可能真正自由了",
+      "onboard_time": 1774396286,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 69630,
@@ -8409,14 +8449,6 @@
       "onboard_time": 1774309099,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52205,
-      "num": 52205,
-      "word": "强闯中国驻日使馆男子被捕",
-      "onboard_time": 1774395444,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 52075,
