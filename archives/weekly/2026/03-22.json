@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774360626136,
+  "endTime": 1774364854104,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -43,11 +43,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12565730,
+      "num": 12565730,
+      "word": "心源性猝死",
+      "onboard_time": 1774360944,
+      "rank": 0,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 8624062,
       "num": 8624062,
       "word": "张雪峰头像",
       "onboard_time": 1774357834,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3960942,
+      "num": 313430,
+      "word": "张雪峰曾回应如何面对死亡",
+      "onboard_time": 1774363423,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3324910,
+      "num": 290039,
+      "word": "张雪峰女儿还那么小",
+      "onboard_time": 1774363958,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -129,6 +153,14 @@
       "onboard_time": 1774253840,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1461712,
+      "num": 248290,
+      "word": "睡觉是延长心脏寿命最好的方式",
+      "onboard_time": 1774352969,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1436663,
@@ -345,6 +377,14 @@
       "onboard_time": 1774340182,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 923472,
+      "num": 283032,
+      "word": "张老师一路走好",
+      "onboard_time": 1774362650,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 917869,
@@ -827,14 +867,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 516124,
-      "num": 248290,
-      "word": "睡觉是延长心脏寿命最好的方式",
-      "onboard_time": 1774352969,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 505698,
       "num": 666305,
       "word": "央视曝活鱼被人为麻醉乱象",
@@ -1140,11 +1172,19 @@
     },
     {
       "raw_hot": 415088,
-      "num": 257997,
+      "num": 410370,
       "word": "地铁吐血女孩已离开华西医院",
       "onboard_time": 1774355549,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 411847,
+      "num": 2146480,
+      "word": "外交部回应日方拟将中日关系降级",
+      "onboard_time": 1774346781,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 411543,
@@ -1379,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363067,
+      "num": 242624,
+      "word": "泽尻英龙华40岁状态",
+      "onboard_time": 1774354710,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361645,
       "num": 820046,
       "word": "教师称退群后家长转为点对点私聊",
@@ -1611,14 +1659,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 311488,
-      "num": 242624,
-      "word": "泽尻英龙华40岁状态",
-      "onboard_time": 1774354710,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311430,
       "num": 246989,
       "word": "内娱男流量五官大赏",
@@ -1684,7 +1724,7 @@
     },
     {
       "raw_hot": 296989,
-      "num": 296989,
+      "num": 315344,
       "word": "草莓下火锅",
       "onboard_time": 1774349427,
       "rank": 32,
@@ -1755,14 +1795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 287877,
-      "num": 1117730,
-      "word": "外交部回应日方拟将中日关系降级",
-      "onboard_time": 1774346781,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 287543,
       "num": 173340,
       "word": "美国5名顶尖科学家接连失踪死亡",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1774143679,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280960,
+      "num": 280960,
+      "word": "过度运动",
+      "onboard_time": 1774363898,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 280684,
@@ -1961,6 +2001,14 @@
       "onboard_time": 1774225521,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 252897,
+      "num": 252897,
+      "word": "钟南山提醒此类情况及时就诊",
+      "onboard_time": 1774356812,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252885,
@@ -2403,6 +2451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214110,
+      "num": 214110,
+      "word": "张凌赫蓝色花蝴蝶造型",
+      "onboard_time": 1774359224,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212913,
       "num": 236039,
       "word": "逐玉男配林沐然涨粉101万",
@@ -2545,14 +2601,6 @@
       "onboard_time": 1774170741,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197557,
-      "num": 197557,
-      "word": "张凌赫蓝色花蝴蝶造型",
-      "onboard_time": 1774359224,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 197534,
@@ -2995,14 +3043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168111,
-      "num": 168111,
-      "word": "钟南山提醒此类情况及时就诊",
-      "onboard_time": 1774356812,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 166433,
       "num": 166433,
       "word": "女孩地铁吐血用外套擦地让人心疼",
@@ -3347,6 +3387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141125,
+      "num": 141125,
+      "word": "曾经只值10元的二手机现在回收价500",
+      "onboard_time": 1774360292,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141023,
       "num": 141023,
       "word": "Viper两连冠",
@@ -3515,14 +3563,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 135485,
-      "num": 135485,
-      "word": "曾经只值10元的二手机现在回收价500",
-      "onboard_time": 1774360292,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135357,
       "num": 135357,
       "word": "第一次在车身上看到了性感",
@@ -3665,6 +3705,14 @@
       "onboard_time": 1774186343,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128140,
+      "num": 128140,
+      "word": "与梅姨同居三年老汉家门窗紧闭",
+      "onboard_time": 1774362532,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127991,
@@ -3841,6 +3889,14 @@
       "onboard_time": 1774327042,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121560,
+      "num": 121560,
+      "word": "章若楠角色热度破亿",
+      "onboard_time": 1774361295,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 121338,
@@ -4297,6 +4353,14 @@
       "onboard_time": 1774187482,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108940,
+      "num": 249341,
+      "word": "医院招护士女性须持证男性可后考",
+      "onboard_time": 1774359643,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108480,
@@ -5147,6 +5211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91127,
+      "num": 91127,
+      "word": "此沙体力",
+      "onboard_time": 1774364015,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90728,
       "num": 90728,
       "word": "AG花花独狼吃鸡",
@@ -5232,6 +5304,14 @@
       "word": "高铁卫生间遇到这种情况别冲水",
       "onboard_time": 1774193663,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89606,
+      "num": 243219,
+      "word": "一公职人员酒后当街追打理发店主",
+      "onboard_time": 1774358441,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -5659,6 +5739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82797,
+      "num": 82797,
+      "word": "黄金四分钟是心源性猝死抢救关键",
+      "onboard_time": 1774364256,
+      "rank": 42,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 82795,
       "num": 82795,
       "word": "雷军回应新su7销量",
@@ -5915,12 +6003,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80137,
+      "num": 80137,
+      "word": "刘亦菲或客串穿普拉达的女王2",
+      "onboard_time": 1774364436,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80135,
       "num": 80135,
       "word": "安宥真崴脚",
       "onboard_time": 1774229960,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80022,
+      "num": 80022,
+      "word": "三甲医生解读地铁吐血女孩病症",
+      "onboard_time": 1774363481,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79841,
@@ -6139,6 +6243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77609,
+      "num": 77609,
+      "word": "王一博上海耐力赛纪录片",
+      "onboard_time": 1774364675,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77510,
       "num": 77510,
       "word": "老铺黄金股价接近腰斩",
@@ -6217,6 +6329,14 @@
       "onboard_time": 1774260441,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76528,
+      "num": 76528,
+      "word": "地铁吐血女孩曾是白衣天使",
+      "onboard_time": 1774362001,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76495,
@@ -6320,14 +6440,6 @@
       "word": "珲春一国道现巨鸟过马路",
       "onboard_time": 1774183582,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75501,
-      "num": 249341,
-      "word": "医院招护士女性须持证男性可后考",
-      "onboard_time": 1774359643,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -6841,6 +6953,14 @@
       "onboard_time": 1774318581,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69664,
+      "num": 76240,
+      "word": "迪士尼更新了迪丽热巴祝福视频",
+      "onboard_time": 1774355070,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 69630,
@@ -7489,6 +7609,14 @@
       "onboard_time": 1774111161,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61409,
+      "num": 1707441,
+      "word": "太空加油站新进展",
+      "onboard_time": 1774360582,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61370,
@@ -8595,14 +8723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20288,
-      "num": 243219,
-      "word": "一公职人员酒后当街追打理发店主",
-      "onboard_time": 1774358441,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19570,
       "num": 550047,
       "word": "2026全国寻春地图",
@@ -8787,20 +8907,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15344,
+      "num": 112257,
+      "word": "大学生家有三层酒店却装穷骗助学金",
+      "onboard_time": 1774364735,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15051,
       "num": 30527,
       "word": "侯明昊加入太湖湾音乐节",
       "onboard_time": 1774291454,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14911,
-      "num": 1026848,
-      "word": "太空加油站新进展",
-      "onboard_time": 1774360582,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14479,
