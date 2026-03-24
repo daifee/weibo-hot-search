@@ -1,6 +1,6 @@
 {
   "startTime": 1774372134651,
-  "endTime": 1774388750924,
+  "endTime": 1774389694081,
   "band_list": [
     {
       "raw_hot": 1589478,
@@ -43,6 +43,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 480078,
+      "num": 154778,
+      "word": "猝死前1小时身体的预警",
+      "onboard_time": 1774378034,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 469383,
       "num": 258629,
       "word": "峰学蔚来",
@@ -73,14 +81,6 @@
       "onboard_time": 1774351829,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 375197,
-      "num": 119831,
-      "word": "猝死前1小时身体的预警",
-      "onboard_time": 1774378034,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 312997,
@@ -163,6 +163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 101694,
+      "num": 101694,
+      "word": "警惕嘴唇发紫可能是心肺重症信号",
+      "onboard_time": 1774377795,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 91206,
       "num": 108451,
       "word": "邓凯孔雪儿借位吻",
@@ -187,7 +195,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 83071,
+      "raw_hot": 87445,
       "num": 40833,
       "word": "张雪峰 为学生打破信息差",
       "onboard_time": 1774382954,
@@ -195,12 +203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75785,
-      "num": 75785,
-      "word": "警惕嘴唇发紫可能是心肺重症信号",
-      "onboard_time": 1774377795,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
+      "raw_hot": 79213,
+      "num": 52757,
+      "word": "张雪峰8年前曾谈猝死",
+      "onboard_time": 1774376356,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74731,
@@ -233,14 +241,6 @@
       "onboard_time": 1774351587,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64668,
-      "num": 52757,
-      "word": "张雪峰8年前曾谈猝死",
-      "onboard_time": 1774376356,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62229,
@@ -283,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 52927,
+      "num": 26028,
+      "word": "6类人高强度运动猝死风险高",
+      "onboard_time": 1774377795,
+      "rank": 30,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 51427,
       "num": 107603,
       "word": "伊朗喊美国做个了断",
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45620,
+      "num": 45620,
+      "word": "以色列战损窟窿越来越大",
+      "onboard_time": 1774381514,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44507,
       "num": 107316,
       "word": "过度运动",
@@ -331,28 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43707,
-      "num": 24435,
-      "word": "6类人高强度运动猝死风险高",
-      "onboard_time": 1774377795,
-      "rank": 30,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 43520,
       "num": 107122,
       "word": "管泽元升级当爸",
       "onboard_time": 1774352550,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 43515,
-      "num": 43515,
-      "word": "以色列战损窟窿越来越大",
-      "onboard_time": 1774381514,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42959,
@@ -459,8 +459,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24508,
-      "num": 24425,
+      "raw_hot": 27492,
+      "num": 27492,
+      "word": "老天爷追着喂饭 瞿颖全婉拒了",
+      "onboard_time": 1774377616,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26249,
+      "num": 26020,
       "word": "38岁男子打10分钟羽毛球后心梗",
       "onboard_time": 1774379655,
       "rank": 31,
@@ -475,20 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23215,
-      "num": 24412,
-      "word": "老天爷追着喂饭 瞿颖全婉拒了",
-      "onboard_time": 1774377616,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23043,
-      "num": 24467,
+      "num": 25981,
       "word": "出现猝死征兆如何自救",
       "onboard_time": 1774378334,
       "rank": 28,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 22918,
+      "num": 26003,
+      "word": "刘宇宁开推4首案录制路透",
+      "onboard_time": 1774386015,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 21937,
@@ -499,12 +507,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21855,
+      "num": 25994,
+      "word": "谍报上不封顶",
+      "onboard_time": 1774381274,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21531,
       "num": 58192,
       "word": "王鹤棣单手提枪",
       "onboard_time": 1774375755,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19056,
+      "num": 57803,
+      "word": "王一博上海耐力赛纪录片",
+      "onboard_time": 1774364675,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 18967,
@@ -515,32 +539,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18205,
-      "num": 24399,
-      "word": "谍报上不封顶",
-      "onboard_time": 1774381274,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 17860,
-      "num": 24293,
-      "word": "刘宇宁开推4首案录制路透",
-      "onboard_time": 1774386015,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15641,
-      "num": 57803,
-      "word": "王一博上海耐力赛纪录片",
-      "onboard_time": 1774364675,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 14796,
-      "num": 24349,
+      "num": 25880,
       "word": "卓沅收工照",
       "onboard_time": 1774374618,
       "rank": 44,
