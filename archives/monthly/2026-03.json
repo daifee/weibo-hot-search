@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774329158614,
+  "endTime": 1774332587257,
   "band_list": [
     {
       "raw_hot": 15890681,
@@ -425,6 +425,14 @@
       "onboard_time": 1773139522,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1792417,
+      "num": 179365,
+      "word": "以色列被打穿了",
+      "onboard_time": 1774329321,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1788216,
@@ -1761,6 +1769,14 @@
       "onboard_time": 1772443465,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 972132,
+      "num": 594893,
+      "word": "周杰伦太阳之子MV",
+      "onboard_time": 1774328722,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 967463,
@@ -3755,6 +3771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 657982,
+      "num": 169429,
+      "word": "周杰伦新歌",
+      "onboard_time": 1774329621,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 657229,
       "num": 251509,
       "word": "逐玉 肛泰别闹了",
@@ -4451,6 +4475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 602019,
+      "num": 141975,
+      "word": "男友离世前转地铁吐血女孩5万治病",
+      "onboard_time": 1774329321,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 601964,
       "num": 300945,
       "word": "张凌赫喜欢浴池吻 好糟糕的原因",
@@ -4569,14 +4601,6 @@
       "onboard_time": 1773586345,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 594893,
-      "num": 594893,
-      "word": "周杰伦太阳之子MV",
-      "onboard_time": 1774328722,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 594866,
@@ -7673,6 +7697,14 @@
       "onboard_time": 1773397940,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 441593,
+      "num": 120680,
+      "word": "第一批丁克家庭现状曝光",
+      "onboard_time": 1774329680,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 441404,
@@ -14483,6 +14515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 270448,
+      "num": 203622,
+      "word": "14岁少年遭虐待离世伤痕遍布全身",
+      "onboard_time": 1774325781,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270409,
       "num": 225540,
       "word": "丞磊郭宇欣扇巴掌路透",
@@ -14593,6 +14633,14 @@
       "onboard_time": 1773733879,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268640,
+      "num": 140574,
+      "word": "孟羽童自曝失恋一周无法工作",
+      "onboard_time": 1774330101,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 268011,
@@ -17571,6 +17619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 223666,
+      "num": 139670,
+      "word": "少年被虐致死家族群里都是伤痕照片",
+      "onboard_time": 1774328540,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223520,
       "num": 202895,
       "word": "女子脖子疼一周确诊胃癌已全身转移",
@@ -18891,6 +18947,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 207109,
+      "num": 760097,
+      "word": "中园石化碰瓷中国石化",
+      "onboard_time": 1774328781,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207020,
       "num": 1033123,
       "word": "外交部长王毅答记者问",
@@ -19169,14 +19233,6 @@
       "onboard_time": 1772687123,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 203622,
-      "num": 203622,
-      "word": "14岁少年遭虐待离世伤痕遍布全身",
-      "onboard_time": 1774325781,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203428,
@@ -22049,6 +22105,14 @@
       "onboard_time": 1773250636,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172007,
+      "num": 172007,
+      "word": "迪士尼 物价",
+      "onboard_time": 1774330400,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171975,
@@ -26699,6 +26763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138583,
+      "num": 138583,
+      "word": "14岁少年被虐致死小区业主物业发声",
+      "onboard_time": 1774329740,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138541,
       "num": 299084,
       "word": "王赫野周震南这主意到底谁出的",
@@ -29867,6 +29939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121090,
+      "num": 121090,
+      "word": "张凌赫在座的各位不要当我爸爸了",
+      "onboard_time": 1774332499,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121067,
       "num": 288010,
       "word": "苹果官网仅剩两款128GB手机",
@@ -31377,6 +31457,14 @@
       "onboard_time": 1772864781,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114545,
+      "num": 114545,
+      "word": "美国打不赢还走不了",
+      "onboard_time": 1774329861,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114535,
@@ -34611,6 +34699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103156,
+      "num": 103156,
+      "word": "周大福暂缓涨价",
+      "onboard_time": 1774330162,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103092,
       "num": 372699,
       "word": "这就是未来五年的中国",
@@ -34840,14 +34936,6 @@
       "word": "金价暴涨的第一批受害者出现了",
       "onboard_time": 1773791540,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102328,
-      "num": 102328,
-      "word": "少年被虐致死家族群里都是伤痕照片",
-      "onboard_time": 1774328540,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -41091,14 +41179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86990,
-      "num": 138796,
-      "word": "中园石化碰瓷中国石化",
-      "onboard_time": 1774328781,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86986,
       "num": 86986,
       "word": "一张图把广告法违反了个遍",
@@ -42203,6 +42283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84457,
+      "num": 83654,
+      "word": "文韬北大金融系的含金量",
+      "onboard_time": 1774330581,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84419,
       "num": 227110,
       "word": "保时捷Taycan",
@@ -43107,6 +43195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82493,
+      "num": 100117,
+      "word": "杨瀚森4分3板",
+      "onboard_time": 1774331000,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82481,
       "num": 82481,
       "word": "行政果切被老板说不够高档",
@@ -43443,6 +43539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81869,
+      "num": 81869,
+      "word": "赚1700用了半个月亏5770用了一天",
+      "onboard_time": 1774330220,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81865,
       "num": 81865,
       "word": "姿态担任Uzi队教练",
@@ -43641,6 +43745,14 @@
       "onboard_time": 1774181781,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81470,
+      "num": 81470,
+      "word": "徐若晗玉簟秋拍了150天",
+      "onboard_time": 1774330940,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 81426,
@@ -44651,6 +44763,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 79410,
+      "num": 79410,
+      "word": "Fly九周年发长文",
+      "onboard_time": 1774329800,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79333,
       "num": 79333,
       "word": "永远被灵器认主的设定爽到",
@@ -45203,6 +45323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78124,
+      "num": 78124,
+      "word": "脂肪都得排队喊大哥",
+      "onboard_time": 1774331180,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 78118,
       "num": 99977,
       "word": "PEL春季赛",
@@ -45401,6 +45529,14 @@
       "onboard_time": 1773315501,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77740,
+      "num": 77740,
+      "word": "现在的狗咖都发展成这样了",
+      "onboard_time": 1774331841,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 77736,
@@ -45849,6 +45985,14 @@
       "onboard_time": 1774263141,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 77019,
+      "num": 77019,
+      "word": "老人感染HIV后还需靠年迈父母照料",
+      "onboard_time": 1774332321,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76990,
@@ -47291,6 +47435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74340,
+      "num": 74340,
+      "word": "美国伊朗到底谈没谈",
+      "onboard_time": 1774331300,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74324,
       "num": 104235,
       "word": "2岁儿童就诊才知已有7颗蛀牙",
@@ -48075,6 +48227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72741,
+      "num": 72741,
+      "word": "西班牙首相桑切斯将于4月访华",
+      "onboard_time": 1774332381,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72738,
       "num": 292379,
       "word": "雷军回应小米手机龙虾",
@@ -48257,6 +48417,14 @@
       "onboard_time": 1774097842,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 72437,
+      "num": 72437,
+      "word": "开推4宣传迪丽热巴白日提灯",
+      "onboard_time": 1774330641,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 72420,
@@ -50227,6 +50395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67852,
+      "num": 67852,
+      "word": "医药生物板块爆发",
+      "onboard_time": 1774332201,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67843,
       "num": 67843,
       "word": "人怎么能和声音熟成这样",
@@ -50456,6 +50632,14 @@
       "word": "别轻易跟不熟的朋友去迪士尼",
       "onboard_time": 1773050542,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67269,
+      "num": 67269,
+      "word": "猫咪脑瓜子嘎嘎响",
+      "onboard_time": 1774332440,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -52649,6 +52833,14 @@
       "onboard_time": 1774273825,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62347,
+      "num": 99268,
+      "word": "梅姨落网电影亲爱的原型发声",
+      "onboard_time": 1774330281,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62344,
@@ -63881,6 +64073,14 @@
       "onboard_time": 1772865561,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8792,
+      "num": 77613,
+      "word": "起底民营医院种牙专家",
+      "onboard_time": 1774332440,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 8050,
