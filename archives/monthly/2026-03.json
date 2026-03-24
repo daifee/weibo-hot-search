@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774372134651,
+  "endTime": 1774373537041,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -5323,6 +5323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 568179,
+      "num": 568179,
+      "word": "早睡",
+      "onboard_time": 1774369941,
+      "rank": 4,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 567990,
       "num": 254375,
       "word": "张凌赫杂志",
@@ -9107,14 +9115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 406600,
-      "num": 406600,
-      "word": "早睡",
-      "onboard_time": 1774369941,
-      "rank": 4,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 406405,
       "num": 406405,
       "word": "张柏芝一把夺过粉丝手机合拍",
@@ -12889,6 +12889,14 @@
       "onboard_time": 1772954300,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 310120,
+      "num": 161811,
+      "word": "人生真好玩 下辈子还来",
+      "onboard_time": 1774372278,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310108,
@@ -27123,6 +27131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141895,
+      "num": 115992,
+      "word": "宁艺卓ins点赞刘美贤",
+      "onboard_time": 1774369701,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141844,
       "num": 141844,
       "word": "四川绵竹3.4级地震",
@@ -32201,14 +32217,6 @@
       "onboard_time": 1773292821,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115992,
-      "num": 115992,
-      "word": "宁艺卓ins点赞刘美贤",
-      "onboard_time": 1774369701,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 115982,
@@ -40609,6 +40617,14 @@
       "onboard_time": 1773531077,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91206,
+      "num": 108451,
+      "word": "邓凯孔雪儿借位吻",
+      "onboard_time": 1774370002,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 91198,
@@ -52339,14 +52355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66875,
-      "num": 108451,
-      "word": "邓凯孔雪儿借位吻",
-      "onboard_time": 1774370002,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 66870,
       "num": 66870,
       "word": "伊朗核设施遭袭现场画面",
@@ -55051,6 +55059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60633,
+      "num": 107963,
+      "word": "胡锡进为张雪峰唏嘘难过",
+      "onboard_time": 1774371859,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60583,
       "num": 60583,
       "word": "猫猫被自己美了一大跳",
@@ -55065,14 +55081,6 @@
       "onboard_time": 1773913762,
       "rank": 47,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 60555,
-      "num": 107963,
-      "word": "胡锡进为张雪峰唏嘘难过",
-      "onboard_time": 1774371859,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60540,
@@ -63609,6 +63617,14 @@
       "onboard_time": 1773136826,
       "rank": 19,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 21937,
+      "num": 74581,
+      "word": "大学生口中吃顿好的",
+      "onboard_time": 1774372518,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 21909,
