@@ -1,0 +1,410 @@
+{
+  "runTime": 1774322452963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 926881,
+        "num": 1148301,
+        "word": "开始推理吧直播",
+        "onboard_time": 1774318461,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605631,
+        "num": 824459,
+        "word": "上海迪士尼70元1个包子网友怒了",
+        "onboard_time": 1774318819,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24142,
+        "num": 650868,
+        "word": "稳定发展是中国人民的坚实底气",
+        "onboard_time": 1774319421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 456935,
+        "num": 456935,
+        "word": "美国得州炼油厂发生爆炸",
+        "onboard_time": 1774317199,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 292122,
+        "num": 292122,
+        "word": "真正的麻辣香锅已经非常罕见了",
+        "onboard_time": 1774309219,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 472964,
+        "num": 288207,
+        "word": "浅浅为俞宝儿改名齐煜",
+        "onboard_time": 1774316241,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326272,
+        "num": 287554,
+        "word": "单休一天出了一趟国",
+        "onboard_time": 1774313482,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263322,
+        "num": 263322,
+        "word": "开推4迪丽热巴退出丁程鑫加入",
+        "onboard_time": 1774308199,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200521,
+        "num": 200521,
+        "word": "海马体为出片要求穿长裙致孕妇摔倒",
+        "onboard_time": 1774308379,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18348,
+        "num": 200311,
+        "word": "国防泡沫挽救不了日本经济",
+        "onboard_time": 1774321881,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 638115,
+        "num": 199119,
+        "word": "美团删照片",
+        "onboard_time": 1774310060,
+        "rank": 10,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 620138,
+        "num": 197573,
+        "word": "地铁吐血女孩因重病拒绝男友求婚",
+        "onboard_time": 1774313601,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518419,
+        "num": 196374,
+        "word": "iPhone史上最大规模产品革新来了",
+        "onboard_time": 1774320681,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 372344,
+        "num": 194488,
+        "word": "刘亦菲安妮海瑟薇互相搂腰",
+        "onboard_time": 1774318581,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201984,
+        "num": 193065,
+        "word": "白日提灯",
+        "onboard_time": 1774319600,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192591,
+        "num": 192591,
+        "word": "女教师称要是班主任把你们折磨到死",
+        "onboard_time": 1774314381,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164374,
+        "num": 164374,
+        "word": "A股集体高开",
+        "onboard_time": 1774317620,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160632,
+        "num": 160632,
+        "word": "伊朗公布袭击美军基地前后对比照",
+        "onboard_time": 1774312222,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 155642,
+        "num": 155642,
+        "word": "开推4女生只剩金靖了",
+        "onboard_time": 1774320981,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145234,
+        "num": 145234,
+        "word": "张楚寒邓凯吻戏",
+        "onboard_time": 1774321820,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225355,
+        "num": 143495,
+        "word": "第一批金价下跌受害者发声",
+        "onboard_time": 1774320139,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 350563,
+        "num": 141549,
+        "word": "张凌赫为什么被称为粉底液将军",
+        "onboard_time": 1774308499,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145666,
+        "num": 141127,
+        "word": "一个预防胃癌最简单的方法",
+        "onboard_time": 1774313301,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139168,
+        "num": 139168,
+        "word": "生命树集均1381万",
+        "onboard_time": 1774322361,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135584,
+        "num": 135584,
+        "word": "金银继续下跌",
+        "onboard_time": 1774319780,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129581,
+        "num": 129581,
+        "word": "伊朗称美为操纵市场散布假新闻",
+        "onboard_time": 1774308438,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123757,
+        "num": 123757,
+        "word": "虞书欣名誉权案被告登报致歉",
+        "onboard_time": 1774316480,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122994,
+        "num": 122994,
+        "word": "金店店员称金价降幅有限",
+        "onboard_time": 1774319300,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121075,
+        "num": 121075,
+        "word": "情侣住酒店正亲密时被员工开窗",
+        "onboard_time": 1774278261,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73698,
+        "num": 118110,
+        "word": "美国纽约机场接连发生事故",
+        "onboard_time": 1774283539,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116587,
+        "num": 116587,
+        "word": "中东已经够乱了",
+        "onboard_time": 1774321400,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98277,
+        "num": 98277,
+        "word": "缓解上班焦虑情绪的方法",
+        "onboard_time": 1774321641,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95782,
+        "num": 95782,
+        "word": "范丞丞被安利看逐玉",
+        "onboard_time": 1774313180,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95724,
+        "num": 95724,
+        "word": "当代年轻人的潮流三件套",
+        "onboard_time": 1774313721,
+        "rank": 33,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 74322,
+        "num": 90995,
+        "word": "美第31海军陆战队远征队27日抵中东",
+        "onboard_time": 1774314201,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 90075,
+        "num": 90075,
+        "word": "人的主体性来源于大量频繁表达自己",
+        "onboard_time": 1774320861,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88390,
+        "num": 88390,
+        "word": "日本考虑派兵去霍尔木兹海峡扫雷",
+        "onboard_time": 1774316180,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87734,
+        "num": 87734,
+        "word": "官方通报秦岭乱扔垃圾起冲突事件",
+        "onboard_time": 1774322000,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71198,
+        "num": 87599,
+        "word": "四川天府机场多名老人扶梯上逆行",
+        "onboard_time": 1774286716,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87540,
+        "num": 87540,
+        "word": "睡不好是身体在给你发信号",
+        "onboard_time": 1774321519,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83797,
+        "num": 83797,
+        "word": "手机涨价潮到来",
+        "onboard_time": 1774308799,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83511,
+        "num": 83511,
+        "word": "柯佳嬿方回应参加浪姐",
+        "onboard_time": 1774316962,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81865,
+        "num": 81865,
+        "word": "姿态担任Uzi队教练",
+        "onboard_time": 1774321341,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77067,
+        "num": 77067,
+        "word": "邓凯睡不着但得睡",
+        "onboard_time": 1774309702,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75021,
+        "num": 75021,
+        "word": "客服回应美团删照片",
+        "onboard_time": 1774321281,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 73915,
+        "num": 73915,
+        "word": "哥伦比亚军机坠毁已致66死",
+        "onboard_time": 1774319181,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73572,
+        "num": 73572,
+        "word": "陈梦谈未来退役后的打算",
+        "onboard_time": 1774320080,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71429,
+        "num": 71429,
+        "word": "王者万象棋终测开启",
+        "onboard_time": 1774322120,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70888,
+        "num": 70888,
+        "word": "无法共情小时候的自己",
+        "onboard_time": 1774322300,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66800,
+        "num": 66800,
+        "word": "Viper四次创造队史",
+        "onboard_time": 1774318698,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#雄安建设新时代创新高地#"
+    }
+  }
+}
