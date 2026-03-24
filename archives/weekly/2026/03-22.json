@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774380957617,
+  "endTime": 1774385568858,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -7339,6 +7339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67030,
+      "num": 35946,
+      "word": "张雪峰 为学生打破信息差",
+      "onboard_time": 1774382954,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66958,
       "num": 66958,
       "word": "伊朗回应特朗普威胁言论",
@@ -8563,6 +8571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 37254,
+      "num": 37254,
+      "word": "以色列战损窟窿越来越大",
+      "onboard_time": 1774381514,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37128,
       "num": 123695,
       "word": "张元英GENIE完整版正面直拍",
@@ -9145,6 +9161,14 @@
       "onboard_time": 1774219936,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17116,
+      "num": 17116,
+      "word": "谍报上不封顶",
+      "onboard_time": 1774381274,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 17049,
