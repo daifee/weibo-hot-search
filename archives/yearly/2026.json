@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774406768413,
+  "endTime": 1774409116825,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1523,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2194961,
+      "num": 489758,
+      "word": "朱伟知道张雪峰去世后哭了",
+      "onboard_time": 1774407924,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2190334,
       "num": 1016235,
       "word": "杨幂总台视后",
@@ -2203,6 +2211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1767271,
+      "num": 628094,
+      "word": "避谶",
+      "onboard_time": 1774396104,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1765303,
       "num": 423317,
       "word": "董子健回复孙怡",
@@ -2384,22 +2400,6 @@
       "word": "谢娜恳请不要将镜头对准孩子",
       "onboard_time": 1771999401,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1699835,
-      "num": 593000,
-      "word": "黄金",
-      "onboard_time": 1767579621,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 1698671,
-      "num": 246378,
-      "word": "孟佳开撕品牌方",
-      "onboard_time": 1773999800,
-      "rank": 26,
       "category": "艺人"
     }
   ],
