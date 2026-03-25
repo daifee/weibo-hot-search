@@ -1,0 +1,410 @@
+{
+  "runTime": 1774426072031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1486801,
+        "num": 1486801,
+        "word": "徐涛课程取消",
+        "onboard_time": 1774422383,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 641397,
+        "num": 874491,
+        "word": "何凯文 我连假装较劲的对象都没了",
+        "onboard_time": 1774424545,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63699,
+        "num": 734221,
+        "word": "9年时间雄安新区长成了啥模样",
+        "onboard_time": 1774423704,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275057,
+        "num": 275057,
+        "word": "和平统一后大陆可帮台湾建环岛高铁",
+        "onboard_time": 1774416203,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225035,
+        "num": 225035,
+        "word": "花27万买摊位老板开业5天快回本一半",
+        "onboard_time": 1774416023,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443699,
+        "num": 225021,
+        "word": "张雪峰曾含泪说苦和累都是为了家人",
+        "onboard_time": 1774424182,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226440,
+        "num": 224365,
+        "word": "去动物园一定不要穿水果鞋",
+        "onboard_time": 1774417163,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156076,
+        "num": 223938,
+        "word": "过度自律",
+        "onboard_time": 1774412244,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143870,
+        "num": 223534,
+        "word": "央视新闻发了逐玉",
+        "onboard_time": 1774413326,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128586,
+        "num": 223027,
+        "word": "3个旧手机能换一台iPhone",
+        "onboard_time": 1774424363,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1798062,
+        "num": 222810,
+        "word": "张雪峰离世留下的生意与争议",
+        "onboard_time": 1774423222,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510909,
+        "num": 222331,
+        "word": "小泡芙颜值",
+        "onboard_time": 1774424663,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 856683,
+        "num": 221841,
+        "word": "大冰曾劝张雪峰做了好事要往外说",
+        "onboard_time": 1774421603,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377172,
+        "num": 221340,
+        "word": "何润东 翻红",
+        "onboard_time": 1774419023,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350472,
+        "num": 221049,
+        "word": "刘晓庆再发文辟谣去世",
+        "onboard_time": 1774424002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231190,
+        "num": 220634,
+        "word": "心源性猝死急救最忌打车去医院",
+        "onboard_time": 1774420282,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239142,
+        "num": 220373,
+        "word": "李艺彤哭着和粉丝道歉",
+        "onboard_time": 1774419203,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220084,
+        "num": 220084,
+        "word": "程潇 布偶猫",
+        "onboard_time": 1774423582,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203299,
+        "num": 203299,
+        "word": "遭虐待男童反复说妈妈你能带我走吗",
+        "onboard_time": 1774418422,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52222,
+        "num": 201825,
+        "word": "扎着马步吃麦辣夯爆了",
+        "onboard_time": 1774424363,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 514240,
+        "num": 199475,
+        "word": "线下追星 拼床",
+        "onboard_time": 1774422443,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279289,
+        "num": 194006,
+        "word": "越来越多日本女性为供养牛郎跨境卖淫",
+        "onboard_time": 1774421363,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213211,
+        "num": 190953,
+        "word": "浪姐7阵容",
+        "onboard_time": 1774408224,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81080,
+        "num": 184570,
+        "word": "外交部发言人反问",
+        "onboard_time": 1774425923,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184223,
+        "num": 184223,
+        "word": "偶遇孔刘与男子搭肩散步",
+        "onboard_time": 1774419623,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182232,
+        "num": 182232,
+        "word": "美国男子养老院强奸61岁老人被拍下",
+        "onboard_time": 1774418303,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174610,
+        "num": 174610,
+        "word": "颜如晶一年减重2.9斤",
+        "onboard_time": 1774403421,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168711,
+        "num": 168711,
+        "word": "金智媛宝格丽合照C位",
+        "onboard_time": 1774423044,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150698,
+        "num": 150698,
+        "word": "朋友圈跑步打卡",
+        "onboard_time": 1774420943,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 168464,
+        "num": 139017,
+        "word": "奔跑吧",
+        "onboard_time": 1774414885,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190814,
+        "num": 136878,
+        "word": "油管网红露脸导致事业被毁",
+        "onboard_time": 1774423944,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126649,
+        "num": 126649,
+        "word": "张雪峰生前开导抑郁女孩",
+        "onboard_time": 1774423521,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153494,
+        "num": 126618,
+        "word": "迪丽热巴陈飞宇一个爆炸头一个牛舔头",
+        "onboard_time": 1774423163,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121427,
+        "num": 121427,
+        "word": "逐玉爆火后最大的受害者",
+        "onboard_time": 1774424483,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109095,
+        "num": 109095,
+        "word": "多位年轻企业家因心梗离世",
+        "onboard_time": 1774424123,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97807,
+        "num": 108828,
+        "word": "严浩翔新歌暗黑美学",
+        "onboard_time": 1774424002,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11664,
+        "num": 108067,
+        "word": "霍建华当导演",
+        "onboard_time": 1774425923,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38889,
+        "num": 106853,
+        "word": "随元青竟然欺负洪世贤艾莉儿子",
+        "onboard_time": 1774413446,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24273,
+        "num": 106669,
+        "word": "被塞后备箱男孩现在很活泼",
+        "onboard_time": 1774425923,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41896,
+        "num": 105242,
+        "word": "情侣正亲密被酒店员工开窗最新进展",
+        "onboard_time": 1774424963,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116415,
+        "num": 104409,
+        "word": "杨笠说我撑过来了",
+        "onboard_time": 1774422383,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104379,
+        "num": 104379,
+        "word": "商场回应专柜买4个LV包为假货",
+        "onboard_time": 1774425084,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103983,
+        "num": 103983,
+        "word": "嘴唇发紫 心脏不好",
+        "onboard_time": 1774399346,
+        "rank": 42,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 100038,
+        "num": 100038,
+        "word": "周杰伦新歌从夯到拉排名",
+        "onboard_time": 1774402464,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97968,
+        "num": 97968,
+        "word": "肖战在锦州时给流浪猫买了猫窝",
+        "onboard_time": 1774422443,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85622,
+        "num": 93765,
+        "word": "伊朗喊话美国别把失败说成协议",
+        "onboard_time": 1774416144,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91597,
+        "num": 91597,
+        "word": "迪丽热巴贺思慕特效妆vlog",
+        "onboard_time": 1774424782,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87211,
+        "num": 87211,
+        "word": "都来向刘晓庆学习就不死",
+        "onboard_time": 1774420043,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83943,
+        "num": 83943,
+        "word": "A股大反弹能持续多久",
+        "onboard_time": 1774422743,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81973,
+        "num": 81973,
+        "word": "青菜焦虑症",
+        "onboard_time": 1774426042,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系雄安小树苗#"
+    }
+  }
+}
