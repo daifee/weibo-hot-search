@@ -1,6 +1,6 @@
 {
   "startTime": 1774458791432,
-  "endTime": 1774471805994,
+  "endTime": 1774472519593,
   "band_list": [
     {
       "raw_hot": 268742,
@@ -475,20 +475,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 12382,
+      "num": 14218,
+      "word": "黄金暴跌超10%又暴力反弹",
+      "onboard_time": 1774452082,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 12347,
       "num": 15857,
       "word": "速效救心丸什么时候用",
       "onboard_time": 1774457359,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 12089,
-      "num": 14218,
-      "word": "黄金暴跌超10%又暴力反弹",
-      "onboard_time": 1774452082,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 10834,
