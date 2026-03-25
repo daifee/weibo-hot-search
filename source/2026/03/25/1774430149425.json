@@ -1,0 +1,410 @@
+{
+  "runTime": 1774430149425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 354480,
+        "num": 1056716,
+        "word": "3个旧手机能换一台iPhone",
+        "onboard_time": 1774424363,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 231002,
+        "num": 789915,
+        "word": "奔跑吧14定档",
+        "onboard_time": 1774429283,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48181,
+        "num": 618570,
+        "word": "9年时间雄安新区长成了啥模样",
+        "onboard_time": 1774423704,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354309,
+        "num": 354309,
+        "word": "宋雨琦周深缺席奔跑吧",
+        "onboard_time": 1774429043,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226136,
+        "num": 311642,
+        "word": "花27万买摊位老板开业5天快回本一半",
+        "onboard_time": 1774416023,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299815,
+        "num": 299815,
+        "word": "志愿填报期张雪峰5天睡不到8小时",
+        "onboard_time": 1774427842,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251496,
+        "num": 298531,
+        "word": "伊朗称美中东投资将不复存在",
+        "onboard_time": 1774428623,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187698,
+        "num": 294608,
+        "word": "去动物园一定不要穿水果鞋",
+        "onboard_time": 1774417163,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163955,
+        "num": 288652,
+        "word": "和平统一后大陆可帮台湾建环岛高铁",
+        "onboard_time": 1774416203,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88249,
+        "num": 283584,
+        "word": "统一后台湾民众可以自驾直达北京",
+        "onboard_time": 1774429222,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 736025,
+        "num": 275976,
+        "word": "大爷心源性猝死沉睡3天被救回",
+        "onboard_time": 1774426643,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562743,
+        "num": 269639,
+        "word": "晋江 花了好多钱",
+        "onboard_time": 1774426161,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 427202,
+        "num": 263656,
+        "word": "展轩发文回应",
+        "onboard_time": 1774428262,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263427,
+        "num": 263427,
+        "word": "多位年轻企业家因心梗离世",
+        "onboard_time": 1774424123,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261473,
+        "num": 261473,
+        "word": "高考钉子户悼念张雪峰",
+        "onboard_time": 1774428443,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234799,
+        "num": 234799,
+        "word": "何润东 翻红",
+        "onboard_time": 1774419023,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224680,
+        "num": 224680,
+        "word": "蓝莓 寒性",
+        "onboard_time": 1774427303,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217499,
+        "num": 217499,
+        "word": "奔跑吧",
+        "onboard_time": 1774414885,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74732,
+        "num": 214359,
+        "word": "研究所所长被曝涉嫌猥亵下属",
+        "onboard_time": 1774429163,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64275,
+        "num": 212810,
+        "word": "官方通报公职人员追打理发店主",
+        "onboard_time": 1774429222,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 304439,
+        "num": 212749,
+        "word": "线下追星 拼床",
+        "onboard_time": 1774422443,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212688,
+        "num": 212688,
+        "word": "油管网红露脸导致事业被毁",
+        "onboard_time": 1774423944,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 186655,
+        "num": 186655,
+        "word": "越来越多日本女性为供养牛郎跨境卖淫",
+        "onboard_time": 1774421363,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166953,
+        "num": 166953,
+        "word": "古偶粉底液将军101",
+        "onboard_time": 1774429043,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163487,
+        "num": 163487,
+        "word": "刘晓庆再发文辟谣去世",
+        "onboard_time": 1774424002,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161681,
+        "num": 161681,
+        "word": "心源性猝死急救最忌打车去医院",
+        "onboard_time": 1774420282,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160858,
+        "num": 160858,
+        "word": "程潇 布偶猫",
+        "onboard_time": 1774423582,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157037,
+        "num": 157037,
+        "word": "美国男子养老院强奸61岁老人被拍下",
+        "onboard_time": 1774418303,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142234,
+        "num": 142234,
+        "word": "张凌赫透明的前半生",
+        "onboard_time": 1774425683,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95178,
+        "num": 131350,
+        "word": "四川乐山一公交车车身广告语引争议",
+        "onboard_time": 1774428924,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126433,
+        "num": 126433,
+        "word": "浪姐7阵容",
+        "onboard_time": 1774408224,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125417,
+        "num": 125417,
+        "word": "金智媛宝格丽合照C位",
+        "onboard_time": 1774423044,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 115691,
+        "num": 115691,
+        "word": "女子将房产过户前夫换回被虐待儿女",
+        "onboard_time": 1774427364,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113747,
+        "num": 113747,
+        "word": "心源性猝死两大诱因需警惕",
+        "onboard_time": 1774429403,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105659,
+        "num": 105659,
+        "word": "香港五尸命案凶宅拍卖",
+        "onboard_time": 1774427902,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104149,
+        "num": 104149,
+        "word": "李艺彤哭着和粉丝道歉",
+        "onboard_time": 1774419203,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100322,
+        "num": 100322,
+        "word": "伊朗称没人能信任美国的外交",
+        "onboard_time": 1774428503,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96669,
+        "num": 96669,
+        "word": "心源性猝死的原理",
+        "onboard_time": 1774428623,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29591,
+        "num": 93153,
+        "word": "女子月经来20多天致重度贫血",
+        "onboard_time": 1774429523,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13738,
+        "num": 93045,
+        "word": "记者暗访洗浴中心毛巾卫生问题",
+        "onboard_time": 1774429762,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 93022,
+        "num": 93022,
+        "word": "清清没有入选最佳选手提名",
+        "onboard_time": 1774428983,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86872,
+        "num": 86872,
+        "word": "迪丽热巴陈飞宇一个爆炸头一个牛舔头",
+        "onboard_time": 1774423163,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86297,
+        "num": 86297,
+        "word": "偶遇孔刘与男子搭肩散步",
+        "onboard_time": 1774419623,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85497,
+        "num": 85497,
+        "word": "医生看面部发现猝死先兆救下一命",
+        "onboard_time": 1774427663,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84415,
+        "num": 84415,
+        "word": "张凌赫周柯宇刘宇宁开推造型",
+        "onboard_time": 1774429702,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84025,
+        "num": 84025,
+        "word": "董璇说张维伊这次买单挺快啊",
+        "onboard_time": 1774429823,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83678,
+        "num": 83678,
+        "word": "重庆一水库千手观音石像露出水面",
+        "onboard_time": 1774426824,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81233,
+        "num": 81233,
+        "word": "Uzi杯",
+        "onboard_time": 1774427783,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80891,
+        "num": 80891,
+        "word": "特斯拉Model3标准版或将在华上市",
+        "onboard_time": 1774427364,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 79484,
+        "num": 79484,
+        "word": "宋雨琦因伤暂时缺席录制跑男",
+        "onboard_time": 1774430123,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系雄安小树苗#"
+    }
+  }
+}

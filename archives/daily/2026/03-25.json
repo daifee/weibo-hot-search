@@ -1,6 +1,6 @@
 {
   "startTime": 1774372134651,
-  "endTime": 1774429447156,
+  "endTime": 1774430149425,
   "band_list": [
     {
       "raw_hot": 2601228,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 842817,
-      "num": 200833,
+      "num": 275976,
       "word": "大爷心源性猝死沉睡3天被救回",
       "onboard_time": 1774426643,
       "rank": 6,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562743,
+      "num": 269639,
+      "word": "晋江 花了好多钱",
+      "onboard_time": 1774426161,
+      "rank": 10,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 549625,
       "num": 255908,
       "word": "朱伟长文悼念张雪峰",
@@ -337,14 +345,6 @@
       "onboard_time": 1774414885,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 496692,
-      "num": 191198,
-      "word": "晋江 花了好多钱",
-      "onboard_time": 1774426161,
-      "rank": 10,
-      "category": "读书作家"
     },
     {
       "raw_hot": 478350,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427202,
+      "num": 263656,
+      "word": "展轩发文回应",
+      "onboard_time": 1774428262,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416985,
       "num": 416985,
       "word": "向太说人一定要学会避谶",
@@ -465,6 +473,22 @@
       "onboard_time": 1774411763,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 354480,
+      "num": 1056716,
+      "word": "3个旧手机能换一台iPhone",
+      "onboard_time": 1774424363,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 354309,
+      "num": 354309,
+      "word": "宋雨琦周深缺席奔跑吧",
+      "onboard_time": 1774429043,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 345030,
@@ -523,14 +547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 320826,
-      "num": 1051332,
-      "word": "3个旧手机能换一台iPhone",
-      "onboard_time": 1774424363,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 319223,
       "num": 319223,
       "word": "中园石化加油站被立案调查",
@@ -563,20 +579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299815,
+      "num": 299815,
+      "word": "志愿填报期张雪峰5天睡不到8小时",
+      "onboard_time": 1774427842,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294994,
       "num": 214383,
       "word": "越来越多日本女性为供养牛郎跨境卖淫",
       "onboard_time": 1774421363,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 286095,
-      "num": 190844,
-      "word": "展轩发文回应",
-      "onboard_time": 1774428262,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 271445,
@@ -595,6 +611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 263427,
+      "num": 263427,
+      "word": "多位年轻企业家因心梗离世",
+      "onboard_time": 1774424123,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261607,
       "num": 261607,
       "word": "张雪峰骑小电驴上下班",
@@ -603,11 +627,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 257619,
-      "num": 198964,
-      "word": "多位年轻企业家因心梗离世",
-      "onboard_time": 1774424123,
-      "rank": 33,
+      "raw_hot": 261473,
+      "num": 261473,
+      "word": "高考钉子户悼念张雪峰",
+      "onboard_time": 1774428443,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -627,6 +651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 251496,
+      "num": 298531,
+      "word": "伊朗称美中东投资将不复存在",
+      "onboard_time": 1774428623,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 239788,
       "num": 239788,
       "word": "安睡裤什么时候变成这样了",
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 237355,
-      "num": 189310,
+      "num": 212688,
       "word": "油管网红露脸导致事业被毁",
       "onboard_time": 1774423944,
       "rank": 30,
@@ -649,6 +681,14 @@
       "onboard_time": 1774420282,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 231002,
+      "num": 789915,
+      "word": "奔跑吧14定档",
+      "onboard_time": 1774429283,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 230172,
@@ -667,7 +707,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225886,
+      "raw_hot": 226136,
       "num": 770473,
       "word": "花27万买摊位老板开业5天快回本一半",
       "onboard_time": 1774416023,
@@ -683,8 +723,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 217081,
-      "num": 190256,
+      "raw_hot": 224680,
+      "num": 224680,
       "word": "蓝莓 寒性",
       "onboard_time": 1774427303,
       "rank": 13,
@@ -755,28 +795,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193811,
-      "num": 189064,
-      "word": "高考钉子户悼念张雪峰",
-      "onboard_time": 1774428443,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191880,
       "num": 191880,
       "word": "伊朗喊美国做个了断",
       "onboard_time": 1774357111,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 191797,
-      "num": 191797,
-      "word": "志愿填报期张雪峰5天睡不到8小时",
-      "onboard_time": 1774427842,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190434,
@@ -867,12 +891,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 164936,
-      "num": 278474,
-      "word": "宋雨琦周深缺席奔跑吧",
+      "raw_hot": 166953,
+      "num": 166953,
+      "word": "古偶粉底液将军101",
       "onboard_time": 1774429043,
-      "rank": 4,
-      "category": "综艺"
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162407,
@@ -955,14 +979,6 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 149748,
-      "num": 191787,
-      "word": "奔跑吧14定档",
-      "onboard_time": 1774429283,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145786,
       "num": 145786,
       "word": "Breathe乌兹杯最后一舞",
@@ -979,19 +995,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 142234,
+      "num": 142234,
+      "word": "张凌赫透明的前半生",
+      "onboard_time": 1774425683,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141895,
       "num": 133465,
       "word": "宁艺卓ins点赞刘美贤",
       "onboard_time": 1774369701,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 138977,
-      "num": 138977,
-      "word": "张凌赫透明的前半生",
-      "onboard_time": 1774425683,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1041,14 +1057,6 @@
       "onboard_time": 1774394242,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132177,
-      "num": 184133,
-      "word": "伊朗称美中东投资将不复存在",
-      "onboard_time": 1774428623,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131866,
@@ -1283,6 +1291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 113747,
+      "num": 113747,
+      "word": "心源性猝死两大诱因需警惕",
+      "onboard_time": 1774429403,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112110,
       "num": 112110,
       "word": "如何降低运动猝死风险",
@@ -1305,14 +1321,6 @@
       "onboard_time": 1774417583,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111171,
-      "num": 111171,
-      "word": "心源性猝死两大诱因需警惕",
-      "onboard_time": 1774429403,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 110529,
@@ -1427,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103204,
-      "num": 103204,
-      "word": "古偶粉底液将军101",
-      "onboard_time": 1774429043,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 102307,
       "num": 102307,
       "word": "李卿早期垃圾小食品从夯到拉排序",
@@ -1515,6 +1515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96669,
+      "num": 96669,
+      "word": "心源性猝死的原理",
+      "onboard_time": 1774428623,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 96348,
       "num": 185278,
       "word": "重庆一水库千手观音石像露出水面",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1774427783,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95178,
+      "num": 131350,
+      "word": "四川乐山一公交车车身广告语引争议",
+      "onboard_time": 1774428924,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95039,
@@ -1587,20 +1603,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93022,
+      "num": 183774,
+      "word": "清清没有入选最佳选手提名",
+      "onboard_time": 1774428983,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92681,
       "num": 92681,
       "word": "外卖大战该结束了",
       "onboard_time": 1774424844,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 92306,
-      "num": 92306,
-      "word": "心源性猝死的原理",
-      "onboard_time": 1774428623,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 92123,
@@ -1667,6 +1683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 88249,
+      "num": 283584,
+      "word": "统一后台湾民众可以自驾直达北京",
+      "onboard_time": 1774429222,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88196,
       "num": 132504,
       "word": "中方要求日方立即彻查严惩",
@@ -1699,14 +1723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85311,
-      "num": 183774,
-      "word": "清清没有入选最佳选手提名",
-      "onboard_time": 1774428983,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 85251,
       "num": 85251,
       "word": "特斯拉Model3标准版或将在华上市",
@@ -1723,12 +1739,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84524,
-      "num": 84524,
-      "word": "四川乐山一公交车车身广告语引争议",
-      "onboard_time": 1774428924,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 84415,
+      "num": 84415,
+      "word": "张凌赫周柯宇刘宇宁开推造型",
+      "onboard_time": 1774429702,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 84025,
+      "num": 84025,
+      "word": "董璇说张维伊这次买单挺快啊",
+      "onboard_time": 1774429823,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 83943,
@@ -1777,6 +1801,14 @@
       "onboard_time": 1774354710,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79484,
+      "num": 79484,
+      "word": "宋雨琦因伤暂时缺席录制跑男",
+      "onboard_time": 1774430123,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 79281,
@@ -1835,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74732,
+      "num": 214359,
+      "word": "研究所所长被曝涉嫌猥亵下属",
+      "onboard_time": 1774429163,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74731,
       "num": 107657,
       "word": "唐尚珺悼念张雪峰",
@@ -1883,14 +1923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67855,
-      "num": 184295,
-      "word": "研究所所长被曝涉嫌猥亵下属",
-      "onboard_time": 1774429163,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66589,
       "num": 66589,
       "word": "超级碗历史最伟大的现场之一",
@@ -1905,6 +1937,14 @@
       "onboard_time": 1774346781,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64275,
+      "num": 212810,
+      "word": "官方通报公职人员追打理发店主",
+      "onboard_time": 1774429222,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 63699,
@@ -1979,14 +2019,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 56470,
-      "num": 149293,
-      "word": "统一后台湾民众可以自驾直达北京",
-      "onboard_time": 1774429222,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55759,
       "num": 107437,
       "word": "30多岁女子吃面后打羽毛球引发休克",
@@ -2009,14 +2041,6 @@
       "onboard_time": 1774424363,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 51473,
-      "num": 144832,
-      "word": "官方通报公职人员追打理发店主",
-      "onboard_time": 1774429222,
-      "rank": 33,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 51093,
@@ -2227,6 +2251,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 29591,
+      "num": 93153,
+      "word": "女子月经来20多天致重度贫血",
+      "onboard_time": 1774429523,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29017,
       "num": 106557,
       "word": "柳智敏翻唱中文歌",
@@ -2313,6 +2345,14 @@
       "onboard_time": 1774377376,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 13738,
+      "num": 93045,
+      "word": "记者暗访洗浴中心毛巾卫生问题",
+      "onboard_time": 1774429762,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 11664,
