@@ -1,6 +1,6 @@
 {
   "startTime": 1774458791432,
-  "endTime": 1774472519593,
+  "endTime": 1774475367999,
   "band_list": [
     {
       "raw_hot": 268742,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 159570,
-      "num": 69261,
+      "num": 96213,
       "word": "熬夜不是猝死的第一杀手",
       "onboard_time": 1774453402,
       "rank": 20,
@@ -235,8 +235,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 42722,
-      "num": 42722,
+      "raw_hot": 44097,
+      "num": 44097,
       "word": "中方坚决反对美强行控制一国元首",
       "onboard_time": 1774452143,
       "rank": 29,
@@ -387,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31094,
+      "num": 31094,
+      "word": "身体有这些症状要注意了",
+      "onboard_time": 1774464014,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30833,
       "num": 35436,
       "word": "台湾赌王身中29枪死亡5枪爆头",
@@ -401,14 +409,6 @@
       "onboard_time": 1774444764,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29698,
-      "num": 29698,
-      "word": "身体有这些症状要注意了",
-      "onboard_time": 1774464014,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 29629,
@@ -427,28 +427,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22390,
-      "num": 22390,
+      "raw_hot": 24015,
+      "num": 24015,
       "word": "出差猥亵女下属研究所所长被刑拘",
       "onboard_time": 1774439963,
       "rank": 34,
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 17136,
-      "num": 17136,
-      "word": "鞠婧祎女总裁上班路透既视感",
-      "onboard_time": 1774460955,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 18573,
+      "num": 18573,
+      "word": "黄金暴跌超10%又暴力反弹",
+      "onboard_time": 1774452082,
+      "rank": 44,
+      "category": "财经"
     },
     {
-      "raw_hot": 17003,
-      "num": 17003,
+      "raw_hot": 18111,
+      "num": 18111,
       "word": "21岁女子为养团播男友打2份工",
       "onboard_time": 1774451723,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17136,
+      "num": 17399,
+      "word": "鞠婧祎女总裁上班路透既视感",
+      "onboard_time": 1774460955,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 16896,
@@ -467,32 +475,32 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13563,
-      "num": 16502,
-      "word": "警惕身体发出的求救信号",
-      "onboard_time": 1774465635,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 14821,
+      "num": 17402,
+      "word": "江山大同巨女主的历史正剧",
+      "onboard_time": 1774470194,
+      "rank": 37,
+      "category": "剧集"
     },
     {
-      "raw_hot": 12382,
-      "num": 14218,
-      "word": "黄金暴跌超10%又暴力反弹",
-      "onboard_time": 1774452082,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 12347,
-      "num": 15857,
+      "raw_hot": 14748,
+      "num": 17401,
       "word": "速效救心丸什么时候用",
       "onboard_time": 1774457359,
       "rank": 41,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 10834,
-      "num": 14211,
+      "raw_hot": 13563,
+      "num": 17398,
+      "word": "警惕身体发出的求救信号",
+      "onboard_time": 1774465635,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 11896,
+      "num": 17398,
       "word": "张真源出发录奔跑吧14",
       "onboard_time": 1774471034,
       "rank": 49,
