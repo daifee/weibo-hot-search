@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774465573289,
+  "endTime": 1774466264928,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -64531,6 +64531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31456,
+      "num": 18367,
+      "word": "我国院外心源性猝死存活率不足3%",
+      "onboard_time": 1774464314,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 31454,
       "num": 908320,
       "word": "国宝级兵王亮相",
@@ -64873,14 +64881,6 @@
       "onboard_time": 1773311602,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30026,
-      "num": 18367,
-      "word": "我国院外心源性猝死存活率不足3%",
-      "onboard_time": 1774464314,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 30018,
@@ -67795,6 +67795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16896,
+      "num": 16896,
+      "word": "王俊凯的WJK是填空题",
+      "onboard_time": 1774465334,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 16883,
       "num": 166310,
       "word": "官方回应驾校代刷科二科三学时",
@@ -68041,14 +68049,6 @@
       "onboard_time": 1774436782,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15796,
-      "num": 16719,
-      "word": "王俊凯的WJK是填空题",
-      "onboard_time": 1774465334,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 15748,
@@ -68481,6 +68481,14 @@
       "onboard_time": 1773198500,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13563,
+      "num": 16502,
+      "word": "警惕身体发出的求救信号",
+      "onboard_time": 1774465635,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13561,
