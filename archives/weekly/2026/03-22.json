@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774446973766,
+  "endTime": 1774451303178,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3485416,
+      "num": 213322,
+      "word": "曝张雪峰立过遗嘱了",
+      "onboard_time": 1774446443,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3119969,
       "num": 2431891,
       "word": "张雪峰相关账号停止直播",
@@ -96,14 +104,6 @@
       "word": "张雪峰团队老师整夜未眠",
       "onboard_time": 1774413086,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2445744,
-      "num": 213322,
-      "word": "曝张雪峰立过遗嘱了",
-      "onboard_time": 1774446443,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -433,6 +433,14 @@
       "onboard_time": 1774185562,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1061562,
+      "num": 264203,
+      "word": "张雪峰去世当天最后一个视频",
+      "onboard_time": 1774450644,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1057058,
@@ -1076,7 +1084,7 @@
     },
     {
       "raw_hot": 575920,
-      "num": 208738,
+      "num": 259279,
       "word": "速效救心丸最好不要贴身携带",
       "onboard_time": 1774441343,
       "rank": 10,
@@ -1667,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433213,
+      "num": 186718,
+      "word": "何润东16年异地恋每年见面不到俩月",
+      "onboard_time": 1774446744,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432855,
       "num": 225727,
       "word": "刘晓庆再发文辟谣去世",
@@ -1857,6 +1873,14 @@
       "onboard_time": 1774179143,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 399752,
+      "num": 261272,
+      "word": "气得想把刘敏涛的痣抠下来",
+      "onboard_time": 1774445423,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 398890,
@@ -2233,6 +2257,14 @@
       "onboard_time": 1774230080,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 336046,
+      "num": 757813,
+      "word": "心源性猝死发生时的唯一急救手段",
+      "onboard_time": 1774440263,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 335298,
@@ -2651,6 +2683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278042,
+      "num": 278042,
+      "word": "日方回应自卫队人员强闯我大使馆",
+      "onboard_time": 1774446443,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 276802,
       "num": 214535,
       "word": "网友给逐玉的建议",
@@ -2835,12 +2875,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255600,
+      "num": 255600,
+      "word": "何润东近7日涨粉25.6万",
+      "onboard_time": 1774444823,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255023,
       "num": 455473,
       "word": "日本被曝多年搞反华教育",
       "onboard_time": 1774394483,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 254927,
+      "num": 254927,
+      "word": "张雪峰微博里的捐款回执",
+      "onboard_time": 1774446625,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254603,
@@ -2897,6 +2953,14 @@
       "onboard_time": 1774428623,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 251480,
+      "num": 251480,
+      "word": "白鹿在飞机上都没有吃飞机餐",
+      "onboard_time": 1774450705,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 249934,
@@ -2969,14 +3033,6 @@
       "onboard_time": 1774172842,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 241316,
-      "num": 241316,
-      "word": "气得想把刘敏涛的痣抠下来",
-      "onboard_time": 1774445423,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 240849,
@@ -3121,6 +3177,14 @@
       "onboard_time": 1774163840,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 232751,
+      "num": 232751,
+      "word": "张凌赫中学时期贴吧发言",
+      "onboard_time": 1774449203,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 232002,
@@ -3419,6 +3483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214335,
+      "num": 275822,
+      "word": "身体有这6种表现最好别运动",
+      "onboard_time": 1774445485,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 214119,
       "num": 76209,
       "word": "郑钦文1比1凯斯",
@@ -3651,14 +3723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 194996,
-      "num": 556854,
-      "word": "心源性猝死发生时的唯一急救手段",
-      "onboard_time": 1774440263,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 194665,
       "num": 194665,
       "word": "万茜徒手拎起190斤观众",
@@ -3779,14 +3843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188808,
-      "num": 188808,
-      "word": "何润东近7日涨粉25.6万",
-      "onboard_time": 1774444823,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187484,
       "num": 187484,
       "word": "梅姨去年年底就已落网",
@@ -3827,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185063,
+      "num": 185063,
+      "word": "专家说黄金正重演08年剧本",
+      "onboard_time": 1774444884,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 184960,
       "num": 184960,
       "word": "以色列称伊朗发射弹道导弹",
@@ -3857,6 +3921,14 @@
       "onboard_time": 1774064541,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183788,
+      "num": 271746,
+      "word": "江山大同",
+      "onboard_time": 1774447403,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 183366,
@@ -3961,14 +4033,6 @@
       "onboard_time": 1774168523,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176454,
-      "num": 176454,
-      "word": "专家说黄金正重演08年剧本",
-      "onboard_time": 1774444884,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 176338,
@@ -4283,14 +4347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163524,
-      "num": 163524,
-      "word": "身体有这6种表现最好别运动",
-      "onboard_time": 1774445485,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 162407,
       "num": 138216,
       "word": "迪丽热巴陈飞宇一个爆炸头一个牛舔头",
@@ -4523,6 +4579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149934,
+      "num": 268026,
+      "word": "特朗普把48小时最后通牒咽了回去",
+      "onboard_time": 1774449864,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149804,
       "num": 149804,
       "word": "被拐男孩称梅姨眼神是童年噩梦",
@@ -4585,6 +4649,14 @@
       "onboard_time": 1774145720,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146486,
+      "num": 265736,
+      "word": "Uzi自曝与iG管理层沟通",
+      "onboard_time": 1774449023,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 146118,
@@ -5371,6 +5443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125574,
+      "num": 125574,
+      "word": "毛晓彤女装牛仔裤",
+      "onboard_time": 1774450705,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125256,
       "num": 125256,
       "word": "小米2025年研发投入接近全年利润",
@@ -5945,6 +6025,14 @@
       "onboard_time": 1774345582,
       "rank": 37,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 113132,
+      "num": 113132,
+      "word": "国产激光武器真实打击画面",
+      "onboard_time": 1774447164,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 113117,
@@ -6523,6 +6611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103202,
+      "num": 103202,
+      "word": "男子陪家人看病被医生发现猝死先兆",
+      "onboard_time": 1774448183,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103156,
       "num": 103156,
       "word": "周大福暂缓涨价",
@@ -6551,14 +6647,6 @@
       "num": 102574,
       "word": "金灿荣称张雪峰为社会做了不少好事",
       "onboard_time": 1774443203,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102532,
-      "num": 102532,
-      "word": "张雪峰微博里的捐款回执",
-      "onboard_time": 1774446625,
       "rank": 34,
       "category": "民生新闻"
     },
@@ -6601,14 +6689,6 @@
       "onboard_time": 1774186401,
       "rank": 37,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 101974,
-      "num": 101974,
-      "word": "何润东16年异地恋每年见面不到俩月",
-      "onboard_time": 1774446744,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 101854,
@@ -6705,6 +6785,14 @@
       "onboard_time": 1774148180,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100541,
+      "num": 100541,
+      "word": "耳垂出现折痕建议及时检查心脏",
+      "onboard_time": 1774444644,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100478,
@@ -7275,6 +7363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92785,
+      "num": 92785,
+      "word": "中方回应巴基斯坦愿成美伊调解方",
+      "onboard_time": 1774445304,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92681,
       "num": 92681,
       "word": "外卖大战该结束了",
@@ -7289,6 +7385,14 @@
       "onboard_time": 1774325541,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92241,
+      "num": 92241,
+      "word": "AI逼人类成审核员工作量翻10倍",
+      "onboard_time": 1774451064,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 92215,
@@ -7337,6 +7441,14 @@
       "onboard_time": 1774427663,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92123,
+      "num": 92123,
+      "word": "白宇新剧被剧组边缘化",
+      "onboard_time": 1774448965,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 91951,
@@ -7763,6 +7875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87107,
+      "num": 87107,
+      "word": "洛克王国御三家",
+      "onboard_time": 1774449503,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 87082,
       "num": 87082,
       "word": "寿司店后厨老鼠趴在米饭边张望",
@@ -7777,6 +7897,14 @@
       "onboard_time": 1774309702,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86969,
+      "num": 86969,
+      "word": "上海警方通报女子出差遭领导猥亵",
+      "onboard_time": 1774448843,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86743,
@@ -8017,6 +8145,14 @@
       "onboard_time": 1774172421,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83382,
+      "num": 83382,
+      "word": "陈哲远一笑随歌播后半年逆袭",
+      "onboard_time": 1774448243,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 83297,
@@ -8611,6 +8747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78074,
+      "num": 81103,
+      "word": "8个月婴儿喝蜂蜜水中毒",
+      "onboard_time": 1774450705,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78061,
       "num": 78061,
       "word": "中国股市债市规模均位居全球第二",
@@ -8625,6 +8769,14 @@
       "onboard_time": 1774161920,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 77975,
+      "num": 80185,
+      "word": "拼多多2025全年营收4318亿元",
+      "onboard_time": 1774448783,
+      "rank": 47,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 77904,
@@ -8777,6 +8929,14 @@
       "onboard_time": 1774193422,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76447,
+      "num": 80180,
+      "word": "U23国足2比2泰国U23",
+      "onboard_time": 1774447886,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 76356,
@@ -11203,20 +11363,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31528,
+      "num": 642076,
+      "word": "我国自研新一代超大型油船交付",
+      "onboard_time": 1774444764,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31269,
       "num": 211408,
       "word": "18城偶遇王一博",
       "onboard_time": 1774238779,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31140,
-      "num": 621518,
-      "word": "我国自研新一代超大型油船交付",
-      "onboard_time": 1774444764,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30916,
@@ -11273,14 +11433,6 @@
       "onboard_time": 1774257921,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 30111,
-      "num": 218603,
-      "word": "日方回应自卫队人员强闯我大使馆",
-      "onboard_time": 1774446443,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29872,
