@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774466264928,
+  "endTime": 1774468926251,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -11811,6 +11811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26208,
+      "num": 26208,
+      "word": "身体有这些症状要注意了",
+      "onboard_time": 1774464014,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25311,
       "num": 125323,
       "word": "寿司郎称未检出寄生虫",
@@ -12009,14 +12017,6 @@
       "onboard_time": 1774126814,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18178,
-      "num": 18178,
-      "word": "身体有这些症状要注意了",
-      "onboard_time": 1774464014,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 18093,
@@ -12289,6 +12289,14 @@
       "onboard_time": 1774438643,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12347,
+      "num": 15857,
+      "word": "速效救心丸什么时候用",
+      "onboard_time": 1774457359,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12208,
