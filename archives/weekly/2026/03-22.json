@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774396569561,
+  "endTime": 1774406768413,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1513667,
+      "num": 188363,
+      "word": "张雪峰公司注册多枚女儿姓名商标",
+      "onboard_time": 1774405522,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1461712,
       "num": 537914,
       "word": "睡觉是延长心脏寿命最好的方式",
@@ -265,6 +273,14 @@
       "onboard_time": 1774266080,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1180015,
+      "num": 584509,
+      "word": "避谶",
+      "onboard_time": 1774396104,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1175793,
@@ -403,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 985735,
+      "num": 186464,
+      "word": "周杰伦新歌从夯到拉排名",
+      "onboard_time": 1774402464,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 972132,
       "num": 594893,
       "word": "周杰伦太阳之子MV",
@@ -497,6 +521,14 @@
       "onboard_time": 1774372278,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 850187,
+      "num": 185219,
+      "word": "颜如晶一年减重2.9斤",
+      "onboard_time": 1774403421,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 848321,
@@ -651,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 674370,
+      "num": 1107899,
+      "word": "嘴唇发紫 心脏不好",
+      "onboard_time": 1774399346,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 671338,
       "num": 162589,
       "word": "关晓彤 至今不知道腿长的坏处",
@@ -769,6 +809,14 @@
       "onboard_time": 1774232302,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 600029,
+      "num": 813898,
+      "word": "日本陆上自卫队回应男子擅闯中使馆",
+      "onboard_time": 1774402826,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 599050,
@@ -907,6 +955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 549625,
+      "num": 183846,
+      "word": "朱伟长文悼念张雪峰",
+      "onboard_time": 1774404263,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548189,
       "num": 548189,
       "word": "刘亦菲金智媛生图",
@@ -929,6 +985,22 @@
       "onboard_time": 1774245259,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 534651,
+      "num": 534651,
+      "word": "张雪峰捐款千万资助贫困学生",
+      "onboard_time": 1774404923,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 533454,
+      "num": 182338,
+      "word": "霍启刚自曝为追求郭晶晶费尽心思",
+      "onboard_time": 1774403124,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 527296,
@@ -1217,6 +1289,14 @@
       "onboard_time": 1774254320,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 440261,
+      "num": 440261,
+      "word": "美国与伊朗和谈方案曝光",
+      "onboard_time": 1774397188,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 436917,
@@ -1627,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345030,
+      "num": 178804,
+      "word": "心源性猝死救心丸无效",
+      "onboard_time": 1774405163,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 342463,
       "num": 190531,
       "word": "金价创下1983年3月以来最大单周跌幅",
@@ -1683,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331552,
+      "num": 552416,
+      "word": "王俊凯 浪姐",
+      "onboard_time": 1774403364,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331227,
       "num": 411866,
       "word": "17岁女孩一睡10天被叫醒就打人",
@@ -1697,14 +1793,6 @@
       "onboard_time": 1774260141,
       "rank": 3,
       "category": "舆论监督,剧集"
-    },
-    {
-      "raw_hot": 329831,
-      "num": 63894,
-      "word": "避谶",
-      "onboard_time": 1774396104,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 329486,
@@ -1777,6 +1865,14 @@
       "onboard_time": 1774143860,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 319223,
+      "num": 319223,
+      "word": "中园石化加油站被立案调查",
+      "onboard_time": 1774404323,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318806,
@@ -2265,6 +2361,14 @@
       "onboard_time": 1774172842,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243361,
+      "num": 243361,
+      "word": "旧手机回收价暴涨五六倍",
+      "onboard_time": 1774400126,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 240849,
@@ -2899,6 +3003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190273,
+      "num": 190273,
+      "word": "跑步究竟预防心梗还是引发心梗",
+      "onboard_time": 1774404982,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 189373,
       "num": 167055,
       "word": "热巴给开推团准备了新疆特产",
@@ -3081,6 +3193,14 @@
       "onboard_time": 1774323200,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174832,
+      "num": 174832,
+      "word": "孔雪儿转型",
+      "onboard_time": 1774400305,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 174638,
@@ -3947,6 +4067,14 @@
       "category": "互联网,旅游"
     },
     {
+      "raw_hot": 129414,
+      "num": 129414,
+      "word": "14岁男孩把干冰放冰箱半夜爆炸",
+      "onboard_time": 1774401264,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129079,
       "num": 122994,
       "word": "金店店员称金价降幅有限",
@@ -4131,6 +4259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124413,
+      "num": 102382,
+      "word": "日本对现役军人冲击中国使馆冷处理",
+      "onboard_time": 1774406363,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124234,
       "num": 130905,
       "word": "黄金价格反弹后下跌",
@@ -4179,6 +4315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 121642,
+      "num": 121642,
+      "word": "金价将继续推升",
+      "onboard_time": 1774406484,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121568,
       "num": 121568,
       "word": "被吸管杯背刺了",
@@ -4193,6 +4337,14 @@
       "onboard_time": 1774361295,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121404,
+      "num": 121404,
+      "word": "刘亦菲 宝格丽女王",
+      "onboard_time": 1774397305,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 121338,
@@ -4571,12 +4723,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112110,
+      "num": 112110,
+      "word": "如何降低运动猝死风险",
+      "onboard_time": 1774406543,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112054,
       "num": 84044,
       "word": "中园石化加油站称名字经过审批",
       "onboard_time": 1774309822,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111906,
+      "num": 111906,
+      "word": "拿错狗的饭盒去上班",
+      "onboard_time": 1774396646,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 111330,
@@ -4747,6 +4915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107579,
+      "num": 107579,
+      "word": "iPhone大量新功能上线",
+      "onboard_time": 1774398627,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 107271,
       "num": 107271,
       "word": "强闯中国驻日使馆男子被捕",
@@ -4899,6 +5075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104100,
+      "num": 104100,
+      "word": "张凌赫录制开推就一个要求",
+      "onboard_time": 1774398445,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103976,
       "num": 103976,
       "word": "日本考虑派兵去霍尔木兹海峡扫雷",
@@ -4963,6 +5147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102307,
+      "num": 102307,
+      "word": "李卿早期垃圾小食品从夯到拉排序",
+      "onboard_time": 1774397247,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102145,
       "num": 183366,
       "word": "阿娇的邪修减肥法是刷牙",
@@ -4985,6 +5177,14 @@
       "onboard_time": 1774186401,
       "rank": 37,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 101683,
+      "num": 101683,
+      "word": "宁艺卓的敏感度",
+      "onboard_time": 1774400845,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 101253,
@@ -5243,6 +5443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95875,
+      "num": 95875,
+      "word": "郑州大学校友会悼念张雪峰",
+      "onboard_time": 1774406663,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95869,
       "num": 95869,
       "word": "新郎新娘办结婚证遇惊喜尾号",
@@ -5321,6 +5529,14 @@
       "onboard_time": 1774254382,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94481,
+      "num": 94481,
+      "word": "98年的长寿小猫",
+      "onboard_time": 1774399406,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 94421,
@@ -5521,6 +5737,14 @@
       "onboard_time": 1774173140,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91532,
+      "num": 91532,
+      "word": "男子咳痰带血肺里竟藏着变质姜片",
+      "onboard_time": 1774405643,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91354,
@@ -6275,6 +6499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81627,
+      "num": 81627,
+      "word": "成本15万AI漫剧5天收益1200万",
+      "onboard_time": 1774404023,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81536,
       "num": 81536,
       "word": "A股半日成交1.46万亿放量155亿",
@@ -6369,6 +6601,14 @@
       "onboard_time": 1774251501,
       "rank": 42,
       "category": "军事"
+    },
+    {
+      "raw_hot": 80923,
+      "num": 80923,
+      "word": "店长遭老板娘辱骂50分钟获赔1万8",
+      "onboard_time": 1774405163,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80719,
@@ -6579,6 +6819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78204,
+      "num": 78204,
+      "word": "张雪峰曾说想为自己而活",
+      "onboard_time": 1774406426,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78136,
       "num": 78136,
       "word": "2026全球先锋赛",
@@ -6609,6 +6857,14 @@
       "onboard_time": 1774135819,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77859,
+      "num": 77859,
+      "word": "大理通报女生被殴打事件",
+      "onboard_time": 1774399646,
+      "rank": 41,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 77736,
@@ -6715,6 +6971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76566,
+      "num": 76566,
+      "word": "1分钟学会使用AED救命",
+      "onboard_time": 1774404923,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 76528,
       "num": 76528,
       "word": "地铁吐血女孩曾是白衣天使",
@@ -6761,6 +7025,14 @@
       "onboard_time": 1774334060,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 76222,
+      "num": 76222,
+      "word": "张雪峰讲述学历为什么重要",
+      "onboard_time": 1774406543,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76167,
@@ -7107,6 +7379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72098,
+      "num": 72098,
+      "word": "上班心累高于身累",
+      "onboard_time": 1774405823,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72095,
       "num": 78020,
       "word": "十年前的韩剧还在我的虐剧TOP1里",
@@ -7161,6 +7441,14 @@
       "onboard_time": 1774222939,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71622,
+      "num": 71622,
+      "word": "特朗普支持率降至重返白宫以来最低",
+      "onboard_time": 1774400126,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71585,
@@ -7257,6 +7545,14 @@
       "onboard_time": 1774162821,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70636,
+      "num": 70636,
+      "word": "刘同被黄昏恋节目邀请了",
+      "onboard_time": 1774401805,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 70526,
@@ -7569,6 +7865,14 @@
       "onboard_time": 1774168100,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 66589,
+      "num": 66589,
+      "word": "超级碗历史最伟大的现场之一",
+      "onboard_time": 1774403603,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 66565,
@@ -8755,6 +9059,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 37974,
+      "num": 628350,
+      "word": "这就是中国AI产业链的硬核实力",
+      "onboard_time": 1774403903,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37128,
       "num": 123695,
       "word": "张元英GENIE完整版正面直拍",
@@ -9589,6 +9901,9 @@
     },
     {
       "word": "#与雄安新区一起成长#"
+    },
+    {
+      "word": "#习近平赴河北雄安新区考察纪实#"
     }
   ]
 }

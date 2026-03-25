@@ -1,0 +1,410 @@
+{
+  "runTime": 1774406768413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 674370,
+        "num": 1107899,
+        "word": "嘴唇发紫 心脏不好",
+        "onboard_time": 1774399346,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600029,
+        "num": 813898,
+        "word": "日本陆上自卫队回应男子擅闯中使馆",
+        "onboard_time": 1774402826,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37974,
+        "num": 628350,
+        "word": "这就是中国AI产业链的硬核实力",
+        "onboard_time": 1774403903,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1180015,
+        "num": 584509,
+        "word": "避谶",
+        "onboard_time": 1774396104,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331552,
+        "num": 552416,
+        "word": "王俊凯 浪姐",
+        "onboard_time": 1774403364,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534651,
+        "num": 534651,
+        "word": "张雪峰捐款千万资助贫困学生",
+        "onboard_time": 1774404923,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440261,
+        "num": 440261,
+        "word": "美国与伊朗和谈方案曝光",
+        "onboard_time": 1774397188,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319223,
+        "num": 319223,
+        "word": "中园石化加油站被立案调查",
+        "onboard_time": 1774404323,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243361,
+        "num": 243361,
+        "word": "旧手机回收价暴涨五六倍",
+        "onboard_time": 1774400126,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190273,
+        "num": 190273,
+        "word": "跑步究竟预防心梗还是引发心梗",
+        "onboard_time": 1774404982,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1513667,
+        "num": 188363,
+        "word": "张雪峰公司注册多枚女儿姓名商标",
+        "onboard_time": 1774405522,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 985735,
+        "num": 186464,
+        "word": "周杰伦新歌从夯到拉排名",
+        "onboard_time": 1774402464,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 850187,
+        "num": 185219,
+        "word": "颜如晶一年减重2.9斤",
+        "onboard_time": 1774403421,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549625,
+        "num": 183846,
+        "word": "朱伟长文悼念张雪峰",
+        "onboard_time": 1774404263,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533454,
+        "num": 182338,
+        "word": "霍启刚自曝为追求郭晶晶费尽心思",
+        "onboard_time": 1774403124,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345030,
+        "num": 178804,
+        "word": "心源性猝死救心丸无效",
+        "onboard_time": 1774405163,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271445,
+        "num": 177070,
+        "word": "金价",
+        "onboard_time": 1774395503,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208508,
+        "num": 174848,
+        "word": "金价波动",
+        "onboard_time": 1774401863,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174832,
+        "num": 174832,
+        "word": "孔雪儿转型",
+        "onboard_time": 1774400305,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170774,
+        "num": 170774,
+        "word": "峰学蔚来",
+        "onboard_time": 1774368145,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154096,
+        "num": 154096,
+        "word": "日本被曝多年搞反华教育",
+        "onboard_time": 1774394483,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129414,
+        "num": 129414,
+        "word": "14岁男孩把干冰放冰箱半夜爆炸",
+        "onboard_time": 1774401264,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121642,
+        "num": 121642,
+        "word": "金价将继续推升",
+        "onboard_time": 1774406484,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121404,
+        "num": 121404,
+        "word": "刘亦菲 宝格丽女王",
+        "onboard_time": 1774397305,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119078,
+        "num": 119078,
+        "word": "女子称专柜买4个LV包鉴定为假货",
+        "onboard_time": 1774394303,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112110,
+        "num": 112110,
+        "word": "如何降低运动猝死风险",
+        "onboard_time": 1774406543,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111906,
+        "num": 111906,
+        "word": "拿错狗的饭盒去上班",
+        "onboard_time": 1774396646,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107579,
+        "num": 107579,
+        "word": "iPhone大量新功能上线",
+        "onboard_time": 1774398627,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104100,
+        "num": 104100,
+        "word": "张凌赫录制开推就一个要求",
+        "onboard_time": 1774398445,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102417,
+        "num": 102417,
+        "word": "Uzi怒喷Mark",
+        "onboard_time": 1774393761,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124413,
+        "num": 102382,
+        "word": "日本对现役军人冲击中国使馆冷处理",
+        "onboard_time": 1774406363,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102307,
+        "num": 102307,
+        "word": "李卿早期垃圾小食品从夯到拉排序",
+        "onboard_time": 1774397247,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101683,
+        "num": 101683,
+        "word": "宁艺卓的敏感度",
+        "onboard_time": 1774400845,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95875,
+        "num": 95875,
+        "word": "郑州大学校友会悼念张雪峰",
+        "onboard_time": 1774406663,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94481,
+        "num": 94481,
+        "word": "98年的长寿小猫",
+        "onboard_time": 1774399406,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91532,
+        "num": 91532,
+        "word": "男子咳痰带血肺里竟藏着变质姜片",
+        "onboard_time": 1774405643,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82546,
+        "num": 82546,
+        "word": "家里吃灰的旧手机突然成了香饽饽",
+        "onboard_time": 1774395083,
+        "rank": 36,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 82284,
+        "num": 82284,
+        "word": "短剧撞脸迪丽热巴别甩锅AI",
+        "onboard_time": 1774394842,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81627,
+        "num": 81627,
+        "word": "成本15万AI漫剧5天收益1200万",
+        "onboard_time": 1774404023,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80923,
+        "num": 80923,
+        "word": "店长遭老板娘辱骂50分钟获赔1万8",
+        "onboard_time": 1774405163,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78204,
+        "num": 78204,
+        "word": "张雪峰曾说想为自己而活",
+        "onboard_time": 1774406426,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77859,
+        "num": 77859,
+        "word": "大理通报女生被殴打事件",
+        "onboard_time": 1774399646,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 76566,
+        "num": 76566,
+        "word": "1分钟学会使用AED救命",
+        "onboard_time": 1774404923,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76222,
+        "num": 76222,
+        "word": "张雪峰讲述学历为什么重要",
+        "onboard_time": 1774406543,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72098,
+        "num": 72098,
+        "word": "上班心累高于身累",
+        "onboard_time": 1774405823,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71622,
+        "num": 71622,
+        "word": "特朗普支持率降至重返白宫以来最低",
+        "onboard_time": 1774400126,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70636,
+        "num": 70636,
+        "word": "刘同被黄昏恋节目邀请了",
+        "onboard_time": 1774401805,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68370,
+        "num": 68370,
+        "word": "火了还没适应的明星最好玩了",
+        "onboard_time": 1774366468,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66589,
+        "num": 66589,
+        "word": "超级碗历史最伟大的现场之一",
+        "onboard_time": 1774403603,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66358,
+        "num": 66358,
+        "word": "现货黄金",
+        "onboard_time": 1774394303,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平赴河北雄安新区考察纪实#"
+    }
+  }
+}
