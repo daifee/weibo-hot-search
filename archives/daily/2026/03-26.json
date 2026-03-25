@@ -1,6 +1,6 @@
 {
   "startTime": 1774458791432,
-  "endTime": 1774482230591,
+  "endTime": 1774483144353,
   "band_list": [
     {
       "raw_hot": 3334180,
@@ -12,22 +12,30 @@
     },
     {
       "raw_hot": 2760500,
-      "num": 115819,
+      "num": 143637,
       "word": "张雪峰追悼会",
       "onboard_time": 1774479318,
       "rank": 10,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 576164,
-      "num": 955536,
+      "raw_hot": 609481,
+      "num": 1080919,
       "word": "老头乐起诉小米汽车",
       "onboard_time": 1774452082,
       "rank": 0,
       "category": "汽车"
     },
     {
-      "raw_hot": 373052,
+      "raw_hot": 513292,
+      "num": 141475,
+      "word": "医生谈颜如晶一年减重2.9斤",
+      "onboard_time": 1774482624,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 388919,
       "num": 276388,
       "word": "熬夜不是猝死的第一杀手",
       "onboard_time": 1774453402,
@@ -35,8 +43,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 335322,
-      "num": 709668,
+      "raw_hot": 338557,
+      "num": 772100,
       "word": "菲律宾纠集大量船只冲闯中方演训区",
       "onboard_time": 1774452922,
       "rank": 1,
@@ -51,8 +59,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 242297,
-      "num": 242297,
+      "raw_hot": 266473,
+      "num": 174450,
+      "word": "伊朗称击落美军F18战机",
+      "onboard_time": 1774481120,
+      "rank": 15,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 255442,
+      "num": 255442,
       "word": "专家说黄金正重演08年剧本",
       "onboard_time": 1774444884,
       "rank": 22,
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 233355,
-      "num": 114753,
+      "num": 138887,
       "word": "刘晓庆接手妹妹的儿子抚养",
       "onboard_time": 1774455320,
       "rank": 16,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 230402,
-      "num": 150046,
+      "num": 171538,
       "word": "西山车祸",
       "onboard_time": 1774452261,
       "rank": 6,
@@ -76,11 +92,19 @@
     },
     {
       "raw_hot": 185107,
-      "num": 143885,
+      "num": 154724,
       "word": "宫装樊长玉",
       "onboard_time": 1774454901,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175591,
+      "num": 175591,
+      "word": "男子陪家人看病被医生发现猝死先兆",
+      "onboard_time": 1774448183,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171064,
@@ -91,44 +115,60 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 159079,
-      "num": 159079,
-      "word": "男子陪家人看病被医生发现猝死先兆",
-      "onboard_time": 1774448183,
-      "rank": 33,
+      "raw_hot": 162191,
+      "num": 162191,
+      "word": "男子切到手晕血边晕边爬去医院",
+      "onboard_time": 1774481541,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150026,
-      "num": 109547,
-      "word": "伊朗称击落美军F18战机",
-      "onboard_time": 1774481120,
-      "rank": 15,
-      "category": "军事"
+      "raw_hot": 144046,
+      "num": 144046,
+      "word": "心源性猝死发生时的唯一急救手段",
+      "onboard_time": 1774440263,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 134804,
-      "num": 106148,
-      "word": "张凌赫中学时期贴吧发言",
-      "onboard_time": 1774449203,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 129436,
-      "num": 107001,
+      "raw_hot": 137936,
+      "num": 137936,
       "word": "白鹿在飞机上都没有吃飞机餐",
       "onboard_time": 1774450705,
       "rank": 14,
       "category": "艺人"
     },
     {
-      "raw_hot": 128877,
-      "num": 128877,
-      "word": "心源性猝死发生时的唯一急救手段",
-      "onboard_time": 1774440263,
-      "rank": 12,
-      "category": "民生新闻,健康医疗"
+      "raw_hot": 137871,
+      "num": 124701,
+      "word": "张凌赫张家玮时期",
+      "onboard_time": 1774481240,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134804,
+      "num": 114527,
+      "word": "张凌赫中学时期贴吧发言",
+      "onboard_time": 1774449203,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128626,
+      "num": 115566,
+      "word": "伊朗喊话特朗普别把失败称协议",
+      "onboard_time": 1774481660,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 124894,
+      "num": 114890,
+      "word": "伊朗称正在搜捕逃亡美军",
+      "onboard_time": 1774481660,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122261,
@@ -147,12 +187,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109830,
-      "num": 99022,
-      "word": "伊朗称正在搜捕逃亡美军",
-      "onboard_time": 1774481660,
-      "rank": 20,
-      "category": "国际时政"
+      "raw_hot": 120481,
+      "num": 120481,
+      "word": "王俊凯无人乐园邀请函",
+      "onboard_time": 1774482380,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 117313,
+      "num": 115229,
+      "word": "何润东近7日涨粉25.6万",
+      "onboard_time": 1774444823,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 105834,
@@ -179,20 +227,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 99329,
-      "num": 99329,
-      "word": "何润东近7日涨粉25.6万",
-      "onboard_time": 1774444823,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 97612,
-      "num": 93359,
-      "word": "张凌赫张家玮时期",
-      "onboard_time": 1774481240,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 97817,
+      "num": 97817,
+      "word": "美国拟停火1个月",
+      "onboard_time": 1774481300,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92105,
@@ -219,20 +259,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 81555,
-      "num": 81555,
-      "word": "男子切到手晕血边晕边爬去医院",
-      "onboard_time": 1774481541,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76438,
       "num": 76438,
       "word": "出差猥亵女下属研究所所长被刑拘",
       "onboard_time": 1774439963,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 75574,
+      "num": 75574,
+      "word": "21岁女子为养团播男友打2份工",
+      "onboard_time": 1774451723,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74444,
+      "num": 74444,
+      "word": "黄金回血了",
+      "onboard_time": 1774482260,
+      "rank": 28,
+      "category": "财经,电竞"
     },
     {
       "raw_hot": 73398,
@@ -243,28 +291,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 72991,
-      "num": 72991,
-      "word": "美国拟停火1个月",
-      "onboard_time": 1774481300,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 72748,
-      "num": 72748,
-      "word": "21岁女子为养团播男友打2份工",
-      "onboard_time": 1774451723,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72637,
       "num": 76020,
       "word": "身体有这6种表现最好别运动",
       "onboard_time": 1774445485,
       "rank": 17,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 72224,
+      "num": 72224,
+      "word": "杨幂江山大同简介",
+      "onboard_time": 1774481780,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 71527,
@@ -283,20 +323,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63871,
-      "num": 63871,
+      "raw_hot": 69039,
+      "num": 69039,
+      "word": "洛克王国世界开服",
+      "onboard_time": 1774480819,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 68952,
+      "num": 68952,
       "word": "罗永浩回应对话杨笠掉粉",
       "onboard_time": 1774454421,
       "rank": 26,
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 62812,
-      "num": 62812,
+      "raw_hot": 66579,
+      "num": 66579,
       "word": "如何改善慢性炎症",
       "onboard_time": 1774441163,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 60400,
+      "num": 60400,
+      "word": "国产激光武器真实打击画面",
+      "onboard_time": 1774447164,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 59761,
+      "num": 59761,
+      "word": "气得想把刘敏涛的痣抠下来",
+      "onboard_time": 1774445423,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 58865,
@@ -307,28 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58551,
-      "num": 58551,
-      "word": "气得想把刘敏涛的痣抠下来",
-      "onboard_time": 1774445423,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 56912,
-      "num": 56912,
-      "word": "杨幂江山大同简介",
-      "onboard_time": 1774481780,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 56869,
-      "num": 56869,
-      "word": "国产激光武器真实打击画面",
-      "onboard_time": 1774447164,
-      "rank": 41,
-      "category": "军事"
+      "raw_hot": 55849,
+      "num": 55849,
+      "word": "黄金重演08年剧本",
+      "onboard_time": 1774454601,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 54761,
@@ -339,20 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53433,
-      "num": 53433,
-      "word": "洛克王国世界开服",
-      "onboard_time": 1774480819,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 54704,
+      "num": 54704,
+      "word": "谁还没看过王俊凯劝架",
+      "onboard_time": 1774482624,
+      "rank": 40,
+      "category": "艺人"
     },
     {
-      "raw_hot": 52589,
-      "num": 52589,
-      "word": "黄金重演08年剧本",
-      "onboard_time": 1774454601,
-      "rank": 28,
-      "category": "财经"
+      "raw_hot": 51867,
+      "num": 51867,
+      "word": "川超球员飞踹裁判全国禁赛5年",
+      "onboard_time": 1774483041,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 50494,
@@ -371,14 +419,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 49664,
-      "num": 50870,
-      "word": "伊朗喊话特朗普别把失败称协议",
-      "onboard_time": 1774481660,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 49490,
       "num": 60661,
       "word": "Uzi自曝与iG管理层沟通",
@@ -395,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48060,
+      "num": 49485,
+      "word": "江山大同巨女主的历史正剧",
+      "onboard_time": 1774470194,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47611,
       "num": 47611,
       "word": "原来迪丽热巴的20岁也难熬",
@@ -403,7 +451,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46603,
+      "raw_hot": 47096,
       "num": 49486,
       "word": "我是公安大学的",
       "onboard_time": 1774462454,
@@ -417,14 +465,6 @@
       "onboard_time": 1774452742,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 44866,
-      "num": 49485,
-      "word": "江山大同巨女主的历史正剧",
-      "onboard_time": 1774470194,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 42058,
@@ -555,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20014,
+      "num": 616276,
+      "word": "中国为世界创造新机遇",
+      "onboard_time": 1774444583,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17383,
       "num": 29897,
       "word": "鞠婧祎女总裁上班路透既视感",
@@ -569,14 +617,6 @@
       "onboard_time": 1774465334,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 16429,
-      "num": 559750,
-      "word": "中国为世界创造新机遇",
-      "onboard_time": 1774444583,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15928,
