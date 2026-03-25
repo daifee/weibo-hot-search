@@ -1,0 +1,410 @@
+{
+  "runTime": 1774429447156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 320826,
+        "num": 1051332,
+        "word": "3个旧手机能换一台iPhone",
+        "onboard_time": 1774424363,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206354,
+        "num": 770473,
+        "word": "花27万买摊位老板开业5天快回本一半",
+        "onboard_time": 1774416023,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59778,
+        "num": 583771,
+        "word": "9年时间雄安新区长成了啥模样",
+        "onboard_time": 1774423704,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172392,
+        "num": 358102,
+        "word": "和平统一后大陆可帮台湾建环岛高铁",
+        "onboard_time": 1774416203,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164936,
+        "num": 278474,
+        "word": "宋雨琦周深缺席奔跑吧",
+        "onboard_time": 1774429043,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205972,
+        "num": 205972,
+        "word": "去动物园一定不要穿水果鞋",
+        "onboard_time": 1774417163,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 842817,
+        "num": 200833,
+        "word": "大爷心源性猝死沉睡3天被救回",
+        "onboard_time": 1774426643,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257619,
+        "num": 198964,
+        "word": "多位年轻企业家因心梗离世",
+        "onboard_time": 1774424123,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191797,
+        "num": 191797,
+        "word": "志愿填报期张雪峰5天睡不到8小时",
+        "onboard_time": 1774427842,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149748,
+        "num": 191787,
+        "word": "奔跑吧14定档",
+        "onboard_time": 1774429283,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496692,
+        "num": 191198,
+        "word": "晋江 花了好多钱",
+        "onboard_time": 1774426161,
+        "rank": 10,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 286095,
+        "num": 190844,
+        "word": "展轩发文回应",
+        "onboard_time": 1774428262,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276756,
+        "num": 190543,
+        "word": "奔跑吧",
+        "onboard_time": 1774414885,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217081,
+        "num": 190256,
+        "word": "蓝莓 寒性",
+        "onboard_time": 1774427303,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267717,
+        "num": 189875,
+        "word": "何润东 翻红",
+        "onboard_time": 1774419023,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237355,
+        "num": 189310,
+        "word": "油管网红露脸导致事业被毁",
+        "onboard_time": 1774423944,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193811,
+        "num": 189064,
+        "word": "高考钉子户悼念张雪峰",
+        "onboard_time": 1774428443,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188935,
+        "num": 188935,
+        "word": "刘晓庆再发文辟谣去世",
+        "onboard_time": 1774424002,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185398,
+        "num": 185398,
+        "word": "心源性猝死急救最忌打车去医院",
+        "onboard_time": 1774420282,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96348,
+        "num": 185278,
+        "word": "重庆一水库千手观音石像露出水面",
+        "onboard_time": 1774426824,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319318,
+        "num": 184853,
+        "word": "线下追星 拼床",
+        "onboard_time": 1774422443,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204282,
+        "num": 184698,
+        "word": "越来越多日本女性为供养牛郎跨境卖淫",
+        "onboard_time": 1774421363,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 67855,
+        "num": 184295,
+        "word": "研究所所长被曝涉嫌猥亵下属",
+        "onboard_time": 1774429163,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132177,
+        "num": 184133,
+        "word": "伊朗称美中东投资将不复存在",
+        "onboard_time": 1774428623,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85311,
+        "num": 183774,
+        "word": "清清没有入选最佳选手提名",
+        "onboard_time": 1774428983,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183635,
+        "num": 183635,
+        "word": "程潇 布偶猫",
+        "onboard_time": 1774423582,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171347,
+        "num": 171347,
+        "word": "美国男子养老院强奸61岁老人被拍下",
+        "onboard_time": 1774418303,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157722,
+        "num": 157722,
+        "word": "女子将房产过户前夫换回被虐待儿女",
+        "onboard_time": 1774427364,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92123,
+        "num": 150525,
+        "word": "医生看面部发现猝死先兆救下一命",
+        "onboard_time": 1774427663,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62268,
+        "num": 149649,
+        "word": "孙颖莎200周世界第一海报",
+        "onboard_time": 1774428143,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56470,
+        "num": 149293,
+        "word": "统一后台湾民众可以自驾直达北京",
+        "onboard_time": 1774429222,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149143,
+        "num": 149143,
+        "word": "浪姐7阵容",
+        "onboard_time": 1774408224,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104113,
+        "num": 145841,
+        "word": "伊朗称没人能信任美国的外交",
+        "onboard_time": 1774428503,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51473,
+        "num": 144832,
+        "word": "官方通报公职人员追打理发店主",
+        "onboard_time": 1774429222,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 143992,
+        "num": 143992,
+        "word": "金智媛宝格丽合照C位",
+        "onboard_time": 1774423044,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 138977,
+        "num": 138977,
+        "word": "张凌赫透明的前半生",
+        "onboard_time": 1774425683,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128647,
+        "num": 128647,
+        "word": "香港五尸命案凶宅拍卖",
+        "onboard_time": 1774427902,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113391,
+        "num": 113391,
+        "word": "李艺彤哭着和粉丝道歉",
+        "onboard_time": 1774419203,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43515,
+        "num": 113356,
+        "word": "女儿殿下完全是女儿奴的巅峰之作",
+        "onboard_time": 1774427123,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38069,
+        "num": 113324,
+        "word": "分手退16万彩礼男方嫌少再要16.7万",
+        "onboard_time": 1774428562,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113323,
+        "num": 113323,
+        "word": "迪丽热巴陈飞宇一个爆炸头一个牛舔头",
+        "onboard_time": 1774423163,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111171,
+        "num": 111171,
+        "word": "心源性猝死两大诱因需警惕",
+        "onboard_time": 1774429403,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103204,
+        "num": 103204,
+        "word": "古偶粉底液将军101",
+        "onboard_time": 1774429043,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96550,
+        "num": 96550,
+        "word": "偶遇孔刘与男子搭肩散步",
+        "onboard_time": 1774419623,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95235,
+        "num": 95235,
+        "word": "Uzi杯",
+        "onboard_time": 1774427783,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92306,
+        "num": 92306,
+        "word": "心源性猝死的原理",
+        "onboard_time": 1774428623,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67111,
+        "num": 89440,
+        "word": "过度自律",
+        "onboard_time": 1774412244,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88518,
+        "num": 88518,
+        "word": "涨价时代你会选择二手手机吗",
+        "onboard_time": 1774429341,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85251,
+        "num": 85251,
+        "word": "特斯拉Model3标准版或将在华上市",
+        "onboard_time": 1774427364,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 84524,
+        "num": 84524,
+        "word": "四川乐山一公交车车身广告语引争议",
+        "onboard_time": 1774428924,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系雄安小树苗#"
+    }
+  }
+}
