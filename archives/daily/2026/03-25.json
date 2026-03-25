@@ -1,6 +1,6 @@
 {
   "startTime": 1774372134651,
-  "endTime": 1774433731974,
+  "endTime": 1774436243355,
   "band_list": [
     {
       "raw_hot": 2601228,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 813102,
+      "num": 152608,
+      "word": "张晋曾因突发心脏病血管堵塞近80%",
+      "onboard_time": 1774433782,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 796044,
       "num": 796044,
       "word": "运动性心源性猝死的典型画像",
@@ -201,6 +209,14 @@
       "onboard_time": 1774413206,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 671896,
+      "num": 152356,
+      "word": "造谣刘晓庆去世的是她外甥",
+      "onboard_time": 1774434563,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 641397,
@@ -363,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495631,
+      "num": 495631,
+      "word": "王俊凯专辑概念预告",
+      "onboard_time": 1774434742,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 478350,
       "num": 624492,
       "word": "央视新闻发了逐玉",
@@ -431,6 +455,14 @@
       "num": 730986,
       "word": "美国与伊朗和谈方案曝光",
       "onboard_time": 1774397188,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 439420,
+      "num": 439420,
+      "word": "伊朗声明通行霍尔木兹海峡船只条件",
+      "onboard_time": 1774431803,
       "rank": 6,
       "category": "国际时政"
     },
@@ -515,6 +547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 385380,
+      "num": 511008,
+      "word": "耳帝评价周杰伦新专辑",
+      "onboard_time": 1774432044,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 354480,
       "num": 1056716,
       "word": "3个旧手机能换一台iPhone",
@@ -547,6 +587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 342421,
+      "num": 342421,
+      "word": "张雪峰对女儿未来的规划与期盼",
+      "onboard_time": 1774431862,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 342048,
       "num": 342048,
       "word": "白日提灯OST官宣",
@@ -569,14 +617,6 @@
       "onboard_time": 1774403364,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 329946,
-      "num": 511008,
-      "word": "耳帝评价周杰伦新专辑",
-      "onboard_time": 1774432044,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 326934,
@@ -665,6 +705,14 @@
       "onboard_time": 1774421363,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 279327,
+      "num": 279327,
+      "word": "颉斌斌悼念张雪峰",
+      "onboard_time": 1774433062,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271445,
@@ -795,11 +843,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220949,
+      "num": 453366,
+      "word": "四川乐山一公交车车身广告语引争议",
+      "onboard_time": 1774428924,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213184,
       "num": 213184,
       "word": "偶遇孔刘与男子搭肩散步",
       "onboard_time": 1774419623,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212760,
+      "num": 149994,
+      "word": "原来迪丽热巴的20岁也难熬",
+      "onboard_time": 1774433962,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -825,14 +889,6 @@
       "onboard_time": 1774418422,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200510,
-      "num": 395340,
-      "word": "伊朗声明通行霍尔木兹海峡船只条件",
-      "onboard_time": 1774431803,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 199616,
@@ -873,14 +929,6 @@
       "onboard_time": 1774357111,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 191652,
-      "num": 191652,
-      "word": "张雪峰对女儿未来的规划与期盼",
-      "onboard_time": 1774431862,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190434,
@@ -939,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173512,
+      "num": 138929,
+      "word": "员工买车买房张雪峰都不缺席",
+      "onboard_time": 1774434444,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173383,
       "num": 173383,
       "word": "香港五尸命案凶宅拍卖",
@@ -968,6 +1024,14 @@
       "word": "睡觉是延长心脏寿命最好的方式",
       "onboard_time": 1774352969,
       "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170685,
+      "num": 151335,
+      "word": "医生称运动对血管是直接伤害",
+      "onboard_time": 1774433183,
+      "rank": 33,
       "category": "健康医疗"
     },
     {
@@ -1067,14 +1131,6 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 148222,
-      "num": 148222,
-      "word": "颉斌斌悼念张雪峰",
-      "onboard_time": 1774433062,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145786,
       "num": 145786,
       "word": "Breathe乌兹杯最后一舞",
@@ -1108,7 +1164,7 @@
     },
     {
       "raw_hot": 140404,
-      "num": 140404,
+      "num": 142710,
       "word": "住一楼最害怕的事还是发生了",
       "onboard_time": 1774430543,
       "rank": 30,
@@ -1323,6 +1379,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119976,
+      "num": 119976,
+      "word": "宋亚轩 晒黑了",
+      "onboard_time": 1774435761,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117695,
+      "num": 117695,
+      "word": "周杰伦新专辑 二胎刚好三胎就烦了",
+      "onboard_time": 1774434264,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 117674,
       "num": 117674,
       "word": "邓凯回复任豪",
@@ -1337,14 +1409,6 @@
       "onboard_time": 1774417883,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 117534,
-      "num": 142956,
-      "word": "四川乐山一公交车车身广告语引争议",
-      "onboard_time": 1774428924,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117401,
@@ -1385,14 +1449,6 @@
       "onboard_time": 1774407743,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115095,
-      "num": 115095,
-      "word": "医生称运动对血管是直接伤害",
-      "onboard_time": 1774433183,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114748,
@@ -1545,6 +1601,14 @@
       "onboard_time": 1774417462,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104875,
+      "num": 104875,
+      "word": "伊朗称再向美林肯号航母发射导弹",
+      "onboard_time": 1774433903,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104379,
@@ -1827,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90620,
+      "num": 109641,
+      "word": "情侣刚把电瓶车停好就出事了",
+      "onboard_time": 1774434202,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90076,
       "num": 99260,
       "word": "世界乒联恭喜孙颖莎解锁新成就",
@@ -2091,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68085,
+      "num": 392053,
+      "word": "贪污受贿超7亿谭瑞松被判死缓",
+      "onboard_time": 1774433122,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66589,
       "num": 66589,
       "word": "超级碗历史最伟大的现场之一",
@@ -2121,6 +2201,14 @@
       "onboard_time": 1774423704,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62882,
+      "num": 153965,
+      "word": "理工男开始靠脸吃饭了",
+      "onboard_time": 1774435163,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 62268,
@@ -2203,6 +2291,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 53000,
+      "num": 80807,
+      "word": "u23国足vs泰国u23",
+      "onboard_time": 1774436063,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52222,
       "num": 215479,
       "word": "扎着马步吃麦辣夯爆了",
@@ -2233,6 +2329,14 @@
       "onboard_time": 1774418062,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48379,
+      "num": 121122,
+      "word": "心源性猝死哪类人更易中招",
+      "onboard_time": 1774434862,
+      "rank": 34,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 46613,
@@ -2329,14 +2433,6 @@
       "onboard_time": 1774368145,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39628,
-      "num": 392053,
-      "word": "贪污受贿超7亿谭瑞松被判死缓",
-      "onboard_time": 1774433122,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39142,
@@ -2520,6 +2616,14 @@
       "word": "乐乐茶被曝冰沙上有蠕动活虫",
       "onboard_time": 1774433062,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20328,
+      "num": 153336,
+      "word": "理想主义反面的张雪峰",
+      "onboard_time": 1774435703,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
