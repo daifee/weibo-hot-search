@@ -1,7 +1,15 @@
 {
   "startTime": 1774372134651,
-  "endTime": 1774409116825,
+  "endTime": 1774414926365,
   "band_list": [
+    {
+      "raw_hot": 2416363,
+      "num": 738524,
+      "word": "张雪峰团队老师整夜未眠",
+      "onboard_time": 1774413086,
+      "rank": 5,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2194961,
       "num": 489758,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 985735,
-      "num": 257452,
+      "num": 431112,
       "word": "周杰伦新歌从夯到拉排名",
       "onboard_time": 1774402464,
       "rank": 11,
@@ -115,11 +123,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 729419,
+      "num": 729419,
+      "word": "浪姐7阵容",
+      "onboard_time": 1774408224,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 707847,
       "num": 162536,
       "word": "张雪峰曾回应心脏不好质疑",
       "onboard_time": 1774366290,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 697356,
+      "num": 697356,
+      "word": "大冰感谢张雪峰对小朋友的帮助",
+      "onboard_time": 1774413206,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -129,6 +153,14 @@
       "onboard_time": 1774402826,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 584253,
+      "num": 584253,
+      "word": "心源性猝死与跑步有什么关系",
+      "onboard_time": 1774410384,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 582516,
@@ -171,12 +203,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525584,
+      "num": 105597,
+      "word": "张雪峰曾说名下连块砖都没有",
+      "onboard_time": 1774409304,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 525077,
       "num": 256902,
       "word": "张宇 雪峰一路走好",
       "onboard_time": 1774407503,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 514195,
+      "num": 733966,
+      "word": "一笑随歌",
+      "onboard_time": 1774410027,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 469383,
@@ -195,6 +243,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 443846,
+      "num": 624492,
+      "word": "央视新闻发了逐玉",
+      "onboard_time": 1774413326,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443291,
       "num": 339757,
       "word": "郑州大学校友会悼念张雪峰",
@@ -211,8 +267,16 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 440776,
+      "num": 744956,
+      "word": "过度自律",
+      "onboard_time": 1774412244,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440261,
-      "num": 440261,
+      "num": 730986,
       "word": "美国与伊朗和谈方案曝光",
       "onboard_time": 1774397188,
       "rank": 6,
@@ -225,6 +289,30 @@
       "onboard_time": 1774351829,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 431324,
+      "num": 431324,
+      "word": "速效救心丸搜索同比增30倍",
+      "onboard_time": 1774410084,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 429419,
+      "num": 429419,
+      "word": "张雪峰微博曾5次提及猝死",
+      "onboard_time": 1774414825,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416985,
+      "num": 416985,
+      "word": "向太说人一定要学会避谶",
+      "onboard_time": 1774410384,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 345030,
@@ -249,6 +337,14 @@
       "onboard_time": 1774407384,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 340922,
+      "num": 1054547,
+      "word": "女儿殿下 夯",
+      "onboard_time": 1774411044,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 336485,
@@ -315,12 +411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278743,
+      "num": 731868,
+      "word": "相当于老鼠开了一家粮仓了",
+      "onboard_time": 1774411763,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 271445,
       "num": 210743,
       "word": "金价",
       "onboard_time": 1774395503,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 261607,
+      "num": 261607,
+      "word": "张雪峰骑小电驴上下班",
+      "onboard_time": 1774411645,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255882,
@@ -337,6 +449,14 @@
       "onboard_time": 1774394483,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 239788,
+      "num": 239788,
+      "word": "安睡裤什么时候变成这样了",
+      "onboard_time": 1774408945,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 230172,
@@ -387,14 +507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 192776,
-      "num": 192776,
-      "word": "浪姐7阵容",
-      "onboard_time": 1774408224,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191880,
       "num": 191880,
       "word": "伊朗喊美国做个了断",
@@ -419,6 +531,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 180895,
+      "num": 740511,
+      "word": "周杰伦 歌词",
+      "onboard_time": 1774409364,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175028,
       "num": 175028,
       "word": "吴德馨院士逝世",
@@ -435,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172445,
+      "num": 172445,
+      "word": "日本警方将对我使馆24小时警戒",
+      "onboard_time": 1774410503,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171287,
       "num": 149986,
       "word": "睡觉是延长心脏寿命最好的方式",
@@ -443,12 +571,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 168937,
-      "num": 114700,
-      "word": "安睡裤什么时候变成这样了",
-      "onboard_time": 1774408945,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 171111,
+      "num": 171111,
+      "word": "偶遇毛阿敏 问问当年房车细节",
+      "onboard_time": 1774413747,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 153213,
@@ -457,6 +585,14 @@
       "onboard_time": 1774367068,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152722,
+      "num": 152722,
+      "word": "硝酸甘油 速效救心丸",
+      "onboard_time": 1774412784,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151471,
@@ -475,12 +611,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 142834,
+      "num": 142834,
+      "word": "何润东 项羽杀秦军情况说明",
+      "onboard_time": 1774414046,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141895,
       "num": 133465,
       "word": "宁艺卓ins点赞刘美贤",
       "onboard_time": 1774369701,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139144,
+      "num": 139144,
+      "word": "随元青竟然欺负洪世贤艾莉儿子",
+      "onboard_time": 1774413446,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138580,
@@ -504,6 +656,14 @@
       "word": "金饰克价回落了",
       "onboard_time": 1774394242,
       "rank": 21,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 131866,
+      "num": 131866,
+      "word": "黄金回涨原因",
+      "onboard_time": 1774414405,
+      "rank": 30,
       "category": "财经"
     },
     {
@@ -547,6 +707,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125896,
+      "num": 125896,
+      "word": "夏之光主演",
+      "onboard_time": 1774409304,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 123042,
+      "num": 123042,
+      "word": "伊朗发起第80波打击",
+      "onboard_time": 1774414405,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121642,
       "num": 121642,
       "word": "金价将继续推升",
@@ -584,6 +760,22 @@
       "word": "胡锡进为张雪峰唏嘘难过",
       "onboard_time": 1774371859,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115650,
+      "num": 115650,
+      "word": "林允生理性演技",
+      "onboard_time": 1774411584,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115381,
+      "num": 115381,
+      "word": "三甲医生回应为什么会有人嘴唇发紫",
+      "onboard_time": 1774413145,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -651,6 +843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 107375,
+      "num": 107375,
+      "word": "不熬夜",
+      "onboard_time": 1774412364,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107271,
       "num": 107271,
       "word": "强闯中国驻日使馆男子被捕",
@@ -675,11 +875,51 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101854,
+      "num": 101854,
+      "word": "经常投喂的流浪猫把家养仓鼠吃掉了",
+      "onboard_time": 1774413747,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101683,
       "num": 101683,
       "word": "宁艺卓的敏感度",
       "onboard_time": 1774400845,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101424,
+      "num": 101424,
+      "word": "心脏好不好看哪些指标",
+      "onboard_time": 1774411464,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 99768,
+      "num": 99768,
+      "word": "奔跑吧",
+      "onboard_time": 1774414885,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98779,
+      "num": 98779,
+      "word": "黄金连续突破",
+      "onboard_time": 1774413564,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 98537,
+      "num": 98537,
+      "word": "董洁回应没有做烤瓷牙",
+      "onboard_time": 1774413206,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -689,6 +929,14 @@
       "onboard_time": 1774392379,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95928,
+      "num": 95928,
+      "word": "谢征樊长玉互换衣服了",
+      "onboard_time": 1774411464,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 95039,
@@ -979,6 +1227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55759,
+      "num": 107437,
+      "word": "30多岁女子吃面后打羽毛球引发休克",
+      "onboard_time": 1774413805,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53547,
       "num": 63750,
       "word": "徐老师采访肖战",
@@ -1017,6 +1273,14 @@
       "onboard_time": 1774353570,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45371,
+      "num": 241581,
+      "word": "范丞丞轻氧感穿搭",
+      "onboard_time": 1774411403,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 44507,
@@ -1068,11 +1332,19 @@
     },
     {
       "raw_hot": 37974,
-      "num": 653223,
+      "num": 744723,
       "word": "这就是中国AI产业链的硬核实力",
       "onboard_time": 1774403903,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37166,
+      "num": 107401,
+      "word": "山姆饼干配料表和实物不一致被立案",
+      "onboard_time": 1774414825,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37031,
@@ -1121,6 +1393,14 @@
       "onboard_time": 1774373956,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30869,
+      "num": 107386,
+      "word": "五角大楼和记者杠上了",
+      "onboard_time": 1774414825,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29615,

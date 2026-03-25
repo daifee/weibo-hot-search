@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774409116825,
+  "endTime": 1774414926365,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1323,6 +1323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2416363,
+      "num": 738524,
+      "word": "张雪峰团队老师整夜未眠",
+      "onboard_time": 1774413086,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2362619,
       "num": 2362619,
       "word": "敖瑞鹏发红包还有前菜",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1773625342,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1700156,
-      "num": 300540,
-      "word": "谢娜恳请不要将镜头对准孩子",
-      "onboard_time": 1771999401,
-      "rank": 12,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
