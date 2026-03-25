@@ -1,0 +1,410 @@
+{
+  "runTime": 1774465573289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 74955,
+        "num": 74955,
+        "word": "老头乐起诉小米汽车",
+        "onboard_time": 1774452082,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50709,
+        "num": 50709,
+        "word": "菲律宾纠集大量船只冲闯中方演训区",
+        "onboard_time": 1774452922,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5838,
+        "num": 47026,
+        "word": "福农优品我在家乡等你来",
+        "onboard_time": 1774438643,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138035,
+        "num": 46979,
+        "word": "熬夜不是猝死的第一杀手",
+        "onboard_time": 1774453402,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46603,
+        "num": 46603,
+        "word": "我是公安大学的",
+        "onboard_time": 1774462454,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67629,
+        "num": 46430,
+        "word": "西山车祸",
+        "onboard_time": 1774452261,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58528,
+        "num": 43513,
+        "word": "伊朗提出关于停战5项条件",
+        "onboard_time": 1774455079,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39950,
+        "num": 39950,
+        "word": "速效救心丸最好不要贴身携带",
+        "onboard_time": 1774441343,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34768,
+        "num": 34768,
+        "word": "宫装樊长玉",
+        "onboard_time": 1774454901,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30450,
+        "num": 30450,
+        "word": "第一次知道玻璃厂不能停电",
+        "onboard_time": 1774442122,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 52112,
+        "num": 30264,
+        "word": "董洁王橹杰捧脸",
+        "onboard_time": 1774458557,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50257,
+        "num": 30204,
+        "word": "刘晓庆接手妹妹的儿子抚养",
+        "onboard_time": 1774455320,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33003,
+        "num": 30174,
+        "word": "张凌赫中学时期贴吧发言",
+        "onboard_time": 1774449203,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30074,
+        "num": 30074,
+        "word": "心源性猝死发生时的唯一急救手段",
+        "onboard_time": 1774440263,
+        "rank": 13,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 27612,
+        "num": 27612,
+        "word": "何润东近7日涨粉25.6万",
+        "onboard_time": 1774444823,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26970,
+        "num": 26970,
+        "word": "王俊凯专辑概念预告",
+        "onboard_time": 1774434742,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25552,
+        "num": 25552,
+        "word": "你好1983",
+        "onboard_time": 1774460176,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25458,
+        "num": 25458,
+        "word": "毛晓彤女装牛仔裤",
+        "onboard_time": 1774450705,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24842,
+        "num": 24842,
+        "word": "内蒙古地震",
+        "onboard_time": 1774451423,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 23026,
+        "num": 23026,
+        "word": "32岁产妇羊水栓塞成植物人",
+        "onboard_time": 1774436244,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27311,
+        "num": 22334,
+        "word": "专家说黄金正重演08年剧本",
+        "onboard_time": 1774444884,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21373,
+        "num": 21373,
+        "word": "罗永浩回应对话杨笠掉粉",
+        "onboard_time": 1774454421,
+        "rank": 21,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 21330,
+        "num": 21330,
+        "word": "白日提灯",
+        "onboard_time": 1774453824,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19692,
+        "num": 19692,
+        "word": "俞宝儿扮演者回复邓凯孔雪儿",
+        "onboard_time": 1774455260,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19417,
+        "num": 19417,
+        "word": "台湾赌王身中29枪死亡5枪爆头",
+        "onboard_time": 1774436782,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19348,
+        "num": 19348,
+        "word": "身体有这6种表现最好别运动",
+        "onboard_time": 1774445485,
+        "rank": 25,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 19319,
+        "num": 19319,
+        "word": "日方回应自卫队人员强闯我大使馆",
+        "onboard_time": 1774446443,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19112,
+        "num": 19112,
+        "word": "中方坚决反对美强行控制一国元首",
+        "onboard_time": 1774452143,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18723,
+        "num": 18723,
+        "word": "男子陪家人看病被医生发现猝死先兆",
+        "onboard_time": 1774448183,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18388,
+        "num": 18388,
+        "word": "白鹿在飞机上都没有吃飞机餐",
+        "onboard_time": 1774450705,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30026,
+        "num": 18367,
+        "word": "我国院外心源性猝死存活率不足3%",
+        "onboard_time": 1774464314,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18178,
+        "num": 18178,
+        "word": "身体有这些症状要注意了",
+        "onboard_time": 1774464014,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17938,
+        "num": 17938,
+        "word": "于东来因对下属发脾气赔40多万",
+        "onboard_time": 1774443144,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17816,
+        "num": 17816,
+        "word": "江山大同",
+        "onboard_time": 1774447403,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17561,
+        "num": 17561,
+        "word": "出差猥亵女下属研究所所长被刑拘",
+        "onboard_time": 1774439963,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 17183,
+        "num": 17183,
+        "word": "国产激光武器真实打击画面",
+        "onboard_time": 1774447164,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 17136,
+        "num": 17136,
+        "word": "鞠婧祎女总裁上班路透既视感",
+        "onboard_time": 1774460955,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17003,
+        "num": 17003,
+        "word": "21岁女子为养团播男友打2份工",
+        "onboard_time": 1774451723,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16973,
+        "num": 16973,
+        "word": "Uzi自曝与iG管理层沟通",
+        "onboard_time": 1774449023,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16788,
+        "num": 16788,
+        "word": "张凌赫卷毛吹成海胆头",
+        "onboard_time": 1774449804,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16727,
+        "num": 16727,
+        "word": "原来迪丽热巴的20岁也难熬",
+        "onboard_time": 1774433962,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16226,
+        "num": 16726,
+        "word": "黄金重演08年剧本",
+        "onboard_time": 1774454601,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15996,
+        "num": 16724,
+        "word": "逐玉 删减",
+        "onboard_time": 1774438761,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15916,
+        "num": 16723,
+        "word": "晋江 花了好多钱",
+        "onboard_time": 1774426161,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 15796,
+        "num": 16719,
+        "word": "王俊凯的WJK是填空题",
+        "onboard_time": 1774465334,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15583,
+        "num": 16717,
+        "word": "如何改善慢性炎症",
+        "onboard_time": 1774441163,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15322,
+        "num": 16715,
+        "word": "于东来宣布每人退3000元",
+        "onboard_time": 1774431201,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15027,
+        "num": 16715,
+        "word": "简单的人生",
+        "onboard_time": 1774464434,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14942,
+        "num": 16711,
+        "word": "耳帝评价周杰伦新专辑",
+        "onboard_time": 1774432044,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14793,
+        "num": 16710,
+        "word": "家事法庭",
+        "onboard_time": 1774444764,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记赴雄安新区考察纪实#"
+    }
+  }
+}

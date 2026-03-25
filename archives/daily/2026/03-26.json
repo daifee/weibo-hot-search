@@ -1,6 +1,6 @@
 {
   "startTime": 1774458791432,
-  "endTime": 1774460121530,
+  "endTime": 1774465573289,
   "band_list": [
     {
       "raw_hot": 268742,
@@ -211,6 +211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 46603,
+      "num": 46603,
+      "word": "我是公安大学的",
+      "onboard_time": 1774462454,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45667,
       "num": 70008,
       "word": "内蒙古锡林郭勒发生4.2级地震",
@@ -387,12 +395,76 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30026,
+      "num": 18367,
+      "word": "我国院外心源性猝死存活率不足3%",
+      "onboard_time": 1774464314,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29629,
       "num": 35400,
       "word": "上海警方通报女子出差遭领导猥亵",
       "onboard_time": 1774448843,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25552,
+      "num": 25552,
+      "word": "你好1983",
+      "onboard_time": 1774460176,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18178,
+      "num": 18178,
+      "word": "身体有这些症状要注意了",
+      "onboard_time": 1774464014,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 17561,
+      "num": 17561,
+      "word": "出差猥亵女下属研究所所长被刑拘",
+      "onboard_time": 1774439963,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 17136,
+      "num": 17136,
+      "word": "鞠婧祎女总裁上班路透既视感",
+      "onboard_time": 1774460955,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17003,
+      "num": 17003,
+      "word": "21岁女子为养团播男友打2份工",
+      "onboard_time": 1774451723,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15796,
+      "num": 16719,
+      "word": "王俊凯的WJK是填空题",
+      "onboard_time": 1774465334,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 15027,
+      "num": 16715,
+      "word": "简单的人生",
+      "onboard_time": 1774464434,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 8356,
