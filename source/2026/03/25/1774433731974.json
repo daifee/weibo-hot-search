@@ -1,0 +1,410 @@
+{
+  "runTime": 1774433731974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1481785,
+        "num": 1481785,
+        "word": "于东来宣布每人退3000元",
+        "onboard_time": 1774431201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388921,
+        "num": 883954,
+        "word": "统一后台湾民众可以自驾直达北京",
+        "onboard_time": 1774429222,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42398,
+        "num": 724824,
+        "word": "9年时间雄安新区长成了啥模样",
+        "onboard_time": 1774423704,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329946,
+        "num": 511008,
+        "word": "耳帝评价周杰伦新专辑",
+        "onboard_time": 1774432044,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139268,
+        "num": 438960,
+        "word": "3个旧手机能换一台iPhone",
+        "onboard_time": 1774424363,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 395871,
+        "num": 395871,
+        "word": "小猫不洗头为什么脑袋不臭",
+        "onboard_time": 1774431082,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200510,
+        "num": 395340,
+        "word": "伊朗声明通行霍尔木兹海峡船只条件",
+        "onboard_time": 1774431803,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 320876,
+        "num": 394139,
+        "word": "奔跑吧14定档",
+        "onboard_time": 1774429283,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167534,
+        "num": 393634,
+        "word": "宋雨琦周深缺席奔跑吧",
+        "onboard_time": 1774429043,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39628,
+        "num": 392053,
+        "word": "贪污受贿超7亿谭瑞松被判死缓",
+        "onboard_time": 1774433122,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391605,
+        "num": 391605,
+        "word": "50岁女子同房后出血查出晚期宫颈癌",
+        "onboard_time": 1774431262,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 325938,
+        "num": 325938,
+        "word": "分手退16万彩礼男方嫌少再要16.7万",
+        "onboard_time": 1774428562,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273929,
+        "num": 273929,
+        "word": "晋江 花了好多钱",
+        "onboard_time": 1774426161,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 191652,
+        "num": 191652,
+        "word": "张雪峰对女儿未来的规划与期盼",
+        "onboard_time": 1774431862,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198414,
+        "num": 190602,
+        "word": "伊朗称美中东投资将不复存在",
+        "onboard_time": 1774428623,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187349,
+        "num": 187349,
+        "word": "蓝莓 寒性",
+        "onboard_time": 1774427303,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186874,
+        "num": 186874,
+        "word": "高考钉子户悼念张雪峰",
+        "onboard_time": 1774428443,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175388,
+        "num": 175388,
+        "word": "跑男官宣孟子义李昀锐",
+        "onboard_time": 1774431743,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173383,
+        "num": 173383,
+        "word": "香港五尸命案凶宅拍卖",
+        "onboard_time": 1774427902,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44764,
+        "num": 173317,
+        "word": "奶粉公司打广告劝人贞洁图什么",
+        "onboard_time": 1774433122,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499404,
+        "num": 167637,
+        "word": "古偶粉底液将军101",
+        "onboard_time": 1774429043,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119929,
+        "num": 162778,
+        "word": "花27万买摊位老板开业5天快回本一半",
+        "onboard_time": 1774416023,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318780,
+        "num": 159296,
+        "word": "金巧巧回应腮肉没了",
+        "onboard_time": 1774430902,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286842,
+        "num": 157081,
+        "word": "展轩发文回应",
+        "onboard_time": 1774428262,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155073,
+        "num": 155073,
+        "word": "心源性猝死急救最忌打车去医院",
+        "onboard_time": 1774420282,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174762,
+        "num": 153534,
+        "word": "线下追星 拼床",
+        "onboard_time": 1774422443,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162049,
+        "num": 152601,
+        "word": "何润东 翻红",
+        "onboard_time": 1774419023,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151242,
+        "num": 151242,
+        "word": "越来越多日本女性为供养牛郎跨境卖淫",
+        "onboard_time": 1774421363,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148222,
+        "num": 148222,
+        "word": "颉斌斌悼念张雪峰",
+        "onboard_time": 1774433062,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117534,
+        "num": 142956,
+        "word": "四川乐山一公交车车身广告语引争议",
+        "onboard_time": 1774428924,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140404,
+        "num": 140404,
+        "word": "住一楼最害怕的事还是发生了",
+        "onboard_time": 1774430543,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130895,
+        "num": 130895,
+        "word": "伊朗双线作战",
+        "onboard_time": 1774431324,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119532,
+        "num": 119532,
+        "word": "去动物园一定不要穿水果鞋",
+        "onboard_time": 1774417163,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115095,
+        "num": 115095,
+        "word": "医生称运动对血管是直接伤害",
+        "onboard_time": 1774433183,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110659,
+        "num": 110659,
+        "word": "美国男子养老院强奸61岁老人被拍下",
+        "onboard_time": 1774418303,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109996,
+        "num": 109996,
+        "word": "浪姐",
+        "onboard_time": 1774431503,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106806,
+        "num": 106806,
+        "word": "旧手机回收",
+        "onboard_time": 1774431862,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105732,
+        "num": 105732,
+        "word": "泰山不要门票 爬不到售票处",
+        "onboard_time": 1774430963,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96191,
+        "num": 104955,
+        "word": "中方回应是否有中国船通过霍尔木兹",
+        "onboard_time": 1774432703,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20654,
+        "num": 104817,
+        "word": "乐乐茶被曝冰沙上有蠕动活虫",
+        "onboard_time": 1774433062,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104816,
+        "num": 104816,
+        "word": "金智媛宝格丽合照C位",
+        "onboard_time": 1774423044,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 104320,
+        "num": 104320,
+        "word": "刘晓庆再发文辟谣去世",
+        "onboard_time": 1774424002,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44203,
+        "num": 102069,
+        "word": "奔跑吧14首期海口录制",
+        "onboard_time": 1774432823,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91769,
+        "num": 101979,
+        "word": "老师妇联介入后孩子遭更严重虐待",
+        "onboard_time": 1774431082,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101964,
+        "num": 101964,
+        "word": "李艺彤哭着和粉丝道歉",
+        "onboard_time": 1774419203,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90076,
+        "num": 99260,
+        "word": "世界乒联恭喜孙颖莎解锁新成就",
+        "onboard_time": 1774432761,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98955,
+        "num": 98955,
+        "word": "业内谈肖战杨紫白玉兰得奖几率",
+        "onboard_time": 1774433002,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91488,
+        "num": 91488,
+        "word": "奔跑吧",
+        "onboard_time": 1774414885,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79957,
+        "num": 86204,
+        "word": "词元",
+        "onboard_time": 1774433602,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84977,
+        "num": 84977,
+        "word": "浪姐7阵容",
+        "onboard_time": 1774408224,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系雄安小树苗#"
+    }
+  }
+}
