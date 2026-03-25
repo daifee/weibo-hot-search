@@ -1,0 +1,410 @@
+{
+  "runTime": 1774415574114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 450288,
+        "num": 1072046,
+        "word": "女儿殿下 夯",
+        "onboard_time": 1774411044,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 541038,
+        "num": 756886,
+        "word": "过度自律",
+        "onboard_time": 1774412244,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31452,
+        "num": 620623,
+        "word": "这就是中国AI产业链的硬核实力",
+        "onboard_time": 1774403903,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246408,
+        "num": 618872,
+        "word": "旧手机回收价暴涨五六倍",
+        "onboard_time": 1774400126,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181318,
+        "num": 613301,
+        "word": "周杰伦 歌词",
+        "onboard_time": 1774409364,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2601228,
+        "num": 608148,
+        "word": "张雪峰团队老师整夜未眠",
+        "onboard_time": 1774413086,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478350,
+        "num": 605122,
+        "word": "央视新闻发了逐玉",
+        "onboard_time": 1774413326,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 603224,
+        "num": 603224,
+        "word": "大冰感谢张雪峰对小朋友的帮助",
+        "onboard_time": 1774413206,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467142,
+        "num": 561136,
+        "word": "嘴唇发紫 心脏不好",
+        "onboard_time": 1774399346,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 403815,
+        "num": 550309,
+        "word": "相当于老鼠开了一家粮仓了",
+        "onboard_time": 1774411763,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 707763,
+        "num": 549836,
+        "word": "浪姐7阵容",
+        "onboard_time": 1774408224,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549220,
+        "num": 549220,
+        "word": "张雪峰微博曾5次提及猝死",
+        "onboard_time": 1774414825,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510238,
+        "num": 510238,
+        "word": "周杰伦新歌从夯到拉排名",
+        "onboard_time": 1774402464,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 453055,
+        "num": 453055,
+        "word": "心源性猝死与跑步有什么关系",
+        "onboard_time": 1774410384,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 424151,
+        "num": 424151,
+        "word": "一笑随歌",
+        "onboard_time": 1774410027,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399847,
+        "num": 399847,
+        "word": "向太说人一定要学会避谶",
+        "onboard_time": 1774410384,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332324,
+        "num": 332324,
+        "word": "员工称救心丸不会因张雪峰事件涨价",
+        "onboard_time": 1774414946,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213748,
+        "num": 213748,
+        "word": "霍启刚自曝为追求郭晶晶费尽心思",
+        "onboard_time": 1774403124,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36395,
+        "num": 211240,
+        "word": "范丞丞轻氧感穿搭",
+        "onboard_time": 1774411403,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44914,
+        "num": 206000,
+        "word": "山姆饼干配料表和实物不一致被立案",
+        "onboard_time": 1774414825,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340175,
+        "num": 203082,
+        "word": "颜如晶一年减重2.9斤",
+        "onboard_time": 1774403421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317508,
+        "num": 200431,
+        "word": "张雪峰曾给焦虑买房的员工借100万",
+        "onboard_time": 1774415245,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197179,
+        "num": 197179,
+        "word": "安睡裤什么时候变成这样了",
+        "onboard_time": 1774408945,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242554,
+        "num": 196737,
+        "word": "张雪峰骑小电驴上下班",
+        "onboard_time": 1774411645,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194618,
+        "num": 194618,
+        "word": "偶遇毛阿敏 问问当年房车细节",
+        "onboard_time": 1774413747,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186312,
+        "num": 186312,
+        "word": "美国与伊朗和谈方案曝光",
+        "onboard_time": 1774397188,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178621,
+        "num": 178621,
+        "word": "随元青竟然欺负洪世贤艾莉儿子",
+        "onboard_time": 1774413446,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164842,
+        "num": 164842,
+        "word": "日本警方将对我使馆24小时警戒",
+        "onboard_time": 1774410503,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158736,
+        "num": 158736,
+        "word": "何润东 项羽杀秦军情况说明",
+        "onboard_time": 1774414046,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156764,
+        "num": 156764,
+        "word": "郝蕾说不想再见纪凌尘了",
+        "onboard_time": 1774408045,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156454,
+        "num": 156454,
+        "word": "张雪峰公司3年参保人数涨超10倍",
+        "onboard_time": 1774415245,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152526,
+        "num": 152526,
+        "word": "为什么会有人嘴唇发紫",
+        "onboard_time": 1774415245,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151110,
+        "num": 151110,
+        "word": "奔跑吧",
+        "onboard_time": 1774414885,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296930,
+        "num": 151007,
+        "word": "速效救心丸搜索同比增30倍",
+        "onboard_time": 1774410084,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150610,
+        "num": 150610,
+        "word": "日本对现役军人冲击中国使馆冷处理",
+        "onboard_time": 1774406363,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138863,
+        "num": 138863,
+        "word": "硝酸甘油 速效救心丸",
+        "onboard_time": 1774412784,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129532,
+        "num": 129532,
+        "word": "伊朗发起第80波打击",
+        "onboard_time": 1774414405,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127624,
+        "num": 127624,
+        "word": "董洁回应没有做烤瓷牙",
+        "onboard_time": 1774413206,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122203,
+        "num": 122203,
+        "word": "王俊凯 浪姐",
+        "onboard_time": 1774403364,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24022,
+        "num": 119798,
+        "word": "五角大楼和记者杠上了",
+        "onboard_time": 1774414825,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118011,
+        "num": 118011,
+        "word": "黄金回涨原因",
+        "onboard_time": 1774414405,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117900,
+        "num": 117900,
+        "word": "黄金连续突破",
+        "onboard_time": 1774413564,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111079,
+        "num": 111079,
+        "word": "林允生理性演技",
+        "onboard_time": 1774411584,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110913,
+        "num": 110913,
+        "word": "三甲医生回应为什么会有人嘴唇发紫",
+        "onboard_time": 1774413145,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101781,
+        "num": 101781,
+        "word": "光与夜之恋",
+        "onboard_time": 1774415423,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99101,
+        "num": 99101,
+        "word": "马丽沈腾脸型叠一起成吴京了",
+        "onboard_time": 1774415125,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97868,
+        "num": 97868,
+        "word": "经常投喂的流浪猫把家养仓鼠吃掉了",
+        "onboard_time": 1774413747,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97372,
+        "num": 97372,
+        "word": "夏之光主演",
+        "onboard_time": 1774409304,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90416,
+        "num": 90416,
+        "word": "白日提灯OST官宣",
+        "onboard_time": 1774407384,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89371,
+        "num": 89371,
+        "word": "三甲医生提醒吃面后运动严重会休克",
+        "onboard_time": 1774408885,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平赴河北雄安新区考察纪实#"
+    }
+  }
+}

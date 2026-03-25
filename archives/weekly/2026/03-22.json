@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774414926365,
+  "endTime": 1774415574114,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -91,7 +91,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 2416363,
+      "raw_hot": 2601228,
       "num": 738524,
       "word": "张雪峰团队老师整夜未眠",
       "onboard_time": 1774413086,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 985735,
-      "num": 431112,
+      "num": 510238,
       "word": "周杰伦新歌从夯到拉排名",
       "onboard_time": 1774402464,
       "rank": 11,
@@ -1011,12 +1011,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 549220,
+      "num": 549220,
+      "word": "张雪峰微博曾5次提及猝死",
+      "onboard_time": 1774414825,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548189,
       "num": 548189,
       "word": "刘亦菲金智媛生图",
       "onboard_time": 1774325301,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 541038,
+      "num": 756886,
+      "word": "过度自律",
+      "onboard_time": 1774412244,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 538061,
@@ -1163,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478350,
+      "num": 624492,
+      "word": "央视新闻发了逐玉",
+      "onboard_time": 1774413326,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 477750,
       "num": 431038,
       "word": "入室抢婴主犯听到死缓当庭开骂",
@@ -1291,6 +1315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 450288,
+      "num": 1072046,
+      "word": "女儿殿下 夯",
+      "onboard_time": 1774411044,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 448721,
       "num": 448721,
       "word": "张雪峰近日在朋友圈打卡跑步7公里",
@@ -1339,14 +1371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 443846,
-      "num": 624492,
-      "word": "央视新闻发了逐玉",
-      "onboard_time": 1774413326,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 443491,
       "num": 160767,
       "word": "以色列总理称将继续袭击伊朗黎巴嫩",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1774254320,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 440776,
-      "num": 744956,
-      "word": "过度自律",
-      "onboard_time": 1774412244,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 440261,
@@ -1425,14 +1441,6 @@
       "onboard_time": 1774325181,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 429419,
-      "num": 429419,
-      "word": "张雪峰微博曾5次提及猝死",
-      "onboard_time": 1774414825,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 426575,
@@ -1553,6 +1561,14 @@
       "onboard_time": 1774105945,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403815,
+      "num": 731868,
+      "word": "相当于老鼠开了一家粮仓了",
+      "onboard_time": 1774411763,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 403470,
@@ -1859,14 +1875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 340922,
-      "num": 1054547,
-      "word": "女儿殿下 夯",
-      "onboard_time": 1774411044,
-      "rank": 0,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 338962,
       "num": 338962,
       "word": "郑合惠子将门毒后妆造",
@@ -1912,6 +1920,14 @@
       "word": "夫妻结婚22年水电费分摊有零有整",
       "onboard_time": 1774222399,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332324,
+      "num": 332324,
+      "word": "员工称救心丸不会因张雪峰事件涨价",
+      "onboard_time": 1774414946,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -2033,6 +2049,14 @@
       "onboard_time": 1774238961,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317508,
+      "num": 200431,
+      "word": "张雪峰曾给焦虑买房的员工借100万",
+      "onboard_time": 1774415245,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312997,
@@ -2233,14 +2257,6 @@
       "onboard_time": 1774273402,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278743,
-      "num": 731868,
-      "word": "相当于老鼠开了一家粮仓了",
-      "onboard_time": 1774411763,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 278459,
@@ -3099,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194618,
+      "num": 194618,
+      "word": "偶遇毛阿敏 问问当年房车细节",
+      "onboard_time": 1774413747,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194396,
       "num": 135961,
       "word": "23岁女子刚结婚一年就闭经",
@@ -3315,7 +3339,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 180895,
+      "raw_hot": 181318,
       "num": 740511,
       "word": "周杰伦 歌词",
       "onboard_time": 1774409364,
@@ -3345,6 +3369,14 @@
       "onboard_time": 1774221138,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178621,
+      "num": 178621,
+      "word": "随元青竟然欺负洪世贤艾莉儿子",
+      "onboard_time": 1774413446,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178257,
@@ -3497,14 +3529,6 @@
       "onboard_time": 1774175660,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 171111,
-      "num": 171111,
-      "word": "偶遇毛阿敏 问问当年房车细节",
-      "onboard_time": 1774413747,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 171098,
@@ -3707,12 +3731,28 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 158736,
+      "num": 158736,
+      "word": "何润东 项羽杀秦军情况说明",
+      "onboard_time": 1774414046,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158495,
       "num": 158495,
       "word": "伊媒称一架美国战斗机被击落",
       "onboard_time": 1774251199,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156454,
+      "num": 156454,
+      "word": "张雪峰公司3年参保人数涨超10倍",
+      "onboard_time": 1774415245,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155642,
@@ -3763,6 +3803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 152526,
+      "num": 152526,
+      "word": "为什么会有人嘴唇发紫",
+      "onboard_time": 1774415245,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 152313,
       "num": 152313,
       "word": "徐若晗道歉了但下次还敢",
@@ -3793,6 +3841,14 @@
       "onboard_time": 1774104385,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151110,
+      "num": 151110,
+      "word": "奔跑吧",
+      "onboard_time": 1774414885,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 150888,
@@ -3921,14 +3977,6 @@
       "onboard_time": 1774325481,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 142834,
-      "num": 142834,
-      "word": "何润东 项羽杀秦军情况说明",
-      "onboard_time": 1774414046,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 142801,
@@ -4073,14 +4121,6 @@
       "onboard_time": 1774322361,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139144,
-      "num": 139144,
-      "word": "随元青竟然欺负洪世贤艾莉儿子",
-      "onboard_time": 1774413446,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 138814,
@@ -4323,6 +4363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129532,
+      "num": 129532,
+      "word": "伊朗发起第80波打击",
+      "onboard_time": 1774414405,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129518,
       "num": 129518,
       "word": "各地文旅给千问上了波强度",
@@ -4417,6 +4465,14 @@
       "onboard_time": 1774345041,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127624,
+      "num": 127624,
+      "word": "董洁回应没有做烤瓷牙",
+      "onboard_time": 1774413206,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 127525,
@@ -4561,14 +4617,6 @@
       "onboard_time": 1774344442,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 123042,
-      "num": 123042,
-      "word": "伊朗发起第80波打击",
-      "onboard_time": 1774414405,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 122635,
@@ -4753,6 +4801,14 @@
       "onboard_time": 1774253120,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 117900,
+      "num": 117900,
+      "word": "黄金连续突破",
+      "onboard_time": 1774413564,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 117793,
@@ -5515,6 +5571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101781,
+      "num": 101781,
+      "word": "光与夜之恋",
+      "onboard_time": 1774415423,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101683,
       "num": 101683,
       "word": "宁艺卓的敏感度",
@@ -5619,14 +5683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99768,
-      "num": 99768,
-      "word": "奔跑吧",
-      "onboard_time": 1774414885,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99717,
       "num": 99717,
       "word": "美媒称伊朗军力影响远超中东地区",
@@ -5651,6 +5707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99101,
+      "num": 99101,
+      "word": "马丽沈腾脸型叠一起成吴京了",
+      "onboard_time": 1774415125,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98999,
       "num": 94826,
       "word": "张凌赫演技 颜值外的破局",
@@ -5667,28 +5731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98779,
-      "num": 98779,
-      "word": "黄金连续突破",
-      "onboard_time": 1774413564,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 98646,
       "num": 98646,
       "word": "Daeny谈BLG夺冠",
       "onboard_time": 1774235180,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98537,
-      "num": 98537,
-      "word": "董洁回应没有做烤瓷牙",
-      "onboard_time": 1774413206,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 98518,
@@ -9371,6 +9419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 44914,
+      "num": 206000,
+      "word": "山姆饼干配料表和实物不一致被立案",
+      "onboard_time": 1774414825,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44875,
       "num": 135177,
       "word": "曼谷偶遇戚薇李承铉",
@@ -9481,14 +9537,6 @@
       "onboard_time": 1774403903,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 37166,
-      "num": 107401,
-      "word": "山姆饼干配料表和实物不一致被立案",
-      "onboard_time": 1774414825,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37128,
@@ -9636,7 +9684,7 @@
     },
     {
       "raw_hot": 30869,
-      "num": 107386,
+      "num": 119798,
       "word": "五角大楼和记者杠上了",
       "onboard_time": 1774414825,
       "rank": 39,
