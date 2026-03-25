@@ -1,0 +1,410 @@
+{
+  "runTime": 1774439327410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 612038,
+        "num": 1097926,
+        "word": "32岁产妇羊水栓塞成植物人",
+        "onboard_time": 1774436244,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281561,
+        "num": 780887,
+        "word": "医生称运动对血管是直接伤害",
+        "onboard_time": 1774433183,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 33547,
+        "num": 642434,
+        "word": "9年时间雄安新区长成了啥模样",
+        "onboard_time": 1774423704,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273571,
+        "num": 642417,
+        "word": "台湾赌王身中29枪死亡5枪爆头",
+        "onboard_time": 1774436782,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188129,
+        "num": 634202,
+        "word": "统一后台湾民众可以自驾直达北京",
+        "onboard_time": 1774429222,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 841369,
+        "num": 628550,
+        "word": "于东来宣布每人退3000元",
+        "onboard_time": 1774431201,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106834,
+        "num": 626685,
+        "word": "Uzi谈LPL退役选手",
+        "onboard_time": 1774439303,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10373,
+        "num": 621438,
+        "word": "福农优品我在家乡等你来",
+        "onboard_time": 1774438643,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87330,
+        "num": 615126,
+        "word": "猝死为啥会盯上年轻人",
+        "onboard_time": 1774437203,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 293662,
+        "num": 610638,
+        "word": "耳帝评价周杰伦新专辑",
+        "onboard_time": 1774432044,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106203,
+        "num": 605239,
+        "word": "3个旧手机能换一台iPhone",
+        "onboard_time": 1774424363,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 282049,
+        "num": 600408,
+        "word": "张雪峰对女儿未来的规划与期盼",
+        "onboard_time": 1774431862,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271001,
+        "num": 598312,
+        "word": "王俊凯专辑概念预告",
+        "onboard_time": 1774434742,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265512,
+        "num": 592889,
+        "word": "晋江 花了好多钱",
+        "onboard_time": 1774426161,
+        "rank": 13,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 261457,
+        "num": 586375,
+        "word": "50岁女子同房后出血查出晚期宫颈癌",
+        "onboard_time": 1774431262,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252418,
+        "num": 581931,
+        "word": "张雪峰医疗文件疑遭泄露",
+        "onboard_time": 1774439182,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244310,
+        "num": 577564,
+        "word": "逐玉 删减",
+        "onboard_time": 1774438761,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216567,
+        "num": 573295,
+        "word": "小猫不洗头为什么脑袋不臭",
+        "onboard_time": 1774431082,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42986,
+        "num": 569567,
+        "word": "理工男开始靠脸吃饭了",
+        "onboard_time": 1774435163,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 93728,
+        "num": 567381,
+        "word": "伊朗称再向美林肯号航母发射导弹",
+        "onboard_time": 1774433903,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73953,
+        "num": 562781,
+        "word": "疑泄露张雪峰医疗文件可判刑七年",
+        "onboard_time": 1774439122,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214628,
+        "num": 554603,
+        "word": "员工买车买房张雪峰都不缺席",
+        "onboard_time": 1774434444,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1355997,
+        "num": 552824,
+        "word": "造谣刘晓庆去世的是她外甥",
+        "onboard_time": 1774434563,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197709,
+        "num": 548066,
+        "word": "颉斌斌悼念张雪峰",
+        "onboard_time": 1774433062,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544158,
+        "num": 544158,
+        "word": "张晋曾因突发心脏病血管堵塞近80%",
+        "onboard_time": 1774433782,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320662,
+        "num": 320662,
+        "word": "原来迪丽热巴的20岁也难熬",
+        "onboard_time": 1774433962,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264028,
+        "num": 264028,
+        "word": "伊朗声明通行霍尔木兹海峡船只条件",
+        "onboard_time": 1774431803,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193341,
+        "num": 193341,
+        "word": "四川乐山一公交车车身广告语引争议",
+        "onboard_time": 1774428924,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248884,
+        "num": 185110,
+        "word": "古偶粉底液将军101",
+        "onboard_time": 1774429043,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176338,
+        "num": 176338,
+        "word": "张雪峰离去并不会终结的喧嚣",
+        "onboard_time": 1774434264,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162000,
+        "num": 162000,
+        "word": "奔跑吧14定档",
+        "onboard_time": 1774429283,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131446,
+        "num": 131446,
+        "word": "大冰直播悼念张雪峰",
+        "onboard_time": 1774439242,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131386,
+        "num": 131386,
+        "word": "情侣刚把电瓶车停好就出事了",
+        "onboard_time": 1774434202,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131278,
+        "num": 131278,
+        "word": "周杰伦新专辑 二胎刚好三胎就烦了",
+        "onboard_time": 1774434264,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127105,
+        "num": 127105,
+        "word": "线下追星 拼床",
+        "onboard_time": 1774422443,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120122,
+        "num": 120122,
+        "word": "分手退16万彩礼男方嫌少再要16.7万",
+        "onboard_time": 1774428562,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120075,
+        "num": 120075,
+        "word": "越来越多日本女性为供养牛郎跨境卖淫",
+        "onboard_time": 1774421363,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42063,
+        "num": 119894,
+        "word": "孙千地表最强的172",
+        "onboard_time": 1774438162,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44795,
+        "num": 119886,
+        "word": "张凌赫透明的前半生",
+        "onboard_time": 1774425683,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54076,
+        "num": 119886,
+        "word": "55岁信托公司董事长因心梗离世",
+        "onboard_time": 1774438224,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119886,
+        "num": 119885,
+        "word": "金价突然飙升",
+        "onboard_time": 1774438103,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114382,
+        "num": 114382,
+        "word": "蓝莓 寒性",
+        "onboard_time": 1774427303,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 60477,
+        "num": 113618,
+        "word": "雷军一句话卖出一辆车",
+        "onboard_time": 1774436363,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 113333,
+        "num": 113333,
+        "word": "何润东 翻红",
+        "onboard_time": 1774419023,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13018,
+        "num": 110060,
+        "word": "新加坡男生扮成女子行骗被鞭刑",
+        "onboard_time": 1774439303,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78605,
+        "num": 108149,
+        "word": "徐涛 研途考研",
+        "onboard_time": 1774438882,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 73363,
+        "num": 107955,
+        "word": "偶遇纪凌尘 看来综艺里不是演的",
+        "onboard_time": 1774438103,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107840,
+        "num": 107840,
+        "word": "男孩校园卡有就餐记录惨遭继母殴打",
+        "onboard_time": 1774436602,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26253,
+        "num": 106895,
+        "word": "被同学爷爷砍成重伤幼童母亲发声",
+        "onboard_time": 1774438041,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33363,
+        "num": 106829,
+        "word": "员工称遭研究所所长猥亵被保安救下",
+        "onboard_time": 1774437801,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系雄安小树苗#"
+    }
+  }
+}
