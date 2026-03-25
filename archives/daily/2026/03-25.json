@@ -1,6 +1,6 @@
 {
   "startTime": 1774372134651,
-  "endTime": 1774419083970,
+  "endTime": 1774420829613,
   "band_list": [
     {
       "raw_hot": 2601228,
@@ -91,6 +91,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 861422,
+      "num": 609522,
+      "word": "张雪峰微博曾5次提及猝死",
+      "onboard_time": 1774414825,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 853000,
       "num": 434651,
       "word": "人生真好玩 下辈子还来",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 833736,
-      "num": 332324,
+      "num": 332567,
       "word": "员工称救心丸不会因张雪峰事件涨价",
       "onboard_time": 1774414946,
       "rank": 16,
@@ -155,12 +163,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 664369,
-      "num": 549220,
-      "word": "张雪峰微博曾5次提及猝死",
-      "onboard_time": 1774414825,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 624560,
+      "num": 429480,
+      "word": "何润东 翻红",
+      "onboard_time": 1774419023,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 609505,
+      "num": 609505,
+      "word": "去动物园一定不要穿水果鞋",
+      "onboard_time": 1774417163,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 600029,
@@ -252,15 +268,15 @@
     },
     {
       "raw_hot": 510702,
-      "num": 282076,
+      "num": 499830,
       "word": "张雪峰曾给焦虑买房的员工借100万",
       "onboard_time": 1774415245,
       "rank": 21,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 494698,
-      "num": 1079151,
+      "raw_hot": 501456,
+      "num": 1080232,
       "word": "奔跑吧",
       "onboard_time": 1774414885,
       "rank": 46,
@@ -283,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 468736,
-      "num": 287709,
-      "word": "去动物园一定不要穿水果鞋",
-      "onboard_time": 1774417163,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 463056,
       "num": 157054,
       "word": "心源性猝死",
@@ -305,6 +313,14 @@
       "onboard_time": 1774411044,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 447021,
+      "num": 808988,
+      "word": "和平统一后大陆可帮台湾建环岛高铁",
+      "onboard_time": 1774416203,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 443291,
@@ -347,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429010,
+      "num": 429010,
+      "word": "李艺彤哭着和粉丝道歉",
+      "onboard_time": 1774419203,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416985,
       "num": 416985,
       "word": "向太说人一定要学会避谶",
@@ -361,14 +385,6 @@
       "onboard_time": 1774411763,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 347980,
-      "num": 347980,
-      "word": "和平统一后大陆可帮台湾建环岛高铁",
-      "onboard_time": 1774416203,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 345030,
@@ -467,6 +483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 269217,
+      "num": 609717,
+      "word": "华晨宇火星乐园2.0真的来了",
+      "onboard_time": 1774420223,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 261607,
       "num": 261607,
       "word": "张雪峰骑小电驴上下班",
@@ -515,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221795,
+      "num": 221795,
+      "word": "心源性猝死急救最忌打车去医院",
+      "onboard_time": 1774420282,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212746,
       "num": 212746,
       "word": "现货黄金",
@@ -529,6 +561,14 @@
       "onboard_time": 1774401863,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199616,
+      "num": 199616,
+      "word": "美国男子养老院强奸61岁老人被拍下",
+      "onboard_time": 1774418303,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 199312,
@@ -579,12 +619,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 184356,
-      "num": 184356,
-      "word": "美国男子养老院强奸61岁老人被拍下",
-      "onboard_time": 1774418303,
-      "rank": 20,
-      "category": "海外新闻"
+      "raw_hot": 189618,
+      "num": 189618,
+      "word": "偶遇孔刘与男子搭肩散步",
+      "onboard_time": 1774419623,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 181318,
@@ -635,8 +675,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169453,
+      "num": 285618,
+      "word": "国台办回应蔡正元入狱服刑",
+      "onboard_time": 1774418362,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161622,
-      "num": 126913,
+      "num": 131239,
       "word": "台湾赌王疑遛狗时身中29枪",
       "onboard_time": 1774418422,
       "rank": 30,
@@ -656,6 +704,14 @@
       "word": "张雪峰公司3年参保人数涨超10倍",
       "onboard_time": 1774415245,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155491,
+      "num": 155491,
+      "word": "张雪峰的封神演讲",
+      "onboard_time": 1774418124,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -692,11 +748,19 @@
     },
     {
       "raw_hot": 146446,
-      "num": 126769,
+      "num": 131716,
       "word": "花27万买摊位老板开业5天快回本一半",
       "onboard_time": 1774416023,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145786,
+      "num": 145786,
+      "word": "Breathe乌兹杯最后一舞",
+      "onboard_time": 1774419683,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 143072,
@@ -721,6 +785,14 @@
       "onboard_time": 1774408764,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135826,
+      "num": 117292,
+      "word": "张雪峰晒得最多的是捐款回执单",
+      "onboard_time": 1774419562,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134395,
@@ -851,11 +923,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125001,
-      "num": 125001,
-      "word": "张雪峰的封神演讲",
-      "onboard_time": 1774418124,
-      "rank": 34,
+      "raw_hot": 123670,
+      "num": 123670,
+      "word": "湖南姐弟遭继母生父虐待细节曝光",
+      "onboard_time": 1774417823,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -889,6 +961,22 @@
       "onboard_time": 1774393581,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117595,
+      "num": 284617,
+      "word": "日本教师自曝如何洗脑学生",
+      "onboard_time": 1774417883,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 117401,
+      "num": 117401,
+      "word": "梅姨疑似居住地村民发声",
+      "onboard_time": 1774417343,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117113,
@@ -1027,14 +1115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105582,
-      "num": 105582,
-      "word": "梅姨疑似居住地村民发声",
-      "onboard_time": 1774417343,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105507,
       "num": 105507,
       "word": "KPL",
@@ -1048,6 +1128,14 @@
       "word": "张凌赫录制开推就一个要求",
       "onboard_time": 1774398445,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103683,
+      "num": 103683,
+      "word": "都来向刘晓庆学习就不死",
+      "onboard_time": 1774420043,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1091,12 +1179,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 99895,
-      "num": 99895,
-      "word": "何润东 翻红",
-      "onboard_time": 1774419023,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 99577,
+      "num": 106001,
+      "word": "曝iG第二赛段阵容",
+      "onboard_time": 1774419982,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 99101,
@@ -1145,6 +1233,22 @@
       "onboard_time": 1774399406,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93581,
+      "num": 102562,
+      "word": "心源性猝死急救黄金4分钟",
+      "onboard_time": 1774420762,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 92848,
+      "num": 90338,
+      "word": "孔雪儿 女主剧本",
+      "onboard_time": 1774419502,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 91532,
@@ -1201,6 +1305,14 @@
       "onboard_time": 1774382954,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86743,
+      "num": 86743,
+      "word": "无畏首个双位置入围选手",
+      "onboard_time": 1774420102,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 86420,
@@ -1355,14 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65753,
-      "num": 284617,
-      "word": "日本教师自曝如何洗脑学生",
-      "onboard_time": 1774417883,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65301,
       "num": 683588,
       "word": "外交部回应日方拟将中日关系降级",
@@ -1409,14 +1513,6 @@
       "onboard_time": 1774355549,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59104,
-      "num": 285618,
-      "word": "国台办回应蔡正元入狱服刑",
-      "onboard_time": 1774418362,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 57427,
@@ -1683,20 +1779,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20737,
+      "num": 632673,
+      "word": "博鳌亚洲论坛2026年年会看点",
+      "onboard_time": 1774403486,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20730,
       "num": 113793,
       "word": "遭虐待男童反复说妈妈你能带我走吗",
       "onboard_time": 1774418422,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15536,
-      "num": 632673,
-      "word": "博鳌亚洲论坛2026年年会看点",
-      "onboard_time": 1774403486,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14796,
