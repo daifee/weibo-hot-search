@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774420829613,
+  "endTime": 1774425591809,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -139,6 +139,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 1866736,
+      "num": 225679,
+      "word": "张雪峰离世留下的生意与争议",
+      "onboard_time": 1774423222,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1792417,
       "num": 597018,
       "word": "以色列被打穿了",
@@ -225,6 +233,14 @@
       "onboard_time": 1774191982,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1383221,
+      "num": 1383221,
+      "word": "徐涛课程取消",
+      "onboard_time": 1774422383,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1328955,
@@ -521,6 +537,14 @@
       "onboard_time": 1774170861,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 872511,
+      "num": 225762,
+      "word": "大冰曾劝张雪峰做了好事要往外说",
+      "onboard_time": 1774421603,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 866212,
@@ -1003,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 565351,
+      "num": 214829,
+      "word": "线下追星 拼床",
+      "onboard_time": 1774422443,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563927,
       "num": 288207,
       "word": "浅浅为俞宝儿改名齐煜",
@@ -1467,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432855,
+      "num": 225727,
+      "word": "刘晓庆再发文辟谣去世",
+      "onboard_time": 1774424002,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432625,
       "num": 977442,
       "word": "周杰伦新歌口碑",
@@ -1715,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381760,
+      "num": 225612,
+      "word": "小泡芙颜值",
+      "onboard_time": 1774424663,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379556,
       "num": 217702,
       "word": "贾斯汀比伯Usher派对打架",
@@ -1875,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 351318,
+      "num": 867914,
+      "word": "何凯文 我连假装较劲的对象都没了",
+      "onboard_time": 1774424545,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349989,
       "num": 201263,
       "word": "伊朗称特朗普推迟袭击表态为心理战",
@@ -1913,6 +1969,14 @@
       "onboard_time": 1774400126,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 343047,
+      "num": 225884,
+      "word": "张雪峰曾含泪说苦和累都是为了家人",
+      "onboard_time": 1774424182,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 342463,
@@ -2225,6 +2289,14 @@
       "onboard_time": 1774255583,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294994,
+      "num": 214383,
+      "word": "越来越多日本女性为供养牛郎跨境卖淫",
+      "onboard_time": 1774421363,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 294373,
@@ -2811,6 +2883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 227789,
+      "num": 225582,
+      "word": "心源性猝死急救最忌打车去医院",
+      "onboard_time": 1774420282,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 227457,
       "num": 109135,
       "word": "多邻国喊辛芷蕾妈妈",
@@ -2825,6 +2905,22 @@
       "onboard_time": 1774339042,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 225886,
+      "num": 225886,
+      "word": "花27万买摊位老板开业5天快回本一半",
+      "onboard_time": 1774416023,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225485,
+      "num": 225485,
+      "word": "程潇 布偶猫",
+      "onboard_time": 1774423582,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 225355,
@@ -2889,14 +2985,6 @@
       "onboard_time": 1774352130,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221795,
-      "num": 221795,
-      "word": "心源性猝死急救最忌打车去医院",
-      "onboard_time": 1774420282,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 219507,
@@ -2977,6 +3065,14 @@
       "onboard_time": 1774359224,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213184,
+      "num": 213184,
+      "word": "偶遇孔刘与男子搭肩散步",
+      "onboard_time": 1774419623,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 212913,
@@ -3147,6 +3243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198969,
+      "num": 225499,
+      "word": "遭虐待男童反复说妈妈你能带我走吗",
+      "onboard_time": 1774418422,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198045,
       "num": 785426,
       "word": "专家称梅姨可能觉得自己在做善事",
@@ -3283,20 +3387,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 189618,
-      "num": 189618,
-      "word": "偶遇孔刘与男子搭肩散步",
-      "onboard_time": 1774419623,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189373,
       "num": 167055,
       "word": "热巴给开推团准备了新疆特产",
       "onboard_time": 1774322781,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189078,
+      "num": 133817,
+      "word": "油管网红露脸导致事业被毁",
+      "onboard_time": 1774423944,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 187484,
@@ -3595,6 +3699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171791,
+      "num": 153998,
+      "word": "金智媛宝格丽合照C位",
+      "onboard_time": 1774423044,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171504,
       "num": 110713,
       "word": "胡楚靓前男友新恋情",
@@ -3649,6 +3761,14 @@
       "onboard_time": 1774313301,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169573,
+      "num": 169573,
+      "word": "朋友圈跑步打卡",
+      "onboard_time": 1774420943,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 169453,
@@ -3736,6 +3856,14 @@
       "word": "张凌赫让90岁追剧的爷爷早点休息",
       "onboard_time": 1774225642,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162407,
+      "num": 138216,
+      "word": "迪丽热巴陈飞宇一个爆炸头一个牛舔头",
+      "onboard_time": 1774423163,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -4001,14 +4129,6 @@
       "onboard_time": 1774145720,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146446,
-      "num": 131716,
-      "word": "花27万买摊位老板开业5天快回本一半",
-      "onboard_time": 1774416023,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146118,
@@ -4363,6 +4483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133976,
+      "num": 133976,
+      "word": "张雪峰生前开导抑郁女孩",
+      "onboard_time": 1774423521,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133886,
       "num": 133886,
       "word": "梅姨难抓或是因为长相太普通",
@@ -4475,12 +4603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130677,
+      "num": 130677,
+      "word": "3个旧手机能换一台iPhone",
+      "onboard_time": 1774424363,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130185,
       "num": 479338,
       "word": "殡葬行业大哥缓解孤独终老焦虑",
       "onboard_time": 1774364615,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129655,
+      "num": 129655,
+      "word": "杨笠说我撑过来了",
+      "onboard_time": 1774422383,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 129532,
@@ -4665,6 +4809,14 @@
       "onboard_time": 1774103783,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 126638,
+      "num": 126638,
+      "word": "多位年轻企业家因心梗离世",
+      "onboard_time": 1774424123,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126607,
@@ -5347,6 +5499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110792,
+      "num": 110792,
+      "word": "逐玉爆火后最大的受害者",
+      "onboard_time": 1774424483,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110712,
       "num": 110712,
       "word": "雷军回应小米2025年净利润391.7亿",
@@ -5361,6 +5521,14 @@
       "onboard_time": 1774408885,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110513,
+      "num": 110513,
+      "word": "肖战在锦州时给流浪猫买了猫窝",
+      "onboard_time": 1774422443,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 109860,
@@ -6091,6 +6259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96073,
+      "num": 96073,
+      "word": "迪丽热巴贺思慕特效妆vlog",
+      "onboard_time": 1774424782,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95928,
       "num": 95928,
       "word": "谢征樊长玉互换衣服了",
@@ -6243,6 +6419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93687,
+      "num": 92719,
+      "word": "孔雪儿 女主剧本",
+      "onboard_time": 1774419502,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93581,
       "num": 102562,
       "word": "心源性猝死急救黄金4分钟",
@@ -6299,6 +6483,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 93177,
+      "num": 107213,
+      "word": "泡泡玛特将推家电产品",
+      "onboard_time": 1774424603,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93169,
       "num": 95017,
       "word": "萧蔷曾多次婉拒浪姐邀约",
@@ -6339,20 +6531,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92848,
-      "num": 90338,
-      "word": "孔雪儿 女主剧本",
-      "onboard_time": 1774419502,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92790,
       "num": 92790,
       "word": "世界是个巨大的卡颜局",
       "onboard_time": 1774235540,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92726,
+      "num": 92726,
+      "word": "商场回应专柜买4个LV包为假货",
+      "onboard_time": 1774425084,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92681,
+      "num": 92681,
+      "word": "外卖大战该结束了",
+      "onboard_time": 1774424844,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 92243,
@@ -6641,6 +6841,14 @@
       "onboard_time": 1774171458,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88440,
+      "num": 89264,
+      "word": "泡泡玛特",
+      "onboard_time": 1774422503,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 88251,
@@ -9235,6 +9443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57555,
+      "num": 722116,
+      "word": "9年时间雄安新区长成了啥模样",
+      "onboard_time": 1774423704,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57476,
       "num": 57476,
       "word": "人类对健身房器械开发不足百分之一",
@@ -9555,6 +9771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48569,
+      "num": 215479,
+      "word": "扎着马步吃麦辣夯爆了",
+      "onboard_time": 1774424363,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 48467,
       "num": 181267,
       "word": "张真源 天气心情晚饭",
@@ -9779,6 +10003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38617,
+      "num": 101773,
+      "word": "情侣正亲密被酒店员工开窗最新进展",
+      "onboard_time": 1774424963,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38579,
       "num": 78618,
       "word": "女童扁桃体手术后死亡妈妈再发声",
@@ -9921,6 +10153,14 @@
       "onboard_time": 1774333819,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31681,
+      "num": 88773,
+      "word": "如果刘星长大后上恋综",
+      "onboard_time": 1774417883,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 31663,
@@ -10265,14 +10505,6 @@
       "onboard_time": 1774403486,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20730,
-      "num": 113793,
-      "word": "遭虐待男童反复说妈妈你能带我走吗",
-      "onboard_time": 1774418422,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20493,
@@ -10664,6 +10896,9 @@
     },
     {
       "word": "#习近平赴河北雄安新区考察纪实#"
+    },
+    {
+      "word": "#习近平心系雄安小树苗#"
     }
   ]
 }
