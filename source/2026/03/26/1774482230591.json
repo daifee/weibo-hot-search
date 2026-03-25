@@ -1,0 +1,410 @@
+{
+  "runTime": 1774482230591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 576164,
+        "num": 955536,
+        "word": "老头乐起诉小米汽车",
+        "onboard_time": 1774452082,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 335322,
+        "num": 709668,
+        "word": "菲律宾纠集大量船只冲闯中方演训区",
+        "onboard_time": 1774452922,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16429,
+        "num": 559750,
+        "word": "中国为世界创造新机遇",
+        "onboard_time": 1774444583,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242297,
+        "num": 242297,
+        "word": "专家说黄金正重演08年剧本",
+        "onboard_time": 1774444884,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159079,
+        "num": 159079,
+        "word": "男子陪家人看病被医生发现猝死先兆",
+        "onboard_time": 1774448183,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296820,
+        "num": 153736,
+        "word": "伊朗提出关于停战5项条件",
+        "onboard_time": 1774455079,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193202,
+        "num": 150046,
+        "word": "西山车祸",
+        "onboard_time": 1774452261,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143885,
+        "num": 143885,
+        "word": "宫装樊长玉",
+        "onboard_time": 1774454901,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128877,
+        "num": 128877,
+        "word": "心源性猝死发生时的唯一急救手段",
+        "onboard_time": 1774440263,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 121993,
+        "num": 121993,
+        "word": "中方坚决反对美强行控制一国元首",
+        "onboard_time": 1774452143,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3334180,
+        "num": 120055,
+        "word": "张雪峰妻子",
+        "onboard_time": 1774480519,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361207,
+        "num": 119034,
+        "word": "熬夜不是猝死的第一杀手",
+        "onboard_time": 1774453402,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2760500,
+        "num": 115819,
+        "word": "张雪峰追悼会",
+        "onboard_time": 1774479318,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215808,
+        "num": 114753,
+        "word": "刘晓庆接手妹妹的儿子抚养",
+        "onboard_time": 1774455320,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171064,
+        "num": 110711,
+        "word": "速效救心丸最好不要贴身携带",
+        "onboard_time": 1774441343,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150026,
+        "num": 109547,
+        "word": "伊朗称击落美军F18战机",
+        "onboard_time": 1774481120,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 129436,
+        "num": 107001,
+        "word": "白鹿在飞机上都没有吃飞机餐",
+        "onboard_time": 1774450705,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106148,
+        "num": 106148,
+        "word": "张凌赫中学时期贴吧发言",
+        "onboard_time": 1774449203,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91219,
+        "num": 102095,
+        "word": "32岁产妇羊水栓塞成植物人",
+        "onboard_time": 1774436244,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99329,
+        "num": 99329,
+        "word": "何润东近7日涨粉25.6万",
+        "onboard_time": 1774444823,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109830,
+        "num": 99022,
+        "word": "伊朗称正在搜捕逃亡美军",
+        "onboard_time": 1774481660,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95303,
+        "num": 95303,
+        "word": "董洁王橹杰捧脸",
+        "onboard_time": 1774458557,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97612,
+        "num": 93359,
+        "word": "张凌赫张家玮时期",
+        "onboard_time": 1774481240,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81555,
+        "num": 81555,
+        "word": "男子切到手晕血边晕边爬去医院",
+        "onboard_time": 1774481541,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76438,
+        "num": 76438,
+        "word": "出差猥亵女下属研究所所长被刑拘",
+        "onboard_time": 1774439963,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 72991,
+        "num": 72991,
+        "word": "美国拟停火1个月",
+        "onboard_time": 1774481300,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72748,
+        "num": 72748,
+        "word": "21岁女子为养团播男友打2份工",
+        "onboard_time": 1774451723,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72637,
+        "num": 72637,
+        "word": "身体有这6种表现最好别运动",
+        "onboard_time": 1774445485,
+        "rank": 27,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 71527,
+        "num": 71527,
+        "word": "日方回应自卫队人员强闯我大使馆",
+        "onboard_time": 1774446443,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69087,
+        "num": 69087,
+        "word": "上海警方通报女子出差遭领导猥亵",
+        "onboard_time": 1774448843,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63903,
+        "num": 63903,
+        "word": "身体有这些症状要注意了",
+        "onboard_time": 1774464014,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63871,
+        "num": 63871,
+        "word": "罗永浩回应对话杨笠掉粉",
+        "onboard_time": 1774454421,
+        "rank": 31,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 62812,
+        "num": 62812,
+        "word": "如何改善慢性炎症",
+        "onboard_time": 1774441163,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 60851,
+        "num": 60851,
+        "word": "内蒙古地震",
+        "onboard_time": 1774451423,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 58551,
+        "num": 58551,
+        "word": "气得想把刘敏涛的痣抠下来",
+        "onboard_time": 1774445423,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56912,
+        "num": 56912,
+        "word": "杨幂江山大同简介",
+        "onboard_time": 1774481780,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56869,
+        "num": 56869,
+        "word": "国产激光武器真实打击画面",
+        "onboard_time": 1774447164,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 54761,
+        "num": 54761,
+        "word": "我和Angelababy居然是同一个物种",
+        "onboard_time": 1774442062,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53433,
+        "num": 53433,
+        "word": "洛克王国世界开服",
+        "onboard_time": 1774480819,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52589,
+        "num": 52589,
+        "word": "黄金重演08年剧本",
+        "onboard_time": 1774454601,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 51852,
+        "num": 51852,
+        "word": "第一次知道玻璃厂不能停电",
+        "onboard_time": 1774442122,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 49664,
+        "num": 50870,
+        "word": "伊朗喊话特朗普别把失败称协议",
+        "onboard_time": 1774481660,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50298,
+        "num": 50298,
+        "word": "逐玉 删减",
+        "onboard_time": 1774438761,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49739,
+        "num": 49739,
+        "word": "二六三涨停",
+        "onboard_time": 1774480699,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49563,
+        "num": 49563,
+        "word": "俞宝儿扮演者回复邓凯孔雪儿",
+        "onboard_time": 1774455260,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49490,
+        "num": 49490,
+        "word": "Uzi自曝与iG管理层沟通",
+        "onboard_time": 1774449023,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45773,
+        "num": 49489,
+        "word": "于东来宣布每人退3000元",
+        "onboard_time": 1774431201,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45587,
+        "num": 49486,
+        "word": "我是公安大学的",
+        "onboard_time": 1774462454,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44866,
+        "num": 49485,
+        "word": "江山大同巨女主的历史正剧",
+        "onboard_time": 1774470194,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40586,
+        "num": 49482,
+        "word": "台湾赌王身中29枪死亡5枪爆头",
+        "onboard_time": 1774436782,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记赴雄安新区考察纪实#"
+    }
+  }
+}

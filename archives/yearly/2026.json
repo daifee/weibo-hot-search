@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774479838038,
+  "endTime": 1774482230591,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -947,6 +947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 3334180,
+      "num": 120055,
+      "word": "张雪峰妻子",
+      "onboard_time": 1774480519,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3306102,
       "num": 3306102,
       "word": "伊朗首都发生爆炸",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1769681065,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2760500,
+      "num": 115819,
+      "word": "张雪峰追悼会",
+      "onboard_time": 1774479318,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2760241,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1771311020,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1714835,
-      "num": 254716,
-      "word": "萝莉岛 恶魔岛",
-      "onboard_time": 1770102981,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1708257,
-      "num": 452427,
-      "word": "两男孩玩火烧死萨摩耶狗主人发声",
-      "onboard_time": 1770029061,
-      "rank": 15,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
