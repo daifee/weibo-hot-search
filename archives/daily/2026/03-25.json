@@ -1,6 +1,6 @@
 {
   "startTime": 1774372134651,
-  "endTime": 1774440220156,
+  "endTime": 1774445207899,
   "band_list": [
     {
       "raw_hot": 2601228,
@@ -105,6 +105,14 @@
       "onboard_time": 1774367365,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1234370,
+      "num": 160206,
+      "word": "刘晓庆亲妹妹一家希望她没有后代",
+      "onboard_time": 1774440563,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1046535,
@@ -283,6 +291,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 575920,
+      "num": 183718,
+      "word": "速效救心丸最好不要贴身携带",
+      "onboard_time": 1774441343,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 570802,
+      "num": 1091328,
+      "word": "第一次知道玻璃厂不能停电",
+      "onboard_time": 1774442122,
+      "rank": 0,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 569336,
       "num": 600408,
       "word": "张雪峰对女儿未来的规划与期盼",
@@ -307,20 +331,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564301,
+      "num": 577564,
+      "word": "逐玉 删减",
+      "onboard_time": 1774438761,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 562743,
       "num": 592889,
       "word": "晋江 花了好多钱",
       "onboard_time": 1774426161,
       "rank": 10,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 557775,
-      "num": 577564,
-      "word": "逐玉 删减",
-      "onboard_time": 1774438761,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 549625,
@@ -571,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 393869,
+      "num": 642417,
+      "word": "台湾赌王身中29枪死亡5枪爆头",
+      "onboard_time": 1774436782,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 391605,
       "num": 586375,
       "word": "50岁女子同房后出血查出晚期宫颈癌",
@@ -649,14 +681,6 @@
       "onboard_time": 1774403364,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 329699,
-      "num": 642417,
-      "word": "台湾赌王身中29枪死亡5枪爆头",
-      "onboard_time": 1774436782,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 326934,
@@ -744,6 +768,14 @@
       "word": "女子称专柜买4个LV包鉴定为假货",
       "onboard_time": 1774394303,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300577,
+      "num": 771576,
+      "word": "于东来因对下属发脾气赔40多万",
+      "onboard_time": 1774443144,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -859,6 +891,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 236667,
+      "num": 175124,
+      "word": "董洁王橹杰演母子",
+      "onboard_time": 1774443622,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 233236,
+      "num": 189097,
+      "word": "薛之谦演唱会 视角",
+      "onboard_time": 1774439363,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 231190,
       "num": 225582,
       "word": "心源性猝死急救最忌打车去医院",
@@ -881,6 +929,14 @@
       "onboard_time": 1774376356,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226747,
+      "num": 476005,
+      "word": "出差猥亵女下属研究所所长被刑拘",
+      "onboard_time": 1774439963,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 226136,
@@ -913,6 +969,14 @@
       "onboard_time": 1774428924,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217281,
+      "num": 217281,
+      "word": "40岁以上常熬夜体检加做一项",
+      "onboard_time": 1774442002,
+      "rank": 3,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 214628,
@@ -1131,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159419,
+      "num": 159419,
+      "word": "刘亦菲车内大片",
+      "onboard_time": 1774442903,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158736,
       "num": 158736,
       "word": "何润东 项羽杀秦军情况说明",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1774395083,
       "rank": 25,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 149330,
+      "num": 129028,
+      "word": "偶遇纪凌尘 看来综艺里不是演的",
+      "onboard_time": 1774438103,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 145786,
@@ -1363,6 +1443,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 128402,
+      "num": 128402,
+      "word": "我和Angelababy居然是同一个物种",
+      "onboard_time": 1774442062,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128173,
       "num": 128173,
       "word": "建议心血管不好的人改一下运动时间",
@@ -1435,6 +1523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124736,
+      "num": 124736,
+      "word": "何润东近7日涨粉25.6万",
+      "onboard_time": 1774444823,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123670,
       "num": 123670,
       "word": "湖南姐弟遭继母生父虐待细节曝光",
@@ -1473,6 +1569,14 @@
       "onboard_time": 1774406784,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120049,
+      "num": 105978,
+      "word": "黄多多 完美继承爸妈优点",
+      "onboard_time": 1774440142,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 119976,
@@ -1521,6 +1625,14 @@
       "onboard_time": 1774371859,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116969,
+      "num": 128630,
+      "word": "如何改善慢性炎症",
+      "onboard_time": 1774441163,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115650,
@@ -1593,6 +1705,14 @@
       "onboard_time": 1774417583,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110618,
+      "num": 186004,
+      "word": "无畏任豪双A合拍",
+      "onboard_time": 1774441643,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 110529,
@@ -1675,14 +1795,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 106848,
-      "num": 476005,
-      "word": "出差猥亵女下属研究所所长被刑拘",
-      "onboard_time": 1774439963,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 106834,
       "num": 626685,
       "word": "Uzi谈LPL退役选手",
@@ -1699,20 +1811,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 106544,
-      "num": 148865,
-      "word": "薛之谦演唱会 视角",
-      "onboard_time": 1774439363,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 106507,
       "num": 106507,
       "word": "为什么互联网深深悼念雪峰老师",
       "onboard_time": 1774418242,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105984,
+      "num": 105984,
+      "word": "心源性猝死发生时的唯一急救手段",
+      "onboard_time": 1774440263,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 105803,
+      "num": 105803,
+      "word": "陈奕恒 身材和脸各长各的",
+      "onboard_time": 1774439963,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 105732,
@@ -1769,6 +1889,14 @@
       "onboard_time": 1774420043,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102574,
+      "num": 102574,
+      "word": "金灿荣称张雪峰为社会做了不少好事",
+      "onboard_time": 1774443203,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102307,
@@ -1833,6 +1961,14 @@
       "onboard_time": 1774433002,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98088,
+      "num": 98088,
+      "word": "男孩在废品站9元捡漏平衡车",
+      "onboard_time": 1774443503,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97807,
@@ -2051,6 +2187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87973,
+      "num": 87973,
+      "word": "专家说黄金正重演08年剧本",
+      "onboard_time": 1774444884,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87445,
       "num": 47168,
       "word": "张雪峰 为学生打破信息差",
@@ -2195,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78219,
+      "num": 78219,
+      "word": "张婧仪 顶奢脸",
+      "onboard_time": 1774442305,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78204,
       "num": 78204,
       "word": "张雪峰曾说想为自己而活",
@@ -2219,6 +2371,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 77497,
+      "num": 77497,
+      "word": "25岁女子回应把6岁儿子丢酒店",
+      "onboard_time": 1774444162,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76566,
       "num": 76566,
       "word": "1分钟学会使用AED救命",
@@ -2233,6 +2393,14 @@
       "onboard_time": 1774406543,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75935,
+      "num": 75935,
+      "word": "孔雪儿回应为俞宝儿挡刀",
+      "onboard_time": 1774443922,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 74732,
@@ -2259,14 +2427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73363,
-      "num": 107955,
-      "word": "偶遇纪凌尘 看来综艺里不是演的",
-      "onboard_time": 1774438103,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72098,
       "num": 72098,
       "word": "上班心累高于身累",
@@ -2291,6 +2451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69839,
+      "num": 69839,
+      "word": "张雪峰帮助2200名贫困学子",
+      "onboard_time": 1774444344,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69663,
       "num": 69663,
       "word": "俞浅浅再也不可能真正自由了",
@@ -2307,11 +2475,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 66676,
-      "num": 97759,
-      "word": "陈奕恒 身材和脸各长各的",
-      "onboard_time": 1774439963,
-      "rank": 42,
+      "raw_hot": 67262,
+      "num": 67262,
+      "word": "TF一代出道时五代陆续出生",
+      "onboard_time": 1774440203,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -2321,6 +2489,14 @@
       "onboard_time": 1774403603,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65522,
+      "num": 65522,
+      "word": "看得出肖战在重庆街头非常忙了",
+      "onboard_time": 1774440802,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 65301,
@@ -2457,6 +2633,14 @@
       "onboard_time": 1774353509,
       "rank": 43,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 53097,
+      "num": 160588,
+      "word": "市监局回应专柜买4个LV包为假货",
+      "onboard_time": 1774444944,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52222,
@@ -2755,14 +2939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 27066,
-      "num": 100266,
-      "word": "黄多多 完美继承爸妈优点",
-      "onboard_time": 1774440142,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 26253,
       "num": 106895,
       "word": "被同学爷爷砍成重伤幼童母亲发声",
@@ -2819,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17183,
+      "num": 618710,
+      "word": "我国自研新一代超大型油船交付",
+      "onboard_time": 1774444764,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16786,
       "num": 254938,
       "word": "新加坡男生扮成女子行骗被鞭刑",
@@ -2833,6 +3017,14 @@
       "onboard_time": 1774436782,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15528,
+      "num": 77621,
+      "word": "中国为世界创造新机遇",
+      "onboard_time": 1774444583,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14796,
@@ -2908,6 +3100,9 @@
     },
     {
       "word": "#习近平心系雄安小树苗#"
+    },
+    {
+      "word": "#习近平总书记赴雄安新区考察纪实#"
     }
   ]
 }
