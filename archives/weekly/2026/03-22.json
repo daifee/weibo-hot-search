@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774516034483,
+  "endTime": 1774517680021,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 901615,
+      "num": 1144258,
+      "word": "iPhone4回收价暴涨80倍",
+      "onboard_time": 1774515321,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 895271,
       "num": 1029950,
       "word": "G2对战BLG",
@@ -1147,6 +1155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 601741,
+      "num": 262207,
+      "word": "王一博 乐华",
+      "onboard_time": 1774513822,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 600029,
       "num": 813898,
       "word": "日本陆上自卫队回应男子擅闯中使馆",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1774268481,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 592591,
+      "num": 176481,
+      "word": "助理曾因担心张雪峰准备买AED",
+      "onboard_time": 1774515622,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 590092,
@@ -1265,14 +1289,6 @@
       "onboard_time": 1774183942,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 570461,
-      "num": 262207,
-      "word": "王一博 乐华",
-      "onboard_time": 1774513822,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 569336,
@@ -2723,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324113,
+      "num": 324113,
+      "word": "王俊凯 演唱会",
+      "onboard_time": 1774513763,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 322226,
       "num": 271506,
       "word": "晋江副总裁称开发票是魔法攻击",
@@ -3251,6 +3275,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 263801,
+      "num": 365632,
+      "word": "孟子义差点上到李昀锐车上",
+      "onboard_time": 1774513642,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263427,
       "num": 263427,
       "word": "多位年轻企业家因心梗离世",
@@ -3467,6 +3499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244958,
+      "num": 266765,
+      "word": "伊朗伊斯兰革命卫队海军指挥官身亡",
+      "onboard_time": 1774515143,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 244499,
       "num": 761065,
       "word": "四川天府机场多名老人扶梯上逆行",
@@ -3571,6 +3611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 238028,
+      "num": 233332,
+      "word": "妈妈重回案发现场洗刷儿子血迹",
+      "onboard_time": 1774514241,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237355,
       "num": 212688,
       "word": "油管网红露脸导致事业被毁",
@@ -3643,14 +3691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233332,
-      "num": 233332,
-      "word": "妈妈重回案发现场洗刷儿子血迹",
-      "onboard_time": 1774514241,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233236,
       "num": 189097,
       "word": "薛之谦演唱会 视角",
@@ -3665,6 +3705,14 @@
       "onboard_time": 1774163840,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 232998,
+      "num": 232998,
+      "word": "我们一直把苹果放反了",
+      "onboard_time": 1774514901,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 232002,
@@ -3729,14 +3777,6 @@
       "onboard_time": 1774501521,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230549,
-      "num": 135133,
-      "word": "助理曾因担心张雪峰准备买AED",
-      "onboard_time": 1774515622,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230402,
@@ -3904,14 +3944,6 @@
       "word": "TOP或参加跑男",
       "onboard_time": 1774352130,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 222384,
-      "num": 365632,
-      "word": "孟子义差点上到李昀锐车上",
-      "onboard_time": 1774513642,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -4283,6 +4315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194724,
+      "num": 265117,
+      "word": "早期心血管病可能反映在脸上",
+      "onboard_time": 1774512504,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 194665,
       "num": 194665,
       "word": "万茜徒手拎起190斤观众",
@@ -4419,14 +4459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188568,
-      "num": 265117,
-      "word": "早期心血管病可能反映在脸上",
-      "onboard_time": 1774512504,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 187747,
       "num": 187747,
       "word": "女子被骗50万元民警追回100万元",
@@ -4465,14 +4497,6 @@
       "onboard_time": 1774165879,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 186165,
-      "num": 135087,
-      "word": "我们一直把苹果放反了",
-      "onboard_time": 1774514901,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 185811,
@@ -4585,14 +4609,6 @@
       "onboard_time": 1774358441,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 181566,
-      "num": 181566,
-      "word": "王俊凯 演唱会",
-      "onboard_time": 1774513763,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 181318,
@@ -4907,14 +4923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171235,
-      "num": 135041,
-      "word": "iPhone4回收价暴涨80倍",
-      "onboard_time": 1774515321,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 171098,
       "num": 140962,
       "word": "美股三大股指期货突然拉升",
@@ -5139,6 +5147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161423,
+      "num": 126650,
+      "word": "留几手发文暗讽被全网炮轰",
+      "onboard_time": 1774517181,
+      "rank": 26,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 161009,
       "num": 161009,
       "word": "惠英红 66岁正是晚上最热闹的时候",
@@ -5241,14 +5257,6 @@
       "onboard_time": 1774418124,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154754,
-      "num": 266765,
-      "word": "伊朗伊斯兰革命卫队海军指挥官身亡",
-      "onboard_time": 1774515143,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 154663,
@@ -5609,6 +5617,14 @@
       "onboard_time": 1774357171,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 140645,
+      "num": 125559,
+      "word": "刘佳梁聊天记录",
+      "onboard_time": 1774513822,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 140506,
@@ -6011,6 +6027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130855,
+      "num": 125007,
+      "word": "只有GEN认为T1夺冠",
+      "onboard_time": 1774517243,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130218,
       "num": 123366,
       "word": "刘诗诗镂空衬衫国风裙",
@@ -6259,6 +6283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 126674,
+      "num": 126674,
+      "word": "雪山救狐狸创作者最初只为卖酱板鸭",
+      "onboard_time": 1774516042,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126607,
       "num": 126607,
       "word": "黄金连续突破",
@@ -6289,6 +6321,14 @@
       "onboard_time": 1774416144,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125958,
+      "num": 125958,
+      "word": "卧床35年女子顺利产下健康宝宝",
+      "onboard_time": 1774510522,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125896,
@@ -6635,14 +6675,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 118393,
-      "num": 118393,
-      "word": "卧床35年女子顺利产下健康宝宝",
-      "onboard_time": 1774510522,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118203,
       "num": 118203,
       "word": "虞书欣云初令杀青上班路透",
@@ -6833,14 +6865,6 @@
       "onboard_time": 1774486941,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 115444,
-      "num": 115444,
-      "word": "刘佳梁聊天记录",
-      "onboard_time": 1774513822,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 115418,
@@ -7371,6 +7395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107152,
+      "num": 107152,
+      "word": "杨超越主演陈思诚新片",
+      "onboard_time": 1774515503,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107045,
       "num": 107045,
       "word": "KPL巅峰对决提速了",
@@ -7617,6 +7649,14 @@
       "onboard_time": 1774491560,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104600,
+      "num": 104600,
+      "word": "伊朗对美以发动82波打击",
+      "onboard_time": 1774516222,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104489,
@@ -7971,6 +8011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99145,
+      "num": 99145,
+      "word": "黄金跌破4430美元",
+      "onboard_time": 1774517243,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99126,
       "num": 99126,
       "word": "黄晓明林志玲握手",
@@ -8025,6 +8073,14 @@
       "onboard_time": 1774353811,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98394,
+      "num": 98394,
+      "word": "晋江发情况说明",
+      "onboard_time": 1774517601,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98277,
@@ -8105,6 +8161,14 @@
       "onboard_time": 1774349367,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 97685,
+      "num": 97685,
+      "word": "笔记本电脑销量暴跌40%",
+      "onboard_time": 1774516581,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 97579,
@@ -8940,7 +9004,7 @@
     },
     {
       "raw_hot": 89417,
-      "num": 115458,
+      "num": 161869,
       "word": "拼多多新拼姆一期150亿品牌自营",
       "onboard_time": 1774515982,
       "rank": 41,
@@ -11483,6 +11547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64820,
+      "num": 101054,
+      "word": "朴敏英瘦成这样",
+      "onboard_time": 1774516942,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64816,
       "num": 68388,
       "word": "每天上班必带的东西",
@@ -12459,6 +12531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49338,
+      "num": 160259,
+      "word": "男子为表忠心将房产99%份额转妻子",
+      "onboard_time": 1774516762,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48706,
       "num": 101277,
       "word": "陈哲远这次来跑男是真发",
@@ -12497,6 +12577,14 @@
       "onboard_time": 1774166361,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48184,
+      "num": 157294,
+      "word": "以色列担心特朗普突然停战",
+      "onboard_time": 1774517002,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48062,
@@ -12545,6 +12633,14 @@
       "onboard_time": 1774499963,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 47760,
+      "num": 104324,
+      "word": "伊称已击中202架美以军机",
+      "onboard_time": 1774517302,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47580,
@@ -13345,6 +13441,14 @@
       "onboard_time": 1774503380,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25530,
+      "num": 101056,
+      "word": "苏新皓痛失韩国市场",
+      "onboard_time": 1774517423,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 25311,
