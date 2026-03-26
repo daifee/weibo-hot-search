@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774532648814,
+  "endTime": 1774533935237,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -2396,7 +2396,7 @@
     },
     {
       "raw_hot": 376113,
-      "num": 208426,
+      "num": 335937,
       "word": "梁祯元 李羲承",
       "onboard_time": 1774529603,
       "rank": 15,
@@ -2441,6 +2441,14 @@
       "onboard_time": 1774163960,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 369737,
+      "num": 369737,
+      "word": "白敬亭郑合惠子互动",
+      "onboard_time": 1774533385,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 369326,
@@ -2747,6 +2755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330432,
+      "num": 568167,
+      "word": "张凌赫宋祖儿 刺棠",
+      "onboard_time": 1774530982,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329912,
       "num": 329912,
       "word": "AI短剧付费后竟然变成PPT",
@@ -2913,6 +2929,14 @@
       "onboard_time": 1774430902,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318409,
+      "num": 552437,
+      "word": "伊朗导弹2小时内4次密集砸向以本土",
+      "onboard_time": 1774531463,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 317828,
@@ -3105,6 +3129,14 @@
       "onboard_time": 1774255583,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295222,
+      "num": 1047235,
+      "word": "早期心血管病可能反映在脸上",
+      "onboard_time": 1774512504,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 294994,
@@ -3401,14 +3433,6 @@
       "onboard_time": 1774513642,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263486,
-      "num": 1042157,
-      "word": "早期心血管病可能反映在脸上",
-      "onboard_time": 1774512504,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 263427,
@@ -3769,14 +3793,6 @@
       "onboard_time": 1774423944,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 237047,
-      "num": 568167,
-      "word": "张凌赫宋祖儿 刺棠",
-      "onboard_time": 1774530982,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 236112,
@@ -4331,14 +4347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206933,
-      "num": 552437,
-      "word": "伊朗导弹2小时内4次密集砸向以本土",
-      "onboard_time": 1774531463,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 206028,
       "num": 206028,
       "word": "顺德文旅给8天吃胖8斤女子道歉",
@@ -4508,7 +4516,7 @@
     },
     {
       "raw_hot": 197220,
-      "num": 767938,
+      "num": 774354,
       "word": "内存条降价",
       "onboard_time": 1774523061,
       "rank": 1,
@@ -5643,6 +5651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146619,
+      "num": 351625,
+      "word": "逐玉 he",
+      "onboard_time": 1774532844,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146581,
       "num": 146581,
       "word": "挟猫妈以令诸咪",
@@ -6547,6 +6563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126979,
+      "num": 441453,
+      "word": "白鹿陈哲远合拍",
+      "onboard_time": 1774529843,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126738,
       "num": 710881,
       "word": "英国曼彻斯特桥洞下惊现中国烧烤摊",
@@ -7131,6 +7155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116327,
+      "num": 116327,
+      "word": "美方被曝正酝酿对伊朗最后一击",
+      "onboard_time": 1774529723,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115880,
       "num": 115880,
       "word": "赖清德宣布将重启核电厂",
@@ -7528,14 +7560,6 @@
       "word": "浪姐",
       "onboard_time": 1774431503,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 109866,
-      "num": 441453,
-      "word": "白鹿陈哲远合拍",
-      "onboard_time": 1774529843,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -8371,6 +8395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99616,
+      "num": 99616,
+      "word": "这些情况是心脏在报警",
+      "onboard_time": 1774533204,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99577,
       "num": 106001,
       "word": "曝iG第二赛段阵容",
@@ -8761,6 +8793,14 @@
       "onboard_time": 1774141941,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94926,
+      "num": 414651,
+      "word": "孙颖莎最心酸的一场比赛",
+      "onboard_time": 1774531103,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 94809,
@@ -9459,6 +9499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88555,
+      "num": 88555,
+      "word": "Tian回归TES",
+      "onboard_time": 1774532967,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88518,
       "num": 88518,
       "word": "涨价时代你会选择二手手机吗",
@@ -9643,12 +9691,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87171,
+      "num": 87171,
+      "word": "谢征樊长玉马车吻",
+      "onboard_time": 1774532365,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87107,
       "num": 87107,
       "word": "洛克王国御三家",
       "onboard_time": 1774449503,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 87091,
+      "num": 87091,
+      "word": "蔡康永问马龙观众特别漂亮会紧张吗",
+      "onboard_time": 1774530443,
+      "rank": 44,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 87082,
@@ -9697,14 +9761,6 @@
       "onboard_time": 1774337121,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86603,
-      "num": 86603,
-      "word": "蔡康永问马龙观众特别漂亮会紧张吗",
-      "onboard_time": 1774530443,
-      "rank": 44,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 86583,
@@ -9825,14 +9881,6 @@
       "onboard_time": 1774427364,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 84739,
-      "num": 414651,
-      "word": "孙颖莎最心酸的一场比赛",
-      "onboard_time": 1774531103,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 84707,
@@ -10195,14 +10243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81844,
-      "num": 94162,
-      "word": "美方被曝正酝酿对伊朗最后一击",
-      "onboard_time": 1774529723,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 81804,
       "num": 81804,
       "word": "我们的爸爸",
@@ -10499,6 +10539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 79159,
+      "num": 87119,
+      "word": "女子未婚先孕生完孩子被男友拉黑",
+      "onboard_time": 1774532786,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79121,
       "num": 79121,
       "word": "雷军回应车主抱怨交付速度",
@@ -10521,6 +10569,14 @@
       "onboard_time": 1774261823,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78862,
+      "num": 83404,
+      "word": "日网痛批日本小学午餐",
+      "onboard_time": 1774533324,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 78847,
@@ -10699,14 +10755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 77678,
-      "num": 77678,
-      "word": "谢征樊长玉马车吻",
-      "onboard_time": 1774532365,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77609,
       "num": 385166,
       "word": "王一博上海耐力赛纪录片",
@@ -10865,6 +10913,14 @@
       "onboard_time": 1774157180,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76293,
+      "num": 76293,
+      "word": "迪拜楼市遭重挫",
+      "onboard_time": 1774532967,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 76292,
@@ -11129,6 +11185,22 @@
       "onboard_time": 1774173501,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74373,
+      "num": 101469,
+      "word": "千问和机器人整上人情世故了",
+      "onboard_time": 1774533684,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 74353,
+      "num": 74353,
+      "word": "甲醇价格暴涨原因",
+      "onboard_time": 1774533324,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 74340,
@@ -13843,6 +13915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30335,
+      "num": 599496,
+      "word": "长护险减轻群众负担超千亿元",
+      "onboard_time": 1774530563,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30138,
       "num": 627100,
       "word": "今天世界水日",
@@ -13889,14 +13969,6 @@
       "onboard_time": 1774165040,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 29462,
-      "num": 574663,
-      "word": "长护险减轻群众负担超千亿元",
-      "onboard_time": 1774530563,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29295,
@@ -14721,6 +14793,14 @@
       "onboard_time": 1774250001,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10012,
+      "num": 106015,
+      "word": "陈都灵聊宠物出行太共情了",
+      "onboard_time": 1774533805,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 9941,

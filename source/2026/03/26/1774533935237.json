@@ -1,0 +1,410 @@
+{
+  "runTime": 1774533935237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 295222,
+        "num": 1047235,
+        "word": "早期心血管病可能反映在脸上",
+        "onboard_time": 1774512504,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 114293,
+        "num": 774354,
+        "word": "内存条降价",
+        "onboard_time": 1774523061,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30335,
+        "num": 599496,
+        "word": "长护险减轻群众负担超千亿元",
+        "onboard_time": 1774530563,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369737,
+        "num": 369737,
+        "word": "白敬亭郑合惠子互动",
+        "onboard_time": 1774533385,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318409,
+        "num": 369301,
+        "word": "伊朗导弹2小时内4次密集砸向以本土",
+        "onboard_time": 1774531463,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330432,
+        "num": 363127,
+        "word": "张凌赫宋祖儿 刺棠",
+        "onboard_time": 1774530982,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181532,
+        "num": 358087,
+        "word": "因抢玩具殴打2岁女童女子被行拘",
+        "onboard_time": 1774527861,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146690,
+        "num": 356092,
+        "word": "中国无人飞枪曝光",
+        "onboard_time": 1774524142,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 146619,
+        "num": 351625,
+        "word": "逐玉 he",
+        "onboard_time": 1774532844,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94926,
+        "num": 348515,
+        "word": "孙颖莎最心酸的一场比赛",
+        "onboard_time": 1774531103,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1028812,
+        "num": 343390,
+        "word": "罗技侮辱消费者",
+        "onboard_time": 1774528702,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 501294,
+        "num": 338192,
+        "word": "谢征樊长玉被窝戏删掉了",
+        "onboard_time": 1774527561,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335937,
+        "num": 335937,
+        "word": "梁祯元 李羲承",
+        "onboard_time": 1774529603,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260097,
+        "num": 260097,
+        "word": "罗技 像狗一样跑过来",
+        "onboard_time": 1774529302,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 333168,
+        "num": 254004,
+        "word": "林俊杰称自己生命的沙漏加速了",
+        "onboard_time": 1774526481,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200319,
+        "num": 200319,
+        "word": "留几手发文暗讽被全网炮轰",
+        "onboard_time": 1774517181,
+        "rank": 15,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 194417,
+        "num": 194417,
+        "word": "43岁不健身和61岁健身的区别",
+        "onboard_time": 1774523602,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144015,
+        "num": 144015,
+        "word": "王一博 乐华",
+        "onboard_time": 1774513822,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46870,
+        "num": 143589,
+        "word": "标配1500TOPS金标大众太顶了",
+        "onboard_time": 1774530323,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115168,
+        "num": 143550,
+        "word": "卧床35年女子顺利产下健康宝宝",
+        "onboard_time": 1774510522,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1040830,
+        "num": 143543,
+        "word": "田曦薇张凌赫 二搭",
+        "onboard_time": 1774526842,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143521,
+        "num": 143521,
+        "word": "韩国女子怒抢中国游客手机",
+        "onboard_time": 1774528581,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136053,
+        "num": 136053,
+        "word": "2026最吸金的星座",
+        "onboard_time": 1774519463,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130460,
+        "num": 130460,
+        "word": "逐玉大结局",
+        "onboard_time": 1774521862,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126979,
+        "num": 126979,
+        "word": "白鹿陈哲远合拍",
+        "onboard_time": 1774529843,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124269,
+        "num": 124269,
+        "word": "女子买24元卤菜顺走40块钱大肠头",
+        "onboard_time": 1774521321,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116327,
+        "num": 116327,
+        "word": "美方被曝正酝酿对伊朗最后一击",
+        "onboard_time": 1774529723,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96140,
+        "num": 106959,
+        "word": "宋Ultra全系标配闪充15.19万起",
+        "onboard_time": 1774530382,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 10012,
+        "num": 106015,
+        "word": "陈都灵聊宠物出行太共情了",
+        "onboard_time": 1774533805,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105581,
+        "num": 105581,
+        "word": "我们一直把苹果放反了",
+        "onboard_time": 1774514901,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105485,
+        "num": 105485,
+        "word": "金价为何急涨急跌",
+        "onboard_time": 1774531403,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74373,
+        "num": 101469,
+        "word": "千问和机器人整上人情世故了",
+        "onboard_time": 1774533684,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101063,
+        "num": 101063,
+        "word": "孟子义腰比名牌细",
+        "onboard_time": 1774506981,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99616,
+        "num": 99616,
+        "word": "这些情况是心脏在报警",
+        "onboard_time": 1774533204,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99389,
+        "num": 99389,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1774513763,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91343,
+        "num": 91343,
+        "word": "全球石油储备仅够3至4个月",
+        "onboard_time": 1774532124,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91272,
+        "num": 91272,
+        "word": "董子健 我以前也是东北女婿",
+        "onboard_time": 1774513822,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89347,
+        "num": 89347,
+        "word": "颜如晶曾找过25个教练减重均失败",
+        "onboard_time": 1774527861,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88555,
+        "num": 88555,
+        "word": "Tian回归TES",
+        "onboard_time": 1774532967,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41914,
+        "num": 87739,
+        "word": "陈思罕又被星探看上了",
+        "onboard_time": 1774518022,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87171,
+        "num": 87171,
+        "word": "谢征樊长玉马车吻",
+        "onboard_time": 1774532365,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79159,
+        "num": 87119,
+        "word": "女子未婚先孕生完孩子被男友拉黑",
+        "onboard_time": 1774532786,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87091,
+        "num": 87091,
+        "word": "蔡康永问马龙观众特别漂亮会紧张吗",
+        "onboard_time": 1774530443,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 85324,
+        "num": 85324,
+        "word": "谢征樊长玉生了两个孩子",
+        "onboard_time": 1774524922,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78862,
+        "num": 83404,
+        "word": "日网痛批日本小学午餐",
+        "onboard_time": 1774533324,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83106,
+        "num": 83106,
+        "word": "王俊凯卡点521",
+        "onboard_time": 1774519521,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 79713,
+        "num": 79713,
+        "word": "宋亚轩说马嘉祺有老人味",
+        "onboard_time": 1774528942,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76293,
+        "num": 76293,
+        "word": "迪拜楼市遭重挫",
+        "onboard_time": 1774532967,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75305,
+        "num": 75305,
+        "word": "郭敬明需要避谶",
+        "onboard_time": 1774511962,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74353,
+        "num": 74353,
+        "word": "甲醇价格暴涨原因",
+        "onboard_time": 1774533324,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#对雄安的发展前景我们充满信心#"
+    }
+  }
+}
