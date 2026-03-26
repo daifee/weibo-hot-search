@@ -1,17 +1,9 @@
 {
   "startTime": 1774545171769,
-  "endTime": 1774568430371,
+  "endTime": 1774569477110,
   "band_list": [
     {
-      "raw_hot": 748356,
-      "num": 952393,
-      "word": "游客因拍照设备太专业被景区驱赶",
-      "onboard_time": 1774537043,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 646846,
+      "raw_hot": 805087,
       "num": 181711,
       "word": "没认出来这是王子异",
       "onboard_time": 1774566799,
@@ -19,12 +11,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 390831,
-      "num": 390831,
+      "raw_hot": 748356,
+      "num": 1092186,
+      "word": "游客因拍照设备太专业被景区驱赶",
+      "onboard_time": 1774537043,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 449237,
+      "num": 449237,
+      "word": "伊朗正式回应美国15点停火协议",
+      "onboard_time": 1774567098,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 434657,
+      "num": 434657,
       "word": "马杜罗夫妇关押地如同人间炼狱",
       "onboard_time": 1774542380,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 397604,
+      "num": 397604,
+      "word": "8岁被领养至加拿大又遭遗弃",
+      "onboard_time": 1774567159,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310648,
+      "num": 310648,
+      "word": "央视新闻夸了张凌赫雉鸡翎造型",
+      "onboard_time": 1774536864,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 309182,
@@ -35,6 +59,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 307813,
+      "num": 791513,
+      "word": "女子因停车争吵身亡家属索赔122万",
+      "onboard_time": 1774567220,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301062,
       "num": 98887,
       "word": "田曦薇张凌赫 二搭",
@@ -43,20 +75,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297221,
-      "num": 297221,
-      "word": "8岁被领养至加拿大又遭遗弃",
-      "onboard_time": 1774567159,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280531,
-      "num": 280531,
-      "word": "央视新闻夸了张凌赫雉鸡翎造型",
-      "onboard_time": 1774536864,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 289822,
+      "num": 181442,
+      "word": "罗技回应发布侮辱性广告",
+      "onboard_time": 1774535125,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 266768,
@@ -67,12 +91,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 245571,
-      "num": 181442,
-      "word": "罗技回应发布侮辱性广告",
-      "onboard_time": 1774535125,
-      "rank": 11,
-      "category": "数码"
+      "raw_hot": 247733,
+      "num": 181114,
+      "word": "逐玉谢征吸长玉锁骨",
+      "onboard_time": 1774567098,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 222827,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 217850,
-      "num": 69535,
+      "num": 82707,
       "word": "白敬亭郑合惠子互动",
       "onboard_time": 1774533385,
       "rank": 21,
@@ -107,12 +131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210883,
-      "num": 181114,
-      "word": "逐玉谢征吸长玉锁骨",
-      "onboard_time": 1774567098,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 189899,
+      "num": 163087,
+      "word": "杨笠的脑子转得太快了",
+      "onboard_time": 1774567220,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 189434,
@@ -123,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183744,
+      "num": 183744,
+      "word": "Crisp怒喷Kanavi",
+      "onboard_time": 1774566979,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182131,
       "num": 356400,
       "word": "隐身的名字",
@@ -131,36 +163,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181085,
-      "num": 181085,
-      "word": "女子因停车争吵身亡家属索赔122万",
-      "onboard_time": 1774567220,
-      "rank": 13,
+      "raw_hot": 176085,
+      "num": 87165,
+      "word": "小孩哥淘到疑似日军细菌战账单",
+      "onboard_time": 1774567458,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166296,
-      "num": 166296,
-      "word": "Crisp怒喷Kanavi",
-      "onboard_time": 1774566979,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 149095,
-      "num": 149095,
-      "word": "伊朗正式回应美国15点停火协议",
-      "onboard_time": 1774567098,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 145340,
-      "num": 145340,
+      "raw_hot": 162882,
+      "num": 162882,
       "word": "罗技侮辱消费者",
       "onboard_time": 1774528702,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 155848,
+      "num": 116840,
+      "word": "全国猪价已跌破5元",
+      "onboard_time": 1774567458,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144019,
@@ -179,8 +203,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135406,
-      "num": 135406,
+      "raw_hot": 137472,
+      "num": 137472,
       "word": "林俊杰称自己生命的沙漏加速了",
       "onboard_time": 1774526481,
       "rank": 13,
@@ -195,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123964,
+      "num": 108101,
+      "word": "金价大涨大跌的原因找到了",
+      "onboard_time": 1774569021,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119043,
       "num": 55370,
       "word": "韩国女子怒抢中国游客手机",
@@ -203,36 +235,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 116840,
-      "num": 116840,
-      "word": "全国猪价已跌破5元",
-      "onboard_time": 1774567458,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114991,
       "num": 114991,
       "word": "孟子义李昀锐装不熟",
       "onboard_time": 1774535725,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114408,
-      "num": 114408,
-      "word": "杨笠的脑子转得太快了",
-      "onboard_time": 1774567220,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 111741,
-      "num": 80980,
-      "word": "小孩哥淘到疑似日军细菌战账单",
-      "onboard_time": 1774567458,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104219,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 104165,
-      "num": 79766,
+      "num": 98997,
       "word": "日本6.4级地震",
       "onboard_time": 1774567399,
       "rank": 31,
@@ -257,6 +265,14 @@
       "onboard_time": 1774551135,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95142,
+      "num": 95142,
+      "word": "你是迟来的欢喜",
+      "onboard_time": 1774568899,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 87807,
@@ -273,6 +289,14 @@
       "onboard_time": 1774517181,
       "rank": 29,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 85379,
+      "num": 85379,
+      "word": "伊朗击落美军F18战机画面",
+      "onboard_time": 1774568480,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84604,
@@ -299,6 +323,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 80742,
+      "num": 80742,
+      "word": "熬夜到哪种程度可能会猝死",
+      "onboard_time": 1774567759,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 77831,
       "num": 77831,
       "word": "美方被曝正酝酿对伊朗最后一击",
@@ -315,12 +347,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74416,
+      "num": 74416,
+      "word": "罗技称已处理相关涉事人员",
+      "onboard_time": 1774569021,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74060,
       "num": 74060,
       "word": "罗技 像狗一样跑过来",
       "onboard_time": 1774529302,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 72773,
+      "num": 72773,
+      "word": "这样的脱发留意心血管问题",
+      "onboard_time": 1774568240,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 71492,
@@ -363,14 +411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 62752,
-      "num": 62752,
-      "word": "这样的脱发留意心血管问题",
-      "onboard_time": 1774568240,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 61939,
       "num": 61939,
       "word": "日网痛批日本小学午餐",
@@ -387,12 +427,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58356,
-      "num": 58356,
-      "word": "熬夜到哪种程度可能会猝死",
-      "onboard_time": 1774567759,
-      "rank": 42,
-      "category": "健康医疗"
+      "raw_hot": 60440,
+      "num": 60440,
+      "word": "黄金下破4450美元",
+      "onboard_time": 1774568419,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 60404,
+      "num": 60404,
+      "word": "货拉拉司机运10箱茅台失联后续",
+      "onboard_time": 1774546754,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58555,
+      "num": 58555,
+      "word": "逐玉删了钻被窝",
+      "onboard_time": 1774568661,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 56170,
@@ -403,6 +459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 55713,
+      "num": 54755,
+      "word": "逐玉 he",
+      "onboard_time": 1774532844,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54945,
       "num": 54852,
       "word": "白敬亭郑合惠子的cp有多火",
@@ -411,20 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54784,
-      "num": 54784,
-      "word": "货拉拉司机运10箱茅台失联后续",
-      "onboard_time": 1774546754,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54755,
-      "num": 54755,
-      "word": "逐玉 he",
-      "onboard_time": 1774532844,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 53182,
+      "num": 53182,
+      "word": "中芯国际发布2025年业绩",
+      "onboard_time": 1774568300,
+      "rank": 46,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 53011,
@@ -433,14 +489,6 @@
       "onboard_time": 1774566439,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49908,
-      "num": 49908,
-      "word": "中芯国际发布2025年业绩",
-      "onboard_time": 1774568300,
-      "rank": 46,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 49476,
@@ -643,20 +691,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 17366,
+      "num": 606188,
+      "word": "2026中国网络媒体论坛",
+      "onboard_time": 1774536983,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15446,
       "num": 21318,
       "word": "逐玉大结局if线",
       "onboard_time": 1774550475,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14101,
-      "num": 543978,
-      "word": "2026中国网络媒体论坛",
-      "onboard_time": 1774536983,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13542,
