@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774558739807,
+  "endTime": 1774561191725,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -12964,7 +12964,7 @@
     },
     {
       "raw_hot": 59285,
-      "num": 125900,
+      "num": 128811,
       "word": "隐身的名字",
       "onboard_time": 1774109721,
       "rank": 34,
@@ -13113,6 +13113,14 @@
       "onboard_time": 1774537583,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57315,
+      "num": 57315,
+      "word": "这样的民族败类必将被钉在历史耻辱柱上",
+      "onboard_time": 1774545438,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56728,
@@ -14001,14 +14009,6 @@
       "onboard_time": 1774136118,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36193,
-      "num": 50945,
-      "word": "这样的民族败类必将被钉在历史耻辱柱上",
-      "onboard_time": 1774545438,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35750,
@@ -15035,6 +15035,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 14558,
+      "num": 21313,
+      "word": "邻居争吵后身亡车主被判语言暴力",
+      "onboard_time": 1774542739,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14479,
       "num": 55371,
       "word": "中国游泳公开赛",
@@ -15049,14 +15057,6 @@
       "onboard_time": 1774547175,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14142,
-      "num": 21313,
-      "word": "邻居争吵后身亡车主被判语言暴力",
-      "onboard_time": 1774542739,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14068,
@@ -15131,20 +15131,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13250,
+      "num": 21269,
+      "word": "五月天香港演唱会",
+      "onboard_time": 1774555215,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 12844,
       "num": 657031,
       "word": "福农优品我在家乡等你来",
       "onboard_time": 1774438643,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12837,
-      "num": 21269,
-      "word": "五月天香港演唱会",
-      "onboard_time": 1774555215,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 12208,
@@ -15155,7 +15155,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 11977,
+      "raw_hot": 12051,
       "num": 21197,
       "word": "王俊凯新歌简介",
       "onboard_time": 1774548555,
