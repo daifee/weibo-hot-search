@@ -1,6 +1,6 @@
 {
   "startTime": 1774458791432,
-  "endTime": 1774526899434,
+  "endTime": 1774532648814,
   "band_list": [
     {
       "raw_hot": 3334180,
@@ -59,12 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1156329,
+      "num": 376967,
+      "word": "田曦薇张凌赫 二搭",
+      "onboard_time": 1774526842,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1150760,
       "num": 322342,
       "word": "郭敬明需要避谶",
       "onboard_time": 1774511962,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1067323,
+      "num": 413218,
+      "word": "罗技侮辱消费者",
+      "onboard_time": 1774528702,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 1023965,
@@ -259,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508938,
+      "num": 508938,
+      "word": "谢征樊长玉被窝戏删掉了",
+      "onboard_time": 1774527561,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 507314,
       "num": 228402,
       "word": "张凌赫登了贴吧",
@@ -315,6 +339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 410421,
+      "num": 410421,
+      "word": "林俊杰称自己生命的沙漏加速了",
+      "onboard_time": 1774526481,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405923,
       "num": 405923,
       "word": "汪苏泷明日世界演唱会官宣",
@@ -337,6 +369,14 @@
       "onboard_time": 1774495102,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 376113,
+      "num": 208426,
+      "word": "梁祯元 李羲承",
+      "onboard_time": 1774529603,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 367869,
@@ -475,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282947,
+      "num": 282947,
+      "word": "罗技 像狗一样跑过来",
+      "onboard_time": 1774529302,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 273974,
       "num": 273974,
       "word": "王俊凯新歌上线",
@@ -523,8 +571,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262124,
-      "num": 1041939,
+      "raw_hot": 263486,
+      "num": 1042157,
       "word": "早期心血管病可能反映在脸上",
       "onboard_time": 1774512504,
       "rank": 9,
@@ -585,6 +633,14 @@
       "onboard_time": 1774514241,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237047,
+      "num": 568167,
+      "word": "张凌赫宋祖儿 刺棠",
+      "onboard_time": 1774530982,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 233355,
@@ -651,6 +707,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215121,
+      "num": 175445,
+      "word": "韩国女子怒抢中国游客手机",
+      "onboard_time": 1774528581,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 206933,
+      "num": 552437,
+      "word": "伊朗导弹2小时内4次密集砸向以本土",
+      "onboard_time": 1774531463,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 206028,
       "num": 206028,
       "word": "顺德文旅给8天吃胖8斤女子道歉",
@@ -675,6 +747,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 200360,
+      "num": 541440,
+      "word": "因抢玩具殴打2岁女童女子被行拘",
+      "onboard_time": 1774527861,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199516,
       "num": 247722,
       "word": "女子买24元卤菜顺走40块钱大肠头",
@@ -689,14 +769,6 @@
       "onboard_time": 1774523542,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197527,
-      "num": 197527,
-      "word": "林俊杰称自己生命的沙漏加速了",
-      "onboard_time": 1774526481,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 197220,
@@ -761,6 +833,14 @@
       "onboard_time": 1774454901,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182371,
+      "num": 182371,
+      "word": "银价跌爆了",
+      "onboard_time": 1774528341,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 180516,
@@ -907,6 +987,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 151281,
+      "num": 151281,
+      "word": "金价为何急涨急跌",
+      "onboard_time": 1774531403,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 148013,
       "num": 148013,
       "word": "洛克王国世界马年国风精灵",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1774510522,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132340,
+      "num": 94091,
+      "word": "比亚迪发布会",
+      "onboard_time": 1774530982,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 130855,
@@ -1187,6 +1283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 118014,
+      "num": 129321,
+      "word": "宋Ultra全系标配闪充15.19万起",
+      "onboard_time": 1774530382,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 117369,
       "num": 117369,
       "word": "男子在非洲开手机网吧生意火爆",
@@ -1201,6 +1305,14 @@
       "onboard_time": 1774444823,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117178,
+      "num": 111400,
+      "word": "罗技下架争议视频",
+      "onboard_time": 1774532424,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 116662,
@@ -1283,6 +1395,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 109866,
+      "num": 441453,
+      "word": "白鹿陈哲远合拍",
+      "onboard_time": 1774529843,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109480,
       "num": 565983,
       "word": "晋江文学城回应严禁使用老天奶",
@@ -1297,6 +1417,14 @@
       "onboard_time": 1774480819,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109121,
+      "num": 109121,
+      "word": "谢征樊长玉生了两个孩子",
+      "onboard_time": 1774524922,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 109086,
@@ -1339,14 +1467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 105884,
-      "num": 105884,
-      "word": "谢征樊长玉生了两个孩子",
-      "onboard_time": 1774524922,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105834,
       "num": 85499,
       "word": "俞宝儿扮演者回复邓凯孔雪儿",
@@ -1385,6 +1505,14 @@
       "onboard_time": 1774516222,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104253,
+      "num": 104253,
+      "word": "全球石油储备仅够3至4个月",
+      "onboard_time": 1774532124,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 103953,
@@ -1571,12 +1699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94748,
+      "num": 94748,
+      "word": "宋亚轩说马嘉祺有老人味",
+      "onboard_time": 1774528942,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94483,
       "num": 94483,
       "word": "孩子写作业头痛以为装病突发脑出血",
       "onboard_time": 1774508120,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93964,
+      "num": 93964,
+      "word": "颜如晶曾找过25个教练减重均失败",
+      "onboard_time": 1774527861,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 93697,
@@ -1635,6 +1779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90678,
+      "num": 90678,
+      "word": "侯明昊去韩国了",
+      "onboard_time": 1774530684,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89864,
       "num": 89864,
       "word": "小猫发现自己和死对头贴贴后",
@@ -1691,6 +1843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86603,
+      "num": 86603,
+      "word": "蔡康永问马龙观众特别漂亮会紧张吗",
+      "onboard_time": 1774530443,
+      "rank": 44,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 86583,
       "num": 235728,
       "word": "每天一顿重口外卖影响有多大",
@@ -1739,6 +1899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84739,
+      "num": 414651,
+      "word": "孙颖莎最心酸的一场比赛",
+      "onboard_time": 1774531103,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84396,
       "num": 434110,
       "word": "刘慧严重违纪违法被开除党籍",
@@ -1771,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81844,
+      "num": 94162,
+      "word": "美方被曝正酝酿对伊朗最后一击",
+      "onboard_time": 1774529723,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81297,
       "num": 81297,
       "word": "一张白纸被折200次后惊艳了",
@@ -1785,6 +1961,14 @@
       "onboard_time": 1774521562,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77678,
+      "num": 77678,
+      "word": "谢征樊长玉马车吻",
+      "onboard_time": 1774532365,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 77482,
@@ -1809,6 +1993,14 @@
       "onboard_time": 1774439963,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 76111,
+      "num": 90732,
+      "word": "樊振东德甲赛程预告",
+      "onboard_time": 1774531825,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 75772,
@@ -1915,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70541,
+      "num": 78989,
+      "word": "国防部回应赖清德吹捧东亚共荣圈",
+      "onboard_time": 1774530382,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69087,
       "num": 69087,
       "word": "上海警方通报女子出差遭领导猥亵",
@@ -1937,6 +2137,14 @@
       "onboard_time": 1774454421,
       "rank": 26,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 68342,
+      "num": 68342,
+      "word": "膳食纤维是被严重低估的营养",
+      "onboard_time": 1774532607,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67744,
@@ -2185,6 +2393,14 @@
       "onboard_time": 1774517302,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47750,
+      "num": 193696,
+      "word": "标配1500TOPS金标大众太顶了",
+      "onboard_time": 1774530323,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 47611,
@@ -2451,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29462,
+      "num": 574663,
+      "word": "长护险减轻群众负担超千亿元",
+      "onboard_time": 1774530563,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29246,
       "num": 97444,
       "word": "美国说什么伊朗否认什么",
@@ -2505,6 +2729,14 @@
       "onboard_time": 1774503623,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 26126,
+      "num": 211224,
+      "word": "强闯我使馆日自卫队员称曾打算自杀",
+      "onboard_time": 1774531403,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25829,
@@ -2660,6 +2892,9 @@
     },
     {
       "word": "#总书记再次强调雄安的初心#"
+    },
+    {
+      "word": "#对雄安的发展前景我们充满信心#"
     }
   ]
 }
