@@ -1,0 +1,410 @@
+{
+  "runTime": 1774524570051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 165475,
+        "num": 1026476,
+        "word": "早期心血管病可能反映在脸上",
+        "onboard_time": 1774512504,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 163255,
+        "num": 767938,
+        "word": "内存条降价",
+        "onboard_time": 1774523061,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 3410,
+        "num": 578328,
+        "word": "七彩云南万千气象",
+        "onboard_time": 1774351169,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198087,
+        "num": 497128,
+        "word": "恋与深空短信",
+        "onboard_time": 1774523542,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84671,
+        "num": 490915,
+        "word": "中国无人飞枪曝光",
+        "onboard_time": 1774524142,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 486201,
+        "num": 486201,
+        "word": "逐玉大结局",
+        "onboard_time": 1774521862,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172031,
+        "num": 483414,
+        "word": "伊朗伊斯兰革命卫队海军指挥官身亡",
+        "onboard_time": 1774515143,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91115,
+        "num": 478874,
+        "word": "董子健 我以前也是东北女婿",
+        "onboard_time": 1774513822,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86822,
+        "num": 477647,
+        "word": "孟子义差点上到李昀锐车上",
+        "onboard_time": 1774513642,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227020,
+        "num": 474023,
+        "word": "中方回应是否禁止Manus两高管离境",
+        "onboard_time": 1774520842,
+        "rank": 9,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 754038,
+        "num": 469890,
+        "word": "张雪峰谈体制内混得好的人特点",
+        "onboard_time": 1774522162,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257809,
+        "num": 464161,
+        "word": "43岁不健身和61岁健身的区别",
+        "onboard_time": 1774523602,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 181662,
+        "num": 461448,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1774513763,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225936,
+        "num": 457189,
+        "word": "孟子义腰比名牌细",
+        "onboard_time": 1774506981,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37730,
+        "num": 453174,
+        "word": "拼多多新拼姆一期150亿品牌自营",
+        "onboard_time": 1774515982,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137657,
+        "num": 448959,
+        "word": "心疼清融",
+        "onboard_time": 1774519341,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120087,
+        "num": 445726,
+        "word": "妈妈重回案发现场洗刷儿子血迹",
+        "onboard_time": 1774514241,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104517,
+        "num": 439972,
+        "word": "卧床35年女子顺利产下健康宝宝",
+        "onboard_time": 1774510522,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111270,
+        "num": 435264,
+        "word": "王俊凯卡点521",
+        "onboard_time": 1774519521,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76506,
+        "num": 434110,
+        "word": "刘慧严重违纪违法被开除党籍",
+        "onboard_time": 1774520842,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82615,
+        "num": 427816,
+        "word": "以后将只在周二网购",
+        "onboard_time": 1774509682,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 519247,
+        "num": 424204,
+        "word": "佛山电翰自曝收入",
+        "onboard_time": 1774520901,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 422487,
+        "num": 422487,
+        "word": "宋慧乔首谈离婚原因",
+        "onboard_time": 1774521742,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220403,
+        "num": 361684,
+        "word": "我们一直把苹果放反了",
+        "onboard_time": 1774514901,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322342,
+        "num": 322342,
+        "word": "郭敬明需要避谶",
+        "onboard_time": 1774511962,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272563,
+        "num": 272563,
+        "word": "黄晓明回应没考上博士",
+        "onboard_time": 1774518442,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199516,
+        "num": 247722,
+        "word": "女子买24元卤菜顺走40块钱大肠头",
+        "onboard_time": 1774521321,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244229,
+        "num": 244229,
+        "word": "留几手发文暗讽被全网炮轰",
+        "onboard_time": 1774517181,
+        "rank": 27,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 86399,
+        "num": 235728,
+        "word": "每天一顿重口外卖影响有多大",
+        "onboard_time": 1774519281,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65014,
+        "num": 235582,
+        "word": "网约车司机车内挂牌诅咒投诉乘客",
+        "onboard_time": 1774522042,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15767,
+        "num": 235548,
+        "word": "鸡蛋界LV中产还买单吗",
+        "onboard_time": 1774523240,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235516,
+        "num": 235516,
+        "word": "王一博 乐华",
+        "onboard_time": 1774513822,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136271,
+        "num": 136271,
+        "word": "2026最吸金的星座",
+        "onboard_time": 1774519463,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119225,
+        "num": 119225,
+        "word": "陈思罕又被星探看上了",
+        "onboard_time": 1774518022,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110388,
+        "num": 110388,
+        "word": "妹妹说赞成刘晓庆把遗产捐给国家",
+        "onboard_time": 1774520123,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90312,
+        "num": 109804,
+        "word": "小猫一气之下怒吃了两口冻干",
+        "onboard_time": 1774522883,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109576,
+        "num": 109576,
+        "word": "朴敏英瘦成这样",
+        "onboard_time": 1774516942,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35831,
+        "num": 107706,
+        "word": "救命神器AED使用率不足0.1%",
+        "onboard_time": 1774512982,
+        "rank": 37,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 52793,
+        "num": 104652,
+        "word": "晋江为表述错误道歉",
+        "onboard_time": 1774521022,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39832,
+        "num": 100746,
+        "word": "苏新皓痛失韩国市场",
+        "onboard_time": 1774517423,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355596,
+        "num": 95663,
+        "word": "晋江的公关",
+        "onboard_time": 1774522401,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 94434,
+        "num": 94434,
+        "word": "鹿晗校草时期 现实版流星花园",
+        "onboard_time": 1774510462,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91186,
+        "num": 91186,
+        "word": "张远真去做了魏哲鸣的嘉宾",
+        "onboard_time": 1774523842,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87059,
+        "num": 87059,
+        "word": "Gumayusi预测HLE夺冠",
+        "onboard_time": 1774524382,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87788,
+        "num": 86816,
+        "word": "张凌赫 张家玮",
+        "onboard_time": 1774503860,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84559,
+        "num": 84559,
+        "word": "华晨宇排队吃烤鱼",
+        "onboard_time": 1774524203,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84230,
+        "num": 84230,
+        "word": "无畏 领奖",
+        "onboard_time": 1774519101,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84333,
+        "num": 84108,
+        "word": "清清 联盟说还没原谅我",
+        "onboard_time": 1774521742,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83115,
+        "num": 83115,
+        "word": "阚清子和老公一同现身机场",
+        "onboard_time": 1774503623,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82528,
+        "num": 82528,
+        "word": "什么意思和啥意思是有区别的",
+        "onboard_time": 1774523422,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次强调雄安的初心#"
+    }
+  }
+}
