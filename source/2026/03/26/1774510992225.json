@@ -1,0 +1,410 @@
+{
+  "runTime": 1774510992225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 414348,
+        "num": 1066295,
+        "word": "柯文哲被判17年",
+        "onboard_time": 1774508001,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 368485,
+        "num": 766152,
+        "word": "情侣间转账6万因多音字闹上法庭",
+        "onboard_time": 1774504041,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25021,
+        "num": 612397,
+        "word": "祖国春日花海根本看不够",
+        "onboard_time": 1774508903,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 350676,
+        "num": 350676,
+        "word": "内塔尼亚胡妻子为成年儿子诉苦遭批",
+        "onboard_time": 1774506981,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284045,
+        "num": 284045,
+        "word": "家长违停孩子开门杀撞人后逃逸",
+        "onboard_time": 1774497262,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431089,
+        "num": 282290,
+        "word": "俄乌战场惊现持枪人形机器人",
+        "onboard_time": 1774498221,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 254083,
+        "num": 254083,
+        "word": "能做夫妻是有点玄学在身上的",
+        "onboard_time": 1774498822,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 241987,
+        "num": 241987,
+        "word": "五月天鸟巢官宣了12场",
+        "onboard_time": 1774507581,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30761,
+        "num": 238401,
+        "word": "央视曝光增高神药营销骗局",
+        "onboard_time": 1774510162,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 35747,
+        "num": 233242,
+        "word": "体检正常不等于运动安全",
+        "onboard_time": 1774500922,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1374054,
+        "num": 231520,
+        "word": "镜头霸凌",
+        "onboard_time": 1774507402,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1369083,
+        "num": 224835,
+        "word": "张雪峰公司楼下摆满鲜花",
+        "onboard_time": 1774509501,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1148925,
+        "num": 221103,
+        "word": "孟子义腰比名牌细",
+        "onboard_time": 1774506981,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670384,
+        "num": 212691,
+        "word": "骑手接单去张雪峰公司送花快哭了",
+        "onboard_time": 1774508482,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450082,
+        "num": 208254,
+        "word": "阚清子和老公一同现身机场",
+        "onboard_time": 1774503623,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385208,
+        "num": 202070,
+        "word": "张凌赫 张家玮",
+        "onboard_time": 1774503860,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200551,
+        "num": 200551,
+        "word": "微信聊天为什么会出现对方正在输入",
+        "onboard_time": 1774499781,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 231427,
+        "num": 199463,
+        "word": "林志玲51岁体态",
+        "onboard_time": 1774496841,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221971,
+        "num": 196373,
+        "word": "一笑随歌爱奇艺双榜超逐玉",
+        "onboard_time": 1774499301,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17387,
+        "num": 195290,
+        "word": "顾客买100%橙汁发现是产品名称",
+        "onboard_time": 1774510401,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290036,
+        "num": 192046,
+        "word": "一笑随歌爆了",
+        "onboard_time": 1774508120,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191654,
+        "num": 191654,
+        "word": "原来骑手知道你在看配送进度",
+        "onboard_time": 1774498701,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170025,
+        "num": 170025,
+        "word": "张雪峰追悼会将于周六举行",
+        "onboard_time": 1774498463,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153781,
+        "num": 153781,
+        "word": "斯柯达将退出中国",
+        "onboard_time": 1774509261,
+        "rank": 23,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 150807,
+        "num": 150807,
+        "word": "张雪峰员工以为他会一直跑下去",
+        "onboard_time": 1774508241,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145963,
+        "num": 145963,
+        "word": "孔雪儿第一时间发现粉丝缺氧",
+        "onboard_time": 1774509142,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143769,
+        "num": 143769,
+        "word": "颜如晶曾连续喝了7天特色冰浆",
+        "onboard_time": 1774504580,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126547,
+        "num": 126547,
+        "word": "黄金白银再度开跌",
+        "onboard_time": 1774510282,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130218,
+        "num": 123366,
+        "word": "刘诗诗镂空衬衫国风裙",
+        "onboard_time": 1774508362,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120165,
+        "num": 120165,
+        "word": "张凌赫大一的时候给人很好追的感觉",
+        "onboard_time": 1774507402,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115657,
+        "num": 115657,
+        "word": "法国女孩梦中生下三胞胎",
+        "onboard_time": 1774504821,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116722,
+        "num": 115044,
+        "word": "鹿晗校草时期 现实版流星花园",
+        "onboard_time": 1774510462,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113347,
+        "num": 113347,
+        "word": "以后将只在周二网购",
+        "onboard_time": 1774509682,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110507,
+        "num": 110507,
+        "word": "黄金白银集体大涨原因找到了",
+        "onboard_time": 1774510162,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102242,
+        "num": 102242,
+        "word": "卧床35年女子顺利产下健康宝宝",
+        "onboard_time": 1774510522,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20262,
+        "num": 101755,
+        "word": "拆解热巴的色彩美学",
+        "onboard_time": 1774510763,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48706,
+        "num": 101277,
+        "word": "陈哲远这次来跑男是真发",
+        "onboard_time": 1774507943,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38265,
+        "num": 101166,
+        "word": "谁会是浪姐7黑马",
+        "onboard_time": 1774509861,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41212,
+        "num": 100290,
+        "word": "任敏徒手掰断后视镜",
+        "onboard_time": 1774506860,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21929,
+        "num": 99761,
+        "word": "日本反华教育70年结出什么果",
+        "onboard_time": 1774509981,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99674,
+        "num": 99674,
+        "word": "气血不足的人干不了这活",
+        "onboard_time": 1774510522,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97253,
+        "num": 97253,
+        "word": "以军大规模打击伊朗基础设施",
+        "onboard_time": 1774510282,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94950,
+        "num": 94950,
+        "word": "顺德文旅给8天吃胖8斤女子道歉",
+        "onboard_time": 1774503261,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94583,
+        "num": 94583,
+        "word": "邻居撞死高三学生在狱中还炫耀",
+        "onboard_time": 1774508420,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92321,
+        "num": 92321,
+        "word": "Uzi说Uzi杯就是我的创业",
+        "onboard_time": 1774508120,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91963,
+        "num": 91963,
+        "word": "乐华建议向王一博授出股份奖励",
+        "onboard_time": 1774501521,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89864,
+        "num": 89864,
+        "word": "小猫发现自己和死对头贴贴后",
+        "onboard_time": 1774510703,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84624,
+        "num": 84624,
+        "word": "陈哲远关注白鹿",
+        "onboard_time": 1774504281,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82959,
+        "num": 82959,
+        "word": "每天3分钟平板撑一个月后的效果",
+        "onboard_time": 1774496482,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 82319,
+        "num": 82319,
+        "word": "孩子写作业头痛以为装病突发脑出血",
+        "onboard_time": 1774508120,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次强调雄安的初心#"
+    }
+  }
+}
