@@ -1,0 +1,410 @@
+{
+  "runTime": 1774516034483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 340265,
+        "num": 1054442,
+        "word": "共和国3天痛失3位院士",
+        "onboard_time": 1774513043,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264335,
+        "num": 757992,
+        "word": "中方回应特朗普称5月中旬访华",
+        "onboard_time": 1774512142,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 989,
+        "num": 616318,
+        "word": "七彩云南万千气象",
+        "onboard_time": 1774351169,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222384,
+        "num": 365632,
+        "word": "孟子义差点上到李昀锐车上",
+        "onboard_time": 1774513642,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221381,
+        "num": 304784,
+        "word": "家长违停孩子开门杀撞人后逃逸",
+        "onboard_time": 1774497262,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268462,
+        "num": 268462,
+        "word": "以后将只在周二网购",
+        "onboard_time": 1774509682,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158138,
+        "num": 268211,
+        "word": "微信聊天为什么会出现对方正在输入",
+        "onboard_time": 1774499781,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154754,
+        "num": 266765,
+        "word": "伊朗伊斯兰革命卫队海军指挥官身亡",
+        "onboard_time": 1774515143,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45843,
+        "num": 266215,
+        "word": "救命神器AED使用率不足0.1%",
+        "onboard_time": 1774512982,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 188568,
+        "num": 265117,
+        "word": "早期心血管病可能反映在脸上",
+        "onboard_time": 1774512504,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1150760,
+        "num": 263852,
+        "word": "郭敬明需要避谶",
+        "onboard_time": 1774511962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 955332,
+        "num": 263058,
+        "word": "张雪峰曾为多睡一会儿住酒店",
+        "onboard_time": 1774511662,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570461,
+        "num": 262207,
+        "word": "王一博 乐华",
+        "onboard_time": 1774513822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534884,
+        "num": 261368,
+        "word": "孟子义腰比名牌细",
+        "onboard_time": 1774506981,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496611,
+        "num": 260508,
+        "word": "镜头霸凌",
+        "onboard_time": 1774507402,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416833,
+        "num": 258993,
+        "word": "张雪峰最后一个视频还在吃外卖",
+        "onboard_time": 1774511662,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26836,
+        "num": 258580,
+        "word": "祖国春日花海根本看不够",
+        "onboard_time": 1774508903,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327250,
+        "num": 257508,
+        "word": "一笑随歌爆了",
+        "onboard_time": 1774508120,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256865,
+        "num": 256865,
+        "word": "阚清子和老公一同现身机场",
+        "onboard_time": 1774503623,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14874,
+        "num": 239733,
+        "word": "10元手冲咖啡阿姨说凉了照样做生意",
+        "onboard_time": 1774515503,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235164,
+        "num": 235164,
+        "word": "情侣间转账6万因多音字闹上法庭",
+        "onboard_time": 1774504041,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233332,
+        "num": 233332,
+        "word": "妈妈重回案发现场洗刷儿子血迹",
+        "onboard_time": 1774514241,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203255,
+        "num": 203255,
+        "word": "鹿晗校草时期 现实版流星花园",
+        "onboard_time": 1774510462,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189050,
+        "num": 189050,
+        "word": "张凌赫 张家玮",
+        "onboard_time": 1774503860,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178234,
+        "num": 183855,
+        "word": "气血不足的人干不了这活",
+        "onboard_time": 1774510522,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182497,
+        "num": 182497,
+        "word": "董子健 我以前也是东北女婿",
+        "onboard_time": 1774513822,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181566,
+        "num": 181566,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1774513763,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163565,
+        "num": 163565,
+        "word": "内塔尼亚胡妻子为成年儿子诉苦遭批",
+        "onboard_time": 1774506981,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135188,
+        "num": 135188,
+        "word": "能做夫妻是有点玄学在身上的",
+        "onboard_time": 1774498822,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 115158,
+        "num": 135173,
+        "word": "柯文哲被判17年",
+        "onboard_time": 1774508001,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230549,
+        "num": 135133,
+        "word": "助理曾因担心张雪峰准备买AED",
+        "onboard_time": 1774515622,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186165,
+        "num": 135087,
+        "word": "我们一直把苹果放反了",
+        "onboard_time": 1774514901,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171235,
+        "num": 135041,
+        "word": "iPhone4回收价暴涨80倍",
+        "onboard_time": 1774515321,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135034,
+        "num": 135034,
+        "word": "外甥方称刘晓庆撕裂亲情",
+        "onboard_time": 1774514003,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130515,
+        "num": 130515,
+        "word": "俄乌战场惊现持枪人形机器人",
+        "onboard_time": 1774498221,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 129338,
+        "num": 129338,
+        "word": "杨笠辟谣不结婚不生小孩",
+        "onboard_time": 1774511723,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118941,
+        "num": 118941,
+        "word": "留几手首先要留住底线",
+        "onboard_time": 1774511544,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118393,
+        "num": 118393,
+        "word": "卧床35年女子顺利产下健康宝宝",
+        "onboard_time": 1774510522,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116662,
+        "num": 116662,
+        "word": "张凌赫小学奥数班毕业照",
+        "onboard_time": 1774513883,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103953,
+        "num": 115779,
+        "word": "我想她的每一个瞬间她都在是吗",
+        "onboard_time": 1774513703,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27410,
+        "num": 115521,
+        "word": "高三学生求拆鸟巢被校长温柔反劝",
+        "onboard_time": 1774514604,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89417,
+        "num": 115458,
+        "word": "拼多多新拼姆一期150亿品牌自营",
+        "onboard_time": 1774515982,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115444,
+        "num": 115444,
+        "word": "刘佳梁聊天记录",
+        "onboard_time": 1774513822,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114878,
+        "num": 114878,
+        "word": "林志玲51岁体态",
+        "onboard_time": 1774496841,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105671,
+        "num": 105671,
+        "word": "香港将全面禁电子烟",
+        "onboard_time": 1774511481,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112893,
+        "num": 105536,
+        "word": "TOP北京SKP站台",
+        "onboard_time": 1774515622,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103891,
+        "num": 103891,
+        "word": "张雪峰追悼会将于周六举行",
+        "onboard_time": 1774498463,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101728,
+        "num": 101728,
+        "word": "原来骑手知道你在看配送进度",
+        "onboard_time": 1774498701,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100940,
+        "num": 100940,
+        "word": "迅猛龙晒比基尼照",
+        "onboard_time": 1774515622,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98122,
+        "num": 98122,
+        "word": "陈飞宇热巴白日提灯两集短剧",
+        "onboard_time": 1774514543,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次强调雄安的初心#"
+    }
+  }
+}
