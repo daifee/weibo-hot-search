@@ -1,6 +1,6 @@
 {
   "startTime": 1774458791432,
-  "endTime": 1774502064098,
+  "endTime": 1774504681854,
   "band_list": [
     {
       "raw_hot": 3334180,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 818248,
-      "num": 281831,
+      "num": 516829,
       "word": "一笑随歌爱奇艺双榜超逐玉",
       "onboard_time": 1774499301,
       "rank": 5,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 810188,
-      "num": 511249,
+      "num": 517671,
       "word": "家长违停孩子开门杀撞人后逃逸",
       "onboard_time": 1774497262,
       "rank": 3,
@@ -60,11 +60,27 @@
     },
     {
       "raw_hot": 796563,
-      "num": 273206,
+      "num": 469881,
       "word": "原来骑手知道你在看配送进度",
       "onboard_time": 1774498701,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 693371,
+      "num": 599934,
+      "word": "俄乌战场惊现持枪人形机器人",
+      "onboard_time": 1774498221,
+      "rank": 14,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 675180,
+      "num": 202678,
+      "word": "阚清子和老公一同现身机场",
+      "onboard_time": 1774503623,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 657444,
@@ -163,8 +179,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 367869,
+      "num": 199657,
+      "word": "刘晓庆外甥方否认造谣",
+      "onboard_time": 1774501941,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361931,
-      "num": 772467,
+      "num": 782067,
       "word": "强闯我驻日使馆不法之徒长相公开",
       "onboard_time": 1774497622,
       "rank": 1,
@@ -251,14 +275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 268773,
-      "num": 268773,
-      "word": "俄乌战场惊现持枪人形机器人",
-      "onboard_time": 1774498221,
-      "rank": 14,
-      "category": "军事"
-    },
-    {
       "raw_hot": 266473,
       "num": 174450,
       "word": "伊朗称击落美军F18战机",
@@ -291,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230609,
+      "num": 198682,
+      "word": "乐华建议向王一博授出股份奖励",
+      "onboard_time": 1774501521,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230402,
       "num": 171538,
       "word": "西山车祸",
@@ -315,12 +339,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221719,
+      "num": 195751,
+      "word": "张凌赫 张家玮",
+      "onboard_time": 1774503860,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206028,
+      "num": 206028,
+      "word": "顺德文旅给8天吃胖8斤女子道歉",
+      "onboard_time": 1774503261,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202494,
       "num": 187843,
       "word": "每天3分钟平板撑一个月后的效果",
       "onboard_time": 1774496482,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 195400,
+      "num": 195400,
+      "word": "继母见女孩学习就虐待殴打撕书",
+      "onboard_time": 1774501462,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189688,
@@ -353,6 +401,14 @@
       "onboard_time": 1774454901,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180516,
+      "num": 180516,
+      "word": "陈哲远关注白鹿",
+      "onboard_time": 1774504281,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 178405,
@@ -403,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174065,
+      "num": 174065,
+      "word": "情侣间转账6万因多音字闹上法庭",
+      "onboard_time": 1774504041,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173166,
       "num": 173166,
       "word": "樊长玉进门是簪花将军出门是京城贵女",
@@ -449,14 +513,6 @@
       "onboard_time": 1774493781,
       "rank": 23,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 161709,
-      "num": 161709,
-      "word": "乐华建议向王一博授出股份奖励",
-      "onboard_time": 1774501521,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 148013,
@@ -547,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122232,
+      "num": 122232,
+      "word": "洛克王国世界",
+      "onboard_time": 1774503561,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121993,
       "num": 121993,
       "word": "中方坚决反对美强行控制一国元首",
@@ -569,6 +633,14 @@
       "onboard_time": 1774493421,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120968,
+      "num": 120968,
+      "word": "白银黄金集体大涨",
+      "onboard_time": 1774503261,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 120481,
@@ -603,20 +675,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115809,
+      "num": 115809,
+      "word": "颜如晶曾连续喝了7天特色冰浆",
+      "onboard_time": 1774504580,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115464,
       "num": 228533,
       "word": "心源性猝死院外抢救99%失败",
       "onboard_time": 1774486941,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 111066,
-      "num": 111066,
-      "word": "刘晓庆外甥方否认造谣",
-      "onboard_time": 1774501941,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 110176,
@@ -691,6 +763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103145,
+      "num": 103145,
+      "word": "女子肢体麻木开颅抓出3厘米活虫",
+      "onboard_time": 1774504400,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102023,
       "num": 102023,
       "word": "第一次知道玻璃厂不能停电",
@@ -713,6 +793,22 @@
       "onboard_time": 1774495281,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 99753,
+      "num": 99753,
+      "word": "香蕉放超市与放家里的区别",
+      "onboard_time": 1774504101,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 99126,
+      "num": 99126,
+      "word": "黄晓明林志玲握手",
+      "onboard_time": 1774504400,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 98227,
@@ -771,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93697,
+      "num": 93697,
+      "word": "黄金有望开启新一轮大牛市",
+      "onboard_time": 1774504461,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92440,
       "num": 91252,
       "word": "邓凯被推出机场",
@@ -793,6 +897,14 @@
       "onboard_time": 1774436244,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91073,
+      "num": 91073,
+      "word": "特朗普被曝希望快速结束战争",
+      "onboard_time": 1774504521,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91053,
@@ -1123,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47776,
+      "num": 100849,
+      "word": "陶喆抓包员工摸鱼",
+      "onboard_time": 1774499963,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 47611,
       "num": 47611,
       "word": "原来迪丽热巴的20岁也难熬",
@@ -1188,7 +1308,7 @@
     },
     {
       "raw_hot": 37158,
-      "num": 608465,
+      "num": 626095,
       "word": "我国成功发射四维高景二号0506星",
       "onboard_time": 1774495160,
       "rank": 2,
@@ -1209,6 +1329,22 @@
       "onboard_time": 1774443622,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 34382,
+      "num": 181248,
+      "word": "退休美术老师街头摆烂画画爆火",
+      "onboard_time": 1774504101,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34368,
+      "num": 86494,
+      "word": "沉睡超300年富士山随时可能喷发",
+      "onboard_time": 1774503380,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 33916,
@@ -1299,6 +1435,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26474,
+      "num": 204228,
+      "word": "30秒讲清什么是心源性猝死",
+      "onboard_time": 1774503623,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25829,
+      "num": 128741,
+      "word": "男女装同价不同质问题何解",
+      "onboard_time": 1774503380,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20014,
       "num": 656132,
       "word": "中国为世界创造新机遇",
@@ -1353,14 +1505,6 @@
       "onboard_time": 1774475534,
       "rank": 42,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 14250,
-      "num": 187977,
-      "word": "继母见女孩学习就虐待殴打撕书",
-      "onboard_time": 1774501462,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13563,
