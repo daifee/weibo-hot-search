@@ -1,0 +1,410 @@
+{
+  "runTime": 1774496049349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 452419,
+        "num": 1072387,
+        "word": "小哥爬7楼送外卖看到牌匾瞬间愣住",
+        "onboard_time": 1774489161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308104,
+        "num": 792870,
+        "word": "奔跑吧路透",
+        "onboard_time": 1774494799,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37158,
+        "num": 606704,
+        "word": "我国成功发射四维高景二号0506星",
+        "onboard_time": 1774495160,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 505210,
+        "num": 505210,
+        "word": "伊朗开出停战5个条件",
+        "onboard_time": 1774483520,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 468746,
+        "num": 468746,
+        "word": "曝月鳞绮纪又撤档了",
+        "onboard_time": 1774492460,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405923,
+        "num": 405923,
+        "word": "汪苏泷明日世界演唱会官宣",
+        "onboard_time": 1774494680,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283495,
+        "num": 283495,
+        "word": "医院突增跑友检查心脏",
+        "onboard_time": 1774490541,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 222905,
+        "num": 222905,
+        "word": "男子切到手晕血边晕边爬去医院",
+        "onboard_time": 1774481541,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206530,
+        "num": 206530,
+        "word": "中国机器狼群巷战画面首次公开",
+        "onboard_time": 1774485861,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 70862,
+        "num": 205414,
+        "word": "你的意外险可能不保猝死",
+        "onboard_time": 1774493600,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 926386,
+        "num": 204230,
+        "word": "张雪峰谈为何突然跑步",
+        "onboard_time": 1774489581,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420269,
+        "num": 202914,
+        "word": "伊朗官媒发炸毁自由女神像AI视频",
+        "onboard_time": 1774490780,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 390104,
+        "num": 200556,
+        "word": "吴柳芳谈擦边风波",
+        "onboard_time": 1774490600,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382763,
+        "num": 199373,
+        "word": "白鹿留洋大小姐造型",
+        "onboard_time": 1774495102,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330132,
+        "num": 197589,
+        "word": "张凌赫登了贴吧",
+        "onboard_time": 1774490239,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330060,
+        "num": 197185,
+        "word": "张雪峰丧事不设追思会",
+        "onboard_time": 1774484482,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328048,
+        "num": 195537,
+        "word": "偶遇谢娜夜骑给张杰送花",
+        "onboard_time": 1774487481,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 322226,
+        "num": 192970,
+        "word": "晋江副总裁称开发票是魔法攻击",
+        "onboard_time": 1774492881,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318034,
+        "num": 192073,
+        "word": "医生谈颜如晶一年减重2.9斤",
+        "onboard_time": 1774482624,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210146,
+        "num": 190895,
+        "word": "王俊凯新歌上线",
+        "onboard_time": 1774490900,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189688,
+        "num": 189688,
+        "word": "吴柳芳退役费全给家里买房凑首付",
+        "onboard_time": 1774492640,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185180,
+        "num": 185180,
+        "word": "逐玉灵魂名场面没了",
+        "onboard_time": 1774493961,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174462,
+        "num": 174462,
+        "word": "Mark给Uzi道歉",
+        "onboard_time": 1774495102,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165489,
+        "num": 165489,
+        "word": "饭店将当日剩菜1元卖给深夜骑手",
+        "onboard_time": 1774493781,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 152110,
+        "num": 152110,
+        "word": "熬夜不是猝死的第一杀手",
+        "onboard_time": 1774453402,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148013,
+        "num": 148013,
+        "word": "洛克王国世界马年国风精灵",
+        "onboard_time": 1774495221,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141661,
+        "num": 141661,
+        "word": "霍启刚谈对郭晶晶第一印象",
+        "onboard_time": 1774489699,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138195,
+        "num": 138195,
+        "word": "颖儿进组前做热玛吉",
+        "onboard_time": 1774491681,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109460,
+        "num": 109460,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774490780,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105597,
+        "num": 105597,
+        "word": "崩坏星穹铁道超话",
+        "onboard_time": 1774485323,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113792,
+        "num": 105597,
+        "word": "王腾警告调侃雷军一律拉黑",
+        "onboard_time": 1774495461,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106353,
+        "num": 105522,
+        "word": "孟子义复古港风",
+        "onboard_time": 1774495102,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103037,
+        "num": 103037,
+        "word": "洛克王国世界开服",
+        "onboard_time": 1774480819,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102258,
+        "num": 102258,
+        "word": "樊长玉进门是簪花将军出门是京城贵女",
+        "onboard_time": 1774483942,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101711,
+        "num": 101711,
+        "word": "问界M7车主还没提车就变老款",
+        "onboard_time": 1774495281,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98227,
+        "num": 98227,
+        "word": "冯巩在人民日报撰文",
+        "onboard_time": 1774493181,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97455,
+        "num": 97455,
+        "word": "心源性猝死院外抢救99%失败",
+        "onboard_time": 1774486941,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97156,
+        "num": 97156,
+        "word": "韩国电子入境卡标示中国台湾",
+        "onboard_time": 1774495461,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95965,
+        "num": 95965,
+        "word": "雷军祝贺金山办公团队",
+        "onboard_time": 1774493839,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95558,
+        "num": 95558,
+        "word": "历届浪姐翻红名单",
+        "onboard_time": 1774488201,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95280,
+        "num": 95280,
+        "word": "40岁程序员熬夜一周连跑10公里心梗",
+        "onboard_time": 1774493421,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89499,
+        "num": 89499,
+        "word": "今天是龙凤双吉旺运日",
+        "onboard_time": 1774492581,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86337,
+        "num": 86337,
+        "word": "张凌赫贴吧的ID能不能改改",
+        "onboard_time": 1774495822,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85913,
+        "num": 85913,
+        "word": "苹果AI胸针前瞻",
+        "onboard_time": 1774495702,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84387,
+        "num": 84387,
+        "word": "剧版哈利波特首支预告",
+        "onboard_time": 1774483161,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83999,
+        "num": 83999,
+        "word": "当奶牛看到奶牛猫",
+        "onboard_time": 1774496001,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83442,
+        "num": 83442,
+        "word": "金价上演V型反转",
+        "onboard_time": 1774491560,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83436,
+        "num": 83436,
+        "word": "女导演上网搜自己才知道获国际大奖",
+        "onboard_time": 1774490840,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82396,
+        "num": 82396,
+        "word": "宁艺卓自由至上",
+        "onboard_time": 1774493421,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77975,
+        "num": 77975,
+        "word": "旧手机回收价暴涨8倍原因",
+        "onboard_time": 1774487721,
+        "rank": 49,
+        "category": "民生新闻,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记四到雄安#"
+    }
+  }
+}

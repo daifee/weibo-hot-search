@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774493584518,
+  "endTime": 1774496049349,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1547,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468746,
+      "num": 791888,
+      "word": "曝月鳞绮纪又撤档了",
+      "onboard_time": 1774492460,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 467563,
       "num": 185501,
       "word": "逐玉 超点",
@@ -1947,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405923,
+      "num": 405923,
+      "word": "汪苏泷明日世界演唱会官宣",
+      "onboard_time": 1774494680,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 403815,
       "num": 731868,
       "word": "相当于老鼠开了一家粮仓了",
@@ -1985,14 +2001,6 @@
       "onboard_time": 1774235241,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 397195,
-      "num": 791888,
-      "word": "曝月鳞绮纪又撤档了",
-      "onboard_time": 1774492460,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 395871,
@@ -2105,6 +2113,14 @@
       "onboard_time": 1774308199,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382763,
+      "num": 199373,
+      "word": "白鹿留洋大小姐造型",
+      "onboard_time": 1774495102,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 379556,
@@ -2515,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322226,
+      "num": 192970,
+      "word": "晋江副总裁称开发票是魔法攻击",
+      "onboard_time": 1774492881,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320876,
       "num": 789915,
       "word": "奔跑吧14定档",
@@ -2625,6 +2649,14 @@
       "onboard_time": 1774189043,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308104,
+      "num": 792870,
+      "word": "奔跑吧路透",
+      "onboard_time": 1774494799,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 306443,
@@ -2817,6 +2849,14 @@
       "onboard_time": 1774143679,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283495,
+      "num": 283495,
+      "word": "医院突增跑友检查心脏",
+      "onboard_time": 1774490541,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280684,
@@ -4059,6 +4099,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 189688,
+      "num": 189688,
+      "word": "吴柳芳退役费全给家里买房凑首付",
+      "onboard_time": 1774492640,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189373,
       "num": 167055,
       "word": "热巴给开推团准备了新疆特产",
@@ -4107,12 +4155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185592,
-      "num": 185592,
-      "word": "医院突增跑友检查心脏",
-      "onboard_time": 1774490541,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 185180,
+      "num": 185180,
+      "word": "逐玉灵魂名场面没了",
+      "onboard_time": 1774493961,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 185107,
@@ -4329,6 +4377,14 @@
       "onboard_time": 1774493239,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 174462,
+      "num": 174462,
+      "word": "Mark给Uzi道歉",
+      "onboard_time": 1774495102,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 174304,
@@ -4595,6 +4651,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 165489,
+      "num": 165489,
+      "word": "饭店将当日剩菜1元卖给深夜骑手",
+      "onboard_time": 1774493781,
+      "rank": 23,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 164959,
       "num": 164959,
       "word": "关晓彤剧组生菜减脂餐",
@@ -4851,14 +4915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149931,
-      "num": 149931,
-      "word": "晋江副总裁称开发票是魔法攻击",
-      "onboard_time": 1774492881,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149804,
       "num": 149804,
       "word": "被拐男孩称梅姨眼神是童年噩梦",
@@ -4913,6 +4969,14 @@
       "onboard_time": 1774365213,
       "rank": 18,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 148013,
+      "num": 148013,
+      "word": "洛克王国世界马年国风精灵",
+      "onboard_time": 1774495221,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 146581,
@@ -5209,6 +5273,14 @@
       "onboard_time": 1774346663,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138195,
+      "num": 138195,
+      "word": "颖儿进组前做热玛吉",
+      "onboard_time": 1774491681,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 137871,
@@ -5537,14 +5609,6 @@
       "onboard_time": 1774377795,
       "rank": 30,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 128782,
-      "num": 109080,
-      "word": "颖儿进组前做热玛吉",
-      "onboard_time": 1774491681,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 128626,
@@ -6323,6 +6387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113792,
+      "num": 105597,
+      "word": "王腾警告调侃雷军一律拉黑",
+      "onboard_time": 1774495461,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 113780,
       "num": 113780,
       "word": "泡泡玛特直线跳水",
@@ -6771,6 +6843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106353,
+      "num": 105522,
+      "word": "孟子义复古港风",
+      "onboard_time": 1774495102,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106105,
       "num": 106105,
       "word": "深圳垃圾量46年暴涨超3000倍",
@@ -6841,6 +6921,14 @@
       "onboard_time": 1774263680,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105597,
+      "num": 105597,
+      "word": "崩坏星穹铁道超话",
+      "onboard_time": 1774485323,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 105557,
@@ -7091,6 +7179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101711,
+      "num": 101711,
+      "word": "问界M7车主还没提车就变老款",
+      "onboard_time": 1774495281,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 101683,
       "num": 101683,
       "word": "宁艺卓的敏感度",
@@ -7299,6 +7395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98227,
+      "num": 98227,
+      "word": "冯巩在人民日报撰文",
+      "onboard_time": 1774493181,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98088,
       "num": 98088,
       "word": "男孩在废品站9元捡漏平衡车",
@@ -7377,6 +7481,14 @@
       "onboard_time": 1774191441,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 97156,
+      "num": 97156,
+      "word": "韩国电子入境卡标示中国台湾",
+      "onboard_time": 1774495461,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97082,
@@ -7467,6 +7579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95965,
+      "num": 95965,
+      "word": "雷军祝贺金山办公团队",
+      "onboard_time": 1774493839,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95928,
       "num": 95928,
       "word": "谢征樊长玉互换衣服了",
@@ -7483,14 +7603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95819,
-      "num": 95819,
-      "word": "崩坏星穹铁道超话",
-      "onboard_time": 1774485323,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 95681,
       "num": 95681,
       "word": "黄金暴跌超10%又暴力反弹",
@@ -7505,6 +7617,14 @@
       "onboard_time": 1774278141,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95280,
+      "num": 95280,
+      "word": "40岁程序员熬夜一周连跑10公里心梗",
+      "onboard_time": 1774493421,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95235,
@@ -7979,14 +8099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90803,
-      "num": 90803,
-      "word": "冯巩在人民日报撰文",
-      "onboard_time": 1774493181,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90728,
       "num": 90728,
       "word": "AG花花独狼吃鸡",
@@ -8105,6 +8217,14 @@
       "onboard_time": 1774349788,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89499,
+      "num": 89499,
+      "word": "今天是龙凤双吉旺运日",
+      "onboard_time": 1774492581,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 89242,
@@ -8379,6 +8499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86337,
+      "num": 86337,
+      "word": "张凌赫贴吧的ID能不能改改",
+      "onboard_time": 1774495822,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86244,
       "num": 86244,
       "word": "A股三大指数尾盘均跌超4%",
@@ -8395,20 +8523,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86084,
-      "num": 86084,
-      "word": "吴柳芳退役费全给家里买房凑首付",
-      "onboard_time": 1774492640,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86054,
       "num": 86054,
       "word": "曝詹姆斯下赛季愿降薪留队",
       "onboard_time": 1774328722,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85913,
+      "num": 85913,
+      "word": "苹果AI胸针前瞻",
+      "onboard_time": 1774495702,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 85846,
@@ -8537,6 +8665,14 @@
       "onboard_time": 1774429823,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83999,
+      "num": 83999,
+      "word": "当奶牛看到奶牛猫",
+      "onboard_time": 1774496001,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 83943,
@@ -8953,14 +9089,6 @@
       "onboard_time": 1774251501,
       "rank": 42,
       "category": "军事"
-    },
-    {
-      "raw_hot": 80790,
-      "num": 80790,
-      "word": "40岁程序员熬夜一周连跑10公里心梗",
-      "onboard_time": 1774493421,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80719,
@@ -9939,14 +10067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 71714,
-      "num": 71714,
-      "word": "今天是龙凤双吉旺运日",
-      "onboard_time": 1774492581,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 71650,
       "num": 71650,
       "word": "苍兰诀当年的出圈程度",
@@ -10017,6 +10137,14 @@
       "onboard_time": 1774322300,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 70862,
+      "num": 205414,
+      "word": "你的意外险可能不保猝死",
+      "onboard_time": 1774493600,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 70823,
@@ -11883,6 +12011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37158,
+      "num": 606704,
+      "word": "我国成功发射四维高景二号0506星",
+      "onboard_time": 1774495160,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37128,
       "num": 123695,
       "word": "张元英GENIE完整版正面直拍",
@@ -12950,6 +13086,9 @@
     },
     {
       "word": "#习近平总书记赴雄安新区考察纪实#"
+    },
+    {
+      "word": "#总书记四到雄安#"
     }
   ]
 }
