@@ -1,0 +1,410 @@
+{
+  "runTime": 1774526899434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 258462,
+        "num": 1041354,
+        "word": "早期心血管病可能反映在脸上",
+        "onboard_time": 1774512504,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 256538,
+        "num": 734093,
+        "word": "中国无人飞枪曝光",
+        "onboard_time": 1774524142,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2378,
+        "num": 573266,
+        "word": "七彩云南万千气象",
+        "onboard_time": 1774351169,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185831,
+        "num": 571962,
+        "word": "内存条降价",
+        "onboard_time": 1774523061,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114542,
+        "num": 570604,
+        "word": "美团第四季度净亏损150.8亿",
+        "onboard_time": 1774525162,
+        "rank": 4,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 149356,
+        "num": 569614,
+        "word": "伊朗伊斯兰革命卫队海军指挥官身亡",
+        "onboard_time": 1774515143,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122974,
+        "num": 566366,
+        "word": "张凌赫田曦薇吻戏不用调",
+        "onboard_time": 1774525282,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109480,
+        "num": 565983,
+        "word": "晋江文学城回应严禁使用老天奶",
+        "onboard_time": 1774525462,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102607,
+        "num": 563555,
+        "word": "张远真去做了魏哲鸣的嘉宾",
+        "onboard_time": 1774523842,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97839,
+        "num": 561309,
+        "word": "以后将只在周二网购",
+        "onboard_time": 1774509682,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 628562,
+        "num": 560179,
+        "word": "叶璇聊张雪峰去世",
+        "onboard_time": 1774526001,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99821,
+        "num": 558863,
+        "word": "夏以昼我的短信呢",
+        "onboard_time": 1774526301,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 557716,
+        "num": 557716,
+        "word": "逐玉大结局",
+        "onboard_time": 1774521862,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390269,
+        "num": 390269,
+        "word": "佛山电翰自曝收入",
+        "onboard_time": 1774520901,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 256572,
+        "num": 256572,
+        "word": "43岁不健身和61岁健身的区别",
+        "onboard_time": 1774523602,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 241926,
+        "num": 241926,
+        "word": "郭敬明需要避谶",
+        "onboard_time": 1774511962,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212986,
+        "num": 212986,
+        "word": "孟子义腰比名牌细",
+        "onboard_time": 1774506981,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147457,
+        "num": 201379,
+        "word": "恋与深空短信",
+        "onboard_time": 1774523542,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198302,
+        "num": 198302,
+        "word": "王一博 乐华",
+        "onboard_time": 1774513822,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42581,
+        "num": 198150,
+        "word": "印度石油储备只够9.5天",
+        "onboard_time": 1774526421,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134561,
+        "num": 198121,
+        "word": "中方回应是否禁止Manus两高管离境",
+        "onboard_time": 1774520842,
+        "rank": 20,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 24598,
+        "num": 197918,
+        "word": "晋江文学城涉多起名誉权纠纷",
+        "onboard_time": 1774526421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226534,
+        "num": 197814,
+        "word": "董子健 我以前也是东北女婿",
+        "onboard_time": 1774513822,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197665,
+        "num": 197665,
+        "word": "留几手发文暗讽被全网炮轰",
+        "onboard_time": 1774517181,
+        "rank": 23,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 115774,
+        "num": 197547,
+        "word": "卧床35年女子顺利产下健康宝宝",
+        "onboard_time": 1774510522,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197527,
+        "num": 197527,
+        "word": "林俊杰称自己生命的沙漏加速了",
+        "onboard_time": 1774526481,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27876,
+        "num": 182950,
+        "word": "商家不上平台等死上了被抽佣抽死",
+        "onboard_time": 1774525462,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172728,
+        "num": 172728,
+        "word": "我们一直把苹果放反了",
+        "onboard_time": 1774514901,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155701,
+        "num": 155701,
+        "word": "女子买24元卤菜顺走40块钱大肠头",
+        "onboard_time": 1774521321,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134797,
+        "num": 134797,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1774513763,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125735,
+        "num": 125735,
+        "word": "2026最吸金的星座",
+        "onboard_time": 1774519463,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121975,
+        "num": 121975,
+        "word": "华晨宇排队吃烤鱼",
+        "onboard_time": 1774524203,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112013,
+        "num": 112013,
+        "word": "黄晓明回应没考上博士",
+        "onboard_time": 1774518442,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102805,
+        "num": 102805,
+        "word": "妈妈重回案发现场洗刷儿子血迹",
+        "onboard_time": 1774514241,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100063,
+        "num": 100063,
+        "word": "小猫一气之下怒吃了两口冻干",
+        "onboard_time": 1774522883,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96839,
+        "num": 96839,
+        "word": "鹿晗校草时期 现实版流星花园",
+        "onboard_time": 1774510462,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96367,
+        "num": 96367,
+        "word": "谢征樊长玉生了两个孩子",
+        "onboard_time": 1774524922,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90933,
+        "num": 90933,
+        "word": "心疼清融",
+        "onboard_time": 1774519341,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34403,
+        "num": 89210,
+        "word": "拼多多新拼姆一期150亿品牌自营",
+        "onboard_time": 1774515982,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37806,
+        "num": 88990,
+        "word": "李圣经韩国女装牛仔裤版型",
+        "onboard_time": 1774520242,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92501,
+        "num": 88962,
+        "word": "孟子义差点上到李昀锐车上",
+        "onboard_time": 1774513642,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88798,
+        "num": 88798,
+        "word": "原来半大小子吃穷老子是真的",
+        "onboard_time": 1774521562,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87595,
+        "num": 87595,
+        "word": "什么意思和啥意思是有区别的",
+        "onboard_time": 1774523422,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83298,
+        "num": 83298,
+        "word": "刘慧严重违纪违法被开除党籍",
+        "onboard_time": 1774520842,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81933,
+        "num": 81933,
+        "word": "妹妹说赞成刘晓庆把遗产捐给国家",
+        "onboard_time": 1774520123,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79302,
+        "num": 79302,
+        "word": "眼睛粘在肖战上bgm",
+        "onboard_time": 1774521562,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71963,
+        "num": 77294,
+        "word": "2026KPL春季赛",
+        "onboard_time": 1774526722,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75352,
+        "num": 75352,
+        "word": "刘佳梁聊天记录",
+        "onboard_time": 1774513822,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 73794,
+        "num": 73794,
+        "word": "陈思罕又被星探看上了",
+        "onboard_time": 1774518022,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67376,
+        "num": 69520,
+        "word": "美团发布2025年财报",
+        "onboard_time": 1774526662,
+        "rank": 49,
+        "category": "财经,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次强调雄安的初心#"
+    }
+  }
+}
