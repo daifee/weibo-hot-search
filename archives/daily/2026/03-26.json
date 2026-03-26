@@ -1,6 +1,6 @@
 {
   "startTime": 1774458791432,
-  "endTime": 1774496049349,
+  "endTime": 1774502064098,
   "band_list": [
     {
       "raw_hot": 3334180,
@@ -25,6 +25,46 @@
       "onboard_time": 1774489581,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1023965,
+      "num": 276567,
+      "word": "林志玲51岁体态",
+      "onboard_time": 1774496841,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 818248,
+      "num": 281831,
+      "word": "一笑随歌爱奇艺双榜超逐玉",
+      "onboard_time": 1774499301,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 816692,
+      "num": 281621,
+      "word": "能做夫妻是有点玄学在身上的",
+      "onboard_time": 1774498822,
+      "rank": 6,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 810188,
+      "num": 511249,
+      "word": "家长违停孩子开门杀撞人后逃逸",
+      "onboard_time": 1774497262,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 796563,
+      "num": 273206,
+      "word": "原来骑手知道你在看配送进度",
+      "onboard_time": 1774498701,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 657444,
@@ -116,11 +156,19 @@
     },
     {
       "raw_hot": 382763,
-      "num": 199373,
+      "num": 282921,
       "word": "白鹿留洋大小姐造型",
       "onboard_time": 1774495102,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 361931,
+      "num": 772467,
+      "word": "强闯我驻日使馆不法之徒长相公开",
+      "onboard_time": 1774497622,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 338557,
@@ -140,11 +188,19 @@
     },
     {
       "raw_hot": 322226,
-      "num": 192970,
+      "num": 271506,
       "word": "晋江副总裁称开发票是魔法攻击",
       "onboard_time": 1774492881,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 314819,
+      "num": 187888,
+      "word": "微信聊天为什么会出现对方正在输入",
+      "onboard_time": 1774499781,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 308104,
@@ -171,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 293060,
+      "num": 270540,
+      "word": "张雪峰追悼会将于周六举行",
+      "onboard_time": 1774498463,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283495,
       "num": 283495,
       "word": "医院突增跑友检查心脏",
@@ -185,6 +249,14 @@
       "onboard_time": 1774490900,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 268773,
+      "num": 268773,
+      "word": "俄乌战场惊现持枪人形机器人",
+      "onboard_time": 1774498221,
+      "rank": 14,
+      "category": "军事"
     },
     {
       "raw_hot": 266473,
@@ -243,12 +315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202494,
+      "num": 187843,
+      "word": "每天3分钟平板撑一个月后的效果",
+      "onboard_time": 1774496482,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 189688,
       "num": 189688,
       "word": "吴柳芳退役费全给家里买房凑首付",
       "onboard_time": 1774492640,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187747,
+      "num": 187747,
+      "word": "女子被骗50万元民警追回100万元",
+      "onboard_time": 1774500682,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185180,
@@ -265,6 +353,30 @@
       "onboard_time": 1774454901,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178405,
+      "num": 178405,
+      "word": "郭敬明 月鳞绮纪",
+      "onboard_time": 1774497801,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177874,
+      "num": 177874,
+      "word": "王腾警告调侃雷军一律拉黑",
+      "onboard_time": 1774495461,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 176820,
+      "num": 187792,
+      "word": "孟子义李昀锐奔跑吧14路透",
+      "onboard_time": 1774496301,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 175591,
@@ -323,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165626,
+      "num": 165626,
+      "word": "杨笠回应清空账号",
+      "onboard_time": 1774497922,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165489,
       "num": 165489,
       "word": "饭店将当日剩菜1元卖给深夜骑手",
@@ -331,12 +451,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 161709,
+      "num": 161709,
+      "word": "乐华建议向王一博授出股份奖励",
+      "onboard_time": 1774501521,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148013,
       "num": 148013,
       "word": "洛克王国世界马年国风精灵",
       "onboard_time": 1774495221,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144808,
+      "num": 144808,
+      "word": "多地取消统一早读",
+      "onboard_time": 1774497622,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 144046,
@@ -419,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121510,
+      "num": 121510,
+      "word": "周杰伦淘金小镇MV",
+      "onboard_time": 1774500983,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121007,
       "num": 110153,
       "word": "宁艺卓自由至上",
@@ -433,6 +577,14 @@
       "onboard_time": 1774482380,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117369,
+      "num": 117369,
+      "word": "男子在非洲开手机网吧生意火爆",
+      "onboard_time": 1774498041,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117313,
@@ -459,12 +611,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 113792,
-      "num": 105597,
-      "word": "王腾警告调侃雷军一律拉黑",
-      "onboard_time": 1774495461,
-      "rank": 30,
-      "category": "互联网"
+      "raw_hot": 111066,
+      "num": 111066,
+      "word": "刘晓庆外甥方否认造谣",
+      "onboard_time": 1774501941,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 110176,
@@ -483,12 +635,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109086,
+      "num": 109086,
+      "word": "成千上万只乌鸦在以色列上空盘旋",
+      "onboard_time": 1774499602,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 108327,
+      "num": 108327,
+      "word": "一个更危险的日本正在冒头",
+      "onboard_time": 1774500022,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106353,
       "num": 105522,
       "word": "孟子义复古港风",
       "onboard_time": 1774495102,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106161,
+      "num": 106161,
+      "word": "日本自卫队将登陆菲律宾",
+      "onboard_time": 1774501343,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105834,
@@ -547,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97985,
+      "num": 97985,
+      "word": "王俊凯你会找到我下午521上线",
+      "onboard_time": 1774502001,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 97817,
       "num": 97817,
       "word": "美国拟停火1个月",
@@ -585,6 +769,14 @@
       "onboard_time": 1774493421,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92440,
+      "num": 91252,
+      "word": "邓凯被推出机场",
+      "onboard_time": 1774502001,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 92105,
@@ -764,7 +956,7 @@
     },
     {
       "raw_hot": 70862,
-      "num": 205414,
+      "num": 278376,
       "word": "你的意外险可能不保猝死",
       "onboard_time": 1774493600,
       "rank": 9,
@@ -811,6 +1003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 60878,
+      "num": 188023,
+      "word": "章若楠真维斯甜度超标",
+      "onboard_time": 1774499900,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60400,
       "num": 60400,
       "word": "国产激光武器真实打击画面",
@@ -833,6 +1033,14 @@
       "onboard_time": 1774449804,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58461,
+      "num": 108625,
+      "word": "70万韩国青年放弃求职选择休息",
+      "onboard_time": 1774501583,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 55849,
@@ -971,8 +1179,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37208,
+      "num": 278912,
+      "word": "睡眠不足当心运动变成无效消耗",
+      "onboard_time": 1774501222,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 37158,
-      "num": 606704,
+      "num": 608465,
       "word": "我国成功发射四维高景二号0506星",
       "onboard_time": 1774495160,
       "rank": 2,
@@ -1137,6 +1353,14 @@
       "onboard_time": 1774475534,
       "rank": 42,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 14250,
+      "num": 187977,
+      "word": "继母见女孩学习就虐待殴打撕书",
+      "onboard_time": 1774501462,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13563,
