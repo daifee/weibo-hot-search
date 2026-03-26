@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774540307244,
+  "endTime": 1774545171769,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -3459,6 +3459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266768,
+      "num": 86854,
+      "word": "你其实从未触摸过任何东西",
+      "onboard_time": 1774539741,
+      "rank": 10,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 266667,
       "num": 266667,
       "word": "王鹤棣将门独后骑马路透",
@@ -3945,6 +3953,14 @@
       "onboard_time": 1774514901,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 232458,
+      "num": 54805,
+      "word": "马杜罗夫妇关押地如同人间炼狱",
+      "onboard_time": 1774542380,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 232002,
@@ -8321,6 +8337,14 @@
       "onboard_time": 1774095621,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102126,
+      "num": 102126,
+      "word": "伊朗议长称地区某国支持敌人夺岛",
+      "onboard_time": 1774542439,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102027,
@@ -13075,6 +13099,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56401,
+      "num": 87118,
+      "word": "多方回应一吨旧手机能炼375克黄金",
+      "onboard_time": 1774542439,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56170,
+      "num": 56170,
+      "word": "周杰伦新专辑销量破200万张",
+      "onboard_time": 1774543758,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 56064,
       "num": 70618,
       "word": "aespa全员老吃家",
@@ -13523,6 +13563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47951,
+      "num": 54788,
+      "word": "东京一店铺发生持刀伤人事件",
+      "onboard_time": 1774540281,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 47935,
       "num": 47935,
       "word": "房东不让砸的承重柱被盘活了",
@@ -13553,6 +13601,14 @@
       "onboard_time": 1774517302,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47760,
+      "num": 54772,
+      "word": "陈飞宇迪丽热巴两集短剧",
+      "onboard_time": 1774544656,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 47750,
@@ -13827,6 +13883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39322,
+      "num": 54760,
+      "word": "孔雪儿邓凯九万字花絮",
+      "onboard_time": 1774541538,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39220,
       "num": 43702,
       "word": "高铁商城 有泡泡玛特没有卫生巾",
@@ -13993,6 +14057,14 @@
       "onboard_time": 1774503380,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 34261,
+      "num": 54719,
+      "word": "陈丽君短发造型也太帅了吧",
+      "onboard_time": 1774539262,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 34256,
