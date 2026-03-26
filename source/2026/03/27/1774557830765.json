@@ -1,0 +1,410 @@
+{
+  "runTime": 1774557830765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 61433,
+        "num": 61433,
+        "word": "游客因拍照设备太专业被景区驱赶",
+        "onboard_time": 1774537043,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31982,
+        "num": 31982,
+        "word": "隐身的名字",
+        "onboard_time": 1774538782,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6930,
+        "num": 31890,
+        "word": "2026中国网络媒体论坛",
+        "onboard_time": 1774536983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39484,
+        "num": 31043,
+        "word": "伊朗称与美交流信息不意味着谈判",
+        "onboard_time": 1774553654,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32199,
+        "num": 30392,
+        "word": "这样的民族败类必将被钉在历史耻辱柱上",
+        "onboard_time": 1774545438,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33933,
+        "num": 30253,
+        "word": "央视新闻夸了张凌赫雉鸡翎造型",
+        "onboard_time": 1774536864,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29859,
+        "num": 29859,
+        "word": "伊朗导弹2小时内4次密集砸向以本土",
+        "onboard_time": 1774531463,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27138,
+        "num": 27138,
+        "word": "陈飞宇迪丽热巴两集短剧",
+        "onboard_time": 1774544656,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25028,
+        "num": 25028,
+        "word": "千金不换 撤档",
+        "onboard_time": 1774537885,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23822,
+        "num": 23822,
+        "word": "韩国垃圾袋一袋难求",
+        "onboard_time": 1774537222,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39560,
+        "num": 23815,
+        "word": "罗技回应发布侮辱性广告",
+        "onboard_time": 1774535125,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26298,
+        "num": 23810,
+        "word": "伊朗议长称地区某国支持敌人夺岛",
+        "onboard_time": 1774542439,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28789,
+        "num": 23810,
+        "word": "罗技侮辱消费者",
+        "onboard_time": 1774528702,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23795,
+        "num": 23795,
+        "word": "你其实从未触摸过任何东西",
+        "onboard_time": 1774539741,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23583,
+        "num": 23583,
+        "word": "罗技 像狗一样跑过来",
+        "onboard_time": 1774529302,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20874,
+        "num": 20874,
+        "word": "日网痛批日本小学午餐",
+        "onboard_time": 1774533324,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20798,
+        "num": 20798,
+        "word": "美方被曝正酝酿对伊朗最后一击",
+        "onboard_time": 1774529723,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18768,
+        "num": 18768,
+        "word": "伊朗回应美国提出的停火协议",
+        "onboard_time": 1774535303,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18573,
+        "num": 18573,
+        "word": "你好1983",
+        "onboard_time": 1774545078,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17076,
+        "num": 18573,
+        "word": "多方回应一吨旧手机能炼375克黄金",
+        "onboard_time": 1774542439,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35599,
+        "num": 18572,
+        "word": "田曦薇张凌赫 二搭",
+        "onboard_time": 1774526842,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27704,
+        "num": 18571,
+        "word": "韩国女子怒抢中国游客手机",
+        "onboard_time": 1774528581,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26213,
+        "num": 18571,
+        "word": "谢征樊长玉被窝戏删掉了",
+        "onboard_time": 1774527561,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22087,
+        "num": 18569,
+        "word": "医院回应女婴刚出生一天没有肛门",
+        "onboard_time": 1774535303,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17556,
+        "num": 18569,
+        "word": "白敬亭郑合惠子互动",
+        "onboard_time": 1774533385,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16818,
+        "num": 18568,
+        "word": "LPL进入大回归时代",
+        "onboard_time": 1774534824,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16213,
+        "num": 18568,
+        "word": "43岁不健身和61岁健身的区别",
+        "onboard_time": 1774523602,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16143,
+        "num": 18567,
+        "word": "逐玉 he",
+        "onboard_time": 1774532844,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15585,
+        "num": 18566,
+        "word": "一笑随歌",
+        "onboard_time": 1774538542,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15279,
+        "num": 18566,
+        "word": "38岁教培创始人突发心梗后怕不已",
+        "onboard_time": 1774536144,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44479,
+        "num": 18565,
+        "word": "马杜罗夫妇关押地如同人间炼狱",
+        "onboard_time": 1774542380,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42679,
+        "num": 18564,
+        "word": "姐姐在弟弟平板微信疯狂发力",
+        "onboard_time": 1774551135,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14782,
+        "num": 18564,
+        "word": "东京一店铺发生持刀伤人事件",
+        "onboard_time": 1774540281,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14754,
+        "num": 18564,
+        "word": "孟子义李昀锐装不熟",
+        "onboard_time": 1774535725,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14437,
+        "num": 18563,
+        "word": "留几手发文暗讽被全网炮轰",
+        "onboard_time": 1774517181,
+        "rank": 34,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 14142,
+        "num": 18562,
+        "word": "邻居争吵后身亡车主被判语言暴力",
+        "onboard_time": 1774542739,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13623,
+        "num": 18561,
+        "word": "大疆全景无人机",
+        "onboard_time": 1774538425,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13173,
+        "num": 18561,
+        "word": "Tian回归TES",
+        "onboard_time": 1774532967,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13095,
+        "num": 18561,
+        "word": "梁祯元 李羲承",
+        "onboard_time": 1774529603,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13016,
+        "num": 18560,
+        "word": "奥运女子比赛仅限生理女性",
+        "onboard_time": 1774534586,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12997,
+        "num": 18559,
+        "word": "货拉拉司机运10箱茅台失联后续",
+        "onboard_time": 1774546754,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12907,
+        "num": 18558,
+        "word": "林俊杰称自己生命的沙漏加速了",
+        "onboard_time": 1774526481,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12652,
+        "num": 18557,
+        "word": "五月天香港演唱会",
+        "onboard_time": 1774555215,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12539,
+        "num": 18557,
+        "word": "王一博练车酷存",
+        "onboard_time": 1774547175,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12362,
+        "num": 18556,
+        "word": "红衣谢却山",
+        "onboard_time": 1774546037,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12188,
+        "num": 18556,
+        "word": "樊振东若不参赛机会或给温瑞博",
+        "onboard_time": 1774536804,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12096,
+        "num": 18555,
+        "word": "逐玉大结局",
+        "onboard_time": 1774521862,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11911,
+        "num": 18554,
+        "word": "女子买24元卤菜顺走40块钱大肠头",
+        "onboard_time": 1774521321,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11668,
+        "num": 18553,
+        "word": "郭敬明需要避谶",
+        "onboard_time": 1774511962,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10484,
+        "num": 18553,
+        "word": "王俊凯新歌简介",
+        "onboard_time": 1774548555,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#对雄安的发展前景我们充满信心#"
+    }
+  }
+}
