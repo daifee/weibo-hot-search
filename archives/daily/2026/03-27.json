@@ -1,6 +1,6 @@
 {
   "startTime": 1774545171769,
-  "endTime": 1774545171769,
+  "endTime": 1774546564627,
   "band_list": [
     {
       "raw_hot": 301062,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122343,
+      "num": 122343,
+      "word": "陈飞宇迪丽热巴两集短剧",
+      "onboard_time": 1774544656,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109671,
       "num": 109671,
       "word": "韩国垃圾袋一袋难求",
@@ -75,8 +83,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 102126,
-      "num": 102126,
+      "raw_hot": 104219,
+      "num": 104219,
       "word": "伊朗议长称地区某国支持敌人夺岛",
       "onboard_time": 1774542439,
       "rank": 4,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94554,
+      "num": 84724,
+      "word": "罗技侮辱消费者",
+      "onboard_time": 1774528702,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 92001,
       "num": 85484,
       "word": "林俊杰称自己生命的沙漏加速了",
@@ -113,14 +129,6 @@
       "onboard_time": 1774531463,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 91663,
-      "num": 84724,
-      "word": "罗技侮辱消费者",
-      "onboard_time": 1774528702,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 87807,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71286,
+      "num": 87118,
+      "word": "多方回应一吨旧手机能炼375克黄金",
+      "onboard_time": 1774542439,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67619,
       "num": 87747,
       "word": "重庆一小区租户高空抛撒大量现金",
@@ -187,16 +203,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56401,
-      "num": 87118,
-      "word": "多方回应一吨旧手机能炼375克黄金",
-      "onboard_time": 1774542439,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56170,
-      "num": 56170,
+      "num": 69273,
       "word": "周杰伦新专辑销量破200万张",
       "onboard_time": 1774543758,
       "rank": 24,
@@ -249,14 +257,6 @@
       "onboard_time": 1774540281,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 47760,
-      "num": 54772,
-      "word": "陈飞宇迪丽热巴两集短剧",
-      "onboard_time": 1774544656,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 41579,
@@ -323,6 +323,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 31912,
+      "num": 50945,
+      "word": "这样的民族败类必将被钉在历史耻辱柱上",
+      "onboard_time": 1774545438,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31799,
+      "num": 50944,
+      "word": "你好1983",
+      "onboard_time": 1774545078,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30164,
       "num": 54670,
       "word": "薛之谦演唱会ProMax版舞台",
@@ -387,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26496,
+      "num": 50943,
+      "word": "红衣谢却山",
+      "onboard_time": 1774546037,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26435,
       "num": 54583,
       "word": "王一博 乐华",
       "onboard_time": 1774513822,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24291,
+      "num": 50940,
+      "word": "张远真去做了魏哲鸣的嘉宾",
+      "onboard_time": 1774523842,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 11441,
