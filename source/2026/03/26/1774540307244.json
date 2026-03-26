@@ -1,0 +1,410 @@
+{
+  "runTime": 1774540307244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 356552,
+        "num": 1057048,
+        "word": "游客因拍照设备太专业被景区驱赶",
+        "onboard_time": 1774537043,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275048,
+        "num": 755225,
+        "word": "千金不换 撤档",
+        "onboard_time": 1774537885,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16077,
+        "num": 582653,
+        "word": "2026中国网络媒体论坛",
+        "onboard_time": 1774536983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302235,
+        "num": 302235,
+        "word": "伊朗回应美国提出的停火协议",
+        "onboard_time": 1774535303,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207403,
+        "num": 207403,
+        "word": "樊振东若不参赛机会或给温瑞博",
+        "onboard_time": 1774536804,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201068,
+        "num": 201068,
+        "word": "央视新闻夸了张凌赫雉鸡翎造型",
+        "onboard_time": 1774536864,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183818,
+        "num": 183818,
+        "word": "LPL进入大回归时代",
+        "onboard_time": 1774534824,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181504,
+        "num": 181504,
+        "word": "伊朗导弹2小时内4次密集砸向以本土",
+        "onboard_time": 1774531463,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146417,
+        "num": 181080,
+        "word": "韩国垃圾袋一袋难求",
+        "onboard_time": 1774537222,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117329,
+        "num": 180358,
+        "word": "奥运女子比赛仅限生理女性",
+        "onboard_time": 1774534586,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 777021,
+        "num": 179761,
+        "word": "罗技回应发布侮辱性广告",
+        "onboard_time": 1774535125,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 454275,
+        "num": 179005,
+        "word": "白敬亭郑合惠子互动",
+        "onboard_time": 1774533385,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322008,
+        "num": 177457,
+        "word": "孟子义李昀锐装不熟",
+        "onboard_time": 1774535725,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280441,
+        "num": 177332,
+        "word": "罗技侮辱消费者",
+        "onboard_time": 1774528702,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 270853,
+        "num": 176240,
+        "word": "日网痛批日本小学午餐",
+        "onboard_time": 1774533324,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175697,
+        "num": 175697,
+        "word": "林俊杰称自己生命的沙漏加速了",
+        "onboard_time": 1774526481,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154486,
+        "num": 154486,
+        "word": "梁祯元 李羲承",
+        "onboard_time": 1774529603,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142321,
+        "num": 142321,
+        "word": "罗技 像狗一样跑过来",
+        "onboard_time": 1774529302,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148860,
+        "num": 139976,
+        "word": "留几手发文暗讽被全网炮轰",
+        "onboard_time": 1774517181,
+        "rank": 18,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 131091,
+        "num": 131091,
+        "word": "郭敬明需要避谶",
+        "onboard_time": 1774511962,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288770,
+        "num": 127278,
+        "word": "医院回应女婴刚出生一天没有肛门",
+        "onboard_time": 1774535303,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743808,
+        "num": 123083,
+        "word": "田曦薇张凌赫 二搭",
+        "onboard_time": 1774526842,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110923,
+        "num": 110923,
+        "word": "一笑随歌",
+        "onboard_time": 1774538542,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95228,
+        "num": 95228,
+        "word": "38岁教培创始人突发心梗后怕不已",
+        "onboard_time": 1774536144,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385933,
+        "num": 95006,
+        "word": "谢征樊长玉被窝戏删掉了",
+        "onboard_time": 1774527561,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93923,
+        "num": 93923,
+        "word": "名创优品店员抓小偷还手被拒委屈奖",
+        "onboard_time": 1774537222,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113201,
+        "num": 93814,
+        "word": "逐玉最好的售后",
+        "onboard_time": 1774534346,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93673,
+        "num": 93673,
+        "word": "白敬亭郑合惠子的cp有多火",
+        "onboard_time": 1774538603,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91880,
+        "num": 91880,
+        "word": "重庆一小区租户高空抛撒大量现金",
+        "onboard_time": 1774535486,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105781,
+        "num": 91001,
+        "word": "逐玉大结局",
+        "onboard_time": 1774521862,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89420,
+        "num": 89420,
+        "word": "早期心血管病可能反映在脸上",
+        "onboard_time": 1774512504,
+        "rank": 30,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 87790,
+        "num": 87790,
+        "word": "王一博 乐华",
+        "onboard_time": 1774513822,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81736,
+        "num": 87789,
+        "word": "李卿片场三次翻车被导演保留",
+        "onboard_time": 1774537405,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79475,
+        "num": 87774,
+        "word": "患者没挂上号医生蹲在地上看CT片",
+        "onboard_time": 1774534643,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 75325,
+        "num": 87770,
+        "word": "薛之谦演唱会ProMax版舞台",
+        "onboard_time": 1774537583,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74865,
+        "num": 87754,
+        "word": "女子买24元卤菜顺走40块钱大肠头",
+        "onboard_time": 1774521321,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67579,
+        "num": 87746,
+        "word": "警犬明明看见人类摸我了",
+        "onboard_time": 1774537102,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67159,
+        "num": 87743,
+        "word": "婺源江岭油菜花美成一片",
+        "onboard_time": 1774539681,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 68195,
+        "num": 87728,
+        "word": "因抢玩具殴打2岁女童女子被行拘",
+        "onboard_time": 1774527861,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62900,
+        "num": 87719,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1774513763,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61766,
+        "num": 87708,
+        "word": "村民搬家时发现91年前红军借据",
+        "onboard_time": 1774534765,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47623,
+        "num": 87699,
+        "word": "陈都灵聊宠物出行太共情了",
+        "onboard_time": 1774533805,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60940,
+        "num": 87694,
+        "word": "张远真去做了魏哲鸣的嘉宾",
+        "onboard_time": 1774523842,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59542,
+        "num": 87680,
+        "word": "43岁不健身和61岁健身的区别",
+        "onboard_time": 1774523602,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 60167,
+        "num": 87678,
+        "word": "张柏芝杨超越同框",
+        "onboard_time": 1774534464,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57489,
+        "num": 87661,
+        "word": "复活吧颜值夫妇",
+        "onboard_time": 1774539442,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57410,
+        "num": 87659,
+        "word": "18岁小伙醉酒后从酒店5楼坠亡",
+        "onboard_time": 1774537583,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55131,
+        "num": 87643,
+        "word": "呷哺呷哺2025年亏损2.96亿",
+        "onboard_time": 1774537763,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 54741,
+        "num": 87637,
+        "word": "美团2025年营收3648.5亿元",
+        "onboard_time": 1774537284,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 54688,
+        "num": 87624,
+        "word": "王俊凯卡点521",
+        "onboard_time": 1774519521,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#对雄安的发展前景我们充满信心#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1774458791432,
-  "endTime": 1774538056797,
+  "endTime": 1774540307244,
   "band_list": [
     {
       "raw_hot": 3334180,
@@ -139,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 777021,
+      "num": 1120224,
+      "word": "罗技回应发布侮辱性广告",
+      "onboard_time": 1774535125,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 759564,
       "num": 338305,
       "word": "晋江发情况说明",
@@ -153,14 +161,6 @@
       "onboard_time": 1774522162,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 751404,
-      "num": 1120224,
-      "word": "罗技回应发布侮辱性广告",
-      "onboard_time": 1774535125,
-      "rank": 0,
-      "category": "数码"
     },
     {
       "raw_hot": 724086,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 453839,
-      "num": 173869,
+      "num": 176240,
       "word": "日网痛批日本小学午餐",
       "onboard_time": 1774533324,
       "rank": 44,
@@ -435,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 356552,
+      "num": 1057048,
+      "word": "游客因拍照设备太专业被景区驱赶",
+      "onboard_time": 1774537043,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355596,
       "num": 101878,
       "word": "晋江的公关",
@@ -515,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322008,
+      "num": 177457,
+      "word": "孟子义李昀锐装不熟",
+      "onboard_time": 1774535725,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318409,
       "num": 552437,
       "word": "伊朗导弹2小时内4次密集砸向以本土",
@@ -593,6 +609,14 @@
       "onboard_time": 1774529302,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 275048,
+      "num": 755225,
+      "word": "千金不换 撤档",
+      "onboard_time": 1774537885,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 273974,
@@ -763,20 +787,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 217455,
-      "num": 167292,
-      "word": "孟子义李昀锐装不熟",
-      "onboard_time": 1774535725,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215121,
       "num": 175445,
       "word": "韩国女子怒抢中国游客手机",
       "onboard_time": 1774528581,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 207403,
+      "num": 207403,
+      "word": "樊振东若不参赛机会或给温瑞博",
+      "onboard_time": 1774536804,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 206028,
@@ -809,6 +833,14 @@
       "onboard_time": 1774496482,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 201068,
+      "num": 201068,
+      "word": "央视新闻夸了张凌赫雉鸡翎造型",
+      "onboard_time": 1774536864,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 200360,
@@ -1051,14 +1083,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 160082,
-      "num": 160082,
-      "word": "樊振东若不参赛机会或给温瑞博",
-      "onboard_time": 1774536804,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156092,
       "num": 122359,
       "word": "朴敏英瘦成这样",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1774532844,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146417,
+      "num": 181080,
+      "word": "韩国垃圾袋一袋难求",
+      "onboard_time": 1774537222,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 146326,
@@ -1491,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110923,
+      "num": 110923,
+      "word": "一笑随歌",
+      "onboard_time": 1774538542,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110507,
       "num": 110507,
       "word": "黄金白银集体大涨原因找到了",
@@ -1553,14 +1593,6 @@
       "onboard_time": 1774499602,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 108610,
-      "num": 91943,
-      "word": "游客因拍照设备太专业被景区驱赶",
-      "onboard_time": 1774537043,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108327,
@@ -1883,12 +1915,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93923,
+      "num": 157658,
+      "word": "名创优品店员抓小偷还手被拒委屈奖",
+      "onboard_time": 1774537222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93697,
       "num": 93697,
       "word": "黄金有望开启新一轮大牛市",
       "onboard_time": 1774504461,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 93673,
+      "num": 93673,
+      "word": "白敬亭郑合惠子的cp有多火",
+      "onboard_time": 1774538603,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 92862,
@@ -1913,6 +1961,14 @@
       "onboard_time": 1774434742,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 91880,
+      "num": 91880,
+      "word": "重庆一小区租户高空抛撒大量现金",
+      "onboard_time": 1774535486,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91219,
@@ -2100,7 +2156,7 @@
     },
     {
       "raw_hot": 82694,
-      "num": 82694,
+      "num": 87678,
       "word": "张柏芝杨超越同框",
       "onboard_time": 1774534464,
       "rank": 36,
@@ -2131,14 +2187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79770,
-      "num": 77147,
-      "word": "千金不换 撤档",
-      "onboard_time": 1774537885,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 79159,
       "num": 87119,
       "word": "女子未婚先孕生完孩子被男友拉黑",
@@ -2148,7 +2196,7 @@
     },
     {
       "raw_hot": 78351,
-      "num": 78351,
+      "num": 87708,
       "word": "村民搬家时发现91年前红军借据",
       "onboard_time": 1774534765,
       "rank": 38,
@@ -2161,14 +2209,6 @@
       "onboard_time": 1774509201,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 77376,
-      "num": 77376,
-      "word": "韩国垃圾袋一袋难求",
-      "onboard_time": 1774537222,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 77284,
@@ -2219,8 +2259,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75325,
+      "num": 87770,
+      "word": "薛之谦演唱会ProMax版舞台",
+      "onboard_time": 1774537583,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 74804,
-      "num": 74804,
+      "num": 87643,
       "word": "呷哺呷哺2025年亏损2.96亿",
       "onboard_time": 1774537763,
       "rank": 41,
@@ -2411,6 +2459,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 67159,
+      "num": 87743,
+      "word": "婺源江岭油菜花美成一片",
+      "onboard_time": 1774539681,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 66832,
       "num": 74887,
       "word": "张凌赫旧照发言被挖出来",
@@ -2515,6 +2571,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 57489,
+      "num": 87661,
+      "word": "复活吧颜值夫妇",
+      "onboard_time": 1774539442,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57410,
+      "num": 87659,
+      "word": "18岁小伙醉酒后从酒店5楼坠亡",
+      "onboard_time": 1774537583,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55849,
       "num": 55849,
       "word": "黄金重演08年剧本",
@@ -2529,6 +2601,14 @@
       "onboard_time": 1774442062,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54741,
+      "num": 87637,
+      "word": "美团2025年营收3648.5亿元",
+      "onboard_time": 1774537284,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 54704,
@@ -2649,6 +2729,14 @@
       "onboard_time": 1774530323,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 47623,
+      "num": 170328,
+      "word": "陈都灵聊宠物出行太共情了",
+      "onboard_time": 1774533805,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 47611,
@@ -2851,14 +2939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 33272,
-      "num": 157658,
-      "word": "名创优品店员抓小偷还手被拒委屈奖",
-      "onboard_time": 1774537222,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33074,
       "num": 35454,
       "word": "薛之谦演唱会 视角",
@@ -2977,14 +3057,6 @@
       "onboard_time": 1774508903,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26795,
-      "num": 170328,
-      "word": "陈都灵聊宠物出行太共情了",
-      "onboard_time": 1774533805,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 26474,
