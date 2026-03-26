@@ -1,0 +1,410 @@
+{
+  "runTime": 1774553911446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 66857,
+        "num": 66857,
+        "word": "游客因拍照设备太专业被景区驱赶",
+        "onboard_time": 1774537043,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59285,
+        "num": 59285,
+        "word": "隐身的名字",
+        "onboard_time": 1774538782,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6975,
+        "num": 53785,
+        "word": "2026中国网络媒体论坛",
+        "onboard_time": 1774536983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48738,
+        "num": 48738,
+        "word": "陈飞宇迪丽热巴两集短剧",
+        "onboard_time": 1774544656,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32686,
+        "num": 32686,
+        "word": "伊朗议长称地区某国支持敌人夺岛",
+        "onboard_time": 1774542439,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37160,
+        "num": 31726,
+        "word": "伊朗导弹2小时内4次密集砸向以本土",
+        "onboard_time": 1774531463,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30198,
+        "num": 30198,
+        "word": "千金不换 撤档",
+        "onboard_time": 1774537885,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29471,
+        "num": 29471,
+        "word": "韩国垃圾袋一袋难求",
+        "onboard_time": 1774537222,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28460,
+        "num": 28460,
+        "word": "央视新闻夸了张凌赫雉鸡翎造型",
+        "onboard_time": 1774536864,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23849,
+        "num": 28205,
+        "word": "这样的民族败类必将被钉在历史耻辱柱上",
+        "onboard_time": 1774545438,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48614,
+        "num": 28202,
+        "word": "罗技回应发布侮辱性广告",
+        "onboard_time": 1774535125,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28197,
+        "num": 28197,
+        "word": "你其实从未触摸过任何东西",
+        "onboard_time": 1774539741,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 33701,
+        "num": 27769,
+        "word": "罗技侮辱消费者",
+        "onboard_time": 1774528702,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26101,
+        "num": 26101,
+        "word": "日网痛批日本小学午餐",
+        "onboard_time": 1774533324,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22836,
+        "num": 22836,
+        "word": "罗技 像狗一样跑过来",
+        "onboard_time": 1774529302,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21002,
+        "num": 21002,
+        "word": "伊朗回应美国提出的停火协议",
+        "onboard_time": 1774535303,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20846,
+        "num": 20846,
+        "word": "一笑随歌",
+        "onboard_time": 1774538542,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20561,
+        "num": 20561,
+        "word": "林俊杰称自己生命的沙漏加速了",
+        "onboard_time": 1774526481,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20222,
+        "num": 20222,
+        "word": "LPL进入大回归时代",
+        "onboard_time": 1774534824,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19579,
+        "num": 19579,
+        "word": "多方回应一吨旧手机能炼375克黄金",
+        "onboard_time": 1774542439,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45129,
+        "num": 19579,
+        "word": "田曦薇张凌赫 二搭",
+        "onboard_time": 1774526842,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30494,
+        "num": 19578,
+        "word": "白敬亭郑合惠子互动",
+        "onboard_time": 1774533385,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34564,
+        "num": 19577,
+        "word": "谢征樊长玉被窝戏删掉了",
+        "onboard_time": 1774527561,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28184,
+        "num": 19576,
+        "word": "韩国女子怒抢中国游客手机",
+        "onboard_time": 1774528581,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21944,
+        "num": 19576,
+        "word": "医院回应女婴刚出生一天没有肛门",
+        "onboard_time": 1774535303,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19575,
+        "num": 19575,
+        "word": "你好1983",
+        "onboard_time": 1774545078,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19168,
+        "num": 19168,
+        "word": "美方被曝正酝酿对伊朗最后一击",
+        "onboard_time": 1774529723,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18429,
+        "num": 19167,
+        "word": "孟子义李昀锐装不熟",
+        "onboard_time": 1774535725,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17931,
+        "num": 19163,
+        "word": "梁祯元 李羲承",
+        "onboard_time": 1774529603,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17790,
+        "num": 19161,
+        "word": "东京一店铺发生持刀伤人事件",
+        "onboard_time": 1774540281,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58535,
+        "num": 19155,
+        "word": "姐姐在弟弟平板微信疯狂发力",
+        "onboard_time": 1774551135,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44751,
+        "num": 19154,
+        "word": "马杜罗夫妇关押地如同人间炼狱",
+        "onboard_time": 1774542380,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17604,
+        "num": 19148,
+        "word": "货拉拉司机运10箱茅台失联后续",
+        "onboard_time": 1774546754,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17244,
+        "num": 19145,
+        "word": "逐玉大结局",
+        "onboard_time": 1774521862,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16019,
+        "num": 19141,
+        "word": "伊朗称与美交流信息不意味着谈判",
+        "onboard_time": 1774553654,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15754,
+        "num": 19138,
+        "word": "43岁不健身和61岁健身的区别",
+        "onboard_time": 1774523602,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 15601,
+        "num": 19134,
+        "word": "留几手发文暗讽被全网炮轰",
+        "onboard_time": 1774517181,
+        "rank": 36,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 15367,
+        "num": 19134,
+        "word": "逐玉 he",
+        "onboard_time": 1774532844,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15150,
+        "num": 19131,
+        "word": "Tian回归TES",
+        "onboard_time": 1774532967,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14620,
+        "num": 19125,
+        "word": "奥运女子比赛仅限生理女性",
+        "onboard_time": 1774534586,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14579,
+        "num": 19122,
+        "word": "大疆全景无人机",
+        "onboard_time": 1774538425,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14570,
+        "num": 19117,
+        "word": "逐玉大结局if线",
+        "onboard_time": 1774550475,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14513,
+        "num": 19114,
+        "word": "38岁教培创始人突发心梗后怕不已",
+        "onboard_time": 1774536144,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14405,
+        "num": 19112,
+        "word": "女子买24元卤菜顺走40块钱大肠头",
+        "onboard_time": 1774521321,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13269,
+        "num": 19108,
+        "word": "樊振东若不参赛机会或给温瑞博",
+        "onboard_time": 1774536804,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13187,
+        "num": 19103,
+        "word": "重庆一小区租户高空抛撒大量现金",
+        "onboard_time": 1774535486,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12928,
+        "num": 19100,
+        "word": "红衣谢却山",
+        "onboard_time": 1774546037,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12899,
+        "num": 19097,
+        "word": "王一博练车酷存",
+        "onboard_time": 1774547175,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12764,
+        "num": 19095,
+        "word": "郭敬明需要避谶",
+        "onboard_time": 1774511962,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12241,
+        "num": 19091,
+        "word": "周杰伦新专辑销量破200万张",
+        "onboard_time": 1774543758,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#对雄安的发展前景我们充满信心#"
+    }
+  }
+}
