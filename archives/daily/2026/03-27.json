@@ -1,6 +1,6 @@
 {
   "startTime": 1774545171769,
-  "endTime": 1774557830765,
+  "endTime": 1774558739807,
   "band_list": [
     {
       "raw_hot": 301062,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 58535,
-      "num": 21327,
+      "num": 21377,
       "word": "姐姐在弟弟平板微信疯狂发力",
       "onboard_time": 1774551135,
       "rank": 31,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 39484,
-      "num": 31043,
+      "num": 38368,
       "word": "伊朗称与美交流信息不意味着谈判",
       "onboard_time": 1774553654,
       "rank": 34,
@@ -305,6 +305,14 @@
       "onboard_time": 1774529723,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36193,
+      "num": 50945,
+      "word": "这样的民族败类必将被钉在历史耻辱柱上",
+      "onboard_time": 1774545438,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34261,
@@ -337,14 +345,6 @@
       "onboard_time": 1774528581,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 32199,
-      "num": 50945,
-      "word": "这样的民族败类必将被钉在历史耻辱柱上",
-      "onboard_time": 1774545438,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31799,
@@ -476,19 +476,27 @@
     },
     {
       "raw_hot": 14142,
-      "num": 18562,
+      "num": 21313,
       "word": "邻居争吵后身亡车主被判语言暴力",
       "onboard_time": 1774542739,
       "rank": 35,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12652,
-      "num": 18557,
+      "raw_hot": 12837,
+      "num": 21269,
       "word": "五月天香港演唱会",
       "onboard_time": 1774555215,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11977,
+      "num": 21197,
+      "word": "王俊凯新歌简介",
+      "onboard_time": 1774548555,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 11441,
@@ -497,14 +505,6 @@
       "onboard_time": 1774536983,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10484,
-      "num": 18553,
-      "word": "王俊凯新歌简介",
-      "onboard_time": 1774548555,
-      "rank": 49,
-      "category": "音乐"
     }
   ],
   "hotgov_list": [
