@@ -1,0 +1,410 @@
+{
+  "runTime": 1774538056797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 751404,
+        "num": 1120224,
+        "word": "罗技回应发布侮辱性广告",
+        "onboard_time": 1774535125,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197020,
+        "num": 817033,
+        "word": "奥运女子比赛仅限生理女性",
+        "onboard_time": 1774534586,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20107,
+        "num": 631367,
+        "word": "2026中国网络媒体论坛",
+        "onboard_time": 1774536983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724086,
+        "num": 596865,
+        "word": "白敬亭郑合惠子互动",
+        "onboard_time": 1774533385,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539669,
+        "num": 539669,
+        "word": "医院回应女婴刚出生一天没有肛门",
+        "onboard_time": 1774535303,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357016,
+        "num": 357016,
+        "word": "伊朗回应美国提出的停火协议",
+        "onboard_time": 1774535303,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 308753,
+        "num": 308753,
+        "word": "央视新闻夸了张凌赫雉鸡领造型",
+        "onboard_time": 1774536864,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242230,
+        "num": 242230,
+        "word": "伊朗导弹2小时内4次密集砸向以本土",
+        "onboard_time": 1774531463,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203721,
+        "num": 203721,
+        "word": "LPL进入大回归时代",
+        "onboard_time": 1774534824,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177976,
+        "num": 177976,
+        "word": "早期心血管病可能反映在脸上",
+        "onboard_time": 1774512504,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 461936,
+        "num": 175936,
+        "word": "罗技侮辱消费者",
+        "onboard_time": 1774528702,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 453839,
+        "num": 173869,
+        "word": "日网痛批日本小学午餐",
+        "onboard_time": 1774533324,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26795,
+        "num": 170328,
+        "word": "陈都灵聊宠物出行太共情了",
+        "onboard_time": 1774533805,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217455,
+        "num": 167292,
+        "word": "孟子义李昀锐装不熟",
+        "onboard_time": 1774535725,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165316,
+        "num": 165316,
+        "word": "罗技 像狗一样跑过来",
+        "onboard_time": 1774529302,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 209530,
+        "num": 163230,
+        "word": "林俊杰称自己生命的沙漏加速了",
+        "onboard_time": 1774526481,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198119,
+        "num": 162779,
+        "word": "梁祯元 李羲承",
+        "onboard_time": 1774529603,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160082,
+        "num": 160082,
+        "word": "樊振东若不参赛机会或给温瑞博",
+        "onboard_time": 1774536804,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169470,
+        "num": 159848,
+        "word": "逐玉最好的售后",
+        "onboard_time": 1774534346,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33272,
+        "num": 157658,
+        "word": "名创优品店员抓小偷还手被拒委屈奖",
+        "onboard_time": 1774537222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810836,
+        "num": 157427,
+        "word": "田曦薇张凌赫 二搭",
+        "onboard_time": 1774526842,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156919,
+        "num": 156919,
+        "word": "留几手发文暗讽被全网炮轰",
+        "onboard_time": 1774517181,
+        "rank": 21,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 123657,
+        "num": 123657,
+        "word": "患者没挂上号医生蹲在地上看CT片",
+        "onboard_time": 1774534643,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 505971,
+        "num": 123420,
+        "word": "谢征樊长玉被窝戏删掉了",
+        "onboard_time": 1774527561,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121847,
+        "num": 121847,
+        "word": "因抢玩具殴打2岁女童女子被行拘",
+        "onboard_time": 1774527861,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120558,
+        "num": 120558,
+        "word": "38岁教培创始人突发心梗后怕不已",
+        "onboard_time": 1774536144,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119660,
+        "num": 119660,
+        "word": "王一博 乐华",
+        "onboard_time": 1774513822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104835,
+        "num": 104835,
+        "word": "逐玉大结局",
+        "onboard_time": 1774521862,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92335,
+        "num": 92335,
+        "word": "43岁不健身和61岁健身的区别",
+        "onboard_time": 1774523602,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 97576,
+        "num": 92050,
+        "word": "李卿片场三次翻车被导演保留",
+        "onboard_time": 1774537405,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108610,
+        "num": 91943,
+        "word": "游客因拍照设备太专业被景区驱赶",
+        "onboard_time": 1774537043,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103551,
+        "num": 91744,
+        "word": "警犬明明看见人类摸我了",
+        "onboard_time": 1774537102,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91492,
+        "num": 91492,
+        "word": "逐玉 he",
+        "onboard_time": 1774532844,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88174,
+        "num": 88174,
+        "word": "女子买24元卤菜顺走40块钱大肠头",
+        "onboard_time": 1774521321,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91307,
+        "num": 87093,
+        "word": "张远真去做了魏哲鸣的嘉宾",
+        "onboard_time": 1774523842,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83652,
+        "num": 83652,
+        "word": "中国无人飞枪曝光",
+        "onboard_time": 1774524142,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 82694,
+        "num": 82694,
+        "word": "张柏芝杨超越同框",
+        "onboard_time": 1774534464,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82346,
+        "num": 82346,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1774513763,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78351,
+        "num": 78351,
+        "word": "村民搬家时发现91年前红军借据",
+        "onboard_time": 1774534765,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77376,
+        "num": 77376,
+        "word": "韩国垃圾袋一袋难求",
+        "onboard_time": 1774537222,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79770,
+        "num": 77147,
+        "word": "千金不换 撤档",
+        "onboard_time": 1774537885,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74804,
+        "num": 74804,
+        "word": "呷哺呷哺2025年亏损2.96亿",
+        "onboard_time": 1774537763,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72220,
+        "num": 72220,
+        "word": "Tian回归TES",
+        "onboard_time": 1774532967,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69811,
+        "num": 69811,
+        "word": "我们一直把苹果放反了",
+        "onboard_time": 1774514901,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69241,
+        "num": 69241,
+        "word": "王俊凯卡点521",
+        "onboard_time": 1774519521,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 68957,
+        "num": 68957,
+        "word": "情久止步春季赛季后赛",
+        "onboard_time": 1774537523,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68490,
+        "num": 68490,
+        "word": "林允新剧好敢演",
+        "onboard_time": 1774538002,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67665,
+        "num": 67665,
+        "word": "姚琛西藏徒步遇雪崩",
+        "onboard_time": 1774538002,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63151,
+        "num": 64717,
+        "word": "美方被曝正酝酿对伊朗最后一击",
+        "onboard_time": 1774529723,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64124,
+        "num": 64124,
+        "word": "孟子义腰比名牌细",
+        "onboard_time": 1774506981,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#对雄安的发展前景我们充满信心#"
+    }
+  }
+}

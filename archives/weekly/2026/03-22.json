@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774533935237,
+  "endTime": 1774538056797,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -899,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 751404,
+      "num": 1120224,
+      "word": "罗技回应发布侮辱性广告",
+      "onboard_time": 1774535125,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 745396,
       "num": 197573,
       "word": "地铁吐血女孩因重病拒绝男友求婚",
@@ -937,6 +945,14 @@
       "onboard_time": 1774323919,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 724086,
+      "num": 596865,
+      "word": "白敬亭郑合惠子互动",
+      "onboard_time": 1774533385,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 719204,
@@ -1451,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 539669,
+      "num": 539669,
+      "word": "医院回应女婴刚出生一天没有肛门",
+      "onboard_time": 1774535303,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 539059,
       "num": 539059,
       "word": "伊朗开出停战5个条件",
@@ -1832,6 +1856,14 @@
       "word": "美国得州炼油厂发生爆炸",
       "onboard_time": 1774317199,
       "rank": 1,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 453839,
+      "num": 173869,
+      "word": "日网痛批日本小学午餐",
+      "onboard_time": 1774533324,
+      "rank": 44,
       "category": "海外新闻"
     },
     {
@@ -2443,14 +2475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 369737,
-      "num": 369737,
-      "word": "白敬亭郑合惠子互动",
-      "onboard_time": 1774533385,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 369326,
       "num": 168707,
       "word": "宫脇咲良取关张元英",
@@ -2537,6 +2561,14 @@
       "onboard_time": 1774340001,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357016,
+      "num": 357016,
+      "word": "伊朗回应美国提出的停火协议",
+      "onboard_time": 1774535303,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 355617,
@@ -3001,6 +3033,14 @@
       "onboard_time": 1774189043,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308753,
+      "num": 308753,
+      "word": "央视新闻夸了张凌赫雉鸡领造型",
+      "onboard_time": 1774536864,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 308104,
@@ -4163,6 +4203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 217455,
+      "num": 167292,
+      "word": "孟子义李昀锐装不熟",
+      "onboard_time": 1774535725,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217281,
       "num": 217281,
       "word": "40岁以上常熬夜体检加做一项",
@@ -4379,6 +4427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203721,
+      "num": 203721,
+      "word": "LPL进入大回归时代",
+      "onboard_time": 1774534824,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203299,
       "num": 225499,
       "word": "遭虐待男童反复说妈妈你能带我走吗",
@@ -4529,6 +4585,14 @@
       "onboard_time": 1774093400,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197020,
+      "num": 817033,
+      "word": "奥运女子比赛仅限生理女性",
+      "onboard_time": 1774534586,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 195400,
@@ -5203,6 +5267,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 169470,
+      "num": 159848,
+      "word": "逐玉最好的售后",
+      "onboard_time": 1774534346,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169453,
       "num": 285618,
       "word": "国台办回应蔡正元入狱服刑",
@@ -5393,6 +5465,14 @@
       "onboard_time": 1774337660,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 160082,
+      "num": 160082,
+      "word": "樊振东若不参赛机会或给温瑞博",
+      "onboard_time": 1774536804,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 159938,
@@ -6707,6 +6787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123657,
+      "num": 123657,
+      "word": "患者没挂上号医生蹲在地上看CT片",
+      "onboard_time": 1774534643,
+      "rank": 22,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 123555,
       "num": 123555,
       "word": "周杰伦斥资一亿手搓vsAI续作",
@@ -6864,6 +6952,14 @@
       "word": "骑车玩手机摔成植物人索赔300多万",
       "onboard_time": 1774337301,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120558,
+      "num": 120558,
+      "word": "38岁教培创始人突发心梗后怕不已",
+      "onboard_time": 1774536144,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -7651,6 +7747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108610,
+      "num": 91943,
+      "word": "游客因拍照设备太专业被景区驱赶",
+      "onboard_time": 1774537043,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108480,
       "num": 150826,
       "word": "中国变压器全球爆火",
@@ -8089,6 +8193,14 @@
       "onboard_time": 1774420043,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103551,
+      "num": 91744,
+      "word": "警犬明明看见人类摸我了",
+      "onboard_time": 1774537102,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 103406,
@@ -8577,6 +8689,14 @@
       "onboard_time": 1774392379,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97576,
+      "num": 92050,
+      "word": "李卿片场三次翻车被导演保留",
+      "onboard_time": 1774537405,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 97289,
@@ -10123,6 +10243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82694,
+      "num": 82694,
+      "word": "张柏芝杨超越同框",
+      "onboard_time": 1774534464,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82633,
       "num": 82633,
       "word": "宋威龙回应被叫木头帅哥",
@@ -10467,6 +10595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 79770,
+      "num": 77147,
+      "word": "千金不换 撤档",
+      "onboard_time": 1774537885,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 79725,
       "num": 79725,
       "word": "迪丽热巴像一幅被春天翻开的画",
@@ -10571,14 +10707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78862,
-      "num": 83404,
-      "word": "日网痛批日本小学午餐",
-      "onboard_time": 1774533324,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 78847,
       "num": 78847,
       "word": "群发误把所有暧昧对象拉群了",
@@ -10649,6 +10777,14 @@
       "onboard_time": 1774175840,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78351,
+      "num": 78351,
+      "word": "村民搬家时发现91年前红军借据",
+      "onboard_time": 1774534765,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78264,
@@ -10793,6 +10929,14 @@
       "onboard_time": 1774509201,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77376,
+      "num": 77376,
+      "word": "韩国垃圾袋一袋难求",
+      "onboard_time": 1774537222,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 77284,
@@ -11105,6 +11249,14 @@
       "onboard_time": 1774160660,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74804,
+      "num": 74804,
+      "word": "呷哺呷哺2025年亏损2.96亿",
+      "onboard_time": 1774537763,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 74732,
@@ -11739,6 +11891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68957,
+      "num": 68957,
+      "word": "情久止步春季赛季后赛",
+      "onboard_time": 1774537523,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68952,
       "num": 68952,
       "word": "罗永浩回应对话杨笠掉粉",
@@ -11777,6 +11937,14 @@
       "onboard_time": 1774163179,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 68490,
+      "num": 68490,
+      "word": "林允新剧好敢演",
+      "onboard_time": 1774538002,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 68342,
@@ -11889,6 +12057,14 @@
       "onboard_time": 1774262961,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 67665,
+      "num": 67665,
+      "word": "姚琛西藏徒步遇雪崩",
+      "onboard_time": 1774538002,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 67649,
@@ -13795,6 +13971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33272,
+      "num": 157658,
+      "word": "名创优品店员抓小偷还手被拒委屈奖",
+      "onboard_time": 1774537222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32772,
       "num": 70239,
       "word": "猫咪带娃也崩溃",
@@ -14155,6 +14339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26795,
+      "num": 170328,
+      "word": "陈都灵聊宠物出行太共情了",
+      "onboard_time": 1774533805,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26474,
       "num": 204228,
       "word": "30秒讲清什么是心源性猝死",
@@ -14345,6 +14537,14 @@
       "onboard_time": 1774510763,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20107,
+      "num": 631367,
+      "word": "2026中国网络媒体论坛",
+      "onboard_time": 1774536983,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20014,
@@ -14793,14 +14993,6 @@
       "onboard_time": 1774250001,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10012,
-      "num": 106015,
-      "word": "陈都灵聊宠物出行太共情了",
-      "onboard_time": 1774533805,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 9941,
