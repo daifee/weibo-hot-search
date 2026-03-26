@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774524570051,
+  "endTime": 1774526310855,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -5785,6 +5785,14 @@
       "onboard_time": 1772517205,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 571375,
+      "num": 153772,
+      "word": "叶璇聊张雪峰去世",
+      "onboard_time": 1774526001,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 570846,
@@ -16779,6 +16787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 262124,
+      "num": 1041939,
+      "word": "早期心血管病可能反映在脸上",
+      "onboard_time": 1774512504,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 262110,
       "num": 944654,
       "word": "薛之谦广州演唱会",
@@ -19177,6 +19193,14 @@
       "onboard_time": 1774134676,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231122,
+      "num": 761246,
+      "word": "中国无人飞枪曝光",
+      "onboard_time": 1774524142,
+      "rank": 4,
+      "category": "军事"
     },
     {
       "raw_hot": 230952,
@@ -22051,6 +22075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197220,
+      "num": 767938,
+      "word": "内存条降价",
+      "onboard_time": 1774523061,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 197157,
       "num": 197157,
       "word": "papi酱富人直播间",
@@ -22305,14 +22337,6 @@
       "onboard_time": 1773277460,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 194724,
-      "num": 1026476,
-      "word": "早期心血管病可能反映在脸上",
-      "onboard_time": 1774512504,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 194694,
@@ -22945,6 +22969,14 @@
       "onboard_time": 1774504580,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188551,
+      "num": 478874,
+      "word": "董子健 我以前也是东北女婿",
+      "onboard_time": 1774513822,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 188529,
@@ -23585,14 +23617,6 @@
       "onboard_time": 1773580768,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182497,
-      "num": 478874,
-      "word": "董子健 我以前也是东北女婿",
-      "onboard_time": 1774513822,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 182460,
@@ -25873,14 +25897,6 @@
       "onboard_time": 1773747982,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163255,
-      "num": 767938,
-      "word": "内存条降价",
-      "onboard_time": 1774523061,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 163229,
@@ -31689,6 +31705,14 @@
       "onboard_time": 1772849602,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128965,
+      "num": 116587,
+      "word": "华晨宇排队吃烤鱼",
+      "onboard_time": 1774524203,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 128952,
@@ -38059,6 +38083,14 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 105884,
+      "num": 105884,
+      "word": "谢征樊长玉生了两个孩子",
+      "onboard_time": 1774524922,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105834,
       "num": 85499,
       "word": "俞宝儿扮演者回复邓凯孔雪儿",
@@ -39665,6 +39697,14 @@
       "onboard_time": 1772354303,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 101348,
+      "num": 194411,
+      "word": "张凌赫田曦薇吻戏不用调",
+      "onboard_time": 1774525282,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 101337,
@@ -42539,6 +42579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94521,
+      "num": 109804,
+      "word": "小猫一气之下怒吃了两口冻干",
+      "onboard_time": 1774522883,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94514,
       "num": 507249,
       "word": "国乒人才梯队建设怎么样",
@@ -44228,7 +44276,7 @@
     },
     {
       "raw_hot": 91186,
-      "num": 91186,
+      "num": 194046,
       "word": "张远真去做了魏哲鸣的嘉宾",
       "onboard_time": 1774523842,
       "rank": 42,
@@ -44625,14 +44673,6 @@
       "onboard_time": 1773477021,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 90312,
-      "num": 109804,
-      "word": "小猫一气之下怒吃了两口冻干",
-      "onboard_time": 1774522883,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 90263,
@@ -45761,6 +45801,14 @@
       "onboard_time": 1772943981,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87992,
+      "num": 196935,
+      "word": "美团第四季度净亏损150.8亿",
+      "onboard_time": 1774525162,
+      "rank": 4,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 87988,
@@ -47371,14 +47419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84671,
-      "num": 490915,
-      "word": "中国无人飞枪曝光",
-      "onboard_time": 1774524142,
-      "rank": 4,
-      "category": "军事"
-    },
-    {
       "raw_hot": 84654,
       "num": 84654,
       "word": "柠檬鸡爪你害惨我了",
@@ -47401,14 +47441,6 @@
       "onboard_time": 1774268601,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 84559,
-      "num": 84559,
-      "word": "华晨宇排队吃烤鱼",
-      "onboard_time": 1774524203,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 84487,
@@ -47513,6 +47545,14 @@
       "onboard_time": 1773394820,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84396,
+      "num": 434110,
+      "word": "刘慧严重违纪违法被开除党籍",
+      "onboard_time": 1774520842,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84393,
@@ -48681,14 +48721,6 @@
       "onboard_time": 1773326122,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82161,
-      "num": 434110,
-      "word": "刘慧严重违纪违法被开除党籍",
-      "onboard_time": 1774520842,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 82131,
@@ -54875,6 +54907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70686,
+      "num": 68243,
+      "word": "还以为是TFBOYS追高会",
+      "onboard_time": 1774526182,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70669,
       "num": 78581,
       "word": "时代峰峻后期你睡得着吗",
@@ -56187,6 +56227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67744,
+      "num": 67744,
+      "word": "100万到1亿能在上海买到什么房",
+      "onboard_time": 1774526062,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67726,
       "num": 301050,
       "word": "把回南天拍得好高级",
@@ -56955,6 +57003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 66072,
+      "num": 66072,
+      "word": "小猫的快乐真的超简单",
+      "onboard_time": 1774525462,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66070,
       "num": 85417,
       "word": "戚薇王鸥你俩一起过刚刚好",
@@ -57001,6 +57057,14 @@
       "onboard_time": 1774025480,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 65977,
+      "num": 74229,
+      "word": "女乒第三次选拔王艺迪夺冠",
+      "onboard_time": 1774524862,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 65972,
@@ -57145,6 +57209,14 @@
       "onboard_time": 1773306321,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65580,
+      "num": 65580,
+      "word": "晋江回应严禁使用老天奶",
+      "onboard_time": 1774523721,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 65576,
@@ -64315,6 +64387,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 40971,
+      "num": 191652,
+      "word": "晋江文学城回应严禁使用老天奶",
+      "onboard_time": 1774525462,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40952,
       "num": 149984,
       "word": "建议加班付费成硬约束",
@@ -69009,6 +69089,14 @@
       "onboard_time": 1773413243,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20129,
+      "num": 156358,
+      "word": "商家不上平台等死上了被抽佣抽死",
+      "onboard_time": 1774525462,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20116,

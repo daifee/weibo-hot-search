@@ -1,6 +1,6 @@
 {
   "startTime": 1774458791432,
-  "endTime": 1774524570051,
+  "endTime": 1774526310855,
   "band_list": [
     {
       "raw_hot": 3334180,
@@ -203,6 +203,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 577072,
+      "num": 486201,
+      "word": "逐玉大结局",
+      "onboard_time": 1774521862,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 571375,
+      "num": 153772,
+      "word": "叶璇聊张雪峰去世",
+      "onboard_time": 1774526001,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539059,
       "num": 539059,
       "word": "伊朗开出停战5个条件",
@@ -249,14 +265,6 @@
       "onboard_time": 1774490239,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486201,
-      "num": 486201,
-      "word": "逐玉大结局",
-      "onboard_time": 1774521862,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 468746,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262124,
+      "num": 1041939,
+      "word": "早期心血管病可能反映在脸上",
+      "onboard_time": 1774512504,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 257809,
       "num": 464161,
       "word": "43岁不健身和61岁健身的区别",
@@ -577,6 +593,14 @@
       "onboard_time": 1774514901,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231122,
+      "num": 761246,
+      "word": "中国无人飞枪曝光",
+      "onboard_time": 1774524142,
+      "rank": 4,
+      "category": "军事"
     },
     {
       "raw_hot": 230609,
@@ -659,20 +683,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197220,
+      "num": 767938,
+      "word": "内存条降价",
+      "onboard_time": 1774523061,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 195400,
       "num": 195400,
       "word": "继母见女孩学习就虐待殴打撕书",
       "onboard_time": 1774501462,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194724,
-      "num": 1026476,
-      "word": "早期心血管病可能反映在脸上",
-      "onboard_time": 1774512504,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 189688,
@@ -689,6 +713,14 @@
       "onboard_time": 1774504580,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188551,
+      "num": 478874,
+      "word": "董子健 我以前也是东北女婿",
+      "onboard_time": 1774513822,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 187747,
@@ -721,14 +753,6 @@
       "onboard_time": 1774454901,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182497,
-      "num": 478874,
-      "word": "董子健 我以前也是东北女婿",
-      "onboard_time": 1774513822,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 180516,
@@ -857,14 +881,6 @@
       "onboard_time": 1774504821,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 163255,
-      "num": 767938,
-      "word": "内存条降价",
-      "onboard_time": 1774523061,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 156092,
@@ -1032,6 +1048,14 @@
       "word": "杨笠辟谣不结婚不生小孩",
       "onboard_time": 1774511723,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128965,
+      "num": 116587,
+      "word": "华晨宇排队吃烤鱼",
+      "onboard_time": 1774524203,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1283,6 +1307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105884,
+      "num": 105884,
+      "word": "谢征樊长玉生了两个孩子",
+      "onboard_time": 1774524922,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105834,
       "num": 85499,
       "word": "俞宝儿扮演者回复邓凯孔雪儿",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1774495281,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 101348,
+      "num": 194411,
+      "word": "张凌赫田曦薇吻戏不用调",
+      "onboard_time": 1774525282,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 100940,
@@ -1483,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94521,
+      "num": 109804,
+      "word": "小猫一气之下怒吃了两口冻干",
+      "onboard_time": 1774522883,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94483,
       "num": 94483,
       "word": "孩子写作业头痛以为装病突发脑出血",
@@ -1532,7 +1580,7 @@
     },
     {
       "raw_hot": 91186,
-      "num": 91186,
+      "num": 194046,
       "word": "张远真去做了魏哲鸣的嘉宾",
       "onboard_time": 1774523842,
       "rank": 42,
@@ -1552,14 +1600,6 @@
       "word": "小猫交换猫名片",
       "onboard_time": 1774490060,
       "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 90312,
-      "num": 109804,
-      "word": "小猫一气之下怒吃了两口冻干",
-      "onboard_time": 1774522883,
-      "rank": 35,
       "category": "幽默"
     },
     {
@@ -1593,6 +1633,14 @@
       "onboard_time": 1774522702,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87992,
+      "num": 196935,
+      "word": "美团第四季度净亏损150.8亿",
+      "onboard_time": 1774525162,
+      "rank": 4,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 87289,
@@ -1659,20 +1707,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 84671,
-      "num": 490915,
-      "word": "中国无人飞枪曝光",
-      "onboard_time": 1774524142,
-      "rank": 4,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 84559,
-      "num": 84559,
-      "word": "华晨宇排队吃烤鱼",
-      "onboard_time": 1774524203,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 84396,
+      "num": 434110,
+      "word": "刘慧严重违纪违法被开除党籍",
+      "onboard_time": 1774520842,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83999,
@@ -1705,14 +1745,6 @@
       "onboard_time": 1774502900,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82161,
-      "num": 434110,
-      "word": "刘慧严重违纪违法被开除党籍",
-      "onboard_time": 1774520842,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81297,
@@ -1843,6 +1875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 70686,
+      "num": 68243,
+      "word": "还以为是TFBOYS追高会",
+      "onboard_time": 1774526182,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69087,
       "num": 69087,
       "word": "上海警方通报女子出差遭领导猥亵",
@@ -1867,6 +1907,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 67744,
+      "num": 67744,
+      "word": "100万到1亿能在上海买到什么房",
+      "onboard_time": 1774526062,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66832,
       "num": 74887,
       "word": "张凌赫旧照发言被挖出来",
@@ -1881,6 +1929,30 @@
       "onboard_time": 1774441163,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 66072,
+      "num": 66072,
+      "word": "小猫的快乐真的超简单",
+      "onboard_time": 1774525462,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 65977,
+      "num": 74229,
+      "word": "女乒第三次选拔王艺迪夺冠",
+      "onboard_time": 1774524862,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65580,
+      "num": 65580,
+      "word": "晋江回应严禁使用老天奶",
+      "onboard_time": 1774523721,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 65014,
@@ -2129,6 +2201,14 @@
       "onboard_time": 1774506860,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40971,
+      "num": 191652,
+      "word": "晋江文学城回应严禁使用老天奶",
+      "onboard_time": 1774525462,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40586,
@@ -2393,6 +2473,14 @@
       "onboard_time": 1774510763,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20129,
+      "num": 156358,
+      "word": "商家不上平台等死上了被抽佣抽死",
+      "onboard_time": 1774525462,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20014,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1774526310855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 262124,
+        "num": 1041939,
+        "word": "早期心血管病可能反映在脸上",
+        "onboard_time": 1774512504,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 231122,
+        "num": 761246,
+        "word": "中国无人飞枪曝光",
+        "onboard_time": 1774524142,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 3093,
+        "num": 608407,
+        "word": "七彩云南万千气象",
+        "onboard_time": 1774351169,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197220,
+        "num": 197220,
+        "word": "内存条降价",
+        "onboard_time": 1774523061,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87992,
+        "num": 196935,
+        "word": "美团第四季度净亏损150.8亿",
+        "onboard_time": 1774525162,
+        "rank": 4,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 151199,
+        "num": 195639,
+        "word": "伊朗伊斯兰革命卫队海军指挥官身亡",
+        "onboard_time": 1774515143,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101348,
+        "num": 194411,
+        "word": "张凌赫田曦薇吻戏不用调",
+        "onboard_time": 1774525282,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91068,
+        "num": 194046,
+        "word": "张远真去做了魏哲鸣的嘉宾",
+        "onboard_time": 1774523842,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87919,
+        "num": 192748,
+        "word": "以后将只在周二网购",
+        "onboard_time": 1774509682,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40971,
+        "num": 191652,
+        "word": "晋江文学城回应严禁使用老天奶",
+        "onboard_time": 1774525462,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577072,
+        "num": 191440,
+        "word": "逐玉大结局",
+        "onboard_time": 1774521862,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244091,
+        "num": 190132,
+        "word": "43岁不健身和61岁健身的区别",
+        "onboard_time": 1774523602,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 221208,
+        "num": 188759,
+        "word": "孟子义腰比名牌细",
+        "onboard_time": 1774506981,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188551,
+        "num": 188551,
+        "word": "董子健 我以前也是东北女婿",
+        "onboard_time": 1774513822,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38558,
+        "num": 175166,
+        "word": "拼多多新拼姆一期150亿品牌自营",
+        "onboard_time": 1774515982,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162125,
+        "num": 162125,
+        "word": "中方回应是否禁止Manus两高管离境",
+        "onboard_time": 1774520842,
+        "rank": 15,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 84396,
+        "num": 159840,
+        "word": "刘慧严重违纪违法被开除党籍",
+        "onboard_time": 1774520842,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159783,
+        "num": 159783,
+        "word": "恋与深空短信",
+        "onboard_time": 1774523542,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137211,
+        "num": 157639,
+        "word": "王俊凯 演唱会",
+        "onboard_time": 1774513763,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20129,
+        "num": 156358,
+        "word": "商家不上平台等死上了被抽佣抽死",
+        "onboard_time": 1774525462,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571375,
+        "num": 153772,
+        "word": "叶璇聊张雪峰去世",
+        "onboard_time": 1774526001,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462430,
+        "num": 151947,
+        "word": "佛山电翰自曝收入",
+        "onboard_time": 1774520901,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187836,
+        "num": 150119,
+        "word": "我们一直把苹果放反了",
+        "onboard_time": 1774514901,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266448,
+        "num": 148249,
+        "word": "郭敬明需要避谶",
+        "onboard_time": 1774511962,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208524,
+        "num": 144859,
+        "word": "王一博 乐华",
+        "onboard_time": 1774513822,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164224,
+        "num": 142004,
+        "word": "女子买24元卤菜顺走40块钱大肠头",
+        "onboard_time": 1774521321,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205727,
+        "num": 139918,
+        "word": "留几手发文暗讽被全网炮轰",
+        "onboard_time": 1774517181,
+        "rank": 26,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 139148,
+        "num": 139148,
+        "word": "黄晓明回应没考上博士",
+        "onboard_time": 1774518442,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119473,
+        "num": 119473,
+        "word": "2026最吸金的星座",
+        "onboard_time": 1774519463,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117651,
+        "num": 117651,
+        "word": "卧床35年女子顺利产下健康宝宝",
+        "onboard_time": 1774510522,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128965,
+        "num": 116587,
+        "word": "华晨宇排队吃烤鱼",
+        "onboard_time": 1774524203,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115157,
+        "num": 115157,
+        "word": "妈妈重回案发现场洗刷儿子血迹",
+        "onboard_time": 1774514241,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105884,
+        "num": 105884,
+        "word": "谢征樊长玉生了两个孩子",
+        "onboard_time": 1774524922,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105624,
+        "num": 105624,
+        "word": "心疼清融",
+        "onboard_time": 1774519341,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102223,
+        "num": 102223,
+        "word": "鹿晗校草时期 现实版流星花园",
+        "onboard_time": 1774510462,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99671,
+        "num": 99671,
+        "word": "王俊凯卡点521",
+        "onboard_time": 1774519521,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94521,
+        "num": 94521,
+        "word": "小猫一气之下怒吃了两口冻干",
+        "onboard_time": 1774522883,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93468,
+        "num": 93468,
+        "word": "孟子义差点上到李昀锐车上",
+        "onboard_time": 1774513642,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93139,
+        "num": 93139,
+        "word": "妹妹说赞成刘晓庆把遗产捐给国家",
+        "onboard_time": 1774520123,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75626,
+        "num": 83618,
+        "word": "原来半大小子吃穷老子是真的",
+        "onboard_time": 1774521562,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83355,
+        "num": 83355,
+        "word": "陈思罕又被星探看上了",
+        "onboard_time": 1774518022,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77206,
+        "num": 77206,
+        "word": "朴敏英瘦成这样",
+        "onboard_time": 1774516942,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65977,
+        "num": 74229,
+        "word": "女乒第三次选拔王艺迪夺冠",
+        "onboard_time": 1774524862,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72354,
+        "num": 72354,
+        "word": "刘佳梁聊天记录",
+        "onboard_time": 1774513822,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70890,
+        "num": 70890,
+        "word": "眼睛粘在肖战上bgm",
+        "onboard_time": 1774521562,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68551,
+        "num": 68551,
+        "word": "清清 联盟说还没原谅我",
+        "onboard_time": 1774521742,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70686,
+        "num": 68243,
+        "word": "还以为是TFBOYS追高会",
+        "onboard_time": 1774526182,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67744,
+        "num": 67744,
+        "word": "100万到1亿能在上海买到什么房",
+        "onboard_time": 1774526062,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66072,
+        "num": 66072,
+        "word": "小猫的快乐真的超简单",
+        "onboard_time": 1774525462,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65580,
+        "num": 65580,
+        "word": "晋江回应严禁使用老天奶",
+        "onboard_time": 1774523721,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次强调雄安的初心#"
+    }
+  }
+}
