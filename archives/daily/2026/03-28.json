@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774651324544,
+  "endTime": 1774652492978,
   "band_list": [
     {
       "raw_hot": 2167253,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 229323,
-      "num": 562316,
+      "num": 599401,
       "word": "孩子生病后买彩票中500万妈妈发声",
       "onboard_time": 1774626441,
       "rank": 24,
@@ -131,6 +131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 193521,
+      "num": 193521,
+      "word": "特朗普揭晓所谓伊朗大礼",
+      "onboard_time": 1774631776,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179016,
       "num": 160722,
       "word": "乘风2026一下来了33位姐姐",
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160382,
+      "num": 64684,
+      "word": "男子借钱凑彩礼结婚后1个月被家暴",
+      "onboard_time": 1774630458,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156303,
       "num": 141846,
       "word": "白日提灯云包场",
@@ -171,19 +187,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148186,
-      "num": 148186,
-      "word": "特朗普揭晓所谓伊朗大礼",
-      "onboard_time": 1774631776,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 145491,
       "num": 160791,
       "word": "今年蚊子可能迎来史诗级加强",
       "onboard_time": 1774612582,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140587,
+      "num": 432228,
+      "word": "3D还原女子因停车纠纷摔倒身亡",
+      "onboard_time": 1774624463,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -227,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115300,
-      "num": 64684,
-      "word": "男子借钱凑彩礼结婚后1个月被家暴",
-      "onboard_time": 1774630458,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109359,
       "num": 168545,
       "word": "世界第一高楼被闪电击中",
@@ -257,14 +265,6 @@
       "onboard_time": 1774602682,
       "rank": 27,
       "category": "民生新闻,综艺"
-    },
-    {
-      "raw_hot": 99776,
-      "num": 349513,
-      "word": "3D还原女子因停车纠纷摔倒身亡",
-      "onboard_time": 1774624463,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99515,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75199,
+      "num": 75199,
+      "word": "伊朗禁往返敌方盟友港船只通过海峡",
+      "onboard_time": 1774630398,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74930,
       "num": 88906,
       "word": "奉劝大家还是尽量多存钱",
@@ -353,14 +361,6 @@
       "onboard_time": 1774608863,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72777,
-      "num": 64645,
-      "word": "伊朗禁往返敌方盟友港船只通过海峡",
-      "onboard_time": 1774630398,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 72289,
@@ -443,6 +443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47881,
+      "num": 49672,
+      "word": "岳云鹏室内抽烟",
+      "onboard_time": 1774614861,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44837,
       "num": 55565,
       "word": "Apple50周年",
@@ -499,16 +507,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33069,
-      "num": 49672,
-      "word": "岳云鹏室内抽烟",
-      "onboard_time": 1774614861,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 26644,
-      "num": 33539,
+      "raw_hot": 29001,
+      "num": 42188,
       "word": "家事法庭",
       "onboard_time": 1774628420,
       "rank": 46,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 23176,
-      "num": 30804,
+      "num": 42173,
       "word": "伊发动第83波攻势",
       "onboard_time": 1774643234,
       "rank": 21,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 19758,
-      "num": 33539,
+      "num": 42100,
       "word": "明日方舟音律联觉",
       "onboard_time": 1774633876,
       "rank": 47,
@@ -593,6 +593,30 @@
       "onboard_time": 1774624882,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9888,
+      "num": 42038,
+      "word": "全世界倒数第一好看的草莓",
+      "onboard_time": 1774652418,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 9313,
+      "num": 41974,
+      "word": "打学生致面部骨折体育老师已被开除",
+      "onboard_time": 1774652477,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9162,
+      "num": 41917,
+      "word": "深蓝董事长拆解行驶50万公里电驱",
+      "onboard_time": 1774609642,
+      "rank": 48,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
