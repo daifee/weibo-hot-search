@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774613043976,
+  "endTime": 1774617729499,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1619,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544659,
+      "num": 544659,
+      "word": "大学生表白被拒后怒砸食堂咖啡店",
+      "onboard_time": 1774612943,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 541038,
       "num": 757703,
       "word": "过度自律",
@@ -1883,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 490219,
+      "num": 165378,
+      "word": "曝关晓彤喜提新车",
+      "onboard_time": 1774617204,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485491,
       "num": 288259,
       "word": "日本教授中国旅游后感叹日本变态",
@@ -1915,11 +1931,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 478165,
+      "num": 161803,
+      "word": "严浩翔方回应KTV传闻",
+      "onboard_time": 1774613842,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477750,
       "num": 431038,
       "word": "入室抢婴主犯听到死缓当庭开骂",
       "onboard_time": 1774326321,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477272,
+      "num": 744668,
+      "word": "今年蚊子可能迎来史诗级加强",
+      "onboard_time": 1774612582,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -2569,6 +2601,14 @@
       "onboard_time": 1774567159,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396134,
+      "num": 159772,
+      "word": "黄子韬因为减肥后脑勺秃了",
+      "onboard_time": 1774614861,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 395871,
@@ -3379,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316115,
+      "num": 158578,
+      "word": "锤娜丽莎瘦30斤公开减肥原因",
+      "onboard_time": 1774617023,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314819,
       "num": 268211,
       "word": "微信聊天为什么会出现对方正在输入",
@@ -3785,6 +3833,14 @@
       "onboard_time": 1774446443,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 277963,
+      "num": 362131,
+      "word": "逐玉 庆功宴",
+      "onboard_time": 1774612462,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 276802,
@@ -4963,6 +5019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213977,
+      "num": 1034236,
+      "word": "白日提灯云包场",
+      "onboard_time": 1774614682,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213184,
       "num": 213184,
       "word": "偶遇孔刘与男子搭肩散步",
@@ -5265,6 +5329,14 @@
       "onboard_time": 1774170741,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197582,
+      "num": 158279,
+      "word": "岳云鹏室内抽烟",
+      "onboard_time": 1774614861,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 197534,
@@ -5691,6 +5763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 181888,
+      "num": 181888,
+      "word": "新生儿和产妇先后离世家属发声",
+      "onboard_time": 1774616063,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181318,
       "num": 740511,
       "word": "周杰伦 歌词",
@@ -5745,6 +5825,14 @@
       "onboard_time": 1774221138,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178822,
+      "num": 158239,
+      "word": "丁程鑫蛙泳",
+      "onboard_time": 1774617023,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 178621,
@@ -5817,14 +5905,6 @@
       "onboard_time": 1774168523,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176463,
-      "num": 362131,
-      "word": "逐玉 庆功宴",
-      "onboard_time": 1774612462,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 176338,
@@ -6107,6 +6187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 169814,
+      "num": 359926,
+      "word": "THE9在安崎微博团建",
+      "onboard_time": 1774612402,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169752,
       "num": 141127,
       "word": "一个预防胃癌最简单的方法",
@@ -6379,6 +6467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159141,
+      "num": 159141,
+      "word": "伊朗一天向以色列发射10轮导弹",
+      "onboard_time": 1774614502,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158875,
       "num": 158875,
       "word": "徐老师采访肖战",
@@ -6403,6 +6499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158233,
+      "num": 446229,
+      "word": "奉劝大家还是尽量多存钱",
+      "onboard_time": 1774606942,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157722,
       "num": 157722,
       "word": "女子将房产过户前夫换回被虐待儿女",
@@ -6417,14 +6521,6 @@
       "onboard_time": 1774599440,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156550,
-      "num": 446229,
-      "word": "奉劝大家还是尽量多存钱",
-      "onboard_time": 1774606942,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 156469,
@@ -6481,14 +6577,6 @@
       "onboard_time": 1774333043,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153989,
-      "num": 359926,
-      "word": "THE9在安崎微博团建",
-      "onboard_time": 1774612402,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 153975,
@@ -7419,6 +7507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130173,
+      "num": 130173,
+      "word": "张杰鸟巢演唱会",
+      "onboard_time": 1774612462,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129655,
       "num": 129655,
       "word": "杨笠说我撑过来了",
@@ -7819,6 +7915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124360,
+      "num": 124360,
+      "word": "左奇函 脸色",
+      "onboard_time": 1774617323,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124234,
       "num": 130905,
       "word": "黄金价格反弹后下跌",
@@ -7833,6 +7937,14 @@
       "onboard_time": 1774255825,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 124074,
+      "num": 158573,
+      "word": "娇儿恶卧踏里裂",
+      "onboard_time": 1774613603,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 123964,
@@ -7905,6 +8017,14 @@
       "onboard_time": 1774165580,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122530,
+      "num": 125765,
+      "word": "男子因孕妻产检遇男医生崩溃撞墙",
+      "onboard_time": 1774617083,
+      "rank": 30,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 122232,
@@ -8073,6 +8193,14 @@
       "onboard_time": 1774482380,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120464,
+      "num": 120464,
+      "word": "杨幂直播",
+      "onboard_time": 1774616063,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 120451,
@@ -8961,14 +9089,6 @@
       "onboard_time": 1774359643,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108687,
-      "num": 108687,
-      "word": "张杰鸟巢演唱会",
-      "onboard_time": 1774612462,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 108675,
@@ -10499,14 +10619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 94140,
-      "num": 218716,
-      "word": "今年蚊子可能迎来史诗级加强",
-      "onboard_time": 1774612582,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94139,
       "num": 94139,
       "word": "安陵容祺贵人 浪姐",
@@ -11803,6 +11915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84165,
+      "num": 84165,
+      "word": "徐良演唱会发校服",
+      "onboard_time": 1774614321,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 84128,
       "num": 84128,
       "word": "手机涨价潮到来",
@@ -11849,6 +11969,14 @@
       "onboard_time": 1774231640,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83867,
+      "num": 83867,
+      "word": "逐玉吻戏喊cut后两人都很忙",
+      "onboard_time": 1774617382,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 83728,
@@ -12017,6 +12145,14 @@
       "onboard_time": 1774337601,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 82575,
+      "num": 158531,
+      "word": "明年所有的00后都将成年",
+      "onboard_time": 1774615224,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82553,
@@ -12331,6 +12467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 80720,
+      "num": 123481,
+      "word": "原神前瞻",
+      "onboard_time": 1774616002,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80719,
       "num": 80719,
       "word": "第一次见这么标准的课题分离",
@@ -12584,6 +12728,14 @@
       "word": "猫 又来了个神经",
       "onboard_time": 1774601722,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 78588,
+      "num": 109341,
+      "word": "填补了国内厨师未能发表sci的空白",
+      "onboard_time": 1774617623,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -13779,6 +13931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70565,
+      "num": 83873,
+      "word": "土壤的土腥味从何而来",
+      "onboard_time": 1774617683,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 70541,
       "num": 78989,
       "word": "国防部回应赖清德吹捧东亚共荣圈",
@@ -14691,6 +14851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62583,
+      "num": 83768,
+      "word": "广东男篮vs北京男篮",
+      "onboard_time": 1774615644,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62471,
       "num": 62471,
       "word": "苦练书法多年终于有回报了",
@@ -14819,6 +14987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61464,
+      "num": 83455,
+      "word": "孙颖莎酷girl",
+      "onboard_time": 1774616662,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61409,
       "num": 1707441,
       "word": "太空加油站新进展",
@@ -14833,14 +15009,6 @@
       "onboard_time": 1774155560,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 61198,
-      "num": 90619,
-      "word": "大学生表白被拒后怒砸食堂咖啡店",
-      "onboard_time": 1774612943,
-      "rank": 48,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 61001,
@@ -15545,6 +15713,14 @@
       "onboard_time": 1774335201,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51612,
+      "num": 109302,
+      "word": "浪姐摇来了整个娱乐圈",
+      "onboard_time": 1774609342,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 51330,
@@ -17618,6 +17794,9 @@
     },
     {
       "word": "#跟着总书记看雄安新机遇#"
+    },
+    {
+      "word": "#中共中央政治局3月27日召开会议#"
     }
   ]
 }

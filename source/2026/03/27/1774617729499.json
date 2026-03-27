@@ -1,0 +1,410 @@
+{
+  "runTime": 1774617729499,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 213977,
+        "num": 1034236,
+        "word": "白日提灯云包场",
+        "onboard_time": 1774614682,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477272,
+        "num": 744668,
+        "word": "今年蚊子可能迎来史诗级加强",
+        "onboard_time": 1774612582,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4880,
+        "num": 582685,
+        "word": "2026中国网络媒体论坛",
+        "onboard_time": 1774536983,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246136,
+        "num": 556023,
+        "word": "伊朗革命卫队称霍尔木兹海峡关闭",
+        "onboard_time": 1774610242,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 544659,
+        "num": 544659,
+        "word": "大学生表白被拒后怒砸食堂咖啡店",
+        "onboard_time": 1774612943,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 277963,
+        "num": 277963,
+        "word": "逐玉 庆功宴",
+        "onboard_time": 1774612462,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259151,
+        "num": 259151,
+        "word": "大部分人觉得旅游累的原因",
+        "onboard_time": 1774609041,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181888,
+        "num": 181888,
+        "word": "新生儿和产妇先后离世家属发声",
+        "onboard_time": 1774616063,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169814,
+        "num": 169814,
+        "word": "THE9在安崎微博团建",
+        "onboard_time": 1774612402,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82199,
+        "num": 169813,
+        "word": "国足赢了世界杯球队",
+        "onboard_time": 1774601482,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 972285,
+        "num": 166555,
+        "word": "王一博微博改名",
+        "onboard_time": 1774602801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490219,
+        "num": 165378,
+        "word": "曝关晓彤喜提新车",
+        "onboard_time": 1774617204,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169991,
+        "num": 163842,
+        "word": "保留奔跑吧艺人剩菜店家道歉",
+        "onboard_time": 1774602682,
+        "rank": 12,
+        "category": "民生新闻,综艺"
+      },
+      {
+        "raw_hot": 478165,
+        "num": 161803,
+        "word": "严浩翔方回应KTV传闻",
+        "onboard_time": 1774613842,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396134,
+        "num": 159772,
+        "word": "黄子韬因为减肥后脑勺秃了",
+        "onboard_time": 1774614861,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159141,
+        "num": 159141,
+        "word": "伊朗一天向以色列发射10轮导弹",
+        "onboard_time": 1774614502,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158620,
+        "num": 158620,
+        "word": "职称评审将迎重大调整",
+        "onboard_time": 1774605621,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316115,
+        "num": 158578,
+        "word": "锤娜丽莎瘦30斤公开减肥原因",
+        "onboard_time": 1774617023,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124074,
+        "num": 158573,
+        "word": "娇儿恶卧踏里裂",
+        "onboard_time": 1774613603,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82575,
+        "num": 158531,
+        "word": "明年所有的00后都将成年",
+        "onboard_time": 1774615224,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302930,
+        "num": 158477,
+        "word": "王一博乐华续约",
+        "onboard_time": 1774603042,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328840,
+        "num": 158422,
+        "word": "西班牙25岁女孩被性侵多次后申请安乐死",
+        "onboard_time": 1774610963,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 249736,
+        "num": 158397,
+        "word": "王橹杰换头像",
+        "onboard_time": 1774608564,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222946,
+        "num": 158330,
+        "word": "女子手指截肢放肚里养1个月变小肉球",
+        "onboard_time": 1774604002,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197582,
+        "num": 158279,
+        "word": "岳云鹏室内抽烟",
+        "onboard_time": 1774614861,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178822,
+        "num": 158239,
+        "word": "丁程鑫蛙泳",
+        "onboard_time": 1774617023,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158233,
+        "num": 158233,
+        "word": "奉劝大家还是尽量多存钱",
+        "onboard_time": 1774606942,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81065,
+        "num": 133219,
+        "word": "中国博士后遭美方约谈盘问后自杀",
+        "onboard_time": 1774599321,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167521,
+        "num": 133054,
+        "word": "黄灿灿浪姐连麦杨紫",
+        "onboard_time": 1774610361,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130173,
+        "num": 130173,
+        "word": "张杰鸟巢演唱会",
+        "onboard_time": 1774612462,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122530,
+        "num": 125765,
+        "word": "男子因孕妻产检遇男医生崩溃撞墙",
+        "onboard_time": 1774617083,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149684,
+        "num": 125430,
+        "word": "乘风2026官宣阵容",
+        "onboard_time": 1774593980,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124360,
+        "num": 124360,
+        "word": "左奇函 脸色",
+        "onboard_time": 1774617323,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80720,
+        "num": 123481,
+        "word": "原神前瞻",
+        "onboard_time": 1774616002,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123364,
+        "num": 123364,
+        "word": "UNIQ组合已解散",
+        "onboard_time": 1774608863,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120464,
+        "num": 120464,
+        "word": "杨幂直播",
+        "onboard_time": 1774616063,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83118,
+        "num": 118361,
+        "word": "是你的孩子吗你就背",
+        "onboard_time": 1774611803,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117012,
+        "num": 117012,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1774611682,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78588,
+        "num": 109341,
+        "word": "填补了国内厨师未能发表sci的空白",
+        "onboard_time": 1774617623,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51612,
+        "num": 109302,
+        "word": "浪姐摇来了整个娱乐圈",
+        "onboard_time": 1774609342,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74548,
+        "num": 109295,
+        "word": "Hero对战TTG",
+        "onboard_time": 1774611563,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109292,
+        "num": 109292,
+        "word": "迪丽热巴提灯走机场",
+        "onboard_time": 1774603761,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97815,
+        "num": 97815,
+        "word": "乘风2026",
+        "onboard_time": 1774605441,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72566,
+        "num": 96060,
+        "word": "TES欢迎JackeyLove归来",
+        "onboard_time": 1774610542,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95404,
+        "num": 95404,
+        "word": "王源新纹身",
+        "onboard_time": 1774608024,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84165,
+        "num": 84165,
+        "word": "徐良演唱会发校服",
+        "onboard_time": 1774614321,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70565,
+        "num": 83873,
+        "word": "土壤的土腥味从何而来",
+        "onboard_time": 1774617683,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 83867,
+        "num": 83867,
+        "word": "逐玉吻戏喊cut后两人都很忙",
+        "onboard_time": 1774617382,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62583,
+        "num": 83768,
+        "word": "广东男篮vs北京男篮",
+        "onboard_time": 1774615644,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61464,
+        "num": 83455,
+        "word": "孙颖莎酷girl",
+        "onboard_time": 1774616662,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局3月27日召开会议#"
+    }
+  }
+}
