@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/03/28 07:41:44
+本榜单时间：2026/01/01 00:35:36 ~ 2026/03/28 07:53:57
 </p>
 </blockquote>
 <p>
@@ -791,6 +791,12 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E8%A2%AB%E7%BD%9A1500%E5%85%83%23" target="weibo">
 金晨肇事逃逸被罚1500元（热度：3050583）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8C%E9%92%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
+李昌钰去世（热度：3044861）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ JYP考公上岸了（热度：1803914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E7%8C%9D%E6%AD%BB%E5%BD%93%E5%A4%A95%E6%AC%A1%E8%AE%BF%E9%97%AE%E5%85%AC%E5%8F%B8OA%E7%B3%BB%E7%BB%9F%23" target="weibo">
 程序员猝死当天5次访问公司OA系统（热度：1725086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E5%AE%98%E5%AE%A3%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%9F%E5%AD%90%E4%B9%89%23" target="weibo">
-将门独后官宣王鹤棣孟子义（热度：1724440）
 </a>
 </li>
 
