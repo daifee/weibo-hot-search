@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774635108255,
+  "endTime": 1774638357046,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -49515,6 +49515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 85719,
+      "num": 49738,
+      "word": "特朗普揭晓所谓伊朗大礼",
+      "onboard_time": 1774631776,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85717,
       "num": 999211,
       "word": "建议推出老年人防沉迷模式",
@@ -67315,14 +67323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 43023,
-      "num": 49738,
-      "word": "特朗普揭晓所谓伊朗大礼",
-      "onboard_time": 1774631776,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 43018,
       "num": 67044,
       "word": "朱志鑫30分钟的vlog",
@@ -73003,6 +73003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18929,
+      "num": 26366,
+      "word": "iPhone18边框或无变化",
+      "onboard_time": 1774638074,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 18856,
       "num": 300742,
       "word": "社交平台惊现众多港险销售网红",
@@ -73313,6 +73321,14 @@
       "onboard_time": 1774078461,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17503,
+      "num": 26339,
+      "word": "周深首唱求真",
+      "onboard_time": 1774637294,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 17444,

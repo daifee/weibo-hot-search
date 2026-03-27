@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774635108255,
+  "endTime": 1774638357046,
   "band_list": [
     {
       "raw_hot": 2167253,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85719,
+      "num": 49738,
+      "word": "特朗普揭晓所谓伊朗大礼",
+      "onboard_time": 1774631776,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85560,
       "num": 91644,
       "word": "女子不听提醒试戴玉镯摔出裂纹",
@@ -451,14 +459,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43023,
-      "num": 49738,
-      "word": "特朗普揭晓所谓伊朗大礼",
-      "onboard_time": 1774631776,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40361,
       "num": 49895,
       "word": "迪丽热巴白日提灯包场6666份",
@@ -481,6 +481,14 @@
       "onboard_time": 1774605441,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34091,
+      "num": 34091,
+      "word": "你好1983",
+      "onboard_time": 1774636094,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 33929,
@@ -515,12 +523,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 18929,
+      "num": 26366,
+      "word": "iPhone18边框或无变化",
+      "onboard_time": 1774638074,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 17628,
       "num": 118779,
       "word": "科威特重要港口遭袭",
       "onboard_time": 1774626381,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17503,
+      "num": 26339,
+      "word": "周深首唱求真",
+      "onboard_time": 1774637294,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 17359,
+      "num": 26337,
+      "word": "我许可",
+      "onboard_time": 1774629738,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 11896,
