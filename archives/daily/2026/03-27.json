@@ -1,10 +1,10 @@
 {
   "startTime": 1774545171769,
-  "endTime": 1774610038834,
+  "endTime": 1774612109504,
   "band_list": [
     {
       "raw_hot": 4022499,
-      "num": 317905,
+      "num": 449987,
       "word": "王一博微博改名",
       "onboard_time": 1774602801,
       "rank": 14,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1114054,
-      "num": 113386,
+      "num": 436457,
       "word": "王一博乐华续约",
       "onboard_time": 1774603042,
       "rank": 26,
@@ -32,6 +32,14 @@
       "word": "刘昊然 商K",
       "onboard_time": 1774601242,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 978052,
+      "num": 449056,
+      "word": "疑似商K工作人员回应",
+      "onboard_time": 1774608383,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 715885,
-      "num": 107743,
+      "num": 440473,
       "word": "王橹杰换头像",
       "onboard_time": 1774608564,
       "rank": 23,
@@ -129,14 +137,6 @@
       "onboard_time": 1774573341,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 615725,
-      "num": 106243,
-      "word": "疑似商K工作人员回应",
-      "onboard_time": 1774608383,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 614102,
@@ -235,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 432023,
+      "num": 432023,
+      "word": "蔡徐坤直播",
+      "onboard_time": 1774611682,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428840,
       "num": 755911,
       "word": "Naiyou终身禁赛",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 415202,
-      "num": 104864,
+      "num": 152903,
       "word": "虞书欣工作室出图",
       "onboard_time": 1774608804,
       "rank": 28,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 406141,
-      "num": 119355,
+      "num": 454358,
       "word": "女子手指截肢放肚里养1个月变小肉球",
       "onboard_time": 1774604002,
       "rank": 22,
@@ -315,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 375083,
+      "num": 375083,
+      "word": "西班牙25岁女孩被性侵多次后申请安乐死",
+      "onboard_time": 1774610963,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 368000,
       "num": 247007,
       "word": "粉底液将军为何会激起群嘲",
@@ -337,6 +353,14 @@
       "onboard_time": 1774597522,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343207,
+      "num": 480606,
+      "word": "黄灿灿浪姐连麦杨紫",
+      "onboard_time": 1774610361,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 313021,
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 288850,
-      "num": 300189,
+      "num": 315138,
       "word": "熬夜的人要多吃一类食物",
       "onboard_time": 1774596140,
       "rank": 24,
@@ -433,6 +457,14 @@
       "onboard_time": 1774592062,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279137,
+      "num": 1044662,
+      "word": "职称评审将迎重大调整",
+      "onboard_time": 1774605621,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273715,
@@ -460,11 +492,19 @@
     },
     {
       "raw_hot": 270278,
-      "num": 109539,
+      "num": 196269,
       "word": "迪丽热巴提灯走机场",
       "onboard_time": 1774603761,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267069,
+      "num": 619200,
+      "word": "伊朗革命卫队称霍尔木兹海峡关闭",
+      "onboard_time": 1774610242,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 266768,
@@ -475,12 +515,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 264290,
-      "num": 823853,
-      "word": "职称评审将迎重大调整",
-      "onboard_time": 1774605621,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 258409,
+      "num": 258409,
+      "word": "UNIQ组合已解散",
+      "onboard_time": 1774608863,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 257053,
@@ -500,7 +540,7 @@
     },
     {
       "raw_hot": 252246,
-      "num": 252246,
+      "num": 465227,
       "word": "花少8在约宋威龙张凌赫",
       "onboard_time": 1774604363,
       "rank": 5,
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 229038,
-      "num": 171277,
+      "num": 455683,
       "word": "乘风2026师姐帮帮唱",
       "onboard_time": 1774596382,
       "rank": 30,
@@ -628,7 +668,7 @@
     },
     {
       "raw_hot": 220364,
-      "num": 735821,
+      "num": 740467,
       "word": "国足赢了世界杯球队",
       "onboard_time": 1774601482,
       "rank": 24,
@@ -673,6 +713,22 @@
       "onboard_time": 1774579160,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202079,
+      "num": 475642,
+      "word": "中方回应美称中企向伊军提供芯片",
+      "onboard_time": 1774608262,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 194251,
+      "num": 594647,
+      "word": "TES欢迎JackeyLove归来",
+      "onboard_time": 1774610542,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 190690,
@@ -731,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183915,
-      "num": 158659,
-      "word": "中方回应美称中企向伊军提供芯片",
-      "onboard_time": 1774608262,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 183744,
       "num": 183744,
       "word": "Crisp怒喷Kanavi",
@@ -753,6 +801,14 @@
       "onboard_time": 1774572321,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182417,
+      "num": 280908,
+      "word": "苏轼 吃beef",
+      "onboard_time": 1774607363,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 182131,
@@ -788,7 +844,7 @@
     },
     {
       "raw_hot": 176213,
-      "num": 176213,
+      "num": 463198,
       "word": "乘风2026",
       "onboard_time": 1774605441,
       "rank": 48,
@@ -812,7 +868,7 @@
     },
     {
       "raw_hot": 168655,
-      "num": 95157,
+      "num": 459852,
       "word": "王源新纹身",
       "onboard_time": 1774608024,
       "rank": 35,
@@ -825,6 +881,14 @@
       "onboard_time": 1774574420,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165639,
+      "num": 165639,
+      "word": "虞书欣梦回凌妙妙",
+      "onboard_time": 1774611442,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162882,
@@ -867,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156550,
+      "num": 446229,
+      "word": "奉劝大家还是尽量多存钱",
+      "onboard_time": 1774606942,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156469,
       "num": 156469,
       "word": "大侦探",
@@ -883,28 +955,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154423,
-      "num": 94535,
-      "word": "UNIQ组合已解散",
-      "onboard_time": 1774608863,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152469,
       "num": 315448,
       "word": "国足2比0库拉索",
       "onboard_time": 1774599021,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152262,
-      "num": 105029,
-      "word": "奉劝大家还是尽量多存钱",
-      "onboard_time": 1774606942,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 144988,
@@ -937,6 +993,14 @@
       "onboard_time": 1774583421,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138715,
+      "num": 138715,
+      "word": "陈思罕新头像",
+      "onboard_time": 1774608863,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 137892,
@@ -987,16 +1051,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132096,
-      "num": 94300,
-      "word": "陈思罕新头像",
-      "onboard_time": 1774608863,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 129546,
+      "num": 559385,
+      "word": "大部分人觉得旅游累的原因",
+      "onboard_time": 1774609041,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 128351,
-      "num": 128351,
+      "num": 437040,
       "word": "尚界Z7随行美容舱",
       "onboard_time": 1774609642,
       "rank": 16,
@@ -1075,14 +1139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122274,
-      "num": 168861,
-      "word": "苏轼 吃beef",
-      "onboard_time": 1774607363,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 121576,
       "num": 121576,
       "word": "全红婵嘉人四月刊生日封面",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1774572321,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117222,
+      "num": 117222,
+      "word": "刘昊然方发律师声明",
+      "onboard_time": 1774609942,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 116785,
@@ -1195,6 +1259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112560,
+      "num": 521384,
+      "word": "女子请屠夫杀年猪惨遭其儿子杀害",
+      "onboard_time": 1774611862,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112343,
       "num": 112343,
       "word": "网友刷心脏骤停新闻后呼吸性碱中毒",
@@ -1244,7 +1316,7 @@
     },
     {
       "raw_hot": 108414,
-      "num": 108414,
+      "num": 518234,
       "word": "郭永航被查",
       "onboard_time": 1774606823,
       "rank": 21,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1774551135,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102768,
+      "num": 102768,
+      "word": "张凌赫涨粉量",
+      "onboard_time": 1774611862,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 101409,
@@ -1531,20 +1611,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92003,
-      "num": 92003,
-      "word": "刘昊然方发律师声明",
-      "onboard_time": 1774609942,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 91982,
       "num": 88489,
       "word": "乌兰图雅 浪姐",
       "onboard_time": 1774596801,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91755,
+      "num": 167786,
+      "word": "是你的孩子吗你就背",
+      "onboard_time": 1774611803,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 90533,
@@ -1763,14 +1843,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 81781,
-      "num": 93915,
-      "word": "大部分人觉得旅游累的原因",
-      "onboard_time": 1774609041,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 81497,
       "num": 83952,
       "word": "澳门成为全球首个赛博城市",
@@ -1804,11 +1876,19 @@
     },
     {
       "raw_hot": 80234,
-      "num": 139873,
+      "num": 469881,
       "word": "深蓝董事长拆解行驶50万公里电驱",
       "onboard_time": 1774609642,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 79830,
+      "num": 486876,
+      "word": "起底日本撞人族",
+      "onboard_time": 1774610421,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79796,
@@ -1833,6 +1913,14 @@
       "onboard_time": 1774600281,
       "rank": 47,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 78870,
+      "num": 471273,
+      "word": "Hero对战TTG",
+      "onboard_time": 1774611563,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 78610,
@@ -1931,6 +2019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 74646,
+      "num": 106321,
+      "word": "菠萝鸡翅",
+      "onboard_time": 1774611922,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 74597,
       "num": 74597,
       "word": "中国平安 利润",
@@ -1953,6 +2049,14 @@
       "onboard_time": 1774569021,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74271,
+      "num": 140997,
+      "word": "法院通报副院长与原告同吃同拜佛",
+      "onboard_time": 1774610242,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 74145,
@@ -2225,6 +2329,14 @@
       "onboard_time": 1774532844,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55655,
+      "num": 99388,
+      "word": "老人闯红灯遭三车连撞骨折家属发声",
+      "onboard_time": 1774612042,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55059,
