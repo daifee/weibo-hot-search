@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774652492978,
+  "endTime": 1774654904503,
   "band_list": [
     {
       "raw_hot": 2167253,
@@ -9,6 +9,22 @@
       "onboard_time": 1774624163,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 877340,
+      "num": 988308,
+      "word": "李昌钰去世",
+      "onboard_time": 1774654460,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 726681,
+      "num": 67540,
+      "word": "华裔刑事鉴识专家李昌钰去世",
+      "onboard_time": 1774654218,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 609576,
@@ -51,6 +67,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268996,
+      "num": 160775,
+      "word": "锤娜丽莎瘦30斤公开减肥原因",
+      "onboard_time": 1774617023,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257306,
       "num": 160727,
       "word": "西班牙25岁女孩被性侵多次后申请安乐死",
@@ -67,20 +91,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240950,
-      "num": 160775,
-      "word": "锤娜丽莎瘦30斤公开减肥原因",
-      "onboard_time": 1774617023,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 229323,
-      "num": 599401,
+      "raw_hot": 241442,
+      "num": 738790,
       "word": "孩子生病后买彩票中500万妈妈发声",
       "onboard_time": 1774626441,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230969,
+      "num": 230969,
+      "word": "菲舰不顾中方反复喊话提醒",
+      "onboard_time": 1774654460,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 225757,
@@ -123,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194963,
+      "num": 104775,
+      "word": "男子借钱凑彩礼结婚后1个月被家暴",
+      "onboard_time": 1774630458,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193931,
       "num": 193931,
       "word": "伊朗无人机群袭以色列最大运输中心",
@@ -137,6 +169,14 @@
       "onboard_time": 1774631776,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188988,
+      "num": 432228,
+      "word": "3D还原女子因停车纠纷摔倒身亡",
+      "onboard_time": 1774624463,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179016,
@@ -171,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160382,
-      "num": 64684,
-      "word": "男子借钱凑彩礼结婚后1个月被家暴",
-      "onboard_time": 1774630458,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156303,
       "num": 141846,
       "word": "白日提灯云包场",
@@ -187,19 +219,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153763,
+      "num": 153763,
+      "word": "樊振东3比0孟庆宇",
+      "onboard_time": 1774654879,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145491,
       "num": 160791,
       "word": "今年蚊子可能迎来史诗级加强",
       "onboard_time": 1774612582,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140587,
-      "num": 432228,
-      "word": "3D还原女子因停车纠纷摔倒身亡",
-      "onboard_time": 1774624463,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -243,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115627,
+      "num": 98935,
+      "word": "中巴同意共同推动停火止战恢复和谈",
+      "onboard_time": 1774654159,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109359,
       "num": 168545,
       "word": "世界第一高楼被闪电击中",
@@ -283,6 +323,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94352,
+      "num": 94352,
+      "word": "岳云鹏室内抽烟",
+      "onboard_time": 1774614861,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 94068,
+      "num": 67452,
+      "word": "乘风2026初舞台就有淘汰",
+      "onboard_time": 1774654760,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89236,
       "num": 89236,
       "word": "李卿空降",
@@ -305,6 +361,14 @@
       "onboard_time": 1774612462,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86855,
+      "num": 86855,
+      "word": "伊朗禁往返敌方盟友港船只通过海峡",
+      "onboard_time": 1774630398,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85560,
@@ -339,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75199,
-      "num": 75199,
-      "word": "伊朗禁往返敌方盟友港船只通过海峡",
-      "onboard_time": 1774630398,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74930,
       "num": 88906,
       "word": "奉劝大家还是尽量多存钱",
@@ -372,7 +428,7 @@
     },
     {
       "raw_hot": 70437,
-      "num": 50868,
+      "num": 67111,
       "word": "黄金持续快速拉升",
       "onboard_time": 1774631599,
       "rank": 30,
@@ -435,6 +491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 52529,
+      "num": 67423,
+      "word": "金银油集体飙升",
+      "onboard_time": 1774654760,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 51970,
       "num": 64592,
       "word": "JackeyLove发博回应重回赛场",
@@ -443,12 +507,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 47881,
-      "num": 49672,
-      "word": "岳云鹏室内抽烟",
-      "onboard_time": 1774614861,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 48575,
+      "num": 67340,
+      "word": "无证医生给骨折老人急救多方发声",
+      "onboard_time": 1774624042,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46594,
+      "num": 67267,
+      "word": "打学生致面部骨折体育老师已被开除",
+      "onboard_time": 1774652477,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44837,
@@ -476,11 +548,19 @@
     },
     {
       "raw_hot": 40361,
-      "num": 49895,
+      "num": 66656,
       "word": "迪丽热巴白日提灯包场6666份",
       "onboard_time": 1774631898,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38447,
+      "num": 66820,
+      "word": "全世界倒数第一好看的草莓",
+      "onboard_time": 1774652418,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 37165,
@@ -499,12 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33929,
-      "num": 64616,
-      "word": "无证医生给骨折老人急救多方发声",
-      "onboard_time": 1774624042,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 29076,
+      "num": 66294,
+      "word": "伊发动第83波攻势",
+      "onboard_time": 1774643234,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29001,
@@ -513,14 +593,6 @@
       "onboard_time": 1774628420,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23176,
-      "num": 42173,
-      "word": "伊发动第83波攻势",
-      "onboard_time": 1774643234,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19758,
@@ -593,22 +665,6 @@
       "onboard_time": 1774624882,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9888,
-      "num": 42038,
-      "word": "全世界倒数第一好看的草莓",
-      "onboard_time": 1774652418,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 9313,
-      "num": 41974,
-      "word": "打学生致面部骨折体育老师已被开除",
-      "onboard_time": 1774652477,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9162,
