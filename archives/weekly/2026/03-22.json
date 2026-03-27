@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774627316951,
+  "endTime": 1774628056023,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -4403,6 +4403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246870,
+      "num": 994631,
+      "word": "医院回应丈夫因男医生为妻产检撞墙",
+      "onboard_time": 1774623204,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246806,
       "num": 305321,
       "word": "以前看小说vs现在看小说",
@@ -4593,14 +4601,6 @@
       "onboard_time": 1774423944,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 236931,
-      "num": 994631,
-      "word": "医院回应丈夫因男医生为妻产检撞墙",
-      "onboard_time": 1774623204,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236413,
@@ -4899,6 +4899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225757,
+      "num": 930721,
+      "word": "雷军壁纸 逆天改命",
+      "onboard_time": 1774624945,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 225485,
       "num": 225485,
       "word": "程潇 布偶猫",
@@ -4987,8 +4995,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222123,
+      "num": 222123,
+      "word": "张翅看张杰演唱会",
+      "onboard_time": 1774623262,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 221206,
-      "num": 366654,
+      "num": 652940,
       "word": "警方过筛23.7斤血沙破25年前命案",
       "onboard_time": 1774621043,
       "rank": 8,
@@ -5057,14 +5073,6 @@
       "onboard_time": 1774150161,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215725,
-      "num": 215725,
-      "word": "雷军壁纸 逆天改命",
-      "onboard_time": 1774624945,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 215212,
@@ -5289,14 +5297,6 @@
       "onboard_time": 1774450705,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204645,
-      "num": 204645,
-      "word": "张翅看张杰演唱会",
-      "onboard_time": 1774623262,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 204174,
@@ -5560,6 +5560,14 @@
       "word": "伊朗喊美国做个了断",
       "onboard_time": 1774357111,
       "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 193931,
+      "num": 193931,
+      "word": "伊朗无人机群袭以色列最大运输中心",
+      "onboard_time": 1774625362,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -6491,6 +6499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164423,
+      "num": 164423,
+      "word": "怡宝不好卖了",
+      "onboard_time": 1774625841,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162726,
       "num": 260225,
       "word": "曾因打儿子日常走红网红老人去世",
@@ -7259,14 +7275,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 138800,
-      "num": 138800,
-      "word": "伊朗无人机群袭以色列最大运输中心",
-      "onboard_time": 1774625362,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 138598,
       "num": 138598,
       "word": "黄金几乎抹去今年全部涨幅",
@@ -7769,14 +7777,6 @@
       "onboard_time": 1774618642,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128420,
-      "num": 128420,
-      "word": "怡宝不好卖了",
-      "onboard_time": 1774625841,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 128351,
@@ -9067,6 +9067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111308,
+      "num": 160766,
+      "word": "孩子生病后买彩票中500万妈妈发声",
+      "onboard_time": 1774626441,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111278,
       "num": 248441,
       "word": "机车网红黄油腻被曝发生事故去世",
@@ -9177,14 +9185,6 @@
       "onboard_time": 1774504101,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110252,
-      "num": 110252,
-      "word": "孩子生病后买彩票中500万妈妈发声",
-      "onboard_time": 1774626441,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110176,
@@ -11595,6 +11595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89236,
+      "num": 89236,
+      "word": "李卿空降",
+      "onboard_time": 1774626982,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88941,
       "num": 88941,
       "word": "品牌金饰集体降价",
@@ -12257,6 +12265,14 @@
       "onboard_time": 1774231640,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83828,
+      "num": 83828,
+      "word": "危险关系 吴慷仁",
+      "onboard_time": 1774627461,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 83728,
@@ -13291,14 +13307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77004,
-      "num": 77004,
-      "word": "李卿空降",
-      "onboard_time": 1774626982,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76934,
       "num": 76934,
       "word": "倪妮20秒无台词眼神戏",
@@ -14016,6 +14024,14 @@
       "word": "境外间谍能使用激光设备隔空窃听",
       "onboard_time": 1774323140,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72289,
+      "num": 104482,
+      "word": "花花搂着和叶睡觉能治愈全世界",
+      "onboard_time": 1774627041,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -14987,14 +15003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64715,
-      "num": 74898,
-      "word": "花花搂着和叶睡觉能治愈全世界",
-      "onboard_time": 1774627041,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64677,
       "num": 64677,
       "word": "家属谈派出所遭猥亵女儿现状",
@@ -15348,7 +15356,7 @@
     },
     {
       "raw_hot": 61490,
-      "num": 71946,
+      "num": 74363,
       "word": "央视网评罗技侮辱性广告",
       "onboard_time": 1774625184,
       "rank": 47,
@@ -15556,7 +15564,7 @@
     },
     {
       "raw_hot": 59349,
-      "num": 69164,
+      "num": 74231,
       "word": "教育部明确严禁布置重复性惩罚性作业",
       "onboard_time": 1774627281,
       "rank": 49,
@@ -16065,6 +16073,14 @@
       "onboard_time": 1774221559,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51970,
+      "num": 55648,
+      "word": "JackeyLove发博回应重回赛场",
+      "onboard_time": 1774626680,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 51885,
@@ -18043,20 +18059,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 11896,
+      "num": 744415,
+      "word": "为奋进中国打call",
+      "onboard_time": 1774624882,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11664,
       "num": 108067,
       "word": "霍建华当导演",
       "onboard_time": 1774425923,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 11316,
-      "num": 744415,
-      "word": "为奋进中国打call",
-      "onboard_time": 1774624882,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10869,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1774628056023,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 225757,
+        "num": 930721,
+        "word": "雷军壁纸 逆天改命",
+        "onboard_time": 1774624945,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160338,
+        "num": 652940,
+        "word": "警方过筛23.7斤血沙破25年前命案",
+        "onboard_time": 1774621043,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11896,
+        "num": 528595,
+        "word": "为奋进中国打call",
+        "onboard_time": 1774624882,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222123,
+        "num": 222123,
+        "word": "张翅看张杰演唱会",
+        "onboard_time": 1774623262,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193931,
+        "num": 193931,
+        "word": "伊朗无人机群袭以色列最大运输中心",
+        "onboard_time": 1774625362,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1992780,
+        "num": 192845,
+        "word": "竹林四侠彻底be了",
+        "onboard_time": 1774624163,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186807,
+        "num": 186807,
+        "word": "美以空袭伊朗钢铁厂及配套发电厂",
+        "onboard_time": 1774622903,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90011,
+        "num": 168545,
+        "word": "世界第一高楼被闪电击中",
+        "onboard_time": 1774624104,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164423,
+        "num": 164423,
+        "word": "怡宝不好卖了",
+        "onboard_time": 1774625841,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160894,
+        "num": 160894,
+        "word": "大部分人觉得旅游累的原因",
+        "onboard_time": 1774609041,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 563832,
+        "num": 160885,
+        "word": "霍尔木兹决战摊牌了",
+        "onboard_time": 1774622663,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 513584,
+        "num": 160866,
+        "word": "王一博微博改名",
+        "onboard_time": 1774602801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444501,
+        "num": 160850,
+        "word": "阚清子问我这么胖吗",
+        "onboard_time": 1774618584,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246870,
+        "num": 160841,
+        "word": "医院回应丈夫因男医生为妻产检撞墙",
+        "onboard_time": 1774623204,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305435,
+        "num": 160819,
+        "word": "曝关晓彤喜提新车",
+        "onboard_time": 1774617204,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252922,
+        "num": 160805,
+        "word": "钧正平评粉底液将军",
+        "onboard_time": 1774620984,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137016,
+        "num": 160791,
+        "word": "今年蚊子可能迎来史诗级加强",
+        "onboard_time": 1774612582,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237862,
+        "num": 160775,
+        "word": "锤娜丽莎瘦30斤公开减肥原因",
+        "onboard_time": 1774617023,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111308,
+        "num": 160766,
+        "word": "孩子生病后买彩票中500万妈妈发声",
+        "onboard_time": 1774626441,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185823,
+        "num": 160746,
+        "word": "张凌赫回复严屹宽",
+        "onboard_time": 1774620923,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253153,
+        "num": 160727,
+        "word": "西班牙25岁女孩被性侵多次后申请安乐死",
+        "onboard_time": 1774610963,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160722,
+        "num": 160722,
+        "word": "乘风2026一下来了33位姐姐",
+        "onboard_time": 1774620443,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159408,
+        "num": 159408,
+        "word": "严浩翔方回应KTV传闻",
+        "onboard_time": 1774613842,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100797,
+        "num": 145200,
+        "word": "保留奔跑吧艺人剩菜店家道歉",
+        "onboard_time": 1774602682,
+        "rank": 23,
+        "category": "民生新闻,综艺"
+      },
+      {
+        "raw_hot": 141846,
+        "num": 141846,
+        "word": "白日提灯云包场",
+        "onboard_time": 1774614682,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116503,
+        "num": 116503,
+        "word": "黄子韬因为减肥后脑勺秃了",
+        "onboard_time": 1774614861,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72289,
+        "num": 104482,
+        "word": "花花搂着和叶睡觉能治愈全世界",
+        "onboard_time": 1774627041,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94795,
+        "num": 94795,
+        "word": "王一博乐华续约",
+        "onboard_time": 1774603042,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93907,
+        "num": 93907,
+        "word": "王橹杰换头像",
+        "onboard_time": 1774608564,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70788,
+        "num": 91644,
+        "word": "女子不听提醒试戴玉镯摔出裂纹",
+        "onboard_time": 1774618344,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90891,
+        "num": 90891,
+        "word": "徐良演唱会上纪念本兮",
+        "onboard_time": 1774621104,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89236,
+        "num": 89236,
+        "word": "李卿空降",
+        "onboard_time": 1774626982,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70441,
+        "num": 88906,
+        "word": "奉劝大家还是尽量多存钱",
+        "onboard_time": 1774606942,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88799,
+        "num": 88799,
+        "word": "乘风2026踢馆姐姐",
+        "onboard_time": 1774622965,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86866,
+        "num": 86866,
+        "word": "逐玉 庆功宴",
+        "onboard_time": 1774612462,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69495,
+        "num": 84180,
+        "word": "3D还原女子因停车纠纷摔倒身亡",
+        "onboard_time": 1774624463,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83828,
+        "num": 83828,
+        "word": "危险关系 吴慷仁",
+        "onboard_time": 1774627461,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74601,
+        "num": 74601,
+        "word": "田曦薇涨粉",
+        "onboard_time": 1774624042,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60305,
+        "num": 74363,
+        "word": "央视网评罗技侮辱性广告",
+        "onboard_time": 1774625184,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59235,
+        "num": 74231,
+        "word": "教育部明确严禁布置重复性惩罚性作业",
+        "onboard_time": 1774627281,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74140,
+        "num": 74140,
+        "word": "左奇函 脸色",
+        "onboard_time": 1774617323,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69051,
+        "num": 69051,
+        "word": "丁程鑫张真源合照",
+        "onboard_time": 1774618642,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57112,
+        "num": 68984,
+        "word": "文班亚马登顶MVP榜首",
+        "onboard_time": 1774624463,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68928,
+        "num": 68928,
+        "word": "UNIQ组合已解散",
+        "onboard_time": 1774608863,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66413,
+        "num": 66413,
+        "word": "杨幂直播",
+        "onboard_time": 1774616063,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55674,
+        "num": 55674,
+        "word": "老头乐向小米汽车致歉",
+        "onboard_time": 1774619365,
+        "rank": 45,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 55648,
+        "num": 55648,
+        "word": "黄灿灿浪姐连麦杨紫",
+        "onboard_time": 1774610361,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51970,
+        "num": 55648,
+        "word": "JackeyLove发博回应重回赛场",
+        "onboard_time": 1774626680,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51243,
+        "num": 55599,
+        "word": "知情人士谈娃哈哈多家工厂停产",
+        "onboard_time": 1774622903,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44837,
+        "num": 55565,
+        "word": "Apple50周年",
+        "onboard_time": 1774620804,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局3月27日召开会议#"
+    }
+  }
+}

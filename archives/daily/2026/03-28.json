@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774627316951,
+  "endTime": 1774628056023,
   "band_list": [
     {
       "raw_hot": 2167253,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 609576,
-      "num": 137354,
+      "num": 160866,
       "word": "王一博微博改名",
       "onboard_time": 1774602801,
       "rank": 10,
@@ -20,14 +20,14 @@
     },
     {
       "raw_hot": 581633,
-      "num": 136888,
+      "num": 160885,
       "word": "霍尔木兹决战摊牌了",
       "onboard_time": 1774622663,
       "rank": 11,
       "category": "国际时政"
     },
     {
-      "raw_hot": 376832,
+      "raw_hot": 444501,
       "num": 177851,
       "word": "阚清子问我这么胖吗",
       "onboard_time": 1774618584,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 342306,
-      "num": 134480,
+      "num": 160819,
       "word": "曝关晓彤喜提新车",
       "onboard_time": 1774617204,
       "rank": 12,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 274079,
-      "num": 132875,
+      "num": 160805,
       "word": "钧正平评粉底液将军",
       "onboard_time": 1774620984,
       "rank": 13,
@@ -52,22 +52,14 @@
     },
     {
       "raw_hot": 257306,
-      "num": 114815,
+      "num": 160727,
       "word": "西班牙25岁女孩被性侵多次后申请安乐死",
       "onboard_time": 1774610963,
       "rank": 21,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 240950,
-      "num": 129965,
-      "word": "锤娜丽莎瘦30斤公开减肥原因",
-      "onboard_time": 1774617023,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 236931,
+      "raw_hot": 246870,
       "num": 994631,
       "word": "医院回应丈夫因男医生为妻产检撞墙",
       "onboard_time": 1774623204,
@@ -75,28 +67,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240950,
+      "num": 160775,
+      "word": "锤娜丽莎瘦30斤公开减肥原因",
+      "onboard_time": 1774617023,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225757,
+      "num": 930721,
+      "word": "雷军壁纸 逆天改命",
+      "onboard_time": 1774624945,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 222786,
-      "num": 128892,
+      "num": 160746,
       "word": "张凌赫回复严屹宽",
       "onboard_time": 1774620923,
       "rank": 16,
       "category": "艺人"
     },
     {
+      "raw_hot": 222123,
+      "num": 222123,
+      "word": "张翅看张杰演唱会",
+      "onboard_time": 1774623262,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 221206,
-      "num": 221206,
+      "num": 652940,
       "word": "警方过筛23.7斤血沙破25年前命案",
       "onboard_time": 1774621043,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215725,
-      "num": 215725,
-      "word": "雷军壁纸 逆天改命",
-      "onboard_time": 1774624945,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 203045,
@@ -107,16 +115,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 181079,
-      "num": 181079,
-      "word": "张翅看张杰演唱会",
-      "onboard_time": 1774623262,
-      "rank": 6,
-      "category": "演出"
+      "raw_hot": 193931,
+      "num": 193931,
+      "word": "伊朗无人机群袭以色列最大运输中心",
+      "onboard_time": 1774625362,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179016,
-      "num": 116916,
+      "num": 160722,
       "word": "乘风2026一下来了33位姐姐",
       "onboard_time": 1774620443,
       "rank": 20,
@@ -131,8 +139,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164423,
+      "num": 164423,
+      "word": "怡宝不好卖了",
+      "onboard_time": 1774625841,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162290,
-      "num": 113529,
+      "num": 159408,
       "word": "严浩翔方回应KTV传闻",
       "onboard_time": 1774613842,
       "rank": 22,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 156303,
-      "num": 111737,
+      "num": 141846,
       "word": "白日提灯云包场",
       "onboard_time": 1774614682,
       "rank": 23,
@@ -148,27 +164,11 @@
     },
     {
       "raw_hot": 145491,
-      "num": 132795,
+      "num": 160791,
       "word": "今年蚊子可能迎来史诗级加强",
       "onboard_time": 1774612582,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138800,
-      "num": 138800,
-      "word": "伊朗无人机群袭以色列最大运输中心",
-      "onboard_time": 1774625362,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 128420,
-      "num": 128420,
-      "word": "怡宝不好卖了",
-      "onboard_time": 1774625841,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 125908,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 119580,
-      "num": 108455,
+      "num": 116503,
       "word": "黄子韬因为减肥后脑勺秃了",
       "onboard_time": 1774614861,
       "rank": 26,
@@ -195,8 +195,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110252,
-      "num": 110252,
+      "raw_hot": 111308,
+      "num": 160766,
       "word": "孩子生病后买彩票中500万妈妈发声",
       "onboard_time": 1774626441,
       "rank": 24,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 104993,
-      "num": 104993,
+      "num": 145200,
       "word": "保留奔跑吧艺人剩菜店家道歉",
       "onboard_time": 1774602682,
       "rank": 27,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 102558,
-      "num": 102558,
+      "num": 168545,
       "word": "世界第一高楼被闪电击中",
       "onboard_time": 1774624104,
       "rank": 29,
@@ -243,27 +243,43 @@
       "category": "演出"
     },
     {
-      "raw_hot": 88610,
-      "num": 84446,
+      "raw_hot": 89236,
+      "num": 89236,
+      "word": "李卿空降",
+      "onboard_time": 1774626982,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88799,
+      "num": 88799,
       "word": "乘风2026踢馆姐姐",
       "onboard_time": 1774622965,
       "rank": 33,
       "category": "综艺"
     },
     {
+      "raw_hot": 86866,
+      "num": 86866,
+      "word": "逐玉 庆功宴",
+      "onboard_time": 1774612462,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85560,
-      "num": 85560,
+      "num": 91644,
       "word": "女子不听提醒试戴玉镯摔出裂纹",
       "onboard_time": 1774618344,
       "rank": 32,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83227,
-      "num": 83227,
-      "word": "逐玉 庆功宴",
-      "onboard_time": 1774612462,
-      "rank": 34,
+      "raw_hot": 83828,
+      "num": 83828,
+      "word": "危险关系 吴慷仁",
+      "onboard_time": 1774627461,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -283,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77004,
-      "num": 77004,
-      "word": "李卿空降",
-      "onboard_time": 1774626982,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76537,
       "num": 76537,
       "word": "丁程鑫张真源合照",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 74930,
-      "num": 82317,
+      "num": 88906,
       "word": "奉劝大家还是尽量多存钱",
       "onboard_time": 1774606942,
       "rank": 35,
@@ -315,8 +323,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72289,
+      "num": 104482,
+      "word": "花花搂着和叶睡觉能治愈全世界",
+      "onboard_time": 1774627041,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69564,
-      "num": 80243,
+      "num": 84180,
       "word": "3D还原女子因停车纠纷摔倒身亡",
       "onboard_time": 1774624463,
       "rank": 37,
@@ -329,6 +345,14 @@
       "onboard_time": 1774624463,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66413,
+      "num": 66413,
+      "word": "杨幂直播",
+      "onboard_time": 1774616063,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 65473,
@@ -347,16 +371,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64715,
-      "num": 74898,
-      "word": "花花搂着和叶睡觉能治愈全世界",
-      "onboard_time": 1774627041,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61490,
-      "num": 71946,
+      "num": 74363,
       "word": "央视网评罗技侮辱性广告",
       "onboard_time": 1774625184,
       "rank": 47,
@@ -372,11 +388,27 @@
     },
     {
       "raw_hot": 59349,
-      "num": 69164,
+      "num": 74231,
       "word": "教育部明确严禁布置重复性惩罚性作业",
       "onboard_time": 1774627281,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 51970,
+      "num": 55648,
+      "word": "JackeyLove发博回应重回赛场",
+      "onboard_time": 1774626680,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 44837,
+      "num": 55565,
+      "word": "Apple50周年",
+      "onboard_time": 1774620804,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 37165,
@@ -395,7 +427,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11316,
+      "raw_hot": 11896,
       "num": 744415,
       "word": "为奋进中国打call",
       "onboard_time": 1774624882,
