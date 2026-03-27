@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774641553709,
+  "endTime": 1774644549973,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -72011,6 +72011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23054,
+      "num": 23054,
+      "word": "伊发动第83波攻势",
+      "onboard_time": 1774643234,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23021,
       "num": 267832,
       "word": "中方回应人权理事会呼吁日本正式道歉",
@@ -74131,6 +74139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14089,
+      "num": 20909,
+      "word": "阅文IP盛典",
+      "onboard_time": 1774639634,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14068,
       "num": 2281465,
       "word": "一组对比图看雄安巨变",
@@ -74145,14 +74161,6 @@
       "onboard_time": 1774119975,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14010,
-      "num": 20909,
-      "word": "阅文IP盛典",
-      "onboard_time": 1774639634,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 13985,
@@ -74209,6 +74217,14 @@
       "onboard_time": 1774508962,
       "rank": 8,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13887,
+      "num": 17159,
+      "word": "徐明浩朱珠同框看展",
+      "onboard_time": 1774642274,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 13853,
@@ -74464,6 +74480,14 @@
       "word": "邓凯一个眼神就演出两种情绪",
       "onboard_time": 1773464300,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 11925,
+      "num": 17143,
+      "word": "她的盛焰大结局",
+      "onboard_time": 1774644373,
+      "rank": 46,
       "category": "剧集"
     },
     {
