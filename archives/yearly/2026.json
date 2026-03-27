@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774624585012,
+  "endTime": 1774627316951,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1595,6 +1595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2167253,
+      "num": 2167253,
+      "word": "竹林四侠彻底be了",
+      "onboard_time": 1774624163,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2152986,
       "num": 496611,
       "word": "取消中高考是早晚的事",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1771553539,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1718479,
-      "num": 199270,
-      "word": "哈梅内伊",
-      "onboard_time": 1772320758,
-      "rank": 10,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
