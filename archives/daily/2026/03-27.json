@@ -1,10 +1,10 @@
 {
   "startTime": 1774545171769,
-  "endTime": 1774580103886,
+  "endTime": 1774582809033,
   "band_list": [
     {
       "raw_hot": 805087,
-      "num": 185603,
+      "num": 191173,
       "word": "没认出来这是王子异",
       "onboard_time": 1774566799,
       "rank": 10,
@@ -27,12 +27,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 569294,
-      "num": 779693,
+      "raw_hot": 584940,
+      "num": 1093590,
       "word": "地坛公园不再允许用明星姓名认领树",
       "onboard_time": 1774576460,
       "rank": 1,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 525722,
+      "num": 813407,
+      "word": "寿司郎 SIM卡",
+      "onboard_time": 1774577721,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 449237,
@@ -43,8 +51,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 447515,
+      "num": 195552,
+      "word": "女子怀疑丈夫出轨扒货车车尾跟踪",
+      "onboard_time": 1774580180,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435761,
-      "num": 188365,
+      "num": 194508,
       "word": "罗技就侮辱性广告致歉",
       "onboard_time": 1774569622,
       "rank": 10,
@@ -67,12 +83,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 388011,
-      "num": 388011,
-      "word": "寿司郎 SIM卡",
-      "onboard_time": 1774577721,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 382047,
+      "num": 177728,
+      "word": "林俊杰合照没有七七",
+      "onboard_time": 1774580301,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 377359,
@@ -81,6 +97,14 @@
       "onboard_time": 1774573461,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365463,
+      "num": 192764,
+      "word": "蒙牛 孙颖莎",
+      "onboard_time": 1774581381,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 310648,
@@ -105,6 +129,14 @@
       "onboard_time": 1774567220,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303434,
+      "num": 177291,
+      "word": "粉底液将军为何会激起群嘲",
+      "onboard_time": 1774581140,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 301062,
@@ -139,6 +171,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 254768,
+      "num": 192118,
+      "word": "金价",
+      "onboard_time": 1774581441,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 247733,
       "num": 181114,
       "word": "逐玉谢征吸长玉锁骨",
@@ -148,7 +188,7 @@
     },
     {
       "raw_hot": 236413,
-      "num": 183385,
+      "num": 188867,
       "word": "国产伟哥2025年少卖近800万片",
       "onboard_time": 1774572501,
       "rank": 12,
@@ -187,6 +227,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208684,
+      "num": 208684,
+      "word": "大圣崛起定档",
+      "onboard_time": 1774582101,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 203223,
+      "num": 203223,
+      "word": "李昀锐孟子义她在闹他在笑",
+      "onboard_time": 1774579160,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190690,
       "num": 190690,
       "word": "全国猪价已跌破5元",
@@ -201,6 +257,14 @@
       "onboard_time": 1774567220,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189530,
+      "num": 174507,
+      "word": "27岁200斤女子每天奶茶外卖患心梗",
+      "onboard_time": 1774580902,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189434,
@@ -259,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171821,
+      "num": 171821,
+      "word": "王源官宣巡演",
+      "onboard_time": 1774582461,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168368,
       "num": 168368,
       "word": "燕子也是一代不如一代了",
@@ -281,6 +353,22 @@
       "onboard_time": 1774576341,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161391,
+      "num": 161391,
+      "word": "章子怡李安再合作",
+      "onboard_time": 1774580661,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 156469,
+      "num": 156469,
+      "word": "大侦探",
+      "onboard_time": 1774577901,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 144019,
@@ -323,6 +411,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125294,
+      "num": 113865,
+      "word": "06出生的人都已经上恋综了",
+      "onboard_time": 1774580062,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125147,
+      "num": 156743,
+      "word": "老人突发心梗30分钟教科书式自救",
+      "onboard_time": 1774579642,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124816,
       "num": 124816,
       "word": "张凌赫回应最近好瘦",
@@ -347,14 +451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 120253,
-      "num": 120253,
-      "word": "大侦探",
-      "onboard_time": 1774577901,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119043,
       "num": 55370,
       "word": "韩国女子怒抢中国游客手机",
@@ -371,20 +467,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118398,
-      "num": 136314,
-      "word": "李昀锐孟子义她在闹他在笑",
-      "onboard_time": 1774579160,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114991,
       "num": 114991,
       "word": "孟子义李昀锐装不熟",
       "onboard_time": 1774535725,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113579,
+      "num": 113579,
+      "word": "以军大规模空袭德黑兰",
+      "onboard_time": 1774580121,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 111433,
+      "num": 111433,
+      "word": "无限超越班4阵容",
+      "onboard_time": 1774581260,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 104961,
@@ -419,12 +523,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96321,
-      "num": 88074,
-      "word": "老人突发心梗30分钟教科书式自救",
-      "onboard_time": 1774579642,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 101409,
+      "num": 101409,
+      "word": "小小年纪就懂怎么把生意做黄了",
+      "onboard_time": 1774579940,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101238,
+      "num": 101238,
+      "word": "金正恩现场试用卢卡申科所赠步枪",
+      "onboard_time": 1774582282,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 100992,
+      "num": 100992,
+      "word": "严禁强制购买校服",
+      "onboard_time": 1774581981,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 95142,
@@ -475,12 +595,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 87722,
+      "num": 87722,
+      "word": "ROG发布新视频内涵罗技",
+      "onboard_time": 1774582402,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85379,
       "num": 85379,
       "word": "伊朗击落美军F18战机画面",
       "onboard_time": 1774568480,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84730,
+      "num": 84730,
+      "word": "实验室来了两个爆笑虫子",
+      "onboard_time": 1774582583,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 84604,
@@ -531,6 +667,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 78260,
+      "num": 78260,
+      "word": "穆祉丞婴儿人设立住了",
+      "onboard_time": 1774581923,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 77952,
+      "num": 77952,
+      "word": "严禁教师性骚扰学生",
+      "onboard_time": 1774582701,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77831,
       "num": 77831,
       "word": "美方被曝正酝酿对伊朗最后一击",
@@ -577,6 +729,14 @@
       "onboard_time": 1774529302,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 73053,
+      "num": 185434,
+      "word": "鹿晗片场状态比鲜啤还鲜活",
+      "onboard_time": 1774582402,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 72773,
@@ -643,16 +803,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63299,
-      "num": 63299,
-      "word": "小小年纪就懂怎么把生意做黄了",
-      "onboard_time": 1774579940,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 62183,
-      "num": 62183,
+      "num": 77978,
       "word": "小米MiMo成首个周token消耗超3万亿模型",
       "onboard_time": 1774579401,
       "rank": 40,
@@ -713,14 +865,6 @@
       "onboard_time": 1774575022,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57061,
-      "num": 57061,
-      "word": "06出生的人都已经上恋综了",
-      "onboard_time": 1774580062,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 56383,
@@ -843,6 +987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 35872,
+      "num": 196448,
+      "word": "郴州13名公职人员被处理",
+      "onboard_time": 1774582101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34381,
       "num": 54610,
       "word": "奥运女子比赛仅限生理女性",
@@ -899,6 +1051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 29800,
+      "num": 114097,
+      "word": "与众08遥遥领先",
+      "onboard_time": 1774582701,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28960,
       "num": 54630,
       "word": "警犬明明看见人类摸我了",
@@ -939,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25472,
+      "num": 181157,
+      "word": "淄博烧烤退烧之后",
+      "onboard_time": 1774582101,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24718,
       "num": 40589,
       "word": "王一博练车酷存",
@@ -971,7 +1139,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21431,
+      "raw_hot": 21695,
       "num": 658660,
       "word": "2026中国网络媒体论坛",
       "onboard_time": 1774536983,
