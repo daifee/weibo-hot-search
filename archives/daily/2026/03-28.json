@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774648718399,
+  "endTime": 1774651324544,
   "band_list": [
     {
       "raw_hot": 2167253,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148186,
+      "num": 148186,
+      "word": "特朗普揭晓所谓伊朗大礼",
+      "onboard_time": 1774631776,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 145491,
       "num": 160791,
       "word": "今年蚊子可能迎来史诗级加强",
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115300,
+      "num": 64684,
+      "word": "男子借钱凑彩礼结婚后1个月被家暴",
+      "onboard_time": 1774630458,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109359,
       "num": 168545,
       "word": "世界第一高楼被闪电击中",
@@ -241,6 +257,14 @@
       "onboard_time": 1774602682,
       "rank": 27,
       "category": "民生新闻,综艺"
+    },
+    {
+      "raw_hot": 99776,
+      "num": 349513,
+      "word": "3D还原女子因停车纠纷摔倒身亡",
+      "onboard_time": 1774624463,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99515,
@@ -283,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85719,
-      "num": 74799,
-      "word": "特朗普揭晓所谓伊朗大礼",
-      "onboard_time": 1774631776,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 85560,
       "num": 91644,
       "word": "女子不听提醒试戴玉镯摔出裂纹",
@@ -305,14 +321,6 @@
       "onboard_time": 1774624042,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79679,
-      "num": 64684,
-      "word": "男子借钱凑彩礼结婚后1个月被家暴",
-      "onboard_time": 1774630458,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78728,
@@ -369,14 +377,6 @@
       "onboard_time": 1774631599,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 69656,
-      "num": 182028,
-      "word": "3D还原女子因停车纠纷摔倒身亡",
-      "onboard_time": 1774624463,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66688,
@@ -507,20 +507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23054,
-      "num": 23054,
-      "word": "伊发动第83波攻势",
-      "onboard_time": 1774643234,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 22375,
+      "raw_hot": 26644,
       "num": 33539,
       "word": "家事法庭",
       "onboard_time": 1774628420,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23176,
+      "num": 30804,
+      "word": "伊发动第83波攻势",
+      "onboard_time": 1774643234,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19758,
@@ -563,28 +563,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14089,
-      "num": 20909,
-      "word": "阅文IP盛典",
-      "onboard_time": 1774639634,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 15488,
+      "num": 30733,
+      "word": "她的盛焰大结局",
+      "onboard_time": 1774644373,
+      "rank": 46,
+      "category": "剧集"
     },
     {
-      "raw_hot": 13931,
-      "num": 20211,
+      "raw_hot": 15388,
+      "num": 30730,
       "word": "徐明浩朱珠同框看展",
       "onboard_time": 1774642274,
       "rank": 38,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 13860,
-      "num": 20193,
-      "word": "她的盛焰大结局",
-      "onboard_time": 1774644373,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 15343,
+      "num": 30719,
+      "word": "阅文IP盛典",
+      "onboard_time": 1774639634,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 11896,
