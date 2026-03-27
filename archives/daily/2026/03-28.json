@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774632442771,
+  "endTime": 1774635108255,
   "band_list": [
     {
       "raw_hot": 2167253,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 164423,
-      "num": 164423,
+      "num": 165286,
       "word": "怡宝不好卖了",
       "onboard_time": 1774625841,
       "rank": 17,
@@ -451,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43023,
+      "num": 49738,
+      "word": "特朗普揭晓所谓伊朗大礼",
+      "onboard_time": 1774631776,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40361,
       "num": 49895,
       "word": "迪丽热巴白日提灯包场6666份",
@@ -475,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34128,
-      "num": 49738,
-      "word": "特朗普揭晓所谓伊朗大礼",
-      "onboard_time": 1774631776,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33929,
       "num": 64616,
       "word": "无证医生给骨折老人急救多方发声",
@@ -497,6 +497,22 @@
       "onboard_time": 1774614861,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22375,
+      "num": 33539,
+      "word": "家事法庭",
+      "onboard_time": 1774628420,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19758,
+      "num": 33539,
+      "word": "明日方舟音律联觉",
+      "onboard_time": 1774633876,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 17628,
