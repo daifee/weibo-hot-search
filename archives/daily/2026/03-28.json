@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774631196295,
+  "endTime": 1774632442771,
   "band_list": [
     {
       "raw_hot": 2167253,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124414,
+      "num": 124414,
+      "word": "危险关系 吴慷仁",
+      "onboard_time": 1774627461,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119580,
       "num": 116503,
       "word": "黄子韬因为减肥后脑勺秃了",
@@ -217,14 +225,6 @@
       "onboard_time": 1774624104,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 108998,
-      "num": 108998,
-      "word": "危险关系 吴慷仁",
-      "onboard_time": 1774627461,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 108855,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79679,
+      "num": 64684,
+      "word": "男子借钱凑彩礼结婚后1个月被家暴",
+      "onboard_time": 1774630458,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78728,
       "num": 78728,
       "word": "左奇函 脸色",
@@ -331,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72777,
+      "num": 64645,
+      "word": "伊朗禁往返敌方盟友港船只通过海峡",
+      "onboard_time": 1774630398,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72289,
       "num": 104482,
       "word": "花花搂着和叶睡觉能治愈全世界",
@@ -339,19 +355,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70437,
+      "num": 50868,
+      "word": "黄金持续快速拉升",
+      "onboard_time": 1774631599,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 69656,
       "num": 91670,
       "word": "3D还原女子因停车纠纷摔倒身亡",
       "onboard_time": 1774624463,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67546,
-      "num": 64684,
-      "word": "男子借钱凑彩礼结婚后1个月被家暴",
-      "onboard_time": 1774630458,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -419,7 +435,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 43701,
+      "raw_hot": 44191,
       "num": 64654,
       "word": "伊朗外长在联合国称将自卫到底",
       "onboard_time": 1774629319,
@@ -435,12 +451,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41619,
-      "num": 64645,
-      "word": "伊朗禁往返敌方盟友港船只通过海峡",
-      "onboard_time": 1774630398,
+      "raw_hot": 40361,
+      "num": 49895,
+      "word": "迪丽热巴白日提灯包场6666份",
+      "onboard_time": 1774631898,
       "rank": 38,
-      "category": "国际时政"
+      "category": "剧集"
     },
     {
       "raw_hot": 37165,
@@ -451,12 +467,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34276,
+      "num": 49777,
+      "word": "乘风2026",
+      "onboard_time": 1774605441,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 34128,
+      "num": 49738,
+      "word": "特朗普揭晓所谓伊朗大礼",
+      "onboard_time": 1774631776,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33929,
       "num": 64616,
       "word": "无证医生给骨折老人急救多方发声",
       "onboard_time": 1774624042,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33069,
+      "num": 49672,
+      "word": "岳云鹏室内抽烟",
+      "onboard_time": 1774614861,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 17628,
