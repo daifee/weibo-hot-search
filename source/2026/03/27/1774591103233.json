@@ -1,0 +1,410 @@
+{
+  "runTime": 1774591103233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 241417,
+        "num": 1038626,
+        "word": "白日提灯首播5集",
+        "onboard_time": 1774588583,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182748,
+        "num": 739194,
+        "word": "寿司郎 SIM卡",
+        "onboard_time": 1774577721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11063,
+        "num": 603991,
+        "word": "2026中国网络媒体论坛",
+        "onboard_time": 1774536983,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190215,
+        "num": 433375,
+        "word": "6岁儿童拿走豆腐失主坚持要曝光",
+        "onboard_time": 1774586722,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 694637,
+        "num": 432520,
+        "word": "梅姨藏身地村民称她很有钱",
+        "onboard_time": 1774585942,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269906,
+        "num": 269906,
+        "word": "仅退款还得再给你200的程度",
+        "onboard_time": 1774583963,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144130,
+        "num": 267938,
+        "word": "奔跑吧14首录合照各有各的活",
+        "onboard_time": 1774582822,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122917,
+        "num": 265237,
+        "word": "美元纸币将印特朗普签名",
+        "onboard_time": 1774588642,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 272228,
+        "num": 261845,
+        "word": "罗技短视频组扣除全部绩效",
+        "onboard_time": 1774584382,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115698,
+        "num": 260225,
+        "word": "曾因打儿子日常走红网红老人去世",
+        "onboard_time": 1774583721,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 618597,
+        "num": 255715,
+        "word": "女教师被碾压拖行5.9公里致死",
+        "onboard_time": 1774586782,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559922,
+        "num": 252177,
+        "word": "男子得知男医生给孕妻做彩超后崩溃",
+        "onboard_time": 1774587082,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458405,
+        "num": 249891,
+        "word": "吴京 水肿",
+        "onboard_time": 1774584443,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326401,
+        "num": 247007,
+        "word": "粉底液将军为何会激起群嘲",
+        "onboard_time": 1774581140,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212960,
+        "num": 243998,
+        "word": "黄金大买家开始抛售",
+        "onboard_time": 1774584144,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240904,
+        "num": 240904,
+        "word": "还以为刘亦菲在展示美貌",
+        "onboard_time": 1774584861,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237512,
+        "num": 237512,
+        "word": "沈南 谢谢你为寒门学子打造梯子",
+        "onboard_time": 1774583181,
+        "rank": 16,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 152336,
+        "num": 173499,
+        "word": "一声老婆45岁离异女打赏男主播61万",
+        "onboard_time": 1774583542,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20088,
+        "num": 166085,
+        "word": "公墓80个公用祭扫铁盆被偷50多个",
+        "onboard_time": 1774590500,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41821,
+        "num": 163927,
+        "word": "国产伟哥遇中年危机",
+        "onboard_time": 1774590022,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162888,
+        "num": 162888,
+        "word": "郭晓婷王天辰杂志 离婚跟拍",
+        "onboard_time": 1774584623,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154764,
+        "num": 154764,
+        "word": "迪丽热巴答应粉丝63张ccd自拍",
+        "onboard_time": 1774589602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118828,
+        "num": 118828,
+        "word": "罗技就侮辱性广告致歉",
+        "onboard_time": 1774569622,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135723,
+        "num": 118165,
+        "word": "林俊杰合照没有七七",
+        "onboard_time": 1774580301,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117282,
+        "num": 117282,
+        "word": "为什么房间里那么多灰尘毛",
+        "onboard_time": 1774573461,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111878,
+        "num": 111878,
+        "word": "逐玉赵大叔扮演者谈与田曦薇3次合作",
+        "onboard_time": 1774587022,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101088,
+        "num": 101088,
+        "word": "大侦探",
+        "onboard_time": 1774577901,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98622,
+        "num": 98622,
+        "word": "国产伟哥2025年少卖近800万片",
+        "onboard_time": 1774572501,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88312,
+        "num": 88312,
+        "word": "张真源又在孟子义李昀锐中间",
+        "onboard_time": 1774583421,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80536,
+        "num": 86961,
+        "word": "住建局变住更局",
+        "onboard_time": 1774586482,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89452,
+        "num": 86767,
+        "word": "用狗窝擦地被狗看见了",
+        "onboard_time": 1774590081,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 653958,
+        "num": 86630,
+        "word": "日本养牛郎女性发声",
+        "onboard_time": 1774586843,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86440,
+        "num": 86440,
+        "word": "两艘中国集装箱船正靠近霍尔木兹海峡",
+        "onboard_time": 1774588402,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80665,
+        "num": 80665,
+        "word": "杭州有房东150万元买入50万元卖出",
+        "onboard_time": 1774585703,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80422,
+        "num": 80422,
+        "word": "金饰价格一夜大跌45元",
+        "onboard_time": 1774587921,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76538,
+        "num": 76538,
+        "word": "严浩翔新专概念视频",
+        "onboard_time": 1774587442,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75183,
+        "num": 75183,
+        "word": "啃了这么多年的玉米居然啃错了",
+        "onboard_time": 1774590440,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74438,
+        "num": 74438,
+        "word": "老肩巨滑咪",
+        "onboard_time": 1774589661,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74145,
+        "num": 74145,
+        "word": "庞博说男的一多登味就容易起来",
+        "onboard_time": 1774591041,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37789,
+        "num": 73771,
+        "word": "何穗产后5个月状态",
+        "onboard_time": 1774584022,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73557,
+        "num": 73557,
+        "word": "一旦染上了早睡才知道有多爽",
+        "onboard_time": 1774590380,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73029,
+        "num": 73029,
+        "word": "张凌赫给张杰送花篮",
+        "onboard_time": 1774590800,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72877,
+        "num": 72877,
+        "word": "马杜罗身穿囚服戴着脚镣纽约再出庭",
+        "onboard_time": 1774585103,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72186,
+        "num": 72186,
+        "word": "穆祉丞想兄弟了",
+        "onboard_time": 1774590081,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69628,
+        "num": 69628,
+        "word": "国足vs库拉索首发",
+        "onboard_time": 1774589902,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68436,
+        "num": 68436,
+        "word": "严禁教师体罚学生",
+        "onboard_time": 1774584202,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67653,
+        "num": 67653,
+        "word": "梅姨藏身地对面就是学校",
+        "onboard_time": 1774591041,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67411,
+        "num": 67411,
+        "word": "梅姨打牌经常拿出几千上万现金显摆",
+        "onboard_time": 1774583241,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67112,
+        "num": 67112,
+        "word": "黑羽绒服换成黑冲锋衣",
+        "onboard_time": 1774590322,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 67050,
+        "num": 67050,
+        "word": "拿甘蔗爬山",
+        "onboard_time": 1774590740,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看雄安新机遇#"
+    }
+  }
+}
