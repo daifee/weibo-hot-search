@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774638357046,
+  "endTime": 1774639063812,
   "band_list": [
     {
       "raw_hot": 2167253,
@@ -427,6 +427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 56089,
+      "num": 56089,
+      "word": "你好1983",
+      "onboard_time": 1774636094,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51970,
       "num": 64592,
       "word": "JackeyLove发博回应重回赛场",
@@ -481,14 +489,6 @@
       "onboard_time": 1774605441,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34091,
-      "num": 34091,
-      "word": "你好1983",
-      "onboard_time": 1774636094,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 33929,
