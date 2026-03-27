@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774569477110,
+  "endTime": 1774580103886,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -812,7 +812,7 @@
     },
     {
       "raw_hot": 805087,
-      "num": 181711,
+      "num": 185603,
       "word": "没认出来这是王子异",
       "onboard_time": 1774566799,
       "rank": 10,
@@ -1131,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 634322,
+      "num": 1101491,
+      "word": "日本东京发生命案",
+      "onboard_time": 1774573341,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 633093,
       "num": 1097926,
       "word": "32岁产妇羊水栓塞成植物人",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1774431862,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 569294,
+      "num": 779693,
+      "word": "地坛公园不再允许用明星姓名认领树",
+      "onboard_time": 1774576460,
+      "rank": 1,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 568179,
@@ -2027,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 435761,
+      "num": 188365,
+      "word": "罗技就侮辱性广告致歉",
+      "onboard_time": 1774569622,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 435574,
       "num": 773422,
       "word": "于东来因对下属发脾气赔40多万",
@@ -2395,6 +2419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 388011,
+      "num": 388011,
+      "word": "寿司郎 SIM卡",
+      "onboard_time": 1774577721,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 387035,
       "num": 204705,
       "word": "郭敬明改笔名",
@@ -2457,6 +2489,14 @@
       "onboard_time": 1774330400,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377359,
+      "num": 270903,
+      "word": "为什么房间里那么多灰尘毛",
+      "onboard_time": 1774573461,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 377308,
@@ -3411,6 +3451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 273715,
+      "num": 273715,
+      "word": "教育部发布20条严禁清单",
+      "onboard_time": 1774576701,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 273123,
       "num": 309528,
       "word": "减内脏脂肪最有效的方法",
@@ -3929,6 +3977,14 @@
       "onboard_time": 1774423944,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 236413,
+      "num": 183385,
+      "word": "国产伟哥2025年少卖近800万片",
+      "onboard_time": 1774572501,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236112,
@@ -4803,6 +4859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190690,
+      "num": 190690,
+      "word": "全国猪价已跌破5元",
+      "onboard_time": 1774567458,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190434,
       "num": 190434,
       "word": "金价大跌金饰店不再人山人海",
@@ -4987,6 +5051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182618,
+      "num": 182618,
+      "word": "白鹿录完跑男状态",
+      "onboard_time": 1774572321,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182371,
       "num": 182371,
       "word": "银价跌爆了",
@@ -5040,6 +5112,14 @@
       "word": "陈哲远关注白鹿",
       "onboard_time": 1774504281,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180070,
+      "num": 56291,
+      "word": "汪苏泷 麦当劳",
+      "onboard_time": 1774579222,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -5137,6 +5217,14 @@
       "onboard_time": 1774434264,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176262,
+      "num": 176262,
+      "word": "人民的名义演员被诉休庭未宣判",
+      "onboard_time": 1774572204,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 176085,
@@ -5443,6 +5531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168368,
+      "num": 168368,
+      "word": "燕子也是一代不如一代了",
+      "onboard_time": 1774574420,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167689,
       "num": 167689,
       "word": "历届浪姐翻红名单",
@@ -5553,6 +5649,14 @@
       "onboard_time": 1774349968,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162110,
+      "num": 162110,
+      "word": "田柾国ins转发金采源",
+      "onboard_time": 1774576341,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 161924,
@@ -5673,14 +5777,6 @@
       "onboard_time": 1774516942,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155848,
-      "num": 116840,
-      "word": "全国猪价已跌破5元",
-      "onboard_time": 1774567458,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155642,
@@ -6339,6 +6435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135320,
+      "num": 135320,
+      "word": "父亲背着千金拖着犬子过斑马线",
+      "onboard_time": 1774576460,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135128,
       "num": 135128,
       "word": "宋雨琦线下活动疑似不舒服",
@@ -6907,6 +7011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124816,
+      "num": 124816,
+      "word": "张凌赫回应最近好瘦",
+      "onboard_time": 1774572801,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124234,
       "num": 130905,
       "word": "黄金价格反弹后下跌",
@@ -7115,6 +7227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120609,
+      "num": 189154,
+      "word": "伊总统称伊朗致力于全面结束战争",
+      "onboard_time": 1774572081,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120493,
       "num": 120493,
       "word": "旧手机回收一天一个价",
@@ -7137,6 +7257,14 @@
       "onboard_time": 1774140259,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120253,
+      "num": 120253,
+      "word": "大侦探",
+      "onboard_time": 1774240701,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 120180,
@@ -7219,12 +7347,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119033,
+      "num": 119033,
+      "word": "南方将有暴雨大暴雨",
+      "onboard_time": 1774572321,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118941,
       "num": 118941,
       "word": "留几手首先要留住底线",
       "onboard_time": 1774511544,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 118398,
+      "num": 136314,
+      "word": "李昀锐孟子义她在闹他在笑",
+      "onboard_time": 1774579160,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 118203,
@@ -7811,14 +7955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109860,
-      "num": 109860,
-      "word": "大侦探",
-      "onboard_time": 1774240701,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109694,
       "num": 126963,
       "word": "这5类人其实不适合跑步",
@@ -8249,6 +8385,14 @@
       "onboard_time": 1774187124,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104961,
+      "num": 104961,
+      "word": "车主违停被贴不干胶直呼方式太粗暴",
+      "onboard_time": 1774577000,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104875,
@@ -8955,6 +9099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96321,
+      "num": 88074,
+      "word": "老人突发心梗30分钟教科书式自救",
+      "onboard_time": 1774579642,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96299,
       "num": 96299,
       "word": "逐玉if线",
@@ -9419,6 +9571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92542,
+      "num": 92542,
+      "word": "郑合惠子回复秦岚",
+      "onboard_time": 1774578382,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92440,
       "num": 91252,
       "word": "邓凯被推出机场",
@@ -9643,6 +9803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90533,
+      "num": 90533,
+      "word": "全国推行社保第六险",
+      "onboard_time": 1774575321,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90520,
       "num": 90520,
       "word": "汽车之家多平台账号被禁止关注",
@@ -9833,6 +10001,14 @@
       "onboard_time": 1774429341,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 88502,
+      "num": 88502,
+      "word": "辛芷蕾不穿让自己难受的衣服",
+      "onboard_time": 1774575920,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 88490,
@@ -10387,6 +10563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83182,
+      "num": 83182,
+      "word": "何润东早期颜值",
+      "onboard_time": 1774576641,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83166,
       "num": 102520,
       "word": "产妇街头发作扒开服装店门求助",
@@ -10811,6 +10995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 79796,
+      "num": 79796,
+      "word": "追觅已报警",
+      "onboard_time": 1774579100,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 79725,
       "num": 79725,
       "word": "迪丽热巴像一幅被春天翻开的画",
@@ -11193,6 +11385,14 @@
       "onboard_time": 1774318698,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76778,
+      "num": 76778,
+      "word": "iPhoneFold起售价或超2000美元",
+      "onboard_time": 1774578382,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 76713,
@@ -11609,6 +11809,14 @@
       "onboard_time": 1774315940,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74105,
+      "num": 74105,
+      "word": "李昀锐孟子义撕名牌路透",
+      "onboard_time": 1774571362,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 73928,
@@ -12179,12 +12387,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68380,
+      "num": 68380,
+      "word": "逐玉删了钻被窝",
+      "onboard_time": 1774568661,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68342,
       "num": 68342,
       "word": "膳食纤维是被严重低估的营养",
       "onboard_time": 1774532607,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 68332,
+      "num": 68332,
+      "word": "乐华娱乐2025年收入破9亿",
+      "onboard_time": 1774576821,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 68307,
@@ -12803,6 +13027,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 63299,
+      "num": 63299,
+      "word": "小小年纪就懂怎么把生意做黄了",
+      "onboard_time": 1774579940,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63179,
       "num": 131893,
       "word": "启境汽车公司正式更名",
@@ -12913,6 +13145,14 @@
       "onboard_time": 1774162939,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62183,
+      "num": 62183,
+      "word": "小米MiMo成首个周token消耗超3万亿模型",
+      "onboard_time": 1774579401,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 62105,
@@ -13091,6 +13331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 59833,
+      "num": 59833,
+      "word": "女生相亲被带去摸鱼收获铁锅炖",
+      "onboard_time": 1774573522,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59791,
       "num": 59791,
       "word": "维斯塔潘因违规被取消纽北冠军",
@@ -13171,12 +13419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58555,
-      "num": 58555,
-      "word": "逐玉删了钻被窝",
-      "onboard_time": 1774568661,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 58584,
+      "num": 58584,
+      "word": "自己装修了300平带花园的家",
+      "onboard_time": 1774575502,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 58466,
@@ -13251,6 +13499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57532,
+      "num": 59102,
+      "word": "萨巴伦卡vs莱巴金娜",
+      "onboard_time": 1774575022,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57489,
       "num": 87661,
       "word": "复活吧颜值夫妇",
@@ -13283,6 +13539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57061,
+      "num": 57061,
+      "word": "06出生的人都已经上恋综了",
+      "onboard_time": 1774580062,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56728,
       "num": 93612,
       "word": "尚界Z7实测896线激光雷达跑山",
@@ -13297,6 +13561,14 @@
       "onboard_time": 1774192522,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56383,
+      "num": 56383,
+      "word": "4个方法降低熬夜伤害",
+      "onboard_time": 1774574301,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 56170,
@@ -13441,6 +13713,14 @@
       "onboard_time": 1774165340,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53561,
+      "num": 56342,
+      "word": "小狗没吃东西也会低血糖",
+      "onboard_time": 1774577541,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 53543,
@@ -14883,6 +15163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21431,
+      "num": 658660,
+      "word": "2026中国网络媒体论坛",
+      "onboard_time": 1774536983,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20931,
       "num": 37277,
       "word": "陈楚生太湖湾音乐节官宣",
@@ -14921,14 +15209,6 @@
       "onboard_time": 1774510763,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20107,
-      "num": 631367,
-      "word": "2026中国网络媒体论坛",
-      "onboard_time": 1774536983,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20014,
@@ -15495,6 +15775,9 @@
     },
     {
       "word": "#对雄安的发展前景我们充满信心#"
+    },
+    {
+      "word": "#跟着总书记看雄安新机遇#"
     }
   ]
 }

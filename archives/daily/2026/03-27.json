@@ -1,10 +1,10 @@
 {
   "startTime": 1774545171769,
-  "endTime": 1774569477110,
+  "endTime": 1774580103886,
   "band_list": [
     {
       "raw_hot": 805087,
-      "num": 181711,
+      "num": 185603,
       "word": "没认出来这是王子异",
       "onboard_time": 1774566799,
       "rank": 10,
@@ -19,12 +19,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 634322,
+      "num": 1101491,
+      "word": "日本东京发生命案",
+      "onboard_time": 1774573341,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 569294,
+      "num": 779693,
+      "word": "地坛公园不再允许用明星姓名认领树",
+      "onboard_time": 1774576460,
+      "rank": 1,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 449237,
       "num": 449237,
       "word": "伊朗正式回应美国15点停火协议",
       "onboard_time": 1774567098,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 435761,
+      "num": 188365,
+      "word": "罗技就侮辱性广告致歉",
+      "onboard_time": 1774569622,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 434657,
@@ -41,6 +65,22 @@
       "onboard_time": 1774567159,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388011,
+      "num": 388011,
+      "word": "寿司郎 SIM卡",
+      "onboard_time": 1774577721,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377359,
+      "num": 270903,
+      "word": "为什么房间里那么多灰尘毛",
+      "onboard_time": 1774573461,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 310648,
@@ -83,6 +123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 273715,
+      "num": 273715,
+      "word": "教育部发布20条严禁清单",
+      "onboard_time": 1774576701,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 266768,
       "num": 131984,
       "word": "你其实从未触摸过任何东西",
@@ -97,6 +145,14 @@
       "onboard_time": 1774567098,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236413,
+      "num": 183385,
+      "word": "国产伟哥2025年少卖近800万片",
+      "onboard_time": 1774572501,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222827,
@@ -131,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190690,
+      "num": 190690,
+      "word": "全国猪价已跌破5元",
+      "onboard_time": 1774567458,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189899,
       "num": 163087,
       "word": "杨笠的脑子转得太快了",
@@ -155,12 +219,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182618,
+      "num": 182618,
+      "word": "白鹿录完跑男状态",
+      "onboard_time": 1774572321,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182131,
       "num": 356400,
       "word": "隐身的名字",
       "onboard_time": 1774538782,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180070,
+      "num": 56291,
+      "word": "汪苏泷 麦当劳",
+      "onboard_time": 1774579222,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176262,
+      "num": 176262,
+      "word": "人民的名义演员被诉休庭未宣判",
+      "onboard_time": 1774572204,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 176085,
@@ -171,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168368,
+      "num": 168368,
+      "word": "燕子也是一代不如一代了",
+      "onboard_time": 1774574420,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162882,
       "num": 162882,
       "word": "罗技侮辱消费者",
@@ -179,12 +275,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 155848,
-      "num": 116840,
-      "word": "全国猪价已跌破5元",
-      "onboard_time": 1774567458,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 162110,
+      "num": 162110,
+      "word": "田柾国ins转发金采源",
+      "onboard_time": 1774576341,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 144019,
@@ -211,12 +307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135320,
+      "num": 135320,
+      "word": "父亲背着千金拖着犬子过斑马线",
+      "onboard_time": 1774576460,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132327,
       "num": 219273,
       "word": "陈飞宇迪丽热巴两集短剧",
       "onboard_time": 1774544656,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124816,
+      "num": 124816,
+      "word": "张凌赫回应最近好瘦",
+      "onboard_time": 1774572801,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 123964,
@@ -227,6 +339,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 120609,
+      "num": 189154,
+      "word": "伊总统称伊朗致力于全面结束战争",
+      "onboard_time": 1774572081,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 120253,
+      "num": 120253,
+      "word": "大侦探",
+      "onboard_time": 1774577901,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119043,
       "num": 55370,
       "word": "韩国女子怒抢中国游客手机",
@@ -235,12 +363,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 119033,
+      "num": 119033,
+      "word": "南方将有暴雨大暴雨",
+      "onboard_time": 1774572321,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118398,
+      "num": 136314,
+      "word": "李昀锐孟子义她在闹他在笑",
+      "onboard_time": 1774579160,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114991,
       "num": 114991,
       "word": "孟子义李昀锐装不熟",
       "onboard_time": 1774535725,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104961,
+      "num": 104961,
+      "word": "车主违停被贴不干胶直呼方式太粗暴",
+      "onboard_time": 1774577000,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104219,
@@ -267,12 +419,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96321,
+      "num": 88074,
+      "word": "老人突发心梗30分钟教科书式自救",
+      "onboard_time": 1774579642,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95142,
       "num": 95142,
       "word": "你是迟来的欢喜",
       "onboard_time": 1774568899,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92542,
+      "num": 92542,
+      "word": "郑合惠子回复秦岚",
+      "onboard_time": 1774578382,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90533,
+      "num": 90533,
+      "word": "全国推行社保第六险",
+      "onboard_time": 1774575321,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88502,
+      "num": 88502,
+      "word": "辛芷蕾不穿让自己难受的衣服",
+      "onboard_time": 1774575920,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 87807,
@@ -307,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83182,
+      "num": 83182,
+      "word": "何润东早期颜值",
+      "onboard_time": 1774576641,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82852,
       "num": 82852,
       "word": "樊振东若不参赛机会或给温瑞博",
@@ -331,12 +523,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 79796,
+      "num": 79796,
+      "word": "追觅已报警",
+      "onboard_time": 1774579100,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 77831,
       "num": 77831,
       "word": "美方被曝正酝酿对伊朗最后一击",
       "onboard_time": 1774529723,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76778,
+      "num": 76778,
+      "word": "iPhoneFold起售价或超2000美元",
+      "onboard_time": 1774578382,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 76322,
@@ -353,6 +561,14 @@
       "onboard_time": 1774569021,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74105,
+      "num": 74105,
+      "word": "李昀锐孟子义撕名牌路透",
+      "onboard_time": 1774571362,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 74060,
@@ -395,6 +611,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68380,
+      "num": 68380,
+      "word": "逐玉删了钻被窝",
+      "onboard_time": 1774568661,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68332,
+      "num": 68332,
+      "word": "乐华娱乐2025年收入破9亿",
+      "onboard_time": 1774576821,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67619,
       "num": 87747,
       "word": "重庆一小区租户高空抛撒大量现金",
@@ -409,6 +641,22 @@
       "onboard_time": 1774535303,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63299,
+      "num": 63299,
+      "word": "小小年纪就懂怎么把生意做黄了",
+      "onboard_time": 1774579940,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 62183,
+      "num": 62183,
+      "word": "小米MiMo成首个周token消耗超3万亿模型",
+      "onboard_time": 1774579401,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 61939,
@@ -443,12 +691,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58555,
-      "num": 58555,
-      "word": "逐玉删了钻被窝",
-      "onboard_time": 1774568661,
+      "raw_hot": 59833,
+      "num": 59833,
+      "word": "女生相亲被带去摸鱼收获铁锅炖",
+      "onboard_time": 1774573522,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58584,
+      "num": 58584,
+      "word": "自己装修了300平带花园的家",
+      "onboard_time": 1774575502,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 57532,
+      "num": 59102,
+      "word": "萨巴伦卡vs莱巴金娜",
+      "onboard_time": 1774575022,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57061,
+      "num": 57061,
+      "word": "06出生的人都已经上恋综了",
+      "onboard_time": 1774580062,
       "rank": 46,
-      "category": "剧集"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 56383,
+      "num": 56383,
+      "word": "4个方法降低熬夜伤害",
+      "onboard_time": 1774574301,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 56170,
@@ -473,6 +753,14 @@
       "onboard_time": 1774538603,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53561,
+      "num": 56342,
+      "word": "小狗没吃东西也会低血糖",
+      "onboard_time": 1774577541,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 53182,
@@ -683,20 +971,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21431,
+      "num": 658660,
+      "word": "2026中国网络媒体论坛",
+      "onboard_time": 1774536983,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21202,
       "num": 40570,
       "word": "全球石油储备仅够3至4个月",
       "onboard_time": 1774532124,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 17366,
-      "num": 606188,
-      "word": "2026中国网络媒体论坛",
-      "onboard_time": 1774536983,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15446,
@@ -726,6 +1014,9 @@
   "hotgov_list": [
     {
       "word": "#对雄安的发展前景我们充满信心#"
+    },
+    {
+      "word": "#跟着总书记看雄安新机遇#"
     }
   ]
 }
