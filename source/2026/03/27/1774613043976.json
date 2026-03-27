@@ -1,0 +1,410 @@
+{
+  "runTime": 1774613043976,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 326467,
+        "num": 1052234,
+        "word": "女子请屠夫杀年猪惨遭其儿子杀害",
+        "onboard_time": 1774611862,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248514,
+        "num": 757948,
+        "word": "职称评审将迎重大调整",
+        "onboard_time": 1774605621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32525,
+        "num": 600264,
+        "word": "海南自贸港封关运作100天",
+        "onboard_time": 1774596321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410689,
+        "num": 410689,
+        "word": "伊朗革命卫队称霍尔木兹海峡关闭",
+        "onboard_time": 1774610242,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164237,
+        "num": 381582,
+        "word": "中国博士后遭美方约谈盘问后自杀",
+        "onboard_time": 1774599321,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363130,
+        "num": 363130,
+        "word": "大部分人觉得旅游累的原因",
+        "onboard_time": 1774609041,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176463,
+        "num": 362131,
+        "word": "逐玉 庆功宴",
+        "onboard_time": 1774612462,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159949,
+        "num": 361475,
+        "word": "国足赢了世界杯球队",
+        "onboard_time": 1774601482,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153989,
+        "num": 359926,
+        "word": "THE9在安崎微博团建",
+        "onboard_time": 1774612402,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143787,
+        "num": 359378,
+        "word": "TES欢迎JackeyLove归来",
+        "onboard_time": 1774610542,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1353310,
+        "num": 357650,
+        "word": "王一博微博改名",
+        "onboard_time": 1774602801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 783979,
+        "num": 356633,
+        "word": "疑似商K工作人员回应",
+        "onboard_time": 1774608383,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470151,
+        "num": 356037,
+        "word": "保留奔跑吧艺人剩菜店家道歉",
+        "onboard_time": 1774602682,
+        "rank": 12,
+        "category": "民生新闻,综艺"
+      },
+      {
+        "raw_hot": 731381,
+        "num": 355274,
+        "word": "刘昊然 商K",
+        "onboard_time": 1774601242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415108,
+        "num": 353224,
+        "word": "王橹杰换头像",
+        "onboard_time": 1774608564,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146820,
+        "num": 352572,
+        "word": "中方回应美称中企向伊军提供芯片",
+        "onboard_time": 1774608262,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32113,
+        "num": 351008,
+        "word": "深蓝董事长拆解行驶50万公里电驱",
+        "onboard_time": 1774609642,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 387527,
+        "num": 350048,
+        "word": "王一博乐华续约",
+        "onboard_time": 1774603042,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385258,
+        "num": 349566,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1774611682,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115757,
+        "num": 347916,
+        "word": "4500元冲锋衣被湿巾擦坏仅赔278元",
+        "onboard_time": 1774601242,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347526,
+        "num": 347526,
+        "word": "黄灿灿浪姐连麦杨紫",
+        "onboard_time": 1774610361,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312273,
+        "num": 312273,
+        "word": "虞书欣梦回凌妙妙",
+        "onboard_time": 1774611442,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224207,
+        "num": 224207,
+        "word": "女子手指截肢放肚里养1个月变小肉球",
+        "onboard_time": 1774604002,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252088,
+        "num": 223602,
+        "word": "UNIQ组合已解散",
+        "onboard_time": 1774608863,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94140,
+        "num": 218716,
+        "word": "今年蚊子可能迎来史诗级加强",
+        "onboard_time": 1774612582,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217280,
+        "num": 217280,
+        "word": "乘风2026官宣阵容",
+        "onboard_time": 1774593980,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88296,
+        "num": 189379,
+        "word": "尚界Z7随行美容舱",
+        "onboard_time": 1774609642,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180790,
+        "num": 180790,
+        "word": "王源新纹身",
+        "onboard_time": 1774608024,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153456,
+        "num": 153456,
+        "word": "奉劝大家还是尽量多存钱",
+        "onboard_time": 1774606942,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76477,
+        "num": 151185,
+        "word": "郭永航被查",
+        "onboard_time": 1774606823,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333296,
+        "num": 150743,
+        "word": "西班牙25岁女孩被性侵多次后申请安乐死",
+        "onboard_time": 1774610963,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149717,
+        "num": 149717,
+        "word": "迪丽热巴提灯走机场",
+        "onboard_time": 1774603761,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147549,
+        "num": 147549,
+        "word": "乘风2026",
+        "onboard_time": 1774605441,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96305,
+        "num": 146589,
+        "word": "做饭好吃的底层逻辑",
+        "onboard_time": 1774612222,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138207,
+        "num": 145708,
+        "word": "花少8在约宋威龙张凌赫",
+        "onboard_time": 1774604363,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145707,
+        "num": 145707,
+        "word": "刘昊然方发律师声明",
+        "onboard_time": 1774609942,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84996,
+        "num": 141628,
+        "word": "是你的孩子吗你就背",
+        "onboard_time": 1774611803,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140496,
+        "num": 140496,
+        "word": "陈思罕新头像",
+        "onboard_time": 1774608863,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108687,
+        "num": 108687,
+        "word": "张杰鸟巢演唱会",
+        "onboard_time": 1774612462,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62760,
+        "num": 106150,
+        "word": "起底日本撞人族",
+        "onboard_time": 1774610421,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118980,
+        "num": 106103,
+        "word": "张凌赫涨粉量",
+        "onboard_time": 1774611862,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106041,
+        "num": 106041,
+        "word": "郭麒麟对接回应KTV传闻",
+        "onboard_time": 1774594220,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82430,
+        "num": 103340,
+        "word": "错撩漫画",
+        "onboard_time": 1774612521,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102169,
+        "num": 102169,
+        "word": "乘风2026师姐帮帮唱",
+        "onboard_time": 1774596382,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96809,
+        "num": 96809,
+        "word": "张极直播",
+        "onboard_time": 1774612762,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77574,
+        "num": 94332,
+        "word": "熬夜的人要多吃一类食物",
+        "onboard_time": 1774596140,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93764,
+        "num": 93764,
+        "word": "肖战提名金海燕奖最佳男主",
+        "onboard_time": 1774606641,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90736,
+        "num": 90736,
+        "word": "乘风2026定档",
+        "onboard_time": 1774593141,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61198,
+        "num": 90619,
+        "word": "大学生表白被拒后怒砸食堂咖啡店",
+        "onboard_time": 1774612943,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 59382,
+        "num": 86823,
+        "word": "法院通报副院长与原告同吃同拜佛",
+        "onboard_time": 1774610242,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}

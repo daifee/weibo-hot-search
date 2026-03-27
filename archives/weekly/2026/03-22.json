@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774612109504,
+  "endTime": 1774613043976,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -2459,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410689,
+      "num": 619200,
+      "word": "伊朗革命卫队称霍尔木兹海峡关闭",
+      "onboard_time": 1774610242,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 410421,
       "num": 410421,
       "word": "林俊杰称自己生命的沙漏加速了",
@@ -2859,6 +2867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363130,
+      "num": 559385,
+      "word": "大部分人觉得旅游累的原因",
+      "onboard_time": 1774609041,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 363067,
       "num": 497157,
       "word": "泽尻英龙华40岁状态",
@@ -2987,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347526,
+      "num": 480606,
+      "word": "黄灿灿浪姐连麦杨紫",
+      "onboard_time": 1774610361,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347394,
       "num": 863237,
       "word": "国乒公布伦敦世乒赛初步参赛名单",
@@ -3017,14 +3041,6 @@
       "onboard_time": 1774400126,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 343207,
-      "num": 480606,
-      "word": "黄灿灿浪姐连麦杨紫",
-      "onboard_time": 1774610361,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 342463,
@@ -3185,6 +3201,14 @@
       "onboard_time": 1774508120,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326467,
+      "num": 1052234,
+      "word": "女子请屠夫杀年猪惨遭其儿子杀害",
+      "onboard_time": 1774611862,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326358,
@@ -3377,6 +3401,14 @@
       "onboard_time": 1774365931,
       "rank": 1,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 312273,
+      "num": 312273,
+      "word": "虞书欣梦回凌妙妙",
+      "onboard_time": 1774611442,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 312218,
@@ -3921,14 +3953,6 @@
       "onboard_time": 1774509682,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 267069,
-      "num": 619200,
-      "word": "伊朗革命卫队称霍尔木兹海峡关闭",
-      "onboard_time": 1774610242,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 266768,
@@ -5675,6 +5699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180790,
+      "num": 459852,
+      "word": "王源新纹身",
+      "onboard_time": 1774608024,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180516,
       "num": 180516,
       "word": "陈哲远关注白鹿",
@@ -5785,6 +5817,14 @@
       "onboard_time": 1774168523,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176463,
+      "num": 362131,
+      "word": "逐玉 庆功宴",
+      "onboard_time": 1774612462,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 176338,
@@ -6123,14 +6163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168655,
-      "num": 459852,
-      "word": "王源新纹身",
-      "onboard_time": 1774608024,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168368,
       "num": 168368,
       "word": "燕子也是一代不如一代了",
@@ -6169,14 +6201,6 @@
       "onboard_time": 1774265722,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 165639,
-      "num": 165639,
-      "word": "虞书欣梦回凌妙妙",
-      "onboard_time": 1774611442,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 165626,
@@ -6459,6 +6483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153989,
+      "num": 359926,
+      "word": "THE9在安崎微博团建",
+      "onboard_time": 1774612402,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153975,
       "num": 153975,
       "word": "你好星期六下周嘉宾阵容预告",
@@ -6699,6 +6731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145707,
+      "num": 145707,
+      "word": "刘昊然方发律师声明",
+      "onboard_time": 1774609942,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145581,
       "num": 145581,
       "word": "等太湖湾音乐节官宣",
@@ -6891,6 +6931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140496,
+      "num": 140496,
+      "word": "陈思罕新头像",
+      "onboard_time": 1774608863,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140404,
       "num": 142710,
       "word": "住一楼最害怕的事还是发生了",
@@ -6977,14 +7025,6 @@
       "onboard_time": 1774236799,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 138715,
-      "num": 138715,
-      "word": "陈思罕新头像",
-      "onboard_time": 1774608863,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 138598,
@@ -7393,14 +7433,6 @@
       "onboard_time": 1774508120,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129546,
-      "num": 559385,
-      "word": "大部分人觉得旅游累的原因",
-      "onboard_time": 1774609041,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 129532,
@@ -8147,6 +8179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118980,
+      "num": 106103,
+      "word": "张凌赫涨粉量",
+      "onboard_time": 1774611862,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118941,
       "num": 118941,
       "word": "留几手首先要留住底线",
@@ -8241,14 +8281,6 @@
       "onboard_time": 1774498041,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117222,
-      "num": 117222,
-      "word": "刘昊然方发律师声明",
-      "onboard_time": 1774609942,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 117178,
@@ -8643,14 +8675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112560,
-      "num": 521384,
-      "word": "女子请屠夫杀年猪惨遭其儿子杀害",
-      "onboard_time": 1774611862,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112415,
       "num": 112415,
       "word": "孕期接触杀菌剂影响持续20代",
@@ -8937,6 +8961,14 @@
       "onboard_time": 1774359643,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108687,
+      "num": 108687,
+      "word": "张杰鸟巢演唱会",
+      "onboard_time": 1774612462,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 108675,
@@ -9497,14 +9529,6 @@
       "onboard_time": 1774240462,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102768,
-      "num": 102768,
-      "word": "张凌赫涨粉量",
-      "onboard_time": 1774611862,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 102670,
@@ -10139,6 +10163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96809,
+      "num": 96809,
+      "word": "张极直播",
+      "onboard_time": 1774612762,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96785,
       "num": 231799,
       "word": "郑钦文战胜前美网冠军",
@@ -10169,6 +10201,14 @@
       "onboard_time": 1774426824,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96305,
+      "num": 146589,
+      "word": "做饭好吃的底层逻辑",
+      "onboard_time": 1774612222,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 96299,
@@ -10457,6 +10497,14 @@
       "onboard_time": 1774257201,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 94140,
+      "num": 218716,
+      "word": "今年蚊子可能迎来史诗级加强",
+      "onboard_time": 1774612582,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94139,
@@ -11993,6 +12041,14 @@
       "onboard_time": 1774331000,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82430,
+      "num": 103340,
+      "word": "错撩漫画",
+      "onboard_time": 1774612521,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 82418,
@@ -14777,6 +14833,14 @@
       "onboard_time": 1774155560,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 61198,
+      "num": 90619,
+      "word": "大学生表白被拒后怒砸食堂咖啡店",
+      "onboard_time": 1774612943,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 61001,
