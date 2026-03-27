@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774639063812,
+  "endTime": 1774641553709,
   "band_list": [
     {
       "raw_hot": 2167253,
@@ -419,20 +419,20 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 59490,
+      "num": 59490,
+      "word": "你好1983",
+      "onboard_time": 1774636094,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59349,
       "num": 74231,
       "word": "教育部明确严禁布置重复性惩罚性作业",
       "onboard_time": 1774627281,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 56089,
-      "num": 56089,
-      "word": "你好1983",
-      "onboard_time": 1774636094,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 51970,
@@ -553,6 +553,14 @@
       "onboard_time": 1774629738,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14010,
+      "num": 20909,
+      "word": "阅文IP盛典",
+      "onboard_time": 1774639634,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 11896,

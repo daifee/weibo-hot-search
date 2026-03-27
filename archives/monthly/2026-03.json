@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774639063812,
+  "endTime": 1774641553709,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -74145,6 +74145,14 @@
       "onboard_time": 1774119975,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14010,
+      "num": 20909,
+      "word": "阅文IP盛典",
+      "onboard_time": 1774639634,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 13985,
