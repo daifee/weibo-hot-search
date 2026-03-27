@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774582809033,
+  "endTime": 1774588534440,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -947,6 +947,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 737214,
+      "num": 144985,
+      "word": "女教师被碾压拖行5.9公里致死",
+      "onboard_time": 1774586782,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 729419,
       "num": 729419,
       "word": "浪姐7阵容",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1774498221,
       "rank": 14,
       "category": "军事"
+    },
+    {
+      "raw_hot": 681551,
+      "num": 650868,
+      "word": "日本养牛郎女性发声",
+      "onboard_time": 1774586843,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 676617,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1774343002,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 646064,
+      "num": 144469,
+      "word": "吴京 水肿",
+      "onboard_time": 1774584443,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 641397,
@@ -1288,6 +1312,14 @@
       "word": "助理曾因担心张雪峰准备买AED",
       "onboard_time": 1774515622,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 592212,
+      "num": 1094753,
+      "word": "梅姨藏身地村民称她很有钱",
+      "onboard_time": 1774585942,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -1723,6 +1755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495678,
+      "num": 143903,
+      "word": "男子得知男医生给孕妻做彩超后崩溃",
+      "onboard_time": 1774587082,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495631,
       "num": 598312,
       "word": "王俊凯专辑概念预告",
@@ -2033,6 +2073,14 @@
       "onboard_time": 1774254320,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 440572,
+      "num": 143612,
+      "word": "沈南 谢谢你为寒门学子打造梯子",
+      "onboard_time": 1774583181,
+      "rank": 13,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 440261,
@@ -2475,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383041,
+      "num": 306187,
+      "word": "仅退款还得再给你200的程度",
+      "onboard_time": 1774583963,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 382763,
       "num": 282921,
       "word": "白鹿留洋大小姐造型",
@@ -2576,6 +2632,14 @@
       "word": "宫脇咲良取关张元英",
       "onboard_time": 1774272022,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 368000,
+      "num": 177291,
+      "word": "粉底液将军为何会激起群嘲",
+      "onboard_time": 1774581140,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -3107,6 +3171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 313021,
+      "num": 313021,
+      "word": "黄金大买家开始抛售",
+      "onboard_time": 1774584144,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 312997,
       "num": 1536513,
       "word": "容易触发猝死的6个因素",
@@ -3219,14 +3291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303434,
-      "num": 177291,
-      "word": "粉底液将军为何会激起群嘲",
-      "onboard_time": 1774581140,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303296,
       "num": 532628,
       "word": "女子称专柜买4个LV包鉴定为假货",
@@ -3273,6 +3337,22 @@
       "onboard_time": 1774188023,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 297861,
+      "num": 297861,
+      "word": "罗技短视频组扣除全部绩效",
+      "onboard_time": 1774584382,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 297693,
+      "num": 142446,
+      "word": "一声老婆45岁离异女打赏男主播61万",
+      "onboard_time": 1774583542,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296989,
@@ -3521,6 +3601,14 @@
       "onboard_time": 1774439122,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271859,
+      "num": 142240,
+      "word": "还以为刘亦菲在展示美貌",
+      "onboard_time": 1774584861,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 271400,
@@ -3891,6 +3979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244908,
+      "num": 244908,
+      "word": "奔跑吧14首录合照各有各的活",
+      "onboard_time": 1774582822,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244499,
       "num": 761065,
       "word": "四川天府机场多名老人扶梯上逆行",
@@ -4129,6 +4225,14 @@
       "onboard_time": 1774104025,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 231629,
+      "num": 141630,
+      "word": "郭晓婷王天辰杂志 离婚跟拍",
+      "onboard_time": 1774584623,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 231422,
@@ -5699,6 +5803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162726,
+      "num": 162726,
+      "word": "曾因打儿子日常走红网红老人去世",
+      "onboard_time": 1774583721,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162407,
       "num": 138216,
       "word": "迪丽热巴陈飞宇一个爆炸头一个牛舔头",
@@ -6339,6 +6451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139871,
+      "num": 139871,
+      "word": "张真源又在孟子义李昀锐中间",
+      "onboard_time": 1774583421,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139416,
       "num": 183672,
       "word": "迪丽热巴新经纪人疑似回应入职嘉行",
@@ -6459,6 +6579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136637,
+      "num": 136637,
+      "word": "梅姨打牌经常拿出几千上万现金显摆",
+      "onboard_time": 1774583241,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136205,
       "num": 136205,
       "word": "我和Angelababy居然是同一个物种",
@@ -6505,6 +6633,14 @@
       "onboard_time": 1774249521,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 135451,
+      "num": 135451,
+      "word": "逐玉赵大叔扮演者谈与田曦薇3次合作",
+      "onboard_time": 1774587022,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 135357,
@@ -7771,6 +7907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114410,
+      "num": 114410,
+      "word": "金饰价格一夜大跌45元",
+      "onboard_time": 1774587921,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114314,
       "num": 162963,
       "word": "眼睛出现这两类情况要立刻就医",
@@ -7881,6 +8025,14 @@
       "onboard_time": 1774327162,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112343,
+      "num": 112343,
+      "word": "网友刷心脏骤停新闻后呼吸性碱中毒",
+      "onboard_time": 1774586003,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112110,
@@ -8041,6 +8193,14 @@
       "onboard_time": 1774487721,
       "rank": 26,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 110127,
+      "num": 110127,
+      "word": "6岁儿童拿走豆腐失主坚持要曝光",
+      "onboard_time": 1774586722,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109996,
@@ -8851,6 +9011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100782,
+      "num": 100782,
+      "word": "严禁教师体罚学生",
+      "onboard_time": 1774584202,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 100709,
       "num": 100709,
       "word": "已确诊为潮人",
@@ -8929,6 +9097,14 @@
       "onboard_time": 1774194142,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99642,
+      "num": 99642,
+      "word": "严浩翔新专概念视频",
+      "onboard_time": 1774587442,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 99640,
@@ -9011,6 +9187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98811,
+      "num": 98811,
+      "word": "周杰伦新专辑编曲回应差评",
+      "onboard_time": 1774584501,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 98646,
       "num": 98646,
       "word": "Daeny谈BLG夺冠",
@@ -9049,6 +9233,14 @@
       "onboard_time": 1774493181,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98125,
+      "num": 196448,
+      "word": "郴州13名公职人员被处理",
+      "onboard_time": 1774582101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98122,
@@ -9329,6 +9521,14 @@
       "onboard_time": 1774427783,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95162,
+      "num": 92166,
+      "word": "汪苏泷首站郑州",
+      "onboard_time": 1774585883,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 95142,
@@ -10083,6 +10283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88820,
+      "num": 88820,
+      "word": "马杜罗身穿囚服戴着脚镣纽约再出庭",
+      "onboard_time": 1774585103,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88813,
       "num": 88813,
       "word": "其实你根本不喜欢玩手机",
@@ -10145,6 +10353,14 @@
       "onboard_time": 1774422503,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88334,
+      "num": 88334,
+      "word": "iPhone4回收价",
+      "onboard_time": 1774587861,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 88251,
@@ -10363,12 +10579,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86889,
+      "num": 86889,
+      "word": "杭州有房东150万元买入50万元卖出",
+      "onboard_time": 1774585703,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86743,
       "num": 86743,
       "word": "无畏首个双位置入围选手",
       "onboard_time": 1774420102,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86716,
+      "num": 181157,
+      "word": "淄博烧烤退烧之后",
+      "onboard_time": 1774582101,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86621,
@@ -10491,6 +10723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85491,
+      "num": 85491,
+      "word": "两艘中国集装箱船正靠近霍尔木兹海峡",
+      "onboard_time": 1774588402,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85379,
       "num": 85379,
       "word": "伊朗击落美军F18战机画面",
@@ -10593,6 +10833,14 @@
       "onboard_time": 1774308799,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 84051,
+      "num": 86965,
+      "word": "女子照顾二婚脑梗丈夫时崩溃大哭",
+      "onboard_time": 1774587263,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84025,
@@ -10737,6 +10985,14 @@
       "onboard_time": 1774147340,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83093,
+      "num": 83093,
+      "word": "练习说话的时候直视别人眼睛",
+      "onboard_time": 1774588402,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 82947,
@@ -14435,6 +14691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 42228,
+      "num": 87927,
+      "word": "新款小鹏MONA算力比肩50万级旗舰车",
+      "onboard_time": 1774586543,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42063,
       "num": 119894,
       "word": "孙千地表最强的172",
@@ -14625,14 +14889,6 @@
       "onboard_time": 1774136118,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 35872,
-      "num": 196448,
-      "word": "郴州13名公职人员被处理",
-      "onboard_time": 1774582101,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35750,
@@ -14915,6 +15171,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 29915,
+      "num": 140760,
+      "word": "贵州一村收礼金红事12白事20元",
+      "onboard_time": 1774587622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29872,
       "num": 43665,
       "word": "陈泽",
@@ -15179,12 +15443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25472,
-      "num": 181157,
-      "word": "淄博烧烤退烧之后",
-      "onboard_time": 1774582101,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 25330,
+      "num": 88830,
+      "word": "丞磊徐若晗 别人的妻子就要又争又抢",
+      "onboard_time": 1774587921,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 25311,
