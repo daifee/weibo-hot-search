@@ -1,0 +1,410 @@
+{
+  "runTime": 1774602208413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 812994,
+        "num": 1130079,
+        "word": "乘风2026官宣阵容",
+        "onboard_time": 1774593980,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614102,
+        "num": 834656,
+        "word": "店家回应留奔跑吧明星剩饭",
+        "onboard_time": 1774599202,
+        "rank": 1,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 41643,
+        "num": 626992,
+        "word": "海南自贸港封关运作100天",
+        "onboard_time": 1774596321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 452824,
+        "num": 452824,
+        "word": "中国博士后遭美方约谈盘问后自杀",
+        "onboard_time": 1774599321,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 394454,
+        "num": 394454,
+        "word": "广西名医黄贵华突发心梗去世",
+        "onboard_time": 1774598061,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351808,
+        "num": 351808,
+        "word": "Naiyou终身禁赛",
+        "onboard_time": 1774596558,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 344893,
+        "num": 344893,
+        "word": "张凌赫回应逐玉大结局",
+        "onboard_time": 1774597522,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257053,
+        "num": 257053,
+        "word": "曾沛慈终于上浪姐了",
+        "onboard_time": 1774595782,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198054,
+        "num": 198054,
+        "word": "4500元冲锋衣被湿巾擦坏仅赔278元",
+        "onboard_time": 1774601242,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192151,
+        "num": 192151,
+        "word": "相亲型社交",
+        "onboard_time": 1774595840,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 718568,
+        "num": 191794,
+        "word": "郭麒麟对接回应KTV传闻",
+        "onboard_time": 1774594220,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331171,
+        "num": 191780,
+        "word": "昆凌旧照 看完理解周杰伦了",
+        "onboard_time": 1774600821,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288850,
+        "num": 191468,
+        "word": "熬夜的人要多吃一类食物",
+        "onboard_time": 1774596140,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190489,
+        "num": 190489,
+        "word": "余华定居三亚",
+        "onboard_time": 1774593741,
+        "rank": 13,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 294508,
+        "num": 182952,
+        "word": "乘风2026定档",
+        "onboard_time": 1774593141,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290679,
+        "num": 182407,
+        "word": "刘昊然 商K",
+        "onboard_time": 1774601242,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152469,
+        "num": 152469,
+        "word": "国足2比0库拉索",
+        "onboard_time": 1774599021,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37549,
+        "num": 151005,
+        "word": "豪华大五座新卷王来了",
+        "onboard_time": 1774598900,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 239123,
+        "num": 147145,
+        "word": "刘海宽拒绝吃陈情令老本",
+        "onboard_time": 1774596981,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235500,
+        "num": 139975,
+        "word": "巴西女子杀死性侵女儿男子被判无罪",
+        "onboard_time": 1774599500,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286851,
+        "num": 136099,
+        "word": "王濛 浪姐",
+        "onboard_time": 1774597822,
+        "rank": 20,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 135300,
+        "num": 135300,
+        "word": "宁波男子网贷60万打赏女主播确诊生病",
+        "onboard_time": 1774599440,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229038,
+        "num": 135199,
+        "word": "乘风2026师姐帮帮唱",
+        "onboard_time": 1774596382,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121407,
+        "num": 121407,
+        "word": "迪丽热巴陈飞宇吃同一块葱油饼",
+        "onboard_time": 1774602081,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100711,
+        "num": 100711,
+        "word": "国足赢了世界杯球队",
+        "onboard_time": 1774601482,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163744,
+        "num": 100413,
+        "word": "阚清子说浪姐强度大要养好身体",
+        "onboard_time": 1774600341,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113836,
+        "num": 99106,
+        "word": "文淇都敢演这段戏了",
+        "onboard_time": 1774598181,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97456,
+        "num": 97456,
+        "word": "香港一夜之间赢麻了",
+        "onboard_time": 1774600521,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59830,
+        "num": 97199,
+        "word": "花2块钱坐公交坐出了航班的感觉",
+        "onboard_time": 1774600882,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106831,
+        "num": 97130,
+        "word": "拍摄郭麒麟私人聚会视频已违法",
+        "onboard_time": 1774601841,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96962,
+        "num": 96962,
+        "word": "你们相亲都那么好笑吗",
+        "onboard_time": 1774595960,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96291,
+        "num": 96291,
+        "word": "Naiyou涉嫌多次假赛",
+        "onboard_time": 1774601062,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94794,
+        "num": 94794,
+        "word": "范玮琪这一次乘风破浪",
+        "onboard_time": 1774596801,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94139,
+        "num": 94139,
+        "word": "安陵容祺贵人 浪姐",
+        "onboard_time": 1774599500,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85193,
+        "num": 91540,
+        "word": "库克公开乔布斯临终遗嘱",
+        "onboard_time": 1774597281,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16075,
+        "num": 91354,
+        "word": "妖无二烤肉店菜品出现活体蚯蚓",
+        "onboard_time": 1774602081,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91338,
+        "num": 91338,
+        "word": "时团要和跑男对抗撕名牌了",
+        "onboard_time": 1774598241,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71928,
+        "num": 91246,
+        "word": "吴京回应水肿",
+        "onboard_time": 1774602022,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66976,
+        "num": 91235,
+        "word": "汪铎一天不惹祝绪丹就皮痒",
+        "onboard_time": 1774600161,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16135,
+        "num": 91230,
+        "word": "咸菜丝烧饼店回应爆火后却暂停营业",
+        "onboard_time": 1774602022,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91230,
+        "num": 91229,
+        "word": "孔雪儿壁纸是cortis",
+        "onboard_time": 1774592062,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78610,
+        "num": 88857,
+        "word": "猫 又来了个神经",
+        "onboard_time": 1774601722,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87430,
+        "num": 87430,
+        "word": "严浩翔新专概念视频",
+        "onboard_time": 1774587442,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82897,
+        "num": 82897,
+        "word": "郭晓婷王天辰杂志 离婚跟拍",
+        "onboard_time": 1774584623,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81120,
+        "num": 81120,
+        "word": "洛克王国世界第一只炫彩",
+        "onboard_time": 1774602141,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79674,
+        "num": 79674,
+        "word": "乒乓球澳门世界杯",
+        "onboard_time": 1774601961,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61843,
+        "num": 79030,
+        "word": "王一博未持股乐华",
+        "onboard_time": 1774600641,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79003,
+        "num": 79003,
+        "word": "余华把悲伤留给读者自己定居三亚",
+        "onboard_time": 1774600281,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 60871,
+        "num": 78185,
+        "word": "白宇别吃了",
+        "onboard_time": 1774599321,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78067,
+        "num": 78067,
+        "word": "播剧20天张凌赫涨粉536.7万",
+        "onboard_time": 1774595121,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}
