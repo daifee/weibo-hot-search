@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774591103233,
+  "endTime": 1774595995234,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -312,6 +312,14 @@
       "word": "造谣刘晓庆去世的是她外甥",
       "onboard_time": 1774434563,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1351089,
+      "num": 190019,
+      "word": "郭麒麟对接回应KTV传闻",
+      "onboard_time": 1774594220,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -732,11 +740,19 @@
     },
     {
       "raw_hot": 848321,
-      "num": 242798,
+      "num": 419882,
       "word": "霍尔木兹海峡的最后通牒",
       "onboard_time": 1774232781,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 847968,
+      "num": 1135674,
+      "word": "乘风2026定档",
+      "onboard_time": 1774593141,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 842817,
@@ -2091,6 +2107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 439917,
+      "num": 439917,
+      "word": "乘风2026官宣阵容",
+      "onboard_time": 1774593980,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439420,
       "num": 439420,
       "word": "伊朗声明通行霍尔木兹海峡船只条件",
@@ -2249,6 +2273,14 @@
       "onboard_time": 1774252400,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 418791,
+      "num": 418791,
+      "word": "余华定居三亚",
+      "onboard_time": 1774593741,
+      "rank": 5,
+      "category": "读书作家"
     },
     {
       "raw_hot": 416985,
@@ -3475,6 +3507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 284610,
+      "num": 189591,
+      "word": "孔雪儿壁纸是cortis",
+      "onboard_time": 1774592062,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284606,
       "num": 150460,
       "word": "宋砚被长玉谢征吓到晕厥",
@@ -3617,6 +3657,14 @@
       "onboard_time": 1774325781,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 270555,
+      "num": 270555,
+      "word": "张凌赫给张杰送花篮",
+      "onboard_time": 1774590800,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 270448,
@@ -3995,6 +4043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244364,
+      "num": 188669,
+      "word": "梅姨藏身地对面就是学校",
+      "onboard_time": 1774591041,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243638,
       "num": 215619,
       "word": "逐玉里康婆子的大孙子现实长这样",
@@ -4236,7 +4292,7 @@
     },
     {
       "raw_hot": 231629,
-      "num": 162888,
+      "num": 186383,
       "word": "郭晓婷王天辰杂志 离婚跟拍",
       "onboard_time": 1774584623,
       "rank": 17,
@@ -4737,6 +4793,14 @@
       "onboard_time": 1774450705,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205526,
+      "num": 841513,
+      "word": "国足vs库拉索",
+      "onboard_time": 1774591581,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 203721,
@@ -5283,6 +5347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180675,
+      "num": 180675,
+      "word": "你们相亲都那么好笑吗",
+      "onboard_time": 1774595960,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180516,
       "num": 180516,
       "word": "陈哲远关注白鹿",
@@ -5361,6 +5433,14 @@
       "onboard_time": 1774495461,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 177719,
+      "num": 177719,
+      "word": "播剧20天张凌赫涨粉536.7万",
+      "onboard_time": 1774595121,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 177379,
@@ -7035,6 +7115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128081,
+      "num": 192494,
+      "word": "县法院副院长与原告同行同吃同拜佛",
+      "onboard_time": 1774592781,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127991,
       "num": 109324,
       "word": "张凌赫拍刘宇宁金靖",
@@ -7345,6 +7433,14 @@
       "onboard_time": 1774588642,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122710,
+      "num": 122710,
+      "word": "孔刘曾说后悔没亲金高银",
+      "onboard_time": 1774591281,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 122635,
@@ -8153,6 +8249,14 @@
       "onboard_time": 1774224801,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111051,
+      "num": 100771,
+      "word": "乘风2026姐来真的",
+      "onboard_time": 1774594101,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 110907,
@@ -8995,6 +9099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 100976,
+      "num": 100976,
+      "word": "67岁老人闯行红灯遭三车连撞",
+      "onboard_time": 1774593681,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100940,
       "num": 100940,
       "word": "迅猛龙晒比基尼照",
@@ -9083,12 +9195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100275,
+      "num": 100275,
+      "word": "好多明星给张杰演唱会送花篮",
+      "onboard_time": 1774591160,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100063,
       "num": 109804,
       "word": "小猫一气之下怒吃了两口冻干",
       "onboard_time": 1774522883,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100031,
+      "num": 98614,
+      "word": "迪丽热巴来你好星期六干饭了",
+      "onboard_time": 1774593741,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 99948,
@@ -9219,6 +9347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98806,
+      "num": 98806,
+      "word": "拿甘蔗爬山",
+      "onboard_time": 1774590740,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98646,
       "num": 98646,
       "word": "Daeny谈BLG夺冠",
@@ -9345,6 +9481,14 @@
       "onboard_time": 1774537405,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97390,
+      "num": 97390,
+      "word": "遭老人撞击后反击男子获刑7个月",
+      "onboard_time": 1774594640,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97289,
@@ -9539,6 +9683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95262,
+      "num": 95262,
+      "word": "罗技CEO曾称中国是核心市场",
+      "onboard_time": 1774595840,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95235,
       "num": 95235,
       "word": "Uzi杯",
@@ -9593,6 +9745,14 @@
       "onboard_time": 1774184420,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94806,
+      "num": 94806,
+      "word": "相亲型社交",
+      "onboard_time": 1774595840,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 94771,
@@ -9915,6 +10075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92507,
+      "num": 86353,
+      "word": "从两只猫身上看出血缘关系",
+      "onboard_time": 1774595301,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92440,
       "num": 91252,
       "word": "邓凯被推出机场",
@@ -10179,6 +10347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90426,
+      "num": 84727,
+      "word": "李歌洋郑合惠子cp又be了",
+      "onboard_time": 1774594521,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90335,
       "num": 90335,
       "word": "小米新品发布会",
@@ -10241,6 +10417,14 @@
       "onboard_time": 1774510703,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89644,
+      "num": 89644,
+      "word": "啃了这么多年的玉米居然啃错了",
+      "onboard_time": 1774590440,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 89606,
@@ -10657,6 +10841,14 @@
       "onboard_time": 1774189401,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86457,
+      "num": 86457,
+      "word": "王鹤棣劝秦岚身体是自己的",
+      "onboard_time": 1774591581,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 86440,
@@ -11273,6 +11465,14 @@
       "onboard_time": 1774181781,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81497,
+      "num": 83952,
+      "word": "澳门成为全球首个赛博城市",
+      "onboard_time": 1774593321,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 81470,
@@ -12067,14 +12267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75183,
-      "num": 75183,
-      "word": "啃了这么多年的玉米居然啃错了",
-      "onboard_time": 1774590440,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 75021,
       "num": 75021,
       "word": "客服回应美团删照片",
@@ -12361,14 +12553,6 @@
       "onboard_time": 1774582402,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73029,
-      "num": 73029,
-      "word": "张凌赫给张杰送花篮",
-      "onboard_time": 1774590800,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 72986,
@@ -13027,14 +13211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67653,
-      "num": 67653,
-      "word": "梅姨藏身地对面就是学校",
-      "onboard_time": 1774591041,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67649,
       "num": 67649,
       "word": "一共有5个人在摸鱼",
@@ -13105,14 +13281,6 @@
       "onboard_time": 1774590322,
       "rank": 48,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 67050,
-      "num": 67050,
-      "word": "拿甘蔗爬山",
-      "onboard_time": 1774590740,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 67048,
@@ -14003,6 +14171,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 58106,
+      "num": 182987,
+      "word": "奥迪德国总部放了什么车",
+      "onboard_time": 1774591942,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57688,
       "num": 57688,
       "word": "官方回应新疆沙漠惊现雪豹",
@@ -14491,6 +14667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48894,
+      "num": 92428,
+      "word": "汪铎一句话得罪九个人",
+      "onboard_time": 1774592720,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48706,
       "num": 101277,
       "word": "陈哲远这次来跑男是真发",
@@ -14763,6 +14947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44021,
+      "num": 90238,
+      "word": "让魏哲鸣郑合惠子演暗恋的是天才",
+      "onboard_time": 1774593980,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43828,
       "num": 105205,
       "word": "女子称被诱导买基金3年亏500万",
@@ -14889,6 +15081,22 @@
       "onboard_time": 1774542739,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40657,
+      "num": 191058,
+      "word": "遭外机雷达照射歼10C飞行员以牙还牙",
+      "onboard_time": 1774594941,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 40053,
+      "num": 90917,
+      "word": "徐艺真吐槽纪凌尘拍不了短剧",
+      "onboard_time": 1774594640,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 39972,
@@ -15121,6 +15329,14 @@
       "onboard_time": 1774490660,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33805,
+      "num": 91784,
+      "word": "男子吃空饷6年为何一直在处理中",
+      "onboard_time": 1774595059,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 33712,
@@ -15393,6 +15609,14 @@
       "onboard_time": 1774199238,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28919,
+      "num": 180940,
+      "word": "养母临终前告诉走失男子老家地址",
+      "onboard_time": 1774595480,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28660,
@@ -16280,6 +16504,14 @@
       "word": "女子面馆吃饭打包一袋子一次性筷子",
       "onboard_time": 1774436842,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1731,
+      "num": 82087,
+      "word": "武汉多家医院突增上班族检查心脏",
+      "onboard_time": 1774595901,
+      "rank": 49,
       "category": "民生新闻"
     }
   ],

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/01 00:36:45 ~ 2026/03/27 13:58:23
+本榜单时间：2026/03/01 00:36:45 ~ 2026/03/27 15:19:55
 </p>
 </blockquote>
 <p>
@@ -869,6 +869,12 @@ iPhone17e发布（热度：1416460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23369%E4%B8%BATES%E9%87%8E%E8%BE%85%E5%8F%91%E5%A3%B0%23" target="weibo">
 369为TES野辅发声（热度：1352362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E5%AF%B9%E6%8E%A5%E5%9B%9E%E5%BA%94KTV%E4%BC%A0%E9%97%BB%23" target="weibo">
+郭麒麟对接回应KTV传闻（热度：1351089）
 </a>
 </li>
 
@@ -2117,6 +2123,12 @@ G2对战BLG（热度：895271）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%9A%84%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%23" target="weibo">
 霍尔木兹海峡的最后通牒（热度：848321）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E2026%E5%AE%9A%E6%A1%A3%23" target="weibo">
+乘风2026定档（热度：847968）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ blue 预言家（热度：492360）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%A0%E6%B1%9F%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%8A%E5%AE%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%A4%9C%E7%8F%AD%23" target="weibo">
 坠江研究生离世前上完最后一个夜班（热度：472381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%AB%A0%E5%AD%90%E6%80%A1%E4%B8%BA%E6%96%B0%E6%88%8F%E5%A2%9E%E8%82%A520%E6%96%A4%23" target="weibo">
-曝章子怡为新戏增肥20斤（热度：471869）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%E6%9C%89%E4%BA%BA%E5%87%A0%E5%A4%A9%E8%B5%9A%E4%BA%8626%E4%B8%87%23" target="weibo">
-AI龙虾爆火有人几天赚了26万（热度：471852）
 </a>
 </li>
 

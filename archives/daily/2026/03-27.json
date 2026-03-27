@@ -1,7 +1,23 @@
 {
   "startTime": 1774545171769,
-  "endTime": 1774591103233,
+  "endTime": 1774595995234,
   "band_list": [
+    {
+      "raw_hot": 1351089,
+      "num": 190019,
+      "word": "郭麒麟对接回应KTV传闻",
+      "onboard_time": 1774594220,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 847968,
+      "num": 1135674,
+      "word": "乘风2026定档",
+      "onboard_time": 1774593141,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 805087,
       "num": 191173,
@@ -107,6 +123,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 439917,
+      "num": 439917,
+      "word": "乘风2026官宣阵容",
+      "onboard_time": 1774593980,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435761,
       "num": 194508,
       "word": "罗技就侮辱性广告致歉",
@@ -121,6 +145,14 @@
       "onboard_time": 1774542380,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 418791,
+      "num": 418791,
+      "word": "余华定居三亚",
+      "onboard_time": 1774593741,
+      "rank": 5,
+      "category": "读书作家"
     },
     {
       "raw_hot": 397604,
@@ -179,6 +211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 310912,
+      "num": 419882,
+      "word": "霍尔木兹海峡的最后通牒",
+      "onboard_time": 1774592720,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 310648,
       "num": 310648,
       "word": "央视新闻夸了张凌赫雉鸡翎造型",
@@ -235,6 +275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 284610,
+      "num": 189591,
+      "word": "孔雪儿壁纸是cortis",
+      "onboard_time": 1774592062,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273715,
       "num": 273715,
       "word": "教育部发布20条严禁清单",
@@ -249,6 +297,14 @@
       "onboard_time": 1774584861,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270555,
+      "num": 270555,
+      "word": "张凌赫给张杰送花篮",
+      "onboard_time": 1774590800,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 266768,
@@ -283,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244364,
+      "num": 188669,
+      "word": "梅姨藏身地对面就是学校",
+      "onboard_time": 1774591041,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241417,
       "num": 1038626,
       "word": "白日提灯首播5集",
@@ -300,7 +364,7 @@
     },
     {
       "raw_hot": 231629,
-      "num": 162888,
+      "num": 186383,
       "word": "郭晓婷王天辰杂志 离婚跟拍",
       "onboard_time": 1774584623,
       "rank": 17,
@@ -345,6 +409,14 @@
       "onboard_time": 1774582101,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205526,
+      "num": 841513,
+      "word": "国足vs库拉索",
+      "onboard_time": 1774591581,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 203223,
@@ -419,12 +491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180675,
+      "num": 180675,
+      "word": "你们相亲都那么好笑吗",
+      "onboard_time": 1774595960,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180070,
       "num": 56291,
       "word": "汪苏泷 麦当劳",
       "onboard_time": 1774579222,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177719,
+      "num": 177719,
+      "word": "播剧20天张凌赫涨粉536.7万",
+      "onboard_time": 1774595121,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 176262,
@@ -571,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128081,
+      "num": 192494,
+      "word": "县法院副院长与原告同行同吃同拜佛",
+      "onboard_time": 1774592781,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125294,
       "num": 113865,
       "word": "06出生的人都已经上恋综了",
@@ -609,6 +705,14 @@
       "onboard_time": 1774588642,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122710,
+      "num": 122710,
+      "word": "孔刘曾说后悔没亲金高银",
+      "onboard_time": 1774591281,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 120609,
@@ -675,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111051,
+      "num": 100771,
+      "word": "乘风2026姐来真的",
+      "onboard_time": 1774594101,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104961,
       "num": 104961,
       "word": "车主违停被贴不干胶直呼方式太粗暴",
@@ -731,12 +843,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 100976,
+      "num": 100976,
+      "word": "67岁老人闯行红灯遭三车连撞",
+      "onboard_time": 1774593681,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100782,
       "num": 100782,
       "word": "严禁教师体罚学生",
       "onboard_time": 1774584202,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 100275,
+      "num": 100275,
+      "word": "好多明星给张杰演唱会送花篮",
+      "onboard_time": 1774591160,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 100031,
+      "num": 98614,
+      "word": "迪丽热巴来你好星期六干饭了",
+      "onboard_time": 1774593741,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 99642,
@@ -755,12 +891,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98806,
+      "num": 98806,
+      "word": "拿甘蔗爬山",
+      "onboard_time": 1774590740,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98125,
       "num": 196448,
       "word": "郴州13名公职人员被处理",
       "onboard_time": 1774582101,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97390,
+      "num": 97390,
+      "word": "遭老人撞击后反击男子获刑7个月",
+      "onboard_time": 1774594640,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95262,
+      "num": 95262,
+      "word": "罗技CEO曾称中国是核心市场",
+      "onboard_time": 1774595840,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 95162,
@@ -779,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94806,
+      "num": 94806,
+      "word": "相亲型社交",
+      "onboard_time": 1774595840,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92542,
       "num": 92542,
       "word": "郑合惠子回复秦岚",
@@ -787,12 +955,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92507,
+      "num": 86353,
+      "word": "从两只猫身上看出血缘关系",
+      "onboard_time": 1774595301,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90533,
       "num": 90533,
       "word": "全国推行社保第六险",
       "onboard_time": 1774575321,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90426,
+      "num": 84727,
+      "word": "李歌洋郑合惠子cp又be了",
+      "onboard_time": 1774594521,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89644,
+      "num": 89644,
+      "word": "啃了这么多年的玉米居然啃错了",
+      "onboard_time": 1774590440,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 89452,
@@ -867,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86457,
+      "num": 86457,
+      "word": "王鹤棣劝秦岚身体是自己的",
+      "onboard_time": 1774591581,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86440,
       "num": 86440,
       "word": "两艘中国集装箱船正靠近霍尔木兹海峡",
@@ -939,6 +1139,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 81497,
+      "num": 83952,
+      "word": "澳门成为全球首个赛博城市",
+      "onboard_time": 1774593321,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80742,
       "num": 80742,
       "word": "熬夜到哪种程度可能会猝死",
@@ -1003,14 +1211,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 75183,
-      "num": 75183,
-      "word": "啃了这么多年的玉米居然啃错了",
-      "onboard_time": 1774590440,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 74438,
       "num": 74438,
       "word": "老肩巨滑咪",
@@ -1065,14 +1265,6 @@
       "onboard_time": 1774582402,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73029,
-      "num": 73029,
-      "word": "张凌赫给张杰送花篮",
-      "onboard_time": 1774590800,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 72773,
@@ -1139,14 +1331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67653,
-      "num": 67653,
-      "word": "梅姨藏身地对面就是学校",
-      "onboard_time": 1774591041,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67619,
       "num": 87747,
       "word": "重庆一小区租户高空抛撒大量现金",
@@ -1161,14 +1345,6 @@
       "onboard_time": 1774590322,
       "rank": 48,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 67050,
-      "num": 67050,
-      "word": "拿甘蔗爬山",
-      "onboard_time": 1774590740,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 63577,
@@ -1233,6 +1409,14 @@
       "onboard_time": 1774575502,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 58106,
+      "num": 182987,
+      "word": "奥迪德国总部放了什么车",
+      "onboard_time": 1774591942,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 57532,
@@ -1315,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48894,
+      "num": 92428,
+      "word": "汪铎一句话得罪九个人",
+      "onboard_time": 1774592720,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47951,
       "num": 54788,
       "word": "东京一店铺发生持刀伤人事件",
@@ -1329,6 +1521,14 @@
       "onboard_time": 1774568120,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44021,
+      "num": 90238,
+      "word": "让魏哲鸣郑合惠子演暗恋的是天才",
+      "onboard_time": 1774593980,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 43203,
@@ -1361,6 +1561,22 @@
       "onboard_time": 1774542739,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40657,
+      "num": 191058,
+      "word": "遭外机雷达照射歼10C飞行员以牙还牙",
+      "onboard_time": 1774594941,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 40053,
+      "num": 90917,
+      "word": "徐艺真吐槽纪凌尘拍不了短剧",
+      "onboard_time": 1774594640,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 39322,
@@ -1401,6 +1617,14 @@
       "onboard_time": 1774539262,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33805,
+      "num": 91784,
+      "word": "男子吃空饷6年为何一直在处理中",
+      "onboard_time": 1774595059,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 33729,
@@ -1465,6 +1689,14 @@
       "onboard_time": 1774537102,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28919,
+      "num": 180940,
+      "word": "养母临终前告诉走失男子老家地址",
+      "onboard_time": 1774595480,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27043,
@@ -1585,6 +1817,14 @@
       "onboard_time": 1774548555,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1731,
+      "num": 82087,
+      "word": "武汉多家医院突增上班族检查心脏",
+      "onboard_time": 1774595901,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1593,6 +1833,9 @@
     },
     {
       "word": "#跟着总书记看雄安新机遇#"
+    },
+    {
+      "word": "#足迹里的政绩观#"
     }
   ]
 }
