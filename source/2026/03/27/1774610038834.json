@@ -1,0 +1,410 @@
+{
+  "runTime": 1774610038834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 782229,
+        "num": 1125156,
+        "word": "专家说年轻人可以考虑买房了",
+        "onboard_time": 1774605202,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 264290,
+        "num": 823853,
+        "word": "职称评审将迎重大调整",
+        "onboard_time": 1774605621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31337,
+        "num": 666196,
+        "word": "海南自贸港封关运作100天",
+        "onboard_time": 1774596321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188988,
+        "num": 188988,
+        "word": "老师捏裂幼儿耳朵被采取强制措施",
+        "onboard_time": 1774605861,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206388,
+        "num": 188132,
+        "word": "4500元冲锋衣被湿巾擦坏仅赔278元",
+        "onboard_time": 1774601242,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176213,
+        "num": 176213,
+        "word": "乘风2026",
+        "onboard_time": 1774605441,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175311,
+        "num": 175311,
+        "word": "中国博士后遭美方约谈盘问后自杀",
+        "onboard_time": 1774599321,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126777,
+        "num": 174345,
+        "word": "国足赢了世界杯球队",
+        "onboard_time": 1774601482,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124513,
+        "num": 171277,
+        "word": "乘风2026师姐帮帮唱",
+        "onboard_time": 1774596382,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122274,
+        "num": 168861,
+        "word": "苏轼 吃beef",
+        "onboard_time": 1774607363,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 667506,
+        "num": 167074,
+        "word": "保留奔跑吧艺人剩菜店家道歉",
+        "onboard_time": 1774602682,
+        "rank": 10,
+        "category": "民生新闻,综艺"
+      },
+      {
+        "raw_hot": 256169,
+        "num": 163296,
+        "word": "乘风2026官宣阵容",
+        "onboard_time": 1774593980,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206683,
+        "num": 161295,
+        "word": "花少8在约宋威龙张凌赫",
+        "onboard_time": 1774604363,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183915,
+        "num": 158659,
+        "word": "中方回应美称中企向伊军提供芯片",
+        "onboard_time": 1774608262,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157185,
+        "num": 157185,
+        "word": "熬夜的人要多吃一类食物",
+        "onboard_time": 1774596140,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80234,
+        "num": 139873,
+        "word": "深蓝董事长拆解行驶50万公里电驱",
+        "onboard_time": 1774609642,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128351,
+        "num": 128351,
+        "word": "尚界Z7随行美容舱",
+        "onboard_time": 1774609642,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125575,
+        "num": 125575,
+        "word": "乘风2026定档",
+        "onboard_time": 1774593141,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112066,
+        "num": 112066,
+        "word": "肖战提名金海燕奖最佳男主",
+        "onboard_time": 1774606641,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29151,
+        "num": 108660,
+        "word": "一60多页的县级规划有用的就3页",
+        "onboard_time": 1774609222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2144841,
+        "num": 108598,
+        "word": "王一博微博改名",
+        "onboard_time": 1774602801,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108414,
+        "num": 108414,
+        "word": "郭永航被查",
+        "onboard_time": 1774606823,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 841732,
+        "num": 108219,
+        "word": "刘昊然 商K",
+        "onboard_time": 1774601242,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715885,
+        "num": 107743,
+        "word": "王橹杰换头像",
+        "onboard_time": 1774608564,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284851,
+        "num": 106748,
+        "word": "女子手指截肢放肚里养1个月变小肉球",
+        "onboard_time": 1774604002,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615725,
+        "num": 106243,
+        "word": "疑似商K工作人员回应",
+        "onboard_time": 1774608383,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534038,
+        "num": 105916,
+        "word": "王一博乐华续约",
+        "onboard_time": 1774603042,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152262,
+        "num": 105029,
+        "word": "奉劝大家还是尽量多存钱",
+        "onboard_time": 1774606942,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415202,
+        "num": 104864,
+        "word": "虞书欣工作室出图",
+        "onboard_time": 1774608804,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270278,
+        "num": 104306,
+        "word": "迪丽热巴提灯走机场",
+        "onboard_time": 1774603761,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103893,
+        "num": 103893,
+        "word": "Naiyou终身禁赛",
+        "onboard_time": 1774596558,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182577,
+        "num": 99705,
+        "word": "UNIQ组合",
+        "onboard_time": 1774604363,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171374,
+        "num": 99262,
+        "word": "昆凌旧照 看完理解周杰伦了",
+        "onboard_time": 1774600821,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95483,
+        "num": 95483,
+        "word": "马杜罗再次出庭瘦了13公斤",
+        "onboard_time": 1774605801,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115892,
+        "num": 95374,
+        "word": "阚清子说浪姐强度大要养好身体",
+        "onboard_time": 1774600341,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168655,
+        "num": 95157,
+        "word": "王源新纹身",
+        "onboard_time": 1774608024,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90005,
+        "num": 95062,
+        "word": "乔布斯定制版iPhone17Pro推出",
+        "onboard_time": 1774606342,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164501,
+        "num": 94716,
+        "word": "郭麒麟对接回应KTV传闻",
+        "onboard_time": 1774594220,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154423,
+        "num": 94535,
+        "word": "UNIQ组合已解散",
+        "onboard_time": 1774608863,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23878,
+        "num": 94426,
+        "word": "小女孩跪诊室门口为大出血妈妈加油",
+        "onboard_time": 1774609642,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132096,
+        "num": 94300,
+        "word": "陈思罕新头像",
+        "onboard_time": 1774608863,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113329,
+        "num": 93953,
+        "word": "TF四代游乐场vlog",
+        "onboard_time": 1774609642,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81781,
+        "num": 93915,
+        "word": "大部分人觉得旅游累的原因",
+        "onboard_time": 1774609041,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104833,
+        "num": 93562,
+        "word": "张凌赫回应逐玉大结局",
+        "onboard_time": 1774597522,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93543,
+        "num": 93543,
+        "word": "拍摄郭麒麟私人聚会视频已违法",
+        "onboard_time": 1774601841,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77362,
+        "num": 92574,
+        "word": "谁懂一边吃一边缓缓下沉",
+        "onboard_time": 1774609822,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92003,
+        "num": 92003,
+        "word": "刘昊然方发律师声明",
+        "onboard_time": 1774609942,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85188,
+        "num": 85188,
+        "word": "李汶翰去掉UNIQ前缀",
+        "onboard_time": 1774606763,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74849,
+        "num": 83688,
+        "word": "大脑或用临终30秒为你放映一生",
+        "onboard_time": 1774603224,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 72533,
+        "num": 83679,
+        "word": "AL官宣BigWei加入",
+        "onboard_time": 1774607123,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}
