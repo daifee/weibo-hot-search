@@ -1,0 +1,410 @@
+{
+  "runTime": 1774645500495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 39405,
+        "num": 77415,
+        "word": "孩子生病后买彩票中500万妈妈发声",
+        "onboard_time": 1774626441,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28298,
+        "num": 54938,
+        "word": "3D还原女子因停车纠纷摔倒身亡",
+        "onboard_time": 1774624463,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8195,
+        "num": 44517,
+        "word": "为奋进中国打call",
+        "onboard_time": 1774624882,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50914,
+        "num": 41977,
+        "word": "特朗普揭晓所谓伊朗大礼",
+        "onboard_time": 1774631776,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38010,
+        "num": 38010,
+        "word": "伊朗无人机群袭以色列最大运输中心",
+        "onboard_time": 1774625362,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26797,
+        "num": 26797,
+        "word": "你好1983",
+        "onboard_time": 1774636094,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26791,
+        "num": 26791,
+        "word": "怡宝不好卖了",
+        "onboard_time": 1774625841,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26465,
+        "num": 26465,
+        "word": "伊朗禁往返敌方盟友港船只通过海峡",
+        "onboard_time": 1774630398,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25684,
+        "num": 25684,
+        "word": "大部分人觉得旅游累的原因",
+        "onboard_time": 1774609041,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22996,
+        "num": 22996,
+        "word": "央视网评罗技侮辱性广告",
+        "onboard_time": 1774625184,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94002,
+        "num": 22926,
+        "word": "竹林四侠彻底be了",
+        "onboard_time": 1774624163,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77240,
+        "num": 22905,
+        "word": "霍尔木兹决战摊牌了",
+        "onboard_time": 1774622663,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44455,
+        "num": 22817,
+        "word": "钧正平评粉底液将军",
+        "onboard_time": 1774620984,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38750,
+        "num": 22733,
+        "word": "锤娜丽莎瘦30斤公开减肥原因",
+        "onboard_time": 1774617023,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37044,
+        "num": 22682,
+        "word": "王一博微博改名",
+        "onboard_time": 1774602801,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34193,
+        "num": 22599,
+        "word": "男子借钱凑彩礼结婚后1个月被家暴",
+        "onboard_time": 1774630458,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27712,
+        "num": 22550,
+        "word": "逐玉 庆功宴",
+        "onboard_time": 1774612462,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26788,
+        "num": 22494,
+        "word": "曝关晓彤喜提新车",
+        "onboard_time": 1774617204,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25902,
+        "num": 22436,
+        "word": "今年蚊子可能迎来史诗级加强",
+        "onboard_time": 1774612582,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25021,
+        "num": 22303,
+        "word": "阚清子问我这么胖吗",
+        "onboard_time": 1774618584,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43704,
+        "num": 22248,
+        "word": "西班牙25岁女孩被性侵多次后申请安乐死",
+        "onboard_time": 1774610963,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22226,
+        "num": 22226,
+        "word": "黄金持续快速拉升",
+        "onboard_time": 1774631599,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20758,
+        "num": 20758,
+        "word": "伊发动第83波攻势",
+        "onboard_time": 1774643234,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18585,
+        "num": 18585,
+        "word": "黄子韬因为减肥后脑勺秃了",
+        "onboard_time": 1774614861,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18565,
+        "num": 18565,
+        "word": "美以空袭伊朗钢铁厂及配套发电厂",
+        "onboard_time": 1774622903,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17748,
+        "num": 17748,
+        "word": "伊朗外长在联合国称将自卫到底",
+        "onboard_time": 1774629319,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17319,
+        "num": 17319,
+        "word": "严浩翔方回应KTV传闻",
+        "onboard_time": 1774613842,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16968,
+        "num": 16968,
+        "word": "家事法庭",
+        "onboard_time": 1774628420,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16257,
+        "num": 16967,
+        "word": "世界第一高楼被闪电击中",
+        "onboard_time": 1774624104,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14802,
+        "num": 16962,
+        "word": "警方过筛23.7斤血沙破25年前命案",
+        "onboard_time": 1774621043,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16096,
+        "num": 16960,
+        "word": "白日提灯云包场",
+        "onboard_time": 1774614682,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15208,
+        "num": 16956,
+        "word": "张凌赫回复严屹宽",
+        "onboard_time": 1774620923,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15049,
+        "num": 16954,
+        "word": "雷军壁纸 逆天改命",
+        "onboard_time": 1774624945,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15019,
+        "num": 16950,
+        "word": "丁程鑫张真源合照",
+        "onboard_time": 1774618642,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14818,
+        "num": 16947,
+        "word": "奉劝大家还是尽量多存钱",
+        "onboard_time": 1774606942,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14444,
+        "num": 16944,
+        "word": "乘风2026",
+        "onboard_time": 1774605441,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14004,
+        "num": 16944,
+        "word": "王一博乐华续约",
+        "onboard_time": 1774603042,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13898,
+        "num": 16939,
+        "word": "阅文IP盛典",
+        "onboard_time": 1774639634,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13860,
+        "num": 16936,
+        "word": "她的盛焰大结局",
+        "onboard_time": 1774644373,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12911,
+        "num": 16936,
+        "word": "教育部明确严禁布置重复性惩罚性作业",
+        "onboard_time": 1774627281,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13849,
+        "num": 16933,
+        "word": "徐明浩朱珠同框看展",
+        "onboard_time": 1774642274,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13833,
+        "num": 16930,
+        "word": "徐良演唱会上纪念本兮",
+        "onboard_time": 1774621104,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13223,
+        "num": 16926,
+        "word": "UNIQ组合已解散",
+        "onboard_time": 1774608863,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13173,
+        "num": 16921,
+        "word": "迪丽热巴白日提灯包场6666份",
+        "onboard_time": 1774631898,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12967,
+        "num": 16921,
+        "word": "岳云鹏室内抽烟",
+        "onboard_time": 1774614861,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12932,
+        "num": 16917,
+        "word": "明日方舟音律联觉",
+        "onboard_time": 1774633876,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12669,
+        "num": 16914,
+        "word": "老头乐向小米汽车致歉",
+        "onboard_time": 1774619365,
+        "rank": 46,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 12449,
+        "num": 16911,
+        "word": "危险关系 吴慷仁",
+        "onboard_time": 1774627461,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11811,
+        "num": 16908,
+        "word": "无证医生给骨折老人急救多方发声",
+        "onboard_time": 1774624042,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11756,
+        "num": 16904,
+        "word": "周深首唱求真",
+        "onboard_time": 1774637294,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局3月27日召开会议#"
+    }
+  }
+}
