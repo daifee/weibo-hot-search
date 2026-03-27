@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774602903151,
+  "endTime": 1774605903219,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -185,6 +185,14 @@
       "onboard_time": 1773581607,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 4017984,
+      "num": 317905,
+      "word": "王一博微博改名",
+      "onboard_time": 1774602801,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 3960942,
@@ -1659,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1114054,
+      "num": 96948,
+      "word": "王一博乐华续约",
+      "onboard_time": 1774603042,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1111942,
       "num": 829978,
       "word": "张凌赫田曦薇头纱照",
@@ -2051,6 +2067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1005216,
+      "num": 720706,
+      "word": "刘昊然 商K",
+      "onboard_time": 1774601242,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 998661,
       "num": 630092,
       "word": "伊朗报复美以",
@@ -2361,14 +2385,6 @@
       "onboard_time": 1773409283,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 936088,
-      "num": 720706,
-      "word": "刘昊然 商K",
-      "onboard_time": 1774601242,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 934710,
@@ -6379,6 +6395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 541864,
+      "num": 1086698,
+      "word": "保留奔跑吧艺人剩菜店家道歉",
+      "onboard_time": 1774602682,
+      "rank": 33,
+      "category": "民生新闻,综艺"
+    },
+    {
       "raw_hot": 541038,
       "num": 757703,
       "word": "过度自律",
@@ -10267,6 +10291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 406141,
+      "num": 102802,
+      "word": "女子手指截肢放肚里养1个月变小肉球",
+      "onboard_time": 1774604002,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405923,
       "num": 405923,
       "word": "汪苏泷明日世界演唱会官宣",
@@ -11161,6 +11193,14 @@
       "onboard_time": 1772777542,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 382048,
+      "num": 100374,
+      "word": "UNIQ组合",
+      "onboard_time": 1774604363,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 382047,
@@ -14017,14 +14057,6 @@
       "onboard_time": 1773041363,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 317905,
-      "num": 317905,
-      "word": "王一博微博改名",
-      "onboard_time": 1774602801,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 317828,
@@ -18083,6 +18115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 252246,
+      "num": 252246,
+      "word": "花少8在约宋威龙张凌赫",
+      "onboard_time": 1774604363,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252092,
       "num": 427722,
       "word": "朝鲜称与日本没什么可谈的",
@@ -18860,7 +18900,7 @@
     },
     {
       "raw_hot": 241199,
-      "num": 108421,
+      "num": 167325,
       "word": "阚清子说浪姐强度大要养好身体",
       "onboard_time": 1774600341,
       "rank": 25,
@@ -20699,6 +20739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220626,
+      "num": 96295,
+      "word": "迪丽热巴提灯走机场",
+      "onboard_time": 1774603761,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220614,
       "num": 220614,
       "word": "截瘫女子植入脑机1年后能刷手机了",
@@ -20729,6 +20777,14 @@
       "onboard_time": 1773238826,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 220364,
+      "num": 735821,
+      "word": "国足赢了世界杯球队",
+      "onboard_time": 1774601482,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 220224,
@@ -22145,6 +22201,14 @@
       "onboard_time": 1773744560,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204174,
+      "num": 134836,
+      "word": "拍摄郭麒麟私人聚会视频已违法",
+      "onboard_time": 1774601841,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 204136,
@@ -26083,14 +26147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168144,
-      "num": 134836,
-      "word": "拍摄郭麒麟私人聚会视频已违法",
-      "onboard_time": 1774601841,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168063,
       "num": 168063,
       "word": "姐姐姐夫共创",
@@ -30003,6 +30059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142777,
+      "num": 471634,
+      "word": "乘风2026",
+      "onboard_time": 1773307223,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142760,
       "num": 149487,
       "word": "男子买皮卡收到超大老头乐愁坏妻子",
@@ -31521,6 +31585,14 @@
       "onboard_time": 1772867601,
       "rank": 31,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 134460,
+      "num": 164291,
+      "word": "AL主教练卸任",
+      "onboard_time": 1774605202,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 134395,
@@ -33283,14 +33355,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 126575,
-      "num": 735821,
-      "word": "国足赢了世界杯球队",
-      "onboard_time": 1774601482,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126573,
       "num": 126573,
       "word": "iPhone18Pro或无屏下FaceID",
@@ -33601,6 +33665,14 @@
       "onboard_time": 1773560601,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125201,
+      "num": 125201,
+      "word": "金价还会猛跌吗",
+      "onboard_time": 1774603583,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 125200,
@@ -37971,6 +38043,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 109668,
+      "num": 109668,
+      "word": "挑了半天的衣服老爸一穿上就仅退款",
+      "onboard_time": 1774603341,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109583,
       "num": 193095,
       "word": "金饰克价涨到1607元",
@@ -39635,6 +39715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104928,
+      "num": 94849,
+      "word": "王橹杰新手机壳是天使",
+      "onboard_time": 1774603881,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104917,
       "num": 141781,
       "word": "外卖到了白鹿就这样跑步迎接",
@@ -40689,6 +40777,14 @@
       "onboard_time": 1773223642,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101763,
+      "num": 95937,
+      "word": "工商银行2025年净利润3685.6亿",
+      "onboard_time": 1774605621,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 101762,
@@ -43131,6 +43227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96436,
+      "num": 96436,
+      "word": "全红婵嘉人四月刊生日封面",
+      "onboard_time": 1774605202,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96435,
       "num": 99582,
       "word": "黄亦玫你又去找庄国栋了吗",
@@ -43561,14 +43665,6 @@
       "onboard_time": 1773918740,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95425,
-      "num": 95425,
-      "word": "保留奔跑吧艺人剩菜店家道歉",
-      "onboard_time": 1774602682,
-      "rank": 33,
-      "category": "民生新闻,综艺"
     },
     {
       "raw_hot": 95329,
@@ -45073,14 +45169,6 @@
       "onboard_time": 1772877442,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92577,
-      "num": 471634,
-      "word": "乘风2026",
-      "onboard_time": 1773307223,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 92568,
@@ -46881,6 +46969,14 @@
       "onboard_time": 1773725602,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88865,
+      "num": 88865,
+      "word": "大脑或用临终30秒为你放映一生",
+      "onboard_time": 1774603224,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 88864,
@@ -49737,6 +49833,14 @@
       "onboard_time": 1773134903,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 83444,
+      "num": 83444,
+      "word": "特朗普称与伊朗谈判顺利",
+      "onboard_time": 1774601300,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83416,
@@ -53171,6 +53275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77358,
+      "num": 77358,
+      "word": "逐玉为啥带火了何润东",
+      "onboard_time": 1774604180,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77357,
       "num": 77357,
       "word": "巴乙联赛惊现0触球进球",
@@ -54273,6 +54385,14 @@
       "onboard_time": 1773725842,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75369,
+      "num": 75369,
+      "word": "shanji回应队内疑似假赛",
+      "onboard_time": 1774605621,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 75364,
@@ -55473,6 +55593,14 @@
       "onboard_time": 1774091661,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73324,
+      "num": 73324,
+      "word": "肖战藏海传二创的歌火到国旅官方了",
+      "onboard_time": 1774605441,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 73321,
@@ -60475,6 +60603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63089,
+      "num": 95254,
+      "word": "老师捏裂幼儿耳朵被采取强制措施",
+      "onboard_time": 1774605861,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63058,
       "num": 670526,
       "word": "欧冠联赛",
@@ -63339,6 +63475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54882,
+      "num": 95516,
+      "word": "马杜罗再次出庭瘦了13公斤",
+      "onboard_time": 1774605801,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54846,
       "num": 54846,
       "word": "JDG与BLG会师半决赛",
@@ -64393,6 +64537,14 @@
       "onboard_time": 1773308423,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50295,
+      "num": 108927,
+      "word": "职称评审将迎重大调整",
+      "onboard_time": 1774605621,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50259,
@@ -70913,6 +71065,14 @@
       "onboard_time": 1773914539,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 22420,
+      "num": 95076,
+      "word": "大学生干家政是降维就业吗",
+      "onboard_time": 1774604542,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22417,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1774605903219,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 541864,
+        "num": 1086698,
+        "word": "保留奔跑吧艺人剩菜店家道歉",
+        "onboard_time": 1774602682,
+        "rank": 0,
+        "category": "民生新闻,综艺"
+      },
+      {
+        "raw_hot": 380075,
+        "num": 772724,
+        "word": "4500元冲锋衣被湿巾擦坏仅赔278元",
+        "onboard_time": 1774601242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40413,
+        "num": 643306,
+        "word": "海南自贸港封关运作100天",
+        "onboard_time": 1774596321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420892,
+        "num": 420892,
+        "word": "乘风2026官宣阵容",
+        "onboard_time": 1774593980,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255566,
+        "num": 255566,
+        "word": "中国博士后遭美方约谈盘问后自杀",
+        "onboard_time": 1774599321,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252246,
+        "num": 252246,
+        "word": "花少8在约宋威龙张凌赫",
+        "onboard_time": 1774604363,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220364,
+        "num": 220364,
+        "word": "国足赢了世界杯球队",
+        "onboard_time": 1774601482,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167325,
+        "num": 167325,
+        "word": "阚清子说浪姐强度大要养好身体",
+        "onboard_time": 1774600341,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134460,
+        "num": 164291,
+        "word": "AL主教练卸任",
+        "onboard_time": 1774605202,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129770,
+        "num": 163813,
+        "word": "余华定居三亚",
+        "onboard_time": 1774593741,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 205202,
+        "num": 157839,
+        "word": "乘风2026定档",
+        "onboard_time": 1774593141,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178183,
+        "num": 155593,
+        "word": "Naiyou终身禁赛",
+        "onboard_time": 1774596558,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154434,
+        "num": 154434,
+        "word": "张凌赫回应逐玉大结局",
+        "onboard_time": 1774597522,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146196,
+        "num": 146196,
+        "word": "熬夜的人要多吃一类食物",
+        "onboard_time": 1774596140,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144343,
+        "num": 144343,
+        "word": "曾沛慈终于上浪姐了",
+        "onboard_time": 1774595782,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125201,
+        "num": 125201,
+        "word": "金价还会猛跌吗",
+        "onboard_time": 1774603583,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139806,
+        "num": 125045,
+        "word": "王濛 浪姐",
+        "onboard_time": 1774597822,
+        "rank": 16,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 124662,
+        "num": 124662,
+        "word": "宁波男子网贷60万打赏女主播确诊生病",
+        "onboard_time": 1774599440,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109668,
+        "num": 109668,
+        "word": "挑了半天的衣服老爸一穿上就仅退款",
+        "onboard_time": 1774603341,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50295,
+        "num": 108927,
+        "word": "职称评审将迎重大调整",
+        "onboard_time": 1774605621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4017984,
+        "num": 106301,
+        "word": "王一博微博改名",
+        "onboard_time": 1774602801,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1005216,
+        "num": 104482,
+        "word": "刘昊然 商K",
+        "onboard_time": 1774601242,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406141,
+        "num": 102802,
+        "word": "女子手指截肢放肚里养1个月变小肉球",
+        "onboard_time": 1774604002,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382048,
+        "num": 100374,
+        "word": "UNIQ组合",
+        "onboard_time": 1774604363,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329761,
+        "num": 98478,
+        "word": "郭麒麟对接回应KTV传闻",
+        "onboard_time": 1774594220,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97125,
+        "num": 97125,
+        "word": "中共中央政治局3月27日召开会议",
+        "onboard_time": 1774602201,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1114054,
+        "num": 96948,
+        "word": "王一博乐华续约",
+        "onboard_time": 1774603042,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299974,
+        "num": 96747,
+        "word": "昆凌旧照 看完理解周杰伦了",
+        "onboard_time": 1774600821,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117470,
+        "num": 96631,
+        "word": "乘风2026师姐帮帮唱",
+        "onboard_time": 1774596382,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96436,
+        "num": 96436,
+        "word": "全红婵嘉人四月刊生日封面",
+        "onboard_time": 1774605202,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220626,
+        "num": 96295,
+        "word": "迪丽热巴提灯走机场",
+        "onboard_time": 1774603761,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204174,
+        "num": 96151,
+        "word": "拍摄郭麒麟私人聚会视频已违法",
+        "onboard_time": 1774601841,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101763,
+        "num": 95937,
+        "word": "工商银行2025年净利润3685.6亿",
+        "onboard_time": 1774605621,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132072,
+        "num": 95765,
+        "word": "店家回应留奔跑吧明星剩饭",
+        "onboard_time": 1774599202,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54882,
+        "num": 95516,
+        "word": "马杜罗再次出庭瘦了13公斤",
+        "onboard_time": 1774605801,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63089,
+        "num": 95254,
+        "word": "老师捏裂幼儿耳朵被采取强制措施",
+        "onboard_time": 1774605861,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22420,
+        "num": 95076,
+        "word": "大学生干家政是降维就业吗",
+        "onboard_time": 1774604542,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104928,
+        "num": 94849,
+        "word": "王橹杰新手机壳是天使",
+        "onboard_time": 1774603881,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94758,
+        "num": 94758,
+        "word": "相亲型社交",
+        "onboard_time": 1774595840,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88935,
+        "num": 88935,
+        "word": "吴京回应水肿",
+        "onboard_time": 1774602022,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88865,
+        "num": 88865,
+        "word": "大脑或用临终30秒为你放映一生",
+        "onboard_time": 1774603224,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 85046,
+        "num": 85046,
+        "word": "刘海宽拒绝吃陈情令老本",
+        "onboard_time": 1774596981,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83444,
+        "num": 83444,
+        "word": "特朗普称与伊朗谈判顺利",
+        "onboard_time": 1774601300,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83112,
+        "num": 83112,
+        "word": "迪丽热巴陈飞宇吃同一块葱油饼",
+        "onboard_time": 1774602081,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24930,
+        "num": 78491,
+        "word": "张本兄妹世乒赛目标夺金",
+        "onboard_time": 1774602201,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77358,
+        "num": 77358,
+        "word": "逐玉为啥带火了何润东",
+        "onboard_time": 1774604180,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75369,
+        "num": 75369,
+        "word": "shanji回应队内疑似假赛",
+        "onboard_time": 1774605621,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73324,
+        "num": 73324,
+        "word": "肖战藏海传二创的歌火到国旅官方了",
+        "onboard_time": 1774605441,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142777,
+        "num": 72999,
+        "word": "乘风2026",
+        "onboard_time": 1774605441,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70816,
+        "num": 70816,
+        "word": "乒乓球澳门世界杯",
+        "onboard_time": 1774601961,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}
