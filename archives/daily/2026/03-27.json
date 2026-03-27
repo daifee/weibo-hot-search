@@ -1,10 +1,10 @@
 {
   "startTime": 1774545171769,
-  "endTime": 1774595995234,
+  "endTime": 1774597319554,
   "band_list": [
     {
-      "raw_hot": 1351089,
-      "num": 190019,
+      "raw_hot": 1427984,
+      "num": 228890,
       "word": "郭麒麟对接回应KTV传闻",
       "onboard_time": 1774594220,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641654,
+      "num": 623858,
+      "word": "乘风2026官宣阵容",
+      "onboard_time": 1774593980,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 634322,
       "num": 1101491,
       "word": "日本东京发生命案",
@@ -123,14 +131,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 439917,
-      "num": 439917,
-      "word": "乘风2026官宣阵容",
-      "onboard_time": 1774593980,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 435761,
       "num": 194508,
       "word": "罗技就侮辱性广告致歉",
@@ -145,6 +145,14 @@
       "onboard_time": 1774542380,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 428840,
+      "num": 428840,
+      "word": "Naiyou终身禁赛",
+      "onboard_time": 1774596558,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 418791,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 284610,
-      "num": 189591,
+      "num": 225931,
       "word": "孔雪儿壁纸是cortis",
       "onboard_time": 1774592062,
       "rank": 11,
@@ -323,6 +331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 248619,
+      "num": 841513,
+      "word": "国足vs库拉索",
+      "onboard_time": 1774591581,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247733,
       "num": 181114,
       "word": "逐玉谢征吸长玉锁骨",
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240137,
+      "num": 240137,
+      "word": "相亲型社交",
+      "onboard_time": 1774595840,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236413,
       "num": 188867,
       "word": "国产伟哥2025年少卖近800万片",
@@ -363,8 +387,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233290,
+      "num": 180675,
+      "word": "你们相亲都那么好笑吗",
+      "onboard_time": 1774595960,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231629,
-      "num": 186383,
+      "num": 205273,
       "word": "郭晓婷王天辰杂志 离婚跟拍",
       "onboard_time": 1774584623,
       "rank": 17,
@@ -385,6 +417,14 @@
       "onboard_time": 1774531463,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 219519,
+      "num": 99204,
+      "word": "乘风2026师姐帮帮唱",
+      "onboard_time": 1774596382,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 217850,
@@ -409,14 +449,6 @@
       "onboard_time": 1774582101,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 205526,
-      "num": 841513,
-      "word": "国足vs库拉索",
-      "onboard_time": 1774591581,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 203223,
@@ -467,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187356,
+      "num": 192494,
+      "word": "县法院副院长与原告同行同吃同拜佛",
+      "onboard_time": 1774592781,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183744,
       "num": 183744,
       "word": "Crisp怒喷Kanavi",
@@ -489,14 +529,6 @@
       "onboard_time": 1774538782,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180675,
-      "num": 180675,
-      "word": "你们相亲都那么好笑吗",
-      "onboard_time": 1774595960,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 180070,
@@ -545,6 +577,14 @@
       "onboard_time": 1774574420,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165688,
+      "num": 165688,
+      "word": "曾沛慈终于上浪姐了",
+      "onboard_time": 1774595782,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 162882,
@@ -659,20 +699,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128081,
-      "num": 192494,
-      "word": "县法院副院长与原告同行同吃同拜佛",
-      "onboard_time": 1774592781,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125294,
       "num": 113865,
       "word": "06出生的人都已经上恋综了",
       "onboard_time": 1774580062,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125292,
+      "num": 166249,
+      "word": "多位寻亲家长给梅姨同居者下跪",
+      "onboard_time": 1774596681,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125147,
@@ -723,6 +763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120068,
+      "num": 99110,
+      "word": "库克公开乔布斯临终遗嘱",
+      "onboard_time": 1774597281,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 119043,
       "num": 55370,
       "word": "韩国女子怒抢中国游客手机",
@@ -737,6 +785,30 @@
       "onboard_time": 1774572321,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116785,
+      "num": 116785,
+      "word": "严浩翔新专概念视频",
+      "onboard_time": 1774587442,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 116731,
+      "num": 132393,
+      "word": "熬夜的人要多吃一类食物",
+      "onboard_time": 1774596140,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115781,
+      "num": 166944,
+      "word": "社保基金多次在A股大跌时果断加仓",
+      "onboard_time": 1774596558,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 114991,
@@ -787,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107022,
+      "num": 98504,
+      "word": "刘海宽拒绝吃陈情令老本",
+      "onboard_time": 1774596981,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104961,
       "num": 104961,
       "word": "车主违停被贴不干胶直呼方式太粗暴",
@@ -827,6 +907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101323,
+      "num": 100275,
+      "word": "好多明星给张杰演唱会送花篮",
+      "onboard_time": 1774591160,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101238,
       "num": 101238,
       "word": "金正恩现场试用卢卡申科所赠步枪",
@@ -859,14 +947,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 100275,
-      "num": 100275,
-      "word": "好多明星给张杰演唱会送花篮",
-      "onboard_time": 1774591160,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100031,
       "num": 98614,
       "word": "迪丽热巴来你好星期六干饭了",
@@ -875,12 +955,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99642,
-      "num": 99642,
-      "word": "严浩翔新专概念视频",
-      "onboard_time": 1774587442,
-      "rank": 35,
-      "category": "音乐"
+      "raw_hot": 99373,
+      "num": 99373,
+      "word": "遭老人撞击后反击男子获刑7个月",
+      "onboard_time": 1774594640,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98811,
@@ -899,6 +979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98523,
+      "num": 191058,
+      "word": "遭外机雷达照射歼10C飞行员以牙还牙",
+      "onboard_time": 1774594941,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 98125,
       "num": 196448,
       "word": "郴州13名公职人员被处理",
@@ -907,12 +995,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97390,
-      "num": 97390,
-      "word": "遭老人撞击后反击男子获刑7个月",
-      "onboard_time": 1774594640,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 97932,
+      "num": 97932,
+      "word": "国足领先库拉索",
+      "onboard_time": 1774597042,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 95262,
@@ -939,12 +1027,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94806,
-      "num": 94806,
-      "word": "相亲型社交",
-      "onboard_time": 1774595840,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 94543,
+      "num": 94543,
+      "word": "小狗在一个家里有四套房",
+      "onboard_time": 1774596921,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 93292,
+      "num": 93292,
+      "word": "范玮琪这一次乘风破浪",
+      "onboard_time": 1774596801,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 92542,
@@ -963,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91982,
+      "num": 88489,
+      "word": "乌兰图雅 浪姐",
+      "onboard_time": 1774596801,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90533,
       "num": 90533,
       "word": "全国推行社保第六险",
@@ -977,6 +1081,14 @@
       "onboard_time": 1774594521,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90244,
+      "num": 90244,
+      "word": "库拉索首发身价是国足2倍",
+      "onboard_time": 1774597101,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 89644,
@@ -1075,6 +1187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85454,
+      "num": 180940,
+      "word": "养母临终前告诉走失男子老家地址",
+      "onboard_time": 1774595480,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85379,
       "num": 85379,
       "word": "伊朗击落美军F18战机画面",
@@ -1147,6 +1267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 81373,
+      "num": 81373,
+      "word": "阚清子乘风2026vlog",
+      "onboard_time": 1774597101,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80742,
       "num": 80742,
       "word": "熬夜到哪种程度可能会猝死",
@@ -1169,6 +1297,14 @@
       "onboard_time": 1774579100,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 79560,
+      "num": 164076,
+      "word": "山东女孩种草莓在迪拜卖268一斤",
+      "onboard_time": 1774596202,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78260,
@@ -1305,6 +1441,14 @@
       "onboard_time": 1774527861,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70333,
+      "num": 229939,
+      "word": "日本防卫大臣称深感遗憾",
+      "onboard_time": 1774596140,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69628,
@@ -1515,6 +1659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 47678,
+      "num": 640578,
+      "word": "海南自贸港封关运作100天",
+      "onboard_time": 1774596321,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47400,
       "num": 47400,
       "word": "KPL春季赛",
@@ -1561,14 +1713,6 @@
       "onboard_time": 1774542739,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40657,
-      "num": 191058,
-      "word": "遭外机雷达照射歼10C飞行员以牙还牙",
-      "onboard_time": 1774594941,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 40053,
@@ -1643,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31504,
+      "num": 94905,
+      "word": "69元5件洗衣套餐致羽绒服变薄",
+      "onboard_time": 1774596261,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30961,
       "num": 54666,
       "word": "女子买24元卤菜顺走40块钱大肠头",
@@ -1689,14 +1841,6 @@
       "onboard_time": 1774537102,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28919,
-      "num": 180940,
-      "word": "养母临终前告诉走失男子老家地址",
-      "onboard_time": 1774595480,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27043,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1774597319554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 654315,
+        "num": 1104690,
+        "word": "乘风2026定档",
+        "onboard_time": 1774593141,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248619,
+        "num": 827868,
+        "word": "国足vs库拉索",
+        "onboard_time": 1774591581,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47678,
+        "num": 640578,
+        "word": "海南自贸港封关运作100天",
+        "onboard_time": 1774596321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 641654,
+        "num": 623858,
+        "word": "乘风2026官宣阵容",
+        "onboard_time": 1774593980,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428840,
+        "num": 428840,
+        "word": "Naiyou终身禁赛",
+        "onboard_time": 1774596558,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 363670,
+        "num": 363670,
+        "word": "余华定居三亚",
+        "onboard_time": 1774593741,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 240137,
+        "num": 240137,
+        "word": "相亲型社交",
+        "onboard_time": 1774595840,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275072,
+        "num": 237023,
+        "word": "霍尔木兹海峡的最后通牒",
+        "onboard_time": 1774592720,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193516,
+        "num": 233814,
+        "word": "张凌赫给张杰送花篮",
+        "onboard_time": 1774590800,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70333,
+        "num": 229939,
+        "word": "日本防卫大臣称深感遗憾",
+        "onboard_time": 1774596140,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1427984,
+        "num": 228890,
+        "word": "郭麒麟对接回应KTV传闻",
+        "onboard_time": 1774594220,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225931,
+        "num": 225931,
+        "word": "孔雪儿壁纸是cortis",
+        "onboard_time": 1774592062,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208544,
+        "num": 208544,
+        "word": "仅退款还得再给你200的程度",
+        "onboard_time": 1774583963,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205273,
+        "num": 205273,
+        "word": "郭晓婷王天辰杂志 离婚跟拍",
+        "onboard_time": 1774584623,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179424,
+        "num": 179424,
+        "word": "粉底液将军为何会激起群嘲",
+        "onboard_time": 1774581140,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115781,
+        "num": 166944,
+        "word": "社保基金多次在A股大跌时果断加仓",
+        "onboard_time": 1774596558,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125292,
+        "num": 166249,
+        "word": "多位寻亲家长给梅姨同居者下跪",
+        "onboard_time": 1774596681,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165688,
+        "num": 165688,
+        "word": "曾沛慈终于上浪姐了",
+        "onboard_time": 1774595782,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79560,
+        "num": 164076,
+        "word": "山东女孩种草莓在迪拜卖268一斤",
+        "onboard_time": 1774596202,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122072,
+        "num": 155269,
+        "word": "一声老婆45岁离异女打赏男主播61万",
+        "onboard_time": 1774583542,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233290,
+        "num": 149460,
+        "word": "你们相亲都那么好笑吗",
+        "onboard_time": 1774595960,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187356,
+        "num": 140526,
+        "word": "县法院副院长与原告同行同吃同拜佛",
+        "onboard_time": 1774592781,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134488,
+        "num": 134488,
+        "word": "吴京 水肿",
+        "onboard_time": 1774584443,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132793,
+        "num": 132793,
+        "word": "播剧20天张凌赫涨粉536.7万",
+        "onboard_time": 1774595121,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116731,
+        "num": 132393,
+        "word": "熬夜的人要多吃一类食物",
+        "onboard_time": 1774596140,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132331,
+        "num": 132331,
+        "word": "沈南 谢谢你为寒门学子打造梯子",
+        "onboard_time": 1774583181,
+        "rank": 25,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 116785,
+        "num": 116785,
+        "word": "严浩翔新专概念视频",
+        "onboard_time": 1774587442,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113240,
+        "num": 113240,
+        "word": "罗技短视频组扣除全部绩效",
+        "onboard_time": 1774584382,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101647,
+        "num": 101647,
+        "word": "寿司郎 SIM卡",
+        "onboard_time": 1774577721,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99373,
+        "num": 99373,
+        "word": "遭老人撞击后反击男子获刑7个月",
+        "onboard_time": 1774594640,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219519,
+        "num": 99204,
+        "word": "乘风2026师姐帮帮唱",
+        "onboard_time": 1774596382,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120068,
+        "num": 99110,
+        "word": "库克公开乔布斯临终遗嘱",
+        "onboard_time": 1774597281,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112196,
+        "num": 98817,
+        "word": "白日提灯首播5集",
+        "onboard_time": 1774588583,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108991,
+        "num": 98651,
+        "word": "孔刘曾说后悔没亲金高银",
+        "onboard_time": 1774591281,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98523,
+        "num": 98523,
+        "word": "遭外机雷达照射歼10C飞行员以牙还牙",
+        "onboard_time": 1774594941,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 107022,
+        "num": 98504,
+        "word": "刘海宽拒绝吃陈情令老本",
+        "onboard_time": 1774596981,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102698,
+        "num": 98387,
+        "word": "乘风2026姐来真的",
+        "onboard_time": 1774594101,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97932,
+        "num": 97932,
+        "word": "国足领先库拉索",
+        "onboard_time": 1774597042,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101323,
+        "num": 97114,
+        "word": "好多明星给张杰演唱会送花篮",
+        "onboard_time": 1774591160,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31504,
+        "num": 94905,
+        "word": "69元5件洗衣套餐致羽绒服变薄",
+        "onboard_time": 1774596261,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94543,
+        "num": 94543,
+        "word": "小狗在一个家里有四套房",
+        "onboard_time": 1774596921,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94079,
+        "num": 94079,
+        "word": "迪丽热巴答应粉丝63张ccd自拍",
+        "onboard_time": 1774589602,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93292,
+        "num": 93292,
+        "word": "范玮琪这一次乘风破浪",
+        "onboard_time": 1774596801,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90244,
+        "num": 90244,
+        "word": "库拉索首发身价是国足2倍",
+        "onboard_time": 1774597101,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91982,
+        "num": 88489,
+        "word": "乌兰图雅 浪姐",
+        "onboard_time": 1774596801,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85454,
+        "num": 85454,
+        "word": "养母临终前告诉走失男子老家地址",
+        "onboard_time": 1774595480,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83902,
+        "num": 83902,
+        "word": "从两只猫身上看出血缘关系",
+        "onboard_time": 1774595301,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81373,
+        "num": 81373,
+        "word": "阚清子乘风2026vlog",
+        "onboard_time": 1774597101,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81320,
+        "num": 81320,
+        "word": "拿甘蔗爬山",
+        "onboard_time": 1774590740,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77412,
+        "num": 77412,
+        "word": "大侦探",
+        "onboard_time": 1774577901,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#足迹里的政绩观#"
+    }
+  }
+}

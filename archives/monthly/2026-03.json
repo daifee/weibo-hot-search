@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774595995234,
+  "endTime": 1774597319554,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1019,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1427984,
+      "num": 228890,
+      "word": "郭麒麟对接回应KTV传闻",
+      "onboard_time": 1774594220,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1416460,
       "num": 368710,
       "word": "iPhone17e发布",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1772534608,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1351089,
-      "num": 190019,
-      "word": "郭麒麟对接回应KTV传闻",
-      "onboard_time": 1774594220,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1346609,
@@ -4737,6 +4737,14 @@
       "onboard_time": 1774065502,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 641654,
+      "num": 623858,
+      "word": "乘风2026官宣阵容",
+      "onboard_time": 1774593980,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 641603,
@@ -9019,14 +9027,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 439917,
-      "num": 439917,
-      "word": "乘风2026官宣阵容",
-      "onboard_time": 1774593980,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 439420,
       "num": 439420,
       "word": "伊朗声明通行霍尔木兹海峡船只条件",
@@ -9425,6 +9425,14 @@
       "onboard_time": 1772763260,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 428840,
+      "num": 428840,
+      "word": "Naiyou终身禁赛",
+      "onboard_time": 1774596558,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 428800,
@@ -15844,7 +15852,7 @@
     },
     {
       "raw_hot": 284610,
-      "num": 189591,
+      "num": 225931,
       "word": "孔雪儿壁纸是cortis",
       "onboard_time": 1774592062,
       "rank": 11,
@@ -18235,6 +18243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 248619,
+      "num": 841513,
+      "word": "国足vs库拉索",
+      "onboard_time": 1774591581,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248520,
       "num": 272873,
       "word": "逐玉陈皮糖二次求婚",
@@ -18875,6 +18891,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 240137,
+      "num": 240137,
+      "word": "相亲型社交",
+      "onboard_time": 1774595840,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240067,
       "num": 293166,
       "word": "黄金大幅回撤",
@@ -19483,6 +19507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233290,
+      "num": 180675,
+      "word": "你们相亲都那么好笑吗",
+      "onboard_time": 1774595960,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 233236,
       "num": 189097,
       "word": "薛之谦演唱会 视角",
@@ -19612,7 +19644,7 @@
     },
     {
       "raw_hot": 231629,
-      "num": 186383,
+      "num": 205273,
       "word": "郭晓婷王天辰杂志 离婚跟拍",
       "onboard_time": 1774584623,
       "rank": 17,
@@ -20625,6 +20657,14 @@
       "onboard_time": 1772684664,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219519,
+      "num": 99204,
+      "word": "乘风2026师姐帮帮唱",
+      "onboard_time": 1774596382,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 219507,
@@ -21881,14 +21921,6 @@
       "onboard_time": 1773135203,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205526,
-      "num": 841513,
-      "word": "国足vs库拉索",
-      "onboard_time": 1774591581,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 205434,
@@ -23699,6 +23731,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 187356,
+      "num": 192494,
+      "word": "县法院副院长与原告同行同吃同拜佛",
+      "onboard_time": 1774592781,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187330,
       "num": 747303,
       "word": "你的下一部手机要多花1000元",
@@ -24393,14 +24433,6 @@
       "onboard_time": 1772457686,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180675,
-      "num": 180675,
-      "word": "你们相亲都那么好笑吗",
-      "onboard_time": 1774595960,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 180557,
@@ -26289,6 +26321,14 @@
       "onboard_time": 1772552427,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 165688,
+      "num": 165688,
+      "word": "曾沛慈终于上浪姐了",
+      "onboard_time": 1774595782,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 165651,
@@ -32699,14 +32739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128081,
-      "num": 192494,
-      "word": "县法院副院长与原告同行同吃同拜佛",
-      "onboard_time": 1774592781,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128055,
       "num": 201404,
       "word": "JDG战胜情久",
@@ -33393,6 +33425,14 @@
       "onboard_time": 1774580062,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125292,
+      "num": 166249,
+      "word": "多位寻亲家长给梅姨同居者下跪",
+      "onboard_time": 1774596681,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125256,
@@ -34747,6 +34787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120068,
+      "num": 99110,
+      "word": "库克公开乔布斯临终遗嘱",
+      "onboard_time": 1774597281,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120049,
       "num": 105978,
       "word": "黄多多 完美继承爸妈优点",
@@ -35659,6 +35707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116785,
+      "num": 116785,
+      "word": "严浩翔新专概念视频",
+      "onboard_time": 1774587442,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116779,
       "num": 259326,
       "word": "凤凰传奇抢票",
@@ -35673,6 +35729,14 @@
       "onboard_time": 1773912262,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116731,
+      "num": 132393,
+      "word": "熬夜的人要多吃一类食物",
+      "onboard_time": 1774596140,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116684,
@@ -35897,6 +35961,14 @@
       "onboard_time": 1772778141,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115781,
+      "num": 166944,
+      "word": "社保基金多次在A股大跌时果断加仓",
+      "onboard_time": 1774596558,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 115763,
@@ -38627,6 +38699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107022,
+      "num": 98504,
+      "word": "刘海宽拒绝吃陈情令老本",
+      "onboard_time": 1774596981,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106996,
       "num": 85698,
       "word": "美女卖糍粑把大哥哄成胎盘了",
@@ -40715,6 +40795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101323,
+      "num": 100275,
+      "word": "好多明星给张杰演唱会送花篮",
+      "onboard_time": 1774591160,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101314,
       "num": 101314,
       "word": "金价上涨如何购买金饰",
@@ -41163,14 +41251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100275,
-      "num": 100275,
-      "word": "好多明星给张杰演唱会送花篮",
-      "onboard_time": 1774591160,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100226,
       "num": 100226,
       "word": "我使馆提醒防范日本撞人族",
@@ -41467,14 +41547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99642,
-      "num": 99642,
-      "word": "严浩翔新专概念视频",
-      "onboard_time": 1774587442,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 99627,
       "num": 99627,
       "word": "游客在新疆可可托海偶遇雪兔",
@@ -41609,6 +41681,14 @@
       "onboard_time": 1772943202,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99373,
+      "num": 99373,
+      "word": "遭老人撞击后反击男子获刑7个月",
+      "onboard_time": 1774594640,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99358,
@@ -42003,6 +42083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98523,
+      "num": 191058,
+      "word": "遭外机雷达照射歼10C飞行员以牙还牙",
+      "onboard_time": 1774594941,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 98518,
       "num": 98518,
       "word": "小时候不理解的事长大真香了",
@@ -42216,6 +42304,14 @@
       "word": "WTT重庆冠军赛抽签结果来了",
       "onboard_time": 1772957120,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97932,
+      "num": 97932,
+      "word": "国足领先库拉索",
+      "onboard_time": 1774597042,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -42441,14 +42537,6 @@
       "onboard_time": 1773499462,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97390,
-      "num": 97390,
-      "word": "遭老人撞击后反击男子获刑7个月",
-      "onboard_time": 1774594640,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97351,
@@ -43627,14 +43715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94806,
-      "num": 94806,
-      "word": "相亲型社交",
-      "onboard_time": 1774595840,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 94771,
       "num": 94771,
       "word": "谢征樊长玉圆房吻来了",
@@ -43745,6 +43825,14 @@
       "onboard_time": 1772296101,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94543,
+      "num": 94543,
+      "word": "小狗在一个家里有四套房",
+      "onboard_time": 1774596921,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 94514,
@@ -44451,6 +44539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93292,
+      "num": 93292,
+      "word": "范玮琪这一次乘风破浪",
+      "onboard_time": 1774596801,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93286,
       "num": 373362,
       "word": "中国体操队夺美国杯混团冠军",
@@ -45089,6 +45185,14 @@
       "onboard_time": 1772613444,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91982,
+      "num": 88489,
+      "word": "乌兰图雅 浪姐",
+      "onboard_time": 1774596801,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 91965,
@@ -45913,6 +46017,14 @@
       "onboard_time": 1773230121,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90244,
+      "num": 90244,
+      "word": "库拉索首发身价是国足2倍",
+      "onboard_time": 1774597101,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 90236,
@@ -48515,6 +48627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85454,
+      "num": 180940,
+      "word": "养母临终前告诉走失男子老家地址",
+      "onboard_time": 1774595480,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85442,
       "num": 85442,
       "word": "杨紫在秀场交到了新朋友",
@@ -50555,6 +50675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81373,
+      "num": 81373,
+      "word": "阚清子乘风2026vlog",
+      "onboard_time": 1774597101,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81369,
       "num": 81369,
       "word": "妈妈依偎在被丢弃厕所女婴肩头",
@@ -51537,6 +51665,14 @@
       "onboard_time": 1772859443,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 79560,
+      "num": 164076,
+      "word": "山东女孩种草莓在迪拜卖268一斤",
+      "onboard_time": 1774596202,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79550,
@@ -56665,6 +56801,14 @@
       "onboard_time": 1773298880,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70333,
+      "num": 229939,
+      "word": "日本防卫大臣称深感遗憾",
+      "onboard_time": 1774596140,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70319,
@@ -64731,6 +64875,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47678,
+      "num": 640578,
+      "word": "海南自贸港封关运作100天",
+      "onboard_time": 1774596321,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47623,
       "num": 170328,
       "word": "陈都灵聊宠物出行太共情了",
@@ -66321,14 +66473,6 @@
       "onboard_time": 1772965521,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 40657,
-      "num": 191058,
-      "word": "遭外机雷达照射歼10C飞行员以牙还牙",
-      "onboard_time": 1774594941,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 40646,
@@ -68379,6 +68523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31504,
+      "num": 94905,
+      "word": "69元5件洗衣套餐致羽绒服变薄",
+      "onboard_time": 1774596261,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31456,
       "num": 42052,
       "word": "我国院外心源性猝死存活率不足3%",
@@ -69073,14 +69225,6 @@
       "onboard_time": 1774199238,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 28919,
-      "num": 180940,
-      "word": "养母临终前告诉走失男子老家地址",
-      "onboard_time": 1774595480,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28850,
