@@ -1,6 +1,6 @@
 {
   "startTime": 1774545171769,
-  "endTime": 1774619418379,
+  "endTime": 1774623576103,
   "band_list": [
     {
       "raw_hot": 4022499,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 933604,
-      "num": 233137,
+      "num": 256583,
       "word": "曝关晓彤喜提新车",
       "onboard_time": 1774617204,
       "rank": 11,
@@ -147,6 +147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 624497,
+      "num": 551923,
+      "word": "阚清子问我这么胖吗",
+      "onboard_time": 1774618584,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614102,
       "num": 834656,
       "word": "店家回应留奔跑吧明星剩饭",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 515453,
-      "num": 227093,
+      "num": 254308,
       "word": "锤娜丽莎瘦30斤公开减肥原因",
       "onboard_time": 1774617023,
       "rank": 17,
@@ -225,6 +233,14 @@
       "onboard_time": 1774612582,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 456905,
+      "num": 255509,
+      "word": "国内金价跌下990元",
+      "onboard_time": 1774621104,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 452824,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 396134,
-      "num": 224717,
+      "num": 251221,
       "word": "黄子韬因为减肥后脑勺秃了",
       "onboard_time": 1774614861,
       "rank": 14,
@@ -353,14 +369,6 @@
       "onboard_time": 1774617083,
       "rank": 30,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 386247,
-      "num": 386247,
-      "word": "阚清子问我这么胖吗",
-      "onboard_time": 1774618584,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 383041,
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364625,
+      "num": 364625,
+      "word": "孙俪新剧",
+      "onboard_time": 1774617863,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363130,
       "num": 559385,
       "word": "大部分人觉得旅游累的原因",
@@ -432,6 +448,14 @@
       "word": "黄灿灿浪姐连麦杨紫",
       "onboard_time": 1774610361,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344940,
+      "num": 1055190,
+      "word": "乘风2026一下来了33位姐姐",
+      "onboard_time": 1774620443,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -457,6 +481,14 @@
       "onboard_time": 1774614682,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318874,
+      "num": 252420,
+      "word": "钧正平评粉底液将军",
+      "onboard_time": 1774620984,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 313619,
@@ -763,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224774,
+      "num": 224774,
+      "word": "张凌赫回复严屹宽",
+      "onboard_time": 1774620923,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222827,
       "num": 222827,
       "word": "38岁教培创始人突发心梗后怕不已",
@@ -851,14 +891,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 199384,
-      "num": 235692,
-      "word": "孙俪新剧",
-      "onboard_time": 1774617863,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194251,
       "num": 594647,
       "word": "TES欢迎JackeyLove归来",
@@ -921,6 +953,14 @@
       "onboard_time": 1774592781,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184328,
+      "num": 184328,
+      "word": "张翅看张杰演唱会",
+      "onboard_time": 1774623262,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 183744,
@@ -1011,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174359,
+      "num": 778568,
+      "word": "老头乐向小米汽车致歉",
+      "onboard_time": 1774619365,
+      "rank": 28,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 171821,
       "num": 171821,
       "word": "王源官宣巡演",
@@ -1033,6 +1081,14 @@
       "onboard_time": 1774574420,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163368,
+      "num": 244618,
+      "word": "霍尔木兹决战摊牌了",
+      "onboard_time": 1774622663,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162882,
@@ -1088,6 +1144,14 @@
       "word": "宁波男子网贷60万打赏女主播确诊生病",
       "onboard_time": 1774599440,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156600,
+      "num": 260162,
+      "word": "女子不听提醒试戴玉镯摔出裂纹",
+      "onboard_time": 1774618344,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1228,7 +1292,7 @@
     },
     {
       "raw_hot": 128481,
-      "num": 112461,
+      "num": 114621,
       "word": "丁程鑫张真源合照",
       "onboard_time": 1774618642,
       "rank": 38,
@@ -1241,6 +1305,14 @@
       "onboard_time": 1774609642,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 127476,
+      "num": 241368,
+      "word": "Apple50周年",
+      "onboard_time": 1774620804,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 126959,
@@ -1257,6 +1329,14 @@
       "onboard_time": 1774613603,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125382,
+      "num": 259456,
+      "word": "警方过筛23.7斤血沙破25年前命案",
+      "onboard_time": 1774621043,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125294,
@@ -1297,6 +1377,14 @@
       "onboard_time": 1774572801,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124338,
+      "num": 124338,
+      "word": "徐良演唱会上纪念本兮",
+      "onboard_time": 1774621104,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 123964,
@@ -1347,6 +1435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 119069,
+      "num": 119069,
+      "word": "黄晓明现场宣传白日提灯",
+      "onboard_time": 1774620503,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119043,
       "num": 55370,
       "word": "韩国女子怒抢中国游客手机",
@@ -1369,6 +1465,14 @@
       "onboard_time": 1774611862,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118191,
+      "num": 236642,
+      "word": "高校回应校内库迪咖啡店被砸",
+      "onboard_time": 1774621522,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116785,
@@ -1499,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108831,
+      "num": 258598,
+      "word": "洛克王国世界登顶iOS游戏畅销榜",
+      "onboard_time": 1774622423,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108675,
       "num": 116733,
       "word": "肖战得闲谨制现象级黑马",
@@ -1523,14 +1635,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 105548,
-      "num": 156518,
-      "word": "老头乐向小米汽车致歉",
-      "onboard_time": 1774619365,
-      "rank": 28,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 104961,
       "num": 104961,
       "word": "车主违停被贴不干胶直呼方式太粗暴",
@@ -1545,6 +1649,14 @@
       "onboard_time": 1774603881,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104381,
+      "num": 104381,
+      "word": "乘风2026踢馆姐姐",
+      "onboard_time": 1774622965,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 104219,
@@ -1713,6 +1825,22 @@
       "onboard_time": 1774612762,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96416,
+      "num": 140906,
+      "word": "罗技中国授权运营方分公司均已注销",
+      "onboard_time": 1774619123,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 96359,
+      "num": 170746,
+      "word": "知情人士谈娃哈哈多家工厂停产",
+      "onboard_time": 1774622903,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96305,
@@ -1987,6 +2115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85621,
+      "num": 118803,
+      "word": "男子菜夹馍比赛吃2斤萝卜丝被送医",
+      "onboard_time": 1774622244,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85454,
       "num": 180940,
       "word": "养母临终前告诉走失男子老家地址",
@@ -2105,6 +2241,14 @@
       "onboard_time": 1774597101,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81196,
+      "num": 108425,
+      "word": "伊朗已制定霍尔木兹海峡安全航线",
+      "onboard_time": 1774620563,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80742,
@@ -2371,6 +2515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73112,
+      "num": 96286,
+      "word": "你无法从正面摸到小狗耳朵",
+      "onboard_time": 1774623382,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73053,
       "num": 185434,
       "word": "鹿晗片场状态比鲜啤还鲜活",
@@ -2419,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70673,
+      "num": 84865,
+      "word": "医院回应丈夫因男医生为妻产检撞墙",
+      "onboard_time": 1774623204,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70565,
       "num": 83873,
       "word": "土壤的土腥味从何而来",
@@ -2451,6 +2611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 69651,
+      "num": 81403,
+      "word": "杰曼绝杀广东男篮",
+      "onboard_time": 1774622123,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69628,
       "num": 69628,
       "word": "国足vs库拉索首发",
@@ -2465,14 +2633,6 @@
       "onboard_time": 1774618164,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68521,
-      "num": 121962,
-      "word": "女子不听提醒试戴玉镯摔出裂纹",
-      "onboard_time": 1774618344,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68380,
@@ -2521,14 +2681,6 @@
       "onboard_time": 1774600161,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66238,
-      "num": 98866,
-      "word": "罗技中国授权运营方分公司均已注销",
-      "onboard_time": 1774619123,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 64250,
@@ -2729,6 +2881,14 @@
       "onboard_time": 1774609342,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50334,
+      "num": 193335,
+      "word": "官方调查男子举报自己吃空饷",
+      "onboard_time": 1774622303,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 49476,
@@ -3145,6 +3305,14 @@
       "onboard_time": 1774548555,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 8217,
+      "num": 114647,
+      "word": "评论区藏着互联网的心跳声",
+      "onboard_time": 1774623503,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 1731,
