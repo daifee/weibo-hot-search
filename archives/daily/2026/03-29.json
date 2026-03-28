@@ -1,10 +1,10 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774717243652,
+  "endTime": 1774719524682,
   "band_list": [
     {
-      "raw_hot": 849102,
-      "num": 849102,
+      "raw_hot": 1789667,
+      "num": 1789667,
       "word": "消毒",
       "onboard_time": 1774716919,
       "rank": 0,
@@ -163,6 +163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126795,
+      "num": 71701,
+      "word": "泰国与伊朗达成协议",
+      "onboard_time": 1774715900,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116465,
       "num": 116465,
       "word": "低精力人群的周末安排belike",
@@ -201,14 +209,6 @@
       "onboard_time": 1774714460,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88941,
-      "num": 71525,
-      "word": "泰国与伊朗达成协议",
-      "onboard_time": 1774715900,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 86706,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 66742,
-      "num": 66742,
+      "num": 71707,
       "word": "金价急速飙涨",
       "onboard_time": 1774691420,
       "rank": 38,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 66699,
-      "num": 66699,
+      "num": 71700,
       "word": "丁禹兮领奖时宣传白日提灯",
       "onboard_time": 1774707801,
       "rank": 39,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 64403,
-      "num": 64403,
+      "num": 71694,
       "word": "郝熠然 翻牌",
       "onboard_time": 1774705822,
       "rank": 40,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 63414,
-      "num": 63414,
+      "num": 71695,
       "word": "陈哲远锁凶正确率百分百",
       "onboard_time": 1774713682,
       "rank": 42,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 61757,
-      "num": 61757,
+      "num": 71684,
       "word": "一念江南",
       "onboard_time": 1774689260,
       "rank": 43,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 61119,
-      "num": 63689,
+      "num": 71682,
       "word": "11岁的我觉得这顿饭夯爆了",
       "onboard_time": 1774708883,
       "rank": 41,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 58110,
-      "num": 58110,
+      "num": 71678,
       "word": "JDG对战AG",
       "onboard_time": 1774695743,
       "rank": 44,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 54610,
-      "num": 54610,
+      "num": 71689,
       "word": "美国最强导弹击落了美国最强战机",
       "onboard_time": 1774692801,
       "rank": 47,
@@ -380,11 +380,19 @@
     },
     {
       "raw_hot": 53711,
-      "num": 53711,
+      "num": 71691,
       "word": "俄罗斯4月1日起禁止汽油出口",
       "onboard_time": 1774693462,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48049,
+      "num": 71702,
+      "word": "你好1983",
+      "onboard_time": 1774717938,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 47516,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 45106,
-      "num": 51561,
+      "num": 71673,
       "word": "白日提灯",
       "onboard_time": 1774670781,
       "rank": 48,
@@ -411,16 +419,56 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31689,
-      "num": 56920,
+      "raw_hot": 40878,
+      "num": 72877,
       "word": "幼儿园自理比赛女孩靠佛系速度获胜",
       "onboard_time": 1774697542,
       "rank": 39,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37855,
+      "num": 71690,
+      "word": "太原一商圈起火现场浓烟滚滚",
+      "onboard_time": 1774705822,
+      "rank": 36,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 33223,
+      "num": 71679,
+      "word": "世上顶好顶好的老太婆走了",
+      "onboard_time": 1774718777,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31989,
+      "num": 71678,
+      "word": "Angelababy梦回贝微微",
+      "onboard_time": 1774697122,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31354,
+      "num": 71676,
+      "word": "孟子义李昀锐奔跑吧海边路透",
+      "onboard_time": 1774717277,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 30117,
+      "num": 71672,
+      "word": "中国AI不会因几张邀请函停滞",
+      "onboard_time": 1774706663,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25116,
-      "num": 51559,
+      "num": 71667,
       "word": "伊朗军方称击中美军舰艇",
       "onboard_time": 1774717098,
       "rank": 49,
@@ -435,7 +483,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13104,
+      "raw_hot": 19135,
       "num": 513591,
       "word": "清朗网络空间汇聚向上向善",
       "onboard_time": 1774701441,
