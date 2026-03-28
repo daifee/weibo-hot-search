@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774691167545,
+  "endTime": 1774692063433,
   "band_list": [
     {
       "raw_hot": 3044861,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 521526,
-      "num": 220119,
+      "num": 226398,
       "word": "升糖刺客",
       "onboard_time": 1774681881,
       "rank": 18,
@@ -161,6 +161,14 @@
       "onboard_time": 1774665322,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 472058,
+      "num": 472058,
+      "word": "一念江南",
+      "onboard_time": 1774689260,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 463926,
@@ -227,12 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 409110,
-      "num": 409110,
-      "word": "一念江南",
-      "onboard_time": 1774689260,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 395181,
+      "num": 1063229,
+      "word": "45岁男子心梗离世2天前还在跑马拉松",
+      "onboard_time": 1774685001,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385717,
@@ -283,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334929,
-      "num": 1053588,
-      "word": "45岁男子心梗离世2天前还在跑马拉松",
-      "onboard_time": 1774685001,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 334205,
       "num": 457523,
       "word": "将军可以帅但不能没杀气",
@@ -305,6 +305,14 @@
       "onboard_time": 1774679602,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320282,
+      "num": 320282,
+      "word": "奔跑吧直播",
+      "onboard_time": 1774690881,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 318505,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 284677,
-      "num": 138186,
+      "num": 265202,
       "word": "女子断碳水2月确诊糖尿病前期",
       "onboard_time": 1774688241,
       "rank": 25,
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234949,
+      "num": 234949,
+      "word": "李昌钰母亲把13个子女培养成博士",
+      "onboard_time": 1774690640,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227825,
       "num": 217568,
       "word": "严浩翔跑男上班状态",
@@ -619,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200987,
+      "num": 200987,
+      "word": "点奶茶要求奶和茶分离",
+      "onboard_time": 1774684761,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199390,
       "num": 606148,
       "word": "事业单位联考",
@@ -673,14 +697,6 @@
       "onboard_time": 1774668802,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 186462,
-      "num": 186462,
-      "word": "点奶茶要求奶和茶分离",
-      "onboard_time": 1774684761,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 185127,
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 153147,
-      "num": 102902,
+      "num": 124795,
       "word": "我家那小子",
       "onboard_time": 1774690401,
       "rank": 30,
@@ -867,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139259,
-      "num": 139259,
-      "word": "奔跑吧直播",
-      "onboard_time": 1774690881,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138918,
       "num": 138918,
       "word": "白日提灯第3集17分57秒",
@@ -955,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123988,
+      "num": 123988,
+      "word": "金价急速飙涨",
+      "onboard_time": 1774691420,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119862,
       "num": 106742,
       "word": "医生你真的叫叶绿素吗",
@@ -987,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116327,
+      "num": 116327,
+      "word": "华为王云鹤离职",
+      "onboard_time": 1774691001,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 115561,
       "num": 140488,
       "word": "一人之下动漫十周年",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1774671502,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113391,
+      "num": 113391,
+      "word": "年仅21岁牺牲母亲跨400公里扫墓",
+      "onboard_time": 1774690161,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113283,
@@ -1028,7 +1060,7 @@
     },
     {
       "raw_hot": 111027,
-      "num": 111027,
+      "num": 125167,
       "word": "日本搞大杀器妄图覆盖中国全境",
       "onboard_time": 1774689021,
       "rank": 24,
@@ -1113,14 +1145,6 @@
       "onboard_time": 1774602682,
       "rank": 27,
       "category": "民生新闻,综艺"
-    },
-    {
-      "raw_hot": 104506,
-      "num": 102874,
-      "word": "华为王云鹤离职",
-      "onboard_time": 1774691001,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 103124,
@@ -1211,14 +1235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 97160,
-      "num": 97160,
-      "word": "年仅21岁牺牲母亲跨400公里扫墓",
-      "onboard_time": 1774690161,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96936,
       "num": 91193,
       "word": "花少导演谈北斗七行七老童心回归",
@@ -1283,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91703,
+      "num": 124796,
+      "word": "以色列多线作战或已在崩溃边缘",
+      "onboard_time": 1774689982,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91558,
       "num": 338467,
       "word": "我国芯片研发重要成果发布",
@@ -1339,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90052,
-      "num": 90052,
-      "word": "李昌钰母亲把13个子女培养成博士",
-      "onboard_time": 1774690640,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89567,
       "num": 105067,
       "word": "全红婵我嘉有女初长成",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1774626982,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88875,
+      "num": 88875,
+      "word": "每一个都是我妈会信的程度",
+      "onboard_time": 1774691600,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 88799,
@@ -1467,6 +1491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86428,
+      "num": 86428,
+      "word": "怎么我成了大人就不一样了",
+      "onboard_time": 1774689201,
+      "rank": 38,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 86407,
       "num": 105272,
       "word": "樊振东气鼓鼓自己打自己",
@@ -1499,6 +1531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 85955,
+      "num": 138122,
+      "word": "李昌钰唯一被推翻的案件",
+      "onboard_time": 1774688481,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85560,
       "num": 91644,
       "word": "女子不听提醒试戴玉镯摔出裂纹",
@@ -1513,14 +1553,6 @@
       "onboard_time": 1774658002,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84047,
-      "num": 84047,
-      "word": "以色列多线作战或已在崩溃边缘",
-      "onboard_time": 1774689982,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 83860,
@@ -1561,6 +1593,14 @@
       "onboard_time": 1774687580,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82138,
+      "num": 82138,
+      "word": "建议一次请假请一天",
+      "onboard_time": 1774691901,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 82095,
@@ -1675,6 +1715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 75892,
+      "num": 75892,
+      "word": "刘海到底为什么宽",
+      "onboard_time": 1774691901,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75624,
       "num": 75624,
       "word": "单休我都不敢出门你竟然出国",
@@ -1689,14 +1737,6 @@
       "onboard_time": 1774691121,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74991,
-      "num": 138122,
-      "word": "李昌钰唯一被推翻的案件",
-      "onboard_time": 1774688481,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74930,
@@ -1753,6 +1793,22 @@
       "onboard_time": 1774677261,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 72627,
+      "num": 72627,
+      "word": "周传雄回应帮王俊凯写歌",
+      "onboard_time": 1774691242,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 72531,
+      "num": 76125,
+      "word": "U19国足vs澳大利亚U19首发",
+      "onboard_time": 1774690580,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 72428,
@@ -1843,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66770,
+      "num": 69841,
+      "word": "日本在西南诸岛加码部署",
+      "onboard_time": 1774692021,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66711,
       "num": 81353,
       "word": "东契奇不知不觉就40分了",
@@ -1913,14 +1977,6 @@
       "onboard_time": 1774627281,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 58214,
-      "num": 71651,
-      "word": "U19国足vs澳大利亚U19首发",
-      "onboard_time": 1774690580,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 57891,
@@ -2099,6 +2155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17600,
+      "num": 654251,
+      "word": "正能量创作者大会",
+      "onboard_time": 1774681942,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17503,
       "num": 26339,
       "word": "周深首唱求真",
@@ -2113,14 +2177,6 @@
       "onboard_time": 1774629738,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17210,
-      "num": 654251,
-      "word": "正能量创作者大会",
-      "onboard_time": 1774681942,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15488,
