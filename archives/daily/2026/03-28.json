@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774668165769,
+  "endTime": 1774674073687,
   "band_list": [
     {
       "raw_hot": 3044861,
@@ -27,6 +27,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1068750,
+      "num": 252611,
+      "word": "张凌赫多年前发文抨击影视圈",
+      "onboard_time": 1774669041,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 771420,
       "num": 453950,
       "word": "祝绪丹 虞书欣",
@@ -43,12 +51,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 697763,
+      "num": 1111642,
+      "word": "李昌钰曾说章莹颖尸体能找到",
+      "onboard_time": 1774670182,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 694062,
       "num": 1111050,
       "word": "李昌钰除了眼睛所有器官都捐出",
       "onboard_time": 1774662801,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 636458,
+      "num": 636458,
+      "word": "特朗普称必须尊重中国",
+      "onboard_time": 1774671982,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 625995,
@@ -73,6 +97,14 @@
       "onboard_time": 1774622663,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 546597,
+      "num": 170493,
+      "word": "李小龙遗孀琳达近况",
+      "onboard_time": 1774671201,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 474362,
@@ -115,12 +147,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413932,
+      "num": 832022,
+      "word": "白日提灯开播",
+      "onboard_time": 1774670781,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 412498,
       "num": 412498,
       "word": "孙俪让浪姐节目组把陶昕然吊起来",
       "onboard_time": 1774662561,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372365,
+      "num": 372365,
+      "word": "白日提灯播出反馈",
+      "onboard_time": 1774673302,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 343667,
+      "num": 343667,
+      "word": "事业编",
+      "onboard_time": 1774671381,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 342306,
@@ -179,11 +235,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270973,
+      "num": 270973,
+      "word": "这届年轻人办婚礼已经有小孩桌了",
+      "onboard_time": 1774669522,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 266154,
+      "num": 250631,
+      "word": "白日提灯",
+      "onboard_time": 1774670781,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261238,
       "num": 1013762,
       "word": "孩子生病后买彩票中500万妈妈发声",
       "onboard_time": 1774626441,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257564,
+      "num": 250413,
+      "word": "不给彩礼就不结婚或成违法行为",
+      "onboard_time": 1774668023,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -193,6 +273,22 @@
       "onboard_time": 1774610963,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 253295,
+      "num": 253295,
+      "word": "李昌钰选用自然疗法平静面对死亡",
+      "onboard_time": 1774672642,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249706,
+      "num": 249706,
+      "word": "严浩翔Fly概念视频",
+      "onboard_time": 1774672822,
+      "rank": 15,
+      "category": "音乐,音乐"
     },
     {
       "raw_hot": 247867,
@@ -283,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205564,
+      "num": 165901,
+      "word": "乘风2026",
+      "onboard_time": 1774605441,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203875,
       "num": 432228,
       "word": "3D还原女子因停车纠纷摔倒身亡",
@@ -307,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197107,
+      "num": 197107,
+      "word": "事业单位联考",
+      "onboard_time": 1774672222,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 193931,
       "num": 193931,
       "word": "伊朗无人机群袭以色列最大运输中心",
@@ -329,6 +441,22 @@
       "onboard_time": 1774666461,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 187513,
+      "num": 144347,
+      "word": "何晟铭说与徐麒雯恋爱曾被于正阻拦",
+      "onboard_time": 1774668921,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186595,
+      "num": 186595,
+      "word": "喜临门紧急冻结9亿元账户",
+      "onboard_time": 1774668802,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 185127,
@@ -411,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148031,
+      "num": 148031,
+      "word": "伊朗考虑退出不扩散核武器条约",
+      "onboard_time": 1774670422,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147888,
       "num": 147888,
       "word": "鸿蒙智行车辆智驾状态下冲撞幼童",
@@ -443,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136951,
+      "num": 136951,
+      "word": "孟子义李昀锐终极撕名牌对决",
+      "onboard_time": 1774669881,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136705,
       "num": 136705,
       "word": "央视网评罗技侮辱性广告",
@@ -451,12 +595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134794,
-      "num": 134794,
-      "word": "不给彩礼就不结婚或成违法行为",
-      "onboard_time": 1774668023,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 132634,
+      "num": 132634,
+      "word": "白日提灯热度",
+      "onboard_time": 1774673482,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 130600,
@@ -515,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118778,
+      "num": 142222,
+      "word": "中方对168名女童遇难深感震惊",
+      "onboard_time": 1774666521,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115561,
       "num": 140488,
       "word": "一人之下动漫十周年",
@@ -529,6 +681,14 @@
       "onboard_time": 1774665141,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112158,
+      "num": 112158,
+      "word": "逐玉",
+      "onboard_time": 1774655000,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 110849,
@@ -547,6 +707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109159,
+      "num": 133437,
+      "word": "原来婚礼也可以极简成这样",
+      "onboard_time": 1774671502,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108855,
       "num": 103819,
       "word": "王一博乐华续约",
@@ -561,6 +729,14 @@
       "onboard_time": 1774668081,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 106377,
+      "num": 106377,
+      "word": "51岁大叔8年狂考20本证书改变人生",
+      "onboard_time": 1774671802,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105295,
@@ -587,12 +763,12 @@
       "category": "民生新闻,综艺"
     },
     {
-      "raw_hot": 103705,
-      "num": 103705,
-      "word": "中方对168名女童遇难深感震惊",
-      "onboard_time": 1774666521,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 102119,
+      "num": 102119,
+      "word": "时代少年团奔跑吧首秀",
+      "onboard_time": 1774672581,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 101550,
@@ -635,6 +811,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96936,
+      "num": 91193,
+      "word": "花少导演谈北斗七行七老童心回归",
+      "onboard_time": 1774670063,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95884,
+      "num": 102037,
+      "word": "95后小伙吸粪车做婚车迎娶新娘",
+      "onboard_time": 1774673903,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94068,
       "num": 69906,
       "word": "乘风2026初舞台就有淘汰",
@@ -659,12 +851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92145,
+      "num": 92145,
+      "word": "老虎伍兹车祸现场画面",
+      "onboard_time": 1774673302,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91558,
       "num": 338467,
       "word": "我国芯片研发重要成果发布",
       "onboard_time": 1774659862,
       "rank": 9,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 91550,
+      "num": 91893,
+      "word": "黄金白银急速飙涨",
+      "onboard_time": 1774671502,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 89236,
@@ -689,6 +897,22 @@
       "onboard_time": 1774664181,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87506,
+      "num": 87506,
+      "word": "2026LPL第二赛段赛程",
+      "onboard_time": 1774673842,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 87162,
+      "num": 92620,
+      "word": "杨瀚森杀死比赛",
+      "onboard_time": 1774668081,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 86866,
@@ -720,6 +944,22 @@
       "word": "陶昕然浪姐连线的是孙俪",
       "onboard_time": 1774655239,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 86653,
+      "num": 86653,
+      "word": "黑色小猫果然耐脏",
+      "onboard_time": 1774671143,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86558,
+      "num": 86558,
+      "word": "贺峻霖奔跑吧路透",
+      "onboard_time": 1774671381,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -755,28 +995,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85383,
-      "num": 85383,
-      "word": "逐玉",
-      "onboard_time": 1774655000,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84656,
       "num": 84656,
       "word": "花少导演回应神一季鬼一季",
       "onboard_time": 1774658002,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84141,
-      "num": 92620,
-      "word": "杨瀚森杀死比赛",
-      "onboard_time": 1774668081,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 83762,
@@ -803,12 +1027,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81962,
+      "num": 81962,
+      "word": "TOP澳门演唱会抢票",
+      "onboard_time": 1774672282,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 81862,
       "num": 81862,
       "word": "田曦薇涨粉",
       "onboard_time": 1774624042,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81223,
+      "num": 81223,
+      "word": "男子回应母亲1.8万埋地里20年后挖出",
+      "onboard_time": 1774673121,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79387,
@@ -1012,7 +1252,7 @@
     },
     {
       "raw_hot": 53108,
-      "num": 649919,
+      "num": 652008,
       "word": "20条负面清单让基础教育回归本真",
       "onboard_time": 1774665263,
       "rank": 2,
@@ -1097,14 +1337,6 @@
       "onboard_time": 1774603761,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34276,
-      "num": 49777,
-      "word": "乘风2026",
-      "onboard_time": 1774605441,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 29076,
