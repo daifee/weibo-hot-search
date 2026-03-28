@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774731418728,
+  "endTime": 1774733933487,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -53644,7 +53644,7 @@
     },
     {
       "raw_hot": 81757,
-      "num": 94612,
+      "num": 145997,
       "word": "世上顶好顶好的老太婆走了",
       "onboard_time": 1774718777,
       "rank": 42,
@@ -54387,6 +54387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 80509,
+      "num": 80509,
+      "word": "以色列三面受敌",
+      "onboard_time": 1774726034,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 80489,
       "num": 80489,
       "word": "下次我就这样装修",
@@ -55113,14 +55121,6 @@
       "onboard_time": 1772936301,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 79160,
-      "num": 56143,
-      "word": "以色列三面受敌",
-      "onboard_time": 1774726034,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 79159,
@@ -76683,6 +76683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14938,
+      "num": 19625,
+      "word": "就是你是RAIN也得接孩子放学",
+      "onboard_time": 1774731913,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14874,
       "num": 239733,
       "word": "10元手冲咖啡阿姨说凉了照样做生意",
@@ -77041,6 +77049,14 @@
       "onboard_time": 1773996142,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13146,
+      "num": 19593,
+      "word": "鞠婧祎唱的雨爱",
+      "onboard_time": 1774731975,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 13070,

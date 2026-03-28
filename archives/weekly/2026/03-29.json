@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774731418728,
+  "endTime": 1774733933487,
   "band_list": [
     {
       "raw_hot": 1789667,
@@ -252,15 +252,15 @@
     },
     {
       "raw_hot": 81757,
-      "num": 94612,
+      "num": 145997,
       "word": "世上顶好顶好的老太婆走了",
       "onboard_time": 1774718777,
       "rank": 42,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79160,
-      "num": 56143,
+      "raw_hot": 80509,
+      "num": 80509,
       "word": "以色列三面受敌",
       "onboard_time": 1774726034,
       "rank": 9,
@@ -515,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20688,
+      "num": 24734,
+      "word": "现货黄金",
+      "onboard_time": 1774703182,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 20134,
       "num": 23353,
       "word": "王俊凯是新歌制作人",
@@ -539,19 +547,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18321,
-      "num": 24734,
-      "word": "现货黄金",
-      "onboard_time": 1774703182,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 17971,
       "num": 22060,
       "word": "王俊凯无人乐园首秀live",
       "onboard_time": 1774725555,
       "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 14938,
+      "num": 19625,
+      "word": "就是你是RAIN也得接孩子放学",
+      "onboard_time": 1774731913,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13146,
+      "num": 19593,
+      "word": "鞠婧祎唱的雨爱",
+      "onboard_time": 1774731975,
+      "rank": 44,
       "category": "演出"
     }
   ],
