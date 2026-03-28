@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774674715698,
+  "endTime": 1774677977396,
   "band_list": [
     {
       "raw_hot": 3044861,
@@ -33,6 +33,14 @@
       "onboard_time": 1774669041,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1048394,
+      "num": 236613,
+      "word": "粉底液将军 高跟鞋女战士",
+      "onboard_time": 1774674141,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 771420,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463921,
+      "num": 792194,
+      "word": "白日提灯热度",
+      "onboard_time": 1774673482,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 459742,
       "num": 459742,
       "word": "第一次对年假有了实感",
@@ -171,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384778,
+      "num": 384778,
+      "word": "东风导弹射程覆盖全日本",
+      "onboard_time": 1774674742,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 343667,
       "num": 343667,
       "word": "事业编",
@@ -209,14 +233,6 @@
       "onboard_time": 1774654460,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 297403,
-      "num": 236613,
-      "word": "粉底液将军 高跟鞋女战士",
-      "onboard_time": 1774674141,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 280802,
@@ -267,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263566,
+      "num": 190372,
+      "word": "李遐怡DOK2公开恋情",
+      "onboard_time": 1774674502,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261238,
       "num": 1013762,
       "word": "孩子生病后买彩票中500万妈妈发声",
@@ -291,6 +315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 251921,
+      "num": 190946,
+      "word": "百度一贴吧疑全机器人禁止人类发帖",
+      "onboard_time": 1774676244,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 249706,
       "num": 249706,
       "word": "严浩翔Fly概念视频",
@@ -313,6 +345,22 @@
       "onboard_time": 1774623204,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235090,
+      "num": 189339,
+      "word": "五哈",
+      "onboard_time": 1774674922,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227825,
+      "num": 217568,
+      "word": "严浩翔跑男上班状态",
+      "onboard_time": 1774674262,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 225757,
@@ -361,14 +409,6 @@
       "onboard_time": 1774660582,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217568,
-      "num": 217568,
-      "word": "严浩翔跑男上班状态",
-      "onboard_time": 1774674262,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 212061,
@@ -475,6 +515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186498,
+      "num": 186498,
+      "word": "也门胡塞武装参战",
+      "onboard_time": 1774675583,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 185127,
       "num": 185127,
       "word": "男子结婚月余遭家暴身高1米8不敢回家",
@@ -515,14 +563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167561,
-      "num": 164541,
-      "word": "白日提灯热度",
-      "onboard_time": 1774673482,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164423,
       "num": 165286,
       "word": "怡宝不好卖了",
@@ -561,6 +601,22 @@
       "onboard_time": 1774654939,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150770,
+      "num": 159088,
+      "word": "95后小伙吸粪车做婚车迎娶新娘",
+      "onboard_time": 1774673903,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148412,
+      "num": 148412,
+      "word": "周柯宇宣传迪丽热巴白日提灯",
+      "onboard_time": 1774676602,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 148031,
@@ -619,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135940,
+      "num": 135940,
+      "word": "导演称张凌赫雉鸡翎是乱世脊梁",
+      "onboard_time": 1774675222,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130600,
       "num": 130600,
       "word": "刘敏涛你先别回烟台我害怕",
@@ -627,20 +691,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129278,
+      "num": 99065,
+      "word": "阚清子饿就说明在瘦手机壳",
+      "onboard_time": 1774674982,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127798,
       "num": 114938,
       "word": "代斯回复白鹿",
       "onboard_time": 1774663161,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127768,
-      "num": 159088,
-      "word": "95后小伙吸粪车做婚车迎娶新娘",
-      "onboard_time": 1774673903,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125908,
@@ -699,6 +763,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 114937,
+      "num": 81367,
+      "word": "李小冉曾说这辈子不会参加浪姐",
+      "onboard_time": 1774677442,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113941,
       "num": 141380,
       "word": "原来婚礼也可以极简成这样",
@@ -755,6 +827,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 107413,
+      "num": 76287,
+      "word": "六部在拍古偶将军造型",
+      "onboard_time": 1774675642,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106377,
       "num": 106377,
       "word": "51岁大叔8年狂考20本证书改变人生",
@@ -800,14 +880,6 @@
       "word": "岳云鹏室内抽烟",
       "onboard_time": 1774614861,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 101049,
-      "num": 91788,
-      "word": "李遐怡DOK2公开恋情",
-      "onboard_time": 1774674502,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -897,6 +969,14 @@
       "onboard_time": 1774671502,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90677,
+      "num": 70768,
+      "word": "白日提灯 喜剧",
+      "onboard_time": 1774677201,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 90537,
@@ -1091,6 +1171,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81824,
+      "num": 81824,
+      "word": "早起早睡的核心",
+      "onboard_time": 1774674742,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 81160,
+      "num": 70613,
+      "word": "TOP 出票",
+      "onboard_time": 1774677442,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 80646,
+      "num": 80646,
+      "word": "小猫吃猫条会屁股疼",
+      "onboard_time": 1774674562,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79387,
       "num": 79387,
       "word": "王俊凯手写无人乐园歌词",
@@ -1105,6 +1209,14 @@
       "onboard_time": 1774617323,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78348,
+      "num": 78348,
+      "word": "湖人战胜篮网",
+      "onboard_time": 1774676781,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 77336,
@@ -1153,14 +1265,6 @@
       "onboard_time": 1774608863,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 74295,
-      "num": 80096,
-      "word": "小猫吃猫条会屁股疼",
-      "onboard_time": 1774674562,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 73451,
@@ -1219,12 +1323,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 70773,
+      "num": 70773,
+      "word": "金银又飙涨了",
+      "onboard_time": 1774676361,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 70713,
+      "num": 70713,
+      "word": "周末真正滋养大脑的方式",
+      "onboard_time": 1774677261,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 70437,
       "num": 67111,
       "word": "黄金持续快速拉升",
       "onboard_time": 1774631599,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 68316,
+      "num": 69799,
+      "word": "白鹿范丞丞李昀锐开窗打招呼",
+      "onboard_time": 1774671381,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 66688,
@@ -1241,6 +1369,14 @@
       "onboard_time": 1774616063,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65977,
+      "num": 70314,
+      "word": "全红婵我嘉有女初长成",
+      "onboard_time": 1774677742,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 65473,
