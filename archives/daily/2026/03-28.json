@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774694492421,
+  "endTime": 1774695556757,
   "band_list": [
     {
       "raw_hot": 3044861,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 678582,
+      "num": 140629,
+      "word": "陈牧驰陈冰结婚生子",
+      "onboard_time": 1774695381,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667870,
       "num": 531206,
       "word": "阚清子想从116斤瘦到90斤",
@@ -89,6 +97,14 @@
       "onboard_time": 1774673482,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655315,
+      "num": 409345,
+      "word": "俄罗斯4月1日起禁止汽油出口",
+      "onboard_time": 1774693462,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 636458,
@@ -139,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 576900,
+      "num": 576900,
+      "word": "夏之光被妈妈拉黑真相巨戳心",
+      "onboard_time": 1774693280,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 553968,
       "num": 226927,
       "word": "宋威龙签约天浩盛世",
@@ -161,6 +185,14 @@
       "onboard_time": 1774681881,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 494090,
+      "num": 494090,
+      "word": "原来淋巴肉这么好区分",
+      "onboard_time": 1774692081,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 481973,
@@ -193,14 +225,6 @@
       "onboard_time": 1774663641,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 451479,
-      "num": 277973,
-      "word": "原来淋巴肉这么好区分",
-      "onboard_time": 1774692081,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 451418,
@@ -259,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390596,
+      "num": 793390,
+      "word": "奔跑吧直播",
+      "onboard_time": 1774690881,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385717,
       "num": 810270,
       "word": "40岁心梗幸存者已辞职回农村静养",
@@ -275,12 +307,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 372793,
-      "num": 793390,
-      "word": "奔跑吧直播",
-      "onboard_time": 1774690881,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 370093,
+      "num": 509553,
+      "word": "菲律宾最新涉台表态",
+      "onboard_time": 1774692442,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 361498,
@@ -315,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341783,
-      "num": 210942,
-      "word": "俄罗斯4月1日起禁止汽油出口",
-      "onboard_time": 1774693462,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 334205,
       "num": 457523,
       "word": "将军可以帅但不能没杀气",
@@ -337,14 +361,6 @@
       "onboard_time": 1774679602,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320350,
-      "num": 110359,
-      "word": "菲律宾最新涉台表态",
-      "onboard_time": 1774692442,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 318505,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 284677,
-      "num": 273191,
+      "num": 428620,
       "word": "女子断碳水2月确诊糖尿病前期",
       "onboard_time": 1774688241,
       "rank": 25,
@@ -515,6 +531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 251283,
+      "num": 475531,
+      "word": "金价急速飙涨",
+      "onboard_time": 1774691420,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 249706,
       "num": 249706,
       "word": "严浩翔Fly概念视频",
@@ -537,6 +561,14 @@
       "onboard_time": 1774623204,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245916,
+      "num": 250167,
+      "word": "建议一次请假请一天",
+      "onboard_time": 1774691901,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 235090,
@@ -611,14 +643,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 212058,
-      "num": 212058,
-      "word": "金价急速飙涨",
-      "onboard_time": 1774691420,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 210404,
       "num": 125194,
       "word": "男子借钱凑彩礼结婚后1个月被家暴",
@@ -689,14 +713,6 @@
       "onboard_time": 1774681460,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196589,
-      "num": 196589,
-      "word": "夏之光被妈妈拉黑真相巨戳心",
-      "onboard_time": 1774693280,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 193931,
@@ -793,14 +809,6 @@
       "onboard_time": 1774609041,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168281,
-      "num": 168281,
-      "word": "建议一次请假请一天",
-      "onboard_time": 1774691901,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 164423,
@@ -915,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141773,
+      "num": 141773,
+      "word": "男生杀害15岁女孩后借讨水试探老人",
+      "onboard_time": 1774693162,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140223,
       "num": 78759,
       "word": "李昌钰曾让辛普森案迎关键转折",
@@ -961,6 +977,14 @@
       "onboard_time": 1774675222,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133630,
+      "num": 133630,
+      "word": "年仅21岁牺牲母亲跨400公里扫墓",
+      "onboard_time": 1774690161,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130600,
@@ -1011,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119991,
+      "num": 119991,
+      "word": "单依纯演唱会",
+      "onboard_time": 1774695082,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119862,
       "num": 106742,
       "word": "医生你真的叫叶绿素吗",
@@ -1043,6 +1075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116951,
+      "num": 116951,
+      "word": "KPL",
+      "onboard_time": 1774695202,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116327,
       "num": 116327,
       "word": "华为王云鹤离职",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1774671502,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113391,
-      "num": 113391,
-      "word": "年仅21岁牺牲母亲跨400公里扫墓",
-      "onboard_time": 1774690161,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113283,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1774624104,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109282,
+      "num": 109282,
+      "word": "迪丽热巴好六的22个爱人",
+      "onboard_time": 1774694902,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 108932,
@@ -1195,6 +1235,14 @@
       "category": "民生新闻,综艺"
     },
     {
+      "raw_hot": 104916,
+      "num": 104916,
+      "word": "王俊凯巅峰之夜红毯生图",
+      "onboard_time": 1774694422,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104231,
       "num": 110523,
       "word": "美国最强导弹击落了美国最强战机",
@@ -1219,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102000,
-      "num": 102000,
-      "word": "男生杀害15岁女孩后借讨水试探老人",
-      "onboard_time": 1774693162,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101550,
       "num": 101550,
       "word": "岳云鹏室内抽烟",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1774686262,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100845,
+      "num": 100845,
+      "word": "谷歌论文涉嫌抄袭中国博士后成果",
+      "onboard_time": 1774695261,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 100798,
@@ -1313,6 +1361,14 @@
       "onboard_time": 1774689982,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95858,
+      "num": 95858,
+      "word": "谢楠上浪姐像极了要交卷的我",
+      "onboard_time": 1774694782,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 95089,
@@ -1505,6 +1561,22 @@
       "onboard_time": 1774664181,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88060,
+      "num": 88060,
+      "word": "黄金白银再度回落",
+      "onboard_time": 1774695442,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 87749,
+      "num": 87749,
+      "word": "网传王安宇赵今麦出演一念江南",
+      "onboard_time": 1774693819,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 87506,
@@ -1833,14 +1905,6 @@
       "onboard_time": 1774668143,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 75577,
-      "num": 75577,
-      "word": "王俊凯巅峰之夜红毯生图",
-      "onboard_time": 1774694422,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 75418,
@@ -2321,6 +2385,14 @@
       "onboard_time": 1774624882,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11443,
+      "num": 109377,
+      "word": "美军方证实303名士兵对伊作战受伤",
+      "onboard_time": 1774695442,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9162,
