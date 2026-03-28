@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774713348529,
+  "endTime": 1774716237167,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -6611,6 +6611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 548188,
+      "num": 205171,
+      "word": "站姐愚人节团建预告",
+      "onboard_time": 1774711463,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547078,
       "num": 547078,
       "word": "美以被曝几个月前就密谋联手打伊朗",
@@ -7337,14 +7345,6 @@
       "onboard_time": 1773444617,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 512200,
-      "num": 205171,
-      "word": "站姐愚人节团建预告",
-      "onboard_time": 1774711463,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 511438,
@@ -10449,6 +10449,14 @@
       "onboard_time": 1773022281,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 414118,
+      "num": 193757,
+      "word": "徐良演唱会时薪4000",
+      "onboard_time": 1774713562,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 413997,
@@ -14171,6 +14179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327865,
+      "num": 726225,
+      "word": "太原火灾近距离目击者直呼好害怕",
+      "onboard_time": 1774710622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327250,
       "num": 257508,
       "word": "一笑随歌爆了",
@@ -17721,6 +17737,14 @@
       "onboard_time": 1774669522,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270893,
+      "num": 180499,
+      "word": "R1SE任豪回来了",
+      "onboard_time": 1774713202,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 270555,
@@ -22507,6 +22531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213733,
+      "num": 430037,
+      "word": "以军参谋长说以军常规部队已崩溃",
+      "onboard_time": 1774713562,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 213708,
       "num": 213708,
       "word": "王楚钦从1比7到11比8",
@@ -22553,6 +22585,14 @@
       "onboard_time": 1774419623,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213141,
+      "num": 755624,
+      "word": "高三学生请求拆除鸟巢校长写信回应",
+      "onboard_time": 1774707203,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213084,
@@ -23803,14 +23843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199392,
-      "num": 755624,
-      "word": "高三学生请求拆除鸟巢校长写信回应",
-      "onboard_time": 1774707203,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199390,
       "num": 606148,
       "word": "事业单位联考",
@@ -23832,14 +23864,6 @@
       "word": "山姆被曝冷鲜猪肉是数月前屠宰的",
       "onboard_time": 1773990321,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199155,
-      "num": 199155,
-      "word": "太原火灾近距离目击者直呼好害怕",
-      "onboard_time": 1774710622,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -24609,6 +24633,14 @@
       "onboard_time": 1774666461,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 192179,
+      "num": 192179,
+      "word": "太原火灾或因酒店外立面起火引发",
+      "onboard_time": 1774712122,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192162,
@@ -29147,14 +29179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156413,
-      "num": 156413,
-      "word": "R1SE任豪回来了",
-      "onboard_time": 1774713202,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156408,
       "num": 394526,
       "word": "AG单日三鸡积分第一",
@@ -32297,6 +32321,14 @@
       "onboard_time": 1773721102,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139115,
+      "num": 195484,
+      "word": "氦气价格暴涨50%",
+      "onboard_time": 1774711463,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 139025,
@@ -37905,14 +37937,6 @@
       "onboard_time": 1773216082,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 116187,
-      "num": 116187,
-      "word": "氦气价格暴涨50%",
-      "onboard_time": 1774711463,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 116073,
@@ -47323,6 +47347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92993,
+      "num": 92993,
+      "word": "R1SE小分队又合体了",
+      "onboard_time": 1774714460,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92987,
       "num": 102755,
       "word": "TES将WBG拖进决胜局",
@@ -49675,6 +49707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88528,
+      "num": 88528,
+      "word": "时代少年团奔跑吧直播就出现了17秒",
+      "onboard_time": 1774712543,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88518,
       "num": 88518,
       "word": "涨价时代你会选择二手手机吗",
@@ -50313,14 +50353,6 @@
       "onboard_time": 1773840323,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 87428,
-      "num": 87428,
-      "word": "时代少年团奔跑吧直播就出现了17秒",
-      "onboard_time": 1774712543,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 87426,
@@ -56667,6 +56699,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76574,
+      "num": 76574,
+      "word": "伊朗称无人机大规模打击以色列目标",
+      "onboard_time": 1774713921,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76572,
       "num": 272096,
       "word": "金银直播间宣称真材实料却卖白菜价",
@@ -57849,6 +57889,14 @@
       "onboard_time": 1774236380,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74660,
+      "num": 74660,
+      "word": "刘宇宁丁程鑫默契",
+      "onboard_time": 1774713682,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 74656,
@@ -60595,6 +60643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69937,
+      "num": 69937,
+      "word": "泰国与伊朗达成协议",
+      "onboard_time": 1774715900,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69904,
       "num": 455276,
       "word": "3月小米新SU7备产或达16000辆",
@@ -62955,14 +63011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65053,
-      "num": 65053,
-      "word": "太原火灾或因酒店外立面起火引发",
-      "onboard_time": 1774712122,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65032,
       "num": 65032,
       "word": "唐嫣方发告黑公示",
@@ -63785,6 +63833,14 @@
       "onboard_time": 1772959101,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63414,
+      "num": 63414,
+      "word": "陈哲远锁凶正确率百分百",
+      "onboard_time": 1774713682,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 63413,
@@ -68787,6 +68843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47516,
+      "num": 54607,
+      "word": "Sora每天烧掉1500万美元",
+      "onboard_time": 1774715479,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 47499,
       "num": 112048,
       "word": "谭松韵王劲松对手戏",
@@ -69929,6 +69993,14 @@
       "onboard_time": 1773012199,
       "rank": 45,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 42315,
+      "num": 54604,
+      "word": "张雪机车第一",
+      "onboard_time": 1774710923,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 42306,
@@ -77320,6 +77392,14 @@
       "word": "赶在涨价前车主把加油站的油抢光了",
       "onboard_time": 1773561622,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7977,
+      "num": 513591,
+      "word": "清朗网络空间汇聚向上向善",
+      "onboard_time": 1774701441,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
