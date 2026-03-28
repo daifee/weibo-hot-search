@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774741216046,
+  "endTime": 1774742158321,
   "band_list": [
     {
       "raw_hot": 1789667,
@@ -9,6 +9,14 @@
       "onboard_time": 1774716919,
       "rank": 0,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 660894,
+      "num": 542167,
+      "word": "删除汪苏泷名字让徐良又生气又煎熬",
+      "onboard_time": 1774741098,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 548188,
@@ -51,20 +59,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 407502,
-      "num": 897856,
+      "raw_hot": 409497,
+      "num": 1024286,
       "word": "世上顶好顶好的老太婆走了",
       "onboard_time": 1774718777,
       "rank": 42,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346425,
-      "num": 346425,
-      "word": "删除汪苏泷名字让徐良又生气又煎熬",
-      "onboard_time": 1774741098,
-      "rank": 3,
-      "category": "演出"
+      "raw_hot": 366046,
+      "num": 366046,
+      "word": "女子半年没回家卧室开窗变邻居阳台",
+      "onboard_time": 1774741758,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 347397,
+      "num": 196521,
+      "word": "油价又飙升了",
+      "onboard_time": 1774739117,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 327865,
@@ -75,12 +91,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307509,
-      "num": 109224,
-      "word": "油价又飙升了",
-      "onboard_time": 1774739117,
-      "rank": 10,
-      "category": "财经"
+      "raw_hot": 291335,
+      "num": 291335,
+      "word": "伊朗连遭重创绝地反击",
+      "onboard_time": 1774709363,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 270893,
@@ -91,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262951,
-      "num": 262951,
-      "word": "伊朗连遭重创绝地反击",
-      "onboard_time": 1774709363,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 265159,
+      "num": 728164,
+      "word": "观众反感的从来不是帅将军",
+      "onboard_time": 1774741939,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 241740,
@@ -131,12 +147,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 213365,
+      "num": 213365,
+      "word": "女子被羁押821天无罪释放国赔被叫停",
+      "onboard_time": 1774741578,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213141,
       "num": 538891,
       "word": "高三学生请求拆除鸟巢校长写信回应",
       "onboard_time": 1774707203,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205454,
+      "num": 205454,
+      "word": "以色列三面受敌",
+      "onboard_time": 1774726034,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 195831,
@@ -155,11 +187,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191332,
-      "num": 191332,
-      "word": "以色列三面受敌",
-      "onboard_time": 1774726034,
-      "rank": 9,
+      "raw_hot": 179231,
+      "num": 179231,
+      "word": "美军福特号航母抵港克罗地亚维修",
+      "onboard_time": 1774741999,
+      "rank": 13,
       "category": "军事"
     },
     {
@@ -188,11 +220,27 @@
     },
     {
       "raw_hot": 139115,
-      "num": 195484,
+      "num": 203655,
       "word": "氦气价格暴涨50%",
       "onboard_time": 1774711463,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132488,
+      "num": 105375,
+      "word": "严浩翔上线",
+      "onboard_time": 1774739657,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129088,
+      "num": 129088,
+      "word": "杨臣刚自曝因老鼠爱大米收入1.7亿",
+      "onboard_time": 1774707683,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 126795,
@@ -203,20 +251,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 122622,
-      "num": 104440,
-      "word": "杨臣刚自曝因老鼠爱大米收入1.7亿",
-      "onboard_time": 1774707683,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116465,
       "num": 116465,
       "word": "低精力人群的周末安排belike",
       "onboard_time": 1774707143,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113639,
+      "num": 104319,
+      "word": "女顾客打印后要求归类被拒当场崩溃",
+      "onboard_time": 1774706302,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112781,
@@ -227,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101065,
-      "num": 84019,
-      "word": "女顾客打印后要求归类被拒当场崩溃",
-      "onboard_time": 1774706302,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 95678,
+      "num": 95678,
+      "word": "张凌赫大一曾分享暗恋细节",
+      "onboard_time": 1774701022,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 95039,
@@ -259,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92285,
+      "num": 92285,
+      "word": "杨紫给黄灿灿的浪姐建议",
+      "onboard_time": 1774741460,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92228,
       "num": 92228,
       "word": "幼儿园自理比赛女孩靠佛系速度获胜",
@@ -267,20 +323,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88861,
-      "num": 88861,
-      "word": "张凌赫大一曾分享暗恋细节",
-      "onboard_time": 1774701022,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 83740,
+      "num": 83740,
+      "word": "美军或出动上千人夺取伊朗浓缩铀",
+      "onboard_time": 1774741999,
+      "rank": 26,
+      "category": "军事"
     },
     {
-      "raw_hot": 83636,
-      "num": 83636,
-      "word": "严浩翔上线",
-      "onboard_time": 1774739657,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 83123,
+      "num": 66748,
+      "word": "小猴穿游客衣服酷似拜师时的悟空",
+      "onboard_time": 1774741578,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83088,
@@ -323,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75689,
+      "num": 66583,
+      "word": "严屹宽回应法拉利遇法拉利",
+      "onboard_time": 1774741699,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74660,
       "num": 74660,
       "word": "刘宇宁丁程鑫默契",
@@ -347,12 +411,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69297,
+      "num": 200753,
+      "word": "太原火灾已致3死23伤",
+      "onboard_time": 1774741878,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69049,
       "num": 70382,
       "word": "李昌钰再婚妻子发文缅怀李昌钰",
       "onboard_time": 1774707623,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68890,
+      "num": 68890,
+      "word": "伊朗警告袭击地区内美以大学",
+      "onboard_time": 1774742060,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 67438,
+      "num": 67438,
+      "word": "白鹿回来复盘撕名牌",
+      "onboard_time": 1774741518,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 66742,
@@ -369,6 +457,14 @@
       "onboard_time": 1774707801,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 65048,
+      "num": 83833,
+      "word": "俄罗斯4月1日起禁止汽油出口",
+      "onboard_time": 1774693462,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64403,
@@ -411,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60664,
+      "num": 83253,
+      "word": "现货黄金",
+      "onboard_time": 1774703182,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 58110,
       "num": 71678,
       "word": "JDG对战AG",
@@ -419,19 +523,35 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 57270,
-      "num": 83833,
-      "word": "俄罗斯4月1日起禁止汽油出口",
-      "onboard_time": 1774693462,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 57019,
       "num": 57019,
       "word": "阚清子想从116斤瘦到90斤",
       "onboard_time": 1774678402,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 56976,
+      "num": 81210,
+      "word": "以军对伊朗大规模空袭",
+      "onboard_time": 1774740918,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 56973,
+      "num": 56973,
+      "word": "伊朗威胁袭击美以大学",
+      "onboard_time": 1774741999,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 54906,
+      "num": 54906,
+      "word": "吴镇宇回应4年前扇刘耀文巴掌",
+      "onboard_time": 1774741821,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -451,20 +571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52232,
-      "num": 83253,
-      "word": "现货黄金",
-      "onboard_time": 1774703182,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 50307,
+      "raw_hot": 52951,
       "num": 83181,
       "word": "中国AI不会因几张邀请函停滞",
       "onboard_time": 1774706663,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48090,
+      "num": 82513,
+      "word": "以军一天3轮空袭伊朗",
+      "onboard_time": 1774740977,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 48049,
@@ -483,12 +603,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 45948,
-      "num": 82513,
-      "word": "以军一天3轮空袭伊朗",
-      "onboard_time": 1774740977,
-      "rank": 31,
-      "category": "军事"
+      "raw_hot": 45476,
+      "num": 82144,
+      "word": "时代少年团奔跑吧凌晨下班",
+      "onboard_time": 1774740437,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 45106,
@@ -497,6 +617,14 @@
       "onboard_time": 1774670781,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44079,
+      "num": 44079,
+      "word": "伊朗袭击沙特基地",
+      "onboard_time": 1774703422,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43675,
@@ -523,11 +651,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40694,
-      "num": 82144,
-      "word": "时代少年团奔跑吧凌晨下班",
-      "onboard_time": 1774740437,
-      "rank": 34,
+      "raw_hot": 41453,
+      "num": 41453,
+      "word": "刘宇宁好六喊话自己",
+      "onboard_time": 1774741217,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -553,14 +681,6 @@
       "onboard_time": 1774720336,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 32590,
-      "num": 81210,
-      "word": "以军对伊朗大规模空袭",
-      "onboard_time": 1774740918,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 31354,
@@ -596,7 +716,7 @@
     },
     {
       "raw_hot": 22158,
-      "num": 501178,
+      "num": 567860,
       "word": "政企新媒体怎么火出圈",
       "onboard_time": 1774701203,
       "rank": 2,
@@ -643,7 +763,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 10609,
+      "raw_hot": 11577,
       "num": 80288,
       "word": "向余望点射破门",
       "onboard_time": 1774740678,
