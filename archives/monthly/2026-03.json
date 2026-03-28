@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774727578828,
+  "endTime": 1774730468614,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -55115,6 +55115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79160,
+      "num": 56143,
+      "word": "以色列三面受敌",
+      "onboard_time": 1774726034,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 79159,
       "num": 87119,
       "word": "女子未婚先孕生完孩子被男友拉黑",
@@ -66553,14 +66561,6 @@
       "onboard_time": 1773910461,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56143,
-      "num": 56143,
-      "word": "以色列三面受敌",
-      "onboard_time": 1774726034,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 56110,
