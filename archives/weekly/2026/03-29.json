@@ -1,7 +1,15 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774716237167,
+  "endTime": 1774717243652,
   "band_list": [
+    {
+      "raw_hot": 849102,
+      "num": 849102,
+      "word": "消毒",
+      "onboard_time": 1774716919,
+      "rank": 0,
+      "category": "科学科普"
+    },
     {
       "raw_hot": 548188,
       "num": 194427,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 222229,
-      "num": 177836,
+      "num": 178146,
       "word": "迪丽热巴有高度近视",
       "onboard_time": 1774710682,
       "rank": 14,
@@ -123,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175504,
+      "num": 175504,
+      "word": "伊朗正式回应美国15点停火协议",
+      "onboard_time": 1774712961,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 163536,
       "num": 132036,
       "word": "鞠婧祎你在不在高音",
@@ -147,14 +163,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 123705,
-      "num": 123705,
-      "word": "伊朗正式回应美国15点停火协议",
-      "onboard_time": 1774712961,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 116465,
       "num": 116465,
       "word": "低精力人群的周末安排belike",
@@ -172,11 +180,19 @@
     },
     {
       "raw_hot": 95039,
-      "num": 95039,
+      "num": 95388,
       "word": "小狗 是表哥吗",
       "onboard_time": 1774707801,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93765,
+      "num": 93765,
+      "word": "时代少年团奔跑吧直播就出现了17秒",
+      "onboard_time": 1774712543,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 92993,
@@ -187,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88528,
-      "num": 88528,
-      "word": "时代少年团奔跑吧直播就出现了17秒",
-      "onboard_time": 1774712543,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 88941,
+      "num": 71525,
+      "word": "泰国与伊朗达成协议",
+      "onboard_time": 1774715900,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86706,
@@ -219,8 +235,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82324,
-      "num": 80690,
+      "raw_hot": 82868,
+      "num": 82868,
       "word": "张凌赫大一曾分享暗恋细节",
       "onboard_time": 1774701022,
       "rank": 29,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 81977,
-      "num": 81977,
+      "num": 95034,
       "word": "AG战胜JDG",
       "onboard_time": 1774704323,
       "rank": 28,
@@ -281,14 +297,6 @@
       "onboard_time": 1774707024,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 69937,
-      "num": 69937,
-      "word": "泰国与伊朗达成协议",
-      "onboard_time": 1774715900,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 69049,
@@ -371,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53711,
+      "num": 53711,
+      "word": "俄罗斯4月1日起禁止汽油出口",
+      "onboard_time": 1774693462,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47516,
       "num": 54607,
       "word": "Sora每天烧掉1500万美元",
@@ -379,12 +395,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 45106,
+      "num": 51561,
+      "word": "白日提灯",
+      "onboard_time": 1774670781,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42315,
-      "num": 54604,
+      "num": 94771,
       "word": "张雪机车第一",
       "onboard_time": 1774710923,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31689,
+      "num": 56920,
+      "word": "幼儿园自理比赛女孩靠佛系速度获胜",
+      "onboard_time": 1774697542,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25116,
+      "num": 51559,
+      "word": "伊朗军方称击中美军舰艇",
+      "onboard_time": 1774717098,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 19960,
@@ -395,7 +435,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 7977,
+      "raw_hot": 13104,
       "num": 513591,
       "word": "清朗网络空间汇聚向上向善",
       "onboard_time": 1774701441,
