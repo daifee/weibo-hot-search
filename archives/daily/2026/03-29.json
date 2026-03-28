@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774733933487,
+  "endTime": 1774734870159,
   "band_list": [
     {
       "raw_hot": 1789667,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96053,
+      "num": 192313,
+      "word": "世上顶好顶好的老太婆走了",
+      "onboard_time": 1774718777,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95039,
       "num": 95388,
       "word": "小狗 是表哥吗",
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84828,
+      "num": 84828,
+      "word": "以色列三面受敌",
+      "onboard_time": 1774726034,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 84019,
       "num": 84019,
       "word": "女顾客打印后要求归类被拒当场崩溃",
@@ -249,22 +265,6 @@
       "onboard_time": 1774704323,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 81757,
-      "num": 145997,
-      "word": "世上顶好顶好的老太婆走了",
-      "onboard_time": 1774718777,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80509,
-      "num": 80509,
-      "word": "以色列三面受敌",
-      "onboard_time": 1774726034,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 78438,
@@ -555,8 +555,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14938,
-      "num": 19625,
+      "raw_hot": 17461,
+      "num": 20236,
       "word": "就是你是RAIN也得接孩子放学",
       "onboard_time": 1774731913,
       "rank": 35,
@@ -564,11 +564,19 @@
     },
     {
       "raw_hot": 13146,
-      "num": 19593,
+      "num": 20233,
       "word": "鞠婧祎唱的雨爱",
       "onboard_time": 1774731975,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 6600,
+      "num": 144696,
+      "word": "政企新媒体怎么火出圈",
+      "onboard_time": 1774701203,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
