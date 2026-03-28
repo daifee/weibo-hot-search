@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774726664241,
+  "endTime": 1774727578828,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -66555,6 +66555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56143,
+      "num": 56143,
+      "word": "以色列三面受敌",
+      "onboard_time": 1774726034,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 56110,
       "num": 216684,
       "word": "全新坦克700伴你青云直上",
@@ -72297,14 +72305,6 @@
       "onboard_time": 1773834022,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32878,
-      "num": 40744,
-      "word": "以色列三面受敌",
-      "onboard_time": 1774726034,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 32868,

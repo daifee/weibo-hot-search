@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774726664241,
+  "endTime": 1774727578828,
   "band_list": [
     {
       "raw_hot": 1789667,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56143,
+      "num": 56143,
+      "word": "以色列三面受敌",
+      "onboard_time": 1774726034,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 54610,
       "num": 71689,
       "word": "美国最强导弹击落了美国最强战机",
@@ -465,14 +473,6 @@
       "onboard_time": 1774720336,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 32878,
-      "num": 40744,
-      "word": "以色列三面受敌",
-      "onboard_time": 1774726034,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 31354,
