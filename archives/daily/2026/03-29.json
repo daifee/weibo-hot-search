@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774719524682,
+  "endTime": 1774720579173,
   "band_list": [
     {
       "raw_hot": 1789667,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43675,
+      "num": 43675,
+      "word": "没有人比R1SE更爱R1SE",
+      "onboard_time": 1774720517,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 42315,
       "num": 94771,
       "word": "张雪机车第一",
@@ -435,7 +443,15 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 33223,
+      "raw_hot": 35870,
+      "num": 71678,
+      "word": "Angelababy梦回贝微微",
+      "onboard_time": 1774697122,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34726,
       "num": 71679,
       "word": "世上顶好顶好的老太婆走了",
       "onboard_time": 1774718777,
@@ -443,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31989,
-      "num": 71678,
-      "word": "Angelababy梦回贝微微",
-      "onboard_time": 1774697122,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 33401,
+      "num": 40269,
+      "word": "金价又涨了",
+      "onboard_time": 1774720336,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 31354,
@@ -459,20 +475,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30850,
+      "num": 71667,
+      "word": "伊朗军方称击中美军舰艇",
+      "onboard_time": 1774717098,
+      "rank": 49,
+      "category": "军事"
+    },
+    {
       "raw_hot": 30117,
       "num": 71672,
       "word": "中国AI不会因几张邀请函停滞",
       "onboard_time": 1774706663,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25116,
-      "num": 71667,
-      "word": "伊朗军方称击中美军舰艇",
-      "onboard_time": 1774717098,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 19960,

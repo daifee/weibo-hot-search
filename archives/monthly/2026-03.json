@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774719524682,
+  "endTime": 1774720579173,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -69707,6 +69707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43675,
+      "num": 43675,
+      "word": "没有人比R1SE更爱R1SE",
+      "onboard_time": 1774720517,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 43638,
       "num": 389033,
       "word": "中国绝不走国强必霸的老路",
@@ -71803,6 +71811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34726,
+      "num": 71679,
+      "word": "世上顶好顶好的老太婆走了",
+      "onboard_time": 1774718777,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34611,
       "num": 82269,
       "word": "尘白禁区停机维护",
@@ -72139,6 +72155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 33401,
+      "num": 40269,
+      "word": "金价又涨了",
+      "onboard_time": 1774720336,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 33384,
       "num": 78774,
       "word": "梅姨反侦查能力极强",
@@ -72200,14 +72224,6 @@
       "word": "李白杜牧辛弃疾火到韩国地铁站了",
       "onboard_time": 1773824543,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33223,
-      "num": 71679,
-      "word": "世上顶好顶好的老太婆走了",
-      "onboard_time": 1774718777,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -72673,6 +72689,14 @@
       "onboard_time": 1774414825,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30850,
+      "num": 71667,
+      "word": "伊朗军方称击中美军舰艇",
+      "onboard_time": 1774717098,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 30849,
@@ -74097,14 +74121,6 @@
       "onboard_time": 1772893823,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25116,
-      "num": 71667,
-      "word": "伊朗军方称击中美军舰艇",
-      "onboard_time": 1774717098,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 25054,
