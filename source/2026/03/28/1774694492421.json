@@ -1,0 +1,410 @@
+{
+  "runTime": 1774694492421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 481973,
+        "num": 1077115,
+        "word": "李昌钰母亲把13个子女培养成博士",
+        "onboard_time": 1774690640,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372793,
+        "num": 793390,
+        "word": "奔跑吧直播",
+        "onboard_time": 1774690881,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16532,
+        "num": 635116,
+        "word": "正能量创作者大会",
+        "onboard_time": 1774681942,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543721,
+        "num": 543721,
+        "word": "一念江南",
+        "onboard_time": 1774689260,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279067,
+        "num": 279067,
+        "word": "40岁心梗幸存者已辞职回农村静养",
+        "onboard_time": 1774677982,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451479,
+        "num": 277973,
+        "word": "原来淋巴肉这么好区分",
+        "onboard_time": 1774692081,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 273191,
+        "num": 273191,
+        "word": "女子断碳水2月确诊糖尿病前期",
+        "onboard_time": 1774688241,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254321,
+        "num": 254321,
+        "word": "奔跑吧",
+        "onboard_time": 1774665322,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230659,
+        "num": 230659,
+        "word": "青菜焦虑症",
+        "onboard_time": 1774680802,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212058,
+        "num": 212058,
+        "word": "金价急速飙涨",
+        "onboard_time": 1774691420,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 341783,
+        "num": 210942,
+        "word": "俄罗斯4月1日起禁止汽油出口",
+        "onboard_time": 1774693462,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312864,
+        "num": 205107,
+        "word": "徐良删除汪苏泷后会无期作词作曲",
+        "onboard_time": 1774659742,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264467,
+        "num": 201272,
+        "word": "阚清子想从116斤瘦到90斤",
+        "onboard_time": 1774678402,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230193,
+        "num": 199509,
+        "word": "终于懂大学面积小的含金量了",
+        "onboard_time": 1774687641,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196589,
+        "num": 196589,
+        "word": "夏之光被妈妈拉黑真相巨戳心",
+        "onboard_time": 1774693280,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188466,
+        "num": 188466,
+        "word": "白日提灯热度",
+        "onboard_time": 1774673482,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178286,
+        "num": 178286,
+        "word": "45岁男子心梗离世2天前还在跑马拉松",
+        "onboard_time": 1774685001,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179311,
+        "num": 173662,
+        "word": "白日提灯直播",
+        "onboard_time": 1774688782,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168701,
+        "num": 168701,
+        "word": "点奶茶要求奶和茶分离",
+        "onboard_time": 1774684761,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168281,
+        "num": 168281,
+        "word": "建议一次请假请一天",
+        "onboard_time": 1774691901,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 386322,
+        "num": 164812,
+        "word": "张凌赫多年前发文抨击影视圈",
+        "onboard_time": 1774669041,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188026,
+        "num": 157114,
+        "word": "粉底液将军 高跟鞋女战士",
+        "onboard_time": 1774674141,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144920,
+        "num": 144920,
+        "word": "升糖刺客",
+        "onboard_time": 1774681881,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144712,
+        "num": 144712,
+        "word": "白日提灯",
+        "onboard_time": 1774670781,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143219,
+        "num": 143219,
+        "word": "王俊凯工作室出图",
+        "onboard_time": 1774683260,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122154,
+        "num": 142364,
+        "word": "全红婵19岁气场全开",
+        "onboard_time": 1774679722,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142308,
+        "num": 142308,
+        "word": "宋威龙签约天浩盛世",
+        "onboard_time": 1774684160,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134981,
+        "num": 134981,
+        "word": "TF四代二班见面会",
+        "onboard_time": 1774687759,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112946,
+        "num": 112946,
+        "word": "年仅21岁牺牲母亲跨400公里扫墓",
+        "onboard_time": 1774690161,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104231,
+        "num": 110523,
+        "word": "美国最强导弹击落了美国最强战机",
+        "onboard_time": 1774692801,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 320350,
+        "num": 110359,
+        "word": "菲律宾最新涉台表态",
+        "onboard_time": 1774692442,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109815,
+        "num": 109815,
+        "word": "这7种食物不甜却能让你血糖飙升",
+        "onboard_time": 1774693641,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109350,
+        "num": 109350,
+        "word": "QQ音乐巅峰之夜红毯",
+        "onboard_time": 1774680862,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105125,
+        "num": 105125,
+        "word": "单亲妈妈遭羁押821天被判无罪",
+        "onboard_time": 1774685541,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 102000,
+        "num": 102000,
+        "word": "男生杀害15岁女孩后借讨水试探老人",
+        "onboard_time": 1774693162,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99943,
+        "num": 99943,
+        "word": "粉底液将军被嘲不该仅演员承担",
+        "onboard_time": 1774681460,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96120,
+        "num": 96120,
+        "word": "以色列多线作战或已在崩溃边缘",
+        "onboard_time": 1774689982,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92445,
+        "num": 92445,
+        "word": "新娘回应小伙用吸粪车做婚车",
+        "onboard_time": 1774681881,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91498,
+        "num": 91498,
+        "word": "张凌赫体脂曾低到10",
+        "onboard_time": 1774693522,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91303,
+        "num": 91303,
+        "word": "1亿元资金被挪用不仅是家贼难防",
+        "onboard_time": 1774693101,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90226,
+        "num": 90226,
+        "word": "李昌钰母亲用15个字教出了13个博士",
+        "onboard_time": 1774692559,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82993,
+        "num": 82993,
+        "word": "干饭人的梦中情饭来了",
+        "onboard_time": 1774694302,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81683,
+        "num": 81683,
+        "word": "日料店 半成品",
+        "onboard_time": 1774692559,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 80547,
+        "num": 80547,
+        "word": "我家那小子",
+        "onboard_time": 1774690401,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79791,
+        "num": 79791,
+        "word": "U19国足1比0胜澳大利亚U19",
+        "onboard_time": 1774693462,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78979,
+        "num": 78979,
+        "word": "每一个都是我妈会信的程度",
+        "onboard_time": 1774691600,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77011,
+        "num": 77011,
+        "word": "华为王云鹤离职",
+        "onboard_time": 1774691001,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 75577,
+        "num": 75577,
+        "word": "王俊凯巅峰之夜红毯生图",
+        "onboard_time": 1774694422,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74894,
+        "num": 74894,
+        "word": "日本搞大杀器妄图覆盖中国全境",
+        "onboard_time": 1774689021,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74144,
+        "num": 74144,
+        "word": "严浩翔Fly概念视频",
+        "onboard_time": 1774672822,
+        "rank": 49,
+        "category": "音乐,音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指引以实干出政绩#"
+    }
+  }
+}
