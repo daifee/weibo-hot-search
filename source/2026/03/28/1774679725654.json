@@ -1,0 +1,410 @@
+{
+  "runTime": 1774679725654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 530514,
+        "num": 1084882,
+        "word": "白日提灯热度",
+        "onboard_time": 1774673482,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443226,
+        "num": 787906,
+        "word": "李昌钰曾说章莹颖尸体能找到",
+        "onboard_time": 1774670182,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28806,
+        "num": 610618,
+        "word": "北京范儿",
+        "onboard_time": 1774679423,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371826,
+        "num": 610223,
+        "word": "东风导弹射程覆盖全日本",
+        "onboard_time": 1774674742,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346320,
+        "num": 609555,
+        "word": "徐良删除汪苏泷后会无期作词作曲",
+        "onboard_time": 1774659742,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 967734,
+        "num": 608905,
+        "word": "李昌钰去世",
+        "onboard_time": 1774654460,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 304513,
+        "num": 608034,
+        "word": "也门胡塞武装参战",
+        "onboard_time": 1774675583,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234675,
+        "num": 607675,
+        "word": "五哈",
+        "onboard_time": 1774674922,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198940,
+        "num": 606595,
+        "word": "李昌钰选用自然疗法平静面对死亡",
+        "onboard_time": 1774672642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132605,
+        "num": 606148,
+        "word": "事业单位联考",
+        "onboard_time": 1774672222,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 605707,
+        "num": 605707,
+        "word": "张凌赫多年前发文抨击影视圈",
+        "onboard_time": 1774669041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531206,
+        "num": 531206,
+        "word": "阚清子想从116斤瘦到90斤",
+        "onboard_time": 1774678402,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213583,
+        "num": 317280,
+        "word": "百度一贴吧疑全机器人禁止人类发帖",
+        "onboard_time": 1774676244,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229554,
+        "num": 229554,
+        "word": "祝绪丹 虞书欣",
+        "onboard_time": 1774657462,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223310,
+        "num": 223310,
+        "word": "杨幂直播换了一双博肯鞋",
+        "onboard_time": 1774678701,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206648,
+        "num": 206648,
+        "word": "伊朗首都巨大爆炸",
+        "onboard_time": 1774664540,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214173,
+        "num": 192198,
+        "word": "李遐怡DOK2公开恋情",
+        "onboard_time": 1774674502,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177102,
+        "num": 177102,
+        "word": "这届年轻人办婚礼已经有小孩桌了",
+        "onboard_time": 1774669522,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161718,
+        "num": 176737,
+        "word": "40岁心梗幸存者已辞职回农村静养",
+        "onboard_time": 1774677982,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159358,
+        "num": 176211,
+        "word": "不给彩礼就不结婚或成违法行为",
+        "onboard_time": 1774668023,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406077,
+        "num": 175715,
+        "word": "粉底液将军 高跟鞋女战士",
+        "onboard_time": 1774674141,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351052,
+        "num": 175614,
+        "word": "李小龙遗孀琳达近况",
+        "onboard_time": 1774671201,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175136,
+        "num": 175136,
+        "word": "香蕉一开始其实是直的",
+        "onboard_time": 1774677982,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 167861,
+        "num": 167861,
+        "word": "严浩翔跑男上班状态",
+        "onboard_time": 1774674262,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159657,
+        "num": 159657,
+        "word": "白日提灯播出反馈",
+        "onboard_time": 1774673302,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147861,
+        "num": 152996,
+        "word": "95后小伙吸粪车做婚车迎娶新娘",
+        "onboard_time": 1774673903,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148184,
+        "num": 148184,
+        "word": "李小冉曾说这辈子不会参加浪姐",
+        "onboard_time": 1774677442,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148017,
+        "num": 148017,
+        "word": "白日提灯",
+        "onboard_time": 1774670781,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127988,
+        "num": 127988,
+        "word": "不要让任何人白嫖你的福气",
+        "onboard_time": 1774678221,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115655,
+        "num": 115655,
+        "word": "白日提灯开播",
+        "onboard_time": 1774670781,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113283,
+        "num": 113283,
+        "word": "金银又飙涨了",
+        "onboard_time": 1774676361,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111229,
+        "num": 111229,
+        "word": "第一次对年假有了实感",
+        "onboard_time": 1774663641,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110873,
+        "num": 110873,
+        "word": "事业编",
+        "onboard_time": 1774671381,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108435,
+        "num": 108435,
+        "word": "张子萱42岁状态",
+        "onboard_time": 1774666340,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106697,
+        "num": 106697,
+        "word": "严浩翔Fly概念视频",
+        "onboard_time": 1774672822,
+        "rank": 34,
+        "category": "音乐,音乐"
+      },
+      {
+        "raw_hot": 89567,
+        "num": 105067,
+        "word": "全红婵我嘉有女初长成",
+        "onboard_time": 1774677742,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104621,
+        "num": 104621,
+        "word": "周柯宇宣传迪丽热巴白日提灯",
+        "onboard_time": 1774676602,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93935,
+        "num": 93935,
+        "word": "阚清子饿就说明在瘦手机壳",
+        "onboard_time": 1774674982,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86896,
+        "num": 93673,
+        "word": "理发店潜规则",
+        "onboard_time": 1774679181,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93661,
+        "num": 93661,
+        "word": "孔雪儿工作室发文",
+        "onboard_time": 1774679602,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92161,
+        "num": 92161,
+        "word": "乘风2026",
+        "onboard_time": 1774671201,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78398,
+        "num": 91093,
+        "word": "全红婵游出水面大片",
+        "onboard_time": 1774679423,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90207,
+        "num": 90207,
+        "word": "逐玉舅舅舅妈也是嗑到了",
+        "onboard_time": 1774679000,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52098,
+        "num": 87629,
+        "word": "孟子义李昀锐终极撕名牌对决",
+        "onboard_time": 1774669881,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72907,
+        "num": 87445,
+        "word": "周末真正滋养大脑的方式",
+        "onboard_time": 1774677261,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61818,
+        "num": 87415,
+        "word": "白鹿范丞丞李昀锐开窗打招呼",
+        "onboard_time": 1774671381,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87411,
+        "num": 87411,
+        "word": "六部在拍古偶将军造型",
+        "onboard_time": 1774675642,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71675,
+        "num": 82644,
+        "word": "喜临门紧急冻结9亿元账户",
+        "onboard_time": 1774668802,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70540,
+        "num": 81475,
+        "word": "男子回应母亲1.8万埋地里20年后挖出",
+        "onboard_time": 1774673121,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66711,
+        "num": 81353,
+        "word": "东契奇不知不觉就40分了",
+        "onboard_time": 1774679000,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#对党中央定下来的事狠抓落实#"
+    }
+  }
+}
