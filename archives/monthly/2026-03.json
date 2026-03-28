@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774655637054,
+  "endTime": 1774665890300,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1774355609,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1292507,
+      "num": 558540,
+      "word": "徐良删除汪苏泷后会无期作词作曲",
+      "onboard_time": 1774659742,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1289079,
@@ -3515,6 +3523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 771420,
+      "num": 338340,
+      "word": "祝绪丹 虞书欣",
+      "onboard_time": 1774657462,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770383,
       "num": 834017,
       "word": "腾讯视频修改逐玉战报",
@@ -4168,6 +4184,14 @@
       "word": "刘文祥",
       "onboard_time": 1773547938,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 694062,
+      "num": 1111050,
+      "word": "李昌钰除了眼睛所有器官都捐出",
+      "onboard_time": 1774662801,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -8667,6 +8691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 454378,
+      "num": 337491,
+      "word": "伊朗首都巨大爆炸",
+      "onboard_time": 1774664540,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 454333,
       "num": 192466,
       "word": "范丞丞四天减脂餐对比",
@@ -9547,6 +9579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431559,
+      "num": 336557,
+      "word": "演员李尚宝去世",
+      "onboard_time": 1774655841,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431324,
       "num": 431324,
       "word": "速效救心丸搜索同比增30倍",
@@ -10217,6 +10257,14 @@
       "onboard_time": 1773291922,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 412498,
+      "num": 412498,
+      "word": "孙俪让浪姐节目组把陶昕然吊起来",
+      "onboard_time": 1774662561,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 412387,
@@ -13099,6 +13147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 339769,
+      "num": 339769,
+      "word": "第一次对年假有了实感",
+      "onboard_time": 1774663641,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 339514,
       "num": 297436,
       "word": "吴宣仪 剩下的交给时间和报应",
@@ -13337,6 +13393,14 @@
       "onboard_time": 1773131843,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 334205,
+      "num": 334205,
+      "word": "将军可以帅但不能没杀气",
+      "onboard_time": 1774657642,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 334096,
@@ -14369,6 +14433,14 @@
       "onboard_time": 1773294022,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316393,
+      "num": 790208,
+      "word": "腾讯给白日提灯99999份一日追剧卡",
+      "onboard_time": 1774663941,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 316202,
@@ -17065,6 +17137,14 @@
       "onboard_time": 1774439122,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272018,
+      "num": 272018,
+      "word": "舒畅还有剧压了16年才播",
+      "onboard_time": 1774656442,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 271859,
@@ -20819,6 +20899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 223351,
+      "num": 335064,
+      "word": "狗为了赢面相都变了",
+      "onboard_time": 1774664419,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223299,
       "num": 223299,
       "word": "山城小栗旬陈大榕结婚",
@@ -21313,6 +21401,14 @@
       "onboard_time": 1773067403,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217740,
+      "num": 146904,
+      "word": "自制张凌赫杯贴爆火已紧急暂停",
+      "onboard_time": 1774660582,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 217692,
@@ -22297,6 +22393,14 @@
       "onboard_time": 1773280461,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206437,
+      "num": 339615,
+      "word": "李昌钰是美国首位警界最高职位华裔",
+      "onboard_time": 1774661542,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206184,
@@ -24555,6 +24659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185127,
+      "num": 185127,
+      "word": "男子结婚月余遭家暴身高1米8不敢回家",
+      "onboard_time": 1774656140,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185107,
       "num": 154724,
       "word": "宫装樊长玉",
@@ -25353,6 +25465,14 @@
       "onboard_time": 1774595121,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177467,
+      "num": 105197,
+      "word": "李昌钰曾谈朱令案",
+      "onboard_time": 1774665441,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177453,
@@ -29603,6 +29723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 147888,
+      "num": 147888,
+      "word": "鸿蒙智行车辆智驾状态下冲撞幼童",
+      "onboard_time": 1774657281,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147797,
       "num": 147797,
       "word": "谢征给樊长玉刮痧",
@@ -31097,6 +31225,14 @@
       "onboard_time": 1774191263,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140033,
+      "num": 140033,
+      "word": "郭麒麟对接",
+      "onboard_time": 1774658363,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 140031,
@@ -32907,6 +33043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130600,
+      "num": 130600,
+      "word": "刘敏涛你先别回烟台我害怕",
+      "onboard_time": 1774663941,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130582,
       "num": 130582,
       "word": "王俊凯拍自己无所谓 拍自担必须帅",
@@ -34465,6 +34609,14 @@
       "onboard_time": 1773368542,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124251,
+      "num": 105268,
+      "word": "代斯回复白鹿",
+      "onboard_time": 1774663161,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 124247,
@@ -36873,6 +37025,14 @@
       "onboard_time": 1773581967,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 115561,
+      "num": 140488,
+      "word": "一人之下动漫十周年",
+      "onboard_time": 1774665802,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 115464,
@@ -40203,12 +40363,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105295,
+      "num": 105295,
+      "word": "男子腹痛忍1夜第二天晨练直接心梗",
+      "onboard_time": 1774657223,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105284,
       "num": 239539,
       "word": "三桶油股价异动公告",
       "onboard_time": 1772543249,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105260,
+      "num": 105260,
+      "word": "杜华前有韩庚后有王一博",
+      "onboard_time": 1774664840,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 105245,
@@ -40281,6 +40457,14 @@
       "onboard_time": 1772610925,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105196,
+      "num": 105196,
+      "word": "张凌赫回应因为太帅被忽略演技",
+      "onboard_time": 1774657341,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 105175,
@@ -41025,6 +41209,14 @@
       "onboard_time": 1774504400,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103129,
+      "num": 103129,
+      "word": "高市早苗对强闯中使馆事件沉默",
+      "onboard_time": 1774664840,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103101,
@@ -42011,6 +42203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100798,
+      "num": 100798,
+      "word": "乐华娱乐续约王一博股价大涨",
+      "onboard_time": 1774662323,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100790,
       "num": 100790,
       "word": "广东15岁少年颅内出血用砒霜救活",
@@ -42817,6 +43017,14 @@
       "onboard_time": 1774016182,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99023,
+      "num": 99023,
+      "word": "安崎回复孔雪儿",
+      "onboard_time": 1774656860,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 99013,
@@ -45283,6 +45491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93703,
+      "num": 433788,
+      "word": "伦纳德绝杀步行者",
+      "onboard_time": 1774664722,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93697,
       "num": 93697,
       "word": "黄金有望开启新一轮大牛市",
@@ -46427,6 +46643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91558,
+      "num": 338467,
+      "word": "我国芯片研发重要成果发布",
+      "onboard_time": 1774659862,
+      "rank": 9,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 91532,
       "num": 202102,
       "word": "荣耀MagicV6带飞李杰灵",
@@ -46553,6 +46777,14 @@
       "onboard_time": 1774396404,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 91345,
+      "num": 105227,
+      "word": "63岁女子脑出血偏瘫2个月后收获奇迹",
+      "onboard_time": 1774665022,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91344,
@@ -48187,6 +48419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88163,
+      "num": 88163,
+      "word": "伊朗科技大学遭到美以空袭",
+      "onboard_time": 1774664181,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88153,
       "num": 386083,
       "word": "纯真年代结局 全员HE",
@@ -49131,6 +49371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86505,
+      "num": 105199,
+      "word": "李昌钰曾参与过辛普森杀妻案",
+      "onboard_time": 1774663881,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86496,
       "num": 86496,
       "word": "抗癌女孩小费同学去世年仅21岁",
@@ -49193,6 +49441,14 @@
       "onboard_time": 1774407983,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86407,
+      "num": 105272,
+      "word": "樊振东气鼓鼓自己打自己",
+      "onboard_time": 1774661781,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 86384,
@@ -50025,6 +50281,14 @@
       "onboard_time": 1773467600,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84656,
+      "num": 84656,
+      "word": "花少导演回应神一季鬼一季",
+      "onboard_time": 1774658002,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 84654,
@@ -51729,6 +51993,14 @@
       "onboard_time": 1774001541,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81585,
+      "num": 81585,
+      "word": "伊朗不再局限于以牙还牙",
+      "onboard_time": 1774665141,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81560,
@@ -54227,6 +54499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77336,
+      "num": 77336,
+      "word": "老虎伍兹涉嫌药驾毒驾",
+      "onboard_time": 1774665562,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77330,
       "num": 87388,
       "word": "王安宇Celine造型",
@@ -54955,6 +55235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76061,
+      "num": 76061,
+      "word": "金饰价涨到1397元",
+      "onboard_time": 1774663341,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76046,
       "num": 103742,
       "word": "孙颖莎诠释独立女性力量",
@@ -55105,6 +55393,14 @@
       "onboard_time": 1773397640,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75847,
+      "num": 75847,
+      "word": "王俊凯手写无人乐园歌词",
+      "onboard_time": 1774657223,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 75810,
@@ -56483,6 +56779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 73451,
+      "num": 71666,
+      "word": "赫丽摸金宇包场迪丽热巴白日提灯",
+      "onboard_time": 1774658482,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73449,
       "num": 73449,
       "word": "小米汽车三项外观专利被提起无效",
@@ -57507,6 +57811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 71781,
+      "num": 71781,
+      "word": "减肥效果最佳的恐怖片榜单",
+      "onboard_time": 1774663821,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 71749,
       "num": 71749,
       "word": "曝Rookie回归",
@@ -57657,6 +57969,22 @@
       "onboard_time": 1773728181,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 71483,
+      "num": 71483,
+      "word": "教你3个动作缓解久坐不适",
+      "onboard_time": 1774662443,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 71477,
+      "num": 71477,
+      "word": "SpaceX",
+      "onboard_time": 1774665441,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 71429,
@@ -70411,6 +70739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30245,
+      "num": 649919,
+      "word": "20条负面清单让基础教育回归本真",
+      "onboard_time": 1774665263,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30156,
       "num": 96716,
       "word": "宋兆普说两年内高额彩礼有望取消",
@@ -75303,6 +75639,9 @@
     },
     {
       "word": "#中共中央政治局3月27日召开会议#"
+    },
+    {
+      "word": "#对党中央定下来的事狠抓落实#"
     }
   ]
 }
