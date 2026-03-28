@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774684252591,
+  "endTime": 1774684892407,
   "band_list": [
     {
       "raw_hot": 3044861,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 614423,
+      "num": 1098307,
+      "word": "白日提灯热度",
+      "onboard_time": 1774673482,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 609576,
       "num": 160866,
       "word": "王一博微博改名",
@@ -113,14 +121,6 @@
       "onboard_time": 1774671201,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 586054,
-      "num": 1093768,
-      "word": "白日提灯热度",
-      "onboard_time": 1774673482,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 581633,
@@ -203,8 +203,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409438,
+      "num": 209972,
+      "word": "升糖刺客",
+      "onboard_time": 1774681881,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 385717,
-      "num": 799429,
+      "num": 810270,
       "word": "40岁心梗幸存者已辞职回农村静养",
       "onboard_time": 1774677982,
       "rank": 18,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 262072,
-      "num": 196475,
+      "num": 200757,
       "word": "青菜焦虑症",
       "onboard_time": 1774680802,
       "rank": 15,
@@ -417,6 +425,14 @@
       "onboard_time": 1774623204,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241213,
+      "num": 199659,
+      "word": "宋威龙签约天浩盛世",
+      "onboard_time": 1774684160,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 235090,
@@ -547,6 +563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198487,
+      "num": 183633,
+      "word": "粉底液将军被嘲不该仅演员承担",
+      "onboard_time": 1774681460,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193931,
       "num": 193931,
       "word": "伊朗无人机群袭以色列最大运输中心",
@@ -595,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184589,
-      "num": 184589,
-      "word": "升糖刺客",
-      "onboard_time": 1774681881,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 183761,
       "num": 133960,
       "word": "鬼见了周冬雨都得低头",
@@ -635,11 +651,11 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 174084,
-      "num": 174084,
-      "word": "宋威龙签约天浩盛世",
-      "onboard_time": 1774684160,
-      "rank": 21,
+      "raw_hot": 170717,
+      "num": 159750,
+      "word": "王俊凯工作室出图",
+      "onboard_time": 1774683260,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -664,14 +680,6 @@
       "word": "严浩翔方回应KTV传闻",
       "onboard_time": 1774613842,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 159750,
-      "num": 159750,
-      "word": "王俊凯工作室出图",
-      "onboard_time": 1774683260,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -763,11 +771,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141951,
-      "num": 141951,
-      "word": "粉底液将军被嘲不该仅演员承担",
-      "onboard_time": 1774681460,
-      "rank": 26,
+      "raw_hot": 142566,
+      "num": 142566,
+      "word": "白日提灯疑似被恶意打分",
+      "onboard_time": 1774683801,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -971,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106608,
-      "num": 106608,
-      "word": "白日提灯疑似被恶意打分",
-      "onboard_time": 1774683801,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106377,
       "num": 106377,
       "word": "51岁大叔8年狂考20本证书改变人生",
@@ -1035,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100020,
+      "num": 183979,
+      "word": "日本欲在距台110公里岛屿部署导弹",
+      "onboard_time": 1774683621,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99515,
       "num": 99515,
       "word": "王橹杰换头像",
@@ -1067,6 +1075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95089,
+      "num": 95089,
+      "word": "李小冉问浪姐会恶剪吗",
+      "onboard_time": 1774679901,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94068,
       "num": 69906,
       "word": "乘风2026初舞台就有淘汰",
@@ -1075,20 +1091,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93725,
+      "num": 92974,
+      "word": "小S全身拉伸法",
+      "onboard_time": 1774682481,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93703,
       "num": 454890,
       "word": "伦纳德绝杀步行者",
       "onboard_time": 1774664722,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92974,
-      "num": 92974,
-      "word": "小S全身拉伸法",
-      "onboard_time": 1774682481,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 92618,
@@ -1153,6 +1169,14 @@
       "onboard_time": 1774677742,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89364,
+      "num": 89364,
+      "word": "小猪因为溜肩逃过一劫",
+      "onboard_time": 1774683440,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 89236,
@@ -1299,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84139,
-      "num": 84139,
-      "word": "小猪因为溜肩逃过一劫",
-      "onboard_time": 1774683440,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83762,
       "num": 83762,
       "word": "第一次见甲方对乙方恭恭敬敬",
@@ -1369,14 +1385,6 @@
       "onboard_time": 1774674562,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79469,
-      "num": 79469,
-      "word": "李小冉问浪姐会恶剪吗",
-      "onboard_time": 1774679901,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 79387,
@@ -1491,6 +1499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 72428,
+      "num": 80070,
+      "word": "老鼠干成10后社交硬通货",
+      "onboard_time": 1774681341,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72289,
       "num": 104482,
       "word": "花花搂着和叶睡觉能治愈全世界",
@@ -1547,12 +1563,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 70178,
-      "num": 70178,
-      "word": "老鼠干成10后社交硬通货",
-      "onboard_time": 1774681341,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 70122,
+      "num": 70122,
+      "word": "点奶茶要求奶和茶分离",
+      "onboard_time": 1774684761,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 68687,
@@ -1568,6 +1584,14 @@
       "word": "白鹿范丞丞李昀锐开窗打招呼",
       "onboard_time": 1774671381,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 67287,
+      "num": 67287,
+      "word": "白鹿说泥滩才是最夯的",
+      "onboard_time": 1774680322,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1707,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44257,
-      "num": 183979,
-      "word": "日本欲在距台110公里岛屿部署导弹",
-      "onboard_time": 1774683621,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 44191,
       "num": 64654,
       "word": "伊朗外长在联合国称将自卫到底",
@@ -1827,6 +1843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15986,
+      "num": 641119,
+      "word": "正能量创作者大会",
+      "onboard_time": 1774681942,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15488,
       "num": 30733,
       "word": "她的盛焰大结局",
@@ -1841,14 +1865,6 @@
       "onboard_time": 1774642274,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 15386,
-      "num": 631263,
-      "word": "正能量创作者大会",
-      "onboard_time": 1774681942,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15343,

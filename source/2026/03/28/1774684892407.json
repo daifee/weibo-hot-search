@@ -1,0 +1,410 @@
+{
+  "runTime": 1774684892407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 614423,
+        "num": 1098307,
+        "word": "白日提灯热度",
+        "onboard_time": 1774673482,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352074,
+        "num": 810270,
+        "word": "40岁心梗幸存者已辞职回农村静养",
+        "onboard_time": 1774677982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15986,
+        "num": 641119,
+        "word": "正能量创作者大会",
+        "onboard_time": 1774681942,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333977,
+        "num": 333977,
+        "word": "李昌钰曾说章莹颖尸体能找到",
+        "onboard_time": 1774670182,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296953,
+        "num": 296953,
+        "word": "李昌钰父亲在太平轮海难中去世",
+        "onboard_time": 1774681341,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687103,
+        "num": 292954,
+        "word": "李昌钰去世",
+        "onboard_time": 1774654460,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 440085,
+        "num": 292159,
+        "word": "理发店潜规则",
+        "onboard_time": 1774679181,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285654,
+        "num": 285654,
+        "word": "徐良删除汪苏泷后会无期作词作曲",
+        "onboard_time": 1774659742,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213862,
+        "num": 213862,
+        "word": "东风导弹射程覆盖全日本",
+        "onboard_time": 1774674742,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116965,
+        "num": 213704,
+        "word": "事业编",
+        "onboard_time": 1774671381,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 599930,
+        "num": 210912,
+        "word": "阚清子想从116斤瘦到90斤",
+        "onboard_time": 1774678402,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409438,
+        "num": 209972,
+        "word": "升糖刺客",
+        "onboard_time": 1774681881,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 370002,
+        "num": 207714,
+        "word": "张凌赫多年前发文抨击影视圈",
+        "onboard_time": 1774669041,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293231,
+        "num": 206151,
+        "word": "杨幂直播换了一双博肯鞋",
+        "onboard_time": 1774678701,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273977,
+        "num": 204801,
+        "word": "全红婵19岁气场全开",
+        "onboard_time": 1774679722,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289571,
+        "num": 203720,
+        "word": "孔雪儿工作室发文",
+        "onboard_time": 1774679602,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257809,
+        "num": 200757,
+        "word": "青菜焦虑症",
+        "onboard_time": 1774680802,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241213,
+        "num": 199659,
+        "word": "宋威龙签约天浩盛世",
+        "onboard_time": 1774684160,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198855,
+        "num": 198855,
+        "word": "白日提灯",
+        "onboard_time": 1774670781,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184574,
+        "num": 184574,
+        "word": "伊朗首都巨大爆炸",
+        "onboard_time": 1774664540,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198487,
+        "num": 183633,
+        "word": "粉底液将军被嘲不该仅演员承担",
+        "onboard_time": 1774681460,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176371,
+        "num": 176371,
+        "word": "粉底液将军 高跟鞋女战士",
+        "onboard_time": 1774674141,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145407,
+        "num": 145407,
+        "word": "新娘回应小伙用吸粪车做婚车",
+        "onboard_time": 1774681881,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170717,
+        "num": 145085,
+        "word": "王俊凯工作室出图",
+        "onboard_time": 1774683260,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100020,
+        "num": 142876,
+        "word": "日本欲在距台110公里岛屿部署导弹",
+        "onboard_time": 1774683621,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142566,
+        "num": 142566,
+        "word": "白日提灯疑似被恶意打分",
+        "onboard_time": 1774683801,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135627,
+        "num": 135627,
+        "word": "香蕉一开始其实是直的",
+        "onboard_time": 1774677982,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134834,
+        "num": 134834,
+        "word": "QQ音乐巅峰之夜红毯",
+        "onboard_time": 1774680862,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120211,
+        "num": 120211,
+        "word": "祝绪丹 虞书欣",
+        "onboard_time": 1774657462,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97409,
+        "num": 117717,
+        "word": "不要让任何人白嫖你的福气",
+        "onboard_time": 1774678221,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116319,
+        "num": 116319,
+        "word": "李小龙遗孀琳达近况",
+        "onboard_time": 1774671201,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104073,
+        "num": 104073,
+        "word": "严浩翔Fly概念视频",
+        "onboard_time": 1774672822,
+        "rank": 31,
+        "category": "音乐,音乐"
+      },
+      {
+        "raw_hot": 92338,
+        "num": 100543,
+        "word": "不给彩礼就不结婚或成违法行为",
+        "onboard_time": 1774668023,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98841,
+        "num": 98841,
+        "word": "白日提灯开播",
+        "onboard_time": 1774670781,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95089,
+        "num": 95089,
+        "word": "李小冉问浪姐会恶剪吗",
+        "onboard_time": 1774679901,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91531,
+        "num": 91531,
+        "word": "也门胡塞武装参战",
+        "onboard_time": 1774675583,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93725,
+        "num": 91453,
+        "word": "小S全身拉伸法",
+        "onboard_time": 1774682481,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90093,
+        "num": 90093,
+        "word": "严浩翔跑男上班状态",
+        "onboard_time": 1774674262,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89364,
+        "num": 89364,
+        "word": "小猪因为溜肩逃过一劫",
+        "onboard_time": 1774683440,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72428,
+        "num": 80070,
+        "word": "老鼠干成10后社交硬通货",
+        "onboard_time": 1774681341,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79486,
+        "num": 79486,
+        "word": "乘风2026",
+        "onboard_time": 1774671201,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77220,
+        "num": 77220,
+        "word": "张子萱42岁状态",
+        "onboard_time": 1774666340,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71737,
+        "num": 71737,
+        "word": "周末真正滋养大脑的方式",
+        "onboard_time": 1774677261,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75182,
+        "num": 71706,
+        "word": "五哈",
+        "onboard_time": 1774674922,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68225,
+        "num": 71535,
+        "word": "95后小伙吸粪车做婚车迎娶新娘",
+        "onboard_time": 1774673903,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71525,
+        "num": 71525,
+        "word": "李遐怡DOK2公开恋情",
+        "onboard_time": 1774674502,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70122,
+        "num": 70122,
+        "word": "点奶茶要求奶和茶分离",
+        "onboard_time": 1774684761,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67287,
+        "num": 67287,
+        "word": "白鹿说泥滩才是最夯的",
+        "onboard_time": 1774680322,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60335,
+        "num": 60335,
+        "word": "如果你发现跟一个人聊天很舒服",
+        "onboard_time": 1774681041,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60063,
+        "num": 60063,
+        "word": "全红婵成最年轻奥运三冠王",
+        "onboard_time": 1774680141,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指引以实干出政绩#"
+    }
+  }
+}
