@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774737492073,
+  "endTime": 1774738617485,
   "band_list": [
     {
       "raw_hot": 1789667,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279633,
+      "num": 431122,
+      "word": "世上顶好顶好的老太婆走了",
+      "onboard_time": 1774718777,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270893,
       "num": 180499,
       "word": "R1SE任豪回来了",
@@ -107,14 +115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204009,
-      "num": 354768,
-      "word": "世上顶好顶好的老太婆走了",
-      "onboard_time": 1774718777,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200163,
       "num": 200163,
       "word": "伊朗连遭重创绝地反击",
@@ -155,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156317,
+      "num": 156317,
+      "word": "以色列三面受敌",
+      "onboard_time": 1774726034,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 139319,
       "num": 139319,
       "word": "女子断碳水2月确诊糖尿病前期",
@@ -169,14 +177,6 @@
       "onboard_time": 1774711463,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 129025,
-      "num": 129025,
-      "word": "以色列三面受敌",
-      "onboard_time": 1774726034,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 126795,
@@ -371,6 +371,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60974,
+      "num": 60974,
+      "word": "就是你是RAIN也得接孩子放学",
+      "onboard_time": 1774731913,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58308,
+      "num": 72877,
+      "word": "幼儿园自理比赛女孩靠佛系速度获胜",
+      "onboard_time": 1774697542,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58110,
       "num": 71678,
       "word": "JDG对战AG",
@@ -427,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44853,
-      "num": 44853,
-      "word": "就是你是RAIN也得接孩子放学",
-      "onboard_time": 1774731913,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43675,
       "num": 43675,
       "word": "没有人比R1SE更爱R1SE",
@@ -451,20 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40878,
-      "num": 72877,
-      "word": "幼儿园自理比赛女孩靠佛系速度获胜",
-      "onboard_time": 1774697542,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37855,
       "num": 71690,
       "word": "太原一商圈起火现场浓烟滚滚",
       "onboard_time": 1774705822,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 35955,
+      "num": 71672,
+      "word": "中国AI不会因几张邀请函停滞",
+      "onboard_time": 1774706663,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35870,
@@ -475,8 +483,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34016,
+      "num": 41227,
+      "word": "现货黄金",
+      "onboard_time": 1774703182,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 33401,
-      "num": 40269,
+      "num": 40891,
       "word": "金价又涨了",
       "onboard_time": 1774720336,
       "rank": 36,
@@ -499,32 +515,16 @@
       "category": "军事"
     },
     {
-      "raw_hot": 30153,
-      "num": 71672,
-      "word": "中国AI不会因几张邀请函停滞",
-      "onboard_time": 1774706663,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 29689,
-      "num": 29689,
-      "word": "现货黄金",
-      "onboard_time": 1774703182,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 26771,
-      "num": 29668,
+      "num": 41110,
       "word": "也门胡塞武装发射导弹",
       "onboard_time": 1774720937,
       "rank": 27,
       "category": "国际时政"
     },
     {
-      "raw_hot": 22237,
-      "num": 29641,
+      "raw_hot": 25809,
+      "num": 41045,
       "word": "檀健次谢却山家主气场",
       "onboard_time": 1774723875,
       "rank": 46,
@@ -563,20 +563,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14323,
+      "num": 331897,
+      "word": "政企新媒体怎么火出圈",
+      "onboard_time": 1774701203,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13146,
       "num": 20233,
       "word": "鞠婧祎唱的雨爱",
       "onboard_time": 1774731975,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11548,
-      "num": 281895,
-      "word": "政企新媒体怎么火出圈",
-      "onboard_time": 1774701203,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
