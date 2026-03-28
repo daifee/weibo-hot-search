@@ -1,0 +1,410 @@
+{
+  "runTime": 1774688727838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 661350,
+        "num": 1105816,
+        "word": "白日提灯热度",
+        "onboard_time": 1774673482,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399459,
+        "num": 787729,
+        "word": "新娘回应小伙用吸粪车做婚车",
+        "onboard_time": 1774681881,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15260,
+        "num": 622780,
+        "word": "正能量创作者大会",
+        "onboard_time": 1774681942,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324900,
+        "num": 324900,
+        "word": "徐良删除汪苏泷后会无期作词作曲",
+        "onboard_time": 1774659742,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 303181,
+        "num": 303181,
+        "word": "40岁心梗幸存者已辞职回农村静养",
+        "onboard_time": 1774677982,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254836,
+        "num": 254836,
+        "word": "青菜焦虑症",
+        "onboard_time": 1774680802,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206521,
+        "num": 206521,
+        "word": "白日提灯",
+        "onboard_time": 1774670781,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189716,
+        "num": 189716,
+        "word": "单亲妈妈遭羁押821天被判无罪",
+        "onboard_time": 1774685541,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 140771,
+        "num": 140771,
+        "word": "事业编",
+        "onboard_time": 1774671381,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110293,
+        "num": 140760,
+        "word": "45岁男子心梗离世2天前还在跑马拉松",
+        "onboard_time": 1774685001,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487299,
+        "num": 139763,
+        "word": "宋威龙签约天浩盛世",
+        "onboard_time": 1774684160,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 864302,
+        "num": 139374,
+        "word": "李昌钰去世",
+        "onboard_time": 1774654460,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 486797,
+        "num": 138755,
+        "word": "升糖刺客",
+        "onboard_time": 1774681881,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 431589,
+        "num": 138185,
+        "word": "阚清子想从116斤瘦到90斤",
+        "onboard_time": 1774678402,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74991,
+        "num": 138122,
+        "word": "李昌钰唯一被推翻的案件",
+        "onboard_time": 1774688481,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374640,
+        "num": 137486,
+        "word": "张凌赫多年前发文抨击影视圈",
+        "onboard_time": 1774669041,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308063,
+        "num": 136786,
+        "word": "TF四代二班见面会",
+        "onboard_time": 1774687759,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177012,
+        "num": 136225,
+        "word": "全红婵19岁气场全开",
+        "onboard_time": 1774679722,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180217,
+        "num": 135803,
+        "word": "王俊凯工作室出图",
+        "onboard_time": 1774683260,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82332,
+        "num": 135181,
+        "word": "90后寻宠师2年狂赚近百万",
+        "onboard_time": 1774687580,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172536,
+        "num": 134675,
+        "word": "理发店潜规则",
+        "onboard_time": 1774679181,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171901,
+        "num": 134412,
+        "word": "伊朗首都巨大爆炸",
+        "onboard_time": 1774664540,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158111,
+        "num": 133713,
+        "word": "粉底液将军 高跟鞋女战士",
+        "onboard_time": 1774674141,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142077,
+        "num": 133355,
+        "word": "粉底液将军被嘲不该仅演员承担",
+        "onboard_time": 1774681460,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132982,
+        "num": 132982,
+        "word": "香蕉一开始其实是直的",
+        "onboard_time": 1774677982,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 124618,
+        "num": 124618,
+        "word": "女子断碳水2月确诊糖尿病前期",
+        "onboard_time": 1774688241,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115807,
+        "num": 115807,
+        "word": "孔雪儿工作室发文",
+        "onboard_time": 1774679602,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67563,
+        "num": 115760,
+        "word": "律师谈孕妻遇男医生做产检丈夫闹事",
+        "onboard_time": 1774687940,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115719,
+        "num": 115719,
+        "word": "白日提灯第3集17分57秒",
+        "onboard_time": 1774685722,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69535,
+        "num": 113517,
+        "word": "胡塞武装称打击以色列重要军事目标",
+        "onboard_time": 1774688121,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121553,
+        "num": 113435,
+        "word": "终于懂大学面积小的含金量了",
+        "onboard_time": 1774687641,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113344,
+        "num": 113344,
+        "word": "点奶茶要求奶和茶分离",
+        "onboard_time": 1774684761,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103547,
+        "num": 103547,
+        "word": "严浩翔带着八字眉向大家打招呼",
+        "onboard_time": 1774686021,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99468,
+        "num": 99468,
+        "word": "把最会吃的一群人聚到一起了",
+        "onboard_time": 1774688301,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93208,
+        "num": 93208,
+        "word": "白日提灯开播",
+        "onboard_time": 1774670781,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85151,
+        "num": 85151,
+        "word": "祝绪丹 虞书欣",
+        "onboard_time": 1774657462,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77079,
+        "num": 85012,
+        "word": "不要让任何人白嫖你的福气",
+        "onboard_time": 1774678221,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100582,
+        "num": 84679,
+        "word": "严浩翔Fly概念视频",
+        "onboard_time": 1774672822,
+        "rank": 37,
+        "category": "音乐,音乐"
+      },
+      {
+        "raw_hot": 90064,
+        "num": 84258,
+        "word": "原来黄晓明是白日提灯的出品人",
+        "onboard_time": 1774687823,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42116,
+        "num": 83860,
+        "word": "泰国与伊朗达成油轮通行协议",
+        "onboard_time": 1774688003,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55823,
+        "num": 83584,
+        "word": "丈夫回应拿妻子救命手术费偷偷买酒",
+        "onboard_time": 1774687940,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80463,
+        "num": 83089,
+        "word": "杨幂直播换了一双博肯鞋",
+        "onboard_time": 1774678701,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83072,
+        "num": 83072,
+        "word": "李晟好女必过百",
+        "onboard_time": 1774688003,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74463,
+        "num": 82156,
+        "word": "不给彩礼就不结婚或成违法行为",
+        "onboard_time": 1774668023,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82053,
+        "num": 82053,
+        "word": "李小龙遗孀琳达近况",
+        "onboard_time": 1774671201,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81143,
+        "num": 81143,
+        "word": "五哈",
+        "onboard_time": 1774674922,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73160,
+        "num": 79377,
+        "word": "先天糖蒜圣体",
+        "onboard_time": 1774686501,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58317,
+        "num": 79211,
+        "word": "周末真正滋养大脑的方式",
+        "onboard_time": 1774677261,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79101,
+        "num": 79101,
+        "word": "白日提灯疑似被恶意打分",
+        "onboard_time": 1774683801,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52743,
+        "num": 77223,
+        "word": "苏翊鸣又创中国单板滑雪历史",
+        "onboard_time": 1774686501,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指引以实干出政绩#"
+    }
+  }
+}
