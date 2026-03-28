@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774703388435,
+  "endTime": 1774704786814,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1091,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1398418,
+      "num": 683587,
+      "word": "徐良方致歉声明",
+      "onboard_time": 1774701862,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1380711,
       "num": 1380711,
       "word": "伊朗导弹击中美第五舰队总部瞬间",
@@ -1425,14 +1433,6 @@
       "onboard_time": 1773962598,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1205058,
-      "num": 683587,
-      "word": "徐良方致歉声明",
-      "onboard_time": 1774701862,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 1200793,
@@ -12595,6 +12595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 359470,
+      "num": 359470,
+      "word": "AG战胜JDG",
+      "onboard_time": 1774704323,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 359292,
       "num": 779615,
       "word": "4S店称吃饭超260次客户已报警",
@@ -12625,6 +12633,14 @@
       "onboard_time": 1773152364,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 358779,
+      "num": 249402,
+      "word": "张凌赫大一曾分享暗恋细节",
+      "onboard_time": 1774701022,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 358767,
@@ -13449,6 +13465,14 @@
       "onboard_time": 1774243280,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338898,
+      "num": 135970,
+      "word": "伊朗袭击沙特基地",
+      "onboard_time": 1774703422,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 338725,
@@ -14897,6 +14921,14 @@
       "onboard_time": 1773135743,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 313927,
+      "num": 313927,
+      "word": "男医生做产检丈夫撞墙为何被群嘲",
+      "onboard_time": 1774703362,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313642,
@@ -16537,6 +16569,14 @@
       "onboard_time": 1773649645,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 286453,
+      "num": 286453,
+      "word": "陈飞宇问迪丽热巴你看清过我吗",
+      "onboard_time": 1774702762,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 286138,
@@ -18979,6 +19019,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 250780,
+      "num": 175273,
+      "word": "女子在家被流浪狗咬伤3天后狗死了",
+      "onboard_time": 1774702701,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250583,
       "num": 136595,
       "word": "宝宝巴士被罚30万元",
@@ -19091,6 +19139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249233,
+      "num": 249233,
+      "word": "伊朗称造成美军据点极其严重伤亡",
+      "onboard_time": 1774698022,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 249212,
       "num": 220477,
       "word": "42岁婆婆刚给儿子娶完媳妇就怀孕了",
@@ -19193,14 +19249,6 @@
       "onboard_time": 1773220281,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 248181,
-      "num": 165753,
-      "word": "女子在家被流浪狗咬伤3天后狗死了",
-      "onboard_time": 1774702701,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 248150,
@@ -19451,14 +19499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244800,
-      "num": 189712,
-      "word": "张凌赫大一曾分享暗恋细节",
-      "onboard_time": 1774701022,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 244499,
       "num": 761065,
       "word": "四川天府机场多名老人扶梯上逆行",
@@ -19657,14 +19697,6 @@
       "onboard_time": 1773323243,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241438,
-      "num": 241438,
-      "word": "伊朗称造成美军据点极其严重伤亡",
-      "onboard_time": 1774698022,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 241431,
@@ -20836,7 +20868,7 @@
     },
     {
       "raw_hot": 228724,
-      "num": 216415,
+      "num": 221316,
       "word": "单依纯演唱会",
       "onboard_time": 1774695082,
       "rank": 31,
@@ -22689,6 +22721,14 @@
       "onboard_time": 1774173320,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208992,
+      "num": 208992,
+      "word": "男摄影师用白丝裸足引流卖女童视频",
+      "onboard_time": 1774701801,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208940,
@@ -29523,14 +29563,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 152949,
-      "num": 152949,
-      "word": "男摄影师用白丝裸足引流卖女童视频",
-      "onboard_time": 1774701801,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152945,
       "num": 152945,
       "word": "伊朗遭袭40小时后情况",
@@ -29747,6 +29779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 151727,
+      "num": 151727,
+      "word": "AG联赛七连进胜者组决赛",
+      "onboard_time": 1774704323,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151697,
       "num": 655162,
       "word": "嘉人镜头冲到王一博怀里了",
@@ -29833,14 +29873,6 @@
       "onboard_time": 1773025641,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151090,
-      "num": 151090,
-      "word": "陈飞宇问迪丽热巴你看清过我吗",
-      "onboard_time": 1774702762,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 151073,
@@ -32089,6 +32121,14 @@
       "onboard_time": 1774236799,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138720,
+      "num": 138720,
+      "word": "嬴政爱长生",
+      "onboard_time": 1774703663,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 138623,
@@ -36691,6 +36731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119478,
+      "num": 119478,
+      "word": "迪丽热巴Hi6开场舞台",
+      "onboard_time": 1774702762,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119406,
       "num": 96117,
       "word": "巅峰之夜全场大喊王俊凯",
@@ -39035,6 +39083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111373,
+      "num": 111373,
+      "word": "去年五大茶饮净赚百亿元",
+      "onboard_time": 1774703422,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111371,
       "num": 216072,
       "word": "刘亦菲夏日松弛感拉满",
@@ -39977,6 +40033,14 @@
       "onboard_time": 1774622423,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108772,
+      "num": 108772,
+      "word": "QQ音乐巅峰之夜直播",
+      "onboard_time": 1774700063,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 108768,
@@ -41473,6 +41537,14 @@
       "onboard_time": 1772603184,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104732,
+      "num": 91139,
+      "word": "张峻豪音乐节",
+      "onboard_time": 1774703362,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 104718,
@@ -43961,14 +44033,6 @@
       "onboard_time": 1774175779,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98937,
-      "num": 98937,
-      "word": "迪丽热巴Hi6开场舞台",
-      "onboard_time": 1774702762,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 98919,
@@ -47395,6 +47459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92072,
+      "num": 92072,
+      "word": "警方通报青岛胶州连环相撞事故",
+      "onboard_time": 1774700902,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92067,
       "num": 557531,
       "word": "公积金制度改革加速中",
@@ -49529,14 +49601,6 @@
       "onboard_time": 1773791422,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88126,
-      "num": 88126,
-      "word": "QQ音乐巅峰之夜直播",
-      "onboard_time": 1774700063,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 88110,
@@ -55819,6 +55883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 77315,
+      "num": 77315,
+      "word": "巅峰之夜",
+      "onboard_time": 1774699942,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 77305,
       "num": 181335,
       "word": "粉笔模考",
@@ -57443,14 +57515,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 74616,
-      "num": 74616,
-      "word": "张峻豪音乐节",
-      "onboard_time": 1774703362,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 74606,
       "num": 81694,
       "word": "命运戏弄大馋猫",
@@ -58667,14 +58731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72678,
-      "num": 72678,
-      "word": "警方通报青岛胶州连环相撞事故",
-      "onboard_time": 1774700902,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72667,
       "num": 289236,
       "word": "老一辈过年最难忘的是哪一年",
@@ -59065,14 +59121,6 @@
       "onboard_time": 1774246220,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 72076,
-      "num": 72076,
-      "word": "男医生做产检丈夫撞墙为何被群嘲",
-      "onboard_time": 1774703362,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72065,
@@ -76665,6 +76713,14 @@
       "onboard_time": 1773486140,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10669,
+      "num": 176031,
+      "word": "回到二三线后开启了新的人生",
+      "onboard_time": 1774704323,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10642,
