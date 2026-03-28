@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774688727838,
+  "endTime": 1774691167545,
   "band_list": [
     {
       "raw_hot": 3044861,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409110,
+      "num": 409110,
+      "word": "一念江南",
+      "onboard_time": 1774689260,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385717,
       "num": 810270,
       "word": "40岁心梗幸存者已辞职回农村静养",
@@ -241,6 +249,14 @@
       "onboard_time": 1774674742,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 361498,
+      "num": 306234,
+      "word": "白日提灯直播",
+      "onboard_time": 1774688782,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 351767,
@@ -265,6 +281,14 @@
       "onboard_time": 1774617204,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334929,
+      "num": 1053588,
+      "word": "45岁男子心梗离世2天前还在跑马拉松",
+      "onboard_time": 1774685001,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334205,
@@ -299,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308171,
+      "num": 308171,
+      "word": "终于懂大学面积小的含金量了",
+      "onboard_time": 1774687641,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 308063,
       "num": 204494,
       "word": "TF四代二班见面会",
@@ -329,6 +361,14 @@
       "onboard_time": 1774654460,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 284677,
+      "num": 138186,
+      "word": "女子断碳水2月确诊糖尿病前期",
+      "onboard_time": 1774688241,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280802,
@@ -417,6 +457,14 @@
       "onboard_time": 1774610963,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 255943,
+      "num": 255943,
+      "word": "单亲妈妈遭羁押821天被判无罪",
+      "onboard_time": 1774685541,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 251921,
@@ -611,14 +659,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 189716,
-      "num": 232588,
-      "word": "单亲妈妈遭羁押821天被判无罪",
-      "onboard_time": 1774685541,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 187513,
       "num": 164514,
       "word": "何晟铭说与徐麒雯恋爱曾被于正阻拦",
@@ -633,6 +673,14 @@
       "onboard_time": 1774668802,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 186462,
+      "num": 186462,
+      "word": "点奶茶要求奶和茶分离",
+      "onboard_time": 1774684761,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 185127,
@@ -731,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153147,
+      "num": 102902,
+      "word": "我家那小子",
+      "onboard_time": 1774690401,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152708,
       "num": 152708,
       "word": "白鹿为乘风姐姐代斯加油",
@@ -811,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139259,
+      "num": 139259,
+      "word": "奔跑吧直播",
+      "onboard_time": 1774690881,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138918,
       "num": 138918,
       "word": "白日提灯第3集17分57秒",
@@ -883,28 +947,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124618,
-      "num": 124618,
-      "word": "女子断碳水2月确诊糖尿病前期",
-      "onboard_time": 1774688241,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124414,
       "num": 124414,
       "word": "危险关系 吴慷仁",
       "onboard_time": 1774627461,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121553,
-      "num": 113435,
-      "word": "终于懂大学面积小的含金量了",
-      "onboard_time": 1774687641,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 119862,
@@ -955,14 +1003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 113344,
-      "num": 113344,
-      "word": "点奶茶要求奶和茶分离",
-      "onboard_time": 1774684761,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113283,
       "num": 113283,
       "word": "金银又飙涨了",
@@ -987,12 +1027,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111979,
-      "num": 140760,
-      "word": "45岁男子心梗离世2天前还在跑马拉松",
-      "onboard_time": 1774685001,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 111027,
+      "num": 111027,
+      "word": "日本搞大杀器妄图覆盖中国全境",
+      "onboard_time": 1774689021,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110849,
@@ -1075,11 +1115,27 @@
       "category": "民生新闻,综艺"
     },
     {
+      "raw_hot": 104506,
+      "num": 102874,
+      "word": "华为王云鹤离职",
+      "onboard_time": 1774691001,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 103124,
       "num": 103124,
       "word": "时代少年团奔跑吧首秀",
       "onboard_time": 1774672581,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102845,
+      "num": 102845,
+      "word": "刘耀文奔跑吧首秀",
+      "onboard_time": 1774690401,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1139,12 +1195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98508,
+      "num": 98508,
+      "word": "煤气灯效应",
+      "onboard_time": 1774689260,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97808,
       "num": 97808,
       "word": "徐良演唱会上纪念本兮",
       "onboard_time": 1774621104,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97160,
+      "num": 97160,
+      "word": "年仅21岁牺牲母亲跨400公里扫墓",
+      "onboard_time": 1774690161,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96936,
@@ -1161,6 +1233,14 @@
       "onboard_time": 1774679901,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94700,
+      "num": 113517,
+      "word": "胡塞武装称打击以色列重要军事目标",
+      "onboard_time": 1774688121,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94068,
@@ -1219,6 +1299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91209,
+      "num": 91209,
+      "word": "泰国与伊朗达成油轮通行协议",
+      "onboard_time": 1774688003,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90677,
       "num": 70768,
       "word": "白日提灯 喜剧",
@@ -1251,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90052,
+      "num": 90052,
+      "word": "李昌钰母亲把13个子女培养成博士",
+      "onboard_time": 1774690640,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89567,
       "num": 105067,
       "word": "全红婵我嘉有女初长成",
@@ -1280,6 +1376,14 @@
       "word": "乘风2026踢馆姐姐",
       "onboard_time": 1774622965,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 88720,
+      "num": 88720,
+      "word": "白鹿跳碎镜摇逗张真源",
+      "onboard_time": 1774689801,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1411,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84047,
+      "num": 84047,
+      "word": "以色列多线作战或已在崩溃边缘",
+      "onboard_time": 1774689982,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83860,
       "num": 83860,
       "word": "先天糖蒜圣体",
@@ -1491,6 +1603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80737,
+      "num": 80737,
+      "word": "误入镜头的绝美猫咪",
+      "onboard_time": 1774690942,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80646,
       "num": 80646,
       "word": "小猫吃猫条会屁股疼",
@@ -1563,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75418,
+      "num": 75418,
+      "word": "不理解但尊重具象化",
+      "onboard_time": 1774691121,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74991,
       "num": 138122,
       "word": "李昌钰唯一被推翻的案件",
@@ -1601,6 +1729,14 @@
       "onboard_time": 1774608863,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74343,
+      "num": 115760,
+      "word": "律师谈孕妻遇男医生做产检丈夫闹事",
+      "onboard_time": 1774687940,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73451,
@@ -1683,14 +1819,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 69535,
-      "num": 113517,
-      "word": "胡塞武装称打击以色列重要军事目标",
-      "onboard_time": 1774688121,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 68687,
       "num": 73340,
       "word": "全红婵成最年轻奥运三冠王",
@@ -1705,14 +1833,6 @@
       "onboard_time": 1774671381,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67563,
-      "num": 115760,
-      "word": "律师谈孕妻遇男医生做产检丈夫闹事",
-      "onboard_time": 1774687940,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67287,
@@ -1793,6 +1913,14 @@
       "onboard_time": 1774627281,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 58214,
+      "num": 71651,
+      "word": "U19国足vs澳大利亚U19首发",
+      "onboard_time": 1774690580,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 57891,
@@ -1897,14 +2025,6 @@
       "onboard_time": 1774668441,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42116,
-      "num": 83860,
-      "word": "泰国与伊朗达成油轮通行协议",
-      "onboard_time": 1774688003,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38719,
@@ -2041,6 +2161,14 @@
       "onboard_time": 1774609642,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 9088,
+      "num": 75166,
+      "word": "以色列部分民众因警报疲劳拒绝避难",
+      "onboard_time": 1774691061,
+      "rank": 46,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

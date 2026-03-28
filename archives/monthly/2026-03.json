@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774688727838,
+  "endTime": 1774691167545,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -10491,6 +10491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409110,
+      "num": 409110,
+      "word": "一念江南",
+      "onboard_time": 1774689260,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409099,
       "num": 330282,
       "word": "爬山就得穿鲜艳的衣服",
@@ -12387,6 +12395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 361498,
+      "num": 306234,
+      "word": "白日提灯直播",
+      "onboard_time": 1774688782,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361399,
       "num": 361399,
       "word": "全红婵在村里聚完餐骑车离开",
@@ -13481,6 +13497,14 @@
       "onboard_time": 1774173741,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 334929,
+      "num": 1053588,
+      "word": "45岁男子心梗离世2天前还在跑马拉松",
+      "onboard_time": 1774685001,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334895,
@@ -15083,6 +15107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 308171,
+      "num": 308171,
+      "word": "终于懂大学面积小的含金量了",
+      "onboard_time": 1774687641,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 308170,
       "num": 251363,
       "word": "霍尔木兹封锁日本最先扛不住了",
@@ -16465,6 +16497,14 @@
       "onboard_time": 1772891543,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 284677,
+      "num": 138186,
+      "word": "女子断碳水2月确诊糖尿病前期",
+      "onboard_time": 1774688241,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284610,
@@ -18409,6 +18449,14 @@
       "onboard_time": 1773895881,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255943,
+      "num": 255943,
+      "word": "单亲妈妈遭羁押821天被判无罪",
+      "onboard_time": 1774685541,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 255882,
@@ -24427,14 +24475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189716,
-      "num": 232588,
-      "word": "单亲妈妈遭羁押821天被判无罪",
-      "onboard_time": 1774685541,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 189688,
       "num": 189688,
       "word": "吴柳芳退役费全给家里买房凑首付",
@@ -24849,6 +24889,14 @@
       "onboard_time": 1774668802,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 186462,
+      "num": 186462,
+      "word": "点奶茶要求奶和茶分离",
+      "onboard_time": 1774684761,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 186423,
@@ -29251,6 +29299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153147,
+      "num": 595024,
+      "word": "我家那小子",
+      "onboard_time": 1772271204,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153110,
       "num": 153110,
       "word": "ILLIT新专logo被质疑抄袭BLACKPINK",
@@ -31745,6 +31801,14 @@
       "onboard_time": 1772896163,
       "rank": 5,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 139259,
+      "num": 139259,
+      "word": "奔跑吧直播",
+      "onboard_time": 1774690881,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 139247,
@@ -34260,14 +34324,6 @@
     },
     {
       "raw_hot": 127453,
-      "num": 595024,
-      "word": "我家那小子",
-      "onboard_time": 1772271204,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 127453,
       "num": 63904,
       "word": "霍去病团队1分钟视频报价6000元起",
       "onboard_time": 1773012318,
@@ -35003,14 +35059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124618,
-      "num": 124618,
-      "word": "女子断碳水2月确诊糖尿病前期",
-      "onboard_time": 1774688241,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124539,
       "num": 124539,
       "word": "孔雪儿邓凯 接三搭",
@@ -35689,14 +35737,6 @@
       "onboard_time": 1774361295,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121553,
-      "num": 113435,
-      "word": "终于懂大学面积小的含金量了",
-      "onboard_time": 1774687641,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 121550,
@@ -38179,14 +38219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 113344,
-      "num": 113344,
-      "word": "点奶茶要求奶和茶分离",
-      "onboard_time": 1774684761,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113329,
       "num": 93953,
       "word": "TF四代游乐场vlog",
@@ -38667,14 +38699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111979,
-      "num": 140760,
-      "word": "45岁男子心梗离世2天前还在跑马拉松",
-      "onboard_time": 1774685001,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111951,
       "num": 111951,
       "word": "乖媳妇漂白鸡爪",
@@ -38945,6 +38969,14 @@
       "onboard_time": 1774594101,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111027,
+      "num": 111027,
+      "word": "日本搞大杀器妄图覆盖中国全境",
+      "onboard_time": 1774689021,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111003,
@@ -41275,6 +41307,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 104506,
+      "num": 102874,
+      "word": "华为王云鹤离职",
+      "onboard_time": 1774691001,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 104505,
       "num": 727073,
       "word": "代表谈老百姓有钱不敢消费",
@@ -41841,6 +41881,14 @@
       "onboard_time": 1774240462,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102845,
+      "num": 102845,
+      "word": "刘耀文奔跑吧首秀",
+      "onboard_time": 1774690401,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 102801,
@@ -43835,6 +43883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98508,
+      "num": 98508,
+      "word": "煤气灯效应",
+      "onboard_time": 1774689260,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98456,
       "num": 98456,
       "word": "花2块钱坐公交坐出了航班的感觉",
@@ -44425,6 +44481,14 @@
       "onboard_time": 1774191441,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 97160,
+      "num": 97160,
+      "word": "年仅21岁牺牲母亲跨400公里扫墓",
+      "onboard_time": 1774690161,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97158,
@@ -45600,6 +45664,14 @@
       "word": "伊朗查获数百套美以运进的星链",
       "onboard_time": 1773755724,
       "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 94700,
+      "num": 113517,
+      "word": "胡塞武装称打击以色列重要军事目标",
+      "onboard_time": 1774688121,
+      "rank": 29,
       "category": "国际时政"
     },
     {
@@ -47451,6 +47523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91209,
+      "num": 91209,
+      "word": "泰国与伊朗达成油轮通行协议",
+      "onboard_time": 1774688003,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91207,
       "num": 91207,
       "word": "于东来自曝30岁开始吃药拍CT上百次",
@@ -48049,6 +48129,14 @@
       "onboard_time": 1772534786,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90052,
+      "num": 90052,
+      "word": "李昌钰母亲把13个子女培养成博士",
+      "onboard_time": 1774690640,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90038,
@@ -48721,6 +48809,14 @@
       "onboard_time": 1774057880,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88720,
+      "num": 88720,
+      "word": "白鹿跳碎镜摇逗张真源",
+      "onboard_time": 1774689801,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 88712,
@@ -51331,6 +51427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84047,
+      "num": 84047,
+      "word": "以色列多线作战或已在崩溃边缘",
+      "onboard_time": 1774689982,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84025,
       "num": 84025,
       "word": "董璇说张维伊这次买单挺快啊",
@@ -53257,6 +53361,14 @@
       "onboard_time": 1774567759,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 80737,
+      "num": 80737,
+      "word": "误入镜头的绝美猫咪",
+      "onboard_time": 1774690942,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 80720,
@@ -56371,6 +56483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 75418,
+      "num": 75418,
+      "word": "不理解但尊重具象化",
+      "onboard_time": 1774691121,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75406,
       "num": 86650,
       "word": "230元买螃蟹60元买绳子",
@@ -57161,6 +57281,14 @@
       "onboard_time": 1773833902,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74343,
+      "num": 115760,
+      "word": "律师谈孕妻遇男医生做产检丈夫闹事",
+      "onboard_time": 1774687940,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74340,
@@ -59691,14 +59819,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 69535,
-      "num": 113517,
-      "word": "胡塞武装称打击以色列重要军事目标",
-      "onboard_time": 1774688121,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 69530,
       "num": 101609,
       "word": "水蛭型出游",
@@ -60681,14 +60801,6 @@
       "onboard_time": 1773415522,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 67563,
-      "num": 115760,
-      "word": "律师谈孕妻遇男医生做产检丈夫闹事",
-      "onboard_time": 1774687940,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67530,
@@ -64752,6 +64864,14 @@
       "word": "快船大胜森林狼",
       "onboard_time": 1773295161,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58214,
+      "num": 71651,
+      "word": "U19国足vs澳大利亚U19首发",
+      "onboard_time": 1774690580,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -68880,14 +69000,6 @@
       "word": "克林顿全程否认",
       "onboard_time": 1772548532,
       "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 42116,
-      "num": 83860,
-      "word": "泰国与伊朗达成油轮通行协议",
-      "onboard_time": 1774688003,
-      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -76145,6 +76257,14 @@
       "onboard_time": 1773976160,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9088,
+      "num": 75166,
+      "word": "以色列部分民众因警报疲劳拒绝避难",
+      "onboard_time": 1774691061,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9057,
