@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774697782838,
+  "endTime": 1774698752724,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 4333676,
-      "num": 140629,
+      "num": 172396,
       "word": "陈牧驰陈冰结婚生子",
       "onboard_time": 1774695381,
       "rank": 20,
@@ -1747,6 +1747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 560258,
+      "num": 793390,
+      "word": "奔跑吧直播",
+      "onboard_time": 1774690881,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559922,
       "num": 252177,
       "word": "男子得知男医生给孕妻做彩超后崩溃",
@@ -1857,14 +1865,6 @@
       "onboard_time": 1774404923,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 534176,
-      "num": 793390,
-      "word": "奔跑吧直播",
-      "onboard_time": 1774690881,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 533454,
@@ -2963,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392788,
+      "num": 475531,
+      "word": "金价急速飙涨",
+      "onboard_time": 1774691420,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 391605,
       "num": 586375,
       "word": "50岁女子同房后出血查出晚期宫颈癌",
@@ -3507,14 +3515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336999,
-      "num": 475531,
-      "word": "金价急速飙涨",
-      "onboard_time": 1774691420,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 336485,
       "num": 669385,
       "word": "火了还没适应的明星最好玩了",
@@ -3601,6 +3601,14 @@
       "onboard_time": 1774260141,
       "rank": 3,
       "category": "舆论监督,剧集"
+    },
+    {
+      "raw_hot": 329714,
+      "num": 231167,
+      "word": "JDG对战AG",
+      "onboard_time": 1774695743,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 329486,
@@ -3979,6 +3987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306799,
+      "num": 1049087,
+      "word": "女子断碳水2月确诊糖尿病前期",
+      "onboard_time": 1774688241,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306443,
       "num": 108587,
       "word": "Uzi怒喷Mark",
@@ -4107,14 +4123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 296792,
-      "num": 1047486,
-      "word": "女子断碳水2月确诊糖尿病前期",
-      "onboard_time": 1774688241,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296770,
       "num": 296770,
       "word": "男子反对加装电梯后反悔遭全楼反对",
@@ -4129,6 +4137,14 @@
       "onboard_time": 1774168100,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296335,
+      "num": 296335,
+      "word": "鞠婧祎巅峰之夜造型",
+      "onboard_time": 1774697542,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 296059,
@@ -4315,6 +4331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277249,
+      "num": 250167,
+      "word": "建议一次请假请一天",
+      "onboard_time": 1774691901,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276802,
       "num": 214535,
       "word": "网友给逐玉的建议",
@@ -4449,14 +4473,6 @@
       "onboard_time": 1774603761,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269822,
-      "num": 250167,
-      "word": "建议一次请假请一天",
-      "onboard_time": 1774691901,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 269329,
@@ -5587,6 +5603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216415,
+      "num": 216415,
+      "word": "单依纯演唱会",
+      "onboard_time": 1774695082,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216403,
       "num": 139475,
       "word": "逐玉亲到腿软的路透要播了",
@@ -5769,14 +5793,6 @@
       "onboard_time": 1774173320,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208827,
-      "num": 208827,
-      "word": "单依纯演唱会",
-      "onboard_time": 1774695082,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 208684,
@@ -6587,6 +6603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179944,
+      "num": 747323,
+      "word": "美国最强导弹击落了美国最强战机",
+      "onboard_time": 1774692801,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179936,
       "num": 214858,
       "word": "牛马面包",
@@ -7259,20 +7283,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 160008,
+      "num": 431651,
+      "word": "幼儿园自理比赛女孩靠佛系速度获胜",
+      "onboard_time": 1774697542,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159938,
       "num": 138730,
       "word": "田曦薇问张凌赫张哥你这什么妆造",
       "onboard_time": 1774237160,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159744,
-      "num": 128442,
-      "word": "鞠婧祎巅峰之夜造型",
-      "onboard_time": 1774697542,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 159642,
@@ -8291,6 +8315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134092,
+      "num": 90089,
+      "word": "穿上春装被误认为是保洁",
+      "onboard_time": 1774697722,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133976,
       "num": 133976,
       "word": "张雪峰生前开导抑郁女孩",
@@ -8499,20 +8531,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 129808,
-      "num": 96129,
-      "word": "幼儿园自理比赛女孩靠佛系速度获胜",
-      "onboard_time": 1774697542,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129655,
       "num": 129655,
       "word": "杨笠说我撑过来了",
       "onboard_time": 1774422383,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129648,
+      "num": 192246,
+      "word": "李昌钰去世知情人发声",
+      "onboard_time": 1774695923,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129564,
@@ -8593,14 +8625,6 @@
       "onboard_time": 1774377795,
       "rank": 30,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 128653,
-      "num": 128653,
-      "word": "JDG对战AG",
-      "onboard_time": 1774695743,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 128626,
@@ -8881,14 +8905,6 @@
       "onboard_time": 1774234460,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125702,
-      "num": 125702,
-      "word": "李昌钰去世知情人发声",
-      "onboard_time": 1774695923,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125294,
@@ -9331,6 +9347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119406,
+      "num": 96117,
+      "word": "巅峰之夜全场大喊王俊凯",
+      "onboard_time": 1774697482,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119335,
       "num": 119335,
       "word": "薛之谦机器人",
@@ -9515,12 +9539,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116941,
-      "num": 125474,
-      "word": "美国最强导弹击落了美国最强战机",
-      "onboard_time": 1774692801,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 116840,
+      "num": 116840,
+      "word": "人民币版冥币不可卖也不要用",
+      "onboard_time": 1774697840,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116785,
@@ -11243,14 +11267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99826,
-      "num": 96117,
-      "word": "巅峰之夜全场大喊王俊凯",
-      "onboard_time": 1774697482,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 99821,
       "num": 558863,
       "word": "夏以昼我的短信呢",
@@ -12319,6 +12335,14 @@
       "num": 91252,
       "word": "邓凯被推出机场",
       "onboard_time": 1774502001,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92297,
+      "num": 92297,
+      "word": "Angelababy梦回贝微微",
+      "onboard_time": 1774697122,
       "rank": 48,
       "category": "艺人"
     },
@@ -14035,6 +14059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81856,
+      "num": 81856,
+      "word": "伊朗称造成美军据点极其严重伤亡",
+      "onboard_time": 1774698022,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81824,
       "num": 81824,
       "word": "早起早睡的核心",
@@ -14251,6 +14283,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 80843,
+      "num": 80843,
+      "word": "美以伊冲突或加速全球经济转型",
+      "onboard_time": 1774698322,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80822,
       "num": 80822,
       "word": "眼睛粘在肖战上bgm",
@@ -14345,6 +14385,14 @@
       "onboard_time": 1774433602,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 79936,
+      "num": 79936,
+      "word": "孙俪回应陶昕然",
+      "onboard_time": 1774698081,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 79841,
@@ -14979,14 +15027,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 76292,
-      "num": 74111,
-      "word": "Angelababy梦回贝微微",
-      "onboard_time": 1774697122,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76275,
       "num": 76275,
       "word": "尚界Z7三小时小订突破18000台",
@@ -15305,14 +15345,6 @@
       "onboard_time": 1774486102,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74600,
-      "num": 74600,
-      "word": "穿上春装被误认为是保洁",
-      "onboard_time": 1774697722,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 74597,
@@ -16844,7 +16876,7 @@
     },
     {
       "raw_hot": 64105,
-      "num": 91569,
+      "num": 251079,
       "word": "315曝光问题地方政府负责人被约谈",
       "onboard_time": 1774697600,
       "rank": 35,

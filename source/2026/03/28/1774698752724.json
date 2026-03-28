@@ -1,0 +1,410 @@
+{
+  "runTime": 1774698752724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 306799,
+        "num": 1049087,
+        "word": "女子断碳水2月确诊糖尿病前期",
+        "onboard_time": 1774688241,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179944,
+        "num": 747323,
+        "word": "美国最强导弹击落了美国最强战机",
+        "onboard_time": 1774692801,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14756,
+        "num": 597866,
+        "word": "正能量创作者大会",
+        "onboard_time": 1774681942,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197401,
+        "num": 438917,
+        "word": "菲律宾最新涉台表态",
+        "onboard_time": 1774692442,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160008,
+        "num": 431651,
+        "word": "幼儿园自理比赛女孩靠佛系速度获胜",
+        "onboard_time": 1774697542,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426074,
+        "num": 426074,
+        "word": "夏之光被妈妈拉黑真相巨戳心",
+        "onboard_time": 1774693280,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313293,
+        "num": 313293,
+        "word": "李昌钰母亲把13个子女培养成博士",
+        "onboard_time": 1774690640,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296335,
+        "num": 296335,
+        "word": "鞠婧祎巅峰之夜造型",
+        "onboard_time": 1774697542,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 252220,
+        "num": 252220,
+        "word": "原来淋巴肉这么好区分",
+        "onboard_time": 1774692081,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 48812,
+        "num": 251079,
+        "word": "315曝光问题地方政府负责人被约谈",
+        "onboard_time": 1774697600,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560258,
+        "num": 244118,
+        "word": "奔跑吧直播",
+        "onboard_time": 1774690881,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284387,
+        "num": 241355,
+        "word": "奔跑吧",
+        "onboard_time": 1774665322,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340463,
+        "num": 236622,
+        "word": "俄罗斯4月1日起禁止汽油出口",
+        "onboard_time": 1774693462,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 329714,
+        "num": 231167,
+        "word": "JDG对战AG",
+        "onboard_time": 1774695743,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 302840,
+        "num": 221577,
+        "word": "一念江南",
+        "onboard_time": 1774689260,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277249,
+        "num": 218518,
+        "word": "建议一次请假请一天",
+        "onboard_time": 1774691901,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216415,
+        "num": 216415,
+        "word": "单依纯演唱会",
+        "onboard_time": 1774695082,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207587,
+        "num": 207587,
+        "word": "白日提灯",
+        "onboard_time": 1774670781,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129648,
+        "num": 192246,
+        "word": "李昌钰去世知情人发声",
+        "onboard_time": 1774695923,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181468,
+        "num": 181468,
+        "word": "阚清子想从116斤瘦到90斤",
+        "onboard_time": 1774678402,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3580230,
+        "num": 172396,
+        "word": "陈牧驰陈冰结婚生子",
+        "onboard_time": 1774695381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392788,
+        "num": 172130,
+        "word": "金价急速飙涨",
+        "onboard_time": 1774691420,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209322,
+        "num": 171184,
+        "word": "粉底液将军 高跟鞋女战士",
+        "onboard_time": 1774674141,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144766,
+        "num": 144766,
+        "word": "白日提灯直播",
+        "onboard_time": 1774688782,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117828,
+        "num": 117828,
+        "word": "40岁心梗幸存者已辞职回农村静养",
+        "onboard_time": 1774677982,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120288,
+        "num": 117598,
+        "word": "王俊凯工作室出图",
+        "onboard_time": 1774683260,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116840,
+        "num": 116840,
+        "word": "人民币版冥币不可卖也不要用",
+        "onboard_time": 1774697840,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114613,
+        "num": 114613,
+        "word": "QQ音乐巅峰之夜红毯",
+        "onboard_time": 1774680862,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93187,
+        "num": 93187,
+        "word": "KPL",
+        "onboard_time": 1774695202,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92297,
+        "num": 92297,
+        "word": "Angelababy梦回贝微微",
+        "onboard_time": 1774697122,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134092,
+        "num": 90089,
+        "word": "穿上春装被误认为是保洁",
+        "onboard_time": 1774697722,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119406,
+        "num": 89405,
+        "word": "巅峰之夜全场大喊王俊凯",
+        "onboard_time": 1774697482,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87830,
+        "num": 87830,
+        "word": "白日提灯热度",
+        "onboard_time": 1774673482,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85339,
+        "num": 85339,
+        "word": "以军出动50余架战机打击伊朗核设施",
+        "onboard_time": 1774696882,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87283,
+        "num": 85327,
+        "word": "徐良删除汪苏泷后会无期作词作曲",
+        "onboard_time": 1774659742,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85201,
+        "num": 85201,
+        "word": "升糖刺客",
+        "onboard_time": 1774681881,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83718,
+        "num": 83718,
+        "word": "宋威龙签约天浩盛世",
+        "onboard_time": 1774684160,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82354,
+        "num": 82354,
+        "word": "全红婵19岁气场全开",
+        "onboard_time": 1774679722,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81856,
+        "num": 81856,
+        "word": "伊朗称造成美军据点极其严重伤亡",
+        "onboard_time": 1774698022,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81385,
+        "num": 81385,
+        "word": "年仅21岁牺牲母亲跨400公里扫墓",
+        "onboard_time": 1774690161,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80843,
+        "num": 80843,
+        "word": "美以伊冲突或加速全球经济转型",
+        "onboard_time": 1774698322,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80507,
+        "num": 80507,
+        "word": "青菜焦虑症",
+        "onboard_time": 1774680802,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80289,
+        "num": 80289,
+        "word": "粉底液将军被嘲不该仅演员承担",
+        "onboard_time": 1774681460,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36635,
+        "num": 80102,
+        "word": "奔跑吧黄蓝大战路透",
+        "onboard_time": 1774696282,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72950,
+        "num": 80018,
+        "word": "这7种食物不甜却能让你血糖飙升",
+        "onboard_time": 1774693641,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79936,
+        "num": 79936,
+        "word": "孙俪回应陶昕然",
+        "onboard_time": 1774698081,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74901,
+        "num": 74901,
+        "word": "TF四代二班见面会",
+        "onboard_time": 1774687759,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71350,
+        "num": 73399,
+        "word": "挑战用200元起五个口播账号",
+        "onboard_time": 1774697181,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73330,
+        "num": 73330,
+        "word": "迪丽热巴好六的22个爱人",
+        "onboard_time": 1774694902,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72702,
+        "num": 72702,
+        "word": "谢楠上浪姐像极了要交卷的我",
+        "onboard_time": 1774694782,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指引以实干出政绩#"
+    }
+  }
+}
