@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774724028584,
+  "endTime": 1774724898917,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -61379,6 +61379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68450,
+      "num": 71679,
+      "word": "世上顶好顶好的老太婆走了",
+      "onboard_time": 1774718777,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68433,
       "num": 68433,
       "word": "黄景瑜银灰发",
@@ -68339,14 +68347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48878,
-      "num": 71679,
-      "word": "世上顶好顶好的老太婆走了",
-      "onboard_time": 1774718777,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48857,
       "num": 145733,
       "word": "苹果上调MacBookAir和Pro售价",
@@ -74899,6 +74899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21560,
+      "num": 24738,
+      "word": "檀健次谢却山家主气场",
+      "onboard_time": 1774723875,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21551,
       "num": 310669,
       "word": "建议带薪年假最长提至20天",
@@ -75363,6 +75371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20134,
+      "num": 23353,
+      "word": "王俊凯是新歌制作人",
+      "onboard_time": 1774724055,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 20116,
       "num": 149977,
       "word": "AI回答AI时代如何定义人",
@@ -75697,14 +75713,6 @@
       "onboard_time": 1773639083,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18451,
-      "num": 24738,
-      "word": "檀健次谢却山家主气场",
-      "onboard_time": 1774723875,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 18438,

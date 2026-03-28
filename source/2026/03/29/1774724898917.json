@@ -1,0 +1,410 @@
+{
+  "runTime": 1774724898917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 498195,
+        "num": 498195,
+        "word": "消毒",
+        "onboard_time": 1774716919,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 60037,
+        "num": 107944,
+        "word": "高三学生请求拆除鸟巢校长写信回应",
+        "onboard_time": 1774707203,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11890,
+        "num": 89745,
+        "word": "清朗网络空间汇聚向上向善",
+        "onboard_time": 1774701441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124236,
+        "num": 82086,
+        "word": "徐良方致歉声明",
+        "onboard_time": 1774701862,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68450,
+        "num": 68450,
+        "word": "世上顶好顶好的老太婆走了",
+        "onboard_time": 1774718777,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61910,
+        "num": 61910,
+        "word": "伊朗正式回应美国15点停火协议",
+        "onboard_time": 1774712961,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60541,
+        "num": 60541,
+        "word": "王俊凯蹦迪版心引力",
+        "onboard_time": 1774709903,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51078,
+        "num": 51078,
+        "word": "迪丽热巴有高度近视",
+        "onboard_time": 1774710682,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48032,
+        "num": 48032,
+        "word": "伊朗连遭重创绝地反击",
+        "onboard_time": 1774709363,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45244,
+        "num": 45244,
+        "word": "低精力人群的周末安排belike",
+        "onboard_time": 1774707143,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84462,
+        "num": 44867,
+        "word": "站姐愚人节团建预告",
+        "onboard_time": 1774711463,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72454,
+        "num": 44518,
+        "word": "徐良演唱会时薪4000",
+        "onboard_time": 1774713562,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43741,
+        "num": 43741,
+        "word": "R1SE任豪回来了",
+        "onboard_time": 1774713202,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41187,
+        "num": 41187,
+        "word": "以军参谋长说以军常规部队已崩溃",
+        "onboard_time": 1774713562,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38640,
+        "num": 38640,
+        "word": "鞠婧祎你在不在高音",
+        "onboard_time": 1774710083,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37444,
+        "num": 37444,
+        "word": "小狗 是表哥吗",
+        "onboard_time": 1774707801,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30551,
+        "num": 30551,
+        "word": "AG战胜JDG",
+        "onboard_time": 1774704323,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27530,
+        "num": 27530,
+        "word": "你好1983",
+        "onboard_time": 1774717938,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27517,
+        "num": 27517,
+        "word": "女子断碳水2月确诊糖尿病前期",
+        "onboard_time": 1774688241,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22338,
+        "num": 27319,
+        "word": "太原一商圈起火现场浓烟滚滚",
+        "onboard_time": 1774705822,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 32238,
+        "num": 27257,
+        "word": "女子在家被流浪狗咬伤3天后狗死了",
+        "onboard_time": 1774702701,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27987,
+        "num": 27239,
+        "word": "女顾客打印后要求归类被拒当场崩溃",
+        "onboard_time": 1774706302,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27124,
+        "num": 27124,
+        "word": "代旭 男主剧",
+        "onboard_time": 1774710864,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27227,
+        "num": 27110,
+        "word": "伊朗称无人机大规模打击以色列目标",
+        "onboard_time": 1774713921,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26179,
+        "num": 26179,
+        "word": "张凌赫大一曾分享暗恋细节",
+        "onboard_time": 1774701022,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24932,
+        "num": 24932,
+        "word": "没有人比R1SE更爱R1SE",
+        "onboard_time": 1774720517,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24790,
+        "num": 24790,
+        "word": "金价又涨了",
+        "onboard_time": 1774720336,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24490,
+        "num": 24490,
+        "word": "金价急速飙涨",
+        "onboard_time": 1774691420,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24332,
+        "num": 24332,
+        "word": "杨臣刚自曝因老鼠爱大米收入1.7亿",
+        "onboard_time": 1774707683,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23868,
+        "num": 23868,
+        "word": "也门胡塞武装发射导弹",
+        "onboard_time": 1774720937,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59047,
+        "num": 23633,
+        "word": "泰国与伊朗达成协议",
+        "onboard_time": 1774715900,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23373,
+        "num": 23373,
+        "word": "鞠婧祎获巅峰流行女歌手",
+        "onboard_time": 1774707024,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22117,
+        "num": 23372,
+        "word": "丁禹兮领奖时宣传白日提灯",
+        "onboard_time": 1774707801,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22057,
+        "num": 23368,
+        "word": "Angelababy梦回贝微微",
+        "onboard_time": 1774697122,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21560,
+        "num": 23367,
+        "word": "檀健次谢却山家主气场",
+        "onboard_time": 1774723875,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20658,
+        "num": 23361,
+        "word": "中国AI不会因几张邀请函停滞",
+        "onboard_time": 1774706663,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20162,
+        "num": 23360,
+        "word": "美国最强导弹击落了美国最强战机",
+        "onboard_time": 1774692801,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20148,
+        "num": 23356,
+        "word": "俄罗斯4月1日起禁止汽油出口",
+        "onboard_time": 1774693462,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20134,
+        "num": 23353,
+        "word": "王俊凯是新歌制作人",
+        "onboard_time": 1774724055,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20096,
+        "num": 23350,
+        "word": "穿上春装被误认为是保洁",
+        "onboard_time": 1774697722,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19757,
+        "num": 23350,
+        "word": "伊朗军方称击中美军舰艇",
+        "onboard_time": 1774717098,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 19636,
+        "num": 23344,
+        "word": "幼儿园自理比赛女孩靠佛系速度获胜",
+        "onboard_time": 1774697542,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19571,
+        "num": 23341,
+        "word": "JDG对战AG",
+        "onboard_time": 1774695743,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18710,
+        "num": 23340,
+        "word": "吴镇宇说郭晓婷脸上有故事了",
+        "onboard_time": 1774711582,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18674,
+        "num": 23335,
+        "word": "一念江南",
+        "onboard_time": 1774689260,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18642,
+        "num": 23334,
+        "word": "时代少年团奔跑吧直播就出现了17秒",
+        "onboard_time": 1774712543,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18321,
+        "num": 23330,
+        "word": "现货黄金",
+        "onboard_time": 1774703182,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17356,
+        "num": 23329,
+        "word": "白日提灯",
+        "onboard_time": 1774670781,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16142,
+        "num": 23327,
+        "word": "陈哲远锁凶正确率百分百",
+        "onboard_time": 1774713682,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13558,
+        "num": 23324,
+        "word": "氦气价格暴涨50%",
+        "onboard_time": 1774711463,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈政绩观#"
+    }
+  }
+}
