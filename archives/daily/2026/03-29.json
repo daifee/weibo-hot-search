@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774724898917,
+  "endTime": 1774726664241,
   "band_list": [
     {
       "raw_hot": 1789667,
@@ -251,6 +251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81757,
+      "num": 94612,
+      "word": "世上顶好顶好的老太婆走了",
+      "onboard_time": 1774718777,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78438,
       "num": 78438,
       "word": "吴镇宇说郭晓婷脸上有故事了",
@@ -304,14 +312,6 @@
       "word": "李昌钰再婚妻子发文缅怀李昌钰",
       "onboard_time": 1774707623,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68450,
-      "num": 71679,
-      "word": "世上顶好顶好的老太婆走了",
-      "onboard_time": 1774718777,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -467,6 +467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 32878,
+      "num": 40744,
+      "word": "以色列三面受敌",
+      "onboard_time": 1774726034,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 31354,
       "num": 71676,
       "word": "孟子义李昀锐奔跑吧海边路透",
@@ -537,6 +545,14 @@
       "onboard_time": 1774703182,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 17971,
+      "num": 22060,
+      "word": "王俊凯无人乐园首秀live",
+      "onboard_time": 1774725555,
+      "rank": 37,
+      "category": "演出"
     }
   ],
   "hotgov_list": [

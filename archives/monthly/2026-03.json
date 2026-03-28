@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774724898917,
+  "endTime": 1774726664241,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -53643,6 +53643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81757,
+      "num": 94612,
+      "word": "世上顶好顶好的老太婆走了",
+      "onboard_time": 1774718777,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81728,
       "num": 81728,
       "word": "每天靠墙站10分钟会发生什么",
@@ -61377,14 +61385,6 @@
       "onboard_time": 1774538002,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68450,
-      "num": 71679,
-      "word": "世上顶好顶好的老太婆走了",
-      "onboard_time": 1774718777,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68433,
@@ -72299,6 +72299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32878,
+      "num": 40744,
+      "word": "以色列三面受敌",
+      "onboard_time": 1774726034,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 32868,
       "num": 28464,
       "word": "怀孕流浪猫腹部紧缠绳子胎猫被勒变形",
@@ -75825,6 +75833,14 @@
       "onboard_time": 1774271362,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17971,
+      "num": 22060,
+      "word": "王俊凯无人乐园首秀live",
+      "onboard_time": 1774725555,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 17935,
