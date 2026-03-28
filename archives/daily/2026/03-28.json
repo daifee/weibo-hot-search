@@ -1,10 +1,10 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774698752724,
+  "endTime": 1774703388435,
   "band_list": [
     {
       "raw_hot": 4333676,
-      "num": 172396,
+      "num": 213907,
       "word": "陈牧驰陈冰结婚生子",
       "onboard_time": 1774695381,
       "rank": 20,
@@ -35,6 +35,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1205058,
+      "num": 683587,
+      "word": "徐良方致歉声明",
+      "onboard_time": 1774701862,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1068750,
       "num": 605707,
       "word": "张凌赫多年前发文抨击影视圈",
@@ -49,6 +57,14 @@
       "onboard_time": 1774674141,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 836378,
+      "num": 680758,
+      "word": "JDG对战AG",
+      "onboard_time": 1774695743,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 771420,
@@ -81,6 +97,14 @@
       "onboard_time": 1774662801,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 673135,
+      "num": 673135,
+      "word": "穿上春装被误认为是保洁",
+      "onboard_time": 1774697722,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 667870,
@@ -195,6 +219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 516741,
+      "num": 516741,
+      "word": "鞠婧祎巅峰之夜造型",
+      "onboard_time": 1774697542,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 494090,
       "num": 494090,
       "word": "原来淋巴肉这么好区分",
@@ -267,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428386,
+      "num": 1068541,
+      "word": "女子断碳水2月确诊糖尿病前期",
+      "onboard_time": 1774688241,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 413932,
       "num": 832022,
       "word": "白日提灯开播",
@@ -288,6 +328,14 @@
       "word": "45岁男子心梗离世2天前还在跑马拉松",
       "onboard_time": 1774685001,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393996,
+      "num": 754241,
+      "word": "幼儿园自理比赛女孩靠佛系速度获胜",
+      "onboard_time": 1774697542,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -363,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329714,
-      "num": 231167,
-      "word": "JDG对战AG",
-      "onboard_time": 1774695743,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 325230,
       "num": 204038,
       "word": "孔雪儿工作室发文",
@@ -419,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 306799,
-      "num": 1049087,
-      "word": "女子断碳水2月确诊糖尿病前期",
-      "onboard_time": 1774688241,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 304513,
       "num": 608034,
       "word": "也门胡塞武装参战",
@@ -443,12 +475,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 296335,
-      "num": 296335,
-      "word": "鞠婧祎巅峰之夜造型",
-      "onboard_time": 1774697542,
-      "rank": 17,
-      "category": "演出"
+      "raw_hot": 281735,
+      "num": 747323,
+      "word": "美国最强导弹击落了美国最强战机",
+      "onboard_time": 1774692801,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 280802,
@@ -571,6 +603,14 @@
       "category": "音乐,音乐"
     },
     {
+      "raw_hot": 248181,
+      "num": 165753,
+      "word": "女子在家被流浪狗咬伤3天后狗死了",
+      "onboard_time": 1774702701,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247867,
       "num": 247867,
       "word": "中巴同意共同推动停火止战恢复和谈",
@@ -587,6 +627,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244800,
+      "num": 189712,
+      "word": "张凌赫大一曾分享暗恋细节",
+      "onboard_time": 1774701022,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 241438,
+      "num": 241438,
+      "word": "伊朗称造成美军据点极其严重伤亡",
+      "onboard_time": 1774698022,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 235090,
       "num": 607675,
       "word": "五哈",
@@ -595,12 +651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228724,
+      "num": 216415,
+      "word": "单依纯演唱会",
+      "onboard_time": 1774695082,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 227825,
       "num": 217568,
       "word": "严浩翔跑男上班状态",
       "onboard_time": 1774674262,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226559,
+      "num": 226559,
+      "word": "人民币版冥币不可卖也不要用",
+      "onboard_time": 1774697840,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225757,
@@ -649,14 +721,6 @@
       "onboard_time": 1774660582,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216415,
-      "num": 216415,
-      "word": "单依纯演唱会",
-      "onboard_time": 1774695082,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 212061,
@@ -811,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179944,
-      "num": 747323,
-      "word": "美国最强导弹击落了美国最强战机",
-      "onboard_time": 1774692801,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 179016,
       "num": 160722,
       "word": "乘风2026一下来了33位姐姐",
@@ -835,12 +891,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176205,
+      "num": 163804,
+      "word": "你好星期六",
+      "onboard_time": 1774701681,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175136,
       "num": 175136,
       "word": "香蕉一开始其实是直的",
       "onboard_time": 1774677982,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 173732,
+      "num": 173732,
+      "word": "KPL",
+      "onboard_time": 1774695202,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 168616,
@@ -859,20 +931,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163141,
+      "num": 162756,
+      "word": "玮薇一笑很倾城",
+      "onboard_time": 1774700782,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162290,
       "num": 159408,
       "word": "严浩翔方回应KTV传闻",
       "onboard_time": 1774613842,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160008,
-      "num": 431651,
-      "word": "幼儿园自理比赛女孩靠佛系速度获胜",
-      "onboard_time": 1774697542,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158074,
@@ -907,12 +979,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152949,
+      "num": 152949,
+      "word": "男摄影师用白丝裸足引流卖女童视频",
+      "onboard_time": 1774701801,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152708,
       "num": 152708,
       "word": "白鹿为乘风姐姐代斯加油",
       "onboard_time": 1774654939,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151090,
+      "num": 151090,
+      "word": "陈飞宇问迪丽热巴你看清过我吗",
+      "onboard_time": 1774702762,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 150770,
@@ -1019,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134092,
-      "num": 90089,
-      "word": "穿上春装被误认为是保洁",
-      "onboard_time": 1774697722,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133630,
       "num": 133630,
       "word": "年仅21岁牺牲母亲跨400公里扫墓",
@@ -1129,22 +1209,6 @@
       "onboard_time": 1774666521,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 116951,
-      "num": 116951,
-      "word": "KPL",
-      "onboard_time": 1774695202,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 116840,
-      "num": 116840,
-      "word": "人民币版冥币不可卖也不要用",
-      "onboard_time": 1774697840,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116327,
@@ -1259,6 +1323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 107805,
+      "num": 146709,
+      "word": "精准杀伤癌细胞利器",
+      "onboard_time": 1774702161,
+      "rank": 30,
+      "category": "健康医疗,互联网"
+    },
+    {
       "raw_hot": 107413,
       "num": 87411,
       "word": "六部在拍古偶将军造型",
@@ -1355,6 +1427,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100338,
+      "num": 100338,
+      "word": "孙俪回应陶昕然",
+      "onboard_time": 1774698081,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100256,
+      "num": 100256,
+      "word": "白日提灯腾讯视频热度值破25000",
+      "onboard_time": 1774700722,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100020,
       "num": 183979,
       "word": "日本欲在距台110公里岛屿部署导弹",
@@ -1384,6 +1472,14 @@
       "word": "安崎回复孔雪儿",
       "onboard_time": 1774656860,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98937,
+      "num": 98937,
+      "word": "迪丽热巴Hi6开场舞台",
+      "onboard_time": 1774702762,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1433,6 +1529,14 @@
       "onboard_time": 1774679901,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94854,
+      "num": 94854,
+      "word": "现货黄金",
+      "onboard_time": 1774703182,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 94700,
@@ -1635,6 +1739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88126,
+      "num": 88126,
+      "word": "QQ音乐巅峰之夜直播",
+      "onboard_time": 1774700063,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 88060,
       "num": 88060,
       "word": "黄金白银再度回落",
@@ -1779,6 +1891,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85141,
+      "num": 85141,
+      "word": "胡塞武装与伊朗并肩作战",
+      "onboard_time": 1774702161,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 84816,
+      "num": 84816,
+      "word": "轻语的关羽",
+      "onboard_time": 1774701082,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84656,
       "num": 84656,
       "word": "花少导演回应神一季鬼一季",
@@ -1859,14 +1987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81856,
-      "num": 81856,
-      "word": "伊朗称造成美军据点极其严重伤亡",
-      "onboard_time": 1774698022,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 81824,
       "num": 81824,
       "word": "早起早睡的核心",
@@ -1907,20 +2027,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80732,
+      "num": 80732,
+      "word": "日本记者问难道以深感遗憾了事吗",
+      "onboard_time": 1774703182,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80646,
       "num": 80646,
       "word": "小猫吃猫条会屁股疼",
       "onboard_time": 1774674562,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79936,
-      "num": 79936,
-      "word": "孙俪回应陶昕然",
-      "onboard_time": 1774698081,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 79791,
@@ -2027,6 +2147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74928,
+      "num": 74928,
+      "word": "伊朗媒体嘲讽美军好莱坞大军",
+      "onboard_time": 1774698980,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74908,
       "num": 80210,
       "word": "如果你发现跟一个人聊天很舒服",
@@ -2041,6 +2169,14 @@
       "onboard_time": 1774680921,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74616,
+      "num": 74616,
+      "word": "张峻豪音乐节",
+      "onboard_time": 1774703362,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 74430,
@@ -2075,6 +2211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 72678,
+      "num": 72678,
+      "word": "警方通报青岛胶州连环相撞事故",
+      "onboard_time": 1774700902,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72627,
       "num": 72627,
       "word": "周传雄回应帮王俊凯写歌",
@@ -2104,6 +2248,14 @@
       "word": "花花搂着和叶睡觉能治愈全世界",
       "onboard_time": 1774627041,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72076,
+      "num": 72076,
+      "word": "男医生做产检丈夫撞墙为何被群嘲",
+      "onboard_time": 1774703362,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2331,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46083,
+      "num": 690001,
+      "word": "原来你是这样的河南",
+      "onboard_time": 1774701563,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44837,
       "num": 55565,
       "word": "Apple50周年",
@@ -2540,6 +2700,9 @@
     },
     {
       "word": "#总书记指引以实干出政绩#"
+    },
+    {
+      "word": "#习近平谈政绩观#"
     }
   ]
 }
