@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774684892407,
+  "endTime": 1774687946880,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1267,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 662848,
+      "num": 1106055,
+      "word": "白日提灯热度",
+      "onboard_time": 1774673482,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 660499,
       "num": 1105679,
       "word": "内蒙古地震",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1774171282,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 614423,
-      "num": 1098307,
-      "word": "白日提灯热度",
-      "onboard_time": 1774673482,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 614102,
@@ -1739,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553968,
+      "num": 226927,
+      "word": "宋威龙签约天浩盛世",
+      "onboard_time": 1774684160,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551254,
       "num": 175029,
       "word": "金价大跌没人扫货了",
@@ -1889,6 +1897,14 @@
       "onboard_time": 1774490780,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 521526,
+      "num": 220119,
+      "word": "升糖刺客",
+      "onboard_time": 1774681881,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 519760,
@@ -2531,6 +2547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 428822,
+      "num": 783228,
+      "word": "新娘回应小伙用吸粪车做婚车",
+      "onboard_time": 1774681881,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428333,
       "num": 1068533,
       "word": "情侣间转账6万因多音字闹上法庭",
@@ -2705,14 +2729,6 @@
       "onboard_time": 1774526481,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409438,
-      "num": 209972,
-      "word": "升糖刺客",
-      "onboard_time": 1774681881,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 409099,
@@ -4452,7 +4468,7 @@
     },
     {
       "raw_hot": 262072,
-      "num": 200757,
+      "num": 250598,
       "word": "青菜焦虑症",
       "onboard_time": 1774426042,
       "rank": 49,
@@ -4833,14 +4849,6 @@
       "onboard_time": 1774588583,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241213,
-      "num": 199659,
-      "word": "宋威龙签约天浩盛世",
-      "onboard_time": 1774684160,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 241199,
@@ -5329,6 +5337,14 @@
       "onboard_time": 1774081225,
       "rank": 21,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 223690,
+      "num": 204494,
+      "word": "TF四代二班见面会",
+      "onboard_time": 1774687759,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 223666,
@@ -6283,6 +6299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184249,
+      "num": 246688,
+      "word": "王俊凯工作室出图",
+      "onboard_time": 1774683260,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183906,
       "num": 183906,
       "word": "梅姨被逮捕",
@@ -6787,14 +6811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 170717,
-      "num": 159750,
-      "word": "王俊凯工作室出图",
-      "onboard_time": 1774683260,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170589,
       "num": 170589,
       "word": "齐俞 齐煜",
@@ -7169,14 +7185,6 @@
       "onboard_time": 1774680862,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157965,
-      "num": 157965,
-      "word": "新娘回应小伙用吸粪车做婚车",
-      "onboard_time": 1774681881,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157722,
@@ -7864,6 +7872,14 @@
       "word": "生命树集均1381万",
       "onboard_time": 1774322361,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138918,
+      "num": 138918,
+      "word": "白日提灯第3集17分57秒",
+      "onboard_time": 1774685722,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -8665,6 +8681,14 @@
       "onboard_time": 1774416144,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125971,
+      "num": 232588,
+      "word": "单亲妈妈遭羁押821天被判无罪",
+      "onboard_time": 1774685541,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 125896,
@@ -9747,6 +9771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111979,
+      "num": 111979,
+      "word": "45岁男子心梗离世2天前还在跑马拉松",
+      "onboard_time": 1774685001,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111906,
       "num": 111906,
       "word": "拿错狗的饭盒去上班",
@@ -10017,6 +10049,14 @@
       "onboard_time": 1774359643,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108932,
+      "num": 108932,
+      "word": "严浩翔带着八字眉向大家打招呼",
+      "onboard_time": 1774686021,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 108831,
@@ -10755,6 +10795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101382,
+      "num": 98522,
+      "word": "王俊凯完全superstar",
+      "onboard_time": 1774686262,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101323,
       "num": 100275,
       "word": "好多明星给张杰演唱会送花篮",
@@ -11073,6 +11121,14 @@
       "onboard_time": 1774175779,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98833,
+      "num": 98833,
+      "word": "点奶茶要求奶和茶分离",
+      "onboard_time": 1774684761,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 98811,
@@ -12299,6 +12355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90431,
+      "num": 90431,
+      "word": "终于懂大学面积小的含金量了",
+      "onboard_time": 1774687641,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90426,
       "num": 84727,
       "word": "李歌洋郑合惠子cp又be了",
@@ -13171,6 +13235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84423,
+      "num": 84423,
+      "word": "原来黄晓明是白日提灯的出品人",
+      "onboard_time": 1774687823,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84415,
       "num": 84415,
       "word": "张凌赫周柯宇刘宇宁开推造型",
@@ -13257,6 +13329,14 @@
       "onboard_time": 1774231640,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83860,
+      "num": 83860,
+      "word": "先天糖蒜圣体",
+      "onboard_time": 1774686501,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 83762,
@@ -15132,7 +15212,7 @@
     },
     {
       "raw_hot": 72428,
-      "num": 80070,
+      "num": 84275,
       "word": "老鼠干成10后社交硬通货",
       "onboard_time": 1774681341,
       "rank": 48,
@@ -15531,14 +15611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 70122,
-      "num": 70122,
-      "word": "点奶茶要求奶和茶分离",
-      "onboard_time": 1774684761,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 69893,
       "num": 69893,
       "word": "十个勤天",
@@ -15668,7 +15740,7 @@
     },
     {
       "raw_hot": 68687,
-      "num": 68687,
+      "num": 73340,
       "word": "全红婵成最年轻奥运三冠王",
       "onboard_time": 1774680141,
       "rank": 49,
@@ -17907,6 +17979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40198,
+      "num": 159941,
+      "word": "90后寻宠师2年狂赚近百万",
+      "onboard_time": 1774687580,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40053,
       "num": 90917,
       "word": "徐艺真吐槽纪凌尘拍不了短剧",
@@ -19091,6 +19171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17210,
+      "num": 654251,
+      "word": "正能量创作者大会",
+      "onboard_time": 1774681942,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17117,
       "num": 29362,
       "word": "11件让人幸福的春日小事",
@@ -19136,14 +19224,6 @@
       "word": "诊所帮助摔倒残疾人反遭纠缠威胁",
       "onboard_time": 1774265780,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15986,
-      "num": 641119,
-      "word": "正能量创作者大会",
-      "onboard_time": 1774681942,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

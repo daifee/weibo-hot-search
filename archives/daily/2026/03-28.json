@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774684892407,
+  "endTime": 1774687946880,
   "band_list": [
     {
       "raw_hot": 3044861,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 662848,
+      "num": 1106055,
+      "word": "白日提灯热度",
+      "onboard_time": 1774673482,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 636458,
       "num": 636458,
       "word": "特朗普称必须尊重中国",
@@ -97,14 +105,6 @@
       "onboard_time": 1774664540,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 614423,
-      "num": 1098307,
-      "word": "白日提灯热度",
-      "onboard_time": 1774673482,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 609576,
@@ -137,6 +137,22 @@
       "onboard_time": 1774673302,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 553968,
+      "num": 226927,
+      "word": "宋威龙签约天浩盛世",
+      "onboard_time": 1774684160,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 521526,
+      "num": 220119,
+      "word": "升糖刺客",
+      "onboard_time": 1774681881,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 474362,
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428822,
+      "num": 783228,
+      "word": "新娘回应小伙用吸粪车做婚车",
+      "onboard_time": 1774681881,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 413932,
       "num": 832022,
       "word": "白日提灯开播",
@@ -201,14 +225,6 @@
       "onboard_time": 1774662561,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 409438,
-      "num": 209972,
-      "word": "升糖刺客",
-      "onboard_time": 1774681881,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 385717,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 262072,
-      "num": 200757,
+      "num": 250598,
       "word": "青菜焦虑症",
       "onboard_time": 1774680802,
       "rank": 15,
@@ -427,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241213,
-      "num": 199659,
-      "word": "宋威龙签约天浩盛世",
-      "onboard_time": 1774684160,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235090,
       "num": 607675,
       "word": "五哈",
@@ -457,6 +465,14 @@
       "onboard_time": 1774624945,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 223690,
+      "num": 204494,
+      "word": "TF四代二班见面会",
+      "onboard_time": 1774687759,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 223351,
@@ -619,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184249,
+      "num": 246688,
+      "word": "王俊凯工作室出图",
+      "onboard_time": 1774683260,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183761,
       "num": 133960,
       "word": "鬼见了周冬雨都得低头",
@@ -651,14 +675,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 170717,
-      "num": 159750,
-      "word": "王俊凯工作室出图",
-      "onboard_time": 1774683260,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168616,
       "num": 168616,
       "word": "大部分人觉得旅游累的原因",
@@ -689,14 +705,6 @@
       "onboard_time": 1774680862,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157965,
-      "num": 157965,
-      "word": "新娘回应小伙用吸粪车做婚车",
-      "onboard_time": 1774681881,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156303,
@@ -795,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138918,
+      "num": 138918,
+      "word": "白日提灯第3集17分57秒",
+      "onboard_time": 1774685722,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136951,
       "num": 136951,
       "word": "孟子义李昀锐终极撕名牌对决",
@@ -849,6 +865,14 @@
       "onboard_time": 1774663161,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125971,
+      "num": 232588,
+      "word": "单亲妈妈遭羁押821天被判无罪",
+      "onboard_time": 1774685541,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 125908,
@@ -939,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111979,
+      "num": 111979,
+      "word": "45岁男子心梗离世2天前还在跑马拉松",
+      "onboard_time": 1774685001,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110849,
       "num": 110849,
       "word": "杜华前有韩庚后有王一博",
@@ -953,6 +985,14 @@
       "onboard_time": 1774624104,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 108932,
+      "num": 108932,
+      "word": "严浩翔带着八字眉向大家打招呼",
+      "onboard_time": 1774686021,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 108855,
@@ -1027,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101382,
+      "num": 98522,
+      "word": "王俊凯完全superstar",
+      "onboard_time": 1774686262,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100798,
       "num": 100798,
       "word": "乐华娱乐续约王一博股价大涨",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1774656860,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98833,
+      "num": 98833,
+      "word": "点奶茶要求奶和茶分离",
+      "onboard_time": 1774684761,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 97808,
@@ -1153,6 +1209,14 @@
       "onboard_time": 1774673121,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90431,
+      "num": 90431,
+      "word": "终于懂大学面积小的含金量了",
+      "onboard_time": 1774687641,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 90207,
@@ -1321,6 +1385,22 @@
       "onboard_time": 1774658002,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84423,
+      "num": 84423,
+      "word": "原来黄晓明是白日提灯的出品人",
+      "onboard_time": 1774687823,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83860,
+      "num": 83860,
+      "word": "先天糖蒜圣体",
+      "onboard_time": 1774686501,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 83762,
@@ -1500,7 +1580,7 @@
     },
     {
       "raw_hot": 72428,
-      "num": 80070,
+      "num": 84275,
       "word": "老鼠干成10后社交硬通货",
       "onboard_time": 1774681341,
       "rank": 48,
@@ -1563,16 +1643,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 70122,
-      "num": 70122,
-      "word": "点奶茶要求奶和茶分离",
-      "onboard_time": 1774684761,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 68687,
-      "num": 68687,
+      "num": 73340,
       "word": "全红婵成最年轻奥运三冠王",
       "onboard_time": 1774680141,
       "rank": 49,
@@ -1755,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40198,
+      "num": 159941,
+      "word": "90后寻宠师2年狂赚近百万",
+      "onboard_time": 1774687580,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38719,
       "num": 83454,
       "word": "开国大校韩友庆逝世",
@@ -1843,8 +1923,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15986,
-      "num": 641119,
+      "raw_hot": 17210,
+      "num": 654251,
       "word": "正能量创作者大会",
       "onboard_time": 1774681942,
       "rank": 2,
