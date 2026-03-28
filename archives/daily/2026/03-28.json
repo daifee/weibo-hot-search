@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774706822428,
+  "endTime": 1774708823285,
   "band_list": [
     {
       "raw_hot": 4333676,
@@ -25,6 +25,14 @@
       "onboard_time": 1774624163,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1680243,
+      "num": 1680243,
+      "word": "太原火灾",
+      "onboard_time": 1774706484,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1398418,
@@ -67,20 +75,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 791058,
+      "num": 1122240,
+      "word": "男医生做产检丈夫撞墙为何被群嘲",
+      "onboard_time": 1774703362,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 771420,
       "num": 453950,
       "word": "祝绪丹 虞书欣",
       "onboard_time": 1774657462,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 764006,
-      "num": 1122240,
-      "word": "男医生做产检丈夫撞墙为何被群嘲",
-      "onboard_time": 1774703362,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 726681,
@@ -241,6 +249,14 @@
       "onboard_time": 1774692081,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 483595,
+      "num": 483595,
+      "word": "王俊凯巅峰之夜和粉丝拍合照",
+      "onboard_time": 1774708104,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 481973,
@@ -483,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 314916,
-      "num": 839902,
-      "word": "太原火灾",
-      "onboard_time": 1774706484,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 312701,
       "num": 250609,
       "word": "现货黄金",
@@ -545,6 +553,14 @@
       "onboard_time": 1774701801,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289173,
+      "num": 289173,
+      "word": "太原一商圈起火现场浓烟滚滚",
+      "onboard_time": 1774705822,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 289122,
@@ -675,14 +691,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 255392,
-      "num": 255392,
-      "word": "太原一商圈起火现场浓烟滚滚",
-      "onboard_time": 1774705822,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 251921,
       "num": 317280,
       "word": "百度一贴吧疑全机器人禁止人类发帖",
@@ -729,6 +737,14 @@
       "onboard_time": 1774674922,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234303,
+      "num": 187876,
+      "word": "杨臣刚自曝因老鼠爱大米收入1.7亿",
+      "onboard_time": 1774707683,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 228724,
@@ -819,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207363,
+      "num": 207363,
+      "word": "太原火灾已致1死25伤",
+      "onboard_time": 1774706602,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 206437,
       "num": 339615,
       "word": "李昌钰是美国首位警界最高职位华裔",
@@ -833,6 +857,14 @@
       "onboard_time": 1774605441,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204873,
+      "num": 141577,
+      "word": "太原一商圈起火附近商家发声",
+      "onboard_time": 1774707801,
+      "rank": 30,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 203875,
@@ -915,6 +947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 190445,
+      "num": 190445,
+      "word": "丁禹兮领奖时宣传白日提灯",
+      "onboard_time": 1774707801,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187513,
       "num": 164514,
       "word": "何晟铭说与徐麒雯恋爱曾被于正阻拦",
@@ -923,12 +963,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186745,
+      "num": 186745,
+      "word": "鞠婧祎获巅峰流行女歌手",
+      "onboard_time": 1774707024,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186595,
       "num": 186595,
       "word": "喜临门紧急冻结9亿元账户",
       "onboard_time": 1774668802,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 185380,
+      "num": 185380,
+      "word": "女顾客打印后要求归类被拒当场崩溃",
+      "onboard_time": 1774706302,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185127,
@@ -1019,6 +1075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 164206,
+      "num": 164206,
+      "word": "低精力人群的周末安排belike",
+      "onboard_time": 1774707143,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163141,
       "num": 162756,
       "word": "玮薇一笑很倾城",
@@ -1083,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151786,
+      "num": 151786,
+      "word": "李昌钰再婚妻子发文缅怀李昌钰",
+      "onboard_time": 1774707623,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151727,
       "num": 151727,
       "word": "AG联赛七连进胜者组决赛",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1774670422,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147962,
+      "num": 151347,
+      "word": "妻子发文缅怀李昌钰",
+      "onboard_time": 1774706484,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147888,
@@ -1203,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134923,
+      "num": 134923,
+      "word": "小狗 是表哥吗",
+      "onboard_time": 1774707801,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133630,
       "num": 133630,
       "word": "年仅21岁牺牲母亲跨400公里扫墓",
@@ -1217,14 +1305,6 @@
       "onboard_time": 1774663941,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130100,
-      "num": 151347,
-      "word": "妻子发文缅怀李昌钰",
-      "onboard_time": 1774706484,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129648,
@@ -1259,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126486,
+      "num": 126486,
+      "word": "郝熠然 翻牌",
+      "onboard_time": 1774705822,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125908,
       "num": 109389,
       "word": "孙俪新剧",
@@ -1275,12 +1363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120418,
-      "num": 120418,
-      "word": "郝熠然 翻牌",
-      "onboard_time": 1774705822,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 120188,
+      "num": 120188,
+      "word": "高三学生请求拆除鸟巢校长写信回应",
+      "onboard_time": 1774707203,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119862,
@@ -1385,14 +1473,6 @@
       "onboard_time": 1774655000,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111746,
-      "num": 126482,
-      "word": "女顾客打印后要求归类被拒当场崩溃",
-      "onboard_time": 1774706302,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111373,
@@ -1683,6 +1763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97368,
+      "num": 97368,
+      "word": "T1上单重回韩服第一",
+      "onboard_time": 1774708224,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96936,
       "num": 91193,
       "word": "花少导演谈北斗七行七老童心回归",
@@ -1721,6 +1809,14 @@
       "onboard_time": 1774679901,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94835,
+      "num": 94835,
+      "word": "白日提灯韩剧时候",
+      "onboard_time": 1774708642,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 94700,
@@ -1833,6 +1929,14 @@
       "onboard_time": 1774688003,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90798,
+      "num": 90798,
+      "word": "蜜雪集团去年净利润58.8亿",
+      "onboard_time": 1774707503,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 90677,
@@ -2099,6 +2203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83880,
+      "num": 129892,
+      "word": "56岁女儿和85岁妈妈做同桌",
+      "onboard_time": 1774708642,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83860,
       "num": 83860,
       "word": "先天糖蒜圣体",
@@ -2241,6 +2353,14 @@
       "onboard_time": 1774657223,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 79333,
+      "num": 90638,
+      "word": "U23国足1比1朝鲜",
+      "onboard_time": 1774707924,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 78728,
@@ -2587,6 +2707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 58958,
+      "num": 189979,
+      "word": "用吸粪车做婚车小伙发声",
+      "onboard_time": 1774708284,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57891,
       "num": 57891,
       "word": "逐玉吻戏喊cut后两人都很忙",
@@ -2651,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50318,
+      "num": 120918,
+      "word": "差点没认出刘忻",
+      "onboard_time": 1774702343,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 48575,
       "num": 67340,
       "word": "无证医生给骨折老人急救多方发声",
@@ -2660,7 +2796,7 @@
     },
     {
       "raw_hot": 46083,
-      "num": 690001,
+      "num": 753756,
       "word": "原来你是这样的河南",
       "onboard_time": 1774701563,
       "rank": 2,
