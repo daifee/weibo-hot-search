@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774734870159,
+  "endTime": 1774737492073,
   "band_list": [
     {
       "raw_hot": 1789667,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204009,
+      "num": 354768,
+      "word": "世上顶好顶好的老太婆走了",
+      "onboard_time": 1774718777,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200163,
       "num": 200163,
       "word": "伊朗连遭重创绝地反击",
@@ -163,6 +171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129025,
+      "num": 129025,
+      "word": "以色列三面受敌",
+      "onboard_time": 1774726034,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 126795,
       "num": 71701,
       "word": "泰国与伊朗达成协议",
@@ -184,14 +200,6 @@
       "word": "女子在家被流浪狗咬伤3天后狗死了",
       "onboard_time": 1774702701,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96053,
-      "num": 192313,
-      "word": "世上顶好顶好的老太婆走了",
-      "onboard_time": 1774718777,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -225,14 +233,6 @@
       "onboard_time": 1774707683,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84828,
-      "num": 84828,
-      "word": "以色列三面受敌",
-      "onboard_time": 1774726034,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 84019,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44853,
+      "num": 44853,
+      "word": "就是你是RAIN也得接孩子放学",
+      "onboard_time": 1774731913,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43675,
       "num": 43675,
       "word": "没有人比R1SE更爱R1SE",
@@ -491,7 +499,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 30117,
+      "raw_hot": 30153,
       "num": 71672,
       "word": "中国AI不会因几张邀请函停滞",
       "onboard_time": 1774706663,
@@ -499,28 +507,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29689,
+      "num": 29689,
+      "word": "现货黄金",
+      "onboard_time": 1774703182,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 26771,
-      "num": 26771,
+      "num": 29668,
       "word": "也门胡塞武装发射导弹",
       "onboard_time": 1774720937,
       "rank": 27,
       "category": "国际时政"
     },
     {
-      "raw_hot": 21560,
-      "num": 24738,
+      "raw_hot": 22237,
+      "num": 29641,
       "word": "檀健次谢却山家主气场",
       "onboard_time": 1774723875,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20688,
-      "num": 24734,
-      "word": "现货黄金",
-      "onboard_time": 1774703182,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 20134,
@@ -555,14 +563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17461,
-      "num": 20236,
-      "word": "就是你是RAIN也得接孩子放学",
-      "onboard_time": 1774731913,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 13146,
       "num": 20233,
       "word": "鞠婧祎唱的雨爱",
@@ -571,8 +571,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 6600,
-      "num": 144696,
+      "raw_hot": 11548,
+      "num": 281895,
       "word": "政企新媒体怎么火出圈",
       "onboard_time": 1774701203,
       "rank": 2,
