@@ -1,7 +1,15 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774695556757,
+  "endTime": 1774697782838,
   "band_list": [
+    {
+      "raw_hot": 4333676,
+      "num": 140629,
+      "word": "陈牧驰陈冰结婚生子",
+      "onboard_time": 1774695381,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3044861,
       "num": 3044861,
@@ -73,14 +81,6 @@
       "onboard_time": 1774662801,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 678582,
-      "num": 140629,
-      "word": "陈牧驰陈冰结婚生子",
-      "onboard_time": 1774695381,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 667870,
@@ -177,6 +177,14 @@
       "onboard_time": 1774689260,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 534176,
+      "num": 793390,
+      "word": "奔跑吧直播",
+      "onboard_time": 1774690881,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 521526,
@@ -283,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 390596,
-      "num": 793390,
-      "word": "奔跑吧直播",
-      "onboard_time": 1774690881,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 385717,
       "num": 810270,
       "word": "40岁心梗幸存者已辞职回农村静养",
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 370093,
-      "num": 509553,
+      "num": 550453,
       "word": "菲律宾最新涉台表态",
       "onboard_time": 1774692442,
       "rank": 30,
@@ -345,6 +345,14 @@
       "onboard_time": 1774617204,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336999,
+      "num": 475531,
+      "word": "金价急速飙涨",
+      "onboard_time": 1774691420,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 334205,
@@ -419,8 +427,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 284677,
-      "num": 428620,
+      "raw_hot": 296792,
+      "num": 1047486,
       "word": "女子断碳水2月确诊糖尿病前期",
       "onboard_time": 1774688241,
       "rank": 25,
@@ -465,6 +473,14 @@
       "onboard_time": 1774669522,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269822,
+      "num": 250167,
+      "word": "建议一次请假请一天",
+      "onboard_time": 1774691901,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 266154,
@@ -531,14 +547,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 251283,
-      "num": 475531,
-      "word": "金价急速飙涨",
-      "onboard_time": 1774691420,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 249706,
       "num": 249706,
       "word": "严浩翔Fly概念视频",
@@ -561,14 +569,6 @@
       "onboard_time": 1774623204,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245916,
-      "num": 250167,
-      "word": "建议一次请假请一天",
-      "onboard_time": 1774691901,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 235090,
@@ -651,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208827,
+      "num": 208827,
+      "word": "单依纯演唱会",
+      "onboard_time": 1774695082,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206437,
       "num": 339615,
       "word": "李昌钰是美国首位警界最高职位华裔",
@@ -713,6 +721,14 @@
       "onboard_time": 1774681460,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197153,
+      "num": 527554,
+      "word": "男生杀害15岁女孩后借讨水试探老人",
+      "onboard_time": 1774693162,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193931,
@@ -827,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159744,
+      "num": 128442,
+      "word": "鞠婧祎巅峰之夜造型",
+      "onboard_time": 1774697542,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158074,
       "num": 158074,
       "word": "QQ音乐巅峰之夜红毯",
@@ -923,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141773,
-      "num": 141773,
-      "word": "男生杀害15岁女孩后借讨水试探老人",
-      "onboard_time": 1774693162,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140223,
       "num": 78759,
       "word": "李昌钰曾让辛普森案迎关键转折",
@@ -995,12 +1011,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129808,
+      "num": 96129,
+      "word": "幼儿园自理比赛女孩靠佛系速度获胜",
+      "onboard_time": 1774697542,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129278,
       "num": 99065,
       "word": "阚清子饿就说明在瘦手机壳",
       "onboard_time": 1774674982,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128653,
+      "num": 128653,
+      "word": "JDG对战AG",
+      "onboard_time": 1774695743,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 127988,
@@ -1027,20 +1059,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125702,
+      "num": 125702,
+      "word": "李昌钰去世知情人发声",
+      "onboard_time": 1774695923,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124414,
       "num": 124414,
       "word": "危险关系 吴慷仁",
       "onboard_time": 1774627461,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119991,
-      "num": 119991,
-      "word": "单依纯演唱会",
-      "onboard_time": 1774695082,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 119862,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1774695202,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116941,
+      "num": 125474,
+      "word": "美国最强导弹击落了美国最强战机",
+      "onboard_time": 1774692801,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116327,
@@ -1243,14 +1283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 104231,
-      "num": 110523,
-      "word": "美国最强导弹击落了美国最强战机",
-      "onboard_time": 1774692801,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 103124,
       "num": 103124,
       "word": "时代少年团奔跑吧首秀",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1774683621,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99826,
+      "num": 96117,
+      "word": "巅峰之夜全场大喊王俊凯",
+      "onboard_time": 1774697482,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 99515,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1774664722,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93503,
+      "num": 93503,
+      "word": "以军出动50余架战机打击伊朗核设施",
+      "onboard_time": 1774696882,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92618,
@@ -1875,11 +1923,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76890,
+      "num": 76890,
+      "word": "挑战用200元起五个口播账号",
+      "onboard_time": 1774697181,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76537,
       "num": 76537,
       "word": "丁程鑫张真源合照",
       "onboard_time": 1774618642,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76292,
+      "num": 74111,
+      "word": "Angelababy梦回贝微微",
+      "onboard_time": 1774697122,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1936,6 +2000,14 @@
       "word": "馄饨15块钱打包费150块",
       "onboard_time": 1774680921,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74600,
+      "num": 74600,
+      "word": "穿上春装被误认为是保洁",
+      "onboard_time": 1774697722,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -2123,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64105,
+      "num": 91569,
+      "word": "315曝光问题地方政府负责人被约谈",
+      "onboard_time": 1774697600,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62867,
       "num": 62867,
       "word": "医院已安抚男医生产检丈夫撞墙孕妇",
@@ -2273,6 +2353,14 @@
       "onboard_time": 1774652418,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 38179,
+      "num": 87293,
+      "word": "奔跑吧黄蓝大战路透",
+      "onboard_time": 1774696282,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 37165,

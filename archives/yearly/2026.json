@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774695556757,
+  "endTime": 1774697782838,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -697,6 +697,14 @@
       "onboard_time": 1773581607,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 4333676,
+      "num": 140629,
+      "word": "陈牧驰陈冰结婚生子",
+      "onboard_time": 1774695381,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 4325889,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1772262504,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1725086,
-      "num": 212508,
-      "word": "程序员猝死当天5次访问公司OA系统",
-      "onboard_time": 1769048840,
-      "rank": 30,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
