@@ -1,0 +1,410 @@
+{
+  "runTime": 1774668165769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 474362,
+        "num": 1075898,
+        "word": "奔跑吧",
+        "onboard_time": 1774665322,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192259,
+        "num": 757990,
+        "word": "李昌钰曾用一束紫光揭穿克林顿谎言",
+        "onboard_time": 1774666461,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53108,
+        "num": 616193,
+        "word": "20条负面清单让基础教育回归本真",
+        "onboard_time": 1774665263,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 947031,
+        "num": 593016,
+        "word": "徐良删除汪苏泷后会无期作词作曲",
+        "onboard_time": 1774659742,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212061,
+        "num": 465005,
+        "word": "高市早苗对强闯中使馆事件沉默",
+        "onboard_time": 1774664840,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2002949,
+        "num": 463808,
+        "word": "李昌钰去世",
+        "onboard_time": 1774654460,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 459742,
+        "num": 459742,
+        "word": "第一次对年假有了实感",
+        "onboard_time": 1774663641,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 450986,
+        "num": 458598,
+        "word": "李昌钰除了眼睛所有器官都捐出",
+        "onboard_time": 1774662801,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276101,
+        "num": 457523,
+        "word": "将军可以帅但不能没杀气",
+        "onboard_time": 1774657642,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84427,
+        "num": 454890,
+        "word": "伦纳德绝杀步行者",
+        "onboard_time": 1774664722,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 715993,
+        "num": 453950,
+        "word": "祝绪丹 虞书欣",
+        "onboard_time": 1774657462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625995,
+        "num": 452638,
+        "word": "伊朗首都巨大爆炸",
+        "onboard_time": 1774664540,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 451418,
+        "num": 451418,
+        "word": "张子萱42岁状态",
+        "onboard_time": 1774666340,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373418,
+        "num": 373418,
+        "word": "孙俪让浪姐节目组把陶昕然吊起来",
+        "onboard_time": 1774662561,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201856,
+        "num": 350142,
+        "word": "李昌钰曾谈朱令案",
+        "onboard_time": 1774665441,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329993,
+        "num": 329993,
+        "word": "演员李尚宝去世",
+        "onboard_time": 1774655841,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316519,
+        "num": 316519,
+        "word": "竹林四侠彻底be了",
+        "onboard_time": 1774624163,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195367,
+        "num": 195367,
+        "word": "李昌钰是美国首位警界最高职位华裔",
+        "onboard_time": 1774661542,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178991,
+        "num": 178991,
+        "word": "63岁女子脑出血偏瘫2个月后收获奇迹",
+        "onboard_time": 1774665022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175700,
+        "num": 175700,
+        "word": "狗为了赢面相都变了",
+        "onboard_time": 1774664419,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250937,
+        "num": 159027,
+        "word": "腾讯给白日提灯99999份一日追剧卡",
+        "onboard_time": 1774663941,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246851,
+        "num": 150464,
+        "word": "舒畅还有剧压了16年才播",
+        "onboard_time": 1774656442,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134794,
+        "num": 134794,
+        "word": "不给彩礼就不结婚或成违法行为",
+        "onboard_time": 1774668023,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183761,
+        "num": 133960,
+        "word": "鬼见了周冬雨都得低头",
+        "onboard_time": 1774667002,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128197,
+        "num": 128197,
+        "word": "自制张凌赫杯贴爆火已紧急暂停",
+        "onboard_time": 1774660582,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115499,
+        "num": 115499,
+        "word": "男子结婚月余遭家暴身高1米8不敢回家",
+        "onboard_time": 1774656140,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127798,
+        "num": 114938,
+        "word": "代斯回复白鹿",
+        "onboard_time": 1774663161,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113230,
+        "num": 113230,
+        "word": "伊朗不再局限于以牙还牙",
+        "onboard_time": 1774665141,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110849,
+        "num": 110849,
+        "word": "杜华前有韩庚后有王一博",
+        "onboard_time": 1774664840,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108684,
+        "num": 108684,
+        "word": "小米SU7Ultra新增暮光玫瑰车漆",
+        "onboard_time": 1774668081,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119862,
+        "num": 106742,
+        "word": "医生你真的叫叶绿素吗",
+        "onboard_time": 1774666340,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103705,
+        "num": 103705,
+        "word": "中方对168名女童遇难深感震惊",
+        "onboard_time": 1774666521,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92750,
+        "num": 92750,
+        "word": "霍尔木兹决战摊牌了",
+        "onboard_time": 1774622663,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93107,
+        "num": 92748,
+        "word": "乐华娱乐续约王一博股价大涨",
+        "onboard_time": 1774662323,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92682,
+        "num": 92682,
+        "word": "张凌赫回应因为太帅被忽略演技",
+        "onboard_time": 1774657341,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84141,
+        "num": 92620,
+        "word": "杨瀚森杀死比赛",
+        "onboard_time": 1774668081,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92618,
+        "num": 92618,
+        "word": "种地吧",
+        "onboard_time": 1774668023,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86323,
+        "num": 86323,
+        "word": "逐玉怎么好看又不好看",
+        "onboard_time": 1774666340,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72065,
+        "num": 85993,
+        "word": "Milkyway疑似复出",
+        "onboard_time": 1774666521,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85943,
+        "num": 85943,
+        "word": "刘敏涛你先别回烟台我害怕",
+        "onboard_time": 1774663941,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85383,
+        "num": 85383,
+        "word": "逐玉",
+        "onboard_time": 1774655000,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83762,
+        "num": 83762,
+        "word": "第一次见甲方对乙方恭恭敬敬",
+        "onboard_time": 1774667722,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84587,
+        "num": 83582,
+        "word": "郭麒麟对接",
+        "onboard_time": 1774658363,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38719,
+        "num": 83454,
+        "word": "开国大校韩友庆逝世",
+        "onboard_time": 1774666701,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83367,
+        "num": 83367,
+        "word": "第一次见这么大的麻将",
+        "onboard_time": 1774667362,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127348,
+        "num": 81449,
+        "word": "鸿蒙智行车辆智驾状态下冲撞幼童",
+        "onboard_time": 1774657281,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79453,
+        "num": 79453,
+        "word": "花少导演回应神一季鬼一季",
+        "onboard_time": 1774658002,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79387,
+        "num": 79387,
+        "word": "王俊凯手写无人乐园歌词",
+        "onboard_time": 1774657223,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140223,
+        "num": 78759,
+        "word": "李昌钰曾让辛普森案迎关键转折",
+        "onboard_time": 1774667063,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75624,
+        "num": 75624,
+        "word": "单休我都不敢出门你竟然出国",
+        "onboard_time": 1774668143,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#对党中央定下来的事狠抓落实#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/01 00:36:45 ~ 2026/03/28 10:44:50
+本榜单时间：2026/03/01 00:36:45 ~ 2026/03/28 11:22:45
 </p>
 </blockquote>
 <p>
@@ -3801,6 +3801,12 @@ AI大厂月薪3万疯抢文科生（热度：628084）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%B7%A8%E5%A4%A7%E7%88%86%E7%82%B8%23" target="weibo">
+伊朗首都巨大爆炸（热度：625995）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A7%E5%BA%95%E5%8D%A7%E6%88%90%E4%BA%8C%E6%8A%8A%E6%89%8B%E7%9A%84%E8%AE%B0%E8%80%85315%E5%8F%88%E7%AB%8B%E5%8A%9F%23" target="weibo">
 卧底卧成二把手的记者315又立功（热度：625409）
 </a>
@@ -6005,12 +6011,6 @@ blue 预言家（热度：492360）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%8F%91%E8%A8%80%E4%BA%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
 伊朗伊斯兰革命卫队发言人身亡（热度：478209）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%96%B9%E5%9B%9E%E5%BA%94KTV%E4%BC%A0%E9%97%BB%23" target="weibo">
-严浩翔方回应KTV传闻（热度：478165）
 </a>
 </li>
 
