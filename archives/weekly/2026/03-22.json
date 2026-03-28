@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774712381918,
+  "endTime": 1774713348529,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -2067,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512200,
+      "num": 205171,
+      "word": "站姐愚人节团建预告",
+      "onboard_time": 1774711463,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510909,
       "num": 225612,
       "word": "小泡芙颜值",
@@ -3483,6 +3491,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 355328,
+      "num": 541516,
+      "word": "伊朗连遭重创绝地反击",
+      "onboard_time": 1774709363,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 354480,
       "num": 1056716,
       "word": "3个旧手机能换一台iPhone",
@@ -3713,14 +3729,6 @@
       "onboard_time": 1774657642,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333852,
-      "num": 541516,
-      "word": "伊朗连遭重创绝地反击",
-      "onboard_time": 1774709363,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 333401,
@@ -4121,14 +4129,6 @@
       "onboard_time": 1774687641,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 308169,
-      "num": 204913,
-      "word": "站姐愚人节团建预告",
-      "onboard_time": 1774711463,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 308104,
@@ -6299,6 +6299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199392,
+      "num": 755624,
+      "word": "高三学生请求拆除鸟巢校长写信回应",
+      "onboard_time": 1774707203,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199390,
       "num": 606148,
       "word": "事业单位联考",
@@ -6313,6 +6321,14 @@
       "onboard_time": 1774369341,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199155,
+      "num": 199155,
+      "word": "太原火灾近距离目击者直呼好害怕",
+      "onboard_time": 1774710622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198487,
@@ -7691,6 +7707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156413,
+      "num": 156413,
+      "word": "R1SE任豪回来了",
+      "onboard_time": 1774713202,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156092,
       "num": 122359,
       "word": "朴敏英瘦成这样",
@@ -7761,22 +7785,6 @@
       "onboard_time": 1774509261,
       "rank": 35,
       "category": "汽车,民生新闻"
-    },
-    {
-      "raw_hot": 153397,
-      "num": 195994,
-      "word": "高三学生请求拆除鸟巢校长写信回应",
-      "onboard_time": 1774707203,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153240,
-      "num": 195825,
-      "word": "太原火灾近距离目击者直呼好害怕",
-      "onboard_time": 1774710622,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153213,
@@ -10011,6 +10019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 116187,
+      "num": 116187,
+      "word": "氦气价格暴涨50%",
+      "onboard_time": 1774711463,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115880,
       "num": 115880,
       "word": "赖清德宣布将重启核电厂",
@@ -11787,6 +11803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99417,
+      "num": 99417,
+      "word": "11岁的我觉得这顿饭夯爆了",
+      "onboard_time": 1774708883,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99376,
       "num": 99376,
       "word": "特朗普称与伊朗谈判顺利",
@@ -12521,14 +12545,6 @@
       "onboard_time": 1774257201,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 94402,
-      "num": 94402,
-      "word": "11岁的我觉得这顿饭夯爆了",
-      "onboard_time": 1774708883,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 94139,
@@ -13371,14 +13387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89498,
-      "num": 89498,
-      "word": "氦气价格暴涨50%",
-      "onboard_time": 1774711463,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 89452,
       "num": 86767,
       "word": "用狗窝擦地被狗看见了",
@@ -13705,6 +13713,14 @@
       "onboard_time": 1774382954,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87428,
+      "num": 87428,
+      "word": "时代少年团奔跑吧直播就出现了17秒",
+      "onboard_time": 1774712543,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 87330,
@@ -17345,6 +17361,14 @@
       "onboard_time": 1774282340,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65053,
+      "num": 65053,
+      "word": "太原火灾或因酒店外立面起火引发",
+      "onboard_time": 1774712122,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65014,

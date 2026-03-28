@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774712381918,
+  "endTime": 1774713348529,
   "band_list": [
     {
       "raw_hot": 4333676,
@@ -259,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 512200,
+      "num": 205171,
+      "word": "站姐愚人节团建预告",
+      "onboard_time": 1774711463,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494090,
       "num": 494090,
       "word": "原来淋巴肉这么好区分",
@@ -475,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355328,
+      "num": 541516,
+      "word": "伊朗连遭重创绝地反击",
+      "onboard_time": 1774709363,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 351767,
       "num": 209471,
       "word": "全红婵19岁气场全开",
@@ -523,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333852,
-      "num": 541516,
-      "word": "伊朗连遭重创绝地反击",
-      "onboard_time": 1774709363,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 325230,
       "num": 204038,
       "word": "孔雪儿工作室发文",
@@ -569,14 +577,6 @@
       "onboard_time": 1774687641,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 308169,
-      "num": 204913,
-      "word": "站姐愚人节团建预告",
-      "onboard_time": 1774711463,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 308063,
@@ -995,12 +995,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199392,
+      "num": 755624,
+      "word": "高三学生请求拆除鸟巢校长写信回应",
+      "onboard_time": 1774707203,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199390,
       "num": 606148,
       "word": "事业单位联考",
       "onboard_time": 1774672222,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199155,
+      "num": 199155,
+      "word": "太原火灾近距离目击者直呼好害怕",
+      "onboard_time": 1774710622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198487,
@@ -1187,6 +1203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156413,
+      "num": 156413,
+      "word": "R1SE任豪回来了",
+      "onboard_time": 1774713202,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156303,
       "num": 141846,
       "word": "白日提灯云包场",
@@ -1209,22 +1233,6 @@
       "onboard_time": 1774705343,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153397,
-      "num": 195994,
-      "word": "高三学生请求拆除鸟巢校长写信回应",
-      "onboard_time": 1774707203,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153240,
-      "num": 195825,
-      "word": "太原火灾近距离目击者直呼好害怕",
-      "onboard_time": 1774710622,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153147,
@@ -1537,6 +1545,14 @@
       "onboard_time": 1774691001,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 116187,
+      "num": 116187,
+      "word": "氦气价格暴涨50%",
+      "onboard_time": 1774711463,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 115561,
@@ -1859,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99417,
+      "num": 99417,
+      "word": "11岁的我觉得这顿饭夯爆了",
+      "onboard_time": 1774708883,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99023,
       "num": 99023,
       "word": "安崎回复孔雪儿",
@@ -1945,14 +1969,6 @@
       "onboard_time": 1774688121,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 94402,
-      "num": 94402,
-      "word": "11岁的我觉得这顿饭夯爆了",
-      "onboard_time": 1774708883,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 94068,
@@ -2115,14 +2131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89498,
-      "num": 89498,
-      "word": "氦气价格暴涨50%",
-      "onboard_time": 1774711463,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 89364,
       "num": 89364,
       "word": "小猪因为溜肩逃过一劫",
@@ -2193,6 +2201,14 @@
       "onboard_time": 1774673842,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87428,
+      "num": 87428,
+      "word": "时代少年团奔跑吧直播就出现了17秒",
+      "onboard_time": 1774712543,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 87173,
@@ -2827,12 +2843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65053,
+      "num": 65053,
+      "word": "太原火灾或因酒店外立面起火引发",
+      "onboard_time": 1774712122,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65043,
       "num": 77431,
       "word": "知情人士谈娃哈哈多家工厂停产",
       "onboard_time": 1774622903,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64700,
+      "num": 64700,
+      "word": "伊朗正式回应美国15点停火协议",
+      "onboard_time": 1774712961,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64105,

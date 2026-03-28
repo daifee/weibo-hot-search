@@ -1,0 +1,410 @@
+{
+  "runTime": 1774713348529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 247804,
+        "num": 1039648,
+        "word": "女子断碳水2月确诊糖尿病前期",
+        "onboard_time": 1774688241,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199392,
+        "num": 755624,
+        "word": "高三学生请求拆除鸟巢校长写信回应",
+        "onboard_time": 1774707203,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24040,
+        "num": 598632,
+        "word": "原来你是这样的河南",
+        "onboard_time": 1774701563,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 795658,
+        "num": 522861,
+        "word": "徐良方致歉声明",
+        "onboard_time": 1774701862,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 355328,
+        "num": 355328,
+        "word": "伊朗连遭重创绝地反击",
+        "onboard_time": 1774709363,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1172044,
+        "num": 327484,
+        "word": "太原火灾",
+        "onboard_time": 1774706484,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692966,
+        "num": 314252,
+        "word": "太原火灾已致1死25伤",
+        "onboard_time": 1774706602,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 386268,
+        "num": 307950,
+        "word": "迪丽热巴女鬼一来了",
+        "onboard_time": 1774709003,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296658,
+        "num": 296658,
+        "word": "低精力人群的周末安排belike",
+        "onboard_time": 1774707143,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122906,
+        "num": 210158,
+        "word": "AG战胜JDG",
+        "onboard_time": 1774704323,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 512200,
+        "num": 205171,
+        "word": "站姐愚人节团建预告",
+        "onboard_time": 1774711463,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369234,
+        "num": 204303,
+        "word": "王俊凯蹦迪版心引力",
+        "onboard_time": 1774709903,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199155,
+        "num": 199155,
+        "word": "太原火灾近距离目击者直呼好害怕",
+        "onboard_time": 1774710622,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329808,
+        "num": 198422,
+        "word": "代旭 男主剧",
+        "onboard_time": 1774710864,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257583,
+        "num": 197822,
+        "word": "迪丽热巴有高度近视",
+        "onboard_time": 1774710682,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196641,
+        "num": 196641,
+        "word": "小狗 是表哥吗",
+        "onboard_time": 1774707801,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222452,
+        "num": 196176,
+        "word": "鞠婧祎你在不在高音",
+        "onboard_time": 1774710083,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185277,
+        "num": 185277,
+        "word": "李昌钰再婚妻子发文缅怀李昌钰",
+        "onboard_time": 1774707623,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174428,
+        "num": 174428,
+        "word": "王俊凯比心",
+        "onboard_time": 1774709903,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158772,
+        "num": 158772,
+        "word": "穿上春装被误认为是保洁",
+        "onboard_time": 1774697722,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156413,
+        "num": 156413,
+        "word": "R1SE任豪回来了",
+        "onboard_time": 1774713202,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141361,
+        "num": 141361,
+        "word": "丁禹兮领奖时宣传白日提灯",
+        "onboard_time": 1774707801,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137937,
+        "num": 137937,
+        "word": "女子在家被流浪狗咬伤3天后狗死了",
+        "onboard_time": 1774702701,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140083,
+        "num": 133961,
+        "word": "杨臣刚自曝因老鼠爱大米收入1.7亿",
+        "onboard_time": 1774707683,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119914,
+        "num": 119914,
+        "word": "吴镇宇说郭晓婷脸上有故事了",
+        "onboard_time": 1774711582,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116187,
+        "num": 116187,
+        "word": "氦气价格暴涨50%",
+        "onboard_time": 1774711463,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116685,
+        "num": 116025,
+        "word": "范丞丞说时代少年团永远在一起",
+        "onboard_time": 1774710142,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111676,
+        "num": 111676,
+        "word": "女顾客打印后要求归类被拒当场崩溃",
+        "onboard_time": 1774706302,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101685,
+        "num": 101685,
+        "word": "金价急速飙涨",
+        "onboard_time": 1774691420,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96242,
+        "num": 100884,
+        "word": "美国最强导弹击落了美国最强战机",
+        "onboard_time": 1774692801,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100681,
+        "num": 100681,
+        "word": "阚清子想从116斤瘦到90斤",
+        "onboard_time": 1774678402,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99417,
+        "num": 99417,
+        "word": "11岁的我觉得这顿饭夯爆了",
+        "onboard_time": 1774708883,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96559,
+        "num": 96559,
+        "word": "张凌赫大一曾分享暗恋细节",
+        "onboard_time": 1774701022,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95383,
+        "num": 95383,
+        "word": "一念江南",
+        "onboard_time": 1774689260,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88214,
+        "num": 88214,
+        "word": "JDG对战AG",
+        "onboard_time": 1774695743,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92472,
+        "num": 87905,
+        "word": "鞠婧祎获巅峰流行女歌手",
+        "onboard_time": 1774707024,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87428,
+        "num": 87428,
+        "word": "时代少年团奔跑吧直播就出现了17秒",
+        "onboard_time": 1774712543,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85357,
+        "num": 85357,
+        "word": "现货黄金",
+        "onboard_time": 1774703182,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77826,
+        "num": 77826,
+        "word": "丁禹兮直拍",
+        "onboard_time": 1774707323,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76128,
+        "num": 76128,
+        "word": "郝熠然 翻牌",
+        "onboard_time": 1774705822,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74516,
+        "num": 74516,
+        "word": "俄罗斯4月1日起禁止汽油出口",
+        "onboard_time": 1774693462,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68150,
+        "num": 68150,
+        "word": "黄金气体价格暴涨",
+        "onboard_time": 1774709243,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67677,
+        "num": 67677,
+        "word": "粉底液将军 高跟鞋女战士",
+        "onboard_time": 1774674141,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65053,
+        "num": 65053,
+        "word": "太原火灾或因酒店外立面起火引发",
+        "onboard_time": 1774712122,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64700,
+        "num": 64700,
+        "word": "伊朗正式回应美国15点停火协议",
+        "onboard_time": 1774712961,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63645,
+        "num": 63645,
+        "word": "梦溪韩信",
+        "onboard_time": 1774712243,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62955,
+        "num": 62955,
+        "word": "白日提灯",
+        "onboard_time": 1774670781,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62747,
+        "num": 62747,
+        "word": "单依纯灵珠降世",
+        "onboard_time": 1774711281,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46466,
+        "num": 62250,
+        "word": "樊振东对手竟是对方主教练",
+        "onboard_time": 1774709903,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41815,
+        "num": 61800,
+        "word": "蜜雪集团去年净利润58.8亿",
+        "onboard_time": 1774707503,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈政绩观#"
+    }
+  }
+}
