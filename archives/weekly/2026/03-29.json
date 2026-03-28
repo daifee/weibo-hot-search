@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774720579173,
+  "endTime": 1774724028584,
   "band_list": [
     {
       "raw_hot": 1789667,
@@ -387,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48878,
+      "num": 71679,
+      "word": "世上顶好顶好的老太婆走了",
+      "onboard_time": 1774718777,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48049,
       "num": 71702,
       "word": "你好1983",
@@ -451,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34726,
-      "num": 71679,
-      "word": "世上顶好顶好的老太婆走了",
-      "onboard_time": 1774718777,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33401,
       "num": 40269,
       "word": "金价又涨了",
@@ -491,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26771,
+      "num": 26771,
+      "word": "也门胡塞武装发射导弹",
+      "onboard_time": 1774720937,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19960,
       "num": 54963,
       "word": "原来你是这样的河南",
@@ -505,6 +513,22 @@
       "onboard_time": 1774701441,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18451,
+      "num": 24738,
+      "word": "檀健次谢却山家主气场",
+      "onboard_time": 1774723875,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17015,
+      "num": 24734,
+      "word": "现货黄金",
+      "onboard_time": 1774703182,
+      "rank": 48,
+      "category": "财经"
     }
   ],
   "hotgov_list": [

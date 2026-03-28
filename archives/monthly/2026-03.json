@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774720579173,
+  "endTime": 1774724028584,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -68339,6 +68339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48878,
+      "num": 71679,
+      "word": "世上顶好顶好的老太婆走了",
+      "onboard_time": 1774718777,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48857,
       "num": 145733,
       "word": "苹果上调MacBookAir和Pro售价",
@@ -71811,14 +71819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34726,
-      "num": 71679,
-      "word": "世上顶好顶好的老太婆走了",
-      "onboard_time": 1774718777,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34611,
       "num": 82269,
       "word": "尘白禁区停机维护",
@@ -73755,6 +73755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26771,
+      "num": 26771,
+      "word": "也门胡塞武装发射导弹",
+      "onboard_time": 1774720937,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26746,
       "num": 86156,
       "word": "股掌柜荐股让股民高位接盘血亏",
@@ -75689,6 +75697,14 @@
       "onboard_time": 1773639083,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18451,
+      "num": 24738,
+      "word": "檀健次谢却山家主气场",
+      "onboard_time": 1774723875,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 18438,
