@@ -1,0 +1,410 @@
+{
+  "runTime": 1774674715698,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 643788,
+        "num": 1103006,
+        "word": "李昌钰曾说章莹颖尸体能找到",
+        "onboard_time": 1774670182,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578151,
+        "num": 809757,
+        "word": "白日提灯播出反馈",
+        "onboard_time": 1774673302,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45529,
+        "num": 613668,
+        "word": "20条负面清单让基础教育回归本真",
+        "onboard_time": 1774665263,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476288,
+        "num": 476288,
+        "word": "徐良删除汪苏泷后会无期作词作曲",
+        "onboard_time": 1774659742,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 295059,
+        "num": 295059,
+        "word": "事业编",
+        "onboard_time": 1774671381,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1487613,
+        "num": 289278,
+        "word": "李昌钰去世",
+        "onboard_time": 1774654460,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 340703,
+        "num": 287648,
+        "word": "白日提灯开播",
+        "onboard_time": 1774670781,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 615415,
+        "num": 286335,
+        "word": "特朗普称必须尊重中国",
+        "onboard_time": 1774671982,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271640,
+        "num": 271640,
+        "word": "李昌钰选用自然疗法平静面对死亡",
+        "onboard_time": 1774672642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268523,
+        "num": 268523,
+        "word": "这届年轻人办婚礼已经有小孩桌了",
+        "onboard_time": 1774669522,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1039269,
+        "num": 263539,
+        "word": "张凌赫多年前发文抨击影视圈",
+        "onboard_time": 1774669041,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382264,
+        "num": 255234,
+        "word": "祝绪丹 虞书欣",
+        "onboard_time": 1774657462,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293111,
+        "num": 248820,
+        "word": "伊朗首都巨大爆炸",
+        "onboard_time": 1774664540,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297403,
+        "num": 236613,
+        "word": "粉底液将军 高跟鞋女战士",
+        "onboard_time": 1774674141,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230707,
+        "num": 230707,
+        "word": "严浩翔Fly概念视频",
+        "onboard_time": 1774672822,
+        "rank": 14,
+        "category": "音乐,音乐"
+      },
+      {
+        "raw_hot": 216272,
+        "num": 226872,
+        "word": "不给彩礼就不结婚或成违法行为",
+        "onboard_time": 1774668023,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226821,
+        "num": 226821,
+        "word": "竹林四侠彻底be了",
+        "onboard_time": 1774624163,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217568,
+        "num": 217568,
+        "word": "严浩翔跑男上班状态",
+        "onboard_time": 1774674262,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199390,
+        "num": 199390,
+        "word": "事业单位联考",
+        "onboard_time": 1774672222,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167803,
+        "num": 167803,
+        "word": "第一次对年假有了实感",
+        "onboard_time": 1774663641,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 603493,
+        "num": 167794,
+        "word": "李小龙遗孀琳达近况",
+        "onboard_time": 1774671201,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213997,
+        "num": 166937,
+        "word": "白日提灯",
+        "onboard_time": 1774670781,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164757,
+        "num": 164757,
+        "word": "喜临门紧急冻结9亿元账户",
+        "onboard_time": 1774668802,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210579,
+        "num": 164713,
+        "word": "张子萱42岁状态",
+        "onboard_time": 1774666340,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145176,
+        "num": 164546,
+        "word": "伊朗考虑退出不扩散核武器条约",
+        "onboard_time": 1774670422,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167561,
+        "num": 164541,
+        "word": "白日提灯热度",
+        "onboard_time": 1774673482,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164514,
+        "num": 164514,
+        "word": "何晟铭说与徐麒雯恋爱曾被于正阻拦",
+        "onboard_time": 1774668921,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127768,
+        "num": 159088,
+        "word": "95后小伙吸粪车做婚车迎娶新娘",
+        "onboard_time": 1774673903,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158619,
+        "num": 158619,
+        "word": "乘风2026",
+        "onboard_time": 1774671201,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113941,
+        "num": 141380,
+        "word": "原来婚礼也可以极简成这样",
+        "onboard_time": 1774671502,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135775,
+        "num": 135775,
+        "word": "奔跑吧",
+        "onboard_time": 1774665322,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125676,
+        "num": 125676,
+        "word": "孟子义李昀锐终极撕名牌对决",
+        "onboard_time": 1774669881,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104151,
+        "num": 104151,
+        "word": "中方对168名女童遇难深感震惊",
+        "onboard_time": 1774666521,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103124,
+        "num": 103124,
+        "word": "时代少年团奔跑吧首秀",
+        "onboard_time": 1774672581,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91850,
+        "num": 91850,
+        "word": "狗为了赢面相都变了",
+        "onboard_time": 1774664419,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101049,
+        "num": 91788,
+        "word": "李遐怡DOK2公开恋情",
+        "onboard_time": 1774674502,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90537,
+        "num": 90537,
+        "word": "男子回应母亲1.8万埋地里20年后挖出",
+        "onboard_time": 1774673121,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87360,
+        "num": 87360,
+        "word": "黄金白银急速飙涨",
+        "onboard_time": 1774671502,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86100,
+        "num": 86100,
+        "word": "人穷志不穷具象化了",
+        "onboard_time": 1774674081,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42718,
+        "num": 86075,
+        "word": "何穗雎晓雯生娃后状态",
+        "onboard_time": 1774668441,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100809,
+        "num": 86065,
+        "word": "逐玉",
+        "onboard_time": 1774655000,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86053,
+        "num": 86053,
+        "word": "喜羊羊猪猪侠来洛",
+        "onboard_time": 1774674622,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 95197,
+        "num": 84662,
+        "word": "孙俪让浪姐节目组把陶昕然吊起来",
+        "onboard_time": 1774662561,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92222,
+        "num": 83874,
+        "word": "花少导演谈北斗七行七老童心回归",
+        "onboard_time": 1774670063,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81376,
+        "num": 81376,
+        "word": "老虎伍兹车祸现场画面",
+        "onboard_time": 1774673302,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80891,
+        "num": 80891,
+        "word": "51岁大叔8年狂考20本证书改变人生",
+        "onboard_time": 1774671802,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70851,
+        "num": 80832,
+        "word": "为什么会经期肛门坠痛",
+        "onboard_time": 1774674502,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87736,
+        "num": 80515,
+        "word": "将军可以帅但不能没杀气",
+        "onboard_time": 1774657642,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87210,
+        "num": 80268,
+        "word": "舒畅还有剧压了16年才播",
+        "onboard_time": 1774656442,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74295,
+        "num": 80096,
+        "word": "小猫吃猫条会屁股疼",
+        "onboard_time": 1774674562,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#对党中央定下来的事狠抓落实#"
+    }
+  }
+}
