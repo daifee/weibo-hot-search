@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774709954784,
+  "endTime": 1774712381918,
   "band_list": [
     {
       "raw_hot": 4333676,
@@ -67,6 +67,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1007647,
+      "num": 1161223,
+      "word": "太原火灾已致1死25伤",
+      "onboard_time": 1774706602,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 836378,
       "num": 680758,
       "word": "JDG对战AG",
@@ -113,14 +121,6 @@
       "onboard_time": 1774662801,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 681468,
-      "num": 1109034,
-      "word": "太原火灾已致1死25伤",
-      "onboard_time": 1774706602,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 673842,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 479705,
+      "num": 479705,
+      "word": "迪丽热巴女鬼一来了",
+      "onboard_time": 1774709003,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474362,
       "num": 1075898,
       "word": "奔跑吧",
@@ -403,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 377552,
+      "num": 226245,
+      "word": "代旭 男主剧",
+      "onboard_time": 1774710864,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370093,
       "num": 550453,
       "word": "菲律宾最新涉台表态",
@@ -420,11 +436,19 @@
     },
     {
       "raw_hot": 364837,
-      "num": 185813,
+      "num": 196104,
       "word": "王俊凯比心",
       "onboard_time": 1774709903,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 364481,
+      "num": 364481,
+      "word": "低精力人群的周末安排belike",
+      "onboard_time": 1774707143,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 361498,
@@ -499,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333852,
+      "num": 541516,
+      "word": "伊朗连遭重创绝地反击",
+      "onboard_time": 1774709363,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 325230,
       "num": 204038,
       "word": "孔雪儿工作室发文",
@@ -539,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 308169,
+      "num": 204913,
+      "word": "站姐愚人节团建预告",
+      "onboard_time": 1774711463,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308063,
       "num": 204494,
       "word": "TF四代二班见面会",
@@ -577,6 +617,14 @@
       "onboard_time": 1774701801,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290221,
+      "num": 202570,
+      "word": "迪丽热巴有高度近视",
+      "onboard_time": 1774710682,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 289173,
@@ -643,20 +691,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271031,
+      "num": 214459,
+      "word": "小狗 是表哥吗",
+      "onboard_time": 1774707801,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 270973,
       "num": 270973,
       "word": "这届年轻人办婚礼已经有小孩桌了",
       "onboard_time": 1774669522,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 268667,
-      "num": 185795,
-      "word": "迪丽热巴女鬼一来了",
-      "onboard_time": 1774709003,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 266154,
@@ -689,6 +737,14 @@
       "onboard_time": 1774626441,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258997,
+      "num": 196372,
+      "word": "鞠婧祎你在不在高音",
+      "onboard_time": 1774710083,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 257666,
@@ -764,7 +820,7 @@
     },
     {
       "raw_hot": 247831,
-      "num": 190445,
+      "num": 195658,
       "word": "丁禹兮领奖时宣传白日提灯",
       "onboard_time": 1774707801,
       "rank": 18,
@@ -793,14 +849,6 @@
       "onboard_time": 1774674922,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230398,
-      "num": 185714,
-      "word": "低精力人群的周末安排belike",
-      "onboard_time": 1774707143,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 228724,
@@ -889,14 +937,6 @@
       "onboard_time": 1774630458,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207075,
-      "num": 185597,
-      "word": "小狗 是表哥吗",
-      "onboard_time": 1774707801,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 206437,
@@ -1171,6 +1211,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153397,
+      "num": 195994,
+      "word": "高三学生请求拆除鸟巢校长写信回应",
+      "onboard_time": 1774707203,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153240,
+      "num": 195825,
+      "word": "太原火灾近距离目击者直呼好害怕",
+      "onboard_time": 1774710622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153147,
       "num": 124795,
       "word": "我家那小子",
@@ -1291,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137195,
+      "num": 137195,
+      "word": "范丞丞说时代少年团永远在一起",
+      "onboard_time": 1774710142,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136951,
       "num": 136951,
       "word": "孟子义李昀锐终极撕名牌对决",
@@ -1395,28 +1459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125585,
+      "num": 125585,
+      "word": "吴镇宇说郭晓婷脸上有故事了",
+      "onboard_time": 1774711582,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124414,
       "num": 124414,
       "word": "危险关系 吴慷仁",
       "onboard_time": 1774627461,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121234,
-      "num": 121234,
-      "word": "伊朗连遭重创绝地反击",
-      "onboard_time": 1774709363,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 120188,
-      "num": 120188,
-      "word": "高三学生请求拆除鸟巢校长写信回应",
-      "onboard_time": 1774707203,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119862,
@@ -1891,6 +1947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94402,
+      "num": 94402,
+      "word": "11岁的我觉得这顿饭夯爆了",
+      "onboard_time": 1774708883,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94068,
       "num": 69906,
       "word": "乘风2026初舞台就有淘汰",
@@ -2049,6 +2113,14 @@
       "onboard_time": 1774677742,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89498,
+      "num": 89498,
+      "word": "氦气价格暴涨50%",
+      "onboard_time": 1774711463,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 89364,
@@ -2571,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73305,
+      "num": 73305,
+      "word": "太原火灾救援视频",
+      "onboard_time": 1774711941,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72907,
       "num": 87445,
       "word": "周末真正滋养大脑的方式",
@@ -2627,6 +2707,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 71681,
+      "num": 71681,
+      "word": "梦溪韩信",
+      "onboard_time": 1774712243,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71483,
       "num": 71483,
       "word": "教你3个动作缓解久坐不适",
@@ -2641,6 +2729,14 @@
       "onboard_time": 1774665441,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 71474,
+      "num": 71474,
+      "word": "单依纯灵珠降世",
+      "onboard_time": 1774711281,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 70851,

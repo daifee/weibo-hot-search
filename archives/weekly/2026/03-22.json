@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774709954784,
+  "endTime": 1774712381918,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -659,6 +659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1007647,
+      "num": 1161223,
+      "word": "太原火灾已致1死25伤",
+      "onboard_time": 1774706602,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1005216,
       "num": 720706,
       "word": "刘昊然 商K",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1774586843,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 681468,
-      "num": 1109034,
-      "word": "太原火灾已致1死25伤",
-      "onboard_time": 1774706602,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 676617,
@@ -2201,6 +2201,14 @@
       "onboard_time": 1774690640,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479705,
+      "num": 479705,
+      "word": "迪丽热巴女鬼一来了",
+      "onboard_time": 1774709003,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 479132,
@@ -3195,6 +3203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377552,
+      "num": 226245,
+      "word": "代旭 男主剧",
+      "onboard_time": 1774710864,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377359,
       "num": 270903,
       "word": "为什么房间里那么多灰尘毛",
@@ -3324,7 +3340,7 @@
     },
     {
       "raw_hot": 364837,
-      "num": 185813,
+      "num": 196104,
       "word": "王俊凯比心",
       "onboard_time": 1774709903,
       "rank": 10,
@@ -3337,6 +3353,14 @@
       "onboard_time": 1774617863,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 364481,
+      "num": 364481,
+      "word": "低精力人群的周末安排belike",
+      "onboard_time": 1774707143,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 364346,
@@ -3689,6 +3713,14 @@
       "onboard_time": 1774657642,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333852,
+      "num": 541516,
+      "word": "伊朗连遭重创绝地反击",
+      "onboard_time": 1774709363,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 333401,
@@ -4091,6 +4123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 308169,
+      "num": 204913,
+      "word": "站姐愚人节团建预告",
+      "onboard_time": 1774711463,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308104,
       "num": 792870,
       "word": "奔跑吧路透",
@@ -4355,6 +4395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290221,
+      "num": 202570,
+      "word": "迪丽热巴有高度近视",
+      "onboard_time": 1774710682,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289173,
       "num": 289173,
       "word": "太原一商圈起火现场浓烟滚滚",
@@ -4595,6 +4643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 271031,
+      "num": 214459,
+      "word": "小狗 是表哥吗",
+      "onboard_time": 1774707801,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 270973,
       "num": 270973,
       "word": "这届年轻人办婚礼已经有小孩桌了",
@@ -4665,14 +4721,6 @@
       "onboard_time": 1774449864,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 268667,
-      "num": 185795,
-      "word": "迪丽热巴女鬼一来了",
-      "onboard_time": 1774709003,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 268640,
@@ -4817,6 +4865,14 @@
       "onboard_time": 1774104744,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 258997,
+      "num": 196372,
+      "word": "鞠婧祎你在不在高音",
+      "onboard_time": 1774710083,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 258409,
@@ -5076,7 +5132,7 @@
     },
     {
       "raw_hot": 247831,
-      "num": 190445,
+      "num": 195658,
       "word": "丁禹兮领奖时宣传白日提灯",
       "onboard_time": 1774707801,
       "rank": 18,
@@ -5505,14 +5561,6 @@
       "onboard_time": 1774452261,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230398,
-      "num": 185714,
-      "word": "低精力人群的周末安排belike",
-      "onboard_time": 1774707143,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 230172,
@@ -6025,14 +6073,6 @@
       "onboard_time": 1774536804,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207075,
-      "num": 185597,
-      "word": "小狗 是表哥吗",
-      "onboard_time": 1774707801,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 206974,
@@ -7723,6 +7763,22 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 153397,
+      "num": 195994,
+      "word": "高三学生请求拆除鸟巢校长写信回应",
+      "onboard_time": 1774707203,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153240,
+      "num": 195825,
+      "word": "太原火灾近距离目击者直呼好害怕",
+      "onboard_time": 1774710622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153213,
       "num": 153213,
       "word": "迪丽热巴眼技",
@@ -8408,6 +8464,14 @@
       "word": "张凌赫张家玮时期",
       "onboard_time": 1774481240,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137195,
+      "num": 137195,
+      "word": "范丞丞说时代少年团永远在一起",
+      "onboard_time": 1774710142,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -9211,6 +9275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125585,
+      "num": 125585,
+      "word": "吴镇宇说郭晓婷脸上有故事了",
+      "onboard_time": 1774711582,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125294,
       "num": 113865,
       "word": "06出生的人都已经上恋综了",
@@ -9499,14 +9571,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 121234,
-      "num": 121234,
-      "word": "伊朗连遭重创绝地反击",
-      "onboard_time": 1774709363,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 121007,
       "num": 110153,
       "word": "宁艺卓自由至上",
@@ -9577,14 +9641,6 @@
       "onboard_time": 1774140259,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 120188,
-      "num": 120188,
-      "word": "高三学生请求拆除鸟巢校长写信回应",
-      "onboard_time": 1774707203,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120180,
@@ -12467,6 +12523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94402,
+      "num": 94402,
+      "word": "11岁的我觉得这顿饭夯爆了",
+      "onboard_time": 1774708883,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94139,
       "num": 94139,
       "word": "安陵容祺贵人 浪姐",
@@ -13305,6 +13369,14 @@
       "onboard_time": 1774492581,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89498,
+      "num": 89498,
+      "word": "氦气价格暴涨50%",
+      "onboard_time": 1774711463,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 89452,
@@ -16067,6 +16139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73305,
+      "num": 73305,
+      "word": "太原火灾救援视频",
+      "onboard_time": 1774711941,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73284,
       "num": 73284,
       "word": "网传梅姨照片不实",
@@ -16331,6 +16411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71681,
+      "num": 71681,
+      "word": "梦溪韩信",
+      "onboard_time": 1774712243,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71650,
       "num": 71650,
       "word": "苍兰诀当年的出圈程度",
@@ -16377,6 +16465,14 @@
       "onboard_time": 1774665441,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 71474,
+      "num": 71474,
+      "word": "单依纯灵珠降世",
+      "onboard_time": 1774711281,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 71429,
