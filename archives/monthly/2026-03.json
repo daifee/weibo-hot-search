@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774708823285,
+  "endTime": 1774709954784,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -361,6 +361,14 @@
       "onboard_time": 1772407520,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2391408,
+      "num": 1680243,
+      "word": "太原火灾",
+      "onboard_time": 1774706484,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2341103,
@@ -729,14 +737,6 @@
       "onboard_time": 1773128545,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1680243,
-      "num": 1680243,
-      "word": "太原火灾",
-      "onboard_time": 1774706484,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1665219,
@@ -4403,6 +4403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 681468,
+      "num": 1109034,
+      "word": "太原火灾已致1死25伤",
+      "onboard_time": 1774706602,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 680345,
       "num": 1108855,
       "word": "315调查眼镜到底有多暴利",
@@ -4489,6 +4497,14 @@
       "onboard_time": 1772702242,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 673842,
+      "num": 446366,
+      "word": "王俊凯蹦迪版心引力",
+      "onboard_time": 1774709903,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 673395,
@@ -12395,6 +12411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 364837,
+      "num": 185813,
+      "word": "王俊凯比心",
+      "onboard_time": 1774709903,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 364625,
       "num": 364625,
       "word": "孙俪新剧",
@@ -17811,6 +17835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 268667,
+      "num": 185795,
+      "word": "迪丽热巴女鬼一来了",
+      "onboard_time": 1774709003,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268640,
       "num": 207914,
       "word": "孟羽童自曝失恋一周无法工作",
@@ -18635,6 +18667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256712,
+      "num": 256712,
+      "word": "李昌钰再婚妻子发文缅怀李昌钰",
+      "onboard_time": 1774707623,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256541,
       "num": 256541,
       "word": "刘文祥过完零丁洋得坨",
@@ -19337,6 +19377,14 @@
       "onboard_time": 1773641782,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247831,
+      "num": 190445,
+      "word": "丁禹兮领奖时宣传白日提灯",
+      "onboard_time": 1774707801,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 247733,
@@ -20291,6 +20339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235793,
+      "num": 187876,
+      "word": "杨臣刚自曝因老鼠爱大米收入1.7亿",
+      "onboard_time": 1774707683,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235707,
       "num": 179845,
       "word": "肖战记录粉丝",
@@ -20472,14 +20528,6 @@
       "word": "张凌赫直播",
       "onboard_time": 1773925341,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 234303,
-      "num": 187876,
-      "word": "杨臣刚自曝因老鼠爱大米收入1.7亿",
-      "onboard_time": 1774707683,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -20809,6 +20857,14 @@
       "onboard_time": 1774452261,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230398,
+      "num": 185714,
+      "word": "低精力人群的周末安排belike",
+      "onboard_time": 1774707143,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 230298,
@@ -22915,14 +22971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207363,
-      "num": 207363,
-      "word": "太原火灾已致1死25伤",
-      "onboard_time": 1774706602,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 207353,
       "num": 207353,
       "word": "孔雪儿伟大的爱豆时期",
@@ -22937,6 +22985,14 @@
       "onboard_time": 1773922042,
       "rank": 8,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 207075,
+      "num": 185597,
+      "word": "小狗 是表哥吗",
+      "onboard_time": 1774707801,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 207020,
@@ -23164,7 +23220,7 @@
     },
     {
       "raw_hot": 204873,
-      "num": 141577,
+      "num": 162275,
       "word": "太原一商圈起火附近商家发声",
       "onboard_time": 1774707801,
       "rank": 30,
@@ -24625,14 +24681,6 @@
       "onboard_time": 1772667801,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 190445,
-      "num": 190445,
-      "word": "丁禹兮领奖时宣传白日提灯",
-      "onboard_time": 1774707801,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 190434,
@@ -27963,14 +28011,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 164206,
-      "num": 164206,
-      "word": "低精力人群的周末安排belike",
-      "onboard_time": 1774707143,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164193,
       "num": 574415,
       "word": "王楚钦vs格罗特",
@@ -29881,14 +29921,6 @@
       "onboard_time": 1772349443,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151786,
-      "num": 151786,
-      "word": "李昌钰再婚妻子发文缅怀李昌钰",
-      "onboard_time": 1774707623,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151770,
@@ -32555,6 +32587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136898,
+      "num": 136898,
+      "word": "黄金气体价格暴涨",
+      "onboard_time": 1774709243,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136889,
       "num": 136889,
       "word": "14岁女儿在校被打智力退至3岁",
@@ -32961,14 +33001,6 @@
       "onboard_time": 1773454820,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134923,
-      "num": 134923,
-      "word": "小狗 是表哥吗",
-      "onboard_time": 1774707801,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 134909,
@@ -33753,6 +33785,14 @@
       "onboard_time": 1774187723,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131591,
+      "num": 189979,
+      "word": "用吸粪车做婚车小伙发声",
+      "onboard_time": 1774708284,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131584,
@@ -36267,6 +36307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121234,
+      "num": 121234,
+      "word": "伊朗连遭重创绝地反击",
+      "onboard_time": 1774709363,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121232,
       "num": 121232,
       "word": "张凌赫田曦薇hi6拍立得",
@@ -37081,6 +37129,14 @@
       "onboard_time": 1773232102,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118578,
+      "num": 118578,
+      "word": "A股多个大手笔分红来了",
+      "onboard_time": 1774709003,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 118562,
@@ -37969,6 +38025,14 @@
       "onboard_time": 1774486941,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115439,
+      "num": 126377,
+      "word": "丁禹兮直拍",
+      "onboard_time": 1774707323,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 115418,
@@ -61051,6 +61115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68638,
+      "num": 88783,
+      "word": "狂犬病暴露风险进入高发期",
+      "onboard_time": 1774709123,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 68581,
       "num": 68581,
       "word": "财经大V误导投资者获利超4000万",
@@ -65099,6 +65171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59787,
+      "num": 88748,
+      "word": "樊振东对手竟是对方主教练",
+      "onboard_time": 1774709903,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59766,
       "num": 64948,
       "word": "梅姨案9名被拐儿童全部找回",
@@ -65345,14 +65425,6 @@
       "onboard_time": 1773912920,
       "rank": 49,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 58958,
-      "num": 189979,
-      "word": "用吸粪车做婚车小伙发声",
-      "onboard_time": 1774708284,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58935,
