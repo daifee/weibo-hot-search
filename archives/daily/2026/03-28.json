@@ -1,6 +1,6 @@
 {
   "startTime": 1774627316951,
-  "endTime": 1774704786814,
+  "endTime": 1774706822428,
   "band_list": [
     {
       "raw_hot": 4333676,
@@ -73,6 +73,14 @@
       "onboard_time": 1774657462,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 764006,
+      "num": 1122240,
+      "word": "男医生做产检丈夫撞墙为何被群嘲",
+      "onboard_time": 1774703362,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 726681,
@@ -371,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 368227,
+      "num": 252647,
+      "word": "伊朗袭击沙特基地",
+      "onboard_time": 1774703422,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 361498,
       "num": 306234,
       "word": "白日提灯直播",
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 358779,
-      "num": 249402,
+      "num": 249568,
       "word": "张凌赫大一曾分享暗恋细节",
       "onboard_time": 1774701022,
       "rank": 13,
@@ -401,6 +417,14 @@
       "onboard_time": 1774679722,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350638,
+      "num": 302279,
+      "word": "鞠婧祎把舞台走成T台",
+      "onboard_time": 1774705762,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 343667,
@@ -419,12 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338898,
-      "num": 135970,
-      "word": "伊朗袭击沙特基地",
-      "onboard_time": 1774703422,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 341974,
+      "num": 286453,
+      "word": "陈飞宇问迪丽热巴你看清过我吗",
+      "onboard_time": 1774702762,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 334205,
@@ -459,12 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313927,
-      "num": 313927,
-      "word": "男医生做产检丈夫撞墙为何被群嘲",
-      "onboard_time": 1774703362,
-      "rank": 49,
+      "raw_hot": 314916,
+      "num": 839902,
+      "word": "太原火灾",
+      "onboard_time": 1774706484,
+      "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312701,
+      "num": 250609,
+      "word": "现货黄金",
+      "onboard_time": 1774703182,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 308171,
@@ -507,12 +539,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 286453,
-      "num": 286453,
-      "word": "陈飞宇问迪丽热巴你看清过我吗",
-      "onboard_time": 1774702762,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 290435,
+      "num": 290435,
+      "word": "男摄影师用白丝裸足引流卖女童视频",
+      "onboard_time": 1774701801,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289122,
+      "num": 211937,
+      "word": "女子在家被流浪狗咬伤3天后狗死了",
+      "onboard_time": 1774702701,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281735,
@@ -603,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257666,
+      "num": 247126,
+      "word": "王俊凯工作室出图",
+      "onboard_time": 1774683260,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257564,
       "num": 250413,
       "word": "不给彩礼就不结婚或成违法行为",
@@ -627,20 +675,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 255392,
+      "num": 255392,
+      "word": "太原一商圈起火现场浓烟滚滚",
+      "onboard_time": 1774705822,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 251921,
       "num": 317280,
       "word": "百度一贴吧疑全机器人禁止人类发帖",
       "onboard_time": 1774676244,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 250780,
-      "num": 175273,
-      "word": "女子在家被流浪狗咬伤3天后狗死了",
-      "onboard_time": 1774702701,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249706,
@@ -771,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208992,
-      "num": 208992,
-      "word": "男摄影师用白丝裸足引流卖女童视频",
-      "onboard_time": 1774701801,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206437,
       "num": 339615,
       "word": "李昌钰是美国首位警界最高职位华裔",
@@ -899,18 +939,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184249,
-      "num": 246688,
-      "word": "王俊凯工作室出图",
-      "onboard_time": 1774683260,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183761,
       "num": 133960,
       "word": "鬼见了周冬雨都得低头",
       "onboard_time": 1774667002,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180926,
+      "num": 180926,
+      "word": "先嗑到张俪迪丽热巴了",
+      "onboard_time": 1774706243,
       "rank": 23,
       "category": "综艺"
     },
@@ -947,14 +987,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 174390,
-      "num": 174390,
-      "word": "现货黄金",
-      "onboard_time": 1774703182,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 173732,
       "num": 173732,
       "word": "KPL",
@@ -969,6 +1001,14 @@
       "onboard_time": 1774609041,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166809,
+      "num": 166809,
+      "word": "U23国足vs朝鲜U23",
+      "onboard_time": 1774705702,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 164423,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1774654879,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155070,
+      "num": 155070,
+      "word": "任豪衣服",
+      "onboard_time": 1774705343,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 153147,
@@ -1171,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130100,
+      "num": 151347,
+      "word": "妻子发文缅怀李昌钰",
+      "onboard_time": 1774706484,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129648,
       "num": 192246,
       "word": "李昌钰去世知情人发声",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1774627461,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120418,
+      "num": 120418,
+      "word": "郝熠然 翻牌",
+      "onboard_time": 1774705822,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 119862,
@@ -1283,6 +1347,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 114017,
+      "num": 164747,
+      "word": "太原高层建筑着火致24伤",
+      "onboard_time": 1774706602,
+      "rank": 25,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 113941,
       "num": 141380,
       "word": "原来婚礼也可以极简成这样",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1774655000,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111746,
+      "num": 126482,
+      "word": "女顾客打印后要求归类被拒当场崩溃",
+      "onboard_time": 1774706302,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111373,
@@ -1459,6 +1539,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104202,
+      "num": 104202,
+      "word": "AG零封JDG晋级胜者组决赛",
+      "onboard_time": 1774705702,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 103530,
+      "num": 103530,
+      "word": "小米新SU7车主很多来自BBA",
+      "onboard_time": 1774705702,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 103124,
       "num": 103124,
       "word": "时代少年团奔跑吧首秀",
@@ -1507,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100384,
+      "num": 100384,
+      "word": "中国AI不会因几张邀请函停滞",
+      "onboard_time": 1774706663,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100338,
       "num": 100338,
       "word": "孙俪回应陶昕然",
@@ -1528,6 +1632,14 @@
       "word": "日本欲在距台110公里岛屿部署导弹",
       "onboard_time": 1774683621,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 99841,
+      "num": 99841,
+      "word": "胡塞武装与伊朗并肩作战",
+      "onboard_time": 1774702161,
+      "rank": 42,
       "category": "国际时政"
     },
     {
@@ -1585,6 +1697,14 @@
       "onboard_time": 1774689982,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95924,
+      "num": 95924,
+      "word": "展轩直播",
+      "onboard_time": 1774706122,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 95858,
@@ -1835,6 +1955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87173,
+      "num": 87173,
+      "word": "这个嘴筒子是非捏不可吗",
+      "onboard_time": 1774706783,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87162,
       "num": 92620,
       "word": "杨瀚森杀死比赛",
@@ -1953,14 +2081,6 @@
       "onboard_time": 1774618344,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85141,
-      "num": 85141,
-      "word": "胡塞武装与伊朗并肩作战",
-      "onboard_time": 1774702161,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 84816,
@@ -2505,6 +2625,14 @@
       "onboard_time": 1774686501,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52107,
+      "num": 104977,
+      "word": "日本舆论要求日政府就强闯使馆道歉",
+      "onboard_time": 1774706422,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51970,

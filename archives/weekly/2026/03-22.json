@@ -1,6 +1,6 @@
 {
   "startTime": 1774111204736,
-  "endTime": 1774704786814,
+  "endTime": 1774706822428,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1032,6 +1032,14 @@
       "word": "男大学生患桃花癫一周挥霍5万",
       "onboard_time": 1774265900,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 764006,
+      "num": 1122240,
+      "word": "男医生做产检丈夫撞墙为何被群嘲",
+      "onboard_time": 1774703362,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -3243,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368227,
+      "num": 252647,
+      "word": "伊朗袭击沙特基地",
+      "onboard_time": 1774703422,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 368000,
       "num": 247007,
       "word": "粉底液将军为何会激起群嘲",
@@ -3356,7 +3372,7 @@
     },
     {
       "raw_hot": 358779,
-      "num": 249402,
+      "num": 249568,
       "word": "张凌赫大一曾分享暗恋细节",
       "onboard_time": 1774701022,
       "rank": 13,
@@ -3451,6 +3467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 350638,
+      "num": 302279,
+      "word": "鞠婧祎把舞台走成T台",
+      "onboard_time": 1774705762,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 349989,
       "num": 201263,
       "word": "伊朗称特朗普推迟袭击表态为心理战",
@@ -3539,6 +3563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341974,
+      "num": 286453,
+      "word": "陈飞宇问迪丽热巴你看清过我吗",
+      "onboard_time": 1774702762,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340265,
       "num": 1054442,
       "word": "共和国3天痛失3位院士",
@@ -3553,14 +3585,6 @@
       "onboard_time": 1774243280,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 338898,
-      "num": 135970,
-      "word": "伊朗袭击沙特基地",
-      "onboard_time": 1774703422,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 338557,
@@ -3915,20 +3939,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314916,
+      "num": 839902,
+      "word": "太原火灾",
+      "onboard_time": 1774706484,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314819,
       "num": 268211,
       "word": "微信聊天为什么会出现对方正在输入",
       "onboard_time": 1774499781,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 313927,
-      "num": 313927,
-      "word": "男医生做产检丈夫撞墙为何被群嘲",
-      "onboard_time": 1774703362,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 313619,
@@ -3953,6 +3977,14 @@
       "onboard_time": 1774365931,
       "rank": 1,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 312701,
+      "num": 250609,
+      "word": "现货黄金",
+      "onboard_time": 1774394303,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 312273,
@@ -4275,11 +4307,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290435,
+      "num": 290435,
+      "word": "男摄影师用白丝裸足引流卖女童视频",
+      "onboard_time": 1774701801,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290392,
       "num": 204124,
       "word": "面筋哥女儿自曝遭继父持续4年性骚扰",
       "onboard_time": 1774341983,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289122,
+      "num": 211937,
+      "word": "女子在家被流浪狗咬伤3天后狗死了",
+      "onboard_time": 1774702701,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -4297,14 +4345,6 @@
       "onboard_time": 1774341442,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 286453,
-      "num": 286453,
-      "word": "陈飞宇问迪丽热巴你看清过我吗",
-      "onboard_time": 1774702762,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 285042,
@@ -4755,6 +4795,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 257666,
+      "num": 247126,
+      "word": "王俊凯工作室出图",
+      "onboard_time": 1774683260,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257564,
       "num": 250413,
       "word": "不给彩礼就不结婚或成违法行为",
@@ -4825,6 +4873,14 @@
       "onboard_time": 1774444884,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 255392,
+      "num": 255392,
+      "word": "太原一商圈起火现场浓烟滚滚",
+      "onboard_time": 1774705822,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 255023,
@@ -4913,14 +4969,6 @@
       "onboard_time": 1774428623,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 250780,
-      "num": 175273,
-      "word": "女子在家被流浪狗咬伤3天后狗死了",
-      "onboard_time": 1774702701,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249934,
@@ -5795,14 +5843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212746,
-      "num": 212746,
-      "word": "现货黄金",
-      "onboard_time": 1774394303,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 212061,
       "num": 465005,
       "word": "高市早苗对强闯中使馆事件沉默",
@@ -5889,14 +5929,6 @@
       "onboard_time": 1774173320,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208992,
-      "num": 208992,
-      "word": "男摄影师用白丝裸足引流卖女童视频",
-      "onboard_time": 1774701801,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208684,
@@ -6563,14 +6595,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 184249,
-      "num": 246688,
-      "word": "王俊凯工作室出图",
-      "onboard_time": 1774683260,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183906,
       "num": 183906,
       "word": "梅姨被逮捕",
@@ -6681,6 +6705,14 @@
       "onboard_time": 1774409364,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180926,
+      "num": 180926,
+      "word": "先嗑到张俪迪丽热巴了",
+      "onboard_time": 1774706243,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 180790,
@@ -7211,6 +7243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166809,
+      "num": 166809,
+      "word": "U23国足vs朝鲜U23",
+      "onboard_time": 1774705702,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166648,
       "num": 148916,
       "word": "张函瑞高会超陈浚铭",
@@ -7537,6 +7577,14 @@
       "onboard_time": 1774418124,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155070,
+      "num": 155070,
+      "word": "任豪衣服",
+      "onboard_time": 1774705343,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 154764,
@@ -8651,6 +8699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130100,
+      "num": 151347,
+      "word": "妻子发文缅怀李昌钰",
+      "onboard_time": 1774706484,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129655,
       "num": 129655,
       "word": "杨笠说我撑过来了",
@@ -9387,6 +9443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120418,
+      "num": 120418,
+      "word": "郝熠然 翻牌",
+      "onboard_time": 1774705822,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120180,
       "num": 120180,
       "word": "Elk BLG",
@@ -9923,6 +9987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 114017,
+      "num": 164747,
+      "word": "太原高层建筑着火致24伤",
+      "onboard_time": 1774706602,
+      "rank": 25,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 113941,
       "num": 141380,
       "word": "原来婚礼也可以极简成这样",
@@ -10121,6 +10193,14 @@
       "onboard_time": 1774396646,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111746,
+      "num": 126482,
+      "word": "女顾客打印后要求归类被拒当场崩溃",
+      "onboard_time": 1774706302,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111433,
@@ -10947,6 +11027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104202,
+      "num": 104202,
+      "word": "AG零封JDG晋级胜者组决赛",
+      "onboard_time": 1774705702,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104165,
       "num": 98997,
       "word": "日本6.4级地震",
@@ -11001,6 +11089,14 @@
       "onboard_time": 1774537102,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103530,
+      "num": 103530,
+      "word": "小米新SU7车主很多来自BBA",
+      "onboard_time": 1774705702,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 103406,
@@ -11347,6 +11443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100384,
+      "num": 100384,
+      "word": "中国AI不会因几张邀请函停滞",
+      "onboard_time": 1774706663,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100338,
       "num": 100338,
       "word": "孙俪回应陶昕然",
@@ -11425,6 +11529,14 @@
       "onboard_time": 1774188502,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99841,
+      "num": 99841,
+      "word": "胡塞武装与伊朗并肩作战",
+      "onboard_time": 1774702161,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99821,
@@ -11953,6 +12065,14 @@
       "onboard_time": 1774411464,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95924,
+      "num": 95924,
+      "word": "展轩直播",
+      "onboard_time": 1774706122,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 95869,
@@ -13371,6 +13491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87173,
+      "num": 87173,
+      "word": "这个嘴筒子是非捏不可吗",
+      "onboard_time": 1774706783,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87171,
       "num": 87171,
       "word": "谢征樊长玉马车吻",
@@ -13737,14 +13865,6 @@
       "onboard_time": 1774606763,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85141,
-      "num": 85141,
-      "word": "胡塞武装与伊朗并肩作战",
-      "onboard_time": 1774702161,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 84816,
@@ -18081,6 +18201,14 @@
       "onboard_time": 1774424363,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52107,
+      "num": 104977,
+      "word": "日本舆论要求日政府就强闯使馆道歉",
+      "onboard_time": 1774706422,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52075,
