@@ -1,0 +1,410 @@
+{
+  "runTime": 1774761645693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 453502,
+        "num": 1072560,
+        "word": "美国全国爆发反对特朗普政府集会",
+        "onboard_time": 1774754300,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289557,
+        "num": 761067,
+        "word": "夫妻房产留给长子长孙遭两女儿反对",
+        "onboard_time": 1774758081,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31138,
+        "num": 592402,
+        "word": "大国重器密集上新惊喜不断",
+        "onboard_time": 1774750219,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 284070,
+        "num": 284070,
+        "word": "日本抗议者高喊中国对不起",
+        "onboard_time": 1774759701,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284060,
+        "num": 284060,
+        "word": "徐若晗能让郝蕾闭嘴",
+        "onboard_time": 1774758981,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236515,
+        "num": 236515,
+        "word": "美国1000人包围政府机构大楼",
+        "onboard_time": 1774755862,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199796,
+        "num": 199796,
+        "word": "浪姐7初舞台选歌",
+        "onboard_time": 1774756762,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179043,
+        "num": 179043,
+        "word": "当你吃了一整天健康食物",
+        "onboard_time": 1774751721,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145066,
+        "num": 145066,
+        "word": "全红婵称床上摆满了乌龟玩偶",
+        "onboard_time": 1774754779,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60585,
+        "num": 144889,
+        "word": "黑龙江海林一楼房坍塌9人被困",
+        "onboard_time": 1774760242,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1186471,
+        "num": 144746,
+        "word": "氯雷他定",
+        "onboard_time": 1774758740,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 541869,
+        "num": 144603,
+        "word": "逐玉 庆功宴",
+        "onboard_time": 1774751660,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220994,
+        "num": 144379,
+        "word": "杨紫说自己来乘风是拆台的",
+        "onboard_time": 1774754001,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189570,
+        "num": 144126,
+        "word": "长期不吃主食身体的8个变化",
+        "onboard_time": 1774754779,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191811,
+        "num": 143925,
+        "word": "21年了叶一茜选歌风格还这样",
+        "onboard_time": 1774758501,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185516,
+        "num": 143715,
+        "word": "删除汪苏泷名字让徐良又生气又煎熬",
+        "onboard_time": 1774741098,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143702,
+        "num": 143702,
+        "word": "孩子凌晨被抢没想到邻居参与了",
+        "onboard_time": 1774759281,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 155974,
+        "num": 143405,
+        "word": "才发现王一博上的全英课",
+        "onboard_time": 1774760541,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145995,
+        "num": 143401,
+        "word": "李维嘉和何老师吵架的原因",
+        "onboard_time": 1774756221,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142826,
+        "num": 142826,
+        "word": "万斯获美共和党保守派阵营过半支持",
+        "onboard_time": 1774752321,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341152,
+        "num": 133280,
+        "word": "曝女顶流被公司索赔3亿解约费",
+        "onboard_time": 1774750040,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302383,
+        "num": 131568,
+        "word": "女子半年没回家卧室开窗变邻居阳台",
+        "onboard_time": 1774741758,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123023,
+        "num": 123023,
+        "word": "德国版射雕预告好燃好震撼",
+        "onboard_time": 1774759881,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117105,
+        "num": 117105,
+        "word": "刘宇宁模仿迪丽热巴戏瘾大爆发",
+        "onboard_time": 1774759461,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112667,
+        "num": 112667,
+        "word": "接陌生电话先别出声",
+        "onboard_time": 1774758860,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112235,
+        "num": 112235,
+        "word": "白日提灯",
+        "onboard_time": 1774757539,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111308,
+        "num": 111308,
+        "word": "张凌赫素颜顺毛路透",
+        "onboard_time": 1774753761,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104077,
+        "num": 104077,
+        "word": "男孩玩灭火毯全身扎满超细玻璃纤维",
+        "onboard_time": 1774750400,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85037,
+        "num": 102334,
+        "word": "秦岚回应花少与客栈哪个更快乐",
+        "onboard_time": 1774761262,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102004,
+        "num": 102004,
+        "word": "汪苏泷祝福徐良",
+        "onboard_time": 1774749739,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121105,
+        "num": 101959,
+        "word": "全职高手致歉",
+        "onboard_time": 1774760121,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102373,
+        "num": 101822,
+        "word": "关于香港的冷知识",
+        "onboard_time": 1774759100,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99658,
+        "num": 99658,
+        "word": "愚公生的是你俩山早移走了",
+        "onboard_time": 1774754360,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95554,
+        "num": 95554,
+        "word": "当代人对豆包的依赖程度",
+        "onboard_time": 1774757361,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85742,
+        "num": 92164,
+        "word": "事业编B类",
+        "onboard_time": 1774761080,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91727,
+        "num": 91727,
+        "word": "特朗普政府升级对华学术封锁",
+        "onboard_time": 1774758022,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90521,
+        "num": 90521,
+        "word": "美副总统称无意滞留伊朗将很快撤出",
+        "onboard_time": 1774758081,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90451,
+        "num": 90451,
+        "word": "白日提灯首播成绩",
+        "onboard_time": 1774757660,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85405,
+        "num": 85405,
+        "word": "韩国0比4惨败科特迪瓦",
+        "onboard_time": 1774757780,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26995,
+        "num": 84338,
+        "word": "医院回应宣传包怀孕花1.6万无效",
+        "onboard_time": 1774760842,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83438,
+        "num": 83438,
+        "word": "王俊凯回应拿错奖杯了",
+        "onboard_time": 1774742539,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82456,
+        "num": 82456,
+        "word": "福建这个绿色年糕叫什么",
+        "onboard_time": 1774760722,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81200,
+        "num": 81200,
+        "word": "黑龙江海林一楼房坍塌",
+        "onboard_time": 1774757901,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80237,
+        "num": 80237,
+        "word": "女子面馆当众2掌扇懵男孩",
+        "onboard_time": 1774761141,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77894,
+        "num": 77894,
+        "word": "中式亡灵主题餐厅",
+        "onboard_time": 1774760961,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 75234,
+        "num": 75234,
+        "word": "深夜遇哭泣女子带其回家遭仙人跳",
+        "onboard_time": 1774750219,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73354,
+        "num": 73354,
+        "word": "何老师维嘉好六哭了",
+        "onboard_time": 1774743200,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70795,
+        "num": 70795,
+        "word": "男子一想抽烟就买彩票中了701万",
+        "onboard_time": 1774752200,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70666,
+        "num": 70666,
+        "word": "许嵩第九张专辑 盛夏见",
+        "onboard_time": 1774761621,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 69679,
+        "num": 69679,
+        "word": "QQ音乐 虞书欣",
+        "onboard_time": 1774761562,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语雄安高质量发展#"
+    }
+  }
+}
