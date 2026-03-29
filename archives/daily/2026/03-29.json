@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774795312106,
+  "endTime": 1774796480023,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1069778,
-      "num": 413481,
+      "num": 928106,
       "word": "薛之谦在养死士",
       "onboard_time": 1774793430,
       "rank": 11,
@@ -121,6 +121,14 @@
       "onboard_time": 1774768588,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 956223,
+      "num": 956223,
+      "word": "田曦薇被裙子勒成这样",
+      "onboard_time": 1774794754,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 913436,
@@ -185,14 +193,6 @@
       "onboard_time": 1774741098,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 590768,
-      "num": 411367,
-      "word": "田曦薇被裙子勒成这样",
-      "onboard_time": 1774794754,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 579289,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 482426,
-      "num": 352228,
+      "num": 809860,
       "word": "田曦薇拍青天大老爷手势舞",
       "onboard_time": 1774793550,
       "rank": 20,
@@ -273,6 +273,14 @@
       "onboard_time": 1774749739,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 449510,
+      "num": 1031563,
+      "word": "狼队让三追四",
+      "onboard_time": 1774794689,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 448157,
@@ -292,15 +300,15 @@
     },
     {
       "raw_hot": 436079,
-      "num": 939932,
+      "num": 985177,
       "word": "狼队对战KSG",
       "onboard_time": 1774781848,
       "rank": 16,
       "category": "电竞"
     },
     {
-      "raw_hot": 419800,
-      "num": 419800,
+      "raw_hot": 428577,
+      "num": 1027154,
       "word": "DeepSeek崩了",
       "onboard_time": 1774792228,
       "rank": 4,
@@ -395,20 +403,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 337117,
+      "num": 804232,
+      "word": "D3665列车乘客称多人疑似晕厥",
+      "onboard_time": 1774794754,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332040,
+      "num": 1053126,
+      "word": "中国将在长江水下开高铁",
+      "onboard_time": 1774790608,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 327865,
       "num": 726225,
       "word": "太原火灾近距离目击者直呼好害怕",
       "onboard_time": 1774710622,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310579,
-      "num": 898993,
-      "word": "中国将在长江水下开高铁",
-      "onboard_time": 1774790608,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 310246,
@@ -457,14 +473,6 @@
       "onboard_time": 1774782686,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292779,
-      "num": 418424,
-      "word": "狼队让三追四",
-      "onboard_time": 1774794689,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 292229,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 244029,
-      "num": 361386,
+      "num": 962866,
       "word": "亚洲3国与伊朗达成协议",
       "onboard_time": 1774792169,
       "rank": 15,
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 202195,
-      "num": 900510,
+      "num": 1011928,
       "word": "伊朗向美以进一步摊牌",
       "onboard_time": 1774790249,
       "rank": 42,
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 193424,
-      "num": 929255,
+      "num": 988600,
       "word": "迪丽热巴什么时候原谅现偶",
       "onboard_time": 1774787008,
       "rank": 24,
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 174274,
-      "num": 352349,
+      "num": 801709,
       "word": "狼队KSG巅峰对决",
       "onboard_time": 1774792888,
       "rank": 18,
@@ -1099,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144756,
+      "num": 1000732,
+      "word": "逐玉",
+      "onboard_time": 1774792888,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143958,
       "num": 911598,
       "word": "仙逆",
@@ -1116,7 +1132,7 @@
     },
     {
       "raw_hot": 142138,
-      "num": 352087,
+      "num": 807450,
       "word": "檀健次比心ending",
       "onboard_time": 1774792829,
       "rank": 23,
@@ -1171,14 +1187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138397,
-      "num": 351777,
-      "word": "D3665列车乘客称多人疑似晕厥",
-      "onboard_time": 1774794754,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137062,
       "num": 502065,
       "word": "奶茶店点一杯不够起送",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1774742479,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133035,
+      "num": 803493,
+      "word": "张桂源高会更新",
+      "onboard_time": 1774796311,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 132488,
@@ -1236,7 +1252,7 @@
     },
     {
       "raw_hot": 127359,
-      "num": 351846,
+      "num": 932044,
       "word": "村民办白事酒席老外误当成饭店",
       "onboard_time": 1774791868,
       "rank": 28,
@@ -1292,11 +1308,19 @@
     },
     {
       "raw_hot": 120060,
-      "num": 351910,
+      "num": 843311,
       "word": "张杰从云端唱到人海",
       "onboard_time": 1774793129,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119574,
+      "num": 806909,
+      "word": "以色列还能撑多久",
+      "onboard_time": 1774795172,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119247,
@@ -1348,7 +1372,7 @@
     },
     {
       "raw_hot": 115284,
-      "num": 351819,
+      "num": 793209,
       "word": "袁泉 影后演技",
       "onboard_time": 1774791508,
       "rank": 29,
@@ -1420,7 +1444,7 @@
     },
     {
       "raw_hot": 110638,
-      "num": 351702,
+      "num": 801304,
       "word": "1.99元就能买1斤猪肉",
       "onboard_time": 1774792293,
       "rank": 32,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1774765581,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108342,
+      "num": 803087,
+      "word": "iG官宣Helper加入",
+      "onboard_time": 1774796190,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 107994,
@@ -1539,14 +1571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105507,
-      "num": 351617,
-      "word": "逐玉",
-      "onboard_time": 1774792888,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105299,
       "num": 129596,
       "word": "两少年骑车争执致1人死亡",
@@ -1561,14 +1585,6 @@
       "onboard_time": 1774761621,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 103277,
-      "num": 351569,
-      "word": "以色列还能撑多久",
-      "onboard_time": 1774795172,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 103147,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1774770869,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102554,
+      "num": 824902,
+      "word": "被困隧道3小时D3665次车恢复通行",
+      "onboard_time": 1774795891,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101779,
@@ -1635,7 +1659,7 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 100432,
+      "raw_hot": 100537,
       "num": 890968,
       "word": "九寨沟震后首次实拍到野生大熊猫活体",
       "onboard_time": 1774791209,
@@ -1657,6 +1681,14 @@
       "onboard_time": 1774754360,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98075,
+      "num": 802704,
+      "word": "至少要上三年班才会变成会上班的人",
+      "onboard_time": 1774796372,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 97797,
@@ -1811,6 +1843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90648,
+      "num": 799944,
+      "word": "女生举报老师性骚扰失败状告公安机关",
+      "onboard_time": 1774794689,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90521,
       "num": 90521,
       "word": "美副总统称无意滞留伊朗将很快撤出",
@@ -1873,6 +1913,14 @@
       "onboard_time": 1774762820,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 88163,
+      "num": 798636,
+      "word": "一个好的家要少做3件事",
+      "onboard_time": 1774796372,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87697,
@@ -2019,6 +2067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 82401,
+      "num": 795531,
+      "word": "多地投资者买老破小以租养贷",
+      "onboard_time": 1774795773,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82392,
       "num": 82392,
       "word": "在草莓园上班的小猫",
@@ -2145,6 +2201,14 @@
       "onboard_time": 1774790489,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78629,
+      "num": 793743,
+      "word": "日本网吧弃尸案",
+      "onboard_time": 1774793550,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 78526,
@@ -2763,14 +2827,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 46404,
-      "num": 352274,
-      "word": "女生举报老师性骚扰失败状告公安机关",
-      "onboard_time": 1774794689,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45476,
       "num": 82144,
       "word": "时代少年团奔跑吧凌晨下班",
@@ -2817,6 +2873,14 @@
       "onboard_time": 1774710923,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41916,
+      "num": 796619,
+      "word": "男子称哪怕离婚也不能隔断兄弟的情谊",
+      "onboard_time": 1774796431,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41460,
@@ -2892,7 +2956,7 @@
     },
     {
       "raw_hot": 27287,
-      "num": 1036116,
+      "num": 1038267,
       "word": "数据感知中国经济活力满满",
       "onboard_time": 1774786528,
       "rank": 2,
