@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774806011919,
+  "endTime": 1774807065460,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -3083,6 +3083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34741,
+      "num": 181698,
+      "word": "美国对伊朗局势至少出现两个误判",
+      "onboard_time": 1774807037,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33401,
       "num": 80348,
       "word": "金价又涨了",
@@ -3217,6 +3225,14 @@
       "onboard_time": 1774701441,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19087,
+      "num": 180676,
+      "word": "檀健次超级巅峰之夜人气",
+      "onboard_time": 1774806918,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 17971,
