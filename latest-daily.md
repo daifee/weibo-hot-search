@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/30 00:44:46 ~ 2026/03/30 03:55:20
+本榜单时间：2026/03/30 00:44:46 ~ 2026/03/30 04:42:44
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@ iG官宣Helper加入（热度：34791）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23QQ%E9%9F%B3%E4%B9%90%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%23" target="weibo">
 QQ音乐巅峰之夜（热度：14053）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E21%E4%B9%98%E7%BB%84%E5%9C%A8%E8%BD%A8vlog%E5%8F%88%E4%B8%8A%E6%96%B0%E4%BA%86%23" target="weibo">
+神21乘组在轨vlog又上新了（热度：7517）
 </a>
 </li>
 
