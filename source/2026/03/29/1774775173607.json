@@ -1,0 +1,410 @@
+{
+  "runTime": 1774775173607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 18158835,
+        "num": 18158835,
+        "word": "李荣浩 单依纯强行侵权",
+        "onboard_time": 1774767022,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 594920,
+        "num": 2129906,
+        "word": "氯雷他定",
+        "onboard_time": 1774758740,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 5449,
+        "num": 1702215,
+        "word": "2026中国网络媒体论坛",
+        "onboard_time": 1774536983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11553843,
+        "num": 11553843,
+        "word": "单依纯道歉",
+        "onboard_time": 1774772554,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244082,
+        "num": 1570648,
+        "word": "广州冰雹",
+        "onboard_time": 1774770631,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8154626,
+        "num": 8154626,
+        "word": "如何呢 又能怎",
+        "onboard_time": 1774768469,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237853,
+        "num": 1281941,
+        "word": "胡塞伊朗黎巴嫩同步袭击以色列",
+        "onboard_time": 1774768949,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 230618,
+        "num": 1222565,
+        "word": "雀巢12吨巧克力被盗",
+        "onboard_time": 1774770688,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117593,
+        "num": 1070282,
+        "word": "一二线城市兴起周末情侣",
+        "onboard_time": 1774773629,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82739,
+        "num": 903624,
+        "word": "享界汽车回应网传S9麋鹿测试视频",
+        "onboard_time": 1774771830,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 6093338,
+        "num": 6093338,
+        "word": "李荣浩4连质问单依纯",
+        "onboard_time": 1774774650,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 763256,
+        "num": 763256,
+        "word": "严浩翔分享歌曲",
+        "onboard_time": 1774774710,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162303,
+        "num": 344416,
+        "word": "鸭嘴钳是无数女性做检查时的噩梦",
+        "onboard_time": 1774774650,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233779,
+        "num": 233779,
+        "word": "张凌赫谈负面评价",
+        "onboard_time": 1774770749,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173471,
+        "num": 173471,
+        "word": "原来五哈导演并非不爱请女嘉宾",
+        "onboard_time": 1774770149,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107738,
+        "num": 172891,
+        "word": "阿那亚海市蜃楼",
+        "onboard_time": 1774764080,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2218054,
+        "num": 170046,
+        "word": "单依纯曾因没拿下版权哭了一小时",
+        "onboard_time": 1774774350,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103748,
+        "num": 169181,
+        "word": "日本抗议者高喊中国对不起",
+        "onboard_time": 1774759701,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101469,
+        "num": 167516,
+        "word": "奈雪的茶没人喝了",
+        "onboard_time": 1774763301,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96092,
+        "num": 164416,
+        "word": "每天化妆状态",
+        "onboard_time": 1774769367,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1937924,
+        "num": 163699,
+        "word": "李荣浩原来真不ok",
+        "onboard_time": 1774771529,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475429,
+        "num": 160557,
+        "word": "儿子蛇缠腰父亲涂抹符水圈住疱疹",
+        "onboard_time": 1774771050,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219753,
+        "num": 159169,
+        "word": "陈牧驰晒还钱截图",
+        "onboard_time": 1774767322,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158020,
+        "num": 158020,
+        "word": "肖战单手飞身上马",
+        "onboard_time": 1774768708,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148262,
+        "num": 148262,
+        "word": "头发像奶油一样化开了",
+        "onboard_time": 1774771229,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95478,
+        "num": 141629,
+        "word": "氯雷他定建议白天使用",
+        "onboard_time": 1774772973,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137062,
+        "num": 137062,
+        "word": "奶茶店点一杯不够起送",
+        "onboard_time": 1774770149,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160011,
+        "num": 136336,
+        "word": "陈牧驰回应与吴楚一相关争议",
+        "onboard_time": 1774765521,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130996,
+        "num": 130996,
+        "word": "郝蕾说的是谁好难猜啊",
+        "onboard_time": 1774774232,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96009,
+        "num": 129596,
+        "word": "两少年骑车争执致1人死亡",
+        "onboard_time": 1774772612,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88822,
+        "num": 129218,
+        "word": "铂智7上市限时补贴权益价14.78万起",
+        "onboard_time": 1774775010,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129080,
+        "num": 129080,
+        "word": "白日提灯爆剧",
+        "onboard_time": 1774767203,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100046,
+        "num": 100046,
+        "word": "郑晓龙拍了女演员被潜规则",
+        "onboard_time": 1774766240,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98353,
+        "num": 98353,
+        "word": "英女子与双胞胎有染难辨女儿生父",
+        "onboard_time": 1774770869,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100983,
+        "num": 97123,
+        "word": "白日提灯首日云合",
+        "onboard_time": 1774774591,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95343,
+        "num": 95343,
+        "word": "很多食物都是面朝下更好吃",
+        "onboard_time": 1774774710,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89606,
+        "num": 89606,
+        "word": "逐玉 庆功宴",
+        "onboard_time": 1774751660,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85770,
+        "num": 85770,
+        "word": "浪姐7唯一双金影后",
+        "onboard_time": 1774768949,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70614,
+        "num": 83282,
+        "word": "世界杯国乒男单分组",
+        "onboard_time": 1774773629,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58352,
+        "num": 82549,
+        "word": "1米8男子遭家暴称我要离婚",
+        "onboard_time": 1774774830,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82392,
+        "num": 82392,
+        "word": "在草莓园上班的小猫",
+        "onboard_time": 1774774110,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81654,
+        "num": 81654,
+        "word": "为什么没人跑去江苏看海",
+        "onboard_time": 1774774830,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 80815,
+        "num": 80815,
+        "word": "张震岳收藏吐槽周杰伦的文章",
+        "onboard_time": 1774762102,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77115,
+        "num": 77115,
+        "word": "张奕然参加艺考",
+        "onboard_time": 1774767747,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70069,
+        "num": 76056,
+        "word": "网约车 风琴脚",
+        "onboard_time": 1774773155,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 75957,
+        "num": 75957,
+        "word": "德国版射雕预告好燃好震撼",
+        "onboard_time": 1774759881,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73557,
+        "num": 73557,
+        "word": "秦岚还记得自己是个明星吗",
+        "onboard_time": 1774773810,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68426,
+        "num": 73506,
+        "word": "让运动和吃东西都回归本质",
+        "onboard_time": 1774770869,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70983,
+        "num": 73337,
+        "word": "奔跑吧海口直播",
+        "onboard_time": 1774768226,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61167,
+        "num": 73251,
+        "word": "澳门世界杯女单签表",
+        "onboard_time": 1774772070,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记多次强调实干的重要性#"
+    }
+  }
+}
