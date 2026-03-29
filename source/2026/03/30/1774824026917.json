@@ -1,0 +1,410 @@
+{
+  "runTime": 1774824026917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 134915,
+        "num": 460492,
+        "word": "报告称我国不孕不育夫妇将逐年增加",
+        "onboard_time": 1774799487,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59460,
+        "num": 459971,
+        "word": "中国将在长江水下开高铁",
+        "onboard_time": 1774790608,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9117,
+        "num": 449491,
+        "word": "神21乘组在轨vlog又上新了",
+        "onboard_time": 1774786287,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158210,
+        "num": 434894,
+        "word": "美海军第五舰队设施遭精准打击",
+        "onboard_time": 1774800623,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120346,
+        "num": 432640,
+        "word": "伊朗反向威胁美方",
+        "onboard_time": 1774802483,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97497,
+        "num": 419542,
+        "word": "凌晨3点孩子等家长睡熟偷平板玩",
+        "onboard_time": 1774787247,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64733,
+        "num": 414430,
+        "word": "美国洛杉矶示威现场画面曝光",
+        "onboard_time": 1774795652,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61960,
+        "num": 404601,
+        "word": "逐玉",
+        "onboard_time": 1774792888,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54086,
+        "num": 397937,
+        "word": "九寨沟震后首次实拍到野生大熊猫活体",
+        "onboard_time": 1774791209,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44584,
+        "num": 388985,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1774802303,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 383279,
+        "num": 383279,
+        "word": "薛之谦",
+        "onboard_time": 1774799726,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283237,
+        "num": 283237,
+        "word": "李荣浩4连质问单依纯",
+        "onboard_time": 1774774650,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116248,
+        "num": 116248,
+        "word": "田曦薇被裙子勒成这样",
+        "onboard_time": 1774794754,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85872,
+        "num": 116174,
+        "word": "DeepSeek崩了",
+        "onboard_time": 1774792228,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77593,
+        "num": 116025,
+        "word": "美国对伊朗局势至少出现两个误判",
+        "onboard_time": 1774807037,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57676,
+        "num": 115914,
+        "word": "以色列还能撑多久",
+        "onboard_time": 1774795172,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51881,
+        "num": 115882,
+        "word": "时代峰峻否认网传聊天记录",
+        "onboard_time": 1774798168,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51837,
+        "num": 115769,
+        "word": "薛之谦因为下雨退票",
+        "onboard_time": 1774789229,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47539,
+        "num": 115559,
+        "word": "以色列一工业区因伊朗导弹袭击起火",
+        "onboard_time": 1774801883,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47466,
+        "num": 115547,
+        "word": "单依纯 舞娘",
+        "onboard_time": 1774778551,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42761,
+        "num": 115373,
+        "word": "伊朗向美以进一步摊牌",
+        "onboard_time": 1774790249,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41693,
+        "num": 115278,
+        "word": "亚洲3国与伊朗达成协议",
+        "onboard_time": 1774792169,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39412,
+        "num": 115094,
+        "word": "女生举报老师性骚扰失败状告公安机关",
+        "onboard_time": 1774794689,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37495,
+        "num": 114980,
+        "word": "儿子一家去世老人骑行30年治愈自己",
+        "onboard_time": 1774784728,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35857,
+        "num": 114895,
+        "word": "胡塞武装为何此时介入美以伊战局",
+        "onboard_time": 1774798228,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35521,
+        "num": 114837,
+        "word": "张雪机车夺冠",
+        "onboard_time": 1774797931,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32306,
+        "num": 114721,
+        "word": "迪丽热巴什么时候原谅现偶",
+        "onboard_time": 1774787008,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31551,
+        "num": 114572,
+        "word": "带状疱疹72小时内一定要做这件事",
+        "onboard_time": 1774779929,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29645,
+        "num": 114429,
+        "word": "田曦薇拍青天大老爷手势舞",
+        "onboard_time": 1774793550,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29244,
+        "num": 114374,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1774797450,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29232,
+        "num": 114197,
+        "word": "伊发动第86波攻势",
+        "onboard_time": 1774803441,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29022,
+        "num": 114079,
+        "word": "美军两栖攻击舰抵达中东",
+        "onboard_time": 1774796490,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26706,
+        "num": 113986,
+        "word": "孙颖莎瘦了",
+        "onboard_time": 1774782686,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26474,
+        "num": 113820,
+        "word": "张凌赫摄影师 撕拉片不是P的",
+        "onboard_time": 1774784668,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25499,
+        "num": 113715,
+        "word": "孙颖莎演我被老师留堂",
+        "onboard_time": 1774804519,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22959,
+        "num": 113588,
+        "word": "白日提灯",
+        "onboard_time": 1774778967,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22881,
+        "num": 113503,
+        "word": "伊朗公布击毁美军E3预警机卫星图",
+        "onboard_time": 1774784787,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21894,
+        "num": 113354,
+        "word": "檀健次美甲",
+        "onboard_time": 1774790069,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21383,
+        "num": 113263,
+        "word": "雀巢12吨巧克力被盗",
+        "onboard_time": 1774770688,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20170,
+        "num": 113172,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1774778247,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19169,
+        "num": 113013,
+        "word": "刘宇宁玫瑰骑士",
+        "onboard_time": 1774793129,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19012,
+        "num": 112949,
+        "word": "仙逆",
+        "onboard_time": 1774780469,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 19343,
+        "num": 112813,
+        "word": "檀健次超级巅峰之夜人气",
+        "onboard_time": 1774806918,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18733,
+        "num": 112669,
+        "word": "DOTA2",
+        "onboard_time": 1774802362,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17776,
+        "num": 112607,
+        "word": "狼队让三追四",
+        "onboard_time": 1774794689,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15650,
+        "num": 112499,
+        "word": "白鹿入夏ccd",
+        "onboard_time": 1774788328,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14037,
+        "num": 112314,
+        "word": "QQ音乐巅峰之夜",
+        "onboard_time": 1774814054,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13507,
+        "num": 112240,
+        "word": "狼队对战KSG",
+        "onboard_time": 1774781848,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13302,
+        "num": 112059,
+        "word": "汪苏泷巡演",
+        "onboard_time": 1774797150,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13175,
+        "num": 111944,
+        "word": "QQ音乐巅峰盛典",
+        "onboard_time": 1774818794,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络空间是亿万民众共同的精神家园#"
+    }
+  }
+}
