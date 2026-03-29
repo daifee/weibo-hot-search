@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774791304158,
+  "endTime": 1774795312106,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1069778,
+      "num": 413481,
+      "word": "薛之谦在养死士",
+      "onboard_time": 1774793430,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1006827,
       "num": 146735,
       "word": "单依纯演唱会好想谈恋爱",
@@ -179,6 +187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 590768,
+      "num": 411367,
+      "word": "田曦薇被裙子勒成这样",
+      "onboard_time": 1774794754,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579289,
       "num": 951756,
       "word": "张凌赫摄影师 撕拉片不是P的",
@@ -243,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482426,
+      "num": 352228,
+      "word": "田曦薇拍青天大老爷手势舞",
+      "onboard_time": 1774793550,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 468930,
       "num": 468930,
       "word": "汪苏泷祝福徐良",
@@ -265,6 +289,22 @@
       "onboard_time": 1774778247,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436079,
+      "num": 939932,
+      "word": "狼队对战KSG",
+      "onboard_time": 1774781848,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 419800,
+      "num": 419800,
+      "word": "DeepSeek崩了",
+      "onboard_time": 1774792228,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 414118,
@@ -363,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310579,
+      "num": 898993,
+      "word": "中国将在长江水下开高铁",
+      "onboard_time": 1774790608,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 310246,
       "num": 310246,
       "word": "阿那亚海市蜃楼",
@@ -409,6 +457,14 @@
       "onboard_time": 1774782686,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292779,
+      "num": 418424,
+      "word": "狼队让三追四",
+      "onboard_time": 1774794689,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 292229,
@@ -579,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 244029,
+      "num": 361386,
+      "word": "亚洲3国与伊朗达成协议",
+      "onboard_time": 1774792169,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 243434,
       "num": 997695,
       "word": "很多食物都是面朝下更好吃",
@@ -731,12 +795,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 200207,
-      "num": 939932,
-      "word": "狼队对战KSG",
-      "onboard_time": 1774781848,
-      "rank": 16,
-      "category": "电竞"
+      "raw_hot": 202195,
+      "num": 900510,
+      "word": "伊朗向美以进一步摊牌",
+      "onboard_time": 1774790249,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199796,
@@ -899,6 +963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174274,
+      "num": 352349,
+      "word": "狼队KSG巅峰对决",
+      "onboard_time": 1774792888,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173471,
       "num": 173471,
       "word": "原来五哈导演并非不爱请女嘉宾",
@@ -1043,6 +1115,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 142138,
+      "num": 352087,
+      "word": "檀健次比心ending",
+      "onboard_time": 1774792829,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140131,
       "num": 140131,
       "word": "全职高手致歉",
@@ -1089,6 +1169,14 @@
       "onboard_time": 1774783767,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138397,
+      "num": 351777,
+      "word": "D3665列车乘客称多人疑似晕厥",
+      "onboard_time": 1774794754,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137062,
@@ -1147,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127359,
+      "num": 351846,
+      "word": "村民办白事酒席老外误当成饭店",
+      "onboard_time": 1774791868,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126795,
       "num": 82635,
       "word": "泰国与伊朗达成协议",
@@ -1195,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120060,
+      "num": 351910,
+      "word": "张杰从云端唱到人海",
+      "onboard_time": 1774793129,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119247,
       "num": 923887,
       "word": "狼队 小胖",
@@ -1241,6 +1345,14 @@
       "onboard_time": 1774707143,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115284,
+      "num": 351819,
+      "word": "袁泉 影后演技",
+      "onboard_time": 1774791508,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 115238,
@@ -1305,6 +1417,14 @@
       "onboard_time": 1774783348,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 110638,
+      "num": 351702,
+      "word": "1.99元就能买1斤猪肉",
+      "onboard_time": 1774792293,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110205,
@@ -1419,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105507,
+      "num": 351617,
+      "word": "逐玉",
+      "onboard_time": 1774792888,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105299,
       "num": 129596,
       "word": "两少年骑车争执致1人死亡",
@@ -1433,6 +1561,14 @@
       "onboard_time": 1774761621,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103277,
+      "num": 351569,
+      "word": "以色列还能撑多久",
+      "onboard_time": 1774795172,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103147,
@@ -1499,6 +1635,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 100432,
+      "num": 890968,
+      "word": "九寨沟震后首次实拍到野生大熊猫活体",
+      "onboard_time": 1774791209,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100307,
       "num": 141482,
       "word": "F1",
@@ -1547,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96388,
+      "num": 905550,
+      "word": "桃黑黑再次预言热巴新剧",
+      "onboard_time": 1774790971,
+      "rank": 39,
+      "category": "剧集,游戏"
+    },
+    {
       "raw_hot": 95678,
       "num": 95678,
       "word": "张凌赫大一曾分享暗恋细节",
@@ -1579,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94058,
+      "num": 351201,
+      "word": "伊朗称击毁美军7亿美元预警机",
+      "onboard_time": 1774793851,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93964,
       "num": 93964,
       "word": "强闯中使馆人员部队驻地被搜查",
@@ -1593,14 +1753,6 @@
       "onboard_time": 1774712543,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93642,
-      "num": 905550,
-      "word": "桃黑黑再次预言热巴新剧",
-      "onboard_time": 1774790971,
-      "rank": 39,
-      "category": "剧集,游戏"
     },
     {
       "raw_hot": 93025,
@@ -1675,14 +1827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90085,
-      "num": 900510,
-      "word": "伊朗向美以进一步摊牌",
-      "onboard_time": 1774790249,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 90064,
       "num": 125886,
       "word": "为什么没人跑去江苏看海",
@@ -1721,14 +1865,6 @@
       "onboard_time": 1774775010,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 88789,
-      "num": 898993,
-      "word": "中国将在长江水下开高铁",
-      "onboard_time": 1774790608,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 88304,
@@ -1779,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84661,
+      "num": 351069,
+      "word": "刘宇宁玫瑰骑士",
+      "onboard_time": 1774793129,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 84660,
       "num": 84660,
       "word": "樊振东3比0战胜对方主教练",
@@ -1793,6 +1937,14 @@
       "onboard_time": 1774767203,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84090,
+      "num": 566882,
+      "word": "狼队状态",
+      "onboard_time": 1774787968,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 83740,
@@ -1875,6 +2027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82282,
+      "num": 350944,
+      "word": "LGD天周决赛MVP",
+      "onboard_time": 1774795172,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82234,
       "num": 82234,
       "word": "人类首次成功运输反物质",
@@ -1897,6 +2057,14 @@
       "onboard_time": 1774752861,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 81622,
+      "num": 350902,
+      "word": "Gumayusi学习Bin语从句",
+      "onboard_time": 1774795233,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 81334,
@@ -2067,14 +2235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75134,
-      "num": 566882,
-      "word": "狼队状态",
-      "onboard_time": 1774787968,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 74791,
       "num": 74791,
       "word": "被雷军回复网友已购入小米新SU7",
@@ -2137,14 +2297,6 @@
       "onboard_time": 1774773810,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 73540,
-      "num": 890968,
-      "word": "九寨沟震后首次实拍到野生大熊猫活体",
-      "onboard_time": 1774791209,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73389,
@@ -2609,6 +2761,14 @@
       "onboard_time": 1774715479,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 46404,
+      "num": 352274,
+      "word": "女生举报老师性骚扰失败状告公安机关",
+      "onboard_time": 1774794689,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45476,

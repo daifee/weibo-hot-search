@@ -1,0 +1,410 @@
+{
+  "runTime": 1774795312106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 315451,
+        "num": 1050472,
+        "word": "雀巢12吨巧克力被盗",
+        "onboard_time": 1774770688,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 310579,
+        "num": 736717,
+        "word": "中国将在长江水下开高铁",
+        "onboard_time": 1774790608,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22589,
+        "num": 581890,
+        "word": "数据感知中国经济活力满满",
+        "onboard_time": 1774786528,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1962188,
+        "num": 553347,
+        "word": "薛之谦因为下雨退票",
+        "onboard_time": 1774789229,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 419800,
+        "num": 419800,
+        "word": "DeepSeek崩了",
+        "onboard_time": 1774792228,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 302147,
+        "num": 419083,
+        "word": "凌晨3点孩子等家长睡熟偷平板玩",
+        "onboard_time": 1774787247,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292779,
+        "num": 418424,
+        "word": "狼队让三追四",
+        "onboard_time": 1774794689,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230673,
+        "num": 417681,
+        "word": "檀健次美甲",
+        "onboard_time": 1774790069,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204908,
+        "num": 416187,
+        "word": "儿子一家去世老人骑行30年治愈自己",
+        "onboard_time": 1774784728,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202195,
+        "num": 415935,
+        "word": "伊朗向美以进一步摊牌",
+        "onboard_time": 1774790249,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5727807,
+        "num": 5727807,
+        "word": "李荣浩4连质问单依纯",
+        "onboard_time": 1774774650,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1069778,
+        "num": 413481,
+        "word": "薛之谦在养死士",
+        "onboard_time": 1774793430,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436079,
+        "num": 412862,
+        "word": "狼队对战KSG",
+        "onboard_time": 1774781848,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 590768,
+        "num": 411367,
+        "word": "田曦薇被裙子勒成这样",
+        "onboard_time": 1774794754,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411238,
+        "num": 411238,
+        "word": "张凌赫摄影师 撕拉片不是P的",
+        "onboard_time": 1774784668,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244029,
+        "num": 361386,
+        "word": "亚洲3国与伊朗达成协议",
+        "onboard_time": 1774792169,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1077523,
+        "num": 357454,
+        "word": "单依纯 舞娘",
+        "onboard_time": 1774778551,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352358,
+        "num": 352358,
+        "word": "严浩翔分享歌曲",
+        "onboard_time": 1774774710,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174274,
+        "num": 352349,
+        "word": "狼队KSG巅峰对决",
+        "onboard_time": 1774792888,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46404,
+        "num": 352274,
+        "word": "女生举报老师性骚扰失败状告公安机关",
+        "onboard_time": 1774794689,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482426,
+        "num": 352228,
+        "word": "田曦薇拍青天大老爷手势舞",
+        "onboard_time": 1774793550,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226722,
+        "num": 352205,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1774778247,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148730,
+        "num": 352164,
+        "word": "儿子蛇缠腰父亲涂抹符水圈住疱疹",
+        "onboard_time": 1774771050,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142138,
+        "num": 352087,
+        "word": "檀健次比心ending",
+        "onboard_time": 1774792829,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148439,
+        "num": 352031,
+        "word": "带状疱疹72小时内一定要做这件事",
+        "onboard_time": 1774779929,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142743,
+        "num": 351999,
+        "word": "蔡磊感觉最对不起的就是妻子",
+        "onboard_time": 1774788806,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149975,
+        "num": 351955,
+        "word": "迪丽热巴什么时候原谅现偶",
+        "onboard_time": 1774787008,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120060,
+        "num": 351910,
+        "word": "张杰从云端唱到人海",
+        "onboard_time": 1774793129,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127359,
+        "num": 351846,
+        "word": "村民办白事酒席老外误当成饭店",
+        "onboard_time": 1774791868,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115284,
+        "num": 351819,
+        "word": "袁泉 影后演技",
+        "onboard_time": 1774791508,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138397,
+        "num": 351777,
+        "word": "D3665列车乘客称多人疑似晕厥",
+        "onboard_time": 1774794754,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114402,
+        "num": 351712,
+        "word": "氯雷他定",
+        "onboard_time": 1774758740,
+        "rank": 31,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 110638,
+        "num": 351702,
+        "word": "1.99元就能买1斤猪肉",
+        "onboard_time": 1774792293,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105507,
+        "num": 351617,
+        "word": "逐玉",
+        "onboard_time": 1774792888,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103277,
+        "num": 351569,
+        "word": "以色列还能撑多久",
+        "onboard_time": 1774795172,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102165,
+        "num": 351534,
+        "word": "孙颖莎瘦了",
+        "onboard_time": 1774782686,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100432,
+        "num": 351512,
+        "word": "九寨沟震后首次实拍到野生大熊猫活体",
+        "onboard_time": 1774791209,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99761,
+        "num": 351443,
+        "word": "白日提灯",
+        "onboard_time": 1774778967,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98480,
+        "num": 351417,
+        "word": "很多食物都是面朝下更好吃",
+        "onboard_time": 1774774710,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97742,
+        "num": 351364,
+        "word": "北京偶遇宋亚轩贺峻霖",
+        "onboard_time": 1774785866,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96388,
+        "num": 351324,
+        "word": "桃黑黑再次预言热巴新剧",
+        "onboard_time": 1774790971,
+        "rank": 40,
+        "category": "剧集,游戏"
+      },
+      {
+        "raw_hot": 95703,
+        "num": 351256,
+        "word": "Breathe加入iG",
+        "onboard_time": 1774789827,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94058,
+        "num": 351201,
+        "word": "伊朗称击毁美军7亿美元预警机",
+        "onboard_time": 1774793851,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90621,
+        "num": 351173,
+        "word": "仙逆",
+        "onboard_time": 1774780469,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 88572,
+        "num": 351100,
+        "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
+        "onboard_time": 1774776388,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84661,
+        "num": 351069,
+        "word": "刘宇宁玫瑰骑士",
+        "onboard_time": 1774793129,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84090,
+        "num": 351008,
+        "word": "狼队状态",
+        "onboard_time": 1774787968,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83433,
+        "num": 351000,
+        "word": "伊朗公布击毁美军E3预警机卫星图",
+        "onboard_time": 1774784787,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82282,
+        "num": 350944,
+        "word": "LGD天周决赛MVP",
+        "onboard_time": 1774795172,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81622,
+        "num": 350902,
+        "word": "Gumayusi学习Bin语从句",
+        "onboard_time": 1774795233,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络空间是亿万民众共同的精神家园#"
+    }
+  }
+}
