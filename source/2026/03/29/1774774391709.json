@@ -1,0 +1,410 @@
+{
+  "runTime": 1774774391709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 18730834,
+        "num": 18730834,
+        "word": "李荣浩 单依纯强行侵权",
+        "onboard_time": 1774767022,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 583606,
+        "num": 2217539,
+        "word": "氯雷他定",
+        "onboard_time": 1774758740,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 4751,
+        "num": 1709904,
+        "word": "2026中国网络媒体论坛",
+        "onboard_time": 1774536983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12546796,
+        "num": 12546796,
+        "word": "单依纯道歉",
+        "onboard_time": 1774772554,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266091,
+        "num": 1709731,
+        "word": "胡塞伊朗黎巴嫩同步袭击以色列",
+        "onboard_time": 1774768949,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 9171745,
+        "num": 9171745,
+        "word": "如何呢 又能怎",
+        "onboard_time": 1774768469,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225719,
+        "num": 1709547,
+        "word": "广州冰雹",
+        "onboard_time": 1774770631,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188801,
+        "num": 1709455,
+        "word": "雀巢12吨巧克力被盗",
+        "onboard_time": 1774770688,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184564,
+        "num": 1709270,
+        "word": "奈雪的茶没人喝了",
+        "onboard_time": 1774763301,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77332,
+        "num": 1709149,
+        "word": "享界汽车回应网传S9麋鹿测试视频",
+        "onboard_time": 1774771830,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2401533,
+        "num": 1709022,
+        "word": "李荣浩原来真不ok",
+        "onboard_time": 1774771529,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1709020,
+        "num": 1709020,
+        "word": "单依纯曾因没拿下版权哭了一小时",
+        "onboard_time": 1774774350,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127385,
+        "num": 290578,
+        "word": "阿那亚海市蜃楼",
+        "onboard_time": 1774764080,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218894,
+        "num": 218894,
+        "word": "张凌赫谈负面评价",
+        "onboard_time": 1774770749,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183460,
+        "num": 183460,
+        "word": "肖战单手飞身上马",
+        "onboard_time": 1774768708,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117021,
+        "num": 170108,
+        "word": "日本抗议者高喊中国对不起",
+        "onboard_time": 1774759701,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163068,
+        "num": 163068,
+        "word": "原来五哈导演并非不爱请女嘉宾",
+        "onboard_time": 1774770149,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115238,
+        "num": 162817,
+        "word": "每天化妆状态",
+        "onboard_time": 1774769367,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 72882,
+        "num": 156839,
+        "word": "世界杯国乒男单分组",
+        "onboard_time": 1774773629,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93963,
+        "num": 153043,
+        "word": "一二线城市兴起周末情侣",
+        "onboard_time": 1774773629,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 546889,
+        "num": 147438,
+        "word": "儿子蛇缠腰父亲涂抹符水圈住疱疹",
+        "onboard_time": 1774771050,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243506,
+        "num": 143186,
+        "word": "陈牧驰晒还钱截图",
+        "onboard_time": 1774767322,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140465,
+        "num": 140465,
+        "word": "浪姐7唯一双金影后",
+        "onboard_time": 1774768949,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144110,
+        "num": 139843,
+        "word": "头发像奶油一样化开了",
+        "onboard_time": 1774771229,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136728,
+        "num": 136728,
+        "word": "白日提灯爆剧",
+        "onboard_time": 1774767203,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130978,
+        "num": 130978,
+        "word": "奶茶店点一杯不够起送",
+        "onboard_time": 1774770149,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176151,
+        "num": 121668,
+        "word": "陈牧驰回应与吴楚一相关争议",
+        "onboard_time": 1774765521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107901,
+        "num": 107901,
+        "word": "氯雷他定建议白天使用",
+        "onboard_time": 1774772973,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122222,
+        "num": 107070,
+        "word": "郑晓龙拍了女演员被潜规则",
+        "onboard_time": 1774766240,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105299,
+        "num": 105299,
+        "word": "两少年骑车争执致1人死亡",
+        "onboard_time": 1774772612,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110205,
+        "num": 105094,
+        "word": "英女子与双胞胎有染难辨女儿生父",
+        "onboard_time": 1774770869,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104180,
+        "num": 104180,
+        "word": "逐玉 庆功宴",
+        "onboard_time": 1774751660,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103868,
+        "num": 103868,
+        "word": "郝蕾说的是谁好难猜啊",
+        "onboard_time": 1774774232,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102706,
+        "num": 102706,
+        "word": "让运动和吃东西都回归本质",
+        "onboard_time": 1774770869,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87686,
+        "num": 87686,
+        "word": "德国版射雕预告好燃好震撼",
+        "onboard_time": 1774759881,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85689,
+        "num": 85689,
+        "word": "张震岳收藏吐槽周杰伦的文章",
+        "onboard_time": 1774762102,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81866,
+        "num": 81866,
+        "word": "在草莓园上班的小猫",
+        "onboard_time": 1774774110,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84545,
+        "num": 81642,
+        "word": "张奕然参加艺考",
+        "onboard_time": 1774767747,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79811,
+        "num": 79811,
+        "word": "谢娜在张杰演唱会亲了秦岚杜华",
+        "onboard_time": 1774767082,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78931,
+        "num": 78931,
+        "word": "加密货币突然集体拉升",
+        "onboard_time": 1774771950,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77876,
+        "num": 77876,
+        "word": "氯雷他定和西替利嗪的区别",
+        "onboard_time": 1774766721,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76372,
+        "num": 76372,
+        "word": "奔跑吧海口直播",
+        "onboard_time": 1774768226,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74436,
+        "num": 74436,
+        "word": "长期不吃主食身体的8个变化",
+        "onboard_time": 1774754779,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73788,
+        "num": 73788,
+        "word": "QQ音乐 虞书欣",
+        "onboard_time": 1774761562,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73660,
+        "num": 73660,
+        "word": "父母回应儿子用吸粪车做婚车",
+        "onboard_time": 1774772070,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73237,
+        "num": 73237,
+        "word": "才发现王一博上的全英课",
+        "onboard_time": 1774760541,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72796,
+        "num": 72796,
+        "word": "央视曝光入室抢婴案细节",
+        "onboard_time": 1774770508,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71087,
+        "num": 71087,
+        "word": "澳门世界杯国乒抽签结果来了",
+        "onboard_time": 1774771771,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70956,
+        "num": 70956,
+        "word": "周深巅峰之夜彩排",
+        "onboard_time": 1774773810,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68823,
+        "num": 68823,
+        "word": "奔跑吧",
+        "onboard_time": 1774764321,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语雄安高质量发展#"
+    }
+  }
+}

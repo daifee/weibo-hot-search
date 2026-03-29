@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774769691498,
+  "endTime": 1774774391709,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -11,8 +11,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 5780052,
-      "num": 5780052,
+      "raw_hot": 12546796,
+      "num": 12546796,
+      "word": "单依纯道歉",
+      "onboard_time": 1774772554,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 9171745,
+      "num": 9171745,
       "word": "如何呢 又能怎",
       "onboard_time": 1774768469,
       "rank": 45,
@@ -27,12 +35,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2401533,
+      "num": 1709022,
+      "word": "李荣浩原来真不ok",
+      "onboard_time": 1774771529,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1789667,
       "num": 1789667,
       "word": "消毒",
       "onboard_time": 1774716919,
       "rank": 0,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1709020,
+      "num": 1709020,
+      "word": "单依纯曾因没拿下版权哭了一小时",
+      "onboard_time": 1774774350,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1229044,
@@ -113,6 +137,14 @@
       "onboard_time": 1774711463,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546889,
+      "num": 147438,
+      "word": "儿子蛇缠腰父亲涂抹符水圈住疱疹",
+      "onboard_time": 1774771050,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 539610,
@@ -339,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 266091,
+      "num": 1709731,
+      "word": "胡塞伊朗黎巴嫩同步袭击以色列",
+      "onboard_time": 1774768949,
+      "rank": 18,
+      "category": "军事"
+    },
+    {
       "raw_hot": 265159,
       "num": 728164,
       "word": "观众反感的从来不是帅将军",
@@ -419,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225719,
+      "num": 1709547,
+      "word": "广州冰雹",
+      "onboard_time": 1774770631,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222229,
       "num": 188127,
       "word": "迪丽热巴有高度近视",
@@ -441,6 +489,14 @@
       "onboard_time": 1774709003,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218894,
+      "num": 218894,
+      "word": "张凌赫谈负面评价",
+      "onboard_time": 1774770749,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 213733,
@@ -539,12 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188801,
+      "num": 1709455,
+      "word": "雀巢12吨巧克力被盗",
+      "onboard_time": 1774770688,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 185332,
       "num": 200753,
       "word": "太原火灾已致3死23伤",
       "onboard_time": 1774741878,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183460,
+      "num": 183460,
+      "word": "肖战单手飞身上马",
+      "onboard_time": 1774768708,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 180705,
@@ -603,6 +675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163068,
+      "num": 163068,
+      "word": "原来五哈导演并非不爱请女嘉宾",
+      "onboard_time": 1774770149,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160982,
       "num": 160982,
       "word": "原来老辈子的不是不理解二次元",
@@ -649,6 +729,14 @@
       "onboard_time": 1774754779,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144110,
+      "num": 139843,
+      "word": "头发像奶油一样化开了",
+      "onboard_time": 1774771229,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 142459,
@@ -707,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130978,
+      "num": 130978,
+      "word": "奶茶店点一杯不够起送",
+      "onboard_time": 1774770149,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 130235,
       "num": 110174,
       "word": "关于香港的冷知识",
@@ -729,14 +825,6 @@
       "onboard_time": 1774707683,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127090,
-      "num": 127090,
-      "word": "肖战单手飞身上马",
-      "onboard_time": 1774768708,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 126795,
@@ -779,12 +867,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114368,
-      "num": 146692,
-      "word": "胡塞伊朗黎巴嫩同步袭击以色列",
-      "onboard_time": 1774768949,
-      "rank": 18,
-      "category": "军事"
+      "raw_hot": 115238,
+      "num": 180866,
+      "word": "每天化妆状态",
+      "onboard_time": 1774769367,
+      "rank": 9,
+      "category": "美妆"
     },
     {
       "raw_hot": 113891,
@@ -835,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110205,
+      "num": 105094,
+      "word": "英女子与双胞胎有染难辨女儿生父",
+      "onboard_time": 1774770869,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109352,
       "num": 105814,
       "word": "俄罗斯警告韩国",
@@ -859,20 +955,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108267,
-      "num": 180866,
-      "word": "每天化妆状态",
-      "onboard_time": 1774769367,
-      "rank": 9,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 107994,
       "num": 100915,
       "word": "阿那亚出现海市蜃楼",
       "onboard_time": 1774762042,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 107901,
+      "num": 107901,
+      "word": "氯雷他定建议白天使用",
+      "onboard_time": 1774772973,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106938,
@@ -907,12 +1003,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105299,
+      "num": 105299,
+      "word": "两少年骑车争执致1人死亡",
+      "onboard_time": 1774772612,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104840,
       "num": 104840,
       "word": "许嵩第九张专辑 盛夏见",
       "onboard_time": 1774761621,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103868,
+      "num": 103868,
+      "word": "郝蕾说的是谁好难猜啊",
+      "onboard_time": 1774774232,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 103147,
@@ -929,6 +1041,14 @@
       "onboard_time": 1774744761,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102706,
+      "num": 102706,
+      "word": "让运动和吃东西都回归本质",
+      "onboard_time": 1774770869,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 100910,
@@ -1017,6 +1137,14 @@
       "onboard_time": 1774749319,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93963,
+      "num": 153043,
+      "word": "一二线城市兴起周末情侣",
+      "onboard_time": 1774773629,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 93765,
@@ -1187,6 +1315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81866,
+      "num": 81866,
+      "word": "在草莓园上班的小猫",
+      "onboard_time": 1774774110,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81790,
       "num": 81790,
       "word": "合肥00后研发的机器人能夹豆腐",
@@ -1235,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78931,
+      "num": 78931,
+      "word": "加密货币突然集体拉升",
+      "onboard_time": 1774771950,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 78438,
       "num": 80769,
       "word": "吴镇宇说郭晓婷脸上有故事了",
@@ -1265,6 +1409,14 @@
       "onboard_time": 1774754421,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77332,
+      "num": 1709149,
+      "word": "享界汽车回应网传S9麋鹿测试视频",
+      "onboard_time": 1774771830,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 77039,
@@ -1347,6 +1499,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73660,
+      "num": 73660,
+      "word": "父母回应儿子用吸粪车做婚车",
+      "onboard_time": 1774772070,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72882,
+      "num": 156839,
+      "word": "世界杯国乒男单分组",
+      "onboard_time": 1774773629,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72796,
+      "num": 72796,
+      "word": "央视曝光入室抢婴案细节",
+      "onboard_time": 1774770508,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72555,
       "num": 72555,
       "word": "00后编90后审80后给70后解释",
@@ -1377,6 +1553,22 @@
       "onboard_time": 1774762882,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71087,
+      "num": 71087,
+      "word": "澳门世界杯国乒抽签结果来了",
+      "onboard_time": 1774771771,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70956,
+      "num": 70956,
+      "word": "周深巅峰之夜彩排",
+      "onboard_time": 1774773810,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 70134,
@@ -1868,7 +2060,7 @@
     },
     {
       "raw_hot": 5324,
-      "num": 586127,
+      "num": 1709904,
       "word": "2026中国网络媒体论坛",
       "onboard_time": 1774536983,
       "rank": 2,
