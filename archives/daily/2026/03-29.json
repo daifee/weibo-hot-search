@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774753151668,
+  "endTime": 1774755928687,
   "band_list": [
     {
       "raw_hot": 1789667,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 913436,
-      "num": 151286,
+      "num": 243431,
       "word": "逐玉 庆功宴",
       "onboard_time": 1774751660,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 809557,
-      "num": 116363,
+      "num": 156061,
       "word": "曝女顶流被公司索赔3亿解约费",
       "onboard_time": 1774750040,
       "rank": 20,
@@ -33,6 +33,14 @@
       "onboard_time": 1774741758,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 781627,
+      "num": 1125060,
+      "word": "美国全国爆发反对特朗普政府集会",
+      "onboard_time": 1774754300,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 660894,
@@ -75,6 +83,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 448157,
+      "num": 448157,
+      "word": "太原火灾最先起火视频曝光",
+      "onboard_time": 1774751540,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 414118,
       "num": 193757,
       "word": "徐良演唱会时薪4000",
@@ -107,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361285,
+      "num": 235173,
+      "word": "长期不吃主食身体的8个变化",
+      "onboard_time": 1774754779,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 347397,
       "num": 196521,
       "word": "油价又飙升了",
@@ -123,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306945,
+      "num": 306945,
+      "word": "当你吃了一整天健康食物",
+      "onboard_time": 1774751721,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291335,
       "num": 291335,
       "word": "伊朗连遭重创绝地反击",
@@ -132,19 +164,11 @@
     },
     {
       "raw_hot": 277845,
-      "num": 146027,
+      "num": 231287,
       "word": "何老师维嘉好六哭了",
       "onboard_time": 1774743200,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277173,
-      "num": 277173,
-      "word": "太原火灾最先起火视频曝光",
-      "onboard_time": 1774751540,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 270893,
@@ -155,12 +179,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269791,
+      "num": 502803,
+      "word": "深夜遇哭泣女子带其回家遭仙人跳",
+      "onboard_time": 1774750219,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265159,
       "num": 728164,
       "word": "观众反感的从来不是帅将军",
       "onboard_time": 1774741939,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250445,
+      "num": 250445,
+      "word": "万斯获美共和党保守派阵营过半支持",
+      "onboard_time": 1774752321,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 249957,
+      "num": 249957,
+      "word": "杨紫说自己来乘风是拆台的",
+      "onboard_time": 1774754001,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 241740,
@@ -172,7 +220,7 @@
     },
     {
       "raw_hot": 237376,
-      "num": 146449,
+      "num": 202023,
       "word": "男孩玩灭火毯全身扎满超细玻璃纤维",
       "onboard_time": 1774750400,
       "rank": 12,
@@ -185,14 +233,6 @@
       "onboard_time": 1774710682,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220689,
-      "num": 220689,
-      "word": "深夜遇哭泣女子带其回家遭仙人跳",
-      "onboard_time": 1774750219,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 220115,
@@ -243,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195076,
+      "num": 247976,
+      "word": "张凌赫素颜顺毛路透",
+      "onboard_time": 1774753761,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192179,
       "num": 192179,
       "word": "太原火灾或因酒店外立面起火引发",
@@ -275,16 +323,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 166818,
-      "num": 166818,
-      "word": "当你吃了一整天健康食物",
-      "onboard_time": 1774751721,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 166466,
+      "num": 166466,
+      "word": "感觉型人格",
+      "onboard_time": 1774752321,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 165843,
-      "num": 143704,
+      "num": 154565,
       "word": "王俊凯回应拿错奖杯了",
       "onboard_time": 1774742539,
       "rank": 14,
@@ -313,6 +361,14 @@
       "onboard_time": 1774742060,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 151379,
+      "num": 801534,
+      "word": "官方通报申请国家赔偿被中止办理",
+      "onboard_time": 1774743860,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 142459,
@@ -355,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129755,
-      "num": 129755,
-      "word": "官方通报申请国家赔偿被中止办理",
-      "onboard_time": 1774743860,
-      "rank": 18,
-      "category": "辟谣/通报"
+      "raw_hot": 129632,
+      "num": 129632,
+      "word": "男子一想抽烟就买彩票中了701万",
+      "onboard_time": 1774752200,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129088,
@@ -379,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118008,
+      "num": 246543,
+      "word": "全红婵称床上摆满了乌龟玩偶",
+      "onboard_time": 1774754779,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116465,
       "num": 116465,
       "word": "低精力人群的周末安排belike",
@@ -387,12 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115748,
-      "num": 93912,
-      "word": "万斯获美共和党保守派阵营过半支持",
-      "onboard_time": 1774752321,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 113891,
+      "num": 113891,
+      "word": "猫的偷窥欲",
+      "onboard_time": 1774752800,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 113639,
@@ -400,14 +464,6 @@
       "word": "女顾客打印后要求归类被拒当场崩溃",
       "onboard_time": 1774706302,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112982,
-      "num": 112982,
-      "word": "男子一想抽烟就买彩票中了701万",
-      "onboard_time": 1774752200,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -419,12 +475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112300,
+      "num": 116912,
+      "word": "用吸粪车迎亲小伙称能月入五六万",
+      "onboard_time": 1774752561,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108837,
       "num": 108837,
       "word": "欧洲发生巧克力棒大劫案",
       "onboard_time": 1774749079,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 106733,
+      "num": 106733,
+      "word": "李卿说张凌赫沉浸在谢征的角色里",
+      "onboard_time": 1774752861,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 106660,
@@ -435,11 +507,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106299,
+      "num": 106299,
+      "word": "张慧雯被接机缺氧",
+      "onboard_time": 1774753340,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102806,
       "num": 102806,
       "word": "长玉路呢路呢 谢征嘴呢嘴呢",
       "onboard_time": 1774744761,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100672,
+      "num": 100672,
+      "word": "白日提灯首日百指13万",
+      "onboard_time": 1774755321,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -449,6 +537,14 @@
       "onboard_time": 1774748242,
       "rank": 27,
       "category": "军事"
+    },
+    {
+      "raw_hot": 96380,
+      "num": 96380,
+      "word": "愚公生的是你俩山早移走了",
+      "onboard_time": 1774754360,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 95678,
@@ -508,11 +604,19 @@
     },
     {
       "raw_hot": 87427,
-      "num": 82447,
+      "num": 85793,
       "word": "鞠婧祎浴室歌手来舞台了",
       "onboard_time": 1774744819,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84660,
+      "num": 84660,
+      "word": "樊振东3比0战胜对方主教练",
+      "onboard_time": 1774754840,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 83740,
@@ -547,6 +651,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 82234,
+      "num": 82234,
+      "word": "人类首次成功运输反物质",
+      "onboard_time": 1774754779,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81977,
       "num": 95034,
       "word": "AG战胜JDG",
@@ -571,14 +683,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 78650,
-      "num": 116912,
-      "word": "用吸粪车迎亲小伙称能月入五六万",
-      "onboard_time": 1774752561,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78438,
       "num": 80769,
       "word": "吴镇宇说郭晓婷脸上有故事了",
@@ -587,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76803,
-      "num": 76803,
-      "word": "李卿说张凌赫沉浸在谢征的角色里",
-      "onboard_time": 1774752861,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 77793,
+      "num": 77793,
+      "word": "为什么爸妈从不挑食",
+      "onboard_time": 1774754421,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 76574,
@@ -619,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74791,
+      "num": 74791,
+      "word": "被雷军回复网友已购入小米新SU7",
+      "onboard_time": 1774755380,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 74660,
       "num": 74660,
       "word": "刘宇宁丁程鑫默契",
@@ -635,20 +747,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74258,
+      "num": 74258,
+      "word": "熬夜致瘫大学生家属发声",
+      "onboard_time": 1774754779,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74034,
       "num": 71785,
       "word": "李卿眼中的田曦薇张凌赫",
       "onboard_time": 1774748423,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72737,
-      "num": 72737,
-      "word": "感觉型人格",
-      "onboard_time": 1774752321,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 72555,
@@ -723,14 +835,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 66184,
-      "num": 66184,
-      "word": "猫的偷窥欲",
-      "onboard_time": 1774752800,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 65514,
       "num": 65514,
       "word": "江苏一学校操场变烤场",
@@ -755,12 +859,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63782,
+      "num": 63782,
+      "word": "猴哥转世到峨眉山了",
+      "onboard_time": 1774753161,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63414,
       "num": 81376,
       "word": "陈哲远锁凶正确率百分百",
       "onboard_time": 1774713682,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62441,
+      "num": 62441,
+      "word": "林允王彦霖撤回一个床戏",
+      "onboard_time": 1774754840,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 61757,
@@ -955,20 +1075,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36837,
+      "num": 658446,
+      "word": "大国重器密集上新惊喜不断",
+      "onboard_time": 1774750219,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33401,
       "num": 80348,
       "word": "金价又涨了",
       "onboard_time": 1774720336,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 32994,
-      "num": 649577,
-      "word": "大国重器密集上新惊喜不断",
-      "onboard_time": 1774750219,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31354,
@@ -1001,6 +1121,22 @@
       "onboard_time": 1774740318,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24341,
+      "num": 87703,
+      "word": "美国1000人包围政府机构大楼",
+      "onboard_time": 1774755862,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23238,
+      "num": 82933,
+      "word": "送别李昌钰送别口供为王的时代",
+      "onboard_time": 1774755380,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22158,

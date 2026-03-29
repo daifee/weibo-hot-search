@@ -1,0 +1,410 @@
+{
+  "runTime": 1774755928687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 781627,
+        "num": 1125060,
+        "word": "美国全国爆发反对特朗普政府集会",
+        "onboard_time": 1774754300,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151379,
+        "num": 801534,
+        "word": "官方通报申请国家赔偿被中止办理",
+        "onboard_time": 1774743860,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 36837,
+        "num": 658446,
+        "word": "大国重器密集上新惊喜不断",
+        "onboard_time": 1774750219,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269791,
+        "num": 502803,
+        "word": "深夜遇哭泣女子带其回家遭仙人跳",
+        "onboard_time": 1774750219,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448157,
+        "num": 448157,
+        "word": "太原火灾最先起火视频曝光",
+        "onboard_time": 1774751540,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306945,
+        "num": 306945,
+        "word": "当你吃了一整天健康食物",
+        "onboard_time": 1774751721,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250445,
+        "num": 250445,
+        "word": "万斯获美共和党保守派阵营过半支持",
+        "onboard_time": 1774752321,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249957,
+        "num": 249957,
+        "word": "杨紫说自己来乘风是拆台的",
+        "onboard_time": 1774754001,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195076,
+        "num": 247976,
+        "word": "张凌赫素颜顺毛路透",
+        "onboard_time": 1774753761,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118008,
+        "num": 246543,
+        "word": "全红婵称床上摆满了乌龟玩偶",
+        "onboard_time": 1774754779,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 911354,
+        "num": 243431,
+        "word": "逐玉 庆功宴",
+        "onboard_time": 1774751660,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485444,
+        "num": 240969,
+        "word": "19岁大学生熬夜后脑出血致瘫",
+        "onboard_time": 1774750280,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390008,
+        "num": 238581,
+        "word": "汪苏泷祝福徐良",
+        "onboard_time": 1774749739,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 361285,
+        "num": 235173,
+        "word": "长期不吃主食身体的8个变化",
+        "onboard_time": 1774754779,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288543,
+        "num": 231324,
+        "word": "女子半年没回家卧室开窗变邻居阳台",
+        "onboard_time": 1774741758,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231287,
+        "num": 231287,
+        "word": "何老师维嘉好六哭了",
+        "onboard_time": 1774743200,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202023,
+        "num": 202023,
+        "word": "男孩玩灭火毯全身扎满超细玻璃纤维",
+        "onboard_time": 1774750400,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167330,
+        "num": 167330,
+        "word": "删除汪苏泷名字让徐良又生气又煎熬",
+        "onboard_time": 1774741098,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166466,
+        "num": 166466,
+        "word": "感觉型人格",
+        "onboard_time": 1774752321,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115875,
+        "num": 160121,
+        "word": "太原火灾已致3死23伤",
+        "onboard_time": 1774741878,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91016,
+        "num": 156306,
+        "word": "原来老辈子的不是不理解二次元",
+        "onboard_time": 1774746321,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 629704,
+        "num": 156061,
+        "word": "曝女顶流被公司索赔3亿解约费",
+        "onboard_time": 1774750040,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154565,
+        "num": 154565,
+        "word": "王俊凯回应拿错奖杯了",
+        "onboard_time": 1774742539,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129632,
+        "num": 129632,
+        "word": "男子一想抽烟就买彩票中了701万",
+        "onboard_time": 1774752200,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113891,
+        "num": 113891,
+        "word": "猫的偷窥欲",
+        "onboard_time": 1774752800,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112300,
+        "num": 112300,
+        "word": "用吸粪车迎亲小伙称能月入五六万",
+        "onboard_time": 1774752561,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106733,
+        "num": 106733,
+        "word": "李卿说张凌赫沉浸在谢征的角色里",
+        "onboard_time": 1774752861,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106299,
+        "num": 106299,
+        "word": "张慧雯被接机缺氧",
+        "onboard_time": 1774753340,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105675,
+        "num": 105675,
+        "word": "油价又飙升了",
+        "onboard_time": 1774739117,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96890,
+        "num": 101991,
+        "word": "婴儿险窒息爸爸玩手机近1分钟未发觉",
+        "onboard_time": 1774742479,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100672,
+        "num": 100672,
+        "word": "白日提灯首日百指13万",
+        "onboard_time": 1774755321,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97532,
+        "num": 97532,
+        "word": "严浩翔上线",
+        "onboard_time": 1774739657,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97036,
+        "num": 97036,
+        "word": "伊朗警告袭击地区内美以大学",
+        "onboard_time": 1774742060,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96380,
+        "num": 96380,
+        "word": "愚公生的是你俩山早移走了",
+        "onboard_time": 1774754360,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94460,
+        "num": 94460,
+        "word": "王俊凯蹦迪版心引力",
+        "onboard_time": 1774709903,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90146,
+        "num": 90146,
+        "word": "1米85的小学生开口要一套宝可梦卡",
+        "onboard_time": 1774744040,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24341,
+        "num": 87703,
+        "word": "美国1000人包围政府机构大楼",
+        "onboard_time": 1774755862,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85793,
+        "num": 85793,
+        "word": "鞠婧祎浴室歌手来舞台了",
+        "onboard_time": 1774744819,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84660,
+        "num": 84660,
+        "word": "樊振东3比0战胜对方主教练",
+        "onboard_time": 1774754840,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23238,
+        "num": 82933,
+        "word": "送别李昌钰送别口供为王的时代",
+        "onboard_time": 1774755380,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82234,
+        "num": 82234,
+        "word": "人类首次成功运输反物质",
+        "onboard_time": 1774754779,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77793,
+        "num": 77793,
+        "word": "为什么爸妈从不挑食",
+        "onboard_time": 1774754421,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74791,
+        "num": 74791,
+        "word": "被雷军回复网友已购入小米新SU7",
+        "onboard_time": 1774755380,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 74258,
+        "num": 74258,
+        "word": "熬夜致瘫大学生家属发声",
+        "onboard_time": 1774754779,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73177,
+        "num": 73177,
+        "word": "带18袋毒品入境包装上印大麻标识",
+        "onboard_time": 1774744099,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 73068,
+        "num": 73068,
+        "word": "站姐愚人节团建预告",
+        "onboard_time": 1774711463,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72338,
+        "num": 72338,
+        "word": "欧洲发生巧克力棒大劫案",
+        "onboard_time": 1774749079,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66696,
+        "num": 66696,
+        "word": "强闯中使馆人员部队驻地被搜查",
+        "onboard_time": 1774749319,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63782,
+        "num": 63782,
+        "word": "猴哥转世到峨眉山了",
+        "onboard_time": 1774753161,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62441,
+        "num": 62441,
+        "word": "林允王彦霖撤回一个床戏",
+        "onboard_time": 1774754840,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语雄安高质量发展#"
+    }
+  }
+}
