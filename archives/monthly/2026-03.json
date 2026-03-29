@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774810532927,
+  "endTime": 1774811419540,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -79163,6 +79163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15413,
+      "num": 85541,
+      "word": "周深巅峰之夜舞台",
+      "onboard_time": 1774810395,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 15388,
       "num": 30730,
       "word": "徐明浩朱珠同框看展",
@@ -79553,14 +79561,6 @@
       "onboard_time": 1773820641,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13688,
-      "num": 85541,
-      "word": "周深巅峰之夜舞台",
-      "onboard_time": 1774810395,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 13663,

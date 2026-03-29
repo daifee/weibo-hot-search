@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774810532927,
+  "endTime": 1774811419540,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -3251,20 +3251,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15413,
+      "num": 85541,
+      "word": "周深巅峰之夜舞台",
+      "onboard_time": 1774810395,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 14521,
       "num": 132913,
       "word": "爸爸赴战场后再没回来女儿墓前祭拜",
       "onboard_time": 1774780288,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13688,
-      "num": 85541,
-      "word": "周深巅峰之夜舞台",
-      "onboard_time": 1774810395,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 13146,
