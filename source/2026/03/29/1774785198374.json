@@ -1,0 +1,410 @@
+{
+  "runTime": 1774785198374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 473056,
+        "num": 1075689,
+        "word": "雀巢12吨巧克力被盗",
+        "onboard_time": 1774770688,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 209469,
+        "num": 755170,
+        "word": "内存条价格出现断崖式下跌",
+        "onboard_time": 1774776509,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 33294,
+        "num": 592298,
+        "word": "世界最大直径高铁盾构机上岸",
+        "onboard_time": 1774768469,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214388,
+        "num": 590830,
+        "word": "广州高铁",
+        "onboard_time": 1774780949,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200207,
+        "num": 585063,
+        "word": "狼队对战KSG",
+        "onboard_time": 1774781848,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214379,
+        "num": 582275,
+        "word": "很多食物都是面朝下更好吃",
+        "onboard_time": 1774774710,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 195928,
+        "num": 575049,
+        "word": "郝蕾说的是谁好难猜啊",
+        "onboard_time": 1774774232,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161295,
+        "num": 572236,
+        "word": "美军战斧导弹消耗速度震惊五角大楼",
+        "onboard_time": 1774776449,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148020,
+        "num": 563554,
+        "word": "儿子一家去世老人骑行30年治愈自己",
+        "onboard_time": 1774784728,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143958,
+        "num": 561327,
+        "word": "仙逆",
+        "onboard_time": 1774780469,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 7417073,
+        "num": 7417073,
+        "word": "李荣浩4连质问单依纯",
+        "onboard_time": 1774774650,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 362203,
+        "num": 552484,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1774778247,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252461,
+        "num": 545150,
+        "word": "氯雷他定",
+        "onboard_time": 1774758740,
+        "rank": 12,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 354865,
+        "num": 540264,
+        "word": "汪峰演唱会",
+        "onboard_time": 1774775849,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200313,
+        "num": 536753,
+        "word": "NCT哭了",
+        "onboard_time": 1774779089,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145553,
+        "num": 528505,
+        "word": "鸭嘴钳是无数女性做检查时的噩梦",
+        "onboard_time": 1774774650,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1247745,
+        "num": 525668,
+        "word": "单依纯 舞娘",
+        "onboard_time": 1774778551,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125633,
+        "num": 520168,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1774777767,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122330,
+        "num": 517132,
+        "word": "奈雪的茶没人喝了",
+        "onboard_time": 1774763301,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49111,
+        "num": 511337,
+        "word": "酒类女性消费者崛起",
+        "onboard_time": 1774784008,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508781,
+        "num": 508781,
+        "word": "严浩翔分享歌曲",
+        "onboard_time": 1774774710,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276767,
+        "num": 508637,
+        "word": "儿子蛇缠腰父亲涂抹符水圈住疱疹",
+        "onboard_time": 1774771050,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263666,
+        "num": 508249,
+        "word": "孙颖莎瘦了",
+        "onboard_time": 1774782686,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121186,
+        "num": 507722,
+        "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
+        "onboard_time": 1774776388,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176657,
+        "num": 507062,
+        "word": "带状疱疹72小时内一定要做这件事",
+        "onboard_time": 1774779929,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135594,
+        "num": 506938,
+        "word": "张凌赫摄影师 撕拉片不是P的",
+        "onboard_time": 1774784668,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117145,
+        "num": 506406,
+        "word": "邪恶砂糖橘 窝囊西红柿",
+        "onboard_time": 1774783767,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101802,
+        "num": 505771,
+        "word": "一二线城市兴起周末情侣",
+        "onboard_time": 1774773629,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102360,
+        "num": 505446,
+        "word": "陈牧驰回应与吴楚一相关争议",
+        "onboard_time": 1774765521,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99840,
+        "num": 504845,
+        "word": "广州冰雹",
+        "onboard_time": 1774770631,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111177,
+        "num": 504356,
+        "word": "一直以为保温毯是披在身上的",
+        "onboard_time": 1774783348,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109470,
+        "num": 504079,
+        "word": "张凌赫谈负面评价",
+        "onboard_time": 1774770749,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99549,
+        "num": 503595,
+        "word": "白日提灯",
+        "onboard_time": 1774778967,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92191,
+        "num": 503023,
+        "word": "男子突发心梗离世3天前还跑马拉松",
+        "onboard_time": 1774781307,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87260,
+        "num": 502954,
+        "word": "对粉底液将军反感是上纲上线吗",
+        "onboard_time": 1774784308,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85990,
+        "num": 502237,
+        "word": "keria冠军皮肤萨勒芬妮",
+        "onboard_time": 1774784728,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85395,
+        "num": 502065,
+        "word": "奶茶店点一杯不够起送",
+        "onboard_time": 1774770149,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84932,
+        "num": 501456,
+        "word": "巧克力大盗",
+        "onboard_time": 1774779989,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83774,
+        "num": 501115,
+        "word": "肖战单手飞身上马",
+        "onboard_time": 1774768708,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83249,
+        "num": 500405,
+        "word": "韩网曝Ruler税务问题",
+        "onboard_time": 1774784068,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82829,
+        "num": 500033,
+        "word": "万千惠选三宝的歌不担心版权",
+        "onboard_time": 1774782449,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80487,
+        "num": 499537,
+        "word": "95后本科毕业生当掏粪工月入3万",
+        "onboard_time": 1774783767,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75657,
+        "num": 499253,
+        "word": "周深樱花树下站谁都好看",
+        "onboard_time": 1774781307,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75277,
+        "num": 498772,
+        "word": "女生半年不吃主食瘦50斤胆囊被切",
+        "onboard_time": 1774780769,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74440,
+        "num": 498426,
+        "word": "意大利罗马爆发大规模反战示威游行",
+        "onboard_time": 1774782088,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74113,
+        "num": 497969,
+        "word": "小孩大哭猫咪边哄边擦眼泪",
+        "onboard_time": 1774784909,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69947,
+        "num": 497688,
+        "word": "伊朗公布击毁美军E3预警机卫星图",
+        "onboard_time": 1774784787,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65361,
+        "num": 496870,
+        "word": "美军一E3预警机在沙特基地遭袭受损",
+        "onboard_time": 1774781370,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61842,
+        "num": 496720,
+        "word": "NCT演唱会",
+        "onboard_time": 1774780469,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60172,
+        "num": 496216,
+        "word": "陈牧驰晒还钱截图",
+        "onboard_time": 1774767322,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记多次强调实干的重要性#"
+    }
+  }
+}
