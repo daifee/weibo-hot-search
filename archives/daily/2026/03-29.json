@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774781006018,
+  "endTime": 1774782101012,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -163,7 +163,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 551019,
+      "raw_hot": 567650,
       "num": 1709455,
       "word": "雀巢12吨巧克力被盗",
       "onboard_time": 1774770688,
@@ -225,6 +225,14 @@
       "onboard_time": 1774751540,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 443679,
+      "num": 443679,
+      "word": "迪丽热巴演技",
+      "onboard_time": 1774778247,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 414118,
@@ -299,14 +307,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 360631,
-      "num": 360631,
-      "word": "迪丽热巴演技",
-      "onboard_time": 1774778247,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 354789,
       "num": 164501,
       "word": "浪姐7唯一双金影后",
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 307586,
-      "num": 144516,
+      "num": 265820,
       "word": "NCT哭了",
       "onboard_time": 1774779089,
       "rank": 13,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 229332,
-      "num": 290301,
+      "num": 467259,
       "word": "内存条价格出现断崖式下跌",
       "onboard_time": 1774776509,
       "rank": 13,
@@ -627,6 +627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209177,
+      "num": 454214,
+      "word": "广州高铁",
+      "onboard_time": 1774780949,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205454,
       "num": 205454,
       "word": "以色列三面受敌",
@@ -657,6 +665,14 @@
       "onboard_time": 1774753761,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194447,
+      "num": 225352,
+      "word": "美军战斧导弹消耗速度震惊五角大楼",
+      "onboard_time": 1774776449,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192179,
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 189895,
-      "num": 138328,
+      "num": 179031,
       "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
       "onboard_time": 1774776388,
       "rank": 34,
@@ -721,14 +737,6 @@
       "onboard_time": 1774775909,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180942,
-      "num": 180942,
-      "word": "美军战斧导弹消耗速度震惊五角大楼",
-      "onboard_time": 1774776449,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 180705,
@@ -769,6 +777,14 @@
       "onboard_time": 1774770149,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173096,
+      "num": 173096,
+      "word": "狼队对战KSG",
+      "onboard_time": 1774781848,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 172610,
@@ -851,6 +867,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 149196,
+      "num": 121282,
+      "word": "带状疱疹72小时内一定要做这件事",
+      "onboard_time": 1774779929,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148262,
       "num": 148262,
       "word": "头发像奶油一样化开了",
@@ -915,28 +939,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137760,
-      "num": 106061,
-      "word": "广州高铁",
-      "onboard_time": 1774780949,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137062,
       "num": 137062,
       "word": "奶茶店点一杯不够起送",
       "onboard_time": 1774770149,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 137014,
-      "num": 106054,
-      "word": "带状疱疹72小时内一定要做这件事",
-      "onboard_time": 1774779929,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 136231,
@@ -1060,7 +1068,7 @@
     },
     {
       "raw_hot": 114378,
-      "num": 105809,
+      "num": 107401,
       "word": "仙逆",
       "onboard_time": 1774780469,
       "rank": 34,
@@ -1315,6 +1323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 97551,
+      "num": 97551,
+      "word": "美军一E3预警机在沙特基地遭袭受损",
+      "onboard_time": 1774781370,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97347,
       "num": 97347,
       "word": "美军为在伊朗数周地面行动做准备",
@@ -1441,6 +1457,22 @@
       "onboard_time": 1774774830,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 89843,
+      "num": 89843,
+      "word": "拼豆你原来这么实用",
+      "onboard_time": 1774781489,
+      "rank": 35,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 89097,
+      "num": 105467,
+      "word": "孙颖莎王曼昱首日出战",
+      "onboard_time": 1774780350,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 88822,
@@ -1609,14 +1641,6 @@
       "onboard_time": 1774757901,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80469,
-      "num": 105467,
-      "word": "孙颖莎王曼昱首日出战",
-      "onboard_time": 1774780350,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 80256,
@@ -1803,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72778,
+      "num": 104333,
+      "word": "NCT演唱会",
+      "onboard_time": 1774780469,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 72555,
       "num": 72555,
       "word": "00后编90后审80后给70后解释",
@@ -1891,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68032,
+      "num": 68032,
+      "word": "男子突发心梗离世3天前还跑马拉松",
+      "onboard_time": 1774781307,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68031,
       "num": 70022,
       "word": "校长说警惕学校变无菌室",
@@ -1931,14 +1971,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 65617,
-      "num": 104333,
-      "word": "NCT演唱会",
-      "onboard_time": 1774780469,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 65514,
       "num": 65514,
       "word": "江苏一学校操场变烤场",
@@ -1953,6 +1985,14 @@
       "onboard_time": 1774693462,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64962,
+      "num": 125091,
+      "word": "爱情是对母爱的拙劣模仿",
+      "onboard_time": 1774778491,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 64518,
@@ -2033,14 +2073,6 @@
       "onboard_time": 1774760242,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61309,
-      "num": 125091,
-      "word": "爱情是对母爱的拙劣模仿",
-      "onboard_time": 1774778491,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 61167,
@@ -2163,6 +2195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50810,
+      "num": 126189,
+      "word": "黑龙江海林楼房凌晨坍塌居民熟睡中",
+      "onboard_time": 1774781611,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48090,
       "num": 82513,
       "word": "以军一天3轮空袭伊朗",
@@ -2193,6 +2233,14 @@
       "onboard_time": 1774740437,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44728,
+      "num": 1737769,
+      "word": "世界最大直径高铁盾构机上岸",
+      "onboard_time": 1774768469,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44079,
@@ -2233,14 +2281,6 @@
       "onboard_time": 1774741217,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39011,
-      "num": 1737769,
-      "word": "世界最大直径高铁盾构机上岸",
-      "onboard_time": 1774768469,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37855,
