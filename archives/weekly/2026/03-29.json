@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774799709164,
+  "endTime": 1774802686576,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -201,6 +201,14 @@
       "onboard_time": 1774741098,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 655173,
+      "num": 655173,
+      "word": "薛之谦",
+      "onboard_time": 1774799726,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 641752,
@@ -1131,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145767,
+      "num": 895618,
+      "word": "张雪机车夺冠",
+      "onboard_time": 1774797931,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145066,
       "num": 246543,
       "word": "全红婵称床上摆满了乌龟玩偶",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1774780469,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 143375,
+      "num": 735332,
+      "word": "报告称我国不孕不育夫妇将逐年增加",
+      "onboard_time": 1774799487,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142459,
@@ -1449,14 +1473,6 @@
       "onboard_time": 1774752561,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111309,
-      "num": 895618,
-      "word": "张雪机车夺冠",
-      "onboard_time": 1774797931,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 111177,
@@ -2619,6 +2635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 65103,
+      "num": 473848,
+      "word": "美海军第五舰队设施遭精准打击",
+      "onboard_time": 1774800623,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65048,
       "num": 83833,
       "word": "俄罗斯4月1日起禁止汽油出口",
@@ -2691,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62764,
+      "num": 473173,
+      "word": "以色列一工业区因伊朗导弹袭击起火",
+      "onboard_time": 1774801883,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62441,
       "num": 62441,
       "word": "林允王彦霖撤回一个床戏",
@@ -2745,6 +2777,14 @@
       "onboard_time": 1774708883,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61098,
+      "num": 473018,
+      "word": "伊朗反向威胁美方",
+      "onboard_time": 1774802483,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60974,
@@ -2875,6 +2915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50203,
+      "num": 470741,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1774802303,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 49964,
       "num": 894524,
       "word": "车企已卷至日供29元",
@@ -2889,6 +2937,14 @@
       "onboard_time": 1774784008,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48123,
+      "num": 469663,
+      "word": "DOTA2",
+      "onboard_time": 1774802362,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 48090,
@@ -2985,14 +3041,6 @@
       "onboard_time": 1774741217,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41228,
-      "num": 735332,
-      "word": "报告称我国不孕不育夫妇将逐年增加",
-      "onboard_time": 1774799487,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39246,
