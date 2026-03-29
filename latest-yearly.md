@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/03/29 21:11:06
+本榜单时间：2026/01/01 00:35:36 ~ 2026/03/29 21:35:04
 </p>
 </blockquote>
 <p>
@@ -1149,6 +1149,12 @@ U23国足vs越南（热度：2487537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%9B%A0%E4%B8%BA%E4%B8%8B%E9%9B%A8%E9%80%80%E7%A5%A8%23" target="weibo">
+薛之谦因为下雨退票（热度：2289751）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%A2%84%E7%BA%A6%23" target="weibo">
 马年纪念币预约（热度：2285482）
 </a>
@@ -1805,12 +1811,6 @@ JYP考公上岸了（热度：1803914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E4%B8%8D%E5%86%8D%E5%8F%82%E5%8A%A0%E4%BB%BB%E4%BD%95%E9%9C%80%E8%A6%81%E6%8A%95%E7%A5%A8%E7%9A%84%E6%B4%BB%E5%8A%A8%23" target="weibo">
 张杰不再参加任何需要投票的活动（热度：1760330）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%AC%E8%BD%AC%20%E5%AF%B9%E4%B8%8D%E8%B5%B7%E5%A4%A7%E5%AE%B6%E6%B2%A1%E9%92%B1%E4%B8%8A%E6%98%A5%E6%99%9A%23" target="weibo">
-转转 对不起大家没钱上春晚（热度：1757992）
 </a>
 </li>
 

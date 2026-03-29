@@ -1,0 +1,410 @@
+{
+  "runTime": 1774791304158,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 288331,
+        "num": 1046133,
+        "word": "雀巢12吨巧克力被盗",
+        "onboard_time": 1774770688,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207633,
+        "num": 1039727,
+        "word": "儿子一家去世老人骑行30年治愈自己",
+        "onboard_time": 1774784728,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24620,
+        "num": 1036116,
+        "word": "数据感知中国经济活力满满",
+        "onboard_time": 1774786528,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2289751,
+        "num": 1029203,
+        "word": "薛之谦因为下雨退票",
+        "onboard_time": 1774789229,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 309408,
+        "num": 1021323,
+        "word": "凌晨3点孩子等家长睡熟偷平板玩",
+        "onboard_time": 1774787247,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404360,
+        "num": 1013276,
+        "word": "D3665列车被困隧道3小时",
+        "onboard_time": 1774785207,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246658,
+        "num": 1005165,
+        "word": "檀健次美甲",
+        "onboard_time": 1774790069,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181066,
+        "num": 997695,
+        "word": "很多食物都是面朝下更好吃",
+        "onboard_time": 1774774710,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170384,
+        "num": 989883,
+        "word": "蔡磊感觉最对不起的就是妻子",
+        "onboard_time": 1774788806,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167685,
+        "num": 980514,
+        "word": "伊朗公布击毁美军E3预警机卫星图",
+        "onboard_time": 1774784787,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8760920,
+        "num": 8760920,
+        "word": "李荣浩4连质问单依纯",
+        "onboard_time": 1774774650,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 687873,
+        "num": 971499,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1774777767,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166736,
+        "num": 962242,
+        "word": "12306回应D3665列车停电被困隧道",
+        "onboard_time": 1774786169,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480020,
+        "num": 951756,
+        "word": "张凌赫摄影师 撕拉片不是P的",
+        "onboard_time": 1774784668,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335728,
+        "num": 946427,
+        "word": "严浩翔分享歌曲",
+        "onboard_time": 1774774710,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142628,
+        "num": 939932,
+        "word": "狼队对战KSG",
+        "onboard_time": 1774781848,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 936468,
+        "num": 936468,
+        "word": "单依纯 舞娘",
+        "onboard_time": 1774778551,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286415,
+        "num": 936064,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1774778247,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137146,
+        "num": 934935,
+        "word": "氯雷他定",
+        "onboard_time": 1774758740,
+        "rank": 18,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 123634,
+        "num": 932429,
+        "word": "鸭嘴钳是无数女性做检查时的噩梦",
+        "onboard_time": 1774774650,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210657,
+        "num": 931766,
+        "word": "儿子蛇缠腰父亲涂抹符水圈住疱疹",
+        "onboard_time": 1774771050,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210447,
+        "num": 930501,
+        "word": "田曦薇直播",
+        "onboard_time": 1774787608,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182557,
+        "num": 929255,
+        "word": "迪丽热巴什么时候原谅现偶",
+        "onboard_time": 1774787008,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162081,
+        "num": 927345,
+        "word": "带状疱疹72小时内一定要做这件事",
+        "onboard_time": 1774779929,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156884,
+        "num": 926340,
+        "word": "北京偶遇宋亚轩贺峻霖",
+        "onboard_time": 1774785866,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119247,
+        "num": 923887,
+        "word": "狼队 小胖",
+        "onboard_time": 1774788387,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148545,
+        "num": 922735,
+        "word": "孙颖莎瘦了",
+        "onboard_time": 1774782686,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146149,
+        "num": 922371,
+        "word": "李莎旻子救场",
+        "onboard_time": 1774788088,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139909,
+        "num": 920450,
+        "word": "白日提灯",
+        "onboard_time": 1774778967,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109491,
+        "num": 918812,
+        "word": "伊朗说美方唯一能听懂的就是武力",
+        "onboard_time": 1774786169,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42680,
+        "num": 918096,
+        "word": "KitKat回应巧克力被偷调侃罪犯有品位",
+        "onboard_time": 1774790009,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122960,
+        "num": 916808,
+        "word": "Breathe加入iG",
+        "onboard_time": 1774789827,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117346,
+        "num": 914776,
+        "word": "朴志晟哭到站不住",
+        "onboard_time": 1774789887,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109252,
+        "num": 912933,
+        "word": "邪恶砂糖橘 窝囊西红柿",
+        "onboard_time": 1774783767,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101673,
+        "num": 911598,
+        "word": "仙逆",
+        "onboard_time": 1774780469,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102906,
+        "num": 910313,
+        "word": "张远谈徐良演唱会发校服",
+        "onboard_time": 1774787788,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100560,
+        "num": 909778,
+        "word": "洛阳这牡丹怎么菜里菜气的",
+        "onboard_time": 1774790069,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 96901,
+        "num": 907290,
+        "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
+        "onboard_time": 1774776388,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95597,
+        "num": 906169,
+        "word": "内存条价格出现断崖式下跌",
+        "onboard_time": 1774776509,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93642,
+        "num": 905550,
+        "word": "桃黑黑再次预言热巴新剧",
+        "onboard_time": 1774790971,
+        "rank": 39,
+        "category": "剧集,游戏"
+      },
+      {
+        "raw_hot": 93178,
+        "num": 903720,
+        "word": "白鹿入夏ccd",
+        "onboard_time": 1774788328,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90518,
+        "num": 901709,
+        "word": "美军战斧导弹消耗速度震惊五角大楼",
+        "onboard_time": 1774776449,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90085,
+        "num": 900510,
+        "word": "伊朗向美以进一步摊牌",
+        "onboard_time": 1774790249,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88789,
+        "num": 898993,
+        "word": "中国将在长江水下开高铁",
+        "onboard_time": 1774790608,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80448,
+        "num": 898063,
+        "word": "汪峰演唱会",
+        "onboard_time": 1774775849,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78886,
+        "num": 896247,
+        "word": "iG教练组大换血",
+        "onboard_time": 1774790489,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78837,
+        "num": 895679,
+        "word": "郝蕾说的是谁好难猜啊",
+        "onboard_time": 1774774232,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77220,
+        "num": 893496,
+        "word": "NCT哭了",
+        "onboard_time": 1774779089,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76482,
+        "num": 891805,
+        "word": "小猫出来那一刻自己也懵了",
+        "onboard_time": 1774787008,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73540,
+        "num": 890968,
+        "word": "九寨沟震后首次实拍到野生大熊猫活体",
+        "onboard_time": 1774791209,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语雄安高质量发展#"
+    }
+  }
+}
