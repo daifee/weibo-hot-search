@@ -1,0 +1,410 @@
+{
+  "runTime": 1774753151668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 787317,
+        "num": 1125970,
+        "word": "女子半年没回家卧室开窗变邻居阳台",
+        "onboard_time": 1774741758,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539610,
+        "num": 788790,
+        "word": "19岁大学生熬夜后脑出血致瘫",
+        "onboard_time": 1774750280,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32994,
+        "num": 649577,
+        "word": "大国重器密集上新惊喜不断",
+        "onboard_time": 1774750219,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 468930,
+        "num": 468930,
+        "word": "汪苏泷祝福徐良",
+        "onboard_time": 1774749739,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277173,
+        "num": 277173,
+        "word": "太原火灾最先起火视频曝光",
+        "onboard_time": 1774751540,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220689,
+        "num": 220689,
+        "word": "深夜遇哭泣女子带其回家遭仙人跳",
+        "onboard_time": 1774750219,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185332,
+        "num": 185332,
+        "word": "太原火灾已致3死23伤",
+        "onboard_time": 1774741878,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166818,
+        "num": 166818,
+        "word": "当你吃了一整天健康食物",
+        "onboard_time": 1774751721,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160982,
+        "num": 160982,
+        "word": "原来老辈子的不是不理解二次元",
+        "onboard_time": 1774746321,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152428,
+        "num": 152428,
+        "word": "伊朗警告袭击地区内美以大学",
+        "onboard_time": 1774742060,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 913436,
+        "num": 151286,
+        "word": "逐玉 庆功宴",
+        "onboard_time": 1774751660,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311477,
+        "num": 150424,
+        "word": "删除汪苏泷名字让徐良又生气又煎熬",
+        "onboard_time": 1774741098,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237376,
+        "num": 146449,
+        "word": "男孩玩灭火毯全身扎满超细玻璃纤维",
+        "onboard_time": 1774750400,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277845,
+        "num": 146027,
+        "word": "何老师维嘉好六哭了",
+        "onboard_time": 1774743200,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165843,
+        "num": 143704,
+        "word": "王俊凯回应拿错奖杯了",
+        "onboard_time": 1774742539,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142459,
+        "num": 142459,
+        "word": "带18袋毒品入境包装上印大麻标识",
+        "onboard_time": 1774744099,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 136231,
+        "num": 136231,
+        "word": "婴儿险窒息爸爸玩手机近1分钟未发觉",
+        "onboard_time": 1774742479,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131708,
+        "num": 131708,
+        "word": "油价又飙升了",
+        "onboard_time": 1774739117,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129755,
+        "num": 129755,
+        "word": "官方通报申请国家赔偿被中止办理",
+        "onboard_time": 1774743860,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 78650,
+        "num": 116912,
+        "word": "用吸粪车迎亲小伙称能月入五六万",
+        "onboard_time": 1774752561,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 809557,
+        "num": 116363,
+        "word": "曝女顶流被公司索赔3亿解约费",
+        "onboard_time": 1774750040,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112982,
+        "num": 112982,
+        "word": "男子一想抽烟就买彩票中了701万",
+        "onboard_time": 1774752200,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109677,
+        "num": 109677,
+        "word": "伊朗连遭重创绝地反击",
+        "onboard_time": 1774709363,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108837,
+        "num": 108837,
+        "word": "欧洲发生巧克力棒大劫案",
+        "onboard_time": 1774749079,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106660,
+        "num": 106660,
+        "word": "1米85的小学生开口要一套宝可梦卡",
+        "onboard_time": 1774744040,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104927,
+        "num": 104927,
+        "word": "女子被羁押821天无罪释放国赔被叫停",
+        "onboard_time": 1774741578,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102806,
+        "num": 102806,
+        "word": "长玉路呢路呢 谢征嘴呢嘴呢",
+        "onboard_time": 1774744761,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97347,
+        "num": 97347,
+        "word": "美军为在伊朗数周地面行动做准备",
+        "onboard_time": 1774748242,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 96862,
+        "num": 96862,
+        "word": "站姐愚人节团建预告",
+        "onboard_time": 1774711463,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93964,
+        "num": 93964,
+        "word": "强闯中使馆人员部队驻地被搜查",
+        "onboard_time": 1774749319,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115748,
+        "num": 93912,
+        "word": "万斯获美共和党保守派阵营过半支持",
+        "onboard_time": 1774752321,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93407,
+        "num": 93407,
+        "word": "严浩翔上线",
+        "onboard_time": 1774739657,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90396,
+        "num": 90396,
+        "word": "王俊凯蹦迪版心引力",
+        "onboard_time": 1774709903,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82685,
+        "num": 82685,
+        "word": "真的不建议你断碳水减肥",
+        "onboard_time": 1774750400,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 87427,
+        "num": 82447,
+        "word": "鞠婧祎浴室歌手来舞台了",
+        "onboard_time": 1774744819,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81790,
+        "num": 81790,
+        "word": "合肥00后研发的机器人能夹豆腐",
+        "onboard_time": 1774752861,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80256,
+        "num": 80256,
+        "word": "sora突然关停原因",
+        "onboard_time": 1774752561,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76803,
+        "num": 76803,
+        "word": "李卿说张凌赫沉浸在谢征的角色里",
+        "onboard_time": 1774752861,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72737,
+        "num": 72737,
+        "word": "感觉型人格",
+        "onboard_time": 1774752321,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19143,
+        "num": 72607,
+        "word": "男子长期被职场PUA抱住医生大哭",
+        "onboard_time": 1774752980,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72555,
+        "num": 72555,
+        "word": "00后编90后审80后给70后解释",
+        "onboard_time": 1774751000,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20506,
+        "num": 71839,
+        "word": "李雪琴说徐志胜是臀部艺人",
+        "onboard_time": 1774751120,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74034,
+        "num": 71785,
+        "word": "李卿眼中的田曦薇张凌赫",
+        "onboard_time": 1774748423,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71486,
+        "num": 71486,
+        "word": "世上顶好顶好的老太婆走了",
+        "onboard_time": 1774718777,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70134,
+        "num": 70134,
+        "word": "太原火灾多家商铺面目全非",
+        "onboard_time": 1774751900,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68712,
+        "num": 68712,
+        "word": "杨紫给黄灿灿的浪姐建议",
+        "onboard_time": 1774741460,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68535,
+        "num": 68535,
+        "word": "太原火灾亲历者回忆逃生过程",
+        "onboard_time": 1774750400,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66318,
+        "num": 66318,
+        "word": "雷军回应新su7首周交付量",
+        "onboard_time": 1774745719,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 66184,
+        "num": 66184,
+        "word": "猫的偷窥欲",
+        "onboard_time": 1774752800,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65514,
+        "num": 65514,
+        "word": "江苏一学校操场变烤场",
+        "onboard_time": 1774752800,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语雄安高质量发展#"
+    }
+  }
+}
