@@ -1,6 +1,6 @@
 {
   "startTime": 1774802686576,
-  "endTime": 1774802686576,
+  "endTime": 1774803789285,
   "band_list": [
     {
       "raw_hot": 3402384,
@@ -11,7 +11,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 655173,
+      "raw_hot": 669771,
       "num": 655173,
       "word": "薛之谦",
       "onboard_time": 1774799726,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177139,
+      "num": 689778,
+      "word": "报告称我国不孕不育夫妇将逐年增加",
+      "onboard_time": 1774799487,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168146,
       "num": 669919,
       "word": "白桃星座一周运势",
@@ -81,14 +89,6 @@
       "onboard_time": 1774797931,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143375,
-      "num": 689778,
-      "word": "报告称我国不孕不育夫妇将逐年增加",
-      "onboard_time": 1774799487,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120261,
@@ -123,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105126,
+      "num": 514358,
+      "word": "美海军第五舰队设施遭精准打击",
+      "onboard_time": 1774800623,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101778,
       "num": 662757,
       "word": "逐玉",
@@ -147,8 +155,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83193,
-      "num": 473574,
+      "raw_hot": 89742,
+      "num": 477521,
       "word": "迪丽热巴什么时候原谅现偶",
       "onboard_time": 1774787008,
       "rank": 22,
@@ -179,6 +187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69938,
+      "num": 473018,
+      "word": "伊朗反向威胁美方",
+      "onboard_time": 1774802483,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68578,
       "num": 474333,
       "word": "女生举报老师性骚扰失败状告公安机关",
@@ -187,27 +203,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65103,
-      "num": 473848,
-      "word": "美海军第五舰队设施遭精准打击",
-      "onboard_time": 1774800623,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 62764,
       "num": 473173,
       "word": "以色列一工业区因伊朗导弹袭击起火",
       "onboard_time": 1774801883,
       "rank": 24,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 61098,
-      "num": 473018,
-      "word": "伊朗反向威胁美方",
-      "onboard_time": 1774802483,
-      "rank": 25,
       "category": "国际时政"
     },
     {
@@ -224,6 +224,14 @@
       "word": "檀健次美甲",
       "onboard_time": 1774790069,
       "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 56787,
+      "num": 470741,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1774802303,
+      "rank": 36,
       "category": "演出"
     },
     {
@@ -265,14 +273,6 @@
       "onboard_time": 1774797389,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 50203,
-      "num": 470741,
-      "word": "蔡依林演唱会",
-      "onboard_time": 1774802303,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 50094,
@@ -361,6 +361,14 @@
       "onboard_time": 1774790971,
       "rank": 45,
       "category": "剧集,游戏"
+    },
+    {
+      "raw_hot": 40320,
+      "num": 399815,
+      "word": "伊发动第86波攻势",
+      "onboard_time": 1774803441,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40266,
