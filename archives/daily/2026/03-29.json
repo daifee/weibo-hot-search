@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774761645693,
+  "endTime": 1774763950131,
   "band_list": [
     {
       "raw_hot": 1789667,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384818,
+      "num": 1061570,
+      "word": "日本抗议者高喊中国对不起",
+      "onboard_time": 1774759701,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 361285,
       "num": 235173,
       "word": "长期不吃主食身体的8个变化",
@@ -153,6 +161,14 @@
       "onboard_time": 1774710622,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306990,
+      "num": 136697,
+      "word": "林子烨像张凌赫生的",
+      "onboard_time": 1774761801,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 306945,
@@ -179,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 284070,
-      "num": 284070,
-      "word": "日本抗议者高喊中国对不起",
-      "onboard_time": 1774759701,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 284060,
       "num": 284060,
       "word": "徐若晗能让郝蕾闭嘴",
@@ -201,6 +209,14 @@
       "onboard_time": 1774743200,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275665,
+      "num": 123532,
+      "word": "QQ音乐 虞书欣",
+      "onboard_time": 1774761562,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 270893,
@@ -219,12 +235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268624,
+      "num": 268624,
+      "word": "德国版射雕预告好燃好震撼",
+      "onboard_time": 1774759881,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 265159,
       "num": 728164,
       "word": "观众反感的从来不是帅将军",
       "onboard_time": 1774741939,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262056,
+      "num": 143405,
+      "word": "才发现王一博上的全英课",
+      "onboard_time": 1774760541,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 250445,
@@ -363,12 +395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180705,
+      "num": 115291,
+      "word": "张震岳收藏吐槽周杰伦的文章",
+      "onboard_time": 1774762102,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179231,
       "num": 179231,
       "word": "美军福特号航母抵港克罗地亚维修",
       "onboard_time": 1774741999,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 177780,
+      "num": 177780,
+      "word": "孩子凌晨被抢没想到邻居参与了",
+      "onboard_time": 1774759281,
+      "rank": 16,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 175504,
@@ -411,12 +459,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 155974,
-      "num": 143405,
-      "word": "才发现王一博上的全英课",
-      "onboard_time": 1774760541,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 156236,
+      "num": 156236,
+      "word": "秦岚回应花少与客栈哪个更快乐",
+      "onboard_time": 1774761262,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 152428,
@@ -451,20 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143702,
-      "num": 143702,
-      "word": "孩子凌晨被抢没想到邻居参与了",
-      "onboard_time": 1774759281,
-      "rank": 16,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 142459,
       "num": 142459,
       "word": "带18袋毒品入境包装上印大麻标识",
       "onboard_time": 1774744099,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 140131,
+      "num": 140131,
+      "word": "全职高手致歉",
+      "onboard_time": 1774760121,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 139319,
@@ -499,11 +547,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130235,
+      "num": 110174,
+      "word": "关于香港的冷知识",
+      "onboard_time": 1774759100,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 129632,
       "num": 129632,
       "word": "男子一想抽烟就买彩票中了701万",
       "onboard_time": 1774752200,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129446,
+      "num": 129446,
+      "word": "奈雪的茶没人喝了",
+      "onboard_time": 1774763301,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -523,20 +587,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 123023,
-      "num": 123023,
-      "word": "德国版射雕预告好燃好震撼",
-      "onboard_time": 1774759881,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 121105,
-      "num": 101959,
-      "word": "全职高手致歉",
-      "onboard_time": 1774760121,
-      "rank": 30,
-      "category": "动漫"
+      "raw_hot": 126064,
+      "num": 126064,
+      "word": "事业编B类",
+      "onboard_time": 1774761080,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 117105,
@@ -603,12 +659,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109352,
+      "num": 100921,
+      "word": "俄罗斯警告韩国",
+      "onboard_time": 1774762941,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108837,
       "num": 108837,
       "word": "欧洲发生巧克力棒大劫案",
       "onboard_time": 1774749079,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107994,
+      "num": 100915,
+      "word": "阿那亚出现海市蜃楼",
+      "onboard_time": 1774762042,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 106733,
@@ -643,12 +715,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102373,
-      "num": 101822,
-      "word": "关于香港的冷知识",
-      "onboard_time": 1774759100,
-      "rank": 31,
-      "category": "科学科普"
+      "raw_hot": 102168,
+      "num": 102168,
+      "word": "许嵩第九张专辑 盛夏见",
+      "onboard_time": 1774761621,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 101034,
+      "num": 101034,
+      "word": "不是正剧就不用较真粉底液将军吗",
+      "onboard_time": 1774763121,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100910,
+      "num": 100910,
+      "word": "日本爆发抗议要求高市下台",
+      "onboard_time": 1774761022,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100672,
@@ -763,20 +851,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88304,
+      "num": 88304,
+      "word": "洛杉矶10万人抗议多人被捕",
+      "onboard_time": 1774762820,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 87427,
       "num": 85793,
       "word": "鞠婧祎浴室歌手来舞台了",
       "onboard_time": 1774744819,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 85742,
-      "num": 92164,
-      "word": "事业编B类",
-      "onboard_time": 1774761080,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 85405,
@@ -787,12 +875,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85037,
-      "num": 102334,
-      "word": "秦岚回应花少与客栈哪个更快乐",
-      "onboard_time": 1774761262,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 84873,
+      "num": 84873,
+      "word": "55岁雪姨走秀状态",
+      "onboard_time": 1774763542,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 84660,
@@ -884,11 +972,19 @@
     },
     {
       "raw_hot": 80237,
-      "num": 80237,
+      "num": 81166,
       "word": "女子面馆当众2掌扇懵男孩",
       "onboard_time": 1774761141,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79283,
+      "num": 79283,
+      "word": "虞书欣签售",
+      "onboard_time": 1774762102,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 78438,
@@ -913,6 +1009,14 @@
       "onboard_time": 1774754421,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77039,
+      "num": 77039,
+      "word": "张凌赫为角色增肌8公斤",
+      "onboard_time": 1774762402,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 76574,
@@ -987,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72017,
+      "num": 72017,
+      "word": "澳门世界杯抽签仪式",
+      "onboard_time": 1774763841,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71878,
       "num": 71878,
       "word": "鞠婧祎获巅峰流行女歌手",
@@ -995,12 +1107,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 70666,
-      "num": 70666,
-      "word": "许嵩第九张专辑 盛夏见",
-      "onboard_time": 1774761621,
-      "rank": 48,
-      "category": "音乐"
+      "raw_hot": 71381,
+      "num": 71381,
+      "word": "张俪眼睛毛细血管破裂",
+      "onboard_time": 1774762882,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 70134,
@@ -1011,12 +1123,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69679,
-      "num": 69679,
-      "word": "QQ音乐 虞书欣",
-      "onboard_time": 1774761562,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 70025,
+      "num": 70025,
+      "word": "女子绝食减肥暴瘦至30公斤心跳骤停",
+      "onboard_time": 1774763841,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 69049,
@@ -1033,6 +1145,14 @@
       "onboard_time": 1774750400,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68031,
+      "num": 70022,
+      "word": "校长说警惕学校变无菌室",
+      "onboard_time": 1774762641,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 67438,
@@ -1123,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61370,
+      "num": 144889,
+      "word": "黑龙江海林一楼房坍塌9人被困",
+      "onboard_time": 1774760242,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61119,
       "num": 82771,
       "word": "11岁的我觉得这顿饭夯爆了",
@@ -1145,14 +1273,6 @@
       "onboard_time": 1774703182,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 60585,
-      "num": 144889,
-      "word": "黑龙江海林一楼房坍塌9人被困",
-      "onboard_time": 1774760242,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58110,
@@ -1441,6 +1561,14 @@
       "onboard_time": 1774740678,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5048,
+      "num": 586127,
+      "word": "2026中国网络媒体论坛",
+      "onboard_time": 1774536983,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
