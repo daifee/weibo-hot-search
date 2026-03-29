@@ -1,0 +1,410 @@
+{
+  "runTime": 1774781006018,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 551019,
+        "num": 1088163,
+        "word": "雀巢12吨巧克力被盗",
+        "onboard_time": 1774770688,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 370542,
+        "num": 779746,
+        "word": "氯雷他定",
+        "onboard_time": 1774758740,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 38747,
+        "num": 628992,
+        "word": "世界最大直径高铁盾构机上岸",
+        "onboard_time": 1774768469,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360631,
+        "num": 360631,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1774778247,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229332,
+        "num": 290301,
+        "word": "内存条价格出现断崖式下跌",
+        "onboard_time": 1774776509,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1531389,
+        "num": 289874,
+        "word": "单依纯 舞娘",
+        "onboard_time": 1774778551,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235748,
+        "num": 235748,
+        "word": "很多食物都是面朝下更好吃",
+        "onboard_time": 1774774710,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189227,
+        "num": 189227,
+        "word": "奈雪的茶没人喝了",
+        "onboard_time": 1774763301,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180942,
+        "num": 180942,
+        "word": "美军战斧导弹消耗速度震惊五角大楼",
+        "onboard_time": 1774776449,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156072,
+        "num": 156072,
+        "word": "一二线城市兴起周末情侣",
+        "onboard_time": 1774773629,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10511255,
+        "num": 10511255,
+        "word": "李荣浩4连质问单依纯",
+        "onboard_time": 1774774650,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 692948,
+        "num": 149643,
+        "word": "汪峰演唱会",
+        "onboard_time": 1774775849,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293073,
+        "num": 146381,
+        "word": "鸭嘴钳是无数女性做检查时的噩梦",
+        "onboard_time": 1774774650,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 307586,
+        "num": 144516,
+        "word": "NCT哭了",
+        "onboard_time": 1774779089,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254484,
+        "num": 141533,
+        "word": "郝蕾说的是谁好难猜啊",
+        "onboard_time": 1774774232,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189895,
+        "num": 138328,
+        "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
+        "onboard_time": 1774776388,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136538,
+        "num": 136538,
+        "word": "这一秒过火33集",
+        "onboard_time": 1774775909,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133279,
+        "num": 133279,
+        "word": "广州冰雹",
+        "onboard_time": 1774770631,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14521,
+        "num": 132913,
+        "word": "爸爸赴战场后再没回来女儿墓前祭拜",
+        "onboard_time": 1774780288,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19263,
+        "num": 131491,
+        "word": "广州街景被盗图称是首尔",
+        "onboard_time": 1774780407,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668518,
+        "num": 131127,
+        "word": "严浩翔分享歌曲",
+        "onboard_time": 1774774710,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248771,
+        "num": 129608,
+        "word": "儿子蛇缠腰父亲涂抹符水圈住疱疹",
+        "onboard_time": 1774771050,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133664,
+        "num": 128821,
+        "word": "陈牧驰回应与吴楚一相关争议",
+        "onboard_time": 1774765521,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128435,
+        "num": 128435,
+        "word": "张凌赫谈负面评价",
+        "onboard_time": 1774770749,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124442,
+        "num": 124442,
+        "word": "1米8男子遭家暴称我要离婚",
+        "onboard_time": 1774774830,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124300,
+        "num": 124300,
+        "word": "巧克力大盗",
+        "onboard_time": 1774779989,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108419,
+        "num": 108419,
+        "word": "奶茶店点一杯不够起送",
+        "onboard_time": 1774770149,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108166,
+        "num": 108166,
+        "word": "肖战单手飞身上马",
+        "onboard_time": 1774768708,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107031,
+        "num": 107031,
+        "word": "陈牧驰晒还钱截图",
+        "onboard_time": 1774767322,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97835,
+        "num": 106097,
+        "word": "泳池走路 减肥",
+        "onboard_time": 1774777708,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137760,
+        "num": 106061,
+        "word": "广州高铁",
+        "onboard_time": 1774780949,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137014,
+        "num": 106054,
+        "word": "带状疱疹72小时内一定要做这件事",
+        "onboard_time": 1774779929,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106024,
+        "num": 106024,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1774777767,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97817,
+        "num": 105923,
+        "word": "春假",
+        "onboard_time": 1774775849,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114378,
+        "num": 105809,
+        "word": "仙逆",
+        "onboard_time": 1774780469,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 91343,
+        "num": 105658,
+        "word": "檀健次看镜头好温柔",
+        "onboard_time": 1774777889,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87783,
+        "num": 105514,
+        "word": "为什么没人跑去江苏看海",
+        "onboard_time": 1774774830,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 80469,
+        "num": 105467,
+        "word": "孙颖莎王曼昱首日出战",
+        "onboard_time": 1774780350,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78526,
+        "num": 105322,
+        "word": "女生半年不吃主食瘦50斤胆囊被切",
+        "onboard_time": 1774780769,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53665,
+        "num": 105200,
+        "word": "白日提灯短剧排播",
+        "onboard_time": 1774776090,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76799,
+        "num": 104947,
+        "word": "DDR5内存大降价",
+        "onboard_time": 1774777286,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 76778,
+        "num": 104901,
+        "word": "70岁四川师傅炒牛肉蒜苔",
+        "onboard_time": 1774778187,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172610,
+        "num": 104748,
+        "word": "李马克哭了",
+        "onboard_time": 1774778309,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66346,
+        "num": 104630,
+        "word": "张震岳收藏吐槽周杰伦的文章",
+        "onboard_time": 1774762102,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65780,
+        "num": 104442,
+        "word": "中国石油拟分红457.6亿元",
+        "onboard_time": 1774778428,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 65617,
+        "num": 104333,
+        "word": "NCT演唱会",
+        "onboard_time": 1774780469,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64197,
+        "num": 104166,
+        "word": "解放军位中国黄岩岛领海领空战备警巡",
+        "onboard_time": 1774779269,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 64176,
+        "num": 104093,
+        "word": "澳门世界杯首日赛程",
+        "onboard_time": 1774779329,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61333,
+        "num": 103907,
+        "word": "越来越多年轻人谈起了在线式恋爱",
+        "onboard_time": 1774777227,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64189,
+        "num": 103811,
+        "word": "白日提灯首日云合",
+        "onboard_time": 1774774591,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记多次强调实干的重要性#"
+    }
+  }
+}

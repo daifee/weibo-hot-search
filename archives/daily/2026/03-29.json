@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774778541210,
+  "endTime": 1774781006018,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -65,6 +65,14 @@
       "onboard_time": 1774716919,
       "rank": 0,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1531389,
+      "num": 289874,
+      "word": "单依纯 舞娘",
+      "onboard_time": 1774778551,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1229044,
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 692948,
+      "num": 577784,
+      "word": "汪峰演唱会",
+      "onboard_time": 1774775849,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 660894,
       "num": 542167,
       "word": "删除汪苏泷名字让徐良又生气又煎熬",
@@ -147,12 +163,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 577784,
-      "num": 577784,
-      "word": "汪峰演唱会",
-      "onboard_time": 1774775849,
-      "rank": 5,
-      "category": "演出"
+      "raw_hot": 551019,
+      "num": 1709455,
+      "word": "雀巢12吨巧克力被盗",
+      "onboard_time": 1774770688,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 548188,
@@ -283,6 +299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 360631,
+      "num": 360631,
+      "word": "迪丽热巴演技",
+      "onboard_time": 1774778247,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354789,
       "num": 164501,
       "word": "浪姐7唯一双金影后",
@@ -299,14 +323,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 334948,
-      "num": 1709455,
-      "word": "雀巢12吨巧克力被盗",
-      "onboard_time": 1774770688,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 327865,
       "num": 726225,
       "word": "太原火灾近距离目击者直呼好害怕",
@@ -321,6 +337,14 @@
       "onboard_time": 1774764080,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307586,
+      "num": 144516,
+      "word": "NCT哭了",
+      "onboard_time": 1774779089,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 306990,
@@ -531,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229332,
+      "num": 290301,
+      "word": "内存条价格出现断崖式下跌",
+      "onboard_time": 1774776509,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 222229,
       "num": 188127,
       "word": "迪丽热巴有高度近视",
@@ -659,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189895,
+      "num": 138328,
+      "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
+      "onboard_time": 1774776388,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185332,
       "num": 200753,
       "word": "太原火灾已致3死23伤",
@@ -681,6 +721,14 @@
       "onboard_time": 1774775909,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180942,
+      "num": 180942,
+      "word": "美军战斧导弹消耗速度震惊五角大楼",
+      "onboard_time": 1774776449,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 180705,
@@ -715,28 +763,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 175499,
-      "num": 261799,
-      "word": "内存条价格出现断崖式下跌",
-      "onboard_time": 1774776509,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 174891,
-      "num": 126389,
-      "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
-      "onboard_time": 1774776388,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173471,
       "num": 173471,
       "word": "原来五哈导演并非不爱请女嘉宾",
       "onboard_time": 1774770149,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172610,
+      "num": 126121,
+      "word": "李马克哭了",
+      "onboard_time": 1774778309,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 166466,
@@ -769,14 +809,6 @@
       "onboard_time": 1774746321,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 158993,
-      "num": 158993,
-      "word": "美军战斧导弹消耗速度震惊五角大楼",
-      "onboard_time": 1774776449,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 156236,
@@ -825,14 +857,6 @@
       "onboard_time": 1774771229,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146158,
-      "num": 146158,
-      "word": "迪丽热巴演技",
-      "onboard_time": 1774778247,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 145995,
@@ -891,12 +915,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137760,
+      "num": 106061,
+      "word": "广州高铁",
+      "onboard_time": 1774780949,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137062,
       "num": 137062,
       "word": "奶茶店点一杯不够起送",
       "onboard_time": 1774770149,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137014,
+      "num": 106054,
+      "word": "带状疱疹72小时内一定要做这件事",
+      "onboard_time": 1774779929,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136231,
@@ -979,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124300,
+      "num": 124300,
+      "word": "巧克力大盗",
+      "onboard_time": 1774779989,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 121722,
       "num": 150288,
       "word": "薛之谦演唱会",
@@ -1009,6 +1057,14 @@
       "onboard_time": 1774769367,
       "rank": 9,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 114378,
+      "num": 105809,
+      "word": "仙逆",
+      "onboard_time": 1774780469,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 113891,
@@ -1227,14 +1283,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 100735,
-      "num": 126121,
-      "word": "李马克哭了",
-      "onboard_time": 1774778309,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100672,
       "num": 100672,
       "word": "白日提灯首日百指13万",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1774758022,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91343,
+      "num": 105658,
+      "word": "檀健次看镜头好温柔",
+      "onboard_time": 1774777889,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 90521,
@@ -1555,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80469,
+      "num": 105467,
+      "word": "孙颖莎王曼昱首日出战",
+      "onboard_time": 1774780350,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80256,
       "num": 80256,
       "word": "sora突然关停原因",
@@ -1585,6 +1649,14 @@
       "onboard_time": 1774771950,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78526,
+      "num": 105322,
+      "word": "女生半年不吃主食瘦50斤胆囊被切",
+      "onboard_time": 1774780769,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78438,
@@ -1859,6 +1931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 65617,
+      "num": 104333,
+      "word": "NCT演唱会",
+      "onboard_time": 1774780469,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 65514,
       "num": 65514,
       "word": "江苏一学校操场变烤场",
@@ -1889,6 +1969,22 @@
       "onboard_time": 1774705822,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 64197,
+      "num": 104166,
+      "word": "解放军位中国黄岩岛领海领空战备警巡",
+      "onboard_time": 1774779269,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 64176,
+      "num": 104093,
+      "word": "澳门世界杯首日赛程",
+      "onboard_time": 1774779329,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 63782,
@@ -2275,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19263,
+      "num": 131491,
+      "word": "广州街景被盗图称是首尔",
+      "onboard_time": 1774780407,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19143,
       "num": 72607,
       "word": "男子长期被职场PUA抱住医生大哭",
@@ -2304,6 +2408,14 @@
       "word": "全景还原梅姨案拐卖链条",
       "onboard_time": 1774769610,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14521,
+      "num": 132913,
+      "word": "爸爸赴战场后再没回来女儿墓前祭拜",
+      "onboard_time": 1774780288,
+      "rank": 18,
       "category": "民生新闻"
     },
     {

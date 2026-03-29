@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774778541210,
+  "endTime": 1774781006018,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -945,6 +945,14 @@
       "onboard_time": 1774185203,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1531389,
+      "num": 289874,
+      "word": "单依纯 舞娘",
+      "onboard_time": 1774778551,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1523894,
@@ -4435,6 +4443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 692948,
+      "num": 577784,
+      "word": "汪峰演唱会",
+      "onboard_time": 1774775849,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 692702,
       "num": 897693,
       "word": "中国男篮险胜中国台北男篮",
@@ -6243,14 +6259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 577784,
-      "num": 577784,
-      "word": "汪峰演唱会",
-      "onboard_time": 1774775849,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 576900,
       "num": 576900,
       "word": "夏之光被妈妈拉黑真相巨戳心",
@@ -6721,6 +6729,14 @@
       "onboard_time": 1773553881,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551019,
+      "num": 1709455,
+      "word": "雀巢12吨巧克力被盗",
+      "onboard_time": 1774770688,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 550147,
@@ -12907,6 +12923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360631,
+      "num": 360631,
+      "word": "迪丽热巴演技",
+      "onboard_time": 1774778247,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360230,
       "num": 360230,
       "word": "樊长玉斩杀长信王",
@@ -14009,14 +14033,6 @@
       "onboard_time": 1774173741,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 334948,
-      "num": 1709455,
-      "word": "雀巢12吨巧克力被盗",
-      "onboard_time": 1774770688,
-      "rank": 7,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 334895,
@@ -15689,6 +15705,14 @@
       "onboard_time": 1774567220,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307586,
+      "num": 144516,
+      "word": "NCT哭了",
+      "onboard_time": 1774779089,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 307577,
@@ -21451,6 +21475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229332,
+      "num": 290301,
+      "word": "内存条价格出现断崖式下跌",
+      "onboard_time": 1774776509,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 229270,
       "num": 450533,
       "word": "肖战十日终焉这两天定妆了",
@@ -25379,6 +25411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189895,
+      "num": 138328,
+      "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
+      "onboard_time": 1774776388,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189860,
       "num": 120042,
       "word": "金饰价一夜暴跌32元",
@@ -26459,6 +26499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180942,
+      "num": 180942,
+      "word": "美军战斧导弹消耗速度震惊五角大楼",
+      "onboard_time": 1774776449,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 180926,
       "num": 180926,
       "word": "先嗑到张俪迪丽热巴了",
@@ -27131,14 +27179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175499,
-      "num": 261799,
-      "word": "内存条价格出现断崖式下跌",
-      "onboard_time": 1774776509,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
       "raw_hot": 175388,
       "num": 175388,
       "word": "跑男官宣孟子义李昀锐",
@@ -27256,14 +27296,6 @@
       "word": "舅舅回应被指觊觎外甥女财产",
       "onboard_time": 1772526929,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174891,
-      "num": 126389,
-      "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
-      "onboard_time": 1774776388,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -27521,6 +27553,14 @@
       "onboard_time": 1773189502,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172610,
+      "num": 126121,
+      "word": "李马克哭了",
+      "onboard_time": 1774778309,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 172594,
@@ -29473,14 +29513,6 @@
       "onboard_time": 1773554181,
       "rank": 24,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 158993,
-      "num": 158993,
-      "word": "美军战斧导弹消耗速度震惊五角大楼",
-      "onboard_time": 1774776449,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 158879,
@@ -31667,14 +31699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146158,
-      "num": 146158,
-      "word": "迪丽热巴演技",
-      "onboard_time": 1774778247,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146118,
       "num": 146118,
       "word": "不齐而俞 番外",
@@ -33275,6 +33299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137760,
+      "num": 106061,
+      "word": "广州高铁",
+      "onboard_time": 1774780949,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137677,
       "num": 852166,
       "word": "易梦玲工作室回应被质疑压花",
@@ -33385,6 +33417,14 @@
       "onboard_time": 1774346600,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137014,
+      "num": 106054,
+      "word": "带状疱疹72小时内一定要做这件事",
+      "onboard_time": 1774779929,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136951,
@@ -36449,6 +36489,14 @@
       "onboard_time": 1773368542,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124300,
+      "num": 124300,
+      "word": "巧克力大盗",
+      "onboard_time": 1774779989,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 124247,
@@ -44499,14 +44547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100735,
-      "num": 126121,
-      "word": "李马克哭了",
-      "onboard_time": 1774778309,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100722,
       "num": 132204,
       "word": "湖人战胜公牛",
@@ -49337,6 +49377,14 @@
       "onboard_time": 1773386060,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91343,
+      "num": 105658,
+      "word": "檀健次看镜头好温柔",
+      "onboard_time": 1774777889,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 91322,
@@ -55667,6 +55715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80469,
+      "num": 105467,
+      "word": "孙颖莎王曼昱首日出战",
+      "onboard_time": 1774780350,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80454,
       "num": 80454,
       "word": "苦了谁也不能苦了朋友圈",
@@ -56729,6 +56785,14 @@
       "onboard_time": 1773056962,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78526,
+      "num": 105322,
+      "word": "女生半年不吃主食瘦50斤胆囊被切",
+      "onboard_time": 1774780769,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78523,
@@ -64251,6 +64315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65617,
+      "num": 104333,
+      "word": "NCT演唱会",
+      "onboard_time": 1774780469,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 65580,
       "num": 65580,
       "word": "晋江回应严禁使用老天奶",
@@ -65001,6 +65073,22 @@
       "onboard_time": 1773444378,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64197,
+      "num": 104166,
+      "word": "解放军位中国黄岩岛领海领空战备警巡",
+      "onboard_time": 1774779269,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 64176,
+      "num": 104093,
+      "word": "澳门世界杯首日赛程",
+      "onboard_time": 1774779329,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 64164,
@@ -77251,6 +77339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19263,
+      "num": 131491,
+      "word": "广州街景被盗图称是首尔",
+      "onboard_time": 1774780407,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19165,
       "num": 663559,
       "word": "十五五规划纲要撰写的幕后",
@@ -78457,6 +78553,14 @@
       "onboard_time": 1773418760,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 14521,
+      "num": 132913,
+      "word": "爸爸赴战场后再没回来女儿墓前祭拜",
+      "onboard_time": 1774780288,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14505,
