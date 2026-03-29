@@ -1,6 +1,6 @@
 {
   "startTime": 1774802686576,
-  "endTime": 1774813175719,
+  "endTime": 1774814120612,
   "band_list": [
     {
       "raw_hot": 3402384,
@@ -443,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16093,
+      "num": 30749,
+      "word": "平行时空",
+      "onboard_time": 1774813874,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15413,
       "num": 85541,
       "word": "周深巅峰之夜舞台",
@@ -457,6 +465,14 @@
       "onboard_time": 1774784787,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14053,
+      "num": 30743,
+      "word": "QQ音乐巅峰之夜",
+      "onboard_time": 1774814054,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 1658,

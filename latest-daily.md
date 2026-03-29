@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/30 00:44:46 ~ 2026/03/30 03:39:35
+本榜单时间：2026/03/30 00:44:46 ~ 2026/03/30 03:55:20
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ iG官宣Helper加入（热度：34791）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E8%A1%8C%E6%97%B6%E7%A9%BA%23" target="weibo">
+平行时空（热度：16093）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%E8%88%9E%E5%8F%B0%23" target="weibo">
 周深巅峰之夜舞台（热度：15413）
 </a>
@@ -353,6 +359,12 @@ iG官宣Helper加入（热度：34791）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E6%AF%81%E7%BE%8E%E5%86%9BE3%E9%A2%84%E8%AD%A6%E6%9C%BA%E5%8D%AB%E6%98%9F%E5%9B%BE%23" target="weibo">
 伊朗公布击毁美军E3预警机卫星图（热度：14862）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23QQ%E9%9F%B3%E4%B9%90%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%23" target="weibo">
+QQ音乐巅峰之夜（热度：14053）
 </a>
 </li>
 

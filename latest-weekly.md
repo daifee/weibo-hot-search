@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/29 00:43:57 ~ 2026/03/30 03:39:35
+本榜单时间：2026/03/29 00:43:57 ~ 2026/03/30 03:55:20
 </p>
 </blockquote>
 <p>
@@ -2451,6 +2451,12 @@ Angelababy梦回贝微微（热度：41460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E8%A1%8C%E6%97%B6%E7%A9%BA%23" target="weibo">
+平行时空（热度：16093）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%E8%88%9E%E5%8F%B0%23" target="weibo">
 周深巅峰之夜舞台（热度：15413）
 </a>
@@ -2459,6 +2465,12 @@ Angelababy梦回贝微微（热度：41460）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%B5%B4%E6%88%98%E5%9C%BA%E5%90%8E%E5%86%8D%E6%B2%A1%E5%9B%9E%E6%9D%A5%E5%A5%B3%E5%84%BF%E5%A2%93%E5%89%8D%E7%A5%AD%E6%8B%9C%23" target="weibo">
 爸爸赴战场后再没回来女儿墓前祭拜（热度：14521）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23QQ%E9%9F%B3%E4%B9%90%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%23" target="weibo">
+QQ音乐巅峰之夜（热度：14053）
 </a>
 </li>
 
