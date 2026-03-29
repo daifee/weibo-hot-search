@@ -1,0 +1,410 @@
+{
+  "runTime": 1774827754215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 237463,
+        "num": 885928,
+        "word": "报告称我国不孕不育夫妇将逐年增加",
+        "onboard_time": 1774799487,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143195,
+        "num": 630774,
+        "word": "中国将在长江水下开高铁",
+        "onboard_time": 1774790608,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13192,
+        "num": 511754,
+        "word": "神21乘组在轨vlog又上新了",
+        "onboard_time": 1774786287,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242705,
+        "num": 511669,
+        "word": "伊朗新任最高领袖为何鲜少发声",
+        "onboard_time": 1774825461,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203634,
+        "num": 511388,
+        "word": "美海军第五舰队设施遭精准打击",
+        "onboard_time": 1774800623,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179477,
+        "num": 511203,
+        "word": "凌晨3点孩子等家长睡熟偷平板玩",
+        "onboard_time": 1774787247,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129201,
+        "num": 511170,
+        "word": "九寨沟震后首次实拍到野生大熊猫活体",
+        "onboard_time": 1774791209,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106556,
+        "num": 510814,
+        "word": "美国洛杉矶示威现场画面曝光",
+        "onboard_time": 1774795652,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104507,
+        "num": 510739,
+        "word": "逐玉",
+        "onboard_time": 1774792888,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99712,
+        "num": 510454,
+        "word": "张雪机车夺冠",
+        "onboard_time": 1774797931,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689770,
+        "num": 510328,
+        "word": "薛之谦",
+        "onboard_time": 1774799726,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323089,
+        "num": 510126,
+        "word": "李荣浩4连质问单依纯",
+        "onboard_time": 1774774650,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131778,
+        "num": 509877,
+        "word": "伊朗反向威胁美方",
+        "onboard_time": 1774802483,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263784,
+        "num": 509832,
+        "word": "田曦薇被裙子勒成这样",
+        "onboard_time": 1774794754,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129688,
+        "num": 509626,
+        "word": "DeepSeek崩了",
+        "onboard_time": 1774792228,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130846,
+        "num": 509396,
+        "word": "薛之谦因为下雨退票",
+        "onboard_time": 1774789229,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125613,
+        "num": 509172,
+        "word": "单依纯 舞娘",
+        "onboard_time": 1774778551,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98735,
+        "num": 508915,
+        "word": "伊朗最高领袖感谢伊拉克人民",
+        "onboard_time": 1774827501,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95675,
+        "num": 508797,
+        "word": "时代峰峻否认网传聊天记录",
+        "onboard_time": 1774798168,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82972,
+        "num": 508607,
+        "word": "以色列还能撑多久",
+        "onboard_time": 1774795172,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79478,
+        "num": 508373,
+        "word": "女生举报老师性骚扰失败状告公安机关",
+        "onboard_time": 1774794689,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72828,
+        "num": 508147,
+        "word": "迪丽热巴什么时候原谅现偶",
+        "onboard_time": 1774787008,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69896,
+        "num": 508055,
+        "word": "亚洲3国与伊朗达成协议",
+        "onboard_time": 1774792169,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67213,
+        "num": 507863,
+        "word": "美国对伊朗局势至少出现两个误判",
+        "onboard_time": 1774807037,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64063,
+        "num": 507691,
+        "word": "儿子一家去世老人骑行30年治愈自己",
+        "onboard_time": 1774784728,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62262,
+        "num": 507368,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1774797450,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59912,
+        "num": 507323,
+        "word": "田曦薇拍青天大老爷手势舞",
+        "onboard_time": 1774793550,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59892,
+        "num": 507095,
+        "word": "伊朗向美以进一步摊牌",
+        "onboard_time": 1774790249,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58570,
+        "num": 506932,
+        "word": "胡塞武装为何此时介入美以伊战局",
+        "onboard_time": 1774798228,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56568,
+        "num": 506658,
+        "word": "张凌赫摄影师 撕拉片不是P的",
+        "onboard_time": 1774784668,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103471,
+        "num": 506541,
+        "word": "伊朗称波斯湾鲨鱼正等待美国军人",
+        "onboard_time": 1774827443,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54432,
+        "num": 506390,
+        "word": "越来越多人提前屯机票",
+        "onboard_time": 1774825461,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48310,
+        "num": 506176,
+        "word": "以色列一工业区因伊朗导弹袭击起火",
+        "onboard_time": 1774801883,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46791,
+        "num": 505969,
+        "word": "带状疱疹72小时内一定要做这件事",
+        "onboard_time": 1774779929,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43326,
+        "num": 505770,
+        "word": "美军两栖攻击舰抵达中东",
+        "onboard_time": 1774796490,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42170,
+        "num": 505582,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1774802303,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40769,
+        "num": 505323,
+        "word": "檀健次美甲",
+        "onboard_time": 1774790069,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38980,
+        "num": 505233,
+        "word": "雀巢12吨巧克力被盗",
+        "onboard_time": 1774770688,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38646,
+        "num": 504996,
+        "word": "伊朗公布击毁美军E3预警机卫星图",
+        "onboard_time": 1774784787,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37046,
+        "num": 504768,
+        "word": "最严重石油危机会出现吗",
+        "onboard_time": 1774827501,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33933,
+        "num": 504684,
+        "word": "孙颖莎演我被老师留堂",
+        "onboard_time": 1774804519,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32630,
+        "num": 504390,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1774778247,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30701,
+        "num": 504295,
+        "word": "孙颖莎瘦了",
+        "onboard_time": 1774782686,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31844,
+        "num": 504003,
+        "word": "白日提灯",
+        "onboard_time": 1774778967,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30427,
+        "num": 503914,
+        "word": "美E3预警机在沙特基地遭袭受损",
+        "onboard_time": 1774826361,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29006,
+        "num": 503660,
+        "word": "狼队让三追四",
+        "onboard_time": 1774794689,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27943,
+        "num": 503458,
+        "word": "伊发动第86波攻势",
+        "onboard_time": 1774803441,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26812,
+        "num": 503205,
+        "word": "DOTA2",
+        "onboard_time": 1774802362,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23928,
+        "num": 503007,
+        "word": "檀健次超级巅峰之夜人气",
+        "onboard_time": 1774806918,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22548,
+        "num": 502877,
+        "word": "Breathe加入iG",
+        "onboard_time": 1774789827,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络空间是亿万民众共同的精神家园#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774825180955,
+  "endTime": 1774827754215,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -195,7 +195,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 669771,
+      "raw_hot": 689770,
       "num": 655173,
       "word": "薛之谦",
       "onboard_time": 1774799726,
@@ -683,6 +683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 242705,
+      "num": 511669,
+      "word": "伊朗新任最高领袖为何鲜少发声",
+      "onboard_time": 1774825461,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241740,
       "num": 241740,
       "word": "王俊凯蹦迪版心引力",
@@ -697,6 +705,14 @@
       "onboard_time": 1774787608,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237463,
+      "num": 885928,
+      "word": "报告称我国不孕不育夫妇将逐年增加",
+      "onboard_time": 1774799487,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237376,
@@ -936,14 +952,6 @@
       "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
       "onboard_time": 1774776388,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189312,
-      "num": 735332,
-      "word": "报告称我国不孕不育夫妇将逐年增加",
-      "onboard_time": 1774799487,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -1307,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129201,
+      "num": 890968,
+      "word": "九寨沟震后首次实拍到野生大熊猫活体",
+      "onboard_time": 1774791209,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129088,
       "num": 129088,
       "word": "杨臣刚自曝因老鼠爱大米收入1.7亿",
@@ -1611,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106556,
+      "num": 887549,
+      "word": "美国洛杉矶示威现场画面曝光",
+      "onboard_time": 1774795652,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 106410,
       "num": 903720,
       "word": "白鹿入夏ccd",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1774761621,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103471,
+      "num": 506541,
+      "word": "伊朗称波斯湾鲨鱼正等待美国军人",
+      "onboard_time": 1774827443,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103147,
@@ -1723,14 +1755,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 100537,
-      "num": 890968,
-      "word": "九寨沟震后首次实拍到野生大熊猫活体",
-      "onboard_time": 1774791209,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100307,
       "num": 141482,
       "word": "F1",
@@ -1747,8 +1771,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98735,
+      "num": 508915,
+      "word": "伊朗最高领袖感谢伊拉克人民",
+      "onboard_time": 1774827501,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98544,
-      "num": 181698,
+      "num": 507863,
       "word": "美国对伊朗局势至少出现两个误判",
       "onboard_time": 1774807037,
       "rank": 24,
@@ -1961,14 +1993,6 @@
       "onboard_time": 1774787907,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 89216,
-      "num": 887549,
-      "word": "美国洛杉矶示威现场画面曝光",
-      "onboard_time": 1774795652,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 89097,
@@ -2740,7 +2764,7 @@
     },
     {
       "raw_hot": 62764,
-      "num": 473173,
+      "num": 506176,
       "word": "以色列一工业区因伊朗导弹袭击起火",
       "onboard_time": 1774801883,
       "rank": 24,
@@ -2915,6 +2939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54432,
+      "num": 506390,
+      "word": "越来越多人提前屯机票",
+      "onboard_time": 1774825461,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53800,
       "num": 83724,
       "word": "白鹿留洋大小姐造型",
@@ -2948,7 +2980,7 @@
     },
     {
       "raw_hot": 48123,
-      "num": 469663,
+      "num": 503205,
       "word": "DOTA2",
       "onboard_time": 1774802362,
       "rank": 41,
@@ -3052,7 +3084,7 @@
     },
     {
       "raw_hot": 40320,
-      "num": 399815,
+      "num": 503458,
       "word": "伊发动第86波攻势",
       "onboard_time": 1774803441,
       "rank": 38,
@@ -3083,12 +3115,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37046,
+      "num": 504768,
+      "word": "最严重石油危机会出现吗",
+      "onboard_time": 1774827501,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 36837,
       "num": 658446,
       "word": "大国重器密集上新惊喜不断",
       "onboard_time": 1774750219,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33933,
+      "num": 504684,
+      "word": "孙颖莎演我被老师留堂",
+      "onboard_time": 1774804519,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 33401,
@@ -3113,6 +3161,14 @@
       "onboard_time": 1774717098,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 30427,
+      "num": 503914,
+      "word": "美E3预警机在沙特基地遭袭受损",
+      "onboard_time": 1774826361,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27287,
@@ -3155,12 +3211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26101,
-      "num": 240068,
-      "word": "孙颖莎演我被老师留堂",
-      "onboard_time": 1774804519,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 23928,
+      "num": 503007,
+      "word": "檀健次超级巅峰之夜人气",
+      "onboard_time": 1774806918,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 23238,
@@ -3169,14 +3225,6 @@
       "onboard_time": 1774755380,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22787,
-      "num": 180676,
-      "word": "檀健次超级巅峰之夜人气",
-      "onboard_time": 1774806918,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 22158,
@@ -3291,20 +3339,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13192,
+      "num": 576541,
+      "word": "神21乘组在轨vlog又上新了",
+      "onboard_time": 1774786287,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13146,
       "num": 20233,
       "word": "鞠婧祎唱的雨爱",
       "onboard_time": 1774731975,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12149,
-      "num": 576541,
-      "word": "神21乘组在轨vlog又上新了",
-      "onboard_time": 1774786287,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11577,
