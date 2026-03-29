@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774796480023,
+  "endTime": 1774798861067,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 910103,
+      "num": 910103,
+      "word": "时代峰峻否认网传聊天记录",
+      "onboard_time": 1774798168,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 809557,
       "num": 156061,
       "word": "曝女顶流被公司索赔3亿解约费",
@@ -193,6 +201,14 @@
       "onboard_time": 1774741098,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 641752,
+      "num": 976155,
+      "word": "D3665列车乘客称多人疑似晕厥",
+      "onboard_time": 1774794754,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 579289,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 482426,
-      "num": 809860,
+      "num": 892731,
       "word": "田曦薇拍青天大老爷手势舞",
       "onboard_time": 1774793550,
       "rank": 20,
@@ -403,14 +419,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 337117,
-      "num": 804232,
-      "word": "D3665列车乘客称多人疑似晕厥",
-      "onboard_time": 1774794754,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332040,
       "num": 1053126,
       "word": "中国将在长江水下开高铁",
@@ -513,6 +521,14 @@
       "onboard_time": 1774743200,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277267,
+      "num": 1000732,
+      "word": "逐玉",
+      "onboard_time": 1774792888,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 275665,
@@ -1035,12 +1051,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162655,
+      "num": 889780,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1774797450,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160982,
       "num": 160982,
       "word": "原来老辈子的不是不理解二次元",
       "onboard_time": 1774746321,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 159765,
+      "num": 967078,
+      "word": "以色列还能撑多久",
+      "onboard_time": 1774795172,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156236,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1774754779,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144756,
-      "num": 1000732,
-      "word": "逐玉",
-      "onboard_time": 1774792888,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 143958,
@@ -1315,14 +1339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119574,
-      "num": 806909,
-      "word": "以色列还能撑多久",
-      "onboard_time": 1774795172,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 119247,
       "num": 923887,
       "word": "狼队 小胖",
@@ -1500,7 +1516,7 @@
     },
     {
       "raw_hot": 108342,
-      "num": 803087,
+      "num": 883291,
       "word": "iG官宣Helper加入",
       "onboard_time": 1774796190,
       "rank": 32,
@@ -1579,12 +1595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105163,
+      "num": 889267,
+      "word": "KPL十年第四次让三追四",
+      "onboard_time": 1774797389,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104840,
       "num": 104840,
       "word": "许嵩第九张专辑 盛夏见",
       "onboard_time": 1774761621,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103694,
+      "num": 895618,
+      "word": "张雪机车夺冠",
+      "onboard_time": 1774797931,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 103147,
@@ -1684,7 +1716,7 @@
     },
     {
       "raw_hot": 98075,
-      "num": 802704,
+      "num": 886956,
       "word": "至少要上三年班才会变成会上班的人",
       "onboard_time": 1774796372,
       "rank": 33,
@@ -1844,7 +1876,7 @@
     },
     {
       "raw_hot": 90648,
-      "num": 799944,
+      "num": 890569,
       "word": "女生举报老师性骚扰失败状告公安机关",
       "onboard_time": 1774794689,
       "rank": 19,
@@ -2116,7 +2148,7 @@
     },
     {
       "raw_hot": 81622,
-      "num": 350902,
+      "num": 881850,
       "word": "Gumayusi学习Bin语从句",
       "onboard_time": 1774795233,
       "rank": 49,
@@ -2179,6 +2211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79991,
+      "num": 889069,
+      "word": "胡塞武装为何此时介入美以伊战局",
+      "onboard_time": 1774798228,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 79840,
+      "num": 888538,
+      "word": "汪苏泷巡演",
+      "onboard_time": 1774797150,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 79283,
       "num": 79283,
       "word": "虞书欣签售",
@@ -2204,7 +2252,7 @@
     },
     {
       "raw_hot": 78629,
-      "num": 793743,
+      "num": 885062,
       "word": "日本网吧弃尸案",
       "onboard_time": 1774793550,
       "rank": 48,
@@ -2249,6 +2297,14 @@
       "onboard_time": 1774754421,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77673,
+      "num": 887549,
+      "word": "美国洛杉矶示威现场画面曝光",
+      "onboard_time": 1774795652,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 77220,
@@ -2305,6 +2361,14 @@
       "onboard_time": 1774755380,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 74691,
+      "num": 886154,
+      "word": "美军两栖攻击舰抵达中东",
+      "onboard_time": 1774796490,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74660,
@@ -2755,6 +2819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56867,
+      "num": 881373,
+      "word": "奥运冠军陈梦宁波开俱乐部",
+      "onboard_time": 1774798827,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55060,
       "num": 146668,
       "word": "黑龙江坍塌楼房附近居民发声",
@@ -2897,6 +2969,14 @@
       "onboard_time": 1774741217,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39497,
+      "num": 894524,
+      "word": "车企已卷至日供29元",
+      "onboard_time": 1774798290,
+      "rank": 19,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 39246,
