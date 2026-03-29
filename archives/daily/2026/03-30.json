@@ -1,6 +1,6 @@
 {
   "startTime": 1774802686576,
-  "endTime": 1774824026917,
+  "endTime": 1774825180955,
   "band_list": [
     {
       "raw_hot": 3402384,
@@ -59,20 +59,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205015,
+      "num": 569758,
+      "word": "美海军第五舰队设施遭精准打击",
+      "onboard_time": 1774800623,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 189312,
+      "num": 689778,
+      "word": "报告称我国不孕不育夫妇将逐年增加",
+      "onboard_time": 1774799487,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183087,
       "num": 474235,
       "word": "张凌赫摄影师 撕拉片不是P的",
       "onboard_time": 1774784668,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177139,
-      "num": 689778,
-      "word": "报告称我国不孕不育夫妇将逐年增加",
-      "onboard_time": 1774799487,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168146,
@@ -83,14 +91,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158210,
-      "num": 514358,
-      "word": "美海军第五舰队设施遭精准打击",
-      "onboard_time": 1774800623,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 145767,
       "num": 690267,
       "word": "张雪机车夺冠",
@@ -99,8 +99,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120346,
-      "num": 473018,
+      "raw_hot": 143347,
+      "num": 677756,
+      "word": "凌晨3点孩子等家长睡熟偷平板玩",
+      "onboard_time": 1774787247,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135843,
+      "num": 559197,
       "word": "伊朗反向威胁美方",
       "onboard_time": 1774802483,
       "rank": 25,
@@ -113,14 +121,6 @@
       "onboard_time": 1774790608,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 118468,
-      "num": 677756,
-      "word": "凌晨3点孩子等家长睡熟偷平板玩",
-      "onboard_time": 1774787247,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113468,
@@ -163,12 +163,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 98544,
+      "num": 181698,
+      "word": "美国对伊朗局势至少出现两个误判",
+      "onboard_time": 1774807037,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89742,
       "num": 477521,
       "word": "迪丽热巴什么时候原谅现偶",
       "onboard_time": 1774787008,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89216,
+      "num": 552185,
+      "word": "美国洛杉矶示威现场画面曝光",
+      "onboard_time": 1774795652,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 81558,
+      "num": 540695,
+      "word": "九寨沟震后首次实拍到野生大熊猫活体",
+      "onboard_time": 1774791209,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80205,
@@ -180,19 +204,11 @@
     },
     {
       "raw_hot": 79599,
-      "num": 470741,
+      "num": 532266,
       "word": "蔡依林演唱会",
       "onboard_time": 1774802303,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 77593,
-      "num": 181698,
-      "word": "美国对伊朗局势至少出现两个误判",
-      "onboard_time": 1774807037,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 76481,
@@ -219,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64733,
-      "num": 468414,
-      "word": "美国洛杉矶示威现场画面曝光",
-      "onboard_time": 1774795652,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 62764,
       "num": 473173,
       "word": "以色列一工业区因伊朗导弹袭击起火",
@@ -251,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56015,
+      "num": 472447,
+      "word": "儿子一家去世老人骑行30年治愈自己",
+      "onboard_time": 1774784728,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54641,
       "num": 471734,
       "word": "汪苏泷巡演",
@@ -265,14 +281,6 @@
       "onboard_time": 1774785866,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54086,
-      "num": 472210,
-      "word": "九寨沟震后首次实拍到野生大熊猫活体",
-      "onboard_time": 1774791209,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52585,
@@ -305,14 +313,6 @@
       "onboard_time": 1774778967,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49800,
-      "num": 472447,
-      "word": "儿子一家去世老人骑行30年治愈自己",
-      "onboard_time": 1774784728,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49504,
@@ -411,7 +411,15 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 25499,
+      "raw_hot": 26327,
+      "num": 166151,
+      "word": "伊朗公布击毁美军E3预警机卫星图",
+      "onboard_time": 1774784787,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 26101,
       "num": 240068,
       "word": "孙颖莎演我被老师留堂",
       "onboard_time": 1774804519,
@@ -427,27 +435,19 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 22881,
-      "num": 113503,
-      "word": "伊朗公布击毁美军E3预警机卫星图",
-      "onboard_time": 1774784787,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 20459,
-      "num": 180795,
-      "word": "刘宇宁玫瑰骑士",
-      "onboard_time": 1774793129,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 19343,
+      "raw_hot": 22787,
       "num": 180676,
       "word": "檀健次超级巅峰之夜人气",
       "onboard_time": 1774806918,
       "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 22504,
+      "num": 180795,
+      "word": "刘宇宁玫瑰骑士",
+      "onboard_time": 1774793129,
+      "rank": 45,
       "category": "演出"
     },
     {
@@ -460,31 +460,31 @@
     },
     {
       "raw_hot": 15413,
-      "num": 85541,
+      "num": 166071,
       "word": "周深巅峰之夜舞台",
       "onboard_time": 1774810395,
       "rank": 48,
       "category": "演出"
     },
     {
-      "raw_hot": 14285,
-      "num": 112314,
-      "word": "QQ音乐巅峰之夜",
-      "onboard_time": 1774814054,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 13175,
-      "num": 111944,
+      "raw_hot": 14960,
+      "num": 166084,
       "word": "QQ音乐巅峰盛典",
       "onboard_time": 1774818794,
       "rank": 43,
       "category": "演出"
     },
     {
-      "raw_hot": 9117,
-      "num": 449491,
+      "raw_hot": 14649,
+      "num": 166075,
+      "word": "QQ音乐巅峰之夜",
+      "onboard_time": 1774814054,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 12149,
+      "num": 576541,
       "word": "神21乘组在轨vlog又上新了",
       "onboard_time": 1774786287,
       "rank": 2,
