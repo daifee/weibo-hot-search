@@ -1,0 +1,410 @@
+{
+  "runTime": 1774789866016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 545043,
+        "num": 1087206,
+        "word": "D3665列车被困隧道3小时",
+        "onboard_time": 1774785207,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291440,
+        "num": 793850,
+        "word": "雀巢12吨巧克力被盗",
+        "onboard_time": 1774770688,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27287,
+        "num": 650012,
+        "word": "数据感知中国经济活力满满",
+        "onboard_time": 1774786528,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1364146,
+        "num": 645055,
+        "word": "薛之谦因为下雨退票",
+        "onboard_time": 1774789229,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259005,
+        "num": 638026,
+        "word": "儿子一家去世老人骑行30年治愈自己",
+        "onboard_time": 1774784728,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211269,
+        "num": 629129,
+        "word": "凌晨3点孩子等家长睡熟偷平板玩",
+        "onboard_time": 1774787247,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198085,
+        "num": 619371,
+        "word": "伊朗公布击毁美军E3预警机卫星图",
+        "onboard_time": 1774784787,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193365,
+        "num": 607906,
+        "word": "很多食物都是面朝下更好吃",
+        "onboard_time": 1774774710,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 766811,
+        "num": 605315,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1774777767,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189288,
+        "num": 594424,
+        "word": "蔡磊感觉最对不起的就是妻子",
+        "onboard_time": 1774788806,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9255303,
+        "num": 9255303,
+        "word": "李荣浩4连质问单依纯",
+        "onboard_time": 1774774650,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 579289,
+        "num": 579289,
+        "word": "张凌赫摄影师 撕拉片不是P的",
+        "onboard_time": 1774784668,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174663,
+        "num": 578913,
+        "word": "狼队对战KSG",
+        "onboard_time": 1774781848,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 345511,
+        "num": 578727,
+        "word": "严浩翔分享歌曲",
+        "onboard_time": 1774774710,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298214,
+        "num": 578187,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1774778247,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165528,
+        "num": 578138,
+        "word": "12306回应D3665列车停电被困隧道",
+        "onboard_time": 1774786169,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 868548,
+        "num": 577645,
+        "word": "单依纯 舞娘",
+        "onboard_time": 1774778551,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239593,
+        "num": 577288,
+        "word": "田曦薇直播",
+        "onboard_time": 1774787608,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156216,
+        "num": 576704,
+        "word": "鸭嘴钳是无数女性做检查时的噩梦",
+        "onboard_time": 1774774650,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145259,
+        "num": 576362,
+        "word": "氯雷他定",
+        "onboard_time": 1774758740,
+        "rank": 19,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 227280,
+        "num": 576048,
+        "word": "儿子蛇缠腰父亲涂抹符水圈住疱疹",
+        "onboard_time": 1774771050,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209362,
+        "num": 575582,
+        "word": "北京偶遇宋亚轩贺峻霖",
+        "onboard_time": 1774785866,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195381,
+        "num": 575158,
+        "word": "对粉底液将军反感是上纲上线吗",
+        "onboard_time": 1774784308,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159715,
+        "num": 575004,
+        "word": "孙颖莎瘦了",
+        "onboard_time": 1774782686,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193424,
+        "num": 574559,
+        "word": "迪丽热巴什么时候原谅现偶",
+        "onboard_time": 1774787008,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172071,
+        "num": 574111,
+        "word": "李莎旻子救场",
+        "onboard_time": 1774788088,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141950,
+        "num": 573795,
+        "word": "带状疱疹72小时内一定要做这件事",
+        "onboard_time": 1774779929,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138441,
+        "num": 573374,
+        "word": "邪恶砂糖橘 窝囊西红柿",
+        "onboard_time": 1774783767,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129537,
+        "num": 573074,
+        "word": "郝蕾说的是谁好难猜啊",
+        "onboard_time": 1774774232,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99670,
+        "num": 572831,
+        "word": "内存条价格出现断崖式下跌",
+        "onboard_time": 1774776509,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132378,
+        "num": 572345,
+        "word": "白日提灯",
+        "onboard_time": 1774778967,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119131,
+        "num": 572048,
+        "word": "张远谈徐良演唱会发校服",
+        "onboard_time": 1774787788,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97975,
+        "num": 571409,
+        "word": "伊朗说美方唯一能听懂的就是武力",
+        "onboard_time": 1774786169,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114277,
+        "num": 571030,
+        "word": "汪峰演唱会",
+        "onboard_time": 1774775849,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106410,
+        "num": 570785,
+        "word": "白鹿入夏ccd",
+        "onboard_time": 1774788328,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95827,
+        "num": 570487,
+        "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
+        "onboard_time": 1774776388,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94946,
+        "num": 569868,
+        "word": "狼队 小胖",
+        "onboard_time": 1774788387,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93025,
+        "num": 569667,
+        "word": "小猫出来那一刻自己也懵了",
+        "onboard_time": 1774787008,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91881,
+        "num": 569308,
+        "word": "美军战斧导弹消耗速度震惊五角大楼",
+        "onboard_time": 1774776449,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89403,
+        "num": 569048,
+        "word": "内存条价格下跌原因",
+        "onboard_time": 1774787907,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88939,
+        "num": 568599,
+        "word": "NCT哭了",
+        "onboard_time": 1774779089,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88412,
+        "num": 567950,
+        "word": "仙逆",
+        "onboard_time": 1774780469,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 80576,
+        "num": 567790,
+        "word": "李昀锐古力娜扎活动同框",
+        "onboard_time": 1774788749,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80360,
+        "num": 567192,
+        "word": "万千惠来给浪姐省钱了",
+        "onboard_time": 1774789347,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75134,
+        "num": 566882,
+        "word": "狼队状态",
+        "onboard_time": 1774787968,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73389,
+        "num": 566618,
+        "word": "曝T1冠军皮肤",
+        "onboard_time": 1774787307,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73374,
+        "num": 566119,
+        "word": "四个动作让膝盖产生润滑液",
+        "onboard_time": 1774787549,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70187,
+        "num": 565908,
+        "word": "Breathe加入iG",
+        "onboard_time": 1774789827,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68668,
+        "num": 565354,
+        "word": "女子酒后打车18元错付成1.8万",
+        "onboard_time": 1774786826,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67150,
+        "num": 564963,
+        "word": "申请国赔被叫停女子回应官方通报",
+        "onboard_time": 1774787608,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#网络空间是亿万民众共同的精神家园#"
+    }
+  }
+}
