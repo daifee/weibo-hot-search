@@ -1,0 +1,410 @@
+{
+  "runTime": 1774768508945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1054345,
+        "num": 3000000,
+        "word": "氯雷他定",
+        "onboard_time": 1774758740,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 487008,
+        "num": 2149032,
+        "word": "奈雪的茶没人喝了",
+        "onboard_time": 1774763301,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9519,
+        "num": 1670704,
+        "word": "世界最大直径高铁盾构机上岸",
+        "onboard_time": 1774768469,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24486995,
+        "num": 24486995,
+        "word": "李荣浩 单依纯强行侵权",
+        "onboard_time": 1774767022,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392899,
+        "num": 392899,
+        "word": "李白",
+        "onboard_time": 1774768047,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310246,
+        "num": 310246,
+        "word": "阿那亚海市蜃楼",
+        "onboard_time": 1774764080,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377359,
+        "num": 309575,
+        "word": "李荣浩 单依纯你是来报仇的",
+        "onboard_time": 1774768047,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 5324,
+        "num": 262239,
+        "word": "2026中国网络媒体论坛",
+        "onboard_time": 1774536983,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239360,
+        "num": 239360,
+        "word": "日本抗议者高喊中国对不起",
+        "onboard_time": 1774759701,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95054,
+        "num": 223362,
+        "word": "安东内利夺得F1日本站冠军",
+        "onboard_time": 1774767928,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400787,
+        "num": 223317,
+        "word": "郑晓龙拍了女演员被潜规则",
+        "onboard_time": 1774766240,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346177,
+        "num": 222723,
+        "word": "谢娜在张杰演唱会亲了秦岚杜华",
+        "onboard_time": 1774767082,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221794,
+        "num": 221794,
+        "word": "日本人强闯我使馆事件最新进展",
+        "onboard_time": 1774765463,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264529,
+        "num": 219149,
+        "word": "德国版射雕预告好燃好震撼",
+        "onboard_time": 1774759881,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261703,
+        "num": 216108,
+        "word": "奔跑吧海口直播",
+        "onboard_time": 1774768226,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211248,
+        "num": 211248,
+        "word": "氯雷他定和西替利嗪的区别",
+        "onboard_time": 1774766721,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236979,
+        "num": 208384,
+        "word": "白日提灯爆剧",
+        "onboard_time": 1774767203,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160871,
+        "num": 160871,
+        "word": "美国全国爆发反对特朗普政府集会",
+        "onboard_time": 1774754300,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147047,
+        "num": 147047,
+        "word": "长期不吃主食身体的8个变化",
+        "onboard_time": 1774754779,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19601,
+        "num": 146870,
+        "word": "商户称坍塌建筑楼下火锅楼上KTV",
+        "onboard_time": 1774767624,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84561,
+        "num": 146257,
+        "word": "美国1天超3000场反战示威",
+        "onboard_time": 1774767203,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 720310,
+        "num": 146151,
+        "word": "陈牧驰回应与吴楚一相关争议",
+        "onboard_time": 1774765521,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232435,
+        "num": 145301,
+        "word": "曾辉亲韩雨彤的脸",
+        "onboard_time": 1774765521,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131151,
+        "num": 145275,
+        "word": "不是正剧就不用较真粉底液将军吗",
+        "onboard_time": 1774763121,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190602,
+        "num": 144547,
+        "word": "奔跑吧",
+        "onboard_time": 1774764321,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182137,
+        "num": 144361,
+        "word": "才发现王一博上的全英课",
+        "onboard_time": 1774760541,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105931,
+        "num": 143804,
+        "word": "夫妻房产留给长子长孙遭两女儿反对",
+        "onboard_time": 1774758081,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176247,
+        "num": 143223,
+        "word": "林子烨像张凌赫生的",
+        "onboard_time": 1774761801,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150857,
+        "num": 142841,
+        "word": "张奕然参加艺考",
+        "onboard_time": 1774767747,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104380,
+        "num": 142356,
+        "word": "女子半年没回家卧室开窗变邻居阳台",
+        "onboard_time": 1774741758,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150057,
+        "num": 142089,
+        "word": "陈牧驰晒还钱截图",
+        "onboard_time": 1774767322,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141750,
+        "num": 141750,
+        "word": "曝女顶流被公司索赔3亿解约费",
+        "onboard_time": 1774750040,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100307,
+        "num": 141482,
+        "word": "F1",
+        "onboard_time": 1774767624,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141406,
+        "num": 141406,
+        "word": "逐玉 庆功宴",
+        "onboard_time": 1774751660,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130681,
+        "num": 130681,
+        "word": "QQ音乐 虞书欣",
+        "onboard_time": 1774761562,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59917,
+        "num": 118387,
+        "word": "美以袭击邻近霍尔木兹海峡伊朗码头",
+        "onboard_time": 1774768410,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96845,
+        "num": 112004,
+        "word": "全红婵19岁发文",
+        "onboard_time": 1774766181,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108372,
+        "num": 108372,
+        "word": "刘涛郝蕾说的是谁",
+        "onboard_time": 1774765581,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107765,
+        "num": 107765,
+        "word": "杨紫说自己来乘风是拆台的",
+        "onboard_time": 1774754001,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89859,
+        "num": 105814,
+        "word": "俄罗斯警告韩国",
+        "onboard_time": 1774762941,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105696,
+        "num": 105696,
+        "word": "张震岳收藏吐槽周杰伦的文章",
+        "onboard_time": 1774762102,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104840,
+        "num": 104840,
+        "word": "许嵩第九张专辑 盛夏见",
+        "onboard_time": 1774761621,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86037,
+        "num": 103319,
+        "word": "洛杉矶10万人抗议多人被捕",
+        "onboard_time": 1774762820,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103147,
+        "num": 103147,
+        "word": "张凌赫说外界建议会听但不会被左右",
+        "onboard_time": 1774767022,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80499,
+        "num": 95806,
+        "word": "孩子凌晨被抢没想到邻居参与了",
+        "onboard_time": 1774759281,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 92377,
+        "num": 92377,
+        "word": "如何呢 又能怎",
+        "onboard_time": 1774768469,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86789,
+        "num": 86789,
+        "word": "秦岚回应花少与客栈哪个更快乐",
+        "onboard_time": 1774761262,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125316,
+        "num": 85696,
+        "word": "单依纯光波现场直拍",
+        "onboard_time": 1774767263,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81334,
+        "num": 81334,
+        "word": "浙江人的老式早餐",
+        "onboard_time": 1774765101,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81530,
+        "num": 80871,
+        "word": "全职高手致歉",
+        "onboard_time": 1774760121,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记寄语雄安高质量发展#"
+    }
+  }
+}

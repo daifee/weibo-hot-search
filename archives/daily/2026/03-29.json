@@ -1,7 +1,15 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774763950131,
+  "endTime": 1774768508945,
   "band_list": [
+    {
+      "raw_hot": 24486995,
+      "num": 24486995,
+      "word": "李荣浩 单依纯强行侵权",
+      "onboard_time": 1774767022,
+      "rank": 3,
+      "category": "音乐"
+    },
     {
       "raw_hot": 1789667,
       "num": 1789667,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1186471,
-      "num": 144746,
+      "num": 3000000,
       "word": "氯雷他定",
       "onboard_time": 1774758740,
       "rank": 10,
@@ -51,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 720310,
+      "num": 146151,
+      "word": "陈牧驰回应与吴楚一相关争议",
+      "onboard_time": 1774765521,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660894,
       "num": 542167,
       "word": "删除汪苏泷名字让徐良又生气又煎熬",
@@ -81,6 +97,14 @@
       "onboard_time": 1774701862,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 487008,
+      "num": 2149032,
+      "word": "奈雪的茶没人喝了",
+      "onboard_time": 1774763301,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 468930,
@@ -131,12 +155,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400787,
+      "num": 223317,
+      "word": "郑晓龙拍了女演员被潜规则",
+      "onboard_time": 1774766240,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 392899,
+      "num": 392899,
+      "word": "李白",
+      "onboard_time": 1774768047,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 384818,
       "num": 1061570,
       "word": "日本抗议者高喊中国对不起",
       "onboard_time": 1774759701,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 377359,
+      "num": 309575,
+      "word": "李荣浩 单依纯你是来报仇的",
+      "onboard_time": 1774768047,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 361285,
@@ -155,6 +203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 346177,
+      "num": 222723,
+      "word": "谢娜在张杰演唱会亲了秦岚杜华",
+      "onboard_time": 1774767082,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327865,
       "num": 726225,
       "word": "太原火灾近距离目击者直呼好害怕",
@@ -163,8 +219,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310246,
+      "num": 310246,
+      "word": "阿那亚海市蜃楼",
+      "onboard_time": 1774764080,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306990,
-      "num": 136697,
+      "num": 143223,
       "word": "林子烨像张凌赫生的",
       "onboard_time": 1774761801,
       "rank": 12,
@@ -212,7 +276,7 @@
     },
     {
       "raw_hot": 275665,
-      "num": 123532,
+      "num": 130681,
       "word": "QQ音乐 虞书欣",
       "onboard_time": 1774761562,
       "rank": 49,
@@ -252,11 +316,19 @@
     },
     {
       "raw_hot": 262056,
-      "num": 143405,
+      "num": 144361,
       "word": "才发现王一博上的全英课",
       "onboard_time": 1774760541,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261703,
+      "num": 216108,
+      "word": "奔跑吧海口直播",
+      "onboard_time": 1774768226,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 250445,
@@ -291,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236979,
+      "num": 208384,
+      "word": "白日提灯爆剧",
+      "onboard_time": 1774767203,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236515,
       "num": 236515,
       "word": "美国1000人包围政府机构大楼",
@@ -299,12 +379,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 232435,
+      "num": 145301,
+      "word": "曾辉亲韩雨彤的脸",
+      "onboard_time": 1774765521,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222229,
       "num": 188127,
       "word": "迪丽热巴有高度近视",
       "onboard_time": 1774710682,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221794,
+      "num": 221794,
+      "word": "日本人强闯我使馆事件最新进展",
+      "onboard_time": 1774765463,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 220115,
@@ -337,6 +433,14 @@
       "onboard_time": 1774707203,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211248,
+      "num": 211248,
+      "word": "氯雷他定和西替利嗪的区别",
+      "onboard_time": 1774766721,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 205454,
@@ -384,6 +488,14 @@
       "word": "21年了叶一茜选歌风格还这样",
       "onboard_time": 1774758501,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190602,
+      "num": 144547,
+      "word": "奔跑吧",
+      "onboard_time": 1774764321,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -483,6 +595,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 150857,
+      "num": 142841,
+      "word": "张奕然参加艺考",
+      "onboard_time": 1774767747,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 150057,
+      "num": 142089,
+      "word": "陈牧驰晒还钱截图",
+      "onboard_time": 1774767322,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145995,
       "num": 143401,
       "word": "李维嘉和何老师吵架的原因",
@@ -547,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131151,
+      "num": 145275,
+      "word": "不是正剧就不用较真粉底液将军吗",
+      "onboard_time": 1774763121,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130235,
       "num": 110174,
       "word": "关于香港的冷知识",
@@ -560,14 +696,6 @@
       "word": "男子一想抽烟就买彩票中了701万",
       "onboard_time": 1774752200,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129446,
-      "num": 129446,
-      "word": "奈雪的茶没人喝了",
-      "onboard_time": 1774763301,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -593,6 +721,14 @@
       "onboard_time": 1774761080,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 125316,
+      "num": 85696,
+      "word": "单依纯光波现场直拍",
+      "onboard_time": 1774767263,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 117105,
@@ -660,7 +796,7 @@
     },
     {
       "raw_hot": 109352,
-      "num": 100921,
+      "num": 105814,
       "word": "俄罗斯警告韩国",
       "onboard_time": 1774762941,
       "rank": 30,
@@ -673,6 +809,14 @@
       "onboard_time": 1774749079,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 108372,
+      "num": 108372,
+      "word": "刘涛郝蕾说的是谁",
+      "onboard_time": 1774765581,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 107994,
@@ -707,28 +851,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102806,
-      "num": 102806,
-      "word": "长玉路呢路呢 谢征嘴呢嘴呢",
-      "onboard_time": 1774744761,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 102168,
-      "num": 102168,
+      "raw_hot": 104840,
+      "num": 104840,
       "word": "许嵩第九张专辑 盛夏见",
       "onboard_time": 1774761621,
       "rank": 48,
       "category": "音乐"
     },
     {
-      "raw_hot": 101034,
-      "num": 101034,
-      "word": "不是正剧就不用较真粉底液将军吗",
-      "onboard_time": 1774763121,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 103147,
+      "num": 103147,
+      "word": "张凌赫说外界建议会听但不会被左右",
+      "onboard_time": 1774767022,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102806,
+      "num": 102806,
+      "word": "长玉路呢路呢 谢征嘴呢嘴呢",
+      "onboard_time": 1774744761,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 100910,
@@ -747,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100307,
+      "num": 141482,
+      "word": "F1",
+      "onboard_time": 1774767624,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99658,
       "num": 99658,
       "word": "愚公生的是你俩山早移走了",
@@ -763,6 +915,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 96845,
+      "num": 112004,
+      "word": "全红婵19岁发文",
+      "onboard_time": 1774766181,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95678,
       "num": 95678,
       "word": "张凌赫大一曾分享暗恋细节",
@@ -777,6 +937,14 @@
       "onboard_time": 1774757361,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95054,
+      "num": 223362,
+      "word": "安东内利夺得F1日本站冠军",
+      "onboard_time": 1774767928,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 95039,
@@ -809,6 +977,14 @@
       "onboard_time": 1774714460,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92377,
+      "num": 92377,
+      "word": "如何呢 又能怎",
+      "onboard_time": 1774768469,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 92285,
@@ -852,7 +1028,7 @@
     },
     {
       "raw_hot": 88304,
-      "num": 88304,
+      "num": 103319,
       "word": "洛杉矶10万人抗议多人被捕",
       "onboard_time": 1774762820,
       "rank": 37,
@@ -889,6 +1065,14 @@
       "onboard_time": 1774754840,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84561,
+      "num": 146257,
+      "word": "美国1天超3000场反战示威",
+      "onboard_time": 1774767203,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83740,
@@ -953,6 +1137,14 @@
       "onboard_time": 1774752861,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 81334,
+      "num": 81334,
+      "word": "浙江人的老式早餐",
+      "onboard_time": 1774765101,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 81200,
@@ -1275,6 +1467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 59917,
+      "num": 118387,
+      "word": "美以袭击邻近霍尔木兹海峡伊朗码头",
+      "onboard_time": 1774768410,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58110,
       "num": 71678,
       "word": "JDG对战AG",
@@ -1523,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19601,
+      "num": 146870,
+      "word": "商户称坍塌建筑楼下火锅楼上KTV",
+      "onboard_time": 1774767624,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19143,
       "num": 72607,
       "word": "男子长期被职场PUA抱住医生大哭",
@@ -1563,7 +1771,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5048,
+      "raw_hot": 9519,
+      "num": 1670704,
+      "word": "世界最大直径高铁盾构机上岸",
+      "onboard_time": 1774768469,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5324,
       "num": 586127,
       "word": "2026中国网络媒体论坛",
       "onboard_time": 1774536983,
