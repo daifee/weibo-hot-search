@@ -1,0 +1,410 @@
+{
+  "runTime": 1774778541210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 505085,
+        "num": 1080813,
+        "word": "氯雷他定",
+        "onboard_time": 1774758740,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 334948,
+        "num": 804296,
+        "word": "雀巢12吨巧克力被盗",
+        "onboard_time": 1774770688,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26190,
+        "num": 607788,
+        "word": "世界最大直径高铁盾构机上岸",
+        "onboard_time": 1774768469,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577784,
+        "num": 577784,
+        "word": "汪峰演唱会",
+        "onboard_time": 1774775849,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202225,
+        "num": 316192,
+        "word": "广州冰雹",
+        "onboard_time": 1774770631,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292229,
+        "num": 292229,
+        "word": "郝蕾说的是谁好难猜啊",
+        "onboard_time": 1774774232,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243434,
+        "num": 243434,
+        "word": "很多食物都是面朝下更好吃",
+        "onboard_time": 1774774710,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209270,
+        "num": 209270,
+        "word": "一二线城市兴起周末情侣",
+        "onboard_time": 1774773629,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183414,
+        "num": 183414,
+        "word": "这一秒过火33集",
+        "onboard_time": 1774775909,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175499,
+        "num": 175499,
+        "word": "内存条价格出现断崖式下跌",
+        "onboard_time": 1774776509,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12257451,
+        "num": 12257451,
+        "word": "李荣浩4连质问单依纯",
+        "onboard_time": 1774774650,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 373790,
+        "num": 163861,
+        "word": "鸭嘴钳是无数女性做检查时的噩梦",
+        "onboard_time": 1774774650,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 4434,
+        "num": 160167,
+        "word": "2026中国网络媒体论坛",
+        "onboard_time": 1774536983,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158993,
+        "num": 158993,
+        "word": "美军战斧导弹消耗速度震惊五角大楼",
+        "onboard_time": 1774776449,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28713,
+        "num": 154102,
+        "word": "铂智7上市限时补贴权益价14.78万起",
+        "onboard_time": 1774775010,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152417,
+        "num": 152417,
+        "word": "1米8男子遭家暴称我要离婚",
+        "onboard_time": 1774774830,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134199,
+        "num": 152163,
+        "word": "DDR5内存大降价",
+        "onboard_time": 1774777286,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122299,
+        "num": 150434,
+        "word": "春假",
+        "onboard_time": 1774775849,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121722,
+        "num": 150288,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1774777767,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120691,
+        "num": 148317,
+        "word": "奈雪的茶没人喝了",
+        "onboard_time": 1774763301,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1072330,
+        "num": 147429,
+        "word": "严浩翔分享歌曲",
+        "onboard_time": 1774774710,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294953,
+        "num": 146600,
+        "word": "儿子蛇缠腰父亲涂抹符水圈住疱疹",
+        "onboard_time": 1774771050,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146158,
+        "num": 146158,
+        "word": "迪丽热巴演技",
+        "onboard_time": 1774778247,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131794,
+        "num": 131794,
+        "word": "陈牧驰回应与吴楚一相关争议",
+        "onboard_time": 1774765521,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101490,
+        "num": 130882,
+        "word": "网约车 风琴脚",
+        "onboard_time": 1774773155,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130620,
+        "num": 130620,
+        "word": "张凌赫谈负面评价",
+        "onboard_time": 1774770749,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115833,
+        "num": 127560,
+        "word": "肖战单手飞身上马",
+        "onboard_time": 1774768708,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100192,
+        "num": 126836,
+        "word": "头发像奶油一样化开了",
+        "onboard_time": 1774771229,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98800,
+        "num": 126534,
+        "word": "奶茶店点一杯不够起送",
+        "onboard_time": 1774770149,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126404,
+        "num": 126404,
+        "word": "陈牧驰晒还钱截图",
+        "onboard_time": 1774767322,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174891,
+        "num": 126389,
+        "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
+        "onboard_time": 1774776388,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126348,
+        "num": 126348,
+        "word": "中国石油拟分红457.6亿元",
+        "onboard_time": 1774778428,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99219,
+        "num": 126328,
+        "word": "白日提灯短剧排播",
+        "onboard_time": 1774776090,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80393,
+        "num": 126236,
+        "word": "胡塞伊朗黎巴嫩同步袭击以色列",
+        "onboard_time": 1774768949,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 108783,
+        "num": 126182,
+        "word": "泳池走路 减肥",
+        "onboard_time": 1774777708,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 100735,
+        "num": 126121,
+        "word": "李马克哭了",
+        "onboard_time": 1774778309,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97797,
+        "num": 125984,
+        "word": "70岁四川师傅炒牛肉蒜苔",
+        "onboard_time": 1774778187,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92863,
+        "num": 125951,
+        "word": "白日提灯首日云合",
+        "onboard_time": 1774774591,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90064,
+        "num": 125886,
+        "word": "为什么没人跑去江苏看海",
+        "onboard_time": 1774774830,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 56137,
+        "num": 125768,
+        "word": "德国版射雕预告好燃好震撼",
+        "onboard_time": 1774759881,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87697,
+        "num": 125694,
+        "word": "山东专升本数学",
+        "onboard_time": 1774778491,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 80766,
+        "num": 125670,
+        "word": "越来越多年轻人谈起了在线式恋爱",
+        "onboard_time": 1774777227,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80131,
+        "num": 125588,
+        "word": "张震岳收藏吐槽周杰伦的文章",
+        "onboard_time": 1774762102,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76541,
+        "num": 125514,
+        "word": "郑晓龙拍了女演员被潜规则",
+        "onboard_time": 1774766240,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75159,
+        "num": 125413,
+        "word": "两少年骑车争执致1人死亡",
+        "onboard_time": 1774772612,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66096,
+        "num": 125344,
+        "word": "原来五哈导演并非不爱请女嘉宾",
+        "onboard_time": 1774770149,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64334,
+        "num": 125268,
+        "word": "日本抗议者高喊中国对不起",
+        "onboard_time": 1774759701,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62886,
+        "num": 125208,
+        "word": "浪姐7唯一双金影后",
+        "onboard_time": 1774768949,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61309,
+        "num": 125091,
+        "word": "爱情是对母爱的拙劣模仿",
+        "onboard_time": 1774778491,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60572,
+        "num": 125001,
+        "word": "白鹿说张真源撕名牌变强了",
+        "onboard_time": 1774778491,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记多次强调实干的重要性#"
+    }
+  }
+}

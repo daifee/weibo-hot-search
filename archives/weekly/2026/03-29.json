@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774777655697,
+  "endTime": 1774778541210,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -19,8 +19,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 10876896,
-      "num": 10876896,
+      "raw_hot": 12257451,
+      "num": 12257451,
       "word": "李荣浩4连质问单依纯",
       "onboard_time": 1774774650,
       "rank": 10,
@@ -147,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 577784,
+      "num": 577784,
+      "word": "汪峰演唱会",
+      "onboard_time": 1774775849,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 548188,
       "num": 194427,
       "word": "站姐愚人节团建预告",
@@ -227,14 +235,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 411377,
-      "num": 411377,
-      "word": "汪峰演唱会",
-      "onboard_time": 1774775849,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 409497,
       "num": 1024286,
       "word": "世上顶好顶好的老太婆走了",
@@ -267,19 +267,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 373790,
+      "num": 356368,
+      "word": "鸭嘴钳是无数女性做检查时的噩梦",
+      "onboard_time": 1774774650,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 361285,
       "num": 235173,
       "word": "长期不吃主食身体的8个变化",
       "onboard_time": 1774754779,
       "rank": 13,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 356368,
-      "num": 356368,
-      "word": "鸭嘴钳是无数女性做检查时的噩梦",
-      "onboard_time": 1774774650,
-      "rank": 12,
       "category": "健康医疗"
     },
     {
@@ -297,6 +297,14 @@
       "onboard_time": 1774739117,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 334948,
+      "num": 1709455,
+      "word": "雀巢12吨巧克力被盗",
+      "onboard_time": 1774770688,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 327865,
@@ -329,6 +337,14 @@
       "onboard_time": 1774751721,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 292229,
+      "num": 292229,
+      "word": "郝蕾说的是谁好难猜啊",
+      "onboard_time": 1774774232,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 291335,
@@ -385,14 +401,6 @@
       "onboard_time": 1774713202,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269992,
-      "num": 269992,
-      "word": "郝蕾说的是谁好难猜啊",
-      "onboard_time": 1774774232,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 269791,
@@ -475,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247577,
-      "num": 1709455,
-      "word": "雀巢12吨巧克力被盗",
-      "onboard_time": 1774770688,
-      "rank": 7,
-      "category": "海外新闻"
+      "raw_hot": 243434,
+      "num": 390956,
+      "word": "很多食物都是面朝下更好吃",
+      "onboard_time": 1774774710,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 241740,
@@ -561,14 +569,6 @@
       "onboard_time": 1774713562,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 213655,
-      "num": 390956,
-      "word": "很多食物都是面朝下更好吃",
-      "onboard_time": 1774774710,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 213365,
@@ -675,8 +675,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183414,
+      "num": 381130,
+      "word": "这一秒过火33集",
+      "onboard_time": 1774775909,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180705,
-      "num": 115291,
+      "num": 125588,
       "word": "张震岳收藏吐槽周杰伦的文章",
       "onboard_time": 1774762102,
       "rank": 23,
@@ -707,20 +715,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175499,
+      "num": 261799,
+      "word": "内存条价格出现断崖式下跌",
+      "onboard_time": 1774776509,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 174891,
+      "num": 126389,
+      "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
+      "onboard_time": 1774776388,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173471,
       "num": 173471,
       "word": "原来五哈导演并非不爱请女嘉宾",
       "onboard_time": 1774770149,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171982,
-      "num": 381130,
-      "word": "这一秒过火33集",
-      "onboard_time": 1774775909,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 166466,
@@ -755,6 +771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 158993,
+      "num": 158993,
+      "word": "美军战斧导弹消耗速度震惊五角大楼",
+      "onboard_time": 1774776449,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156236,
       "num": 156236,
       "word": "秦岚回应花少与客栈哪个更快乐",
@@ -771,6 +795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152417,
+      "num": 232798,
+      "word": "1米8男子遭家暴称我要离婚",
+      "onboard_time": 1774774830,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151379,
       "num": 801534,
       "word": "官方通报申请国家赔偿被中止办理",
@@ -780,18 +812,10 @@
     },
     {
       "raw_hot": 150643,
-      "num": 99792,
+      "num": 152163,
       "word": "DDR5内存大降价",
       "onboard_time": 1774777286,
       "rank": 30,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 150546,
-      "num": 261799,
-      "word": "内存条价格出现断崖式下跌",
-      "onboard_time": 1774776509,
-      "rank": 13,
       "category": "数码"
     },
     {
@@ -801,6 +825,14 @@
       "onboard_time": 1774771229,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146158,
+      "num": 146158,
+      "word": "迪丽热巴演技",
+      "onboard_time": 1774778247,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 145995,
@@ -875,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134065,
-      "num": 232798,
-      "word": "1米8男子遭家暴称我要离婚",
-      "onboard_time": 1774774830,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132488,
       "num": 105375,
       "word": "严浩翔上线",
@@ -931,6 +955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126348,
+      "num": 126348,
+      "word": "中国石油拟分红457.6亿元",
+      "onboard_time": 1774778428,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126064,
       "num": 126064,
       "word": "事业编B类",
@@ -945,6 +977,14 @@
       "onboard_time": 1774767263,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121722,
+      "num": 150288,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1774777767,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 117105,
@@ -1004,7 +1044,7 @@
     },
     {
       "raw_hot": 112571,
-      "num": 99121,
+      "num": 125670,
       "word": "越来越多年轻人谈起了在线式恋爱",
       "onboard_time": 1774777227,
       "rank": 31,
@@ -1051,12 +1091,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 108452,
-      "num": 108452,
-      "word": "美军战斧导弹消耗速度震惊五角大楼",
-      "onboard_time": 1774776449,
-      "rank": 25,
-      "category": "国际时政"
+      "raw_hot": 108783,
+      "num": 126182,
+      "word": "泳池走路 减肥",
+      "onboard_time": 1774777708,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 108372,
@@ -1084,7 +1124,7 @@
     },
     {
       "raw_hot": 106961,
-      "num": 106961,
+      "num": 125951,
       "word": "白日提灯首日云合",
       "onboard_time": 1774774591,
       "rank": 34,
@@ -1164,11 +1204,19 @@
     },
     {
       "raw_hot": 101779,
-      "num": 101779,
+      "num": 126328,
       "word": "白日提灯短剧排播",
       "onboard_time": 1774776090,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101490,
+      "num": 130882,
+      "word": "网约车 风琴脚",
+      "onboard_time": 1774773155,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 100910,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1774761022,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100735,
+      "num": 126121,
+      "word": "李马克哭了",
+      "onboard_time": 1774778309,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 100672,
@@ -1201,6 +1257,14 @@
       "onboard_time": 1774754360,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97797,
+      "num": 125984,
+      "word": "70岁四川师傅炒牛肉蒜苔",
+      "onboard_time": 1774778187,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 97347,
@@ -1315,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90064,
+      "num": 125886,
+      "word": "为什么没人跑去江苏看海",
+      "onboard_time": 1774774830,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 88822,
       "num": 195193,
       "word": "铂智7上市限时补贴权益价14.78万起",
@@ -1331,20 +1403,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 87697,
+      "num": 125694,
+      "word": "山东专升本数学",
+      "onboard_time": 1774778491,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 87427,
       "num": 85793,
       "word": "鞠婧祎浴室歌手来舞台了",
       "onboard_time": 1774744819,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 86915,
-      "num": 86915,
-      "word": "母亲隐瞒近40岁女儿已婚骗17万彩礼",
-      "onboard_time": 1774776388,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85405,
@@ -1467,14 +1539,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 81654,
-      "num": 81654,
-      "word": "为什么没人跑去江苏看海",
-      "onboard_time": 1774774830,
-      "rank": 41,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 81334,
       "num": 81334,
       "word": "浙江人的老式早餐",
@@ -1505,14 +1569,6 @@
       "onboard_time": 1774761141,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80004,
-      "num": 80004,
-      "word": "网约车 风琴脚",
-      "onboard_time": 1774773155,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 79283,
@@ -1883,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61309,
+      "num": 125091,
+      "word": "爱情是对母爱的拙劣模仿",
+      "onboard_time": 1774778491,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 61167,
       "num": 73251,
       "word": "澳门世界杯女单签表",
@@ -1913,6 +1977,14 @@
       "onboard_time": 1774703182,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 60572,
+      "num": 125001,
+      "word": "白鹿说张真源撕名牌变强了",
+      "onboard_time": 1774778491,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 58912,
