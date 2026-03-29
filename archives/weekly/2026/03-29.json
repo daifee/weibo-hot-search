@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774817918364,
+  "endTime": 1774820486650,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -3291,6 +3291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 12786,
+      "num": 33736,
+      "word": "QQ音乐巅峰盛典",
+      "onboard_time": 1774818794,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 11577,
       "num": 80288,
       "word": "向余望点射破门",
@@ -3299,8 +3307,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7517,
-      "num": 47236,
+      "raw_hot": 7596,
+      "num": 176221,
       "word": "神21乘组在轨vlog又上新了",
       "onboard_time": 1774786287,
       "rank": 2,
