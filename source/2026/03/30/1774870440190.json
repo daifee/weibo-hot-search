@@ -1,0 +1,410 @@
+{
+  "runTime": 1774870440190,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 366687,
+        "num": 1058669,
+        "word": "退18.8万元彩礼一家人现状",
+        "onboard_time": 1774851382,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216394,
+        "num": 742995,
+        "word": "全红婵决定再坚持跳一跳",
+        "onboard_time": 1774859183,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25378,
+        "num": 632391,
+        "word": "这young的中国爱了",
+        "onboard_time": 1774859842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 459994,
+        "num": 459994,
+        "word": "结婚3天新娘称去调凉菜一去不返",
+        "onboard_time": 1774865902,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214163,
+        "num": 392347,
+        "word": "日方称愿意解决与中国外交紧张关系",
+        "onboard_time": 1774864704,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 389751,
+        "num": 389751,
+        "word": "那英唱三五句也要问版权问题",
+        "onboard_time": 1774863502,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 378740,
+        "num": 378740,
+        "word": "张凌赫逐玉收官小作文",
+        "onboard_time": 1774869262,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210835,
+        "num": 308223,
+        "word": "张雪机车夺冠估值超10亿",
+        "onboard_time": 1774864823,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278548,
+        "num": 278548,
+        "word": "逐玉收官",
+        "onboard_time": 1774867643,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64980,
+        "num": 238043,
+        "word": "官方通报亡母被伪造身份结婚",
+        "onboard_time": 1774869441,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296168,
+        "num": 237115,
+        "word": "广东暴雨已经超越了雨刮器的极限",
+        "onboard_time": 1774865963,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234801,
+        "num": 234801,
+        "word": "被长隆动物园淋雨狮子刷屏了",
+        "onboard_time": 1774854982,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202811,
+        "num": 202811,
+        "word": "租房6年发现多帮房东交了几万电费",
+        "onboard_time": 1774868784,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187675,
+        "num": 187675,
+        "word": "招商银行董事长称员工很少准时下班",
+        "onboard_time": 1774863143,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156972,
+        "num": 156972,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774854682,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156826,
+        "num": 156826,
+        "word": "vivo发布会",
+        "onboard_time": 1774869562,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155288,
+        "num": 155288,
+        "word": "严浩翔新歌Fly开始预约",
+        "onboard_time": 1774848865,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150299,
+        "num": 150299,
+        "word": "周深唱月鳞绮纪主题曲",
+        "onboard_time": 1774869562,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144951,
+        "num": 144951,
+        "word": "王者荣耀",
+        "onboard_time": 1774862183,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24437,
+        "num": 143085,
+        "word": "牛奶价格卷起来了",
+        "onboard_time": 1774869441,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2007590,
+        "num": 143047,
+        "word": "李荣浩 爱你老己",
+        "onboard_time": 1774866743,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165174,
+        "num": 143020,
+        "word": "谢娜 民选微博Queen",
+        "onboard_time": 1774863082,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142635,
+        "num": 142635,
+        "word": "嫩豆腐放冷藏变成了腐竹",
+        "onboard_time": 1774858284,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134503,
+        "num": 134503,
+        "word": "垫底辣孩的脸怎么了",
+        "onboard_time": 1774845627,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125589,
+        "num": 125589,
+        "word": "WBG战胜iG",
+        "onboard_time": 1774868302,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116878,
+        "num": 116878,
+        "word": "为什么屁股针越来越少了",
+        "onboard_time": 1774862664,
+        "rank": 25,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 116452,
+        "num": 116452,
+        "word": "张凌赫直播",
+        "onboard_time": 1774870044,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112344,
+        "num": 112344,
+        "word": "业内谈单依纯是否知情李白授权细节",
+        "onboard_time": 1774865723,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78212,
+        "num": 112074,
+        "word": "伊朗海空联合打击美以多个目标",
+        "onboard_time": 1774867763,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77410,
+        "num": 109357,
+        "word": "以色列海法炼油厂遭袭起火",
+        "onboard_time": 1774863082,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 305100,
+        "num": 107325,
+        "word": "TES对战AL",
+        "onboard_time": 1774870283,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119665,
+        "num": 104319,
+        "word": "李卿给齐姝的手写信",
+        "onboard_time": 1774869504,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104033,
+        "num": 104033,
+        "word": "冰湖重生定档",
+        "onboard_time": 1774862243,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99607,
+        "num": 99607,
+        "word": "光与夜之恋 三丽鸥",
+        "onboard_time": 1774869863,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101135,
+        "num": 99582,
+        "word": "垫底辣孩回应脸变了",
+        "onboard_time": 1774863924,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 99525,
+        "num": 99525,
+        "word": "张雪说要赠送尹正机车",
+        "onboard_time": 1774862481,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 96708,
+        "num": 96708,
+        "word": "女方回应丈夫称其结婚3天跑了",
+        "onboard_time": 1774870162,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97985,
+        "num": 96459,
+        "word": "李惠利李洙赫上海时装周同框",
+        "onboard_time": 1774869924,
+        "rank": 37,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 93692,
+        "num": 93692,
+        "word": "迪丽热巴的胆子也太大了吧",
+        "onboard_time": 1774869382,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23765,
+        "num": 91331,
+        "word": "海南高速一车辆开远光灯逆行",
+        "onboard_time": 1774869504,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90193,
+        "num": 90193,
+        "word": "张雪 飞驰人生",
+        "onboard_time": 1774869145,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93629,
+        "num": 90090,
+        "word": "房东笑了半天才把房子租给你",
+        "onboard_time": 1774861343,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89900,
+        "num": 89900,
+        "word": "这下真分不清工装和春装了",
+        "onboard_time": 1774870224,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88418,
+        "num": 88418,
+        "word": "飞天茅台酒自营体系涨价至1539",
+        "onboard_time": 1774870044,
+        "rank": 43,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 85433,
+        "num": 85433,
+        "word": "全红婵杨倩同游北京环球影城",
+        "onboard_time": 1774869382,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84941,
+        "num": 84941,
+        "word": "韩国网友盗图广州街景称是首尔",
+        "onboard_time": 1774860983,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78747,
+        "num": 78747,
+        "word": "白鹿张真源跳了nobatidao",
+        "onboard_time": 1774864943,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77346,
+        "num": 77346,
+        "word": "瑞幸椰子蛋放了两小时还是冰沙",
+        "onboard_time": 1774862004,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76899,
+        "num": 76899,
+        "word": "这一份在学校能卖我2万",
+        "onboard_time": 1774869804,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72301,
+        "num": 72301,
+        "word": "张雪机车",
+        "onboard_time": 1774856182,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央和习近平总书记欢迎郑丽文率团来访#"
+    }
+  }
+}

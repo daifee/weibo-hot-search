@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774866274016,
+  "endTime": 1774870440190,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -72,6 +72,14 @@
       "word": "单依纯曾因没拿下版权哭了一小时",
       "onboard_time": 1774774350,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2007590,
+      "num": 143047,
+      "word": "李荣浩 爱你老己",
+      "onboard_time": 1774866743,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 526762,
-      "num": 224404,
+      "num": 234801,
       "word": "被长隆动物园淋雨狮子刷屏了",
       "onboard_time": 1774854982,
       "rank": 5,
@@ -425,6 +433,14 @@
       "onboard_time": 1774749739,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 459994,
+      "num": 459994,
+      "word": "结婚3天新娘称去调凉菜一去不返",
+      "onboard_time": 1774865902,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 449510,
@@ -531,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 378740,
+      "num": 378740,
+      "word": "张凌赫逐玉收官小作文",
+      "onboard_time": 1774869262,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377441,
       "num": 261396,
       "word": "薛之谦因下雨演唱会免费",
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 365806,
-      "num": 136142,
+      "num": 143020,
       "word": "谢娜 民选微博Queen",
       "onboard_time": 1774863082,
       "rank": 22,
@@ -675,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305100,
+      "num": 107325,
+      "word": "TES对战AL",
+      "onboard_time": 1774870283,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 302503,
       "num": 922735,
       "word": "孙颖莎瘦了",
@@ -692,11 +724,19 @@
     },
     {
       "raw_hot": 296806,
-      "num": 296806,
+      "num": 742995,
       "word": "全红婵决定再坚持跳一跳",
       "onboard_time": 1774859183,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296168,
+      "num": 237115,
+      "word": "广东暴雨已经超越了雨刮器的极限",
+      "onboard_time": 1774865963,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292229,
@@ -761,6 +801,14 @@
       "onboard_time": 1774847064,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 278548,
+      "num": 278548,
+      "word": "逐玉收官",
+      "onboard_time": 1774867643,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 277845,
@@ -1187,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214163,
+      "num": 392347,
+      "word": "日方称愿意解决与中国外交紧张关系",
+      "onboard_time": 1774864704,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 213861,
       "num": 213861,
       "word": "境外间谍机关渗透我国粮食领域",
@@ -1235,6 +1291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210835,
+      "num": 308223,
+      "word": "张雪机车夺冠估值超10亿",
+      "onboard_time": 1774864823,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209362,
       "num": 926340,
       "word": "北京偶遇宋亚轩贺峻霖",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1774800623,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 202811,
+      "num": 202811,
+      "word": "租房6年发现多帮房东交了几万电费",
+      "onboard_time": 1774868784,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202195,
@@ -1659,20 +1731,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 160236,
-      "num": 114908,
-      "word": "张雪机车夺冠估值超10亿",
-      "onboard_time": 1774864823,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158767,
       "num": 84969,
       "word": "国外最帅囚犯嫌狱中生活被粉丝打扰",
       "onboard_time": 1774857684,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 156826,
+      "num": 156826,
+      "word": "vivo发布会",
+      "onboard_time": 1774869562,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 156236,
@@ -1721,6 +1793,14 @@
       "onboard_time": 1774777286,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150299,
+      "num": 150299,
+      "word": "周深唱月鳞绮纪主题曲",
+      "onboard_time": 1774869562,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 149698,
@@ -1809,14 +1889,6 @@
       "onboard_time": 1774840766,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140321,
-      "num": 140321,
-      "word": "日方称愿意解决与中国外交紧张关系",
-      "onboard_time": 1774864704,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 140131,
@@ -2051,6 +2123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 125589,
+      "num": 125589,
+      "word": "WBG战胜iG",
+      "onboard_time": 1774868302,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125316,
       "num": 85696,
       "word": "单依纯光波现场直拍",
@@ -2105,6 +2185,14 @@
       "onboard_time": 1774793129,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119665,
+      "num": 104319,
+      "word": "李卿给齐姝的手写信",
+      "onboard_time": 1774869504,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 119404,
@@ -2177,6 +2265,14 @@
       "onboard_time": 1774707143,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116452,
+      "num": 116452,
+      "word": "张凌赫直播",
+      "onboard_time": 1774870044,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 115284,
@@ -2257,6 +2353,14 @@
       "onboard_time": 1774777227,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112344,
+      "num": 112344,
+      "word": "业内谈单依纯是否知情李白授权细节",
+      "onboard_time": 1774865723,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 112300,
@@ -2611,6 +2715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99607,
+      "num": 99607,
+      "word": "光与夜之恋 三丽鸥",
+      "onboard_time": 1774869863,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98544,
       "num": 507863,
       "word": "美国对伊朗局势至少出现两个误判",
@@ -2633,6 +2745,14 @@
       "onboard_time": 1774847005,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97985,
+      "num": 96459,
+      "word": "李惠利李洙赫上海时装周同框",
+      "onboard_time": 1774869924,
+      "rank": 37,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 97797,
@@ -2681,6 +2801,14 @@
       "onboard_time": 1774766181,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96708,
+      "num": 96708,
+      "word": "女方回应丈夫称其结婚3天跑了",
+      "onboard_time": 1774870162,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96388,
@@ -2777,6 +2905,14 @@
       "onboard_time": 1774712543,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93692,
+      "num": 93692,
+      "word": "迪丽热巴的胆子也太大了吧",
+      "onboard_time": 1774869382,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 93331,
@@ -2907,12 +3043,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90193,
+      "num": 90193,
+      "word": "张雪 飞驰人生",
+      "onboard_time": 1774869145,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90064,
       "num": 125886,
       "word": "为什么没人跑去江苏看海",
       "onboard_time": 1774774830,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 89900,
+      "num": 89900,
+      "word": "这下真分不清工装和春装了",
+      "onboard_time": 1774870224,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 89843,
@@ -2961,6 +3113,14 @@
       "onboard_time": 1774775010,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 88418,
+      "num": 88418,
+      "word": "飞天茅台酒自营体系涨价至1539",
+      "onboard_time": 1774870044,
+      "rank": 43,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 88304,
@@ -3051,12 +3211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85669,
-      "num": 85669,
-      "word": "广东暴雨已经超越了雨刮器的极限",
-      "onboard_time": 1774865963,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 85433,
+      "num": 85433,
+      "word": "全红婵杨倩同游北京环球影城",
+      "onboard_time": 1774869382,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 85405,
@@ -3451,20 +3611,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78212,
+      "num": 112074,
+      "word": "伊朗海空联合打击美以多个目标",
+      "onboard_time": 1774867763,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78084,
       "num": 78084,
       "word": "勒克莱尔第三",
       "onboard_time": 1774769309,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78052,
-      "num": 78052,
-      "word": "业内谈单依纯是否知情李白授权细节",
-      "onboard_time": 1774865723,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 77995,
@@ -3544,6 +3704,14 @@
       "word": "做完美甲上班打卡天塌了",
       "onboard_time": 1774859423,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 76899,
+      "num": 76899,
+      "word": "这一份在学校能卖我2万",
+      "onboard_time": 1774869804,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -3961,6 +4129,14 @@
       "onboard_time": 1774693462,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64980,
+      "num": 238043,
+      "word": "官方通报亡母被伪造身份结婚",
+      "onboard_time": 1774869441,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64962,
@@ -4652,7 +4828,7 @@
     },
     {
       "raw_hot": 27240,
-      "num": 625778,
+      "num": 632391,
       "word": "这young的中国爱了",
       "onboard_time": 1774859842,
       "rank": 2,
@@ -4707,11 +4883,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25733,
-      "num": 86818,
-      "word": "结婚3天新娘称去调凉菜一去不返",
-      "onboard_time": 1774865902,
-      "rank": 39,
+      "raw_hot": 24437,
+      "num": 143085,
+      "word": "牛奶价格卷起来了",
+      "onboard_time": 1774869441,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -4729,6 +4905,14 @@
       "onboard_time": 1774806918,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23765,
+      "num": 91331,
+      "word": "海南高速一车辆开远光灯逆行",
+      "onboard_time": 1774869504,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23238,

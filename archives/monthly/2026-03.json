@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774866274016,
+  "endTime": 1774870440190,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -601,6 +601,14 @@
       "onboard_time": 1773667404,
       "rank": 3,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2007590,
+      "num": 143047,
+      "word": "李荣浩 爱你老己",
+      "onboard_time": 1774866743,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1998332,
@@ -7364,7 +7372,7 @@
     },
     {
       "raw_hot": 526762,
-      "num": 224404,
+      "num": 234801,
       "word": "被长隆动物园淋雨狮子刷屏了",
       "onboard_time": 1774854982,
       "rank": 5,
@@ -9241,6 +9249,14 @@
       "onboard_time": 1773470722,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 459994,
+      "num": 459994,
+      "word": "结婚3天新娘称去调凉菜一去不返",
+      "onboard_time": 1774865902,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 459744,
@@ -12363,6 +12379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 378740,
+      "num": 378740,
+      "word": "张凌赫逐玉收官小作文",
+      "onboard_time": 1774869262,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378523,
       "num": 1060563,
       "word": "迪士尼 物价",
@@ -12916,7 +12940,7 @@
     },
     {
       "raw_hot": 365806,
-      "num": 136142,
+      "num": 143020,
       "word": "谢娜 民选微博Queen",
       "onboard_time": 1774863082,
       "rank": 22,
@@ -16243,6 +16267,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 305100,
+      "num": 107325,
+      "word": "TES对战AL",
+      "onboard_time": 1774870283,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 305047,
       "num": 290812,
       "word": "强吻亦是吻",
@@ -16748,7 +16780,7 @@
     },
     {
       "raw_hot": 296806,
-      "num": 296806,
+      "num": 742995,
       "word": "全红婵决定再坚持跳一跳",
       "onboard_time": 1774859183,
       "rank": 5,
@@ -16809,6 +16841,14 @@
       "onboard_time": 1773025520,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296168,
+      "num": 237115,
+      "word": "广东暴雨已经超越了雨刮器的极限",
+      "onboard_time": 1774865963,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296070,
@@ -17953,6 +17993,14 @@
       "onboard_time": 1773732679,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 278548,
+      "num": 278548,
+      "word": "逐玉收官",
+      "onboard_time": 1774867643,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 278459,
@@ -23531,6 +23579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214163,
+      "num": 392347,
+      "word": "日方称愿意解决与中国外交紧张关系",
+      "onboard_time": 1774864704,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 214150,
       "num": 214150,
       "word": "何炅逞能公主抱导致肩伤",
@@ -23905,6 +23961,14 @@
       "onboard_time": 1774149501,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210835,
+      "num": 308223,
+      "word": "张雪机车夺冠估值超10亿",
+      "onboard_time": 1774864823,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 210781,
@@ -24633,6 +24697,14 @@
       "onboard_time": 1774239201,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202811,
+      "num": 202811,
+      "word": "租房6年发现多帮房东交了几万电费",
+      "onboard_time": 1774868784,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202807,
@@ -30083,14 +30155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160236,
-      "num": 114908,
-      "word": "张雪机车夺冠估值超10亿",
-      "onboard_time": 1774864823,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160226,
       "num": 373514,
       "word": "美以超7套先进雷达系统被摧毁",
@@ -30641,6 +30705,14 @@
       "onboard_time": 1773274341,
       "rank": 4,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 156826,
+      "num": 156826,
+      "word": "vivo发布会",
+      "onboard_time": 1774869562,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 156771,
@@ -31792,6 +31864,14 @@
       "word": "时光与你都很甜2",
       "onboard_time": 1772287524,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150299,
+      "num": 150299,
+      "word": "周深唱月鳞绮纪主题曲",
+      "onboard_time": 1774869562,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -33737,14 +33817,6 @@
       "onboard_time": 1774430543,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140321,
-      "num": 140321,
-      "word": "日方称愿意解决与中国外交紧张关系",
-      "onboard_time": 1774864704,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 140287,
@@ -37147,6 +37219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 125589,
+      "num": 125589,
+      "word": "WBG战胜iG",
+      "onboard_time": 1774868302,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125585,
       "num": 125585,
       "word": "吴镇宇说郭晓婷脸上有故事了",
@@ -38849,6 +38929,14 @@
       "onboard_time": 1773395122,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119665,
+      "num": 104319,
+      "word": "李卿给齐姝的手写信",
+      "onboard_time": 1774869504,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 119638,
@@ -41153,6 +41241,14 @@
       "onboard_time": 1773843923,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112344,
+      "num": 112344,
+      "word": "业内谈单依纯是否知情李白授权细节",
+      "onboard_time": 1774865723,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 112343,
@@ -46363,6 +46459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99607,
+      "num": 99607,
+      "word": "光与夜之恋 三丽鸥",
+      "onboard_time": 1774869863,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99601,
       "num": 99601,
       "word": "周也张婧仪宋威龙张凌赫 全员修罗场",
@@ -47155,6 +47259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97985,
+      "num": 96459,
+      "word": "李惠利李洙赫上海时装周同框",
+      "onboard_time": 1774869924,
+      "rank": 37,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 97953,
       "num": 387917,
       "word": "WTT重庆冠军赛抽签结果来了",
@@ -47817,6 +47929,14 @@
       "onboard_time": 1773284181,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96708,
+      "num": 96708,
+      "word": "女方回应丈夫称其结婚3天跑了",
+      "onboard_time": 1774870162,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96669,
@@ -49377,6 +49497,14 @@
       "onboard_time": 1774504461,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 93692,
+      "num": 93692,
+      "word": "迪丽热巴的胆子也太大了吧",
+      "onboard_time": 1774869382,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 93687,
@@ -51451,6 +51579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90193,
+      "num": 90193,
+      "word": "张雪 飞驰人生",
+      "onboard_time": 1774869145,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90190,
       "num": 90190,
       "word": "研究生味很浓的口头禅",
@@ -51593,6 +51729,14 @@
       "onboard_time": 1773321083,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89900,
+      "num": 89900,
+      "word": "这下真分不清工装和春装了",
+      "onboard_time": 1774870224,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 89867,
@@ -52473,6 +52617,14 @@
       "onboard_time": 1772437942,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 88418,
+      "num": 88418,
+      "word": "飞天茅台酒自营体系涨价至1539",
+      "onboard_time": 1774870044,
+      "rank": 43,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 88389,
@@ -54267,14 +54419,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 85669,
-      "num": 85669,
-      "word": "广东暴雨已经超越了雨刮器的极限",
-      "onboard_time": 1774865963,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85651,
       "num": 91876,
       "word": "公谨爆蛋",
@@ -54409,6 +54553,14 @@
       "onboard_time": 1773671964,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 85433,
+      "num": 85433,
+      "word": "全红婵杨倩同游北京环球影城",
+      "onboard_time": 1774869382,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 85405,
@@ -58747,6 +58899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78212,
+      "num": 112074,
+      "word": "伊朗海空联合打击美以多个目标",
+      "onboard_time": 1774867763,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78204,
       "num": 78204,
       "word": "张雪峰曾说想为自己而活",
@@ -58857,14 +59017,6 @@
       "onboard_time": 1774181541,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 78052,
-      "num": 78052,
-      "word": "业内谈单依纯是否知情李白授权细节",
-      "onboard_time": 1774865723,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 78030,
@@ -59673,6 +59825,14 @@
       "onboard_time": 1774155139,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76899,
+      "num": 76899,
+      "word": "这一份在学校能卖我2万",
+      "onboard_time": 1774869804,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 76890,
@@ -66577,6 +66737,14 @@
       "onboard_time": 1773025881,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 64980,
+      "num": 238043,
+      "word": "官方通报亡母被伪造身份结婚",
+      "onboard_time": 1774869441,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64962,
@@ -77716,7 +77884,7 @@
     },
     {
       "raw_hot": 27240,
-      "num": 625778,
+      "num": 632391,
       "word": "这young的中国爱了",
       "onboard_time": 1774859842,
       "rank": 2,
@@ -78083,14 +78251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25733,
-      "num": 86818,
-      "word": "结婚3天新娘称去调凉菜一去不返",
-      "onboard_time": 1774865902,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25672,
       "num": 465141,
       "word": "吴艳妮60米栏晋级决赛",
@@ -78355,6 +78515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24437,
+      "num": 143085,
+      "word": "牛奶价格卷起来了",
+      "onboard_time": 1774869441,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24418,
       "num": 133362,
       "word": "小巷人家",
@@ -78553,6 +78721,14 @@
       "onboard_time": 1772854941,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23765,
+      "num": 91331,
+      "word": "海南高速一车辆开远光灯逆行",
+      "onboard_time": 1774869504,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23740,
