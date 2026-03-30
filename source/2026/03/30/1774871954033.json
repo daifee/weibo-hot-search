@@ -1,0 +1,410 @@
+{
+  "runTime": 1774871954033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 419885,
+        "num": 1067181,
+        "word": "租房6年发现多帮房东交了几万电费",
+        "onboard_time": 1774868784,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302722,
+        "num": 758946,
+        "word": "退18.8万元彩礼一家人现状",
+        "onboard_time": 1774851382,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24237,
+        "num": 589566,
+        "word": "这young的中国爱了",
+        "onboard_time": 1774859842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262662,
+        "num": 262662,
+        "word": "官方通报亡母被伪造身份结婚",
+        "onboard_time": 1774869441,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214958,
+        "num": 214958,
+        "word": "TES对战AL",
+        "onboard_time": 1774870283,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 473171,
+        "num": 213753,
+        "word": "张凌赫逐玉收官小作文",
+        "onboard_time": 1774869262,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331562,
+        "num": 212554,
+        "word": "那英唱三五句也要问版权问题",
+        "onboard_time": 1774863502,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210733,
+        "num": 210733,
+        "word": "张雪机车夺冠估值超10亿",
+        "onboard_time": 1774864823,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267402,
+        "num": 209686,
+        "word": "李卿给齐姝的手写信",
+        "onboard_time": 1774869504,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198688,
+        "num": 198688,
+        "word": "被长隆动物园淋雨狮子刷屏了",
+        "onboard_time": 1774854982,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 529040,
+        "num": 194353,
+        "word": "结婚3天新娘称去调凉菜一去不返",
+        "onboard_time": 1774865902,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232754,
+        "num": 190200,
+        "word": "广东暴雨已经超越了雨刮器的极限",
+        "onboard_time": 1774865963,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232540,
+        "num": 189139,
+        "word": "周深唱月鳞绮纪主题曲",
+        "onboard_time": 1774869562,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228616,
+        "num": 182492,
+        "word": "逐玉收官",
+        "onboard_time": 1774867643,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180042,
+        "num": 180042,
+        "word": "招商银行董事长称员工很少准时下班",
+        "onboard_time": 1774863143,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173935,
+        "num": 173935,
+        "word": "全红婵决定再坚持跳一跳",
+        "onboard_time": 1774859183,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171826,
+        "num": 171826,
+        "word": "日方称愿意解决与中国外交紧张关系",
+        "onboard_time": 1774864704,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10266,
+        "num": 170892,
+        "word": "和蒋奇明一起出发去创作",
+        "onboard_time": 1774870522,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39224,
+        "num": 170589,
+        "word": "大众9X是增程车的终极答案吗",
+        "onboard_time": 1774870522,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170337,
+        "num": 170337,
+        "word": "美客机与直升机相撞致67死画面曝光",
+        "onboard_time": 1774870643,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1914632,
+        "num": 162814,
+        "word": "李荣浩 爱你老己",
+        "onboard_time": 1774866743,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188847,
+        "num": 161943,
+        "word": "张凌赫直播",
+        "onboard_time": 1774870044,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155149,
+        "num": 155149,
+        "word": "vivo发布会",
+        "onboard_time": 1774869562,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168137,
+        "num": 154503,
+        "word": "孔雪儿 俞浅浅你终于自由了",
+        "onboard_time": 1774871123,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148942,
+        "num": 148942,
+        "word": "谢娜 民选微博Queen",
+        "onboard_time": 1774863082,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148078,
+        "num": 148078,
+        "word": "王者荣耀",
+        "onboard_time": 1774862183,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145598,
+        "num": 145598,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774854682,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139767,
+        "num": 139767,
+        "word": "垫底辣孩的脸怎么了",
+        "onboard_time": 1774845627,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69059,
+        "num": 132155,
+        "word": "以色列海法炼油厂遭袭起火",
+        "onboard_time": 1774863082,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59961,
+        "num": 130540,
+        "word": "伊朗最高领袖哀悼革命卫队海军司令",
+        "onboard_time": 1774871844,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129852,
+        "num": 129852,
+        "word": "严浩翔新歌Fly开始预约",
+        "onboard_time": 1774848865,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129531,
+        "num": 129531,
+        "word": "业内谈单依纯是否知情李白授权细节",
+        "onboard_time": 1774865723,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126382,
+        "num": 126382,
+        "word": "为什么屁股针越来越少了",
+        "onboard_time": 1774862664,
+        "rank": 32,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 122195,
+        "num": 122195,
+        "word": "张雪说要赠送尹正机车",
+        "onboard_time": 1774862481,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 111483,
+        "num": 111483,
+        "word": "人要活得久其实真正有用的就三样",
+        "onboard_time": 1774871004,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110003,
+        "num": 110003,
+        "word": "最爱齐旻的是邓凯",
+        "onboard_time": 1774871242,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105992,
+        "num": 105992,
+        "word": "迪丽热巴的胆子也太大了吧",
+        "onboard_time": 1774869382,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102403,
+        "num": 102403,
+        "word": "嫩豆腐放冷藏变成了腐竹",
+        "onboard_time": 1774858284,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102677,
+        "num": 102051,
+        "word": "隐身的名字",
+        "onboard_time": 1774870584,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43480,
+        "num": 101717,
+        "word": "15岁初中生酒后鱼塘野浴溺亡",
+        "onboard_time": 1774870942,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101678,
+        "num": 101678,
+        "word": "这下真分不清工装和春装了",
+        "onboard_time": 1774870224,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94649,
+        "num": 94649,
+        "word": "女方回应丈夫称其结婚3天跑了",
+        "onboard_time": 1774870162,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92575,
+        "num": 92575,
+        "word": "张雪 飞驰人生",
+        "onboard_time": 1774869145,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91923,
+        "num": 91923,
+        "word": "WBG战胜iG",
+        "onboard_time": 1774868302,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89563,
+        "num": 89563,
+        "word": "茅台涨价",
+        "onboard_time": 1774871724,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16200,
+        "num": 89169,
+        "word": "多地排查非法制售人民币版冥币",
+        "onboard_time": 1774870703,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88885,
+        "num": 88885,
+        "word": "冰湖重生定档",
+        "onboard_time": 1774862243,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86636,
+        "num": 86636,
+        "word": "垫底辣孩回应脸变了",
+        "onboard_time": 1774863924,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 85716,
+        "num": 85716,
+        "word": "电饭煲保温饭菜超4小时易产生致癌物",
+        "onboard_time": 1774871664,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 83151,
+        "num": 83151,
+        "word": "赛力斯2025净利润59.6亿",
+        "onboard_time": 1774870462,
+        "rank": 49,
+        "category": "财经,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央和习近平总书记欢迎郑丽文率团来访#"
+    }
+  }
+}
