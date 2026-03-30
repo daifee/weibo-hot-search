@@ -1,6 +1,6 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774891768045,
+  "endTime": 1774894451493,
   "band_list": [
     {
       "raw_hot": 1515452,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107879,
+      "num": 191998,
+      "word": "上海电信",
+      "onboard_time": 1774892297,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106913,
       "num": 106913,
       "word": "谢征长文",
@@ -195,12 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71859,
+      "num": 51197,
+      "word": "利比被环球音乐威胁",
+      "onboard_time": 1774893917,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69742,
       "num": 72510,
       "word": "美客机与直升机相撞致67死画面曝光",
       "onboard_time": 1774870643,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67639,
+      "num": 72165,
+      "word": "在广州暴雨里撑伞人被吹跑了",
+      "onboard_time": 1774890258,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67494,
@@ -281,14 +305,6 @@
       "onboard_time": 1774883065,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47120,
-      "num": 72165,
-      "word": "在广州暴雨里撑伞人被吹跑了",
-      "onboard_time": 1774890258,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46296,
@@ -411,6 +427,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 25995,
+      "num": 36851,
+      "word": "有56个站姐预告了鞠婧祎",
+      "onboard_time": 1774894276,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25475,
+      "num": 36851,
+      "word": "张雪称骑上摩托车心情变愉悦",
+      "onboard_time": 1774891936,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24743,
       "num": 56863,
       "word": "小久状态",
@@ -419,12 +451,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 18827,
+      "raw_hot": 24225,
+      "num": 36803,
+      "word": "隐身的名字",
+      "onboard_time": 1774870584,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23313,
+      "num": 36793,
+      "word": "你好1983",
+      "onboard_time": 1774893017,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 21807,
       "num": 432649,
       "word": "战友背起邱少云遗骨想带他回家",
       "onboard_time": 1774889899,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18073,
+      "num": 36755,
+      "word": "油价突然飙升",
+      "onboard_time": 1774876584,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 7853,
