@@ -1,6 +1,6 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774908247357,
+  "endTime": 1774910754020,
   "band_list": [
     {
       "raw_hot": 1515452,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232756,
+      "num": 383400,
+      "word": "网友买安眠药后收到注销驾驶证短信",
+      "onboard_time": 1774886182,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 207180,
       "num": 207180,
       "word": "张凌赫逐玉收官小作文",
       "onboard_time": 1774869262,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193803,
-      "num": 193803,
-      "word": "网友买安眠药后收到注销驾驶证短信",
-      "onboard_time": 1774886182,
-      "rank": 4,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 192296,
@@ -59,8 +59,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156514,
-      "num": 156514,
+      "raw_hot": 161086,
+      "num": 214081,
+      "word": "央视调查烧秸秆屡禁不止",
+      "onboard_time": 1774883724,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159027,
+      "num": 159027,
       "word": "西班牙对袭击伊朗军机关闭领空",
       "onboard_time": 1774883724,
       "rank": 6,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 155215,
-      "num": 72434,
+      "num": 76425,
       "word": "女子在泳池被猥亵求助安全员未果",
       "onboard_time": 1774890199,
       "rank": 21,
@@ -81,6 +89,22 @@
       "onboard_time": 1774883604,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 147887,
+      "num": 147887,
+      "word": "周深没搞定版权清唱一句戛然而止",
+      "onboard_time": 1774880365,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 139591,
+      "num": 139591,
+      "word": "美以伊地面战一触即发",
+      "onboard_time": 1774882105,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136263,
@@ -113,14 +137,6 @@
       "onboard_time": 1774887562,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118724,
-      "num": 214081,
-      "word": "央视调查烧秸秆屡禁不止",
-      "onboard_time": 1774883724,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117096,
@@ -171,6 +187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96901,
+      "num": 96901,
+      "word": "午睡是一场真正的豪赌",
+      "onboard_time": 1774880845,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 81931,
       "num": 72362,
       "word": "网传张凌赫赵今麦一念江南",
@@ -179,28 +203,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81685,
-      "num": 81685,
-      "word": "美以伊地面战一触即发",
-      "onboard_time": 1774882105,
-      "rank": 15,
-      "category": "国际时政"
+      "raw_hot": 80231,
+      "num": 73263,
+      "word": "太原暴走团凌晨四点播放音乐扰民",
+      "onboard_time": 1774877843,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 72520,
-      "num": 72520,
+      "raw_hot": 78189,
+      "num": 78189,
+      "word": "肖战2号飞青岛进组",
+      "onboard_time": 1774900034,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 72580,
+      "num": 72580,
       "word": "张雪称将吃掉国际大牌超50%份额",
       "onboard_time": 1774878863,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72344,
-      "num": 72344,
-      "word": "周深没搞定版权清唱一句戛然而止",
-      "onboard_time": 1774880365,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 72188,
@@ -339,12 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42734,
-      "num": 72160,
-      "word": "午睡是一场真正的豪赌",
-      "onboard_time": 1774880845,
-      "rank": 34,
-      "category": "科学科普"
+      "raw_hot": 42215,
+      "num": 33428,
+      "word": "养了两年才发现是假黑猫",
+      "onboard_time": 1774898594,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 40021,
@@ -355,28 +379,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39934,
-      "num": 72143,
-      "word": "太原暴走团凌晨四点播放音乐扰民",
-      "onboard_time": 1774877843,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38147,
       "num": 72137,
       "word": "鲍威尔讲话",
       "onboard_time": 1774884924,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 37447,
-      "num": 37447,
-      "word": "肖战2号飞青岛进组",
-      "onboard_time": 1774900034,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 37371,
@@ -387,6 +395,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35381,
+      "num": 72093,
+      "word": "邱少云牺牲前把鞋后面全蹬烂了",
+      "onboard_time": 1774890318,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35376,
+      "num": 35376,
+      "word": "美军兵分三路集结中东",
+      "onboard_time": 1774878624,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34492,
       "num": 72101,
       "word": "油价突然飙升原因",
@@ -395,19 +419,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 33440,
+      "num": 36755,
+      "word": "油价突然飙升",
+      "onboard_time": 1774876584,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 31936,
       "num": 72098,
       "word": "租房6年发现多帮房东交了几万电费",
       "onboard_time": 1774868784,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30583,
-      "num": 72093,
-      "word": "邱少云牺牲前把鞋后面全蹬烂了",
-      "onboard_time": 1774890318,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -425,6 +449,22 @@
       "onboard_time": 1774883245,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27744,
+      "num": 432649,
+      "word": "战友背起邱少云遗骨想带他回家",
+      "onboard_time": 1774889899,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27252,
+      "num": 33406,
+      "word": "范丞丞黄明昊宣传小鬼新专",
+      "onboard_time": 1774895596,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 26077,
@@ -467,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23402,
-      "num": 23402,
-      "word": "美军兵分三路集结中东",
-      "onboard_time": 1774878624,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23313,
       "num": 36793,
       "word": "你好1983",
@@ -483,36 +515,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21807,
-      "num": 432649,
-      "word": "战友背起邱少云遗骨想带他回家",
-      "onboard_time": 1774889899,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20977,
-      "num": 21866,
-      "word": "养了两年才发现是假黑猫",
-      "onboard_time": 1774898594,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 20448,
-      "num": 22807,
-      "word": "范丞丞黄明昊宣传小鬼新专",
-      "onboard_time": 1774895596,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 18073,
-      "num": 36755,
-      "word": "油价突然飙升",
-      "onboard_time": 1774876584,
+      "raw_hot": 20533,
+      "num": 33338,
+      "word": "32.98万元起闭眼入大众9X",
+      "onboard_time": 1774879704,
       "rank": 49,
-      "category": "财经"
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 18524,
+      "num": 33327,
+      "word": "从修车工到世界赛场张雪的励志人生",
+      "onboard_time": 1774895115,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17867,
+      "num": 33319,
+      "word": "思胥万千",
+      "onboard_time": 1774904234,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 17354,
@@ -531,27 +555,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16942,
-      "num": 21865,
-      "word": "从修车工到世界赛场张雪的励志人生",
-      "onboard_time": 1774895115,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 16111,
       "num": 22790,
       "word": "白日提灯微博云包场",
       "onboard_time": 1774897634,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 15830,
-      "num": 21865,
-      "word": "思胥万千",
-      "onboard_time": 1774904234,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -569,14 +577,6 @@
       "onboard_time": 1774895295,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 11427,
-      "num": 14996,
-      "word": "32.98万元起闭眼入大众9X",
-      "onboard_time": 1774879704,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 7853,
