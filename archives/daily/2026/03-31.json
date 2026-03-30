@@ -1,6 +1,6 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774904197994,
+  "endTime": 1774904979569,
   "band_list": [
     {
       "raw_hot": 1515452,
@@ -515,11 +515,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16386,
+      "num": 19942,
+      "word": "美军兵分三路集结中东",
+      "onboard_time": 1774878624,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16111,
       "num": 22790,
       "word": "白日提灯微博云包场",
       "onboard_time": 1774897634,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15830,
+      "num": 15830,
+      "word": "思胥万千",
+      "onboard_time": 1774904234,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15560,
+      "num": 15560,
+      "word": "肖战2号飞青岛进组",
+      "onboard_time": 1774900034,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -531,28 +555,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 15510,
-      "num": 19942,
-      "word": "美军兵分三路集结中东",
-      "onboard_time": 1774878624,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 15062,
       "num": 19944,
       "word": "从修车工到世界赛场张雪的励志人生",
       "onboard_time": 1774895115,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14456,
-      "num": 15017,
-      "word": "肖战2号飞青岛进组",
-      "onboard_time": 1774900034,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 14274,
@@ -563,7 +571,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 11254,
+      "raw_hot": 11427,
       "num": 14996,
       "word": "32.98万元起闭眼入大众9X",
       "onboard_time": 1774879704,

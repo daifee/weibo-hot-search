@@ -1,0 +1,410 @@
+{
+  "runTime": 1774904979569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126896,
+        "num": 126896,
+        "word": "跳楼机原唱实在是忍不下去了",
+        "onboard_time": 1774884683,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44729,
+        "num": 73091,
+        "word": "央视调查烧秸秆屡禁不止",
+        "onboard_time": 1774883724,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11590,
+        "num": 59966,
+        "word": "战友背起邱少云遗骨想带他回家",
+        "onboard_time": 1774889899,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60806,
+        "num": 59218,
+        "word": "网友买安眠药后收到注销驾驶证短信",
+        "onboard_time": 1774886182,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 47719,
+        "num": 47719,
+        "word": "周深没搞定版权清唱一句戛然而止",
+        "onboard_time": 1774880365,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47195,
+        "num": 47195,
+        "word": "美以伊地面战一触即发",
+        "onboard_time": 1774882105,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41378,
+        "num": 41378,
+        "word": "西班牙对袭击伊朗军机关闭领空",
+        "onboard_time": 1774883724,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30641,
+        "num": 30641,
+        "word": "澳大利亚惊现末日红",
+        "onboard_time": 1774883604,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21889,
+        "num": 21889,
+        "word": "张凌赫逐玉收官小作文",
+        "onboard_time": 1774869262,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20880,
+        "num": 20880,
+        "word": "商场播放恭喜发财需付费",
+        "onboard_time": 1774886484,
+        "rank": 9,
+        "category": "民生新闻,音乐"
+      },
+      {
+        "raw_hot": 84556,
+        "num": 20842,
+        "word": "单依纯演唱会退票",
+        "onboard_time": 1774883184,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40832,
+        "num": 20754,
+        "word": "孟子义 从全世界的战斗中路过",
+        "onboard_time": 1774877063,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33672,
+        "num": 20643,
+        "word": "女子在泳池被猥亵求助安全员未果",
+        "onboard_time": 1774890199,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29148,
+        "num": 20586,
+        "word": "粉丝称黄霄云侵权华晨宇",
+        "onboard_time": 1774881805,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25923,
+        "num": 20434,
+        "word": "利比被环球音乐威胁",
+        "onboard_time": 1774893917,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25328,
+        "num": 20417,
+        "word": "刘宇宁版权意识Max",
+        "onboard_time": 1774888400,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22125,
+        "num": 20286,
+        "word": "东鹏特饮押宝张雪机车赢麻了",
+        "onboard_time": 1774887562,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20248,
+        "num": 20248,
+        "word": "在广州暴雨里撑伞人被吹跑了",
+        "onboard_time": 1774890258,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20110,
+        "num": 20110,
+        "word": "美客机与直升机相撞致67死画面曝光",
+        "onboard_time": 1774870643,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19926,
+        "num": 19926,
+        "word": "太原暴走团凌晨四点播放音乐扰民",
+        "onboard_time": 1774877843,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18817,
+        "num": 18817,
+        "word": "檀健次说只能唱一句再唱就要版权",
+        "onboard_time": 1774887802,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17703,
+        "num": 17703,
+        "word": "NCT",
+        "onboard_time": 1774887921,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17651,
+        "num": 17651,
+        "word": "女子花上万办卡被按摩到癌细胞扩散",
+        "onboard_time": 1774873044,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17259,
+        "num": 17259,
+        "word": "隐身的名字",
+        "onboard_time": 1774870584,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16743,
+        "num": 16743,
+        "word": "张雪称将吃掉国际大牌超50%份额",
+        "onboard_time": 1774878863,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16663,
+        "num": 16663,
+        "word": "伊朗指责以色列打击科威特海水淡化设施",
+        "onboard_time": 1774874063,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16455,
+        "num": 16455,
+        "word": "王者荣耀",
+        "onboard_time": 1774862183,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16386,
+        "num": 16386,
+        "word": "美军兵分三路集结中东",
+        "onboard_time": 1774878624,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15830,
+        "num": 15830,
+        "word": "思胥万千",
+        "onboard_time": 1774904234,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15560,
+        "num": 15560,
+        "word": "肖战2号飞青岛进组",
+        "onboard_time": 1774900034,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19372,
+        "num": 15537,
+        "word": "油价突然飙升原因",
+        "onboard_time": 1774888461,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17366,
+        "num": 15495,
+        "word": "养了两年才发现是假黑猫",
+        "onboard_time": 1774898594,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15313,
+        "num": 15447,
+        "word": "上海电信",
+        "onboard_time": 1774892297,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14943,
+        "num": 15429,
+        "word": "你好1983",
+        "onboard_time": 1774893017,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15737,
+        "num": 15394,
+        "word": "张雪称骑上摩托车心情变愉悦",
+        "onboard_time": 1774891936,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15371,
+        "num": 15371,
+        "word": "王俊凯怎么哪里都有你",
+        "onboard_time": 1774881686,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14920,
+        "num": 14920,
+        "word": "白日提灯",
+        "onboard_time": 1774867044,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14889,
+        "num": 14889,
+        "word": "午睡是一场真正的豪赌",
+        "onboard_time": 1774880845,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 14718,
+        "num": 14888,
+        "word": "网传张凌赫赵今麦一念江南",
+        "onboard_time": 1774881805,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14282,
+        "num": 14888,
+        "word": "KPL",
+        "onboard_time": 1774880004,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14224,
+        "num": 14888,
+        "word": "从修车工到世界赛场张雪的励志人生",
+        "onboard_time": 1774895115,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13985,
+        "num": 14888,
+        "word": "利比控诉环球音乐侵权",
+        "onboard_time": 1774895295,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12851,
+        "num": 14887,
+        "word": "油价突然飙升",
+        "onboard_time": 1774876584,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12633,
+        "num": 14887,
+        "word": "租房6年发现多帮房东交了几万电费",
+        "onboard_time": 1774868784,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12180,
+        "num": 14886,
+        "word": "白日提灯微博云包场",
+        "onboard_time": 1774897634,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11801,
+        "num": 14886,
+        "word": "逐玉收官",
+        "onboard_time": 1774867643,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11520,
+        "num": 14886,
+        "word": "迪丽热巴也闯进好凉赛道了",
+        "onboard_time": 1774883785,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11612,
+        "num": 14886,
+        "word": "等田曦薇的收官文",
+        "onboard_time": 1774876764,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11263,
+        "num": 14886,
+        "word": "田曦薇后援会抽奖",
+        "onboard_time": 1774897035,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11427,
+        "num": 14885,
+        "word": "32.98万元起闭眼入大众9X",
+        "onboard_time": 1774879704,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加首都义务植树#"
+    }
+  }
+}

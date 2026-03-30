@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774904197994,
+  "endTime": 1774904979569,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -81595,6 +81595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15830,
+      "num": 15830,
+      "word": "思胥万千",
+      "onboard_time": 1774904234,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15767,
       "num": 235548,
       "word": "鸡蛋界LV中产还买单吗",
@@ -81641,6 +81649,14 @@
       "onboard_time": 1773660143,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15560,
+      "num": 15560,
+      "word": "肖战2号飞青岛进组",
+      "onboard_time": 1774900034,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 15537,
@@ -81977,14 +81993,6 @@
       "onboard_time": 1772567595,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14456,
-      "num": 15017,
-      "word": "肖战2号飞青岛进组",
-      "onboard_time": 1774900034,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 14440,
