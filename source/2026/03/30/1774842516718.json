@@ -1,0 +1,410 @@
+{
+  "runTime": 1774842516718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 943540,
+        "num": 1150966,
+        "word": "五哈6阵容官宣",
+        "onboard_time": 1774839385,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534055,
+        "num": 846510,
+        "word": "身份证号的X到底咋读",
+        "onboard_time": 1774837525,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 5283,
+        "num": 658368,
+        "word": "2026中国网络媒体论坛",
+        "onboard_time": 1774536983,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 403709,
+        "num": 403709,
+        "word": "保姆上门当日病人死亡被索赔130万",
+        "onboard_time": 1774839085,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256579,
+        "num": 256579,
+        "word": "白日提灯播放指数超逐玉",
+        "onboard_time": 1774839385,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234563,
+        "num": 234563,
+        "word": "女生橘子洲拍摄旱地拔葱震撼大片",
+        "onboard_time": 1774835664,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 226769,
+        "num": 226769,
+        "word": "伊朗称美停战建议涉伊朗基本权利",
+        "onboard_time": 1774839022,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184655,
+        "num": 184655,
+        "word": "Word和PDF已成境外组织窃密利器",
+        "onboard_time": 1774837645,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167208,
+        "num": 167208,
+        "word": "广州暴雨",
+        "onboard_time": 1774832006,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44019,
+        "num": 166848,
+        "word": "清明假期下雨地方可真多",
+        "onboard_time": 1774841426,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2257989,
+        "num": 166674,
+        "word": "李荣浩说不需要赔偿",
+        "onboard_time": 1774836326,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 836625,
+        "num": 166057,
+        "word": "全红婵说接受不了这么胖的自己",
+        "onboard_time": 1774836684,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411318,
+        "num": 165383,
+        "word": "江山大同阵容官宣",
+        "onboard_time": 1774837465,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282291,
+        "num": 165195,
+        "word": "王者荣耀大乔新皮肤",
+        "onboard_time": 1774839803,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264789,
+        "num": 164285,
+        "word": "周翊然用张子枫的画当了8年头像",
+        "onboard_time": 1774842205,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262659,
+        "num": 164052,
+        "word": "薛之谦因下雨演唱会免费",
+        "onboard_time": 1774829183,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186152,
+        "num": 163579,
+        "word": "女子打赏男主播后觉得下头要退钱",
+        "onboard_time": 1774839144,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189667,
+        "num": 163123,
+        "word": "时代少年团 卫龙",
+        "onboard_time": 1774837404,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162762,
+        "num": 162762,
+        "word": "朱媛媛去世近一年辛柏青状态",
+        "onboard_time": 1774835607,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140706,
+        "num": 157540,
+        "word": "金匠寿司道歉",
+        "onboard_time": 1774840766,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153955,
+        "num": 153955,
+        "word": "杨幂江山大同出发进组",
+        "onboard_time": 1774837106,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146841,
+        "num": 146841,
+        "word": "薛之谦",
+        "onboard_time": 1774799726,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145145,
+        "num": 145145,
+        "word": "研究发现炎症后身体会埋下癌症种子",
+        "onboard_time": 1774840464,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128411,
+        "num": 128411,
+        "word": "非洲男子将14岁儿子送往郑州治疗",
+        "onboard_time": 1774832186,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119278,
+        "num": 119278,
+        "word": "宋茜给了内娱十年时间",
+        "onboard_time": 1774828583,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129572,
+        "num": 119138,
+        "word": "杨幂新剧演冯太后",
+        "onboard_time": 1774842205,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118831,
+        "num": 118831,
+        "word": "美特种部队数百人抵达中东",
+        "onboard_time": 1774836804,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 108366,
+        "num": 108366,
+        "word": "湖北一自行车赛突发意外",
+        "onboard_time": 1774837284,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101134,
+        "num": 101134,
+        "word": "生存环境和衣服不匹配",
+        "onboard_time": 1774841845,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100450,
+        "num": 100450,
+        "word": "猫 我该不该醒",
+        "onboard_time": 1774840884,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259401,
+        "num": 97600,
+        "word": "郑丽文率团来访",
+        "onboard_time": 1774839744,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93281,
+        "num": 93281,
+        "word": "基层干部离了稿子不会说话",
+        "onboard_time": 1774839265,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92468,
+        "num": 92468,
+        "word": "金价大涨带火新职业",
+        "onboard_time": 1774841906,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88245,
+        "num": 88245,
+        "word": "张雪机车去年亏损2278万",
+        "onboard_time": 1774828462,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87459,
+        "num": 87459,
+        "word": "网贷迎来最强监管",
+        "onboard_time": 1774829545,
+        "rank": 34,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 87352,
+        "num": 87352,
+        "word": "全红婵自曝减重困境",
+        "onboard_time": 1774840524,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84930,
+        "num": 84930,
+        "word": "鹿晗发五哈预告",
+        "onboard_time": 1774841726,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83435,
+        "num": 83435,
+        "word": "迪丽热巴美式白开水妆",
+        "onboard_time": 1774831166,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77710,
+        "num": 77710,
+        "word": "伊朗首都连遭2轮大规模空袭",
+        "onboard_time": 1774842025,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31647,
+        "num": 76567,
+        "word": "跑男录制第一视角",
+        "onboard_time": 1774842445,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78741,
+        "num": 76503,
+        "word": "江山大同",
+        "onboard_time": 1774837525,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76418,
+        "num": 76418,
+        "word": "金价下跌刚需客户下手了",
+        "onboard_time": 1774828944,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72626,
+        "num": 72626,
+        "word": "以色列总理称已改变中东面貌",
+        "onboard_time": 1774841185,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72500,
+        "num": 72500,
+        "word": "高敏感人不能等",
+        "onboard_time": 1774842325,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7431,
+        "num": 72481,
+        "word": "不分大小杯华莱士咖啡只有第几杯",
+        "onboard_time": 1774842445,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29983,
+        "num": 72122,
+        "word": "孙俪知道邓超要剃光头吗",
+        "onboard_time": 1774842325,
+        "rank": 45,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 65802,
+        "num": 71740,
+        "word": "朱正廷方否认恋情",
+        "onboard_time": 1774840226,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51169,
+        "num": 71396,
+        "word": "欧阳娜娜将参加小鹏MONA发布会",
+        "onboard_time": 1774838064,
+        "rank": 47,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 71173,
+        "num": 71173,
+        "word": "广州暴雨市民发声",
+        "onboard_time": 1774841364,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70875,
+        "num": 70875,
+        "word": "仇人看到倪妮这段都释怀了",
+        "onboard_time": 1774841484,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟为什么中国一定能成功#"
+    }
+  }
+}
