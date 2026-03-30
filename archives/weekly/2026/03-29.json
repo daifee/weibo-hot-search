@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774904979569,
+  "endTime": 1774907550761,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -5499,6 +5499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 32643,
+      "num": 32643,
+      "word": "肖战2号飞青岛进组",
+      "onboard_time": 1774900034,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31647,
       "num": 76567,
       "word": "跑男录制第一视角",
@@ -5755,6 +5763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19623,
+      "num": 19958,
+      "word": "养了两年才发现是假黑猫",
+      "onboard_time": 1774898594,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19601,
       "num": 146870,
       "word": "商户称坍塌建筑楼下火锅楼上KTV",
@@ -5777,14 +5793,6 @@
       "onboard_time": 1774701441,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18309,
-      "num": 19958,
-      "word": "养了两年才发现是假黑猫",
-      "onboard_time": 1774898594,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 17971,
@@ -5827,6 +5835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16340,
+      "num": 19944,
+      "word": "从修车工到世界赛场张雪的励志人生",
+      "onboard_time": 1774895115,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16200,
       "num": 89169,
       "word": "多地排查非法制售人民币版冥币",
@@ -5852,18 +5868,10 @@
     },
     {
       "raw_hot": 15830,
-      "num": 15830,
+      "num": 18819,
       "word": "思胥万千",
       "onboard_time": 1774904234,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 15560,
-      "num": 15560,
-      "word": "肖战2号飞青岛进组",
-      "onboard_time": 1774900034,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -5875,20 +5883,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15062,
-      "num": 19944,
-      "word": "从修车工到世界赛场张雪的励志人生",
-      "onboard_time": 1774895115,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 14960,
       "num": 166084,
       "word": "QQ音乐巅峰盛典",
       "onboard_time": 1774818794,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14659,
+      "num": 19939,
+      "word": "利比控诉环球音乐侵权",
+      "onboard_time": 1774895295,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 14649,
@@ -5905,14 +5913,6 @@
       "onboard_time": 1774780288,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14274,
-      "num": 19939,
-      "word": "利比控诉环球音乐侵权",
-      "onboard_time": 1774895295,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 13146,
