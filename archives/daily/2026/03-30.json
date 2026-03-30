@@ -1,6 +1,6 @@
 {
   "startTime": 1774802686576,
-  "endTime": 1774859144747,
+  "endTime": 1774864555628,
   "band_list": [
     {
       "raw_hot": 3402384,
@@ -25,6 +25,14 @@
       "onboard_time": 1774844187,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1177358,
+      "num": 136988,
+      "word": "李荣浩曾因发博掉十个粉丝不敢发了",
+      "onboard_time": 1774859483,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1100457,
@@ -59,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 785047,
+      "num": 1125607,
+      "word": "小学生凌晨1点40被爷爷送到校门口",
+      "onboard_time": 1774859244,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 689770,
       "num": 655173,
       "word": "薛之谦",
@@ -73,6 +89,14 @@
       "onboard_time": 1774846287,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 571709,
+      "num": 116766,
+      "word": "单依纯歌迷损失512元手续费强行退票",
+      "onboard_time": 1774863804,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 565173,
@@ -171,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359980,
+      "num": 359980,
+      "word": "王者荣耀",
+      "onboard_time": 1774862183,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 345518,
       "num": 1055282,
       "word": "黑龙江海林楼房坍塌致7死",
@@ -179,12 +211,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335893,
+      "num": 335893,
+      "word": "那英唱三五句也要问版权问题",
+      "onboard_time": 1774863502,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 300623,
+      "num": 136142,
+      "word": "谢娜 民选微博Queen",
+      "onboard_time": 1774863082,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299204,
       "num": 806993,
       "word": "考编女生囤考点周边酒店当黄牛",
       "onboard_time": 1774855822,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296806,
+      "num": 296806,
+      "word": "全红婵决定再坚持跳一跳",
+      "onboard_time": 1774859183,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 291041,
@@ -196,7 +252,7 @@
     },
     {
       "raw_hot": 284805,
-      "num": 179805,
+      "num": 181403,
       "word": "严浩翔新歌Fly开始预约",
       "onboard_time": 1774848865,
       "rank": 14,
@@ -283,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245165,
+      "num": 245165,
+      "word": "韩国网友盗图广州街景称是首尔",
+      "onboard_time": 1774860983,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242705,
       "num": 561123,
       "word": "伊朗新任最高领袖为何鲜少发声",
@@ -297,6 +361,14 @@
       "onboard_time": 1774855523,
       "rank": 12,
       "category": "军事"
+    },
+    {
+      "raw_hot": 235946,
+      "num": 185306,
+      "word": "14岁男生杀害同学家属下跪求原谅",
+      "onboard_time": 1774860263,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234090,
@@ -329,6 +401,14 @@
       "onboard_time": 1774845386,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228070,
+      "num": 228070,
+      "word": "嫩豆腐放冷藏变成了腐竹",
+      "onboard_time": 1774858284,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 226769,
@@ -435,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187554,
+      "num": 187554,
+      "word": "招商银行董事长称员工很少准时下班",
+      "onboard_time": 1774863143,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186152,
       "num": 163579,
       "word": "女子打赏男主播后觉得下头要退钱",
@@ -515,6 +603,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172679,
+      "num": 155112,
+      "word": "冰湖重生定档",
+      "onboard_time": 1774862243,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169348,
+      "num": 136804,
+      "word": "为什么屁股针越来越少了",
+      "onboard_time": 1774862664,
+      "rank": 21,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 168146,
       "num": 669919,
       "word": "白桃星座一周运势",
@@ -547,6 +651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155386,
+      "num": 155386,
+      "word": "房东笑了半天才把房子租给你",
+      "onboard_time": 1774861343,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153990,
       "num": 289639,
       "word": "宋茜给了内娱十年时间",
@@ -561,6 +673,14 @@
       "onboard_time": 1774855763,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146974,
+      "num": 146974,
+      "word": "阚清子浪姐上班状态",
+      "onboard_time": 1774861464,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 145767,
@@ -635,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134017,
+      "num": 134017,
+      "word": "垫底辣孩回应脸变了",
+      "onboard_time": 1774863924,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 131730,
       "num": 131730,
       "word": "电动车要涨价涨幅200到300元",
@@ -675,6 +803,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 122036,
+      "num": 122036,
+      "word": "林俊杰不许在军事基地唱歌",
+      "onboard_time": 1774860382,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121314,
       "num": 662757,
       "word": "逐玉",
@@ -683,12 +819,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119404,
+      "num": 119404,
+      "word": "WBG对阵iG",
+      "onboard_time": 1774863804,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118831,
       "num": 118831,
       "word": "美特种部队数百人抵达中东",
       "onboard_time": 1774836804,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 117039,
+      "num": 134246,
+      "word": "瑞幸椰子蛋放了两小时还是冰沙",
+      "onboard_time": 1774862004,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 115164,
@@ -713,6 +865,14 @@
       "onboard_time": 1774774710,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113292,
+      "num": 113292,
+      "word": "裴珠泫回归",
+      "onboard_time": 1774863021,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 112062,
@@ -779,6 +939,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 103146,
+      "num": 103146,
+      "word": "张雪说要赠送尹正机车",
+      "onboard_time": 1774862481,
+      "rank": 35,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 101134,
       "num": 101134,
       "word": "生存环境和衣服不匹配",
@@ -803,20 +971,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99817,
-      "num": 83255,
-      "word": "嫩豆腐放冷藏变成了腐竹",
-      "onboard_time": 1774858284,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 99635,
       "num": 561550,
       "word": "狼队让三追四",
       "onboard_time": 1774794689,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99239,
+      "num": 99239,
+      "word": "刘诗诗感谢复刻龙葵头冠网友",
+      "onboard_time": 1774860323,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 98950,
@@ -859,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96888,
+      "num": 96888,
+      "word": "代拍眼里的张凌赫",
+      "onboard_time": 1774860684,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95807,
       "num": 154604,
       "word": "你有什么习惯坚持了21年",
@@ -881,6 +1057,14 @@
       "onboard_time": 1774837525,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93902,
+      "num": 111759,
+      "word": "26岁中国女子在斯里兰卡遇害",
+      "onboard_time": 1774861642,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 93331,
@@ -937,6 +1121,14 @@
       "onboard_time": 1774787008,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89592,
+      "num": 119506,
+      "word": "以色列海法炼油厂遭袭起火",
+      "onboard_time": 1774863082,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89506,
@@ -1017,6 +1209,14 @@
       "onboard_time": 1774846707,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84487,
+      "num": 84487,
+      "word": "雷军宣布小米AI人才专项招聘启动",
+      "onboard_time": 1774863442,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 83894,
@@ -1123,6 +1323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76986,
+      "num": 76986,
+      "word": "做完美甲上班打卡天塌了",
+      "onboard_time": 1774859423,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76713,
       "num": 76713,
       "word": "DeepSeek升级模型",
@@ -1147,12 +1355,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 75695,
+      "num": 75695,
+      "word": "男子突发奇想让扫地机扫泳池",
+      "onboard_time": 1774860202,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73560,
       "num": 73560,
       "word": "迪丽热巴天鹅颈天花板",
       "onboard_time": 1774845928,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72698,
+      "num": 135529,
+      "word": "旅客飞机上吸烟自称老烟民憋得难受",
+      "onboard_time": 1774863323,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72626,
@@ -1193,6 +1417,14 @@
       "onboard_time": 1774792169,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 71337,
+      "num": 71337,
+      "word": "张雪机车概念股大涨",
+      "onboard_time": 1774863626,
+      "rank": 46,
+      "category": "财经,体育"
     },
     {
       "raw_hot": 71313,
@@ -1257,6 +1489,14 @@
       "onboard_time": 1774784728,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63936,
+      "num": 63936,
+      "word": "中方回应特朗普说下个目标是古巴",
+      "onboard_time": 1774864463,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62764,
@@ -1329,6 +1569,14 @@
       "onboard_time": 1774827803,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57999,
+      "num": 64038,
+      "word": "中方将继续以自己的方式帮古巴",
+      "onboard_time": 1774861823,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57507,
@@ -1643,6 +1891,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 27240,
+      "num": 625778,
+      "word": "这young的中国爱了",
+      "onboard_time": 1774859842,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25778,
       "num": 633506,
       "word": "从未忘记你们浴血护山河",
@@ -1753,6 +2009,9 @@
     },
     {
       "word": "#领悟为什么中国一定能成功#"
+    },
+    {
+      "word": "#中共中央和习近平总书记欢迎郑丽文率团来访#"
     }
   ]
 }
