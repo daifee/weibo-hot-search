@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774842516718,
+  "endTime": 1774850644426,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -83,6 +83,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1617840,
+      "num": 191037,
+      "word": "庞麦郎 华晨宇",
+      "onboard_time": 1774844187,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1531389,
       "num": 936468,
       "word": "单依纯 舞娘",
@@ -129,6 +137,14 @@
       "onboard_time": 1774793430,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1024368,
+      "num": 181131,
+      "word": "垫底辣孩的脸怎么了",
+      "onboard_time": 1774845627,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1006827,
@@ -243,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 630342,
+      "num": 177836,
+      "word": "华晨宇工作室 冷饭又炒",
+      "onboard_time": 1774846287,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 579289,
       "num": 951756,
       "word": "张凌赫摄影师 撕拉片不是P的",
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 537273,
-      "num": 846510,
+      "num": 1055197,
       "word": "身份证号的X到底咋读",
       "onboard_time": 1774837525,
       "rank": 1,
@@ -459,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 374922,
+      "num": 374922,
+      "word": "迪丽热巴陈飞宇同框被吐槽有年龄感",
+      "onboard_time": 1774848144,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373790,
       "num": 932429,
       "word": "鸭嘴钳是无数女性做检查时的噩梦",
@@ -587,12 +619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284805,
+      "num": 179805,
+      "word": "严浩翔新歌Fly开始预约",
+      "onboard_time": 1774848865,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 284060,
       "num": 284060,
       "word": "徐若晗能让郝蕾闭嘴",
       "onboard_time": 1774758981,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283412,
+      "num": 283412,
+      "word": "我跳一天200他坐一天400",
+      "onboard_time": 1774844005,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 277845,
@@ -625,6 +673,14 @@
       "onboard_time": 1774770631,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272361,
+      "num": 176760,
+      "word": "杨幂新剧演冯太后",
+      "onboard_time": 1774842205,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 271816,
@@ -747,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252536,
+      "num": 757012,
+      "word": "广州下暴雨高架桥变高架河",
+      "onboard_time": 1774847064,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252129,
       "num": 590830,
       "word": "广州高铁",
@@ -835,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 235223,
+      "num": 320092,
+      "word": "瑞幸新品椰子蛋遭网友吐槽",
+      "onboard_time": 1774847064,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 234090,
       "num": 267386,
       "word": "日本反复挑战中国底线",
@@ -913,6 +985,14 @@
       "onboard_time": 1774773629,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213861,
+      "num": 213861,
+      "word": "境外间谍机关渗透我国粮食领域",
+      "onboard_time": 1774844366,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213733,
@@ -1003,12 +1083,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198641,
+      "num": 198641,
+      "word": "床上最脏的一个地方很多人从没洗过",
+      "onboard_time": 1774843224,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198270,
       "num": 91235,
       "word": "全红婵体重变化原因",
       "onboard_time": 1774839085,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198152,
+      "num": 184951,
+      "word": "14岁男生欲性侵并杀害女同学案开庭",
+      "onboard_time": 1774845386,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198128,
+      "num": 198128,
+      "word": "黑龙江海林楼房坍塌致7死",
+      "onboard_time": 1774849943,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198085,
@@ -1059,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192346,
+      "num": 192346,
+      "word": "感受一下广州超级大暴雨",
+      "onboard_time": 1774849282,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192179,
       "num": 192179,
       "word": "太原火灾或因酒店外立面起火引发",
@@ -1073,6 +1185,14 @@
       "onboard_time": 1774758501,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191483,
+      "num": 175866,
+      "word": "全红婵称跳水从喜欢变成了任务",
+      "onboard_time": 1774846407,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 190602,
@@ -1171,6 +1291,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 178022,
+      "num": 178022,
+      "word": "掘金勇士冲突",
+      "onboard_time": 1774847246,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177780,
       "num": 177780,
       "word": "孩子凌晨被抢没想到邻居参与了",
@@ -1185,6 +1313,14 @@
       "onboard_time": 1774712961,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 175495,
+      "num": 175495,
+      "word": "豆包谈DeepSeek频繁崩溃",
+      "onboard_time": 1774842506,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 174274,
@@ -1547,14 +1683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129572,
-      "num": 119138,
-      "word": "杨幂新剧演冯太后",
-      "onboard_time": 1774842205,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129088,
       "num": 129088,
       "word": "杨臣刚自曝因老鼠爱大米收入1.7亿",
@@ -1571,12 +1699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126824,
+      "num": 177076,
+      "word": "黑龙江一建筑坍塌7死2伤",
+      "onboard_time": 1774850303,
+      "rank": 17,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 126795,
       "num": 82635,
       "word": "泰国与伊朗达成协议",
       "onboard_time": 1774715900,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126725,
+      "num": 126725,
+      "word": "刘学义资源",
+      "onboard_time": 1774847364,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 126348,
@@ -1603,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124386,
+      "num": 124386,
+      "word": "满岛光宣布再婚怀孕",
+      "onboard_time": 1774849044,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124300,
       "num": 501456,
       "word": "巧克力大盗",
@@ -1617,6 +1769,14 @@
       "onboard_time": 1774789827,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120893,
+      "num": 120893,
+      "word": "金钟国回应突发疾病",
+      "onboard_time": 1774850544,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 120060,
@@ -1753,6 +1913,14 @@
       "onboard_time": 1774795652,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 111903,
+      "num": 121112,
+      "word": "金银又跌了",
+      "onboard_time": 1774848744,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 111888,
@@ -1907,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105775,
+      "num": 105775,
+      "word": "鹿晗艾特范志毅",
+      "onboard_time": 1774847364,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105299,
       "num": 129596,
       "word": "两少年骑车争执致1人死亡",
@@ -1929,6 +2105,14 @@
       "onboard_time": 1774761621,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104310,
+      "num": 104310,
+      "word": "电动车要涨价涨幅200到300元",
+      "onboard_time": 1774850243,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104209,
@@ -2035,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100152,
+      "num": 100152,
+      "word": "森林北回应体制内传闻",
+      "onboard_time": 1774850243,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 99658,
       "num": 99658,
       "word": "愚公生的是你俩山早移走了",
@@ -2059,12 +2251,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98041,
+      "num": 98041,
+      "word": "张杰赚点钱全花舞美上了",
+      "onboard_time": 1774847005,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97797,
       "num": 125984,
       "word": "70岁四川师傅炒牛肉蒜苔",
       "onboard_time": 1774778187,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97728,
+      "num": 94861,
+      "word": "严浩翔绷带造型",
+      "onboard_time": 1774847064,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 97551,
@@ -2123,6 +2331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95067,
+      "num": 95067,
+      "word": "耗糖最快的动作",
+      "onboard_time": 1774847605,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 95054,
       "num": 223362,
       "word": "安东内利夺得F1日本站冠军",
@@ -2161,6 +2377,14 @@
       "onboard_time": 1774749319,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93896,
+      "num": 93896,
+      "word": "张雪机车夺冠意味着什么",
+      "onboard_time": 1774849282,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 93765,
@@ -2209,6 +2433,14 @@
       "onboard_time": 1774841906,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92403,
+      "num": 92403,
+      "word": "美国打伊朗军费消耗强度为历史之最",
+      "onboard_time": 1774847246,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92285,
@@ -2265,6 +2497,14 @@
       "onboard_time": 1774834525,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90629,
+      "num": 90629,
+      "word": "锤娜丽莎本名嵇嘉禾",
+      "onboard_time": 1774843704,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 90521,
@@ -2363,12 +2603,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86876,
+      "num": 86876,
+      "word": "芬兰人设",
+      "onboard_time": 1774845328,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85990,
       "num": 502237,
       "word": "keria冠军皮肤萨勒芬妮",
       "onboard_time": 1774784728,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 85790,
+      "num": 85790,
+      "word": "广州暴雨市民发声",
+      "onboard_time": 1774841364,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85405,
@@ -2547,6 +2803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 81730,
+      "num": 81730,
+      "word": "KSG 打野",
+      "onboard_time": 1774848324,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81622,
       "num": 881850,
       "word": "Gumayusi学习Bin语从句",
@@ -2625,6 +2889,14 @@
       "onboard_time": 1774798228,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79881,
+      "num": 79881,
+      "word": "明日方舟音律联觉",
+      "onboard_time": 1774846707,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 79840,
@@ -2859,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73560,
+      "num": 73560,
+      "word": "迪丽热巴天鹅颈天花板",
+      "onboard_time": 1774845928,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73557,
       "num": 73557,
       "word": "秦岚还记得自己是个明星吗",
@@ -2963,14 +3243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71173,
-      "num": 71173,
-      "word": "广州暴雨市民发声",
-      "onboard_time": 1774841364,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71087,
       "num": 71087,
       "word": "澳门世界杯国乒抽签结果来了",
@@ -3057,6 +3329,14 @@
       "onboard_time": 1774762641,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 67713,
+      "num": 67713,
+      "word": "Milkway澄清假赛",
+      "onboard_time": 1774842865,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 67438,
