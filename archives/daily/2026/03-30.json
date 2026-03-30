@@ -1,6 +1,6 @@
 {
   "startTime": 1774802686576,
-  "endTime": 1774850644426,
+  "endTime": 1774851401113,
   "band_list": [
     {
       "raw_hot": 3402384,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487530,
+      "num": 487530,
+      "word": "迪丽热巴陈飞宇同框被吐槽有年龄感",
+      "onboard_time": 1774848144,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481458,
       "num": 508797,
       "word": "时代峰峻否认网传聊天记录",
@@ -131,12 +139,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 374922,
-      "num": 374922,
-      "word": "迪丽热巴陈飞宇同框被吐槽有年龄感",
-      "onboard_time": 1774848144,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 345518,
+      "num": 1055282,
+      "word": "黑龙江海林楼房坍塌致7死",
+      "onboard_time": 1774849943,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291041,
@@ -163,6 +171,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282434,
+      "num": 320092,
+      "word": "瑞幸新品椰子蛋遭网友吐槽",
+      "onboard_time": 1774847064,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 275193,
+      "num": 757012,
+      "word": "广州下暴雨高架桥变高架河",
+      "onboard_time": 1774847064,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272361,
       "num": 176760,
       "word": "杨幂新剧演冯太后",
@@ -177,6 +201,14 @@
       "onboard_time": 1774835664,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 266966,
+      "num": 266966,
+      "word": "感受一下广州超级大暴雨",
+      "onboard_time": 1774849282,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264789,
@@ -211,28 +243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252536,
-      "num": 757012,
-      "word": "广州下暴雨高架桥变高架河",
-      "onboard_time": 1774847064,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 242705,
       "num": 561123,
       "word": "伊朗新任最高领袖为何鲜少发声",
       "onboard_time": 1774825461,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 235223,
-      "num": 320092,
-      "word": "瑞幸新品椰子蛋遭网友吐槽",
-      "onboard_time": 1774847064,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 234090,
@@ -256,6 +272,14 @@
       "word": "广州暴雨",
       "onboard_time": 1774832006,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228350,
+      "num": 184951,
+      "word": "14岁男生欲性侵并杀害女同学案开庭",
+      "onboard_time": 1774845386,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -313,30 +337,6 @@
       "onboard_time": 1774839085,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198152,
-      "num": 184951,
-      "word": "14岁男生欲性侵并杀害女同学案开庭",
-      "onboard_time": 1774845386,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198128,
-      "num": 198128,
-      "word": "黑龙江海林楼房坍塌致7死",
-      "onboard_time": 1774849943,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192346,
-      "num": 192346,
-      "word": "感受一下广州超级大暴雨",
-      "onboard_time": 1774849282,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191483,
@@ -459,6 +459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144776,
+      "num": 144776,
+      "word": "刘学义资源",
+      "onboard_time": 1774847364,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140706,
       "num": 157540,
       "word": "金匠寿司道歉",
@@ -483,12 +491,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137651,
+      "num": 137651,
+      "word": "满岛光宣布再婚怀孕",
+      "onboard_time": 1774849044,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136859,
+      "num": 136859,
+      "word": "张雪机车夺冠意味着什么",
+      "onboard_time": 1774849282,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135843,
       "num": 559197,
       "word": "伊朗反向威胁美方",
       "onboard_time": 1774802483,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131730,
+      "num": 131730,
+      "word": "电动车要涨价涨幅200到300元",
+      "onboard_time": 1774850243,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130698,
@@ -499,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129196,
+      "num": 129196,
+      "word": "金钟国回应突发疾病",
+      "onboard_time": 1774850544,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126824,
       "num": 177076,
       "word": "黑龙江一建筑坍塌7死2伤",
@@ -507,20 +547,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 126725,
-      "num": 126725,
-      "word": "刘学义资源",
-      "onboard_time": 1774847364,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 124386,
-      "num": 124386,
-      "word": "满岛光宣布再婚怀孕",
-      "onboard_time": 1774849044,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 126818,
+      "num": 126818,
+      "word": "森林北回应体制内传闻",
+      "onboard_time": 1774850243,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 121314,
@@ -531,20 +563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120893,
-      "num": 120893,
-      "word": "金钟国回应突发疾病",
-      "onboard_time": 1774850544,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118831,
       "num": 118831,
       "word": "美特种部队数百人抵达中东",
       "onboard_time": 1774836804,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 113625,
+      "num": 113625,
+      "word": "美国打伊朗军费消耗强度为历史之最",
+      "onboard_time": 1774847246,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113468,
@@ -603,10 +635,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104310,
-      "num": 104310,
-      "word": "电动车要涨价涨幅200到300元",
-      "onboard_time": 1774850243,
+      "raw_hot": 105497,
+      "num": 105497,
+      "word": "女生被14岁男同学杀害全家停摆",
+      "onboard_time": 1774851024,
       "rank": 31,
       "category": "民生新闻"
     },
@@ -633,14 +665,6 @@
       "onboard_time": 1774840884,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 100152,
-      "num": 100152,
-      "word": "森林北回应体制内传闻",
-      "onboard_time": 1774850243,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 99635,
@@ -691,8 +715,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95067,
-      "num": 95067,
+      "raw_hot": 95572,
+      "num": 95572,
       "word": "耗糖最快的动作",
       "onboard_time": 1774847605,
       "rank": 34,
@@ -705,14 +729,6 @@
       "onboard_time": 1774837525,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93896,
-      "num": 93896,
-      "word": "张雪机车夺冠意味着什么",
-      "onboard_time": 1774849282,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 93281,
@@ -729,14 +745,6 @@
       "onboard_time": 1774841906,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92403,
-      "num": 92403,
-      "word": "美国打伊朗军费消耗强度为历史之最",
-      "onboard_time": 1774847246,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 92035,
@@ -779,6 +787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 87094,
+      "num": 87094,
+      "word": "严浩翔把面粉当散粉用",
+      "onboard_time": 1774851324,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86876,
       "num": 86876,
       "word": "芬兰人设",
@@ -801,6 +817,22 @@
       "onboard_time": 1774841726,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84865,
+      "num": 87368,
+      "word": "明日方舟音律联觉",
+      "onboard_time": 1774846707,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 83894,
+      "num": 83894,
+      "word": "张雪机车估值站上10亿",
+      "onboard_time": 1774851262,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 82755,
@@ -835,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79881,
-      "num": 79881,
-      "word": "明日方舟音律联觉",
-      "onboard_time": 1774846707,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 79777,
       "num": 79777,
       "word": "曝iPhoneFold将成史上最大改款",
@@ -875,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76713,
+      "num": 76713,
+      "word": "DeepSeek升级模型",
+      "onboard_time": 1774847845,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76542,
       "num": 76542,
       "word": "王者荣耀世界抢昵称",
@@ -897,6 +929,14 @@
       "onboard_time": 1774845928,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72849,
+      "num": 72849,
+      "word": "退18.8万元彩礼一家人现状",
+      "onboard_time": 1774851382,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72626,
@@ -977,6 +1017,14 @@
       "onboard_time": 1774801883,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62590,
+      "num": 145143,
+      "word": "欠费5000万邮轮界蜜雪冰城被扣船",
+      "onboard_time": 1774850903,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61863,
@@ -1297,6 +1345,14 @@
       "onboard_time": 1774840583,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25749,
+      "num": 77898,
+      "word": "金钟国患病两天无法进食",
+      "onboard_time": 1774851203,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 23928,

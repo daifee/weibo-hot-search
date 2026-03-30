@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774850644426,
+  "endTime": 1774851401113,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -339,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 487530,
+      "num": 487530,
+      "word": "迪丽热巴陈飞宇同框被吐槽有年龄感",
+      "onboard_time": 1774848144,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 487008,
       "num": 2149032,
       "word": "奈雪的茶没人喝了",
@@ -483,14 +491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 374922,
-      "num": 374922,
-      "word": "迪丽热巴陈飞宇同框被吐槽有年龄感",
-      "onboard_time": 1774848144,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 373790,
       "num": 932429,
       "word": "鸭嘴钳是无数女性做检查时的噩梦",
@@ -521,6 +521,14 @@
       "onboard_time": 1774739117,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 345518,
+      "num": 1055282,
+      "word": "黑龙江海林楼房坍塌致7死",
+      "onboard_time": 1774849943,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332040,
@@ -643,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282434,
+      "num": 320092,
+      "word": "瑞幸新品椰子蛋遭网友吐槽",
+      "onboard_time": 1774847064,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 277845,
       "num": 231287,
       "word": "何老师维嘉好六哭了",
@@ -665,6 +681,14 @@
       "onboard_time": 1774761562,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275193,
+      "num": 757012,
+      "word": "广州下暴雨高架桥变高架河",
+      "onboard_time": 1774847064,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272914,
@@ -721,6 +745,14 @@
       "onboard_time": 1774759881,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 266966,
+      "num": 266966,
+      "word": "感受一下广州超级大暴雨",
+      "onboard_time": 1774849282,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266091,
@@ -801,14 +833,6 @@
       "onboard_time": 1774839385,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252536,
-      "num": 757012,
-      "word": "广州下暴雨高架桥变高架河",
-      "onboard_time": 1774847064,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252129,
@@ -899,14 +923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 235223,
-      "num": 320092,
-      "word": "瑞幸新品椰子蛋遭网友吐槽",
-      "onboard_time": 1774847064,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 234090,
       "num": 267386,
       "word": "日本反复挑战中国底线",
@@ -945,6 +961,14 @@
       "onboard_time": 1774776509,
       "rank": 13,
       "category": "数码"
+    },
+    {
+      "raw_hot": 228350,
+      "num": 184951,
+      "word": "14岁男生欲性侵并杀害女同学案开庭",
+      "onboard_time": 1774845386,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226769,
@@ -1099,22 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198152,
-      "num": 184951,
-      "word": "14岁男生欲性侵并杀害女同学案开庭",
-      "onboard_time": 1774845386,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198128,
-      "num": 198128,
-      "word": "黑龙江海林楼房坍塌致7死",
-      "onboard_time": 1774849943,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198085,
       "num": 980514,
       "word": "伊朗公布击毁美军E3预警机卫星图",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1774787008,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192346,
-      "num": 192346,
-      "word": "感受一下广州超级大暴雨",
-      "onboard_time": 1774849282,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192179,
@@ -1515,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144776,
+      "num": 144776,
+      "word": "刘学义资源",
+      "onboard_time": 1774847364,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143958,
       "num": 911598,
       "word": "仙逆",
@@ -1611,12 +1619,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137651,
+      "num": 137651,
+      "word": "满岛光宣布再婚怀孕",
+      "onboard_time": 1774849044,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137062,
       "num": 502065,
       "word": "奶茶店点一杯不够起送",
       "onboard_time": 1774770149,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 136859,
+      "num": 136859,
+      "word": "张雪机车夺冠意味着什么",
+      "onboard_time": 1774849282,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 136231,
@@ -1651,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131730,
+      "num": 131730,
+      "word": "电动车要涨价涨幅200到300元",
+      "onboard_time": 1774850243,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131151,
       "num": 146502,
       "word": "不是正剧就不用较真粉底液将军吗",
@@ -1683,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129196,
+      "num": 129196,
+      "word": "金钟国回应突发疾病",
+      "onboard_time": 1774850544,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129088,
       "num": 129088,
       "word": "杨臣刚自曝因老鼠爱大米收入1.7亿",
@@ -1707,20 +1747,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 126818,
+      "num": 126818,
+      "word": "森林北回应体制内传闻",
+      "onboard_time": 1774850243,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126795,
       "num": 82635,
       "word": "泰国与伊朗达成协议",
       "onboard_time": 1774715900,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126725,
-      "num": 126725,
-      "word": "刘学义资源",
-      "onboard_time": 1774847364,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 126348,
@@ -1747,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124386,
-      "num": 124386,
-      "word": "满岛光宣布再婚怀孕",
-      "onboard_time": 1774849044,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124300,
       "num": 501456,
       "word": "巧克力大盗",
@@ -1769,14 +1801,6 @@
       "onboard_time": 1774789827,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120893,
-      "num": 120893,
-      "word": "金钟国回应突发疾病",
-      "onboard_time": 1774850544,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 120060,
@@ -1873,6 +1897,14 @@
       "onboard_time": 1774706302,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113625,
+      "num": 113625,
+      "word": "美国打伊朗军费消耗强度为历史之最",
+      "onboard_time": 1774847246,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112781,
@@ -2083,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105497,
+      "num": 105497,
+      "word": "女生被14岁男同学杀害全家停摆",
+      "onboard_time": 1774851024,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105299,
       "num": 129596,
       "word": "两少年骑车争执致1人死亡",
@@ -2105,14 +2145,6 @@
       "onboard_time": 1774761621,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 104310,
-      "num": 104310,
-      "word": "电动车要涨价涨幅200到300元",
-      "onboard_time": 1774850243,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104209,
@@ -2219,14 +2251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100152,
-      "num": 100152,
-      "word": "森林北回应体制内传闻",
-      "onboard_time": 1774850243,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 99658,
       "num": 99658,
       "word": "愚公生的是你俩山早移走了",
@@ -2323,20 +2347,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95572,
+      "num": 95572,
+      "word": "耗糖最快的动作",
+      "onboard_time": 1774847605,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 95554,
       "num": 95554,
       "word": "当代人对豆包的依赖程度",
       "onboard_time": 1774757361,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 95067,
-      "num": 95067,
-      "word": "耗糖最快的动作",
-      "onboard_time": 1774847605,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 95054,
@@ -2377,14 +2401,6 @@
       "onboard_time": 1774749319,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 93896,
-      "num": 93896,
-      "word": "张雪机车夺冠意味着什么",
-      "onboard_time": 1774849282,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 93765,
@@ -2433,14 +2449,6 @@
       "onboard_time": 1774841906,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92403,
-      "num": 92403,
-      "word": "美国打伊朗军费消耗强度为历史之最",
-      "onboard_time": 1774847246,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 92285,
@@ -2603,6 +2611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87094,
+      "num": 87094,
+      "word": "严浩翔把面粉当散粉用",
+      "onboard_time": 1774851324,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86876,
       "num": 86876,
       "word": "芬兰人设",
@@ -2651,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84865,
+      "num": 87368,
+      "word": "明日方舟音律联觉",
+      "onboard_time": 1774846707,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84661,
       "num": 351069,
       "word": "刘宇宁玫瑰骑士",
@@ -2681,6 +2705,14 @@
       "onboard_time": 1774787968,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 83894,
+      "num": 83894,
+      "word": "张雪机车估值站上10亿",
+      "onboard_time": 1774851262,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 83740,
@@ -2891,14 +2923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79881,
-      "num": 79881,
-      "word": "明日方舟音律联觉",
-      "onboard_time": 1774846707,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 79840,
       "num": 888538,
       "word": "汪苏泷巡演",
@@ -3035,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76713,
+      "num": 76713,
+      "word": "DeepSeek升级模型",
+      "onboard_time": 1774847845,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76574,
       "num": 83508,
       "word": "伊朗称无人机大规模打击以色列目标",
@@ -3169,6 +3201,14 @@
       "onboard_time": 1774773629,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72849,
+      "num": 72849,
+      "word": "退18.8万元彩礼一家人现状",
+      "onboard_time": 1774851382,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72796,
@@ -3473,6 +3513,14 @@
       "onboard_time": 1774801883,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62590,
+      "num": 145143,
+      "word": "欠费5000万邮轮界蜜雪冰城被扣船",
+      "onboard_time": 1774850903,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62441,
@@ -4033,6 +4081,14 @@
       "onboard_time": 1774840583,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25749,
+      "num": 77898,
+      "word": "金钟国患病两天无法进食",
+      "onboard_time": 1774851203,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 23928,
