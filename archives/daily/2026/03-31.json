@@ -1,6 +1,6 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774899326942,
+  "endTime": 1774904197994,
   "band_list": [
     {
       "raw_hot": 1515452,
@@ -531,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 15510,
+      "num": 19942,
+      "word": "美军兵分三路集结中东",
+      "onboard_time": 1774878624,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15062,
       "num": 19944,
       "word": "从修车工到世界赛场张雪的励志人生",
@@ -539,12 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14375,
-      "num": 19942,
-      "word": "美军兵分三路集结中东",
-      "onboard_time": 1774878624,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 14456,
+      "num": 15017,
+      "word": "肖战2号飞青岛进组",
+      "onboard_time": 1774900034,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 14274,
@@ -553,6 +561,14 @@
       "onboard_time": 1774895295,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11254,
+      "num": 14996,
+      "word": "32.98万元起闭眼入大众9X",
+      "onboard_time": 1774879704,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 7853,

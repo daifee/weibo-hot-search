@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774899326942,
+  "endTime": 1774904197994,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -81977,6 +81977,14 @@
       "onboard_time": 1772567595,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14456,
+      "num": 15017,
+      "word": "肖战2号飞青岛进组",
+      "onboard_time": 1774900034,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 14440,
