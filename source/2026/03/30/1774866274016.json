@@ -1,0 +1,410 @@
+{
+  "runTime": 1774866274016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 610562,
+        "num": 1097690,
+        "word": "小学生凌晨1点40被爷爷送到校门口",
+        "onboard_time": 1774859244,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331968,
+        "num": 796535,
+        "word": "退18.8万元彩礼一家人现状",
+        "onboard_time": 1774851382,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25640,
+        "num": 618339,
+        "word": "这young的中国爱了",
+        "onboard_time": 1774859842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 664302,
+        "num": 572447,
+        "word": "那英唱三五句也要问版权问题",
+        "onboard_time": 1774863502,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313703,
+        "num": 313703,
+        "word": "招商银行董事长称员工很少准时下班",
+        "onboard_time": 1774863143,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287923,
+        "num": 287923,
+        "word": "王者荣耀",
+        "onboard_time": 1774862183,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213315,
+        "num": 213315,
+        "word": "韩国网友盗图广州街景称是首尔",
+        "onboard_time": 1774860983,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207028,
+        "num": 207028,
+        "word": "全红婵决定再坚持跳一跳",
+        "onboard_time": 1774859183,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194780,
+        "num": 194780,
+        "word": "被长隆动物园淋雨狮子刷屏了",
+        "onboard_time": 1774854982,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23960,
+        "num": 190197,
+        "word": "中国援古巴第三批大米到了",
+        "onboard_time": 1774865544,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211402,
+        "num": 189791,
+        "word": "14岁男生杀害同学家属下跪求原谅",
+        "onboard_time": 1774860263,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189267,
+        "num": 189267,
+        "word": "严浩翔新歌Fly开始预约",
+        "onboard_time": 1774848865,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176130,
+        "num": 176130,
+        "word": "房东笑了半天才把房子租给你",
+        "onboard_time": 1774861343,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175938,
+        "num": 175938,
+        "word": "阚清子浪姐上班状态",
+        "onboard_time": 1774861464,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163851,
+        "num": 163851,
+        "word": "冰湖重生定档",
+        "onboard_time": 1774862243,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159689,
+        "num": 159689,
+        "word": "嫩豆腐放冷藏变成了腐竹",
+        "onboard_time": 1774858284,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147646,
+        "num": 147646,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774854682,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140321,
+        "num": 140321,
+        "word": "日方称愿意解决与中国外交紧张关系",
+        "onboard_time": 1774864704,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54745,
+        "num": 139216,
+        "word": "长隆动物园狮子被雨淋成齐刘海",
+        "onboard_time": 1774865842,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11366,
+        "num": 137025,
+        "word": "你的日用品正在悄悄涨价",
+        "onboard_time": 1774865784,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365806,
+        "num": 135653,
+        "word": "谢娜 民选微博Queen",
+        "onboard_time": 1774863082,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238561,
+        "num": 135261,
+        "word": "垫底辣孩的脸怎么了",
+        "onboard_time": 1774845627,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156941,
+        "num": 132405,
+        "word": "为什么屁股针越来越少了",
+        "onboard_time": 1774862664,
+        "rank": 22,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 222663,
+        "num": 131647,
+        "word": "垫底辣孩回应脸变了",
+        "onboard_time": 1774863924,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130406,
+        "num": 130406,
+        "word": "裴珠泫回归",
+        "onboard_time": 1774863021,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 834850,
+        "num": 130186,
+        "word": "李荣浩曾因发博掉十个粉丝不敢发了",
+        "onboard_time": 1774859483,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124597,
+        "num": 124597,
+        "word": "以色列海法炼油厂遭袭起火",
+        "onboard_time": 1774863082,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120769,
+        "num": 120769,
+        "word": "刘诗诗感谢复刻龙葵头冠网友",
+        "onboard_time": 1774860323,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117102,
+        "num": 117102,
+        "word": "刘学义升咖",
+        "onboard_time": 1774858944,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112074,
+        "num": 115224,
+        "word": "伊朗证实革命卫队海军司令死于空袭",
+        "onboard_time": 1774857862,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160236,
+        "num": 114908,
+        "word": "张雪机车夺冠估值超10亿",
+        "onboard_time": 1774864823,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113803,
+        "num": 113803,
+        "word": "代拍眼里的张凌赫",
+        "onboard_time": 1774860684,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113266,
+        "num": 113266,
+        "word": "庞麦郎 华晨宇",
+        "onboard_time": 1774844187,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108247,
+        "num": 108247,
+        "word": "瑞幸椰子蛋放了两小时还是冰沙",
+        "onboard_time": 1774862004,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111691,
+        "num": 105371,
+        "word": "张雪说要赠送尹正机车",
+        "onboard_time": 1774862481,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 102338,
+        "num": 102338,
+        "word": "迪丽热巴陈飞宇同框被吐槽有年龄感",
+        "onboard_time": 1774848144,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88902,
+        "num": 88902,
+        "word": "舔了一下嘴唇被自己毒死了",
+        "onboard_time": 1774856361,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100107,
+        "num": 88810,
+        "word": "白鹿张真源跳了nobatidao",
+        "onboard_time": 1774864943,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88656,
+        "num": 88656,
+        "word": "杨幂唐嫣又撞角色了",
+        "onboard_time": 1774853843,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25733,
+        "num": 86818,
+        "word": "结婚3天新娘称去调凉菜一去不返",
+        "onboard_time": 1774865902,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86156,
+        "num": 86156,
+        "word": "WBG对阵iG",
+        "onboard_time": 1774863804,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85669,
+        "num": 85669,
+        "word": "广东暴雨已经超越了雨刮器的极限",
+        "onboard_time": 1774865963,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84832,
+        "num": 84832,
+        "word": "旅客飞机上吸烟自称老烟民憋得难受",
+        "onboard_time": 1774863323,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81721,
+        "num": 81721,
+        "word": "林俊杰不许在军事基地唱歌",
+        "onboard_time": 1774860382,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78369,
+        "num": 78369,
+        "word": "考编女生囤考点周边酒店当黄牛",
+        "onboard_time": 1774855822,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78052,
+        "num": 78052,
+        "word": "业内谈单依纯是否知情李白授权细节",
+        "onboard_time": 1774865723,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77066,
+        "num": 77066,
+        "word": "您好很着急为您服务",
+        "onboard_time": 1774866083,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74831,
+        "num": 74831,
+        "word": "国外最帅囚犯嫌狱中生活被粉丝打扰",
+        "onboard_time": 1774857684,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73900,
+        "num": 73900,
+        "word": "做完美甲上班打卡天塌了",
+        "onboard_time": 1774859423,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72917,
+        "num": 72917,
+        "word": "感受一下广州超级大暴雨",
+        "onboard_time": 1774849282,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央和习近平总书记欢迎郑丽文率团来访#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774864555628,
+  "endTime": 1774866274016,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -265,6 +265,14 @@
       "onboard_time": 1774799726,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 664302,
+      "num": 572447,
+      "word": "那英唱三五句也要问版权问题",
+      "onboard_time": 1774863502,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 660894,
@@ -555,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365806,
+      "num": 136142,
+      "word": "谢娜 民选微博Queen",
+      "onboard_time": 1774863082,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361285,
       "num": 235173,
       "word": "长期不吃主食身体的8个变化",
@@ -595,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 335893,
-      "num": 335893,
-      "word": "那英唱三五句也要问版权问题",
-      "onboard_time": 1774863502,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 332040,
       "num": 1053126,
       "word": "中国将在长江水下开高铁",
@@ -616,6 +624,14 @@
       "word": "太原火灾近距离目击者直呼好害怕",
       "onboard_time": 1774710622,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313703,
+      "num": 313703,
+      "word": "招商银行董事长称员工很少准时下班",
+      "onboard_time": 1774863143,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -667,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300623,
-      "num": 136142,
-      "word": "谢娜 民选微博Queen",
-      "onboard_time": 1774863082,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 299204,
       "num": 806993,
       "word": "考编女生囤考点周边酒店当黄牛",
@@ -724,7 +732,7 @@
     },
     {
       "raw_hot": 284805,
-      "num": 181403,
+      "num": 189267,
       "word": "严浩翔新歌Fly开始预约",
       "onboard_time": 1774848865,
       "rank": 14,
@@ -1036,7 +1044,7 @@
     },
     {
       "raw_hot": 235946,
-      "num": 185306,
+      "num": 189791,
       "word": "14岁男生杀害同学家属下跪求原谅",
       "onboard_time": 1774860263,
       "rank": 10,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1774856182,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222663,
+      "num": 134017,
+      "word": "垫底辣孩回应脸变了",
+      "onboard_time": 1774863924,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 222229,
@@ -1395,14 +1411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187554,
-      "num": 187554,
-      "word": "招商银行董事长称员工很少准时下班",
-      "onboard_time": 1774863143,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186152,
       "num": 163579,
       "word": "女子打赏男主播后觉得下头要退钱",
@@ -1491,6 +1499,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 176130,
+      "num": 176130,
+      "word": "房东笑了半天才把房子租给你",
+      "onboard_time": 1774861343,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 175938,
+      "num": 175938,
+      "word": "阚清子浪姐上班状态",
+      "onboard_time": 1774861464,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175653,
       "num": 175653,
       "word": "瑞幸新品一整颗生椰",
@@ -1548,7 +1572,7 @@
     },
     {
       "raw_hot": 172679,
-      "num": 155112,
+      "num": 163851,
       "word": "冰湖重生定档",
       "onboard_time": 1774862243,
       "rank": 14,
@@ -1635,6 +1659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 160236,
+      "num": 114908,
+      "word": "张雪机车夺冠估值超10亿",
+      "onboard_time": 1774864823,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158767,
       "num": 84969,
       "word": "国外最帅囚犯嫌狱中生活被粉丝打扰",
@@ -1649,14 +1681,6 @@
       "onboard_time": 1774761262,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155386,
-      "num": 155386,
-      "word": "房东笑了半天才把房子租给你",
-      "onboard_time": 1774861343,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 153990,
@@ -1713,14 +1737,6 @@
       "onboard_time": 1774771229,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146974,
-      "num": 146974,
-      "word": "阚清子浪姐上班状态",
-      "onboard_time": 1774861464,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 145995,
@@ -1793,6 +1809,14 @@
       "onboard_time": 1774840766,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140321,
+      "num": 140321,
+      "word": "日方称愿意解决与中国外交紧张关系",
+      "onboard_time": 1774864704,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140131,
@@ -1899,14 +1923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 134017,
-      "num": 134017,
-      "word": "垫底辣孩回应脸变了",
-      "onboard_time": 1774863924,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 133035,
       "num": 803493,
       "word": "张桂源高会更新",
@@ -1945,6 +1961,14 @@
       "onboard_time": 1774791209,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130406,
+      "num": 130406,
+      "word": "裴珠泫回归",
+      "onboard_time": 1774863021,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 130235,
@@ -2035,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124597,
+      "num": 124597,
+      "word": "以色列海法炼油厂遭袭起火",
+      "onboard_time": 1774863082,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124300,
       "num": 501456,
       "word": "巧克力大盗",
@@ -2057,6 +2089,14 @@
       "onboard_time": 1774860382,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120769,
+      "num": 120769,
+      "word": "刘诗诗感谢复刻龙葵头冠网友",
+      "onboard_time": 1774860323,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 120060,
@@ -2171,6 +2211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113803,
+      "num": 113803,
+      "word": "代拍眼里的张凌赫",
+      "onboard_time": 1774860684,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113639,
       "num": 104319,
       "word": "女顾客打印后要求归类被拒当场崩溃",
@@ -2185,14 +2233,6 @@
       "onboard_time": 1774847246,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 113292,
-      "num": 113292,
-      "word": "裴珠泫回归",
-      "onboard_time": 1774863021,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 112781,
@@ -2249,6 +2289,14 @@
       "onboard_time": 1774840524,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111691,
+      "num": 105371,
+      "word": "张雪说要赠送尹正机车",
+      "onboard_time": 1774862481,
+      "rank": 35,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 111177,
@@ -2451,14 +2499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103146,
-      "num": 103146,
-      "word": "张雪说要赠送尹正机车",
-      "onboard_time": 1774862481,
-      "rank": 35,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 102806,
       "num": 102806,
       "word": "长玉路呢路呢 谢征嘴呢嘴呢",
@@ -2555,20 +2595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100107,
+      "num": 88810,
+      "word": "白鹿张真源跳了nobatidao",
+      "onboard_time": 1774864943,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99658,
       "num": 99658,
       "word": "愚公生的是你俩山早移走了",
       "onboard_time": 1774754360,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99239,
-      "num": 99239,
-      "word": "刘诗诗感谢复刻龙葵头冠网友",
-      "onboard_time": 1774860323,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 98544,
@@ -2633,14 +2673,6 @@
       "onboard_time": 1774748242,
       "rank": 27,
       "category": "军事"
-    },
-    {
-      "raw_hot": 96888,
-      "num": 96888,
-      "word": "代拍眼里的张凌赫",
-      "onboard_time": 1774860684,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 96845,
@@ -2891,14 +2923,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 89592,
-      "num": 119506,
-      "word": "以色列海法炼油厂遭袭起火",
-      "onboard_time": 1774863082,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 89506,
       "num": 89506,
       "word": "未成年人产子为何在医院反复出现",
@@ -3027,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85669,
+      "num": 85669,
+      "word": "广东暴雨已经超越了雨刮器的极限",
+      "onboard_time": 1774865963,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85405,
       "num": 85405,
       "word": "韩国0比4惨败科特迪瓦",
@@ -3057,6 +3089,14 @@
       "onboard_time": 1774846707,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84832,
+      "num": 135529,
+      "word": "旅客飞机上吸烟自称老烟民憋得难受",
+      "onboard_time": 1774863323,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84661,
@@ -3419,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78052,
+      "num": 78052,
+      "word": "业内谈单依纯是否知情李白授权细节",
+      "onboard_time": 1774865723,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77995,
       "num": 77995,
       "word": "猛龙31比0攻击波创纪录",
@@ -3473,6 +3521,14 @@
       "onboard_time": 1774782088,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 77066,
+      "num": 77066,
+      "word": "您好很着急为您服务",
+      "onboard_time": 1774866083,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 77039,
@@ -3657,14 +3713,6 @@
       "onboard_time": 1774780469,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 72698,
-      "num": 135529,
-      "word": "旅客飞机上吸烟自称老烟民憋得难受",
-      "onboard_time": 1774863323,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72626,
@@ -4227,6 +4275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54745,
+      "num": 139216,
+      "word": "长隆动物园狮子被雨淋成齐刘海",
+      "onboard_time": 1774865842,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54693,
       "num": 506390,
       "word": "越来越多人提前屯机票",
@@ -4651,6 +4707,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25733,
+      "num": 86818,
+      "word": "结婚3天新娘称去调凉菜一去不返",
+      "onboard_time": 1774865902,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23960,
+      "num": 190197,
+      "word": "中国援古巴第三批大米到了",
+      "onboard_time": 1774865544,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23928,
       "num": 503007,
       "word": "檀健次超级巅峰之夜人气",
@@ -4809,6 +4881,14 @@
       "onboard_time": 1774740678,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11366,
+      "num": 137025,
+      "word": "你的日用品正在悄悄涨价",
+      "onboard_time": 1774865784,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7431,
