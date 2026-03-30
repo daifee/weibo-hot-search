@@ -1,6 +1,6 @@
 {
   "startTime": 1774802686576,
-  "endTime": 1774879698491,
+  "endTime": 1774883567360,
   "band_list": [
     {
       "raw_hot": 3402384,
@@ -25,6 +25,14 @@
       "onboard_time": 1774866743,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1619062,
+      "num": 88797,
+      "word": "单依纯演唱会退票",
+      "onboard_time": 1774883184,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 1617840,
@@ -211,12 +219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487445,
+      "num": 1077991,
+      "word": "太原暴走团凌晨四点播放音乐扰民",
+      "onboard_time": 1774877843,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 481458,
       "num": 508797,
       "word": "时代峰峻否认网传聊天记录",
       "onboard_time": 1774798168,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 476543,
+      "num": 476543,
+      "word": "卫生巾或涨价8%",
+      "onboard_time": 1774880426,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 476048,
@@ -267,6 +291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 382201,
+      "num": 382201,
+      "word": "网传张凌赫赵今麦一念江南",
+      "onboard_time": 1774881805,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377441,
       "num": 261396,
       "word": "薛之谦因下雨演唱会免费",
@@ -305,6 +337,14 @@
       "onboard_time": 1774849943,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326016,
+      "num": 186561,
+      "word": "吴楚一把陈牧驰还的钱捐了",
+      "onboard_time": 1774878324,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 313703,
@@ -347,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291264,
+      "num": 767113,
+      "word": "张雪称将吃掉国际大牌超50%份额",
+      "onboard_time": 1774878863,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291041,
       "num": 260599,
       "word": "王者荣耀大乔新皮肤",
@@ -377,6 +425,14 @@
       "onboard_time": 1774847064,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 279993,
+      "num": 164628,
+      "word": "小28岁妻子十年相伴获3亿财产",
+      "onboard_time": 1774879226,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278548,
@@ -435,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265394,
+      "num": 165834,
+      "word": "是歌手杨丞琳的歌",
+      "onboard_time": 1774881385,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264789,
       "num": 164285,
       "word": "周翊然用张子枫的画当了8年头像",
@@ -483,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243594,
+      "num": 243594,
+      "word": "美以伊地面战一触即发",
+      "onboard_time": 1774882105,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 242705,
       "num": 561123,
       "word": "伊朗新任最高领袖为何鲜少发声",
@@ -497,6 +569,14 @@
       "onboard_time": 1774855523,
       "rank": 12,
       "category": "军事"
+    },
+    {
+      "raw_hot": 235970,
+      "num": 164198,
+      "word": "王俊凯怎么哪里都有你",
+      "onboard_time": 1774881686,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 235946,
@@ -619,6 +699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218625,
+      "num": 218625,
+      "word": "13岁少年去世前绝食让父母生二胎",
+      "onboard_time": 1774882105,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216963,
       "num": 216963,
       "word": "伊朗证实革命卫队海军司令死于空袭",
@@ -667,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203784,
+      "num": 163819,
+      "word": "周深没搞定版权清唱一句戛然而止",
+      "onboard_time": 1774880365,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199587,
       "num": 199587,
       "word": "朱媛媛去世近一年辛柏青状态",
@@ -712,14 +808,6 @@
       "word": "张凌赫直播",
       "onboard_time": 1774870044,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 186561,
-      "num": 186561,
-      "word": "吴楚一把陈牧驰还的钱捐了",
-      "onboard_time": 1774878324,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -867,6 +955,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162620,
+      "num": 162620,
+      "word": "粉丝称黄霄云侵权华晨宇",
+      "onboard_time": 1774881805,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161801,
+      "num": 161801,
+      "word": "朱媛媛去世近一年辛柏青露面",
+      "onboard_time": 1774881445,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158767,
       "num": 84969,
       "word": "国外最帅囚犯嫌狱中生活被粉丝打扰",
@@ -889,6 +993,14 @@
       "onboard_time": 1774869562,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 154073,
+      "num": 154073,
+      "word": "玲花扔伞的那一下散伙的心都有了",
+      "onboard_time": 1774881626,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 153990,
@@ -947,12 +1059,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141540,
+      "num": 163194,
+      "word": "WB战胜LGDNBW",
+      "onboard_time": 1774881985,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140706,
       "num": 157540,
       "word": "金匠寿司道歉",
       "onboard_time": 1774840766,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140581,
+      "num": 162076,
+      "word": "午睡是一场真正的豪赌",
+      "onboard_time": 1774880845,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 139838,
@@ -979,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137631,
+      "num": 137631,
+      "word": "小米上线自研系统级输入法",
+      "onboard_time": 1774883065,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136859,
       "num": 136859,
       "word": "张雪机车夺冠意味着什么",
@@ -993,6 +1129,14 @@
       "onboard_time": 1774802483,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 132790,
+      "num": 132790,
+      "word": "利比发文",
+      "onboard_time": 1774883065,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 131730,
@@ -1041,14 +1185,6 @@
       "onboard_time": 1774878444,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 127997,
-      "num": 127997,
-      "word": "小28岁妻子十年相伴获3亿财产",
-      "onboard_time": 1774879226,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126824,
@@ -1267,14 +1403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107959,
-      "num": 391758,
-      "word": "太原暴走团凌晨四点播放音乐扰民",
-      "onboard_time": 1774877843,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107770,
       "num": 667649,
       "word": "以色列还能撑多久",
@@ -1393,6 +1521,14 @@
       "onboard_time": 1774869863,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99580,
+      "num": 160606,
+      "word": "美军兵分三路集结中东",
+      "onboard_time": 1774878624,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98950,
@@ -1595,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89081,
+      "num": 89081,
+      "word": "大家也都感受到孙颖莎瘦了吧",
+      "onboard_time": 1774882165,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88956,
       "num": 83944,
       "word": "国外84岁女性背痛被医生建议安乐死",
@@ -1633,6 +1777,22 @@
       "onboard_time": 1774853541,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87575,
+      "num": 167593,
+      "word": "vivo影像是懂审美的",
+      "onboard_time": 1774882105,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 87167,
+      "num": 87167,
+      "word": "专家说樊振东强到逆天了",
+      "onboard_time": 1774883303,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 87094,
@@ -1683,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85373,
+      "num": 85373,
+      "word": "湖南卫视20年前采访张雪",
+      "onboard_time": 1774883245,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84930,
       "num": 84930,
       "word": "鹿晗发五哈预告",
@@ -1721,6 +1889,14 @@
       "onboard_time": 1774863442,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 84299,
+      "num": 84299,
+      "word": "王源方回应维权进展",
+      "onboard_time": 1774881146,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 83894,
@@ -1819,6 +1995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79501,
+      "num": 168436,
+      "word": "32.98万元起闭眼入大众9X",
+      "onboard_time": 1774879704,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78212,
       "num": 112074,
       "word": "伊朗海空联合打击美以多个目标",
@@ -1873,6 +2057,14 @@
       "onboard_time": 1774869804,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76822,
+      "num": 76822,
+      "word": "李羲承签售",
+      "onboard_time": 1774880604,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 76713,
@@ -2283,14 +2475,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 47677,
-      "num": 104471,
-      "word": "美军兵分三路集结中东",
-      "onboard_time": 1774878624,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 46386,
       "num": 284131,
       "word": "人真的不能过度熬夜",
@@ -2572,7 +2756,7 @@
     },
     {
       "raw_hot": 21852,
-      "num": 621434,
+      "num": 637986,
       "word": "中国经济硬核数据上新",
       "onboard_time": 1774859542,
       "rank": 2,

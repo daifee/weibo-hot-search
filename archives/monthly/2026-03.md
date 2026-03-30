@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/03/01 00:36:45 ~ 2026/03/30 22:08:18
+本榜单时间：2026/03/01 00:36:45 ~ 2026/03/30 23:12:47
 </p>
 </blockquote>
 <p>
@@ -647,6 +647,12 @@ ZB1解散（热度：1695263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A1%AE%E8%AE%A4%E7%BB%A7%E4%BB%BB%E8%80%85%E5%90%8E%E6%88%96%E5%B0%86%E6%89%A9%E5%A4%A7%E5%8F%8D%E5%87%BB%23" target="weibo">
 伊朗确认继任者后或将扩大反击（热度：1650331）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E7%A5%A8%23" target="weibo">
+单依纯演唱会退票（热度：1619062）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WBG战胜AL（热度：505587）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%85%A5%E8%81%8C%E5%98%89%E8%A1%8C%23" target="weibo">
 曝迪丽热巴新经纪人入职嘉行（热度：504954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%AE%B4%E6%89%93%E4%B8%8D%E4%BA%88%E7%AB%8B%E6%A1%88%E5%8E%9F%E5%9B%A0%23" target="weibo">
-教体局通报女孩遭殴打不予立案原因（热度：503908）
 </a>
 </li>
 
