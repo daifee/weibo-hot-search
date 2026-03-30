@@ -1,6 +1,6 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774911888530,
+  "endTime": 1774914249456,
   "band_list": [
     {
       "raw_hot": 1515452,
@@ -12,42 +12,90 @@
     },
     {
       "raw_hot": 763012,
-      "num": 101358,
+      "num": 170218,
       "word": "单依纯演唱会退票",
       "onboard_time": 1774883184,
       "rank": 10,
       "category": "演出"
     },
     {
-      "raw_hot": 351919,
-      "num": 522696,
+      "raw_hot": 444056,
+      "num": 754641,
       "word": "网友买安眠药后收到注销驾驶证短信",
       "onboard_time": 1774886182,
       "rank": 4,
       "category": "舆论监督"
     },
     {
-      "raw_hot": 288776,
-      "num": 99518,
-      "word": "刘宇宁版权意识Max",
-      "onboard_time": 1774888400,
+      "raw_hot": 421789,
+      "num": 167128,
+      "word": "田曦薇晒与张凌赫头纱合照",
+      "onboard_time": 1774912580,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 219091,
-      "num": 219091,
+      "raw_hot": 308930,
+      "num": 308930,
+      "word": "午睡是一场真正的豪赌",
+      "onboard_time": 1774880845,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 303347,
+      "num": 303347,
       "word": "周深没搞定版权清唱一句戛然而止",
       "onboard_time": 1774880365,
       "rank": 26,
       "category": "演出"
     },
     {
-      "raw_hot": 216578,
-      "num": 216578,
+      "raw_hot": 295840,
+      "num": 295840,
+      "word": "西班牙对袭击伊朗军机关闭领空",
+      "onboard_time": 1774883724,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 288776,
+      "num": 161773,
+      "word": "刘宇宁版权意识Max",
+      "onboard_time": 1774888400,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284492,
+      "num": 284492,
       "word": "央视调查烧秸秆屡禁不止",
       "onboard_time": 1774883724,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271198,
+      "num": 271198,
+      "word": "茅台发布重大事项公告",
+      "onboard_time": 1774912098,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 257846,
+      "num": 257846,
+      "word": "美以伊地面战一触即发",
+      "onboard_time": 1774882105,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 224569,
+      "num": 166577,
+      "word": "女子在泳池被猥亵求助安全员未果",
+      "onboard_time": 1774890199,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -57,22 +105,6 @@
       "onboard_time": 1774869262,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202680,
-      "num": 202680,
-      "word": "西班牙对袭击伊朗军机关闭领空",
-      "onboard_time": 1774883724,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 196458,
-      "num": 196458,
-      "word": "午睡是一场真正的豪赌",
-      "onboard_time": 1774880845,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 192296,
@@ -91,23 +123,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184650,
-      "num": 100126,
-      "word": "女子在泳池被猥亵求助安全员未果",
-      "onboard_time": 1774890199,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171184,
-      "num": 171184,
-      "word": "美以伊地面战一触即发",
-      "onboard_time": 1774882105,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 152908,
+      "raw_hot": 171932,
       "num": 565282,
       "word": "澳大利亚惊现末日红",
       "onboard_time": 1774883604,
@@ -115,16 +131,40 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 136263,
-      "num": 98819,
+      "raw_hot": 161394,
+      "num": 161394,
       "word": "孟子义 从全世界的战斗中路过",
       "onboard_time": 1774877063,
       "rank": 13,
       "category": "艺人"
     },
     {
+      "raw_hot": 148667,
+      "num": 48928,
+      "word": "李荣浩曾3次发文吐槽谢广坤",
+      "onboard_time": 1774913841,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147457,
+      "num": 135025,
+      "word": "利比控诉环球音乐侵权",
+      "onboard_time": 1774895295,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 135059,
+      "num": 135059,
+      "word": "张雪称将吃掉国际大牌超50%份额",
+      "onboard_time": 1774878863,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132840,
-      "num": 72456,
+      "num": 73395,
       "word": "檀健次说只能唱一句再唱就要版权",
       "onboard_time": 1774887802,
       "rank": 20,
@@ -139,8 +179,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128428,
+      "num": 128428,
+      "word": "太原暴走团凌晨四点播放音乐扰民",
+      "onboard_time": 1774877843,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123646,
-      "num": 84869,
+      "num": 99712,
       "word": "东鹏特饮押宝张雪机车赢麻了",
       "onboard_time": 1774887562,
       "rank": 14,
@@ -153,6 +201,22 @@
       "onboard_time": 1774881686,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111738,
+      "num": 111738,
+      "word": "肖战2号飞青岛进组",
+      "onboard_time": 1774900034,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110941,
+      "num": 99136,
+      "word": "现货黄金再失守4440",
+      "onboard_time": 1774913781,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 108856,
@@ -187,19 +251,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101404,
-      "num": 101404,
-      "word": "肖战2号飞青岛进组",
-      "onboard_time": 1774900034,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 98500,
-      "num": 98500,
-      "word": "太原暴走团凌晨四点播放音乐扰民",
-      "onboard_time": 1774877843,
-      "rank": 38,
+      "raw_hot": 98560,
+      "num": 98560,
+      "word": "女子花上万办卡被按摩到癌细胞扩散",
+      "onboard_time": 1774873044,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -209,6 +265,46 @@
       "onboard_time": 1774863502,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 97487,
+      "num": 97487,
+      "word": "严浩翔高会更新",
+      "onboard_time": 1774913781,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90083,
+      "num": 90083,
+      "word": "迪丽热巴也闯进好凉赛道了",
+      "onboard_time": 1774883785,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86468,
+      "num": 82543,
+      "word": "李荣浩杨丞琳相爱11年结婚6年",
+      "onboard_time": 1774913901,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84366,
+      "num": 84366,
+      "word": "美客机与直升机相撞致67死画面曝光",
+      "onboard_time": 1774870643,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84211,
+      "num": 84211,
+      "word": "身份证有效期和年龄有关",
+      "onboard_time": 1774913781,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 82009,
@@ -227,28 +323,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81343,
-      "num": 81343,
-      "word": "张雪称将吃掉国际大牌超50%份额",
-      "onboard_time": 1774878863,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 78410,
+      "num": 78410,
+      "word": "粉丝称黄霄雲侵权华晨宇",
+      "onboard_time": 1774881805,
+      "rank": 27,
+      "category": "艺人"
     },
     {
-      "raw_hot": 79434,
-      "num": 79434,
-      "word": "美客机与直升机相撞致67死画面曝光",
-      "onboard_time": 1774870643,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 67805,
-      "num": 72186,
-      "word": "女子花上万办卡被按摩到癌细胞扩散",
-      "onboard_time": 1774873044,
-      "rank": 28,
+      "raw_hot": 72097,
+      "num": 72097,
+      "word": "南太行失联男子遗体被找到",
+      "onboard_time": 1774914140,
+      "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69469,
+      "num": 69469,
+      "word": "汪峰 旭日阳刚",
+      "onboard_time": 1774913720,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 67692,
@@ -283,12 +379,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61923,
-      "num": 72168,
-      "word": "迪丽热巴也闯进好凉赛道了",
-      "onboard_time": 1774883785,
-      "rank": 32,
+      "raw_hot": 64139,
+      "num": 62863,
+      "word": "朱媛媛去世近一年辛柏青露面",
+      "onboard_time": 1774881445,
+      "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63800,
+      "num": 63800,
+      "word": "32.98万元起闭眼入大众9X",
+      "onboard_time": 1774879704,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 59818,
+      "num": 58259,
+      "word": "逐玉",
+      "onboard_time": 1774913841,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 59498,
@@ -307,12 +419,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57703,
+      "num": 57703,
+      "word": "美军兵分三路集结中东",
+      "onboard_time": 1774878624,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 56402,
+      "num": 56402,
+      "word": "茅台涨价影响",
+      "onboard_time": 1774913180,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 55619,
+      "num": 55619,
+      "word": "版权元年",
+      "onboard_time": 1774913060,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 55127,
+      "num": 55127,
+      "word": "陈飞宇 篮球和迪丽热巴",
+      "onboard_time": 1774883965,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 54464,
+      "num": 54464,
+      "word": "油价突然飙升",
+      "onboard_time": 1774876584,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 53725,
       "num": 72151,
       "word": "玲花扔伞的那一下散伙的心都有了",
       "onboard_time": 1774881626,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52535,
+      "num": 52535,
+      "word": "黄金升破4580美元",
+      "onboard_time": 1774913299,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 50195,
@@ -329,6 +489,14 @@
       "onboard_time": 1774869504,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48316,
+      "num": 48849,
+      "word": "杨丞琳成都演唱会晒厨艺撒狗粮",
+      "onboard_time": 1774878984,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 47824,
@@ -355,12 +523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46047,
+      "num": 72093,
+      "word": "邱少云牺牲前把鞋后面全蹬烂了",
+      "onboard_time": 1774890318,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45748,
       "num": 72119,
       "word": "隐身的名字大结局",
       "onboard_time": 1774876883,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45307,
+      "num": 590437,
+      "word": "战友背起邱少云遗骨想带他回家",
+      "onboard_time": 1774889899,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44615,
@@ -371,31 +555,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43715,
-      "num": 53100,
-      "word": "美军兵分三路集结中东",
-      "onboard_time": 1774878624,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 42547,
-      "num": 53079,
-      "word": "油价突然飙升",
-      "onboard_time": 1774876584,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 40095,
-      "num": 72093,
-      "word": "邱少云牺牲前把鞋后面全蹬烂了",
-      "onboard_time": 1774890318,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40021,
+      "raw_hot": 44543,
       "num": 72146,
       "word": "伊朗指责以色列打击科威特海水淡化设施",
       "onboard_time": 1774874063,
@@ -409,14 +569,6 @@
       "onboard_time": 1774884924,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 38000,
-      "num": 432649,
-      "word": "战友背起邱少云遗骨想带他回家",
-      "onboard_time": 1774889899,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37371,
@@ -433,14 +585,6 @@
       "onboard_time": 1774868784,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34531,
-      "num": 52799,
-      "word": "32.98万元起闭眼入大众9X",
-      "onboard_time": 1774879704,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 34492,
@@ -569,14 +713,6 @@
       "onboard_time": 1774881985,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14919,
-      "num": 21865,
-      "word": "利比控诉环球音乐侵权",
-      "onboard_time": 1774895295,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 7853,
