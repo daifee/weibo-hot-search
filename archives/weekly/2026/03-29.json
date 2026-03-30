@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774890363149,
+  "endTime": 1774891768045,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -1676,7 +1676,7 @@
     },
     {
       "raw_hot": 192296,
-      "num": 192296,
+      "num": 415696,
       "word": "商场播放恭喜发财需付费",
       "onboard_time": 1774886484,
       "rank": 5,
@@ -2065,6 +2065,14 @@
       "onboard_time": 1774761262,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155215,
+      "num": 72434,
+      "word": "女子在泳池被猥亵求助安全员未果",
+      "onboard_time": 1774890199,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154073,
@@ -4451,14 +4459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73691,
-      "num": 72434,
-      "word": "女子在泳池被猥亵求助安全员未果",
-      "onboard_time": 1774890199,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73660,
       "num": 73660,
       "word": "父母回应儿子用吸粪车做婚车",
@@ -5243,6 +5243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 47120,
+      "num": 72165,
+      "word": "在广州暴雨里撑伞人被吹跑了",
+      "onboard_time": 1774890258,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46386,
       "num": 284131,
       "word": "人真的不能过度熬夜",
@@ -5571,12 +5579,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 26712,
-      "num": 72165,
-      "word": "在广州暴雨里撑伞人被吹跑了",
-      "onboard_time": 1774890258,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 26077,
+      "num": 56881,
+      "word": "KPL",
+      "onboard_time": 1774880004,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 25778,
@@ -5601,6 +5609,14 @@
       "onboard_time": 1774874663,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24743,
+      "num": 56863,
+      "word": "小久状态",
+      "onboard_time": 1774886182,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 24437,
@@ -5715,6 +5731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18827,
+      "num": 432649,
+      "word": "战友背起邱少云遗骨想带他回家",
+      "onboard_time": 1774889899,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17971,
       "num": 22060,
       "word": "王俊凯无人乐园首秀live",
@@ -5784,14 +5808,6 @@
       "word": "爸爸赴战场后再没回来女儿墓前祭拜",
       "onboard_time": 1774780288,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14139,
-      "num": 432649,
-      "word": "战友背起邱少云遗骨想带他回家",
-      "onboard_time": 1774889899,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
