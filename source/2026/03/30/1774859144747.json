@@ -1,0 +1,410 @@
+{
+  "runTime": 1774859144747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 520053,
+        "num": 1083208,
+        "word": "退18.8万元彩礼一家人现状",
+        "onboard_time": 1774851382,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299204,
+        "num": 806993,
+        "word": "考编女生囤考点周边酒店当黄牛",
+        "onboard_time": 1774855822,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3298,
+        "num": 622979,
+        "word": "2026中国网络媒体论坛",
+        "onboard_time": 1774536983,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 236402,
+        "num": 236402,
+        "word": "感受一下广州超级大暴雨",
+        "onboard_time": 1774849282,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226470,
+        "num": 226470,
+        "word": "张雪机车",
+        "onboard_time": 1774856182,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448773,
+        "num": 224404,
+        "word": "被长隆动物园淋雨狮子刷屏了",
+        "onboard_time": 1774854982,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218240,
+        "num": 218240,
+        "word": "电动车涨价原因",
+        "onboard_time": 1774855163,
+        "rank": 6,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 216963,
+        "num": 216963,
+        "word": "伊朗证实革命卫队海军司令死于空袭",
+        "onboard_time": 1774857862,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215000,
+        "num": 215000,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774854682,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175653,
+        "num": 175653,
+        "word": "瑞幸新品一整颗生椰",
+        "onboard_time": 1774856303,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 365018,
+        "num": 173778,
+        "word": "迪丽热巴陈飞宇同框被吐槽有年龄感",
+        "onboard_time": 1774848144,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334604,
+        "num": 171573,
+        "word": "庞麦郎 华晨宇",
+        "onboard_time": 1774844187,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231069,
+        "num": 169924,
+        "word": "美军准备在伊朗展开数周地面战",
+        "onboard_time": 1774855523,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 324862,
+        "num": 166689,
+        "word": "杨幂唐嫣又撞角色了",
+        "onboard_time": 1774853843,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293515,
+        "num": 164738,
+        "word": "垫底辣孩的脸怎么了",
+        "onboard_time": 1774845627,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164423,
+        "num": 164423,
+        "word": "全红婵称跳水从喜欢变成了任务",
+        "onboard_time": 1774846407,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185913,
+        "num": 162883,
+        "word": "严浩翔新歌Fly开始预约",
+        "onboard_time": 1774848865,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183529,
+        "num": 160119,
+        "word": "刘学义升咖",
+        "onboard_time": 1774858944,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95807,
+        "num": 154604,
+        "word": "你有什么习惯坚持了21年",
+        "onboard_time": 1774854083,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152589,
+        "num": 152589,
+        "word": "瑞幸新品椰子蛋遭网友吐槽",
+        "onboard_time": 1774847064,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196535,
+        "num": 151525,
+        "word": "舔了一下嘴唇被自己毒死了",
+        "onboard_time": 1774856361,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149698,
+        "num": 149698,
+        "word": "全红婵回应未来打算",
+        "onboard_time": 1774855763,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115164,
+        "num": 115164,
+        "word": "冰湖重生",
+        "onboard_time": 1774857562,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107341,
+        "num": 107341,
+        "word": "床上最脏的一个地方很多人从没洗过",
+        "onboard_time": 1774843224,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100783,
+        "num": 100783,
+        "word": "Seedance2.0造就了凌晨3点上班的公司",
+        "onboard_time": 1774856783,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93331,
+        "num": 93331,
+        "word": "向佐好像追星成功郭碧婷",
+        "onboard_time": 1774858824,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86779,
+        "num": 86779,
+        "word": "广州塔暴雨中接闪电",
+        "onboard_time": 1774855942,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84442,
+        "num": 84442,
+        "word": "江山大同改简介",
+        "onboard_time": 1774853541,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83850,
+        "num": 83850,
+        "word": "境外间谍机关渗透我国粮食领域",
+        "onboard_time": 1774844366,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66403,
+        "num": 83587,
+        "word": "美以空袭伊朗一儿童游乐场",
+        "onboard_time": 1774857862,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158767,
+        "num": 83553,
+        "word": "国外最帅囚犯嫌狱中生活被粉丝打扰",
+        "onboard_time": 1774857684,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99817,
+        "num": 83255,
+        "word": "嫩豆腐放冷藏变成了腐竹",
+        "onboard_time": 1774858284,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88956,
+        "num": 82801,
+        "word": "国外84岁女性背痛被医生建议安乐死",
+        "onboard_time": 1774857923,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82667,
+        "num": 82667,
+        "word": "迪丽热巴洛克巴比妆",
+        "onboard_time": 1774856724,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82536,
+        "num": 82536,
+        "word": "身份证号的X到底咋读",
+        "onboard_time": 1774837525,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 82331,
+        "num": 82331,
+        "word": "杨幂新剧演冯太后",
+        "onboard_time": 1774842205,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44215,
+        "num": 82287,
+        "word": "鹿晗滇入味了",
+        "onboard_time": 1774853723,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39967,
+        "num": 82211,
+        "word": "伊能静自曝和秦昊相处方式",
+        "onboard_time": 1774857083,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40280,
+        "num": 82060,
+        "word": "微创变开腹女子术后月余身亡",
+        "onboard_time": 1774859062,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30779,
+        "num": 81977,
+        "word": "男子举报自己吃空饷6年新进展",
+        "onboard_time": 1774858824,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784805,
+        "num": 81926,
+        "word": "单依纯在音著协的登记作品为0",
+        "onboard_time": 1774855763,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81859,
+        "num": 81859,
+        "word": "武汉一高校内现999秒超长红绿灯",
+        "onboard_time": 1774857622,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77499,
+        "num": 77499,
+        "word": "薛之谦歌迷称不准备申请报销机酒",
+        "onboard_time": 1774858824,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76032,
+        "num": 76032,
+        "word": "黑龙江海林楼房坍塌致7死",
+        "onboard_time": 1774849943,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72786,
+        "num": 72786,
+        "word": "未成年人产子为何在医院反复出现",
+        "onboard_time": 1774856663,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72131,
+        "num": 72131,
+        "word": "狸花猫带给人类亿点点震撼",
+        "onboard_time": 1774858523,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71836,
+        "num": 71836,
+        "word": "华晨宇工作室 冷饭又炒",
+        "onboard_time": 1774846287,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71027,
+        "num": 71027,
+        "word": "薛之谦",
+        "onboard_time": 1774799726,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40438,
+        "num": 67081,
+        "word": "高志凯说日本有新日本鬼子",
+        "onboard_time": 1774857862,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67045,
+        "num": 67045,
+        "word": "金钟国回应突发疾病",
+        "onboard_time": 1774850544,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟为什么中国一定能成功#"
+    }
+  }
+}
