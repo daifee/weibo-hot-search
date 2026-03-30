@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774828638940,
+  "endTime": 1774840864418,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1347,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2565449,
+      "num": 264507,
+      "word": "李荣浩说不需要赔偿",
+      "onboard_time": 1774836326,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2536475,
       "num": 204117,
       "word": "阿Sa官宣恋情",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1774265361,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1760330,
-      "num": 611783,
-      "word": "张杰不再参加任何需要投票的活动",
-      "onboard_time": 1769178741,
-      "rank": 25,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
