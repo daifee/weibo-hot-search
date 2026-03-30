@@ -1,6 +1,6 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774907550761,
+  "endTime": 1774908247357,
   "band_list": [
     {
       "raw_hot": 1515452,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 118724,
-      "num": 177817,
+      "num": 214081,
       "word": "央视调查烧秸秆屡禁不止",
       "onboard_time": 1774883724,
       "rank": 7,
@@ -371,6 +371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 37447,
+      "num": 37447,
+      "word": "肖战2号飞青岛进组",
+      "onboard_time": 1774900034,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37371,
       "num": 72106,
       "word": "广东暴雨已经超越了雨刮器的极限",
@@ -385,14 +393,6 @@
       "onboard_time": 1774888461,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 32643,
-      "num": 32643,
-      "word": "肖战2号飞青岛进组",
-      "onboard_time": 1774900034,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 31936,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23402,
+      "num": 23402,
+      "word": "美军兵分三路集结中东",
+      "onboard_time": 1774878624,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23313,
       "num": 36793,
       "word": "你好1983",
@@ -483,12 +491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20989,
-      "num": 20989,
-      "word": "美军兵分三路集结中东",
-      "onboard_time": 1774878624,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 20977,
+      "num": 21866,
+      "word": "养了两年才发现是假黑猫",
+      "onboard_time": 1774898594,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 20448,
@@ -497,14 +505,6 @@
       "onboard_time": 1774895596,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19623,
-      "num": 19958,
-      "word": "养了两年才发现是假黑猫",
-      "onboard_time": 1774898594,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 18073,
@@ -531,8 +531,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16340,
-      "num": 19944,
+      "raw_hot": 16942,
+      "num": 21865,
       "word": "从修车工到世界赛场张雪的励志人生",
       "onboard_time": 1774895115,
       "rank": 42,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 15830,
-      "num": 18819,
+      "num": 21865,
       "word": "思胥万千",
       "onboard_time": 1774904234,
       "rank": 28,
@@ -563,8 +563,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14659,
-      "num": 19939,
+      "raw_hot": 14919,
+      "num": 21865,
       "word": "利比控诉环球音乐侵权",
       "onboard_time": 1774895295,
       "rank": 46,

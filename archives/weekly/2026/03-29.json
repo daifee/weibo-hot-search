@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774907550761,
+  "endTime": 1774908247357,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -5451,6 +5451,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 37447,
+      "num": 37447,
+      "word": "肖战2号飞青岛进组",
+      "onboard_time": 1774900034,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37438,
       "num": 81823,
       "word": "檀健次谢却山家主气场",
@@ -5497,14 +5505,6 @@
       "onboard_time": 1774720336,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 32643,
-      "num": 32643,
-      "word": "肖战2号飞青岛进组",
-      "onboard_time": 1774900034,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 31647,
@@ -5731,6 +5731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20977,
+      "num": 21866,
+      "word": "养了两年才发现是假黑猫",
+      "onboard_time": 1774898594,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20506,
       "num": 71839,
       "word": "李雪琴说徐志胜是臀部艺人",
@@ -5761,14 +5769,6 @@
       "onboard_time": 1774701563,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19623,
-      "num": 19958,
-      "word": "养了两年才发现是假黑猫",
-      "onboard_time": 1774898594,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 19601,
@@ -5827,20 +5827,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16942,
+      "num": 21865,
+      "word": "从修车工到世界赛场张雪的励志人生",
+      "onboard_time": 1774895115,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16720,
       "num": 576541,
       "word": "神21乘组在轨vlog又上新了",
       "onboard_time": 1774786287,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16340,
-      "num": 19944,
-      "word": "从修车工到世界赛场张雪的励志人生",
-      "onboard_time": 1774895115,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 16200,
@@ -5868,7 +5868,7 @@
     },
     {
       "raw_hot": 15830,
-      "num": 18819,
+      "num": 21865,
       "word": "思胥万千",
       "onboard_time": 1774904234,
       "rank": 28,
@@ -5891,8 +5891,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14659,
-      "num": 19939,
+      "raw_hot": 14919,
+      "num": 21865,
       "word": "利比控诉环球音乐侵权",
       "onboard_time": 1774895295,
       "rank": 46,
