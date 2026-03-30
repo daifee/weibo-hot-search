@@ -1,6 +1,6 @@
 {
   "startTime": 1774802686576,
-  "endTime": 1774878726373,
+  "endTime": 1774879698491,
   "band_list": [
     {
       "raw_hot": 3402384,
@@ -91,19 +91,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694885,
+      "num": 482572,
+      "word": "孟子义 从全世界的战斗中路过",
+      "onboard_time": 1774877063,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 689770,
       "num": 655173,
       "word": "薛之谦",
       "onboard_time": 1774799726,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 666399,
-      "num": 482572,
-      "word": "孟子义 从全世界的战斗中路过",
-      "onboard_time": 1774877063,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -411,6 +411,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 270484,
+      "num": 270484,
+      "word": "油价突然飙升",
+      "onboard_time": 1774876584,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 267402,
       "num": 209686,
       "word": "李卿给齐姝的手写信",
@@ -555,6 +563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 227278,
+      "num": 534670,
+      "word": "张雪机车夺冠估值超10亿",
+      "onboard_time": 1774864823,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226769,
       "num": 226769,
       "word": "伊朗称美停战建议涉伊朗基本权利",
@@ -569,6 +585,14 @@
       "onboard_time": 1774856182,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226106,
+      "num": 524583,
+      "word": "隐身的名字大结局",
+      "onboard_time": 1774876883,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 222663,
@@ -627,12 +651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210835,
-      "num": 534670,
-      "word": "张雪机车夺冠估值超10亿",
-      "onboard_time": 1774864823,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 213135,
+      "num": 213135,
+      "word": "等田曦薇的收官文",
+      "onboard_time": 1774876764,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 205015,
@@ -675,14 +699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194628,
-      "num": 524583,
-      "word": "隐身的名字大结局",
-      "onboard_time": 1774876883,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191483,
       "num": 175866,
       "word": "全红婵称跳水从喜欢变成了任务",
@@ -691,19 +707,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189748,
-      "num": 189748,
-      "word": "等田曦薇的收官文",
-      "onboard_time": 1774876764,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188847,
       "num": 161943,
       "word": "张凌赫直播",
       "onboard_time": 1774870044,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186561,
+      "num": 186561,
+      "word": "吴楚一把陈牧驰还的钱捐了",
+      "onboard_time": 1774878324,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -819,14 +835,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 168427,
-      "num": 168427,
-      "word": "油价突然飙升",
-      "onboard_time": 1774876584,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 168146,
       "num": 669919,
       "word": "白桃星座一周运势",
@@ -891,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153557,
+      "num": 466019,
+      "word": "男子26套房开假装上班公司持续亏损",
+      "onboard_time": 1774877903,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149698,
       "num": 149698,
       "word": "全红婵回应未来打算",
@@ -915,6 +931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144808,
+      "num": 144808,
+      "word": "女子花上万办卡被按摩到癌细胞扩散",
+      "onboard_time": 1774873044,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144776,
       "num": 144776,
       "word": "刘学义资源",
@@ -928,14 +952,6 @@
       "word": "金匠寿司道歉",
       "onboard_time": 1774840766,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140700,
-      "num": 140700,
-      "word": "女子花上万办卡被按摩到癌细胞扩散",
-      "onboard_time": 1774873044,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1027,6 +1043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127997,
+      "num": 127997,
+      "word": "小28岁妻子十年相伴获3亿财产",
+      "onboard_time": 1774879226,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126824,
       "num": 177076,
       "word": "黑龙江一建筑坍塌7死2伤",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1774850243,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 126532,
+      "num": 504003,
+      "word": "白日提灯",
+      "onboard_time": 1774778967,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 125589,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1774863082,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 124495,
+      "num": 124495,
+      "word": "隐身的名字",
+      "onboard_time": 1774870584,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 122195,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1774860323,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119949,
+      "num": 438205,
+      "word": "vivo发布了一台相机",
+      "onboard_time": 1774877784,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 119686,
@@ -1203,14 +1251,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 110260,
-      "num": 438205,
-      "word": "vivo发布了一台相机",
-      "onboard_time": 1774877784,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 110003,
       "num": 110003,
       "word": "最爱齐旻的是邓凯",
@@ -1219,19 +1259,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109884,
-      "num": 504003,
-      "word": "白日提灯",
-      "onboard_time": 1774778967,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108366,
       "num": 108366,
       "word": "湖北一自行车赛突发意外",
       "onboard_time": 1774837284,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107959,
+      "num": 391758,
+      "word": "太原暴走团凌晨四点播放音乐扰民",
+      "onboard_time": 1774877843,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1257,14 +1297,6 @@
       "onboard_time": 1774869382,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105918,
-      "num": 105918,
-      "word": "隐身的名字",
-      "onboard_time": 1774870584,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 105775,
@@ -1337,14 +1369,6 @@
       "onboard_time": 1774840884,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 100144,
-      "num": 100144,
-      "word": "吴楚一把陈牧驰还的钱捐了",
-      "onboard_time": 1774878324,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 100107,
@@ -1451,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94341,
+      "num": 94341,
+      "word": "女子网购两箱凤梨不同地址品质悬殊",
+      "onboard_time": 1774878746,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94192,
       "num": 94192,
       "word": "孙颖莎的球超级霹雳转",
@@ -1539,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89732,
+      "num": 89732,
+      "word": "老外惊叹中国生活的便利性",
+      "onboard_time": 1774879105,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89563,
       "num": 89563,
       "word": "茅台涨价",
@@ -1569,6 +1609,14 @@
       "onboard_time": 1774870044,
       "rank": 43,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 88350,
+      "num": 88350,
+      "word": "杨丞琳成都演唱会晒厨艺撒狗粮",
+      "onboard_time": 1774878984,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 88245,
@@ -1707,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82162,
+      "num": 82162,
+      "word": "行长称招行已形成人人做零售氛围",
+      "onboard_time": 1774876403,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81859,
       "num": 81859,
       "word": "武汉一高校内现999秒超长红绿灯",
@@ -1779,14 +1835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77876,
-      "num": 401575,
-      "word": "男子26套房开假装上班公司持续亏损",
-      "onboard_time": 1774877903,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77710,
       "num": 77710,
       "word": "伊朗首都连遭2轮大规模空袭",
@@ -1857,6 +1905,14 @@
       "onboard_time": 1774860202,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75023,
+      "num": 425994,
+      "word": "vivo发布了一款民用哈勃",
+      "onboard_time": 1774875865,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 73560,
@@ -1945,14 +2001,6 @@
       "onboard_time": 1774842865,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 67136,
-      "num": 425994,
-      "word": "vivo发布了一款民用哈勃",
-      "onboard_time": 1774875865,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 66403,
@@ -2195,6 +2243,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 49504,
+      "num": 453903,
+      "word": "巴西一起飞客机发动机爆炸",
+      "onboard_time": 1774878685,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 49430,
       "num": 505969,
       "word": "带状疱疹72小时内一定要做这件事",
@@ -2371,6 +2427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35260,
+      "num": 222506,
+      "word": "高市早苗越描越黑",
+      "onboard_time": 1774879226,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35086,
       "num": 468291,
       "word": "车企已卷至日供29元",
@@ -2425,14 +2489,6 @@
       "onboard_time": 1774842325,
       "rank": 45,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 29515,
-      "num": 391758,
-      "word": "太原暴走团凌晨四点播放音乐扰民",
-      "onboard_time": 1774877843,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27240,
@@ -2593,14 +2649,6 @@
       "onboard_time": 1774870522,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9823,
-      "num": 106121,
-      "word": "巴西一起飞客机发动机爆炸",
-      "onboard_time": 1774878685,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 7431,

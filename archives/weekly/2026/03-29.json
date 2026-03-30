@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774878726373,
+  "endTime": 1774879698491,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 694885,
+      "num": 482572,
+      "word": "孟子义 从全世界的战斗中路过",
+      "onboard_time": 1774877063,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 692948,
       "num": 898063,
       "word": "汪峰演唱会",
@@ -280,14 +288,6 @@
       "word": "薛之谦",
       "onboard_time": 1774799726,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 666399,
-      "num": 482572,
-      "word": "孟子义 从全世界的战斗中路过",
-      "onboard_time": 1774877063,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -931,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270484,
+      "num": 270484,
+      "word": "油价突然飙升",
+      "onboard_time": 1774876584,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 269791,
       "num": 502803,
       "word": "深夜遇哭泣女子带其回家遭仙人跳",
@@ -1243,6 +1251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 227278,
+      "num": 534670,
+      "word": "张雪机车夺冠估值超10亿",
+      "onboard_time": 1774864823,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226769,
       "num": 226769,
       "word": "伊朗称美停战建议涉伊朗基本权利",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1774856182,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226106,
+      "num": 524583,
+      "word": "隐身的名字大结局",
+      "onboard_time": 1774876883,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 222663,
@@ -1363,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213135,
+      "num": 213135,
+      "word": "等田曦薇的收官文",
+      "onboard_time": 1774876764,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212328,
       "num": 927345,
       "word": "带状疱疹72小时内一定要做这件事",
@@ -1377,14 +1409,6 @@
       "onboard_time": 1774766721,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 210835,
-      "num": 534670,
-      "word": "张雪机车夺冠估值超10亿",
-      "onboard_time": 1774864823,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 209362,
@@ -1491,14 +1515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194628,
-      "num": 524583,
-      "word": "隐身的名字大结局",
-      "onboard_time": 1774876883,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194447,
       "num": 901709,
       "word": "美军战斧导弹消耗速度震惊五角大楼",
@@ -1563,14 +1579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189748,
-      "num": 189748,
-      "word": "等田曦薇的收官文",
-      "onboard_time": 1774876764,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189288,
       "num": 989883,
       "word": "蔡磊感觉最对不起的就是妻子",
@@ -1584,6 +1592,14 @@
       "word": "张凌赫直播",
       "onboard_time": 1774870044,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186561,
+      "num": 186561,
+      "word": "吴楚一把陈牧驰还的钱捐了",
+      "onboard_time": 1774878324,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1779,14 +1795,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 168427,
-      "num": 168427,
-      "word": "油价突然飙升",
-      "onboard_time": 1774876584,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 168137,
       "num": 154503,
       "word": "孔雪儿 俞浅浅你终于自由了",
@@ -1891,6 +1899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153557,
+      "num": 466019,
+      "word": "男子26套房开假装上班公司持续亏损",
+      "onboard_time": 1774877903,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152428,
       "num": 152428,
       "word": "伊朗警告袭击地区内美以大学",
@@ -1971,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144808,
+      "num": 144808,
+      "word": "女子花上万办卡被按摩到癌细胞扩散",
+      "onboard_time": 1774873044,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144776,
       "num": 144776,
       "word": "刘学义资源",
@@ -2008,14 +2032,6 @@
       "word": "金匠寿司道歉",
       "onboard_time": 1774840766,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140700,
-      "num": 140700,
-      "word": "女子花上万办卡被按摩到癌细胞扩散",
-      "onboard_time": 1774873044,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2219,6 +2235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127997,
+      "num": 127997,
+      "word": "小28岁妻子十年相伴获3亿财产",
+      "onboard_time": 1774879226,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127359,
       "num": 932044,
       "word": "村民办白事酒席老外误当成饭店",
@@ -2299,6 +2323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124495,
+      "num": 124495,
+      "word": "隐身的名字",
+      "onboard_time": 1774740318,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124300,
       "num": 501456,
       "word": "巧克力大盗",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1774793129,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119949,
+      "num": 438205,
+      "word": "vivo发布了一台相机",
+      "onboard_time": 1774877784,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 119686,
@@ -2571,14 +2611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110260,
-      "num": 438205,
-      "word": "vivo发布了一台相机",
-      "onboard_time": 1774877784,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 110205,
       "num": 105094,
       "word": "英女子与双胞胎有染难辨女儿生父",
@@ -2659,6 +2691,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 107959,
+      "num": 391758,
+      "word": "太原暴走团凌晨四点播放音乐扰民",
+      "onboard_time": 1774877843,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107901,
       "num": 141629,
       "word": "氯雷他定建议白天使用",
@@ -2729,14 +2769,6 @@
       "onboard_time": 1774869382,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105918,
-      "num": 105918,
-      "word": "隐身的名字",
-      "onboard_time": 1774740318,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 105775,
@@ -2915,14 +2947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100144,
-      "num": 100144,
-      "word": "吴楚一把陈牧驰还的钱捐了",
-      "onboard_time": 1774878324,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100107,
       "num": 88810,
       "word": "白鹿张真源跳了nobatidao",
@@ -3097,6 +3121,14 @@
       "onboard_time": 1774837525,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94341,
+      "num": 94341,
+      "word": "女子网购两箱凤梨不同地址品质悬殊",
+      "onboard_time": 1774878746,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94192,
@@ -3299,6 +3331,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 89732,
+      "num": 89732,
+      "word": "老外惊叹中国生活的便利性",
+      "onboard_time": 1774879105,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89563,
       "num": 89563,
       "word": "茅台涨价",
@@ -3353,6 +3393,14 @@
       "onboard_time": 1774870044,
       "rank": 43,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 88350,
+      "num": 88350,
+      "word": "杨丞琳成都演唱会晒厨艺撒狗粮",
+      "onboard_time": 1774878984,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 88304,
@@ -3675,6 +3723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82162,
+      "num": 82162,
+      "word": "行长称招行已形成人人做零售氛围",
+      "onboard_time": 1774876403,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81977,
       "num": 95034,
       "word": "AG战胜JDG",
@@ -3899,14 +3955,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 77876,
-      "num": 401575,
-      "word": "男子26套房开假装上班公司持续亏损",
-      "onboard_time": 1774877903,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77822,
       "num": 886154,
       "word": "美军两栖攻击舰抵达中东",
@@ -4033,6 +4081,14 @@
       "onboard_time": 1774741699,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75023,
+      "num": 425994,
+      "word": "vivo发布了一款民用哈勃",
+      "onboard_time": 1774875865,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 74791,
@@ -4337,14 +4393,6 @@
       "onboard_time": 1774787608,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67136,
-      "num": 425994,
-      "word": "vivo发布了一款民用哈勃",
-      "onboard_time": 1774875865,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 66742,
@@ -4811,6 +4859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49504,
+      "num": 453903,
+      "word": "巴西一起飞客机发动机爆炸",
+      "onboard_time": 1774878685,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 49111,
       "num": 511337,
       "word": "酒类女性消费者崛起",
@@ -5059,6 +5115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35260,
+      "num": 222506,
+      "word": "高市早苗越描越黑",
+      "onboard_time": 1774879226,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33933,
       "num": 504684,
       "word": "孙颖莎演我被老师留堂",
@@ -5121,14 +5185,6 @@
       "onboard_time": 1774842325,
       "rank": 45,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 29515,
-      "num": 391758,
-      "word": "太原暴走团凌晨四点播放音乐扰民",
-      "onboard_time": 1774877843,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27287,
@@ -5409,14 +5465,6 @@
       "onboard_time": 1774870522,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9823,
-      "num": 106121,
-      "word": "巴西一起飞客机发动机爆炸",
-      "onboard_time": 1774878685,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 7431,
