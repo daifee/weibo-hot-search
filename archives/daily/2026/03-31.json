@@ -1,6 +1,6 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774894451493,
+  "endTime": 1774897832918,
   "band_list": [
     {
       "raw_hot": 1515452,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108856,
+      "num": 51197,
+      "word": "利比被环球音乐威胁",
+      "onboard_time": 1774893917,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107879,
       "num": 191998,
       "word": "上海电信",
@@ -200,14 +208,6 @@
       "word": "粉丝称黄霄云侵权华晨宇",
       "onboard_time": 1774881805,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 71859,
-      "num": 51197,
-      "word": "利比被环球音乐威胁",
-      "onboard_time": 1774893917,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -475,12 +475,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20448,
+      "num": 22807,
+      "word": "范丞丞黄明昊宣传小鬼新专",
+      "onboard_time": 1774895596,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 18073,
       "num": 36755,
       "word": "油价突然飙升",
       "onboard_time": 1774876584,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 17354,
+      "num": 22795,
+      "word": "田曦薇后援会抽奖",
+      "onboard_time": 1774897035,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17167,
+      "num": 22804,
+      "word": "电信一分公司阻碍携号转网被罚20万",
+      "onboard_time": 1774896074,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16111,
+      "num": 22790,
+      "word": "白日提灯微博云包场",
+      "onboard_time": 1774897634,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15559,
+      "num": 22789,
+      "word": "WB战胜LGDNBW",
+      "onboard_time": 1774881985,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 7853,
