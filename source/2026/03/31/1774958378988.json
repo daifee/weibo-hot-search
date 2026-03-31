@@ -1,0 +1,410 @@
+{
+  "runTime": 1774958378988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 603896,
+        "num": 1096623,
+        "word": "瑞幸 紫椰子",
+        "onboard_time": 1774946664,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168611,
+        "num": 777201,
+        "word": "国足负于10人喀麦隆",
+        "onboard_time": 1774945763,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63683,
+        "num": 647459,
+        "word": "4月一批新规将施行",
+        "onboard_time": 1774945404,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168713,
+        "num": 594855,
+        "word": "市委书记以球员身份参加县超",
+        "onboard_time": 1774955124,
+        "rank": 3,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 124801,
+        "num": 571729,
+        "word": "文旅局回应宠物友好酒店推荐吃狗肉",
+        "onboard_time": 1774952243,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6105009,
+        "num": 6105009,
+        "word": "未发现鞠婧祎涉税问题",
+        "onboard_time": 1774957106,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549260,
+        "num": 549260,
+        "word": "宋雨琦 跑男",
+        "onboard_time": 1774955725,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222718,
+        "num": 222718,
+        "word": "张雪",
+        "onboard_time": 1774943063,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196906,
+        "num": 196906,
+        "word": "原来香蕉有辐射",
+        "onboard_time": 1774951463,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319289,
+        "num": 191920,
+        "word": "跳楼机数月吸金4000万原唱收入为0",
+        "onboard_time": 1774952786,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467601,
+        "num": 189824,
+        "word": "妻子5次试管成功同年丈夫与情人生子",
+        "onboard_time": 1774954824,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266759,
+        "num": 186280,
+        "word": "十日终焉",
+        "onboard_time": 1774951282,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261840,
+        "num": 176133,
+        "word": "孙颖莎瘦了不止一点点",
+        "onboard_time": 1774955544,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250950,
+        "num": 170674,
+        "word": "王者荣耀返场",
+        "onboard_time": 1774952362,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248780,
+        "num": 166615,
+        "word": "徐梦洁人气",
+        "onboard_time": 1774951883,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232385,
+        "num": 164798,
+        "word": "张一山真的翻拍重案六组",
+        "onboard_time": 1774955843,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159935,
+        "num": 159935,
+        "word": "怪不得公司一边招人一边裁员",
+        "onboard_time": 1774943604,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219614,
+        "num": 159602,
+        "word": "乘风2026排名",
+        "onboard_time": 1774949124,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55894,
+        "num": 155027,
+        "word": "春天的第一箱油是一汽大众给的",
+        "onboard_time": 1774955843,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 190657,
+        "num": 149331,
+        "word": "严浩翔考核试卷",
+        "onboard_time": 1774943903,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 894734,
+        "num": 145591,
+        "word": "李荣浩 不是嫂子是歌手杨丞琳",
+        "onboard_time": 1774952722,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145208,
+        "num": 145208,
+        "word": "黄油年糕被改名为韩国年糕",
+        "onboard_time": 1774940483,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 826110,
+        "num": 143360,
+        "word": "鞠婧祎工作室声明",
+        "onboard_time": 1774932507,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312695,
+        "num": 143265,
+        "word": "时代少年团直播",
+        "onboard_time": 1774954584,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141203,
+        "num": 141203,
+        "word": "4月锦鲤附体的星座",
+        "onboard_time": 1774954523,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308200,
+        "num": 136228,
+        "word": "向佐终于像个人了",
+        "onboard_time": 1774957345,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221911,
+        "num": 133545,
+        "word": "愚人节改名",
+        "onboard_time": 1774953682,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115981,
+        "num": 115981,
+        "word": "麻辣烫里最夯的是啥菜",
+        "onboard_time": 1774942763,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 183245,
+        "num": 115192,
+        "word": "丝芭 我司并非举报主体",
+        "onboard_time": 1774954943,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143706,
+        "num": 114813,
+        "word": "陈妍希跟腱断裂",
+        "onboard_time": 1774948283,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103984,
+        "num": 113051,
+        "word": "王楚钦直言比赛密集",
+        "onboard_time": 1774958125,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134207,
+        "num": 112121,
+        "word": "曾沛慈人气第一",
+        "onboard_time": 1774941924,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126053,
+        "num": 111146,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774944802,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99804,
+        "num": 109510,
+        "word": "广州暴雨动物园里的大象是什么反应",
+        "onboard_time": 1774957765,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109486,
+        "num": 109486,
+        "word": "陈飞宇为了看罗云熙倒着走红毯",
+        "onboard_time": 1774957886,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108271,
+        "num": 108271,
+        "word": "时代少年团 录播",
+        "onboard_time": 1774958186,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99574,
+        "num": 108001,
+        "word": "物理学无法解释的一个现象",
+        "onboard_time": 1774956143,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 58814,
+        "num": 106240,
+        "word": "动荡的内娱迎来了最清醒的粉丝",
+        "onboard_time": 1774940423,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51470,
+        "num": 105672,
+        "word": "店员称肯德基按月付费歌曲版权",
+        "onboard_time": 1774957645,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20977,
+        "num": 103598,
+        "word": "赴港存款降温",
+        "onboard_time": 1774957226,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96596,
+        "num": 102901,
+        "word": "东鹏饮料赞助张雪机车费用涉商业机密",
+        "onboard_time": 1774956624,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102345,
+        "num": 102345,
+        "word": "逐玉造型指导回应张凌赫造型争议",
+        "onboard_time": 1774952124,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100081,
+        "num": 100081,
+        "word": "陈瑶恋爱告急初舞台",
+        "onboard_time": 1774956563,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98890,
+        "num": 98890,
+        "word": "上迪随机抓路人当氛围组",
+        "onboard_time": 1774957945,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 94849,
+        "num": 94849,
+        "word": "收手吧阿瑟",
+        "onboard_time": 1774958245,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93154,
+        "num": 93154,
+        "word": "怕吹风机的猫陪主人吹头发",
+        "onboard_time": 1774958004,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92297,
+        "num": 92297,
+        "word": "韩国股市跌入熊市",
+        "onboard_time": 1774955061,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90096,
+        "num": 90096,
+        "word": "邓凯Prada活动",
+        "onboard_time": 1774953805,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 89126,
+        "num": 89126,
+        "word": "黄金再大涨原因",
+        "onboard_time": 1774958306,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88403,
+        "num": 88403,
+        "word": "白日提灯",
+        "onboard_time": 1774956444,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中国式现代化底色更加亮丽#"
+    }
+  }
+}

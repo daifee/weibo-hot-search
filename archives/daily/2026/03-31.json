@@ -1,6 +1,6 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774956502212,
+  "endTime": 1774958378988,
   "band_list": [
     {
       "raw_hot": 14644675,
@@ -24,6 +24,14 @@
       "word": "鞠婧祎 收入明细",
       "onboard_time": 1774923746,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6105009,
+      "num": 6105009,
+      "word": "未发现鞠婧祎涉税问题",
+      "onboard_time": 1774957106,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 549260,
+      "num": 549260,
+      "word": "宋雨琦 跑男",
+      "onboard_time": 1774955725,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515327,
       "num": 515327,
       "word": "乘风2026排名",
@@ -177,6 +193,14 @@
       "onboard_time": 1774912580,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467601,
+      "num": 267469,
+      "word": "妻子5次试管成功同年丈夫与情人生子",
+      "onboard_time": 1774954824,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 461528,
@@ -347,14 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 338996,
-      "num": 338996,
-      "word": "宋雨琦 跑男",
-      "onboard_time": 1774955725,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 336040,
       "num": 792506,
       "word": "张雪",
@@ -403,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 319289,
+      "num": 268951,
+      "word": "跳楼机数月吸金4000万原唱收入为0",
+      "onboard_time": 1774952786,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 318348,
       "num": 318348,
       "word": "徐梦洁人气",
@@ -443,12 +467,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 304798,
-      "num": 268951,
-      "word": "跳楼机数月吸金4000万原唱收入为0",
-      "onboard_time": 1774952786,
-      "rank": 14,
-      "category": "音乐"
+      "raw_hot": 308200,
+      "num": 136228,
+      "word": "向佐终于像个人了",
+      "onboard_time": 1774957345,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 303347,
@@ -457,14 +481,6 @@
       "onboard_time": 1774880365,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 298838,
-      "num": 267469,
-      "word": "妻子5次试管成功同年丈夫与情人生子",
-      "onboard_time": 1774954824,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 295840,
@@ -515,6 +531,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 261840,
+      "num": 180832,
+      "word": "孙颖莎瘦了不止一点点",
+      "onboard_time": 1774955544,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257846,
       "num": 257846,
       "word": "美以伊地面战一触即发",
@@ -552,6 +576,14 @@
       "word": "郭敬明 审美",
       "onboard_time": 1774927346,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232385,
+      "num": 182873,
+      "word": "张一山真的翻拍重案六组",
+      "onboard_time": 1774955843,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -617,6 +649,14 @@
       "onboard_time": 1774923806,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 221911,
+      "num": 133545,
+      "word": "愚人节改名",
+      "onboard_time": 1774953682,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221883,
@@ -787,14 +827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180832,
-      "num": 180832,
-      "word": "孙颖莎瘦了不止一点点",
-      "onboard_time": 1774955544,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174650,
       "num": 157813,
       "word": "10部影片定档2026五一档",
@@ -809,14 +841,6 @@
       "onboard_time": 1774931428,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 172335,
-      "num": 127311,
-      "word": "愚人节改名",
-      "onboard_time": 1774953682,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 171941,
@@ -867,20 +891,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168713,
+      "num": 594855,
+      "word": "市委书记以球员身份参加县超",
+      "onboard_time": 1774955124,
+      "rank": 32,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 167995,
       "num": 156415,
       "word": "刘敏涛拍完30集被扶着走",
       "onboard_time": 1774924946,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166671,
-      "num": 127173,
-      "word": "市委书记以球员身份参加县超",
-      "onboard_time": 1774955124,
-      "rank": 32,
-      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 163384,
@@ -1011,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141203,
+      "num": 141203,
+      "word": "4月锦鲤附体的星座",
+      "onboard_time": 1774954523,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139978,
       "num": 139978,
       "word": "张雪靠2万元创业",
@@ -1052,7 +1084,7 @@
     },
     {
       "raw_hot": 137309,
-      "num": 525617,
+      "num": 571729,
       "word": "文旅局回应宠物友好酒店推荐吃狗肉",
       "onboard_time": 1774952243,
       "rank": 4,
@@ -1169,14 +1201,6 @@
       "onboard_time": 1774948526,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 127057,
-      "num": 127057,
-      "word": "4月锦鲤附体的星座",
-      "onboard_time": 1774954523,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 126567,
@@ -1371,6 +1395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 109486,
+      "num": 109486,
+      "word": "陈飞宇为了看罗云熙倒着走红毯",
+      "onboard_time": 1774957886,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108879,
       "num": 108879,
       "word": "张雪商业版图",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1774953384,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108271,
+      "num": 108271,
+      "word": "时代少年团 录播",
+      "onboard_time": 1774958186,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 107879,
@@ -1475,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103984,
+      "num": 113051,
+      "word": "王楚钦直言比赛密集",
+      "onboard_time": 1774958125,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103922,
       "num": 103922,
       "word": "月鳞绮纪全员be",
@@ -1497,6 +1545,22 @@
       "onboard_time": 1774929806,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100081,
+      "num": 100081,
+      "word": "陈瑶恋爱告急初舞台",
+      "onboard_time": 1774956563,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99804,
+      "num": 109510,
+      "word": "广州暴雨动物园里的大象是什么反应",
+      "onboard_time": 1774957765,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 99689,
@@ -1529,6 +1593,14 @@
       "onboard_time": 1774933106,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98890,
+      "num": 98890,
+      "word": "上迪随机抓路人当氛围组",
+      "onboard_time": 1774957945,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 98677,
@@ -1579,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96596,
+      "num": 102901,
+      "word": "东鹏饮料赞助张雪机车费用涉商业机密",
+      "onboard_time": 1774956624,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96002,
       "num": 98701,
       "word": "狗狗消费降级后脸色都变了",
@@ -1603,6 +1683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94849,
+      "num": 94849,
+      "word": "收手吧阿瑟",
+      "onboard_time": 1774958245,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 94070,
       "num": 94070,
       "word": "AI大厂月薪6万招不到人",
@@ -1617,6 +1705,22 @@
       "onboard_time": 1774919603,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 93154,
+      "num": 93154,
+      "word": "怕吹风机的猫陪主人吹头发",
+      "onboard_time": 1774958004,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 92297,
+      "num": 92297,
+      "word": "韩国股市跌入熊市",
+      "onboard_time": 1774955061,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 91905,
@@ -1755,6 +1859,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 89126,
+      "num": 89126,
+      "word": "黄金再大涨原因",
+      "onboard_time": 1774958306,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 88403,
+      "num": 88403,
+      "word": "白日提灯",
+      "onboard_time": 1774867044,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88209,
       "num": 88209,
       "word": "王楚钦3比0E约内斯库",
@@ -1787,14 +1907,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 86229,
-      "num": 182873,
-      "word": "张一山真的翻拍重案六组",
-      "onboard_time": 1774955843,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86016,
       "num": 86016,
       "word": "卜凡弹幕 禁止打赏",
@@ -1824,14 +1936,6 @@
       "word": "刘雅瑟耳朵红透了",
       "onboard_time": 1774949903,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 84991,
-      "num": 84991,
-      "word": "白日提灯",
-      "onboard_time": 1774867044,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -2131,6 +2235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 55894,
+      "num": 181620,
+      "word": "春天的第一箱油是一汽大众给的",
+      "onboard_time": 1774955843,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55127,
       "num": 55127,
       "word": "陈飞宇 篮球和迪丽热巴",
@@ -2153,6 +2265,14 @@
       "onboard_time": 1774881626,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 51470,
+      "num": 105672,
+      "word": "店员称肯德基按月付费歌曲版权",
+      "onboard_time": 1774957645,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50905,
@@ -2201,14 +2321,6 @@
       "onboard_time": 1774883065,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47282,
-      "num": 181620,
-      "word": "春天的第一箱油是一汽大众给的",
-      "onboard_time": 1774955843,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 46296,
@@ -2457,6 +2569,14 @@
       "onboard_time": 1774956022,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20977,
+      "num": 103598,
+      "word": "赴港存款降温",
+      "onboard_time": 1774957226,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 18387,
