@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774950030800,
+  "endTime": 1774954959159,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -129,6 +129,14 @@
       "onboard_time": 1774884683,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1668333,
+      "num": 157071,
+      "word": "李荣浩 不是嫂子是歌手杨丞琳",
+      "onboard_time": 1774952722,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1617840,
@@ -571,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 515327,
+      "num": 515327,
+      "word": "乘风2026排名",
+      "onboard_time": 1774949124,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510911,
       "num": 510911,
       "word": "陈都灵预告15秒换了13套衣服",
@@ -675,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 461528,
+      "num": 461528,
+      "word": "十日终焉",
+      "onboard_time": 1774951282,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460234,
       "num": 297885,
       "word": "杂志抽成",
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 454602,
-      "num": 132610,
+      "num": 155999,
       "word": "陈妍希跟腱断裂",
       "onboard_time": 1774948283,
       "rank": 24,
@@ -713,6 +737,14 @@
       "onboard_time": 1774940483,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 444338,
+      "num": 559922,
+      "word": "王者荣耀返场",
+      "onboard_time": 1774952362,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 443679,
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 393685,
-      "num": 196938,
+      "num": 265525,
       "word": "怪不得公司一边招人一边裁员",
       "onboard_time": 1774943604,
       "rank": 12,
@@ -948,7 +980,7 @@
     },
     {
       "raw_hot": 370365,
-      "num": 195845,
+      "num": 285290,
       "word": "严浩翔考核试卷",
       "onboard_time": 1774943903,
       "rank": 13,
@@ -961,6 +993,14 @@
       "onboard_time": 1774853843,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367212,
+      "num": 367212,
+      "word": "原来香蕉有辐射",
+      "onboard_time": 1774951463,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 365806,
@@ -1027,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336040,
+      "num": 792506,
+      "word": "张雪",
+      "onboard_time": 1774943063,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334127,
       "num": 334127,
       "word": "身份证有效期和年龄有关",
@@ -1089,6 +1137,14 @@
       "onboard_time": 1774878324,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318348,
+      "num": 318348,
+      "word": "徐梦洁人气",
+      "onboard_time": 1774951883,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 317980,
@@ -1225,14 +1281,6 @@
       "onboard_time": 1774774232,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291902,
-      "num": 792506,
-      "word": "张雪",
-      "onboard_time": 1774943063,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 291335,
@@ -2395,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183332,
+      "num": 183332,
+      "word": "跳楼机数月吸金4000万原唱收入为0",
+      "onboard_time": 1774952786,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180705,
       "num": 125588,
       "word": "张震岳收藏吐槽周杰伦的文章",
@@ -2659,6 +2715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163384,
+      "num": 155077,
+      "word": "逐玉造型指导回应张凌赫造型争议",
+      "onboard_time": 1774952124,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162620,
       "num": 162620,
       "word": "粉丝称黄霄云侵权华晨宇",
@@ -2785,6 +2849,14 @@
       "onboard_time": 1774931965,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 154874,
+      "num": 154874,
+      "word": "朱莉眼睛怎么了",
+      "onboard_time": 1774949663,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 154812,
@@ -3219,6 +3291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131468,
+      "num": 157776,
+      "word": "不知火舞小乔无双皮肤返场",
+      "onboard_time": 1774954763,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131151,
       "num": 146502,
       "word": "不是正剧就不用较真粉底液将军吗",
@@ -3435,20 +3515,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 124087,
+      "num": 124087,
+      "word": "愚人节改名",
+      "onboard_time": 1774953682,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123646,
       "num": 109690,
       "word": "东鹏特饮押宝张雪机车赢麻了",
       "onboard_time": 1774887562,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123147,
-      "num": 123147,
-      "word": "乘风2026排名",
-      "onboard_time": 1774949124,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 122960,
@@ -3491,6 +3571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121293,
+      "num": 155594,
+      "word": "男子逛妈祖庙偷走妈祖9190元金耳环",
+      "onboard_time": 1774952662,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120769,
       "num": 120769,
       "word": "刘诗诗感谢复刻龙葵头冠网友",
@@ -3521,6 +3609,14 @@
       "onboard_time": 1774874603,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119487,
+      "num": 119487,
+      "word": "邓凯Prada活动",
+      "onboard_time": 1774953805,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 119404,
@@ -3563,20 +3659,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119069,
+      "num": 119069,
+      "word": "鞠婧祎说好看吗",
+      "onboard_time": 1774951463,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118831,
       "num": 118831,
       "word": "美特种部队数百人抵达中东",
       "onboard_time": 1774836804,
       "rank": 19,
       "category": "军事"
-    },
-    {
-      "raw_hot": 117522,
-      "num": 117522,
-      "word": "朱莉眼睛怎么了",
-      "onboard_time": 1774949663,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 117346,
@@ -3699,6 +3795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113122,
+      "num": 121689,
+      "word": "被骗900万后发现男友另有47岁女友",
+      "onboard_time": 1774950862,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112880,
       "num": 112880,
       "word": "苹果回应推送国行版AI",
@@ -3721,6 +3825,14 @@
       "onboard_time": 1774758860,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112596,
+      "num": 112596,
+      "word": "不知火舞花合斗返场",
+      "onboard_time": 1774954163,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 112571,
@@ -3923,6 +4035,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 108469,
+      "num": 108469,
+      "word": "龚俊 高干文男主",
+      "onboard_time": 1774953384,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108372,
       "num": 108372,
       "word": "刘涛郝蕾说的是谁",
@@ -4059,6 +4179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105848,
+      "num": 525617,
+      "word": "文旅局回应宠物友好酒店推荐吃狗肉",
+      "onboard_time": 1774952243,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105775,
       "num": 105775,
       "word": "鹿晗艾特范志毅",
@@ -4092,7 +4220,7 @@
     },
     {
       "raw_hot": 105317,
-      "num": 123383,
+      "num": 149666,
       "word": "中国3艘船成功通过霍尔木兹海峡",
       "onboard_time": 1774944682,
       "rank": 36,
@@ -4299,6 +4427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99689,
+      "num": 155419,
+      "word": "国乒澳门世界杯首场失利",
+      "onboard_time": 1774953503,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99658,
       "num": 99658,
       "word": "愚公生的是你俩山早移走了",
@@ -4419,6 +4555,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 97025,
+      "num": 97025,
+      "word": "4月锦鲤附体的星座",
+      "onboard_time": 1774954523,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96845,
       "num": 128192,
       "word": "全红婵19岁发文",
@@ -4457,6 +4601,14 @@
       "onboard_time": 1774949543,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95979,
+      "num": 95979,
+      "word": "时代少年团直播",
+      "onboard_time": 1774954584,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 95850,
@@ -4771,6 +4923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90907,
+      "num": 90907,
+      "word": "张雪个人借款超千万只为做发动机",
+      "onboard_time": 1774951524,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90905,
       "num": 90905,
       "word": "张雪机车背后上市公司股价大涨",
@@ -4899,6 +5059,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 89315,
+      "num": 89315,
+      "word": "DeepSeek回应又崩了",
+      "onboard_time": 1774953984,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89097,
       "num": 105467,
       "word": "孙颖莎王曼昱首日出战",
@@ -4961,6 +5129,14 @@
       "onboard_time": 1774828462,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 88209,
+      "num": 88209,
+      "word": "王楚钦3比0E约内斯库",
+      "onboard_time": 1774954523,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 88163,
@@ -5923,6 +6099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 73292,
+      "num": 96703,
+      "word": "妻子5次试管成功同年丈夫与情人生子",
+      "onboard_time": 1774954824,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72882,
       "num": 156839,
       "word": "世界杯国乒男单分组",
@@ -6795,6 +6979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47875,
+      "num": 96476,
+      "word": "伊朗发动第88波打击",
+      "onboard_time": 1774954824,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47516,
       "num": 54607,
       "word": "Sora每天烧掉1500万美元",
@@ -6809,6 +7001,14 @@
       "onboard_time": 1774828343,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 45638,
+      "num": 157678,
+      "word": "朱莉舒淇TF活动世纪同框",
+      "onboard_time": 1774951883,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 45476,
@@ -6979,6 +7179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 40094,
+      "num": 96181,
+      "word": "Patagonia回应要收地球使用费",
+      "onboard_time": 1774953443,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39978,
       "num": 188243,
       "word": "新能源汽车安全没有上限",
@@ -7083,6 +7291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32083,
+      "num": 96288,
+      "word": "146斤男子2年暴增至523斤",
+      "onboard_time": 1774954824,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31647,
       "num": 76567,
       "word": "跑男录制第一视角",
@@ -7145,6 +7361,14 @@
       "onboard_time": 1774944261,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 29074,
+      "num": 157231,
+      "word": "亡母被结婚26岁女儿为母讨清白",
+      "onboard_time": 1774953743,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28957,
@@ -7321,6 +7545,14 @@
       "onboard_time": 1774859542,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21798,
+      "num": 96878,
+      "word": "打开微博被谢霆锋行程吓晕",
+      "onboard_time": 1774954824,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 21035,
