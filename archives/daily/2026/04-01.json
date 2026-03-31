@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1774994613647,
+  "endTime": 1774996975540,
   "band_list": [
     {
       "raw_hot": 2081325,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182575,
+      "num": 182575,
+      "word": "抗癌博主朱明月去世其女发声",
+      "onboard_time": 1774969704,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163335,
       "num": 163335,
       "word": "伊朗称将沙特视为兄弟国家",
@@ -67,12 +75,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 132980,
-      "num": 132980,
-      "word": "抗癌博主朱明月去世其女发声",
-      "onboard_time": 1774969704,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 147768,
+      "num": 147768,
+      "word": "美国军人向脱衣舞女泄露部署计划",
+      "onboard_time": 1774967605,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129873,
@@ -83,14 +91,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 128781,
-      "num": 128781,
-      "word": "美国军人向脱衣舞女泄露部署计划",
-      "onboard_time": 1774967605,
-      "rank": 6,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128088,
       "num": 128088,
       "word": "女子常来病房摸17岁离世儿子名字",
@@ -99,8 +99,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117860,
-      "num": 192282,
+      "raw_hot": 125141,
+      "num": 475647,
       "word": "曝雷军押注的中年人泡泡玛特将上市",
       "onboard_time": 1774960467,
       "rank": 7,
@@ -139,6 +139,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103799,
+      "num": 74957,
+      "word": "妻子5次试管成功同年丈夫与情人生子",
+      "onboard_time": 1774954824,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103054,
+      "num": 338618,
+      "word": "中国无人机蜂群突击铺天盖地",
+      "onboard_time": 1774968685,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 101252,
       "num": 71938,
       "word": "en王翊恩回应离过婚",
@@ -155,20 +171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93601,
-      "num": 46604,
+      "raw_hot": 100308,
+      "num": 100308,
+      "word": "运动员退役后从146斤暴涨至523斤",
+      "onboard_time": 1774966226,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97365,
+      "num": 97365,
       "word": "杨幂拼豆庆祝绿苑二十周年",
       "onboard_time": 1774978337,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86950,
-      "num": 115941,
-      "word": "中国无人机蜂群突击铺天盖地",
-      "onboard_time": 1774968685,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 81284,
@@ -177,14 +193,6 @@
       "onboard_time": 1774967245,
       "rank": 18,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 75906,
-      "num": 74957,
-      "word": "妻子5次试管成功同年丈夫与情人生子",
-      "onboard_time": 1774954824,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75683,
@@ -201,6 +209,22 @@
       "onboard_time": 1774970123,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74739,
+      "num": 62460,
+      "word": "女子回应获3亿遗产引丈夫子女不满",
+      "onboard_time": 1774963405,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73956,
+      "num": 73956,
+      "word": "特朗普希望4月6日前与伊朗签协议",
+      "onboard_time": 1774975999,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73632,
@@ -243,12 +267,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 62460,
-      "num": 62460,
-      "word": "女子回应获3亿遗产引丈夫子女不满",
-      "onboard_time": 1774963405,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 66547,
+      "num": 99120,
+      "word": "中方三艘船舶过航霍尔木兹海峡",
+      "onboard_time": 1774981036,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 63721,
+      "num": 63721,
+      "word": "俄方拒绝给日本供油",
+      "onboard_time": 1774960227,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61956,
@@ -257,22 +289,6 @@
       "onboard_time": 1774972162,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61841,
-      "num": 48377,
-      "word": "特朗普希望4月6日前与伊朗签协议",
-      "onboard_time": 1774975999,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 60692,
-      "num": 60692,
-      "word": "运动员退役后从146斤暴涨至523斤",
-      "onboard_time": 1774966226,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 60486,
@@ -289,14 +305,6 @@
       "onboard_time": 1774973722,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59016,
-      "num": 59016,
-      "word": "俄方拒绝给日本供油",
-      "onboard_time": 1774960227,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 58737,
@@ -331,6 +339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56000,
+      "num": 56000,
+      "word": "张慧雯人气",
+      "onboard_time": 1774995255,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54616,
       "num": 54616,
       "word": "张元英跳复仇摇",
@@ -361,6 +377,14 @@
       "onboard_time": 1774973483,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48642,
+      "num": 48642,
+      "word": "美军进攻伊朗岛屿将变成活靶子",
+      "onboard_time": 1774971623,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48204,
@@ -395,22 +419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43578,
-      "num": 43578,
-      "word": "中方三艘船舶过航霍尔木兹海峡",
-      "onboard_time": 1774981036,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 42140,
-      "num": 42140,
-      "word": "美军进攻伊朗岛屿将变成活靶子",
-      "onboard_time": 1774971623,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39517,
       "num": 39517,
       "word": "Jiwoo大吧 豆包",
@@ -427,12 +435,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35531,
-      "num": 35531,
+      "raw_hot": 36124,
+      "num": 44002,
       "word": "伊朗警告打击地区美高科技相关企业",
       "onboard_time": 1774976898,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35507,
+      "num": 43756,
+      "word": "19岁的张雪",
+      "onboard_time": 1774975280,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34830,
@@ -444,34 +460,50 @@
     },
     {
       "raw_hot": 31752,
-      "num": 31752,
+      "num": 43614,
       "word": "你好1983",
       "onboard_time": 1774979475,
       "rank": 27,
       "category": "剧集"
     },
     {
-      "raw_hot": 25641,
-      "num": 23272,
-      "word": "19岁的张雪",
-      "onboard_time": 1774975280,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 31752,
+      "num": 43747,
+      "word": "特朗普被曝希望快速结束战争",
+      "onboard_time": 1774980435,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 24523,
-      "num": 24523,
+      "raw_hot": 30484,
+      "num": 43725,
       "word": "盗墓笔记",
       "onboard_time": 1774967426,
       "rank": 40,
       "category": "读书作家"
     },
     {
-      "raw_hot": 23837,
-      "num": 23837,
-      "word": "特朗普被曝希望快速结束战争",
-      "onboard_time": 1774980435,
-      "rank": 43,
+      "raw_hot": 27285,
+      "num": 43664,
+      "word": "美博主称中国小学生胜过美国大学生",
+      "onboard_time": 1774996397,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 25528,
+      "num": 43652,
+      "word": "张雪让世界记住了中国摩托",
+      "onboard_time": 1774981754,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23852,
+      "num": 43633,
+      "word": "伊朗发动第87波攻势",
+      "onboard_time": 1774982956,
+      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -483,12 +515,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18661,
-      "num": 19807,
-      "word": "张雪让世界记住了中国摩托",
-      "onboard_time": 1774981754,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 20708,
+      "num": 43595,
+      "word": "檀健次何不同舟渡喝酒路透",
+      "onboard_time": 1774983135,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19122,
+      "num": 43562,
+      "word": "孟晚舟华为年报致辞谈战略聚焦",
+      "onboard_time": 1774962445,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 18840,
+      "num": 43545,
+      "word": "月鳞绮纪定档0401",
+      "onboard_time": 1774981516,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 18559,
@@ -497,38 +545,6 @@
       "onboard_time": 1774983975,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18471,
-      "num": 19772,
-      "word": "檀健次何不同舟渡喝酒路透",
-      "onboard_time": 1774983135,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 16807,
-      "num": 19795,
-      "word": "伊朗发动第87波攻势",
-      "onboard_time": 1774982956,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 16142,
-      "num": 19785,
-      "word": "孟晚舟华为年报致辞谈战略聚焦",
-      "onboard_time": 1774962445,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 15634,
-      "num": 19775,
-      "word": "月鳞绮纪定档0401",
-      "onboard_time": 1774981516,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 11569,

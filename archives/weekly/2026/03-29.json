@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774994613647,
+  "endTime": 1774996975540,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -3516,7 +3516,7 @@
     },
     {
       "raw_hot": 139315,
-      "num": 226662,
+      "num": 338618,
       "word": "中国无人机蜂群突击铺天盖地",
       "onboard_time": 1774968685,
       "rank": 9,
@@ -5179,6 +5179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97365,
+      "num": 97365,
+      "word": "杨幂拼豆庆祝绿苑二十周年",
+      "onboard_time": 1774978337,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97347,
       "num": 97347,
       "word": "美军为在伊朗数周地面行动做准备",
@@ -5385,14 +5393,6 @@
       "onboard_time": 1774712543,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93601,
-      "num": 46604,
-      "word": "杨幂拼豆庆祝绿苑二十周年",
-      "onboard_time": 1774978337,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 93331,
@@ -6787,6 +6787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73956,
+      "num": 73956,
+      "word": "特朗普希望4月6日前与伊朗签协议",
+      "onboard_time": 1774975999,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73660,
       "num": 73660,
       "word": "父母回应儿子用吸粪车做婚车",
@@ -7139,6 +7147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 66547,
+      "num": 99120,
+      "word": "中方三艘船舶过航霍尔木兹海峡",
+      "onboard_time": 1774981036,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66403,
       "num": 136048,
       "word": "美以空袭伊朗一儿童游乐场",
@@ -7345,14 +7361,6 @@
       "onboard_time": 1774833266,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61841,
-      "num": 48377,
-      "word": "特朗普希望4月6日前与伊朗签协议",
-      "onboard_time": 1774975999,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 61757,
@@ -7617,6 +7625,14 @@
       "onboard_time": 1774838064,
       "rank": 28,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 56000,
+      "num": 56000,
+      "word": "张慧雯人气",
+      "onboard_time": 1774995255,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 55894,
@@ -7963,14 +7979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43578,
-      "num": 43578,
-      "word": "中方三艘船舶过航霍尔木兹海峡",
-      "onboard_time": 1774981036,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 43480,
       "num": 101717,
       "word": "15岁初中生酒后鱼塘野浴溺亡",
@@ -8155,6 +8163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36124,
+      "num": 44002,
+      "word": "伊朗警告打击地区美高科技相关企业",
+      "onboard_time": 1774976898,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36002,
       "num": 117548,
       "word": "王伟烈士墓前摆满中国战机",
@@ -8163,12 +8179,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 35531,
-      "num": 35531,
-      "word": "伊朗警告打击地区美高科技相关企业",
-      "onboard_time": 1774976898,
+      "raw_hot": 35507,
+      "num": 43756,
+      "word": "19岁的张雪",
+      "onboard_time": 1774975280,
       "rank": 45,
-      "category": "国际时政"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35260,
@@ -8225,6 +8241,14 @@
       "onboard_time": 1774958548,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31752,
+      "num": 43747,
+      "word": "特朗普被曝希望快速结束战争",
+      "onboard_time": 1774980435,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31647,
@@ -8331,6 +8355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27285,
+      "num": 43664,
+      "word": "美博主称中国小学生胜过美国大学生",
+      "onboard_time": 1774996397,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27240,
       "num": 632391,
       "word": "这young的中国爱了",
@@ -8387,11 +8419,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25641,
-      "num": 23272,
-      "word": "19岁的张雪",
-      "onboard_time": 1774975280,
-      "rank": 45,
+      "raw_hot": 25528,
+      "num": 43652,
+      "word": "张雪让世界记住了中国摩托",
+      "onboard_time": 1774981754,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -8443,11 +8475,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23837,
-      "num": 23837,
-      "word": "特朗普被曝希望快速结束战争",
-      "onboard_time": 1774980435,
-      "rank": 43,
+      "raw_hot": 23852,
+      "num": 43633,
+      "word": "伊朗发动第87波攻势",
+      "onboard_time": 1774982956,
+      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -8539,6 +8571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 20708,
+      "num": 43595,
+      "word": "檀健次何不同舟渡喝酒路透",
+      "onboard_time": 1774983135,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20506,
       "num": 71839,
       "word": "李雪琴说徐志胜是臀部艺人",
@@ -8595,12 +8635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18661,
-      "num": 19807,
-      "word": "张雪让世界记住了中国摩托",
-      "onboard_time": 1774981754,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 18840,
+      "num": 43545,
+      "word": "月鳞绮纪定档0401",
+      "onboard_time": 1774981516,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 18559,
@@ -8609,14 +8649,6 @@
       "onboard_time": 1774983975,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18471,
-      "num": 19772,
-      "word": "檀健次何不同舟渡喝酒路透",
-      "onboard_time": 1774983135,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 18387,
@@ -8691,14 +8723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16807,
-      "num": 19795,
-      "word": "伊朗发动第87波攻势",
-      "onboard_time": 1774982956,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 16720,
       "num": 576541,
       "word": "神21乘组在轨vlog又上新了",
@@ -8729,14 +8753,6 @@
       "onboard_time": 1774813874,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15634,
-      "num": 19775,
-      "word": "月鳞绮纪定档0401",
-      "onboard_time": 1774981516,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 15413,
