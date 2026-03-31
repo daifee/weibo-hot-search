@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1774978364625,
+  "endTime": 1774980911357,
   "band_list": [
     {
       "raw_hot": 2081325,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 117860,
-      "num": 117860,
+      "num": 160055,
       "word": "曝雷军押注的中年人泡泡玛特将上市",
       "onboard_time": 1774960467,
       "rank": 7,
@@ -152,6 +152,14 @@
       "word": "NCTWISH 最尊重愚人节的团",
       "onboard_time": 1774971023,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93601,
+      "num": 46604,
+      "word": "杨幂拼豆庆祝绿苑二十周年",
+      "onboard_time": 1774978337,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -355,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49303,
-      "num": 46604,
-      "word": "杨幂拼豆庆祝绿苑二十周年",
-      "onboard_time": 1774978337,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48204,
       "num": 48204,
       "word": "十日终焉",
@@ -433,6 +433,38 @@
       "onboard_time": 1774958186,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31752,
+      "num": 31752,
+      "word": "你好1983",
+      "onboard_time": 1774979475,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24354,
+      "num": 24354,
+      "word": "盗墓笔记",
+      "onboard_time": 1774967426,
+      "rank": 40,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 23837,
+      "num": 23837,
+      "word": "特朗普被曝希望快速结束战争",
+      "onboard_time": 1774980435,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23272,
+      "num": 23272,
+      "word": "19岁的张雪",
+      "onboard_time": 1774975280,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21651,
