@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774997974720,
+  "endTime": 1775000533214,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 795143,
+      "num": 127458,
+      "word": "en王翊恩 结婚但没同居",
+      "onboard_time": 1774971204,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 787317,
       "num": 1125970,
       "word": "女子半年没回家卧室开窗变邻居阳台",
@@ -635,12 +643,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 540858,
-      "num": 123387,
-      "word": "en王翊恩 结婚但没同居",
-      "onboard_time": 1774971204,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 541150,
+      "num": 934518,
+      "word": "意大利连续3届无缘世界杯",
+      "onboard_time": 1774998560,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 539610,
@@ -1211,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 351423,
+      "num": 351423,
+      "word": "蓝莓",
+      "onboard_time": 1774998619,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 350139,
       "num": 350139,
       "word": "TES 369",
@@ -1339,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318338,
+      "num": 305125,
+      "word": "美国军人向脱衣舞女泄露部署计划",
+      "onboard_time": 1774967605,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 317998,
       "num": 271754,
       "word": "时代少年团直播",
@@ -1395,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309321,
+      "num": 309321,
+      "word": "抗癌博主朱明月去世其女发声",
+      "onboard_time": 1774969704,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308930,
       "num": 308930,
       "word": "午睡是一场真正的豪赌",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1774751721,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 305125,
-      "num": 305125,
-      "word": "美国军人向脱衣舞女泄露部署计划",
-      "onboard_time": 1774967605,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 305100,
@@ -1747,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266583,
+      "num": 141162,
+      "word": "张慧雯人气",
+      "onboard_time": 1774995255,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266091,
       "num": 1709731,
       "word": "胡塞伊朗黎巴嫩同步袭击以色列",
@@ -1993,14 +2025,6 @@
       "onboard_time": 1774958186,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238887,
-      "num": 238887,
-      "word": "抗癌博主朱明月去世其女发声",
-      "onboard_time": 1774969704,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 237376,
@@ -2387,6 +2411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 211862,
+      "num": 436622,
+      "word": "中国无人机蜂群突击铺天盖地",
+      "onboard_time": 1774968685,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 211549,
       "num": 211549,
       "word": "张雪妻子称创业最穷时为20块饭钱发愁",
@@ -2409,6 +2441,14 @@
       "onboard_time": 1774766721,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210975,
+      "num": 210975,
+      "word": "伊朗称将沙特视为兄弟国家",
+      "onboard_time": 1774973483,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209708,
@@ -3083,12 +3123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163335,
-      "num": 163335,
-      "word": "伊朗称将沙特视为兄弟国家",
-      "onboard_time": 1774973483,
-      "rank": 4,
-      "category": "国际时政"
+      "raw_hot": 163072,
+      "num": 125392,
+      "word": "杨幂拼豆庆祝绿苑二十周年",
+      "onboard_time": 1774978337,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 162758,
@@ -3363,14 +3403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146894,
-      "num": 436622,
-      "word": "中国无人机蜂群突击铺天盖地",
-      "onboard_time": 1774968685,
-      "rank": 9,
-      "category": "军事"
-    },
-    {
       "raw_hot": 145995,
       "num": 143401,
       "word": "李维嘉和何老师吵架的原因",
@@ -3457,6 +3489,14 @@
       "onboard_time": 1774954523,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141141,
+      "num": 141141,
+      "word": "伊朗打击美军指挥中心",
+      "onboard_time": 1774999580,
+      "rank": 16,
+      "category": "军事"
     },
     {
       "raw_hot": 140706,
@@ -3595,6 +3635,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137707,
+      "num": 128047,
+      "word": "英格兰0比1日本",
+      "onboard_time": 1775000301,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137651,
       "num": 137651,
       "word": "满岛光宣布再婚怀孕",
@@ -3689,14 +3737,6 @@
       "onboard_time": 1774964965,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134104,
-      "num": 97365,
-      "word": "杨幂拼豆庆祝绿苑二十周年",
-      "onboard_time": 1774978337,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 133950,
@@ -3832,6 +3872,14 @@
       "word": "男子一想抽烟就买彩票中了701万",
       "onboard_time": 1774752200,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129580,
+      "num": 129580,
+      "word": "4月1日起全国严查后排未系安全带",
+      "onboard_time": 1775000121,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -4003,6 +4051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124920,
+      "num": 124920,
+      "word": "中方三艘船舶过航霍尔木兹海峡",
+      "onboard_time": 1774981036,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124649,
       "num": 124649,
       "word": "王一博蓄力正赛",
@@ -4033,14 +4089,6 @@
       "onboard_time": 1774779989,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 124245,
-      "num": 124245,
-      "word": "中方三艘船舶过航霍尔木兹海峡",
-      "onboard_time": 1774981036,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 124082,
@@ -4443,6 +4491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 111994,
+      "num": 111994,
+      "word": "4岁女孩独自买汉堡遭陌生女子踢踹",
+      "onboard_time": 1775000360,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111903,
       "num": 121112,
       "word": "金银又跌了",
@@ -4803,6 +4859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105444,
+      "num": 105444,
+      "word": "19岁的张雪",
+      "onboard_time": 1774975280,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105435,
       "num": 105435,
       "word": "冰湖重生总制片人张萌",
@@ -4859,6 +4923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104554,
+      "num": 104554,
+      "word": "美博主称中国小学生胜过美国大学生",
+      "onboard_time": 1774996397,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104358,
       "num": 104358,
       "word": "全红婵说被选去跳水是因弹跳力好",
@@ -4905,6 +4977,14 @@
       "onboard_time": 1774744761,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102754,
+      "num": 102754,
+      "word": "4月最吸金的星座",
+      "onboard_time": 1775000360,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 102706,
@@ -5027,6 +5107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100120,
+      "num": 95180,
+      "word": "黄金又突然暴涨",
+      "onboard_time": 1774998200,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100107,
       "num": 88810,
       "word": "白鹿张真源跳了nobatidao",
@@ -5129,14 +5217,6 @@
       "onboard_time": 1774807037,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 98234,
-      "num": 69425,
-      "word": "张慧雯人气",
-      "onboard_time": 1774995255,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 98075,
@@ -5641,6 +5721,14 @@
       "onboard_time": 1774970963,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90529,
+      "num": 90529,
+      "word": "金银再迎大涨",
+      "onboard_time": 1775000360,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 90521,
@@ -6531,6 +6619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78760,
+      "num": 78760,
+      "word": "张凌赫金桐儇站姐互发",
+      "onboard_time": 1775000360,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78741,
       "num": 78741,
       "word": "小米字节等四款模型跻身全球前十",
@@ -6569,6 +6665,14 @@
       "onboard_time": 1774711582,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78241,
+      "num": 78241,
+      "word": "俄罗斯运输机坠毁29人遇难",
+      "onboard_time": 1774999942,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 78212,
@@ -6785,6 +6889,14 @@
       "onboard_time": 1774697722,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74302,
+      "num": 74302,
+      "word": "意大利不敌波黑",
+      "onboard_time": 1774998800,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 74258,
@@ -7187,6 +7299,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 66048,
+      "num": 66048,
+      "word": "站姐团建发的田曦薇",
+      "onboard_time": 1775000360,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65630,
       "num": 65630,
       "word": "5岁男孩患病从小瘫痪突然站立",
@@ -7289,6 +7409,14 @@
       "onboard_time": 1774753161,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63668,
+      "num": 63668,
+      "word": "韩国向武汉居民发放十年签",
+      "onboard_time": 1774977498,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63414,
@@ -7449,14 +7577,6 @@
       "onboard_time": 1774834224,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60499,
-      "num": 60499,
-      "word": "美博主称中国小学生胜过美国大学生",
-      "onboard_time": 1774996397,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 60398,
@@ -7851,6 +7971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 48104,
+      "num": 54797,
+      "word": "Claude Code源码意外泄露",
+      "onboard_time": 1775000301,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 48090,
       "num": 82513,
       "word": "以军一天3轮空袭伊朗",
@@ -7888,14 +8016,6 @@
       "word": "伊朗警告打击地区美高科技相关企业",
       "onboard_time": 1774976898,
       "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 45849,
-      "num": 53823,
-      "word": "韩国向武汉居民发放十年签",
-      "onboard_time": 1774977498,
-      "rank": 33,
       "category": "国际时政"
     },
     {
@@ -8009,14 +8129,6 @@
       "onboard_time": 1774790009,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 42420,
-      "num": 53807,
-      "word": "19岁的张雪",
-      "onboard_time": 1774975280,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42315,
