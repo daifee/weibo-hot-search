@@ -1,0 +1,410 @@
+{
+  "runTime": 1774942070351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 352230,
+        "num": 1056356,
+        "word": "我不成仙",
+        "onboard_time": 1774939340,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257199,
+        "num": 756812,
+        "word": "国足vs喀麦隆",
+        "onboard_time": 1774937603,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28737,
+        "num": 589298,
+        "word": "中国人海上百米高空吊装百米叶片",
+        "onboard_time": 1774926085,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412097,
+        "num": 412097,
+        "word": "虞书欣崔叡娜cha",
+        "onboard_time": 1774938203,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359819,
+        "num": 359819,
+        "word": "国足9分钟内连丢2球",
+        "onboard_time": 1774940723,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230001,
+        "num": 349247,
+        "word": "曾沛慈人气第一",
+        "onboard_time": 1774941924,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209309,
+        "num": 326740,
+        "word": "官方通报男子玩真人CS高坠身亡",
+        "onboard_time": 1774938203,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 169664,
+        "num": 312201,
+        "word": "广州长隆回应狮子静坐淋雨",
+        "onboard_time": 1774939824,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151074,
+        "num": 294342,
+        "word": "梁靖崑2比3西福恩特斯",
+        "onboard_time": 1774941323,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143016,
+        "num": 285145,
+        "word": "伊朗最大岛屿遭美以袭击",
+        "onboard_time": 1774931965,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6780498,
+        "num": 6780498,
+        "word": "鞠婧祎工作室声明",
+        "onboard_time": 1774932507,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258441,
+        "num": 258441,
+        "word": "爸爸去哪儿的阿拉蕾长大了",
+        "onboard_time": 1774933888,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137972,
+        "num": 253318,
+        "word": "张雪机车订单排到六月底",
+        "onboard_time": 1774940723,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249686,
+        "num": 249686,
+        "word": "人民日报曾评单依纯李白改编争议",
+        "onboard_time": 1774931246,
+        "rank": 13,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 242919,
+        "num": 242919,
+        "word": "AI演员 拼尸块",
+        "onboard_time": 1774933823,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110884,
+        "num": 198984,
+        "word": "地球使用费",
+        "onboard_time": 1774931844,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186371,
+        "num": 186371,
+        "word": "卜凡团播",
+        "onboard_time": 1774929746,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106098,
+        "num": 185750,
+        "word": "在意遇难博士床上四件套用了7年",
+        "onboard_time": 1774928846,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104364,
+        "num": 183523,
+        "word": "广州大暴雨把动物也整emo了",
+        "onboard_time": 1774932507,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14596,
+        "num": 182774,
+        "word": "湖南一条新修道路断裂如波浪",
+        "onboard_time": 1774941143,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162069,
+        "num": 181169,
+        "word": "乘风2026",
+        "onboard_time": 1774937723,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327331,
+        "num": 178790,
+        "word": "鹿晗超绝版权意识",
+        "onboard_time": 1774935326,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187735,
+        "num": 176765,
+        "word": "地铁吐血女孩账户因转账频繁被封",
+        "onboard_time": 1774931606,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444482,
+        "num": 174964,
+        "word": "黄油年糕被改名为韩国年糕",
+        "onboard_time": 1774940483,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174655,
+        "num": 174655,
+        "word": "韩国向中国14城发放十年签",
+        "onboard_time": 1774925185,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165946,
+        "num": 165946,
+        "word": "动荡的内娱迎来了最清醒的粉丝",
+        "onboard_time": 1774940423,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159933,
+        "num": 159933,
+        "word": "森林北自曝曾抑制身高",
+        "onboard_time": 1774940362,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120828,
+        "num": 120828,
+        "word": "5种炎症确认与癌症有关",
+        "onboard_time": 1774925846,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112362,
+        "num": 112362,
+        "word": "阿沁曾说自己靠版权年收入破千万",
+        "onboard_time": 1774940242,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111257,
+        "num": 111257,
+        "word": "马嘉祺月鳞绮纪OST",
+        "onboard_time": 1774935326,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191949,
+        "num": 109973,
+        "word": "一年前离职的时候就预判了今天",
+        "onboard_time": 1774939824,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213133,
+        "num": 108357,
+        "word": "李健硬要给许飞版权费",
+        "onboard_time": 1774941682,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104904,
+        "num": 104904,
+        "word": "恭喜你发明了鸡蛋冻干",
+        "onboard_time": 1774940663,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101826,
+        "num": 101826,
+        "word": "月鳞绮纪定档",
+        "onboard_time": 1774922365,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91692,
+        "num": 91692,
+        "word": "00后女生逆袭考上985竟是病了",
+        "onboard_time": 1774928545,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98071,
+        "num": 91463,
+        "word": "月鳞绮纪OST",
+        "onboard_time": 1774933646,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90986,
+        "num": 90986,
+        "word": "美军使用钻地弹袭击伊大型弹药库",
+        "onboard_time": 1774933646,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95539,
+        "num": 90960,
+        "word": "月鳞绮纪全员be",
+        "onboard_time": 1774941863,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90908,
+        "num": 90908,
+        "word": "长相标标准准的小猫",
+        "onboard_time": 1774941682,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38330,
+        "num": 90176,
+        "word": "曾舜晞陈都灵吻戏镜头",
+        "onboard_time": 1774934125,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76173,
+        "num": 89880,
+        "word": "A股3月收官",
+        "onboard_time": 1774941625,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94743,
+        "num": 89793,
+        "word": "陈都灵预告15秒换了13套衣服",
+        "onboard_time": 1774924525,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89686,
+        "num": 89686,
+        "word": "沪指再失守3900点",
+        "onboard_time": 1774941262,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88307,
+        "num": 88307,
+        "word": "曝iPhoneXX将配屏下摄像头",
+        "onboard_time": 1774931428,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88303,
+        "num": 88303,
+        "word": "国足落后喀麦隆",
+        "onboard_time": 1774937963,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40410,
+        "num": 84174,
+        "word": "五哈6开始就玩这么大吗",
+        "onboard_time": 1774928605,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81679,
+        "num": 81679,
+        "word": "当买完菜假装不认识我的狗",
+        "onboard_time": 1774941203,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56703,
+        "num": 80366,
+        "word": "孙俪的权威我早就知道",
+        "onboard_time": 1774939642,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79508,
+        "num": 79508,
+        "word": "儿子被打妈妈要求别告诉爸爸爷爷",
+        "onboard_time": 1774938082,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78741,
+        "num": 78741,
+        "word": "小米字节等四款模型跻身全球前十",
+        "onboard_time": 1774942042,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记共建美丽家园#"
+    }
+  }
+}
