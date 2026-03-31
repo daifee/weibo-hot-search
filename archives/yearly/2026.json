@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774958378988,
+  "endTime": 1774958891621,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -304,6 +304,14 @@
       "word": "李雨桐喊话薛之谦",
       "onboard_time": 1772422521,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9720060,
+      "num": 9720060,
+      "word": "未发现鞠婧祎涉税问题",
+      "onboard_time": 1774957106,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -633,14 +641,6 @@
       "onboard_time": 1771756280,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6105009,
-      "num": 6105009,
-      "word": "未发现鞠婧祎涉税问题",
-      "onboard_time": 1774957106,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 6042964,

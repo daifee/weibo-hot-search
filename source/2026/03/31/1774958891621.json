@@ -1,0 +1,410 @@
+{
+  "runTime": 1774958891621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 617581,
+        "num": 2143540,
+        "word": "瑞幸 紫椰子",
+        "onboard_time": 1774946664,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154944,
+        "num": 1606778,
+        "word": "国足负于10人喀麦隆",
+        "onboard_time": 1774945763,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60818,
+        "num": 1179115,
+        "word": "4月一批新规将施行",
+        "onboard_time": 1774945404,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9720060,
+        "num": 9720060,
+        "word": "未发现鞠婧祎涉税问题",
+        "onboard_time": 1774957106,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164296,
+        "num": 814144,
+        "word": "市委书记以球员身份参加县超",
+        "onboard_time": 1774955124,
+        "rank": 4,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 531755,
+        "num": 531755,
+        "word": "宋雨琦 跑男",
+        "onboard_time": 1774955725,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215656,
+        "num": 512902,
+        "word": "张雪",
+        "onboard_time": 1774943063,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188017,
+        "num": 502323,
+        "word": "原来香蕉有辐射",
+        "onboard_time": 1774951463,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139724,
+        "num": 487700,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774944802,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138367,
+        "num": 465688,
+        "word": "何凯文英一87分",
+        "onboard_time": 1774958726,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 812056,
+        "num": 445199,
+        "word": "李荣浩 不是嫂子是歌手杨丞琳",
+        "onboard_time": 1774952722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432454,
+        "num": 432454,
+        "word": "向佐终于像个人了",
+        "onboard_time": 1774957345,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245572,
+        "num": 369196,
+        "word": "孙颖莎瘦了不止一点点",
+        "onboard_time": 1774955544,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339335,
+        "num": 339335,
+        "word": "跳楼机数月吸金4000万原唱收入为0",
+        "onboard_time": 1774952786,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271754,
+        "num": 271754,
+        "word": "时代少年团直播",
+        "onboard_time": 1774954584,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223757,
+        "num": 270066,
+        "word": "王者荣耀返场",
+        "onboard_time": 1774952362,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158348,
+        "num": 268285,
+        "word": "怪不得公司一边招人一边裁员",
+        "onboard_time": 1774943604,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125718,
+        "num": 265337,
+        "word": "4月锦鲤附体的星座",
+        "onboard_time": 1774954523,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42686,
+        "num": 263380,
+        "word": "春天的第一箱油是一汽大众给的",
+        "onboard_time": 1774955843,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 40555,
+        "num": 261124,
+        "word": "清明档五一档电影来了",
+        "onboard_time": 1774957106,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 840175,
+        "num": 257709,
+        "word": "鞠婧祎工作室声明",
+        "onboard_time": 1774932507,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111988,
+        "num": 256987,
+        "word": "麻辣烫里最夯的是啥菜",
+        "onboard_time": 1774942763,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 448628,
+        "num": 254003,
+        "word": "妻子5次试管成功同年丈夫与情人生子",
+        "onboard_time": 1774954824,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32495,
+        "num": 251344,
+        "word": "郑丽文访陆遭台陆委会恫吓",
+        "onboard_time": 1774958548,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250234,
+        "num": 250234,
+        "word": "十日终焉",
+        "onboard_time": 1774951282,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240324,
+        "num": 240324,
+        "word": "张一山真的翻拍重案六组",
+        "onboard_time": 1774955843,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144259,
+        "num": 232424,
+        "word": "黄油年糕被改名为韩国年糕",
+        "onboard_time": 1774940483,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230865,
+        "num": 230865,
+        "word": "徐梦洁人气",
+        "onboard_time": 1774951883,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209441,
+        "num": 209441,
+        "word": "陈飞宇为了看罗云熙倒着走红毯",
+        "onboard_time": 1774957886,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112853,
+        "num": 204859,
+        "word": "炎症变成癌症要多久",
+        "onboard_time": 1774958666,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204346,
+        "num": 204346,
+        "word": "愚人节改名",
+        "onboard_time": 1774953682,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201204,
+        "num": 201204,
+        "word": "丝芭 我司并非举报主体",
+        "onboard_time": 1774954943,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100675,
+        "num": 193640,
+        "word": "文旅局回应宠物友好酒店推荐吃狗肉",
+        "onboard_time": 1774952243,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191810,
+        "num": 191810,
+        "word": "乘风2026排名",
+        "onboard_time": 1774949124,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185917,
+        "num": 185917,
+        "word": "严浩翔考核试卷",
+        "onboard_time": 1774943903,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98139,
+        "num": 140739,
+        "word": "广州暴雨动物园里的大象是什么反应",
+        "onboard_time": 1774957765,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140589,
+        "num": 140589,
+        "word": "时代少年团 录播",
+        "onboard_time": 1774958186,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134513,
+        "num": 134513,
+        "word": "陈妍希跟腱断裂",
+        "onboard_time": 1774948283,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95473,
+        "num": 129972,
+        "word": "王楚钦直言比赛密集",
+        "onboard_time": 1774958125,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63719,
+        "num": 129939,
+        "word": "陈飞宇 陈凯歌基因显化中",
+        "onboard_time": 1774958607,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84145,
+        "num": 129933,
+        "word": "上迪随机抓路人当氛围组",
+        "onboard_time": 1774957945,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129930,
+        "num": 129930,
+        "word": "曾沛慈人气第一",
+        "onboard_time": 1774941924,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123052,
+        "num": 123052,
+        "word": "收手吧阿瑟",
+        "onboard_time": 1774958245,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94613,
+        "num": 122049,
+        "word": "父亲称救在柬被困女儿已付两次赎金",
+        "onboard_time": 1774956745,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121755,
+        "num": 121755,
+        "word": "单依纯是纯妹妹演唱会总监制",
+        "onboard_time": 1774958548,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46885,
+        "num": 119457,
+        "word": "店员称肯德基按月付费歌曲版权",
+        "onboard_time": 1774957645,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117924,
+        "num": 117924,
+        "word": "邓凯上海人气",
+        "onboard_time": 1774958726,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101711,
+        "num": 101711,
+        "word": "逐玉造型指导回应张凌赫造型争议",
+        "onboard_time": 1774952124,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94802,
+        "num": 94802,
+        "word": "物理学无法解释的一个现象",
+        "onboard_time": 1774956143,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 94000,
+        "num": 94000,
+        "word": "婚生女按遗嘱继承财产遭私生子起诉",
+        "onboard_time": 1774958425,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中国式现代化底色更加亮丽#"
+    }
+  }
+}
