@@ -1,0 +1,411 @@
+{
+  "startTime": 1774976876020,
+  "endTime": 1774976876020,
+  "band_list": [
+    {
+      "raw_hot": 2081325,
+      "num": 115774,
+      "word": "站姐团建",
+      "onboard_time": 1774970844,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 940416,
+      "num": 115062,
+      "word": "愚人节",
+      "onboard_time": 1774971322,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 582370,
+      "num": 114693,
+      "word": "鞠婧祎 此身分明了",
+      "onboard_time": 1774963464,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 540858,
+      "num": 75224,
+      "word": "en王翊恩 结婚但没同居",
+      "onboard_time": 1774971204,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 407582,
+      "num": 584813,
+      "word": "未发现鞠婧祎涉税问题",
+      "onboard_time": 1774957106,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 372160,
+      "num": 114361,
+      "word": "单依纯拉黑网友",
+      "onboard_time": 1774968446,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210058,
+      "num": 210058,
+      "word": "十二星座4月月运",
+      "onboard_time": 1774974922,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 163335,
+      "num": 163335,
+      "word": "伊朗称将沙特视为兄弟国家",
+      "onboard_time": 1774973483,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 132980,
+      "num": 132980,
+      "word": "抗癌博主朱明月去世其女发声",
+      "onboard_time": 1774969704,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129873,
+      "num": 418928,
+      "word": "何凯文回归",
+      "onboard_time": 1774970245,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 128781,
+      "num": 128781,
+      "word": "美国军人向脱衣舞女泄露部署计划",
+      "onboard_time": 1774967605,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 117860,
+      "num": 117860,
+      "word": "曝雷军押注的中年人泡泡玛特将上市",
+      "onboard_time": 1774960467,
+      "rank": 7,
+      "category": "互联网,休闲"
+    },
+    {
+      "raw_hot": 116445,
+      "num": 116445,
+      "word": "瑞幸 紫椰子",
+      "onboard_time": 1774946664,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113927,
+      "num": 113927,
+      "word": "陈飞宇 陈凯歌基因显化中",
+      "onboard_time": 1774958607,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111630,
+      "num": 111630,
+      "word": "香港开往上海高铁车厢出现大量蚊虫",
+      "onboard_time": 1774962624,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107035,
+      "num": 107035,
+      "word": "杨紫也被女装背刺了",
+      "onboard_time": 1774959746,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101252,
+      "num": 71938,
+      "word": "en王翊恩回应离过婚",
+      "onboard_time": 1774969762,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100723,
+      "num": 100723,
+      "word": "NCTWISH 最尊重愚人节的团",
+      "onboard_time": 1774971023,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86950,
+      "num": 115941,
+      "word": "中国无人机蜂群突击铺天盖地",
+      "onboard_time": 1774968685,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 81284,
+      "num": 81284,
+      "word": "南派三叔 群像无罪",
+      "onboard_time": 1774967245,
+      "rank": 18,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 75906,
+      "num": 74957,
+      "word": "妻子5次试管成功同年丈夫与情人生子",
+      "onboard_time": 1774954824,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75683,
+      "num": 74563,
+      "word": "网红小徐自曝财产",
+      "onboard_time": 1774960105,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 75651,
+      "num": 75651,
+      "word": "羊水栓塞产妇昏迷30天后苏醒",
+      "onboard_time": 1774970123,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73632,
+      "num": 73632,
+      "word": "宋雨琦对接回应不录跑男",
+      "onboard_time": 1774966825,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 72808,
+      "num": 62355,
+      "word": "Ruler可能面临禁赛",
+      "onboard_time": 1774974561,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 72355,
+      "num": 72355,
+      "word": "女子常来病房摸17岁离世儿子名字",
+      "onboard_time": 1774975519,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71334,
+      "num": 71334,
+      "word": "徐明浩跳catchcatch",
+      "onboard_time": 1774970963,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67373,
+      "num": 67373,
+      "word": "张雪",
+      "onboard_time": 1774943063,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66635,
+      "num": 66635,
+      "word": "黄金六轮史诗级跳水",
+      "onboard_time": 1774970963,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 62460,
+      "num": 62460,
+      "word": "女子回应获3亿遗产引丈夫子女不满",
+      "onboard_time": 1774963405,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61956,
+      "num": 61956,
+      "word": "浪姐",
+      "onboard_time": 1774972162,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 60692,
+      "num": 60692,
+      "word": "运动员退役后从146斤暴涨至523斤",
+      "onboard_time": 1774966226,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 60486,
+      "num": 60486,
+      "word": "王者荣耀返场",
+      "onboard_time": 1774952362,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 59016,
+      "num": 59016,
+      "word": "俄方拒绝给日本供油",
+      "onboard_time": 1774960227,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 58737,
+      "num": 58737,
+      "word": "周冬雨亮相马思纯新片首映",
+      "onboard_time": 1774975400,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 57690,
+      "num": 57690,
+      "word": "郭敬明终于能睡着了",
+      "onboard_time": 1774967125,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 57166,
+      "num": 57166,
+      "word": "唐艺昕人气",
+      "onboard_time": 1774959867,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 56762,
+      "num": 56762,
+      "word": "TES 369",
+      "onboard_time": 1774962087,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 53410,
+      "num": 53410,
+      "word": "NCTWISH",
+      "onboard_time": 1774972702,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 52519,
+      "num": 52519,
+      "word": "刚刚愚人节活动",
+      "onboard_time": 1774976180,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 50962,
+      "num": 50962,
+      "word": "四川一知名小学周边小区不能入读",
+      "onboard_time": 1774973483,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48377,
+      "num": 48377,
+      "word": "特朗普希望4月6日前与伊朗签协议",
+      "onboard_time": 1774975999,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48204,
+      "num": 48204,
+      "word": "十日终焉",
+      "onboard_time": 1774951282,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 45607,
+      "num": 45607,
+      "word": "提升减肥成功率的小技巧",
+      "onboard_time": 1774966586,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 45008,
+      "num": 45008,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1774976658,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 44165,
+      "num": 44165,
+      "word": "甄嬛传姐妹为孙俪新剧宣传",
+      "onboard_time": 1774973722,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42140,
+      "num": 42140,
+      "word": "美军进攻伊朗岛屿将变成活靶子",
+      "onboard_time": 1774971623,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 39517,
+      "num": 39517,
+      "word": "Jiwoo大吧 豆包",
+      "onboard_time": 1774966405,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39404,
+      "num": 39404,
+      "word": "宋雨琦 跑男",
+      "onboard_time": 1774955725,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21651,
+      "num": 344933,
+      "word": "十五五规划背后的90后力量",
+      "onboard_time": 1774962986,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#让中国式现代化底色更加亮丽#"
+    }
+  ]
+}
