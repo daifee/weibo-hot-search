@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774996975540,
+  "endTime": 1774997974720,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -1995,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238887,
+      "num": 238887,
+      "word": "抗癌博主朱明月去世其女发声",
+      "onboard_time": 1774969704,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237376,
       "num": 202023,
       "word": "男孩玩灭火毯全身扎满超细玻璃纤维",
@@ -2273,14 +2281,6 @@
       "onboard_time": 1774855163,
       "rank": 4,
       "category": "汽车,民生新闻"
-    },
-    {
-      "raw_hot": 220209,
-      "num": 220209,
-      "word": "抗癌博主朱明月去世其女发声",
-      "onboard_time": 1774969704,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 220115,
@@ -3363,6 +3363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146894,
+      "num": 436622,
+      "word": "中国无人机蜂群突击铺天盖地",
+      "onboard_time": 1774968685,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 145995,
       "num": 143401,
       "word": "李维嘉和何老师吵架的原因",
@@ -3513,14 +3521,6 @@
       "onboard_time": 1774688241,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139315,
-      "num": 338618,
-      "word": "中国无人机蜂群突击铺天盖地",
-      "onboard_time": 1774968685,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 139188,
@@ -3689,6 +3689,14 @@
       "onboard_time": 1774964965,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134104,
+      "num": 97365,
+      "word": "杨幂拼豆庆祝绿苑二十周年",
+      "onboard_time": 1774978337,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 133950,
@@ -4025,6 +4033,14 @@
       "onboard_time": 1774779989,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 124245,
+      "num": 124245,
+      "word": "中方三艘船舶过航霍尔木兹海峡",
+      "onboard_time": 1774981036,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124082,
@@ -5115,6 +5131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 98234,
+      "num": 69425,
+      "word": "张慧雯人气",
+      "onboard_time": 1774995255,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98075,
       "num": 886956,
       "word": "至少要上三年班才会变成会上班的人",
@@ -5176,14 +5200,6 @@
       "word": "迪丽热巴美式白开水妆",
       "onboard_time": 1774831166,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 97365,
-      "num": 97365,
-      "word": "杨幂拼豆庆祝绿苑二十周年",
-      "onboard_time": 1774978337,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -5801,6 +5817,14 @@
       "onboard_time": 1774775010,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 88797,
+      "num": 79037,
+      "word": "特朗普希望4月6日前与伊朗签协议",
+      "onboard_time": 1774975999,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88595,
@@ -6787,14 +6811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73956,
-      "num": 73956,
-      "word": "特朗普希望4月6日前与伊朗签协议",
-      "onboard_time": 1774975999,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 73660,
       "num": 73660,
       "word": "父母回应儿子用吸粪车做婚车",
@@ -7147,14 +7163,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 66547,
-      "num": 99120,
-      "word": "中方三艘船舶过航霍尔木兹海峡",
-      "onboard_time": 1774981036,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 66403,
       "num": 136048,
       "word": "美以空袭伊朗一儿童游乐场",
@@ -7443,6 +7451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60499,
+      "num": 60499,
+      "word": "美博主称中国小学生胜过美国大学生",
+      "onboard_time": 1774996397,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 60398,
       "num": 195253,
       "word": "美国一颗星链卫星失联",
@@ -7627,14 +7643,6 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 56000,
-      "num": 56000,
-      "word": "张慧雯人气",
-      "onboard_time": 1774995255,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 55894,
       "num": 263380,
       "word": "春天的第一箱油是一汽大众给的",
@@ -7724,7 +7732,7 @@
     },
     {
       "raw_hot": 53410,
-      "num": 53410,
+      "num": 53630,
       "word": "NCTWISH",
       "onboard_time": 1774972702,
       "rank": 39,
@@ -7875,8 +7883,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 46368,
+      "num": 53843,
+      "word": "伊朗警告打击地区美高科技相关企业",
+      "onboard_time": 1774976898,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45849,
-      "num": 45849,
+      "num": 53823,
       "word": "韩国向武汉居民发放十年签",
       "onboard_time": 1774977498,
       "rank": 33,
@@ -7993,6 +8009,14 @@
       "onboard_time": 1774790009,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42420,
+      "num": 53807,
+      "word": "19岁的张雪",
+      "onboard_time": 1774975280,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42315,
@@ -8163,28 +8187,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 36124,
-      "num": 44002,
-      "word": "伊朗警告打击地区美高科技相关企业",
-      "onboard_time": 1774976898,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36002,
       "num": 117548,
       "word": "王伟烈士墓前摆满中国战机",
       "onboard_time": 1774963824,
       "rank": 42,
       "category": "军事"
-    },
-    {
-      "raw_hot": 35507,
-      "num": 43756,
-      "word": "19岁的张雪",
-      "onboard_time": 1774975280,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35260,
@@ -8243,8 +8251,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31752,
-      "num": 43747,
+      "raw_hot": 32264,
+      "num": 53769,
       "word": "特朗普被曝希望快速结束战争",
       "onboard_time": 1774980435,
       "rank": 43,
@@ -8288,6 +8296,14 @@
       "word": "男子举报自己吃空饷6年新进展",
       "onboard_time": 1774858824,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30768,
+      "num": 53750,
+      "word": "张雪让世界记住了中国摩托",
+      "onboard_time": 1774981754,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -8347,20 +8363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27681,
+      "num": 53702,
+      "word": "伊朗发动第87波攻势",
+      "onboard_time": 1774982956,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27287,
       "num": 1038267,
       "word": "数据感知中国经济活力满满",
       "onboard_time": 1774786528,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27285,
-      "num": 43664,
-      "word": "美博主称中国小学生胜过美国大学生",
-      "onboard_time": 1774996397,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 27240,
@@ -8419,14 +8435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25528,
-      "num": 43652,
-      "word": "张雪让世界记住了中国摩托",
-      "onboard_time": 1774981754,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25475,
       "num": 52621,
       "word": "张雪称骑上摩托车心情变愉悦",
@@ -8475,14 +8483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23852,
-      "num": 43633,
-      "word": "伊朗发动第87波攻势",
-      "onboard_time": 1774982956,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23765,
       "num": 91331,
       "word": "海南高速一车辆开远光灯逆行",
@@ -8497,6 +8497,14 @@
       "onboard_time": 1774947863,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23547,
+      "num": 53663,
+      "word": "檀健次何不同舟渡喝酒路透",
+      "onboard_time": 1774983135,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 23238,
@@ -8569,14 +8577,6 @@
       "onboard_time": 1774957226,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 20708,
-      "num": 43595,
-      "word": "檀健次何不同舟渡喝酒路透",
-      "onboard_time": 1774983135,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 20506,
