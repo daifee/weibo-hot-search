@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774958891621,
+  "endTime": 1774965239383,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -2547,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 967236,
+      "num": 246197,
+      "word": "鞠婧祎 此身分明了",
+      "onboard_time": 1774963464,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 966975,
       "num": 1059499,
       "word": "4岁女童就诊177次患者是母亲",
@@ -4539,6 +4547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 699015,
+      "num": 245515,
+      "word": "上海交大引争议宣传片演员发声",
+      "onboard_time": 1774959327,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 698134,
       "num": 258325,
       "word": "网传B站裁员60%研发集体罢工",
@@ -4681,6 +4697,14 @@
       "onboard_time": 1772358923,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 691433,
+      "num": 244171,
+      "word": "网红小徐自曝财产",
+      "onboard_time": 1774960105,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 691109,
@@ -5209,6 +5233,14 @@
       "onboard_time": 1774693462,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 654512,
+      "num": 242375,
+      "word": "杨紫也被女装背刺了",
+      "onboard_time": 1774959746,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 654396,
@@ -6993,6 +7025,14 @@
       "onboard_time": 1774876344,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 555850,
+      "num": 239245,
+      "word": "陈飞宇 陈凯歌基因显化中",
+      "onboard_time": 1774958607,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 555008,
@@ -9785,6 +9825,14 @@
       "onboard_time": 1772753779,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 450308,
+      "num": 1241136,
+      "word": "曝雷军押注的中年人泡泡玛特将上市",
+      "onboard_time": 1774960467,
+      "rank": 1,
+      "category": "互联网,休闲"
     },
     {
       "raw_hot": 450288,
@@ -13443,6 +13491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 365104,
+      "num": 365104,
+      "word": "唐艺昕人气",
+      "onboard_time": 1774959867,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364837,
       "num": 196104,
       "word": "王俊凯比心",
@@ -14657,6 +14713,14 @@
       "onboard_time": 1773810922,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338707,
+      "num": 237617,
+      "word": "孙艺珍庆祝与玄彬结婚四周年",
+      "onboard_time": 1774962804,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 338703,
@@ -16323,6 +16387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 311668,
+      "num": 311668,
+      "word": "俄方拒绝给日本供油",
+      "onboard_time": 1774960227,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 311655,
       "num": 207166,
       "word": "亲母女嫁给了亲父子",
@@ -16905,6 +16977,14 @@
       "onboard_time": 1773038600,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303591,
+      "num": 242118,
+      "word": "上海交大校庆宣传片引争议",
+      "onboard_time": 1774960885,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303529,
@@ -18473,6 +18553,14 @@
       "onboard_time": 1773130464,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281026,
+      "num": 281026,
+      "word": "TES 369",
+      "onboard_time": 1774962087,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 280911,
@@ -22091,6 +22179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236180,
+      "num": 236180,
+      "word": "时代少年团 录播",
+      "onboard_time": 1774958186,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236150,
       "num": 190119,
       "word": "利他性表达",
@@ -23041,6 +23137,14 @@
       "onboard_time": 1772422583,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227172,
+      "num": 227172,
+      "word": "舒淇合影时突然让C位",
+      "onboard_time": 1774959207,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 227020,
@@ -25259,6 +25363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205965,
+      "num": 465688,
+      "word": "何凯文英一87分",
+      "onboard_time": 1774958726,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 205958,
       "num": 124242,
       "word": "月鳞绮纪首发海报",
@@ -27017,6 +27129,14 @@
       "onboard_time": 1774567458,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190646,
+      "num": 204859,
+      "word": "炎症变成癌症要多久",
+      "onboard_time": 1774958666,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 190578,
@@ -29307,6 +29427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173183,
+      "num": 248014,
+      "word": "53岁女子去世600万遗产无人继承",
+      "onboard_time": 1774960167,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173169,
       "num": 889780,
       "word": "白桃星座一周运势",
@@ -31363,6 +31491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159815,
+      "num": 159815,
+      "word": "香港开往上海高铁车厢出现大量蚊虫",
+      "onboard_time": 1774962624,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159778,
       "num": 253318,
       "word": "张雪机车订单排到六月底",
@@ -32353,6 +32489,14 @@
       "onboard_time": 1773915442,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153961,
+      "num": 153961,
+      "word": "金钟仁程潇坐一起",
+      "onboard_time": 1774962265,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153945,
@@ -34795,6 +34939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141537,
+      "num": 141537,
+      "word": "女子回应获3亿遗产引丈夫子女不满",
+      "onboard_time": 1774963405,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141472,
       "num": 589723,
       "word": "历届SMG视后",
@@ -35019,14 +35171,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 140589,
-      "num": 140589,
-      "word": "时代少年团 录播",
-      "onboard_time": 1774958186,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140506,
       "num": 140506,
       "word": "亚朵回应楼层中文标识看不懂",
@@ -35049,6 +35193,14 @@
       "onboard_time": 1774608863,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140411,
+      "num": 140411,
+      "word": "日本泰国网友因便利店买泡面吵架",
+      "onboard_time": 1774960284,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140404,
@@ -35449,14 +35601,6 @@
       "onboard_time": 1774913901,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138367,
-      "num": 465688,
-      "word": "何凯文英一87分",
-      "onboard_time": 1774958726,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 138276,
@@ -36329,6 +36473,14 @@
       "onboard_time": 1774051340,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134487,
+      "num": 134487,
+      "word": "收手吧阿瑟",
+      "onboard_time": 1774958245,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134475,
@@ -38083,6 +38235,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 127566,
+      "num": 127566,
+      "word": "单依纯是纯妹妹演唱会总监制",
+      "onboard_time": 1774958548,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 127526,
+      "num": 127526,
+      "word": "月鳞绮纪预约量破300万",
+      "onboard_time": 1774964366,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127525,
       "num": 127525,
       "word": "梅姨样貌是两张画像结合体",
@@ -38225,6 +38393,14 @@
       "onboard_time": 1772926878,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 127137,
+      "num": 142851,
+      "word": "U23国足vs越南",
+      "onboard_time": 1774962745,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 127088,
@@ -38697,6 +38873,14 @@
       "onboard_time": 1773213860,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125483,
+      "num": 130956,
+      "word": "婚生女按遗嘱继承财产遭私生子起诉",
+      "onboard_time": 1774958425,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125449,
@@ -39323,14 +39507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123052,
-      "num": 123052,
-      "word": "收手吧阿瑟",
-      "onboard_time": 1774958245,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 123048,
       "num": 167460,
       "word": "美媒称美低估军事行动对霍尔木兹影响",
@@ -39625,14 +39801,6 @@
       "onboard_time": 1773107181,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121755,
-      "num": 121755,
-      "word": "单依纯是纯妹妹演唱会总监制",
-      "onboard_time": 1774958548,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 121689,
@@ -41683,6 +41851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115587,
+      "num": 115587,
+      "word": "陈都灵女主剧三连空降",
+      "onboard_time": 1774960765,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115564,
       "num": 115564,
       "word": "GEO",
@@ -42643,14 +42819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112853,
-      "num": 204859,
-      "word": "炎症变成癌症要多久",
-      "onboard_time": 1774958666,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 112846,
       "num": 112846,
       "word": "王楚然偏偏你最争气",
@@ -43577,6 +43745,14 @@
       "onboard_time": 1774948102,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110275,
+      "num": 110275,
+      "word": "伊武装部队总参谋长顾问遇害",
+      "onboard_time": 1774962986,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110269,
@@ -47483,6 +47659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101119,
+      "num": 87599,
+      "word": "乘风2026初舞台TOP1",
+      "onboard_time": 1774964965,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101111,
       "num": 101111,
       "word": "陈浚铭再帅十年也才23岁",
@@ -51243,14 +51427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 94000,
-      "num": 94000,
-      "word": "婚生女按遗嘱继承财产遭私生子起诉",
-      "onboard_time": 1774958425,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93994,
       "num": 390466,
       "word": "李羲承退团后ENHYPEN成员状态",
@@ -54083,6 +54259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89499,
+      "num": 89499,
+      "word": "初中毕业的张雪凭什么造出顶级发动机",
+      "onboard_time": 1774964304,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89494,
       "num": 89494,
       "word": "月底加一箱油或多花超100元",
@@ -54633,6 +54817,14 @@
       "onboard_time": 1774342163,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88595,
+      "num": 88595,
+      "word": "1男1女跪拜后偷走4尊金童玉女",
+      "onboard_time": 1774965026,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88588,
@@ -67619,6 +67811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 68122,
+      "num": 236403,
+      "word": "孟晚舟华为年报致辞谈战略聚焦",
+      "onboard_time": 1774962445,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68117,
       "num": 194548,
       "word": "汪苏泷英文水平",
@@ -69969,14 +70169,6 @@
       "onboard_time": 1774179799,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 63719,
-      "num": 129939,
-      "word": "陈飞宇 陈凯歌基因显化中",
-      "onboard_time": 1774958607,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 63717,
@@ -78179,6 +78371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36767,
+      "num": 971196,
+      "word": "十五五规划背后的90后力量",
+      "onboard_time": 1774962986,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36739,
       "num": 75809,
       "word": "张柏芝文淇 四分之一的混血感",
@@ -78369,6 +78569,14 @@
       "onboard_time": 1773914422,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36002,
+      "num": 117548,
+      "word": "王伟烈士墓前摆满中国战机",
+      "onboard_time": 1774963824,
+      "rank": 42,
+      "category": "军事"
     },
     {
       "raw_hot": 35936,
@@ -82705,6 +82913,14 @@
       "onboard_time": 1773516795,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19376,
+      "num": 240983,
+      "word": "这车是真虎",
+      "onboard_time": 1774962445,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 19368,
