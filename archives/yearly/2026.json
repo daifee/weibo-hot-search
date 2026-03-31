@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1774966151336,
+  "endTime": 1774969857686,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1299,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2624503,
+      "num": 246197,
+      "word": "鞠婧祎 此身分明了",
+      "onboard_time": 1774963464,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2621819,
       "num": 2011808,
       "word": "金晨被曝肇事逃逸被撞墙农户已获赔",
@@ -2155,6 +2163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1903871,
+      "num": 221996,
+      "word": "单依纯拉黑网友",
+      "onboard_time": 1774968446,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1899886,
       "num": 1025256,
       "word": "春晚大赏",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1772375426,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1783747,
-      "num": 422487,
-      "word": "宋慧乔首谈离婚原因",
-      "onboard_time": 1774521742,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1779732,
-      "num": 367883,
-      "word": "逐玉播放量超过狂飙",
-      "onboard_time": 1772975661,
-      "rank": 48,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

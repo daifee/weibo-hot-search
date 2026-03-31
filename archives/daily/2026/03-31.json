@@ -1,6 +1,6 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774966151336,
+  "endTime": 1774969857686,
   "band_list": [
     {
       "raw_hot": 14644675,
@@ -35,6 +35,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2624503,
+      "num": 246197,
+      "word": "鞠婧祎 此身分明了",
+      "onboard_time": 1774963464,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1903871,
+      "num": 221996,
+      "word": "单依纯拉黑网友",
+      "onboard_time": 1774968446,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1668333,
       "num": 445199,
       "word": "李荣浩 不是嫂子是歌手杨丞琳",
@@ -49,14 +65,6 @@
       "onboard_time": 1774884683,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1417386,
-      "num": 246197,
-      "word": "鞠婧祎 此身分明了",
-      "onboard_time": 1774963464,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1171759,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423813,
+      "num": 881825,
+      "word": "香港开往上海高铁车厢出现大量蚊虫",
+      "onboard_time": 1774962624,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 422857,
       "num": 1067657,
       "word": "国足9分钟内连丢2球",
@@ -393,6 +409,14 @@
       "onboard_time": 1774924285,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382223,
+      "num": 218629,
+      "word": "运动员退役后从146斤暴涨至523斤",
+      "onboard_time": 1774966226,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 381172,
@@ -571,12 +595,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 303797,
+      "num": 303797,
+      "word": "美国军人向脱衣舞女泄露部署计划",
+      "onboard_time": 1774967605,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 303347,
       "num": 303347,
       "word": "周深没搞定版权清唱一句戛然而止",
       "onboard_time": 1774880365,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 298266,
+      "num": 298266,
+      "word": "宋雨琦对接回应不录跑男",
+      "onboard_time": 1774966825,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 295840,
@@ -707,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227354,
+      "num": 227354,
+      "word": "南派三叔 群像无罪",
+      "onboard_time": 1774967245,
+      "rank": 8,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 227172,
       "num": 227172,
       "word": "舒淇合影时突然让C位",
@@ -785,14 +833,6 @@
       "onboard_time": 1774946064,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 219004,
-      "num": 219004,
-      "word": "香港开往上海高铁车厢出现大量蚊虫",
-      "onboard_time": 1774962624,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215410,
@@ -1075,12 +1115,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164583,
+      "num": 164583,
+      "word": "等电梯时这个习惯可能会要命",
+      "onboard_time": 1774966105,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163384,
       "num": 155077,
       "word": "逐玉造型指导回应张凌赫造型争议",
       "onboard_time": 1774952124,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162758,
+      "num": 162758,
+      "word": "提升减肥成功率的小技巧",
+      "onboard_time": 1774966586,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 162069,
@@ -1129,6 +1185,14 @@
       "onboard_time": 1774942703,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158663,
+      "num": 158663,
+      "word": "张凌赫拍照金靖一秒摆pose",
+      "onboard_time": 1774966586,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 158470,
@@ -1195,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151868,
+      "num": 151868,
+      "word": "90后女子被叫奶奶痛下决心减肥",
+      "onboard_time": 1774968326,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149271,
       "num": 120570,
       "word": "四月行程图",
@@ -1233,6 +1305,14 @@
       "onboard_time": 1774927825,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139188,
+      "num": 139188,
+      "word": "盗墓笔记",
+      "onboard_time": 1774967426,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 138802,
@@ -1419,6 +1499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127335,
+      "num": 127335,
+      "word": "抗癌博主朱明月去世其女发声",
+      "onboard_time": 1774969704,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127137,
       "num": 142851,
       "word": "U23国足vs越南",
@@ -1513,14 +1601,6 @@
       "onboard_time": 1774958726,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 117104,
-      "num": 117104,
-      "word": "等电梯时这个习惯可能会要命",
-      "onboard_time": 1774966105,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117096,
@@ -1651,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110682,
+      "num": 110682,
+      "word": "陶昕然人气",
+      "onboard_time": 1774969226,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110288,
       "num": 114768,
       "word": "4月5月6月每个月都有假",
@@ -1673,6 +1761,14 @@
       "onboard_time": 1774944682,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109590,
+      "num": 109590,
+      "word": "en王翊恩回应离过婚",
+      "onboard_time": 1774969762,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 108879,
@@ -1705,6 +1801,14 @@
       "onboard_time": 1774892297,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 107098,
+      "num": 107097,
+      "word": "吴慷仁口音淡了",
+      "onboard_time": 1774968748,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 106913,
@@ -1809,6 +1913,14 @@
       "onboard_time": 1774929806,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100347,
+      "num": 100347,
+      "word": "纳指大涨超2%",
+      "onboard_time": 1774969405,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 100081,
@@ -1929,6 +2041,14 @@
       "onboard_time": 1774956624,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96018,
+      "num": 89399,
+      "word": "郭敬明终于能睡着了",
+      "onboard_time": 1774967125,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 96002,
@@ -2115,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89510,
+      "num": 89510,
+      "word": "U19国足2比4澳大利亚U19",
+      "onboard_time": 1774969283,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89478,
       "num": 89478,
       "word": "张雪称以前挺喜欢雷军的",
@@ -2129,6 +2257,14 @@
       "onboard_time": 1774953984,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89245,
+      "num": 89245,
+      "word": "Jiwoo大吧 豆包",
+      "onboard_time": 1774966405,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 89126,
@@ -2299,6 +2435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 78878,
+      "num": 170154,
+      "word": "高铁蚊子满天飞系检修未关窗导致",
+      "onboard_time": 1774968685,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78741,
       "num": 78741,
       "word": "小米字节等四款模型跻身全球前十",
@@ -2353,6 +2497,14 @@
       "onboard_time": 1774945823,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71030,
+      "num": 107098,
+      "word": "智能化路虎来了",
+      "onboard_time": 1774968446,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 70441,
@@ -2593,6 +2745,14 @@
       "onboard_time": 1774864823,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49438,
+      "num": 226662,
+      "word": "中国无人机蜂群突击铺天盖地",
+      "onboard_time": 1774968685,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 48717,
@@ -2887,6 +3047,14 @@
       "num": 88960,
       "word": "3岁女童打破魔方世界纪录",
       "onboard_time": 1774947863,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22827,
+      "num": 107811,
+      "word": "90后男子刻的墓碑最小2岁最大103岁",
+      "onboard_time": 1774968924,
       "rank": 39,
       "category": "民生新闻"
     },
