@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774942070351,
+  "endTime": 1774943529141,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -281,6 +281,14 @@
       "onboard_time": 1774750040,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 789024,
+      "num": 160493,
+      "word": "痞幼直播时抽烟",
+      "onboard_time": 1774942163,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 787317,
@@ -587,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 483206,
+      "num": 483206,
+      "word": "曾沛慈人气第一",
+      "onboard_time": 1774941924,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 482426,
       "num": 892731,
       "word": "田曦薇拍青天大老爷手势舞",
@@ -699,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422857,
+      "num": 1067657,
+      "word": "国足9分钟内连丢2球",
+      "onboard_time": 1774940723,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419885,
       "num": 1067181,
       "word": "租房6年发现多帮房东交了几万电费",
@@ -737,6 +761,14 @@
       "onboard_time": 1774938203,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 409503,
+      "num": 215126,
+      "word": "李健硬要给许飞版权费",
+      "onboard_time": 1774941682,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 409497,
@@ -827,6 +859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375905,
+      "num": 159470,
+      "word": "范世錡工作室回应被删",
+      "onboard_time": 1774942583,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373790,
       "num": 932429,
       "word": "鸭嘴钳是无数女性做检查时的噩梦",
@@ -873,14 +913,6 @@
       "onboard_time": 1774862183,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 359819,
-      "num": 359819,
-      "word": "国足9分钟内连丢2球",
-      "onboard_time": 1774940723,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 354789,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1774774232,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291902,
+      "num": 792506,
+      "word": "张雪",
+      "onboard_time": 1774943063,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 291335,
@@ -1659,12 +1699,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230001,
-      "num": 349247,
-      "word": "曾沛慈人气第一",
-      "onboard_time": 1774941924,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 229914,
+      "num": 217800,
+      "word": "一年前离职的时候就预判了今天",
+      "onboard_time": 1774939824,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 229332,
@@ -1729,6 +1769,14 @@
       "onboard_time": 1774932027,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226182,
+      "num": 165946,
+      "word": "动荡的内娱迎来了最清醒的粉丝",
+      "onboard_time": 1774940423,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 226106,
@@ -1891,14 +1939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213133,
-      "num": 108357,
-      "word": "李健硬要给许飞版权费",
-      "onboard_time": 1774941682,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 212328,
       "num": 927345,
       "word": "带状疱疹72小时内一定要做这件事",
@@ -1953,6 +1993,14 @@
       "onboard_time": 1774938203,
       "rank": 6,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 206835,
+      "num": 312201,
+      "word": "广州长隆回应狮子静坐淋雨",
+      "onboard_time": 1774939824,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205958,
@@ -2113,14 +2161,6 @@
       "onboard_time": 1774712122,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191949,
-      "num": 109973,
-      "word": "一年前离职的时候就预判了今天",
-      "onboard_time": 1774939824,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 191811,
@@ -2435,14 +2475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169664,
-      "num": 312201,
-      "word": "广州长隆回应狮子静坐淋雨",
-      "onboard_time": 1774939824,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169611,
       "num": 169611,
       "word": "张雪机车禁止新手买车称希望少死人",
@@ -2497,14 +2529,6 @@
       "onboard_time": 1774752321,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165946,
-      "num": 165946,
-      "word": "动荡的内娱迎来了最清醒的粉丝",
-      "onboard_time": 1774940423,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 165843,
@@ -2571,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161166,
+      "num": 294342,
+      "word": "梁靖崑2比3西福恩特斯",
+      "onboard_time": 1774941323,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161022,
       "num": 161022,
       "word": "国行版苹果AI",
@@ -2593,6 +2625,22 @@
       "onboard_time": 1774940362,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159778,
+      "num": 253318,
+      "word": "张雪机车订单排到六月底",
+      "onboard_time": 1774940723,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158856,
+      "num": 158856,
+      "word": "河南一高中近半历史老师无学生可教",
+      "onboard_time": 1774942703,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158767,
@@ -2705,14 +2753,6 @@
       "onboard_time": 1774743860,
       "rank": 18,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 151074,
-      "num": 294342,
-      "word": "梁靖崑2比3西福恩特斯",
-      "onboard_time": 1774941323,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 150643,
@@ -2923,14 +2963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137972,
-      "num": 253318,
-      "word": "张雪机车订单排到六月底",
-      "onboard_time": 1774940723,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137861,
       "num": 506541,
       "word": "伊朗称波斯湾鲨鱼正等待美国军人",
@@ -3043,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132341,
+      "num": 118672,
+      "word": "孙怡女团风穿搭也是有了新的退展",
+      "onboard_time": 1774941023,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132306,
       "num": 132306,
       "word": "祖孙3人遭搅拌车碾压1死1重伤",
@@ -3073,6 +3113,14 @@
       "onboard_time": 1774763121,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131051,
+      "num": 131051,
+      "word": "首个春假来了",
+      "onboard_time": 1774943122,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 130698,
@@ -3227,6 +3275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125174,
+      "num": 125174,
+      "word": "麻辣烫里最夯的是啥菜",
+      "onboard_time": 1774942763,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124649,
       "num": 124649,
       "word": "王一博蓄力正赛",
@@ -3273,6 +3329,14 @@
       "onboard_time": 1774789827,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122648,
+      "num": 122648,
+      "word": "A股3月收官",
+      "onboard_time": 1774941625,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 122195,
@@ -3587,6 +3651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111292,
+      "num": 130223,
+      "word": "辛苦考上幼师后幼儿园却没了",
+      "onboard_time": 1774942823,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111177,
       "num": 504356,
       "word": "一直以为保温毯是披在身上的",
@@ -3601,6 +3673,14 @@
       "onboard_time": 1774913781,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110796,
+      "num": 109478,
+      "word": "养了一年猫感觉嘴里都是猫毛",
+      "onboard_time": 1774943003,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 110638,
@@ -3897,6 +3977,14 @@
       "onboard_time": 1774829545,
       "rank": 24,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 103922,
+      "num": 103922,
+      "word": "月鳞绮纪全员be",
+      "onboard_time": 1774941863,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 103147,
@@ -4219,14 +4307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95539,
-      "num": 90960,
-      "word": "月鳞绮纪全员be",
-      "onboard_time": 1774941863,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95054,
       "num": 223362,
       "word": "安东内利夺得F1日本站冠军",
@@ -4435,6 +4515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91235,
+      "num": 91235,
+      "word": "高铁加速盒饭就剩盒饭了",
+      "onboard_time": 1774941082,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90990,
       "num": 90990,
       "word": "当年要有这杆子睡得有多香",
@@ -4499,6 +4587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90392,
+      "num": 90392,
+      "word": "国足0比2喀麦隆",
+      "onboard_time": 1774943184,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90246,
       "num": 90246,
       "word": "汪峰说太多创作者拿不到版权费",
@@ -4513,6 +4609,14 @@
       "onboard_time": 1774774830,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 89861,
+      "num": 89861,
+      "word": "国足落后喀麦隆",
+      "onboard_time": 1774937963,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 89843,
@@ -4553,6 +4657,14 @@
       "onboard_time": 1774856663,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89478,
+      "num": 89478,
+      "word": "张雪称以前挺喜欢雷军的",
+      "onboard_time": 1774943302,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 89403,
@@ -4617,14 +4729,6 @@
       "onboard_time": 1774762820,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 88303,
-      "num": 88303,
-      "word": "国足落后喀麦隆",
-      "onboard_time": 1774937963,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 88245,
@@ -4809,6 +4913,14 @@
       "onboard_time": 1774863323,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84790,
+      "num": 84790,
+      "word": "米饭拌白糖",
+      "onboard_time": 1774943184,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 84661,
@@ -5267,6 +5379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78453,
+      "num": 78453,
+      "word": "张雪解释自己为何没考汽车驾照",
+      "onboard_time": 1774942703,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78438,
       "num": 80769,
       "word": "吴镇宇说郭晓婷脸上有故事了",
@@ -5425,14 +5545,6 @@
       "onboard_time": 1774769247,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 76173,
-      "num": 89880,
-      "word": "A股3月收官",
-      "onboard_time": 1774941625,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 75811,
@@ -6049,6 +6161,14 @@
       "onboard_time": 1774731913,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60701,
+      "num": 91192,
+      "word": "李昀锐王鹤棣宋茜当上宣传委员了",
+      "onboard_time": 1774941262,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 60664,
@@ -6683,6 +6803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31063,
+      "num": 90922,
+      "word": "曾志伟说雪饼猴是表演天才",
+      "onboard_time": 1774941203,
+      "rank": 38,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 30850,
       "num": 71667,
       "word": "伊朗军方称击中美军舰艇",
@@ -6721,6 +6849,14 @@
       "onboard_time": 1774894276,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27788,
+      "num": 90788,
+      "word": "太原火灾现场饭桌上还有未动的晚餐",
+      "onboard_time": 1774942703,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27287,

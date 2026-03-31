@@ -1,0 +1,410 @@
+{
+  "runTime": 1774943529141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 422857,
+        "num": 1067657,
+        "word": "国足9分钟内连丢2球",
+        "onboard_time": 1774940723,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291902,
+        "num": 792506,
+        "word": "张雪",
+        "onboard_time": 1774943063,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30771,
+        "num": 625397,
+        "word": "中国人海上百米高空吊装百米叶片",
+        "onboard_time": 1774926085,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483206,
+        "num": 483206,
+        "word": "曾沛慈人气第一",
+        "onboard_time": 1774941924,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228267,
+        "num": 228267,
+        "word": "我不成仙",
+        "onboard_time": 1774939340,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229914,
+        "num": 217800,
+        "word": "一年前离职的时候就预判了今天",
+        "onboard_time": 1774939824,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409503,
+        "num": 215126,
+        "word": "李健硬要给许飞版权费",
+        "onboard_time": 1774941682,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206835,
+        "num": 206835,
+        "word": "广州长隆回应狮子静坐淋雨",
+        "onboard_time": 1774939824,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185237,
+        "num": 185237,
+        "word": "官方通报男子玩真人CS高坠身亡",
+        "onboard_time": 1774938203,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 161166,
+        "num": 161166,
+        "word": "梁靖崑2比3西福恩特斯",
+        "onboard_time": 1774941323,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5979752,
+        "num": 5979752,
+        "word": "鞠婧祎工作室声明",
+        "onboard_time": 1774932507,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789024,
+        "num": 160493,
+        "word": "痞幼直播时抽烟",
+        "onboard_time": 1774942163,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159778,
+        "num": 159778,
+        "word": "张雪机车订单排到六月底",
+        "onboard_time": 1774940723,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375905,
+        "num": 159470,
+        "word": "范世錡工作室回应被删",
+        "onboard_time": 1774942583,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241240,
+        "num": 159202,
+        "word": "人民日报曾评单依纯李白改编争议",
+        "onboard_time": 1774931246,
+        "rank": 14,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 158856,
+        "num": 158856,
+        "word": "河南一高中近半历史老师无学生可教",
+        "onboard_time": 1774942703,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310485,
+        "num": 154389,
+        "word": "虞书欣崔叡娜cha",
+        "onboard_time": 1774938203,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143505,
+        "num": 143505,
+        "word": "国足vs喀麦隆",
+        "onboard_time": 1774937603,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131051,
+        "num": 131051,
+        "word": "首个春假来了",
+        "onboard_time": 1774943122,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111292,
+        "num": 130223,
+        "word": "辛苦考上幼师后幼儿园却没了",
+        "onboard_time": 1774942823,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388347,
+        "num": 128639,
+        "word": "黄油年糕被改名为韩国年糕",
+        "onboard_time": 1774940483,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226182,
+        "num": 127898,
+        "word": "动荡的内娱迎来了最清醒的粉丝",
+        "onboard_time": 1774940423,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209419,
+        "num": 126006,
+        "word": "爸爸去哪儿的阿拉蕾长大了",
+        "onboard_time": 1774933888,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125174,
+        "num": 125174,
+        "word": "麻辣烫里最夯的是啥菜",
+        "onboard_time": 1774942763,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161584,
+        "num": 124186,
+        "word": "AI演员 拼尸块",
+        "onboard_time": 1774933823,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146765,
+        "num": 123706,
+        "word": "森林北自曝曾抑制身高",
+        "onboard_time": 1774940362,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122648,
+        "num": 122648,
+        "word": "A股3月收官",
+        "onboard_time": 1774941625,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132341,
+        "num": 118672,
+        "word": "孙怡女团风穿搭也是有了新的退展",
+        "onboard_time": 1774941023,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130849,
+        "num": 115087,
+        "word": "卜凡团播",
+        "onboard_time": 1774929746,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109529,
+        "num": 109529,
+        "word": "伊朗最大岛屿遭美以袭击",
+        "onboard_time": 1774931965,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110796,
+        "num": 109478,
+        "word": "养了一年猫感觉嘴里都是猫毛",
+        "onboard_time": 1774943003,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115559,
+        "num": 109341,
+        "word": "地铁吐血女孩账户因转账频繁被封",
+        "onboard_time": 1774931606,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108482,
+        "num": 108482,
+        "word": "乘风2026",
+        "onboard_time": 1774937723,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106996,
+        "num": 106996,
+        "word": "5种炎症确认与癌症有关",
+        "onboard_time": 1774925846,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103922,
+        "num": 103922,
+        "word": "月鳞绮纪全员be",
+        "onboard_time": 1774941863,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96597,
+        "num": 96597,
+        "word": "阿沁曾说自己靠版权年收入破千万",
+        "onboard_time": 1774940242,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91235,
+        "num": 91235,
+        "word": "高铁加速盒饭就剩盒饭了",
+        "onboard_time": 1774941082,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60701,
+        "num": 91192,
+        "word": "李昀锐王鹤棣宋茜当上宣传委员了",
+        "onboard_time": 1774941262,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31063,
+        "num": 90922,
+        "word": "曾志伟说雪饼猴是表演天才",
+        "onboard_time": 1774941203,
+        "rank": 38,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 27788,
+        "num": 90788,
+        "word": "太原火灾现场饭桌上还有未动的晚餐",
+        "onboard_time": 1774942703,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98964,
+        "num": 90532,
+        "word": "马嘉祺月鳞绮纪OST",
+        "onboard_time": 1774935326,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90392,
+        "num": 90392,
+        "word": "国足0比2喀麦隆",
+        "onboard_time": 1774943184,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89861,
+        "num": 89861,
+        "word": "国足落后喀麦隆",
+        "onboard_time": 1774937963,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89478,
+        "num": 89478,
+        "word": "张雪称以前挺喜欢雷军的",
+        "onboard_time": 1774943302,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88952,
+        "num": 88952,
+        "word": "在意遇难博士床上四件套用了7年",
+        "onboard_time": 1774928846,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86022,
+        "num": 86022,
+        "word": "00后女生逆袭考上985竟是病了",
+        "onboard_time": 1774928545,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85772,
+        "num": 85772,
+        "word": "月鳞绮纪定档",
+        "onboard_time": 1774922365,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85293,
+        "num": 85293,
+        "word": "美军使用钻地弹袭击伊大型弹药库",
+        "onboard_time": 1774933646,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84790,
+        "num": 84790,
+        "word": "米饭拌白糖",
+        "onboard_time": 1774943184,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78453,
+        "num": 78453,
+        "word": "张雪解释自己为何没考汽车驾照",
+        "onboard_time": 1774942703,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记共建美丽家园#"
+    }
+  }
+}

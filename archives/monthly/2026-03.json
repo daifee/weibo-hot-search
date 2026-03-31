@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774942070351,
+  "endTime": 1774943529141,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -3657,6 +3657,14 @@
       "onboard_time": 1772450786,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 789024,
+      "num": 160493,
+      "word": "痞幼直播时抽烟",
+      "onboard_time": 1774942163,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 787317,
@@ -8651,6 +8659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483206,
+      "num": 483206,
+      "word": "曾沛慈人气第一",
+      "onboard_time": 1774941924,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 482863,
       "num": 279992,
       "word": "美军证实3架F15战机坠毁",
@@ -10811,6 +10827,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 422857,
+      "num": 1067657,
+      "word": "国足9分钟内连丢2球",
+      "onboard_time": 1774940723,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422846,
       "num": 1067655,
       "word": "4S店回应拉黑吃饭超260次男子",
@@ -11345,6 +11369,14 @@
       "onboard_time": 1774526481,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409503,
+      "num": 215126,
+      "word": "李健硬要给许飞版权费",
+      "onboard_time": 1774941682,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 409497,
@@ -12779,6 +12811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375905,
+      "num": 159470,
+      "word": "范世錡工作室回应被删",
+      "onboard_time": 1774942583,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375463,
       "num": 375463,
       "word": "部分茶叶咖啡中检出伟哥成分",
@@ -13521,14 +13561,6 @@
       "onboard_time": 1772509228,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 359819,
-      "num": 359819,
-      "word": "国足9分钟内连丢2球",
-      "onboard_time": 1774940723,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 359470,
@@ -17481,6 +17513,14 @@
       "onboard_time": 1774597822,
       "rank": 20,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 291902,
+      "num": 792506,
+      "word": "张雪",
+      "onboard_time": 1774943063,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 291361,
@@ -22555,12 +22595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230001,
-      "num": 349247,
-      "word": "曾沛慈人气第一",
-      "onboard_time": 1774941924,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 229914,
+      "num": 217800,
+      "word": "一年前离职的时候就预判了今天",
+      "onboard_time": 1774939824,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 229698,
@@ -22953,6 +22993,14 @@
       "onboard_time": 1773822262,
       "rank": 30,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 226182,
+      "num": 165946,
+      "word": "动荡的内娱迎来了最清醒的粉丝",
+      "onboard_time": 1774940423,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 226143,
@@ -24347,14 +24395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213133,
-      "num": 108357,
-      "word": "李健硬要给许飞版权费",
-      "onboard_time": 1774941682,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 213084,
       "num": 396934,
       "word": "18名中国公民顺利撤离伊朗",
@@ -24905,6 +24945,14 @@
       "onboard_time": 1774617323,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206835,
+      "num": 312201,
+      "word": "广州长隆回应狮子静坐淋雨",
+      "onboard_time": 1774939824,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206608,
@@ -26617,14 +26665,6 @@
       "onboard_time": 1773922821,
       "rank": 23,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 191949,
-      "num": 109973,
-      "word": "一年前离职的时候就预判了今天",
-      "onboard_time": 1774939824,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 191811,
@@ -29571,14 +29611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169664,
-      "num": 312201,
-      "word": "广州长隆回应狮子静坐淋雨",
-      "onboard_time": 1774939824,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169611,
       "num": 169611,
       "word": "张雪机车禁止新手买车称希望少死人",
@@ -30184,14 +30216,6 @@
       "word": "韩国知名男星涉嫌借权势性侵",
       "onboard_time": 1773377482,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 165946,
-      "num": 165946,
-      "word": "动荡的内娱迎来了最清醒的粉丝",
-      "onboard_time": 1774940423,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -30843,6 +30867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161166,
+      "num": 294342,
+      "word": "梁靖崑2比3西福恩特斯",
+      "onboard_time": 1774941323,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161104,
       "num": 161104,
       "word": "谢征俞宝儿是连襟",
@@ -31099,6 +31131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159778,
+      "num": 253318,
+      "word": "张雪机车订单排到六月底",
+      "onboard_time": 1774940723,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159698,
       "num": 194535,
       "word": "工作脑vs事业脑",
@@ -31281,6 +31321,14 @@
       "onboard_time": 1772437045,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158856,
+      "num": 158856,
+      "word": "河南一高中近半历史老师无学生可教",
+      "onboard_time": 1774942703,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158839,
@@ -32625,14 +32673,6 @@
       "onboard_time": 1773025641,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151074,
-      "num": 294342,
-      "word": "梁靖崑2比3西福恩特斯",
-      "onboard_time": 1774941323,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 151073,
@@ -35211,14 +35251,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 137972,
-      "num": 253318,
-      "word": "张雪机车订单排到六月底",
-      "onboard_time": 1774940723,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137942,
       "num": 116261,
       "word": "网传张凌赫张雅钦主演刺棠",
@@ -36451,6 +36483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132341,
+      "num": 118672,
+      "word": "孙怡女团风穿搭也是有了新的退展",
+      "onboard_time": 1774941023,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132340,
       "num": 94091,
       "word": "比亚迪发布会",
@@ -36833,6 +36873,14 @@
       "onboard_time": 1773729621,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131051,
+      "num": 131051,
+      "word": "首个春假来了",
+      "onboard_time": 1774943122,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 131033,
@@ -38419,6 +38467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125174,
+      "num": 125174,
+      "word": "麻辣烫里最夯的是啥菜",
+      "onboard_time": 1774942763,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 125147,
       "num": 156743,
       "word": "老人突发心梗30分钟教科书式自救",
@@ -39057,6 +39113,14 @@
       "onboard_time": 1774591281,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122648,
+      "num": 122648,
+      "word": "A股3月收官",
+      "onboard_time": 1774941625,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 122635,
@@ -42771,6 +42835,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 111292,
+      "num": 130223,
+      "word": "辛苦考上幼师后幼儿园却没了",
+      "onboard_time": 1774942823,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111278,
       "num": 248441,
       "word": "机车网红黄油腻被曝发生事故去世",
@@ -42953,6 +43025,14 @@
       "onboard_time": 1772454025,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110796,
+      "num": 109478,
+      "word": "养了一年猫感觉嘴里都是猫毛",
+      "onboard_time": 1774943003,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 110794,
@@ -45785,6 +45865,14 @@
       "onboard_time": 1772549131,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103922,
+      "num": 103922,
+      "word": "月鳞绮纪全员be",
+      "onboard_time": 1774941863,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 103871,
@@ -49875,14 +49963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95539,
-      "num": 90960,
-      "word": "月鳞绮纪全员be",
-      "onboard_time": 1774941863,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95516,
       "num": 487230,
       "word": "建议取消学术不端人员教职或学位",
@@ -52387,6 +52467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91235,
+      "num": 91235,
+      "word": "高铁加速盒饭就剩盒饭了",
+      "onboard_time": 1774941082,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91233,
       "num": 91233,
       "word": "15岁中学生花800元手搓电动车",
@@ -52915,6 +53003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90392,
+      "num": 90392,
+      "word": "国足0比2喀麦隆",
+      "onboard_time": 1774943184,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90369,
       "num": 326807,
       "word": "青岛女子回应十几万黄金藏冰箱冷冻",
@@ -53195,6 +53291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89861,
+      "num": 89861,
+      "word": "国足落后喀麦隆",
+      "onboard_time": 1774937963,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89848,
       "num": 127320,
       "word": "伊朗宣布导弹命中率提升了一倍",
@@ -53401,6 +53505,14 @@
       "onboard_time": 1773800481,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89478,
+      "num": 89478,
+      "word": "张雪称以前挺喜欢雷军的",
+      "onboard_time": 1774943302,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 89474,
@@ -54161,14 +54273,6 @@
       "onboard_time": 1774762820,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 88303,
-      "num": 88303,
-      "word": "国足落后喀麦隆",
-      "onboard_time": 1774937963,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 88251,
@@ -56345,6 +56449,14 @@
       "onboard_time": 1774701082,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84790,
+      "num": 84790,
+      "word": "米饭拌白糖",
+      "onboard_time": 1774943184,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 84776,
@@ -60379,6 +60491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78453,
+      "num": 78453,
+      "word": "张雪解释自己为何没考汽车驾照",
+      "onboard_time": 1774942703,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78442,
       "num": 78442,
       "word": "田曦薇骑马这段夯爆了",
@@ -62017,14 +62137,6 @@
       "onboard_time": 1772870422,
       "rank": 42,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 76173,
-      "num": 89880,
-      "word": "A股3月收官",
-      "onboard_time": 1774941625,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 76171,
@@ -70603,6 +70715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60701,
+      "num": 91192,
+      "word": "李昀锐王鹤棣宋茜当上宣传委员了",
+      "onboard_time": 1774941262,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60653,
       "num": 60653,
       "word": "流浪海狗上岸两年后的变化",
@@ -78707,6 +78827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31063,
+      "num": 90922,
+      "word": "曾志伟说雪饼猴是表演天才",
+      "onboard_time": 1774941203,
+      "rank": 38,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 31011,
       "num": 76494,
       "word": "王橹杰 男神蜕变之路",
@@ -79632,6 +79760,14 @@
       "word": "人贩子梅姨曾乔装为乡间红娘",
       "onboard_time": 1774270822,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27788,
+      "num": 90788,
+      "word": "太原火灾现场饭桌上还有未动的晚餐",
+      "onboard_time": 1774942703,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
