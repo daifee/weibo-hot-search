@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1774990408784,
+  "endTime": 1774991051393,
   "band_list": [
     {
       "raw_hot": 2081325,
@@ -451,8 +451,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24354,
-      "num": 24354,
+      "raw_hot": 24523,
+      "num": 24523,
       "word": "盗墓笔记",
       "onboard_time": 1774967426,
       "rank": 40,
@@ -515,7 +515,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14646,
+      "raw_hot": 15567,
       "num": 17894,
       "word": "张雪让世界记住了中国摩托",
       "onboard_time": 1774981754,
@@ -523,7 +523,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13961,
+      "raw_hot": 14544,
       "num": 17886,
       "word": "孟晚舟华为年报致辞谈战略聚焦",
       "onboard_time": 1774962445,
@@ -531,7 +531,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 11470,
+      "raw_hot": 11569,
       "num": 17871,
       "word": "DYG战胜TTG",
       "onboard_time": 1774965805,
