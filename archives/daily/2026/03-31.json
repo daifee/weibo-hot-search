@@ -1,7 +1,23 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774915233346,
+  "endTime": 1774925671477,
   "band_list": [
+    {
+      "raw_hot": 14644675,
+      "num": 14644675,
+      "word": "鞠婧祎被实名举报偷税漏税",
+      "onboard_time": 1774920861,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5165138,
+      "num": 205722,
+      "word": "鞠婧祎 收入明细",
+      "onboard_time": 1774923746,
+      "rank": 16,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1515452,
       "num": 1515452,
@@ -9,6 +25,14 @@
       "onboard_time": 1774884683,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1090821,
+      "num": 1174531,
+      "word": "月鳞绮纪定档",
+      "onboard_time": 1774922365,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 763012,
@@ -19,8 +43,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 583975,
+      "num": 206235,
+      "word": "偶遇何穗公园遛娃",
+      "onboard_time": 1774923806,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498162,
-      "num": 871930,
+      "num": 877003,
       "word": "网友买安眠药后收到注销驾驶证短信",
       "onboard_time": 1774886182,
       "rank": 4,
@@ -33,6 +65,22 @@
       "onboard_time": 1774912580,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393734,
+      "num": 393734,
+      "word": "何洁曾说她们公司就靠跳楼机活着",
+      "onboard_time": 1774916904,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 373697,
+      "num": 373697,
+      "word": "AI短剧 偷脸",
+      "onboard_time": 1774915762,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 334127,
@@ -59,6 +107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 314329,
+      "num": 314329,
+      "word": "重庆一隧道爆炸致4死9伤",
+      "onboard_time": 1774918942,
+      "rank": 6,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 308930,
       "num": 308930,
       "word": "午睡是一场真正的豪赌",
@@ -83,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 292565,
+      "num": 206097,
+      "word": "陈都灵预告15秒换了13套衣服",
+      "onboard_time": 1774924525,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290691,
       "num": 290691,
       "word": "央视调查烧秸秆屡禁不止",
@@ -99,20 +163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273473,
+      "num": 206003,
+      "word": "严浩翔高会更新",
+      "onboard_time": 1774913781,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 264648,
+      "num": 206113,
+      "word": "桃黑黑网断了",
+      "onboard_time": 1774920803,
+      "rank": 12,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 257846,
       "num": 257846,
       "word": "美以伊地面战一触即发",
       "onboard_time": 1774882105,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 235039,
-      "num": 142794,
-      "word": "严浩翔高会更新",
-      "onboard_time": 1774913781,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 224569,
@@ -123,12 +195,68 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222091,
+      "num": 374521,
+      "word": "特朗普称愿结束对伊军事行动",
+      "onboard_time": 1774923806,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 215374,
+      "num": 205902,
+      "word": "女子坐公园里休息遭大爷语言骚扰",
+      "onboard_time": 1774922365,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211549,
+      "num": 211549,
+      "word": "张雪妻子称创业最穷时为20块饭钱发愁",
+      "onboard_time": 1774921162,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209708,
+      "num": 124462,
+      "word": "毛林林无法拒绝演张凌赫的妈妈",
+      "onboard_time": 1774920803,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207180,
       "num": 207180,
       "word": "张凌赫逐玉收官小作文",
       "onboard_time": 1774869262,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206511,
+      "num": 206511,
+      "word": "张雪机车一战封神",
+      "onboard_time": 1774914982,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 205958,
+      "num": 124242,
+      "word": "月鳞绮纪首发海报",
+      "onboard_time": 1774924105,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205705,
+      "num": 205705,
+      "word": "伊朗通过霍尔木兹海峡管理方案",
+      "onboard_time": 1774916904,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192296,
@@ -155,6 +283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175900,
+      "num": 118125,
+      "word": "虎跳峡落水男子遗体打捞失败",
+      "onboard_time": 1774925244,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171941,
       "num": 161394,
       "word": "孟子义 从全世界的战斗中路过",
@@ -171,11 +307,51 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 170004,
+      "num": 121486,
+      "word": "香港演员施明去世",
+      "onboard_time": 1774921823,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169611,
+      "num": 169611,
+      "word": "张雪机车禁止新手买车称希望少死人",
+      "onboard_time": 1774923207,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161022,
+      "num": 161022,
+      "word": "国行版苹果AI",
+      "onboard_time": 1774914500,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 149271,
+      "num": 120570,
+      "word": "四月行程图",
+      "onboard_time": 1774921523,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148667,
       "num": 48928,
       "word": "李荣浩曾3次发文吐槽谢广坤",
       "onboard_time": 1774913841,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138802,
+      "num": 117848,
+      "word": "常石磊编曲",
+      "onboard_time": 1774917923,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -196,7 +372,7 @@
     },
     {
       "raw_hot": 132840,
-      "num": 88379,
+      "num": 103579,
       "word": "檀健次说只能唱一句再唱就要版权",
       "onboard_time": 1774887802,
       "rank": 20,
@@ -219,12 +395,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126567,
+      "num": 126567,
+      "word": "流量退去之后再访晓华理发店",
+      "onboard_time": 1774922844,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123646,
       "num": 109690,
       "word": "东鹏特饮押宝张雪机车赢麻了",
       "onboard_time": 1774887562,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117849,
+      "num": 117849,
+      "word": "父母搬砖供出的博士在意遇难",
+      "onboard_time": 1774924285,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117578,
+      "num": 117578,
+      "word": "杂志抽成",
+      "onboard_time": 1774925306,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 117096,
@@ -249,6 +449,14 @@
       "onboard_time": 1774913781,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 108879,
+      "num": 108879,
+      "word": "张雪商业版图",
+      "onboard_time": 1774921162,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 108856,
@@ -291,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99091,
+      "num": 99091,
+      "word": "数学考17的人学会计",
+      "onboard_time": 1774925066,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99083,
       "num": 99083,
       "word": "迪丽热巴也闯进好凉赛道了",
@@ -315,12 +531,60 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 93994,
-      "num": 93994,
-      "word": "国行版苹果AI",
-      "onboard_time": 1774914500,
-      "rank": 26,
+      "raw_hot": 93789,
+      "num": 93789,
+      "word": "iPhone18Pro灵动岛挖孔或迎瘦身",
+      "onboard_time": 1774919603,
+      "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 91558,
+      "num": 91558,
+      "word": "一周只睡2小时福建男子被确诊双相",
+      "onboard_time": 1774921764,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90246,
+      "num": 90246,
+      "word": "汪峰说太多创作者拿不到版权费",
+      "onboard_time": 1774925066,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89784,
+      "num": 89784,
+      "word": "逐玉",
+      "onboard_time": 1774913841,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88154,
+      "num": 87141,
+      "word": "刘敏涛拍完30集被扶着走",
+      "onboard_time": 1774924946,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 87693,
+      "num": 87693,
+      "word": "这些豆腐其实不含豆",
+      "onboard_time": 1774917083,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 84502,
+      "num": 84502,
+      "word": "孙颖莎回应成功卫冕将创造历史",
+      "onboard_time": 1774925244,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 84366,
@@ -329,6 +593,14 @@
       "onboard_time": 1774870643,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 82374,
+      "num": 82374,
+      "word": "中行副行长谈银行定期存款到期",
+      "onboard_time": 1774925363,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 82009,
@@ -369,14 +641,6 @@
       "onboard_time": 1774914140,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69507,
-      "num": 69507,
-      "word": "逐玉",
-      "onboard_time": 1774913841,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 67692,
@@ -507,6 +771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51478,
+      "num": 119846,
+      "word": "美军被曝疑在伊朗村庄布设致命地雷",
+      "onboard_time": 1774925485,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 50905,
       "num": 672408,
       "word": "战友背起邱少云遗骨想带他回家",
@@ -553,14 +825,6 @@
       "onboard_time": 1774883065,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47796,
-      "num": 47796,
-      "word": "张雪机车一战封神",
-      "onboard_time": 1774914982,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 46296,
@@ -667,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26127,
+      "num": 206444,
+      "word": "韩国向中国14城发放十年签",
+      "onboard_time": 1774925185,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26077,
       "num": 56881,
       "word": "KPL",
@@ -755,6 +1027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14346,
+      "num": 687215,
+      "word": "中国火箭唰地站起来快速发射",
+      "onboard_time": 1774925244,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7853,
       "num": 72116,
       "word": "这份规划惠及你我他",
@@ -766,6 +1046,9 @@
   "hotgov_list": [
     {
       "word": "#习近平参加首都义务植树#"
+    },
+    {
+      "word": "#跟着总书记共建美丽家园#"
     }
   ]
 }

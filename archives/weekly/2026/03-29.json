@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774915233346,
+  "endTime": 1774925671477,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -9,6 +9,14 @@
       "onboard_time": 1774767022,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14644675,
+      "num": 14644675,
+      "word": "鞠婧祎被实名举报偷税漏税",
+      "onboard_time": 1774920861,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 12546796,
@@ -33,6 +41,14 @@
       "onboard_time": 1774768469,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 5165138,
+      "num": 205722,
+      "word": "鞠婧祎 收入明细",
+      "onboard_time": 1774923746,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 2565449,
@@ -169,6 +185,14 @@
       "onboard_time": 1774855763,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1090821,
+      "num": 1174531,
+      "word": "月鳞绮纪定档",
+      "onboard_time": 1774922365,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1069778,
@@ -347,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 583975,
+      "num": 206235,
+      "word": "偶遇何穗公园遛娃",
+      "onboard_time": 1774923806,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579289,
       "num": 951756,
       "word": "张凌赫摄影师 撕拉片不是P的",
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 498162,
-      "num": 871930,
+      "num": 877003,
       "word": "网友买安眠药后收到注销驾驶证短信",
       "onboard_time": 1774886182,
       "rank": 4,
@@ -659,6 +691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 393734,
+      "num": 393734,
+      "word": "何洁曾说她们公司就靠跳楼机活着",
+      "onboard_time": 1774916904,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 384818,
       "num": 1061570,
       "word": "日本抗议者高喊中国对不起",
@@ -697,6 +737,14 @@
       "onboard_time": 1774774650,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 373697,
+      "num": 373697,
+      "word": "AI短剧 偷脸",
+      "onboard_time": 1774915762,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 367927,
@@ -801,6 +849,14 @@
       "onboard_time": 1774878324,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314329,
+      "num": 314329,
+      "word": "重庆一隧道爆炸致4死9伤",
+      "onboard_time": 1774918942,
+      "rank": 6,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 313703,
@@ -913,6 +969,14 @@
       "onboard_time": 1774865963,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292565,
+      "num": 206097,
+      "word": "陈都灵预告15秒换了13套衣服",
+      "onboard_time": 1774924525,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 292229,
@@ -1059,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273473,
+      "num": 206003,
+      "word": "严浩翔高会更新",
+      "onboard_time": 1774913781,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272914,
       "num": 1778860,
       "word": "广州冰雹",
@@ -1185,6 +1257,14 @@
       "onboard_time": 1774842205,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264648,
+      "num": 206113,
+      "word": "桃黑黑网断了",
+      "onboard_time": 1774920803,
+      "rank": 12,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 262662,
@@ -1363,14 +1443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235039,
-      "num": 142794,
-      "word": "严浩翔高会更新",
-      "onboard_time": 1774913781,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234090,
       "num": 267386,
       "word": "日本反复挑战中国底线",
@@ -1499,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222091,
+      "num": 374521,
+      "word": "特朗普称愿结束对伊军事行动",
+      "onboard_time": 1774923806,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 221794,
       "num": 221794,
       "word": "日本人强闯我使馆事件最新进展",
@@ -1537,6 +1617,14 @@
       "onboard_time": 1774857862,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 215374,
+      "num": 205902,
+      "word": "女子坐公园里休息遭大爷语言骚扰",
+      "onboard_time": 1774922365,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215000,
@@ -1603,6 +1691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 211549,
+      "num": 211549,
+      "word": "张雪妻子称创业最穷时为20块饭钱发愁",
+      "onboard_time": 1774921162,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211248,
       "num": 211248,
       "word": "氯雷他定和西替利嗪的区别",
@@ -1611,12 +1707,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209708,
+      "num": 124462,
+      "word": "毛林林无法拒绝演张凌赫的妈妈",
+      "onboard_time": 1774920803,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209362,
       "num": 926340,
       "word": "北京偶遇宋亚轩贺峻霖",
       "onboard_time": 1774785866,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206511,
+      "num": 206511,
+      "word": "张雪机车一战封神",
+      "onboard_time": 1774914982,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 205958,
+      "num": 124242,
+      "word": "月鳞绮纪首发海报",
+      "onboard_time": 1774924105,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205705,
+      "num": 205705,
+      "word": "伊朗通过霍尔木兹海峡管理方案",
+      "onboard_time": 1774916904,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205454,
@@ -1923,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175900,
+      "num": 118125,
+      "word": "虎跳峡落水男子遗体打捞失败",
+      "onboard_time": 1774925244,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175653,
       "num": 175653,
       "word": "瑞幸新品一整颗生椰",
@@ -2001,6 +2137,22 @@
       "onboard_time": 1774788088,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170004,
+      "num": 121486,
+      "word": "香港演员施明去世",
+      "onboard_time": 1774921823,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169611,
+      "num": 169611,
+      "word": "张雪机车禁止新手买车称希望少死人",
+      "onboard_time": 1774923207,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 169348,
@@ -2099,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161022,
+      "num": 161022,
+      "word": "国行版苹果AI",
+      "onboard_time": 1774914500,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 160982,
       "num": 160982,
       "word": "原来老辈子的不是不理解二次元",
@@ -2193,6 +2353,14 @@
       "onboard_time": 1774855763,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149271,
+      "num": 120570,
+      "word": "四月行程图",
+      "onboard_time": 1774921523,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 148667,
@@ -2347,6 +2515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138802,
+      "num": 117848,
+      "word": "常石磊编曲",
+      "onboard_time": 1774917923,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138441,
       "num": 912933,
       "word": "邪恶砂糖橘 窝囊西红柿",
@@ -2444,7 +2620,7 @@
     },
     {
       "raw_hot": 132840,
-      "num": 88379,
+      "num": 103579,
       "word": "檀健次说只能唱一句再唱就要版权",
       "onboard_time": 1774887802,
       "rank": 20,
@@ -2569,6 +2745,14 @@
       "onboard_time": 1774715900,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126567,
+      "num": 126567,
+      "word": "流量退去之后再访晓华理发店",
+      "onboard_time": 1774922844,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126348,
@@ -2745,6 +2929,22 @@
       "onboard_time": 1774836804,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 117849,
+      "num": 117849,
+      "word": "父母搬砖供出的博士在意遇难",
+      "onboard_time": 1774924285,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117578,
+      "num": 117578,
+      "word": "杂志抽成",
+      "onboard_time": 1774925306,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 117346,
@@ -2961,6 +3161,14 @@
       "onboard_time": 1774762941,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108879,
+      "num": 108879,
+      "word": "张雪商业版图",
+      "onboard_time": 1774921162,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 108856,
@@ -3323,6 +3531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99091,
+      "num": 99091,
+      "word": "数学考17的人学会计",
+      "onboard_time": 1774925066,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98544,
       "num": 507863,
       "word": "美国对伊朗局势至少出现两个误判",
@@ -3499,14 +3715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93994,
-      "num": 93994,
-      "word": "国行版苹果AI",
-      "onboard_time": 1774914500,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 93964,
       "num": 93964,
       "word": "强闯中使馆人员部队驻地被搜查",
@@ -3521,6 +3729,14 @@
       "onboard_time": 1774861642,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93789,
+      "num": 93789,
+      "word": "iPhone18Pro灵动岛挖孔或迎瘦身",
+      "onboard_time": 1774919603,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 93765,
@@ -3635,6 +3851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91558,
+      "num": 91558,
+      "word": "一周只睡2小时福建男子被确诊双相",
+      "onboard_time": 1774921764,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91343,
       "num": 105658,
       "word": "檀健次看镜头好温柔",
@@ -3673,6 +3897,14 @@
       "onboard_time": 1774757660,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90246,
+      "num": 90246,
+      "word": "汪峰说太多创作者拿不到版权费",
+      "onboard_time": 1774925066,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 90064,
@@ -3795,12 +4027,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88154,
+      "num": 87141,
+      "word": "刘敏涛拍完30集被扶着走",
+      "onboard_time": 1774924946,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87697,
       "num": 125694,
       "word": "山东专升本数学",
       "onboard_time": 1774778491,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 87693,
+      "num": 87693,
+      "word": "这些豆腐其实不含豆",
+      "onboard_time": 1774917083,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 87592,
@@ -3971,6 +4219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84502,
+      "num": 84502,
+      "word": "孙颖莎回应成功卫冕将创造历史",
+      "onboard_time": 1774925244,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84487,
       "num": 84487,
       "word": "雷军宣布小米AI人才专项招聘启动",
@@ -4113,6 +4369,14 @@
       "onboard_time": 1774774110,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82374,
+      "num": 82374,
+      "word": "中行副行长谈银行定期存款到期",
+      "onboard_time": 1774925363,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 82282,
@@ -5355,6 +5619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51478,
+      "num": 119846,
+      "word": "美军被曝疑在伊朗村庄布设致命地雷",
+      "onboard_time": 1774925485,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 50905,
       "num": 672408,
       "word": "战友背起邱少云遗骨想带他回家",
@@ -5433,14 +5705,6 @@
       "onboard_time": 1774717938,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 47796,
-      "num": 47796,
-      "word": "张雪机车一战封神",
-      "onboard_time": 1774914982,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 47516,
@@ -5787,6 +6051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26127,
+      "num": 206444,
+      "word": "韩国向中国14城发放十年签",
+      "onboard_time": 1774925185,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26077,
       "num": 56881,
       "word": "KPL",
@@ -6067,6 +6339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14346,
+      "num": 687215,
+      "word": "中国火箭唰地站起来快速发射",
+      "onboard_time": 1774925244,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13146,
       "num": 20233,
       "word": "鞠婧祎唱的雨爱",
@@ -6144,6 +6424,9 @@
     },
     {
       "word": "#习近平参加首都义务植树#"
+    },
+    {
+      "word": "#跟着总书记共建美丽家园#"
     }
   ]
 }
