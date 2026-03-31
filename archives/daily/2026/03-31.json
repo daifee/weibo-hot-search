@@ -1,6 +1,6 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774948281873,
+  "endTime": 1774950030800,
   "band_list": [
     {
       "raw_hot": 14644675,
@@ -35,11 +35,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1171759,
+      "num": 1187481,
+      "word": "瑞幸 紫椰子",
+      "onboard_time": 1774946664,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1090821,
       "num": 1174531,
       "word": "月鳞绮纪定档",
       "onboard_time": 1774922365,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1003823,
+      "num": 196835,
+      "word": "范世錡怎么了",
+      "onboard_time": 1774947863,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -59,14 +75,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 777163,
-      "num": 1124346,
-      "word": "瑞幸 紫椰子",
-      "onboard_time": 1774946664,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 763012,
       "num": 235352,
       "word": "单依纯演唱会退票",
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 613980,
+      "num": 182963,
+      "word": "鞠婧祎工作室改名字了",
+      "onboard_time": 1774945882,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 595025,
       "num": 213373,
       "word": "李荣浩 打响版权维护第一枪",
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 585430,
-      "num": 792939,
+      "num": 870675,
       "word": "国足负于10人喀麦隆",
       "onboard_time": 1774945763,
       "rank": 1,
@@ -155,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454602,
+      "num": 132610,
+      "word": "陈妍希跟腱断裂",
+      "onboard_time": 1774948283,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444482,
       "num": 174964,
       "word": "黄油年糕被改名为韩国年糕",
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 409503,
-      "num": 324220,
+      "num": 421593,
       "word": "李健硬要给许飞版权费",
       "onboard_time": 1774941682,
       "rank": 31,
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 393685,
-      "num": 183014,
+      "num": 196938,
       "word": "怪不得公司一边招人一边裁员",
       "onboard_time": 1774943604,
       "rank": 12,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 370365,
-      "num": 182983,
+      "num": 195845,
       "word": "严浩翔考核试卷",
       "onboard_time": 1774943903,
       "rank": 13,
@@ -281,14 +305,6 @@
       "onboard_time": 1774939340,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 349913,
-      "num": 182963,
-      "word": "鞠婧祎工作室改名字了",
-      "onboard_time": 1774945882,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 334127,
@@ -515,12 +531,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 221883,
+      "num": 370162,
+      "word": "Ruler 韩国兵役",
+      "onboard_time": 1774946064,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 215374,
       "num": 205902,
       "word": "女子坐公园里休息遭大爷语言骚扰",
       "onboard_time": 1774922365,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212794,
+      "num": 196077,
+      "word": "DeepSeek崩了",
+      "onboard_time": 1774940483,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 211934,
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 195612,
-      "num": 156963,
+      "num": 195568,
       "word": "乘风2026助力团王俊凯",
       "onboard_time": 1774946243,
       "rank": 23,
@@ -665,14 +697,6 @@
       "onboard_time": 1774895295,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 183062,
-      "num": 183062,
-      "word": "Ruler 韩国兵役",
-      "onboard_time": 1774946064,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 174650,
@@ -795,20 +819,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157577,
+      "num": 129354,
+      "word": "小米YU7GT新配色现身纽北",
+      "onboard_time": 1774949543,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 156052,
       "num": 153539,
       "word": "在意失联川大博士遗体已找到",
       "onboard_time": 1774926988,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156044,
-      "num": 156044,
-      "word": "DeepSeek崩了",
-      "onboard_time": 1774940483,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 155472,
@@ -881,14 +905,6 @@
       "onboard_time": 1774942823,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137847,
-      "num": 137847,
-      "word": "范世錡怎么了",
-      "onboard_time": 1774947863,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 137755,
@@ -995,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128421,
+      "num": 128421,
+      "word": "B站明日将下线猜你喜欢算法",
+      "onboard_time": 1774948526,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 126567,
       "num": 126567,
       "word": "流量退去之后再访晓华理发店",
@@ -1019,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123147,
+      "num": 123147,
+      "word": "乘风2026排名",
+      "onboard_time": 1774949124,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122648,
       "num": 122648,
       "word": "A股3月收官",
@@ -1032,6 +1064,14 @@
       "word": "孟子义四月行程图",
       "onboard_time": 1774933106,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117522,
+      "num": 117522,
+      "word": "朱莉眼睛怎么了",
+      "onboard_time": 1774949663,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1131,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110288,
+      "num": 114768,
+      "word": "4月5月6月每个月都有假",
+      "onboard_time": 1774948102,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110049,
       "num": 110049,
       "word": "真正好的关系结束也是体面的",
@@ -1179,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106529,
+      "num": 106529,
+      "word": "安崎人气",
+      "onboard_time": 1774949844,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105943,
       "num": 186240,
       "word": "地铁吐血女孩称银行账户被封",
@@ -1204,7 +1260,7 @@
     },
     {
       "raw_hot": 105317,
-      "num": 105317,
+      "num": 123383,
       "word": "中国3艘船成功通过霍尔木兹海峡",
       "onboard_time": 1774944682,
       "rank": 36,
@@ -1291,6 +1347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97848,
+      "num": 97848,
+      "word": "徐梦洁sugar初舞台",
+      "onboard_time": 1774948763,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96793,
       "num": 96793,
       "word": "冰湖重生月鳞绮纪对打",
@@ -1299,12 +1363,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96002,
+      "num": 98701,
+      "word": "狗狗消费降级后脸色都变了",
+      "onboard_time": 1774949543,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95850,
       "num": 95850,
       "word": "张雪早年创业借的每笔钱都记着",
       "onboard_time": 1774936404,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95477,
+      "num": 95477,
+      "word": "上班心态",
+      "onboard_time": 1774949363,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 94070,
@@ -1324,7 +1404,7 @@
     },
     {
       "raw_hot": 91905,
-      "num": 648679,
+      "num": 663758,
       "word": "4月一批新规将施行",
       "onboard_time": 1774945404,
       "rank": 2,
@@ -1451,6 +1531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 87614,
+      "num": 87614,
+      "word": "A股翻绿跌幅扩大",
+      "onboard_time": 1774946363,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86016,
       "num": 86016,
       "word": "卜凡弹幕 禁止打赏",
@@ -1473,6 +1561,14 @@
       "onboard_time": 1774935922,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85540,
+      "num": 85540,
+      "word": "刘雅瑟耳朵红透了",
+      "onboard_time": 1774949903,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 84502,
@@ -1787,14 +1883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53144,
-      "num": 114768,
-      "word": "4月5月6月每个月都有假",
-      "onboard_time": 1774948102,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50905,
       "num": 672408,
       "word": "战友背起邱少云遗骨想带他回家",
@@ -1873,6 +1961,14 @@
       "onboard_time": 1774889599,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44306,
+      "num": 98732,
+      "word": "曾毅扔伞报复玲花",
+      "onboard_time": 1774949424,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 43913,
@@ -2073,6 +2169,14 @@
       "onboard_time": 1774897035,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17325,
+      "num": 145158,
+      "word": "连线张雪纪录片拍摄者",
+      "onboard_time": 1774949183,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 17194,

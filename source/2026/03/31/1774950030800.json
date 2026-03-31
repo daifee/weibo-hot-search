@@ -1,0 +1,410 @@
+{
+  "runTime": 1774950030800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1171759,
+        "num": 1187481,
+        "word": "瑞幸 紫椰子",
+        "onboard_time": 1774946664,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439975,
+        "num": 870675,
+        "word": "国足负于10人喀麦隆",
+        "onboard_time": 1774945763,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85327,
+        "num": 663758,
+        "word": "4月一批新规将施行",
+        "onboard_time": 1774945404,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257427,
+        "num": 421593,
+        "word": "李健硬要给许飞版权费",
+        "onboard_time": 1774941682,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221883,
+        "num": 370162,
+        "word": "Ruler 韩国兵役",
+        "onboard_time": 1774946064,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 337921,
+        "num": 337921,
+        "word": "麻辣烫里最夯的是啥菜",
+        "onboard_time": 1774942763,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 254154,
+        "num": 254154,
+        "word": "范世錡工作室回应被删",
+        "onboard_time": 1774942583,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243575,
+        "num": 243575,
+        "word": "米饭拌白糖",
+        "onboard_time": 1774943184,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 232644,
+        "num": 232644,
+        "word": "张雪",
+        "onboard_time": 1774943063,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197546,
+        "num": 197546,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774944802,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380246,
+        "num": 197253,
+        "word": "曾沛慈人气第一",
+        "onboard_time": 1774941924,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330402,
+        "num": 196938,
+        "word": "怪不得公司一边招人一边裁员",
+        "onboard_time": 1774943604,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1003823,
+        "num": 196835,
+        "word": "范世錡怎么了",
+        "onboard_time": 1774947863,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333326,
+        "num": 196550,
+        "word": "人民日报曾评单依纯李白改编争议",
+        "onboard_time": 1774931246,
+        "rank": 13,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 212794,
+        "num": 196077,
+        "word": "DeepSeek崩了",
+        "onboard_time": 1774940483,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 325003,
+        "num": 195845,
+        "word": "严浩翔考核试卷",
+        "onboard_time": 1774943903,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195568,
+        "num": 195568,
+        "word": "乘风2026助力团王俊凯",
+        "onboard_time": 1774946243,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147899,
+        "num": 147899,
+        "word": "广州长隆回应狮子静坐淋雨",
+        "onboard_time": 1774939824,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14317,
+        "num": 146023,
+        "word": "瑷尔博士抗衰老的中国解法",
+        "onboard_time": 1774947924,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17325,
+        "num": 145158,
+        "word": "连线张雪纪录片拍摄者",
+        "onboard_time": 1774949183,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1618453,
+        "num": 141343,
+        "word": "鞠婧祎工作室声明",
+        "onboard_time": 1774932507,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674823,
+        "num": 138263,
+        "word": "痞幼直播时抽烟",
+        "onboard_time": 1774942163,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204221,
+        "num": 138097,
+        "word": "黄油年糕被改名为韩国年糕",
+        "onboard_time": 1774940483,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 613980,
+        "num": 134628,
+        "word": "鞠婧祎工作室改名字了",
+        "onboard_time": 1774945882,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 454602,
+        "num": 132610,
+        "word": "陈妍希跟腱断裂",
+        "onboard_time": 1774948283,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157577,
+        "num": 129354,
+        "word": "小米YU7GT新配色现身纽北",
+        "onboard_time": 1774949543,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128421,
+        "num": 128421,
+        "word": "B站明日将下线猜你喜欢算法",
+        "onboard_time": 1774948526,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124796,
+        "num": 124796,
+        "word": "动荡的内娱迎来了最清醒的粉丝",
+        "onboard_time": 1774940423,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53816,
+        "num": 123828,
+        "word": "五菱华为乾崑双向奔赴",
+        "onboard_time": 1774946964,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 84439,
+        "num": 123383,
+        "word": "中国3艘船成功通过霍尔木兹海峡",
+        "onboard_time": 1774944682,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123147,
+        "num": 123147,
+        "word": "乘风2026排名",
+        "onboard_time": 1774949124,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117522,
+        "num": 117522,
+        "word": "朱莉眼睛怎么了",
+        "onboard_time": 1774949663,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115147,
+        "num": 115147,
+        "word": "辛苦考上幼师后幼儿园却没了",
+        "onboard_time": 1774942823,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110288,
+        "num": 110288,
+        "word": "4月5月6月每个月都有假",
+        "onboard_time": 1774948102,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109644,
+        "num": 109644,
+        "word": "肖战准备进组十日终焉围读",
+        "onboard_time": 1774945823,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108462,
+        "num": 108462,
+        "word": "一年前离职的时候就预判了今天",
+        "onboard_time": 1774939824,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106529,
+        "num": 106529,
+        "word": "安崎人气",
+        "onboard_time": 1774949844,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106370,
+        "num": 106370,
+        "word": "我不成仙",
+        "onboard_time": 1774939340,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98782,
+        "num": 98782,
+        "word": "每天午睡vs从不午睡有多大差别",
+        "onboard_time": 1774944682,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44306,
+        "num": 98732,
+        "word": "曾毅扔伞报复玲花",
+        "onboard_time": 1774949424,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99234,
+        "num": 98730,
+        "word": "爸爸去哪儿的阿拉蕾长大了",
+        "onboard_time": 1774933888,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96002,
+        "num": 98701,
+        "word": "狗狗消费降级后脸色都变了",
+        "onboard_time": 1774949543,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98683,
+        "num": 98683,
+        "word": "AI演员 拼尸块",
+        "onboard_time": 1774933823,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97848,
+        "num": 97848,
+        "word": "徐梦洁sugar初舞台",
+        "onboard_time": 1774948763,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95477,
+        "num": 95477,
+        "word": "上班心态",
+        "onboard_time": 1774949363,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89360,
+        "num": 89360,
+        "word": "森林北自曝曾抑制身高",
+        "onboard_time": 1774940362,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87614,
+        "num": 87614,
+        "word": "A股翻绿跌幅扩大",
+        "onboard_time": 1774946363,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85540,
+        "num": 85540,
+        "word": "刘雅瑟耳朵红透了",
+        "onboard_time": 1774949903,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84441,
+        "num": 84441,
+        "word": "曝LCK删除Ruler片段",
+        "onboard_time": 1774945763,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81400,
+        "num": 81400,
+        "word": "乘风2026",
+        "onboard_time": 1774937723,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中国式现代化底色更加亮丽#"
+    }
+  }
+}
