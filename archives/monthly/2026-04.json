@@ -1,6 +1,6 @@
 {
   "startTime": 1774976876020,
-  "endTime": 1774976876020,
+  "endTime": 1774978364625,
   "band_list": [
     {
       "raw_hot": 2081325,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210058,
-      "num": 210058,
+      "raw_hot": 229522,
+      "num": 229522,
       "word": "十二星座4月月运",
       "onboard_time": 1774974922,
       "rank": 3,
@@ -89,6 +89,14 @@
       "onboard_time": 1774967605,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128088,
+      "num": 128088,
+      "word": "女子常来病房摸17岁离世儿子名字",
+      "onboard_time": 1774975519,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117860,
@@ -203,14 +211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 72355,
-      "num": 72355,
-      "word": "女子常来病房摸17岁离世儿子名字",
-      "onboard_time": 1774975519,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71334,
       "num": 71334,
       "word": "徐明浩跳catchcatch",
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61841,
+      "num": 48377,
+      "word": "特朗普希望4月6日前与伊朗签协议",
+      "onboard_time": 1774975999,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60692,
       "num": 60692,
       "word": "运动员退役后从146斤暴涨至523斤",
@@ -265,6 +273,14 @@
       "onboard_time": 1774952362,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 59958,
+      "num": 59958,
+      "word": "甄嬛传姐妹为孙俪新剧宣传",
+      "onboard_time": 1774973722,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 59016,
@@ -307,6 +323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54616,
+      "num": 54616,
+      "word": "张元英跳复仇摇",
+      "onboard_time": 1774978217,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53410,
       "num": 53410,
       "word": "NCTWISH",
@@ -331,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48377,
-      "num": 48377,
-      "word": "特朗普希望4月6日前与伊朗签协议",
-      "onboard_time": 1774975999,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 49303,
+      "num": 46604,
+      "word": "杨幂拼豆庆祝绿苑二十周年",
+      "onboard_time": 1774978337,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 48204,
@@ -345,6 +369,14 @@
       "onboard_time": 1774951282,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45849,
+      "num": 45849,
+      "word": "韩国向武汉居民发放十年签",
+      "onboard_time": 1774977498,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45607,
@@ -361,14 +393,6 @@
       "onboard_time": 1774976658,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 44165,
-      "num": 44165,
-      "word": "甄嬛传姐妹为孙俪新剧宣传",
-      "onboard_time": 1774973722,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 42140,
@@ -395,6 +419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35531,
+      "num": 35531,
+      "word": "伊朗警告打击地区美高科技相关企业",
+      "onboard_time": 1774976898,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 34830,
+      "num": 34830,
+      "word": "时代少年团 录播",
+      "onboard_time": 1774958186,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21651,
       "num": 344933,
       "word": "十五五规划背后的90后力量",
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#让中国式现代化底色更加亮丽#"
+    },
+    {
+      "word": "#与总书记一起共植新绿#"
     }
   ]
 }
