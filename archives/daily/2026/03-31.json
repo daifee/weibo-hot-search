@@ -1,6 +1,6 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774965239383,
+  "endTime": 1774966151336,
   "band_list": [
     {
       "raw_hot": 14644675,
@@ -51,6 +51,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1417386,
+      "num": 246197,
+      "word": "鞠婧祎 此身分明了",
+      "onboard_time": 1774963464,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1171759,
       "num": 2143540,
       "word": "瑞幸 紫椰子",
@@ -73,14 +81,6 @@
       "onboard_time": 1774947863,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 967236,
-      "num": 246197,
-      "word": "鞠婧祎 此身分明了",
-      "onboard_time": 1774963464,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 915394,
@@ -107,6 +107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 741262,
+      "num": 244171,
+      "word": "网红小徐自曝财产",
+      "onboard_time": 1774960105,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 699015,
       "num": 245515,
       "word": "上海交大引争议宣传片演员发声",
@@ -115,20 +123,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 691433,
-      "num": 244171,
-      "word": "网红小徐自曝财产",
-      "onboard_time": 1774960105,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 654512,
       "num": 242375,
       "word": "杨紫也被女装背刺了",
       "onboard_time": 1774959746,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 650249,
+      "num": 239245,
+      "word": "陈飞宇 陈凯歌基因显化中",
+      "onboard_time": 1774958607,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 618683,
@@ -153,6 +161,14 @@
       "onboard_time": 1774924407,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593977,
+      "num": 1241136,
+      "word": "曝雷军押注的中年人泡泡玛特将上市",
+      "onboard_time": 1774960467,
+      "rank": 1,
+      "category": "互联网,休闲"
     },
     {
       "raw_hot": 585430,
@@ -184,14 +200,6 @@
       "word": "卜凡团播",
       "onboard_time": 1774929746,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 555850,
-      "num": 239245,
-      "word": "陈飞宇 陈凯歌基因显化中",
-      "onboard_time": 1774958607,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488092,
+      "num": 488092,
+      "word": "唐艺昕人气",
+      "onboard_time": 1774959867,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467601,
       "num": 267469,
       "word": "妻子5次试管成功同年丈夫与情人生子",
@@ -265,14 +281,6 @@
       "onboard_time": 1774948283,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450308,
-      "num": 1241136,
-      "word": "曝雷军押注的中年人泡泡玛特将上市",
-      "onboard_time": 1774960467,
-      "rank": 1,
-      "category": "互联网,休闲"
     },
     {
       "raw_hot": 444482,
@@ -313,6 +321,14 @@
       "onboard_time": 1774940723,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417573,
+      "num": 237617,
+      "word": "孙艺珍庆祝与玄彬结婚四周年",
+      "onboard_time": 1774962804,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 412097,
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381172,
+      "num": 381172,
+      "word": "DYG战胜TTG",
+      "onboard_time": 1774965805,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 380160,
       "num": 380160,
       "word": "范世錡工作室回应被删",
@@ -411,14 +435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 365104,
-      "num": 365104,
-      "word": "唐艺昕人气",
-      "onboard_time": 1774959867,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 353178,
       "num": 353178,
       "word": "月鳞绮纪OST",
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350139,
+      "num": 350139,
+      "word": "TES 369",
+      "onboard_time": 1774962087,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 339335,
       "num": 339335,
       "word": "跳楼机数月吸金4000万原唱收入为0",
@@ -443,20 +467,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 338707,
-      "num": 237617,
-      "word": "孙艺珍庆祝与玄彬结婚四周年",
-      "onboard_time": 1774962804,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 336040,
       "num": 792506,
       "word": "张雪",
       "onboard_time": 1774943063,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335529,
+      "num": 335529,
+      "word": "俄方拒绝给日本供油",
+      "onboard_time": 1774960227,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 334127,
@@ -499,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 322505,
+      "num": 242118,
+      "word": "上海交大校庆宣传片引争议",
+      "onboard_time": 1774960885,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318348,
       "num": 318348,
       "word": "徐梦洁人气",
@@ -531,28 +563,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 311668,
-      "num": 311668,
-      "word": "俄方拒绝给日本供油",
-      "onboard_time": 1774960227,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 308930,
       "num": 308930,
       "word": "午睡是一场真正的豪赌",
       "onboard_time": 1774880845,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 303591,
-      "num": 242118,
-      "word": "上海交大校庆宣传片引争议",
-      "onboard_time": 1774960885,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303347,
@@ -593,14 +609,6 @@
       "onboard_time": 1774888400,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281026,
-      "num": 281026,
-      "word": "TES 369",
-      "onboard_time": 1774962087,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 273473,
@@ -667,20 +675,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239321,
+      "num": 236180,
+      "word": "时代少年团 录播",
+      "onboard_time": 1774958186,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236581,
       "num": 172700,
       "word": "郭敬明 审美",
       "onboard_time": 1774927346,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236180,
-      "num": 236180,
-      "word": "时代少年团 录播",
-      "onboard_time": 1774958186,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 229914,
@@ -721,6 +729,14 @@
       "onboard_time": 1774940423,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225263,
+      "num": 248014,
+      "word": "53岁女子去世600万遗产无人继承",
+      "onboard_time": 1774960167,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225038,
@@ -768,6 +784,22 @@
       "word": "Ruler 韩国兵役",
       "onboard_time": 1774946064,
       "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 219004,
+      "num": 219004,
+      "word": "香港开往上海高铁车厢出现大量蚊虫",
+      "onboard_time": 1774962624,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215410,
+      "num": 215410,
+      "word": "TTG对战DYG",
+      "onboard_time": 1774955481,
+      "rank": 14,
       "category": "电竞"
     },
     {
@@ -971,14 +1003,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 173183,
-      "num": 248014,
-      "word": "53岁女子去世600万遗产无人继承",
-      "onboard_time": 1774960167,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171941,
       "num": 161394,
       "word": "孟子义 从全世界的战斗中路过",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1774951463,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168973,
+      "num": 168973,
+      "word": "女子回应获3亿遗产引丈夫子女不满",
+      "onboard_time": 1774963405,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168713,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1774940362,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159815,
-      "num": 159815,
-      "word": "香港开往上海高铁车厢出现大量蚊虫",
-      "onboard_time": 1774962624,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159778,
@@ -1187,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141537,
-      "num": 141537,
-      "word": "女子回应获3亿遗产引丈夫子女不满",
-      "onboard_time": 1774963405,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141203,
       "num": 265337,
       "word": "4月锦鲤附体的星座",
@@ -1204,7 +1220,7 @@
     },
     {
       "raw_hot": 140411,
-      "num": 140411,
+      "num": 155171,
       "word": "日本泰国网友因便利店买泡面吵架",
       "onboard_time": 1774960284,
       "rank": 32,
@@ -1241,6 +1257,14 @@
       "onboard_time": 1774942823,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138187,
+      "num": 138187,
+      "word": "月鳞绮纪预约量破300万",
+      "onboard_time": 1774964366,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 137755,
@@ -1289,6 +1313,14 @@
       "onboard_time": 1774958245,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134134,
+      "num": 134134,
+      "word": "乘风2026初舞台TOP1",
+      "onboard_time": 1774964965,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 132840,
@@ -1387,14 +1419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127526,
-      "num": 127526,
-      "word": "月鳞绮纪预约量破300万",
-      "onboard_time": 1774964366,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127137,
       "num": 142851,
       "word": "U23国足vs越南",
@@ -1459,6 +1483,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120487,
+      "num": 117344,
+      "word": "年轻人开始吊颈健身医生喊停",
+      "onboard_time": 1774965746,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119856,
+      "num": 134228,
+      "word": "伊武装部队总参谋长顾问遇害",
+      "onboard_time": 1774962986,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119487,
       "num": 119487,
       "word": "邓凯Prada活动",
@@ -1475,12 +1515,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117104,
+      "num": 117104,
+      "word": "等电梯时这个习惯可能会要命",
+      "onboard_time": 1774966105,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117096,
       "num": 72389,
       "word": "王俊凯怎么哪里都有你",
       "onboard_time": 1774881686,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116971,
+      "num": 142669,
+      "word": "初中毕业的张雪凭什么造出顶级发动机",
+      "onboard_time": 1774964304,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 116757,
@@ -1601,14 +1657,6 @@
       "onboard_time": 1774948102,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110275,
-      "num": 110275,
-      "word": "伊武装部队总参谋长顾问遇害",
-      "onboard_time": 1774962986,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110049,
@@ -1763,14 +1811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101119,
-      "num": 87599,
-      "word": "乘风2026初舞台TOP1",
-      "onboard_time": 1774964965,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100081,
       "num": 100081,
       "word": "陈瑶恋爱告急初舞台",
@@ -1801,6 +1841,14 @@
       "onboard_time": 1774954824,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99241,
+      "num": 110480,
+      "word": "u23国足1比0越南u23",
+      "onboard_time": 1774965865,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99083,
@@ -2067,14 +2115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89499,
-      "num": 89499,
-      "word": "初中毕业的张雪凭什么造出顶级发动机",
-      "onboard_time": 1774964304,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89478,
       "num": 89478,
       "word": "张雪称以前挺喜欢雷军的",
@@ -2323,7 +2363,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 68122,
+      "raw_hot": 68689,
       "num": 236403,
       "word": "孟晚舟华为年报致辞谈战略聚焦",
       "onboard_time": 1774962445,
@@ -2387,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64764,
+      "num": 135174,
+      "word": "孙俪拍戏前找了心理医生",
+      "onboard_time": 1774963225,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63800,
       "num": 63800,
       "word": "32.98万元起闭眼入大众9X",
@@ -2441,6 +2489,14 @@
       "onboard_time": 1774884863,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59281,
+      "num": 220624,
+      "word": "中巴提出五点倡议",
+      "onboard_time": 1774964304,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58845,
@@ -2659,6 +2715,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 38841,
+      "num": 971196,
+      "word": "十五五规划背后的90后力量",
+      "onboard_time": 1774962986,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38147,
       "num": 72137,
       "word": "鲍威尔讲话",
@@ -2673,14 +2737,6 @@
       "onboard_time": 1774865963,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36767,
-      "num": 971196,
-      "word": "十五五规划背后的90后力量",
-      "onboard_time": 1774962986,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36002,
@@ -2972,6 +3028,9 @@
     },
     {
       "word": "#让中国式现代化底色更加亮丽#"
+    },
+    {
+      "word": "#与总书记一起共植新绿#"
     }
   ]
 }

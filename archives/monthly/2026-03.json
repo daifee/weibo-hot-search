@@ -1,6 +1,6 @@
 {
   "startTime": 1772296605387,
-  "endTime": 1774965239383,
+  "endTime": 1774966151336,
   "band_list": [
     {
       "raw_hot": 46860992,
@@ -1223,6 +1223,14 @@
       "num": 711047,
       "word": "郭麒麟对接回应KTV传闻",
       "onboard_time": 1774594220,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1417386,
+      "num": 246197,
+      "word": "鞠婧祎 此身分明了",
+      "onboard_time": 1774963464,
       "rank": 10,
       "category": "艺人"
     },
@@ -2543,14 +2551,6 @@
       "num": 156315,
       "word": "孟佳 品牌邀请看秀不让进场",
       "onboard_time": 1773994760,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 967236,
-      "num": 246197,
-      "word": "鞠婧祎 此身分明了",
-      "onboard_time": 1774963464,
       "rank": 10,
       "category": "艺人"
     },
@@ -4179,6 +4179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 741262,
+      "num": 244171,
+      "word": "网红小徐自曝财产",
+      "onboard_time": 1774960105,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 740974,
       "num": 419720,
       "word": "一油轮欲通过霍尔木兹海峡被击中",
@@ -4697,14 +4705,6 @@
       "onboard_time": 1772358923,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 691433,
-      "num": 244171,
-      "word": "网红小徐自曝财产",
-      "onboard_time": 1774960105,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 691109,
@@ -5313,6 +5313,14 @@
       "onboard_time": 1772363784,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 650249,
+      "num": 239245,
+      "word": "陈飞宇 陈凯歌基因显化中",
+      "onboard_time": 1774958607,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 649725,
@@ -6227,6 +6235,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 593977,
+      "num": 1241136,
+      "word": "曝雷军押注的中年人泡泡玛特将上市",
+      "onboard_time": 1774960467,
+      "rank": 1,
+      "category": "互联网,休闲"
+    },
+    {
       "raw_hot": 593829,
       "num": 275125,
       "word": "伊朗否认与美国沟通",
@@ -7025,14 +7041,6 @@
       "onboard_time": 1774876344,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 555850,
-      "num": 239245,
-      "word": "陈飞宇 陈凯歌基因显化中",
-      "onboard_time": 1774958607,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 555008,
@@ -8603,6 +8611,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 488092,
+      "num": 488092,
+      "word": "唐艺昕人气",
+      "onboard_time": 1774959867,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 487688,
       "num": 487688,
       "word": "张凌赫看了好几次田曦薇的手",
@@ -9825,14 +9841,6 @@
       "onboard_time": 1772753779,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 450308,
-      "num": 1241136,
-      "word": "曝雷军押注的中年人泡泡玛特将上市",
-      "onboard_time": 1774960467,
-      "rank": 1,
-      "category": "互联网,休闲"
     },
     {
       "raw_hot": 450288,
@@ -11201,6 +11209,14 @@
       "onboard_time": 1773898160,
       "rank": 3,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 417573,
+      "num": 237617,
+      "word": "孙艺珍庆祝与玄彬结婚四周年",
+      "onboard_time": 1774962804,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 417049,
@@ -12755,6 +12771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381172,
+      "num": 381172,
+      "word": "DYG战胜TTG",
+      "onboard_time": 1774965805,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 380883,
       "num": 138880,
       "word": "逐玉 反向入侵短剧",
@@ -13489,14 +13513,6 @@
       "onboard_time": 1772336005,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 365104,
-      "num": 365104,
-      "word": "唐艺昕人气",
-      "onboard_time": 1774959867,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 364837,
@@ -14259,6 +14275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350139,
+      "num": 350139,
+      "word": "TES 369",
+      "onboard_time": 1774962087,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 349989,
       "num": 201263,
       "word": "伊朗称特朗普推迟袭击表态为心理战",
@@ -14715,14 +14739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 338707,
-      "num": 237617,
-      "word": "孙艺珍庆祝与玄彬结婚四周年",
-      "onboard_time": 1774962804,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 338703,
       "num": 338703,
       "word": "命运真的会提醒你适合走哪条路",
@@ -14865,6 +14881,14 @@
       "onboard_time": 1773646526,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335529,
+      "num": 335529,
+      "word": "俄方拒绝给日本供油",
+      "onboard_time": 1774960227,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 335371,
@@ -15715,6 +15739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 322505,
+      "num": 242118,
+      "word": "上海交大校庆宣传片引争议",
+      "onboard_time": 1774960885,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322440,
       "num": 322440,
       "word": "椰树广告 擦边",
@@ -16387,14 +16419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 311668,
-      "num": 311668,
-      "word": "俄方拒绝给日本供油",
-      "onboard_time": 1774960227,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 311655,
       "num": 207166,
       "word": "亲母女嫁给了亲父子",
@@ -16977,14 +17001,6 @@
       "onboard_time": 1773038600,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303591,
-      "num": 242118,
-      "word": "上海交大校庆宣传片引争议",
-      "onboard_time": 1774960885,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303529,
@@ -18553,14 +18569,6 @@
       "onboard_time": 1773130464,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281026,
-      "num": 281026,
-      "word": "TES 369",
-      "onboard_time": 1774962087,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 280911,
@@ -21907,6 +21915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239321,
+      "num": 236180,
+      "word": "时代少年团 录播",
+      "onboard_time": 1774958186,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239310,
       "num": 149453,
       "word": "孟佳品牌方 盖娅传说",
@@ -22177,14 +22193,6 @@
       "onboard_time": 1773408743,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236180,
-      "num": 236180,
-      "word": "时代少年团 录播",
-      "onboard_time": 1774958186,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 236150,
@@ -23363,6 +23371,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 225263,
+      "num": 248014,
+      "word": "53岁女子去世600万遗产无人继承",
+      "onboard_time": 1774960167,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225237,
       "num": 225237,
       "word": "阿德巴约单节31分",
@@ -24011,6 +24027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219004,
+      "num": 219004,
+      "word": "香港开往上海高铁车厢出现大量蚊虫",
+      "onboard_time": 1774962624,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218890,
       "num": 658835,
       "word": "留个学被老师科普了三天中国",
@@ -24392,6 +24416,14 @@
       "word": "AG爱笑",
       "onboard_time": 1772715022,
       "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 215410,
+      "num": 215410,
+      "word": "TTG对战DYG",
+      "onboard_time": 1774955481,
+      "rank": 14,
       "category": "电竞"
     },
     {
@@ -29427,14 +29459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173183,
-      "num": 248014,
-      "word": "53岁女子去世600万遗产无人继承",
-      "onboard_time": 1774960167,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173169,
       "num": 889780,
       "word": "白桃星座一周运势",
@@ -30065,6 +30089,14 @@
       "onboard_time": 1772692043,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168973,
+      "num": 168973,
+      "word": "女子回应获3亿遗产引丈夫子女不满",
+      "onboard_time": 1774963405,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168909,
@@ -31489,14 +31521,6 @@
       "onboard_time": 1774940362,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159815,
-      "num": 159815,
-      "word": "香港开往上海高铁车厢出现大量蚊虫",
-      "onboard_time": 1774962624,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159778,
@@ -34939,14 +34963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 141537,
-      "num": 141537,
-      "word": "女子回应获3亿遗产引丈夫子女不满",
-      "onboard_time": 1774963405,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141472,
       "num": 589723,
       "word": "历届SMG视后",
@@ -35196,7 +35212,7 @@
     },
     {
       "raw_hot": 140411,
-      "num": 140411,
+      "num": 155171,
       "word": "日本泰国网友因便利店买泡面吵架",
       "onboard_time": 1774960284,
       "rank": 32,
@@ -35633,6 +35649,14 @@
       "onboard_time": 1774491681,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138187,
+      "num": 138187,
+      "word": "月鳞绮纪预约量破300万",
+      "onboard_time": 1774964366,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 138156,
@@ -36545,6 +36569,14 @@
       "onboard_time": 1773398300,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134134,
+      "num": 134134,
+      "word": "乘风2026初舞台TOP1",
+      "onboard_time": 1774964965,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 134114,
@@ -38241,14 +38273,6 @@
       "onboard_time": 1774958548,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127526,
-      "num": 127526,
-      "word": "月鳞绮纪预约量破300万",
-      "onboard_time": 1774964366,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 127525,
@@ -40275,6 +40299,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 120487,
+      "num": 117344,
+      "word": "年轻人开始吊颈健身医生喊停",
+      "onboard_time": 1774965746,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 120481,
       "num": 120481,
       "word": "王俊凯无人乐园邀请函",
@@ -40561,6 +40593,14 @@
       "onboard_time": 1774666340,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119856,
+      "num": 134228,
+      "word": "伊武装部队总参谋长顾问遇害",
+      "onboard_time": 1774962986,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119854,
@@ -41411,6 +41451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117104,
+      "num": 117104,
+      "word": "等电梯时这个习惯可能会要命",
+      "onboard_time": 1774966105,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117063,
       "num": 117063,
       "word": "王励勤希望樊振东能代表国家征战",
@@ -41441,6 +41489,14 @@
       "onboard_time": 1772925737,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116971,
+      "num": 142669,
+      "word": "初中毕业的张雪凭什么造出顶级发动机",
+      "onboard_time": 1774964304,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 116968,
@@ -43745,14 +43801,6 @@
       "onboard_time": 1774948102,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110275,
-      "num": 110275,
-      "word": "伊武装部队总参谋长顾问遇害",
-      "onboard_time": 1774962986,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110269,
@@ -47659,14 +47707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101119,
-      "num": 87599,
-      "word": "乘风2026初舞台TOP1",
-      "onboard_time": 1774964965,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101111,
       "num": 101111,
       "word": "陈浚铭再帅十年也才23岁",
@@ -48745,6 +48785,14 @@
       "onboard_time": 1774954824,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99241,
+      "num": 110480,
+      "word": "u23国足1比0越南u23",
+      "onboard_time": 1774965865,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99228,
@@ -54257,14 +54305,6 @@
       "onboard_time": 1774492581,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89499,
-      "num": 89499,
-      "word": "初中毕业的张雪凭什么造出顶级发动机",
-      "onboard_time": 1774964304,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 89494,
@@ -67531,6 +67571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68689,
+      "num": 236403,
+      "word": "孟晚舟华为年报致辞谈战略聚焦",
+      "onboard_time": 1774962445,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68687,
       "num": 73340,
       "word": "全红婵成最年轻奥运三冠王",
@@ -67808,14 +67856,6 @@
       "word": "OpenClaw火了龙虾养了也要防",
       "onboard_time": 1773105020,
       "rank": 42,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 68122,
-      "num": 236403,
-      "word": "孟晚舟华为年报致辞谈战略聚焦",
-      "onboard_time": 1774962445,
-      "rank": 18,
       "category": "互联网"
     },
     {
@@ -69521,6 +69561,14 @@
       "onboard_time": 1774089141,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64764,
+      "num": 135174,
+      "word": "孙俪拍戏前找了心理医生",
+      "onboard_time": 1774963225,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 64749,
@@ -72129,6 +72177,14 @@
       "onboard_time": 1772875161,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 59281,
+      "num": 220624,
+      "word": "中巴提出五点倡议",
+      "onboard_time": 1774964304,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59248,
@@ -77923,6 +77979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38841,
+      "num": 971196,
+      "word": "十五五规划背后的90后力量",
+      "onboard_time": 1774962986,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38825,
       "num": 448468,
       "word": "建议80岁以上农民免缴个人医保",
@@ -78369,14 +78433,6 @@
       "onboard_time": 1773470541,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36767,
-      "num": 971196,
-      "word": "十五五规划背后的90后力量",
-      "onboard_time": 1774962986,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36739,
@@ -85480,6 +85536,9 @@
     },
     {
       "word": "#让中国式现代化底色更加亮丽#"
+    },
+    {
+      "word": "#与总书记一起共植新绿#"
     }
   ]
 }

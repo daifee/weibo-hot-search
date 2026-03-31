@@ -1,0 +1,410 @@
+{
+  "runTime": 1774966151336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3273138,
+        "num": 3273138,
+        "word": "未发现鞠婧祎涉税问题",
+        "onboard_time": 1774957106,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593977,
+        "num": 1135802,
+        "word": "曝雷军押注的中年人泡泡玛特将上市",
+        "onboard_time": 1774960467,
+        "rank": 1,
+        "category": "互联网,休闲"
+      },
+      {
+        "raw_hot": 38841,
+        "num": 853599,
+        "word": "十五五规划背后的90后力量",
+        "onboard_time": 1774962986,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 488092,
+        "num": 488092,
+        "word": "唐艺昕人气",
+        "onboard_time": 1774959867,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381172,
+        "num": 381172,
+        "word": "DYG战胜TTG",
+        "onboard_time": 1774965805,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 350139,
+        "num": 350139,
+        "word": "TES 369",
+        "onboard_time": 1774962087,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 335529,
+        "num": 335529,
+        "word": "俄方拒绝给日本供油",
+        "onboard_time": 1774960227,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284893,
+        "num": 284893,
+        "word": "瑞幸 紫椰子",
+        "onboard_time": 1774946664,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225263,
+        "num": 225263,
+        "word": "53岁女子去世600万遗产无人继承",
+        "onboard_time": 1774960167,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59281,
+        "num": 220624,
+        "word": "中巴提出五点倡议",
+        "onboard_time": 1774964304,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1417386,
+        "num": 220598,
+        "word": "鞠婧祎 此身分明了",
+        "onboard_time": 1774963464,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741262,
+        "num": 220036,
+        "word": "网红小徐自曝财产",
+        "onboard_time": 1774960105,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219004,
+        "num": 219004,
+        "word": "香港开往上海高铁车厢出现大量蚊虫",
+        "onboard_time": 1774962624,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15635,
+        "num": 216722,
+        "word": "这车是真虎",
+        "onboard_time": 1774962445,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 215410,
+        "num": 215410,
+        "word": "TTG对战DYG",
+        "onboard_time": 1774955481,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 650249,
+        "num": 207151,
+        "word": "陈飞宇 陈凯歌基因显化中",
+        "onboard_time": 1774958607,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643992,
+        "num": 204356,
+        "word": "杨紫也被女装背刺了",
+        "onboard_time": 1774959746,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195512,
+        "num": 195512,
+        "word": "何凯文英一87分",
+        "onboard_time": 1774958726,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 417573,
+        "num": 195344,
+        "word": "孙艺珍庆祝与玄彬结婚四周年",
+        "onboard_time": 1774962804,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68689,
+        "num": 194772,
+        "word": "孟晚舟华为年报致辞谈战略聚焦",
+        "onboard_time": 1774962445,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194488,
+        "num": 194488,
+        "word": "张雪",
+        "onboard_time": 1774943063,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250206,
+        "num": 189897,
+        "word": "妻子5次试管成功同年丈夫与情人生子",
+        "onboard_time": 1774954824,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239321,
+        "num": 181542,
+        "word": "时代少年团 录播",
+        "onboard_time": 1774958186,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212533,
+        "num": 175895,
+        "word": "李荣浩 不是嫂子是歌手杨丞琳",
+        "onboard_time": 1774952722,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168973,
+        "num": 168973,
+        "word": "女子回应获3亿遗产引丈夫子女不满",
+        "onboard_time": 1774963405,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557145,
+        "num": 168948,
+        "word": "上海交大引争议宣传片演员发声",
+        "onboard_time": 1774959327,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207615,
+        "num": 168934,
+        "word": "舒淇合影时突然让C位",
+        "onboard_time": 1774959207,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168717,
+        "num": 168717,
+        "word": "炎症变成癌症要多久",
+        "onboard_time": 1774958666,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167948,
+        "num": 167948,
+        "word": "宋雨琦 跑男",
+        "onboard_time": 1774955725,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162147,
+        "num": 162147,
+        "word": "丝芭 我司并非举报主体",
+        "onboard_time": 1774954943,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132656,
+        "num": 155171,
+        "word": "日本泰国网友因便利店买泡面吵架",
+        "onboard_time": 1774960284,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 322505,
+        "num": 154020,
+        "word": "上海交大校庆宣传片引争议",
+        "onboard_time": 1774960885,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152477,
+        "num": 152477,
+        "word": "月鳞绮纪",
+        "onboard_time": 1774944802,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144326,
+        "num": 144326,
+        "word": "向佐终于像个人了",
+        "onboard_time": 1774957345,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116971,
+        "num": 142669,
+        "word": "初中毕业的张雪凭什么造出顶级发动机",
+        "onboard_time": 1774964304,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141818,
+        "num": 141818,
+        "word": "十日终焉",
+        "onboard_time": 1774951282,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139621,
+        "num": 139621,
+        "word": "金钟仁程潇坐一起",
+        "onboard_time": 1774962265,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127477,
+        "num": 138784,
+        "word": "王者荣耀返场",
+        "onboard_time": 1774952362,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138187,
+        "num": 138187,
+        "word": "月鳞绮纪预约量破300万",
+        "onboard_time": 1774964366,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64764,
+        "num": 135174,
+        "word": "孙俪拍戏前找了心理医生",
+        "onboard_time": 1774963225,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119856,
+        "num": 134228,
+        "word": "伊武装部队总参谋长顾问遇害",
+        "onboard_time": 1774962986,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134134,
+        "num": 134134,
+        "word": "乘风2026初舞台TOP1",
+        "onboard_time": 1774964965,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122880,
+        "num": 122880,
+        "word": "收手吧阿瑟",
+        "onboard_time": 1774958245,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103638,
+        "num": 120489,
+        "word": "婚生女按遗嘱继承财产遭私生子起诉",
+        "onboard_time": 1774958425,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119817,
+        "num": 119817,
+        "word": "乘风2026排名",
+        "onboard_time": 1774949124,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117506,
+        "num": 117506,
+        "word": "陈飞宇为了看罗云熙倒着走红毯",
+        "onboard_time": 1774957886,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120487,
+        "num": 117344,
+        "word": "年轻人开始吊颈健身医生喊停",
+        "onboard_time": 1774965746,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117104,
+        "num": 117104,
+        "word": "等电梯时这个习惯可能会要命",
+        "onboard_time": 1774966105,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116519,
+        "num": 116519,
+        "word": "严浩翔考核试卷",
+        "onboard_time": 1774943903,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99241,
+        "num": 110480,
+        "word": "u23国足1比0越南u23",
+        "onboard_time": 1774965865,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#与总书记一起共植新绿#"
+    }
+  }
+}
