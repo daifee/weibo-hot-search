@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774954959159,
+  "endTime": 1774956502212,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1668333,
-      "num": 157071,
+      "num": 179080,
       "word": "李荣浩 不是嫂子是歌手杨丞琳",
       "onboard_time": 1774952722,
       "rank": 20,
@@ -1067,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338996,
+      "num": 338996,
+      "word": "宋雨琦 跑男",
+      "onboard_time": 1774955725,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336040,
       "num": 792506,
       "word": "张雪",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1774951883,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317998,
+      "num": 178112,
+      "word": "时代少年团直播",
+      "onboard_time": 1774954584,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 317980,
@@ -1235,6 +1251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 304798,
+      "num": 268951,
+      "word": "跳楼机数月吸金4000万原唱收入为0",
+      "onboard_time": 1774952786,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 303347,
       "num": 303347,
       "word": "周深没搞定版权清唱一句戛然而止",
@@ -1256,6 +1280,14 @@
       "word": "考编女生囤考点周边酒店当黄牛",
       "onboard_time": 1774855822,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298838,
+      "num": 267469,
+      "word": "妻子5次试管成功同年丈夫与情人生子",
+      "onboard_time": 1774954824,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1689,6 +1721,14 @@
       "onboard_time": 1774860983,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244060,
+      "num": 177704,
+      "word": "丝芭 我司并非举报主体",
+      "onboard_time": 1774954943,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 244029,
@@ -2443,12 +2483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183332,
-      "num": 183332,
-      "word": "跳楼机数月吸金4000万原唱收入为0",
-      "onboard_time": 1774952786,
-      "rank": 14,
-      "category": "音乐"
+      "raw_hot": 180832,
+      "num": 180832,
+      "word": "孙颖莎瘦了不止一点点",
+      "onboard_time": 1774955544,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 180705,
@@ -2595,6 +2635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172335,
+      "num": 127311,
+      "word": "愚人节改名",
+      "onboard_time": 1774953682,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172071,
       "num": 922371,
       "word": "李莎旻子救场",
@@ -2635,6 +2683,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 169341,
+      "num": 126776,
+      "word": "鞠婧祎说好看吗",
+      "onboard_time": 1774951463,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168137,
       "num": 154503,
       "word": "孔雪儿 俞浅浅你终于自由了",
@@ -2665,6 +2721,14 @@
       "onboard_time": 1774786169,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166671,
+      "num": 127173,
+      "word": "市委书记以球员身份参加县超",
+      "onboard_time": 1774955124,
+      "rank": 32,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 166466,
@@ -3171,6 +3235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 137309,
+      "num": 525617,
+      "word": "文旅局回应宠物友好酒店推荐吃狗肉",
+      "onboard_time": 1774952243,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137062,
       "num": 502065,
       "word": "奶茶店点一杯不够起送",
@@ -3411,6 +3483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127057,
+      "num": 127057,
+      "word": "4月锦鲤附体的星座",
+      "onboard_time": 1774954523,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126824,
       "num": 177076,
       "word": "黑龙江一建筑坍塌7死2伤",
@@ -3513,14 +3593,6 @@
       "onboard_time": 1774779989,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 124087,
-      "num": 124087,
-      "word": "愚人节改名",
-      "onboard_time": 1774953682,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 123646,
@@ -3657,14 +3729,6 @@
       "onboard_time": 1774787788,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 119069,
-      "num": 119069,
-      "word": "鞠婧祎说好看吗",
-      "onboard_time": 1774951463,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 118831,
@@ -4163,6 +4227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106062,
+      "num": 122547,
+      "word": "物理学无法解释的一个现象",
+      "onboard_time": 1774956143,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 105992,
       "num": 105992,
       "word": "迪丽热巴的胆子也太大了吧",
@@ -4176,14 +4248,6 @@
       "word": "地铁吐血女孩称银行账户被封",
       "onboard_time": 1774933466,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105848,
-      "num": 525617,
-      "word": "文旅局回应宠物友好酒店推荐吃狗肉",
-      "onboard_time": 1774952243,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -4459,6 +4523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99262,
+      "num": 127702,
+      "word": "伊朗发动第88波打击",
+      "onboard_time": 1774954824,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99058,
       "num": 99058,
       "word": "李昀锐四月行程图",
@@ -4555,12 +4627,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 97025,
-      "num": 97025,
-      "word": "4月锦鲤附体的星座",
-      "onboard_time": 1774954523,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 97270,
+      "num": 97270,
+      "word": "146斤男子2年暴增至523斤",
+      "onboard_time": 1774954824,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96845,
@@ -4601,14 +4673,6 @@
       "onboard_time": 1774949543,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 95979,
-      "num": 95979,
-      "word": "时代少年团直播",
-      "onboard_time": 1774954584,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 95850,
@@ -5225,6 +5289,22 @@
       "onboard_time": 1774855942,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86640,
+      "num": 86640,
+      "word": "金价还会涨多高",
+      "onboard_time": 1774953384,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 86229,
+      "num": 182873,
+      "word": "张一山真的翻拍重案六组",
+      "onboard_time": 1774955843,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 86016,
@@ -6099,14 +6179,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 73292,
-      "num": 96703,
-      "word": "妻子5次试管成功同年丈夫与情人生子",
-      "onboard_time": 1774954824,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72882,
       "num": 156839,
       "word": "世界杯国乒男单分组",
@@ -6667,6 +6739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60398,
+      "num": 195253,
+      "word": "美国一颗星链卫星失联",
+      "onboard_time": 1774955544,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60361,
       "num": 71951,
       "word": "广东一饭店劝退式标语走红网络",
@@ -6979,20 +7059,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47875,
-      "num": 96476,
-      "word": "伊朗发动第88波打击",
-      "onboard_time": 1774954824,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47516,
       "num": 54607,
       "word": "Sora每天烧掉1500万美元",
       "onboard_time": 1774715479,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 47282,
+      "num": 181620,
+      "word": "春天的第一箱油是一汽大众给的",
+      "onboard_time": 1774955843,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 46386,
@@ -7057,6 +7137,14 @@
       "onboard_time": 1774703422,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44050,
+      "num": 120104,
+      "word": "打开微博被谢霆锋行程吓晕",
+      "onboard_time": 1774954824,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 44019,
@@ -7288,14 +7376,6 @@
       "word": "女子2280元网购18K项链含铜70%",
       "onboard_time": 1774926923,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32083,
-      "num": 96288,
-      "word": "146斤男子2年暴增至523斤",
-      "onboard_time": 1774954824,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -7531,6 +7611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22192,
+      "num": 117263,
+      "word": "00后女孩英国留学回来当职业扫墓人",
+      "onboard_time": 1774956022,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22158,
       "num": 567860,
       "word": "政企新媒体怎么火出圈",
@@ -7545,14 +7633,6 @@
       "onboard_time": 1774859542,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21798,
-      "num": 96878,
-      "word": "打开微博被谢霆锋行程吓晕",
-      "onboard_time": 1774954824,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 21035,
@@ -7649,6 +7729,14 @@
       "onboard_time": 1774949183,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17284,
+      "num": 179235,
+      "word": "男子潜伏小区专盯门口藏钥匙",
+      "onboard_time": 1774956022,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17194,

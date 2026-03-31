@@ -1,6 +1,6 @@
 {
   "startTime": 1774890363149,
-  "endTime": 1774954959159,
+  "endTime": 1774956502212,
   "band_list": [
     {
       "raw_hot": 14644675,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1668333,
-      "num": 157071,
+      "num": 179080,
       "word": "李荣浩 不是嫂子是歌手杨丞琳",
       "onboard_time": 1774952722,
       "rank": 20,
@@ -347,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338996,
+      "num": 338996,
+      "word": "宋雨琦 跑男",
+      "onboard_time": 1774955725,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336040,
       "num": 792506,
       "word": "张雪",
@@ -403,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317998,
+      "num": 178112,
+      "word": "时代少年团直播",
+      "onboard_time": 1774954584,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317980,
       "num": 317980,
       "word": "韩国向中国14城发放十年签",
@@ -427,12 +443,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 304798,
+      "num": 268951,
+      "word": "跳楼机数月吸金4000万原唱收入为0",
+      "onboard_time": 1774952786,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 303347,
       "num": 303347,
       "word": "周深没搞定版权清唱一句戛然而止",
       "onboard_time": 1774880365,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 298838,
+      "num": 267469,
+      "word": "妻子5次试管成功同年丈夫与情人生子",
+      "onboard_time": 1774954824,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295840,
@@ -505,6 +537,14 @@
       "onboard_time": 1774935326,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244060,
+      "num": 177704,
+      "word": "丝芭 我司并非举报主体",
+      "onboard_time": 1774954943,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 236581,
@@ -747,12 +787,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183332,
-      "num": 183332,
-      "word": "跳楼机数月吸金4000万原唱收入为0",
-      "onboard_time": 1774952786,
-      "rank": 14,
-      "category": "音乐"
+      "raw_hot": 180832,
+      "num": 180832,
+      "word": "孙颖莎瘦了不止一点点",
+      "onboard_time": 1774955544,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 174650,
@@ -769,6 +809,14 @@
       "onboard_time": 1774931428,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 172335,
+      "num": 127311,
+      "word": "愚人节改名",
+      "onboard_time": 1774953682,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171941,
@@ -811,12 +859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169341,
+      "num": 126776,
+      "word": "鞠婧祎说好看吗",
+      "onboard_time": 1774951463,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167995,
       "num": 156415,
       "word": "刘敏涛拍完30集被扶着走",
       "onboard_time": 1774924946,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166671,
+      "num": 127173,
+      "word": "市委书记以球员身份参加县超",
+      "onboard_time": 1774955124,
+      "rank": 32,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 163384,
@@ -987,6 +1051,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137309,
+      "num": 525617,
+      "word": "文旅局回应宠物友好酒店推荐吃狗肉",
+      "onboard_time": 1774952243,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136924,
       "num": 136924,
       "word": "消失的人定档",
@@ -1099,6 +1171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127057,
+      "num": 127057,
+      "word": "4月锦鲤附体的星座",
+      "onboard_time": 1774954523,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126567,
       "num": 126567,
       "word": "流量退去之后再访晓华理发店",
@@ -1113,14 +1193,6 @@
       "onboard_time": 1774931428,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124087,
-      "num": 124087,
-      "word": "愚人节改名",
-      "onboard_time": 1774953682,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 123646,
@@ -1161,14 +1233,6 @@
       "onboard_time": 1774953805,
       "rank": 33,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 119069,
-      "num": 119069,
-      "word": "鞠婧祎说好看吗",
-      "onboard_time": 1774951463,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 117096,
@@ -1355,19 +1419,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106062,
+      "num": 122547,
+      "word": "物理学无法解释的一个现象",
+      "onboard_time": 1774956143,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 105943,
       "num": 186240,
       "word": "地铁吐血女孩称银行账户被封",
       "onboard_time": 1774933466,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105848,
-      "num": 525617,
-      "word": "文旅局回应宠物友好酒店推荐吃狗肉",
-      "onboard_time": 1774952243,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -1443,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99262,
+      "num": 127702,
+      "word": "伊朗发动第88波打击",
+      "onboard_time": 1774954824,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99083,
       "num": 99083,
       "word": "迪丽热巴也闯进好凉赛道了",
@@ -1491,12 +1563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97025,
-      "num": 97025,
-      "word": "4月锦鲤附体的星座",
-      "onboard_time": 1774954523,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 97270,
+      "num": 97270,
+      "word": "146斤男子2年暴增至523斤",
+      "onboard_time": 1774954824,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96793,
@@ -1513,14 +1585,6 @@
       "onboard_time": 1774949543,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 95979,
-      "num": 95979,
-      "word": "时代少年团直播",
-      "onboard_time": 1774954584,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 95850,
@@ -1715,6 +1779,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 86640,
+      "num": 86640,
+      "word": "金价还会涨多高",
+      "onboard_time": 1774953384,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 86229,
+      "num": 182873,
+      "word": "张一山真的翻拍重案六组",
+      "onboard_time": 1774955843,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86016,
       "num": 86016,
       "word": "卜凡弹幕 禁止打赏",
@@ -1744,6 +1824,14 @@
       "word": "刘雅瑟耳朵红透了",
       "onboard_time": 1774949903,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84991,
+      "num": 84991,
+      "word": "白日提灯",
+      "onboard_time": 1774867044,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1867,14 +1955,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 73292,
-      "num": 96703,
-      "word": "妻子5次试管成功同年丈夫与情人生子",
-      "onboard_time": 1774954824,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72097,
       "num": 72097,
       "word": "南太行失联男子遗体被找到",
@@ -1985,6 +2065,14 @@
       "onboard_time": 1774941262,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60398,
+      "num": 195253,
+      "word": "美国一颗星链卫星失联",
+      "onboard_time": 1774955544,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 59721,
@@ -2107,14 +2195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 47875,
-      "num": 96476,
-      "word": "伊朗发动第88波打击",
-      "onboard_time": 1774954824,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47824,
       "num": 72126,
       "word": "利比发文",
@@ -2123,20 +2203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47282,
+      "num": 181620,
+      "word": "春天的第一箱油是一汽大众给的",
+      "onboard_time": 1774955843,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46296,
       "num": 72183,
       "word": "王者荣耀",
       "onboard_time": 1774862183,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 46167,
-      "num": 72125,
-      "word": "白日提灯",
-      "onboard_time": 1774867044,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 45748,
@@ -2168,6 +2248,14 @@
       "word": "曾毅扔伞报复玲花",
       "onboard_time": 1774949424,
       "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 44050,
+      "num": 120104,
+      "word": "打开微博被谢霆锋行程吓晕",
+      "onboard_time": 1774954824,
+      "rank": 38,
       "category": "演出"
     },
     {
@@ -2248,14 +2336,6 @@
       "word": "女子2280元网购18K项链含铜70%",
       "onboard_time": 1774926923,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32083,
-      "num": 96288,
-      "word": "146斤男子2年暴增至523斤",
-      "onboard_time": 1774954824,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2371,12 +2451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21798,
-      "num": 96878,
-      "word": "打开微博被谢霆锋行程吓晕",
-      "onboard_time": 1774954824,
-      "rank": 38,
-      "category": "演出"
+      "raw_hot": 22192,
+      "num": 117263,
+      "word": "00后女孩英国留学回来当职业扫墓人",
+      "onboard_time": 1774956022,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18387,
@@ -2409,6 +2489,14 @@
       "onboard_time": 1774949183,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17284,
+      "num": 179235,
+      "word": "男子潜伏小区专盯门口藏钥匙",
+      "onboard_time": 1774956022,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17194,
