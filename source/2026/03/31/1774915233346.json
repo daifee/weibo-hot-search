@@ -1,0 +1,410 @@
+{
+  "runTime": 1774915233346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123343,
+        "num": 1171419,
+        "word": "跳楼机原唱实在是忍不下去了",
+        "onboard_time": 1774884683,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 498162,
+        "num": 871930,
+        "word": "网友买安眠药后收到注销驾驶证短信",
+        "onboard_time": 1774886182,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 50905,
+        "num": 672408,
+        "word": "战友背起邱少云遗骨想带他回家",
+        "onboard_time": 1774889899,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334127,
+        "num": 334127,
+        "word": "身份证有效期和年龄有关",
+        "onboard_time": 1774913781,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 328327,
+        "num": 328327,
+        "word": "茅台发布重大事项公告",
+        "onboard_time": 1774912098,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 292301,
+        "num": 292301,
+        "word": "午睡是一场真正的豪赌",
+        "onboard_time": 1774880845,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 290691,
+        "num": 290691,
+        "word": "央视调查烧秸秆屡禁不止",
+        "onboard_time": 1774883724,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289532,
+        "num": 289532,
+        "word": "西班牙对袭击伊朗军机关闭领空",
+        "onboard_time": 1774883724,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 256133,
+        "num": 256133,
+        "word": "美以伊地面战一触即发",
+        "onboard_time": 1774882105,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247725,
+        "num": 247725,
+        "word": "周深没搞定版权清唱一句戛然而止",
+        "onboard_time": 1774880365,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 588439,
+        "num": 235352,
+        "word": "单依纯演唱会退票",
+        "onboard_time": 1774883184,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210463,
+        "num": 210463,
+        "word": "女子在泳池被猥亵求助安全员未果",
+        "onboard_time": 1774890199,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491612,
+        "num": 201471,
+        "word": "田曦薇晒与张凌赫头纱合照",
+        "onboard_time": 1774912580,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331398,
+        "num": 198429,
+        "word": "汪峰 旭日阳刚",
+        "onboard_time": 1774913720,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161885,
+        "num": 161885,
+        "word": "澳大利亚惊现末日红",
+        "onboard_time": 1774883604,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 235039,
+        "num": 142794,
+        "word": "严浩翔高会更新",
+        "onboard_time": 1774913781,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205592,
+        "num": 140705,
+        "word": "刘宇宁版权意识Max",
+        "onboard_time": 1774888400,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122221,
+        "num": 122221,
+        "word": "张雪称将吃掉国际大牌超50%份额",
+        "onboard_time": 1774878863,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183933,
+        "num": 121710,
+        "word": "利比控诉环球音乐侵权",
+        "onboard_time": 1774895295,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121110,
+        "num": 121110,
+        "word": "太原暴走团凌晨四点播放音乐扰民",
+        "onboard_time": 1774877843,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171941,
+        "num": 117588,
+        "word": "孟子义 从全世界的战斗中路过",
+        "onboard_time": 1774877063,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138379,
+        "num": 114960,
+        "word": "李荣浩杨丞琳相爱11年结婚6年",
+        "onboard_time": 1774913901,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109690,
+        "num": 109690,
+        "word": "东鹏特饮押宝张雪机车赢麻了",
+        "onboard_time": 1774887562,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105519,
+        "num": 105519,
+        "word": "粉丝称黄霄雲侵权华晨宇",
+        "onboard_time": 1774881805,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99083,
+        "num": 99083,
+        "word": "迪丽热巴也闯进好凉赛道了",
+        "onboard_time": 1774883785,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94399,
+        "num": 94399,
+        "word": "女子花上万办卡被按摩到癌细胞扩散",
+        "onboard_time": 1774873044,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93994,
+        "num": 93994,
+        "word": "国行版苹果AI",
+        "onboard_time": 1774914500,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92898,
+        "num": 92898,
+        "word": "肖战2号飞青岛进组",
+        "onboard_time": 1774900034,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90479,
+        "num": 90479,
+        "word": "现货黄金再失守4440",
+        "onboard_time": 1774913781,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88379,
+        "num": 88379,
+        "word": "檀健次说只能唱一句再唱就要版权",
+        "onboard_time": 1774887802,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78209,
+        "num": 78209,
+        "word": "美客机与直升机相撞致67死画面曝光",
+        "onboard_time": 1774870643,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77851,
+        "num": 77851,
+        "word": "朱媛媛去世近一年辛柏青露面",
+        "onboard_time": 1774881445,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77824,
+        "num": 77824,
+        "word": "内存条一天一个价商家直呼亏麻了",
+        "onboard_time": 1774914320,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70757,
+        "num": 70757,
+        "word": "南太行失联男子遗体被找到",
+        "onboard_time": 1774914140,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69542,
+        "num": 69542,
+        "word": "王俊凯怎么哪里都有你",
+        "onboard_time": 1774881686,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69507,
+        "num": 69507,
+        "word": "逐玉",
+        "onboard_time": 1774913841,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66672,
+        "num": 66672,
+        "word": "多所高校调整师范专业招生规模",
+        "onboard_time": 1774914320,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 65934,
+        "num": 65934,
+        "word": "在广州暴雨里撑伞人被吹跑了",
+        "onboard_time": 1774890258,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65668,
+        "num": 65668,
+        "word": "月鳞绮纪 空降",
+        "onboard_time": 1774873162,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17194,
+        "num": 64519,
+        "word": "李子柒纪录片备案",
+        "onboard_time": 1774915042,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64443,
+        "num": 64443,
+        "word": "商场播放恭喜发财需付费",
+        "onboard_time": 1774886484,
+        "rank": 40,
+        "category": "民生新闻,音乐"
+      },
+      {
+        "raw_hot": 63411,
+        "num": 63411,
+        "word": "版权元年",
+        "onboard_time": 1774913060,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59721,
+        "num": 59721,
+        "word": "黄金升破4580美元",
+        "onboard_time": 1774913299,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58845,
+        "num": 58845,
+        "word": "邱少云牺牲前把鞋后面全蹬烂了",
+        "onboard_time": 1774890318,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56113,
+        "num": 56113,
+        "word": "32.98万元起闭眼入大众9X",
+        "onboard_time": 1774879704,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 53986,
+        "num": 53986,
+        "word": "陈飞宇 篮球和迪丽热巴",
+        "onboard_time": 1774883965,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53769,
+        "num": 53769,
+        "word": "美军兵分三路集结中东",
+        "onboard_time": 1774878624,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52771,
+        "num": 52771,
+        "word": "油价突然飙升",
+        "onboard_time": 1774876584,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48681,
+        "num": 48681,
+        "word": "伊朗指责以色列打击科威特海水淡化设施",
+        "onboard_time": 1774874063,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47796,
+        "num": 47796,
+        "word": "张雪机车一战封神",
+        "onboard_time": 1774914982,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加首都义务植树#"
+    }
+  }
+}

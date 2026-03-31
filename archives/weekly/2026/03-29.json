@@ -1,6 +1,6 @@
 {
   "startTime": 1774716237167,
-  "endTime": 1774914249456,
+  "endTime": 1774915233346,
   "band_list": [
     {
       "raw_hot": 24486995,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2497720,
-      "num": 219134,
+      "num": 235352,
       "word": "单依纯演唱会退票",
       "onboard_time": 1774883184,
       "rank": 40,
@@ -467,6 +467,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 498162,
+      "num": 871930,
+      "word": "网友买安眠药后收到注销驾驶证短信",
+      "onboard_time": 1774886182,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 491612,
+      "num": 201471,
+      "word": "田曦薇晒与张凌赫头纱合照",
+      "onboard_time": 1774912580,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487530,
       "num": 487530,
       "word": "迪丽热巴陈飞宇同框被吐槽有年龄感",
@@ -547,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 444056,
-      "num": 754641,
-      "word": "网友买安眠药后收到注销驾驶证短信",
-      "onboard_time": 1774886182,
-      "rank": 4,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 443679,
       "num": 936064,
       "word": "迪丽热巴演技",
@@ -585,14 +593,6 @@
       "onboard_time": 1774839085,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 421789,
-      "num": 167128,
-      "word": "田曦薇晒与张凌赫头纱合照",
-      "onboard_time": 1774912580,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 419885,
@@ -755,12 +755,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334127,
+      "num": 334127,
+      "word": "身份证有效期和年龄有关",
+      "onboard_time": 1774913781,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 332040,
       "num": 1053126,
       "word": "中国将在长江水下开高铁",
       "onboard_time": 1774790608,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 331398,
+      "num": 198429,
+      "word": "汪峰 旭日阳刚",
+      "onboard_time": 1774913720,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 328327,
+      "num": 328327,
+      "word": "茅台发布重大事项公告",
+      "onboard_time": 1774912098,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 327865,
@@ -923,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290691,
+      "num": 290691,
+      "word": "央视调查烧秸秆屡禁不止",
+      "onboard_time": 1774883724,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289557,
       "num": 761067,
       "word": "夫妻房产留给长子长孙遭两女儿反对",
@@ -953,14 +985,6 @@
       "onboard_time": 1774848865,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 284492,
-      "num": 284492,
-      "word": "央视调查烧秸秆屡禁不止",
-      "onboard_time": 1774883724,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284060,
@@ -1057,14 +1081,6 @@
       "onboard_time": 1774835664,
       "rank": 4,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 271198,
-      "num": 271198,
-      "word": "茅台发布重大事项公告",
-      "onboard_time": 1774912098,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 270893,
@@ -1347,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235039,
+      "num": 142794,
+      "word": "严浩翔高会更新",
+      "onboard_time": 1774913781,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234090,
       "num": 267386,
       "word": "日本反复挑战中国底线",
@@ -1452,7 +1476,7 @@
     },
     {
       "raw_hot": 224569,
-      "num": 166577,
+      "num": 210463,
       "word": "女子在泳池被猥亵求助安全员未果",
       "onboard_time": 1774890199,
       "rank": 21,
@@ -1809,6 +1833,14 @@
       "onboard_time": 1774837645,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183933,
+      "num": 135025,
+      "word": "利比控诉环球音乐侵权",
+      "onboard_time": 1774895295,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 183529,
@@ -2179,14 +2211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147457,
-      "num": 135025,
-      "word": "利比控诉环球音乐侵权",
-      "onboard_time": 1774895295,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 145995,
       "num": 143401,
       "word": "李维嘉和何老师吵架的原因",
@@ -2331,6 +2355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138379,
+      "num": 114960,
+      "word": "李荣浩杨丞琳相爱11年结婚6年",
+      "onboard_time": 1774913901,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137861,
       "num": 506541,
       "word": "伊朗称波斯湾鲨鱼正等待美国军人",
@@ -2412,7 +2444,7 @@
     },
     {
       "raw_hot": 132840,
-      "num": 73395,
+      "num": 88379,
       "word": "檀健次说只能唱一句再唱就要版权",
       "onboard_time": 1774887802,
       "rank": 20,
@@ -2604,7 +2636,7 @@
     },
     {
       "raw_hot": 123646,
-      "num": 99712,
+      "num": 109690,
       "word": "东鹏特饮押宝张雪机车赢麻了",
       "onboard_time": 1774887562,
       "rank": 14,
@@ -3083,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105519,
+      "num": 105519,
+      "word": "粉丝称黄霄雲侵权华晨宇",
+      "onboard_time": 1774881805,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105497,
       "num": 105497,
       "word": "女生被14岁男同学杀害全家停摆",
@@ -3339,14 +3379,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97487,
-      "num": 97487,
-      "word": "严浩翔高会更新",
-      "onboard_time": 1774913781,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97409,
       "num": 97409,
       "word": "迪丽热巴美式白开水妆",
@@ -3465,6 +3497,14 @@
       "onboard_time": 1774793851,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93994,
+      "num": 93994,
+      "word": "国行版苹果AI",
+      "onboard_time": 1774914500,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 93964,
@@ -3819,14 +3859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86468,
-      "num": 82543,
-      "word": "李荣浩杨丞琳相爱11年结婚6年",
-      "onboard_time": 1774913901,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85990,
       "num": 502237,
       "word": "keria冠军皮肤萨勒芬妮",
@@ -3953,14 +3985,6 @@
       "onboard_time": 1774881146,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84211,
-      "num": 84211,
-      "word": "身份证有效期和年龄有关",
-      "onboard_time": 1774913781,
-      "rank": 25,
-      "category": "科学科普"
     },
     {
       "raw_hot": 84185,
@@ -4323,14 +4347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78410,
-      "num": 78410,
-      "word": "粉丝称黄霄雲侵权华晨宇",
-      "onboard_time": 1774881805,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78212,
       "num": 112074,
       "word": "伊朗海空联合打击美以多个目标",
@@ -4361,6 +4377,14 @@
       "onboard_time": 1774760961,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 77824,
+      "num": 77824,
+      "word": "内存条一天一个价商家直呼亏麻了",
+      "onboard_time": 1774914320,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77822,
@@ -4755,14 +4779,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 69469,
-      "num": 69469,
-      "word": "汪峰 旭日阳刚",
-      "onboard_time": 1774913720,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69049,
       "num": 70382,
       "word": "李昌钰再婚妻子发文缅怀李昌钰",
@@ -4865,6 +4881,14 @@
       "onboard_time": 1774707801,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 66672,
+      "num": 66672,
+      "word": "多所高校调整师范专业招生规模",
+      "onboard_time": 1774914320,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 66403,
@@ -4977,6 +5001,14 @@
       "onboard_time": 1774713682,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63411,
+      "num": 63411,
+      "word": "版权元年",
+      "onboard_time": 1774913060,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 63341,
@@ -5123,6 +5155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59721,
+      "num": 59721,
+      "word": "黄金升破4580美元",
+      "onboard_time": 1774913299,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 58919,
       "num": 727833,
       "word": "洛克王国玩鸣式梗",
@@ -5137,6 +5177,14 @@
       "onboard_time": 1774777528,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58845,
+      "num": 72093,
+      "word": "邱少云牺牲前把鞋后面全蹬烂了",
+      "onboard_time": 1774890318,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58377,
@@ -5219,14 +5267,6 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 55619,
-      "num": 55619,
-      "word": "版权元年",
-      "onboard_time": 1774913060,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 55127,
       "num": 55127,
       "word": "陈飞宇 篮球和迪丽热巴",
@@ -5307,20 +5347,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 52535,
-      "num": 52535,
-      "word": "黄金升破4580美元",
-      "onboard_time": 1774913299,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 52039,
       "num": 285744,
       "word": "特朗普因伊朗战事陷入四重困境",
       "onboard_time": 1774828524,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50905,
+      "num": 672408,
+      "word": "战友背起邱少云遗骨想带他回家",
+      "onboard_time": 1774889899,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50429,
@@ -5395,6 +5435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47796,
+      "num": 47796,
+      "word": "张雪机车一战封神",
+      "onboard_time": 1774914982,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47516,
       "num": 54607,
       "word": "Sora每天烧掉1500万美元",
@@ -5411,28 +5459,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 46047,
-      "num": 72093,
-      "word": "邱少云牺牲前把鞋后面全蹬烂了",
-      "onboard_time": 1774890318,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45476,
       "num": 82144,
       "word": "时代少年团奔跑吧凌晨下班",
       "onboard_time": 1774740437,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45307,
-      "num": 590437,
-      "word": "战友背起邱少云遗骨想带他回家",
-      "onboard_time": 1774889899,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44728,
@@ -5945,6 +5977,14 @@
       "onboard_time": 1774897035,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17194,
+      "num": 64519,
+      "word": "李子柒纪录片备案",
+      "onboard_time": 1774915042,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 17167,
